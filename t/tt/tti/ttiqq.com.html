@@ -1,0 +1,638 @@
+<!--The following is the downloaded HTML source of the ttiqq.com privacy policy that was archived on 2007-05-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070508230433id_/http%3A//www.ttiqq.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">	
+	
+
+		
+    <meta name="description" content="TTiqq - Online Source for Tips and Tricks">		
+		<meta name="keywords" content="TTiqq, Tips, Tricks">
+		<meta name="Language" content="en-us">
+		<meta name="Robots" content="All">
+		
+
+	
+	<link rel="stylesheet" type="text/css" href="/templates/yget/css/main.css.php" media="screen">
+	
+	<!--[if gte IE 6]>
+	<style type="text/css" media="screen">	
+	#category_rss { display:none }
+	</style>	
+	<![endif]-->
+	
+	
+  
+		<script src="/modules/scriptaculous/js/prototype.js.gz" type="text/javascript"></script><script src="/modules/scriptaculous/js/scriptaculous.js.gz" type="text/javascript"></script><script src="/modules/scriptaculous/js/effects.js.gz" type="text/javascript"></script>  
+  
+	<link rel="stylesheet" href="/modules/lightbox/css/leightbox_screen.css" media="screen,projection" type="text/css">
+	<script type="text/javascript" src="/modules/lightbox/js/lightbox.js.gz"></script>
+		
+  		
+		
+				
+	<script src="/3rdparty/speller/spellChecker.js.gz" type="text/javascript"></script>
+	
+	<script language="javascript" type="text/javascript">
+		 function openSpellChecker(commentarea) {
+			   var txt = document.getElementById(commentarea);
+			   var speller = new spellChecker( txt );
+			   speller.openChecker();
+			}
+	</script>
+	
+	  	
+	
+	
+	
+	<script type="text/javascript">
+	/***********************************************************************************************
+	
+	Copyright (c) 2005 - Alf Magne Kalleland post@dhtmlgoodies.com
+	
+	Get this and other scripts at www.dhtmlgoodies.com
+	
+	You can use this script freely as long as this copyright message is kept intact.
+	
+	***********************************************************************************************/
+	var menuAlignment = 'left';	// Align menu to the left or right?	
+	var topMenuSpacer = 15; // Horizontal space(pixels) between the main menu items	
+	var activateSubOnClick = false; // if true-> Show sub menu items on click, if false, show submenu items onmouseover
+	var leftAlignSubItems = true; 	// left align sub items t
+	
+	var activeMenuItem = false;	// Don't change this option. It should initially be false
+	var activeTabIndex = 0;	// Index of initial active tab	(0 = first tab) - If the value below is set to true, it will override this one.
+	var rememberActiveTabByCookie = true;	// Set it to true if you want to be able to save active tab as cookie
+	
+	var MSIE = navigator.userAgent.indexOf('MSIE')>=0?true:false;
+	var Opera = navigator.userAgent.indexOf('Opera')>=0?true:false;
+	var navigatorVersion = navigator.appVersion.replace(/.*?MSIE ([0-9]\.[0-9]).*/g,'$1')/1;
+		
+	/*
+	These cookie functions are downloaded from 
+	http://www.mach5.com/support/analyzer/manual/html/General/CookiesJavaScript.htm
+	*/	
+	function Get_Cookie(name) { 
+	   var start = document.cookie.indexOf(name+"="); 
+	   var len = start+name.length+1; 
+	   if ((!start) && (name != document.cookie.substring(0,name.length))) return null; 
+	   if (start == -1) return null; 
+	   var end = document.cookie.indexOf(";",len); 
+	   if (end == -1) end = document.cookie.length; 
+	   return unescape(document.cookie.substring(len,end)); 
+	} 
+	// This function has been slightly modified
+	function Set_Cookie(name,value,expires,path,domain,secure) { 
+		expires = expires * 60*60*24*1000;
+		var today = new Date();
+		var expires_date = new Date( today.getTime() + (expires) );
+	    var cookieString = name + "=" +escape(value) + 
+	       ( (expires) ? ";expires=" + expires_date.toGMTString() : "") + 
+	       ( (path) ? ";path=" + path : "") + 
+	       ( (domain) ? ";domain=" + domain : "") + 
+	       ( (secure) ? ";secure" : ""); 
+	    document.cookie = cookieString; 
+	}	
+	
+	function showHide()
+	{
+		if(activeMenuItem){
+			activeMenuItem.className = 'inactiveMenuItem'; 	
+			var theId = activeMenuItem.id.replace(/[^0-9]/g,'');
+			document.getElementById('submenu_'+theId).style.display='none';
+			var img = activeMenuItem.getElementsByTagName('IMG');
+			if(img.length>0)img[0].style.display='none';			
+		}
+
+		var img = this.getElementsByTagName('IMG');
+		if(img.length>0)img[0].style.display='inline';
+				
+		activeMenuItem = this;		
+		this.className = 'activeMenuItem';
+		var theId = this.id.replace(/[^0-9]/g,'');
+		document.getElementById('submenu_'+theId).style.display='block';
+		
+
+				
+		if(rememberActiveTabByCookie){
+			Set_Cookie('dhtmlgoodies_tab_menu_tabIndex','index: ' + (theId-1),100);
+		}
+	}
+	
+	function initMenu()
+	{
+		var mainMenuObj = document.getElementById('mainMenu');
+		var menuItems = mainMenuObj.getElementsByTagName('A');
+		if(document.all){
+			mainMenuObj.style.visibility = 'hidden';
+			document.getElementById('submenu').style.visibility='hidden';
+		}		
+		if(rememberActiveTabByCookie){
+			var cookieValue = Get_Cookie('dhtmlgoodies_tab_menu_tabIndex') + '';
+			cookieValue = cookieValue.replace(/[^0-9]/g,'');
+			if(cookieValue.length>0 && cookieValue<menuItems.length){
+				activeTabIndex = cookieValue/1;
+			}			
+		}
+		
+		var currentLeftPos = 15;
+		for(var no=0;no<menuItems.length;no++){			
+			if(activateSubOnClick)menuItems[no].onclick = showHide; else menuItems[no].onmouseover = showHide;
+			menuItems[no].id = 'mainMenuItem' + (no+1);
+			if(menuAlignment=='left')
+				menuItems[no].style.left = currentLeftPos + 'px';
+			else
+				menuItems[no].style.right = currentLeftPos + 'px';
+				
+			currentLeftPos = currentLeftPos + menuItems[no].offsetWidth + topMenuSpacer; 
+			
+			var img = menuItems[no].getElementsByTagName('IMG');
+			if(img.length>0){
+				img[0].style.display='none';
+				if(MSIE && !Opera){
+					img[0].style.bottom = '-1px';
+					img[0].style.right = '-1px';
+				}
+			}
+						
+			if(no==activeTabIndex){
+				menuItems[no].className='activeMenuItem';
+				activeMenuItem = menuItems[no];
+				var img = activeMenuItem.getElementsByTagName('IMG');
+				if(img.length>0)img[0].style.display='inline';	
+							
+			}else menuItems[no].className='inactiveMenuItem';
+			if(!document.all)menuItems[no].style.bottom = '-1px';
+			if(MSIE && navigatorVersion < 6)menuItems[no].style.bottom = '-2px';
+			
+
+		}		
+		
+		var mainMenuLinks = mainMenuObj.getElementsByTagName('A');
+		
+		var subCounter = 1;
+		var parentWidth = mainMenuObj.offsetWidth;
+		while(document.getElementById('submenu_' + subCounter)){
+			var subItem = document.getElementById('submenu_' + subCounter);
+			
+			if(leftAlignSubItems){
+				// No action
+			}else{							
+				var leftPos = mainMenuLinks[subCounter-1].offsetLeft;
+				document.getElementById('submenu_'+subCounter).style.paddingLeft =  leftPos + 'px';
+				subItem.style.position ='absolute';
+				if(subItem.offsetWidth > parentWidth){
+					leftPos = leftPos - Math.max(0,subItem.offsetWidth-parentWidth); 	
+				}
+				subItem.style.paddingLeft =  leftPos + 'px';
+				subItem.style.position ='static';
+					
+				
+			}
+			if(subCounter==(activeTabIndex+1)){
+				subItem.style.display='block';
+			}else{
+				subItem.style.display='none';
+			}
+			
+			subCounter++;
+		}
+		if(document.all){
+			mainMenuObj.style.visibility = 'visible';
+			document.getElementById('submenu').style.visibility='visible';
+		}		
+		document.getElementById('submenu').style.display='block';
+	}
+
+	</script>
+	
+	
+		
+	<title>TTiqq.com Version 0.5</title>
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.ttiqq.com/rss.php">
+	<link rel="icon" href="/favicon.ico" type="image/x-icon">
+	<script src="/js/jspath.php" type="text/javascript"></script>
+	<script src="/js/xmlhttp.php" type="text/javascript"></script>
+	
+</head>
+	<body>
+	
+		<div id="wrap">
+		
+			<div id="header">
+				
+
+<div id="headbar">
+    <span id="hlink"><a href="http://www.ttiqq.com">l</a></span>
+    <span id="welcome">
+           </span>
+    <ul id="hnav">
+      <ul>
+              <li><a href="/register">Join TTiqq</a></li>
+        <li><a href="/login.php?return=/privacy">Login</a></li>
+            <li><a href="/about/en">FAQ</a></li>
+      </ul>
+    </ul>
+</div>
+
+<div id="thmm">
+<ul class="search2">
+	<form action="http://www.ttiqq.com/search.php" method="get" name="thisform" id="thisform">
+								
+				<input type="text" size="13" name="search" id="searchsite" value="Search.." onfocus="if(this.value == 'Search..') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search..';}">
+	</form>
+</ul>
+</div>
+
+<div id="headbar2">
+          
+   <ul id="mainMenu">
+    <ul>
+	     <a href="http://www.ttiqq.com" id="mainMenuItem1" class="activeMenuItem" style="left: 15px; bottom: -1px;">All</a>
+       <a href="/category/Technology" id="mainMenuItem2" class="inactiveMenuItem" style="left: 57px; bottom: -1px;">Technology</a>
+       <a href="/category/Sports" id="mainMenuItem3" class="inactiveMenuItem" style="left: 163px; bottom: -1px;">Sports</a>
+       <a href="/category/PerformingArts" id="mainMenuItem4" class="inactiveMenuItem" style="left: 233px; bottom: -1px;">Performing Arts</a>
+       <a href="/category/Home" id="mainMenuItem5" class="inactiveMenuItem" style="left: 370px; bottom: -1px;">Home</a>
+       <a href="/category/Health" id="mainMenuItem6" class="inactiveMenuItem" style="left: 434px; bottom: -1px;">Health</a>
+       <a href="/category/Finance" id="mainMenuItem7" class="inactiveMenuItem" style="left: 503px; bottom: -1px;">Finance</a>
+       <a href="/category/Miscellaneous" id="mainMenuItem8" class="inactiveMenuItem" style="left: 583px; bottom: -1px;">Miscellaneous</a>
+  	</ul>
+   </ul>
+  <div id="submenu" style="display: block;">
+  	<!-- The first sub menu -->
+  	<div id="submenu_1" style="display: block;">
+  	 <a href="#">&nbsp;</a>
+  	</div>
+    <div id="submenu_2" style="display: none;">
+	    <a href="/category/Computers">Computers</a>
+		  <a href="/category/Gadgets">Gadgets</a>
+		  <a href="/category/Software">Software</a>
+		  <a href="/category/Games">Games</a>
+		  <a href="/category/Communications">Communications</a>
+		  <a href="/category/Internet">Internet</a>
+		  <a href="/category/Hardware">Hardware</a>
+		  <a href="/category/AudioVideo">Audio-Video</a>
+  	</div>
+  	<!-- Second sub menu -->
+  	<div id="submenu_3" style="display: none;">
+  	  <a href="/category/Motor">Motor</a>
+  	  <a href="/category/Outdoor">Outdoor</a>
+      <a href="/category/Combat">Combat</a>
+		  <a href="/category/Court">Court</a>
+		  <a href="/category/Field">Field</a>
+		  <a href="/category/Water">Water</a>	  
+  	</div>
+  	<!-- Third sub menu -->
+  	<div id="submenu_4" style="display: none;">
+		  <a href="/category/Comedy">Comedy</a>
+		  <a href="/category/Music">Music</a>
+		  <a href="/category/Dance">Dance</a>
+		  <a href="/category/Acting">Acting</a>
+  	</div>
+  	<!-- Fourth sub menu -->
+  	<div id="submenu_5" style="display: none;">
+		  <a href="/category/Gardening">Gardening</a>
+		  <a href="/category/Maintenance">Maintenance</a>
+      <a href="/category/Landscaping">Landscaping</a>
+      <a href="/category/Decorating">Decorating</a>  
+      <a href="/category/Housekeeping">Housekeeping</a>  	
+    </div>
+  	<div id="submenu_6" style="display: none;">
+  		<a href="/category/Mental">Mental</a>
+  		<a href="/category/Reproductive">Reproductive</a>
+  		<a href="/category/Beauty">Beauty</a>
+  		<a href="/category/Treatments">Treatments</a>
+  		<a href="/category/FitnessDiet">Fitness-Diet</a>
+  	</div>
+  	  	<div id="submenu_7" style="display: none;">
+		  <a href="/category/Tax">Tax</a>
+		  <a href="/category/Banking">Banking</a>
+		  <a href="/category/Planning">Planning</a>
+      <a href="/category/RealEstate">Real Estate</a>
+		  <a href="/category/Insurance">Insurance</a>
+		  <a href="/category/Investing">Investing</a>
+  	</div>
+  	<div id="submenu_8" style="display: none;">
+  	  <a href="/category/Education">Education</a>
+  		<a href="/category/Travel">Travel</a>
+  		<a href="/category/Auto">Auto</a>
+  		<a href="/category/Business">Business</a>
+  		<a href="/category/Shopping">Shopping</a>
+  		<a href="/category/Food">Food</a>
+  		<a href="/category/Career">Career</a>
+  		<a href="/category/Social">Social</a>
+  	</div>
+  </div>
+</div>
+
+<script type="text/javascript">
+initMenu();
+</script>
+
+<div id="adBar" align="center" valign="middle">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7110603792281387";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text_image";
+//2007-03-08: ttiqq.com/index.php, ttiqq.com/user.php
+google_ad_channel = "6772704307+1321789650";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "101AA7";
+google_color_text = "000000";
+google_color_url = "101AA7";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+
+<div id="links">
+  			 <a href="/live" class="navbut3"> View Live Posts</a>		<a href="/topusers" class="navbut3"> View Top users</a>
+		<a href="/tagcloud" class="navbut3"> View Tag cloud</a>		<br>
+<div id="adBar2">
+  		<script type="text/javascript"><!--
+  google_ad_client = "pub-7110603792281387";
+  google_ad_width = 120;
+  google_ad_height = 600;
+  google_ad_format = "120x600_as";
+  google_ad_type = "text_image";
+  //2007-03-09: ttiqq.com/index.php, ttiqq.com/user.php
+  google_ad_channel = "6772704307+1321789650";
+  google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_link = "101AA7";
+  google_color_text = "000000";
+  google_color_url = "101AA7";
+  //--></script>
+  <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+  </script>
+</div>
+</div>
+
+
+
+<div id="cab">
+	<ul class="postin">
+			    	<li><a href="http://www.ttiqq.com" class="navbut3"><span>Published Posts</span></a></li>
+		    <li><a href="/upcoming" class="navbut3"><span>Upcoming Posts</span></a></li>
+		    <li><a href="/submit" class="navbut3"><span>Submit a new post</span></a></li>   
+			</ul>
+</div>
+
+<div id="navbar">
+	    <ul>
+  		<a href="http://www.ttiqq.com">&nbsp;</a>   	
+  	</ul> 
+  	<ul id="sortsLeft">
+  	     	               <a href="/rss" target="_blank"><img src="/templates/yget/images/rss.gif"></a>
+                  All
+  	       </ul>		 	   
+  	<ul id="sorts">
+  		  			  			<strong>Sort posts by:</strong>
+  			Recently Published | 
+  			<a href="/index/today/">Top Today</a> | 
+  			<a href="/index/yesterday/">Yesterday</a> | 
+  			<a href="/index/week/">Week</a> | 
+  			<a href="/index/month/">Month</a> |
+        <a href="/index/year/">Year</a>  
+  		    			
+  				
+  	</ul>
+  	
+</div>			</div><!-- header end -->
+			
+			<div id="content-wrap2">
+  			  
+				<div id="sidebar">
+					
+ 
+	
+<div class="featurebox">
+	
+<div class="tlb">
+	<span><a onclick="new Effect.toggle('s1','blind', {queue: 'end'}); "> <img src="/templates/yget/images/expand.png"></a></span>	<a href="/about/en">What is TTiqq?</a>
+</div>
+
+<div id="s1">
+	<div class="tog">TTiqq is <strong>THE</strong> online source for tips and tricks. Find that hard to believe?</div>
+	<div class="lmore" style="margin-left:105px;"><a href="/about/en"><strong>Read More</strong></a></div>
+</div></div>
+ 
+ 
+ 
+	
+<div id="logtab" class="featurebox">
+	<div class="tlb">
+		<span><a onclick="new Effect.toggle('s3','blind', {queue: 'end'}); "> <img src="/templates/yget/images/expand.png"></a></span>		<a href="/login.php?return=/privacy">Login</a>
+	</div>
+	
+	<div id="s3">
+		<a name="\&quot;log_reg_box\&quot;"></a>
+		<form action="/login.php?return=/privacy" method="post"> 
+			Username:<br><input type="text" name="username" class="login" value=""><br>
+			Password:<br><input type="password" name="password" class="login"><br>
+			<input type="hidden" name="processlogin" value="1">
+			<input type="hidden" name="return" value="">
+			Remember: <input type="checkbox" name="persistent">
+			<input type="submit" value="Login" class="submit-s">
+		</form>
+		<div class="lmore"><a href="/register"><strong>Join TTiqq</strong></a></div>
+	</div>
+</div>
+ 
+
+<div class="featurebox">
+	
+
+	<div class="tlb"><span><a onclick="new Effect.toggle('sstop','blind', {queue: 'end'}); ">  <img src="http://www.ttiqq.com/templates/yget/images/expand.png"></a></span><a href="http://www.ttiqq.com">Top Today</a></div><div id="sstop" style="padding-bottom:5px"></div></div>
+
+<div class="featurebox">
+	
+
+	<div class="tlb"><span><a onclick="new Effect.toggle('ssstories','blind', {queue: 'end'}); "> <img src="http://www.ttiqq.com/templates/yget/images/expand.png"></a></span><a href="http://www.ttiqq.com">Published Posts</a></div><div id="ssstories" style="padding-bottom:5px">
+
+<div class="sstories">
+  <span class="count_total">7</span>
+</div>
+<a href="/Software/How-to-resize-partition-in-Windows-Vista/" class="switchurl">How to resize a partition in Windows Vista</a>
+
+<div class="sstories">
+  <span class="count_total">9</span>
+</div>
+<a href="/Education/77-Ways-to-Learn-Faster-Deeper-Better/" class="switchurl">77 Ways to Learn Faster, Deeper, and Better</a>
+
+<div class="sstories">
+  <span class="count_total">6</span>
+</div>
+<a href="/Food/Building-Perfect-PBJ-Sandwich-1/" class="switchurl">Building the Perfect PBJ Sandwich</a>
+
+<div class="sstories">
+  <span class="count_total">7</span>
+</div>
+<a href="/Games/How-to-defend-yourself-from-attacking-army-Game/" class="switchurl">How to defend yourself from an attacking army (Game)</a>
+
+<div class="sstories">
+  <span class="count_total">7</span>
+</div>
+<a href="/Miscellaneous/How-To-Open-Pop-top-Beer-Bottle-With-Piece-Paper/" class="switchurl">How To Open A Pop-top Beer Bottle With A Piece Of Paper</a></div></div>
+
+<div class="featurebox">
+	
+
+	<div class="tlb"><span><a onclick="new Effect.toggle('latcomments','blind', {queue: 'end'}); ">  <img src="http://www.ttiqq.com/templates/yget/images/expand.png"></a></span><a href="/comments">Latest Comments</a></div><div id="latcomments" class="switchurl"><div style="border-bottom:1px solid #4950AD;padding:3px 3px 3px 0px"><a href="/story/161#c38">i didn't!...</a><br></div><div style="border-bottom:1px solid #4950AD;padding:3px 3px 3px 0px"><a href="/story/151#c37">Like I need a guide to tell me how to make a PBJ......</a><br></div><div style="border-bottom:1px solid #4950AD;padding:3px 3px 3px 0px"><a href="/story/167#c36">I hear yah man. Sure wish toronto had a beach to surf at...</a><br></div><div style="border-bottom:1px solid #4950AD;padding:3px 3px 3px 0px"><a href="/story/161#c35">I sure hope nobody spent their money buying vista haha...</a><br></div><div style="border-bottom:1px solid #4950AD;padding:3px 3px 3px 0px"><a href="/story/167#c34">I wish I lived close to a place to surf...</a><br></div><div class="lmore" style="margin-left:105px;"><a href="/comments"><strong>Read More</strong></a></div></div></div>
+ 
+<div class="featurebox">
+	
+
+
+<div class="tlb"><span><a onclick="new Effect.toggle('s2','blind', {queue: 'end'}); ">  <img src="/templates/yget/images/expand.png"></a></span><a href="/tagcloud">Top 5 Tags</a>
+
+</div>
+<div id="s2" style="margin: 5px 0 0 0; line-height: 15pt;">
+		
+		
+			<span style="font-size: 10.571428571429pt">
+				<a href="/tag/alcohol">alcohol</a>
+			</span>
+		
+		
+		
+		
+			<span style="font-size: 10.571428571429pt">
+				<a href="/tag/cell">cell</a>
+			</span>
+		
+		
+		
+		
+			<span style="font-size: 17pt">
+				<a href="/tag/dating">dating</a>
+			</span>
+		
+		
+		
+		
+			<span style="font-size: 11.857142857143pt">
+				<a href="/tag/vista">vista</a>
+			</span>
+		
+		
+		
+		
+			<span style="font-size: 11.857142857143pt">
+				<a href="/tag/windows">windows</a>
+			</span>
+		
+		
+		 <div class="lmore" style="margin-left:105px;"><a href="/tagcloud"><strong>Read More</strong></a></div>
+</div>
+</div> 
+
+<div class="featurebox">
+	
+<div class="tlb">
+<span><a onclick="new Effect.toggle('sr','blind', {queue: 'end'}); ">  <img src="/templates/yget/images/expand.png"></a></span>	<a href="#">RSS feeds</a>
+</div>
+<div id="sr" style="padding-bottom:5px;">
+	<ul id="nav-rss">
+		<li><a href="" target="_blank">Published Posts</a></li>
+		<li><a href="" target="_blank">Upcoming Posts</a></li>
+		<li><a href="" target="_blank">All</a></li>	
+  </ul>
+  </div>
+</div>				</div><!-- sidebar end -->
+					
+										<div id="contentbox">
+										
+          	<div id="inside">
+														
+
+</div>
+<h2><strong>Privacy Policy</strong></h2>
+<div id="contents">
+  <ol>
+  
+  <strong>Effective Date of this Privacy Policy: March 28, 2007</strong>
+  <br>
+  <br> 
+Here at TTiqq, we recognize that you care a great deal about privacy. This policy applies to all services offered through TTiqq. It does not apply to the practices of 3rd parties that TTiqq does not own or control, or to individuals that are not employed or managed by TTiqq. 
+<br><br>
+This policy is designed to help you understand how we collect and use the personal information you provide, and assist you to make informed decisions when accessing the TTiqq site and service.
+<br><br>
+By accessing the TTiqq site and service, you are accepting the practices outlined in this policy. <br>
+    <br>
+
+<strong>Information collected by TTiqq.</strong> TTiqq was built with the intention of providing you an outlet to share your interests with friends and people around you. Personal information, that is relevant to the purpose of our site and service, is collected as a means to provide you with a personalized experience. TTiqq will ask for your consent prior to using such information in a manner different than the purpose for which it was collected. When you visit TTiqq, you provide us with two types of information: personal information you willingly choose to disclose that is collected by us, and information collected by us as you interact with our Web Site.<br>
+<br>
+1. Personal information you disclose:
+<br>When you sign up for a TTiqq user account, you provide us with specific personal information, such as your username, your email address, and an account password. If you opt not to provide such information, you will not be able to take advantage of features available only to registered users. Registered users can access, modify, and/or delete any incorrect personal information on our website by logging in and accessing their member profile page. As stated in the Terms and Conditions, TTiqq cannot control the actions of other users of the site, with whom you may choose to share your information. Therefore, there is no guarantee that information you post on the site will not be viewed by unauthorized individuals. TTiqq is not responsible for circumvention of any privacy settings or security measures contained on the site. You acknowledge that even after removal, copies of information may remain viewable if other users have copied or stored it, or viewed through cached and archived pages. You may request to have your TTiqq account deleted by emailing us at support@ttiqq.com.
+<br><br>
+2. Information we extract:
+<br>
+When you access the TTiqq site and/or service, we collect certain information, not only from you, but from all TTiqq visitors. Our servers automatically record information that your browser sends whenever you visit the TTiqq site, such as: browser type, browser language, IP address, page requests, date and time of requests, and data from "cookies". A cookie is a piece of data stored on the user's computer tied to information about the user. We use session ID cookies to confirm that users are logged in. These cookies terminate once the user closes the browser. In most cases, browsers are set by default to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Additionally, as you interact with the TTiqq site and service, we record your activities, such as posts that you have ttuqq, submitted, commented on, as well as friends you have added to your list. This information is publicly available through your member profile, to all registered TTiqq users. It is also possible to add additional personal information to your member profile. Any changes made to your profile will be visible to all registered TTiqq users. TTiqq also allows for the RSS syndication of all of its public content within the site. The information we collect from you is used as a resource to assist TTiqq in administering the website, diagnosing problems, and analyzing trends to develop new features.
+<br>
+<br>
+By using TTiqq, you are consenting to have your personal data transferred to and processed in Canada.
+
+<br>
+<br>
+<br><strong>Information Sharing.</strong> TTiqq only shares personal information with 3rd parties only in limited circumstances where: 1) we have obtained prior consent from you. Opt-in consent is mandatory for sharing of any sensitive personal information. 2) Business Use. We may have a need to provide such information to our affiliated companies, other trusted businesses, or individuals for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Policy and any other appropriate confidentiality and security measures. If TTiqq becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, user information would be transferred and subject to a different privacy policy. 3) Legal Requirements. Your personal information may be released when we have a good faith belief that release is necessary to satisfy any applicable law, legal process, regulation, enforceable governmental request, to enforce or apply our Terms and Conditions, to detect, prevent, or otherwise address fraud, security or technical issues, or to protect against harm to the property, rights, or safety of TTiqq, its employees, users or others. 
+<br>
+<br>
+<br><strong>Information Security.</strong> We restrict access to your sensitive personal information to employees who require it to operate, develop or improve TTiqq. Those that have access to your personal information are bound by confidentiality agreements and are kept up to date on our security and privacy practices.  
+<br>
+<br>
+<br><strong>Links.</strong> Due to the nature of our service, TTiqq may contain links to other websites. You acknowledge that TTiqq is not responsible in any way for the privacy practices of other web sites. We encourage you to be aware when you leave our site to read the privacy statements of each web site that collects personally identifiable information. This Privacy Policy applies solely to information collected by TTiqq.
+<br>
+<br>
+<br><strong>Children Under Age 13.</strong> As stated in the Terms and Conditions, access to TTiqq is strictly prohibited for individuals under the age of 13. TTiqq does not knowingly collect personal information from any individual under the age of 13. If there is an occurrence where we have learned that we have collected personal information from a child under age 13, that information will be quickly disposed. Please contact us at support@ttiqq.com should you believe that we might have any information from or about an individual under age 13.
+<br>
+<br>
+<br><strong>Revisions.</strong> Upon your visit to the TTiqq site, you acknowledge and consent to practices of this privacy policy. Any possible dispute over privacy is subject to this Privacy Policy and our Terms and Conditions. We reserve the right to modify our Privacy Policy at any time. Changes will take effect immediately. For this reason, we encourge you to refer to this policy on an ongoing basis so that you understand our current privacy policy. 
+</ol>
+</div>													</div><!-- inside end -->
+						
+					</div><!-- contentbox end -->
+				
+			</div><!-- content-wrap end --> 
+		       	
+		<!-- wrap end -->
+
+		
+<br clear="all">
+
+<div class="footer">
+<center>
+<script type="text/javascript"><!--
+google_ad_client = "pub-7110603792281387";
+google_ad_width = 728;
+google_ad_height = 15;
+google_ad_format = "728x15_0ads_al_s";
+//2007-04-01: ttiqq.com/index.php, ttiqq.com/story.php
+google_ad_channel = "6772704307+7980966739";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "101AA7";
+google_color_text = "000000";
+google_color_url = "999999";
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<br>
+	<a href="/terms" ;}"="">Terms and Conditions</a> | <a href="/privacy" ;}"="">Privacy Policy</a> | <a href="mailto:feedback@ttiqq.com">Feedback</a>
+	<br>
+	TTiqq (C) 2007
+</center>
+</div>
+
+
+	<div id="view_message" class="leightbox">
+		<p></p>
+		<a href="#" class="lbAction" rel="deactivate"></a> <img src="/modules/messaging/images/cross.png" align="absmiddle">
+	</div>
+			
+	
+</body></html>
