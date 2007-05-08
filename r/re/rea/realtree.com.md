@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the realtree.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205233252id_/http%3A//www.realtree.com/about/privacy.tpl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtree.com privacy policy that was archived on 2007-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070508220920id_/http%3A//www.realtree.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Realtree.com
+# Realtree: Privacy
 
-* * *
-
-### Privacy Policy
+## PRIVACY POLICY
 
 At Realtree.com, we know how concerned you are with how information about you is used and shared, and we are glad that you trust us to handle your information responsibly. This notice explains our Privacy Policy. When you visit Realtree.com, you are accepting the terms and conditions of this policy.
 
@@ -20,9 +18,9 @@ Persons who supply us with their telephone numbers online may receive telephone 
 
 If you provide us with your credit card number, the credit card number is only used for purchasing Jordan Outdoor Enterprises Ltd. products, memberships, and any other services that may be offered by Jordan Outdoor Enterprises Ltd. If a credit card number is transmitted to Jordan Outdoor Enterprises Ltd. or its affiliates for the purchase of Jordan Outdoor Enterprises Ltd. products, memberships, or any other services offered by Jordan Outdoor Enterprises Ltd. such number is encrypted and verified through a reputable SSL when transmitted to Jordan Outdoor Enterprises Ltd. or its affiliates.
 
-#### "Cookies" and How We Use Them
+#### “Cookies” and How We Use Them
 
-We also receive and store certain types of information automatically when you interact with us. For example, like many other web sites, we use "cookies", and we obtain some information when your web browser accesses Realtree.com.
+We also receive and store certain types of information automatically when you interact with us. For example, like many other web sites, we use “cookies”, and we obtain some information when your web browser accesses Realtree.com.
 
 Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable our system to recognize your browser, and to provide certain other features.
 
