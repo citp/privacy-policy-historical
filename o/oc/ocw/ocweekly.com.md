@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ocweekly.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218121825id_/http%3A//www.ocweekly.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D8816%26Itemid%3D185) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocweekly.com privacy policy that was archived on 2007-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070509002038id_/http%3A//www.ocweekly.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D8816%26Itemid%3D185) for the most accurate reproduction.*
 
 # Orange County Weekly - Privacy Policy
 
