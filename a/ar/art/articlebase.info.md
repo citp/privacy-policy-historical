@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlebase.info privacy policy that was archived on 2006-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060829215734id_/http%3A//www.articlebase.info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlebase.info privacy policy that was archived on 2007-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070508194851id_/http%3A//www.articlebase.info/privacy.php) for the most accurate reproduction.*
 
 # ArticleBase
 
