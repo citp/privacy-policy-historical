@@ -1,35 +1,35 @@
-> *The following text is extracted and transformed from the smartmusic.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209231536id_/http%3A//www.makemusic.com/documents/smartmusic_privacy_statement.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartmusic.com privacy policy that was archived on 2007-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070508232022id_/http%3A//www.makemusic.com/documents/smartmusic_privacy_statement.pdf) for the most accurate reproduction.*
 
-# 
+# PRIVACY STATEMENT FOR ALL MAKEMUSIC’S WEBSITES
 
-                             PRIVACY STATEMENT FOR SMARTMUSIC.COM
+                      PRIVACY STATEMENT FOR ALL MAKEMUSIC’S WEBSITES
 PLEASE READ THIS PRIVACY STATEMENT CAREFULLY.
 MakeMusic, Inc. (the “Company”) has a strong commitment to protecting personal privacy. We will
 respect certain privacy principles regarding the personal information that you provide. The purpose of
-this Privacy Statement is to tell you what information we gather on this website, how we use the
+this Privacy Statement is to tell you what information we gather on these websites, how we use the
 information, and how we protect your privacy.
-This Privacy Statement applies only to the SmartMusic website, with a homepage located at
-www.smartmusic.com (the “Site” or “Website”). This Privacy Statement does not apply to any other
-websites, and you should review the privacy statements of other websites when you visit them. Also, this
-Privacy Statement does not apply to information we gather by mail, telephone, or other off-line methods.
-This Privacy Statement was last revised on September 19, 2005. We may change this Privacy Statement
-at any time and for any reason. We encourage you to look to this Privacy Statement each time you visit
-the Site. By using this Site, you agree to the terms of this Privacy Statement.
+This Privacy Statement applies to all Company websites, with homepages located at
+www.makemusic.com, www.smartmusic.com, and www.finalemusic.com, and all subsections under these
+homepages (the “Sites” or “Websites”). This Privacy Statement does not apply to information we gather
+by mail, telephone, or other off-line methods.
+This Privacy Statement was last revised on January 16, 2007. We may change this Privacy Statement at
+any time and for any reason. We encourage you to look to this Privacy Statement each time you visit the
+Site. By using this Site, you agree to the terms of this Privacy Statement.
 PROTECTING YOUR PRIVACY.
-The ways we protect and use information collected over this Website depends upon the type of
+The ways we protect and use information collected over these Websites depends upon the type of
 information involved. In general, personal information – information that tells us who you are – is used
 only for limited purposes and receives strong protection. Non-personal information – anonymous
 information that does not tell us who you are – is used for many purposes and shared with others, as
 described below.
 WHAT IS NON-PERSONAL INFORMATION?
-Each time a computer visits this Site to read or download information, we may collect certain information
-from that computer. This information is automatically collected from the computer’s web browser and
-may include information such as the following (“non-personal information”):
+Each time a computer visits these Sites to read or download information, we may collect certain
+information from that computer. This information is automatically collected from the computer’s web
+browser and may include information such as the following (“non-personal information”):
            -  the type of web browser software the computer uses (for example, Netscape Navigator or
               Internet Explorer)
-           -  the name of the Internet domain from which the computer accessed our Site.
-           -  the Internet address of the website from which the computer linked directly to our Site
-           -  the date and time the computer accessed our Site
+           -  the name of the Internet domain from which the computer accessed our Sites.
+           -  the Internet address of the website from which the computer linked directly to our Sites
+           -  the date and time the computer accessed our Sites
 Non-personal information does not tell us who you are.
 Also, we may place a text file called a cookie in the browser files of computers that visit this Site. Cookies
 are pieces of information issued by a website that, among other things, allow your computer to utilize all
@@ -37,85 +37,96 @@ the features on this Site. If and when your computer accepts a cookie, the cooki
 computer’s hard drive. The information that we collect using cookies is non-personal information.
 US Government Information Bulletin (I-034) contains a good description of cookie technology at:
 http://www.ciac.org/ciac/bulletins/i-034.shtml. You are always free to decline our cookies if your browser
-permits, but some parts of our Site may not work properly for you if you do so.
+permits, but some parts of our Sites may not work properly for you if you do so.
 WHAT DO WE DO WITH NON-PERSONAL INFORMATION?
-We will use non-personal information to help us make our Site more useful to visitors and for other
-business purposes. For example, we may tell business partners how many computers visited this Site or
+We will use non-personal information to help us make our Sites more useful to visitors and for other
+business purposes. For example, we may tell business partners how many computers visited these Sites
 
 
-what type of music exercises are most popular. Also, we may use the non-personal information in
-cookies to help us to personalize this Site according to the preferences you tell us, and make your visit a
-more convenient experience. We may prepare reports and other materials using non-personal
+or what type of music exercises are most popular. Also, we may use the non-personal information in
+cookies to help us to personalize these Sites according to the preferences you tell us, and make your visit
+a more convenient experience. We may prepare reports and other materials using non-personal
 information. Since these reports and materials contain no personal information, we may share them with
 others.
 WHAT IS PERSONAL INFORMATION?
-In the process of registering for a username and password, and in some other places on this Site, some
-visitors may have the chance to send us “personal information”. Personal information includes
-information that tells us specifically who a person is, such as a person’s name, telephone number, email
-address, payment and financial information, or home address.
+In the process of registering for a username and password, enrolling for a class (if applicable), and in
+some other places on these Sites, some visitors may have the chance to send us “personal information”.
+Personal information includes information that tells us specifically who a person is, such as a person’s
+name, telephone number, email address, payment and financial information, or home address.
 HOW DO WE COLLECT PERSONAL INFORMATION?
 The only way we learn or collect personal information online is if a visitor chooses to provide us with that
 information. For example, if you fill out a form to receive and pay for services through this website, you
-will tell us and we will learn your name and some other personal information about you.
-Under certain conditions another user may provide us with personal information about another website
-user. For example, a teacher may enter into the website a list of names of the students in the teachers’
-class.
+will tell us and we will learn your name and some other personal information about you. This information
+may be provided by the visitor directly if the visitor is 13 years old or older, or by the parent or legal
+guardian of a visitor under 13.
+Under certain conditions another user may provide us with personal information about another Website
+user. For example, a teacher or school administrator may enter into a Website a list of names of the
+students in the teachers’ class.
 HOW DO WE USE PERSONAL INFORMATION?
 If you submit personal information, you agree that we may keep a record of the personal information. For
 example, we may keep a record of your name and e-mail address in order to keep track of the username
 and password we assigned to you. We also may use personal information to help us in our business,
-including but not limited to improving this Site and marketing and product development. You also agree
-that we may share personal information with other businesses that help us with these activities. For
-example, if you pay for services by credit card, we will share your name with the credit card company,
-such as Visa or MasterCard, so that we can get paid. These other companies may not use or share your
-personal information with others except for the purpose of assisting us with our business activities
-pursuant to our request. Also, we may share personal information, such as an email address or mailing
-address, with advertisers, business partners, or other businesses. You agree that we may use your
-personal information to mail or email information to you about our products and services.
-We may also share personal information in connection with a sale of the Company, transfer of the
-Company, or if required to comply with a law, regulation, court order, or other legal process. We may
-share personal information to protect our rights or property.
+including but not limited to improving these Sites and marketing and product development. If you sign up
+to receive certain services or enroll in certain classes (if applicable), we may share your personal
+information, including information regarding your performance of exercises and use of the Websites, with
+your authorized teacher and school. You also agree that we may share personal information with other
+businesses that help us with these activities. For example, if you pay for services by credit card, we will
+share your name with the credit card company, such as Visa or MasterCard, so that we can get paid.
+These other companies may not use or share your personal information with others except for the
+purpose of assisting us with our business activities pursuant to our request. Also, we may share certain
+contact information from your personal information, such as an email address or mailing address, with
+advertisers, business partners, or other businesses unless you have asked us not to share your contact
+information when selecting your Information Preferences (described below). You agree that we may use
+your personal information to mail or email information to you about our products and services.
+We may also share personal information in connection with a change of control of the Company, merger,
+transfer, or sale of all or part of the Company or similar transaction, or if required to comply with a law,
+regulation, court order, or other legal process. We may share personal information to protect our rights or
+property.
 WHAT HAPPENS IF THE PRIVACY STATEMENT CHANGES?
 If we decide to make a significant change to our Privacy Statement, we will post a notice on the
-homepage of our Site for a period of time after the change is made.
+homepages of our Sites for a period of time after the change is made.
 WHAT ABOUT PRIVACY ON OTHER SITES?
-This Site may contain links to other websites. We provide these links for your convenience, but we do not
-review, control, or monitor the privacy practices of websites operated by others. We are not responsible
-for the performance of these sites or for your business dealings with them. Your use of other websites is
-subject to the terms and conditions of those sites, including the privacy policies of those sites.
+
+
+These Sites may contain links to other websites. We provide these links for your convenience, but we do
+not review, control, or monitor the privacy practices of websites operated by others. We are not
+responsible for the performance of these sites or for your business dealings with them. Your use of other
+websites is subject to the terms and conditions of those sites, including the privacy policies of those sites.
 ARE THERE SPECIAL RULES ABOUT CHILDREN’S PRIVACY?
-
-
 We care about protecting the online privacy of children. We will not intentionally collect online any
 personal information (such as a child’s name or e-mail address) from children under the age of 13. We
 may collect certain information about children for the purpose of providing our educational services, but
-will do so only from a parent, teacher, or other adult user. If you think that we have collected personal
-information from a child under the age of 13, please email us at customerservice@smartmusic.com or
-send us a letter addressed by First Class Postage Prepaid U.S. Mail or overnight courier to the following
-address:
+will do so only from a parent, guardian, teacher, or other adult user. If you think that we have collected
+personal information from a child under the age of 13, please send us a letter addressed by First Class
+Postage Prepaid U.S. Mail or overnight courier to the following address:
          MakeMusic, Inc.
          7615 Golden Triangle Drive
          Suite M
          Eden Prairie, MN 55344-3848
          USA
-         Toll Free: 1-888-874-2144 (for the USA)
-HOW DO YOU EDIT PERSONAL INFORMATION AND PREFERENCES?
-Login and go to My Account to update any personal information provided, such as mailing and billing
-addresses, e-mail addresses, or musical interests and roles. If you do not wish to have personal
-information shared with advertisers or non-essential business partners, you may select the option “Check
-this box if you do not want MakeMusic to share your contact information…”. Note we must be able to
-share your personal information with essential business partners, such as Visa or MasterCard, in order to
-provide you with services. If you do not wish to receive e-mail information from SmartMusic.com
-(including, but not limited to, information on critical issues and technical updates) de-select the option
-“Yes, keep me informed of new MakeMusic product information and special offers via e-mail”.
+         Toll Free: 1-800-843-2066 (for the USA)
+You should clearly state, at a minimum, (1) the name of the alleged child, along with their username; (2)
+the age and birth date of the child; (3) your relationship to the child (e.g., parent, guardian, teacher); (4)
+as much detail as possible regarding the information you believe was provided improperly by the child.
+HOW DO YOU VIEW OR EDIT PERSONAL INFORMATION AND PREFERENCES?
+Login and go to My Account to view and/or update any personal information provided, such as mailing
+and billing addresses, e-mail addresses, or musical interests and roles. If you do not wish to have
+personal information shared with advertisers or non-essential business partners, you may select the
+option “Check this box if you do not want MakeMusic to share your contact information…”. Note we must
+be able to share your personal information with essential business partners, such as Visa or MasterCard,
+in order to provide you with services. If you do not wish to receive e-mail information from
+SmartMusic.com (including, but not limited to, information on critical issues and technical updates) de-
+select the option “Yes, keep me informed of new MakeMusic product information and special offers via e-
+mail”.
 HOW TO CONTACT US?
-If you have questions or comments about this Privacy Statement, please send an email to
-customerservice@smartmusic.com or send us a letter addressed by First Class Postage Prepaid U.S.
-Mail or overnight courier to the following address:
+If you have questions or comments about this Privacy Statement, please visit us on-line at
+http://support.makemusic.com, or send us a letter addressed by First Class Postage Prepaid U.S. Mail or
+overnight courier to the following address:
          MakeMusic, Inc.
          7615 Golden Triangle Drive
          Suite M
          Eden Prairie, MN 55344
          USA
-         Toll Free: 1-888-874-2144 (for the USA)
-PPSMS.V5.091905
+         Toll Free: 1-800-843-2066 (for the USA)
+PPALL.V1.011607
+4133244_2.DOC
