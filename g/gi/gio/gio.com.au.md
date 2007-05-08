@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the gio.com.au privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209234840id_/http%3A//www.gio.com.au/gio/privacy_security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gio.com.au privacy policy that was archived on 2007-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070508232135id_/http%3A//www.gio.com.au/gio/privacy_security.html) for the most accurate reproduction.*
 
 # Privacy and Security policy of GIO Australia
+
+GIO is a member of the Suncorp Group.
 
 At Suncorp we are committed to ensuring that your personal information is protected.
 
