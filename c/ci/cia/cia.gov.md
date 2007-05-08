@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cia.gov privacy policy that was archived on 2006-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061226194027id_/https%3A//www.cia.gov/cia/notices.html%23priv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cia.gov privacy policy that was archived on 2007-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070508192357id_/https%3A//www.cia.gov/cia/notices.html%23priv) for the most accurate reproduction.*
 
 # Notices
 
@@ -49,7 +49,7 @@ The Central Intelligence Agency is committed to protecting your privacy and will
 > 
 >   * We will not share your name, e-mail, or postal address with any third party, other than as described below in our Security notice.
 >   * We will not create individual profiles with the information that you have provided.
->   * Under no circumstances will we give your name, e-mail, or postal address to any any private organization, commercial or otherwise.
+>   * Under no circumstances will we give your name, e-mail, or postal address to any private organization, commercial or otherwise.
 > 
 If you choose to offer information or assistance to the CIA in the pursuit of its foreign intelligence mission by using our online form, we will make appropriate inquiries to determine the accuracy of your information. In addition, we may share the information you provide with other appropriate entities to enable the CIA to carry out its legally authorized responsibilities. By providing information or assistance to the CIA through our online form, you expressly consent to our use of whatever information you provide via our Web site.
 > 
