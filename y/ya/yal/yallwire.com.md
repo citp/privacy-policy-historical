@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yallwire.com privacy policy that was archived on 2006-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061027143225id_/http%3A//www.yallwire.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yallwire.com privacy policy that was archived on 2007-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070509054043id_/http%3A//www.yallwire.com/policy.html) for the most accurate reproduction.*
 
 # Yallwire Privacy Policy
 
@@ -26,7 +26,7 @@ When you enter a contest or take part in a promotion, we may ask for your name, 
 
 **Does Yallwire Ever Share Information with Other Parties?**  
 Disclosure of Information to Outside Parties   
-Yallwire does not and will not share your personal information with any outside parties unless you have knowingly and willingly consented to do so (e.g., by entering a contest, promotion or sweepstakes for which we would publish a list of winners). We do collect demographic and profile data, which is aggregated and shared with advertisers. Here's an example of what our advertisers would receive. "Of the 25,371 clicks your banner received, 38% of the those were by users between the ages of 25-34." 
+Yallwire may provide your email information to select partners, reputable companies or organizations whose products and services may interest you. If you prefer not to receive online marketing from Blastro, Inc., please contact us at contact@blastro.com or call us at 1.512.485.3148. We do collect demographic and profile data, which is aggregated and shared with advertisers. Here's an example of what our advertisers would receive. "Of the 25,371 clicks your banner received, 38% of the those were by users between the ages of 25-34." 
 
 **Links to Outside Third Parties**   
 Yallwire may establish relationships with reputable business partners by creating a link between our sites. Yallwire chooses its business partners carefully. We are not, however, responsible for the content, maintenance or privacy policies of those sites. Once you click over to a third-party site, we encourage you to check their privacy policy. Users who click over to a third-party site from a link on Yallwire must be aware that Yallwire makes no warranties with regard to that site's policies or business practices. Yallwire is not responsible for any transactions that occur between the user and the third-party site. Should a user purchase any products or services from that third-party site, the user must contact the third-party site directly regarding any disputes that might occur, including, but not limited to: delayed shipping, missing products, damaged goods, or pricing or billing discrepancies. Yallwire is not responsible for the actions of any third-party site. 
@@ -42,12 +42,12 @@ Should you choose to in the future, Yallwire provides its users the opportunity 
 
 If you would like to cancel your registered membership, remove your information from our database and not receive future communications from us, please utilize one of the following options: Email your request to [support@yallwire.com](mailto:info@yallwire.com)
 
-Send your request via post to: 609 W. 18th Street, Suite C, Austin, Texas 78701 
+Send your request via post to: 2301 E Street NW, A-910, Washington, DC 20037 
 
 **Correct/Update**  
 If you would like to change or modify information you previously provided to us, please utilize one of the following options: Email your request to [contact@yallwire.com](mailto:contact@yallwire.com)
 
-Send your request via post to: 609 W. 18th Street, Suite C, Austin, Texas 78701 
+Send your request via post to: 2301 E Street NW, A-910, Washington, DC 20037 
 
 **Contacting the Website**   
 If you have any questions regarding this privacy statement, the practices of this site or your dealings with this Website, you may contact: [info@yallwire.com](mailto:infoATyallwire.com)
