@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccf.org privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215082449id_/http%3A//cms.clevelandclinic.org/body.cfm%3Fid%3D20) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccf.org privacy policy that was archived on 2007-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070509094809id_/http%3A//cms.clevelandclinic.org/body.cfm%3Fid%3D20) for the most accurate reproduction.*
 
 # Privacy
 
@@ -21,6 +21,3 @@ Please also understand that while we are very interested in providing relevant p
 If you have any questions about our privacy policy or our use of information gathered through our Web site, please contact our Webmaster at [webmaster@ccf.org](mailto:webmaster@ccf.org)
 
  Last updated 08/29/2005
-
-  
-
