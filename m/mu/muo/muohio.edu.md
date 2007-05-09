@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the muohio.edu privacy policy that was archived on 2006-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060902031954id_/https%3A//www.muohio.edu/documents_and_policies/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muohio.edu privacy policy that was archived on 2007-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070509083648id_/http%3A//www.miami.muohio.edu/documents_and_policies/privacy_statement) for the most accurate reproduction.*
 
 # Miami University: Privacy Statement
 
 |  |   
 ---|---  
-[About Miami](https://web.archive.org/about_miami/ "About Miami")  
-[Academics](https://web.archive.org/academics/ "Academics")  
-[Admission](https://web.archive.org/admission_for/ "Admission")  
-[Living at Miami](https://web.archive.org/living_at_miami/ "Living at Miami")  
-[University Offices](https://web.archive.org/university_offices/ "University Offices")  
+[About Miami](https://web.archive.org/about_miami/index.cfm)  
+[Academics](https://web.archive.org/academics/index.cfm)  
+[Admission](https://web.archive.org/admission_for/index.cfm)  
+[Living at Miami](https://web.archive.org/living_at_miami/index.cfm)  
+[University Offices](https://web.archive.org/university_offices/index.cfm)  
 |   
 ---  
 |   
@@ -100,12 +100,12 @@
 > If you have questions about this Privacy Statement, or if you find Miami Web pages that do not adhere to this statement, please e-mail us at [infoprivacy@muohio.edu](mailto:infoprivacy@muohio.edu).
 
 |   
-|  |   
+| |   
 ---|---  
 [](https://web.archive.org/)  
 [](http://netapps.muohio.edu/musearch/)  
 [](https://web.archive.org/sitemap/)  
 [](https://web.archive.org/contact_us/index.cfm)  
-[](http://newsinfo.muohio.edu/newsevents.cfm)  
+[](http://www.miami.muohio.edu/news)  
   
 [](https://web.archive.org/sports_and_events/index.cfm)
