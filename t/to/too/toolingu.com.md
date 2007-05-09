@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toolingu.com privacy policy that was archived on 2006-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061220090301id_/http%3A//www.toolingu.com/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toolingu.com privacy policy that was archived on 2007-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070509060754id_/http%3A//www.toolingu.com/privacy_statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement | Tooling University
 
