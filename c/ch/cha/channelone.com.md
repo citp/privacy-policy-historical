@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the channelone.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020003012id_/http%3A//www.channelone.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channelone.com privacy policy that was archived on 2007-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070509125745id_/http%3A//www.channelone.com/static/privacy) for the most accurate reproduction.*
 
 # ChannelOne.com - Privacy Policy - ChannelOne.com policies regarding personal information
 
-Updated: October 13, 2006 
-
 ## **Privacy Policy**
+
+Updated: May 6, 2007 
 
 We at ChannelOne.com care about your safety and privacy. That's why we've set up this area of our site to tell you about our Online Privacy Policy. We'll tell you what personally identifiable information of yours may be collected; how the information is used; with whom the information may be shared; what choices are available to you regarding collection, use and distribution of the information; the kind of security procedures that are in place to protect the loss, misuse or alteration of information that ChannelOne.com has about you; and how you can correct any inaccuracies in the information. 
 
