@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shiur.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231025858id_/http%3A//shiur.com/legal.php%3Fmode%3Dps) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shiur.com privacy policy that was archived on 2007-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070509113415id_/http%3A//www.shiur.com/legal.php%3Fmode%3Dps) for the most accurate reproduction.*
 
 # Shiur.com | Torah Portion | Torah Online | Dvar Torah | Audio Shiurim
 
