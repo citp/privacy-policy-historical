@@ -1,8 +1,40 @@
-> *The following text is extracted and transformed from the bestjobskenya.com privacy policy that was archived on 2006-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061023112202id_/http%3A//www.bestjobskenya.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestjobskenya.com privacy policy that was archived on 2007-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070509022659id_/http%3A//www.bestjobskenya.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy :: Best Jobs Kenya
 
-**PRIVACY POLICY**  
+|  |   |  **Job-seekers**  
+---|---  
+   |    [**Job search**](https://web.archive.org/bt-jobs.htm)  
+  [**Employer search**](https://web.archive.org/bt-employers.htm)  
+  
+  [**Add your resume**](https://web.archive.org/cv-create.htm)  
+  [**Update resume**](https://web.archive.org/cv-login.htm)  
+  [**Remove resume**](https://web.archive.org/cv-remove.htm)  
+  
+  [**Set-up job alert**](https://web.archive.org/bz-new.htm)  
+  [**Modify job alert**](https://web.archive.org/bz-login.htm)  
+  [**Remove job alert**](https://web.archive.org/bz-remove.htm)  
+  
+  
+  |  **Employers**  
+   |    [**New account**](https://web.archive.org/em-register.htm)  
+  [**Employer log-in**](https://web.archive.org/employers/em-login.htm)  
+  [**Control panel**](https://web.archive.org/employers/)  
+  [**Post a job**](https://web.archive.org/employers/of-new.htm)  
+  [**Resume search**](https://web.archive.org/em-cvs.htm)  
+  [**Employer F.A.Q.**](https://web.archive.org/em-faq.htm)  
+  
+  
+  |  **Resources**  
+   |    [**F.A.Q.**](https://web.archive.org/faq.htm)  
+  [**International**](https://web.archive.org/international.htm)  
+  [**Privacy policy**](https://web.archive.org/privacy.htm)  
+  [**Contact us**](https://web.archive.org/contact.htm)  
+  
+  
+| 
+
+| **PRIVACY POLICY**  
 ---  
   
   * **Overview**
@@ -27,7 +59,7 @@ When registering your resume, we will ask you to give us your email address. Thi
 
 Making your resume searchable considerably increases your exposure to potential employers. To prevent your resume from being searched and viewed by our clients you can choose to remove it from our database at any time, by using our on-line form. After removing your resume from our database, no copy of your details will be kept in any of our systems, and you can be sure they have been completely deleted and no further access will be possible from anyone, including us.
 
-We make an effort to limit access to our resume services only to employers or recruiters wishing to find employees. If any company is found to be using our resume services for something different to this, then we will immediately terminate their use of our services.
+We make an effort to limit access to our resume services only to employers or recruiters wishing to find employees. If any business is found to be using our resume services for something different to this, then we will immediately terminate their use of our services.
 
 Although you may remove your resume from our searchable database at any time, companies who have had access to the database may have retained a copy of your resume in their own files or databases. We are not responsible for the retention, use, or privacy of your resume by companies in these instances.
 
