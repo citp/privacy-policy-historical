@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the clevelandclinic.org privacy policy that was archived on 2006-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061215082449id_/http%3A//cms.clevelandclinic.org/body.cfm%3Fid%3D20) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the clevelandclinic.org privacy policy that was archived on 2007-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070509094809id_/http%3A//cms.clevelandclinic.org/body.cfm%3Fid%3D20) for the most accurate reproduction.-->
 
 <html><head>
 	<title>Privacy</title>
@@ -16,6 +16,14 @@
 		@import url(default.css);
 	</style>
 		
+<!--START GOOGLE SEARCH CODE-->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-718476-3";
+urchinTracker();
+</script>
+<!--END GOOGLE SEARCH CODE-->
 </head>
  
 	  
@@ -38,26 +46,29 @@
   </tr>
   <tr>
     <td valign="top" colspan="2" style="background-image: url(images/hdrImageA.jpg); background-repeat: no-repeat; background-position: bottom right;">
-	<!-- Begin NavBar Output  -  Version:  v0.77r 06/21/2001  -->
+	<!-- Begin NavBar Output  -  Version:  v0.79a 09/30/2006  -->
 	
-								
-
-				<script language="JavaScript" type="text/javascript">
-					
-				
+         		
+            <script language="JavaScript" type="text/javascript">
+            <!--//
+                  var ns4 = (document.layers);
+                  var ie  = (document.all);
+                  var ie4 = (ie && !document.getElementById);
+                  var ie5 = (ie && document.getElementById);
+                  var ns6 = (!ie && document.getElementById);
+   
 						var aryMoused = new Array();
 						var aryLayerMoused = new Array();
 						var aryMoImages = new Array();
 						var imageList = new Array();
-						var runMouseOvers = false;
+						var runMouseOvers = true;
 						var TimerID = null;
 						var iLimit = 25;
 						var itmp = 0;
 						
-						var BillzTime = 100;
-						var BillzTimes = 2;
-						var BillzmoveDistance = 1;
-						var BillzThisLoc = 325;
+						var nbTime = 100;
+						var nbTimes = 2;
+						var nbThisLoc = 325;
 						var aryLayerNames = new Array();
 						var aryNavBarLayerInfo = new Array();
 						var aryNavBarLayers = new Array();
@@ -66,11 +77,11 @@
 						var viz = "hide";
 
 						function MOImage() {
-							var a = MOImage.arguments;
-							this.ptrImage = BillzNavBarMM_findObj(a[0]);
+							var arg = MOImage.arguments;
+							this.ptrImage = BillzNavBarMM_findObj(arg[0]);
 							this.imageMO = new Image();
-							this.imageMO.src = a[1];
-							this.HTMLname = a[0];
+							this.imageMO.src = arg[1];
+							this.HTMLname = arg[0];
 							this.Moused = false;
 							this.OriginalSrc = '';
 							return true;
@@ -78,31 +89,46 @@
 						function BillzImagePreload() {
 						// 0) html image name 1) mo image src 2)image Name for rollover key (rollover may have multiple mos for one html Image) 
 							var arg = BillzImagePreload.arguments;
-							var imageKey = (arg[2]) ? arg[2] : arg[0];
+							nbImagePreload(arg[0], arg[1], arg[2]);
+						}
+                  function nbImagePreload(img_name, mo_img_src, rollover_key_img_name)
+                  {
+                     var imageKey = (rollover_key_img_name.length > 0) ? rollover_key_img_name : img_name;
 							imageList[imageList.length] = imageKey;
 							if (!(aryMoImages[imageKey])) {
-								aryMoImages[imageKey] = new MOImage(arg[0], arg[1]);
+								aryMoImages[imageKey] = new MOImage(img_name, mo_img_src);
 							}
-						}
+                  }
+                  
 						function BillzMouseover() {
-							var a = null;
+							var arg = null;
+							if (runMouseOvers) {		
+								arg = BillzMouseover.arguments; //args 0)ImageName 1)OriginalSrc 2)array index (caller imagename)		
+								nbMouseover(arg[0], arg[1], arg[2]);
+							}
+							return true;
+						}
+                  // args 1) ImageName 2) OriginalSrc 3) array index (caller imagename)
+                  function nbMouseover(img_name, orig_src, img_key)
+                  {
 							var imageKey = null;
 							var o = null;
-							if (runMouseOvers) {
-								//args 0)ImageName 1)OriginalSrc 2)array index (caller imagename)					
-								a = BillzMouseover.arguments;
-								imageKey = (a[2]) ? a[2] : a[0];
+							if (runMouseOvers) 
+                     {				
+								imageKey = (img_key.length > 0) ? img_key : img_name;
 								if (!(aryMoImages[imageKey].ptrImage)) {
-									aryMoImages[imageKey].ptrImage = BillzNavBarMM_findObj(a[0]);
+									aryMoImages[imageKey].ptrImage = BillzNavBarMM_findObj(img_name);
 								}
-								if (aryMoImages[imageKey] && (o = aryMoImages[imageKey].ptrImage)) {
-									aryMoImages[imageKey].OriginalSrc = a[1];
+								if (aryMoImages[imageKey] && (o = aryMoImages[imageKey].ptrImage)) 
+                        {
+									aryMoImages[imageKey].OriginalSrc = orig_src;
 									aryMoImages[imageKey].Moused = true;
 									o.src = aryMoImages[imageKey].imageMO.src;
 								}
 							}
 							return true;
-						}
+                  }
+                  
 						var NavBarTempOnload = null;
 						if (window.onload && window.onload != null){
 							NavBarTempOnload = window.onload;
@@ -115,23 +141,35 @@
 							return true;
 						}
 						function BillzMouseOutTimer() {
+							return nbMouseOutTimer();
+						}
+                  function nbMouseOutTimer() 
+                  {
 							if (TimerID) {
 								clearTimeout(TimerID);
 							}
-							TimerID = setTimeout("BillzLayerRestore()",5000);
+							TimerID = setTimeout("nbLayerRestore()",5000);
 							return true;
 						}
 						function RestoreAll() {
-							BillzMouseoverRestore();
-							BillzLayerRestore();
+							nbMouseoverRestore();
+							nbLayerRestore();
 							return true;
 						}
+                  
 						function BillzMouseoverRestore() {
+							return nbMouseoverRestore();
+						}
+                  function nbMouseoverRestore() 
+                  {
 							var i = 0;
 							var o = null;
-							if (runMouseOvers) {
-								for (i = 0; i < imageList.length; i++) {
-									if (aryMoImages[imageList[i]].Moused && (o = aryMoImages[imageList[i]].ptrImage)) {
+							if (runMouseOvers) 
+                     {
+								for (i = 0; i < imageList.length; i++) 
+                        {
+									if (aryMoImages[imageList[i]].Moused && (o = aryMoImages[imageList[i]].ptrImage)) 
+                           {
 										o.src = aryMoImages[imageList[i]].OriginalSrc;
 										aryMoImages[imageList[i]].Moused = false;
 									}
@@ -139,15 +177,23 @@
 							}
 							return true;
 						}
+                  
 						function BillzLayerRestore() {
+							return nbLayerRestore();
+						}
+                  function nbLayerRestore() 
+                  {
 							var i = 0;
-							for (i = 0; i < aryLayerNames.length; i++) {
+							for (i = 0; i < aryLayerNames.length; i++) 
+                     {
 								if (!aryNavBarLayerInfo[aryLayerNames[i]].isDefault) {
 									BillzNavBarRestoreLayers(aryLayerNames[i]);
 								}
 							}
 							return true;
 						}
+                  
+                  
 						function BillzArrayPushUnique(aryArray, varNewElement) { //only pushes if unique value
 							var pushIt = true;
 							var i = 0;
@@ -171,7 +217,23 @@
 							}
 							return varItemToPop;
 						}
-						function BillzNavBarMM_findObj(n, d) { //v3.0 name changed to avoid clash with possible other JS in content, this function complements of MM Dreamweaver
+                  
+                  //Heikoz "just get me the freakin' div object handle" function
+                  function getDivRef(id)
+                  {
+                     var divref;
+                  	if(ns4)
+                  		divref = document.layers[id];
+                  	else if(ie4)
+                  		divref = document.all[id];
+                  	else if(ie5 || ns6)  // remaining cases
+                  		divref = document.getElementById(id);
+                  
+                  	return divref;
+                  }
+   
+                  //v3.0 name changed to avoid clash with possible other JS in content, this function complements of MM Dreamweaver
+						function BillzNavBarMM_findObj(n, d) {
 						  	var p,i,x;
 						
 							if (registeredObjects[n]) {
@@ -180,7 +242,13 @@
 							if (!(d)) {
 								d = document;
 							}
-							if ((p = n.indexOf("?")) > 0 && parent.frames.length) {
+                     try {
+                        p = n.indexOf("?");
+                     }
+                     catch(e) {
+                        p = 0;
+                     }
+							if (p > 0 && parent.frames.length) {
 								d = parent.frames[n.substring(p+1)].document;
 								n = n.substring(0,p);
 							}
@@ -200,21 +268,21 @@
 						 	return x;
 						}
 						function BillzArrayContains() {
-							var a = BillzArrayContains.arguments;
+							var arg = BillzArrayContains.arguments;
 							var foundit = false;
 							var i = 0;
-							for (i = 0; i < a[0].length && !foundit; i++) {
-								foundit = (a[1] == a[0][i]);
+							for (i = 0; i < arg[0].length && !foundit; i++) {
+								foundit = (arg[1] == arg[0][i]);
 							}
 							return foundit;
 						}
 						function NavBarRegisterLayer() {
-							var a = NavBarRegisterLayer.arguments;
-							var n = a[0];
-							var d = a[1];
+							var arg = NavBarRegisterLayer.arguments;
+							var n = arg[0];
+							var d = arg[1];
 							var mo = false;
 							var o = null;
-							if (a[2] && a[2] == 'MOutLayer') {
+							if (arg[2] && arg[2] == 'MOutLayer') {
 								mo = true;
 							} else {
 								mo = false;
@@ -238,7 +306,7 @@
 							var args = BillzNavBarMM_showHideLayers.arguments;
 
 							if (args[args.length - 1] != "menu") {
-								BillzMouseOutTimer();
+								nbMouseOutTimer();
 							}
 						  	for (i = 0; i < (args.length - 2); i += 3) {
 								if (!aryNavBarLayers[args[i]]) {
@@ -260,6 +328,7 @@
 							}
 							return true;
 						}
+                  
 						function BillzNavBarRestoreLayers() {
 							var i = 0;
 							var x = "";
@@ -283,31 +352,37 @@
 							return true;
 						}
 						function NavBarLayer() {
-							var a = NavBarLayer.arguments;
-							this.defaultVisibility = a[1];
+							var arg = NavBarLayer.arguments;
+							this.defaultVisibility = arg[1];
 							this.isDefault = true;
-							this.MOutLayer = a[2];
+							this.MOutLayer = arg[2];
 							return true;
 						}
 						function BillzNavMove() {
+							return nbNavMove();
+						}
+                  function nbNavMove() 
+                  {
 							var thisl = null;
 							var otherl = null;
-							if (thisl = BillzNavBarMM_findObj("BillzScrollLayer")) {
+							if (thisl = BillzNavBarMM_findObj("nbScrollLayer")) 
+                     {
 								if (thisl.style) {
 									thisl = thisl.style;
 									viz = "hidden";
 								} 
-								thisl.top = BillzThisLoc -= 3;
-								if (BillzThisLoc < -750) {
-									BillzThisLoc = 325;
-									BillzTimes--;
+								thisl.top = nbThisLoc -= 3;
+								if (nbThisLoc < -750) {
+									nbThisLoc = 325;
+									nbTimes--;
 								}
 							}
-							if (BillzTimes <= 0) {
+							if (nbTimes <= 0) 
+                     {
 								otherl = BillzNavBarMM_findObj("BillzLayer");
 								otherl.visibility = viz;
 							} else {
-								setTimeout("BillzNavMove()", BillzTime);
+								setTimeout("nbNavMove()", nbTime);
 							}
 							
 							return true;
@@ -320,24 +395,24 @@
 					//-->
 				</script>
 			
+         	
 		<!-- Begin NavBar Bar #1 Content Output... -->
-		<table background="" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr class="" background="">
-		<td class="" valign="top" align="left" background="" title=""><a href="http://www.clevelandclinic.org" target="_self" onmouseover="RestoreAll();BillzMouseover('tab-home_1_1','images/tab-home.gif');" onmouseout="BillzMouseoverRestore();" class=""><img src="images/tab-home.gif" border="0" alt="Home" id="tab-home_1_1" name="tab-home_1_1" onload="BillzImagePreload('tab-home_1_1','images/tab-homeRO.gif');"></a></td>
-		<td class="" valign="top" align="left" background="" title=""><a href="http://www.clevelandclinic.org/staff/" onmouseover="RestoreAll();BillzMouseover('tab-physician_1_2','images/tab-physician.gif');" onmouseout="BillzMouseoverRestore();" class=""><img src="images/tab-physician.gif" border="0" alt="Find a Physician" id="tab-physician_1_2" name="tab-physician_1_2" onload="BillzImagePreload('tab-physician_1_2','images/tab-physicianRO.gif');"></a></td>
-		<td class="" valign="top" align="left" background="" title=""><a href="http://www.clevelandclinic.org/appoint" onmouseover="RestoreAll();BillzMouseover('tab-appt_1_3','images/tab-appt.gif');" onmouseout="BillzMouseoverRestore();" class=""><img src="images/tab-appt.gif" border="0" alt="Make An Appointment" id="tab-appt_1_3" name="tab-appt_1_3" onload="BillzImagePreload('tab-appt_1_3','images/tab-apptRO.gif');"></a></td>
-		<td class="" valign="top" align="left" background="" title=""><a href="body.cfm?id=644" onmouseover="RestoreAll();BillzMouseover('tab-location_1_4','images/tab-location.gif');" onmouseout="BillzMouseoverRestore();" class=""><img src="images/tab-location.gif" border="0" alt="Locations" id="tab-location_1_4" name="tab-location_1_4" onload="BillzImagePreload('tab-location_1_4','images/tab-locationRO.gif');"></a></td>
-		<td class="" valign="top" align="left" background="" title=""><a href="body.cfm?id=72" onmouseover="RestoreAll();BillzMouseover('tab-maps_1_5','images/tab-maps.gif');" onmouseout="BillzMouseoverRestore();" class=""><img src="images/tab-maps.gif" border="0" alt="Maps and Directions" id="tab-maps_1_5" name="tab-maps_1_5" onload="BillzImagePreload('tab-maps_1_5','images/tab-mapsRO.gif');"></a></td>
-		<td class="" valign="top" align="left" background="" title=""><a href="body.cfm?id=138" onmouseover="RestoreAll();BillzMouseover('tab-visitor_1_6','images/tab-visitor.gif');" onmouseout="BillzMouseoverRestore();" class=""><img src="images/tab-visitor.gif" border="0" alt="Visitor Information" id="tab-visitor_1_6" name="tab-visitor_1_6" onload="BillzImagePreload('tab-visitor_1_6','images/tab-visitorRO.gif');"></a></td>
-		<td class="" valign="top" align="left" background="" title=""><a href="http://www.clevelandclinic.org/contact" onmouseover="RestoreAll();BillzMouseover('tab-contact_1_7','images/tab-contact.gif');" onmouseout="BillzMouseoverRestore();" class=""><img src="images/tab-contact.gif" border="0" alt="Contact Us" id="tab-contact_1_7" name="tab-contact_1_7" onload="BillzImagePreload('tab-contact_1_7','images/tab-contactRO.gif');"></a></td>
-		<td class="" valign="top" align="left" background="" title=""><a href="body.cfm?id=338" onmouseover="RestoreAll();BillzMouseover('tab-site_1_8','images/tab-site.gif');" onmouseout="BillzMouseoverRestore();" class=""><img src="images/tab-site.gif" border="0" alt="Site Index" id="tab-site_1_8" name="tab-site_1_8" onload="BillzImagePreload('tab-site_1_8','images/tab-siteRO.gif');"></a></td>
+		<table border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr class="">
+		<td class="" valign="top" align="left" title=""><a href="http://www.clevelandclinic.org" target="_self" onmouseover="RestoreAll();nbMouseover('tab-home_1_1','images/tab-home.gif','');" onmouseout="nbMouseoverRestore();" class=""><img src="images/tab-home.gif" border="0" alt="Home" id="tab-home_1_1" name="tab-home_1_1"></a><script type="text/javascript">nbImagePreload('tab-home_1_1','images/tab-homeRO.gif', '');</script></td>
+		<td class="" valign="top" align="left" title=""><a href="http://www.clevelandclinic.org/staff/" onmouseover="RestoreAll();nbMouseover('tab-physician_1_2','images/tab-physician.gif','');" onmouseout="nbMouseoverRestore();" class=""><img src="images/tab-physician.gif" border="0" alt="Find a Physician" id="tab-physician_1_2" name="tab-physician_1_2"></a><script type="text/javascript">nbImagePreload('tab-physician_1_2','images/tab-physicianRO.gif', '');</script></td>
+		<td class="" valign="top" align="left" title=""><a href="http://www.clevelandclinic.org/appoint" onmouseover="RestoreAll();nbMouseover('tab-appt_1_3','images/tab-appt.gif','');" onmouseout="nbMouseoverRestore();" class=""><img src="images/tab-appt.gif" border="0" alt="Make An Appointment" id="tab-appt_1_3" name="tab-appt_1_3"></a><script type="text/javascript">nbImagePreload('tab-appt_1_3','images/tab-apptRO.gif', '');</script></td>
+		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=644" onmouseover="RestoreAll();nbMouseover('tab-location_1_4','images/tab-location.gif','');" onmouseout="nbMouseoverRestore();" class=""><img src="images/tab-location.gif" border="0" alt="Locations" id="tab-location_1_4" name="tab-location_1_4"></a><script type="text/javascript">nbImagePreload('tab-location_1_4','images/tab-locationRO.gif', '');</script></td>
+		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=72" onmouseover="RestoreAll();nbMouseover('tab-maps_1_5','images/tab-maps.gif','');" onmouseout="nbMouseoverRestore();" class=""><img src="images/tab-maps.gif" border="0" alt="Maps and Directions" id="tab-maps_1_5" name="tab-maps_1_5"></a><script type="text/javascript">nbImagePreload('tab-maps_1_5','images/tab-mapsRO.gif', '');</script></td>
+		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=138" onmouseover="RestoreAll();nbMouseover('tab-visitor_1_6','images/tab-visitor.gif','');" onmouseout="nbMouseoverRestore();" class=""><img src="images/tab-visitor.gif" border="0" alt="Visitor Information" id="tab-visitor_1_6" name="tab-visitor_1_6"></a><script type="text/javascript">nbImagePreload('tab-visitor_1_6','images/tab-visitorRO.gif', '');</script></td>
+		<td class="" valign="top" align="left" title=""><a href="http://www.clevelandclinic.org/contact" onmouseover="RestoreAll();nbMouseover('tab-contact_1_7','images/tab-contact.gif','');" onmouseout="nbMouseoverRestore();" class=""><img src="images/tab-contact.gif" border="0" alt="Contact Us" id="tab-contact_1_7" name="tab-contact_1_7"></a><script type="text/javascript">nbImagePreload('tab-contact_1_7','images/tab-contactRO.gif', '');</script></td>
+		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=338" onmouseover="RestoreAll();nbMouseover('tab-site_1_8','images/tab-site.gif','');" onmouseout="nbMouseoverRestore();" class=""><img src="images/tab-site.gif" border="0" alt="Site Index" id="tab-site_1_8" name="tab-site_1_8"></a><script type="text/javascript">nbImagePreload('tab-site_1_8','images/tab-siteRO.gif', '');</script></td>
 	</tr>
 
 </tbody></table>
 	
 		<!-- End NavBar Output -->
-	
- 
+	 
 </td>
   </tr>
   <tr>
@@ -348,8 +423,9 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
     <td align="left" valign="top" width="1%">
-      <!--left nav bar-->
+      <!--left nav bar--> 
 	
+
 
 
 
@@ -500,11 +576,11 @@
 				
 					</tr>	
 									
-					<tr class="clTop1" id="pLinkTR_23_1">
+					<tr class="clTop1" id="pLinkTR_740_1">
 				
-						<th class="clTop1" id="pBulletTH_23_1"><img src="images/bullet.gif" alt="International Patients" border="0" vspace="3" hspace="5" name="pBullet_23_1" id="pBullet_23_1"></th>
+						<th class="clTop1" id="pBulletTH_740_1"><img src="images/bullet.gif" alt="Global Patient Services" border="0" vspace="3" hspace="5" name="pBullet_740_1" id="pBullet_740_1"></th>
 					
-						<td class="clTop1" id="pLinkTD_23_1"><a href="body.cfm?id=23&amp;oTopID=23" class="clMain1">International Patients</a></td>
+						<td class="clTop1" id="pLinkTD_740_1"><a href="http://cms.clevelandclinic.org/gps/" class="clMain1">Global Patient Services</a></td>
 				
 					</tr>	
 									
@@ -785,6 +861,14 @@
 				
 					</tr>	
 									
+					<tr class="clTop2" id="pLinkTR_686_2">
+				
+						<th class="clTop2" id="pBulletTH_686_2"><img src="images/bullet.gif" alt="Good Books for Good Health" border="0" vspace="3" hspace="5" name="pBullet_686_2" id="pBullet_686_2"></th>
+					
+						<td class="clTop2" id="pLinkTD_686_2"><a href="http://www.clevelandclinicpress.org/" class="clMain2">Good Books for Good Health</a></td>
+				
+					</tr>	
+									
 					<tr class="clTop2" id="pLinkTR_417_2">
 				
 						<th class="clTop2" id="pBulletTH_417_2"><img src="images/bullet.gif" alt="Gifts &amp; Apparel" border="0" vspace="3" hspace="5" name="pBullet_417_2" id="pBullet_417_2"></th>
@@ -805,9 +889,10 @@
 					<td class="pHTMLafter2" id="pAfterTD_2" colspan="2"><table width="100%" cellpadding="0" cellspacing="0" border="0">
 	    <tbody><tr>
 	      <td valign="top" style="padding-top: 20px; padding-left: 20px"><img src="images/winner.gif"><br>
-          <a href="https://www.clevelandclinic.org/isupport/"><img src="images/lft_promotion_isupport.gif" border="0"></a><br>
-          <br>
-          <a href="http://www.hon.ch/HONcode/Conduct.html?HONConduct985351"><img src="images/lft_promotion_hon.gif" width="143" height="37" border="0"></a>
+          <a href="https://www.clevelandclinic.org/isupport/"><img src="images/lft_promotion_isupport.gif" border="0"></a><br><table cellspacing="2" cellpadding="2" border="0"> <tbody><tr><td> 
+<!--HONCODE JS BEGIN-->
+<script type="text/javascript" src="http://www.hon.ch/HONcode/Sealjs/HONconduct/HONConduct985351.js"> </script> <script type="text/javascript"> print_honcode_logo(4,1); </script> </td> <td align="left" style="width:160px;font-size: 11px;font-face: arial;"><font face="arial">We comply with the <br><a href="http://www.hon.ch/HONcode/Conduct.html" onclick="window.open(this.href); return false;"> HONcode standard for trustworthy health</a><br>information:<br> <a href="http://www.hon.ch/HONcode/Conduct.html?HONConduct985351" onclick="window.open(this.href); return false;">verify here</a></font>. <!--HONCODE JS END-->
+</td> </tr> </tbody></table> 
 	      </td>
 	    </tr>
 	  </tbody></table></td>
@@ -832,6 +917,7 @@
 	</td>
 	</tr>
 	</tbody></table>
+
     </td>
     <td valign="top" width="98%">
 	  <!--content area-->
@@ -885,7 +971,7 @@
               </tr>
               <tr>
                <td valign="top"> 
-							
+
 							
 							<img src="images/spacer.gif" height="7" width="1"><br><font style="font-family: arial; font-size: 20px; font-weight: bold; color:000000;">Privacy</font>	
 
@@ -922,11 +1008,10 @@
  
 
 
-<br></td>
+<br><br></td>
 			  </tr>
             </tbody></table>
-    </td>
-    <td valign="top" width="1%">
+    </td><td valign="top" width="1%">
 	  <!--right nav bar-->
       <table width="175" border="0" cellspacing="0" cellpadding="0" style="background-image: url(images/rgt_bar_bg.gif); background-repeat: repeat-y; background-position: top left;">
         <tbody><tr>
@@ -980,75 +1065,6 @@
 
 
 
-
-	
-	
-	
-		
-		
-		
-		<a href="javascript:SM3_BannerClick()" onmouseover="return SM3_BannerWindowStatus();" onmouseout="window.status='';SM3_MO=false;"><img src="images/ban_mychart.jpg" name="right_placement_1" width="140" height="94" border="0"></a>
-		
-		<script language="JavaScript" type="text/javascript"> <!--
-			SM3_MO=false;
-			SM3_Timer = null;
-			SM3_ThisBanner = 0;
-			SM3_BannerItems = new Array();
-			
-			
-				
-				
-				
-				
-					
-					
-					
-				
-			
-				SM3_BannerItems[0] = new Array();
-				SM3_BannerItems[0][0]=new Image();
-				SM3_BannerItems[0][0].src='images/ban_mychart.jpg';
-				SM3_BannerItems[0][1]='http://www.clevelandclinic.org/mychartinfo/';
-				SM3_BannerItems[0][2]='';
-			
-				
-				
-				
-				
-					
-					
-					
-				
-			
-				SM3_BannerItems[1] = new Array();
-				SM3_BannerItems[1][0]=new Image();
-				SM3_BannerItems[1][0].src='images/ban_myconsult.jpg';
-				SM3_BannerItems[1][1]='http://www.eclevelandclinic.org/myConsultHome';
-				SM3_BannerItems[1][2]='';
-			
-			
-			function SM3_BannerClick(){SM3_BannerWindowStatus();
-				if (SM3_BannerItems[SM3_ThisBanner][2]=="parent._blank."){
-					window.open(SM3_BannerItems[SM3_ThisBanner][1]);
-				// }else 	 if(!eval(SM3_BannerItems[SM3_ThisBanner][2]+'document')){
-	//				window.open(SM3_BannerItems[SM3_ThisBanner][1],); 
-				}else{
-					eval(SM3_BannerItems[SM3_ThisBanner][2] + "location.href=SM3_BannerItems[SM3_ThisBanner][1]");
-				}
-			}
-			function SM3_BannerWindowStatus(){SM3_MO=true;window.status=SM3_BannerItems[SM3_ThisBanner][1]; return true}
-			function SM3_SwapBanner(){
-				iNum=SM3_ThisBanner+1;if(iNum>=SM3_BannerItems.length)iNum=0;
-				document.right_placement_1.src=SM3_BannerItems[iNum][0].src; 
-				SM3_ThisBanner=iNum;
-				SM3_Timer=setTimeout('SM3_SwapBanner()',30000);
-				if(SM3_MO){SM3_BannerWindowStatus();}else{window.status='';}
-			}
-				
-			SM3_Timer=setTimeout('SM3_SwapBanner()',30000);
-		//-->
-		</script>
-	
 
 
  
@@ -1255,35 +1271,34 @@
     <td align="center" valign="top">
 	  <br>
       
-	<!-- Begin NavBar Output  -  Version:  v0.77r 06/21/2001  -->
+	<!-- Begin NavBar Output  -  Version:  v0.79a 09/30/2006  -->
 	
 		<!-- Begin NavBar Bar #2 Content Output... -->
-		<table background="" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr class="" background="">
-		<td class="" valign="absmiddle" align="center" background="" title=""><a href="http://www.clevelandclinic.org/" class="">Cleveland Clinic Home</a></td>
-		<td class="" valign="absmiddle" align="center" background="" title="">&nbsp;|&nbsp;</td>
-		<td class="" valign="absmiddle" align="center" background="" title=""><a href="body.cfm?id=17" class="">Cleveland Clinic Overview</a></td>
-		<td class="" valign="absmiddle" align="center" background="" title="">&nbsp;|&nbsp;</td>
-		<td class="" valign="absmiddle" align="center" background="" title=""><a href="body.cfm?id=19" class="">Disclaimer</a></td>
-		<td class="" valign="absmiddle" align="center" background="" title="">&nbsp;|&nbsp;</td>
-		<td class="" valign="absmiddle" align="center" background="" title=""><a href="body.cfm?id=432" class="">About this Website</a></td>
-		<td class="" valign="absmiddle" align="center" background="" title="">&nbsp;|&nbsp;</td>
-		<td class="" valign="absmiddle" align="center" background="" title=""><a href="body.cfm?id=20" class="">Privacy</a></td>
-		<td class="" valign="absmiddle" align="center" background="" title="">&nbsp;|&nbsp;</td>
-		<td class="" valign="absmiddle" align="center" background="" title=""><a href="http://www.clevelandclinic.org/contact/" class="">Contact Us</a></td>
+		<table border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr class="">
+		<td class="" valign="absmiddle" align="center" title=""><a href="http://www.clevelandclinic.org/" class="">Cleveland Clinic Home</a></td>
+		<td class="" valign="absmiddle" align="center" title="">&nbsp;|&nbsp;</td>
+		<td class="" valign="absmiddle" align="center" title=""><a href="body.cfm?id=17" class="">Cleveland Clinic Overview</a></td>
+		<td class="" valign="absmiddle" align="center" title="">&nbsp;|&nbsp;</td>
+		<td class="" valign="absmiddle" align="center" title=""><a href="body.cfm?id=19" class="">Disclaimer</a></td>
+		<td class="" valign="absmiddle" align="center" title="">&nbsp;|&nbsp;</td>
+		<td class="" valign="absmiddle" align="center" title=""><a href="body.cfm?id=432" class="">About this Website</a></td>
+		<td class="" valign="absmiddle" align="center" title="">&nbsp;|&nbsp;</td>
+		<td class="" valign="absmiddle" align="center" title=""><a href="body.cfm?id=20" class="">Privacy</a></td>
+		<td class="" valign="absmiddle" align="center" title="">&nbsp;|&nbsp;</td>
+		<td class="" valign="absmiddle" align="center" title=""><a href="http://www.clevelandclinic.org/contact/" class="">Contact Us</a></td>
 	</tr>
 
 </tbody></table>
 	
 		<!-- End NavBar Output -->
-	
- 
+	 
 
       <br>
-      <font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="008838">The 
+      <font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="008838">
       Cleveland Clinic | 9500 Euclid Avenue | Cleveland, OH 44195 | 216.444.2200 
       | 800.223.2273 | TTY 216.444.0261<br>
-      <b>© The Cleveland Clinic 2006</b></font>
+      <b>© Cleveland Clinic 2007</b></font>
 	  <br><br><br>
 	  </td>
   </tr>
