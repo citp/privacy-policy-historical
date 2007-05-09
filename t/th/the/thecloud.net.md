@@ -1,28 +1,29 @@
-> *The following text is extracted and transformed from the thecloud.net privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231175202id_/http%3A//www.thecloud.net/content.asp%3Fsection%3D1%26content%3D44) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecloud.net privacy policy that was archived on 2007-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070509112301id_/http%3A//www.thecloud.net/content.asp%3Fsection%3D1%26content%3D44) for the most accurate reproduction.*
 
 # About Us | Privacy
 
-|  |  [](https://web.archive.org/web/20061231175202id_/http%3A//www.thecloud.net/content.asp%3Fsection%3D1%26content%3D44?section=1)  
+|  |  [](https://web.archive.org/web/20070509112301id_/http%3A//www.thecloud.net/content.asp%3Fsection%3D1%26content%3D44?section=1)  
 ---  
   
-  * [The Cloud History](https://web.archive.org/web/20061231175202id_/http%3A//www.thecloud.net/content.asp?section=1&content=11)
-  * [Working Together](https://web.archive.org/web/20061231175202id_/http%3A//www.thecloud.net/content.asp?section=1&content=12)
-  * [Investors](https://web.archive.org/web/20061231175202id_/http%3A//www.thecloud.net/content.asp?section=1&content=15)
-  * [Service Providers](https://web.archive.org/web/20061231175202id_/http%3A//www.thecloud.net/content.asp?section=1&content=18)
-  * [Technology Partners](https://web.archive.org/web/20061231175202id_/http%3A//www.thecloud.net/content.asp?section=1&content=19)
-  * [Partners](https://web.archive.org/web/20061231175202id_/http%3A//www.thecloud.net/content.asp?section=1&content=223)
-  * [Management](https://web.archive.org/web/20061231175202id_/http%3A//www.thecloud.net/content.asp?section=1&content=16)
-  * [Management Team](https://web.archive.org/web/20061231175202id_/http%3A//www.thecloud.net/content.asp?section=1&content=17)
-  * [Board](https://web.archive.org/web/20061231175202id_/http%3A//www.thecloud.net/content.asp?section=1&content=27)
-  * [Jobs](https://web.archive.org/web/20061231175202id_/http%3A//www.thecloud.net/content.asp?section=1&content=28)
-  * [Contact Us](https://web.archive.org/web/20061231175202id_/http%3A//www.thecloud.net/content.asp?section=1&content=29)
-  * [Site Owners](https://web.archive.org/web/20061231175202id_/http%3A//www.thecloud.net/content.asp?section=1&content=30)
-  * [Wireless Customers](https://web.archive.org/web/20061231175202id_/http%3A//www.thecloud.net/content.asp?section=1&content=31)
-  * [General Enquiries](https://web.archive.org/web/20061231175202id_/http%3A//www.thecloud.net/content.asp?section=1&content=32)
-  * [Media Contact](https://web.archive.org/web/20061231175202id_/http%3A//www.thecloud.net/content.asp?section=1&content=33)
+  * [The Cloud History](https://web.archive.org/web/20070509112301id_/http%3A//www.thecloud.net/content.asp?section=1&content=11)
+  * [Working Together](https://web.archive.org/web/20070509112301id_/http%3A//www.thecloud.net/content.asp?section=1&content=12)
+  * [Investors](https://web.archive.org/web/20070509112301id_/http%3A//www.thecloud.net/content.asp?section=1&content=15)
+  * [Service Providers](https://web.archive.org/web/20070509112301id_/http%3A//www.thecloud.net/content.asp?section=1&content=18)
+  * [Technology Partners](https://web.archive.org/web/20070509112301id_/http%3A//www.thecloud.net/content.asp?section=1&content=19)
+  * [Partners](https://web.archive.org/web/20070509112301id_/http%3A//www.thecloud.net/content.asp?section=1&content=223)
+  * [Management](https://web.archive.org/web/20070509112301id_/http%3A//www.thecloud.net/content.asp?section=1&content=16)
+  * [Management Team](https://web.archive.org/web/20070509112301id_/http%3A//www.thecloud.net/content.asp?section=1&content=17)
+  * [Board](https://web.archive.org/web/20070509112301id_/http%3A//www.thecloud.net/content.asp?section=1&content=27)
+  * [Jobs](https://web.archive.org/web/20070509112301id_/http%3A//www.thecloud.net/content.asp?section=1&content=28)
+  * [Current vacancies](https://web.archive.org/web/20070509112301id_/http%3A//www.thecloud.net/content.asp?section=1&content=242)
+  * [Contact Us](https://web.archive.org/web/20070509112301id_/http%3A//www.thecloud.net/content.asp?section=1&content=29)
+  * [Site Owners](https://web.archive.org/web/20070509112301id_/http%3A//www.thecloud.net/content.asp?section=1&content=30)
+  * [Wireless Customers](https://web.archive.org/web/20070509112301id_/http%3A//www.thecloud.net/content.asp?section=1&content=31)
+  * [General Enquiries](https://web.archive.org/web/20070509112301id_/http%3A//www.thecloud.net/content.asp?section=1&content=32)
+  * [Media Contact](https://web.archive.org/web/20070509112301id_/http%3A//www.thecloud.net/content.asp?section=1&content=33)
 
 
-  * [Search](https://web.archive.org/web/20061231175202id_/http%3A//www.thecloud.net/search.asp?section=1)
+  * [Search](https://web.archive.org/web/20070509112301id_/http%3A//www.thecloud.net/search.asp?section=1)
 
   
 | 
@@ -77,98 +78,98 @@ We use cookies for certain areas of our website. Cookies are files that store in
 
 |  |  | 
 
-| [](https://web.archive.org/web/20061231175202id_/http%3A//www.thecloud.net/content.asp%3Fsection%3D1%26content%3D44?section=5)  
+| [](https://web.archive.org/web/20070509112301id_/http%3A//www.thecloud.net/content.asp%3Fsection%3D1%26content%3D44?section=5)  
 ---  
 |  | 
 
-Anywhere, anytime: Wi-Fi's the future  
-The Observer - David Smith - Mobile phones that offer access to the internet will soon be standard, but the real buzz is about a different technology.   
-[MORE](https://web.archive.org/web/20061231175202id_/http%3A//www.thecloud.net/content.asp?section=5&content=48)
+Inspired gaming group signs exclusive services agreement with The Cloud  
+Inspired Gaming Group plc (“Inspired”), the leading worldwide player in the Open Server-Based Gaming (Open SBG™) market, and The Cloud Limited ("The Cloud"), a leading wireless broadband provider, today announced that they have signed a seven year exclusive Services Agreement for Inspired  to provide Network Services to The Cloud.   
+[MORE](https://web.archive.org/web/20070509112301id_/http%3A//www.thecloud.net/content.asp?section=5&content=49)
 
-Manchester to offer free wi-fi access covering 400 sq miles  
-The Times - Rhys Blakely - Manchester City Council will unveil plans today to provide free wireless internet access to 2.2 million people over an area of 400 square miles.   
-[MORE](https://web.archive.org/web/20061231175202id_/http%3A//www.thecloud.net/content.asp?section=5&content=48)
+The Cloud switches on Europe’s most advanced WiFi network across the City of London  
+Nokia offers 350,000 people free access to the City of London network   
+[MORE](https://web.archive.org/web/20070509112301id_/http%3A//www.thecloud.net/content.asp?section=5&content=49)
 
-The Cloud launches major European City WiFi expansion initiative  
-Stuttgart in Germany and Karlskrona in Sweden latest cities to introduce open City WiFi networks with The Cloud   
-[MORE](https://web.archive.org/web/20061231175202id_/http%3A//www.thecloud.net/content.asp?section=5&content=49)
+The Cloud and Future Publishing to offer exclusive content for PSP over public WiFi  
+The Cloud announces PSP WiFi package with seamless internet access and targeted content for gamers    
+[MORE](https://web.archive.org/web/20070509112301id_/http%3A//www.thecloud.net/content.asp?section=5&content=49)
 
-Cloud plans to drift across Europe  
-Financial Times - Andrew Parker - The Cloud, a UK-based operator of wireless telecommunications networks in European cities is seeking to double its presence across the EU in the coming year.   
-[MORE](https://web.archive.org/web/20061231175202id_/http%3A//www.thecloud.net/content.asp?section=5&content=48)
+The Cloud's Owen Geddes on why public Wi-Fi isn't just for suits   
+TECHDIGEST - Wi-Fi hotspots are mainly useful for business types, right? Great for catching up with emails over a Latte or seven, while barking out PowerCommands in a series of VoIP calls with your minions. But thanks to the pricing, not that useful to those of us who don't have a company credit card. That could be changing though. [ read ]   
+[MORE](https://web.archive.org/web/20070509112301id_/http%3A//www.thecloud.net/content.asp?section=5&content=48)
 
-The Cloud announces new partnership with Little Chef  
-New deal cements its position as number one provider of WiFi to the hospitality industry   
-[MORE](https://web.archive.org/web/20061231175202id_/http%3A//www.thecloud.net/content.asp?section=5&content=49)
+Vista users get free Wi-FI  
+The Register - Users making the leap to Microsoft's latest OS will get a few months' free Wi-Fi usage courtesy of hotspot aggregator The Cloud. [ read ]   
+[MORE](https://web.archive.org/web/20070509112301id_/http%3A//www.thecloud.net/content.asp?section=5&content=48)
 
-Little Chef rolls out Wi-Fi to attract business traffic  
-Caterer and Hotel Keeper - Little Chef hopes to attract a brand new customer base by offering wireless internet access at its roadside restaurants.   
-[MORE](https://web.archive.org/web/20061231175202id_/http%3A//www.thecloud.net/content.asp?section=5&content=48)
+Free Wi-Fi for Windows Vista Users   
+ISP Review - Following on from last weeks news, The Cloud has finally added a page to its website where legitimate owners of Microsoft's new operating system (Vista) can get their free Wi-Fi Hotspot access. [ read ]   
+[MORE](https://web.archive.org/web/20070509112301id_/http%3A//www.thecloud.net/content.asp?section=5&content=48)
 
-Arsenal kicks off with wireless network  
-Computer Weekly   
-[MORE](https://web.archive.org/web/20061231175202id_/http%3A//www.thecloud.net/content.asp?section=5&content=48)
+The Cloud confirms free Wi-Fi for Vista adopters  
+ISP Review - The Cloud has confirmed our earlier report, which revealed their intention to offer early adopts of Microsoft's new operating system (Vista) "free" Wi-Fi Hotspot access. [ read ]   
+[MORE](https://web.archive.org/web/20070509112301id_/http%3A//www.thecloud.net/content.asp?section=5&content=48)
 
-Cloud set to go down a storm  
-City AM - Joanne McCulloch - George Polk, a descendant of the 11th American president, could have ended up working for George Bush. Instead he's about to turn the City into the most enhanced WiFi hotspot in Europe.   
-[MORE](https://web.archive.org/web/20061231175202id_/http%3A//www.thecloud.net/content.asp?section=5&content=48)
+The Cloud has silver lining for Vista users   
+Computeractive.co.uk - Hotspot provider The Cloud is offering UK Vista customers up to three months of free Wifi access.[ read ]   
+[MORE](https://web.archive.org/web/20070509112301id_/http%3A//www.thecloud.net/content.asp?section=5&content=48)
 
-Emirates Stadium selects The Cloud and O2 to deliver high speed WiFi access  
-The Cloud announces partnership with O2 to WiFi enable Arsenal's Emirate Stadium   
-[MORE](https://web.archive.org/web/20061231175202id_/http%3A//www.thecloud.net/content.asp?section=5&content=49)
+Vista early birds can catch The Cloud free   
+Silicon.com - Early adopters of Windows Vista will be able to get three months' free wi-fi access with hotspot operator The Cloud. [ read ]   
+[MORE](https://web.archive.org/web/20070509112301id_/http%3A//www.thecloud.net/content.asp?section=5&content=48)
 
-Service simplifies mobile billing  
-IT Week - Dave Bailey Virtual network operator (VNO) Sirocom last week launched an enterprise mobility system called Sironconnect Price Bundling that will compete with burgeoning fixed mobile convergence (FMC) and all-in-one connectivity options from telcos and ISPs.   
-[MORE](https://web.archive.org/web/20061231175202id_/http%3A//www.thecloud.net/content.asp?section=5&content=48)
+Channel 4 podcasts available via Wi-Fi  
+WebUser   
+[MORE](https://web.archive.org/web/20070509112301id_/http%3A//www.thecloud.net/content.asp?section=5&content=48)
 
-Free calls for Londoners as The Cloud launches WiFi network  
-City AM - Londoners will soon be able to make free phone calls at WiFi hotspots across the capital, using a roaming service from internet phone firm Skype.   
-[MORE](https://web.archive.org/web/20061231175202id_/http%3A//www.thecloud.net/content.asp?section=5&content=48)
+Birmingham's Bullring Centre gets WiFi  
+ERT Weekly.com  \- The Bullring shopping centre in Birmingham has cemented its position as one of the world’s most advanced retail complexes by offering its visitors wireless Internet access. [ read ]   
+[MORE](https://web.archive.org/web/20070509112301id_/http%3A//www.thecloud.net/content.asp?section=5&content=48)
 
-The Cloud teams with Skype for mobile roaming  
-NMA Online   
-[MORE](https://web.archive.org/web/20061231175202id_/http%3A//www.thecloud.net/content.asp?section=5&content=48)
+The Cloud brings WiFi to shoppers  
+Computeractive.co.uk  \- Wireless access to be available throughout Birmingham’s biggest shopping centre.[ read ]   
+[MORE](https://web.archive.org/web/20070509112301id_/http%3A//www.thecloud.net/content.asp?section=5&content=48)
 
-Wireless hot spots will allow free mobile calls  
-Evening Standard - Mark Prigg - New telecom service could be final nail in coffin of traditional phone porviders.   
-[MORE](https://web.archive.org/web/20061231175202id_/http%3A//www.thecloud.net/content.asp?section=5&content=48)
+Tablet works faster, lasts longer  
+IT Week - Dan Robinson   
+[MORE](https://web.archive.org/web/20070509112301id_/http%3A//www.thecloud.net/content.asp?section=5&content=48)
 
-Free web calls go mobile  
-London Lite - Mark Prigg - Mobile phone calls will soon be available free on the internet at thousands of "hotspots" in London.   
-[MORE](https://web.archive.org/web/20061231175202id_/http%3A//www.thecloud.net/content.asp?section=5&content=48)
+Visionary making London wireless  
+City AM - Joanne McCulloch - George Polk, founder of WiFi company The Cloud is the winner of our search for the most innovative business person in the Square Mile   
+[MORE](https://web.archive.org/web/20070509112301id_/http%3A//www.thecloud.net/content.asp?section=5&content=48)
 
-SMC Networks, The Cloud and Skype partner to deliver first European Skype WiFi handset service at public hotspots  
-Agreement gives users of SMC WiFi phone for Skype automatic and seamless access to over 8500 of The Cloud's hotspots across Europe   
-[MORE](https://web.archive.org/web/20061231175202id_/http%3A//www.thecloud.net/content.asp?section=5&content=49)
+Wireless security  
+NMA Explains - Ross Bentley - The nature of a wireless connection makes it more prone to external access, but that doesn't mean it can't be secured.   
+[MORE](https://web.archive.org/web/20070509112301id_/http%3A//www.thecloud.net/content.asp?section=5&content=48)
 
-The Cloud launches Metro WiFi business and acquires Hotspot Amsterdam  
-European Metro WiFi takes a step forward   
-[MORE](https://web.archive.org/web/20061231175202id_/http%3A//www.thecloud.net/content.asp?section=5&content=49)
+Channel 4  
+Marketing - Channel 4 is making its podcast content available over a public Wi-Fi network for a two-month period.   
+[MORE](https://web.archive.org/web/20070509112301id_/http%3A//www.thecloud.net/content.asp?section=5&content=48)
 
-The Cloud launches Metro WiFi business and acquires Hotspot Amsterdam  
-European Metro WiFi takes a step forward   
-[MORE](https://web.archive.org/web/20061231175202id_/http%3A//www.thecloud.net/content.asp?section=5&content=49)
+The Cloud looks to reign over TV  
+Whatpc.co.uk  \- An increasing number of consumers are turning to handheld gadgets to get news and other video content, according to Wifi and network operator The Cloud.[ read ]   
+[MORE](https://web.archive.org/web/20070509112301id_/http%3A//www.thecloud.net/content.asp?section=5&content=48)
 
-Wimax set to raise £3m for City roll-out  
-City AM - Joanne McCulloch - Wireless network provider Urban Wimax is raising £3m to expand its services in the City, taking on the likes of BT and The Cloud.   
-[MORE](https://web.archive.org/web/20061231175202id_/http%3A//www.thecloud.net/content.asp?section=5&content=48)
+The Cloud looks to reign over TV  
+Computeractive.co.uk  \- An increasing number of consumers are turning to handheld gadgets to get news and other video content, according to Wifi and network operator The Cloud.[ read ]   
+[MORE](https://web.archive.org/web/20070509112301id_/http%3A//www.thecloud.net/content.asp?section=5&content=48)
 
-Satellite link to improve internet access on trains  
-The Independent - Nic Fildes   
-[MORE](https://web.archive.org/web/20061231175202id_/http%3A//www.thecloud.net/content.asp?section=5&content=48)
+Nokia and The Cloud to offer free WiFi access with Nokia N800 Internet Tablet  
+Nokia (www.nokia.co.uk) and The Cloud (www.thecloud.net) today announced a partnership that will give Nokia users access to over 7,500 public WiFi hotspots across the UK.   
+[MORE](https://web.archive.org/web/20070509112301id_/http%3A//www.thecloud.net/content.asp?section=5&content=49)
 
-Cloud considers T-Mobile complaint  
-The Independent - Nic Fildes   
-[MORE](https://web.archive.org/web/20061231175202id_/http%3A//www.thecloud.net/content.asp?section=5&content=48)
+Business people who are pushing the boundaries  
+City AM - As our search for the most innovative business man or woman draws to a close, we look back at the contenders.  Today, a reminder of how The Cloud's George Polk and Paul bakery's David Belhassen are shaking things up   
+[MORE](https://web.archive.org/web/20070509112301id_/http%3A//www.thecloud.net/content.asp?section=5&content=48)
 
 |   
 ---|---|---  
   
-Having access to The Cloud’s network helps reinforce The British Library’s image as a progressive, technologically aware organisation and we are excited to see how usage will evolve
+By partnering with The Cloud, we are able to offer thousands of new venues to our enterprise customers...We are convinced this will be of significant benefit to iPass users
 
-British Library  
+iPass  
   
-| [](https://web.archive.org/web/20061231175202id_/http%3A//www.thecloud.net/content.asp?section=4&content=39)  
+| [](https://web.archive.org/web/20070509112301id_/http%3A//www.thecloud.net/content.asp?section=4&content=39)  
 ---  
 |  |  Address  
   
