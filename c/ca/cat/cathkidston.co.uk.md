@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cathkidston.co.uk privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205204106id_/http%3A//www.cathkidston.co.uk/info/Security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cathkidston.co.uk privacy policy that was archived on 2007-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070509033130id_/http%3A//www.cathkidston.co.uk/content1.aspx%3Fpostingid%3DSecurity) for the most accurate reproduction.*
 
 # Cath Kidston
 
@@ -6,7 +6,7 @@ When you provide us with personally identifiable information ("Personal Informat
 
 The purpose of this statement is to tell you what Personal Information we collect about you during your visit to this Website and what we do with that information. Your visit to www.cathkidston.co.uk and the sale of our goods to you via www.cathkidston.co.uk are subject to this Privacy Policy and our [Terms and Conditions](http://www.cathkidston.co.uk/info/Terms.aspx "http://www.cathkidston.co.uk/info/Terms.aspx")
 
-## Collection of information
+## Collection of information
 
 We do not collect Personal Information about you, except when you provide it to us. When you submit your Personal Information on www.cathkidston.co.uk, you will be asked to consent to the processing and transfers of your Personal Information as set forth in this Privacy Policy. If you would prefer that we don’t collect any Personal Information from you, please do not provide us with any such information. 
 
@@ -21,14 +21,14 @@ We may share or transfer Personal Information and non-personally identifiable in
 
 Such affiliates, licensees and partners may be located in countries both inside and outside the European Economic Area ("EEA"). Although countries outside the EEA may not require the same level of protection of Personal Information as countries within the EEA, we always demand that our affiliates, licensees and partners adhere to the same procedures that we follow ourselves with respect to your Personal Information, including this Privacy Policy. We will not sell or rent your Personal Information to third parties without your consent, except as disclosed in this Privacy Policy.
 
-We may also use your information to tell you about our products, promotions and special offers that may be of interest to you, by email, mail or by telephone. In particular, we may look at what you have previously ordered in an attempt to tell you about promotions that will be of particular interest to you. All customers are given the opportunity to opt-out of receiving such further information at te e that they give usir Personal Information. However, this decision may be reversed at any time by updating your profile n the "my account" page or by contacting Customer Services on the following number 0870 850 1084 (open 9.00am to 6pm, Monday to Frid) or email info@cathkidston.co.uk
+We may also use your information to tell you about our products, promotions and special offers that may be of interest to you, by email, mail or by telephone. In particular, we may look at what you have previously ordered in an attempt to tell you about promotions that will be of particular interest to you. All customers are given the opportunity to opt-out of receiving such further information at te e that they give usir Personal Information. However, this decision may be reversed at any time by updating your profile n the "my account" page or by contacting Customer Services on the following number 0845 026 2440 (open 9.00am to 6pm, Monday to Frid) or email info@cathkidston.co.uk
 
 We may disclose any information, including Personal Information, we deem necessary, in our sole discretion, to comply with any applicable law, regulation, legal process or governmental request.
 
-Sensitive information is not sought through this Website. Sensitive information includes data relating to: race or ethnic origin; political opinions; religious or other similar beliefs; physical or mental health. If you do provide sensitive information, by providing that information you explicitly consent to us using it for the purposes for which ithas been provided.
+Sensitive information is not sought through this Website. Sensitive information includes data relating to: race or ethnic origin; political opinions; religious or other similar beliefs; physical or mental health. If you do provide sensitive information, by providing that information you explicitly consent to us using it for the purposes for which itas ben provided.
 
   
-We will take reasonable steps to create an accurate record of any Personal Information you have submitted through the Website. However, we do not assume responsibility for confirming the ongoing accuracy of your Personal Information. If you advise us that your Personal Information is no longer accurate, we will, so far as practicable, make corrections. If any of the information that you provided on registration changes, please update your records immediately by visiting the "my account" page or by contacting Customer Services on the following number 0870 850 1084 (open 9.00am to 6pm, Monday to Friday) or email us info@cathkidston.co.uk
+We will take reasonable steps to create an accurate record of any Personal Information you have submitted through the Website. However, we do not assume responsibility for confirming the ongoing accuracy of your Personal Information. If you advise us that your Personal Information is no longer accurate, we will, so far as practicable, make corrections. If any of the information that you provided on registration changes, please update your records immediately by visiting the "my account" page or by contacting Customer Services on the following number 0845 026 2440 (open 9.00am to 6pm, Monday to Friday) or email us info@cathkidston.co.uk
 
 You can also request that your Personal Information is deleted from our systems at any time by emailing us at info@cathkidston.co.uk
 
@@ -57,7 +57,7 @@ You have the ability to accept or decline cookies by modifying the settings in y
 
 ## Third Parties
 
-We may retain other companies and individuals to perform functions on our behalf in relation to the purposes set forth in this Privacy Policy. Examples include credit/debit card validation and authorisation agencies, data analysis firms, customer support specialists, webhosting companies, and fulfilment companies (e.g., companies that coordinate mailings). Suchthird parties may be provided with access to your Personal Information if needed to perform their functions, but may not use such information for any other purpose. Such third parties may be located in countries both inside and outside the European Economic Area ("EEA"). Although countries outside the EEA may not require the same level of protection of Personal Information as countries within the EEA, we always demand that third parties adhere to the same procedures that we follow ourselves with respect to your Personal Information, including this Privacy Policy. 
+We may retain other companies and individuals to perform functions on our behalf in relation to the purposes set forth in this Privacy Policy. Examples include credit/debit card validation and authorisation agencies, data analysis firms, customer support specialists, webhosting companies, and fulfilment companies (e.g., companies that coordinate mailings). Suchtird paties may be provided with access to your Personal Information if needed to perform their functions, but may not use such information for any other purpose. Such third parties may be located in countries both inside and outside the European Economic Area ("EEA"). Although countries outside the EEA may not require the same level of protection of Personal Information as countries within the EEA, we always demand that third parties adhere to the same procedures that we follow ourselves with respect to your Personal Information, including this Privacy Policy. 
 
 ##### Links
 
