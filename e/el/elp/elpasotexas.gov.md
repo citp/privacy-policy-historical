@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the elpasotexas.gov privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019220020id_/http%3A//www.elpasotexas.gov/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elpasotexas.gov privacy policy that was archived on 2007-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070510001637id_/http%3A//www.elpasotexas.gov/privacy.asp) for the most accurate reproduction.*
 
-# www.elpasotexas.gov - Privacy Policy
+# www.elpasotexas.gov - City of El Paso
 
 The Information Technology Department (IT) of the CITY OF EL PASO maintains the CITY OF EL PASO website as a public service. The following is the privacy policy for this site (all pages starting with [www.elpasotexas.gov](http://www.elpasotexas.gov/)): 
 
@@ -30,8 +30,8 @@ We use Log analysis tools to create summary statistics, which are used for purpo
 
 * * *
 
-EMAIL SUBSCRIPTION PRIVACY POLICY
+**EMAIL SUBSCRIPTION PRIVACY POLICY**
 
 The CITY OF EL PASO respects the privacy of every individual who visits our website. 
 
-The CITY OF EL PASO is collecting your email address and name for the purpose of sending the information you are requesting. Your email address will be used to send the information and your name, if provided, to personalize the email. The information you provide to the CITY OF EL PASO will not be used for any other purpose unless legally required to do so in connection with law enforcement investigations or other legal proceedings, or in accordance with the Texas Public Information Act. Additionally, the CITY OF EL PASO will not give, sell, or otherwise transfer your information to any other parties. The CITY OF EL PASO does not engage in the transmission of unsolicited email and you may opt out of receiving this information at any time by following the unsubscribe link on each email.
+The CITY OF EL PASO is collecting your email address and name for the purpose of sending the information you are requesting. Your email address will be used to send the information and your name, if provided, to personalize the email. The information you provide to the CITY OF EL PASO will not be used for any other purpose unless legally required to do so in connection with law enforcement investigations or other legal proceedings, or in accordance with the Texas Public Information Act. Additionally, the CITY OF EL PASO will not give, sell, or otherwise transfer your information to any other parties. The CITY OF EL PASO does not engage in the transmission of unsolicited email and you may opt out of receiving this information at any time by following the unsubscribe link on each email. 
