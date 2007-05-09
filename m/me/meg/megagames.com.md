@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megagames.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215204546id_/http%3A//megagames.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megagames.com privacy policy that was archived on 2007-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070509215957id_/http%3A//www.megagames.com/policy.htm) for the most accurate reproduction.*
 
 # MegaGames - Privacy Statement
 
