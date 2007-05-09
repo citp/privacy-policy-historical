@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jayco.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018205348id_/http%3A//www.jayco.com/php/privacy.policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jayco.com privacy policy that was archived on 2007-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070509102412id_/http%3A//www.jayco.com/php/privacy.policy.php) for the most accurate reproduction.*
 
-# Jayco 2006
+# Jayco 2007
 
 ## Contact Us
 
@@ -13,7 +13,7 @@ Middlebury, IN 46540
 Telephone: (574) 825-5861  
 Fax: (574) 825-7354 
 
-To email us please visit the [Contact Us](https://web.archive.org/web/20061018205348id_/http%3A//www.jayco.com/php/about/contact.us.php) page. 
+To email us please visit the [Contact Us](https://web.archive.org/web/20070509102412id_/http%3A//www.jayco.com/php/about/contact.us.php) page. 
 
 ## Our Commitment to Your Privacy
 
