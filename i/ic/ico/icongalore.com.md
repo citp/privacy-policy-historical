@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icongalore.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230100112id_/http%3A//www.icongalore.com/legal/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icongalore.com privacy policy that was archived on 2007-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070509114808id_/http%3A//www.icongalore.com/legal/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy policy
 
