@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ntta.org privacy policy that was archived on 2006-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061006042028id_/http%3A//www.ntta.org/WorkingWithUs/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntta.org privacy policy that was archived on 2007-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070509110728id_/http%3A//www.ntta.org/WorkingWithUs/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # NTTA: About NTTA
 
@@ -12,9 +12,9 @@ We respect the privacy of your information. We provide this explanation about ou
 
 You may browse our web site without providing any information whatsoever. Our web site's TollTag application form and business opportunities registration requires users to give us contact information. This information is used to provide information to those who inquire about accounts, services, and to bid on business opportunities. This information is also used to get in touch with customers when necessary. From time to time, the information gathered through this site will be used to notify you about services and opportunities that we think will be of interest to you.
 
-We may share the information we collect about you with third parties from the following category (revise or expand list as appropriate):
+We may share the information we collect about you with third parties from the following categories:
 
-Collection Agencies, Government Agencies, Credit Card Companies, Check Processing Companies, and Banks
+Collection Agencies, Government Agencies, Credit Card Companies, Check Processing Companies, Banks, and Our Interoperability Partners and their Licensees
 
 In addition, we automatically gather general statistical information about our Website and visitors. We use this data in the aggregate to determine how much our customers use parts of our site so we can improve our site. We may provide this statistical information to third parties, but when we do so we do not provide personally-identifying information without your permission.
 
