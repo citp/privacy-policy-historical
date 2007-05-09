@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quityourdayjob.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205191151id_/http%3A//www.quityourdayjob.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quityourdayjob.com privacy policy that was archived on 2007-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070509142152id_/http%3A//www.quityourdayjob.com/privacy.php) for the most accurate reproduction.*
 
 # Quit Your Day Job Privacy Policy
 
