@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the broadcastingcable.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208174226id_/http%3A//www.broadcastingcable.com/info/CA319082.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadcastingcable.com privacy policy that was archived on 2007-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070509155434id_/http%3A//www.broadcastingcable.com/info/CA319082.html) for the most accurate reproduction.*
 
-# Privacy Policy on Broadcasting & Cable: The Business of Television
+# Privacy Policy - Broadcasting & Cable
 
-| 
-
-### Privacy Policy
+## Privacy Policy
 
 Last Revised: May/2006
 
