@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realjock.com privacy policy that was archived on 2006-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060812032848id_/http%3A//www.realjock.com/u/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realjock.com privacy policy that was archived on 2007-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070509114613id_/http%3A//www.realjock.com/u/privacypolicy) for the most accurate reproduction.*
 
 # RealJock: Gay sports and gay fitness for gay jocks, athletes, and fitness buffs.
 
