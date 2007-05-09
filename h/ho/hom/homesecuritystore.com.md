@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homesecuritystore.com privacy policy that was archived on 2006-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060612221702id_/http%3A//www.homesecuritystore.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesecuritystore.com privacy policy that was archived on 2007-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070509083511id_/http%3A//www.homesecuritystore.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement Home Security Store
 
@@ -36,4 +36,4 @@ This site gives users the following options for changing and modifying informati
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact  Ralph Winn  Home Security Store, Inc.  1660 Chicage Ave Suite M-3  Riverside, CA. 92507    sales@homesecuritystore.com 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact  Ralph Winn  Home Security Store, Inc.  1760 Chicage Ave Suite L21  Riverside, CA. 92507 
