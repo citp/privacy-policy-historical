@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the infor.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016075217id_/http%3A//infor.com/infor/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infor.com privacy policy that was archived on 2007-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070509225750id_/http%3A//www.infor.com/company/privacy) for the most accurate reproduction.*
 
-# Infor Global Solutions - Privacy
+# Infor - Privacy
 
-|  |  |   
----  
-  
-**Company Privacy Policy**
+**      Company Privacy Policy **
 
 Infor Global Solutions (the "Company") regards its customers privacy as one of its most important values. The Company wants you to know how it protects the information of Company customers who make use of the services and products offered though this website (the "Company Website"). 
 
@@ -42,5 +39,3 @@ Please note that the Company does not control the privacy policies or data shari
     * _Enforcement_. If for some reason you believe the Company has not adhered to these rules, please notify us by e-mail at info@infor.com, and the Company will do its best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line. 
 
 
-
-  | 
