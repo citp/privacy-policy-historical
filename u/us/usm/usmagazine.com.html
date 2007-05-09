@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the usmagazine.com privacy policy that was archived on 2006-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061224004405id_/http%3A//www.usmagazine.com/node/1802) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the usmagazine.com privacy policy that was archived on 2007-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070509170326id_/http%3A//usmagazine.com/node/1802) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" class="js"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <title>Privacy Policy | Us Weekly Online</title>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Privacy Policy | Usmagazine.com</title>
+  <!-- title is Privacy Policy | Usmagazine.com--><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <style type="text/css" media="all">@import "/misc/drupal.css";</style>
 <script type="text/javascript"><!--
   var BASE_URL = "/";
@@ -12,6 +12,7 @@
 
 <script type="text/javascript" src="/misc/drupal.js"></script>
 <script type="text/javascript" src="/sites/default/modules/img_assist/img_assist.js"></script>
+<link rel="alternate" type="application/atom+xml" title="Atom" href="http://www.usmagazine.com/kargo_atom/feed">
   <style type="text/css" media="all">@import "/sites/default/modules/tagadelic/tagadelic.css";</style><style type="text/css" media="all">@import "/sites/default/themes/etr_cms/style.css";</style>  <script type="text/javascript"> </script>
 
 <!-- poll javascript -->
@@ -21,6 +22,13 @@ function openPopup( url, name, widgets, openerUrl )
 	var popupWin = window.open( url + "&response=" + get_radio_value(), name, widgets );
 	if ( popupWin) {
 		popupWin.focus();
+	}
+}
+function openSupPopup( url, name, widgets )
+{
+	var popupWin = window.open( url, name, widgets );
+	if ( popupWin) {
+		popupWin.opener.focus();
 	}
 }
 function get_radio_value()
@@ -35,6 +43,13 @@ for (var i=0; i < document.thePoll.response.length; i++)
 }
 
 </script>
+<script language="JavaScript">
+function setHome()
+{
+   document.body.style.behavior='url(#default#homepage)';
+   document.body.setHomePage(window.location.href);
+}
+</script>
 
  <!-- rm js and css -->
   <script language="JavaScript1.2" src="/sites/default/themes/etr_cms/js/rollovers.js" type="text/javascript"></script>
@@ -42,52 +57,86 @@ for (var i=0; i < document.thePoll.response.length; i++)
   <script language="JavaScript1.2" src="/sites/default/themes/etr_cms/js/FLRelease2.js" type="text/javascript"></script>
 
 
-  <link href="/sites/default/themes/etr_cms/css/master.css" rel="stylesheet" type="text/css">
+  <!-- <link href="/sites/default/themes/etr_cms/css/master.css" rel="stylesheet" type="text/css" /> -->
   <link href="/sites/default/themes/etr_cms/css/admin.css" rel="stylesheet" type="text/css">
 
    <!-- old stylesheets -->
 
 <!-- thisminute -->
 
-
-  <!-- new stylesheets -->
-  <link href="/sites/default/themes/etr_cms/css/v3_main.css" rel="stylesheet" type="text/css">
-
-
-
-
-
+  <link href="/sites/default/themes/etr_cms/css/v3b_main.css" rel="stylesheet" type="text/css">
+			  <link href="/sites/default/themes/etr_cms/css/v3_navbar_b.css" rel="stylesheet" type="text/css">
+  <link href="/sites/default/themes/etr_cms/css/v3_jtcustom.css" rel="stylesheet" type="text/css">
 
 </head>
 
 <body onload="initRollover();">
+<script language="JavaScript">
+function getcookie(cookiename) {
+ var cookiestring=""+document.cookie;
+ var index1=cookiestring.indexOf(cookiename);
+ if (index1==-1 || cookiename=="") return ""; 
+ var index2=cookiestring.indexOf(';',index1);
+ if (index2==-1) index2=cookiestring.length; 
+ return unescape(cookiestring.substring(index1+cookiename.length+1,index2));
+}
+	
+	if(getcookie ( "subpop" ) != "1") {
+
+		var myDate = new Date();
+		myDate.setDate(myDate.getDate() + 7);
+	
+		document.cookie = "subpop=1; expires=" + myDate + "; path=/;";
+
+		//document.write("<!-- " + document.cookie + "-->");
+		//document.write("<!-- " + getcookie ( "subpop" ) + "-->");
+
+		openSupPopup('https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=USW&cds_page_id=35470', 'subpopup', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=450,height=650');
+	} else {
+		//document.write("<!-- " + document.cookie + "-->");
+		//document.write("<!-- " + getcookie ( "subpop" ) + "-->");
+	
+	}
+	
+	//window.focus;
+</script>
 <!-- c_area:  -->
 
-<div class="admin_sidebar"></div>
+<div class="admin_sidebar">
+	</div>
+
+<!-- Background Test for Ad Page -->
 
 <!-- start of Us header -->
 <center>
+
 <div class="mainContainer">
 <div class="header">
+
+
 	<div class="headerContent">
 		<div class="banner728">
 			<script language="JavaScript" type="text/javascript">
 ord=Math.random()*10000000000000000;
-document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/usweek.features/;tile=1;dcopt=ist;sz=728x90;ord=' + ord + '?" type="text/javascript"><\/script>');
-</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/usweek.features/;tile=1;dcopt=ist;sz=728x90;ord=230264425782962.25?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/usweek.features/;tile=1;sz=728x90;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/usweek.features/;tile=1;sz=728x90;ord=123456789?" width="728" height="90" border="0" alt=""></a></noscript>    </div>
-    <div class="specialOffer"><a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=USW&amp;cds_page_id=33065"><img src="/sites/default/themes/etr_cms/images/v3_home_ad_header.gif" alt="Special Offer" width="358" height="35"></a>
+document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/usweek.features/;exc=yes;tile=1;dcopt=ist;sz=728x90;ord=' + ord + '?" type="text/javascript"><\/script>');
+</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/usweek.features/;exc=yes;tile=1;dcopt=ist;sz=728x90;ord=2056756473648688.8?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/usweek.features/;exc=yes;tile=1;sz=728x90;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/usweek.features/;exc=yes;tile=1;sz=728x90;ord=123456789?" width="728" height="90" border="0" alt=""></a></noscript>    </div>
+    <div class="specialOffer"><a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=USW&amp;cds_page_id=36536"><img src="/sites/default/themes/etr_cms/images/v3_home_ad_header_spring_2.jpg" alt="Special Offer" width="358" height="35"></a>
     </div>
-		<div class="headerLinks"><a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=USW&amp;cds_page_id=33065">Subscribe</a> &nbsp; | &nbsp; <a href="#">Newsletter</a> &nbsp; | &nbsp;<a href="http://www.tellusmagazine.com/">Talk to Us </a>&nbsp; | &nbsp; <a href="#">Get Us to Go</a>
+		<div class="headerLinks"><a href="#">Newsletter</a>&nbsp;|&nbsp;<a href="#" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.usmagazine.com');">Make <i>Us</i> My Homepage</a>&nbsp;|&nbsp;<a href="#"><i>Us</i> Mobile</a>&nbsp;|&nbsp;<a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=USW&amp;cds_page_id=36593">Subscribe</a>
 		</div>
 
 	</div>
-	<div class="usLogo"><img src="/sites/default/themes/etr_cms/images/v3_logo_us_bg.gif" alt="Us Magazine" width="162" height="121">
+
+	<div class="usLogo"><a href="/"><img src="/sites/default/themes/etr_cms/images/v3_logo_us_bg_march07.gif" alt="Us Magazine"></a>
 	</div>
 </div>
 
 <div class="mainNav">
-	<div class="mainNavbtns"><a href="/"><img src="/sites/default/themes/etr_cms/images/v3_home_btn_home.gif" hsrc="/sites/default/themes/etr_cms/images/v3_home_btn_home_o.gif" alt="Home" osrc="/sites/default/themes/etr_cms/images/v3_home_btn_home.gif"></a><a href="/celebrity_news"><img src="/sites/default/themes/etr_cms/images/v3_home_btn_news.gif" alt="Celebrity News" width="141" height="32" border="0" hsrc="/sites/default/themes/etr_cms/images/v3_home_btn_news_o.gif" osrc="/sites/default/themes/etr_cms/images/v3_home_btn_news.gif"></a><a href="/fashion"><img src="/sites/default/themes/etr_cms/images/v3_home_btn_fashion.gif" alt="Fashion" width="80" height="32" border="0" hsrc="/sites/default/themes/etr_cms/images/v3_home_btn_fashion_o.gif" osrc="/sites/default/themes/etr_cms/images/v3_home_btn_fashion.gif"></a><a href="/beauty"><img src="/sites/default/themes/etr_cms/images/v3_home_btn_beauty.gif" alt="Beauty" width="75" height="32" border="0" hsrc="/sites/default/themes/etr_cms/images/v3_home_btn_beauty_o.gif" osrc="/sites/default/themes/etr_cms/images/v3_home_btn_beauty.gif"></a><a href="/entertainment"><img src="/sites/default/themes/etr_cms/images/v3_home_btn_entertainment.gif" alt="Entertainment" width="136" height="32" border="0" hsrc="/sites/default/themes/etr_cms/images/v3_home_btn_entertainment_o.gif" osrc="/sites/default/themes/etr_cms/images/v3_home_btn_entertainment.gif"></a><a href="/star_profiles"><img src="/sites/default/themes/etr_cms/images/v3_home_btn_profiles.gif" alt="Star Profiles" width="127" height="32" border="0" hsrc="/sites/default/themes/etr_cms/images/v3_home_btn_profiles_o.gif" osrc="/sites/default/themes/etr_cms/images/v3_home_btn_profiles.gif"></a><img src="/sites/default/themes/etr_cms/images/v3_home_title_search.gif" alt="Seach" width="162" height="32">
-	</div>
+
+<div class="mainNavbtns"><a href="/"><img src="/sites/default/themes/etr_cms/images/v3bb_tnav_btn_home.gif" alt="HOME" width="56" height="32" hsrc="/sites/default/themes/etr_cms/images/v3bb_tnav_btn_home_o.gif" osrc="/sites/default/themes/etr_cms/images/v3bb_tnav_btn_home.gif"></a><a href="/celebrity_news"><img src="/sites/default/themes/etr_cms/images/v3bb_tnav_btn_news.gif" alt="NEWS" width="53" height="32" border="0" hsrc="/sites/default/themes/etr_cms/images/v3bb_tnav_btn_news_o.gif" osrc="/sites/default/themes/etr_cms/images/v3bb_tnav_btn_news.gif"></a><a href="/node/8855"><img src="/sites/default/themes/etr_cms/images/v3bb_tnav_btn_photos.gif" alt="PHOTOS" width="64" height="32" border="0" hsrc="/sites/default/themes/etr_cms/images/v3bb_tnav_btn_photos_o.gif" osrc="/sites/default/themes/etr_cms/images/v3bb_tnav_btn_photos.gif"></a><a href="/fashion"><img src="/sites/default/themes/etr_cms/images/v3bb_tnav_btn_fashion.gif" alt="FASHION" width="69" height="32" border="0" hsrc="/sites/default/themes/etr_cms/images/v3bb_tnav_btn_fashion_o.gif" osrc="/sites/default/themes/etr_cms/images/v3bb_tnav_btn_fashion.gif"></a><a href="/beauty"><img src="/sites/default/themes/etr_cms/images/v3bb_tnav_btn_beauty.gif" alt="BEAUTY" width="65" height="32" border="0" hsrc="/sites/default/themes/etr_cms/images/v3bb_tnav_btn_beauty_o.gif" osrc="/sites/default/themes/etr_cms/images/v3bb_tnav_btn_beauty.gif"></a><a href="/entertainment"><img src="/sites/default/themes/etr_cms/images/v3bb_tnav_btn_tainment.gif" alt="ENTERTAINMENT" width="123" height="32" border="0" hsrc="/sites/default/themes/etr_cms/images/v3bb_tnav_btn_tainment_o.gif" osrc="/sites/default/themes/etr_cms/images/v3bb_tnav_btn_tainment.gif"></a><a href="/star_profiles_page"><img src="/sites/default/themes/etr_cms/images/v3bb_tnav_btn_profiles.gif" alt="CELEB DISH" width="89" height="32" border="0" hsrc="/sites/default/themes/etr_cms/images/v3bb_tnav_btn_profiles_o.gif" osrc="/sites/default/themes/etr_cms/images/v3bb_tnav_btn_profiles.gif"></a><a href="/videos"><img src="/sites/default/themes/etr_cms/images/v3bb_tnav_btn_videos.gif" alt="US TV" width="49" height="32" border="0" hsrc="/sites/default/themes/etr_cms/images/v3bb_tnav_btn_videos_o.gif" osrc="/sites/default/themes/etr_cms/images/v3bb_tnav_btn_videos.gif"></a><a href="/games"><img src="/sites/default/themes/etr_cms/images/v3bb_tnav_btn_games.gif" alt="GAMING" width="71" height="32" border="0" hsrc="/sites/default/themes/etr_cms/images/v3bb_tnav_btn_games_o.gif" osrc="/sites/default/themes/etr_cms/images/v3bb_tnav_btn_games.gif"></a><img src="/sites/default/themes/etr_cms/images/v3_home_title_search.gif" alt="Seach" width="162" height="32"></div>
+
+
+
 
 <!-- SEARCH FORM -->
 <form action="/search" method="post" id="search_block_form"><input type="text" maxlength="128" name="edit[search_block_form_keys]" size="15" value="" title="Enter the terms you wish to search for.">
@@ -95,17 +144,21 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
  <input type="image" src="/sites/default/themes/etr_cms/images/v3_btn_go.gif" alt="Go" width="26" height="18" align="top" class="searchGo" name="op" value="Search"> 
  <input type="hidden" name="edit[form_id]" id="edit-search-block-form" value="search_block_form"> 
 </form>
-  
 </div>
-
-<br><!--twocol_narrowheader-->
 <table border="0" cellpadding="0" cellspacing="0" class="columns">
   <tbody><tr>
     <td valign="top" class="mainTd">
-
+    
             <div id="main">
-        <h1 class="title"></h1>
+
+      <div class="columnMain">
+		    <div class="feature_v3b">
+
+        <h1 class="title">
+
+                </h1>
         <div class="tabs"></div>
+
                         <!-- begin content --><div class="node odd">
 
         <div class="content_subhead"><!-- nid is 1802 -->Privacy Policy</div>
@@ -166,62 +219,321 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
     
 </div>
 
-<!-- end content -->      </div>
+<!-- end content -->				</div>
+      </div>
+		</div></td>
 
-
-      
-		</td>
     <td valign="top" class="columnRightTd">
 			<div class="columnRight">    
+    
         <!--nr ad-->
 <div class="banner_300">
 <script language="JavaScript" type="text/javascript">
 ord=Math.random()*10000000000000000;
-document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/usweek.features/;tile=2;sz=300x250;ord=' + ord + '?" type="text/javascript"><\/script>');
-</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/usweek.features/;tile=2;sz=300x250;ord=3949406520948206.5?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/usweek.features/;tile=2;sz=300x250;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/usweek.features/;tile=2;sz=300x250;ord=123456789?" width="300" height="250" border="0" alt=""></a></noscript>
-</div>        <!--  -->
-<div class="insideUs">
-<table>
+document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/usweek.features/;exc=yes;tile=2;sz=300x250;ord=' + ord + '?" type="text/javascript"><\/script>');
+</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/usweek.features/;exc=yes;tile=2;sz=300x250;ord=9048751229361370?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/usweek.features/;exc=yes;tile=2;sz=300x250;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/usweek.features/;exc=yes;tile=2;sz=300x250;ord=123456789?" width="300" height="250" border="0" alt=""></a></noscript>
+</div><!--<div class="viddek">BEGIN SLIDESHOW OF THE DAY</div>-->
+
+
+<style type="text/css">
+<!--
+
+
+.slideimg {
+        height: 110px;
+	padding: 0px;
+	border: 3px solid #32163C;
+	margin: 12px 10px 0 12px;
+}
+
+.slideimgsmall {
+        height: 70px;
+	padding: 0px;
+	border: 2px solid #32163C;
+	margin: 0;
+}
+
+.hedimg {
+	padding: 0px;
+	border: 0;
+	margin: 12px 0 0 0;
+}
+
+.iconimg {
+	float: left;
+	width: 22px;
+	padding: 0px;
+	border: 0;
+	margin: 0;
+}
+
+
+.slidehed {
+	width: 130px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	line-height: 15px;
+	color: #32163C;
+	text-decoration: none;
+	margin: 0 0 2px 0;
+}
+
+
+.slidedek {
+	width: 130px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	line-height: 14px;
+	color: #32163C;
+	text-decoration: none;
+	margin: 0 0 7px 0;
+}
+
+.launchtxt {
+	width: 100px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	line-height: 15px;
+	color: #EC0877;
+	text-decoration: underline;
+	margin: 0;
+}
+
+.launchtxt a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	line-height: 15px;
+	color: #EC0877;
+	text-decoration: underline;
+	margin: 0;
+}
+
+.launchtxt a:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	line-height: 15px;
+	color: #32163C;
+	text-decoration: underline;
+	margin: 0;
+}
+
+.recentgalleries {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 12px;
+	color: #32163C;
+	text-decoration: none;
+	margin: 0 0 0 12px;
+}
+
+.slidecaption {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: normal;
+	line-height: 10px;
+	align: center;
+	color: #32163C;
+	text-decoration: none;
+	margin: 7px 0 0 0;
+}
+
+.slidecaption a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: normal;
+	line-height: 10px;
+	align: center;
+	color: #32163C;
+	text-decoration: none;
+	margin: 7px 0 0 0;
+}
+
+
+.slidecaption a:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: normal;
+	line-height: 10px;
+	align: center;
+	color: #32163C;
+	text-decoration: underline;
+	margin: 7px 0 0 0;
+}
+
+
+-->
+</style>
+<br>
+<!--<div class="viddek">BEGIN PARIS COUNTER</div>-->
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,40,0" width="300" height="130" id="pariscounter"><param name="movie" value="/special/paris_clock/paris_jail_counter.swf"><param name="quality" value="high"><param name="bgcolor" value="#000000"><embed src="/special/paris_clock/paris_jail_counter.swf" quality="high" bgcolor="#000000" width="300" height="130" name="pariscounter" align="" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></object>
+<!--<div class="viddek">END PARIS COUNTER</div>-->
+<br>
+<br>
+<!--<div class="viddek">HOT HOLLYWOOD AD</div>-->
+<a href="/hot_hollywood_style_2007"><img src="/files/images/hh_homepage_ad_0.gif" alt="hot hollywood Style 2007" title="hot hollywood Style 2007" class="image preview" width="300" height="80" border="0"></a>
+<!--<div class="viddek">END HOT HOLLYWOOD AD</div>-->
+<br>
+<br>
+<table width="302" height="119" border="0" cellpadding="0" cellspacing="0" background="/files/images/home_slideshow_bg.gif" bgcolor="#91D2F4">
 <tbody><tr>
-	<td valign="top">
-<img src="/files/images/cover_620.jpg" class="insideUsCover" width="116" height="148">
-	</td>
-	<td valign="top">
-		<img src="/sites/default/themes/etr_cms/images/v3_home_title_insideus.gif" alt="Inside Us" width="167" height="67" class="insideUsHeader">
-		<img src="/sites/default/themes/etr_cms/images/v3_bullet_arrow_orange.gif" alt="Bullet" width="10" height="5"><a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=USW&amp;cds_page_id=33065">subscribe to <i>Us</i></a> <br>
-		  <img src="/sites/default/themes/etr_cms/images/v3_bullet_arrow_orange.gif" alt="Bullet" width="10" height="5"><a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=USW&amp;cds_page_id=10382">renew your subscription </a><br>
-<img src="/sites/default/themes/etr_cms/images/v3_bullet_arrow_orange.gif" alt="Bullet" width="10" height="5"><a href="https://w1.buysub.com/servlet/GiftsGateway?cds_mag_code=USW&amp;cds_page_id=33058">gift subscriptions  </a><br>
-<img src="/sites/default/themes/etr_cms/images/v3_bullet_arrow_orange.gif" alt="Bullet" width="10" height="5"><a href="https://w1.buysub.com/pubs/WM/USW/USW_ComboEntryForm.jsp?cds_page_id=28657&amp;cds_mag_code=USW&amp;id=1166043779717&amp;lsid=63471502341049734&amp;vid=2">customer service </a>
+<td width="131" height="119" valign="top"><div class="slideimg"><a href="/costume_gala_fashion"><img src="/files/images/sandra_home.jpg" alt="Fashion" width="130" height="110"></a></div>
+</td>
+<td width="10">&nbsp;</td>
+<td width="161" valign="top"><div class="hedimg"><img src="/files/images/tag_todays_slideshow.gif" width="128" height="27"></div>
+<div class="slidehed">Leading Ladies Get Glam!</div>	
+<div class="slidedek">Hollywood’s elite trekked to NYC for the Metropolitan Museum of Art’s Costume Institute Benefit Gala on May 7.</div>	
+<div class="launchtxt"><span class="iconimg"><img src="/files/images/photo_icon.gif" width="17" height="20"></span><a href="/costume_gala_fashion">LAUNCH</a></div>
 </td>
 </tr>
 </tbody></table>
+<table width="302" border="0" cellpadding="0" cellspacing="0" bgcolor="#91D2F4">
+  <tbody><tr>
+    <td><div align="center"><img src="/files/images/divider.gif" width="278" height="25"></div></td>
+  </tr>
+</tbody></table>
+<table width="302" border="0" cellpadding="0" cellspacing="0" bgcolor="#91D2F4">
+  <tbody><tr>
+    <td height="23" valign="top"><div class="recentgalleries">Recently Added Galleries </div></td>
+  </tr>
+</tbody></table>
+<table width="302" height="123" border="0" cellpadding="0" cellspacing="0" bgcolor="#91D2F4">
+  <tbody><tr>
+    <td width="12" valign="top"></td>
+    <td width="81" height="23" valign="top"><div class="slideimgsmall"><a href="/hot_hollywood_pete_wentz"><img src="/files/images/pete_tiny.jpg" alt="Pete Wentz" width="80" height="70"></a></div>
+    <div class="slidecaption" align="center"><a href="/hot_hollywood_pete_wentz">Hot Hollywood Style: Pete Wentz</a></div>
+    </td><td width="12" valign="top"></td>
 
+    <td width="81" height="23" valign="top"><div class="slideimgsmall"><a href="/celebrity_getaways"><img src="/files/images/kelly_tiny.jpg" alt="Kelly Clarkson" width="80" height="70"></a></div>
+    <div class="slidecaption" align="center"><a href="celebrity_getaways">Getaways of the Rich &amp; Famous</a></div>
+    </td><td width="12" valign="top"></td>
+
+    <td width="81" height="23" valign="top"><div class="slideimgsmall"><a href="/spring_box_office_babes"><img src="/files/images/tiny_thumb.jpg" width="80" height="70"></a></div>
+    <div class="slidecaption" align="center"><a href="/spring_box_office_babes">Spring's Box Office Babes</a></div>
+    </td><td width="13" valign="top"></td>
+  </tr>
+</tbody></table>
+<!--<div class="viddek">END SLIDESHOW OF THE DAY</div>-->
+
+<!--<div class="viddek">BEGIN CLIP OF THE DAY</div>-->
+<br>
+<br>
+<table width="302" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td><img src="/sites/default/themes/etr_cms/images/vid_ofthe_day.gif" width="302" height="38"></td>
+</tr>
+</tbody></table>
+<table width="302" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td><embed src="http://www.veoh.com/videodetails.swf?player=videodetailsembedded&amp;type=v&amp;permalinkId=v4535044xaDDNCq&amp;id=907320" width="302" height="245" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
+</td>
+</tr>
+</tbody></table>
+<table width="302" height="200" border="0" cellpadding="11" cellspacing="0">
+<tbody><tr>
+<td valign="top" bgcolor="#16051C">
+<div class="vidtitle"><i>Us</i>'s Celebrity Psychic Shares Her Love Predictions - 5/07/07</div>
+<!--<div class="viddek">A Dek can go here if necessary</div>-->
+<br>
+<div class="topvids">Top Videos</div>
+<div class="vidlist">
+1. <a href="/videos?permalinkId=v455646KEFgmaKS" target="_self">Movie Musts and Busts with Bradley Jacobs 5/3/07</a><br>
+2. <a href="/videos?permalinkId=v456775S8QPnAgZ" target="_self">UsTV Spins Inside the Spiderman 3 Premiere</a><br>
+3. <a href="/videos?permalinkId=v431384BwMztbYf" target="_self">The Newest Pussycat Doll Tells All - 5/03/07</a><br>
+4. <a href="/videos?permalinkId=v446607bePsqz3r" target="_self">Hot Hollywood Silver Boot Winner: Kim Kardashian</a><br>
+5. <a href="/videos?permalinkId=v446624smkbCpEZ" target="_self">An Exclusive Look Inside the <i>Us</i> Hot Hollywood Style Bash</a><br>
+6. <a href="/videos?permalinkId=v448471CzSG9nhC" target="_self">Kellie's Hot Hollywood Date With Brody Jenner - 5/01/07</a><br>
+7. <a href="/videos?permalinkId=v4405396AG7WWrn" target="_self">Tomkat Make Love to Paparazzi! </a><br>
+8. <a href="/videos?permalinkId=v439078BnmgWSdw" target="_self">Hot Hollywood Style Winners Reveal Their Secrets! </a><br>
+9. <a href="/videos?permalinkId=v429507JXkKwGry" target="_self">Jennifer Lopez chats with UsTV about her Hot Hollywood Style - 4/27/07</a><br>
+10. <a href="/videos?permalinkId=v420568KjRadcyC&amp;id=907320" target="_self">Hot Hollywood Style Icon 2007: Jennifer Lopez - 4/25/07</a><br>
+<span class="vidmore"><strong><a href="/videos?permalinkId=v2751455eGS3jHr" target="_self">More Videos</a></strong></span>
+</div> 
+</td>
+</tr>
+</tbody></table>
+			
+
+
+<!--<div class="viddek">END CLIP OF THE DAY</div>-->
+
+
+
+        <div class="insideUs">
+<table>
+<tbody><tr>
+<td valign="top">
+<img src="/files/images/u640.cover1_0.jpg" class="insideUsCover" width="116" height="148">
+	</td>
+<td valign="top">
+		<img src="/sites/default/themes/etr_cms/images/v3_home_title_insideus.gif" alt="Inside Us" width="167" height="67" class="insideUsHeader"><br>
+		<img src="/sites/default/themes/etr_cms/images/v3_bullet_arrow_orange.gif" alt="Bullet" width="10" height="5"><a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=USW&amp;cds_page_id=36593">subscribe to <i>Us</i></a> <br>
+		  <img src="/sites/default/themes/etr_cms/images/v3_bullet_arrow_orange.gif" alt="Bullet" width="10" height="5"><a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=USW&amp;cds_page_id=10382">renew your subscription </a><br>
+<img src="/sites/default/themes/etr_cms/images/v3_bullet_arrow_orange.gif" alt="Bullet" width="10" height="5"><a href="https://w1.buysub.com/servlet/GiftsGateway?cds_mag_code=USW&amp;cds_page_id=33058">gift subscriptions  </a><br>
+<img src="/sites/default/themes/etr_cms/images/v3_bullet_arrow_orange.gif" alt="Bullet" width="10" height="5"><a href="https://w1.buysub.com/servlet/CSGateway?cds_mag_code=USW">customer service </a>
+</td>
+</tr>
+</tbody></table>
 <div class="insideUsLinks">
-          <h1>Jen's New Pain<br>
-            <a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=USW&amp;cds_page_id=33065">Weeks after announcing her split from boyfriend Vince Vaughn, Jennifer Aniston suffers another blow as Brad Pitt and Angelina Jolie show off their beautiful new daughter, Shiloh.</a></h1>
-          <h1>Nicole's Drug Battles<br>
-           <a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=USW&amp;cds_page_id=33065">With prison time on the line — and her history of addiction — Nicole Richie continues to party after her shocking DUI arrest.</a>.</h1>
-          <h1>Britney: Worst Star Style<br>
-            <a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=USW&amp;cds_page_id=33065">Britney Spears suffered fashion flops, bad hairdos and indecent exposure again (and again!) this year. </a></h1>
+<h1>RICKI LAKE - HALF HER SIZE!<br>
+            <a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=USW&amp;cds_page_id=36593">From Size 24 To 4 Without Surgery<br>
+</a></h1>
+<h1>INSIDE PARIS' JAIL CELL<br>
+           <a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=USW&amp;cds_page_id=36593">She braces for bunk beds, basketball and bologna sandwiches</a></h1>
+<h1>ANGELINA IN TEARS OVER HER KIDS<br>
+            <a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=USW&amp;cds_page_id=36593">Problems in Prague<br>
+</a></h1>
 </div>
 </div>
         <!--nr ad-->
 <script language="JavaScript" type="text/javascript">
 ord=Math.random()*10000000000000000;
 document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/usweek.features/;tile=3;sz=160x600;ord=' + ord + '?" type="text/javascript"><\/script>');
-</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/usweek.features/;tile=3;sz=160x600;ord=8904733054660394?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/usweek.features/; tile=3;sz=160x600;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/usweek.features/;tile=3;sz=160x600;ord=123456789?" width="160" height="600" border="0" alt=""></a></noscript>        
-			</div>
-    </td>
+</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/usweek.features/;tile=3;sz=160x600;ord=2575549541742563.5?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/usweek.features/; tile=3;sz=160x600;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/usweek.features/;tile=3;sz=160x600;ord=123456789?" width="160" height="600" border="0" alt=""></a></noscript>
 
+
+</div>
+
+    </td>
     </tr>
 </tbody></table>
 
-<div class="footer">  <a href="/"><img src="/sites/default/themes/etr_cms/images/v3_logo_us_sm.gif" alt="Us Magazine" width="90" height="68" border="0">Home</a>  |  <a href="/celebrity_news">Celebrity News</a>  |  <a href="/fashion">Fashion</a>  |  <a href="/beauty">Beauty</a>  |  <a href="/entertainment">Entertainment</a>  |  <a href="/star_profiles">Star Profiles</a>  |  <a href="http://www.tellusmagazine.com/">Talk to Us</a>  |  <a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=USW&amp;cds_page_id=33065">Subscriptions</a>  |  <a href="#">Get Us on your mobile phone</a><br>
-  <span class="whttext">Copyright 2006, Us Weekly.</span>  <a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=USW&amp;cds_page_id=33065">Subscribe to Us Weekly Magazine</a>  |  <a href="/node/1802">Privacy Policy</a>  |  <a href="/node/1859">Subscriber Services</a>  |  Site built by: <a href="http://www.expandtheroom.com/">ExpandTheRoom</a></div>
+<div class="footer">  <a href="/"><img src="/sites/default/themes/etr_cms/images/us_logo_sm_march07.gif" alt="Us Magazine" border="0"></a><a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=USW&amp;cds_page_id=36593">Subscribe</a> | <a href="mailto:advertising@usmagazine.com?subject=UsMagazine.com Advertising Request&amp;body=">Advertising Info</a> | <a href="/mediakit">Media Kit</a> | <a href="/">Home</a> | <a href="/celebrity_news">News</a>  |  <a href="/node/4980">Photos</a>  |  <a href="/fashion">Fashion</a>  |  <a href="/beauty">Beauty</a>  |  <a href="/entertainment">Entertainment</a>  |  <a href="/star_profiles_page">Celeb Dish</a> | <a href="/games">Gaming</a> | <a href="/videos">Us TV</a><br>
+
+  <span class="whttext">Copyright 2007, Us Weekly.</span>  <a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=USW&amp;cds_page_id=36593">Subscribe to Us Weekly Magazine</a>  |  <a href="/node/1802">Privacy Policy</a>  |  <a href="/node/1859">Subscriber Services</a>  |  <span class="whttext">Site built by:</span> <a href="http://www.expandtheroom.com/">ExpandTheRoom</a></div>
 </div>
+
 </center>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-371249-1";
+urchinTracker();
+</script>
+
+	<!-- START Nielsen//NetRatings SiteCensus V5.2 -->
+	<!-- COPYRIGHT 2005 Nielsen//NetRatings -->
+	<script type="text/javascript">
+		var _rsCI="us-magazine";
+		var _rsCG="0";
+		var _rsDN="//secure-us.imrworldwide.com/";
+		var _rsSE=1;
+		var _rsSM=1.0;
+	</script>
+	<script type="text/javascript" src="//secure-us.imrworldwide.com/v52.js"></script>
+	<noscript>
+		<img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-magazine&amp;cg=0" alt=""/>
+	</noscript>
+	<!-- END Nielsen//NetRatings SiteCensus V5.2 -->
+
 
 
 <!-- Requested:  -->
-<!-- Generated at: 2006-Dec-23 19:43:59 on: 64.90.166.21-->
+<!-- Generated at: 2007-May-09 13:03:22 on: 64.90.166.25-->
 </body></html>
