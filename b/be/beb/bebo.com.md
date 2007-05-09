@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bebo.com privacy policy that was archived on 2006-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061227215520id_/http%3A//www.bebo.com/Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bebo.com privacy policy that was archived on 2007-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070509193844id_/http%3A//www.bebo.com/Privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -63,7 +63,7 @@ We reserve the right to transfer your personal information in the event of a tra
 
 Security
 
-The security of your personal information depends on your protection of your account password. Please do not disclose your account password to unauthorized people. Bebo uses industry standard technology designed to help keep your personal information safe. If you have any other questions about the security of our website, please [contact us](https://web.archive.org/web/20061227215520id_/http%3A//www.bebo.com/ContactUs.jsp).
+The security of your personal information depends on your protection of your account password. Please do not disclose your account password to unauthorized people. Bebo uses industry standard technology designed to help keep your personal information safe. If you have any other questions about the security of our website, please [contact us](https://web.archive.org/web/20070509193844id_/http%3A//www.bebo.com/ContactUs.jsp).
 
 Changes in Privacy Policy
 
@@ -75,7 +75,7 @@ You always have the option to cancel your membership at any time. If you are a m
 
 Contact
 
-If you have any questions about this privacy statement, the practices of this website or your dealings with this website, you can contact us via the [Contact Us](https://web.archive.org/web/20061227215520id_/http%3A//www.bebo.com/ContactUs.jsp) page, or by writing to:
+If you have any questions about this privacy statement, the practices of this website or your dealings with this website, you can contact us via the [Contact Us](https://web.archive.org/web/20070509193844id_/http%3A//www.bebo.com/ContactUs.jsp) page, or by writing to:
 
     | Customer Support  
 ---|---  
