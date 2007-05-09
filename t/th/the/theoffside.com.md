@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theoffside.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215203521id_/http%3A//www.theoffside.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theoffside.com privacy policy that was archived on 2007-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070509210546id_/http%3A//www.theoffside.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Offside - The Offside
+# Privacy Policy - The Offside - Soccer News and Opinion from leagues around the world
 
 BootsnAll Travel Network (”BTN”) is the owner of the information collected on www.TheOffside.com. BTN collects information from our users at several different points on our Web sites.
 
