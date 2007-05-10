@@ -1,36 +1,43 @@
-> *The following text is extracted and transformed from the rackspace.com privacy policy that was archived on 2006-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061116023606id_/http%3A//www.rackspace.com/aboutus/legal/privacystatement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rackspace.com privacy policy that was archived on 2007-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070510035820id_/http%3A//www.rackspace.com/information/legal/privacystatement.php) for the most accurate reproduction.*
 
 # Privacy Statement
 
-Rackspace Managed Hosting has created this privacy statement to demonstrate our firm commitment to privacy. This statement sets forth our information gathering and dissemination practices for the www.rackspace.com, www.rackspace.co.uk and my.rackspace.com sites.
+Rackspace Managed Hosting has created this Privacy Policy to demonstrate our firm commitment to privacy and protection of all persons who visit Rackspace websites, visitor information in compliance with Safe Harbor provisions. This statement sets forth our information gathering and dissemination practices for the www.rackspace.com, www.rackspace.co.uk, www.rackspace.org.uk, www.rackspace.org, www.rackspace.nl and my.rackspace.com websites. For purposes of this policy, the term "visitor" includes visitors to our sites who are not yet customers as well as those who do not become customers.
 
 **What We Collect and Where**  
-Our sites use several different forms that our customers can use to request information, products, and services. From these forms, we collect the following information:
+Our websites use several different forms that our visitors can use to request information about customers, products, and services. From these forms, we collect the following visitor information:
 
-  * Visitors' contact information (like e-mail addresses)
-  * Unique identifiers (like customer numbers)
-  * Financial information (like account or credit card numbers)
+  * Visitor's contact information
+  * Unique identifiers
+  * Financial information
   * IP addresses
+  * Live Chat Messages (UK offices only)
+  * Telephone Conversations (UK offices only)
 
-  
+
+
 **How Secure is the Information We Collect?**  
-Rackspace makes every effort to follow industry standard security measures to prevent the loss, misuse and alteration of the information under our control. All financial information is encrypted during transmission, and our company databases are accessible only to internal employees.
+Rackspace is committed to industry best practices approaches concerning security measures to prevent the loss, misuse and alteration of the information in our possession. Visitor information is encrypted during transmission, our company databases are accessible only by persons who have entered into and are bound by a confidentiality and nondisclosure agreement with Rackspace.
 
 **What Do We Use This Information For?**
 
 **Contact Information**  
-We use your contact information to send you information about our company and to get in touch with you when necessary. We also use the information we collect to improve the content of our Web site. Our site allows you to opt out of receiving communications from us. You will be given this choice at the points where we request your information. If you do not wish to receive future marketing mailings, please send e-mail to unsubscribe@rackspace.com. For other ways to contact us, please see our Contact Us page.
-
-Customers can update contact information on MyRackspace at any time.
+We use visitor information to send information about our company to visitors and to get in touch with them when necessary. We also use the information we collect to improve the content of our Web sites and as training aides for our employees. Visitors are given the choice at the point when we request their information. A visitor who wishes to opt out of receiving future marketing mailings is provided with the following e-mail address for use to unsubscribe: [unsubscribe@rackspace.com](mailto:unsubscribe@rackspace.com). For other ways to contact us please see our [Contact Us](https://web.archive.org/information/contactus.php) page.
 
 **Financial Information**  
-We may ask you to enter your credit card or account information in MyRackspace or our configurator to enable us to debit your account when you purchase servers or services from us. All information you will be asked to enter is protected using SSL (Secure Sockets Layer) encryption to prevent it being intercepted by anyone else as it is transferred over the Internet. We collect this information on a transaction-by-transaction basis and will never authorize the release of this information with anyone not directly involved in processing the transaction. This information may be encrypted and stored for logging purposes.
+We may ask visitors to enter credit card or account information through MyRackspace. Visitor financial information is encrypted for its protection prior to its transmission over the internet. We collect this information on a transaction-by-transaction basis and will not authorize the release of the information with anyone not directly involved in processing the transaction. This information may be encrypted and stored for logging purposes in accordance with applicable regulatory requirements.
 
 **IP addresses**  
-We use your unique network address (IP address) to help diagnose problems with our server, and to administer our Web site.
+We use the visitors' unique network addresses (IP Address) to help diagnose problems with our servers, and to administer our websites.
 
-**Cookies**  
-We use cookies to keep track of your shopping cart and purchases during the time you view www.rackspace.com. We also use them to recognize return visitors and to track our promotions. We gather this information for internal use only and will never authorize the release of this information with anyone outside Rackspace.
+**We use Cookies to:**
 
-**Linked Sites**  
-This site contains links to external Web Sites. Rackspace is not responsible for the privacy practices or the content of these Web sites. 
+  * Help us recognize visitors as unique visitors (just a number) when they return to our websites.
+  * Allow us to tailor content or advertisements to match your preferred interest.
+  * Avoid showing visitors the same advertisements repeatedly.
+  * Compile anonymous, aggregated statistics that allow us to understand how users use our site and to help us improve the structure of our Web site. We cannot identify visitors personally in this way.
+  * Count the number of anonymous users of our sites.
+
+
+
+We gather this informational for internal use only and will not authorize the release of this information to anyone outside Rackspace. 
