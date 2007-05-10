@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airfaresflights.com.au privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213032303id_/http%3A//www.airfaresflights.com.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airfaresflights.com.au privacy policy that was archived on 2007-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070510232109id_/http%3A//www.airfaresflights.com.au/privacy.htm) for the most accurate reproduction.*
 
 # Airfares Flights Privacy Policy
 
@@ -16,7 +16,7 @@ AirfaresFlights.com.au does not collect personally identifying information about
 
 ** Cookies **
 
-A cookie is a data file that certain Web sites write to your computer's hard drive when you visit such sites. A cookie file can contain information, such as a user identification code, that the site uses to track the pages you have visited. AirfaresFlights.com.au does NOT use cookies to gather personal information.
+A cookie is a data file that certain Web sites write to your computer's hard drive when you visit such sites. A cookie file can contain information, such as a user identification code, that the site uses to track the pages you have visited. AirfaresFlights.com.au only uses cookies to improve user experience, this can include through user login sessions and forum postings.
 
 ** Browser Level Information **
 
@@ -28,7 +28,7 @@ Our primary goal in collecting user information is to enhance your experience on
 
 When you are on an area of AirfaresFlights.com.au and are asked for personal information, you are sharing that information with AirfaresFlights.com.au as well as business partners and vendors providing hosting and other services for AirfaresFlights.com.au. If you do not want your information to be shared, you can choose not to allow the transfer of your information by not using that particular service. These parties, as well as advertisers who contract directly with a third-party service to serve their advertisements, may set their own cookies. 
 
-In addition, any personally identifiable information provided by our users as part of an advertiser promotion online may be provided directly to advertisers. 
+However, it should be noted that AirfaresFlights.com.au does not, and will not share any personally identifiable information with advertisers that is provided by the user as part of the 'hot deals newsletter' or 'refer a friend' forms.
 
 Please be aware that AirfaresFlights.com.au sponsors, advertisers or Web sites that have links on our site may collect personally identifiable information about you. The information practices of those parties and Web sites linked to AirfaresFlights.com.au are not covered by this privacy statement. AirfaresFlights.com.au users should also be aware that, when you voluntarily disclose personal information in chat areas or bulletin boards, that information may be collected by others and may result in unsolicited messages from others. 
 
