@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medmutual.com privacy policy that was archived on 2006-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061223151909id_/http%3A//medmutual.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medmutual.com privacy policy that was archived on 2007-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070510071353id_/http%3A//medmutual.com/privacy.htm) for the most accurate reproduction.*
 
 # Medical Mutual of Ohio Privacy Statement
 
