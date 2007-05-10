@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statravel.com.au privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214233443id_/http%3A//www.statravel.com.au/cps/rde/xchg/au_division_web_live/hs.xsl/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statravel.com.au privacy policy that was archived on 2007-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070511010743id_/http%3A//www.statravel.com.au/cps/rde/xchg/au_division_web_live/hs.xsl/privacy_policy.htm) for the most accurate reproduction.*
 
 # STA TRAVEL | Privacy Policy
 
