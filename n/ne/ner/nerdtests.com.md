@@ -1,16 +1,38 @@
-> *The following text is extracted and transformed from the nerdtests.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615010534id_/http%3A//www.nerdtests.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nerdtests.com privacy policy that was archived on 2007-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070510065925id_/http%3A//www.nerdtests.com/privacy.php) for the most accurate reproduction.*
 
 # NerdTests.com - Privacy Policy
 
 * * *
 
-NerdTests.com constantly strives to provide great service to you. 
+* * *
+
+The following websites are part of the NerdTests.com network:  
+   \- CRACKBOOK.COM  
+   \- EXTREMETESTS.COM  
+   \- GEEKTESTER.COM  
+   \- GEEKTESTS.COM  
+   \- HUMORBADGE.COM  
+   \- HUMOURBADGE.COM  
+   \- INSANETESTER.COM  
+   \- LOSERTESTER.COM  
+   \- LUCKYTESTER.COM  
+   \- NERDTESTER.COM  
+   \- NERDTESTS.COM  
+   \- NERDYPICS.COM  
+   \- RUSXC.COM  
+   \- SEXYTESTER.COM  
+   \- STUPIDTESTER.COM  
+   \- VISTARESCUE.COM  
+   \- WEIRDTESTER.COM  
+   \- WINVISTATALK.COM
+
+The sites within the NerdTests.com network (herein referred simply as NerdTests.com) constantly strives to provide great service to you. 
 
 NerdTests.com respects your right to privacy. The following describes how your information is handled. 
 
 ## NerdTests.com’s Commitment to Your Privacy 
 
-NerdTests.com does not: collect personal information from you unless you provide it voluntarily; or provide or sell the names and addresses of customers [site users] to outside vendors. 
+NerdTests.com does not: collect personal information from you unless you provide it voluntarily; or provide or sell the names and physical addresses of customers [site users] to outside vendors. 
 
 NerdTests.com does: safeguard customers' information from unauthorized access; collect, maintain, and use customer information as necessary to provide the most helpful and targeted products and services to meet customers' needs; honor customers' requests to remove their names from the solicitation lists in a timely manner; and maintain confidentiality of customer information when undertaking additional projects. 
 
@@ -20,9 +42,9 @@ NerdTests.com always values your privacy. Your information will be protected as 
 
 **Statistics About Your Visit**
 
-As you browse the NerdTests.com web site, NerdTests.com's web servers collect information about your visit, not about you personally. The following statistics may be monitored: the number of people whom visit this site; which pages people visit on this site; from which domains visitors come; which browsers people use to visit this site; and additional information passed on to this site via your web browser. 
+As you browse the NerdTests.com web site, NerdTests.com's web servers collect information about your visit, not about you personally. The following statistics may be monitored: the number of people whom visit this site; the IP address which you use to access this site; which pages people visit on this site; from which domains visitors come; which browsers people use to visit this site; and any additional information passed on to this site via your web browser. 
 
-While NerdTests.com gathers this information, none of it is associated with you as an individual. These statistics help to improve this web site, to monitor its performance, and to make it easier for you and other visitors to use. 
+While NerdTests.com gathers this information, none of it is associated with you as an individual. These statistics help to improve this web site, to monitor its performance, and to make it easier for you and other visitors to use. Please be aware that the aforementioned information/data may be collected, and distributed or sold to third parties for their own statistical analysis.
 
 **Organizational and Personal Information You Knowingly Provide**
 
@@ -30,7 +52,7 @@ You may be asked to give personal or organizational information in order to eval
 
 **Your IP Address and Host Name**
 
-NerdTests.com's web site logs host names and IP addresses for system administration and security purposes. These logs are monitored and analyzed to secure the systems. 
+NerdTests.com's web site logs host names and IP addresses for system administration, security, and product distribution purposes. These logs are monitored and analyzed to secure the systems. 
 
 ## Cookies 
 
@@ -38,7 +60,7 @@ A cookie is a small, encrypted data string this server may write to your hard dr
 
 ## Links to Other Sites 
 
-The NerdTests.com Web site contains links to other Web sites. Please be aware this privacy policy does not apply to these sites. 
+The NerdTests.com contains links to other Web sites. Please be aware this privacy policy does not apply to these sites. 
 
 ## Opt-out Policy 
 
@@ -48,6 +70,10 @@ NerdTests.com users are provided the opportunity to opt-out of receiving NerdTes
 
 If you would like to correct and/or update your information, please contact support@nerdtests.com. 
 
+## Contractual Agreement between Site User and NerdTests.com
+
+By using, surfing, viewing, or knowingly request information from NerdTests.com, you are implicitly agreeing to be lawfully held to this Privacy Policy.
+
 * * *
 
-**Copyright ©2003-2006 Darrell C. Sydlo  \----[ Privacy Policy](https://web.archive.org/web/20060615010534id_/http%3A//www.nerdtests.com/privacy.php) \----**
+**Copyright ©2003-2007 Darrell C. Sydlo  \----[ Privacy Policy](https://web.archive.org/web/20070510065925id_/http%3A//www.nerdtests.com/privacy.php) \----**
