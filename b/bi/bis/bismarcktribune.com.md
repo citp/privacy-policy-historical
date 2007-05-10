@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bismarcktribune.com privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228155058id_/http%3A//www.bismarcktribune.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bismarcktribune.com privacy policy that was archived on 2007-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070510165302id_/http%3A//www.bismarcktribune.com/home/privacy) for the most accurate reproduction.*
 
 # Bismarck Tribune Online - Bismarck, North Dakota News and Classifieds
 
