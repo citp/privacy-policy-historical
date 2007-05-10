@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rackspace.com privacy policy that was archived on 2006-11-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061116023606id_/http%3A//www.rackspace.com/aboutus/legal/privacystatement.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rackspace.com privacy policy that was archived on 2007-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070510035820id_/http%3A//www.rackspace.com/information/legal/privacystatement.php) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -21,300 +21,391 @@ try{WCWAudit()}catch(ex){}
 	
 // -->
 </script> 	
-		
-		<link rel="stylesheet" href="http://www.rackspace.com/html/css/rackspace.windows.css" type="text/css">
+	<link rel="stylesheet" href="/css/rackspace.css" type="text/css">
+	<link rel="stylesheet" href="/css/rackspace.me.css" type="text/css">
 	
+		
 				
-			<link rel="stylesheet" href="http://www.rackspace.com/html/css/windows/menus.mozilla.css" type="text/css">
+			<link rel="stylesheet" href="/css/windows/menus.mozilla.css" type="text/css">
 			
 		
 		
-	<script type="text/javascript" src="http://www.rackspace.com/html/script/rackspace.js"></script>
+	<script type="text/javascript" src="/script/rackspace.js"></script>
 	
-	<script type="text/javascript" src="http://www.rackspace.com/html/script/classes/Collection.js"></script>
-	<script type="text/javascript" src="http://www.rackspace.com/html/script/classes/Set.js"></script>
-	<script type="text/javascript" src="http://www.rackspace.com/html/script/classes/Evt.js"></script>
+		
+	<script type="text/javascript" src="/script/icrossing.js"></script>
 	
-	<script type="text/javascript" src="http://www.rackspace.com/html/script/rackspace.library.js"></script>
-	<script type="text/javascript" src="http://www.rackspace.com/html/script/rackspace.menus.js"></script>
-	<script type="text/javascript" src="http://www.rackspace.com/html/script/rackspace.keyevents.js"></script>
+	<script type="text/javascript" src="/script/classes/Collection.js"></script>
+	<script type="text/javascript" src="/script/classes/Set.js"></script>
+	<script type="text/javascript" src="/script/classes/Evt.js"></script>
+	
+	<script type="text/javascript" src="/script/rackspace.library.js"></script>
+	<script type="text/javascript" src="/script/rackspace.menus.js"></script>
+	<script type="text/javascript" src="/script/rackspace.keyevents.js"></script>
 	
 		
 		
-<script language="javascript">
+	<script language="JavaScript">
+	
+	var lpUASrackuid			= "USc1f0e3c556822063470513e41c7dfaf6";
+	var lpUAScmpc				= "cleanEntry";	
+	var lpUASinvitePositionX	= 50;
+	var lpUASinvitePositionY	= 150;
+		
+	</script>
+	
+	<script type="text/javascript">
 
-var lpNumber 			= 25513229;
-var lpServerName		= "server.iad.liveperson.net";
-var lpdbButtonName		= "RackspaceGeneric("+document.location+")";
-var lpdbButtonImageURL 	= "/images/elements/spacer.gif";
+if (typeof(lpUASunit)=='undefined') 
+	var lpUASunit = 'rs-sales-us';
+
+if (typeof(lpUASlanguage)=='undefined')
+	var lpUASlanguage = 'english';
+
+var lpUASimagesPath = '/includes/liveperson/chat_deployment_local-rackspace/images';
+
+//Define the invitation position from the left and top of the browser window
+if (typeof(lpUASinvitePositionX)=='undefined')
+	var lpUASinvitePositionX = 50;
+if (typeof(lpUASinvitePositionY)=='undefined')
+	var lpUASinvitePositionY = 50;
+
+//Define the button and invitation alt text properties
+var lpCustomInvitationTitle='Invitation popup window for live chat with a representative';
+var lpCustomInvitationCloseTitle='Close chat invitation';
+
+var lpUAScontext = document.title;
+
+//Define text for the different operator states (Note: text can be an empty string)
+var lpUASdynamicTextLinkInitialText 	= '';
+var lpUASdynamicTextLinkOnlineText 		= 'Start a Live Chat';
+var lpUASdynamicTextLinkOccupiedText 	= 'Live Chat Not Available';
+var lpUASdynamicTextLinkOfflineText 	= 'Live Chat Not Available';
+
+//Optional - Define styles for text link in this function
+function lpUpdateDynamicTextLinkStyle(state) {
+	lpUAStextLinkObject.style.cursor 			= 'default';
+	lpUAStextLinkObject.style.textDecoration 	= 'none';
+	lpUAStextLinkObject.style.color 			= '#292929';
+	lpUAStextLinkObject.style.font 				= '10px verdana,sans-serif';
+	
+	if (state == 'Online')  {
+		lpUAStextLinkObject.style.cursor=hcPointerString;
+		//Set any style properties for Online Text here, ex:
+		//lpUAStextLinkObject.style.textDecoration = 'underline';
+		//lpUAStextLinkObject.style.color = 'blue';
+	} else if (state == 'Occupied') {
+		//Set any style properties for Occupied Text here
+	} else if (state == 'Offline') {
+		//Set any style properties for Offline Text here
+	} else if (state == 'Initial') {
+		//Set any style properties for Initial Text here
+	}
+}
 
 </script>
 
-<script language="javascript" src="/includes/liveperson/DynamicButtonScript2.js"></script>
+<script type="text/javascript" src="/includes/liveperson/chat_deployment_global/lp/configuration_baseline.js"></script>
 
-
-<script language="JavaScript">
-	
-var tagVars = 'SESSIONVAR!RACKUID=5a35e6baf1d3ce928765fd14e781fd43:';
-	
-</script>
-
-	<script type="text/javascript" language="javascript">i=10666</script>
+<noscript>
+<p>Script section containing code for Liveperson Chat Solution.</p>
+</noscript>	<script type="text/javascript" language="javascript">i=10666</script>
 <script type="text/javascript" language="javascript" src="http://t3.trackalyzer.com/trackalyze.js"></script>
 </head>
 
-<body>
+
+	<body>
+	
+
 
 <div style="display:none">
 
-<script language="JavaScript">
-
-var s_pageName		= "";
-var s_server		= "www.rackspace.com";
-var s_channel		= "legal";
-var s_pageType		= "";
-var s_prop1			= "";
-var s_prop2			= "";
-var s_prop3			= "";
-var s_prop4			= "";
-var s_prop5			= "";
-
-var s_campaign		= "";
-var s_state			= "";
-var s_zip			= "";
-var s_events		= "";
-var s_products		= "";
-var s_purchaseID	= "";
-var s_eVar1			= "";
-var s_eVar2			= "";
-var s_eVar3			= "";
-var s_eVar4			= "";
-var s_eVar5			= "";
-
-var s_account		= "rackspacecom";
-
-</script>
-
-<script language="JavaScript" src="http://www.rackspace.com/includes/omniture/s_code_remote.js"></script>
-
+	<script language="JavaScript">
+	
+	var s_pageName		= "";
+	var s_pageType		= "";
+	var s_server		= "www.rackspace.com";			// server
+	var s_channel		= "information";		// site channel
+	
+	var s_prop1			= "information";		// site section
+	var s_prop2			= "legal";		// site sub section
+	var s_prop3			= "";			// search terms
+	var s_prop4			= "64.208.172.180";			// user ip address
+	var s_prop5			= "64.208.172.180"; 	// user hostname
+	var s_prop6			= "USc1f0e3c556822063470513e41c7dfaf6"; 		// user session id
+	var s_prop7			= "";							// broken links
+	var s_prop8			= "";							// custom links (D2)
+	var s_prop9			= "";
+	var s_prop10		= "";							
+	
+	var s_hier1			= "www.rackspace.com|information|legal";
+	
+	var s_campaign		= "";		// campaign variables (CMP)
+	
+	var s_state			= "";
+	var s_zip			= "";
+	var s_events		= "";
+	var s_products		= "";
+	var s_purchaseID	= "";
+	
+	var s_eVar1			= "";			// search terms (persistent)
+	var s_eVar2			= "";
+	var s_eVar3			= "";
+	var s_eVar4			= "";
+	var s_eVar5			= "";
+	
+	var s_account		= "rackspacecom";
+	
+	</script>
+	
+		
+		
+	<script language="javascript" src="/includes/omniture/s_code_remote.js"></script><img name="s_i_rackspacecom" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/rackspacecom/1/G.9-Pd-R/s88811458675726?[AQB]&amp;ndh=1&amp;t=31/0/2020%206%3A58%3A19%205%200&amp;g=https%3A//web.archive.org/web/20070510035820id_/http%253A//www.rackspace.com/information/legal/privacystatement.php&amp;ch=information&amp;server=www.rackspace.com&amp;cc=USD&amp;c1=information&amp;h1=www.rackspace.com%7Cinformation%7Clegal&amp;c2=legal&amp;c4=64.208.172.180&amp;c5=64.208.172.180&amp;c6=USc1f0e3c556822063470513e41c7dfaf6&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
 	
 </div>
 <div id="page-wrap">
 
 	<div id="frame-wrap">
 	
-	<div id="header-wrap">
-	
-		<div id="logo-wrap" onclick="getURL('http://www.rackspace.com')"></div>
+		<div id="header-wrap">
 		
-		<div id="contact-wrap"></div>
+			<div id="logo-wrap" onclick="getURL('/index.php')"></div>
+			
+						
+				<div id="livechat-wrap" onclick="s_linkType='o';s_linkName='Header: Live Chat';s_lnk=s_co(this);s_gs('rackspacecom');">
+				
+					<a href="#" title="Live Chat" onclick="lpdbButtonAction();return false;" target="chat44551513">
+						<script type="text/javascript" src="/includes/liveperson/chat_deployment_global/rackspace/dynamic_button_image_code.js"></script>
+					</a>
+					
+					<script type="text/javascript" src="/includes/liveperson/chat_deployment_global/rackspace/button_parameters.js"></script>
+					<script type="text/javascript" src="https://sales.liveperson.net/hcp/html/DynamicButtonScript2.js"></script>				
+				
+				</div>
+			
+						
+			<div id="search-wrap">
+			
+				<form name="searchform" action="/searchresults.php" method="post">
+				<input type="hidden" name="searchfrom" value="">
+			
+				<div id="search-overlay">
+			
+					<div id="search-button-wrap"><input type="image" src="/images/header/search/button.gif" width="69" height="18" border="0"></div>
+			
+										
+						<input type="text" name="search" id="search-default" value="(Enter Search Term)" onclick="javascript:cleanSlate('search-default')">
+						
+										
+				</div>
+				
+				</form>
+				
+			</div>
 	
-	</div><div id="rs-menu-wrap">
+		</div><div id="rs-menu-wrap">
 
 	<ul id="rs-menu" class="horizontal">
-
-		<li class="top-level-item">
-		
-			<a href="http://www.rackspace.com/solutions"><h3 id="solutions-menu-item">Hosting Solutions</h3></a>
-			
-			<ul style="display:none;">
-				<li class="first"><a href="http://www.rackspace.com/solutions/" class="sub">Solutions Overview</a></li>
-				<li class="last"><a href="http://www.rackspace.com/hosting101/" class="sub-last">Learn More About Hosting</a></li>
-			</ul>
-		
-		</li>
-		
-		<li class="top-level-item">
-		
-			<a href="http://www.rackspace.com/support"><h3 id="support-menu-item">About Fanatical Support™</h3></a>
-		
-			<ul style="display:none;">
-				<li class="first"><a href="http://www.rackspace.com/support/customerstories.php" class="sub">Customer Stories</a></li>
-				<li class="last"><a href="http://www.rackspace.com/support/expertise.php" class="sub-last">Awards and Expertise</a></li>
-			</ul>
-			
-		</li>
-		
-		<li class="top-level-item">
-		
-			<a href="http://www.rackspace.com/network"><h3 id="network-menu-item">Network &amp; Data Centers</h3></a>
-		
-			<ul style="display:none;">
-				<li class="first"><a href="http://www.rackspace.com/network/" class="sub">Zero Downtime Network™</a></li>
-				<li class="last"><a href="http://www.rackspace.com/network/index.php#datacenters" class="sub-last">Data Centers</a></li>
-			</ul>
-			
-		</li>
-		
-		<li class="top-level-item">
-		
-			<a href="http://www.rackspacecareers.com"><h3 id="careers-menu-item">Careers</h3></a>
-		
-		</li>
-		
-		<li class="top-level-item">
-		
-			<a href="http://www.rackspace.com/mediacenter"><h3 id="mediacenter-menu-item">Media Center</h3></a>
-		
-			<ul style="display:none;">
-				<li class="first"><a href="http://www.rackspace.com/mediacenter/audiovideo.php" class="sub">Audiocasts / Webcasts</a></li>
-				<li><a href="http://www.rackspace.com/mediacenter/newsletters.php" class="sub">Newsletters</a></li>
-				<li><a href="http://www.rackspace.com/mediacenter/marketintelligence.php" class="sub">Market Intelligence</a></li>
-				<li><a href="http://www.rackspace.com/mediacenter/casestudies.php" class="sub">Case Studies</a></li>
-				<li><a href="http://www.rackspace.com/mediacenter/whitepapers.php" class="sub">White Papers</a></li>
-				<li><a href="http://www.rackspace.com/mediacenter/awards.php" class="sub">Awards</a></li>
-				<li><a href="http://www.rackspace.com/mediacenter/newsarticles.php" class="sub">News Articles</a></li>
-				<li class="last"><a href="http://www.rackspace.com/mediacenter/pressreleases.php" class="sub-last">Press Releases</a></li>
-			</ul>
-			
-		</li>
-		
-		<li class="top-level-item">
-		
-			<a href="http://www.rackspace.com/aboutus"><h3 id="aboutus-menu-item">About Us</h3></a>
-		
-			<ul style="display:none;">
-				<li class="first"><a href="http://www.rackspace.com/aboutus/leadership.php" class="sub">Leadership</a></li>
-				<li><a href="http://www.rackspacecareers.com" class="sub" target="_blank">Careers</a></li>
-				<li><a href="http://www.rackspace.com/aboutus/partners.php" class="sub">Partner Programs</a></li>
-				<li><a href="http://www.rackspace.com/aboutus/contactus.php" class="sub">Contact Us</a></li>
-				<li class="last"><a href="http://www.rackspace.com/aboutus/legal/" class="sub-last">Legal</a></li>
-			</ul>
-			
-		</li>
 	
+	
+		<li class="top-level-item">
+		
+			<a href="/solutions/" onclick="s_linkType='o';s_linkName='Navigation: Hosting Solutions';s_prop8='Navigation: Hosting Solutions';s_lnk=s_co(this);s_gs('rackspacecom');">
+				<h3 id="solutions-menu-item">Hosting Solutions</h3></a>
+			
+			<ul style="display:none;">
+			
+				<li><a href="/solutions/" onclick="s_linkType='o';s_linkName='Navigation: Hosting Solutions: Overview';s_prop8='Navigation: Hosting Solutions: Overview';s_lnk=s_co(this);s_gs('rackspacecom');" class="sub">Overview</a></li>
+				<li><a href="/products/configurations/" onclick="s_linkType='o';s_linkName='Navigation: Hosting Solutions: Configuration Ideas';s_prop8='Navigation: Hosting Solutions: Configuration Ideas';s_lnk=s_co(this);s_gs('rackspacecom');" class="sub">Configuration Ideas</a></li>
+				
+				<li><a href="/solutions/business/" onclick="s_linkType='o';s_linkName='Navigation: Hosting Solutions: For Business Sizes';s_prop8='Navigation: Hosting Solutions: For Business Sizes';s_lnk=s_co(this);s_gs('rackspacecom');" class="sub">For Business Sizes...</a></li>
+				<li><a href="/solutions/business/soho.php" onclick="s_linkType='o';s_linkName='Navigation: Hosting Solutions: SOHO';s_prop8='Navigation: Hosting Solutions: SOHO';s_lnk=s_co(this);s_gs('rackspacecom');" class="sub-list">SOHO Businesses</a></li>
+				<li><a href="/solutions/business/small.php" onclick="s_linkType='o';s_linkName='Navigation: Hosting Solutions: Small';s_prop8='Navigation: Hosting Solutions: Small';s_lnk=s_co(this);s_gs('rackspacecom');" class="sub-list">Small Businesses</a></li>
+				<li><a href="/solutions/business/mediumtolarge.php" onclick="s_linkType='o';s_linkName='Navigation: Hosting Solutions: Medium to Large';s_prop8='Navigation: Hosting Solutions: Medium to Large';s_lnk=s_co(this);s_gs('rackspacecom');" class="sub-list">Medium to Large Businesses</a></li>
+				<li><a href="/solutions/business/fortune5000.php" onclick="s_linkType='o';s_linkName='Navigation: Hosting Solutions: Fortune 5000';s_prop8='Navigation: Hosting Solutions: Fortune 5000';s_lnk=s_co(this);s_gs('rackspacecom');" class="sub-list">Fortune 5000 Businesses</a></li>
+				
+				<li><a href="/solutions/business/" onclick="s_linkType='o';s_linkName='Navigation: Hosting Solutions: For Business Types';s_prop8='Navigation: Hosting Solutions: For Business Types';s_lnk=s_co(this);s_gs('rackspacecom');" class="sub">For Business Types...</a></li>
+				<li><a href="/solutions/business/digitalmedia.php" onclick="s_linkType='o';s_linkName='Navigation: Hosting Solutions: Web Designers/Developers';s_prop8='Navigation: Hosting Solutions: Web Designers/Developers';s_lnk=s_co(this);s_gs('rackspacecom');" class="sub-list">Web Designers/Developers</a></li>
+				<li><a href="/solutions/business/saas.php" onclick="s_linkType='o';s_linkName='Navigation: Hosting Solutions: Software Providers';s_prop8='Navigation: Hosting Solutions: Software Providers';s_lnk=s_co(this);s_gs('rackspacecom');" class="sub-list">Software Providers</a></li>
+				
+				<li class="last"><a href="/solutions/services/" onclick="s_linkType='o';s_linkName='Navigation: Hosting Solutions: Service Approaches';s_prop8='Navigation: Hosting Solutions: Service Approaches';s_lnk=s_co(this);s_gs('rackspacecom');" class="sub-last">Service Approaches</a></li>
+				
+			</ul>
+		
+		</li>
+		
+		<li class="top-level-item">
+		
+			<a href="/products/" onclick="s_linkType='o';s_linkName='Navigation: Products/Services';s_prop8='Navigation: Products/Services';s_lnk=s_co(this);s_gs('rackspacecom');">
+				<h3 id="products-menu-item">Products &amp; Services</h3></a>
+			
+			<ul style="display:none;">
+				<li><a href="/products/messaging/" onclick="s_linkType='o';s_linkName='Navigation: Products/Services: Email';s_prop8='Navigation: Products/Services: Email';s_lnk=s_co(this);s_gs('rackspacecom');" class="sub">Email</a></li>
+				<li><a href="/products/security/" onclick="s_linkType='o';s_linkName='Navigation: Products/Services: Security Services';s_prop8='Navigation: Products/Services: Security Services';s_lnk=s_co(this);s_gs('rackspacecom');" class="sub">Security Services</a></li>
+				<li><a href="/products/database/" onclick="s_linkType='o';s_linkName='Navigation: Products/Services: Database Services';s_prop8='Navigation: Products/Services: Database Services';s_lnk=s_co(this);s_gs('rackspacecom');" class="sub">Database Services</a></li>
+				<li><a href="/products/storage/" onclick="s_linkType='o';s_linkName='Navigation: Products/Services: Storage/Backup';s_prop8='Navigation: Products/Services: Storage/Backup';s_lnk=s_co(this);s_gs('rackspacecom');" class="sub">Storage &amp; Backup</a></li>
+				<li><a href="/products/services/" onclick="s_linkType='o';s_linkName='Navigation: Products/Services: Professional Services';s_prop8='Navigation: Products/Services: Professional Services';s_lnk=s_co(this);s_gs('rackspacecom');" class="sub">Professional Services</a></li>
+				<li><a href="/products/reporting/" onclick="s_linkType='o';s_linkName='Navigation: Products/Services: Reporting/Administration';s_prop8='Navigation: Products/Services: Reporting/Administration';s_lnk=s_co(this);s_gs('rackspacecom');" class="sub">Reporting &amp; Administration</a></li>
+				<li><a href="/products/hardware/" onclick="s_linkType='o';s_linkName='Navigation: Products/Services: Load Balancers';s_prop8='Navigation: Products/Services: Load Balancers';s_lnk=s_co(this);s_gs('rackspacecom');" class="sub">Load Balancers</a></li>
+				<li class="last"><a href="/products/configurations/" onclick="s_linkType='o';s_linkName='Navigation: Products/Services: Configuration Ideas';s_prop8='Navigation: Products/Services: Configuration Ideas';s_lnk=s_co(this);s_gs('rackspacecom');" class="sub-last">Configuration Ideas</a></li>
+			</ul>
+			
+		</li>
+		
+		<li class="top-level-item">
+		
+			<a href="/support/" onclick="s_linkType='o';s_linkName='Navigation: Fanatical Support';s_prop8='Navigation: Fanatical Support';s_lnk=s_co(this);s_gs('rackspacecom');">
+				<h3 id="support-menu-item">Fanatical Support™</h3></a>
+			
+			<ul style="display:none;">
+				<li><a href="/support/expertise.php" onclick="s_linkType='o';s_linkName='Navigation: Fanatical Support: Awards/Expertise';s_prop8='Navigation: Fanatical Support: Awards/Expertise';s_lnk=s_co(this);s_gs('rackspacecom');" class="sub">Awards &amp; Expertise</a></li>
+				<li><a href="/support/teamstructure.php" onclick="s_linkType='o';s_linkName='Navigation: Fanatical Support: Support Team Structure';s_prop8='Navigation: Fanatical Support: Support Team Structure';s_lnk=s_co(this);s_gs('rackspacecom');" class="sub">Support Team Structure</a></li>
+				<li class="last"><a href="/support/customerstories/" onclick="s_linkType='o';s_linkName='Navigation: Fanatical Support: Customer Stories';s_prop8='Navigation: Fanatical Support: Customer Stories';s_lnk=s_co(this);s_gs('rackspacecom');" class="sub-last">Customer Stories</a></li>
+			</ul>
+			
+		</li>
+		
+		<li class="top-level-item">
+		
+			<a href="/network/" onclick="s_linkType='o';s_linkName='Navigation: Network';s_prop8='Navigation: Network';s_lnk=s_co(this);s_gs('rackspacecom');">
+				<h3 id="network-menu-item">Zero-Downtime Network™</h3></a>
+			
+			<ul style="display:none;">
+				<li class="last"><a href="/network/bandwidthbilling.php" onclick="s_linkType='o';s_linkName='Navigation: Network: Bandwidth Billing';s_prop8='Navigation: Network: Bandwidth Billing';s_lnk=s_co(this);s_gs('rackspacecom');" class="sub-last">Bandwidth Billing</a></li>
+			</ul>
+			
+		</li>
+		
+		<li class="top-level-item">
+		
+			<a href="/partners/" onclick="s_linkType='o';s_linkName='Navigation: Partner Programs';s_prop8='Navigation: Partner Programs';s_lnk=s_co(this);s_gs('rackspacecom');">
+				<h3 id="partners-menu-item">Partner Programs</h3></a>
+			
+		</li>
+		
+		<li class="top-level-item">
+		
+			<a href="/information/" onclick="s_linkType='o';s_linkName='Navigation: Information';s_prop8='Navigation: Information';s_lnk=s_co(this);s_gs('rackspacecom');">
+				<h3 id="information-menu-item">Information Center</h3></a>
+			
+			<ul style="display:none;">
+				<li><a href="/information/aboutus.php" onclick="s_linkType='o';s_linkName='Navigation: Information: About Us';s_prop8='Navigation: Information: About Us';s_lnk=s_co(this);s_gs('rackspacecom');" class="sub">About Rackspace</a></li>
+				<li><a href="/information/contactus.php" onclick="s_linkType='o';s_linkName='Navigation: Information: Contact Information';s_prop8='Navigation: Information: Contact Information';s_lnk=s_co(this);s_gs('rackspacecom');" class="sub">Contact Information</a></li>
+				<li><a href="/information/hosting101/" onclick="s_linkType='o';s_linkName='Navigation: Information: Hosting 101';s_prop8='Navigation: Information: Hosting 101';s_lnk=s_co(this);s_gs('rackspacecom');" class="sub">Hosting 101</a></li>
+				<li><a href="/information/aboutus.php" onclick="s_linkType='o';s_linkName='Navigation: Information: Leadership';s_prop8='Navigation: Information: Leadership';s_lnk=s_co(this);s_gs('rackspacecom');" class="sub">Leadership</a></li>
+				<li><a href="/information/events/" onclick="s_linkType='o';s_linkName='Navigation: Information: Programs/Events';s_prop8='Navigation: Information: Programs/Events';s_lnk=s_co(this);s_gs('rackspacecom');" class="sub">Programs &amp; Events</a></li>
+				<li><a href="/information/legal/" onclick="s_linkType='o';s_linkName='Navigation: Information: Legal';s_prop8='Navigation: Information: Legal';s_lnk=s_co(this);s_gs('rackspacecom');" class="sub">Legal</a></li>
+				<li class="last"><a href="/information/mediacenter/" onclick="s_linkType='o';s_linkName='Navigation: Information: Media Center';s_prop8='Navigation: Information: Media Center';s_lnk=s_co(this);s_gs('rackspacecom');" class="sub-last">Media Center</a></li>
+			</ul>
+			
+		</li>
+		
+		<li class="top-level-item">
+		
+			<a href="http://www.rackspacecareers.com" onclick="s_linkType='o';s_linkName='Navigation: Careers';s_prop8='Navigation: Careers';s_lnk=s_co(this);s_gs('rackspacecom');">
+				<h3 id="careers-menu-item">Careers</h3></a>
+		
+		</li>
+		
+		
 	</ul>
 
 </div>
-<div id="content-container">
+<div id="block1-small-wrap">
+	
+	<div id="block1-banner-wrap"><img src="/images/banners/legal.gif" border="0"></div>
+	
+	<div id="block1-sidebanner-wrap"><img src="/images/sidebanners/blank.gif" border="0"></div>
+	
+	<div id="breadcrumb-wrap">
+	
+		<span class="breadcrumb"><a href="/information/">Information Center</a></span>
+		<span class="breadcrumb"><a href="/information/legal/">Legal</a></span>
+		Privacy Statement
+	
+	</div>
 
-<table width="756">
-<tbody><tr>
-	<td width="198" valign="top">
-		<table width="198">
-		
-		
-<tbody><tr>
-	<td width="198" height="60"><a href="/solutions/?RACKSESSID=5a35e6baf1d3ce928765fd14e781fd43"><img src="/images/sidebar/titles/red.gif" width="198" height="60" border="0"></a></td>
-</tr>
-<tr>
-	<td width="198" height="2" class="white"></td>
-</tr>
-<tr>
-	<td width="198" height="12"></td>
-</tr><tr>
-	<td width="178" class="sidebar">
-	
-		<form name="searchform" action="/searchresults.php" method="post"><input type="hidden" name="RACKSESSID" value="5a35e6baf1d3ce928765fd14e781fd43">
-		<input type="hidden" name="searchfrom" value="/aboutus/legal/privacystatement.php">
-	
-		<div id="search-wrap">
-		
-			<div id="search-overlay">
-		
-				<div id="search-button-wrap"><input type="image" src="/images/sidebar/search/button.gif" width="38" height="20" border="0"></div>
-		
-								
-					<input type="text" name="search" id="search-default" value="Enter Search Term" onclick="javascript:cleanSlate('search-default')">
-					
-								
-			</div>
-			
-		</div>
+</div>
 
-		</form>
-	
-	</td>
-</tr><tr>
-	<td width="178" class="sidebar">
-	
-		<span class="red"><b>Have Questions?</b></span><br>
-		<a href="javascript:lpdbButtonAction();return false;" onclick="lpdbButtonAction();return false;" class="gray">Start Live Chat</a><br>
-		
-		<a href="/forms/requestcallback.php?RACKSESSID=5a35e6baf1d3ce928765fd14e781fd43" class="gray">Request a Callback</a><br>
-				
-		<a href="/forms/contactsales.php?RACKSESSID=5a35e6baf1d3ce928765fd14e781fd43" class="gray">Contact Sales Form</a>
-			
-	</td>
-</tr>
-<tr>
-	<td width="178" class="sidebar"><a href="/hosting101/?RACKSESSID=5a35e6baf1d3ce928765fd14e781fd43"><img src="/images/sidebar/hosting101.gif" border="0"></a></td>
-</tr>
+<div id="threeeleven"></div>
 
-		
-		</tbody></table>
-	</td>
-	<td width="2" class="white"></td>
-	<td width="556" valign="top">
-		<table width="556">
-		<tbody><tr>
-			<td width="556" height="60"><img src="/images/banners/legal.gif" width="556" height="60" border="0"></td>
-		</tr>
-		<tr>
-			<td class="content">
-	
-				<img src="/images/pagetitles/privacystatement.gif" width="498" height="30" border="0"><br><br>
-				
-				Rackspace Managed Hosting has created this privacy statement to demonstrate our firm commitment to privacy. This 
-				statement sets forth our information gathering and dissemination practices for the www.rackspace.com, www.rackspace.co.uk 
-				and my.rackspace.com sites.<br><br>
-				
-				<b>What We Collect and Where</b><br>
-				Our sites use several different forms that our customers can use to request information, products, and services. From these 
-				forms, we collect the following information:<br><br>
-				
-				<ul class="bullet">
-					<li class="bullet">Visitors' contact information (like e-mail addresses)</li>
-					<li class="bullet">Unique identifiers (like customer numbers)</li>
-					<li class="bullet">Financial information (like account or credit card numbers)</li>
-					<li class="bullet">IP addresses</li>
-				</ul>
-				
-				<br>
-				
-				<b>How Secure is the Information We Collect?</b><br>
-				Rackspace makes every effort to follow industry standard security measures to prevent the loss, misuse and alteration of 
-				the information under our control. All financial information is encrypted during transmission, and our company databases 
-				are accessible only to internal employees.<br><br>
-				
-				<b>What Do We Use This Information For?</b><br><br>
-				
-				<b>Contact Information</b><br>
-				We use your contact information to send you information about our company and to get in touch 
-				with you when necessary. We also use the information we collect to improve the content of our Web site. Our site allows you 
-				to opt out of receiving communications from us. You will be given this choice at the points where we request your 
-				information. If you do not wish to receive future marketing mailings, please send e-mail to unsubscribe@rackspace.com. 
-				For other ways to contact us, please see our Contact Us page.<br><br>
-				
-				Customers can update contact information on MyRackspace at any time.<br><br>
-				
-				<b>Financial Information</b><br>
-				We may ask you to enter your credit card or account information in MyRackspace or our 
-				configurator to enable us to debit your account when you purchase servers or services from us. All information you will 
-				be asked to enter is protected using SSL (Secure Sockets Layer) encryption to prevent it being intercepted by anyone 
-				else as it is transferred over the Internet. We collect this information on a transaction-by-transaction basis and will 
-				never authorize the release of this information with anyone not directly involved in processing the transaction. 
-				This information may be encrypted and stored for logging purposes.<br><br>
-				
-				<b>IP addresses</b><br>
-				We use your unique network address (IP address) to help diagnose problems with our server, and to 
-				administer our Web site.<br><br>
-				
-				<b>Cookies</b><br>We use cookies to keep track of your shopping cart and purchases during the time you view www.rackspace.com. We also 
-				use them to recognize return visitors and to track our promotions. We gather this information for internal use only and 
-				will never authorize the release of this information with anyone outside Rackspace.<br><br>
-				
-				<b>Linked Sites</b><br>
-				This site contains links to external Web Sites. Rackspace is not responsible for the privacy practices or the content of 
-				these Web sites.
-	
-			</td>
-		</tr>
-		</tbody></table>
-	</td>
-</tr>
-</tbody></table>
+<div id="content-wrap">
 
+	<div id="content-block1-wrap">
+
+		<img src="/images/pagetitles/information/legal/privacystatement.gif" border="0">
+	
+		Rackspace Managed Hosting has created this Privacy Policy to demonstrate our firm commitment to privacy and protection of 
+		all persons who visit Rackspace websites, visitor information in compliance with Safe Harbor provisions. This statement sets 
+		forth our information gathering and dissemination practices for the www.rackspace.com, www.rackspace.co.uk, www.rackspace.org.uk, 
+		www.rackspace.org, www.rackspace.nl and my.rackspace.com websites. For purposes of this policy, the term "visitor" includes 
+		visitors to our sites who are not yet customers as well as those who do not become customers.<br><br>
+		
+		<b>What We Collect and Where</b><br>
+		Our websites use several different forms that our visitors can use to request information about customers, products, and services.
+		From these forms, we collect the following visitor information:<br><br>
+		
+		<ul class="bullet">
+			<li class="bullet">Visitor's contact information</li>
+			<li class="bullet">Unique identifiers</li>
+			<li class="bullet">Financial information</li>
+			<li class="bullet">IP addresses</li>
+			<li class="bullet">Live Chat Messages (UK offices only)</li>
+			<li class="bullet">Telephone Conversations (UK offices only)</li>
+		</ul>
+		
+		<br>
+		
+		<b>How Secure is the Information We Collect?</b><br>
+		Rackspace is committed to industry best practices approaches concerning security measures to prevent the loss, misuse and alteration 
+		of the information in our possession. Visitor information is encrypted during transmission, our company databases are accessible 
+		only by persons who have entered into and are bound by a confidentiality and nondisclosure agreement with Rackspace.<br><br>
+		
+		<b>What Do We Use This Information For?</b><br><br>
+		
+		<b>Contact Information</b><br>
+		We use visitor information to send information about our company to visitors and to get in touch with them when necessary. We also 
+		use the information we collect to improve the content of our Web sites and as training aides for our employees. Visitors are given 
+		the choice at the point when we request their information. A visitor who wishes to opt out of receiving future marketing mailings 
+		is provided with the following e-mail address for use to unsubscribe: 
+		<a href="mailto:unsubscribe@rackspace.com">unsubscribe@rackspace.com</a>. For other ways to contact us please see our 
+		<a href="/information/contactus.php">Contact Us</a> page.<br><br>
+		
+		<b>Financial Information</b><br>
+		We may ask visitors to enter credit card or account information through MyRackspace. Visitor financial information is encrypted for 
+		its protection prior to its transmission over the internet. We collect this information on a transaction-by-transaction basis and 
+		will not authorize the release of the information with anyone not directly involved in processing the transaction. This information 
+		may be encrypted and stored for logging purposes in accordance with applicable regulatory requirements.<br><br>
+		
+		<b>IP addresses</b><br>
+		We use the visitors' unique network addresses (IP Address) to help diagnose problems with our servers, and to administer our 
+		websites.<br><br>
+		
+		<b>We use Cookies to:</b><br>
+		<ul class="bullet">
+			<li class="bullet">Help us recognize visitors as unique visitors (just a number) when they return to our websites.</li>
+			<li class="bullet">Allow us to tailor content or advertisements to match your preferred interest.</li>
+			<li class="bullet">Avoid showing visitors the same advertisements repeatedly.</li>
+			<li class="bullet">Compile anonymous, aggregated statistics that allow us to understand how users use our site and to help 
+				us improve the structure of our Web site. We cannot identify visitors personally in this way.</li>
+			<li class="bullet">Count the number of anonymous users of our sites.</li>
+		</ul>
+		
+		<br>
+
+		We gather this informational for internal use only and will not authorize the release of this information to anyone outside 
+		Rackspace.
+
+	</div>
+	
+	<div id="content-block2-wrap">
+	
+
+	
+	</div>
+	
+	<div style="clear:both"></div>
+	
 </div>
 
 		<div id="footer-wrap">
@@ -327,17 +418,17 @@ var s_account		= "rackspacecom";
 		
 			<div id="footnavigation-text-wrap">
 		
-				<span class="footnavigation-link"><a href="/index.php?RACKSESSID=5a35e6baf1d3ce928765fd14e781fd43" class="white">Home</a></span>
-				<span class="footnavigation-link"><a href="/solutions/managed.php?RACKSESSID=5a35e6baf1d3ce928765fd14e781fd43" class="white">Managed Hosting</a></span>
-				<span class="footnavigation-link"><a href="/solutions/intensive.php?RACKSESSID=5a35e6baf1d3ce928765fd14e781fd43" class="white">Intensive Hosting</a></span>
-				<span class="footnavigation-link"><a href="/aboutus/contactus.php?RACKSESSID=5a35e6baf1d3ce928765fd14e781fd43" class="white">Contact Us</a></span>
-				<span class="footnavigation-link"><a href="/aboutus/legal/aup.php?RACKSESSID=5a35e6baf1d3ce928765fd14e781fd43" class="white">AUP</a></span>
-				<span class="footnavigation-link"><a href="/aboutus/legal/privacystatement.php?RACKSESSID=5a35e6baf1d3ce928765fd14e781fd43" class="white">Privacy Statement</a></span>
-				<span class="footnavigation-link"><a href="/sitemap.php?RACKSESSID=5a35e6baf1d3ce928765fd14e781fd43" class="white">Site Map</a></span>
-				<span class="footnavigation-link"><a href="/aboutus/partners.php?RACKSESSID=5a35e6baf1d3ce928765fd14e781fd43" class="white">Partners</a></span>
-				<span class="footnavigation-link"><a href="http://www.rackspacecareers.com" class="white">Careers</a></span>
+				<span class="footnavigation-link"><a href="/index.php" onclick="s_linkType='o';s_linkName='Footer: TXT(Home)';s_prop8='Footer: TXT(Home)';s_lnk=s_co(this);s_gs('rackspacecom');" class="footer">Home</a></span>
+				<span class="footnavigation-link"><a href="/solutions/" onclick="s_linkType='o';s_linkName='Footer: TXT(Hosting Solutions)';s_prop8='Footer: TXT(Hosting Solutions)';s_lnk=s_co(this);s_gs('rackspacecom');" class="footer">Hosting Solutions</a></span>
+				<span class="footnavigation-link"><a href="/products/" onclick="s_linkType='o';s_linkName='Footer: TXT(Products/Services)';s_prop8='Footer: TXT(Products/Services)';s_lnk=s_co(this);s_gs('rackspacecom');" class="footer">Products &amp; Services</a></span>
+				<span class="footnavigation-link"><a href="/information/contactus.php" onclick="s_linkType='o';s_linkName='Footer: TXT(Contact Us)';s_prop8='Footer: TXT(Contact Us)';s_lnk=s_co(this);s_gs('rackspacecom');" class="footer">Contact Us</a></span>
+				<span class="footnavigation-link"><a href="/information/legal/aup.php" onclick="s_linkType='o';s_linkName='Footer: TXT(AUP)';s_prop8='Footer: TXT(AUP)';s_lnk=s_co(this);s_gs('rackspacecom');" class="footer">AUP</a></span>
+				<span class="footnavigation-link"><a href="/information/legal/privacystatement.php" onclick="s_linkType='o';s_linkName='Footer: TXT(Privacy Statement)';s_prop8='Footer: TXT(Privacy Statement)';s_lnk=s_co(this);s_gs('rackspacecom');" class="footer">Privacy Statement</a></span>
+				<span class="footnavigation-link"><a href="/sitemap.php" onclick="s_linkType='o';s_linkName='Footer: TXT(Sitemap)';s_prop8='Footer: TXT(Sitemap)';s_lnk=s_co(this);s_gs('rackspacecom');" class="footer">Site Map</a></span>
+				<span class="footnavigation-link"><a href="/partners/" onclick="s_linkType='o';s_linkName='Footer: TXT(Partners)';s_prop8='Footer: TXT(Partners)';s_lnk=s_co(this);s_gs('rackspacecom');" class="footer">Partners</a></span>
+				<span class="footnavigation-link"><a href="http://www.rackspace.co.uk" onclick="s_linkType='o';s_linkName='Footer: TXT(Rackspace Europe)';s_prop8='Footer: TXT(Rackspace Europe)';s_lnk=s_co(this);s_gs('rackspacecom');" class="footer">Rackspace Europe</a></span>
 				
-				<div id="copyright-wrap">©2006 Rackspace Ltd.</div>
+				<div id="copyright-wrap">©2007 Rackspace Ltd.</div>
 				
 			</div>
 		
@@ -351,17 +442,18 @@ var s_account		= "rackspacecom";
 	initRSMenu();
 </script>
 
-<script language="JavaScript">
-var lpPosX = 100;
-var lpPosY = 1;
+<script type="text/javascript">
+
+	var lpUASsection = "information";
+	
 </script>
 
-<!-- BEGIN HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
-<a href="#" onclick="lpdbButtonAction();return false;"><img src="/images/spacer.gif" border="0" width="1" height="1" name="hcDynamicIcon" alt=""></a>
-<script language="javascript" src="http://server.iad.liveperson.net/hc/25513229/x.js?cmd=file&amp;file=chatScript3&amp;site=25513229&amp;imageUrl=http://www.rackspace.com/media/liveperson/"></script>
-<!-- END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
+<script type="text/javascript" src="/includes/liveperson/chat_deployment_global/lp/conversion_script.js"></script>
+<script type="text/javascript" src="https://sales.liveperson.net/hc/44551513/x.js?cmd=file&amp;file=chatScript3&amp;site=44551513"></script>
+
+<noscript>
+<p>Script section containing code for Liveperson Chat Solution.</p>
+</noscript>
 
 
-
-
-<img src="https://server.iad.liveperson.net/hc/25513229/cmd/url/?site=25513229&amp;page=https%3A//server.iad.liveperson.net/hcp/width/img40.gif&amp;info=button-impression:RackspaceGeneric%28https%3A//web.archive.org/web/20061116023606id_/http%253A//www.rackspace.com/aboutus/legal/privacystatement.php%29&amp;waitForVisitor=true&amp;d=1580453895336" style="visibility: hidden;"></body></html>
+</body></html>
