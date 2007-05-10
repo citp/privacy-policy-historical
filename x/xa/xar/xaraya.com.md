@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xaraya.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216223043id_/http%3A//www.xaraya.com/index.php/registration/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xaraya.com privacy policy that was archived on 2007-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070510053926id_/http%3A//www.xaraya.com/index.php/registration/privacy) for the most accurate reproduction.*
 
 # Xaraya :: Privacy Statement
 
