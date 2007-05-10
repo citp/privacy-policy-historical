@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ses-astra.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212092741id_/http%3A//www.ses-astra.com/corpSite/site_en/footerPages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ses-astra.com privacy policy that was archived on 2007-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070510155738id_/http%3A//www.ses-astra.com/corpSite/site_en/footerPages/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
