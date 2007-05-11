@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statecollege.com privacy policy that was archived on 2006-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061112181240id_/http%3A//statecollege.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statecollege.com privacy policy that was archived on 2007-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070512003454id_/http%3A//www.statecollege.com/privacy.php) for the most accurate reproduction.*
 
 # State College, PA - Privacy Statement
 
