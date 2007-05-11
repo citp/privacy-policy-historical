@@ -1,273 +1,573 @@
-<!--The following is the downloaded HTML source of the firstrade.com privacy policy that was archived on 2004-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040617213004id_/http%3A//www.firstrade.com/public/home_privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the firstrade.com privacy policy that was archived on 2007-05-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070512011151id_/http%3A//www.firstrade.com/public/support/privacyandsecuritypolicy) for the most accurate reproduction.-->
 
 <html><head>
-<title>Privacy Policy</title>
-<link rel="stylesheet" href="/css/dynamic_main.css">
-</head>
+<link rel="SHORTCUT ICON" href="/favicon.ico">
+<title>Firstrade [Privacy and Security Policy]</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="description" content="">
+<meta name="keywords" content="privacy,security,personal information,disclose,disclosure,opt-out, opt-out,confidential,cookies">
 
-<body bgcolor="#FFFFFF" link="#003366" vlink="#003366"><!-- topnav start -->
-<script>
-document.cookie = "sitedefine=eng; path=/; domain=.firstrade.com";
-function openhelp(shref)
-{
-	helpWin = window.open(shref,"windowRef","width=500,height=380,top=50,left=50,screenX=50,screenY=50,scrollbars=yes,status=yes");
-	helpWin.focus();
+<script type="text/javascript">
+
+var menu1=new Array()
+menu1[0]='<a href="/public/welcome/">Home</a>'
+menu1[1]='<a href="/public/welcome/whyfirstrade/">Why Choose Firstrade?</a>'
+menu1[2]='<a href="/public/welcome/interactivedemo/">Interactive Demo</a>'
+menu1[3]='<a href="/public/welcome/aboutfirstrade/">About Firstrade</a>'
+menu1[4]='<a href="/public/welcome/promotions/">Promotions</a>'
+menu1[5]='<a href="/public/welcome/newsletter/">Firstrade Newsletter</a>'
+menu1[6]='<a href="http://freetime.firstrade.com/blog/" target="_blank">Firstrade Blog</a>'
+
+var menu2=new Array()
+menu2[0]='<a href="/public/productsservices/investmentchoices/">Investment Choices</a>'
+menu2[1]='<a href="/public/productsservices/accounttypes/">Account Types</a>'
+menu2[2]='<a href="/public/productsservices/toolsresearch/">Tools & Research</a>'
+menu2[3]='<a href="/public/productsservices/waystotrade/">Ways to Trade</a>'
+menu2[4]='<a href="/public/productsservices/options/">Options</a>'
+menu2[5]='<a href="/public/productsservices/complexoptions/">Complex Options</a>'
+menu2[6]='<a href="/public/productsservices/internationalinvestors/">International Investors</a>'
+
+var menu3=new Array()
+menu3[0]='<a href="/public/pricing/commissions/">Commissions</a>'
+menu3[1]='<a href="/public/pricing/marginrates/">Margin Rates</a>'
+menu3[2]='<a href="/public/pricing/specialservices/">Special Services</a>'
+menu3[3]='<a href="/public/pricing/brokercomparison/">Broker Comparison</a>'
+
+var menu5=new Array()
+menu5[0]='<a href="/public/retirement/traditionalira/">Traditional IRA</a>'
+menu5[1]='<a href="/public/retirement/rothira/">Roth IRA</a>'
+menu5[2]='<a href="/public/retirement/rolloverira/">Rollover IRA</a>'
+menu5[3]='<a href="/public/retirement/sepira/">SEP IRA</a>'
+menu5[4]='<a href="/public/retirement/simpleira/">SIMPLE IRA</a>'
+menu5[5]='<a href="/public/retirement/coverdellesa/">Coverdell ESA</a>'
+menu5[6]='<a href="/public/knowledgecenter/taxcenter/taxretirement/">Tax Center</a>'
+
+var menu6=new Array()
+menu6[0]='<a href="/public/knowledgecenter/investmentguides/">Investment Guides</a>'
+menu6[1]='<a href="/public/knowledgecenter/securitycenter/">Security Center</a>'
+menu6[2]='<a href="/public/knowledgecenter/taxcenter/">Tax Center</a>'
+<!--menu6[2]='<a href="/public/knowledgecenter/usingfirstrade/">Using Firstrade</a>'-->
+menu6[3]='<a href="/public/knowledgecenter/faqs/">FAQs</a>'
+menu6[4]='<a href="/public/knowledgecenter/glossary/">Glossary</a>'
+menu6[5]='<a href="http://www.invest-store.com/firstrade" target="_blank">Bookstore</a>'
+<!--menu6[6]='<a href="/public/knowledgecenter/podcasts/">Podcasts</a>'-->
+<!--menu6[7]='<a href="/public/knowledgecenter/firstradewiki/">Firstrade Wiki</a>'-->
+
+var menu7=new Array()
+<!--menu7[0]='<a href="/public/support/shareholderservices/">Shareholder Services</a>'-->
+menu7[0]='<a href="/public/support/">Contact Us</a>'
+menu7[1]='<a href="/public/support/livechat/">Live Chat</a>'
+menu7[2]='<a href="/public/support/fundyouraccount/">Fund Your Account</a>'
+menu7[3]='<a href="/public/support/transfertofirstrade/">Transfer To Firstrade</a>'
+menu7[4]='<a href="/public/support/faqs/">FAQs</a>'
+menu7[5]='<a href="/public/support/glossary/">Glossary</a>'
+menu7[6]='<a href="/public/support/formscenter/">Forms Center</a>'
+
+var menuwidth='170px' //default menu width
+var menubgcolor='#FFFFCC'  //menu bgcolor
+var disappeardelay=250  //menu disappear speed onMouseout (in miliseconds)
+var hidemenu_onclick="yes" //hide menu when user clicks within menu?
+
+var ie4=document.all
+var ns6=document.getElementById&&!document.all
+
+if (ie4||ns6)
+document.write('<div id="dropmenudiv" style="visibility:hidden;width:'+menuwidth+';background-color:'+menubgcolor+'" onMouseover="clearhidemenu()" onMouseout="dynamichide(event)"></div>')
+
+function getposOffset(what, offsettype){
+var totaloffset=(offsettype=="left")? what.offsetLeft : what.offsetTop;
+var parentEl=what.offsetParent;
+while (parentEl!=null){
+totaloffset=(offsettype=="left")? totaloffset+parentEl.offsetLeft : totaloffset+parentEl.offsetTop;
+parentEl=parentEl.offsetParent;
 }
-</script>
-<table width="620" border="0" cellspacing="0" cellpadding="0">
+return totaloffset;
+}
+
+
+function showhide(obj, e, visible, hidden, menuwidth){
+if (ie4||ns6)
+dropmenuobj.style.left=dropmenuobj.style.top="-500px"
+if (menuwidth!=""){
+dropmenuobj.widthobj=dropmenuobj.style
+dropmenuobj.widthobj.width=menuwidth
+}
+if (e.type=="click" && obj.visibility==hidden || e.type=="mouseover")
+obj.visibility=visible
+else if (e.type=="click")
+obj.visibility=hidden
+}
+
+function iecompattest(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+function clearbrowseredge(obj, whichedge){
+var edgeoffset=0
+if (whichedge=="rightedge"){
+var windowedge=ie4 && !window.opera? iecompattest().scrollLeft+iecompattest().clientWidth-15 : window.pageXOffset+window.innerWidth-15
+dropmenuobj.contentmeasure=dropmenuobj.offsetWidth
+if (windowedge-dropmenuobj.x < dropmenuobj.contentmeasure)
+edgeoffset=dropmenuobj.contentmeasure-obj.offsetWidth
+}
+else{
+var topedge=ie4 && !window.opera? iecompattest().scrollTop : window.pageYOffset
+var windowedge=ie4 && !window.opera? iecompattest().scrollTop+iecompattest().clientHeight-15 : window.pageYOffset+window.innerHeight-18
+dropmenuobj.contentmeasure=dropmenuobj.offsetHeight
+if (windowedge-dropmenuobj.y < dropmenuobj.contentmeasure){ //move up?
+edgeoffset=dropmenuobj.contentmeasure+obj.offsetHeight
+if ((dropmenuobj.y-topedge)<dropmenuobj.contentmeasure) //up no good either?
+edgeoffset=dropmenuobj.y+obj.offsetHeight-topedge
+}
+}
+return edgeoffset
+}
+
+function populatemenu(what){
+if (ie4||ns6)
+dropmenuobj.innerHTML=what.join("")
+}
+
+
+function dropdownmenu(obj, e, menucontents, menuwidth){
+if (window.event) event.cancelBubble=true
+else if (e.stopPropagation) e.stopPropagation()
+clearhidemenu()
+dropmenuobj=document.getElementById? document.getElementById("dropmenudiv") : dropmenudiv
+populatemenu(menucontents)
+
+if (ie4||ns6){
+showhide(dropmenuobj.style, e, "visible", "hidden", menuwidth)
+
+dropmenuobj.x=getposOffset(obj, "left")
+dropmenuobj.y=getposOffset(obj, "top")
+dropmenuobj.style.left=dropmenuobj.x-clearbrowseredge(obj, "rightedge")+"px"
+dropmenuobj.style.top=dropmenuobj.y-clearbrowseredge(obj, "bottomedge")+obj.offsetHeight+"px"
+}
+
+return clickreturnvalue()
+}
+
+function clickreturnvalue(){
+if (ie4||ns6) return false
+else return true
+}
+
+function contains_ns6(a, b) {
+while (b.parentNode)
+if ((b = b.parentNode) == a)
+return true;
+return false;
+}
+
+function dynamichide(e){
+if (ie4&&!dropmenuobj.contains(e.toElement))
+delayhidemenu()
+else if (ns6&&e.currentTarget!= e.relatedTarget&& !contains_ns6(e.currentTarget, e.relatedTarget))
+delayhidemenu()
+}
+
+function hidemenu(e){
+if (typeof dropmenuobj!="undefined"){
+if (ie4||ns6)
+dropmenuobj.style.visibility="hidden"
+}
+}
+
+function delayhidemenu(){
+if (ie4||ns6)
+delayhide=setTimeout("hidemenu()",disappeardelay)
+}
+
+function clearhidemenu(){
+if (typeof delayhide!="undefined")
+clearTimeout(delayhide)
+}
+
+if (hidemenu_onclick=="yes")
+document.onclick=hidemenu
+
+</script></head><body leftmargin="0" topmargin="10" marginwidth="0" marginheight="10" onload="MM_preloadImages('/en_us/public/images/ln_pricing_on.gif')"><div id="dropmenudiv" style="visibility:hidden;width:170px;background-color:#FFFFCC" onmouseover="clearhidemenu()" onmouseout="dynamichide(event)"></div>
+
+
+<link href="/en_us/public/css/general.css" rel="stylesheet" type="text/css">
+<a name="top"></a>
+ <iframe id="DivShim" src="javascript:false;" scrolling="no" frameborder="0" style="position:absolute; top:0px; left:0px; display:none;">
+ </iframe> <iframe id="DivShim" src="javascript:false;" scrolling="no" frameborder="0" style="position:absolute; top:0px; left:0px; display:none;">
+ </iframe>
+<table width="770" border="0" align="center" cellpadding="0" cellspacing="0">
   <tbody><tr>
-    <td><img src="/images/main_firstrade_top.gif" width="620" height="45" usemap="#Map" border="0"><map name="Map"><area shape="rect" coords="231,1,322,13" href="/public/home_applyhome.html"><area shape="rect" coords="3,2,168,41" href="http://www.firstrade.com"><area shape="rect" coords="175,1,223,13" href="https://www.firstrade.com/cgi-bin/login?Action=Login"><area shape="rect" coords="335,1,384,13" href="/public/home_sitemap.html"><area shape="rect" coords="389,1,443,13" href="javascript:openhelp('/hd/helpdesk_hd_home.html');"><area shape="rect" coords="457,4,612,40" href="/public/home_commission.html"></map></td>
-  </tr>
-</tbody></table>
-<table width="620" border="0" cellspacing="0" cellpadding="0" bgcolor="#336699">
-  <tbody><tr> 
-    
-    <td nowrap="" colspan="2"><img height="20" width="620" border="0" usemap="#Navigate_Map" alt="Main Navigation" src="/images/tab_public_home.gif"></td>
-  </tr>
-  <tr bgcolor="#ffcc33"> 
-    <td nowrap="" bgcolor="#FFCC33">&nbsp;<font class="smalltext">Home &gt; Firstrade Privacy Policy</font></td>
-    <td nowrap="">&nbsp;</td>
-  </tr>
-</tbody></table>
-<map name="Navigate_Map"> <area shape="rect" coords="497,0,605,20" href="/public/learning_spl_start_1.html" alt="Learning Center" title="Learning Center"> 
-  <area shape="rect" coords="363,0,489,21" href="http://firstrade.stockpoint.com/firstrade/quote.asp?FPage=public" alt="Quotes &amp; Research" title="Quotes &amp; Research"> 
-  <area shape="rect" coords="262,1,353,20" href="http://firstrade.stockpoint.com/firstrade/briefing.asp?FPage=Public&amp;Mode=STOCKS" alt="Market News" title="Market News"> 
-  <area shape="rect" coords="137,0,255,20" href="/public/accounts_valet.html" alt="Account Manager" title="Account Manager"> 
-  <area shape="rect" coords="64,1,129,20" href="/public/trading_registrationreq_trading.html" alt="Trading" title="Trading"> 
-  <area shape="rect" coords="4,1,58,20" href="/public/home_intro.html" alt="Home" title="Home"> 
-</map>
- <!-- topnav end -->
-<table width="620" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr> 
-    <td valign="top" nowrap="" width="128"><img src="/images/blank.gif" width="128" height="8"><br>
-<!-- leftnav start -->
-      <a href="http://www.firstrade.com/public/home_applyhome.html"><img src="/images/apply_frontpage.gif" width="125" height="39" border="0"></a><br>
-<img src="/images/side_blank.gif" width="11" height="5" border="0"><br>
-<font face="Arial, Helvetica, sans-serif"><span class="sidetitle">&nbsp;<a class="sidetitle" href="/public/home_referintro.html"><font color="#336699">Referral Bonus</font></a></span></font><br>
-<img src="/images/side_blank.gif" width="11" height="10" border="0"><br>
-<font face="Arial, Helvetica, sans-serif"><span class="sidetitle">&nbsp;<a href="/public/home_about.html">About 
-Firstrade</a></span></font><br>
-  <img src="/images/side_arrow.gif" width="11" height="10"><span class="sidetext"><a href="/public/home_benefits.html"><font face="Arial, Helvetica, sans-serif">Benefits</font></a></span><br>
-  <img src="/images/side_arrow.gif" width="11" height="10"><span class="sidetext"><a href="/public/home_compare.html"><font face="Arial, Helvetica, sans-serif">Compare</font></a></span><br>
-  <img src="/images/side_arrow.gif" width="11" height="10"><span class="sidetext"><a href="/public/home_commission.html"><font face="Arial, Helvetica, sans-serif">Commissions</font></a></span><br>
-  <img src="/images/side_arrow.gif" width="11" height="10"><span class="sidetext"><a href="javascript:openhelp('/hd/helpdesk_hd_contact.html');"><font face="Arial, Helvetica, sans-serif">Contact 
-  Us</font></a></span><br>
-  <img src="/images/side_arrow.gif" width="11" height="10"><span class="sidetext"><a href="/public/home_careers.html"><font face="Arial, Helvetica, sans-serif">Employment<br>
-  <img src="/images/side_blank.gif" width="11" height="10" border="0">Opportunities</font></a></span><br>
-  <img src="/images/side_arrow.gif" width="11" height="10"><span class="sidetext"><a href="/public/home_faq_general.html"><font face="Arial, Helvetica, sans-serif">FAQ</font></a> 
-  <br>
-  <img src="/images/side_arrow.gif" width="11" height="10"><span class="sidetext"><a href="/public/home_pressreleases.html"><font face="Arial, Helvetica, sans-serif">Press 
-  Releases</font></a></span><br>
-  </span>
-<p><span class="sidetitle"><font face="Arial, Helvetica, sans-serif">&nbsp;Investment Services</font></span><br>
-  <img src="/images/side_arrow.gif" width="11" height="10"><span class="sidetext"><a href="http://watergate.firstrade.com/mutual_fund/fund_family_public.php"><font face="Arial, Helvetica, sans-serif">Mutual Funds</font></a> /</span><br>
-<span class="sidetext"><a href="http://watergate.firstrade.com/mutual_fund/fund_name_public.php"><font face="Arial, Helvetica, sans-serif"><img src="/images/side_blank.gif" width="11" height="10" border="0">Fund List</font></a></span><br>
-  <img src="/images/side_arrow.gif" width="11" height="10"><span class="sidetext"><a href="/public/home_retire.html"><font face="Arial, Helvetica, sans-serif">IRA's</font></a></span><br>
-  <img src="/images/side_arrow.gif" width="11" height="10"><span class="sidetext"><a href="/public/home_dripintro.html"><font face="Arial, Helvetica, sans-serif">Free 
-  Dividend</font></a><a href="/public/home_careers.html"><font face="Arial, Helvetica, sans-serif"><br>
-  <img src="/images/side_blank.gif" width="11" height="10" border="0"></font></a><a href="/public/home_dripintro.html"><font face="Arial, Helvetica, sans-serif">Reinvestment</font></a></span><br>
-  <img src="/images/side_arrow.gif" width="11" height="10"><span class="sidetext"><a href="/public/home_watchlist_demo.html"><font face="Arial, Helvetica, sans-serif">Realtime Watchlist</font></a></span><br>
-  <img src="/images/side_arrow.gif" width="11" height="10"><span class="sidetext"><a href="/public/home_international.html"><font face="Arial, Helvetica, sans-serif">International</font></a><br>
-<img src="/images/side_arrow.gif" width="11" height="10"><span class="sidetext"><a href="http://express.firstrade.com"><font face="Arial, Helvetica, sans-serif">Firstrade Express</font></a></span>
-</span></p>
-<p><span class="sidetitle"><font face="Arial, Helvetica, sans-serif">&nbsp;Learning</font></span><br>
-  <img src="/images/side_arrow.gif" width="11" height="10"><span class="sidetext"><a href="/public/learning_spl_start_1.html"><font face="Arial, Helvetica, sans-serif">Investment </font></a><a href="/public/home_careers.html"><font face="Arial, Helvetica, sans-serif"><br>
-<img src="/images/side_blank.gif" width="11" height="10" border="0"></font></a><a href="/public/learning_spl_start_1.html"><font face="Arial, Helvetica, sans-serif">Tutorials</font></a></span><br>
-  <img src="/images/side_arrow.gif" width="11" height="10"><span class="sidetext"><a href="/public/learning_margin_start.html"><font face="Arial, Helvetica, sans-serif">Margin Desk</font></a></span><br>
-  <img src="/images/side_arrow.gif" width="11" height="10"><span class="sidetext"><a href="/public/learning_option_start.html"><font face="Arial, Helvetica, sans-serif">Option Desk</font></a></span></p>
-<p><span class="sidetitle"><font face="Arial, Helvetica, sans-serif">&nbsp;Planning</font></span><br>
-  <img src="/images/side_arrow.gif" width="11" height="10"><span class="sidetext"><a href="/public/learning_lifegoalplan.html"><font face="Arial, Helvetica, sans-serif">Life Goal Planning</font></a></span><br>
-<img src="/images/side_arrow.gif" width="11" height="10"><span class="sidetext"><a href="/public/home_mutualcenter.html"><font face="Arial, Helvetica, sans-serif">Mutual 
-  Fund Center</font></a></span><br>
-  <img src="/images/side_arrow.gif" width="11" height="10"><span class="sidetext"><a href="/public/home_firstrade_ira.html"><font face="Arial, Helvetica, sans-serif">Retirement 
-  Center</font></a></span><span class="sidetext"><br>
-<img src="/images/side_arrow.gif" width="11" height="10"><span class="sidetext"><a href="/public/home_insurancecenter.html"><font face="Arial, Helvetica, sans-serif">Insurance Center</font></a></span>
-
-</span></p>
- <!-- leftnav end -->
-      
-<p align="center"> <span class="sidetext"></span><!--<a href="javascript:top.openhelp('/hd/helpdesk_hd_email.html');" class="bolded"><br>
-E-mail 
-        Us </a>--></p>
-
-<form name="section">
-<input type="hidden" name="sectionid" value="public">
-</form>
-<!--<script language=JAVASCRIPT>
-if (document.section.sectionid.value == "public"){
-document.write("<p align=center><a href=http://firstrade.shopfast.com target=_top class=bolded>Shop @ FIRSTRADE</a><br>");
-} else {
-document.write("");
+    <td><script language="JavaScript" type="text/JavaScript">
+<!--
+function swapImgRestore() {
+  var i,x,a=document.sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
 }
+
+function preloadImages() {
+  var d=document; if(d.images){ if(!d.p) d.p=new Array();
+    var i,j=d.p.length,a=preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.p[j]=new Image; d.p[j++].src=a[i];}}
+}
+
+function findObj(n, d) {
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function swapImage() {
+  var i,j=0,x,a=swapImage.arguments; document.sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=findObj(a[i]))!=null){document.sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
 </script>
-      <BR>-->
-    </td>
-    <td width="1" valign="top" bgcolor="999999"><img src="/images/blank.gif" width="1" height="5"></td>
-    <td valign="top" width="5"><img src="/images/blank.gif" width="5" height="1"></td>
-    <td width="490" valign="top"> <!-- content start -->
-<table width="100%" border="0" cellspacing="0" cellpadding="4">
-  <tbody><tr> 
-    <td width="100%"> 
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr> 
-          <td><font class="stitles" color="#000000"> Firstrade Privacy Policy</font> 
-            <hr size="1">
-          </td>
+<!--<table width="100%" border="0" cellpadding="2" cellspacing="1" bgcolor="#666666">
+  <tr>
+    <td align="center" bgcolor="#FFFFCC" class="stdbold"><font color="#CC0000">We are experiencing techinical issues with the investor site and are working to restore access shortly.</font></td>
+  </tr>
+</table>-->
+<table width="100%" height="55" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td valign="top" background="/en_us/public/images/header_l.gif"><table width="100%" height="45" border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+          <td valign="bottom"><a href="http://www.firstrade.com"><img src="/en_us/public/images/logo_bti.gif" alt="Firstrade Home" width="170" height="41" hspace="6" vspace="0" border="0" align="baseline"></a></td>
+          <td width="530" valign="top" background="/en_us/public/images/login_bg.gif"><table width="100%" height="31" border="0" cellpadding="0" cellspacing="0"><form name="loginForm" method="post" action="https://investor.firstrade.com/firstrade/login.do" target="_top" autocomplete="off"></form>
+            <tbody><tr>
+              <td align="right" nowrap="nowrap"><img src="/en_us/public/images/secure.gif" alt="Lock" width="11" height="12" hspace="6" vspace="0" border="0" align="baseline"><span class="rtnavtitle"><a href="https://investor.firstrade.com/firstrade/login.do">Login</a>: User ID</span>
+                  <input name="username" type="text" class="std" id="username" size="8" maxlength="20">
+<span class="rtnavtitle">Password</span>
+<input name="password" type="password" class="std" id="password" size="8" maxlength="20">
+<select name="destination" class="std">
+  <option value="mainmenu" selected="">Start Page:</option>
+  <option value="stockorder">Stock Order</option>
+  <option value="optionorder">Option Order</option>
+  <option value="orderstatus">Order Status</option>
+  <option value="positions">Positions</option>
+  <option value="portfolio">Portfolios</option>
+  <option value="balances">Balances</option>
+  <option value="history">Account History</option>
+</select>&nbsp;
+<input type="hidden" name="locale" value="en_us">
+</td>
+              <td width="70" valign="middle"><span class="rtnavtitle">
+                <input name="login" value="Log In" type="image" src="/en_us/public/images/login_button3.gif" border="0">
+              </span></td>
+            </tr>
+          </tbody></table></td>
         </tr>
-      </tbody></table>
-      <font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#666666">Your 
-      Privacy is our Priority</font></b><br>
-        FIRSTRADE is committed to protecting our customers' personal and financial 
-        information. In the course of providing you with FIRSTRADE's brokerage 
-        services, we need to collect and maintain certain nonpublic personal information 
-        about you. This Privacy Policy answers some questions about what nonpublic 
-        personal information we collect, what we do with it, and how we protect 
-        it.</font>
-      <p><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#666666">What 
-        types of nonpublic personal information about me does FIRSTRADE collect?</font></b><br>
-        When you apply for or maintain an account with FIRSTRADE, we collect the 
-        following types of information:</font></p>
+    </tbody></table></td>
+    <td width="5" align="right" valign="top" background="/en_us/public/images/header_r.gif"><img src="/global/shared/images/blank.gif" width="5"></td>
+  </tr>
+</tbody></table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0" background="/en_us/public/images/second.gif">
+  <tbody><tr>
+    <td width="9"><img src="/en_us/public/images/first.gif" alt="spacer" width="9" height="26" hspace="0" vspace="0" border="0"></td>
+    <td width="67"><a href="/public/welcome/" onmouseout="delayhidemenu();swapImgRestore()" onmouseover="dropdownmenu(this, event, menu1, '');swapImage('Image90','','/en_us/public/images/welcome_over.gif',1)"><img src="/en_us/public/images/welcome.gif" alt="Welcome" name="Image90" width="67" height="26" hspace="0" vspace="0" border="0"></a></td>
+    <td width="127"><a href="/public/productsservices/" onmouseout="delayhidemenu();swapImgRestore()" onmouseover="dropdownmenu(this, event, menu2, '');swapImage('Image92','','/en_us/public/images/p_s_over.gif',1)"><img src="/en_us/public/images/p_s.gif" alt="Products &amp; Services" name="Image92" width="127" height="26" hspace="0" vspace="0" border="0"></a></td>
+    <td width="54"><a href="/public/pricing/" onmouseout="delayhidemenu();swapImgRestore()" onmouseover="dropdownmenu(this, event, menu3, '');swapImage('Image93','','/en_us/public/images/pricing_over.gif',1)"><img src="/en_us/public/images/pricing.gif" alt="Pricing" name="Image93" width="54" height="26" border="0"></a></td>
+    <td width="104"><a href="/public/marketsnews/" onmouseout="swapImgRestore()" onmouseover="swapImage('Image96','','/en_us/public/images/m_n_over.gif',1)"><img src="/en_us/public/images/m_n.gif" alt="Markets &amp; News" name="Image96" width="104" height="26" hspace="0" vspace="0" border="0"></a></td>
+    <td width="78"><a href="/public/retirement/" onmouseout="delayhidemenu();swapImgRestore()" onmouseover="dropdownmenu(this, event, menu5, '');swapImage('Image98','','/en_us/public/images/retire_over.gif',1)"><img src="/en_us/public/images/retire.gif" alt="Retirement" name="Image98" width="78" height="26" hspace="0" vspace="0" border="0"></a></td>
+    <td width="121"><a href="/public/knowledgecenter/" onmouseout="delayhidemenu();swapImgRestore()" onmouseover="dropdownmenu(this, event, menu6, '');swapImage('Image100','','/en_us/public/images/k_c_over.gif',1)"><img src="/en_us/public/images/k_c.gif" alt="Knowledge Center" name="Image100" width="121" height="26" hspace="0" vspace="0" border="0"></a></td>
+    <td width="61"><a href="/public/support/" onmouseout="delayhidemenu();swapImgRestore()" onmouseover="dropdownmenu(this, event, menu7, '');swapImage('Image102','','/en_us/public/images/support_on.gif',1)"><img src="/en_us/public/images/support_on.gif" alt="Support" name="Image102" width="61" height="26" hspace="0" vspace="0" border="0"></a></td>
+    <td align="right"><a href="/public/welcome/?locale=zh_tw"><img src="/en_us/public/images/zh_tw.gif" alt="Traditional Chinese" width="56" height="26" hspace="0" vspace="0" border="0"></a></td>
+    <td width="71" align="right"><a href="/public/welcome/?locale=zh_cn"><img src="/en_us/public/images/zh_cn.gif" alt="Simplified Chinese" width="64" height="26" hspace="0" vspace="0" border="0"></a></td>
+  </tr>
+</tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td background="/en_us/public/images/blue_top_bg.gif"><img src="/en_us/public/images/blue_top_l.gif" width="46" height="10"></td>
+    <td align="right" background="/en_us/public/images/blue_top_bg.gif"><img src="/en_us/public/images/blue_top_apply.gif" border="0"></td>
+  </tr>
+</tbody></table>
+</td>
+  </tr>
+</tbody></table>
+<table width="770" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td valign="top"><table border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td><img src="/global/public/images/spacer.gif" width="15" height="15"></td>
+      </tr>
+    </tbody></table><script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+MM_preloadImages('/en_us/public/images/ln_pricing_on.gif');
+//-->
+</script>
+<table width="114" border="0" cellpadding="0" cellspacing="0" background="/en_us/public/images/nav_bg.gif">
+  <tbody><tr>
+    <td><span class="casualtext"><a href="/public/support/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image8311','','/en_us/public/images/ln_support_on.gif',1)"><img src="/en_us/public/images/ln_support.gif" alt="Support" name="Image8311" width="114" height="27" border="0" id="Image831"></a></span></td>
+  </tr>
+  <tr>
+    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+<!--        <tr>
+          <td background="" class="menu2default"><a href="/public/support/shareholderservices/" class="lnrollover">Shareholder Services </a></td>
+        </tr>-->
+		<tbody><tr>
+          <td background="" class="menu2default"><a href="/public/support/" class="lnrollover">Contact Us </a></td>
+        </tr>
+        <tr>
+          <td><img src="/en_us/public/images/lngrey_spacer.gif" alt="spacer" width="110" height="1" border="0"></td>
+        </tr>
+        <tr>
+          <td background="" class="menu2default"><a href="/public/support/livechat/" class="lnrollover">Live Chat </a></td>
+        </tr>
+        <tr>
+          <td><img src="/en_us/public/images/lngrey_spacer.gif" alt="spacer" width="110" height="1" border="0"></td>
+        </tr>
+		<tr>
+          <td background="" class="menu2default"><a href="/public/support/fundyouraccount/" class="lnrollover">Fund Your Account</a></td>
+        </tr>
+		<tr>
+          <td><img src="/en_us/public/images/lngrey_spacer.gif" alt="spacer" width="110" height="1" border="0"></td>
+        </tr>
+		<tr>
+          <td background="" class="menu2default"><a href="/public/support/transfertofirstrade/" class="lnrollover">Transfer to Firstrade</a></td>
+        </tr>
+		<tr>
+          <td><img src="/en_us/public/images/lngrey_spacer.gif" alt="spacer" width="110" height="1" border="0"></td>
+        </tr>
+        <tr>
+          <td background="" class="menu2default"><a href="/public/support/faqs/" class="lnrollover">FAQs </a></td>
+        </tr>
+        <tr>
+          <td><img src="/en_us/public/images/lngrey_spacer.gif" alt="spacer" width="110" height="1" border="0"></td>
+        </tr>
+		        <tr>
+          <td background="" class="menu2default"><a href="/public/support/glossary/" class="lnrollover">Glossary </a></td>
+        </tr>
+        <tr>
+  <td><img src="/en_us/public/images/lngrey_spacer.gif" alt="spacer" width="110" height="1" border="0"></td>
+        </tr>
+        <tr>
+          <td background="" class="menu2default"><a href="/public/support/formscenter/" class="lnrollover">Forms Center</a></td>
+        </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td><img src="/en_us/public/images/ln_bottom.gif" alt="spacer" width="114" height="19" border="0"></td>
+  </tr>
+</tbody></table>
+</td>
+    <td width="15" valign="top">&nbsp;</td>
+    <td height="300" valign="top">
+	<table border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td><img src="/global/public/images/spacer.gif" width="15" height="15"></td>
+      </tr>
+    </tbody></table><link href="/en_us/public/css/general.css" rel="stylesheet" type="text/css">
+<img src="/en_us/public/images/pandspolicy_ti.gif" alt="Privacy and Security Policy" width="430" height="36" hspace="0" vspace="0" border="0"><br>
+
+      <span class="bodyText"><b><br>
+	  <table width="100%" border="0" cellpadding="2" cellspacing="1" bgcolor="#CCCCCC">
+  <tbody><tr>
+    <th align="left" bgcolor="#FFFFCC" class="bodyText" scope="col"><a href="/public/knowledgecenter/securitycenter/identitytheft/">Click Here</a> for Important Information on Identity Theft </th>
+  </tr>
+</tbody></table>
+      <br>
+      Your Privacy is our Priority</b><br>
+          FIRSTRADE is committed to protecting our customers' personal and financial information. In the course of providing you with FIRSTRADE's brokerage services, we need to collect and maintain certain nonpublic personal information about you. This Privacy Policy answers some questions about what nonpublic personal information we collect, what we do with it, and how we protect it.<br>
+      </span><br>
+      <span class="bodyText"><b>What types of nonpublic personal information about me does FIRSTRADE collect?</b></span><br>
+      <span class="bodyText">When you apply for or maintain an account with FIRSTRADE, we collect the following types of information:</span>
       <ul>
-        <li><font face="Arial, Helvetica, sans-serif" size="2">Information provided 
-          by you, such as your name, address, social security number, date of 
-          birth, employment information, and financial status.</font></li>
-        <li><font face="Arial, Helvetica, sans-serif" size="2">Information about 
-          your transactions with us such as account balance and trading activity. 
-          </font></li>
-        <li><font face="Arial, Helvetica, sans-serif" size="2">In some cases we 
-          will collect information from consumer-reporting agencies.</font></li>
+        <li class="bodyText">Information provided by you, such as your name, address, social security number, date of birth, employment information, and financial status.</li>
+        <li class="bodyText">Information about your transactions with us such as account balance and trading activity. </li>
+        <li class="bodyText">In some cases we will collect information from consumer-reporting agencies.</li>
       </ul>
-      <p><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#666666">What 
-        types of nonpublic personal information about me does FIRSTRADE disclose?</font></b><br>
-        FIRSTRADE discloses the nonpublic personal information about you described 
-        above, primarily to provide you with the financial services you seek from 
-        us. We do not disclose nonpublic personal information about former customers, 
-        except as required or permitted by law. FIRSTRADE does not sell your personal 
-        information.</font></p>
-      <p><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#666666">What 
-        types of companies (other than those companies used to service transactions) 
-        does FIRSTRADE disclose my nonpublic personal information to?</font></b><br>
-        In some limited circumstances, FIRSTRADE may disclose nonpublic personal 
-        information about you to a non-financial services company, such as a retailer, 
-        with which we may have a marketing program. The information shared is 
-        limited to your name, contact information, and type of account opened. 
-        Account balance, trading activity, and credit information is never disclosed. 
-        If you exercise your right to not share this information (opt-out) with 
-        these non-financial services companies, your information will not be disclosed.</font></p>
-      <p><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#666666">What 
-        are my rights to opt-out of disclosure and how can I exercise them?</font></b><br>
-        If you prefer that we do not disclose nonpublic personal information about 
-        you to the non-financial services companies described in the paragraph 
-        above, you may opt-out of those disclosures, that is, you may direct us 
-        not to make those disclosures (other than those disclosures required by 
-        law).</font></p>
-      <p><font face="Arial, Helvetica, sans-serif" size="2">You may provide your 
-        name, address, email address, daytime phone, your account number and opt-out 
-        request to us by email at service@firstrade.com or by calling 1-888-FIRSTRADE.</font></p>
-      <p><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#666666">To 
-        what other types of entities might FIRSTRADE disclose my nonpublic personal 
-        information?</font></b><br>
-        FIRSTRADE may disclose information we collect from you, such as your contact 
-        information, to service providers who perform marketing functions on our 
-        behalf. Specifically, your name, address and/or email address are sometimes 
-        provided to vendors who send email or regular mail on FIRSTRADE's behalf. 
-        </font></p>
-      <p><font face="Arial, Helvetica, sans-serif" size="2">We disclose information 
-        to nonaffiliated companies that work for us in providing financial services 
-        to you. For example, we provide information to nonaffiliated companies 
-        that prepare and mail statements and transaction confirmations. These 
-        companies acting on our behalf are required to keep your personal information 
-        confidential. </font></p>
-      <p><font face="Arial, Helvetica, sans-serif" size="2">Finally, FIRSTRADE 
-        discloses nonpublic personal information to nonaffiliated third parties 
-        as permitted or required by law. These parties include government/regulatory 
-        organizations such as the Internal Revenue Service (IRS) and the Securities 
-        and Exchange Commission (SEC). Disclosures for which you have provided 
-        your consent are also permitted.</font></p>
-      <p><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#666666">How 
-        does FIRSTRADE protect the confidentiality and security of my nonpublic 
-        personal information?</font></b><br>
-        We maintain physical, electronic, and procedural safeguards that comply 
-        with federal standards to guard your nonpublic personal information. We 
-        protect your account information by placing it on the secure portion of 
-        our website. Our servers have been enabled with Secure Sockets Layer (SSL) 
-        technology to prevent unauthorized parties from viewing your nonpublic 
-        personal information that you provide or access during a secure session. 
-        In addition, we employ VeriSign's digital certificate services to encrypt 
-        the information exchanged between you and Firstrade.com. </font></p>
-      <p><font face="Arial, Helvetica, sans-serif" size="2">Access to your nonpublic 
-        personal information is limited to those employees who need to know that 
-        information to provide products or services to you, such as customer service 
-        personnel.</font></p>
-      <p><font face="Arial, Helvetica, sans-serif" size="2">You can take steps 
-        to maximize your security online and to protect your confidential information. 
-        NEVER share your Password with anyone, and change it periodically. You 
-        can change your Login and Trading Passwords at any time through the Administration 
-        section under the Account Manager tab. When using the FIRSTRADE website, 
-        you should always exit by using "Logout" which is located at 
-        the top of every web page or close your browser completely.</font></p>
-      <p><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#666666">What 
-        should I know about "cookies"?</font></b><br>
-        "Cookies" are elements of data that a website can send to your 
-        browser and store on your computer. Cookies can note that your browser 
-        was used to visit certain sites, pages, or advertisements on a certain 
-        date. Cookies cannot be used to obtain data from your hard drive, get 
-        your e-mail address or steal sensitive or personal information about you. 
-        FIRSTRADE uses cookies to enhance navigation and functionality of our 
-        website, to securely verify your identity, and to personalize aspects 
-        of your experience on our website. We also use cookies to let us know 
-        how visitors are using our website, so that we can improve our website 
-        and your experience on it. You do have control over cookies. Most browsers 
-        can be set to notify you when a cookie is being placed on your computer. 
-        You can also set most browsers to refuse to accept cookies, although this 
-        may affect your Internet experience. You can also erase cookies that are 
-        already on your computer. For more information on working with cookies, 
-        you should consult the User Manual, FAQ, or Help function of your specific 
-        browser and operating system software.</font></p>
-      <p><font face="Arial, Helvetica, sans-serif" size="2">For answers to other 
-        questions regarding FIRSTRADE's Privacy Policy, please email <a href="mailto:service@firstrade.com">service@firstrade.com</a> 
-        or call 1-888-FIRSTRADE.<br>
-        </font><font face="Arial, Helvetica, sans-serif"> </font> </p>
-    </td>
-        </tr>
-      </tbody></table><!-- content end --></td>
+      <p class="bodyText"><b>What types of nonpublic personal information about me does FIRSTRADE disclose?</b><br>
+  FIRSTRADE discloses the nonpublic personal information about you described above, primarily to provide you with the financial services you seek from us. We do not disclose nonpublic personal information about former customers, except as required or permitted by law. FIRSTRADE does not sell your personal information.</p>
+      <p class="bodyText"><b>What types of companies (other than those companies used to service transactions) does FIRSTRADE disclose my nonpublic personal information to?</b><br>
+  In some limited circumstances, FIRSTRADE may disclose nonpublic personal information about you to a non-financial services company, such as a retailer, with which we may have a marketing program. The information shared is limited to your name, contact information, and type of account opened. Account balance, trading activity, and credit information is never disclosed. If you exercise your right to not share this information (opt-out) with these non-financial services companies, your information will not be disclosed.</p>
+      <p class="bodyText"><b>What are my rights to opt-out of disclosure and how can I exercise them?</b><br>
+  If you prefer that we do not disclose nonpublic personal information about you to the non-financial services companies described in the paragraph above, you may opt-out of those disclosures, that is, you may direct us not to make those disclosures (other than those disclosures required by law).</p>
+      <p class="bodyText">You may provide your name, address, email address, daytime phone, your account number and opt-out request to us by email at service@firstrade.com or by calling 1-888-FIRSTRADE.</p>
+      <p class="bodyText"><b>To what other types of entities might FIRSTRADE disclose my nonpublic personal information?</b><br>
+  FIRSTRADE may disclose information we collect from you, such as your contact information, to service providers who perform marketing functions on our behalf. Specifically, your name, address and/or email address are sometimes provided to vendors who send email or regular mail on FIRSTRADE's behalf. </p>
+      <p class="bodyText">We disclose information to nonaffiliated companies that work for us in providing financial services to you. For example, we provide information to nonaffiliated companies that prepare and mail statements and transaction confirmations. These companies acting on our behalf are required to keep your personal information confidential. </p>
+      <p class="bodyText">Finally, FIRSTRADE discloses nonpublic personal information to nonaffiliated third parties as permitted or required by law. These parties include government/regulatory organizations such as the Internal Revenue Service (IRS) and the Securities and Exchange Commission (SEC). Disclosures for which you have provided your consent are also permitted.</p>
+      <p class="bodyText"><b>How does FIRSTRADE protect the confidentiality and security of my nonpublic personal information?</b><br>
+  We maintain physical, electronic, and procedural safeguards that comply with federal standards to guard your nonpublic personal information. We protect your account information by placing it on the secure portion of our website. Our servers have been enabled with Secure Sockets Layer (SSL) technology to prevent unauthorized parties from viewing your nonpublic personal information that you provide or access during a secure session. In addition, we employ Entrust's digital certificate services to encrypt the information exchanged between you and Firstrade.com. </p>
+      <p class="bodyText">Access to your nonpublic personal information is limited to those employees who need to know that information to provide products or services to you, such as customer service personnel.</p>
+      <p class="bodyText">You can take steps to maximize your security online and to protect your confidential information. NEVER share your Password with anyone, and change it periodically. You can change your Login Password at any time in the My Settings section under the My Account tab. When accessing the FIRSTRADE website, you should always exit by using the "Logout" button or close your browser completely.</p>
+      <p class="bodyText"><b>What should I know about "cookies"?</b><br>
+"Cookies" are elements of data that a website can send to your browser and store on your computer. Cookies can note that your browser was used to visit certain sites, pages, or advertisements on a certain date. Cookies cannot be used to obtain data from your hard drive, get your e-mail address or steal sensitive or personal information about you. FIRSTRADE uses cookies to enhance navigation and functionality of our website, to securely verify your identity, and to personalize aspects of your experience on our website. We also use cookies to let us know how visitors are using our website, so that we can improve our website and your experience on it. You do have control over cookies. Most browsers can be set to notify you when a cookie is being placed on your computer. You can also set most browsers to refuse to accept cookies, although this may affect your Internet experience. You can also erase cookies that are already on your computer. For more information on working with cookies, you should consult the User Manual, FAQ, or Help function of your specific browser and operating system software.</p>
+      <p class="bodyText">For answers to other questions regarding FIRSTRADE's Privacy Policy, please email <a href="mailto:service@firstrade.com">service@firstrade.com</a> or call 1-800-869-8800.</p>
+      <br>
+<br><div align="center"><a href="#top" class="jumplistLink">Return to Top</a></div><br>    <p>&nbsp;</p></td>
+    <td width="15">&nbsp;</td>
+    <td width="216" align="center" valign="top" background="/en_us/public/images/rightnav_bg.gif"><a href="https://pageserve.firstrade.com/public/apply/en_us/onlineApp.php"><img src="/en_us/public/images/openacct_button.gif" border="0"></a><table width="216" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td width="216" valign="top" bgcolor="#EAEFF3"><div align="center"><a href="/public/support/"><img src="/en_us/public/images/contact_button.gif" alt="Contact Us" width="98" height="29" hspace="0" vspace="0" border="0"></a><img src="/en_us/public/images/vert_spacer_buttons.gif" alt="spacer" width="5" height="29" hspace="0" vspace="4" border="0"><a href="/public/support/livechat/"><img src="/en_us/public/images/livechat_button.gif" alt="Live Chat" width="99" height="29" hspace="1" vspace="0" border="0"></a></div></td>
+  </tr>
+  <tr>
+    <td bgcolor="#EAEFF3" valign="top"><div align="center"><a href="/public/support/formscenter/"><img src="/en_us/public/images/forms_dload_button.gif" alt="Forms Download Center" width="144" height="29" hspace="0" vspace="0" border="0"></a></div></td>
+  </tr>
+  <tr>
+    <td bgcolor="#EAEFF3" valign="top"><img src="/en_us/public/images/spacer.gif" alt="Spacer" width="144" height="5" hspace="0" vspace="0" border="0"></td>
+  </tr>
+  <tr>
+    <td><img src="/en_us/public/images/darkgrey_spacer.gif" alt="spacer" width="216" height="1" hspace="0" vspace="0" border="0"></td>
   </tr>
 </tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="620">
-  <tbody><tr> 
-    <td width="100%" bgcolor="#999999"><img src="/images/blank.gif" width="5" height="1"></td>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<form action="/phpdig/search.php" method="post"></form>
+      <input type="hidden" name="path" value="">
+      <input type="hidden" name="refine" value="0">
+      <input type="hidden" name="template_demo" value="">
+      <input type="hidden" name="result_page" value="/phpdig/search.php">
+	  <input type="hidden" name="limite" value="10">
+  <tbody><tr>
+    <td colspan="4" bgcolor="#f8f8f8"><img src="/en_us/public/images/spacer.gif" alt="spacer" width="1" height="10" hspace="0" vspace="0" border="0"></td>
   </tr>
-  </tbody><tbody> 
-  <tr align="center"> 
-    
-<td bgcolor="#FFFFFF" width="100%" height="30"><span class="smalltext"><a href="/public/home_intro.html"><font face="Arial, Helvetica, sans-serif" size="1">Home</font></a><font face="Arial, Helvetica, sans-serif" size="1">&nbsp;&nbsp;&nbsp; 
-      |&nbsp;&nbsp;&nbsp;<a href="/public/trading_demo_trading.html">Trading</a>  
-      &nbsp;&nbsp;&nbsp;|</font> <font face="Arial, Helvetica, sans-serif" size="1">&nbsp;&nbsp;&nbsp;</font><font face="Arial, Helvetica, sans-serif" size="1"><a href="/public/accounts_demo_account.html">Account Manager</a></font> 
-      <font face="Arial, Helvetica, sans-serif" size="1">&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
-      <a href="http://firstrade.stockpoint.com/firstrade/briefing.asp?FPage=public&amp;Mode=STOCKS">Market News</a></font> 
-      <font face="Arial, Helvetica, sans-serif" size="1">&nbsp;&nbsp;&nbsp;|</font> 
-      <font face="Arial, Helvetica, sans-serif" size="1">&nbsp;&nbsp;&nbsp;<a href="http://firstrade.stockpoint.com/firstrade/quote.asp?FPage=public">Quotes &amp; Research</a></font> 
-      <font face="Arial, Helvetica, sans-serif" size="1">&nbsp;&nbsp;&nbsp;|</font> 
-      <font face="Arial, Helvetica, sans-serif" size="1">&nbsp;&nbsp;&nbsp;<a href="/public/learning_spl_start_1.html">Learning Center</a></font></span> </td>
+  <tr>
+    <td width="10" bgcolor="#f8f8f8"><img src="/en_us/public/images/spacer.gif" alt="spacer" width="10" height="8" hspace="0" vspace="0" border="0"></td>
+    <td width="50" class="rtnavtitle" bgcolor="#f8f8f8">Search:</td>
+    <td width="150" valign="top" bgcolor="#f8f8f8"><table border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td><input type="text" size="12" maxlength="50" name="query_string" value="">          </td>
+        <td><input name="search" type="image" src="/en_us/public/images/gobutton_gbg.gif" border="0"></td>
+      </tr>
+    </tbody></table></td>
+    <td width="6" bgcolor="#f8f8f8"><img src="/en_us/public/images/spacer.gif" alt="spacer" width="6" height="8" hspace="0" vspace="0" border="0"></td>
   </tr>
-  </tbody> 
-</table>
-<table width="620" border="0" cellspacing="0" cellpadding="2">
+  <tr>
+    <td colspan="4" bgcolor="#f8f8f8"><img src="/en_us/public/images/spacer.gif" alt="spacer" width="1" height="10" hspace="0" vspace="0" border="0"></td>
+  </tr>
+  <tr>
+    <td colspan="4"><img src="/en_us/public/images/darkgrey_spacer.gif" alt="spacer" width="216" height="1" hspace="0" vspace="0" border="0"></td>
+  </tr>
   
-<tbody><tr bgcolor="#003366" align="center"> 
-    
-<td bgcolor="#003366"><font size="1" class="smalltext"><font color="#FFFFFF">©2002 Firstrade 
-      Securities Inc. All rights reserved. Member NASD/SIPC</font> <a href="/public/home_legalinfo.html"><font color="#ffcc33">Important 
-      Legal Information</font></a><font color="#FFFFFF">. </font><font size="1" class="smalltext"><font color="#FFFFFF">Our 
-      </font><a href="/public/home_privacypolicy.html"><font color="#FFCC33">Privacy 
-      Policy</font></a><font color="#FFFFFF">.</font></font></font></td>
-</tr>
-<tr align="center">
-<td><font size="1" class="smalltext">System response and access times may vary due to market conditions, system performance, and other factors.</font></td>
-</tr>
 </tbody></table>
- 
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td colspan="4" bgcolor="#f8f8f8"><img src="/en_us/public/images/spacer.gif" alt="spacer" width="1" height="10" hspace="0" vspace="0" border="0"></td>
+  </tr>
+  <tr>
+    <td width="10" bgcolor="#f8f8f8"><img src="/en_us/public/images/spacer.gif" alt="spacer" width="10" height="8" hspace="0" vspace="0" border="0"></td>
+    <td width="50" class="rtnavtitle" bgcolor="#f8f8f8">Quotes:</td>
+    <td width="150" valign="top" bgcolor="#f8f8f8"><table border="0" cellspacing="0" cellpadding="0">
+      <form method="get" action="/public/newsquotes/detailedquote/" name="quoteForm"></form>
+	  <tbody><tr>
+        <td><input name="symb" type="text" value="ex. MSFT" size="12" maxlength="12" onfocus="this.value='';">          </td>
+        <td><input name="imageField" type="image" src="/en_us/public/images/gobutton_gbg.gif" width="44" height="24" border="0">          </td>
+      </tr>
+	  
+    </tbody></table></td>
+    <td width="6" bgcolor="#f8f8f8"><img src="/en_us/public/images/spacer.gif" alt="spacer" width="6" height="8" hspace="0" vspace="0" border="0"></td>
+  </tr>
+  <tr>
+    <td bgcolor="#f8f8f8"></td>
+    <td bgcolor="#f8f8f8"></td>
+    <td bgcolor="#f8f8f8"><a href="/public/newsquotes/findsymbol/" class="findsymbol">Find Symbol</a></td>
+    <td bgcolor="#f8f8f8"></td>
+  </tr>
+  <tr>
+    <td colspan="4" bgcolor="#f8f8f8"><img src="/en_us/public/images/spacer.gif" alt="spacer" width="1" height="10" hspace="0" vspace="0" border="0"></td>
+  </tr>
+  <tr>
+    <td colspan="4"><img src="/en_us/public/images/darkgrey_spacer.gif" alt="spacer" width="216" height="1" hspace="0" vspace="0" border="0"></td>
+  </tr>
+</tbody></table>
+</td>
+  </tr>
+  <tr>
+    <td colspan="5">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tbody><tr bgcolor="#CCCCCC">
+    <td colspan="12"><img src="/en_us/public/images/spacer.gif" width="1" height="1"></td>
+  </tr>
+  <tr bgcolor="#EFEFEF">
+    <td colspan="12"><img src="/en_us/public/images/spacer.gif" width="1" height="10"></td>
+  </tr>
+  <tr bgcolor="#EFEFEF">
+    <td width="120" valign="top"><div align="right" class="bntitlebold">At a Glance: </div></td>
+    <td width="10">&nbsp;</td>
+    <td width="130" valign="top"><img src="/en_us/public/images/bullet_point.gif" alt="spacer" width="4" height="4" hspace="2" vspace="2" border="0"><a href="/public/welcome/" class="bnlinks">Welcome</a><br>
+        <img src="/en_us/public/images/bullet_point.gif" alt="spacer" width="4" height="4" hspace="2" vspace="2" border="0"><a href="/public/productsservices/" class="bnlinks">Products &amp; Services</a><br>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="130" valign="top"><img src="/en_us/public/images/bullet_point.gif" alt="spacer" width="4" height="4" hspace="2" vspace="2" border="0"><a href="/public/pricing/" class="bnlinks">Pricing</a><br>
+        <img src="/en_us/public/images/bullet_point.gif" alt="spacer" width="4" height="4" hspace="2" vspace="2" border="0"><a href="/public/newsquotes/" class="bnlinks">News &amp; Quotes</a><br>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="130" valign="top"><img src="/en_us/public/images/bullet_point.gif" alt="spacer" width="4" height="4" hspace="2" vspace="2" border="0"><a href="/public/retirement/" class="bnlinks">Retirement</a><br>
+        <img src="/en_us/public/images/bullet_point.gif" alt="spacer" width="4" height="4" hspace="2" vspace="2" border="0"><a href="/public/knowledgecenter/" class="bnlinks">Knowledge Center</a><br>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="130" valign="top"><img src="/en_us/public/images/bullet_point.gif" alt="spacer" width="4" height="4" hspace="2" vspace="2" border="0"><a href="/public/support/" class="bnlinks">Support</a><br>
+        <img src="/en_us/public/images/bullet_point.gif" alt="spacer" width="4" height="4" hspace="2" vspace="2" border="0"><a href="/public/support/formscenter/" class="bnlinks">Forms Center</a><br>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="120" valign="top"><img src="/en_us/public/images/bullet_point.gif" alt="spacer" width="4" height="4" hspace="2" vspace="2" border="0"><a href="/public/support/sitemap/" class="bnlinks">Site Map</a><br>
+    <img src="/en_us/public/images/bullet_point.gif" alt="spacer" width="4" height="4" hspace="2" vspace="2" border="0"><a href="/public/support/" class="bnlinks">Contact Us</a><br></td>
+    <td width="10">&nbsp;</td>
+  </tr>
+  <tr bgcolor="#EFEFEF">
+    <td colspan="12"><img src="/en_us/public/images/spacer.gif" width="1" height="10"></td>
+  </tr>
+  <tr align="center" bgcolor="#CCCCCC">
+    <td colspan="12"><img src="/en_us/public/images/spacer.gif" width="1" height="1"></td>
+  </tr>
+  <tr align="center">
+    <td colspan="12"><span class="bodyText"><br>
+©2007 Firstrade Securities Inc. All rights reserved. Member NASD/SIPC. </span><a href="/public/support/importantinformation/" class="copyrtlinks"><br>
+Important Information</a> | <a href="/public/support/privacyandsecuritypolicy/" class="copyrtlinks">Privacy Policy</a><span class="bodyText"> | <a href="/public/knowledgecenter/securitycenter/" class="copyrtlinks">Security Center</a><br>
+System response and access times may vary due to market conditions, system performance, and other factors.</span></td>
+  </tr>
+</tbody></table>
+<script language="javascript" type="text/javascript"><!--
 
+document.write('<s'
 
+        + 'cript language=javascript src="'
+
+        + document.location.protocol
+
+        + '//'
+
+        + 'rogue.seoinc.com'
+
+        + '/cgi-bin/ctasp-server.cgi'
+
+        + '?i=firstrade'
+
+        + '&fp=1'
+
+        + '&c='+escape(document.cookie)
+
+        + '"></'
+
+        + 'script>');
+
+        //-->
+
+</script><script language="javascript" src="https://rogue.seoinc.com/cgi-bin/ctasp-server.cgi?i=firstrade&amp;fp=1&amp;c="></script></td>
+  </tr>
+</tbody></table>
 </body></html>
