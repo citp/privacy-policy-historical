@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tutorvista.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217194122id_/http%3A//www.tutorvista.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutorvista.com privacy policy that was archived on 2007-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070512010349id_/http%3A//www.tutorvista.com/privacy.php) for the most accurate reproduction.*
 
 # TutorVista - World class tutoring - Privacy
 
@@ -6,13 +6,13 @@
 
 TutorVista.com has created this privacy statement ("Statement") in order to demonstrate our commitment to customer privacy. Privacy on the TutorVista.com web site (the "Site") is of great importance to us. Because we gather important information from our visitors and customers, we have established this Statement as a means to communicate our information gathering and dissemination practices. We reserve the right to change this Statement at any time, so please visit TutorVista.com regularly to review our privacy statement.
 
-If you have questions or concerns regarding this statement, you should contact the Privacy Program Office of TutorVista.com by emailing [care@tutorvista.com](mailto:care@tutorvista.com), or by calling 866-735-0516.
+If you have questions or concerns regarding this statement, you should contact the Privacy Program Office of TutorVista.com by emailing ., or by calling 866-735-0516.
 
 **Collected Information**
 
 We require customers who register to use the services offered on our Site (collectively, the "Service") to give us contact information, such as their name, address, phone number, and e-mail address, and billing information, such as billing name and address, credit card number, and the school grade and subjects to use the service. We also receive and may store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies" and we obtain certain types of information when your Web browser accesses www.tutorvista.com. More information on our use of "cookies" can be found below.
 
-TutorVista.com uses the information that we collect to set up the Service for our customers. We may also use the information to contact customers to further discuss customer interest in our company, the Service that we provide, and to send information regarding our company or partners, such as promotions and events. Customer email addresses and any personal customer information will not be distributed or shared with third parties. Customers can opt out of being contacted by us, or receiving such information from us, at any time by sending an email to [care@tutorvista.com](mailto:care@tutorvista.com). Separately, customers are also asked to provide an email address when registering for the Service, in order to receive a username and password. We may also email information regarding updates to the Service or company, and will send a Customer Newsletter.
+TutorVista.com uses the information that we collect to set up the Service for our customers. We may also use the information to contact customers to further discuss customer interest in our company, the Service that we provide, and to send information regarding our company or partners, such as promotions and events. Customer email addresses and any personal customer information will not be distributed or shared with third parties. Customers can opt out of being contacted by us, or receiving such information from us, at any time by sending an email to . Separately, customers are also asked to provide an email address when registering for the Service, in order to receive a username and password. We may also email information regarding updates to the Service or company, and will send a Customer Newsletter.
 
 In order to tailor our subsequent communications to you and continuously improve our products and services (including registration), we may also ask you to provide us with information regarding your personal or professional interests, experience with our products and services, and more detailed contact preferences. Customers and visitors always have the option of choosing not to provide us with this information.
 
@@ -76,4 +76,4 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 **Contact Us**
 
-If you have any questions or suggestions regarding our privacy policy, please contact us by emailing [care@tutorvista.com](mailto:care@tutorvista.com), or by calling 866-735-0516.
+If you have any questions or suggestions regarding our privacy policy, please contact us by emailing , or by calling 866-735-0516.
