@@ -1,51 +1,50 @@
-> *The following text is extracted and transformed from the avn.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615031602id_/http%3A//www.avn.com/index.php%3FPrimary_Navigation%3DPrivacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avn.com privacy policy that was archived on 2007-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070511101327id_/http%3A//avn.com/index_cache.php%3FPrimary_Navigation%3DPrivacy_Policy) for the most accurate reproduction.*
 
 # AVN :: Privacy Policy
 
-_AVN_ Publications, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: _AVN_ Network.
+AVN.com and its subsidiary websites, as well as show websites are a Teddy Communications Inc. site. In protecting your privacy we are providing this statement detailing our online data practices and the options you have about the way your data is collected and used on these Teddy Communications, Inc. sites.
 
-We use your IP address to help diagnose problems with our server, and to administer our website. Your IP address is used to help identify you and to gather broad demographic information.
+**Collecting Data**  
+Only persons who provide us with the requested unique user specific data will be able to order programs, services and products or otherwise participate in the site's activities and programs. Non-unique user data may be collected when you visit many of our site pages such as the kind of browser you are using (e.g., Netscape, Internet Explorer, Mozilla Firefox), the kind of operating system you are using, (e.g., Windows 2000 or Mac OS) and the domain name of your Internet service provider (e.g., America Online, MSN).
 
-Our site's subscription form requires users to give us contact information (to include names and E-mail addresses), financial information (to include account or credit card numbers), and demographic information (to include zip code, age and income level). We use customer contact information from the subscription form to send the user information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+**Data Usage**
 
-Collected financial information is used to check the users' qualifications for subscribing and to bill the user for products and services ordered. Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing content that we think may be of interest and displaying content according to preferences. This information is shared with advertisers on an aggregate basis only.
+We may use the data you provide about yourself to complete your requests for our programs, services and products, to address your inquiries about our programs, and to offer you other products, programs or services that might be of interest to you.
 
-This site contains links to other sites. The _AVN_ Network is not responsible for the privacy practices or the content of other such websites.
+We sometimes use this data to communicate with you, such as to notify you when you have won one of our contests, to fulfill a request by you for an online newsletter, or to contact you about your business with us.
 
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (to include E-mail addresses), financial information (to include account or credit card numbers), and demographic information (to include zip code, age and income level). Contact information from the order form is used to send orders, information about our company, and promotional material from some of our partners to our customers. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+We sometimes use the non-unique user specific data that we collect to improve the design and content of our site and to enable us to personalize your online activities. We also may use this data to analyze site usage, as well as to offer you programs, services or products.
 
-Financial information that is collected is used to check the users' qualifications and to bill the user for products and services ordered. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis only.
+We may disclose unique user specific data in response to legal obligations, for example, in response to a court order or a subpoena. We also may disclose such data in response to a law enforcement agency's request.
 
-**Public Forums**
+Agents and contractors of Teddy Communications, Inc. who have access to unique user specific data are required to protect this data in a way that is consistent with this Privacy Policy, for example, not using the data for any purpose other than to complete the services they are handling for Teddy Communications, Inc.
 
-This site makes chat rooms, forums, message boards, and/or news groups. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+Although we take appropriate steps to protect against unauthorized disclosures of data, we cannot guarantee you that unique user specific data that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy. Occasionally we may combine data we acquire online with other records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive marketing information from this site, please email [privacy@avn.com](mailto:privacy@avn.com) to submit your request.
 
-**Choice/Opt-Out**
+Teddy Communications, Inc. sites covered by this Privacy Policy will not use or distribute unique user specific data provided to us in ways unrelated to the ones detailed above without also providing you with an opportunity to opt out of these unrelated uses.
 
-Our site provides users the opportunity to opt-out of receiving further communications from our partners and us. Opt-out opportunities are presented at all points where visitor information is requested.
+**Collection of Data by Strategic Partner Sites and Sponsors**
 
-This site gives users the following options for removing their information from our database and to opt-out of receiving future communications:
+Links on our sites may direct you to other sites and their information policies and privacy guidelines may differ from ours. Please read the privacy statements on other sites as we have no control over what these strategic partner sites do with your data collected and/or submitted. The Teddy Communications, Inc. sites covered by this Privacy Statement sometimes may offer programs (e.g., contests, sweepstakes, or promotions) that are sponsored by or co-branded with identified strategic partners. The strategic partners may obtain unique user specific data that visitors voluntarily submit to participate in the programs. Teddy Communications, Inc. has no control over these strategic partners' use of this data.
 
-1\. Send E-mail to [sysadmin@avn.com](mailto:sysadmin@avn.com)  
-2\. Send mail to the following postal address: _AVN_ Publications, Inc., 9414 Eton Ave, Chatsworth, CA 91311   
-3\. Call the following telephone number: 818.718.5788
+**Cookies**
 
-**Correct/Update**
+To better understand our site traffic, many of our Internet pages use "cookies” to track user experience. Cookies are text files placed in your computer's browser. Cookies do not tell us your e-mail address or other unique user specific data unless you choose to provide this data to us by, for example, registering at one of our sites. However, once you choose to furnish the site with unique user specific data, this data may be built into the cookie.
 
-This site gives users the following options for changing and modifying information previously provided.
+We use cookies to understand site usage and to improve the content and programs on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g., to recognize you by name when you return to our site) or to save your password in password-protected areas. We also may use cookies to offer you programs, services or products.
 
-1\. E-mail [sysadmin@avn.com](mailto:sysadmin@avn.com)  
-2\. Call the following telephone number: 818.718.5788
+**Security Commitment**
 
-**Contacting the website**
+We have implemented appropriate physical, electronic, and managerial procedures to protect and help prevent unauthorized access, control data security, and properly use the data collected online.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, direct inquiries to: 
+**Data Changes**
 
-Farley Cahen  
-_AVN_ Publications,Inc.  
-_AVN_ Online  
-9414 Eton Ave  
-Chatsworth, CA 91311  
-[farley@avn.com](mailto:farly@avn.com)
+For instructions on how you can access the unique user specific data that this Teddy Communications, Inc. site has collected about you online, or how to correct factual errors in such data, please contact us at privacy@avn.com.
+
+To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
+
+**Contact Information**
+
+If you have any questions or concerns about the Teddy Communications, Inc. online policy for this site or its implementation you may contact us at [privacy@avn.com](mailto:privacy@avn.com).
 
  
