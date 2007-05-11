@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoraps.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231172255id_/http%3A//www.yoraps.com/disclaimer.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoraps.com privacy policy that was archived on 2007-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070512004429id_/http%3A//www.yoraps.com/disclaimer.php) for the most accurate reproduction.*
 
 # Yo! Raps Magazine - The Timless Return Of Rhyme In Hip Hip, RnB, Soul And Rap
 
