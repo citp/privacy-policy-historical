@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usgbc.org privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205221001id_/http%3A//www.usgbc.org/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usgbc.org privacy policy that was archived on 2007-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070512004624id_/http%3A//www.usgbc.org/Privacy) for the most accurate reproduction.*
 
 # USGBC: Privacy Policy
 
@@ -20,10 +20,10 @@ Please note that We use “cookies,” which are small files stored on Your comp
 In addition, Our Web server collects and saves the default information customarily logged by World Wide Web server software.  Our logs contain the following information for each request:  date, time, originating IP address and domain name, object requested, and completion status of the request.  We use these logs to help improve Our service by evaluating the level of demand for Our site and detecting any errors on the site that might occur.  These logs may be kept for an indefinite length of time and used at any time and in any way necessary to prevent security breaches and protect the integrity of the data on Our servers. 
 
 **Use of Collected Information**  
-Any information We gather, whether submitted voluntarily or collected automatically, will be used for Our internal purposes only.  Billing information is collected through a secure server and is not shared with other organizations other than the credit card issuing entity.  Your credit card number is not retained once Your transaction has been authorized and processed.  It is Our policy not to disclose or to sell any user information to third parties, however, when requested by a Member, We may provide a member with a mailing list of USGBC members to promote certain approved activities or events.  Members may opt out of including their contact information for such mailing lists.  We retain the right to disclose collected information if required to do so by law or if acting on a good faith belief that such disclosure is necessary to protect Our rights or property or to respond to an emergency situation. 
+Any information We gather, whether submitted voluntarily or collected automatically, will be used for Our internal purposes only.  Billing information is collected through a secure server and is not shared with other organizations other than the credit card issuing entity.  Your credit card number is not retained once Your transaction has been authorized and processed.  It is Our policy not to disclose or to sell any user information to third parties.  We retain the right to disclose collected information if required to do so by law or if acting on a good faith belief that such disclosure is necessary to protect Our rights or property or to respond to an emergency situation. 
 
 **Review, Update, and Deletion of Collected Information**  
-If You are concerned about the information You have provided to Us or would like to review, update, or delete this information, please e-mail Us at [webmaster@usgbc.org](mailto:webmaster@usgbc.org).  We will make reasonable efforts to comply with Your requests. 
+If You are concerned about the information You have provided to Us or would like to review, update, or delete this information, please e-mail Us at [mailto:info@usgbc.org](mailto:info@usgbc.org)  We will make reasonable efforts to comply with Your requests. 
 
 **Links**  
 Please see Our [Terms and Conditions](http://usgbc.org/terms_and_conditions.asp) page. 
