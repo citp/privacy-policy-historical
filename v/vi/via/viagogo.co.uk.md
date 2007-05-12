@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viagogo.co.uk privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213161429id_/http%3A//viagogo.co.uk/help.aspx%3Fhelpgroupid%3D98) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viagogo.co.uk privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513000829id_/http%3A//www.viagogo.co.uk/help.aspx%3Fhelpgroupid%3D98) for the most accurate reproduction.*
 
 # 
 
@@ -82,10 +82,9 @@ You can always submit concerns regarding our Privacy Policy or our privacy pract
 
 **viagogo**  
 Attn: Privacy Team  
-Appleton House  
-139 King St.  
-Hammersmith  
-W6 9JG  
+1 Hammersmith Grove  
+London   
+W6 0NB  
 United Kingdom
 
 Thank you for using viagogo! 
