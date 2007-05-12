@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the liberty.edu privacy policy that was archived on 2006-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061223151305id_/http%3A//www.liberty.edu/index.cfm%3Fpid%3D6901) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the liberty.edu privacy policy that was archived on 2007-05-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070512200151id_/http%3A//www.liberty.edu/index.cfm%3Fpid%3D6901) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -37,7 +37,21 @@
 	} 
 	</style>
 	<![endif]-->
-</head>
+
+<script language="javascript" type="text/javascript">
+	function openSearch()
+	{
+		if (document.getElementById('searchbox').style.display=='none')
+		{
+			document.getElementById('searchbox').style.display='block'; 
+			document.getElementById('qid').focus();
+		}
+		else
+		{
+			document.getElementById('searchbox').style.display='none';
+		}
+	}
+</script></head>
 <body>
 <div id="header">
 	<div id="logo">
@@ -60,7 +74,7 @@
 
 	
 <a href="/index.cfm?PID=12289">People Finder</a></td>
-	<td id="top_nav"><a href="javascript:void(0)" onclick="if (document.getElementById('searchbox').style.display=='none') document.getElementById('searchbox').style.display='block'; else document.getElementById('searchbox').style.display='none'" style="cursor:pointer;">
+	<td id="top_nav" onclick="openSearch()"><a href="javascript:void(0)" style="cursor:pointer;">
 		Search <img src="/wwwadmin/images/v3template/arrow_down.gif" width="7" height="6" border="0" alt="Search"></a>
 	</td>
 	<td>
@@ -76,17 +90,17 @@
 <li><a href="/index.cfm?PID=245">ASIST</a></li>
 <li><a href="http://www.libertyflames.com">Athletics</a></li>
 <li><a href="/index.cfm?PID=6154">Blackboard</a></li>
-<li><a href="http://liberty.bkstore.com/bkstore/content">Bookstore</a></li>
-<li><a href="/index.cfm?PID=791">Course Catalogs</a></li>
+<li><a href="http://www.liberty.bncollege.com">Bookstore</a></li>
 <li><a href="/index.cfm?PID=162">Debate Team</a></li>
-<li><a href="http://www.libertydining.com">Dining Services</a></li>
 <li><a href="/distancelearning">Distance Learning</a></li>
-<li><a href="/index.cfm?PID=174">Employment</a></li>
+<li><a href="/index.cfm?PID=402">Employment</a></li>
 <li><a href="/index.cfm?PID=2309">Graduate Studies</a></li>
 <li><a href="/index.cfm?PID=4931">Liberty OneCard</a></li>
 <li><a href="/index.cfm?PID=178">Library</a></li>
 <li><a href="/index.cfm?PID=154">Missions</a></li>
 <li><a href="/index.cfm?PID=8034">Parents</a></li>
+<li><a href="/index.cfm?PID=13641">Partner Organizations</a></li>
+<li><a href="/index.cfm?PID=455">Registrar</a></li>
 <li><a href="http://law.liberty.edu/">School of Law</a></li>
 <li><a href="/academics/religion/seminary/">Seminary</a></li>
 <li><a href="/index.cfm?PID=195">Spiritual Life</a></li>
@@ -102,7 +116,14 @@
 </tbody></table>
 <div id="searchbox" style="display:none;" align="right">
 	<div id="searchstyle">
-		<form action="/index.cfm?PID=214" method="post" name="searchform" style="margin:auto;"><input type="text" name="searched" style="width:188px; border:1px solid black; height:20px;"> <input type="submit" value="Search"></form>
+		<form method="get" name="searchform" action="http://search.liberty.edu/search" style="margin:auto;">
+		<input type="text" name="q" id="qid" size="25" maxlength="255" value="" style="width:188px; border:1px solid black; height:20px;">
+        <input type="submit" name="btnG" value="Search">
+        <input type="hidden" name="site" value="default_collection">
+        <input type="hidden" name="client" value="default_frontend">
+        <input type="hidden" name="proxystylesheet" value="default_frontend">
+        <input type="hidden" name="output" value="xml_no_dtd">
+		</form>
 	</div>
 </div>
 
@@ -258,7 +279,7 @@ Liberty University is a registered trademark - ©Copyright 2006 - <a href="index
 	
 
 	Liberty University® &nbsp;·&nbsp;  1971 University Boulevard  &nbsp;·&nbsp;  Lynchburg, Virginia 24502  &nbsp;·&nbsp;  434-582-2000<br>
-	©<a href="index.cfm?pid=324">Copyright 2006</a> &nbsp;<a href="/wwwadmin/apps/webmanager2/index.cfm?action=editpage&amp;PID=6901" class="text-1" style="text-decoration:none; color:white">·</a>&nbsp; Liberty University is a registered trademark &nbsp;·&nbsp; 
+	©<a href="index.cfm?pid=324">Copyright 2007</a> &nbsp;<a href="/wwwadmin/apps/webmanager2/index.cfm?action=editpage&amp;PID=6901" class="text-1" style="text-decoration:none; color:white">·</a>&nbsp; Liberty University is a registered trademark &nbsp;·&nbsp; 
 
 
 
@@ -278,7 +299,7 @@ Liberty University is a registered trademark - ©Copyright 2006 - <a href="index
 
 
 	
-<a href="index.cfm?pid=12288">Website Feedback</a></div>
+<a href="index.cfm?pid=13210">Website Feedback</a></div>
 
 
 </div></body></html>
