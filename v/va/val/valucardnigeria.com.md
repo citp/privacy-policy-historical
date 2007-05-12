@@ -1,31 +1,41 @@
-> *The following text is extracted and transformed from the valucardnigeria.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206210030id_/http%3A//valucardnigeria.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valucardnigeria.com privacy policy that was archived on 2007-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070512085754id_/http%3A//www.valucardnigeria.com/privacy.php) for the most accurate reproduction.*
 
-# ValuCard Nigeria PLC | Privacy Policy
+# ValuCard Nigeria
 
-We Respect Your Privacy 
+VALUCARD may use cookies technologies as part of its core mission to discover and inform visitors to our site. Cookie technology may be implemented at some VALUCARD Web sites. At no time is private information you have given us, whether stored in cookies (persistent) or elsewhere, shared with third parties that have no right to that information. If you do not wish to have persistent cookies stored on your machine, you can turn them off in your browser. However, this may impact the functioning of some VALUCARD sites. 
 
-To print page, please use the Print Command CTRL+P (Windows) or Apple+P (Macintosh). 
+**Information Collection**  
+We may collect and store information for statistical purposes. For example, we may count the number of visitors to the different pages of our Web site to help make them more useful to visitors. This information does not identify you personally. We automatically collect and store only the following information about your visit:
 
-As a leading Financial Services organization offering leading products and services, we are committed to keeping every information collected from you via our website confidential. To this end, we are continually taking steps to safeguard every such information.
+  * The Internet domain (for example, "valucard.com" if you use a private Internet access account, or "myaccount.edu" if you connect from a university's domain) and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our Web site;  
 
-Our Privacy Policy highlights some of our efforts to meet these objectives. It includes a summary of the following important information: 
+  
 
-  * A listing of the personal information we collect 
-  * The circumstances in which we may share information with others 
-  * The ways we safeguard the confidentiality and security of information 
+  * The type of browser and operating system used to access our site;  
+
+  
+
+  * The date and time you access our site;  
+
+  
+
+  * The pages you visit; and  
+
+  
+
+  * If you visited this VALUCARD Web site from a link on another Web site, the address of that Web site.  
+
+  
 
 
 
-Please read our Privacy Policy carefully. It will help you understand how we collect and share information. 
+The information that you provide on a VALUCARD Web site will be used only for its intended purpose, except as required by law or if pertinent to judicial or governmental investigations or proceedings.
 
-1\. What Personal Information Do We Collect? 
+**E-Mails**  
+By sending us an electronic mail (e-mail) message, you may be sending us personal information such as your name, address, and e-mail address. We may store your name, address, and e-mail address of the requester in order to respond to your request or otherwise resolve the subject matter of the e-mail. Under limited circumstances, including requests from Congress or private individuals, we may be required by law to disclose the information you submit. Remember that e-mail is not necessarily secure against interception. If your communication is very sensitive, or includes personal information like your Social Security number, you might want to send it by postal mail instead. 
 
-In order to serve you better and manage our business, it is imperative that we collect and maintain accurate personal information about you and/or your organization. These information are obtained through forms you submit to us via our website. Some of these include your names, contact details, bank, etc. These information are restricted to only those that are pertinent to our services to you, directly or through member banks.
+**Registering:**  
+Some of our Web sites ask visitors who request specific information to fill out a registration form such as recruitment, vendors looking for marketing opportunities by visiting our VALUCARD Acquisition Internet Service site may be asked to "register" to obtain email notices of business opportunities. Other information collected at Web sites through questionnaires, feedback forms, or other means, enables us to determine visitors' interests, with the goal of providing better service to our customers. 
 
-2\. Is Personal Information Shared with Others? 
+©2006 ValuCard Nigeria Plc. All Rights Reserved.  
 
-We restrict the sharing of information to only the participating (or member) bank you wish to obtain our products and services from. The member bank is chosen as you fill our forms.
-
-3\. How Do We Protect the Confidentiality, Security and Integrity of Information About You? 
-
-We maintain physical, electronic and procedural safeguards to protect the information we collect about you. Access to such information is restricted to individuals who need it in order to service your Account or provide products and services to you, and who are trained in the proper handling of such information. 
