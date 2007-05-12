@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tennis.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213180800id_/http%3A//www.tennis.com/info/privacypolicy/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tennis.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513000809id_/http%3A//tennis.com/info/privacypolicy/index.aspx) for the most accurate reproduction.*
 
 # TENNIS.com - Privacy Policy
 
