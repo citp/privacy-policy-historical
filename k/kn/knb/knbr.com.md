@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knbr.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211214228id_/http%3A//www.knbr.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knbr.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513000506id_/http%3A//www.knbr.com/privacy.html) for the most accurate reproduction.*
 
 # KNBR's Privacy Policy
 
@@ -62,7 +62,7 @@ Microsoft Internet Explorer 4: Select Options from the View menu. Choose the Adv
 
 AOL: If you are using AOL v3.0 for Windows 95: Select Preferences from the Members menu. Click on the WWW icon and select Advanced. Modify your preference if you wish to be warned before accepting cookies. If you are using the following AOL browsers, you will not be able to set cookie preferences since these browsers automatically accept cookies: AOL v3.0 for Windows 3.0, using AOL's proprietary browser or AOL's version of Microsoft Internet Explorer v3.0; AOL for the MAC, using AOL's version of Microsoft Internet Explorer 2.1. All other earlier versions of AOL browsers do not support cookies, and therefore cannot authenticate you as a registered user on Web sites that involve sending or receiving personal account information. **
 
-Effective Date: July 15, 1999
+Effective Date: January 19, 2007
 
 **  
 
