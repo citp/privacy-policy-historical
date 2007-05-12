@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tcadmin.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215204720id_/http%3A//tcadmin.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcadmin.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513004558id_/http%3A//www.tcadmin.com/privacy.php) for the most accurate reproduction.*
 
 # TCADMIN - The Game Hosting Control Panel
 
