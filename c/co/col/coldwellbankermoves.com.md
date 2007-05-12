@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coldwellbankermoves.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218091213id_/http%3A//www.coldwellbankermoves.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coldwellbankermoves.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513015124id_/http%3A//www.coldwellbankermoves.com/privacy) for the most accurate reproduction.*
 
 # 
 
