@@ -1,17 +1,22 @@
-> *The following text is extracted and transformed from the featurepics.com privacy policy that was archived on 2006-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061022202122id_/http%3A//www.featurepics.com/HelpCenter/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the featurepics.com privacy policy that was archived on 2007-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070512162507id_/http%3A//www.featurepics.com/HelpCenter/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # FeaturePics.com - stock photography : royalty free, rights-managed photos. Privacy Policy.
 
-FeaturePics is a site for buying and selling Stock Photos, and giving recognition to the excellent group of FeaturePics Photographers. It is open to the public. 
+**In the growing digital imaging market, FeaturePics offers:**
 
-We are focused and constantly improving image viewing in the following segments: 
+* Transparency. What you see is what you get, no hidden fees. 
+* Savings for you. Our images are reasonably priced to fit your budget. 
+* Intuitive image searching to ensure you to find exactly what you need, and easily. 
+* Responsive communication with you. We taking pride in providing the best support to our clients. 
+* Wide range of images, both Royalty Free and Rights Managed. 
+* Appreciation for our artists. Our artists receive 70% commission. This enables our artists to price their images competitively and pass on the savings to you. 
+* **What we do for Buyers and Contributors:**
 
-* construction images, including architecture 
-* sports, recreation and action shots 
-* photos taken of the young ("Gen-Y") and by young photographers 
-* photos taken of seniors and by older photographers 
-* energy, including renewables and sustainable subjects 
-* ecology, including green marketing and construction
+* Sell image licenses for the price quoted. No hidden fees. 
+* Sell not only Royalty Free Image Licenses, but Rights Managed Image Licenses as well. 
+* Appreciate our Contributors. All photographers receive a 70% commission rate. 
+
+Please check our stock images at FeaturePics.com 
 
 | 
 
@@ -37,7 +42,7 @@ We will send you an e-mail confirming your registration on our site, and in the 
 Periodically, we will send notification e-mails (for example: your images have been requested, you have email requests from buyers etc.). You can opt-out of this option if you don't want to receive FeaturePics notifications when you edit your account preferences.   
 _First Name/Last Name:_ We require your first and last names to help us differentiate your registration profile   
 _Billing address:_ Your billing address is required to submit for credit card verification   
-_Credit Card Details: _We **DO NOT** ask you for your credit card information on our open site. You provide the information on the encrypted secure Verisign site.__  
+_Credit Card Details: _We **DO NOT** ask you for your credit card information on our open site. You provide the information on the encrypted secure Authorize.Net.__  
 Use of cookie technology   
 You must enable cookies on your web browser for FeaturePics.com to function correctly. Only Session cookies are required. We don't collect personal information. Our cookies cannot read data from your computer, nor do we do any form of tracking.   
 Identifiable information from children under the age of 13   
