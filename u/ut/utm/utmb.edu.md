@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the utmb.edu privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615214008id_/http%3A//www.utmb.edu/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utmb.edu privacy policy that was archived on 2007-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070512221523id_/http%3A//www.utmb.edu/privacy_policy.htm) for the most accurate reproduction.*
 
-# The University of Texas Medical Branch
-
-## Privacy Statement
+# Privacy Statement | UTMB Web
 
 This privacy statement is applicable to [www.utmb.edu](http://www.utmb.edu/) and the public web sites directly created and maintained by the University of Texas Medical Branch in Galveston, Texas (UTMB). The following statement applies to the public and addresses the types and use of information gathered on the university’s web sites.
 
@@ -22,4 +20,4 @@ Please address any questions about UTMB’s privacy policy and practices, or use
 
 This policy is effective August 14, 2000. UTMB reserves the right to modify this policy by notifying users of the existence of a new privacy statement. This statement and the policies outlined are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
 
-_Employees of UTMB should refer to_ [ http://www.utmb.edu/is/security/](http://www.utmb.edu/is/security/)  _, which outlines the university’s internal policies and employees’ specific responsibilities related to the use and protection of information resources._
+_Employees of UTMB should refer to[ http://www.utmb.edu/is/security/](http://www.utmb.edu/is/security/), which outlines the university’s internal policies and employees’ specific responsibilities related to the use and protection of information resources. _
