@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nick-james.com privacy policy that was archived on 2004-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040616120939id_/http%3A//www.nick-james.com/public/department12.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nick-james.com privacy policy that was archived on 2007-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070512085630id_/http%3A//www.nick-james.com/public/department12.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,11 +8,11 @@ Version dated 1st May 2004
 
 **A. Nick-James.com & Power-Tech Associates Limited Privacy Policy.** Nick-James.com is committed to protecting your privacy, while providing you with the opportunity to receive products and services which enhance your business activities. 
 
-This policy (“Privacy Policy”) describes the way in which we collect information from you when you use the service, and what we may use it for.
+This policy (?Privacy Policy?) describes the way in which we collect information from you when you use the service, and what we may use it for.
 
 **B. What data do we collect from you?**
 
-We collect data from you (“User Data”) in various ways: 
+We collect data from you (?User Data?) in various ways: 
 
 When you register as a subscriber to Nick-James.com, during the course of your subscription, When we request further information from you from time to time following on from registration. 
 
