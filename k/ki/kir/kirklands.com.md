@@ -1,42 +1,27 @@
-> *The following text is extracted and transformed from the kirklands.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214125659id_/http%3A//www.kirklands.com/kl_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kirklands.com privacy policy that was archived on 2007-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070512213226id_/http%3A//www.kirklands.com/security) for the most accurate reproduction.*
 
-# Kirkland's: Unique Home Decor and Accessories
+# Kirklands - Unique Home Decor and Accessories
 
-> **SECURE SHOPPING**
-> 
-> Kirkland's is committed to providing you a secure, user-friendly web site where you can shop without undue concerns about security or privacy. To meet that goal, we provide several types of security for information that you provide to us. First, we protect your personal information with a password that you choose. This prevents other customers obtaining this information. 
-> 
-> Using your password, you can always access your personal information in order to correct or update any such information. You can access your information by [clicking on edit account.](http://www.kirklands.com/kl_register.asp)
-> 
-> Kirkland's uses SSL (Secure Sockets Layer) technology to encrypt orders that are placed over the Internet. In order for SSL technology to work, you must use an SSL enabled browser. SSL encryption is designed to prevent unauthorized viewing of your personal information, including your credit card number. As the most common method of secure communication on the Internet, SSL technology is built into most major Internet browsers. Please note that e-mail is NOT encrypted, so you should not send your credit card number to us by e-mail. We will do our best to protect your information on our system, but of course no data transmission over the Internet can be guaranteed to be 100% secure. 
-> 
-> If you encounter problems, you can call us at 1-877-208-6668, Customer Service will be happy to assist you in placing your order. Please have the item number for each item you wish to order. 
-> 
-> **PRIVACY POLICY**
-> 
-> kirklands.com, inc. respects your privacy, and we work hard to maintain it. We need certain information when you purchase products from us to confirm the purchase. When you complete an order form at our web site, we collect certain information such as your name, shipping address, e-mail address and a credit card number to pay for your purchase. 
-> 
-> When you register or order, we use some of this information to improve our web site and improve your shopping experience. The information we gather allows us to tailor our content to your personal tastes, and let you know about products and services that will help you express those tastes. 
-> 
-> From time to time we may conduct online surveys, asking about your preferences so we may better serve you. Participation in these surveys is strictly voluntary. We may also keep track of some generic information which doesn't include any personal details, such as the number of visitors to our site, what browser types were used by our visitors, or what search engine you may have used to find our site. 
-> 
-> When you register, we place you on our mailing list to receive e-mails or other information on products that we offer. If you do not care to receive this information, you can e-mail us at remove@kirklands.com and we will take you off our e-mail list. Please allow us 48 hours to make the requested change. 
-> 
-> kirklands.com, inc. also uses a technology called "cookies" to better serve you. A cookie is an entry in a text file or folder on your hard drive. Cookies allow you to select a product, place it in your shopping cart, and continue browsing through our other products without placing a separate order for each product. You can refuse cookies by turning this option off in your browser. You do not need to have cookies turned on to purchase items from kirklands.com, but they can make your shopping experience easier. Cookies do not read data from your hard drive, and do not reveal personal data; the only personal information that a cookie can contain is information that you supply yourself. 
-> 
-> By giving us personal information, you agree that Kirkland's and its affiliates can use that information. 
-> 
-> Notwithstanding anything contained in this site to the contrary, kirklands.com, inc. shall have the right to comply with all requests for information from any appropriate law enforcement agency. 
-> 
-> Our privacy policy may be updated from time to time. If we do change our policy, we will update this site so you have the latest information. By using our site, you agree to the collection and use of your personal information as described here. 
-> 
-> If you have questions concerning our privacy policy or any security matters, please contact us. You may: 
->
->> **2.** Send mail to:
->> 
->> **Customer Service  
->  kirklands.com, inc.  
->  805 North Parkway  
->  Jackson, TN 38305**
->> 
->> **3.** Call us at:        **1-877-208-6668**
+This Security and Privacy statement discloses the privacy practices for http://www.kirklands.com. This statement does not apply to the practices of companies that Kirkland's Home does not own or to people that Kirkland's Home does not employ.
+
+**Commitment To Privacy:** Kirkland's Home values its customers and respects their privacy. In connection with demonstrating its commitment to your privacy, Kirkland's Home has agreed to disclose its information and privacy and security practices. If you feel that Kirkland's Home is not abiding by its posted privacy and security practices, you should contact our customer service department at csr@kirklands.com.
+
+**Information We Collect and Use:** We collect information about you (such as your name, e-mail address, mailing address, phone number, e-mail/IP address, transactions with us, and credit card number) that you provide when you place an order or that you provide to us in any other way. We may acquire customer names, e-mail addresses or mailing addresses for select mailings from third parties. We use the information that you provide for purposes such as responding to your requests, communicating with you, improving our services, conducting research, providing anonymous reporting for existing and prospective clients or advertisers, and processing and confirming your order. From time to time, we may also use your information to notify you about our products, services, contests, or promotions. Except as otherwise provided herein, we do not sell or rent the information that you provide to us online to third parties.
+
+**Ordering:** We request information from you on our order form. Here, a customer must provide contact information (like name and shipping address) and financial information (credit card number, expiration date, and billing address). This information is used for billing purposes to verify the customer is of legal age, and to fill customers' orders. If we have trouble processing an order, this contact information is used to get in touch with the user.
+
+**Cookies:** A cookie is a piece of data stored on the end-user's hard drive containing information that relates directly to the end-user's visit to our web site. Kirkland's Home may, from time to time, use cookies. Any information placed in the cookie is accessible only to Kirkland's Home, and will not be sold or shared with anyone else. In the event that we use cookies, we do so to improve your shopping experience as cookies enable us to track and target the interests of our customers to enhance the experience on our site. You may change your browser to prevent your browser from accepting cookies.
+
+**Sharing of Information:** We value your privacy at Kirkland's Home, and will not release any personally identifiable account information to anyone outside of the necessary core groups that help our business function unless our customers give us the authority to do so or otherwise in accordance with this privacy and security statement. We will share aggregated demographic information with our partners and advertisers. This information, however, is not linked to any personal information that can identify any individual person. We may from time to time use an outside shipping company to ship orders or a credit card processing company to bill users for goods and services. Additionally, we may contract with third parties to assist us in maintaining or managing our customer information. In such events, we will advise these companies not to retain, share, store or use personally identifiable information for any secondary purposes. We may be required to use your information to respond to court orders or subpoenas or to establish or exercise our legal rights or to defend against legal claims. We may share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, or as otherwise required by law. We may transfer your information if Kirkland's Home or the assets thereof are acquired by or merged with another company.
+
+**Links:** In the event that this web site contains links to other sites, please be aware that Kirkland's Home is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site.
+
+**Security:** When our order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the encryption software - SSL (Secure Socket Layers), provided by VeriSign, a premier encryption software company. While we use SSL encryption to protect sensitive information online, we also take actions to protect user-information offline. Our users' information is generally restricted in our offices. Our employees are notified and/or reminded about the importance of keeping our customers' information secure and safe at all times. The servers on which we store personally identifiable information on are kept in a locked and secure environment.
+
+**Children:** Please note that if you are under 18, you may purchase products from kirklands.com only with the involvement of a parent or guardian.
+
+**Correcting/Updating Personal Information:** If your personally identifiable information changes (such as your shipping or billing address, your preferred credit card, etc.), you can add new information or delete any addresses or credit cards from your account on our website or you may obtain live one-on-one help toll-free by phone at csr@kirklands.com.
+
+**Notification of Changes:** If we decide to change our privacy and security statement, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we may disclose it. We will use information in accordance with the privacy and security statement under which the information was collected.
+
+Agreement to Privacy and Security Statement. By using our Web site, you agree to the Kirkland's Home privacy and security statement as provided above.
