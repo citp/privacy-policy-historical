@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the surefire.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213193001id_/http%3A//www.surefire.com/maxexp/main/co_disp/displ/strfnbr/6/pgrfnbr/262) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surefire.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513014119id_/http%3A//www.surefire.com/maxexp/main/co_disp/displ/strfnbr/6/pgrfnbr/262) for the most accurate reproduction.*
 
-# SureFire
+# Surefire Privacy Policy
 
 **Last updated: March 08, 2004**
 
