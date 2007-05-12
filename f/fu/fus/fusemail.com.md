@@ -1,9 +1,23 @@
-> *The following text is extracted and transformed from the fusemail.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205192253id_/http%3A//www.fusemail.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fusemail.com privacy policy that was archived on 2007-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070512220025id_/http%3A//www.fusemail.com/about/legal_stuff.html%3Fdisplay%3Dprivacy_policy) for the most accurate reproduction.*
 
-# Email Hosting - FuseMail, the Business Email Hosting Services Provider
+# Email Hosting - FuseMail, the Business Email Hosting Services Provider - Legal Stuff
 
-|  _(Adopted August 8th, 2003)_  
-_(Updated May 15th, 2005)_
+  
+  
+
+
+|   
+---  
+  
+  
+
+
+[**View Other Documents**](https://web.archive.org/about/legal_stuff.html)
+
+#### Privacy Policy
+
+_(Adopted August 8th, 2003)_  
+
 
 This Privacy Policy governs the manner in which FuseMail, LLC ("FuseMail") collects, uses, maintains and discloses information collected from users of the FuseMail service (each, a "User"). 
 
@@ -16,7 +30,7 @@ FuseMail may collect personally identifiable information from Users in a variety
 **How We Use Information**  
 FuseMail may use personally identifiable information collected through our Web Site to contact Users regarding current and planned future products and services offered by FuseMail and its trusted independent contractors and business partners, and otherwise to enhance Users' experience with FuseMail and such independent contractors and business partners. **FuseMail will at no time release or sell customer lists or other private and personal information (such as email, name, address, and telephone number) to any 3rd party for the purposes of marketing of any kind, such as 3rd party unsolicited email (SPAM).** FuseMail will not access or release private and personal information on your account, except in the case of: 
 
-  * Comply with a court order, subpoena, or other legal instrument from a Government Authority of competent jurisdiction. 
+  * Comply with a court order, subpoena, criminal investigation, or any legal instrument from a Governmental Authority of competent jurisdiction. 
   * Enforce the FuseMail Terms of Service. 
   * Administer, maintain, and improve the service. 
   * Providing customer service to User (such as investigating an User related bug) 
@@ -33,5 +47,3 @@ Information about Users that is maintained on our systems is protected using ind
 
 **Questions**  
 Users may direct questions concerning this Privacy Policy by email to fuseprivacy fusemail.com. 
-
-| 
