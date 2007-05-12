@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the returnpath.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017164621id_/http%3A//www.returnpath.com/company/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the returnpath.com privacy policy that was archived on 2007-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070512203129id_/http%3A//returnpath.com/company/privacyPolicy.php) for the most accurate reproduction.*
 
 # Return Path Solutions for Increased Email Delivery, Performance
 
@@ -13,14 +13,8 @@
 **Effective December 2003  
 RETURN PATH PRIVACY STATEMENT**
 
-| 
+**[](http://www.truste.org/ivalidate.php?url=www.returnpath.net&sealid=101)**
 
-**[](http://www.bbbonline.org/cks.asp?id=200121217282311790)**  
-  
----  
-  
-**[](http://www.truste.org/ivalidate.php?url=www.returnpath.net&sealid=101)**  
-  
 We know that your privacy is important to you. At Return Path, we're committed to helping you manage and protect it. We take privacy very seriously, and have taken many steps to help safeguard the personal information we collect from you at this Web site.
 
 To demonstrate our commitment, we have agreed to disclose our information practices, and have them reviewed for compliance by TRUSTe and BBBOnLine, a Better Business Bureau program. Return Path is a licensee of the TRUSTe Privacy Program and the BBBOnLine Privacy and Dispute Resolution Program. TRUSTe and BBBOnLine are independent, non-profit organizations whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. To that end, our privacy statement will tell you about:
@@ -156,4 +150,4 @@ Phone: 212-905-5500
 Fax: 212-905-5501
 
 [Company](https://web.archive.org/company/) | [Delivery Assurance ](http://www.senderscore.com/) | [Email List Quality](https://web.archive.org/listquality/) | [Customer Acquisition](http://www.postmasternetwork.net/) | [Strategic Solutions ](https://web.archive.org/strategic/) | [Client Login](https://web.archive.org/login/)  
-Copyright 2000-2006 Return Path, Inc., All Rights Reserved. Return Path is a registered trademark of Return Path, Inc.
+Copyright 2000-2007 Return Path, Inc., All Rights Reserved. Return Path is a registered trademark of Return Path, Inc.
