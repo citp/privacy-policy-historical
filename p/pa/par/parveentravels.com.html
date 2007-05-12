@@ -1,37 +1,243 @@
-<!--The following is the downloaded HTML source of the parveentravels.com privacy policy that was archived on 2006-09-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060905215820id_/http%3A//parveentravels.com/page/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the parveentravels.com privacy policy that was archived on 2007-05-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070512211217id_/http%3A//www.parveentravels.com/Privacy%2520Policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<script>
+var dragapproved=false
+var minrestore=0
+var initialwidth,initialheight
+var ie5=document.all&&document.getElementById
+var ns6=document.getElementById&&!document.all
+
+function iecompattest(){
+return (!window.opera && document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+function drag_drop(e){
+if (ie5&&dragapproved&&event.button==1){
+document.getElementById("dwindow").style.left=tempx+event.clientX-offsetx+"px"
+document.getElementById("dwindow").style.top=tempy+event.clientY-offsety+"px"
+}
+else if (ns6&&dragapproved){
+document.getElementById("dwindow").style.left=tempx+e.clientX-offsetx+"px"
+document.getElementById("dwindow").style.top=tempy+e.clientY-offsety+"px"
+}
+}
+
+function initializedrag(e){
+offsetx=ie5? event.clientX : e.clientX
+offsety=ie5? event.clientY : e.clientY
+document.getElementById("dwindowcontent").style.display="none" //extra
+tempx=parseInt(document.getElementById("dwindow").style.left)
+tempy=parseInt(document.getElementById("dwindow").style.top)
+
+dragapproved=false
+document.getElementById("dwindow").onmousemove=drag_drop
+}
+
+function loadwindow(url,width,height){
+if (!ie5&&!ns6)
+window.open(url,"","width=width,height=height,scrollbars=1")
+else{
+document.getElementById("dwindow").style.display=''
+document.getElementById("dwindow").style.width=initialwidth=width+"px"
+document.getElementById("dwindow").style.height=initialheight=height+"px"
+document.getElementById("dwindow").style.left="30px"
+document.getElementById("dwindow").style.top=ns6? window.pageYOffset*1+30+"px" : iecompattest().scrollTop*1+30+"px"
+document.getElementById("cframe").src=url
+}
+}
+
+function maximize(){
+if (minrestore==0){
+minrestore=1 //maximize window
+document.getElementById("maxname").setAttribute("src","restore.gif")
+document.getElementById("dwindow").style.width=ns6? window.innerWidth-20+"px" : iecompattest().clientWidth+"px"
+document.getElementById("dwindow").style.height=ns6? window.innerHeight-20+"px" : iecompattest().clientHeight+"px"
+}
+else{
+minrestore=0 //restore window
+document.getElementById("maxname").setAttribute("src","max.gif")
+document.getElementById("dwindow").style.width=initialwidth
+document.getElementById("dwindow").style.height=initialheight
+}
+document.getElementById("dwindow").style.left=ns6? window.pageXOffset+"px" : iecompattest().scrollLeft+"px"
+document.getElementById("dwindow").style.top=ns6? window.pageYOffset+"px" : iecompattest().scrollTop+"px"
+}
+
+function closeit(){
+document.getElementById("dwindow").style.display="none"
+}
+
+function stopdrag(){
+dragapproved=false;
+document.getElementById("dwindow").onmousemove=null;
+document.getElementById("dwindowcontent").style.display="" //extra
+}
+
+</script><script type="text/javascript" language="JavaScript1.2" src="stmenu.js"></script>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<title>PRIVACY POLICY - Parveen Travels (P) Ltd.</title>
-<link href="../css/general.css" rel="stylesheet" type="text/css">
+<title>Welcome To Parveen Travels</title>
+<link rel="stylesheet" type="text/css" href="css/liquidcorners.css">
+
+<style type="text/css">
+<!--
+.style9 {font-size: 11px}
+-->
+</style>
+<script type="text/javascript">
+function bookmarksite(title, url){
+if (document.all)
+window.external.AddFavorite(url, title);
+else if (window.sidebar)
+window.sidebar.addPanel(title, url, "")
+}
+
+</script>
 </head>
 
-<body>
-<table width="550" border="0" cellspacing="0" cellpadding="2">
-  <tbody><tr align="left" valign="top">
-    <td height="40" colspan="2"><img src="../images/pt_privacypolicy.gif" alt="Privacy Policy" width="250" height="28" border="0"></td>
-    <td width="40" height="40">&nbsp;</td>
+<body topmargin="0">
+<table width="780" align="center">
+  <tbody><tr>
+    <td><map name="MapMap" id="MapMap">
+        <area shape="rect" coords="11,61,49,95" href="E-ticketing/index.php" alt="E-TICKET">
+        <area shape="rect" coords="69,62,107,98" href="javascript:loadwindow('tell/sendpage.php',400,350)" alt="TELL - A - FRIEND">
+        <area shape="rect" coords="127,61,163,95" href="#" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.parveentravels.com');" alt="MAKE YOUR HOME PAGE">
+        <area shape="rect" coords="185,61,225,95" href="javascript:bookmarksite('Parveen Travels - For Your All Travel Needs', 'http://www.parveentravels.com')" alt="ADD TO FAVORITES">
+        <area shape="rect" coords="246,60,285,97" href="Contact Us.html" alt="CONTACT US">
+        <area shape="rect" coords="306,61,343,99" href="login.php" alt="LOGIN">
+      </map>
+<table width="780" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td width="21"><img src="images/gif/crazy_hdr_left.gif" width="21" height="106"></td>
+        <td width="508" align="center" background="images/gif/crazy_hdr_bg.gif"><img src="images/gif/log.gif" width="360" height="106" border="0" usemap="#MapMap"></td>
+        <td width="29"><img src="images/gif/crazy_hdr_right.gif" width="21" height="106"></td>
+        <td width="21" align="right"><img src="images/gif/crazy_hdr_left.gif" width="21" height="106"></td>
+        <td width="181" align="left" valign="middle" background="images/gif/crazy_hdr_bg.gif"><table width="128" align="center" cellpadding="0" cellspacing="0">
+            <tbody><tr>
+              <td width="126"><form action="http://www.google.com/search" method="get" name="jksearch" id="jksearch" onsubmit="jksitesearch(this)">
+                  <input id="hiddenquery" type="hidden" name="q">
+                  <br>
+                  <div align="justify">
+                    <input name="qfront" type="text" value="Chennai" style="font-family: Tahoma; font-size: 8pt" width="60px">
+                    <input name="submit" type="submit" class="tex" style="font-family: Tahoma; font-size: 8pt" width="35px" "="" value="Search">
+                    <span class="tex">Google</span>
+                    <input name="se" type="radio" checked="checked">
+                    <br>
+                    <span class="tex">Yahoo</span>
+                    <input name="se" type="radio">
+                    <span class="tex">Msn</span>
+                    <input name="se" type="radio">
+                  </div>
+                <script type="text/javascript">
+
+var domainroot="www.parveentravels.com"
+
+var searchaction=[ 
+"http://www.google.com/search",
+"http://search.yahoo.com/search",
+"http://search.msn.com/results.aspx"
+]
+
+var queryfieldname=["q","p","q"] 
+
+function switchaction(cur, index){
+cur.form.action=searchaction[index]
+document.getElementById("hiddenquery").name=queryfieldname[index]
+}
+
+function jksitesearch(curobj){
+for (i=0; i< document.jksearch.se.length; i++){ 
+if (document.jksearch.se[i].checked==true)
+switchaction(document.jksearch.se[i], i)
+}
+document.getElementById("hiddenquery").value="site:"+domainroot+" "+curobj.qfront.value
+}
+
+
+              </script>
+              </form></td>
+            </tr>
+        </tbody></table></td>
+        <td width="21"><img src="images/gif/crazy_hdr_right.gif" width="21" height="106"></td>
+      </tr>
+    </tbody></table></td>
   </tr>
-  <tr align="left" valign="top">
-    <td width="20">&nbsp;</td>
-    <td width="510"><p>Parveen Travels respects the privacy of visitors to our site. Please read this Privacy Policy carefully so that you understand our privacy practices for our Thokalath.com site. Questions regarding privacy issues should be directed to parveen@parveentravels.com </p>
-      <p>Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. We won't knowingly allow anyone under 14 to provide any other personally identifying information. </p>
-      <p>The information gathered by Parveen Travels on this site falls into two categories: </p>
-      <ul>
-        <li>Information voluntarily supplied by visitors to our site when they request information about Parveen Travels </li>
-        <li> Non personally-identifiable information about our visitors's connection to the Internet collected by our servers. </li>
-      </ul>      
-      <p>Our site allows visitors to submit contact information in order to receive information, to be added to or deleted from our mailing list/fax list, and to request additional information. When visitors submit such information to Parveen Travels through this site, Parveen Travels will use this information only to provide the requested information and services. Individuals within Parveen Travels who have a need to view the information will have access to the information submitted by visitors to this site. </p>
-      <p>In addition, our web servers automatically collect limited information about your computer's connection to the Internet, including your IP address, when you visit our sites. (Your IP address is a number that lets computers attached to the Internet know where to send you data -- such as the web pages you view.) Your IP address does not identify you personally to us. We use this information to deliver our web pages to you upon request, to measure traffic within our site, and to tailor specific information to certain general classes of IP addresses. </p>
-      <p>We may occasionally release information about our visitors when release is appropriate to comply with law, to enforce our Visitor Agreement, or to protect the rights, property or safety of visitors to our site, the public, or Parveen Travels. As our business grows, we may buy or sell various assets. In the unlikely event that Parveen Travels, the bulk of our assets or our site is acquired by another company, information relating to our visitors would be among the transferred assets.</p>
-      <p><strong>A final note:</strong><br>
-      The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes before they take effect. By visiting our site, you agree that your visit, and any dispute over our privacy practices, is governed by this Privacy Policy and our Visitor Agreement.</p>
-      <p><br>
-      </p></td>
-    <td width="20">&nbsp;</td>
+  <tr>
+    <td><div align="center">
+  <table width="780" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+    <tbody><tr>
+      <td width="99%" colspan="2"> <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="780" height="140" align="middle">
+        <param name="movie" value="includes/creative_slide_show/CreativeSlideShow.swf?xmlFile=xml/004.xml">
+        <param name="quality" value="high"><param name="BGCOLOR" value="#ffffff">
+        <embed src="includes/creative_slide_show/CreativeSlideShow.swf?xmlFile=xml/004.xml" width="780" height="140" align="middle" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" bgcolor="#CCCCCC">
+      </object></td>
+    </tr>
+    <tr>
+      <td colspan="2"><script type="text/javascript" language="JavaScript1.2" src="en.js"></script></td>
+    </tr>
+  </tbody></table>
+  </div></td>
+  </tr>
+</tbody></table>
+<table width="780" align="center">
+  <tbody><tr>
+    <td width="525" align="left" valign="top"><div align="justify">
+        <p><img src="images/Privacy-Policy.jpg" name="Car" width="500" height="20" id="Car"></p>
+        <p align="justify" class="bullet">Parveen Travels respects the privacy of visitors to our site. Please read this   Privacy Policy carefully so that you understand our privacy practices for our   <a href="#">parveentravels.com</a> site. Questions regarding privacy issues should be directed to   <a href="#">parveen@parveentravels.com</a><br>
+          <br>
+          Children should   always get permission from their parents before sending any information about   themselves (such as their names, email addresses, and phone numbers) over the   Internet, to us or to anyone else. We won't knowingly allow anyone under 14 to   provide any other personally identifying information.<br>
+          <br>
+          The information   gathered by Parveen Travels on this site falls into two categories: <br>
+          <br>
+          <img src="images/menu/0506-arrow.gif" width="11" height="11">Information voluntarily supplied by visitors to our site when &nbsp;&nbsp;&nbsp;they   request information about Parveen Travels. <br>
+          <br>
+          <img src="images/menu/0506-arrow.gif" width="11" height="11">Non personally-identifiable information about our visitors's &nbsp;&nbsp;connection to   the Internet collected by our servers. </p>
+        <p class="bullet">Our site allows visitors to submit contact information in order to receive   information, to be added to or deleted from our mailing list/fax list, and to   request additional information. When visitors submit such information to Parveen   Travels through this site, Parveen Travels will use this information only to   provide the requested information and services. Individuals within Parveen   Travels who have a need to view the information will have access to the   information submitted by visitors to this site.<br>
+          <br>
+          In addition, our web   servers automatically collect limited information about your computer's   connection to the Internet, including your IP address, when you visit our sites.   (Your IP address is a number that lets computers attached to the Internet know   where to send you data -- such as the web pages you view.) Your IP address does   not identify you personally to us. We use this information to deliver our web   pages to you upon request, to measure traffic within our site, and to tailor   specific information to certain general classes of IP addresses.<br>
+          <br>
+          We may   occasionally release information about our visitors when release is appropriate   to comply with law, to enforce our Visitor Agreement, or to protect the rights,   property or safety of visitors to our site, the public, or Parveen Travels. As   our business grows, we may buy or sell various assets. In the unlikely event   that Parveen Travels, the bulk of our assets or our site is acquired by another   company, information relating to our visitors would be among the transferred   assets.<br>
+          <span class="style9"><br>
+          <strong>A FINAL NOTE </strong></span><br>
+          <br>
+          The Web is an   evolving medium. If we need to change our privacy policy at some point in the   future, we'll post the changes before they take effect. By visiting our site,   you agree that your visit, and any dispute over our privacy practices, is   governed by this Privacy Policy and our Visitor Agreement.
+          <!-- /CONTENT -->
+        </p>
+        <table width="207" align="right">
+          <tbody>
+            <tr>
+              <td><p align="justify" class="bullet"><a href="#">Print This Document   &gt;&gt;&gt;</a></p></td>
+            </tr>
+          </tbody>
+        </table>
+        <br>
+        <p align="justify" class="bullet">&nbsp;</p>
+        </div>    </td>
+    <td width="240" align="left" valign="top"><img src="images/Ad_PackageTour_Bar.jpg" width="240" height="20"> <br>
+    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="242" height="320" accesskey="1" tabindex="0" title="DARJEELING-WEST BENGAL-SIKKIM TOUR">
+      <param name="movie" value="ad/DARJEELING-WEST BENGAL-SIKKIM TOUR.swf">
+      <param name="quality" value="high">
+      <embed src="ad/DARJEELING-WEST BENGAL-SIKKIM TOUR.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="242" height="320">
+    </object></td>
   </tr>
 </tbody></table>
 
+<table width="780" align="center" cellpadding="0" cellspacing="0" class="bord">
+  <tbody><tr>
+    <td background="images/gif/crazy_mod_grad.gif"><div align="center"><span class="tex style2 style1"><a href="index.html">Home</a> | <a href="Contact Us.html">Contact Us</a> | <a href="Terms Of Use.html">Terms and Conditions</a> | <a href="Privacy Policy.html">Privacy Policy</a> | <a href="Feedback &amp; Suggestions.html">Feedback &amp; Suggustions</a> | <a href="Locate Us.html">Locate Us</a></span> </div></td>
+  </tr>
+</tbody></table>
+<table width="780" align="center">
+  <tbody><tr>
+    <td></td>
+  </tr>
+</tbody></table>
+<div id="dwindow" style="position:absolute;background-color:#EBEBEB;cursor:hand;left:0px;top:0px;display:none" onmousedown="initializedrag(event)" onmouseup="stopdrag()" onselectstart="return false">
+<div align="right" style="background-color:navy"><img src="images/max.gif" id="maxname" onclick="maximize()"><img src="images/close.gif" onclick="closeit()"></div>
+<div id="dwindowcontent" style="height:100%">
+<iframe id="cframe" src="" width="100%" height="100%"></iframe>
+</div>
+</div>
 
 </body></html>
