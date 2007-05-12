@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the ochsner.org privacy policy that was archived on 2006-10-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061005151708id_/http%3A//ochsner.org/body.cfm%3Fid%3D22) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ochsner.org privacy policy that was archived on 2007-05-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070512062846id_/http%3A//www.ochsner.org/body.cfm%3Fid%3D22) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-	<title>Ochsner Health System Privacy Policy</title>
+	<title>Privacy Policy</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<meta name="description" content="">
 	<meta name="keywords" content="HIPAA, medical information, privacy">
@@ -107,26 +107,29 @@ or physician nearest to you<br> or enter your zip code<br>
   </tr>
   <tr>
   <td valign="top" align="left"><br>
-	<!-- Begin NavBar Output  -  Version:  v0.77r 06/21/2001  -->
+	<!-- Begin NavBar Output  -  Version:  v0.79a 09/30/2006  -->
 	
-								
-
-				<script language="JavaScript" type="text/javascript">
-					
-				
+         		
+            <script language="JavaScript" type="text/javascript">
+            <!--//
+                  var ns4 = (document.layers);
+                  var ie  = (document.all);
+                  var ie4 = (ie && !document.getElementById);
+                  var ie5 = (ie && document.getElementById);
+                  var ns6 = (!ie && document.getElementById);
+   
 						var aryMoused = new Array();
 						var aryLayerMoused = new Array();
 						var aryMoImages = new Array();
 						var imageList = new Array();
-						var runMouseOvers = false;
+						var runMouseOvers = true;
 						var TimerID = null;
 						var iLimit = 25;
 						var itmp = 0;
 						
-						var BillzTime = 100;
-						var BillzTimes = 2;
-						var BillzmoveDistance = 1;
-						var BillzThisLoc = 325;
+						var nbTime = 100;
+						var nbTimes = 2;
+						var nbThisLoc = 325;
 						var aryLayerNames = new Array();
 						var aryNavBarLayerInfo = new Array();
 						var aryNavBarLayers = new Array();
@@ -135,11 +138,11 @@ or physician nearest to you<br> or enter your zip code<br>
 						var viz = "hide";
 
 						function MOImage() {
-							var a = MOImage.arguments;
-							this.ptrImage = BillzNavBarMM_findObj(a[0]);
+							var arg = MOImage.arguments;
+							this.ptrImage = BillzNavBarMM_findObj(arg[0]);
 							this.imageMO = new Image();
-							this.imageMO.src = a[1];
-							this.HTMLname = a[0];
+							this.imageMO.src = arg[1];
+							this.HTMLname = arg[0];
 							this.Moused = false;
 							this.OriginalSrc = '';
 							return true;
@@ -147,31 +150,46 @@ or physician nearest to you<br> or enter your zip code<br>
 						function BillzImagePreload() {
 						// 0) html image name 1) mo image src 2)image Name for rollover key (rollover may have multiple mos for one html Image) 
 							var arg = BillzImagePreload.arguments;
-							var imageKey = (arg[2]) ? arg[2] : arg[0];
+							nbImagePreload(arg[0], arg[1], arg[2]);
+						}
+                  function nbImagePreload(img_name, mo_img_src, rollover_key_img_name)
+                  {
+                     var imageKey = (rollover_key_img_name.length > 0) ? rollover_key_img_name : img_name;
 							imageList[imageList.length] = imageKey;
 							if (!(aryMoImages[imageKey])) {
-								aryMoImages[imageKey] = new MOImage(arg[0], arg[1]);
+								aryMoImages[imageKey] = new MOImage(img_name, mo_img_src);
 							}
-						}
+                  }
+                  
 						function BillzMouseover() {
-							var a = null;
+							var arg = null;
+							if (runMouseOvers) {		
+								arg = BillzMouseover.arguments; //args 0)ImageName 1)OriginalSrc 2)array index (caller imagename)		
+								nbMouseover(arg[0], arg[1], arg[2]);
+							}
+							return true;
+						}
+                  // args 1) ImageName 2) OriginalSrc 3) array index (caller imagename)
+                  function nbMouseover(img_name, orig_src, img_key)
+                  {
 							var imageKey = null;
 							var o = null;
-							if (runMouseOvers) {
-								//args 0)ImageName 1)OriginalSrc 2)array index (caller imagename)					
-								a = BillzMouseover.arguments;
-								imageKey = (a[2]) ? a[2] : a[0];
+							if (runMouseOvers) 
+                     {				
+								imageKey = (img_key.length > 0) ? img_key : img_name;
 								if (!(aryMoImages[imageKey].ptrImage)) {
-									aryMoImages[imageKey].ptrImage = BillzNavBarMM_findObj(a[0]);
+									aryMoImages[imageKey].ptrImage = BillzNavBarMM_findObj(img_name);
 								}
-								if (aryMoImages[imageKey] && (o = aryMoImages[imageKey].ptrImage)) {
-									aryMoImages[imageKey].OriginalSrc = a[1];
+								if (aryMoImages[imageKey] && (o = aryMoImages[imageKey].ptrImage)) 
+                        {
+									aryMoImages[imageKey].OriginalSrc = orig_src;
 									aryMoImages[imageKey].Moused = true;
 									o.src = aryMoImages[imageKey].imageMO.src;
 								}
 							}
 							return true;
-						}
+                  }
+                  
 						var NavBarTempOnload = null;
 						if (window.onload && window.onload != null){
 							NavBarTempOnload = window.onload;
@@ -184,23 +202,35 @@ or physician nearest to you<br> or enter your zip code<br>
 							return true;
 						}
 						function BillzMouseOutTimer() {
+							return nbMouseOutTimer();
+						}
+                  function nbMouseOutTimer() 
+                  {
 							if (TimerID) {
 								clearTimeout(TimerID);
 							}
-							TimerID = setTimeout("BillzLayerRestore()",5000);
+							TimerID = setTimeout("nbLayerRestore()",5000);
 							return true;
 						}
 						function RestoreAll() {
-							BillzMouseoverRestore();
-							BillzLayerRestore();
+							nbMouseoverRestore();
+							nbLayerRestore();
 							return true;
 						}
+                  
 						function BillzMouseoverRestore() {
+							return nbMouseoverRestore();
+						}
+                  function nbMouseoverRestore() 
+                  {
 							var i = 0;
 							var o = null;
-							if (runMouseOvers) {
-								for (i = 0; i < imageList.length; i++) {
-									if (aryMoImages[imageList[i]].Moused && (o = aryMoImages[imageList[i]].ptrImage)) {
+							if (runMouseOvers) 
+                     {
+								for (i = 0; i < imageList.length; i++) 
+                        {
+									if (aryMoImages[imageList[i]].Moused && (o = aryMoImages[imageList[i]].ptrImage)) 
+                           {
 										o.src = aryMoImages[imageList[i]].OriginalSrc;
 										aryMoImages[imageList[i]].Moused = false;
 									}
@@ -208,15 +238,23 @@ or physician nearest to you<br> or enter your zip code<br>
 							}
 							return true;
 						}
+                  
 						function BillzLayerRestore() {
+							return nbLayerRestore();
+						}
+                  function nbLayerRestore() 
+                  {
 							var i = 0;
-							for (i = 0; i < aryLayerNames.length; i++) {
+							for (i = 0; i < aryLayerNames.length; i++) 
+                     {
 								if (!aryNavBarLayerInfo[aryLayerNames[i]].isDefault) {
 									BillzNavBarRestoreLayers(aryLayerNames[i]);
 								}
 							}
 							return true;
 						}
+                  
+                  
 						function BillzArrayPushUnique(aryArray, varNewElement) { //only pushes if unique value
 							var pushIt = true;
 							var i = 0;
@@ -240,7 +278,23 @@ or physician nearest to you<br> or enter your zip code<br>
 							}
 							return varItemToPop;
 						}
-						function BillzNavBarMM_findObj(n, d) { //v3.0 name changed to avoid clash with possible other JS in content, this function complements of MM Dreamweaver
+                  
+                  //Heikoz "just get me the freakin' div object handle" function
+                  function getDivRef(id)
+                  {
+                     var divref;
+                  	if(ns4)
+                  		divref = document.layers[id];
+                  	else if(ie4)
+                  		divref = document.all[id];
+                  	else if(ie5 || ns6)  // remaining cases
+                  		divref = document.getElementById(id);
+                  
+                  	return divref;
+                  }
+   
+                  //v3.0 name changed to avoid clash with possible other JS in content, this function complements of MM Dreamweaver
+						function BillzNavBarMM_findObj(n, d) {
 						  	var p,i,x;
 						
 							if (registeredObjects[n]) {
@@ -249,7 +303,13 @@ or physician nearest to you<br> or enter your zip code<br>
 							if (!(d)) {
 								d = document;
 							}
-							if ((p = n.indexOf("?")) > 0 && parent.frames.length) {
+                     try {
+                        p = n.indexOf("?");
+                     }
+                     catch(e) {
+                        p = 0;
+                     }
+							if (p > 0 && parent.frames.length) {
 								d = parent.frames[n.substring(p+1)].document;
 								n = n.substring(0,p);
 							}
@@ -269,21 +329,21 @@ or physician nearest to you<br> or enter your zip code<br>
 						 	return x;
 						}
 						function BillzArrayContains() {
-							var a = BillzArrayContains.arguments;
+							var arg = BillzArrayContains.arguments;
 							var foundit = false;
 							var i = 0;
-							for (i = 0; i < a[0].length && !foundit; i++) {
-								foundit = (a[1] == a[0][i]);
+							for (i = 0; i < arg[0].length && !foundit; i++) {
+								foundit = (arg[1] == arg[0][i]);
 							}
 							return foundit;
 						}
 						function NavBarRegisterLayer() {
-							var a = NavBarRegisterLayer.arguments;
-							var n = a[0];
-							var d = a[1];
+							var arg = NavBarRegisterLayer.arguments;
+							var n = arg[0];
+							var d = arg[1];
 							var mo = false;
 							var o = null;
-							if (a[2] && a[2] == 'MOutLayer') {
+							if (arg[2] && arg[2] == 'MOutLayer') {
 								mo = true;
 							} else {
 								mo = false;
@@ -307,7 +367,7 @@ or physician nearest to you<br> or enter your zip code<br>
 							var args = BillzNavBarMM_showHideLayers.arguments;
 
 							if (args[args.length - 1] != "menu") {
-								BillzMouseOutTimer();
+								nbMouseOutTimer();
 							}
 						  	for (i = 0; i < (args.length - 2); i += 3) {
 								if (!aryNavBarLayers[args[i]]) {
@@ -329,6 +389,7 @@ or physician nearest to you<br> or enter your zip code<br>
 							}
 							return true;
 						}
+                  
 						function BillzNavBarRestoreLayers() {
 							var i = 0;
 							var x = "";
@@ -352,31 +413,37 @@ or physician nearest to you<br> or enter your zip code<br>
 							return true;
 						}
 						function NavBarLayer() {
-							var a = NavBarLayer.arguments;
-							this.defaultVisibility = a[1];
+							var arg = NavBarLayer.arguments;
+							this.defaultVisibility = arg[1];
 							this.isDefault = true;
-							this.MOutLayer = a[2];
+							this.MOutLayer = arg[2];
 							return true;
 						}
 						function BillzNavMove() {
+							return nbNavMove();
+						}
+                  function nbNavMove() 
+                  {
 							var thisl = null;
 							var otherl = null;
-							if (thisl = BillzNavBarMM_findObj("BillzScrollLayer")) {
+							if (thisl = BillzNavBarMM_findObj("nbScrollLayer")) 
+                     {
 								if (thisl.style) {
 									thisl = thisl.style;
 									viz = "hidden";
 								} 
-								thisl.top = BillzThisLoc -= 3;
-								if (BillzThisLoc < -750) {
-									BillzThisLoc = 325;
-									BillzTimes--;
+								thisl.top = nbThisLoc -= 3;
+								if (nbThisLoc < -750) {
+									nbThisLoc = 325;
+									nbTimes--;
 								}
 							}
-							if (BillzTimes <= 0) {
+							if (nbTimes <= 0) 
+                     {
 								otherl = BillzNavBarMM_findObj("BillzLayer");
 								otherl.visibility = viz;
 							} else {
-								setTimeout("BillzNavMove()", BillzTime);
+								setTimeout("nbNavMove()", nbTime);
 							}
 							
 							return true;
@@ -389,52 +456,55 @@ or physician nearest to you<br> or enter your zip code<br>
 					//-->
 				</script>
 			
+         	
 		<!-- Begin NavBar Bar #1 Content Output... -->
-		<table background="" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr background="">
-		<td class="" valign="top" align="left" background="" title=""><a href="body.cfm?id=1" onmouseover="RestoreAll();BillzMouseover('home_1_1','images/home.gif');" onmouseout="BillzMouseoverRestore();" class=""><img src="images/home.gif" border="0" alt="Home" id="home_1_1" name="home_1_1" onload="BillzImagePreload('home_1_1','images/home_on.gif');"></a></td>
+		<table border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=1" onmouseover="RestoreAll();nbMouseover('home_1_3','images/home.gif','');" onmouseout="nbMouseoverRestore();" class=""><img src="images/home.gif" border="0" alt="Home" id="home_1_3" name="home_1_3"></a><script type="text/javascript">nbImagePreload('home_1_3','images/home_on.gif', '');</script></td>
 	</tr>
-	<tr background="">
-		<td class="" valign="top" align="left" background="" title=""><a href="body.cfm?id=1162" onmouseover="RestoreAll();BillzMouseover('physiciandirectory_1_2','images/physiciandirectory.gif');" onmouseout="BillzMouseoverRestore();" class=""><img src="images/physiciandirectory.gif" border="0" alt="Physician Directory" id="physiciandirectory_1_2" name="physiciandirectory_1_2" onload="BillzImagePreload('physiciandirectory_1_2','images/physiciandirectory_on.gif');"></a></td>
+	<tr>
+		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=1162" onmouseover="RestoreAll();nbMouseover('physiciandirectory_1_4','images/physiciandirectory.gif','');" onmouseout="nbMouseoverRestore();" class=""><img src="images/physiciandirectory.gif" border="0" alt="Physician Directory" id="physiciandirectory_1_4" name="physiciandirectory_1_4"></a><script type="text/javascript">nbImagePreload('physiciandirectory_1_4','images/physiciandirectory_on.gif', '');</script></td>
 	</tr>
-	<tr background="">
-		<td class="" valign="top" align="left" background="" title=""><a href="body.cfm?id=272" onmouseover="RestoreAll();BillzMouseover('employment_1_3','images/employment.gif');" onmouseout="BillzMouseoverRestore();" class=""><img src="images/employment.gif" border="0" alt="Employment Info" id="employment_1_3" name="employment_1_3" onload="BillzImagePreload('employment_1_3','images/employment_on.gif');"></a></td>
+	<tr>
+		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=272" onmouseover="RestoreAll();nbMouseover('employment_1_5','images/employment.gif','');" onmouseout="nbMouseoverRestore();" class=""><img src="images/employment.gif" border="0" alt="Employment Info" id="employment_1_5" name="employment_1_5"></a><script type="text/javascript">nbImagePreload('employment_1_5','images/employment_on.gif', '');</script></td>
 	</tr>
-	<tr background="">
-		<td class="" valign="top" align="left" background="" title=""><a href="body.cfm?id=201" onmouseover="RestoreAll();BillzMouseover('locations_1_4','images/locations.gif');" onmouseout="BillzMouseoverRestore();" class=""><img src="images/locations.gif" border="0" alt="Locations" id="locations_1_4" name="locations_1_4" onload="BillzImagePreload('locations_1_4','images/locations_on.gif');"></a></td>
+	<tr>
+		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=201" onmouseover="RestoreAll();nbMouseover('locations_1_6','images/locations.gif','');" onmouseout="nbMouseoverRestore();" class=""><img src="images/locations.gif" border="0" alt="Locations" id="locations_1_6" name="locations_1_6"></a><script type="text/javascript">nbImagePreload('locations_1_6','images/locations_on.gif', '');</script></td>
 	</tr>
-	<tr background="">
-		<td class="" valign="top" align="left" background="" title=""><a href="body.cfm?id=1214" onmouseover="RestoreAll();BillzMouseover('services_1_5','images/services.gif');" onmouseout="BillzMouseoverRestore();" class=""><img src="images/services.gif" border="0" alt="Services" id="services_1_5" name="services_1_5" onload="BillzImagePreload('services_1_5','images/services_on.gif');"></a></td>
+	<tr>
+		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=1214" onmouseover="RestoreAll();nbMouseover('services_1_7','images/services.gif','');" onmouseout="nbMouseoverRestore();" class=""><img src="images/services.gif" border="0" alt="Services" id="services_1_7" name="services_1_7"></a><script type="text/javascript">nbImagePreload('services_1_7','images/services_on.gif', '');</script></td>
 	</tr>
-	<tr background="">
-		<td class="" valign="top" align="left" background="" title=""><a href="body.cfm?id=7" onmouseover="RestoreAll();BillzMouseover('calendar_1_6','images/calendar.gif');" onmouseout="BillzMouseoverRestore();" class=""><img src="images/calendar.gif" border="0" alt="Events Calendar" id="calendar_1_6" name="calendar_1_6" onload="BillzImagePreload('calendar_1_6','images/calendar_on.gif');"></a></td>
+	<tr>
+		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=561" onmouseover="RestoreAll();nbMouseover('inthealthservices_1_8','images/inthealthservices.gif','');" onmouseout="nbMouseoverRestore();" class=""><img src="images/inthealthservices.gif" border="0" alt="Ochsner International Health Services History" id="inthealthservices_1_8" name="inthealthservices_1_8"></a><script type="text/javascript">nbImagePreload('inthealthservices_1_8','images/inthealthservices_on.gif', '');</script></td>
 	</tr>
-	<tr background="">
-		<td class="" valign="top" align="left" background="" title=""><a href="body.cfm?xyzpdqabc=0&amp;id=10&amp;action=list" onmouseover="RestoreAll();BillzMouseover('nursery_1_7','images/nursery.gif');" onmouseout="BillzMouseoverRestore();" class=""><img src="images/nursery.gif" border="0" alt="Online Nursery" id="nursery_1_7" name="nursery_1_7" onload="BillzImagePreload('nursery_1_7','images/nursery_on.gif');"></a></td>
+	<tr>
+		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=7" onmouseover="RestoreAll();nbMouseover('calendar_1_9','images/calendar.gif','');" onmouseout="nbMouseoverRestore();" class=""><img src="images/calendar.gif" border="0" alt="Events Calendar" id="calendar_1_9" name="calendar_1_9"></a><script type="text/javascript">nbImagePreload('calendar_1_9','images/calendar_on.gif', '');</script></td>
 	</tr>
-	<tr background="">
-		<td class="" valign="top" align="left" background="" title=""><a href="http://www.ochsnerfoundation.org/contact/index.php" onmouseover="RestoreAll();BillzMouseover('contact_1_8','images/contact.gif');" onmouseout="BillzMouseoverRestore();" class=""><img src="images/contact.gif" border="0" alt="Contact Ochsner" id="contact_1_8" name="contact_1_8" onload="BillzImagePreload('contact_1_8','images/contact_on.gif');"></a></td>
+	<tr>
+		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=10" onmouseover="RestoreAll();nbMouseover('nursery_1_10','images/nursery.gif','');" onmouseout="nbMouseoverRestore();" class=""><img src="images/nursery.gif" border="0" alt="Ochsner Nursery" id="nursery_1_10" name="nursery_1_10"></a><script type="text/javascript">nbImagePreload('nursery_1_10','images/nursery_on.gif', '');</script></td>
 	</tr>
-	<tr background="">
-		<td class="" valign="top" align="left" background="" title=""><a href="body.cfm?id=1128" onmouseover="RestoreAll();BillzMouseover('philanthropy_1_9','images/philanthropy.gif');" onmouseout="BillzMouseoverRestore();" class=""><img src="images/philanthropy.gif" border="0" alt="Philanthropy" id="philanthropy_1_9" name="philanthropy_1_9" onload="BillzImagePreload('philanthropy_1_9','images/philanthropy_on.gif');"></a></td>
+	<tr>
+		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=1412" onmouseover="RestoreAll();nbMouseover('contact_1_11','images/contact.gif','');" onmouseout="nbMouseoverRestore();" class=""><img src="images/contact.gif" border="0" alt="Contact Ochsner" id="contact_1_11" name="contact_1_11"></a><script type="text/javascript">nbImagePreload('contact_1_11','images/contact_on.gif', '');</script></td>
 	</tr>
-	<tr background="">
-		<td class="" valign="top" align="left" background="" title=""><a href="body.cfm?id=1346" onmouseover="RestoreAll();BillzMouseover('noticias_1_10','images/noticias.gif');" onmouseout="BillzMouseoverRestore();" class=""><img src="images/noticias.gif" border="0" alt="Noticias en Espanol" id="noticias_1_10" name="noticias_1_10" onload="BillzImagePreload('noticias_1_10','images/noticias_on.gif');"></a></td>
+	<tr>
+		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=1128" onmouseover="RestoreAll();nbMouseover('philanthropy_1_12','images/philanthropy.gif','');" onmouseout="nbMouseoverRestore();" class=""><img src="images/philanthropy.gif" border="0" alt="Philanthropy" id="philanthropy_1_12" name="philanthropy_1_12"></a><script type="text/javascript">nbImagePreload('philanthropy_1_12','images/philanthropy_on.gif', '');</script></td>
 	</tr>
-	<tr background="">
-		<td class="" valign="top" align="left" background="" title=""><a href="body.cfm?id=1004" onmouseover="RestoreAll();BillzMouseover('news_room_1_11','images/news_room.gif');" onmouseout="BillzMouseoverRestore();" class=""><img src="images/news_room.gif" border="0" alt="News Room" id="news_room_1_11" name="news_room_1_11" onload="BillzImagePreload('news_room_1_11','images/news_room_on.gif');"></a></td>
+	<tr>
+		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=1004" onmouseover="RestoreAll();nbMouseover('news_room_1_13','images/news_room.gif','');" onmouseout="nbMouseoverRestore();" class=""><img src="images/news_room.gif" border="0" alt="News Room" id="news_room_1_13" name="news_room_1_13"></a><script type="text/javascript">nbImagePreload('news_room_1_13','images/news_room_on.gif', '');</script></td>
 	</tr>
-	<tr background="">
-		<td class="" valign="top" align="left" background="" title=""><a href="http://www.peryourhealth.com/PYH/och.asp" onmouseover="RestoreAll();BillzMouseover('viewbills_1_12','images/viewbills.gif');" onmouseout="BillzMouseoverRestore();" class=""><img src="images/viewbills.gif" border="0" alt="View Bills Online" id="viewbills_1_12" name="viewbills_1_12" onload="BillzImagePreload('viewbills_1_12','images/viewbills_on.gif');"></a></td>
+	<tr>
+		<td class="" valign="top" align="left" title=""><a href="http://www.peryourhealth.com/PYH/och.asp" onmouseover="RestoreAll();nbMouseover('viewbills_1_14','images/viewbills.gif','');" onmouseout="nbMouseoverRestore();" class=""><img src="images/viewbills.gif" border="0" alt="View Bills Online" id="viewbills_1_14" name="viewbills_1_14"></a><script type="text/javascript">nbImagePreload('viewbills_1_14','images/viewbills_on.gif', '');</script></td>
 	</tr>
-	<tr background="">
-		<td class="" valign="top" align="left" background="" title=""><a href="body.cfm?id=8" onmouseover="RestoreAll();BillzMouseover('search_1_13','images/search.gif');" onmouseout="BillzMouseoverRestore();" class=""><img src="images/search.gif" border="0" alt="Search" id="search_1_13" name="search_1_13" onload="BillzImagePreload('search_1_13','images/search_on.gif');"></a></td>
+	<tr>
+		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=1411" onmouseover="RestoreAll();nbMouseover('myhealth_1_15','images/myhealth.gif','');" onmouseout="nbMouseoverRestore();" class=""><img src="images/myhealth.gif" border="0" alt="Ochsner MyHealth" id="myhealth_1_15" name="myhealth_1_15"></a><script type="text/javascript">nbImagePreload('myhealth_1_15','images/myhealth_on.gif', '');</script></td>
+	</tr>
+	<tr>
+		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=8" onmouseover="RestoreAll();nbMouseover('search_1_16','images/search.gif','');" onmouseout="nbMouseoverRestore();" class=""><img src="images/search.gif" border="0" alt="Site Search" id="search_1_16" name="search_1_16"></a><script type="text/javascript">nbImagePreload('search_1_16','images/search_on.gif', '');</script></td>
 	</tr>
 </tbody></table>
 	
 		<!-- End NavBar Output -->
-	
- 
+	 
 </td></tr>
 </tbody></table>
                     </form>
@@ -3690,203 +3760,77 @@ Notice</a></font></p><p align="center">
 </tbody></table><table width="775" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
     <td valign="top"><img src="images/spacer.gif" alt="" width="230" height="100" border="0"></td><td valign="top">
-	<!-- Begin NavBar Output  -  Version:  v0.77r 06/21/2001  -->
+	<!-- Begin NavBar Output  -  Version:  v0.79a 09/30/2006  -->
 	
-				<!-- Begin NavBar CSS Output... -->
-				<style type="text/css">
-					.NavBarNum2 {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: none; color: #003A73;   }				
-					.NavBarNum2CurrentGroupTD {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }				
-					.NavBarNum2CurrentGroup {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;  }				
-					.NavBarNum2Layer {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: none; color: 000000;   }
-					.NavBarNum2SubMenu {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: none; color: #003A73;   }
-					.NavBarNum2SubMenu:hover {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }					
-					
-					.NavBarNum2CurrentGrouphover {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }
-								A.NavBarNum2:link	{  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: none; color: #003A73;   }
-					A.NavBarNum2:visited {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: none; color: #003A73;   }
-					A.NavBarNum2:hover  {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }
-					A.NavBarNum2:active  {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: none; color: #003A73;   }
-					A.NavBarNum2CurrentGroup:link	{  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }
-					A.NavBarNum2CurrentGroup:visited {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }
-					A.NavBarNum2CurrentGroup:hover  {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }
-					A.NavBarNum2CurrentGroup:active  {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }
-				</style>
-			
 		<!-- Begin NavBar Bar #2 Content Output... -->
-		<table background="" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr class="NavBarNum2" background="">
-		<td class="NavBarNum2" valign="middle" align="left" background="" title=""><a href="http://www.ochsnerfoundation.org/contact/index.php" target="_blank" class="NavBarNum2">Contact Us</a></td>
-		<td class="NavBarNum2" valign="middle" align="left" background="" title=""><img src="images/footermark.gif"></td>
-		<td class="NavBarNum2" valign="middle" align="left" background="" title=""><a href="body.cfm?id=396" class="NavBarNum2">Problems Viewing the Ochsner Web Site?</a></td>
-		<td class="NavBarNum2" valign="middle" align="left" background="" title=""><img src="images/footermark.gif"></td>
-		<td class="NavBarNum2" valign="middle" align="left" background="" title=""><a href="body.cfm?id=22" class="NavBarNum2">Ochsner Health System Privacy Policy</a></td>
+		<table border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr class="">
+		<td class="" valign="middle" align="left" title=""><a href="http://www.ochsner.org/contactus" target="_blank" class="">Contact Us</a></td>
+		<td class="" valign="middle" align="left" title=""><img src="images/footermark.gif" alt=""></td>
+		<td class="" valign="middle" align="left" title=""><a href="body.cfm?id=396" class="">Problems Viewing the Ochsner Web Site?</a></td>
+		<td class="" valign="middle" align="left" title=""><img src="images/footermark.gif" alt=""></td>
+		<td class="" valign="middle" align="left" title=""><a href="body.cfm?id=22" class="">Privacy Policy</a></td>
 	</tr>
 
 </tbody></table>
 	
 		<!-- End NavBar Output -->
-	
- 
+	 
 
 <font style="font-size:10px; color:#333333; ">1-866-OCHSNER (1-866-624-7637)&nbsp;&nbsp;&nbsp;</font>
 
-	<!-- Begin NavBar Output  -  Version:  v0.77r 06/21/2001  -->
+	<!-- Begin NavBar Output  -  Version:  v0.79a 09/30/2006  -->
 	
-				<!-- Begin NavBar CSS Output... -->
-				<style type="text/css">
-					.NavBarNum3 {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: none; color: #003A73;   }				
-					.NavBarNum3CurrentGroupTD {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }				
-					.NavBarNum3CurrentGroup {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;  }				
-					.NavBarNum3Layer {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: none; color: 000000;   }
-					.NavBarNum3SubMenu {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: none; color: #003A73;   }
-					.NavBarNum3SubMenu:hover {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }					
-					
-					.NavBarNum3CurrentGrouphover {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }
-								A.NavBarNum3:link	{  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: none; color: #003A73;   }
-					A.NavBarNum3:visited {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: none; color: #003A73;   }
-					A.NavBarNum3:hover  {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }
-					A.NavBarNum3:active  {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: none; color: #003A73;   }
-					A.NavBarNum3CurrentGroup:link	{  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }
-					A.NavBarNum3CurrentGroup:visited {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }
-					A.NavBarNum3CurrentGroup:hover  {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }
-					A.NavBarNum3CurrentGroup:active  {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }
-				</style>
-			
 		<!-- Begin NavBar Bar #3 Content Output... -->
-		<table background="" border="0" cellspacing="0" cellpadding="0">
+		<table border="0" cellspacing="0" cellpadding="0">
 </table>
 	
 		<!-- End NavBar Output -->
-	
- 
+	 
 
-	<!-- Begin NavBar Output  -  Version:  v0.77r 06/21/2001  -->
+	<!-- Begin NavBar Output  -  Version:  v0.79a 09/30/2006  -->
 	
-				<!-- Begin NavBar CSS Output... -->
-				<style type="text/css">
-					.NavBarNum4 {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: none; color: #003A73;   }				
-					.NavBarNum4CurrentGroupTD {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }				
-					.NavBarNum4CurrentGroup {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;  }				
-					.NavBarNum4Layer {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: none; color: 000000;   }
-					.NavBarNum4SubMenu {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: none; color: #003A73;   }
-					.NavBarNum4SubMenu:hover {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }					
-					
-					.NavBarNum4CurrentGrouphover {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }
-								A.NavBarNum4:link	{  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: none; color: #003A73;   }
-					A.NavBarNum4:visited {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: none; color: #003A73;   }
-					A.NavBarNum4:hover  {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }
-					A.NavBarNum4:active  {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: none; color: #003A73;   }
-					A.NavBarNum4CurrentGroup:link	{  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }
-					A.NavBarNum4CurrentGroup:visited {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }
-					A.NavBarNum4CurrentGroup:hover  {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }
-					A.NavBarNum4CurrentGroup:active  {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }
-				</style>
-			
 		<!-- Begin NavBar Bar #4 Content Output... -->
-		<table background="" border="0" cellspacing="0" cellpadding="0">
+		<table border="0" cellspacing="0" cellpadding="0">
 </table>
 	
 		<!-- End NavBar Output -->
-	
- 
+	 
 
-	<!-- Begin NavBar Output  -  Version:  v0.77r 06/21/2001  -->
+	<!-- Begin NavBar Output  -  Version:  v0.79a 09/30/2006  -->
 	
-				<!-- Begin NavBar CSS Output... -->
-				<style type="text/css">
-					.NavBarNum5 {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: none; color: #003A73;   }				
-					.NavBarNum5CurrentGroupTD {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }				
-					.NavBarNum5CurrentGroup {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;  }				
-					.NavBarNum5Layer {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: none; color: 000000;   }
-					.NavBarNum5SubMenu {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: none; color: #003A73;   }
-					.NavBarNum5SubMenu:hover {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }					
-					
-					.NavBarNum5CurrentGrouphover {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }
-								A.NavBarNum5:link	{  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: none; color: #003A73;   }
-					A.NavBarNum5:visited {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: none; color: #003A73;   }
-					A.NavBarNum5:hover  {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }
-					A.NavBarNum5:active  {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: none; color: #003A73;   }
-					A.NavBarNum5CurrentGroup:link	{  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }
-					A.NavBarNum5CurrentGroup:visited {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }
-					A.NavBarNum5CurrentGroup:hover  {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }
-					A.NavBarNum5CurrentGroup:active  {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }
-				</style>
-			
 		<!-- Begin NavBar Bar #5 Content Output... -->
-		<table background="" border="0" cellspacing="0" cellpadding="0">
+		<table border="0" cellspacing="0" cellpadding="0">
 </table>
 	
 		<!-- End NavBar Output -->
-	
- 
+	 
 
 
 	
-	<!-- Begin NavBar Output  -  Version:  v0.77r 06/21/2001  -->
+	<!-- Begin NavBar Output  -  Version:  v0.79a 09/30/2006  -->
 	
-				<!-- Begin NavBar CSS Output... -->
-				<style type="text/css">
-					.NavBarNum6 {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: none; color: #003A73;   }				
-					.NavBarNum6CurrentGroupTD {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }				
-					.NavBarNum6CurrentGroup {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;  }				
-					.NavBarNum6Layer {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: none; color: 000000;   }
-					.NavBarNum6SubMenu {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: none; color: #003A73;   }
-					.NavBarNum6SubMenu:hover {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }					
-					
-					.NavBarNum6CurrentGrouphover {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }
-								A.NavBarNum6:link	{  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: none; color: #003A73;   }
-					A.NavBarNum6:visited {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: none; color: #003A73;   }
-					A.NavBarNum6:hover  {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }
-					A.NavBarNum6:active  {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: none; color: #003A73;   }
-					A.NavBarNum6CurrentGroup:link	{  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }
-					A.NavBarNum6CurrentGroup:visited {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }
-					A.NavBarNum6CurrentGroup:hover  {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }
-					A.NavBarNum6CurrentGroup:active  {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }
-				</style>
-			
 		<!-- Begin NavBar Bar #6 Content Output... -->
-		<table background="" border="0" cellspacing="0" cellpadding="0">
+		<table border="0" cellspacing="0" cellpadding="0">
 </table>
 	
 		<!-- End NavBar Output -->
-	
- 
+	 
 
-	<!-- Begin NavBar Output  -  Version:  v0.77r 06/21/2001  -->
+	<!-- Begin NavBar Output  -  Version:  v0.79a 09/30/2006  -->
 	
-				<!-- Begin NavBar CSS Output... -->
-				<style type="text/css">
-					.NavBarNum7 {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: none; color: #003A73;   }				
-					.NavBarNum7CurrentGroupTD {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }				
-					.NavBarNum7CurrentGroup {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;  }				
-					.NavBarNum7Layer {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: none; color: 000000;   }
-					.NavBarNum7SubMenu {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: none; color: #003A73;   }
-					.NavBarNum7SubMenu:hover {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }					
-					
-					.NavBarNum7CurrentGrouphover {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }
-								A.NavBarNum7:link	{  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: none; color: #003A73;   }
-					A.NavBarNum7:visited {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: none; color: #003A73;   }
-					A.NavBarNum7:hover  {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }
-					A.NavBarNum7:active  {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: none; color: #003A73;   }
-					A.NavBarNum7CurrentGroup:link	{  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }
-					A.NavBarNum7CurrentGroup:visited {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }
-					A.NavBarNum7CurrentGroup:hover  {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }
-					A.NavBarNum7CurrentGroup:active  {  font-family: Tahoma, Arial, Helvetica,; font-weight: normal; font-size: 10px; text-decoration: underline; color: #000000;   }
-				</style>
-			
 		<!-- Begin NavBar Bar #7 Content Output... -->
-		<table background="" border="0" cellspacing="0" cellpadding="0">
+		<table border="0" cellspacing="0" cellpadding="0">
 </table>
 	
 		<!-- End NavBar Output -->
-	
- 
+	 
 </td>
 	 </tr>
   </tbody></table>
 <table width="775" border="0" cellspacing="0" cellpadding="0" valign="top">
  <tbody><tr>
-    <td valign="top" width="260">&nbsp;</td><td valign="top" width="130"><a href="http://www.healthvision.com" target="_blank"><img src="images/hvLogo.gif" alt="" border="0"></a></td><td valign="top"><br><table cellpadding="0" cellspacing="0" border="0" width="1%">	<tbody><tr>		<td align="left" valign="top" nowrap=""><a href="blank.cfm?id=22&amp;action=templateEmailFriend" target="_blank" class="ep"></a></td>
+    <td valign="top" width="260">&nbsp;</td><td valign="top"><br><table cellpadding="0" cellspacing="0" border="0" width="1%">	<tbody><tr>		<td align="left" valign="top" nowrap=""><a href="blank.cfm?id=22&amp;action=templateEmailFriend" target="_blank" class="ep"></a></td>
 		<td align="left" valign="top" nowrap=""><a href="blank.cfm?id=22&amp;print=yes" target="_blank" class="ep"><img src="images/PrintPage.gif" border="0"></a></td>
 	</tr></tbody></table><br><br></td></tr></tbody></table>
 
