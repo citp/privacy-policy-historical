@@ -1,626 +1,104 @@
-<!--The following is the downloaded HTML source of the kirklands.com privacy policy that was archived on 2001-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011214125659id_/http%3A//www.kirklands.com/kl_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kirklands.com privacy policy that was archived on 2007-05-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070512213226id_/http%3A//www.kirklands.com/security) for the most accurate reproduction.-->
 
-<html><head>
-<title>Kirkland's: Unique Home Decor and Accessories</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<script language="JavaScript">
-<!--
-function MM_findObj(n, d) { //v3.0
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
-}
-
-function MM_showHideLayers() { //v3.0
-  var i,p,v,obj,args=MM_showHideLayers.arguments;
-  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
-    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v='hide')?'hidden':v; }
-    obj.visibility=v; }
-}
-
-function openFPWindow(URL,name,attrib) {
-        popupWin = window.open(URL, name,attrib);
-        // focus window (only for Navigator >= 3.0)
-        if ( (navigator.appName != "Microsoft Internet Explorer") &&
-(navigator.appVersion.substring(0,1) == "3") )
-        popupWin.focus();
-}
-
-function MM_popupMsg(msg) { //v1.0
-  alert(msg);
-}
-//-->
-</script>
-<script language="javascript">
-<!--
-	//function onload(){
-//		document.search.str.focus();
-//	}
-//
-	function validate(){
-		var String = document.search.str.value;
-		if (String.length > 30){
-			alert("Search Item must be 30 characters or less.");
-			document.search.str.focus();
-			return;
-	}
-	else
-		document.search.submit();
-	}
-// -->
-</script>
-
-<script language="JavaScript" src="include/TopMenuData.txt">
-</script>
-
-<script language="JavaScript">
-menuData[0][6][0]="Art"
-menuData[0][6][1]="kl_isle.asp?pfid=1"
-menuData[0][7][0]="Lamps"
-menuData[0][7][1]="kl_isle.asp?pfid=11"
-menuData[0][8][0]="Lighting"
-menuData[0][8][1]="kl_isle.asp?pfid=3"
-menuData[0][9][0]="Accessories"
-menuData[0][9][1]="kl_isle.asp?pfid=10"
-menuData[1][10][0]="Floral"
-menuData[1][10][1]="kl_isle.asp?pfid=6"
-menuData[1][11][0]="Garden"
-menuData[1][11][1]="kl_isle.asp?pfid=7"
-menuData[1][12][0]="Flags"
-menuData[1][12][1]="kl_isle.asp?pfid=5"
-menuData[2][13][0]="Textiles"
-menuData[2][13][1]="kl_isle.asp?pfid=12"
-menuData[2][14][0]="Gifts"
-menuData[2][14][1]="kl_isle.asp?pfid=8"
-menuData[2][15][0]="Literature"
-menuData[2][15][1]="kl_isle.asp?pfid=2"
-menuData[2][16][0]="Dolls"
-menuData[2][16][1]="kl_isle.asp?pfid=4"
-menuData[3][17][0]="Christmas"
-menuData[3][17][1]="kl_isle.asp?pfid=9"
-menuData[4][21][0]="New Items"
-menuData[4][21][1]="kl_isle.asp?pfid=13"
-</script>
-
-<script language="JavaScript">
-<!--
-var br
-if(navigator.appName == 'Netscape' && document.layers != null){br="N";}
-else if(navigator.appName == 'Microsoft Internet Explorer' && document.all != null){br="IE";}
-else{br=null}
-
-function linkTo(form) {
-    var myindex=form.nav_menu.selectedIndex
-	location=(form.nav_menu.options[myindex].value);
-}
-//-->
-</script>
-<script language="JavaScript">
-
-//*---------------------------------------------------
-// shows the drop down menu 
-// expected arg is active div
-//--------------------------------------------------*/
-function showDDNav(){
-	args = showDDNav.arguments;
-	if(br=="N"){
-		var args, theObj;
-		args = showDDNav.arguments;
-		theObj = eval(args[1]);
-  		if (theObj) if(theObj.visibility=='hide'){theObj.visibility = 'show';}
-	}
-	else if(br=="IE"){
-		theObj=eval(args[0]);
-		if (theObj) if(theObj.style.visibility=='hidden'){hideElement('SELECT');theObj.style.visibility = 'visible'}
-		}
-	else{return}
-}
-
-//*---------------------------------------------------
-// hides the drop down menu 
-// expected arg is active div 
-//--------------------------------------------------*/
-function hideDDNav(){
-	args = hideDDNav.arguments;
-	if(br=="N"){
-		var args, theObj;
-		args = hideDDNav.arguments;
-		theObj = eval(args[1]);
-		if (theObj) if(theObj.visibility=='show'){theObj.visibility = 'hide';}
-	}
-	else if(br=="IE"){
-		theObj=eval(args[0]);
-		if (theObj) if(theObj.style.visibility=='visible'){showElement('SELECT');theObj.style.visibility = 'hidden'}
-		}
-	else{return}
-}
-
-//*---------------------------------------------------
-// hides drop down menu when menu is active
-// expected arg is active menu
-//--------------------------------------------------*/
-function hideDiv(){
-	args = hideDiv.arguments;
-	if(br=="N"){}
-	else if(br=="IE"){
-		theObj=eval(args[0]);
-		// calculate active size of menu
-		leftDiv=theObj.offsetLeft +2
-		rightDiv=theObj.offsetLeft + theObj.clientWidth -2
-		topDiv=theObj.offsetTop +2
-		bottomDiv=theObj.offsetTop + theObj.clientHeight -2
-		if(window.event.clientY > bottomDiv || 
-			window.event.clientY < topDiv || 
-			window.event.clientX < leftDiv || 
-			window.event.clientX > rightDiv)
-			{theObj.style.visibility = 'hidden';showElement('SELECT');}				
-		}
-	else{return}
-}
-
-//*---------------------------------------------------
-// highlight menuitem
-// expected arg is active menuitem
-//--------------------------------------------------*/
-function divOver(){
-	args = divOver.arguments;
-	if(br=="N"){}
-	else if(br=="IE"){
-		theObj=eval(args[0]);
-		if(theObj.style.backgroundColor=="#beac8e"){
-			theObj.style.backgroundColor="#ead5b2";
-		}
-	}
-	else{return}
-}
-
-//*---------------------------------------------------
-// highlight off menuitem
-// expected arg is active menuitem
-//--------------------------------------------------*/
-function divOut(){
-	args = divOut.arguments;
-	if(br=="N"){}
-	else if(br=="IE"){
-	theObj=eval(args[0]);
-		if(theObj.style.backgroundColor=="#ead5b2"){
-			theObj.style.backgroundColor="#beac8e";
-		}
-	}
-	else{return}
-}
-
-//*---------------------------------------------------
-// highlight on menuitem in netscape
-// expected arg is active menuitem
-//--------------------------------------------------*/
-function menuOver(){
-	var args, theMenu;
-	args = menuOver.arguments;
-	theMenu = eval(args[0]);
-	theMenu.bgColor="#ead5b2" 
-}
-
-//*---------------------------------------------------
-// highlight off menuitem in netscape
-// expected arg is active menuitem
-//--------------------------------------------------*/
-function menuOut(){
-	var args, theMenu;
-	args = menuOut.arguments;
-	theMenu = eval(args[0]);
-	theMenu.bgColor="#beac8e" 
-}
-
-//*---------------------------------------------------
-// goes to specified url
-// expected arg is url 
-//--------------------------------------------------*/
-function gotoUrl(){
-	args = gotoUrl.arguments;
-	location.href=args[0]
-}
-
-//*---------------------------------------------------
-// hides specified tag
-//--------------------------------------------------*/
-function hideElement(HTMLtag)
-{
-	for (i = 1; i < document.all.tags(HTMLtag).length; i++)
-	{
-		obj = document.all.tags(HTMLtag)[i];
-		obj.style.visibility = "hidden";
-	}
-}
-
-//*---------------------------------------------------
-// shows specified tag
-//--------------------------------------------------*/
-function showElement(HTMLtag)
-{
-	for (i = 1; i < document.all.tags(HTMLtag).length; i++)
-	{
-		obj = document.all.tags(HTMLtag)[i];
-		obj.style.visibility = "visible";
-	}
-}
-
-//*---------------------------------------------------
-// build the divs for IE
-// expected args are 'div name','x in menudata aray',
-// 'menu left coord','arrow alignment','top in pixels' 
-//--------------------------------------------------*/
-var tdID = 0
-function doDiv(){
-	args = doDiv.arguments;
-	var divID = args[0];
-	var x = args[1];
-	var divLeft = args[2];
-	var arrowPos = args[3];
-	var divTop = args[4];
-	
-	objDiv = "<div id=\"" + divID + "\" style=\"position:absolute; left:"+ divLeft +"px; top:"+ divTop +"px; width:130px; z-index:3; background-color:#beac8e; visibility:hidden; padding-left:5;\" onMouseover=\"showDDNav('document.all[\\'"+ divID +"\\']')\"  onMouseout=\"hideDiv('document.all[\\'" + divID + "\\']')\">"
-	//objDiv += "<div id=\"arrow\" style=\"position:relative; background-color:#003333; width:120px;\"><img src=images/shim.gif width=19 height=16 align="+ arrowPos +"></div>"
-               
-               objDiv += "<div id=\"line\" style=\"position:relative; background-color:#000000; width:120px;\"><img src=images/shim.gif width=120 height=1></div>"
-
-	for (y = 0; y < 999; y++){
-	    if(menuData[x][y][0]!=null){
-		objDiv += "<div id=\"x" + tdID + "\" style=\"position:relative; background-color:#beac8e; width:120px;\" onMouseover=\"divOver('document.all[\\'x" + tdID + "\\']')\" onMouseout=\"divOut('document.all[\\'x" + tdID + "\\']')\"><span class=\"nav\" onClick=\"gotoUrl('"+menuData[x][y][1]+"')\">"+ menuData[x][y][0] +"&nbsp;</span></div>"
-		objDiv += "<div id=\"line\" style=\"position:relative; background-color:#000000; width:120px;\"><img src=images/shim.gif width=120 height=1></div>";		
-		tdID = tdID +1
-		}
-	}
-	
-	objDiv +="<div id=\"line\" style=\"position:relative; background-color:#beac8e; width:120px; height:5px;\"><img src=images/shim.gif width=120 height=1></div></div>"
-	
-	document.write(objDiv);
-}
-
-//*---------------------------------------------------
-// build the layers for netscape
-// expected args are 'div name','x in menudata aray',
-// 'menu left coord','arrow alignment','top in pixels' 
-//--------------------------------------------------*/
-function doLayer(){
-	args = doLayer.arguments;
-	var nestLayerID=0
-	var layerID = args[0];
-	var x = args[1];
-	var layerLeft = args[2];
-	var arrowPos = args[3];
-	var layerTop = args[4];
-
-	if(navigator.platform.indexOf("Win") < 0){layerInc=16;layerStyle="netMenuMac";}
-	else{layerInc=19;layerStyle="netMenu";}	
-		
-	objDiv = "<layer id=\""+ layerID +"\" Z-INDEX=1 BGCOLOR=\"#beac8e\" WIDTH=130 LEFT="+ layerLeft +" TOP="+ layerTop +" VISIBILITY=HIDE onmouseover=\"showDDNav('','document.layers[\\'"+ layerID +"\\']')\" onmouseout=\"hideDDNav('','document.layers[\\'"+ layerID +"\\']')\">"
-                objDiv +="<layer id=\"line1\" BGCOLOR=\"#000000\" WIDTH=130 HEIGHT=1 Z-INDEX=7 TOP="+ nestTop +"><center><img src=images/shim.gif width=120 height=1></center></layer>"
-	var nestTop=1
-	for (y = 0; y < 999; y++)
-               {
-                  if(menuData[x][y][0]!=null)
-                 {
-	   objDiv += "<layer id=\"x"+nestLayerID+"\" CLIP=\"2,0,125,20\" class=\""+ layerStyle +"\" Z-INDEX=7 BGCOLOR=\"#beac8e\" HEIGHT=21 WIDTH=130 TOP="+ nestTop +" onmouseover=\"menuOver('document.layers[\\'"+ layerID +"\\'].document.layers[\\'x"+nestLayerID+"\\']')\" onmouseout=\"menuOut('document.layers[\\'"+ layerID +"\\'].document.layers[\\'x"+nestLayerID+"\\']')\"><a id=navstyle  href=javascript:gotoUrl('"+menuData[x][y][1]+"')><font color=#000000>"+ menuData[x][y][0]
-	   objDiv +="</font></a></layer>"		
-	   nestLayerID=nestLayerID+1
-	   nestTop=nestTop+layerInc
-	   objDiv +="<layer id=\"line2\" BGCOLOR=\"#000000\" WIDTH=130 HEIGHT=1 Z-INDEX=7 TOP="+ nestTop +"><center><img src=images/shim.gif width=120 height=1></center></layer>"
-	   nestTop=nestTop+2
-	}
-              }
-	objDiv +="<layer id=\"lineEnd\" BGCOLOR=\"#BEAC8E\" WIDTH=130 HEIGHT=8 Z-INDEX=7 TOP="+ nestTop +"></layer></layer>"
-
-	document.write(objDiv)
-}
-
-</script>
-
-
-<script language="JavaScript1.2">
-<!--
-function reDo(){ window.location.reload() }
-function setResize(){setTimeout("window.onresize=reDo",500);}
-if(br=="N"){
-window.onload = setResize;
-}
-//-->
-</script>
-
-<script language="JavaScript1.1">
-<!--
-        if ((parseFloat(navigator.appVersion) < 4.06 ) &&
-                (navigator.appName.substring(0,8) == "Netscape")) {
-                win=window.open("ns_update.html",'updateWin','width=450,height=350,resizable=yes,scrollbars=yes,toolbar=yes');
-                if (!win.opener) win.opener=self;
-                if (win.focus) win.focus();
-        }
-
-        else if (navigator.appName == "Microsoft Internet Explorer" && (navigator.appVersion.indexOf("Mac") != -1)) {
-                if (navigator.appVersion.substring(navigator.appVersion.indexOf("MSIE")+5, navigator.appVersion.indexOf("MSIE")+9) <= 4.01){
-                        win=window.open("ie_update.html", 'updateWin', 'width=450,height=350,resizable=yes,scrollbars=yes,toolbar=yes');
-                        if (!win.opener) win.opener=self;
-                        if (win.focus) win.focus();
-                }
-         }
-
-//-->
-</script>
-
-
-<style type="text/css">
-A 			{text-decoration: underline}
-#navstyle 	{text-decoration: none}
-A.#navstyle {text-decoration: none}
-
-A.#navstyle:hover 	{text-decoration: underline;
-					 color: "#FF0000"}
-
-.Footer	{text-decoration: none}
-
-.nav 		{font-family:"Arial";
-			 font-size: 12;
-			 color: "#000000";
-			 background-color: "transparent";
-			 width: 120;
-			 line-height: 15pt;
-			 text-align: "left";
-			 cursor: "hand";
-			 text-decoration: none}
-
-.netMenu 	{fontFamily:Helvetica, Arial, sans-serif;
-			 font-size:11pt;
-                                                 color:#FFFFCE;
-                                                 color:#000000;
-			 text-align:left;
-			 margin-right:6px;
-			 line-height:12px;
-			 float:right;}
-
-.netMenuMac {fontFamily:Helvetica, Arial, sans-serif;
-			 font-size:12pt;
-			 color:#FFFFCE;
-			 text-align:left;
-			 margin-right:6px;
-			 line-height:12px;
-			 float:right;}
--->
-</style>
-
-<script language="JavaScript">
-<!--
-if(br=="N"){
-	doLayer('HomeDecor',0,127,'left',66)
-	doLayer('Floral',1,210,'left',66)
-	doLayer('Accents',2,302,'left',66)
-	doLayer('Seasonal',3,394,'left',66)
-	doLayer('Special',4,513,'left',66)
-}
-else if(br=="IE"){
-	doDiv('HomeDecor',0,127,'left',66)
-	doDiv('Floral',1,210,'left',66)
-	doDiv('Accents',2,302,'left',66)
-	doDiv('Seasonal',3,394,'left',66)
-	doDiv('Special',4,513,'left',66)
-}
-else{}
-//-->
-</script>
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<title>Kirklands - Unique Home Decor and Accessories</title>
+	<meta name="keywords" content="Kirklands, Home Decor, Home Accessories">
+	<meta name="description" content="Unique Home Decor and Accessories">
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta name="GENERATOR" content="Microsoft Visual Studio 6.0">
+	<link rel="stylesheet" rev="stylesheet" href="../css/global_screen.css" media="screen">
+	<link rel="stylesheet" rev="stylesheet" href="../css/global_print.css" media="print">
+	<script src="../scripts/_kirk_func.js" type="text/javascript" language="javascript"></script>
+	<script src="../scripts/_kirk_fpi.js" type="text/javascript" language="javascript"></script>
 </head>
+<body>
+<div id="con">
+	<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab" width="749" height="132" id="main" align="middle" viewastext="">
+		<param name="allowScriptAccess" value="sameDomain">
+		<param name="movie" value="../flash/subpages.swf">
+		<param name="flashvars" value="bgid=lavender_smbanner.jpg">
+		<param name="menu" value="false">
+		<param name="quality" value="best">
+		<param name="bgcolor" value="#ffffff">
+		<embed src="../flash/subpages.swf" menu="false" flashvars="bgid=lavender_smbanner.jpg" quality="best" bgcolor="#ffffff" width="749" height="132" name="main" align="middle" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
+	</object>
+	<!--<DIV id="ERROR">At 10:20 CST we will be taking the site off-line for 10 mins.<br>Please complete any orders that you may be working on.<br>We are sorry for the inconvenience.</DIV>-->
+	<div id="bod">
+		<div id="bod_r">
+			
+				<div id="bodr_r_email">
+					<strong><a href="../cm/email_signup.asp" target="_top">&nbsp;&nbsp;&nbsp;&nbsp;EMAIL LIST SIGN UP</a></strong>
+				</div>			
+				<div id="bodr_r_nav">
+					<ul id="navlist">
+						<li><a href="http://www.kirklands.com/">&nbsp;&nbsp;&nbsp;&nbsp;HOME</a></li>
+						<li><a href="http://www.kirklands.com/about/Default.asp">&nbsp;&nbsp;&nbsp;&nbsp;ABOUT US</a></li>
+						<li><a href="http://www.kirklands.com/locations/Default.asp">&nbsp;&nbsp;&nbsp;&nbsp;STORE LOCATOR</a></li>
+						<li><a href="http://www.kirklands.com/gift_cards/Default.asp">&nbsp;&nbsp;&nbsp;&nbsp;GIFT CARDS</a></li>
+						<li><a href="http://www.kirklands.com/assistance/Default.asp">&nbsp;&nbsp;&nbsp;&nbsp;ASSISTANCE</a></li>
+						<li><a href="http://www.kirklands.com/designer/">&nbsp;&nbsp;&nbsp;&nbsp;DESIGNER ADVANTAGE</a></li>
+					</ul>
+				</div>
+<div id="bodr_r_foot">
+					<ul id="footlist">
+						<li><a href="https://www.onlinecreditcenter2.com/Kirkland/kirklands-apply.html" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;APPLY FOR A KIRKLAND'S CARD</a></li>
+						<li><a href="https://www.onlinecreditcenter2.com/Kirkland/security/KirklandsLoginPage.html" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;CHECK YOUR ACCOUNT</a></li>
+						<li><a href="https://www.onlinecreditcenter2.com/Kirkland/security/KirklandsLoginPage.html" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;PAY YOUR BILL</a></li>
+				    </ul>
+	</div>
 
-<body bgcolor="#FFFFFF" text="#000000" link="#000000" vlink="#000000" alink="#666666" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-<table width="750" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr><td colspan="2"><img src="images/topbar.gif" width="749" height="76" usemap="#Map" border="0"><map name="Map"><area shape="rect" coords="2,3,167,46" href="http://www.kirklands.com/default.asp?pindex=1"><area shape="rect" coords="135,47,210,66" href="#" onmouseover="showDDNav('document.all[\'HomeDecor\']','document.layers[\'HomeDecor\']')" onmouseout="hideDDNav('document.all[\'HomeDecor\']','document.layers[\'HomeDecor\']')"><area shape="rect" coords="214,48,301,66" href="#" onmouseover="showDDNav('document.all[\'Floral\']','document.layers[\'Floral\']')" onmouseout="hideDDNav('document.all[\'Floral\']','document.layers[\'Floral\']')"><area shape="rect" coords="306,48,395,65" href="#" onmouseover="showDDNav('document.all[\'Accents\']','document.layers[\'Accents\']')" onmouseout="hideDDNav('document.all[\'Accents\']','document.layers[\'Accents\']')"><area shape="rect" coords="398,48,512,67" href="#" onmouseover="showDDNav('document.all[\'Seasonal\']','document.layers[\'Seasonal\']')" onmouseout="hideDDNav('document.all[\'Seasonal\']','document.layers[\'Seasonal\']')"><area shape="rect" coords="517,48,574,68" href="#" onmouseover="showDDNav('document.all[\'Special\']','document.layers[\'Special\']')" onmouseout="hideDDNav('document.all[\'Special\']','document.layers[\'Special\']')"></map></td>
-  </tr>
-  <tr> 
-    <td width="127" align="left" valign="top" bgcolor="#EAD5B2"><form name="search" method="post" action="kl_srchresult.asp">
-      <table width="127" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-            <td width="116"><font size="-2" face="Arial, Helvetica, sans-serif"> 
-              <input type="text" name="str" size="11">
-              </font></td>
-            <td width="24">
-<input border="0" src="images/gobutton.gif" value="Search Now!" id="btnSearch" name="btnSearch" hspace="5" type="image"><input type="hidden" name="srchCategory" value="All product categories">
-<input type="hidden" name="Kirkland's Products" value="1">
-            </td>
-        </tr>
-        <tr>
-          <td width="116">
-              <div align="right"><font size="-2" face="Arial, Helvetica, sans-serif">
-
-</font></div>
-            </td>
-          <td width="24">&nbsp;</td>
-        </tr>
-      </tbody></table>
-      </form>
-      <table width="127" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td colspan="2"><img height="20" src="images/welcome.gif" width="124"></td>
-        </tr><tr>
-          <td width="114" align="right">
-             
-
-<!--<font SIZE="-1" COLOR="black" FACE="arial">-->
-<font size="-1" color="black" face="arial">
+		</div>						
 
 
+		<div id="bod_l">
+		
 
-</font>
 
-<font size="-1" color="black" face="Arial">&nbsp;&nbsp;&nbsp;<a href="http://www.kirklands.com/kl_register.asp">Sign Up</a><br>
-<font size="-1" color="black" face="Arial">&nbsp;<a href="http://www.kirklands.com/kl_login.asp">Returning? Sign In</a></font><br><br>
-
-          </font></td>
-          <td width="15">&nbsp;</td>
-        </tr>
-      </tbody></table>
-      <table width="127" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr> 
-          <td colspan="2"> <img src="images/services.gif" width="124" height="19"></td>
-        </tr>
-        <tr> 
-          <td width="114" height="18"> 
-            <div align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><a href="http://www.kirklands.com/basket.asp">My 
-              Shopping Cart</a></font></div>
-          </td>
-          <td width="15" height="18">&nbsp;</td>
-        </tr>
-<tr>
- <td width="114" height="18">
-            <div align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><a href="http://www.kirklands.com/kl_orderhistory.asp">Order History</a></font></div>
-          </td>
-          <td width="15" height="18">&nbsp;</td>
-        </tr>
-        <tr> 
-          <td width="114" height="18"> 
-            <!--<div align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><a href="kl_coupon.asp" >Buy More/Save More</a></font></div>-->
-          </td>
-          <td width="15" height="18">&nbsp;</td>
-        </tr>
-        <tr>
-          <td width="114" height="18">
-            <div align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><a href="http://www.kirklands.com/kl_decorator.asp?pindex=1">Decorator 
-              Program</a></font></div>
-          </td>
-          <td width="15" height="18">&nbsp;</td>
-        </tr>
-        <tr> 
-          <td width="114" height="18"> 
-            <p align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><a href="http://www.ups.com/tracking/tracking.html" target="_blank">UPS 
-              Tracking</a></font></p>
-          </td>
-          <td width="15" height="18">&nbsp;</td>
-        </tr>
-      </tbody></table>
-      <br>
-      <table width="127" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr> 
-          <td colspan="2"> <img src="images/giftswishes.gif" width="124" height="20"></td>
-        </tr>
-        <tr> 
-          <td width="114" height="18"> 
-            <p align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><a href="http://www.kirklands.com/kl_giftcerts.asp">Gift 
-              Certificates</a></font></p>
-          </td>
-          <td width="15" height="18">&nbsp;</td>
-        </tr>
-        <tr> 
-          <td width="114" height="18"> 
-            <div align="right"><font face="Arial, Helvetica, sans-serif" size="-1">
-            <a href="#" onclick="MM_popupMsg('Coming soon!')"><!-- <a href="wishlist.asp"> -->My Wish List</a>
-            </font></div>
-          </td>
-          <td width="15" height="18">&nbsp;</td>
-        </tr>
-      </tbody></table>
-      <br>
-      <table width="127" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr> 
-          <td colspan="2"> <img src="images/information.gif" width="124" height="19"></td>
-        </tr>
-        <tr> 
-          <td width="114" height="18"> 
-            <p align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><a href="http://www.kirklands.com/kl_stores.asp?pindex=1">Store 
-              Locator</a></font></p>
-          </td>
-          <td width="15" height="18">&nbsp;</td>
-        </tr>
-        <tr> 
-          <td width="114" height="18"> 
-            <div align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><a href="http://www.kirklands.com/kl_cusservice.asp?pindex=1">Customer Service</a></font></div>
-          </td>
-          <td width="15" height="18">&nbsp;</td>
-        </tr>
-        <tr> 
-          <td width="114" height="18"> 
-            <div align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><a href="http://www.kirklands.com/kl_faq.asp?pindex=1">FAQ's</a></font></div>
-          </td>
-          <td width="15" height="18">&nbsp;</td>
-        </tr>
-        <tr> 
-          <td width="114" height="18"> 
-            <div align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><a href="http://www.kirklands.com/kl_contact_us.asp?pindex=1#contact">Contact 
-              Us</a></font></div>
-          </td>
-          <td width="15" height="18">&nbsp;</td>
-        </tr>
-      </tbody></table>
-      <br>
-      <br>
-    </td>
-
-    <td width="622" align="center" valign="top"> 
-      <div align="left"> 
-        <p>&nbsp;</p>
-        <p align="left"><img src="images/titlebars/privacy_bar.gif" width="611" height="37"></p>
-<font face="Arial, Helvetica, sans-serif" size="-1">
-<blockquote>
-<p><b>SECURE SHOPPING</b>
-</p><p>
-Kirkland's is committed to providing you a secure, user-friendly web site where you can shop without undue concerns about security or privacy. To meet that goal, we provide several types of security for information that you provide to us. First, we protect your personal information with a password that you choose. This prevents other customers obtaining this information.
-</p><p>
-Using your password, you can always access your personal information in order to correct or update any such information. You can access your information by <a href="http://www.kirklands.com/kl_register.asp">clicking on edit account.</a>
-</p><p>
-Kirkland's uses SSL (Secure Sockets Layer) technology to encrypt orders that are placed over the Internet. In order for SSL technology to work, you must use an SSL enabled browser. SSL encryption is designed to prevent unauthorized viewing of your personal information, including your credit card number. As the most common method of secure communication on the Internet, SSL technology is built into most major Internet browsers. Please note that e-mail is NOT encrypted, so you should not send your credit card number to us by e-mail. We will do our best to protect your information on our system, but of course no data transmission over the Internet can be guaranteed to be 100% secure.
-</p><p>
-If you encounter problems, you can call us at 1-877-208-6668, Customer Service will be happy to assist you in placing your order. Please have the item number for each item you wish to order.
-</p><p>
-<b>PRIVACY POLICY</b>
-</p><p>
-kirklands.com, inc. respects your privacy, and we work hard to maintain it. We need certain information when you purchase products from us to confirm the purchase. When you complete an order form at our web site, we collect certain information such as your name, shipping address, e-mail address and a credit card number to pay for your purchase.
-</p><p>
-When you register or order, we use some of this information to improve our web site and improve your shopping experience. The information we gather allows us to tailor our content to your personal tastes, and let you know about products and services that will help you express those tastes.
-</p><p>
-From time to time we may conduct online surveys, asking about your preferences so we may better serve you. Participation in these surveys is strictly voluntary. We may also keep track of some generic information which doesn't include any personal details, such as the number of visitors to our site, what browser types were used by our visitors, or what search engine you may have used to find our site.
-</p><p>
-When you register, we place you on our mailing list to receive e-mails or other information on products that we offer. If you do not care to receive this information, you can e-mail us at remove@kirklands.com and we will take you off our e-mail list. Please allow us 48 hours to make the requested change.
-</p><p>
-kirklands.com, inc. also uses a technology called "cookies" to better serve you. A cookie is an entry in a text file or folder on your hard drive. Cookies allow you to select a product, place it in your shopping cart, and continue browsing through our other products without placing a separate order for each product. You can refuse cookies by turning this option off in your browser. You do not need to have cookies turned on to purchase items from kirklands.com, but they can make your shopping experience easier. Cookies do not read data from your hard drive, and do not reveal personal data; the only personal information that a cookie can contain is information that you supply yourself.
-</p><p>
-By giving us personal information, you agree that Kirkland's and its affiliates can use that information.
-</p><p>
-Notwithstanding anything contained in this site to the contrary, kirklands.com, inc. shall have the right to comply with all requests for information from any appropriate law enforcement agency.
-</p><p>
-Our privacy policy may be updated from time to time. If we do change our policy, we will update this site so you have the latest information. By using our site, you agree to the collection and use of your personal information as described here.
-</p><p>
-If you have questions concerning our privacy policy or any security matters, please contact us. You may:
-</p><p>
-              </p><div align="left"> 
-                <blockquote> <font face="Arial" size="2"><b>1.</b> Send e-mail 
-                  to: <a href="mailto:csr@kirklands.com">csr@kirklands.com</a></font></blockquote>
-              </div>
-              <blockquote> 
-                <p align="left"> <font face="Arial" size="2"><b>2.</b> Send mail 
-                  to:</font> 
-                </p><p style="margin-left: 1.10in" align="left"><b><font face="Arial, Helvetica, sans-serif">Customer 
-                  Service<br>
-                  <font size="2">kirklands.com, inc.</font><br>
-                  <font size="2">805 North Parkway</font><br>
-                  <font size="2">Jackson, TN 38305</font></font></b> 
-                </p><p align="left"> <font face="Arial" size="2"><b>3.</b> Call us 
-                  at:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>1-877-208-6668</b></font> 
-              </p></blockquote>
-</blockquote>        
-      </font></div><font face="Arial, Helvetica, sans-serif" size="-1">
-        <p>&nbsp;</p>
-        <hr size="2" noshade="" align="center" width="95%">
-        <font face="Arial, Helvetica, sans-serif" size="-2"><a href="http://www.kirklands.com/kl_guarantee.asp">Our Guarantee</a> 
-        | <a href="http://www.kirklands.com/kl_company.asp#company">The Company</a> | <a href="http://www.kirklands.com/kl_privacy.asp">Privacy Policy</a> | <a href="http://www.kirklands.com/kl_terms.asp?pfid=1&amp;pindex=1">Terms 
-        &amp; Conditions</a>
- | <a href="http://www.kirklands.com/kl_company.asp?pindex=1">Chairman's Welcome</a><br>
-        Copyright (c) 2000, NIXHILTON Interactive. All rights reserved.</font><br>
-        <p>&nbsp; </p>      </font></td></tr>
-</tbody></table>
-<table>
-<tbody><tr>
-<td></td>
-</tr>
-</tbody></table>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Security &amp; Privacy Statement</title>
+<link rel="stylesheet" type="text/css" href="http://www.kirklands.com/css/external_css.css">
 
 
 
-</body></html>
+<img src="../images/interface/h1_security.gif" class="img_h1">
+    <div class="kiosk">
+	<p>This Security and Privacy statement discloses the privacy practices for http://www.kirklands.com. This statement does not apply to the practices of companies that Kirkland's Home does not own or to people that Kirkland's Home does not employ.</p>
+  <p><strong>Commitment To Privacy:</strong> Kirkland's Home values its customers and respects their privacy. In connection with demonstrating its commitment to your privacy, Kirkland's Home has agreed to disclose its information and privacy and security practices. If you feel that Kirkland's Home is not abiding by its posted privacy and security practices, you should contact our customer service department at csr@kirklands.com.</p>
+  <p><strong>Information We Collect and Use:</strong> We collect information about you (such as your name, e-mail address, mailing address, phone number, e-mail/IP address, transactions with us, and credit card number) that you provide when you place an order or that you provide to us in any other way. We may acquire customer names, e-mail addresses or mailing addresses for select mailings from third parties. We use the information that you provide for purposes such as responding to your requests, communicating with you, improving our services, conducting research, providing anonymous reporting for existing and prospective clients or advertisers, and processing and confirming your order. From time to time, we may also use your information to notify you about our products, services, contests, or promotions. Except as otherwise provided herein, we do not sell or rent the information that you provide to us online to third parties.</p>
+  <p><strong>Ordering:</strong> We request information from you on our order form. Here, a customer must provide contact information (like name and shipping address) and financial information (credit card number, expiration date, and billing address). This information is used for billing purposes to verify the customer is of legal age, and to fill customers' orders. If we have trouble processing an order, this contact information is used to get in touch with the user.</p>
+  <p><strong>Cookies:</strong> A cookie is a piece of data stored on the end-user's hard drive containing information that relates directly to the end-user's visit to our web site. Kirkland's Home may, from time to time, use cookies. Any information placed in the cookie is accessible only to Kirkland's Home, and will not be sold or shared with anyone else. In the event that we use cookies, we do so to improve your shopping experience as cookies enable us to track and target the interests of our customers to enhance the experience on our site. You may change your browser to prevent your browser from accepting cookies.</p>
+  <p><strong>Sharing of Information:</strong> We value your privacy at Kirkland's Home, and will not release any personally identifiable account information to anyone outside of the necessary core groups that help our business function unless our customers give us the authority to do so or otherwise in accordance with this privacy and security statement. We will share aggregated demographic information with our partners and advertisers. This information, however, is not linked to any personal information that can identify any individual person. We may from time to time use an outside shipping company to ship orders or a credit card processing company to bill users for goods and services. Additionally, we may contract with third parties to assist us in maintaining or managing our customer information. In such events, we will advise these companies not to retain, share, store or use personally identifiable information for any secondary purposes. We may be required to use your information to respond to court orders or subpoenas or to establish or exercise our legal rights or to defend against legal claims. We may share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, or as otherwise required by law. We may transfer your information if Kirkland's Home or the assets thereof are acquired by or merged with another company.</p>
+  <p><strong>Links:</strong> In the event that this web site contains links to other sites, please be aware that Kirkland's Home is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site.</p>
+  <p><strong>Security:</strong> When our order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the encryption software - SSL (Secure Socket Layers), provided by VeriSign, a premier encryption software company. While we use SSL encryption to protect sensitive information online, we also take actions to protect user-information offline. Our users' information is generally restricted in our offices. Our employees are notified and/or reminded about the importance of keeping our customers' information secure and safe at all times. The servers on which we store personally identifiable information on are kept in a locked and secure environment.</p>
+  <p><strong>Children:</strong> Please note that if you are under 18, you may purchase products from kirklands.com only with the involvement of a parent or guardian.</p>
+  <p><strong>Correcting/Updating Personal Information:</strong> If your personally identifiable information changes (such as your shipping or billing address, your preferred credit card, etc.), you can add new information or delete any addresses or credit cards from your account on our website or you may obtain live one-on-one help toll-free by phone at csr@kirklands.com.</p>
+  <p><strong>Notification of Changes:</strong> If we decide to change our privacy and security statement, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we may disclose it. We will use information in accordance with the privacy and security statement under which the information was collected.</p>
+  <p>Agreement to Privacy and Security Statement. By using our Web site, you agree to the Kirkland's Home privacy and security statement as provided above.</p>
+
+	</div>
+    
+
+
+	
+		</div>
+	</div>
+	<div id="footer">
+		<span class="footer_firstline">
+			<a href="http://www.kirklands.com/">home</a> |
+			<a href="http://www.kirklands.com/about/">about</a> |
+			<a href="http://www.kirklands.com/assistance/">assistance</a>  |
+			<a href="http://www.kirklands.com/gift_cards/">gift cards</a> |
+			<a href="http://www.kirklands.com/careers/">careers</a>  |
+			<a href="http://www.kirklands.com/locations/">locations</a> |
+			<a href="http://www.kirklands.com/designer/">designer advantage</a> |  
+			<a href="http://www.kirklands.com/investor/">investor relations</a>
+		</span>
+		<span class="footer_secondline">
+			<a href="http://www.kirklands.com/security/">security &amp; privacy</a> | 
+			<a href="http://www.kirklands.com/terms/">terms of use</a> |
+			<a href="http://www.kirklands.com/cart/">cart</a>
+		</span>
+	</div>
+
+	</div></body></html>
