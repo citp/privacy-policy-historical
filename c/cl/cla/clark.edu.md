@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clark.edu privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225041333id_/http%3A//www.clark.edu/about_clark/policies/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clark.edu privacy policy that was archived on 2007-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070512202119id_/http%3A//www.clark.edu/about_clark/policies/privacy_policy.php) for the most accurate reproduction.*
 
 # About Clark- Clark College Public Records Privacy Protection Policy
 
@@ -46,8 +46,6 @@ Effective: 06/12/2001**
 
 
 
-RETURN TO TOP
-
 **Information Collected and How it is Used**
 
 **Information collected if you only browse this site.**  
@@ -73,8 +71,6 @@ The information collected is not limited to text characters and may include audi
 
 We use your e-mail to respond appropriately. This may be to respond to you, to address issues you may identify, to further improve our Web site, or to forward the e-mail to another agency for appropriate action. Survey information is used for research and enhancement purposes. Information from other on-line forms is used to fulfill student requests for information and/or services.
 
-RETURN TO TOP
-
 **Personal Information and Choice**
 
 ******You may choose whether to provide personal information on-line.**
@@ -91,19 +87,15 @@ If you believe that your personal information is being used for a purpose other 
 
 The Clark College Web site is a general audience site and we do not knowingly collect any personal information from children. Users are cautioned that the collection of personal information requested from or volunteered by children on-line or by e-mail will be treated the same as information given by an adult, and may be subject to public access.
 
-RETURN TO TOP
-
 **Public Access to Information**
 
 ****In the State of Washington, laws exist to ensure that government is open and that the public has a right to access appropriate records and information possessed by state government. At the same time, there are exceptions to the public's right to access public records that serve various needs including the privacy of individuals. Exceptions are provided by both state and federal laws.
 
-All of the information collected at this site becomes public record that may be subject to inspection and copying by members of the public, unless an exemption in law exists. [**RCW 42.17. 260(1)**](http://search.leg.wa.gov/wslrcw/RCW%20%2042%20%20TITLE/RCW%20%2042%20.%2017%20%20CHAPTER/RCW%20%2042%20.%2017%20.260.htm) **** states that 
+All of the information collected at this site becomes public record that may be subject to inspection and copying by members of the public, unless an exemption in law exists. [**RCW 42.17. 260(1)**](http://apps.leg.wa.gov/rcw/dispo.aspx?cite=42.17.260\(1\)) **** states that 
 
-> Each agency, in accordance with published rules, shall make available for public inspection and copying all public records, unless the record falls within the specific exemptions of subsection (6) of this section [**(RCW 42.17.260(6))**](http://search.leg.wa.gov/wslrcw/RCW%20%2042%20%20TITLE/RCW%20%2042%20.%2017%20%20CHAPTER/RCW%20%2042%20.%2017%20.260.htm) **,[RCW 42.17.310](http://search.leg.wa.gov/wslrcw/RCW%20%2042%20%20TITLE/RCW%20%2042%20.%2017%20%20CHAPTER/RCW%20%2042%20.%2017%20.310.htm), [42.17.315](http://search.leg.wa.gov/wslrcw/RCW%20%2042%20%20TITLE/RCW%20%2042%20.%2017%20%20CHAPTER/RCW%20%2042%20.%2017%20.315.htm)**, or other statute which exempts or prohibits disclosure of specific information or records. To the extent required to prevent an unreasonable invasion of personal privacy interests protected by [**RCW 42.17.310**](http://search.leg.wa.gov/wslrcw/RCW%20%2042%20%20TITLE/RCW%20%2042%20.%2017%20%20CHAPTER/RCW%20%2042%20.%2017%20.310.htm) and [**42.17.315**](http://search.leg.wa.gov/wslrcw/RCW%20%2042%20%20TITLE/RCW%20%2042%20.%2017%20%20CHAPTER/RCW%20%2042%20.%2017%20.315.htm), an agency shall delete identifying details in a manner consistent with [**RCW 42.17.310**](http://search.leg.wa.gov/wslrcw/RCW%20%2042%20%20TITLE/RCW%20%2042%20.%2017%20%20CHAPTER/RCW%20%2042%20.%2017%20.310.htm) and [**42.17.315**](http://search.leg.wa.gov/wslrcw/RCW%20%2042%20%20TITLE/RCW%20%2042%20.%2017%20%20CHAPTER/RCW%20%2042%20.%2017%20.315.htm) when it makes available or publishes any public record; however, in each case, the justification for the deletion shall be explained fully in writing.
+> Each agency, in accordance with published rules, shall make available for public inspection and copying all public records, unless the record falls within the specific exemptions of subsection (6) of this section [**(RCW 42.17.260(6))**](http://apps.leg.wa.gov/rcw/dispo.aspx?cite=42.17.260\(6\)) **,[RCW 42.56.210](http://apps.leg.wa.gov/rcw/default.aspx?cite=42.56.210),  [42.17.315](http://apps.leg.wa.gov/rcw/dispo.aspx?cite=42.17.315)**, or other statute which exempts or prohibits disclosure of specific information or records. To the extent required to prevent an unreasonable invasion of personal privacy interests protected by [**RCW 42.56.210**](http://apps.leg.wa.gov/rcw/default.aspx?cite=42.56.210) and [**42.17.315**](http://apps.leg.wa.gov/rcw/dispo.aspx?cite=42.17.315), an agency shall delete identifying details in a manner consistent with [**RCW 42.56.210**](http://apps.leg.wa.gov/rcw/default.aspx?cite=42.56.210) and [**42.17.315**](http://apps.leg.wa.gov/rcw/dispo.aspx?cite=42.17.315) when it makes available or publishes any public record; however, in each case, the justification for the deletion shall be explained fully in writing.
 
 In the event of a conflict between this Privacy Notice and the Public Records Act or other law governing the agency’s disclosure of records, the Public Records Act or other applicable law will control.
-
-RETURN TO TOP
 
 **Nondisclosure of Certain Personal Information**
 
@@ -115,14 +107,12 @@ The following laws and regulations may prevent Clark College from disclosing the
 
   * [**Family Education Rights and Privacy Act of 1974 (FERPA)**  
 ](http://www4.law.cornell.edu/uscode/unframed/20/1232g.html) Section 438, Public Law 90-247 Title IV, as amended, 88 Stat 571-574 (20 USC 1232g) otherwise known as the Buckley Amendment Family Educational Rights and Privacy Act.
-  * [**RCW 42.17.310**](http://search.leg.wa.gov/wslrcw/RCW%20%2042%20%20TITLE/RCW%20%2042%20.%2017%20%20CHAPTER/RCW%20%2042%20.%2017%20.310.htm) (a) and (ss) exempts the following from public inspection and copying:
+  * [**RCW 42.56.210**](http://apps.leg.wa.gov/rcw/default.aspx?cite=42.56.210) (a) and (ss) exempts the following from public inspection and copying:
 
   | (a) |  Personal information in any files maintained for students in public schools, patients or clients of public institutions or public health agencies, or welfare recipients;  
 ---|---|---  
   | (ss) | Credit card numbers, debit card numbers, electronic check numbers, card expiration dates, or bank or other financial account numbers supplied to an agency for the purpose of electronic transfer of funds, except when disclosure is expressly required by law.  
   
-RETURN TO TOP
-
 * * *
 
 **Degree Audit  
@@ -132,13 +122,11 @@ The following laws and regulations may prevent Clark College from disclosing the
 
   * [**Family Education Rights and Privacy Act of 1974 (FERPA)**  
 ](http://www4.law.cornell.edu/uscode/unframed/20/1232g.html) Section 438, Public Law 90-247 Title IV, as amended, 88 Stat 571-574 (20 USC 1232g) otherwise known as the Buckley Amendment Family Educational Rights and Privacy Act.
-  * [**RCW 42.17.310**](http://search.leg.wa.gov/wslrcw/RCW%20%2042%20%20TITLE/RCW%20%2042%20.%2017%20%20CHAPTER/RCW%20%2042%20.%2017%20.310.htm) exempts the following from public inspection and copying:
+  * [**RCW 42.56.210**](http://apps.leg.wa.gov/rcw/default.aspx?cite=42.56.210) exempts the following from public inspection and copying:
 
   | (a) |  Personal information in any files maintained for students in public schools, patients or clients of public institutions or public health agencies, or welfare recipients.  
 ---|---|---  
   
-RETURN TO TOP
-
 * * *
 
 **Financial Aid Inquiry  
@@ -148,13 +136,11 @@ The following laws and regulations may prevent Clark College from disclosing the
 
   * [**Family Education Rights and Privacy Act of 1974 (FERPA)**  
 ](http://www4.law.cornell.edu/uscode/unframed/20/1232g.html) Section 438, Public Law 90-247 Title IV, as amended, 88 Stat 571-574 (20 USC 1232g) otherwise known as the Buckley Amendment Family Educational Rights and Privacy Act.
-  * [**RCW 42.17.310**](http://search.leg.wa.gov/wslrcw/RCW%20%2042%20%20TITLE/RCW%20%2042%20.%2017%20%20CHAPTER/RCW%20%2042%20.%2017%20.310.htm) exempts the following from public inspection and copying:
+  * [**RCW 42.56.210**](http://apps.leg.wa.gov/rcw/default.aspx?cite=42.56.210) exempts the following from public inspection and copying:
 
   | (a) |  Personal information in any files maintained for students in public schools, patients or clients of public institutions or public health agencies, or welfare recipients.  
 ---|---|---  
   
-RETURN TO TOP
-
 * * *
 
 **Hope and Lifetime Learning Tax Credit  
@@ -164,13 +150,11 @@ The following laws and regulations may prevent Clark College from disclosing the
 
   * **[Family Education Rights and Privacy Act of 1974 (FERPA)](http://www4.law.cornell.edu/uscode/unframed/20/1232g.html)**[  
 ](http://www4.law.cornell.edu/uscode/unframed/20/1232g.html) Section 438, Public Law 90-247 Title IV, as amended, 88 Stat 571-574 (20 USC 1232g) otherwise known as the Buckley Amendment Family Educational Rights and Privacy Act.
-  * [**RCW 42.17.310**](http://search.leg.wa.gov/wslrcw/RCW%20%2042%20%20TITLE/RCW%20%2042%20.%2017%20%20CHAPTER/RCW%20%2042%20.%2017%20.310.htm) exempts the following from public inspection and copying:
+  * [**RCW 42.56.210**](http://apps.leg.wa.gov/rcw/default.aspx?cite=42.56.210) exempts the following from public inspection and copying:
 
   | (a) |  Personal information in any files maintained for students in public schools, patients or clients of public institutions or public health agencies, or welfare recipients.  
 ---|---|---  
   
-RETURN TO TOP
-
 * * *
 
 **Registration  
@@ -180,13 +164,11 @@ The following laws and regulations may prevent Clark College from disclosing the
 
   * **[Family Education Rights and Privacy Act of 1974 (FERPA)](http://www4.law.cornell.edu/uscode/unframed/20/1232g.html)**[  
 ](http://www4.law.cornell.edu/uscode/unframed/20/1232g.html) Section 438, Public Law 90-247 Title IV, as amended, 88 Stat 571-574 (20 USC 1232g) otherwise known as the Buckley Amendment Family Educational Rights and Privacy Act.
-  * [**RCW 42.17.310**](http://search.leg.wa.gov/wslrcw/RCW%20%2042%20%20TITLE/RCW%20%2042%20.%2017%20%20CHAPTER/RCW%20%2042%20.%2017%20.310.htm) exempts the following from public inspection and copying:
+  * [**RCW 42.56.210**](http://apps.leg.wa.gov/rcw/default.aspx?cite=42.56.210) exempts the following from public inspection and copying:
 
   | (a) |  Personal information in any files maintained for students in public schools, patients or clients of public institutions or public health agencies, or welfare recipients.  
 ---|---|---  
   
-RETURN TO TOP
-
 * * *
 
 **Registration Appointment  
@@ -196,13 +178,11 @@ The following laws and regulations may prevent Clark College from disclosing the
 
   * [**Family Education Rights and Privacy Act of 1974 (FERPA)**  
 ](http://www4.law.cornell.edu/uscode/unframed/20/1232g.html) Section 438, Public Law 90-247 Title IV, as amended, 88 Stat 571-574 (20 USC 1232g) otherwise known as the Buckley Amendment Family Educational Rights and Privacy Act.
-  * [**RCW 42.17.310**](http://search.leg.wa.gov/wslrcw/RCW%20%2042%20%20TITLE/RCW%20%2042%20.%2017%20%20CHAPTER/RCW%20%2042%20.%2017%20.310.htm) exempts the following from public inspection and copying:
+  * [**RCW 42.56.210**](http://apps.leg.wa.gov/rcw/default.aspx?cite=42.56.210) exempts the following from public inspection and copying:
 
   | (a) |  Personal information in any files maintained for students in public schools, patients or clients of public institutions or public health agencies, or welfare recipients.  
 ---|---|---  
   
-RETURN TO TOP
-
 * * *
 
 **Schedule Planner  
@@ -212,13 +192,11 @@ The following laws and regulations may prevent Clark College from disclosing the
 
   * [**Family Education Rights and Privacy Act of 1974 (FERPA)**  
 ](http://www4.law.cornell.edu/uscode/unframed/20/1232g.html) Section 438, Public Law 90-247 Title IV, as amended, 88 Stat 571-574 (20 USC 1232g) otherwise known as the Buckley Amendment Family Educational Rights and Privacy Act.
-  * [**RCW 42.17.310**](http://search.leg.wa.gov/wslrcw/RCW%20%2042%20%20TITLE/RCW%20%2042%20.%2017%20%20CHAPTER/RCW%20%2042%20.%2017%20.310.htm) exempts the following from public inspection and copying:
+  * [**RCW 42.56.210**](http://apps.leg.wa.gov/rcw/default.aspx?cite=42.56.210) exempts the following from public inspection and copying:
 
   | (a) |  Personal information in any files maintained for students in public schools, patients or clients of public institutions or public health agencies, or welfare recipients.  
 ---|---|---  
   
-RETURN TO TOP
-
 * * *
 
 **Student Address Change  
@@ -228,13 +206,11 @@ The following laws and regulations may prevent Clark College from disclosing the
 
   * [**Family Education Rights and Privacy Act of 1974 (FERPA)**  
 ](http://www4.law.cornell.edu/uscode/unframed/20/1232g.html) Section 438, Public Law 90-247 Title IV, as amended, 88 Stat 571-574 (20 USC 1232g) otherwise known as the Buckley Amendment Family Educational Rights and Privacy Act.
-  * [**RCW 42.17.310**](http://search.leg.wa.gov/wslrcw/RCW%20%2042%20%20TITLE/RCW%20%2042%20.%2017%20%20CHAPTER/RCW%20%2042%20.%2017%20.310.htm) exempts the following from public inspection and copying:
+  * [**RCW 42.56.210**](http://apps.leg.wa.gov/rcw/default.aspx?cite=42.56.210) exempts the following from public inspection and copying:
 
   | (a) |  Personal information in any files maintained for students in public schools, patients or clients of public institutions or public health agencies, or welfare recipients.  
 ---|---|---  
   
-RETURN TO TOP
-
 * * *
 
 **Student PIN Change  
@@ -244,13 +220,11 @@ The following laws and regulations may prevent Clark College from disclosing the
 
   * [**Family Education Rights and Privacy Act of 1974 (FERPA)**  
 ](http://www4.law.cornell.edu/uscode/unframed/20/1232g.html) Section 438, Public Law 90-247 Title IV, as amended, 88 Stat 571-574 (20 USC 1232g) otherwise known as the Buckley Amendment Family Educational Rights and Privacy Act.
-  * [**RCW 42.17.310**](http://search.leg.wa.gov/wslrcw/RCW%20%2042%20%20TITLE/RCW%20%2042%20.%2017%20%20CHAPTER/RCW%20%2042%20.%2017%20.310.htm) exempts the following from public inspection and copying:
+  * [**RCW 42.56.210**](http://apps.leg.wa.gov/rcw/default.aspx?cite=42.56.210) exempts the following from public inspection and copying:
 
   | (a) |  Personal information in any files maintained for students in public schools, patients or clients of public institutions or public health agencies, or welfare recipients.  
 ---|---|---  
   
-RETURN TO TOP
-
 * * *
 
 **Student Schedule  
@@ -260,13 +234,11 @@ The following laws and regulations may prevent Clark College from disclosing the
 
   * [**Family Education Rights and Privacy Act of 1974 (FERPA)**  
 ](http://www4.law.cornell.edu/uscode/unframed/20/1232g.html) Section 438, Public Law 90-247 Title IV, as amended, 88 Stat 571-574 (20 USC 1232g) otherwise known as the Buckley Amendment Family Educational Rights and Privacy Act.
-  * [**RCW 42.17.310**](http://search.leg.wa.gov/wslrcw/RCW%20%2042%20%20TITLE/RCW%20%2042%20.%2017%20%20CHAPTER/RCW%20%2042%20.%2017%20.310.htm) exempts the following from public inspection and copying:
+  * [**RCW 42.56.210**](http://apps.leg.wa.gov/rcw/default.aspx?cite=42.56.210) exempts the following from public inspection and copying:
 
   | (a) |  Personal information in any files maintained for students in public schools, patients or clients of public institutions or public health agencies, or welfare recipients.  
 ---|---|---  
   
-RETURN TO TOP
-
 * * *
 
 **Unofficial Transcript  
@@ -276,32 +248,24 @@ The following laws and regulations may prevent Clark College from disclosing the
 
   * [**Family Education Rights and Privacy Act of 1974 (FERPA)**  
 ](http://www4.law.cornell.edu/uscode/unframed/20/1232g.html) Section 438, Public Law 90-247 Title IV, as amended, 88 Stat 571-574 (20 USC 1232g) otherwise known as the Buckley Amendment Family Educational Rights and Privacy Act.
-  * [**RCW 42.17.310**](http://search.leg.wa.gov/wslrcw/RCW%20%2042%20%20TITLE/RCW%20%2042%20.%2017%20%20CHAPTER/RCW%20%2042%20.%2017%20.310.htm) exempts the following from public inspection and copying:
+  * [**RCW 42.56.210**](http://apps.leg.wa.gov/rcw/default.aspx?cite=42.56.210) exempts the following from public inspection and copying:
 
   | (a) |  Personal information in any files maintained for students in public schools, patients or clients of public institutions or public health agencies, or welfare recipients.  
 ---|---|---  
   
-RETURN TO TOP
-
 **Review and Correction of Personally Identifiable Information**
 
-You can review any personally identifiable information we collect about you by using the information in the **Contact Information section** at the end of this Notice. You may recommend changes to your personally identifiable information you believe to be inaccurate by submitting a written request that credibly shows the inaccuracy. We will take reasonable steps to verify your identify before granting access or making corrections. [**(RCW 43.105.310)**](http://search.leg.wa.gov/wslrcw/RCW%20%2043%20%20TITLE/RCW%20%2043%20.105%20%20CHAPTER/RCW%20%2043%20.105%20.310.htm)
-
-RETURN TO TOP
+You can review any personally identifiable information we collect about you by using the information in the **Contact Information section** at the end of this Notice. You may recommend changes to your personally identifiable information you believe to be inaccurate by submitting a written request that credibly shows the inaccuracy. We will take reasonable steps to verify your identify before granting access or making corrections. [**(RCW 43.105.310)**](http://apps.leg.wa.gov/rcw/default.aspx?cite=43.105.310)
 
 Clark College takes precautions to safeguard personal information you provide through our web services.
 
 This information should not be construed in any way as giving business, legal, or other advice, or warranting as fail proof, the security of information provided via the Clark College Web site.
-
-RETURN TO TOP
 
 The Clark College Web site has many links to other Web sites. These include links to Web sites operated by other government agencies, nonprofit organizations and private businesses. When you link to another site, you are no longer on the Clark College Web site and this Privacy Notice will not apply. When you link to another Web site, you are subject to the privacy policy of that new site.
 
 Neither the State of Washington, nor any agency, officer, or employee of the State of Washington warrants the accuracy, reliability or timeliness of any information published by this system, nor endorses any content, viewpoints, products, or services linked from this system, and shall not be held liable for any losses caused by reliance on the accuracy, reliability or timeliness of such information. Portions of such information may be incorrect or not current. Any person or entity that relies on any information obtained from this system does so at their own risk.
 
 Clark College reserves the right to revise and update this Privacy Notice at any time by posting such revised Privacy Notice on the Clark College home page.
-
-RETURN TO TOP
 
 You may contact Clark College as follows:
 
@@ -325,5 +289,3 @@ You may contact Clark College as follows:
 >  [webmaster@clark.edu](mailto:webmaster@clark.edu)
 
 **Last Modified** : 03/04/2004 
-
-RETURN TO TOP
