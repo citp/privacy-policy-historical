@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thirtydaychallenge.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219033154id_/http%3A//www.underachieverlife.com/portal/Home/tabid/59/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thirtydaychallenge.com privacy policy that was archived on 2007-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070512142746id_/http%3A//www.underachieverlife.com/portal/Home/tabid/59/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Thirty Day Challenge > Home ( DNN 3.2.2 )
 
