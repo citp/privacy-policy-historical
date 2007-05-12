@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the faniq.com privacy policy that was archived on 2006-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061026180323id_/http%3A//faniq.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faniq.com privacy policy that was archived on 2007-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070512223041id_/http%3A//www.faniq.com/privacy.php) for the most accurate reproduction.*
 
-# FanIQ.com
+# FanIQ - Your Take on Sports!
 
 FanIQ.com is an online service that allows our member sports fans to set up personal profiles. FanIQ members can view each others' profiles and communicate and compete with them in unique ways. To enrich our members' experience, we request and display some personal information to other members and visitors, which allows our users to identify each other and expand their network of friends. FanIQ members can change their profile information at any time.
 
