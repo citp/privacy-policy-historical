@@ -1,21 +1,15 @@
-> *The following text is extracted and transformed from the scubaboard.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017075806id_/http%3A//scubaboard.com/matrix/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scubaboard.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513151000id_/http%3A//www.scubaboard.com/matrix/privacy.php) for the most accurate reproduction.*
 
 # ScubaBoard - Privacy Policy
 
-[](http://www.insidescuba.com/)
-
-  
   
 
 
 * * *
 
-[ ](http://add.my.yahoo.com/rss?url=http://www.scubaboard.com/external.php?type=rss2)  
-[](https://web.archive.org/faq.php?faq=vb_faq#faq_rss_feeds "syndication help")   
-|   |    
+|   | 
 
-
-Welcome to **ScubaBoard** , an online scuba diving forum community where you can join over 65,000 divers from around the world discussing all things related to Scuba Diving. To gain full access to ScubaBoard you must [register](https://web.archive.org/register.php) for a **free** account. As a registered member you will be able to: 
+Welcome to **ScubaBoard** , an online scuba diving forum community where you can join over 70,000 divers from around the world discussing all things related to Scuba Diving. To gain full access to ScubaBoard you must [register](https://web.archive.org/register.php) for a **free** account. As a registered member you will be able to: 
 
   * Participate in over 500 dive topic forums and browse from over 2,000,000 posts.
   * Communicate privately with other divers from around the world.
@@ -24,7 +18,7 @@ Welcome to **ScubaBoard** , an online scuba diving forum community where you can
 
 All this and much more is available to you absolutely free when you [register](https://web.archive.org/register.php) for an account, so [sign up today](https://web.archive.org/register.php)! 
 
-If you have any problems with the registration process or your account login, please [contact](https://web.archive.org/sendmessage.php) the ScubaBoard Support Team. 
+If you have any problems with the registration process or your account login, please [contact](https://web.archive.org/sendmessage.php) the ScubaBoard Support Team.
 
   
   
@@ -102,4 +96,19 @@ This site gives users the following options for changing and modifying informati
 
 
   
+|  | 
 
+All times are GMT -4. The time now is 11:09 AM. 
+
+| 
+
+Archive Links:  
+[Underwater Photography](https://web.archive.org/archive/index.php/f-3.html) \- [Basic Scuba Diving](https://web.archive.org/archive/index.php/f-2.html) \- [Equipment](https://web.archive.org/archive/index.php/f-39.html) \- [Travel](https://web.archive.org/archive/index.php/f-42.html)
+
+| 
+
+Syndicate this content on your website with [ rss](https://web.archive.org/external.php?type=rss2) or [javascript](https://web.archive.org/external.php?type=js) data feeds.  
+[](https://web.archive.org/faq.php?faq=vb_faq#faq_rss_feeds "Syndication Help")
+
+|  [](http://www.intermediapublications.com/)  
+---|---|---|---|---
