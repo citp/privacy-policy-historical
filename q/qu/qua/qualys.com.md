@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qualys.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113144737id_/http%3A//qualys.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualys.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513081605id_/http%3A//www.qualys.com/company/privacy) for the most accurate reproduction.*
 
-# Qualys Inc. - Vulnerability Management, Network Security Vulnerabilities, Security Compliance
+# Privacy Policy - Qualys
 
 Qualys® respects your online privacy. We understand and appreciate your need to control your personal data that you share with us. 
 
