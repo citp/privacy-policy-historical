@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashu.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205195024id_/http%3A//www.cashu.com/site/privacy.pl%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashu.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513120823id_/http%3A//www.cashu.com/site/privacy.pl%3Flang%3Den) for the most accurate reproduction.*
 
 # cashU Card - Secure Online Payment Method
 
