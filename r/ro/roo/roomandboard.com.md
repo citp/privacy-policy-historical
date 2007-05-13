@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roomandboard.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218012911id_/http%3A//www.roomandboard.com/rnb/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roomandboard.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513083530id_/http%3A//www.roomandboard.com/rnb/privacy.do) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,12 +6,12 @@ Room & Board, Inc. Corporate Consumer Privacy Policy
 
 Room & Board, Inc. is committed to respecting your private information and protecting it from misuse. Our Privacy Policy outlines our current policy on personally identifiable information concerning consumers, and covers the operations of our stores, our catalog and telephone sales, and within our Web site. We encourage you to read it whenever you visit our stores, catalogs or Web site, since we may change this policy from time to time due to enhancements to our systems or changes in the law. A copy of the current policy is always posted at [/rnb/privacy.do](https://web.archive.org/rnb/privacy.do). You may also obtain a copy of the current policy by contacting the office of the Privacy Officer shown at the end of this policy. 
 
-Basic Privacy Principals  
-The following " _Basic Privacy Principals_ " apply throughout our entire enterprise, whether we gather information through our stores, our catalog operations, or our Web site. 
+Basic Privacy Principles  
+The following " _Basic Privacy Principles_ " apply throughout our entire enterprise, whether we gather information through our stores, our catalog operations, or our Web site. 
 
 We consider certain information which we may learn or create while we engage in our business to be a consumer's " _personally identifiable information_." This includes any " _identity information_ " which directly identifies a person by name, address, telephone number, e-mail address, government-issued number such as a social security number, or financial account identifier such as a credit card number. Personally identifiable information also includes information which is directly associated with identity information, such as information about the identified person's purchases to the extent the information is directly associated with that person's identity information. 
 
-We do not consider all information that we may gather or create in operating our business to be personally identifiable information. Basically, if information is not identity information or directly associated with identity information, we do not consider it to be personally identifiable information. For example, a database of our customer's purchases in aggregate which does not identify the individual customers would not be personally identifiable information. 
+We do not consider all information that we may gather or create in operating our business to be personally identifiable information. Basically, if information is not identity information or directly associated with identity information, we do not consider it to be personally identifiable information. For example, a database of our customers' purchases in aggregate which does not identify the individual customers would not be personally identifiable information. 
 
 Without your consent or as specified below, we will use your personally identifiable information which we learn through our interactions with you only for the purposes you would reasonably anticipate us doing. This includes use to contact you to answer your questions, to fulfill orders, to obtain billing or payment information, to follow-up on prior orders to ensure your satisfaction, and to contact you with additional information where you have permitted us to do so. 
 
@@ -27,10 +27,10 @@ In addition to the Basic Privacy Principles discussed above, the following polic
 
 Our stores and catalog operations are available to you to discuss our products and services with a Design Associate, and you may place your orders through one of our Design Associates in the stores, or place a catalog order via postal mail or via telephone. When we take your order, we will obtain additional personally identifiable information including your payment information. We will only use that personally identifiable information from your order for purposes concerning the fulfillment of your order. In doing so, your personally identifiable information from an order may be used or shared among our different offices, representatives or service providers such as the store, our catalog sales offices, our warehouses, our headquarters, the manufacturers of products you have purchased, the freight carriers used to deliver products to you, installers or designers we have engaged to assist with your order, or our credit card merchant banks or other bankers. We will share only that portion of your personally identifiable information with third parties that is reasonably required to fulfill your order, and those third parties will be contractually obligated to use the personally identifiable information only for order-fulfillment purposes. 
 
-We will comply with our credit card merchant bank's requirements for the use and storage of your credit card information, such as obligations concerning the security of your credit card numbers. 
+We will comply with our credit card merchant banks' requirements for the use and storage of your credit card information, such as obligations concerning the security of your credit card numbers. 
 
 **Web Site**   
-In addition to the Basic Privacy Principals discussed above, the following policies apply specifically to our Web Site ( _www.roomandboard.com_ ). 
+In addition to the Basic Privacy Principles discussed above, the following policies apply specifically to our Web Site ( _www.roomandboard.com_ ). 
 
 Our Web site is not used to directly obtain your purchase orders, and is offered primarily as an information resource to assist you in learning about our products and services. We look forward to seeing you in our stores or hearing from you via regular mail or telephone if you wish to place an order. If you choose to provide personally identifiable information regarding a potential order through our Web site, or through any unsecured method such as e-mail, please be aware that we do not provide for secured communications over the Internet, specifically recommend that you do not send sensitive data such as payment information to us over the Internet, and that we are not responsible for the secure transmittal or storage of such information over the Internet if you choose to do so. We recommend that payment information be shared directly with one of our employees, either in person or through our Customer Service telephone line at 800.301.9720. 
 
@@ -43,7 +43,7 @@ Anonymous, non-personally identifiable information such as your IP address, doma
 Our site may contain links to other Internet web sites that we think you may find of interest. We are not responsible for the content of these sites, nor do we control, sponsor, endorse or approve them. Your use of those links is at your own risk. 
 
 **Opting out**   
-If you request to receive information from us, we will naturally presume that you have given us permission to communicate with you about that information, either by postal mail, e-mail or telephone. Further, if you are engaged in transactions with one of our associates, and choose to use email or telephone for communications about that transaction, we will presume again that you have given us permission to communicate with you about that transaction. 
+If you request to receive information from us, we will naturally presume that you have given us permission to communicate with you about that information, either by postal mail, e-mail or telephone. Further, if you are engaged in transactions with one of our associates, and choose to use e-mail or telephone for communications about that transaction, we will presume again that you have given us permission to communicate with you about that transaction. 
 
 Apart from the above, you may opt-out of receiving future commercial communications from us. You may first do so at the point where we request information about you. 
 
@@ -52,7 +52,7 @@ If you would prefer not to receive our e-mail updates, please use the functional
 
 If you would prefer not to receive our catalogs in the postal mail, or if you are receiving extra copies that you do not need, e-mail us explaining your preferences. Please include your name and postal mailing address in the message or we may not be able to fulfill your request. 
 
-You can also call our Customer Service telephone line at 800.301.9720 to be removed from any of our lists, both email and postal mail. 
+You can also call our Customer Service telephone line at 800.301.9720 to be removed from any of our lists, both e-mail and postal mail. 
 
 **Correcting or updating your information**   
 Visit the following URL to correct, change or update your personally identifiable information for the Web site account:   
