@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studica.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231160516id_/http%3A//www.studica.com/support/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studica.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513161540id_/http%3A//www.studica.com/support/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Studica.com | Your Student Software Store
 
