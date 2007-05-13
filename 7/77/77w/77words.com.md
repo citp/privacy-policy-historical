@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 77words.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215073409id_/http%3A//77words.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 77words.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513074647id_/http%3A//77words.com/privacy.php) for the most accurate reproduction.*
 
 # 77words.com
 
