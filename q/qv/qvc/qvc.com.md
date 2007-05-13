@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qvc.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218011944id_/http%3A//www.qvc.com/qic/qvcapp.aspx/main.html.file.%257Cprivacypolicy%2Chtml%3Fcm_re%3DHP-_-COPYRIGHT-_-PRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qvc.com privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514001347id_/http%3A//www.qvc.com/qic/qvcapp.aspx/main.html.file.%257Cprivacypolicy%2Chtml%3Fcm_re%3DHP-_-COPYRIGHT-_-PRIVACY) for the most accurate reproduction.*
 
 # QVC Privacy Statement
 
@@ -105,7 +105,7 @@ You can always review your personal profile at QVC and correct or update it by g
 
 You can subscribe to or unsubscribe from E-newsletters and other promotional notices by going to the My Account area on the site and clicking on [E-mail Services](https://web.archive.org/qic/qvcapp.aspx/main.multi.file.%7Ccshtml%7Ccshome,asp/left.multi.file.%7Ccshtml%7Ccsmenu,asp).
 
-Our Customer Service Representatives are also ready to assist you in checking or changing your personal profile or removing your name from our contact lists. You can reach them through [LiveHELP](javascript:enterLivePerson\( 'qvc', 'qvc', 'GENERAL', '' \);) or [Automated Customer Service](https://www.qvc.com/qic/qvcapp.aspx/app.html/params.file.%7Ccshtml%7Ccs_help,html/left.multi.file.%7Ccshtml%7Ccs_helpmenu,asp), or by calling 1-888-345-5788 toll-free or writing to QVC, Inc., Customer Service, 1200 Wilson Drive at Studio Park, West Chester, PA 19380.
+Our Customer Service Representatives are also ready to assist you in checking or changing your personal profile or removing your name from our contact lists. You can reach them through [LiveHELP](javascript:enterLivePerson\( 'qvc', 'qvc', 'GENERAL', '' \);) or [Automated Customer Service](https://www-ssl.qvc.com/qic/qvcapp.aspx/app.html/params.file.%7Ccshtml%7Ccs_help,html/left.multi.file.%7Ccshtml%7Ccs_helpmenu,asp), or by calling 1-888-345-5788 toll-free or writing to QVC, Inc., Customer Service, 1200 Wilson Drive at Studio Park, West Chester, PA 19380.
 
 You can opt out of QVC’s use of cookies to recall information about you by setting your browser not to accept cookies or to disable cookies. You cannot access or change the non-personal information that QVC collects. However, you can opt out of the process by which certain categories of information are collected by clicking here.
 
