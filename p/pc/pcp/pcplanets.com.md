@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcplanets.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213200331id_/http%3A//www.pcplanets.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcplanets.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513172847id_/http%3A//www.pcplanets.com/privacy.shtml) for the most accurate reproduction.*
 
 # Free Music Video Codes | Thousands of Free Music Videos For MySpace, Xanga, or any Website
 
