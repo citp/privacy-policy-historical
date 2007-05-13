@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inktechnologies.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214023252id_/http%3A//inktechnologies.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inktechnologies.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513214329id_/http%3A//www.inktechnologies.com/privacy.html) for the most accurate reproduction.*
 
 # InkTechnologies.com - Privacy Statement
 
