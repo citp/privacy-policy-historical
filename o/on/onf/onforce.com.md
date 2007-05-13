@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onforce.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021100732id_/http%3A//www.onforce.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onforce.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513101739id_/http%3A//www.onforce.com/privacy) for the most accurate reproduction.*
 
-# OnForce - The Marketplace for Computer Repair Services, IT Rollouts & Technology Installations
+# OnForce Privacy & Security Policies
 
 | 
 
@@ -27,11 +27,11 @@ OnForce offers the ability to send friends emails about providing or purchasing 
   10. **Service Provider Profile**  
 As part of registration, you may set up your Online Office describing your computer experience, rates and qualifications. Some of the information requested in the Online Office registration is mandatory. If you decide to offer your services through OnForce, potential Service Buyers will look to your Online Office to help them decide whether to make use of your services. 
   11. **How We Use Registration Information**  
-We use Personally Identifiable Information for our own internal purposes including contacting you via email to inform you about updates to our services and providing you with information relating to e-commerce transactions that you conduct on the site. We reserve the right to disclose your information as required by law. We do not rent or sell our Users' Personally Identifiable Information to third parties. We do, however, provide you with the opportunity to receive communications via email. If you decide to opt-in to receive newsletters, you may opt out of receiving these newsletters at any time by modifying the Preferences section of your profile or sending a message to [unsubscribeonforce.com](https://web.archive.org/noharvestmailto.php?email=hafhofpevornmcdbjvqxnapwsvryxnfws.3vqw.qees.f33.pbz.betbasbepr.pbz "Send an email"). 
+We use Personally Identifiable Information for our own internal purposes including contacting you via email to inform you about updates to our services and providing you with information relating to e-commerce transactions that you conduct on the site. We reserve the right to disclose your information as required by law. We do not rent or sell our Users' Personally Identifiable Information to third parties. We do, however, provide you with the opportunity to receive communications via email. If you decide to opt-in to receive newsletters, you may opt out of receiving these newsletters at any time by modifying the Preferences section of your profile or sending a message to [unsubscribeonforce.com](mailto:unsubscribe@onforce.com). 
   12. **Use of General Data**  
 OnForce reserves the right to use the general data it obtains from Users' use of the system, including all statistical information. You acknowledge that such data belongs to OnForce and that OnForce shall have the right to use such data as it determines in its sole discretion. 
   13. **Advertising**  
-We may send you email communications including information that we may think may be of interest to you. You may opt out of receiving these email communications either when you register to become a Member, via the Preferences section of your profile, or by sending a message to [unsubscribeonforce.com](https://web.archive.org/noharvestmailto.php?email=hafhofpevornmcdbjvqxnapwsvryxnfws.3vqw.qees.f33.pbz.betbasbepr.pbz "Send an email") . We do not send any of your Personally Identifiable Information to our advertisers. You may see a cookie from a third-party banner server, and this cookie comes from the third-party banner server, not OnForce. Again, we do not pass along any Personally Identifiable Information to this party. 
+We may send you email communications including information that we may think may be of interest to you. You may opt out of receiving these email communications either when you register to become a Member, via the Preferences section of your profile, or by sending a message to [unsubscribeonforce.com](mailto:unsubscribe@onforce.com) . We do not send any of your Personally Identifiable Information to our advertisers. You may see a cookie from a third-party banner server, and this cookie comes from the third-party banner server, not OnForce. Again, we do not pass along any Personally Identifiable Information to this party. 
   14. **Co-Branded Services**  
 OnForce enters into co-branding relationships with third-party web sites and companies to provide products and services to our Users. OnForce may share your Personally Identifiable Information, including User ID and password, with certain co-branded third-party service or product providers as required to provide a specific product or service that you request from a co-branded page or co-branded site. However, these third-party partners may not use this Personally Identifiable Information for any reason other than to provide the service or product that the user has explicitly signed up for. If you join OnForce through a co-branded site (e.g., on a co-branded registration page), it is OnForce's general policy not to share anything other than summarized or aggregated data with the partner; however, any Personally Identifiable Information you provide may also be received by the co-branded site and could be stored and used by the co-branded service or product provider according to their privacy policy. Please take the time to review these third-party privacy policies. 
   15. **Third Party Intermediaries**  
@@ -49,33 +49,11 @@ This Site gives the following options for changing and modifying information pre
     1. You may update your registration information using the appropriate tools in the OnForce navigation bar.
     2. You may update your credit card information using the appropriate page, on the site.
   
-For other requests, please contact [supportonforce.com](https://web.archive.org/noharvestmailto.php?email=fhccbegnmcdbjvqxnapwsvryxnfws.3vqw.qees.f33.pbz.betbasbepr.pbz "Send an email"). 
+For other requests, please contact [supportonforce.com](mailto:support@onforce.com). 
   21. **Legal Disclaimer**  
 Though we make every effort to preserve user privacy, we may need to disclose your Personally Identifiable Information when required by law when we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process. 
   22. **Contacting Us**  
 If you have any questions about this Privacy Agreement or the practices of this Site, you may contact us at OnForce Support or write to our office. 
 
-| 
-
-## Register as an OnForce Buyer
-
-Gain immediate access to 10,000+ highly-qualified service providers. Rollouts. Installations. Upgrades. Break-fix work. Free to join.
-
-[](https://web.archive.org/view/buyers/section/signup)  
-
-
-## Become an OnForce Provider
-
-We have built America's largest marketplace for IT services. Access work orders from thousands of buyers. Free to join.
-
-[](https://web.archive.org/view/providers/section/signup)  
-
-
-## Explore the Marketplace
-
-Experience The Power of ON for yourself. Search our database for real-world providers and completed work orders by location and keyword.
-
-[](https://web.archive.org/action/marketplace)  
-  
-  
+|   
 ---|---|---
