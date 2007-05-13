@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexy-employee.com privacy policy that was archived on 2006-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061112060857id_/http%3A//www.sexy-employee.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexy-employee.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513081058id_/http%3A//sexy-employee.com/privacy.html) for the most accurate reproduction.*
 
 # Sexy-Employee.com - Privacy Policy
 
