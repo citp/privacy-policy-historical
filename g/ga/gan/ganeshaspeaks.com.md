@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ganeshaspeaks.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207062219id_/http%3A//ganeshaspeaks.com/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ganeshaspeaks.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513035920id_/http%3A//www.ganeshaspeaks.com/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Free Astrology, Free Horoscope by GaneshaSpeaks.com
 
@@ -38,7 +38,7 @@ You can delete your profile at any time by clicking on the "deleteâ€ link.
 **Contacting us**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact us at [contact@ganeshaspeaks.com](mailto:contact@ganeshaspeaks.com).  
   
-[home](https://web.archive.org/web/20061207062219id_/http%3A//ganeshaspeaks.com/)  
+[home](https://web.archive.org/web/20070513035920id_/http%3A//www.ganeshaspeaks.com/)  
   
 |  |   
   
