@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the netmums.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205184552id_/http%3A//netmums.com/cm/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netmums.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513154639id_/http%3A//www.netmums.com/cm/privacy.htm) for the most accurate reproduction.*
 
-# netmums in your area?
+# Netmums Privacy Policy.
 
 ### **Netmums Privacy Policy**
 
