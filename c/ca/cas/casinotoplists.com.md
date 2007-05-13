@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the casinotoplists.com privacy policy that was archived on 2006-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061109041935id_/http%3A//www.casinotoplists.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinotoplists.com privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514014850id_/http%3A//www.casinotoplists.com/privacy-policy) for the most accurate reproduction.*
 
-# CasinoToplists
+# 
 
 |  | 
 
