@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kultofathena.com privacy policy that was archived on 2006-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061105093149id_/http%3A//kultofathena.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kultofathena.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513164337id_/http%3A//kultofathena.com/privacy.html) for the most accurate reproduction.*
 
 # Kult Of Athena - Privacy Policy
 
