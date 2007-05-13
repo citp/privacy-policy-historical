@@ -1,13 +1,14 @@
-> *The following text is extracted and transformed from the reghardware.com privacy policy that was archived on 2006-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061029204620id_/http%3A//www.reghardware.com/Design/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reghardware.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513164717id_/http%3A//www.reghardware.com/Design/page/privacy) for the most accurate reproduction.*
 
 # Your Privacy and Reg Hardware
 
 ### Reg Hardware is owned and operated by Situation Publishing.
 
 Situation Publishing  
-67/69 Whitfield Street  
+5th Floor  
+33 Charlotte Street  
 London  
-W1T 4HF
+W1T 1RR
 
 Reg Hardware strongly believes in the importance of keeping readers' personal information personal. It will never use your information for any use beyond that stated or the permissions you give us.
 
@@ -103,9 +104,10 @@ If you wish to contact Situation Publishing regarding any aspect of the Privacy 
 
 The Data Controller   
 Situation Publishing   
-410 The Bon Marche Centre   
+5th Floor   
+33 Charlotte Street   
 London   
-SW9 8BJ
+W1T 1RR
 
 ### By Email
 
