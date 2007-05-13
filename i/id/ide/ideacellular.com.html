@@ -1,0 +1,1799 @@
+<!--The following is the downloaded HTML source of the ideacellular.com privacy policy that was archived on 2007-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070513193433id_/http%3A//www.ideacellular.com/IDEA.portal%3F_nfpb%3Dtrue%26portlet_MyIdeaController_5_actionOverride%3D%252FIDEA%252Fcontent%252FmyIdea%252FdisplayContent%26_windowLabel%3Dportlet_MyIdeaController_5%26portlet_MyIdeaController_5displayParam%3Dprivacy_policy.html%26_pageLabel%3DIDEA_Page_AboutIdea) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
+
+
+<title>!DEA - An !dea can change your life...</title><meta name="bea-portal-meta-skeleton" content="/framework/skeletons/idea"><meta name="bea-portal-meta-skin" content="/framework/skins/idea"><meta name="bea-portal-meta-skin-images" content="/framework/skins/idea/images"><link href="/framework/skins/idea/css/body.css" rel="stylesheet" type="text/css"><link href="/framework/skins/idea/css/button.css" rel="stylesheet" type="text/css"><link href="/framework/skins/idea/alert/css/window-alert.css" rel="stylesheet" type="text/css"><link href="/framework/skins/idea/css/window.css" rel="stylesheet" type="text/css"><link href="/framework/skins/idea/plain/css/window-plain.css" rel="stylesheet" type="text/css"><link href="/framework/skins/idea/css/portlet.css" rel="stylesheet" type="text/css"><link href="/framework/skins/idea/css/book.css" rel="stylesheet"><link href="/framework/skins/idea/css/layout.css" rel="stylesheet" type="text/css"><link href="/framework/skins/idea/css/form.css" rel="stylesheet" type="text/css"><script type="text/javascript" src="/framework/skins/idea/js/menu.js"></script><script type="text/javascript" src="/framework/skins/idea/js/util.js"></script><script type="text/javascript" src="/framework/skins/idea/js/delete.js"></script><script type="text/javascript" src="/framework/skins/idea/js/float.js"></script><script type="text/javascript" src="/framework/skins/idea/js/menufx.js"></script><script type="text/javascript" src="/framework/skins/idea/js/skin.js"></script>
+
+
+
+	</head>
+
+
+
+
+
+<body class="bea-portal-body" onload="initSkin();"><div class="bea-portal-body-content">
+
+
+<table style="vertical-align: top; width: 100%;"><tbody><tr><td style="vertical-align: top; width: 30%;" valign="top">
+
+
+
+
+
+
+    
+    <div class="bea-portal-body-header">
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+<script>
+
+function checkHeaderForm()
+{
+    //alert("check form");
+    var mobileNo = document.loginCheckHeaderForm.mobileNo.value;
+    var pass = document.loginCheckHeaderForm.password.value;
+    
+    if(mobileNo =="")
+    {
+        alert("Enter Mobile Number");
+        return false;
+    }
+    else if(mobileNo != "")
+    {
+        if(mobileNo.length <10)
+        {
+            alert("Enter Valid Mobile Number");
+            return false;
+        }
+        else 
+        {
+                RefString =	"0123456789";
+                var expVal = mobileNo;
+                var retval = false;
+                for (var i = 0; i < expVal.length; i++) 
+                {        
+                    var ch = expVal.substr(i, 1);
+                    var a = RefString.indexOf(ch, 0);
+                    if (a == -1) 
+                    {            
+                        document.loginCheckHeaderForm.mobileNo.value = "";
+                        //document.loginCheckHeaderForm.mobileNo.focus();
+                        retval = true;
+                    }
+                }
+            if(retval)
+            {
+                alert("Enter Valid Mobile Number");
+                //document.loginCheckHeaderForm.password.focus();
+                return false;
+            }
+
+
+        }
+    }
+    if(pass =="")
+    {
+        alert("Enter Password");
+        return false;
+    }
+    if(pass !="")
+    {
+        if(pass.length<8)
+        {
+            alert("Enter Valid Password");
+            return false;
+        }
+    }
+    document.loginCheckHeaderForm.submit();
+    
+}
+
+
+function getCommonContent(val)
+	{
+		var cCode = val;
+        //alert(cCode);
+        document.commonContentForm.contentName.value=cCode;
+        document.commonContentForm.submit();
+	}
+
+function setCircleSession(circle)
+{
+    //alert(circle.value);
+    var cCode = circle.value;
+    if(cCode=="")
+    {
+        alert("Please Select the circles");
+        return false;
+    }
+    
+    document.circleSelectionForm.topcircleCode.value=cCode;
+    document.circleSelectionForm.submit();
+    
+}
+</script>
+<form name="commonContentForm" method="post" action="../../dynamicCircle.jsp">
+    <input type="hidden" name="pageLabel" value="IDEA_Page_Content">
+    <input type="hidden" name="contentName">
+</form>
+
+<form name="registerSubmitForm" method="post" action="../../homeRegister.jsp">
+    <input type="hidden" name="regMobileNo">
+    <input type="hidden" name="pageLabel" value="IDEA_Page_Registration">
+</form>
+
+<table width="780" height="54" border="0" cellpadding="0" cellspacing="0" bgcolor="#3171AF">
+  <tbody><tr> 
+    <td width="29" rowspan="2" align="left" valign="top">
+        <img src="images/top_nav_curve_left.gif" width="29" height="54">
+    </td>
+    <td width="374" rowspan="2" align="left" valign="top"> 
+        <table width="374" height="55" border="0" cellpadding="0" cellspacing="0" background="images/top_nav_bg.gif">
+        <tbody><tr> 
+            <td width="54" height="16" rowspan="2" align="left" valign="middle" colspan="1">
+                <img src="images/top_my_idea.gif" width="54" height="16">
+            </td>
+            <!--- user not logged in then show the input fileds -->
+            
+            <form name="loginCheckHeaderForm" method="post" action="../../toplogin.jsp"></form>
+            <input type="hidden" name="numcheck" value="true">
+
+            <td width="63" height="35" valign="middle" align="right" class="myidea-top" rowspan="2"> 
+                Mobile No.
+            </td>
+            <td width="63" align="right" valign="bottom"> 
+                <input name="mobileNo" type="text" class="textbox" size="13" maxlength="10">
+            </td>
+            <td width="53" valign="bottom" class="myidea-top" align="right">
+                Password
+            </td>
+            <td width="63" valign="bottom"> 
+                <input name="password" type="password" class="textbox" size="13" maxlength="14"> 
+            </td>
+            <td width="36" rowspan="2" valign="middle">
+            <!-- <button type="button" value="Submit"  >Submit</button> -->
+           <a href="#" onclick="return checkHeaderForm()">
+            <img border="0" src="images/top_nav_go.gif" width="35" height="20" id="homeLoginImg" onfocus="checkLoginFields()">
+            </a> 
+            </td>
+            
+        </tr>
+        <tr> 
+         
+            <td align="right" colspan="3" class="forgotpassword">&nbsp; &nbsp;&nbsp; &nbsp;<a href="http://www.ideacellular.com:80/IDEA.portal;jsessionid=GHpMJSBCT45vZspPMcwL1zppQLtphhk0Sh0ddQY3pWpqqCTcWGMn!-1761658451!-530197313?_nfpb=true&amp;_pageLabel=IDEA_Page_ForgotPassword" class="forgotpassword">Forgot password?</a> 
+            <a href="http://www.ideacellular.com:80/IDEA.portal;jsessionid=GHpMJSBCT45vZspPMcwL1zppQLtphhk0Sh0ddQY3pWpqqCTcWGMn!-1761658451!-530197313?_nfpb=true&amp;_pageLabel=IDEA_Page_Login" class="forgotpassword">Register</a></td>
+                    </tr>
+        </tbody></table>
+        
+    </td>
+<!-- <p align="center" style="text-align: center" > -->
+
+ <td width="19" rowspan="2" valign="top"><img src="images/top_nav_curve_right.gif" width="11" height="54"></td>
+
+    <td width="358" valign="center"> 
+        
+<!-- Top Header Customer care & Contact us Menus	-->	
+	
+	<a onmousemove="MM_showHideLayers('CustomerCare','','show','ContactUs','','hide',
+'AboutIdea','','hide','Prepaid','','hide','Postpaid','','hide','IdeaServices','','hide','Media','','hide','Careers','','hide')" href="http://www.ideacellular.com:80/IDEA.portal;jsessionid=GHpMJSBCT45vZspPMcwL1zppQLtphhk0Sh0ddQY3pWpqqCTcWGMn!-1761658451!-530197313?_nfpb=true&amp;_pageLabel=IDEA_Page_CustomerCare" class="globallinks">
+						Customer Care</a>
+
+<font style="FONT-SIZE: 8pt" face="Verdana" color="#ffffff">|</font>
+
+<a onmouseover="MM_showHideLayers('CustomerCare','','hide','ContactUs','','show',
+'AboutIdea','','hide','Prepaid','','hide','Postpaid','','hide','IdeaServices','','hide','Media','','hide','Careers','','hide')" href="http://www.ideacellular.com:80/IDEA.portal;jsessionid=GHpMJSBCT45vZspPMcwL1zppQLtphhk0Sh0ddQY3pWpqqCTcWGMn!-1761658451!-530197313?_nfpb=true&amp;_pageLabel=IDEA_Page_ContactUs" class="globallinks">
+						Contact Us</a>
+
+<!-- Ends Customer care and Contact Us Menus	-->	        
+           
+           
+            <font face="Verdana" style="font-size: 8pt" color="#FFFFFF">|</font>
+        <a href="http://www.ideacellular.com:80/IDEA.portal;jsessionid=GHpMJSBCT45vZspPMcwL1zppQLtphhk0Sh0ddQY3pWpqqCTcWGMn!-1761658451!-530197313?_nfpb=true&amp;_pageLabel=IDEA_Page_FAQ" class="globallinks" onmouseover="MM_showHideLayers('CustomerCare','','hide','ContactUs','','hide','AboutIdea','','hide','Prepaid','','hide','Postpaid','','hide','IdeaServices','','hide','Media','','hide','Careers','','hide')">FAQs</a>
+           <font face="Verdana" style="font-size: 8pt" color="#FFFFFF">|</font>
+        <a href="http://www.ideacellular.com:80/IDEA.portal;jsessionid=GHpMJSBCT45vZspPMcwL1zppQLtphhk0Sh0ddQY3pWpqqCTcWGMn!-1761658451!-530197313?_nfpb=true&amp;_pageLabel=IDEA_Page_Sitemap" class="globallinks" onmouseover="MM_showHideLayers('CustomerCare','','hide','ContactUs','','hide','AboutIdea','','hide','Prepaid','','hide','Postpaid','','hide','IdeaServices','','hide','Media','','hide','Careers','','hide')">Sitemap</a>
+             
+        
+        <font face="Verdana" style="font-size: 8pt" color="#FFFFFF">|</font>
+        <a href="http://secure.ideacellular.com" class="globallinks" target="_blank" onmouseover="MM_showHideLayers('CustomerCare','','hide','ContactUs','','hide','AboutIdea','','hide','Prepaid','','hide','Postpaid','','hide','IdeaServices','','hide','Media','','hide','Careers','','hide')">Enterprise</a>  
+        
+    </td>
+    
+</tr>
+
+</tbody></table>
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+
+
+
+
+
+
+
+    
+    <div class="bea-portal-book-primary">
+        
+
+
+
+
+
+
+
+    
+    <div class="bea-portal-ie-table-buffer-div">
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tbody><tr>
+                <td class="bea-portal-book-primary-menu-container" align="left" nowrap="nowrap">
+                    <ul class="bea-portal-book-primary-menu">
+
+
+
+
+</ul>
+                </td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+            </tr>
+        </tbody></table>
+    </div>
+    
+
+
+        
+        <div class="bea-portal-book-primary-content">
+
+
+
+
+
+
+
+
+
+    
+    <div class="bea-portal-book-invisible">
+        
+        
+        <div class="bea-portal-book-content">
+
+
+
+
+
+
+
+
+
+    
+    <div class="bea-portal-book-page">
+
+
+
+
+
+
+
+
+    
+    <table class="bea-portal-layout-border" cellspacing="0">
+    
+        <tbody><tr>
+            
+            <td class="bea-portal-layout-placeholder-container-north" colspan="2" width="780px">
+
+<div class="bea-portal-layout-placeholder">
+
+
+
+
+
+
+
+    
+    <div class="bea-portal-window" width="100%">
+        
+        
+<div class="bea-portal-window-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+  
+
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+
+
+<tbody><tr valign="top"> 
+    
+    <td rowspan="2"><img src="/ShowBinary/BEA Repository/idea/Images/flash_subpage.jpg" width="591" height="227"></td>
+    
+    <!-- <td width="1" height="174" bgcolor="#FFFFFF"></td> -->
+    <td valign="top" class="topmenumainbg">
+        <table border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td height="1" colspan="2" class="menudividerbit"></td>
+        </tr>
+        
+            <tr> 
+              <td width="26" height="20"><img src="images/top_menu_bullet.gif" width="26" height="20"></td>
+              <td width="163" class="topmenuactive">
+                <a href="http://www.ideacellular.com:80/IDEA.portal;jsessionid=GHpMJSBCT45vZspPMcwL1zppQLtphhk0Sh0ddQY3pWpqqCTcWGMn!-1761658451!-530197313?_nfpb=true&amp;_pageLabel=IDEA_Page_Home" class="topmenu" onmouseover="MM_showHideLayers('CustomerCare','','hide','ContactUs','','hide','AboutIdea','','hide','Prepaid','','hide','Postpaid','','hide','IdeaServices','','hide','Media','','hide','Careers','','hide')">Home</a>
+              </td>
+            </tr>
+        
+        <tr> 
+          <td height="1" colspan="2" class="menudividerbit"></td>
+        </tr>
+        
+            <tr class="topmenudarkbluebg"> 
+              <td width="26" height="20"><img src="images/top_menu_active_bullet.gif" width="26" height="20"></td>
+              <td width="163" class="topmenu">
+                
+                <a href="http://www.ideacellular.com:80/IDEA.portal;jsessionid=GHpMJSBCT45vZspPMcwL1zppQLtphhk0Sh0ddQY3pWpqqCTcWGMn!-1761658451!-530197313?_nfpb=true&amp;_pageLabel=IDEA_Page_AboutIdea" class="topmenu" onmouseover="MM_showHideLayers('CustomerCare','','hide','ContactUs','','hide','AboutIdea','','show','Prepaid','','hide','Postpaid','','hide','IdeaServices','','hide','Media','','hide','Careers','','hide')">About
+            Idea</a>
+                
+              </td>
+            </tr>
+        
+        
+        
+        <tr> 
+          <td height="1" colspan="2" class="menudividerbit"></td>
+        </tr>
+        
+        
+            <tr> 
+              <td width="26" height="20"><img src="images/top_menu_bullet.gif" width="26" height="20"></td>
+              <td class="topmenuactive">
+                <a href="http://www.ideacellular.com:80/IDEA.portal;jsessionid=GHpMJSBCT45vZspPMcwL1zppQLtphhk0Sh0ddQY3pWpqqCTcWGMn!-1761658451!-530197313?_nfpb=true&amp;_pageLabel=IDEA_Page_ContentPrepaid" class="topmenu" onmouseover="MM_showHideLayers('CustomerCare','','hide','ContactUs','','hide','AboutIdea','','hide','Prepaid','','hide','Postpaid','','hide','IdeaServices','','hide','Media','','hide','Careers','','hide')">Prepaid</a>
+              </td>
+            </tr>
+        
+        
+        <tr> 
+          <td height="1" colspan="2" class="menudividerbit"></td>
+        </tr>
+        
+        
+            <tr> 
+              <td width="26" height="20"><img src="images/top_menu_bullet.gif" width="26" height="20"></td>
+              <td class="topmenuactive">
+              <!-- onMouseOver="MM_showHideLayers('CustomerCare','','hide','ContactUs','','hide','AboutIdea','','hide','Prepaid','','hide','Postpaid','','show','IdeaServices','','hide','Media','','hide','Careers','','hide')" -->
+                <a href="http://www.ideacellular.com:80/IDEA.portal;jsessionid=GHpMJSBCT45vZspPMcwL1zppQLtphhk0Sh0ddQY3pWpqqCTcWGMn!-1761658451!-530197313?_nfpb=true&amp;_pageLabel=IDEA_Page_ContentPostpaid" class="topmenu" onmouseover="MM_showHideLayers('CustomerCare','','hide','ContactUs','','hide','AboutIdea','','hide','Prepaid','','hide','Postpaid','','hide','IdeaServices','','hide','Media','','hide','Careers','','hide')">Postpaid</a>
+              </td>
+            </tr>
+        
+        
+        <tr> 
+          <td height="1" colspan="2" class="menudividerbit"></td>
+        </tr>
+        
+                <tr> 
+                  <td width="26" height="20"><img src="images/top_menu_bullet.gif" width="26" height="20"></td>
+                  <td class="topmenuactive"><a href="http://www.ideacellular.com:80/IDEA.portal;jsessionid=GHpMJSBCT45vZspPMcwL1zppQLtphhk0Sh0ddQY3pWpqqCTcWGMn!-1761658451!-530197313?_nfpb=true&amp;_pageLabel=IDEA_Page_Login" class="topmenu" onmouseover="MM_showHideLayers('CustomerCare','','hide','ContactUs','','hide','AboutIdea','','hide','Prepaid','','hide','Postpaid','','hide','IdeaServices','','hide','Media','','hide','Careers','','hide')">My Idea</a></td>
+                </tr>
+        
+        <tr> 
+          <td height="1" colspan="2" class="menudividerbit"></td>
+        </tr>  
+        
+            <tr> 
+              <td width="26" height="20"><img src="images/top_menu_bullet.gif" width="26" height="20"></td>
+              <td class="topmenuactive">
+                <a href="http://www.ideacellular.com:80/IDEA.portal;jsessionid=GHpMJSBCT45vZspPMcwL1zppQLtphhk0Sh0ddQY3pWpqqCTcWGMn!-1761658451!-530197313?_nfpb=true&amp;_pageLabel=IDEA_Page_ValueAddedServices" class="topmenu" onmouseover="MM_showHideLayers('CustomerCare','','hide','ContactUs','','hide','AboutIdea','','hide','Prepaid','','hide','Postpaid','','hide','IdeaServices','','show','Media','','hide','Careers','','hide')">Idea Services</a>
+              </td>
+            </tr>
+        
+        <tr> 
+          <td height="1" colspan="2" class="menudividerbit"></td>
+        </tr>
+        
+   
+      
+         
+            <tr> 
+              <td width="26" height="20"><img src="images/top_menu_bullet.gif" width="26" height="20"></td>
+              <td class="topmenuactive">
+                <a href="http://www.ideacellular.com:80/IDEA.portal;jsessionid=GHpMJSBCT45vZspPMcwL1zppQLtphhk0Sh0ddQY3pWpqqCTcWGMn!-1761658451!-530197313?_nfpb=true&amp;_pageLabel=IDEA_Page_Investors" class="topmenu" onmouseover="MM_showHideLayers('CustomerCare','','hide','ContactUs','','hide','AboutIdea','','hide','Prepaid','','hide','IdeaServices','','hide','Media','','show','Careers','','hide')">Investors</a>
+              </td>
+            </tr>
+        
+        
+        
+        <tr> 
+          <td height="1" colspan="2" class="menudividerbit"></td>
+        </tr>
+        
+      
+ 
+        
+        
+        
+        
+        
+        
+        
+            <tr> 
+              <td width="26" height="20"><img src="images/top_menu_bullet.gif" width="26" height="20"></td>
+              <td class="topmenuactive">
+                <a href="http://www.ideacellular.com:80/IDEA.portal;jsessionid=GHpMJSBCT45vZspPMcwL1zppQLtphhk0Sh0ddQY3pWpqqCTcWGMn!-1761658451!-530197313?_nfpb=true&amp;_pageLabel=IDEA_Page_Careers" class="topmenu" onmouseover="MM_showHideLayers('CustomerCare','','hide','ContactUs','','hide','AboutIdea','','hide','Prepaid','','hide','Postpaid','','hide','IdeaServices','','hide','Media','','hide','Careers','','show')">Careers</a>
+              </td>
+            </tr>
+        
+        <tr> 
+          <td height="1" colspan="2" class="menudividerbit"></td>
+        </tr>
+        </tbody></table>
+    </td>
+</tr>
+
+
+<tr> 
+        
+
+
+        <td colspan="2" valign="top">
+         <img src="images/top_menu_bottom_subpage.jpg" width="189" height="58" border="0">
+        </td>        
+
+</tr>
+</tbody></table>
+
+
+ <div id="dummyDiv" onmouseover="MM_showHideLayers('AboutIdea','','hide','Prepaid','','hide','Postpaid','','hide','IdeaServices','','hide','Media','','hide','Careers','','hide')">&nbsp;</div>
+    <div id="dummyDiv1" onmouseover="MM_showHideLayers('CustomerCare','','hide','ContactUs','','hide','CustomerCare','','hide','ContactUs','','hide','AboutIdea','','hide','Prepaid','','hide','Postpaid','','hide','IdeaServices','','hide','Media','','hide','Careers','','hide')">&nbsp;</div>
+    <div id="dummyDiv2" onmouseover="MM_showHideLayers('AboutIdea','','hide','Prepaid','','hide','Postpaid','','hide','IdeaServices','','hide','Media','','hide','Careers','','hide')">&nbsp;</div>
+    <div id="dummyDiv3" onmouseover="MM_showHideLayers('AboutIdea','','hide','Prepaid','','hide','Postpaid','','hide','IdeaServices','','hide','Media','','hide','Careers','','hide')">&nbsp;</div>
+    <div id="dummyDiv4" onmouseover="MM_showHideLayers('CustomerCare','','hide','ContactUs','','hide','AboutIdea','','hide','Prepaid','','hide','Postpaid','','hide','IdeaServices','','hide','Media','','hide','Careers','','hide')">&nbsp;</div>
+
+
+<div id="CustomerCare">
+  <table cellspacing="1" cellpadding="1" width="130" align="center" border="0">
+  <tbody>
+       <tr>
+         <td bgcolor="#fefeb7">&nbsp;&nbsp;<a class="footer" href="/IDEA.portal?_nfpb=true&amp;_pageLabel=IDEA_Page_CustomerCare">Customer Care</a>
+		</td>
+        </tr>
+        <tr>
+         <td bgcolor="#fefeb7">&nbsp;
+		<a class="footer" href="/IDEA.portal?_nfpb=true&amp;portlet_MyIdeaController_24_actionOverride=%2FIDEA%2Fcontent%2FmyIdea%2FdisplayContent&amp;_windowLabel=portlet_MyIdeaController_24&amp;portlet_MyIdeaController_24displayParam=customerRedressal.html&amp;_pageLabel=IDEA_Page_CustomerCare">Customer Redressal </a>
+		 </td></tr></tbody></table>
+</div>
+
+<div id="ContactUs">
+  <table cellspacing="1" cellpadding="1" width="100" align="center" border="0">
+  <tbody>
+       <tr>
+         <td bgcolor="#fefeb7">&nbsp;&nbsp;<a class="footer" onclick="callcontactuslinks('contact us');" href="http://www.ideacellular.com:80/IDEA.portal;jsessionid=GHpMJSBCT45vZspPMcwL1zppQLtphhk0Sh0ddQY3pWpqqCTcWGMn!-1761658451!-530197313?_nfpb=true&amp;_pageLabel=IDEA_Page_ContactUs">Contact us</a>
+		</td></tr>
+       <tr>
+         <td bgcolor="#fefeb7">&nbsp;&nbsp;
+		 <a class="footer" onclick="callcontactuslinks('write to us');" href="http://www.ideacellular.com:80/IDEA.portal;jsessionid=GHpMJSBCT45vZspPMcwL1zppQLtphhk0Sh0ddQY3pWpqqCTcWGMn!-1761658451!-530197313?_nfpb=true&amp;_pageLabel=IDEA_Page_PreLoginQueries">Write to us</a>
+		 </td></tr>
+		     <tr>
+         <td bgcolor="#fefeb7">&nbsp;&nbsp;
+		 <a class="footer" onclick="callcontactuslinks('do not disturb');" href="http://www.ideacellular.com:80/IDEA.portal;jsessionid=GHpMJSBCT45vZspPMcwL1zppQLtphhk0Sh0ddQY3pWpqqCTcWGMn!-1761658451!-530197313?_nfpb=true&amp;_pageLabel=IDEA_Page_DoNotDisturb">Do not disturb</a>
+		 </td></tr>
+         <tr>
+         <td bgcolor="#fefeb7">&nbsp;&nbsp;
+		 <a class="footer" onclick="callcontactuslinks('ideaNU');" href="http://www.ideacellular.com:80/IDEA.portal;jsessionid=GHpMJSBCT45vZspPMcwL1zppQLtphhk0Sh0ddQY3pWpqqCTcWGMn!-1761658451!-530197313?_nfpb=true&amp;_pageLabel=IDEA_Page_IDEANew">Idea 'N' U</a>
+		 </td></tr>
+		 
+		 </tbody></table>
+</div>
+
+<div id="AboutIdea">
+  <table width="145" border="0" cellpadding="1" cellspacing="1" align="center">
+    <tbody><tr>
+      <td bgcolor="#FEFEB7">&nbsp;&nbsp;
+        <a href="#" class="footer" onclick="callIdeaTopLinks('company information')">Company Information
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td bgcolor="#FEFEB7">&nbsp;&nbsp;
+        <a href="#" class="footer" onclick="callIdeaTopLinks('history')">
+        History
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td bgcolor="#FEFEB7">&nbsp;&nbsp;
+        <a href="#" class="footer" onclick="callIdeaTopLinks('ourVision')">
+        Our Mission
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td bgcolor="#FEFEB7">&nbsp;&nbsp;
+      <a href="#" class="footer" onclick="callIdeaTopLinks('keyPeople')">Key People</a></td>
+    </tr>
+    <tr>
+      <td bgcolor="#FEFEB7">&nbsp;&nbsp;
+      <a href="#" class="footer" onclick="callIdeaTopLinks('ourPartners')">Our Partners</a></td>
+    </tr>
+    <!--<tr>
+      <td bgcolor="#FEFEB7">&nbsp;&nbsp;
+            <a href="#"class="footer"  onclick="callIdeaTopLinks('regulatoryInformation')">Regulatory Information</a></td>
+    </tr> -->
+    <tr>
+      <td bgcolor="#FEFEB7">&nbsp;&nbsp;
+      <a href="#" class="footer" onclick="callIdeaTopLinks('coverage')">Coverage</a></td>
+    </tr>
+    <!--
+    <tr>
+      <td bgcolor="#FEFEB7">&nbsp;&nbsp;
+      <a href="#"class="footer" onclick="callIdeaTopLinks('ideaYellowPages')">Idea Yellow Pages</a></td>
+    </tr>
+    
+    <tr>
+      <td bgcolor="#FEFEB7">&nbsp;&nbsp;
+      <a href="#"class="footer" onclick="callIdeaTopLinks('glossary')">Glossary</a></td>
+    </tr>
+    <tr>
+      <td bgcolor="#FEFEB7">&nbsp;&nbsp;
+      <a href="#"class="footer" onclick="callIdeaTopLinks('cellularEtiquette')">Cellular Etiquette </a></td>
+    </tr>-->
+    <tr>
+      <td bgcolor="#FEFEB7">&nbsp;&nbsp;
+      <a href="#" class="footer" onclick="callIdeaTopLinks('brandInformation')">Brand Information</a></td>
+    </tr>
+    <tr>
+      <td bgcolor="#FEFEB7">&nbsp;&nbsp;
+      <a href="#" class="footer" onclick="callIdeaTopLinks('ourValues')">Our Values</a></td>
+    </tr>
+    <tr>
+      <td bgcolor="#FEFEB7">&nbsp;&nbsp;
+      <a href="#" class="footer" onclick="callIdeaTopLinks('ourPromoters')">Our Promoters </a></td>
+    </tr>
+    
+    
+    
+   
+    
+    <tr>
+      <td bgcolor="#FEFEB7">&nbsp;&nbsp;&nbsp;<a href="http://www.ideacellular.com:80/IDEA.portal;jsessionid=GHpMJSBCT45vZspPMcwL1zppQLtphhk0Sh0ddQY3pWpqqCTcWGMn!-1761658451!-530197313?_nfpb=true&amp;_pageLabel=IDEA_Page_IdeainMedia" class="footer">Idea in media</a></td>
+    </tr>
+    
+    
+    
+    
+    
+  </tbody></table>
+</div>
+<div id="Prepaid">
+  <table width="145" border="0" cellpadding="1" cellspacing="1" align="center">
+    <tbody><tr>
+      <td bgcolor="#FEFEB7">&nbsp;&nbsp;<a href="#" class="footer" onclick="callPrepaidIdeaTopLinks('compare')">Prepaid Plans</a></td>
+    </tr>
+    <tr>
+      <td bgcolor="#FEFEB7">&nbsp;&nbsp;<a href="#" class="footer" onclick="callPrepaidIdeaTopLinks('compare')">Compare Plans</a></td>
+    </tr>
+  </tbody></table>
+</div>
+<div id="Postpaid">
+  <table width="145" border="0" cellpadding="1" cellspacing="1" align="center">
+    <tbody><tr>
+      <td bgcolor="#FEFEB7">&nbsp;&nbsp;<a href="#" class="footer" onclick="callPostpaidIdeaTopLinks('compare');">Postpaid Plans</a></td>
+    </tr>
+    <tr>
+      <td bgcolor="#FEFEB7">&nbsp;&nbsp;<a href="#" class="footer" onclick="callPostpaidIdeaTopLinks('compare');">Compare
+      Plans</a> </td>
+    </tr>
+    
+  </tbody></table>
+</div>
+<div id="IdeaServices">
+  <table width="145" border="0" cellpadding="1" cellspacing="1" align="center">
+    <tbody><tr>
+      <td bgcolor="#FEFEB7">&nbsp;&nbsp;<a href="http://www.ideacellular.com:80/IDEA.portal;jsessionid=GHpMJSBCT45vZspPMcwL1zppQLtphhk0Sh0ddQY3pWpqqCTcWGMn!-1761658451!-530197313?_nfpb=true&amp;_pageLabel=IDEA_Page_ValueAddedServices" class="footer">Value added services</a></td>
+    </tr>
+    <tr>
+      <td bgcolor="#FEFEB7">&nbsp;&nbsp;<a href="http://www.ideacellular.com:80/IDEA.portal;jsessionid=GHpMJSBCT45vZspPMcwL1zppQLtphhk0Sh0ddQY3pWpqqCTcWGMn!-1761658451!-530197313?_nfpb=true&amp;_pageLabel=IDEA_Page_Roaming" class="footer">Roaming</a></td>
+    </tr>
+    
+    <tr>
+      <td bgcolor="#FEFEB7">&nbsp;&nbsp;<a href="http://www.ideacellular.com:80/IDEA.portal;jsessionid=GHpMJSBCT45vZspPMcwL1zppQLtphhk0Sh0ddQY3pWpqqCTcWGMn!-1761658451!-530197313?_nfpb=true&amp;_pageLabel=IDEA_Page_CallManagement" class="footer">Call Management Services</a></td>
+    </tr>
+    <tr>
+      <td bgcolor="#FEFEB7">&nbsp;&nbsp;<a href="http://www.ideacellular.com:80/IDEA.portal;jsessionid=GHpMJSBCT45vZspPMcwL1zppQLtphhk0Sh0ddQY3pWpqqCTcWGMn!-1761658451!-530197313?_nfpb=true&amp;_pageLabel=IDEA_Page_Bills" class="footer">Bills and Payments</a></td>
+    </tr>
+  </tbody></table>
+</div>
+
+
+
+<div id="Media">
+  <table width="145" border="0" cellpadding="1" cellspacing="1" align="center">
+    <tbody><tr>
+      <td bgcolor="#FEFEB7">&nbsp;&nbsp;<a href="#" class="footer" onclick="callInvestorIdeaTopLinks1('investors');">Listing Information </a></td>
+    </tr>   
+    <tr>
+      <td bgcolor="#FEFEB7">&nbsp;&nbsp;<a href="#" class="footer" onclick="callShareIdeaTopLinks1('share');">Share Holding Pattern </a></td>
+    </tr>
+    
+    <tr>
+      <td bgcolor="#FEFEB7">&nbsp;&nbsp;<a href="#" class="footer" onclick="callInvestorResultsIdeaTopLinks1('results');">Results </a></td>
+    </tr> 
+    
+    <tr>
+      <td bgcolor="#FEFEB7">&nbsp;&nbsp;<a href="#" class="footer" onclick="callInvestorConductIdeaTopLinks1('conduct');">Code of Conduct </a></td>
+    </tr> 
+    
+    
+        
+    <tr>
+      <td bgcolor="#FEFEB7">&nbsp;&nbsp;<a href="#" class="footer" onclick="callInvestorContactIdeaTopLinks1('contact');">Contact Us </a></td>
+    </tr>         
+  </tbody></table>
+</div>
+             
+              
+              
+              
+<div id="Careers">
+  <table width="145" border="0" cellpadding="1" cellspacing="1" align="center">
+    <tbody><tr>
+      <td bgcolor="#FEFEB7">&nbsp;&nbsp;<a href="#" class="footer" onclick="callCareerIdeaTopLinks1('content_careers_whyidea.html');">Why Idea </a></td>
+    </tr>
+    <tr>    
+      <td bgcolor="#FEFEB7">&nbsp;&nbsp;<a href="http://www.adityabirla.com/careers/new_openings.htm " target="_blank" class="footer">New Openings </a></td>
+    </tr>
+    
+  </tbody></table>
+ </div>   
+    <div id="displayMessage" style="Z-INDEX: 1; LEFT: 200px; VISIBILITY: hidden; WIDTH: 80px; POSITION: absolute; TOP: 200px;">
+        <table height="260" width="420" id="Table1" align="right" border="0">
+        <tbody><tr>
+        <td></td>
+        </tr>
+        <tr>
+        <td></td>
+        </tr>
+        <tr>
+        <td></td>
+        </tr>
+            <tr>
+                <td width="100%" height="100%" align="right" valign="bottom">
+                   <b><font color="#000000">Downloading Services,&nbsp;&nbsp;please Wait...</font></b>
+                </td>
+            </tr>
+        </tbody></table>
+    </div>    
+
+<script>
+function MM_reloadPage(init) 
+{  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+
+function MM_findObj(n, d) 
+{ //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+function MM_showHideLayers() 
+{   
+  var i,p,v,obj,args=MM_showHideLayers.arguments;
+  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) 
+  { v=args[i+2];
+    if (obj.style) 
+    { 
+        obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; 
+    }
+    obj.visibility=v; 
+  }
+}
+</script>
+
+
+<style type="text/css">
+
+#flashMovie{
+  z-index:0;
+}
+
+#dummyDiv {
+ position:absolute;
+ left:695px;
+ top:90px;
+ width:170px;
+ height:175px;
+ z-index:0;
+ visibility:visible;
+}
+#dummyDiv1 {
+ position:absolute;
+ left:390px;
+ top:93px;
+ width:170px;
+ height:185px;
+ z-index:0;
+ visibility:visible;
+ background-color:#FFFFFF;
+ filter: alpha(opacity=0);
+ -moz-opacity: .0;
+}
+#dummyDiv2 {
+ position:absolute;
+ left:390px;
+ top:35px;
+ width:360px; 
+ z-index:0;
+ visibility:visible;
+ background-color:#FFFFFF;
+ filter: alpha(opacity=0);
+ -moz-opacity: .0;
+}
+
+
+#dummyDiv3 {
+	position:absolute;
+	left:390px;
+	bottom:320px;
+	width:360px;	
+	z-index:0;
+	visibility:visible;
+	background-color:#FFFFFF;
+	filter: alpha(opacity=0);
+	-moz-opacity: .0;
+}
+
+
+#dummyDiv4 {
+	position:absolute;
+	left:425px;
+	width:130px;	
+	z-index:1;
+	visibility:visible;
+	background-color:#FFFFFF;
+	filter: alpha(opacity=0);
+	-moz-opacity: .0;
+}
+
+#CustomerCare {
+	Z-INDEX: 1; LEFT: 425px; VISIBILITY: hidden; WIDTH: 130px; POSITION: absolute; TOP: 42px; BACKGROUND-COLOR: #cccccc
+}
+#ContactUs {
+	Z-INDEX: 2; LEFT: 530px; VISIBILITY: hidden; WIDTH: 100px; POSITION: absolute; TOP: 42px; BACKGROUND-COLOR: #cccccc
+}
+
+
+#AboutIdea {
+	position:absolute;
+    left:447px;
+	top:54px;
+	width:145px;
+	z-index:1;
+	background-color: #CCCCCC;
+	visibility: hidden;
+}
+#Prepaid {
+	position:absolute;
+    left:447px;
+	top:98px;
+	width:145px;
+	z-index:2;
+	background-color: #CCCCCC;
+	visibility: hidden;
+}
+#Postpaid {
+	position:absolute;
+	left:447px;
+	top:117px;
+	width:145px;
+	z-index:3;
+	background-color: #CCCCCC;
+	visibility: hidden;
+}
+#IdeaServices {
+	position:absolute;
+    left:447px;
+	top:124px;
+	width:145px;
+	z-index:4;
+	background-color: #CCCCCC;
+	visibility: hidden;
+}
+
+#Media {
+	position:absolute;
+    left:447px;
+	top:125px;
+	width:145px;
+	z-index:5;
+	background-color: #CCCCCC;
+	visibility: hidden;
+}
+
+#Careers {
+	position:absolute;
+    left:447px;
+	top:167px;
+	width:145px;
+	z-index:6;
+	background-color: #CCCCCC;
+	visibility: hidden;
+}
+
+#Investors {
+	position:absolute;
+    left:447px;
+	top:124px;
+	width:145px;
+	z-index:4;
+	background-color: #CCCCCC;
+	visibility: hidden;
+}
+
+</style>
+<script>
+
+function callcustomercarelinks(val)
+    {
+        document.ideacustomercarelinks.displayParam.value=val;
+        //alert(document.ideaTopLinks.displayParam.value);
+        document.ideacustomercarelinks.submit();
+ 
+    }
+function callcontactuslinks(val)
+    {
+        document.ideacontactuslinks.displayParam.value=val;
+        //alert(document.ideaTopLinks.displayParam.value);
+        document.ideacontactuslinks.submit();
+        }
+        
+    function callIdeaTopLinks(val)
+    {
+        document.ideaTopLinks.displayParam.value=val;
+        //alert(document.ideaTopLinks.displayParam.value);
+        document.ideaTopLinks.submit();
+ 
+    }
+    function callPrepaidIdeaTopLinks(val)
+    {
+        document.ideaPrepaidTopLinks.displayParam.value=val;
+        //alert(document.ideaPrepaidTopLinks.displayParam.value);
+        document.ideaPrepaidTopLinks.submit();
+    }
+    function callPostpaidIdeaTopLinks(val)
+    {
+       
+        document.ideaPostpaidTopLinks.displayParam.value=val;
+        //alert(document.ideaPostpaidTopLinks.displayParam.value);
+        document.ideaPostpaidTopLinks.submit();
+    }
+    function callIdeaServicesTopLinks(val)
+    {
+        document.callIdesServicesTopLinks.displayParam.value=val;
+        //alert(document.callIdesServicesTopLinks.displayParam.value);
+        document.callIdesServicesTopLinks.submit();
+    }
+    
+    function callMediaIdeaTopLinks1(val)
+    {
+        
+        document.callMediaIdeaTopLinks.displayParam.value=val;
+        //alert(document.callMediaIdeaTopLinks.displayParam.value);
+        document.callMediaIdeaTopLinks.submit();
+    }
+    function callCareerIdeaTopLinks1(val)
+    {
+        document.callCareerIdeaTopLinks.displayParam.value=val;
+        //alert(document.callCareerIdeaTopLinks.displayParam.value);
+        document.callCareerIdeaTopLinks.submit();
+    }
+    function callSiteMapLinks(val)
+    {
+        document.siteMapLinks.pageLabel.value=val;
+        document.siteMapLinks.submit();
+    }
+    
+    function callInvestorIdeaTopLinks1(val)
+    {
+        document.callInvestorIdeaTopLinks.displayParam.value=val;
+        //alert(document.callInvestorIdeaTopLinks.displayParam.value);
+        document.callInvestorIdeaTopLinks.submit();
+    }
+    
+    function callShareIdeaTopLinks1(val)
+    {
+        document.callShareIdeaTopLinks.displayParam.value=val;
+        //alert(document.callShareIdeaTopLinks.displayParam.value);
+        document.callShareIdeaTopLinks.submit();
+    }
+    
+
+function callInvestorContactIdeaTopLinks1(val)
+    {
+        document.callInvestorContactIdeaTopLinks.displayParam.value=val;
+        //alert(document.callInvestorContactIdeaTopLinks.displayParam.value);
+        document.callInvestorContactIdeaTopLinks.submit();
+    }
+
+
+
+function callInvestorResultsIdeaTopLinks1(val)
+    {
+        document.callInvestorResultsIdeaTopLinks.displayParam.value=val;
+        //alert(document.callInvestorResultsIdeaTopLinks.displayParam.value);
+        document.callInvestorResultsIdeaTopLinks.submit();
+    }
+    
+function callInvestorConductIdeaTopLinks1(val)
+    {
+        document.callInvestorConductIdeaTopLinks.displayParam.value=val;
+        //alert(document.callInvestorConductIdeaTopLinks.displayParam.value);
+        document.callInvestorConductIdeaTopLinks.submit();
+    }
+
+
+</script>
+<form name="ideacustomercarelinks" action="../../../myIdeaTopLinks.jsp">
+<input type="hidden" name="displayParam">
+<input type="hidden" value="IDEA_Page_CustomerCare" name="pageLabel"> </form>
+
+<form name="ideacontactuslinks" action="../../../myIdeaTopLinks.jsp">
+<input type="hidden" name="displayParam">
+<input type="hidden" value="IDEA_Page_ContactUs" name="pageLabel"> </form>
+
+<form name="ideaTopLinks" action="../../../myIdeaTopLinks.jsp">
+    <input type="hidden" name="displayParam">
+    <input type="hidden" name="pageLabel" value="IDEA_Page_AboutIdea">
+</form>
+<form name="ideaPrepaidTopLinks" action="../../../myIdeaTopLinks.jsp">
+    <input type="hidden" name="displayParam">
+    <input type="hidden" name="pageLabel" value="IDEA_Page_ContentPrepaid">
+</form>
+
+<form name="ideaPostpaidTopLinks" action="../../../myIdeaTopLinks.jsp">
+    <input type="hidden" name="displayParam">
+    <input type="hidden" name="pageLabel" value="IDEA_Page_ContentPostpaid">
+</form>
+
+<form name="callIdesServicesTopLinks" action="../../../myIdeaTopLinks.jsp">
+    <input type="hidden" name="displayParam">
+    <input type="hidden" name="pageLabel" value="IDEA_Page_IdeaServices">
+</form>
+
+<form name="callMediaIdeaTopLinks" action="../../../contentUrlForward.jsp">
+    <input type="hidden" name="displayParam">
+    <input type="hidden" name="pageLabel" value="IDEA_Page_IdeainMedia">
+</form>
+
+<form name="callCareerIdeaTopLinks" action="../../../myIdeaTopLinks.jsp">
+    <input type="hidden" name="displayParam">
+    <input type="hidden" name="pageLabel" value="IDEA_Page_Careers">
+</form>
+
+<form name="siteMapLinks" action="../../../sitemapUrlForward.jsp">
+    <input type="hidden" name="pageLabel">
+</form>
+
+<form name="callInvestorIdeaTopLinks" action="../../../myIdeaTopLinks.jsp">
+    <input type="hidden" name="displayParam">
+    <input type="hidden" name="pageLabel" value="IDEA_Page_Investors">
+</form>
+
+<form name="callShareIdeaTopLinks" action="../../../myIdeaTopLinks.jsp">
+    <input type="hidden" name="displayParam">
+    <input type="hidden" name="pageLabel" value="IDEA_Page_Share">
+</form>
+
+
+<form name="callInvestorContactIdeaTopLinks" action="../../../myIdeaTopLinks.jsp">
+    <input type="hidden" name="displayParam">
+    <input type="hidden" name="pageLabel" value="IDEA_Page_IVContact">
+</form>
+
+
+
+<form name="callInvestorResultsIdeaTopLinks" action="../../../myIdeaTopLinks.jsp">
+    <input type="hidden" name="displayParam">
+    <input type="hidden" name="pageLabel" value="IDEA_Page_IVResults">
+</form>
+
+<form name="callInvestorConductIdeaTopLinks" action="../../../myIdeaTopLinks.jsp">
+    <input type="hidden" name="displayParam">
+    <input type="hidden" name="pageLabel" value="IDEA_Page_Conduct">
+</form>
+
+
+
+
+
+
+
+
+
+</div>
+    </div>
+    
+
+
+
+</div>
+</td>
+            
+        </tr>
+    
+        <tr>
+    
+            
+            <td class="bea-portal-layout-placeholder-container-west" width="202px">
+
+<div class="bea-portal-layout-placeholder">
+
+
+
+
+
+
+
+    
+    <div class="bea-portal-window" width="100%">
+        
+        
+<div class="bea-portal-window-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- added on 6th April 2007 -->
+
+
+<!-- Start Venkat added on 23/04/2007 for results page -->
+
+
+<!-- Start Venkat added on 23/04/2007 for results page -->
+
+<!--  added for highligting the selected links -->
+
+
+
+
+
+
+
+
+		<script language="javascript">
+
+		function displayWaitMessage()
+
+		{
+
+		document.all.displayMessage.style.pixelTop = (document.body.scrollTop + 50);
+
+		document.all.displayMessage.style.visibility="visible";
+
+		window.setTimeout('displayWaitMessageMain()',1);
+
+		}	
+
+		
+
+		function displayWaitMessageMain()
+
+		{
+
+		wait_seconds();
+
+		document.all.displayMessage.style.visibility="hidden";
+
+		}
+
+		
+
+		function wait_seconds()
+
+		{
+
+		var x,y
+
+		
+
+		for(x=0;x<1000000;x++)
+
+			{
+
+			y += (x * y) / (y - x);			
+
+			}
+
+		}
+
+		</script>
+
+<span class="leftmenumainbg">
+      
+  
+  
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+      
+      <tbody><tr> 
+        <td width="42" height="22" class="leftmenubgcolor"><img src="images/left_menu_bullet.gif" alt="Bullet" width="42" height="22"></td>
+        <td height="22" colspan="2" class="leftmenubgcolor"><span class="leftmenu">
+            <a href="http://www.ideacellular.com:80/IDEA.portal;jsessionid=GHpMJSBCT45vZspPMcwL1zppQLtphhk0Sh0ddQY3pWpqqCTcWGMn!-1761658451!-530197313?_nfpb=true&amp;portlet_MyIdeaController_5_actionOverride=%2FIDEA%2Fcontent%2FmyIdea%2FdisplayContent&amp;_windowLabel=portlet_MyIdeaController_5&amp;portlet_MyIdeaController_5displayParam=company+information&amp;_pageLabel=IDEA_Page_AboutIdea" class="leftmenu">Company Information</a></span></td>
+      </tr>
+    
+      <tr> 
+        <td width="42" height="22" class="leftmenubgcolor">&nbsp;</td>
+        <td width="12" height="22" class="leftmenubgcolor"><img src="images/left_menu_sub_bullet.gif" width="12" height="22"></td>
+        <td width="148" class="leftmenubgcolor">
+            <a href="http://www.ideacellular.com:80/IDEA.portal;jsessionid=GHpMJSBCT45vZspPMcwL1zppQLtphhk0Sh0ddQY3pWpqqCTcWGMn!-1761658451!-530197313?_nfpb=true&amp;portlet_MyIdeaController_5_actionOverride=%2FIDEA%2Fcontent%2FmyIdea%2FdisplayContent&amp;_windowLabel=portlet_MyIdeaController_5&amp;portlet_MyIdeaController_5displayParam=history&amp;_pageLabel=IDEA_Page_AboutIdea" class="leftmenu">History</a>
+        </td>
+      </tr>
+      
+       <tr> 
+        <td width="42" height="22" class="leftmenubgcolor"><img src="images/left_menu_bullet.gif" alt="Bullet" width="42" height="22"></td>
+        <td height="22" colspan="2" class="leftmenubgcolor">
+            <a href="http://www.ideacellular.com:80/IDEA.portal;jsessionid=GHpMJSBCT45vZspPMcwL1zppQLtphhk0Sh0ddQY3pWpqqCTcWGMn!-1761658451!-530197313?_nfpb=true&amp;portlet_MyIdeaController_5_actionOverride=%2FIDEA%2Fcontent%2FmyIdea%2FdisplayContent&amp;_windowLabel=portlet_MyIdeaController_5&amp;portlet_MyIdeaController_5displayParam=ourVision&amp;_pageLabel=IDEA_Page_AboutIdea" class="leftmenu">Our Mission</a>
+        </td>
+      </tr>
+       
+     <tr> 
+        <td width="42" height="22" class="leftmenubgcolor"><img src="images/left_menu_bullet.gif" alt="Bullet" width="42" height="22"></td>
+        <td height="22" colspan="2" class="leftmenubgcolor">
+            <a href="http://www.ideacellular.com:80/IDEA.portal;jsessionid=GHpMJSBCT45vZspPMcwL1zppQLtphhk0Sh0ddQY3pWpqqCTcWGMn!-1761658451!-530197313?_nfpb=true&amp;portlet_MyIdeaController_5_actionOverride=%2FIDEA%2Fcontent%2FmyIdea%2FdisplayContent&amp;_windowLabel=portlet_MyIdeaController_5&amp;portlet_MyIdeaController_5displayParam=keyPeople&amp;_pageLabel=IDEA_Page_AboutIdea" class="leftmenu">Key People</a>
+        
+        </td>
+      </tr>
+       
+      <tr> 
+        <td width="42" height="22" class="leftmenubgcolor"><img src="images/left_menu_bullet.gif" alt="Bullet" width="42" height="22"></td>
+        <td height="22" colspan="2" class="leftmenubgcolor">
+        <a href="http://www.ideacellular.com:80/IDEA.portal;jsessionid=GHpMJSBCT45vZspPMcwL1zppQLtphhk0Sh0ddQY3pWpqqCTcWGMn!-1761658451!-530197313?_nfpb=true&amp;portlet_MyIdeaController_5_actionOverride=%2FIDEA%2Fcontent%2FmyIdea%2FdisplayContent&amp;_windowLabel=portlet_MyIdeaController_5&amp;portlet_MyIdeaController_5displayParam=ourPartners&amp;_pageLabel=IDEA_Page_AboutIdea" class="leftmenu">Our Partners</a>
+        </td>
+      </tr>
+
+   
+    
+      <tr> 
+        <td width="42" height="22" class="leftmenubgcolor"><img src="images/left_menu_bullet.gif" alt="Bullet" width="42" height="22"></td>
+        <td height="22" colspan="2" class="leftmenubgcolor">
+        <a href="http://www.ideacellular.com:80/IDEA.portal;jsessionid=GHpMJSBCT45vZspPMcwL1zppQLtphhk0Sh0ddQY3pWpqqCTcWGMn!-1761658451!-530197313?_nfpb=true&amp;portlet_MyIdeaController_5_actionOverride=%2FIDEA%2Fcontent%2FmyIdea%2FdisplayContent&amp;_windowLabel=portlet_MyIdeaController_5&amp;portlet_MyIdeaController_5displayParam=coverage&amp;_pageLabel=IDEA_Page_AboutIdea" class="leftmenu">Coverage</a>
+        </td>
+      </tr>
+      
+      
+     <tr> 
+        <!--<td height="22" class="leftmenubgcolor"><img src="images/left_menu_bullet.gif" alt="Bullet" width="42" height="22"></td>
+        <td height="22" colspan="2" class="leftmenubgcolor">
+        <a href="http://www.ideacellular.com:80/IDEA.portal;jsessionid=GHpMJSBCT45vZspPMcwL1zppQLtphhk0Sh0ddQY3pWpqqCTcWGMn!-1761658451!-530197313?_nfpb=true&portlet_MyIdeaController_5_actionOverride=%2FIDEA%2Fcontent%2FmyIdea%2FdisplayContent&_windowLabel=portlet_MyIdeaController_5&portlet_MyIdeaController_5displayParam=telecomHistory&_pageLabel=IDEA_Page_AboutIdea" class="leftmenu">Telecom History</a>
+        </td> -->
+      </tr> 
+      
+     <tr> 
+        <td width="42" height="22" class="leftmenubgcolor"><img src="images/left_menu_bullet.gif" alt="Bullet" width="42" height="22"></td>
+        <td height="22" colspan="2" class="leftmenubgcolor">
+            <a href="http://www.ideacellular.com:80/IDEA.portal;jsessionid=GHpMJSBCT45vZspPMcwL1zppQLtphhk0Sh0ddQY3pWpqqCTcWGMn!-1761658451!-530197313?_nfpb=true&amp;portlet_MyIdeaController_5_actionOverride=%2FIDEA%2Fcontent%2FmyIdea%2FdisplayContent&amp;_windowLabel=portlet_MyIdeaController_5&amp;portlet_MyIdeaController_5displayParam=brandInformation&amp;_pageLabel=IDEA_Page_AboutIdea" class="leftmenu">Brand Information</a>
+        </td>
+      </tr>
+      
+     <tr> 
+        <td width="42" height="22" class="leftmenubgcolor"><img src="images/left_menu_bullet.gif" alt="Bullet" width="42" height="22"></td>
+        <td height="22" colspan="2" class="leftmenubgcolor">
+            <a href="http://www.ideacellular.com:80/IDEA.portal;jsessionid=GHpMJSBCT45vZspPMcwL1zppQLtphhk0Sh0ddQY3pWpqqCTcWGMn!-1761658451!-530197313?_nfpb=true&amp;portlet_MyIdeaController_5_actionOverride=%2FIDEA%2Fcontent%2FmyIdea%2FdisplayContent&amp;_windowLabel=portlet_MyIdeaController_5&amp;portlet_MyIdeaController_5displayParam=ourValues&amp;_pageLabel=IDEA_Page_AboutIdea" class="leftmenu">Our values</a>
+        </td>
+      </tr>
+      
+     <tr> 
+        <td width="42" height="22" class="leftmenubgcolor"><img src="images/left_menu_bullet.gif" alt="Bullet" width="42" height="22"></td>
+        <td height="22" colspan="2" class="leftmenubgcolor">
+            <a href="http://www.ideacellular.com:80/IDEA.portal;jsessionid=GHpMJSBCT45vZspPMcwL1zppQLtphhk0Sh0ddQY3pWpqqCTcWGMn!-1761658451!-530197313?_nfpb=true&amp;portlet_MyIdeaController_5_actionOverride=%2FIDEA%2Fcontent%2FmyIdea%2FdisplayContent&amp;_windowLabel=portlet_MyIdeaController_5&amp;portlet_MyIdeaController_5displayParam=ourPromoters&amp;_pageLabel=IDEA_Page_AboutIdea" class="leftmenu">Our promoters</a>
+        </td>
+      </tr>
+     
+      
+      
+      
+      
+      
+    </tbody></table>
+
+  
+    <table width="100%" border="0" cellpadding="0" cellspacing="0">    
+    <!-- <tr>
+        <td height="30" colspan="2" valign="top" class="leftmenubgcolor"><img src="images/left_menu_design_curve.gif" width="202" height="10"></td>
+        
+      </tr> -->
+      
+      
+      
+     
+      
+       
+       <!-- <tr>
+        <td width="42" height="22" class="leftmenubgcolor"><img src="images/left_menu_bullet.gif" width="42" height="22"></td>
+        <td width="160" height="22" class="leftmenubgcolor"><a href="http://www.ideacellular.com:80/IDEA.portal;jsessionid=GHpMJSBCT45vZspPMcwL1zppQLtphhk0Sh0ddQY3pWpqqCTcWGMn!-1761658451!-530197313?_nfpb=true&_pageLabel=IDEA_Page_AdminLogin" class="leftmenu">Admin Login </a>
+        </td>
+      </tr> -->
+       
+      
+      
+    </table>    
+  
+  
+
+<table border="0" height="400px" width="202px" bgcolor="#FEFEB7">
+<tbody><tr>
+    <td colspan="2">&nbsp; </td>
+</tr>
+</tbody></table> 
+          
+</span>
+
+
+
+
+
+
+
+
+
+</div>
+    </div>
+    
+
+
+
+</div>
+</td>
+            
+    
+            
+            <td class="bea-portal-layout-placeholder-container-center" width="578px">
+
+<div class="bea-portal-layout-placeholder">
+
+
+
+
+
+
+
+    
+    <table class="bea-portal-layout-flow" cellspacing="0">
+        <tbody><tr>
+    
+            
+            <td class="bea-portal-layout-placeholder-container">
+
+<div class="bea-portal-layout-placeholder">
+
+
+
+
+
+
+
+    
+    <div class="bea-portal-window" width="100%">
+        
+        
+<div class="bea-portal-window-content">
+
+
+
+
+
+
+
+<form id="portlet_15_8Netui_Form_0" action="http://www.ideacellular.com:80/IDEA.portal;jsessionid=GHpMJSBCT45vZspPMcwL1zppQLtphhk0Sh0ddQY3pWpqqCTcWGMn!-1761658451!-530197313?_nfpb=true&amp;portlet_15_8_actionOverride=%2FIDEA%2Fcontent%2FbreadCrumb%2Fbegin&amp;_windowLabel=portlet_15_8&amp;_pageLabel=IDEA_Page_AboutIdea" method="post">
+
+
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr> 
+<!-- class="rightmenubg" -->
+    <td height="78" valign="bottom" class="rightmenubg">
+
+  
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td colspan="6" height="6" align="left"> </td>
+          </tr>
+          
+          
+          <tr>
+            <td width="10" height="25">
+            
+            </td>
+            <td width="33" height="45" rowspan="2"><img src="images/bread_crumb_curve.gif" width="33" height="44"></td>
+            <td class="breadcrumb" width="200px">
+                <a href="/IDEA.portal" class="breadcrumb">Home</a> &gt;&gt; 
+                About Idea
+            </td>
+            
+           <td width="30" height="9"> </td>
+          </tr>
+          
+          <tr>
+            <td width="10" height="9"></td>
+            <td width="514" height="9" colspan="3" class="breadcrumbyellowlinebg"> </td>
+            <td width="30" height="9"></td>
+          </tr>
+          
+          
+        </tbody></table>
+    </td>
+</tr>
+
+
+
+</tbody></table>
+
+
+
+
+
+
+</form>
+
+
+
+
+
+
+</div>
+    </div>
+    
+
+
+
+</div>
+</td>
+            
+                  </tr>
+                    <tr>
+    
+            
+            <td class="bea-portal-layout-placeholder-container">
+
+<div class="bea-portal-layout-placeholder">
+
+
+
+
+
+
+
+    
+    <div class="bea-portal-window" width="100%">
+        
+        
+<div class="bea-portal-window-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+            
+
+                 
+              
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+<tbody><tr valign="top">  
+<td height="816" align="center" valign="top"> 
+
+<table width="94%" border="0" cellspacing="4" cellpadding="4">
+<tbody><tr> 
+<td class="titleboder"><span class="gridtitle">Privacy Policy</span></td>
+<td width="27%" class="titleboder">&nbsp;</td>
+</tr>
+
+<tr align="left" valign="top"> 
+<td height="781" colspan="2" valign="top"><table width="100%" border="0" cellpadding="4" cellspacing="0" class="tablefullboder">
+												<tbody><tr>
+												  <td class="griddata" align="justify">1.	This privacy policy provides you with an insight into the manner of collections, use, disclosure and security of your personal information.<br>
+												    <br>
+												    2.	What constitutes "personal information"? <br>
+												    Personal Information is information and / or data which enables Idea to identify you and assists us in serving your better.  We assume that the personal information disclosed by you to Idea is accurate and complete. You undertake to intimate us in case there is any change in the personal information.<br>
+												    <br>
+												    3.	Idea may use this personal information for the purposes of <br>
+&nbsp;&nbsp;&nbsp;												    (a) verification of your identity;<br>
+&nbsp;&nbsp;&nbsp; (b) providing assistance in relation to subscription, identification, management and improvement of services; <br>
+&nbsp;&nbsp;&nbsp; (c) carrying out credit worthiness tests;<br>
+&nbsp;&nbsp;&nbsp; (d) ascertaining your needs / requirements to enhance our services for you.<br>
+												    <br>
+												    4.	Idea may also use such personal information to communicate to you promotional and marketing material in relation to launches of new product(s), service(s), offer(s) including by way of direct mail, telemarketing, SMS and MMS messages. You acknowledge that such personal information may be analyzed, processed and used by other organizations on Idea’s behalf for providing Idea’s services. Idea will nevertheless retain control of such data.<br>
+												    <br>
+												    5.	Idea will not share such personal information with other cellular service providers, banks, credit card companies etc. or their officers / agents / affiliates in any manner which may culminate in invasion of your privacy. As clarified above, Idea may from time to time appoint agencies to provide you with Idea’s services and / or promote its offers, and for this purpose your personal information may be disclosed to such agencies.<br>
+												    <br>
+												    6.	Should you wish that you are not disturbed whether in your home or roaming network, please do click here.<br>
+												    <br>
+												    7.	Idea clarifies that, for promptness and completeness of delivering its services to you, Idea may have to or be required to disclose the personal information to entity (ies) within and outside Idea. These organizations are involved in providing -<br>
+&nbsp;												    &nbsp;(a) customer services; <br>
+&nbsp;&nbsp; (b) mailing services; <br>
+&nbsp; &nbsp;(c) billing and debt-recovery services; <br>
+&nbsp;&nbsp; (d) information technology services;<br>
+&nbsp;&nbsp; (e) service maintenance; and <br>
+&nbsp;&nbsp; (f) market research services.<br> 
+Idea will take all possible measures to ensure that your personal information is kept secure and all related privacy and confidentiality requirements are fulfilled by these organizations.<br>
+												    <br>
+												    8.	Apart from the above, Idea may divulge your personal information to <br>
+&nbsp;												    (a) your duly authorised representatives; <br>
+&nbsp; (b) credit-reporting and fraud-checking organizations; <br>
+&nbsp; (c) Idea’s sister concerns; <br>
+&nbsp; (d) Idea’s professional consultants, which may include accountants, auditors and lawyers; <br>
+&nbsp; (e) Government bodies, Regulatory Authorities, and other organizations in accordance with the law or as authorised by law; and <br>
+&nbsp; (f)  entities that handle Idea’s business and corporate strategies, which may include those concerned with a transfer / sale of all or part of it’s assets or business (accounts and trade receivables), and those organizations which manage Idea’s corporate risk and funding functions (which could include securitization).<br>
+												    <br>
+												    9.	The personal information may also be divulged by Idea if it believes in good faith that such divulgence is in conformity with legal requirements or in compliance of a legal process or to safeguard and preserve the rights and property of Idea and all its other users, including for security purposes.<br>
+												    <br>
+												    10.	All employees and contractors of Idea, in the performance of their duties, are mandated by Idea to act consistently with Idea’s protocols and legal requirements in relation to privacy. Idea is highly committed to keeping your personal information secure and ensures that your private information remains protected and no outside agency (ies) has access to it. We constantly re-evaluate our information security protocols to determine how best to fulfill our existing obligations in this regard.<br>
+												    <br>
+												    11.	Idea reserves the right to amend and / or modify this Privacy Policy at any time without notice to you and for any reason whatsoever or in pursuance of any modification in privacy legislation or subsequent legislation. It is recommended that you regularly check for updates to the Privacy Policy.
+											      If you have any query in regards to this Privacy Policy or the security and management of your personal information, please feel free to contact us on webmaster.corp@ideacellular.com.</td>
+						</tr>
+		  </tbody></table></td>
+</tr>
+</tbody></table> </td>
+</tr>
+</tbody></table>
+</div></div></div></td>
+</tr>
+</tbody></table>
+            
+
+
+
+
+
+
+
+
+
+
+</div>
+    
+    
+
+
+
+
+</td>
+            
+    
+        </tr>
+    </tbody></table>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+</div></div></div></div></td>
+            
+    
+    </tr></tbody></table>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+
+
+
+
+
+
+
+        
+        
+    
+    
+
+
+
+
+
+
+
+
+        
+        
+    
+    
+
+
+
+
+
+
+
+
+    
+    <div class="bea-portal-body-header">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="780" height="20" border="0" cellpadding="0" cellspacing="0" bgcolor="#F1F1F1">
+  <tbody><tr>
+    <!-- <td>
+    <a href="IDEA.portal?_nfpb=true&portlet_MyIdeaController_5_actionOverride=%2FIDEA%2Fcontent%2FmyIdea%2FdisplayContent&_windowLabel=portlet_MyIdeaController_5&portlet_MyIdeaController_5displayParam=ideaYellowPages&_pageLabel=IDEA_Page_AboutIdea" class="footer">Idea Yellow Pages</a>
+    </td> -->
+    <td height="18" align="right" class="footer">
+    
+            
+            
+     &nbsp;
+    Copyright © Idea 2006 | <a href="IDEA.portal?_nfpb=true&amp;portlet_MyIdeaController_5_actionOverride=%2FIDEA%2Fcontent%2FmyIdea%2FdisplayContent&amp;_windowLabel=portlet_MyIdeaController_5&amp;portlet_MyIdeaController_5displayParam=termsandconditions.html&amp;_pageLabel=IDEA_Page_AboutIdea" class="footer">Terms and Conditions</a>| <a href="IDEA.portal?_nfpb=true&amp;portlet_MyIdeaController_5_actionOverride=%2FIDEA%2Fcontent%2FmyIdea%2FdisplayContent&amp;_windowLabel=portlet_MyIdeaController_5&amp;portlet_MyIdeaController_5displayParam=privacy_policy.html&amp;_pageLabel=IDEA_Page_AboutIdea" class="footer">Privacy Policy</a>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  
+</tbody></table>
+
+
+
+
+
+
+
+    </div>
+    
+
+
+
+
+
+
+
+
+    
+    <div class="bea-portal-body-footer">
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body></html>
