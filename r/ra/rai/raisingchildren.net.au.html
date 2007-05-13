@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the raisingchildren.net.au privacy policy that was archived on 2006-08-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060831035914id_/http%3A//raisingchildren.net.au/privacy/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the raisingchildren.net.au privacy policy that was archived on 2007-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070513210122id_/http%3A//raisingchildren.net.au/privacy/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -49,26 +49,33 @@
         // If its over 1000px give them the 1024 fixed width css
 		if (BrowserWidth >= BrowserLarge) {
 			document.write('<link rel="STYLESHEET" type="text/css" href="/css/rcn-1024.css" media="screen" />');
+			document.write('<!--[if IE 7]><link rel="STYLESHEET" type="text/css" href="/css/rcn-1024-ie7.css" media="screen" /><![endif]-->');
 		}	
     //]]>
-	</script><link rel="STYLESHEET" type="text/css" href="/css/rcn-1024.css" media="screen">
+	</script><link rel="STYLESHEET" type="text/css" href="/css/rcn-1024.css" media="screen"><!--[if IE 7]><link rel="STYLESHEET" type="text/css" href="/css/rcn-1024-ie7.css" media="screen" /><![endif]-->
 	
 	
 	<link rel="stylesheet" type="text/css" href="/css/rcn-print-null.css" media="print" title="rcnprint">
     <link rel="alternate stylesheet" type="text/css" media="screen" href="/css/rcn-largefont.css" title="large">
     <link rel="alternate stylesheet" type="text/css" media="screen" href="/css/rcn-largefont-800.css" title="large800">
-	<!--[if gte IE 5.5000]>
-	<link rel="STYLESHEET" type="text/css" href="/css/rcn-base-ie.css" />
-	<![endif]-->
+
     <!--[if lt IE 6]>
 	<link rel="STYLESHEET" type="text/css" href="/css/rcn-base-ie55.css" />
 	<![endif]-->
+	<!--[if lte IE 6]>
+	<link rel="STYLESHEET" type="text/css" href="/css/rcn-base-ie.css" />
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="STYLESHEET" type="text/css" href="/css/rcn-base-ie7.css" />
+	<![endif]-->	
     <script type="text/javascript">
         // Get our Font Size cookie and load the large fonts if required
 	    var fontSize = GetCookie('fonttextsize');
 	    if(fontSize != null) {
-		    setActiveStyleSheet(fontSize, 1);
+		    setActiveStyleSheet(fontSize, 0);
+			
 	    }	
+		FixHomeHeros();
 	</script>
     <script type="text/javascript" src="/includes/ufo.js"></script>
 </head>
@@ -335,7 +342,7 @@
     </div>
   </div>
 </div>
-<!-- End VerveContent: content_{fs}default.aspx_id=privacy_privacy_{fs}templates{fs}RCN_MainNav.xsl (Processing time: 0.16 seconds) -->
+<!-- End VerveContent: content_{fs}default.aspx_id=privacy_privacy_{fs}templates{fs}RCN_MainNav.xsl (Processing time: 0.19 seconds) -->
 
 
 	</div> 
@@ -355,21 +362,19 @@
         <div class="box" id="IntroBox" style="margin:10px 0;"><!-- Start a Box --><div class="lbpinkgrad"><div class="rbpinkgrad"><div class="bbpinkgrad"><div class="blcpinkgrad"><div class="brcpinkgrad"><div class="tbpinkgrad"><div class="tlcpinkgrad"><div class="trcpinkgrad"><div class="boxContent" style="padding:10px 12px 12px 13px;">&nbsp;</div></div></div></div></div></div></div></div></div></div>
         <div id="PageContentBody">
           <p xmlns:o="urn:schemas-microsoft-com:office:office">The Raising Children Network (RCN) website provides information and services designed for parents, carers and professionals involved in rearing children.</p>
-          <p xmlns:o="urn:schemas-microsoft-com:office:office">This privacy statement applies to the raisingchildren.net.au website only (also accessed via www.raisingchildren.net.au and www.raisingchildren.info).</p>
-          <p xmlns:o="urn:schemas-microsoft-com:office:office">Your personal information is protected under the Privacy Act 1988. RCN collects personal and sensitive information if you choose to provide it, such as your email address. Your personal information will not be used other than for the purpose that you provide it without your consent.</p>
+          <p xmlns:o="urn:schemas-microsoft-com:office:office">This privacy statement applies to the raisingchildren.net.au website only (also accessed via www.raisingchildren.net.au and www.raisingchildren.info). </p>
+          <p xmlns:o="urn:schemas-microsoft-com:office:office">Your personal information is protected under the Privacy Act 1988. RCN collects personal and sensitive information if you choose to provide it, such as your email address. Your personal information will not be used other than for the purpose that you provide it without your consent. </p>
           <p xmlns:o="urn:schemas-microsoft-com:office:office">Uses of personal information by RCN may include the provision of services; the development, maintenance and promotion of this website; evaluating RCN services, and conducting approved research. No information that personally identifies you is collected when you simply browse the site.</p>
           <p xmlns:o="urn:schemas-microsoft-com:office:office">RCN will provide access to, and make corrections to, your personal information at your request, except in the circumstances set out in the Privacy Act 1988.&nbsp; Personal information will not be disclosed or used for purposes other than the stated uses, functions and activities of RCN, unless the disclosure is required or authorised by law.</p>
-          <p xmlns:o="urn:schemas-microsoft-com:office:office">RCN may disclose non-identifying statistical information collected on this website to the Department of Family and Community Services, to the Australian Council for Educational Research, and to organisations conducting approved research, such as universities and research centres.</p>
+          <p xmlns:o="urn:schemas-microsoft-com:office:office">RCN may disclose non-identifying statistical information collected on this website to the Department of Family and Community Services, to the Australian Council for Educational Research, and to organisations conducting approved research, such as universities and research centres. </p>
           <p xmlns:o="urn:schemas-microsoft-com:office:office">Non-identifying statistical information collected could include your server address, the top level domain name (such as .gov, .com, .edu), pages accessed or downloaded, search terms used, the date and time of site visits, your operating system (such as Windows) or browser system (such as Internet Explorer), and the site from which you entered the RCN website or to which you exited.</p>
           <p xmlns:o="urn:schemas-microsoft-com:office:office">If you have any questions about your privacy, please <a href="mailto:privacy@raisingchildren.net.au?subject=Privacy%20enquiry">email the Privacy Officer</a>&nbsp;or contact:</p>
           <p xmlns:o="urn:schemas-microsoft-com:office:office">
             <strong>Raising Children Network Privacy Officer</strong>
+            <br>6th Floor SE Building<br>Royal Children’s Hospital <br>Flemington Road <br>Parkville&nbsp; Victoria&nbsp; 3052<br>Australia</p>
+          <p xmlns:o="urn:schemas-microsoft-com:office:office">
             <br>
-6th Floor SE Building<br>
-Royal Children’s Hospital<br>
-Flemington Road<br>
-Parkville&nbsp; Victoria&nbsp; 3052<br>
-Australia</p>
+          </p>
         </div>
 		&nbsp;
 		</div>
@@ -378,7 +383,7 @@ Australia</p>
     <div id="glossaryPrintContent">&nbsp;</div>
   </div>
 </div>
-<!-- End VerveContent: content_{fs}default.aspx_id=privacy_privacy_{fs}templates{fs}RCN_Content.xsl (Processing time: 0.17 seconds) -->
+<!-- End VerveContent: content_{fs}default.aspx_id=privacy_privacy_{fs}templates{fs}RCN_Content.xsl (Processing time: 0.19 seconds) -->
 
 
 
@@ -389,9 +394,8 @@ Australia</p>
 		
 <!-- Begin VerveContent: content_{fs}default.aspx_id=privacy_privacy_{fs}templates{fs}RCN_Footer.xsl (Source: Generated live) -->
 
-<div class="clear" style="display:none">&nbsp;<img src="/hit.aspx?id=323&amp;url=%2fprivacy%2fprivacy.html" width="1" height="1" alt="" style="display:none"><a href="/ArticleList.html"></a></div><div id="footerNav"><ul><li class="first"><a href="/about_us/about_us_landing.html">About Us</a></li><li><a href="/link.aspx?id=1316">Contact Us</a></li><li><a href="/site_map/site_map.html">Site Map</a></li><li><a href="/terms_of_use/terms_of_use.html">Terms of Use</a></li><li><a href="/privacy/privacy.html">Privacy</a></li><li><a href="/media_room/media.html">Media Room</a></li><li><a href="/link_to_us/link_to_us.html">Link to Us</a></li><li class="last"><a href="/link.aspx?id=2268">Professionals</a></li></ul></div><div id="footerContent"><div id="footerText"><p>©2006 Raising Children Network (Australia) Limited. All rights reserved.<br><strong>Warning:</strong> This website and the information it contains is not intended as a substitute for professional consultation with a qualified practitioner.</p></div><div class="dotted">&nbsp;</div><div class="SponsorRow"><a href="/about_us/stronger_families.html"><img src="/verve/_resources/au_gov.gif" height="75" width="103" alt="Proudly supported by the Australian Government"></a><a href="/about_us/stronger_families.html"><img src="/verve/_resources/strongerfam.gif" height="75" width="103" alt=""></a><a href="/articles/smart_population_foundation.html/context/497"><img src="/verve/_resources/spf2.jpg" height="75" width="139" alt=""></a><a href="/articles/centre_for_community_child_health.html/context/497"><img src="/verve/_resources/ccch.gif" height="75" width="103" alt=""></a><a href="/articles/victorian_parenting_centre.html/context/497"><img src="/verve/_resources/vpc.gif" height="75" width="103" alt=""></a></div></div><div id="PrintFooter">©2006 Raising Children Network (Australia) Limited
-</div><div class="VerveLogo"><a href="http://www.lateralsystems.com.au" style="cursor:default;"><img src="/css/images/logo_verve.gif" width="60" height="10" alt="Powered by Verve"></a></div><div class="clear" style="margin-bottom:10px;">&nbsp;</div>
-<!-- End VerveContent: content_{fs}default.aspx_id=privacy_privacy_{fs}templates{fs}RCN_Footer.xsl (Processing time: 0.16 seconds) -->
+<div class="clear" style="display:none">&nbsp;<img src="/hit.aspx?id=323&amp;url=%2fprivacy%2fprivacy.html" width="1" height="1" alt="" style="display:none"><a href="/ArticleList.html"></a></div><div id="footerNav"><ul><li class="first"><a href="/about_us/about_us_landing.html">About Us</a></li><li><a href="/link.aspx?id=1316">Contact Us</a></li><li><a href="/site_map/site_map.html">Site Map</a></li><li><a href="/terms_of_use/terms_of_use.html">Terms of Use</a></li><li><a href="/privacy/privacy.html">Privacy</a></li><li><a href="/media_room/media.html">Media Room</a></li><li><a href="/link_to_us/link_to_us.html">Link to Us</a></li><li class="last"><a href="/link.aspx?id=2268">Professionals</a></li></ul></div><div id="footerContent"><div id="footerText"><p>©2006 Raising Children Network (Australia) Limited. All rights reserved.<br><strong>Warning:</strong> This website and the information it contains is not intended as a substitute for professional consultation with a qualified practitioner.</p></div><div class="dotted">&nbsp;</div><div class="SponsorRow"><a href="/about_us/stronger_families.html"><img src="/verve/_resources/au_gov.gif" height="75" width="103" alt="Proudly supported by the Australian Government"></a><a href="/about_us/stronger_families.html"><img src="/verve/_resources/strongerfam.gif" height="75" width="103" alt=""></a><a href="/articles/smart_population_foundation.html/context/497"><img src="/verve/_resources/spf2.jpg" height="75" width="139" alt=""></a><a href="/articles/centre_for_community_child_health.html/context/497"><img src="/verve/_resources/ccch.gif" height="75" width="103" alt=""></a><a href="/articles/parenting_research_centre.html/context/497"><img src="/verve/_resources/VPC_new_logo.gif" height="57" width="103" alt=""></a></div></div><div id="PrintFooter">©2006 Raising Children Network (Australia) Limited</div><div class="VerveLogo"><a href="http://www.lateralsystems.com.au" style="cursor:default;"><img src="/css/images/logo_verve.gif" width="60" height="10" alt="Powered by Verve"></a></div><div class="clear" style="margin-bottom:10px;">&nbsp;</div>
+<!-- End VerveContent: content_{fs}default.aspx_id=privacy_privacy_{fs}templates{fs}RCN_Footer.xsl (Processing time: 0.17 seconds) -->
 
 
 	</div>
