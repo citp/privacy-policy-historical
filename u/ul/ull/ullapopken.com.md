@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ullapopken.com privacy policy that was archived on 2006-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061123044303id_/https%3A//ullapopken.com/privacy-policy/a/107) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ullapopken.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513032128id_/http%3A//ullapopken.com/privacy-policy/a/107) for the most accurate reproduction.*
 
 # Privacy Policy Statement - Ulla Popken
 
