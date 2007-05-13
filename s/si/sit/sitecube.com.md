@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sitecube.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205235113id_/http%3A//www.sitecube.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitecube.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513144313id_/http%3A//www.sitecube.com/privacy.htm) for the most accurate reproduction.*
 
-# :: SiteCube Website Builder ::
+# Website Builder
 
 **Site** **Cube** has created this Privacy Policy in order to demonstrate our commitment to the privacy and protection of your information. As part of the normal operation of services, we collect and, in some instances, disclose information about you. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used.
 
@@ -18,8 +18,12 @@ We never use or share the personally identifiable information provided to us onl
 
 SiteCube will never willfully sell, lease, or rent any of your or your business' personally identifiable information to any third party.
 
-**4\. Security**
+4\. Security 
 
-In order to maximize the protection of your information, SiteCube' Service uses state-of-the-art technology to protect your data from use, misuse, or alteration by unauthorized third parties. Currently, we use Secure Sockets Layer (SSL) protocol to protect your data and secure your transactions. SSL encrypts all your personal information, including your credit card number, name, and address, as it is transmitted over the Internet. 
+In order to maximize the protection of your information, SiteCube' Service uses state-of-the-art technology to protect your data from use, misuse, or alteration by unauthorized third parties. Currently, we use Secure Sockets Layer (SSL) protocol to protect your data and secure your transactions. SSL encrypts all your personal information, including your credit card number, name, and address, as it is transmitted over the Internet.
+
+5\. General
+
+This Privacy Policy is incorporated into and subject to the terms of the [_SiteCube Agreement_](http://www.sitecube.com/agreement.htm).
 
 If you have any questions about this privacy statement or the practices of this site, please [contact us](http://www.sitecube.com/contact.htm).
