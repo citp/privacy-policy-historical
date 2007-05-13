@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the imagecomics.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208230450id_/http%3A//www.imagecomics.com/termsofservice.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagecomics.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513214539id_/http%3A//imagecomics.com/termsofservice.php) for the most accurate reproduction.*
 
-# Image Comics
+# Image Comics | Terms of Service & Privacy Policy
 
-Terms of Service
+### Terms of Service
 
 **Disclaimer and Liability**
 
@@ -50,7 +50,7 @@ Protecting your privacy is a priority at ImageComics.com. Please read our Privac
 
 ImageComics.com cannot and will not prohibit children under 18 from visiting our site. We encourage concerned parents or guardians to peruse ImageComics.com with their children. ImageComics.com does not condone censorship. Comic books and other graphic media, while sometimes intended for mature audiences, should be available for the enjoyment of all. While ImageComics.com makes no claims of compliance with the Children's Online Privacy Protection Act, we do not feel that our content is necessarily inappropriate for minors. If you disagree, or if you find any of our content offensive, feel free to leave ImageComics.com at any time. 
 
-Privacy Policy
+### Privacy Policy
 
 **Information Collection and Use**
 
