@@ -1,18 +1,13 @@
-> *The following text is extracted and transformed from the stauer.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206000125id_/http%3A//www.stauer.com/homepagebottomlinks/privacy/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stauer.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513172006id_/http%3A//www.stauer.com/homepagebottomlinks/privacy/privacy.aspx) for the most accurate reproduction.*
 
 # Stauer Watches - Privacy
 
 The Stauer Collection
 
-Stauer Choice Picks
-
-[Stauer Presidio Watch](http://www.stauer.com/?sectionpath=1/233/234&pageid=964)  
-Built from a rare vintage 1928 design, this beautiful tonneau styled case and etched dial surround a jeweled automatic movement crafted from over 300 separate parts.
-
 New at Stauer
 
-[Australian Pacific Golden Pearl Collection](https://web.archive.org/?sectionpath=1/240/247&pageid=997)  
-By extracting the seed pearl from young oyster shells and speeding up the process in the lab, we coated these natural seed pearls with nacre from the inside of the giant shells, and were able to produce the breathtaking hand-coated Australian Pacific Pearl.
+[Stauer Apollo Automatic Watch](http://www.stauer.com/14892.aspx)  
+The true sign of a collector’s watch is the smooth sweep second hand. The sweep sets this limited edition “Apollo” apart the mass produced watches.
 
   
 
