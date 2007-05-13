@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jonesday.com privacy policy that was archived on 2006-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061101091623id_/http%3A//www.jonesday.com/admin/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jonesday.com privacy policy that was archived on 2007-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070513151951id_/http%3A//www1.jonesday.com/admin/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 		<title>Jones Day - Privacy Statement</title>
@@ -24,21 +24,84 @@
 			
 <script src="/FCWSite/Include/util.js" language="javascript"></script>
 <script language="javascript">
+    <!--
 	function EscapeBadChars(repairString)
 	{
 //	    var varName = new RegExp("<[^>]*>");
 //	    repairString = repairString.replace(varName, " ");	    
 	    return repairString;
 	}
+	//-->
 </script>
-<!----------NAV 2----------->
-<div class="nav2" align="right">
-<a href="/Home.aspx" id="nav2">Home</a> | <a href="/firm/overview/" id="nav2">Firm Overview</a>
- | <a href="/pro_bono" id="nav2">
- Pro Bono</a>
-  | <a href="/careers" onmouseover="showMenu('CareersDiv')" id="nav2">Careers</a> | <a href="/news/news_search.aspx" onmouseover="hideMenu('CareersDiv')" id="nav2">News/Press</a> | <a href="/events/events.aspx" onmouseover="hideMenu('CareersDiv')" id="nav2">Events</a> | <a href="/pubs/pubs.aspx" onmouseover="hideMenu('CareersDiv')" id="nav2">Publications</a> | <a href="/contact/contact.aspx" onmouseover="hideMenu('CareersDiv')" id="nav2">Contact Us</a> | <a href="/search/search.aspx" onmouseover="hideMenu('CareersDiv')" id="nav2">Search</a></div>
-<!----------end NAV 2----------->
-<!----------NAV 1----------->
+
+<script language="javascript">
+    <!--
+    var searchtype = "site";
+    function SearchService()
+    {	
+    	if (searchtype == "site") 
+		{
+			window.location.href = '/search/Search.aspx?qu=' + escape(document.all('Search').value);	
+		} 
+		else if (searchtype == "recruiting")
+		{
+            window.location.href = '/careers/Search.aspx?qu=' + escape(document.all('Search').value);
+		}
+		else 
+		{
+		    window.location.href = '/search/Search.aspx?qu=' + escape(document.all('Search').value) + '&limit=' + searchtype;
+		}
+		return false;
+	}					
+    function onEnter(event)
+    {
+        var bolOldBrowser = (document.layers) ? true : false;
+	    var intKeyCode = 0;
+    	
+	    if (bolOldBrowser)
+		    intKeyCode = event.which;
+	    else
+		    intKeyCode = event.keyCode;
+	    if (intKeyCode == 13)
+		    return SearchService();
+    }
+    //-->
+</script>
+
+<script language="javascript">
+    <!--
+    function OnChange(dropdown)
+    {
+	    var myindex  = dropdown.selectedIndex;
+	    searchtype = dropdown.options[myindex].value;
+	    return true;
+    }
+    //-->
+</script>
+
+<div class="nav2">
+	<table>	
+	    <tbody><tr>
+			<td class="links"><a href="/Home.aspx" id="nav2">Home</a> | <a href="/firm/overview/" id="nav2">Firm Overview</a> | <a href="/pro_bono" id="nav2">Pro Bono</a> | <a href="/firm/diversity/" id="nav2">Diversity</a> | <a href="/news/news_search.aspx" id="nav2">News/Press</a> | <a href="/events/events.aspx" id="nav2">Events</a> | <a href="/pubs/pubs.aspx" id="nav2">Publications</a> | <a href="/contact/contact.aspx" id="nav2">Contact Us</a> |&nbsp;<!-- <a href='/search/search.aspx' id="nav2">Search</a> --></td>
+			<td class="search">
+			    <input name="Search" type="text" value="Search" onkeypress="return onEnter(event);" onclick="if(this.value == 'Search') this.value='';" class="text"> 
+			    <select name="selectsearch" class="text" onchange="OnChange(this.form.selectsearch);">
+			            <option value="site">Entire Site</option>
+			            <option value="experience">Experience</option>
+			            <option value="news">News</option>
+			            <option value="attorneys">Professionals</option>
+			            <option value="pubs">Publications</option>
+			            <option value="services">Services</option>
+			            <option value="recruiting">Careers</option>
+			    </select>
+			    <input type="submit" onclick="return SearchService();" value="»" class="btn">
+			</td>
+		</tr>
+		
+	</tbody></table> 
+</div>
+
+<!-- NAV 1 -->
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 	<tbody><tr valign="middle">
 		<td>
@@ -55,44 +118,44 @@
 		<img src="/FCWSite/Img/pipe.gif" width="19" height="18" border="0" alt="">
 		<a href="/locations/locations.aspx">
 		<img src="/FCWSite/Img/english/l_locations.gif" height="18" border="0" alt="Locations" onmouseout="changeImg('locations','l_locations_');" onmouseover="changeImg('locations','lo_locations_');" name="locations"></a>
-		</td>
-		<td nowrap="" class="language">
-			Select a Language<br>
-			<select class="language" onchange="eval(this.value);">
-				<option value="window.location.href='http://www1.jonesday.com/admin/privacy/';" selected="">English</option><option value="window.location.href='http://www1.jonesday.com/es/admin/privacy/';">Español</option><option value="window.location.href='http://www1.jonesday.com/de/admin/privacy/';">Deutsch</option><option value="window.location.href='http://www1.jonesday.com/fr/admin/privacy/';">Français</option><option value="window.location.href='http://www1.jonesday.com/it/admin/privacy/';">Italiano</option><option value="window.location.href='http://www1.jonesday.com/ru/admin/privacy/';">Русский</option><option value="javascript:window.open('http://www.jdshowa.jp/');">日本語</option><option value="window.location.href='http://www1.jonesday.com/zh-CHS/admin/privacy/';">简体中文</option><option value="window.location.href='http://www1.jonesday.com/zh-CHT/admin/privacy/';">繁體中文</option>
-			</select>
-			
+		<img src="/FCWSite/Img/pipe.gif" width="19" height="18" border="0" alt="">
+		<a href="/careers" onmouseover="showMenu('CareersDiv')" onmouseout="hideMenu('CareersDiv')"><img src="/FCWSite/Img/english/l_careers.gif" height="18" border="0" alt="Careers" onmouseout="changeImg('careers','l_careers_');" onmouseover="changeImg('careers','lo_careers_');" name="careers"><!-- Careers --></a>
 		</td>
 	</tr>
 </tbody></table>
-<!----------end NAV 1----------->
+<!-- end NAV 1 -->
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
  
-	<!----------PHOTO/PAGE HEADING----------->
+	<!-- PHOTO/PAGE HEADING -->
 	<tbody><tr bgcolor="#003580">
 		<td id="photo" name="photo"><img id="Header1_SectionPhoto" border="0" src="/files/ImageControl/336f9f63-b16b-4f52-8771-0e059861e32c/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/admin.jpg" height="67" width="166"></td>
-		<td class="headingpage" colspan="2"><div id="pagetools" align="right"><a href="javascript:window.print();" class="footer"><img src="/FCWSite/Img/print.gif" width="12" height="11" border="0" alt="" align="absmiddle">Print Page</a> &nbsp; 
-
-<a href="javascript:window.open('/admin/email.aspx?fullpath=http://www.jonesday.com/admin/privacy/&amp;title=' + encodeURIComponent(EscapeBadChars(document.title)), 'winEmail53', 'width=650,height=440,scrollbars');void(0);">
-
-<img src="/FCWSite/Img/email.gif" width="14" height="11" border="0" alt="" align="absmiddle">Email Page</a></div>
-			<br>
+		<td class="headingpage" colspan="2">
+			<div id="pagetools"><a href="javascript:window.print();" class="footer"><img src="/FCWSite/Img/print.gif" width="12" height="11" border="0" alt="" align="absmiddle">Print Page</a> &nbsp; 
+				
+				<a href="javascript:window.open('/admin/email.aspx?fullpath=http://www.jonesday.com/admin/privacy/&amp;title=' + encodeURIComponent(EscapeBadChars(document.title)), 'winEmail53', 'width=650,height=440,scrollbars');void(0);">
+				
+				<img src="/FCWSite/Img/email.gif" width="14" height="11" border="0" alt="" align="absmiddle">Email Page</a>
+				<div class="language">
+					Select a Language
+					<select class="language" onchange="eval(this.value);">
+						<option value="window.location.href='http://www1.jonesday.com/admin/privacy/';" selected="">English</option><option value="window.location.href='http://www1.jonesday.com/es/admin/privacy/';">Español</option><option value="window.location.href='http://www1.jonesday.com/de/admin/privacy/';">Deutsch</option><option value="window.location.href='http://www1.jonesday.com/fr/admin/privacy/';">Français</option><option value="window.location.href='http://www1.jonesday.com/it/admin/privacy/';">Italiano</option><option value="window.location.href='http://www1.jonesday.com/ru/admin/privacy/';">Русский</option><option value="javascript:window.open('http://www.jdshowa.jp/');">日本語</option><option value="window.location.href='http://www1.jonesday.com/zh-CHS/admin/privacy/';">简体中文</option><option value="window.location.href='http://www1.jonesday.com/zh-CHT/admin/privacy/';">繁體中文</option>
+					</select>
+				</div>
+			</div>		
+			<div class="headingpage">	
 			Privacy
 			
+			</div>
 		</td>
 	</tr>
-	<!----------END PHOTO/PAGE HEADING----------->
+	<!-- END PHOTO/PAGE HEADING -->
 	<tr valign="top">
 		<td>
 
 
-          <div id="CareersDiv" onmouseover="showMenu('CareersDiv')" onmouseout="hideMenu('CareersDiv')" style="background-color:white;position:absolute;top:17px;right:296px;visibility:hidden;z-index:0;border:5px solid #fff;">
-             <div class="mainDD" style="width:100;border-left:1px solid #DE6100;border-right:1px solid #DE6100;border-bottom:1px solid #DE6100;border-top:1px solid #DE6100;">
-             <div class="nav2">
-                    <a href="/careers/" id="blue">Lawyers</a><br><hr><a href="/careers/legalsupport" id="A1">Legal Support</a>
-             </div> 
-             </div>
-            </div>
+			<div id="CareersDiv" onmouseover="showMenu('CareersDiv')" onmouseout="hideMenu('CareersDiv')" style="background-color:white;position:absolute;top:63px;left:688px;visibility:hidden;z-index:0;border-top:5px solid #fff;">
+				<div class="mainDD"><div><a href="/careers/" id="A1">Lawyers</a><br><hr size="1" noshade=""><a href="/careers/legalsupport" id="A1">Non-Lawyers</a></div></div>
+			</div>
            
 
 			<!----------COLUMN 1----------->
@@ -145,7 +208,7 @@ Attention: Business Development and Communications</p>
 </td></tr></tbody></table>
 
 <div class="footer">
-<a href="/admin/copyright/" class="footerA"><span class="footerC">Copyright</span></a> | <a href="/admin/disclaimer/" class="footerA"><span class="footerC">Disclaimers</span></a> | <a href="/admin/terms/" class="footerA"><span class="footerC">Terms of Use</span></a> | <a href="/admin/privacy/" class="footerA"><span class="footerC">Privacy</span></a> | <a href="/admin/germanDisclaimer/" class="footerA"><span class="footerC">§6 Tele-Services Act</span></a> | <a href="/pubs/rss.aspx" class="footerA"><span class="footerC">RSS</span></a> | <a href="/admin/sitemap.aspx" class="footerA"><span class="footerC">Sitemap</span></a>
+<a href="/admin/copyright/" class="footerA"><span class="footerC">Copyright</span></a> | <a href="/admin/disclaimer/" class="footerA"><span class="footerC">Disclaimers</span></a> | <a href="/admin/terms/" class="footerA"><span class="footerC">Terms of Use</span></a> | <a href="/admin/privacy/" class="footerA"><span class="footerC">Privacy</span></a> | <a href="/admin/germanDisclaimer/" class="footerA"><span class="footerC">§6 Tele-Services Act</span></a> | <a href="/pubs/rss.aspx" class="footerA"><span class="footerC">RSS</span></a> | <a href="/admin/sitemap.aspx" class="footerA"><span class="footerC">Sitemap</span></a> | <a href="/admin/disclaimer/" class="footerA"><span class="footerC">Attorney Advertising</span></a>
 </div>
 
 		</form>
