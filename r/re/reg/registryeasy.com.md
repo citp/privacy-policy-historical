@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the registryeasy.com privacy policy that was archived on 2006-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061023232226id_/http%3A//www.registryeasy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the registryeasy.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513163315id_/http%3A//www.registryeasy.com/privacy.html) for the most accurate reproduction.*
 
 # RegistryEasy.com - Privacy Policy
 
@@ -39,4 +39,4 @@ The Web Site may contain links to other web sites. RegistryEasy.com does not mon
 RegistryEasy.com.com may occasionally update this Privacy Policy. Any changes will be posted to this site, so we encourage you to continuously review our Privacy Policy.
 
 6\. CONTACT INFORMATION  
-For questions regarding this Privacy Policy please [Contact us](https://web.archive.org/web/20061023232226id_/http%3A//www.registryeasy.com/contact.html).
+For questions regarding this Privacy Policy please [Contact us](https://web.archive.org/web/20070513163315id_/http%3A//www.registryeasy.com/contact.html).
