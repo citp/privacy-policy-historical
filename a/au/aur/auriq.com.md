@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the auriq.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206115303id_/http%3A//www.auriq.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auriq.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513094741id_/http%3A//www.auriq.com/corporate/privacy.php) for the most accurate reproduction.*
 
-# Privacy Statement - AuriQ, Systems, Inc.
+# Privacy Statement - AuriQ Systems
 
-[Home](https://web.archive.org/web/20061206115303id_/http%3A//www.auriq.com/index.htm) > [Privacy Statement](https://web.archive.org/web/20061206115303id_/http%3A//www.auriq.com/privacy.htm)
-
-**Your privacy matters to us.**  
-AuriQ Systems envisions the Internet as a safe place where people can exchange ideas and information. We believe that safety on the Internet is a right and not a privilege.
+| 
 
 AuriQ Systems, Inc. is dedicated to protecting the privacy of online users and follows the guidelines set forth by the Internet Advertising Bureau (IAB). This privacy statement discloses the privacy practices for AuriQ Systems, Inc. and is designed to protect information that can be associated with an individual (Personal Identifiable Information) in an online environment.
 
@@ -24,8 +21,14 @@ This AuriQ Site may contain links to other company sites. We have no control nor
 **Feedback**  
 For any questions and concerns: <http://www.ftc.gov/privacy/index.html>
 
-**Contact us:**  
+**Contact Us:**  
 US Toll Free Phone: 800.474.7188  
 Questions regarding privacy: [info@auriq.com](mailto:info@auriq.com)
 
- 
+|  | 
+
+AuriQ is proud to announce the Beta release of myRT, our new hosted analytics service featuring enhanced and interactive Flash based graphics.   
+[\+ more  
+](http://www.auriq.com/products/my_rt.php)  
+  
+---|---|---
