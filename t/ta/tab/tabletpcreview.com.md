@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tabletpcreview.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215060116id_/http%3A//www.tabletpcreview.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tabletpcreview.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513083355id_/http%3A//www.tabletpcreview.com/privacy) for the most accurate reproduction.*
 
 # TabletPCReview.com privacy statement
 
