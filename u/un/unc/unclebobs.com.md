@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unclebobs.com privacy policy that was archived on 2006-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061124023221id_/http%3A//unclebobs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unclebobs.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513221516id_/http%3A//www.unclebobs.com/privacy) for the most accurate reproduction.*
 
 # Uncle Bob's Self Storage Pricing and Availability
 
