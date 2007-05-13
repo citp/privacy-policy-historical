@@ -1,31 +1,15 @@
-> *The following text is extracted and transformed from the parliamentlive.tv privacy policy that was archived on 2002-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020204184544id_/http%3A//www.parliamentlive.tv/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parliamentlive.tv privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513220927id_/http%3A//www.parliament.uk/site_information/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Live Webcasting of Parliament Privacy Policy
+# UK Parliament - Privacy Policy
 
-  
-**1\. Overview**
+The Corporate Officers of the House of Commons and House of Lords are Data Controllers under the Data Protection Act 1998.
 
-Parliament **live**.tv respects the privacy of every individual who visits our website. This Privacy Statement outlines the information Parliament **live**.tv will collect and how we will use that information. This Statement also instructs you on what to do if you do not want your personal information collected or shared when you visit Parliament **live**.tv. 
+Where you provide personal information to the Houses of Parliament, for example when you send a feedback form, it will be used only for the services you requested and as specified on the relevant pages of the site. Copies of responses sent to feedback questions are kept by the Houses of Parliament for the purposes of monitoring and providing responses only.
 
-**2\. Personal Information**
+The Houses of Parliament do not automatically capture or store personal data from visitors to the site, except to log the user's IP address and session information such as the duration of the visit to the site and the nature of the browser used. This information can not be used to identify individuals. It will be used only for administration of the system and in the compilation of statistics used by both Houses to assess the level of use of the site. 
 
-Parliament **live**.tv will only collect Personal Information (information which personally identifies you) if you provide it to us voluntarily. This could include such things as your name, address, phone number or e-mail address. You are in control of how Parliament **live**.tv uses the information you provide. At any time, you can:   
-·Ask us to remove your Personal Information from our records   
-·Ask for your Personal Information to be corrected or updated   
-·Ask to see a copy of your personal information   
-We may use your Personal Information for marketing or research purposes. For instance, this could allow us to personalise information and increase its relevancy if we contact you, or to invite you to help us develop new products through your feedback. Parliament **live**.tv will not disclose Personal Information to any third party without your permission. 
+The [Information Advertising Bureau web site](http://www.allaboutcookies.org/) provides in depth information about cookies. This site also tells you [how to remove cookies](http://www.allaboutcookies.org/manage-cookies/) from your browser.
 
-**3\. Other (non-personal) Information Collected Automatically**
+This privacy policy does not cover the links within this site linking to other sites.
 
-Sometimes, we may collect information about you that is not personally identifiable. Examples of this type of information include the type of Internet Browser you are using, the type of computer operating system you are using and the domain name of the website from which you linked to our site. 
-
-**4\. Cookies - i.e. Information We May Place Automatically On Your Computer's Hard Drive**
-
-When you view one of our websites, we may store some information on your computer. This information will be in the form of a "Cookie" or similar file and will help us in many ways. With most Internet Browsers, you can erase Cookies from your computer hard drive, block all Cookies, or receive a warning before a Cookie is stored. Please refer to your Browser instructions to learn more about these functions.
-
-**5\. Security and Information Transfer**
-
-Your personally identifiable information will be stored in our databases located in the United Kingdom. Parliament **live**.tv is committed to keeping secure the data you provide us and will take reasonable precautions to protect your personally identifiable information from loss, misuse or alteration. 
-
-  
-
+If you have any questions about the way in which we process personal data, please contact:
