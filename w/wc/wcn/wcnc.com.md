@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wcnc.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111131357id_/http%3A//www.wcnc.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wcnc.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513043356id_/http%3A//www.wcnc.com/registration/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | About Us | Local News | News for Charlotte, North Carolina | WCNC.com
 
