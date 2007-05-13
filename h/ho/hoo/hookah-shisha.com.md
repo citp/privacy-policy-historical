@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hookah-shisha.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207062753id_/http%3A//www.hookah-shisha.com/store/pc/hookah-privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hookah-shisha.com privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514002535id_/http%3A//www.hookah-shisha.com/store/pc/hookah-privacy.asp) for the most accurate reproduction.*
 
-# Hookah and Shisha Central - Hookah and Shisha Central - Home - offers hookah, shisha, nargile, agrile, sheesha, hooka, and hookahs - offers hookah, shisha, sheesha, hooka, and hookahs - Hookah and Shisha Central
+# Hookah and Shisha Central - Buy Hookahs, Shisha Tobacco, Hooka Tobacco, Cheap Hookah Pipes and smoking accessories. - Hookah and Shisha Central
 
 **PRIVACY POLICY**
 
