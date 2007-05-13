@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadacomputers.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212191756id_/http%3A//canadacomputers.com/index.php%3Fdo%3DShowPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadacomputers.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513125233id_/http%3A//www.canadacomputers.com/index.php%3Fdo%3DShowPrivacy) for the most accurate reproduction.*
 
 # Canada Computers - Your Neighbourhood Computer Store and Service Centre - PC Systems and Hardware Components, Notebooks, Electronics, and more.
 
