@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ritholtz.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219152945id_/http%3A//www.ritholtz.com/content/view/71/124) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ritholtz.com privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514003905id_/http%3A//www.ritholtz.com/content/view/71/124) for the most accurate reproduction.*
 
 # Ritholtz Research - Privacy Policy
 
