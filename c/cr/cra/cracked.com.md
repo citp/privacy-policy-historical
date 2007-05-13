@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cracked.com privacy policy that was archived on 2006-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061027114850id_/http%3A//www.cracked.com/index.php%3Fmodule%3DlabPanels%26func%3Ddisplay%26panelid%3D12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cracked.com privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514012847id_/http%3A//www.cracked.com/index.php%3Fmodule%3DlabPanels%26func%3Ddisplay%26panelid%3D12) for the most accurate reproduction.*
 
-# Privacy Policy :: CRACKED.com :: Humor, Parody, Satire & More
+# CRACKED.com - Privacy Policy
 
 **Privacy Policy**
 
