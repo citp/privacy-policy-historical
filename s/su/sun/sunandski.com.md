@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sunandski.com privacy policy that was archived on 2006-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060813145354id_/http%3A//www.sunandski.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunandski.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513151940id_/http%3A//www.sunandski.com/articles.asp%3FID%3D5) for the most accurate reproduction.*
 
-# Water Skis, Snowboards, Camp @ Sun and Ski Sports, Wakeboards, Bikes and more
+# Backpacking Equipment, Wakeboard Accessories
 
 ### Privacy Policy
 
@@ -65,7 +65,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20060813145354id_/http%3A//www.sunandski.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20070513151940id_/http%3A//www.sunandski.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
