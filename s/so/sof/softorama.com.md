@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softorama.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205174021id_/http%3A//www.softorama.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softorama.com privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514024010id_/http%3A//www.softorama.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # softorama.com - Privacy Policy
 
@@ -24,6 +24,6 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 Contacting the WebSite
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can contact us by [clicking here](https://web.archive.org/web/20050205174021id_/http%3A//www.softorama.com/EmailUs.asp?p=PP). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can contact us by [clicking here](https://web.archive.org/web/20070514024010id_/http%3A//www.softorama.com/EmailUs.asp?p=PP). 
 
 | . | 
