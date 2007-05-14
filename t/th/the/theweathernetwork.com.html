@@ -1,26 +1,29 @@
-<!--The following is the downloaded HTML source of the theweathernetwork.com privacy policy that was archived on 2005-05-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050529075437id_/http%3A//www.theweathernetwork.com/inter/help/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theweathernetwork.com privacy policy that was archived on 2007-05-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070514021117id_/http%3A//theweathernetwork.com/inter/help/privacy.htm) for the most accurate reproduction.-->
 
 <html><head>
-<title>The Weather Network · Help · About TWN</title>
+<title>The Weather Network · Help · Privacy Policy</title>
 <!--Loading of the master CSS which contains basic style-->
 <link rel="stylesheet" type="text/css" href="/common/css/Master.css">
 <!--Loading of the section(area) CSS which contains specific style for each sections-->
-<link rel="stylesheet" type="text/css" href="/common/css/ros.css">
+<link rel="stylesheet" type="text/css" href="/common/css/help.css">
 <meta name="description" content="the weather network web site provides weather forecasts, news, and information for Canadian cities, U.S cities and International cities, including weather maps and radar maps">
 <meta name="keywords" content="the weather network weather forecasts news weather information canadian canada current weather conditions dopplar radar maps weather maps satellite maps U.S cities international cities world weather local forecasts waether tornadoes hurricanes clouds thunder and lightning storms snow storm blizzards rain precipitation weahter allergies gardening marine information travel vacation meteorology meterology atmosphere environment climate temperature air quality pollen UV index uv information humidity bugs insects golf parks humidex sun watches warnings alerts pelmorex ">
 <meta name="robot" content="index,follow">
 <meta name="author" content="Pelmorex Inc.">
 <meta http-equiv="pics-label" content="(pics-1.1 &quot;http://www.icra.org/ratingsv02.html&quot; comment &quot;ICRAonline EN v2.0&quot; l gen true for &quot;http://www.theweathernetwork.com&quot; r (nz 1 vz 1 lz 1 oz 1 cz 1) &quot;http://www.rsac.org/ratingsv01.html&quot; l gen true for &quot;http://www.theweathernetwork.com&quot; r (n 0 s 0 v 0 l 0))">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<script language="javascript">AC_FL_RunContent = 0;</script>
+<script src="/common/scripts/AC_RunActiveContent.js" language="javascript"></script>
+
 <script language="JavaScript" type="text/javascript">
 
 var d = document;
-var rndBanner=Math.ceil(Math.random()*999999);
+var rndBanner=Math.ceil(Math.random()*10000000000);
 var BannerNum=rndBanner;
 var now=new Date;
 var PageID = Math.ceil(Math.random() * 999999); // PageID Random Number
-
 
 var monthNames = new Array("January","February","March","April","May","June","July","August","September","October","November","December");
 
@@ -32,12 +35,87 @@ if (year1 < 1000) year1 +=1900;
 
 </script>
 
+
+<script>
+function determineCSS() {
+  var myWidth = 0, myHeight = 0;
+  if( typeof( window.innerWidth ) == 'number' ) {
+    //Non-IE
+    myWidth = window.innerWidth;
+    myHeight = window.innerHeight;
+  } else if( document.documentElement &&
+      ( document.documentElement.clientWidth || document.documentElement.clientHeight ) ) {
+    //IE 6+ in 'standards compliant mode'
+    myWidth = document.documentElement.clientWidth;
+    myHeight = document.documentElement.clientHeight;
+  } else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
+    //IE 4 compatible
+    myWidth = document.body.clientWidth;
+    myHeight = document.body.clientHeight;
+  }
+ 	  if ((myWidth >= "944") && (myWidth <= "1199")) {
+ 	  screenSize = "1024";
+  	  d.write('<link rel = "stylesheet" type = "text/css" href = "/common/css/1024/Master.css">');
+	  d.write('<link rel = "stylesheet" type = "text/css" href = "/common/css/1024/'+area+'.css">');
+	  d.write('<link rel = "stylesheet" media = "Print" type = "text/css" href = "/common/css/Print.css">');
+	  		if (((area == "hwyfx") && (province == "BC" || province == "AB" || province == "SK" || province == "MB")) && ((spoDate >= startDate) && (spoDate <= endDate))){
+	  		d.write('<link rel = "stylesheet" type = "text/css" href = "/common/css/1024/hwyfxSpo.css">');
+			}
+	  }
+
+	  else  if ((myWidth >= "1200") && (myWidth <= "1800")) {
+	  screenSize = "1280";	
+	  d.write('<link rel = "stylesheet" type = "text/css" href = "/common/css/1280/Master.css">');	  
+	  d.write('<link rel = "stylesheet" type = "text/css" href = "/common/css/1280/'+area+'.css">');
+	  d.write('<link rel = "stylesheet" media = "Print" type = "text/css" href = "/common/css/Print.css">'); 	  
+	  		if (((area == "hwyfx") && (province == "BC" || province == "AB" || province == "SK" || province == "MB")) && ((spoDate >= startDate) && (spoDate <= endDate))){
+	  		d.write('<link rel = "stylesheet" type = "text/css" href = "/common/css/1280/hwyfxSpo.css">');
+			}
+
+	 }
+
+	  else {
+	  screenSize = "800";
+	  d.write('<link rel = "stylesheet" type = "text/css" href = "/common/css/800/Master.css">');
+	  d.write('<link rel = "stylesheet" type = "text/css" href = "/common/css/800/'+area+'.css">');
+	  d.write('<link rel = "stylesheet" media = "Print" type = "text/css" href = "/common/css/Print.css">');
+	  	  	if (((area == "hwyfx") && (province == "BC" || province == "AB" || province == "SK" || province == "MB")) && ((spoDate >= startDate) && (spoDate <= endDate))){
+	  	  	d.write('<link rel = "stylesheet" type = "text/css" href = "/common/css/800/hwyfxSpo.css">');
+			}
+
+	    }
+}
+
+
+
+</script>
+
+<script type="text/JavaScript">
+<!--
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function TWN_showHideLayers() { //v6.0
+  var i,p,v,obj,args=TWN_showHideLayers.arguments;
+  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
+    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
+    obj.visibility=v; }
+}
+//-->
+</script>
+
 </head>
 <body marginwidth="0" marginheight="0">
 <!--Javascript variables which contains specific variables for ad and reusable JS variables-->
 <script type="text/javascript">
 <!--
-	var area="ros";
+	var pageSubTitle = "Privacy Policy";
+	var area="help";
 	var sector="nil";
 	var cityName="nil";
 	var province="nil";
@@ -48,144 +126,762 @@ if (year1 < 1000) year1 +=1900;
 	}
 // -->
 </script>
-<!-- HEADER -->
-<!--<script>function er_loaded(){er_parentLoaded=true;};window.onload=er_loaded;</script>-->
 
-<script>
-// List of sponsored areas for Expandable BOX to work. Adding areas will PREVENT showing of Expandable Box.
-if ((area == "attractions") ||(area == "golf") || (area == "hwyfx") || (area == "gardening") || (area == "pollen") || (area == "park") || (area == "wxhome")|| (area == "schoolday")){
-var sponsorship = "yes";
-}
-else {
-var sponsorship = "no";
-}
+<div id="headerContainer">
+	<script>
+//var noAds = "true";
 </script>
 
-		<script>
-		if ((area == "hwycond") && (sector=="AB")) {
-			Adtype = "hwyfilter";
-			client = "";
-			document.write('<table><tr><td>');
-			document.write('<iframe src="/common/includes/a'+'ds.htm?type='+Adtype+'/pageid='+PageID+'/width=0/height=0/client='+client+'/area='+area+'/sector='+sector+'/cityName='+cityName+'" noresize scrolling="no" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width = 0 height = 0>');
-			document.write('<a href="http://a'+'ds.weather.ca/accipiter/a'+'dclick/SITE=twn/pageid='+PageID+'/AREA='+area+'/AAMSZ='+Adtype+'/client='+client+'/SECTOR='+sector+'/CITY='+cityName+'?" target="_top">');
-			document.write('<img src="http://a'+'ds.weather.ca/accipiter/nserver/SITE=twn/pageid='+PageID+'/AREA='+area+'/AAMSZ='+Adtype+'/client='+client+'/SECTOR='+sector+'/CITY='+cityName+'?" BORDER="0" HEIGHT="0" WIDTH="0"></a>');
-			document.write('</iframe>');
-			document.write('</td></tr></table>');
-		}
-		</script>
-<div align="right"><script>
-	if ((document.referrer != '') && (area != 'home') && (sponsorship != "yes"))
- 	{
- 	document.write('<SCR'+'IPT SRC="http://a'+'ds.weather.ca/jserver/SITE=twn/pageid='+PageID+'/AREA='+area+'/AAMSZ=TRANS_VOKEN/SECTOR='+sector+'/CITY='+cityName+'/precip=/acc_random='+BannerNum+'?" LANGUAGE="JavaScript1.1"></SCR'+'IPT>');
-				}
-</script></div>
+<!-- Bookmark Us Function Start -->
 
+	<script type="text/javascript">
+
+	function bookmark(siteTitle, url){
+
+		if (document.all) {
+			window.external.AddFavorite(url, siteTitle);
+		} else if (window.sidebar) {
+			window.sidebar.addPanel(siteTitle, url, "")
+		}
+
+	}
+	</script>
+	
+<!-- Bookmark Us Function End -->
+
+	<script>var codePlace_golf=codePlace;</script>
+	
+	<script language="JavaScript1.2" src="/common/scripts/plp.js"></script><script type="text/javascript" src="/common/ssidata/profiles/XXXXXXXX.js"></script>
+
+<!-- wxSense Ads Logic Start -->
+	
+	<script>
+		// initiate blank
+		var wxSense_precip = "null";
+		var wxSense_precip_passed = "null";
+		var wxSense_temp = "null";
+		var wxSense_temp_passed = "null";
+		var wxSense_cond = "null";
+		var wxSense_cond_passed = "null";		
+	</script>
+	
+	
+	<script>
+	
+		function wxSenseAds(wxSense_precip,wxSense_temp,wxSense_cond) {
+		wxSense_precip_passed = wxSense_precip;
+		wxSense_temp_passed = wxSense_temp;
+		wxSense_cond_passed = wxSense_cond;
+		}
+	
+		// wxSense ads vars
+		if ((typeof codePlace != "undefined") && (typeof featureOBS != "undefined") && (area == "can")) {
+			d.write('<scr'+'ipt src = "/common/ssidata/wxsense/'+featureOBS+'.js">');
+			d.write('</scr'+'ipt>');
+		}
 		
+	</script>
+
+<!-- wxSense Ads Logic End -->	
+
+
+	<script>
+	
+		if (area == "hourlyfx") { 
+		pageSubTitle = cityNameLink + ", " + provName; 
+		sector = (codePlace.substring(2,4));
+		cityName = cityNameLink + '_' + sector;
+		if (cityName.match(" ")) { cityName = cityName.replace(/ /,"_"); }
+		cityName = cityName.toUpperCase();
+		}
+		
+		if (area == "ski") { 
+		cityName = cityName + '_' + sector;
+		if (cityName.match(" ")) { 
+			cityName = cityName.replace(/ /,"_"); 
+			cityName = cityName.replace(/'/,""); 
+			cityName = cityName.replace(/-/,""); 
+		}
+		cityName = cityName.toUpperCase();
+		}
+		
+		//alert(cityName);
+		
+	</script>
+	
+	
+	
+	<script>
+		var getURLStringForIndexPages = document.URL;
+		
+		if (getURLStringForIndexPages.indexOf("indexON")!=-1 || getURLStringForIndexPages.indexOf("indexon")!=-1) { var indexProvince = "Ontario";	}
+		else if (getURLStringForIndexPages.indexOf("indexQC")!=-1 || getURLStringForIndexPages.indexOf("indexQc")!=-1) { var indexProvince = " Quebec"; } 
+		else if (getURLStringForIndexPages.indexOf("indexBC")!=-1 || getURLStringForIndexPages.indexOf("indexbc")!=-1) { var indexProvince = " British Columbia"; }
+		else if (getURLStringForIndexPages.indexOf("indexYT")!=-1 || getURLStringForIndexPages.indexOf("indexyt")!=-1) { var indexProvince = " Yukon Territory"; }
+		else if (getURLStringForIndexPages.indexOf("indexNT")!=-1 || getURLStringForIndexPages.indexOf("indexnt")!=-1) { var indexProvince = " Northwest Territories"; }
+		else if (getURLStringForIndexPages.indexOf("indexNU")!=-1 || getURLStringForIndexPages.indexOf("indexnu")!=-1) { var indexProvince = " Nunavut"; }
+		else if (getURLStringForIndexPages.indexOf("indexNL")!=-1 || getURLStringForIndexPages.indexOf("indexnl")!=-1) { var indexProvince = " Newfoundland and Labrador";	}
+		else if (getURLStringForIndexPages.indexOf("indexNB")!=-1 || getURLStringForIndexPages.indexOf("indexnb")!=-1) { var indexProvince = " New Brunswick"; }
+		else if (getURLStringForIndexPages.indexOf("indexNS")!=-1 || getURLStringForIndexPages.indexOf("indexns")!=-1) { var indexProvince = " Nova Scotia"; }
+		else if (getURLStringForIndexPages.indexOf("indexMB")!=-1 || getURLStringForIndexPages.indexOf("indexmb")!=-1) { var indexProvince = " Manitoba"; }
+		else if (getURLStringForIndexPages.indexOf("indexSK")!=-1 || getURLStringForIndexPages.indexOf("indexsk")!=-1) { var indexProvince = " Saskatchewan"; }
+		else if (getURLStringForIndexPages.indexOf("indexPE")!=-1 || getURLStringForIndexPages.indexOf("indexpe")!=-1) { var indexProvince = " Prince Edward Island"; }
+		else if (getURLStringForIndexPages.indexOf("indexAB")!=-1 || getURLStringForIndexPages.indexOf("indexab")!=-1) { var indexProvince = " Alberta"; }
+		else { var indexProvince = "";}
+
+		var country = "";
+		if ((area == "can") || (area == "usa") || (area == "intl")) { country = area; }
+		
+		var theProvince = "";
+		if (indexProvince != "") { theProvince = " - " + indexProvince; }	
+		
+		var omniPlaceCode="";
+		if((codePlace.substring(0,4) == "XXXX") || (codePlace == "nil") || (codePlace.length != 8)) { omniPlaceCode = ""; }
+		else { omniPlaceCode = codePlace; }
+
+		var omniProvince = "";
+		if (province.length == 2) { province = "nil"; }
+		if (province != "nil") { omniProvince = province.toUpperCase(); }
+
+		var pageSubproduct = "";
+	</script>
+
+	<script>
+		function getQueryVariable(variable) {
+		  var query = window.location.search.substring(1);
+		  var vars = query.split("&");
+		  for (var i=0;i<vars.length;i++) {
+			var pair = vars[i].split("=");
+			if (pair[0] == variable) {
+			  return pair[1];
+			}
+		  } 
+		}
+
+		var theReferrer = getQueryVariable("ref");
+
+		if (theReferrer == "wxeye") { referrerType = "WxEye"; }
+		else { referrerType = document.referrer; }
+		
+	</script>
+	
+	
+<!-- Begin Ad Delivery Code -->	
+
+
+	
+<script>
+	
+	function getParameter(paramName) {
+	            var currentUrl = window.location.search
+	            var strBegin = currentUrl.indexOf(paramName) + (paramName.length+1)
+	            var strEnd = currentUrl.indexOf("&",strBegin)
+	            if (strEnd==-1)
+	                        strEnd = currentUrl.length
+	            return currentUrl.substring(strBegin,strEnd)
+	}
+	
+	// getSubtmpzne - substitute temporary zone (area) passed from previous page to allow for same ads to follow by adding the var in links as parameters
+	var areaFromQuery = getParameter('getSubtmpzne');
+
+	if (areaFromQuery && area != "wcam" && area != "flu" && area != "bugs" && area != "flighttkr") {
+		var areaSwitcher = areaFromQuery;
+		} else {
+		var areaSwitcher = area;
+	}
+	
+	if ((area == "can") && (areaSwitcher = "st")) { // fix ref=wxeyewxst area swtitching
+		areaSwitcher = "can";
+	}
+		
+	// Initiates local Ads variable to false, ad_config Array will set it to "true" if it is an SPO
+	var isSponsorship = "false";
+	
+	spoDate = new Date();
+	spoMonth = spoDate.getMonth();
+	spoYear = spoDate.getYear();
+	spoDay = spoDate.getDate();		
+	
+	// Load the array of open ad spaces
+	Ads = new Array(''); 	
+	switch (areaSwitcher) {
+
+	case "flu": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
+
+case "home": Ads = new Array("","TOPBANNER","","BOX","","","",""); break;
+
+case "can": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
+
+default: Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
+
+case "st": Ads = new Array("","","","","","","",""); break;
+
+case "usa": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
+
+case "intl": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
+
+case "wcam": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
+
+case "ski": var startDate = new Date(); startDate.setYear(2006); startDate.setMonth(12-1); startDate.setDate(06); var endDate = new Date(); endDate.setYear(2007); endDate.setMonth(03-1); endDate.setDate(25); if ((spoDate >= startDate) && (spoDate <= endDate)) {Ads = new Array("","TOPBANNER_SKI","","BOX_SKI","","","",""); var isSponsorship = "true";} else {Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","","","");} break;
+
+case "vac": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
+
+case "airport": var startDate = new Date(); startDate.setYear(2007); startDate.setMonth(02-1); startDate.setDate(07); var endDate = new Date(); endDate.setYear(2007); endDate.setMonth(04-1); endDate.setDate(29); if ((spoDate >= startDate) && (spoDate <= endDate)) {Ads = new Array("","TOPBANNER_AIRPORT","","BOX_AIRPORT","","","ANY_AIRPORT",""); var isSponsorship = "true";} else {Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","","");} break;
+
+case "mediakit": Ads = new Array("","TOPBANNER","","","","","",""); break;
+
+case "hwyfx": var startDate = new Date(); startDate.setYear(2007); startDate.setMonth(04-1); startDate.setDate(27); var endDate = new Date(); endDate.setYear(2007); endDate.setMonth(05-1); endDate.setDate(27); if ((spoDate >= startDate) && (spoDate <= endDate)) {Ads = new Array("","TOPBANNER_HWYFX","","BOX_HWYFX","","","ANY_HWYFX",""); var isSponsorship = "true";} else {Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","","");} break;
+
+case "hwycond": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
+
+case "drivingtips": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
+
+case "flu": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
+
+case "pollen": Ads = new Array("TRANS_VOKEN","","BOTTOMBANNER","BOX","","TOWER","","MASTHEAD"); break;
+
+case "schoolday": var startDate = new Date(); startDate.setYear(2007); startDate.setMonth(03-1); startDate.setDate(01); var endDate = new Date(); endDate.setYear(2007); endDate.setMonth(03-1); endDate.setDate(25); if ((spoDate >= startDate) && (spoDate <= endDate)) {Ads = new Array("","TOPBANNER_SCHOOLDAY","","BOX_SCHOOLDAY","","","",""); var isSponsorship = "true";} else {Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","","");} break;
+
+case "attractions": var startDate = new Date(); startDate.setYear(2007); startDate.setMonth(03-1); startDate.setDate(29); var endDate = new Date(); endDate.setYear(2007); endDate.setMonth(06-1); endDate.setDate(17); if ((spoDate >= startDate) && (spoDate <= endDate)) {Ads = new Array("","TOPBANNER_ATTRACTIONS","","BOX_ATTRACTIONS","","","ANY_ATTRACTIONS",""); var isSponsorship = "true";} else {Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","","","");} break;
+
+case "floods": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
+
+case "wxhome": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
+
+case "golf": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
+
+case "park": var startDate = new Date(); startDate.setYear(2007); startDate.setMonth(02-1); startDate.setDate(26); var endDate = new Date(); endDate.setYear(2007); endDate.setMonth(05-1); endDate.setDate(27); if ((spoDate >= startDate) && (spoDate <= endDate)) {Ads = new Array("","TOPBANNER_PARK","","BOX_PARK","","","",""); var isSponsorship = "true";} else {Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","","","");} break;
+
+case "marine": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
+
+case "fluSpo": var startDate = new Date(); startDate.setYear(2006); startDate.setMonth(11-1); startDate.setDate(17); var endDate = new Date(); endDate.setYear(2007); endDate.setMonth(03-1); endDate.setDate(18); if ((spoDate >= startDate) && (spoDate <= endDate)) {Ads = new Array("","TOPBANNER_FLUSPO","","BOX_FLUSPO","TEXT_FLUSPO","","",""); var isSponsorship = "true";} else {Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","","","");} break;
+
+case "contests": Ads = new Array("TRANS_VOKEN","TOPBANNER","","BOX","","TOWER","",""); break;
+
+case "uvb": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
+
+case "trafficflow": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
+
+case "tcam": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
+
+case "aqi": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
+
+case "hourlyfx": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
+
+case "ndxbusiness": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
+
+case "can": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
+
+case "ndxeurope": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
+
+case "ndxsunshine": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
+
+case "travel": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
+
+case "activities": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
+
+case "flighttkr": var startDate = new Date(); startDate.setYear(2007); startDate.setMonth(02-1); startDate.setDate(07); var endDate = new Date(); endDate.setYear(2007); endDate.setMonth(04-1); endDate.setDate(29); if ((spoDate >= startDate) && (spoDate <= endDate)) {Ads = new Array("","TOPBANNER_FLIGHTTKR","","BOX_FLIGHTTKR","","","ANY_FLIGHTTKR",""); var isSponsorship = "true";} else {Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","","");} break;
+
+case "snow": var startDate = new Date(); startDate.setYear(2007); startDate.setMonth(01-1); startDate.setDate(02); var endDate = new Date(); endDate.setYear(2007); endDate.setMonth(02-1); endDate.setDate(25); if ((spoDate >= startDate) && (spoDate <= endDate)) {Ads = new Array("","TOPBANNER_SNOW","","BOX_SNOW","","","ANY_SNOW",""); var isSponsorship = "true";} else {Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","","");} break;
+
+case "snowmobile": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
+
+case "valentine": var startDate = new Date(); startDate.setYear(2007); startDate.setMonth(02-1); startDate.setDate(09); var endDate = new Date(); endDate.setYear(2007); endDate.setMonth(02-1); endDate.setDate(15); if ((spoDate >= startDate) && (spoDate <= endDate)) {Ads = new Array("","TOPBANNER_VALENTINE","","","","","ANY_VALENTINE",""); var isSponsorship = "true";} else {Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","","");} break;
+
+case "newfoundland": var startDate = new Date(); startDate.setYear(2007); startDate.setMonth(02-1); startDate.setDate(12); var endDate = new Date(); endDate.setYear(2007); endDate.setMonth(08-1); endDate.setDate(12); if ((spoDate >= startDate) && (spoDate <= endDate)) {Ads = new Array("","TOPBANNER_NEWFOUNDLAND","","BOX_NEWFOUNDLAND","","","",""); var isSponsorship = "true";} else {Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","","","");} break;
+
+case "interstatefx": var startDate = new Date(); startDate.setYear(2007); startDate.setMonth(04-1); startDate.setDate(27); var endDate = new Date(); endDate.setYear(2007); endDate.setMonth(05-1); endDate.setDate(27); if ((spoDate >= startDate) && (spoDate <= endDate)) {Ads = new Array("","TOPBANNER_INTERSTATEFX","","BOX_INTERSTATEFX","","","ANY_INTERSTATEFX",""); var isSponsorship = "true";} else {Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","","");} break;
+
+case "NWT": var startDate = new Date(); startDate.setYear(2007); startDate.setMonth(03-1); startDate.setDate(21); var endDate = new Date(); endDate.setYear(2007); endDate.setMonth(06-1); endDate.setDate(01); if ((spoDate >= startDate) && (spoDate <= endDate)) {Ads = new Array("","TOPBANNER_NWT","","BOX_NWT","","","ANY_NWT",""); var isSponsorship = "true";} else {Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","","");} break;
+
+case "video": Ads = new Array("TRANS_VOKEN","TOPBANNER","","BOX_PREROLL","","BOX","BOX_POSTROLL",""); break;
+
+case "gardening": var startDate = new Date(); startDate.setYear(2007); startDate.setMonth(03-1); startDate.setDate(26); var endDate = new Date(); endDate.setYear(2007); endDate.setMonth(09-1); endDate.setDate(30); if ((spoDate >= startDate) && (spoDate <= endDate)) {Ads = new Array("","TOPBANNER_GARDENING","","BOX_GARDENING","","","",""); var isSponsorship = "true";} else {Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","","","");} break;
+
+case "bugs": var startDate = new Date(); startDate.setYear(2007); startDate.setMonth(04-1); startDate.setDate(16); var endDate = new Date(); endDate.setYear(2007); endDate.setMonth(09-1); endDate.setDate(15); if ((spoDate >= startDate) && (spoDate <= endDate)) {Ads = new Array("","TOPBANNER_BUGS","","BOX_BUGS","","","",""); var isSponsorship = "true";} else {Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","","");} break;
+
+case "pei": var startDate = new Date(); startDate.setYear(2007); startDate.setMonth(04-1); startDate.setDate(24); var endDate = new Date(); endDate.setYear(2007); endDate.setMonth(06-1); endDate.setDate(17); if ((spoDate >= startDate) && (spoDate <= endDate)) {Ads = new Array("","TOPBANNER_PEI","","BOX_PEI","","","ANY_PEI",""); var isSponsorship = "true";} else {Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","","");} break;
+
+case "victoriaday": var startDate = new Date(); startDate.setYear(2007); startDate.setMonth(05-1); startDate.setDate(10); var endDate = new Date(); endDate.setYear(2007); endDate.setMonth(05-1); endDate.setDate(22); if ((spoDate >= startDate) && (spoDate <= endDate)) {Ads = new Array("","TOPBANNER_VICTORIADAY","","BOX_VICTORIADAY","","","ANY_VICTORIADAY",""); var isSponsorship = "true";} else {Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","","");} break;
+
+	
+
+	}
+	
+	var areaSpo = "_"+area.toUpperCase();
+	
+</script>
+	
+	<!-- Load Local & BServer vars + logic -->
+	<script src="/common/includes/bServerAdVars.js"></script><script src="https://web.archive.org/web/20060330134735/http://www.theweathernetwork.com/common/localAds/nil.js"></script><script src="http://ads.weather.ca/bservers/AAMALL/pageid=495975/SITE=twn/AAMB1/AREA=help/AAMSZ=TRANS_VOKEN/SECTOR=nil/CITY=nil/acc_random=4895273265/AAMB2/AREA=help/AAMSZ=TOPBANNER/SECTOR=nil/CITY=nil/acc_random=4895273265/AAMB3/AREA=help/AAMSZ=BOTTOMBANNER/SECTOR=nil/CITY=nil/acc_random=4895273265/AAMB4/AREA=help/AAMSZ=BOX/SECTOR=nil/CITY=nil/acc_random=4895273265/AAMB6/AREA=help/AAMSZ=TOWER/SECTOR=nil/CITY=nil/acc_random=4895273265?" type="text/JavaScript" language="JavaScript"></script>
+	
 <!--	live ad server: a'+'ds.weather.ca
-	test server :	216.123.177.212
+	test server :	10.10.202.12
 -->
 
+<!-- End Ad Delivery Code -->
+
+	<script>
+	if ((area == "hwycond") && (sector == "AB")) {
+		Adtype = "hwyfilter";
+		client = "";
+		document.write('<table><tr><td>');
+		document.write('<iframe src = "/common/includes/a'+'ds.htm?type='+Adtype+'/pageid='+PageID+'/width=0/height=0/client='+client+'/area='+area+'/sector='+sector+'/cityName='+cityName+'" noresize scrolling = "no" hspace = "0" vspace = "0" frameborder = "0" marginheight = "0" marginwidth = "0" width = "0" height = "0">');
+		document.write('<a href = "http://a'+'ds.weather.ca/accipiter/a'+'dclick/SITE=twn/pageid='+PageID+'/AREA='+area+'/AAMSZ='+Adtype+'/client='+client+'/SECTOR='+sector+'/CITY='+cityName+'?" target = "_top">');
+		document.write('<IMG src = "http://a'+'ds.weather.ca/accipiter/nserver/SITE=twn/pageid='+PageID+'/AREA='+area+'/AAMSZ='+Adtype+'/client='+client+'/SECTOR='+sector+'/CITY='+cityName+'?" BORDER = "0" HEIGHT = "0" WIDTH = "0" /></a>');
+		document.write('</iframe>');
+		document.write('</td></tr></table>');
+	}
+	</script>
+
+	<script>
+		// TRANS_VOKEN ad
+		if ((document.referrer != '') && (area != 'home') && (area != 'search')) {
+			// TRANS_VOKRN: look for a clear dot in the ad call - do not display if the clear dot is returned 
+			if ((AAMB1.search(/clear_dot.gif/) == -1) && (AAMB1.search(/default_engine.gif/) == -1)) { if (Ads[0].length > 1) showAds(AAMB1); }
+		}
+	</script>	
+	
+	<script>		
+		// Executes CSS determining function
+		determineCSS()
+
+		/*var homeDepotBegin = new Date();
+		var homeDepotDate = homeDepotBegin.getDate();
+		var homeDepotMonth = homeDepotBegin.getMonth()+1;
+		var homeDepotYear = homeDepotBegin.getFullYear();
+
+		if( (area=="home") && (homeDepotMonth==8) && ((homeDepotDate==29)||(homeDepotDate==30)) && (homeDepotYear==2006) ) { document.write('<link rel = "stylesheet" type = "text/css" href = "/common/css/'+screenSize+'/homedepot.css">'); }*/
+	</script><link rel="stylesheet" type="text/css" href="/common/css/1280/Master.css"><link rel="stylesheet" type="text/css" href="/common/css/1280/help.css"><link rel="stylesheet" media="Print" type="text/css" href="/common/css/Print.css">
 
 
-<table border="0" cellpadding="cellspacing" =="" 0="" bgcolor="#DAE0EC" width="100%">
+	 <table cellpadding="0" cellspacing="0" border="0" class="headerFooterSize">
 	<tbody><tr>
-		<td>
-<center>
+		<td colspan="5" class="Header">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+
+	<tbody><tr>
+		<td colspan="3"><a href="/index.htm"><img src="/common/images/logo_trans.gif" border="0" alt="The Weather Network"></a>
+</td><td valign="top" align="center" width="100%"><table width="100%" height="94" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td height="92" width="100%" valign="middle" align="center">
 <script>
-	Adtype = "728x90";
-	setWidth = 728;
-	setHeight = 90;
 
-	// To Allow 728X90 to show, add an area - 728X90 will ONLY be shown to specified areas.
-	if ((area == "ski") || (area == "snow") ||(area == "can") || (area == "intl") || (area == "climate") || (area == "vac") || (area == "home") || (area == "bugs") || (area == "hwycond") || (area == "usa") || (area == "floods") || (area == "radar")) {
-		d.write('<SCR'+'IPT SRC="http://a'+'ds.weather.ca/jserver/SITE=twn/pageid='+PageID+'/AREA='+area+'/AAMSZ=728X90/SECTOR='+sector+'/CITY='+cityName+'/acc_random=' + BannerNum + '?" LANGUAGE="JavaScript1.1">');
-		d.write('</SCR'+'IPT>');
+if (Ads[1].length > 1) { 
+if (typeof isTransitional=="undefined") { showAds(AAMB2); 
+} else {
+document.write('<SCR'+'IPT SRC="http://a'+'ds.weather.ca/jserver/SITE=twn/AREA='+areaSwitcher+'/PAGEID=/AAMSZ=728X90/SECTOR='+sector+'/CITY='+cityName+'/acc_random='+BannerNum+'?" LANGUAGE="JavaScript1.1">');
+document.write('</SCR'+'IPT>');
+}
+}
 
-	} 
+</script></td>
+<td align="center">
 
-	if (area == "schoolday") {
-		d.write('<SCR'+'IPT SRC="http://a'+'ds.weather.ca/jserver/SITE=twn/pageid=/AREA='+area+'/AAMSZ=728X90_SCHOOLDAY/SECTOR='+sector+'/CITY='+cityName+'/acc_random=' + BannerNum + '?" LANGUAGE="JavaScript1.1">');
-		d.write('</SCR'+'IPT>');
-
-	} 
-
+<script>
+if ((Ads[7].length > 1) && (Ads[1].length < 1)) {
+d.write('<table width="300" align = "center" border="0" cellpadding="0"><tr><td align = "right">');
+showAds(AAMB8);
+//if(area == "bugs" ) { d.write('<img src="/common/images/bugLogo.gif">'); }
+d.write('</td></tr></table>');
+}
 </script>
-</center>
-		</td>
-		
-	</tr>
+
+
+</td>
+</tr>
+
 </tbody></table>
 
+<table align="left" cellpadding="2" cellspacing="4" border="0" width="100%"><tbody><tr><td align="left">
+<div id="topNavLinks">&nbsp;&nbsp;<a class="topNavLinks" href="/weather/index.htm">Weather</a> | <a class="topNavLinks" href="/travel/index.htm">Travel</a> | <a class="topNavLinks" href="/roads/index.htm">Roads</a> | <a class="topNavLinks" href="/homeandgarden/index.htm">Home &amp; Garden</a> | <a class="topNavLinks" href="/activities/index.htm">Activities</a> | <a class="topNavLinks" href="/health/index.htm">Health &amp; Environment</a></div>
+</td></tr></tbody></table>
 
-<script>var codePlace_golf=codePlace;</script>
-<script language="JavaScript1.2" src="/common/scripts/headerTWN.js"></script><table border="0" cellpadding="0" cellspacing="0" width="100%">	<tbody><tr>		<td colspan="6" class="Header"><table border="0" cellpadding="0" cellspacing="0" width="100%">	<tbody><tr>		<td background="" bgcolor="#000066" width="210" align="left" colspan="2"><img src="/common/images/spacer.gif" width="210" height="17" border="0"></td>		<td background="" valign="top"><img src="/common/images/spacer.gif" width="78" height="17" name="menu0" id="menu0" onmouseover="showMenu(event)" onmouseout="hideMenu(event)"></td>		<td background="" valign="top"><img src="/common/images/spacer.gif" width="102" height="17" name="menu1" id="menu1" onmouseover="showMenu(event)" onmouseout="hideMenu(event)"></td>		<td background="" valign="top"><img src="/common/images/spacer.gif" width="100" height="17" name="menu2" id="menu2" onmouseover="showMenu(event)" onmouseout="hideMenu(event)"></td>		<td background="" valign="top"><img src="/common/images/spacer.gif" width="76" height="17" name="menu3" id="menu3" onmouseover="showMenu(event)" onmouseout="hideMenu(event)"></td>		<td background="" valign="top"><img src="/common/images/spacer.gif" width="98" height="17" name="menu4" id="menu4" onmouseover="showMenu(event)" onmouseout="hideMenu(event)"></td>		<td background="" width="100%"><img src="/common/images/spacer.gif" height="17" width="100%"></td>	</tr>	<tr>		<td colspan="2" background=""><a href="/index.htm"><img src="/common/images/spacer.gif" width="210" height="51" border="0" alt="The Weather Network"></a></td>		<td colspan="6" background=""><form name="searchform" action="/common/scripts/search.htm" method="POST"></form></td>	</tr>	<tr>		<td background="" rowspan="2" width="92"><img src="/common/images/spacer.gif" width="92" height="20"></td>		<td background="" rowspan="2"><input type="text" name="recherche" size="10" value="enter city" class="searchbox" onclick="CheckCity();"></td>		<td background="" rowspan="2" valign="top" colspan="5"><a href="/weather/cities/indexcan.htm"><img src="/common/images/spacer.gif" width="133" height="18" border="0"></a><a href="/weather/cities/indexusa.htm"><img src="/common/images/spacer.gif" width="109" height="18" border="0"></a><a href="/weather/cities/indexintl.htm"><img src="/common/images/spacer.gif" width="162" height="18" border="0"></a></td>	</tr></tbody></table>		</td>	</tr></tbody></table>
-<script language="JavaScript1.2" src="/common/scripts/plp.js"></script><script type="text/javascript" src="/common/ssidata/profiles/XXXXXXXX.js"></script>
+</td></tr>
 
-
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-	<!-- Section "SUBTITLE" (right under Masthead) -->
+</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" border="0" class="headerFooterSize">
 	<tbody><tr>
 		<td colspan="3" width="100%">
-			<table width="100%" cellpadding="0" cellspacing="0" border="0">
+			<table width="100%" background="/common/images/subMastheadBlueBG.gif" cellpadding="0" cellspacing="0" border="0">
 				<tbody><tr>
-					<!--Left cell with the same width than the right one to make sur the title image stays centered-->
-					<td width="200">&nbsp;</td>
-					<!--Section Title image centered-->
-					<td align="center"><img src="/common/images/pagetitles/helpPageTitleEN.gif"></td>
-					<!--Right end portion of the title row which will set a search box if requested-->
-					<td width="200"><img src="/common/images/RightWave.gif" align="right"></td>
+ <!--Left cell with the same width than the right one to make sur the title image stays centered-->
+		<td width="95" height="24" class="subMastHead">&nbsp;&nbsp;&nbsp;<span class="citySearchText">CITY SEARCH</span></td>
+		<!--Section Title image centered-->
+		<td align="center" width="42">
+</td>
+				<!--Right end portion of the title row which will set a search box if requested-->
+				<td width="116" valign="middle" align="left" class="subMastHeadPromos"><a href="/inter/weathercentre/" class="wxcText">WEATHER CENTRE:</a> </td><td><a href="/inter/weathercentre/desktop"><img src="/common/images/promoPC.gif" border="0&quot;" hspace="0" vspace="0"></a><a href="/inter/weathercentre/mobile/"><img src="/common/images/promoMobile.gif" border="0" hspace="0" vspace="0"></a><a href="/inter/weathercentre/email"><img src="/common/images/promoEmail.gif" border="0" hspace="0" vspace="0"></a><a href="/inter/weathercentre/weatherbutton/index.htm"><img src="/common/images/promoWebsite.gif" border="0" hspace="0" vspace="0"></a>
+</td><script>document.write("<td width = '184' valign = 'middle' align = 'left' class = 'subMastHeadPromos'><a href='javascript:bookmark(\""+document.title+"\", \""+document.URL+"\")'><img src = '/common/images/promoBookmark.gif' alt = 'Bookmark this page' border = '0' /></a></td>");</script><td width="184" valign="middle" align="left" class="subMastHeadPromos"><a href='javascript:bookmark("The Weather Network · Help · Privacy Policy", "https://web.archive.org/web/20070514021117id_/http%3A//theweathernetwork.com/inter/help/privacy.htm")'><img src="/common/images/promoBookmark.gif" alt="Bookmark this page" border="0"></a></td><td width="80"><a href="/inter/help/FAQ.htm" class="helpHeaderLink"><img src="/common/images/YellowArrowRight.gif" border="0" hspace="0" vspace="0"> Help/FAQ</a></td>
 				</tr>
 			</tbody></table>
 		</td>
 	</tr>
-	<!-- Page Title & Date -->
-	<tr>
-		<td valign="top" width="100%" bgcolor="#ffffff" colspan="3">
-			<table width="100%" cellpadding="0" cellspacing="0" border="0">
+</tbody></table>	
+
+	<script>	
+	/* takeover-logic
+	if ((area == "can") && (typeof nfld_takeover != "undefined")) { // NFLD SPO
+		document.write("<style>.Header { background-image: url('/common/images/mastheads/masthead"+screenSize+"_nfld.gif'); }");
+		document.write("#mainContainer { background-image: url('/common/images/nfld_Background"+screenSize+".gif'); background-repeat: no-repeat; }</style>");
+	}*/
+	</script>
+</div>
+
+<div id="mainContainer">
+
+		<div id="leftMenu">
+			 
+
+			<table class="navSubMastheadTable" height="75" cellpadding="0" cellspacing="0">
+
+		<form name="searchform" action="/common/scripts/search.htm" method="POST"></form>
+			<input type="hidden" name="travelAppend" value="true">
 				<tbody><tr>
-					<td>
-						<table width="100%" cellpadding="0" cellspacing="0" border="0">
-							<tbody><tr><td bgcolor="#336799" height="19"><img src="/common/images/spacer.gif" width="25" height="3"></td><td bgcolor="#09036D" width="100%" class="UnderPageTitle" height="26">&nbsp;&nbsp;Privacy Policy</td></tr>
-						</tbody></table>
-					</td>
-					<td>
-						<table width="100%" cellpadding="0" cellspacing="0" border="0">
-							<tbody><tr><td bgcolor="#09036D" width="100%" class="RightDate" height="26" align="right"><script>d.write(monthNames[dt.getMonth()] + '&nbsp;' + dt.getDate() + ',&nbsp;' +year1);</script>January&nbsp;31,&nbsp;2020&nbsp;&nbsp;&nbsp;</td></tr>
-						</tbody></table>
+				<td class="subMastHead">
+					&nbsp;<input type="text" name="recherche" size="10" value="enter city" class="searchbox" onclick="CheckCity();">&nbsp;
+					<input type="image" name="submitCitySearch" src="/common/images/YellowArrowRight.gif" border="0">
+
+				</td></tr>
+				<tr height="5">
+					<td class="subMastHead" valign="top">
+						<img src="/common/images/spacer.gif" width="10" height="1"><br>
 					</td>
 				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-	<!-- CONTENTS -->
-	<tr>
-		<!-- Left CONTENT cell -->
-		<td valign="top" width="100%" bgcolor="#ffffff">
-			<table width="100%" cellpadding="0" cellspacing="0" border="0">
-				<tbody><tr>
-					<td class="Background"><img src="/common/images/spacer.gif" width="100%" height="4"></td>
+				<tr height="15">
+				<td class="subMastHead" valign="top">
+
+					&nbsp;<a href="/weather/cities/indexcan.htm"><span class="subMastheadLinkMenu">Canadian Cities</span></a><br>
+				</td>
 				</tr>
-				<!--Ad banner 468 width if needed-->
-				<tr><td align="center">
+
+				
+
+				<tr height="15">
+				<td class="subMastHead" valign="top">
+					&nbsp;<a href="/weather/cities/indexusa.htm"><span class="subMastheadLinkMenu">U.S. Cities</span></a><br>
+				</td>
+				</tr>
+
+				
+
+
+				<tr height="15">
+				<td class="subMastHead" valign="top">
+					&nbsp;<a href="/weather/cities/indexintl.htm"><span class="subMastheadLinkMenu">International Cities</span></a><br>
+				</td>
+				</tr>
+
+				<tr height="5">
+				<td class="subMastHead" valign="top">
+					<img src="/common/images/spacer.gif" width="10" height="1"><br>
+				</td>
+				</tr>
+				
+
+		</tbody></table>
+
 <script>
-	Adtype = "banner";
-	setWidth = 468;
-	setHeight = 60;
-	client = "";
-	
-	// To Allow 468X60 to show, add an area - 468X60 will ONLY be shown to specified areas.
-	if ((area == "vac") || (area == "floods") || (area == "can") || (area == "home") || (area == "ros") || (area == "marine")) {
-		d.write('<SCR'+'IPT SRC="http://a'+'ds.weather.ca/jserver/SITE=twn/pageid='+PageID+'/AREA='+area+'/AAMSZ=468X60/SECTOR='+sector+'/CITY='+cityName+'/acc_random=' + BannerNum + '?" LANGUAGE="JavaScript1.1">');
-		d.write('</SCR'+'IPT>');
-		}
-		
-	if (area == "golf") {
-		d.write('<SCR'+'IPT SRC="http://a'+'ds.weather.ca/jserver/SITE=twn/AREA='+area+'/AAMSZ=KNET/SECTOR='+sector+'/CITY='+cityName+'/acc_random=' + BannerNum + '?" LANGUAGE="JavaScript1.1">');
-		d.write('</SCR'+'IPT>');
-		}		
-</script><script src="http://ads.weather.ca/jserver/SITE=twn/pageid=247429/AREA=ros/AAMSZ=468X60/SECTOR=nil/CITY=nil/acc_random=159294?" language="JavaScript1.1"></script>
-</td></tr>
-				<tr><td><table border="0" cellpadding="0" cellspacing="0" width="100%">
+
+// Switch that variable to "false" to bypass the call to the server-side perl script
+var enableDynamicNavigation = true;
+</script>
+
+<script>buildMenu=true;</script>
+<script type="text/javascript" src="/common/scripts/features.js"></script>
+<script type="text/javascript" src="/common/scripts/leftMenuItems.js"></script>
+
+<script>
+
+
+function dynLink(product, placeCode) {
+if (product == "webcam") { camProductCountry = counName; document.dynIndex.camProductCountry.value = camProductCountry; }
+	document.dynIndex.product.value = product;
+	document.dynIndex.place.value = placeCode;
+	document.dynIndex.action = '/common/scripts/dynIndex/'+product+'Index.htm';
+	document.dynIndex.submit();
+}
+
+
+var NN4X;
+var userAgent = navigator.userAgent;
+
+var NNIndex = navigator.userAgent.indexOf("Mozilla");
+
+if (navigator.appName == "Netscape") {
+	if (userAgent.substring((NNIndex + 8),(NNIndex + 9)) == "4") {
+		NN4X = "1";
+	} else { NN4X = "0";}
+} else {
+	NN4X = "0";
+}
+
+	var CN = cityNameLink.toUpperCase();
+
+
+
+		center1 = "no";
+		d=document;
+
+		d.write('<table class = "navSubMastheadTable" cellpadding = "0" cellspacing = "0">');
+		d.write('<FORM NAME = "dynIndex" METHOD = "POST" ACTION = "/common/scripts/dynIndex/index.htm">');
+		d.write('<INPUT TYPE = "hidden" NAME = "product" VALUE = "0">');
+		d.write('<INPUT TYPE = "hidden" NAME = "place" VALUE = "'+codePlace+'">');
+		d.write('<INPUT TYPE = "hidden" NAME = "sector" VALUE = "'+sector+'">');
+		d.write('<INPUT TYPE = "hidden" NAME = "camProductCountry" VALUE = "">');
+		d.write('<tr>');
+		d.write('<td><table cellpadding = "0" cellspacing = "0" class = "navSubMastheadTable">');
+		if (center1 == "no") {
+			for (i = 0; i < CityMenu.length; i++) {
+
+
+					d.write('<tr><td>');
+					d.write('<table class = "navSubMastheadTable" cellpadding = "0" cellspacing = "0">');
+
+						d.write('<tr><td class = "cssCityTitle">'+CityTitle[i]+'</td></tr>\n');
+						for (j = 0; j < CityMenu[i].length; j++) {
+							d.write('<tr><td height=18>\n');
+							d.write('<table class = "navLinkTitle" onmouseover=\'javascript:this.style.backgroundColor="#1b4d80"; javascript:this.style.color="#000000";\'; onmouseout=this.style.backgroundColor="transparent";><tr><td style="width:110px;">');
+							if (CityMenuLink[i][j].substr(0,1) == "*") {
+								d.write('<a href = "javascript:dynLink(\''+CityMenuLink[i][j].substr(1,CityMenuLink[i][j].length)+'\',\''+codePlace+'\');">');
+							}
+
+							else {
+								d.write('<a href = "'+CityMenuLink[i][j]+'">');
+							}
+							d.write('<span class = "navLinkMenu"><b>'+CityMenu[i][j]+'</b></span></a></td></tr></table>');
+
+							d.write('</td></tr><tr><td height = "1"><IMG SRC = "/common/images/lightBlueMenuBorder.gif" width = "110" height = "1" hspace = "0" vspace = "0" align = "bottom" /></td></tr>\n');
+						}
+
+							d.write('<IMG SRC = "/common/images/lightBlueMenuBorder.gif" width = "110" height = "3" hspace = "0" vspace = "0" /></td></tr></table></tr>');
+
+
+					}
+
+					}
+
+
+
+
+
+					</script><table class="navSubMastheadTable" cellpadding="0" cellspacing="0"><form name="dynIndex" method="POST" action="/common/scripts/dynIndex/index.htm"></form><input type="hidden" name="product" value="0"><input type="hidden" name="place" value="nil"><input type="hidden" name="sector" value="nil"><input type="hidden" name="camProductCountry" value=""><tbody><tr><td><table cellpadding="0" cellspacing="0" class="navSubMastheadTable"><tbody><tr><td><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="3" hspace="0" vspace="0"><table class="navSubMastheadTable" cellpadding="0" cellspacing="0"><tbody><tr><td class="cssCityTitle"><a href="/weather/index.htm" class="leftMenuTitle">Weather</a></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="/weather/alerts/index.htm"><span class="navLinkMenu"><b>Watches and Warnings</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="/weather/maps/floods.htm"><span class="navLinkMenu"><b>Weather Maps</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="/weather/maps/satrad.htm"><span class="navLinkMenu"><b>Satellite and Radar Maps</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="/weather/stats/index.htm"><span class="navLinkMenu"><b>Statistics</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+</tbody></table></td></tr><tr><td><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="3" hspace="0" vspace="0"><table class="navSubMastheadTable" cellpadding="0" cellspacing="0"><tbody><tr><td class="cssCityTitle"><a href="/travel/index.htm" class="leftMenuTitle">Travel</a></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="T"><span class="navLinkMenu"><b>T</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="r"><span class="navLinkMenu"><b>r</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="a"><span class="navLinkMenu"><b>a</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="v"><span class="navLinkMenu"><b>v</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="e"><span class="navLinkMenu"><b>e</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="l"><span class="navLinkMenu"><b>l</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+</tbody></table></td></tr><tr><td><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="3" hspace="0" vspace="0"><table class="navSubMastheadTable" cellpadding="0" cellspacing="0"><tbody><tr><td class="cssCityTitle"><a href="/roads/index.htm" class="leftMenuTitle">Roads</a></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="R"><span class="navLinkMenu"><b>R</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="o"><span class="navLinkMenu"><b>o</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="a"><span class="navLinkMenu"><b>a</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="d"><span class="navLinkMenu"><b>d</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="s"><span class="navLinkMenu"><b>s</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+</tbody></table></td></tr><tr><td><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="3" hspace="0" vspace="0"><table class="navSubMastheadTable" cellpadding="0" cellspacing="0"><tbody><tr><td class="cssCityTitle"><a href="/homeandgarden/index.htm" class="leftMenuTitle">Home &amp; Garden</a></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="H"><span class="navLinkMenu"><b>H</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="o"><span class="navLinkMenu"><b>o</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="m"><span class="navLinkMenu"><b>m</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="e"><span class="navLinkMenu"><b>e</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href=" "><span class="navLinkMenu"><b> </b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="&amp;"><span class="navLinkMenu"><b>&amp;</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href=" "><span class="navLinkMenu"><b> </b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="G"><span class="navLinkMenu"><b>G</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="a"><span class="navLinkMenu"><b>a</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="r"><span class="navLinkMenu"><b>r</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="d"><span class="navLinkMenu"><b>d</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="e"><span class="navLinkMenu"><b>e</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="n"><span class="navLinkMenu"><b>n</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+</tbody></table></td></tr><tr><td><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="3" hspace="0" vspace="0"><table class="navSubMastheadTable" cellpadding="0" cellspacing="0"><tbody><tr><td class="cssCityTitle"><a href="/activities/index.htm" class="leftMenuTitle">Activities</a></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="A"><span class="navLinkMenu"><b>A</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="c"><span class="navLinkMenu"><b>c</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="t"><span class="navLinkMenu"><b>t</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="i"><span class="navLinkMenu"><b>i</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="v"><span class="navLinkMenu"><b>v</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="i"><span class="navLinkMenu"><b>i</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="t"><span class="navLinkMenu"><b>t</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="i"><span class="navLinkMenu"><b>i</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="e"><span class="navLinkMenu"><b>e</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="s"><span class="navLinkMenu"><b>s</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+</tbody></table></td></tr><tr><td><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="3" hspace="0" vspace="0"><table class="navSubMastheadTable" cellpadding="0" cellspacing="0"><tbody><tr><td class="cssCityTitle"><a href="/health/index.htm" class="leftMenuTitle">Health &amp; Environment</a></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="H"><span class="navLinkMenu"><b>H</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="e"><span class="navLinkMenu"><b>e</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="a"><span class="navLinkMenu"><b>a</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="l"><span class="navLinkMenu"><b>l</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="t"><span class="navLinkMenu"><b>t</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="h"><span class="navLinkMenu"><b>h</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href=" "><span class="navLinkMenu"><b> </b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="&amp;"><span class="navLinkMenu"><b>&amp;</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href=" "><span class="navLinkMenu"><b> </b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="E"><span class="navLinkMenu"><b>E</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="n"><span class="navLinkMenu"><b>n</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="v"><span class="navLinkMenu"><b>v</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="i"><span class="navLinkMenu"><b>i</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="r"><span class="navLinkMenu"><b>r</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="o"><span class="navLinkMenu"><b>o</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="n"><span class="navLinkMenu"><b>n</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="m"><span class="navLinkMenu"><b>m</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="e"><span class="navLinkMenu"><b>e</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="n"><span class="navLinkMenu"><b>n</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+<tr><td height="18">
+<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="t"><span class="navLinkMenu"><b>t</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
+</tbody></table></td></tr>
+
+					<script>
+		d.write('</td>');
+
+					d.write('</tr></table>\n');
+					d.write('</td></tr></table>\n');
+
+
+		// building the menu
+
+
+</script></tbody></table>
+</td></tr></tbody></table>
+
+
+<script>
+function BodyOnLoad()
+{
+		if (document.searchform.recherche) {
+		document.searchform.recherche.focus();
+	}
+}
+
+
+function CheckCity()
+{
+	if (document.searchform.recherche.value == "enter city")
+	{
+		document.searchform.recherche.value = "";
+	}
+}
+</script>
+
+
+
+
+		</div>
+
+		<div id="bodyContent">
+				
+<div id="subMasthead">
+<script type="text/javascript">
+
+	var ds=new Date()
+	var weekday=new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday")
+	var monthname=new Array("January","February","March","April","May","June","July","August","September","October","November","December")
+
+
+	if ((area == "home") || (area == "ros")) {
+	document.write("<span class = 'timeDateROS'>");
+	}
+	else {
+	document.write("<span class = 'timeDateSections'>");
+	}
+
+	if (area != "marine") {
+
+		document.write(weekday[ds.getDay()] + ", ");
+		document.write(ds.getDate() + " ");
+		document.write(monthname[ds.getMonth()] + ", ");
+		document.write(ds.getFullYear());
+	}
+
+	document.write("</span>");
+
+
+</script><span class="timeDateSections">Friday, 31 January, 2020</span>
+
+</div>
+
+<script>
+
+
+
+if (typeof(pageSubTitle) != "undefined" && pageSubTitle != "") {
+document.write('<div id = "pageSubTitle">');
+document.write(pageSubTitle);
+
+
+if (typeof(codeSMS) != "undefined" && codeSMS != "" && ((area == "can") || (area == "usa") ||(area == "intl")) ) {
+		d.write(" <a href = /inter/wireless/textweather.htm><font size = 2 color = #005a8d><img src = '/common/images/mobileIconWhiteSM.gif' vspace = '0' hspace = '0' border = '0' /> <b>(TextWeather: "+codeSMS+")</b></font></a>");
+}	
+document.write('</div>');
+}
+
+
+
+</script><div id="pageSubTitle">Privacy Policy</div>
+
+
+
+			<div id="editableBodyContent">
+				<table border="0" cellpadding="0" cellspacing="0" width="100%">
 	<tbody><tr>
 		<td class="Content">
 <p><br>
@@ -283,13 +979,12 @@ var sponsorship = "no";
 <br>Complete confidentiality and security is not yet possible over the Internet. Internet use and communication is subject to interception, loss and alteration. On whichever site you provide personal information, it is possible for a third party to view that information. It is not surprising, for example, that messages to newsgroups have resulted in unsolicited email from spammers. You acknowledge and agree that PMI and its affiliates and related companies shall not be responsible for any damages you may suffer as a result of the transmission of confidential or sensitive information over the Internet, and that all such communications will be at your own risk.</p>
 
 <p><font class="title"><a name="7"></a>Contact Us</font>
-<br>We hope you find this statement informative and clear.  Please <a href="mailto:privacy@on.pelmorex.com">email us</a> regarding any questions or further information you may be interested in. Or, if you prefer, contact us in writing, at:</p>
+<br>We hope you find this statement informative and clear.  Please <a href="mailto:privacy@pelmorex.com">email us</a> regarding any questions or further information you may be interested in. Or, if you prefer, contact us in writing, at:</p>
 
 <p><font class="title">Privacy Officer</font>
-<br>1 Robert Speck Parkway
-<br>Suite 1600
-<br>Mississauga, Ontario
-<br>L4Z 4B3
+<br>2655 Bristol Circle
+<br>Oakville, Ontario
+<br>L6H 7W1
 </p>
 
 <p>Individuals can also contact the Privacy Commissioner of Canada in writing at the address provided.</p>
@@ -308,13 +1003,31 @@ var sponsorship = "no";
 		</td>
 	</tr>
 </tbody></table>
-</td></tr>
-				<script>
-if (area== "pollen" && codePlace=="XXXXXXXX"){
+
+			</div>
+
+			<div id="bottomBanner">
+				<center>
+<script>
+// HWY Conditions message for spring
+if (area == "hwycond") { d.write("<br /><span class = 'hwyCondOffSeasonMsg'>The Highway Conditions product is now closed for the season and will restart in the Fall. Thank you.</span><br /><br />"); }
+</script>
+<script>
+if (typeof pageSubTitle != "undefined") {
+	if ((pageSubTitle == "Canadian Cities Index") && (document.URL.indexOf("/weather/cities/indexcan.htm")!=-1)) { 
+	var canCityWidth = "460";
+	document.write('<scr'+'ipt src = "/common/includes/topCanadianCityList.js"></scr'+'ipt><br />'); 
+	} 
+}
+</script>
+
+<script>
+/*if (area== "pollen") && (codePlace=="XXXXXXXX"){
+	alert(codePlace);
 	document.write('<tr><td align=center><table><tr><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>');
 	document.write('<sup>*</sup> Registered trademark of Schering Canada Inc.');
 	document.write('</td></tr></table></td></tr>');
-}
+}*/
 if ( area == "hwycond" && sector == "AB") {
 	document.write('<tr><td><table><tr><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>');
 	document.write('Alberta highway condition information courtesy of <a href=http://www.ama.ab.ca target=_blank>Alberta Motor Association</a>.');
@@ -323,11 +1036,15 @@ if ( area == "hwycond" && sector == "AB") {
 }
 </script>
 
-<tr><td align="center"><img src="/common/images/spacer.gif" width="30" height="75"><br>
+
+<div id="doNotPrint">
+<center>
 <!-- Hotel and Flight OT CODE START -->
 <script language="JavaScript" type="text/javascript">
+if (navigator.appVersion.indexOf("Win")!=-1) {
+
 if (area=="can" || area == "usa" || area == "intl") {
-	d.write('<table width="470" bgcolor="#F2F7FA" cellpadding="0" cellspacing="0"><tr><td width="470">');
+	d.write('<img src="/common/images/spacer.gif" width="30" height="25"><br><table width="468" bgcolor="#F2F7FA" cellpadding="0" cellspacing="0"><tr><td width="468">');
 	d.write('<div id="OTH_C" style="position:absolute;top:0;left:0;z-index:100"></div><form name="flightSearchform2" method=get onSubmit="return OTH_t(this.form);" action="http://www.onetime.com/hotels" target=_blank style="margin:0"><input type=hidden name="sid" value="101">');	
 	//<!--
 
@@ -348,9 +1065,9 @@ if (area=="can" || area == "usa" || area == "intl") {
 	function OTH_t(f){if(f.city&&(!f.city.value)){alert('Please provide a city name\nfor your hotel search.');return false;}if(!OTH_d(f.inDate,'Check-In Date'))return false;if(!OTH_d(f.outDate,'Check-Out Date'))return false;var d1=f.inDate.value.match(/^(1[0-2]|0[1-9])\/(3[01]|[12][0-9]|0[1-9])\/(20[0-9]{2})$/);var d2=f.outDate.value.match(/^(1[0-2]|0[1-9])\/(3[01]|[12][0-9]|0[1-9])\/(20[0-9]{2})$/);if((d2[3]<d1[3])||((d2[3]==d1[3])&&((d2[1]<d1[1])||((d2[1]==d1[1])&&(d2[2]<=d1[2]))))){alert('The Check-Out Date must be AFTER the Check-In Date.\nPlease correct and try again.');return false;}return true;}
 	// -->
 
-	d.write('<table bgcolor="#F2F7FA" width="470" cellpadding="0" cellspacing="0"><tr height="19"><td width="220" align="right" valign="top"><img src="/common/images/flightSearch.gif" width="220" height="19"><br></td><td width="100%" bgcolor="#CCE0EB" align="left" valign="top">&nbsp;<a href="http://www.oneTime.com" class="flightSearchText">by oneTime.com</a></td></tr><tr><td colspan="2" width="100%" align="right" valign="top"><img src="/common/images/spacer.gif" width="220" height="5"><br></td></tr></table>');
+	d.write('<table bgcolor="#F2F7FA" width="468" cellpadding="0" cellspacing="0"><tr height="19"><td width="220" align="right" valign="top"><img src="/common/images/flightSearch.gif" width="220" height="19"><br></td><td width="100%" bgcolor="#CCE0EB" align="left" valign="top">&nbsp;<a href="http://www.oneTime.com" class="flightSearchText">by oneTime.com</a></td></tr><tr><td colspan="2" width="100%" align="right" valign="top"><img src="/common/images/spacer.gif" width="220" height="5"><br></td></tr></table>');
 
-	d.write('<table bgcolor="#F2F7FA" width="470" cellpadding="0" cellspacing="0" border="0"><tr><td width="25%" align="left" valign="top"><span class="flightSearchText">City:</span></td><td width="23%" align="left" valign="top"><span class="flightSearchText">Check-in Date:</span></td><td width="25%" align="left" valign="top"><span class="flightSearchText">Check-out Date:</span></td><td width="10%" align="left" valign="top"><span class="flightSearchText">Guests:</span></td><td width="17%" align="left" valign="top"></td></tr><tr><td width="25%" align="middle" valign="top"><input style="font:9px sans-serif" type=text name="city" size=16></td><td width="23%" align="middle" valign="top"><input style="font:9px sans-serif" size=12 onfocus="if(this.value==\'mm/dd/yyyy\')this.value=\'\';OTH_o(this)" onblur="if(this.value==\'\')this.value=\'mm/dd/yyyy\'" type=text value="mm/dd/yyyy" name="inDate"></td><td width="25%" align="middle" valign="top"><input style="font:9px sans-serif" size=12 onfocus="if(this.value==\'mm/dd/yyyy\')this.value=\'\';OTH_o(this)" onblur="if(this.value==\'\')this.value=\'mm/dd/yyyy\'" type=text value="mm/dd/yyyy" name="outDate"></td><td width="10%" align="middle" valign="top"><select style="font:9px sans-serif" name="guests"><option>1</option><option>2</option><option>3</option><option>4</option></select></td><td width="17%" align="middle" valign="top"><input type="image" src="/common/images/flightSearchButton.gif" onclick="return OTH_t(this.form); document.flightSearchform2.submit;"></td></tr><tr><td colspan="5" width="100%" align="right" valign="top"><img src="/common/images/spacer.gif" width="220" height="10"><br></td></tr></table>');
+	d.write('<table bgcolor="#F2F7FA" width="468" cellpadding="0" cellspacing="0" border="0"><tr><td width="25%" align="left" valign="top"><span class="flightSearchText">City:</span></td><td width="23%" align="left" valign="top"><span class="flightSearchText">Check-in Date:</span></td><td width="25%" align="left" valign="top"><span class="flightSearchText">Check-out Date:</span></td><td width="10%" align="left" valign="top"><span class="flightSearchText">Guests:</span></td><td width="17%" align="left" valign="top"></td></tr><tr><td width="25%" align="middle" valign="top"><input style="font:9px sans-serif" type=text name="city" size=16></td><td width="23%" align="middle" valign="top"><input style="font:9px sans-serif" size=12 onfocus="if(this.value==\'mm/dd/yyyy\')this.value=\'\';OTH_o(this)" onblur="if(this.value==\'\')this.value=\'mm/dd/yyyy\'" type=text value="mm/dd/yyyy" name="inDate"></td><td width="25%" align="middle" valign="top"><input style="font:9px sans-serif" size=12 onfocus="if(this.value==\'mm/dd/yyyy\')this.value=\'\';OTH_o(this)" onblur="if(this.value==\'\')this.value=\'mm/dd/yyyy\'" type=text value="mm/dd/yyyy" name="outDate"></td><td width="10%" align="middle" valign="top"><select style="font:9px sans-serif" name="guests"><option>1</option><option>2</option><option>3</option><option>4</option></select></td><td width="17%" align="middle" valign="top"><input type="image" src="/common/images/flightSearchButton.gif" onclick="return OTH_t(this.form); document.flightSearchform2.submit;"></td></tr><tr><td colspan="5" width="100%" align="right" valign="top"><img src="/common/images/spacer.gif" width="220" height="10"><br></td></tr></table>');
 	d.write('</form>');
 	d.write('	<!-- OT CODE END -->');
 
@@ -376,194 +1093,337 @@ if (area=="can" || area == "usa" || area == "intl") {
 			function OTF_t(f){if((f.from&&(!f.from.value))||(f.to&&(!f.to.value))){alert('Please provide city names or airport codes\nfor your flight search.');return false;}if(!OTF_d(f.departureDate,'Departure Date'))return false;if(!OTF_d(f.returnDate,'Return Date'))return false;var d1=f.departureDate.value.match(/^(1[0-2]|0[1-9])\/(3[01]|[12][0-9]|0[1-9])\/(20[0-9]{2})$/);var d2=f.returnDate.value.match(/^(1[0-2]|0[1-9])\/(3[01]|[12][0-9]|0[1-9])\/(20[0-9]{2})$/);if((d2[3]<d1[3])||((d2[3]==d1[3])&&((d2[1]<d1[1])||((d2[1]==d1[1])&&(d2[2]<d1[2]))))){alert('The Return Date must be ON OR AFTER the Departure Date.\nPlease correct and try again.');return false;}return true;}
 			// -->
 
-			d.write('<table bgcolor="#F2F7FA" width="470" cellpadding="0" cellspacing="0" bgcolor="><tr><td colspan="2"><img src="/common/images/spacer.gif" width="10" height="5"><br></td></tr><tr height="19"><td width="221" align="right" valign="top"><img src="/common/images/wxNetworkFlighSearch.gif" width="221" height="19"><br></td><td bgcolor="#ffffff" width="100%" align="left" valign="top"><a href="http://www.oneTime.com" class="flightSearchText">by oneTime.com</a></td></tr></table>');
-			d.write('<table bgcolor="#F2F7FA" width="470" cellpadding="0" cellspacing="0"><tr><td colspan="6"><img src="/common/images/spacer.gif" width="10" height="5"><br></td></tr><tr><td width="8%" align="left" valign="top"><span class="flightSearchText">From:</span></td><td width="8%" align="left" valign="top"><span class="flightSearchText">To:</span></td><td colspan="2" width="53%" align="middle" valign="top"><span class="flightSearchText">Departure Date:</span></td><td width="10%" align="left" valign="top"><span class="flightSearchText">Passengers:</span></td><td width="17%" align="left" valign="top"><br></td></tr><tr><td width="8%" align="middle" valign="top"><input type=text name="from" style="font:9px sans-serif" size=6></td><td width="8%" align="middle" valign="top"><input type=text name="to" style="font:9px sans-serif" size=6></td><td colspan="2" width="53%" align="middle" valign="top"><input type=text name="departureDate" value="mm/dd/yyyy" size=6 onfocus="if(value==\'mm/dd/yyyy\')value=\'\';OTF_o(this)" onblur="if(value==\'\')value=\'mm/dd/yyyy\'" style="font:9px sans-serif">&nbsp;<select name="departureTime" style="font:9px sans-serif"><option value="0">Anytime</option><option value="-1">Morning</option><option value="-2">Afternoon</option><option value="-3">Evening</option><option value="24">Midnight</option><option value="1">01:00 AM</option><option value="2">02:00 AM</option><option value="3">03:00 AM</option><option value="4">04:00 AM</option><option value="5">05:00 AM</option><option value="6">06:00 AM</option><option value="7">07:00 AM</option><option value="8">08:00 AM</option><option value="9">09:00 AM</option><option value="10">10:00 AM</option><option value="11">11:00 AM</option><option value="12">Noon</option><option value="13">01:00 PM</option><option value="14">02:00 PM</option><option value="15">03:00 PM</option><option value="16">04:00 PM</option><option value="17">05:00 PM</option><option value="18">06:00 PM</option><option value="19">07:00 PM</option><option value="20">08:00 PM</option><option value="21">09:00 PM</option><option value="22">10:00 PM</option><option value="23">11:00 PM</option></select></td><td width="10%" align="middle" valign="top"><select name="passengers" style="font:9px sans-serif"><option>1</option><option>2</option><option>3</option><option>4</option></select>  </td><td width="17%" align="middle" valign="top"><input type="image" src="/common/images/flightSearchButton.gif" onclick="return OTF_t(this.form); document.flightSearchform1.submit()"></td></tr><tr><td colspan="6"><img src="/common/images/spacer.gif" width="10" height="5"><br></td></tr><tr><td width="8%" align="left" valign="top"></td><td width="8%" align="left" valign="top"></td><td colspan="2" width="53%" align="middle" valign="top"><span class="flightSearchText">Arrival Date:</span></td><td width="10%" align="left" valign="top"><span class="flightSearchText"></span></td><td width="17%" align="left" valign="top"><br></td></tr><tr><td width="8%" align="left" valign="top"></td><td width="8%" align="left" valign="top"></td><td colspan="2" width="53%" align="middle" valign="top"><input type=text name="returnDate" value="mm/dd/yyyy" size=6 onfocus="if(value==\'mm/dd/yyyy\')value=\'\';OTF_o(this)" onblur="if(value==\'\')value=\'mm/dd/yyyy\'" style="font:9px sans-serif">&nbsp;<select name="returnTime" style="font:9px sans-serif"><option value="0">Anytime</option><option value="-1">Morning</option><option value="-2">Afternoon</option><option value="-3">Evening</option><option value="24">Midnight</option><option value="1">01:00 AM</option><option value="2">02:00 AM</option><option value="3">03:00 AM</option><option value="4">04:00 AM</option><option value="5">05:00 AM</option><option value="6">06:00 AM</option><option value="7">07:00 AM</option><option value="8">08:00 AM</option><option value="9">09:00 AM</option><option value="10">10:00 AM</option><option value="11">11:00 AM</option><option value="12">Noon</option><option value="13">01:00 PM</option><option value="14">02:00 PM</option><option value="15">03:00 PM</option><option value="16">04:00 PM</option><option value="17">05:00 PM</option><option value="18">06:00 PM</option><option value="19">07:00 PM</option><option value="20">08:00 PM</option><option value="21">09:00 PM</option><option value="22">10:00 PM</option><option value="23">11:00 PM</option></select></td><td width="10%" align="left" valign="top"><span class="flightSearchText"></span></td><td width="17%" align="left" valign="top"><br></td></tr></table>');
+			d.write('<table bgcolor="#F2F7FA" width="468" cellpadding="0" cellspacing="0" bgcolor="><tr><td colspan="2"><img src="/common/images/spacer.gif" width="10" height="5"><br></td></tr><tr height="19"><td width="221" align="right" valign="top"><img src="/common/images/wxNetworkFlighSearch.gif" width="221" height="19"><br></td><td bgcolor="#ffffff" width="100%" align="left" valign="top"><a href="http://www.oneTime.com" class="flightSearchText">by oneTime.com</a></td></tr></table>');
+			d.write('<table bgcolor="#F2F7FA" width="468" cellpadding="0" cellspacing="0"><tr><td colspan="6"><img src="/common/images/spacer.gif" width="10" height="5"><br></td></tr><tr><td width="8%" align="left" valign="top"><span class="flightSearchText">From:</span></td><td width="8%" align="left" valign="top"><span class="flightSearchText">To:</span></td><td colspan="2" width="53%" align="middle" valign="top"><span class="flightSearchText">Departure Date:</span></td><td width="10%" align="left" valign="top"><span class="flightSearchText">Passengers:</span></td><td width="17%" align="left" valign="top"><br></td></tr><tr><td width="8%" align="middle" valign="top"><input type=text name="from" style="font:9px sans-serif" size=6></td><td width="8%" align="middle" valign="top"><input type=text name="to" style="font:9px sans-serif" size=6></td><td colspan="2" width="53%" align="middle" valign="top"><input type=text name="departureDate" value="mm/dd/yyyy" size=6 onfocus="if(value==\'mm/dd/yyyy\')value=\'\';OTF_o(this)" onblur="if(value==\'\')value=\'mm/dd/yyyy\'" style="font:9px sans-serif">&nbsp;<select name="departureTime" style="font:9px sans-serif"><option value="0">Anytime</option><option value="-1">Morning</option><option value="-2">Afternoon</option><option value="-3">Evening</option><option value="24">Midnight</option><option value="1">01:00 AM</option><option value="2">02:00 AM</option><option value="3">03:00 AM</option><option value="4">04:00 AM</option><option value="5">05:00 AM</option><option value="6">06:00 AM</option><option value="7">07:00 AM</option><option value="8">08:00 AM</option><option value="9">09:00 AM</option><option value="10">10:00 AM</option><option value="11">11:00 AM</option><option value="12">Noon</option><option value="13">01:00 PM</option><option value="14">02:00 PM</option><option value="15">03:00 PM</option><option value="16">04:00 PM</option><option value="17">05:00 PM</option><option value="18">06:00 PM</option><option value="19">07:00 PM</option><option value="20">08:00 PM</option><option value="21">09:00 PM</option><option value="22">10:00 PM</option><option value="23">11:00 PM</option></select></td><td width="10%" align="middle" valign="top"><select name="passengers" style="font:9px sans-serif"><option>1</option><option>2</option><option>3</option><option>4</option></select>  </td><td width="17%" align="middle" valign="top"><input type="image" src="/common/images/flightSearchButton.gif" onclick="return OTF_t(this.form); document.flightSearchform1.submit()"></td></tr><tr><td colspan="6"><img src="/common/images/spacer.gif" width="10" height="5"><br></td></tr><tr><td width="8%" align="left" valign="top"></td><td width="8%" align="left" valign="top"></td><td colspan="2" width="53%" align="middle" valign="top"><span class="flightSearchText">Arrival Date:</span></td><td width="10%" align="left" valign="top"><span class="flightSearchText"></span></td><td width="17%" align="left" valign="top"><br></td></tr><tr><td width="8%" align="left" valign="top"></td><td width="8%" align="left" valign="top"></td><td colspan="2" width="53%" align="middle" valign="top"><input type=text name="returnDate" value="mm/dd/yyyy" size=6 onfocus="if(value==\'mm/dd/yyyy\')value=\'\';OTF_o(this)" onblur="if(value==\'\')value=\'mm/dd/yyyy\'" style="font:9px sans-serif">&nbsp;<select name="returnTime" style="font:9px sans-serif"><option value="0">Anytime</option><option value="-1">Morning</option><option value="-2">Afternoon</option><option value="-3">Evening</option><option value="24">Midnight</option><option value="1">01:00 AM</option><option value="2">02:00 AM</option><option value="3">03:00 AM</option><option value="4">04:00 AM</option><option value="5">05:00 AM</option><option value="6">06:00 AM</option><option value="7">07:00 AM</option><option value="8">08:00 AM</option><option value="9">09:00 AM</option><option value="10">10:00 AM</option><option value="11">11:00 AM</option><option value="12">Noon</option><option value="13">01:00 PM</option><option value="14">02:00 PM</option><option value="15">03:00 PM</option><option value="16">04:00 PM</option><option value="17">05:00 PM</option><option value="18">06:00 PM</option><option value="19">07:00 PM</option><option value="20">08:00 PM</option><option value="21">09:00 PM</option><option value="22">10:00 PM</option><option value="23">11:00 PM</option></select></td><td width="10%" align="left" valign="top"><span class="flightSearchText"></span></td><td width="17%" align="left" valign="top"><br></td></tr></table>');
 			d.write('</td></tr></table>');
-			d.write('</form>');
+			d.write('</form><img src="/common/images/spacer.gif" width="30" height="35"><br>');
 
-	}
-</script>
-<img src="/common/images/spacer.gif" width="30" height="75"><br></td></tr>
-<tr><td align="center">
-<p><br>
-<script>
-	var showBannerPercentage = 50;
-
-	if ((sponsorship != "yes") && (area != "about")) {
-		Adtype = "banner";
-		client = "";
-
-		if (Math.round(Math.random()*100) <= showBannerPercentage) {
-		d.write('<SCR'+'IPT SRC="http://a'+'ds.weather.ca/jserver/SITE=twn/pageid='+PageID+'/AREA='+area+'/AAMSZ=468X60B/SECTOR='+sector+'/CITY='+cityName+'/acc_random=' + BannerNum + '?" LANGUAGE="JavaScript1.1">');
-		d.write('</SCR'+'IPT>');
-		//document.write('<iframe src="/common/includes/a'+'ds.htm?type='+Adtype+'/pageid='+PageID+'/width=468/height=60B/client='+client+'/area='+area+'/sector='+sector+'/cityName='+cityName+'" noresize scrolling="no" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width = "468" height = "60">');
-		//document.write('<a href="http://a'+'ds.weather.ca/accipiter/a'+'dclick/SITE=twn/pageid='+PageID+'/AREA='+area+'/AAMSZ=468X60B/client='+client+'/SECTOR='+sector+'/CITY='+cityName+'?" target="_top">');
-		//document.write('<img src="http://a'+'ds.weather.ca/accipiter/nserver/SITE=twn/pageid='+PageID+'/AREA='+area+'/AAMSZ=468X60B/client='+client+'/SECTOR='+sector+'/CITY='+cityName+'?" BORDER="0" HEIGHT="60" WIDTH="468"></a>');
-		//document.write('</iframe>');
-		}		
 	}
 	
-</script><script src="http://ads.weather.ca/jserver/SITE=twn/pageid=247429/AREA=ros/AAMSZ=468X60B/SECTOR=nil/CITY=nil/acc_random=159294?" language="JavaScript1.1"></script>
-</p></td></tr>
-<tr><td align="center">
-<p><br>
-<script>
-	var showBannerPercentage = 70;
-
-	if ((area != "tcam")) {
-		Adtype = "banner";
-		client = "";
-
-		if (Math.round(Math.random()*100) <= showBannerPercentage) {
-			document.write('<iframe src="/common/includes/a'+'ds.htm?type='+Adtype+'/pageid='+PageID+'/width=468/height=60B/client='+client+'/area='+area+'/sector='+sector+'/cityName='+cityName+'" noresize scrolling="no" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width = "468" height = "60">');
-			document.write('<a href="http://a'+'ds.weather.ca/accipiter/a'+'dclick/SITE=twn/pageid='+PageID+'/AREA='+area+'/AAMSZ=468X60B/client='+client+'/SECTOR='+sector+'/CITY='+cityName+'?" target="_top">');
-			document.write('<img src="http://a'+'ds.weather.ca/accipiter/nserver/SITE=twn/pageid='+PageID+'/AREA='+area+'/AAMSZ=468X60B/client='+client+'/SECTOR='+sector+'/CITY='+cityName+'?" BORDER="0" HEIGHT="60" WIDTH="468"></a>');
-			document.write('</iframe>');
-		}		
 	}
-</script><iframe src="/common/includes/ads.htm?type=banner/pageid=247429/width=468/height=60B/client=/area=ros/sector=nil/cityName=nil" noresize="" scrolling="no" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width="468" height="60"><a href="http://ads.weather.ca/accipiter/adclick/SITE=twn/pageid=247429/AREA=ros/AAMSZ=468X60B/client=/SECTOR=nil/CITY=nil?" target="_top"><img src="http://ads.weather.ca/accipiter/nserver/SITE=twn/pageid=247429/AREA=ros/AAMSZ=468X60B/client=/SECTOR=nil/CITY=nil?" BORDER="0" HEIGHT="60" WIDTH="468"></a></iframe>
-</p></td></tr>
-
-			</tbody></table> 
-		</td>
-		<td bgcolor="#ffffff"><img src="/common/images/spacer.gif" width="2"></td>
-		<!-- Right CONTENT (Ads + Local NavBar & other stuff) -->
-		<td width="300" align="right" valign="top">
-			<!-- This version remove parameters to plp.js -->
-<script>
-// Switch that variable to "false" to bypass the call to the server-side perl script
-var enableDynamicNavigation = true;
 </script>
-<script>buildMenu=true;</script>
-<script type="text/javascript" src="/common/scripts/features.js"></script>
-<script type="text/javascript" src="/common/scripts/rightContent.js"></script>
-<script type="text/javascript" src="/common/scripts/buildingmenu.js"></script>
+</center>
+</div>
 
-<table border="0" cellpadding="0" cellspacing="0">
 
-	<tbody><tr>
-		<td>
-			<table border="0" cellpadding="0" cellspacing="0" bgcolor="#326896" width="300">
-				<tbody><tr><td align="top">
-		<table border="0" cellpadding="0" cellspacing="0" bgcolor="#000066" width="300">	
-		<tbody><tr><td align="top">
-		<script>				
-		if (sponsorship != "yes"){
-		d.write('<SCR'+'IPT SRC="http://a'+'ds.weather.ca/jserver/SITE=twn/pageid='+PageID+'/AREA='+area+'/AAMSZ=BOX_EXPANDABLE/SECTOR='+sector+'/CITY='+cityName+'/acc_random=' + BannerNum + '?" LANGUAGE="JavaScript1.1">');
-		d.write('</SCR'+'IPT>');
-		}
-		</script><script src="http://ads.weather.ca/jserver/SITE=twn/pageid=247429/AREA=ros/AAMSZ=BOX_EXPANDABLE/SECTOR=nil/CITY=nil/acc_random=159294?" language="JavaScript1.1"></script>
-		</td></tr></tbody></table>
-		
-<script type="text/javascript" src="/common/scripts/checkingtype.js"></script>
-</td><td colspan="2" bgcolor="#000066"><center>
-<iframe src="/common/includes/ads.htm?type=box/pageid=247429/width=300/height=250/client=/area=ros/sector=nil/cityName=nil" noresize="" scrolling="no" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width="300" height="250"><a href="http://ads.weather.ca/accipiter/adclick/SITE=twn/pageid=247429/AREA=ros/AAMSZ=300X250/SECTOR=nil/CITY=nil?" target="_top"><img src="http://ads.weather.ca/accipiter/nserver/SITE=twn/pageid=247429/AREA=ros/AAMSZ=300X250/SECTOR=nil/CITY=nil?" BORDER="0" HEIGHT="250" WIDTH="300"></a></iframe><br>
-</center></td>
-</tr>
-<tr><td bgcolor="#000066" class="RightHandTitle" colspan="2" height="26"><font face="verdana" size="2" color="#ffcc33"><b>QUICK LINKS</b><br></font></td></tr>
-<tr>
-<td valign="top">
-<table border="0" cellpadding="4" cellspacing="4" width="160" bgcolor="#326896"><tbody><tr><td><table border="0" cellpadding="1" cellspacing="1" width="152" bgcolor="#326896"><tbody><tr><td width="100%"><img src="/common/images/r_Weather.gif"></td></tr>
-<tr><td>
-<table border="1" cellpadding="0" cellspacing="0" width="100%" bordercolor="#4876A3"><tbody><tr><td><a href="/weather/alerts/"><font face="arial" size="2" color="#ffffff"><b>Watches and Warnings</b></font></a></td></tr></tbody></table></td></tr>
-<tr><td>
-<table border="1" cellpadding="0" cellspacing="0" width="100%" bordercolor="#4876A3"><tbody><tr><td><a href="/weather/maps/floods.htm"><font face="arial" size="2" color="#ffffff"><b>Weather Maps</b></font></a></td></tr></tbody></table></td></tr>
-<tr><td>
-<table border="1" cellpadding="0" cellspacing="0" width="100%" bordercolor="#4876A3"><tbody><tr><td><a href="/weather/maps/Satrad.htm"><font face="arial" size="2" color="#ffffff"><b>Satellite &amp; Radar Maps</b></font></a></td></tr></tbody></table></td></tr>
-<tr><td>
-<table border="1" cellpadding="0" cellspacing="0" width="100%" bordercolor="#4876A3"><tbody><tr><td><a href="/weather/stats/"><font face="arial" size="2" color="#ffffff"><b>Statistics</b></font></a></td></tr></tbody></table></td></tr>
-<tr><td>
-<table border="1" cellpadding="0" cellspacing="0" width="100%" bordercolor="#4876A3"><tbody><tr><td><a href="/features/camweather/"><font face="arial" size="2" color="#ffffff"><b>Weather Cameras</b></font></a></td></tr></tbody></table></td></tr>
-<tr><td>
-<table border="1" cellpadding="0" cellspacing="0" width="100%" bordercolor="#4876A3"><tbody><tr><td><a href="/inter/help/glossary/index.htm"><font face="arial" size="2" color="#ffffff"><b>Glossary</b></font></a></td></tr></tbody></table></td></tr>
-</tbody></table>
-</td></tr></tbody></table>
-<table border="0" cellpadding="4" cellspacing="4" width="160" bgcolor="#326896"><tbody><tr><td><table border="0" cellpadding="1" cellspacing="1" width="152" bgcolor="#326896"><tbody><tr><td width="100%"><img src="/common/images/r_Travel.gif"></td></tr>
-<tr><td>
-<table border="1" cellpadding="0" cellspacing="0" width="100%" bordercolor="#4876A3"><tbody><tr><td><a href="/features/hwycond/"><font face="arial" size="2" color="#ffffff"><b>Highway Conditions</b></font></a></td></tr></tbody></table></td></tr>
-<tr><td>
-<table border="1" cellpadding="0" cellspacing="0" width="100%" bordercolor="#4876A3"><tbody><tr><td><a href="/features/hwyfx/"><font face="arial" size="2" color="#ffffff"><b>Highway Forecast</b></font></a></td></tr></tbody></table></td></tr>
-<tr><td>
-<table border="1" cellpadding="0" cellspacing="0" width="100%" bordercolor="#4876A3"><tbody><tr><td><a href="/features/camtraffic/"><font face="arial" size="2" color="#ffffff"><b>Traffic Cameras</b></font></a></td></tr></tbody></table></td></tr>
-<tr><td>
-<table border="1" cellpadding="0" cellspacing="0" width="100%" bordercolor="#4876A3"><tbody><tr><td><a href="/features/roadconstr/"><font face="arial" size="2" color="#ffffff"><b>Road Construction</b></font></a></td></tr></tbody></table></td></tr>
-<tr><td>
-<table border="1" cellpadding="0" cellspacing="0" width="100%" bordercolor="#4876A3"><tbody><tr><td><a href="/features/travellers/"><font face="arial" size="2" color="#ffffff"><b>Travel Information</b></font></a></td></tr></tbody></table></td></tr>
-</tbody></table>
-</td></tr></tbody></table>
-<table border="0" cellpadding="4" cellspacing="4" width="160" bgcolor="#326896"><tbody><tr><td><table border="0" cellpadding="1" cellspacing="1" width="152" bgcolor="#326896"><tbody><tr><td width="100%"><img src="/common/images/r_Activities.gif"></td></tr>
-<tr><td>
-<table border="1" cellpadding="0" cellspacing="0" width="100%" bordercolor="#4876A3"><tbody><tr><td><a href="/features/golf/index.htm"><font face="arial" size="2" color="#ffffff"><b>Golf Report</b></font></a></td></tr></tbody></table></td></tr>
-<tr><td>
-<table border="1" cellpadding="0" cellspacing="0" width="100%" bordercolor="#4876A3"><tbody><tr><td><a href="/features/parks/index.htm"><font face="arial" size="2" color="#ffffff"><b>Park Report</b></font></a></td></tr></tbody></table></td></tr>
-<tr><td>
-<table border="1" cellpadding="0" cellspacing="0" width="100%" bordercolor="#4876A3"><tbody><tr><td><a href="/features/farmzone"><font face="arial" size="2" color="#ffffff"><b>Farmzone</b></font></a></td></tr></tbody></table></td></tr>
-<tr><td>
-<table border="1" cellpadding="0" cellspacing="0" width="100%" bordercolor="#4876A3"><tbody><tr><td><a href="/features/marine/index.htm"><font face="arial" size="2" color="#ffffff"><b>Marine Forecast</b></font></a></td></tr></tbody></table></td></tr>
-<tr><td>
-<table border="1" cellpadding="0" cellspacing="0" width="100%" bordercolor="#4876A3"><tbody><tr><td><a href="/features/schoolday/index.htm"><font face="arial" size="2" color="#ffffff"><b>SchoolDay Forecast</b></font></a></td></tr></tbody></table></td></tr>
-<tr><td>
-<table border="1" cellpadding="0" cellspacing="0" width="100%" bordercolor="#4876A3"><tbody><tr><td><a href="/features/ski/index.htm"><font face="arial" size="2" color="#ffffff"><b>Ski Report</b></font></a></td></tr></tbody></table></td></tr>
-</tbody></table>
-</td></tr></tbody></table>
-<table border="0" cellpadding="4" cellspacing="4" width="160" bgcolor="#326896"><tbody><tr><td><table border="0" cellpadding="1" cellspacing="1" width="152" bgcolor="#326896"><tbody><tr><td width="100%"><img src="/common/images/r_Health.gif"></td></tr>
-<tr><td>
-<table border="1" cellpadding="0" cellspacing="0" width="100%" bordercolor="#4876A3"><tbody><tr><td><a href="/features/flu/"><font face="arial" size="2" color="#ffffff"><b>Flu Report</b></font></a></td></tr></tbody></table></td></tr>
-</tbody></table>
-</td></tr></tbody></table>
-<table border="0" cellpadding="4" cellspacing="4" width="160" bgcolor="#326896"><tbody><tr><td><table border="0" cellpadding="1" cellspacing="1" width="152" bgcolor="#326896"><tbody><tr><td width="100%"><img src="/common/images/r_Environment.gif"></td></tr>
-<tr><td>
-<table border="1" cellpadding="0" cellspacing="0" width="100%" bordercolor="#4876A3"><tbody><tr><td><a href="/features/airq/"><font face="arial" size="2" color="#ffffff"><b>Air Quality</b></font></a></td></tr></tbody></table></td></tr>
-<tr><td>
-<table border="1" cellpadding="0" cellspacing="0" width="100%" bordercolor="#4876A3"><tbody><tr><td><a href="/features/uv/"><font face="arial" size="2" color="#ffffff"><b>UV Report</b></font></a></td></tr></tbody></table></td></tr>
-<tr><td>
-<table border="1" cellpadding="0" cellspacing="0" width="100%" bordercolor="#4876A3"><tbody><tr><td><a href="/features/snow/"><font face="arial" size="2" color="#ffffff"><b>Snow Report</b></font></a></td></tr></tbody></table></td></tr>
-</tbody></table>
-</td></tr></tbody></table>
+<br><br>
+<script>
+	if (area != "pei") {
+		//  bottombanner ad
+		if (Ads[2].length > 1) showAds(AAMB3);
+	}
+</script>
+	<br>
 
-</td>
+<br>
+</center>
+			</div>
 
-<td valign="top"><iframe src="/common/includes/ads.htm?type=tower/pageid=247429/width=120/height=600/client=/area=ros/sector=nil/cityName=nil" noresize="" scrolling="no" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width="120" height="600"><a href="http://ads.weather.ca/accipiter/adclick/SITE=twn/pageid=247429/AREA=ros/AAMSZ=120X600/SECTOR=nil/CITY=nil?" target="_top"><img src="http://ads.weather.ca/accipiter/nserver/SITE=twn/pageid=247429/AREA=ros/AAMSZ=120X600/SECTOR=nil/CITY=nil?" BORDER="0" HEIGHT="600" WIDTH="120"></a></iframe><br>
-</td>
-</tr>
+		</div>
 
-				
-			</tbody></table>
+		<div id="rightContent">
+			<div id="adContent">
+				<center>
+<script>
+	document.write('<div id = "signInBoxContainer">');
+	document.write('<form name = "wxCUserLogin" style="display: inline; margin: 0;" action = "http://weathercentre.pelmorex.com/WeatherCentre/PtiWebClientEmail.dll/ClientLogin" method = "POST" />');
+	document.write('<input type="hidden" name="lang" value="1">');
+	document.write('<input type="hidden" name="nextpage" value="menu">');
+	document.write('	<div id = "wxcTopBlock">');
+	document.write('	</div>');
+	document.write('	<div id = "wxcBottomBlock">');
+	document.write('		<div id = "wxcBottomBlockInnerTopLeft">Already a Member? Sign in.</div>');
+	document.write('		<div id = "wxcBottomBlockInnerTopRight">Not a Member?</div>');
+	if(area=="mothersday") { 
+		document.write('		<div id = "wxcBottomBlockInnerBottomLeft"><input type = "text" name = "username" class = "wxCinputText"  value = "your email" onClick = "CheckSignIn();" />&nbsp;<input type = "password" name = "password" class = "wxCinputText" value = "password" onClick = "CheckSignInPW();" />&nbsp;<input type="image" name="enter" src = "/common/images/WXCsignInBoxSignIn_mothersday.gif" alt="Sign In" /></div>');
+		document.write('		<div id = "wxcBottomBlockInnerBottomRight"><div id = "wxcBottomBlockInnerBottomRightIMG"><a href = "/inter/weathercentre/index.htm" /><img src = "/common/images/WXCsignInBoxRegister_mothersday.gif" alt="Register" border = "0" /></a></div><div id = "wxcBottomBlockInnerBottomRightTXT">It’s&nbsp;free!</div></div>');
+	} else if(area=="victoriaday") { 
+		document.write('		<div id = "wxcBottomBlockInnerBottomLeft"><input type = "text" name = "username" class = "wxCinputText"  value = "your email" onClick = "CheckSignIn();" />&nbsp;<input type = "password" name = "password" class = "wxCinputText" value = "password" onClick = "CheckSignInPW();" />&nbsp;<input type="image" name="enter" src = "/common/images/WXCsignInBoxSignIn_victoriaday.gif" alt="Sign In" /></div>');
+		document.write('		<div id = "wxcBottomBlockInnerBottomRight"><div id = "wxcBottomBlockInnerBottomRightIMG"><a href = "/inter/weathercentre/index.htm" /><img src = "/common/images/WXCsignInBoxRegister_victoriaday.gif" alt="Register" border = "0" /></a></div><div id = "wxcBottomBlockInnerBottomRightTXT">It’s&nbsp;free!</div></div>');
+	} else {
+		document.write('		<div id = "wxcBottomBlockInnerBottomLeft"><input type = "text" name = "username" class = "wxCinputText"  value = "your email" onClick = "CheckSignIn();" />&nbsp;<input type = "password" name = "password" class = "wxCinputText" value = "password" onClick = "CheckSignInPW();" />&nbsp;<input type="image" name="enter" src = "/common/images/WXCsignInBoxSignIn.gif" alt="Sign In" /></div>');
+		document.write('		<div id = "wxcBottomBlockInnerBottomRight"><div id = "wxcBottomBlockInnerBottomRightIMG"><a href = "/inter/weathercentre/index.htm" /><img src = "/common/images/WXCsignInBoxRegister.gif" alt="Register" border = "0" /></a></div><div id = "wxcBottomBlockInnerBottomRightTXT">It’s&nbsp;free!</div></div>');
+	}
+	document.write('	</div>');
+	document.write('</form>');
+	document.write('</div>');
 
-		</td>
-	</tr>
-</tbody></table>
-<p>
+</script><div id="signInBoxContainer"><form name="wxCUserLogin" style="display: inline; margin: 0;" action="http://weathercentre.pelmorex.com/WeatherCentre/PtiWebClientEmail.dll/ClientLogin" method="POST"><input type="hidden" name="lang" value="1"><input type="hidden" name="nextpage" value="menu">	<div id="wxcTopBlock">	</div>	<div id="wxcBottomBlock">		<div id="wxcBottomBlockInnerTopLeft">Already a Member? Sign in.</div>		<div id="wxcBottomBlockInnerTopRight">Not a Member?</div>		<div id="wxcBottomBlockInnerBottomLeft"><input type="text" name="username" class="wxCinputText" value="your email" onclick="CheckSignIn();">&nbsp;<input type="password" name="password" class="wxCinputText" value="password" onclick="CheckSignInPW();">&nbsp;<input type="image" name="enter" src="/common/images/WXCsignInBoxSignIn.gif" alt="Sign In"></div>		<div id="wxcBottomBlockInnerBottomRight"><div id="wxcBottomBlockInnerBottomRightIMG"><a href="/inter/weathercentre/index.htm"><img src="/common/images/WXCsignInBoxRegister.gif" alt="Register" border="0"></a></div><div id="wxcBottomBlockInnerBottomRightTXT">It’s&nbsp;free!</div></div>	</div></form></div>
 
-		</p></td>
-	</tr>
-	<!-- FOOTER -->
-	<tr>
-		<td colspan="3" width="100%">
-			<table width="100%" cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>
-		<td height="100" bgcolor="#FFFFFF" width="100%" align="center"></td>
-		<td width="300"><img src="/common/images/spacer.gif" width="300" height="1">
-		<center>
-		<script>
-			if ((area != "floods") && (area != "pollen") && (area != "gardening")) {
-				d.write('<');
-				d.write('SCRIPT SRC="http://a'+'ds.weather.ca/jserver/SITE=twn/pageid='+PageID+'/AREA='+area+'/AAMSZ=VOKEN/SECTOR='+sector+'/CITY='+cityName+'/acc_random=' + BannerNum + '?" LANGUAGE="JavaScript1.1">');
-				d.write('</');
-				d.write('script>');
+<script>
+function CheckSignIn()
+{
+	if (document.wxCUserLogin.username.value == "your email")
+	{
+		document.wxCUserLogin.username.value = "";
+	}
+}
+
+function CheckSignInPW()
+{
+	if (document.wxCUserLogin.password.value == "password")
+	{
+		document.wxCUserLogin.password.value = "";
+	}
+}
+</script>
+
+	
+<script>
+/* NOLITOURS BOX CODE - AFTER-TRANSITION EFFECT */
+if (typeof nolitoursBoxAd != "undefined") { // nolitours transitional loads the nolitours 300X250 box
+
+	document.write('<div id = "noli" style = "visibility: hidden; z-index: 1">');
+	document.write('<SCR'+'IPT S'+'RC = "http://a'+'ds.weather.ca/jserver/SITE=twn/AREA='+area+'/AAMSZ=300X250/SECTOR='+sector+'/CITY='+cityName+'/acc_random=?" LANGUAGE="JavaScript1.1"></SCR'+'IPT>');
+	document.write('</div>');
+
+	function noliToursLoadBox() {
+		document.getElementById('noli').style.visibility = 'visible';
+	}
+
+/* NOLITOURS BOX CODE - AFTER-TRANSITION EFFECT */	
+} else {
+	// box ad
+	if (Ads[3].length > 1) showAds(AAMB4);
+}
+
+</script>
+
+
+	
+	<br>
+
+	
+	<script> 
+		//  text ad
+		if (Ads[4].length > 1) showAds(AAMB5);
+	</script>
+
+	<br>
+	<script> 
+
+	var getURLStringRemoveTowerOnIndex = document.URL;
+
+
+
+	//enable below to turn OFF tower on all indexes throughtout the site
+	/* if (((area == "can") || (area == "usa") || (area == "intl") || (area == "search") || (area == "weather") || (area == "roads") || (area == "homeandgarden") || (area == "activities") || (area == "health"))) {
+
+			if (getURLStringRemoveTowerOnIndex.indexOf("index")!=-1) {
+
+			} else {
+			if (typeof billboardAd == "undefined") {
+						//  tower ad
+							if (Ads[5].length > 1) showAds(AAMB6);
+					}
 			}
+	} else {
+		if (typeof billboardAd == "undefined") {
+			//  tower ad
+				if (Ads[5].length > 1) showAds(AAMB6);
+				}
+	} */
+	
+	
+	
+	// if above statement is enabled, disable this statement:
+	if (typeof billboardAd == "undefined") {
+		//  tower ad
+		if (Ads[5].length > 1) showAds(AAMB6); d.write("<br />");
+	}
+	
+	</script><br>
 
-		</script><script src="http://ads.weather.ca/jserver/SITE=twn/pageid=247429/AREA=ros/AAMSZ=VOKEN/SECTOR=nil/CITY=nil/acc_random=159294?" language="JavaScript1.1"></script>
-		</center>
-		</td>
+	<br>
+	<script>
+		// any ad
+		if (Ads[6].length > 1) showAds(AAMB7);
+	</script>
+
+	
+	
+	<script>
+		current_date = new Date();
+		current_month = current_date.getMonth();
+		current_month = current_month + 1;
+		current_day = current_date.getDate();
+	
+		var contest_Date = new Date();
+		clientDD = contest_Date.getDate();
+		clientMM = contest_Date.getMonth();
+		clientYY = contest_Date.getYear();
+	
+		 if ((howManyLocalAds == 0) && (isSponsorship != "true"))  {
+			//document.write("<br /><iframe src='http://twn.contestdirect.com/contestButton.php?site=twn' noresize scrolling='no' hspace='0' vspace='0' frameborder='0' marginheight='0' marginwidth='0' width = '234' height = '60'></iframe></center>");
+			//document.write("<br /><a href = 'http://twn.contestdirect.com'><IMG src = '/inter/contests/images/contestbutton_v3.gif' border = '0'></a>");			
+			 if(area!="contests") {
+				if(area!="bugs") { 
+					document.write("<a href = 'http://contests.theweathernetwork.com/'><IMG src = '/inter/contests/images/contestbutton_v3.gif' border = '0'></a><br />");
+					document.write("<a href = '/inter/contests/recentWinners.htm' class = 'iconbar'>Recent Contest Winners</a>");
+				}			
+			 }								
+		 }
+	</script><a href="http://contests.theweathernetwork.com/"><img src="/inter/contests/images/contestbutton_v3.gif" border="0"></a><br><a href="/inter/contests/recentWinners.htm" class="iconbar">Recent Contest Winners</a>
+	
+	
+<!-- Local Ad Display Logic START -->
+
+	<script>	
+	if ((area == "can") && (typeof nfld_takeover != "undefined")) { // NFLD SPO
+		document.write("<div style = 'height:480px'>&nbsp;</div>");
+	}
+	</script>
+	
+	<script>
+	if (area != "home") {	
+		if (howManyLocalAds != 0) {
+		
+		// Master.css Hides the Local Ads Box Div - the Style with VISIBLE setting is triggered from the ad (creative) itself 
+		d.write('<div id = "showLocalAdsContainer"><table align = "center" width = "292" cellpadding = "0" cellspacing = "0">');
+		d.write('<tr><td><div id = "localAdsCityNameContainer"><div id = "localAdsCityNameText">');
+		d.write(cityNameLink);
+		d.write(' Advertisements</div></div></td>');
+		d.write('</tr><tr>');
+		d.write('<td valign = "middle" align = "center" width = "292" height = "19">');
+		d.write('<IMG src = "/common/images/spacer.gif" width = "292" height = "10" hspace = "0" vspace = "0" /><br />');
+		}
+	}
+	</script>
+
+	<script>
+	if (area != "home") {	
+		d.write("<div style = 'padding: 2px;'>"); showAds(AAMB9); d.write("</div>");
+		
+		if (AAMB10 != AAMB9) { 
+		d.write("<div style = 'padding: 2px;'>"); showAds(AAMB10); d.write("</div>");
+		}
+		
+		if ((AAMB11 != AAMB10) && (AAMB11 != AAMB9)) { 
+		d.write("<div style = 'padding: 2px;'>"); showAds(AAMB11); d.write("</div>");
+		}
+		
+		if ((AAMB12 != AAMB11) && (AAMB12 != AAMB10) && (AAMB12 != AAMB9)) { 
+		d.write("<div style = 'padding: 2px;'>"); showAds(AAMB12); d.write("</div>");
+		}
+	}
+	</script><div style="padding: 2px;"></div>
+
+	<script>
+	if (area != "home") {	
+		if (howManyLocalAds != 0) {
+		d.write('</td></tr>');
+		d.write('<tr><td height = "10"></td></tr>');
+		d.write('</table></div>');
+		}
+	}
+	</script>
+	
+<!-- Local Ad Display Logic END -->
+
+<br>
+
+
+<script>
+	if ((howManyLocalAds > 0) && (isSponsorship != "true")) {
+		//document.write("<iframe src='http://twn.contestdirect.com/contestButton.php?site=twn' noresize scrolling='no' hspace='0' vspace='0' frameborder='0' marginheight='0' marginwidth='0' width = '234' height = '60'></iframe></center>");
+		//document.write("<a href = 'http://twn.contestdirect.com'><IMG src = '/inter/contests/images/contestbutton_v3.gif' border = '0'></a>");
+			 if(area!="contests") {
+				if(area!="bugs") { 
+					document.write("<a href = 'http://contests.theweathernetwork.com/'><IMG src = '/inter/contests/images/contestbutton_v3.gif' border = '0'></a><br />");
+					document.write("<a href = '/inter/contests/recentWinners.htm' class = 'iconbar'>Recent Contest Winners</a>");
+				}			
+			 }	
+	}
+</script>
+
+
+
+</center>
+
+			</div>
+		</div>
+
+</div>
+
+<div id="footer">
+	<table class="headerFooterSize" cellpadding="0" cellspacing="0" border="0">
+
+	<tbody><tr>
+	<td valign="top">
+		<script language="JavaScript1.2" src="/common/scripts/footerTWN.js"></script><table width="100%" cellpadding="0" cellspacing="0" border="0">        <tbody><tr height="30">        	<td class="BottomYellow1" width="60%" height="30"><!---<a href = /inter/stormline/ class="BottomYellow">--->If severe weather is happening in your area call our Stormline: 1-800-463-9463<!---</a>---></td>        	<td class="BottomYellow" width="10%"><a href="/inter/help/sitemap.htm" class="BottomYellow">Site Map</a></td>        	<td class="BottomYellow" width="10%"><a href="/inter/help/index.htm" class="BottomYellow">Help</a></td>        	<td class="BottomYellow" width="10%"><a href="/twn/contactinfo/contactus.htm" class="BottomYellow">Contact Us</a></td>        	<td class="BottomYellow" width="10%"><a href="https://web.archive.org/web/20031223122458/http://www.meteomedia.com" class="BottomYellow">En Français</a></td>        </tr>        <tr>        	<td class="BottomBlue" colspan="5" align="right">        		<table border="0" cellpadding="10" cellspacing="5" align="right">        			<tbody><tr>        				<td class="BottomBlue" height="20"><a href="/inter/help/privacy.htm" class="BottomBlue">Privacy&nbsp;Policy</a></td>        				<td class="BottomBlue"><a href="/twn/partners/data_attribution.htm" class="BottomBlue">Data&nbsp;Attribution</a></td>        				<td class="BottomBlue"><a href="https://web.archive.org/web/20031223122458/http://www.farmzone.com" class="BottomBlue">Farmzone.com</a></td>        				<td class="BottomBlue"><a href="/inter/help/copyright.htm" class="BottomBlue">©2020 The&nbsp;Weather&nbsp;Network</a></td>        			</tr>        		</tbody></table>        	</td>        </tr></tbody></table>
+	</td>
 	</tr>
-</tbody></table>
-<script language="JavaScript1.2" src="/common/scripts/footerTWN.js"></script><table width="100%" cellpadding="0" cellspacing="0" border="0">        <tbody><tr height="30">        	<td class="BottomYellow1" width="60%" height="30"><!---<a href = /inter/stormline/ class="BottomYellow">--->If severe weather is happening in your area call our Stormline: 1-800-463-9463<!---</a>---></td>        	<td class="BottomYellow" width="10%"><a href="/inter/help/sitemap.htm" class="BottomYellow">Site Map</a></td>        	<td class="BottomYellow" width="10%"><a href="/inter/help/index.htm" class="BottomYellow">Help</a></td>        	<td class="BottomYellow" width="10%"><a href="/twn/contactinfo/contactus.htm" class="BottomYellow">Contact Us</a></td>        	<td class="BottomYellow" width="10%"><a href="https://web.archive.org/web/20031223122458/http://www.meteomedia.com" class="BottomYellow">En Français</a></td>        </tr>        <tr>        	<td class="BottomBlue" colspan="5" align="right">        		<table border="0" cellpadding="10" cellspacing="5" align="right">        			<tbody><tr>        				<td class="BottomBlue" height="20"><a href="/inter/help/privacy.htm" class="BottomBlue">Privacy&nbsp;Policy</a></td>        				<td class="BottomBlue"><a href="/twn/partners/data_attribution.htm" class="BottomBlue">Data&nbsp;Attribution</a></td>        				<td class="BottomBlue"><a href="https://web.archive.org/web/20031223122458/http://www.farmzone.com" class="BottomBlue">Farmzone.com</a></td>        				<td class="BottomBlue"><a href="/inter/help/copyright.htm" class="BottomBlue">©2020 The&nbsp;Weather&nbsp;Network</a></td>        			</tr>        		</tbody></table>        	</td>        </tr></tbody></table>
-
-		</td>
-	</tr>
+	
 </tbody></table>
 
+<script>
+	var getURLStringRemoveTowerOnIndex = document.URL;	
+	if (typeof pageSubTitle != "undefined") {var pageSubTitle = pageSubTitle; } else { var pageSubTitle = "";}
+
+	// Call to Variable(s) for Omniture
+	d.write('<scr'+'ipt src = "/common/includes/'+area+'.js"></scr'+'ipt>');
+	
+	if((pageSubTitle.indexOf("Index")!=-1) || (getURLStringRemoveTowerOnIndex.indexOf("/Index")!=-1) || (getURLStringRemoveTowerOnIndex.indexOf("/index")!=-1) || (area=="ski" && pageSubTitle=="Ski Report")) { var omniPageType = "Navigation"; }
+	else { var omniPageType = "Content"; }
+
+
+</script><script src="/common/includes/help.js"></script>
+
+<!-- SiteCatalyst code version: H.2. Copyright 1997-2005 Omniture, Inc. More info available at http://www.omniture.com -->
+<script language="JavaScript" src="/common/scripts/s_code.js"></script><img name="s_i_pelmedwnprod" height="1" width="1" border="0" alt="">
+<script language="JavaScript"><!--
+/* Set any SiteCatalyst variables here */
+s.pageName=pageTitle;
+s.channel=pageGroup;
+s.server="U3";
+s.prop1=pageProduct;
+s.prop4=omniPageType;
+s.prop7=pageSubproduct;
+s.prop8=omniPlaceCode;
+
+var wbRefExists;
+function getQueryVariable(variable) {			
+		  var query = window.location.search.substring(1);
+		  var vars = query.split("&");
+		  for (var i=0;i<vars.length;i++) {
+			var pair = vars[i].split("=");
+			if (pair[0] == variable) {
+			  return pair[1];			  
+			}
+		  } 
+		 //alert('Query Variable ' + wbRef + ' not found');
+		}
+var omniReferrer = getQueryVariable("wbRef");
+if(omniReferrer != "") { s.referrer = omniReferrer; }
+
+if (area == "intl") { s.prop2=provName; }
+else if (area == "ski") {
+	if ((getURLStringRemoveTowerOnIndex.indexOf("/US")!=-1) || (getURLStringRemoveTowerOnIndex.indexOf("/CA")!=-1)) { s.prop2=counName; s.prop3=province.toUpperCase(); }  
+	else { s.prop2=counName; }
+}
+else if ((getURLStringRemoveTowerOnIndex.indexOf("/index.htm")) != -1) { s.prop2 = "" }
+else { s.prop2=counName; s.prop3=province.toUpperCase(); }
+
+if (s.prop2 == "nil") { s.prop2=""; }
+if (s.prop3 == "NIL") { s.prop3=""; }
+
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<!-- End SiteCatalyst code version: H.2. -->
+
+<script>
+//	if(s.prop3 != "") { alert(s.prop3); }
+//	alert(s.prop2);
+//	document.write('<font style="font-size:30px; color: White; font-weight:bold;"><CENTER>'+ pageTitle + '</CENTER></font>');
+</script>	
+
+<!-- -----The following Coding is for the Advertising.com Web Beacon ---- -->
+<!-- ----------------- DO NOT REMOVE THIS CODING ------------------------ -->
+<img src="http://servedby.advertising.com/action/type=572673974/bins=1/rich=0/mnum=1516/logs=0" height="1" width="1" border="0">
+<!-- -----The preceding Coding is for the Advertising.com Web Beacon ---- -->
+<!-- ----------------- DO NOT REMOVE THIS CODING ------------------------ -->
+</div>
 
 
 
