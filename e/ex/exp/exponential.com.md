@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exponential.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209035338id_/http%3A//exponential.com/who-we-are/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exponential.com privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514181255id_/http%3A//www.exponential.com/who-we-are/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Exponential™
 
@@ -50,7 +50,7 @@ In the event that Exponential™, in whole or in part, is acquired by, or merged
 
   **Corrections/Updates  
 **  
-Exponential™ allows users who choose to provide personally identifiable information to access their information to ensure that it is correct and up to date. Exponential™ provides users the following options for changing and modifying information previously submitted: (1) you can send email to [usersupport@exponential.com](mailto:usersupport@tribalfusion.com) with the word "Updates" in the subject field, or (2) you can send mail to: Updates, Exponential™ Interactive, Inc., 2200 Powell Street, Suite 600, Emeryville, California 94608.
+Exponential™ allows users who choose to provide personally identifiable information to access their information to ensure that it is correct and up to date. Exponential™ provides users the following options for changing and modifying information previously submitted: (1) you can send email to [usersupport@exponential.com](mailto:usersupport@exponential.com) with the word "Updates" in the subject field, or (2) you can send mail to: Updates, Exponential™ Interactive, Inc., 2200 Powell Street, Suite 600, Emeryville, California 94608.
 
 **Child Protection  
 **Exponential™ does not offer services to, or target, persons under the age of 18.  In compliance with the Children's Online Privacy Protection Act, any information we receive from people we believe to be minors will be purged from our database. 
@@ -65,7 +65,7 @@ Links to Web Publishers, Advertisers, and Other Web Sites
 **Exponential's services are combined with content from Web publishers and advertisers.  Exponential's services may contain links to other Web sites. Exponential™ is not responsible for the privacy practices or the content of Web publishers, advertisers, or other Web sites that may be linked to Exponential's Web sites. 
 
 **Contacting the Web Site  
-**If you have questions or concerns regarding this policy, you should contact Exponential™ by sending email to [usersupport@exponential.com](mailto:mailto:usersupport@tribalfusion.com) with "Privacy" in the subject line, or by writing to Privacy, Exponential™ Interactive, Inc., 2200 Powell Street, Suite 600, Emeryville CA 94608.  
+**If you have questions or concerns regarding this policy, you should contact Exponential™ by sending email to [usersupport@exponential.com](mailto:mailto:usersupport@exponential.com) with "Privacy" in the subject line, or by writing to Privacy, Exponential™ Interactive, Inc., 2200 Powell Street, Suite 600, Emeryville CA 94608.  
 
   **Acceptance of Privacy Statement  
 **Your use of our Web site is subject to this privacy policy and the Terms of Use Agreement.  BY USING OUR WEB SITE, YOU ARE ACCEPTING THE PRACTICES SET OUT IN THIS PRIVACY POLICY AND OUR TERMS OF USE AGREEMENT.  We reserve the right to modify this privacy policy at any time by posting the changes on this page.  Please check the effective date at the bottom of this page to determine if the privacy policy has been modified since you last reviewed it.  Your continued use of our Web site following posting of the updated privacy policy will constitute your acceptance of the changes.
