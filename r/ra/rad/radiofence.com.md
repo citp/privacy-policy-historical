@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radiofence.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217093921id_/http%3A//www.radiofence.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiofence.com privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514103403id_/http%3A//www.radiofence.com/privacy.htm) for the most accurate reproduction.*
 
 # Radio Fence Distributors Privacy Policy
 
