@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theweathernetwork.com privacy policy that was archived on 2005-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050529075437id_/http%3A//www.theweathernetwork.com/inter/help/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theweathernetwork.com privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514021117id_/http%3A//theweathernetwork.com/inter/help/privacy.htm) for the most accurate reproduction.*
 
-# The Weather Network · Help · About TWN
+# The Weather Network · Help · Privacy Policy
 
   * Privacy Policy
   * The Ten Privacy Principles
@@ -92,13 +92,12 @@ Limitation of Liability
 Complete confidentiality and security is not yet possible over the Internet. Internet use and communication is subject to interception, loss and alteration. On whichever site you provide personal information, it is possible for a third party to view that information. It is not surprising, for example, that messages to newsgroups have resulted in unsolicited email from spammers. You acknowledge and agree that PMI and its affiliates and related companies shall not be responsible for any damages you may suffer as a result of the transmission of confidential or sensitive information over the Internet, and that all such communications will be at your own risk.
 
 Contact Us   
-We hope you find this statement informative and clear. Please [email us](mailto:privacy@on.pelmorex.com) regarding any questions or further information you may be interested in. Or, if you prefer, contact us in writing, at:
+We hope you find this statement informative and clear. Please [email us](mailto:privacy@pelmorex.com) regarding any questions or further information you may be interested in. Or, if you prefer, contact us in writing, at:
 
 Privacy Officer   
-1 Robert Speck Parkway   
-Suite 1600   
-Mississauga, Ontario   
-L4Z 4B3 
+2655 Bristol Circle   
+Oakville, Ontario   
+L6H 7W1 
 
 Individuals can also contact the Privacy Commissioner of Canada in writing at the address provided.
 
