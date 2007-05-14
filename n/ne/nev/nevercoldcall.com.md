@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nevercoldcall.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205215015id_/http%3A//www.nevercoldcall.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nevercoldcall.com privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514144140id_/http%3A//www.nevercoldcall.com/privacy.htm) for the most accurate reproduction.*
 
 # Training & Consulting Services | Cold Calling
 
-##  [ ](https://web.archive.org/web/20061205215015id_/http%3A//www.nevercoldcall.com/index.php)[](https://web.archive.org/web/20061205215015id_/http%3A//www.nevercoldcall.com/our_system.htm)[](https://web.archive.org/web/20061205215015id_/http%3A//www.nevercoldcall.com/author.htm)[](https://web.archive.org/web/20061205215015id_/http%3A//www.nevercoldcall.com/services.htm)[](https://web.archive.org/web/20061205215015id_/http%3A//www.nevercoldcall.com/contact.htm)[](https://web.archive.org/web/20061205215015id_/http%3A//www.nevercoldcall.com/order.htm)
+##  [ ](https://web.archive.org/web/20070514144140id_/http%3A//www.nevercoldcall.com/home.htm)[](https://web.archive.org/web/20070514144140id_/http%3A//www.nevercoldcall.com/our_system.htm)[](https://web.archive.org/web/20070514144140id_/http%3A//www.nevercoldcall.com/aboutus.htm)[](https://web.archive.org/web/20070514144140id_/http%3A//www.nevercoldcall.com/services.htm)[](https://web.archive.org/web/20070514144140id_/http%3A//www.nevercoldcall.com/contact.htm)[](https://web.archive.org/web/20070514144140id_/http%3A//www.nevercoldcall.com/order.htm)
 
 ****
 
