@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bondagehere.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205221647id_/http%3A//www.risecash.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bondagehere.com privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514173532id_/http%3A//www.risecash.com/privacy.html) for the most accurate reproduction.*
 
 # Legal Info RiseCash, BDSM, Bondage, Femdom, Fetish sponsor
 
