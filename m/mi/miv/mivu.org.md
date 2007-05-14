@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mivu.org privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216163832id_/http%3A//mivu.org/content.cfm%3FID%3D21) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mivu.org privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514055055id_/http%3A//www.mivu.org/content.cfm%3FID%3D21) for the most accurate reproduction.*
 
 # Michigan Virtual University - Contact Us
 
