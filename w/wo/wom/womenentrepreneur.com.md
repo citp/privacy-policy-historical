@@ -1,160 +1,90 @@
-> *The following text is extracted and transformed from the womenentrepreneur.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205101id_/http%3A//www.roar.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womenentrepreneur.com privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514205951id_/http%3A//www.womenentrepreneur.com/privacypolicy.html) for the most accurate reproduction.*
 
-# ROAR.com Privacy Policy
+# Entrepreneur.com Online Privacy Statement - WomenEntrepreneur.com
 
-**PRIVACY POLICY**
+[Home](https://web.archive.org/) > Privacy Policy 
 
+(The policies stated within this document are applicable to Entrepreneur.com and other sites owned and operated by Entrepreneur.com Inc. on the World Wide Web.)
+
+**We take your Privacy seriously.  
+The privacy of our visitors and members is very important to us. Since we do gather information about you, we provide this privacy statement to enable you to understand the terms and conditions associated with the collection of this data, as well as how we use it and how you can correct or change it. In addition, we make to you the following pledge:**
+
+**The Entrepreneur.com Privacy Pledge  
 **
 
-ROAR.COM LIMITED - PRIVACY POLICY
+> 1\. The information we collect about your business will be used for purposes of site research and development in an effort to better serve your needs. 
+> 
+> 2\. We will never contact you without your permission, and we will immediately terminate any communications with you upon request.
 
-**
+**Electronic Newsletters**  
+You can choose to subscribe to one of our FREE electronic newsletters. These newsletters are distributed through our service provider. To subscribe, simply check the box for each newsletter you wish to receive, provide your e-mail address and zip code and then submit. From time-to-time, you may be asked to provide additional information such as job title, number of employees, country of origin, and type of business. As a subscriber to our newsletter, you also agree to receive advertisements, promotions, and special communications from Entrepreneur and its partners. You can remove yourself from our newsletter e-mail lists by simply following the "Unsubscribe" directions included in each newsletter you receive or send an an email with "unsubscribe" in the subject line to [unsubscribe@entrepreneur.com](mailto:unsubscribe@entrepreneur.com). Please be assured that information you voluntarily give us will not be shared with any third party beyond our service provider.
 
-We at Roar.com Limited, our subsidiaries and our affiliated website operators ("Roar.com"), pride ourselves on providing our customers ("Customer") and visitors to our websites ("Visitors"), with a range of exciting online products and services. 
+**Special Offers**  
+You can also choose to subscribe to our "special offer" lists and provide you with information and valuable offers by e-mail from Entrepreneur and its partners. Subscription to these lists is completely voluntary, and you may unsubscribe at any time. To subscribe, simply check the box for each category of interest, provide your e-mail address and zip coden then submit. From time-to-time, you may be asked to provide additional information such as job title, number of employees, country of origin, and type of business. Offers you receive through this subscription will be identified in the message header as part of your participation in the Entrepreneur.com list. To unsubscribe, simply follow the directions provided in the footer of the e-mail or send an an email with "unsubscribe" in the subject line to [unsubscribe@entrepreneur.com](mailto:unsubscribe@entrepreneur.com). We want you to receive only those offers of interest to you. Please be assured that information you voluntarily give us will not be shared with any third party beyond our service provider.
 
-This privacy policy explains why and how Roar.com collects certain personal information from both our Customers and Visitors, and what we do with that information. 
+**Franchise & Business Opportunity Lead Submission**  
+Entrepreneur collects lead information for franchise and business opportunity advertisers conducting recruitment campaigns on the site. Submitting information to Entrepreneur under this lead generation program is completely voluntary. Should you choose to provide Entrepreneur with information as a part of this program, this personal information will only be sent to the company you selected. The lead information will also be retained by Entrepreneur.  
 
-**
 
-ABOUT THIS PRIVACY POLICY
+**Expert Columnists' Lead Submission**  
+Entrepreneur collects lead information for some authors on the site identified as columnists. Submitting information to Entrepreneur under this lead generation program is completely voluntary. Should you choose to provide Entrepreneur with information as a part of this program, this personal information will only be sent to the columnist/company you selected. The lead information will also be retained by Entrepreneur.
 
-**
+**SmallBizBooks.com, Entrepreneur Press & Free-Bookstore Registration**  
+You will be required to register in order to make purchases at our online stores, SmallBizBooks.com, EntrepreneurPress.com and Free-Bookstore.com. To register, you're required to supply your name and shipping address, phone number, a username and password. Optional information includes the name of your company and a fax number. The information gathered from this process is stored in the SmallBizBooks.com, EntrepreneurPress.com and Free-Bookstore.com databases and is also saved to a cookie. This allows SmallBizBooks.com, EntrepreneurPress.com and Free-Bookstore.com members to enter the site without having to login each time. When you make a purchase at SmallBizBooks.com, EntrepreneurPress.com or Free-Bookstore.com, your credit card information is secured using 128-bit SSL encryption technology.
 
-Roar.com's privacy policy has been drafted to comply with the National Privacy Principles outlined in the Australian Privacy Act 1998 (Cth). More information about the Privacy Act is available on the Australian Privacy Commissioner's website at http://www.privacy.gov.au. 
+**Contests And Sweepstakes**  
+All contests and sweepstakes conducted on any site operated by Entrepreneur.com are conducted in accordance with both federal and state laws. Information collected during any contest or sweepstakes event is used to verify user identity and to contact winners. Once again, no information regarding individual users is sold or rented to any third party. Winner name and address data will be supplied to a third-party fulfillment source for the shipment of your prize.
 
-**
+**Usage Reports**  
+In order to better understand traffic patterns on any site owned and operated by Entrepreneur.com, we analyze our site activity to obtain overall usage statistics. These usage statistics provide us with certain information obtained from data within the browser string (information contained in every user's browser). Information we collect from the browser string includes domain name, browser type, operating system and MIME type.
 
-WHY WE NEED TO COLLECT PERSONAL INFORMATION
+**E-Mail Data Analysis**  
+From time-to-time, we provide our e-mail lists (newsletters & special offers) to third-party companies who provide specialized services, such as e-mail message deployment, merge-purge (identifying and removing duplicate addresses) of lists, statistical analysis and other data processing. These companies work on our behalf, and we do not provide our lists or other data to them for their own, permanent use.
 
-**
+**Cookies**  
+All sites owned and operated by Entrepreneur.com use cookies. A cookie is a small data file written to your hard drive. Cookies allow us to understand user behavior so we can more effectively develop information and programs to serve you better. Our third-party ad serving company, delivers a one-time cookie to your hard drive in order to better track ad impressions and click-through rates. Advertisers require information regarding ad impressions and click-through rates, and by providing them with this information, we are able to keep our sites free to our visitors.
 
-Personal information from our Customers and Visitors is used to enable Roar.com to deliver our online products and services to our Customers and Visitors. For example most of our products and services require some form of registration or subscription, while others require a payment to be made. Contact details of our Customers and Visitors may also be required from time to time to notify them of competition prizes they may have won. Some of the information we collect, including that obtained from our online enquiry/feedback facilities, is used to help Roar.com develop and improve the quality of our products and services, which in turn, provides both our Customers and Visitors with a more satisfying and enjoyable online experience. 
+If you're concerned about the use of cookies, you have the option to set your browser to warn you before accepting cookies, or to turn off cookies entirely. The options to warn or disable cookies can be found in the "Options" or "Preferences" feature of your browser. You do not need to enable cookies in oder to use any site owned and operated by Entrepreneur.com, Inc.
 
-**
+**Beacons**  
+Like many websites, Entrepreneur may use pixel tags, also known as beacons, spotlight tags or web bugs, to improve our understanding of site traffic, visitor behavior and response to promotional campaigns as a supplement to our server logs and other methods of traffic and response measurement. We may also implement pixel tags provided by other companies for the same purpose.
 
-WHAT WE DO WITH YOUR PERSONAL INFORMATION
+**Links to Other Sites**  
+Please be aware that when you're on Entrepreneur.com or any site owned by Entrepreneur.com, or when you receive an e-mail message from us on behalf of a marketer according to permission granted through our opt-in process for newsletters and special offers, you could be directed to other sites that are beyond our control, such as the marketer's site. There may also be links to other sites from Entrepreneur.com pages or from the e-mail message we send you that take you outside Entrepreneur.com. These other sites may send their own cookies to visitors, collect data or solicit personal information. The privacy policies of these other sites may be significantly different from this privacy policy. We are not responsible for the privacy practices of these other sites and cannot guarantee the security of any of your personal information collected there.
 
-**
+**NOTICE:**[Click here](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.htm) for important information about safe surfing from the Federal Trade Commission.
 
-Customer's email addresses and other personal information provided by customers may be used to enable us to send promotional material (on other products and services that we consider may be of interest to Customers. However, Customers may at any time, notify us that they do not wish to receive this material via an "opt-out" facility contained on our websites. 
+**Pops**  
+Entrepreneur.com does serve pop advertisements to visitors upon entry and exit. The frequency of these pops is controlled by cookies, mentioned heretofore in this privacy policy. Although we do serve pop advertisements, you can choose to block these pop-up windows by using a pop-up blocker software. There are many good pop-up blockers on the market. In order to obtain a pop-up blocker, you can view the list here at [Download.com](http://www.download.com/Pop-Up-Blockers/3150-7786_4-0.html?tag=dir).
 
-If a Customer no longer wants us to keep a record of their personal information or they need to update some of the particulars (for example, address), the Customer may contact us by emailing our Customer Support Group at customercare@roar.com, so we can update or remove the information as required.
+**Third-Party E-Mail Collection**  
+In addition to Entrepreneur.com visitors providing permission to receive newsletters and special offers, we do work with various marketing partners to promote our newsletters and special offers to their visitors. Each promotion on third-party sites is branded under Entrepreneur.com and, as with the newsletter and special offer list subscriptions on Entrepreneur.com, all e-mail address collection from third-party sources adhere to our opt-in process.
 
-Personal information that Customers provide to Roar.com may also shared among our subsidiaries and the operators of our affiliated websites. All subsidiaries and affiliates are required to keep such information private and confidential and otherwise deal with such personal information strictly in accordance with this Privacy Policy. 
+**Security**  
+Protecting the security of your personal information is very important to us. When we store information you've provided to us, that information is protected by security measures that include "firewalls" (a combination of computer hardware and software that helps keep unauthorized visitors from accessing information within our computer network), "intrusion detection systems" (a combination of computer hardware and software that helps detect any unauthorized visitors), "secure socket layer" (data encryption used when transmitting certain information such as personal information from a form or a transaction within SmallBizBooks.com, EntrepreneurPress.com or Free-Bookstore.com) and other security measures such as secure storage. Unfortunately, no data transmission over the internet or data repository can be guaranteed to be 100% secure. As a result, while Entrepreneur.com strives to protect your personal information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and cannot be responsible for the theft, destruction or inadvertent disclosure of your personal information.
 
-Roar.com also shares information about our Customers (on an anonymous basis) with our advertisers, business partners, sponsors and other third parties. For example, we may disclose the fact that membership to one of our websites is "X" percent male and "Y" percent female. 
+**Reporting Unsolicited E-Mail**  
+Despite our concerted efforts to prevent unsolicited (spam) e-mail relayed through Entrepreneur.com servers, unsolicited e-mail may sometimes get through. Entrepreneur.com NEVER sends unsolicited or spam e-mail. We view spam as a serious violation of privacy and a misuse of the internet in general. If you receive an unsolicited e-mail with a domain of Entrepreneur.com, please send it immediately to [abuse@entrepreneur.com](mailto:abuse@entrepreneur.com). Upon receipt of the e-mail, we will do our utmost to track down the offender and take any actions necessary to stop spam messages.
 
-This information is used to gain a better understanding of our customer base, thus enabling us to tailor our website content specifically to our Customer's wants and needs.
+**Correcting Information**  
+You can correct or update any information you have provided to Entrepreneur.com by following the instructions in any electronic newsletter or offering we send, or you may correct your information by sending an e-mail to [memberservices@entrepreneur.com](mailto:memberservices@entrepreneur.com).
 
-**
+**Deactivating**  
+Any user receiving our electronic newsletter or who receives regular offers from our partners may opt out of our email list at any time by simply following the instructions to "Unsubscribe" within each newsletter or offering or send an an email with "unsubscribe" in the subject line to [unsubscribe@entrepreneur.com](mailto:unsubscribe@entrepreneur.com).
 
-HOW WE COLLECT INFORMATION
+**Changes to the Entrepreneur Privacy Policy**  
+This privacy policy may be modified from time to time. If there is a significant change, we will indicate on our sites that our privacy policy has changed and provide a link to the new policy.
 
-** **
+**Contacting Entrepreneur**  
+Should you have any questions, concerns or suggestions, you may contact Entrepreneur.com by e-mail at [memberservices@entrepreneur.com](mailto:memberservices@entrepreneur.com)or at the following address:
 
-Personal Information provided to Roar.com
+Entrepreneur.com Inc.  
+Privacy Policy Issues  
+2445 McCabe Way, Suite 400  
+Irvine, CA 92614  
+(949) 261-2325
 
-**
+Effective Date: December 20, 2006
 
-Roar.com collects and stores personal information that is voluntarily provided by our Customers as part of doing business with us. Such information may include Customer's full name, date of birth, addresses (including home, postal and email address) and telephone numbers. We also collect and securely store Customer's payment details such as their credit card details (where necessary).
+  
 
-Roar.com Limited collects this personal information and makes use of these details to provide you with our products and services and to better manage our relationship with you.
-
-Website activity 
-
-Roar.com Ltd provides products and services via a number of different websites. When Visitors view our websites, our web servers record anonymous information such as the time and date this website is viewed and the web pages/URL's requested. This information assists us to improve the structure of our websites and monitor their performance.
-
-Cookies
-
-Roar.com makes use of cookies on this website. Cookies are pieces of information that a Website transfers to a Visitors hard drive for record-keeping purposes. The browser stores the information, and sends the information back to the server each time a Visitor request a webpage from the server. The use of cookies is an industry standard and are used by the majority of Website operators.
-
-By keeping a record of how and when Visitors view our websites, cookies help us see which web pages are popular and which are not. Many improvements and updates to our websites are based on such data as the total number of Visitors and pages viewed. This information is most easily tracked with cookies. We use the information from cookies to provide products and services that are better tailored to our Customers and Visitors needs.
-
-Most browsers are initially set up to accept cookies. Visitors can reset their browser to refuse all cookies or indicate when a cookie is being sent. However, some parts of our websites, or the products and services provided through our websites, may not function properly or may be considerably slower if you do not enable cookies on your internet browser. 
-
-IP Addresses
-
-Roar.com website servers register the type of web browsers that Visitors are using and their IP address when Visitors access our websites.
-
-Roar.com collects IP addresses for the purposes of system administration, to report aggregate traffic information to our Customers, fraud detection and to generally audit the use of our websites. When Visitors request pages from our websites, our servers may log the Visitor's IP addresses.
-
-Roar.com does not normally link IP addresses to any personal information, which means that a Visitor's session will be logged, but the Visitor otherwise remains anonymous.
-
-Roar.com can and will use IP addresses to identify a Visitor when it is necessary to enforce compliance with our terms of service or to protect the integrity of our services and websites, as well as to protect our interests and those of our Customers.
-
-Some services provided by Roar.com, such as certain message boards, may display IP addresses along with the message poster's name and message. Please review each service prior to use and only uses those that collect and/or disclose information you are comfortable with disclosing.
-
-**
-
-WHEN WE DISCLOSE PERSONAL INFORMATION
-
-**
-
-Roar.com Limited takes all reasonable steps to protect the privacy of our Customers and Visitors and to ensure that the personal information we collect and store is protected against unauthorised disclosure to third parties.
-
-However, there may be times when Roar.com may be required to disclose personal information of a Customer or Visitor without their consent. This may occur where we have reason to believe that disclosing the information is:
-
-  * necessary to identify, contact or bring legal action against the Customer, Visitor or another person who may be causing injury to or interference with (either intentionally or unintentionally) the rights or property of Roar.com or its subsidiaries, other Customers or anyone else that could be harmed by such activities; or
-  * required by law.
-
-
-
-**
-
-PROTECTING KIDS PRIVACY
-
-**
-
-Roar.com is committed to complying with the provisions of the Children's Online Privacy Protection Act of 1998 and the Rules and Regulations made pursuant thereto. We encourage parents and guardians to spend time online with their children and to participate in the activities offered on our websites. 
-
-Notice to Kids
-
-If you are under 13 years of age, we must get your parent or guardian's permission before Roar.com can collect any personal information about you, such as your name, date of birth, your hobbies, etc.
-
-You are allowed to give us either your email address, or the email address of your parent or guardian, so that we can contact them and ask for their permission to collect your personal information. 
-
-No other information about you should be given to us, or one of our websites, until your parent or guardian has given you permission.
-
-Notice to Parents
-
-Before your child can access most of the interactive products and services we provide, they are required to provide us with certain information about themselves, for example, their name, date of birth and contact details, so that we can register them as a member. However, before we collect this personal information from your child, they are required to provide us with an e-mail address at which you, their parent or guardian can be contacted, so that we can obtain your consent.
-
-Although users under 13 years of age may be allowed to participate in some contests and promotions, if they win, notification and prizes are sent to the parents or guardians at the address specified in the initial registration process. Publication of contest winners names, ages, or images for individuals under 13 require parental or guardian consent.
-
-Subject to the below exemptions, the personal information that we collect from your children will be subject to and dealt with in accordance with the terms of this Privacy Policy.
-
-No information collected from Visitors under 13 years of age is used for any promotional purposes whatsoever, either of Roar.com Limited, our subsidiaries, our affiliated websites or third parties, unless expressly stated during the collection of this information or during registration for contests or promotions (and in that case, the information collected is used only for the specific contest or promotion).
-
-We do not allow Visitors less than 13 years of age to be listed in our member directory or to receive direct promotional communications from Roar.com or an affiliated website or third parties.
-
-**
-
-LINKS TO OTHER WEBSITES
-
-**
-
-Visitors should be aware that on our affiliated websites, there are links to third party websites. If you "click" on a banner advertisement, a search result or another type of link contained on one of our sites, the "click" may result in you leaving our site and your browser being redirected to a website owned and controlled by a third party.
-
-In this case, Roar.com recommends that you refer to the privacy statement of the websites you visit. Neither Roar.com nor its subsidiaries have any control over and hence, accepts no responsibility for the content of these sites or the actions of the operators in relation to the collection of personal information of users of these sites.
-
-While Roar.com Limited and our subsidiaries make every effort to protect your personal information and your privacy, we cannot guarantee the security of any information you disclose online and you do so at your own risk.
-
-Customers and Visitors should keep in mind that whenever you give out personal information online, there is a risk that the information can be intercepted and used by third parties without our knowledge. Roar.com is in no way responsible or liable for the misuse of personal information obtained in this manner. 
-
-**
-
-ACCESS AND ACCURACY OF PERSONAL INFORMATION
-
-**
-
-If Roar.com holds your personal information, we will, where possible, provide you with reasonable access to the information upon your request.
-
-Roar.com will take reasonable steps to correct the information upon being put on notice by the Customer, so that at all times, it is accurate, complete and up to date. 
-
-**
-
-YOUR ACCEPTANCE OF THESE TERMS
-
-**
-
-By using this website or our affiliated websites, you signify your assent to the terms and conditions contained herein (as amended from time to time). If you do not agree to be bound by its terms, we kindly ask that you do not use our services or our websites. 
