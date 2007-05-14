@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vogue.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205223627id_/http%3A//www.style.com/services/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vogue.com privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514074447id_/http%3A//www.style.com/services/legal/privacy_policy) for the most accurate reproduction.*
 
 # Style.com: Legal
 
