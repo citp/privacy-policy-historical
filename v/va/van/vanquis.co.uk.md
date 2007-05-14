@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vanquis.co.uk privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117200520id_/http%3A//www.vanquis.co.uk/home/Privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vanquis.co.uk privacy policy that was archived on 2007-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070515001719id_/http%3A//www.vanquis.co.uk/home/About_us/Privacy_statement.aspx) for the most accurate reproduction.*
 
-# 
+# Privacy statement
 
 **9 January 2006**
 
@@ -32,7 +32,8 @@ We use this information to provide you with a better service, and in particular 
 
   * To send you details of products and services we believe you may be interested in; 
   * To provide answers to your questions asked via the website; 
-  * For internal record keeping; and /or 
+  * For internal record keeping; and /or
+  * To third parties that help analyse the website in order to provide a better service to our customers 
   * To improve the content of our website
 
 
@@ -48,7 +49,7 @@ We would like to provide you with information about products and services which 
 
 You can change you mind at any time by contacting Vanquis card, Customer Service, PO Box 399, Chatham, ME4 4WQ.
 
- **You have a legal right to prevent your information being used for direct marketing purposes.**
+**You have a legal right to prevent your information being used for direct marketing purposes.**
 
 Back to top
 
