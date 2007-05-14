@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberpowersystem.co.uk privacy policy that was archived on 2006-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060603031434id_/http%3A//www.cyberpowersystem.co.uk/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberpowersystem.co.uk privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514222618id_/http%3A//www.cyberpowersystem.co.uk/company/privacy.asp) for the most accurate reproduction.*
 
 # : : : CyberPower, Inc. : : :
 
