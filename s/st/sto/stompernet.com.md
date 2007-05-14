@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stompernet.com privacy policy that was archived on 2006-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061125022921id_/http%3A//stompernet.com/splash2/tabid/152/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stompernet.com privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514054357id_/https%3A//www.stompernet.com/Default.aspx%3Ftabid%3D190%26ctl%3DPrivacy) for the most accurate reproduction.*
 
-# StomperNet.com
+# Member Login
 
 StomperNet is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the StomperNet Web site and governs data collection and usage. By using the StomperNet website, you consent to the data practices described in this statement.
 
@@ -44,4 +44,4 @@ StomperNet will occasionally update this Statement of Privacy to reflect company
 
 Contact Information
 
-StomperNet welcomes your comments regarding this Statement of Privacy. If you believe that StomperNet has not adhered to this Statement, please contact StomperNet at [craig@stompernet.com](mailto:craig@stompernet.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+StomperNet welcomes your comments regarding this Statement of Privacy. If you believe that StomperNet has not adhered to this Statement, please contact StomperNet at [generalsupport@stompernet.com](mailto:generalsupport@stompernet.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
