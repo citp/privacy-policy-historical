@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the wellstar.org privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620165805id_/http%3A//www.wellstar.org/legal/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellstar.org privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514192401id_/http%3A//www.wellstar.org/ws_content/ws_medical_services.aspx%3Fid%3D1126) for the most accurate reproduction.*
 
-# Wellstar Health System
+# WellStar Health System
 
-|    
----  
-  
 INTERNET PRIVACY POLICY
 
 Your privacy is extremely important to WellStar and we understand that health is a very personal and private subject. WellStar's goal is to be your source of health information and health-related e-commerce on the Internet - a source that you trust and come to depend upon. WellStar wants you to feel comfortable whenever you visit this Site, use its contents or services, or order products.
@@ -36,11 +33,13 @@ If you have any questions or suggestions with respect to this Policy, or if you 
 
 E-mail:[privacyofficer@wellstar.org](mailto:privacyofficer@wellstar.org)
 
-U.S. mail: 
+U.S. mail:
 
 **WellStar Health System, Inc.**   
-805 Sandy Plains Rd.   
-Marietta, Georgia 30066   
+805 Sandy Plains Rd.  
+Marietta, Georgia 30066  
 Attn: Director of Information Compliance Management
 
 Last Revised March 14, 2001
+
+| 
