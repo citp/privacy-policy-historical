@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mynycb.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117002442id_/http%3A//mynycb.com/index.asp%3FdivID%3D9%26sectionID%3Dother%26subsectionID%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynycb.com privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514124916id_/http%3A//www.mynycb.com/index.asp%3FdivID%3D9%26sectionID%3Dother%26subsectionID%3Dprivacy) for the most accurate reproduction.*
 
 # The NYCB Family of Banks
 
@@ -53,7 +53,7 @@ If you have any reason to believe that your personal information is incorrect, p
 **Your Right To Opt-Out**   
 If you prefer that New York Community Bank not share certain non-public personal information about you with nonaffiliated third parties, you may restrict information sharing (other than those disclosures permitted by law). Such an election means you "opt-out" of information sharing. This will not preclude our continued sharing of public and non-public personal information as permitted by law. The Fair Credit Reporting Act also allows you to opt-out from New York Community Bank sharing non-transaction or other information (such as consumer credit report information) with affiliates. Your election to opt-out will apply to all products and services you obtain within the New York Community Bank Family of Banks and affiliated entities for personal, family or household purposes. If you have a joint account with one or more other individuals, an opt-out sent by any one individual will cause that account to be identified as an opt-out account. Remember that if you choose to opt-out, you may not receive certain information on products or services that may be of interest to you. 
 
-To opt-out, please [click here](https://web.archive.org/web/20061117002442id_/http%3A//mynycb.com/documents/Optoutform.pdf) to download and complete our opt-out form. Fill it out and mail to the address indicated.
+To opt-out, please [click here](https://web.archive.org/web/20070514124916id_/http%3A//www.mynycb.com/documents/Optoutform.pdf) to download and complete our opt-out form. Fill it out and mail to the address indicated.
 
 The examples contained in the Privacy Statement are illustrations only, and are not intended to be all-inclusive. This policy will be reviewed on changing business conditions or changes in our information sharing practices. New York Community Bank reserves the right to change this policy at any time, and we will inform you of changes as required by law.
 
