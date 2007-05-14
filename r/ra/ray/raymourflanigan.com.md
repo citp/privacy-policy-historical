@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the raymourflanigan.com privacy policy that was archived on 2006-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060831130753id_/http%3A//raymourflanigan.com/catalog/pop_up-privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raymourflanigan.com privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514054127id_/http%3A//www.raymourflanigan.com/catalog/pop_up-privacy.asp) for the most accurate reproduction.*
 
-# Raymour and Flanigan Furniture - Privacy
+# Furniture for Every Room at Raymour & Flanigan - Privacy
 
 Raymour & Flanigan Furniture is committed to protecting your personal information. As a reminder, Raymour & Flanigan does not request personal information via e-mail or telemarketing. If someone contacts you in this manner and requests personal information on behalf of Raymour & Flanigan, DO NOT RESPOND! Delete, disregard or hang up. These questions are not from us. We want your personal information to remain private. If you have questions about Raymour & Flanigan's privacy practices, contact [privacy@raymourflanigan.com](mailto:%20privacy@raymourflanigan.com) or call toll free - 1.866.383.4484.
 
