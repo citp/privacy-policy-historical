@@ -1,17 +1,97 @@
-<!--The following is the downloaded HTML source of the molloy.edu privacy policy that was archived on 2006-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061205213433id_/http%3A//students.molloy.edu/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the molloy.edu privacy policy that was archived on 2007-05-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070514070137id_/http%3A//www.molloy.edu/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>Molloy College</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link rel="stylesheet" type="text/css" href="/currentSite/styles/styles.css">
+<link rel="stylesheet" type="text/css" href="/styles/styles.css">
 
+<script type="text/javascript" src="/includes/browser.js"></script><script type="text/javascript" src="/includes/saf-build.js"></script>
+<script type="text/JavaScript">
+<!--
+if (location.href.indexOf("employees.molloy.edu/library1/requisition.asp") != -1){
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
 
-<script type="text/javascript" src="/currentSite/includes/browser.js"></script>
+function MM_validateForm() { //v4.0
+  var i,p,q,nm,test,num,min,max,errors='',args=MM_validateForm.arguments;
+  for (i=0; i<(args.length-2); i+=3) { test=args[i+2]; val=MM_findObj(args[i]);
+    if (val) { nm=val.name; if ((val=val.value)!="") {
+      if (test.indexOf('isEmail')!=-1) { p=val.indexOf('@');
+        if (p<1 || p==(val.length-1)) errors+='- '+nm+' must contain an e-mail address.\n';
+      } else if (test!='R') { num = parseFloat(val);
+        if (isNaN(val)) errors+='- '+nm+' must contain a number.\n';
+        if (test.indexOf('inRange') != -1) { p=test.indexOf(':');
+          min=test.substring(8,p); max=test.substring(p+1);
+          if (num<min || max<num) errors+='- '+nm+' must contain a number between '+min+' and '+max+'.\n';
+    } } } else if (test.charAt(0) == 'R') errors += '- '+nm+' is required.\n'; }
+  } if (errors) alert('The following error(s) occurred:\n'+errors);
+  document.MM_returnValue = (errors == '');
+}
 
+function YY_checkform() { //v4.71
+//copyright (c)1998,2002 Yaromat.com
+  var a=YY_checkform.arguments,oo=true,v='',s='',err=false,r,o,at,o1,t,i,j,ma,rx,cd,cm,cy,dte,at;
+  for (i=1; i<a.length;i=i+4){
+    if (a[i+1].charAt(0)=='#'){r=true; a[i+1]=a[i+1].substring(1);}else{r=false}
+    o=MM_findObj(a[i].replace(/\[\d+\]/ig,""));
+    o1=MM_findObj(a[i+1].replace(/\[\d+\]/ig,""));
+    v=o.value;t=a[i+2];
+    if (o.type=='text'||o.type=='password'||o.type=='hidden'){
+      if (r&&v.length==0){err=true}
+      if (v.length>0)
+      if (t==1){ //fromto
+        ma=a[i+1].split('_');if(isNaN(v)||v<ma[0]/1||v > ma[1]/1){err=true}
+      } else if (t==2){
+        rx=new RegExp("^[\\w\.=-]+@[\\w\\.-]+\\.[a-zA-Z]{2,4}$");if(!rx.test(v))err=true;
+      } else if (t==3){ // date
+        ma=a[i+1].split("#");at=v.match(ma[0]);
+        if(at){
+          cd=(at[ma[1]])?at[ma[1]]:1;cm=at[ma[2]]-1;cy=at[ma[3]];
+          dte=new Date(cy,cm,cd);
+          if(dte.getFullYear()!=cy||dte.getDate()!=cd||dte.getMonth()!=cm){err=true};
+        }else{err=true}
+      } else if (t==4){ // time
+        ma=a[i+1].split("#");at=v.match(ma[0]);if(!at){err=true}
+      } else if (t==5){ // check this 2
+            if(o1.length)o1=o1[a[i+1].replace(/(.*\[)|(\].*)/ig,"")];
+            if(!o1.checked){err=true}
+      } else if (t==6){ // the same
+            if(v!=MM_findObj(a[i+1]).value){err=true}
+      }
+    } else
+    if (!o.type&&o.length>0&&o[0].type=='radio'){
+          at = a[i].match(/(.*)\[(\d+)\].*/i);
+          o2=(o.length>1)?o[at[2]]:o;
+      if (t==1&&o2&&o2.checked&&o1&&o1.value.length/1==0){err=true}
+      if (t==2){
+        oo=false;
+        for(j=0;j<o.length;j++){oo=oo||o[j].checked}
+        if(!oo){s+='* '+a[i+3]+'\n'}
+      }
+    } else if (o.type=='checkbox'){
+      if((t==1&&o.checked==false)||(t==2&&o.checked&&o1&&o1.value.length/1==0)){err=true}
+    } else if (o.type=='select-one'||o.type=='select-multiple'){
+      if(t==1&&o.selectedIndex/1==0){err=true}
+    }else if (o.type=='textarea'){
+      if(v.length<a[i+1]){err=true}
+    }
+    if (err){s+='* '+a[i+3]+'\n'; err=false}
+  }
+  if (s!=''){alert('The required information is incomplete or contains errors:\t\t\t\t\t\n\n'+s)}
+  document.MM_returnValue = (s=='');
+}
+}
+//-->
+</script>
    
 
-<script type="text/javascript" src="/currentSite/scripts/config_none1.js"></script>
+<script type="text/javascript" src="/scripts/config_none.js"></script>
 
 <script type="text/javascript">
 <!--
@@ -35,12 +115,13 @@ function changeImages() {
 var preloadFlag = false;
 function preloadImages() {
 	if (document.images) {
-		toplinks_students_over = newImage("/currentSite/images/toplinks_prospective-over.gif");
-		toplinks_faculty_over = newImage("/currentSite/images/toplinks_faculty-over.gif");
-		toplinks_directions_over = newImage("/currentSite/images/toplinks_directions-over.gif");
-		toplinks_directory_over = newImage("/currentSite/images/toplinks_directory-over.gif");
-		toplinks_careers_over = newImage("/currentSite/images/toplinks_careers-over.gif");
-		toplinks_give_over = newImage("/currentSite/images/toplinks_give-over.gif");
+		toplinks_students_over = newImage("/images/toplinks_students-over.gif");
+		toplinks_prospective_over = newImage("/images/toplinks_prospective-over.gif");
+		toplinks_faculty_over = newImage("/images/toplinks_faculty-over.gif");
+		toplinks_directions_over = newImage("/images/toplinks_directions-over.gif");
+		toplinks_directory_over = newImage("/images/toplinks_directory-over.gif");
+		toplinks_careers_over = newImage("/images/toplinks_careers-over.gif");
+		toplinks_give_over = newImage("/images/toplinks_give-over.gif");
 		preloadFlag = true;
 	}
 }
@@ -53,73 +134,86 @@ function preloadImages() {
 <table id="Table_Header" width="1000" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
 	<tbody><tr>
 		<td width="219" rowspan="3">
-			<a href="/currentSite/index.asp">
-				<img src="/currentSite/images/hdr_logo.gif" width="219" height="140" border="0" alt="Molloy College"></a></td>
-		<td width="781" align="right" valign="top">
-			<table id="Table_TopLinks" width="593" height="24" border="0" cellpadding="0" cellspacing="0">
+			
+				
+				<a href="/index.asp">
+				<img src="/images/hdr_logo.gif" width="219" height="140" border="0" alt="Molloy College"></a></td>
+	  <td width="781" align="right" valign="top">
+			<table id="Table_TopLinks" width="525" height="24" border="0" cellpadding="0" cellspacing="0">
 				<tbody><tr>
 					<td>
-						<div align="right"><a href="http://www.molloy.edu" onmouseover="changeImages('toplinks_students', '/currentSite/images/toplinks_prospective-over.gif'); return true;" onmouseout="changeImages('toplinks_students', '/currentSite/images/toplinks_prospective.gif'); return true;" onmousedown="changeImages('toplinks_students', '/currentSite/images/toplinks_prospective-over.gif'); return true;" onmouseup="changeImages('toplinks_students', '/currentSite/images/toplinks_prospective-over.gif'); return true;"><img name="toplinks_students" src="/currentSite/images/toplinks_prospective.gif" width="134" height="24" border="0" alt="Prospective Students"></a></div></td>
+						<a href="http://students.molloy.edu/" onmouseover="changeImages('toplinks_students', '/images/toplinks_students-over.gif'); return true;" onmouseout="changeImages('toplinks_students', '/images/toplinks_students.gif'); return true;" onmousedown="changeImages('toplinks_students', '/images/toplinks_students-over.gif'); return true;" onmouseup="changeImages('toplinks_students', '/images/toplinks_students-over.gif'); return true;">
+							<img name="toplinks_students" src="/images/toplinks_students.gif" width="116" height="24" border="0" alt="Current Students"></a></td>
 					<td>
-						<div align="right"><a href="http://www.molloy.edu/employeeSite/" onmouseover="changeImages('toplinks_faculty', '/currentSite/images/toplinks_faculty-over.gif'); return true;" onmouseout="changeImages('toplinks_faculty', '/currentSite/images/toplinks_faculty.gif'); return true;" onmousedown="changeImages('toplinks_faculty', '/currentSite/images/toplinks_faculty-over.gif'); return true;" onmouseup="changeImages('toplinks_faculty', '/currentSite/images/toplinks_faculty-over.gif'); return true;">
-				        <img name="toplinks_faculty" src="/currentSite/images/toplinks_faculty.gif" width="77" height="24" border="0" alt="Employees"></a></div></td>
+						<a href="http://employees.molloy.edu" onmouseover="changeImages('toplinks_faculty', '/images/toplinks_faculty-over.gif'); return true;" onmouseout="changeImages('toplinks_faculty', '/images/toplinks_faculty.gif'); return true;" onmousedown="changeImages('toplinks_faculty', '/images/toplinks_faculty-over.gif'); return true;" onmouseup="changeImages('toplinks_faculty', '/images/toplinks_faculty-over.gif'); return true;">
+							<img name="toplinks_faculty" src="/images/toplinks_faculty.gif" width="130" height="24" border="0" alt="Admin/Faculty/Staff"></a></td>
+														<td>
+						<a href="/directions.asp" onmouseover="changeImages('toplinks_directions', '/images/toplinks_directions-over.gif'); return true;" onmouseout="changeImages('toplinks_directions', '/images/toplinks_directions.gif'); return true;" onmousedown="changeImages('toplinks_directions', '/images/toplinks_directions-over.gif'); return true;" onmouseup="changeImages('toplinks_directions', '/images/toplinks_directions-over.gif'); return true;">
+							<img name="toplinks_directions" src="/images/toplinks_directions.gif" width="78" height="24" border="0" alt="Directions"></a></td>
 					<td>
-						<div align="right"><a href="/currentSite/directions.asp" onmouseover="changeImages('toplinks_directions', '/currentSite/images/toplinks_directions-over.gif'); return true;" onmouseout="changeImages('toplinks_directions', '/currentSite/images/toplinks_directions.gif'); return true;" onmousedown="changeImages('toplinks_directions', '/currentSite/images/toplinks_directions-over.gif'); return true;" onmouseup="changeImages('toplinks_directions', '/currentSite/images/toplinks_directions-over.gif'); return true;">
-						  <img name="toplinks_directions" src="/currentSite/images/toplinks_directions.gif" width="78" height="24" border="0" alt="Directions"></a></div></td>
+						<a href="/directory/index.asp" onmouseover="changeImages('toplinks_directory', '/images/toplinks_directory-over.gif'); return true;" onmouseout="changeImages('toplinks_directory', '/images/toplinks_directory.gif'); return true;" onmousedown="changeImages('toplinks_directory', '/images/toplinks_directory-over.gif'); return true;" onmouseup="changeImages('toplinks_directory', '/images/toplinks_directory-over.gif'); return true;">
+							<img name="toplinks_directory" src="/images/toplinks_directory.gif" width="77" height="24" border="0" alt="Directory"></a></td>
 					<td>
-						<div align="right"><a href="/currentSite/directory/index.asp" onmouseover="changeImages('toplinks_directory', '/currentSite/images/toplinks_directory-over.gif'); return true;" onmouseout="changeImages('toplinks_directory', '/currentSite/images/toplinks_directory.gif'); return true;" onmousedown="changeImages('toplinks_directory', '/currentSite/images/toplinks_directory-over.gif'); return true;" onmouseup="changeImages('toplinks_directory', '/currentSite/images/toplinks_directory-over.gif'); return true;">
-						  <img name="toplinks_directory" src="/currentSite/images/toplinks_directory.gif" width="77" height="24" border="0" alt="Directory"></a></div></td>
+						<a href="/employment/index.asp" onmouseover="changeImages('toplinks_careers', '/images/toplinks_careers-over.gif'); return true;" onmouseout="changeImages('toplinks_careers', '/images/toplinks_careers.gif'); return true;" onmousedown="changeImages('toplinks_careers', '/images/toplinks_careers-over.gif'); return true;" onmouseup="changeImages('toplinks_careers', '/images/toplinks_careers-over.gif'); return true;">
+							<img name="toplinks_careers" src="/images/toplinks_careers.gif" width="113" height="24" border="0" alt="Careers@Molloy"></a></td>
 					<td>
-						<div align="right"><a href="/currentSite/employment/index.asp" onmouseover="changeImages('toplinks_careers', '/currentSite/images/toplinks_careers-over.gif'); return true;" onmouseout="changeImages('toplinks_careers', '/currentSite/images/toplinks_careers.gif'); return true;" onmousedown="changeImages('toplinks_careers', '/currentSite/images/toplinks_careers-over.gif'); return true;" onmouseup="changeImages('toplinks_careers', '/currentSite/images/toplinks_careers-over.gif'); return true;">
-						  <img name="toplinks_careers" src="/currentSite/images/toplinks_careers.gif" width="113" height="24" border="0" alt="Careers@Molloy"></a></div></td>
-					<td>
-						<div align="right"><a href="http://www.molloy.edu/alumni/give/index.asp" onmouseover="changeImages('toplinks_give', '/currentSite/images/toplinks_give-over.gif'); return true;" onmouseout="changeImages('toplinks_give', '/currentSite/images/toplinks_give.gif'); return true;" onmousedown="changeImages('toplinks_give', '/currentSite/images/toplinks_give-over.gif'); return true;" onmouseup="changeImages('toplinks_give', 'images/toplinks_give-over.gif'); return true;"><img name="toplinks_give" src="/currentSite/images/toplinks_give.gif" width="83" height="24" border="0" alt="Ways To Give"></a></div></td>
+						<a href="/alumni/give/index.asp" onmouseover="changeImages('toplinks_give', '/images/toplinks_give-over.gif'); return true;" onmouseout="changeImages('toplinks_give', '/images/toplinks_give.gif'); return true;" onmousedown="changeImages('toplinks_give', '/images/toplinks_give-over.gif'); return true;" onmouseup="changeImages('toplinks_give', '/images/toplinks_give-over.gif'); return true;">
+							<img name="toplinks_give" src="/images/toplinks_give.gif" width="83" height="24" border="0" alt="Ways To Give"></a></td>
 				</tr>
-			</tbody></table>
-			<img src="/currentSite/images/bottom_links.gif" width="518" height="14" border="0" usemap="#Map">
-		  <map name="Map">
-            <area shape="rect" coords="-5,2,144,22" href="http://bbs.molloy.edu" target="_blank" alt="Chat &amp; Message Boardsd">
-            <area shape="rect" coords="145,2,197,18" href="http://email.molloy.edu" target="_blank" alt="E-mail">
-            <area shape="rect" coords="211,1,394,22" href="https://myinfo.molloy.edu" target="_blank" alt="Online Faculty &amp; Student Access">
-            <area shape="rect" coords="402,1,513,24" href="http://www.bkstr.com/webapp/wcs/stores/servlet/StoreCatalogDisplay?storeId=10206&amp;langId=-1&amp;catalogId=10001" target="_blank" alt="College Bookstore">
-          </map>
-		  <br>
+		  </tbody></table>
+	    <img src="/images/bottom_links.gif" width="561" height="15" border="0" usemap="#Map"><br></td>
+				
+	</tr><tr>
+		<td width="781" align="right"><!-- Google CSE Search Box Begins -->
+<form id="searchbox_017082424791048254781:br66m7fy970" action="http://www.molloy.edu/search.asp">
+  <input type="hidden" name="cx" value="017082424791048254781:br66m7fy970">
+  <table width="100%" border="0" align="right" cellspacing="0" bgcolor="#FFFFFF">
+    <tbody><tr valign="middle">
+	<!-- Delete the following from the line below to show text:  "<!--" (starting comment) and "-- >" (ending comment even though there is no space) -->
+      <td class="red"><font size="2" face="Arial, Helvetica, sans-serif"> <!--In observance of Founder's Day, Molloy College will be closed on<br> 
+        Tuesday, April 24. We will resume our normal schedule on Wednesday, April 25.--></font></td>
+      <td align="right" nowrap="">
+<img src="/images/search_label.gif" border="0" alt="Search" width="55" height="17">
+<input type="text" name="q" size="31" maxlength="255" value=""> 
+<input type="hidden" name="cof" value="FORID:11">
+<input type="image" src="/images/button_go.gif" alt="Go" border="0" width="19" height="17" name="sa"></td>
+    </tr></tbody></table>
+</form>
 
-
-<!-- Search Google -->
-
-<form method="GET" action="http://www.google.com/u/Molloy">
-  <p>&nbsp;</p>
-		
-	</form></td></tr><tr>
-		<td width="781" align="right">
-  <table bgcolor="#FFFFFF" cellspacing="0" border="0"><tbody><tr valign="middle"><td>
-
-</td>
-<td>
-<img src="/currentSite/images/search_label.gif" border="0" alt="Search" width="55" height="17">
-<input type="text" name="q" size="31" maxlength="255" value="">
-<input type="image" src="/currentSite/images/button_go.gif" alt="Go" border="0" width="19" height="17" name="sa">
-
-</td></tr></tbody></table>
-
-
-<!-- Search Google -->	
-	  </td>
+<!-- Search Google -->	  </td>
 	</tr>
 	<tr>
-		<td width="781" valign="bottom" bgcolor="#FFFFFF">
-			<div align="right">
+		<td width="781" valign="bottom" bgcolor="#FFFFFF"><div align="right">
+			
 			  <script webstyle3="">
-			  		document.write('<scr'+'ipt src="/currentSite/menu1/xaramenu.js">'+'</scr'+'ipt>');
-document.write('<scr'+'ipt src="/currentSite/menu1/menu.js">'+'</scr'+'ipt>');
-			  </script><script src="/currentSite/menu1/xaramenu.js"></script><script src="/currentSite/menu1/menu.js"></script>
-			</div>
-	  </td>
+			  		document.write('<scr'+'ipt src="/menu1/xaramenu.js">'+'</scr'+'ipt>');
+document.write('<scr'+'ipt src="/menu1/menu.js">'+'</scr'+'ipt>');
+			  </script><script src="/menu1/xaramenu.js"></script><script src="/menu1/menu.js"></script><style type="text/css">
+<!--
+.menu__menu {border-color:#c9cacb;border-style:solid;border-width:0px 1px 0px 1px;background-color:#FFFFFF;position:absolute;left:0px;top:0px;visibility:hidden;}.menu__plain:link, .menu__plain:visited{text-align:center;background-color:#FFFFFF;color:#462b77;text-decoration:none;border-color:#c9cacb;border-style:solid;border-width:1px 0px 1px 0px;padding:5px 0px 5px 0px;cursor:hand;display:block;font-size:8pt;font-family:Arial, Helvetica, sans-serif;font-weight:normal;}.menu__plain:hover{background-color:#f09326;color:#FFFFFF;text-decoration:none;border-color:#c9cacb;border-style:solid;border-width:1px 0px 1px 0px;padding:5px 0px 5px 0px;cursor:hand;display:block;font-size:8pt;font-family:Arial, Helvetica, sans-serif;font-weight:normal;}
+-->
+</style><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><a href="/academic/index.asp" onmouseout="tidyMenu(event);" onmouseover="openMenu(event, '/images/hdr_nav_undergrad',2,16777215,0);setGraphic(event, '/images/hdr_nav_undergrad_over.gif');return false;"><img src="/images/hdr_nav_undergrad.gif" border="0" height="35" width="121" alt="Undergraduate Studies"></a></td><td><a href="/academicG/index.asp" onmouseout="tidyMenu(event);" onmouseover="openMenu(event, '/images/hdr_nav_grad_studies',2,16777215,0);setGraphic(event, '/images/hdr_nav_grad_studies_over.gif');return false;"><img src="/images/hdr_nav_grad_studies.gif" border="0" height="35" width="93" alt="Graduate Studies"></a></td><td><a href="/admissions/index.asp" onmouseout="tidyMenu(event);" onmouseover="openMenu(event, '/images/hdr_nav_admissions',2,16777215,0);setGraphic(event, '/images/hdr_nav_admissions_over.gif');return false;"><img src="/images/hdr_nav_admissions.gif" border="0" height="35" width="139" alt="Admissions &amp; College Resources"></a></td><td><a href="/alumni/index.asp" onmouseout="tidyMenu(event);" onmouseover="openMenu(event, '/images/hdr_nav_alumni',2,16777215,0);setGraphic(event, '/images/hdr_nav_alumni_over.gif');return false;"><img src="/images/hdr_nav_alumni.gif" border="0" height="35" width="136" alt="Alumni Relations &amp; Advancement"></a></td><td><a href="/ce/index.asp" onmouseout="tidyMenu(event);" onmouseover="openMenu(event, '/images/hdr_nav_cont_education',2,16777215,0);setGraphic(event, '/images/hdr_nav_cont_education_over.gif');return false;"><img src="/images/hdr_nav_cont_education.gif" border="0" height="35" width="101" alt="Continuing Education"></a></td><td><a href="/student/index.asp" onmouseout="tidyMenu(event);" onmouseover="openMenu(event, '/images/hdr_nav_student_life',2,16777215,0);setGraphic(event, '/images/hdr_nav_student_life_over.gif');return false;"><img src="/images/hdr_nav_student_life.gif" border="0" height="35" width="87" alt="Student Life"></a></td><td><a href="/happenings/index.asp" onmouseout="tidyMenu(event);" onmouseover="openMenu(event, '/images/hdr_nav_happenings',2,16777215,0);setGraphic(event, '/images/hdr_nav_happenings_over.gif');return false;"><img src="/images/hdr_nav_happenings.gif" border="0" height="35" width="104" alt="Molloy Happenings"></a></td></tr></tbody></table><div id="/images/hdr_nav_undergrad" class="menu__menu" style="width:125px"><a href="/academic/index.asp" class="menu__plain" style="width:125px">&nbsp;Undergraduate Studies&nbsp;</a><a href="/academic/global.asp" class="menu__plain" style="width:125px">&nbsp;Global-Learning&nbsp;</a></div><div id="/images/hdr_nav_grad_studies" class="menu__menu" style="width:100px"><a href="/academicG/index.asp" class="menu__plain" style="width:100px">&nbsp;Graduate Studies&nbsp;</a><a href="/admissions/gradAsst.asp" class="menu__plain" style="width:100px">&nbsp;Assistantships&nbsp;</a><a href="/academicG/bus/index.asp" class="menu__plain" style="width:100px">&nbsp;Business&nbsp;</a><a href="/academicG/edu/index.asp" class="menu__plain" style="width:100px">&nbsp;Education&nbsp;</a><a href="/academicG/nur/index.asp" class="menu__plain" style="width:100px">&nbsp;Nursing&nbsp;</a><a href="/academicG/swk/index.asp" class="menu__plain" style="width:100px">&nbsp;Social Work&nbsp;</a></div><div id="/images/hdr_nav_admissions" class="menu__menu" style="width:145px"><a href="/admissions/index.asp" class="menu__plain" style="width:145px">&nbsp;About Molloy&nbsp;</a><a href="/admissions/acss.asp" class="menu__plain" style="width:145px">&nbsp;Academic Support Services&nbsp;</a><a href="catalog/428.asp" class="menu__plain" style="width:145px">&nbsp;Admissions Requirements&nbsp;</a><a href="/admissions/download.asp" class="menu__plain" style="width:145px">&nbsp;Applications for Download&nbsp;</a><a href="https://web.archive.org/web/20070209225844/https://www.molloy.edu/admissions/apply_online.asp" class="menu__plain" style="width:145px">&nbsp;Apply Online&nbsp;</a><a href="/homepage/TourDates07.pdf" target="_blank" class="menu__plain" style="width:145px">&nbsp;Campus Tour Dates&nbsp;</a><a href="/admissions/contact.asp" class="menu__plain" style="width:145px">&nbsp;Contact Admissions&nbsp;</a><a href="https://web.archive.org/web/20070209225844/https://myinfo.molloy.edu" target="_blank" class="menu__plain" style="width:145px">&nbsp;Course Offerings&nbsp;</a><a href="/catalog/index.asp" class="menu__plain" style="width:145px">&nbsp;Current Catalog&nbsp;</a><a href="/finaid/index.asp" class="menu__plain" style="width:145px">&nbsp;Financial Aid&nbsp;</a><a href="/admissions/gradAsst.asp" class="menu__plain" style="width:145px">&nbsp;Graduate Assistantships&nbsp;</a><a href="https://web.archive.org/web/20070209225844/https://www.molloy.edu/admissions/inquiry.asp" class="menu__plain" style="width:145px">&nbsp;Inquiry Card&nbsp;</a><a href="/admissions/library.asp" class="menu__plain" style="width:145px">&nbsp;Library&nbsp;</a><a href="/admissions/test.asp" class="menu__plain" style="width:145px">&nbsp;Nelson Denny and Math Screening Test Dates&nbsp;</a><a href="/admissions/welcome.asp" class="menu__plain" style="width:145px">&nbsp;President's Message&nbsp;</a><a href="/admissions/transfer.asp" class="menu__plain" style="width:145px">&nbsp;Transfer Guides&nbsp;</a><a href="/admissions/tuition.asp" class="menu__plain" style="width:145px">&nbsp;Tuition &amp; Fees&nbsp;</a><a href="/virtualtour/index.asp" class="menu__plain" style="width:145px">&nbsp;Virtual Tour&nbsp;</a></div><div id="/images/hdr_nav_alumni" class="menu__menu" style="width:140px"><a href="/alumni/association.asp" class="menu__plain" style="width:140px">&nbsp;Alumni Association&nbsp;</a><a href="/alumni/benefits.asp" class="menu__plain" style="width:140px">&nbsp;Alumni Benefits&nbsp;</a><a href="/alumni/amp/index.asp" class="menu__plain" style="width:140px">&nbsp;Alumni of the Month Program&nbsp;</a><a href="/alumni/events.asp" class="menu__plain" style="width:140px">&nbsp;Alumni Events&nbsp;</a><a href="/alumni/notes.asp" class="menu__plain" style="width:140px">&nbsp;Class Notes&nbsp;</a><a href="/alumni/corporate.asp" class="menu__plain" style="width:140px">&nbsp;Corporate Events&nbsp;</a><a href="/alumni/mentoring.asp" class="menu__plain" style="width:140px">&nbsp;Mentoring Program&nbsp;</a><a href="/alumni/update.asp" class="menu__plain" style="width:140px">&nbsp;Update Your Records&nbsp;</a><a href="/alumni/give/index.asp" class="menu__plain" style="width:140px">&nbsp;Ways To Give&nbsp;</a></div><div id="/images/hdr_nav_cont_education" class="menu__menu" style="width:110px"><a href="/ce/professional.asp" class="menu__plain" style="width:110px">&nbsp;Careers &amp; Professional Development&nbsp;</a><a href="/ce/contact.asp" class="menu__plain" style="width:110px">&nbsp;Contact Us&nbsp;</a><a href="/ce/directions.asp" class="menu__plain" style="width:110px">&nbsp;Directions&nbsp;</a><a href="/ce/faq.asp" class="menu__plain" style="width:110px">&nbsp;Frequently Asked Questions&nbsp;</a><a href="/ce/openhouse.asp" class="menu__plain" style="width:110px">&nbsp;Open House&nbsp;</a><a href="/ce/enrichment.asp" class="menu__plain" style="width:110px">&nbsp;Personal Enrichment&nbsp;</a><a href="/ce/registration.asp" class="menu__plain" style="width:110px">&nbsp;Registration&nbsp;</a><a href="/suffolk/index.asp" class="menu__plain" style="width:110px">&nbsp;Suffolk Center&nbsp;</a></div><div id="/images/hdr_nav_student_life" class="menu__menu" style="width:97px"><a href="/student/athletics.asp" class="menu__plain" style="width:97px">&nbsp;Athletics&nbsp;</a><a href="/student/clubs.asp" class="menu__plain" style="width:97px">&nbsp;Clubs &amp; Organizations&nbsp;</a><a href="/student/centers/index.asp" class="menu__plain" style="width:97px">&nbsp;College Centers&nbsp;</a><a href="/student/facilities/index.asp" class="menu__plain" style="width:97px">&nbsp;Facilities &amp; Services&nbsp;</a><a href="/student/food.asp" class="menu__plain" style="width:97px">&nbsp;Food Services&nbsp;</a><a href="/student/health.asp" class="menu__plain" style="width:97px">&nbsp;Health Services&nbsp;</a><a href="/student/residence.asp" class="menu__plain" style="width:97px">&nbsp;Residence Life&nbsp;</a></div><div id="/images/hdr_nav_happenings" class="menu__menu" style="width:114px"><a href="/happenings/index.asp" class="menu__plain" style="width:114px">&nbsp;Calendar of Events&nbsp;</a><a href="/happenings/external.asp" class="menu__plain" style="width:114px">&nbsp;External Publications&nbsp;</a><a href="/happenings/internal.asp" class="menu__plain" style="width:114px">&nbsp;Internal Publications&nbsp;</a><a href="/happenings/press.asp" class="menu__plain" style="width:114px">&nbsp;Press Releases&nbsp;</a></div>
+			
+	  </div>	  </td>
 	</tr>
 	
 </tbody></table>
 <!--- end header --->
+<map name="Map">
+  <area shape="rect" coords="1,2,150,22" href="http://bbs.molloy.edu" target="_blank" alt="Chat &amp; Message Boards">
+  <area shape="rect" coords="150,-1,202,15" href="http://email.molloy.edu" target="_blank" alt="E-mail">
+  <area shape="rect" coords="209,-3,392,18" href="https://myinfo.molloy.edu" target="_blank" alt="Online Faculty &amp; Student Access">
+  <area shape="rect" coords="394,2,463,27" href="https://mcnps2k.molloy.edu/nps/" target="_blank" alt="Portal">
+<area shape="rect" coords="465,1,564,15" href="/weather/index.asp" alt="Weather Station">
+</map>
+
+<map name="MapC">
+  <area shape="rect" coords="-2,2,147,22" href="http://bbs.molloy.edu" target="_blank" alt="Chat &amp; Message Boards">
+  <area shape="rect" coords="150,1,202,17" href="http://email.molloy.edu" target="_blank" alt="E-mail">
+  <area shape="rect" coords="211,1,394,22" href="https://myinfo.molloy.edu" target="_blank" alt="Online Faculty &amp; Student Access">
+  <area shape="rect" coords="400,-3,478,24" href="http://www.bkstr.com/webapp/wcs/stores/servlet/StoreCatalogDisplay?storeId=10206&amp;langId=-1&amp;catalogId=10001" target="_blank" alt="Molloy College Bookstore">
+  <area shape="rect" coords="480,1,602,18" href="/weather/index.asp" alt="Weather Station">
+</map>
 
 
 <!--- begin page content --->
@@ -275,7 +369,7 @@ When you visit this Web site, Molloy automatically collects and stores the  foll
 						<table border="0" cellpadding="16" cellspacing="0" width="208" bgcolor="#c1b691">
 							<tbody><tr>
 																<td valign="top" bgcolor="#c1b691" class="white"><font face="arial" size="2">
-		<font size="3"><strong>Athletes &amp; Scholars</strong></font></font><p><font face="arial" size="2">Molloy College Women's Basketball player, Donna Lohrey, of Glendale, New York, was named to the ESPN Magazine All-American First Team. Swish!
+		<font size="3"><strong>Athletes &amp; Scholars</strong></font></font><p><font face="arial" size="2">Molloy College students are Lions, because of the pride they have in our Athletic Program. Our athletes compete in Division II of the National Collegiate Athletic Association (NCAA), the Eastern College Athletic Association (ECAC) and the East Coast Conference (ECC), formerly known as the New York College Athletic Conference (NYCAC). 
 								
 							</font>	
 								</p></td>
@@ -302,12 +396,12 @@ When you visit this Web site, Molloy automatically collects and stores the  foll
 			<table border="0" cellpadding="4" cellspacing="0" width="1000">
 				<tbody><tr>
 					<td valign="top" align="left" bgcolor="#988648">
-						<span class="footerText">
-						1000 Hempstead Ave., Rockville Centre, NY 11571-5002  |  1-888-4-MOLLOY
+						<span class="footerText">1000 Hempstead Ave., Rockville Centre, NY 11571-5002 |
+						1-888-4-MOLLOY
 						</span>
 					</td>
 					<td valign="top" align="right" bgcolor="#988648">
-						<span class="footerText"> <a href="http://students.molloy.edu" class="footerLinks">Homepage</a> | <a href="http://students.molloy.edu/privacy.asp" class="footerLinks">Privacy Policy</a>  |  <a href="http://students.molloy.edu/safety.asp" class="footerLinks">Public Safety</a> <!-- |  <a href="SiteMap.asp" class="footerLinks">Site Map</a> --> |  <a href="https://students.molloy.edu/terms.asp" class="footerLinks">Terms and Conditions</a>  |  Copyright © 2006 Molloy College						</span>					</td>
+						<span class="footerText"> <a href="http://www.molloy.edu" class="footerLinks">Homepage</a> | <a href="http://www.molloy.edu/privacy.asp" class="footerLinks">Privacy Policy</a>  |  <a href="http://www.molloy.edu/safety.asp" class="footerLinks">Public Safety</a> <!-- |  <a href="SiteMap.asp" class="footerLinks">Site Map</a> --> |  <a href="https://www.molloy.edu/terms.asp" class="footerLinks">Terms and Conditions</a>  |  Copyright © 2006 Molloy College						</span>					</td>
 				</tr>
 			</tbody></table>
 		</td>
@@ -315,5 +409,7 @@ When you visit this Web site, Molloy automatically collects and stores the  foll
 </tbody></table>
 <img src="http://www.ppctracking.net/view5.cfm?cwid=909352A4" height="1" width="1" border="0">
 <!--- end footer --->
+
+
 
 </body></html>
