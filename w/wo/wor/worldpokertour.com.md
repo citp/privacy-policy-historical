@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the worldpokertour.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207023206id_/http%3A//www.worldpokertour.com/company/%3Fx%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldpokertour.com privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514171927id_/http%3A//www.worldpokertour.com/company/%3Fx%3Dprivacy) for the most accurate reproduction.*
 
 # World Poker Tour - WPT Poker Shows, Pros, and Fans!
 
-|  |  | 
+|  | 
 
 It is the goal of the World Poker Tour™ ("WPT") to bring you information that is tailored to your individual needs and, at the same time, protect your privacy. The following is a summary of the various ways we treat the information you provide us while using our website. This Privacy Policy applies to all WPT websites (unless a different policy is provided on a particular site, in which case such policy shall control).
 
@@ -24,7 +24,6 @@ WPT Enterprises, Inc.
 Suite 350  
 Los Angeles, CA 90036
 
-This Privacy Policy may be modified from time to time; the date of the most recent revisions will appear on this page, so check back often. Continued access of WPT by you will constitute your acceptance of any changes or revisions to the Privacy Policy.
-
-|   
----|---|---|---
+This Privacy Policy may be modified from time to time; the date of the most recent revisions will appear on this page, so check back often. Continued access of WPT by you will constitute your acceptance of any changes or revisions to the Privacy Policy.  
+  
+---|---
