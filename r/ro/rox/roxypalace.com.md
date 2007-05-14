@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roxypalace.com privacy policy that was archived on 2006-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061030174903id_/http%3A//roxypalace.com/EN/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roxypalace.com privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514171120id_/http%3A//www.roxypalace.com/EN/privacy_statement.aspx) for the most accurate reproduction.*
 
 # Roxy Palace - Privacy Statement
 
