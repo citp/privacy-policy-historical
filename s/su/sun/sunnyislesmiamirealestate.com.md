@@ -1,26 +1,88 @@
-> *The following text is extracted and transformed from the sunnyislesmiamirealestate.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230045853id_/http%3A//www.sunnyislesmiamirealestate.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunnyislesmiamirealestate.com privacy policy that was archived on 2007-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070515202059id_/http%3A//www.sunnyislesmiamirealestate.com/Privacy.asp) for the most accurate reproduction.*
 
-# Miami Real Estate & Mls, Sunny Isles Real Estate, Preconstruction Miami Condos
+# Miami Condos & Luxury Real Estate, Mls & Preconstruction Condo
 
 |   
-  [ **About Us**](https://web.archive.org/Aboutus.asp)   
-  [ **Articles & News**](https://web.archive.org/Articles.asp)   
-  [ **Miami MLS Search**](https://web.archive.org/miami-mls.asp)   
-  [ **Ft. Lauderdale MLS**](https://web.archive.org/Fort-Lauderdale-mls.asp)   
-  [ **Sell Your Property**](https://web.archive.org/Sell_Your_Property.asp)   
-  [ **100 Most Recent Sales**](https://web.archive.org/Miami_Real_Estate_Sold.asp)   
-  [ **100 Most Expensive**](https://web.archive.org/Miami_Real_Estate_For_Sale.asp)   
-  [ **Market Analysis**](https://web.archive.org/Market_Analysis.asp)   
-  [ **Miami PreConstruction**](https://web.archive.org/PreConstruction.asp)   
-  [ **Foreign Investors**](https://web.archive.org/Foreign-Investors.asp)   
-  [ **Property Search**](https://web.archive.org/Property_Search.asp)   
-  [ **Mortgage Center**](https://web.archive.org/Mortgage_Center.asp)   
-  [ **Mortgage Calculator**](https://web.archive.org/Mortgage_Calculator.asp)   
-  [ **Disclaimer**](https://web.archive.org/Disclaimer.asp)   
-  [ **Your Privacy**](https://web.archive.org/Privacy.asp)   
-  [ **Site Map**](https://web.archive.org/Site_Map.asp)   
-  [ **Contact Us**](https://web.archive.org/contactus.asp)   
-  [ **Newsletter**](https://web.archive.org/Newsletter.asp)   
+  [ **About Us**](https://web.archive.org/Aboutus.asp)
+
+* * *
+
+  [ **Articles & News**](https://web.archive.org/Articles.asp)
+
+* * *
+
+  [ **Miami MLS Search**](https://web.archive.org/miami-mls.asp)
+
+* * *
+
+  [ **Ft. Lauderdale MLS**](https://web.archive.org/Fort-Lauderdale-mls.asp)
+
+* * *
+
+  [ **Sell Your Property**](https://web.archive.org/Sell_Your_Property.asp)
+
+* * *
+
+  [ **100 Most Recent Sales**](https://web.archive.org/Miami_Real_Estate_Sold.asp)
+
+* * *
+
+  [ **100 Most Expensive**](https://web.archive.org/Miami_Real_Estate_For_Sale.asp)
+
+* * *
+
+  [ **Market Analysis**](https://web.archive.org/Market_Analysis.asp)
+
+* * *
+
+  [ **Miami PreConstruction**](https://web.archive.org/PreConstruction.asp)
+
+* * *
+
+  [ **Foreign Investors**](https://web.archive.org/Foreign-Investors.asp)
+
+* * *
+
+  [ **Property Search**](https://web.archive.org/Property_Search.asp)
+
+* * *
+
+  [ **Mortgage Center**](https://web.archive.org/Mortgage_Center.asp)
+
+* * *
+
+  [ **Mortgage Calculator**](https://web.archive.org/Mortgage_Calculator.asp)
+
+* * *
+
+  [ **Disclaimer**](https://web.archive.org/Disclaimer.asp)
+
+* * *
+
+  [ **Employment**](https://web.archive.org/Employment.asp)
+
+* * *
+
+  [ **Your Privacy**](https://web.archive.org/Privacy.asp)
+
+* * *
+
+  [ **Site Map**](https://web.archive.org/Site_Map.asp)
+
+* * *
+
+  [ **Blog Miami Condos**](https://web.archive.org/Blog-Miami-Condos/)
+
+* * *
+
+  [ **Contact Us**](https://web.archive.org/contactus.asp)
+
+* * *
+
+  [ **Newsletter**](https://web.archive.org/Newsletter.asp)
+
+* * *
+
   [ **Resources**](https://web.archive.org/Resources/)  
 
 
@@ -32,11 +94,11 @@
 |  Sign up to receive our [ _newsletter_](https://web.archive.org/Newsletter.asp). Find out about Miami real estate & MLS, preconstruction condos, latest news, articles, recent sales and more.   
   
 ---  
-|  |  |  |   |    
-|  |  **Privacy Policy**  
+|  |  |  |   |   
+Privacy Policy  
+  
 ---|---  
-  |   
-We are committed to maintaining your confidence and trust. Your right to privacy and data security is a primary concern. That's why, when you visit SunnyRealtyFL.com, we help you maintain control over your data on the Internet. 
+  |  We are committed to maintaining your confidence and trust. Your right to privacy and data security is a primary concern. That's why, when you visit SunnyRealtyFL.com, we help you maintain control over your data on the Internet. 
 
 **Specific types of information we ask for**
 
@@ -88,10 +150,6 @@ Sunny Isles Beach, FL 33160
 **General Feedback:** [ _feedback@SunnyRealtyFL.com_](mailto:feedback@SunnyRealtyFL.com)
 
   
-Effective Date: 12/29/2006   
-  
-  
-|  |  |   
----|---  
-  
-
+Effective Date: 5/15/2007   
+|    
+| 
