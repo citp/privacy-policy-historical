@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utopiapimp.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214215826id_/http%3A//utopiapimp.com/%3Fmisc/privacy%26PHPSESSID%3Dba533cad6de8686d8af7c9c9d36ec656) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utopiapimp.com privacy policy that was archived on 2007-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070515192131id_/http%3A//utopiapimp.com/%3Fmisc/privacy%26PHPSESSID%3De876e0cebcd8aa0fe03e4f5ba7c6fdd0) for the most accurate reproduction.*
 
 # Utopiapimp - warforums for the popular webpage strategy MMOG, Utopia
 
