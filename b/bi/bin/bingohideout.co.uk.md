@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bingohideout.co.uk privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218180058id_/http%3A//www.bingohideout.co.uk/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bingohideout.co.uk privacy policy that was archived on 2007-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070515073500id_/http%3A//www.bingohideout.co.uk/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement - Bingo Hideout
 
