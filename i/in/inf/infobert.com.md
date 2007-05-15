@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infobert.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207124007id_/http%3A//www.infobert.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infobert.com privacy policy that was archived on 2007-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070515204922id_/http%3A//www.infobert.com/privacy.php) for the most accurate reproduction.*
 
 # travel computers credit
 
