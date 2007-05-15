@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wyse.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205222009id_/http%3A//wyse.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyse.com privacy policy that was archived on 2007-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070515161002id_/http%3A//www.wyse.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Wyse Technology - About Wyse
 
