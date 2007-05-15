@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vtac.edu.au privacy policy that was archived on 2006-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060920093302id_/http%3A//www.vtac.edu.au/general/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vtac.edu.au privacy policy that was archived on 2007-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070515141106id_/http%3A//www.vtac.edu.au/general/privacy.html) for the most accurate reproduction.*
 
 # VTAC:General Information:VTAC Code of Privacy and Ethics
 
@@ -36,7 +36,7 @@ Using the results received from the VCAA, VTAC calculates an ENTER or notional E
 
 While current and previous Year 12 results are stored on a national database, this information can only be accessed, by the Director (or nominee) of any state-based tertiary admission centre if you initiate an application for tertiary study within that state. 
 
-The Grade Point Average (GPA) will be used as stated under each published course or institutional selection mode. Refer to [Grade Point Average](https://web.archive.org/web/20060920093302id_/http%3A//www.vtac.edu.au/ny12/gpa.html) for further information.
+The Grade Point Average (GPA) will be used as stated under each published course or institutional selection mode. Refer to [Grade Point Average](https://web.archive.org/web/20070515141106id_/http%3A//www.vtac.edu.au/ny12/gpa.html) for further information.
 
 ## Who has access to your information?
 
@@ -76,7 +76,7 @@ The Grade Point Average (GPA) will be used as stated under each published course
 
   1. Supply full and correct information as part of the application process. Institutions may withdraw your offer or cancel your enrolment if you fail in this regard.
   2. Confirm that the information you have included on your application is correct and notify VTAC immediately of any errors.
-  3. Supply documentation, in the prescribed manner, in support of your application where instructed in the Guide, [CourseSearch](https://web.archive.org/web/20060920093302id_/http%3A//www.vtac.edu.au/courses/searchcourse.html), or as part of the application process. Institutions may be unable to consider your application if you fail to follow these instructions.
+  3. Supply documentation, in the prescribed manner, in support of your application where instructed in the Guide, [CourseSearch](https://web.archive.org/web/20070515141106id_/http%3A//www.vtac.edu.au/courses/searchcourse.html), or as part of the application process. Institutions may be unable to consider your application if you fail to follow these instructions.
   4. Pay the required VTAC fees. 
 
 
@@ -147,25 +147,21 @@ Regardless of the success of your application, there are no refunds of either VT
 |   |   
 |  |   
 ---|---  
-|  | Timely applications close on Friday 29 September |   
+|  |  Third round offers for Graduate Entry Teaching courses are now available |    
 |   
-|  | SEAS applications close Friday 6 October |    
+|  |  Third round offers for undergraduate courses are now available |    
 |   
-|  | **[New and cancelled courses](https://web.archive.org/web/20060920093302id_/http%3A//www.vtac.edu.au/courses/coursechanges.html)** |    
+|  | **[New and cancelled courses](https://web.archive.org/web/20070515141106id_/http%3A//www.vtac.edu.au/courses/coursechanges.html)** |    
 |   
-|  | [Open days](https://web.archive.org/web/20060920093302id_/http%3A//www.vtac.edu.au/common/opendays.html) |    
-|   
-|  | [All dates from the 2007 selection cycle](https://web.archive.org/web/20060920093302id_/http%3A//www.vtac.edu.au/common/dates.html) |    
+|  | [All dates from the 2007 selection cycle](https://web.archive.org/web/20070515141106id_/http%3A//www.vtac.edu.au/common/dates.html) |    
 |   
 |   
 ---|---  
-|  | **[Forms](https://web.archive.org/web/20060920093302id_/http%3A//www.vtac.edu.au/general/forms.html)** |   
+|  | **[Forms](https://web.archive.org/web/20070515141106id_/http%3A//www.vtac.edu.au/general/forms.html)** |   
 |   
-|  | [VTAC Guide 2007](https://web.archive.org/web/20060920093302id_/http%3A//www.vtac.edu.au/publications/guide2007.html) |    
+|  | [VTAC Guide 2007](https://web.archive.org/web/20070515141106id_/http%3A//www.vtac.edu.au/publications/guide2007.html) |    
 |   
 |  | [Subscribe to VNews](http://plato.vtac.edu.au/cgi-bin/subscribe/subscribe.pl), the VTAC e-Newsletter |    
 |   
-| [ [More publications...](https://web.archive.org/web/20060920093302id_/http%3A//www.vtac.edu.au/publications/index.html) ] |    
-|   
-|  | [Aggregate to ENTER table](https://web.archive.org/web/20060920093302id_/http%3A//www.vtac.edu.au/pdf/aggregate-ENTER.pdf) (PDF)  |    
+| [ [More publications...](https://web.archive.org/web/20070515141106id_/http%3A//www.vtac.edu.au/publications/index.html) ] |    
 | 
