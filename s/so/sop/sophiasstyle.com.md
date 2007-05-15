@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sophiasstyle.com privacy policy that was archived on 2006-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061220155216id_/http%3A//www.sophiasstyle.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sophiasstyle.com privacy policy that was archived on 2007-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070516000610id_/http%3A//www.sophiasstyle.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy - Designer Children's Clothing :: Sophias Style Boutique
 
