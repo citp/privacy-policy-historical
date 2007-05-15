@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moviemart.in privacy policy that was archived on 2006-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061128000742id_/http%3A//moviemart.in/Privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviemart.in privacy policy that was archived on 2007-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070515105134id_/http%3A//moviemart.in/Privacy_policy.aspx) for the most accurate reproduction.*
 
-# MovieMart:: Movie detail
+# Movie Mart : Privacy Policy
 
 This Privacy Policy explains our policy regarding the collection, use and disclosure of your personal information. As we update and expand our services, this policy may change, so please refer back to it periodically. By accessing our Web site or using our services, you consent to our information practices.
 
@@ -21,7 +21,7 @@ This Privacy Policy explains our policy regarding the collection, use and disclo
 When you register or re-register at our Web site, we ask you to supply us with personal information so that we can provide, enhance and personalize our services and marketing efforts. For similar reasons, we may supplement the personal information you provide with publicly available information about you. We use this personal information to process your registration, your orders and your payments, and to communicate with you on these and other topics. We also use your e-mail address to send you newsletters, as well as messages about Movie Mart special offers, promotional announcements and consumer surveys. Occasionally, we may send these materials to you via postal mail, using the shipping address provided. If you no longer want to receive the newsletters contact us by filling up the feedback form given on the My Account section. 
 
   
-We keep track of your interactions with us, including but not limited to your site activity, DVD selections, movie ratings, payment history and correspondence. We use this information for such purposes as providing recommendations on movies we think will be enjoyable, personalizing the site to better reflect particular interests, helping us quickly and efficiently respond to inquiries and requests and otherwise enhancing our service offering for our customers. We may also disclose and otherwise use, on an anonymous basis, movie ratings, commentary, reviews and other non-personal information about customers. 
+We keep track of your interactions with us, including but not limited to your site activity, [**DVD selections**](https://web.archive.org/web/20070515105134id_/http%3A//moviemart.in/browsesection.aspx?lan=1), movie ratings, payment history and correspondence. We use this information for such purposes as providing recommendations on movies we think will be enjoyable, personalizing the site to better reflect particular interests, helping us quickly and efficiently respond to inquiries and requests and otherwise enhancing our service offering for our customers. We may also disclose and otherwise use, on an anonymous basis, movie ratings, commentary, reviews and other non-personal information about customers. 
 
 back to top 
 
@@ -54,7 +54,7 @@ back to top
 
 You are responsible for maintaining the confidentiality of your account information and for restricting access to your  through which you access your Movie Mart account. Users of public or shared computers or unprotected devices should log out at the completion of each visit to the Web site. 
 
-Unfortunately, no security system can be guaranteed to be 100% secure. Accordingly, we cannot guarantee the security of your personal information and cannot assume liability for improper access to it. By using this Web site, or providing personal information to us through any means, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of this site. 
+Unfortunately, no security system can be guaranteed to be **100% secure**. Accordingly, we cannot guarantee the security of your personal information and cannot assume liability for improper access to it. By using this Web site, or providing personal information to us through any means, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of this site. 
 
 back to top 
 
