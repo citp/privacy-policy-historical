@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jetstar.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217101114id_/http%3A//www.jetstar.com/footer/privacy-policy-2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jetstar.com privacy policy that was archived on 2007-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070515041323id_/http%3A//www.jetstar.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Jetstar - Privacy Policy
 
@@ -65,6 +65,19 @@ In these situations, we will prohibit the third party contractor from using pers
 Jetstar's reservations system and the reservations systems of certain airlines that are associated with Jetstar are hosted in the same computer system and we have security measures in place prohibiting the airlines and their contractors and agents from accessing your personal information.
 
 Other than the above, we will not disclose your personal information without your consent unless disclosure is either necessary to prevent a threat to life or health, authorised or required by law, reasonably necessary to enforce the law or necessary to investigate a suspected unlawful activity.
+
+## Additional information for job applicants
+
+If you apply or register your interest for a position with Jetstar we may collect your personal information including your name, CV and contact details. 
+
+We sometimes engage service providers to assist us in the recruitment process, including recruitment agencies, security organisations and recruitment website operators. Where we do this we may exchange your personal information with those service providers, who may be located outside Australia. In some cases those service providers may collect your personal information directly and retain it for their own purposes, so you should ensure that you are aware of their privacy policies. We may also exchange your personal information with any referees nominated by you.
+
+Some of the personal information we request during the recruitment process we are required to collect under workplace and security laws.
+
+If we are unable to collect your personal information, we may not be able to consider you for employment with Jetstar.
+
+  
+
 
 ## Access to and correction of information we hold about you
 
