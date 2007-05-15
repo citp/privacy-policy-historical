@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vision6.com.au privacy policy that was archived on 2006-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061003165403id_/http%3A//www.vision6.com.au/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vision6.com.au privacy policy that was archived on 2007-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070516014945id_/http%3A//www.vision6.com.au/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Vision 6 - SMS and Email Marketing Software
 
