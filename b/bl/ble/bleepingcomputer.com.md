@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bleepingcomputer.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208194102id_/http%3A//www.bleepingcomputer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bleepingcomputer.com privacy policy that was archived on 2007-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070515153551id_/http%3A//www.bleepingcomputer.com/privacy.php) for the most accurate reproduction.*
 
-# Bleeping Computer: Computer Help and Discussion
+# BleepingComputer.com - Privacy Policy
 
 **Updated January 25, 2006**
 
@@ -44,7 +44,7 @@ You can update almost all information about your account by logging in and click
 
 **Policies for individuals under 13 (COPPA)**
 
-BleepingComputer firmly believes that everyone can gain something from using our site, but we are a big believe in requiring the permission from parents for their children (anyone 13 years old or younger) to have access to our discussion boards. 
+BleepingComputer firmly believes that everyone can gain something from using our site, but we are a big believer in requiring the permission from parents for their children (anyone 13 years old or younger) to have access to our discussion boards. 
 
 We will not knowingly use information collected from visitors under 13 years of age for any marketing or promotional purposes whatsoever, either inside or outside BleepingComputer. Visitors' e-mail addresses are not posted on BleepingComputer, unless provided by a visitor as part of a user profile. In order for a user who is under 13 years old to become a member at BleepingComputer.com we require the parent to fill out a COPPA form giving us permission to allow the user to be validated as a member. 
 
