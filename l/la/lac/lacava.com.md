@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lacava.com privacy policy that was archived on 2006-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061127230902id_/http%3A//www.lacavadesign.com/HTML/Privacy%2520statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lacava.com privacy policy that was archived on 2007-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070515131545id_/http%3A//www.lacava.com/HTML/Privacy%2520statement.htm) for the most accurate reproduction.*
 
 # Lacavadesign.com
 
@@ -11,37 +11,37 @@
   
 ---  
   
-[HOME PAGE](https://web.archive.org/web/20061127230902id_/http%3A//www.lacavadesign.com/index.htm)  
+[HOME PAGE](https://web.archive.org/web/20070515131545id_/http%3A//www.lacava.com/index.htm)  
   
 * * *  
   
-[COLLECTIONS](https://web.archive.org/web/20061127230902id_/http%3A//www.lacavadesign.com/product%20collections.htm)  
+[COLLECTIONS](https://web.archive.org/web/20070515131545id_/http%3A//www.lacava.com/product%20collections.htm)  
   
 * * *  
   
 [ONLINE LITERATURE,  
 SERVICE PARTS  
-DISCONTINUED PRODUCTS](https://web.archive.org/web/20061127230902id_/http%3A//www.lacavadesign.com/HTML/online.htm)  
+DISCONTINUED PRODUCTS](https://web.archive.org/web/20070515131545id_/http%3A//www.lacava.com/HTML/online.htm)  
   
 * * *  
   
-[INQUIRIES](https://web.archive.org/web/20061127230902id_/http%3A//www.lacavadesign.com/HTML/questionnaire.htm)  
+[INQUIRIES](https://web.archive.org/web/20070515131545id_/http%3A//www.lacava.com/HTML/questionnaire.htm)  
   
 * * *  
   
-[LACAVA PROFILE](https://web.archive.org/web/20061127230902id_/http%3A//www.lacavadesign.com/HTML/about%20lacava.htm)  
+[LACAVA PROFILE](https://web.archive.org/web/20070515131545id_/http%3A//www.lacava.com/HTML/about%20lacava.htm)  
   
 * * *  
   
-[CONTACT INFO](https://web.archive.org/web/20061127230902id_/http%3A//www.lacavadesign.com/HTML/contacts.htm)  
+[CONTACT INFO](https://web.archive.org/web/20070515131545id_/http%3A//www.lacava.com/HTML/contacts.htm)  
   
 * * *  
   
-[TERMS AND CONDITIONS](https://web.archive.org/web/20061127230902id_/http%3A//www.lacavadesign.com/HTML/terms%20and%20conditions%20.htm)  
+[TERMS AND CONDITIONS](https://web.archive.org/web/20070515131545id_/http%3A//www.lacava.com/HTML/terms%20and%20conditions%20.htm)  
   
 * * *  
   
-[LACAVA BUSINESS ETHICS](https://web.archive.org/web/20061127230902id_/http%3A//www.lacavadesign.com/HTML/Business%20ethics.htm)  
+[LACAVA BUSINESS ETHICS](https://web.archive.org/web/20070515131545id_/http%3A//www.lacava.com/HTML/Business%20ethics.htm)  
   
 * * *  
   
