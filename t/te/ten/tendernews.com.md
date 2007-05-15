@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tendernews.com privacy policy that was archived on 2006-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061119104641id_/http%3A//www.tendernews.com/tender_government.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tendernews.com privacy policy that was archived on 2007-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070515171911id_/http%3A//www.tendernews.com/tender_government.asp) for the most accurate reproduction.*
 
 # Invitation to tender india on the web construction tenders printing tenders bids public tenders news india
 
