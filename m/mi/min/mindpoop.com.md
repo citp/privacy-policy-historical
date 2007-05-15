@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindpoop.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118180349id_/http%3A//mindpoop.com/about.php%3Ftype%3D14) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindpoop.com privacy policy that was archived on 2007-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070515111042id_/http%3A//mindpoop.com/about.php%3Ftype%3D14) for the most accurate reproduction.*
 
 # MindPoop.com - Video Picture Music Flash Hosting
 
