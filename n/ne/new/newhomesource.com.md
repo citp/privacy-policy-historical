@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the newhomesource.com privacy policy that was archived on 2006-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061101053109id_/http%3A//newhomesource.com/sitehelp/SiteHelp.aspx%3Fcontent%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newhomesource.com privacy policy that was archived on 2007-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070516131550id_/http%3A//www.newhomesource.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# [market] area homes for sale: [market], [state] real estate
+# Privacy
 
-|  |  |  Search over 250,000 new homes and plans from America's top home builders.  
----  
-[Register now](http://www.newhomesource.com/login/register.aspx) to save new homes and communities for future reference.  
-  
+## Privacy Policy - Your Privacy Rights
+
 At Builder Homesite ([www.newhomesource.com](http://www.newhomesource.com/), [www.casasnuevasaqui.com](http://www.casasnuevasaqui.com/), and [www.newretirementcommunities.com](http://www.newretirementcommunities.com/)), we share your concerns about privacy. Since an essential function of this site is performing customized home searches and securing information about builders, product manufacturers and related resources for the home and garden, largely based upon the information you input, we want you to understand what types of information we are collecting and what may happen to that information.
 
 Our privacy policy covers these areas:
@@ -21,14 +19,14 @@ Our privacy policy covers these areas:
 
 _How to Contact Us_ \-- If you have questions or concerns regarding this Privacy Policy, you should first contact BHI at [support@newhomesource.com](mailto:support@newhomesource.com). Alternatively, you may contact us at: 
 
-> Privacy at BHI   
->  Builder Homesite, Inc.   
->  5300 Riata Park Court   
->  Austin, TX 78727  Telephone: 512-371-3800   
->  Fax: 512-371-9552   
+> Privacy at BHI  
+>  Builder Homesite, Inc.  
+>  11900 Ranch Road 620 N  
+>  Austin, TX 78750-1345  Telephone: 512-371-3800  
+>  Fax: 512-371-9552  
 > 
 
-  1. ##### COLLECTION OF INFORMATION 
+  1. ###  COLLECTION OF INFORMATION 
 
 Information is collected from our users at several different points during your visit to BHI.
 
@@ -42,13 +40,13 @@ _Collection of Information from Children_ \-- BHI abides by federal law and the 
 
 _Tell-A-Friend_ \-- You can choose to let a friend or your parents know about BHI through our Tell-A-Friend referral services. If you choose to use the Tell-A-Friend service, we will ask you for your friend's name and e-mail address and BHI will send your friend an e-mail inviting him or her to visit BHI to learn more about our services. BHI stores your friend's contact information for the sole purpose of sending the e-mail.
 
-  2. ##### USE OF INFORMATION
+  2. ### USE OF INFORMATION
 
 The information which you supply to BHI enables us to provide the new home search and matching services, home brochures, maps, etc. In addition, BHI uses your information in order to customize our site to your interests and enhance your overall experience at our site. BHI tries to recognize you using various methods, including having you log in with your e-mail address and your password. Once BHI recognizes you, pages, advertisements and other content is customized for you so that you can see what interests you the most. In addition, as described above, BHI utilizes passive information to learn more about how you interact with our site. This passive information may be combined with your other information for purposes such as testing and improving your experience at our site and the compilation of broad aggregate demographic data and related usage information for internal purposes and for disclosure to third parties such as advertisers and content partners. This aggregate passive information does not contain any personal information which can identify any individual user. 
 
 _Contacting You by E-Mail_ \-- BHI may use your contact information periodically in order to send you e-mail regarding updates at the BHI site, such as new BHI opportunities and additional listings which may be of interest to you. The frequency of these messages will vary depending upon your profile. In addition, we may send you free informational newsletters or notices relating to topics which may be of special interest to you, including builders, product manufacturers, related advertisers and general home shopping advice. Finally, if you specifically provide BHI with permission at the time of registration, you may also receive commercial e-mails. Out of respect for the privacy of our users, we present the option to opt-out of receiving newsletters and/or commercial e-mails whenever such messages are sent by BHI, as described below. E-mail messages from third parties are not governed by the opt-out provisions of this Privacy Policy, but all such third parties are strongly encouraged to include opt-out procedures in their messages to you. 
 
-  3. ##### SHARING OF INFORMATION 
+  3. ### SHARING OF INFORMATION
 
 BHI will not knowingly sell, share, rent or otherwise transfer your information other than in accordance with the terms set forth in this Privacy Policy. 
 
@@ -58,7 +56,7 @@ _Third Party Service Providers_ \-- From time to time, BHI may decide that it is
 
 _Disclosure to Law Enforcement and Similar Disclosures_ \-- While BHI strives to protect the personal information of our users, BHI will release personal information if required by law or in the good-faith belief that such action is necessary or appropriate. 
 
-  4. ##### SECURITY
+  4. ### SECURITY
 
 BHI has security measures in place to help protect against the loss, misuse and/or unauthorized alteration of the information under our control. You are the only user authorized to update your profile, unless you provide your password information to another party. 
 
@@ -66,11 +64,11 @@ BHI helps protect personally identifiable information by utilizing both online a
 
 If you have any questions about security issues at our site, please send an e-mail to [support@newhomesource.com](mailto:support@newhomesource.com) and we will try to answer your questions. 
 
-  5. ##### HOW YOU CAN UPDATE YOUR INFORMATION 
+  5. ###  HOW YOU CAN UPDATE YOUR INFORMATION 
 
 You can update your personal information by clicking on the "Update Profile" link on the BHI sites, or by following the instructions included in any e-mail message you receive from BHI. Users who are experiencing problems with updating their information should contact us at [support@newhomesource.com](mailto:support@newhomesource.com) , and we will try to resolve your problems.
 
-  6. ##### OTHER PROVISIONS 
+  6. ###  OTHER PROVISIONS 
 
 _Acceptance of Terms/Changes to Privacy Policy_ \-- Your use of this site indicates an acceptance of the terms of the Privacy Policy. BHI reserves the right to update or amend this Privacy Policy at any time. 
 
@@ -80,7 +78,7 @@ _Other_ \-- In the event that BHI sells, assigns or transfers some or all of its
 
 _Links to Other Sites_ \-- This site contains links to other sites. Please be aware that BHI does not exercise control over the information, products, services or policies of third party companies accessible through our site. We encourage our users to be aware when they leave our site and to read the privacy policies of each and every third party site. This Privacy Policy applies solely to the information collected by this site. 
 
-_Choice/Opt-out_ \-- BHI users are given the opportunity to "opt-out" of having their information used for purposes not directly related to our site. You may opt-out from receiving specified types of communications from BHI by clicking here. BHI will only communicate with you according to your instructions. If you have any questions relating to opting-out, please contact us at [support@newhomesource.com](mailto:support@newhomesource.com), and we will try to answer your questions. 
+_Choice/Opt-out_ \-- BHI users are given the opportunity to "opt-out" of having their information used for purposes not directly related to our site. You may opt-out from receiving specified types of communications from BHI by clicking here. BHI will only communicate with you according to your instructions. If you have any questions relating to opting-out, please contact us at [ support@newhomesource.com](mailto:support@newhomesource.com), and we will try to answer your questions. 
 
 
 
@@ -89,10 +87,6 @@ _Choice/Opt-out_ \-- BHI users are given the opportunity to "opt-out" of having 
 
 Your privacy is important to BHI. If you have questions about any of the provisions described above, please contact us at [support@newhomesource.com](mailto:support@newhomesource.com) or via the other contact information listed above. 
 
-The State of CA enacted the Shine the Light law (CA Civil Code Sec 198.83) that permits customers of Builder Homesite who are CA residents to request certain information regarding its disclosure of personal information during the past year for marketing purposes. To make such a request, send an email to [support@newhomesource.com](mailto:support@newhomesource.com).
+The State of CA enacted the Shine the Light law (CA Civil Code Sec 198.83) that permits customers of Builder Homesite who are CA residents to request certain information regarding its disclosure of personal information during the past year for marketing purposes. To make such a request, send an email to [ support@newhomesource.com](mailto:support@newhomesource.com).
 
-Update effective March 9, 2006.  
-  
-  
-  
-
+Update effective March 9, 2006.
