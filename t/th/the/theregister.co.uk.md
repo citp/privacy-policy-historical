@@ -1,13 +1,14 @@
-> *The following text is extracted and transformed from the theregister.co.uk privacy policy that was archived on 2006-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061006232730id_/http%3A//www.theregister.co.uk/odds/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theregister.co.uk privacy policy that was archived on 2007-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070516054310id_/http%3A//www.theregister.co.uk/odds/about/privacy) for the most accurate reproduction.*
 
 # Your Privacy and The Register | The Register
 
 ### The Register is owned and operated by Situation Publishing.
 
 Situation Publishing   
-410 The Bon Marche Centre   
+5th Floor   
+33 Charlotte Street   
 London   
-SW9 8BJ
+W1T 1RR
 
 The Register strongly believes in the importance of keeping readers' personal information personal. It will never use your information for any use beyond that stated or the permissions you give us.
 
@@ -17,20 +18,19 @@ The Register site does record IP addresses and produces server logs - as all Web
 
 ### Cookies
 
-The Register site sets cookies in order to help with the management of its advertising. The data is used by our Advertising Server, purely to help decide which adverts to display on the page at any given time, and for no other purpose beyond this. You may of course choose to block these cookies if you wish, and the site should continue to function normally.
+The Register site sets cookies in order to help with the management of its advertising and to enable certain user features, such as account login. The data is used by our Advertising Server to help decide which adverts to display on the page at any given time. You may of course choose to block these cookies if you wish, and the majority of the site will continue to function normally.
 
 ### Advertising
 
-The Register runs advertising for a wide variety of organisations. These adverts are served from our own advertising server, [Falk AdSolution](http://www.falkag.com/), as well as from third-party ad servers managed by the advertiser. Recent third-party ad servers include DoubleClick, Atlas DMT and BlueStreak
+The Register runs advertising for a wide variety of organisations. These adverts are served from our advertising servers as well as from third-party ad servers managed by the advertiser. Recent third-party ad servers include DoubleClick, Atlas DMT and BlueStreak
 
 These ad servers may attempt to set cookies on your computer. All these sites stress that information gathered through these cookies is used purely for the purpose of advert delivery, recording and segmentation. They do not use information gathered through their cookies for their own use, and they do not collect any personally identifiable information.
 
 The respective privacy policies of these ad servers can be found here :
 
-[Falk AdSolution Privacy Policy](http://www.falkag.com/page.php?Id=58)   
 [DoubleClick Privacy Policy](http://www.doubleclick.com/us/about_doubleclick/privacy/)   
-[Atlas DMT Privacy Policy](http://www.atlasdmt.com/privacy/)   
-DoubleClick also has a cookie opt-out facility [here](http://www.doubleclick.com/us/about_doubleclick/privacy/ad-cookie/).
+DoubleClick also has a cookie opt-out facility [here](http://www.doubleclick.com/us/about_doubleclick/privacy/ad-cookie/)   
+[Atlas DMT Privacy Policy](http://www.atlasdmt.com/privacy.aspx)
 
 If you encounter any problems with advertising please email [webmaster@theregister.co.uk](mailto:webmaster@theregister.co.uk)
 
@@ -114,9 +114,10 @@ If you wish to contact Situation Publishing regarding any aspect of the Privacy 
 
 The Data Controller   
 Situation Publishing   
-410 The Bon Marche Centre   
+5th Floor   
+33 Charlotte Street   
 London   
-SW9 8BJ
+W1T 1RR
 
 ### By Email
 
