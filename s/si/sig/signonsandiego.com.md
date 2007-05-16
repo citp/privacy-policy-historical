@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the signonsandiego.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219191707id_/http%3A//www.signonsandiego.com/about/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signonsandiego.com privacy policy that was archived on 2007-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070516100118id_/http%3A//www.signonsandiego.com/about/privacy/index.html) for the most accurate reproduction.*
 
 # SignOnSanDiego.com > About us > Privacy Policy
 
