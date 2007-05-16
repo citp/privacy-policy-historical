@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pokerpages.com privacy policy that was archived on 2006-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061213230042id_/http%3A//www.pokerpages.com/legal/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pokerpages.com privacy policy that was archived on 2007-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070516205044id_/http%3A//www.pokerpages.com/legal/privacy.htm) for the most accurate reproduction.-->
 
 <html><head>
 <title>Poker Pages - Poker Articles, Tournaments, &amp; Directory</title>
@@ -9,7 +9,7 @@
 <meta name="revisit-after" content="15 days">
 <meta name="robots" content="all">
 <meta name="rating" content="general">
-<meta name="copyright" content="All content on PokerPages.com� is � copyright 2000 Poker School Online, Inc.">
+<meta name="copyright" content="All content on PokerPages.com™ is © copyright 2000 Poker School Online, Inc.">
 
 
 <script language="JavaScript1.2">
@@ -22,134 +22,10 @@ window.external.AddFavorite(bookmarkurl,bookmarktitle)
 }
 //-->
 </script>
-<!-- Timestamp: 12/13/2006 05:00 -->
+<!-- Timestamp: 05/16/2007 03:50 -->
 <!-- Agent: ia_archiver -->
 
-<script language="JavaScript1.2" type="text/javascript"><!--var bookmarkurl="http://www.pokerpages.com"var bookmarktitle="PokerPages: Where to Play, Where to Stay, Where the Action Is!"function addbookmark(){if (document.all)window.external.AddFavorite(bookmarkurl,bookmarktitle)}//--></script><script language="JavaScript" type="text/javascript">
-<!--
-// -----------------------------------------------------------------------------
-// Globals
-// Major version of Flash required
-var requiredMajorVersion = 8;
-// Minor version of Flash required
-var requiredMinorVersion = 0;
-// Revision of Flash required
-var requiredRevision = 0;
-// the version of javascript supported
-var jsVersion = 1.0;
-// -----------------------------------------------------------------------------
-// -->
-</script><script language="VBScript" type="text/vbscript">
-<!-- // Visual basic helper required to detect Flash Player ActiveX control version information
-Function VBGetSwfVer(i)
-  on error resume next
-  Dim swControl, swVersion
-  swVersion = 0
-  
-  set swControl = CreateObject("ShockwaveFlash.ShockwaveFlash." + CStr(i))
-  if (IsObject(swControl)) then
-    swVersion = swControl.GetVariable("$version")
-  end if
-  VBGetSwfVer = swVersion
-End Function
-// -->
-</script><script language="JavaScript1.1" type="text/javascript">
-<!-- // Detect Client Browser type
-var isIE  = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;
-var isWin = (navigator.appVersion.toLowerCase().indexOf("win") != -1) ? true : false;
-var isOpera = (navigator.userAgent.indexOf("Opera") != -1) ? true : false;
-jsVersion = 1.1;
-// JavaScript helper required to detect Flash Player PlugIn version information
-function JSGetSwfVer(i){
-	// NS/Opera version >= 3 check for Flash plugin in plugin array
-	if (navigator.plugins != null && navigator.plugins.length > 0) {
-		if (navigator.plugins["Shockwave Flash 2.0"] || navigator.plugins["Shockwave Flash"]) {
-			var swVer2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";
-      		var flashDescription = navigator.plugins["Shockwave Flash" + swVer2].description;
-			descArray = flashDescription.split(" ");
-			tempArrayMajor = descArray[2].split(".");
-			versionMajor = tempArrayMajor[0];
-			versionMinor = tempArrayMajor[1];
-			if ( descArray[3] != "" ) {
-				tempArrayMinor = descArray[3].split("r");
-			} else {
-				tempArrayMinor = descArray[4].split("r");
-			}
-      		versionRevision = tempArrayMinor[1] > 0 ? tempArrayMinor[1] : 0;
-            flashVer = versionMajor + "." + versionMinor + "." + versionRevision;
-      	} else {
-			flashVer = -1;
-		}
-	}
-	// MSN/WebTV 2.6 supports Flash 4
-	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.6") != -1) flashVer = 4;
-	// WebTV 2.5 supports Flash 3
-	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.5") != -1) flashVer = 3;
-	// older WebTV supports Flash 2
-	else if (navigator.userAgent.toLowerCase().indexOf("webtv") != -1) flashVer = 2;
-	// Can't detect in all other cases
-	else {
-		
-		flashVer = -1;
-	}
-	return flashVer;
-} 
-// If called with no parameters this function returns a floating point value 
-// which should be the version of the Flash Player or 0.0 
-// ex: Flash Player 7r14 returns 7.14
-// If called with reqMajorVer, reqMinorVer, reqRevision returns true if that version or greater is available
-function DetectFlashVer(reqMajorVer, reqMinorVer, reqRevision) 
-{
- 	reqVer = parseFloat(reqMajorVer + "." + reqRevision);
-   	// loop backwards through the versions until we find the newest version	
-	for (i=25;i>0;i--) {	
-		if (isIE && isWin && !isOpera) {
-			versionStr = VBGetSwfVer(i);
-		} else {
-			versionStr = JSGetSwfVer(i);		
-		}
-		if (versionStr == -1 ) { 
-			return false;
-		} else if (versionStr != 0) {
-			if(isIE && isWin && !isOpera) {
-				tempArray         = versionStr.split(" ");
-				tempString        = tempArray[1];
-				versionArray      = tempString .split(",");				
-			} else {
-				versionArray      = versionStr.split(".");
-			}
-			versionMajor      = versionArray[0];
-			versionMinor      = versionArray[1];
-			versionRevision   = versionArray[2];
-			
-			versionString     = versionMajor + "." + versionRevision;   // 7.0r24 == 7.24
-			versionNum        = parseFloat(versionString);
-        	// is the major.revision >= requested major.revision AND the minor version >= requested minor
-			if ( (versionMajor > reqMajorVer) && (versionNum >= reqVer) ) {
-				return true;
-			} else {
-				return ((versionNum >= reqVer && versionMinor >= reqMinorVer) ? true : false );	
-			}
-		}
-	}	
-	return (reqVer ? false : 0.0);
-}
-// -->
-</script><script language="VBScript" type="text/vbscript">
-<!-- // Visual basic helper required to detect Flash Player ActiveX control version information
-Function VBGetSwfVer(i)
-  on error resume next
-  Dim swControl, swVersion
-  swVersion = 0
-  
-  set swControl = CreateObject("ShockwaveFlash.ShockwaveFlash." + CStr(i))
-  if (IsObject(swControl)) then
-    swVersion = swControl.GetVariable("$version")
-  end if
-  VBGetSwfVer = swVersion
-End Function
-// -->
-</script><link href="/templates/bluegel_2G/css/template_css.css" rel="stylesheet" type="text/css" media="screen"><link rel="shortcut icon" href="/pokerpages/images/favicon.ico"></head>
+<link href="/templates/bluegel_2G/css/innerpages.css" rel="stylesheet" type="text/css" media="screen"><link rel="shortcut icon" href="/pokerpages/images/favicon.ico"></head>
 <!-- important includes for directory/tournament section -->
 
 <!-- important includes for contact section -->
@@ -159,8 +35,7 @@ End Function
 
 
 
-
-<!-- Timestamp: 12/13/2006 05:00 -->
+<!-- Timestamp: 05/16/2007 03:50 -->
 <!-- Agent: ia_archiver -->
 
 
@@ -169,140 +44,75 @@ End Function
 
 
 
+<body>
+<div class="stripe">
+<div class="container">
+
+<div class="stripe-inner">
+
+<div class="inner-wrap">
+<div class="leftcol">
+<a href="http://www.pokerschoolonline.com" target="_blank" title="Learn to Play Poker at PokerSchoolOnline">PokerSchool Online</a>  <a href="http://www.bugsysclub.com/bugsysclub/index.php" target="_blank" title="BugsysClub Online Poker">BugsysClub</a>  <a href="/poker-software/leagues/skill-leagues01.htm" title="Play in our Poker Skill Leagues">Skill Leagues</a>
+</div> 
+
+<div class="rightcol">
+
+ <form method="get" action="http://www.google.com/custom"><input type="hidden" name="cof" value="BGC:#ffffff;T:#000000;LW:555;ALC:#034A98;L:http://www.pokerpages.com/images/pokerpageslogo.gif;LC:#034A98;LH:255;AH:center;VLC:#034A98;GL:3;AWFID:aa73cfd900e82fad;" class="searchinput"><input type="hidden" name="domains" value="pokerpages.com"><input type="hidden" name="sitesearch" value="pokerpages.com"><input type="text" name="q" size="14" onblur="if(this.value=='') this.value='Search PokerPages';" class="frontpage-input" value="Search PokerPages" onclick="this.value='';"> <input type="image" src="/templates/bluegel_2G/images/searchgobutton04.gif" alt="Go!"> 
+</form>
+
+</div>
+</div>
+
+</div>
+
+</div>
+</div>
+<div class="clear"></div>
 
 
 
+<div class="container">
+<a href="/index.htm" title="PokerPages Home"><img src="/templates/bluegel_2G/images/title.gif" width="218" height="90" alt="PokerPages" border="0"></a><a href="http://www.pokerpages.com/adservernew/adclick.php?bannerid=2869&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fwww.fulltiltpoker.com%2F%3Fkey%3DMDAwMDAwMDAwMDAwMDAwMzAwMDAwMDdCMDAwMDEyNTE-" target="_blank"><img src="http://www.pokerpages.com/adservernew/adimage.php?filename=wsop_728x90.gif&amp;contenttype=gif" width="728" height="90" alt="FullTilt" title="FullTilt" border="0"></a><div id="beacon_2869" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.pokerpages.com/adservernew/adlog.php?bannerid=2869&amp;clientid=555&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=88163678e407dd229c39152baf6d401d" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div> 
 
-<body bgcolor="#3366cc" marginheight="0" marginwidth="0">
-<div align="center">
-<div class="wrapper">
-		<div align="center">
-
-		<!-- ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| TOP SEARCH AND SITE BUTTONS - TABLE START ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
-		<table width="950" border="0" cellspacing="0" cellpadding="0" height="30">
-			<tbody><tr>
-				<td bgcolor="#ABC4D8">
-					<table width="100%" cellspacing="0" cellpadding="0" border="0"><form method="GET" action="http://www.google.com/custom"></form><tbody><tr><td width="20" height="30"><img src="/templates/bluegel_2G/grafix/pp_searchtab_left.jpg" alt="Tab" width="20" height="30" border="0"></td><td align="center" valign="middle" background="/templates/bluegel_2G/grafix/pp_searchtab_midbg.jpg"><table cellspacing="3" cellpadding="0" border="0"><tbody><tr><td align="left" valign="middle" class="search_title">Search Site</td><td align="left" valign="middle"><input type="hidden" name="cof" value="T:#013366;LW:468;BIMG:http://www.pokerpages.com/images/bg-fallingcards.gif;ALC:#0033CC;L:http://www.pokerpages.com/images/ads/ppbanner-468.gif;LC:#0033FF;LH:60;AH:center;VLC:#660033;GL:1;AWFID:aa73cfd900e82fad;" class="searchinput"><input type="hidden" name="domains" value="pokerpages.com"><input type="hidden" name="sitesearch" value="pokerpages.com"><input type="text" name="q" size="16" maxlength="255" style="width:100px;" value="enter keywords..." onblur="if(this.value=='') this.value='enter keywords...';" onfocus="if(this.value=='enter keywords...') this.value='';" class="searchinput"></td><td align="left" valign="middle"><input type="image" name="submit" alt="Search" src="/templates/bluegel_2G/grafix/pp_searchgobutton.gif" width="34" height="16" border="0" class=""></td></tr></tbody></table><!-- Search Google --></td><td width="20" height="30"><img src="/templates/bluegel_2G/grafix/pp_searchtab_right.jpg" alt="Tab" height="30" width="20" border="0"></td></tr></tbody></table>
-				</td>
-				<td bgcolor="#217EDF">
-					<table width="100%" border="0" cellspacing="0" cellpadding="0" height="30">
-						<tbody><tr height="30">
-							<td width="27" height="30"><img src="/templates/bluegel_2G/grafix/pp_topbutton_left.jpg" alt="spacer" height="30" width="27" border="0"></td>
-							<td align="center" valign="middle" height="30" background="/templates/bluegel_2G/grafix/pp_topbutton_mid.jpg"><a href="http://www2.pokerpages.com/adservernew/adclick.php?bannerid=1877&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fwww.pokerschoolonline.com%2F" target="_self" class="mainlevel">PokerSchoolOnline &gt;&gt;&gt;</a><div id="beacon_1877" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www2.pokerpages.com/adservernew/adlog.php?bannerid=1877&amp;clientid=563&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=dab818353b9ee695cf945296fadf52a6" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></td>
-							<td width="21" height="30"><img src="/templates/bluegel_2G/grafix/pp_topbutton_right.jpg" alt="spacer" height="30" width="21" border="0"></td>
-						</tr>
-					</tbody></table>
-				</td>
-				<td bgcolor="#217EDF">
-					<table width="100%" border="0" cellspacing="0" cellpadding="0" height="30">
-						<tbody><tr height="30">
-							<td width="27" height="30"><img src="/templates/bluegel_2G/grafix/pp_topbutton_left.jpg" alt="spacer" height="30" width="27" border="0"></td>
-							<td align="center" valign="middle" height="30" background="/templates/bluegel_2G/grafix/pp_topbutton_mid.jpg"><a href="http://www2.pokerpages.com/adservernew/adclick.php?bannerid=2069&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fwww.bugsysclub.com%2Fclub%2Fregister%2Fbcregister02.htm%3Faid%3D96497" target="_self" class="mainlevel">BugsysClub &gt;&gt;&gt;</a><div id="beacon_2069" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www2.pokerpages.com/adservernew/adlog.php?bannerid=2069&amp;clientid=563&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=990b63d57d73a5c57fd2c665cf778432" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></td>
-							<td width="21" height="30"><img src="/templates/bluegel_2G/grafix/pp_topbutton_right.jpg" alt="" height="30" width="21" border="0"></td>
-						</tr>
-					</tbody></table>
-				</td>
-				<td bgcolor="#217EDF">
-					<table width="100%" border="0" cellspacing="0" cellpadding="0" height="30">
-						<tbody><tr height="30">
-							<td width="27" height="30"><img src="/templates/bluegel_2G/grafix/pp_topbutton_left.jpg" alt="spacer" height="30" width="27" border="0"></td>
-							<td align="center" valign="middle" height="30" background="/templates/bluegel_2G/grafix/pp_topbutton_mid.jpg"><a href="http://www2.pokerpages.com/adservernew/adclick.php?bannerid=1879&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fwww2.pokerpages.com%2Fpoker-software%2Fleagues%2Fskill-leagues01.htm" target="_blank" class="mainlevel" onmouseover="self.status='200K BBP Freeroll'; return true;" onmouseout="self.status='';return true;">200K BBP Freeroll &gt;&gt;&gt;</a><div id="beacon_1879" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www2.pokerpages.com/adservernew/adlog.php?bannerid=1879&amp;clientid=563&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=bd4e5fa1308247e5d7309b5bdb845845" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></td>
-							<td width="21" height="30"><img src="/templates/bluegel_2G/grafix/pp_topbutton_right.jpg" alt="spacer" height="30" width="21" border="0"></td>
-						</tr>
-					</tbody></table>
-				</td>
-			</tr>
-		</tbody></table>
-		<!-- ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| TOP SEARCH AND SITE BUTTONS - TABLE END ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+<div class="toplinks">
+<div class="toplinks-inner">
+<a href="/index.htm" title="PokerPages Home">Home</a>
+<a href="/tournament/" title="Poker Tournaments Schedules and Results">Poker Tournaments</a>
+<a href="/directory/" title="Poker Cardroom Directory">Cardroom Directory</a>
+<a href="/articles/archives/index.htm" title="Poker Articles">Poker Articles</a>
+<a href="/players/lists/worlds-top-players.htm" title="Poker Players Profiles">Poker Players</a>
+<a href="/pokerinfo/" title="Poker Information">Poker Information</a>
+<a href="/poker-software/leagues/leaderboards.htm" title="Poker Leagues on PokerPages">Poker League</a>
+<a href="/poker-software/index.htm" title="PokerPages FreePlay Cardroom">Freeplay Poker</a>
+</div>
+ </div>
 
 
-	
-		<!-- ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| TOP LOGO AND BANNER AD - TABLE START ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+<div class="tournamentschedules">Poker Tournament Info:
+<a href="/tournament/" title="Daily Poker Tournament Results">Daily Results</a> ::
+<a href="/tournament/recentschedules.php3" title="New Poker Tournament Schedules">New Schedules</a> ::
+<a href="/tournament/majorlisting.php3?Month=4&amp;Year=2007" title="April 2007 Poker Results">Last Month</a> ::
+<a href="/tournament/majorlisting.php3?Month=5&amp;Year=2007" title="May 2007 Poker Schedules">This Month</a> ::
+<a href="/tournament/majorlisting.php3?Month=6&amp;Year=2007" title="June 2007 Poker Schedules">Next Month</a> ::
+<a href="/pokerinfo/tournamentgallery/wsop/wsop.htm" title="WSOP Information, Schedules and Reports">WSOP</a> ::
+<a href="/pokerinfo/tournamentgallery/wpt/index.htm" title="WPT Information, Schedules and Reports">WPT</a> ::
+<a href="/pokerinfo/tournamentgallery/ept/index.htm" title="EPT Information, Schedules and Reports" target="_blank">EPT</a> ::
+<a href="/pokerinfo/tournamentgallery/ppt/index.htm" title="PPT Information, Schedules and Reports">PPT</a> ::
+<a href="http://www.pokerschoolonline.com" title="Poker School Online" target="_blank">PSO</a> </div>
+<table cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td valign="top" class="left_td">
 
-	<table width="950" border="0" cellspacing="1" cellpadding="0" bgcolor="black" height="128"><tbody><tr><td align="left" valign="top" width="477"><table width="477" height="128" border="0" cellspacing="0" cellpadding="0"><tbody><tr height="128"><td width="477" height="128" bgcolor="#000000"><a href="/index.htm"><img src="/templates/bluegel_2G/grafix/pp_alt_logo.jpg" border="0" width="477" alt="logo" height="128"></a><br></td></tr></tbody></table></td><td align="left" valign="top" width="470"><table width="468" border="0" cellspacing="0" cellpadding="0" height="60"><tbody><tr><td align="center" valign="middle"><a href="http://www2.pokerpages.com/adservernew/adclick.php?bannerid=2362&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fwww.doylesroom.com%2F%3Frefid%3Dpkrpages" target="_blank"><img src="http://www2.pokerpages.com/adservernew/adimage.php?filename=468x60_doyle.gif&amp;contenttype=gif" width="468" height="60" alt="DoylesRoom" title="DoylesRoom" border="0"></a><div id="beacon_2362" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www2.pokerpages.com/adservernew/adlog.php?bannerid=2362&amp;clientid=553&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=e27cd6bc9d8b013bce99e277eaca4d49" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></td></tr></tbody></table>
+<div class="Color01Title">
+Resources
+</div>
 
-<table width="470" height="66" border="0" cellspacing="1" cellpadding="0" bgcolor="black"><tbody><tr><td height="66" align="left" valign="middle" bgcolor="#000000">
-
-<style>
-a.authorlinkUp:link {color:#6699ff;text-decoration:underline;font-size:13px;font-weight:bold;font-family:arial,sans-serif;}
-a.authorlinkUp:hover {color:#ffffff;text-decoration:underline;font-size:13px;font-weight:bold;font-family:arial,sans-serif;}
-a.authorlinkUp:active {color:#6699ff;text-decoration:underline;font-size:13px;font-weight:bold;font-family:arial,sans-serif;}
-a.authorlinkUp:visited {color:#6699ff;text-decoration:underline;font-size:13px;font-weight:bold;font-family:arial,sans-serif;}
-</style>
-
-		
-<!--
-ALTERNATE HTML CONTENT CAN GO HERE, I HAVE NOT DONE ANYTHING
-TO PULL THE LATEST TOURNAMENT YET
--->
-
-
-</td></tr></tbody></table>
-</td></tr></tbody></table>
-
-
-		<!-- ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| TOP LOGO AND BANNER AD - TABLE END ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
-
-			<div class="topmenu">
-			<a href="/index.htm" class="mainlevel">Home</a>
-			<a href="/tournament/index.htm" class="mainlevel">Worldwide Tournaments</a>
-			<a href="/directory/index.php3" class="mainlevel">Cardroom Directory</a>
-			<a href="/articles/archives/index.htm" class="mainlevel">Poker Articles</a>
-			<a href="/players/lists/worlds-top-players.htm" class="mainlevel">Poker Players</a>
-			<a href="/pokerinfo/index.htm" class="mainlevel">Poker Information</a>
-			<a href="/poker-software/leagues/leaderboards.htm" class="mainlevel">Poker League</a>
-			<a href="/poker-software/index.htm" class="mainlevel">Freeplay Poker</a>
-			</div>
-
-			<div class="chromebar"></div>
-
-
-
-		<!-- ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| BODY - TABLE START ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
-
-
-		<table width="950" cellspacing="0" cellpadding="0" border="0" background="/templates/bluegel_2G/grafix/pp_defaultpg_bg.gif">
-			<tbody><tr>
-				<td width="140" align="center" valign="top" class="adcolumn_left">
-
-					
-<div style="width:120px;">
-
-
-<div class="sidetitles" style="width:120px; margin-top:5px;">Top News</div>
-<div class="sidelinks2" style="width:120px;margin-top:2px;">
-<a href="/poker-news/news/seminole-tribe-buys-hard-rock-poker--gambling-holdings-go-global-29410.htm" style="color:#FFFFFF">Seminole Tribe buys Hard Rock, Poker &amp;...</a><div class="dottedspacer"></div>
-<a href="/poker-news/news/pacific-poker-owner-888com-close-to-takeover-by-ladbrokes-29407.htm" style="color:#FFFFFF">Pacific Poker owner 888.com close to...</a><div class="dottedspacer"></div>
-<a href="/poker-news/news/wsop-poker-host--harrahs-weighs-buyout-offers-wed-29406.htm" style="color:#FFFFFF">WSOP Poker host- Harrah's Weighs Buyout...</a></div>
-
-
-<div class="sidetitles" style="width:120px; margin-top:5px;">Top Tournaments</div>
-<div class="sidelinks2" style="width:120px;margin-top:2px;margin-bottom:5px;">
-<a href="/tournament/schedule2499.htm" style="color:#FFFFFF">Trump Classic Poker</a><div class="dottedspacer"></div>
-<a href="/tournament/schedule2153.htm" style="color:#FFFFFF">Bellagio Five Diamond World Poker...</a><div class="dottedspacer"></div>
-<a href="/tournament/schedule2315.htm" style="color:#FFFFFF">Harrah�s Atlantic City Poker Tournament...</a></div>
-
-
-
-<div align="center" style="margin-top:6px;margin-bottom:3px;"><a href="http://www2.pokerpages.com/adservernew/adclick.php?bannerid=2467&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fwww.pokerstars.com%2F%3Fsource%3Dpokerpages.com" target="_blank"><img src="http://www.pokerstars.com/static-banners/120x600.gif" width="120" height="600" alt="PokerStars" title="PokerStars" border="0"></a><div id="beacon_2467" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www2.pokerpages.com/adservernew/adlog.php?bannerid=2467&amp;clientid=547&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=ede40220c21740c523e5934a8b87eb09" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></div>
-
-<table width="120" bgcolor="#000000" cellpadding="0" cellspacing="0" border="0" style="margin-top:3px;"><tbody><tr><td align="center" valign="middle"><img src="/templates/bluegel_2G/grafix/pp_newsletterheader.gif" width="120" height="54" border="0" alt="Poker Newsletter"></td></tr><tr>
-<form name="signup" method="post" action="http://www2.pokerpages.com/newsletter/newsletter-form.php3"></form><td align="center">
-<img src="/templates/bluegel_2G/grafix/clear.gif" width="1" height="30" border="0" alt="Spacer" align="left">
-<table><tbody><tr><td>
-<input type="text" name="email" size="8" class="newsletter_input" value="E-mail Address" onfocus="signup.email.select()" onclick="signup.email.select()" style="width:93px;">
-<input type="hidden" name="sum" value="1"></td></tr><tr><td align="center">
-<input type="submit" value="subscribe" name="submit" class="newsletter_go"></td></tr></tbody></table>
-<a href="/newsletter/back-issues-index.htm" class="newsletter_link2">View Archives &gt;&gt;</a><br>
-<img src="/templates/bluegel_2G/grafix/clear.gif" width="1" height="3" border="0" alt="Spacer" align="left">
-</td></tr></tbody></table>
-
-
+<div class="padded sidetext">
 
 						
 
-<center><div class="sidetitles">Basic Info</div><img src="/design/graphics/blank.gif" width="128" height="2" border="0" alt=""><div class="sidelinks">
-<a href="/pokerinfo/rules.htm">The Rules</a><br>
+<div class="sidetitles">Basic Info</div><div class="sidelinks">
+<a href="/pokerinfo/rules.htm">Poker Rules</a><br>
   <a href="/pokerinfo/rank/index.htm">Ranking of Hands</a><br>
   <a href="/pokerinfo/glossary/glossary-a.htm">Poker Glossary</a><br>
   <a href="/pokerinfo/history.htm">History of Poker</a><br>
@@ -312,19 +122,18 @@ TO PULL THE LATEST TOURNAMENT YET
   <a href="/pokerinfo/tda/index.htm">TDA Rules</a><br>
   <a href="/articles/homepoker/index.htm">Home Poker</a>
 </div>
-<p>
-</p><center><div class="sidetitles">Tournament Gallery</div><img src="/design/graphics/blank.gif" width="128" height="2" border="0" alt=""><div class="sidelinks">
+
+<div class="sidetitles">Tournament Gallery</div><div class="sidelinks">
 <a href="/pokerinfo/tournamentgallery/wsop/wsop.htm">World Series</a><br>
 <a href="/pokerinfo/tournamentgallery/wpt/">World Poker Tour</a><br>
 <a href="/pokerinfo/tournamentgallery/wpo.htm">World Poker Open</a><br>
 </div>
-<p>
-</p><center><div class="sidetitles">Research</div><img src="/design/graphics/blank.gif" width="128" height="2" border="0" alt=""><div class="sidelinks">
+
+<div class="sidetitles">Research</div><div class="sidelinks">
 <a href="/pokerinfo/videos.htm">Videos and Audios</a><br>
 <a href="/pokerinfo/casinoprofiles/">Casino Profiles</a><br>
 <a href="/pokerinfo/pokerchips/index.htm">Poker Chips</a><br>
 </div>
-<p>
 
 
 
@@ -332,34 +141,99 @@ TO PULL THE LATEST TOURNAMENT YET
 
 
 
-<!-- Search Google -->
-</p><form method="GET" action="http://www.google.com/custom">
-<input type="hidden" name="cof" value="T:#013366;LW:468;BIMG:http://www.pokerpages.com/images/bg-fallingcards.gif;ALC:#0033CC;L:http://www.pokerpages.com/images/ads/ppbanner-468.gif;LC:#0033FF;LH:60;AH:center;VLC:#660033;GL:1;AWFID:aa73cfd900e82fad;">
-<input type="hidden" name="domains" value="pokerpages.com">
-<span class="RedB">Search:<br>
-<input type="radio" name="sitesearch" value="pokerpages.com" checked=""> Poker Pages<br>
-<input type="radio" name="sitesearch" value=""> The Internet</span><br>
-<input type="text" name="q" size="8" maxlength="255" value="">
-<input type="image" src="/images/go.gif" width="16" height="16" border="0" alt="Go!"><br>
-</form>
-<!-- Search Google -->
-</center>
 
 
-					</center></center></div></td>
-					<td width="670" align="left" valign="top" class="mainfp_content">
 
-			<!-- ++++++++++++++++++++++++++++++ TOURNAMENT INFO - TABLE START ++++++++++++++++++++++++++++++ -->
 
-			<div class="tournmenu">
 
-					<div align="center" class="mainlevel3">Poker Tournament Info:
-				<a href="/tournament/index.htm" class="mainlevel3">Daily Results</a>  ::  <a href="/tournament/recentschedules.php3" class="mainlevel3">New Schedules</a>  ::  <a href="/tournament/majorlisting.php3?Month=11&amp;Year=2006" class="mainlevel3">Last Month</a>  ::  <a href="/tournament/majorlisting.php3?Month=12&amp;Year=2006" class="mainlevel3">This Month</a>  ::  <a href="/tournament/majorlisting.php3?Month=1&amp;Year=2007" class="mainlevel3">Next Month</a>
-			</div>
+</div>
 
-			</div>
 
-		<table width="670" cellspacing="0" cellpadding="20" border="0"><tbody><tr><td bgcolor="#D1E5FF"><!-- MAIN COLUMN -->
+<div class="Color02Title">
+Online Poker
+</div>
+<div style="background:#ffffff;padding-left:5px;padding-right:5px;">
+<img src="http://www.pokerpages.com/images/blank.gif" width="0" height="0" alt="" title="" border="0"><div id="beacon_2849" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.pokerpages.com/adservernew/adlog.php?bannerid=2849&amp;clientid=554&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=4aa86248b685160eca3541dd0e9c29b9" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div><a href="http://www.pokerpages.com/adservernew/adclick.php?bannerid=2850&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fwww.e-pokerusa.com%2Fwebsite%2Fdefault.aspx%3Fcbid%3D46_335" target="_blank"><img src="http://www.pokerpages.com/adservernew/adimage.php?filename=135x35_logo_white2_copy.jpg&amp;contenttype=jpeg" width="135" height="35" alt="ePokerUSA" title="ePokerUSA" border="0"></a><div id="beacon_2850" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.pokerpages.com/adservernew/adlog.php?bannerid=2850&amp;clientid=554&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=b7f5bd846dcb1413561b5e6b82a30174" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div><br><a href="http://www.pokerpages.com/adservernew/adclick.php?bannerid=2848&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fwww.e-pokerusa.com%2Fwebsite%2Fdefault.aspx%3Fcbid%3D46_335" target="_blank" class="sidetitlelink">USA-Legally Play $$ Hold'em 
+Poker at e-PokerUSA.com 
+</a><div id="beacon_2848" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.pokerpages.com/adservernew/adlog.php?bannerid=2848&amp;clientid=554&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=e13c4ebe35ff70dda22b0996e966dad2" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div>&nbsp;<hr><img src="http://www.pokerpages.com/images/blank.gif" width="0" height="0" alt="" title="" border="0"><div id="beacon_2853" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.pokerpages.com/adservernew/adlog.php?bannerid=2853&amp;clientid=56857&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=33f5f49d90a7cb87f9c00482e552188a" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div><a href="http://www.pokerpages.com/adservernew/adclick.php?bannerid=2854&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fwww.bodog.com%2Fwelcome%2F142156-BE0C%2Fpoker" target="_blank"><img src="http://www.bodogaffiliate.com/resources/banners/logos/135x35/135x35-bodog-logo-a.gif" width="135" height="35" alt="Bodog" title="Bodog" border="0"></a><div id="beacon_2854" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.pokerpages.com/adservernew/adlog.php?bannerid=2854&amp;clientid=56857&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=e9025f55227957dc7d64314d61bd4f61" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div><br><a href="http://www.pokerpages.com/adservernew/adclick.php?bannerid=2855&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fwww.bodog.com%2Fwelcome%2F142156-BE0C%2Fpoker" target="_blank" class="sidetitlelink">Texas Holdem- Play poker<br>
+online at Bodog PokerRoom!</a><div id="beacon_2855" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.pokerpages.com/adservernew/adlog.php?bannerid=2855&amp;clientid=56857&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=50820f99ba29a9f4de059078361af47e" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div>&nbsp;<hr><img src="http://www.pokerpages.com/images/blank.gif" width="0" height="0" alt="" title="" border="0"><div id="beacon_2835" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.pokerpages.com/adservernew/adlog.php?bannerid=2835&amp;clientid=547&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=a4647e5055cdeb1343b0a07babd52a1c" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div><a href="http://www.pokerpages.com/adservernew/adclick.php?bannerid=2836&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fwww.pokerstars.com%2F%3Fsource%3Dpokerpages.com" target="_blank"><img src="http://www.pokerpages.com/adservernew/adimage.php?filename=pscom_logo_135x35.gif&amp;contenttype=gif" width="135" height="35" alt="PokerStars" title="PokerStars" border="0"></a><div id="beacon_2836" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.pokerpages.com/adservernew/adlog.php?bannerid=2836&amp;clientid=547&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=b87187cfe915b0672c42b76aa604da66" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div><br><a href="http://www.pokerpages.com/adservernew/adclick.php?bannerid=2837&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fwww.pokerstars.com%2F%3Fsource%3Dpokerpages.com" target="_blank" class="sidetitlelink">Tourneys, WSOP Satellites 
+&amp; FREE Poker-at PokerStars</a><div id="beacon_2837" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.pokerpages.com/adservernew/adlog.php?bannerid=2837&amp;clientid=547&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=3ef31d43a10c4b1dc9123401232c1502" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div>&nbsp;<hr><img src="http://www.pokerpages.com/images/blank.gif" width="0" height="0" alt="" title="" border="0"><div id="beacon_2893" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.pokerpages.com/adservernew/adlog.php?bannerid=2893&amp;clientid=548&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=e528c5a01dea2a361aace61cd9433d5f" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div><a href="http://www.pokerpages.com/adservernew/adclick.php?bannerid=2895&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Faffiliates.pokerpages.com%2Fprocessing%2Fclickthrgh.asp%3Fbtag%3Da_2967b_76" target="_blank"><img src="http://www.pokerpages.com/adservernew/adimage.php?filename=pso-icon.gif&amp;contenttype=gif" width="135" height="35" alt="" title="" border="0"></a><div id="beacon_2895" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.pokerpages.com/adservernew/adlog.php?bannerid=2895&amp;clientid=548&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=74da17c5e3641b49e8b63f798a506a19" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div><br><a href="http://www.pokerpages.com/adservernew/adclick.php?bannerid=2894&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Faffiliates.pokerpages.com%2Fprocessing%2Fclickthrgh.asp%3Fbtag%3Da_2967b_76" target="_blank" class="sidetitlelink">Click Here to Play TJ Cloutier
+at PokerSchoolOnline.com 
+
+</a><div id="beacon_2894" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.pokerpages.com/adservernew/adlog.php?bannerid=2894&amp;clientid=548&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=8c48d66b789e5594be8e3da104204a7d" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div>&nbsp;<hr><img src="http://www.pokerpages.com/images/blank.gif" width="0" height="0" alt="" title="" border="0"><div id="beacon_2858" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.pokerpages.com/adservernew/adlog.php?bannerid=2858&amp;clientid=555&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=cae42ee1aec832e5adc47a0275e21e31" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div><a href="http://www.pokerpages.com/adservernew/adclick.php?bannerid=2860&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fwww.fulltiltpoker.com%2F%3Fkey%3DMDAwMDAwMDAwMDAwMDAwMjAwMDAxRkFBMDAwMDIxODU-" target="_blank"><img src="http://www.pokerpages.com/adservernew/adimage.php?filename=135x35_3.gif&amp;contenttype=gif" width="135" height="35" alt="Full Tilt" title="Full Tilt" border="0"></a><div id="beacon_2860" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.pokerpages.com/adservernew/adlog.php?bannerid=2860&amp;clientid=555&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=db5044dca8543addade9f3d5280cd421" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div><br><a href="http://www.pokerpages.com/adservernew/adclick.php?bannerid=2859&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fwww.fulltiltpoker.com%2F%3Fkey%3DMDAwMDAwMDAwMDAwMDAwMjAwMDAxRkFBMDAwMDIxODc-" target="_blank" class="sidetitlelink">100% Sign up bonus<br> 
+up to $600 at Full Tilt Poker
+</a><div id="beacon_2859" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.pokerpages.com/adservernew/adlog.php?bannerid=2859&amp;clientid=555&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=d37b1e0dbd3cee05af946c22a96757e9" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div>&nbsp;<hr><img src="http://www.pokerpages.com/images/blank.gif" width="0" height="0" alt="" title="" border="0"><div id="beacon_2887" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.pokerpages.com/adservernew/adlog.php?bannerid=2887&amp;clientid=551&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=c71250e51cd9a12fc1eb7da99565e91b" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div><a href="http://www.pokerpages.com/adservernew/adclick.php?bannerid=2889&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fwww.bugsysclub.com%2Fclub%2Fregister%2Fbcregister02.htm%3Faid%3D71284" target="_blank"><img src="http://www.pokerpages.com/adservernew/adimage.php?filename=bc-icon.gif&amp;contenttype=gif" width="135" height="35" alt="" title="" border="0"></a><div id="beacon_2889" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.pokerpages.com/adservernew/adlog.php?bannerid=2889&amp;clientid=551&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=7be89b68560e762ae59dd1feddfba402" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div><br><a href="http://www.pokerpages.com/adservernew/adclick.php?bannerid=2888&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fwww.bugsysclub.com%2Fclub%2Fregister%2Fbcregister02.htm%3Faid%3D71284" target="_blank" class="sidetitlelink">$1,000 Free at Bugsysclub<br>
+150% First Deposit Bonus !</a><div id="beacon_2888" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.pokerpages.com/adservernew/adlog.php?bannerid=2888&amp;clientid=551&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=c1099a0fd2c0b62aaa5f43c2465225d6" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div>&nbsp;<hr><br>
+
+
+
+</div>
+
+<div class="Color01Title">
+Poker News
+</div>
+
+<div class="padded">
+
+<div class="sidetitles">Blog Coverage</div><div class="sidelinks">
+
+		  <a href="http://news.pokerpages.com/index.php?option=com_simpleblog&amp;task=userView&amp;userid=122"><img src="/images/icon-cloutier.gif" alt="T.J. Cloutier" width="45" height="40" border="0" align="left"></a><a href="http://news.pokerpages.com/index.php?option=com_simpleblog&amp;task=userView&amp;userid=122">T.J. Cloutier</a><br><br><br>Tue, May 15, 2007 - 03:33pm CDT<br><a href="http://news.pokerpages.com/index.php?option=com_simpleblog&amp;task=view&amp;id=2170">From Texas to the World</a><br>
+</div>
+
+
+
+<br><br>
+
+
+
+<div class="sidetitles">Top News</div><div class="sidelinks">
+
+<a href="/poker-news/news/queen-of-hearts-team-helps-cancerheart-orgs-at-2007-wsop-29714.htm" class="left_td02">Queen of Hearts Team Helps Cancer/Heart...</a><br><a href="/poker-news/news/louisiana-passes-bill-for-poker-tournaments-in-bars-29716.htm" class="left_td02">Louisiana Passes Bill for Poker...</a><br><a href="/poker-news/news/poker-players-alliance-chairman-alfonse-damato-says-barney-franks-bill-efforts-are-heroic---29713.htm" class="left_td02">Poker Players Alliance Chairman Alfonse...</a><br></div>
+
+<br><br>
+
+<div class="sidetitles">Top Tournaments</div><div class="sidelinks">
+
+<a href="/tournament/schedule2745.htm" class="left_td02">Heavenly Hold'em</a><br><a href="/tournament/schedule2692.htm" class="left_td02">Mirage Poker Showdown / WPT Event Season...</a><br><a href="/tournament/schedule2322.htm" class="left_td02">Harrah’s New Orleans  Poker Tournament -...</a><br>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+</td>
+
+
+
+<td valign="top" class="center_td">
+
+<div style="border-top:5px solid #ffffff;">
+<div class="center">
+
+
+
+
+
+
+<!-- MAIN COLUMN -->
 
 <h1>PokerPages</h1>
 
@@ -419,173 +293,120 @@ PokerPages is committed to respecting your choices regarding privacy.
 </li></ul>
 <p>
 
-</p></td></tr></tbody></table>
-
-<p> 
-
-
-
-					</p></td>
-					<td width="140" align="center" valign="top" id="4thcol" background="/templates/bluegel_2G/grafix/pp_sidemenu_bg.gif" class="adcolumn_right">
-
-		<!-- ///////////////////////////////////////// RIGHT SIDE ADS - START \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
-
-
-		
-
-
-<div align="center" width="127" style="margin-top:5px;margin-bottom:2px;margin-left:2px;">
-
-<script language="JavaScript"><!--
-function popUp(pPage) {
- popUpWin = window.open(pPage,'popWin','toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=1,titlebar=0,width=790,height=485,left=0,top=0');
- }
-// -->
-</script>
-
-<style>
-a.newbuttons:link {line-height:29px;color:#ffffff;text-decoration:none;font-size:12px;font-weight:bold;font-family:arial,sans-serif;}
-a.newbuttons:hover {line-height:29px;color:#ccffff;text-decoration:underline;font-size:12px;font-weight:bold;font-family:arial,sans-serif;}
-a.newbuttons:active {line-height:29px;color:#6699ff;text-decoration:underline;font-size:12px;font-weight:bold;font-family:arial,sans-serif;}
-a.newbuttons:visited {line-height:29px;color:#ffffff;text-decoration:none;font-size:12px;font-weight:bold;font-family:arial,sans-serif;}
-</style>
-<table cellspacing="0" cellpadding="0" border="0" style="margin-bottom:3px;">
-<tbody><tr>
-<td width="127" height="29" align="center" valign="middle" style="background:url('/images/blue_btn_bg.gif')">
-<a href="javascript:popUp('/video/')" class="newbuttons">WSOP Video</a>
+</p></div>
+</div>
 </td>
-</tr>
-
-<tr>
-<td width="127" height="29" align="center" valign="middle" style="background:url('/images/blue_btn_bg.gif')">
-<a href="http://gallery.pokerpages.com/" target="_top" class="newbuttons">Poker Gallery</a>
-</td>
-</tr>
-<tr>
-<td width="127" height="29" align="center" valign="middle" style="background:url('/images/blue_btn_bg.gif')">
-<a href="/interactive/pokerforum/index.php" target="_top" class="newbuttons">Poker Forums</a>
-</td>
-</tr>
-
-</tbody></table>
-<div style="background: #AADDFF url(/pp_scroller/pp_scroller_header.gif);" class="marque_header">Tournaments</div>
 
 
-<div class="marque_header"><marquee behavior="scroll" direction="up" height="134" width="121" scrollamount="1" scrolldelay="90" truespeed="" onmouseover="this.stop()" onmouseout="this.start()">
 
-<table>
-<tbody><tr class="marque_row"><td class="marque_col1"><span class="marque_line1">SKILL LEAGUE 3000 BBP GTD</span><br><span class="marque_line2">Freeroll Starts in 19 mins.</span></td></tr> 
-<tr class="marque_row"><td class="marque_col1"><span class="marque_line1">SAT-$1,200 GTD BOUNTY HUNTER</span><br><span class="marque_line2">6.60 BBP Starts in 39 mins.</span></td></tr> 
-<tr class="marque_row"><td class="marque_col1"><span class="marque_line1">Freeroll REBUY SAT-SAT-$10K GTD SUNDAY SHOWDOWN</span><br><span class="marque_line2"> Starts in 59 mins.</span></td></tr> 
-<tr class="marque_row"><td class="marque_col1"><span class="marque_line1">BBP BOUNTY HUNTER</span><br><span class="marque_line2"> Starts in 1 hr. 19 mins.</span></td></tr> 
-<tr class="marque_row"><td class="marque_col1"><span class="marque_line1">No Limit Holdem</span><br><span class="marque_line2">Freeroll Starts in 1 hr. 49 mins.</span></td></tr> 
-<tr class="marque_row"><td class="marque_col1"><span class="marque_line1">SKILL LEAGUE 5000 BBP GTD</span><br><span class="marque_line2">Freeroll Starts in 2 hrs. 19 mins.</span></td></tr> 
-<tr class="marque_row"><td class="marque_col1"><span class="marque_line1">No Limit Holdem</span><br><span class="marque_line2">Freeroll Starts in 2 hrs. 49 mins.</span></td></tr> 
-</tbody></table>
 
-</marquee>
-</div><a href="http://www2.pokerpages.com/adservernew/adclick.php?bannerid=2187&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fwww2.pokerpages.com%2Fpoker-software%2Findex.htm" target="_blank"><img src="http://www2.pokerpages.com/adservernew/adimage.php?filename=banner-2187.gif&amp;contenttype=gif" width="127" height="70" alt="" title="" border="0"></a><div id="beacon_2187" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www2.pokerpages.com/adservernew/adlog.php?bannerid=2187&amp;clientid=563&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=e06a68a562d34ab13227f38dfaa7170e" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div>
+
+<td valign="top" class="right_td">
+<a href="/poker-software/"><img src="/templates/bluegel_2G/images/download-side02.gif" width="140" height="38" border="0" alt="Download Poker Software"></a>
+<div class="padded">
+<div class="sidetitles">Featured</div><div class="sidelinks">
+<a href="/pokerinfo/videos.htm">Poker Videos</a><br>
+<a href="http://gallery.pokerpages.com/" title="Poker Players, Tournament Photos">Poker Gallery</a><br>
+<a href="/interactive/pokerforum/index.php" title="Poker Forums">Poker Forums</a><br>
+<a href="/poker-software/" title="Download Freeplay Poker Software">Download Poker</a><br>
+</div>
+<br>
+
+
+
+
+
+
+
+<div class="sidebanner"><a href="http://www.pokerpages.com/adservernew/adclick.php?bannerid=2720&amp;zoneid=0&amp;source=&amp;dest=+http%3A%2F%2Fwww.bugsysclub.com%2Fbugsysclub%2Fcontent%2Fview%2F205%3Faid%3D90534" target="_blank"><img src="http://www.pokerpages.com/adservernew/adimage.php?filename=120x600-bugsys2-dark_2.jpg&amp;contenttype=jpeg" width="120" height="600" alt="Bugsys Challenge" title="Bugsys Challenge" border="0"></a><div id="beacon_2720" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.pokerpages.com/adservernew/adlog.php?bannerid=2720&amp;clientid=551&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=f2600b9d957b78bb4c96242e49e8e617" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></div> 
+
+
+<br>
+
+
+
+<div class="sidebanner"><a href="http://www.pokerpages.com/adservernew/adclick.php?bannerid=2082&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fwww.pokerstars.com%2F%3Fsource%3Dpokerpages.com" target="_blank"><img src="http://www.pokerstars.com/bnrs/current/120x60.gif" width="120" height="60" alt="PokerStars" title="PokerStars" border="0"></a><div id="beacon_2082" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.pokerpages.com/adservernew/adlog.php?bannerid=2082&amp;clientid=547&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=038b84957f99f81c6e7d24715e07769e" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></div>
+
+<div class="sidebanner"><a href="http://www.pokerpages.com/adservernew/adclick.php?bannerid=2729&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fwww.bugsysclub.com%2Fclub%2Fregister%2Fbcregister02.htm%3Faid%3D84050" target="_blank"><img src="http://www.pokerpages.com/adservernew/adimage.php?filename=120banner06.gif&amp;contenttype=gif" width="120" height="60" alt="BugsysClub" title="BugsysClub" border="0"></a><div id="beacon_2729" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.pokerpages.com/adservernew/adlog.php?bannerid=2729&amp;clientid=551&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=7600a08a5aabfb2354dfab12ff388c84" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></div> 
+
+<div class="sidebanner"><a href="http://www.pokerpages.com/adservernew/adclick.php?bannerid=2637&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fwww.fulltiltpoker.com%2F%3Fkey%3DMDAwMDAwMDAwMDAwMDAwMjAwMDAxRkFBMDAwMDIxODQ-" target="_blank"><img src="http://www.pokerpages.com/adservernew/adimage.php?filename=120x60_aggressive.gif&amp;contenttype=gif" width="120" height="60" alt="Full Tilt" title="Full Tilt" border="0"></a><div id="beacon_2637" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.pokerpages.com/adservernew/adlog.php?bannerid=2637&amp;clientid=555&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=f6254aba303731b2a2658e4e2c6f94c0" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></div> 
+
+<div class="sidebanner"><a href="http://www.pokerpages.com/adservernew/adclick.php?bannerid=2787&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fwww.fulltiltpoker.com%2F%3Fkey%3DMDAwMDAwMDAwMDAwMDAwMzAwMDAwMDdCMDAwMDA0QjY-" target="_blank"><img src="http://www.pokerpages.com/adservernew/adimage.php?filename=wsop_120x60.gif&amp;contenttype=gif" width="120" height="60" alt="Full Tilt Poker" title="Full Tilt Poker" border="0"></a><div id="beacon_2787" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.pokerpages.com/adservernew/adlog.php?bannerid=2787&amp;clientid=555&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=4c61a4243b0856e8ab098843260a9467" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></div> 
+
+<div class="sidebanner"><a href="http://www.pokerpages.com/adservernew/adclick.php?bannerid=2413&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fwww.fulltiltpoker.com%2F%3Fkey%3DMDAwMDAwMDAwMDAwMDAwMjAwMDAxRkFBMDAwMDIxODM-" target="_blank"><img src="http://i.fulltiltpoker.com/images/aff/advertising/pokerpages_one_120x60.gif" width="120" height="60" alt="Full Tilt Poker" title="Full Tilt Poker" border="0"></a><div id="beacon_2413" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.pokerpages.com/adservernew/adlog.php?bannerid=2413&amp;clientid=555&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=7df4004dad201670d5d5700858e69572" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></div> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 </div>
-
-<a href="http://www2.pokerpages.com/adservernew/adclick.php?bannerid=2594&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fwww.e-pokerusa.com%2Fwebsite%2Fdefault.aspx%3Fcbid%3D46_146" target="_blank" class="sidemenu_links">Win Free Trip<br>
-to $10,000 Hold'em<br>
-Tournament!</a><div id="beacon_2594" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www2.pokerpages.com/adservernew/adlog.php?bannerid=2594&amp;clientid=554&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=4149319fd1ab300015075224b29e0861" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div><p>
-<a href="http://www2.pokerpages.com/adservernew/adclick.php?bannerid=2527&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fwww.pkr.com%3FCampaignId%3D1628" target="_blank" class="sidemenu_links">PKR- the future<br>
-of online poker<br>
-is here</a></p><div id="beacon_2527" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www2.pokerpages.com/adservernew/adlog.php?bannerid=2527&amp;clientid=559&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=bb799270a338c1b1c126fd630a4b5e83" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div><p>
-<a href="http://www2.pokerpages.com/adservernew/adclick.php?bannerid=2564&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fad.adlegend.com%2Fclick%3Fspacedesc%3D1032421_1015382_1x1_1001533_1001195%26F19%3D1001537%26bfid%3D" target="_blank" class="sidemenu_links">WPX - <br>
-Home of <br>
-No Rake Poker</a></p><div id="beacon_2564" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www2.pokerpages.com/adservernew/adlog.php?bannerid=2564&amp;clientid=56798&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=4d141d6526c458be196fb03232f71850" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div><p>
-<a href="http://www2.pokerpages.com/adservernew/adclick.php?bannerid=2376&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fwww.pokerstars.com%2F%3Fsource%3Dpokerpages.com" target="_blank" class="sidemenu_links">$2.5 Million <br>
-FREEROLL<br> 
-at PokerStars
-
-</a></p><div id="beacon_2376" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www2.pokerpages.com/adservernew/adlog.php?bannerid=2376&amp;clientid=547&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=e18176bdd36bbd89adfff300a11b244b" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div><p>
-<a href="http://www2.pokerpages.com/adservernew/adclick.php?bannerid=2361&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fwww.doylesroom.com%2F%3Frefid%3Dpkrpages" target="_blank" class="sidemenu_links">Play Doyle Brunson<br>
-$4,000,000 in <br>
-Monthly Prizes</a></p><div id="beacon_2361" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www2.pokerpages.com/adservernew/adlog.php?bannerid=2361&amp;clientid=553&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=ee524e4c0a7ce447b36e1211f2981ec5" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div><p>
-<a href="http://www2.pokerpages.com/adservernew/adclick.php?bannerid=1478&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fwww.pokerschoolonline.com%2F" target="_blank" class="sidemenu_links"><b>$50,000<br>
-Sponsorships at</b>
-<font color="red">PokerSchoolOnline</font></a></p><div id="beacon_1478" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www2.pokerpages.com/adservernew/adlog.php?bannerid=1478&amp;clientid=548&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=48ad064b884516d12cc536f6dcb8da67" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div><p>
-<a href="http://www2.pokerpages.com/adservernew/adclick.php?bannerid=2464&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Faltfarm.mediaplex.com%2Fad%2Fck%2F7768-41910-9124-3" target="_blank" class="sidemenu_links">Be on TV-<br>
-Elimination<br>
-Blackjack!</a></p><div id="beacon_2464" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www2.pokerpages.com/adservernew/adlog.php?bannerid=2464&amp;clientid=550&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=edb2a65ccc810162fb58b725fd1f10ff" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div><p>
-<a href="http://www2.pokerpages.com/adservernew/adclick.php?bannerid=2577&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fwww.fulltiltpoker.com%2F%3Fkey%3DMDAwMDAwMDAwMDAwMDAwMTEwMTA0MDIxMDAxMDAwMDE-" target="_blank" class="sidemenu_links">Play Online Poker<br>
- at<br>
-Full Tilt Poker</a></p><div id="beacon_2577" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www2.pokerpages.com/adservernew/adlog.php?bannerid=2577&amp;clientid=555&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=b6d84c87a50cadc99b92731bb416657e" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div><p>
-<a href="http://www2.pokerpages.com/adservernew/adclick.php?bannerid=2438&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fwww.comeoutpoker.com%3Faid%3D28621" target="_blank" class="sidemenu_links">$10,000 FREEROLL<br>
-at first GLBT site<br>
-ComeOutPoker.com </a></p><div id="beacon_2438" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www2.pokerpages.com/adservernew/adlog.php?bannerid=2438&amp;clientid=552&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=603e6f224a73ca8ba975c0e55cfa18e5" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div><p>
-<a href="http://www2.pokerpages.com/adservernew/adclick.php?bannerid=2348&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fwww.bugsysclub.com%2Fclub%2Fregister%2Fbcregister02.htm%3Faid%3D58434" target="_blank" class="sidemenu_links"><c><b>$25,000<br>
-Ring Game<br>
-Challenge</b></c>
-</a></p><div id="beacon_2348" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www2.pokerpages.com/adservernew/adlog.php?bannerid=2348&amp;clientid=551&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=8551d5c870fdcaeacaa8e6d15a6b1908" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div><p>
+</td>
 
 
-<table width="120" height="600" cellspacing="0" cellpadding="0" border="0" align="center" style="margin-top:4px;margin-bottom:4px;"><tbody><tr><td align="center" valign="middle" bgcolor="#000000"><a href="http://www2.pokerpages.com/adservernew/adclick.php?bannerid=2552&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fwww.holdemblackjack.com" target="_blank"><img src="http://www2.pokerpages.com/adservernew/adimage.php?filename=ultra2_en_120x600_2.gif&amp;contenttype=gif" width="120" height="600" alt="HoldemBlackJack" title="HoldemBlackJack" border="0"></a><div id="beacon_2552" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www2.pokerpages.com/adservernew/adlog.php?bannerid=2552&amp;clientid=577&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=34bd28da0df0d5da7cdbf997d10d8765" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></td></tr></tbody></table>
-
-<table border="0" cellspacing="2" cellpadding="0" width="120">
-<tbody><tr><td>
-<a href="http://www2.pokerpages.com/adservernew/adclick.php?bannerid=2563&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fad.adlegend.com%2Fclick%3Fspacedesc%3D1072406_1019906_120x60_1001533_1001193%26F19%3D1001537%26bfid%3D%26ML_NIF%3DN" target="_blank"><img src="http://ad.adlegend.com/image?spacedesc=1072406_1019906_120x60_1001533_1001193&amp;F19=1001537&amp;bfid=&amp;ML_NIF=N" width="120" height="60" alt="WSEX" title="WSEX" border="0"></a><div id="beacon_2563" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www2.pokerpages.com/adservernew/adlog.php?bannerid=2563&amp;clientid=56798&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=7483bc3b82bb6c385fa943c7e6155666" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></td></tr>
-<tr><td>
-<a href="http://www2.pokerpages.com/adservernew/adclick.php?bannerid=2582&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fwww.doylesroom.com%2F%3Frefid%3Dpkrpages" target="_blank"><img src="http://www2.pokerpages.com/adservernew/adimage.php?filename=120x60_safe.gif&amp;contenttype=gif" width="120" height="60" alt="Doylesroom" title="Doylesroom" border="0"></a><div id="beacon_2582" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www2.pokerpages.com/adservernew/adlog.php?bannerid=2582&amp;clientid=553&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=31c68085d60442aa35e32b016ac53417" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></td></tr>
-<tr><td>
-<a href="http://www2.pokerpages.com/adservernew/adclick.php?bannerid=2364&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fwww.doylesroom.com%2F%3Frefid%3Dpkrpages" target="_blank"><img src="http://www2.pokerpages.com/adservernew/adimage.php?filename=120x60_2.gif&amp;contenttype=gif" width="120" height="60" alt="DoylesRoom" title="DoylesRoom" border="0"></a><div id="beacon_2364" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www2.pokerpages.com/adservernew/adlog.php?bannerid=2364&amp;clientid=553&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=6eacbc93419532b39df7b0166816ab4c" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></td></tr>
-<tr><td>
-<a href="http://www2.pokerpages.com/adservernew/adclick.php?bannerid=2530&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fwww.pkr.com%3FCampaignId%3D1628" target="_blank"><img src="http://www2.pokerpages.com/adservernew/adimage.php?filename=banner-2530.gif&amp;contenttype=gif" width="120" height="60" alt="PKR.com" title="PKR.com" border="0"></a><div id="beacon_2530" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www2.pokerpages.com/adservernew/adlog.php?bannerid=2530&amp;clientid=559&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=9ac9a88c21a4bd0349f17429e6e0bde4" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></td></tr>
-<tr><td>
-<iframe src="http://altfarm.mediaplex.com/ad/fm/7768-41910-9124-1?mpt=577309757&amp;mpvc=" width="120" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000">
-  <script language="JavaScript1.1" src="http://altfarm.mediaplex.com/ad/!js/7768-41910-9124-1?mpt=577309757&mpvc=">
-  </script>
-  <noscript>
-    <a target='_blank' href="http://www2.pokerpages.com/adservernew/adclick.php?bannerid=2590&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Faltfarm.mediaplex.com%2Fad%2Fck%2F7768-41910-9124-1%3Fmpt%3D690497534&amp;ismap=">
-  <img src="http://altfarm.mediaplex.com/ad/bn/7768-41910-9124-1?mpt=577309757"
-    alt="Ultimate Blackjack Tour">
-</a>
-  </noscript>
-</iframe><div id="beacon_2590" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www2.pokerpages.com/adservernew/adlog.php?bannerid=2590&amp;clientid=550&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=99138cffd7bbb3b60717151e7ca36ac7" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></td></tr>
+</tr>
 </tbody></table>
-</p><p>
 
 
+<div class="stripe"><div class="stripe-inner" style="text-align:center;">
 
+<a href="/ads/" target="_blank" title="Advertise on PokerPages">Advertise</a>   <a href="/pokerinfo/links.htm" title="Links">Links</a>  <a href="/legal/terms.htm" title="Terms &amp; Conditions of Use Terms">Usage Terms</a>  <a href="/legal/privacy.htm" title="Privacy Policy">Privacy Policy</a>  <a href="/legal/copyright.htm" title="Copyright Notice">Copyright Notice</a>  <a href="/sitemap.htm" title="PokerPages Site Map">Site Map</a> 
 
-		<!-- ///////////////////////////////////////// SIDE ADS - END \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+</div>
 
-		</p></td>
-	</tr>
-	</tbody></table>
+</div>
 
-<!-- ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| MAIN CONTENT - DEFAULT 3 COLUMN - TABLE END ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+<br>
+Copyright 1999-2007 Planet Ace Gibraltar Limited. All rights reserved.<br>If you or someone you know has a gambling problem, visit either:
+<a href="http://www.ncpgambling.org/" target="National Council on Problem Gambling" class="copyright">National Council on Problem Gambling</a> or <a href="http://www.gamblersanonymous.org/" target="_blank" title="Gamblers Anonymous" class="copyright">Gamblers Anonymous International Service</a> 
 
+<br><br>
 
-
-			<!-- ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| BODY - TABLE END ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
-
-
-			<div class="chromebar"></div>
-
-			<table width="950" height="30" cellspacing="0" cellpadding="0" border="0"><tbody><tr>
-					<td width="30" height="30"><img src="/templates/bluegel_2G/grafix/pp_bottmenu_1-1.gif"></td><td align="center" valign="middle" background="/templates/bluegel_2G/grafix/pp_bottmenu_1-2.gif"><span class="smalldark"><a href="http://www.pokerpages.com/ads/" class="smalldark">Advertise</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.pokerpages.com/affiliate/" class="smalldark">Affiliates</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.pokerschoolonline.com/pokerschool/refer/index.htm" class="smalldark">Refer-a-Friend</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/pokerinfo/links.htm" class="smalldark">Links</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/legal/terms.htm" class="smalldark">Usage Terms</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/legal/privacy.htm" class="smalldark">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/legal/copyright.htm" class="smalldark">Copyright Notice</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/sitemap.htm" class="smalldark">Site Map</a></span></td><td width="30" height="30"><img src="/templates/bluegel_2G/grafix/pp_bottmenu_1-3.gif"></td>
-				</tr>
-				<tr>
-					<td width="30" height="13"><img src="/templates/bluegel_2G/grafix/pp_bottmenu_2-1.gif"></td><td align="center" valign="middle" background="/templates/bluegel_2G/grafix/pp_bottmenu_2-2.gif"></td><td width="30" height="13"><img src="/templates/bluegel_2G/grafix/pp_bottmenu_2-3.gif"></td>
-				</tr>
-			</tbody></table>
-<center><span class="copyright">Copyright © 1999-2005 Planet Ace Gibraltar Limited. All rights reserved.
-If you or someone you know has a gambling problem, visit  either:<br><a href="http://www.ncpgambling.org/" class="smalllight">National Council on Problem Gambling</a> or <a href="http://www.gamblersanonymous.org/" class="smalllight">Gamblers Anonymous International Service</a></span></center>
-<br><br><br>
-
-		</div>
-
+</div>
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
-_uacct = "UA-668981-4";
+_uacct = "UA-668981-1";
 urchinTracker();
 </script>
 
 
-</div></div></body></html>
+
+
+
+
+
+
+</body></html>
