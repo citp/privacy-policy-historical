@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilitysite.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219153827id_/http%3A//www.mobilitysite.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilitysite.com privacy policy that was archived on 2007-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070516070850id_/http%3A//www.mobilitysite.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # MobilitySite - Privacy
 
@@ -30,9 +30,9 @@ You may contact us by clicking **[here](http://www.mobilitysite.com/forums/sendm
 ---  
 **» Stats**  
 ---  
-Members: 32,789  
-Threads: 26,868  
-Posts: 153,106  
+Members: 35,326  
+Threads: 29,093  
+Posts: 161,518  
 Top Poster: [whitelyt](http://www.mobilitysite.com/forums/members/whitelyt.html) (6,222)  
   
-Welcome to our newest member, [drfissette](http://www.mobilitysite.com/forums/members/drfissette.html)
+Welcome to our newest member, [TheChatter](http://www.mobilitysite.com/forums/members/thechatter.html)
