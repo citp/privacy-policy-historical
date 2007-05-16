@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbq-book.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019171901id_/http%3A//www.bbq-book.com/html/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbq-book.com privacy policy that was archived on 2007-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070516212255id_/http%3A//www.bbq-book.com/html/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
