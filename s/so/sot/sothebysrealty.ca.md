@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sothebysrealty.ca privacy policy that was archived on 2006-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061105002620id_/http%3A//sothebysrealty.ca/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sothebysrealty.ca privacy policy that was archived on 2007-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070516215747id_/http%3A//www.sothebysrealty.ca/privacy_policy.html) for the most accurate reproduction.*
 
 # Sotheby's International Realty | Canada Luxury Real Estate, Residential, Recreational, Commercial, Land, Development Services
 
@@ -27,7 +27,8 @@ Max Wright Real Estate Corporation does business as Sotheby’s International Re
 
 “Personal information” is information about an identifiable individual, but does not include aggregated information that cannot be associated with a specific individual. Personal information also excludes certain information as is excluded pursuant to applicable legislation or other regulations, such as publicly available information or business contact information, as and when applicable.
 
-“Third party” is an individual or organization outside Sotheby’s International Realty Canada.  
+“Third party” is an individual or organization outside Sotheby’s International Realty Canada.
+
 “Use” is the treatment, handling and management of personal information by and within an organization.
 
 **Principle 1 - Accountability**
