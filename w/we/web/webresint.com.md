@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webresint.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219203007id_/http%3A//www.webresint.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webresint.com privacy policy that was archived on 2007-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070516055027id_/http%3A//www.webresint.com/privacy.php) for the most accurate reproduction.*
 
 # Web Reservations International
 
