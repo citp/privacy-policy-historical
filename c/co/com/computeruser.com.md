@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the computeruser.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205222145id_/http%3A//computeruser.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computeruser.com privacy policy that was archived on 2007-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070516025310id_/http%3A//www.computeruser.com/about/privacy.html) for the most accurate reproduction.*
 
 # ComputerUser Privacy Statement
 
 | | A D V E R T I S E M E N T S  
 ---|---  
-  |    
-[](http://computeruser.com/ads/adclick.php?bannerid=163&zoneid=3&source=&dest=http%3A%2F%2Fwww.computeruser.com%2Fabout%2Ftopstop.html)  
+  |   
   
 |  |  ComputerUser  
 Privacy Policy Statement
@@ -101,4 +100,4 @@ Please keep in mind that whenever you voluntarily disclose personal information 
   * [The EPIC Cookies Page](http://www.epic.org/privacy/internet/cookies/) \- definitions, links, and news. 
   * [How to Protect Your Privacy](http://www.ftc.gov/privacy/index.html) \- information from the Federal Trade Commission. 
 
-|  [](http://computeruser.com/ads/adclick.php?bannerid=143&zoneid=17&source=&dest=http%3A%2F%2Fwww.computeruser.com%2Fabout%2Ftopstop.html)
+| 
