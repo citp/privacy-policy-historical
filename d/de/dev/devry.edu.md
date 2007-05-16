@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devry.edu privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206000230id_/http%3A//www.devry.edu/devry_privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devry.edu privacy policy that was archived on 2007-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070516040540id_/http%3A//www.devry.edu/devry_privacy_policy.jsp) for the most accurate reproduction.*
 
 # DeVry University
 
