@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yatra.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111112654id_/http%3A//yatra.com/YT/YT_common/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yatra.com privacy policy that was archived on 2007-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070516052813id_/http%3A//www.yatra.com/YT/YT_common/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy – Yatra : Online Travel Services Company in India
 
@@ -14,6 +14,6 @@ Yatra will not sell, trade or disclose to third parties any information derived 
 
 Yatra will take appropriate steps to protect the information you share with us. We have implemented technology and security features and strict policy guidelines to safeguard the privacy of your personally identifiable information from unauthorized access and improper use or disclosure. Yatra will continue to enhance our security procedures as new technology becomes available. 
 
-If our privacy policy changes in the future, it will be posted here and a new effective date will be shown. You should access our privacy policy regularly to ensure you understand our current policies. If you have any questions regarding Yatra's Privacy Policy, Provide Your Feedback . Please reference the privacy policy in your subject line. Yatra will attempt to respond to all reasonable concerns or inquiries within five business days of receipt.
+If our privacy policy changes in the future, it will be posted here and a new effective date will be shown. You should access our privacy policy regularly to ensure you understand our current policies. Please reference the privacy policy in your subject line. Yatra will attempt to respond to all reasonable concerns or inquiries within five business days of receipt.
 
 Thank you for using Yatra! 
