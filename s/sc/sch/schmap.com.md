@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schmap.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206011510id_/http%3A//www.schmap.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schmap.com privacy policy that was archived on 2007-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070516224724id_/http%3A//www.schmap.com/privacy.shtml) for the most accurate reproduction.*
 
 # Schmap Privacy Policy
 
