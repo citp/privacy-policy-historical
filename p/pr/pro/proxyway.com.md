@@ -1,14 +1,21 @@
-> *The following text is extracted and transformed from the proxyway.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218025011id_/http%3A//www.proxyway.com/www/info/proxyway-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proxyway.com privacy policy that was archived on 2007-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070516212846id_/http%3A//www.proxyway.com/www/info/proxyway-privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 |  [](http://www.proxyway.com/www/free-proxy-software/proxy-server-software-new.html)  
 ---  
-|  |  **Sunday, December 17, 2006**   
-Latest Release - December 6, 2006 [ProxyWay Revolution Extra](http://www.proxyway.com/www/downloads/download_proxyway_extra.html)  
-[ProxyWay Revolution Pro](http://www.proxyway.com/www/downloads/download_proxyway_pro.html)  
-[ProxyWay Revolution](http://www.proxyway.com/www/downloads/download_proxyway.html) **New Features**
-* Fixed problem with adding more than one random proxy in cascade.  
+|  |  **Wednesday, May 16, 2007**   
+Latest Release [ProxyWay Extra 4.3](http://www.proxyway.com/www/downloads/download_proxyway_extra.html) \- February 24, 2007  
+[ProxyWay Pro 4.3](http://www.proxyway.com/www/downloads/download_proxyway_pro.html) \- February 24, 2007  
+[ProxyWay 4.3](http://www.proxyway.com/www/downloads/download_proxyway.html) \- February 24, 2007 **New Features**
+* Supports Vista. Now ProxyWay fully works with Windows Vista. 
+* Improved "Update proxy list" scheduler.  
+
+* Added powerful "Check proxy list" scheduler. (Proxy Way Extra only)  
+
+* Added ability to use custom "Referrer field". (Proxy Way Extra only)  
+
+* Updated list of OS and browsers for User-agent field.   
 
 * Now you can use ProxyWay for working with CGI proxies (web proxies)  
 
@@ -16,46 +23,38 @@ Latest Release - December 6, 2006 [ProxyWay Revolution Extra](http://www.proxywa
 
 * Due to Proxy Finder module improvement increased the number of proxy list sites that can be used for proxy list updating  
 
-* Now ProxyWay detects connection(s) for the latest versions of Opera and Netscape automatically  
-
-* Added ability to choose if you want to mark a new created service as default or not  
-
-* Improved proxy management - ProxyWay remembers current position in proxy list and in "Update proxy list" windows  
-
 * To make your work with CGI proxies more convenient, you can use our list of third-party CGI proxy sites  
 
-* Now you can export/import list of sites you use for proxy list updating.  
-
-* To simplify proxy list updating, you can use our list of third-party proxy sites **What's new**  
+* Now you can export/import list of sites you use for proxy list updating. **What's new**  
 [ProxyWay Revolution Extra](http://www.proxyway.com/www/free-proxy-software/proxyway-extra-new.html)  
 [ProxyWay Revolution Pro](http://www.proxyway.com/www/free-proxy-software/proxy-server-software-new.html)  
 [ProxyWay Revolution](http://www.proxyway.com/www/free-proxy-software/free-proxy-server-software-new.html)
 |   
 ---|---|---  
 [](http://www.proxyway.com/www/free-proxy-tool/proxy-search-proxies.html)  
-|  |  ProxyWay [Proxy Finder](http://www.proxyway.com/www/free-proxy-tool/proxy-finder-software.html) searches for HTTP, HTTPS and SOCKS (SOCKS4, SOCKS4A, SOCKS5, SOCKS5 with Authentication) proxies on the Internet. Just specify URL(s) where proxy lists are located and Proxy Finder will automatically find proxy information. Proxy/proxies are added to the program proxy list where they can be checked for proxy state, proxy speed, proxy location and proxy anonymity using ProxyWay [Proxy Checker](http://www.proxyway.com/www/free-proxy-tool/check-proxy-checker.html) module.
+|  |  ProxyWay [Proxy Finder](http://www.proxyway.com/www/free-proxy-tool/proxy-finder-software.html) searches for HTTP proxy lists, HTTPS proxy lists and SOCKS (SOCKS4, SOCKS4A, SOCKS5, SOCKS5 with Authentication) proxies lists on the Internet. Just specify proxy web site URL(s) where proxy lists are located and Proxy Finder will automatically find proxy server information. Proxy/proxies are added to the program proxy list where they can be checked for proxy state, proxy speed, proxy location and proxy anonymity using ProxyWay [Proxy Checker](http://www.proxyway.com/www/free-proxy-tool/check-proxy-checker.html) module.
 
 [Proxy Finder module main features:](http://www.proxyway.com/www/free-proxy-tool/proxy-search-proxies.html)
 
-• Scan and extract HTTP, HTTPS and SOCKS proxies  
+• Scan proxy web sites and extract HTTP proxy lists, HTTPS proxy list and SOCKS proxies list  
 • Recognize different proxy list formats  
-• Import/export proxy capabilities  
+• Import/export proxy lists capabilities  
 • Search proxies from certain country(ies)  
 • Extract proxies from different proxy lists simultaneously  
 • Automatically search proxies using "Update scheduler".  |   
 ---|---|---  
 [](http://www.proxyway.com/www/free-proxy-tool/check-proxy-checker.html)  
-|  |  ProxyWay [Proxy Checker](http://www.proxyway.com/www/free-proxy-tool/check-proxy-checker.html) automatically parses the proxy data and generates detailed information about proxy server response time, proxy location (country), proxy protocol, proxy anonymity and functionality. Just choose the proxy(ies) you want to check and click the _Check_ button.
+|  |  ProxyWay [Proxy Checker](http://www.proxyway.com/www/free-proxy-tool/check-proxy-checker.html) automatically parses the proxy lists and generates detailed information about proxy server response time, proxy location (country), proxy protocol, proxy anonymity and functionality. Just choose the proxy(ies) you want to check and click the _Check_ button.
 
 [Proxy Checker module main features:](http://www.proxyway.com/www/free-proxy-tool/check-proxy-checker.html)
 
 • Check any number of proxies simultaneously  
-• Check HTTP, HTTPS, SOCKS4, SOCKS5 proxy server lists  
+• Check HTTP proxy lists, HTTPS proxy list, SOCKS4, SOCKS5 proxy server lists  
 • Supports multithreading to check proxy list faster  
-• Check proxy speed  
-• Check proxy anonymity (anonymous, high anonymous, transparent)  
-• Check proxy location (country)  
-• Check proxy functionality  
+• Check proxy server speed  
+• Check proxy anonymity (anonymous proxy, high anonymous proxy, transparent proxy)  
+• Check proxy serber location (country)  
+• Check proxies functionality  
 • Import/export proxy list capabilities  
 • "Auto check proxy" option to check all added or modified proxies automatically.  |   
 ---|---|---  
@@ -126,7 +125,7 @@ ProxyWay.com Privacy Policy may be changed from time to time. Please review the 
 |  |   
 |  |   
 ---  
-|  [](http://www.proxyway.com/www/anonymous-surfing-how.html)Learn more how ProxyWay provides high [Internet](http://www.proxyway.com/www/anonymous-proxy-surfing-web.html) anonymity, guards your privacy, helps to optimize Internet surfing and speeds up web surfing by eliminating Ad and popups ...  
+|  [](http://www.proxyway.com/www/anonymous-surfing-how.html)Learn more how ProxyWay provides [anonymous surfing](http://www.proxyway.com/www/anonymous-proxy-surfing-web.html), protects your privacy, helps to optimize Internet surfing and speeds up Internet surfing by eliminating Ad and popups ...  
 |  |   
 |  |   
 |  [Privacy Test](http://www.proxyway.com/www/privacy-test.html) |   
@@ -140,7 +139,8 @@ ProxyWay.com Privacy Policy may be changed from time to time. Please review the 
 |  |   
 |  |   
 ---  
-|  [](http://www.proxyway.com/www/free-proxy-lists/free-anonymous-proxy-server-lists.html) How to find free daily updated [proxy lists](http://www.proxyway.com/www/free-proxy-server-list.html) (HTTP, HTTPS, SOCKS). High anonymous proxy, anonymous proxy, transparent proxies from different countries.  
+|  [](http://www.proxyway.com/www/free-proxy-sites/proxy-sites-list.html) How to find free daily updated [proxy lists](http://www.proxyway.com/www/free-proxy-server-list.html) [(HTTP, HTTPS, SOCKS](http://www.proxyway.com/www/free-proxy-web-sites/proxy-websites-list.html) [proxy lists](http://www.bestproxylists.com/)). High [anonymous proxy,](http://www.proxyway.com/www/free-cgi-proxy/start-using-cgi-proxy.html) [anonymous proxy,](http://www.proxyway.com/www/web-proxies/free-web-proxies-list.html) transparent [proxies](http://www.proxyway.com/www/free-proxies-sites/proxies-websites-list.html) from different countries.  
+[Web proxy](http://www.freewebproxylist.com/) [sites/](http://www.proxyway.com/www/web-proxy/free-web-proxy-server.html)[CGI proxy lists](http://www.freecgiproxylist.com/)  
 |  |   
 |  |   
 |  [Why you need ProxyWay](http://www.proxyway.com/www/surf-anonymous-why.html) |   
@@ -170,18 +170,21 @@ or ProxyWay   [On-line Help](http://www.proxyway.com/www/anonymous-web-browsin
 |  |   
 |  |   
 ---  
-|  • I want to use external script for proxy checking. What do I do?
+|  • How can I turn on/turn off proxy settings in Firefox 1.x?
 
-You should [download our CGI proxy checking script](http://www.proxyway.com/www/downloads/) (written on Perl) and install it on your server. You can also use your own scripts (e.g. on PHP, ASP) if they are based on ProxyWay Proxy Checker Script.  
-To install Proxy Checker Script on your server:  
-• Perl interpreter must be installed on you server.  
-• You need to have access to run a Perl Script and have CGI enabled on your hosting account or server.  
-• You must know the path to the Perl interpreter.  
-• You should change the first line in a script so it points to the path to perl interpreter on your server.  
-Usually the path to Perl is #!/usr/bin/perl or #!/usr/local/bin/perl So open script in any text editor and change #!/usr/bin/perl to the necessary path.  
-• Upload the script to any executable folder (cgi-bin or other appropriate directory) in ASCII mode.  
-• Perl scripts must be marked as "executable" in order to run properly when called by the web server. This is usually done by setting Execute permission (for Unix-based web servers) or Script permission (for Windows NT-based servers).  
-• In your web browser, type in the address bar area full URL to the Proxy Checker script. e.g. http://www.yoursite.com/cgi-bin/checker.pl  
-If everything is right, you'll see the text that begins with "ProxyWay REMOTE_HOST"   
+To turn on proxy settings:  
+1\. Select Tools => Options.  
+2\. Select General.  
+3\. In the "Connections" area click the "Connection Settings" button.  
+4\. Select the Manual Proxy Configuration radio button.  
+5\. In fields "Address" and "port" type proxy IP and proxy port.  
+6\. Click OK.
+
+To turn off proxy settings:  
+1\. Select Tools => Options.  
+2\. Select General.  
+3\. In the "Connections" area click the "Connection Settings" button.  
+4\. Select the Direct Connection to the Internet.  
+Click OK   
   
 |  | 
