@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtra.ca privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206005236id_/http%3A//www.xtra.ca/public/ViewContent.aspx%3FAFF_TYPE%3D1%26static_content_id%3D142) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtra.ca privacy policy that was archived on 2007-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070517181632id_/http%3A//www.xtra.ca/public/ViewContent.aspx%3FAFF_TYPE%3D1%26static_content_id%3D142) for the most accurate reproduction.*
 
 # Xtra.ca
 
