@@ -1,10 +1,130 @@
-<!--The following is the downloaded HTML source of the motifator.com privacy policy that was archived on 2006-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061205213442id_/http%3A//www.keyfax.com/keyfax/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the motifator.com privacy policy that was archived on 2007-05-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070517043018id_/http%3A//www.motifator.com/privacy.php) for the most accurate reproduction.-->
 
-<html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>Privacy Policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<script type="text/javascript">
+<link href="motifator_styles.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" type="text/javascript">
+<!--
+// -----------------------------------------------------------------------------
+// Globals
+// Major version of Flash required
+var requiredMajorVersion = 8;
+// Minor version of Flash required
+var requiredMinorVersion = 0;
+// Revision of Flash required
+var requiredRevision = 0;
+// the version of javascript supported
+var jsVersion = 1.0;
+// -----------------------------------------------------------------------------
+// -->
+</script>
+<script language="VBScript" type="text/vbscript">
+<!-- // Visual basic helper required to detect Flash Player ActiveX control version information
+Function VBGetSwfVer(i)
+  on error resume next
+  Dim swControl, swVersion
+  swVersion = 0
+  
+  set swControl = CreateObject("ShockwaveFlash.ShockwaveFlash." + CStr(i))
+  if (IsObject(swControl)) then
+    swVersion = swControl.GetVariable("$version")
+  end if
+  VBGetSwfVer = swVersion
+End Function
+// -->
+</script>
+<script language="JavaScript1.1" type="text/javascript">
+<!-- // Detect Client Browser type
+var isIE  = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;
+var isWin = (navigator.appVersion.toLowerCase().indexOf("win") != -1) ? true : false;
+var isOpera = (navigator.userAgent.indexOf("Opera") != -1) ? true : false;
+jsVersion = 1.1;
+// JavaScript helper required to detect Flash Player PlugIn version information
+function JSGetSwfVer(i){
+	// NS/Opera version >= 3 check for Flash plugin in plugin array
+	if (navigator.plugins != null && navigator.plugins.length > 0) {
+		if (navigator.plugins["Shockwave Flash 2.0"] || navigator.plugins["Shockwave Flash"]) {
+			var swVer2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";
+      		var flashDescription = navigator.plugins["Shockwave Flash" + swVer2].description;
+			descArray = flashDescription.split(" ");
+			tempArrayMajor = descArray[2].split(".");
+			versionMajor = tempArrayMajor[0];
+			versionMinor = tempArrayMajor[1];
+			if ( descArray[3] != "" ) {
+				tempArrayMinor = descArray[3].split("r");
+			} else {
+				tempArrayMinor = descArray[4].split("r");
+			}
+      		versionRevision = tempArrayMinor[1] > 0 ? tempArrayMinor[1] : 0;
+            flashVer = versionMajor + "." + versionMinor + "." + versionRevision;
+      	} else {
+			flashVer = -1;
+		}
+	}
+	// MSN/WebTV 2.6 supports Flash 4
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.6") != -1) flashVer = 4;
+	// WebTV 2.5 supports Flash 3
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.5") != -1) flashVer = 3;
+	// older WebTV supports Flash 2
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv") != -1) flashVer = 2;
+	// Can't detect in all other cases
+	else {
+		
+		flashVer = -1;
+	}
+	return flashVer;
+} 
+// If called with no parameters this function returns a floating point value 
+// which should be the version of the Flash Player or 0.0 
+// ex: Flash Player 7r14 returns 7.14
+// If called with reqMajorVer, reqMinorVer, reqRevision returns true if that version or greater is available
+function DetectFlashVer(reqMajorVer, reqMinorVer, reqRevision) 
+{
+ 	reqVer = parseFloat(reqMajorVer + "." + reqRevision);
+   	// loop backwards through the versions until we find the newest version	
+	for (i=25;i>0;i--) {	
+		if (isIE && isWin && !isOpera) {
+			versionStr = VBGetSwfVer(i);
+		} else {
+			versionStr = JSGetSwfVer(i);		
+		}
+		if (versionStr == -1 ) { 
+			return false;
+		} else if (versionStr != 0) {
+			if(isIE && isWin && !isOpera) {
+				tempArray         = versionStr.split(" ");
+				tempString        = tempArray[1];
+				versionArray      = tempString .split(",");				
+			} else {
+				versionArray      = versionStr.split(".");
+			}
+			versionMajor      = versionArray[0];
+			versionMinor      = versionArray[1];
+			versionRevision   = versionArray[2];
+			
+			versionString     = versionMajor + "." + versionRevision;   // 7.0r24 == 7.24
+			versionNum        = parseFloat(versionString);
+        	// is the major.revision >= requested major.revision AND the minor version >= requested minor
+			if ( (versionMajor > reqMajorVer) && (versionNum >= reqVer) ) {
+				return true;
+			} else {
+				return ((versionNum >= reqVer && versionMinor >= reqMinorVer) ? true : false );	
+			}
+		}
+	}	
+	return (reqVer ? false : 0.0);
+}
+// -->
+</script>
+</head>
+
+<body>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+ <tbody><tr>
+    <td height="141" colspan="4"> <script type="text/javascript">
+<!--
 <!--
 
 function newImage(arg) {
@@ -26,229 +146,193 @@ function changeImages() {
 var preloadFlag = false;
 function preloadImages() {
 	if (document.images) {
-		top_fill_over = newImage("http://images.keyfax.com/keyfax/website/top_fill_over.jpg");
-		cool_tools_over = newImage("http://images.keyfax.com/keyfax/website/cool_tools_over.jpg");
-		home_button_over = newImage("http://images.keyfax.com/keyfax/website/home_button_over.jpg");
-		creative_over = newImage("http://images.keyfax.com/keyfax/website/creative_over.jpg");
-		store_over = newImage("http://images.keyfax.com/keyfax/website/store_over.jpg");
-		download_over = newImage("http://images.keyfax.com/keyfax/website/download_over.jpg");
-		forums_over = newImage("http://images.keyfax.com/keyfax/website/forums_over.jpg");
-		support_over = newImage("http://images.keyfax.com/keyfax/website/support_over.jpg");
-		contact_over = newImage("http://images.keyfax.com/keyfax/website/contact_over.jpg");
-		view_cart_bar_over = newImage("http://images.keyfax.com/keyfax/website/view_cart_bar_on.jpg");
+		motiforum_over = newImage("http://www.motifator.com/hdr_images/motiforum-over.jpg");
+		motifmart_over = newImage("http://www.motifator.com/hdr_images/motifmart-over.jpg");
+		clinicians_over = newImage("http://www.motifator.com/hdr_images/clinicians-over.jpg");
+		mopeople_over = newImage("http://www.motifator.com/hdr_images/mopeople-over.jpg");
+		momedia_over = newImage("http://www.motifator.com/hdr_images/momedia-over.jpg");
+		classic_over = newImage("http://www.motifator.com/hdr_images/classic-over.jpg");
+		racks_over = newImage("http://www.motifator.com/hdr_images/racks-over.jpg");
+		motifes_over = newImage("http://www.motifator.com/hdr_images/motifes-over.jpg");
+		mo68_over = newImage("http://www.motifator.com/hdr_images/mo68-over.jpg");
+		mm6_over = newImage("http://www.motifator.com/hdr_images/mm6-over.jpg");
+		motifxs_over = newImage("http://www.motifator.com/hdr_images/motifxs-over.jpg");
 		preloadFlag = true;
 	}
 }
 
 // -->
-</script>
-<script language="JavaScript" type="text/JavaScript">
-<!--
-function MM_reloadPage(init) {  //reloads the window if Nav4 resized
-  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
-    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
-  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
 }
-MM_reloadPage(true);
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
 //-->
 </script>
-<link href="kf_styles.css" rel="stylesheet" type="text/css">
-</head>
-<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="preloadImages();">
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr> 
-    <td colspan="4"> <a href="http://www.keyfax.com/index.html"><img src="http://images.keyfax.com/keyfax/website/kefax_logo.jpg" alt="" width="195" height="82" border="0"></a></td>
-    <td colspan="4"> <img src="http://images.keyfax.com/keyfax/website/mid_grad.jpg" width="264" height="82" alt=""></td>
-    <td width="100%" background="http://images.keyfax.com/keyfax/website/top_fill.jpg"> 
-      <img name="top_fill" src="http://images.keyfax.com/keyfax/website/top_fill.jpg" width="21" height="82" alt=""></td>
-    <td colspan="2" align="right"> <img name="cool_tools" src="http://images.keyfax.com/keyfax/website/cool_tools.jpg" width="240" height="82" alt=""></td>
-  </tr>
-  <tr> 
-    <td> <a href="http://www.keyfax.com/index.html" onmouseover="changeImages('home_button', 'http://images.keyfax.com/keyfax/website/home_button_over.jpg'); return true;" onmouseout="changeImages('home_button', 'http://images.keyfax.com/keyfax/website/home_button.jpg'); return true;"> 
-      <img name="home_button" src="http://images.keyfax.com/keyfax/website/home_button.jpg" width="47" height="18" border="0" alt=""></a></td>
-    <td> <a href="custom_websites.htm" onmouseover="changeImages('creative', 'http://images.keyfax.com/keyfax/website/creative_over.jpg'); return true;" onmouseout="changeImages('creative', 'http://images.keyfax.com/keyfax/website/creative.jpg'); return true;"> 
-      <img name="creative" src="http://images.keyfax.com/keyfax/website/creative.jpg" width="77" height="18" border="0" alt=""></a></td>
-    <td> <a href="prdct.html" onmouseover="changeImages('store', 'http://images.keyfax.com/keyfax/website/store_over.jpg'); return true;" onmouseout="changeImages('store', 'http://images.keyfax.com/keyfax/website/store.jpg'); return true;"> 
-      <img name="store" src="http://images.keyfax.com/keyfax/website/store.jpg" width="57" height="18" border="0" alt=""></a></td>
-    <td colspan="2"> <a href="downloads.htm" onmouseover="changeImages('download', 'http://images.keyfax.com/keyfax/website/download_over.jpg'); return true;" onmouseout="changeImages('download', 'http://images.keyfax.com/keyfax/website/download.jpg'); return true;"> 
-      <img name="download" src="http://images.keyfax.com/keyfax/website/download.jpg" width="88" height="18" border="0" alt=""></a></td>
-    <td> <a href="http://pub84.ezboard.com/bkeyfax" onmouseover="changeImages('forums', 'http://images.keyfax.com/keyfax/website/forums_over.jpg'); return true;" onmouseout="changeImages('forums', 'http://images.keyfax.com/keyfax/website/forums.jpg'); return true;"> 
-      <img name="forums" src="http://images.keyfax.com/keyfax/website/forums.jpg" width="67" height="18" border="0" alt=""></a></td>
-    <td> <a href="support.html" onmouseover="changeImages('support', 'http://images.keyfax.com/keyfax/website/support_over.jpg'); return true;" onmouseout="changeImages('support', 'http://images.keyfax.com/keyfax/website/support.jpg'); return true;"> 
-      <img name="support" src="http://images.keyfax.com/keyfax/website/support.jpg" width="73" height="18" border="0" alt=""></a></td>
-    <td colspan="3" background="http://images.keyfax.com/keyfax/website/lower_fill.gif"> 
-      <a href="contact.htm" onmouseover="changeImages('contact', 'http://images.keyfax.com/keyfax/website/contact_over.jpg'); return true;" onmouseout="changeImages('contact', 'http://images.keyfax.com/keyfax/website/contact.jpg'); return true;"> 
-      <img name="contact" src="http://images.keyfax.com/keyfax/website/contact.jpg" width="75" height="18" border="0" alt=""></a></td>
-    <td align="right" background="http://images.keyfax.com/keyfax/website/lower_fill.gif"> 
-      <a href="master_view_basket.htm" onmouseover="changeImages('view_cart_bar', 'http://images.keyfax.com/keyfax/website/view_cart_bar_on.jpg'); return true;" onmouseout="changeImages('view_cart_bar', 'http://images.keyfax.com/keyfax/website/view_cart_bar.jpg'); return true;"> 
-      <img name="view_cart_bar" src="http://images.keyfax.com/keyfax/website/view_cart_bar.jpg" width="100" height="18" border="0" alt=""></a></td>
-  </tr>
-  <tr> 
-    <td> <img src="http://images.keyfax.com/keyfax/website/spacer.gif" width="47" height="1" alt=""></td>
-    <td> <img src="http://images.keyfax.com/keyfax/website/spacer.gif" width="77" height="1" alt=""></td>
-    <td> <img src="http://images.keyfax.com/keyfax/website/spacer.gif" width="57" height="1" alt=""></td>
-    <td> <img src="http://images.keyfax.com/keyfax/website/spacer.gif" width="14" height="1" alt=""></td>
-    <td> <img src="http://images.keyfax.com/keyfax/website/spacer.gif" width="74" height="1" alt=""></td>
-    <td> <img src="http://images.keyfax.com/keyfax/website/spacer.gif" width="67" height="1" alt=""></td>
-    <td> <img src="http://images.keyfax.com/keyfax/website/spacer.gif" width="73" height="1" alt=""></td>
-    <td> <img src="http://images.keyfax.com/keyfax/website/spacer.gif" width="50" height="1" alt=""></td>
-    <td> <img src="http://images.keyfax.com/keyfax/website/spacer.gif" width="21" height="1" alt=""></td>
-    <td> <img src="http://images.keyfax.com/keyfax/website/spacer.gif" width="4" height="1" alt=""></td>
-    <td> <img src="http://images.keyfax.com/keyfax/website/spacer.gif" width="236" height="1" alt=""></td>
+
+<table width="972" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td width="97"><img src="http://www.motifator.com/hdr_images/spacer.gif" width="97" height="1"></td>
+    <td><img src="http://www.motifator.com/hdr_images/spacer.gif" width="103" height="1"></td>
+    <td><img src="http://www.motifator.com/hdr_images/spacer.gif" width="97" height="1"></td>
+    <td width="35"><img src="http://www.motifator.com/hdr_images/spacer.gif" width="35" height="1"></td>
+    <td><img src="http://www.motifator.com/hdr_images/spacer.gif" width="55" height="1" alt=""></td>
+    <td><img src="http://www.motifator.com/hdr_images/spacer.gif" width="57" height="1" alt=""></td>
+    <td><img src="http://www.motifator.com/hdr_images/spacer.gif" width="24" height="1" alt=""></td>
+    <td><img src="http://www.motifator.com/hdr_images/spacer.gif" width="65" height="1" alt=""></td>
+    <td><img src="http://www.motifator.com/hdr_images/spacer.gif" width="21" height="1" alt=""></td>
+    <td><img src="http://www.motifator.com/hdr_images/spacer.gif" width="79" height="1" alt=""></td>
+    <td><img src="http://www.motifator.com/hdr_images/spacer.gif" width="80" height="1" alt=""></td>
+    <td><img src="http://www.motifator.com/hdr_images/spacer.gif" width="259" height="1" alt=""></td>
   </tr>
   <tr>
-    <td colspan="8"><img src="http://images.keyfax.com/keyfax/website/spacer.gif" width="10" height="10"></td>
+    <td colspan="3" rowspan="2"><a href="http://www.motifator.com"><img src="http://www.motifator.com/hdr_images/motiflogo.jpg" alt="motifatorlogo" name="motifatorlogo" width="297" height="106" border="0" id="motifatorlogo"></a></td>
+    <td colspan="2"><a href="http://www.motifator.com/forums/" onmouseover="MM_swapImage('forum1','','http://www.motifator.com/hdr_images/motiforum-over.jpg','lcd1','','http://www.motifator.com/hdr_images/lcd-motiforum.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="http://www.motifator.com/hdr_images/motiforum.jpg" alt="motiforum" name="forum1" width="90" height="67" border="0" id="forum"></a></td>
+    <td colspan="2"><a href="http://www.motifator.com/mart/mainframe.htm" onmouseover="MM_swapImage('mart1','','http://www.motifator.com/hdr_images/motifmart-over.jpg','lcd1','','http://www.motifator.com/hdr_images/lcd-motifmart.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="http://www.motifator.com/hdr_images/motifmart.jpg" alt="motifmart" name="mart1" width="81" height="67" border="0" id="mart"></a></td>
+    <td colspan="2"><a href="http://www.motifator.com/cliniciancorner.php" onmouseover="MM_swapImage('corner1','','http://www.motifator.com/hdr_images/clinicians-over.jpg','lcd1','','http://www.motifator.com/hdr_images/lcd-clinic.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="http://www.motifator.com/hdr_images/clinicians.jpg" alt="clinician's corner" name="corner1" width="86" height="67" border="0" id="corner"></a></td>
+    <td><a href="http://www.motifator.com/mopeople.php" onmouseover="MM_swapImage('mopeople','','http://www.motifator.com/hdr_images/mopeople-over.jpg','lcd1','','http://www.motifator.com/hdr_images/lcd-mopeople.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="http://www.motifator.com/hdr_images/mopeople.jpg" alt="motifated people" name="mopeople" width="79" height="67" border="0" id="mopeople"></a></td>
+    <td><a href="http://www.motifator.com/momedia.php" onmouseover="MM_swapImage('momedia','','http://www.motifator.com/hdr_images/momedia-over.jpg','lcd1','','http://www.motifator.com/hdr_images/lcd-media.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="http://www.motifator.com/hdr_images/momedia.jpg" alt="motifated media" name="momedia" width="80" height="67" border="0" id="momedia"></a></td>
+    <td rowspan="3"><img src="http://www.motifator.com/hdr_images/inst.jpg" name="inst1" width="259" height="140" id="inst"></td>
+  </tr>
+  <tr>
+    <td colspan="8"><img src="http://www.motifator.com/hdr_images/lcd.jpg" name="lcd1" width="416" height="39" id="lcd"></td>
+  </tr>
+  <tr>
+    <td><a href="http://www.motifator.com/classic/classic.php" onmouseover="MM_swapImage('inst1','','http://www.motifator.com/hdr_images/inst-classic.jpg','lcd1','','http://www.motifator.com/hdr_images/lcd-classic.jpg','class1','','http://www.motifator.com/hdr_images/classic-over.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="http://www.motifator.com/hdr_images/classic.jpg" alt="motif classic" name="class1" width="97" height="34" border="0" id="class"></a></td>
+    <td><a href="http://www.motifator.com/racks/rack.php" onmouseover="MM_swapImage('inst1','','http://www.motifator.com/hdr_images/inst-racks.jpg','lcd1','','http://www.motifator.com/hdr_images/lcd-racks.jpg','rack1','','http://www.motifator.com/hdr_images/racks-over.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="http://www.motifator.com/hdr_images/racks.jpg" alt="motif racks" name="rack1" width="103" height="34" border="0" id="rack"></a></td>
+    <td colspan="2"><a href="http://www.motifator.com/motifes/motifes.php" onmouseover="MM_swapImage('inst1','','http://www.motifator.com/hdr_images/inst-motifes.jpg','lcd1','','http://www.motifator.com/hdr_images/lcd-motifes.jpg','es1','','http://www.motifator.com/hdr_images/motifes-over.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="http://www.motifator.com/hdr_images/motifes.jpg" alt="motif es" name="es1" width="132" height="34" border="0" id="es"></a></td>
+    <td colspan="2"><a href="http://www.motifator.com/mo68/mo68.php" onmouseover="MM_swapImage('inst1','','http://www.motifator.com/hdr_images/inst-mo68.jpg','lcd1','','http://www.motifator.com/hdr_images/lcd-mo68.jpg','mo1','','http://www.motifator.com/hdr_images/mo68-over.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="http://www.motifator.com/hdr_images/mo68.jpg" alt="mo68" name="mo1" width="112" height="34" border="0" id="mo"></a></td>
+    <td colspan="2"><a href="http://www.motifator.com/mm6/mm6.php" onmouseover="MM_swapImage('inst1','','http://www.motifator.com/hdr_images/inst-mm6.jpg','lcd1','','http://www.motifator.com/hdr_images/lcd-mm6.jpg','minimo1','','http://www.motifator.com/hdr_images/mm6-over.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="http://www.motifator.com/hdr_images/mm6.jpg" alt="mm6 mini mo" name="minimo1" width="89" height="34" border="0" id="minimo"></a></td>
+    <td colspan="3"><a href="http://www.motifator.com/motifxs/motifxs.php" onmouseover="MM_swapImage('inst1','','http://www.motifator.com/hdr_images/inst-motifxs.jpg','lcd1','','http://www.motifator.com/hdr_images/lcd-motifxs.jpg','xs1','','http://www.motifator.com/hdr_images/motifxs-over.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="http://www.motifator.com/hdr_images/motifxs.jpg" alt="motif xs" name="xs1" width="180" height="34" border="0" id="xs"></a></td>
   </tr>
 </tbody></table>
-<!-- END NAV TABLE -->
-<!--BEGIN BODY TABLE -->
-<table width="100%" border="0" cellspacing="8" cellpadding="0">
-  <tbody><tr> 
-    <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr> 
-          <td colspan="3" bgcolor="#000000"><img src="http://images.keyfax.com/keyfax/website/black_dot.gif" width="1" height="1"></td>
-          <td rowspan="5" valign="top"><img src="http://images.keyfax.com/keyfax/website/spacer.gif" width="8" height="20"></td>
-          <td colspan="3" bgcolor="#000000"><img src="http://images.keyfax.com/keyfax/website/black_dot.gif" width="1" height="1"></td>
-        </tr>
-        <tr> 
-          <td rowspan="3" bgcolor="#000000"><img src="http://images.keyfax.com/keyfax/website/black_dot.gif" width="1" height="1"></td>
-           <td nowrap="" background="http://images.keyfax.com/keyfax/website/green_bev.jpg" bgcolor="#99CCCC"><table width="100%" border="0" cellspacing="0" cellpadding="4">
-              <tbody><tr> 
-                <td nowrap="" class="header">Contact</td>
-              </tr>
-            </tbody></table></td>
-          <td rowspan="3" bgcolor="#000000"><img src="http://images.keyfax.com/keyfax/website/black_dot.gif" width="1" height="1"></td>
-          <td rowspan="3" bgcolor="#000000"><img src="http://images.keyfax.com/keyfax/website/black_dot.gif" width="1" height="1"></td>
-          <td width="100%" background="http://images.keyfax.com/keyfax/website/purple_bev.jpg" bgcolor="#9999cc">
-		  <table width="100%" border="0" cellspacing="0" cellpadding="4">
-              <tbody><tr> 
-                <td nowrap="" class="header">Privacy Policy</td>
-              </tr>
-            </tbody></table>
-		  </td>
-          <td rowspan="3" bgcolor="#000000"><img src="http://images.keyfax.com/keyfax/website/black_dot.gif" width="1" height="1"></td>
-        </tr>
-        <tr>
-          <td nowrap="" bgcolor="#000000" class="header"><img src="http://images.keyfax.com/keyfax/website/black_dot.gif" width="1" height="1"></td>
-          <td bgcolor="#000000" class="header"><img src="http://images.keyfax.com/keyfax/website/black_dot.gif" width="1" height="1"></td>
-        </tr>
-        <tr> 
-          <td valign="top" bgcolor="#D6DFE4">
-		  <table width="100%" border="0" cellspacing="0" cellpadding="4">
-              <tbody><tr> 
-                <td class="main"><a href="contact.htm">About Us</a></td>
-              </tr>
-              <tr> 
-                <td class="main"><a href="staff.htm">Staff</a></td>
-              </tr>
-              <tr> 
-                <td class="main"><a href="email_phone.htm">Phone, eMail &amp; 
-                  Address</a></td>
-              </tr>
-              
-			   <tr> 
-                <td class="main"><a href="resellers.htm">Distributors &amp; Resellers</a></td>
-              </tr>
-			  <tr> 
-                <td class="main"><a href="jobs.htm">Job Opportunities </a></td>
-              </tr>
-			   <tr> 
-                <td class="main"><a href="privacy.htm">Privacy Policy </a></td>
-              </tr>
-			  <tr> 
-                <td><img src="images/spacer.gif" width="160" height="1"></td>
-              </tr>
-            </tbody></table></td>
-          <td valign="top" bgcolor="#D6DFE4" class="main"><table width="100%" border="0" cellspacing="0" cellpadding="4">
-              <tbody><tr>
-                <td class="main"><p class="mainbold"> Overview </p>
-                  <p> KEYFAX NewMedia is a California Corporation that publishes
-                    a number of websites on products, services, and techniques
-                    used in music technology. We respect and are committed to
-                    protecting your privacy on-line. Our Privacy Policy tells
-                    you what information is collected when you visit or use one
-                    of our websites; how that data is collected, and why. </p>
-                  <p> Please take a moment to read this Privacy Policy carefully
-                    before you use any of our websites. </p>
-                  <p class="mainbold"> Information we collect and why </p>
-                  <p> Forums on KEYFAX websites are all register-to-post. Registration
-                    asks for your name, address, and email address, with voluntary
-                    fields concerning applicable instruments or software that
-                    you own. The act of Registration not only deters posts of
-                    an offense nature, it allows us to deliver a superior level
-                    of customer service by way of keeping you posted with information
-                    that relates to the equipment you use. </p>
-                  <p> If you do not wish to be contacted with product and services
-                    information our email correspondence contains opt-out link
-                    that will remove you from this database. </p>
-                  <p> If you are making a purchase through one of the KEYFAX
-                    on-line stores your credit card information, and contact
-                    telephone number will also be required. This information
-                    is only acquired via our Secure Server (Thwate) and does
-                    not reside in our database. </p>
-                  <p> We may also analyze technical information about how you
-                    view one of our websites including, but not limited to, IP
-                    address, operating system, browser, and individual pages
-                    viewed, routing, and how long your visit lasted. </p>
-                  <p> We also employ a standard web technology ("cookies")
-                    to streamline your viewing experience, whether browsing a
-                    forum, or making a purchase on one of the e-stores. </p>
-                  <p> For instance ‘enabling’ your cookies lets you
-                    re-visit a forum from your home computer and for your login
-                    and password to be recalled automatically. </p>
-                  <p class="mainbold"> Your protection </p>
-                  <p> Information collected for the above reasons will only be
-                    viewed outside of KEYFAX NewMedia Inc., for the purpose of
-                    credit card verification and shipping. </p>
-                  <p> Within KEYFAX NewMedia information will only be viewed
-                    by selected and relevant employees from within password-protected
-                    applications. </p>
-                  <p> KEYFAX NewMedia Inc. will not sell nor pass on your information
-                    to any third party company. </p>
-                  <p> To review, change, or delete your personal information
-                    you may call KEYFAX NewMedia Inc. at 800-752-2780 M-F / 9-5
-                    PCT in the USA. </p>
-                  <p class="mainbold"> Site usage, content, links </p>
-                  <p> KEYFAX NewMedia websites are for your personal use. You
-                    may not distribute, exchange, modify, sell, or transmit material
-                    copied from a KEYFAX website for any business, commercial,
-                    or public purpose, including but not limited to text, images,
-                    audio, and video data. </p>
-                  <p> All data within a KEYFAX NewMedia website is provided ‘As
-                    Is’ and has been created using our best efforts to
-                    provide information that is both current and accurate. </p>
-                  <p> However, KEYFAX makes no representations or warranties
-                    of any kind as to the accuracy, merchantability, suitability
-                    of purpose, non-infringement of material copyright pertaining
-                    to advice provided, and accepts no liability for consequential,
-                    direct, or indirect damages that relate to material published
-                    within a KEYFAX NewMedia Inc website. </p>
-                  <p> Use of all KEYFAX NewMedia websites is entirely at your
-                    own risk. </p>
-                  <p> KEYFAX NewMedia is not responsible for the content or practices
-                    employed by other websites linked to (or from) a KEYFAX website.
-                    Our Privacy Policy ceases to be in effect when you use a
-                    link to visit to another website. </p>
-                  <p class="mainbold"> Under Age 18 </p>
-                  <p> If you are under the age of 18 we ask that you do not Register,
-                    enter contests, post materials on forums, or make purchases
-                    on any KEYFAX website without specific parental permission. </p>
-                  <p> This policy was last updated May, 2006. If you have any
-                    questions or concerns about this privacy policy, please call
-                    us at 800-752-2780 or email us at <a href="mailto:info@keyfax.com">info@keyfax.com</a>.</p>
-                </td>
-              </tr>
-            </tbody></table>
-            <p class="mainbold">&nbsp;</p>
-          </td>
-        </tr>
-        <tr> 
-          <td colspan="3" bgcolor="#000000"><img src="http://images.keyfax.com/keyfax/website/black_dot.gif" width="1" height="1"></td>
-          <td colspan="3" bgcolor="#000000"><img src="http://images.keyfax.com/keyfax/website/black_dot.gif" width="1" height="1"></td>
-        </tr>
-      </tbody></table></td></tr>
-</tbody></table>
+		 
+  </td>
+  </tr>
 
+<tr>
+    <td height="2" colspan="4" background="images/whitepixel.gif"></td>
+</tr>
+  <tr>
+    <td width="190" valign="top">
+    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="190" height="330">
+        <param name="movie" value="sidenav_mo_media.swf">
+        <param name="quality" value="high">
+        <embed src="sidenav_mo_media.swf" quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="190" height="330">
+      </object>
+
+    <p>        <img src="images/clearpixel.gif" width="148" height="1"></p></td>
+    <td width="7" valign="top" class="bevelbg">&nbsp;</td>
+    <td valign="top">  
+      <table width="95%" border="0" align="center" cellpadding="10" cellspacing="0" class="maintext">
+      <tbody><tr>
+          <td valign="top"><table cellpadding="4" cellspacing="0">
+              <tbody><tr>
+                <td class="main"><p class="header">Privacy Policy</p>
+                  <p class="header"><img src="images/whitepixel.gif" width="100%" height="1"></p>
+                  <p class="biggerbold">Overview </p>
+                  <p> KEYFAX NewMedia is a California Corporation that publishes a number of websites on products, services, and techniques used in music technology. We respect and are committed to protecting your privacy on-line. Our Privacy Policy tells you what information is collected when you visit or use one of our websites; how that data is collected, and why. </p>
+                    <p> Please take a moment to read this Privacy Policy carefully before you use any of our websites. </p>
+                    <p class="biggerbold"> Information we collect and why </p>
+                    <p> Forums on KEYFAX websites are all register-to-post. Registration asks for your name, address, and email address, with voluntary fields concerning applicable instruments or software that you own. The act of Registration not only deters posts of an offense nature, it allows us to deliver a superior level of customer service by way of keeping you posted with information that relates to the equipment you use. </p>
+                    <p> If you do not wish to be contacted with product and services information our email correspondence contains opt-out link that will remove you from this database. </p>
+                    <p> If you are making a purchase through one of the KEYFAX on-line stores your credit card information, and contact telephone number will also be required. This information is only acquired via our Secure Server (Thwate) and does not reside in our database. </p>
+                    <p> We may also analyze technical information about how you view one of our websites including, but not limited to, IP address, operating system, browser, and individual pages viewed, routing, and how long your visit lasted. </p>
+                    <p> We also employ a standard web technology ("cookies") to streamline your viewing experience, whether browsing a forum, or making a purchase on one of the e-stores. </p>
+                    <p> For instance ‘enabling' your cookies lets you re-visit a forum from your home computer and for your login and password to be recalled automatically. </p>
+                    <p class="biggerbold"> Your protection </p>
+                    <p> Information collected for the above reasons will only be viewed outside of KEYFAX NewMedia Inc., for the purpose of credit card verification and shipping. </p>
+                    <p> Within KEYFAX NewMedia information will only be viewed by selected and relevant employees from within password-protected applications. </p>
+                    <p> KEYFAX NewMedia Inc. will not sell nor pass on your information to any third party company. </p>
+                    <p> To review, change, or delete your personal information you may call KEYFAX NewMedia Inc. at 800-752-2780 M-F / 9-5 PCT in the USA. </p>
+                    <p class="biggerbold"> Site usage, content, links </p>
+                    <p> KEYFAX NewMedia websites are for your personal use. You may not distribute, exchange, modify, sell, or transmit material copied from a KEYFAX website for any business, commercial, or public purpose, including but not limited to text, images, audio, and video data. </p>
+                    <p> All data within a KEYFAX NewMedia website is provided ‘As Is' and has been created using our best efforts to provide information that is both current and accurate. </p>
+                    <p> However, KEYFAX makes no representations or warranties of any kind as to the accuracy, merchantability, suitability of purpose, non-infringement of material copyright pertaining to advice provided, and accepts no liability for consequential, direct, or indirect damages that relate to material published within a KEYFAX NewMedia Inc website. </p>
+                    <p> Use of all KEYFAX NewMedia websites is entirely at your own risk. </p>
+                    <p> KEYFAX NewMedia is not responsible for the content or practices employed by other websites linked to (or from) a KEYFAX website. Our Privacy Policy ceases to be in effect when you use a link to visit to another website. </p>
+                    <p class="biggerbold"> Under Age 18 </p>
+                    <p> If you are under the age of 18 we ask that you do not Register, enter contests, post materials on forums, or make purchases on any KEYFAX website without specific parental permission. </p>
+                    <p> This policy was last updated May, 2006. If you have any questions or concerns about this privacy policy, please call us at 800-752-2780 or email us at <a href="mailto:info@keyfax.com">info@keyfax.com </a>. </p></td>
+              </tr>
+            </tbody></table>      <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>    
+              </p><table width="90%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td valign="bottom"><p align="center" class="maintext">| <a href="http://www.motifator.com/forums/">Motiforum</a> | <a href="http://www.motifator.com/mart/mainframe.htm">MotifMart</a> | <a href="http://www.motifator.com/cliniciancorner.php">Clinicians Corner</a> | <a href="http://www.motifator.com/mopeople.php">Motifated People</a> | <a href="http://www.motifator.com/momedia.php">Motifated Media</a> | <br>
+  | <a href="http://www.motifator.com/classic/classic.php">Motif Classic</a> | <a href="http://www.motifator.com/racks/rack.php">Motif Racks</a> | <a href="http://www.motifator.com/motifes/motifes.php">Motif ES</a> | <a href="http://www.motifator.com/mo68/mo68.php">MO 6/8</a> | <a href="http://www.motifator.com/mm6/mm6.php">MM6</a> | <a href="http://www.motifator.com/motifxs/motifxs.php">Motif XS</a> |<br>
+  | <a href="http://www.motifator.com/moblog.php">MoBlog</a> | <a href="http://charlie.keyfax.com/radio">MoRadio</a> | <a href="http://charlie.keyfax.com/">MoPedia</a> | <a href="http://www.motifator.com/monews.php">MoNews</a> | <a href="http://www.motifator.com/podcasts.php">Podcasts</a> | <a href="http://www.motifator.com/morss.php">RSS</a> | <a href="http://www.motifator.com/motv/movideos.php">Web Videos</a> |<br>
+  | <a href="http://www.motifator.com/privacy.php">Privacy Policy</a> | <a href="http://www.motifator.com/contact.php">Contact</a> | Site Map | </p>
+    <p align="center" class="maintext"><img src="http://www.motifator.com/images/keyfaxlogowhite.gif" width="75" height="37"></p></td>
+  </tr>
+</tbody></table>
+<p align="center" class="maintext">&nbsp;</p>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-325237-2";
+urchinTracker();
+</script>		
+            <p></p></td>
+      </tr>
+    </tbody></table>    </td>
+    <td width="148" align="right" valign="top" class="cellbg">
+<table width="100%" border="0" cellspacing="0" cellpadding="2">
+       <tbody><tr align="center">
+        <td class="header"><a href="http://www.motifator.com/mart/mainframeBasket.htm"><img src="http://dev.keyfax.com/motif_new06/images/viewcart.gif" width="115" height="25" border="0"></a><br>
+  <hr width="95%" noshade=""></td>
+        </tr>
+      <tr>
+        <td>           <!-- Google CSE Search Box Begins -->
+<form id="searchbox_013929987751461201041:tuhr6xcnwm8" action="http://www.motifator.com/search.php">
+<input class="search" type="image" src="http://www.motifator.com/images/searchbutton.gif" name="sa" value="Search">
+<input type="hidden" name="cx" value="013929987751461201041:tuhr6xcnwm8">  
+<input name="q" type="text" size="17">
+<br>
+<input type="hidden" name="cof" value="FORID:11">
+</form>
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_013929987751461201041%3Atuhr6xcnwm8"></script>
+<hr width="95%" noshade="">
+</td>
+      </tr>
+
+
+		
+
+    </tbody></table><img src="images/clearpixel.gif" width="148" height="1">
+      <table width="100%" border="0" cellpadding="5">
+      <tbody><tr>
+        <td>
+
+		 
+  <span class="mainbold">Current Headlines</span><br><p class="maintext"><a href="http://www.motifator.com/monews.php#16">2007 Motif Loyalty Program</a><br>The new 2007 Motif Loyalty Program is available to US customers who are purchasi...<br></p><p class="maintext"><a href="http://www.motifator.com/monews.php#15">DCP Motif XS format Voice Libraries</a><br>DCP's Dave Polich is one of the leading Motif sound designers, who has worked on...<br></p><p class="maintext"><a href="http://www.motifator.com/monews.php#14">West LA Music hosts Motif XS clinic</a><br>West LA Music in Los Angeles is hosting a Motif XS Clinic featuring legendary pr...<br></p><p class="maintext"><a href="http://www.motifator.com/monews.php#13">ArpManager software released!</a><br>ArpManager is a PC application that lets you, literally, manage your User Arpegg...<br></p><p class="maintext"><a href="http://www.motifator.com/monews.php#12">Keane 2007 interview</a><br>Keane back on the road again in US. "Piano-based (Motif, S90, CP70...) British t...<br></p><p class="maintext"><a href="http://www.motifator.com/monews.php#7">New music contest announced </a><br>January 18 th 2007, Santa Cruz, California: “Mix It &amp; Motifate It,” a brand new ...<br></p><p class="maintext"><a href="http://www.motifator.com/monews.php#11">Yamaha shows Motif XS at Winter NAMM</a><br>Yamaha is showing the forthcoming Motif XS at the 2007 Winter NAMM Show at the A...<br></p><p class="maintext"><a href="http://www.motifator.com/monews.php#10">Yamaha shows MM6 at Winter NAMM</a><br>Yamaha is showing the new MM6 at the 2007 Winter NAMM Show at the Anaheim Conven...<br></p><p class="maintext"><a href="http://www.motifator.com/monews.php#9">MoBros &amp; Mo'Sis's welcome at Winter NAMM! 
+                </a><br>January 18 th 2007, Anaheim, California: YamahaUS, MrMotif, BadMister, DavePolic...<br></p><p class="maintext"><a href="http://www.motifator.com/monews.php#8">Motifator.com 2.0 launched</a><br>January 18 th 2007, Santa Cruz, California: Motifator.com 2.0. Phase One launche...<br></p><p class="maintext"><a href="http://www.motifator.com/monews.php#6">Hot Salsa Beats in Motif format</a><br>October 20 th 2006, Santa Cruz, California: The infectious world of Salsa comes ...<br></p><p class="maintext"><a href="http://www.motifator.com/monews.php#5">New sounds for stage and studio</a><br>December 20 th 2006, Santa Cruz, California: Hot from Germany comes a new collec...<br></p>		</td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+</tbody></table>
 
 
 </body></html>
