@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usp.org privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206011605id_/http%3A//www.usp.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usp.org privacy policy that was archived on 2007-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070517123450id_/http%3A//www.usp.org/privacy.html) for the most accurate reproduction.*
 
 # USP Website Privacy Policy
 
@@ -6,10 +6,12 @@
 
   * [About USP](http://www.usp.org/aboutUSP/)
   * [USP–NF](http://www.usp.org/USPNF/)
+  * [Food Chemicals Codex](http://www.usp.org/fcc/)
+  * [Pending & Non-U.S. Standards](http://www.usp.org/standards/)
   * [Reference Standards](http://www.usp.org/referenceStandards/)
   * [USP Verified](http://www.usp.org/USPVerified/)
-  * [Patient Safety](http://www.usp.org/patientSafety/)
-  * [Healthcare Information](http://www.usp.org/healthcareInfo/)
+  * [Healthcare Quality and Information (HQI)](http://www.usp.org/hqi/)
+  * [Worldwide Activities](http://www.usp.org/worldwide/)
   * [Education & Events](http://www.usp.org/eventsEducation/)
   * [Products](http://www.usp.org/products/)
 
