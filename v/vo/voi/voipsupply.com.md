@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the voipsupply.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231040754id_/http%3A//www.voipsupply.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voipsupply.com privacy policy that was archived on 2007-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070517045436id_/http%3A//www.voipsupply.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Notice : VoipSupply.com - Your one-stop-shop for all VoIP related products and services.
+# Privacy Notice :
 
 **Overall privacy statement**  
 We take your privacy seriously. Because we gather certain types of information about our users we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, and how we use it. These privacy practices apply to the Web site that you were viewing when you clicked through to this policy, which is operated by us directly, our partner, or our affiliate.
