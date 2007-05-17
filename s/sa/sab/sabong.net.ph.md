@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the sabong.net.ph privacy policy that was archived on 2006-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060821043939id_/http%3A//sabong.net.ph/info.php%3Fnum%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sabong.net.ph privacy policy that was archived on 2007-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070517214641id_/http%3A//sabong.net.ph/privacy.php) for the most accurate reproduction.*
 
-# Www.sabong.net.ph Privacy Website and Company Information Cockfighting and Gamefowl in the Philippines
-
-  
-
-
-**Warning** : main(/home/httpd/vhosts/Sabong.net.Ph/httpdocs/assets/design/ads.inc): failed to open stream: No such file or directory in **/home/sabong/public_html/assets/design/header.inc** on line **118**
-
-**Warning** : main(): Failed opening '/home/httpd/vhosts/Sabong.net.Ph/httpdocs/assets/design/ads.inc' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in **/home/sabong/public_html/assets/design/header.inc** on line **118**
-
-  
-
+# Privacy Website and Company Information
 
 At Sabong, we take your right to privacy very seriously. 
 
