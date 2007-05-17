@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motherjones.com privacy policy that was archived on 2006-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061127080443id_/http%3A//www.motherjones.com/about/admin/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motherjones.com privacy policy that was archived on 2007-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070517170313id_/http%3A//www.motherjones.com/about/admin/privacy.html) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
@@ -58,21 +58,3 @@ Please note that this does not apply to e-mail addresses collected in our discus
 **Our Promise:** We will never user our customers' information in any way other than those outlined above without first notifying you on our Web site and providing you with the opportunity to opt out. 
 
 If you believe our site is not adhering to the privacy policy outlined above, please contact us at the above address, phone number, or e-mail address. 
-
-[ Good Books, Bad Coffee ](http://www.goodbooksbadcoffee.com/NASApp/store/IndexJsp?lid=ad_20061122_goodbooks)   
-A quirky and fiercely independent bookstore – a thoughtful oasis in the heart of the reddest state of the union. 
-
-[ Donate Today! ](https://secure.ga3.org/03/donate_now?lid=ad_20061122_donate)   
-Mother Jones reporting stays independent because of contributions from people like you. 
-
-[ New York Times Home Delivery ](http://ad.doubleclick.net/clk;57403522;14801818;c?http://homedelivery.nytimes.com/HDS/SubscriptionAcquisition.do?mode=SubscriptionAcquisition&ExternalMediaCode=W15HA)   
-Stay informed with home delivery of the NY Times. Read acclaimed articles daily, for as low as $3.15/week. 
-
-[ Jail.org Inmate Search ](http://jail.org/?lid=ad_20061122_jail)   
-Criminal records, instant public records & people search & current court records. www.jail.org 
-
-[ Subscribe Now! ](https://www.kable.com/pub/mrjs/subAllCusT01.asp?laf=SEVX1&lid=ad_20061122_subscribe)   
-Don't lose sight of the facts. Every issue of Mother Jones is loaded with hard-hitting reporting you can't afford to miss. 
-
-[ False-Flag Terror ](http://www.starchiefpress.com/?lid=ad_20061122_starchief)   
-It remains the warmonger darling. "Remember the Maine!" Tonkin...Northwoods to 9-11, to...? Experience Rand Clifford's latest novel, TIMING. 
