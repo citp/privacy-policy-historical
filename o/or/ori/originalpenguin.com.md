@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the originalpenguin.com privacy policy that was archived on 2006-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061125045115id_/http%3A//www.originalpenguin.com/opg/service/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the originalpenguin.com privacy policy that was archived on 2007-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070517082452id_/http%3A//www.originalpenguin.com/opg/service/privacy.jsp) for the most accurate reproduction.*
 
 # The Official Online Store for Penguin – Original Penguin® Clothes & Accessories > Privacy Policy
 
