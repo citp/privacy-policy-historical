@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the motifator.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205213442id_/http%3A//www.keyfax.com/keyfax/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motifator.com privacy policy that was archived on 2007-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070517043018id_/http%3A//www.motifator.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Privacy Policy
 
 Overview 
 
@@ -20,7 +22,7 @@ We may also analyze technical information about how you view one of our websites
 
 We also employ a standard web technology ("cookies") to streamline your viewing experience, whether browsing a forum, or making a purchase on one of the e-stores. 
 
-For instance ‘enabling’ your cookies lets you re-visit a forum from your home computer and for your login and password to be recalled automatically. 
+For instance ‘enabling' your cookies lets you re-visit a forum from your home computer and for your login and password to be recalled automatically. 
 
 Your protection 
 
@@ -36,7 +38,7 @@ Site usage, content, links
 
 KEYFAX NewMedia websites are for your personal use. You may not distribute, exchange, modify, sell, or transmit material copied from a KEYFAX website for any business, commercial, or public purpose, including but not limited to text, images, audio, and video data. 
 
-All data within a KEYFAX NewMedia website is provided ‘As Is’ and has been created using our best efforts to provide information that is both current and accurate. 
+All data within a KEYFAX NewMedia website is provided ‘As Is' and has been created using our best efforts to provide information that is both current and accurate. 
 
 However, KEYFAX makes no representations or warranties of any kind as to the accuracy, merchantability, suitability of purpose, non-infringement of material copyright pertaining to advice provided, and accepts no liability for consequential, direct, or indirect damages that relate to material published within a KEYFAX NewMedia Inc website. 
 
@@ -48,4 +50,4 @@ Under Age 18
 
 If you are under the age of 18 we ask that you do not Register, enter contests, post materials on forums, or make purchases on any KEYFAX website without specific parental permission. 
 
-This policy was last updated May, 2006. If you have any questions or concerns about this privacy policy, please call us at 800-752-2780 or email us at [info@keyfax.com](mailto:info@keyfax.com).
+This policy was last updated May, 2006. If you have any questions or concerns about this privacy policy, please call us at 800-752-2780 or email us at [info@keyfax.com ](mailto:info@keyfax.com). 
