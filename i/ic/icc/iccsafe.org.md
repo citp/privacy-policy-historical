@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iccsafe.org privacy policy that was archived on 2006-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061128024306id_/http%3A//www.iccsafe.org/help/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iccsafe.org privacy policy that was archived on 2007-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070517092341id_/http%3A//www.iccsafe.org/help/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # ICC Online | Help
 
@@ -77,8 +77,9 @@ YOUR CALIFORNIA PRIVACY RIGHTS
 California law permits customers of the ICC who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please [e-mail us](mailto:webmaster@iccsafe.org?subject=Privacy%C2%A0Policy) or write us: 
 
 > International Code Council Headquarters  
->  5203 Leesburg Pike, Suite 600;   
->  Falls Church, VA 22041-3401
+>  500 New Jersey Avenue, NW  
+>  6th Floor  
+>  Washington, DC 20001
 
 We will provide a list of the categories of personal information disclosed to third parties for third-party direct marketing purposes, along with the names and addresses of these third parties. This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the e-mail or postal address specified above. You should put "California Privacy Rights" in the subject line and in your request. You must provide ICC with specific information regarding yourself so that ICC can accurately respond to the request.
 
@@ -110,6 +111,9 @@ Contact ICC
 
 [Find a Government Relations representative in your area](https://web.archive.org/government/contact-GR.html)
 
-[](https://web.archive.org/cgi-bin/bpgo.pl?to=514&from=%2Fhelp%2FPrivacyPolicy.html&set=ruleset)
+  Int'l calls:  
+708-799-2300
+
+[](https://web.archive.org/cgi-bin/bpgo.pl?to=528&from=%2Fhelp%2FPrivacyPolicy.html&set=ruleset)
 
 | 
