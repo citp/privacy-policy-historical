@@ -1,12 +1,7 @@
-> *The following text is extracted and transformed from the tripres.com privacy policy that was archived on 2006-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060415014548id_/http%3A//tripres.com/index_information.cfm%3FFuseAction%3DInformation/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripres.com privacy policy that was archived on 2007-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070517205158id_/http%3A//www.tripres.com/information/privacyPolicy.aspx) for the most accurate reproduction.*
 
-# TripRes.com 6.0
+# Information - TripRes.com
 
-You are here: [Home](https://web.archive.org/web/20060415014548id_/http%3A//tripres.com/index_information.cfm%3FFuseAction%3DInformation/index.cfm?Fuseaction=Home/Home) > Privacy Policy 
-
-* * *
-
-  
 At TripRes.com, we are committed to protecting your privacy. We use the information we collect about you to process orders and to provide a more personalized travel experience. Please read on for more details about our privacy policy. 
 
 **What information do we collect? How do we use it?**
@@ -14,6 +9,8 @@ At TripRes.com, we are committed to protecting your privacy. We use the informat
   * When you reserve a hotel room we need to know your name, e-mail address, mailing address, credit card number, and expiration date. This allows us to process and fulfill your reservation request and to notify you of your reservation status.
   * When you enter a contest or other promotional feature, we may ask for your name, address, and e-mail address so we can administer the contest and notify winners.
   * We may also use the information we collect to occasionally notify you about important functionality changes to the Web site, new TripRes.com services, and special offers we think you'll find valuable.
+
+
 
 **Does TripRes.com protect customer information?**   
 When you place orders or access your account information, we offer the use of secure encryption algorithms to protect sensitive data. The encryption algorithms encrypt all information you input before it is sent to us. Furthermore, all of the customer data we collect is protected against unauthorized access. 
