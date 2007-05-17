@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verint.com privacy policy that was archived on 2006-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061015164055id_/http%3A//www.verint.com/corporate/section2a.cfm%3Farticle_level2_category_id%3D3%26article_level2a_id%3D204) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verint.com privacy policy that was archived on 2007-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070517224004id_/http%3A//www.verint.com/corporate/section2a.cfm%3Farticle_level2_category_id%3D3%26article_level2a_id%3D204) for the most accurate reproduction.*
 
 # Verint: About Verint: Legal: Privacy Policy
 
@@ -36,7 +36,7 @@ If you contact us by email through the Site, we may keep a record of your contac
 
 Verint works with third parties who provide services that may include, but are not necessarily limited to, website hosting, data analysis and email services. We reserve the right to share personally identifiable information with such third parties for the purpose of providing such services, and will seek to impose confidentiality obligations on such service providers. 
 
-Subject to applicable law, we reserve the right to release information concerning any visitor when that visitor is in violation of our [Terms of Service](https://web.archive.org/web/20061015164055id_/http%3A//www.verint.com/corporate/section2a.cfm?article_level2_category_id=3&article_level2a_id=205) or other published guidelines, or partakes (or is reasonably suspected of partaking) in any illegal activity, and to release such information in response to court and governmental orders, civil subpoenas, discovery requests and as otherwise required by law. We also reserve the right to release information about our visitors when we believe in good faith that such release is required to protect the rights, property, safety or security of Verint, our visitors or the public, or to respond to an emergency. 
+Subject to applicable law, we reserve the right to release information concerning any visitor when that visitor is in violation of our [Terms of Service](https://web.archive.org/web/20070517224004id_/http%3A//www.verint.com/corporate/section2a.cfm?article_level2_category_id=3&article_level2a_id=205) or other published guidelines, or partakes (or is reasonably suspected of partaking) in any illegal activity, and to release such information in response to court and governmental orders, civil subpoenas, discovery requests and as otherwise required by law. We also reserve the right to release information about our visitors when we believe in good faith that such release is required to protect the rights, property, safety or security of Verint, our visitors or the public, or to respond to an emergency. 
 
 Security.
 
