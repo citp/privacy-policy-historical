@@ -1,25 +1,42 @@
-> *The following text is extracted and transformed from the directflights.com.au privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603193749id_/http%3A//www.directflights.com.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directflights.com.au privacy policy that was archived on 2007-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070517160409id_/http%3A//www.directflights.com.au/PrivacyPolicy.html) for the most accurate reproduction.*
 
-# Direct Flights
+# Online Cheap Flights, Hotels, Car Hire & Holiday Booking Australia - Privacy Policy
 
-PRIVACY STATEMENT
-
-Direct Flights International considers your personal information to be of vital importance. We are committed to respecting your privacy.
-
-In general, you can visit Direct Flights International website without telling us who you are or revealing any personal information about yourself. 
-
-However there are times when we may need information from you such as when you register for fares or to receive information from us. This information may include your name, home or business address, CRS subscribers and e-mail address. Direct Flights International will seek to let you know before we collect any personal information from you over the Internet. Direct Flights International may share the information obtained with other organisations with a similar purpose to our own, such as state tourist authorities, tour operators and airlines. We will endeavor to limit the use of the information to the purpose for which it was provided.
-
-No attempt will be made to identify users or their browsing activities except in the unlikely event of an investigation, where a law enforcement agency may exercise a warrant to inspect server logs. The statistics and log files may be preserved indefinitely and used at any time and in any way necessary to prevent security breaches and to ensure the integrity of the information supplied by Direct Flights International.
-
-On Direct Flights International websites, IP addresses (the Internet address of a computer) are logged to track a user's session while the user remains anonymous. We analyse this data for certain trends and statistics, such as which parts of our site users are visiting and how long they spend there. In general, we do not link your IP addresses to anything personally identifiable to you. 
-
-When Direct Flights International receives information about you, we may also use it for research or to improve our site and the services we offer you.
-
-COOKIES  
-Some Direct Flights International web pages use "cookies," which are small files that may be placed on your hard disk for record-keeping purposes. A cookie helps us remember who you are. Cookies can make your subsequent visits to the web page simpler and more seamless. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. (However, by not accepting cookies, some web pages may not display properly or you may not be permitted to access certain information.). A server cannot find out a name or e-mail address, or anything about a user's computer, by using cookies. Cookie information is not stored or collected by Direct Flights International.
-
-SECURITY  
-Once Direct Flights receives information from you via e-mail or any other means, the information is in a secure environment. Your personal information will not be released unless the law permits it or your permission is granted. You need to be aware of inherent risks associated with the transmission of information via the Internet. If you have concerns in this regard, Direct Flights International has other ways of obtaining and providing information. Normal mail, telephone and fax facilities are available. 
-
-If you have any questions or comments about our privacy practices, or would like to correct or update information provided to Direct Flights via its Web site, please contact us by sending an e-mail to [ sales@directflights.com.au](mailto:sales@directflights.com.au)
+| www.directflights.com.au  
+---  
+PRIVACY POLICY  
+   
+Direct Flights Internatonal Pty Ltd (DFI) is committed to protecting your privacy and security. We will only use the information we collect about you with your consent to process your order and to tell you about our services. We will never wilfully disclose personal information about you to any third party other than to process your order without first receiving your permission or unless we are under a legal obligation to do so.   
+   
+**Why We Need To Collect Information From You**  
+   
+When you order tickets from DFI, we need to know your name, email address, delivery address, telephone details, credit or debit card number and expiry date. This allows us to process and fulfil your order, to notify you of your order status and the whereabouts of your tickets.  
+We may also use the information we collect about you to notify you from time to time about important new features and changes to DFI services or special offers we think you'll find of interest. If you have asked not to be, we will not contact you to notify you of these services for any other reason unless it is connected with your holiday or flight order.   
+   
+**Who Else Will We Tell About You?**  
+   
+We will not pass on your personal details to any third party, including site sponsors or advertisers, without your permission. We may provide aggregate statistics about our customers, sales, traffic patterns and related site information to our third-party partners, but these statistics will not contain any information about you from which you could be identified.   
+   
+**Direct Flights Newsletter**  
+   
+Direct Flights Newsletter is only sent to you if you have expressly requested it. It will not cost you anything to receive. We aim to send you an email message once a month with the latest holiday and flight deals available. You will receive additional news- letters to notify you of any not-to-be-missed last minute deals. Every email message we send you will contain full instructions on how to cancel the service.   
+   
+**Your Consent**  
+   
+By placing an order with DFI, you consent to the collection and use of the information you provide solely for the purposes of processing and fulfilling your order.   
+   
+**In Summary**  
+   
+We're committed to protecting your privacy. We use the information we collect on the site only for the purposes for which you have consented. We won't pass on your personal information to others without your permission. You can always enquire about or check the information that you have given us by contacting  
+[techsupport@directflights.com.au](mailto:techsupport@directflights.com.au)  
+   
+**Feedback, Comments and Suggestions**  
+   
+DFI welcomes your questions and comments about privacy, as well as any other aspect of our service. Please send email to [techsupport@directflights.com.au](mailto:techsupport@directflights.com.au)  
+   
+Our postal address is:  
+The Data Protection Officer  
+Direct Flights International Pty Ltd  
+G1, 37 Bligh Street  
+Sydney, NSW, 2000.  
+ 
