@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heybingo.com privacy policy that was archived on 2006-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061022183037id_/http%3A//heybingo.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heybingo.com privacy policy that was archived on 2007-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070517173045id_/http%3A//www.heybingo.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Free Bingo Games Online at HeyBingo.com
 
