@@ -1,0 +1,381 @@
+<!--The following is the downloaded HTML source of the totesport.com privacy policy that was archived on 2007-05-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070518002017id_/http%3A//www.totesport.com/portal%3Faction%3DStaticLoader%26page%3Dgeneral/SecurityPrivacy.htm) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Language" content="en">
+<title>totesport - security and privacy policy</title>
+<meta name="description" content="totesport security and privacy statement">
+<meta name="keywords" content="totesport, totesport casino, tote, tote betting, tote pools, totepool, pool betting, uk casino, online casino, casino uk, online sportsbetting, online sportsbook, textbetting, text betting, flash games, instant play casino, poker online, video poker online">
+<link type="text/css" rel="stylesheet" href="/totesport/css/Totesport.css?v1_0" title="totesport global style">
+<link type="text/css" rel="stylesheet" href="/totesport/css/Sportsbook.css?v1_0">
+<link type="text/css" rel="stylesheet" href="/totesport/css/Information.css?v1_0">
+<link type="text/css" rel="stylesheet" href="/totesport/css/print.css?v1_0" media="print">
+<!--[if lt IE 5.5000]><style type="text/css">@import "/totesport/css/IE50Fixes.css?v1_0";</style><![endif]-->
+<!--[if IE 5.5000]><style type="text/css">@import "/totesport/css/IE55Fixes.css?v1_0";</style><![endif]-->
+<!--[if IE 6]><style type="text/css">@import "/totesport/css/IE60Fixes.css?v1_0";</style><![endif]-->
+<!--[if IE 7]><style type="text/css">@import "/totesport/css/IE70Fixes.css?v1_0";</style><![endif]-->
+<!--[if lt IE 7]><script type="text/javascript" src="/totesport/css/IEFixes.js?v1_0"></script>
+<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+<script type="text/javascript" src="/totesport/scripts/behaviour.js?v1_0"></script>
+
+	</head>
+<body>
+<ul id="skip">
+	<li><a href="#mainContent" rel="nofollow">Skip to main content</a></li>
+	<li><a href="#sportsbookMenu" rel="nofollow">skip to local navigation</a></li>
+	<li><a href="#sportsbookNav" rel="nofollow">skip to search field</a></li>
+	<li><a href="#" rel="nofollow">skip to accessibility statement</a></li>
+</ul>
+<!-- Channel navigation -->
+
+	
+
+
+<script language="javascript">
+
+	// change the display of odds
+	function odds_type(sel) {
+
+		var type = sel.options[sel.selectedIndex].value;
+		document.forms['odds'].price_type.value = type;
+		submit_form('odds','GoChangePrice');
+	}
+
+
+	// Shows the balance
+	function show_balance() {
+		var sb = MM_findObj("show_bal");
+		var hb = MM_findObj("hide_bal");
+		sb.style.display = "none";
+		hb.style.display = "";
+
+		var bal_parts = get_cookie('IBSBAL').split('|');
+		bal_parts[7] = 'Y';
+		var b = bal_parts.join('|');
+		set_cookie('IBSBAL',b);
+	}
+
+
+	// Hides the balance
+	function hide_balance() {
+		var sb = MM_findObj("show_bal");
+		var hb = MM_findObj("hide_bal");
+		sb.style.display = "";
+		hb.style.display = "none";
+
+		var bal_parts = get_cookie('IBSBAL').split('|');
+		bal_parts[7] = 'N';
+		var b = bal_parts.join('|');
+		set_cookie('IBSBAL',b);
+	}
+
+</script>
+
+<!-- Channel navigation -->
+<div id="channelNav">
+	
+
+	<p class="noscreen">totesport Global Navigation:</p>
+	<ul>
+		<li><a href="http://www.totesport.com/portal" title="Go to sportsbook">sportsbook</a></li>
+		<li><a href="?action=StaticLoader&amp;page=casino/CasinoHome.htm&amp;tab=CA" title="Go to casino">casino</a></li>
+		<li><a href="http://www.totesport.com/portal?action=GoGames" title="Go to instant games">instant games</a></li>
+		<li><a href="?action=StaticLoader&amp;page=textbetting/TextBetting.htm&amp;tab=TB" title="Go to text betting">text betting</a></li>
+	</ul>
+</div>
+
+<!-- Brand header -->
+<div id="brandHeader">
+	<a href="http://www.totesport.com/portal">
+		<img id="brandLogo" src="http://www.totesport.com/totesport/images/en/brand/imgBrandLogo.gif" alt="totesport.com">
+	</a>
+	
+</div>
+
+<!-- Account header -->
+
+
+
+
+	
+
+
+<script language="javascript">
+
+	// Pages can define this function if they want - it will get called prior
+	// to submitting the login form.
+	var LOGIN_pre_login_function = '';
+
+	// Login
+	function go_login(f) {
+		var n_errs = 0;
+
+		reset_error();
+
+		n_errs += ck_mandatory(f.username.value, "Please check your username",
+		          1, 16, true);
+		n_errs += ck_mandatory(f.pwd.value, "Please check your password", 1, 16,
+		          true);
+
+		if(n_errs > 0) {
+			var err_msg  = MM_findObj("err_msg");
+			var errorMsg = MM_findObj("errorMsg");
+
+			err_msg.innerHTML = error_list;
+			errorMsg.style.display = "";
+			window.scrollTo(0,0);
+		}
+		else {
+			if (LOGIN_pre_login_function != '') {
+				eval(LOGIN_pre_login_function);
+			}
+			submit_ssl_form(f.name,'GoLogin');
+			return true;
+		}
+	}
+
+</script>
+
+
+
+
+
+
+
+
+<script language="javascript" type="text/javascript">
+
+var util = new Object();
+util.url = new Object();
+util.url.SSL_CGI_URL = 'https://www.totesport.com/portal';
+util.url.PAY_CGI_URL = 'https://www.totesport.com/myaccount';
+util.url.GIF_URL = 'http://www.totesport.com/totesport/images';
+util.cust = new Object();
+
+	util.cust.logged_in = false;
+
+util.misc = new Object();
+util.misc.uid = '1179447617';
+util.misc.bet_uid = '007f010078c200051e71464cf141';
+
+</script>
+
+<script language="javascript" src="http://www.totesport.com/totesport/ob_scripts/util.js?f8ee56c34bf2d003f15a23da10674805" type="text/javascript"></script>
+<script language="javascript" src="http://www.totesport.com/totesport/ob_scripts/global.js?f8ee56c34bf2d003f15a23da10674805" type="text/javascript"></script>
+
+<div id="accountHeader">
+	<p class="noscreen">Your account with Totesport:</p>
+	<ul>
+	
+		<!-- Offline header-->
+		<li><a href="http://www.totesport.com/portal?action=GoRegisterStart" title="Open account"><img src="http://www.totesport.com/totesport/images/common/icons/btnOpenAccount.gif" alt="open"></a>
+			<a href="http://www.totesport.com/portal?action=GoRegisterStart">open account</a></li>
+		<li>
+			<form id="loginForm" name="login" method="post" action="https://www.totesport.com/portal" onsubmit="javascript:go_login(this); return false">
+				<input type="hidden" name="PREV_QUERY_STRING" value="action%3DStaticLoader%26page%3Dgeneral%2FSecurityPrivacy%2Ehtm">
+				<input type="hidden" name="action" value="GoLogin">
+				<input type="hidden" name="uid" value="1179447617">
+				<input type="hidden" name="totepool_checkboxes" value="">
+				<input type="hidden" name="totepool_exacta_layout" value="">
+				<fieldset>
+					<label for="username">username</label>
+					<input id="username" type="text" class="text" name="username" size="10" value="">
+					<label for="password">password</label>
+					<input id="password" name="pwd" type="password" class="text" size="10">
+					<input title="Login to account" id="btnLogin" name="btnLogin" class="button" type="image" src="http://www.totesport.com/totesport/images/en/buttons/btnLogIn.gif" value="login" alt="login">
+				</fieldset>
+			</form>
+		</li>
+		<li><a href="javascript:var popup = open('http://www.totesport.com/portal?action=GoCustForgotPwd','Password','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=no,copyhistory=no,width=508,height=450');" title="click here if you have forgotten you account details">forgotten details?</a></li>
+	
+		<li><a href="/totesport/General/SalesSpreadsheet.htm"><img src="http://www.totesport.com/totesport/images/common/icons/btnHideTotesport.gif" alt="hide totesport"></a></li>
+	</ul>
+	<p id="timeNow">UK time: 
+
+
+
+
+
+<span id="timeRefresh" name="timeRefresh"></span>
+
+
+<script language="javascript" src="http://www.totesport.com/totesport/ob_scripts/clock.js?f8ee56c34bf2d003f15a23da10674805" type="text/javascript"></script>
+
+
+<script language="javascript" type="text/javascript">_StartClock('2007', '05', '18', ' 1', '20', '17');</script>
+</p>
+</div>
+
+<!-- End of account header -->
+
+
+
+
+<div class="push-content"></div>
+
+<!-- End Of Top Navigation -->
+
+	<div id="mainContent" class="clearfix">
+	<div id="mainContentMembrane">
+		<!-- Breadcrumb trail -->
+		<p class="noscreen">You are here (this is your breadcrumb trail):</p>
+		<ul id="breadcrumbTrail">
+			<li>security &amp; privacy policy</li>
+		</ul>
+		<!-- Sportsbook wrapper -->
+		<div id="sportsbookWrapper">
+			<!-- Sportsbook content -->
+			<div class="sportsbookContent" id="sportsbookHomeContent">
+				<div id="accountWrapper">
+					<!-- Error message place holder, fill this in at the server or with client javascript and unhide it -->
+					<div class="errorMsg hidden" id="errorMsg">
+					</div>
+				</div>
+
+				<div id="information">
+					<h1>Security &amp; Privacy Policy</h1>
+					<p><b>totesport</b> is a trading name of <b>Tote Credit Ltd.</b></p>
+					<p class="hang">At totesport we take care to ensure that the information you provide to us is protected and
+						managed in accordance with the requirements of the Data Protection Act 1998. This policy describes how
+						information is gathered and used by totesport in the operation of this website.</p>
+					<h2>What information is collected?</h2>
+					<p class="hang">The personal information you provide to us during the registration process and the subsequent
+						records of your bets and account transactions are retained by us on our computer systems for the purposes of:
+						</p><ul class="bulleted">
+							<li>enabling us to set up and manage your account;</li>
+							<li>building up a personal profile of you, including the events that you like to bet on;</li>
+							<li>providing you with useful information, such as promotional offers, technical updates, new features and
+								information relating to other services offered by the Tote group; and helping us to improve the service
+								we provide to you.</li>
+						</ul>
+					<p></p>
+					<h2>Security</h2>
+					<p class="hang">The sensitive information that you are required to give on the totesport registration form
+						is encrypted and protected with the best encryption software in the industry - SSL. We also do everything
+						in our power to protect user-information off-line. All of our users’ information, not just sensitive
+						information, is stored on servers in secure operating environments.</p>
+					<p class="hang">Your information will not be provided or sold to any third parties. totesport will only
+						disclose your personal information to other companies within the Tote group, carefully selected suppliers
+						that are engaged by totesport to process the information on our behalf or otherwise as required by law or
+						the requirements of any applicable regulatory authority.</p>
+					<p class="hang">Also totesport may disclose your personal information to any body investigating actual or
+						suspected criminal activity (including the Financial Services Authority and the National Criminal
+						Intelligence Service) or, in respect of any event which we are taking bets on, any demonstrable threat
+						to the integrity of that event and/or rules of the relevant governing bodies (including the Jockey Club
+						in relation to UK horse racing, the ICC ACSU in relation to cricket and the UK football authorities in
+						relation to UK football). In such event, totesport will only disclose personal information which it deems
+						to be necessary and proportionate to any such investigation and where it has been assured by such third
+						party that it will be used in compliance with data protection legislation.</p>
+					<h2>Under Age Gambling</h2>
+					<p class="hang">It is against the law for persons under 18 to gamble. Therefore totesport reserves the right
+						to carry out age verification checks on account holders who use payment mechanisms that are known to be
+						legitimately available to under-18’s. Also, totesport may carry out age verification checks against
+						a random selection of account holders regardless of the method of payment. Such checks will involve passing
+						account holder information to third party agents. Anyone under the age of 18 found to be using the site
+						will have their account closed instantly; winnings forfeited and will be reported to the police.</p>
+					<h2>Cookies</h2>
+					<p class="hang">Transactions on our website automatically collect information using cookies. A cookie is a
+						small file placed by a website on your computer’s hard drive. We use cookies to keep track of your
+						browsing patterns and to build up a demographic profile.</p>
+					<h2>Accuracy</h2>
+					<p class="hang">We will endeavour to ensure that the information we hold on you is accurate, relevant and
+						up to date.</p>
+					<p class="hang">You may update your personal information at any time by logging in and selecting the Account
+						option on the totesport Home page and then clicking on View/Amend Details.</p>
+					<h2>Data Protection Registration</h2>
+					<p class="hang">Tote Credit Limited is the registered data controller under the Data Protection Act 1998.
+						Tote Credit Limited complies with the Data Protection Act 1998 and the principles set out in that Act
+						relating to the collection and processing of personal information.</p>
+					<h2>Changes to Privacy Policy</h2>
+					<p class="hang">If we decide to change our privacy policy we will post those changes here so that you are
+						aware of any changes.</p>
+					<p class="hang">If you have any questions about the security of our website, or the information we hold on
+						you, you can send an e-mail to <a href="mailto:customercare@totesport.com" title="mail customer care">customercare@totesport.com</a>.</p>
+				</div>
+			</div>
+			<!-- Sportsbook navigation -->
+			<div id="sportsbookNav">
+				<!-- sportsbook menu -->
+				<div id="sportsbookMenu">
+					<p class="noscreen">Local Navigation:</p>
+					<ul>
+						<li><a href="http://www.totesport.com/portal/?action=GoHome">Sportsbook</a></li>
+						<li><a href="http://www.totesport.com/portal/?action=StaticLoader&amp;page=casino/CasinoHome.htm&amp;tab=CA">Casino</a></li>
+						<li><a href="http://www.totesport.com/portal/?action=GoGames">Instant Games</a></li>
+						<li><a href="http://www.totesport.com/portal/?action=StaticLoader&amp;page=textbetting/TextBetting.htm&amp;tab=TB">Text Betting</a></li>
+						<li><a href="http://www.totesport.com/portal/?action=StaticLoader&amp;page=general/ContactUs.htm">Contact Us</a></li>
+					</ul>
+					<ul class="secondary">
+						<li class="goBack"><a id="goBack" href="#">previous page</a><noscript>to go back click the browser back
+							button</noscript></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<!-- Secondary promotions navigation -->
+		<div id="secondaryPromotionNav">
+			<div class="editorialPromotion">
+				<div class="promoHeader"><img src="/totesport/promotions/general/images/en/HowToUse154x36.gif" alt="how to use totesport.com"></div>
+				<h3>New &amp; improved totesport.com!</h3>
+				<p>Use the link below to display our simple online user guide - designed to help you find your way around totesport.com.</p>
+				<div class="action"><a href="http://totesportuserguide.co.uk/OnlineUserGuide.htm" target="_blank" name="user-guide">online user guide...</a></div>
+			</div>
+			<div class="bannerPromotion"><a title="Activate my existing telephone account" href="http://www.totesport.com/portal/?action=GoRegisterStart"><img src="/totesport/promotions/general/images/en/imgActivateHighlight.gif" alt="activate my existing telephone account"></a></div>
+		</div>
+	</div>
+</div>
+<!-- Site information footer -->
+<div id="siteInfoFooter" class="clearfix">
+	<p class="noscreen">Start of footer:</p>
+	<div id="siteInfoWrapper" class="clearfix">
+		<div id="responsibilityInfo" class="siteInfoColumn">
+			<h2>Responsible gambling</h2>
+			<p>totesport are committed to supporting responsible gambling initiatives. You can find out more about how we
+				<a href="http://www.totesport.com/portal/?action=StaticLoader&amp;page=general/ResponsibleGambling.htm">support responsible gambling</a>.</p>
+			<p>You can also visit the websites of the following associations for help and information:</p>
+			<ul>
+				<li><a href="http://www.ibas-uk.co.uk/" target="_blank">Independent Betting Arbitration Service</a>;</li>
+				<li><a href="http://www.rigt.org.uk/" target="_blank">The Responsibility in Gambling Trust</a>;</li>
+				<li><a href="http://www.gamcare.org.uk/" target="_blank">The National Association for Gambling Care, Educational
+					resources and Training</a>.</li>
+			</ul>
+		</div>
+		<div id="paymentInfo" class="siteInfoColumn">
+			<h2>Accessibility statement</h2>
+			<p>totesport are committed to supporting accessibility for those who use assistive technologies. You can find out
+				more about how we <a href="http://www.totesport.com/portal/?action=StaticLoader&amp;page=general/Accessibility.htm">support accessibility</a>.</p>
+			<h2>Payment methods</h2>
+			<p>totesport accepts the following payment methods:</p>
+			<span class="cards"><img src="/totesport/images/en/payment/Cards.gif" alt="Mastercard, Visa, Switch &amp; Delta debit and credit cards"></span>
+		</div>
+		<div id="aboutInfo" class="siteInfoColumn">
+			<h2 class="noscreen">About the tote</h2>
+			<ul>
+				<li class="aboutPrivacy"><a href="http://www.totesport.com/portal/?action=StaticLoader&amp;page=general/SecurityPrivacy.htm">Security &amp; Privacy Policy</a></li>
+				<li class="aboutRules"><a href="http://www.totesport.com/portal/?action=StaticLoader&amp;page=general/Rules.htm">Rules</a></li>
+				<li class="aboutHelp"><a href="http://www.totesport.com/portal/?action=StaticLoader&amp;page=general/Help.htm">Help</a></li>
+				<li class="aboutTerms"><a href="http://www.totesport.com/portal/?action=StaticLoader&amp;page=general/TermsConditions.htm">Terms &amp; Conditions</a></li>
+				<li class="aboutContact"><a href="http://www.totesport.com/portal/?action=StaticLoader&amp;page=general/ContactUs.htm">Contact Us</a></li>
+				<li class="aboutSiteMap"><a href="http://www.totesport.com/portal/?action=StaticLoader&amp;page=general/SiteMap.htm">Site Map</a></li>
+				<li class="aboutTote"><a href="http://www.totesport.com/portal/?action=StaticLoader&amp;page=general/AboutUs.htm">About the tote</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<!-- Site links footer -->
+<div id="siteLinksFooter">
+	<ul>
+		<li>copyright totesport 2006 <span>|</span></li>
+		<li><a href="http://www.totesport.com/portal/?action=StaticLoader&amp;page=general/ContactUs.htm">contact us</a> <span>|</span></li>
+		<li><a href="http://www.totesport.com/portal/../affiliates" target="_blank">affiliates</a> <span>|</span></li>
+		<li><a href="http://corporate.totesport.com/" target="_blank">corporate site</a> <span>|</span></li>
+		<li><a href="http://ttf.totesport.com/" target="_blank">tote ten to follow</a> <span>|</span></li>
+		<li><a href="http://club.totesport.com/" target="_blank">totesport club</a></li>
+	</ul>
+</div>
+
+
+
+
+</body></html>
