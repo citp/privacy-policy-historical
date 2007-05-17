@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clintonfoundation.org privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207013037id_/http%3A//www.clintonfoundation.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clintonfoundation.org privacy policy that was archived on 2007-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070517091427id_/http%3A//www.clintonfoundation.org/privacy.htm) for the most accurate reproduction.*
 
 # William J. Clinton Foundation "Privacy Policy"
 
@@ -34,9 +34,9 @@ While there is no such thing as "perfect" security on the Internet, we will take
 The Clinton Foundation site does not seek to collect any information from children under the age of 13. If any child provides us with personally identifiable information, a parent or guardian may notify us and such information will be deleted from our records. 
 
 **Correct/Update**  
-This site gives users the opportunity to change and modify information previously provided information by visiting <http://clintonfoundation.kintera.org/newsletter>. 
+This site gives users the opportunity to change and modify information previously provided information by visiting [http://www.clintonfoundation.org/enews.htm](https://web.archive.org/web/20070517091427id_/http%3A//www.clintonfoundation.org/enews.htm). 
 
 **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [send an email message](http://www.clintonfoundation.org/contact.php) through our contacts page. 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [send an email message](https://web.archive.org/web/20070517091427id_/http%3A//www.clintonfoundation.org/contact.htm) through our contacts page. 
 
 USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE TERMS OF USE AND PRIVACY POLICY.
