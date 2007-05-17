@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the afl.com.au privacy policy that was archived on 2006-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060426184010id_/http%3A//afl.com.au/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afl.com.au privacy policy that was archived on 2007-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070517070605id_/http%3A//www.afl.com.au/Hidden/Privacy/tabid/8780/Default.aspx) for the most accurate reproduction.*
 
-# AFL - Official Website of the Australian Football League
+# Privacy - Official Website of the Australian Football League
+
+**AFL TELSTRA NETWORK PRIVACY STATEMENT**
 
 Welcome to the AFL Telstra Network ("AFLTN").
 
-and all of the  web sites ("Web Sites") are operated by Telstra Corporation Limited ABN 33 051 775 556 ("Telstra"). We have an agreement with the Australian Football League ABN 97 489 912 318 ("AFL") which gives us the exclusive right to operate and develop these Web Sites, and to provide content and other services to users of the Web Sites.
+The web sites on the AFL Telstra Network including and all of the web sites ("Web Sites") are operated by Telstra Corporation Limited ABN 33 051 775 556 ("Telstra"). We have an agreement with the Australian Football League ABN 97 489 912 318 ("AFL") which gives us the exclusive right to operate and develop these Web Sites, and to provide content and other services to users of the Web Sites.
 
  **1 Protecting Your Privacy**  
 1.1 Telstra, the AFL and the AFL Clubs ("we" or "us") are committed to providing you with the highest levels of customer service. This includes protecting your privacy.   
@@ -105,9 +107,7 @@ and all of the  web sites ("Web Sites") are operated by Telstra Corporation Limi
 11.2 While we will make every reasonable effort to ensure that children’s privacy and other rights are not compromised, it is ultimately the responsibility of parents to monitor their children’s Internet usage. 
 
 **12 Changes to our Privacy Statement**  
-12.1 From time to time, we may need to change this Privacy Statement to reflect our changing business practices. We may change the Privacy Statement at any time by posting the changed Privacy Statement on our web site at 
-
-and by posting a notice to users on the homepage of that web site stating that a change has occurred.   
+12.1 From time to time, we may need to change this Privacy Statement to reflect our changing business practices. We may change the Privacy Statement at any time by posting the changed Privacy Statement on our web site at and by posting a notice to users on the homepage of that web site stating that a change has occurred.   
 12.2 All personal information collected and held by us will be governed by our most recent Privacy Statement, as posted on our web site at .
 
  **13 How to contact us**  
