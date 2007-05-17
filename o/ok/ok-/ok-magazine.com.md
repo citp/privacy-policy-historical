@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ok-magazine.com privacy policy that was archived on 2006-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061022040840id_/http%3A//www.ok-magazine.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ok-magazine.com privacy policy that was archived on 2007-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070517181147id_/http%3A//www.ok-magazine.com/privacy.php) for the most accurate reproduction.*
 
 # OK! Magazine - First for Celebrity News
 
@@ -28,7 +28,7 @@ When you use the Site and register with your personal details we may automatical
 In order to use the Site you are required to register by providing personal information about yourself. As part of the registration process we may ask you to provide some limited personal information about yourself such as your name, address, telephone number and e-mail address.   
 We will use the personal information you provide:
 
-* To provide copies of OK! magazine that you have requested.  
+* To provide copies of OK! Magazine that you have requested.  
 * To log users' interest in the website.
 
 4\. Will We Share Your Information With Anyone Else?
