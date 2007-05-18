@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the customermagnetism.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018000651id_/http%3A//www.customermagnetism.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customermagnetism.com privacy policy that was archived on 2007-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070518152200id_/http%3A//www.customermagnetism.com/privacy.htm) for the most accurate reproduction.*
 
 # Copywriting Sample from Customer Magnetism
 
@@ -16,4 +16,4 @@ You** may opt out of any future contacts from us at any time. You can do the fol
 
 
 
-If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at **757-689-2875** or via email at [_sales@trycm.com_](mailto:sales@trycm.com) **.**
+If you aware of any abuse of this privacy policy, you should contact us immediately via telephone at **757-689-2875** or via email at [_sales@trycm.com_](mailto:sales@trycm.com) **.**
