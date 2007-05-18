@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kink.com privacy policy that was archived on 2006-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061108012359id_/http%3A//www.kink.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kink.com privacy policy that was archived on 2007-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070518223918id_/http%3A//kink.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Kink.com - Privacy Policy
 
@@ -10,7 +10,7 @@ Last Updated: May 10, 2005
 **I. Preamble and General Principles**
 
   * The following information is designed to help you understand how we collect, use, disseminate and safeguard the information you provide to us while accessing and using our Site. If you do not agree with our information practices, please do not access or use our Site. By accessing and using our Site, you signify your assent to this Privacy Policy.
-  * This Privacy Policy describes how CyberNet Entertainment, LLC, d/b/a www.bdsmplayers.com, www.bondagetrials.com, www.buttmachineboys.com, www.cybernetentertainment.com, www.devicebondage.com, www.fuckingmachines.com, www.hogtied.com, www.latexbondage.com, www.malewank.com, www.meninpain.com, www.realfuckingcouples.com, www.sexandsubmission.com, www.ultimatesurrender.com, www.waterbondage.com, www.whippedass.com, www.wiredpussy.com, www.freehardcore.com, hereinafter "CyberNet," collects information from all end-users of CyberNet's Internet services (the "Services")-those who access some of our Services but do not have accounts ("Visitors") as well as those who pay a monthly service fee to subscribe to the Service ("Members")-what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such information. CyberNet requests that you read this Privacy Policy carefully. 
+  * This Privacy Policy describes how Kink.com, d/b/a www.bdsmplayers.com, www.bondagetrials.com, www.buttmachineboys.com, www.cybernetentertainment.com, www.devicebondage.com, www.fuckingmachines.com, www.hogtied.com, www.latexbondage.com, www.malewank.com, www.meninpain.com, www.realfuckingcouples.com, www.sexandsubmission.com, www.ultimatesurrender.com, www.waterbondage.com, www.whippedass.com, www.wiredpussy.com, www.freehardcore.com, hereinafter "CyberNet," collects information from all end-users of CyberNet's Internet services (the "Services")-those who access some of our Services but do not have accounts ("Visitors") as well as those who pay a monthly service fee to subscribe to the Service ("Members")-what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such information. CyberNet requests that you read this Privacy Policy carefully. 
 
 
 
