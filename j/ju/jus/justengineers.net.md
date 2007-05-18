@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justengineers.net privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212220655id_/http%3A//www.justengineers.net/statements/privacy-statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justengineers.net privacy policy that was archived on 2007-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070518210630id_/http%3A//www.justengineers.net/statements/privacy-statement.asp) for the most accurate reproduction.*
 
 # JustEngineers - Privacy Statement
 
@@ -11,22 +11,20 @@
   
 
 
-  1. [Rail Jobs](http://www.justrail.net/)
+  1. [Entire Network](https://web.archive.org/jobsgroup-websites.asp)
   2. [Graduate Jobs](https://web.archive.org/vacancies/search-results.asp?p=1&d=28&is=16)
   3. [Exhibitions](https://web.archive.org/engineering-recruitment-exhibitions.asp)
   4. [News](https://web.archive.org/news/index.asp)
   5. [About Us](https://web.archive.org/aboutus.asp)
   6. [Contact Us](https://web.archive.org/contactus.asp)
-  7. [Career Guidance](http://www.justtechnicaljobs.net/editorial/latest.asp?editorial=careers)
-  8. [CV Services](https://web.archive.org/jobseeker/technical-jobs.asp#CVGuidance)
-  9. [Composite Survey](https://web.archive.org/composite-survey.asp)
-  10. [Affiliates](https://web.archive.org/affiliates.asp)
-  11. [Shops](https://web.archive.org/shops.asp)
-  12. [Games](https://web.archive.org/games.asp)
-  13. [Refer a Friend](https://web.archive.org/refer-a-friend.asp)
-  14. [Site Map](https://web.archive.org/sitemap.asp)
-  15. [Industry Links](https://web.archive.org/links/related-services.asp)
-  16. Bookmark Us
+  7. [CV Services](https://web.archive.org/jobseeker/technical-jobs.asp#CVGuidance)
+  8. [Affiliates](https://web.archive.org/affiliates.asp)
+  9. [Shops](https://web.archive.org/shops.asp)
+  10. [Games](https://web.archive.org/games.asp)
+  11. [Refer a Friend](https://web.archive.org/refer-a-friend.asp)
+  12. [Site Map](https://web.archive.org/sitemap.asp)
+  13. [Industry Links](https://web.archive.org/links/related-services.asp)
+  14. Bookmark Us
 
 
 
@@ -37,6 +35,8 @@ DISCUSSION FORUM
 GOOGLE
 
 | 
+
+JobsGroup.net™ Limited (Company Reg No: 05523469, VAT Number: GB 884 3918 77) operates the following services: [JustEngineers.net](http://www.justengineers.net/); [JustConstruction.net](http://www.justconstruction.net/); [JustRail.net](http://www.justrail.net/); [JustUtilities.net](http://www.justutilities.net/); [Just4Aviation.net](http://www.just4aviation.net/); [DefenceJobs.com](http://www.defencejobs.com/); [JustSalesandMarketing.net](http://www.justsalesandmarketing.net/); [Just4Finance.net](http://www.just4finance.net/); [Just4Executives.net](http://www.just4executives.net/); [Just4Graduates.net](http://www.just4graduates.net/); [JustForums](http://www.justforums.net/); [JUST TECHNICAL jobs](http://www.justtechnicaljobs.net/); and [JobsinaBox.net](http://www.jobsinabox.net/). The JobsGroup.net Limited registered office is: Head Office, York House, 76-78 Lancaster Road, Morecambe, Lancashire, LA4 5QN, United Kingdom. Tel: 0845 080 2000 | Fax: 0845 050 2001 | Email: | Web: [www.jobsgroup.net](http://www.jobsgroup.net/)
 
   1. **Commitment**
 
