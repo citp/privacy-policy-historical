@@ -1,0 +1,534 @@
+<!--The following is the downloaded HTML source of the flixster.com privacy policy that was archived on 2007-05-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070518123554id_/http%3A//www.flixster.com/userAuth.do%3Fprivacy%3D) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd"><html><head>
+
+	
+	
+
+<title>Flixster</title>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<meta name="description" content="Flixster is a simple, free web site that lets you share movie ratings and reviews with friends.">
+<meta name="keywords" content="movie, review, community, rating, recommendations, friends, simple, share">
+
+	
+	<script type="text/javascript" src="/static/scripts/prototype.js?version=20070502"></script>
+	<script type="text/javascript" src="/static/scripts/scriptaculous.js?version=20070502"></script>
+	<script type="text/javascript" src="/static/scripts/log4js.js?version=20070502"></script>
+	<script type="text/javascript">var logger = new Log(Log.NONE, Log.consoleLogger);</script>
+
+	
+	<script type="text/javascript" src="/static/scripts/global.js?version=20070502"></script>
+	<script type="text/javascript" src="/static/scripts/balloon.js?version=20070502"></script>
+	<script type="text/javascript" src="/static/scripts/rating.js?version=20070502"></script>
+	<script type="text/javascript" src="/static/scripts/cookies.js?version=20070502"></script>
+	<script type="text/javascript" src="/static/scripts/talk.js?version=20070502"></script>
+	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+	<script type="text/javascript">_uacct = "UA-191156-1";</script>
+	<script type="text/javascript">var currentUser = new User('');</script>
+	
+	
+	<script type="text/javascript" src="/static/include/common.widget.js?version=20070502"></script>
+	<script type="text/javascript" src="/static/include/expand.widget.js?version=20070502"></script>
+	<script type="text/javascript" src="/static/include/flat.widget.js?version=20070502"></script>
+	
+	
+	
+	
+	
+		
+	<link href="/static/styles/global.css?release=20070502" type="text/css" rel="stylesheet">
+	<!--[if IE]>
+	<link href="/static/styles/global.ie.css?release=20070502" type="text/css" rel="stylesheet">
+	<![endif]-->
+	
+	
+	
+	
+
+	
+
+
+
+
+
+
+
+	
+	
+	
+
+
+<script type="text/javascript">
+<!--
+// Constants
+_AJAX_PARAMS="rateAction=doRate&rateUser=" + "" + "&key=" + "";
+_WANT_TO_SEE="12";
+_NOT_INTERESTED="11";
+
+function commonWgt_rateSave(mvID, showMessage){
+
+
+		commonWgt_ajaxSubmit(mvID);
+		if (showMessage) {
+				var title = movieTitles[mvID];
+				if (title.length > 30) {
+						title = title.substring(0, 30) + "...";
+				}
+				msg = "Your ratings will not be saved until you register or sign in!";
+				floatie.show(msg);
+				alert("Your ratings will not be saved until you register or sign in!");
+		}
+
+
+	if (d.getElementById("widgetSaveBtn")) {
+		d.images["widgetSaveBtn"].src = "/static/images/bt_saved.gif";
+	}
+}
+
+function commonWgt_getRateSubmitParams(mvID) {
+	// seem to need this to get server responses on duplicate submission
+	var ran_unrounded=Math.random()*1000000;
+	var ran_number=Math.round(ran_unrounded); 
+
+	if (movieDbIds && movieDbIds[mvID]) {
+		return(_AJAX_PARAMS + "&rateMovie=" + movieDbIds[mvID] + "&rateScore=" + curRatings[mvID] + "&rateComment=" + encodeURIComponent( $('commonWgt_commentBox'+mvID).value ) + "&rateSource=" + rateSrc[mvID] + "&rid=" + ran_number + "&ratingId=" + (curRatingIds && curRatingIds[mvID] ? curRatingIds[mvID] : -1));
+	} else {
+//		alert("Rating not saved...oops");
+//		_uacct = "UA-191156-1";
+//		urchinTracker('NoMovieDBID');
+	}
+}
+
+// -->
+</script>
+
+
+
+
+
+
+</head>
+
+<body onload="">
+
+ 	
+<div id="leaderboard">
+
+
+
+
+
+<iframe src="http://a.tribalfusion.com/f.ad?site=Flixster&amp;adSpace=ROS&amp;size=728x90&amp;pop=0&amp;requestID=463328470" width="728" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" allowtransparency="true">
+	<noscript>
+     <a href="http://a.tribalfusion.com/i.click?site=Flixster&adSpace=ROS&size=728x90&requestID=463328470" target=_blank>
+     <img src="http://a.tribalfusion.com/i.ad?site=Flixster&adSpace=ROS&size=728x90&requestID=463328470" width=728 height=90 border=0 alt="Click Here"></a>
+	</noscript>
+</iframe>
+
+
+
+
+
+
+</div>
+	
+	
+
+
+<div id="header">
+	
+	<a href="/"><img id="logo" alt="flixster logo" src="/static/images/logo.flixster.gif"></a>
+	<a href="/inviteDisplay.do?displayInvite="><img id="addFriends" name="nav_invite0" alt="add friends logo" onmouseover="this.src='/static/images/nav_invite0_over.gif';" onmouseout="this.src='/static/images/nav_invite0_off.gif';" src="/static/images/nav_invite0_off.gif" border="0"></a>
+
+	
+	
+	
+		<div id="loginAlert">
+			<img src="/static/images/icons/alert.gif" alt="login alert image" height="30">
+			<div>You are not logged in.</div>
+			<a href="/userAuth.do?displayLogin=">Sign In or Register</a>
+		</div>
+	
+	
+
+</div>
+
+
+
+
+
+	
+	
+
+<ul id="tabs">
+
+	
+    <li>
+    	<a href="http://www.flixster.com" title="Flixster">Home</a>
+    </li>
+
+	
+    <li>
+    	<a href="/movies.do?displayTheater=" title="Movies">Movies</a>
+		<ul>
+			<li><a href="/movies.do?displayTheater=" title="Movies in Theaters"><span>In Theaters</span></a></li>
+			<li><a href="/movies.do?browseDvds=" title="Movies on DVD">On DVD</a></li>
+			<li><a href="/rate.do?quickRate=" title="Rate Movies">Rate Movies</a></li>
+			<li><a href="/recommend.do?viewRecommendations=" title="Movie Recommendations">My Recommendations</a></li>
+		</ul>
+    </li>
+	
+	
+    <li>
+    	<a href="/actors.do" title="Actors &amp; Actresses">Actors</a>
+    	<ul>
+			<li><a href="/actors.do" title="Actors &amp; Actresses">Actor Home</a></li>
+			<li><a href="/photos.do?gallery=topActorPhotosThisWeek" title="Actor Photos">Actor Photos</a></li>
+			<li><a href="/photos.do?gallery=topActressPhotosThisWeek" title="Actress Photos">Actress Photos</a></li>
+			<li><a href="/actors.do?displayRandomActor=" onclick="urchinTracker('RandomActor');" title="Random Actor">Random Actor</a></li>
+		</ul>
+    </li>
+
+	
+    <li>
+    	<a href="/news.do?viewTop=" title="Movie News">News</a>
+		<ul>
+			<li><a href="/news.do?viewTop=" title="Top Stories">Top Stories</a></li>
+			<li><a href="/news.do?viewRecent=" title="Recent Stories">Most Recent</a></li>
+			<li><a href="/newsAction.do?viewSaved=" title="My Saved Stories">My Saved Stories</a></li>
+			<li><a href="/newsAction.do?viewSubmitted=" title="My Submitted Stories">My Submitted Stories</a></li>
+		</ul>
+    </li>
+	
+	
+    <li>
+    	<a href="http://www.flixster.com">Profile</a>
+
+		<ul>
+			<li>
+				
+					
+						<a href="/friendsAction.do?displayMyProfile=" title="My Profile">My Profile</a>
+					
+					
+				
+			</li>
+			<li>
+				
+					
+						<a href="/friendsAction.do?displayMyRatings=" title="My Movie Ratings">My Ratings</a>
+					
+					
+				
+			</li>
+			<li>
+				<a href="/listsAction.do?viewFavoriteMovieList=" title="My Favorite Movies">My Favorite Movies</a>
+			</li>
+			<li>
+				<a href="/listsAction.do?viewFavoriteActorList=" title="My Favorite Actors">My Favorite Actors</a>
+			</li>
+			<li>
+				
+					
+						<a href="/photoAction.do?displayMyFavoritePhotos=" title="My Favorite Photos">My Favorite Photos</a>
+					
+					
+				
+			</li>	
+			<li>
+				
+					
+						<a href="/videoAction.do?displayMyFavoriteVideos=" title="My Favorite Videos">My Favorite Videos</a>
+					
+					
+				
+			</li>
+			<li><a href="/skins.do?viewProfileSkinGallery=" title="Skins Gallery">Skins Gallery</a></li>
+		</ul> 
+
+    </li>
+    
+	
+    <li>
+    	<a href="http://www.flixster.com">My Friends</a>
+    	<ul>
+			<li><a href="/friendsAction.do?displayFriends=" title="My Friends">My Friends</a></li>
+			<li><a href="/converse.do" title="My Conversations">My Conversations</a></li>
+			<li><a href="/friendsAction.do?displayFriendsReviews=" title="My Friends' Movie Reviews">My Friends' Reviews</a></li>
+			<li><a href="/friendsAction.do?displayWts=" title="Movie Night Planner">Movie Night Planner</a></li>
+			<li><a href="/inviteDisplay.do?displayInvite=" title="Invite Friends">Invite</a></li>
+		</ul>
+    </li>
+        
+	
+    <li>
+    	<a href="/people.do?meetPeopleLikeMe=" title="Meet People">Meet People</a>
+		<ul>
+			<li><a href="/people.do?meetPeopleLikeMe=" title="Meet People Like Me">People Like Me</a></li>
+			<li><a href="/people.do?meetPeopleNearMe=" title="Meet People Near Me">People Near Me</a></li>
+			<li><a href="/people.do?meetPeopleOnline=" title="Meet People Online Now">People Online Now</a></li>
+			<li><a href="/people.do?findTopUsers=" title="Top User Charts">Top User Charts</a></li>
+			<li><a href="/people.do?findUser=" title="Find a User">Find a User</a></li>
+			<li><a href="/people.do?randomUser=" title="Random User">Random User</a></li>
+		</ul>
+    </li>
+
+	
+    <li>
+    	<a href="http://www.flixster.com">Fun Stuff</a>
+    	<ul>
+			<li><a href="/never-ending-quiz" title="Never Ending Movie Quiz">Never-Ending Quiz</a></li>
+			<li><a href="/user-quiz/view-leaders" title="User Quizzes">User Quizzes</a></li>
+			<li><a href="/video.do" title="Movie Video Clip Gallery">Video Galleries</a></li>
+			<li><a href="/photos.do" title="Movie Photo Gallery">Photo Galleries</a></li>
+			<li><a href="/forums.do?displayForums=" title="Movie Forums">Forums</a></li>
+			<li><a href="/mctResults.do?displayMctDetail=" title="Movie Compatibility Test">The MCT</a></li>
+		</ul>
+    </li>
+
+</ul>
+
+	
+	
+
+<div id="navigation">
+
+	<div class="bar clearfix">
+
+		
+
+
+<form id="navSearch" name="navSearch" action="/movies.do" method="get">
+	<input type="hidden" name="movieAction" value="doMovieSearch">
+	<input type="text" id="navSearchText" name="search" value="Movies, actors, directors">
+	<input type="image" src="/static/images/search.gif">
+</form>
+
+
+	</div>
+
+</div>
+
+	<div id="body">
+
+
+
+
+
+
+
+
+
+
+
+<div id="contents">
+
+	<p>
+		</p><h1>Privacy Policy</h1>
+	<p></p>
+
+	<p>
+		</p><h3>Flixster's Privacy Policy: Updated April 10, 2007</h3>
+	<p></p>
+
+	<p>
+		</p><h3>Our Commitment to You</h3>
+
+		<p>Welcome to Flixster, an online community for movie fans where users can setup a profile with all of their favorite movies, connect their profile with friends and meet new people with similar taste. The founders and employees of Flixster take your privacy very seriously. To make it easier for you to read and understand our privacy policy, we did the unconventional thing - we wrote this in plain English and tried to keep it to a reasonably short length.</p>
+
+		Here are our privacy principles:<br><br>
+		* You control your personal information on Flixster<br>
+		* You control the communication you receive from Flixster<br>
+		* You can end your membership with Flixster at any time<br>
+
+	<p></p>
+
+	<p>
+		</p><h3>Information Collected by Flixster</h3>
+
+		<p>When you register to become a member of Flixster, you submit personally identifiable information such as your name and email address. As part of your personal profile, you may choose to submit additional information such as age, gender, location, interests and other content, such as photos.</p>
+
+		<p>We also collect other non-personally identifiable data, which may include your IP address and what browser you are using.</p>
+
+	<p></p>
+
+	<p>
+		</p><h3>Use of Information</h3>
+
+		<p>We will display your personal information on your profile and elsewhere on the site according to the preferences you set in your account where it may be seen by other members or non-members.  As with any online service, we encourage users to think carefully about what personal information they will disclose on their profile. </p>
+
+		<p>We may use your information such as your age, zip code or IP address, to statistically analyze site usage and to customize our site's content, layout and services. The resulting information will allow us to improve our site and better understand and serve our users.  </p>
+
+		<p>We may share your information with third-party service providers including advertisers to help us provide or improve the service.  See below for a description of advertising policies. </p>
+
+		<p>Finally, we will disclose your personally identifiable information if we reasonably believe we are required to do so by law, regulation or other government authority or to protect the rights and property of Flixster, its affiliates or the public. We may also cooperate with law enforcement agencies in any official investigation and we may disclose your personally identifiable information to the relevant agency in doing so.</p>
+
+	<p></p>
+
+	<p>
+		</p><h3>Reviewing and Changing Your Profile</h3>
+
+		<p>You can review and revise your personal profile at any time.  </p>
+
+	<p></p>
+
+	<p>
+		</p><h3>Email Policies</h3>
+
+		<p>By default, we will send you weekly updates of various site information including new movies or quizzes of the week, a variety of transactional emails such as when users post comments to your profile and the occasional site announcement.</p>
+
+		<p>You have full control regarding which of these emails you want to receive. To change your options, simply click "My Account" at the top right corner of any page.</p>
+
+	<p></p>
+
+	<p>
+		</p><h3>Inviting Friends to Flixster</h3>
+
+		<p>Flixster is intended to be a place to share movie ratings and reviews with friends. We hope you will like the site and invite others to join you!</p><p>
+
+		</p><p>Inviting friends to Flixster is always completely optional. When you choose to invite friends, we will send an email to the addresses you enter indicating that it is a message from you. We will share your name and email address with anyone you invite so that they know who the invitation is coming from. If a friend does not respond to the initial invitation after a little while, we will send up to two reminder messages on your behalf.
+
+		</p><p>For your convenience, Flixster offers the ability to import email addresses from common address books such as Hotmail/Yahoo/Gmail/AOL. If you choose to use this feature, we will access your address book using the login details that you provide. We access your address book only once to retrieve your friends' information so that you may select whom to invite. We do not store your login details nor do we use them for any other purpose then to retrieve your contacts. We never send invitations to contacts you do not explicitly select and your invitations are the only email we will ever send to your friends unless they register to join the site.</p>
+
+		<p>If you have accidentally sent invitations you did not intend - please contact us and we can cancel the reminder message.</p>
+
+	<p></p>
+
+	<p>
+		</p><h3>Children</h3>
+
+		<p>Children under the age of thirteen (13) are not eligible to use our service. If we become aware that any user is under the age of 13, we cancel their account and delete all of their personal information.</p>
+
+	<p></p>
+
+	<p>
+		</p><h3>Effective Date</h3>
+
+		<p>This Privacy Policy statement is effective as of April 10, 2007.</p>
+
+	<p></p>
+
+	<p>
+		</p><h3>Use of Cookies</h3>
+
+		<p>Cookies are a standard Internet technology, and many major web sites use them to provide useful features for their members. Cookies allow us to store and retrieve login information on a user's system. They provide us with data that we can use to improve the quality of our service and make it easier to use. Most browsers are initially set up to accept cookies. If you'd prefer, you can set yours to refuse cookies. However, you may not be able to take full advantage of our web site if you do so.</p>
+
+	<p></p>
+
+	<p>
+		</p><h3>Third Party Advertising</h3>
+
+		<p>Flixster may share profile information in a personally identifiable manner and aggregate usage information in a non-personally identifiable manner to advertisers and other third parties in order to present to members more targeted advertising, products and services. Advertisements that appear on this web site are delivered to users by our advertising partners. Our advertising partners may set cookies.</p>
+
+	<p></p>
+
+	<p>
+		</p><h3>Acquisition or Business Transfer</h3>
+
+		<p>We reserve the right to transfer your personal information in the event of a merger, acquisition or reorganization of ownership of Flixster. It is possible that an acquiring company may materially change this privacy policy.</p>
+
+	<p></p>
+
+	<p>
+		</p><h3>Security</h3>
+
+		<p>The security of your personal information depends on your protection of your account password. Please do not disclose your account password to unauthorized people. Flixster uses industry standard technology designed to help keep your personal information safe. If you have any other questions about the security of our website, please contact us using the links at the bottom of the page.</p>
+
+	<p></p>
+
+	<p>
+		</p><h3>Changes in Privacy Policy</h3>
+
+		<p>From time to time we may update this Privacy Policy. Your continued usage of Flixster constitutes an acceptance of the then-current Privacy Policy and Terms of Service so we encourage you to visit this page periodically to review any changes. </p>
+
+	<p></p>
+
+	<p>
+		</p><h3>Canceling Membership</h3>
+
+		<p>You always have the option to cancel your membership at any time. If you are a member and no longer wish to participate in Flixster you can sign in to the site and click on the 'My Account' at the top of the page; then select 'cancel membership' and follow the simple instructions.</p>
+
+	<p></p>
+
+	<p>
+		</p><h3>Contact</h3>
+
+		<p>If you have any questions about this privacy statement, the practices of this website or your dealings with this website, you can contact us via the links at the bottom of every page, or by writing to:</p>
+
+		<p>
+		Customer Support<br>
+		Flixster, Inc<br>
+		PO Box 40577<br>
+		San Francisco, CA 94110	<br>
+		</p>
+	<p></p>
+
+	<div class="links"><img src="/static/images/icons/left-arrow.gif"> <strong><span class="jlink" onclick="history.go(-1);">Back to Previous Page</span></strong></div>
+
+</div>
+</div>
+	
+	
+
+<div id="footer" class="clearfix">
+
+	<ul>
+		<li><a title="Contact Flixster" href="/support/contact">Contact us</a> |</li>
+		<li><a title="Privacy Policy" href="/userAuth.do?privacy=">Privacy</a> |</li>
+		<li><a title="Terms of Use" href="/userAuth.do?tos=">Terms</a> |</li>
+		<li><a title="Flixster Copyrights" href="/userAuth.do?copyright=">Copyright</a> |</li>
+		<li><a title="About Flixster" href="/userAuth.do?aboutUs=">About Us</a> |</li>
+		<li><a title="Help" href="/support">Help</a> |</li>
+		<li><a title="Advertise on Flixster" href="/userAuth.do?advertise=">Advertise</a></li>
+	</ul>
+
+	<div id="partner">
+		<a title="iLike - discover music with friends" href="http://www.ilike.com"><i>iLike - discover music with friends</i></a>
+	</div>
+
+	<div id="server">web16.flixster.com</div>
+
+</div>
+
+	
+	<script type="text/javascript">
+
+	
+	_uacct = "UA-191156-1";
+	
+	
+	
+		
+	
+	
+	
+		
+		
+		
+		
+		
+			
+		
+
+		
+
+		urchinTracker('PrivacyAnon');
+		//window.alert("urchin=PrivacyAnon");
+	
+	
+	
+	
+	
+
+</script>
+	
+	<div id="dhtmlfloatie" style="display:none;position:absolute;font-weight:bold;border:1px solid #ffffff;top:0px;right:0px;background-color:red;color:#ffffff;padding:2px 4px 2px 4px;"></div>
+	
+	<script type="text/javascript">
+	Application.start();
+	</script>
+	
+
+
+</body></html>
