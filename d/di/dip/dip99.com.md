@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the dip99.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021045041id_/http%3A//dip99.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dip99.com privacy policy that was archived on 2007-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070518213522id_/http%3A//www.dip99.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Dip99.com Search Engine - Privacy Policy
+# Dip99 Search Engine - Privacy Policy
 
   
-**Dip99.com Search Engine - Privacy Policy** \- Last Modified November 18, 2005
+**Dip99 Search Engine - Privacy Policy** \- Last Modified February 22, 2007
 
-> This website (the "Site") is owned and operated by Panagiotis Plevrakis and we are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. Dip99.com has established this Privacy Policy to let you know what information we may collect from you on the Site and how we may use that information. Please take a moment to review the terms of our Privacy Policy. By using the Site (including Dip99.com's search engine and any other services offered on the Site), you agree to accept the terms of our Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site or our services. This Privacy Policy applies only to information that we collect on the Site (or otherwise through our search engine) and does not apply to information which we may collect by other means.
+> This website (the "Site") is owned and operated by Hrisoula Fragis and we are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. Dip99 has established this Privacy Policy to let you know what information we may collect from you on the Site and how we may use that information. Please take a moment to review the terms of our Privacy Policy. By using the Site (including Dip99's search engine and any other services offered on the Site), you agree to accept the terms of our Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site or our services. This Privacy Policy applies only to information that we collect on the Site (or otherwise through our search engine) and does not apply to information which we may collect by other means.
 > 
 > Personal Information
 > 
@@ -19,9 +19,9 @@
 > 
 > _With Whom We May Share Your Information_
 > 
-> If you choose to provide us with your Personal Information on the Site, we may transfer that information within Dip99.com. We may store and process Personal Information collected on our Site in the United States or any other country in which Dip99.com or its agents maintain facilities. By using our Site and services, you consent to the transfer of your information among these facilities, including those located outside your country. Third parties provide certain services available on the Site on Dip99.com's behalf. For example, Service providers are an important means by which Dip99.com maintains the Site and our mailing lists. Dip99.com may provide information, including Personal Information that Dip99.com collects on the Site, to third-party service providers to help us deliver programs, products, information, and services. Dip99.com will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on Dip99.com's behalf.
+> If you choose to provide us with your Personal Information on the Site, we may transfer that information within Dip99. We may store and process Personal Information collected on our Site in the United States or any other country in which Dip99 or its agents maintain facilities. By using our Site and services, you consent to the transfer of your information among these facilities, including those located outside your country. Third parties provide certain services available on the Site on Dip99's behalf. For example, Service providers are an important means by which Dip99 maintains the Site and our mailing lists. Dip99 may provide information, including Personal Information that Dip99 collects on the Site, to third-party service providers to help us deliver programs, products, information, and services. Dip99 will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on Dip99's behalf.
 > 
-> As Dip99.com develops, we may buy other businesses or their assets or sell our business assets. Customer information is generally one of the business assets involved in such transactions. Thus, in the event that Dip99.com or all of its assets are acquired, customer information would be one of the transferred assets.
+> As Dip99 develops, we may buy other businesses or their assets or sell our business assets. Customer information is generally one of the business assets involved in such transactions. Thus, in the event that Dip99 or all of its assets are acquired, customer information would be one of the transferred assets.
 > 
 > We reserve the right to disclose visitor information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other visitors, or anyone else that could be harmed by such activities. We also reserve the right to disclose visitor information when we believe in good faith that the law requires it.
 > 
@@ -39,7 +39,7 @@
 > 
 > Search Engine
 > 
-> When you use our search engine, we may collect certain non-personally identifiable information through the use of cookies and other tracking technologies described above. For example, when you use our search engine, we may keep track of which search terms are popular. If we display advertising to you on the Site (including the search results pages displayed after any searches you may run), such advertising may be related to the search terms you entered. Dip99.com may present search result links in a format that enables us to understand whether they have been followed and may monitor click-throughs on an individual and an aggregate basis. We use this information to understand and improve the quality of Dip99.com's search technology. For instance, this data helps us determine how often users are satisfied with the first result of a query and how often they proceed to later results.
+> When you use our search engine, we may collect certain non-personally identifiable information through the use of cookies and other tracking technologies described above. For example, when you use our search engine, we may keep track of which search terms are popular. If we display advertising to you on the Site (including the search results pages displayed after any searches you may run), such advertising may be related to the search terms you entered. Dip99 may present search result links in a format that enables us to understand whether they have been followed and may monitor click-throughs on an individual and an aggregate basis. We use this information to understand and improve the quality of Dip99's search technology. For instance, this data helps us determine how often users are satisfied with the first result of a query and how often they proceed to later results.
 > 
 > Certain search results may be "premium" results, which consist of websites who have paid for placement in the search results. These listings are provided by our business partners. These premium results may contain tracking URLs provided by our partners to identify clicks from the search results page. Again, information gathered by these means will not personally identify you. Any information collected by our partners will be subject to their privacy policy.
 > 
@@ -49,15 +49,15 @@
 > 
 > Security
 > 
-> Wherever your Personal Information may be held within Dip99.com or on its behalf, we intend to take reasonable and appropriate steps to protect the Personal Information that you share with us from unauthorized access or disclosure. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your Personal Information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and cannot be responsible for the theft, destruction, or inadvertent disclosure of your Personal Information.
+> Wherever your Personal Information may be held within Dip99 or on its behalf, we intend to take reasonable and appropriate steps to protect the Personal Information that you share with us from unauthorized access or disclosure. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your Personal Information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and cannot be responsible for the theft, destruction, or inadvertent disclosure of your Personal Information.
 > 
 > Updating Your Information
 > 
-> To the extent that you do provide us with Personal Information, Dip99.com wishes to maintain accurate Personal Information. If we collect Personal Information from you on the Web, you may send updates and corrections about your Personal Information to [legal@dip99.com](mailto:legal@dip99.com) and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable.
+> To the extent that you do provide us with Personal Information, Dip99 wishes to maintain accurate Personal Information. If we collect Personal Information from you on the Web, you may send updates and corrections about your Personal Information to [legal@dip99.com](mailto:legal@dip99.com) and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable.
 > 
 > Children's Privacy
 > 
-> Dip99.com.com is not structured to attract children. Accordingly, we do not knowingly collect Personal Information from anyone under 13 years of age. If you are under the age of 13, please do not provide any Personal Information to us.
+> Dip99.com is not structured to attract children. Accordingly, we do not knowingly collect Personal Information from anyone under 13 years of age. If you are under the age of 13, please do not provide any Personal Information to us.
 > 
 > Changes to Our Privacy Policy
 > 
@@ -65,7 +65,7 @@
 > 
 > Governing Law
 > 
-> This Privacy Policy and the privacy practices of Dip99.com will be subject exclusively to the laws of the province of Ontario within Canada. Dip99.com makes no representation that this Privacy Policy and such practices comply with the laws of any other country. Visitors who use the Site, the search engine or any other services offered on the Site and reside outside the United States do so on their own initiative and are responsible for compliance with local laws, if and to the extent local laws are applicable.
+> This Privacy Policy and the privacy practices of Dip99 will be subject exclusively to the laws of the province of Ontario within Canada. Dip99 makes no representation that this Privacy Policy and such practices comply with the laws of any other country. Visitors who use the Site, the search engine or any other services offered on the Site and reside outside the United States do so on their own initiative and are responsible for compliance with local laws, if and to the extent local laws are applicable.
 > 
 > If you have any comments or questions regarding our Privacy Policy, please contact us at [legal@dip99.com](mailto:legal@dip99.com). While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible.  
 > 
