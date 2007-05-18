@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealspl.us privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217182353id_/http%3A//dealspl.us/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealspl.us privacy policy that was archived on 2007-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070518034135id_/http%3A//dealspl.us/privacy.php) for the most accurate reproduction.*
 
 # DealsPlus - Hot Deals, Coupons, Compare Prices, Shopping, Reviews
 
