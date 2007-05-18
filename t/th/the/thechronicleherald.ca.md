@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thechronicleherald.ca privacy policy that was archived on 2006-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061009065033id_/http%3A//thechronicleherald.ca/services/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thechronicleherald.ca privacy policy that was archived on 2007-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070518071923id_/http%3A//thechronicleherald.ca/services/privacypolicy.html) for the most accurate reproduction.*
 
 # The ChronicleHerald.ca
 
@@ -20,7 +20,7 @@ There are ten (10) principles of fair information practices. These principles fo
 
 The ten (10) principles that The Chronicle Herald must follow are: 
 
-**1\. Accountability** \- The Chronicle Herald is responsible for personal information that is under its control. The individual responsible for The Chronicle Heralds compliance with respect to the principles of fair information practices is Theresa Williams, Human Resources Manager. The Chronicle Herald is responsible for personal information in its possession, including information that has been sent to a third party for processing. The Chronicle Herald shall use contractual means to provide a comparable level of protection while the information is being processed by a third party. 
+**1\. Accountability** \- The Chronicle Herald is responsible for personal information that is under its control. The individual responsible for The Chronicle Herald's compliance with respect to the principles of fair information practices is Theresa Williams, Human Resources Manager. The Chronicle Herald is responsible for personal information in its possession, including information that has been sent to a third party for processing. The Chronicle Herald shall use contractual means to provide a comparable level of protection while the information is being processed by a third party. 
 
 **2\. Identifying Purposes** \- The Chronicle Herald shall identify the purpose for which personal information is collected at or before the time that the information is collected. 
 
@@ -160,7 +160,7 @@ The Chronicle Herald must refuse access to personal information in the following
 
 The customer shall be made aware of The Chronicle Herald's Privacy Policy and that it is in place for protection of their personal information. The customer shall be offered a copy of this policy. 
 
-The customer shall be provided with the name, title and address of the person accountable for The Chronicle Heralds privacy policies and practices. This person is presently Theresa Williams, Human Resources Manager, The Chronicle Herald, P O Box 610, Halifax, NS, B3J 2T2. Phone: (902)426-1103, Fax: (902)426-0449, Email: [twilliams@herald.ca](mailto:twilliams@herald.ca). 
+The customer shall be provided with the name, title and address of the person accountable for The Chronicle Herald's privacy policies and practices. This person is presently Theresa Williams, Human Resources Manager, The Chronicle Herald, P O Box 610, Halifax, NS, B3J 2T2. Phone: (902)426-2811 ext. 1103, Fax: (902)426-0449, Email: [twilliams@herald.ca](mailto:twilliams@herald.ca). 
 
 All complaints shall be investigated and the customer will be advised of the outcome. If a complaint is justified, The Chronicle Herald shall take appropriate steps to resolve the complaint including but not limited to amendment of The Chronicle Heralds policies and procedures. 
 
