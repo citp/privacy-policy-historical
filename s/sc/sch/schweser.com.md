@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the schweser.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205212838id_/http%3A//www.schweser.com/help/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schweser.com privacy policy that was archived on 2007-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070518205158id_/http%3A//www.schweser.com/help/privacypolicy.php) for the most accurate reproduction.*
 
-# CFA Exam Review, Prep, Study Program, Chartered Financial Analyst, CFA Institue, Curriculum :: Schweser, Your Partner in Financial Education
+# CFA Exam Review, Prep, Study Program, Chartered Financial Analyst, CFA Institute, Curriculum :: Schweser, Your Partner in Financial Education
 
 We understand that our visitors and members need to be in control of their personal information. This policy explains how and why we collect information from you and how we use it. Our policies and systems are designed to give you a private, secure means of communicating with us and using the services of our site.
 
