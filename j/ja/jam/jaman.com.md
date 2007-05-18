@@ -1,69 +1,134 @@
-> *The following text is extracted and transformed from the jaman.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409215749id_/http%3A//www.jaman.com/index.cfm%3Fa%3Dhelp%26sa%3Dgetstart%26tab%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaman.com privacy policy that was archived on 2007-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070518114249id_/http%3A//jaman.com/a/download/%3FtheAction%3Dshow_privacy_policy) for the most accurate reproduction.*
 
-# Afternic.com - Getting Started
+# Jaman - Jaman Privacy Policy
 
-Your privacy is very important to us. As part of the normal operation of our business services, we collect and, in some cases, disclose information about you. This Privacy Policy outlines the information that we collect about you and what may happen to that information. The privacy policies of this notice apply to [http://www.Afternic.com](https://web.archive.org/web/20010409215749id_/http%3A//www.jaman.com/index.cfm) (hereafter, the Site).
+[](http://www.truste.org/ivalidate.php?url=www.jaman.com&sealid=101)
 
-As described below, some of your personally identifiable information is disclosed to third parties and used by us and third parties. By accepting the User Agreement, you expressly consent to our use and disclosure of your personally identifiable information. This Privacy Policy is incorporated into and subject to the terms of the [AFTERNIC.COM, Inc. User Agreement](https://web.archive.org/web/20010409215749id_/http%3A//www.jaman.com/index.cfm?a=help&sa=getstart&tab=useragreement).
+Jaman.com, Inc. ("Jaman") recognizes that its customers, visitors, Members, and others who use www.jaman.com (the "Jaman Site") (collectively or individually "Members") value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the Jaman Site. Jaman provides this Privacy Notice to help you make an informed decision about whether to use or continue using the Jaman Site. This Privacy Notice is incorporated into and is subject to the Jaman Terms of Use. Your use of the Jaman Site and any personal information you provide on the Jaman Site remains subject to the terms of this Privacy Notice and our Terms of Use.
 
-AFTERNIC.COM reserves the right to change its privacy policy from time to time. Before policy changes take effect, however we will post notices prominently.
+Please note that any video, image, or other content posted at the direction of Members onto the Jaman Site becomes published content and is not considered personally identifiable information subject to this Privacy Notice.
 
- **1\. Information we collect**  
-If you are merely visiting our site, we collect and store only the following information about you:
+**Newsletters and Mailing Lists**  
+When you sign up for the Jaman service, you are automatically signed up for Jaman's monthly newsletter, "5,4,3,2,1". If you wish to be excluded from these mailings, go to your account page and turn off email notifications. You will be excluded from future mailings. If you have questions about your subscription to the mailing list, please email [support@jaman.com](mailto:support@jaman.com)
 
-  * The IP address of the terminal from which you access the Internet 
-  * The IP address of the website from which you linked directly to our site 
-  * The date and time you access our site 
-  * The browser you used to access the site 
-  * The operating system you used to access the site 
+**The Information Jaman Collects** **  
+**_Account Information:_ You provide certain personally identifiable information (such as your name, email address, credit card information –including billing address--, and age) to Jaman in order to participate in various activities on the Jaman Site such as uploading videos, posting messages in our forums or in the video comments section, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or receiving newsletters or other mailing lists.
 
+_Profile:_ You may also elect to provide information about yourself in your profile. Jaman does not require you to fill out a profile in order to participate in the service or community.  Jaman makes no claims about the privacy of publicly available profile information.
 
+_Cookies Information:_ When you visit the Jaman Site, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. Jaman uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Jaman Site may not function properly if the ability to accept cookies is disabled. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
 
-We use this information to measure the number of visitors to the different sections of our site, and to help us make our site more useful to visitors.
+_Log File Information:_ When you use the Jaman Site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.
 
-We will not obtain any other personally identifying information about you when you visit our site, unless you choose to provide such information to us.
+_Clear GIFs Information:_ When you use the Jaman Site, we may employ "clear GIFs" (a.k.a. Web Beacons) which are used to track the online usage patterns of our Members anonymously (i.e., in a non-personally-identifiable manner). In addition, we may also use clear GIFs in HTML-based emails sent to our Members to track which emails are opened by recipients.
 
-As a STANDARD MEMBER or EXCHANGE MEMBER, we collect and store additional information about you. To fully use our services, you will need to register using our online form. You will be required to provide us with your contact information and other personal information such as User ID, email address, and billing address. In addition, as an EXCHANGE MEMBER, you will be required to provide your credit card number and its expiration date. We use this credit card information to verify your name, address, and other personally identifying information as well as to process your transactions.
+**The Way Jaman Uses Information**  
+If you submit personally identifiable information to us through the Jaman Site, we use your personal information to operate, maintain, and provide to you the features and functionality of the Jaman Site.
 
-We automatically track certain information about you based upon your behavior on our site. We use this information to analyze user demographics, interests, and behavior to better understand your preferences and improve your AFTERNIC.COM experience.
+**_Details:_**  
+_Account information:_ Your account information (for example, full name, email address, birth date, credit card number, and rental/purchase history) are collected for basic Jaman service.  Jaman will use this information to fulfill our service to you as follows:
 
-Cookies are used on certain pages of our site. We offer certain features that are only available through the use of a cookie. Cookies are stored on your hard drive, not on our site. If your browser permits, you are always free to decline our cookies, but you may not be able to use certain site features and will have to enter your personally identifying information manually more often. If you choose to buy, bid, sell, or appraise on our site, we collect information about these behaviors. 
-
-When you successfully buy or sell a domain name, we collect some additional information including name servers, administrative contacts, business identification, special registrar requirements, billing address, bank account number, and tracking information from checks and money orders. Bank account information is deleted when your transaction closes. 
-
-**2\. How we use your information**  
-We use the information we collect from you to transmit administrative notices, buy/sell information and support, billing information, to send you specific information that you have requested, to process your credit card purchases, and to complete the paperwork necessary to transfer a domain name registration. We may also use it to send you information that is targeted to your interests, such as upcoming auctions and promotions. By accepting the User Agreement, you expressly agree to receive this information. Additionally, on appropriate portions of the site, we may display or archive your user name and system- and user-generated feedback, including the comments you submit and that others submit about you.
-
-If you send us personal correspondence, such as emails or letters, or if third parties such as other users send us correspondence about your activities or postings on the site, we may collect such information into a file with information specific to you. We use this information to support your customer inquiries, settle disputes, enforce our User Agreement, maintain our customer ranking system, troubleshoot problems, and to identify you as eligible for special user campaigns. On rare occasions, we may look across multiple users to identify problems, resolve disputes, and evaluate you for multiple user names.
-
-As a general proposition, we do not sell or rent any personally identifiable information about you to any third party. If you choose to use the optional services available on the site, we will, by necessity, provide some of your personally identifiable information to these service providers. However, you can avoid these disclosures by choosing to not use these services. Because we do not control the privacy practices of these third parties, you should evaluate their practices before deciding to use their services.
-
-Unfortunately, due to the existing regulatory environment, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. As an example, without limiting the foregoing, AFTERNIC.COM will provide personal data records if required by the order of any court of competent jurisdiction. We may disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal and may expose us to legal liability. Therefore, although we use industry standard practices to protect your privacy, we cannot guarantee, and you should not expect, that your personally identifiable information or private communications will remain private.
-
-**3\. Special note about children**  
-Children are not eligible to use our services. We ask that minors do not submit any personal information to us. 
-
-If you believe your child has errantly submitted personally identifying information on the site, please send us an email message with the name of your child, the email address which the child used to contact us, and the child’s postal address. We will notify you if we have any data matching these identifiers. If you can supply the additional information that we require to authenticate your relationship to the data subject, we will delete the data at your request.
-
-**4\. Your use of other users’ information**  
-In order to facilitate community, our service allows you to access other users’ personal information, such as (but not limited to) user name and listed auctions. Further, as a successful buyer or seller, you will be sent the other data subject’s name, address, email address, phone number, fax number, title, DNS information, and registrar identity information. 
-
-By entering into our User Agreement, you agree that, with respect to other user’s personally identifiable information, you obtain through the Site or through an AFTERNIC.COM-related communication or AFTERNIC.COM-facilitated transaction, AFTERNIC.COM hereby grants you license to use such information only for:
-
-  * AFTERNIC.COM -related communications that are not unsolicited commercial messages, and 
-  
-
-  * Any use that such user expressly opts into after adequate disclosure of the purpose(s).
+  * Your full name will be used to personalize communications to you and identify you in our system (for user searches, etc)
+  * Your email address will be used for identity verification, system messages, personal Jaman messages (unsubscribe available in “User Preferences”), newsletter (unsubscribe available in “User Preferences”), and other Jaman communications. 
+  * Your birth date is used to determine whether you are of legal age to view mature content.
+  * Your credit card information, including your billing address, will be used when you buy or rent films.
+  * Your rental/purchase history is used to establish licensing of films and provide insight into the kinds of movies Jaman may want to offer in the future.
 
 
 
-Additionally, under no circumstances, except those defined in this section, can you disclose personally identifiable information about another user to any third party without our consent and the consent of such other user after adequate disclosure. Note that law enforcement personnel and other rights holders are given different information access rights.
+_Profile Information:_   You elect to share as much or as little information about yourself in your personal profile.  Jaman makes no claims on the privacy of information that you have elected to make public.
 
-AFTERNIC.COM and its users will not tolerate any spam. Without limiting the foregoing, you are not licensed to add any AFTERNIC.COM user, even one with whom you have transacted, to your mail (email or physical) or phone list without their express consent after adequate disclosure.
+Any personal information or video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other Members when you upload videos or send messages through the Jaman Site and other Members can contact you through messages and comments. Any videos that you submit to the Jaman Site may be redistributed through the Internet and other media channels, and may be viewed by the general public.
 
-**7\. Reviewing and changing your information**  
-Following registration, you can review the information you submitted via your personal MY AFTERNIC account, including your Username and encoded credit card information. 
+_Community Involvement:_  If you use groups, reviews, or film blog on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages.  We are not responsible for the personally identifiable information you choose to submit in these forums or by private message to other users.
 
-Additionally, you can use your MY AFTERNIC account to review and modify other fields, including first and last name, address information, email address, and password. If you choose to change your email address, we will cross-match your new address in our database for relationship to any other data set. We will only allow unique email addresses to be used for registration.
+We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out (for example, our newsletter). We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major Jaman Site changes or for customer service purposes).
 
-At your discretion, you may review and change all fields in your personal domain name profile records at any time.
+We will send you service-related announcements on rare occasions when it is necessary to do so.  For instance, if our service is temporarily suspended for maintenance, we might send you an email.  Generally, you may not opt-out of these communications, which are not promotional in nature.  If you do not wish to receive them, you have the option to deactivate your account.
+
+We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous User usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the Jaman Site and to create new features, promotions, functionality, and services by storing, tracking, and analyzing User preferences and trends.
+
+We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the Jaman Site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests.
+
+**_Important Note About Your Flash Viewing History_**  
+Jaman stores information about which films you preview in streaming flash format.  This information is currently not used but may be used in the future without notice to determine site usage patterns.
+
+**When Jaman Discloses Information**
+
+  * We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.
+  * We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
+  * We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the Jaman Site.
+  * We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant.
+  * Jaman also reserves the right to disclose personally identifiable information and/or non-personally identifiable information that Jaman believes, in good faith, is appropriate or necessary to enforce our Terms of Use, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of Jaman, our Members or others. 
+
+
+
+**Your Choices** **  
+** You may, of course, decline to submit personally identifiable information through the Jaman Site, in which case Jaman may not be able to provide certain services to you. You may update or correct your personal profile information and email preferences at any time by visiting your account profile page. Please note that media files uploaded by Members to the Jaman Site may not be able to be removed and remain subject to our Terms of Use. 
+
+To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times. 
+
+Please contact Jaman with any questions or comments about this Privacy Notice, your personal information, your consent, or if you need help with your opt-in or opt-out choices (provided on the website) by emailing [support@jaman.com](mailto:support@jaman.com). 
+
+**Third-party Advertisers, Links to Other Sites** **  
+** Jaman may allow other companies, called third-party ad servers or ad networks, to serve advertisements within the Jaman Site. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Jaman Site. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see.
+
+Jaman does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. However, please note that if an advertiser asks Jaman to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. The advertiser may also use information regarding your use of the Jaman Site, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you. 
+
+You should consult the respective privacy policies of these third-party ad servers or ad networks (see links below) for more information on their practices and for instructions on how to opt-out of certain practices. Jaman's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+
+Currently, Jaman has relationships with the following third-party ad servers or ad networks:
+
+  1. Google, Inc.  
+[http://www.google.com/privacypolicy.html ](http://www.google.com/privacypolicy.html%C2%A0)
+
+
+
+Jaman uses Google to track traffic to the site by sending a JavaScript-related message to Google's servers from every page accessed.  Information collected may include identifiable information such as IP address, general geographic region, and type of computer.  The information that Google collects for tracking purposes is not connected in any way with your Jaman profile or identity.
+
+Jaman has a relationship with the following third-party mailing list service:
+
+  1. Constant Contact   
+[http://www.constantcontact.com/privacy_guarantee.jsp](http://www.constantcontact.com/privacy_guarantee.jsp)
+
+
+
+Jaman uses Constant Contact to collect and store data for the purpose of mailing list management and distribution.  They store, on our behalf, the information you provide (for example, full name, email address, etc) and use it for the express purposes of fulfilling mailing list service to Jaman, in accordance with their terms of service and privacy policy, above.  They will not use your information in ways other than those specified on their privacy policy.  All non-required information (for example, how you heard about Jaman) is for our information only so that we may know more about you.
+
+**Tell-A-Friend** **  
+** If you choose to use our referral service to tell a friend about our site (or the referral service of Constant Contact, our mailing list provider), we will ask you for your friend's name and email address.  We will automatically send your friend a one-time email inviting him or her to visit the site.  Jaman stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. 
+
+Your friend may contact us at [support@jaman.com](mailto:support@jaman.com) to request that we remove this information from our database.
+
+**Agents**    
+We use an outside shipping company to fulfill orders, and a credit card processing company to bill you for goods and services. These companies do not retain, share, store or use personally identifiable information for any other purposes.
+
+**Our Commitment To Data Security**  
+Jaman uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Jaman and you do so at your own risk. Once we receive your transmission of information, Jaman makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+
+If Jaman learns of a security systems breach, we may attempt to notify you electronically so that you can take appropriate protective steps. Jaman may post a notice on the Jaman Site if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us by emailing [support@jaman.com](mailto:support@jaman.com).
+
+The security of your personal information is important to us.  When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).
+
+**Our Commitment To Childrens' Privacy**    
+Protecting the privacy of young children is especially important. For that reason, Jaman does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the Jaman Site from persons under 13 years of age, and no part of our website is directed to persons under 13. If you are under 13 years of age, **then please do not use or access the Jaman Site at any time or in any manner**. If Jaman learns that personally identifiable information of persons less than 13 years of age has been collected on the Jaman Site without verified parental consent, then Jaman will take the appropriate steps to delete this information. 
+
+**Special Note to International Members** **  
+** The Jaman Site are hosted in the United States and are intended for and directed to Members in the United States. If you are a User accessing the Jaman Site from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Jaman Site, which are governed by U.S. law, this Privacy Notice, and our Terms of Use, you are transferring your personal information to the United States and you consent to that transfer.
+
+**Business Transitions  
+**In the event Jaman goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred.  You will be notified via email or prominent notice on our Web site for 30 days of any such change in ownership or control of your personal information. 
+
+**Changes and updates to this Privacy Notice** **  
+**  If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+
+We reserve the right to modify this privacy statement at any time, so please review it frequently.  If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+
+**Date Last Modified:** This Privacy Notice was last modified April 15, 2007.
+
+**Contact Information:**  
+Email: [support@jaman.com](mailto:support@jaman.com)  
+Address: 2955 Campus Dr, Suite 250, San Mateo, CA 94403  
+Phone: (650) 525-3500
+
+| 
