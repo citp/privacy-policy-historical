@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gottadeal.com privacy policy that was archived on 2006-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060711131856id_/http%3A//www.gottadeal.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gottadeal.com privacy policy that was archived on 2007-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070518154851id_/http%3A//www.gottadeal.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - GottaDeal.com
 
@@ -43,4 +43,4 @@ Our Site provides users the opportunity to opt-out of receiving communications f
 In addition, to request that we remove you from our database or stop sending you future communications, you can visit our mailing list page. 
 
 **CORRECT/UPDATE**   
-Users may submit requests to GottaDeal for changing, deleting, and modifying Personal Information previously submitted, by sending an email to this address. 
+Users may submit requests to GottaDeal for changing, deleting, and modifying Personal Information previously submitted, by sending an email to this address: gottadeal at gottadeal dot com. 
