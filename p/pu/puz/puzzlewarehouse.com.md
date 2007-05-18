@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puzzlewarehouse.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118162107id_/http%3A//www.puzzlewarehouse.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puzzlewarehouse.com privacy policy that was archived on 2007-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070518112128id_/http%3A//www.puzzlewarehouse.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
