@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cdfreaks.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206223033id_/http%3A//www.cdfreaks.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdfreaks.com privacy policy that was archived on 2007-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070518032839id_/http%3A//www.cdfreaks.com/policy) for the most accurate reproduction.*
 
-# CDFreaks.com | policy| privacy
+# CD Freaks.com � Worlds largest digital storage community
 
 CD Freaks privacy policy
 
