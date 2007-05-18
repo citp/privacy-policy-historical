@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the hypermart.net privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206002210id_/http%3A//www.hypermart.net/about/privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypermart.net privacy policy that was archived on 2007-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070518170924id_/http%3A//hypermart.net/about/privacy.bml) for the most accurate reproduction.*
 
 # Privacy Statement
 
-|  |   
-[Home](https://web.archive.org/) > [About Us](https://web.archive.org/about/) > Privacy Statement Privacy Statement
-
-At HyperMart, we are committed to protecting your privacy. The limited information we do collect is used to provide you with a personalized experience, better service, and at times, bring you value-added offers from our partners.  
+|  |    
+[Home](https://web.archive.org/) > [About Us](https://web.archive.org/about/) > Privacy Statement At HyperMart, we are committed to protecting your privacy. The limited information we do collect is used to provide you with a personalized experience, better service, and at times, bring you value-added offers from our partners.  
 
 
-The Information Collected and How It Is Used
+## The Information Collected and How It Is Used
 
   * **Cookies** Our site uses cookies to deliver content specific to your interests and to save your encrypted password so you don't have to re-enter it each time you visit our site. Also, we use cookies to make sure you don't see the same ad repeatedly.
   * **E-mail & Demographic Data** Our site's registration form requires users to give us contact information (i.e. name and e-mail address) and demographic information (i.e. interests and business information). We use contact information from the registration form to process quarterly Cash Back checks for our affiliate program, to send you a weekly HyperMart newsletter, and to send you information that may help your business grow. The customer's contact information is also used to contact the visitor when necessary (i.e. customer support issues). Users may later opt-out of receiving future mailings if they have opted-in initially; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor the customer's experience at our site, showing content that we think might be of interest, and displaying the content according to customer preferences.
@@ -21,7 +19,7 @@ During the registration process, you are provided with the opportunity to opt ou
 To ensure you receive the information you need to manage your account and protect your privacy, please be sure to keep your contact and billing information up to date. You can update all account-related information directly through your Members Area. Alternatively, you can contact the HyperMart Customer Support through our online [support form](https://web.archive.org/support/supportForm.bml).  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with HyperMart, you can contact: 
 
-> [HyperMart](https://web.archive.org/support/supportForm.bml)   
+> [HyperMart](https://web.archive.org/support/supportForm.bml)  
 >  70 Blanchard Road, 3rd Floor  
 >  Burlington, MA 01803  
 > 
