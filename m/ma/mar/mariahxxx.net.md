@@ -1,13 +1,18 @@
-> *The following text is extracted and transformed from the mariahxxx.net privacy policy that was archived on 2006-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060719074330id_/http%3A//mariahxxx.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mariahxxx.net privacy policy that was archived on 2007-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070518060030id_/http%3A//mariahxxx.net/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
 Privacy Policy Statement
 
-This website (the "Site") is owned by: First Amendment Marketing Enterprises, LLC   
-5662 Cahuenga Blvd Suite 252 North Hollywood, CA 91601 
+This website (the "Site") is owned by:    **Zmac1 Inc**
 
-We can be reached via e-mail at [webmaster@sexxxhouse.net](mailto:webmaster@sexxxhouse.net)
+6451 thirds st suite a  
+  
+---  
+Rockledge, FL 32955  
+(support@camz.com)  
+  
+We can be reached via e-mail at support@camz.com
 
 This Privacy Policy Statement sets forth the policies and practices with respect to information or data gathered regarding subscriber and members of this Site. This is an adult Site that expressly and strictly limits its membership to adults. All persons under the age of 18 are strictly prohibited from accessing or viewing the contents of this Site. 
 
@@ -57,4 +62,4 @@ Each subscriber should carefully read each of the terms and conditions of Member
 
 In the event of any conflicts between the Membership Terms the Conditions and this Privacy Policy Statement, the provisions of this Privacy Policy shall control. 
 
-email us for any further information regarding any legal aspect of this document at [webmaster@sexxxhouse.net](mailto:webmaster@sexxxhouse.net)
+email us for any further information regarding any legal aspect of this document at support@camz.com
