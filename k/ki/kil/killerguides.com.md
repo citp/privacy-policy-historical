@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the killerguides.com privacy policy that was archived on 2006-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061220140807id_/http%3A//www.killerguides.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the killerguides.com privacy policy that was archived on 2007-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070518123218id_/http%3A//www.killerguides.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Killer Guides
 
@@ -6,13 +6,14 @@
 
   * [City of Heroes](https://web.archive.org/guides/coh/guide/city-of-heroes)
   * [Dark Age of Camelot](https://web.archive.org/guides/daoc/guide/dark-age-of-camelot)
+  * [EVE Online](https://web.archive.org/guides/eve/guide/eve-online)
   * [EverQuest](https://web.archive.org/guides/eq/guide/everquest)
   * [EverQuest 2](https://web.archive.org/guides/eq2/guide/everquest-2)
   * [Final Fantasy XI](https://web.archive.org/guides/ffxi/guide/final-fantasy-xi)
   * [Guild Wars](https://web.archive.org/guides/gw/guide/guild-wars)
   * [Horizons](https://web.archive.org/guides/hz/guide/horizons)
   * [Lineage 2](https://web.archive.org/guides/l2/guide/lineage-2)
-  * [Runescape](https://web.archive.org/guides/rs2/guide/runescape)
+  * [Runescape](https://web.archive.org/guides/rs/guide/runescape)
   * [Second Life](https://web.archive.org/guides/sl/guide/second-life)
   * [Star Wars Galaxies](https://web.archive.org/guides/swg/guide/star-wars-galaxies)
   * [The Matrix Online](https://web.archive.org/guides/mxo/guide/the-matrix-online)
