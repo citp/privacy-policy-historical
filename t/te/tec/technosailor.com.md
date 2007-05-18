@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the technosailor.com privacy policy that was archived on 2006-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061227001536id_/http%3A//www.b5media.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technosailor.com privacy policy that was archived on 2007-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070518194823id_/http%3A//www.b5media.com/privacy-policy) for the most accurate reproduction.*
 
-# b5media - a global new media network - Privacy Policy
+# b5media - Privacy Policy
 
 **b5media LLC Privacy Policy**
 
@@ -30,4 +30,4 @@ These cookies are not used to “track” you online, as has become a popular mi
 
 **Who do I contact if I have a question or complaint about your privacy issue?**
 
-If you want to contact us about b5media’s privacy policy, please e-mail [guys@b5media.com](mailto:guys@b5media.com). We are always open to suggestions. 
+If you want to contact us about b5media’s privacy policy, please e-mail [guys@b5media.com](mailto:guys@b5media.com). We are always open to suggestions.
