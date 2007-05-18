@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gmacmortgage.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215015105id_/http%3A//www.gmacmortgage.com/About_Us/Legal_Information/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmacmortgage.com privacy policy that was archived on 2007-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070518210817id_/http%3A//www.gmacmortgage.com/About_Us/Legal_Information/Privacy.html) for the most accurate reproduction.*
 
-# GMAC Mortgage: Privacy
+# 
 
 **Overview  
 ** You take online privacy seriously and so does GMAC Mortgage. This statement is one way of sustaining your trust in our company, our products and our services. Our privacy statement describes how we collect, protect and use information about you during your visit on our web site.
@@ -66,7 +66,7 @@ Third Parties Not Affiliated With Us
 **How Can Customers Review, Change or Correct The Information We Collect?  
 ** We are committed to maintaining accurate and up-to-date information on all of our customers. We may provide customers with access to account information in different ways, for example, over the telephone, online or on paper.
 
-If you are a current customer and have registered for online access through one of our web sites, you may be able to update information such as: your address, telephone number, email address, user name, password and secret question online.  You may also wish to record your privacy preferences online via <https://www.gmacmortgage.com/optout>.
+If you are a current customer and have registered for online access through one of our web sites, you may be able to update information such as: your address, telephone number, email address, user name, password and secret question online.  You may also wish to record your privacy preferences online via [https://www.gmacmortgage.com/optout](https://web.archive.org/web/20070518210817id_/http%3A//optout).
 
 If you have completed and saved, but have not submitted, an online form or application you may be able to make certain changes to the information you have provided to us before it is submitted. If you are unable to make changes to the information you have provided to us online, you may contact us in order to do so.
 
