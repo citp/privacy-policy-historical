@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the irobot.com privacy policy that was archived on 2006-10-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061017210028id_/http%3A//store.irobot.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the irobot.com privacy policy that was archived on 2007-05-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070518223726id_/http%3A//store.irobot.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.-->
 
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 
@@ -91,6 +91,9 @@ function jump(url)
 	</script>
 </head>
 <body>
+
+<link rel="stylesheet" type="text/css" href="http://irbt.imageg.net/include/store.css">
+
 <script language="javascript" type="text/javascript" src="http://irbt.imageg.net/include/header_dhtml_menus.js"></script>
 <script language="javascript" type="text/javascript">
 	//header tabs scripts
@@ -120,8 +123,12 @@ function jump(url)
 		var imgRef = eval("document." + imgNameAttrib);
 		imgRef.src = "http://irbt.imageg.net/images/" + imgFileName + ".jpg";
 	}
-</script>
 
+    function loyaltyNotify()
+    {
+        
+    }
+</script>
 
 
 <script type="text/javascript">
@@ -150,6 +157,7 @@ function jump(url)
 
 	function slideEmail(cX,fX){
 	    if (cX != fX){
+		document.getElementById('emailSlider').style.visibility = "visible";
 	        if (navigator.appName == "Microsoft Internet Explorer"){
 	            if (navigator.appVersion.lastIndexOf('Mac') != -1){
 	                if (cX > fX){
@@ -179,6 +187,11 @@ function jump(url)
 	        }
 	               domStyle.top = cX;
 	               setTimeout('slideEmail(' + cX + ',' + fX + ')', slideDelay);
+	            }else{
+				if (cX < 0){
+	               document.getElementById('emailSlider').style.visibility = "hidden"; 
+				  
+	                }
 	            }
 	            return;
 	}
@@ -194,7 +207,7 @@ function jump(url)
 	var NNtype = "";
 
 	function toggleVisibility(id)
-	{
+	{		
 		if (WC3type == "hidden" || NNtype == "hide" || WC3type == "" || NNtype == "")
 		{
 			WC3type = "visible";
@@ -218,35 +231,37 @@ function jump(url)
 </script>
 <style>
 #emailSlider {position:absolute;z-index:99;left: 553px;width: 223px;top: -100px;background-color:#3F7290;text-align:center;border: #373F4C solid 1px;}
-#frame_header_top {position:relative;width:778px;margin:0 auto;padding:0px;text-align:left;}
-#header {position:absolute;z-index:100;width:778px;height:20px;top:0;left:0;background-color:#FFFFFF;padding-top:11px;text-align:right;}
-#header_bottom {width:778px;margin:0 auto;}
-#frame_header_search {width:778px;margin:0 auto;padding:6px 0 6px 0;text-align:right;z-index:2;}
 </style>
 
 <div id="frame_header_top">
-	<div id="header"><a href="http://www.irobot.com" class="topnavlink">home page</a>&nbsp;|&nbsp;<a href="http://www.irobot.com/sp.cfm?pageid=28" class="topnavlink">news</a>&nbsp;|&nbsp;<a href="javascript:emailOpen('emailSlider');" class="topnavlink">email signup</a>&nbsp;&nbsp;<a href="javascript:emailOpen('emailSlider');"><img src="http://irbt.imageg.net/images/hdr_email_btn.gif" alt="" width="26" height="18" border="0" align="middle"></a></div>
+<div id="header" class="ly_header_changes"><a href="http://www.irobot.com" class="topnavlink">home page</a>&nbsp;|&nbsp;<a href="http://www.irobot.com/sp.cfm?pageid=289" class="topnavlink">developers &amp; educators</a>&nbsp;|&nbsp;<a href="http://www.irobot.com/sp.cfm?pageid=28" class="topnavlink">news</a>&nbsp;<b>|</b>&nbsp;
+<a href="javascript:emailOpen('emailSlider');" class="topnavlink">email signup</a>&nbsp;&nbsp;<a href="javascript:emailOpen('emailSlider');"><img src="http://irbt.imageg.net/images/hdr_email_btn.gif" alt="" width="26" height="18" border="0" align="middle"></a></div>
+
 	<span id="emailSlider" height="124" width="223">
 	<iframe height="124" width="223" frameborder="0" src="/include/entry.jsp" scrolling="no"></iframe></span>
 </div>
 <div id="header_bottom">
 	<div style="width:563px;padding-top:32px;float:right;">
-		<div style="width:563px;height:32px;"><a href="http://www.irobot.com/sp.cfm?pageid=95" onmouseover="tabOn('home','hdr_home_tab');" onmouseout="tabOff('home','hdr_home_tab');"><img name="home" src="http://irbt.imageg.net/images/hdr_home_tab.jpg" alt="" width="140" height="32" border="0" style="padding-right:1px;"></a><a href="/home/index.jsp"><img name="store" src="http://irbt.imageg.net/images/hdr_store_tab_over.jpg" alt="" width="140" height="32" border="0" style="padding-right:1px;"></a><a href="http://www.irobot.com/sp.cfm?pageid=109" onmouseover="tabOn('gov','hdr_govInd_tab');" onmouseout="tabOff('gov','hdr_govInd_tab');"><img name="gov" src="http://irbt.imageg.net/images/hdr_govInd_tab.jpg" alt="" width="140" height="32" border="0" style="padding-right:1px;"></a><a href="http://www.irobot.com/sp.cfm?pageid=74" onmouseover="tabOn('about','hdr_about_tab');" onmouseout="tabOff('about','hdr_about_tab');"><img name="about" src="http://irbt.imageg.net/images/hdr_about_tab.jpg" alt="" width="140" height="32" border="0"></a><br></div>
+		<div style="width:563px;height:32px;"><a href="http://www.irobot.com/sp.cfm?pageid=95" onmouseover="tabOn('home','hdr_home_tab');" onmouseout="tabOff('home','hdr_home_tab');" onclick="loyaltyNotify()"><img name="home" src="http://irbt.imageg.net/images/hdr_home_tab.jpg" alt="" width="140" height="32" border="0" style="padding-right:1px;"></a><a onclick="loyaltyNotify()" href="/home/index.jsp" onmouseover="tabOn('store','hdr_store_tab');" onmouseout="tabOff('store','hdr_store_tab');"><img name="store" src="http://irbt.imageg.net/images/hdr_store_tab_over.jpg" alt="" width="140" height="32" border="0" style="padding-right:1px;"></a><a href="http://www.irobot.com/sp.cfm?pageid=109" onmouseover="tabOn('gov','hdr_govInd_tab');" onmouseout="tabOff('gov','hdr_govInd_tab');" onclick="loyaltyNotify()"><img name="gov" src="http://irbt.imageg.net/images/hdr_govInd_tab.jpg" alt="" width="140" height="32" border="0" style="padding-right:1px;"></a><a href="http://www.irobot.com/sp.cfm?pageid=74" onmouseover="tabOn('about','hdr_about_tab');" onmouseout="tabOff('about','hdr_about_tab');" onclick="loyaltyNotify()"><img name="about" src="http://irbt.imageg.net/images/hdr_about_tab.jpg" alt="" width="140" height="32" border="0"></a><br></div>
 
-		<div style="width:560px;padding:4px 0 4px 0;background-color:#DBEAAE;border:1px solid #A2A2A3;">
+		<div id="subBar" style="width:560px;padding:4px 0 4px 0;border:1px solid #A2A2A3;">
 
+			
 			<ul style="list-style-type:none;display:inline;">
-				<li style="width:133px;text-align:center;float:left;"><a id="dd1" href="javascript: void(0);" onmouseover="showSubnav('1');removeSubnavTimeouts();" onmouseout="dropdownTimer=setTimeout('hideSubnav()',1000);" class="subnavlinkoff">Cleaning Robots</a></li>
-				<li style="width:89px;text-align:left;float:left;"><a id="dd2" href="javascript: void(0);" onmouseover="showSubnav('2');removeSubnavTimeouts();" onmouseout="dropdownTimer=setTimeout('hideSubnav()',1000);" class="subnavlinkoff">Accessories</a></li>
-				<li style="width:91px;text-align:left;float:left;"><a href="/family/index.jsp?categoryId=2174939" onmouseover="hideSubnav();" class="subnavlink">iRobot Gear</a></li>
-				<li style="width:87px;text-align:left;float:left;"><a href="https://store.irobot.com/coreg/index.jsp?step=register" onmouseover="hideSubnav();" class="subnavlink">My Account</a></li>
-				<li style="width:91px;text-align:left;float:left;"><a href="/cart/index.jsp?wlName=wishlist" onmouseover="hideSubnav();" class="subnavlink">My Wish List</a></li>
-				<li style="width:66px;text-align:left;float:left;"><a href="/cart/index.jsp" onmouseover="hideSubnav();" class="subnavlink">My Cart</a></li>
+				<li style="width:123px;text-align:center;float:left;"><a id="dd1" href="javascript: void(0);" onmouseover="showSubnav('1');removeSubnavTimeouts();" onmouseout="dropdownTimer=setTimeout('hideSubnav()',1000);" class="subnavlinkoff">Cleaning Robots</a></li>
+				<li style="width:78px;text-align:left;float:left;"><a id="dd2" href="javascript: void(0);" onmouseover="showSubnav('2');removeSubnavTimeouts();" onmouseout="dropdownTimer=setTimeout('hideSubnav()',1000);" class="subnavlinkoff">Accessories</a></li>
+				<li style="width:136px;text-align:left;float:left;"><a id="dd3" href="javascript: void(0);" onmouseover="showSubnav('3');removeSubnavTimeouts();" onmouseout="dropdownTimer=setTimeout('hideSubnav()',1000);" class="subnavlinkoff">Programmable Robots</a></li>
+				<li style="width:89px;text-align:left;float:left;"><a href="/shop/index.jsp?categoryId=2542770" onmouseover="hideSubnav();" class="subnavlink">Web Specials</a></li>
+				<li style="width:78px;text-align:left;float:left;"><a href="https://store.irobot.com/coreg/index.jsp?step=register" onmouseover="hideSubnav();" class="subnavlink">My Account</a></li>
+				<!--<li style="width:91px;text-align:left;float:left;"><a href="/cart/index.jsp?wlName=wishlist" onmouseover="hideSubnav();" class="subnavlink">My Wish List</a></li>-->
+				
+				<li style="width:53px;text-align:left;float:left;"><a href="/cart/index.jsp" onmouseover="hideSubnav();" class="subnavlink">My Cart</a></li>
 			</ul>
+			
 		</div>
 	</div>
 	<div style="width:215px;margin:39px 0 0 0;float:right;">
-		<a href="http://www.irobot.com"><img src="http://irbt.imageg.net/images/logo.gif" width="194" height="37" alt="" border="0" style="padding:0 13px 12px 0;"></a><br>
+		<a href="http://www.irobot.com" onclick="loyaltyNotify()"><img src="http://irbt.imageg.net/images/logo.gif" width="194" height="37" alt="" border="0" style="padding:0 13px 12px 0;"></a><br>
 		<img src="http://irbt.imageg.net/images/hdr_logo_line.gif" width="215" height="1" alt="" border="0" style="position:relative;left:1px;">
 	</div>
 	<br clear="all">
@@ -257,11 +272,23 @@ function jump(url)
 
 	<div style="padding:4px 0 0 0;"><a href="/family/index.jsp?categoryId=2174932&amp;cp=2174940" class="dropdownlinks">Floor Washing Robots</a></div>
 
+	<div style="padding:4px 0 0 0;"><a href="/family/index.jsp?categoryId=2662061&amp;cp=2174940" class="dropdownlinks">Pool Cleaning Robots</a></div>
+
 	<div style="padding:4px 0 0 0;"><a href="/family/index.jsp?categoryId=2487341&amp;cp=2174940" class="dropdownlinks">Workshop Robot</a></div>
 
 	<div style="padding:4px 0 0 0;"><a href="/family/index.jsp?categoryId=2487362&amp;cp=2174940" class="dropdownlinks">Remanufactured Robots</a></div>
 
 </div>
+
+
+<div id="dropdown3" align="left" onmouseover="showSubnav('3');removeSubnavTimeouts();" onmouseout="dropdownTimer=setTimeout(&quot;hideSubnav()&quot;,1000);">
+
+	<div><a href="/family/index.jsp?categoryId=2591511&amp;cp=2600059" class="dropdownlinks">Create Robot</a></div>
+
+	<div style="padding:4px 0 0 0;"><a href="/subcategory/index.jsp?categoryId=2600082&amp;cp=2600059" class="dropdownlinks">Create Accessories</a></div>
+
+</div>
+
 <div id="dropdown2" align="left" onmouseover="showSubnav('2');removeSubnavTimeouts();" onmouseout="dropdownTimer=setTimeout(&quot;hideSubnav()&quot;,1000);" style="width:167px;">
 
 
@@ -271,7 +298,11 @@ function jump(url)
 
 		<div style="padding:4px 0 0 0;"><a href="/subcategory/index.jsp?categoryId=2174945&amp;cp=2174941" class="dropdownlinks">Scooba</a></div>
 
+		<div style="padding:4px 0 0 0;"><a href="/subcategory/index.jsp?categoryId=2662069&amp;cp=2174941" class="dropdownlinks">Verro</a></div>
+
 		<div style="padding:4px 0 0 0;"><a href="/subcategory/index.jsp?categoryId=2498230&amp;cp=2174941" class="dropdownlinks">Workshop</a></div>
+
+		<div style="padding:4px 0 0 0;"><a href="/family/index.jsp?categoryId=2174939&amp;cp=2174941" class="dropdownlinks">iRobot Gear</a></div>
 
 </div>
 <div id="frame_header_search">
@@ -281,13 +312,20 @@ function jump(url)
 
 <div style="display:none;">
 	
+	<!-- Start of SearchMarketing.com Natural Pixel Tag: Please do not remove-->
+	<script language="JavaScript"><!--
+	{
+		document.write("<img src=http://tracking.searchmarketing.com/gsic_welcome.asp?SMCID=221&x=" +escape(document.referrer) +  " width=1 height=1>");
+	}
+	//-->
+	</script><img src="http://tracking.searchmarketing.com/gsic_welcome.asp?SMCID=221&amp;x=" width="1" height="1">
+	<!-- End SearchMarketing.com Natural Pixel Tag -->
+
 
 </div>
 <div style="display:none;">
 	<!-- Start of New Pixel File -->
-
-		 <img src="http://leadback.advertising.com/adcedge/lb?site=695501&amp;srvc=1&amp;betr=irobot_cs=1&amp;betq=1299=359721" width="1" height="1" border="0">
-		 
+<img src="http://leadback.advertising.com/adcedge/lb?site=695501&amp;srvc=1&amp;betr=irobot_cs=1&amp;betq=1299=359721" width="1" height="1" border="0">
 
 <!-- End of New Pixel File -->
 
@@ -295,6 +333,7 @@ function jump(url)
 
 
 <div id="breadcrumbContainer" style="left: 288px; top: 97px;">
+
 		<a href="/home/index.jsp" class="breadcrumb">Store Home</a>
 
 		&nbsp;<span class="breadcrumb">&gt;</span>&nbsp;<a href="/helpdesk/index.jsp" class="breadcrumb">Home Robot Customer Service</a>
@@ -360,6 +399,14 @@ initBreadcrumb();
 			<td valign="top" height="20">
 
 					<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy" class="hd_pagelink">Privacy Policy</a>
+
+               </td>
+		</tr>
+
+		<tr>
+			<td valign="top" height="20">
+
+					<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=mastercard" class="hd_pagelink">MasterCard SecureCode</a>
 
                </td>
 		</tr>
@@ -466,12 +513,68 @@ initBreadcrumb();
 </tbody></table>
 
 <div id="frame_footer">
-	<div style="width:778;text-align:center;>
-		<div style=" padding:6px="" 0="" 4px="" 0;"=""><img src="http://irbt.imageg.net/images/ftr_line.gif" width="778" height="1" alt="" border="0"></div>
-		<div style="text-align:center;padding:6px 0 4px 0;"><a href="https://store.irobot.com/registration/index.jsp" class="footerlink">register your Roomba or Scooba</a>&nbsp;&nbsp;<span class="footerlink">|</span>&nbsp;&nbsp;<a href="/helpdesk/index.jsp?display=returns&amp;subdisplay=prodw" class="footerlink">home robot warranty information</a><br><img src="http://irbt.imageg.net/images/pixel.gif" width="1" height="3" alt="" border="0"><br><a href="/helpdesk/index.jsp" class="footerlink">home robot customer service</a>&nbsp;&nbsp;<span class="footerlink">|</span>&nbsp;&nbsp;<a href="/volumesales/index.jsp" class="footerlink">volume sales</a>&nbsp;&nbsp;<span class="footerlink">|</span>&nbsp;&nbsp;<a href="/helpdesk/index.jsp?display=store&amp;subdisplay=contact" class="footerlink">contact iRobot</a>&nbsp;&nbsp;<span class="footerlink">|</span>&nbsp;&nbsp;<a href="http://www.irobot.com/sp.cfm?pageid=79" class="footerlink">careers</a></div>
+	<div style="width:778;text-align:center;">
 		<div style="padding:6px 0 4px 0;"><img src="http://irbt.imageg.net/images/ftr_line.gif" width="778" height="1" alt="" border="0"></div>
-		<div style="text-align:center;padding:4px 0 4px 0;"><a href="/sitemap/index.jsp" class="footerlink2">site map</a>&nbsp;&nbsp;<span class="footerlink2">|</span>&nbsp;&nbsp;<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy" class="footerlink2">terms &amp; privacy</a>&nbsp;&nbsp;<span class="footerlink2">|</span>&nbsp;&nbsp;<a href="http://www.irobot.com/sp.cfm?pageid=74" class="footerlink2">© iRobot corporation</a></div>
+		<div style="text-align:center;padding:6px 0 4px 0;"><a href="http://homesupport.irobot.com/cgi-bin/irobot_homesupport.cfg/php/enduser/acct_login.php?p_sid=jYln2Zni&amp;p_accessibility=&amp;p_lva=&amp;p_sp=&amp;p_li=&amp;p_next_page=prod_reg.php" class="footerlink" onclick="loyaltyNotify()">register your home robot</a>&nbsp;&nbsp;<span class="footerlink">|</span>&nbsp;&nbsp;<a href="http://homesupport.irobot.com/cgi-bin/irobot_homesupport.cfg/php/enduser/home.php?p_sid=oxVA2Zni" class="footerlink" onclick="loyaltyNotify()">home robot customer support</a>&nbsp;&nbsp;<span class="footerlink">|</span>&nbsp;&nbsp;<a href="http://www.irobot.com/sp.cfm?pageid=88" class="footerlink" onclick="loyaltyNotify()">contact iRobot</a>&nbsp;&nbsp;<span class="footerlink">|</span>&nbsp;&nbsp;<a href="http://www.irobot.com/sp.cfm?pageid=79" class="footerlink" onclick="loyaltyNotify()">careers</a>&nbsp;&nbsp;<span class="footerlink">|</span>&nbsp;&nbsp;<a href="/volumesales/index.jsp" class="footerlink" onclick="loyaltyNotify()">volume sales</a>&nbsp;&nbsp;<span class="footerlink">|</span>&nbsp;&nbsp;<a href="/helpdesk/index.jsp" class="footerlink" onclick="loyaltyNotify()">store help</a></div>
+		<div style="padding:6px 0 4px 0;"><img src="http://irbt.imageg.net/images/ftr_line.gif" width="778" height="1" alt="" border="0"></div>
+		<div style="text-align:center;padding:4px 0 4px 0;"><a href="/sitemap/index.jsp" class="footerlink2" onclick="loyaltyNotify()">site map</a>&nbsp;&nbsp;<span class="footerlink2">|</span>&nbsp;&nbsp;<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy" class="footerlink2" onclick="loyaltyNotify()">terms &amp; privacy</a>&nbsp;&nbsp;<span class="footerlink2">|</span>&nbsp;&nbsp;<a href="http://www.irobot.com/sp.cfm?pageid=74" class="footerlink2" onclick="loyaltyNotify()">© 2007 iRobot Corporation</a></div>
 	</div>
+</div>
+
+<div style="display:none;">
+
+
+
+
+<!--You are running on secprd_ws_14_2-->
+
+
+
+
+	
+	<!-- No Tracking Pixel defined via allTrackingPixelFile -->
+	
+	
+
+	
+	
+
+
+
+
+<!--You are running on secprd_ws_14_2-->
+
+
+
+
+<!-- // End of code of PMO 52759 -->
+<script language="JavaScript">
+
+/* Non-commerce Variables */
+
+var s_server = 'store.irobot.com';
+var s_pageName = 'Help Desk - Privacy Policy';
+var s_eVar20 = '';
+var s_hier1 = '';
+var s_events = '';
+var s_channel = 'Home';
+var s_eVar19 = '32805474671';
+</script>
+
+
+	<!--//********* INSERT THE DOMAIN AND PATH TO YOUR CODE BELOW ************///-->
+	<script language="JavaScript">
+	/* Specify the Report Suite ID(s) to track here */
+	var s_account="gsiirobot";
+	</script><script language="JavaScript" src="http://irbt.imageg.net/include/omniture.js"></script>
+	<!-- End SiteCatalyst code version: G.9. -->	
+	
+
+
+
+
+
+</div>
 
  
 
