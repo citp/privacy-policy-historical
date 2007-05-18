@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the saxobank.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016122923id_/http%3A//www.saxobank.com%3Fid%3D293%26Lan%3DEN%26Au%3D1%26Grp%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saxobank.com privacy policy that was archived on 2007-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070518042521id_/http%3A//www.saxobank.com%3Fid%3D293%26Lan%3DEN%26Au%3D1%26Grp%3D5) for the most accurate reproduction.*
 
-# saxobank.com - Member Service - Privacy Policy
+# Member Service - Privacy Policy
 
 Your privacy on the internet is very important to us. The success of our business depends upon our ability to maintain the trust of our clients. As part of our operation of our websites we gather certain types of information about our users, and we would like to explain the types of information we gather, what we do with it and how you can correct or change the information. Please note that this policy applies only to websites operated by Saxo Bank A/S or any affiliates of Saxo Bank A/S and not to other companies or organizations to which we link.
 
