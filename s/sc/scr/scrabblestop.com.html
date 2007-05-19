@@ -1,18 +1,18 @@
-<!--The following is the downloaded HTML source of the scrabblestop.com privacy policy that was archived on 2006-11-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061128080912id_/http%3A//www.scrabblestop.com/html/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the scrabblestop.com privacy policy that was archived on 2007-05-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070519133857id_/http%3A//scrabblestop.com/html/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <title>scrabblestop.com - Privacy Policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <meta name="Author" content="Prop Rod">
 <meta name="Copyright" content="2003-2006 Prop Rod">
-<meta name="Description" content="scrabblestop.com - privacy page">
 <meta name="Date" content="Sat, 01 Apr 2006 00:00:00 GMT">
+<meta name="Description" content="Scrabble resources - links, tips, tricks, downloads, and resources for Scrabble players of all ages.  Drop by and see what you can find today!">
 <meta name="Distribution" content="Global">
-<meta name="Keywords" content="scrabble, club, online scrabble, isc, internet scrabble club, proprod, prop, rod, nsa, twl98, twl05, loc2000, sowpods, swl, zinga, para, isc.ro, internet scrabble, alfred, butts, wordbiz, absp, association of british scrabble players, national scrabble association, wsc, nsc, bingo, ospd, mosher, lexpert, wordlexica, ospd3, ospd4, rack, propschick, props, chick, craziest, toucanet, competitive scrabble">
+<meta name="Keywords" content="scrabble resources, scrabble. strategy, strategies, sites, play, directory,  search, rules, books, articles, software, software, playsites, leagues, tournaments, tourneys, literati, word game, word games, word search">
 <meta name="Language" content="EN-US">
-<meta name="Robots" content="index,follow">
 <meta name="revisit-after" content="10 days">
+<meta name="Robots" content="index,follow">
 <script language="JavaScript" src="./java/wordofday.js"></script>
 <meta http-equiv="PICS-Label" content="(PICS-1.1 &quot;http://www.classify.org/safesurf/&quot; L gen true for &quot;http://www.scrabblestop.com&quot; r (SS~~000 1))">
 <link rel="meta" href="http://www.scrabblestop.com/labels.rdf" type="application/rdf+xml" title="ICRA labels">
@@ -39,92 +39,13 @@ position:absolute; visibility:hidden; top:0; left:0; z-index:1;
 DIV#NavigationBar1_4LYR { 
 position:absolute; visibility:hidden; top:0; left:0; z-index:1;
 }
+DIV#NavigationBar1_5LYR { 
+position:absolute; visibility:hidden; top:0; left:0; z-index:1;
+}
 -->
 </style>
 
 </nolayer>
-<script>
-var hwndPopup_27b5;
-function openpopup_27b5(url){
-var popupWidth = 320;
-var popupHeight = 225;
-var popupTop = 100;
-var popupLeft = 100;
-var isFullScreen = false;
-var isAutoCenter = false;
-var popupTarget = "popupwin_27b5";
-var popupParams = "toolbar=0, scrollbars=0, menubar=0, status=0, resizable=0";
-
-if (isFullScreen) {
-  popupParams += ", fullscreen=1";
-} else if (isAutoCenter) {
-  popupTop  = parseInt((window.screen.height - popupHeight)/2);
-  popupLeft = parseInt((window.screen.width - popupWidth)/2);
-}
-
-var ua = window.navigator.userAgent;
-var isMac = (ua.indexOf("Mac") > -1);
-
-//IE 5.1 PR on OSX 10.0.x does not support relative URLs in pop-ups the way they're handled below w/ document.writeln
-if (isMac && url.indexOf("http") != 0) {
-  url = location.href.substring(0,location.href.lastIndexOf('\/')) + "/" + url;
-}
-
-var isOpera = (ua.indexOf("Opera") > -1);
-var operaVersion;
-if (isOpera) {
-  var i = ua.indexOf("Opera");
-  operaVersion = parseFloat(ua.substring(i + 6, ua.indexOf(" ", i + 8)));
-  if (operaVersion > 7.00) {
-    var isAccessible = false;
-    eval("try { isAccessible = ( (hwndPopup_27b5 != null) && !hwndPopup_27b5.closed ); } catch(exc) { } ");
-    if (!isAccessible) {
-      hwndPopup_27b5 = null;
-    }
-  }
-}
-if ( (hwndPopup_27b5 == null) || hwndPopup_27b5.closed ) {
-  
-  if (isOpera && (operaVersion < 7)) {
-    if (url.indexOf("http") != 0) {
-      hwndPopup_27b5 = window.open(url,popupTarget,popupParams + ((!isFullScreen) ? ", width=" + popupWidth +", height=" + popupHeight : ""));
-      if (!isFullScreen) {
-        hwndPopup_27b5.moveTo(popupLeft, popupTop);
-      }
-      hwndPopup_27b5.focus();
-      return;
-    }
-  }
-  if (!(window.navigator.appName == "Netscape" && !document.getElementById)) {
-    //not ns4
-    popupParams += ", width=" + popupWidth +", height=" + popupHeight + ", left=" + popupLeft + ", top=" + popupTop;
-  } else {
-    popupParams += ", left=" + popupLeft + ", top=" + popupTop;
-  }
-  //alert(popupParams);
-  hwndPopup_27b5 = window.open("",popupTarget,popupParams);
-  if (!isFullScreen) {
-    hwndPopup_27b5.resizeTo(popupWidth, popupHeight);
-    hwndPopup_27b5.moveTo(popupLeft, popupTop);
-  }
-  hwndPopup_27b5.focus();
-  with (hwndPopup_27b5.document) {
-    open();
-    write("<ht"+"ml><he"+"ad></he"+"ad><bo"+"dy onLoad=\"window.location.href='" + url + "'\"></bo"+"dy></ht"+"ml>");
-    close();
-  }
-} else {
-  if (isOpera && (operaVersion > 7.00)) {
-    eval("try { hwndPopup_27b5.focus();  hwndPopup_27b5.location.href = url; } catch(exc) { hwndPopup_27b5 = window.open(\""+ url +"\",\"" + popupTarget +"\",\""+ popupParams + ", width=" + popupWidth +", height=" + popupHeight +"\"); } ");
-  } else {
-    hwndPopup_27b5.focus();
-    hwndPopup_27b5.location.href = url;
-  }
-}
-
-}
-
-</script>
 
 
     <table cellpadding="0" cellspacing="0" border="0" width="907" nof="LY">
@@ -259,40 +180,43 @@ document.write(today);
                                                                 <td width="148" height="19"><a href="../html/scrabble_books.html" style="cursor:hand; text-decoration:none;" onmouseover="F_loadRollover('NavigationButton12','',0);F_roll('NavigationButton12',1)" onmouseout="F_roll('NavigationButton12',0)"><ilayer id="NavigationButton12"></ilayer><img id="NavigationButton12" name="NavigationButton12" height="19" width="148" src="../assets/images/autogen/Scrabble_Books_Nregular_1.gif" onload="F_loadRollover(this,'Scrabble_Books_NRregularRollover_1.gif',new Array('NavigationBar1_4', 'vertical', 'right', 148, 0))" border="0" alt="Scrabble Books" title="Scrabble Books"></a></td>
                                                             </tr>
                                                             <tr valign="TOP" align="LEFT">
-                                                                <td width="148" height="19"><a href="../html/nsa_updates.html" style="cursor:hand; text-decoration:none;" onmouseover="F_loadRollover('NavigationButton13','',0);F_roll('NavigationButton13',1)" onmouseout="F_roll('NavigationButton13',0)"><img id="NavigationButton13" name="NavigationButton13" height="19" width="148" src="../assets/images/autogen/NSA_Updates_Nregular_1.gif" onload="F_loadRollover(this,'NSA_Updates_NRregularRollover_1.gif',0)" border="0" alt="NSA Updates" title="NSA Updates"></a></td>
+                                                                <td width="148" height="19"><a href="../html/scrabble_gear.html" style="cursor:hand; text-decoration:none;" onmouseover="F_loadRollover('NavigationButton13','',0);F_roll('NavigationButton13',1)" onmouseout="F_roll('NavigationButton13',0)"><img id="NavigationButton13" name="NavigationButton13" height="19" width="148" src="../assets/images/autogen/Scrabble_Gear_Nregular_1.gif" onload="F_loadRollover(this,'Scrabble_Gear_NRregularRollover_1.gif',0)" border="0" alt="Scrabble Gear" title="Scrabble Gear"></a></td>
                                                             </tr>
                                                             <tr valign="TOP" align="LEFT">
-                                                                <td width="148" height="19"><a href="../html/nsa_ratings.html" style="cursor:hand; text-decoration:none;" onmouseover="F_loadRollover('NavigationButton14','',0);F_roll('NavigationButton14',1)" onmouseout="F_roll('NavigationButton14',0)"><img id="NavigationButton14" name="NavigationButton14" height="19" width="148" src="../assets/images/autogen/NSA_Ratings_Nregular_1.gif" onload="F_loadRollover(this,'NSA_Ratings_NRregularRollover_1.gif',0)" border="0" alt="NSA Ratings" title="NSA Ratings"></a></td>
+                                                                <td width="148" height="19"><a href="../html/nsa_updates.html" style="cursor:hand; text-decoration:none;" onmouseover="F_loadRollover('NavigationButton14','',0);F_roll('NavigationButton14',1)" onmouseout="F_roll('NavigationButton14',0)"><img id="NavigationButton14" name="NavigationButton14" height="19" width="148" src="../assets/images/autogen/NSA_Updates_Nregular_1.gif" onload="F_loadRollover(this,'NSA_Updates_NRregularRollover_1.gif',0)" border="0" alt="NSA Updates" title="NSA Updates"></a></td>
                                                             </tr>
                                                             <tr valign="TOP" align="LEFT">
-                                                                <td width="148" height="19"><a href="../html/play_online.html" style="cursor:hand; text-decoration:none;" onmouseover="F_loadRollover('NavigationButton15','',0);F_roll('NavigationButton15',1)" onmouseout="F_roll('NavigationButton15',0)"><img id="NavigationButton15" name="NavigationButton15" height="19" width="148" src="../assets/images/autogen/Play_Online_Nregular_1.gif" onload="F_loadRollover(this,'Play_Online_NRregularRollover_1.gif',0)" border="0" alt="Play Online" title="Play Online"></a></td>
+                                                                <td width="148" height="19"><a href="../html/nsa_ratings.html" style="cursor:hand; text-decoration:none;" onmouseover="F_loadRollover('NavigationButton15','',0);F_roll('NavigationButton15',1)" onmouseout="F_roll('NavigationButton15',0)"><img id="NavigationButton15" name="NavigationButton15" height="19" width="148" src="../assets/images/autogen/NSA_Ratings_Nregular_1.gif" onload="F_loadRollover(this,'NSA_Ratings_NRregularRollover_1.gif',0)" border="0" alt="NSA Ratings" title="NSA Ratings"></a></td>
                                                             </tr>
                                                             <tr valign="TOP" align="LEFT">
-                                                                <td width="148" height="19"><a href="../html/isc_portal.html" style="cursor:hand; text-decoration:none;" onmouseover="F_loadRollover('NavigationButton16','',0);F_roll('NavigationButton16',1)" onmouseout="F_roll('NavigationButton16',0)"><img id="NavigationButton16" name="NavigationButton16" height="19" width="148" src="../assets/images/autogen/ISC_Portal_Nregular_1.gif" onload="F_loadRollover(this,'ISC_Portal_NRregularRollover_1.gif',0)" border="0" alt="ISC Portal" title="ISC Portal"></a></td>
+                                                                <td width="148" height="19"><a href="../html/play_online.html" style="cursor:hand; text-decoration:none;" onmouseover="F_loadRollover('NavigationButton16','',0);F_roll('NavigationButton16',1)" onmouseout="F_roll('NavigationButton16',0)"><img id="NavigationButton16" name="NavigationButton16" height="19" width="148" src="../assets/images/autogen/Play_Online_Nregular_1.gif" onload="F_loadRollover(this,'Play_Online_NRregularRollover_1.gif',0)" border="0" alt="Play Online" title="Play Online"></a></td>
                                                             </tr>
                                                             <tr valign="TOP" align="LEFT">
-                                                                <td width="148" height="19"><a href="../html/lexicons_portal.html" style="cursor:hand; text-decoration:none;" onmouseover="F_loadRollover('NavigationButton17','',0);F_roll('NavigationButton17',1)" onmouseout="F_roll('NavigationButton17',0)"><img id="NavigationButton17" name="NavigationButton17" height="19" width="148" src="../assets/images/autogen/Lexicons_Portal_Nregular_1.gif" onload="F_loadRollover(this,'Lexicons_Portal_NRregularRollover_1.gif',0)" border="0" alt="Lexicons Portal" title="Lexicons Portal"></a></td>
+                                                                <td width="148" height="19"><a href="../html/isc_resources.html" style="cursor:hand; text-decoration:none;" onmouseover="F_loadRollover('NavigationButton17','',0);F_roll('NavigationButton17',1)" onmouseout="F_roll('NavigationButton17',0)"><img id="NavigationButton17" name="NavigationButton17" height="19" width="148" src="../assets/images/autogen/ISC_Resources_Nregular_1.gif" onload="F_loadRollover(this,'ISC_Resources_NRregularRollover_1.gif',0)" border="0" alt="ISC Resources" title="ISC Resources"></a></td>
                                                             </tr>
                                                             <tr valign="TOP" align="LEFT">
-                                                                <td width="148" height="19"><a href="../html/craziest_video.html" style="cursor:hand; text-decoration:none;" onmouseover="F_loadRollover('NavigationButton18','',0);F_roll('NavigationButton18',1)" onmouseout="F_roll('NavigationButton18',0)"><img id="NavigationButton18" name="NavigationButton18" height="19" width="148" src="../assets/images/autogen/Craziest_Video_Nregular_1.gif" onload="F_loadRollover(this,'Craziest_Video_NRregularRollover_1.gif',0)" border="0" alt="Craziest Video" title="Craziest Video"></a></td>
+                                                                <td width="148" height="19"><a href="../html/lexicons_portal.html" style="cursor:hand; text-decoration:none;" onmouseover="F_loadRollover('NavigationButton18','',0);F_roll('NavigationButton18',1)" onmouseout="F_roll('NavigationButton18',0)"><img id="NavigationButton18" name="NavigationButton18" height="19" width="148" src="../assets/images/autogen/Lexicons_Portal_Nregular_1.gif" onload="F_loadRollover(this,'Lexicons_Portal_NRregularRollover_1.gif',0)" border="0" alt="Lexicons Portal" title="Lexicons Portal"></a></td>
                                                             </tr>
                                                             <tr valign="TOP" align="LEFT">
-                                                                <td width="148" height="19"><a href="../html/peanut_butter_jelly.html" style="cursor:hand; text-decoration:none;" onmouseover="F_loadRollover('NavigationButton19','',0);F_roll('NavigationButton19',1)" onmouseout="F_roll('NavigationButton19',0)"><img id="NavigationButton19" name="NavigationButton19" height="19" width="148" src="../assets/images/autogen/Peanut_Butter_Jelly_Nregular_1.gif" onload="F_loadRollover(this,'Peanut_Butter_Jelly_NRregularRollover_1.gif',0)" border="0" alt="Peanut Butter Jelly" title="Peanut Butter Jelly"></a></td>
+                                                                <td width="148" height="19"><a href="../html/craziest_video.html" style="cursor:hand; text-decoration:none;" onmouseover="F_loadRollover('NavigationButton19','',0);F_roll('NavigationButton19',1)" onmouseout="F_roll('NavigationButton19',0)"><img id="NavigationButton19" name="NavigationButton19" height="19" width="148" src="../assets/images/autogen/Craziest_Video_Nregular_1.gif" onload="F_loadRollover(this,'Craziest_Video_NRregularRollover_1.gif',0)" border="0" alt="Craziest Video" title="Craziest Video"></a></td>
                                                             </tr>
                                                             <tr valign="TOP" align="LEFT">
-                                                                <td width="148" height="19"><a href="../html/guest_book.html" style="cursor:hand; text-decoration:none;" onmouseover="F_loadRollover('NavigationButton20','',0);F_roll('NavigationButton20',1)" onmouseout="F_roll('NavigationButton20',0)"><img id="NavigationButton20" name="NavigationButton20" height="19" width="148" src="../assets/images/autogen/Guest_Book_Nregular_1.gif" onload="F_loadRollover(this,'Guest_Book_NRregularRollover_1.gif',0)" border="0" alt="Guest Book" title="Guest Book"></a></td>
+                                                                <td width="148" height="19"><a href="../html/peanut_butter_jelly.html" style="cursor:hand; text-decoration:none;" onmouseover="F_loadRollover('NavigationButton20','',0);F_roll('NavigationButton20',1)" onmouseout="F_roll('NavigationButton20',0)"><img id="NavigationButton20" name="NavigationButton20" height="19" width="148" src="../assets/images/autogen/Peanut_Butter_Jelly_Nregular_1.gif" onload="F_loadRollover(this,'Peanut_Butter_Jelly_NRregularRollover_1.gif',0)" border="0" alt="Peanut Butter Jelly" title="Peanut Butter Jelly"></a></td>
                                                             </tr>
                                                             <tr valign="TOP" align="LEFT">
-                                                                <td width="148" height="19"><a href="../html/contact.html" style="cursor:hand; text-decoration:none;" onmouseover="F_loadRollover('NavigationButton21','',0);F_roll('NavigationButton21',1)" onmouseout="F_roll('NavigationButton21',0)"><img id="NavigationButton21" name="NavigationButton21" height="19" width="148" src="../assets/images/autogen/Contact_Nregular_1.gif" onload="F_loadRollover(this,'Contact_NRregularRollover_1.gif',0)" border="0" alt="Contact" title="Contact"></a></td>
+                                                                <td width="148" height="19"><a href="../html/guest_book.html" style="cursor:hand; text-decoration:none;" onmouseover="F_loadRollover('NavigationButton21','',0);F_roll('NavigationButton21',1)" onmouseout="F_roll('NavigationButton21',0)"><img id="NavigationButton21" name="NavigationButton21" height="19" width="148" src="../assets/images/autogen/Guest_Book_Nregular_1.gif" onload="F_loadRollover(this,'Guest_Book_NRregularRollover_1.gif',0)" border="0" alt="Guest Book" title="Guest Book"></a></td>
                                                             </tr>
                                                             <tr valign="TOP" align="LEFT">
-                                                                <td width="148" height="19"><a href="../html/about_the_author.html" style="cursor:hand; text-decoration:none;" onmouseover="F_loadRollover('NavigationButton22','',0);F_roll('NavigationButton22',1)" onmouseout="F_roll('NavigationButton22',0)"><img id="NavigationButton22" name="NavigationButton22" height="19" width="148" src="../assets/images/autogen/About_The_Author_Nregular_1.gif" onload="F_loadRollover(this,'About_The_Author_NRregularRollover_1.gif',0)" border="0" alt="About The Author" title="About The Author"></a></td>
+                                                                <td width="148" height="19"><a href="../html/contact.html" style="cursor:hand; text-decoration:none;" onmouseover="F_loadRollover('NavigationButton22','',0);F_roll('NavigationButton22',1)" onmouseout="F_roll('NavigationButton22',0)"><img id="NavigationButton22" name="NavigationButton22" height="19" width="148" src="../assets/images/autogen/Contact_Nregular_1.gif" onload="F_loadRollover(this,'Contact_NRregularRollover_1.gif',0)" border="0" alt="Contact" title="Contact"></a></td>
                                                             </tr>
                                                             <tr valign="TOP" align="LEFT">
-                                                                <td width="148" height="19"><a href="../html/privacy_policy.html" style="cursor:hand; text-decoration:none;" onmouseover="F_loadRollover('NavigationButton23','',0);F_roll('NavigationButton23',1)" onmouseout="F_roll('NavigationButton23',0)"><img id="NavigationButton23" name="NavigationButton23" height="19" width="148" src="../assets/images/autogen/Privacy_Policy_Hhighlighted_1.gif" onload="F_loadRollover(this,'Privacy_Policy_HRhighlightedRollover_1.gif',0)" border="0" alt="Privacy Policy" title="Privacy Policy"></a></td>
+                                                                <td width="148" height="19"><a href="../html/about_the_author.html" style="cursor:hand; text-decoration:none;" onmouseover="F_loadRollover('NavigationButton23','',0);F_roll('NavigationButton23',1)" onmouseout="F_roll('NavigationButton23',0)"><img id="NavigationButton23" name="NavigationButton23" height="19" width="148" src="../assets/images/autogen/About_The_Author_Nregular_1.gif" onload="F_loadRollover(this,'About_The_Author_NRregularRollover_1.gif',0)" border="0" alt="About The Author" title="About The Author"></a></td>
                                                             </tr>
                                                             <tr valign="TOP" align="LEFT">
-                                                                <td width="148" height="19"><a href="../html/shoutbox.html" style="cursor:hand; text-decoration:none;" onmouseover="F_loadRollover('NavigationButton24','',0);F_roll('NavigationButton24',1)" onmouseout="F_roll('NavigationButton24',0)"><img id="NavigationButton24" name="NavigationButton24" height="19" width="148" src="../assets/images/autogen/ShoutBox_Nregular_1.gif" onload="F_loadRollover(this,'ShoutBox_NRregularRollover_1.gif',0)" border="0" alt="ShoutBox" title="ShoutBox"></a></td>
+                                                                <td width="148" height="19"><a href="../html/privacy_policy.html" style="cursor:hand; text-decoration:none;" onmouseover="F_loadRollover('NavigationButton24','',0);F_roll('NavigationButton24',1)" onmouseout="F_roll('NavigationButton24',0)"><img id="NavigationButton24" name="NavigationButton24" height="19" width="148" src="../assets/images/autogen/Privacy_Policy_Hhighlighted_1.gif" onload="F_loadRollover(this,'Privacy_Policy_HRhighlightedRollover_1.gif',0)" border="0" alt="Privacy Policy" title="Privacy Policy"></a></td>
+                                                            </tr>
+                                                            <tr valign="TOP" align="LEFT">
+                                                                <td width="148" height="19"><a href="../html/shoutbox.html" style="cursor:hand; text-decoration:none;" onmouseover="F_loadRollover('NavigationButton25','',0);F_roll('NavigationButton25',1)" onmouseout="F_roll('NavigationButton25',0)"><img id="NavigationButton25" name="NavigationButton25" height="19" width="148" src="../assets/images/autogen/ShoutBox_Nregular_1.gif" onload="F_loadRollover(this,'ShoutBox_NRregularRollover_1.gif',0)" border="0" alt="ShoutBox" title="ShoutBox"></a></td>
                                                             </tr>
                                                         </tbody></table>
                                                     </td>
@@ -372,100 +296,91 @@ document.write(today);
                     <tr valign="TOP" align="LEFT">
                         <td></td>
                         <td width="731" nof="NB_FYHTNN120">
-                            <p align="CENTER">[<a href="../index.html">Home</a>] [<a href="../html/links.php">Links</a>] [<a href="../html/downloads.html">Downloads</a>] [<a href="../html/site_search.html">Site&nbsp;Search</a>] [<a href="../html/java_games.html">Java&nbsp;Games</a>] [<a href="../html/chat_live.html">Chat&nbsp;Live</a>] [<a href="../html/board___tiles.html">Board&nbsp;&amp;&nbsp;Tiles</a>] [<a href="../html/lists_of_words.html">Lists&nbsp;Of&nbsp;Words</a>] [<a href="../html/history.html">History</a>] [<a href="../html/sowpods.html">SOWPODS</a>] [<a href="../html/records.html">Records</a>] [<a href="../html/scrabble_books.html">Scrabble&nbsp;Books</a>] [<a href="../html/nsa_updates.html">NSA&nbsp;Updates</a>] [<a href="../html/nsa_ratings.html">NSA&nbsp;Ratings</a>] [<a href="../html/play_online.html">Play&nbsp;Online</a>] [<a href="../html/isc_portal.html">ISC&nbsp;Portal</a>] [<a href="../html/lexicons_portal.html">Lexicons&nbsp;Portal</a>] [<a href="../html/craziest_video.html">Craziest&nbsp;Video</a>] [<a href="../html/peanut_butter_jelly.html">Peanut&nbsp;Butter&nbsp;Jelly</a>] [<a href="../html/guest_book.html">Guest&nbsp;Book</a>] [<a href="../html/contact.html">Contact</a>] [<a href="../html/about_the_author.html">About&nbsp;The&nbsp;Author</a>] [Privacy&nbsp;Policy] [<a href="../html/shoutbox.html">ShoutBox</a>]</p>
+                            <p align="CENTER">[<a href="../index.html">Home</a>] [<a href="../html/links.php">Links</a>] [<a href="../html/downloads.html">Downloads</a>] [<a href="../html/site_search.html">Site&nbsp;Search</a>] [<a href="../html/java_games.html">Java&nbsp;Games</a>] [<a href="../html/chat_live.html">Chat&nbsp;Live</a>] [<a href="../html/board___tiles.html">Board&nbsp;&amp;&nbsp;Tiles</a>] [<a href="../html/lists_of_words.html">Lists&nbsp;Of&nbsp;Words</a>] [<a href="../html/history.html">History</a>] [<a href="../html/sowpods.html">SOWPODS</a>] [<a href="../html/records.html">Records</a>] [<a href="../html/scrabble_books.html">Scrabble&nbsp;Books</a>] [<a href="../html/scrabble_gear.html">Scrabble&nbsp;Gear</a>] [<a href="../html/nsa_updates.html">NSA&nbsp;Updates</a>] [<a href="../html/nsa_ratings.html">NSA&nbsp;Ratings</a>] [<a href="../html/play_online.html">Play&nbsp;Online</a>] [<a href="../html/isc_resources.html">ISC&nbsp;Resources</a>] [<a href="../html/lexicons_portal.html">Lexicons&nbsp;Portal</a>] [<a href="../html/craziest_video.html">Craziest&nbsp;Video</a>] [<a href="../html/peanut_butter_jelly.html">Peanut&nbsp;Butter&nbsp;Jelly</a>] [<a href="../html/guest_book.html">Guest&nbsp;Book</a>] [<a href="../html/contact.html">Contact</a>] [<a href="../html/about_the_author.html">About&nbsp;The&nbsp;Author</a>] [Privacy&nbsp;Policy] [<a href="../html/shoutbox.html">ShoutBox</a>]</p>
                         </td>
                     </tr>
                 </tbody></table>
                 <table border="0" cellspacing="0" cellpadding="0" width="748" nof="LY">
                     <tbody><tr valign="TOP" align="LEFT">
-                        <td width="17" height="25"><img src="../assets/images/autogen/clearpixel.gif" width="17" height="1" border="0" alt=""></td>
+                        <td width="17" height="6"><img src="../assets/images/autogen/clearpixel.gif" width="17" height="1" border="0" alt=""></td>
                         <td width="6"><img src="../assets/images/autogen/clearpixel.gif" width="6" height="1" border="0" alt=""></td>
-                        <td></td>
-                        <td width="141"><img src="../assets/images/autogen/clearpixel.gif" width="141" height="1" border="0" alt=""></td>
-                        <td></td>
-                        <td width="34"><img src="../assets/images/autogen/clearpixel.gif" width="34" height="1" border="0" alt=""></td>
-                        <td width="59"><img src="../assets/images/autogen/clearpixel.gif" width="59" height="1" border="0" alt=""></td>
                         <td width="35"><img src="../assets/images/autogen/clearpixel.gif" width="35" height="1" border="0" alt=""></td>
                         <td></td>
-                        <td width="91"><img src="../assets/images/autogen/clearpixel.gif" width="91" height="1" border="0" alt=""></td>
+                        <td width="216"><img src="../assets/images/autogen/clearpixel.gif" width="216" height="1" border="0" alt=""></td>
+                        <td width="1"><img src="../assets/images/autogen/clearpixel.gif" width="1" height="1" border="0" alt=""></td>
+                        <td width="58"><img src="../assets/images/autogen/clearpixel.gif" width="58" height="1" border="0" alt=""></td>
+                        <td width="22"><img src="../assets/images/autogen/clearpixel.gif" width="22" height="1" border="0" alt=""></td>
+                        <td width="188"><img src="../assets/images/autogen/clearpixel.gif" width="188" height="1" border="0" alt=""></td>
                         <td width="124"><img src="../assets/images/autogen/clearpixel.gif" width="124" height="1" border="0" alt=""></td>
                         <td width="1"><img src="../assets/images/autogen/clearpixel.gif" width="1" height="1" border="0" alt=""></td>
                     </tr>
                     <tr valign="TOP" align="LEFT">
                         <td></td>
-                        <td colspan="11" width="731">
+                        <td colspan="10" width="731">
                             <p align="CENTER"><script language="JavaScript" src="addto/addto.js" type="text/javascript"></script>
 &nbsp;</p>
                         </td>
                     </tr>
                     <tr valign="TOP" align="LEFT">
-                        <td colspan="12" height="7"></td>
+                        <td colspan="11" height="7"></td>
                     </tr>
                     <tr valign="TOP" align="LEFT">
-                        <td colspan="10" height="2"></td>
+                        <td colspan="9" height="1"></td>
                         <td colspan="2" rowspan="3" width="125"><a href="http://www.isedn.org" target="_blank"><img id="Picture32" height="30" width="125" src="../assets/images/member_125x30_red.gif" border="0" alt="ISEDN.org" title="ISEDN.org"></a></td>
                     </tr>
                     <tr valign="TOP" align="LEFT">
-                        <td colspan="2" height="15"></td>
+                        <td colspan="3" height="15"></td>
                         <td width="80"><a href="http://links.scrabblestop.com" target="_blank"><img id="Picture27" height="15" width="80" src="../assets/images/webdir.gif" border="0" alt="webdir" title="webdir"></a></td>
-                        <td></td>
-                        <td width="80"><a href="http://www.savetheinternet.com" target="_blank"><img id="Picture25" height="15" width="80" src="../assets/images/savethenet.gif" border="0" alt="savethenet" title="savethenet"></a></td>
-                        <td colspan="3"></td>
-                        <td width="80"><a target="_self" href="javascript:openpopup_27b5('http://www.scrabblestop.com/html/status.html')"><img id="Picture22" height="15" width="80" src="../assets/images/status.gif" border="0" alt="Web Server Status" title="Web Server Status"></a></td>
+                        <td colspan="2"></td>
+                        <td colspan="2" width="80"><a href="http://www.savetheinternet.com" target="_blank"><img id="Picture25" height="15" width="80" src="../assets/images/savethenet.gif" border="0" alt="savethenet" title="savethenet"></a></td>
                         <td></td>
                     </tr>
                     <tr valign="TOP" align="LEFT">
-                        <td colspan="10" height="13"></td>
+                        <td colspan="9" height="14"></td>
                     </tr>
                     <tr valign="TOP" align="LEFT">
-                        <td colspan="12" height="2"></td>
+                        <td colspan="11" height="2"></td>
                     </tr>
                     <tr valign="TOP" align="LEFT">
                         <td colspan="2"></td>
-                        <td colspan="10" width="725">
-                            <p align="CENTER"><font face="Arial,Helvetica,Geneva,Sans-serif,sans-serif"></font><font size="-2" face="Arial,Helvetica,Geneva,Sans-serif,sans-serif"><b>©2003-2006 scrabblestop.com --  Site last updated 09/17/06 11:02:03 PM CST</b></font><b></b></p>
+                        <td colspan="9" width="725">
+                            <p align="CENTER"><font face="Arial,Helvetica,Geneva,Sans-serif,sans-serif"></font><font size="-2" face="Arial,Helvetica,Geneva,Sans-serif,sans-serif"><b>©2003-2006 scrabblestop.com --  Site last updated 03/10/07 04:55:42 PM CST</b></font><b></b></p>
                         </td>
                     </tr>
                     <tr valign="TOP" align="LEFT">
-                        <td colspan="12" height="31"></td>
+                        <td colspan="11" height="9"></td>
                     </tr>
                     <tr valign="TOP" align="LEFT">
                         <td colspan="2"></td>
-                        <td colspan="9" width="724">
+                        <td colspan="8" width="724">
                             <p align="CENTER"><a href="http://www.copyscape.com/"><img src="http://banners.copyscape.com/images/cs-gr-234x16.gif" alt="Page copy protected against web site content infringement by Copyscape" title="Do not copy content from the page. Plagiarism will be detected by Copyscape." width="234" height="16" border="0"></a>&nbsp;</p>
                         </td>
                         <td></td>
                     </tr>
                     <tr valign="TOP" align="LEFT">
-                        <td colspan="12" height="14"></td>
+                        <td colspan="11" height="4"></td>
                     </tr>
                     <tr valign="TOP" align="LEFT">
                         <td colspan="2"></td>
-                        <td colspan="10" width="725">
-                            <p align="CENTER"><b><font size="-1" face="Arial,Helvetica,Geneva,Sans-serif,sans-serif">Site design by </font></b><a href="http://wjv.scrabblestop.com" target="_blank"><b><font size="-1" face="Arial,Helvetica,Geneva,Sans-serif,sans-serif">WJV Computer &amp; Web Solutions</font></b></a></p>
+                        <td colspan="9" width="725">
+                            <p align="CENTER"><b><font size="-1" face="Arial,Helvetica,Geneva,Sans-serif,sans-serif">Site design by </font></b><a href="http://wjv.scrabblestop.com" target="_blank"><b><font size="-1" face="Arial,Helvetica,Geneva,Sans-serif,sans-serif">WJV Computer &amp; Web Solutions</font></b></a><b><font size="-1" face="Arial,Helvetica,Geneva,Sans-serif,sans-serif"> | Sponsored By: </font></b><a href="http://www.directmylink.com" target="_blank"><b><font size="-1" face="Arial,Helvetica,Geneva,Sans-serif,sans-serif">Direct My Link Web Directory</font></b></a></p>
                         </td>
                     </tr>
                     <tr valign="TOP" align="LEFT">
-                        <td colspan="12" height="2"></td>
+                        <td colspan="11" height="5"></td>
                     </tr>
                     <tr valign="TOP" align="LEFT">
                         <td colspan="2"></td>
-                        <td colspan="10" width="725">
+                        <td colspan="9" width="725">
                             <p align="CENTER"><i><font color="#808080" size="-2" face="Arial,Helvetica,Geneva,Sans-serif,sans-serif">SCRABBLE® is a registered trademark. All intellectual property rights in and to the game are owned in the U.S.A. by Hasbro Inc., in Canada by Hasbro Canada Inc. and throughout the rest of the world by J.W. Spear &amp; Sons, PLC of Leicester LE3 2WT, England, a subsidiary of Mattel Inc. Mattel and Spear are not affiliated with Hasbro or Hasbro Canada.</font></i></p>
                         </td>
                     </tr>
                     <tr valign="TOP" align="LEFT">
-                        <td colspan="2"></td>
-                        <td colspan="10" width="725">
-                            <p align="CENTER"><a href="http://www.directmylink.com" target="_blank"><font color="#FFFFE8">DirectMyLink</font></a></p>
-                        </td>
+                        <td colspan="11" height="2"></td>
                     </tr>
                     <tr valign="TOP" align="LEFT">
-                        <td colspan="12" height="1"></td>
-                    </tr>
-                    <tr valign="TOP" align="LEFT">
-                        <td colspan="6"></td>
-                        <td width="59">
+                        <td colspan="5"></td>
+                        <td colspan="2" width="59">
                             <p><script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
@@ -473,7 +388,7 @@ _uacct = "UA-347078-2";
 urchinTracker();
 </script>&nbsp;</p>
                         </td>
-                        <td colspan="5"></td>
+                        <td colspan="4"></td>
                     </tr>
                 </tbody></table>
             </td>
@@ -486,7 +401,9 @@ urchinTracker();
     var C_MENU_AUTO_CLOSE = true;
     new NOF_Menu(
     new NOF_Main_Menu(new NOF_Menu_Item('NavigationBar1_1', 'vertical', 'right', 148, 0, 
- new NOF_Menu_Button('../html/organizations.html','../assets/images/autogen/Organizations_Nregular_2.gif','../assets/images/autogen/Organizations_NRregularRollover_2.gif'),new NOF_Menu_Button('../html/products.html','../assets/images/autogen/Products_Nregular_2.gif','../assets/images/autogen/Products_NRregularRollover_2.gif'),new NOF_Menu_Button('../html/personal.html','../assets/images/autogen/Personal_Nregular_2.gif','../assets/images/autogen/Personal_NRregularRollover_2.gif'),new NOF_Menu_Button('../html/vistor_links.html','../assets/images/autogen/Vistor_Links_Nregular_2.gif','../assets/images/autogen/Vistor_Links_NRregularRollover_2.gif'),new NOF_Menu_Button('../html/more_links.html','../assets/images/autogen/More_Links_Nregular_2.gif','../assets/images/autogen/More_Links_NRregularRollover_2.gif')))
+ new NOF_Menu_Button('../html/organizations.html','../assets/images/autogen/Organizations_Nregular_2.gif','../assets/images/autogen/Organizations_NRregularRollover_2.gif'),new NOF_Menu_Button('../html/products.html','../assets/images/autogen/Products_Nregular_2.gif','../assets/images/autogen/Products_NRregularRollover_2.gif'),new NOF_Menu_Button('../html/personal.html','../assets/images/autogen/Personal_Nregular_2.gif','../assets/images/autogen/Personal_NRregularRollover_2.gif'),new NOF_Menu_Button('../html/vistor_links.html','../assets/images/autogen/Vistor_Links_Nregular_2.gif','../assets/images/autogen/Vistor_Links_NRregularRollover_2.gif'),new NOF_Menu_Button('../html/more_links.html','../assets/images/autogen/More_Links_Nregular_2.gif','../assets/images/autogen/More_Links_NRregularRollover_2.gif',
+ new NOF_Menu_Item('NavigationBar1_5', 'vertical', 'right', 148, 0, new NOF_Menu_Button('../html/more_links_2.html','../assets/images/autogen/More_Links_2_Nregular_1.gif','../assets/images/autogen/More_Links_2_NRregularRollover_1.gif'))
+ )))
     , new NOF_Main_Menu(new NOF_Menu_Item('NavigationBar1_2', 'vertical', 'right', 148, 0, 
  new NOF_Menu_Button('../html/scrabble3d.html','../assets/images/autogen/Scrabble3D_Nregular_2.gif','../assets/images/autogen/Scrabble3D_NRregularRollover_2.gif')))
     , new NOF_Main_Menu(new NOF_Menu_Item('NavigationBar1_3', 'vertical', 'right', 148, 0, 
@@ -494,7 +411,8 @@ urchinTracker();
     , new NOF_Main_Menu(new NOF_Menu_Item('NavigationBar1_4', 'vertical', 'right', 148, 0, 
  new NOF_Menu_Button('../html/scrabble_books_2.html','../assets/images/autogen/Scrabble_Books_2_Nregular_2.gif','../assets/images/autogen/Scrabble_Books_2_NRregularRollover_2.gif')))
     );
-    </script><div id="NavigationBar1_1LYR" isautoclose="true" style="z-index:5; filter:blendTrans(duration=0.5)" onmouseover="NOF_KeepOpen('NavigationBar1_1LYR', null)" onmouseout="NOF_KeepClose()"><table width="10" border="0" cellspacing="0" cellpadding="0" bgcolor=""><tbody><tr><td><a style="text-decoration:none; cursor:hand;" href="../html/organizations.html" onmouseover="F_roll('NavigationBar1_1s0' ,1, 'NavigationBar1_1', '1')" onmouseout="F_roll('NavigationBar1_1s0' ,2, 'NavigationBar1_1', '1')"><img border="0" src="../assets/images/autogen/Organizations_Nregular_2.gif" id="NavigationBar1_1s0" name="NavigationBar1_1s0" onload="F_loadRollover(this,'../assets/images/autogen/Organizations_NRregularRollover_2.gif',0)"></a></td></tr><tr><td><a style="text-decoration:none; cursor:hand;" href="../html/products.html" onmouseover="F_roll('NavigationBar1_1s1' ,1, 'NavigationBar1_1', '1')" onmouseout="F_roll('NavigationBar1_1s1' ,2, 'NavigationBar1_1', '1')"><img border="0" src="../assets/images/autogen/Products_Nregular_2.gif" id="NavigationBar1_1s1" name="NavigationBar1_1s1" onload="F_loadRollover(this,'../assets/images/autogen/Products_NRregularRollover_2.gif',0)"></a></td></tr><tr><td><a style="text-decoration:none; cursor:hand;" href="../html/personal.html" onmouseover="F_roll('NavigationBar1_1s2' ,1, 'NavigationBar1_1', '1')" onmouseout="F_roll('NavigationBar1_1s2' ,2, 'NavigationBar1_1', '1')"><img border="0" src="../assets/images/autogen/Personal_Nregular_2.gif" id="NavigationBar1_1s2" name="NavigationBar1_1s2" onload="F_loadRollover(this,'../assets/images/autogen/Personal_NRregularRollover_2.gif',0)"></a></td></tr><tr><td><a style="text-decoration:none; cursor:hand;" href="../html/vistor_links.html" onmouseover="F_roll('NavigationBar1_1s3' ,1, 'NavigationBar1_1', '1')" onmouseout="F_roll('NavigationBar1_1s3' ,2, 'NavigationBar1_1', '1')"><img border="0" src="../assets/images/autogen/Vistor_Links_Nregular_2.gif" id="NavigationBar1_1s3" name="NavigationBar1_1s3" onload="F_loadRollover(this,'../assets/images/autogen/Vistor_Links_NRregularRollover_2.gif',0)"></a></td></tr><tr><td><a style="text-decoration:none; cursor:hand;" href="../html/more_links.html" onmouseover="F_roll('NavigationBar1_1s4' ,1, 'NavigationBar1_1', '1')" onmouseout="F_roll('NavigationBar1_1s4' ,2, 'NavigationBar1_1', '1')"><img border="0" src="../assets/images/autogen/More_Links_Nregular_2.gif" id="NavigationBar1_1s4" name="NavigationBar1_1s4" onload="F_loadRollover(this,'../assets/images/autogen/More_Links_NRregularRollover_2.gif',0)"></a></td></tr></tbody></table></div>
+    </script><div id="NavigationBar1_1LYR" isautoclose="true" style="z-index:5; filter:blendTrans(duration=0.5)" onmouseover="NOF_KeepOpen('NavigationBar1_1LYR', null)" onmouseout="NOF_KeepClose()"><table width="10" border="0" cellspacing="0" cellpadding="0" bgcolor=""><tbody><tr><td><a style="text-decoration:none; cursor:hand;" href="../html/organizations.html" onmouseover="F_roll('NavigationBar1_1s0' ,1, 'NavigationBar1_1', '1')" onmouseout="F_roll('NavigationBar1_1s0' ,2, 'NavigationBar1_1', '1')"><img border="0" src="../assets/images/autogen/Organizations_Nregular_2.gif" id="NavigationBar1_1s0" name="NavigationBar1_1s0" onload="F_loadRollover(this,'../assets/images/autogen/Organizations_NRregularRollover_2.gif',0)"></a></td></tr><tr><td><a style="text-decoration:none; cursor:hand;" href="../html/products.html" onmouseover="F_roll('NavigationBar1_1s1' ,1, 'NavigationBar1_1', '1')" onmouseout="F_roll('NavigationBar1_1s1' ,2, 'NavigationBar1_1', '1')"><img border="0" src="../assets/images/autogen/Products_Nregular_2.gif" id="NavigationBar1_1s1" name="NavigationBar1_1s1" onload="F_loadRollover(this,'../assets/images/autogen/Products_NRregularRollover_2.gif',0)"></a></td></tr><tr><td><a style="text-decoration:none; cursor:hand;" href="../html/personal.html" onmouseover="F_roll('NavigationBar1_1s2' ,1, 'NavigationBar1_1', '1')" onmouseout="F_roll('NavigationBar1_1s2' ,2, 'NavigationBar1_1', '1')"><img border="0" src="../assets/images/autogen/Personal_Nregular_2.gif" id="NavigationBar1_1s2" name="NavigationBar1_1s2" onload="F_loadRollover(this,'../assets/images/autogen/Personal_NRregularRollover_2.gif',0)"></a></td></tr><tr><td><a style="text-decoration:none; cursor:hand;" href="../html/vistor_links.html" onmouseover="F_roll('NavigationBar1_1s3' ,1, 'NavigationBar1_1', '1')" onmouseout="F_roll('NavigationBar1_1s3' ,2, 'NavigationBar1_1', '1')"><img border="0" src="../assets/images/autogen/Vistor_Links_Nregular_2.gif" id="NavigationBar1_1s3" name="NavigationBar1_1s3" onload="F_loadRollover(this,'../assets/images/autogen/Vistor_Links_NRregularRollover_2.gif',0)"></a></td></tr><tr><td><a style="text-decoration:none; cursor:hand;" href="../html/more_links.html" onmouseover="F_roll('NavigationBar1_1s4' ,1, 'NavigationBar1_1', '1')" onmouseout="F_roll('NavigationBar1_1s4' ,2, 'NavigationBar1_1', '1')"><img border="0" src="../assets/images/autogen/More_Links_Nregular_2.gif" id="NavigationBar1_1s4" name="NavigationBar1_1s4" onload="F_loadRollover(this,'../assets/images/autogen/More_Links_NRregularRollover_2.gif', new Array('NavigationBar1_5','vertical' , 'right', 148,0))"></a></td></tr></tbody></table></div>
+<div id="NavigationBar1_5LYR" isautoclose="true" style="z-index:5; filter:blendTrans(duration=0.5)" onmouseover="NOF_KeepOpen('NavigationBar1_5LYR', NavigationBar1_1LYR)" onmouseout="NOF_KeepClose()"><table width="10" border="0" cellspacing="0" cellpadding="0" bgcolor=""><tbody><tr><td><a style="text-decoration:none; cursor:hand;" href="../html/more_links_2.html" onmouseover="F_roll('NavigationBar1_5s0' ,1, 'NavigationBar1_5', '1')" onmouseout="F_roll('NavigationBar1_5s0' ,2, 'NavigationBar1_5', '1')"><img border="0" src="../assets/images/autogen/More_Links_2_Nregular_1.gif" id="NavigationBar1_5s0" name="NavigationBar1_5s0" onload="F_loadRollover(this,'../assets/images/autogen/More_Links_2_NRregularRollover_1.gif',0)"></a></td></tr></tbody></table></div>
 <div id="NavigationBar1_2LYR" isautoclose="true" style="z-index:5; filter:blendTrans(duration=0.5)" onmouseover="NOF_KeepOpen('NavigationBar1_2LYR', null)" onmouseout="NOF_KeepClose()"><table width="10" border="0" cellspacing="0" cellpadding="0" bgcolor=""><tbody><tr><td><a style="text-decoration:none; cursor:hand;" href="../html/scrabble3d.html" onmouseover="F_roll('NavigationBar1_2s0' ,1, 'NavigationBar1_2', '1')" onmouseout="F_roll('NavigationBar1_2s0' ,2, 'NavigationBar1_2', '1')"><img border="0" src="../assets/images/autogen/Scrabble3D_Nregular_2.gif" id="NavigationBar1_2s0" name="NavigationBar1_2s0" onload="F_loadRollover(this,'../assets/images/autogen/Scrabble3D_NRregularRollover_2.gif',0)"></a></td></tr></tbody></table></div>
 <div id="NavigationBar1_3LYR" isautoclose="true" style="z-index:5; filter:blendTrans(duration=0.5)" onmouseover="NOF_KeepOpen('NavigationBar1_3LYR', null)" onmouseout="NOF_KeepClose()"><table width="10" border="0" cellspacing="0" cellpadding="0" bgcolor=""><tbody><tr><td><a style="text-decoration:none; cursor:hand;" href="../html/proper_names.php" onmouseover="F_roll('NavigationBar1_3s0' ,1, 'NavigationBar1_3', '1')" onmouseout="F_roll('NavigationBar1_3s0' ,2, 'NavigationBar1_3', '1')"><img border="0" src="../assets/images/autogen/Proper_Names_Nregular_2.gif" id="NavigationBar1_3s0" name="NavigationBar1_3s0" onload="F_loadRollover(this,'../assets/images/autogen/Proper_Names_NRregularRollover_2.gif',0)"></a></td></tr><tr><td><a style="text-decoration:none; cursor:hand;" href="../html/place_names.html" onmouseover="F_roll('NavigationBar1_3s1' ,1, 'NavigationBar1_3', '1')" onmouseout="F_roll('NavigationBar1_3s1' ,2, 'NavigationBar1_3', '1')"><img border="0" src="../assets/images/autogen/Place_Names_Nregular_2.gif" id="NavigationBar1_3s1" name="NavigationBar1_3s1" onload="F_loadRollover(this,'../assets/images/autogen/Place_Names_NRregularRollover_2.gif',0)"></a></td></tr><tr><td><a style="text-decoration:none; cursor:hand;" href="../html/greek_alphabet.html" onmouseover="F_roll('NavigationBar1_3s2' ,1, 'NavigationBar1_3', '1')" onmouseout="F_roll('NavigationBar1_3s2' ,2, 'NavigationBar1_3', '1')"><img border="0" src="../assets/images/autogen/Greek_Alphabet_Nregular_2.gif" id="NavigationBar1_3s2" name="NavigationBar1_3s2" onload="F_loadRollover(this,'../assets/images/autogen/Greek_Alphabet_NRregularRollover_2.gif',0)"></a></td></tr><tr><td><a style="text-decoration:none; cursor:hand;" href="../html/q_words.html" onmouseover="F_roll('NavigationBar1_3s3' ,1, 'NavigationBar1_3', '1')" onmouseout="F_roll('NavigationBar1_3s3' ,2, 'NavigationBar1_3', '1')"><img border="0" src="../assets/images/autogen/Q_Words_Nregular_2.gif" id="NavigationBar1_3s3" name="NavigationBar1_3s3" onload="F_loadRollover(this,'../assets/images/autogen/Q_Words_NRregularRollover_2.gif',0)"></a></td></tr><tr><td><a style="text-decoration:none; cursor:hand;" href="../html/three_i_words.html" onmouseover="F_roll('NavigationBar1_3s4' ,1, 'NavigationBar1_3', '1')" onmouseout="F_roll('NavigationBar1_3s4' ,2, 'NavigationBar1_3', '1')"><img border="0" src="../assets/images/autogen/Three_I_Words_Nregular_2.gif" id="NavigationBar1_3s4" name="NavigationBar1_3s4" onload="F_loadRollover(this,'../assets/images/autogen/Three_I_Words_NRregularRollover_2.gif',0)"></a></td></tr><tr><td><a style="text-decoration:none; cursor:hand;" href="../html/hooks_with_jqx_or_z.html" onmouseover="F_roll('NavigationBar1_3s5' ,1, 'NavigationBar1_3', '1')" onmouseout="F_roll('NavigationBar1_3s5' ,2, 'NavigationBar1_3', '1')"><img border="0" src="../assets/images/autogen/Hooks_with_JQX_or_Z_Nregular_2.gif" id="NavigationBar1_3s5" name="NavigationBar1_3s5" onload="F_loadRollover(this,'../assets/images/autogen/Hooks_with_JQX_or_Z_NRregularRollover_2.gif',0)"></a></td></tr><tr><td><a style="text-decoration:none; cursor:hand;" href="../html/5__vowels.html" onmouseover="F_roll('NavigationBar1_3s6' ,1, 'NavigationBar1_3', '1')" onmouseout="F_roll('NavigationBar1_3s6' ,2, 'NavigationBar1_3', '1')"><img border="0" src="../assets/images/autogen/5__Vowels_Nregular_2.gif" id="NavigationBar1_3s6" name="NavigationBar1_3s6" onload="F_loadRollover(this,'../assets/images/autogen/5__Vowels_NRregularRollover_2.gif',0)"></a></td></tr><tr><td><a style="text-decoration:none; cursor:hand;" href="../html/highest_scoring.html" onmouseover="F_roll('NavigationBar1_3s7' ,1, 'NavigationBar1_3', '1')" onmouseout="F_roll('NavigationBar1_3s7' ,2, 'NavigationBar1_3', '1')"><img border="0" src="../assets/images/autogen/Highest_Scoring_Nregular_2.gif" id="NavigationBar1_3s7" name="NavigationBar1_3s7" onload="F_loadRollover(this,'../assets/images/autogen/Highest_Scoring_NRregularRollover_2.gif',0)"></a></td></tr><tr><td><a style="text-decoration:none; cursor:hand;" href="../html/retain___blank.html" onmouseover="F_roll('NavigationBar1_3s8' ,1, 'NavigationBar1_3', '1')" onmouseout="F_roll('NavigationBar1_3s8' ,2, 'NavigationBar1_3', '1')"><img border="0" src="../assets/images/autogen/RETAIN___Blank_Nregular_2.gif" id="NavigationBar1_3s8" name="NavigationBar1_3s8" onload="F_loadRollover(this,'../assets/images/autogen/RETAIN___Blank_NRregularRollover_2.gif',0)"></a></td></tr><tr><td><a style="text-decoration:none; cursor:hand;" href="../html/dh_words.html" onmouseover="F_roll('NavigationBar1_3s9' ,1, 'NavigationBar1_3', '1')" onmouseout="F_roll('NavigationBar1_3s9' ,2, 'NavigationBar1_3', '1')"><img border="0" src="../assets/images/autogen/DH_Words_Nregular_2.gif" id="NavigationBar1_3s9" name="NavigationBar1_3s9" onload="F_loadRollover(this,'../assets/images/autogen/DH_Words_NRregularRollover_2.gif',0)"></a></td></tr></tbody></table></div>
 <div id="NavigationBar1_4LYR" isautoclose="true" style="z-index:5; filter:blendTrans(duration=0.5)" onmouseover="NOF_KeepOpen('NavigationBar1_4LYR', null)" onmouseout="NOF_KeepClose()"><table width="10" border="0" cellspacing="0" cellpadding="0" bgcolor=""><tbody><tr><td><a style="text-decoration:none; cursor:hand;" href="../html/scrabble_books_2.html" onmouseover="F_roll('NavigationBar1_4s0' ,1, 'NavigationBar1_4', '1')" onmouseout="F_roll('NavigationBar1_4s0' ,2, 'NavigationBar1_4', '1')"><img border="0" src="../assets/images/autogen/Scrabble_Books_2_Nregular_2.gif" id="NavigationBar1_4s0" name="NavigationBar1_4s0" onload="F_loadRollover(this,'../assets/images/autogen/Scrabble_Books_2_NRregularRollover_2.gif',0)"></a></td></tr></tbody></table></div>
