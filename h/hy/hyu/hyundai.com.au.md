@@ -1,107 +1,37 @@
-> *The following text is extracted and transformed from the hyundai.com.au privacy policy that was archived on 2006-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060716232703id_/http%3A//hyundai.com.au/j_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyundai.com.au privacy policy that was archived on 2007-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070519095049id_/http%3A//www.hyundai.com.au/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Hyundai Motor Company Australia Pty Limited
+# Hyundai Motor Company Australia Pty Ltd
 
-|  |   
----|---  
-|  This site is operated by Hyundai Motor Company Australia Pty Limited (ABN 58 008 995 588) and its affiliates, (collectively referred to herein as "HMCA", "we", "us", or "our"). HMCA is committed to protecting your privacy. We use the information we collect about you to provide a more customised information experience. Please read on for more detail about our privacy statement.   
----  
-About this privacy statement  
-Your consent  
-Personal information collected  
-Cookies  
-Use and disclosure of personal information  
-Security of your personal information  
-Links to other sites  
-Marketing and promotional material via e-mail  
-Accessing and Updating Information  
-Children’s privacy  
-Policy updates  
-Have additional comments or questions?  
-  
-About this privacy statement  
-This Internet Privacy Statement applies to your use of the HMCA web site, at www.hyundai.com.au.  
-HMCA is committed to user privacy in respect of our products and services, and guards your data carefully. The online environment provides an unprecedented access to information, but the convergence of communication and information technologies also brings a range of information privacy issues to the centre of public concern.  
-At HMCA, we take care to respect your right to privacy and to fully comply with our obligations under the Privacy Amendment (Private Sector) Act 2000 (C'th). HMCA can only obtain personal information from you via this site if you choose to supply it to us by entering your information in the appropriate locations herein. 
+PRIVACY POLICY
 
-[ Top of Page ]  
-  
-Your consent  
-By using our website, you consent to the collection and use of this information by HMCA. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. You are under no obligation to provide us with your personal information. If you choose to do so, it will be accepted as your consent for us to collect and use it as described below. If you do supply your personal information, or if you allow us to obtain it from you by the methods described below, we will treat your information as confidential in accordance with HMCA's Public Privacy Policy. A copy of that comprehensive policy can be obtained by e-mailing HMCA at: [privacy@hyundai.com.au](mailto:privacy@hyundai.com.au%20?subject=Privacy%20Statement%20Inquiry)
+Hyundai Motor Company Australia Pty Ltd (ABN 58 008 995 588) and its affiliates, (collectively referred to herein as "HMCA", "we", "us", or "our") take care to respect customers' right to privacy and to fully comply with our obligations under the Privacy Act 1988 (Cth) (the Act). We use any information we collect about customers only in accordance with our Privacy Policy and the Act to provide a more customised service experience. Please read on for more detail about our Privacy Policy.
 
-[ Top of Page ]  
-  
-Personal information collected  
-The types of personal information that we collect from you will depend on how you use the www.hyundai.com.au web site. For example, when requesting additional information not readily available on the web site, we will collect details such as your name, e-mail address, phone number, postal code, age, gender, and some details of your personal interests, your preferences for receiving commercial e-mail and receiving market research surveys via e-mail. Some of this information is essential for us to be able to accurately identify who is using the service. If you do not provide this information to us we will not be able to provide the additional information you have requested.  
-For statistical purposes, we collect de-identified information on web site activity (such as the number of users who visit the web site from another site, the address of that site) through the use of "cookies". 
+**Hyundai Customer Privacy Policy**
 
-[ Top of Page ]  
-  
-Cookies  
-"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies only contain de-identified information, but they do enable us to provide features such as storing items of interest to users of our web site between visits. Most web browsers automatically accept cookies, but you can usually change your browser to prevent that.  
-Cookies help us provide a better user experience by measuring which Web site areas are of greatest interest to visitors to our web site. If you choose to disable cookies in your browser, you can still access most of our Web site. Some Web sites will not allow you to complete certain activities if cookies are disabled.  
-From time to time, HMCA may provide aggregated statistical information about sales, browsing patterns and navigation techniques to reputable third parties. This is de-identified information, and assists HMCA to improve products and services offered. 
+While information is an important element in our ability to provide superior service, our most important asset is our customers' trust. Keeping customer information secure, and using it only as our customers would want us to, is a top priority for all of us at HMCA.
 
-[ Top of Page ]  
-  
-Use and disclosure of personal information  
-Unless you have instructed us not to do so, personal information may be shared with related companies within HMCA, where it will remain confidential. HMCA undertakes not to sell, rent or trade your personal information. We will not disclose information about you unless the disclosure is:  
+  1. We will safeguard, according to strict legal standards of security and confidentiality, any information our customers share with us.
+  2. We will limit the collection and use of customers' information to the minimum we require to deliver superior service to our customers, which includes advising our customers about our products, services and other opportunities, and to administer and improve our business and products by incorporating customer suggestions and feedback.
+  3. Only authorised employees, authorised Hyundai dealers, and contracted personnel, who are trained in the proper and lawful handling of customers' information, to have access to and use of customers' information. From time to time Hyundai may form relationships with other organisations to bring you special offers, competitions, surveys and subscriptions. For any third party offer or subscription, we require as a matter of policy that the third party clearly states its intentions with any information gathered, and attaches its privacy policy to the offer or subscription. We also require that the terms and conditions of the offer should also be clearly stated. Further, Hyundai takes its obligations to protect customer information very seriously and we make every effort to deal only with suppliers who share and demonstrate this same attitude.
+  4. Other than disclosure under clause 3, customers' information is only disclosed to external organisations when we contract with them to conduct business on our behalf or to provide support services to customers relating to Hyundai products. We only make such disclosures when those organisations comply with our Privacy Policy. These organisations are not permitted to retain any customers' information after they have completed their contracted obligations.
+  5. We, our agents, and Hyundai dealers may use personal information to inform our customers about our products and services or promotions that we think may be of interest to our customers. We will give an opportunity to our customers to express their wish not to receive any direct marketing communications. At any time, customers can let us know if they no longer wish to receive marketing materials by contacting our Privacy Officer and we will remove their details from our direct marketing database. However, if the law requires us to provide customers with information about our products or services, we will provide that information even if the customers have elected not to receive information about our products and services generally.
+  6. We will strive to keep customers' files complete, up-to-date, and accurate. The accuracy of that information however, depends to a large extent on the information the customers provide. We will therefore from time-to-time give an opportunity to customers to update any changes to their personal information to ensure that the personal information we hold is accurate, complete and up to date. If customers find out the information we hold is incorrect, customers should also contact us immediately so we can promptly amend our records.
+  7. We will continuously assess our performance against our Privacy Policy standards to ensure that customers' privacy is respected and ensured.
+  8. The customers have a right to request access to personal information that we hold about them. Where an individual believes his/her personal information is not accurate, they may request correction by HMCA by contacting us.
+  9. We are entitled to amend or modify our Privacy Policy at any time. Nothing contained in this policy is intended to create contractual rights and obligations.
 
 
-  * Required by law
-  * Is authorised by law
-  * You have consented to our disclosing the information about you
-  * To a HMCA dealer where you have requested particular information (such as pricing or availability of vehicles)
 
-From time to time HMCA may form relationships with other organisations to bring you special offers, competitions, surveys and subscriptions. For any third party offer or subscription, we require as a matter of policy that the third party clearly states its intentions with any information gathered, and attaches its privacy policy as a hyperlink to the offer or subscription. We also require that the terms and conditions of the offer should also be clearly stated.   
-Further, HMCA takes its obligations to protect client information very seriously and we make every effort to deal only with suppliers who share and demonstrate this same attitude. 
+Any concerns about the way personal information is managed and used by HMCA, or for more details about HMCA's approach to privacy, customers should check our website or contact our privacy officer. The contact information is as follows:
 
-[ Top of Page ]  
-  
-Security of your personal information  
-In accordance with its Public Privacy Policy, HMCA has implemented strict procedures and systems designed to protect the security of your personal information. HMCA honours your choice for its intended use. Our aim is to carefully protect your data from loss, misuse, unauthorised access or disclosure, alteration or destruction.  
-We will take reasonable steps to ensure that all information we collect, use or disclose is accurate, complete and up to date.  
-Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. Whilst we strive to protect your personal information from misuse, loss and unauthorised access, we cannot guarantee the security of any information you transmit to us or receive from our online products or services sites. You conduct these activities at your own risk. Once we receive your transmission, we make our best effort to ensure its security. 
-
-[ Top of Page ]  
-  
-Links to other sites  
-HMCA provides access to other sites by way of hyperlinks from this web site. These other sites are not subject to HMCA's privacy standards and procedures. You should make your own enquiries as to the privacy standards for each linked site. 
-
-[ Top of Page ]  
-  
-Marketing and promotional material via e-mail  
-We acknowledge and respect a user's choice to opt-out of HMCA marketing and promotional communication activities. Should you decide you do not wish to receive marketing or promotional materials, via e-mail, please [e-mail](mailto:privacy@hyundai.com.au?subject=Privacy%20Statement%20Inquiry) us, being sure to include your full name, phone number and postal code. 
-
-[ Top of Page ]  
-  
-Accessing and Updating Information  
-We need your help in making sure your personal information is correct on our systems. Please [e-mail](mailto:privacy@hyundai.com.au?subject=Privacy%20Statement%20Inquiry) us of any changes to your name, address, title, phone number, e-mail address or postal code. You have rights to access your personal information held by us subject to the provisions of the Privacy Act 1988 (Cth). If you would like more information about this, please contact our Privacy Officer by [e-mail](mailto:privacy@hyundai.com.au?subject=Privacy%20Statement%20Inquiry), or posted mail to the address appearing at the end of this Privacy Statement. 
-
-[ Top of Page ]  
-  
-Children’s privacy  
-We do not market children or knowingly collect personal information about children without parental consent.  
-Children should always ask a parent before sending any transmission over the Internet. Whilst HMCA will make every reasonable effort to ensure that children's privacy and other rights are not compromised, it is ultimately the responsibility of parents to monitor their children's Internet usage. 
-
-[ Top of Page ]  
-  
-Policy updates  
-All updates to this policy will be posted here. Last update: 20 October 2003.  
-We will not separately notify you of changes to the policy.
-
-Click [here](https://web.archive.org/web/20060716232703id_/http%3A//hyundai.com.au/privacy.pdf) if you wish to download the latest version of the [HMCA Privacy Policy Statement](https://web.archive.org/web/20060716232703id_/http%3A//hyundai.com.au/privacy.pdf) in PDF format.  
-If you don't have Adobe Acrobat on your computer, click [here](http://www.adobe.com/products/acrobat/readstep2.html) to download the reader. 
-
-[ Top of Page ]  
-  
-Have additional comments or questions?
-
-Should you have any additional privacy comments or questions related to this privacy policy please contact us by [e-mail](mailto:privacy@hyundai.com.au?subject=Privacy%20Policy%20Inquiry), or postal mail.   
 The Privacy Officer  
 Hyundai Motor Company Australia Pty Ltd  
-Locked Bag 18  
-Concord West  NSW  2138  
-AUSTRALIA   
+8 Baywater Drive, Homebush Bay NSW 2127  
+Phone: 02 9763 3333  
+Fax: 02 9763 3433  
+Website: [www.hyundai.com.au](https://web.archive.org/)  
+E-mail: [privacy@hyundai.com.au](mailto:privacy@hyundai.com.au)  
+
+
   
- 
+
