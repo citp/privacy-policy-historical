@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the digg.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231084513id_/http%3A//digg.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digg.com privacy policy that was archived on 2007-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070520001126id_/http%3A//www.digg.com/privacy) for the most accurate reproduction.*
 
-# digg / privacy policy
+# Digg / privacy policy
 
 ## Privacy Policy
 
@@ -33,7 +33,7 @@ We receive and store any information you enter on our website or provide to us i
 
 ### What About Cookies?
 
-  * Cookies are alphanumeric identifiers that we transfer to your computer.s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Digg cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or email address is. 
+  * Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Digg cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or email address is. 
   * The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of Digg's most attractive features.
   * Some of our business partners may use cookies on our website (for example, advertisers). However, we have no access to or control over these cookies.
 
@@ -43,6 +43,8 @@ We receive and store any information you enter on our website or provide to us i
 
 Information about our users is an integral part of our business. We neither rent nor sell your personal information to anyone. We share your personal information only as described below.
 
+  * **Digg Personnel:**   
+Digg personnel (including, for the avoidance of doubt, consultants and/or contractors) may have access to user information while carrying out their duties in the normal course of Digg business. 
   * **Business Transfers:**   
 In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if Digg, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred.
   * **Protection of Digg and Others:**  
@@ -76,11 +78,19 @@ You can access your personal information on our website and correct, amend, or d
 
 You must be 13 years and older to register to use the Digg website. As a result, Digg does not specifically collect information about children.
 
+### Changes to this Privacy Policy
+
+Digg may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the Digg website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.
+
 ### Conditions of Use
 
 If you decide to visit Digg website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.
 
-© digg Inc. 2006 — User-posted content, unless source quoted, 
+### Effective Date of this Privacy Policy
+
+This Privacy Policy is effective as of February 1, 2006
+
+© Digg Inc. 2007 — User-posted content, unless source quoted, 
 
 is licensed under a [Creative Commons Public Domain License](http://creativecommons.org/licenses/publicdomain/).
 
