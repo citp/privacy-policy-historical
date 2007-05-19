@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scrabblestop.com privacy policy that was archived on 2006-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061128080912id_/http%3A//www.scrabblestop.com/html/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrabblestop.com privacy policy that was archived on 2007-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070519133857id_/http%3A//scrabblestop.com/html/privacy_policy.html) for the most accurate reproduction.*
 
 # scrabblestop.com - Privacy Policy
 
@@ -8,7 +8,7 @@
 Our postal address is:  
 Plymouth, Wisconsin
 
-We can be reached via e-mail by using [this form](https://web.archive.org/web/20061128080912id_/http%3A//www.scrabblestop.com/html/contact.html).
+We can be reached via e-mail by using [this form](https://web.archive.org/web/20070519133857id_/http%3A//scrabblestop.com/html/contact.html).
 
 For each visitor to our web page, our web server automatically recognizes only the visitor’s domain name, but not the e-mail address.
 
