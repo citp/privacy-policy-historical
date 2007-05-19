@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ticketmaster.ie privacy policy that was archived on 2006-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061230200415id_/http%3A//www.ticketmaster.ie/legal/privacy.html%3Ftm_link%3Dtm_home_i_pp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ticketmaster.ie privacy policy that was archived on 2007-05-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070519172030id_/http%3A//www.ticketmaster.ie/legal/privacy.html%3Ftm_link%3Dtm_home_i_pp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>Ticketmaster.ie - Privacy</title>
@@ -9,7 +9,7 @@
     <meta name="keywords" content="tickets, concert tickets, concert listings, concert tour dates, sports tickets, theater tickets, family tickets, hot tickets, buy tickets">
 
 <meta name="rating" content="general">
-<meta name="copyright" content="2006, Ticketmaster">
+<meta name="copyright" content="2007, Ticketmaster">
 <meta name="revisit-after" content="4 Days">
 <meta name="expires" content="never">
 <meta name="distribution" content="global">
@@ -122,7 +122,7 @@ function grabUrl() {
 
 }
 </script>
-<meta name="DCSext.uri" content="/web/20061230200415id_/http%3A//www.ticketmaster.ie/legal/privacy.html%3Ftm_link%3Dtm_home_i_pp"></head>
+<meta name="DCSext.uri" content="/web/20070519172030id_/http%3A//www.ticketmaster.ie/legal/privacy.html%3Ftm_link%3Dtm_home_i_pp"></head>
 <body id="body" onload="SS_preloadImages('http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/tab_music_over.jpg','http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/tab_sports_over.jpg','http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/tab_arts_over.jpg','http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/tab_family_over.jpg')" bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 
 
@@ -134,20 +134,20 @@ function grabUrl() {
 
 <style type="text/css">
 #gcFlyover-wrapper{
-	position:absolute;
-	z-index:3;
-	height:70px;
-	width:108px;
-	cursor:pointer;
-	margin:-18px 0px 0px 662px;
+    position:absolute;
+    z-index:3;
+    height:70px;
+    width:108px;
+    cursor:pointer;
+    margin:-18px 0px 0px 662px;
 }
 #gcFlyover{
-	height:70px;
-	width:108px;
-	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/giftcardbadge.png'); /*  IE6 filter png hack must be absolute path */
+    height:70px;
+    width:108px;
+    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/giftcardbadge.png'); /*  IE6 filter png hack must be absolute path */
 }
 #gcFlyover[id]{
-	background-image:url(http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/giftcardbadge.png); /* blocks png from IE */
+    background-image:url(http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/giftcardbadge.png); /* blocks png from IE */
 }
 </style>
 <div align="center" class="logoLocation-container" id="logoLocation">
@@ -162,9 +162,11 @@ function grabUrl() {
     </tbody></table>
 </div><script language="JavaScript">
 var member_name = GetCookie("MNAME");
-var member_text, action_text;
+var check1 = GetCookie("MID");
+var member_text = "";
+var action_text;
 
-if (member_name == null || member_name.length == 0) {
+if ( check1 == null || check1.length == 0 ) {
      member_text = "";
      action_text = "Log In";
      member_name = null;
@@ -174,22 +176,24 @@ else {
           var decoded = decodeURI(escape(member_name));
           if (decoded != null && decoded.length > 0) member_name = decoded;
      }
-     member_text = ", " + member_name;
+     if( member_name != 'null' ) {
+         member_text = ", " + member_name;
+     }
      action_text = "Log Out";
 }
 
 function buildLink( myFlag ) {
      if( myFlag == "log" ) {
-          if( member_text != "" ) {
-               var theLink = "https://www.ticketmaster.ie/member/logout";
-          }
-          else {
-               var theLink = "https://www.ticketmaster.ie/member?";
-          }
-          document.write( "<a href=\"" + theLink + "\" class=\"passive\">");
+         if ( check1 == null || check1.length == 0 ) {
+             var theLink = "https://www.ticketmaster.ie/member?";
+         }
+         else {
+             var theLink = "https://www.ticketmaster.ie/member/logout";
+         }
+         document.write( "<a href=\"" + theLink + "\" class=\"passive\">");
      }
      else {
-          if( member_text != "" ) {
+          if( check1 != null || check1.length != 0 ) {
                var theLink = "https://www.ticketmaster.ie/member/edit_subscriptions?tm_link=tm_alert_header";
           }
           else {
@@ -301,9 +305,11 @@ function buildLink( myFlag ) {
     </tbody></table>
 </div><script language="JavaScript">
 var member_name = GetCookie("MNAME");
-var member_text, action_text;
+var check1 = GetCookie("MID");
+var member_text = "";
+var action_text;
 
-if (member_name == null || member_name.length == 0) {
+if ( check1 == null || check1.length == 0 ) {
      member_text = "";
      action_text = "Log In";
      member_name = null;
@@ -313,22 +319,24 @@ else {
           var decoded = decodeURI(escape(member_name));
           if (decoded != null && decoded.length > 0) member_name = decoded;
      }
-     member_text = ", " + member_name;
+     if( member_name != 'null' ) {
+         member_text = ", " + member_name;
+     }
      action_text = "Log Out";
 }
 
 function buildLink( myFlag ) {
      if( myFlag == "log" ) {
-          if( member_text != "" ) {
-               var theLink = "https://www.ticketmaster.ie/member/logout";
-          }
-          else {
-               var theLink = "https://www.ticketmaster.ie/member?";
-          }
-          document.write( "<a href=\"" + theLink + "\" class=\"passive\">");
+         if ( check1 == null || check1.length == 0 ) {
+             var theLink = "https://www.ticketmaster.ie/member?";
+         }
+         else {
+             var theLink = "https://www.ticketmaster.ie/member/logout";
+         }
+         document.write( "<a href=\"" + theLink + "\" class=\"passive\">");
      }
      else {
-          if( member_text != "" ) {
+          if( check1 != null || check1.length != 0 ) {
                var theLink = "https://www.ticketmaster.ie/member/edit_subscriptions?tm_link=tm_alert_header";
           }
           else {
@@ -342,7 +350,7 @@ function buildLink( myFlag ) {
     <tbody><tr>
         <td class="topNav-signInBar" style="padding:5px">
         <div id="signInBar-text">            <div class="floatLeft">
-                <span class="altTextColor" style="padding-left:10px" id="welcome_bar">Welcomeundefined&nbsp;&nbsp;</span>  |  <script>buildLink('log');</script><a href="https://www.ticketmaster.ie/member/logout" class="passive"><script>document.write(action_text);</script>undefined</a>
+                <span class="altTextColor" style="padding-left:10px" id="welcome_bar">Welcomeundefined&nbsp;&nbsp;</span>  |  <script>buildLink('log');</script><a href="https://www.ticketmaster.ie/member?" class="passive"><script>document.write(action_text);</script>undefined</a>
             </div>            <div class="floatRight" style="margin-right:13px">            </div>        </div></td>
     </tr>
     </tbody></table></div><script language="JavaScript">
@@ -443,10 +451,11 @@ if (!member_text && (document.getElementById('myAccountSubNav'))) {
 <div id="bottom" align="center"><div class="footerContainer" style="border-top: 0px;">    <div class="footerSections" align="center"> <a href="http://www.ticketmaster.ie/section" class="footer">Home</a> <a href="http://www.ticketmaster.ie/section/concerts" class="footer">Music</a> <a href="http://www.ticketmaster.ie/section/sports" class="footer">Sport</a> <a href="http://www.ticketmaster.ie/section/arts_theater" class="footer">Arts &amp; Theatre</a> <a href="http://www.ticketmaster.ie/section/family" class="footer">Family &amp; Attractions</a> </div>            <div class="footerSubSections" align="center">
                 <a href="http://www.ticketmaster.ie/sitemap">Site Map</a> | <a href="http://www.ticketmaster.ie/h/help.html">Help</a>|<a href="http://www.ticketmaster.ie/etc/">Ticket Centres</a>|<a href="http://www.ticketmaster.ie/about_us/">About Us</a>|<a href="http://www.ticketmaster.ie/about_us/advertise_with_us/">Advertise with Us</a>|<a href="http://www.ticketmaster.ie/h/selltixwithus.html">Sell Tickets With Us</a>|<a href="http://www.ticketmaster.ie/about_us/worldwide/">International</a>|<a href="http://www.ticketmaster.ie/legal/">Our Policies</a>|<a href="http://www.ticketmaster.ie/legal/privacy.html">Privacy Policy</a>
             </div>    <div class="footerTOU" align="center">Use of this site is subject to express <a href="http://www.ticketmaster.ie/legal/">terms of use,</a> which prohibit commercial use of this site. By continuing past this page, you agree to abide by these terms.</div>
-
- <div class="footerCopyRight" align="center">©&nbsp;2006&nbsp;&nbsp;Ticketmaster. All rights reserved.</div>
+ <div class="footerCopyRight" align="center">© 2007 Ticketmaster. All rights reserved.<br>Ticketline trading as Ticketmaster Registration in Republic Of Ireland No. 135876 whose registered office is at Grafton House, 70 Grafton Street, Dublin 2, Ireland
+ </div>
 
 <div class="footerPartnerSites" align="center">Partner Sites:
+    <a href="http://www.admission.com/">Admission</a>
     <a href="http://www.condodirect.com/" target="_blank">Condo Direct</a>
     <a href="http://www.cottonblend.com/" target="_blank">Cottonblend</a>
     <a href="http://www.domania.com/" target="_blank">Domania</a>
@@ -456,24 +465,21 @@ if (!member_text && (document.getElementById('myAccountSubNav'))) {
     <a href="http://www.homeloancenter.com/" target="_blank">Home Loan Center</a>
     <a href="http://www.hotels.com/" target="_blank">Hotels</a>
     <a href="http://www.hotwire.com/" target="_blank">Hotwire</a>
-    <a href="http://www.improvenet.com/" target="_blank">ImproveNet</a>
-    <a href="http://www.internest.com/" target="_blank">iNest</a><br>    <a href="http://www.ioscatalog.com/" target="_blank">IOS Catalog</a>
+    <a href="http://www.improvenet.com/" target="_blank">ImproveNet</a><br>    <a href="http://www.internest.com/" target="_blank">iNest</a>
+    <a href="http://www.ioscatalog.com/" target="_blank">IOS Catalog</a>
     <a href="http://www.lendingtree.com/" target="_blank">LendingTree</a>
     <a href="http://www.lendingtreeloans.com/" target="_blank">LendingTree Loans</a>
     <a href="http://www.livedaily.com/" target="_blank">LiveDaily</a>
     <a href="http://www.realestate.com/" target="_blank">RealEstate</a>
     <a href="http://www.reserveamerica.com/" target="_blank">ReserveAmerica</a>
     <a href="http://www.servicemagic.com/" target="_blank">ServiceMagic</a>
-    <a href="http://www.smithandnoble.com/" target="_blank">Smith + Noble</a>
+    <a href="http://www.shoebuy.com/">Shoes</a>
+    <a href="http://www.smithandnoble.com/" target="_blank">Smith + Noble</a>    <a href="http://www.thecampingclub.com/">The Camping Club</a>
     <a href="http://www.ticketweb.com/" target="_blank">TicketWeb</a>
 </div>
 
-        </div>
 </div>
-
-
-
-
+</div>
 
 
 
@@ -628,8 +634,12 @@ function dcsVar(){
 	WT.bh=dCurrent.getHours();
 	WT.ul=navigator.appName=="Netscape"?navigator.language:navigator.userLanguage;
 	if (typeof(screen)=="object"){
-		WT.cd=screen.colorDepth;
-		WT.sr=screen.width+"x"+screen.height;
+        try {
+            WT.cd=screen.colorDepth;
+            WT.sr=screen.width+"x"+screen.height;
+        }
+        catch(error) {
+        }   
 	}
 	if (typeof(navigator.javaEnabled())=="boolean"){
 		WT.jo=navigator.javaEnabled()?"Yes":"No";
@@ -736,6 +746,7 @@ dcsMeta();
 dcsTag();
 //-->
 </script>
+
 
 
 
