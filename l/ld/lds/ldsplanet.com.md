@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the ldsplanet.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021110948id_/http%3A//www.ldsplanet.com/privacy/%3Fa%3Durl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ldsplanet.com privacy policy that was archived on 2007-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070519214822id_/http%3A//www.ldsplanet.com/privacy/%3Fa%3D) for the most accurate reproduction.*
 
-# LDSPlanet.com - Bringing Single LDS Members Together - 10/21/2006
+# LDSPlanet.com - Bringing Single LDS Members Together - 05/19/2007
 
 |  |  |   
 ---  
 Bringing Single LDS Members Together  
-[](https://web.archive.org/sign_up/?a=url)  
+[](https://web.archive.org/sign_up/?a=)  
   
 |   
 ---  
