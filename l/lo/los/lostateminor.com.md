@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lostateminor.com privacy policy that was archived on 2006-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061107014506id_/http%3A//lostateminor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lostateminor.com privacy policy that was archived on 2007-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070519030917id_/http%3A//www.lostateminor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - lostateminor.com
 
@@ -11,7 +11,7 @@ ANTI-SPAM
 Lost At E Minor does not buy, rent, or sell email addresses. Every email sent includes links to unsubscribe, allowing users to automatically and immediately remove themselves from our subscription list.
 
 UNSUBSCRIBE  
-Users may always automatically opt-out of receiving the Lost At E Minor newsletter by going directly to the unsubscribe form: <http://www.lostateminor.com/mail/?p=unsubscribe>
+Users may always automatically opt-out of receiving the Lost At E Minor newsletter by going directly to the unsubscribe link at the footer on all emails sent. **We will action this immediately**.
 
 Users with questions or experiencing problems unsubscribing should send email to us [using the form on this page](https://web.archive.org/about/ "Contact us").
 
@@ -28,7 +28,7 @@ LINKS
 Both the Lost At E Minor newsletters and websites contain links to other sites. Lost At E Minor is not responsible for the privacy practices of such other sites. This privacy statement applies solely to information directly collected by Lost At E Minor.
 
 SECURITY  
-Lost At E Minor takes every precaution to protect users’ information. Access to your personal information is limited to people who need it to do their job.
+Lost At E Minor takes every precaution to protect users' information. Access to your personal information is limited to people who need it to do their job.
 
 NOTIFICATION OF CHANGES  
 Lost At E Minor reserves the right, at its sole discretion, to change, modify or otherwise alter these terms and conditions at any time. Such changes and/or modifications shall become effective immediately upon the posting thereof. Please review the terms and conditions periodically. Continued use of any Lost At E Minor publication following the posting of changes and/or modifications constitutes acceptance of the revised terms and conditions.
@@ -36,4 +36,4 @@ Lost At E Minor reserves the right, at its sole discretion, to change, modify or
 LEGAL DISCLAIMER  
 Lost At E Minor may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on us, our partners, sponsors, investors, or affiliates; (b) protect and defend our rights or property or those of our users; and (c) act as immediately necessary in order to protect the personal safety of our users or the public.
 
-If you have any questions, please contact us [using the form on this page](https://web.archive.org/about/ "Contact us"). 
+If you have any questions, please contact us [using the form on this page](https://web.archive.org/about/ "Contact us").
