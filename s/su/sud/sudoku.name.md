@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sudoku.name privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229104616id_/http%3A//www.sudoku.name/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sudoku.name privacy policy that was archived on 2007-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070519071741id_/http%3A//www.sudoku.name/privacy.php) for the most accurate reproduction.*
 
 # Sudoku.name Privacy policy
 
