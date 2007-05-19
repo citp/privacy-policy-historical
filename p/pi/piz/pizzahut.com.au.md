@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pizzahut.com.au privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217215212id_/http%3A//www.pizzahut.com.au/default.asp%3Fpage%3D/privacy%2Bpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pizzahut.com.au privacy policy that was archived on 2007-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070519131022id_/http%3A//www.pizzahut.com.au/default.asp%3Fpage%3D/privacy%2Bpolicy) for the most accurate reproduction.*
 
 # Pizza Hut - Privacy Policy
 
