@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toronto.ca privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217233159id_/http%3A//www.toronto.ca/get_connected/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toronto.ca privacy policy that was archived on 2007-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070519064226id_/http%3A//www.toronto.ca/get_connected/privacy_statement.htm) for the most accurate reproduction.*
 
 # The City of Toronto: Privacy and security statement
 
