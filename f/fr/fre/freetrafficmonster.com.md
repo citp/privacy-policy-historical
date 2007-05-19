@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freetrafficmonster.com privacy policy that was archived on 2006-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061026023240id_/http%3A//www.freetrafficmonster.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freetrafficmonster.com privacy policy that was archived on 2007-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070519185209id_/http%3A//www.freetrafficmonster.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
 
 # Increase Web site Traffic, Freetrafficmonster.com
 
