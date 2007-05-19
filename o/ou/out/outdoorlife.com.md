@@ -1,119 +1,203 @@
-> *The following text is extracted and transformed from the outdoorlife.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211162215id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/outdoorlife%3Fdnp_source%3DE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorlife.com privacy policy that was archived on 2007-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070519200257id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/outdoorlife%3Fdnp_source%3DE) for the most accurate reproduction.*
 
 # Outdoor Life Privacy Policy
 
-  |  |  |   |    
-**PRIVACY NOTICE** |    
-  
-**Table of Contents** |    
-* The Information We Collect
-* How We Use the Information 
-* Collection of Information by Third-Party Sites and Sponsors
-* Cookies
-* Our Commitment to Security
-* How You can Access or Correct Information
-* Special Note for Parents
-* How to Contact Us
-| 
+This website ("Company Website") is operated by Bonnier Corporation ("Company") and this policy applies to all websites owned, operated, controlled and otherwise made available by the Company, its affiliates and supported organizations (including, but not limited to, mirrored, co-branded, sub domains, micro sites, and successor sites). This policy does not cover information collected on sites linked to or from the Company's Websites. We reserve the right to change or modify our privacy practices that are described herein from time to time simply by posting a revised Privacy Policy on this Company Website. Any such change shall be effective immediately upon posting of the revised Privacy Policy on this Company Website. We reserve the right to make the revised or changed Privacy Policy effective for information we already have about you, as well as any information we receive in the future. We encourage you check back often to determine any changes to this Privacy Policy so that you understand our current privacy practices. Continued access of the Website by you will constitute your acceptance of any changes or revisions to the Privacy Policy.
 
-[European Union Privacy Information](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized_eu.cgi/outdoorlife?dnp_source=E)   
-[Canada Privacy Information](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized_caneu.cgi/outdoorlife?dnp_source=E)
+**PLEASE NOTE THAT THIS PRIVACY POLICY APPLIES ONLY TO THE COMPANY'S WEBSITES AND USE OF INFORMATION AND DOES NOT APPLY TO ANY INFORMATION THAT YOU MAY PROVIDE TO US BY OTHER MEANS, SUCH AS VIA MAIL OR TELEPHONE.**
 
-|    
-  
-This is the Privacy Policy for the United States of America. 
+The Company's address is:
 
-Thank you for visiting Outdoor Life, a Time Inc. site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used by Time Inc. [Click here](http://www.timeinc.net/subs/privacy/bus_units.html) for a list of the Time Inc. businesses whose sites are governed by this Privacy Notice.
-
-|    
-  
-**The Information We Collect**  
-Through Time Inc. publications, websites, and other media, you can order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. You are able to visit much of this website and enjoy many Time Inc. publications and promotions without providing any personally identifiable information. Sometimes, however, we do need your personally identifiable information to provide you with the products and services that you request. The types of personally identifiable information that may be collected at these pages and elsewhere include, but are not limited to: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services. 
-
-At some Time Inc. sites and through certain promotions, you can submit information about other people. For example, you might submit a person's name and e-mail address to send an electronic greeting card and, if you order a gift online or offline and want it sent directly to the recipient, you might submit the recipient's name and address. The types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, e-mail address, and telephone number. 
-
-For certain promotions, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the promotion's activities and offerings. 
-
-We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using, the type of operating system you are using, and the domain name of your Internet service provider. 
-
-| back to top  
-  
-**How We Use the Information**  
-We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about offerings, and to offer you other products, programs or services that we believe may be of interest to you. 
-
-We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests or when we make changes to subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account with us. 
-
-We use the information that you provide about others to enable us to send them your gifts or cards. From time to time, we also may use this information to offer our products, programs, or services to them. 
-
-If you choose to submit content for publication (e.g., a "letter to our editors"), we may publish your name, screen name, and other information you have provided to us. 
-
-The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services. 
-
-We sometimes use the non-personally identifiable information that we collect to improve the design and content of our publications and websites and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services. 
-
-We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request. 
-
-Agents and contractors of Time Inc. who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Notice by, for example, not using the information for any purpose other than to carry out the services they are performing for Time Inc. 
-
-We may transfer your personally identifiable information to other Time Inc. offices for internal management and administrative purposes. Your personal data will be transferred to other Time Inc. offices where necessary for the performance or conclusion of our contractual obligations to you or for your benefit. Transfers of personally identifiable information may also be made where necessary for the establishment, exercise, or defense of legal claims. 
-
-Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice. Inadvertent disclosures may result, for example, when third parties misrepresent their identities in asking the site for access to personally identifiable information about themselves for purposes of correcting possible factual errors in the data. 
-
-|    
-  
-**Privacy Options**  
-If you prefer not to receive traditional mail or other off-line promotions from this or any other Time Inc. property or any companies not owned by Time Inc., please [click here](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized.cgi/outdoorlife?offline=yes&referring_url=&dnp_source=E). |    
-  
-If a Time Inc. site discloses personally identifiable information to companies not owned by Time Inc. who want to market products or services to you, it will provide you with an opportunity to opt out or block such uses. If you prefer not to receive online marketing information from companies not owned by Time Inc., please [click here](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized.cgi/outdoorlife?online=yes&referring_url=&dnp_source=E). 
-
-Time Inc. may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive online marketing information from this or any other Time Inc. site, please [click here](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized.cgi/outdoorlife?online=yes&referring_url=&dnp_source=E). 
-
-Time Inc. sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses. 
-
-| back to top  
-  
-**Collection of Information by Third-Party Sites and Sponsors**  
-Some of our sites contain links to other sites whose information practices may be different than ours. You should consult the other sites' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties. 
-
-Time Inc. sites sometimes may offer contests, sweepstakes, or promotions that are sponsored by or co-sponsored with identified third parties. By virtue of their sponsorship, these third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the contest, sweepstakes, or promotion. Time Inc. has no control over the third-party sponsors' use of this information. The Time Inc. site will notify you at the time of requesting personally identifiable information if third-party sponsors will obtain such information. 
-
-Time Inc. sites may use reputable third parties to present or serve the advertisements that you may see at its web pages and to conduct research about the advertisements. This privacy notice does not cover any use of information that such third parties may have collected from you or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs). For more information on the use of such third-parties, please [click here](http://www.timeinc.net/legal/parties.html). 
-
-|    
-  
-**Cookies**  
-To enhance your experience with our sites, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie. 
-
-We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g. to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs, or services. 
-
-We may also use small pieces of code called "web beacons" or "clear gifs" to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses. These "web beacons" may be used to deliver cookies that conform to our cookie policy. 
-
-| back to top  
-  
-**Our Commitment to Security**  
-We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect. |    
-  
-**How You can Access or Correct Information**  
-To inquire about personally identifiable information that this Time Inc. site has collected about you, or how to correct factual errors in such information, please email us by clicking [here](https://secure.customersvc.com/servlet/Show?WESPAGE=am/Services/load_email.jsp&MSRSMAG=OU). 
-
-To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. 
-
-|    
-  
-**Special Note for Parents**  
-The site you are visiting is one of the Time Inc. general audience sites. For more information about our online privacy practices for children's sites, consult the privacy notice at the children's site in which you are interested.  |    
-  
-**Changes to this Notice** This Notice may be changed by Time Inc. The revised Notice will be posted to this page so that you are aware of the information we collect, how we use it, and under what circumstances we may disclose it.  |    
-  
-**How to Contact Us**  
-If you have any questions or concerns about the Time Inc. Privacy Notice or its implementation please contact us via email by [clicking here](https://secure.customersvc.com/servlet/Show?WESPAGE=am/Services/load_email.jsp&MSRSMAG=OU) or at the following address:
-
-Time Customer Service  
+Bonnier Corporation  
+c/o Time Customer Service  
 Attention: Consumer Affairs  
 3000 University Center Drive  
-Tampa, Florida 33612-6408 
+Tampa, Florida 33612-6408
 
-[http://www.outdoorlife.com](http://www.outdoorlife.com/)
+**PARENTS AND CHILDREN UNDER THE AGE OF 13:**
 
-| back to top  
-|  This Privacy Notice was revised 12/14/2005.
+**THIS SITE IS NOT MEANT FOR CHILDREN UNDER THE AGE OF 13. CHILDREN SHOULD GET THEIR PARENTS PERMISSION BEFORE VISITING THE SITE AND SHOULD NOT PROVIDE BONNIER CORPORATION ANY PERSONALLY IDENTIFIABLE INFORMATION. SINCE BONNIER CORPORATION DOES NOT DETERMINE THE AGE OF A WEB SITE VISITOR WITHOUT PROVIDING PERSONALLY IDENTIFIABLE INFORMATION, IT IS THE RESPONSIBILITY OF THE CHILD AND PARENTS TO MAKE SURE THE CHILD IS NOT VIEWING THE WEB SITE WITHOUT PERMISSION OF THE PARENT. ANY PERSOANLLY IDENTIFIABLE INFORMATION ENTERED SHOULD ALWAYS BE DONE BY PERSONS OVER THE AGE OF 18.**
+
+**SHOULD YOU BE MADE AWARE OF ANY INFORMATION BEING SENT BY BONNIER CORPORATION TO A MINOR, PLEASE CONTACT THE COMPANY TO HAVE THIS INFORMATION REMOVED.**
+
+^ back to top
+
+## Introduction
+
+It is the goal of our Websites to provide information around individual interests, at the same time protecting your privacy. The following privacy policy describes the information we collect, how we use it and what rights you have to it. By using this Company Website, you acknowledge and agree to the terms and conditions of this Website Privacy Policy Statement ("Privacy Policy"). If you do not agree to these terms and conditions, please do not use this Company Website.
+
+^ back to top
+
+## Information We Collect
+
+The Company collects personal information from you at on the Company's Websites when you voluntarily submit it to us. The Company requests personal information from you (which may include your name, address, telephone number, email address, gender, year of birth, home address, work address, landline phone number, cell phone number, credit card number, and other personal preferences such as preferred brands, wish list, other products and services purchased, income and education level, interests, and instant messenger information). Following are identifiers that permit the physical or online contacting of a specific individual when you:
+
+  * Subscribe to receive email newsletters or other correspondence;
+  * Subscribe to receive print or digital versions of one of the Company's magazines;
+  * Complete a request, registration, survey, application or other form;
+  * Request information on a product or service from us or from one of our vendors, suppliers or other agents;
+  * Submit any content or materials to this Website;
+  * Participate in a contest, sweepstakes, or any form of promotional activity sponsored by the Company, affiliate or third party.
+  * Request materials from the Company or one of it's affiliates; and/or
+  * Request e-mail, fax, mail or telephone support or services.
+
+
+
+You will be asked for your credit card information if you subscribe to one or more of the Company's magazines or buy any other product from this Site. Your credit card information, along with the personal identifying information you submit, is transferred to and used by third party fulfillment and financial institutions to verify the credit card numbers, to authorize the processing of the transaction, and fulfill the subscription or product orders. Be sure to review all privacy policies published by our third party service providers and contact them directly if you have questions as they may have privacy terms that differ from The Company's Privacy Policy.
+
+The Company's Websites sometimes may offer contests, sweepstakes, or promotions that are sponsored by or co-sponsored by one or more third parties. By virtue of a third party sponsorship, these organizations may obtain personally identifiable information that you voluntarily submit. The Company has no control over the third-party sponsors' use of this information. Be sure to review all privacy policies published by these third parties and contact them directly if you have questions as they may have privacy terms that differ from The Company's Privacy Policy.
+
+The Company also collects non-personally-identifiable information from your Web browser to determine aggregated trends and usage statistics (including, but not limited to, number of visitors, time spent on the Website, browser type and version, pages requested, and pages visited), for purposes of site administration and to compile aggregate information about usage of the Website. The non-personally-identifiable information that is collected will not permit individual identification, meaning you will remain anonymous. Personally identifiable information is obtained if you elect to provide us with this information during your visit to a Company Website or during an earlier visit or subsequent visit and we are able to link your IP address between your current visit and one of these other visits. The Company will also work with service providers that provide tracking and data collection technologies in order to:
+
+  * Serve ads across the Company's Websites,
+  * Deliver and track email communications;
+  * Process purchase orders through e-commerce transactions;
+  * Fulfill print and digital subscription orders; and
+  * Provide marketing leads to third party organizations.
+
+
+
+These companies may collect personal information about your visits to the Company's Websites and your interaction with the Website, including advertising. You may choose not to provide us with any personal information. In such event, you can still access and use many portions of the Company's Websites; however, you will not be able to access and use those portions of this Company Website or the services available on or through this Company Website that require your personal information. 
+
+^ back to top
+
+## Using Information
+
+We may use the information we collect to:
+
+  * Enhance the online customer experience, provide more relevant content and information, customize and/or personalize communications, improve page load time, deliver more relevant advertising and promotional offers, develop new products and Websites, and improve the overall site navigation and usability;
+  * Send you Company related promotional, marketing, sales, and public relations efforts;
+  * Provide marketing leads to third party organizations.
+  * Respond to customer service inquiries;
+  * Communicate about your subscription and account information or other customer service needs;
+  * Communicate with you about our Company services, events, products, and other promotional purposes;
+  * Improve our service;
+  * Track your visits to the site and usage of the site;
+  * Administer contests, promotions, surveys or other website features;
+  * Provide technical support to you; and
+  * Perform any other lawful acts except for those acts expressly prohibited by the terms and conditions set forth herein.
+
+
+
+^ back to top
+
+## Sharing Information
+
+Unless you opt out, we may use your registration information to send you promotional materials from the Company or a third party via email or postal mail. If you provide the Company with your email and/or postal address, we may include that address in email and/or postal address lists that the Company either sells, trades, or rents to third parties. If you prefer not to receive traditional mail or other off-line promotions from this property or any companies not owned by the Company, please [click here](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized.cgi/outdoorlife?offline=yes&referring_url=&dnp_source=E). 
+
+If a Company site discloses personally identifiable information to companies not owned by the Company who want to market products or services to you, it will provide you with an opportunity to opt out or block such uses. If you prefer not to receive online marketing information from companies not owned by the Company, please [click here](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized.cgi/outdoorlife?online=yes&referring_url=&dnp_source=E).
+
+The Company may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive online marketing information, please [click here](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized.cgi/outdoorlife?online=yes&referring_url=&dnp_source=E).
+
+If your request is sent my traditional mail, please include in your request the list you would like to be removed from the date of your request, your postal mailing address, and contact information in case we need to personally contact you in an effort to handle your request. For example, you may want to be removed from receiving information from third party organizations, but still want to receive information from the Company and its various brands. You also may not want to receive any information at all. If the Company receives such a letter from you, we will remove your postal address from future postal address lists that we rent to third parties.
+
+We may use and/or transfer your personally identifiable information to other Company affiliates for internal management and administrative purposes. Your personal data will be transferred to other Company affiliates where necessary for the performance or conclusion of our contractual obligations to you or for your benefit. Transfers of personally identifiable information may also be made where necessary for the establishment, exercise, or defense of legal claims.
+
+The Company will disclose your personal information to third parties in specific circumstances that include, but are not limited to, the sale of Company or any portion thereof; during the due diligence in connection with a potential sale of Company or any portion thereof; during any bankruptcy, insolvency or liquidation of Company; or in other similar circumstances.
+
+As stated earlier, for the purpose of providing you with certain services and products and to process your requests, purchases, and payments, the Company may disclose your personal information to one or more of our affiliates, service providers or other third parties who are assisting Company in performing such services. Without limiting the foregoing, these third parties may provide Company with payment processing, shipping, data management, email distribution, live text chat, email response, market research, information analysis, and promotions management services. We provide such parties with the personal information they need to perform their respective services and we use commercially reasonable measures in an effort to require them to safeguard your personal information and limit their use of it.
+
+The Company also may disclose personal information about you upon request by the government; in response to a court order; when required by law or when we believe in good faith that disclosure is required by law; to enforce our Privacy Policy, terms and conditions or other agreements and polices on the Company's Websites; upon your request; or to contact, identify or bring legal action against someone who may be causing injury to or interference with our or others' rights or property including, but not limited to, claims for infringement of intellectual property, trespass upon any of the Company's Web sites, invasions of privacy or situations involving threats or alleged threats to the physical safety of a person's property. We may also share information with companies assisting in fraud protection or investigation. We do not provide information to these agencies or companies for marketing purposes.
+
+The Company may also use, transfer, sell, and share aggregated, anonymous data about our users as a group for any legal purposes whatsoever, such as analyzing usage trends and seeking compatible advertisers and partners.
+
+^ back to top
+
+## Protecting Your Information
+
+We use commercially reasonable measures in an effort to safeguard and secure your personal information while stored on our computer systems. We use a variety of security measures, including encryption and authentication tools, to maintain the confidentiality of your personal information. Your personal information that is stored by the Company is done so behind firewalls and is only accessible by a limited number of persons who are authorized to access such systems, and are required to keep the information confidential. Regardless of these efforts by us, no system connected to the Internet can be guaranteed to be 100% secure.
+
+We use commercially reasonable measures in an effort to safeguard and secure the transmission of your personal information from your computer to the Company's computers. When you access your personal information or place orders, we offer the use of a secure server. To the extent you select the secure server method or your browser supports such functionality, all credit account information you supply is transmitted via Secure Socket Layer (SSL) technology. Regardless of these efforts by us, no data transmission over the public Internet can be guaranteed to be 100% secure.
+
+^ back to top
+
+## Cookies and Pixel Tags
+
+The Company's Websites use cookies. A cookie is a small, removable data file that is stored by your Web browser on your computer. Cookies allow you to place an order on this Company Website and allow us to enhance, facilitate and personalize your online surfing and user experience. For example, we use cookies to:
+
+  * Recognize you when you return to this Company Website;
+  * Present relevant content to you when you visit this Company Website;
+  * Analyze visitor behavior; and
+  * Facilitate other similar types of activities.
+
+
+
+You can choose to have your computer warn you each time a cookie is being sent or you can choose to turn off all cookies. You do this through your Web browser settings. If you turn cookies off, you won't have access to many features that make your visits to the Company's Websites more efficient and enjoyable, and in some cases, some of our services will not function or will function with limited capability. The Company also uses pixel tags - tiny graphic images - to help us analyze your online behavior and information about visitors to this Company Website and our customers. Pixel tags also allow us to send you email in a format you can read and let us know when you have opened an email message from us.
+
+^ back to top
+
+## Tell a Friend
+
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. The Company collects the email address of your friend for the sole purpose of automatically sending the friend an email inviting them to visit, but does not use this information for any other purpose.
+
+^ back to top
+
+## Children's Online Privacy
+
+This Website is not intended for use by children, especially those under age 13. No one under age 13 is allowed to provide any personal information or use our public discussion areas, forums and chats. Minors between the ages of 13 and 17 must get the permission of their parent(s) or legal guardian(s) before making purchases, including subscriptions, on this site.
+
+If your children disclose information about themselves in publicly accessible areas of the Website, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so.
+
+If you want to notify us of our receipt of personal information belonging to a child under the age of 13, please do so at:
+
+Bonnier Corporation  
+c/o Time Customer Service  
+Attention: Consumer Affairs  
+3000 University Center Drive  
+Tampa, Florida 33612-6408
+
+^ back to top
+
+## Chat Rooms, Blogs, Forums, and Consumer Generated Media
+
+This Company Website may now or in the future include web logs (i.e., blogs), chat rooms, forums, message boards, and/or news groups. Any information that is disclosed in these areas becomes public information. The Company may also syndicate this content using RSS or other technologies that permit the display of such content on other unaffiliated third party Websites. You should exercise caution before disclosing your personal information via these public venues, which you do at your own risk. If you do so, you may receive, among other things, unsolicited emails or "spam" from others. Company cannot safeguard the privacy of personal information that is disclosed online in this manner. If you elect to submit content that includes personally or non-personally identifiable information, you must assume that the content submitted to a Company Website can and may be displayed on any Website on the Internet.
+
+^ back to top
+
+## Other Websites
+
+As stated previously, when browsing the Company's Website, you may be directed to other Websites that are beyond the control of the Company. These other Websites may use cookies and pixel tags, collect data, or solicit personal information. Even though Company may be affiliated with these Websites, we have no control over them or how they collect, distribute or otherwise use your personal information or how they safeguard and secure your personal information. Company is not responsible or liable for the conduct, policies or actions of the owners of such Websites or the content displayed on these websites. You acknowledge that accessing any Website that is linked to the Company's Websites is done at your own risk.
+
+^ back to top
+
+## Privacy Options
+
+If you prefer not to receive traditional mail or other off-line promotions from this or any other Company property or any companies not owned by the Company, please [click here](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized.cgi/outdoorlife?offline=yes&referring_url=&dnp_source=E). 
+
+If a Company site discloses personally identifiable information to companies not owned by the Company who want to market products or services to you, it will provide you with an opportunity to opt out or block such uses. If you prefer not to receive online marketing information from companies not owned by the Company, please [click here](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized.cgi/outdoorlife?online=yes&referring_url=&dnp_source=E).
+
+The Company may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive online marketing information from the Company, please [click here](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized.cgi/outdoorlife?online=yes&referring_url=&dnp_source=E).
+
+The Company's sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
+
+^ back to top
+
+## How to Contact Us
+
+If you have any questions or concerns about the Company's Privacy Policy or its implementation please contact us via email by [clicking here](https://secure.customersvc.com/servlet/Show?WESPAGE=am/Services/load_email.jsp&MSRSMAG=OU) or at the following address:
+
+Bonnier Corporation  
+c/o Time Customer Service  
+Attention: Consumer Affairs  
+3000 University Center Drive  
+Tampa, Florida 33612-6408
+
+If your request is sent my traditional mail, please include in your request the list you would like to be removed from the date of your request, your postal mailing address, and contact information in case we need to personally contact you in an effort to handle your request. For example, you may want to be removed from receiving information from third party organizations, but still want to receive information from the Company and its various brands. You also may not want to receive any information at all. If the Company receives such a letter from you, we will remove your information as requested from future mailings.
+
+In some limited circumstances, such as to resolve disputes, troubleshoot problems and enforce our policies, the Company may retain in our files the information you have requested to remove. Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your requests.
+
+We reserve the right to send you certain communications related to this Company Website that are considered part of your account, such as technical alerts, without offering you the opportunity to opt out of receiving them.
+
+^ back to top
+
+## Questions and Feedback
+
+We welcome your questions, comments, and concerns about this Privacy Policy and our privacy practices. Please send us feedback pertaining to these matters or any other issue you may have with Company or this Company Website to:
+
+Bonnier Corporation  
+c/o Time Customer Service  
+Attention: Consumer Affairs  
+3000 University Center Drive  
+Tampa, Florida 33612-6408
+
+**Last Updated: March 2, 2007**
