@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exa.com.au privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206224946id_/http%3A//www.exa.com.au/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exa.com.au privacy policy that was archived on 2007-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070519090142id_/http%3A//www.exa.com.au/terms/privacy.html) for the most accurate reproduction.*
 
 # EXA - website design, web development, IT services, Melbourne, Sydney, Brisbane, Perth, Australia
 
@@ -52,15 +52,11 @@ payment details, which we hold internally). If you would like to see how your di
 DISCLOSURE OF YOUR INFORMATION TO THIRD PARTIES
 
 \- Third party service providers   
-We may supply your personal information to our third party billing and payment service providers where we believe this is reasonably necessary to protect against fraud and credit card misuse. Where you have made a   
-query in respect of a payment processed by Exa which is made known to us by your bank or credit card company by communicating the query through our bank, we may supply the relevant personal information   
-to assist you with your query. On occasion, we may also engage other companies or individuals to perform services on our behalf such as the distribution of marketing information to you (except where you have   
-chosen to opt out of receiving this information from us).   
-Our relationships with such third party service providers are governed by our contracts with them. Those service providers are required to hold your personal information strictly confidential. 
+We may supply your personal information to our third party billing and payment service providers where we believe this is reasonably necessary to protect against fraud and credit card misuse. Where you have made a query in respect of a payment processed by Exa which is made known to us by your bank or credit card company by communicating the query through our bank, we may supply the relevant personal information to assist you with your query. We may also supply your information to third parties so they may offer you products or services. On occasion, we may also engage other companies or individuals to perform services on our behalf such as the distribution of marketing information to you (except where you have chosen to opt out of receiving this information from us). 
 
 ACCURACY  
   
-You may access and update the personal information we provide to the registries in respect of your domain name licence at any time. For information on this procedure, feel free to contact Exa [here](https://web.archive.org/web/20061206224946id_/http%3A//www.exa.com.au/contact/index.php).   
+You may access and update the personal information we provide to the registries in respect of your domain name licence at any time. For information on this procedure, feel free to contact Exa [here](https://web.archive.org/web/20070519090142id_/http%3A//www.exa.com.au/contact/index.php).   
 If you believe that Exa may hold other personal information about you which is inaccurate, please contact us by using this web form and we will take reasonable steps to ensure that it is corrected.
 
 SECURITY  
@@ -77,6 +73,6 @@ Exa may make changes to its privacy policy from time to time. You should check o
 
 FURTHER INFORMATION OR QUERIES  
   
-If you have any queries or comments, or would like more information concerning Exa's privacy policy, please contact us by using this [web form](https://web.archive.org/web/20061206224946id_/http%3A//www.exa.com.au/contact/index.php).
+If you have any queries or comments, or would like more information concerning Exa's privacy policy, please contact us by using this [web form](https://web.archive.org/web/20070519090142id_/http%3A//www.exa.com.au/contact/index.php).
 
   |  
