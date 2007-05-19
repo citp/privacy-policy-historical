@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maplin.co.uk privacy policy that was archived on 2006-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060930141142id_/http%3A//www.maplin.co.uk/PrivacyStatement.aspx%3Fdoy%3D23m9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maplin.co.uk privacy policy that was archived on 2007-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070519143750id_/http%3A//www.maplin.co.uk/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Maplin Electronics - Privacy Statement
 
@@ -93,7 +93,7 @@ By using our Site, you agree to this Policy. This is our entire and exclusive Pr
 **LEGAL DISCLAIMER**   
 
 
-This Site operates AS-IS and AS-AVAILABLE, without liability of any kind. We are not responsible for events beyond our direct control. This Policy is governed by *enter state/province here* law, excluding conflicts of law principles. Any legal actions against us must be commenced in *enter state/province here* within one year after the claim arose, or be barred.   
+This Site operates AS-IS and AS-AVAILABLE, without liability of any kind. We are not responsible for events beyond our direct control. This Policy is governed by English law, excluding conflicts of law principles. Any legal actions against us must be commenced in England within one year after the claim arose, or be barred.   
 
 
 **IF YOU HAVE A PRIVACY QUESTION**   
