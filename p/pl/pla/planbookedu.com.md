@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planbookedu.com privacy policy that was archived on 2006-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060715183436id_/http%3A//www.planbookedu.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planbookedu.com privacy policy that was archived on 2007-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070519151307id_/http%3A//www.planbookedu.com/privacy_policy.php) for the most accurate reproduction.*
 
 # PlanbookEdu.com: Free Online Lesson Planning for Teachers of All Grade Levels
 
