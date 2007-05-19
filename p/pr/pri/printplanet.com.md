@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the printplanet.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113223613id_/http%3A//printplanet.com/docs.asp%3Ftitle%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printplanet.com privacy policy that was archived on 2007-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070519024159id_/http%3A//www.printplanet.com/docs.asp%3Ftitle%3Dprivacy_policy) for the most accurate reproduction.*
 
 # PrintPlanet.com | Learn - Teach - Debate : on the forefront of prepress, print production, post press, personalization printing, print buyer, consulting
 
 
-    Printable Technologies, Inc., has created this privacy statement in order
+    PrintPlanet.com has created this privacy statement in order
     to demonstrate our firm commitment to privacy to users of
     www.printplanet.com, PrintPlanet "eCommunities," discussion forum(s), and
     other services offered through the PrintPlanet System (the "Services"). 
