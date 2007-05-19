@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dexcom.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205231951id_/http%3A//dexcom.com/html/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dexcom.com privacy policy that was archived on 2007-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070519055036id_/http%3A//www.dexcom.com/html/privacy_policy.html) for the most accurate reproduction.*
 
 # Dexcom
 
-Last Updated:  July 1, 2006
+Last Updated:  January 23, 2007
 
                                                                       **INTRODUCTION**
 
@@ -14,7 +14,7 @@ This Privacy Policy explains the Site's processing and storage practices in the 
 
 **PRIVACY PRACTICES SPECIFIC TO PERSONAL HEALTH INFORMATION**
 
-Please note that Dexcom will handle any personal health information which you provide to it, through the Site or otherwise, in accordance the Health Insurance Portability and Accountability Act of 1996, a federal privacy law commonly referred to as “HIPAA” or the “HIPAA Privacy Rules.” For more information on how Dexcom handles your personal health information, please refer to our [Notice of HIPAA Privacy Practices](https://web.archive.org/web/20061205231951id_/http%3A//dexcom.com/html/privacy_practices.html).
+Please note that Dexcom will handle any personal health information which you provide to it, through the Site or otherwise, in accordance the Health Insurance Portability and Accountability Act of 1996, a federal privacy law commonly referred to as “HIPAA” or the “HIPAA Privacy Rules.” For more information on how Dexcom handles your personal health information, please refer to our [Notice of HIPAA Privacy Practices](https://web.archive.org/web/20070519055036id_/http%3A//www.dexcom.com/html/privacy_practices.html).
 
 **WHAT INFORMATION DO WE COLLECT AND WHEN?**
 
@@ -52,7 +52,7 @@ We use your personally identifiable information (and at times other information 
 
 We also use the information to manage and improve our Site content and notify you about changes or improvements to our Site.
 
-If you have opted into receiving marketing information, such as email updates regarding new products, we may use your personal information to customize and deliver that information to you.  However, we will not sell your personally identifiable information to any outside company for marketing or solicitation.
+Unless you have opted-out of receiving marketing information, such as email updates regarding new products, we may use your personal information to customize and deliver that information to you.  However, we will not sell your personally identifiable information to any outside company for marketing or solicitation.
 
 We may also enhance or merge personal information collected through the Site with data we collect from through other channels or receive from third parties in order to better market our products and services and serve your needs.
 
@@ -77,8 +77,8 @@ As our business evolves, we may sell, transfer, or otherwise share some or all o
 _Choosing NOT to disclose personal information_  
 You are not required to register in order to gain access to many areas of the Site. However, in order to use certain of the Site's services, we require registration with a username and password for authentication and for secure access to the online store on the Site.
 
-_Opting In_   
-Currently , you can “opt-in” during the registration process (which will permit us to use non-public, personally identifiable information we collect on the Site to send you separate online marketing and advertising materials) by so indicating when you register on the Site or by updating your profile as described below.  You may opt out at any time by contacting us using the information appearing below under “Contact Us.”
+_Opting Out_   
+You can “opt-out” during the registration process (which means you do not permit us to use non-public, personally identifiable information we collect on the Site to send you separate online marketing and advertising materials) by so indicating when you register on the Site or by updating your profile as described below.  You may opt out at any time by contacting us using the information appearing below under “Contact Us.”
 
 _Reviewing your information and requesting changes to your Profile_  
 You should identify and correct any inaccuracies in the information you submit.  To update information previously submitted, please sign in and click on the “Profile” link located at the top the web page relating to the online store on the Site. Please direct inquiries about the accuracy of information previously submitted through the Site, or requests to update information, to Dexcom using the contact information appearing below under “Contact Us.”  Dexcom will not be responsible for outdated information or for verifying personal information. ****
@@ -99,7 +99,7 @@ The Site uses generally accepted standards of technology and operational securit
 
 **CHANGES TO THIS POLICY**
 
-This Privacy Policy may be updated from time to time as our services change and grow.  We will indicate any such changes at the privacy link at the bottom of our home page, and your continued use of the Site will signify your acknowledgement of any new terms.  The most current version of the Privacy Policy can be found by visiting the privacy link at _[http://www.dexcom.com](https://web.archive.org/web/20061205231951id_/http%3A//dexcom.com/index.html)_. 
+This Privacy Policy may be updated from time to time as our services change and grow.  We will indicate any such changes at the privacy link at the bottom of our home page, and your continued use of the Site will signify your acknowledgement of any new terms.  The most current version of the Privacy Policy can be found by visiting the privacy link at _[http://www.dexcom.com](https://web.archive.org/web/20070519055036id_/http%3A//www.dexcom.com/index.html)_. 
 
 **CONTACT US**
 
