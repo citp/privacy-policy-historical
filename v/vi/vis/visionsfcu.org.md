@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visionsfcu.org privacy policy that was archived on 2006-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061004231310id_/http%3A//www.visionsfcu.org/technical/privacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visionsfcu.org privacy policy that was archived on 2007-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070520014205id_/http%3A//www.visionsfcu.org/technical/privacyStatement.asp) for the most accurate reproduction.*
 
 # Welcome to VisionLine
 
