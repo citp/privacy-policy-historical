@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myregistry.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117043055id_/http%3A//myregistry.com/Forms/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myregistry.com privacy policy that was archived on 2007-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070519231554id_/http%3A//www.myregistry.com/Forms/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
