@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sorensonmedia.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213155128id_/http%3A//www.sorensonmedia.com/pages/%3FpageID%3D42) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sorensonmedia.com privacy policy that was archived on 2007-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070519090209id_/http%3A//www.sorensonmedia.com/pages/%3FpageID%3D42) for the most accurate reproduction.*
 
 # Sorenson Media - Legal Policies - Privacy Policy
 
