@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the course.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205202313id_/http%3A//www.course.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the course.com privacy policy that was archived on 2007-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070520145450id_/http%3A//www.course.com/about/privacy.cfm) for the most accurate reproduction.*
 
 # Course Technology -About Thomson Course Technology - Privacy Statement
 
