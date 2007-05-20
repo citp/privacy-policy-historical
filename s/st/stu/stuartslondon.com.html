@@ -1,0 +1,457 @@
+<!--The following is the downloaded HTML source of the stuartslondon.com privacy policy that was archived on 2007-05-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070520234610id_/http%3A//www.stuartslondon.com/page.php%3FpageID%3D9) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+<title>StuartsLondon.com -   Privacy and Security</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="/styles.css" rel="stylesheet" type="text/css">
+
+
+
+<script language="javascript">
+function confirmcart()
+{
+
+
+if(document.form.terms.checked == false){
+alert('You must read and agree to the Terms and Conditions to place an order.');
+return false;
+}else{
+document.form.submit();
+return true;
+}
+
+
+}
+
+
+
+
+
+function viewinventory(sizeID, formname)
+{
+var theForm = document.forms[formname];
+
+var number = theForm.colordropdown.selectedIndex;
+
+document.images.prodimage.src = theForm.colorimagesdropdown.options[theForm.colordropdown.selectedIndex].value;
+
+
+if(sizeID != 0)
+{
+parent.sizematrix.location.href = '/sizematrix.php?prodID=&colorID=' + theForm.colordropdown.options[number].value;
+}
+else if(theForm.colorinventorydropdown.options[theForm.colordropdown.selectedIndex].value == 0)
+{
+alert('The product is currently out of stock in this color.');
+}
+
+}
+
+
+function addtobag(formname)
+{
+var theForm = document.forms[formname];
+
+if(theForm.checkcolor.value == 'true'){
+
+var number = theForm.colordropdown.selectedIndex;
+}
+
+if(theForm.prodQuanity.value < 1 || theForm.prodQuanity.value > 99)
+{
+alert('Please enter a valid number in the quantity field.');
+return;
+}
+
+
+if(theForm.checksize.value == 'true'){
+if(theForm.sizeID.value == '')
+{
+alert('Please select a size.');
+return;
+}
+}
+
+if(theForm.checksize.value == 'true' && theForm.checkcolor.value == 'true'){
+
+cartheader.location.href = '/cartheader.php?prodID=&colorID=' + theForm.colordropdown.options[number].value + '&sizeID=' + theForm.sizeID.options[theForm.sizeID.selectedIndex].value  + '&prodQuanity=' + theForm.prodQuanity.value;
+
+}
+else if(theForm.checksize.value == 'false' && theForm.checkcolor.value == 'true'){
+
+cartheader.location.href = '/cartheader.php?prodID=&colorID=' + theForm.colordropdown.options[number].value + '&prodQuanity=' + theForm.prodQuanity.value;
+
+}
+else if(theForm.checksize.value == 'true' && theForm.checkcolor.value == 'false'){
+
+cartheader.location.href = '/cartheader.php?prodID=&sizeID=' + theForm.sizeID.options[theForm.sizeID.selectedIndex].value  + '&prodQuanity=' + theForm.prodQuanity.value;
+
+}
+else
+{
+cartheader.location.href = '/cartheader.php?prodID=&prodQuanity=' + theForm.prodQuanity.value;
+
+}
+
+
+
+}
+
+
+
+
+
+
+function addtobagfast(formname)
+{
+var theForm = document.forms[formname];
+
+if(theForm.checkcolor.value == 'true'){
+
+var number = theForm.colordropdown.selectedIndex;
+}
+
+if(theForm.prodQuanity.value < 1 || theForm.prodQuanity.value > 99)
+{
+alert('Please enter a valid number in the quantity field.');
+return;
+}
+
+
+if(theForm.checksize.value == 'true'){
+if(theForm.sizeID.value == '')
+{
+alert('Please select a size.');
+return;
+}
+}
+
+if(theForm.checksize.value == 'true' && theForm.checkcolor.value == 'true'){
+
+location.href = '/addtocart.php?prodID=&colorID=' + theForm.colordropdown.options[number].value + '&sizeID=' + theForm.sizeID.options[theForm.sizeID.selectedIndex].value  + '&prodQuanity=' + theForm.prodQuanity.value;
+
+}
+else if(theForm.checksize.value == 'false' && theForm.checkcolor.value == 'true'){
+location.href = '/addtocart.php?prodID=&colorID=' + theForm.colordropdown.options[number].value + '&prodQuanity=' + theForm.prodQuanity.value;
+
+}
+else if(theForm.checksize.value == 'true' && theForm.checkcolor.value == 'false'){
+
+location.href = '/addtocart.php?prodID=&sizeID=' + theForm.sizeID.options[theForm.sizeID.selectedIndex].value  + '&prodQuanity=' + theForm.prodQuanity.value;
+
+}
+else
+{
+location.href = '/addtocart.php?prodID=&prodQuanity=' + theForm.prodQuanity.value;
+
+}
+
+
+
+}
+
+
+
+
+
+var timer_id;
+function scroll_iframe(frm,inc,dir) {
+  if (timer_id) clearTimeout(timer_id);
+  if (window.frames[frm]) {
+    if (dir == "v") window.frames[frm].scrollBy(0, inc);
+    else window.frames[frm].scrollBy(inc, 0);
+    timer_id = setTimeout("scroll_iframe('" + frm + "'," + inc + ",'" + dir + "')", 20);
+  }
+}
+
+function stopScroll() { if (timer_id) clearTimeout(timer_id); }
+
+function submitcart()
+{
+  document.form.checkout.value = "true" ;
+  document.form.submit() ;
+}
+
+
+function disablebilling()
+{
+if(document.form.billingissame.checked)
+{
+document.form.custBillingFirstName.blur()
+document.form.custBillingFirstName.disabled=true
+document.form.custBillingLastName.blur()
+document.form.custBillingLastName.disabled=true
+document.form.custBillingAddress1.blur()
+document.form.custBillingAddress1.disabled=true
+document.form.custBillingAddress2.blur()
+document.form.custBillingAddress2.disabled=true
+document.form.custBillingCity.blur()
+document.form.custBillingCity.disabled=true
+document.form.custBillingProvince.blur()
+document.form.custBillingProvince.disabled=true
+document.form.custBillingPostalCode.blur()
+document.form.custBillingPostalCode.disabled=true
+document.form.custBillingPhone.blur()
+document.form.custBillingPhone.disabled=true
+changecss('.billingasterix','visibility','hidden');
+}
+else
+{
+document.form.custBillingFirstName.disabled=false
+document.form.custBillingLastName.disabled=false
+document.form.custBillingAddress1.disabled=false
+document.form.custBillingAddress2.disabled=false
+document.form.custBillingCity.disabled=false
+document.form.custBillingProvince.disabled=false
+document.form.custBillingPostalCode.disabled=false
+document.form.custBillingPhone.disabled=false
+changecss('.billingasterix','visibility','visible');
+}
+}
+
+function changecss(theclass,element,value) {
+//documentation for this script at http://www.shawnolson.net/a/503/
+var cssRules;
+if (document.all) {
+cssRules = 'rules';
+}
+else if (document.getElementById) {
+cssRules = 'cssRules';
+}
+for (var S = 0; S < document.styleSheets.length; S++){
+for (var R = 0; R < document.styleSheets[S][cssRules].length; R++) {
+if (document.styleSheets[S][cssRules][R].selectorText == theclass) {
+document.styleSheets[S][cssRules][R].style[element] = value;
+}
+}
+}
+}
+
+
+
+
+
+
+function clearemail(thisfield) {
+thisfield.value = "";
+}
+
+
+
+
+
+
+
+
+
+
+
+current = 0;
+function next() {
+if (document.productimages.imageslist[current+1]) {
+document.images.prodimage.src = document.productimages.imageslist[current+1].value;
+document.productimages.imageslist.selectedIndex = ++current;
+   }
+else first();
+}
+function previous() {
+if (current-1 >= 0) {
+document.images.prodimage.src = document.productimages.imageslist[current-1].value;
+document.productimages.imageslist.selectedIndex = --current;
+   }
+else last();
+}
+function first() {
+current = 0;
+document.images.prodimage.src = document.productimages.imageslist[0].value;
+document.productimages.imageslist.selectedIndex = 0;
+}
+function last() {
+current = document.productimages.imageslist.length-1;
+document.images.prodimage.src = document.productimages.imageslist[current].value;
+document.productimages.imageslist.selectedIndex = current;
+}
+
+function clearsearch(thisfield) {
+if (thisfield.value != '') {
+thisfield.value = "";
+}
+}
+
+function fillbilling()
+{
+if(document.form.billingissame.checked)
+{
+document.form.custBillingFirstName.value = document.form.custFirstName.value;
+document.form.custBillingLastName.value = document.form.custLastName.value;
+document.form.custBillingAddress1.value = document.form.custAddress1.value;
+document.form.custBillingAddress2.value = document.form.custAddress2.value;
+document.form.custBillingCity.value = document.form.custCity.value;
+document.form.custBillingProvince.value = document.form.custProvince.value;
+document.form.custBillingPostalCode.value = document.form.custPostalCode.value;
+document.form.custBillingPhone.value = document.form.custPhone.value;
+}
+else
+{
+document.form.custBillingFirstName.value='';
+document.form.custBillingLastName.value='';
+document.form.custBillingAddress1.value='';
+document.form.custBillingAddress2.value='';
+document.form.custBillingCity.value='';
+document.form.custBillingProvince.value='';
+document.form.custBillingPostalCode.value='';
+document.form.custBillingPhone.value='';
+}
+}
+
+
+function checkforswitch(formname)
+{
+var theForm = document.forms[formname];
+if(theForm.CardType.options[theForm.CardType.selectedIndex].value == 'SWITCH' || theForm.CardType.options[theForm.CardType.selectedIndex].value == 'SOLO')
+{
+document.getElementById("issuenumberdiv").style.display = "block";
+document.getElementById("startdatediv").style.display = "block";
+return;
+}
+else
+{
+document.getElementById("issuenumberdiv").style.display = "none";
+document.getElementById("startdatediv").style.display = "none";
+
+}
+
+if(theForm.CardType.options[theForm.CardType.selectedIndex].value == 'AMEX')
+{
+document.getElementById("startdatediv").style.display = "block";
+return;
+}
+else
+{
+document.getElementById("startdatediv").style.display = "none";
+return;
+
+}
+
+
+}
+
+
+</script>
+ <script type="text/javascript" language="JavaScript">
+
+NumberOfImagesToRotate = 2;
+
+
+FirstPart = '<img src="http://www.stuartslondon.com/images/mensicon';
+LastPart = '.jpg" height="197" width="181" border="0">';
+
+FirstPart2 = '<img src="http://www.stuartslondon.com/images/womensicon';
+LastPart2 = '.jpg" height="197" width="181" border="0">';
+
+FirstPart3 = '<img src="http://www.stuartslondon.com/images/shoeicon';
+LastPart3 = '.jpg" height="197" width="182" border="0">';
+
+function printImage() {
+var r = Math.ceil(Math.random() * NumberOfImagesToRotate);
+document.write(FirstPart + r + LastPart);
+}
+
+function printImage2() {
+var r = Math.ceil(Math.random() * NumberOfImagesToRotate);
+document.write(FirstPart2 + r + LastPart2);
+}
+
+function printImage3() {
+var r = Math.ceil(Math.random() * NumberOfImagesToRotate);
+document.write(FirstPart3 + r + LastPart3);
+}
+//-->
+</script>
+</head>
+<body onload="">
+<table width="799" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr> 
+    <td align="left" style="background: url(/images/bg.jpg)"> 
+      <div class="header"><div class="shoppingcartheaderlinksright"><iframe name="cartheader" height="18" width="400" frameborder="0" src="/cartheader.php"></iframe></div>
+      <div class="headerimage">
+        
+        <div align="left">
+            <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="371" height="111">
+              <param name="movie" value="http://www.stuartslondon.com/images/header.swf">
+              <param name="quality" value="high">
+              <embed src="http://www.stuartslondon.com/images/header.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="371" height="111">
+            </object>
+        </div>
+      </div>
+	  
+	  <div class="searchbox"><form action="/search.php" method="get"><div class="searchsubmitcontainer"><img src="/images/search.gif"></div><div class="searchfeildcontainer"><input type="text" value="" name="searchQuery" class="searchQuery"></div><div class="searchsubmitcontainer"><input type="image" src="/images/searchbutton.gif"></div></form></div>
+	  
+	  </div>
+      <div class="headerdivider"><img src="/images/blank.gif" width="1" height="1" border="0" alt=""></div>
+	  <div class="menucontainer">
+		<div class="menutop">
+		
+		<div class="currenciesbox"><a href="/changecurrency.php?curID="><img src="/images/flag1.gif" border="0" alt="GPB" class="currencyicon"></a> <a href="/changecurrency.php?curID=1"><img src="/images/flag2.gif" border="0" alt="USD" class="currencyicon"></a> <a href="/changecurrency.php?curID=2"><img src="/images/flag3.gif" border="0" alt="Euro" class="currencyicon"></a></div>
+		
+		</div>
+		<div class="menulinkselected"><a href="/index.php">&nbsp;home</a></div>
+			<div class="menulink"><a href="/cat/CLOTHING MENS/">&nbsp;CLOTHING MENS</a></div><div class="menulink"><a href="/cat/SHOE SHOP MENS/">&nbsp;SHOE SHOP MENS</a></div><div class="menulink"><a href="/cat/SHOE SHOP WOMENS/">&nbsp;SHOE SHOP WOMENS</a></div><div class="menulink"><a href="/viewproducts/FRAGRANCE 4 HIM/">&nbsp;FRAGRANCE 4 HIM</a></div><div class="menulink"><a href="/viewproducts/FRAGRANCE 4 HER/">&nbsp;FRAGRANCE 4 HER</a></div><div class="menulink"><a href="/cat/ACCESSORIES MENS/">&nbsp;ACCESSORIES MENS</a></div><div class="menulink"><a href="/viewproducts/SOCKS MENS/">&nbsp;SOCKS MENS</a></div><div class="menulink"><a href="/viewproducts/HEADWEAR 4 HIM/">&nbsp;HEADWEAR 4 HIM</a></div><div class="menulink"><a href="/viewproducts/HANDBAGS/">&nbsp;HANDBAGS</a></div><div class="menulink"><a href="/viewproducts/BRITISH LINGERIE /">&nbsp;BRITISH LINGERIE </a></div><div class="menulink"><a href="/viewproducts/VOUCHERS/">&nbsp;VOUCHERS</a></div><div class="menulink"><a href="/viewproducts/SHOE CARE/">&nbsp;SHOE CARE</a></div><div class="menulink"><a href="/viewproducts/WINTER TRAVELS/">&nbsp;WINTER TRAVELS</a></div><div class="menulink"><a href="/cat/SALE CLOTHING/">&nbsp;SALE CLOTHING</a></div><div class="menulink"><a href="/cat/SALE  MENS SHOES/">&nbsp;SALE  MENS SHOES</a></div><div class="menulink"><a href="/cat/SALE WOMENS/">&nbsp;SALE WOMENS</a></div>
+				<div class="menumiddle"><img src="/images/menumiddlehome.jpg" width="223" height="53" border="0" alt=""><form action="/newsletter.php" method="GET"><div style="margin-left: 30px; margin-top: 6px; font-weight: bold; font-size: 15px;">Newsletter:</div><br><input type="text" name="email" size="13" value="enter your email" onclick="clearemail(this)" style="margin-left: 30px;"> <input type="image" src="/images/searchbutton.gif" style="top: 10px;"></form><ul class="links"><li class="linkitem"><a href="http://www.stuartslondon.com/page.php?pageID=17" class="linkitema">STUARTS STORE</a><br><span class="linkdescription">VISIT OUR STORE IN LONDON</span></li><li class="linkitem"><a href="http://www.stuartslondon.com/page.php?pageID=86" class="linkitema">CROCS HOT SUMMER STYLE</a><br><span class="linkdescription">KEEP UP !! MUST HAVE TREND</span></li><li class="linkitem"><a href="http://www.stuartslondon.com/page.php?pageID=87" class="linkitema">FIRETRAP HOT TREND!!!</a><br><span class="linkdescription">LADIES CHECK THESE OUT</span></li><li class="linkitem"><a href="http://www.stuartslondon.com/product/BRITISH%20LINGERIE%20/Triumph/Doreen%20Long%20available%20in%20black-white-beige/" class="linkitema">Triumph Doreen long- exclusive </a><br><span class="linkdescription">stuartlondon.com only online retailer to offer 3 colours in this bra </span></li><li class="linkitem"><a href="http://www.stuartslondon.com/page.php?pageID=23" class="linkitema">FRAUD POLICY</a><br><span class="linkdescription">PR0TECTING YOU AGAINST FRAUD</span></li></ul><br><br><br><br></div>
+		      </div>
+
+			
+        <div class="content">
+<div class="pageleft"><h1 class="leftpageheading">Privacy and Security</h1>
+<div class="leftpageheadingdivider"><img src="images/blank.gif" width="1" height="1" border="0" alt=""></div>
+<div class="leftpagetext"><br></div>
+</div>
+<div class="pageright"><form action="checkoutstep2.php" method="POST" name="form">
+   <div class="roundtop">
+	 <div class="leftcorner"><img src="images/ulgray.gif"></div>
+	 <div class="rightcorner"><img src="images/urgray.gif"></div>
+   </div>
+ <div class="graycont">
+
+  <p><strong>Disclaimer:</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Stuarts london.com have the right to change prices and specifiactions without prior notice. Colours of products are as accurate as the website allows.</p>
+  <p>We thank all our suppliers for letting us use their images and Logo's&nbsp;on our website. All other images have been produced by Stuartslondon.com in house image studio.</p>
+  <p>We would also like to thank Craig David for providing a signed photo for our Stuarts retail outlet in Shepherds Bush which has used for our flash animation on our website. </p>
+  <p><strong>Protx Security Statement<br></strong>The protx payment system uses a combination of established and innovative techniques to ensure the security and integrity of all sensitive data. Our internet facing web servers are certified by Verisign, this ensures that no third parties can impersonate Protx to obtain secure information.</p>
+  <p><strong>Transaction Security<br></strong>The transfer of the less sensitive transaction details from our site to protx is encrypted and digitally-signed. This ensures that the information passed is secure and tamper-proof.</p>
+  <p><strong>Data Storage<br></strong>All data stored on protx systems is held on encrypted and highly secured databases. Protx are regularaly audited by Visa and Mastercard to ensure that their systems conform to the latest security standards.</p>
+  <p><strong>Our Commitment to Privacy<br></strong>StuartsLondon.com is totally committed to protecting the privacy and security of your personal information.<br><br>To accomplish this, we collect certain customer information that permits us to customize and enhance your on-line shopping experience and to communicate with you about our products, services, promotions and contests. We are committed to managing this information responsibly and ensuring that you are in control of your personal information and the communications you receive from us.<br><br><strong>What This Policy Covers</strong><br>This policy describes the customer information we collect and why; how we use this information and when we share it with third parties; the choices you can make about how your personal information is collected, used and shared; and the data security, accuracy and access measures we have adopted to protect customer information under our control from loss, misuse or alteration. Please be aware that our site may contain links to other sites hosted by third parties. StuartsLondon.com does not control and is thus not responsible for the content or privacy practices and policies of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information.<br><br><strong>Collecting Information</strong><br>Like many websites, StuartsLondon.com collects certain personally identifiable information when you sign in on our web sites, register for on-line shopping, place an order,&nbsp; participate in a competiton, promotion or survey, or request other services that require information, registration or subscription. This information may include your name, mailing address, e-mail address and phone number, We also keep a record of your product interests and purchases on-line and automatically receive and record information on our server logs from your browser (including your IP address, StuartsLondon.com cookie information, and the page you requested).<br><br><strong>Using Information</strong><br>StuartsLondon.com uses customer information for three general purposes: to customize the advertising and content you see on our sites; to fulfill your requests for certain products and services; and to contact you about new products or services, special events and promotions. We use IP addresses to analyse trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. StuartsLondon.com normally will not link IP addresses to personally identifiable information, but reserves the right to do so in order to identify a user when we feel this is necessary to enforce compliance with our internal policies or Terms of Use or to protect our service, site, customers or others. <br><br></p></div>
+   <div class="roundbottom">
+	 <div class="leftcorner"><img src="images/blgray.gif"></div>
+	 <div class="rightcorner"><img src="images/brgray.gif"></div>
+   </div>
+
+</form>
+
+</div>
+<p>&nbsp;</p>
+
+
+</div>
+      <div class="footerbar"></div>
+	  </td>
+  </tr>
+</tbody></table><p>
+</p><div align="center"><div class="footertext" align="center">
+<a href="http://www.stuartslondon.com/page.php?pageID=5" class="footerlink">Contact Us</a> | 
+<a href="http://www.stuartslondon.com/page.php?pageID=6.php" class="footerlink">Delivery</a> |
+<a href="http://www.stuartslondon.com/page.php?pageID=7.php" class="footerlink">Returns</a> |
+
+<a href="http://www.stuartslondon.com/page.php?pageID=8" class="footerlink">About Us</a> |
+<a href="http://www.stuartslondon.com/page.php?pageID=9" class="footerlink">Privacy and Security</a>
+<a href="http://www.stuartslondon.com/page.php?pageID=10.php" class="footerlink"></a> | <a href="http://www.stuartslondon.com/page.php?pageID=10.php" class="footerlink">Careers</a> | <a href="http://www.stuartslondon.com/page.php?pageID=11.php" class="footerlink">Press Area</a> | <a href="http://www.stuartslondon.com/page.php?pageID=12" class="footerlink">Site Map</a> | <a href="http://www.stuartslondon.com/page.php?pageID=13" class="footerlink">Vouchers</a>
+<p>
+© 2006 Stuartslondon.com. All Rights Reserved.
+</p></div><img src="http://www.stuartslondon.com/images/cards.gif" alt="cards"></div>
+
+
+
+</body></html>
