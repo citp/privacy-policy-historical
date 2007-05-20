@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the specificmedia.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117081100id_/http%3A//www.specificmedia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the specificmedia.com privacy policy that was archived on 2007-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070520131732id_/http%3A//www.specificmedia.com/privacy.php) for the most accurate reproduction.*
 
 # Specific Media, Inc. - Contact Us
 
 |  |  **Privacy**
 
-### Privacy Policy for SpecificMEDIA.com
+### Privacy Policy for specificmedia.com
 
-This website is owned and operated by SpecificMEDIA, Inc. We at SpecificMEDIA, Inc. (referred to as "SpecificMEDIA", "we", "us", or "our") recognize the importance of protecting the privacy of certain information ("information") collected about our customers and prospective customers (referred to as "customers", "you", "visitors" or "your"). This privacy statement, effective February 15, 2005 discloses the privacy practices our collection, use, and disclosure of information.
+This website is owned and operated by Specific Media, Inc. We at Specific Media, Inc. (referred to as "Specific Media", "we", "us", or "our") recognize the importance of protecting the privacy of certain information ("information") collected about our customers and prospective customers (referred to as "customers", "you", "visitors" or "your"). This privacy statement, effective February 15, 2005 discloses the privacy practices our collection, use, and disclosure of information.
 
 ### What Information Do We Collect and Why?
 
@@ -79,8 +79,8 @@ This privacy policy is subject to change without notice. We may change our polic
 
 **Your Acceptance of Our Privacy Policy**
 
-By using this website, you acknowledge your agreement to SpecificMEDIA and/or its affiliates. If you do not agree with the terms, do not use the website.
+By using this website, you acknowledge your agreement to Specific Media and/or its affiliates. If you do not agree with the terms, do not use the website.
 
 **Questions and Comments**
 
-Questions and comments about your privacy policy should be directed to [privacy@SpecificMEDIA.com](mailto:privacy@SpecificMEDIA.com) or mailed to Privacy Officer, SpecificMEDIA, Inc, 4 Park Plaza, Suite 1900, Irvine CA 92614.
+Questions and comments about your privacy policy should be directed to [privacy@specificmedia.com](mailto:privacy@specificmedia.com) or mailed to Privacy Officer, Specific Media, Inc, 4 Park Plaza, Suite 1900, Irvine CA 92614.
