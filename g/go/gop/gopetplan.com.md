@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gopetplan.com privacy policy that was archived on 2006-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061106015438id_/http%3A//www.gopetplan.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gopetplan.com privacy policy that was archived on 2007-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070520074412id_/http%3A//www.gopetplan.com/Privacy.html) for the most accurate reproduction.*
 
-# Petplan Pet Insurance - Privacy
+# Petplan USA Pet Insurance for Dogs and Cats - Privacy
 
 At Petplan we value our relationship with our policyholders and we believe strongly in protecting your privacy. Please read this Privacy Policy carefully to learn more about the ways in which we use and protect your personal information. This Privacy Policy outlines what types of non-public personal information is collected, to whom it may be disclosed and how that information is used. 
 
