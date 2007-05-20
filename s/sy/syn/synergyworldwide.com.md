@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the synergyworldwide.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230203300id_/http%3A//www.synergyworldwide.com/SynergyCorp/Content.aspx%3FPageID%3D1297) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synergyworldwide.com privacy policy that was archived on 2007-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070520192210id_/http%3A//www.synergyworldwide.com/synergycorp/Content.aspx%3FPageID%3D1297) for the most accurate reproduction.*
 
-# Synergy WorldWide
+# Privacy Statement
 
 | 
-
-  
-Privacy Statement       
-  
-
 
 Keeping customer information secure is a top priority for Synergy WorldWide Products. Please read Synergy WorldWide’s privacy policy below. This policy outlines our views and practices and how they pertain to you as a visitor to synergyworldwide.com. Please check back periodically, as these policies may change. However, our fundamental commitment to protecting visitors’ privacy will not change. 
 
@@ -64,7 +59,7 @@ Direct inquiries or concerns about our privacy policy t
 > Suite #200  
 > Provo, Utah 84604  
 > (801) 431-7660  
-> [hotline@synergyworldwide.com](https://web.archive.org/web/20061230203300id_/http%3A//www.synergyworldwide.com/SynergyCorp/mailthotline@synergyworldwide.com)
+> [hotline@synergyworldwide.com](https://web.archive.org/web/20070520192210id_/http%3A//www.synergyworldwide.com/synergycorp/mailthotline@synergyworldwide.com)
 
 Please summarize the nature of your question in the subject line of any email you send. 
 
