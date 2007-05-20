@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hillsbank.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211163747id_/http%3A//www.hillsbank.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hillsbank.com privacy policy that was archived on 2007-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070520193103id_/http%3A//www.hillsbank.com/privacy.cfm) for the most accurate reproduction.*
 
 # Hills Bank and Trust Company
 
