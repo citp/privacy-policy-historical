@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upperroom.org privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205192114id_/http%3A//www.upperroom.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upperroom.org privacy policy that was archived on 2007-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070520185317id_/http%3A//www.upperroom.org/privacy) for the most accurate reproduction.*
 
 # Upper Room | Privacy Policy
 
@@ -17,7 +17,7 @@ Attn: Marketing Department
 P.O. Box 340004  
 Nashville, TN 37203-0004**
 
-We can be reached via e-mail at [marketing@bbs.upperroom.org](mailto:marketing@bbs.upperroom.org)  
+We can be reached via e-mail at [marketing@upperroom.org](mailto:marketing@bbs.upperroom.org)  
 
 
 Or you can reach us by telephone at 1 (877) 899-2780 or 615-340-7221. 
@@ -36,7 +36,7 @@ We do not send unsolicited e-mail. However, we do send e-mail newsletters to var
 
 We publish an E-Mail Edition of The Upper Room® daily devotional magazine: <http://www.upperroom.org/devotional/email/>. Information collected in the process of subscribing to the E-Mail Devotional or any other Upper Room lists is not shared with any other organizations or individuals. 
 
-If you supply us with your postal address on-line in a bookstore or print magazine order, you may receive mailings of interest to you from us or other selected, reputable companies. You can, however, put your name on our do-not-share list by sending e-mail to us at [marketing@bbs.upperroom.org](mailto:marketing@bbs.upperroom.org) or calling or writing to us at the above address or phone number. Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations.
+If you supply us with your postal address on-line in a bookstore or print magazine order, you may receive mailings of interest to you from us or other selected, reputable companies. You can, however, put your name on our do-not-share list by sending e-mail to us at [marketing@upperroom.org](mailto:marketing@upperroom.org) or calling or writing to us at the above address or phone number. Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations.
 
 Individuals and churches who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding orders they have placed on-line. Please provide us with your correct phone number. We never sell, trade, or share these phone numbers with other individuals or organizations. Individuals will not receive any calls from us unrelated to the fulfillment of orders. However, from time to time we make phone contact with our church customers in order to improve our services to them. 
 
@@ -68,7 +68,7 @@ Attn: Marketing Department
 P.O. Box 340004  
 Nashville, TN 37203-0004**
 
-We can be reached via e-mail at [marketing@bbs.upperroom.org](mailto:marketing@bbs.upperroom.org)  
+We can be reached via e-mail at [marketing@upperroom.org](mailto:marketing@bbs.upperroom.org)  
 
 
 Or you can reach us by telephone at 1 (877) 899-2780 or (615) 340-7221.
