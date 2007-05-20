@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igmarkets.com.au privacy policy that was archived on 2006-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060820012351id_/http%3A//www.igmarkets.com.au/content/privacy_notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igmarkets.com.au privacy policy that was archived on 2007-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070520053040id_/http%3A//www.igmarkets.com.au/content/privacy_notice.html) for the most accurate reproduction.*
 
 # IG Markets - Privacy Notice
 
@@ -37,6 +37,8 @@ Depending on the product or service concerned and particular restrictions on sen
   * other companies within the IG group (including associated companies in the United Kingdom) who provide financial and other services service providers and specialist advisers to IG Markets who have been contracted to provide IG Markets with administrative, financial, insurance, research or other services 
   * credit providers, courts, tribunals and regulatory authorities as agreed or authorised by law 
   * credit reporting or reference agencies 
+
+
 
 anyone authorised by an individual, as specified by that individual or the contract 
 
@@ -87,7 +89,7 @@ If you want to:
 
 
 
-obtain an application form for access to your personal information phone IG Markets on (03) 9860 1711 or write to us at: IG Markets, Level 3, 499 St Kilda Road, Melbourne VIC 3004, or email: [helpdesk@igmarkets.com.au](mailto:helpdesk@igmarkets.com.au)
+obtain an application form for access to your personal information phone IG Markets on (03) 9860 1711 or write to us at: IG Markets, Level 7, 417 St Kilda Road, Melbourne VIC 3004, or email: [helpdesk@igmarkets.com.au](mailto:helpdesk@igmarkets.com.au)
 
 Issue 1, April 2002  
 IG Markets Ltd  
