@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vbstyles.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615211247id_/http%3A//www.vbstyles.com/forum/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vbstyles.com privacy policy that was archived on 2007-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070520194112id_/http%3A//www.vbstyles.com/forum/privacy-policy.php) for the most accurate reproduction.*
 
 # vBulletin Skins
 
