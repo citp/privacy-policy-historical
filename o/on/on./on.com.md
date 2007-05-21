@@ -1,121 +1,73 @@
-> *The following text is extracted and transformed from the on.com privacy policy that was archived on 2005-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050627235935id_/http%3A//www.symantec.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the on.com privacy policy that was archived on 2007-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070521091650id_/http%3A//www.wealthymen.com/privacy.php%3Fprg%3D1%26id%3Dnoadvert) for the most accurate reproduction.*
 
-# Privacy Statement
+# WealthyMen | Privacy Policy
 
-| 
+|  | 
 
+|  |   
+**WEALTHYMEN PRIVACY POLICY**  
+---  
+  
+  
+Webdate Incorporated ('we' or 'Webdate' or 'Wealthymen') have adopted this privacy policy to protect your personal information and to let you know how we might use it. This privacy policy only applies to activities you perform on the Webdatemobile.com website, transactions for purchasing Webdate subscription services, and activities or communications that occur using the Webdate service (collectively known as the Service) and does not apply to any other Website or offline point of contact between Wealthymen.com, Webdate, or any other company, and consumers. This policy was implemented on January 1, 2006 this policy may change from time-to-time, please periodically review this page. Each time you use the Service or provide us with information, by doing so you are accepting the practices described in this privacy policy at that time.   
+  
+**  
+Your IP Address**
+
+Like most e-commerce Websites, each time use the Service, we automatically collect your IP address and the web page from which you came. In order to administer and optimize the Service for you and to diagnose problems, we use your IP address to help identify you and to gather broad demographic information about you.   
+  
+**  
+Cookies**
+
+Like most Websites, the Service uses cookies to keep track of your purchases and other activity on the website and enhance your experience. We also use cookies to deliver content specific to your interests, to save your password, and if you choose, to save other personal and financial information so you do not have to reenter it each time you use the Service. Third party advertisers on the Site may also place or read cookies on your browser. If you wish to disable these cookies, the "help" portion of the toolbar on most browsers will tell you how. However, if you set your browser to disable cookies, you may not be able to access certain aspects of the Service.   
+  
+**  
+Information We Collect From You**
+
+In order to operate the Service and to provide you with information about products or services that may be of interest to you, we may collect "personal information" (i.e. information that could be used to contact you directly without using the service" demographic information" (i.e. information that you submit, or that we collect, that is neither personal information nor financial information; this may include, but is not limited to, zip code, postal code, hometown, gender, username, age/birth date, purchase history information, browsing history information, searching history information, registration history information, and the content of communications between you and other members over the Service), subject to the rest of this paragraph. Demographic information is divided into two categories: 1) "non-public information", which consists of purchase history information and one-on-one communications between you and other users of the Service; and 2) "public information", which consists of all other demographic information. We ask that you do not enter personal information or financial information into your Profile (for example, dont use your address or passcode as your username, or include your name or address in your written responses), because if you do then it may be posted publicly on the Service, and the information will then be treated as "demographic information" that is "public information." Please note that nowhere on the Service do we knowingly collect personal information from children under the age of 18, as we require that all users represent to us that they are at least 18 years old.   
+  
+**  
+Information Other Websites Collect From You**
+
+On the Service websites, we may place links to other Websites operated by other parties. Some of these other Websites contain our brand names and trademarks and other intellectual property that we own; others do not. When you click on these links and visit these other Websites, regardless of whether or not they contain our brand names, trademarks and other intellectual property, you need to be aware that we do not control these other Websites or these other Websites business practices, and that this privacy policy does not apply to these other Websites. Consequently, the operators of these other Websites may collect different kinds of information about you, and may use and disclose that information in different ways than we would if it were collected on the Service. We encourage you to review their privacy policies and remind you that we will not be responsible for their actions.   
+  
+**  
+How We Use Personal Information**
+
+Webdate is committed to treating your personal information with the highest degree of care. Your email address and personal information is not shared with any third parties and is solely used to send email communication from Webdate. Your personal information will not be resold to any third party. We use your email address and your other personal information to help us efficiently operate the Service, to contact you in connection with your transactions and other activities on the Service (including, but not limited to, confirmation emails or important news that could affect your relationship with Wealthymen.com), and to forward messages to you from other Wealthymen.com users. These types of communications are known as "Operational Communications." In some cases, Operational Communications may also contain commercial messages, such as banner ads and special offers. 
+
+We also use personal information to send you newsletters, information, offers and other promotional materials for Wealthymen.coms or third parties goods or services. We attempt to send you offers that are of value to you, such as discounts, exclusive offers or special event information. The Service provides you with options to decline to receive communications from Wealthymen.com (other than those contained in Operational Communications). Some of these options may only be for a certain category of communications; others may be more general. By posting a profile on the Service, you are opting in to receive messages from other Wealthymen.com members by email or text message. To stop receiving messages from other Wealthymen.com members, change your account settings on Wealthymen.com. 
+
+To operate the Service, including processing your transactions and supporting your activities on the Service, we may share your personal information with our agents, representatives, contractors and service providers so they can provide us with support services such as authorization of credit card transactions, email origination, receipt or support services, customer relationship management services, order fulfillment and sweepstakes and promotional fulfillment. We require these entities not to use your information for any other purpose. 
+
+By purchasing, or registering or making reservations for, products or services offered or sponsored by third parties on the Service, or electing to receive communications (such as emails or magazine subscriptions) or electing to participate in contests, sweepstakes or other programs (such as discount or rewards programs), offered or sponsored by third parties on the Service, you consent to our providing your personal information to those third parties. Those third parties may use your personal information in accordance with their own privacy policies. You will need to contact those third parties to instruct them directly regarding your preferences for the use of your personal information by them. Additionally, you agree that we may use and disclose all such information so submitted to such third parties in the same manner in which we are entitled to use and disclose any other information you submit to us. 
+
+In some cases, we may enter into a promotional relationship with another company in which we prominently display their brand name or trademarks on pages of the Service. These pages are known as "Co-Branded Pages" and these companies are known as Co-Branded Companies. If the page on which you submit information is a Co-Branded Page, or was accessed by clicking on a link on a Co-Branded Page, then we may share your personal information with the associated Co-Branded Company. Co-Branded Companies may use your personal information in accordance with their own privacy policies. You will need to contact Co-Branded Companies to instruct them directly regarding your preferences for the use of your personal information by them. Additionally, you agree that we may use and disclose all such information so submitted to such Co-Branded Companies in the same manner in which we are entitled to use and disclose any other information you submit to us. Some Co-Branded Pages may contain an action tag (also known as a Web Beacon or a 1 pixel .gif file) that a third party, may use to read cookies that it, or its clients, may have placed on your browser at other (non-Wealthymen.com) web sites before your visit to Wealthymen.com. This technology is used to measure the effectiveness of advertisements on such other Websites that promote Co-Branded Pages. Further, such other third parties may use the information collected through this technology to learn more about your visits to this Service and other Websites in order to provide advertisements about goods and services of interest to you. 
+
+Any third party with whom we are allowed to share your personal information is authorized to use your personal information in accordance with our contractual arrangements with such third parties and in accordance with their own privacy policies, over which we have no control, and you agree that we are not responsible or liable for any of their actions or omissions. Those who contact you will need to be instructed directly by you regarding your preferences for the use of your personal information by them. 
+
+Please read the information below under the heading "Special Cases in which we Share Personal and Financial Information" to learn more ways in which we may share your personal information.   
+  
+**  
+How We Use Public Information and Other Demographic Information**
+
+We may review all demographic information. We may use public information to enable other users to find your profile, to determine whether they are a match for you and to communicate with you. We may use demographic information to tailor the Service and communications to your interests. We may also share demographic information with advertisers on an anonymous and aggregated basis (i.e., without telling the advertisers your identity). One of the reasons we may do this is to increase the likelihood that our advertisers goods and services will appeal to Wealthymen.coms users, so that we may target specific ads at specific demographic groups. Our sharing of demographic information with advertisers is anonymous (i.e., we do not tell advertisers which particular Wealthymen.com users are members of which demographic groups), subject to the rest of this privacy policy. When you respond to an advertisement, however, we ask you to remember that if that ad that is targeted to a demographic group and you decide to give the advertiser your personal information, then the advertiser may be able to identify you as being a member of that demographic group. Please also be aware that when we disclose your financial information or personal information to a Co-Branded Company, as described above, we may also disclose to that Co-Branded Company your demographic information, other than the content of one-on-one communications between you and other members. Please also be aware that we may disclose your demographic information on a non-anonymous basis as described above in the paragraph titled "Special Cases in which we Share Personal and Financial Information." Also, to read further details about how we may use your public information, see our [Terms of Use](https://web.archive.org/terms.php?prg=1&id=noadvert).  
+  
+**  
+Changing our Privacy Policy for Previously Gathered Information**
+
+If at any point we decide to use particular personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email or by providing 30 days notice on the Service. Please note that we will continue to have the right to change our privacy policy and practices, and how we use your personally identifiable information, without notice, as described in the first paragraph of this Privacy Policy, provided that such changes shall only apply to information gathered on or after the date of the change.   
+  
+**  
+How You Can Access and Update Your Email Preferences, Personal Information and Public Information**
+
+We give you the opportunity to opt-out of certain communications and modify personal information or demographic information you have provided to us, and to hide demographic information from, or make demographic information visible to, the public users of the Service, at anytime by going to the Account Settings in your Wealthymen.com profile of the Service. Please be aware that it may take several hours for the changes you make to take effect on the public areas of the Service. We thank you for your patience. Please note that changing or deleting your information in the Account Settings section of the Service, or otherwise opting-out of receipt of email communications from Wealthymen.com, will only change or delete the data in our database for purposes of future activities on the Service and for managing future communications from Wealthymen.com. These changes and deletions will not change or delete emails or information that we may have already forwarded to other users or credit card companies or any other third parties, all as provided above in this privacy policy. 
+
+If you have any questions or concerns about this privacy policy, the practices of the Service, or your dealings with the Service, you can contact us at webmaster@wealthymen.com. You can also send us mail to: Privacy Officer, Wealthy Men, 705 Washington Ave 2nd Floor, Miami Beach, FL. 33139.  
+  
+   
+  
+  
 |   
 ---  
-  
-Symantec is a licensee of the TRUSTe Privacy Program. The following statement discloses Symantec’s consumer privacy practices for the Symantec Web Site. We do update our policy from time to time without notice so please check back periodically. All updates will be published at this site.
-
-TRUSTe is an independent, non-profit initiative whose mission is to build users’ trust and confidence in the Internet by promoting the principles of disclosure and informed consent. Because this site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.  
-  
-| By displaying the TRUSTe "trustmark," we let you know that this Web site intends to tell you:  
----  
-  
-  * What personal information is gathered, stored, tracked or used
-  * With whom the information may be shared
-  * How you can correct inaccuracies in the information
-
-| [](http://www.truste.org/ivalidate.php?url=www.symantec.com)  
-  
-The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
-
-You may contact Symantec directly using any of the communication means outlined at the end of this statement. If for any reason you are not satisfied with the response from Symantec to your inquiries regarding your right to privacy, you can contact TRUSTe at [http://www.truste.org/users/users_watchdog.html.](http://www.truste.org/users/users_watchdog.html)  
-  
-As a world leader in Internet security technology, Symantec understands your desire to protect personal information. We intend to inform you how your personal information will be gathered, tracked or used, and to give you choices. If choices are not offered on web pages where your personal information is obtained, please select one of the communication channels at the bottom of this statement to indicate your communication preferences.  
-  
-what information we gather and track  
-  
-We request personal information when you place an order, register a product, request a service, answer a survey, enter a contest, correspond with us or engage in certain other activities on our website. For example: 
-
-  1. If you submit an order on-line with us, we will ask you for information necessary to complete the transaction - such as your name, address, and credit card number. 
-  2. If you request technical support online, we will ask you for information necessary to complete the transaction — such as your name address and information about your computer hardware, software and the nature of the problem you are experiencing.
-
-  
-  
-You make the decision whether to proceed with any activity that requests personal information. If you do not wish to provide the requested information, however, you may not be able to complete the transaction.  
-  
-how we use the information we gather and track  
-  
-We use personally identifiable information in the following ways:
-
-  1. To provide you with information about virus alerts, product upgrades, new products, services, newsletters, informative emails, and research on future product ideas or improvements; 
-  2. To assist us in creating content that is relevant to you; 
-  3. To provide you with special offers that may be of interest to you; 
-  4. To assist us in creating better products and services to meet your needs; 
-  5. To allow you to purchase and download products, obtain access to services or otherwise engage in activities you select; 
-  6. To help you quickly find software, services or product information important to you.  
-
-
-  
-  
-with whom we may share your information  
-  
-From time to time, we may provide your information to selected business partners to communicate to you information about products or services that they believe are important to you or your business. If you prefer that we not provide your information to our business partners, you may let us know using one of the methods described in this policy.
-
-In addition, Symantec retains the services of outside contractors to provide services for us. They may be used to ship products, provide technical support, or handle order processing. We require that these contractors keep the personal information of customers secure and confidential. We also require that these contractors use personal information only on behalf of Symantec.
-
-Please be advised that in certain instances, it may be necessary for Symantec to disclose your personal information to government officials or otherwise as required by our legal obligations.  
-  
-choice/opt-out  
-  
-Symantec provides a number of ways for you to ‘opt-out’ of receiving additional information from us or having us provide your personal information to our partners. We may offer you these choices at the time you give us your information.
-
-If you are on a Symantec web page that requires personal information but does not offer communication choices, or would like to change your preferences for information that you have previously provided, please complete the customer profile form at [https://www-secure.symantec.com/custserv/cgi-bin/cs_privacy_dyn.cgi](https://www-secure.symantec.com/custserv/cgi-bin/cs_privacy_dyn.cgi) or use one of the other communication channels at the bottom of this statement.
-
-If you are registering a version of a product that does not provide you the capability to indicate your communication preferences, please complete the customer profile form at [https://www-secure.symantec.com/custserv/cs_register.html](https://www-secure.symantec.com/custserv/cs_register.html) or use one of the other communication channels at the bottom of this statement.
-
-If you do not wish to continue receiving our e-mail newsletters or bulletins you can opt-out of receiving these communications by replying to the unsubscribe in the subject line in the email.  
-  
-  
-  
-  
-We have taken security measures, consistent with international information practices, to protect your personal information. These measures include technical and procedural steps to protect your data from misuse, unauthorized access or disclosure, loss, alteration, or destruction. Credit card information is transmitted using secure socket layer (SSL) encryption.
-
-Since Symantec is a global company, we provide company information to our worldwide offices. The personal information that you have provided to us may be transferred to other Symantec offices around the world. For example, when European customers register Symantec products their personal information may be transferred to servers in the United States then transferred to servers in one or more of Symantec's European offices. Also, in certain countries our outside contractors might undertake the collection, transferring, storage and processing of your information.
-
-We make a sincere effort to respond to your requests to update or correct your personal information. If you believe that Symantec does not have your current personal information, you can update it at [https://www-secure.symantec.com/custserv/cgi-bin/cs_privacy_dyn.cgi](https://www-secure.symantec.com/custserv/cgi-bin/cs_privacy_dyn.cgi), or use one of the other communication channels at the bottom of this statement.  
-  
-  
-  
-  
-Symantec may use cookies from time to time. A cookie is a unique text file that a Web site can send to your browser software. Cookies enable a Web site to tailor information presented to you based on your browsing preferences. Symantec may use cookies to personalize your pages at our Service & Support Web site, or to remember you when you register for products or services. If you do not want Symantec to deploy cookies in your browser, you can set your browser to reject cookies or to notify you when a Web site tries to put a cookie in your browser software. Rejecting cookies may affect your ability to use of some of the products and/or services at our web site.
-
-Symantec may also use cookies to track your visit to our Web site. While our Web servers may automatically log your IP address, this information does not identify you and you remain anonymous.  
-  
-  
-  
-  
-We may track domain names, IP addresses, and browser types from people who visit our site. We use this information to track aggregate traffic patterns throughout Symantec’s Web site. Such information is not correlated with any personal information.  
-  
-  
-  
-  
-At the Symantec Web site, there are a number of links to companies with whom we have a relationship. Symantec is not responsible for the privacy practices of our business partners. We encourage you to read their privacy statements, as they may differ from ours.
-
-We also link to co-branded web sites that are maintained by Symantec and one or more of our business partners. An example of a co-branded site is ShopSymantec. When you submit information to one of our co-branded sites you may be submitting it to both Symantec and our business partners and the privacy policies of these co-branded sites may differ from this privacy policy. We encourage you to read the privacy policies on any co-branded site to which you link for information on the privacy practices of that site.  
-  
-  
-  
-  
-Please remember that information you submit in a discussion group or forum, like "Ask Symantec", will be deemed public information and is not confidential. There is a risk in such communication venues that information can be collected and used by others. Please be careful and responsible when you are online.  
-  
-  
-  
-  
-In the event there is a major change to Symantec's privacy practices, a prominent notice will be posted on our web site. If thechange involves the use of your personally identifiable information, the notice will contain instructions on how you can opt-out of such use.  
-  
-  
-  
-  
-If you have any questions, comments, or would like to change your communication preferences, please contact us using one of the options below:
-
-Customer Profile Form [https://www-secure.symantec.com/custserv/cgi-bin/cs_privacy_dyn.cgi](https://www-secure.symantec.com/custserv/cgi-bin/cs_privacy_dyn.cgi)
-
-Postal Mail  
-Symantec Corporation  
-555 International Way  
-Springfield, OR. 97477  
-Main Phone 541-335-5000 
+| Copyright ©2006 WealthyMen.com, all rights reserved. | [](https://web.archive.org/?prg=1&id=noadvert) | [Webmasters](http://www.greatpersonals.com/) | [Privacy Policy](https://web.archive.org/privacy.php?prg=1&id=noadvert) | [Terms & Conditions](https://web.archive.org/terms.php?prg=1&id=noadvert) | [Help](https://web.archive.org/help.php?prg=1&id=noadvert) |  
