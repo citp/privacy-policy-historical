@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitepulse.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217221215id_/http%3A//www.websitepulse.com/corporate/privacy.policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitepulse.com privacy policy that was archived on 2007-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070521205942id_/http%3A//www.websitepulse.com/corporate/privacy.policy.php) for the most accurate reproduction.*
 
 # Website Monitoring & Web Server Monitoring Service by WebSitePulse
 
