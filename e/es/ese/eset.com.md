@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eset.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231122038id_/http%3A//eset.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eset.com privacy policy that was archived on 2007-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070521215111id_/http%3A//www.eset.com/company/privacy.php) for the most accurate reproduction.*
 
 # ESET - Essential Security against Evolving Threats
 
