@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celtx.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205201812id_/http%3A//www.celtx.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celtx.com privacy policy that was archived on 2007-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070521181153id_/http%3A//www.celtx.com/privacy.html) for the most accurate reproduction.*
 
 # celtx - Privacy Policy
 
@@ -12,7 +12,7 @@ CELTX DOES NOT SELL, RENT, LOAN, TRADE, LEASE OR OTHERWISE TRANSFER ANY PERSONAL
 
 Celtx may collect information which is required in order for the Services to verify your identity. This includes your username and password. You are personally responsible for safeguarding your username and password.
 
-The Celtx website may contain forms and forums where feedback and other comments can be reported directly to Celtx (the “Forums”). Information which is voluntarily submitted to the Forums is used to improve the Celtx Services. Celtx reserves the right to utilize this information for marketing purposes, for instance by displaying selected comments on the Celtx website or in other communications. If Celtx chooses to display a user-submitted comment it will either display it anonymously, stripping away all personally identifiable information, or request permission directly from you before displaying any such personally identifiable information.
+The Celtx website may contain forms and forums where feedback and other comments can be reported directly to Celtx (the �Forums�). Information which is voluntarily submitted to the Forums is used to improve the Celtx Services. Celtx reserves the right to utilize this information for marketing purposes, for instance by displaying selected comments on the Celtx website or in other communications. If Celtx chooses to display a user-submitted comment it will either display it anonymously, stripping away all personally identifiable information, or request permission directly from you before displaying any such personally identifiable information.
 
 No System Information Collected
 
