@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tnstate.edu privacy policy that was archived on 2006-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060901064455id_/http%3A//www.tnstate.edu/interior.asp%3Fmid%3D1175) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tnstate.edu privacy policy that was archived on 2007-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070521082059id_/http%3A//www.tnstate.edu/interior.asp%3Fmid%3D1175) for the most accurate reproduction.*
 
 # Privacy Policy
 
 _**Copyright Statement**_
 
-All materials contained in this site are protected by United States copyright law. The right to download and store or output the materials on this site is granted for the user's personal, noncommercial use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display, or editing of these materials by any means mechanical or electronic without express written permission of Tennessee State University is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on this site may contact us at [**t**](mailto:sbishop@tnstate.edu?subject=Privacy%20Policy) **[he Office of Public Relations](mailto:sbishop@tnstate.edu?subject=Privacy%20Policy).**
+All materials contained in this site are protected by United States copyright law. The right to download and store or output the materials on this site is granted for the user's personal, noncommercial use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display, or editing of these materials by any means mechanical or electronic without express written permission of Tennessee State University is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on this site may contact us at **[the Office of Public Relations](mailto:dkennedy@tnstate.edu?subject=Privacy%20Policy).**
 
 © 2003 Tennessee State University All rights reserved. All trademarks mentioned herein belong to their respective owners.
 
