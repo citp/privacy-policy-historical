@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uknetguide.co.uk privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208123829id_/http%3A//www.uknetguide.co.uk/Info/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uknetguide.co.uk privacy policy that was archived on 2007-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070521081907id_/http%3A//www.uknetguide.co.uk/Info/Privacy.asp) for the most accurate reproduction.*
 
 # UK Net Guide - your online guide to the best of the web: Privacy Policy
 
@@ -43,6 +43,7 @@ We suggest that you practise reasonable discretion with any site when providing 
 
 [Back to Homepage](https://web.archive.org/default.asp)
 
-Answerbank's Popular Threads
-
 Answerbank's Popular Categories
+
+  
+
