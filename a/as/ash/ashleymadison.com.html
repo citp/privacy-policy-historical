@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the ashleymadison.com privacy policy that was archived on 2006-10-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061026182013id_/http%3A//www.ashleymadison.com/app/public/privacy.p) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ashleymadison.com privacy policy that was archived on 2007-05-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070521215224id_/http%3A//www.ashleymadison.com/app/public/privacy.p) for the most accurate reproduction.-->
 
 <html><head>
-		<title>The Ashley Madison Agency - Romantic Rendezvous' for Attached Adults</title>
+		<title>The Ashley Madison Agency - Romantic Rendezvous for Attached Adults</title>
 <meta name="keywords" content="matchmaking, personals, casual, fantasy, adult, sex, love, romance, secret, encounters, unfaithful, dating, erotic, chat">
 <meta name="description" content="Ashley Madison is the online personals &amp; dating destination for casual encounters, secret romance and adult fantasy.">
 <meta name="copyright" content="Copyright The Ashley Madison Agency, Limited. 2001-2004">
@@ -69,7 +69,29 @@
 			function googleAnalyticsSetUrl(url) {
 				google_analytics_url = url;
 			}
-
+	        var google_analytics_account_id = '';
+	        /* Check if we should use the visitor tracking ID - for non-registered members */
+			var ampnum = get_ampnum_cookie();
+			if(!(ampnum=='signup' || is_aminbox_cookie_present() || parseInt(ampnum)>0)) {
+			  /* Not a registered user */
+			  google_analytics_account_id = 'UA-344798-1';
+			}
+			function get_ampnum_cookie() {
+        var name = "ampnum";
+			  var start = document.cookie.indexOf( name + "=" );
+			  var len = start + name.length + 1;
+			  if ( ( !start ) && ( name != document.cookie.substring( 0, name.length ) ) ) { return null; }
+			  if ( start == -1 ) return null;
+			  var end = document.cookie.indexOf( ";", len );
+			  if ( end == -1 ) end = document.cookie.length;
+			  return unescape( document.cookie.substring( len, end ) );
+			}
+      function is_aminbox_cookie_present() {
+        var name = "ampnum";
+        var start = document.cookie.indexOf("am-inbox-filter-");
+        if(start==-1) return false;
+        return true;
+      }
 		</script>
 		<style>
 			.searchfield {
@@ -347,7 +369,7 @@ Email: <a href="mailto:info@ashleymadison.com">info@ashleymadison.com</a></p>
 					
 					<tr>
 						<td bgcolor="#ffccff" colspan="2" style="border-style: solid; border-width: 1; padding: 4;" align="center">
-							<font size="1">© Copyright The Ashley Madison Agency, Limited. 2001-2006<br>
+							<font size="1">© Copyright The Ashley Madison Agency, Limited. 2001-2007<br>
 							<a href="http://www.ashleymadison.com/app/public/affiliate/index.p">Affiliate Program</a> • <a href="http://www.ashleymadison.com/app/public/legal.p">Legal &amp; Disclaimers</a> • <a href="http://www.ashleymadison.com/app/public/tandc.p">Terms &amp; Conditions</a> • <a href="http://www.ashleymadison.com/app/public/privacy.p">Privacy Policy</a> • <a href="mailto:webmaster@ashleymadison.com">Report Abuse</a> • <a href="http://www.ashleymadison.com/app/public/contact.p">Contact Us</a><br>
 							This site is best viewed at 1024 x 768 with <a target="_blank" href="http://www.mozilla.org/products/firefox/">Firefox (Mozilla)</a> or <a target="_blank" href="http://www.microsoft.com/ie/">Microsoft Internet Explorer</a>
 							</font>
@@ -358,6 +380,14 @@ Email: <a href="mailto:info@ashleymadison.com">info@ashleymadison.com</a></p>
 		</center>
 		<br>
 		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-<script type="text/javascript">_uacct = "UA-344798-1"; urchinTracker(google_analytics_url);</script>
+<script type="text/javascript">
+  if(google_analytics_account_id) {
+    _uacct = google_analytics_account_id;
+  } else {
+  	/* Old ID */
+    _uacct = "UA-1479089-1";
+  }
+  urchinTracker(google_analytics_url);
+</script>
 		
 </body></html>
