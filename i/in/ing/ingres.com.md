@@ -1,43 +1,50 @@
-> *The following text is extracted and transformed from the ingres.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213143821id_/http%3A//www.ingres.com/legal/Legal_Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingres.com privacy policy that was archived on 2007-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070521075620id_/http%3A//www.ingres.com/policy.php) for the most accurate reproduction.*
 
-# Ingres Corporation — Privacy Policy
+# Ingres Corporation :: Ingres Corporation Privacy Policy
 
-##  Ingres Corporation Privacy Statement 
+Your privacy is important to Ingres Corporation ("Ingres" "we" or "us"). We have prepared this privacy policy to disclose and describe certain policies implemented throughout Ingres governing Ingres' use of personally identifiable information about users of our web site located at www.ingres.com ("Site"). 
 
-Your privacy is important to Ingres. We have prepared this privacy statement to disclose and describe our information gathering and dissemination practices for this Web site. 
+## Privacy Policy Updates
 
-##  Notice and Disclosure 
+Due to the Internet's rapidly evolving nature, Ingres may need to update this Privacy Policy from time to time. If so, Ingres will post its updated Privacy Policy on our Site located at www.Ingres.com, so you are always aware of what personally identifiable information we may collect and how we may use this information. Ingres encourages you to review this Privacy Policy regularly for any changes. Your continued use of this Site and/or continued provision of personally identifiable information to us will be subject to the terms of the then-current Privacy Policy. 
 
-In general, you may visit this Web site without identifying yourself or revealing any personal information. Ingres collects domain information from your visit to customize and improve our Web site. 
+## Information Collection and Use 
 
-Some portions of this Web site may request that you give us personally identifiable information, which is information that enables us to identify you, such as your name, email or other address, job title, and employer name. If you opt to provide us that sort of information, we also may use it for purposes such as verifying your identity, sending you information or contacting you or your employer for marketing and other purposes. For certain programs, we may make your information available to our business partners, for marketing and other purposes. If you give us personal information about somebody else, such as a spouse, friend or work colleague, we will assume that you have their permission to do so. 
+In general, you may visit this Site without identifying yourself or revealing any personal information. However, in certain sections of this Site, we may invite you to register for an account, download software, contact the service desk, become a partner, enroll for support, contact us with questions or comments or request information, and provide us with feedback. Due to the nature of some of these activities, we may collect personally identifiable information such as your name, email address, other contact information, company or employer name, job title, telephone number, mobile telephone number, username and password. Additionally, we may collect personally identifiable information about you that you provide to us when you contact us or that you voluntarily post in blogs, chat rooms, forums, message boards, and/or news groups available from our Site and other users will be able to see any information that you post to such forums. We may use your personally identifiable information to deliver and provide certain services, products, software or information you have requested, provide you with notices regarding services, products or information that you have purchased or that you may want to purchase in the future, verify your authority to enter our Site, contact you or your employer for marketing purposes, and improve the content and general administration of the Site and our services. If you give us personal information about somebody else, such as a spouse, friend or work colleague, you represent and warrant that you have their permission to do so. 
 
-##  Choice/Opt-Out 
+The Site may track the total number of visitors to our Site, the number of visitors to each page of our Site, browser type, IP addresses, External Web Sites (defined below) linked to, and we may analyze this data for trends and statistics in the aggregate, but such information will be maintained, used and disclosed in aggregate form only and it will not contain personally identifiable information. We may use such aggregate information to analyze trends, administer the Site, track users' movement, and gather broad demographic information for aggregate use. We may also use aggregate information about the use of our products and services to improve the capabilities of our products and services. This information will only be disclosed in aggregate form. 
 
-It is our intent to inform you before we collect personally identifiable information, and tell you what we intend to do with it, such as pursuant to the Notice and Disclosure section above or by other means. You will have the option of not providing the information, in which case you may still be able to access other portions of this Web site, although you may not be able to access certain programs, information or services. In certain portions of this Web site or in communications to you pursuant to information you provide us through this Web site, we also may enable you to “opt out” of certain uses of your information, or elect not to receive future communications, information or services. 
+## Disclosure
 
-##  Data Security 
+We will disclose your personally identifiable information if we reasonably believe we are required to do so by law, regulation or other government authority. Additionally, we may disclose your personally identifiable information, in our sole discretion, to law enforcement agencies to assist in any investigation. We may provide your personally identifiable information that we collect to the vendors and service agencies that we may engage to assist us and to our third party marketing partners. For example, we may provide your personally identifiable information to an organization in order to complete a service (e.g., process your payment). We will not sell your personally identifiable information to any company or organization except we may transfer your personally identifiable information to a successor entity upon a merger, consolidation or other corporate reorganization in which Ingres participates or to a purchaser of all or substantially all of Ingres' assets to which this Site relates. 
 
-Ingres’s intent is to use reasonable measures to protect the security of your personal information; honor your choice for its intended use; and protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. We have put in place appropriate physical, electronic and managerial procedures to safeguard and secure information we collect online, including the use of encryption when collecting or transferring sensitive data such as credit card information. 
+## Data Security 
 
-##  Data Quality and Access 
+We may employ reasonable procedural and technological measures that are reasonably designed to help protect your personally identifiable information from loss, unauthorized access, disclosure, alteration or destruction. Ingres may use encryption, password protection and other security measures to help prevent unauthorized access to your personally identifiable information. 
 
-Ingres strives to keep your information and data accurate, complete and current. We will promptly take steps to correct any inaccuracies in your personally identifiable information which we are made aware of. 
+## Links to Third Party Sites 
 
-##  Business Relationships 
+The Site may provide links to other Web sites or resources over which Ingres does not have control ("External Web Sites"). Such links do not constitute an endorsement by Ingres of those External Web Sites. You acknowledge that Ingres is providing these links to you only as a convenience, and further agree that Ingres is not responsible for the content of such External Web Sites. Your use of External Web Sites is subject to the terms of use and privacy policies located on the External Web Sites. 
 
-This Web site contains links to other Web sites. Ingres is not responsible for the privacy practices or the content of such Web sites. 
+## Data Integrity 
 
-##  Cookies 
+We process personally identifiable information in ways compatible with the purpose for which it was collected or subsequently authorized by you, the individual. To the extent necessary for such purposes, we take reasonable steps to make sure that personally identifiable information is accurate, complete, current and otherwise reliable with regard to its intended use. 
 
-Portions of this Web site use cookies to keep track of your visit, or to deliver content specific to your interests. A “Cookie” is a small amount of data transferred to your browser and read by the Web server that placed it there. It works as a sort of identification card, recording your preferences and previously entered information. You can set your browser to notify you when you receive a cookie, giving you the chance to accept or reject it. 
+## Cookies
 
-##  Public Forums 
+Portions of this Site use cookies to keep track of your visit, or to deliver content specific to your interests. A "Cookie" is a small amount of data transferred to your browser and read by the Web server that placed it there. It works as a sort of identification card, recording your preferences and previously entered information. You can set your browser to notify you when you receive a cookie, giving you the chance to accept or reject it. 
 
-Portions of this Web site make chat rooms, forums, message boards, and/or news groups available to visitors. Please remember that any information that is disclosed in these areas becomes public information and exercise caution when deciding to disclose any personal information. 
+## Public Forums 
 
-##  Contacting Us 
+Portions of this Site make chat rooms, forums, message boards, and/or news groups available to visitors. Please remember that any information that is disclosed in these areas becomes public information and exercise caution when deciding to disclose any personal information. 
 
-If you have any questions or comments about our privacy statement or practices, please contact us via email at [ info@ingres.com](mailto:info@ingres.com?Subject=PRIVACY%20POLICY) with the words “PRIVACY POLICY” in the subject line. Ingres reserves the right to modify or update this privacy statement at any time without prior notice. 
+## Children's Privacy
 
-_Last updated 08/15/2006_. 
+This Site is not intended for children under the age of 13. Ingres does not target its services or this Site to children under 13. Ingres does not knowingly collect personally identifiable information from children under the age of 13. 
+
+## Updating your Information and Contacting Us 
+
+If you wish to review or correct any information you have provided to us, you may access your account and update it on this Site. If you have any questions or comments about our Privacy Policy or practices, please contact us via email at info@ingres.com with the words "PRIVACY POLICY" in the subject line. 
+
+This Privacy Policy was last updated: August___, 2006  
+This Privacy Policy is effective as of: August____, 2006 
