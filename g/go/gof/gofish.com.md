@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gofish.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225010717id_/http%3A//www.gofish.com/corp/privacy.gfp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gofish.com privacy policy that was archived on 2007-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070521113610id_/http%3A//www.gofish.com/corp/privacy.gfp) for the most accurate reproduction.*
 
-# GoFish - Privacy Policy
+# GoFish Corporation - Privacy Policy
 
 GoFish provides this explanation about our online information practices as a show of our commitment to protect your privacy.
 
@@ -22,7 +22,7 @@ In addition, third parties may have different privacy policies that apply to any
 
 ## Cookies
 
-Upon your first visit to GoFish, a cookie is sent to your computer that uniquely identifies your browser. A "cookie" is a small file containing a string of characters that is sent to your computer when you visit a website. We use cookies to improve the quality of our service and to better understand how people interact with us. GoFish does this by storing user preferences in cookies and by tracking user trends and patterns of how people search. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some GoFish features or services may not function properly without cookies. 
+Upon your first visit to GoFish, a cookie is sent to your computer that uniquely identifies your browser. A "cookie" is a small file containing a string of characters that is sent to your computer when you visit a website. We use cookies to improve the quality of our service and to better understand how people interact with us. GoFish does this by storing user preferences in cookies and by tracking user trends and patterns of how people search. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some GoFish features or services may not function properly without cookies.
 
 ## The Way We Use Information
 
