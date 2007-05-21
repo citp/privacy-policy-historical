@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mgmmiragevacations.com privacy policy that was archived on 2006-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061209101826id_/http%3A//www.mgmmiragevacations.com//privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mgmmiragevacations.com privacy policy that was archived on 2007-05-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070521051649id_/http%3A//www.mgmmiragevacations.com//privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 	
@@ -555,29 +555,7 @@ function puntaCana() {
 
 <!-- 12/05/05 DSM - end -->    
   <form style="display: inline; margin: 0;" method="get" action="http://www.mgmmiragevacations.com/includes/javascript.asp" name="resTool" id="Form1">
-<div>
-			<div id="trDestination" name="trDestination">
-				<input type="hidden" id="gsDestination" name="gsDestination" value="LAS">
-				<input type="hidden" id="gsDestinationHidden" name="gsDestinationHidden" value="LAS">
-			</div>
-			
-			<div id="trDestinationWarning" style="display:none; background-color: #dbcdaa; position:relative; z-index:40;">
-			</div>
-			
-			<div id="TARSDiv" style="display:none;">
-			</div>
-			
-			<div id="trDestinationClientAH" style="display:none;">
-				<input type="hidden" name="destLBoxAH" id="destLBoxAH" value="LAS">
-			</div>
-			<div id="trDestinationClientA" style="display:none;">
-				<input type="hidden" name="destLBoxA" id="destLBoxA" value="LAS">
-			</div>
-			
-			<div id="trDestinationClientH" style="display:none;">
-				<input type="hidden" name="destLBoxH" id="destLBoxH" value="LAS">
-			</div>
-		</div><table width="162" border="0" cellspacing="0" cellpadding="0" bgcolor="#fee6cb" id="Table1" background="http://www.mgmmiragevacations.com//images/res_bkg.gif">
+<table width="162" border="0" cellspacing="0" cellpadding="0" bgcolor="#fee6cb" id="Table1" background="http://www.mgmmiragevacations.com//images/res_bkg.gif">
 	
 	<tbody><tr>
 		<td>
@@ -608,6 +586,43 @@ function puntaCana() {
 	<tr>
 		<td>
 			<div>
+						<div>
+							<div id="trDestination" name="trDestination"><font class="res"><b>Destination:&nbsp;&nbsp;</b></font><br>
+								<!--<input type="hidden" id="gsDestination1" name="gsDestination1" value="LAS" />-->
+								<input align="top" type="text" id="gsDestination" name="gsDestination" class="res" size="20" onchange="validateDes();convertDestination();verifyUA();verifySBTCharter();"><a href="javascript:void('return true')" tabindex="-1" onclick="toggleListBox('dest');flipExpandCollapse('DestinationInquire');"><img src="http://www.mgmmiragevacations.com//images/tools/plus.gif" alt="List All Destination Cities" name="DestinationInquire" id="DestinationInquire" border="0" vspace="1" align="top"></a>
+								<input type="hidden" id="gsDestinationHidden" name="gsDestinationHidden" value="">
+							</div>
+							
+							<div id="trDestinationWarning" style="display:none; background-color: #dbcdaa; position:relative; z-index:40;">
+							</div>
+							
+							<div id="TARSDiv" style="display:none;">
+							</div>
+							
+							<div id="trDestinationClientAH" style="display:none;">
+								<!--<input type="hidden" name="destLBoxAH1" id="destLBoxAH1" value="LAS" />-->
+								<select name="destLBoxAH" id="destLBoxAH" class="res" size="3" onchange="document.resTool.gsDestinationHidden.value=this.options[this.options.selectedIndex].value;document.resTool.gsDestination.value=this.options[this.options.selectedIndex].text;toggleListBox('dest');flipExpandCollapse('DestinationInquire');validateDes();verifyUA();verifySBTCharter();">
+									<option value="LAS">Las Vegas</option>
+									<option value="GPT">Gulfport</option>
+								</select>
+							</div>
+							<div id="trDestinationClientA" style="display:none;">
+								<!--<input type="hidden" name="destLBoxA1" id="destLBoxA1" value="LAS" />-->
+								<select name="destLBoxA" id="destLBoxA" class="res" size="3" onchange="document.resTool.gsDestinationHidden.value=this.options[this.options.selectedIndex].value;document.resTool.gsDestination.value=this.options[this.options.selectedIndex].text;toggleListBox('dest');flipExpandCollapse('DestinationInquire');validateDes();verifyUA();verifySBTCharter();">
+									<option value="LAS">Las Vegas</option>
+									<option value="GPT">Gulfport</option>
+								</select>
+							</div>
+							
+							<div id="trDestinationClientH" style="display:none;">
+								<!--<input type="hidden" name="destLBoxH1" id="destLBoxH1" value="LAS" />-->
+								<select name="destLBoxH" id="destLBoxH" class="res" size="3" onchange="document.resTool.gsDestinationHidden.value=this.options[this.options.selectedIndex].value;document.resTool.gsDestination.value=this.options[this.options.selectedIndex].text;toggleListBox('dest');flipExpandCollapse('DestinationInquire');validateDes();verifyUA();verifySBTCharter();">
+									<option value="LAS">Las Vegas</option>
+								</select>
+							</div>
+
+						</div>
+				
 				<div id="trOrigin" name="trOrigin"><font class="res"><b>Departure City:&nbsp;&nbsp;</b></font><br>
 					<input align="top" type="text" id="gsOrigin" name="gsOrigin" class="res" size="20" onchange="validateOrg();convertOrigin();verifyUA();verifySBTCharter();"><a href="javascript:void('return true')" tabindex="-1" onclick="toggleListBox('org');flipExpandCollapse('originInquire');"><img src="http://www.mgmmiragevacations.com//images/tools/plus.gif" alt="List All Origin Cities" name="originInquire" id="originInquire" border="0" vspace="1" align="top"></a>
 					<input type="hidden" id="gsOriginHidden" value="" name="gsOriginHidden">
@@ -1419,7 +1434,12 @@ function puntaCana() {
 				</div>
 			</div>
 		</td>
+	</tr>
+	<tr>
+		<td colspan="4">
+
 		
+		</td>
 	</tr>
 	<tr>
 		<td colspan="4">
@@ -1462,7 +1482,7 @@ function puntaCana() {
 							<input type="hidden" name="DepartureTime" value="ANY" id="DepartureTime">
 						</div>
 					</td>
-					<td class="res" valign="bottom">&nbsp;<a href="Javascript:;" onclick="javascript:popupcalendar('http://www.mgmmiragevacations.com/includes/popupCalendar_restool.asp?Type=Depart');"><img src="http://www.mgmmiragevacations.com//images/tools/calendar.gif" border="0" alt="View Calendar" vspace="2"></a><label id="departDOW" name="departDOW">Sat</label></td>
+					<td class="res" valign="bottom">&nbsp;<a href="Javascript:;" onclick="javascript:popupcalendar('http://www.mgmmiragevacations.com/includes/popupCalendar_restool.asp?Type=Depart');"><img src="http://www.mgmmiragevacations.com//images/tools/calendar.gif" border="0" alt="View Calendar" vspace="2"></a><label id="departDOW" name="departDOW">Mon</label></td>
 				</tr>
 				<tr>
 					<td colspan="2"><img src="http://www.mgmmiragevacations.com//images/spacer.gif" width="1" height="5" border="0"></td>
@@ -1480,9 +1500,9 @@ function puntaCana() {
 							<input type="hidden" name="ReturnTime" id="ReturnTime" value="ANY">
 						</div>
 					</td>
-					<td class="res" valign="bottom">&nbsp;<a href="Javascript:;" onclick="javascript:popupcalendar('http://www.mgmmiragevacations.com/includes/popupCalendar_restool.asp?Type=Return');"><img src="http://www.mgmmiragevacations.com//images/tools/calendar.gif" border="0" alt="View Calendar" vspace="2"></a><label id="returnDOW" name="returnDOW">Mon</label></td>
+					<td class="res" valign="bottom">&nbsp;<a href="Javascript:;" onclick="javascript:popupcalendar('http://www.mgmmiragevacations.com/includes/popupCalendar_restool.asp?Type=Return');"><img src="http://www.mgmmiragevacations.com//images/tools/calendar.gif" border="0" alt="View Calendar" vspace="2"></a><label id="returnDOW" name="returnDOW">Wed</label></td>
 				</tr>
-				<input type="hidden" id="minDepartDate" value="12/10/06" name="minDepartDate">
+				<input type="hidden" id="minDepartDate" value="05/22/07" name="minDepartDate">
 				<input type="hidden" id="minStay" value="1" name="minStay">
 				<input type="hidden" id="maxStay" value="99" name="maxStay">
 				<input type="hidden" id="minDaysOut" value="1" name="minDaysOut">
@@ -1851,7 +1871,7 @@ var g_PLCodeOrigin = "";
 var g_PLCodeDestination = "";
 var g_PostPackageType = "";
 var g_PostOrigin = "MDW";
-var g_PostDestination = "";
+var g_PostDestination = "LAS";
 var g_PostDepartureDate = "";
 //var g_PostDepartureTime = "";
 var g_PostDepartureTime ="";
