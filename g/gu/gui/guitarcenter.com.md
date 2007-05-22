@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the guitarcenter.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213235644id_/http%3A//www.guitarcenter.com/legal/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitarcenter.com privacy policy that was archived on 2007-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070522161245id_/http%3A//www.guitarcenter.com/legal/privacy.cfm) for the most accurate reproduction.*
 
 # Guitar Center - Musical Instruments Retailer
 
 | **GuitarCenter.com** | **VintageGuitars.net** | **RockWalk.com** | **GCPro.com**  
 ---|---|---|---  
   
-**·**   [Terms of Use](https://web.archive.org/web/20061213235644id_/http%3A//www.guitarcenter.com/legal/index.cfm)   
-**·**   [Privacy Policy](https://web.archive.org/web/20061213235644id_/http%3A//www.guitarcenter.com/legal/privacy.cfm)  
-**·**   [Purchase Terms and Conditions](https://web.archive.org/web/20061213235644id_/http%3A//www.guitarcenter.com/legal/tac.cfm)  
-**·**   [Forum Terms](https://web.archive.org/web/20061213235644id_/http%3A//www.guitarcenter.com/legal/forum.cfm)
+**·**   [Terms of Use](https://web.archive.org/web/20070522161245id_/http%3A//www.guitarcenter.com/legal/index.cfm)   
+**·**   [Your Privacy Rights](https://web.archive.org/web/20070522161245id_/http%3A//www.guitarcenter.com/legal/privacy.cfm)  
+**·**   [Purchase Terms and Conditions](https://web.archive.org/web/20070522161245id_/http%3A//www.guitarcenter.com/legal/tac.cfm)  
+**·**   [Forum Terms](https://web.archive.org/web/20070522161245id_/http%3A//www.guitarcenter.com/legal/forum.cfm)
 
   
-**Privacy Policy**
+**Your Privacy Rights – Privacy Policy**
 
 At Guitar Center we are committed to protecting the privacy of our customers and users of our website located at www.guitarcenter.com (the "Site") . This privacy policy ("Privacy Policy") gives you details of our privacy practices, including (a) what information we collect about you when you use the Site; (b) how the information will be used or disclosed; and (c) your rights with respect to our collection and use of your data. We may modify these policies from time to time and will provide notice of any major changes by posting such notice on the Site.
 
