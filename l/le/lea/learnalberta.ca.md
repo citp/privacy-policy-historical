@@ -1,8 +1,14 @@
-> *The following text is extracted and transformed from the learnalberta.ca privacy policy that was archived on 2005-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050412083257id_/http%3A//www.learnalberta.ca/templates/Login/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnalberta.ca privacy policy that was archived on 2007-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070522140636id_/http%3A//www.learnalberta.ca/Browse.aspx%3FView%3DPrivacyStatement) for the most accurate reproduction.*
 
-# LearnAlberta.ca Privacy Policy
+# Privacy Policy
 
-#### Alberta Learning Web Site Privacy Statement
+|  |   
+---  
+|  |   
+---|---  
+|  | 
+
+#### Alberta Learning Web Site Privacy Policy
 
   1. This page summarizes the privacy policy and practices on Alberta Learning's web site in accordance with the standards set forth by the Government of Alberta's Cross Government Internet Committee. Alberta Learning is committed to providing our visitors with a web site that respects their privacy. We do not automatically gather any personal information from you, such as your name, address, phone number or e-mail address. This information is only obtained if you supply it voluntarily, usually through contacting us via e-mail. 
 
@@ -29,4 +35,5 @@ E-mail at [comm.contact@learning.gov.ab.ca](mailto:comm.contact@learning.gov.ab.
 Telephone at (780) 427-7219; For toll-free access, first dial 310-0000; or   
 Fax at (780) 422-1263. 
 
-
+|    
+---|---
