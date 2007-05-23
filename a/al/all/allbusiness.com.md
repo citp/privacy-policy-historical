@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the allbusiness.com privacy policy that was archived on 2006-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061222101404id_/http%3A//www.allbusiness.com/2984776-1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allbusiness.com privacy policy that was archived on 2007-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070523053320id_/http%3A//www.allbusiness.com/2984776-1.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-About AllBusiness.com
-
-Updated 12/01/2006
-
-[](http://www.truste.org/ivalidate.php?url=www.allbusiness.com&sealid=101)AllBusiness is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.AllBusiness.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+[ ](http://www.truste.org/ivalidate.php?url=www.allbusiness.com&sealid=101)AllBusiness is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.AllBusiness.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
 If you have questions or concerns regarding this statement, you should first contact [Customer Service](https://web.archive.org/2984617-1.html). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
@@ -56,7 +52,7 @@ As you shop on our Web site, the site uses its cookies to differentiate you from
 
 **Sharing Information with Third Parties**
 
-We enter into alliances, partnerships or other business arrangements with third parties who will be given access to personal information (including, but not limited to, your email address) for the purpose of providing you information regarding products and services that we think will be of interest to you and that you have opted-in to receive, unless you opt out of receiving such communications in our [membership center](https://web.archive.org/3471024-1.html).
+We enter into alliances, partnerships or other business arrangements with third parties who will be given access to personal information (including, but not limited to, your email address) for the purpose of providing you information regarding products and services that we think will be of interest to you and that you have opted-in to receive, unless you opt out of receiving such communications in our [membership center](https://web.archive.org/3471024-1.html). 
 
 **Service Providers**
 
@@ -100,7 +96,7 @@ You can update your registration information online on our [member center](https
 
 **Certain Disclosures**
 
-We may disclose your personal information if required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law or comply with legal process served on us or Affiliated Parties; (b) protect and defend our rights and property, the Site, the users of the Site, and/or our Affiliated Parties; or (c) act under circumstances to protect the safety of users of the Site, us, or third parties. 
+We may disclose your personal information if required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law or comply with legal process served on us or Affiliated Parties (as defined in our Terms of Use Agreement); (b) protect and defend our rights and property, our site, the users of our site, and/or our Affiliated Parties; or (c) act under circumstances to protect the safety of users of our site, us, or third parties. 
 
 **What About Other Web Sites Linked to Our Web Site?**
 
@@ -112,7 +108,7 @@ Please remember that when you use a link to go from our Web site to another Web 
 
 By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. If we make material changes to our privacy policies or procedures, we will post those changes on our Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. 
 
-AllBusiness.com, Inc  
-650 Townsend St.  
-Suite 675  
+AllBusiness.com, Inc   
+650 Townsend St.   
+Suite 675   
 San Francisco , CA 94103 
