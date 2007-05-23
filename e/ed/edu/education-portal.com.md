@@ -1,25 +1,25 @@
-> *The following text is extracted and transformed from the education-portal.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218174034id_/http%3A//education-portal.com/pages/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the education-portal.com privacy policy that was archived on 2007-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070523104517id_/http%3A//education-portal.com/pages/privacy_policy.html) for the most accurate reproduction.*
 
-# -- Education-Portal.com
+# Our Privacy Policy -- Education-Portal.com
 
 ### Education-Portal.com Privacy Policy
 
-We respect your privacy and will protect it by all means possible. Education-Portal.com would like to show our commitment to protecting your privacy through this privacy statement. 
+We have created this privacy statement to disclose our information gathering practices and demonstrate our commitment to your privacy. 
 
 ### Information Collection and Use
 
-Education-Portal.com does not ask for or collect personal, individually-identifiable information from anyone who visits the site. If any visitor to the site chooses to provide us with personal information, as in an email inquiry, we do not require it. The only time giving personal information will be required is if you want a response to your message. This information will not be used for any purpose other than to respond to the inquiry. We do not create individual profiles from the information provided or distribute the information to third parties. 
+Requesting information from one of our schools requires you to submit a form that includes personally identifiable information such as name, phone number, address, and email address. The information you provide on our site will only be shared with the school you are requesting information from and/or that school’s authorized agent. We will not sell or share your information with any other third parties. 
+
+### Links to Other Sites
+
+Education-Portal.com links to other sites and some of these sites may contain their own forms and have their own information gathering and dissemination practices. While efforts are made to only link to responsible sites, please be aware that we are not responsible for any of their privacy practices or actions. 
+
+### Cookies
+
+Education-Portal.com does not collect personal information through cookies. 
 
 ### Activity Log
 
 Your activity within Education-Portal.com will be automatically logged by the server to record site activity and analyze problems. We cannot distinguish personal information from this data. 
 
-### Cookies
-
-Our web site does not collect personal information through cookies. 
-
-### Links to Other Sites
-
-This web site contains links to other web sites. While every effort is made to only link to quality, ethical sites, Education-Portal.com bears no responsibility for their information collection policies or any content that may be displayed on them. If you notice any website listed in this directory to be displaying inappropriate content, please [contact](mailto:moreinformation@Education-Portal.com) our webmaster immediately. 
-
-For questions regarding this privacy statement or for additional information, please [contact us](mailto:moreinformation@Education-Portal.com). 
+For questions regarding this privacy statement or for additional information, please [contact us](mailto:moreinformation@Education-Portal.com) . 
