@@ -1,91 +1,113 @@
-<!--The following is the downloaded HTML source of the education-portal.com privacy policy that was archived on 2006-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061218174034id_/http%3A//education-portal.com/pages/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the education-portal.com privacy policy that was archived on 2007-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070523104517id_/http%3A//education-portal.com/pages/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<link rel="stylesheet" type="text/css" href="/css/mainStyle.css">
+	
 	
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
 	
 			
 		
 	<meta name="robots" content="index,follow">
-	<meta name="keywords" content="">
-	<meta name="description" content="">
+	<meta name="keywords" content="Our Privacy Policy">
+	<meta name="description" content="People who searched for Our Privacy Policy  found the following information  relevant and useful.">
 	<title>
 		
-				 -- Education-Portal.com
+				Our Privacy Policy -- Education-Portal.com
 			
 	</title>
 
-   <script type="text/javascript" language="Javascript">
-			<!--
-			//if you pick a state
-			function resetZipAndOnlineOnlyAndSubmit(formToSubmit) {
-				formToSubmit.online.checked = false;
-				formToSubmit.zip.value='';
+	<script type="text/javascript" language="Javascript">
+		<!--
+		//if you pick a state
+		 function resetZipAndOnlineOnlyAndSubmit(formToSubmit) {
+			 formToSubmit.online.checked = false;
+			 formToSubmit.zip.value = '';
 
-				/*document.zipcodeSearchForm.zip.value='';
-				document.zipcodeSearchForm.radius.value = '';
-				document.zipcodeSearchForm.radius.selectedIndex = 0;*/
-				formToSubmit.submit();
-			}
+			 /*document.zipcodeSearchForm.zip.value='';
+			 document.zipcodeSearchForm.radius.value = '';
+			 document.zipcodeSearchForm.radius.selectedIndex = 0;*/
+			 formToSubmit.submit();
+		 }
 
-			//if you click online only checkbox
-			function resetStateAndZipAndSubmit(formToSubmit) {
+		//if you click online only checkbox
+		function resetStateAndZipAndSubmit(formToSubmit) {
+			formToSubmit.state.value = 'ALL';
+			formToSubmit.state.selectedIndex = 0;
+			formToSubmit.zip.value = '';
+
+			/*document.zipcodeSearchForm.zip.value='';
+			document.zipcodeSearchForm.radius.selectedIndex = 0;*/
+			formToSubmit.submit();
+		}
+
+		//if you enter a zip and click submit
+		function prepareForSubmit(formToSubmit, submitButton) {
+			if (formToSubmit.zip.value != '' && formToSubmit.zip.value != 'zip') {
 				formToSubmit.state.value = 'ALL';
 				formToSubmit.state.selectedIndex = 0;
-				formToSubmit.zip.value='';
-
-				/*document.zipcodeSearchForm.zip.value='';
-				document.zipcodeSearchForm.radius.selectedIndex = 0;*/
-				formToSubmit.submit();
+				formToSubmit.online.checked = false;
 			}
 
-			//if you enter a zip and click submit
-			function resetStateAndOnlineIfZipAndSubmit(formToSubmit) {
-				if (formToSubmit.zip.value != '' && formToSubmit.zip.value != 'zip') {
-					formToSubmit.state.value = 'ALL';
-					formToSubmit.state.selectedIndex = 0;
-					formToSubmit.online.checked = false;
-				}
+			submitButton.disabled = true;
+		}
 
-				formToSubmit.submit();
-			}
+		function clearbottomlevelandSubmit(formToSubmit, level, dropDownPrefix) {
+			var total_level;
+			var drop_down_option;
+			for (total_level = level + 1; total_level <= 3; total_level = total_level + 1) {
+				drop_down_option = document.getElementById(dropDownPrefix + "C" + total_level);
 
-			function clearbottomlevelandSubmit(formToSubmit, level, dropDownPrefix) {
-				var total_level;
-				var drop_down_option;
-				for(total_level = level+1; total_level <= 3; total_level = total_level+1) {
-				 drop_down_option = document.getElementById(dropDownPrefix + "C" + total_level);
-
-					if (drop_down_option != null && typeof(drop_down_option) != "undefined") {
-						drop_down_option.selectedIndex = 0;
-						drop_down_option.options[0].value = 0;
-					}
-				}
-				formToSubmit.submit();
-			}
-
-			function clearZipIfNotEntered(formToClear) {
-				if (formToClear.zip.value == 'zip') {
-					formToClear.zip.value = '';
+				if (drop_down_option != null && typeof(drop_down_option) != "undefined") {
+					drop_down_option.selectedIndex = 0;
+					drop_down_option.options[0].value = 0;
 				}
 			}
+			formToSubmit.submit();
+		}
 
-			/*function clearbottomlevelandSubmit(formToSubmit, level) {
-				var total_level;
-				var drop_down_option;
-				for(total_level = level+1; total_level <= 3; total_level = total_level+1) {
-					drop_down_option = document.getElementById("c" + total_level + "Search");
+		function clearZipIfNotEntered(formToClear) {
+			if (formToClear.zip.value == 'zip') {
+				formToClear.zip.value = '';
+			}
+		}
 
-					if (drop_down_option != null && typeof(drop_down_option) != "undefined") {
-						drop_down_option.selectedIndex = 0;
-						drop_down_option.options[0].value = 0;
-					}
-				}
-				formToSubmit.submit();
-			}*/
-			// end hiding script from old browsers -->
+		// Hide/Show default field names for right nav form
+		function fieldOnFocus(formField, formDefault) {
+			if (formField.value == formDefault) {
+				formField.value = '';
+			}
+			return false;
+		}
+
+		function fieldOnBlur(formField, formDefault) {
+			if (formField.value == '') {
+				formField.value = formDefault;
+			}
+			return false;
+		}
+
+		function disableButtonAndSubmit(formToSubmit, submitButton) {
+			submitButton.disabled = true;
+			formToSubmit.submit();
+		}
+
+		 function enableButtons() {
+			 enableButton(document.getElementById("sfSearchButton"));
+			 enableButton(document.getElementById("topSearchButton"));
+			 enableButton(document.getElementById("submitText"));
+		 }
+
+		 function enableButton(button) {
+			 if (button) {
+				 button.disabled = false;
+			 }
+		 }
+
+		 window.onfocus = enableButtons;
+
+		// end hiding script from old browsers -->
 	</script>
 
 </head>
@@ -96,10 +118,10 @@
 
 <div id="header">
 
-	<a href="/index.html" class="titleImage"><img src="/images/EducationPortalLogo.gif" alt=""></a>
+	<a href="/index.html" class="titleImage"><img src="/images/EducationPortalLogo.gif" alt="People who searched for Our Privacy Policy  found the following information  relevant and useful."></a>
 
 	
-			<p class="phraseDescription">&nbsp;</p>
+			<p class="phraseDescription">People who searched for Our Privacy Policy  found the following information  relevant and useful.</p>
 		
 
 	<div id="mainNav">
@@ -119,6 +141,7 @@
 		
 		
 		
+		
 
 		<!--<li class="spacer">&nbsp;</li>-->
 		<li class="firstTab"><a href="/index.html">Home</a></li>
@@ -127,7 +150,7 @@
 		<li><a href="/article_directory/Glossary_of_Bachelor%27s_Degree_Programs.html">Bachelor Degrees</a></li>
 		<li><a href="/article_directory/Glossary_of_Master%27s_Degree_Programs.html">Master Degrees</a></li>
 		<li><a href="/search/find.html">Search</a></li>
-		<!--<li id="current"><a href="/help_center/Job_And_Career_Center.html">Job &amp; Career Center</a></li>-->
+		<li><a href="/resource_center/Job_And_Career_Center.html">Job &amp; Career Center</a></li>
 	</ul>
 
 	
@@ -138,85 +161,131 @@
 
 <div id="aboveTabContainer">
 	<div id="timestamp">
-		December 18, 2006
+		May 23, 2007
 	</div>
 
-	<div id="breadCrumb">
-		
-		&nbsp;
-	</div>
-</div>
-
-<div id="main1">
-	<div id="main2">
-
-		
-
-			<div id="underTabContainer"></div>
-			<div id="topLeftHeaderChicklet">
-				
-						
-
-
-
-
-
-<div class="chicklet">
-	<h1>Top Online Schools</h1>
-	<div class="chickletBody">
-		<table>
-			<tbody><tr>
-				<td valign="top">
-					
-						<h3><a href="/exit/?caid=658">DeVry University Online</a></h3>
-					
-					
-						<h3><a href="/exit/?caid=487">Westwood Online</a></h3>
-					
-					
-						<h3><a href="/exit/?caid=298">South University</a></h3>
-					
-					
-				</td>
-				<td valign="top">
-					
-						<h3><a href="/exit/?caid=113">AIU Online</a></h3>
-					
-					
-						<h3><a href="/exit/?caid=348">Walden University Online</a></h3>
-					
-					
-					
-					
-						<h3><a href="/exit/?caid=313">Jones International University</a></h3>
-					
-					
-						<h3><a href="/exit/?caid=668">University of Phoenix Online</a></h3>
-					
-				</td>
-			</tr>
-		</tbody></table>
-	</div>
-</div>
-					
-			</div>
-
-			<div id="topRightHeaderChicklet">
-				
-						
-
-
-
-
-
-
-		
+	
 	
 
-<div class="chicklet">
-	<h1>Search For Schools</h1>
+
+
+
+
+<div class="breadCrumb">
+	
+	&nbsp;
+</div>
+</div>
+
+
+			<div id="underTabContainer"></div>
+		
+
+		
+
+			<div id="headerChicklet" class="chicklet">
+				<h1>Search for Degrees, Careers &amp; Schools</h1>
+				
+
+
+
+
+
+<div id="topLeftHeaderChicklet" class="chicklet">
 	<div class="chickletBody">
-		<form action="/search/find.html" method="get" id="topSearchForm" name="topSearchForm" onsubmit="javascript:resetStateAndOnlineIfZipAndSubmit(document.topSearchForm);">
+		
+
+
+
+
+
+
+
+<div class="textSearchForm">
+	<form action="/search/quicksearch.html" method="POST" id="textSearchForm" name="textSearchForm" onsubmit="this.submitText.disabled = true;">
+		<input type="text" size="40" maxlength="100" name="q" id="textSearchBox" value="What are you looking for? Type it here..." tabindex="1" onfocus="fieldOnFocus(this, 'What are you looking for? Type it here...');" onblur="fieldOnBlur(this, 'What are you looking for? Type it here...');">
+		<input type="button" name="submitText" id="submitText" value="Search" onclick="disableButtonAndSubmit(document.textSearchForm, this)">
+	</form>
+</div>
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+				
+
+				
+						<h3 style="margin-top: 9px; margin-bottom: 0;">Top Schools:</h3>
+					
+
+				
+
+				
+				
+
+				
+				
+						
+					
+
+				
+
+				
+						
+						
+						
+					
+
+				
+				
+					
+					
+				
+				
+
+				
+				
+
+				
+
+				<table cellpadding="0" cellspacing="0" border="0" width="99%">
+					<tbody><tr>
+						
+								<td valign="top" width="50%">
+									
+										<h3><a href="/exit/?caid=658">DeVry University Online</a></h3>
+									
+								</td>
+								<td valign="top" width="50%">
+									
+										<h3><a href="/exit/?caid=668">University of Phoenix</a></h3>
+									
+								</td>
+							
+					</tr>
+				</tbody></table>
+			
+	</div>
+	<div id="searchOr">OR</div>
+</div>				
+				
+
+
+
+
+
+<div id="topRightHeaderChicklet" class="chicklet">
+	<div class="chickletBody">
+		<form action="/search/find.html" method="get" id="topSearchForm" name="topSearchForm" onsubmit="prepareForSubmit(document.topSearchForm, this.searchButton);">
 			<table>
 				<tbody><tr>
 					<td valign="top">
@@ -623,20 +692,22 @@
 						
 								
 							
-						<input type="text" class="searchZip" name="zip" id="topZip" maxlength="5" size="5" value="zip" onclick="javascript:clearZipIfNotEntered(document.topSearchForm)">
-						<input type="submit" class="search" name="searchButton" value="Go">
-						<input type="checkbox" class="checkbox" name="online" id="topOnline" value="true" onclick="javascript:resetStateAndZipAndSubmit(document.topSearchForm);"> <span class="small">Online Schools</span>
+						<input type="hidden" name="sf" value="1">
+						<input type="text" class="searchZip" name="zip" id="topZip" maxlength="5" size="5" value="zip" onfocus="fieldOnFocus(this, 'zip');" onblur="fieldOnBlur(this, 'zip');">
+						<input type="button" class="search" name="searchButton" id="topSearchButton" value="Go" onclick="prepareForSubmit(document.topSearchForm, this); document.topSearchForm.submit();">
+						<input type="checkbox" class="checkbox" name="online" id="topOnline" value="true" onclick="javascript:resetStateAndZipAndSubmit(document.topSearchForm);"><label for="topOnline"> <span class="small">Online Schools</span></label>
 					</td>
 				</tr>
 			</tbody></table>
 		</form>
 	</div>
 </div>
-					
 			</div>
 
 		
 
+<div id="main1">
+	<div id="main2">
 		<div id="left">
 			
 					
@@ -651,8 +722,34 @@
 
 
 
+
+		
+		
+	
+
+
+
+
+
 <div class="chicklet">
-	<h1>Browse by State</h1>
+	<h1>Related Searches</h1>
+
+	<div class="chickletBody">
+		<ul>
+			
+					<li><a href="/Florida_Colleges.html">Florida Colleges</a></li>
+					<li><a href="/texas_universities.html">texas universities</a></li>
+					<li><a href="/Architecture_Schools.html">Architecture Schools</a></li>
+					<li><a href="/Dental_Hygiene_Schools.html">Dental Hygiene Schools</a></li>
+					<li><a href="/masters_programs.html">masters programs</a></li>
+					<li><a href="/online_certificates.html">online certificates</a></li>
+				
+		</ul>
+	</div>
+</div>
+
+<div class="chicklet">
+	<h1>Schools by State</h1>
 
 	<div class="chickletBody">
 		<ul>
@@ -765,23 +862,6 @@
 	</div>
 </div>
 
-<div class="chicklet">
-	<h1>Related Searches</h1>
-
-	<div class="chickletBody">
-		<ul>
-			
-					<li><a href="/Florida_Colleges.html">Florida Colleges</a></li>
-					<li><a href="/texas_universities.html">texas universities</a></li>
-					<li><a href="/Architecture_Schools.html">Architecture Schools</a></li>
-					<li><a href="/Dental_Hygiene_Schools.html">Dental Hygiene Schools</a></li>
-					<li><a href="/masters_programs.html">masters programs</a></li>
-					<li><a href="/online_certificates.html">online certificates</a></li>
-				
-		</ul>
-	</div>
-</div>
-
 
 
 				
@@ -802,31 +882,55 @@
 
 
 <div class="chicklet">
-	<h1><a href="/directory/degree_type/index.html">Browse by Degree</a></h1>
+	<h1><a href="/directory/degree_type/index.html">Research Programs</a></h1>
 
 	<div class="bulletChickletBody">
-		<ul>
-			
-				<li><a href="/directory/degree_type/Graduate.html">Graduate Programs</a></li>
-			
-				<li><a href="/directory/degree_type/Non-Degree.html">Non-Degree Programs</a></li>
-			
-				<li><a href="/directory/degree_type/Undergraduate.html">Undergraduate Programs</a></li>
-			
-			<li><a href="/pages/Online_High_Schools.html">High School Diploma</a></li>
-			<li><a href="/article_directory/Articles_about_HIgh_School_Diplomas_%28General%29.html">Online Diploma
-				Programs</a></li>
-			<li><a href="/article_directory/Glossary_of_Online_Undergraduate_Degrees_%28Online_Degrees%29.html">Online
-				Undergrad Degrees</a></li>
-			<li><a href="/article_directory/Glossary_of_Online_Graduate_Degrees_%28Online_Degrees%29.html">Online Graduate
-				Degrees</a></li>
-
+		<ul>			
+			<li><a href="/article_directory/Articles_about_Adult_Education.html">Adult Education</a></li>
+			<li><a href="/article_directory/Glossary_of_Career_Education_Programs.html">Career Education</a></li>
+			<li><a href="/article_directory/Glossary_of_Certificate_Programs.html">Certificate Programs</a></li>
+			<li><a href="/article_directory/Articles_about_the_GED_%28General%29.html">GED Programs</a></li>
+			<li><a href="/article_directory/Articles_about_HIgh_School_Diplomas_%28General%29.html">High School Diplomas</a></li>
+			<li><a href="/article_directory/Glossary_of_Online_Diploma_Programs_%28Online_Diplomas%29.html">Online Diplomas</a></li>
+			<li><a href="/article_directory/Glossary_of_Online_Undergraduate_Degrees_%28Online_Degrees%29.html">Online Degrees</a></li>
+			<li><a href="/article_directory/Glossary_of_Online_Graduate_Degrees_%28Online_Degrees%29.html">Online Graduate	Degrees</a></li>
 		</ul>
 	</div>
 </div>
 
 <div class="chicklet">
-	<h1><a href="/directory/category/index.html">Browse by Subject</a></h1>
+	<h1><a href="/directory/degree_type/index.html">Schools by Degree Level</a></h1>
+
+	<div class="bulletChickletBody">
+		<ul>
+			
+				
+				
+						
+					
+				<li><a href="/directory/degree_type/Graduate.html">Graduate Schools</a></li>
+			
+				
+				
+						
+					
+				<li><a href="/directory/degree_type/Non-Degree.html">Certificate Schools</a></li>
+			
+				
+				
+						
+					
+				<li><a href="/directory/degree_type/Undergraduate.html">Undergraduate Schools</a></li>
+			
+			<li><a href="/pages/Online_High_Schools.html">Online High Schools</a></li>
+		</ul>
+	</div>
+</div>
+
+
+
+<div class="chicklet">
+	<h1><a href="/directory/category/index.html">Schools by Subject</a></h1>
 
 	<div class="chickletBody">
 		<ul>
@@ -914,7 +1018,7 @@
 </div>
 
 <div class="chicklet">
-	<h1>Recent Page Views</h1>
+	<h1>Recent Searches</h1>
 
 	<div class="chickletBody">
 		<ul>
@@ -923,34 +1027,34 @@
 
 			
 				
-				<li><a href="/athletic_trainer_schools.html">athletic trainer schools</a></li>
+				<li><a href="/corrections_degree_in_denver.html">corrections degree in denver</a></li>
 			
 				
-				<li><a href="/cpr_first_aid_training.html">cpr first aid training</a></li>
+				<li><a href="/pharmacy_schools_california.html">pharmacy schools california</a></li>
 			
 				
-				<li><a href="/nova_phd.html">nova phd</a></li>
+				<li><a href="/massage_therapy_degrees_in_bakersfield.html">massage therapy degrees in bakersfield</a></li>
 			
 				
-				<li><a href="/real_estate_classes_in_nj.html">real estate classes in nj</a></li>
+				<li><a href="/repair_technology_career.html">repair technology career</a></li>
 			
 				
-				<li><a href="/brooklyn_edu.html">brooklyn edu</a></li>
+				<li><a href="/pr_colleges.html">pr colleges</a></li>
 			
 				
-				<li><a href="/nursing_home_administrator_training.html">nursing home administrator training</a></li>
+				<li><a href="/culinary_courses_in_oregon.html">culinary courses in oregon</a></li>
 			
 				
-				<li><a href="/schools_in_nashville.html">schools in nashville</a></li>
+				<li><a href="/hospitality_management_certificate_programs_in_orlando.html">hospitality management certificate programs in orlando</a></li>
 			
 				
-				<li><a href="/certified_meeting_planner.html">certified meeting planner</a></li>
+				<li><a href="/educational_leadership_diploma_programs_in_tennessee.html">educational leadership diploma programs in tennessee</a></li>
 			
 				
-				<li><a href="/kinesiology_major.html">kinesiology major</a></li>
+				<li><a href="/emt_training_in_dallas_texas.html">emt training in dallas texas</a></li>
 			
 				
-				<li><a href="/certified_nurse%27s_aide.html">certified nurse's aide</a></li>
+				<li><a href="/telecommunications_engineering_schools.html">telecommunications engineering schools</a></li>
 			
 			
 		</ul>
@@ -980,51 +1084,40 @@
 
 <div id="privacyPolicy">
 	<h3>Education-Portal.com Privacy Policy</h3>
-	<p>
-		We respect your privacy and will protect it by all means possible.
-		Education-Portal.com would like to show our commitment to protecting your
-		privacy through this privacy statement.
-	</p>
 
+	<p>
+		We have created this privacy statement to disclose our information gathering practices and demonstrate our
+		commitment to your privacy.
+	</p>
 
 	<h3>Information Collection and Use</h3>
-	<p>
-		Education-Portal.com does not ask for or collect personal,
-		individually-identifiable information from anyone who visits the site.
-		If any visitor to the site chooses to provide us with personal information, as in an email
-		inquiry, we do not require it.  The only time giving personal information will be required
-		is if you want a response to your message. This information will not be used for any purpose
-		other than to respond to the inquiry. We do not create individual profiles from the information
-		provided or distribute the information to third parties.
-	</p>
 
-	<h3>Activity Log</h3>
 	<p>
-		Your activity within Education-Portal.com will be automatically logged
-		by the server to record site activity and analyze problems. We cannot distinguish personal
-		information from this data.
-	</p>
-
-	<h3>Cookies</h3>
-	<p>
-		Our web site does not collect personal information through cookies.
+		Requesting information from one of our schools requires you to submit a form that includes personally identifiable
+		information such as name, phone number, address, and email address. The information you provide on our site will
+		only be shared with the school you are requesting information from and/or that school’s authorized agent. We will
+		not sell or share your information with any other third parties.
 	</p>
 
 	<h3>Links to Other Sites</h3>
+
 	<p>
-		This web site contains links to other web sites. While every effort is made to only link
-		to quality, ethical sites, Education-Portal.com bears no responsibility for
-		their information collection policies or any content that may be displayed on them. If you
-		notice any website listed in this directory to be displaying inappropriate content, please
-		<script type="text/javascript">
-			<!--
-			var contact = "contact"
-			var email = "moreinformation"
-			var emailHost = "Education-Portal.com"
-			document.write("<a href=" + "mail" + "to:" + email + "@" + emailHost+ ">" + contact + "<\/a>")
-			//-->
-		</script><a href="mailto:moreinformation@Education-Portal.com">contact</a>
-		our webmaster immediately.
+		Education-Portal.com links to other sites and some of these sites may contain their own forms and have their own
+		information gathering and dissemination practices. While efforts are made to only link to responsible sites,
+		please be aware that we are not responsible for any of their privacy practices or actions.
+	</p>
+
+	<h3>Cookies</h3>
+
+	<p>
+		Education-Portal.com does not collect personal information through cookies.
+	</p>
+
+	<h3>Activity Log</h3>
+
+	<p>
+		Your activity within Education-Portal.com will be automatically logged by the server to record site activity and
+		analyze problems. We cannot distinguish personal information from this data.
 	</p>
 
 	<p>
@@ -1034,9 +1127,10 @@
 			var contact = "contact us"
 			var email = "moreinformation"
 			var emailHost = "Education-Portal.com"
-			document.write("<a href=" + "mail" + "to:" + email + "@" + emailHost+ ">" + contact + "<\/a>")
+			document.write("<a href=" + "mail" + "to:" + email + "@" + emailHost + ">" + contact + "<\/a>")
 			//-->
-		</script><a href="mailto:moreinformation@Education-Portal.com">contact us</a>.
+		</script><a href="mailto:moreinformation@Education-Portal.com">contact us</a>
+		.
 	</p>
 
 </div>
@@ -1065,7 +1159,7 @@
 					<a href="/directory/category/index.html">Subject Categories</a>
 					<a href="/directory/degree_type/index.html">Degree Types</a>
 					<a href="/helpful_links/index.html">Resource Directory</a>
-					<!--<a href="/resource_center/Job_And_Career_Center.html">Job &amp; Career Center</a>-->
+					<a href="/resource_center/Job_And_Career_Center.html">Job &amp; Career Center</a>
 				</p>
 				
 
@@ -1078,8 +1172,8 @@
 
 
 <div id="copyAndContact">
-	© copyright 2003-2006 |  all rights reserved | <a href="/pages/privacy_policy.html">Privacy Policy</a> |
-	<a href="/pages/link_to_us.html">Link To Us</a> |
+	© copyright 2003-2007 |  all rights reserved | <a href="/pages/privacy_policy.html">Privacy Policy</a> |
+	<a href="/pages/link_to_us.html">Link To Us</a> | <a href="/pages/About_Us.html">About us</a> |
 	<script type="text/javascript">
 		<!--
 		var contact = "Contact Us"
