@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partstree.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021072111id_/http%3A//www.partstree.com/resources/%3Fc%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partstree.com privacy policy that was archived on 2007-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070523085951id_/http%3A//www.partstree.com/resources/%3Fc%3Dprivacy) for the most accurate reproduction.*
 
 # PartsTree.com Resources
 
@@ -77,6 +77,6 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 ### How to Contact Us
 
-Should you have other questions or concerns about these privacy policies, please call us at 512-288-4355.  
+Should you have other questions or concerns about these privacy policies, please call us at 512-288-4282.  
   
 ---|---
