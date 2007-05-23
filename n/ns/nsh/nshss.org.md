@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nshss.org privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213154918id_/http%3A//nshss.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nshss.org privacy policy that was archived on 2007-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070523102534id_/http%3A//nshss.org/privacy.asp) for the most accurate reproduction.*
 
 # The National Society of High School Scholars
 
@@ -8,10 +8,10 @@ This is the web site of **The National Society of High School Scholars**.
 
 
 Our postal address is   
-**115 National Headquarters**
+**National Headquarters**
 
-**2531 Briarcliff Road  
-Atlanta, Georgia  30329**
+**1936 North Druid Hills Road  
+Atlanta, Georgia  30319**
 
 We can be reached via e-mail at [ webmaster@nshss.org](mailto:webmaster@nshss.org)  
 or you can reach us by telephone at 866-343-1800  
