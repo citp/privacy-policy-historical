@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scitrav.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205211504id_/http%3A//www.scitrav.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scitrav.com privacy policy that was archived on 2007-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070523093823id_/http%3A//www.scitrav.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Science Traveller International
 
@@ -29,11 +29,11 @@ STI is strongly committed to protecting any personal information that you provid
 **On-line ordering**  
 
 
-When purchasing or exchanging sensitive information on-line, security is a primary concern. To safeguard information such as credit card details and account passwords, our web site provides encrypted forms (https:// protocol) using VeriSign SSL certification. The VeriSign certification lets you authenticate our site's identity, and safeguards your order transactions with powerful encryption. 
+When purchasing or exchanging sensitive information on-line, security is a primary concern. To safeguard information such as credit card details and account passwords, our web site provides encrypted forms (https:// protocol) using xxx SSL certification. The xxx certification lets you authenticate our site's identity, and safeguards your order transactions with powerful encryption. 
 
 We use [LinkPoint](http://www.linkpoint.com/), a leading provider of Internet payment technologies, to verify and process credit cards. All transactions with LinkPoint are safe and secure, and cannot be read by third parties. We do NOT keep a copy of your credit card number. 
 
-|  [ ](https://seal.verisign.com/splash?form_file=fdf/splash.fdf&type=GOLD&sealid=2&dn=WWW.SCITRAV.COM&lang=en)  
+|   
 ---|---  
   
 **Security**  
