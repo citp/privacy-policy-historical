@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saiglobal.com privacy policy that was archived on 2006-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061022170124id_/http%3A//www.saiglobal.com/corporate/policies/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saiglobal.com privacy policy that was archived on 2007-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070523212315id_/http%3A//www.saiglobal.com/corporate/policies/privacypolicy.htm) for the most accurate reproduction.*
 
 # SAI Global Privacy Policy and Statement
 
