@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the eway.com.au privacy policy that was archived on 2006-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061121023807id_/http%3A//www.eway.com.au/About/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eway.com.au privacy policy that was archived on 2007-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070523190609id_/http%3A//eway.com.au/About/privacy.aspx) for the most accurate reproduction.*
 
 # eWAY - Australia's Leading Payment Gateway
 
 **[](http://www.truste.org/ivalidate.php?url=www.eway.com.au&sealid=101)**
 
-**Last Updated:** 9th January 2006 
+**Last Updated:** 23rd February 2007 
 
 **eWAY** is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [http://www.eway.com.au](http://www.eway.com.au/). Because this Website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
@@ -12,7 +12,13 @@ If you have questions or concerns regarding this statement, you should first con
 
 The TRUSTe program covers only information that is collected through this Website, and does not cover information that may be collected through software downloaded from this site.
 
-In order to use the **eWAY** Payment Gateway ( **eWAY** ), we require information relating to your Internet Merchant Facility (including your Merchant Number, Terminal ID and/or Settlement Account, depending on your merchant bank), Company Details, Contact Details, and Payment Details. 
+In order to use the **eWAY** Payment Gateway ( **eWAY** ), we require information relating to your Internet Merchant Facility (including your Merchant Number, Terminal ID and/or Settlement Account, depending on your merchant bank), Company Details, Contact Details, and Payment Details.
+
+Company details may include your company name, website, email address, type of business and ABN.
+
+Contact details may include your name, email address, telephone number and address.
+
+Payment details may include credit card details and/or direct debit details. 
 
 All correspondence may also be collected and stored, particularly in regard to sales, support and accounts, including Email. 
 
@@ -30,7 +36,7 @@ We use cookies in the following ways:
 
 When you register for any of **eWAY** 's services, we use cookies to make it easier for you to navigate through and complete the registration form. 
 
-When you login to the **eWAY**[Administration area](https://web.archive.org/web/20061121023807id_/http%3A//www.eway.com.au/login/default.aspx), we use cookies to easily authorize your credentials as you navigate through our secure pages. 
+When you login to the **eWAY**[Administration area](https://web.archive.org/web/20070523190609id_/http%3A//eway.com.au/login/default.aspx), we use cookies to easily authorize your credentials as you navigate through our secure pages. 
 
 If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as our administration area, may be limited. 
 
@@ -46,29 +52,35 @@ If you purchase a product or service from us, we request certain personally iden
 
 We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you.
 
-**eWAY** uses personally identifiable information for essential communications, such as confirmation Emails, accounts information, and critical service details. We may also use this information for other purposes, including some promotional Emails. 
-
-If you do not wish to be included in our promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [support@eway.com.au](mailto:support@eway.com.au). 
+**eWAY** uses personally identifiable information for essential communications, such as confirmation Emails, accounts information, and critical service details. We may also use this information for other purposes, including some promotional Emails.  If at any time a customer wishes not to recevice such correspondence, they can request to be removed from any mailing lists by emailing us at [support@eway.com.au](mailto:) 
 
 You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
 
-We use other third parties to provide credit card payment gateway services on our site. When you sign up for **eWAY** , we will share your Internet Merchant Account details as necessary for the third party to provide that service. 
+We use other third parties to provide the essential links between the merchants, the banks and ourselves in order to provide credit card payment gateway services on our site. When you sign up for **eWAY** , we will share your Internet Merchant Account details as necessary for the third party to provide that service. 
 
 These third parties are prohibited from using your personally identifiable information for any other purpose. 
 
 **eWAY** does not share any information with third parties for any unknown or unrelated uses.
 
+**eWAY** is a member of clixGalore, an affiliate program run by a third party on behalf of **eWAY**.  Affiliates that join this program receive monetary compensation for any new eWAY merchants that they refer.  Any information collected by these affiliates or clixGalore is outside the scope of this privacy policy.  Please refer to [ clixGalore](http://www.clixgalore.com/privacy.asp) for more information regarding their own privacy policy.
+
 If you use the **eWAY** forum on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
 
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Website.
+
+We post customer testimonials on our web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial. If at any time the customer feels that they no longer wish to have their testimonial posted on the site they can request for it to be removed by emailing us at [ support@eway.com.au](mailto:).
+
+**eWAY** provides free-of-charge a directory for associated partners to join.  This is a process initiated and completed entirely by the partner, with all information submitted by the partner.  If at any time the partner feels that they no longer wish to be a part of this directory they can request to be removed by emailing us at [support@eway.com.au](mailto:).
+
+There are many links on the **eWAY** site to external entities. The terms and conditions set out in this privacy statement only covers the domain name of www.eway.com.au.
 
 The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). 
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
 
-If you have any questions about security on our Website, you can send Email us at [support@eway.com.au](mailto:support@eway.com.au). 
+If you have any questions about security on our Website, you can email us at [support@eway.com.au](mailto:support@eway.com.au). 
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on the You Profile page in the **eWAY** Administration Area or by emailing our Customer Support at support@eway.com.au or by contacting us by telephone or postal mail at the contact information listed below.
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on the You Profile page in the **eWAY** Administration Area or by emailing our Customer Support at [support@eway.com.au](mailto:) or by contacting us by telephone or postal mail at the contact information listed below.
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by Email, or by means of a notice on our homepage.  
  
