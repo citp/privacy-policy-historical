@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestjobs.co.za privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205231149id_/http%3A//www.bestjobs.co.za/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestjobs.co.za privacy policy that was archived on 2007-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070523235248id_/http%3A//www.bestjobs.co.za/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy :: Best Jobs South Africa
 
@@ -62,7 +62,7 @@ When registering your CV, we will ask you to give us your email address. This em
 
 Making your CV searchable considerably increases your exposure to potential employers. To prevent your CV from being searched and viewed by our clients you can choose to remove it from our database at any time, by using our on-line form. After removing your CV from our database, no copy of your details will be kept in any of our systems, and you can be sure they have been completely deleted and no further access will be possible from anyone, including us.
 
-We make an effort to limit access to our CV services only to employers or recruiters wishing to find employees. If any company is found to be using our CV services for something different to this, then we will immediately terminate their use of our services.
+We make an effort to limit access to our CV services only to employers or recruiters wishing to find employees. If any business is found to be using our CV services for something different to this, then we will immediately terminate their use of our services.
 
 Although you may remove your CV from our searchable database at any time, companies who have had access to the database may have retained a copy of your CV in their own files or databases. We are not responsible for the retention, use, or privacy of your CV by companies in these instances.
 
