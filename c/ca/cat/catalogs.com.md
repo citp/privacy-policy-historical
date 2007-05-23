@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catalogs.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218021311id_/http%3A//www.catalogs.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catalogs.com privacy policy that was archived on 2007-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070523062404id_/http%3A//www.catalogs.com/privacy.asp) for the most accurate reproduction.*
 
 # Catalogs.com Privacy Policy
 
@@ -16,7 +16,7 @@ When you order a catalog, newsletter, magazine or savings certificate through ou
 
 Our website provides you with the opportunity to decline or “opt-out” of receiving information on new products, services, special offers and upcoming events from Catalogs.com.  To opt-out, please visit the following URL: 
 
-[ http://www.catalogs.com/unsubscribe.asp](https://web.archive.org/web/20061218021311id_/http%3A//www.catalogs.com/unsubscribe.asp)
+[ http://www.catalogs.com/unsubscribe.asp](https://web.archive.org/web/20070523062404id_/http%3A//www.catalogs.com/unsubscribe.asp)
 
 **_How Do You Use My Customer Information?_**
 
