@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wsmv.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213205954id_/http%3A//www.wsmv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsmv.com privacy policy that was archived on 2007-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070524200528id_/http%3A//www.wsmv.com/privacy) for the most accurate reproduction.*
 
-# wsmv.com - Channel 4 News, Sports, Weather, Nashville, Tenn - Privacy
+# WSMV.com - Privacy
 
 Internet Broadcasting Systems and its affiliates ("IBS") have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.WSMV.com](http://www.wsmv.com/). This privacy policy applies only to information collected by or through this website. It does not apply to information obtained by other means.
 
