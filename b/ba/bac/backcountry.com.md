@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the backcountry.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230193155id_/http%3A//www.backcountry.com/store/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backcountry.com privacy policy that was archived on 2007-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070524101429id_/http%3A//www.backcountry.com/store/privacy.html) for the most accurate reproduction.*
 
-# Backcountry.com | Privacy Policy
+# Backcountry.com | Privacy Policy from Backcountry.com
 
 Your Personal Information  
 Backcountry.com will not sell, loan, rent, lease, barter or publish your personal information to a third party. All data that we keep on you is kept strictly for Backcountry.com business use to assist you in your current or future purchases or in analyzing sales trends. No customer data is stored on servers that are accessible to the Internet. All data is downloaded and deleted from our Web server many times a day. 
