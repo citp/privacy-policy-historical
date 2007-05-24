@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the semtech.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615114941id_/http%3A//semtech.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the semtech.com privacy policy that was archived on 2007-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070525010331id_/http%3A//www.semtech.com/privacy.jsp) for the most accurate reproduction.*
 
-# Semtech - Website Privacy Policy
+# Website Privacy Policy
 
 Your right to privacy is important to Semtech Corporation ("Semtech," "us" or "we"). This policy explains how we intend to handle any personal information we obtain from you through this or any other website we operate. Personal information is (1) information that enables us to identify you, including your name, address, telephone and facsimile numbers and email address, and (2) other information you provide such as your customer, subcontractor, project or program, design freeze date, or resume data.
 
