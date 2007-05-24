@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vcricket.com privacy policy that was archived on 2006-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060908233344id_/http%3A//vcricket.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vcricket.com privacy policy that was archived on 2007-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070524191217id_/http%3A//vcricket.com/privacy.aspx) for the most accurate reproduction.*
 
 # vCricket.com - Fastest Live Cricket Score Update with Free Cricket Score Syndication and Cricket News.
 
