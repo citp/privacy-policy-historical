@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameservers.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205224253id_/http%3A//www.gameservers.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameservers.com privacy policy that was archived on 2007-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070524234320id_/http%3A//www.gameservers.com/legal/privacy.php) for the most accurate reproduction.*
 
 # GameServers.com : Privacy Policy
 
@@ -14,7 +14,7 @@ Last Updated: ___5/01/2006___
 
 **** A. The operative parties referred to in this policy are COMPANY and you, the user of this site.
 
-1\. ClanServers Hosting, LLC, is the publisher and operator of the web site [www.GameServers.com](http://www.gameservers.com/). Hereinafter referred to as “COMPANY”. When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring to ClanServers Hosting, LLC. d/b/a [www.GameServers.com](http://www.myniteshift.com/). Additionally, when the terms “The SITE” or “SITE” are used, these terms refer to [www.GameServers.com](http://www.myniteshift.com/).
+1\. ClanServers Hosting, LLC, is the publisher and operator of the web site [www.GameServers.com](http://www.gameservers.com/). Hereinafter referred to as “COMPANY”. When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring to ClanServers Hosting, LLC. d/b/a [www.GameServers.com](http://www.gameservers.com/). Additionally, when the terms “The SITE” or “SITE” are used, these terms refer to [www.GameServers.com](http://www.gameservers.com/).
 
 2\. **You, the User** – As the user of this site, this policy will refer to the user as “you” or through any second-person pronouns, such as “yours,” etc. Hereinafter, the user of the site shall be referred to in applicable second-person pronouns.
 
@@ -24,7 +24,7 @@ B. This Privacy Policy describes how we use information received about you when 
 
 
 
-****The Children’s Online Privacy Protection Act applies to the online collection of personal information from children under the age of 13. GameServers.com does not collect any personal information about children under the age of 13. Children under the age of 13 are not authorized to access or use our services without the direct involvement of a parent or legal guardian. Personal information about the parent or legal guardian may be collected in accordance with this privacy policy. Any personal information about children under the age of 13 that is inadvertently collected will be purged immediately upon discovery of such information. If you have reason to believe that any personal information about children under the age of 13 has been transmitted to us, immediately send an e-mail to[COPPA@GameServers.com](mailto:COPPA@gameservers.com) reporting this transmittal of information. We will endeavor to purge any such information as soon as possible. If you are a parent or legal guardian of a child under the age of 13 and you have reason to believe that your child has accessed our site in violation of our policies, you should also contact us at [COPPA@GameServers.com](mailto:coppa@clanservers.com) so that we may audit our records in order to remove your child or protectee’s personal information from our records.
+****The Children’s Online Privacy Protection Act applies to the online collection of personal information from children under the age of 13. GameServers.com does not collect any personal information about children under the age of 13. Children under the age of 13 are not authorized to access or use our services without the direct involvement of a parent or legal guardian. Personal information about the parent or legal guardian may be collected in accordance with this privacy policy. Any personal information about children under the age of 13 that is inadvertently collected will be purged immediately upon discovery of such information. If you have reason to believe that any personal information about children under the age of 13 has been transmitted to us, immediately send an e-mail to[COPPA@GameServers.com](mailto:COPPA@gameservers.com) reporting this transmittal of information. We will endeavor to purge any such information as soon as possible. If you are a parent or legal guardian of a child under the age of 13 and you have reason to believe that your child has accessed our site in violation of our policies, you should also contact us at [COPPA@GameServers.com](mailto:coppa@gameservers.com) so that we may audit our records in order to remove your child or protectee’s personal information from our records.
 
 **II. Revisions to this Policy**
 
@@ -70,7 +70,7 @@ It is our policy not to use or share the personal information about Visitors or 
 
 **VI.** **Transmittals from Us**
 
-We may send you periodic announcements including the details of our existing and new programs. You may opt out of these announcements by contacting [remove@](mailto:remove@myniteshift.com)game servers.com or by clicking the opt-out link at the bottom of these emails. If you opt out of these marketing emails, you may still receive system notices and other information that is specifically related to your account.
+We may send you periodic announcements including the details of our existing and new programs. You may opt out of these announcements by contacting [remove@gameservers.com](mailto:remove@gameservers.com) or by clicking the opt-out link at the bottom of these emails. If you opt out of these marketing emails, you may still receive system notices and other information that is specifically related to your account.
 
 If you provide your information to us, use the Site, or subscribe to any of our services, you will have created a commercial relationship with us. In having done so, you understand that even unsolicited commercial email sent from us or our affiliates is not SPAM as that term is defined under the law.
 
@@ -88,8 +88,8 @@ We take measures, including data encryption, to protect the transmission of all 
 
 **VII.** **How to Access or Modify Your Information**.
 
-We offer our Members the opportunity to access or modify information provided during registration. To access or modify such information, contact our Customer Service Department at at http://www.GameServers.com/contact_us/.
+We offer our Members the opportunity to access or modify information provided during registration. To access or modify such information, contact our Customer Service Department at at [http://www.GameServers.com/contact/](http://www.gameservers.com/contact/).
 
 **VIII.** **Where to Direct Questions About Our Privacy Policy**.
 
-If you have any questions about this Privacy Policy or the practices described herein, you may contact us at http://www.GameServers.com/contact_us/.
+If you have any questions about this Privacy Policy or the practices described herein, you may contact us at [http://www.GameServers.com/contact/](http://www.gameservers.com/contact/).
