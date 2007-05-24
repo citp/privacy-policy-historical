@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skillsurvey.com privacy policy that was archived on 2006-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061029120031id_/http%3A//www.skillsurvey.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skillsurvey.com privacy policy that was archived on 2007-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070524100933id_/http%3A//www.skillsurvey.com/privacy.aspx) for the most accurate reproduction.*
 
-# Who We Are: Privacy Policy
+# SkillSurvey Privacy Policy : Your Solution For Online Pre-Employment Reference Checks
 
 ##  SkillSurvey Privacy Policy
 
@@ -43,6 +43,9 @@ We may provide aggregated data about the usage of our service to third-parties f
 
 It is possible that we may need to disclose personal information when required by law. We will disclose such information wherein we have a good-faith belief that it is necessary to comply with a court order, ongoing judicial proceeding, or other legal process served on our company or to exercise our legal rights or defend against legal claims. 
 
+**Referral Program**  
+When you use the SkillSurvey referral program (the "Referral Program"), we may ask you to provide information such as your email address and your friends' e-mail addresses. In return, you and your friends will be given the opportunity to register and become a member of SkillSurvey, and your friends will also be given the opportunity to make referrals to their friends. This feature helps us spread the word about SkillSurvey. During and after participation in the Referral Program you and/or your friends may receive additional communications from us or our vendors in relation to the Referral Program and you and/or your friends' participation in it. The data collected through the Referral Program is only used for the operation and ongoing maintenance of the Referral Program and will not be distributed to any third parties other than those SkillSurvey trusted partners that may be helping us in the operation and maintenance of the Referral Program. You and your friends may opt-out of participation in the Referral Program at any time via opt-out links in all communications made to you and your friends through the Referral Program or by sending an email to either friends_cs@SkillSurvey.com or friends_support@SkillSurvey.com. 
+
 **Website Security**  
 Special attention is appropriately given to website security and the overall security of all data storage, processing, and transmission systems. This website, and its use as a data conduit, is protected by:
 
@@ -59,8 +62,8 @@ If you have any questions about the privacy statement and other policies outline
 
 SkillSurvey, Inc.  
 Corporate Headquarters  
-940 West Valley Road, Suite 1901  
-Wayne, PA 19087  
+1055 Westlakes Drive, Suite 300  
+Berwyn, PA 19312  
 (610) 688-1364  
 Fax: (347) 438-3000
 
