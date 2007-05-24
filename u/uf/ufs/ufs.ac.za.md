@@ -1,7 +1,19 @@
-> *The following text is extracted and transformed from the ufs.ac.za privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212001520id_/http%3A//www.ufs.ac.za/faculties/content.php%3Fid%3D4304%26FCode%3D14) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ufs.ac.za privacy policy that was archived on 2007-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070524124419id_/http%3A//www.ufs.ac.za/faculties/content.php%3Fid%3D4304%26FCode%3D15%26DCode%3D411) for the most accurate reproduction.*
 
 # University of the Free State / Universiteit van die Vrystaat / Yunivesithi Ya Freistata
 
+|  |  |  |   
+---  
+| [Home](https://web.archive.org/index.php) |  | [Contact Us](https://web.archive.org/contact/contact.php) |  | [Site Map](https://web.archive.org/apps/sitemap.php)  
+|   
+---  
+|  |   
+---|---  
+|  |  |  |  [](https://web.archive.org/faculties/index.php?FCode=15&DCode=411&DivCode=0)  
+---|---  
+| Privacy Policy   
+---  
+  
 #### **Privacy Statement**
 
 Thank you for visiting the website of the University of the Free State (UFS). The privacy of individuals visiting our website is of the utmost importance to us. Please be sure to read this entire Privacy Statement before using or submitting information to this website. Please note that whenever you submit information via this website, you consent to the collection, use and disclosure of information in accordance with this Privacy Statement. This Privacy Statement only pertains to the official website of the UFS.
@@ -36,4 +48,9 @@ The UFS reserves the right to change, amend or update this policy periodically. 
 
 **Contact us**
 
-The UFS welcomes your comments and questions regarding this Privacy Statement, the practices of this website or your dealings with this website. You can contact the UFS webmaster at [webmaster@mail.uovs.ac.za](mailto:webmaster@mail.uovs.ac.za)
+The UFS welcomes your comments and questions regarding this Privacy Statement, the practices of this website or your dealings with this website. You can contact the UFS webmaster at [webmaster@mail.uovs.ac.za](mailto:webmaster@mail.uovs.ac.za)  
+  
+| Headlines  
+---  
+|  |   
+---|---
