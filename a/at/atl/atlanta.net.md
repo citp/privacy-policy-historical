@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlanta.net privacy policy that was archived on 2006-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061223003342id_/http%3A//atlanta.net/ACVB/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlanta.net privacy policy that was archived on 2007-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070524061541id_/http%3A//www.atlanta.net/ACVB/privacy.html) for the most accurate reproduction.*
 
 # Atlanta.net - The Official Travel Portal of Atlanta
 
