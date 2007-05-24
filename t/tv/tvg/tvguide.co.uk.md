@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvguide.co.uk privacy policy that was archived on 2005-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050415192921id_/http%3A//www.tvguide.co.uk/privacy.asp%3Fthistime%3D%26thisDay%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvguide.co.uk privacy policy that was archived on 2007-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070525003027id_/http%3A//tvguide.co.uk/privacy.asp%3Fthistime%3D%26thisDay%3D) for the most accurate reproduction.*
 
 # TVGuide.co.uk - Privacy Policy
 
