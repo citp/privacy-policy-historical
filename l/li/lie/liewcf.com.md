@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liewcf.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231001409id_/http%3A//www.liewcf.com/blog/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liewcf.com privacy policy that was archived on 2007-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070524210501id_/http%3A//www.liewcf.com/blog/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -16,4 +16,4 @@ If you choose to subscribe to our Mailing List then we will store your name and 
 
 2\. You can ask us to update or remove your personal information by sending an email through our contact form.
 
-3\. This privacy policy is applicable only to this Blog and does not apply to any other Blogs or websites to which we may be linked. 
+3\. This privacy policy is applicable only to this Blog and does not apply to any other Blogs or websites to which we may be linked.
