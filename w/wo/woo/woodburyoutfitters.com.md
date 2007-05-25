@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodburyoutfitters.com privacy policy that was archived on 2006-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060812071551id_/http%3A//www.woodburyoutfitters.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodburyoutfitters.com privacy policy that was archived on 2007-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070525040713id_/http%3A//www.woodburyoutfitters.com/privacy_statement.html) for the most accurate reproduction.*
 
 # Woodbury Outfitters :: Privacy Statement
 
