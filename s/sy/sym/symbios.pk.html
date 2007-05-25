@@ -1,0 +1,567 @@
+<!--The following is the downloaded HTML source of the symbios.pk privacy policy that was archived on 2007-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070526003802id_/http%3A//www.symbios.pk/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/templates.dwt" codeOutsideHTMLIsLocked="false" --><head>
+<!---JavaScript--->
+<style type="text/css">
+
+#dropmenudiv{
+	position:absolute;
+	margin-top:9px;
+	margin-left:-17px;
+	font:normal 10px Verdana;
+	z-index:100;
+	border-top: 1px solid #B1B1B1;
+	border-right: 1px solid #B1B1B1;
+	border-bottom: 0 solid #B1B1B1;
+	border-left: 1px solid #B1B1B1;
+}
+
+#dropmenudiv a{
+
+	color: #4B7490;
+	width: 160;
+	display: block;
+	text-indent: 3px;
+	border-bottom: 1px solid #BAABBE;
+	padding: 1px 0;
+	text-decoration: none;
+	}
+#dropmenudiv a:hover{
+	background:#D7D7D7;
+}
+
+</style>
+<script type="text/javascript">
+
+/***********************************************
+* AnyLink Drop Down Menu- © Dynamic Drive (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+//Contents for menu 1
+
+var menu1=new Array 
+menu1[0]='<a href="quran.html">Digital Quran</a>'
+menu1[1]='<a href="quranplayer.html">Quran Player</a>'
+menu1[2]='<a href="penquran.html">Pen Quran</a>'
+menu1[3]='<a href="tasbeeh.html">Digital Tasbeeh</a>'
+menu1[4]='<a href="otherproductsQuranic.html">Other</a>'
+
+//Contents for menu 2
+
+var menu2=new Array
+menu2[0]='<a href="insectskillers.html">Insect Killer</a>'
+menu2[1]='<a href="blender.htm">Blenders</a>'
+menu2[2]='<a href="emergencylight.html">Emergency Light</a>'
+menu2[3]='<a href="aircondition.html">Air Conditioners</a>'
+menu2[4]='<a href="healthcare.html">Health Care</a>'
+menu2[5]='<a href="foodmaker.html">Food Makers</a>'
+menu2[6]='<a href="cofeemaker.html">Cofee Maker</a>'
+
+//Contents for menu 3
+
+var menu3=new Array
+menu3[0]='<a href="bluetooth.html">Bluetooth Headset</a>'
+menu3[1]='<a href="mobilephones.html">Mobile Phones</a>'
+menu3[2]='<a href="sdcards.html">SD Card</a>'
+menu3[3]='<a href="minisd.html">Mini SD Cards</a>'
+menu3[4]='<a href="microsd.html">Micro SD Cards</a>'
+menu3[5]='<a href="mmc.html">MMC Cards</a>'
+
+//Contents for menu 4
+
+var menu4=new Array
+menu4[0]='<a href="laptops.html">Laptops</a>'
+menu4[1]='<a href="pda.html">PDA</a>'
+//Contents for menu 5
+
+var menu5=new Array
+menu5[0]='<a href="digitaldictionary.html">Digital Dictionary</a>'
+menu5[1]='<a href="fkeyboard.html">Flexible Keyboard</a>'
+menu5[2]='<a href="dynamo.html">Dynamo Torch</a>'
+menu5[3]='<a href="technicalcalculators.html">Technical Calculators</a>'
+menu5[4]='<a href="bloodpressure.html">Blood Pressure Meter</a>'
+menu5[5]='<a href="datacd.html">DATA CD</a>'
+menu5[6]='<a href="spy.html">Spy Gadgets</a>'
+menu5[7]='<a href="pabx.html">PABX Systems</a>'
+
+//Contents for menu 6
+
+var menu6=new Array
+menu6[0]='<a href="mp3.html">MP3 Players</a>'
+menu6[1]='<a href="mp4.html">MP4 Players</a>'
+menu6[2]='<a href="fmmodular.html">FM Modulator</a>'
+menu6[3]='<a href="usbflashmem.html">USB/Flash Memories</a>'
+
+
+
+var menuwidth='160px' //default menu width
+var menubgcolor='#EEEEEE' //menu bgcolor
+var disappeardelay=250 //menu disappear speed onMouseout (in miliseconds)
+var hidemenu_onclick="yes" //hide menu when user clicks within menu?
+
+/////No further editting needed
+
+var ie4=document.all
+var ns6=document.getElementById&&!document.all
+
+if (ie4||ns6)
+document.write('<div id="dropmenudiv" style="visibility:hidden;width:'+menuwidth+';background-color:'+menubgcolor+'" onMouseover="clearhidemenu();document.getElementById(\'product\').background=\'images/seperatoron.jpg\';" onMouseout="dynamichide(event)"></div>')
+
+function getposOffset(what, offsettype){
+var totaloffset=(offsettype=="center")? what.offsetLeft : what.offsetTop;
+var parentEl=what.offsetParent;
+while (parentEl!=null){
+totaloffset=(offsettype=="left")? totaloffset+parentEl.offsetLeft : totaloffset+parentEl.offsetTop;
+parentEl=parentEl.offsetParent;
+}
+return totaloffset;
+}
+
+
+function showhide(obj, e, visible, hidden, menuwidth){
+if (ie4||ns6)
+dropmenuobj.style.left=dropmenuobj.style.top=-500
+if (menuwidth!=""){
+dropmenuobj.widthobj=dropmenuobj.style
+dropmenuobj.widthobj.width=menuwidth
+}
+if (e.type=="click" && obj.visibility==hidden || e.type=="mouseover")
+obj.visibility=visible;
+else if (e.type=="click")
+obj.visibility=hidden
+}
+
+function iecompattest(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+function clearbrowseredge(obj, whichedge){
+var edgeoffset=0
+if (whichedge=="rightedge"){
+var windowedge=ie4 && !window.opera? iecompattest().scrollLeft+iecompattest().clientWidth-15 : window.pageXOffset+window.innerWidth-15
+dropmenuobj.contentmeasure=dropmenuobj.offsetWidth
+if (windowedge-dropmenuobj.x < dropmenuobj.contentmeasure)
+edgeoffset=dropmenuobj.contentmeasure-obj.offsetWidth
+}
+else{
+var topedge=ie4 && !window.opera? iecompattest().scrollTop : window.pageYOffset
+var windowedge=ie4 && !window.opera? iecompattest().scrollTop+iecompattest().clientHeight-15 : window.pageYOffset+window.innerHeight-18
+dropmenuobj.contentmeasure=dropmenuobj.offsetHeight
+if (windowedge-dropmenuobj.y < dropmenuobj.contentmeasure){ //move up?
+edgeoffset=dropmenuobj.contentmeasure+obj.offsetHeight
+if ((dropmenuobj.y-topedge)<dropmenuobj.contentmeasure) //up no good either?
+edgeoffset=dropmenuobj.y+obj.offsetHeight-topedge
+}
+}
+return edgeoffset
+}
+
+function populatemenu(what){
+if (ie4||ns6)
+dropmenuobj.innerHTML=what.join("")
+}
+
+
+function dropdownmenu(obj, e, menucontents, menuwidth){
+if (window.event) event.cancelBubble=true
+else if (e.stopPropagation) e.stopPropagation()
+clearhidemenu()
+dropmenuobj=document.getElementById? document.getElementById("dropmenudiv") : dropmenudiv
+populatemenu(menucontents)
+
+if (ie4||ns6){
+showhide(dropmenuobj.style, e, "visible", "hidden", menuwidth)
+dropmenuobj.x=getposOffset(obj, "left")
+dropmenuobj.y=getposOffset(obj, "top")
+dropmenuobj.style.left=dropmenuobj.x-clearbrowseredge(obj, "rightedge")+"px"
+dropmenuobj.style.top=dropmenuobj.y-clearbrowseredge(obj, "bottomedge")+obj.offsetHeight+"px"
+}
+
+return clickreturnvalue()
+}
+
+function clickreturnvalue(){
+if (ie4||ns6) return false
+else return true
+}
+
+function contains_ns6(a, b) {
+while (b.parentNode)
+if ((b = b.parentNode) == a)
+return true;
+return false;
+}
+
+function dynamichide(e){
+if (ie4&&!dropmenuobj.contains(e.toElement))
+delayhidemenu()
+else if (ns6&&e.currentTarget!= e.relatedTarget&& !contains_ns6(e.currentTarget, e.relatedTarget))
+delayhidemenu()
+}
+
+function hidemenu(e){
+if (typeof dropmenuobj!="undefined"){
+if (ie4||ns6)
+dropmenuobj.style.visibility="hidden"
+}
+}
+
+function delayhidemenu(){
+if (ie4||ns6)
+delayhide=setTimeout("hidemenu()",disappeardelay)
+}
+
+function clearhidemenu(){
+if (typeof delayhide!="undefined")
+clearTimeout(delayhide)
+}
+
+if (hidemenu_onclick=="yes")
+document.onclick=hidemenu
+
+</script></head><body><div id="dropmenudiv" style="visibility:hidden;width:160px;background-color:#EEEEEE" onmouseover="clearhidemenu();document.getElementById('product').background='images/seperatoron.jpg';" onmouseout="dynamichide(event)"></div>
+<!---JavaScript--->
+<!---JavaScripOrder*ContactBegain--->
+<script type="text/javascript">
+
+/***********************************************
+* Drop down menu w/ description- © Dynamic Drive (www.dynamicdrive.com)
+* This notice must stay intact for use
+* Visit http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+//1) CUSTOMIZE TEXT DESCRIPTIONS FOR LINKS ABOVE
+var thetext1=new Array()
+thetext1[0]=""
+thetext1[1]=""
+thetext1[2]=""
+
+
+/// You may define additional text arrays if you have multiple drop downs:
+var thetext2=new Array()
+thetext2[0]=""
+thetext2[1]=""
+
+
+// Now, see 2) below for final customization step
+
+function displaydesc(which, descriptionarray, container){
+if (document.getElementById)
+document.getElementById(container).innerHTML=descriptionarray[which.selectedIndex]
+}
+
+function jumptolink(what){
+var selectedopt=what.options[what.selectedIndex]
+if (document.getElementById && selectedopt.getAttribute("target")=="newwin")
+window.open(selectedopt.value)
+else
+window.location=selectedopt.value
+}
+
+//2) Call function displaydesc() for each drop down menu you have on the page
+// This function displays the initial description for the selected menu item
+// displaydesc(name of select menu, name of corresponding text array, ID of SPAN container tag):
+// Important: Remove the calls not in use (ie: 2nd line below if there's only 1 menu on your page)
+
+displaydesc(document.form1.select1, thetext1, 'textcontainer1')
+displaydesc(document.form2.select2, thetext2, 'textcontainer2')
+
+</script>
+<!---JavaScripOrder*ContactEnd--->
+
+<!---//email this Page-->
+<script language="javascript">
+<!--
+function mailpage()
+{
+mail_str = "mailto:?subject=Check out " + document.title;
+mail_str += "&body=I thought you might be interested in the " + document.title;
+mail_str += ". You can view it at, " + location.href; 
+location.href = mail_str;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_validateForm() { //v4.0
+  var i,p,q,nm,test,num,min,max,errors='',args=MM_validateForm.arguments;
+  for (i=0; i<(args.length-2); i+=3) { test=args[i+2]; val=MM_findObj(args[i]);
+    if (val) { nm=val.name; if ((val=val.value)!="") {
+      if (test.indexOf('isEmail')!=-1) { p=val.indexOf('@');
+        if (p<1 || p==(val.length-1)) errors+='- '+nm+' must contain an e-mail address.\n';
+      } else if (test!='R') { num = parseFloat(val);
+        if (isNaN(val)) errors+='- '+nm+' must contain a number.\n';
+        if (test.indexOf('inRange') != -1) { p=test.indexOf(':');
+          min=test.substring(8,p); max=test.substring(p+1);
+          if (num<min || max<num) errors+='- '+nm+' must contain a number between '+min+' and '+max+'.\n';
+    } } } else if (test.charAt(0) == 'R') errors += '- '+nm+' is required.\n'; }
+  } if (errors) alert('The following error(s) occurred:\n'+errors);
+  document.MM_returnValue = (errors == '');
+}
+//-->
+</script>
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>The Best Online shop in Pakistan.Offers Digital Qurans, Digital Dictionaries Holy Quran Ball Pen, Enmac in Pakistan, Franklin in Pakistan, Pakistan Business Directories, Textile And Garments Data CD, Spy Gadgets, Digital Tasbeeh, Islamic Watches. CONTACT NOW: 0300-9271733</title>
+<!-- InstanceEndEditable -->
+<style type="text/css">
+<!--
+@import url("menulink.css");
+
+body { background-image:url(images/bg.gif);
+	
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+	
+
+-->
+</style>
+<link href="style/css.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+<!--
+.style6 {
+	font-family: tahoma;
+	font-weight: bold;
+	font-size: 15pt;
+}
+.style8 {font-size: 9px}
+.style22 {font-family: Tahoma, "Times New Roman", Times, Verdana; font-size: 11px; color: #4B7490; font-weight: bold; }
+.style1 {	font-family: Tahoma;
+	font-weight: bold;
+}
+.style23 {font-size: 12px}
+-->
+</style>
+<!-- InstanceBeginEditable name="head" -->
+<style type="text/css">
+<!--
+.style1 {font-size: 10px}
+-->
+</style>
+<!-- InstanceEndEditable -->
+<meta name="Author" content="info@symbios.pk">
+<meta name="ROBOTS" content="INDEX, follow, all ">
+<meta name="description" content="Symbios Technologies offers Digital qurans, digital dictionaries, pakistan business directories and textile data all over the pakistan, covering free delievry to all major cities of pakistan like karachi, lahore, islamabad, sialkot, multan and faisalabad. The best Online shop of Pakistan. quality and cheapest Web Development Solution, Software Development, Search Engine Optimization and CARD CD's: Symbiosis Technologies www.symbiosistec.com Phone: 0300-9271733 . Enmac Digital Qurans, Franklin Digital Dictionaries, Enmac Quran, Enmac in Pakistan, Enmac Quran in Pakistan, Franklin, Franklin in Pakistan, Franklin Dictionaries in Pakistan, Online Shop Pakistan, Electric Kettle, Blood Pressuer Meter, PABX 4x16, email search tool, Digital Tasbeeh, Quran Player">
+<meta name="keywords" content="Home Appliances, Mobile Phones, Nokia, Samsung, Motorola, Sony EricsonIslam, Quran, Digital Qurans, Digital Dictionaries, Enmac Qurans, Franklin Dictionaries, Online Shop Pakistan, Pakistan Business Directories, b2b marketing,  Textile Data, Garments Data, Textile Pakistan, Business Pakistan, Portable charger, Emergency charger, Online shop, Online shop in Pakistan, Online shop in karachi, online shop of pakistan, electronic items, electronic items in pakistan, online electronic items, birthday gifts, birthday gifts in pakistan, Islam, Quran, religious items, quality and cheapest Web Development Solution, Islam, Quran, Software Development, Search Engine Optimization and CARD CD's: Symbiosis Technologies www.symbiosistec.com Phone: 0300-9271733, Enmac Digital Qurans, Franklin Digital Dictionaries, Islam, Quran, Enmac Quran, Enmac in Pakistan, Enmac Quran in Pakistan, Franklin, Franklin in Pakistan, Franklin Dictionaries in Pakistan, Seiko Dictionary, PABX in Pakistan,Islam, Quran,  PBX Pakistan, Islamic Gadgets, Muslims, Pakistani, Islam, Quran, Islamic Gadgets, Spy Gadgets, Digital Tasbeeh, PABX, Islamic Watches, Quran Players , Electric Kettle, gifts, online gifts, Islam, Quran, Blood Pressuer Meter, PABX 4x16, email search tool, Islam, Quran">
+
+<meta name="GENERATOR" content="http://www.symbios.pk">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="revisit-after" content="14 days">
+<meta name="classification" content="Online Shop">
+<meta name="distribution" content="GLOBAL">
+<meta name="rating" content="General">
+<meta name="copyright" content="Symbios" the="" online="" shop="" pakistan="">
+<meta name="author" content="Symbios" the="" online="" shop="" pakistan="">
+<meta http-equiv="reply-to" content="info@symbios.pk">
+<meta name="language" content="English">
+<meta name="doc-type" content="Public">
+<meta name="Copyright" content="Symbios the Online Shop Pakistan">
+<meta http-equiv="Content-Language" content="en-us">
+
+
+
+
+
+<table width="45%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#F0F0F0" class="body">
+  <tbody><tr>
+    <td colspan="2"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>        </tr>
+      <tr>
+        <td width="42%" height="117"><p class="style6" style="margin-top: 5px; margin-bottom: 5px"><span class="style1" style="margin-top: 5px; margin-bottom: 5px"><img src="images/logomain.jpg" width="205" height="98"></span></p>          </td>
+        <td width="3%">&nbsp;</td>
+        <td width="42%" valign="bottom"><table width="84%" border="0" cellpadding="0" cellspacing="0">
+          <tbody><tr>
+            <td width="40%">&nbsp;</td>
+            <td width="16%"><a href="index.html"><img src="images/home.gif" width="49" height="51" border="0"></a></td>
+            <td width="16%"><a href="profile.html"><img src="images/profile.gif" width="49" height="51" border="0"></a></td>
+            <td width="16%"><a href="form.html"><img src="images/frm.gif" width="49" height="51" border="0"></a></td>
+            <td width="16%"><a href="contact.html"><img src="images/contact.gif" width="49" height="51" border="0"></a></td>
+            <td width="16%">&nbsp;</td>
+            </tr>
+          <tr>
+            <td height="13" colspan="6"></td>
+            </tr>
+        </tbody></table></td>
+        <td width="13%"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://active.macromedia.com/flash2/cabs/swflash.cab#version=4,0,0,0" width="205" height="117">
+            <param name="movie" value="rightt.swf">
+            <param name="quality" value="High">
+            <param name="bgcolor" value="#ffffff">
+            <param name="wmode" value="transparent">
+            <embed src="rightt.swf" quality="High" bgcolor="#ffffff" width="205" height="117" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" wmode="transparent"> 
+          </object></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="100%" border="0" cellpadding="0" cellspacing="0" class="buttonBg">
+      <tbody><tr>
+        <td width="17" background="file:///D|/clients/Symbios-Shop/images/seperator.jpg">&nbsp;</td>
+        <td width="107" height="40"><a href="islamicgadgets.html" onmouseover="dropdownmenu(this, event, menu1, '165px')" onmouseout="delayhidemenu()">ISLAMIC PRODUCTS <br>
+        </a></td>
+        <td width="29">&nbsp;</td>
+        <td width="102" height="40"><a href="homeapplianceMain.html" onmouseover="dropdownmenu(this, event, menu2, '165px')" onmouseout="delayhidemenu()">HOME APPLIANCES<br>
+        </a></td>
+        <td width="29">&nbsp;</td>
+        <td width="53" height="40"><a href="mobile.html" onmouseover="dropdownmenu(this, event, menu3, '165px')" onmouseout="delayhidemenu()">CELLULAR</a></td>
+        <td width="29">&nbsp;</td>
+        <td width="83" height="40"><a href="pdas.html" onmouseover="dropdownmenu(this, event, menu4, '165px')" onmouseout="delayhidemenu()">LAPTOPS/PDA</a></td>
+        <td width="29">&nbsp;</td>
+        <td width="133"><a href="musicmain.html" onmouseover="dropdownmenu(this, event, menu6, '165px')" onmouseout="delayhidemenu()">MUSIC/FLASH MEMORIES </a></td>
+        <td width="29">&nbsp;</td>
+        <td width="101" height="40"><a href="otherproducts.html" onmouseover="dropdownmenu(this, event, menu5, '165px')" onmouseout="delayhidemenu()">OTHER PRODUCTS </a></td>
+        <td width="17">&nbsp;</td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td width="28%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td height="30" class="leftNavTop"><table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+          <tbody><tr>
+            <td width="10%" height="100%">&nbsp;</td>
+            <td width="90%" valign="bottom"><!-- InstanceBeginEditable name="NewsHeading" --><!-- InstanceEndEditable --></td>
+          </tr>
+        </tbody></table></td>
+        </tr>
+
+      <tr>
+        <td height="300" class="leftNavLine"><table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+          <tbody><tr>
+            <td width="10%" height="100%" rowspan="2">&nbsp;</td>
+            <td width="90%" valign="top" class="b1"><!-- InstanceBeginEditable name="News" --><!-- InstanceEndEditable --></td>
+          </tr>
+          <tr>
+            <td valign="bottom" class="b1"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+                <td><form action="http://www.symbiosistec.com/php/symbios/quick.php" method="POST" onsubmit="MM_validateForm('name','','R','phone','','R','email','','RisEmail');return document.MM_returnValue">
+				<p align="left" style="margin-top: 0; margin-bottom: 0; margin-left:10px">
+				<b>
+				<i><font color="#4B7490" face="Tahoma" size="2">Quick Contact</font></i></b></p>
+				<p align="left" style="margin-top: 0; margin-bottom: 0; margin-left:10px">
+				<input name="name" size="8" style="border:.5px groove #FFFFFF; color: #4B7490; background-color: #C0C0C0; font-family:Tahoma; font-size:10px" value="Name.."><input name="phone" size="12" style="border:.5px groove #FFFFFF; color: #4B7490; background-color: #C0C0C0; font-family:Tahoma; font-size:10px" value="Phone..">
+				</p>
+				<p align="left" style="margin-top: 0; margin-bottom: 0; margin-left:10px">
+				<input name="email" size="24" style="border:.5px groove #FFFFFF; color: #4B7490; background-color: #C0C0C0; font-family:Tahoma; font-size:10px; padding-left:4px; padding-right:4px; padding-top:1px; padding-bottom:1px" value="Email.."></p>
+				<p align="left" style="margin-top: 0; margin-bottom: 0; margin-left:10px">
+				<textarea rows="3" name="comments" cols="25" style="color: #4B7490; border: .5px groove #FFFFFF; padding-left: 4px; padding-right: 4px; padding-top: 1px; padding-bottom: 1px; background-color: #C0C0C0; font-family:Tahoma; font-size:10px">Questions/Inquiry </textarea>
+				</p>
+				<p align="left" style="margin-top: 0; margin-bottom: 0; margin-left:10px">
+				<input type="submit" value="Submit" name="B1" style="border:0 solid #428CAC; color: #FFFFFF; font-family: Tahoma; font-size: 10px; font-variant: small-caps; background-color: #428CAC"></p>
+				<p align="left" class="style23" style="margin-top: 0; ">
+				  <font face="Tahoma" style="font-weight: 700" color="#428CAC">
+				Or call:<br>
+				  </font><font face="Tahoma" style="font-weight: 700" color="#428CAC"> +92-21-4140918<br>
+				  +92-21-4140921<br>
+				  +92-21-4219797<br>
+				  +92-300-9271733</font></p>
+				</form></td>
+              </tr>
+              <tr>
+                <td height="20">&nbsp;</td>
+              </tr>
+              <tr>
+                <td><form action="http://www.symbiosistec.com/php/symbios/news.php" method="POST" onsubmit="MM_validateForm('email0','','RisEmail');return document.MM_returnValue">
+				<p align="left" style="margin-top: 0; margin-bottom: 0; margin-left:10px">
+				<font face="Tahoma" style="font-size: 7pt; font-weight: 700" color="#4B7490">
+				Subscribe to our Newsletter<br>
+				</font>
+				<input name="email0" size="22" style="color: #4B7490; border-style: groove; border-width: .5px; background-color: #C0C0C0; font-family:Tahoma; font-size:10px" value="Email.."><input type="submit" value=">" name="B2" style="border:3px solid #E7E7E7; color: #FFFFFF; font-family: Tahoma; font-size: 10px; font-variant: small-caps; background-color: #428CAC"></p>
+				<p align="left" style="margin-top: 0; margin-bottom: 0; margin-left:10px"><br>
+				  <b><font face="Tahoma" size="2" color="#4B7490">Free Delivery of all the products anywhere in Pakistan. Payment at the time of delivery</font></b></p>
+			</form>
+			</td>
+              </tr>
+            </tbody></table></td>
+          </tr>
+        </tbody></table></td>
+        </tr>
+      <tr>
+        <td height="30" class="leftNavBottom">&nbsp;</td>
+        </tr>
+    </tbody></table></td>
+    <td width="72%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td height="20" class="bottomTopBg">&nbsp;</td>
+      </tr>
+      <tr>
+        <td height="300" valign="top" class="bottomMiddleLine"><table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+          <tbody><tr>
+            <td width="4%" height="100%">&nbsp;</td>
+            <td width="96%" valign="top"><!-- InstanceBeginEditable name="MiddleText" --><span class="b3">Privacy </span><br>
+              <br>
+              <span class="b2">Our Internet Superstore allows you to buy products and services, enter contests, receive special discounts, fill out surveys and polls, and receive newsletters, e-mails or other promotional information from us. We use the information that we collect about you to fulfill your product and service purchases and to create a more personalized online experience. <br>
+                  <br>
+                WE DON`T SELL OR SHARE YOUR INFORMATION WITH OTHERS! <br>
+                <br>
+                Symbios Technologies takes your private information very seriously. We think of your information as ours and fully understand how frustrating it can get when receiving unsolicited email from other companies. We store your information on our secure servers and in any case we will not sell or disclose your information to other companies.<br>
+                <br>
+                This Policy may change from time to time, so please check back periodically. We reserve the right to use or disclose your personally identifiable information for business reasons in whatever manner desired </span><!-- InstanceEndEditable --></td>
+          </tr>
+        </tbody></table></td>
+      </tr>
+      <tr>
+        <td height="30" class="MiddleBottom">&nbsp;</td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="45" colspan="2" class="footer"><div align="center">
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+          <td width="11">&nbsp;</td>
+          <td width="15%" class="style8"><a href="islamicgadgets.html" class="style22">ISLAMIC PRODUCTS</a></td>
+          <td width="10" class="style8">&nbsp;</td>
+          <td width="14%" class="style8"><a href="homeapplianceMain.html" class="style22"> HOME APPLIANCES</a></td>
+          <td width="10" class="style8">&nbsp;</td>
+          <td width="7%" class="style8"><a href="mobile.html" class="style22">CELLULAR</a></td>
+          <td width="11" class="style8">&nbsp;</td>
+          <td width="11%" class="style8"><a href="laptops.html" class="style22">LAPTOPS/PDA</a> </td>
+          <td width="10" class="style8">&nbsp;</td>
+          <td width="19%" class="style8"><a href="musicmain.html" class="style22">MUSIC/FLASH MEMORIES </a></td>
+          <td width="10" class="style8">&nbsp;</td>
+          <td width="14%" class="style8"><p class="style22"><a href="otherproducts.html" class="style22">OTHER PRODUCTS </a></p>            </td>
+          <td width="11" class="style8">&nbsp;</td>
+        </tr>
+      </tbody></table>
+      </div></td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#F1F1F1">
+      <tbody><tr>
+        <td width="1%">&nbsp;</td>
+        <td width="22%"><span class="leftNavText"><a href="privacy.html">Privacy Policy</a> | <a href="termscondition.html">Terms &amp; Condition</a> </span></td>
+        <td width="44%">&nbsp;</td>
+        <td width="33%"><span class="leftNavText">Copyrights © 2006 symbios.pk All rights reserved.</span></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td colspan="2"><div align="right"><span class="B11"><a href="http://www.symbiosistec.com">Website Designed By: Symbiosis Technologies&nbsp;</a>&nbsp;&nbsp;</span></div></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="images/allign.jpg" width="760" height="2"></td>
+  </tr>
+</tbody></table>
+
+<!-- InstanceEnd -->
+</body></html>
