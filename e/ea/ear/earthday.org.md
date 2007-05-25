@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earthday.org privacy policy that was archived on 2006-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061126140252id_/http%3A//www.earthday.org/about/disclaimer.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthday.org privacy policy that was archived on 2007-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070525220158id_/http%3A//www.earthday.org/about/disclaimer.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,17 +30,7 @@ In the Earth Day Store, we assign Cookies to shoppers for additional purposes, s
 
 Our website provides a variety of opportunities for your involvement with the Earth Day Network services and features. These opportunities and the ways in which your Personal Information is used, as expressly permitted by you upon your voluntary submission of such, are described below. 
 
-### 1\. Daily Grist
-
-To receive Daily Grist, you must submit your email address. Once signed up, you will start receiving summaries of environmental stories each weekday from the Earth Day Network's online environmental publication, Grist Magazine. We ask for your email addresses only to distribute Daily Grist; we do not share this information with anyone.
-
-You can unsubscribe from Daily Grist by following the unsubscribe instructions found at the bottom of each email. 
-
-### 2\. Letters to the Editor of Grist Magazine 
-
-To send a letter to the editor of Grist Magazine, Earth Day Network's online publication, you agree to provide us with your phone number so that we can verify your identity should we choose to publish your letter. We do not keep this information for any other purpose, nor do we sell, trade, or otherwise disclose it to third parties. 
-
-### 3\. Sign Up for Earth Day News 
+### 1\. Sign Up for Earth Day News 
 
 To receive Earth Day News emails, you must submit your email address, and you may be asked for your zip code if you live in the U.S. You will then start receiving email updates on a regular basis. We collect zip code information so that we can tell you about Earth Day events and happenings nearest to you, and we collect information about issues in which you are interested so that we can tailor updates to your concerns. You agree that we may share this Personal Information with our email list manager, a third party company that manages the list of subscribers to the Earth Day News emails for the sole purpose of sending you Earth Day News -- the email list manager cannot not sell your Personal Information or use it for any other purpose than described in this Privacy Policy.
 
@@ -48,7 +38,7 @@ You can unsubscribe from Earth Day News emails by following the unsubscribe inst
 
 top
 
-### 4\. Endorse an Earth Day Campaign Agenda 
+### 2\. Endorse an Earth Day Campaign Agenda 
 
 To endorse an Earth Day Campaign Agenda, you must provide us with your name and address. By choosing to endorse the Agenda, you agree that we may share your Personal Information with public officials and business leaders to demonstrate public support for our policy proposals. You also agree that we may aggregate this information to share anonymous data with the media, such as the number of endorsers, but we will not disclose your individual identity to the media without your express permission. Except for the ways described in this Privacy Policy, no other Personal Information will be shared with third parties when you endorse an agenda.
 
@@ -56,33 +46,33 @@ If your organization chooses to endorse any of Earth Day Network's Agendas, you 
 
 If you or your organization wishes to be removed as an endorser of any Earth Day Agenda, please email [earthday@earthday.net](mailto:earthday@earthday.net).
 
-### 5\. List Your Group 
+### 3\. List Your Group 
 
 To list your group in our online directory, you must provide us with your organization's contact information and other details about the group as described on the List Your Group sign-up page. By registering, your organization agrees that we may publish your organization's Personal Information on our website and in the Worldwide Network Directory, but we will not publish names of individual contacts without the express permission of the individuals involved.
 
 If your organization wishes to be removed from our website and the Worldwide Network Directory, please follow the removal instructions by visiting the List Your Group sign-up page or email [earthday@earthday.net](mailto:earthday@earthday.net).
 
-### 6\. List Your Event 
+### 4\. List Your Event 
 
 To list your event, in our online events calendar, you must provide us with contact information, as well as a description of you and specifics about your events. By registering, you agree that we may publish this Personal Information on our website and in the events calendar, but will not publish names of individual contacts without the express permission of the individual involved. 
 
 If you wish to have your event removed from our website and the events calendar, please follow the removal instructions by visiting the List Your Event sign-up page or email [earthday@earthday.net](mailto:earthday@earthday.net).
 
-### 8\. Earth Day Store 
+### 5\. Earth Day Store 
 
 If you wish to register with and/or purchase items from our online store, you agree to provide us with your name, address, email address, and credit card billing information. No orders will be accepted from persons under eighteen (18) years of age. Your Personal Information will only be collected on a voluntary basis for the purpose of fulfilling orders. By placing an order at the Earth Day Store, you agree that we may share this information with the third-party company directly involved in helping us complete the transaction and deliver the order. Your Personal Information will not be used for any other purpose by the third-party company contracted to fulfill online orders. Both the third-party company and Earth Day Network store your Personal Information so we can keep responsible records to handle your order, but we don't require it for you to obtain access to our store. Unless otherwise described in this Privacy Policy, your Personal Information will not be released to any other party nor will it be used to compile email lists. 
 
-### 9\. Donate 
+### 6\. Donate 
 
 To make a donation to Earth Day Network, you agree to submit your Personal Information so that we may collect it only for the purpose of processing donations. You also agree that we may store this information to keep responsible records. We do not share this information with anyone.
 
 top
 
-### 10\. Send a Letter or Postcard 
+### 7\. Send a Letter or Postcard 
 
 To send a Letter or Postcard to an outside recipient, you must submit your name, address, and email address. You then agree that we may share your Personal Information with the recipient of the postcard/letter as listed on our website. We are not responsible for the use of your information once sent to the intended recipient. By sending a letter/postcard, you also agree that your information may be shared with other organizations supporting this environmental cause. We are not responsible for the use of your Personal Information by such organizations.
 
-### 11.Contests, Sweepstakes, and Giveaways 
+### 8.Contests, Sweepstakes, and Giveaways 
 
 To enter any of our contests, sweepstakes, or giveaways, you agree to provide the information requested. This information will be disclosed to third parties as required to process and fulfill the contest or sweepstake rules and to award prizes. Your Personal Information, however, will not be sold or used for other purposes unless described in this Privacy Policy or in the rules of the contest or sweepstakes posted on the website, or unless otherwise required by law.
 
