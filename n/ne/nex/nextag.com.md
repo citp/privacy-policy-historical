@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextag.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614193634id_/http%3A//www.nextag.com/serv/main/buyer/help/prPrivacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextag.com privacy policy that was archived on 2007-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070526010021id_/http%3A//www.nextag.com/serv/main/buyer/help/prPrivacyPolicy.jsp) for the most accurate reproduction.*
 
 # Nextag: Help [Privacy Policy]
 
@@ -9,7 +9,7 @@
   1. Scope and Changes
 **
 
-NexTag, Inc. ("NexTag" or "we") operates the websites, [www.nextag.com](http://www.nextag.com/), [www.calibex.com](http://www.calibex.com/), [www.techpricesonline.com](http://www.techpricesonline.com/), [www.homeloanoffer.com](http://www.homeloanoffer.com/), and permutations thereof that refer to this Website Privacy Statement in a direct hyperlink (the "Websites"). NexTag respects your privacy and we want you to be confident in sharing your information with us. This Website Privacy Statement is designed to inform you of the types of information we collect from users, how we use that information, and the circumstances under which we will share it with third parties. This Privacy Statement applies only to the Websites. It does not apply to your use of any other websites (whether or not operated by us), including any websites which we provide links to or websites of our partners or advertisers, or to any activities which are not online.
+NexTag, Inc. ("NexTag" or "we") operates the websites, [www.nextag.com](http://www.nextag.com/), [www.calibex.com](http://www.calibex.com/), and permutations thereof that refer to this Website Privacy Statement in a direct hyperlink (the "Websites"). NexTag respects your privacy and we want you to be confident in sharing your information with us. This Website Privacy Statement is designed to inform you of the types of information we collect from users, how we use that information, and the circumstances under which we will share it with third parties. This Privacy Statement applies only to the Websites. It does not apply to your use of any other websites (whether or not operated by us), including any websites which we provide links to or websites of our partners or advertisers, or to any activities which are not online.
 
 Please note that some features and/or services referenced may not be available on some Websites. Therefore, portions of this Privacy Statement which pertain to such features or services may not be applicable on each of the Websites.
 
@@ -80,7 +80,7 @@ In addition to the uses described above, we may use your personal information fo
 
 For registered users on some of the Websites, a user can review personal identifiable information by logging in with the user email and password and then clicking on the "My Account" link located at the top right of each page. After accessing the user's My Account page, click the appropriate link under the General Account Information section to make changes as necessary.
 
-For access and changes of any other data, please [contact us.](http://www.nextag.com/serv/main/about/contact_us.jsp) Upon receipt of your request, and possibly subject to identification measures, we will provide you with reasonable access and comply with appropriate data correction requests in accordance with applicable law. For access requests, we will respond within thirty (30) days upon receiving your request.
+For access and changes of any other data, please [contact us.](https://web.archive.org/web/20070526010021id_/http%3A//www.nextag.com/serv/main/about/contact_us.jsp) Upon receipt of your request, and possibly subject to identification measures, we will provide you with reasonable access and comply with appropriate data correction requests in accordance with applicable law. For access requests, we will respond within thirty (30) days upon receiving your request.
 
 You should also note that if we have provided your information to third parties, you will have to make a separate request to them directly if you want to have your information removed from, or corrected in, their databases.
 
@@ -100,11 +100,19 @@ To opt out of receiving all other NexTag mailings after you have registered, [cl
 
 In some cases we request that you submit personal information in order to forward this information to our partners that have products or services in which you may be interested. In the event we share this information with our partners (e.g., Lenders or car dealers), we no longer have control over the use of such information and your rights regarding such use will be governed by the policies of our partners. You will then have to contact them directly with any opt-out request.
 
+To opt-out of NexTag advertising cookies please [click here](https://web.archive.org/web/20070526010021id_/http%3A//www.nextag.com/serv/main/buyer/help/AdTargetingOptOut.jsp).
+
  **
   7. YOUR CALIFORNIA PRIVACY RIGHTS
 **
 
-Beginning on January 1, 2005, California Civil Code Section 1798.83 permits residents of California who are registered users and use our service for private, family or household purposes to request certain standard information regarding our disclosure of personal information to third parties for their direct marketing purposes (including a list of categories of data disclosed in the previous calendar year and names and addresses of data recipients). To make such a request, please contact us as provided below.If you have any questions about this Privacy Policy, the practices of the Websites, or your use of the Websites, please contact us at
+Beginning on January 1, 2005, California Civil Code Section 1798.83 permits residents of California who are registered users and use our service for private, family or household purposes to request certain standard information regarding our disclosure of personal information to third parties for their direct marketing purposes (including a list of categories of data disclosed in the previous calendar year and names and addresses of data recipients). To make such a request, please contact us as provided below.
+
+ **
+  8. Internet Crime Complaint Center
+**
+
+NexTag wants your Internet surfing experience to be safe. Help protect yourself. If you believe you have been a victim of Internet crime you can file a complaint with the Internet Crime Complaint Center (IC3), a partnership between the Federal Bureau of Investigation (FBI) and the National White Collar Crime Center. Their website is <http://www.ic3.gov/>.If you have any questions about this Privacy Policy, the practices of the Websites, or your use of the Websites, please contact us at
 
 > NexTag, Inc.  
 > 1300 South El Camino Real  
