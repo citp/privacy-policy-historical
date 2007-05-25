@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hopkinsmedicine.org privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218165416id_/http%3A//www.hopkinsmedicine.org/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hopkinsmedicine.org privacy policy that was archived on 2007-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070525160254id_/http%3A//www.hopkinsmedicine.org/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy and Disclaimer
 
