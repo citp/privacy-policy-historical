@@ -1,31 +1,8 @@
-> *The following text is extracted and transformed from the level3.com privacy policy that was archived on 2006-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061105035734id_/http%3A//level3.com/762.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the level3.com privacy policy that was archived on 2007-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070525065409id_/http%3A//www.level3.com/legal/privacy_policy.html) for the most accurate reproduction.*
 
-# Level 3 Communications, Inc. - Privacy Policy
+# Privacy Policy
 
-  |  |        **Privacy Policy**  
----  
-  
-| 
-
-  
-|  |  | **Level 3 Online Privacy Policy**     
----  
-****
-
-**Online Privacy Policy Table Of Contents:**
-
-  * Our Commitment To Privacy
-  * The Information We Collect and How We Use It 
-  * What About Cookies? 
-  * Who We Share It With 
-  * Our Commitment To Data Security
-  * Our Commitment To Children's Privacy 
-  * Linked Internet Web sites
-  * How To Correct, Amend, or Delete Your Information 
-  * Online Privacy Policy Changes
-  * How To Contact Us 
-
-
+### Privacy Policy
 
 **Our Commitment To Privacy:**
 
@@ -45,7 +22,11 @@ Level 3
 
 's Online Privacy Policy. If you do not agree to these terms and conditions, please do not access, browse, or use this Site. 
 
-Level 3 has self-certified its adherence to the Safe Harbor principles on the [Safe Harbor Web site](http://www.export.gov/safeharbor). 
+Level 3 has self-certified its adherence to the Safe Harbor principles on the 
+
+[_Safe Harbor Web site_](http://www.export.gov/safeharbor)
+
+. 
 
 **The Information We Collect and How We Use It:**
 
@@ -99,7 +80,7 @@ Level 3
 
 's Site.
 
-**Our Commitment To Children's Privacy:**
+ **Our Commitment To Children's Privacy:**
 
 Protecting the privacy of children is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our Site is structured to attract anyone under 13. 
 
@@ -119,9 +100,13 @@ Level 3
 
 expressly disclaims any and all liability related to such collection, use, or disclosure.
 
-**How To Correct, Amend, or Delete Your Information:**
+ **How To Correct, Amend, or Delete Your Information:**
 
-We honor requests from you to correct, amend, or delete your account information (for example, your name, address, or billing information). You may verify that appropriate corrections have been made. To correct, amend or delete account information, contact the Webmaster. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+We honor requests from you to correct, amend, or delete your account information (for example, your name, address, or billing information). You may verify that appropriate corrections have been made. To correct, amend or delete account information, contact the 
+
+[_Webmaster_](mailto:webmaster@level3.com)
+
+. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
 **Online Privacy Policy Changes**
 
@@ -134,21 +119,3 @@ Level 3
 Level 3
 
 is subject to the terms and conditions of this Online Privacy Policy, as amended. 
-
-**How To Contact Us:**
-
-If you become aware of any violation by any person, including Users that have accessed the Service through your account, please notify us. 
-
-Should you have other questions or concerns about 
-
-Level 3
-
-'s Online Privacy Policy, please contact us.  
-  
----  
-  
-  
-  
-[](http://www.level3.com/559.html)  
-  
- 
