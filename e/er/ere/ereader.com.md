@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ereader.com privacy policy that was archived on 2006-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061201013700id_/http%3A//ereader.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ereader.com privacy policy that was archived on 2007-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070525215346id_/http%3A//www.ereader.com/privacy) for the most accurate reproduction.*
 
 # eReader.com: Privacy Policy
 
