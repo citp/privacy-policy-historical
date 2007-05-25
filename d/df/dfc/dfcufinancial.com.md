@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dfcufinancial.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016160102id_/http%3A//www.dfcufinancial.com/tools/privacy_security.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dfcufinancial.com privacy policy that was archived on 2007-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070525023751id_/http%3A//www.dfcufinancial.com/tools/privacy_security.htm) for the most accurate reproduction.*
 
 # DFCU Financial - Dearborn, Michigan
 
