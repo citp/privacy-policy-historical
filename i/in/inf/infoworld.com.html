@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the infoworld.com privacy policy that was archived on 2006-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061231111250id_/http%3A//www.infoworld.com/about/abt_prv.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the infoworld.com privacy policy that was archived on 2007-05-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070525095145id_/http%3A//www.infoworld.com/about/abt_prv.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <title>InfoWorld - Privacy Policy</title>
@@ -42,6 +42,14 @@ s.hier1="About Us,About,Privacy";
 <br>
 <script language="Javascript">
 s.pageName = s.pageName.replace(new RegExp("[^\x20-\x7E]",'g')," ");
+
+if(typeof(pkeys) != 'undefined') {
+	if(pkeys.length > 0) {
+	        if(s.events.length == 0)
+			s.events="event12";
+		s.products="pkey;"+pkeys.join(",pkey;");
+	}
+}
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 <script language="JavaScript"><!--
@@ -70,11 +78,11 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 <div style="text-align: left; padding: 4px 0px 0px 5px; background-color: #e0e0e0;font-size:11px">
 <form action="http://subscribe.infoworld.com/cgi-win/ifwd.cgi" method="get" style="padding:0px; margin:0px">
 <div style="padding-bottom:2px;"><input type="checkbox" name="n19" value="1">Technology &amp; Business Daily</div>
-<input type="hidden" name="m" value="newsletter">
 <input type="text" name="e" value="Enter Email Address" size="25" maxlength="60" class="blackVrdMed">
-<input type="hidden" name="m" value="newsletter"><input type="submit" name="n19" value="Submit" class="blackVrdMed">
+<input type="hidden" name="m" value="newsletter"> 
+<input type="submit" name="submit" value="Submit" class="blackVrdMed">
 <br>
-<div style="padding-top:4px;"><font color="#9c0005">»</font> <a href="http://subscribe.infoworld.com/cgi-win/ifwd.cgi?m=newsletter">All 33 InfoWorld Newsletters</a></div>
+<div style="padding-top:4px;"><font color="#9c0005">»</font> <a href="http://subscribe.infoworld.com/cgi-win/ifwd.cgi?m=newsletter">All InfoWorld Newsletters</a></div>
 </form>
 </div>		
 </div>
@@ -86,11 +94,11 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 <img src="http://www.infoworld.com/img/dot_t.gif" HEIGHT="15" BORDER="0" ALT="Free Technology Newsletters"></td></tr>
 <tr><td align="center">
 <table border="0" cellspacing="4" cellpadding="0" width="100%">
-<tr><td colspan="3"><span class="nlPromo1"><span class="arrow">&raquo;&nbsp;</span><a href="http://subscribe.infoworld.com/cgi-win/ifwd.cgi?m=newsletter" class="nlPromo1">All 33 InfoWorld Newsletters</a><br>
+<tr><td colspan="3"><span class="nlPromo1"><span class="arrow">&raquo;&nbsp;</span><a href="http://subscribe.infoworld.com/cgi-win/ifwd.cgi" class="nlPromo1">All InfoWorld Newsletters</a><br>
 <input type="checkbox" name="n19" value="1"/>Technology & Business Daily<br>
 </span></td></tr>
 <tr><td valign="bottom"><input type="text" name="e" value="Enter Email Address" size="25" maxlength="60" class="blackVrdSm"></td><td>&nbsp;</td>
-<td><input type="image" src="http://www.infoworld.com/img/but_signup_nl.gif"><input type="hidden" name="m" value="newsletter"></td></tr>
+<td><input type="image" src="http://www.infoworld.com/img/but_signup_nl.gif"></td></tr>
 </table></td>
 </tr></form>
 </table> -->
@@ -99,12 +107,30 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 </tr>
 </tbody></table>
 
+				
 				<table width="1000" border="0" cellspacing="0" cellpadding="0" align="center">
 					<tbody><tr>
 						<td width="200">
 							<a href="http://www.infoworld.com" target="_top">
 								<img src="http://images.infoworld.com/img/iwLogo2_2006.gif" alt="InfoWorld" width="180" height="51" border="0">
 							</a>
+						</td>
+						<td valign="middle" width="475">
+						        <div style="margin:10px 0px 0px 0px;" id="notLoggedIn">
+								<b>
+								<a href="#" onclick="Effect.Combo('content', {duration: .5});return false;">Log-in</a> | <a href="javascript:sendToRegisterFromTop();" id="topRegister">Register</a></b><br>
+								<div id="content" style="display: none;font-size:11px;" class="reveal">
+									<form name="loginForm" id="loginForm" onsubmit="logUserIn(this);return false;"><b>Username:</b>
+									<input type="text" name="username" id="username" class="hdr" size="8" maxlength="250" value=""> &nbsp; 
+									<b>Password:</b> <input type="password" name="password" id="password" class="hdr" size="6" maxlength="250">
+									<input class="submit" name="Login" type="submit" value="Login"> &nbsp; <a href="javascript:forgotPassword();">forgot password?</a>
+									</form>
+								</div>
+							</div>
+							<div style="display: none;padding: 20px 0px 0px;" id="loggedIn">
+							        <b><span class="gray">Logged in as </span> <span id="ifwuser"></span> | <a href="javascript:logout();">Log-out</a></b>
+								<br>
+							</div>
 						</td>
 						<td valign="middle">
 							<!--<div style="padding:20px 0px 0px 0px">
@@ -128,6 +154,7 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 						</td>
 					</tr>
 				</tbody></table>
+				<script language="javascript">determineLoginStatus();</script>
 
 
 				<!-- begin menu -->
@@ -138,7 +165,7 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 							_d.write("<scr"+"ipt type=text/javascript src=http://www.infoworld.com/script/menu/mmenuns4.js><\/scr"+"ipt>");		
 						else 
 							_d.write("<scr"+"ipt type=text/javascript src=http://www.infoworld.com/script/menu/mmenudom.js><\/scr"+"ipt>");</script>
-					<div class="navContainer"><b><script type="text/javascript" src="http://www.infoworld.com/script/menu/menu_frame.js"></script></b><script type="text/javascript" src="http://www.infoworld.com/script/menu/ifw_sub.js"></script><script language="JavaScript" src="http://www.infoworld.com/script/menu/ifw_main.js" type="text/javascript"></script></div>
+					<div class="navContainer"><b><script type="text/javascript" src="http://www.infoworld.com/script/menu/menu_frame.js"></script></b><script type="text/javascript" src="http://www.infoworld.com/SSI/menu/ifw_sub.js"></script><script language="JavaScript" src="http://www.infoworld.com/SSI/menu/ifw_main.js" type="text/javascript"></script></div>
 					<div class="navShd"><img src="http://images.infoworld.com/img/dot_t.gif" alt="" width="1" height="10" border="0"></div>
 				</div><!-- end div menu -->
 
@@ -308,17 +335,23 @@ If you have any questions or comments regarding the IDG Publishing Network or it
 	<tr bgcolor="#FFFFFF">
 	<td valign="top" colspan="4"><img src="http://images.infoworld.com/img/dot_t.gif" alt="" width="1" height="1" border="0"></td>
 	</tr>
-	<tr bgcolor="#FFFFFF">
+	
+	<tr>
+	<td valign="top" colspan="4" bgcolor="#FFFFFF"><img src="http://images.infoworld.com/img/dot_t.gif" alt="" width="1" height="1" border="0"></td>
+	</tr>
+		<tr bgcolor="#FFFFFF">
 	<td valign="top"><span class="BlueVrdMed">&nbsp;</span></td>
 	<td valign="top"><img src="http://images.infoworld.com/img/dot_t.gif" alt="" width="4" height="1" border="0"></td>
-	<td><span class="BlueVrdMed"><a href="/about/editcal.html" class="BlueVrdMed">Calendar</a></span></td>
+	<td><span class="BlueVrdMed"><a href="http://www.infoworld.com/calendar/" class="BlueVrdMed">Calendar</a></span></td>
 	<td valign="top"><img src="http://images.infoworld.com/img/dot_t.gif" alt="" width="4" height="1" border="0"></td>
 	</tr>
 	<tr>
 	<td valign="top" colspan="4" bgcolor="#FFFFFF"><img src="http://images.infoworld.com/img/dot_t.gif" alt="" width="1" height="1" border="0"></td>
 	</tr>
 	
-	
+	<tr>
+	<td valign="top" colspan="4" bgcolor="#FFFFFF"><img src="http://images.infoworld.com/img/dot_t.gif" alt="" width="1" height="1" border="0"></td>
+	</tr>
 		<tr bgcolor="#FFFFFF">
 	<td valign="top"><span class="BlueVrdMed">&nbsp;</span></td>
 	<td valign="top"><img src="http://images.infoworld.com/img/dot_t.gif" alt="" width="4" height="1" border="0"></td>
@@ -379,6 +412,7 @@ If you have any questions or comments regarding the IDG Publishing Network or it
 	<td valign="top"><img src="http://images.infoworld.com/img/dot_t.gif" alt="" width="4" height="1" border="0"></td>
 	</tr>
 	
+
 		<tr>
 	<td valign="top" colspan="4" bgcolor="#FFFFFF"><img src="http://images.infoworld.com/img/dot_t.gif" alt="" width="1" height="1" border="0"></td>
 	</tr>
@@ -520,7 +554,7 @@ If you have any questions or comments regarding the IDG Publishing Network or it
 
 <!-- Footer Begin -->
 
-<table width="1000" height="24" border="0" cellpadding="0" cellspacing="0" bgcolor="#999999">
+<table width="1000" height="24" border="0" cellpadding="0" cellspacing="0" bgcolor="#999999" align="center">
 <tbody><tr>
 <td width="6"><img src="http://images.infoworld.com/img/ftr_men_lft_gen2.gif" border="0" height="24" width="6"></td>
 <td width="490"><nobr><span class="whiteVrdMed">&nbsp;<a href="http://www.infoworld.com/" class="whiteVrdSm">HOME</a>&nbsp;<img src="http://images.infoworld.com/img/ftr_men_gen_div2.gif" border="0" align="absmiddle" alt="">&nbsp;<a href="http://www.infoworld.com/news/" class="whiteVrdSm">NEWS</a>&nbsp;<img src="http://images.infoworld.com/img/ftr_men_gen_div2.gif" border="0" align="absmiddle">&nbsp;<a href="http://www.infoworld.com/opinions/" class="whiteVrdSm">COLUMNS</a>&nbsp;<img src="http://images.infoworld.com/img/ftr_men_gen_div2.gif" border="0" align="absmiddle">&nbsp;<a href="http://weblog.infoworld.com/" class="whiteVrdSm">BLOGS</a>&nbsp;<img src="http://images.infoworld.com/img/ftr_men_gen_div2.gif" border="0" align="absmiddle">&nbsp;<a href="http://www.infoworld.com/weblog/podcasts/new_podcasts_index.html" class="whiteVrdSm">PODCASTS</a>&nbsp;<img src="http://images.infoworld.com/img/ftr_men_gen_div2.gif" border="0" align="absmiddle">&nbsp;<a href="http://www.infoworld.com/video/" class="whiteVrdSm">VIDEOS</a>&nbsp;<img src="http://images.infoworld.com/img/ftr_men_gen_div2.gif" border="0" align="absmiddle">&nbsp;<a href="http://www.infoworld.com/techindex/" class="whiteVrdSm">TECHNOLOGIES</a>&nbsp;<img src="http://images.infoworld.com/img/ftr_men_gen_div2.gif" border="0" align="absmiddle">&nbsp;<a href="http://www.infoworld.com/testcenter/" class="whiteVrdSm">TEST CENTER</a>&nbsp;<img src="http://images.infoworld.com/img/ftr_men_gen_div2.gif" border="0" align="absmiddle">&nbsp;<a href="http://www.infoworld.com/evt_hom.html" class="whiteVrdSm">EVENTS</a>&nbsp;<img src="http://images.infoworld.com/img/ftr_men_gen_div2.gif" border="0" align="absmiddle">&nbsp;<a href="http://www.infoworld.com/careers/" class="whiteVrdSm">CAREERS</a>&nbsp;<img src="http://images.infoworld.com/img/ftr_men_gen_div2.gif" border="0" align="absmiddle">&nbsp;<a href="http://infoworlditexecconnect.leveragesoftware.com/" class="whiteVrdSm">IT EXEC-CONNECT</a>&nbsp;<img src="http://images.infoworld.com/img/ftr_men_gen_div2.gif" border="0" align="absmiddle">&nbsp;</span></nobr></td>
@@ -528,19 +562,19 @@ If you have any questions or comments regarding the IDG Publishing Network or it
 <td align="center" width="498"><nobr><span class="whiteVrdMed"> <a href="http://www.infoworld.com/about/" class="whiteVrdMed">About</a> | <a href="http://www.infoworld.com/advertise/" class="whiteVrdMed">Advertise</a> | <a href="http://www.infoworld.com/awards/" class="whiteVrdMed">Awards</a> |  <a href="http://www.infoworld.com/store/" class="whiteVrdMed">Store</a>  |  <a href="http://www.infoworld.com/about/abt_con.html" class="whiteVrdMed">Contact Us</a>&nbsp;</span></nobr></td>
 
 <td width="6"><img src="http://images.infoworld.com/img/ftr_men_rgt_gen2.gif" border="0" height="24"></td></tr>
-<tr><td align="center" bgcolor="#FFFFFF" colspan="4"><br>
-<span class="blackVrdSm">Copyright © 2006, <a href="http://www.infoworld.com/about/abt_cpy.html">Reprints, Permissions, Licensing</a>, <a href="http://www.infoworld.com/about/idg_network.html">IDG Network</a>, <a href="http://www.infoworld.com/about/abt_prv.html">Privacy Policy</a>, <a href="http://www.infoworld.com/about/terms.html">Terms of Service</a>.<br>All Rights reserved.  InfoWorld is a leading publisher of technology information and product reviews on topics including viruses,<br> phishing, worms, firewalls, security, servers, storage, networking, wireless, databases, and web services.<br><br>
+<tr><td style="text-align: center" bgcolor="#FFFFFF" colspan="4"><br>
+<span class="blackVrdSm">Copyright © 2007, <a href="http://www.infoworld.com/about/abt_cpy.html">Reprints, Permissions, Licensing</a>, <a href="http://www.infoworld.com/about/idg_network.html">IDG Network</a>, <a href="http://www.infoworld.com/about/abt_prv.html">Privacy Policy</a>, <a href="http://www.infoworld.com/about/terms.html">Terms of Service</a>.<br>All Rights reserved.  InfoWorld is a leading publisher of technology information and product reviews on topics including viruses,<br> phishing, worms, firewalls, security, servers, storage, networking, wireless, databases, and web services.<br><br>
 </span>
 
-<a href="http://www.pcworld.com/" target="_new" class="blueVrdSm">PC World</a> :: <a href="http://www.macworld.com/" target="_new" class="blueVrdSm">Macworld</a> :: <a href="http://www.computerworld.com/" target="_new" class="blueVrdSm">ComputerWorld</a> :: <a href="http://www.linuxworld.com/" target="_new" class="blueVrdSm">LinuxWorld</a> :: <a href="http://www.networkworld.com/" target="_new" class="blueVrdSm">Network World</a><br>
+<a href="http://www.cio.com/" target="_new" class="blueVrdSm">CIO</a> :: <a href="http://www.computerworld.com/" target="_new" class="blueVrdSm">ComputerWorld</a> :: <a href="http://www.csoonline.com/" target="_new" class="blueVrdSm">CSO</a> :: <a href="http://www.gamepro.com/" target="_new" class="blueVrdSm">GamePro</a> :: <a href="http://www.gamestar.com/" target="_new" class="blueVrdSm">Games.net</a> :: <a href="http://www.idgconnect.com" target="_new" class="blueVrdSm">IDG Connect</a> :: <a href="http://www.idgworldexpo.com" target="_new" class="blueVrdSm">IDG World Expo</a><br>
 
-<a href="http://www.javaworld.com/" target="_new" class="blueVrdSm">JavaWorld</a> :: <a href="http://www.cio.com/" target="_new" class="blueVrdSm">CIO</a> :: <a href="http://www.csoonline.com/" target="_new" class="blueVrdSm">CSO</a> :: <a href="http://www.macworld.com/news/" target="_new" class="blueVrdSm">Mac Central</a> :: <a href="http://playlistmag.com/" target="_new" class="blueVrdSm">Playlist</a> :: <a href="http://www.gamepro.com/" target="_new" class="blueVrdSm">GamePro</a> :: <a href="http://www.gamestar.com/" target="_new" class="blueVrdSm">Games.net</a> :: <a href="http://www.gamerhelp.com/" target="_new" class="blueVrdSm">Gamerhelp</a> :: <a href="www.idgconnect.com" target="_new" class="blueVrdSm">IDG Connect</a><br>
+<a href="http://www.javaworld.com/" target="_new" class="blueVrdSm">JavaWorld</a> :: <a href="http://www.linuxworld.com/" target="_new" class="blueVrdSm">LinuxWorld</a> :: <a href="http://www.macuser.com/" target="_new" class="blueVrdSm">MacUser</a> :: <a href="http://www.macworld.com/" target="_new" class="blueVrdSm">Macworld</a> :: <a href="http://www.networkworld.com/" target="_new" class="blueVrdSm">Network World</a> :: <a href="http://www.pcworld.com/" target="_new" class="blueVrdSm">PC World</a> :: <a href="http://playlistmag.com/" target="_new" class="blueVrdSm">Playlist</a><br>
 
-<a href="http://www.itworldcanada.com/" target="_new" class="blueVrdSm">ITWorld Canada</a> :: <a href="http://www.computerwoche.de/" target="_new" class="blueVrdSm">Computerwoche</a> :: <a href="http://www.techworld.com/" target="_new" class="blueVrdSm">Techworld UK</a> :: <a href="http://www.tecchannel.de/" target="_new" class="blueVrdSm">tecChannel</a> :: <a href="http://www.idg.se/" target="_new" class="blueVrdSm">IDG.se</a> :: <a href="http://www.idg.no/" target="_new" class="blueVrdSm">IDG.no</a> :: <a href="http://www.idg.pl/" target="_new" class="blueVrdSm">IDG.pl</a></td></tr>
+</td></tr>
 </tbody></table>
 <!-- Footer End -->
 
-<layer src="http://ad.doubleclick.net/adl/idg.us.info.popup/ros;sz=1x1;tile=4;ord=2006?" width="1" height="1" visibility="hidden" onload="moveToAbsolute(layer4.pageX,layer4.pageY);clip.height=1;clip.width=1; visibility='show';"></layer>
+<layer src="http://ad.doubleclick.net/adl/idg.us.info.popup/ros;sz=1x1;tile=4;ord=2007?" width="1" height="1" visibility="hidden" onload="moveToAbsolute(layer4.pageX,layer4.pageY);clip.height=1;clip.width=1; visibility='show';"></layer>
 <table width="750" bgcolor="#FFFFFF">
 <tbody><tr><td>
 <script language="JavaScript" type="text/javascript">
@@ -580,7 +614,7 @@ Tacoda_AMS_DDC("http://te.infoworld.com/tte/blank.gif", "1.0");
 </td></tr>
 </tbody></table>
 
-<!--ww5.infoworld.com-->
+<!--ww3.infoworld.com-->
 <script language="javascript1.1" src="http://www.infoworld.com/script/hitbox/hbx.js"></script>
 
 
@@ -588,11 +622,11 @@ Tacoda_AMS_DDC("http://te.infoworld.com/tte/blank.gif", "1.0");
 &nbsp;<br>
 </center>
 <!-- ad layers -->	
-<layer src="http://ad.doubleclick.net/adl/idg.us.info.general/index;pos=leader; pkey=;skey=;paud=;saud=;sz=728x90;tile=1;ord=2006?" width="728" height="90" visibility="hidden" onload="moveToAbsolute(layer1.pageX,layer1.pageY);clip.height=90;clip.width=728; visibility='show';"></layer>
+<layer src="http://ad.doubleclick.net/adl/idg.us.info.general/index;pos=leader; pkey=;skey=;paud=;saud=;sz=728x90;tile=1;ord=2007?" width="728" height="90" visibility="hidden" onload="moveToAbsolute(layer1.pageX,layer1.pageY);clip.height=90;clip.width=728; visibility='show';"></layer>
 
-<layer src="http://ad.doubleclick.net/adl/idg.us.info.general/index;pos=skyscraper; pkey=;skey=;paud=;saud=;sz=160x600;tile=2;ord=2006?" width="160" height="600" visibility="hidden" onload="moveToAbsolute(layer2.pageX,layer2.pageY);clip.height=600;clip.width=160; visibility='show';"></layer>
+<layer src="http://ad.doubleclick.net/adl/idg.us.info.general/index;pos=skyscraper; pkey=;skey=;paud=;saud=;sz=160x600;tile=2;ord=2007?" width="160" height="600" visibility="hidden" onload="moveToAbsolute(layer2.pageX,layer2.pageY);clip.height=600;clip.width=160; visibility='show';"></layer>
 
-<layer src="http://ad.doubleclick.net/adl/idg.us.info.general/index;pos=imu; pkey=;skey=;paud=;saud=;sz=336x280;tile=3;ord=2006?" width="336" height="280" visibility="hidden" onload="moveToAbsolute(layer3.pageX,layer3.pageY);clip.height=280;clip.width=336; visibility='show';"></layer>
+<layer src="http://ad.doubleclick.net/adl/idg.us.info.general/index;pos=imu; pkey=;skey=;paud=;saud=;sz=336x280;tile=3;ord=2007?" width="336" height="280" visibility="hidden" onload="moveToAbsolute(layer3.pageX,layer3.pageY);clip.height=280;clip.width=336; visibility='show';"></layer>
 
 
 </body></html>
