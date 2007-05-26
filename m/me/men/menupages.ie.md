@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the menupages.ie privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207105326id_/http%3A//www.menupages.ie/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menupages.ie privacy policy that was archived on 2007-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070526144720id_/http%3A//www.menupages.ie/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
