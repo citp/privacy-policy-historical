@@ -1,0 +1,398 @@
+<!--The following is the downloaded HTML source of the creativeprooffice.com privacy policy that was archived on 2007-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070526100334id_/http%3A//www.creativeprooffice.com/site/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	
+	<title>Project Management, Time Tracking, Invoicing, Quotes : CreativePro Office</title>
+	<meta name="Description" content="CreativePro Office is a complete set of free online office management tools for creative professionals.	Manage your team, clients, projects, invoices, quotes and events from one web-based	application.">
+	<meta name="Keywords" content="project management, time tracking, invoices, quotes, tasks, online office, web, software, application, billable hours, creative professional, web developer, graphic artist">
+	<meta name="Author" content="Jeff Denton @ UpStart Productions :: Portland OR :: info@UpStart-Productions.com">
+	<meta name="Rating" content="General">
+	<meta name="ROBOTS" content="INDEX, FOLLOW">
+	<meta name="Revisit-After" content="7 days">
+	<meta name="Distribution" content="global">
+	<link rel="STYLESHEET" href="http://www.creativeprooffice.com/css/stylesMozilla.css">
+	<link rel="STYLESHEET" href="http://www.creativeprooffice.com/css/blogProduction.css">
+	
+	<link rel="icon" href="http://www.creativeprooffice.com/images/favicon.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="http://www.creativeprooffice.com/images/favicon.ico" type="image/x-icon">	
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.creativeprooffice.com/apps/xml/blogs/syndicatecpo.rss">	
+	<script language="JavaScript" type="text/javascript" src="http://www.creativeprooffice.com/apps/js/protaculous/prototype.js"></script>
+	<script language="JavaScript" type="text/javascript" src="http://www.creativeprooffice.com/apps/js/protaculous/scriptaculous.js?load=effects,dragdrop,combo"></script>
+	
+	
+	<script src="http://www.creativeprooffice.com/js/common.js" type="text/javascript"></script>
+		 
+		<script language="JavaScript" type="text/javascript">
+				
+		// remote scripting library
+		// (c) copyright 2005 modernmethod, inc
+		var sajax_debug_mode = false;
+		var sajax_request_type = "GET";
+		var sajax_target_id = "";
+		var sajax_failure_redirect = "";
+		
+		function sajax_debug(text) {
+			if (sajax_debug_mode)
+				alert(text);
+		}
+		
+ 		function sajax_init_object() {
+ 			sajax_debug("sajax_init_object() called..")
+ 			
+ 			var A;
+ 			
+ 			var msxmlhttp = new Array(
+				'Msxml2.XMLHTTP.5.0',
+				'Msxml2.XMLHTTP.4.0',
+				'Msxml2.XMLHTTP.3.0',
+				'Msxml2.XMLHTTP',
+				'Microsoft.XMLHTTP');
+			for (var i = 0; i < msxmlhttp.length; i++) {
+				try {
+					A = new ActiveXObject(msxmlhttp[i]);
+				} catch (e) {
+					A = null;
+				}
+			}
+ 			
+			if(!A && typeof XMLHttpRequest != "undefined")
+				A = new XMLHttpRequest();
+			if (!A)
+				sajax_debug("Could not create connection object.");
+			return A;
+		}
+		
+		var sajax_requests = new Array();
+		
+		function sajax_cancel() {
+			for (var i = 0; i < sajax_requests.length; i++) 
+				sajax_requests[i].abort();
+		}
+		
+		function sajax_do_call(func_name, args) {
+			var i, x, n;
+			var uri;
+			var post_data;
+			var target_id;
+			
+			sajax_debug("in sajax_do_call().." + sajax_request_type + "/" + sajax_target_id);
+			target_id = sajax_target_id;
+			if (typeof(sajax_request_type) == "undefined" || sajax_request_type == "") 
+				sajax_request_type = "GET";
+			
+			uri = "/site/privacy";
+			if (sajax_request_type == "GET") {
+			
+				if (uri.indexOf("?") == -1) 
+					uri += "?rs=" + encodeURIComponent(func_name);
+				else
+					uri += "&rs=" + encodeURIComponent(func_name);
+				uri += "&rst=" + encodeURIComponent(sajax_target_id);
+				uri += "&rsrnd=" + new Date().getTime();
+				
+				for (i = 0; i < args.length-1; i++) 
+					uri += "&rsargs[]=" + encodeURIComponent(args[i]);
+
+				post_data = null;
+			} 
+			else if (sajax_request_type == "POST") {
+				post_data = "rs=" + encodeURIComponent(func_name);
+				post_data += "&rst=" + encodeURIComponent(sajax_target_id);
+				post_data += "&rsrnd=" + new Date().getTime();
+				
+				for (i = 0; i < args.length-1; i++) 
+					post_data = post_data + "&rsargs[]=" + encodeURIComponent(args[i]);
+			}
+			else {
+				alert("Illegal request type: " + sajax_request_type);
+			}
+			
+			x = sajax_init_object();
+			if (x == null) {
+				if (sajax_failure_redirect != "") {
+					location.href = sajax_failure_redirect;
+					return false;
+				} else {
+					sajax_debug("NULL sajax object for user agent:\n" + navigator.userAgent);
+					return false;
+				}
+			} else {
+				x.open(sajax_request_type, uri, true);
+				// window.open(uri);
+				
+				sajax_requests[sajax_requests.length] = x;
+				
+				if (sajax_request_type == "POST") {
+					x.setRequestHeader("Method", "POST " + uri + " HTTP/1.1");
+					x.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+				}
+			
+				x.onreadystatechange = function() {
+					if (x.readyState != 4) 
+						return;
+
+					sajax_debug("received " + x.responseText);
+				
+					var status;
+					var data;
+					var txt = x.responseText.replace(/^\s*|\s*$/g,"");
+					status = txt.charAt(0);
+					data = txt.substring(2);
+
+					if (status == "") {
+						// let's just assume this is a pre-response bailout and let it slide for now
+					} else if (status == "-") 
+						alert("Error: " + data);
+					else {
+						if (target_id != "") 
+							document.getElementById(target_id).innerHTML = eval(data);
+						else {
+							try {
+								var callback;
+								var extra_data = false;
+								if (typeof args[args.length-1] == "object") {
+									callback = args[args.length-1].callback;
+									extra_data = args[args.length-1].extra_data;
+								} else {
+									callback = args[args.length-1];
+								}
+								callback(eval(data), extra_data);
+							} catch (e) {
+								sajax_debug("Caught error " + e + ": Could not eval " + data );
+							}
+						}
+					}
+				}
+			}
+			
+			sajax_debug(func_name + " uri = " + uri + "/post = " + post_data);
+			x.send(post_data);
+			sajax_debug(func_name + " waiting..");
+			delete x;
+			return true;
+		}
+		
+				
+		// wrapper for registerBetaUser		
+		function x_registerBetaUser() {
+			sajax_do_call("registerBetaUser",
+				x_registerBetaUser.arguments);
+		}
+		
+				</script>
+		
+		<base href="http://www.creativeprooffice.com">
+	</head>
+
+<body>
+<h1 style="display: none;">Free, Web Based Project Management with CreativePro Office</h1>		
+<div id="header"></div>
+
+<div id="page">
+
+	<div id="logoHeader">
+		<a href="http://www.creativeprooffice.com/index.php" title="CreativePro Office"><img class="logo" src="http://www.creativeprooffice.com/images/logoCPO.gif" style="border: none;" alt="CreativePro Office"></a>
+		<div id="menu">
+		<ul>
+			<li class="tabLeft"></li>
+			<li class="tab"><a href="http://www.creativeprooffice.com">Home</a></li>
+			<li class="tabLeft2"></li>
+						<li class="tab"><a href="http://www.creativeprooffice.com/site/register">Free Account</a></li>
+						<!-- <li class="tabLeft2"></li>
+			<li class="tab"><a href="http://www.creativeprooffice.com/site/faq">FAQ</a></li> -->
+			<li class="tabLeft2"></li>
+			<li class="tab"><a href="http://forum.creativeprooffice.com?logged=&amp;u=">Forum</a></li>
+			<li class="tabLeft2"></li>
+			<li class="tab"><a href="http://blog.creativeprooffice.com?logged=&amp;u=">Blog</a></li>
+			<li class="tabLeft2"></li>
+			<li class="tab"><a href="http://www.creativeprooffice.com/site/contact">Contact</a></li>
+		</ul>
+		</div>
+		<div style="clear: left;"><br></div>		
+		
+	</div> <!-- End logoHeader -->
+	
+	<div id="pageContent">	
+		<div id="pageContent2">		
+		<div id="left" style="width: 660px; float: left;">	
+			<div style="padding-left: 20px; width: 630px;">		
+				<h2>CreativePro Office Privacy Policy</h2>
+				<p class="margin">
+			
+				</p><h1>Your privacy on the Internet is of the utmost importance to us.</h1>
+				<p>At CreativePro Office we want to make your experience online satisfying and safe.</p>
+				
+				<p>Because we gather certain types of information about our users, we feel you should fully
+				understand the terms and conditions surrounding the capture and use of that
+				information. This privacy statement discloses what information we gather and how we
+				use it.</p>
+				
+				<h1>Information that CreativePro Office Gathers and Collects</h1>
+			
+				<p>CreativePro Office gathers two types of information about users:</p>
+			
+				1. Information that users provide through optional, voluntary submissions. These
+				are voluntary submissions through the "Get a free CreativePro Office account" form,
+				the contact CreativePro Office form and "Add Your Comments" form on the CreativePro Office blog.
+				<br><br>
+			
+				2. Information CreativePro Office gathers through aggregated tracking information derived
+				mainly by tallying page views throughout our site. This information allows us to
+				better tailor our content and services to our customers' needs.
+				
+				<h1>CreativePro Office Gathers User Information In The Following Processes:</h1>
+			
+				<b>Optional Voluntary Information</b><br>
+				We offer the following free services, which require some type of voluntary submission of
+				personal information by users:<br><br>
+				
+				<b>"Get a free CreativePro Office account" Registration</b><br>
+				We request an email address from the user before they can access our member areas.  
+				This information must be gathered in order to assign each user a unique user account.  A 
+				user account allows the user to upload and store resources (photos, text, messages) on the site for the 
+				purpose of contributing their knowledge to the CreativePro Office community.<br><br>
+				
+				<b>"Contact CreativePro Office" form</b><br>
+				We request an email address from the user before submitting a contact request on the CreativePro Office website.
+				<br><br>
+				
+				<b>"Add Your Comments"</b><br>
+				We require that a name and email address be provided from the user before posting
+				comments to the CreativePro Office blog.
+				<br><br>
+			
+				<b>Children</b><br>
+				Consistent with the Federal Children's Online Privacy Protection Act of 1998 (COPPA),
+				we will never knowingly request personally identifiable information from anyone under
+				the age of 13 without requesting parental consent.<br><br> 
+			
+				<b>Usage tracking</b><br>
+				CreativePro Office tracks user traffic patterns throughout the site. However, we do not
+				correlate this information with data about individual users. CreativePro Office does break down
+				overall usage statistics according to a user's domain name, browser type, and MIME
+				type by reading this information from the browser string (information contained in every
+				user's browser).<br><br>
+				
+				<b>Cookies</b><br>
+				CreativePro Office does not use cookies.<br><br>
+			
+				<b>Use of Information</b><br>
+				CreativePro Office uses any information voluntarily given by our users to enhance their
+				experience on our website, whether to provide interactive or personalized
+				elements on the sites or to better prepare future content based on the interests of our
+				users.<br><br>
+				
+				As stated above, we do gather email addresses from our users. This information
+				is only used to communicate to the user during the signup process ('Free Account' link),
+				to provide customer support, to communicate with the user after the user has posted a comment
+				on the CreativePro Office blog
+				and	distribution of opt-in email newsletters and promotions.  CreativePro Office never 
+				shares newsletter mailing lists or individual email addresses with any third parties, 
+				including advertisers, sponsors or partners.<br><br>
+				
+				When we use tracking information to determine which areas of our sites users like and
+				don't like based on traffic to those areas. We do not track what individual users read, but
+				rather how well each page performs overall. This helps us continue to build a better
+				service for you.<br><br>  
+				
+				CreativePro Office creates aggregate reports on user demographics and traffic patterns. 
+				Because we don't track the usage patterns of individual users, we will not disclose any
+				information about any individual user except to comply with applicable law or valid legal
+				process or to protect the personal safety of our users or the public.<br><br>
+				
+				<b>SECURITY</b><br>
+				CreativePro Office operates secure data networks protected by industry standard firewall and
+				password protection systems. Our security and privacy policies are periodically reviewed
+				and enhanced as necessary and only authorized individuals have access to the
+				information provided by our customers.  User passwords are encrypter using the sha1 
+				encryption algorithm and cannot be decrypted.<br><br>
+				
+				<h1>Opt-out Policy</h1>
+				We give users options wherever necessary and practical. Such choices include:
+				<ul>
+					<li>Opting not to register to receive our electronic newsletters.</li>
+					<li>Opting not to participate in certain interactive areas, which completely alleviates
+					the need to gather any personally identifiable information from our users.</li>
+				</ul>
+				
+				<h1>YOUR CONSENT</h1>
+				By using this site, you consent to the collection and use of this information by CreativePro Office. 
+				If we decide to change our privacy policy, we will post those changes on this page so that you 
+				are always aware of what information we collect, how we use it, and under what circumstances we 
+				disclose it.  If, at this time, you have concerns or questions about the CreativePro Office privacy 
+				policy, please email us at <a href="mailto:info@CreativeProOffice.com">info@CreativeProOffice.com</a>.
+				<p></p>
+			</div>
+		</div>
+		
+		<div id="right" style="width: 220px; float: left;">		
+			<div class="rightColTop"></div><div id="pageRightColumn">
+
+<!-- Login Form -->
+<center>
+<form action="http://www.creativeprooffice.com/apps/login.php" method="POST">
+<input type="hidden" name="login" value="1">
+<input type="hidden" name="fromForum" value="">
+<div id="loginBox">
+	<div id="loginBoxContainer">
+		
+	<b>User Name</b><br><input type="text" name="userid" id="userid"><br>
+	<b>Password</b><br><input type="password" name="password" id="password"><br>
+	<input type="image" src="http://www.creativeprooffice.com/images/button_login.gif" border="0" title="Login" alt="Login" id="loginButton" style="height: 24px; width: 75px;">
+	<!--<input type="submit" class="submitButton" id="loginButton" value="Login">-->
+		</div>	
+</div>
+<div style="margin-top: -20px; margin-bottom: 10px;"><a href="http://www.creativeprooffice.com/site/register" title="Sign Up for a free CreativePro Office account">Sign Up</a>
+for a free account.</div>
+</form>
+</center>
+<!-- End Login Form -->
+
+<!-- RSS Icon -->
+<div style="text-align: center;">
+	<a href="http://www.creativeprooffice.com/apps/xml/blogs/syndicatecpo.rss" title="CreativePro Office Blog Feed">
+	<img src="http://www.creativeprooffice.com/images/iconRSSFeed.gif" style="border: none;" alt="CreativePro Office Blog Feed"></a>
+</div>
+<!--  End RSS Icon -->
+
+<div class="blogDiv">
+<div style="padding-top: 10px;" class="sideBarHeader">Recent Blog Entries</div>
+
+<div class="blogSidebarLinks" style="margin-left: 10px;">
+<div style="padding-bottom: 5px;"><a href="http://blog.creativeprooffice.com/entry/CreativePro-Office-Job-Timer/">CreativePro Office Job Timer</a></div><div style="padding-bottom: 5px;"><a href="http://blog.creativeprooffice.com/entry/Invoice-Editing-is-Fixed/">Invoice Editing is Fixed!</a></div><div style="padding-bottom: 5px;"><a href="http://blog.creativeprooffice.com/entry/Invoice-Editing-Has-Some-Big-Problems/">Invoice Editing Has Some Big Problems</a></div><div style="padding-bottom: 5px;"><a href="http://blog.creativeprooffice.com/entry/CreativePro-Office-Support-Forum/">CreativePro Office Support Forum</a></div><div style="padding-bottom: 5px;"><a href="http://blog.creativeprooffice.com/entry/CPO-is-Slooooooooow-This-Morning/">CPO is Slooooooooow This Morning</a></div><div style="padding-bottom: 5px;"><a href="http://blog.creativeprooffice.com/entry/Searching-Your-Office/">Searching Your Office</a></div><div style="padding-bottom: 5px;"><a href="http://blog.creativeprooffice.com/entry/Introducing-Google-Homepage,-Netvibes-Module/">Introducing Google Homepage, Netvibes Module</a></div><div style="padding-bottom: 5px;"><a href="http://blog.creativeprooffice.com/entry/Internationalization-and-CreativePro-Office/">Internationalization and CreativePro Office</a></div><div style="padding-bottom: 5px;"><a href="http://blog.creativeprooffice.com/entry/Why-the-Tiny,-Little-Calendar?/">Why the Tiny, Little Calendar?</a></div><div style="padding-bottom: 5px;"><a href="http://blog.creativeprooffice.com/entry/A-Big-Thanks-to-the-Early-Adopters/">A Big Thanks to the Early Adopters</a></div></div>
+</div>
+</div>	
+<div class="rightColBottom" style="margin-bottom: 20px;"></div>
+
+<!-- Sponsors :: Link Exchange Area -->
+<img src="http://www.visitask.com//img/MainLogo.gif" alt="Visitask"><br>
+<a href="http://www.visitask.com/Project-management-Tools.asp" target="_blank">Project management tools and resources</a><br>
+Resources include tips, training, news, software reviews, downloadable templates and more.
+<!-- End Sponsor -->		</div>
+		<div style="clear: both;"></div>
+	</div>
+	</div><!-- End pageContent -->
+
+	<div id="footer">
+		<span class="footerLink">
+		<a href="http://www.creativeprooffice.com/site/contact">Contact</a> |
+				<a href="http://www.creativeprooffice.com/site/register">Account Sign Up</a> |
+		<a href="http://www.creativeprooffice.com/apps/login">User Login</a> |
+				<a href="http://www.creativeprooffice.com/site/privacy">Privacy Policy</a> |
+		<a href="http://www.creativeprooffice.com/site/terms">Terms of Use</a></span>&nbsp;&nbsp;&nbsp;<br><br>
+		
+		CreativePro Office is a service of UpStart Productions. Copyright © 
+		2004 - 2007 <a href="http://www.upstart-productions.com" title="Visit www.UpStart-Productions.com">UpStart Productions</a>&nbsp;&nbsp;&nbsp;
+	</div> <!-- End footer -->
+	
+</div><!-- End page -->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+	_uacct = "UA-1427307-2";
+	urchinTracker();
+</script>
+
+			
+	</body></html>
