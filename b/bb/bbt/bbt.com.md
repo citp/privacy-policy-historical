@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbt.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206123714id_/http%3A//www.bbt.com/bbt/about/privacyandsecurity/consumerprivacynotice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbt.com privacy policy that was archived on 2007-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070526192227id_/http%3A//www.bbt.com/bbt/about/privacyandsecurity/consumerprivacynotice.html) for the most accurate reproduction.*
 
 # BB&T - Consumer Privacy Notice
 
@@ -16,8 +16,6 @@ BB&T Bankcard Corporation
 BB&T Credit Services, Inc.  
 BB&T Investment Services, Inc.  
 Branch Banking and Trust Company  
-Branch Banking and Trust Company of South Carolina  
-Branch Banking and Trust Company of Virginia  
 Lendmark Financial Services, Inc.  
 Lendmark Mortgage and Finance, Inc.  
 Liberty Mortgage Corporation  
