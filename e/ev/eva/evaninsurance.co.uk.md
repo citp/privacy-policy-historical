@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the evaninsurance.co.uk privacy policy that was archived on 2006-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061004113355id_/http%3A//www.evaninsurance.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evaninsurance.co.uk privacy policy that was archived on 2007-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070526120628id_/http%3A//www.evaninsurance.co.uk/privacy.php) for the most accurate reproduction.*
 
-# eVan Insurance - Welcome to evan
+# eVan Insurance - Privacy and Security
 
 ## Privacy & Security Policy
 
