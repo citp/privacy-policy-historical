@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopzilla.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213200422id_/http%3A//www.shopzilla.com/47_-_content--privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopzilla.com privacy policy that was archived on 2007-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070526030049id_/http%3A//www.shopzilla.com/47_-_content--privacy) for the most accurate reproduction.*
 
 # Shopzilla - Product Reviews and Price Comparison
 
