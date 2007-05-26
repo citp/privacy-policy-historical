@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yoursclothing.co.uk privacy policy that was archived on 2006-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061128052559id_/http%3A//yoursclothing.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoursclothing.co.uk privacy policy that was archived on 2007-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070526110402id_/http%3A//www.yoursclothing.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Yours Plus Size Clothing and Accessories
+# Yours Clothing plus size fashion, clothing and accessories in size 14 - up
 
 Yours Clothing are totally committed to protecting the privacy of our site visitors and customers. The Yours Clothing team members are customers themselves of other Internet sites and fully appreciate and respect the importance of privacy on the Internet. We will not disclose information about our customers to third parties except where it is a necessary part of providing a service to you - e.g. arranging for a product to be sent to you.
 
