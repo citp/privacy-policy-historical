@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the consumersunion.org privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205233329id_/http%3A//www.consumersunion.org/aboutcu/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumersunion.org privacy policy that was archived on 2007-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070526043824id_/http%3A//www.consumersunion.org/about/privacy.htm) for the most accurate reproduction.*
 
 # Consumers Union
 
-**  
-Consumers Union Privacy Policy**
+**Consumers Union Privacy Policy**
 
-Consumers Union does not sell or rent any information provided by you via this web site with any third party. No such information is shared with any third party except in limited circumstances to provide products and service to you or in response to a request from law enforcement ( _see here for more details_).
+Consumers Union does not sell or rent any information provided by you via this web site with any unaffiliated third party. Our affiliates are the Consumers Union Foundation and the Consumers Union Action Fund. No such information is shared with any unaffiliated third party except in limited circumstances to provide products and service to you or in response to a request from law enforcement ( _see here for more details_).
 
 **INFORMATION WE COLLECT AND HOW WE COLLECT IT**
 
@@ -53,7 +52,36 @@ Consumer Reports Development Office
 101 Truman Ave  
 Yonkers, NY 10703 
 
-  
+**SECURITY**
+
+We work to protect your personal information from loss, misuse or unauthorized alteration. We have put in place appropriate physical, electronic and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect through all channels. 
+
+**Security Of The Personal Information You Provide**
+
+**Credit card information**. Your donation will be processed through the Consumer Reports donation system. We use data encryption technology to help protect against loss, misuse or alteration of your sensitive credit or debit card information. We use Secure Sockets Layer (SSL) software, which creates an encrypted connection for the transmission of any credit or debit card information you input online and we use the same encryption protection for any payment authorizations for transactions we request through any channel. Once we collect your credit card or debit card information, it is stored on restricted-access computers that are not directly accessible via the Internet. 
+
+**Personal Information**. We protect the confidentiality and security of your personal information by using industry-recognized security safeguards such as firewalls, coupled with security procedures to protect your information from loss, misuse or unauthorized alteration. 
+
+Please keep in mind that any information you include in a message you post online to any discussion group, or other public posting area on our sites is available to anyone with Internet access. If you don't want people to know your name or email address, for example, do not include them in any message you post publicly.
+
+**Information use by our employees and agents**. Our employees are trained and required to safeguard your information. Using physical, electronic and procedural safeguards, our policies restrict access to personal information only to those employees who need to access it for business purposes. 
+
+**Security Enforcement**
+
+Any unauthorized access to any Consumer Reports or Consumers Union web sites or to the information collected and maintained by us should be immediately brought to our attention by contacting us via email at [**cuwebsite@consumersunion.org**](mailto:cuwebsite@consumersunion.org) or by writing to us at Consumers Union Customer Relations, Attn: Security, 101 Truman Avenue, Yonkers, NY 10703. We will investigate, and, if necessary, take action to halt any violation of the security of your personal information of which we become aware.
+
+In the unlikely event that we believe the security of your sensitive personal information, such as payment card information, in our possession or control may have been compromised, we will apply the same notification policy to all of those individuals affected. We will endeavor to provide required notice as soon as possible under the circumstances and will ensure that in addition to any other methods, notices are posted on our ConsumerReports.org and (if applicable) our Consumers Union web sites.
+
+**Security Of Access To Your Online Account Information**
+
+If you sign up to receive Consumers Union Advocacy email, we maintain the information you provide to us (Name, email address, physical address and sometimes phone number) in a secure database. In order to change that information, [**click here**](http://www.consumersunion.org/updateprofile.htm), and you will be instructed how to access your username and then receive your password by email. Then you may log on to your profile, enter your username and password and make any changes to your account information. If you want to change your password or other Advocacy account information, you may do so at any time and there is a link at the bottom of every email to help you. If you wish to change your email preferences (for example, you wish to get action alerts but not a monthly newsletter), [**click here**](http://www.consumersunion.org/updateprofile.htm). 
+
+If you have forgotten your username, we will ask you for the e-mail address you used when you signed up for email (or an updated e-mail address that you have previously provided to us), and we will promptly e-mail your user name to that e-mail address. If you have forgotten your password, we will ask you for both your e-mail address and your user name.
+
+It is your responsibility to control the dissemination and use of your user name and password and to control access to and use of your Advocacy account. We urge you to keep your user name and password confidential and not disclose them to anyone. We will not be responsible or liable for any loss or damage arising from your failure to comply with this provision, for example, a third party’s unauthorized access to certain of your account information, such as your physical address.
+
+**IMPORTANT** \- Although we take these steps to protect your personal information, no method of transmitting or storing electronic data is ever completely secure, therefore we cannot promise or guarantee that such information will never be accessed, used or released in a manner that is inconsistent with this policy. 
+
 **HOW TO CONTACT US**
 
 If you have any questions or concerns about the ConsumerUnion.org and related advocacy sites Privacy Policy or its implementation, contact us at [wcrowebmaster@consumer.org](mailto:wcrowebmaster@consumer.org) or at Consumers Union West Coast Regional Office, 1535 Mission St., San Francisco, CA 94103.
@@ -64,4 +92,5 @@ If you feel that we have not followed our privacy policy please let us know. Add
 
 [If you are a subscriber to Consumer Reports or any of our other publications, click here to review Consumer Reports privacy policy.](http://www.consumerreports.org/main/detailv2.jsp?CONTENT%3C%3Ecnt_id=663&FOLDER%3C%3Efolder_id=519&bmUID=1085604890760)
 
-_This policy was last revised May 2004._
+  
+_This policy was last revised April 2007._
