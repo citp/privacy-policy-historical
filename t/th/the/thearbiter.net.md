@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thearbiter.net privacy policy that was archived on 2006-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060815150144id_/http%3A//www.thearbiter.net/Shared/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thearbiter.net privacy policy that was archived on 2007-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070527203621id_/http%3A//www.thearbiter.net/Shared/Privacy.htm) for the most accurate reproduction.*
 
 # www.TheArbiter.net - Privacy Statement
 
@@ -75,4 +75,4 @@ By accessing and using the ABT site, you signify your agreement to and acceptanc
 If you have any questions about our Privacy Policy, please contact our Customer Support Department by phone 1-801-576-9436 email support@thearbiter.net.
 
 _Last updated October 21, 2005.  
-_Copyright © 2003 - 2006 Advanced Business Technology Corporation. All rights reserved.
+_Copyright © 2003 - 2007 Advanced Business Technology Corporation. All rights reserved.
