@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kimberly-clark.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409014528id_/http%3A//www.kimberly-clark.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kimberly-clark.com privacy policy that was archived on 2007-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070527041451id_/http%3A//www.kimberly-clark.com/privacy_policy.aspx) for the most accurate reproduction.*
 
-# Kimberly-Clark: Legal Statement
+# Welcome to Kimberly-Clark, the source for information on consumer tissue, and personal care products for families, babies and children, women and the elderly, commercial tissue products, wiping products and protective apparel; professional healthcare pro
 
 This web site is owned and operated by Kimberly-Clark Corporation. Here at Kimberly-Clark, we recognize that many visitors to our site are concerned about the information they provide and how we treat that information. Our Privacy Policy addresses those concerns. We may update the Policy from time to time, so please check in occasionally. Regulations enacted in April 2000 under the U.S. Children's Online Privacy Protection Act give children under 13 years of age greater privacy protection online. Please see our policy under "Children" below. 
 
@@ -22,9 +22,8 @@ Like many companies, we sometimes use "cookie" technology on our web site. These
 
 **Contact Us**
 
-If you have any questions about our Privacy Policy, you can contact us via [e-mail](http://www.kimberly-clark.com/ask/corporate/index.asp?site=www.depend.com) or phone us at 1-800-665-9773. For postal mail, please write to us at: 
+If you have any questions about our Privacy Policy, you can contact us via e-mail or phone us at 1-800-665-9773. For postal mail, please write to us at: 
 
-    Kimberly-Clark Corporation  
-    P.O. Box 2020   
-    Neenah, WI 54957-2020  
-
+Kimberly-Clark Corporation  
+P.O. Box 2020  
+Neenah, WI 54957-2020
