@@ -1,31 +1,14 @@
-> *The following text is extracted and transformed from the ifc.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212101052id_/http%3A//www.ifc.com/ifc/article/bottom%3FAID%3D1%26CLR%3Dred%26BCLR%3DCC0000) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifc.com privacy policy that was archived on 2007-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070527125112id_/http%3A//ifc.com/bottomnav%3FaId%3D17998) for the most accurate reproduction.*
 
-# IFCTV.com > Privacy policy
+# IFC.com: Official site of the Independent Film Channel IFC tv, uncut: TV schedule, program descriptions, film credits, watch videos, buy DVDs and more at the IFC store
 
-  
-**WEBSITE PRIVACY POLICY** Click below for specific information about:  
-I. How to Reach Us  
-II. Collection of Personal Information by IFC  
-III. Collection of Personal Information by Site Partners or Co-Sponsors  
-IV. Collection of Non-Personal Information and Use of Tracking Devices  
-V. Collections by Advertisers  
-VI. Disclosure of Personal Information by IFC  
-VII. Content of Electronic Communications  
-VIII. Message Boards and Chats  
-IX. How to Discontinue Online Membership or Registrations  
-X. How to Change Personal Information  
-XI. Retention of Personal Information  
-XII. Security of the Personal Information We Collect  
-XIII. Changes to Our Privacy Policy  
-XIV. Children's Privacy Policy  
-XV. Third Party Advertising  
-XVI. Third Party Cookies
+**Click below for specific information about:**
 
 We take seriously the collection of personally identifiable information from our visitors and work to protect each visitor's privacy in accordance with the terms of this policy. We use the terms "visitors" and "you" to include any person who accesses this website for any amount of time. Please carefully review our privacy practices below. 
 
 **I. How To Reach Us**
 
-This website is owned and operated by the Independent Film Channel LLC (referred to herein as "IFC," "We," "Us," or "Our"), a subsidiary of Rainbow Media Holdings, LLC ("Rainbow"). You may contact us directly if you have any questions about this Privacy Policy. Please contact us at [webmaster@ifctv.com](mailto:webmaster@ifctv.com).
+This website is owned and operated by the Independent Film Channel LLC (referred to herein as "IFC," "We," "Us," or "Our"), a subsidiary of Rainbow Media Holdings, LLC ("Rainbow"). You may contact us directly if you have any questions about this Privacy Policy. Please contact us at [webmaster@ifc.com](mailto:webmaster@ifc.com).
 
 **II. Collection of Personal Information by IFC**
 
@@ -35,21 +18,23 @@ We may use collected personal information to allow site membership or online sub
 
 We use contract and/or third party service providers to collect visitor personal information over our website on our behalf. These providers disclose personal information to us and/or may assist us with the features provided above.
 
-The personal information collected through this website may be combined and maintained with information we collect offline. 
+The personal information collected through this website may be combined and maintained with information we collect offline.
 
 **III. Collection of Personal Information by Site Partners or Co-Sponsors**
 
 Certain third parties may join with us to offer website activities, features or promotions, such as contests or special events. For joint website activities, the co-sponsor or partner of the activity may request and collect your personal information. If you submit personal information in joint activities, the co-sponsor or partner may share personal information submitted for the activity with us and/or we may share such information with them. The co-sponsor or partner may also maintain separate privacy policies governing the collection, use and disclosure of your personal information. IFC and/or the third party partner or co-sponsor may also use the personal information collected in conjunction with such activities for the marketing of additional services, promotions or events. Depending on the activity, visitors will be able to either grant approval on the types of additional offers or services they want to receive before personal information is collected ("opt-in"), or choose to deny use of their personal information for additional purposes ("opt-out"). 
 
-IFC, its parents, affiliates and subsidiaries are not responsible for the collection, use and disclosure practices of third parties. 
+IFC, its parents, affiliates and subsidiaries are not responsible for the collection, use and disclosure practices of third parties.
 
-**IV. Collection of Non-Personal Information and Use of Tracking Devices**  
-  
+**IV. Collection of Non-Personal Information and Use of Tracking Devices**
+
 We may collect non-personal information about visitors through use of cookies or other tracking devices, such as gifs.
 
- **Cookies.** A cookie is a small data file that contains a unique identification number that a website places on your hard drive. The "cookie" is able to store information such as data about your computer, the type of browser you use, and how many times your computer visits a certain site and selections chosen.
+**Cookies.** A cookie is a small data file that contains a unique identification number that a website places on your hard drive. The "cookie" is able to store information such as data about your computer, the type of browser you use, and how many times your computer visits a certain site and selections chosen.
 
-**Gifs.** A clear gif [Graphics Interchange Format] (also known as pixel tags, web beacons or web bugs) is a tiny line of code only 1 by 1 pixel in size that is programmed to collect certain information about a visit to a particular website, such as how many hits a site link receives or to retrieve certain cookies or track visitor preferences.
+**Gifs.** A clear gif [Graphics Interchange Format] (also known as pixel tags, web beacons or web bugs) is a tiny line of code only 1 by 1 pixel in size that is programmed to collect certain information about a visit to a particular website, such as how many hits a site link receives or to retrieve certain cookies or track visitor preferences. 
+
+
 
 
 These and other tracking devices collect aggregate "hits" data, including Internet server and browser identification, the Internet service provider, clickstream information, the web page from which a visitor enters our site, web pages visited, and duration of visit and domain type. This aggregate information may also include demographic or geographic data and visitor usage patterns.
@@ -58,7 +43,7 @@ We may use these devices and information gathered to gauge the effectiveness of 
 
 We do not use tracking devices to independently collect personal information. However, the aggregate "hits" data collected by these tracking devices may electronically link to some personal information that you have voluntarily provided over our website. We do not disclose this combined information (personal information linked to our cookie and gif collection practices) to nonaffiliated third parties.
 
-To prevent the automatic recording of data by cookies, you can configure your browser to either reject all cookies or notify you when a cookie is sent. You do not need to have cookies turned on to browse most of our website. You may find, however, that some areas on the website will be slower, may not function at all, and/or you may not be able to participate in activities on our website that require you to log-in or register. 
+To prevent the automatic recording of data by cookies, you can configure your browser to either reject all cookies or notify you when a cookie is sent. You do not need to have cookies turned on to browse most of our website. You may find, however, that some areas on the website will be slower, may not function at all, and/or you may not be able to participate in activities on our website that require you to log-in or register.
 
 **V. Collections by Advertisers**
 
@@ -90,7 +75,7 @@ Online membership, newsletter and schedule features are voluntary offerings. If 
 
 **X. How to Change Personal Information**
 
-You may request that we change or delete certain personal information that we collect about you by contacting us via email at [webmaster@ifctv.com](mailto:webmaster@ifctv.com). Certain information that we collect cannot be deleted for security purposes, in accordance with various laws or per our business retention practices. We retain the right to refuse to change or delete certain personal information.
+You may request that we change or delete certain personal information that we collect about you by contacting us via email at [webmaster@ifc.com](mailto:webmaster@ifc.com). Certain information that we collect cannot be deleted for security purposes, in accordance with various laws or per our business retention practices. We retain the right to refuse to change or delete certain personal information.
 
 **XI. Retention of Personal Information**
 
@@ -100,7 +85,7 @@ We retain personal information for as long as it is needed to maintain our busin
 
 We use reasonable commercial efforts to protect the security of personal information transmitted to us through our website and stored by us. We require our employees to protect the privacy of visitors' personal information. Only employees and contractors/vendors with specific authorization have access to our databases containing visitors' personal information.
 
-Please remember that despite our security measures, the transmission of data over the Internet and our storage of data are not guaranteed to be completely secure. Parties not under the control of IFC, its parents, affiliates or subsidiaries may intercept or access electronic transmissions or other data without authorization. Thus, we cannot ensure or warrant the security of information you send to or receive from us. Any electronic transmissions that you submit or accept are at your own risk. 
+Please remember that despite our security measures, the transmission of data over the Internet and our storage of data are not guaranteed to be completely secure. Parties not under the control of IFC, its parents, affiliates or subsidiaries may intercept or access electronic transmissions or other data without authorization. Thus, we cannot ensure or warrant the security of information you send to or receive from us. Any electronic transmissions that you submit or accept are at your own risk.
 
 **XIII. Changes to Our Privacy Policy**
 
