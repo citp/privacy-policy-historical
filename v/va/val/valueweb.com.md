@@ -1,13 +1,29 @@
-> *The following text is extracted and transformed from the valueweb.com privacy policy that was archived on 2006-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061029125917id_/http%3A//www.valueweb.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valueweb.com privacy policy that was archived on 2007-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070527184353id_/http%3A//www.valueweb.com/aboutUs/privacyPolicy.htm) for the most accurate reproduction.*
 
-# 
+# ValueWeb | Privacy Policy
+
+### Looking for a Professional Pay-Per-Click Marketing Campaign?
+
+Let our certified experts get you started for as little as $300/month.  
+  
+[» Learn More](http://www.valueweb.com/online-marketing/valueTraffic.htm)  
+
+
+### Want to improve your listings on Yahoo and Google?
+
+Let our certified experts research your website for search engine friendliness and recommend ways in which to improve your listings.  
+  
+[» Learn More](http://www.valueweb.com/online-marketing/searchEngineOptimizer.htm)  
+
+
+#### Privacy Policy 
 
 **Introduction**   
-Affinity Internet, Inc. maintains this Privacy Policy in order to demonstrate our firm commitment to your privacy and the protection of your information. As part of our normal operations, we collect and, in some instances, disclose information about you. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used. 
+Hostway Corporation maintains this Privacy Policy in order to demonstrate our firm commitment to your privacy and the protection of your information. As part of our normal operations, we collect and, in some instances, disclose information about you. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used. 
 
-Affinity reserves the right to make changes to this Privacy Policy at any time. You agree that any changes will be effective when posted on-line at this location and that your continued use of Affinity's Services will constitute your acceptance of any changes or additions to this Privacy Policy. You may identify whether Affinity has revised this Privacy Policy by noting the "Effective Date" below. 
+Hostway reserves the right to make changes to this Privacy Policy at any time. You agree that any changes will be effective when posted on-line at this location and that your continued use of Hostway's Services will constitute your acceptance of any changes or additions to this Privacy Policy. You may identify whether Hostway has revised this Privacy Policy by noting the "Effective Date" below. 
 
-**Information Gathered by Affinity Internet**   
+**Information Gathered by Hostway**   
 When you order web hosting services ("Services") from us, you are required to provide certain personal information to us to allow us to process your order, start providing you with the Services you order from us, and to administer and service your account and provide ongoing technical support. The information you provide to us and that we maintain in our customer account records ranges from basic contact information, to credit card and other payment information, to technical information about your web site. You must provide all of the information we request from you when purchasing our Services. When you purchase our Services, you agree to provide and maintain accurate, complete and updated information. 
 
 After you have signed up for our Services, we may be in communication with you about your account, technical questions you may have about the Services, or any other matter relating to the Services. These communications are essential to our relationship with you and to our ability to provide you with quality Services that are responsive to your needs. As a result, we may maintain information about our communications with you for future use. 
@@ -31,4 +47,4 @@ This Privacy Policy is incorporated into and subject to the Terms of Service tha
 If you have any questions about this Privacy Policy or our privacy protection practices, please contact Customer Service at [www.affinity.com/about/contact_2.htm](http://www.affinity.com/about/contact_2.htm). 
 
 **Effective Date**   
-This Privacy Policy was last updated on September 12, 2005. 
+This Privacy Policy was last updated on April 30th, 2007. 
