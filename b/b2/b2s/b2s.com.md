@@ -1,9 +1,17 @@
-> *The following text is extracted and transformed from the b2s.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230213659id_/http%3A//b2s.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the b2s.com privacy policy that was archived on 2007-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070527111756id_/http%3A//www.b2s.com/privacy.php) for the most accurate reproduction.*
 
 # b2s.com -- Bringing buyers to suppliers!
 
-| 
+  
+| Strategic Partners  
+---  
+  |   |    
+[](http://www.nepconchina.com/)
 
+[](http://www.shundeexpo.com/)  
+  
+  |   |    
+  
 | Privicy Policy  
 ---  
 b2s.com respects its members' privacy seriously. We collect customer information in an effort to improve your product sourcing experience and to communicate with you about the most update product information. We do not sell, rent, give away, or loan any information regarding to its members to any third parties without the users' consent. This privacy policy covers b2s.com's treatment of personally identifiable information that b2s.com collects when users are on the b2s.com site and when using b2s.com's service. This policy also covers b2s.com's treatment of any personally identifiable information that b2s.com's business partners share with b2s.com. This policy does not apply to the practices of companies that b2s.com does not own or control, or to parties that b2s.com does not employ or manage. **Information Collection and Use** b2s.com collects personally identifiable information when you register for a b2s.com account, when you use certain b2s.com products or services, and when you enter promotions or sweepstakes. B2s.com may also receive personally identifiable information from our business partners. When you register with b2s.com, we ask for your name, email address, mailing address, phone, nature of business, and product interests. Once you register with b2s.com and sign in to our services, you are not anonymous to us. b2s.com also automatically receives and records information on our server logs from your browser including your IP address, b2s.com cookie information and the page you requested. b2s.com uses information for three general purposes: to customize the advertising and content you see on our pages, to fulfill your requests for certain products and services, and to contact you about specials and new products. **Information Sharing and Disclosure** b2s.com will not sell, rent, give away or loan any of your personally identifiable information to anyone. b2s.com will send personally identifiable information about you to other companies or people when: 
