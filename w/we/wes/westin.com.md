@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westin.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615021750id_/http%3A//www.starwoodhotels.com/westin/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westin.com privacy policy that was archived on 2007-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070527134514id_/http%3A//www.starwoodhotels.com/westin/legal/privacy.html) for the most accurate reproduction.*
 
 # Starwood Hotels & Resorts
 
@@ -27,7 +27,7 @@ We have provided this Privacy Statement as an explanation of the information we 
 
 ## THE WORLD OF STARWOOD:
 
-In order to provide multiple access points to the services and products we offer, Starwood Hotels & Resorts Worldwide, Inc. operates directly, or through its affiliates or service providers, many web sites, including [ www.starwood.com](http://www.starwood.com/), [ www.starwoodhotels.com](http://www.starwoodhotels.com/), [ www.starwoodvo.com](http://www.starwoodvo.com/), [www.sheraton.com](http://www.sheraton.com/) , [www.stregis.com](http://www.stregis.com/), [ www.westin.com](http://www.westin.com/), [ www.luxurycollection.com](http://www.luxurycollection.com/), [www.whotels.com](http://www.whotels.com/) , [www.alofthotels.com](http://www.alofthotels.com/),  [ www.lemeridien.com](http://www.lemeridien.com/), [ www.preferredguest.com](http://www.preferredguest.com/), [www.spg.com](http://www.spg.com/), [ www.fourpoints.com](http://www.fourpoints.com/), and [ www.starwoodgolf.com](http://www.starwoodgolf.com/). Any one of these web sites may ask for and collect personally identifiable information in order to enhance your experience and provide you with relevant information. 
+In order to provide multiple access points to the services and products we offer, Starwood Hotels & Resorts Worldwide, Inc. operates directly, or through its affiliates or service providers, many web sites, including [www.starwood.com](http://www.starwood.com/), [www.starwoodhotels.com](http://www.starwoodhotels.com/), [www.starwoodvo.com](http://www.starwoodvo.com/), [www.sheraton.com](http://www.sheraton.com/) , [www.stregis.com](http://www.stregis.com/), [www.westin.com](http://www.westin.com/), [www.luxurycollection.com](http://www.luxurycollection.com/), [www.whotels.com](http://www.whotels.com/) , [www.alofthotels.com](http://www.alofthotels.com/),  [www.lemeridien.com](http://www.lemeridien.com/), [www.preferredguest.com](http://www.preferredguest.com/), [www.spg.com](http://www.spg.com/), [www.fourpoints.com](http://www.fourpoints.com/), and [www.starwoodgolf.com](http://www.starwoodgolf.com/). Any one of these web sites may ask for and collect personally identifiable information in order to enhance your experience and provide you with relevant information. 
 
 Back to Top
 
@@ -161,13 +161,13 @@ Back to Top
 If you would like to update your information, modify your communication preferences, or if you do not want to receive marketing communications from Starwood in the future, you can contact us: 
 
 by e-mail:  
-[ starwood.preferred.guest@starwoodhotels.com](mailto:)
+[starwood.preferred.guest@starwoodhotels.com](mailto:)
 
 by telephone:  
 1-888-625-4988 
 
 by fax:  
-1-512-836-4002 
+1-519-633-8557 
 
 by writing to us at:  
 Starwood Preferred Guest Program  
