@@ -1,748 +1,533 @@
-<!--The following is the downloaded HTML source of the ifc.com privacy policy that was archived on 2005-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051212101052id_/http%3A//www.ifc.com/ifc/article/bottom%3FAID%3D1%26CLR%3Dred%26BCLR%3DCC0000) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ifc.com privacy policy that was archived on 2007-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070527125112id_/http%3A//ifc.com/bottomnav%3FaId%3D17998) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+<title>IFC.com: Official site of the Independent Film Channel 
+IFC tv, uncut: TV schedule, program descriptions, film credits, watch videos, buy DVDs and more at the IFC store</title>
+<meta name="verify-v1" content="8zxL4B/Vf9iAmLbvYUUkkD/KsJ2tTY43bcERsI5GajQ=">
+<meta name="DESCRIPTION" content="IFC.com: Official site of the Independent Film Channel 
+IFC tv, uncut: TV schedule, program descriptions, film credits, watch videos, buy DVDs and more at the IFC store.">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<script language="JavaScript1.2" type="text/javascript" src="/static/js/global.js"></script>
+<script language="JavaScript1.2" type="text/javascript" src="/static/js/topnav.js"></script>
+<script type="text/javascript" src="/static/js/sifr.js"></script>
+<script type="text/javascript" src="/static/js/swfobject.js"></script>
 
-<meta name="DESCRIPTION" content="The Official Web Page for The Independent Film Channel.">
-<meta name="KEYWORDS" content="IFC, Independent Film, indies, film, IFC Films, IFC Entertainment, IFC Productions, IFC Rant, Dinner for Five,">
-
-
-<script language="JavaScript"><!--
-
-  function getSection(sectionName) {
-    // if you want to adjust a campaign tile name, or match, just adjuste
-    // what's between the double quotes.  Don't mess with the code unless you
-    // know what you are doing.  THIS IS CASE SENSITIVE.  Section name comes
-    // from category managment, category name.
-    sectionName = new String(sectionName);
-    switch (sectionName.toUpperCase()) {
-      case "FRONTDOOR":
-        return "home";
-      case "FILMS":
-        return "films";
-      case "EVENTS":
-        return "events";
-      case "WHAT'S ON IFC":
-        return "whats_on_ifc";
-      case "ACTIVITIES":
-        return "activities";
-      case "ABOUT IFC":
-        return "about_ifc";
-      case "STORE":
-        return "store";
-      case "RIGHT NAV":
-        return "registration";
-      case "BOTTOM NAV":
-        return "legal";
-      case "FILMMAKING":
-        return "Filmmaking";
-      default:
-        return "home";
-    }
-  }
-
-  function openpopWindow(theURL,winName,features) {
-    //v1.2
-    window.open(theURL,winName,features);
-  }
-
-  var CurrentCheck;
-  function uncheckRadio(tform,Count){
-    // uncheck a currently checked radio button if clicked on by user
-     
-    if (tform.offer_0[Count].checked) {
-      if (Count == CurrentCheck) { 
-        CurrentCheck = -1;
-        tform.offer_0[Count].checked = 0;
-      } else {
-        CurrentCheck = Count;
-      }
-    }
-  }
-
-  if (document.images) {
-    var image0on = new Image();
-var image0off = new Image();
-
-image0on.src = "/ifc/img/top_nav/btn110x048logored.on.gif";
-image0off.src = "/ifc/img/top_nav/btn110x048logored.gif";
-
-var image1on = new Image();
-var image1off = new Image();
-
-image1on.src = "/ifc/img/top_nav/btn_schedulered.on.gif";
-image1off.src = "/ifc/img/top_nav/btn_schedulered.gif";
-
-var image2on = new Image();
-var image2off = new Image();
-
-image2on.src = "/ifc/img/top_nav/btn_originalsred.on.gif";
-image2off.src = "/ifc/img/top_nav/btn_originalsred.gif";
-
-var image3on = new Image();
-var image3off = new Image();
-
-image3on.src = "/ifc/img/top_nav/btn_sweepstakesred.on.gif";
-image3off.src = "/ifc/img/top_nav/btn_sweepstakesred.gif";
-
-var image4on = new Image();
-var image4off = new Image();
-
-image4on.src = "/ifc/img/top_nav/btn_newsred.on.gif";
-image4off.src = "/ifc/img/top_nav/btn_newsred.gif";
-
-
-    
-    var image6on = new Image();
-    var image6off = new Image();
-
-    image6on.src = "/ifc/img/top_nav/but54x17getred.on.gif";
-    image6off.src = "/ifc/img/top_nav/but54x17getred.off.gif";
-  }
-
-  sectionName = "";
-
-  function imgFlip(imageID, imageName) {
-  	//alert("imageID :" + imageID);
-  	//alert("imageName :" + imageName);
-    if (document.images) {
-      document.images[imageID].src = eval(imageName + ".src");
-    }
-  }
-
-  function getCookieValue(iStartPoint) {
-    var iEndOfValue = document.cookie.indexOf(";", iStartPoint);
-    if (iEndOfValue ==-1) {
-      iEndOfValue = document.cookie.length;
-    }
-    return unescape(document.cookie.substring(iStartPoint,iEndOfValue));
-  }
-
-  function getCookie(sCookieValueName) {
-    var sSearchName = sCookieValueName + "=";
-    var iSearchNameLength = sSearchName.length;
-    var iCookieLength = document.cookie.length;
-    var iSearchIndex = 0;
-    while (iSearchIndex < iCookieLength) {
-      var iSearchPoint = iSearchIndex + iSearchNameLength;
-      if (document.cookie.substring(iSearchIndex, iSearchPoint) == sSearchName) {
-        return getCookieValue(iSearchPoint);
-      }
-      iSearchIndex = document.cookie.indexOf(" ",iSearchIndex) + 1;
-      if (iSearchIndex == 0) {break};
-    }
-    return null;
-  }
-   
-	function callWhatsOn(whatsonurl) { 
-		var date = new Date();
-		var d  = date.getDate();
-		var day = (d < 10) ? '0' + d : d;
-		var m = date.getMonth() + 1;
-		var month = (m < 10) ? '0' + m : m;
-		var yy = date.getYear();
-		var year = (yy < 1000) ? yy + 1900 : yy;
-		var TZ = 'ET';
-		if(getCookie('offsetName') != null) {
-			TZ = getCookie('offsetName');
-			//alert(getCookie('offsetName'));
+<script language="JavaScript1.2" type="text/javascript" src="/static/js/channellocator.js"></script>
+<link rel="stylesheet" href="/static/css/ifc.css">
+<link rel="stylesheet" href="/static/css/sIFR-screen.css" type="text/css" media="screen">
+<link rel="stylesheet" href="/static/css/sIFR-print.css" type="text/css" media="print">
+<script language="javascript">
+function popupWindow(theURL,winName,features){//v2.0
+			window.open(theURL,winName,features)
 		}
-		var sendurl = whatsonurl + '&MO=' + month + '&DA=' + day + '&YR=' + year +'&TB=4&TZ=' + TZ;
-		//alert(sendurl);
-		// BRETT - 5/3/04 - Switched to assigning value to location.href instead
-		//                  of calling href as a function.
-		//location.href(sendurl);
-		location.href = sendurl;
-	}
+function getCookieVal (offset) {
+var endstr = document.cookie.indexOf (";", offset);
+if (endstr == -1)
+endstr = document.cookie.length;
+return unescape(document.cookie.substring(offset, endstr));
+}
+function GetCookie (name) {
+var arg = name + "=";
+var alen = arg.length;
+var clen = document.cookie.length;
+var i = 0;
+while (i < clen) {
+var j = i + alen;
+if (document.cookie.substring(i, j) == arg)
+return getCookieVal (j);
+i = document.cookie.indexOf(" ", i) + 1;
+if (i == 0) break; 
+}
+return null;
+}  
+
+function g_openWindow(page, height, width, win, scrollbars, resizable, toolbar, menubar) 
+{ 
+        if (!height) 
+
+                height = 400; 
+
+        if (!width) 
+
+                width = 560; 
+
+        if (!win) 
+
+                win = "_new" 
+
+        var h, w, scrol, siz; 
+
+        w = "WIDTH=" + width.toString(); 
+
+        h = "HEIGHT=" + height.toString(); 
+
+        scrol = ",scrollbars=" + ( (scrollbars) ? "yes" : "no" ); 
+
+        siz = ",resizable=" + ( (resizable) ? "yes" : "no" ); 
+
+        tool = ",toolbar=" + ( (toolbar) ? "yes" : "no" ); 
+
+        menu = ",menubar=" + ( (menubar) ? "yes" : "no" ); 
+
+        attr = w + "," + h + scrol + siz + tool + menu; 
+
+        popupWin = window.open(page,win,attr); 
+
+        popupWin.focus(); 
+
+} 
+function handle_zipcode_search2() { 
+		g_openWindow('/ifc/channelLocator/channelLocatorServlet', 732, 483, '_remote', false, true, false, false);            
+		}
 
 
-  function SetCookie (name, value) {  
-    var argv = SetCookie.arguments;  
-    var argc = SetCookie.arguments.length; 
-    var expires = (argc > 2) ? argv[2] : null;  
-    var path = (argc > 3) ? argv[3] : null;  
-    var domain = (argc > 4) ? argv[4] : null;  
-    var secure = (argc > 5) ? argv[5] : false;  
-    document.cookie = name + "=" + escape (value) + 
-      ((expires == null) ? "" : ("; expires=" + expires.toGMTString())) + 
-      ((path == null) ? "" : ("; path=" + path)) +  
-      ((domain == null) ? "" : ("; domain=" + domain)) +    
-      ((secure == true) ? "; secure" : "");
-  }
-// -->
+        function handle_zipcode_search(_form) { 
+
+                if(isNaN(_form.field_findtv.value)) 
+                  { 
+                    alert('Please enter a valid 5-digit zip code in Numbers.'); 
+                    _form.field_findtv.focus(); 
+                    return false; 
+                  }
+
+                if (_form.field_findtv.value == null || _form.field_findtv.value.length != 5) { 
+                        alert('Please enter a valid 5-digit zip code.'); 
+                        return false; 
+                } 
+
+                else { 
+
+                        _form.action = '/ifc/channelLocator/channelLocatorServlet'; 
+                        g_openWindow(_form.action, 732, 483, '_remote', false, true, false, false);            
+                        _form.target = '_remote'; 
+                        return true; 
+                } 
+
+        } 
+
+
 </script>
 
+</head>
+<body style="background: #000000; background-image: url('/static/img/bg/bg_red.jpg'); background-repeat: repeat-x;">
 
-
- 
-
-<script language="javascript">function openFrames(source) {document.submitframes.fpFrameSource.value=source;document.submitframes.submit();}</script>
-<link rel="stylesheet" href="/ifc/css/ifc_css.css" type="text/css">
-<style><!--
-body,td,a,p,.h{font-family:verdana, arial,sans-serif;font-size:10px;}
-//-->
-</style></head>
-
-
-	
-<body bgcolor="#CC0000" text="#FFFFFF" link="#FFFFFF" vlink="#FFFFFF" alink="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-
-<!-- 11/15/04 DIV added by TF to center all pages -->
 <div align="center">
+<!-- header -->
+<div style="width:976px; height:91px; background-image: url('/static/img/header/header_bg_red.gif');">
+<table width="976" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td width="584"><div style="width: 584px; height: 68px"><div style="padding: 13px 0 0 43px; float: left;"><a href="javascript:void(window.open('http://webclust1.liquidcompass.cc/sos4cust/IndieIFC/audio_player.php?id=INDIE103', 'INDIEIFC', 'width=450,height=376,status=no,resizable=no,scrollbars=no'))"><img src="/static/img/top_nav/logo_indie103.gif" alt="IFC" width="67" height="51" border="0"></a></div>
+		<div style="padding: 0 15px 0 290px; float: right;"><a href="/"><img src="/static/img/px.gif" width="160" height="65" alt="IFC"></a></div></div></td>
+
+		<td width="130"><img src="/static/img/px.gif" width="130" height="1" alt=""></td>
+		<!-- newsletter sign-up -->
+		<td valign="bottom"><a href="http://ifc.bside.com/?_view=_community&amp;tab=emailPrefs"><img src="/static/img/header/btn_newsletter_signup_red.gif" width="227" height="24" alt="Sign up for the IFC Newsletter" style="margin-bottom:5px;"></a></td>
+		<!-- / newsletter sign-up -->
+	</tr>
+	<!-- header links -->
+	<tr>
+		<td>
+			<table border="0" cellpadding="2" cellspacing="0" width="397">
+				<tbody><tr>
+				<td width="12" style="width:12px; height:23px;"><br></td>
+					<td class="header_txt" align="right">
+					<script language="javascript"> 
+					var channelNumber = GetCookie("channelCookie");
+					if(channelNumber != null){
+						document.write('YOUR CHANNEL: ' +  channelNumber);
+						document.write('<span class="header_vr">|</span>');	
+					}
+					else
+					{ document.write('<a href="javascript:handle_zipcode_search2()"  class="header_txt">FIND IFC ON TV </a>');
+					document.write('<span class="header_vr">|</span>');	
+					}		
+          </script><a href="javascript:handle_zipcode_search2()" class="header_txt">FIND IFC ON TV </a><span class="header_vr">|</span>
+		  </td>
+
+					<td class="header_txt" id="header-loginLinks">
+					<a href="http://ifc.bside.com/?_view=_login" class="header_txt">LOG IN</a>
+					<span class="header_vr">|</span>
+					<a href="http://ifc.bside.com/?_view=_register" class="header_txt">REGISTER</a>
+					</td>
+					<td width="71" valign="top" align="right"><a href="/podcastfeed.xml"><img src="/static/img/header/podcast_red.gif" alt="Download Audio" "=""></a></td>
+					<!--<td valign="top" align="right"><img src="/static/img/px.gif" width="30" height="15" alt=""><a href="/podcastfeed"><img src="/static/img/header/podcast_red.gif" alt="Download Audio" style="margin-left:10px;"></a><img src="/static/img/px.gif" width="20" height="15" alt=""></td>-->
+				</tr>
+			</tbody></table>
+			<script type="text/javascript" src="http://ifc.bside.com/userstatus.jsp"></script>
+
+		</td>
+		<td colspan="2">
+
+			<table border="0" cellpadding="2" cellspacing="0">
+				<tbody><tr>
+					<td valign="top"><a href="http://www.ifc.com/newsfeed.xml"><img src="/static/img/header/add_rss_red.gif" width="71" height="14" alt="RSS Feeds"></a><img src="/static/img/px.gif" width="20" height="15" alt=""></td>
+					<!-- search -->
+					<form action="/searchresult" method="GET"></form>
+					<td valign="top"><img src="/static/img/header/search_red.gif" width="77" height="15" alt="Search IFC" style="margin-left:16px;"></td>
+
+					<td><input type="text" id="field_search" value="" name="search" size="10"></td>
+					<td><input type="image" src="/static/img/header/btn_go_red.gif" width="19" height="19" value="GO" style="margin-left:2px;"></td>
+					
+
+					<!-- / search -->
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+
+	<!-- / header links -->
+</tbody></table>
+</div>
+<!-- / header -->
+<!-- topnav -->
+<table width="976" border="0" cellpadding="0" cellspacing="0">
+
+	<tbody><tr>
+		<td width="4"><img src="/static/img/top_nav/lft_red.gif" width="4" height="33" alt=""></td>
+		<td width="966" valign="top" style="background-image: url('/static/img/top_nav/topnav_bg.jpg');">
+			<div style="position:absolute;"><div style="position:relative;" align="left"><div style="position:absolute; top:-3000px; left:126px; z-index:2012; visibility:hidden; width:85px;" id="menu1Img" onmouseover="clearTimeout(mTimer);" onmouseout="startHide();" onselectstart="return false"><a href="https://web.archive.org/web/20070202200117/http://ifc.com/series"><img src="/static/img/top_nav/px.gif" width="85" height="30" border="0" alt="Series"></a></div><div class="submenu" style="left:120px; width:144px;" id="menu1" onmouseover="clearTimeout(mTimer);" onmouseout="startHide();" onselectstart="return false;" onclick="finishHide();"><div class="submenuVr1"><div class="submenuVr2"><div id="m_series1" onclick="if(mTimerS)clearTimeout(mTimerS); makiOff(&quot;m_series1&quot;,1,1); go(1,1);" onmouseover="makiOn(this,1,1);" onmouseout="makiOff(&quot;m_series1&quot;,1,1); if(mTimerS)clearTimeout(mTimerS); mTimerS=0;" class="submenuitem" style="cursor:pointer; margin-top:0px;">Gunslinger Girl</div><div id="m_series2" onclick="if(mTimerS)clearTimeout(mTimerS); makiOff(&quot;m_series2&quot;,1,2); go(1,2);" onmouseover="makiOn(this,1,2);" onmouseout="makiOff(&quot;m_series2&quot;,1,2); if(mTimerS)clearTimeout(mTimerS); mTimerS=0;" class="submenuitem" style="cursor:pointer; ">Basilisk</div><div id="m_series3" onclick="if(mTimerS)clearTimeout(mTimerS); makiOff(&quot;m_series3&quot;,1,3); go(1,3);" onmouseover="makiOn(this,1,3);" onmouseout="makiOff(&quot;m_series3&quot;,1,3); if(mTimerS)clearTimeout(mTimerS); mTimerS=0;" class="submenuitem" style="cursor:pointer; ">Greg the Bunny</div><div id="m_series4" onclick="if(mTimerS)clearTimeout(mTimerS); makiOff(&quot;m_series4&quot;,1,4); go(1,4);" onmouseover="makiOn(this,1,4);" onmouseout="makiOff(&quot;m_series4&quot;,1,4); if(mTimerS)clearTimeout(mTimerS); mTimerS=0;" class="submenuitem" style="cursor:pointer; ">Minor Accomplishments</div><div id="m_series5" onclick="if(mTimerS)clearTimeout(mTimerS); makiOff(&quot;m_series5&quot;,1,5); go(1,5);" onmouseover="makiOn(this,1,5);" onmouseout="makiOff(&quot;m_series5&quot;,1,5); if(mTimerS)clearTimeout(mTimerS); mTimerS=0;" class="submenuitem" style="cursor:pointer; ">The Business</div><div id="m_series6" onclick="if(mTimerS)clearTimeout(mTimerS); makiOff(&quot;m_series6&quot;,1,6); go(1,6);" onmouseover="makiOn(this,1,6);" onmouseout="makiOff(&quot;m_series6&quot;,1,6); if(mTimerS)clearTimeout(mTimerS); mTimerS=0;" class="submenuitem" style="cursor:pointer; ">The Henry Rollins Show</div><div id="m_series7" onclick="if(mTimerS)clearTimeout(mTimerS); makiOff(&quot;m_series7&quot;,1,7); go(1,7);" onmouseover="makiOn(this,1,7);" onmouseout="makiOff(&quot;m_series7&quot;,1,7); if(mTimerS)clearTimeout(mTimerS); mTimerS=0;" class="submenuitem" style="cursor:pointer; ">Samurai 7</div><div id="m_series8" onclick="if(mTimerS)clearTimeout(mTimerS); makiOff(&quot;m_series8&quot;,1,8); go(1,8);" onmouseover="makiOn(this,1,8);" onmouseout="makiOff(&quot;m_series8&quot;,1,8); if(mTimerS)clearTimeout(mTimerS); mTimerS=0;" class="submenuitem" style="cursor:pointer; margin-bottom:0px;">All Original Series</div></div></div></div></div></div><div style="position:absolute;"><div style="position:relative;" align="left"><div style="position:absolute; top:-3000px; left:211px; z-index:2012; visibility:hidden; width:81px;" id="menu2Img" onmouseover="clearTimeout(mTimer);" onmouseout="startHide();" onselectstart="return false"><a href="https://web.archive.org/web/20070202200117/http://ifc.com/films"><img src="/static/img/top_nav/px.gif" width="81" height="30" border="0" alt="Films"></a></div><div class="submenu" style="left:205px; width:144px;" id="menu2" onmouseover="clearTimeout(mTimer);" onmouseout="startHide();" onselectstart="return false;" onclick="finishHide();"><div class="submenuVr1"><div class="submenuVr2"><div class="submenuhed">IFC ORIGINALS</div><div id="m_films2" onclick="if(mTimerS)clearTimeout(mTimerS); makiOff(&quot;m_films2&quot;,2,2); go(2,2);" onmouseover="makiOn(this,2,2);" onmouseout="makiOff(&quot;m_films2&quot;,2,2); if(mTimerS)clearTimeout(mTimerS); mTimerS=0;" class="submenuitem" style="cursor:pointer; ">How to Eat Your Watermelon in White Company (and Enjoy It)</div><div id="m_films3" onclick="if(mTimerS)clearTimeout(mTimerS); makiOff(&quot;m_films3&quot;,2,3); go(2,3);" onmouseover="makiOn(this,2,3);" onmouseout="makiOff(&quot;m_films3&quot;,2,3); if(mTimerS)clearTimeout(mTimerS); mTimerS=0;" class="submenuitem" style="cursor:pointer; ">This Film Is Not Yet Rated</div><div id="m_films4" onclick="if(mTimerS)clearTimeout(mTimerS); makiOff(&quot;m_films4&quot;,2,4); go(2,4);" onmouseover="makiOn(this,2,4);" onmouseout="makiOff(&quot;m_films4&quot;,2,4); if(mTimerS)clearTimeout(mTimerS); mTimerS=0;" class="submenuitem" style="cursor:pointer; ">Rank</div><div id="m_films5" onclick="if(mTimerS)clearTimeout(mTimerS); makiOff(&quot;m_films5&quot;,2,5); go(2,5);" onmouseover="makiOn(this,2,5);" onmouseout="makiOff(&quot;m_films5&quot;,2,5); if(mTimerS)clearTimeout(mTimerS); mTimerS=0;" class="submenuitem" style="cursor:pointer; ">Yo Soy Boricua</div><div id="m_films6" onclick="if(mTimerS)clearTimeout(mTimerS); makiOff(&quot;m_films6&quot;,2,6); go(2,6);" onmouseover="makiOn(this,2,6);" onmouseout="makiOff(&quot;m_films6&quot;,2,6); if(mTimerS)clearTimeout(mTimerS); mTimerS=0;" class="submenuitem" style="cursor:pointer; ">A Decade Under The Influence</div><div id="m_films7" onclick="if(mTimerS)clearTimeout(mTimerS); makiOff(&quot;m_films7&quot;,2,7); go(2,7);" onmouseover="makiOn(this,2,7);" onmouseout="makiOff(&quot;m_films7&quot;,2,7); if(mTimerS)clearTimeout(mTimerS); mTimerS=0;" class="submenuitem" style="cursor:pointer; ">Fabulous!</div><div id="m_films8" onclick="if(mTimerS)clearTimeout(mTimerS); makiOff(&quot;m_films8&quot;,2,8); go(2,8);" onmouseover="makiOn(this,2,8);" onmouseout="makiOff(&quot;m_films8&quot;,2,8); if(mTimerS)clearTimeout(mTimerS); mTimerS=0;" class="submenuitem" style="cursor:pointer; ">Punk: Attitude</div><div id="m_films9" onclick="if(mTimerS)clearTimeout(mTimerS); makiOff(&quot;m_films9&quot;,2,9); go(2,9);" onmouseover="makiOn(this,2,9);" onmouseout="makiOff(&quot;m_films9&quot;,2,9); if(mTimerS)clearTimeout(mTimerS); mTimerS=0;" class="submenuhed" style="cursor:pointer; ">FILM SERIES</div><div id="m_films10" onclick="if(mTimerS)clearTimeout(mTimerS); makiOff(&quot;m_films10&quot;,2,10); go(2,10);" onmouseover="makiOn(this,2,10);" onmouseout="makiOff(&quot;m_films10&quot;,2,10); if(mTimerS)clearTimeout(mTimerS); mTimerS=0;" class="submenuitem" style="cursor:pointer; ">Grindhouse</div><div id="m_films11" onclick="if(mTimerS)clearTimeout(mTimerS); makiOff(&quot;m_films11&quot;,2,11); go(2,11);" onmouseover="makiOn(this,2,11);" onmouseout="makiOff(&quot;m_films11&quot;,2,11); if(mTimerS)clearTimeout(mTimerS); mTimerS=0;" class="submenuitem" style="cursor:pointer; margin-bottom:0px;">Samurai Saturdays</div></div></div></div></div></div><div style="position:absolute;"><div style="position:relative;" align="left"><div style="position:absolute; top:-3000px; left:292px; z-index:2012; visibility:hidden; width:76px;" id="menu3Img" onmouseover="clearTimeout(mTimer);" onmouseout="startHide();" onselectstart="return false"><a href="https://web.archive.org/web/20070202200117/http://ifc.com/news"><img src="/static/img/top_nav/px.gif" width="76" height="30" border="0" alt="News"></a></div><div class="submenu" style="left:286px; width:144px;" id="menu3" onmouseover="clearTimeout(mTimer);" onmouseout="startHide();" onselectstart="return false;" onclick="finishHide();"><div class="submenuVr1"><div class="submenuVr2"><div id="m_news1" onclick="if(mTimerS)clearTimeout(mTimerS); makiOff(&quot;m_news1&quot;,3,1); go(3,1);" onmouseover="makiOn(this,3,1);" onmouseout="makiOff(&quot;m_news1&quot;,3,1); if(mTimerS)clearTimeout(mTimerS); mTimerS=0;" class="submenuitem" style="cursor:pointer; margin-top:0px;">Top Stories</div><div id="m_news2" onclick="if(mTimerS)clearTimeout(mTimerS); makiOff(&quot;m_news2&quot;,3,2); go(3,2);" onmouseover="makiOn(this,3,2);" onmouseout="makiOff(&quot;m_news2&quot;,3,2); if(mTimerS)clearTimeout(mTimerS); mTimerS=0;" class="submenuitem" style="cursor:pointer; ">IFC Blog</div><div id="m_news3" onclick="if(mTimerS)clearTimeout(mTimerS); makiOff(&quot;m_news3&quot;,3,3); go(3,3);" onmouseover="makiOn(this,3,3);" onmouseout="makiOff(&quot;m_news3&quot;,3,3); if(mTimerS)clearTimeout(mTimerS); mTimerS=0;" class="submenuitem" style="cursor:pointer; ">The Captain's Blog</div><div id="m_news4" onclick="if(mTimerS)clearTimeout(mTimerS); makiOff(&quot;m_news4&quot;,3,4); go(3,4);" onmouseover="makiOn(this,3,4);" onmouseout="makiOff(&quot;m_news4&quot;,3,4); if(mTimerS)clearTimeout(mTimerS); mTimerS=0;" class="submenuitem" style="cursor:pointer; ">Events Calendar</div><div id="m_news5" onclick="if(mTimerS)clearTimeout(mTimerS); makiOff(&quot;m_news5&quot;,3,5); go(3,5);" onmouseover="makiOn(this,3,5);" onmouseout="makiOff(&quot;m_news5&quot;,3,5); if(mTimerS)clearTimeout(mTimerS); mTimerS=0;" class="submenuitem" style="cursor:pointer; margin-bottom:0px;">About IFC News</div></div></div></div></div></div><div style="position:absolute;"><div style="position:relative;" align="left"><div style="position:absolute; top:-3000px; left:581px; z-index:2012; visibility:hidden; width:114px;" id="menu4Img" onmouseover="clearTimeout(mTimer);" onmouseout="startHide();" onselectstart="return false"><a href="https://web.archive.org/web/20070202200117/http://ifc.bside.com/?_view=_community"><img src="/static/img/top_nav/px.gif" width="114" height="30" border="0" alt="Community"></a></div><div class="submenu" style="left:575px; width:144px;" id="menu4" onmouseover="clearTimeout(mTimer);" onmouseout="startHide();" onselectstart="return false;" onclick="finishHide();"><div class="submenuVr1"><div class="submenuVr2"><div id="m_community1" onclick="if(mTimerS)clearTimeout(mTimerS); makiOff(&quot;m_community1&quot;,4,1); go(4,1);" onmouseover="makiOn(this,4,1);" onmouseout="makiOff(&quot;m_community1&quot;,4,1); if(mTimerS)clearTimeout(mTimerS); mTimerS=0;" class="submenuitem" style="cursor:pointer; margin-top:0px;">My Community</div><div id="m_community2" onclick="if(mTimerS)clearTimeout(mTimerS); makiOff(&quot;m_community2&quot;,4,2); go(4,2);" onmouseover="makiOn(this,4,2);" onmouseout="makiOff(&quot;m_community2&quot;,4,2); if(mTimerS)clearTimeout(mTimerS); mTimerS=0;" class="submenuitem" style="cursor:pointer; ">My Film Reviews</div><div id="m_community3" onclick="if(mTimerS)clearTimeout(mTimerS); makiOff(&quot;m_community3&quot;,4,3); go(4,3);" onmouseover="makiOn(this,4,3);" onmouseout="makiOff(&quot;m_community3&quot;,4,3); if(mTimerS)clearTimeout(mTimerS); mTimerS=0;" class="submenuitem" style="cursor:pointer; ">My Calendar</div><div id="m_community4" onclick="if(mTimerS)clearTimeout(mTimerS); makiOff(&quot;m_community4&quot;,4,4); go(4,4);" onmouseover="makiOn(this,4,4);" onmouseout="makiOff(&quot;m_community4&quot;,4,4); if(mTimerS)clearTimeout(mTimerS); mTimerS=0;" class="submenuitem" style="cursor:pointer; ">My Profile</div><div id="m_community5" onclick="if(mTimerS)clearTimeout(mTimerS); makiOff(&quot;m_community5&quot;,4,5); go(4,5);" onmouseover="makiOn(this,4,5);" onmouseout="makiOff(&quot;m_community5&quot;,4,5); if(mTimerS)clearTimeout(mTimerS); mTimerS=0;" class="submenuitem" style="cursor:pointer; ">IFC Buzz</div><div id="m_community6" onclick="if(mTimerS)clearTimeout(mTimerS); makiOff(&quot;m_community6&quot;,4,6); go(4,6);" onmouseover="makiOn(this,4,6);" onmouseout="makiOff(&quot;m_community6&quot;,4,6); if(mTimerS)clearTimeout(mTimerS); mTimerS=0;" class="submenuitem" style="cursor:pointer; margin-bottom:0px;">Film School</div></div></div></div></div></div><div style="position:absolute;"><div style="position:relative;" align="left"><div style="position:absolute; top:-3000px; left:815px; z-index:2012; visibility:hidden; width:84px;" id="menu5Img" onmouseover="clearTimeout(mTimer);" onmouseout="startHide();" onselectstart="return false"><a href="https://web.archive.org/web/20070202200117/http://store.ifc.com"><img src="/static/img/top_nav/px.gif" width="84" height="30" border="0" alt="Store"></a></div><div class="submenu" style="left:809px; width:144px;" id="menu5" onmouseover="clearTimeout(mTimer);" onmouseout="startHide();" onselectstart="return false;" onclick="finishHide();"><div class="submenuVr1"><div class="submenuVr2"><div id="m_store1" onclick="if(mTimerS)clearTimeout(mTimerS); makiOff(&quot;m_store1&quot;,5,1); go(5,1);" onmouseover="makiOn(this,5,1);" onmouseout="makiOff(&quot;m_store1&quot;,5,1); if(mTimerS)clearTimeout(mTimerS); mTimerS=0;" class="submenuitem" style="cursor:pointer; margin-top:0px;">IFC Documentaries</div><div id="m_store2" onclick="if(mTimerS)clearTimeout(mTimerS); makiOff(&quot;m_store2&quot;,5,2); go(5,2);" onmouseover="makiOn(this,5,2);" onmouseout="makiOff(&quot;m_store2&quot;,5,2); if(mTimerS)clearTimeout(mTimerS); mTimerS=0;" class="submenuitem" style="cursor:pointer; ">IFC Series</div><div id="m_store3" onclick="if(mTimerS)clearTimeout(mTimerS); makiOff(&quot;m_store3&quot;,5,3); go(5,3);" onmouseover="makiOn(this,5,3);" onmouseout="makiOff(&quot;m_store3&quot;,5,3); if(mTimerS)clearTimeout(mTimerS); mTimerS=0;" class="submenuitem" style="cursor:pointer; ">Henry Rollins</div><div id="m_store4" onclick="if(mTimerS)clearTimeout(mTimerS); makiOff(&quot;m_store4&quot;,5,4); go(5,4);" onmouseover="makiOn(this,5,4);" onmouseout="makiOff(&quot;m_store4&quot;,5,4); if(mTimerS)clearTimeout(mTimerS); mTimerS=0;" class="submenuitem" style="cursor:pointer; ">Uncensored</div><div id="m_store5" onclick="if(mTimerS)clearTimeout(mTimerS); makiOff(&quot;m_store5&quot;,5,5); go(5,5);" onmouseover="makiOn(this,5,5);" onmouseout="makiOff(&quot;m_store5&quot;,5,5); if(mTimerS)clearTimeout(mTimerS); mTimerS=0;" class="submenuitem" style="cursor:pointer; ">Escape From Hollywood</div><div id="m_store6" onclick="if(mTimerS)clearTimeout(mTimerS); makiOff(&quot;m_store6&quot;,5,6); go(5,6);" onmouseover="makiOn(this,5,6);" onmouseout="makiOff(&quot;m_store6&quot;,5,6); if(mTimerS)clearTimeout(mTimerS); mTimerS=0;" class="submenuitem" style="cursor:pointer; ">Pulp Indies</div><div id="m_store7" onclick="if(mTimerS)clearTimeout(mTimerS); makiOff(&quot;m_store7&quot;,5,7); go(5,7);" onmouseover="makiOn(this,5,7);" onmouseout="makiOff(&quot;m_store7&quot;,5,7); if(mTimerS)clearTimeout(mTimerS); mTimerS=0;" class="submenuitem" style="cursor:pointer; ">Indie Screams</div><div id="m_store8" onclick="if(mTimerS)clearTimeout(mTimerS); makiOff(&quot;m_store8&quot;,5,8); go(5,8);" onmouseover="makiOn(this,5,8);" onmouseout="makiOff(&quot;m_store8&quot;,5,8); if(mTimerS)clearTimeout(mTimerS); mTimerS=0;" class="submenuitem" style="cursor:pointer; ">Anime</div><div id="m_store9" onclick="if(mTimerS)clearTimeout(mTimerS); makiOff(&quot;m_store9&quot;,5,9); go(5,9);" onmouseover="makiOn(this,5,9);" onmouseout="makiOff(&quot;m_store9&quot;,5,9); if(mTimerS)clearTimeout(mTimerS); mTimerS=0;" class="submenuitem" style="cursor:pointer; ">Queer Cinema</div><div id="m_store10" onclick="if(mTimerS)clearTimeout(mTimerS); makiOff(&quot;m_store10&quot;,5,10); go(5,10);" onmouseover="makiOn(this,5,10);" onmouseout="makiOff(&quot;m_store10&quot;,5,10); if(mTimerS)clearTimeout(mTimerS); mTimerS=0;" class="submenuitem" style="cursor:pointer; ">ISA Nominees</div><div id="m_store11" onclick="if(mTimerS)clearTimeout(mTimerS); makiOff(&quot;m_store11&quot;,5,11); go(5,11);" onmouseover="makiOn(this,5,11);" onmouseout="makiOff(&quot;m_store11&quot;,5,11); if(mTimerS)clearTimeout(mTimerS); mTimerS=0;" class="submenuitem" style="cursor:pointer; ">IFC Must Haves</div><div id="m_store12" onclick="if(mTimerS)clearTimeout(mTimerS); makiOff(&quot;m_store12&quot;,5,12); go(5,12);" onmouseover="makiOn(this,5,12);" onmouseout="makiOff(&quot;m_store12&quot;,5,12); if(mTimerS)clearTimeout(mTimerS); mTimerS=0;" class="submenuitem" style="cursor:pointer; margin-bottom:0px;">Books</div></div></div></div></div></div><div style="position:absolute;"><div style="position:relative;" align="left"><div style="position:absolute; top:-3000px; left:899px; z-index:2012; visibility:hidden; width:78px;" id="menu6Img" onmouseover="clearTimeout(mTimer);" onmouseout="startHide();" onselectstart="return false"><a href="https://web.archive.org/web/20070202200117/http://ifc.com/video"><img src="/static/img/top_nav/px.gif" width="78" height="30" border="0" alt="Video"></a></div><div class="submenu" style="left:824px; width:144px;" id="menu6" onmouseover="clearTimeout(mTimer);" onmouseout="startHide();" onselectstart="return false;" onclick="finishHide();"><div class="submenuVr1"><div class="submenuVr2"><div id="m_video1" onclick="if(mTimerS)clearTimeout(mTimerS); makiOff(&quot;m_video1&quot;,6,1); go(6,1);" onmouseover="makiOn(this,6,1);" onmouseout="makiOff(&quot;m_video1&quot;,6,1); if(mTimerS)clearTimeout(mTimerS); mTimerS=0;" class="submenuitem" style="cursor:pointer; margin-top:0px;">Uncut on Demand</div><div id="m_video2" onclick="if(mTimerS)clearTimeout(mTimerS); makiOff(&quot;m_video2&quot;,6,2); go(6,2);" onmouseover="makiOn(this,6,2);" onmouseout="makiOff(&quot;m_video2&quot;,6,2); if(mTimerS)clearTimeout(mTimerS); mTimerS=0;" class="submenuitem" style="cursor:pointer; ">IFC Video</div><div id="m_video3" onclick="if(mTimerS)clearTimeout(mTimerS); makiOff(&quot;m_video3&quot;,6,3); go(6,3);" onmouseover="makiOn(this,6,3);" onmouseout="makiOff(&quot;m_video3&quot;,6,3); if(mTimerS)clearTimeout(mTimerS); mTimerS=0;" class="submenuitem" style="cursor:pointer; ">The Henry Rollins Show</div><div id="m_video4" onclick="if(mTimerS)clearTimeout(mTimerS); makiOff(&quot;m_video4&quot;,6,4); go(6,4);" onmouseover="makiOn(this,6,4);" onmouseout="makiOff(&quot;m_video4&quot;,6,4); if(mTimerS)clearTimeout(mTimerS); mTimerS=0;" class="submenuitem" style="cursor:pointer; margin-bottom:0px;">IFC Video Archive</div></div></div></div></div></div><table width="966" border="0" cellpadding="0" cellspacing="0">
+			<!--NOTE: contents of this js file can be written into page if some menu items are populated with dynamic data-->
+
+			<script language="JavaScript1.2" type="text/javascript" src="/static/js/topnavLoad.js"></script>
+				<tbody><tr>
+					<td width="122"><a href="http://ifc.bside.com/schedule/"><img src="/static/img/top_nav/schedule.gif" width="122" height="30" alt="Schedule"></a></td> 
+					<td width="85"><a href="http://ifc.com/series" onmouseover="show(&quot;series&quot;,event);" onmouseout="startHide2();"><img src="/static/img/top_nav/series.gif" width="85" height="30" alt="Series"></a></td> 
+					<td width="81"><a href="http://ifc.com/films" onmouseover="show(&quot;films&quot;,event);" onmouseout="startHide2();"><img src="/static/img/top_nav/films.gif" width="81" height="30" alt="Films"></a></td>
+
+					<td width="94" align="right"><a href="http://ifc.com/news" onmouseover="show(&quot;news&quot;,event);" onmouseout="startHide2();"><img src="/static/img/top_nav/news.gif" width="76" height="30" alt="News"></a></td>
+					<td width="195"><img src="/static/img/top_nav/clip_btm_red.jpg" width="166" height="33" alt="" style="margin-left: 23px"></td>
+					<td width="114"><a href="http://ifc.bside.com/?_view=_community" onmouseover="show(&quot;community&quot;,event);" onmouseout="startHide2();"><img src="/static/img/top_nav/community.gif" width="114" height="30" alt="Community"></a></td>
+					<td width="119"><a href="http://medialab.ifc.com/"><img src="/static/img/top_nav/short_films.gif" width="119" height="30" alt="Short Films"></a></td>
+
+					<td width="84"><a href="http://store.ifc.com" onmouseover="show(&quot;store&quot;,event);" onmouseout="startHide2();"><img src="/static/img/top_nav/store.gif" width="84" height="30" alt="Store"></a></td>
+					<td width="72"><a href="http://ifc.com/video" onmouseover="show(&quot;video&quot;,event);" onmouseout="startHide2();"><img src="/static/img/top_nav/video.gif" width="72" height="30" alt="Video"></a></td>
+				</tr>
+			</tbody></table>
+		</td>
+
+		<td width="6"><img src="/static/img/top_nav/rt_red.gif" width="6" height="33" alt=""></td>
+	</tr>
+</tbody></table>
+<!-- / topnav -->
 
 
-
-<form method="post" action="/ifc/events/frame/1,,CAT0-44-CLR-green-BCLR-339933-,0.html" name="submitframes"><input type="hidden" name="fpFrameSource" value=""></form>
-
-
-
-
-
-
-
-
-
-<table width="752" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr> 
-    <td width="15"><img src="/ifc/img/spacer.gif" width="1" height="1"></td>
-    <td width="562" valign="top"><img src="/ifc/img/spacer.gif" width="1" height="15"><table width="562" border="0" bgcolor="#000000" cellspacing="0" cellpadding="0" style="border: solid 1px #000000;">
-        <tbody><tr> 
-          <td colspan="7"><img src="/ifc/img/spc001x001transparent.gif" width="1" height="5"></td>
-        </tr>
-       
-        <tr>
-
-        <td height="48"><a href="/ifc/home"><img src="/ifc/img/ifc_logo-05.gif" width="82" height="48" border="0"></a></td>
-        
-          <td height="27"><a href="javascript:callWhatsOn('/ifc/whatson?CAT0=45&amp;CLR=blue&amp;BCLR=00A8EC')" "=""><img src="/ifc/img/top_nav/btn_schedule.gif" alt="What's on ifc" name="image1" border="0"></a></td><td height="27"><a href="/ifc/whatorig?CAT0=45&amp;CAT1=5606&amp;CLR=yellow&amp;BCLR=FFCC33" "=""><img src="/ifc/img/top_nav/btn_originals.gif" alt="ORIGINALS" name="image2" border="0"></a></td><td height="27"><a href="/ifc/activities?CAT0=46&amp;CAT1=141&amp;CLR=green&amp;BCLR=339933" "=""><img src="/ifc/img/top_nav/btn_sweepstakes.gif" alt="Sweepstakes" name="image3" border="0"></a></td><td height="27"><a href="/ifc/insiderNews?CAT0=5827&amp;CLR=black&amp;BCLR=000000" "=""><img src="/ifc/img/top_nav/btn_news.gif" alt="INSIDER NEWS" name="image4" border="0"></a></td>
-              <td height="48"><a href="http://www.ifc.com/ifc/what/0,5266,CAT0-45-CAT1-6666-SHID-19963-AID-14288-TZ-ET-TB-4-CLR-black-BCLR-000000-,00.html" target="_self"><img src="/ifc/img/top_nav/btn_blogs.gif" alt="Blogs" name="image6" border="0"></a></td> 
-                <td height="48"><a href="#" onclick="javascript:window.open(&quot;http://live.video.rainbow-media-online.com/video.jsp?video_id=2042&amp;template_id=1&quot;, &quot;videoWindow&quot;, &quot;scrollbars=no,status=yes,width=729,height=500&quot;)"><img src="/ifc/img/top_nav/btn_getifc.gif" alt="Videos" name="image6" border="0"></a></td> 
-                
-  </tr>  
-        <tr> 
-          <td colspan="7"><img src="/ifc/img/spc001x001transparent.gif" width="1" height="5"></td>
-             </tr>
-
-      </tbody></table>
-      
-    </td>
-    <td width="15">&nbsp;</td>
-<!--    <td width="150" valign="top">&nbsp;</td> -->
-    <td width="160" valign="bottom" align="center">
-    
-      <table border="0" cellspacing="0" cellpadding="1">
-    <form method="post" action="/ifc/what/search"></form>
-      
-      
-        <tbody><tr>
-        <td colspan="2"><img src="/ifc/img/btn_search_red.gif" width="86" height="27" border="0" alt="Use this form to search IFC"></td>
-        </tr>
-        <tr> 
-          <td align="left" valign="bottom"><input type="text" name="fp_search" size="21" style="font-size:10px;"></td>
-          <td valign="bottom" width="27"><input type="image" border="0" name="imageField22" src="/ifc/img/btn_go.gif" width="27" height="15" alt="Search">
-        </td></tr>
- 
-      </tbody></table>
-    </td> 
-    
-    
-     </tr> 
-  
-
- 
-  
-  <tr> 
-    <td width="15"><img src="/ifc/img/spc001x001transparent.gif" width="15" height="1"></td>
-    <td width="562" align="left" valign="top">
-      <table width="562" border="0" bgcolor="#FFFFFF" cellspacing="0" cellpadding="0">
-        <tbody><tr> 
-          <td width="200" bgcolor="#000000" valign="top" height="55"><img src="/ifc/img/txt135x024privacypolicy.gif" width="135" height="24" border="0" alt="Privacy Policy" hspace="5" vspace="5"></td>
-          <td bgcolor="#000000" valign="top" height="55"> </td>
-          <td bgcolor="#000000" valign="top" height="55"> </td>
-        </tr>
-        <tr> 
-          <td colspan="3" height="1" valign="top"><img src="/ifc/img/spc001x001transparent.gif" width="1" height="1"></td>
-        </tr>
-        <tr> 
-          <td colspan="3" valign="top"> 
-            <table width="562" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr> 
-                <td rowspan="4" bgcolor="#000000" width="1"><img src="/ifc/img/spc001x001transparent.gif" width="1" height="1"></td>
-                <td colspan="3" bgcolor="#000000" height="1"><img src="/ifc/img/spc001x001transparent.gif" width="1" height="1"></td>
-                <td rowspan="4" bgcolor="#000000" width="1"><img src="/ifc/img/spc001x001transparent.gif" width="1" height="1"></td>
-              </tr>
-              <tr> 
-                <td width="5"><img src="/ifc/img/spc001x001transparent.gif" width="5" height="1"></td>
-                <td rowspan="2" valign="top" width="540"><br><span class="black_hdr_14"><b>WEBSITE PRIVACY POLICY</b><br><br>
-</span><span class="blackbold">Click below for specific information about:</span><br>
-            <span class="articletextblack"><a href="#reachus" class="articletextblack">I. How to Reach Us</a><br>
-            <a href="#collection" class="articletextblack">II. Collection of Personal Information by IFC</a><br>
-            <a href="#sitepartners" class="articletextblack">III. Collection of Personal Information by Site Partners or Co-Sponsors</a><br>
-            <a href="#tracking" class="articletextblack">IV. Collection of Non-Personal Information and Use of Tracking Devices</a><br>
-            <a href="#advertisers" class="articletextblack">V. Collections by Advertisers</a><br>
-            <a href="#disclosure" class="articletextblack">VI. Disclosure of Personal Information by IFC</a><br>
-            <a href="#communication" class="articletextblack">VII. Content of Electronic Communications</a><br>
- <a href="#boards" class="articletextblack">VIII. Message Boards and Chats</a><br>
-            <a href="#discontinue" class="articletextblack">IX. How to Discontinue Online Membership or Registrations</a><br>
-            <a href="#change" class="articletextblack">X. How to Change Personal Information</a><br>
-            <a href="#retention" class="articletextblack">XI. Retention of Personal Information</a><br>
- <a href="#security" class="articletextblack">XII. Security of the Personal Information We Collect</a><br>
-            <a href="#privacy" class="articletextblack">XIII. Changes to Our Privacy Policy</a><br>
-            <a href="#children" class="articletextblack">XIV. Children's Privacy Policy</a><br>
-            <a href="#thirdparty" class="articletextblack">XV. Third Party Advertising</a><br>
-            <a href="#thirdparty_cookies" class="articletextblack">XVI. Third Party Cookies</a><br>
-  <br>
- 
- We take seriously the collection of personally identifiable information from our visitors and work to protect each visitor's privacy in accordance with the terms of this policy.  We use the terms "visitors" and "you" to include any person who accesses this website for any amount of time.  Please carefully review our privacy practices below. <br> <br>
- 
-
- 
-  </span> <span class="blackbold"><a name="reachus"></a><b>I. How To Reach Us</b></span><br>
-  <br>
-  <span class="articletextblack">This website is owned and operated by the Independent Film Channel LLC (referred to herein as "IFC," "We," "Us," or "Our"), a subsidiary of Rainbow Media Holdings, LLC ("Rainbow").  You may contact us directly if you have any questions about this Privacy Policy. Please contact us at </span><a href="mailto:webmaster@ifctv.com"><span class="emailbluelink">webmaster@ifctv.com</span></a>.<br>
+<!-- top row content -->
+<table width="976" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr valign="top">
+		<td width="6"><img src="/static/img/bg/goldbox1_lft.jpg" width="6" height="279" alt=""></td>
+		<td width="203" valign="top"><img src="/static/img/bg/tonightonifc_top.jpg" width="203" height="13" alt=""><br>
+			<!-- tonight on ifc -->
+			<div id="schedule_swf"><div style="width:203; height:219; background-color:#210000;"><div align="left" style="padding:12px; color:#ffffff; font-family:arial,helvetica; font-size:12px;">This site requires a newer version of Flash. <a href="https://web.archive.org/web/20071012042506/http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" target="link" style="color:#ffffff;">Click here to download</a></div></div>
+			</div>
+			<!-- / tonight on ifc -->
+			<!-- find ifc tv -->
+			<table width="203" border="0" cellpadding="0" cellspacing="0" style="background-image: url('/static/img/find_tv/findtv_bg.jpg');">
+				<form name="cl_zipForm" method="post" onsubmit="javascript:return handle_zipcode_search(this);"></form>
+				<tbody><tr>
+					<td width="10" style="width:10px; height:47px;"><br></td>
+					<td width="158" valign="top"><img src="/static/img/find_tv/sh_find.gif" width="120" height="19" alt="Find IFC on My TV" style="margin-left:2px;"><br><input name="locationZip" type="text" id="field_findtv" value="Enter Zip" size="10" onfocus="if (this.defaultValue==this.value) this.value = ''"></td>
+					<td width="35" valign="bottom"><input type="image" src="/static/img/find_tv/btn_go.gif" width="17" height="19" value="GO" style="margin-bottom:9px;"></td>
+				</tr>
+				
+			</tbody></table>
+			<!-- find ifc tv -->
+		</td>
+		<td width="8"><img src="/static/img/bg/goldbox1_sp1.jpg" width="8" height="279" alt=""></td>
+		<!-- main feature/photo -->
+		<td width="542">
+			<div id="goldbox1_col2">
+				<div id="goldbox1_col2_featured">
+					<div class="blob_brown">
+						<div class="lt_brown_box_2">
+							<div class="beige_box">
+								<div style="background-image: url(/static/img/search/bg_blob.jpg); height: 231px;">
+									<div style="padding: 20px;width:240">
+										<!-- Title & intro text -->
+										<img src="/static/img/about/top_privacy.gif" alt="Privacy Policy" width="136" height="23" border="0"><br>
 <br>
-            <span class="blackbold"><a name="collection"></a><b>II. Collection of Personal Information by IFC</b></span><br>
-<br>
-<span class="articletextblack">We provide various informative, educational, and/or entertaining features as part of this website. To operate these features and allow website interaction or participation, we may request and collect certain personally identifiable information from our visitors, including, but not limited to, name, home and email addresses, telephone numbers and birth date (referred to herein as "personal information").  For example, to participate in contests, we may ask you to complete an online entry form that requires the submission of your personal information.  We use the personal information on the entry form for contest registration, to contact the winners of the contest or as otherwise described below.<br><br>
+<!--span  class="regtext">
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam. adipiscing elit, sed diam. sed diam. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam. adipiscing elit, sed diam. 
+<br /></span-->
+										<!-- / Title & intro text -->
+										
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</td>
+		<!-- / main feature/photo -->
+		<td width="7"><img src="/static/img/bg/goldbox1_sp2.jpg" width="7" height="279" alt=""></td>
+		<!-- Channel Navigation -->
+		<td width="203">
+			<div><img src="/static/img/bg/checklist_top.jpg" width="203" height="12" alt=""></div>
+			
+			<div id="goldbox1_col3">
+				<div style="padding: 10px 15px 0 15px">
+					<img src="/static/img/featured/blobs/be_blt.gif" width="17" height="18" alt="" style="margin-right: 2px">
+					<a href="8_0_about_ifc.html"><img src="/static/img/about/nav_about.gif" alt="About IFC" width="103" height="19" border="0"></a>
+				</div>
+				<div id="section_nav"><div style="width:195; height:185; background-color:#1D0000;"><div align="left" style="padding:12px; color:#ffffff; font-family:arial,helvetica; font-size:12px;">This site requires a newer version of Flash. <a href="https://web.archive.org/web/20071012042506/http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" target="link" style="color:#ffffff;">Click here to download</a></div></div>
+				</div>
+			</div>
+		</td>
+		<!-- / Channel Navigation -->
+		<td width="7"><img src="/static/img/bg/goldbox1_rt.jpg" width="6" height="279" alt=""></td>
+	</tr>
+	<tr>
+		<td width="6"><img src="/static/img/bg/goldbox1_lftbtm_red.gif" width="6" height="5" alt=""></td>
+		<td width="963" colspan="5"><img src="/static/img/bg/goldbox1_btm.jpg" width="963" height="5" alt=""></td>
+		<td width="7"><img src="/static/img/bg/goldbox1_rtbtm_red.gif" width="7" height="5" alt=""></td>
+	</tr>
+</tbody></table>
+<!-- / top row content -->
 
+
+<!-- main row content -->
+<div style="padding-right: 3px">
+<div style="padding-top: 10px; width: 976px;">
+	<div><img src="/static/img/bg/goldbox2_top.gif" width="976" height="9" alt=""></div>
+	<div align="left" id="gold_template_bg">
+		<div id="gold_template_dirt">
+		<table cellpadding="0" cellspacing="0" border="0">
+			<tbody><tr valign="top">
+				<!-- wooden box -->
+				<td style="padding-left: 5px">
+					<div style="width: 762px">
+						<div><img src="/static/img/bg/woodbox_lrg_top.jpg" width="759" height="6" alt=""></div>
+						<div style="background-image: url('/static/img/bg/woodbox_lrg.jpg'); background-repeat: repeat-y; padding: 1px 10px 0 7px">
+							<div>
+								<table cellpadding="0" cellspacing="0" border="0">
+									<tbody><tr valign="top">
+										<!-- column 1 -->
+										<td>
+											<!-- ad spot -->
+											<div style="padding: 0 1px 0 4px">
+												<iframe src="/ifc.com/includes/centeradbanner_iframe?sectionName=BottomNav" scrolling="no" frameborder="0" width="300px" height="250px" marginheight="0px" marginweidth="0px" class="beige_box"></iframe>
+											</div>
+											<!-- / ad spot -->
+											
+											<!-- blob - also check out -->
+											<div id="check_it_out">
+												<div><img src="/static/img/featured/blobs/bg_top.gif" width="313" height="8" alt=""></div>
+												<div style="background-image: url('/static/img/featured/blobs/bg.jpg')">
+													<div style="padding: 0 10px"><img src="/static/img/featured/blobs/also_check_out/also_check_out.gif" width="169" height="20" alt="Also Check Out"></div>
+													<div style="padding: 8px 2px 10px 0">
+														<div><img src="/static/img/featured/blobs/also_check_out/bg_top.gif" width="306" height="7" alt=""></div>
+														<div id="checkout_swf" align="center" style="width: 306px; background-image: url('/static/img/featured/blobs/also_check_out/bg.gif'); background-repeat: repeat-y;"><div style="width:299; height:242; background-color:#1a0707;"><div align="left" style="padding:12px; color:#ffffff; font-family:arial,helvetica; font-size:12px;">This site requires a newer version of Flash. <a href="https://web.archive.org/web/20071012042506/http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" target="link" style="color:#ffffff;">Click here to download</a></div></div>														</div>
+														<div><img src="/static/img/featured/blobs/also_check_out/bg_btm.gif" width="306" height="1" alt=""></div>
+													</div>
+												</div>
+												<div><img src="/static/img/featured/blobs/bg_btm.gif" width="313" height="8" alt=""></div>
+											</div>
+											<!-- / blob - also check out -->
+											
+										</td>
+										<!-- / column 1 -->
+										
+										<!-- column 2 -->
+										<td style="padding-left: 4px">
+											<div><img src="/static/img/featured/blobs/bg_be_top_bordo.gif" width="425" height="8" alt=""></div>
+											<div style="background: #561700">
+												<table cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
+													<tbody><tr valign="top">
+														<td style="background-image: url(/static/img/featured/blobs/border_be_btm_bordo.gif); background-position: bottom left; background-repeat: no-repeat"><img src="/static/img/featured/blobs/border_be_top_bordo.gif" width="2" height="249" alt=""></td>
+														<td style="width: 100%; height: 300px">
+															<div style="padding: 4px 3px 0 3px" class="regtext">
+																<!-- Search Results -->
+																<div style="padding: 0 5px">
+																<table cellpadding="0" cellspacing="0" border="0">
+																	<tbody><tr>
+																		<td valign="top"><img src="/static/img/featured/blobs/be_blt.gif" width="17" height="18" alt="" style="margin-right: 5px"></td>
+																		<!-- Search Results -->
+																		<td><img src="/static/img/about/hed_privacy.gif" alt="Website Privacy Policy" width="203" height="23" border="0"></td>
+																		<!-- / Search Results -->
+																	</tr>
+																</tbody></table>
+																</div>
+																
+																<div style="padding: 8px 0">
+																	<!-- Slot -->
+																	<div class="regtext" style="padding: 10px 35px 0 30px">
+<strong>Click below for specific information about:</strong><br><br>
+<div style="line-height:18px">
+<a href="#reachus" class="blob">I. How to Reach Us</a><br>
+<a href="#collection" class="blob">II. Collection of Personal Information by IFC</a><br>
+<a href="#sitepartners" class="blob">III. Collection of Personal Information by Site Partners or Co-Sponsors</a><br>
+<a href="#tracking" class="blob">IV. Collection of Non-Personal Information and Use of Tracking Devices</a><br>
+<a href="#advertisers" class="blob">V. Collections by Advertisers</a><br>
+<a href="#disclosure" class="blob">VI. Disclosure of Personal Information by IFC</a><br>
+<a href="#communication" class="blob">VII. Content of Electronic Communications</a><br>
+<a href="#boards" class="blob">VIII. Message Boards and Chats</a><br>
+<a href="#discontinue" class="blob">IX. How to Discontinue Online Membership or Registrations</a><br>
+<a href="#change" class="blob">X. How to Change Personal Information</a><br>
+<a href="#retention" class="blob">XI. Retention of Personal Information</a><br>
+<a href="#security" class="blob">XII. Security of the Personal Information We Collect</a><br>
+<a href="#privacy" class="blob">XIII. Changes to Our Privacy Policy</a><br>
+<a href="#children" class="blob">XIV. Children's Privacy Policy</a><br>
+<a href="#thirdparty" class="blob">XV. Third Party Advertising</a><br>
+<a href="#thirdparty_cookies" class="blob">XVI. Third Party Cookies</a><br><br>
+</div>
+  
+We take seriously the collection of personally identifiable information from our visitors and work to protect each visitor's privacy in accordance with the terms of this policy.  We use the terms "visitors" and "you" to include any person who accesses this website for any amount of time.  Please carefully review our privacy practices below. <br><br><br>
+ 
+<a name="reachus"></a><b>I. How To Reach Us</b><br><br>
+This website is owned and operated by the Independent Film Channel LLC (referred to herein as "IFC," "We," "Us," or "Our"), a subsidiary of Rainbow Media Holdings, LLC ("Rainbow").  You may contact us directly if you have any questions about this Privacy Policy. Please contact us at <a href="mailto:webmaster@ifc.com" class="blob">webmaster@ifc.com</a>.<br><br><br>
+
+<a name="collection"></a><b>II. Collection of Personal Information by IFC</b><br><br>
+We provide various informative, educational, and/or entertaining features as part of this website. To operate these features and allow website interaction or participation, we may request and collect certain personally identifiable information from our visitors, including, but not limited to, name, home and email addresses, telephone numbers and birth date (referred to herein as "personal information").  For example, to participate in contests, we may ask you to complete an online entry form that requires the submission of your personal information.  We use the personal information on the entry form for contest registration, to contact the winners of the contest or as otherwise described below.<br><br>
 We may use collected personal information to allow site membership or online subscription submissions; distribute our newsletter; respond to visitor inquiries or requests; improve our services, including our website; allow participation in public or interactive areas; protect the security of our visitors, system and/or website; for future marketing and/or promotional use about our program or website services; and to survey visitors about various topics, including their television viewing, information or other entertainment preferences and how we can improve our programming and website.<br><br>
-
 We use contract and/or third party service providers to collect visitor personal information over our website on our behalf.  These providers disclose personal information to us and/or may assist us with the features provided above.<br><br>
+The personal information collected through this website may be combined and maintained with information we collect offline.<br><br><br>
 
-The personal information collected through this website may be combined and maintained with information we collect offline. </span><br><br>
+<a name="sitepartners"></a><b>III. Collection of Personal Information by Site Partners or Co-Sponsors</b><br><br>
+Certain third parties may join with us to offer website activities, features or promotions, such as contests or special events.  For joint website activities, the co-sponsor or partner of the activity may request and collect your personal information.  If you submit personal information in joint activities, the co-sponsor or partner may share personal information submitted for the activity with us and/or we may share such information with them.   The co-sponsor or partner may also maintain separate privacy policies governing the collection, use and disclosure of your personal information.  IFC and/or the third party partner or co-sponsor may also use the personal information collected in conjunction with such activities for the marketing of additional services, promotions or events.  Depending on the activity, visitors will be able to either grant approval on the types of additional offers or services they want to receive before personal information is collected ("opt-in"), or choose to deny use of their personal information for additional purposes ("opt-out"). <br><br>
+IFC, its parents, affiliates and subsidiaries are not responsible for the collection, use and disclosure practices of third parties.<br><br><br>
 
-
-<span class="blackbold"><a name="sitepartners"></a><b>III. Collection of Personal Information by Site Partners or Co-Sponsors</b></span><br>
-<br>
-<span class="articletextblack">Certain third parties may join with us to offer website activities, features or promotions, such as contests or special events.  For joint website activities, the co-sponsor or partner of the activity may request and collect your personal information.  If you submit personal information in joint activities, the co-sponsor or partner may share personal information submitted for the activity with us and/or we may share such information with them.   The co-sponsor or partner may also maintain separate privacy policies governing the collection, use and disclosure of your personal information.  IFC and/or the third party partner or co-sponsor may also use the personal information collected in conjunction with such activities for the marketing of additional services, promotions or events.  Depending on the activity, visitors will be able to either grant approval on the types of additional offers or services they want to receive before personal information is collected ("opt-in"), or choose to deny use of their personal information for additional purposes ("opt-out"). <br><br>
-
-IFC, its parents, affiliates and subsidiaries are not responsible for the collection, use and disclosure practices of third parties.
-</span><br>
-<br>
-            <span class="blackbold"><a name="tracking"></a><b>IV. Collection of Non-Personal Information and Use of Tracking Devices</b><br></span><br>
-<span class="articletextblack">
+<a name="tracking"></a><b>IV. Collection of Non-Personal Information and Use of Tracking Devices</b><br><br>
 We may collect non-personal information about visitors through use of cookies or other tracking devices, such as gifs.<br><br>
-
-<ul><b>Cookies.</b>  A cookie is a small data file that contains a unique identification number that a website places on your hard drive. The "cookie" is able to store information such as data about your computer, the type of browser you use, and how many times your computer visits a certain site and selections chosen.<br><br> 
-
-<b>Gifs.</b>  A clear gif [Graphics Interchange Format] (also known as pixel tags, web beacons or web bugs) is a tiny line of code only 1 by 1 pixel in size that is programmed to collect certain information about a visit to a particular website, such as how many hits a site link receives or to retrieve certain cookies or track visitor preferences.</ul>
-
+<ul>
+<b>Cookies.</b>  A cookie is a small data file that contains a unique identification number that a website places on your hard drive. The "cookie" is able to store information such as data about your computer, the type of browser you use, and how many times your computer visits a certain site and selections chosen.<br><br> 
+<b>Gifs.</b>  A clear gif [Graphics Interchange Format] (also known as pixel tags, web beacons or web bugs) is a tiny line of code only 1 by 1 pixel in size that is programmed to collect certain information about a visit to a particular website, such as how many hits a site link receives or to retrieve certain cookies or track visitor preferences.
+</ul>
 These and other tracking devices collect aggregate "hits" data, including Internet server and browser identification, the Internet service provider, clickstream information, the web page from which a visitor enters our site, web pages visited, and duration of visit and domain type.  This aggregate information may also include demographic or geographic data and visitor usage patterns.<br><br>
-
 We may use these devices and information gathered to gauge the effectiveness of our website and site features; to tailor our website to your specific interests, requests or participation; to simplify site navigation; or to deliver a more personalized website service by recognizing certain choices you have made on our site so you do not need to re-enter these choices when you return to our site.  For example, we may use cookies to simplify access to member-only features or to track contest entries.  We may also use tracking devices to conduct research, for auditing purposes, or to estimate our audience size.<br><br>
- 
 We do not use tracking devices to independently collect personal information.  However, the aggregate "hits" data collected by these tracking devices may electronically link to some personal information that you have voluntarily provided over our website. We do not disclose this combined information (personal information linked to our cookie and gif collection practices) to nonaffiliated third parties.<br><br>
-
-To prevent the automatic recording of data by cookies, you can configure your browser to either reject all cookies or notify you when a cookie is sent.  You do not need to have cookies turned on to browse most of our website.  You may find, however, that some areas on the website will be slower, may not function at all, and/or you may not be able to participate in activities on our website that require you to log-in or register.
-</span><br><br>
+To prevent the automatic recording of data by cookies, you can configure your browser to either reject all cookies or notify you when a cookie is sent.  You do not need to have cookies turned on to browse most of our website.  You may find, however, that some areas on the website will be slower, may not function at all, and/or you may not be able to participate in activities on our website that require you to log-in or register.<br><br><br>
            
-<span class="blackbold"><a name="advertisers"></a><b>V. Collections by Advertisers</b></span><br><br>
-<span class="articletextblack">We may permit advertising on our website by third parties and/or link to the websites of third parties that are not owned or operated by IFC, its parents, affiliates or subsidiaries or that do not participate in joint activities with us. These third parties may independently solicit and collect personal information, send their own cookies to our visitors, or link visitors away from our site. They may also use collected data differently than IFC.  Please be advised that when you click on an advertisement or link to or visit another website you will be subject to the privacy policy and <a href="/ifc/article/bottom/0,,AID-2-CLR-white-BCLR-FFFFFF-,00.html"><span class="emailbluelink">terms of usage agreement</span></a> of that advertiser/website operator.  Programs or other applications on your computer may cause advertisements not affiliated with our website to appear on top of our webpages.  IFC, its parents, affiliates or subsidiaries will not be responsible for advertiser ads, links and/or "pop-ups" or the content, activities, information collection, use and disclosure practices of other third party advertisers.</span><br><br>
+<a name="advertisers"></a><b>V. Collections by Advertisers</b><br><br>
+We may permit advertising on our website by third parties and/or link to the websites of third parties that are not owned or operated by IFC, its parents, affiliates or subsidiaries or that do not participate in joint activities with us. These third parties may independently solicit and collect personal information, send their own cookies to our visitors, or link visitors away from our site. They may also use collected data differently than IFC.  Please be advised that when you click on an advertisement or link to or visit another website you will be subject to the privacy policy and <a href="/ifc/article/bottom/0,,AID-2-CLR-white-BCLR-FFFFFF-,00.html" class="blob">terms of usage agreement</a> of that advertiser/website operator.  Programs or other applications on your computer may cause advertisements not affiliated with our website to appear on top of our webpages.  IFC, its parents, affiliates or subsidiaries will not be responsible for advertiser ads, links and/or "pop-ups" or the content, activities, information collection, use and disclosure practices of other third party advertisers.<br><br><br>
 
-<span class="blackbold"><a name="disclosure"></a><b>VI. Disclosure of Personal Information by IFC</b></span><br><br>
-<span class="articletextblack">We may disclose your personal information with other parties when you consent to the disclosure; it is required or permitted by law; it is necessary to operate our website or our website services; to protect the safety of our visitors, employees or property; to investigate or help prevent unlawful activity or activity that threatens our network or website; to provide or enhance our website features or operations; to enable participation in contests or sweepstakes; to allow receipt of membership or newsletter information; or when disclosure is consistent with IFC's practices for services that are similarly provided offline, such as magazine or program subscription services.<br><br>
-
+<a name="disclosure"></a><b>VI. Disclosure of Personal Information by IFC</b><br><br>
+We may disclose your personal information with other parties when you consent to the disclosure; it is required or permitted by law; it is necessary to operate our website or our website services; to protect the safety of our visitors, employees or property; to investigate or help prevent unlawful activity or activity that threatens our network or website; to provide or enhance our website features or operations; to enable participation in contests or sweepstakes; to allow receipt of membership or newsletter information; or when disclosure is consistent with IFC's practices for services that are similarly provided offline, such as magazine or program subscription services.<br><br>
 The third parties with whom we disclose personal information include our parents, affiliates or subsidiaries; website sponsors or partners; agents; consultants; content or service providers, including fulfillment services and maintenance and technical service providers; entities that provide website operational support; attorneys; accountants; auditors; authorized government entities or other lawfully authorized parties.  We may disclose personal information with other third parties in conjunction with entering into an agreement for the sale of our stock or assets or if we are involved in bankruptcy proceedings.<br><br>
-
 IFC uses third party service providers to fulfill newsletter requests. If a visitor submits a newsletter request online, IFC and/or the service provider may collect the personal information in the request and we may share such information with each other to process and deliver the newsletter.  Our service providers may also combine personal information gathered from online subscriptions with information gathered offline for similar subscriptions.  IFC may also disclose personal information to providers that perform other services on its behalf, such as for sending membership or promotional emails.<br><br>
-
 IFC may further disclose the names of visitors on its website for certain events, such as the winners of contests.  If possible, IFC will either notify visitors of this possibility when personal information is collected online or when the information is posted.  <br><br>
+We may disclose aggregate, non-personal information to other parties for other purposes, such as marketing or promotional activities.<br><br><br>
 
-We may disclose aggregate, non-personal information to other parties for other purposes, such as marketing or promotional activities.</span><br><br>
+<a name="communication"></a><b>VII. Content of Electronic Communications</b><br><br>
+When visitors send an email or other electronic information to us, we will protect the privacy of the visitor's email address and other personal information consistent with this policy. However, we may disclose the content or portion of the email or electronic message that does not contain personal information to other third parties not identified in this policy.<br><br><br>
 
-            <span class="blackbold"><a name="communication"></a><b>VII. Content of Electronic Communications</b></span><br><br>
-<span class="articletextblack">When visitors send an email or other electronic information to us, we will protect the privacy of the visitor's email address and other personal information consistent with this policy. However, we may disclose the content or portion of the email or electronic message that does not contain personal information to other third parties not identified in this policy.</span><br><br>
+<a name="boards"></a><b>VIII. Message Boards and Chats (e.g., IFC Rants)</b><br><br>
+Please remember that message boards and chat rooms are public areas on our website and any information posted in these areas can be viewed by other visitors or Internet users. Thus, you should not post personal information in these areas.  Visitors using message boards or chat rooms must also follow our Interactive Area Code of Conduct. See our <a href="/ifc/article/bottom/0,,AID-2-CLR-white-BCLR-FFFFFF-,00.html" class="blob">Terms of Usage Agreement.</a><br><br><br>
 
-            <span class="blackbold"><a name="boards"></a><b>VIII. Message Boards and Chats (e.g., IFC Rants)</b></span><br><br>
-<span class="articletextblack">Please remember that message boards and chat rooms are public areas on our website and any information posted in these areas can be viewed by other visitors or Internet users. Thus, you should not post personal information in these areas.  Visitors using message boards or chat rooms must also follow our Interactive Area Code of Conduct. See our <a href="/ifc/article/bottom/0,,AID-2-CLR-white-BCLR-FFFFFF-,00.html"><span class="emailbluelink">Terms of Usage Agreement.</span></a></span><br><br>
+<a name="discontinue"></a><b>IX. How to Discontinue Online Memberships or Registrations</b><br><br>
+Online membership, newsletter and schedule features are voluntary offerings.  If at any time you choose to discontinue receipt of such electronic communications, please follow the opt-out or unsubscribe instructions contained in the applicable email or electronic communication or go to the "Subscribe/Unsubscribe" area of our website.  We will take reasonable efforts to efficiently process your request.<br><br><br>
 
-            <span class="blackbold"><a name="discontinue"></a><b>IX. How to Discontinue Online Memberships or Registrations</b></span><br><br>
-<span class="articletextblack">Online membership, newsletter and schedule features are voluntary offerings.  If at any time you choose to discontinue receipt of such electronic communications, please follow the opt-out or unsubscribe instructions contained in the applicable email or electronic communication or go to the "Subscribe/Unsubscribe" area of our website.  We will take reasonable efforts to efficiently process your request.</span><br><br>
+<a name="change"></a><b>X. How to Change Personal Information </b><br><br>
+You may request that we change or delete certain personal information that we collect about you by contacting us via email at <a href="mailto:webmaster@ifc.com" class="blob">webmaster@ifc.com</a>.  Certain information that we collect cannot be deleted for security purposes, in accordance with various laws or per our business retention practices.  We retain the right to refuse to change or delete certain personal information.<br><br><br>
 
-<span class="blackbold"><a name="change"></a><b>X. How to Change Personal Information </b></span><br><br>
-<span class="articletextblack">You may request that we change or delete certain personal information that we collect about you by contacting us via email at <a href="mailto:webmaster@ifctv.com" class="emailbluelink">webmaster@ifctv.com</a>.  Certain information that we collect cannot be deleted for security purposes, in accordance with various laws or per our business retention practices.  We retain the right to refuse to change or delete certain personal information.</span><br><br>
+<a name="retention"></a><b>XI. Retention of Personal Information</b><br><br>
+We retain personal information for as long as it is needed to maintain our business records in the ordinary course, preserve our database and website records, to comply with laws governing our business, or if there are authorized requests for retention and/or disclosure from government, law enforcement or the courts.  This means that we may retain personal information for years after the initial collection of the information.<br><br><br>
 
-<span class="blackbold"><a name="retention"></a><b>XI. Retention of Personal Information</b></span><br><br>
-<span class="articletextblack">We retain personal information for as long as it is needed to maintain our business records in the ordinary course, preserve our database and website records, to comply with laws governing our business, or if there are authorized requests for retention and/or disclosure from government, law enforcement or the courts.  This means that we may retain personal information for years after the initial collection of the information.</span>
-<br><br>
+<a name="security"></a><b>XII. Security of the Personal Information We Collect</b><br><br>
+We use reasonable commercial efforts to protect the security of personal information transmitted to us through our website and stored by us.  We require our employees to protect the privacy of visitors' personal information.  Only employees and contractors/vendors with specific authorization have access to our databases containing visitors' personal information.<br><br>
+Please remember that despite our security measures, the transmission of data over the Internet and our storage of data are not guaranteed to be completely secure.  Parties not under the control of IFC, its parents, affiliates or subsidiaries may intercept or access electronic transmissions or other data without authorization.  Thus, we cannot ensure or warrant the security of information you send to or receive from us. Any electronic transmissions that you submit or accept are at your own risk.<br><br><br>
 
-<span class="blackbold"><a name="security"></a><b>XII. Security of the Personal Information We Collect</b></span><br><br>
-<span class="articletextblack">We use reasonable commercial efforts to protect the security of personal information transmitted to us through our website and stored by us.  We require our employees to protect the privacy of visitors' personal information.  Only employees and contractors/vendors with specific authorization have access to our databases containing visitors' personal information.<br><br>
+<a name="privacy"></a><b>XIII. Changes to Our Privacy Policy</b><br><br>
+If we update or change the terms of this Policy, we will post changes in a revised Privacy Policy available on this website.  To keep informed about the information we collect, how we use it and our disclosures, you must review our Privacy Policy on a regular basis.<br><br><br>
 
-Please remember that despite our security measures, the transmission of data over the Internet and our storage of data are not guaranteed to be completely secure.  Parties not under the control of IFC, its parents, affiliates or subsidiaries may intercept or access electronic transmissions or other data without authorization.  Thus, we cannot ensure or warrant the security of information you send to or receive from us. Any electronic transmissions that you submit or accept are at your own risk.
-</span><br><br>
+<a name="children"></a><b>XIV. Children's Privacy Policy</b><br><br>
+We do not target this website to children under the age of thirteen and we do not knowingly collect personal information from children under the age of thirteen. If upon notification by a parent or guardian, or discovery by other means, that a child under thirteen has improperly registered on our website, we will immediately cancel the child's membership and/or participation and delete the child's personal information from our records.<br><br>
+If we decide to request information from children, we will require verifiable parental consent before we collect any personal information from children under thirteen years of age, except in circumstances allowed by law.<br><br><br>
 
+<a name="thirdparty"></a><b>XV. Third Party Advertising</b><br><br>
+The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you. For more information about DoubleClick, cookies, and how to "opt-out", please click here. &lt;<a href="http://www.doubleclick.net/us/corporate/privacy" target="_blank" class="blob">http://www.doubleclick.net/us/corporate/privacy</a>&gt;<br><br><br>
 
-<span class="blackbold"><a name="privacy"></a><b>XIII. Changes to Our Privacy Policy</b></span><br><br>
-<span class="articletextblack">If we update or change the terms of this Policy, we will post changes in a revised Privacy Policy available on this website.  To keep informed about the information we collect, how we use it and our disclosures, you must review our Privacy Policy on a regular basis.</span><br><br>
-
-<span class="blackbold"><a name="children"></a><b>XIV. Children's Privacy Policy</b></span><br>
-<br>
-<span class="articletextblack">We do not target this website to children under the age of thirteen and we do not knowingly collect personal information from children under the age of thirteen. If upon notification by a parent or guardian, or discovery by other means, that a child under thirteen has improperly registered on our website, we will immediately cancel the child's membership and/or participation and delete the child's personal information from our records.<br><br>
-
-If we decide to request information from children, we will require verifiable parental consent before we collect any personal information from children under thirteen years of age, except in circumstances allowed by law.<br>
-<br>
-<span class="blackbold"><a name="thirdparty"></a><b>XV. Third Party Advertising</b></span><br>
-<br>
-<span class="articletextblack">The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you. For more information about DoubleClick, cookies, and how to "opt-out", please click here. &lt;<a href="http://www.doubleclick.net/us/corporate/privacy" target="_blank" class="emailbluelink">http://www.doubleclick.net/us/corporate/privacy</a>&gt;</span><br>
-<br>
-<span class="blackbold"><a name="thirdparty_cookies"></a><b>XVI. Third Party Cookies</b></span><br>
-<br>
-<span class="articletextblack">In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.</span><br>
-<br>
-<br><center><span class="articletextblack">Please contact us if you have any questions about this Privacy Policy.<br><br>
-
+<a name="thirdparty_cookies"></a><b>XVI. Third Party Cookies</b><br><br>
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.<br><br>
+Please contact us if you have any questions about this Privacy Policy.<br><br>
 Thank You for Visiting!
-</span>
+
     
-            <br>
-            <br>
            
-            </center>
-  <br>
-                  <br>
-     
-                </span></td>
-                <td width="5"><img src="/ifc/img/spc001x001transparent.gif" width="5" height="1"></td>
-              </tr>
-              <tr> 
-                <td width="5"><img src="/ifc/img/spc001x001transparent.gif" width="5" height="1"></td>
-              </tr>
-              <tr> 
-                <td colspan="3" bgcolor="#000000" height="1"><img src="/ifc/img/spc001x001transparent.gif" width="1" height="1"></td>
-              </tr>
-            </tbody></table>
-          </td>
-        </tr>
-        <tr> 
-          <td colspan="3" height="1" valign="top"><img src="/ifc/img/spc001x001transparent.gif" width="1" height="1"></td>
-        </tr>
-        <tr> 
-          <td colspan="3" bgcolor="#000000" height="35"><img src="/ifc/img/spc001x001transparent.gif" width="1" height="10"></td>
-        </tr>
-      </tbody></table>
-		     
-      <script language="JavaScript">
-        sectionName="legal";
-      </script>
-    </td>
-    <td width="15"><img src="/ifc/img/spc001x001transparent.gif" width="15" height="1"></td>
-    <td width="160" valign="top">
-     
-      <!-- Tue Dec 06 22:00:02 UTC 2005 -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-      <!-- BRETT - The form action used to be a CURL -->   
-           
- <!-- 11/15/04 TF - Updated subscribe text removed commented out HTML --> 
-	
-        
-       <br>
-    <script language="javascript" src="/js/subscribe.js"></script>
-    
-    <form name="subscribe" action="" method="GET">
-    <table border="0" cellspacing="0" cellpadding="1">
-      <input type="hidden" name="list" value="ifc_online">
-      <input type="hidden" name="confirm" value="one">
-      
-      
-     <tbody><tr> 
-        <td colspan="2"><img src="/ifc/img/text_signup_red.gif" width="148" height="26" border="0" alt="Use this form to signup for the IFC Insider Newsletter."></td>
-      </tr> 
-      <tr>
-        <td><input type="text" name="email" value="" size="21" style="font-size:10px;"></td>
-      	<td width="27"><input type="image" name="submit" src="/ifc/img/btn_go.gif" width="27" height="15" border="0" onclick="showMe(this.form); return false;"></td>
-      </tr>
-    </tbody></table>
-    </form>
-
-
-
-<!-- begin ad tag -->
-<iframe src="http://ad.doubleclick.net/adi/rainbow.ifc/;sz=160x600;ord=[timestamp]?" width="160" height="600" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000">
-<script language="JavaScript" src="http://ad.doubleclick.net/adj/rainbow.ifc/;sz=160x600;abr=!ie;ord=[timestamp]?" type="text/javascript"></script>
-</iframe>
-<noscript><a href="http://ad.doubleclick.net/jump/rainbow.ifc/;sz=160x600;abr=!ie4;abr=!ie5;abr=!ie6;ord=[timestamp]?" target="_blank"><img src="http://ad.doubleclick.net/ad/rainbow.ifc/;sz=160x600;abr=!ie4;abr=!ie5;abr=!ie6;ord=[timestamp]?" width="160" height="600" border="0" alt=""></a></noscript>
-
-<!-- End ad tag -->
-
-
-		
-    <br>
-
-    </td>
-  </tr>
-</tbody></table>
-
-
-<!-- Tue Dec 06 21:59:39 UTC 2005 -->
-
-<!-- transparent space -->
-<div style="width:728px;height:10px;"></div>
-
-<!-- gray bar -->
-<div style="width:728px;height:15px;background-color:#222;"></div>
-
-<!-- transparent space -->
-<div style="width:728px;height:10px;"></div>
-
-<!-- begin Google adsense container -->
-<div style="width:728px;height:90px;margin:0px;padding:0px;background-color:#000;">
-<!-- begin Google Adsense block -->
-<script type="text/javascript"><!--
-google_ad_client = "pub-6254265529250313";
-google_alternate_ad_url = "http://www.ifctv.com/ifc/google_evergreen_ifc_bottom.html";
-google_ad_width = 728;
-google_ad_height = 90;
-google_ad_format = "728x90_as";
-google_ad_type = "text";
-google_ad_channel ="";
-google_color_border = "000000";
-google_color_bg = "000000";
-google_color_link = ["E7D94E","999999","FFFFFF"];
-google_color_url = "FFFFFF";
-google_color_text = "FFFFFF";
-//--></script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-<!--/ end Google Adsense block -->
+																</div>
+																	<!-- / Slot -->
+																	
+																</div>
+																<!-- / Search Results -->
+															</div>
+														</td>
+														<td style="background-image: url(/static/img/featured/blobs/border_be_btmrt_bordo.gif); background-position: bottom left; background-repeat: no-repeat"><img src="/static/img/featured/blobs/border_be_toprt_bordo.gif" width="2" height="249" alt=""></td>
+													</tr>
+												</tbody></table>
+											</div>
+											<div><img src="/static/img/featured/blobs/bg_be_btm_bordo.gif" width="425" height="8" alt=""></div>
+										</td>
+										<!-- / column 2 -->
+									</tr>
+								</tbody></table>
+							</div>
+						</div>	
+						<div><img src="/static/img/bg/woodbox_lrg_btm.jpg" width="759" height="9" alt=""></div>
+					</div>
+				</td>
+				<!-- / wooden box -->
+				
+				<!-- column 3 skyscraper ad -->
+				<td>
+					<div>
+						<div><img src="/static/img/bg/main_ad_top.gif" width="203" height="7" alt=""></div>
+						<div align="center" style="padding: 3px 0; background-image: url(/static/img/bg/main_ad.jpg)">
+							<iframe src="/ifc.com/includes/rightadbanner_iframe?sectionName=BottomNav" scrolling="no" frameborder="0" width="160px" height="600px" marginheight="0px" marginweidth="0px" class="beige_box_3"></iframe>
+						</div>
+						<div><img src="/static/img/bg/main_ad_btm.gif" width="203" height="7" alt=""></div>
+					</div>
+				</td>
+				<!-- / column 3 skyscraper ad -->
+			</tr>
+		</tbody></table>
+		</div>
+	</div>
+	<div><img src="/static/img/bg/goldbox2_btm.jpg" width="976" height="50" alt="" usemap="#partners"></div>
 </div>
-<!-- end Google adsense container -->
-
-<!-- transparent space -->
-<div style="width:728px;height:10px;"></div>
-
-<!-- begin multi-image footer -->
-<div style="width:730px;height:92;">
-<table width="726" height="90" cellspacing="0" cellpadding="0" border="0">
-<tbody><tr>
-<td><a href="http://amctv.com/"><img src="/images/multiimage_footer/footer_banner_amc.gif" width="75" height="88" alt="AMC TV" border="0"></a><br></td>
-<td><a href="http://fuse.tv/"><img src="/images/multiimage_footer/footer_banner_fuse.gif" width="49" height="88" alt="FUSE TV" border="0"></a><br></td>
-<td><a href="http://ifctv.com/"><img src="/images/multiimage_footer/footer_banner_ifctv.gif" width="73" height="88" alt="IFC TV" border="0"></a><br></td>
-<td><a href="http://ifccenter.com/"><img src="/images/multiimage_footer/footer_banner_ifccenter.gif" width="91" height="88" alt="IFC Center" border="0"></a><br></td>
-<td><a href="http://ifcfilms.com/"><img src="/images/multiimage_footer/footer_banner_ifcfilms.gif" width="121" height="88" alt="IFC Films" border="0"></a><br></td>
-<td><a href="http://magrack.com/"><img src="/images/multiimage_footer/footer_banner_magrack.gif" width="118" height="88" alt="MagRack" border="0"></a><br></td>
-<td><a href="http://sportskool.com/"><img src="/images/multiimage_footer/footer_banner_sportskool.gif" width="128" height="88" alt="SportsKool" border="0"></a><br></td>
-<td><a href="http://we.tv/"><img src="/images/multiimage_footer/footer_banner_we.gif" width="71" height="88" alt="WE TV" border="0"></a><br></td>
-</tr>
-</tbody></table>
 </div>
-<!-- end multi-image footer -->
+<!-- / main row content -->
+ 
 
-<!-- gray bar -->
-<div style="width:728px;height:15px;background-color:#222;"></div>
-
-
-
-
-
-
-
-
-
-
-
-
-
+<div style="display: none;">
+<!-- SiteCatalyst code version: H.3.
+Copyright 1997-2005 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script language="JavaScript" src="//www.ifc.com/ifc/s_code.js"></script>
 
 <script language="JavaScript"><!--
+ 
+s.pageName="ifc:bottom_nav:privacy"
+s.server="www"
+s.channel="bottom_nav"
+s.pageType=""
+s.prop1="privacy"
+s.prop2=""
+s.prop3=""
+s.prop4=""
+s.prop5=""
+s.hier1="ifc,bottom_nav,privacy"
+/* E-commerce Variables */
+s.campaign=""
+s.state=""
+s.zip=""
+s.events=""
+s.products=""
+s.purchaseID=""
+s.eVar1=""
+s.eVar2=""
+s.eVar3=""
+s.eVar4=""
+s.eVar5=""
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.3. -->
+</div>
 
-  function getSection(sectionName) {
-    // if you want to adjust a campaign tile name, or match, just adjuste
-    // what's between the double quotes.  Don't mess with the code unless you
-    // know what you are doing.  THIS IS CASE SENSITIVE.  Section name comes
-    // from category managment, category name.
-    sectionName = new String(sectionName);
-    switch (sectionName.toUpperCase()) {
-      case "FRONTDOOR":
-        return "home";
-      case "FILMS":
-        return "films";
-      case "EVENTS":
-        return "events";
-      case "WHAT'S ON IFC":
-        return "whats_on_ifc";
-      case "ACTIVITIES":
-        return "activities";
-      case "STORE":
-        return "store";
-      case "RIGHT NAV":
-        return "registration";
-      case "BOTTOM NAV":
-        return "legal";
-      case "FILMMAKING":
-        return "Filmmaking";
-      default:
-        return "home";
-    }
-  }
-
-  function openpopWindow(theURL,winName,features) {
-    //v1.2
-    window.open(theURL,winName,features);
-  }
-
-  var CurrentCheck;
-  function uncheckRadio(tform,Count){
-    // uncheck a currently checked radio button if clicked on by user
-     
-    if (tform.offer_0[Count].checked) {
-      if (Count == CurrentCheck) { 
-        CurrentCheck = -1;
-        tform.offer_0[Count].checked = 0;
-      } else {
-        CurrentCheck = Count;
-      }
-    }
-  }
-
-  if (document.images) {
-    var image0on = new Image();
-var image0off = new Image();
-
-image0on.src = "/ifc/img/top_nav/btn110x048logored.on.gif";
-image0off.src = "/ifc/img/top_nav/btn110x048logored.gif";
-
-var image1on = new Image();
-var image1off = new Image();
-
-image1on.src = "/ifc/img/bot_nav/btn_aboutifcred.on.gif";
-image1off.src = "/ifc/img/bot_nav/btn_aboutifcred.gif";
-
-var image2on = new Image();
-var image2off = new Image();
-
-image2on.src = "/ifc/img/bot_nav/btn_filmsred.on.gif";
-image2off.src = "/ifc/img/bot_nav/btn_filmsred.gif";
-
-
-    
-    var image6on = new Image();
-    var image6off = new Image();
-
-    image6on.src = "/ifc/img/top_nav/but54x17getred.on.gif";
-    image6off.src = "/ifc/img/top_nav/but54x17getred.off.gif";
-  }
-
-  sectionName = "";
-
-  function imgFlip(imageID, imageName) {
-    if (document.images) {
-      document.images[imageID].src = eval(imageName + ".src");
-    }
-  }
-
-  function getCookieValue(iStartPoint) {
-    var iEndOfValue = document.cookie.indexOf(";", iStartPoint);
-    if (iEndOfValue ==-1) {
-      iEndOfValue = document.cookie.length;
-    }
-    return unescape(document.cookie.substring(iStartPoint,iEndOfValue));
-  }
-
-  function getCookie(sCookieValueName) {
-    var sSearchName = sCookieValueName + "=";
-    var iSearchNameLength = sSearchName.length;
-    var iCookieLength = document.cookie.length;
-    var iSearchIndex = 0;
-    while (iSearchIndex < iCookieLength) {
-      var iSearchPoint = iSearchIndex + iSearchNameLength;
-      if (document.cookie.substring(iSearchIndex, iSearchPoint) == sSearchName) {
-        return getCookieValue(iSearchPoint);
-      }
-      iSearchIndex = document.cookie.indexOf(" ",iSearchIndex) + 1;
-      if (iSearchIndex == 0) {break};
-    }
-    return null;
-  }
-  
-	function callWhatsOn(whatsonurl) { 
-		var date = new Date();
-		var d  = date.getDate();
-		var day = (d < 10) ? '0' + d : d;
-		var m = date.getMonth() + 1;
-		var month = (m < 10) ? '0' + m : m;
-		var yy = date.getYear();
-		var year = (yy < 1000) ? yy + 1900 : yy;
-		var TZ = 'ET';
-		if(getCookie('offsetName') != null) {
-			TZ = getCookie('offsetName');
-			//alert(getCookie('offsetName'));
-		}
-		var sendurl = whatsonurl + '&MO=' + month + '&DA=' + day + '&YR=' + year +'&TB=4&TZ=' + TZ;
-		//alert(sendurl);
-		// BRETT - 5/3/04 - Switched to assigning value to location.href instead
-		//                  of calling href as a function.
-		//location.href(sendurl);
-		location.href = sendurl;
-	}
-
-
-  function SetCookie (name, value) {  
-    var argv = SetCookie.arguments;  
-    var argc = SetCookie.arguments.length; 
-    var expires = (argc > 2) ? argv[2] : null;  
-    var path = (argc > 3) ? argv[3] : null;  
-    var domain = (argc > 4) ? argv[4] : null;  
-    var secure = (argc > 5) ? argv[5] : false;  
-    document.cookie = name + "=" + escape (value) + 
-      ((expires == null) ? "" : ("; expires=" + expires.toGMTString())) + 
-      ((path == null) ? "" : ("; path=" + path)) +  
-      ((domain == null) ? "" : ("; domain=" + domain)) +    
-      ((secure == true) ? "; secure" : "");
-  }
-// -->
-</script> 
-
-
-
-<script language="javascript">function openFrames(source) {document.submitframes.fpFrameSource.value=source;document.submitframes.submit();}</script>
-<link rel="stylesheet" href="/ifc/css/ifc_css.css" type="text/css">
-
-<!-- body bgcolor="#CC0000" text="#FFFFFF" link="#FFFFFF" vlink="#FFFFFF" alink="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" -->
-<form method="post" action="/ifc/events/frame/1,,CAT0-44-CLR-green-BCLR-339933-,0.html" name="submitframes"><input type="hidden" name="fpFrameSource" value=""></form>
-
-
-<table width="559" border="0" cellspacing="0" cellpadding="0" valign="top" align="top">
-  <tbody><tr>
-    <td width="15">&nbsp;</td>
-    <td width="544" align="left" valign="top">
-    
-       
-    
-      
-            
-<div align="center"><table border="0" cellspacing="0" cellpadding="0">
-        
-        <tbody><tr valign="middle">
-        
-        <td height="27"><a href="/ifc/about?CAT0=5809&amp;CAT1=101&amp;CLR=red&amp;BCLR=cc0000"><img src="/ifc/img/bot_nav/btn_aboutifcred.gif" alt="ABOUT IFC" name="image1" border="0"></a></td><td height="27"><a href="/ifc/films/new?CAT0=5810&amp;CLR=red&amp;BCLR=CC0000"><img src="/ifc/img/bot_nav/btn_filmsred.gif" alt="Films" name="image2" border="0"></a></td>
-         <td height="27"><a href="/ifc/broadband"><img src="/ifc/img/bot_nav/btn_broadbandred.gif" width="107" height="26" border="0" vspace="4"></a></td> 
-        <script language="JavaScript">if (getCookie('ifc_logged_in') == null) {document.write('<td><a href="/ifc/register?entry_mode=new_member"><img src="/ifc/img/btn_join_ifcred.gif" border="0" width="82" height="26" vspace="5" alt="Join"></a></td>');}if (getCookie('ifc_logged_in') == null) {document.write('<td><a href="/ifc/register?entry_mode=login"><img src="/ifc/img/btn_loginred.gif" border="0" width="60" height="26" vspace="5" alt="logout"></a></td>');}if (getCookie('ifc_logged_in') != null) {document.write('<td><a href="/ifc/register?entry_mode=my_ifc"><img src="/ifc/img/btn_myifcred.gif" border="0" width="82" height="26" vspace="5" alt="My IFC"></a></td>');}if (getCookie('ifc_logged_in') != null) {document.write('<td><a href="/ifc/register"><img src="/ifc/img/btn_logoutred.gif" border="0" width="60" height="26" vspace="5" alt="Login"></a></td>');}</script><td><a href="/ifc/register?entry_mode=new_member"><img src="/ifc/img/btn_join_ifcred.gif" border="0" width="82" height="26" vspace="5" alt="Join"></a></td><td><a href="/ifc/register?entry_mode=login"><img src="/ifc/img/btn_loginred.gif" border="0" width="60" height="26" vspace="5" alt="logout"></a></td>
-          
-               
-                                                 
-        </tr>
-      </tbody></table></div>
-    
-    </td>
-    
-  </tr> 
-  
-
-
-<!-- Tue Dec 06 21:59:49 UTC 2005 -->
+<!-- Tue Mar 20 17:28:13 UTC 2007 -->    
 
 
 
@@ -756,106 +541,66 @@ image2off.src = "/ifc/img/bot_nav/btn_filmsred.gif";
 
 
 
-      </tbody></table><table width="562" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td height="5">&nbsp;</td>
-          <td height="5">&nbsp;</td>
-          <td height="5">&nbsp;</td>
-        </tr>
-        <tr>   
-	  <td colspan="3" valign="top" align="center" height="15"><span class="disclaimer">
-	                     <a href="http://ifcblog.ifctv.com/evan/2005/05/howdy.html" style="text-decoration:none;"><strong>WHAT DO YOU THINK OF IFC?  CLICK HERE TO RATE US.</strong></a></span>
-	  </td>
-		</tr>
-        <tr>
-  	 <!--
-  	  <td valign=top>
-	    <script language="JavaScript">
-	    <!--
-	      if (navigator.appName == "Netscape"){
-		var sizeW1 = 468;
-		var sizeH1 = 60;
-				
-		var sizeW2 = 120;
-		var sizeH2 = 60;
-				
-		var ord = Math.random() + ""; 
-		ord = ord * 1000000000000000000;
-				
-		document.write("<IMG SRC='http://ad.doubleclick.net/ad/cablevision.ifc/" + getSection(sectionName) + ';sz=' + sizeW1 + 'x' + sizeH1 + ";tile=3;ord=" + ord + "')' border='0' height='60' width='468'>");
-		document.write("</td><td>&nbsp;</td><td>");
-		document.write("<IMG SRC='http://ad.doubleclick.net/ad/cablevision.ifc/" + getSection(sectionName) + ';sz=' + sizeW2 + 'x' + sizeH2 + ";tile=3;ord=" + ord + "')' border='0' height='60' width='120'>");
-		
-	      } else {		
-		var sizeW1 = 468;
-		var sizeH1 = 60;
-			
-		var sizeW2 = 120;
-		var sizeH2 = 60;
-			
-	  	var ord = Math.random() + ""; 
-		ord = ord * 1000000000000000000;
-
-		document.write('<IFRAME SRC="http://ad.doubleclick.net/adi/cablevision.ifc/' + getSection(sectionName) + ';sz=' + sizeW1 + 'x' + sizeH1 + ';tile=3;ord=');
-		document.write(ord);
-		document.write('?" name="frame4" width="' + sizeW1 + '" height="' + sizeH1 + '" frameborder="no" border="0" MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="no">');
-		document.write('<SCRIPT language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/cablevision.ifc/' + getSection(sectionName) + ';sz=' + sizeW1 + 'x' + sizeH1 + ';tile=3;ord=');
-		document.write(ord);
-		document.write('?"><');
-		document.write('/');
-		document.write('SCRIPT>');
-		document.write('<');
-		document.write('/');
-		document.write('IFRAME>&nbsp;');
-		
-		document.write('<td>&nbsp;</td>');
-			
-		ord = Math.random() + ""; 
-		ord = ord * 1000000000000000000; 
-			
-		document.write('<td valign=top>');
-		document.write('<IFRAME SRC="http://ad.doubleclick.net/adi/cablevision.ifc/' + getSection(sectionName) + ';sz=' + sizeW2 + 'x' + sizeH2 + ';tile=4;ord=');
-		document.write(ord);
-		document.write('?" name="frame5" width="' + sizeW2 + '" height="' + sizeH2 + '" frameborder="no" border="0" MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="no">');
-		document.write('<SCRIPT language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/cablevision.ifc/' + getSection(sectionName) + ';sz=' + sizeW2 + 'x' + sizeH2 + ';tile=4;ord=');
-		document.write(ord);
-		document.write('?"><');
-		document.write('/');
-		document.write('SCRIPT>');
-		document.write('<');
-		document.write('/');
-		document.write('IFRAME>&nbsp;');
-              }
-         
-            </script>
-	  </td>  
-	   -->
-	   
-        </tr>
-      </tbody></table>
-      <table width="562" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-          <td height="15">&nbsp;</td>
-          <td height="15">&nbsp;</td>
-          <td>&nbsp;</td>
-        </tr>
-	
-	<tr> 
-	  <td colspan="3" valign="top" align="center"><span class="disclaimer"> <a class="disclaimer" href="/ifc/article/bottom?AID=1&amp;CLR=red&amp;BCLR=CC0000"><font color="FFFFFF">Privacy policy</font></a><font color="FFFFFF"> | </font><a class="disclaimer" href="/ifc/article/bottom?AID=2&amp;CLR=red&amp;BCLR=CC0000"><font color="FFFFFF">Terms and Conditions</font></a><font color="FFFFFF"> | </font><a class="disclaimer" href="/ifc/article/bottom?AID=4&amp;CLR=red&amp;BCLR=CC0000"><font color="FFFFFF">Help</font></a>
-	    <!--<br>-->
-	    <font color="#FFFFFF">|</font>
-	    <font color="ffffff"><a href="/ifc/about?CAT0=5809&amp;CAT1=101&amp;AID=4508&amp;CLR=red&amp;BCLR=cc0000" class="disclaimer"><font color="ffffff">Submission Policy</font></a> <br> <a href="http://www.ifctv.com/ifc/unsubscribe" class="disclaimer"><font color="ffffff">Subscribe/Unsubscribe</font></a> | <a href="http://affiliates.ifctv.com/" class="disclaimer"><font color="ffffff">Affilliate Resource Center</font></a>
-<br>"IFC", the "IFC" logo and "The Independent Film Channel" are service marks of The Independent Film Channel LLC.  (c) 2005 The Independent Film Channel LLC.  All rights reserved. IFC is a network of 
-<a class="disclaimer" href="http://www.rainbow-media.com/" target="blank"><font color="ffffff">Rainbow Media Holdings LLC</font></a>,a subsidiary of <a class="disclaimer" href="http://www.cablevision.com/" target="blank"><font color="ffffff">Cablevision Systems Corporation</font></a></font><br><br>
-	    </span>
-	    <!--<br><br>-->
-	  </td>
-	</tr>
-      </tbody></table>
-
-<title>IFCTV.com &gt;  Privacy policy</title>
 
 
 
 
-</div></body></html>
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 728 ad --> 
+<div style="margin:20px;"><!-- begin ad tag -->
+<script language="JavaScript" src="http://ad.doubleclick.net/adj/rainbow.ifc/home;sz=728x90;ord=[timestamp]?" type="text/javascript"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/rainbow.ifc/home;sz=728x90;ord=[timestamp]?" target="_blank"><img src="http://ad.doubleclick.net/ad/rainbow.ifc/home;sz=728x90;ord=[timestamp]?" width="728" height="90" border="0" alt=""></a></noscript>
+<!-- End ad tag --></div><br>
+<!-- / 728 ad -->
+
+<!-- footer links --> 
+<div class="footer">
+<a href="http://ifc.com/bottomnav?aId=17975" class="footer">About IFC</a> &nbsp;|&nbsp;  <a href="http://ifc.com/bottomnav?aId=17988" class="footer">Contact Us</a>  &nbsp;|&nbsp;  <a href="http://press.ifc.com/" class="footer">Press</a>  &nbsp;|&nbsp; <a href="http://ifc.com/bottomnav?aId=17994" class="footer">Site Map</a>  &nbsp;|&nbsp; <!-- <a href="#" class="footer">What's New</a>  &nbsp;|&nbsp; --> <a href="http://ifc.bside.com/?_view=_community&amp;tab=emailPrefs" class="footer">Subscribe/Unsubscribe</a>  &nbsp;|&nbsp;  <a href="http://ifc.com/bottomnav?aId=17998" class="footer">Privacy Policy</a>  &nbsp;|&nbsp;  <a href="http://ifc.com/bottomnav?aId=17999" class="footer">Terms &amp; Conditions</a>  &nbsp;|&nbsp;  <a href="http://ifc.com/bottomnav?aId=18000" class="footer">FAQ</a><br>
+
+<!--<div class="footer">
+<a href="/bottomnav?aId=17975" class="footer">About IFC</a> &nbsp;|&nbsp;  <a href="/bottomnav?aId=17988" class="footer">Contact Us</a>  &nbsp;|&nbsp;  <a href="/bottomnav?aId=17994" class="footer">Site Map</a>  &nbsp;|&nbsp; <a href="#" class="footer">What's New</a>  &nbsp;|&nbsp;  <a href="/bottomnav?aId=17995" class="footer">Subscribe/Unsubscribe</a>  &nbsp;|&nbsp;  <a href="/bottomnav?aId=17998" class="footer">Privacy Policy</a>  &nbsp;|&nbsp;  <a href="/bottomnav?aId=17999" class="footer">Terms &amp; Conditions</a>  &nbsp;|&nbsp;  <a href="/bottomnav?aId=18000" class="footer">FAQ</a><br>
+-->
+
+(c) 2007 The Independent Film Channel LLC. 
+</div><br>
+<!-- / footer links -->
+
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+if(typeof sIFR == "function"){
+	//sIFR.replaceElement("h1", "/static/swf/sirf/akzidenz.swf", "#DFCCA4", null, null, null, 0, 0, 0, 0, wmode: "transparent");
+	sIFR.replaceElement("h1", named({sFlashSrc: "/static/swf/sirf/akzidenz.swf", sColor: "#DFCCA4", sWmode: "transparent"}));
+};
+//]]>
+</script>
+
+
+<map name="partners">
+<area shape="rect" coords="2,4,52,42" href="http://amctv.com/" target="_blank" alt="AMC">
+<area shape="rect" coords="54,4,92,42" href="http://fuse.tv" target="_blank" alt="fuse">
+<area shape="rect" coords="93,4,150,42" href="http://ifctv.com" target="_blank" alt="IFC TV">
+<area shape="rect" coords="152,3,220,42" href="http://www.ifccenter.com" target="_blank" alt="IFC Center">
+<area shape="rect" coords="222,4,314,42" href="http://ifcfilms.com/" target="_blank" alt="IFC Films">
+<area shape="rect" coords="318,3,408,45" href="http://www.lifeskooltv.com/" target="_blank" alt="Lifeskool">
+<area shape="rect" coords="411,2,505,42" href="http://sportskool.com" target="_blank" alt="sportskool">
+<area shape="rect" coords="509,2,565,42" href="http://we.tv" target="_blank" alt="WE">
+</map>
+
+
+
+
+ 
+</body></html>
