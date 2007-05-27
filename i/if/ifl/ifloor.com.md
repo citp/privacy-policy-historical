@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ifloor.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205184251id_/http%3A//www.ifloor.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifloor.com privacy policy that was archived on 2007-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070527213737id_/http%3A//www.ifloor.com/help/privacy.html) for the most accurate reproduction.*
 
 # iFLOOR.com - Privacy Policy
+
+|  | 
 
 ## Privacy Statement
 
@@ -40,4 +42,6 @@ Your consent: By using our web site, you give consent to the collection and use 
 
 ## Tell us what you think!
 
-iFLOOR.com welcomes your questions and comments about privacy. Please send your e-mail to feedback@ifloor.com.
+iFLOOR.com welcomes your questions and comments about privacy. Please send your e-mail to feedback@ifloor.com.  
+  
+---|---
