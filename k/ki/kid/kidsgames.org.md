@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidsgames.org privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206093231id_/http%3A//www.uptoten.com/parents.phtml%3Fl%3Den%26sv%3Dlegal%26tv%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidsgames.org privacy policy that was archived on 2007-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070527131902id_/http%3A//www.uptoten.com/parents.phtml%3Fl%3Den%26sv%3Dlegal%26tv%3D2) for the most accurate reproduction.*
 
 # UpToTen parents - Practical ideas, advice...
 
