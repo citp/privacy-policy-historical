@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the berroco.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210172302id_/http%3A//berroco.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the berroco.com privacy policy that was archived on 2007-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070527142617id_/http%3A//berroco.com/privacy.html) for the most accurate reproduction.*
 
-# Berroco® Privacy Statement
+# Berroco® KnitBits®
 
-**Berroco.com Privacy Statement**
+| 
 
 It is the goal of Berroco.com to bring you information about knitting and about our products and, at the same time, protect your privacy. The following is a summary of the various ways we treat the information you provide us while using our site.
 
@@ -24,3 +24,5 @@ If you don't want cookies, your Web browser likely includes an option that allow
 Your Internet Protocol ("IP") address is usually associated with the place from which you enter the Internet, like your Internet Service Provider, your company or your university. We may use your IP address to help diagnose problems with our server, gather broad demographic information, and administer our Web site.
 
 If you have other concerns or questions about any aspect of this policy, you may e-mail us at [info@berroco.com](mailto:info@berroco.com).
+
+| 
