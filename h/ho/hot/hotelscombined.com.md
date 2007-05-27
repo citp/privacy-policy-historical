@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelscombined.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214215957id_/http%3A//hotelscombined.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelscombined.com privacy policy that was archived on 2007-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070527120525id_/http%3A//www.hotelscombined.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Hotels Combined - Compare Hotel Prices from Top Hotel Sites
 
@@ -12,10 +12,10 @@ Welcome to HotelsCombined.com, the best site on the web for up-to-date informati
 
 The bottom line is that any information we collect from you remains completely private unless you give us permission to give it to another website. We do not knowingly collect private information from children, and we don’t sell your information to any other websites for any reason. That’s it in a nutshell! If you have any questions about our privacy policy, please don’t hesitate to contact us by email or at 
 
-Hotels Combined  
+Hotels Combined Pty Ltd  
 Suite 4/6 Clifford Street  
-Mosman NSW 2088  
-Australia 
+Mosman, NSW, 2088  
+Sydney, Australia 
 
 ## Information Collected
 
