@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the search-this.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206003437id_/http%3A//www.search-this.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the search-this.com privacy policy that was archived on 2007-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070527174331id_/http%3A//www.search-this.com/privacy-policy) for the most accurate reproduction.*
 
-# Search-This: Privacy Statement
+# Privacy Policy
 
 The following statements describes the privacy practices for Search-This:
 
@@ -10,33 +10,38 @@ The following statements describes the privacy practices for Search-This:
   * Security settings protect the misuse of sensitive information
   * Search-This does not use cookies to track any user information
 
+
+
 **Personal User Information**
 
 Search-This does not collect any information about its users or visitors.
 
-Users are free to visit Search-This, and navigate all its pages, without any user registration. However, to participate in the forum you must register
+Users are free to visit Search-This, and navigate all its pages, without any  
+user registration. However, to participate in the forum you must register
 
 **Log Files**
 
-Search-This uses IP addresses to diagnose server problems, analyze trends, administer the site, and gather demographic information for aggregate use.
+Search-This uses IP addresses to diagnose server problems, analyze trends, administer the site,  
+and gather demographic information for aggregate use.
 
 IP addresses are not linked to personally identifiable information.
 
-Search-This only shares aggregated statistics with partners and advertisers. This information cannot identify any individual person.
+Search-This only shares aggregated statistics with partners and advertisers. This  
+information cannot identify any individual person.
 
-Search-This has standard security measures in place to protect the loss and misuse of sensitive information.
+Search-This has standard security measures in place to protect the loss and misuse  
+of sensitive information.
 
 **Cookies**
 
-Search-This does not use cookies, but since we use ad companies to display ads, these ads might contain cookies.
+Search-This does not use cookies, but since we use ad companies to display ads,  
+these ads might contain cookies.
 
 **Links**
 
-Search-This contains links to other sites. We are not responsible for the privacy practices or the content of such Web sites. This privacy document applies only to Search-This.
+Search-This contains links to other sites. We are not responsible for the privacy practices or the content of such Web sites.  
+This privacy document applies only to Search-This.
 
 **Contacting the Web Site**
 
-For any questions about this privacy statement, please contact: [Search-This](http://www.search-this.com/contact.aspx)
-
-  
-
+For any questions about this privacy statement, please contact: [Search-This](http://www.search-this.com/contact/)
