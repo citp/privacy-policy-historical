@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibm.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231204544id_/http%3A//www.ibm.com/privacy/us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibm.com privacy policy that was archived on 2007-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070527074227id_/http%3A//www.ibm.com/privacy/us) for the most accurate reproduction.*
 
 # IBM Privacy - United States
 
@@ -61,9 +61,11 @@ Questions about this statement or about IBM's handling of your information may b
 
 [prvcy@us.ibm.com](mailto:prvcy@us.ibm.com), or
 
-Privacy, IBM   
-1133 Westchester Ave.  
-White Plains, NY 10604 USA  
+IBM's Corporate Privacy Office   
+B4/D75  
+3600 Steeles Ave E.   
+Markham, ON L3R 9Z7  
+Canada  
   
   
 
