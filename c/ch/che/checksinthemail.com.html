@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the checksinthemail.com privacy policy that was archived on 2006-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061201043126id_/http%3A//secure.checksinthemail.com/consumer_privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the checksinthemail.com privacy policy that was archived on 2007-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070527194159id_/http%3A//secure.checksinthemail.com/consumer_privacy.aspx) for the most accurate reproduction.-->
 
 <html><head>
 		
@@ -128,11 +128,19 @@
 			<tbody><tr>
 				<td width="140" valign="top" bgcolor="#336699">
 					<!-- Left Nav Bar -->
-					<input name="NavBar:DepartmentControl" id="NavBar_DepartmentControl" type="hidden"> <input name="NavBar:ShowMenuControl" id="NavBar_ShowMenuControl" type="hidden">
+					
+<!-- 
+Public Properties
+ShowSearch - controls whether or not the Google mini search fields will appear above
+	the nav menu (Default is true)
+ShowMenu - controls whether or not the nav menu will appear (Default is true)
+-->
+
+<input name="NavBar:DepartmentControl" id="NavBar_DepartmentControl" type="hidden"> <input name="NavBar:ShowMenuControl" id="NavBar_ShowMenuControl" type="hidden">
 
 	<table cellspacing="0" cellpadding="0" border="0">
 		<tbody><tr>
-			<td align="middle" width="140"><a href="index.aspx" target="_top"><img height="83" alt="Checks in the Mail" src="images/logo.gif" width="125" border="0"></a></td>
+			<td align="center" width="140"><a href="index.aspx" target="_top"><img height="83" alt="Checks in the Mail" src="images/logo.gif" width="125" border="0"></a></td>
 		</tr>
 	</tbody></table>
 
@@ -144,11 +152,59 @@
 			<td><img height="5" src="images/spacer.gif" width="140"></td>
 		</tr>
 		<tr>
-			<td align="middle"><span style="font-family: Arial;font-size: 7pt;color: White;">www.citm.com</span></td>
+			<td align="middle"><p style="font-family: Arial;font-size: 7pt;color: White;margin-bottom:7px;">www.citm.com</p></td>
 		</tr>
-		
-		
-		<tr>
+	
+	<tr><td bgcolor="#cccccc">
+	
+	<table cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td colspan="2" style="background-color: #336699;border-top-style: solid; border-top-width: 1px; border-top:color:#cccccc;"><p style="margin-left:4px;margin-top:3px;margin-bottom:3px; margin-right:0px;font-family:arial, helvetica, sans serif; font-size:12px;color:#ffffff;">
+Search</p></td></tr></tbody></table>
+	
+	
+<!--
+Public Properties:
+ShowBusinessNav (boolean) - setting this property to true will display the "Business" nav
+	on the results page. (default is false)
+-->
+<script language="javascript">
+var ShowBusinessNav = 'False';
+
+function clickButton(e, buttonid)
+{ 
+    var bt = document.getElementById(buttonid); 
+    if (bt)
+        if (typeof bt == 'object')
+		    if (event.keyCode == 13)
+		    { 
+			    bt.click(); 
+			    return false; 
+		    } 		    		
+} 
+
+function CheckForm(Keyword)
+{
+	if(Keyword.value == '')
+	{
+		alert('First enter a search value');
+		Keyword.focus();
+		return false;
+	}
+	else
+		document.FormGoogle.blnShowBusinessNav.value = ShowBusinessNav;
+}	
+
+
+</script>
+<form action="searchresults.aspx" method="post" name="FormGoogle" id="FormGoogle" onsubmit="return CheckForm(txtKeyword);">
+<input type="hidden" id="blnShowBusinessNav" name="blnShowBusinessNav" value="">
+<table cellpadding="0" cellspacing="0"><tbody><tr><td><p style="margin-top: 15px; margin-left: 4px; margin-right: 0px;"><input type="text" name="txtKeyword" id="txtKeyword" size="13" onkeypress="return clickButton(event,'btnSearch');" )=""></p><p></p></td><td><p style="margin-left:4px; margin-top:0px; margin-bottom:0px; margin-right:3px;"><input type="image" src="images/btn_go.gif" id="btnSearch">
+</p></td></tr></tbody></table>
+</form>
+
+	
+</td></tr>	
+
+		 <tr>
 			<td align="middle">
 				<table cellpadding="0" cellspacing="0" border="0" width="100%">
 					<tbody><tr>
@@ -160,18 +216,18 @@
 					</tr>
 				</tbody></table>
 			</td>
-		</tr>
+		</tr> 
 	</tbody></table>
 	<table cellspacing="0" cellpadding="0" border="0">
 		<tbody><tr>
 			<td width="140" bgcolor="#cccccc" colspan="2" height="3"><img height="3" src="images/spacer.gif" width="140"></td>
 		</tr>
 		
-		<tr>
-			<td width="10" bgcolor="#cccccc"><img height="1" src="images/spacer.gif" width="10"></td>
-			<td width="130" bgcolor="#cccccc">
-				<a id="NavBar_reorderlink" class="navheader" href="https://secure.checksinthemail.com/reorder-checks.aspx">Express Reorder</a></td>
-		</tr>
+			<tr>
+				<td width="10" bgcolor="#cccccc"><img height="1" src="images/spacer.gif" width="10"></td>
+				<td width="130" bgcolor="#cccccc">
+					<a id="NavBar_reorderlink" class="navheader" href="https://secure.checksinthemail.com/reorder-checks.aspx">Express Reorder</a></td>
+			</tr>
 		
 		<tr>
 			<td width="10" bgcolor="#cccccc"><img height="1" src="images/spacer.gif" width="10"></td>
@@ -208,7 +264,7 @@
 									<tbody><tr>
 										<td width="10" bgcolor="#cccccc"><img src="images/spacer.gif" width="10" height="1"></td>
 										<td width="130" bgcolor="#cccccc">
-											<span id="NavBar_Categories__ctl0_Lines__ctl0_linelink"><a href="line.aspx?lineid=356" class="navheader"><font color="#CC0000">Holiday Gifts</font></a></span></td>
+											<span id="NavBar_Categories__ctl0_Lines__ctl0_linelink"><a href="line.aspx?lineid=357&amp;lid=D100" class="navheader"><font color="#CC0000"><b>NEW! </b>Disney Checks</font></a></span></td>
 									</tr>
 									<tr>
 										<td width="140" bgcolor="#cccccc" colspan="2" height="3"><img height="3" src="images/spacer.gif" width="140"></td>
@@ -247,7 +303,7 @@
 									<tbody><tr>
 										<td width="10" bgcolor="#cccccc"><img src="images/spacer.gif" width="10" height="1"></td>
 										<td width="130" bgcolor="#cccccc">
-											<span id="NavBar_Categories__ctl0_Lines__ctl3_linelink"><a href="line.aspx?lineid=146" class="navheader"> 
+											<span id="NavBar_Categories__ctl0_Lines__ctl3_linelink"><a href="line.aspx?lineid=370" class="navheader"> 
 Photo Checks</a></span></td>
 									</tr>
 									<tr>
@@ -554,7 +610,7 @@ Photo Checks</a></span></td>
 									<tbody><tr>
 										<td width="10" bgcolor="#cccccc"><img src="images/spacer.gif" width="10" height="1"></td>
 										<td width="130" bgcolor="#cccccc">
-											<span id="NavBar_Categories__ctl1_Lines__ctl0_linelink"><a href="line.aspx?lineid=10" class="navheader">Address Labels</a></span></td>
+											<span id="NavBar_Categories__ctl1_Lines__ctl0_linelink"><a href="line.aspx?lineid=10" class="navheader">Labels</a></span></td>
 									</tr>
 									<tr>
 										<td width="140" bgcolor="#cccccc" colspan="2" height="3"><img height="3" src="images/spacer.gif" width="140"></td>
@@ -606,7 +662,7 @@ Photo Checks</a></span></td>
 									<tbody><tr>
 										<td width="10" bgcolor="#cccccc"><img src="images/spacer.gif" width="10" height="1"></td>
 										<td width="130" bgcolor="#cccccc">
-											<span id="NavBar_Categories__ctl1_Lines__ctl4_linelink"><a href="line.aspx?lineid=25" class="navheader">Ink Stamps</a></span></td>
+											<span id="NavBar_Categories__ctl1_Lines__ctl4_linelink"><a href="line.aspx?lineid=25" class="navheader"><font color="#CC0000"><b>NEW!</b> Ink Stamps</font></a></span></td>
 									</tr>
 									<tr>
 										<td width="140" bgcolor="#cccccc" colspan="2" height="3"><img height="3" src="images/spacer.gif" width="140"></td>
@@ -720,7 +776,7 @@ Photo Checks</a></span></td>
 		<td colspan="2" width="100" height="20"><img src="images/spacer.gif" width="100" height="20"></td>
 	</tr>
 	<tr>
-		<td width="60" align="middle" valign="bottom">
+		<td width="60" align="center" valign="bottom">
 			<script src="https://seal.verisign.com/getseal?host_name=secure.checksinthemail.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script>
 		</td>
 	</tr>
@@ -987,8 +1043,7 @@ Photo Checks</a></span></td>
 														</p><p> <b>Verify Our Certificate!</b> <br>
 															<font size="2">Click the image below to view the certificate 
 															information provided at Verisign's website. </font><br>
-															<a href="javascript:launchPopUp('https://digitalid.verisign.com/as2/f2258eb29f6a9ca4cb2db356a9d9a94a',700,500);"> 
-															<img src="images/VeriSignSeal.gif" width="98" height="100" border="0"></a> 
+															<script src="https://seal.verisign.com/getseal?host_name=secure.checksinthemail.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script>
 														</p><p></p> 
 														</ol>
 														</font> 
@@ -1075,7 +1130,7 @@ Photo Checks</a></span></td>
 														<address><font size="2">New Braunfels, TX</font></address>
 														<address><font size="2">78135</font></address>
 														<address><font size="2">Tel. 1-800-733-4443</font></address>
-														<address><font size="2"><a href="mailto:info@checksinthemail.com">info@checksinthemail.com</a></font></address>
+														<address><font size="2"><a href="mailto:info@citm.com">info@citm.com</a></font></address>
 														<p></p> 
 														</ol>
 														</font></td>
@@ -1153,7 +1208,7 @@ Photo Checks</a></span></td>
   }
 
 // Advanced Random Images End
-</script><a href="line.aspx?lineid=11"><img src="/images/cross_sellscvr2.jpg" width="150" height="80" border="0"></a>
+</script><a href="line.aspx?lineid=11"><img src="/images/cross_sellscvr7.jpg" width="150" height="80" border="0"></a>
 <!-- KW ARI Image --></td>
 	</tr>
 	<tr>
@@ -1204,7 +1259,7 @@ Photo Checks</a></span></td>
   }
 
 // Advanced Random Images End
-        </script><a href="line.aspx?lineid=10"><img src="/images/cross_sellslbl2.jpg" width="150" height="80" border="0"></a>
+        </script><a href="line.aspx?lineid=10"><img src="/images/cross_sellslbl6.jpg" width="150" height="80" border="0"></a>
           <!-- KW ARI Image --></td>
 	</tr>
 	<tr>
@@ -1253,7 +1308,7 @@ Photo Checks</a></span></td>
 				<br>
 				<br>
 				<span class="bodytextsmall">Copyright ©
-					2006
+					2007
 					, Checks In The Mail<br>
 					2435 Goodwin Lane, New Braunfels, TX 78135<br>
 					This site best viewed with Netscape Navigator 4.7+, Microsoft Internet Explorer 
@@ -1272,7 +1327,12 @@ Photo Checks</a></span></td>
 	</tr>
 </tbody></table>
 
- 
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1628616-1";
+urchinTracker();
+</script> 
 							</td>
 						</tr>
 					</tbody></table>				
