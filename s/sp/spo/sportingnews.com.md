@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportingnews.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205193226id_/http%3A//www.sportingnews.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportingnews.com privacy policy that was archived on 2007-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070527175645id_/http%3A//www.sportingnews.com/privacy.html) for the most accurate reproduction.*
 
 # American City Business Journals, Inc.
 
