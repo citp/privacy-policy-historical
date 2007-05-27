@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the potbelly.com privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114051048id_/http%3A//www.potbelly.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the potbelly.com privacy policy that was archived on 2007-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070527105253id_/http%3A//www.potbelly.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Potbelly Privacy Policy
 
@@ -49,5 +49,8 @@ If you have any questions or concerns about the Potbelly online policy for this 
 
 **Changes in Our Privacy Policy**  
 We may change our policy from time to time. Please check our policy frequently for changes.
+
+**Gift Card Return Policy**  
+Potbelly gift cards are non-refundable and cannot be redeemed for cash.
 
 |  | 
