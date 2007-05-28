@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sportingo.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213232307id_/http%3A//www.sportingo.com/privacy-policy/1001%2C1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportingo.com privacy policy that was archived on 2007-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070528185109id_/http%3A//www.sportingo.com/privacy-policy/1001%2C1) for the most accurate reproduction.*
 
 # - Sportingo
+
+Last updated: 7 September, 2006
 
 This document contains information regarding our privacy policy and practice and is presented to help you feel comfortable using our website. It is provided for your benefit and describes how we collect and use information. Please take a moment to read the following statement in order to affirm you agree with our practices.  
 Sportingo reserves the right to modify this Privacy Policy at any time without the requirement of any notice to you. The last modification date will be indicated on the top of this Agreement. 
