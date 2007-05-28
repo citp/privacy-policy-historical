@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the softsurroundingsoutlet.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216091656id_/http%3A//www.softsurroundingsoutlet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softsurroundingsoutlet.com privacy policy that was archived on 2007-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070528161500id_/http%3A//www.softsurroundingsoutlet.com/privacy) for the most accurate reproduction.*
 
 # SoftSurroundingsOutlet.com
 
 **Privacy Policy & Terms of Use**
 
-Last updated: May 1, 2006
+Last updated: May 1, 2007
 
 We appreciate the trust you place in Soft Surroundings, and we are committed to respecting your privacy and the security of your personal information. Our privacy policy describes the information we collect and how we use it. SoftSurroundings.com and SoftSurroundingsOutlet.com are owned by Triad Catalog Co., LLC. Every effort has been made to check our information for accuracy. Descriptive or typographical errors are subject to correction.
 
 We always welcome your questions and feedback. For privacy-related issues, please contact us at:
 
 Soft Surroundings  
-8920 Pershall Road   
-Hazelwood, MO 63042   
+1100 N Lindbergh Blvd   
+St. Louis, MO 63132   
 Phone: 1-800-240-7076   
 Fax: 1-314-521-5780   
 [e-mail us](http://www.softsurroundingsoutlet.com/emailUs.php)
@@ -53,8 +53,8 @@ We contract with other companies to provide certain services, including credit c
 From time to time, we make our mailing list (names and addresses only) and general shopping activity available to carefully screened companies whose products we believe will be of interest to you. If you prefer that we do not share any information with these companies, please contact us at:
 
 Soft Surroundings   
-8920 Pershall Road   
-Hazelwood, MO 63042   
+1100 N Lindbergh Blvd   
+St. Louis, MO 63132   
 Phone: 1-800-240-7076   
 Fax: 1-314-521-5780   
 [e-mail us](http://www.softsurroundingsoutlet.com/emailUs.php)
@@ -65,8 +65,8 @@ On rare occasions, we may disclose specific information upon governmental reques
 We offer choices about the types of information you receive from us. If you prefer not to receive catalogs or other communications from Soft Surroundings, please contact us at:
 
 Soft Surroundings   
-8920 Pershall Road   
-Hazelwood, MO 63042   
+1100 N Lindbergh Blvd   
+St. Louis, MO 63132   
 Phone: 1-800-240-7076   
 Fax: 1-314-521-5780   
 [e-mail us](http://www.softsurroundingsoutlet.com/emailUs.php)
@@ -74,8 +74,8 @@ Fax: 1-314-521-5780
 If you no longer wish to receive our e-newsletters and e-mail promotions you may electronically [unsubscribe here](http://www.softsurroundingsoutlet.com/page.php?file=faq&faqId=49) or contact us at:
 
 Soft Surroundings   
-8920 Pershall Road   
-Hazelwood, MO 63042   
+1100 N Lindbergh Blvd   
+St. Louis, MO 63132   
 Phone: 1-800-240-7076   
 Fax: 1-314-521-5780   
 [e-mail us](http://www.softsurroundingsoutlet.com/emailUs.php)
@@ -83,8 +83,8 @@ Fax: 1-314-521-5780
 If you do not want to receive mailings from other carefully screened companies, please contact us at:
 
 Soft Surroundings   
-8920 Pershall Road   
-Hazelwood, MO 63042   
+1100 N Lindbergh Blvd   
+St. Louis, MO 63132   
 Phone: 1-800-240-7076   
 Fax: 1-314-521-5780   
 [e-mail us](http://www.softsurroundingsoutlet.com/emailUs.php)
@@ -110,8 +110,8 @@ Occasionally we provide links on our website to other sites we think you will en
 To update your customer information (name, address, telephone number and e-mail address), please contact us at:
 
 Soft Surroundings   
-8920 Pershall Road   
-Hazelwood, MO 63042   
+1100 N Lindbergh Blvd   
+St. Louis, MO 63132   
 Phone: 1-800-240-7076   
 Fax: 1-314-521-5780   
 [e-mail us](http://www.softsurroundingsoutlet.com/emailUs.php)
@@ -133,8 +133,8 @@ From time to time, we may use customer information for unanticipated uses not pr
 For questions, comments or assistance, we invite you to contact us at:
 
 Soft Surroundings   
-8920 Pershall Road   
-Hazelwood, MO 63042   
+1100 N Lindbergh Blvd   
+St. Louis, MO 63132   
 Phone: 1-800-240-7076   
 Fax: 1-314-521-5780   
 [e-mail us](http://www.softsurroundingsoutlet.com/emailUs.php)
