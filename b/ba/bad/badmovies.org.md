@@ -1,21 +1,13 @@
-> *The following text is extracted and transformed from the badmovies.org privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206165300id_/http%3A//www.bla-bla.com/members/realbla/index.cfm%3Ftype%3D0%26doc%3D1%26none%3Dq%26pid%3D41204%26ign%3D1%26pid%3D41321%26eleid%3D41204) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badmovies.org privacy policy that was archived on 2007-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070528181855id_/http%3A//badmovies.org/information/privacy.html) for the most accurate reproduction.*
 
-# bla-bla.com - Welcome to bla-bla.com (Bla-Bla Privacy Statement)
+# Badmovies.org Privacy Policy
 
-**Bla-Bla Privacy Statement**
+Online privacy should be important to you. This page outlines exactly what information is gathered when you visit Badmovies.org. 
 
-Bla-Bla, its advertising partners and network affiliates, are committed to protecting the privacy of Internet users. The following statement details our ongoing support for the responsible collection and management of Internet user information. 
+Do not make the mistake of thinking you are anonymous while online. If someone wants to find you, they will. The Badmovies.org server does keep logs, intended to assist in debugging and also controlling criminal activity. These logs are private, only available to myself and the hosting administrators. A program on the server provides general statistical information about traffic and that is all. If you click on the review for [Plan Nine from Outer Space](https://web.archive.org/movies/plannine/) then the program lets me know ten thousand and one people have now read the review, vice ten thousand. Only by manually checking the server log can I start to identify you. Unless you have been doing something naughty, I really do not have the time. 
 
-**Internet User Information**
+So who can track you easily? Advertising agencies who I am affiliated with. Often (99% of the time) banner ads place a "cookie" on you computer. Usually it is intended to provide them demographic information. I can not control how they use this information. If you are looking for more on the subject I suggest reading the [Electronic Frontier Foundation's website.](http://www.eff.org/Privacy/eff_privacy_top_12.html)
 
-When we deliver an ad to you, we do not collect any personal identifiable information about you, such as your name, address, telephone number or email address. Bla-Bla does, like other Internet advertisers, collect certain information which can not personally identify you. This latter category of information is generally referred to as non-personally-identifiable information includes information like the server or internet service provider you use, type of browser used. There are some cases where you, the Internet user, may voluntarily provide personal information in response to a particular ad (a survey or purchase order form). In such cases Bla-Bla (or a third party working with Bla-Bla) may collect this information on behalf of an advertiser. The advertiser in turn uses this information to reply to your request. Bla-Bla may review such voluntarily-submitted information in aggregate form to understand the type of individuals who view a particular ad or visit a particular type of website.
+You are not required to register or provide any personal information on this site. Now, if you post your phone number and mailing address somewhere and start getting calls from complete freaks look up "This is my own darn fault" in the dictionary. It is there. Really. My site does use cookies for the Forum. They are required for the software; I do not use them to gather information. 
 
-**Data Collection and Opt Out**
-
-Bla-Bla uses cookies to enhance your web browsing experience. A cookie is a unique number assigned to you (and stored on a cookie file on your computer) the first time Bla-Bla serves you an ad. This unique number is stored on your computer and enables Bla-Bla to avoid sending the same ad to you repeatedly and to supply additional ads to you.This practice is commonly used on the Internet. When Bla-Bla uses cookies, there is no way to identify the Internet user. While we believe the use of cookies will enhance your web experience, we can still serve ads to you without using cookies.
-
-If you do not want the benefits of cookies, you can opt out of this procedure. You can delete your cookies through a simple procedure by contacting your web browser’s Help documentation for more information.
-
-**Opt Out Procedure**
-
-If you would like to "opt out," that is, to prevent any data from being stored by Bla-Bla, please [click here](mailto:info@bla-bla.com). If you have any additional questions concerning Bla-Bla’s commitment to consumer privacy, please contact us at [info@bla-bla.com](mailto:info@bla-bla.com).Opt Out ProcedureBy accepting the “opt-out” cookie, you will no longer be recognized as a unique user of any of Bla-Bla’s ad servers. As a result we will no longer be able to monitor or control the frequency of ads served to you.
+Once you leave the Internet stockade that is Badmovies.org I can not guarantee your safety. Beware, grinning tentacled death or a naked woman may be one click away. 
