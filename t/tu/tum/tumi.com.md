@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tumi.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205205407id_/http%3A//www.tumi.com/help/index.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tumi.com privacy policy that was archived on 2007-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070528201820id_/http%3A//www.tumi.com/help/index.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
 
 # Tumi.com
 
