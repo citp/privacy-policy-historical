@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babynames.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215235831id_/http%3A//www.babynames.com/user/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babynames.com privacy policy that was archived on 2007-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070528044418id_/http%3A//www.babynames.com/user/privacy.php) for the most accurate reproduction.*
 
 # Your Privacy
 
@@ -32,7 +32,11 @@
 > 
 > 
 > **CHILDREN'S GUIDELINES**  
->  **Moss Gathering** discourages users under the age of 13 from entering any personal information without consent from a parent or legal guardian. Moss Gathering does not condone posting or distribution of personally identifiable contact information of any individual, including baby's surnames. **Moss Gathering** does not entice (by the prospect of a special game, prize or other activity) any person to divulge more information than is needed to participate in any given activity. 
+>  **Moss Gathering** discourages users under the age of 13 from entering any personal information without consent from a parent or legal guardian. Moss Gathering does not condone posting or distribution of personally identifiable contact information of any individual, including baby's surnames. **Moss Gathering** does not entice (by the prospect of a special game, prize or other activity) any person to divulge more information than is needed to participate in any given activity.   
+> 
+> 
+> **THIRD-PARTY ADVERTISERS**  
+>  BabyNames.com uses third-party advertising companies to serve ads when you visit our Web site. These companies may use non-personally identifiable information about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. This information will NEVER include personal information such as your name, address, email address or telephone number. If you would like more information about this practice and to know your choices about not having this information used by these companies, [CLICK HERE](http://networkadvertising.org/consumer/opt_out.asp). 
 > 
 > **REMOVAL OF PERSONAL INFORMATION**  
 >  To remove your personal information from the **Moss Gathering** database, please email [privacy@.com](mailto:privacy@.com) with your Moss Gathering username and email address on file. 
