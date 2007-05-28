@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supermen.com privacy policy that was archived on 2006-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061123230651id_/http%3A//supermen.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supermen.com privacy policy that was archived on 2007-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070528071238id_/http%3A//supermen.com/Privacy.asp) for the most accurate reproduction.*
 
 # terms and conditions
 
