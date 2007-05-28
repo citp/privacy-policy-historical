@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the reporo.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205222354id_/http%3A//www.reporo.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reporo.com privacy policy that was archived on 2007-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070528044108id_/http%3A//www.reporo.com/privacy.jsp) for the most accurate reproduction.*
 
-# Reporo - - Text and Chat for FREE, for Ever - - Privacy policy -
-
-### Privacy Policy
+# Reporo - - Do more on your mobile - - Privacy policy -
 
 Reporo Limited is committed to ensuring that your privacy is protected. This Policy explains how we use the information collected about you, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy.
 
