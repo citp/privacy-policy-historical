@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gametap.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207151411id_/http%3A//www.gametap.com/home/jsps/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gametap.com privacy policy that was archived on 2007-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070528022033id_/http%3A//www.gametap.com/home/jsps/privacy_policy.jsp) for the most accurate reproduction.*
 
 # GameTap - Privacy Policy
 
