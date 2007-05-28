@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the five.tv privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218053405id_/http%3A//www.five.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the five.tv privacy policy that was archived on 2007-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070528023003id_/http%3A//www.five.tv/privacy) for the most accurate reproduction.*
 
 # 
 
