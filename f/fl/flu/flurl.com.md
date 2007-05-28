@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flurl.com privacy policy that was archived on 2006-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061127121155id_/http%3A//www.flurl.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flurl.com privacy policy that was archived on 2007-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070528023956id_/http%3A//www.flurl.com/site/privacy) for the most accurate reproduction.*
 
 # FLURL.com | The Best of Online Video
 
