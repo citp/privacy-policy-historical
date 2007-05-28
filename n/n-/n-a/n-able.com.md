@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the n-able.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213020432id_/http%3A//www.n-able.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the n-able.com privacy policy that was archived on 2007-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070528202502id_/http%3A//www.n-able.com/legal/privacy.php) for the most accurate reproduction.*
 
 # N-able Technologies - Privacy Policy of N-able.com
-
-| 
 
 ## What information do we collect online?
 
@@ -22,7 +20,7 @@ N-able Technologies does not sell or rent any customer or visitor information to
 
   * **To respond to requests, orders or comments** when information is provided directly via email or an online form. Information may be provided to third parties in order to fulfill orders or to provide services on behalf of N-able Technologies. N-able will only provide necessary information to these companies. These companies are not permitted to use or distribute this information for any purpose other than to provide the services. N-able makes reasonable efforts to ensure that these third parties adhere to this policy.
   * **For product and support improvement.** Information collected online, including survey and Web usage information is used in the continual development of our products and support.
-  * **To customize Web pages** with information relevant to you, especially in the Partner Resource Center, where information is displayed based on your partner type and level.
+  * **To customize Web pages** with information relevant to you based on your geographical location, or your partnership with N-able Technologies.
   * **To maintain email lists** in order to inform interested parties about our company, products and other information. These lists consist of email addresses that were provided on a voluntary basis. Individual responses to these emails may be tracked for follow-up purposes. Recipients may opt-out of these mailings by following the unsubscribe instructions within an email. We do not sell, rent or distribute email lists to other parties.
 
 
