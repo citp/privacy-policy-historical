@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the one.org privacy policy that was archived on 2006-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061103231303id_/http%3A//www.one.org/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the one.org privacy policy that was archived on 2007-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070529141747id_/http%3A//www.one.org/Privacy) for the most accurate reproduction.*
 
 # The ONE Campaign | Privacy Policy
 
-The [ONE Campaign partner organizations](https://web.archive.org/web/20061103231303id_/http%3A//www.one.org/Partners.html) are committed to protecting the privacy and security of visitors to our website. Outlined below is our online privacy policy for information collected through our website and e-mail lists. If you have questions about these policies, we encourage you to talk to us by email: [one@data.org](mailto:one@data.org). 
+The [ONE Campaign partner organizations](https://web.archive.org/web/20070529141747id_/http://www.one.org/Privacy/Partners.html) are committed to protecting the privacy and security of visitors to our website. Outlined below is our online privacy policy for information collected through our website and e-mail lists. If you have questions about these policies, we encourage you to talk to us by email: [one@data.org](mailto:one@data.org). 
 
 **Resale or disclosure of information to third parties:**
 
