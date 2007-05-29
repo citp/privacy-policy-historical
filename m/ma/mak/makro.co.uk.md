@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the makro.co.uk privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208040522id_/http%3A//www.makro.co.uk/ie/sub/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makro.co.uk privacy policy that was archived on 2007-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070529125109id_/http%3A//www.makro.co.uk/ie/sub/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Makro UK - Privacy Policy
 
 About us  
 Makro Self Service Wholesalers Limited is a company incorporated in England.
 
-Makro Self Service Wholesalers Limited ("Makro"), is responsible for the processing of any personal information you provide through this site and in any subsequent dealings with us, and its processing is registered in the United Kingdom under the Data Protection Act 1998. Please [click here](https://web.archive.org/web/20061208040522id_/http%3A//www.makro.co.uk/ie/sub/Processing_of_Data.cfm) for more information on Makro and the processing of data.
+Makro Self Service Wholesalers Limited ("Makro"), is responsible for the processing of any personal information you provide through this site and in any subsequent dealings with us, and its processing is registered in the United Kingdom under the Data Protection Act 1998. Please [click here](https://web.archive.org/web/20070529125109id_/http%3A//www.makro.co.uk/ie/sub/Processing_of_Data.cfm) for more information on Makro and the processing of data.
 
 We take the privacy of all our customers and website users seriously. This Privacy Policy outlines how your personal information will be treated. 
 
