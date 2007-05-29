@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searates.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016140144id_/http%3A//www.searates.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searates.com privacy policy that was archived on 2007-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070529154638id_/http%3A//www.searates.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -30,3 +30,6 @@ SeaRates reserves the right to modify or amend this policy at any time without p
 Feel free to [contact us](https://web.archive.org/contact/) with any questions you may have. 
 
 * * *
+
+  
+
