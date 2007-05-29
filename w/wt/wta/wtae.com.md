@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wtae.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205210437id_/http%3A//www.thepittsburghchannel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtae.com privacy policy that was archived on 2007-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070529232126id_/http%3A//www.thepittsburghchannel.com/privacy) for the most accurate reproduction.*
 
 # ThePittsburghChannel.com - Privacy
 
