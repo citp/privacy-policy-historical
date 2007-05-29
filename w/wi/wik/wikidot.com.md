@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wikidot.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205201722id_/http%3A//www.wikidot.com/legal%3Aprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikidot.com privacy policy that was archived on 2007-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070529092128id_/http%3A//www.wikidot.com/legal%3Aprivacy-policy) for the most accurate reproduction.*
 
-# wikidot.com: Privacy Policy
+# Wikidot - Free Wiki Hosting: Privacy Policy
 
 At Wikidot we care about the privacy of our users. If you use any of the Sites hosted by Wikidot you must accept the way we handle personal information that is described below.
 
@@ -31,7 +31,16 @@ Wikidot.com Services use Cookies to uniquely identify and record session informa
 
 Any Wiki Sites can contain links to other web sites or include information from other sites via RSS feed import or embedding selected HTML code portions from other social sites. Wikidot.com is not responsible for the privacy policies or rules on these sites. This privacy only relates to the Wikidot Services.
 
-Please note that whenever you post Content to any of the Wiki Sites the Content can be accessed by the public.
+Please note that whenever you post Content to any of the public Wiki Sites the Content can be accessed by anyone.
+
+You can set up the Wiki Site as _private_ which means only selected users (Site Members and individually allowed users) would be able to view and browse it. Moreover if the Site is private:
+
+  * all the attached files will be visible only to authorized members,
+  * site feeds (changes, forum feeds or any other feed) is password-protected; individual users should use their _private feed password_ to access it
+
+
+
+If an unauthorized user is visiting your site he/she will be redirected to a page (by default `system:join`).
 
 Advertisements appearing on any of the Wiki Sites can be delivered to Users and Visitors by Wikidot.com or any of our advertising partners. These partners may set additional cookies which are required for the ad server to work properly and optimize ads served to you. This Privacy Policy only covers cookies usage by the Wikidot.com Services and not by any advertising partners.
 
