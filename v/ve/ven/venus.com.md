@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the venus.com privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622223706id_/http%3A//www.venusswimwear.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the venus.com privacy policy that was archived on 2007-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070529193644id_/http%3A//www.venus.com/privacy.aspx%3Fstoreid%3D0) for the most accurate reproduction.*
 
-# Venus: Privacy Policy - Our firm commitment to your privacy and security
+# Venus.com Privacy Policy - Terms of Use
 
 **Privacy Statement - Effective Date January 24, 2005  
 **   
@@ -29,7 +29,7 @@ Venus provides you with the opportunity to specifically choose the promotional m
 Tell me more.
 
 How we protect your information  
-To ensure the confidentiality of your personal information, Venus uses leading security technology and procedures which are reviewed regularly by our Security Management.   
+To ensure the confidentiality of your personal information, Venus uses leading security technology and procedures which are reviewed regularly by our Security Management.  
 Tell me more.
 
 By providing you with this Privacy Statement, Venus is pledging our continued commitment to protecting the information you provide to us. Venus regularly examines our information privacy practices to determine whether we are adhering to the disclosures about the collection, use, sharing, and protection of your personal information made in this privacy statement. 
@@ -58,10 +58,14 @@ Venus collects personal information when you:
 Venus collects your e-mail address and password when you register at our web site. 
 
 **User Profile Information**   
-Venus collects the full name, address, city, state, zip, country, e-mail address, shipping information and credit card information. This information is stored in the [ My Account](https://www.venusswimwear.com/secure/myaccount.aspx) area of Venus. 
+Venus collects the full name, address, city, state, zip, country, e-mail address, shipping information and credit card information. This information is stored in the 
+
+[ My Account](https://www.venus.com/secure/myaccount.aspx) area of Venus. 
 
 **Purchase Swimwear**   
-Venus collects the billing address of the credit card that is used to make a purchase. We will also collect credit card information, including card number, card type, cardholder name, and expiration date, in order to bill you for your purchases through Venus. Please view our  Credit Card Guarantee for additional information on Venus's commitment to protecting your credit card security. 
+Venus collects the billing address of the credit card that is used to make a purchase. We will also collect credit card information, including card number, card type, cardholder name, and expiration date, in order to bill you for your purchases through Venus. Please view our 
+
+Credit Card Guarantee for additional information on Venus's commitment to protecting your credit card security. 
 
 **Surveys and Contests Information**   
 Occasionally, Venus may offer our site visitors an opportunity to participate in a survey or contest. Information collected by Venus when you participate in a survey or contest may include your full name, e-mail address, and street address. 
@@ -72,13 +76,14 @@ Venus collects personal information such as your full name, zip code, e-mail add
 Other information we collect|   
 ---|---  
   
-Some information is collected automatically every time you visit Venus. Venus collects information about your computer and assigns you a "cookie" (a small, unique identifier text file) when you visit Venus. You do not provide this information-it is collected automatically as a means of supporting your visit to our site. This cookie does not contain any personal information.  
-
+Some information is collected automatically every time you visit Venus. Venus collects information about your computer and assigns you a "cookie" (a small, unique identifier text file) when you visit Venus. You do not provide this information-it is collected automatically as a means of supporting your visit to our site. This cookie does not contain any personal information.
 
 **Cookies and other web site technologies**   
 As a visitor to Venus you will be assigned a permanent cookie file on your computer's hard drive. You can always choose to not receive a cookie file by enabling your web browser to refuse cookies or prompt you before accepting a cookie. Be advised that, by refusing to accept a cookie, you will not be able to access the full benefits of the Venus Online Store. 
 
-When you access the [ My Account](https://www.venusswimwear.com/secure/myaccount.aspx) area of the Venus web site, Venus requires you to sign in using your e-mail address and password. Once you sign in we record the e-mail address in the cookie file on your computer. We may also record your password in this cookie file. Permanent cookie files remain on your computer's hard drive until you manually delete the file. 
+When you access the 
+
+[ My Account](https://www.venus.com/secure/myaccount.aspx) area of the Venus web site, Venus requires you to sign in using your e-mail address and password. Once you sign in we record the e-mail address in the cookie file on your computer. We may also record your password in this cookie file. Permanent cookie files remain on your computer's hard drive until you manually delete the file. 
 
 **Computer information**   
 Venus collects certain technical information from your computer each time you request a page during a visit to Venus. This information is collected from your computer's web browser and may include your IP address, operating system, web browser software (i.e., Netscape Navigator or Internet Explorer), screen resolution, and referrer web site. Wireless users: Please check with your wireless company if you are using your cellular phone to access the Internet to understand whether personal information may be used to identify you. 
@@ -108,9 +113,7 @@ We collect information about your computer (not your name, address, e-mail addre
 Credit Card Guarantee|   
 ---|---  
   
-Your credit card is protected whenever you make a purchase through Venus. If any unauthorized charges appear on your credit card statement within 12 months of your last Venus transaction, report this fraud to your credit card provider and contact us immediately by calling 1 (888) 782-2224 or [ e-mail us](mailto:email@venus.com?Subject=Questions%20About%20Credit%20Card%20Fraud). Most credit card companies cover all charges resulting from credit card fraud, or may limit your responsibility to $50, the maximum allowed under the[ Fair Credit Billing Act](http://www.ftc.gov/os/statutes/fcb/fcb.pdf). Venus is committed to making sure you're covered. 
-
-Sharing your information|   
+Your credit card is protected whenever you make a purchase through Venus. If any unauthorized charges appear on your credit card statement within 12 months of your last Venus transaction, report this fraud to your credit card provider and contact us immediately by calling 1 (888) 782-2224 or [ e-mail us](mailto:email@venus.com?Subject=Questions%20About%20Credit%20Card%20Fraud). Most credit card companies cover all charges resulting from credit card fraud, or may limit your responsibility to $50, the maximum allowed under the[ Fair Credit Billing Act](http://www.ftc.gov/os/statutes/fcb/fcb.pdf). Venus is committed to making sure you're covered.  Sharing your information|   
 ---|---  
   
 While Venus will never release your e-mail address, on occasion we make our mailing list (name and address only) available to select companies whose products might be of interest to you. If you do not wish to receive those mailings or do not wish to receive our catalog we are happy to comply with your request. Simply send the mailing label from your catalog along with your preference to: Circulation, Venus, 11711 Marco Beach Drive, Jacksonville, FL 32224. 
@@ -127,7 +130,9 @@ Control access to your information|
 Venus believes that site visitors should have control over the collection and use of their personal information. You have access to your information in the following areas of Venus: 
 
 **Your Account**   
-The [ My Account](https://www.venusswimwear.com/secure/myaccount.aspx) page on Venus allows registered visitors to view and change their account settings. The e-mail settings option lets you change your e-mail address. You can change your shipping information from your account profile; update your name, phone numbers, and credit card information associated with your profile. 
+The 
+
+[ My Account](https://www.venus.com/secure/myaccount.aspx) page on Venus allows registered visitors to view and change their account settings. The e-mail settings option lets you change your e-mail address. You can change your shipping information from your account profile; update your name, phone numbers, and credit card information associated with your profile. 
 
 You can also close your Venus account by calling  
 1-888-782-2224. 
@@ -166,8 +171,6 @@ Our systems are configured with data encryption, or scrambling, technologies, an
 Venus has also obtained a digital certificate from VeriSign, Inc. VeriSign is the world's leading provider of Internet trust services and digital certificate solutions used to conduct secure e-commerce and communications over IP networks. The VeriSign logo is a recognized symbol of trust, and ensures that the information you provide us remains completely protected from outside parties. To verify our affiliation with VeriSign, simply click on their logo.  |   
 ---|---  
   
-
-
 To verify the security of our site, look at our URL in your browser window. The letter "s" added to the "http" indicates that SSL is in effect. If you are using Netscape Navigator 3.0 or earlier, the broken key symbol in the lower-left corner of the browser window becomes solid when you are in secure mode. In Netscape Communicator 4.0 and 4.5, the open padlock symbol in the corner changes to closed in secure mode. In Internet Explorer 4.0, a closed padlock appears in the corner when you are in secure mode. Also, in many cases, your browser will warn you if you are about to send information via a site that is not secure. 
 
 Changes to the Privacy Statement|   
@@ -177,9 +180,9 @@ Venus reserves the right to modify or amend this Privacy Statement at any time a
 
 Regardless of later updates, we will abide by the information privacy practices described in the Privacy Statement posted at the time you provided us with your information. 
 
-If you have questions about our Privacy Statement, please [ e-mail us](mailto:email@venus.com?Subject=Questions%20About%20the%20Privacy%20Statement). 
+If you have questions about our Privacy Statement, please 
 
-Contacting Venus|   
+[ e-mail us](mailto:email@venus.com?Subject=Questions%20About%20the%20Privacy%20Statement).  Contacting Venus|   
 ---|---  
   
 We want to make sure you have control over your online experience as a Venus customer, from purchasing your merchandise to protecting your personal information. 
