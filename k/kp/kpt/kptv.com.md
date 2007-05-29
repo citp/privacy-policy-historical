@@ -1,79 +1,57 @@
-> *The following text is extracted and transformed from the kptv.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603152820id_/http%3A//kptv.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kptv.com privacy policy that was archived on 2007-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070529133858id_/http%3A//www.kptv.com/privacy) for the most accurate reproduction.*
 
-# Oregons12.tv : Help Section
+# kptv.com - Privacy
 
-www.oregons12.com   
-PRIVACY POLICY
+Internet Broadcasting Systems and its affiliates ("IBS") have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.KPTV.com](http://www.kptv.com/). This privacy policy applies only to information collected by or through this website. It does not apply to information obtained by other means.
 
-  
-[ Privacy Principles](http://www.newscorp.com/privacy.html)
+**Information Collection and Use**  
+This website makes use of browser "cookies". Cookies are files written to a user's hard disk and read by the server programs to inform a website if the user has previously visited that site. We use cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other purposes. We often use outside ad companies to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our website, cookies received with ads are not being collected by us and we do not have access to this information. Cookies can be rejected by you and if so none of the functions listed above will be performed.
 
-KPTV-Oregon's 12 , a unit of Fox/UTV Holdings, Inc., is part of the News America Group, which has adopted a set of [Privacy Principles](http://www.newscorp.com/privacy.html) applicable to all its U.S.-based companies. KPTV-Oregon's 12 has implemented those Principles in this Privacy Policy, which describes how we collect, use, and share personally identifiable information (“PII”) we obtain from and about individuals located in the U.S. 
+**Are you an E-mail Subscriber?**  
+If you would like to unsubscribe from an e-mail newsletter or alert [click here](https://web.archive.org/emailnewsletters/).  
+If you have e-mail subscription questions, try our [FAQ page](https://web.archive.org/station/3932645/detail.html). **Note: Do not use any of the e-mail addresses on this page to unsubscribe. The respondents are not able to process those requests.
 
-From time to time KPTV-Oregon's 12 may revise this Privacy Policy to reflect changes in the law, technology, or industry initiatives. Therefore, you should review it periodically so that you are up to date on our most current policies and practices. 
+We collect information from website visitors who must register for certain services on-line, from users who agree to participate in on-line surveys, from users who wish to make certain on-line information requests from us and from users who wish to participate in on-line contests and promotions sponsored by us. Because participation in these activities is completely voluntary, the user has a choice whether or not to disclose this information. The type of information so requested or collected by us includes user contact information (like their name and email address) and user demographic information (like gender or age). Contact information will be used to notify contest winners and award prizes and, in some instances may be shared with the contest or survey sponsor. Anonymous survey information will be used for purposes of reporting survey results and monitoring or improving the use and satisfaction of this site. Users' personally identifiable information is not shared with third parties unless we give prior notice and choice. Though we may use an intermediary to conduct these surveys or contests, they may not use users' personally identifiable information for any secondary purposes. The visitor's contact information will be used to contact the visitor when the visitor has expressed interest in being contacted (visitors can opt-out of receiving future mailings by complying with the choice/output requirements noted below). The user demographic information so collected will be used by us to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying content according to their preferences. If a user elects to use our referral service for informing a friend about our site or to send an e-card through our site, we ask them for the friend's name and email address. IBS will automatically send the friend a one-time email inviting them to visit the site or sending an e-card, as the case may be. IBS stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. The friend may contact [security@ibsys.com](mailto:security@ibsys.com) to request the removal of this information from our database. We use your IP address to help diagnose problems with our server, and to administer our website. We track and record IP addresses that access our site for reporting and profiling purposes only. We also gather anonymous browsing habits of our visitors to better identify content preferences. We also may use cookies to allow third parties to better serve advertisements to you outside of this website on websites operated by Internet Broadcasting Systems, Inc. and other websites. User demographic information is shared with advertisers on an aggregate basis in a manner which will not personally identify the individual submitting such information. We may also share personally identifiable user information with governmental authorities when legally required to do so, and to cooperate with such authorities investigating claims of illegal activity such as (but not limited to) illegal transfer of copyrighted material, or user website postings or email messages that contain threats of violence. We may also disclose personally identifiable information in other cases where we have reason to believe that disclosure is necessary to enforce compliance with our Terms of Use. Other than these specific exceptions noted, we do not sell, rent or provide access to any data collected about or from our users.
 
-COLLECTION: COLLECTION OF PERSONALLY IDENTIFIABLE INFORMATION (“PII”) BY KPTV-Oregon's 12 
+**Third Party Advertising**  
+The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal in-formation), is used to serve ads to you. For more information about DoubleClick, cookies, and how to "opt-out", please [click here.](http://www.doubleclick.com/us/about_doubleclick/privacy/)
 
-General. KPTV-Oregon's 12 collects personally identifiable information (“PII” -- that is, information such as your full name, email address, mailing address or telephone number) only in order to create or enhance our relationship with you. When we collect PII from you it is because you are voluntarily submitting the information to us in order to participate in activities like sweepstakes, contests, games, surveys, forums, subscription registrations, content or suggestions you submit to us, chats or bulletin boards, or because you want us to furnish you with products, services, or information. On those occasions when we obtain PII from a third party, we use only reputable sources of such information. 
+**Third Party Cookies**  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
 
-Cookies. Cookies are small bits of information that the Internet sites operated by KPTV-Oregon's 12 place on the hard drive of your computer. Cookies remember information about your activities on our site(s) and enable KPTV-Oregon's 12 to make your visits to our site(s) more enjoyable. For example, cookies can store your password for easy logon to a site you have previously visited or can save your preferences for a personalized home page. The cookie itself does not contain PII. 
+**Linking and Framing**  
+This site contains links to other sites. This site is not responsible for the privacy practices or the content of such websites. Occasionally when linking to another site, you may still see our site's logo or frame. This is to provide you with a seamless experience when visiting our website. In these cases you are no longer on KPTV.com and are now on a different website whose information collection practices may differ from ours. The privacy policy of the site you are on will govern how information collected from you is used.
 
-Third party advertisements displayed on Internet site(s) operated by KPTV-Oregon's 12 may also contain cookies. KPTV-Oregon's 12 does not control these advertiser cookies and visitors to our web site(s) should check the privacy policy of the advertiser to see whether and how it uses cookies. 
+**Public Forums**  
+This site at some or all times makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. IBS cannot accept any responsibility for ensuring the privacy of information that you choose to disclose in these areas.
 
-On occasion, KPTV-Oregon's 12 may use cookies to relate your use of our web site(s) to personally identifiable information you have submitted to us. For example, if you’ve asked us to send you information about our upcoming programming or promotions, cookie information may allow us to limit the materials we send you to items we know you will find interesting, based on your prior online activities and preferences. However, if KPTV-Oregon's 12 wishes to coordinate personal and cookie information in this manner, we will obtain your express prior consent (i.e., “opt in”). 
+**Security**  
+This site has reasonable security measures in place to protect the loss, misuse and alteration of the information under our control. Please remember that no computer system should be considered safe from intrusion. Email may pass through many computer systems, and should not be considered as a secure means of communication unless encrypted. Even then, information is only as secure as the encryption method. Employees are made aware of security policies and changes via email reminders monthly. Access is limited to a very small number of employees with a defined need and is password protected. In order to provide the best possible security we review our Web security policies every 180 days.
 
-You can program your computer to warn you each time a cookie is being sent or to refuse cookies completely. 
+**Children and Privacy**  
+This site is generally not targeted to children. If we learn that we have received personally identifiable information from a child under the age of 13, we will take steps to delete such information or to obtain verifiable parental consent.
 
-NOTICE: KPTV-Oregon's 12 WILL PROVIDE YOU WITH NOTICE ABOUT ITS PII COLLECTION PRACTICES 
+**Supplemental Information**  
+This site may supplement the information that you provide with information that is received from third parties. This information may be received from our partners in sponsored content sections. The type of information that is shared could include user contact information (like name and email address) and user demographic information (like zip code, age or income level). This site will use such information in accordance with this privacy policy. However, when you leave the KPTV.com website the privacy statement of the other site will apply to use of information by that site. (See "Linking and Framing" above).
 
-When KPTV-Oregon's 12 collects PII from you, we will make sure you are informed about who is collecting the information, how and why the information is being collected and the types of uses KPTV-Oregon's 12 will make of the information. 
+**Choice/Opt-Out**  
+Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. You will notice in all free email subscriptions generated from this website there is an unsubscribe link at the bottom of the message. Simply click on this link to go to a page that allows you to unsubscribe from any or all of the lists you are subscribed to. 
 
-This Policy describes the types of other companies that may want to send you information about their products and services and therefore want to share your personal information (See “Use” below). However, at the time your PII is collected, KPTV-Oregon's 12 will notify you of your options regarding our use of your personally identifiable information, including whether we can share it with outside companies (See “Choice” below). 
+In addition to using the unsubscribe page, you can send an email to [security@ibsys.com](mailto:security@ibsys.com).
 
-Sometimes we collect personally identifiable information from consumers in manual format, such as a post card or subscription form. Providing detailed notice in those situations often proves impractical, so consumers will instead be provided with a short notice that describes how to obtain the full text of this Policy and other relevant information from us. 
+**Correct/Update**  
+If you desire to change or modify information previously provided you may either email [security@ibsys.com](mailto:security@ibsys.com) or send a letter to the Security Administrator at the address below.
 
-KPTV-Oregon's 12 web site(s) may be linked to Internet sites operated by other companies. Some of these third party sites may be co-branded with a KPTV-Oregon's 12 logo, even though they are not operated or maintained by KPTV-Oregon's 12. KPTV-Oregon's 12 web site(s) also carry advertisements from other companies as well as advertisements placed by national Internet ad agencies. Although we choose our business partners and advertisers carefully, KPTV-Oregon's 12 is not responsible for the privacy practices of web sites operated by third parties that are linked to our sites or for the privacy practices of third party or so-called national advertisers. Once you’ve left KPTV-Oregon's 12 site via such a link or by clicking on an advertisement, you should check the applicable privacy policy of the third party or advertiser site to determine how they will handle any PII they collect from you. 
+**Contacting the Website**  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact:
 
-KPTV-Oregon's 12 web site(s) may also be linked to sites operated by companies affiliated with KPTV-Oregon's 12 . Visitors to those affiliated sites should still refer to their separate privacy policies and practices, which may differ in some respects from this Policy. 
+Security Administrator  
+Internet Broadcasting Systems  
+1333 Northland Drive  
+Mendota Heights, MN 55120  
+[security@ibsys.com](mailto:security@ibsys.com)
 
-CHOICE: KPTV-Oregon's 12 WILL PROVIDE YOU WITH CHOICES ABOUT THE USE OF YOUR PII 
+ **Changes to This Policy**  
+We may make changes to this policy from time to time. We will post changes to this policy here, so be sure to check back periodically. We will generally use information in accordance with the privacy policy under which the information was collected. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify our users via email or by posting a notice on the site for 30 days. 
 
-KPTV-Oregon's 12 will provide you with the opportunity to choose whether your PII may be used for purposes different from the purpose for which it was submitted. You will also be able to choose whether your information is shared with companies that are not affiliated with KPTV-Oregon's 12 (i.e., not part of the News America Group). 
-
-USE: KPTV-Oregon's 12 USE OF PII 
-
-KPTV-Oregon's 12 will use your PII in a manner that is consistent with this Policy and only for the purpose for which it is submitted, unless other uses are disclosed at the time of collection and you allow us to use your information in these other ways. 
-
-KPTV-Oregon's 12 may share your PII with companies that are affiliated with us, that is, part of the News America Group of companies. KPTV-Oregon's 12 may also share your PII with companies that are not affiliated with KPTV-Oregon's 12 but would like to send you information about their products and services. However, you will always have the opportunity to instruct us not to share your information with third parties. 
-
-KPTV-Oregon's 12 employees, agents, and contractors must have a legitimate business reason to obtain access to your PII. Outside contractors or agents who help us manage our information activities (i.e., sweepstakes administration, order fulfillment, statistical analyses) may only use PII to provide KPTV-Oregon's 12 with a specific service and not for any other purpose. 
-
-If KPTV-Oregon's 12 obtains PII from a third party, such as a business partner, our use of this information is governed by this Policy. 
-
-KPTV-Oregon's 12 may be required to disclose PII to comply with legal requirements, such as a court order, and to protect the safety and security of visitors to our web sites. 
-
-SECURITY: KPTV-Oregon's 12 PROTECTS THE SECURITY OF PII 
-
-KPTV-Oregon's 12 uses reasonable administrative, technical, personnel, and physical measures to safeguard PII in its possession against loss, theft and unauthorized use, disclosure, or modification. In addition, KPTV-Oregon's 12 uses reasonable methods to make sure that PII is accurate, up-to-date and appropriately complete. 
-
-ACCESS: HOW TO ACCESS, CORRECT OR DELETE YOUR PII 
-
-Visitors to KPTV-Oregon's 12 site may review the PII we maintain about them in our records. If you would like to review, correct, or delete this information, or to stop all future communication from us, please contact us at: 
-
-E-mail: [Privacy@foxtv.com](https://web.archive.org/include/privacy_change.asp?terms_url=/home/terms/default%2Easp&privacy_url=/themes/default/home/privacy/default%2Easp)   
-Phone: 310-584-2000   
-Mail: Fox Television Stations, Inc.   
-Attn: Privacy Officer   
-1999 S. Bundy Drive   
-Los Angeles, CA 90025 
-
-REMEDIES AND COMPLIANCE: HOW TO CONTACT KPTV-Oregon's 12 ABOUT PRIVACY CONCERNS
-
-KPTV-Oregon's 12 welcomes any suggestions on how to make our site a better and safer place. If you would like to communicate with us about our Privacy Policy or about our collection and use of your PII, please contact us at: 
-
-E-mail: [Privacy@foxtv.com](https://web.archive.org/include/privacy_change.asp?terms_url=/home/terms/default%2Easp&privacy_url=/themes/default/home/privacy/default%2Easp)   
-Phone: 310-584-2000   
-Mail: Fox Television Stations, Inc.   
-Attn: Privacy Officer   
-1999 S. Bundy Drive   
-Los Angeles, CA 90025 
+Last Revised 11/03
