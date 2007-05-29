@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingvox.com privacy policy that was archived on 2006-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061029194038id_/http%3A//www.marketingvox.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingvox.com privacy policy that was archived on 2007-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070529164544id_/http%3A//www.marketingvox.com/about/privacy.php) for the most accurate reproduction.*
 
 # Watershed Publishing Privacy Policy · MarketingVOX
 
