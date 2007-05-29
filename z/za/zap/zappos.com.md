@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the zappos.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231171801id_/http%3A//www.zappos.com/privacy.zhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zappos.com privacy policy that was archived on 2007-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070529095933id_/http%3A//www.zappos.com/privacy.zhtml) for the most accurate reproduction.*
 
 # Zappos.com Privacy Policy
-
-| 
-
-**[Customer Service](http://www.zappos.com/cs.zhtml): Privacy Policy**  
-  
-
 
 Thank you for accessing the web site ("Site") of Zappos.com, Inc. ("Zappos.com," that's us). We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.
 
@@ -108,5 +102,3 @@ If we change or update this Privacy Policy, we will post changes and updates on 
 
 Effective November 16, 2006.  
 Privacy Policy copyright © 2006 Zappos.com, Inc.
-
-| | 
