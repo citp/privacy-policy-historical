@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lauraashley.com privacy policy that was archived on 2006-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061228182117id_/http%3A//www.lauraashley.com/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lauraashley.com privacy policy that was archived on 2007-05-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070529221524id_/http%3A//www.lauraashley.com/page/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1l/DTD/transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>LAURA ASHLEY
@@ -12,8 +12,12 @@
 
 
 </title>
+
+
 <meta name="keywords" content="">
 <meta name="description" content="">
+
+
 <link rel="stylesheet" href="http://www.lauraashley.com/content/ebiz/lauraashley/resources/css/v4.css" type="text/css" media="all">
 <style type="text/css" media="all">
 @import "http://www.lauraashley.com/content/ebiz/lauraashley/resources/css/styles.css";
@@ -25,7 +29,58 @@
 
 </head>
 <body>
-
+<script language="JavaScript">
+<!--
+	function createCookie(name,value,days) {
+		if (days)
+		{
+			var date = new Date();
+			date.setTime(date.getTime()+(days*24*60*60*1000));
+			var expires = "; expires="+date.toGMTString();
+		}
+		else var expires = "";
+		document.cookie = name+"="+value+expires+"; path=/";
+	}
+	var id_value = "";
+	var siteID_value = "";
+	var urlRedirect = "";
+	var text1 = location.href;
+	var counter = 0;
+	text1 = text1.toLowerCase();
+	if( text1.indexOf("?id=") !=-1 ){
+	createCookie('LANDTIME','2007-05-29/23:15:24',365);
+		var urlRedirect = text1.substr(0,text1.indexOf("?id="));
+		var id_location= text1.indexOf("?id=")+4;
+		var siteid_location= text1.indexOf("&siteid=")+8;
+		var id_value = location.href.substring(id_location,siteid_location-8);
+		var siteID_value = location.href.substr(siteid_location);
+		counter=1;
+	} else if(text1.indexOf("?siteid=") !=-1){
+		createCookie('LANDTIME','2007-05-29/23:15:24',365);
+		var urlRedirect = text1.substr(0,text1.indexOf("?siteid="));
+		var siteid_location= text1.indexOf("?siteid=")+8;
+		var id_location= text1.indexOf("&id=")+4;
+		var siteID_value = location.href.substring(siteid_location,id_location-4);
+		var id_value = location.href.substr(id_location);
+		counter=1;
+		}
+	if (counter==1){
+			if (id_value != "" && id_value !=null) {
+				createCookie ('LINKSHAREID',id_value,365);
+			}
+			if (siteID_value != "" && siteID_value !=null) {
+				createCookie ('LINKSHARESITEID',siteID_value,365);
+			}
+			
+			if (urlRedirect != "" && urlRedirect !=null) {
+				location.href=urlRedirect;
+	
+			} else {
+				location.href="http://www.lauraashley.com";
+			}
+	}
+	-->
+</script>
 
 
 <div class="hide">
@@ -430,6 +485,7 @@ function validateEmail() {
 				<div id="footer_venda">&nbsp;</div>
 				<div id="footer_menu">
 						<ul class="navlistfooter">
+						     <li><a href="#" onclick="popup('http://www.lauraashley.com/page/catalogue','700','650','popup'); return false;" title="Online Catalogue">Online Catalogue</a></li>	
 							<li><a href="http://www.lauraashley.com/page/flash_functionality" title="Account Card">Account Card</a></li>
 							<li><a href="http://www.lauraashley.com/pcat/corporateinfo" title="Corporate Info">Corporate Info</a></li>
 							<li><a href="http://www.lauraashley.com/pcat/aboutus" title="About Us" alt="">About Us</a></li>
@@ -447,7 +503,7 @@ function validateEmail() {
 								<li><a href="http://www.lauraashley.com/page/faqs" title="Help &amp; FAQ's">Help &amp; FAQ's</a></li>
 								<li><a href="http://www.lauraashley.com/page/sitemap" title="Site Map">Site Map</a></li>
 								<li><a href="http://store.lauraashley.com/index.htm" title="Store" target="_blank">Store</a></li>								
-								<li class="t_grey listhide" style="padding:0 5px 0 5px;">Copyright © 2006 Laura Ashley, All rights reserved.</li>
+								<li class="t_grey listhide" style="padding:0 5px 0 5px;">Copyright © 2007 Laura Ashley, All rights reserved.</li>
 							</ul>
 						</div>
 				
