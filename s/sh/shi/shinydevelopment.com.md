@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shinydevelopment.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019000319id_/http%3A//www.shinydevelopment.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shinydevelopment.com privacy policy that was archived on 2007-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070529115933id_/http%3A//shinydevelopment.com/privacy) for the most accurate reproduction.*
 
 # Shiny Development :: Privacy Policy
 
@@ -47,3 +47,6 @@ Although most changes are likely to be minor, Shiny Development may change its P
 ## Privacy Policy License
 
 We want to say a huge thankyou to the guys over at [Automattic](http://automattic.com/) who make the fabulous [Wordpress](http://wordpress.com/) blogging software for allowing us to copy their privacy policy because they made it available under a [creative commons license](http://creativecommons.org/licenses/by-sa/2.5/) and of course, we are also making this version of their license available under the [same license](http://creativecommons.org/licenses/by-sa/2.5/).
+
+Shiny Development Ltd. is registered in England, Registration Number: 05805802.  
+Registered Office: 4 Claridge Court, Lower Kings Road, Berkhamsted, Herts., HP4 2AF.
