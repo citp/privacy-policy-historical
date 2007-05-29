@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maniatv.com privacy policy that was archived on 2006-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061201111213id_/http%3A//www.maniatv.com/footer/privacypolicy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maniatv.com privacy policy that was archived on 2007-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070529031111id_/http%3A//www.maniatv.com/About/Privacy) for the most accurate reproduction.*
 
 # ManiaTV! ::
 
@@ -9,14 +9,15 @@ LAST UPDATED: June 1, 2006
 
 ManiaTV! takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
-What This Privacy Policy Covers
+### What This Privacy Policy Covers
 
   * This policy covers how ManiaTV! treats personal information that ManiaTV! collects and receives, including information related to your past use of ManiaTV! products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
   * This policy does not apply to the practices of companies that ManiaTV! does not own or control, or to people that ManiaTV! does not employ or manage. In addition, most ManiaTV! partners companies have their own privacy statements which can be viewed on their sites. 
 
 
 
-Information Collection and Use   
+### Information Collection and Use 
+
 General 
 
   * ManiaTV! collects personal information when you register with ManiaTV!, when you use ManiaTV! products or services, when you visit ManiaTV! pages or the pages of certain ManiaTV! partners, and when you enter contests, promotions or sweepstakes. ManiaTV! may combine information about you that we have with information we obtain from business partners or other companies. 
@@ -35,8 +36,7 @@ Children
 
 
 
-Information Sharing and Disclosure  
-
+Information Sharing and Disclosure
 
   * ManiaTV! does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
     * We provide the information to trusted partners who work on behalf of or with ManiaTV! under confidentiality agreements. These companies may use your personal information to help ManiaTV! communicate with you about offers from ManiaTV! and our marketing partners. However, these companies do not have any independent right to share this information. 
@@ -50,8 +50,7 @@ Information Sharing and Disclosure
 
 
 
-Cookies  
-
+Cookies
 
   * ManiaTV! may set and access ManiaTV! cookies on your computer. 
   * ManiaTV! lets some partner companies that show advertisements on ManiaTV! products set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to ManiaTV!'s cookies. 
@@ -59,8 +58,7 @@ Cookies
 
 
 
-Your Ability to Edit Your Account Information and Preferences   
-General 
+Your Ability to Edit Your Account Information and Preferences  General 
 
   * You can edit your ManiaTV! Maniac Registration Information, including your marketing preferences, at any time. 
   * New categories of marketing communications may be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive. 
@@ -68,23 +66,20 @@ General
 
 
 
-Confidentiality and Security   
-
+Confidentiality and Security 
 
   * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
   * We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. 
 
 
 
-Confidentiality and Security   
-
+Confidentiality and Security 
 
   * ManiaTV! may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your ManiaTV! account or by placing a prominent notice on our site. 
 
 
 
-Questions and Suggestions   
-
+Questions and Suggestions 
 
   * If you have questions or suggestions, please contact us at [Feedback@ManiaTV.com ](mailto:feedback@maniatv.com)
 
