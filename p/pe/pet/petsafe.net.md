@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petsafe.net privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215104110id_/http%3A//www.petsafe.net/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petsafe.net privacy policy that was archived on 2007-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070529043149id_/http%3A//www.petsafe.net/privacy_policy.htm) for the most accurate reproduction.*
 
 # PetSafe® About Us
 
