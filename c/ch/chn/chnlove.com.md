@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chnlove.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021133234id_/http%3A//chnlove.com/end_files/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chnlove.com privacy policy that was archived on 2007-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070529220342id_/http%3A//www.chnlove.com/help/privacy.php) for the most accurate reproduction.*
 
-# Chinese women seeking love, relationship, romance, marriage and more !
+# Chnlove Club - Chinese women seeking single foreign men for dating, romance, marriage, long-time relationships.
 
     Chnlove.com (the "Site") is committed to safeguarding your privacy online. We reserve the right to change it at any time, and all changes are effective upon posting.
 
