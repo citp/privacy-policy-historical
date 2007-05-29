@@ -1,50 +1,75 @@
-> *The following text is extracted and transformed from the themovieinsider.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604021135id_/http%3A//corporate.themovieinsider.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themovieinsider.com privacy policy that was archived on 2007-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070529060547id_/http%3A//corporate.themovieinsider.com/privacy.php) for the most accurate reproduction.*
 
-# The Movie Insider (.com) Privacy Policy
+# Privacy Policy for The Movie Insider (www.themovieinsider.com)
 
-1\. ACCEPTANCE OF POLICIES
+|  Tuesday, May 29, 2007 |  | [](http://www.themovieinsider.com/index.php) | [](http://www.themovieinsider.com/index.php) | [](http://www.themovieinsider.com/index.php) | [](http://www.themovieinsider.com/index.php) | [](http://www.themovieinsider.com/showtimes.php?url=http://www.jdoqocy.com/no118r09608OUQSVQROQPSVYTTX) | [](http://forums.themovieinsider.com/) |   
+---|---|---|---|---|---|---  
+[ ](http://www.themovieinsider.com/index.php) |  |   
+|  |  |   
+|  |  | [](http://www.themovieinsider.com/) |  | [](http://www.themovieinsider.com/news/index.php) |  | [](http://www.themovieinsider.com/reviews/index.php) |  | [](http://www.themovieinsider.com/previews/index.php) |  | [](http://www.themovieinsider.com/features/index.php) |  | [](http://www.themovieinsider.com/interviews/index.php) |  | [](http://www.themovieinsider.com/boxoffice/index.php) |  | [](http://www.themovieinsider.com/multimedia/index.php) |   
+---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
+|   
+|  [Silver Develops 'Book of Eli' for Warner](http://www.themovieinsider.com/n3460-silver-develops-book-of-eli-for-warner.html) [Rumor: 'Star Wars' Film Rumor Denied](http://www.themovieinsider.com/nr3459-star-wars-film-rumor-denied.html) [Cage Exits 'Untouchables' Prequel Due to Conflict](http://www.themovieinsider.com/n3458-cage-exits-untouchables-prequel-due-to-conflict.html) [Silver and Warner Eye 'He-Man' Film](http://www.themovieinsider.com/n3457-silver-and-warner-eye-heman-film.html) ['Dreamgirl' Lands Disney's 'Princess' ](http://www.themovieinsider.com/n3456-dreamgirl-lands-disneys-princess-.html) [Myers to Star in 'Mitty' Remake](http://www.themovieinsider.com/n3455-myers-to-star-in-mitty-remake.html) [Rodriguez Blasts Off to 'Barbarella'](http://www.themovieinsider.com/n3454-rodriguez-blasts-off-to-barbarella.html) [Director Aboard for Next 'Shrek' Movie](http://www.themovieinsider.com/n3453-director-aboard-for-next-shrek-movie.html) ['Heroes' Actress Finds Reckless Crime Thriller ](http://www.themovieinsider.com/n3452-heroes-actress-finds-reckless-crime-thriller-.html) [Spidey is Back! Webslings Box Office Record](http://www.themovieinsider.com/n3451-spidey-is-back-webslings-box-office-record.html) [Heigl Gets Love Interest for New Movie](http://www.themovieinsider.com/n3450-heigl-gets-love-interest-for-new-movie.html) [Miller's Ronin Comic Next for Big Screen](http://www.themovieinsider.com/n3449-millers-ronin-comic-next-for-big-screen.html) [Statham to Topline 'Death Race' Remake](http://www.themovieinsider.com/n3448-statham-to-topline-death-race-remake.html) [Crowe Reunits with Scott on Robin Hood Story](http://www.themovieinsider.com/n3447-crowe-reunits-with-scott-on-robin-hood-story.html) ['Blade II' Villain Finds 'Hellboy' Sequel ](http://www.themovieinsider.com/n3446-blade-ii-villain-finds-hellboy-sequel-.html) [DiCaprio Hates Pretty Boy Image](http://www.themovieinsider.com/g448-dicaprio-hates-pretty-boy-image.html) [Moore May Have Children with Kutcher](http://www.themovieinsider.com/g447-moore-may-have-children-with-kutcher.html) [Clooney is Golden Globes Presenter](http://www.themovieinsider.com/g446-clooney-is-golden-globes-presenter.html) [Ferrell and Wife Welcome Baby Boy](http://www.themovieinsider.com/g445-ferrell-and-wife-welcome-baby-boy.html) [Duff Receives the Barbie Treatment](http://www.themovieinsider.com/g444-duff-receives-the-barbie-treatment.html) ['Good Morning America' Names New Weather Anchor](http://www.themovieinsider.com/tvn562-good-morning-america-names-new-weather-anchor.html) [Ex-NBA Player to Co-Star in New Drama](http://www.themovieinsider.com/tvn561-exnba-player-to-costar-in-new-drama.html) [Celebrities Put on 'Dancing' Shoes](http://www.themovieinsider.com/tvn556-celebrities-put-on-dancing-shoes.html) [Messing to Star in USA Miniseries](http://www.themovieinsider.com/tvn555-messing-to-star-in-usa-miniseries.html) ['Iron Man' Cartoon to Premiere Before Film](http://www.themovieinsider.com/tvn554-iron-man-cartoon-to-premiere-before-film.html) |  |   
+|   
+| |   
+---|---  
+|  | 
 
-The Movie Insider (.com) has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: The Movie Insider (.com).
+  
+_The Movie Insider_ is committed to protecting the privacy and security of our users. The following privacy policy describes what kind of information we collect and how it is used. We believe that this policy will enable our visitors to protect their privacy while enjoying at our site.  | [Overview](http://corporate.themovieinsider.com/privacy.php):  
+---  
+ _The Movie Insider_ regularly tracks general data about our site, such as the number of visitors, to improve and enhance our site and its features. _The Movie Insider_ uses this general demographic information to tailor our services and features to our users’ needs and preferences. We may share this general data with third parties from time to time.  In addition, _The Movie Insider_ also collects certain personally identifiable information from its users. This information is specific to the user and is used for a variety of purposes as set forth below. The following describes the kinds of personally identifiable information that we collect and how it is used.   
+[User Registration & Accounts](http://corporate.themovieinsider.com/privacy.php):  
+---  
+ _The Movie Insider_ requests personally identifying information about you and your interests when you register within the _The Movie Insider_ site. Such information may include, but is not limited to, name, address, e-mail address, gender and age. _The Movie Insider_ uses this information to track the overall demographics of our user base. We also use the personal information internally to determine what kinds of features and information to offer our users, to enhance the design and layout of our site, and to inform users of new features, products or offerings on our site.  _The Movie Insider_ currently does not share this registration information with any third parties. This may change in the future; if this does change we would require such third parties to use the information only to the extent necessary to provide you their services or to notify you of new products and services. We will also require such third parties to take reasonable measures to protect the security and privacy of this information and to allow our users to request that they not be contacted with unsolicited emails or other communications.   
+[Mailing List/Newsletter](http://corporate.themovieinsider.com/privacy.php):  
+---  
+The newsletter and email updates will provide links to new information on the _The Movie Insider_ web site as well as other information or services that may be of interest to our users, such as special offers and features..  _The Movie Insider_ does not currently rent or sell its newsletter subscriber lists to third parties. However, the newsletters may contain advertisements and promotions on behalf of third party sponsors or advertisers and we may send you notices on behalf of those sponsors or advertisers. We may also notify our third party sponsors or advertisers of your email address if you have indicated an interest in finding out more about their products and services. We will require our third party sponsors or advertisers to take reasonable measures to protect the security and privacy of your e-mail address.  If you want to update your e-mail address or want to request that you stop receiving e-mail newsletters or e-mail announcements, you will find details to the end the email that we have sent to you.  
+[Giveaways and Promotions](http://corporate.themovieinsider.com/privacy.php):  
+---  
+ _The Movie Insider_ also requests personally identifiable information about you when you enter one of our contests, sweepstakes or promotions. We may share the personally identifiable information with third parties in the same manner as we share registration information. If you enter a contest or sweepstakes, there will often be a separate set of rules that will govern your participation in such events. You should also review the contest rules for any special arrangements that might apply to that contest. For example, we may notify third parties of your name and address so that they can send you the prize.   
+[User Surveys](http://corporate.themovieinsider.com/privacy.php):  
+---  
+ _The Movie Insider_ may conduct user surveys or polls from time to time. You are not required to respond to such surveys or polls. We may share the general aggregate data from such polls with third parties to better understand the needs of our users and the effectiveness of the services and advertising on the _The Movie Insider_ site. We will not share personally identifiable information from such polls with third parties, although we may store such information on our systems for use in developing services and features that suit our users’ needs and interests.   
+[Cookies](http://corporate.themovieinsider.com/privacy.php):  
+---  
+Like most other major Web sites, _The Movie Insider_ uses "cookies." Cookies are pieces of information that a Web site transfers to your computer's hard drive for record-keeping purposes. Cookies store information such as your viewing preferences, subscriptions, logons and passwords, which make your Web-surfing easier and more enjoyable. Any information gathered using cookies is used to maintain the quality of our sites to make them better reflect the information needs of users who visit.  Most browsers are automatically set up to receive cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. If you do reset your browser, however, certain aspects of the _The Movie Insider_ site may not function properly or may operate more slowly.   
+[Talkback Features](http://corporate.themovieinsider.com/privacy.php):  
+---  
+ _The Movie Insider_ may establish chat rooms, message boards or usenets to facilitate the exchange of information between users of the site. Please be aware that any information you post is publicly available and not subject to the security or privacy protections of this site. _The Movie Insider_ cannot be responsible for such information and you post any such information at your sole risk. For this reason, you should exercise common sense in disclosing any personally identifiable information in these areas of _The Movie Insider_ site.   
+[Third Party Advertising](http://corporate.themovieinsider.com/privacy.php):  
+---  
+ _The Movie Insider_ uses numerous third-party advertising companies, including TribalFusion, ValueClickMedia, CasaleMedia and BurstMedia, among others, to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit [networkadvertising.org](http://www.networkadvertising.org/optout_nonppii.asp).   
+[Third Party Cookies](http://corporate.themovieinsider.com/privacy.php):  
+---  
+In the course of serving advertisements to this Web site, our third-party advertiser(s) may place or recognize a unique “cookie” on your browser.  
+[Disclosures](http://corporate.themovieinsider.com/privacy.php):  
+---  
+ _The Movie Insider_ reserves the right to disclose any information provided by users of the site when it is necessary by law or when we feel it is necessary to identify, contact or bring legal action against someone who may be causing harm to the _The Movie Insider_ site or to anyone else that could be harmed.   
+[Opt-Out Information](http://corporate.themovieinsider.com/privacy.php):  
+---  
+ _The Movie Insider_ may use information submitted by anyone over the age of 13 for marketing and promotional purposes. In order for you to be in control of your personal information, we provide you with the option to opt-out of the following services: receiving e-mail newsletters from _The Movie Insider_ , receiving information from _The Movie Insider_ about new features or services and receiving information from third-party companies that have relationships with _The Movie Insider_. Please send your e-mail requests to opt out of receiving such information to us at [optout@themovieinsider.com](mailto:optout@themovieinsider.com).   
+[Under 13 Information](http://corporate.themovieinsider.com/privacy.php):  
+---  
+ _The Movie Insider_ is particularly mindful of the privacy rights of children, we encourage parents and guardians to spend time online with their children and to participate in the activities offered on this site. No information should be submitted to or posted at this site by any person under 13 years of age without the consent of their parent or guardian.  _The Movie Insider_ may request personally identifying information from persons under the age of 13 years old such as name, address, e-mail address, parent’s e-mail address, and related interests and preferences. We use this information internally for several purposes: (a) to notify winners of contests and prizes; (b) to develop and enhance the design and layout of our site; and (c) to notify our users of features and services that may appeal to them. _The Movie Insider_ does not provide any personally identifying information about persons under 13 years of age to third parties, without notifying the parent or guardian and obtaining their consent to such disclosure.  Any person under the age of 13 that registers on the _The Movie Insider_ site or is requested to provide personally identifying information must provide an e-mail address for their parent or guardian. A notification message will be sent to the parent or guardian which notifies them of their child’s participation in the site and the kind of information being collected. Parents will be requested to signify their consent to the collection of the information. Parents will also have an opportunity to review their child’s personal information, to ask to have it deleted, or refuse to allow any further collection or use of their child’s personal information.  Visitors under the age of 13 years may be allowed to win contests and participate in promotions; however, if such a visitor wins, notification and prizes are sent to the parents or guardian identified in the initial registration process.  **Note to Parents** : Please contact us at [webmaster@themovieinsider.com](mailto:webmaster@themovieinsider.com) if you want to know if you child has registered to use the _The Movie Insider_ services or if you wish to cancel your child’s membership.   
+[Privacy and Security](http://corporate.themovieinsider.com/privacy.php):  
+---  
+ _The Movie Insider_ will use reasonable care to protect the privacy and security of information that you provide to us once it is received on our systems. You should be aware, however, that no transmission over the Internet is entirely secure. Therefore, _The Movie Insider_ cannot guarantee or warrant the security of information sent over the Internet. You send such information at your own risk.  In addition, your member and e-mail accounts with _The Movie Insider_ site are password protected. You should keep these passwords private and not give them to any other person, even your best friend. You should completely log off _The Movie Insider_ and close your browser window when you are finished using the site.  While _The Movie Insider_ cannot be responsible for your general safety while using its site or the Internet in general, we offer the following safety tips: 
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information. We use cookies to save your password on our message board (Forums) so you don't have to re-enter it each time you visit our site.
+  * Don’t post personally identifiable information, such as your name and address or photos or yourself or your family, in any chat room, bulletin board or other publicly available area of _The Movie Insider_ site. 
+  * Keep your password private and secure. 
+  * Delete unknown e-mail attachments since they may contain viruses that might be destructive to your computer. 
+  * If you receive any unwelcome, threatening or offensive communications over the Internet, you should report it to your online service provider. 
 
-This site contains links to other sites. The Movie Insider (.com) is not responsible for the privacy practices or the content of such Web sites.
-
-2\. THIRD PARTY ADVERTISING 
-
-The ads appearing on this Web site are delivered to you by our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. 
-
-3\. THIRD PARTY COOKIES
-
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. For more information, please [click here](http://www.doubleclick.net/us/corporate/privacy/). 
-
-4\. PUBLIC FORUMS
-
-This site makes forums/message boards available to its users. Users under 13 years of age must get parental consent before using any of these. Warnings are given. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
-
-5\. SECURITY
-
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. With the exception of the information gathered on the The Movie Insider (.com) Forums, all e-mail addresses recorded by forms on The Movie Insider (.com) Forums is stored where it can not be viewed from the web.
-
-6\. CHOICE/OPT-IN
-
-Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor.
-
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
-
-  1. E-mail to [contact@themovieinsider.com](mailto:contact@themovieinsider.com)
-
-
-
-7\. CORRECT/UPDATES
-
-This site gives users the following options for changing and modifying information previously provided.
-
-  1. E-mail to [contact@themovieinsider.com](mailto:contact@themovieinsider.com)
-
-
-
-8\. CONTACTING THE WEBSITE
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   Brian Renner [contact@themovieinsider.com](mailto:contact@themovieinsider.com)   
-For telephone or address contact, please send a request by email.
+  
+[Application of Policy](http://corporate.themovieinsider.com/privacy.php):  
+---  
+This policy only applies to the _The Movie Insider_ site. It is possible that when you are online at the _The Movie Insider_ site, you may receive messages or links to other sites that are beyond our control. These sites may send you "cookies" or request your personal information. Please be sure to review the privacy policies for these other sites before your give out such information. _The Movie Insider_ cannot be responsible for the safety or security of personal information that you disclose online to others and you do so at your own risk.   
+[Acceptance of Policy](http://corporate.themovieinsider.com/privacy.php):  
+---  
+By using this site, you agree to the terms mentioned above. If you do not agree to this policy, please do not use our site. This policy may be revised or changed from time to time. Your continued use of the _The Movie Insider_ site after the posting of changes means you accept those changes.   
+    
+---  
+[Discuss in Studio Commissary](http://forums.themovieinsider.com/) • [Print-Friendly Version](http://support.themovieinsider.com/print/web2printer4.php?img=0&lnk=0&style=http://www.themovieinsider.com/includes/tmistyles.css) • [Forward to Friend](http://support.themovieinsider.com/friend/recommend.php?url=https://web.archive.org/web/20070529060547id_/http%3A//corporate.themovieinsider.com/privacy.php "Send this page to your friend\(s\)")  
+---  
+Last Modified: Thursday, August 17, 2006, 10:13 PM EDT.
