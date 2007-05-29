@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeexchange.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205201511id_/http%3A//www.homeexchange.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeexchange.com privacy policy that was archived on 2007-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070529214018id_/http%3A//www.homeexchange.com/privacy.php) for the most accurate reproduction.*
 
 # HomeExchange.com
 
@@ -54,7 +54,7 @@ HomeExchange.com is committed to meeting the highest level of standards for our 
 HomeExchange.com reserves the right to amend this statement. We may alter this agreement as needed to adopt additional rules and practices consistent with this statement to conform to the policies or requirements of our countries of service. We may alter this statement as needed for certain products and services and to abide by any local laws or regulations. Please review this statement whenever you visit our Web site in order to obtain the most current version of our policy.
 
 **Copyright**  
-These materials (including without limitation all text, images, logos, and design) are **Copyright© 2006 HomeExchange.com Inc. All rights reserved**. The information presented here may not under any circumstances be resold or redistributed for compensation of any kind. HomeExchange.com may be used for noncommercial individual home exchange purposes only.
+These materials (including without limitation all text, images, logos, and design) are **Copyright© 2007 HomeExchange.com Inc. All rights reserved**. The information presented here may not under any circumstances be resold or redistributed for compensation of any kind. HomeExchange.com may be used for noncommercial individual home exchange purposes only.
 
 The design, format and content of the HomeExchange.com Web site is protected by all applicable national and international copyright and trademark laws. There are no exceptions.
 
@@ -67,4 +67,4 @@ HomeExchange.com claims no responsibility for the accuracy, content, or availabi
 HomeExchange.com reserves the right to remove any members listing at any time for any reason at our discretion.  
 
 
-If you have any questions or concerns regarding the copyright or privacy Policies of HomeExchange.com which are not covered in this statement, please send us an email with your questions from our [contact form](https://web.archive.org/emailcontact.php) and we will gladly respond to your inquiry.
+If you have any questions or concerns regarding the copyright or privacy Policies of HomeExchange.com which are not covered in this statement, please send us an email with your questions from our [contact form](https://web.archive.org/apps/activekb/contact.php) and we will gladly respond to your inquiry.
