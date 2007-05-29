@@ -1,48 +1,53 @@
-> *The following text is extracted and transformed from the awf.org privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604090148id_/http%3A//awf.org/act/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awf.org privacy policy that was archived on 2007-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070530001514id_/http%3A//www.awf.org/section/_footer/_privacy) for the most accurate reproduction.*
 
-# African Wildlife Foundation: Privacy Policy
+# AWF: Privacy Policy
 
-[ ]()
+###### Privacy Policy
 
-The African Wildlife Foundation respects your privacy. The following statement details our practices related to the collection, use and disclosure of your personal information. We value your trust and appreciate your important sponsorship. If you have any questions or comments concerning our personal information management practices, please contact us. Our email and phone number are listed below. 
+The African Wildlife Foundation (AWF) has created this Privacy Policy to explain why we collect particular information and how we will protect your personal privacy within our Website. AWF respects your privacy. The following statement details our practices related to the collection, use and disclosure of your personal information. We value your trust and appreciate your important sponsorship. If you have any questions or comments concerning our personal information management practices, please contact us. Our email and phone number are listed below. 
 
-**1\. ACCOUNTABILITY** : The African Wildlife Foundation is fully accountable for all practices related to the collection, use and disclosure of your personal information. All personal information management practices are disclosed in this Privacy Policy. 
+In order to fully understand your rights we encourage you to read this Privacy Policy. The African Wildlife Foundation reserves the right at any time and without notice to change this Privacy Policy simply by posting such changes on our Site. Any such change will be effective immediately upon posting.
 
-**2\. OPENNESS** : If you have any questions, or you would like further information on our personal information management practices, please contact us. 
+What Information We Collect and How We Use That Information:
 
-**3\. LIMITED COLLECTION** : The personal information collected by the Guestbook Form, Email Registration Form and the Donation Forms, is limited to that which is necessary to fulfill the purposes stated in this Privacy Policy. No additional information is collected, directly or indirectly. 
+Our registration forms require users to give us contact information that may include name, email address, format preference (HTML vs. Text), address, interests, and similar information. We do not request or store sensitive information from our visitors, such as credit card or social security numbers. 
 
-**4\. ACCESS** : The personal information collected by The African Wildlife Foundation is limited to what you have provided directly. No additional personal information is collected through any other source. Access to your personal information may be obtained by contacting us. The African Wildlife Foundation may apply a nominal fee in order to process this request. 
+Internet Protocol Address:
 
-**5\. ACCURACY** : The accuracy of your personal information is governed by the accuracy of the information you provided at the time of collection. The African Wildlife Foundation does not verify the accuracy of the personal information you provide, other than that which is provided for payment purposes. At the time you entered your personal information you were requested to verify the information for accuracy. The African Wildlife Foundation is not responsible for any errors or problems that arise as a result of inaccurate information provided by you. If you still wish to verify the accuracy of your personal information, please see ACCESS above. 
+We collect an IP address from all visitors to our Site. An IP address is a number that is automatically assigned to your computer when you use the Internet. We use IP addresses to help diagnose problems with our server,   
+administer our Site, analyze trends, track users' movement, gather broad demographic information for aggregate use in order for us to improve the site, and deliver customized, personalized content. IP addresses are not linked to personally identifiable information. 
 
-**4\. COMPLAINTS** : If you wish to file a complaint as to our compliance with our Privacy Policy, please contact us. The African Wildlife Foundation takes your privacy complaints very seriously, so please be clear and detailed as to all facts related to your complaint. 
+Use of "Cookies": 
 
-**6\. PURPOSE** :   
-\- The Donation Form collects payment information (e.g. cardholder name, address, credit card number, expiry date) required in-order to process a donation requested by you. Personal information in aggregate form, that is not personally identifiable, may be used for analytical or statistical purposes only.   
-\- The Guestbook, Email Registration and Donation Forms collect personal information (e.g. name, address, e-mail) which will be used to contact you for the following purposes:   
+Our Site may use cookies to enhance your experience while using our Site. Cookies are pieces of information that some websites transfer to the computer that is browsing that website and are used for record-keeping purposes at many websites. Use of cookies makes Web-surfing easier by performing certain functions such as saving your passwords, your personal preferences regarding your use of the particular website and to make sure you don't see the same ad repeatedly. Many consider the use of cookies to be an industry standard.  
+Your browser is probably set to accept cookies. However, if you would prefer not to receive cookies, you can alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our Site will not function properly when you view them. 
 
+Security: 
 
-  * To send you information about The African Wildlife Foundation's work. If you do not wish to receive any of this information, please exercise your Opt-Out right by contacting us.   
+All information provided to the African Wildlife Foundation is transmitted using SSL (Secure Socket Layer) encryption. SSL is a proven coding system that lets your browser automatically encrypt, or scramble, data before you send it to us. We also protect account information by placing it on a secure portion of our Site that is only accessible by certain qualified employees of the African Wildlife Foundation. Unfortunately, however, no data transmission over the Internet is 100% secure. While we strive to protect your information, we cannot ensure or warrant the security of such information. 
 
-  * To contact you in the event of a necessary communication exchange requested by you or initiated by The African Wildlife Foundation. No Opt-Out right is available given the explicit requirement for the African Wildlife Foundation to contact you, for example, to provide you with a donation confirmation. 
+Complaints: 
 
+If you wish to file a complaint as to our compliance with our Privacy Policy, please contact us. The African Wildlife Foundation takes your privacy complaints very seriously, so please be clear and detailed as to all facts related to your complaints
 
+Other Websites: 
 
-**7\. SECURITY SAFEGUARDS** : The African Wildlife Foundation will protect your personal information by appropriate security safeguards. Your personal information transmissions, including your payment information, will be encrypted. Appropriate information security measure will be in place to safeguard your personal information during storage and use.   
+Our Site contains links to other Websites. Please note that when you click on one of these links, you are entering another website for which the African Wildlife Foundation has no responsibility. We encourage you to read the privacy statements on all such sites as their policies may be different than ours. 
 
+Informed Consent: 
 
-**8\. INFORMED CONSENT** : The statements made in this Privacy Policy constitute a complete and unambiguous disclosure of all personal information collection, use and disclosure practices to be conducted by The African Wildlife Foundation. Your access to the web site, www.awf.org, and your request to make a donation constitute your informed consent and acceptance with these stated personal information practices.   
+The statements made in this Privacy Policy constitute a complete and unambiguous disclosure of all personal information collection, use and disclosure practices to be conducted by the African Wildlife Foundation. Your access to the website, [www.awf.org](http://www.awf.org/), and your request to make a donation constitute your informed consent and acceptance with these stated personal information practices.
 
+Contacting the Website: 
 
-Contact the African Wildlife Foundation:   
-
+If you have any questions about this Privacy Policy and the practices of this Website, you can contact: 
 
 African Wildlife Foundation   
-1400 16th Street, NW   
-Suite 120   
+1400 Sixteenth Street, NW  
+Suite 120  
 Washington, DC 20036  
-Phone: 202-939-3333  
-Fax: 202-939-3332  
-Email: [africanwildlife@awf.org](mailto:africanwildlife@awf.org)  
+United States  
+Phone: +1-202-939-3333  
+Fax: +1-202-939-3332
 
+You can also send an email to [webmaster@awf.org](mailto:webmaster@awf.org). Please reference this Privacy Policy in your subject line. 
