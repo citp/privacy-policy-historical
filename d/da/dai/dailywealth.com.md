@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailywealth.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205235358id_/http%3A//www.dailywealth.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailywealth.com privacy policy that was archived on 2007-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070529040226id_/http%3A//www.dailywealth.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Steve Sjuggerud's DailyWealth - Privacy Policy
 
