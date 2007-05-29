@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ogj.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018221936id_/http%3A//www.ogj.com/aboutus/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ogj.com privacy policy that was archived on 2007-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070529214808id_/http%3A//www.ogj.com/aboutus/privacy.cfm) for the most accurate reproduction.*
 
 # PennWell Corporation Online Privacy Policy
 
@@ -78,16 +78,6 @@ It is important to us that we do our part to protect the privacy of children. Fo
 
   
   
-  
-  
-* * *
-
-**►Property Exchange**  
-  
----  
-[ ](http://www.madisonenergy.com/vdr/divestment_details.cfm?divestmentid=29)  
-[Project Status & New Projects](http://www.madisonenergy.com/vdr/divestment_details.cfm?divestmentid=29)  
-For additional information on current project status and new projects, please contact: Derik Rentrop, derikr@madisonenergy.com, telephone 713-499-6316.    
   
   
    | 
