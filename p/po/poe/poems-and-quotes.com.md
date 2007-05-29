@@ -1,43 +1,8 @@
-> *The following text is extracted and transformed from the poems-and-quotes.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213112436id_/http%3A//www.poems-and-quotes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poems-and-quotes.com privacy policy that was archived on 2007-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070529230657id_/http%3A//www.poems-and-quotes.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement
 
-| 
-
-### : poems & quotes
-
-  * [love, romance](http://www.best-love-poems.com/)
-  * [friendship, family](http://www.friendship-poems.com/)
-  * [fun, humor](http://www.poems-and-quotes.com/funny/)
-  * [sadness, depression](http://www.poems-and-quotes.com/sad/)
-  * [dark, fantasy](http://www.poems-and-quotes.com/dark/)
-  * [life, society](http://www.poems-and-quotes.com/life/)
-  * [nature, environment](http://www.poems-and-quotes.com/nature/)
-  * [special events](http://www.poems-and-quotes.com/special/)
-  * [internet slang](http://www.poems-and-quotes.com/slang/)
-  * [explicit, profanity](http://www.poems-and-quotes.com/explicit.html)
-  * [miscellaneous](http://www.poems-and-quotes.com/misc/)
-
-
-
-### : community
-
-  * [members](http://www.poems-and-quotes.com/authors.html)
-  * [moderators](http://www.poems-and-quotes.com/moderators.html)
-  * [poetry clubs](http://www.poems-and-quotes.com/poetry_clubs.html)
-  * [contest winners](http://www.poems-and-quotes.com/contests.html)
-  * [discussion board](http://www.poems-and-quotes.com/discussion/)
-  * [chat room](http://www.poems-and-quotes.com/chat/)
-
-
-
-### : other websites
-
-  * [poetry resources](http://www.poems-and-quotes.com/poetry_sites.html)
-
-| 
-
-This privacy statement discloses the privacy policy of Poems & Quotes. Questions regarding this statement should be sent [here](https://web.archive.org/web/20061213112436id_/http%3A//www.poems-and-quotes.com/contact.html).
+This privacy statement discloses the privacy policy of Poems & Quotes. Questions regarding this statement should be sent [here](https://web.archive.org/web/20070529230657id_/http%3A//www.poems-and-quotes.com/contact.html).
 
 ## Information Collection and Use
 
@@ -54,14 +19,3 @@ During registraton new user is asked to submit his/her name and e-mail address. 
 ## Send Poem
 
 Our send poem to a friend services require visitors to enter names or nicknames and e-mail addresses of the sender and the recipient of a poem and may contain private information inside. Poems & Quotes does not share this information with third parties and we do not collect or use e-mail addresses of the senders or the recipients for any purposes. Poems & Quotes takes no responsibility for incorrect information supplied by the sender.
-
-| 
-
-### : login
-
-### : search poem
-
-  
-  
-  
----|---|---
