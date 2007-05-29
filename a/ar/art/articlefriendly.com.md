@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlefriendly.com privacy policy that was archived on 2006-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061101204742id_/http%3A//www.articlefriendly.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlefriendly.com privacy policy that was archived on 2007-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070529223425id_/http%3A//www.articlefriendly.com/privacy.php) for the most accurate reproduction.*
 
 # Article Friendly | Privacy Statement
 
@@ -22,9 +22,9 @@ Article Friendly expects its partners, advertisers and affiliates to respect the
 
 While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. Article Friendly does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties. 
 
-You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of Article Friendly and this policy. 
+You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of Article Friendly and this policy.
 
-**Children**
+ **Children**
 
 Article Friendly does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe Article Friendly has any information from or about anyone under 13, please contact us at the address listed below. 
 
