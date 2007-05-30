@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the calumetphoto.com privacy policy that was archived on 2006-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060325020833id_/http%3A//www.calumetphoto.com/ctl%3Fac.ui.pn%3Dcommon.IncSel%26ac.ui.if%3Dtext/privInfo.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calumetphoto.com privacy policy that was archived on 2007-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070530181305id_/http%3A//www.calumetphoto.com/ctl%3Fac.ui.pn%3Dcommon.IncSel%26ac.ui.if%3Dtext/privInfo.jsp) for the most accurate reproduction.*
 
-# CALUMET
-
-| 
+# Privacy Policy - CALUMET
 
 ### We believe in keeping your personal information private.  
   
