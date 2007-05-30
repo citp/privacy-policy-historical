@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loot.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016170057id_/http%3A//loot.com/rs6/homepage.asp%3Faction%3Dq%26t%3D/general/about_loot/company_information/tc/protection_privacy%26atp%3Dwww) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loot.com privacy policy that was archived on 2007-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070530080710id_/http%3A//www.loot.com/rs6/homepage.asp%3Faction%3Dq%26t%3D/general/about_loot/company_information/tc/protection_privacy%26atp%3Dwww) for the most accurate reproduction.*
 
 # Loot.com - Classified Ads. Buy, rent or place a free ad to sell anything.
 
@@ -31,8 +31,6 @@ We will only collect personal information from you (such as name, address, telep
   * Your mobile telephone number
   * Your street/flat number
   * The region of the UK in which you live
-  * Your date of birth
-  * Your occupation
 
 
 
@@ -90,7 +88,7 @@ We may monitor and keep records of email communications which you send to us and
 
 ## Safeguards and Security
 
-No data transmission over the internet can be entirely secure, and therefore we cannot guarantee the security of your personal information and/or use of our sites. However we use our reasonable endeavours to protect the security of your personal information from unauthorised access or use by using Secure Sockets Layer 128-bit encryption verified through Verisign.
+No data transmission over the internet can be entirely secure, and therefore we cannot guarantee the security of your personal information and/or use of our sites. However we use our reasonable endeavours to protect the security of your personal information from unauthorised access or use by using Secure Sockets Layer 128-bit encryption.
 
 ## Credit Card
 
