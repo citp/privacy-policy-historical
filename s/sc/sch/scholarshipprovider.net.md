@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scholarshipprovider.net privacy policy that was archived on 2006-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061123165627id_/http%3A//scholarshipprovider.net/privacy.php%3Fc%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarshipprovider.net privacy policy that was archived on 2007-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070530135201id_/http%3A//www.scholarshipprovider.net/privacy.php%3Fc%3D) for the most accurate reproduction.*
 
 # Student scholarship, college scholarships, education money
 
