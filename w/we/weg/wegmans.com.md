@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wegmans.com privacy policy that was archived on 2006-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061109035648id_/http%3A//www.wegmans.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wegmans.com privacy policy that was archived on 2007-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070530204946id_/http%3A//www.wegmans.com/privacy.asp) for the most accurate reproduction.*
 
 # Wegmans Privacy Policy
 
