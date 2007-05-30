@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vimo.com privacy policy that was archived on 2006-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061221045338id_/http%3A//www.vimo.com/html/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vimo.com privacy policy that was archived on 2007-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070530023454id_/http%3A//www.vimo.com/html/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"><head>
 	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
@@ -41,13 +41,13 @@
 					</a>
 				</div>
 				<div id="headersearch">
-					<a href="/reg.php">Register</a> | <a name="logout_link" href="/logout.php">Login</a> | <a href="/news/">Press</a> | <a href="/blogs/consumer/">Blogs</a> | <a href="/my/my_subscription.php">Subscriptions</a>
+					<a href="/reg.php">Register</a> | <a name="logout_link" href="/logout.php">Login</a> | <a href="/blogs/consumer/">Blogs</a> | <a href="/my/my_subscription.php">Subscriptions</a>
 					<div id="headerlogin">
-						<form name="ksearch" method="post" action="/kosmix/search.php">
+						<form style="float:left" name="ksearch" method="post" action="/kosmix/search.php">
 							<img src="/images/poweredByKosmix.gif">
 									<input type="text" class="text" name="q" style="width: 10.5em;" value="" onkeypress="return submitenter(this,event,document.ksearch.submit)">
 							<input type="hidden" name="btnH" value="Vimo Search">
-							<a class="button go" title="search" href="#" onclick="document.ksearch.submit()"></a>
+							<a class="button go" title="search" id="btnksearch" href="#" onclick="document.ksearch.submit()"></a>
 							
 						</form>
 					</div>
@@ -228,6 +228,7 @@
 	</div>
 
 				</div>  <!-- id="torso" -->
+<br>
 
 
 
@@ -236,8 +237,43 @@
 
 
 
-	<div class="right_gutter">
-	<div id="gutter">
+
+
+<script type="text/javascript" language="JavaScript"><!--
+
+
+function ShowHide(d,toggle) {
+	
+if(d.length < 1) { return; }
+if(document.getElementById(d).style.display == "none")
+ 		{ document.getElementById(d).style.display = "block";
+ 		document.getElementById(toggle).innerHTML = "Hide MyVimo";
+ 		}
+	else { document.getElementById(d).style.display = "none";
+			document.getElementById(toggle).innerHTML = "Show MyVimo";
+		 }
+		 
+}
+
+//--></script>
+
+
+	<div class="rg-top">
+	<p><a id="toggle" href="javascript:void('')" onclick="javascript:ShowHide('collapse','toggle')">
+	 	Hide MyVimo	
+		
+	</a>
+	</p>
+	</div>
+	
+	<div class="rg2">
+		   	
+		   <div id="collapse" style="display:block">
+		   	  <div id="gutter">
+
+
+	
+
 		<h3 class="myvimo_header">MyVimo</h3>
 		<ul class="myhistory">
 		<li><span>My Recent Searches:</span></li>
@@ -253,25 +289,32 @@
 		
   		<h3 class="section_header">Frequently Asked Questions</h3>
   		<ul class="topics">
-<!--   		<li><a href="/faq_page//1" onClick="return popitup('/html/newfaq.php?url_key=&popup=1','faq_page', null, null, 'scrollbars=1')"><span class="bluelinklite"></span></a></li> -->
+<!--   		<li><a href="/faq_page//1" onClick="return popitup('/html/newfaq.php?url_key=&popup=1','faq_page', null, null, 'scrollbars=1')"><span class="bluelinklite"></span></a></li> --> 
+  		<li><a href="/faq_page/vimo-help-choose-plan/svkxschg&amp;popup=1" onclick="return popitup('/html/newfaq.php?key=svkxschg&amp;popup=1','faq_page', null, null, 'scrollbars=1')"><span class="bluelinklite">How do I use Vimo to choose a health insurance plan for myself or my family?</span></a></li>
 
-  		<li><a href="/faq_page/howto-find-doctor/1" onclick="return popitup('/html/newfaq.php?key=0k0h3xt8&amp;popup=1','faq_page', null, null, 'scrollbars=1')"><span class="bluelinklite">How do I find a good doctor?</span></a></li>
+<!--   		<li><a href="/faq_page//1" onClick="return popitup('/html/newfaq.php?url_key=&popup=1','faq_page', null, null, 'scrollbars=1')"><span class="bluelinklite"></span></a></li> --> 
+  		<li><a href="/faq_page/warning-signs/qjefccio&amp;popup=1" onclick="return popitup('/html/newfaq.php?key=qjefccio&amp;popup=1','faq_page', null, null, 'scrollbars=1')"><span class="bluelinklite">What are the warning signs of a bad dentist?
+</span></a></li>
 
-<!--   		<li><a href="/faq_page//1" onClick="return popitup('/html/newfaq.php?url_key=&popup=1','faq_page', null, null, 'scrollbars=1')"><span class="bluelinklite"></span></a></li> -->
-
-  		<li><a href="/faq_page/consumer-in-control/1" onclick="return popitup('/html/newfaq.php?key=cy5h2gy3&amp;popup=1','faq_page', null, null, 'scrollbars=1')"><span class="bluelinklite">Why do people say that the "consumer is in control" with a consumer-driven plan?</span></a></li>
-
-<!--   		<li><a href="/faq_page//1" onClick="return popitup('/html/newfaq.php?url_key=&popup=1','faq_page', null, null, 'scrollbars=1')"><span class="bluelinklite"></span></a></li> -->
-
-  		<li><a href="/faq_page/hsa-contribute/1" onclick="return popitup('/html/newfaq.php?key=e5pfepld&amp;popup=1','faq_page', null, null, 'scrollbars=1')"><span class="bluelinklite">How much can I contribute to an HSA every year?</span></a></li>
+<!--   		<li><a href="/faq_page//1" onClick="return popitup('/html/newfaq.php?url_key=&popup=1','faq_page', null, null, 'scrollbars=1')"><span class="bluelinklite"></span></a></li> --> 
+  		<li><a href="/faq_page/hsa-save-money/s3nkqhl5&amp;popup=1" onclick="return popitup('/html/newfaq.php?key=s3nkqhl5&amp;popup=1','faq_page', null, null, 'scrollbars=1')"><span class="bluelinklite">How much money could I conceivably save by opening an HSA?</span></a></li>
 
   		</ul>
   		<p class="rightaligned">
   			<a href="/html/newfaq.php"><span class="bluelinklite">More questions..</span></a>
   		</p>
-		</div><!--gutter-->
-
-		 <!--start doctorad-->
+  		
+			</div><!--gutter-->
+		</div>
+		
+		
+				
+		
+			
+		
+						
+		
+				 <!--start doctorad-->
 		
 		  		<div class="ad">
   			<div id="innerborder">
@@ -312,67 +355,43 @@
 		 
 		 <!--end doctorad-->	
   	
-  				
-	</div>
-	
+
+		
+  
+		
+
 
 			</div>  <!-- id="trunk" -->
-		
-			<div class="spacer"></div>
 			
-			<div style="text-align: left; padding-top: 5px; border-top: 1px dashed #999;">
-		
-				<script type="text/javascript"><!--
-				google_ad_client = "pub-4545835997049619";
-				google_ad_width = 728;
-				google_ad_height = 90;
-				google_ad_format = "728x90_as";
-				google_ad_type = "text";
-				google_ad_channel ="";
-				google_color_border = "FFFFFF";
-				google_color_link = "005D8D";
-				google_color_bg = "FFFFFF";
-				google_color_text = "000000";
-				google_color_url = "005D8D";
-				google_kw_type = "broad";
-				google_kw = "Health,Insurance,Doctors,Surgery,Medical,Hospitals,Dentists,HSA";
-				//--></script>
-				<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-				</script>
-
-			</div>		
-			<div class="spacer"></div>
+				</div><!-- container-->
+				
 			<div class="footer">
 		        © Vimo, Inc. |
 		        Toll-free 877-296-3805 |
 			    <a name="news_link" href="/news/" class="linksfooter">Press</a> |
-			    <a name="blogs_link" href="/blogs/consumer/" class="linksfooter">Blogs</a> |
-			    <a name="subscription_link" href="/my/my_subscription.php" class="linksfooter">Subscription</a> |
+				<a name="affiliate_link" href="/affiliate/index.php" class="linksfooter">Affiliates</a> |
+				<a name="partners_link" href="/html/partners.php" class="linksfooter">Partners</a> |
 			    <a name="career_link" href="/html/careers.php" class="linksfooter">Careers</a> |			    
 			    <a name="sitemap_link" href="/html/sitemap.php" class="linksfooter">Site Map</a> |		        
 		        <a name="about_link" href="/html/about.php" class="linksfooter">About</a> |
-		        <a name="privacy_link" href="/html/privacy.php" class="linksfooter">Privacy Policy</a> |
-		        <a name="copyright_link" href="/html/copyright.php" class="linksfooter">Legal Notices</a> |
+		        <a name="privacy_link" href="/html/privacy.php" class="linksfooter">Privacy</a> |
+		        <a name="copyright_link" href="/html/copyright.php" class="linksfooter">Legal</a> |
 		        <a name="contact_link" href="/html/contact.php" class="linksfooter">Contact Us</a>
 		    </div>
-	
-			
-		</div>  <!-- id="container" -->
-	</td></tr></tbody></table>
+
+	 
+		
+	</div></td></tr></tbody></table>
 <!-- Nothing here -->
 <script type="text/javascript">
 function tw_tooltip(text) {
-	
 	return '<table style="width: 100%; border-collapse: collapse; border: #738282 solid 1px;">' +
-			'<tr>'+'<td style="background-color: #e3e9e9; color: #738282; font-weight: bold; padding: 3px;">'+
-					text[0]+'<\/td><\/tr>'+'<tr><td style="background-color:#f6f8f8; color: #333; padding: 3px;">'+
-					text[1]+'<\/td><\/tr><\/table>';
+			'<tr>'+'<td style="background-color: #e3e9e9; color: #738282; font-weight: bold; padding: 3px;">'+text[0]+'<\/td><\/tr>'+'<tr><td style="background-color:#f6f8f8; color: #333; padding: 3px;">'+text[1]+'<\/td><\/tr><\/table>';
              	 		            
 }
 </script>
 <script type="text/javascript" src="/js/wz_tooltip.js"></script>
 
-<img src="http://quantserve.com/pixel/p-68D5xwiwCT-GA.gif" style="display: none" height="1" width="1">
 
 
 </body></html>
