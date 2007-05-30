@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cpxinteractive.com privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224162957id_/http%3A//www.cpxinteractive.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpxinteractive.com privacy policy that was archived on 2007-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070530155957id_/http%3A//www.cpxinteractive.com/privacy_policy.htm) for the most accurate reproduction.*
 
-# CPX Interactive - Privacy Policy
+# CPX INTERACTIVE || Privacy Policy
 
 #### **CPX Interactive** is deeply committed to protecting the privacy of Internet users.
 
