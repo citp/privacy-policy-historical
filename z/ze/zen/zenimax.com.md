@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the zenimax.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205022746id_/http%3A//zenimax.com/legal_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenimax.com privacy policy that was archived on 2007-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070531172131id_/http%3A//www.zenimax.com/legal_privacy.htm) for the most accurate reproduction.*
 
 # ZeniMax Media Inc.
 
-[Terms & Conditions](https://web.archive.org/web/20061205022746id_/http%3A//zenimax.com/legal_terms.htm)  
+[Terms & Conditions](https://web.archive.org/web/20070531172131id_/http%3A//www.zenimax.com/legal_terms.htm)  
 **Privacy Policy**  
-[Legal Information](https://web.archive.org/web/20061205022746id_/http%3A//zenimax.com/legal_info.htm)
+[Legal Information](https://web.archive.org/web/20070531172131id_/http%3A//www.zenimax.com/legal_info.htm)
 
 [](http://www.esrb.org/confirm/zenimax-confirmation.jsp)
 
@@ -196,5 +196,5 @@ New York, NY 10017
 
 _By using this site, you signify your assent to the ZeniMax Online Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site. We reserve the right to make changes to this Privacy Policy. If we make a material change to this Privacy Policy, we will notify you by posting the change on this site or in this Privacy Policy and, if necessary, give you additional choices regarding such change. Please check back from time to time to ensure that you are aware of these changes. Your continued use of this site will signify your acceptance of these changes._
 
-  
-Updated 10/02/2006
+_  
+Updated 10/02/2006_
