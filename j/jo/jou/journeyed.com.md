@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the journeyed.com privacy policy that was archived on 2006-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061031071900id_/http%3A//www.journeyed.com/aboutUs.asp%3FPID%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journeyed.com privacy policy that was archived on 2007-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070531023412id_/http%3A//www.journeyed.com/genInfo.asp%3FPID%3Dprivacy) for the most accurate reproduction.*
 
 # JourneyEd.com - Academic Software Discounts!
-
-  
-
 
 JourneyEd.com is the Web site of Journey Education Marketing, the leading post-secondary educational software reseller in North America. We hope you enjoy your visit. In order to better serve your needs and enhance your overall shopping experience at JourneyEd.com, we collect certain information about you when you visit us. 
 
