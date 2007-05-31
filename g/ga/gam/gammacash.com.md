@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gammacash.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231234556id_/http%3A//gammae.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gammacash.com privacy policy that was archived on 2007-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070531215525id_/http%3A//gammae.com/privacy.html) for the most accurate reproduction.*
 
 # Gamma Entertainment
 
