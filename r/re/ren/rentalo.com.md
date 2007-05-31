@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rentalo.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021233721id_/http%3A//rentalo.com/docs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentalo.com privacy policy that was archived on 2007-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070531202900id_/http%3A//rentalo.com/docs/privacy.html) for the most accurate reproduction.*
 
 # Vacation Rentals, Bed and Breakfasts, Hotels, and More - Rentalo.com
 
@@ -85,7 +85,7 @@ Questions and Suggestions
 If you have questions or suggestions, please complete a [contact form](http://rentalo.com/vacation_rentals/contact_us.html) or you can contact us at:
 
 Rentalo.com  
-16562 NW 83 Place  
+8004 NW 154 St # 401   
 Miami, FL 33016  
 (305)558-5577
 
