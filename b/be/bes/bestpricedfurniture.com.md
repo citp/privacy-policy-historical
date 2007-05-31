@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestpricedfurniture.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230064028id_/http%3A//www.bestpricedfurniture.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestpricedfurniture.com privacy policy that was archived on 2007-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070601014753id_/http%3A//www.bestpricedfurniture.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Best Priced Furniture
 
@@ -83,8 +83,7 @@ BestPricedFurniture.com has its headquarters in Torrance, California. This site 
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
-BestPricedFurniture.com  
-P.O. Box 564  
+Best Priced Furniture.com, Inc.  
 23505 Crenshaw Blvd., Suite 169  
 Torrance, CA 90505  
 or  
