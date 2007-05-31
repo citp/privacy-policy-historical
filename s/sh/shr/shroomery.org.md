@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shroomery.org privacy policy that was archived on 2006-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061129121337id_/http%3A//www.shroomery.org/forums/viewprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shroomery.org privacy policy that was archived on 2007-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070531213422id_/http%3A//www.shroomery.org/forums/viewprivacy.php) for the most accurate reproduction.*
 
 # Privacy statement - Shroomery Message Board
 
@@ -19,7 +19,7 @@ _Usage:_
 The Shroomery will never sell, give, share or transfer any information we collect about our users, except as outlined below: 
 
   * In the event that the Shroomery is served with a legal subpoena, we will provide the information as required by law. 
-  * In the event a user is attempting to disrupt/undermine the server/community, we reserve the right to report them to their ISP and any applicable authorities.
+  * If a user is engaged in activities which may cause serious harm to our servers or community, we reserve the right to file a report with the user's ISP and any applicable authorities.
   * We may provide aggregate user information to third parties such as advertisers, but no personally identifiable information will be made available.
 
 
