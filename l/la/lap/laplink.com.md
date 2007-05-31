@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the laplink.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019172316id_/http%3A//laplink.com/siteinfo/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laplink.com privacy policy that was archived on 2007-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070531055520id_/http%3A//www.laplink.com/siteinfo/default.asp) for the most accurate reproduction.*
 
-# Laplink Software Inc. Privacy Policy
+# Laplink Software - Privacy Policy
 
-back to previous page
-
-Laplink Software Inc. and your privacy
+Laplink Software and your privacy
 
   * What personal information do we collect from Web site visitors?
   * What happens to the information we collect?
