@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kvue.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207052212id_/http%3A//www.kvue.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kvue.com privacy policy that was archived on 2007-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070531092737id_/http%3A//www.kvue.com/registration/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | About Us | News for Austin, Texas | kvue.com |
 
