@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailytech.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216094117id_/http%3A//www.dailytech.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailytech.com privacy policy that was archived on 2007-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070531205155id_/http%3A//dailytech.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,14 +30,14 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 * * *
 
-Most Popular Articles[Pirates Activate Copies of Vista Over Spoofed Server  
-](https://web.archive.org/web/20061216094117id_/http%3A//www.dailytech.com/article.aspx?newsid=5299)December 10, 2006, 1:07 PM  
-[Microsoft Sued for Bricking Xbox 360s  
-](https://web.archive.org/web/20061216094117id_/http%3A//www.dailytech.com/article.aspx?newsid=5291)December 11, 2006, 12:42 AM  
-[RIAA Defendant Files Lawsuit on Kazaa Owner  
-](https://web.archive.org/web/20061216094117id_/http%3A//www.dailytech.com/article.aspx?newsid=5281)December 9, 2006, 9:54 AM  
-[Nintendo Sued Over Wii Remote  
-](https://web.archive.org/web/20061216094117id_/http%3A//www.dailytech.com/article.aspx?newsid=5289)December 10, 2006, 11:40 PM  
-[AMD Renames Another ATI Product  
-](https://web.archive.org/web/20061216094117id_/http%3A//www.dailytech.com/article.aspx?newsid=5314)December 11, 2006, 5:51 PM  
+Most Popular Articles[Halo 2 Vista Delayed Due to Nude Content  
+](https://web.archive.org/Halo+2+Vista+Delayed+Due+to+Nude+Content/article7437.htm)May 25, 2007, 3:19 AM  
+[Whoops, ATI Radeon HD 2900 XT Lacks UVD  
+](https://web.archive.org/Whoops+ATI+Radeon+HD+2900+XT+Lacks+UVD/article7447.htm)May 25, 2007, 2:42 PM  
+[NVIDIA Facing 51 Pending Lawsuits  
+](https://web.archive.org/NVIDIA+Facing+51+Pending+Lawsuits/article7445.htm)May 28, 2007, 11:45 AM  
+[Legalized Blu-ray, HD DVD Copying Coming Soon  
+](https://web.archive.org/Legalized+Bluray+HD+DVD+Copying+Coming+Soon/article7441.htm)May 25, 2007, 10:19 AM  
+[OCZ Acquires PC Power & Cooling  
+](https://web.archive.org/OCZ+Acquires+PC+Power++Cooling/article7448.htm)May 25, 2007, 4:46 PM  
 
