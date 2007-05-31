@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the colesmyer.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016223227id_/http%3A//www.colesmyer.com/Home/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colesmyer.com privacy policy that was archived on 2007-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070531182116id_/http%3A//www.colesgroup.com.au/Home/privacy.asp) for the most accurate reproduction.*
 
-# Coles Myer Privacy Policy
+# Coles Group Limited Privacy Policy
+
+## Privacy Policy
 
 ### Introduction
 
-At Coles Myer, we are committed to protecting the privacy of everyone who shops or interacts with us.
+At Coles Group Limited, we are committed to protecting the privacy of everyone who shops or interacts with us.
 
-This privacy policy applies to Coles Myer Ltd and its related companies, and covers all personal information we collect about customers and other individuals outside the Coles Myer group. When we talk about “personal information”, we use the definition provided by the Federal Privacy Act - 
+This privacy policy applies to Coles Group Limited and its related companies, and covers all personal information we collect about customers and other individuals outside Coles Group Limited. When we talk about “personal information”, we use the definition provided by the Federal Privacy Act - 
 
 > “Personal information” means information or an opinion (including information or an opinion forming part of a database), whether true or not, and whether recorded in a material form or not, about an individual whose identity is apparent, or can be reasonably ascertained, from the information or opinion.
 
@@ -18,7 +20,7 @@ We only collect information that is necessary for one or more of our functions o
 
 When we collect personal information from an individual, we ensure that we do so in a fair manner. We also let the individual know: 
 
-  * which Coles Myer company is collecting the information, and how to contact that company
+  * which Coles Group Limited company is collecting the information, and how to contact that company
   * the purposes for which the information is being collected
   * the organisations, or types of organisations, to whom we may disclose the information
   * the main consequences (if any) for the individual if all or part of the information is not provided, except to the extent that this is obvious
@@ -72,11 +74,11 @@ We will take all reasonable steps to ensure that personal data we hold is accura
 
 ### Privacy Inquiries
 
-Privacy-related inquiries or concerns can be directed to the customer service department of each Coles Myer business.
+Privacy-related inquiries or concerns can be directed to the customer service department of each Coles Group Limited business.
 
 ### Availability and Review of Policy & Privacy Statements
 
-We will make our privacy policy available on request and will provide a link to this policy from all Coles Myer websites.
+We will make our privacy policy available on request and will provide a link to this policy from all Coles Group Limited websites.
 
 Privacy statements are issued by our businesses, loyalty programs and some specific business functions. These refer to our privacy policy but give more specific information regarding our data handling practices. They are available through our websites, stores, customer service departments and other points of contact with the public.
 
