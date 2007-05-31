@@ -1,17 +1,10 @@
-> *The following text is extracted and transformed from the vividseats.com privacy policy that was archived on 2006-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060830135809id_/http%3A//www.vividseats.com/shop/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vividseats.com privacy policy that was archived on 2007-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070531204057id_/http%3A//www.vividseats.com/privacy.html) for the most accurate reproduction.*
 
-# VIVID Seats - Privacy Information
-
-| 
-
-  
-**
+# Privacy Policy - Vivid Seats
 
 Vivid Seats, LTD "Vivid Seats" Privacy Policy 
 
-**
-
-Vivid Seats is committed to protecting your privacy. That is because we base our business on the trust you place in us. This policy describes our practices regarding personal and account information collected through our Web site. In this policy, “personal and account information” means your name, company name, account number, address, telephone number, and e-mail address plus other information that personally identifies you, including your industry, the number of employees at your company, and purchase history, and “we” and “us” means Vivid Seats as well as its affiliated companies.
+Vivid Seats is committed to protecting your privacy. That is because **we base our business on the trust you place in us**. This policy describes our practices regarding personal and account information collected through our Web site. In this policy, "personal and account information" means your name, company name, account number, address, telephone number, and e-mail address plus other information that personally identifies you, including your industry, the number of employees at your company, and purchase history, and "we" and "us" means Vivid Seats as well as its affiliated companies.
 
 We reserve the right to modify this privacy policy from time to time. You should visit our Web site periodically to review any changes.
 
@@ -30,13 +23,13 @@ The amount and type of information we collect from you depends on your activitie
   
 **When you make purchases through our Web site**
 
-  * We collect your name, address and payment information to process your order. However, you may provide credit card and purchase order numbers by telephone. 
-  * We collect information contained in “cookies,” such as your purchases and log in data, to personalize your shopping experience. Your browser must be set to accept cookies if you wish to add items to a shopping cart.
+  * We collect your name, address and payment information to process your order. However, you may provide credit card and personal information by telephone. 
+  * We collect information contained in "cookies," such as your purchases and log in data, to personalize your shopping experience. Your browser must be set to accept cookies if you wish to add items to a shopping cart.
 
 
 
   
-**When you create an[Account](https://web.archive.org/account/signon.shtml) on our Web site**
+**When you create an[Account](http://www.vividseats.com/account/loginForm.shtml) on our Web site**
 
   * We collect your user name, password, e-mail address, secret question, and answer to your secret question to protect your Account. We use your secret question and answer to identify you as the account user if you have forgotten your password. You can help us ensure your privacy by not sharing your user name or password. 
 
@@ -77,12 +70,9 @@ If you become our customer, we may send you updates on important information abo
 We restrict access to your personal and account information to those who need access to use it as set forth in this policy. Only authorized personnel are permitted to see your Account password. Your other personal and account information will never be disclosed to third parties except under the following circumstances. We may disclose your personal and account information to respond to subpoenas, court orders, or other legal process, as required by law, or to establish or exercise our legal rights or defend against legal claims. Your personal and account information may also be disclosed in connection with a sale of some or all of our business or a merger with another company.
 
 **How do you protect my personal and account information?**  
-We use 128-bit encryption technology and Secure Socket Layers (“SSL”) in all areas where your personal and account information is required. Our Web site is certified by [Thawte](http://www.thawte.com/), which verifies that our Web site is authentic and that we use SSL security. To view our Thawte certificate, click on the image of the closed lock or the solid key at the bottom of your browser window. Our Web site security information will appear.
+We use 128-bit encryption technology and Secure Socket Layers ("SSL") in all areas where your personal and account information is required. Our Web site is certified by [Thawte](http://www.thawte.com/), which verifies that our Web site is authentic and that we use SSL security. To view our Thawte certificate, click on the image of the closed lock or the solid key at the bottom of your browser window. Our Web site security information will appear.
 
 In addition, your personal and account information and transaction history are kept behind our firewall on separate servers. All transaction information is processed under encrypted channels, although you may choose unencrypted processing. 
 
 **How can I give you feedback or contact you?**  
-Simply [click here](mailto:info@vividseats.com). Please note that messages become our property and, unless you direct otherwise, may be used by us for promotional purposes.
-
-|   |   
----|---
+You can reach us by email at info [at] vividseats.com or you can call us toll-free at 866-848-8499. Please note that messages become our property and, unless you direct otherwise, may be used by us for promotional purposes.
