@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshersworld.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117230143id_/http%3A//freshersworld.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshersworld.com privacy policy that was archived on 2007-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070602012104id_/http%3A//freshersworld.com/privacy.htm) for the most accurate reproduction.*
 
 # Freshersworld.com :: A Complete Portal for Fresh Engineers.
 
