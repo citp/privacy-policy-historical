@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kfcu.org privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208194933id_/http%3A//kfcu.org/information.news/history/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kfcu.org privacy policy that was archived on 2007-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070601062246id_/http%3A//www.kfcu.org/information.news/history/privacy.html) for the most accurate reproduction.*
 
 # KFCU - About KFCU - Privacy Policy
 
@@ -10,7 +10,7 @@ Keesler Federal Credit Union is committed to protecting the privacy of your pers
 **Information We Collect**  
 Keesler Federal Credit Union collects nonpublic information about you from some or all of the following sources: 
 
-* Information we receive from you on applications or other forms, such as your name, address, social security number, assets and income. 
+* Information we receive from you on applications or other forms, such as your name, address, social security number, assets and income; 
 * Information about your transactions with us, our affiliates, or others such as your account balance, payment history, parties to transactions and credit card usage; and, 
 * Information we receive from a consumer-reporting agency, such as your creditworthiness and credit history. 
 
