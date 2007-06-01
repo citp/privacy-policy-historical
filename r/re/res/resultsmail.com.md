@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resultsmail.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230213039id_/http%3A//resultsmail.com/index.cfm/action/showPage/page/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resultsmail.com privacy policy that was archived on 2007-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070601211447id_/http%3A//www.resultsmail.com/index.cfm/action/showPage/page/privacyPolicy.htm) for the most accurate reproduction.*
 
 # Email marketing software for permission email marketing
 
