@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the voxilla.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208044737id_/http%3A//voxilla.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voxilla.com privacy policy that was archived on 2007-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070601162137id_/http%3A//voxilla.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Voxilla - Voxilla Privacy Policy
+# Voxilla Privacy Policy - Voxilla
 
 Voxilla knows that how personal information is gathered, used and shared is very important to you, and we appreciate the trust you put in us. We tell you just how we do those three things in our privacy policy. You accept this policy when you visit Voxilla.
 
