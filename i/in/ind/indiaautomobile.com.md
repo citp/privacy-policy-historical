@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiaautomobile.com privacy policy that was archived on 2006-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061126084031id_/http%3A//www.indiaautomobile.com/index.php%3Foption%3Dsite%26page%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiaautomobile.com privacy policy that was archived on 2007-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070601212709id_/http%3A//www.indiaautomobile.com/index.php%3Foption%3Dsite%26page%3Dprivacypolicy) for the most accurate reproduction.*
 
 # IndiaAutomobile.com
 
@@ -10,9 +10,7 @@ The information collected from any party (members, guests, vendors, advertisers)
 IndiaAutomobile.com does not sell, rent, or loan any identifiable information at the individual level regarding its customers to any third party. Any information you give us is held with the utmost care and security. We are also bound to cooperate fully should a situation arise where we are required by law or legal process to provide information about a customer.
 
 Can users contact those advertising their vehicles/other items on the site - individuals, corporates and dealers?  
-If the concerned party has provided their contact information for everyone to see then users can contact them at their request.
-
-Notice  
+If the concerned party has provided their contact information for everyone to see then users can contact them at their request.Notice  
 We may change this privacy policy from time to time based on your comments or as a result of a change of policy in our company.
 
 If you have any questions regarding our privacy policy, please write in to [privacy@indiaautomobile.com](mailto:privacy@indiaautomobile.com). 
