@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fan-sites.org privacy policy that was archived on 2005-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050504184204id_/http%3A//fan-sites.org/modules.php%3Fname%3DContent%26pa%3Dshowpage%26pid%3D12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fan-sites.org privacy policy that was archived on 2007-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070601020523id_/http%3A//fan-sites.org/modules.php%3Fname%3DContent%26pa%3Dshowpage%26pid%3D12) for the most accurate reproduction.*
 
 # Fan-Sites (dot) org - Content
 
