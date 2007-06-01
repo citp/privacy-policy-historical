@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the city-link.co.uk privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210083300id_/http%3A//www.city-link.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the city-link.co.uk privacy policy that was archived on 2007-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070602015251id_/http%3A//www.city-link.co.uk/privacy.php) for the most accurate reproduction.*
 
-# Initial City Link Privacy Policy
+# City Link Home Page
 
-We believe it is important to clearly state Initial City Link's Privacy Policy. For this reason we have used plain english (with a minimum of "jargon"- IT or legal). If you require clarification of any of these points then please email [webmaster@city-link.co.uk](mailto:webmaster@city-link.co.uk) . 
+We believe it is important to clearly state City Link's Privacy Policy. For this reason we have used plain english (with a minimum of "jargon"- IT or legal). If you require clarification of any of these points then please email [webmaster@city-link.co.uk](mailto:webmaster@city-link.co.uk) . 
 
 ## Our Privacy Principles are:
 
@@ -23,7 +23,7 @@ We believe it is important to clearly state Initial City Link's Privacy Policy. 
 
 Cookies are small pieces of information "remembered" by your web browser. We use standard "session cookies" in our site solely to store a "session id" for your visit to our web site. A session ID contains no personal information at all and is just a value would be something like: sfbeb2a41f49fdb8b001ed9416e45b733. The image below shows the a sample of our cookie contents.
 
-### So Why do City Link use Cookies?
+### So why do City Link use Cookies?
 
 Because of the way the World Wide Web "protocol" works if we didn't do this the server would think you are were a different visitor every time you asked for a page from our site. This would make some elements of the site - particularly job booking impossible to use.
 
@@ -35,7 +35,7 @@ The session ID also allows us to monitor which areas of the site are most popula
 
 The reason is simply that a cookie is a file just like all the others on your hard disk. If it contained personal information then it could theoretically be read by someone else if they could gain access to your computer. It is because of this risk that all web browsers give you the option to"Turn Off" cookies altogether or at least prompt before accepting a cookie from a site. 
 
-Whether you accept, reject or prompt before accepting cookies is a choice for you and you Organisation. Initial City Link makes no recommendation about the settings you should use. We merely state that the cookie we send to your browser contains no personal information.
+Whether you accept, reject or prompt before accepting cookies is a choice for you and you Organisation. City Link makes no recommendation about the settings you should use. We merely state that the cookie we send to your browser contains no personal information.
 
 ### What happens if the City Link Cookie is Rejected?
 
