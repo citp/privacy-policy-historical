@@ -1,0 +1,33 @@
+> *The following text is extracted and transformed from the sleepapnea.com privacy policy that was archived on 2007-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070602000727id_/http%3A//global.respironics.com/PrivacyNotice.asp) for the most accurate reproduction.*
+
+# Privacy Notice, Respironics
+
+Online Privacy Policy We at Respironics, Inc. and our affiliated companies worldwide ("Respironics") are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. Respironics has established this Online Privacy Policy so that you can understand the care with which we intend to treat your Personal Information. 
+
+Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an e-mail address or other contact information. In general, you can visit Respironics’ web pages (the “Site”) without telling us who you are or revealing any Personal Information about yourself. 
+
+We may transfer Personal Information within Respironics or to Respironics’ third-party service providers, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world. 
+
+By using this Site, you consent to the terms of our Online Privacy Policy and to Respironics’ processing of Personal Information for the purposes provided herein, as well as those explained where Respironics collects Personal Information on the Site. We reserve the right to change the terms of this Online Privacy Policy at any time, but will not do so without posting the revised Online Privacy Policy on this Site. We encourage you to review this Online Privacy Policy whenever you visit our Site to make sure you understand how we use the information we collect. 
+
+**(a) Collection of Personal Information from Site Users; Cookies.** Respironics may collect and/or track (1) the home server domain names, e-mail addresses, type of computer, and type of web browser of users to the Site, (2) the e-mail addresses of users that communicate with Respironics or the Site via e-mail, (3) information knowingly provided by the user in online forms, registration forms, surveys, etc. (including name, address, e-mail and other personal profile data), and (4) aggregate and user-specific information on which pages users access. 
+
+Respironics may place Internet “cookies” on users’ hard drives. Internet cookies save data about individual users, such as the user’s name, password, user-name, screen preferences, the pages of the Site viewed by the user, and the advertisements viewed or clicked by the user. When the user revisits the Site, Respironics may recognize the visitor by the Internet cookie and customize the user’s experience accordingly. Users may decline Internet cookies, if any, by using the appropriate feature of their web client software, if available. However, declining to use cookies may impede the ability of the Site to function properly. 
+
+When a user performs a search within the Site, Respironics may record information identifying the user or linking the user to the search performed. Respironics may also record limited information associated with every search request made by the user and use that information to, among other things, solve technical problems with the service and to calculate overall usage statistics. 
+
+**(b) Use of Personal Data Collected.** Respironics may use the Personal Information it collects for internal purposes, namely, for solving technical problems, calculating overall usage statistics, for internal marketing and promotional purposes, product development, and content improvement. 
+
+**(c) Security Measures.** Respironics may implement security features to prevent the unauthorized release of or access to personal information. Please note, however, that Respironics cannot guarantee the confidentiality of any communication or material transmitted to/from Respironics via the Site or e-mail. Accordingly, Respironics is not responsible for the security of information transmitted via the Internet. For more private communication, users can contact Respironics by telephone at the telephone number provided on the Site on the web page titled “Contact Us”. 
+
+**(d) Opt-Out Right.** Users may at any time opt out of having their Personal Information used by Respironics to send promotional correspondence to the user, by contacting Respironics via postal mail at: Respironics, Inc., 1010 Murry Ridge Drive, Murryville, PA 15668. **(e) Access to and Ability to Correct Personal Data**. Upon request via postal mail, Respironics will provide to users a summary of any Personal Information retained by Respironics regarding the user. Users may modify, correct, change or update Personal Information that Respironics has collected at the Site or may cause their personal record to be removed from Respironics’ database by contacting Respironics via postal mail indicated in paragraph (d) above. 
+
+**(f) Collection of Personal Data from Children.** Respironics does not knowingly solicit information from children and we do not knowingly market the Site or its services to children. No one under the age of 13 should submit any personal information to Respironics and/or the Site. 
+
+**(g) Respironics’ Right to Contact Site Users.** Respironics reserves the right to contact users of the Site regarding changes to this Privacy Policy or any other policies or agreements relevant to Site users. 
+
+**(h) Third Party Services.** Third parties provide certain services for Respironics. Respironics may provide information, including Personal Information that Respironics collects on the Site to third-party service providers to help us deliver programs, products, information, and services. Service providers are also an important means by which Respironics maintains its Site and mailing lists. Respironics will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on Respironics’ behalf. 
+
+Respironics does not intend to transfer Personal Information without your consent to third parties who are not bound to act on Respironics’ behalf unless such transfer is legally required. Similarly, it is against Respironics’ policy to sell Personal Information collected online without consent. 
+
+[](http://printfriendly.respironics.com/print.asp?ref=https://web.archive.org/web/20070602000727id_/http%3A//global.respironics.com/PrivacyNotice.asp "Print")
