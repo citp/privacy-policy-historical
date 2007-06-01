@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metrokc.gov privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205183919id_/http%3A//www.metrokc.gov/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrokc.gov privacy policy that was archived on 2007-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070601203232id_/http%3A//www.metrokc.gov/privacy.aspx) for the most accurate reproduction.*
 
 # About King County web site: Privacy notice
 
@@ -58,4 +58,4 @@ Alternate formats of this document are available by telephone, at 206-205-6899 o
 Links to external sites do not constitute endorsements by King County.  
 By visiting this and other King County web pages,  
 you expressly agree to be bound by terms and conditions of the site.  
-[The details.](https://web.archive.org/web/20061205183919id_/http%3A//www.metrokc.gov/terms.htm)
+[The details.](https://web.archive.org/web/20070601203232id_/http%3A//www.metrokc.gov/terms.htm)
