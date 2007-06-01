@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globester.com privacy policy that was archived on 2006-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061126040405id_/http%3A//globester.com/globester/pages/usermgmt/privacypol.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globester.com privacy policy that was archived on 2007-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070601032721id_/http%3A//www.globester.com/globester/pages/usermgmt/privacypol.jsp) for the most accurate reproduction.*
 
 # Globester Travel-Airline Consolidator for Discount International Airfares, Cheap Flights and Ticket deals to Europe, Africa, Middle-East, Asia, Australia, New Zealand, South America and Central America
 
