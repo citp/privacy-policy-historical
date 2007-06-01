@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wpxi.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206020345id_/http%3A//www.wpxi.com/station/1910347/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpxi.com privacy policy that was archived on 2007-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070601062951id_/http%3A//www.wpxi.com/station/1910347/detail.html) for the most accurate reproduction.*
 
-# PRIVACY POLICY - WPXI-TV - WPXI.com | WPXI
+# PRIVACY POLICY - WPXI-TV News Story - WPXI Pittsburgh
 
 Effective date: 1/15/03 
 
