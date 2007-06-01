@@ -1,0 +1,376 @@
+<!--The following is the downloaded HTML source of the irazoo.com privacy policy that was archived on 2007-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070601182323id_/http%3A//irazoo.com/privacy.aspx) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+	Privacy
+</title>
+    <style type="text/css">
+		@import url('Css/Style.css');
+    </style>
+    <script>
+        function ValidateSearch()
+        { 
+        var str=document.getElementById('ctl00_textBoxSearch').value;
+            if(str.indexOf("<")>-1 || str.indexOf(">")>-1 || str.toLowerCase().indexOf("&lt;")>-1 || str.toLowerCase().indexOf("&gt;")>-1)
+            {
+                document.getElementById('ctl00_labelPointsMessage').innerText="The search keywords contain invalid characters!";
+                return false;
+            }
+            return true;
+        }
+        function ValidateSearchFooter()
+        { 
+        var str=document.getElementById('ctl00_textBoxSearchFooter').value;
+            if(str.indexOf("<")>-1 || str.indexOf(">")>-1 || str.toLowerCase().indexOf("&lt;")>-1 || str.toLowerCase().indexOf("&gt;")>-1)
+            {
+                document.getElementById('ctl00_labelPointsMessage').innerText="The search keywords contain invalid characters!";
+                return false;
+            }
+            return true;
+        }
+        function HeaderSearchClick()
+        {
+            var objtxtSearch = document.all.txtHeaderSearch;
+            window.location.href="SearchResults.aspx?q="+objtxtSearch.value+"&Page=1";
+        }  
+        
+        function FooterSearchClick()
+        {
+            var objtxtSearch = document.all.txtFooterSearch;
+            window.location.href="SearchResults.aspx?q="+objtxtSearch.value+"&Page=1";
+        }  
+        function fnSubmit(e)
+        {
+            var keynum
+            var keychar
+            var numcheck
+            
+            if(window.event) // IE
+            {
+                keynum = e.keyCode
+            }
+            else if(e.which) // Netscape/Firefox/Opera
+            {
+                keynum = e.which
+            }
+            keychar = String.fromCharCode(keynum)
+            if (keynum == 13)
+            {
+                var objtxtSearch = document.all.txtHeaderSearch;
+                window.location.href="SearchResults.aspx?q="+objtxtSearch.value+"&Page=1";
+            }
+        }
+    </script>
+</head>
+<body topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0">
+    <form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjgPZBYCZg9kFgICAw9kFigCBw8PZBYCHgdvbmNsaWNrBRdyZXR1cm4gVmFsaWRhdGVTZWFyY2goKWQCCQ8PFgIeB1Zpc2libGVoZGQCCw8PFgIfAWhkZAINDw8WAh8BaGRkAg8PDxYCHwFoZGQCEQ8PFgIfAWdkZAITDw8WAh8BaGRkAhUPDxYCHwFnZGQCFw8PFgIfAWhkZAIZDw8WAh8BaGRkAh8PFgIeBGhyZWYFIX4vUHJvZHVjdGRldGFpbHMuYXNweD9Qcm9kdWN0SUQ9MRYCZg8PFgIeCEltYWdlVXJsBR4uLi9pbWFnZXMvNTEyX2tpbmdzdGVuX3VzYi5qcGdkZAIhDxYCHwIFIX4vUHJvZHVjdGRldGFpbHMuYXNweD9Qcm9kdWN0SUQ9NBYCZg8PFgIfAwUXLi4vaW1hZ2VzL0Nhbm9uXzZtcC5qcGdkZAIjDxYCHwIFIX4vUHJvZHVjdGRldGFpbHMuYXNweD9Qcm9kdWN0SUQ9OBYCZg8PFgIfAwUZLi4vaW1hZ2VzL2lUdW5lc19jYXJkLmpwZ2RkAiUPFgIfAgUifi9Qcm9kdWN0ZGV0YWlscy5hc3B4P1Byb2R1Y3RJRD0xMBYCAgEPDxYCHwMFGC4uL2ltYWdlcy9iYmdpZnRjYXJkLmpwZ2RkAicPDxYCHgRUZXh0BQtGbGFzaCBEcml2ZWRkAikPDxYCHwQFBkNhbWVyYWRkAisPDxYCHwQFC2lUdW5lcygkMjUpZGQCLQ8PFgIfBAUJR2lmdCBDYXJkZGQCLw9kFgICAw8PZBYCHwAFHXJldHVybiBWYWxpZGF0ZVNlYXJjaEZvb3RlcigpZAIzDw8WAh8EBVE8c2NyaXB0PmRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdmb290ZXJDYXRhbG9nJykuc3R5bGUuZGlzcGxheSA9ICdub25lJzs8L3NjcmlwdD5kZGSYBFJD2Xv95wzD0EFpRvDR9nhPcQ==">
+
+        <!---Header Begin-->
+        <div id="header" align="left">
+            <input type="hidden" name="ctl00$hdnSubmit" id="ctl00_hdnSubmit"> 
+            <table border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color:#991B1F;">
+                <tbody><tr>
+                    <td valign="top">
+                        <table>
+                            <tbody><tr>
+                                <td><a href="~/../Default.aspx"><img alt="iRazoo" border="0" src="~/../images/newiRazooHeaderLogo.gif"></a></td>
+                                
+                                <td style="font-family:Arial;color:Gray;"><tt><font size="-1"><sup>TM</sup></font></tt></td>
+                            </tr>
+                        </tbody></table>
+                     </td>
+                     <td align="left" style="width:auto;" nowrap="">
+                        <table width="300px" cellspacing="4" border="0">
+                            
+                              <tbody><tr>
+                                <td colspan="2" nowrap=""><span id="ctl00_labelPointsMessage"><font color="White"></font></span></td>
+                              </tr>
+                              <tr>
+                                <td>
+                                    <input name="ctl00$textBoxSearch" type="text" maxlength="100" size="40" id="ctl00_textBoxSearch">
+                                </td>
+                                <td align="left">
+                                    <input type="submit" name="ctl00$buttonSearch" value="Search" onclick="return ValidateSearch();" id="ctl00_buttonSearch">
+                                    
+                                </td>
+                            </tr>
+                        </tbody></table>
+                     </td>
+                     <td align="right" valign="top" style="width:100%;">
+                        <table cellspacing="4">
+                            <tbody><tr>
+                                <td>
+                                    
+                                    
+                                </td>
+                                <td>
+                                                
+                                </td>
+                                <td>
+                                      
+                                    <a id="ctl00_lnkNewUser" class="text2" href='javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$lnkNewUser", "", false, "", "NewUser.aspx", false, true))'>Register</a>
+                                </td>
+                                <td>
+                                                
+                                    <a id="ctl00_lnkSignin" class="text2" href="javascript:__doPostBack('ctl00$lnkSignin','')">Sign in</a>            
+                                </td>
+                            </tr>
+                            
+                            <tr>
+                               <td colspan="4" align="right" style="color:red;font-size:small;">
+                                    
+                                    
+                               </td> 
+                            </tr>
+                        </tbody></table>
+                        
+                    </td>
+                </tr>
+                <!--<tr><td><img src="../images/spacer.gif" height="15" width="0" border="0"/></td></tr>-->
+                <tr style="background-image:url(~/../images/GrayGradiant.gif)">
+                    <td colspan="3" height="20">
+                    <div id="divpgHeader" style="font-weight: bold; font-size: 12pt; color: black; font-family: Arial, Tahoma, Verdana, Helvetica;"> Privacy</div>
+                    </td>
+                </tr>                
+            </tbody></table>
+        </div>
+        <!-- Header end -->                 
+        <div>
+            
+<table border="0" cellpadding="0" cellspacing="0" width="100%" align="center">
+   <tbody><tr><td><img src="images/spacer.gif" alt="spacer" height="10" width="0"></td></tr>
+   <tr valign="top"> 
+    <td><img src="images/spacer.gif" alt="spacer" height="0" width="10"></td>
+   <td> <div></div>
+      
+      <p>        iRazoo is committed to protecting the privacy of its 
+        Users. iRazoo will never share any of your personal 
+        information without your permission. Anonymity is of significant 
+        value to the site (iRazoo.com) and its Users. This site 
+        will take all reasonable precautions to protect the anonymity of 
+        its Users (registered or not) with respect to all transactions, 
+        query requests, and results. These precautions extend to the 
+        design of the site, the use of all information, and all other 
+        actions, which are under the control of the site. All Users 
+        shall respect and support this goal of maintaining User privacy 
+        and anonymity. Use of the site, or any information gained from 
+        the use of the site in an attempt to compromise the anonymity of 
+        any other User is strictly forbidden. Please read below for more 
+        information about our privacy policy.</p>
+      <p><b>Information we collect</b><br>
+        If you choose to register, iRazoo asks for your contact 
+        information (e.g. name, address, city, state). The User does not 
+        have to provide any personal information to use iRazoo. 
+        However, if you choose to withhold requested information, you 
+        will not be registered and you will not earn Razoo Points, which 
+        can be redeemed for gift certificates and other items from our 
+        Merchant Partners. In addition, we may not be able to provide 
+        you with some of the other services which are dependent upon the 
+        collection of such information, such as your RazooWallet and 
+        your Wish List. While using our site, iRazoo automatically 
+        tracks certain information about you. This information includes 
+        the URL you just came from (whether this URL is from our site or 
+        not), which URL you next go to (whether this URL is from our 
+        site or not), what browser you are using, and your IP address. 
+        This information is collected to analyze trends, track user 
+        movement and use patterns, track the total number of unique 
+        Users to the site, gather broad demographic information 
+        otherwise required to receive goods and services, information to 
+        be received from User surveys conducted from time to time, and 
+        information required to enter into and administer the site. 
+        iRazoo may require additional information from its Users 
+        such as: information provided to receive goods and services, 
+        information received from user surveys, and information collected 
+        from entries into contests or promotions that are sponsored from 
+        time to time by iRazoo or its Merchant Partners.</p>
+      <p><b>Information Security</b><br>
+        Unfortunately, no data transmission over the Internet can be 
+        guaranteed to be 100% secure. As a result, while we strive to 
+        protect your personal information, iRazoo cannot ensure or 
+        warrant the security of any information you transmit to us or 
+        from our online services, and you do so at your own risk. Once 
+        we receive your transmission, we make our best effort to ensure 
+        its security on our systems. Ultimately, you are solely 
+        responsible for maintaining the secrecy of your passwords and/or 
+        any account information. Please be careful and responsible 
+        whenever you are online.</p>
+      <p><b>Consent to our Privacy Policy</b><br>
+        By using iRazoo, you agree to the above uses of your 
+        personal information. If at any time this policy changes, those 
+        changes will be posted to this page so that you are aware of our 
+        intent to better protect your privacy. Your use of iRazoo 
+        constitutes your agreement with the terms of iRazoo's 
+        privacy policy and your continued use of iRazoo constitutes 
+        your agreement to any changes that may be made to such terms.</p>
+      <p><b>Opting out of emails</b><br>
+        You have the choice of whether or not to disclose personally 
+        identifiable information. However, you must provide some 
+        personally identifiable information in order to become a 
+        registered iRazoo User. You can choose at anytime to opt 
+        out of receiving emails from iRazoo or from having your 
+        personally identifiable information shared with certain companies. 
+        If you elect to "opt out" we will not share your personal 
+        information with third parties or send you emails. However, 
+        iRazoo may continue to use your personal information for 
+        internal purposes, promotions, to enhance your User experience or 
+        as necessary to administer the site or comply with applicable 
+        law.</p>
+      <p><b>Use of Cookies</b><br>
+        iRazoo uses cookies for the purposes of better serving our 
+        Users. iRazoo assigns a random number to each User which 
+        anonymously tracks content preferences and traffic patterns. 
+        Cookies also allow iRazoo to keep track of how often Users are 
+        using specific areas of our site.<br>
+        <br>
+        IT SHOULD BE NOTED THAT iRAZOO DOES NOT REQUIRE USERS TO 
+        ACCEPT COOKIES IN ORDER TO ENJOY THE SITE. YOU CAN SET YOUR 
+        BROWSER TO REJECT COOKIES, OR TO NOTIFY YOU WHEN iRAZOO OR 
+        ANOTHER COMPANY SENDS YOU A COOKIE. HOWEVER, IF YOU REJECT 
+        COOKIES, WE MAY NOT BE ABLE TO TRACK YOUR USAGE AND/OR TRAFFIC PATTERNS.</p>
+      <p><b>Special Promotions</b><br>
+        iRazoo may disclose your personal information to Merchant 
+        Partners or sponsors of promotions available through iRazoo. Special sponsor promotions may often involve a request 
+        for additional information. By submitting this additional 
+        information, you give iRazoo permission to transfer this 
+        information to the sponsor so they may fulfill your request or 
+        administer the promotion.</p>
+      <p><b>Compliance with the Law</b><br>
+        iRazoo may also disclose your information in special cases 
+        when we have reason to believe that disclosing this information 
+        is necessary to identify, contact or bring legal action against 
+        someone who may be causing injury to or interference with (either 
+        intentionally or unintentionally) iRazoo's rights or 
+        property, other iRazoo users or anyone else that could be 
+        harmed by such activities. In addition, iRazoo may disclose 
+        or access account information for administrative and other 
+        purposes that we believe are necessary to develop, maintain and 
+        improve our products and services.</p>
+      <p><b>Additional Information</b><br>
+        If you have any questions about this privacy statement, the 
+        practices of this site, or your dealings with this web site, 
+        you can contact us at:<br>
+        <br>
+        iRazoo.com<br>
+        5644 Westheimer, #407<br>
+        Houston, Texas, 77056<br>
+        or feedback@iRAZOO.com<br>
+  <br>
+        This privacy policy was last updated on January 6th, 2007</p>
+      <p>&nbsp; </p>
+     </td> 
+  </tr> 
+</tbody></table>
+<script type="text/javascript">
+    document.all.divpgHeader.innerText = " Privacy";
+</script>
+
+        </div>
+        <div id="divFooter">
+            <table border="0" cellpadding="0" cellspacing="0" width="100%" align="center">
+                 <tbody><tr>
+                    <td style="height:50px;">&nbsp;</td>
+                 </tr>            
+                <tr>
+                    <td align="center">
+                        <div id="footerCatalog" style="display: none;">
+                        <table width="50%">
+                            <tbody><tr>
+                                <td colspan="5" style="color:Black;">
+                                    <img id="ctl00_Image5" src="images/exchange-points-for-rewards.gif" alt="You can redeem your points for prizes like these:" border="0">
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <a href="Productdetails.aspx?ProductID=1" id="ctl00_Prod1"><img id="ctl00_Image1" src="images/512_kingsten_usb.jpg" height="61" width="70" border="0"></a>
+                                </td>
+                                <td>
+                                    <a href="Productdetails.aspx?ProductID=4" id="ctl00_Prod2"><img id="ctl00_Image2" src="images/Canon_6mp.jpg" height="61" width="70" border="0"></a>
+                                </td>
+                                <td>
+                                    <a href="Productdetails.aspx?ProductID=8" id="ctl00_Prod3"><img id="ctl00_Image3" src="images/iTunes_card.jpg" height="61" width="70" border="0"></a>
+                                </td>
+                                <td align="left">
+                                    <a href="Productdetails.aspx?ProductID=10" id="ctl00_Prod4">&nbsp;&nbsp;&nbsp;&nbsp;<img id="ctl00_Image4" src="images/bbgiftcard.jpg" height="61" width="70" border="0"></a>
+                                </td>                            
+                            </tr>
+                            <tr>
+                                <td style="color:Black;"><span id="ctl00_Title1">Flash Drive</span></td>
+                                <td style="color:Black;"><span id="ctl00_Title2">Camera</span></td>
+                                <td style="color:Black;"><span id="ctl00_Title3">iTunes($25)</span></td>
+                                <td style="color:Black;"><span id="ctl00_Title4">Gift Card</span>&nbsp;&nbsp;<a href="../RazooCatalog.aspx">View more...</a></td>
+                            </tr> 
+                            </tbody></table>
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%" align="left">
+                            <tbody><tr><td align="left"><a href="http://www.thumbshots.com" target="_blank"><font style="font-size:8px;">About Thumbshots</font></a><img src="~/../images/spacer.gif" height="5" width="0" alt="spacer"> </td></tr>                                              
+                        </tbody></table>
+                        </div>
+                    </td>
+                </tr>
+                <tr><td><img src="~/../images/spacer.gif" height="5" width="0" alt="spacer"> </td></tr>
+                <tr style="background-color:#991B1F;">
+                     <td style="width:auto;" align="center">
+                        <br>
+                        <div id="ctl00_pnlFooter">
+	
+                        <table width="300px" cellspacing="4" border="0">
+                             <tbody><tr>
+                                <td>
+                                    <input name="ctl00$textBoxSearchFooter" type="text" maxlength="100" size="50" id="ctl00_textBoxSearchFooter">
+                                </td>
+                                <td align="left">
+                                    <input type="submit" name="ctl00$buttonSearchFooter" value="Search" onclick="return ValidateSearchFooter();" id="ctl00_buttonSearchFooter">
+                                </td>
+                            </tr>
+                        </tbody></table>
+                        
+</div>
+                     </td>
+                </tr>
+                <tr style="background-color:#991B1F;"><td>&nbsp;</td></tr>
+                <tr style="background-color:#991B1F;">
+                    <td align="center">
+                        <a href="~/../privacy.aspx" class="link1">Privacy Policy</a>&nbsp;-&nbsp;<a href="~/../useragreement.aspx" class="link1">Terms of Services</a>&nbsp;-&nbsp;<a href="~/../aboutus.aspx" class="link1">About iRAZOO</a>&nbsp;-&nbsp;<a href="~/../Tellafriend.aspx" class="link1">Refer a friend</a>&nbsp;-&nbsp;<a href="~/../Feedback.aspx" class="link1">Feedback</a>&nbsp;-&nbsp;<a href="~/../Contactus.aspx" class="link1">Contact us</a>
+                    </td>
+                </tr>
+                <tr style="background-color:#991B1F;"><td>&nbsp;</td></tr>
+                <tr>
+                   <td style="background-color:#991B1F;" align="Center" class="text2">
+                        Copyright ©2007 iRazoo<tt style="font-family:Arial;"><font size="-2"><sup>TM</sup></font> (iRazoo, Inc.) All Rights Reserved.</tt>
+                   </td> 
+                </tr>
+                <tr>
+                    <td style="background-color:#991B1F;" align="Center" class="text2">The intellectual property herein is the subject matter of a pending patent.</td>
+                </tr>
+            </tbody></table>
+        </div>
+        <!-- Header end -->        
+        <input name="ctl00$hiddenLastQuery" type="hidden" id="ctl00_hiddenLastQuery"> 
+        <span id="ctl00_lblScript" style="display:none;"><script>document.getElementById('footerCatalog').style.display = 'none';</script></span>        
+        <script>
+	    function fnSignIn()
+	    {
+	        var lnk = window.location.href;
+	        var intLoc = lnk.indexOf('/SearchResults');
+	        if (intLoc > 0)
+	        {
+	            var newLnk = lnk.substring(intLoc);
+	            //window.location.href = "~/Login.aspx?ReturnUrl="+newLnk;
+	            document.url = "~/Login.aspx?ReturnUrl="+newLnk;
+	            //alert("~/Login.aspx?ReturnUrl="+newLnk);
+	            return true;
+	        }
+	        else
+	        {
+	            document.url = "~/Login.aspx";
+	            return false;
+	        }
+	    }    
+        </script>
+
+    
+<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="qiKwprmg8Oyf8jxYrpyWEw2">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCQK+9IrUAQLLlfSNDAL7jo2gDgKI/ISPBwLpx/TOBwLt3PLdCgLknJn1DQKRgaG9DAKw1PHEBnltzKCtZS66ftIPQQMZU0sVkHz4"></form>
+
+
+</body></html>
