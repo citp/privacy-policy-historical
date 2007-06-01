@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamrankings.com privacy policy that was archived on 2006-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060909214038id_/http%3A//teamrankings.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamrankings.com privacy policy that was archived on 2007-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070601024437id_/http%3A//teamrankings.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy : Mike Greenfield's Team Rankings
 
@@ -10,7 +10,7 @@
 
 **1\. WHAT THIS PRIVACY POLICY COVERS**
 
-Team Rankings, LLC (“Team Rankings”) takes the protection of your privacy very seriously. This policy covers how Team Rankings treats personal information about you that Team Rankings collects and receives, including information related to your use of Team Rankings products and services. Personal information is information about you that is personally identifiable, like your name, address, email address, or phone number, and that is not otherwise publicly available. 
+Team Rankings, LLC (�Team Rankings�) takes the protection of your privacy very seriously. This policy covers how Team Rankings treats personal information about you that Team Rankings collects and receives, including information related to your use of Team Rankings products and services. Personal information is information about you that is personally identifiable, like your name, address, email address, or phone number, and that is not otherwise publicly available. 
 
 This policy does not apply to the practices of companies that Team Rankings does not own or control, or to people that Team Rankings does not directly employ or manage. 
 
@@ -62,4 +62,4 @@ If you have questions or suggestions regarding our privacy policy, please email 
 
 |   
   
-Copyright 2000-2006 Team Rankings, LLC. All rights reserved. All content on this site is produced for entertainment purposes only and is not intended to be used in direct or indirect violation of any local, state, federal, or international law(s). By using this site, you agree and consent to our [Terms of Service](http://teamrankings.com/tos.php) and [Privacy Policy](http://teamrankings.com/privacy.php). 
+Copyright 2000-2007 Team Rankings, LLC. All rights reserved. All content on this site is produced for entertainment purposes only and is not intended to be used in direct or indirect violation of any local, state, federal, or international law(s). By using this site, you agree and consent to our [Terms of Service](http://teamrankings.com/tos.php) and [Privacy Policy](http://teamrankings.com/privacy.php). 
