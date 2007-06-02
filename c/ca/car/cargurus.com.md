@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cargurus.com privacy policy that was archived on 2006-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061201105218id_/http%3A//www.cargurus.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cargurus.com privacy policy that was archived on 2007-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070602030004id_/http%3A//www.cargurus.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # CarGurus.com Privacy Policy
 
@@ -32,7 +32,7 @@ If you reach our site through one of our partners (whether or not you have regis
 
 We use the personal information we collect to help both of us! As we mentioned above, registering with us allows you to personalize our Web site so that it is most useful to you. It also allows you to log into our site automatically each time you visit, rather than manually typing your user name and password every time. We may also use this information to periodically contact you with news or important information from CarGurus or to request your feedback on our site. In addition to these periodic updates, we may email you additional materials, but only if you specifically request them. These might include opt-in newsletters and other materials that you proactively request from CarGurus.
 
-In addition to these communications, if you have provided an email address, we may use your personal information to send you notifications about special offers or to tell you about opportunities available from our partners. You may opt-out of any or all marketing communications from CarGurus in any commercial e-mail we send or at any time, as well as access and update your personal information, by visiting [http://www.CarGurus.com/MemberProfile](http://www.cargurus.com/MemberProfile).
+In addition to these communications, if you have provided an email address, we may use your personal information to send you notifications about special offers or to tell you about opportunities available from our partners. You may opt-out of any or all marketing communications from CarGurus in any commercial e-mail we send or at any time, as well as access and update your personal information, by visiting [http://www.CarGurus.com/MemberProfile](http://www.cargurus.com/Cars/user/myGarage.action).
 
 We may also use certain information that you provide in order to present you with advertising that you may find interesting. This benefits both of us. It benefits us because advertising helps pay the bills, and we can charge our advertisers more if they know that their ads will be seen by somebody more likely to find it useful. It benefits you because you see advertising that may actually be interesting to you, rather than annoying.
 
@@ -46,7 +46,7 @@ We may share your personal information with third-parties specifically engaged b
 
 ### How you can review and update your personal information.
 
-You can review and update the personal information you have provided through the registration process by visiting [http://www.CarGurus.com/MemberProfile](http://www.cargurus.com/MemberProfile).
+You can review and update the personal information you have provided through the registration process by visiting [http://www.CarGurus.com/MemberProfile](http://www.cargurus.com/Cars/user/myGarage.action).
 
 ### Steps we take to protect your personal information.
 
