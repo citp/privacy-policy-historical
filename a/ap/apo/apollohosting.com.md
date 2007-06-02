@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apollohosting.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206134924id_/http%3A//www.apollohosting.com/legal/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apollohosting.com privacy policy that was archived on 2007-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070602221145id_/http%3A//www.apollohosting.com/legal/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy- Apollo Website Hosting Services
 
