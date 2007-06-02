@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldwidelearn.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218173000id_/http%3A//www.worldwidelearn.com/about-worldwidelearn/privacy-policy.htm%3Fsource%3Difpp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwidelearn.com privacy policy that was archived on 2007-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070602122549id_/http%3A//www.worldwidelearn.com/about-worldwidelearn/privacy-policy.htm) for the most accurate reproduction.*
 
 # World Wide Learn | Privacy Policy
 
@@ -113,9 +113,6 @@ Explore these links for online & distance learning resources:
 \- [Online Degree Programs](http://www.worldwidelearn.com/online-degrees/index.html)  
 \- [Online Courses & Training](http://www.worldwidelearn.com/online-education/index.html)  
 \- [Career Training Programs](http://www.worldwidelearn.com/career-training/index.html)
-
-  
-
 
 \- [Get Started in E-Learning](http://www.worldwidelearn.com/education-articles/index.html)  
 \- [Tips for Learning Success](http://www.worldwidelearn.com/education-articles/distance-learning-success.htm)  
