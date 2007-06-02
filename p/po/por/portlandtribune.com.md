@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portlandtribune.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113165024id_/http%3A//www.portlandtribune.com/news/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portlandtribune.com privacy policy that was archived on 2007-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070602154535id_/http%3A//www.portlandtribune.com/news/privacy.php) for the most accurate reproduction.*
 
 # The Portland Tribune Ι News
 
