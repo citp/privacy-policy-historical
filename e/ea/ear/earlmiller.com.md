@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earlmiller.com privacy policy that was archived on 2006-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061221235828id_/http%3A//earlmiller.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earlmiller.com privacy policy that was archived on 2007-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070602083223id_/http%3A//earlmiller.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
