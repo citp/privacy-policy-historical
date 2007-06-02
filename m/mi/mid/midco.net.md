@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midco.net privacy policy that was archived on 2006-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061101040548id_/http%3A//www.midcocomm.com/CustomerService/Policies/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midco.net privacy policy that was archived on 2007-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070602124401id_/http%3A//www.midcocomm.com/CustomerService/Policies/PrivacyStatement) for the most accurate reproduction.*
 
 # Privacy Statement
 
