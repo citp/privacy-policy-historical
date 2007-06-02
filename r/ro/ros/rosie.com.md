@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rosie.com privacy policy that was archived on 2006-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060916035356id_/http%3A//www.rosie.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rosie.com privacy policy that was archived on 2007-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070603003322id_/http%3A//www.rosie.com/blog/privacy) for the most accurate reproduction.*
 
 # r blog » Privacy Policy
 
@@ -67,11 +67,10 @@ If you have any questions about our Privacy Policy, the information we have coll
 
 You can also reach us via US Mail at:
 
-rosie.com  
-c/o Echo Ditto, Inc.  
-Attn: Gisele Toueg  
-116 West Houston Street  
-New York, NY 10012
+KidRo Productions, Inc.  
+Attn: Webmaster  
+P.O. Box 1002  
+New York, NY 10108
 
 **10\. Changes to our Privacy Policy**
 
