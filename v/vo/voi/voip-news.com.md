@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the voip-news.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205223338id_/http%3A//www.voip-news.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voip-news.com privacy policy that was archived on 2007-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070602150349id_/http%3A//www.voip-news.com/privacy) for the most accurate reproduction.*
 
 # Voip-news.com Terms and Conditions
 
-Tippit ("Tippit") is committed to your privacy. We created this privacy policy ("Privacy Policy") so that you can understand the care with which we intend to treat your information and to inform you of our information gathering and dissemination policies for [www.VoIP-News.com](http://www.voip-news.com/ "Go to VoIP-News.com") (the "Site"). You can generally visit our Site without revealing any personal information about yourself. However, when you engage in certain activities on the Site, such as registering to subscribe to the VoIP Report newsletter or to participate on the message boards, we may ask you to provide certain information that is personally identifiable. 
+Tippit ("Tippit") is committed to your privacy. We created this privacy policy ("Privacy Policy") so that you can understand the care with which we intend to treat your information and to inform you of our information gathering and dissemination policies for [www.VoIP-News.com](http://www.voip-news.com/ "Go to VoIP-News.com") (the "Site"). You can generally visit our Site without revealing any personal information about yourself. However, when you engage in certain activities on the Site, such as registering to download a White Paper, subscribe to the newsletter, or to participate in a community feature, we may ask you to provide certain information that is personally identifiable. 
 
 Acquisition of Information  
 Tippit collects information from you in the following ways: 
