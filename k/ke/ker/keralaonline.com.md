@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the keralaonline.com privacy policy that was archived on 2006-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060828203238id_/http%3A//keralaonline.com/mainpages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keralaonline.com privacy policy that was archived on 2007-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070602170144id_/http%3A//www.keralaonline.com/mainpages/privacy.php) for the most accurate reproduction.*
 
-# Keralaonline :: Capturing the essence of Kerala
+# Keralaonline:: Capturing the essence of Kerala
 
 Keralaonline.com is sensitive to privacy issues on the Internet and is committed to safeguarding the privacy of user online. 
 
