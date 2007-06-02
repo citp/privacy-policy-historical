@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blurb.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230051842id_/http%3A//www.blurb.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blurb.com privacy policy that was archived on 2007-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070602100940id_/http%3A//www.blurb.com/corporate/privacy) for the most accurate reproduction.*
 
 # Blurb | Policies and Legal - Privacy
 
@@ -79,7 +79,7 @@ Blurb has implemented industry-standard electronic means of protecting your Pers
 Even though Blurb has taken significant steps to ensure that your Personal Information is not intercepted, accessed, used, or disclosed by unauthorized persons, you should know that Blurb cannot fully eliminate security risks associated with Personal Information. 
 
 **Contact Us**  
-Should you have any questions or concerns regarding this Privacy Policy, please contact us at privacy@blurb.com or: 
+Should you have any questions or concerns regarding this Privacy Policy, please contact us through [General Support](https://web.archive.org/help/general_support) or: 
 
 Blurb, Inc.  
 Attention: Chief Operating Officer  
