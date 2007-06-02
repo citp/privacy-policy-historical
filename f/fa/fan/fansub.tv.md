@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fansub.tv privacy policy that was archived on 2006-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061103191557id_/http%3A//fansub.tv/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fansub.tv privacy policy that was archived on 2007-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070602180919id_/http%3A//www.fansub.tv/privacy.php) for the most accurate reproduction.*
 
 # Fansub.TV - Privacy Policy
 
