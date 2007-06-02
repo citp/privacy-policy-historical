@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the talx.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231215541id_/http%3A//talx.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talx.com privacy policy that was archived on 2007-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070602060817id_/http%3A//www.talx.com/Privacy.asp) for the most accurate reproduction.*
 
 # TALX Privacy Policy
 
-TALX Corporation has created these statements and guidelines in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for TALX Corporation web properties, including our corporate and branded sites.
+TALX has created these statements and guidelines in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for TALX web properties, including our branded sites.
 
-This site may contain links to other sites, and we take great care in selecting those links. However, TALX Corporation is not responsible for the privacy practices or the content of other web sites. We strongly encourage you to look for and review the privacy policies of every web site you visit. 
+This site may contain links to other sites, and we take great care in selecting those links. However, TALX is not responsible for the privacy practices or the content of other web sites. We strongly encourage you to look for and review the privacy policies of every web site you visit. 
 
 **General Statistics & Web Site Measurements:**  
 We collect aggregate information site-wide, including anonymous site statistics. We also log domain names and/or IP addresses. We use your IP address to help diagnose problems with our server, and to administer our web site as well as improve the site-wide experience for you and other users. We also link IP addresses to personally identifiable information within our eCommerce site in order to ensure the security of our service for all users. In these cases, the IP address and personally identifiable information becomes part of an audit trail that we may use to identify the source of a specific transaction.
@@ -52,7 +52,7 @@ Return to top
 If you have any questions or comments about this privacy statement, the practices of this site, or your experience with this web site, you can contact:
 
 TALX.com Site Administration   
-TALX Corporation   
+TALX  
 webservices@talx.com  
 (314) 214-7000   
 Return to top
