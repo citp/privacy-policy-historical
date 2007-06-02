@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the protx.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205221701id_/http%3A//www.protx.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protx.com privacy policy that was archived on 2007-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070602133407id_/http%3A//www.protx.com/privacy.asp) for the most accurate reproduction.*
 
-# Protx: Securing the Future of eCommerce
+# Protx - secure online payment gateway for credit card processing
 
 **Introduction**
 
