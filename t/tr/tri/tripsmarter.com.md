@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tripsmarter.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205223636id_/http%3A//tripsmarter.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripsmarter.com privacy policy that was archived on 2007-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070602040157id_/http%3A//www.tripsmarter.com/privacy.htm) for the most accurate reproduction.*
 
-# TripSmarter.Com - About Us - Privacy Policy
+# TripSmarter.Com - Privacy Policy
 
 TripSmarter.Com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this site; TripSmarter.Com.
 
-This site contains links to other sites. TripSmarter.com.Com is not responsible for the privacy practices or the content of such Web sites. 
+This site contains links to other sites. TripSmarter.Com.Com is not responsible for the privacy practices or the content of such Web sites. 
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information. 
 
@@ -40,7 +40,7 @@ Financial information that is collected from our users is used to bill the user 
 **Choice/Opt-Out  
 **Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
 
-  * You can send email to removeme@tripsmarter.com
+  * You can send email to removeme@TripSmarter.Com
   * You can unsubscribe from our email list by clicking the unsubscribe link at the bottom of every email.
   * You can unsubscribe from our email list by visiting any TripSmarter.Com web page, locate the Smart Tips signup box, enter your email address, select "unsubscribe" and submit.
 
@@ -52,7 +52,7 @@ Financial information that is collected from our users is used to bill the user 
 **Change/Modify  
 **This site gives users the following options for changing and modifying information previously provided.
 
-  * email correctme@tripsmarter.com   
+  * email correctme@TripSmarter.Com   
 
 
 
@@ -65,13 +65,4 @@ The Tourist Network
 Ste 23  
 Panama City Beach, Florida 32407  
 850-234-2773  
-administrator@tripsmarter.com  
-  
-  
-|  |   
----  
-Destination City:  
-Arrival Date:  
-Departure Date:  
-Rooms:  | Guests:   
- 
+administrator@TripSmarter.Com
