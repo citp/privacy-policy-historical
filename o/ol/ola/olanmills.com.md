@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the olanmills.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206014150id_/http%3A//www.olanmills.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olanmills.com privacy policy that was archived on 2007-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070602071520id_/http%3A//www.olanmills.com/privacy.asp) for the most accurate reproduction.*
 
-# Olan Mills Portrait Studios - Sharing the Love of Portraits
+# Olan Mills Portrait Studios - Capturing 70+ Years of Memories
 
 This is the web site of **Olan Mills, Inc.**
 
