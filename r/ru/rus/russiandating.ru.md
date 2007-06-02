@@ -1,64 +1,50 @@
-> *The following text is extracted and transformed from the russiandating.ru privacy policy that was archived on 2006-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060220043811id_/http%3A//russiandating.ru/Privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the russiandating.ru privacy policy that was archived on 2007-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070602122818id_/http%3A//www.russiandating.ru/privacy_policy) for the most accurate reproduction.*
 
-# Russian Dating Privacy Policy
+# Privacy Statement for Russiandating.ru
 
-> Our company understands that your privacy is very important to you.  
->  That's why we've developed this policy to ensure that your privacy is protected while using our RussianDating Network. 
-> 
-> About RussianDating y and Information We Collect   
->  Our Use of Your Information   
->  Our Disclosure of Your Information   
->  Your use of Other Users' Information   
->  Control of Your Password   
->  Third Party Collections of Information   
->  Security   
->  Update/Delete 
-> 
->   
->  **RussianDating and Information We Collect**  
->  RussianDating is an online network which provides you useful tools and communities to build relationships online. RussianDating is FREE to register for all visitors.  
->  NONE of the personally identifiable information can be accessed or used by the public to identify a specific individual.   
->  In the course of using our site, we automatically track certain information such as your IP addresses and e-mail addresses. Many sites automatically collect this information.  
->  If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the site, we may collect such information into a file which is only accessed by authorized personnel. We may also collect other users' comments about you in our complaints department.   
-> 
-> 
-> **Our Use of Your Information**  
->  We internally use personally identifiable information of our users to improve our marketing efforts, to statistically analyze site usage, to improve our content and product offerings as well as to customize our site's content and layout. We believe these uses allow us to improve our site and better tailor your online experience to meet your needs.   
->  We may also use personally identifiable information about you to deliver information to you that, in some cases, are targeted to your interests, such as targeted banners and promotions. We also send periodic informational updates to our members via email. We use personally identifiable information to resolve disputes, troubleshoot problems and enforce our User Agreement.   
-> 
-> 
-> **Our Disclosure of Your Information**  
->  We DO NOT sell or rent any personally identifiable information about you to any third party without your permission. We do disclose information in aggregate to advertisers and for other marketing and promotional purposes. However, in these situations, we DO NOT disclose to these entities any information that could be used to personally identify you. Certain information, such as your password, credit card number, and bank account number, are not disclosed in aggregate at all.   
->  In order to maintain a healthy community, RussianDating cooperates with all law enforcement inquiries and with all third parties to enforce their intellectual property or other rights.   
-> 
-> 
-> **Your use of Other Users' Information**  
->  Russian Dating and our users do not tolerate spam, harassment, or threats.   
-> 
-> 
-> **Control of Your Password**  
->  You may not disclose your password to any third parties or share it with any third parties. If, despite the foregoing, you lose control of your password, you may lose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password.   
-> 
-> 
-> **Third Party Collections of Information**  
->  Our policy only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties on our system or other sites throughout the Internet, different rules may apply to their use or disclosure of the personal information you disclose to them. While RussianDating is working closely with our partners to ensure the highest privacy to you, we encourage you to ask questions before you disclose your personal information to others.   
-> 
-> 
-> **Security**  
->  RussianDating has security measures in place to protect and prevent the loss, misuse, and alteration of the information under our control. RussianDating uses industry standard efforts to safeguard the confidentiality of your personal identifiable information such as firewalls. While "perfect security" does not exist on the Internet, our technical experts at RussianDating work hard to ensure your secure use of our services.   
-> 
-> 
-> **Update/Delete**  
->  Once you register, you will be able to review and change much of your personally identifiable information at RussianDating including:  
->  Your email address  
->  Your city, state, country  
->  Your password  
->  Your profile  
-> 
-> 
-> To make any changes to your personal profile listed on the site, visit Update Page If I would like to be removed from mailing list. You should go to the update page enter your ID and Password and press on Find profile. Select NO in the "Do you want to be on the RussianDating Newsletter mailinglist?" box. And click on Update button.  
-> 
-> 
-> If I would like to remove my profile from database. You have to go to Update page in the lower part of the page Remove Your Profile enter the ID and password of your profile. Click on Remove profile button.  
->  [admin@russiandating.ru ](mailto:admin@russiandating.ru%20)  
-> 
+This statement discloses the information gathering process and the privacy and dissemination practices for the Russiandating.ru Web site. Russiandating.ru has created this privacy statement in order to demonstrate our firm commitment to protect your personal privacy. 
+
+If you have questions or concerns regarding this statement, you should first contact Privacy Manager at [Abuse service](https://web.archive.org/contactus/?id=2).
+
+Russiandating.ru is an internet singles portal designed to provide an easy way to meet other singles on the internet. Members create a profile and are then paired with a number of other members based on their pre-selected dating criteria.
+
+Russiandating.ru is a membership-based service that don't collects credit card numbers, addresses, and bank information only from those who choose to sign up as paid members. Any visitors to Russiandating.ru may choose to browse the site, search the profiles and/or view any articles by signing up for a free trial membership.
+
+Russiandating.ru's registration form requires users to provide contact information such as an email address and demographic information (such as zip code, age, or income level). Russiandating.ru also occasionally runs contests and conducts online surveys that ask visitors for contact information such as name and email address and demographic information such as zip code, age, or income level.
+
+Russiandating.ru contains links to other web sites and Russiandating.ru is not responsible for the privacy practices or the content of such sites.
+
+##  Private, Public and Aggregate Information obtained by Russiandating.ru
+
+**PRIVATE INFORMATION** is any information that allows others to contact a user other than through Russiandating.ru or allows the collection of information about the user other than what is displayed on the site. Private information is gathered from free trial members and regular members. This information includes, but is not limited to: email address, first name, last name, and address.
+
+**PUBLIC INFORMATION** is personal information that may be displayed on the site, such as gender, age and height, but cannot be linked to a particular user. Public information is personal information such as gender, age, ethnic background, appearance, and more. This information is meant to be seen by members and visitors to the site but cannot be used to identify a specific member by name, address, or other profile information. Members can post images of themselves but no identifying information is allowed to be posted with that image. Please note that images posted can be used by Russiandating.ru in ads or press releases about our service. People attending Russiandating.ru events can be included in photos and images taken of such events and used in ads or press releases about our service. Posting images or attending Russiandating.ru events constitutes agreement with the fair use of the images involved.
+
+**AGGREGATE** This is information we collect that is not personally identifiable, such as browser type and IP address. This information is gathered from all visitors to the site.
+
+##   
+Use of Information Obtained by Russiandating.ru
+
+**PRIVATE INFORMATION** : We use email addresses submitted by members when forwarding anonymous emails. Responders email addresses are not disclosed to the original sender nor is any other personally identifiable information. We may use a user's email address to send news regarding our site or offers we feel appropriate to our members but the user may choose not to receive email of this type by indicating upon joining up to not receive such mail or later at any time through our unsubscribe methods or by modifying their account information. Any sharing of email addresses with third party marketing is done only with the permission of the user by opting in on signup or by changing their email setting preferences at a later date. Your preferences can be changed by logging onto your account, going to the "My Account" setting at the top of the page and choosing 'settings'.
+
+Email addresses may also be used in private correspondence with the user for customer service issues. Financial information that is collected is used to bill the user for services. Russiandating.ru utilizes a third party service provider for credit card processing to facilitate the user's transaction and the service provider does not use personal information provided by the site for its own promotional purposes. All other private information submitted by the user is confidential and will not be disclosed except as required by law or to protect members of Russiandating.ru. All private information can be updated or deleted by the user at any time.
+
+**PUBLIC INFORMATION** : Public information supplied by the user is intended to be viewed by registrants and subscribers to the site. This information is used by registrants and subscribers for searching and matching purposes.
+
+**AGGREGATE** : We use your server, IP address, and browser-type related information in the general administration of our website. It is not personally identifiable information and is not released to third parties.
+
+## Use of Cookies
+
+We currently use cookies for User Authorisation on our site and for our own advertising purposes. We use third-party advertising technology to serve ads when you visit our Web site and sites upon which we advertise. This technology uses information about your visits to this Web site and the sites upon which we advertise, (not including your name, address, or other personal information), to serve our ads to you. In the course of serving our advertisements to you, a unique third-party cookie may be placed or recognized on your browser.
+
+##  Change/Delete
+
+Russiandating.ru gives trial members and paid members an option for modifying or removing their information from our database. Your privacy is one of our highest priorities.
+
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
+
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage.
+
+If you have any questions about the Privacy Policy of Russiandating.ru, please email them to [Abuse service](https://web.archive.org/contactus/?id=2).
