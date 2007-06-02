@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letstalk.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231233444id_/http%3A//www.letstalk.com/about/security1.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letstalk.com privacy policy that was archived on 2007-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070602233454id_/http%3A//www3.letstalk.com/about/security1.htm) for the most accurate reproduction.*
 
 # Privacy & Security
 
@@ -22,7 +22,7 @@ When you buy a product, you give us contact and shipping information (like your 
   * What if I am reluctant to provide information online?  
 Not a problem, you may contact [Customer Service](https://web.archive.org/about/contact1.htm) and give them your information through fax or via the telephone. If you elect not to provide the information necessary for a service contract, you may choose to acquire a pre-paid service agreement. 
   * What do you do with the information?   
-Your contact and shipping information is given to the carriers providing your wireless service, the manufacturer making the product you purchase, the store you purchased from and Federal Express or UPS. We also work with service providers who provide services, including but not limited to web hosting, order processing and fulfillment, credit card clearance, data analysis, e-mailing and other services of an administrative nature. Your contact information is shared with such third parties exclusively for the purposes of providing such services. We require service providers to agree to use our customer data strictly for the purposes described above and to not use it for their own marketing purposes; however, we cannot be responsible for the privacy policies or practices of such third parties. From time to time, we may present offers to you from trusted third party partners. If you provide us with specific instruction and consent we will provide your information to these third parties. 
+Your contact and shipping information is given to the carriers providing your wireless service, the manufacturer making the product you purchase, the store you purchased from and Federal Express or UPS. We also work with trusted partners who provide services, including but not limited to web hosting, order processing and fulfillment, credit card clearance, risk scoring, data analysis, e-mailing and other services of an administrative nature. Your contact information is shared with such third parties exclusively for the purposes of providing such services. We require service providers to agree to use our customer data strictly for the purposes described above and to not use it for their own marketing purposes; however, we cannot be responsible for the privacy policies or practices of such third parties. From time to time, we may present offers to you from trusted third party partners. If you provide us with specific instruction and consent we will provide your information to these third parties. 
 
 LetsTalk.com uses your information to follow-up on your order and to provide you updated information on our company, products and services. Your service provider and manufacturer may also send you similar information. 
 
@@ -33,8 +33,9 @@ If you prefer not to receive correspondence from LetsTalk.com, you may contact [
 We are located at: 
 
 > _LetsTalk.com National Fulfillment Center  
->  1111 West North Carrier Parkway, Suite 400  
->  Grand Prairie, TX 75050  
+>  6341 Boulevard 26  
+>  Suite 500  
+>  North Richland Hills, TX 76180  
 >  _
 
 If you have placed an order with us we retain your order information for a minimum of one year. If you wish to change any of that information or request us to delete it, you may contact Customer Service [ by mail](https://web.archive.org/about/contact1.htm#mailing_address) or [email](https://web.archive.org/about/contactletstalk.htm) with your request. It may be necessary for us to retain your customer information for several months for chargeback purposes, should you cancel phone service with a carrier, but in any case we are able to, we will happily update or remove your data from our systems.
