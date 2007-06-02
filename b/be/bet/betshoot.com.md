@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the betshoot.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225140128id_/http%3A//www.betshoot.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betshoot.com privacy policy that was archived on 2007-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070602223735id_/http%3A//www.betshoot.com/privacy.php) for the most accurate reproduction.*
 
-# BetShoot.com - Privacy Policy Page
+# Privacy Policy - BetShoot.com - Free Betting Picks Tips
 
 **Privacy policy**
 
@@ -40,41 +40,54 @@ Changes of our Policy
 
 If and when our policy statement changes, visitors with Memberships in our databases will be notified of the changes, and provided a link to this page to view the changes. If a visitor decides that our policy does not benefit them, they can use the opt-out option at anytime.
 
-##### Useful Tools
+##### Bet News - Hot Picks
 
-[](http://www.bet-at-home.com/campaign.aspx?cid=1103)
+###### Betting Tools
 
-###### Betting Guides, Strategies
+##### Site and Forum Statistics
 
-##### Site Statistics
+Users Online : 404
 
-Users Online : 234
+Total Forum Members: 6251
 
-Total Members: 5847
+[Register to Forum](http://www.betshoot.com/forum/ucp.php?mode=register "Register to our forum")
 
-[Register](http://www.betshoot.com/forum/profile.php?mode=register "Register to our forum")
+[Chat Room](http://www.betshoot.com/chat/ "Enter the Chat Room")
 
-Chat Room
+###### Total Statistics
 
-###### Members / Tipsters Menu
+This Month : + 266.34 Units
 
-##### Services
+This Month's Target : + 270 Units
 
-###### Long Term Bets
+Overall : + 5200.85 Units
 
-##### Tipsters Prizes (By Bet-at-home.com)
+##### Tipsters Details
 
-1st : 160 Euro
+[](http://www.betshoot.com/tipsterspage.php)
+
+To this page you can find the list of all our tipsters, their status, and their favorites leagues/sports to bet on. The list will change time by time as soon as there is new tipsters and stats updates.
+
+###### Betting Strategies Tips
+
+##### Members Menu
+
+###### Football and Other Sports Long Term Bets
+
+##### Formula 1 Long Term Bets
+
+###### Tipsters Competition
+
+1st : 200 Euro
 
 2nd : 100 Euro
 
-3rd : 60 Euro
+3rd : 70 Euro
 
 4th : 30 Euro
 
-###### Responsible Gambling
+##### Responsible Gambling
 
-BetShoot believes that gambling should be an enjoyable pastime for adults. However, we are aware that, for a small proportion of people, it can become a problem. We ensure you that we operate in a socially responsible manner here.
+We believe that gambling should be an enjoyable pastime for adults. However, we are aware that it can become a problem. We ensure you that we operate in a responsible manner.
 
-  
-
+[](http://www.betexplorer.com/top/in.php?id=791)   [ ](http://sitescore.org/report?url=www.betshoot.com)
