@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the iwantu.com privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224223449id_/http%3A//www.iwantu.com/privacy.love) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwantu.com privacy policy that was archived on 2007-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070602103608id_/http%3A//www.iwantu.com/privacy.love) for the most accurate reproduction.*
 
 # Adult Dating Personals - Iwantu.com Singles and Swingers Site
 
-Effective On: August 27th, 2004 
+[ ](http://www.truste.org/ivalidate.php?url=www.IwantU.com&sealid=101)
+
+Effective On: January 3rd, 2007 
 
 IwantU.com is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for http://www.IwantU.com. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of: 
 
@@ -18,13 +20,33 @@ If you feel that this company is not abiding by its posted privacy policy, you s
 You may also reach us at our mailing address: 
 
 Mana Internet Solutions  
-BP 802 Succ B  
-Montreal, QC  
-H3B-3K5 Canada 
+Apartado 152-2120  
+Calle Blancos, San Jose  
+Costa Rica 
 
 If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://truste.org/consumers/watchdog_complaint.php>
 
 TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
+
+##  International Processing 
+
+LB Mana Internet Solutions Int'l Ltd  
+Vienna Business Park  
+Clemens-Holzmeister-Str.4  
+1109 Wien  
+Austria  
+mana-internet@lb-mana-internet.com  
++31 306074663
+
+LB Mana Internet Solutions Ltd  
+84 Moorlands  
+Blackhill  
+Consett  
+Country Durham  
+DH8 OLH  
+United Kingdom  
+mana-internet@lb-mana-internet.com  
++31 306074663
 
 ##  Information Collection and Use 
 
