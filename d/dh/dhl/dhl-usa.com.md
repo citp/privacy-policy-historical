@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dhl-usa.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207165625id_/http%3A//www.dhl-usa.com/About/Privacy.asp%3Fnav%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dhl-usa.com privacy policy that was archived on 2007-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070604015518id_/http%3A//www.dhl-usa.com/About/Privacy.asp%3Fnav%3DPrivacy) for the most accurate reproduction.*
 
 # DHL: Privacy Policy
 
@@ -6,7 +6,7 @@ DHL is committed to preserving the privacy of users of our web sites. Any inform
 
 Web Site Security
 
-Certain areas of the DHL web sites including, but not limited to, DHL Ship and Web Shipping, require registration and are password protected. Information obtained from users of these areas may also be used for DHL's marketing purposes. DHL provides a right of access and rectification of personal data under the applicable legislation.
+Certain areas of the DHL web sites including, but not limited to, WebShip and DHL Proview, require registration and are password protected. Information obtained from users of these areas may also be used for DHL's marketing purposes. DHL provides a right of access and rectification of personal data under the applicable legislation.
 
 Your usage of DHL's web site may be tracked to help us continue to improve the site, for problem solving purposes, or as a part of an aggregate profile of usage of the site. Your individual usage information will not be shared with outside parties.
 
@@ -24,13 +24,13 @@ A clear gif is a small graphic file (1x1 pixels) that is included in the web pag
 
 Third Parties
 
-Sections of DHL-USA.com, such as eCourier and Online Billing, include transactions hosted by third parties. When you leave DHL-USA.com to visit or use one of these sites, information identifying you as a DHL customer is passed to the third party. Secure Socket Layer (SSL) privacy protocol is used to insure your transaction privacy. DHL is not responsible or liable for the independent privacy policies of third party sites.
+Sections of DHL-USA.com, such as DHL ShipReadyTM and Online Billing, include transactions hosted by third parties. When you leave DHL-USA.com to visit or use one of these sites, information identifying you as a DHL customer is passed to the third party. Secure Socket Layer (SSL) privacy protocol is used to insure your transaction privacy. DHL is not responsible or liable for the independent privacy policies of third party sites.
 
 Web-Based Shipping
 
 DHL designed web-based shipping applications, to provide our customers the most timely, accurate, and easy-to-use online shipping in the transportation industry. While increasing your convenience, we have also incorporated security features to protect your personal shipping information. 
 
-  * Data Encryption. SSL encryption is used to protect the information you enter when using the Ship Exchange site.
+  * Data Encryption. SSL encryption is used to protect the information you enter when using the online shipping.
   * Passwords. It is your responsibility to ensure that your user ID and password are secure. If you choose the Remember Password option to streamline the login process, your login information will be stored on your system and anyone with access to it can use your DHL web services. DHL employees do not have access to your password. 
   * Shipment and Receiver Data. DHL will not disclose your address book to other parties. 
 
