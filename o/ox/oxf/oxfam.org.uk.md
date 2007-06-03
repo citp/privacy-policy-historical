@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxfam.org.uk privacy policy that was archived on 2006-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061120183619id_/http%3A//www.oxfam.org.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxfam.org.uk privacy policy that was archived on 2007-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070603082920id_/http%3A//www.oxfam.org.uk/privacy.htm) for the most accurate reproduction.*
 
 # Oxfam
 
@@ -39,7 +39,9 @@ We use two types of cookies on our website:
 
 
 
-We use **persistent cookies** to provide services such as "MyOxfam" so that you do not have to log-in repeatedly between visits. 
+We use **persistent cookies** to provide certain services, so that you do not have to log-in repeatedly between visits. 
+
+Atlas, an independent internet marketing and research company, gathers non-personal information regarding the visitors to our website on our behalf using cookies embedded on our website and on our adverts on third party websites. Oxfam may also monitor which websites you have come from prior to entering the Oxfam site and which websites you move on to after leaving the Oxfam site. Oxfam uses this information in order to assess the impact of, and develop adverts and campaigns.
 
 If you do not wish to receive cookies you can easily modify your web browser to refuse cookies, or to notify you when you receive a new cookie. However, you may not be able to use all the interactive features of our site if cookies are disabled, and so in order to enjoy the Oxfam site to the full, we recommend that you leave them switched on.
 
@@ -61,7 +63,7 @@ As a general rule, Oxfam GB will not disclose any of your personally identifiabl
 
 If you indicated that you are interested in receiving regular information about Oxfam’s campaign work or emergencies appeals we will send you communications regarding Oxfam’s work and activities, either electronically or otherwise. In addition, we may send you direct mail that we feel may be of interest to you.
 
-Oxfam GB does not sell or rent user information to anyone. From time to time, we agree with other likeminded organisations to write to some of each other’s supporters, for the mutual benefit of both. 
+Oxfam GB does not sell, rent or share user information with anyone. We may on occasion work with 3rd parties to contact our supporters about Oxfam, however the 3rd party would be bound by a confidentiality agreement which would prevent them from using this information for any other purpose.
 
 **6\. What is Oxfam GB’s policy on allowing me to update, correct, or delete my personally identifiable information?**
 
@@ -73,7 +75,7 @@ Oxfam GB is committed to taking reasonable steps to protect the individual ident
 
 **8\. What about children’s privacy?**
 
-The safety of children is very important to us. Our education site Cool Planet does not collect personally identifiable from children. We do have a graffiti board on the site but this is moderated and does not display the full name of individual children nor their addresses. Children should always ask a parent for permission before sending personal information to anyone online. 
+The safety of children is very important to us. Our education site Cool Planet does not collect personal information from children. We do have a graffiti board on the site but this is moderated and does not display the full name of individual children nor their addresses. Children should always ask a parent for permission before sending personal information to anyone online. 
 
 **9\. What security precautions are in place to protect the loss, misuse, or alteration of my information?**
 
@@ -81,4 +83,4 @@ When you give Oxfam GB personal information that information may be stored and p
 
 Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, Oxfam GB cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.
 
-**March 2004**
+**April 2007**
