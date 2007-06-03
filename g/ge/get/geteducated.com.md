@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geteducated.com privacy policy that was archived on 2006-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061015205720id_/http%3A//geteducated.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geteducated.com privacy policy that was archived on 2007-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070603124436id_/http%3A//www.geteducated.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy-- GetEducated.com, LLC Online Degree Clearinghouse
 
