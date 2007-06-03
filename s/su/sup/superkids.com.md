@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superkids.com privacy policy that was archived on 2006-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061125055846id_/http%3A//www.superkids.com/aweb/pages/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superkids.com privacy policy that was archived on 2007-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070603173328id_/http%3A//www.superkids.com/aweb/pages/privacy.shtml) for the most accurate reproduction.*
 
 # SuperKids Privacy Policy.
 
@@ -23,7 +23,7 @@ SuperKids does not use any cookies to track or identify visitors to our site. Co
 SuperKids occasionally conducts user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with advertisers and partners. We never share any information about specific individuals with any third party. 
 
 **Questions?**   
-Please email us if you have any questions about our privacy policy, at: [webmaster@superkids.com](mailto:webmaster@superkids.com)
+Please email us if you have any questions about our privacy policy, at: [Privacy Question](mailto:webmaster@superkids.com?subject=Privacy%20Policy%20Question)
 
 back to top of page
 
@@ -32,4 +32,4 @@ back to top of page
   
 [](https://web.archive.org/)   
 Questions or comments regarding this site? [webmaster@superkids.com](mailto:webmaster@superkids.com)   
-Copyright © 1998-2001 [Knowledge Share LLC.](https://web.archive.org/aweb/pages/copyrit.html) All rights reserved. [Privacy Policy](https://web.archive.org/aweb/pages/privacy.shtml)
+Copyright © 1998-2007 [Knowledge Share LLC.](https://web.archive.org/aweb/pages/copyrit.html) All rights reserved. [Privacy Policy](https://web.archive.org/aweb/pages/privacy.shtml)
