@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the valueclickmedia.com privacy policy that was archived on 2006-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061223224727id_/http%3A//www.valueclickmedia.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valueclickmedia.com privacy policy that was archived on 2007-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070603104141id_/http%3A//www.valueclickmedia.com/privacy.shtml) for the most accurate reproduction.*
 
 # ValueClick Media - Privacy Statement
 
-| [Member Privacy Statement](https://web.archive.org/web/20061223224727id_/http%3A//www.valueclickmedia.com/member_privacy.shtml) | [Opt-Out Cookie](http://admin.valueclickmedia.com/optout/index.html) |
+| [Member Privacy Statement](https://web.archive.org/web/20070603104141id_/http%3A//www.valueclickmedia.com/member_privacy.shtml) | [Opt-Out Cookie](http://admin.valueclickmedia.com/optout/index.html) |
 
 ValueClick Media is committed to earning your trust and confidence. To better protect privacy, we provide this notice explaining our online technology and information collection practices. Our policy for members of our network may be found here.
 
