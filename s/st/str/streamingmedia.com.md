@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streamingmedia.com privacy policy that was archived on 2006-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061115085643id_/http%3A//www.infotoday.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamingmedia.com privacy policy that was archived on 2007-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070603220035id_/http%3A//www.infotoday.com/privacy.shtml) for the most accurate reproduction.*
 
 # ITI Privacy Policy
 
@@ -27,6 +27,6 @@ If you don't wish to receive such notifications and offers, you can request to b
 We will seek to advise any companies or other third parties to whom we provide e-mail mailing list information to follow similar privacy policies. However, we cannot assume any responsibility for any actions or policies of these third parties. 
 
 **_Removal from Mailing Lists  
-_**Request to be removed from mailing lists maintained by Information Today, Inc. via e-mail (to **[custserv@infotoday.com](mailto:custserv@infotoday.com)** ), telephone (609-654-6266), fax (609-654-4309), or in writing (Information Today, Inc., 143 Old Marlton Pike, Medford, NJ 08055-8750). 
+_**E-mail messages sent to mailing lists maintained by Information Today, Inc. contain links to automatically unsubscribe from the list to which the e-mail was sent. You may also request to be removed from mailing lists maintained by Information Today, Inc. via e-mail (to **[custserv@infotoday.com](mailto:custserv@infotoday.com)** ), telephone (609-654-6266), fax (609-654-4309), or in writing (Information Today, Inc., 143 Old Marlton Pike, Medford, NJ 08055-8750). 
 
 * * *
