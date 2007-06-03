@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstsexin18.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205225716id_/http%3A//www.damsites.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstsexin18.com privacy policy that was archived on 2007-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070603152726id_/http%3A//www.damsites.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
