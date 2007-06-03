@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dickies.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118033403id_/http%3A//www.dickies.com/web/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dickies.com privacy policy that was archived on 2007-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070603021603id_/http%3A//www.dickies.com/web/policy.asp) for the most accurate reproduction.*
 
 # Dickies® ~ Privacy Policy
 
@@ -98,29 +98,31 @@ All individuals submitting unsolicited ideas agree to the following:**
 PRIVACY SUPPORT   
 If you have any further inquires related to this privacy policy, please contact us with your request at [customerservice@dickies.com](mailto:customerservice@dickies.com)
 
-Return  |   *Holiday Bonus*  
+Return  |   What's New in June  
 ---  
 | 
 
-Free Standard Shipping from Nov 15th thru Jan 15th within the continental U.S. Applies to Standard, Military APO/FPO and PO Box shipping. |   
-  What's New in November  
----  
-| 
+2007 Race  
+for the Riches
 
-[](https://web.archive.org/web/redirect.asp?target=http%3A%2F%2Fwww%2Eworkeroftheyear%2Ecom%2F)
+Enter today for a chance to win a Grand Prize of $500,000!!  
+[ [read more](https://web.archive.org/web/news/top_stories.asp#race) ]
 
-And the winner is...  
-[ [read more](https://web.archive.org/web/news/top_stories.asp#AWOTYvote) ]
+DICKIES  
+MOBILE TOUR
 
-"Who won the Dickies Race for the Riches?"  
-[ [read more](https://web.archive.org/web/news/top_stories.asp#Dickies500) ]
+Visit the Tour near you!  
+[ [read more](https://web.archive.org/web/news/top_stories.asp#Tour) ]
 
-Free Gas
+NEWS STAND
 
-[](https://web.archive.org/web/gas/default.asp)
+The latest technology in Dickies outerwear in _Fashion Mannuscript_...  
+[ [read more](https://web.archive.org/web/news/magazines.asp#heartland) ]
 
-Buy some Dickies and we'll buy the gas!  
-[ [read more](https://web.archive.org/web/gas/default.asp) ]
+NEWS STAND
+
+The history of Dickies in _Garage_ magazine...  
+[ [read more](https://web.archive.org/web/news/magazines.asp#handy) ]
 
 PauseResume **::** [More News](https://web.archive.org/web/news/default.asp)
 
