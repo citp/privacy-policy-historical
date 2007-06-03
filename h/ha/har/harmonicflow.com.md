@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harmonicflow.com privacy policy that was archived on 2006-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061116211813id_/http%3A//www.harmonicflow.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harmonicflow.com privacy policy that was archived on 2007-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070603163826id_/http%3A//www.harmonicflow.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Harmonic Flow Games - Privacy Policy
 
@@ -28,7 +28,7 @@ Harmonic Flow Games ("HARMONIC FLOW") takes your privacy very seriously. Please 
 
 **·** HARMONIC FLOW will not sell or rent your personally identifiable information to anyone. 
 
-**·** Unless you have agreed to recieve our newsletter, any names and email addresses you give us are NOT compiled into any type of mailing list, or otherwise used for any type of email solicitation. If you choose to receive these newsletters, but later decide you no longer want to receive them, you may request to be remove at any time by completeing the form at [Unsubscribe link](https://web.archive.org/web/20061116211813id_/http%3A//www.harmonicflow.com/unsubscribe.php). 
+**·** Unless you have agreed to recieve our newsletter, any names and email addresses you give us are NOT compiled into any type of mailing list, or otherwise used for any type of email solicitation. If you choose to receive these newsletters, but later decide you no longer want to receive them, you may request to be remove at any time by completeing the form at [Unsubscribe link](https://web.archive.org/web/20070603163826id_/http%3A//www.harmonicflow.com/unsubscribe.php). 
 
 **·** HARMONIC FLOW may send personally identifiable information about you to other companies or people when: 
 
