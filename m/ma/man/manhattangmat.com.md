@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the manhattangmat.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117064104id_/http%3A//manhattangmat.com/manhattan-gmat-company-info-privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manhattangmat.com privacy policy that was archived on 2007-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070603171241id_/http%3A//www.manhattangmat.com/manhattan-gmat-company-info-privacy.cfm) for the most accurate reproduction.*
 
-# Course GMAT, GMAT Prep - Manhattan GMAT
+# Manhattan GMAT - Our Company - Privacy Policy
 
 Welcome to the Manhattan GMAT web site. We at Manhattan GMAT are committed to maintaining the privacy and security of the personal information of all the visitors to this web site. As a part of that commitment, Manhattan GMAT is in the process of implementing our updated Privacy Policy and Information Privacy Statements to reflect the current needs of our visitors to know what information about them we collect, why we collect it, and where it goes. We encourage you to read this Privacy Statement. At this web site, Manhattan GMAT collects information in three ways: 
 
