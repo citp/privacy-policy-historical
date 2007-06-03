@@ -1,14 +1,21 @@
-<!--The following is the downloaded HTML source of the trustedplaces.com privacy policy that was archived on 2006-11-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061128091446id_/http%3A//trustedplaces.com/docs/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trustedplaces.com privacy policy that was archived on 2007-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070603085418id_/http%3A//trustedplaces.com/docs/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 	
-	<title>TrustedPlaces</title>
+	<title>TrustedPlaces - documents - privacy</title>
 	
 	<link href="/favicon.ico" rel="shortcut icon">
 	
-	<link href="/css/common_v0002.css" rel="stylesheet" type="text/css">
+	<link href="/css/common_v0020.css" rel="stylesheet" type="text/css">
+	<link href="/css/lightbox.css" rel="stylesheet" type="text/css">
+	
+	
+	<script type="text/javascript" src="/js/tooltiplib.js"></script>
+	<script type="text/javascript" src="/js/prototype.js"></script>
+	<script type="text/javascript" src="/js/scriptaculous/scriptaculous.js"></script>
+	<script type="text/javascript" src="/js/lightbox.js"></script>
 	
 	
 	<!--[if IE]>
@@ -18,272 +25,250 @@
 	}
 	</style>
 	<![endif]-->
-	
-	<script type="text/javascript" src="/js/prototype.js"></script>
-	<script type="text/javascript" src="/js/scriptaculous/scriptaculous.js"></script>
-	
 </head>
-<body>
+<body><div id="overlay" style="display: none; position: absolute; top: 0px; left: 0px; z-index: 90; width: 100%;"></div><div id="lightbox" style="display: none; position: absolute; z-index: 100;"><a href="#" title="Click to close"><img id="lightboxImage"></a><div id="lightboxDetails"><div id="lightboxCaption" style="display: none;"></div><div id="keyboardMsg">press <a href="#" onclick="hideLightbox(); return false;"><kbd>x</kbd></a> to close</div></div></div>
 
 <div id="wrapper"><!-- WRAPPER START -->
 
+<script>
 
-	<div id="header"><!-- HEADER START -->
-	
-		<img class="hide" src="/img/common/logo.gif" alt="TrustedPlaces"><br>
-		
-		<img class="hide" src="/img/common/tagline.gif" alt="Discovering Your Friends' &amp; Their Friends' Favourite Places">
-	
-		<h1><a href="/">TrustedPlaces</a></h1>
-		
-		<span>Discovering Your Friends' &amp; Their Friends' Favourite Places</span>
-		
-		<ul id="topnav">
-			<li class="tnavpad"><a href="/docs/about">About us</a></li>
-			<li class="tnavpad"><a href="/docs/faq">FAQs</a></li>
-			<li><a href="/login">Log in</a></li>
-		</ul>
-		
-		<style>
-		p#afterbanner a {
-			width: 381px;
-			height: 68px;
-			display: block;
-			text-indent: -1111em;
-			text-align: left;
-			text-decoration: none;
-			position: absolute;
-			top: 22px;
-			left: 359px;
-			background: #ccc url(/img/afterbanner.gif) left top no-repeat;
-			}
-		
-		p#afterbanner a:hover {
-			background: #ccc url(/img/afterbanner.gif) 0 -68px no-repeat;
-			}
-		</style>
-		<p id="afterbanner"><a href="/review/uk/london/bar/1n42z78/parker_mcmillan">TrustedPlaces Party on November 3rd 
-			Click here for more details</a></p>
-		<!--<p id="banner"><a href="/contact">Do you like the site? Found a bug? 
-			Click here to give us your feedback</a></p>-->
-	
-	</div><!-- HEADER END -->
-	
-	<span id="cpp1" style="display: none; position: absolute; top: 55px; left: 800px; width: 13em; 
-		border: 1px solid #000; padding: 10px; background-color: white; z-index: 2000; text-align: center">
-			Looking for location...
-			<img src="/img/indicator.green.gif">
-	</span>
-	<span id="proximityerror1" style="display: none; position: absolute; top: 55px; left: 750px; width: 20em; 
-		border: 1px solid #000; padding: 10px; background-color: white; z-index: 2000; text-align: center; color: red">
-			Location not recognized, please try again
-	</span>
-
-	<div id="navigation" class="naventer"><!-- NAVIGATION START -->
-	
-		<span class="hide"><strong>Main Navigation:</strong></span>
-		
-		<ul id="nav">
-			<li id="home"><a class="navline" href="/">Home</a></li>
-			<li id="people"><a class="navline" href="/people">People</a>
-<!--				<ul id="subpeople">
-					<li id="cltab1"><a href="/people"></a></li>  
-					<li id="search"><a href="/people/search">Search</a></li>
-					<li id="browse"><a href="/people">Browse</a></li>
-				</ul>-->
-			</li>
-			<li id="places"><a class="navline" href="/places">Places</a>
-				<ul id="subplaces">
-					<li id="cltab2"><a href="/places"></a></li>
-					<li id="searchpl"><a href="/search/places">Search</a></li>
-					<li id="browsepl"><a href="/places">Browse</a></li>
-					<li id="addreview"><a href="/places/review">Add a review</a></li>
-				</ul>
-			</li>
-<!--			<li id="discuss"><a class="navline" href="/discuss">Discuss</a>
-				<ul id="subdiscuss">
-					<li id="cltab3"><a href="/discuss"></a></li>
-					<li id="searchd"><a href="/discuss/search">Search</a></li>
-					<li id="browsed"><a href="/discuss">Browse</a></li>
-				</ul>
-			</li> -->
-			<li id="mypage"><a href="/my">My page</a></li>
-		</ul>
-<!--		
-		<span id="searchsite" class="indent">Search Site</span>
-		
-		<form method="get" action="/search" id="search_form_global">
-		
-		<input id="searchbox" name="q" type="text" size="25" maxlength="30" />
-		
-		<button id="submitbtn" type="submit">Go</button>
-		
-		<span id="advancedsearch"><a href="/search/places">Advanced search</a></span>
-
-		</form>
--->
-
-		<script type="text/javascript">
-		
-		var loc_desc = "Please enter a full postcode"; //"\"W11\" or \"Notting Hill\"";
-		var ser_desc = "cool, bar, London";
-		
-		var loc_value = "";
-		
-		function initTexts()
-		{
-			$("searchwide").value = loc_desc;
-			$("anysearch").value  = ser_desc;
-		}
-		
-		function clearText(obj)
-		{
-			if(obj.value == loc_desc)
-				obj.value = "";
-			if(obj.value == ser_desc)
-				obj.value = "";
-				
-			obj.style.color = "#000000";
-		}
-		
-		function submitSearch()
-		{
-			clearText($("searchwide"));
-			
-			return true;
-		}
-		
-		function changeLocation()
-		{
-			Element.hide("loc_show");
-			Element.show("loc_edit");
-			$("searchwide").focus();
-		}
-		
-		function testEnter(e)
-		{
-			var key = e.keyCode || e.which;
-			if(key == 13)
-				$("submitbt").click();
-		}
-		
-		Event.observe(window, 'load', initTexts, false);
-
-		</script>
-
-		<script type="text/javascript" src="http://www.isharemaps.com/on_demand/v2_1/js/geocoder.js">
-</script>
-
-<script language="JavaScript" type="text/javascript">
-
-var gLocPostCode = "";
-var gLocLooking = "";
-var gLocError = "";
-var gLocHref = "/?sort=proximity";
-var gLocFunc = "OnLocationFound";
-
-function JSserializerOnLoad(result)
+function changeCity()
 {
-	if((result instanceof Array) != false)
+	Element.show("cityBlock");
+	new Ajax.Request(
+		"/ajax/get_cities", 
+		{
+			method: 'get', 
+			onComplete: changeCityComplete
+		});
+}
+
+function changeCityComplete(req)
+{
+	if(req.responseText.slice(0, 1) == "_")
 	{
-		if(!((result.length == 0) || (result[0]['EntityName'] == "")))
-		{
-			if(result[0]['EntityName'] != "")
-			{
-				eval(gLocFunc + 
-					"(" + 
-					parseFloat(result[0]['x']) + 
-					", " + 
-					parseFloat(result[0]['y']) + 
-					", \"" + 
-					result[0]['EntityName'] + 
-					"\")");
-				return;
-			}
-		}	
+		$("cityContents").innerHTML = req.responseText.slice(1);
 	}
-	if(gLocLooking != "")
-		Element.hide(gLocLooking);
-	if(gLocError != "")
-		Element.show(gLocError);
 }
 
-var php = new PHP_Serializer();
-
-function OnLocationFound(x, y, entity)
+function changeCurCity(city)
 {
-	window.location.href = "http://trustedplaces.com" + gLocHref 
-		+ "&x=" + encodeURIComponent(x)
-		+ "&y=" + encodeURIComponent(y)
-		+ "&p=" + gLocPostCode
-		+ "&back=" + encodeURIComponent(window.location.href);
-}
-
-function FindCoordinates(city, postcode)
-{
-	Element.hide(gLocError);
-	Element.show(gLocLooking);
-	
-	gLocPostCode = postcode;
-	
-	gLocFunc = "OnLocationFound";
-
-	var addr = new atAddress("", city, "", postcode, "UK");
-	var licensekey = 'js5417-2861-8807';
-	var recordcount = 1;
-	var threshold = 0.85;
-	var coordsys = 1;
-	
-	searchFormattedAddress(addr, licensekey, recordcount, threshold, coordsys);
-}
-
-function FindLocationTop(postcode)
-{
-	gLocLooking	= "cpp1";
-	gLocError	= "proximityerror1";
-	
-	FindCoordinates("", postcode);
+	window.location.href = "http://trustedplaces.com/homepage/setcity?city=" + encodeURIComponent(city) + 
+		"&back=" + encodeURIComponent(window.location.href);
 }
 
 </script>
 
-		<div id="loc_edit" style="">
+<div id="cityBlock" style="display: none; position: absolute; top: 40px; right: 150px; width: 400px; 
+background-color: #FFF; z-index: 9999; border: 1px solid #ccc">
+	<div align="right"><a href="javascript:Element.hide('cityBlock')">[Close]</a></div>
+	<div id="cityContents" style="padding: 20px">Loading <img src="/img/indicator.green.gif"></div>
+</div>
 
-		<!--	<form method="get" action="/"> -->
+<p class="date-time">
+	<strong>London<!--,--> </strong> <!-- 8:54am GMT -->
+	| <a href="/places/uk" onclick="changeCity(); return false">change 
+		<img src="/img/homepage2/change-location.gif" alt="Change"></a>
+</p>
+
+<div id="header"><!-- HEADER START -->
+
+	<div id="tagsholder">
+		<div id="tagsholder1"></div>
+	</div>
+	
+	<script>
+
+function rnd(a, b) 
+{
+	return a + Math.floor(Math.random()*(b - a + 1));
+}
+
+var cloud	= [['music', 12], ['pub chain', 12], ['busy', 12], ['sushi', 12], ['mediterranean', 12], ['cozy', 13], ['bar', 13], ['jazz', 13], ['lunch', 14], ['live music', 14], ['expensive', 23], ['crowded', 24]];
+var xMin = 10;
+var xMax = 750;
+var yMin = 5;
+var yMax = 70;
+	
+function initCloud()
+{
+	var coords = Array(cloud.length);
+	var coordN = 0;
+		
+	for(i = 0; i < cloud.length; i++)
+	{
+		var tagName = cloud[i][0];
+		var tagSize = cloud[i][1];
+		
+		var color = '';//'color: #ff0000';
+		
+		for(nMax = 150; nMax > 0; nMax--)
+		{
+			var xPos = rnd(xMin + 15, xMax - 150);
+			var yPos = rnd(yMin, yMax);
+			var found = false;
+			for(j = 0; j < coordN; j++)
+			{
+				var xMax1 = Math.max(tagName.length * tagSize, coords[j][2] * coords[j][3]) / 2;
+				var yMax1 = Math.max(tagSize, coords[j][3]) + 1;
+				if(Math.abs(xPos - coords[j][0]) < xMax1 && Math.abs(yPos - coords[j][1]) < yMax1)
+					found = true;
+			}
+//			if(yPos < 25 && xPos > 450)
+//				found = true;
 				
-			<span id="enterloc">Enter Location</span>
-			
-			<input id="searchwide" name="location" type="text" size="55" maxlength="75" value="" onclick="javascript:clearText(this)" onkeypress="testEnter(event)">
-			
-			<button id="submitbt" type="submit" onclick="FindLocationTop($('searchwide').value); return false">Submit</button>
-			
-		<!--	</form> -->
-			
-		</div>
+			if(!found)
+			{
+				color = '';
+				break;
+			}
+		}
 		
-		<div id="loc_show" style="display: none">
-		
-			<span id="enterloc">Your Location: <span></span></span>
+		coords[coordN++] = [xPos, yPos, tagName.length, tagSize];
 			
-			<span id="changeloc"><a href="javascript:changeLocation()">Change location</a></span>
+		var obj = document.createElement("div");
+		obj.id = "tcloud_" + i;
+		tagName2 = tagName.replace(/&amp;/g, "%26").replace(/\s/g, "+");
+		obj.innerHTML = '<a href="/search/places?tags=' + tagName2 + 
+			'" style="padding: 1px; font-size: ' + tagSize + 'px; ' + color + '">' + tagName + '</a>';
+//		obj.onclick = function () {hideLightbox(); return false;}
+//		obj.style.backgroundColor = 'white';
+		obj.style.position = 'absolute';
+		obj.style.top = yPos + 'px';
+		obj.style.left = xPos + 'px';
+//		obj.style.zIndex = 20 + i;
+
+		$("tagsholder").insertBefore(obj, $("tagsholder1"));
+	}
+
+	if(document.all)
+		setTimeout("motionCloud()", 500);
+}
+
+function motionCloud()
+{
+	var obj = null;
+	var x = 0;
+	var w = 0;
+	var alpha = 0;
+	for(i = 0; i < cloud.length; i++)
+	{
+		obj = $("tcloud_" + i);
+		x = parseInt(obj.style.left) + 1;
+		w = obj.clientWidth;
+		if(x > xMax)
+			x = xMin;
+
+		obj.style.left = x + 'px';
 		
-		</div>
+		alpha = 0;
+		if(x < xMin + 15)
+			alpha = Math.max(100 * (x - xMin) / 15, 1);  
+		if(x + w > xMax - 15)
+			alpha = Math.max(100 * (xMax - x - w) / 15, 1);  
 		
-		<!--  onclick="return submitSearch()" -->
+		if(alpha != 0)
+		{
+			if(typeof(obj.style.MozOpacity) == 'string')
+				obj.style.MozOpacity = alpha / 100;
+			if(obj.filters)
+				obj.style.filter = 'alpha(opacity=' + alpha +')';
+		}
+		else
+		{
+			if(typeof(obj.style.MozOpacity) == 'string')
+				obj.style.MozOpacity = 100;
+			if(obj.filters)
+				obj.style.filter = '';
+		}
+	}
+	setTimeout("motionCloud()", 200);
+}
+
+Event.observe(window, 'load', initCloud, false); 
+
+</script>
+	
+	<h1><a href="/">TrustedPlaces</a></h1>
+	
+	<ul id="topnav">
+		<li class="tnavpad"><a href="/docs/about">About us</a></li>
+		<li class="tnavpad"><a href="/docs/faq">FAQs</a></li>
+		<li><a href="/login">Log in</a></li>
+	</ul>
+	
+	<!-- banner -->
 		
-		<form method="get" action="/search" id="search_form_global">
+</div><!-- HEADER END -->
+	
+	<div id="navigation" class="naventer"><!-- NAVIGATION START -->
+		
+		<p id="breadcrumb"><a href="/">Home</a> &gt; Document</p>
+				
+		<span class="hide"><strong>Main Navigation:</strong></span>
 			
-		<div id="anywhere">
+		<ul id="nav">
+			<li class="line"><a href="/people">People</a></li>
+			<li class="line"><a href="/places">Places</a></li>
+			<li><a href="/login">Sign in</a></li> <li>or</li> <li><a href="/register">Join</a></li>		
+		</ul>
 		
-			<span id="any">OR SEARCH ANYWHERE:</span>
-			
-			<input id="anysearch" name="q" type="text" size="30" maxlength="55" value="" onclick="javascript:clearText(this)">
-			
-			<button id="anyfind" type="submit">Find it</button>
+		<div id="searchformcont">
 		
+			<form action="/search/places?" method="get" id="search-form">
+				<p id="pwhat"><label for="what">What</label> <input type="text" name="tags" id="what" size="12"> <span class="example">(salsa, gastropub, art)</span></p>
+				<p id="pwhere"><label for="where">Where</label> <input type="text" name="where" id="where" size="12"> <span class="example">(e.g. NW5 or London)</span></p>
+				<p><input id="searchbtn" type="image" src="/img/common/search-button.jpg" alt="Search"></p>
+			</form>
+	
 		</div>
 	
-		</form>
+		<style>
+div.new_suggest {
+	z-index: 1000; 
+	background-color: white;
+	border: 1px solid #777;
+	}
+div.new_suggest ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	}
+div.new_suggest li {
+	list-style-type: none;
+	display: block;
+	padding-left: 4px;
+	font-size: 12px;
+	line-height: 20px;
+	cursor: pointer;
+	}
+div.new_suggest li:hover, div.new_suggest li.selected {
+	background-color: #ffb;
+	}
+}
+</style>
+	
+<div id="suggest_what" class="new_suggest" style="display: none"></div>
+<div id="suggest_where" class="new_suggest" style="display: none"></div>
+
+<script type="text/javascript">
+
+function initSearchSuggestwhat()
+{
+	new Ajax.Autocompleter(
+		'what', 
+		'suggest_what', 
+		'/ajax/find_what');
+		
+	new Ajax.Autocompleter(
+		'where', 
+		'suggest_where', 
+		'/ajax/find_where');
+}
+		
+Event.observe(window, 'load', initSearchSuggestwhat, false); 
+		
+</script>
 	
 	</div><!-- NAVIGATION END -->
 	<br><br>
@@ -373,19 +358,22 @@ function FindLocationTop(postcode)
 
 
 		
+	
+	
 	</div><!-- CONTENTCNT END -->
 	
 	<div id="footer"><!-- FOOTER START -->
 	
-		<ul id="botnav">
-			<li class="bnavpad"><a href="/docs/terms">Terms &amp; Conditions</a></li>
-			<li class="bnavpad"><a href="/docs/privacy">Privacy Policy</a></li>
-			<li class="bnavpad"><a href="http://trustedplaces.com/blog">Blog</a></li>
-			<li class="bnavpad"><a href="/contact">Contact</a></li>
-			<li><a href="/business">Businesses / Advertisers</a></li>
-		</ul>
+		<p id="foot-links">
+			<a href="/docs/about">About</a> | 
+			<a href="/contact">Feedback</a> | 
+			<a href="/blog">Teamblog</a> | 
+			<a href="/docs/faq">FAQs</a> | 
+			<a href="/docs/terms">Terms &amp; Conditions</a> |
+			<a href="/docs/privacy">Privacy Policy</a> |
+			<a href="/business">Businesses / Advertisers</a>
+		</p>
 	
-		<span id="copyright">© Copyright 2006</span>
 	</div><!-- FOOTER END -->
 	
 		
@@ -399,6 +387,90 @@ urchinTracker();
 </script>
 
 
+
+<div id="member_access" style="display: none; position: absolute; width: 22em; 
+border: 1px solid #000; padding: 7px; background-color: white; z-index: 3000">
+	<table width="100%"><tbody><tr valign="top">
+	<td>
+		<b>Member access only</b>
+		<br>
+		<br>
+		
+		<form method="post" action="/login" id="loginForm">
+			<input type="hidden" id="member_redirect" name="redirect" value="">
+			Email
+			<br>
+			<input id="emailfield" name="email" type="text" size="25" maxlength="60" value="">
+			<br>
+			Password
+			<br>
+			<input id="passfield" name="password" type="password" size="25" maxlength="30" value="">
+			<br>
+			<input id="signin" name="signin" type="submit" value="Login">
+<!--			<input id="register" name="signin" type="submit" value="Register" /> -->
+			<br>
+			<a href="/member/passwordrestore">Forgot your password?</a>
+		</form>		
+	</td>
+	<td align="right" onmousedown="Element.hide('member_access');">
+		<span style="cursor: pointer; width: 15px; height: 15px; color: red">[x]</span></td>
+	</tr></tbody></table>
+
+</div>
+
+<script>
+
+var mouseX, mouseY;
+
+function getMousePos(e)
+{
+	if(!e)
+		e = window.event||window.Event;
+	
+	if('undefined'!=typeof e.pageX)
+	{
+		mouseX = e.pageX;
+		mouseY = e.pageY;
+	}
+	else
+	{
+		mouseX = e.clientX + document.documentElement.scrollLeft;
+		mouseY = e.clientY + document.documentElement.scrollTop;
+	}
+}
+
+// You need to tell Mozilla to start listening:
+if(window.Event && document.captureEvents)
+ 	document.captureEvents(Event.MOUSEMOVE);
+
+// Then assign the mouse handler
+document.onmousemove = getMousePos;
+
+
+function MemberAccess(url, func_eval)
+{
+	if(url == "")
+		url = window.location.href;
+	if(url.substr(0, 4) != "http")
+		url = "http://trustedplaces.com" + url;
+
+	if(parseInt("0") != 0)
+	{
+		if(func_eval == "" || !func_eval)
+			window.location.href = url;
+		else
+			eval(func_eval);
+	}
+	else		 
+	{
+		$("member_access").style.left = mouseX + "px"; 
+		$("member_access").style.top  = mouseY + "px"; 
+		$("member_redirect").value = url; // encodeURIComponent()
+		Element.show("member_access");
+	}
+}
+
+</script>
 
 
 </body></html>
