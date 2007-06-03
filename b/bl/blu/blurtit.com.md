@@ -1,10 +1,19 @@
-> *The following text is extracted and transformed from the blurtit.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217061705id_/http%3A//www.blurtit.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blurtit.com privacy policy that was archived on 2007-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070603172055id_/http%3A//www.blurtit.com/privacy.php) for the most accurate reproduction.*
 
-# BlurtIt: Blurtit! Privacy Policy
+# Privacy Policy - Blurtit
 
-Welcome to BlurtIt! Thanks for taking the time to read our Privacy Policy. For anyone who is thinking of posting a Question or Answer on BlurtIt or adding a Blog, we recommend that you read and digest the following important information which affects your privacy: 
+Privacy Policy
 
-### Site Visits:
+Welcome to BlurtIt! Thanks for taking the time to read our Privacy Policy. 
+
+For anyone who is thinking of posting a Question or Answer on BlurtIt   
+or adding a Blog, we recommend that you read and digest the following   
+important information which affects your privacy: 
+
+Site Visits:
+
+  
+
 
   1. We do not collect or store any personal information about website users unless they specifically supply details as part of our sign-up/register service or answer reply service. 
   2. During user visits to BlurtIt! should a user browse or download information we shall collect certain pieces of information for reference purposes. This will include only:   
@@ -18,7 +27,10 @@ e. The advertisements of which you have clicked.
 
 
 
-### Disclosure:
+Disclosure:
+
+  
+
 
   1. BlurtIt! will not disclose, sell, give or transfer information relating to site users and their visit data unless this is necessary for the purposes of law enforcement. 
   2. All personal information withheld by BlurtIt! is held under the Data Protection Act to responsibly protect user details and private information. 
@@ -26,7 +38,10 @@ e. The advertisements of which you have clicked.
 
 
 
-### Use of Cookies:
+Use of Cookies:
+
+  
+
 
   1. BlurtIt! uses technology to record data about your visit which is collected by enabling "cookies" to store and identify user preferences and activity. 
   2. If a user does not want BlurtIt! to store cookies they can block this facility using specific Browser options. 
