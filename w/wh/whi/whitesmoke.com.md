@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the whitesmoke.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230221637id_/http%3A//www.whitesmoke.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitesmoke.com privacy policy that was archived on 2007-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070603111536id_/http%3A//www.whitesmoke.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
-
-English Grammar | English Software |Grammar Software | Grammar Checker | Creative Writing | Business Writing | Grammar Corrector | Thesaurus Software | Proofreading Software 
 
 WhiteSmoke privacy statement  
 
@@ -31,8 +29,8 @@ We also collect other information that you voluntarily provide us; e.g., through
 IP Address. We store the Internet Protocol (IP) address of your computer, when you visit WhiteSmoke Website. This information is only used to create broad geographic summaries of where our users come from, e.g., what percentage of users come from Europe or Africa. Our use of the IP addresses, however, does not identify the actual users of the site. 
 
 INTERNAL USE OF PERSONAL/PRIVATE INFORMATION  
-We may use your registration information and other voluntarily submitted information, including personal information, in the following ways: (a) To enable us to verify user credentials, in order to maintain reasonable security; (b) To provide our developers, with information that is useful in developing new features and services for our users; (c) To allow us to potentially vary advertising based on user preference, usage preferences and demographics; (d) To enable us to develop and improve the features, content, and services available; (e) To contact you regarding new features, topic-based news alerts, products and service buying opportunities. 
+We may use your registration information and other voluntarily submitted information, including personal information, in the following ways: (a) To enable us to verify user credentials, in order to maintain reasonable security; (b) To provide our developers with information that is useful in developing new features and services for our users; (c) To allow us to potentially vary advertising based on user preference, usage preferences and demographics; (d) To enable us to develop and improve the features, content, and services available; (e) To contact you regarding new features, topic-based news alerts, products and service buying opportunities. 
 
 Internally, we use Aggregate Information in a number of ways to improve our services, our website and its content. 
 
-Privacy as it applies to the Internet is a dynamic, rapidly developing area. In the future we may change this Privacy Policy at any time by posting revisions to our website. Your use of WhitesSmoke Website and of our services constitutes acceptance of the provisions of this Privacy Policy and your continued usage after such changes are posted constitutes acceptance of each revised version of the Privacy Policy. If you do not agree to the terms of this Privacy Policy or any revised version thereof, please exit Whitesmoke Website immediately. 
+Privacy as it applies to the Internet is a dynamic, rapidly developing area. In the future we may change this Privacy Policy at any time by posting revisions to our website. Your use of WhiteSmoke Website and of our services constitutes acceptance of the provisions of this Privacy Policy and your continued usage after such changes are posted constitutes acceptance of each revised version of the Privacy Policy. If you do not agree to the terms of this Privacy Policy or any revised version thereof, please exit Whitesmoke Website immediately. 
