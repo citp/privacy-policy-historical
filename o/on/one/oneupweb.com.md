@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneupweb.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230185436id_/http%3A//www.oneupweb.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneupweb.com privacy policy that was archived on 2007-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070603124925id_/http%3A//www.oneupweb.com/privacy.htm) for the most accurate reproduction.*
 
 # Oneupweb :: Professional Search Engine Marketing Company: Privacy Policy
 
