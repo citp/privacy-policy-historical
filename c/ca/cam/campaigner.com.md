@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the campaigner.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206141101id_/http%3A//campaigner.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campaigner.com privacy policy that was archived on 2007-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070603064347id_/http%3A//www.campaigner.com/company/privacy.html) for the most accurate reproduction.*
 
-# GOT Corporation - GOT Privacy Policy
+# GOT Corporation Privacy Policy
 
-|  Overview
+### Privacy
 
-At GOT Corporation, we respect the privacy needs of our valued customers. If your specific questions about our Privacy Policy are not answered below, please contact us via email at [privacy@gotcorp.com](mailto:privacy@gotcorp.com). 
+At GOT Corporation, we respect the privacy needs of our valued customers. If your specific questions about our Privacy Policy are not answered below, please contact us via email at [privacy@campaigner.com](mailto:privacy@campaigner.com). 
 
 **Collection and Use of Information by GOT Corporation**  
 GOT Corporation operates a Website, [http://www.campaigner.com](http://www.campaigner.cim/), and Web-based tools such as Campaigner and CampaignerPro. On the Website, GOT Corporation tracks non-personally identifiable information to help us understand our visitors' needs, as related to our web site design. While cookies are used to track a user's session, a visitors' identity is anonymous. Tracking with cookies gives GOT Corporation information about which parts of our site are used most often and what information is viewed. Cookies are not linked to anything that can personally identify a visitor, until a visitor becomes a registered user. Visitors who have provided us with registration information can be tracked during their sessions.
@@ -14,7 +14,7 @@ Through its Web-based tools, GOT Corporation explicitly asks when information th
 
 GOT Corporation only uses your email address to send information that you have requested. As part of your use of any GOT Corporation product, GOT Corporation allows you to elect to receive, or not receive, any information from GOT Corporation or its partners. GOT Corporation adheres strictly to its permission-based email policy. GOT Corporation will not send you commercial offers or advertisements, except as noted above.
 
-GOT Corporation may scan the content of customers' campaigns to ensure they comply with our [Terms of Use](http://www.campaigner.com/company/termsofuse.php) \- to protect against defamatory, inaccurate, abusive, obscene, profane, or threatening material that is racially or ethnically offensive. Only a select number of GOT Corporation employees are authorized to view customer data.
+GOT Corporation may scan the content of customers' campaigns to ensure they comply with our [Terms of Use](https://web.archive.org/web/20070603064347id_/http%3A//www.campaigner.com/company/termsofuse.html) \- to protect against defamatory, inaccurate, abusive, obscene, profane, or threatening material that is racially or ethnically offensive. Only a select number of GOT Corporation employees are authorized to view customer data.
 
 **Collection and Use of Contacts' Information**  
 GOT Corporation will not sell, rent, or loan our contact lists or our customer's contact lists (including customer data) to any outside firms nor will GOT Corporation use customer contact lists for its own marketing purposes. All emails that a contact has requested will have an option to unsubscribe. Unsubscribe requests are fulfilled within minutes and no further communications will be sent to contacts who have stated that they do not wish to receive the specified information. All GOT Corporation partners who offer you information via email must adhere to this unsubscribe policy.  
@@ -24,6 +24,3 @@ GOT Corporation is compliant with Canada's _Personal Information Protection and 
 **  
 Credit Card Information**   
 GOT Corporation allows customers to purchase email marketing services. Financial information is transferred to GOT Corporation through an accredited clearing house partner using SSL.
-
-  
-| 
