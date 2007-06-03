@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the xara.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205201754id_/http%3A//www.xara.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xara.com privacy policy that was archived on 2007-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070603161355id_/http%3A//www.xara.com/privacy.asp) for the most accurate reproduction.*
 
 # Xara Privacy Statement
 
-[About Xara](https://web.archive.org/web/20061205201754id_/http%3A//www.xara.com/about.asp "About Xara")  |  [Contact Xara](https://web.archive.org/web/20061205201754id_/http%3A//www.xara.com/contact.asp "Contact Xara")
+[About Xara](https://web.archive.org/web/20070603161355id_/http%3A//www.xara.com/about.asp "About Xara")  |  [Contact Xara](https://web.archive.org/web/20070603161355id_/http%3A//www.xara.com/contact.asp "Contact Xara")
 
-XARA has created this privacy statement in order to **demonstrate the company's firm commitment to privacy**. The following discloses the information gathering and dissemination practices for the Xara web site [www.xara.com](http://www.xara.com/), [www.xaraonline.com](http://www.xaraonline.com/), the BuyFonts web site [www.buyfonts.com](http://www.buyfonts.com/) and the XaraClub web sites [www.club.xara.com](http://www.club.xara.com/) and [secure.commerce.xara.com](https://secure.commerce.xara.com/), and the Xara Online purchase site secure.xaraonline.com.
+XARA has created this privacy statement in order to **demonstrate the company's firm commitment to privacy**. The following discloses the information gathering and dissemination practices for the Xara web site [www.xara.com](http://www.xara.com/), [www.xaraonline.com](http://www.xaraonline.com/), the BuyFonts web site [www.buyfonts.com](http://www.buyfonts.com/) and the XaraClub web sites [www.club.xara.com](http://www.club.xara.com/) and [secure.commerce.xara.com](https://secure.commerce.xara.com/), and the Xara Online purchase site secure.xaraonline.com. 
+
+Xara Group Ltd is 100% owned by Magix AG and references to Xara in this document should be taken to mean both Xara and Magix. 
 
 Information collected by order forms, registration forms, download forms, opt-in mailing list and surveys
 
