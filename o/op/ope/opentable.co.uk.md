@@ -1,8 +1,13 @@
-> *The following text is extracted and transformed from the opentable.co.uk privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229221829id_/http%3A//www.opentable.com/info/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opentable.co.uk privacy policy that was archived on 2007-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070603093656id_/http%3A//www.opentable.com/info/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Online Reservations Privacy Policy - OpenTable
 
+**Effective February, 2007**
+
 OpenTable, Inc. ("Opentable") and its affiliates (including OpenTable Europe Ltd., OpenTable KK and any other companies owned or operated by OpenTable **TM** ) are committed to safeguarding your privacy and upholding the highest levels of information security. To that end, the company adheres to the strictest consumer privacy guidelines and uses state-of-the-art security technology to protect any information you provide to and through OpenTable's websites, which include, [www.opentable.com](http://www.opentable.com/), [www.opentable.co.uk](http://www.opentable.co.uk/), [www.opentable.co.jp](http://www.opentable.co.jp/), and any other sites owned or operated by OpenTable (hereinafter referred to collectively as the "OpenTable Websites").
+
+  
+
 
 **About the OpenTable Network**
 
@@ -115,7 +120,7 @@ OpenTable uses a state-of-the-art multi-layer encryption algorithm and makes its
 
 **Changes to OpenTable's privacy policy:**
 
-Any changes to OpenTable's privacy policy will always be posted to this section of the website, along with the effective date of the new policy. All users should check this privacy policy page periodically to stay abreast of any such changes. OpenTable will **never** make changes to its privacy policy that violate any applicable privacy laws, including CAN-SPAM, Safe Harbor, PIPA, or other commercial privacy standards. 
+Any changes to OpenTable's privacy policy will always be posted to this section of the website, along with the effective date of the new policy. All users should check this privacy policy page periodically to stay abreast of any such changes. OpenTable will **never** make changes to its privacy policy that violate any applicable privacy laws, including CAN-SPAM, Safe Harbor, PIPA, or other commercial privacy standards. For any material changes to the privacy policy (in situations where OpenTable changes the manner in which we handle your personal information), we will notify you via email or by placing a prominent notice on the homepage of our website 
 
 **Disclosure, correction, suspension of use of personal information:**
 
@@ -125,7 +130,7 @@ If you wish to have OpenTable disclose to you the personal information held by O
 
 _**United States and Europe**_
 
-For questions regarding how to access and change your personal information, visit <http://opentable.custhelp.com/> or contact customer support at 1-800-OPENTABLE. 
+For questions regarding how to access and change your personal information, visit <http://www.opentable.com/contactuslink.aspx?faq=0> or contact customer support at 1-800-OPENTABLE. 
 
 For questions or opinions on OpenTable's privacy policy, contact OpenTable via email at [info@opentable.com](mailto:info@opentable.com) or by mail at: OpenTable, Attn: Legal Department, 799 Market Street 4th Floor, San Francisco, CA 94103. 
 
@@ -134,3 +139,7 @@ For questions or opinions on OpenTable's privacy policy, contact OpenTable via e
 For general inquiries regarding the website and how to access and change your personal information, contact OpenTable at [supportjapan@opentable.com](mailto:supportjapan@opentable.com). 
 
 For general questions regarding the handling of your personal information, contact OpenTable at [infojapan@opentable.com](mailto:infojapan@opentable.com). 
+
+**_BBB OnLine Privacy Program:_**
+
+Your privacy is important to us. By participating in the Council of Better Business Bureau’s BBBOnLine Privacy Program we have made a commitment to meet the program’s strict requirements regarding how we treat your information and have it verified by BBBOnLine. Further information about this program is available at [www.bbbonline.org](http://www.bbbonline.org/). All BBBOnLine Privacy Program participants are required to work with the program's dispute resolution process. The Privacy Program will only accept complaints regarding the misuse of personally identifiable information by a website operator. For more information about the Privacy Program dispute resolution process visit [www.bbbonline.org/privacy/dr.asp](http://www.bbbonline.org/privacy/dr.asp).
