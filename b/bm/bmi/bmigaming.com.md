@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmigaming.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113014433id_/http%3A//www.bmigaming.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmigaming.com privacy policy that was archived on 2007-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070604062436id_/http%3A//www.bmigaming.com/privacy.htm) for the most accurate reproduction.*
 
 # Website Privacy Policy Page | From BMI Gaming: 1-800-PINBALL
 
@@ -103,4 +103,4 @@
 
 [](http://www.bmigaming.com/mastergameselect.htm)
 
-** [](https://web.archive.org/web/20061113014433id_/http%3A//www.bmigaming.com/termsofaccess.htm)
+** [](https://web.archive.org/web/20070604062436id_/http%3A//www.bmigaming.com/termsofaccess.htm)
