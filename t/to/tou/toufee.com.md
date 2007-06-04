@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the toufee.com privacy policy that was archived on 2006-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061125181804id_/http%3A//www.toufee.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toufee.com privacy policy that was archived on 2007-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070604202319id_/http%3A//www.toufee.com/privacy.html) for the most accurate reproduction.*
 
-# Toufee - Get Started Right Now!
+# Toufee Flash Movies Privacy Policy
 
 Toufee.com is committed to customer service and strives to provide a private and secure browsing experience at our website. The following policy will help you to understand how we treat and use your personal information. As we continue to improve our site and services we may take advantage of developments in technology. When new technology is put in place, this policy is subject to change. 
 
