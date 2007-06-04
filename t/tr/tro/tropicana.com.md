@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tropicana.com privacy policy that was archived on 2006-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061109070116id_/http%3A//tropicana.com/TRP_PrivacyPolicy/index.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tropicana.com privacy policy that was archived on 2007-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070604022101id_/http%3A//www.tropicana.com/TRP_PrivacyPolicy/index.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,7 +11,6 @@ The Information We Collect
 The Way We Use Personal Information  
 Collection and Use of Other Information; Use of Cookies  
 With Whom We May Share Information  
-Manage Your Personal Information; Unsubscribe  
 Data Protection and Security  
 Collection of Personal Information from Children Under 13 Years Old  
 Important Note to Kids and Parents  
@@ -22,10 +21,10 @@ How to Contact Us
 Important Note Regarding U.S. Law
 
   
-By using our web sites, you signify that you agree with the terms of our current Privacy Policy as posted on our sites as well as the terms of our Terms and Conditions. If you do not agree with any term in this Policy or our Terms and Conditions, please do not use this site or provide any Personal Information to us. 
+By using our web sites, you signify that you agree with the terms of our current Privacy Policy as posted on our sites as well as our [Terms of Use](https://web.archive.org/TRP_TermsOfUse/index.cfm). If you do not agree with any term in this Policy or our Terms of Use, please do not use this site or provide any Personal Information to us.
 
   
-As used in this Privacy Policy, "Personal Information" means any information that is linked to your identity such as your name, street address, telephone number, screen name, age and/or email address. For information pertaining to Personal Information collected from children, click here. The site you entered may collect some or all of these types of Personal Information through a sweepstakes, contest, game, survey, questionnaire or promotion, or a registration form. Some of our web sites may require registration in order for you to participate in sweepstakes, games or other activities. Tropicana will not collect any Personal Information from your visits to our sites unless you provide your Personal Information to us voluntarily, and we will not require you to provide more information than is necessary to participate in our web sites' activities. We also do not collect financial or other sensitive data information about our users. 
+When you supply Personal Information at a Tropicana web site, we will use it for the purpose for which it was collected (e.g., to enter you in a sweepstakes or to fulfill the delivery of a sweepstakes prize or product order) in accordance with the terms of this Privacy Policy. We also use Personal Information to keep track of a user's activities on our sites, to improve our marketing and promotional efforts, to statistically analyze web site usage, to improve our web site features, design and content and to refine our marketing strategies. 
 
 When you provide us with Personal Information, you are authorizing us to use that information in accordance with the terms of this Privacy Policy, which includes your right to limit our use of your Personal Information as described in this Policy. 
 
@@ -55,17 +54,6 @@ Except as stated in this Privacy Policy, we do not sell, transfer or disclose yo
 We may release your Personal Information if required to do so by law, or by search warrant, subpoena or court order, or to a third party to which ownership of Tropicana is transferred via an acquisition, merger, sale of assets or otherwise. 
 
   
-You are ultimately in control of the Personal Information that we collect and use. We want to keep your data complete, up to date and accurate. Tropicana provides its users with the following options to manage their Personal Information that is in reasonably retrievable form in our database: 
-
-  * Send us an email: Go to the [Contact Us](https://web.archive.org/web/20061109070116id_/http%3A//tropicana.com/TRP_PrivacyPolicy/index.asp?ID=113) page of the web site and send us an email. Be sure to include your name, username and clear instructions regarding any change to your Personal Information or if you would like us to unsubscribe you from our database.   
-
-  * Send us mail or call us: Send us your request via the mail. Be sure to include your name, username and clear instructions regarding any change to your Personal Information or if you would like us to unsubscribe you from our database. Send to: Tropicana Products, Inc., P. O. Box 049003, Chicago, IL 60604-9003, or call us at 1(800) 237-7799. 
-
-
-
-In the event that a user unsubscribes from our database, we will retain a record of the Personal Information and the unsubscribe action for our internal records as evidence of the action and our compliance with this Privacy Policy. 
-
-  
 We take commercially reasonable precautions to keep your Personal Information secure. All access to the information we collect is subject to physical, electronic and managerial restrictions to prevent unauthorized access, modification or misuse. Notwithstanding the foregoing, we cannot guarantee the security of any information you disclose online, and you do so at your own risk. 
 
   
@@ -75,7 +63,7 @@ Tropicana and the www.tropicana.com web site have no intention of collecting any
 If you are 18 years of age or younger, please be sure to ask your parents for permission before providing any information to us. 
 
 **Parents:**  
-In communicating directly with minors over the Internet, we recognize the unique issues raised regarding the protection of your kids' privacy. The Children's Advertising Review Unit (CARU), a section of The Better Business Bureau, has issues guidelines for web sites gathering information from minors. The Quaker Oats Company intends to comply with the CARU guidelines in order to protect your kids and their privacy. 
+In communicating directly with minors over the Internet, we recognize the unique issues raised regarding the protection of your kids' privacy. The Children's Advertising Review Unit (CARU), a section of The Better Business Bureau, has issues guidelines for web sites gathering information from minors. Tropicana intends to comply with the CARU guidelines in order to protect your kids and their privacy. 
 
   
 Tropicana reserves the right to change or remove this Privacy Policy at our discretion. We will post any changes to this Policy or any new policy here and we encourage you to visit this area frequently to stay informed. If there is any material change in the type of information we collect or way in which we use such information, then we will obtain your permission before we make any such change. 
