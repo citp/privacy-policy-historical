@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justguys.net privacy policy that was archived on 2006-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060928162114id_/http%3A//justguys.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justguys.net privacy policy that was archived on 2007-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070604145405id_/http%3A//www.justguys.net/privacy.htm) for the most accurate reproduction.*
 
 # JustGuys.net Privacy Policy
 
@@ -24,7 +24,7 @@ A cookie is a piece of data stored on your hard drive that allows us to recogniz
 
 
 6\. Removing Your Profile   
-You have the option to remove your profile. Please note that this will remove your profile from our website, but will allow you to re-instate your profile for up to three months. After this time, your profile information will be permanently deleted from our systems. No data will remain on our systems with the exception of personal correspondence or support enquiries sent to us, which may be stored on file.  
+You have the option to remove your profile. Please note that this will remove your profile from our website, but will allow you to re-instate your profile for up to one month. After this time, your profile information will be permanently deleted from our systems. No data will remain on our systems with the exception of personal correspondence or support enquiries sent to us, which may be stored on file.  
 
 
 7\. Online Correspondence and Private Messages  
