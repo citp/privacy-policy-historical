@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessday.co.za privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618133739id_/http%3A//www.businessday.co.za/services/privacy.aspx%3FPage%3DBD4P61) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessday.co.za privacy policy that was archived on 2007-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070605003019id_/http%3A//www.businessday.co.za/services/privacy.aspx%3FPage%3DBD4P61) for the most accurate reproduction.*
 
 # Business Day - News Worth Knowing
 
@@ -13,7 +13,7 @@
 [ \- Markets](http://www.businessday.co.za/news/markets.aspx?Page=BD4P18&MenuItem=BD4P18)  
 [ \- Mining](http://www.businessday.co.za/news/mining.aspx?Page=BD4P7702&MenuItem=BD4P7702)  
 [ \- Sport](http://www.businessday.co.za/news/sports.aspx?Page=BD4P19&MenuItem=BD4P19)  
-[ \- Personal Finance](http://www.netassets.co.za/?MenuItem=s2)  
+[ \- Personal Finance](http://www.netassets.co.za/HomePage/home.asp)  
  Opinion & Analysis  
 [ \- Comment & Analysis](http://www.businessday.co.za/opinion/comment.aspx?Page=BD4P993&MenuItem=BD4P993)  
 [ \- The Bottom Line](http://www.businessday.co.za/opinion/bottomline.aspx?Page=BD4P25&MenuItem=BD4P25)  
@@ -21,15 +21,16 @@
    Leadership](http://www.businessday.co.za/specialist/ManagementAndLeadership.aspx?Page=BD4P87346&MenuItem=BD4P87346)  
  Classic Business Day  
 [ \- Transcripts](http://transcripts.businessday.co.za/?MenuItem=s0)  
-[ \- SME Scene](http://sasfin.businessday.co.za/?MenuItem=s1)  
 [ Special Reports ](http://www.businessday.co.za/specialreports/index.aspx?Page=BD4P29&MenuItem=BD4P29)  
 [ Arts & Leisure](http://www.businessday.co.za/news/leisure.aspx?Page=BD4P30&MenuItem=BD4P30)  
 [ \- The Tourist](http://www.businessday.co.za/specialist/tourist.aspx?Page=BD4P87023)  
-[ The Weekender](http://www.businessday.co.za/weekender/weekenderhome.aspx?Page=BD4P67770&MenuItem=BD4P67770)  
+[ The Weekender](http://www.businessday.co.za/weekender/weekender.aspx?Page=BD4P145080)  
   
   
 ---  
  Specialist Sections  
+[ \- The Golfer](http://www.businessday.co.za/specialist/golfer.aspx?Page=BD4P142549)  
+[ \- Management Review](http://www.businessday.co.za/specialist/management.aspx?Page=BD4P46&MenuItem=BD4P46)  
 [ \- Health News](http://www.businessday.co.za/specialist/healthnews.aspx?Page=BD4P93575)  
 [ \- SA Exporter](http://www.businessday.co.za/specialist/saexporter.aspx?Page=BD4P49&MenuItem=BD4P49)  
 [ \- Real Business](http://www.realbusiness.co.za/)  
@@ -44,11 +45,12 @@
  Site Tools   
 [  \- Search](http://www.businessday.co.za/search/index.aspx "Use our Advanced Search")  
 [  \- Contact Us](http://www.businessday.co.za/services/contact.aspx?Page=BD4P989 "Get out contact details")  
-[  \- Subscribe](http://subscribe.businessday.co.za/ "Subscribe to BusinessDay")  
+[  \- Subscribe](http://subscribe.businessday.co.za/default.aspx?product=BDAY "Subscribe to BusinessDay")  
 [  \- Newsletters](http://registration.businessday.co.za/ "Register for our Newsletters")  
 [  \- Advertise](http://www.businessday.co.za/services/advertise.aspx?Page=BD4P37987&MenuItem=BD4P37987 "Advertise on our site\(s\)")  
 [  \- Surveys](http://www.businessday.co.za/surveys/index.aspx?Page=BD4P48238&MenuItem=BD4P48238 "Online Surveys")  
 [  \- Online Courses](http://www.bmie.co.za/ "Online Courses")  
+  
 |  | 
 
 **BDFM Publishers - Privacy Policy** We respect and are committed to protecting your privacy. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the Web pages, newsletters, discussion lists and opt-in announcement lists owned and operated by the BDFM network. (The BDFM network includes Business Day, Financial Mail, Summit TV and FutureCompany)  **What information are you collecting and how are you collecting it?**
@@ -83,9 +85,15 @@ The BDFM network of Web sites contains many links to other Web sites. BDFM is no
 
 By using our Web site/s, you consent to the collection and use of information by BDFM as specified above, If we decide to change our privacy policy, we will post those changes so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
 
-|  |   
+|  | 
+
+[](http://www.bmie.co.za/ "Click here for information regarding our Online Courses")  
+  
 ---|---|---  
   
+  
+[](http://adsweb2.johncom.co.za/RealMedia/ads/click_nx.ads/www.businessday.co.za/Home/1373905596@Top,Left,Middle,Right,Right1,Right2,Right3,Bottom,x01,x02,x03,x04,x05,x06,x07,x08,x09,x10,Position1!Bottom?)
+
 * * *  
   
 ---  
