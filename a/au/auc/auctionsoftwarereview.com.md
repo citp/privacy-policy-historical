@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the auctionsoftwarereview.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208071447id_/http%3A//www.auctionsoftwarereview.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctionsoftwarereview.com privacy policy that was archived on 2007-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070604151544id_/http%3A//www.auctionsoftwarereview.com/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy at The Auction Software Review
+# Privacy Policy | The Auction Software Review
 
 ## Privacy Policy
 
@@ -30,7 +30,7 @@ The Auction Software Review will not sell, rent or otherwise disclose your perso
 ## Editing and Deleting Your Member Information
 
   * You may edit your member information at any time by going to the Profile page
-  * You may request deletion of your member details by [sending an email](https://web.archive.org/web/20061208071447id_/http%3A//www.auctionsoftwarereview.com/email.asp?subject=memberdelete) quoting the email address you registered with
+  * You may request deletion of your member details by [sending an email](https://web.archive.org/web/20070604151544id_/http%3A//www.auctionsoftwarereview.com/email.asp?subject=memberdelete) quoting the email address you registered with
 
 
 
