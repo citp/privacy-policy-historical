@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slideshare.net privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229063213id_/http%3A//slideshare.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slideshare.net privacy policy that was archived on 2007-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070604140428id_/http%3A//www.slideshare.net/privacy) for the most accurate reproduction.*
 
 # SlideShare » Index
 
@@ -30,7 +30,7 @@ We restrict access to personal information to our employees, contractors and age
 
 Please note that this privacy policy may change from time to time. We will not reduce your rights under this policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of policy changes).
 
-If you have any questions about this policy, please feel free to [contact us](https://web.archive.org/contact) or to write to us at:
+If you have any questions about this policy, please feel free to [contact us](https://web.archive.org/feedback) or to write to us at:
 
 **Jonathan Boutelle** ,   
 Principal, Uzanto Consulting LLC,   
