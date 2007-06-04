@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oodle.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208154730id_/http%3A//www.oodle.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oodle.com privacy policy that was archived on 2007-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070604061128id_/http%3A//www.oodle.com/info/privacy) for the most accurate reproduction.*
 
-# United States Oodle - Privacy Policy
+# Oodle Classifieds - Privacy Policy
 
 | 
 
@@ -29,7 +29,7 @@ Registration is required to place a listing through our service or to use other 
 
 Registered users may choose to receive a copy of our newsletter or receive other mailings from us regarding our service or the Sites. You may opt-out of receiving future mailings as part of the registration process. 
 
-You can review and change your Personally Identifiable Information or password at any time by going to our "My Oodle" page at [http://http://www.oodle.com/my/](https://web.archive.org/my/). 
+You can review and change your Personally Identifiable Information or password at any time by going to our "My Oodle" page at [http://www.oodle.com/my/](https://web.archive.org/my/). 
 
 ### Cookies
 
@@ -39,7 +39,7 @@ Like many web sites, Oodle uses a standard technology call "cookies." A cookie i
 
 In addition to Personally Identifiable you provide at registration or by using the service, we collect the following information: 
 
-  * Listings content. When you place a listing or a review on Oodle, we collect a variety of information related to that listing (e.g., price, model). The public will see any information that you include in your listing, and as such, Oodle has no control over how this information will be used. For that reason, please think carefully about what Personally Identifiable Information you disclose in your listing. You can always edit any of your listings at [http://http://www.oodle.com/my/](https://web.archive.org/my/).
+  * Listings content. When you place a listing or a review on Oodle, we collect a variety of information related to that listing (e.g., price, model). The public will see any information that you include in your listing, and as such, Oodle has no control over how this information will be used. For that reason, please think carefully about what Personally Identifiable Information you disclose in your listing. You can always edit any of your listings at [http://www.oodle.com/my/](https://web.archive.org/my/).
   * "Anonymous Information" such as your IP address, the type of browser you use, the pages on our Sites that you visit, the search terms that you enter and the advertisements that you click. This information is used to help us diagnose problems, administer the site and otherwise improve our service to you. 
   * Credit card information. Credit card information is collected but not stored. It is transmitted to a financial gateway using Secure Socket Layer (SSL) technology. 
 
