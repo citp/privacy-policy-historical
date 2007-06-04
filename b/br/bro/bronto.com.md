@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bronto.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206000625id_/http%3A//bronto.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bronto.com privacy policy that was archived on 2007-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070604063742id_/http%3A//bronto.com/terms/privacy) for the most accurate reproduction.*
 
 # Email Marketing Software from Bronto: Privacy Policy
 
@@ -18,7 +18,7 @@ Bronto is not an email list rental service and does not rent or sell any email a
 **E-mail and Direct Response Contact**   
 All of our direct response methods are opt-in. If you subscribed to our e-mail newsletter(s) but do not want to receive it in the future, please follow the "unsubscribe" instructions contained in the newsletter(s). 
 
-Free trial users will receive a series of automated emails alerting them to the status of the trial. Bronto representatives may contact free trial users to inquire about their experience. Should you not wish to receive any communication from Bronto, please email [unsubscribe@bronto.com](mailto:unsubscribe@bronto.com) from the email address you wish to besuppressed.
+Free trial users will receive a series of automated emails alerting them to the status of the trial. Bronto representatives may contact free trial users to inquire about their experience.
 
 **Postal Address Collection and Use**   
 If you supply us with your postal address on-line, we will use it to send you the information for which you provided us your address. If you supply us with your telephone number on-line, we will use it to contact you with information regarding your account, orders your have placed, or with information regarding your inquiry. We may send you information about additional services that we offer, but we will not rent or sell your contact information to any third parties without your permission. 
@@ -29,4 +29,4 @@ We, and some of our partners who provide some of the services and products on ou
 **Changes to Privacy Policy**   
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in this Privacy Policy notice. If our information practices change at some time in the future, we will post the policy changes to our Web site's Privacy Policy page to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site's Privacy Policy page periodically. 
 
-Last Updated: March 4, 2003 
+Last Updated: March 7, 2007 
