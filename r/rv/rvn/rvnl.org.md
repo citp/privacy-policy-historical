@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rvnl.org privacy policy that was archived on 2006-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060923221035id_/http%3A//www.rvnl.org/others/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rvnl.org privacy policy that was archived on 2007-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070604134435id_/http%3A//www.rvnl.org/others/privacy_policy.php) for the most accurate reproduction.*
 
 # About RVNL
 
