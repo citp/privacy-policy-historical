@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the trade2win.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230185251id_/http%3A//www.trade2win.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trade2win.com privacy policy that was archived on 2007-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070604071923id_/http%3A//www.trade2win.com/info/privacy.php) for the most accurate reproduction.*
 
 # T2W Trading Community
 
-**Privacy Policy**
+## Privacy Policy
 
 **What do we do with the information we collect?**  
 When you register with Trade2win, we will collect information from you, including your chosen nickname and e-mail address. We also monitor customer traffic patterns. 
@@ -15,3 +15,8 @@ We will NOT pass the information we collect about you to any third parties.
 
 **What about "cookies"?**  
 "Cookies" are small pieces of information that are stored on your computer's hard drive by your browser. These allow us to store your details and provide features to make your use of the Service easier. Most browsers allow the cookie function to be turned off. If you want to know how to do this please look at the help menu on your browser. 
+
+  
+
+
+Copyright © 2001-2007 Trade2Win Ltd[.](https://web.archive.org/boards/archive)
