@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the transworldnews.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216014558id_/http%3A//www.transworldnews.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transworldnews.com privacy policy that was archived on 2007-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070604104024id_/http%3A//transworldnews.com/privacy.aspx) for the most accurate reproduction.*
 
-# TransWorldNews - www.transworldnews.com/privacy.aspx
+# News and Press release service TransWorldnews
 
 The privacy policy and statement below cover all websites owned and operated by TransWorldNews, Inc. ("TransWorldNews"). 
 
