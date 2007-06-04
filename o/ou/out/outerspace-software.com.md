@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outerspace-software.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111034952id_/http%3A//www.outerspace-software.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outerspace-software.com privacy policy that was archived on 2007-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070604121714id_/http%3A//www.outerspace-software.com/privacy.html) for the most accurate reproduction.*
 
 # Outerspace Software: Realtime 3D Video Titling and VJ Effects - Privacy Policy
 
