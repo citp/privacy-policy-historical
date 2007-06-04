@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hornymatches.com privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229074305id_/http%3A//www.hornymatches.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hornymatches.com privacy policy that was archived on 2007-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070604162238id_/http%3A//www.hornymatches.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
