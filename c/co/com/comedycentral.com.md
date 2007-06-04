@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comedycentral.com privacy policy that was archived on 2006-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061130124715id_/http%3A//www.comedycentral.com/help/privacy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comedycentral.com privacy policy that was archived on 2007-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070604204003id_/http%3A//www.comedycentral.com/help/privacy.jhtml) for the most accurate reproduction.*
 
 # Comedy Central:
 
@@ -184,8 +184,8 @@ We reserve the right to deny access of a user account or Site features or activi
 **Sole Statement:** This document is the sole statement of ComedyCentral.com's Privacy Policy with respect to this Site, and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, without limitation, machine-generated, is valid.  
 
 
-This Privacy Policy was last modified on October 31, 2006 and is effective immediately.  
+This Privacy Policy was last modified on May 11, 2007 and is effective immediately.  
 
 
-Copyright © MTV Networks, a division of Viacom International Inc. 2006 - All Rights Reserved. Comedy Central is a registered trademark of Comedy Partners.  
+Copyright © MTV Networks, a division of Viacom International Inc. 2007 - All Rights Reserved. Comedy Central is a registered trademark of Comedy Partners.  
 
