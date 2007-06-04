@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingmag.com.au privacy policy that was archived on 2006-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060820233116id_/http%3A//marketingmag.com.au/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D15%26Itemid%3D31) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingmag.com.au privacy policy that was archived on 2007-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070604040457id_/http%3A//www.marketingmag.com.au/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D15%26Itemid%3D31) for the most accurate reproduction.*
 
 # Marketing Magazine - PRIVACY POLICY
 
@@ -104,7 +104,7 @@ Niche Media cannot take responsibility for the privacy policies, conduct or qual
 
 ##### Questions or concerns
 
-Please [email us](https://web.archive.org/web/20060820233116id_/http%3A//marketingmag.com.au/general_enquiry.asp) if you have any further questions or concerns about your privacy, and our conduct online.
+Please [email us](https://web.archive.org/web/20070604040457id_/http%3A//www.marketingmag.com.au/general_enquiry.asp) if you have any further questions or concerns about your privacy, and our conduct online.
 
   
 
