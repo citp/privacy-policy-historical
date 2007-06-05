@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the aladdin.com privacy policy that was archived on 2006-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061206032642id_/http%3A//www.aladdin.com/about/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aladdin.com privacy policy that was archived on 2007-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070605040144id_/http%3A//aladdin.com/about/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <title>Aladdin Security Portal:  Aladdin Privacy Statement</title>
@@ -10,10 +10,65 @@
 
 
 <link rel="stylesheet" type="text/css" href="/private/stylesheets/Style.css">
+<!--[if IE 6]>
+<link rel="stylesheet" type="text/css" href="/private/stylesheets/Style_exp6.css">
+<![endif]-->
 <link rel="stylesheet" type="text/css" href="/private/stylesheets/main.css">
 
+<!--Aladdin code for saving the HBX Tag for 30 days in order to identify the campaigns-->
+<script type="text/javascript" language="javascript">
+function setCookie(c_name,value,expiredays)
+{
+	var exdate=new Date();
+	exdate.setDate(exdate.getDate()+expiredays);
+	document.cookie=c_name+ "=" +value+
+	((expiredays==null) ? "" : ";expires="+exdate.toGMTString())+";path=/";
 
 
+}
+function getCookie(c_name)
+{
+if (document.cookie.length>0)
+  {
+  c_start=document.cookie.indexOf(c_name)
+  if (c_start!=-1)
+    { 
+    c_start=c_start + c_name.length+1 
+    c_end=document.cookie.indexOf(";",c_start)
+    if (c_end==-1)
+		{
+		 c_end=document.cookie.length
+		}
+    return document.cookie.substring(c_start,c_end)
+    } 
+  }
+return ""
+}
+function checkCookie()
+{
+	AladdinCookie = getCookie("CookieAladdinTag");
+	if (AladdinCookie==null || AladdinCookie=="")
+		{
+			CookieAladdinURL = window.location.href;
+			CookieAladdinURL = CookieAladdinURL.toUpperCase();
+			CookieEnd=CookieAladdinURL.length;
+			CookieStart=CookieAladdinURL.indexOf("CID=")+4;
+			CookieLength=CookieEnd-CookieStart;
+			if (CookieStart>3)
+				{
+				CookieValue=CookieAladdinURL.substr(CookieStart,CookieLength);
+				expiredays=30;
+				c_name = "CookieAladdinTag";
+				AladdinD=new Date();
+				value=CookieValue;
+				setCookie(c_name,value,expiredays);
+				}
+			else
+				CookieValue="";
+		  }
+}
+checkCookie();
+</script>
 <!--WEBSIDESTORY CODE HBX1.0 (Universal)-->
 <!--COPYRIGHT 1997-2004 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No.6,393,479B1 & 6,766,370. INFO:http://websidestory.com/privacy-->
 <script type="text/javascript" language="javascript">
@@ -179,7 +234,7 @@ urchinTracker();
 		</div>
 				<br><br>
 	
-<a href="/news/2006/index.asp" class="left_side"><img alt="" src="/images/arrow_gray-right.gif" width="6" height="7" border="0"> Press Releases</a><br>
+<a href="/news/2007/index.asp" class="left_side"><img alt="" src="/images/arrow_gray-right.gif" width="6" height="7" border="0"> Press Releases</a><br>
 <div class="left_sideDivider"><img alt="" src="/images/spacer-white.gif" width="120" height="1" border="0"></div>	
 <span style="font-size: 9px; margin-left: 8px"> Aladdin in the News</span>
 <div class="right_sideDivider"><img alt="" src="/images/spacer.gif" width="120" height="1" border="0"></div>
@@ -188,6 +243,8 @@ urchinTracker();
 <a href="/about/press/esafe.asp" class="left_side"><img alt="" src="/images/arrow_gray-right.gif" width="6" height="7" border="0"> eSafe</a><br>	
 <div class="right_sideDivider"><img alt="" src="/images/spacer.gif" width="120" height="1" border="0"></div>
 <a href="/about/press/etoken.asp" class="left_side"><img alt="" src="/images/arrow_gray-right.gif" width="6" height="7" border="0"> eToken</a><br>	
+<div class="right_sideDivider"><img alt="" src="/images/spacer.gif" width="120" height="1" border="0"></div>
+<a href="/about/press/corporate.asp" class="left_side"><img alt="" src="/images/arrow_gray-right.gif" width="6" height="7" border="0"> Corporate</a><br>	
 <div class="right_sideDivider"><img alt="" src="/images/spacer.gif" width="120" height="1" border="0"></div>
 
 <div class="left_sideDivider"><img alt="" src="/images/spacer-white.gif" width="120" height="1" border="0"></div>	
@@ -331,7 +388,7 @@ at <a href="mailto:webmaster@aladdin.com">webmaster@aladdin.com</a>.
 		<tr>
 	<td colspan="2" align="right" bgcolor="#ffffff">
 		
-	<div style="BORDER-LEFT: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid">				
+	<div class="footer-border">				
 				<table border="0" cellspacing="0" cellpadding="0" width="100%">
 					<tbody><tr><td width="133" valign="top" style="background-image:URL(/images/left/left_bg.gif); width: 133px"><img src="/images/spacer.gif" width="133" height="1" border="0"></td>
 						<td nowrap="" align="right" width="637">
@@ -345,12 +402,17 @@ at <a href="mailto:webmaster@aladdin.com">webmaster@aladdin.com</a>.
 									<a href="/about/privacy.asp" class="footer">
 									Privacy Statement</a> 
 									</td>
-									<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>	
+									<td>&nbsp;&nbsp;</td>	
 									<td nowrap="">						
 									<a href="/about/Terms.asp" class="footer">
 									Terms &amp; Conditions</a> 
 									</td>
-									<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>		
+									<td>&nbsp;&nbsp;</td>		
+									<td nowrap="">
+									<a href="/about/contact.asp" class="footer">
+									Contact Us</a> 
+									</td>
+									<td>&nbsp;&nbsp;</td>		
 									<td nowrap="">
 									<span class="footer">
 									© Aladdin Knowledge Systems Ltd. 1985-
