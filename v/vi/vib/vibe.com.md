@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the vibe.com privacy policy that was archived on 2006-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061221105738id_/http%3A//www.vibe.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vibe.com privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606010050id_/http%3A//www.vibe.com/about/privacy) for the most accurate reproduction.*
 
 # VIBE.com: Privacy Policy
 
-## Privacy Policy
-
-June 22, 2005
+Privacy Policy  
+POSTED: 19:47 EST, January 11, 2005
 
 ## PRIVACY POLICY
 
@@ -14,15 +13,7 @@ We respect your privacy. Any information you give us is held with the utmost car
 
 We collect personally identifying information such as your name, age and e-mail address during registration for certain portions of sites in which guests participate in interactive online activities (e.g., surveys, chat rooms, games, or bulletin boards). In addition, information is collected should you choose to purchase an item from an online store hosted on our site. As described below, we may use such information to fulfill prizes, track customer usage of the sites or for promotional and marketing purposes.
 
-**Policies for Minors** The safety of children online is very important to us. We encourage parents to spend time online with their children and to review the sites accessed by their children.
-
-Children should always ask parents for permission before sending any personal information online. No information should be submitted to or posted at the our site by any Minor (a guest under 18 years of age), without the consent of their parent or guardian.
-
-Unless otherwise disclosed during collection, we do not provide any personally identifying information of Minors, regardless of its source, to any third party for any purpose whatsoever. No personally identifying information collected from Minors is used for any marketing or promotional purposes whatsoever.
-
-All registrants receive e-mail confirming their Registration. In addition, when a Minor registers, his/her parent or guardian receives an e-mail alerting them to that Registration and providing instructions on how the parent could delete the Registration if so desired.
-
-Although Minors are allowed to participate in contests, if such a guest wins, notification and prizes are sent to the parents or guardians.
+**Policies for Minors** The safety of children online is very important to us. We encourage parents to spend time online with their children and to review the sites accessed by their children. Children should always ask parents for permission before sending any personal information online. No information should be submitted to or posted at the our site by any Minor (a guest under 18 years of age), without the consent of their parent or guardian. Unless otherwise disclosed during collection, we do not provide any personally identifying information of Minors, regardless of its source, to any third party for any purpose whatsoever. No personally identifying information collected from Minors is used for any marketing or promotional purposes whatsoever.
 
 **Policies for Adult Guests** For guests over 18 years of age, we collect personal information in order to provide you with a personalized online experience and to provide our advertisers a way to reach the right audience. We will not use your personal information except as described in this privacy policy or as disclosed at the time of collection of the information.
 
@@ -56,46 +47,4 @@ We reserve the right, at our discretion, to change, modify, add, or remove porti
 
 **Mobile Vibe & Text Message Alerts** A cell phone number is only required if you want Mobile Vibe messages such as news alerts sent to your mobile phone. You may register for these alerts here. As with your other Personal Information, we use your cell phone number only for the purposes of delivering those Mobile Vibe services to which you have opted-in. At opt-in, we also may ask for optional General Information, including your age and gender. You are not required to give us this information to receive text message alerts. If you would like to stop receiving text message alerts, simply reply to any alert with the word QUIT, or send an email with your mobile number and a request to be unsubscribed from the service to [mobile@vibe.com](mailto:mobile@vibe.com).
 
-* * *
-
-## Comments:
-
-webcam strip
-
-webcam strip snb webcam strip sex cams snb sex cams girl webcam snb girl webcam strip webcam snb strip webcam sex cams snb sex cams girl webcam snb girl webcam webcam girls snb webcam girls webcam girl snb webcam girl
-
-December 10, 2006, 8:37 am
-
-* * *
-
-work at home
-
-work at home qqq work at home home based business opportunity qqq home based business opportunity home based businesses qqq home based businesses work at home qqq work at home work from home qqq work from home internet work at home jobs qqq internet work at home jobs home based business qqq home based business home based internet businesses qqq home based internet businesses 
-
-December 17, 2006, 3:14 pm
-
-* * *
-
-paul
-
-how are u.i luv ur bum
-
-December 18, 2006, 10:46 am
-
-* * *
-
-ali khan
-
-i want you to put me on v-list. thank you.
-
-December 19, 2006, 4:32 am
-
-* * *
-
-peter duah
-
-i want you to put me on the v-list
-
-December 20, 2006, 5:45 am
-
-* * *
+[](https://web.archive.org/newsletter/subscribe.html "Daily VIBE")
