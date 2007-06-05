@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the inmarsat.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213200100id_/http%3A//about.inmarsat.com/privacy.aspx%3Flanguage%3DEN%26textonly%3DFalse) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inmarsat.com privacy policy that was archived on 2007-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070605073252id_/http%3A//about.inmarsat.com/privacy.aspx%3Flanguage%3DEN%26textonly%3DFalse) for the most accurate reproduction.*
 
 # Privacy Note
 
 **Inmarsat Global Limited**  
  **Privacy practices on the web**
 
-Your privacy is important to Inmarsat. This privacy statement discloses the personal information practices for the Inmarsat Gloabl Limited website. 
+Your privacy is important to Inmarsat. This privacy statement discloses the personal information practices for the Inmarsat Global Limited website. 
 
 In general, you can visit our website home page and browse our site without telling us who you are and without revealing any information about yourself. 
 
