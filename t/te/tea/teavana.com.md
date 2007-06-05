@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teavana.com privacy policy that was archived on 2006-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061130075741id_/http%3A//www.teavana.com/c%3Dprivacy_policy/shop.axd/Static) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teavana.com privacy policy that was archived on 2007-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070605054036id_/http%3A//www.teavana.com/c%3Dprivacy_policy/shop.axd/Static) for the most accurate reproduction.*
 
 # Teavana.com - A Heaven of Tea
 
@@ -21,7 +21,7 @@ We treat all customer information to be personal and confidential, including ord
 4\. Participation in a sweepstakes (if entered)  
 
 
-At any time, you may review or update your personally identifiable information that we collect online and maintain by calling us toll free at XXXXXXXXXX or at XXXXXXXXXX. To protect the security and integrity of your information, we will also verify your identify before granting access or making corrections. You can at any time opt out of receiving product updates from Teavana.com or request your individual information we have collected from you by e-mailing us at privacy@teavana.com. One of our representatives will contact you to verify your identity.
+At any time, you may review or update your personally identifiable information that we collect online and maintain by calling us toll free at 1-877-DRINKTEA (374-6583). To protect the security and integrity of your information, we will also verify your identify before granting access or making corrections. You can at any time opt out of receiving product updates from Teavana.com or request your individual information we have collected from you by e-mailing us at privacy@teavana.com. One of our representatives will contact you to verify your identity.
 
 **Is it Safe to Order by Credit Card?**  
-Yes. So safe we guarantee it. Click here to find out more.
+Yes. So safe we guarantee it. [Find out more.](http://www.teavana.com/c=website_security/shop.axd/Static)
