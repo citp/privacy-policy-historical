@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fool.co.uk privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215082506id_/http%3A//www.fool.co.uk/Community/Register/PrivacyStatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fool.co.uk privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606005927id_/http%3A//www.fool.co.uk/Community/Register/PrivacyStatement.htm) for the most accurate reproduction.*
 
 # The Motley Fool UK: Privacy and Cookie Statement
 
@@ -13,6 +13,8 @@ The Motley Fool Limited takes the issue of privacy very seriously and we are com
   * **Information We Automatically Track:** While on our site, we automatically log certain information about how you're using our site. This information may include the URL that you just came from, your IP address and the pages you visit while on our site.
 
 If your browser is set up to accept them, we also use a feature known as a "[cookie](https://web.archive.org/community/login/cookies.htm)." Cookies contain bits of information that Web sites transfer to your computer's hard drive for record keeping purposes. Cookies can make the Web more useful by storing information about your preferences on a particular site such as ours.
+
+The Motley Fool may place a pixel on pages on our site, or those of our advertisers and partners. This enables us to record in our server logs that a specific user id has visited a particular page. This data allows us to analyse and determine our audience's behavioural characteristics, which helps us to optimise our site, advertisement placement, and marketing focus. Only anonymous, non-Personally Identifiable Information is collected, and it cannot, by itself or in combination, be tracked to a specific individual.
 
 
 
@@ -33,7 +35,7 @@ The information outlined above is processed and stored in the United States of A
 
 ## Our Use of This Information
 
-  * **More Customized Service:** The Motley Fool collects personal information to provide you, the user, with the best and most personalised Web experience possible and to provide our advertisers with an efficient means to reach the right audience. In short, by knowing a little about you, The Motley Fool can deliver more relevant content and advertisements to you while at our Web site and thus, provide you with a more efficient, customise and seamless experience when using our service.
+  * **More Customised Service:** The Motley Fool collects personal information to provide you, the user, with the best and most personalised Web experience possible and to provide our advertisers with an efficient means to reach the right audience. In short, by knowing a little about you, The Motley Fool can deliver more relevant content and advertisements to you while at our Web site and thus, provide you with a more efficient, customise and seamless experience when using our service.
   * **Internal Research:** Cookies and the other information we automatically track are used to help us better understand how our audience uses our site as well as for internal research on users' demographics and interests. Each browser accessing The Motley Fool is given a unique cookie which is then used to determine usage patterns, and to help in targeting content and ads based on user interests.
   * **To Confirm Your Registration and Contact You:** Once you've registered, we will send you a confirmation email acknowledging your new account to the address that you supplied us. We may subsequently email you about our various products and services, or other products and services we feel may interest you. If you'd rather not receive these subsequent communications, let us know on our [never mail](https://web.archive.org/account/freemailsubscribe.aspx) page.
 
@@ -64,7 +66,7 @@ The Motley Fool is committed to protecting your personal information. All inform
 
 ## Direct Mailings
 
-If you register with The Motley Fool or sign up for or buy any of our products or services, we will send you information about our various products and services, or other products and services we feel may interest you. Only The Motley Fool will send you these notices. If you do not want to receive such offers and mailings, you can let us know on our [Email Unsubscribe page](http://www.fool.co.uk/account/freemailsubscribe.aspx), or via email to [UK Privacy](mailto:ukprivacy@fool.co.uk) or send snail mail to: Privacy at The Motley Fool, 2nd Floor, Lasenby House, 32 Kingly Street, London W1B 5QQ. We'll remove your name from our lists as soon as we can. Another way is to simply to click the [unsubscribe link](http://www.fool.co.uk/account/freemailsubscribe.aspx) found in our email messages.
+If you register with The Motley Fool or sign up for or buy any of our products or services, we will send you information about our various products and services, or other products and services we feel may interest you. Only The Motley Fool will send you these notices. If you do not want to receive such offers and mailings, you can let us know on our [Email Unsubscribe page](http://www.fool.co.uk/account/freemailsubscribe.aspx), or via email to [UK Privacy](mailto:ukprivacy@fool.co.uk) or send snail mail to: Privacy at The Motley Fool, 2nd Floor, Golden House, 30 Great Pulteney Street, London W1F 9LT. We'll remove your name from our lists as soon as we can. Another way is to simply to click the [unsubscribe link](http://www.fool.co.uk/account/freemailsubscribe.aspx) found in our email messages.
 
 ## Deactivating Your Account or Editing Your Information
 
