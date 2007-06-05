@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the starsearchcasting.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209223203id_/http%3A//www.starsearchcasting.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starsearchcasting.com privacy policy that was archived on 2007-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070605235740id_/http%3A//www.starsearchcasting.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Call Casting, Model Search, Casting Director, Casting Agent, Singers, fashion model, Modeling agency, swimsuit model, glamour model, child model
+# Talent Search, Star search, Agencies, acting agent, Hollywood actress, entertainment personal, voice talent, non nude teen model
 
 |  |  [Member Success Stories](https://web.archive.org/testimonials.php) |   
 ---|---|---  
