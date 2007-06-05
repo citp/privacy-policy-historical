@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the doba.com privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224221606id_/http%3A//www.doba.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doba.com privacy policy that was archived on 2007-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070605204431id_/http%3A//doba.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Doba
 
-Please take a minute to read the following policy so you understand how we use the personal information we ask you to submit. As we update and expand our services, this policy may change, so please refer back to it periodically. If you use any of Doba's services, you agree to these terms.
+This Privacy Policy was last updated on March 1, 2007. If you have not reviewed it since that date, please do so. You will not receive any other notice of changes to this statement.
+
+Please take a minute to read the following policy so you understand how we use the personal information we ask you to submit. If you use any of Doba's services, you agree to these terms.
 
 ### Our commitment to privacy
 
@@ -10,7 +12,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 ### The information we collect
 
-This notice applies to all information collected or submitted on the Doba website. On some pages, you can order memberships, order products, make requests, and register to receive materials. The types of personal information collected at these pages are: 
+This notice applies to all information collected or submitted on the Doba website. On some pages, you can order memberships, order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
 
   * Name
   * Billing address
@@ -27,13 +29,17 @@ This notice applies to all information collected or submitted on the Doba websit
   
 ---|---  
   
-On some pages, you can submit information about other people. For example, if you order a product and want it drop shipped directly to your customer, you will need to submit their address. In this circumstance, the types of personal information collected are: 
+On some pages, you can submit information about other people. For example, if you order a product and want it drop shipped directly to your customer, you will need to submit their address. In this circumstance, the types of personal information collected are:
 
 ### How we use information
 
+The primary use of your personal information, other than directly in connection with a purchase, is to efficiently provide you with personalized, relevant information.
+
+We also use registration information to let you know about new features or other offers of interest from us and to address customer service needs and requests.
+
   * Cookies
 
-A cookie is a piece of data stored on the user's computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions.
+Contrary to popular myth, cookies do not extract private or personal information from your computer's memory, but rather, record only information you volunteer to us upon registering or visiting the site. Cookies are tiny files placed onto the hard drive of your computer when you register at our Web site that enable our server to recognize or "remember" who you are each time you return. Cookies can be removed by following Internet browser help file directions.
 
   * Log files
 
@@ -42,7 +48,7 @@ Like most standard website servers we use log files. This includes Internet prot
 
 
 
-### Communications from the site
+### Communications from Doba
 
   * Special offers and updates
 
@@ -60,41 +66,41 @@ On rare occasions it is necessary to send out a strictly service-related announc
 
 We communicate with users on a regular basis to provide requested services and in regard to issues relating to their account we reply via email or phone, in accordance with the user's wishes.
 
+  * Other
+
+During the registration process, we collect phone information so that we may call you for the purpose of preventing fraud during the ordering process of Doba products. We also will call you during the first several weeks of your trial or service to provide answers to any questions as well as to offer additional promotions only available via phone. After the first several weeks of your trial or service, we may periodically contact you for the purposes of improving our services via surveys as well as to offer additional promotions.
 
 
 
-### Communications from the company
-
-During the registration process, we collect phone information so that we may call you for the purpose of preventing fraud during the ordering process of Doba products. We also will call you during the first several weeks of your trial or service to provide answers to any questions as well as to offer additional promotions only available via phone. After the first several weeks of your trial or service, we may periodically contact you including to call for the purposes of improving our services via surveys as well as to offer additional promotions.
 
 ### Sharing—Third parties
 
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our website. We use the information you provide about your customers when placing a drop shipment order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. At times, we do release information about our customers to third party partners for marketing of offers we feel will benefit our members. This information includes customer name, phone number and e-mail address. We never release credit card information or information about purchases and buying habits. Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
+Doba will not disclose your personal information provided in connection with membership registration or purchases, except with your knowledge and consent as described in this Privacy Policy or as may be required by law, or to protect the rights or property of Doba.
+
+Information submitted by you online (such as information about products you purchase from us, your name, address, email address) may be shared with companies with which we have a commercial relationship and through which you reached Doba, for marketing purposes. For example, if you make a purchase with us because of a special offer made through another site acting as a distributor of our products, in that circumstance you will be considered their customer as well. We will not, except as may be required by law, share with any other party your password or payment information.
+
+We reserve the right to disclose aggregated user statistics, such as "45% of our users are female" in order to describe our services to prospective partners, advertisers, and other third parties. Under protection of confidentiality agreements, Doba may match common user information, such as name, address and phone number with third party data to avoid duplication and prevent errors.
 
 ### Our commitment to data security
 
-This website takes every precaution to protect our users' information. When users submit sensitive information via the website, their information is protected both online and off-line.
+Doba takes every precaution to protect our users' information. When users submit sensitive information via the website, their information is protected both online and off-line.
 
-When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just “surfing.”
+When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just "surfing."
 
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users' information is protected. Finally, the servers that store personally identifiable information are in a secure environment, behind a locked cage in a locked facility.
+While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Finally, the servers that store personally identifiable information are in a secure environment, behind a locked cage in a locked facility.
 
 If users have any questions about the security at our website, users can send an email to [support@doba.com](mailto:support@doba.com).
 
-### Our commitment to children’s privacy
+### Our commitment to children's privacy
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
 ### How you can access or correct your information
 
-You can access all your personally identifiable information that we collect online and maintain by logging into your account and visiting the Account Info section of your Member's Only Area. We use this procedure to better safeguard your information.
-
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
-
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+You can access your personally identifiable information collected by Doba by logging into your account and visiting the "My Account" section of the website. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
 ### How to contact us
 
 Should you have other questions or concerns about these privacy policies, please call us at 877-321-DOBA or send us an email at [support@doba.com](mailto:support@doba.com).
 
-Last updated October 18, 2006
+Last updated March 1, 2007
