@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wajas.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217171416id_/http%3A//www.wajas.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wajas.com privacy policy that was archived on 2007-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070605085718id_/http%3A//wajas.com/privacy.php) for the most accurate reproduction.*
 
 # Waja 000 Madness!
 
@@ -22,7 +22,3 @@ Wajas guarantees that your privacy will be protected and should we ask that you 
 Many links may be found within our site so note that when you click the link and leave Wajas, we have no control over that site. We cannot be held responsible for any content, or information you provide to another site as it has no connection to Wajas and, there for, might not follow our Privacy Statement or Rules. 
 
 Wajas may change this privacy policy any time in the future, so please check it frequently. _This policy is effective from **November 21, 2006**._
-
-* * *
-
-* * *
