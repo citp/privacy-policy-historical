@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bigstring.com privacy policy that was archived on 2006-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061222213228id_/http%3A//www.bigstring.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigstring.com privacy policy that was archived on 2007-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070605024519id_/http%3A//bigstring.com/pages/privacy_policy.php) for the most accurate reproduction.*
 
-# BigString.com World's Coolest Email!
+# BigString 2.0 "The World's Coolest Email"
 
 [](http://www.truste.org/ivalidate.php?url=www.bigstring.com&sealid=101)
 
