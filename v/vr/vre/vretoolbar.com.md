@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vretoolbar.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216144523id_/http%3A//www.vretoolbar.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vretoolbar.com privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606013432id_/http%3A//www.vretoolbar.com/privacy.php) for the most accurate reproduction.*
 
 # VRE Toolbar Privacy Notice
 
@@ -8,12 +8,7 @@
 
 |   
 ---|---  
-[
-
-Over 100 Niche Content Website Tools At Your Fingertips!
-
-](https://web.archive.org/)
-
+  
 [](http://www.filedudes.com/vre_toolbar-download-41376.html "VRE Toolbar Award")
 
 June 11, 2006
@@ -34,4 +29,4 @@ We use log information about aggregate, non-personal Toolbar usage to improve th
 
 **More information**
 
-If you have additional questions, please [contact us](https://web.archive.org/web/20061216144523id_/http%3A//www.vretoolbar.com/feedback.php) any time.
+If you have additional questions, please [contact us](https://web.archive.org/web/20070606013432id_/http%3A//www.vretoolbar.com/feedback.php) any time.
