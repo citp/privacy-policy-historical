@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the brainshark.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205223758id_/http%3A//presentation.brainshark.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainshark.com privacy policy that was archived on 2007-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070605031753id_/http%3A//presentation.brainshark.com/privacy.asp) for the most accurate reproduction.*
 
-# Brainshark -- Create, manage, and share on-demand presentations
+# Sales Training and Lead Generation with On-Demand Business Communications
+
+##  Your privacy is important to us 
 
 Copyright© 2006 Brainshark, Inc. All rights reserved.
 
@@ -48,12 +50,3 @@ This site contains links to other sites controlled by third parties. Brainshark,
 
 **Contact Us**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, please contact: [info@brainshark.com](mailto:info@brainshark.com).
-
-|  |  |  |  |  |  |   
----|---|---|---|---  
-[](https://web.archive.org/forward/index.asp?url=)  
-|  |  |  |   
-| Get Started  
-|  |  | Call Brainshark Sales at: 866-276-7427 |   
-| [](https://web.archive.org/company/contact.asp) |  | Have a solutions expert contact me |   
-| [](http://inter.viewcentral.com/events/cust/search_results.asp?cid=brainshark&pid=2&event_type=demo) |  | Register for a live demo | 
