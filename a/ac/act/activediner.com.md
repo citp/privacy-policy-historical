@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the activediner.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205205011id_/http%3A//activediner.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activediner.com privacy policy that was archived on 2007-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070605222001id_/http%3A//activediner.com/privacy.cfm) for the most accurate reproduction.*
 
-# Privacy Statement
+# ActiveDiner.com© Privacy Statement
 
   
 
 
-> ##  Privacy Statement for ActiveDiner 
-> 
 > **ActiveDiner** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ ActiveDiner ](http://www.activediner.com/)
 > 
 > ####  Information Automatically Logged 
@@ -42,8 +40,8 @@
 > 
 > ####  Choice/Opt-Out 
 > 
-> Our site provides users the opportunity to opt-out of receiving promotional/marketing information from our partners.  You can contact us [here](https://web.archive.org/web/20061205205011id_/http%3A//activediner.com/contactform.cfm). 
+> Our site provides users the opportunity to opt-out of receiving promotional/marketing information from our partners.  You can contact us [here](https://web.archive.org/web/20070605222001id_/http%3A//activediner.com/contactform.cfm). 
 > 
 > ##  Contacting the Web Site 
 > 
-> If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us [here](https://web.archive.org/web/20061205205011id_/http%3A//activediner.com/contactform.cfm). 
+> If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us [here](https://web.archive.org/web/20070605222001id_/http%3A//activediner.com/contactform.cfm). 
