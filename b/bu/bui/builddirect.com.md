@@ -1,15 +1,10 @@
-> *The following text is extracted and transformed from the builddirect.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205213212id_/http%3A//www.builddirect.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the builddirect.com privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606003239id_/http%3A//www.builddirect.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # BuildDirect - Privacy Policy
 
-  | 
-
-**APPLICATION OF THIS POLICY**
-
-BuildDirect.com Technologies ("BuildDirect") recognizes the importance of privacy and the sensitivity of Personal Information (as defined below). BuildDirect believes in protecting your privacy. This policy outlines how we manage your Personal Information and safeguard your privacy. 
-
-By providing Personal information to us, you agree to the terms of this policy. However, we are committed to continuous improvement and value your input. We welcome your comments and/or suggestions on improving this policy. If you have any concerns, please write to our Privacy Officer at the address in this policy under the caption "Need More Information?". 
-
+**APPLICATION OF THIS POLICY**   
+BuildDirect.com Technologies ("BuildDirect") recognizes the importance of privacy and the sensitivity of Personal Information (as defined below). BuildDirect believes in protecting your privacy. This policy outlines how we manage your Personal Information and safeguard your privacy.   
+By providing Personal information to us, you agree to the terms of this policy. However, we are committed to continuous improvement and value your input. We welcome your comments and/or suggestions on improving this policy. If you have any concerns, please write to our Privacy Officer at the address in this policy under the caption "Need More Information?"   
 This policy does not apply to the practices of companies or other entities that BuildDirect does not manage or control. This policy does not apply to information regarding corporations or other non-individuals. 
 
 **DEFINITIONS**
@@ -24,7 +19,7 @@ The following definitions are used solely for the purposes of this policy:
 
 **COLLECTION OF PERSONAL INFORMATION**
 
-This policy covers our treatment of Personal Information that we collect, either through communications or interaction we may have with you (such as e-mails, telephone conversations, face-to-face or written correspondence) or through our website. This policy also covers our treatment of any information shared with us by third parties. Sometimes we may collect Personal Information about you from other sources, provided that such sources confirm to us that they are permitted to share such information, such information is publicly available or the collection is required or authorized by law. Examples of collection from other sources include collections from: 
+This policy covers our treatment of Personal Information that we collect, either through communications or interaction we may have with you (such as e-mails, telephone conversations, face-to-face, written correspondence, signing the visitors log in our office premises, or through our website). This policy also covers our treatment of any information shared with us by third parties. Sometimes we may collect Personal Information about you from other sources, provided that such sources confirm to us that they are permitted to share such information, such information is publicly available or the collection is required or authorized by law. Examples of collection from other sources include collections from: 
 
   * a government agency or registry; 
   * a business, trade, or professional organization; 
@@ -41,9 +36,11 @@ BuildDirect may collect and use your Personal Information for the following purp
   * to market new services and products that we believe will be of interest to you; 
   * to collect a debt owed to BuildDirect or its agents; or to pay a debt owed by BuildDirect; 
   * to help us make credit decisions about clients, prevent fraud, check the identity of new clients and prevent money laundering; 
-  * to help us make a decision with respect to employment or an appointment with BuildDirect; and 
-  * as required or authorized by law.
+  * to help us make a decision with respect to employment or an appointment with BuildDirect
+  * to identify you if you visit our office premises; and 
+  * as required or authorized by law. 
 
+  
 
 
 **DISCLOSURE OF PERSONAL INFORMATION**
@@ -54,11 +51,13 @@ BuildDirect does not and will not sell, rent, share or disclose your Personal In
   * to fulfill the purpose for which the Personal Information was collected; 
   * when the services we are providing to you require us to give information to third parties, for example: providing government-assigned identification numbers to customs brokers or other third parties responsible for processing customs clearance for shipments; 
   * if we engage a third party to provide services to us (such as payroll processing, computer back-up services, archival file storage, customer relationship management, advertising distribution) and the third party is bound by confidentiality obligations; 
-  * to relay an opt-out request to third-party marketing agency (see "Opting Out " below);
+  * to relay an opt-out request to third-party marketing agency (see "Opting Out " below); 
   * where it is necessary to collect a debt owed to BuildDirect or its agents, or to pay a debt owed by BuildDirect; 
   * to respond to an emergency where the health or safety of any individual is reasonably believed to be threatened; 
   * if the information is already publicly known; and 
   * when we are required or authorized by law to do so. 
+
+
 
 Except when we are required by law to disclose Personal Information, where commercially practicable we will use contractual or other arrangements to protect Personal Information disclosed to third parties. 
 
@@ -72,18 +71,18 @@ By providing Personal Information to us, you voluntarily consent to the collecti
 
 **WITHDRAWAL OF CONSENT**
 
-Individuals have the right to withdraw their consent to the collection, use, or disclosure of Personal Information at any time, except where that withdrawal would frustrate the performance of a legal obligation by BuildDirect. Upon reasonable written notice given to BuildDirect (address to Privacy Officer at the address in this policy under the caption "Need More Information?") all Personal Information held by BuildDirect that is identifiable to that individual will be removed from our records and a notice of the impact of that removal will be provided to the individual. Notwithstanding the foregoing, if you withdraw consent, BuildDirect nonetheless reserves the right to retain, collect, use and disclose Personal Information without your consent where we are permitted by law to do so. 
+Individuals have the right to withdraw their consent to the collection, use, or disclosure of Personal Information at any time, except where that withdrawal would frustrate the performance of a legal obligation by BuildDirect. Upon reasonable written notice given to BuildDirect (address to Privacy Officer at the address in this policy under the caption "Need More Information?") all Personal Information held by BuildDirect that is identifiable to that individual will be removed from our records and a notice of the impact of that removal will be provided to the individual. Notwithstanding the foregoing, if you withdraw consent, BuildDirect nonetheless reserves the right to retain, collect, use and disclose Personal Information without your consent where we are permitted or required by law to do so. 
 
 **OPTING OUT**
 
-  * You may wish to opt out of receiving certain information or marketing and promotional material distributed by BuildDirect. You may do so by selecting the opt-out or unsubscribe feature in our Online communications including our online newsletter and product updates, or by writing to BuildDirect’s Privacy Officer at the address in this policy under the caption "Need More Information?". 
-  * From time to time, BuildDirect may engage a third-party marketing agency to distribute advertisements to consumers who have expressed an interest in receiving such material. For this purpose, the marketing agency may use its own distribution list. This list is not under BuildDirect’s control nor is it shared with BuildDirect. While BuildDirect takes steps to ensure that the marketing agency lists only individuals who have provided their informed consent for the marketing purpose, it is possible that the individual may desire to opt-out from receiving further BuildDirect advertisements. In this case, the individual may send his/her opt-out request in writing to BuildDirect’s Privacy Officer (at the address noted above), providing enough detail to enable the requester’s identity to be confirmed. Upon confirming the identity of the requester, BuildDirect will relay the opt-out request to the marketing agency in question. In such a case, however, the requester should be aware that his/her opt-out request could cause the marketing agency to cease all further advertising distributions to him/her. This could result in the requester not receiving material or information that might be of financial or other benefit from other organizations that also employ the same agency. In relaying an opt-out request to a third-party marketing agency, BuildDirect therefore accepts no responsibility for any consequences to the requester arising from the actions of the agency. 
+  * You may wish to opt out of receiving certain information or marketing and promotional material distributed by BuildDirect. You may do so by selecting the opt-out or unsubscribe feature in our Online communications including our online newsletter and product updates, or by writing to BuildDirect’s Privacy Officer at the address in this policy under the caption "Need More Information?" 
+  * From time to time, BuildDirect may engage a third-party marketing agency to distribute advertisements to consumers who have expressed an interest in receiving such material. For this purpose, the marketing agency may use its own distribution list. This list is not under BuildDirect’s control and may not be shared with BuildDirect. While BuildDirect takes steps to ensure that the marketing agency lists only individuals who have provided their informed consent for the marketing purpose, it is possible that the individual may desire to opt-out from receiving further BuildDirect advertisements. In this case, the individual may send his/her opt-out request in writing to BuildDirect’s Privacy Officer (at the address noted above), providing enough detail to enable the requester’s identity to be confirmed. Upon confirming the identity of the requester, BuildDirect will relay the opt-out request to the marketing agency in question. In such a case, however, the requester should be aware that his/her opt-out request could cause the marketing agency to cease all further advertising distributions to him/her. This could result in the requester not receiving material or information that might be of financial or other benefit from other organizations that also employ the same agency. In relaying an opt-out request to a third-party marketing agency, BuildDirect therefore accepts no responsibility for any consequences to the requester arising from the actions of the agency. 
 
 
 
 **ACCESS TO AND CORRECTION OF PERSONAL INFORMATION**
 
-  * Individuals have the right to know what Personal Information BuildDirect has collected about them, how that information is being used and to whom it has been disclosed, as well as to verify and amend that information if it is incorrect. An individual may make an access/correction request by writing to BuildDirect’s Privacy Officer at the address in this policy under the caption "Need More Information?" Upon receiving the written request and a handling fee of US$10.00, and where the identity of the requester can be confirmed, information held by BuildDirect that is identifiable to the requester, as well as information on all use and disclosures of that information, will normally be released to the requester within 30 days, except where that release is not required or is prohibited by law. If necessary, BuildDirect will correct the Personal Information if requested to do so. Where an access/correction request requires more extensive treatment, we will advise the requester of the approximate cost of responding to the request. The requester should provide enough detail to enable BuildDirect to confirm his/her identity. 
+  * Individuals have the right to know what Personal Information BuildDirect has collected about them, how that information is being used and to whom it has been disclosed, as well as to verify and amend that information if it is incorrect. An individual may make an access/correction request by writing to BuildDirect’s Privacy Officer at the address in this policy under the caption "Need More Information?" Upon receiving the written request and a processing fee of US$10.00, and where the identity of the requester can be confirmed, information held by BuildDirect that is identifiable to the requester, as well as information on all use and disclosures of that information, will normally be released to the requester within 30 days, except where that release is not required or is prohibited by law. If necessary, BuildDirect will correct the Personal Information if requested to do so. Where an access/correction request requires more extensive treatment, we will advise the requester of the approximate cost of responding to the request. The requester should provide enough detail to enable BuildDirect to confirm his/her identity. 
 
 
 
@@ -96,11 +95,13 @@ Your rights to access your Personal Information are not absolute. We may deny ac
   * to protect our firm's rights and property; or 
   * where the request is frivolous or vexatious. 
 
+
+
 If we deny your request for access to, or refuse a request to correct Personal Information, we will explain why. 
 
 **WEBSITE**
 
-You can visit the BuildDirect website without registering for membership or subscribing to any corporate communications.
+You can visit the BuildDirect website without registering for membership or subscribing to any communications.
 
 We cannot guarantee the confidentiality or security of any e-mail communications or information sent by you to us via the website. If you wish to send us confidential information, please notify us first to make arrangements. 
 
@@ -117,14 +118,14 @@ BuildDirect takes all reasonable steps to ensure that your Personal Information 
 
   * premises security; 
   * restricted file access to personal information; 
-  * deploying technological safeguards like security software and firewalls to protect against hacking or unauthorized computer access; and 
+  * deploying technological safeguards like encryption, security software and firewalls to protect against hacking or unauthorized computer access; and 
   * internal password and security policies. 
 
 
 
 **RETENTION OF CONTACT INFORMATION AND PERSONAL INFORMATION**
 
-  * Personal Information will be retained in accordance with this policy only for as long as may be necessary or relevant for the identified purpose of collection, or as may be required or permitted by law, after which time it will be made anonymous or destroyed unless you further consent to its continued retention.
+  * Personal Information will be retained in accordance with this policy only for as long as may be necessary or relevant for the identified purpose of collection, or as may be required or permitted by law, after which time it will be made anonymous or destroyed unless you further consent to its continued retention. 
 
 
 
@@ -144,10 +145,7 @@ Ultimately, you are responsible for maintaining the secrecy of your passwords an
 
 **NEED MORE INFORMATION?**
 
-Should you have any further questions or concerns about the privacy of personal information at BuildDirect, please feel free to write to: Privacy Officer, BuildDirect, 1900 - 570 Granville Steet, Vancouver, Britush Columbia, Canada V6C 3P1 
+Should you have any further questions or concerns about the privacy of personal information at BuildDirect, please feel free to write to: Privacy Officer, BuildDirect, 1900 - 570 Granville Steet, Vancouver, British Columbia, Canada V6C 3P1 
 
-Last revised   July 1, 2004  
-
-
-|   |    
-|  
+  
+Last revised   December 14, 2006
