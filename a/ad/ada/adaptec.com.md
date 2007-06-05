@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adaptec.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210233927id_/http%3A//www.adaptec.com/en-US/_footer/privacy_link.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adaptec.com privacy policy that was archived on 2007-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070605212348id_/http%3A//www.adaptec.com/en-US/_footer/privacy_link.htm) for the most accurate reproduction.*
 
 # Adaptec - Privacy Policy
 
@@ -17,7 +17,7 @@ We are firmly committed to guarding the confidence you have placed in our compan
 If you have questions or concerns regarding this privacy statement, please contact us via e-mail at [Adaptec Privacy Policy](https://web.archive.org/forms/company_privacy_form.html) or phone Adaptec Customer Service at either  
 1-800-959-7274 or 1-408-957-2550  
 Monday - Friday (except holidays)   
-6:00 AM - 5:00 PM U.S. Pacific Time
+9:00 AM - 6:00 PM U.S. Central Time
 
 Our Web site visitors from Europe should note that, as a US company, Adaptec collects data from you within the EEA and reserves the right to transfer the same outside the EEA for processing and storage. Adaptec is certified on the Safe Harbor List and abides by the principles set forth in the Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.
 
@@ -27,7 +27,7 @@ This policy discloses our information gathering and usage practices for the foll
 ---|---  
  [www.adaptecstore.com](http://www.adaptecstore.com/service.asp) |  [www.adaptecconnect.com](http://www.adaptecconnect.com/)  
 [www.adaptec.co.uk](http://www.adaptec.co.uk/) |  [www.adaptec.fr](http://www.adaptec.fr/)  
-[www.adaptec.de](http://www.adaptec.de/) |  [ ](http://www.adaptec.es/)  
+[www.adaptec.de](http://www.adaptec.de/) | [](http://www.adaptec.es/)  
 [www.myadaptec.com](http://www.myadaptec.com/)  
    
   
