@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the locateadoc.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205202910id_/http%3A//www.locateadoc.com/Site_Tools/Privacy_Notice.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the locateadoc.com privacy policy that was archived on 2007-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070605062356id_/http%3A//www.locateadoc.com/Site_Tools/Privacy_Notice.cfm) for the most accurate reproduction.*
 
 # LocateADoc Disclaimer
 
@@ -147,5 +147,5 @@ Ph: 407-830-9957
   
 [](http://www.locateadoc.com/Site_Tools/Privacy_Notice.cfm) [](http://www.hon.ch/HONcode/Conduct.html?HONConduct823986)All of the information on LocateADoc.com, (except for information provided by members of the LocateADoc.com community), is either written by health professionals or supported by public health recommendations. We subscribe to the [HONcode principles](http://www.hon.ch/HONcode/Conduct.html?HONConduct823986) of the [Health On the Net Foundation](http://www.hon.ch/). 
 
-Content © 1999-2006 LocateADoc.com, all rights reserved.  
-Design & Programming © 1999-2006 [Mojo Interactive](http://www.locateadoc.com/ads.cfm?adv_id=199), all rights reserved. 
+Content © 1999-2007 LocateADoc.com, all rights reserved.  
+Design & Programming © 1999-2007 [Mojo Interactive](http://www.locateadoc.com/ads.cfm?adv_id=199), all rights reserved. 
