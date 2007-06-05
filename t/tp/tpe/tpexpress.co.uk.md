@@ -1,15 +1,20 @@
-> *The following text is extracted and transformed from the tpexpress.co.uk privacy policy that was archived on 2006-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061127231611id_/http%3A//www.tpexpress.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tpexpress.co.uk privacy policy that was archived on 2007-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070605020349id_/http%3A//www.tpexpress.co.uk/privacy.asp) for the most accurate reproduction.*
 
-# TransPennine Express
+# Trans Pennine Trains - Privacy Policy
 
-  
-|  |  |  |   
+| 
+
+|  |  |   
+---  
+|  [Home](https://web.archive.org/web/20070605020349id_/http%3A//default.asp) >Privacy Policy    
+Privacy Policy    
+
+
+| 
+
+1\. Introduction  
   
 ---  
-  
-Privacy Policy  
-  
-1\. Introduction  
   
 First/Keolis TransPennine Limited ("TransPennine Express") is committed to preserving the privacy of all visitors to http://www.tpexpress.co.uk and to protecting any personal information that you may provide to us. In particular, we believe it is important for you to know how we treat information about you that we may receive from this website ("Site") and how we carry out data processing practices through the use of the Internet and any other electronic communications networks. Please read the following privacy policy to understand how we use and protect the information that you provide to us or how we may use and protect it in the future. 
 
@@ -17,7 +22,7 @@ By registering for any services on this Site or by providing any information to 
   
 2\. Information that we collect from you  
   
-In general, you can visit this Site without telling us who you are or revealing any information about yourself. Our web server collects the IP address. In addition, there are parts of this Site where personal information may need to be collected from you for a specific purpose, such as to provide you with certain information you request, or where requested to register you to, for example, our Journeycheck Alerts Service, or to enable you to use our online ticket purchasing service. This is done through the use of online forms and every time you email us or provide us with your details in other ways (i.e. over the telephone, by fax, by mail etc.). The information collected from you may include but is not limited to:· your name, address, landline or mobile telephone numbers, fax number and e-mail address;   
+In general, you can visit this Site without telling us who you are or revealing any information about yourself. Our web server collects the IP address. In addition, there are parts of this Site where personal information may need to be collected from you for a specific purpose, such as to provide you with certain information you request, or where requested to register you to, for example, our Journey Check Alerts Service, or to enable you to use our online ticket purchasing service. This is done through the use of online forms and every time you email us or provide us with your details in other ways (i.e. over the telephone, by fax, by mail etc.). The information collected from you may include but is not limited to:· your name, address, landline or mobile telephone numbers, fax number and e-mail address;   
 · company name and contact details;   
 · your date of birth;   
 · credit or debit card information;   
@@ -42,7 +47,7 @@ IP address information that we collect is not used to personally identify you an
 
 When other personal information, such as your name and e-mail address, is collected from you with your consent (for example, through the use of on-line forms or via e-mail etc.) we generally let you know at the time of collection how we will use that personal information. We may also use the personal information you provide or which we collect via this Site for the purposes of: 
 
-· providing any goods or services that you have requested from us (including registering for our Journeycheck Alerts service or subscribing to receive information);   
+· providing any goods or services that you have requested from us (including registering for our Journey Check Alerts service or subscribing to receive information);   
 · billing you and contacting you where necessary concerning your orders (such as for ticket booking services);   
 · responding to your inquiries or to process your requests in relation to your information;   
 · providing and personalising our services generally;   
@@ -62,7 +67,7 @@ In particular, we may use your information to contact you for your views on our 
 
 · which we offer and which may be of interest to you;   
 · which are offered by other companies within First/Keolis TransPennine Limited; or  
-· which are offered jointly with or on behalf of other organisations. 
+· which are offered jointly with or on behalf of other organizations. 
 
 If you change your mind about being contacted in the future, please let us know. 
 
@@ -106,11 +111,19 @@ The contents of this Site are designed to comply with the general obligations of
   
 9\. Accessing and updating   
   
-Under the Data Protection Act 1998, you are entitled to see the personal information we hold about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date . If you wish to correct or update the personal information that you have provided to us of if you choose to opt out of any communications that you may have initially agreed to receive, please contact us by e-mail on tpecustomer.relations@firstgroup.com/ using the contact details provided at the [Contact Us](https://web.archive.org/contact/default.asp). We are entitled by law to charge a small administrative fee to meet our costs in providing you with details of the information we hold about you and we may require proof of your identity before we supply the information to you  
+Under the Data Protection Act 1998, you are entitled to see the personal information we hold about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date . If you wish to correct or update the personal information that you have provided to us of if you choose to opt out of any communications that you may have initially agreed to receive, please contact us by e-mail on [tpecustomer.relations@firstgroup.com](mailto:tpecustomer.relations@firstgroup.com)/ using the contact details provided at the 
+
+[Contact Us ](https://web.archive.org/contact/default.asp)
+
+. We are entitled by law to charge a small administrative fee to meet our costs in providing you with details of the information we hold about you and we may require proof of your identity before we supply the information to you  
   
 10\. Contacting Us   
   
-If you have any comments, queries or requests relating to our use of your personal information or any questions about this privacy policy, please contact us [using the details provided on the [Contact Us](https://web.archive.org/contact/default.asp)] page. We welcome your questions and any suggestions you may have about our privacy policy.  
+If you have any comments, queries or requests relating to our use of your personal information or any questions about this privacy policy, please contact us [using the details provided on the 
+
+[Contact Us ](https://web.archive.org/contact/default.asp)
+
+page. We welcome your questions and any suggestions you may have about our privacy policy.  
   
 11\. Changes to this Policy   
   
@@ -118,5 +131,4 @@ TransPennine Express reserves the right to revise or supplement this Privacy Pol
   
 _Copyright © 2005 First/Keolis TransPennine Limited. All rights reserved._  
   
-|   
-
+| 
