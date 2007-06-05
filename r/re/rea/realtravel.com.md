@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the realtravel.com privacy policy that was archived on 2006-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061031044956id_/http%3A//realtravel.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtravel.com privacy policy that was archived on 2007-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070605205314id_/http%3A//realtravel.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - RealTravel
+# RealTravel - Privacy Policy
 
 We at RealTravel, Inc. (or "RealTravel") recognize that your privacy is important to you. We have created this privacy policy to explain our privacy practices so you will understand when and how personally identifiable information is collected, used, disclosed and protected with respect to our web site located at [RealTravel.com](http://realtravel.com/). Please read this policy before providing us with any personal information. In you have any questions about this policy, email us at [info@realtravel.com](mailto:info@realtravel.com).
 
@@ -12,7 +12,7 @@ Our definition of personally identifiable information does not include "aggregat
 
 **Registered and Unregistered Users**
 
-The choice of how much personally identifiable information you disclose to us is completely at your discretion. Some areas of our Site are accessible without registration of any kind, such as reading reviews and travel journals, and you can browse those areas of our Site. Other areas of our Site require registration in order for you to participate in the services offered. It is not mandatory for you to register and provide information to us, but please realize that in order for us to serve you better or provide particular features such as writing your own reviews and creating travel journals, you will need to provide certain information to access those areas of our Site.
+The choice of how much personally identifiable information you disclose to us is completely at your discretion. Some areas of our Site are accessible without registration of any kind, such as reading reviews and travel blogs, and you can browse those areas of our Site. Other areas of our Site require registration in order for you to participate in the services offered. It is not mandatory for you to register and provide information to us, but please realize that in order for us to serve you better or provide particular features such as writing your own reviews and creating travel blogs, you will need to provide certain information to access those areas of our Site.
 
 **Cookies**
 
