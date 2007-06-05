@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fast-autos.net privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205232859id_/http%3A//www.fast-autos.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fast-autos.net privacy policy that was archived on 2007-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070605215733id_/http%3A//fast-autos.net/privacy) for the most accurate reproduction.*
 
 # Fast-Autos.net - An online car magazine and information database of fast cars with pictures and specifications of over 1000 of the world's fastest automobiles plus automotive news, feature stories, road tests, motorsports, and photo gallery
 
