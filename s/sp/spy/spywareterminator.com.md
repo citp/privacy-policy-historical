@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spywareterminator.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117145644id_/http%3A//www.spywareterminator.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spywareterminator.com privacy policy that was archived on 2007-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070605035925id_/http%3A//www.spywareterminator.com/legal/privacy.aspx) for the most accurate reproduction.*
 
 # Spyware Terminator - Privacy Policy
 
