@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the takeforum.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231184452id_/http%3A//www.takeforum.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the takeforum.com privacy policy that was archived on 2007-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070605131312id_/http%3A//www.takeforum.com/privacy.html) for the most accurate reproduction.*
 
-# Free forum from takeforum.com
+# Takeforum.com - the free forum provider
 
 **Information**
 
