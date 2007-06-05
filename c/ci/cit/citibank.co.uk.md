@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citibank.co.uk privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225135955id_/http%3A//www.citibank.co.uk/personal/banking/info/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citibank.co.uk privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606005543id_/http%3A//www.citibank.co.uk/personal/banking/info/privacy/index.htm) for the most accurate reproduction.*
 
 # Citibank UK - Your Privacy
 
