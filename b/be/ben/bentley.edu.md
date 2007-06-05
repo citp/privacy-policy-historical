@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bentley.edu privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205213316id_/http%3A//www.bentley.edu/policies/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bentley.edu privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606005219id_/http%3A//www.bentley.edu/policies/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy : Bentley
 
@@ -100,7 +100,7 @@ top of page
 
   * You are not required to provide personal information to visit our web site. 
   * If you would like to opt out from using cookies on Bentley‘s web site for the purpose of collecting web metrics, please go to [http://www.omniture.com/privacy#optout](http://www.omniture.com/privacy#optout#optout). 
-  * If you choose to provide personal information such as your e-mail address, mailing address or phone number, Bentley College may contact you. 
+  * If you choose to provide personal information such as your e-mail address, mailing address or phone number, Bentley may contact you. 
   * If you receive unwanted contacts and wish to be excluded from future such contacts, please inform us at the e-mail address below, specifying the source and providing a description of the unwanted materials. We will notify the appropriate office accordingly. 
   * In the course of doing business, Bentley performs numerous administrative functions and services via its web site and reserves the right to require participation in them by students and staff. 
 
@@ -110,7 +110,7 @@ top of page
 
 
 
-For additional information on **Information Privacy at Bentley** , [click here](https://web.archive.org/web/20061205213316id_/http%3A//www.bentley.edu/infoprivacy/index.cfm). 
+For additional information on **Information Privacy at Bentley** , [click here](https://web.archive.org/web/20070606005219id_/http%3A//www.bentley.edu/infoprivacy/index.cfm). 
 
 **Effective Date:**   April 1, 2006
 
