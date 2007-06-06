@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asb.co.nz privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210070530id_/http%3A//www.asb.co.nz/story859.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asb.co.nz privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606174413id_/http%3A//www.asb.co.nz/story859.asp) for the most accurate reproduction.*
 
 # Privacy Statement - ASB
 
@@ -17,7 +17,7 @@ We only use your personal information to:
 
 
 
-ASB will not sell your information to third parties. We may in the future contact you to inform you of new services and products available from ASB or the ASB Group of companies. If you do not wish to receive these offers kindly e-mail us at [FastNet Classic](mailto:custserv@asbbank.co.nz) and [Internet Access Terms](https://web.archive.org/web/20061210070530id_/http%3A//www.asb.co.nz/story6268.asp?). 
+ASB will not sell your information to third parties. We may in the future contact you to inform you of new services and products available from ASB or the ASB Group of companies. If you do not wish to receive these offers kindly e-mail us at [FastNet Classic](mailto:custserv@asbbank.co.nz) and [Internet Access Terms](https://web.archive.org/web/20070606174413id_/http%3A//www.asb.co.nz/story6268.asp?). 
 
 To ensure full security you will need to take appropriate steps to ensure that your Internet browser is capable of supporting our website's encryption requirements. Most versions of Netscape Navigator or Microsoft Internet Explorer versions 5 and above will support our server authentication and data encryption technology. Our website does not collect personal identifying information about you except where specifically requested by you or us. 
 
