@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psd2html.com privacy policy that was archived on 2006-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061026060652id_/http%3A//psd2html.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psd2html.com privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606213132id_/http%3A//psd2html.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy of PSD to HTML service, PSD2HTML.com. You Design - We XHTML / CSS
 
@@ -45,26 +45,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 ## How to Contact Us
 
-Should you have other questions or concerns about these privacy policies, please use the contact form at the top left corner.
-
-**have a question?**
-
-Yahoo!, AIM, Skype, GTalk: psd2html   
-MSN, Email: info@psd2html.com
-
-**put your order online**
-
-Please compress (ZIP) the source files including custom fonts if any. You can upload it or specify a link to file if the size is greater than 15MB. [Proceed now](https://web.archive.org/order-now.html).
-
-**delivery time — 8 hours**
-
- **Due to overload of these days delivery time is temporarily increased up to 8-16 working hours depending on complexity per page. We apologize for the inconvenience.**
-
-Usual delivery time is 8 working hours per one page. The working schedule is Mon — Fri; 10:00am — 6:00pm GMT / 5:00am — 1:00pm EST.
-
-Each order follows with estimated delivery timeline. You can ask for timeline adjustments if required: yes, we can do it faster, yes we can do it on week-ends.
-
-**announcement**
-
-As of October 26 PSD2HTML.com launches a bunch of options to implement Design as skins / themes / templates for **Wordpress, Movable Type, Drupal, Joomla, Pligg, Typo3, Blogger, Shopify** and others.   
-**Interested, need it urgently?** Contact us now.
+Should you have other questions or concerns about PSD2HTML.com services, please use the contact form at the top right corner.
