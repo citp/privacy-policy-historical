@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the getpaidmail.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206023058id_/http%3A//www.getpaidmail.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getpaidmail.com privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606115531id_/http%3A//www.getpaidmail.com/pages/privacy.php) for the most accurate reproduction.*
 
 # GetPaidMail.com
 
 | 
 
-[](http://www.getpaidmail.com/scripts/runner.php?BA=174&hash=8fc6e27eeb73602bdcf6fb78505a4fb1&url=http%3A%2F%2Fcontinue.to%2Fdetectives)
+[](http://www.getpaidmail.com/scripts/runner.php?BA=2945&hash=3c8ed70c5d25cbb43f6a6c5d908af30a&url=http%3A%2F%2Fwww.ZodiacCasino.com%2Freferral.asp%3Faff_id%3Daff12323)
 
   
   
@@ -13,7 +13,10 @@
 **Security** getpaidmail.com has security measures in place to protect the loss, misuse and alteration of the information under our control.   
 **Children's Guidelines:** We do not collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent. We do not collect personally identifiable offline contact information without prior parental consent. We do not distribute to third parties any personally identifiable information. We do not give the ability to publicly post or otherwise distribute personally identifiable contact information. We do not entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity.   
 **Choice/Opt-Out:** getpaidmail.com provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. getpaidmail.com gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. You can [Contact Us](https://web.archive.org/pages/contact.php) and request your membership to be cancelled at anytime.   
-**Correct/Update:** getpaidmail.com gives users the following options for changing and modifying information previously provided. Members Area - login and change your personal information. Contacting the Web Site If you have any questions about this privacy statement, the practices of this site, or your dealings with getpaidmail.com, you can [Contact Us](https://web.archive.org/pages/contact.php) [](http://launch.roirocket.com/z/3473/CD4238/&dp=68989) |   
+**Correct/Update:** getpaidmail.com gives users the following options for changing and modifying information previously provided. Members Area - login and change your personal information. Contacting the Web Site If you have any questions about this privacy statement, the practices of this site, or your dealings with getpaidmail.com, you can [Contact Us](https://web.archive.org/pages/contact.php) [](http://launch.roirocket.com/z/3473/CD4238/&dp=68989) | 
+
+[](http://www.getpaidmail.com/scripts/runner.php?BA=2460&hash=8de33cb678f6150bbddff16b2a6df48c&url=http%3A%2F%2Fwww.cashmakerclicks.com%2Fmembers%2Fregister.php%3Fref%3Dedelweis)  
+  
 ---  
 ** 2002-2003 GetPaidMail© All Rights Reserved  
 **  
