@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the digitaldirect.co.uk privacy policy that was archived on 2005-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050323020916id_/http%3A//www.digitaldirectuk.com/dd3/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaldirect.co.uk privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606085117id_/http%3A//www.digitaldirect.co.uk/dd3/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy - Digital Direct UK
+# Privacy Policy - Digital Direct
 
 Digital Direct take your privacy rights as a customer seriously. This policy outlines the data we collect from our visitors and how we use it.
 
@@ -33,3 +33,8 @@ In accordance with the Privacy & Electronic Communications Act passed into law i
 Digital Direct conform with the requirements of the Data Protection Act, 1998. 
 
 Should you have any queries with regard our privacy policy then please contact us at privacy@digitaldirect.uk.com
+
+  
+All prices include V.A.T. at 17.5%.  
+Copyright © 2007 Digital Direct GB Ltd. All rights reserved. E&OE. V5.3  
+[Terms and Conditions](https://web.archive.org/web/20070606085117id_/http%3A//www.digitaldirect.co.uk/terms) | [Privacy Policy](https://web.archive.org/web/20070606085117id_/http%3A//www.digitaldirect.co.uk/dd3/privacy.asp)
