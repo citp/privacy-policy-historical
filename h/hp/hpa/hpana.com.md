@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hpana.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212135246id_/http%3A//www.hpana.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hpana.com privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606215817id_/http%3A//www.hpana.com/about/privacy.cfm) for the most accurate reproduction.*
 
 # HPANA - Privacy Policy
 
