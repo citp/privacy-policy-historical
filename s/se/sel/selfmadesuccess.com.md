@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the selfmadesuccess.com privacy policy that was archived on 2006-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061023013456id_/http%3A//www.selfmadesuccess.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selfmadesuccess.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607000832id_/http%3A//www.selfmadesuccess.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
    **Privacy Statement**
 
-This privacy statement covers www.selfmadesuccess.com which is a website for the marketing and promotion services of "K & J Promotions" also "K & J Marketing Promotions" and covers the following areas: 
+This privacy statement covers www.selfmadesuccess.com which is a website for the marketing and promotion services of "JoNaf Marketing Ltd" and covers the following areas: 
 
-What personally identifiable information "K & J Promotions" collects. How "K & J Promotions" uses the information. What choices are available to users regarding collection and use of the information. What types of security procedures are in place to protect the loss, misuse or alteration of information under "K & J Promotions" control. How users can correct any inaccuracies in the information. 
+What personally identifiable information "JoNaf Marketing Ltd" collects. How "JoNaf Marketing Ltd" uses the information. What choices are available to users regarding collection and use of the information. What types of security procedures are in place to protect the loss, misuse or alteration of information under "JoNaf Marketing Ltd" control. How users can correct any inaccuracies in the information. 
 
-If users have questions or concerns regarding this statement, they should contact "K & J Promotions" by email at: [ privacy@selfmadesuccess.com](mailto:privacy@selfmadesuccess.com) or post to "K & J Promotions, 116 Parsons Mead, CROYDON, Surrey, CR0 3SL". This policy covers only information that is collected through this Web site. Through this privacy statement selfmadesuccess.com has agreed to notify users of: 
+If users have questions or concerns regarding this statement, they should contact "JoNaf Marketing Ltd" by email at: [ privacy@selfmadesuccess.com](mailto:privacy@selfmadesuccess.com) This policy covers only information that is collected through this Web site. Through this privacy statement selfmadesuccess.com has agreed to notify users of: 
 
 **Information Collection and Use**
 
 **Information Collection**
 
-"K & J Promotions" is the sole owner of the information collected on selfmadesuccess.com. "K & J Promotions" collects information from our users at the following points on our Web site. 
+"JoNaf Marketing Ltd" is the sole owner of the information collected on selfmadesuccess.com. "JoNaf Marketing Ltd" collects information from our users at the following points on our Web site. 
 
 **Registration**   
 You can access our Web site home page and browse our site without disclosing your personal data. 
@@ -66,13 +66,13 @@ In the event "K & J Promotions" goes through a business transition, such as a me
 Our users are given the opportunity to 'opt-out' of having their information used for purposes related to our site at the point where we ask for information. Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at: [unsubscribe@selfmadesuccess.com ](mailto:unsubscribe@selfmadesuccess.com)
 
 **Links**  
-This Web site contains links to some of our other sites. Please be aware that we, "K & J Promotions" , are also responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+This Web site contains links to some of our other sites. Please be aware that we, "JoNaf Marketing Ltd" , are also responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
 **Surveys [ & Contests]**  
 From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. Users' personally identifiable information is not shared with third parties unless we give prior notice and choice. Though we may use an intermediary to conduct these surveys or contests, they may not use users' personally identifiable information for any secondary purposes. 
 
 **Tell-A-Friend**  
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. "K & J Promotions" will automatically send the friend a one-time email inviting them to visit the site. "K & J Promotions" does not store this information and it's sole purpose is for sending this one-time email. 
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. "JoNaf Marketing Ltd" will automatically send the friend a one-time email inviting them to visit the site. "JoNaf Marketing Ltd" does not store this information and it's sole purpose is for sending this one-time email. 
 
 **Security**  
 This Web site takes every precaution to protect our users' information. When users submit sensitive information via the Web site, their information is protected both online and off-line. 
