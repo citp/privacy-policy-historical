@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturehills.com privacy policy that was archived on 2006-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061116055337id_/http%3A//naturehills.com/new/product/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturehills.com privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606083707id_/http%3A//www.naturehills.com/new/product/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
