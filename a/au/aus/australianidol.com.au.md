@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the australianidol.com.au privacy policy that was archived on 2006-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060419032013id_/http%3A//australianidol.com.au/Default.aspx%3Fpage%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australianidol.com.au privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606105751id_/http%3A//www.australianidol.com.au/Default.aspx%3Fpage%3DPrivacyPolicy) for the most accurate reproduction.*
 
-# Australian Idol 2006 - Audition NOW! - Privacy Policy
+# Videos, Photos, Competitions, Forums, My Idol - Australian Idol 2006 - The Official Site! - Privacy Policy
 
 ### About Us
 
 FremantleMedia Australia Pty Limited and its related bodies corporate in Australia which include, but is not limited to Grundy Television Pty Limited and Crackerjack Productions Pty Ltd. (“the Organization”), is aware of and recognises the importance of dealing with the collection, security, quality of and disclosure of personal information in accordance with the National Privacy Principles (NPPs) and the Privacy Act 1988 (Cth).
 
-individuals. on information personal it to disclosed have or collect need time from will Organization) the of members other (and companies these Both companies. production television leading Australia’s two are Ltd Pty Productions Crackerjack and Limited Television Grundy>
+individuals. on information personal it to disclosed have or collect need time from will Organization) the of members other (and companies these Both companies. production television leading Australia’s two are Ltd Pty Productions Crackerjack and Limited Television Grundy. 
 
 ### Individuals With Whom We Deal
 
