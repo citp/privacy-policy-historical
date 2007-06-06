@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landesk.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217130457id_/http%3A//www.landesk.com/Corporate/Privacy/Index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landesk.com privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606125031id_/http%3A//www.landesk.com/Corporate/Privacy/Index.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
