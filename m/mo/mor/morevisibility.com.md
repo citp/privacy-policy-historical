@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morevisibility.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206231724id_/http%3A//morevisibility.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morevisibility.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607005853id_/http%3A//www.morevisibility.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Position Yourself with the Leaders In Search Engine Marketing & Optimization
 
@@ -29,10 +29,10 @@ OPTIMIZATION PROGRAM
 
 Details can be found in your Search Engine Visibility Report
 
-YAHOO SEARCH SUBMIT
-
-The Paid Inclusion program for Yahoo Search Technology
-
 Professionals Qualified Company
 
 Agency Qualification status is only granted to companies meeting specific qualifications set by Google
+
+YAHOO SEARCH SUBMIT
+
+The Paid Inclusion program for Yahoo Search Technology
