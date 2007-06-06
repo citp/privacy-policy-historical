@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the atkins.com privacy policy that was archived on 2006-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061205211527id_/http%3A//www.atkins.com/company/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the atkins.com privacy policy that was archived on 2007-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070606213135id_/http%3A//www.atkins.com/company/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
@@ -24,13 +24,34 @@
     
         
             
-                <script type="text/javascript" src="http://www.atkins.com/portal_javascripts/ploneScripts5055.js">
+                <script type="text/javascript" src="http://www.atkins.com/portal_javascripts/ploneScripts3222.js">
                 </script>
                 
             
             
                 <script type="text/javascript" src="http://www.atkins.com/portal_javascripts/orderablereference.js">
                 </script>
+                
+            
+            
+                
+                
+                <script type="text/javascript"><!--  
+/* ----- analytics.js ----- */
+/*  (do not remove this :) */
+document.write('<script src="http://www.google-analytics.com/urchin.js" type="text/JavaScript"><\/script>');
+
+
+function callGoogleAnalytics() {
+  _uacct = "UA-1741239-1";
+  urchinTracker();
+}
+
+registerPloneFunction(callGoogleAnalytics);
+/*  */
+
+
+                     // --></script><script src="http://www.google-analytics.com/urchin.js" type="text/JavaScript"></script>
                 
             
         
@@ -609,57 +630,45 @@ its effective date. </p>
 
       </script>
 
-
+<!-- No longer necessary w/new flags
       <div id="international-pulldown">
       <select id="international-url" name="international-url" onchange="return updateInternationalLink();">
 	<option value="">International</option>
 	<option value="http://atkins.nl/">Nederland</option>
 	<option value="http://atkins-se.com/">Sverige</option>
-	
-	  <option value="http://www.atkins.com/australia">Australia</option>
-	
-	
-	  <option value="http://www.atkins.com/am-eacute-rica-latina">América Latina</option>
-	
-	
-	  <option value="http://www.atkins.com/norway">Norway</option>
-	
-	
-	  <option value="http://www.atkins.com/brasil">Brasil</option>
-	
-	
-	  <option value="http://www.atkins.com/canada">Canada</option>
-	
-	
-	  <option value="http://www.atkins.com/denmark">Denmark</option>
-	
-	
-	  <option value="http://www.atkins.com/united-kingdom">United Kingdom</option>
-	
+	<tal:internationals tal:repeat="item here/getInternationalSections">
+	  <option tal:attributes="value python: item.absolute_url()" tal:content="structure item/title"></option>
+	</tal:internationals>
       </select>
       </div>
+      -->
 
 
       <h5 id="portal-home-link"><a href="http://www.atkins.com">Home</a></h5>
 
-      
-      
-      
-      
+<!--      <img tal:condition="python:template.id == 'home'" id="portal-bottom-tagline" tal:attributes="src string:$portal_url/images/tagline_bottom.gif" /> -->
 
 
+       
       
     </div>
 
         <div id="portal-footer">
+      <span class="flags"><a href="http://atkins.nl"><img class="flags" src="http://www.atkins.com/images/flags/FlagNetherlands.gif"></a>
+	<a href="http://atkins-se.com/"><img class="flags" src="http://www.atkins.com/images/flags/FlagSweden.gif"></a>
+	<a href="http://www.atkins.com/australia/"><img class="flags" src="http://www.atkins.com/images/flags/FlagAustralia.gif"></a>
+	<a href="http://www.atkins.com/am-eacute-rica-latina/"><img class="flags" src="http://www.atkins.com/images/flags/FlagLatinAmerica.gif"></a>
+	<a href="http://www.atkins.com/norway/"><img class="flags" src="http://www.atkins.com/images/flags/FlagNorway.gif"></a>
+	<a href="http://www.atkins.com/brasil/"><img class="flags" src="http://www.atkins.com/images/flags/FlagBrazil.gif"></a>
+	<a href="http://www.atkins.com/canada/"><img class="flags" src="http://www.atkins.com/images/flags/FlagCanada.gif"></a>
+	<a href="http://www.atkins.com/denmark/"><img class="flags" src="http://www.atkins.com/images/flags/FlagDenmark.gif"></a>
+	<a href="http://www.atkins.com/united-kingdom/"><img class="flags" src="http://www.atkins.com/images/flags/FlagUnitedKingdom.gif"></a></span>
+      <a href="http://www.atkins.com/company/terms-of-use">Terms of Use</a> 
+      <a href="http://www.atkins.com/company/privacy-policy">Privacy Policy</a> 
+      <a href="http://www.atkins.com/company/contact_us">Contact Us</a>
+      Copyright (c) 1999-2007 Atkins Nutritionals, Inc. All Rights Reserved.
 
-
-<a href="http://www.atkins.com/company/terms-of-use">Terms of Use</a> 
-<a href="http://www.atkins.com/company/privacy-policy">Privacy Policy</a> 
-<a href="http://www.atkins.com/company/contact_us">Contact Us</a>
-Copyright (c) 1999-2006 Atkins Nutritionals, Inc. All Rights Reserved.
-
-</div>  
+    </div>  
     
 	
 
