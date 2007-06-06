@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baltimoresun.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208095609id_/http%3A//www.baltimoresun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baltimoresun.com privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606124717id_/http%3A//www.baltimoresun.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - baltimoresun.com
 
@@ -68,8 +68,17 @@ In the event case of any conflict between the terms of this policy and the terms
   
 
 
+[](http://www.baltimoresun.com/research)  
+Find out more about clinical trials that are currently recruiting participants.
+
 [](http://essentials.baltimoresun.com/contests/)  
-Enter to win tickets to movies, concerts, festivals, sporting events and more. [](http://www.baltimoresun.com/services/newspaper/events/bal-careerfair,0,1569955.htmlstory?coll=bal-bsunevents-headlines)  
-Learn more about the Career Fair and other events sponsored by The Baltimore Sun. [](https://web.archive.org/extras/ads/special_sections)  
-Special sections from The Baltimore Sun. [](http://www.baltimoresun.com/extras/ads/sunstore/)  
-Purchase _Sun_ photos, page reprints and more. 
+Enter to win tickets to movies, concerts, festivals, sporting events and more. 
+
+[](http://essentials.baltimoresun.com/micro_sun/events/unisun-gospel/index.html)  
+Learn more about the UniSun Gospel Celebration and other events sponsored by The Baltimore Sun.
+
+[](http://essentials.baltimoresun.com/micro_sun/special_sections/)  
+Special sections from The Baltimore Sun.
+
+[](http://www.baltimoresunstore.com/)  
+Purchase _Sun_ photos, page reprints and more.
