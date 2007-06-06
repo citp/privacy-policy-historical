@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directv.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117123619id_/http%3A//www.directv.com/DTVAPP/global/contentPage.jsp%3FassetId%3DP400044) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directv.com privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606190722id_/http%3A//www.directv.com/DTVAPP/global/contentPage.jsp%3FassetId%3DP400044) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,7 +17,7 @@ This Policy explains our practices in the following areas:
 
 You may also purchase or use products or services provided by other companies that may be delivered through your DIRECTV Receiving Equipment. Please contact or visit the Web sites of the providers of those products or services to obtain copies of their privacy policies. 
 
-If you have questions about this Policy or other matters, you may contact us 24 hours a day, any day of the year, by phone (1-800-531-5000), e-mail (directv.com/email) or mail (DIRECTV Privacy Policy, P.O. Box 29079, Glendale, CA 91209-9079). 
+If you have questions about this Policy or other matters, you may contact us 24 hours a day, any day of the year, by phone (1-800-531-5000), e-mail (directv.com/email) or mail (DIRECTV Privacy Policy, P.O. Box 6550, Greenwood Village, CO 80155-6550 ). 
 
 **I. Types of Information we collect and how we collect it.**
 
@@ -29,7 +29,7 @@ We use the term "Personally Identifiable Viewing Information" to refer to inform
 
 **"Account Information"** means information about your DIRECTV service account, including your name, address, social security number, e-mail address, telephone number, what programming packages you subscribe to, consumer credit reports, the model and serial number of your DIRECTV Receiver, software version used, and privacy preferences. Account Information does not include any Personally Identifiable Viewing Information or Anonymous Viewing Information, as defined below. We collect Account Information directly from you when you activate or change your service, as well as from third parties, such as consumer reporting agencies.
 
-**"Service Information"** mmeans information necessary for us to provide service to your DIRECTV Receiver. Examples of Service Information include your receiver's software version number and the success status of the last attempted service call by your receiver. 
+**"Service Information"** means information necessary for us to provide service to your DIRECTV Receiver. Examples of Service Information include your receiver's software version number and the success status of the last attempted service call by your receiver. 
 
 **"Anonymous Viewing Information"** means information about use of your DIRECTV Receiver, that is not associated with or linked to your Account Information. Your DIRECTV Receiver regularly sends Anonymous Viewing Information to us. This information allows us to know, for example, that a customer from a particular city watched a show, but we cannot associate those viewing choices with you. You may request that we block the collection of Anonymous Viewing Information from your DIRECTV Receiver as described in Section IV below.
 
@@ -37,7 +37,7 @@ We use the term "Personally Identifiable Viewing Information" to refer to inform
 
 **"Commerce Information"** means Personally Identifiable Information that enables a commerce partner to fulfill your request to participate in a promotion or transaction. From time to time, we may present on-screen offers or enable you to buy goods and services from us or third parties. Only if you take advantage of such an offer or engage in a transaction, will we collect and send information such as your name and address and your interest in a specific offer or transaction to the sponsor of the promotion or transaction. In addition to fulfilling your request, that commerce partner may also use your Commerce Information to send you other information in which you might be interested consistent with its own privacy policies.
 
-**"Web Site Information"** means information collected and stored on our web servers when you become a registered user of, or visit, our Web sites. If you are a customer and register on our Web sites to access your DIRECTV account, we may collect information that you provide us (including your e-mail address) and use it in accordance with this Privacy Policy. Whether or not you are a DIRECTV customer,we may collect information about visitors to our Web sites as follows:
+**"Web Site Information"** means information collected and stored on our web servers when you become a registered user of, or visit, our Web sites. If you are a customer and register on our Web sites to access your DIRECTV account, we may collect information that you provide us (including your e-mail address) and use it in accordance with this Privacy Policy. Whether or not you are a DIRECTV customer, we may collect information about visitors to our Web sites as follows:
 
 **Cookies:** We use cookies to our Web sites for returning visitors. These cookies remain on your computer and are automatically retrieved when you visit our Web sites at a later time. These cookies contain only information concerning the type of customer and frequently visited pages. No other Customer Information is stored on cookies.
 
@@ -47,7 +47,7 @@ If you are uncomfortable with cookies, you may disable them on your computer. Di
 
 **Aggregate information about Web site visitors:** We create aggregate reports of visitors to our Web sites to measure the performance of our sites. These reports do not contain Customer Information.
 
-**Links to other Web sites:** WWhen you visit our Web sites, you will find many opportunities to link to Web sites of third parties. When you click through to these sites, DIRECTV's Privacy Policy no longer applies. We recommend that you read the privacy policy for any third party Web sites.
+**Links to other Web sites:** When you visit our Web sites, you will find many opportunities to link to Web sites of third parties. When you click through to these sites, DIRECTV's Privacy Policy no longer applies. We recommend that you read the privacy policy for any third party Web sites.
 
 **B. "Personally Identifiable Viewing Information"** means information about the use of your DIRECTV Receiver, if that information is linked to or associated with your Account Information. We do not collect Personally Identifiable Viewing Information unless you give us your express consent to do so. You may choose to consent to DIRECTV's collection of Personally Identifiable Viewing Information by changing your privacy preferences as provided in Section IV below.
 
@@ -87,7 +87,7 @@ Even though Anonymous Viewing Information does not include any Account Informati
 
 You may further opt not to receive communications that we send to you based on your Account Information. If you make this choice, you understand that we will not be able to inform you about any upcoming features, improvements, or promotions regarding your DIRECTV service. In all cases, however, we will collect and use your Account Information (including Service Information) and Diagnostic Information for legitimate business purposes.
 
-If you prefer that we not share your Customer Information with affiliated companies or third parties, please call (1-800-531-5000), e-mail (directv.com/email) or mail us (DIRECTV Privacy Policy, P.O. Box 29079, Glendale, CA 91209-9079). 
+If you prefer that we not share your Customer Information with affiliated companies or third parties, please call (1-800-531-5000), e-mail (directv.com/email) or mail us (DIRECTV Privacy Policy, P.O. Box 6550, Greenwood Village, CO 80155-6550). 
 
 **V. How long we keep Customer Information**
 
@@ -95,7 +95,7 @@ We maintain information about you for as long as we provide service to you, and 
 
 **VI. Our do not contact policy**
 
-We may, from time to time, contact you by mail, e-mail or telephone to tell you about additional products or services that we or third parties may offer. If you do not wish to receive such calls or promotional materials, call (1-800-531-5000), e-mail (directv.com/email) or mail us (DIRECTV Privacy Policy, P.O. Box 29079, Glendale, CA 91209-9079). If you do not wish to receive e-mail, please contact us via e-mail at directv.com/email. 
+We may, from time to time, contact you by mail, e-mail or telephone to tell you about additional products or services that we or third parties may offer. If you do not wish to receive such calls or promotional materials, call (1-800-531-5000), e-mail (directv.com/email) or mail us (DIRECTV Privacy Policy, P.O. Box 6550, Greenwood Village, CO 80155-6550). If you do not wish to receive e-mail, please contact us via e-mail at directv.com/email. 
 
 **VII. How we protect the security of Customer Information**
 
@@ -107,7 +107,7 @@ We protect the security of credit card transactions on the Internet by using a s
 
 **IX. Your access to information and rights under the Communications Act**
 
-You may obtain access to information we collect about you and correct any errors in such information by contacting us anytime by phone (1-800-531-5000), e-mail (directv.com/email) or mail (DIRECTV Privacy Policy, P.O. Box 29079, Glendale, CA 91209-9079).
+You may obtain access to information we collect about you and correct any errors in such information by contacting us anytime by phone (1-800-531-5000), e-mail (directv.com/email) or mail (DIRECTV Privacy Policy, P.O. Box 6550, Greenwood Village, CO 80155-6550).
 
 The Communications Act, 47 U.S.C. § 338(i), governs our practices concerning the collection and disclosure of personally identifiable information about you. If you believe we have violated the provisions of the Communications Act, you may bring an action for damages, reasonable attorneys? fees, and costs. The DIRECTV Customer Agreement contains our agreement that claims such as these will be resolved by binding arbitration. You received a copy of the Customer Agreement in your first bill. It is also available at directv.com.
 
@@ -115,6 +115,6 @@ The Communications Act, 47 U.S.C. § 338(i), governs our practices concerning th
 
 We reserve the right to change this Privacy Policy at any time. If we make a significant change with regard to our collection or use of information about our customers, we will note on the main page of our Web sites that this Policy has been updated and may take additional reasonable steps to notify you about the new or revised Policy. In most cases, we will attempt to notify you in some form 30 days before the effective date of the change.
 
-To comment on or ask about this Policy, call (1-800-531-5000), e-mail (directv.com/email) or mail us (DIRECTV Privacy Policy, P.O. Box 29079, Glendale, CA 91209-9079). 
+To comment on or ask about this Policy, call (1-800-531-5000), e-mail (directv.com/email) or mail us (DIRECTV Privacy Policy, P.O. Box 6550, Greenwood Village, CO 80155-6550). 
 
 © 2006 DIRECTV, Inc. DIRECTV and the Cyclone Design logo are registered trademarks of DIRECTV, Inc. 02/06 26791CSS 0506IPRPOL5431 
