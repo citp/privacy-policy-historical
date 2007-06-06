@@ -1,8 +1,24 @@
-> *The following text is extracted and transformed from the anywebcam.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230043904id_/http%3A//www.anywebcam.com/awc/html/lang_10000/content/popup/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anywebcam.com privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606194723id_/http%3A//www.anywebcam.com/awc/html/lang_10000/content/popup/privacy_policy.html) for the most accurate reproduction.*
 
 # ANYwebcam.com
 
 ## Privacy Policy
+
+Anywebcam CY Limited.   
+Michalakopoulou 12,  
+4th floor, Flat/Office 401,  
+P.C. 1075, Nicosia, Cyprus
+
+ANYwebcam.com USA LLC.  
+3305 W Spring Mountain Rd,  
+Ste# 60-15,  
+Las Vegas NV 89102 USA
+
+                    ANYwebcam.com Pty Ltd.  
+ACN: 098 473 691.  
+P.O. Box 454,  
+Prahran, Vic, 3181  
+Australia
 
 This is the web site of ANYwebcam.com.  
 Our postal address is;  
