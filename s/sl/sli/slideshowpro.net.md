@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the slideshowpro.net privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206095001id_/http%3A//slideshowpro.net/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slideshowpro.net privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606114744id_/http%3A//slideshowpro.net/privacy_policy.php) for the most accurate reproduction.*
 
-# SlideShowPro - Be right back
+# SlideShowPro / Privacy Policy
 
 We respect your right to privacy. SlideShowPro.net collects only the information necessary for us to complete your order or to contact to you regarding the status of your order. The information we collect includes your name, email address, shipping address, and billing address. SlideShowPro does not store your credit card information. 
 
