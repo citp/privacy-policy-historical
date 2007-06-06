@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the brainmass.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113014624id_/http%3A//brainmass.com/content/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainmass.com privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606194932id_/http%3A//www.brainmass.com/content/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Homework Help from BrainMass
 
-|   |   
----|---  
-  
 This document explains BrainMass Inc.’s (“BrainMass.com”) policies for the collection, use and disclosure of personal information.
 
 This policy forms part of, and should be read in conjunction with, our Terms and Conditions and Legal Disclaimer.
