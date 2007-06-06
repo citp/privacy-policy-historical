@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flyordie.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225160358id_/http%3A//www.flyordie.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyordie.com privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606105259id_/http%3A//www.flyordie.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -17,16 +17,16 @@ In order to use the multi-player games section of this website the user can opti
 
 Order
 
-We request information from the user on our order forms. Here a user must provide contact information (like name and shipping address) and optionally financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, this contact information is used to get in touch with the user.
+We request information from the user on our order forms. Here a user must provide contact information (like name and address) and optionally financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, this contact information is used to get in touch with the user.
 
 Cookies
 
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site.  By setting a cookie on our site, the user would not have to log in more than once to start the multi-player games, thereby saving time while on our site. Once the user closes their browser, the cookie simply terminates - except when the user expressly requests the cookie to remain set.  If a user rejects the cookie, they may still use our site.  
+A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site.  By setting a cookie on our site, the user would not have to log in more than once to start the multi-player games, thereby saving time while on our site. If a user rejects cookies, they may still use our site.  
 Some of our business partners use cookies on our site (for example, advertisers).  However, we have no access to or control over these cookies.
 
 Third Party Advertising
 
-We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.maxonline.com/privacy_policy/index.php).
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (NOT including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. 
 
 Third Party Cookies
 
@@ -56,10 +56,6 @@ Surveys & Contests
 
 From time-to-time our site requests information from users via surveys or contests.  Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level).  Contact information will be used to notify the winners and award prizes.  Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
 
-Tell-A-Friend
-
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address.  FlyOrDie.com will automatically send the friend a one-time email inviting them to visit the site.  FlyOrDie.com stores this information for the sole purpose of sending this one-time email. The friend may reply to unsubscribe in the subject line in the email to request the removal of this information from their database or by writing to [support@flyordie.com](mailto:support@flyordie.com).
-
 Security
 
 This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line.
@@ -70,23 +66,13 @@ While we use SSL encryption to protect sensitive information online, we also do 
 
 If you have any questions about the security at our website, you can send an email to [security@flyordie.com](mailto:security@flyordie.com).
 
-Supplementation of Information
-
-In order for this website to properly fulfill its obligation to our customers, it is necessary for us to supplement the information we receive with information from 3rd party sources.
-
-For example, to determine if our customers qualify for one of our credit cards, we use their name and social security number to request a credit report. Once we determine a user's credit-worthiness, this document is destroyed.
-
 Special Offers
 
 We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our choice and opt-out below.
 
-Site and Service Updates
-
-We also send the user site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email or phone.
-
 Correction/Updating Personal Information
 
-If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done at the member information page or by emailing our Customer Support.
+If a user's personally identifiable information changes, or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done at the member information page or by emailing our Customer Support.
 
 Choice/Opt-out
 
