@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faro.com privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228204733id_/http%3A//www.faro.com/contentv2.aspx%3Fct%3DUS%26content%3Dmisc%26cat%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faro.com privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606153048id_/http%3A//www.faro.com/contentv2.aspx%3Fct%3Dus%26content%3Dmisc%26cat%3Dprivacy) for the most accurate reproduction.*
 
 # FARO International USA - Privacy Policy
 
@@ -69,11 +69,13 @@ The inquiries should include the individual's name, address, and other relevant 
   
 ---|---  
   
-|   
----  
 FARO Technologies Inc.  
-125 Technology Park · Lake Mary, FL32746  
-1-800-736-0234 · (407)333-9911   
-FARO, THE MEASURE OF SUCCESS and the Faro Blue color are registered   
-trademarks and trademarks of FARO Technologies Inc.© 2001-2006 FARO  
-Technologies Inc. All Rights Reserved | 
+125 Technology Park - Lake Mary, FL 32746  
+(800) 736-0234 - (407) 333-9911 
+
+| 
+
+FARO, THE MEASURE OF SUCCESS is a registered trademark of FARO Technologies Inc. © 2001-2006 FARO Technologies Inc. All Rights Reserved. 
+
+| |  |   
+---|---|---|---
