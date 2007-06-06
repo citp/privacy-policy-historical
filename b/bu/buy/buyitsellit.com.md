@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyitsellit.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110184814id_/http%3A//buyitsellit.com/bisi/privacy_policy.vhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyitsellit.com privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606183504id_/http%3A//www.buyitsellit.com/bisi/privacy_policy.vhtml) for the most accurate reproduction.*
 
 # BuyItSellIt.com: Privacy Policy
 
