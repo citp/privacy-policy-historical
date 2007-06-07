@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fccj.edu privacy policy that was archived on 2006-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061009011225id_/http%3A//fccj.edu/current/stucomputing/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fccj.edu privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607204232id_/http%3A//fccj.edu/current/stucomputing/privacypolicy.html) for the most accurate reproduction.*
 
 # student computing services
 
@@ -35,11 +35,11 @@ E-mail Privacy Policy
   
 ---  
   
-[Chapter 2006-232, Laws of Florida (PDF)](http://election.dos.state.fl.us/laws/06laws/ch_2006-232.pdf), requires the Florida Community College to post the following notice:
+[Chapter 2006-232, Laws of Florida (PDF)](http://election.dos.state.fl.us/laws/06laws/ch_2006-232.pdf), requires Florida Community College to post the following notice:
 
-Under Florida law, e-mail addresses are public records. If you do not want your e-mail address released in response to a public-records request, do not send electronic mail to Florida State University. Instead, make contact by phone or in writing.  
+Under Florida law, e-mail addresses are public records. If you do not want your e-mail address released in response to a public records request, do not send electronic mail to Florida Community College at Jacksonville. Instead, make contact by phone or in writing.  
   
-College-wide Internet Privacy Policy
+College’s Internet Privacy Policy
 
 Thank you for visiting Florida Community College at Jacksonville. Your privacy is very important to us. Simply stated, our policy is not to collect personal information about you when you visit our Web site unless you affirmatively choose to make such information available to us. 
 
