@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the remax.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205223649id_/http%3A//www.remax.com/misc/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remax.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607224036id_/http%3A//www.remax.com/misc/privacy_policy) for the most accurate reproduction.*
 
 # Inside RE/MAX | Privacy Policy
 
