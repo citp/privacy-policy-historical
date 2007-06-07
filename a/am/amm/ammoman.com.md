@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ammoman.com privacy policy that was archived on 2006-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061004085412id_/http%3A//ammoman.com/webstore_privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ammoman.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607115442id_/http%3A//www.ammoman.com/webstore_privacy_policy.htm) for the most accurate reproduction.*
 
 # Discount Distributors
 
