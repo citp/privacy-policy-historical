@@ -1,72 +1,111 @@
-> *The following text is extracted and transformed from the firebox.com privacy policy that was archived on 2006-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061013045724id_/http%3A//www.firebox.com/index.html%3Fdir%3Dadmin%26action%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firebox.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607172129id_/http%3A//www.firebox.com/index.html%3Fdir%3Dadmin%26action%3Dprivacy) for the most accurate reproduction.*
 
 # Gadgets, games, boys toys & gift ideas from Firebox.com
 
-Firebox.com Plain English Privacy Policy.
+Firebox.com Privacy Policy
 
-Firebox makes a commitment to protecting your privacy and promises only to use information collected about you in accordance with the Data Protection Act 1998.
+Firebox takes our commitment to your privacy seriously, and we treat any information you provide us with care. By visting the Firebox.com website you are accepting and consenting to the practices described in our Privacy Policy, which is available in two formats:
 
-**What information do we collect?**
-
-  * When you place an Order, we may ask you for certain information and you may submit personal data to firebox.com (for example your name, phone number, postal address, email address, contact and bank / credit card details). We may also record which products you are interested in and which products you purchase as well as customer traffic patterns and site use.
-  * This information will be kept securely in accordance with our internal security policy and may be used to: 
-    1. process your Order;
-    2. provide you with an up to date, efficient, and reliable service;
-    3. help fraud prevention i.e. we check card details with our credit agency and reserve the right to refuse Orders on that basis (your credit rating can be checked for a nominal fee with the main UK agencies Equifax and Experian);
-    4. open and run your account;
-    5. administer prize draws;
-    6. provide a more personal shopping experience.
-  * By making an Order and submitting your data you agree to this use.
-  * From time to time we also monitor and record telephone calls for training purposes and to improve the service to you.
-  * We will never collect sensitive information about you without your explicit consent.
+  * Plain English Privacy Policy \- a "Plain English" Format for you to read
+  * P3P Privacy Policy \- in the Industry Standard "P3P" Format [[click here more info](http://www.w3.org/TR/P3P/#P3P1.0)]
 
 
 
-**Marketing Communications**
+* * *
 
-  * Firebox will not send you any marketing emails or pass your information on to third parties unless you give us your consent, or unless we have it already.
-  * If you have used the firebox.com web site before or have Ordered Products from Firebox before it is possible that we have this information already and it is being used to contact you about offers, events, items or related activities that you may find useful. If you are an existing customer we will continue to keep you informed unless you tell us not to.
-  * If you are a new customer we will give you the choice (for example once you have placed an Order) whether or not you want us or other reputable companies to contact you about future offers, events and new Products or related activities that you may find useful.
-  * From time to time we may want to share data with other trustworthy and reputable companies both within and outside the European Union who may we think may have interesting offers and information for you. If you no longer wish us to do this please email us at [privacy@firebox.com](mailto:privacy@firebox.com) at any time. 
-  * If you indicate to us that you would NOT like to receive information from third parties then we will not pass on your data to any other third parties but if you are an existing customer we cannot control those who presently have it. 
-  * If you join the Mailing Preference Service your name should be removed from responsible direct mail companies lists. An application form can be filled out on-line at [http://www.mpsonline.org.uk/](http://www.mpsonline.org.uk/mpsr/mps_choosetype.html).
+Firebox is commited to protecting your privacy and promises only to use information collected about you in accordance with our Privacy Policy below:
 
-
-
-**Cookies - Firebox.com Website**
-
-  * In Order to improve our service and firebox.com we may use a device known as a 'cookie'. Cookies are a means by which information relating to your Internet activity (such as whether you have visited firebox.com before) is recorded on your hard drive and used by us to improve firebox.com and the products and services available to you.
-  * If you do not wish for us to use cookies when you use firebox.com please adjust your Internet browser settings to not accept cookies. Your computer's help file should tell you how to do this. 
-
-
-
-**Cookies - 3rd Party Ad Serving**
-
-  * We allow other companies, called third-party ad servers or ad networks, to serve advertisements within our web pages. Because your web browser must request these advertising banners from the ad network Web site, these companies can send their own cookies to your cookie file, just as if you had requested a web page from our website. Please note that if an advertiser asks us to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 13-24 who have viewed sports content) and you respond to that ad, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. As always remember, we only authorise our third-party ad servers to employ anonymous cookies for ad delivery and anonymous targeting. Our third-party ad servers do not collect, nor do we give them access, to any personally identifying information about you. 
-
-**Opting Out of Third-Party Ad Servers**  
-If you want to prevent a third-party ad server from sending and reading cookies on your computer, currently you must visit each ad network's Web site individually and opt out (if they offer this capability). Currently we have relationships with the following third-party ad networks (click to visit their Web site):
-
-[24/7 Real Media, Inc.](http://www.247realmedia.com/privacy.html)
+  * Who We Are
+  * What Information we Collect
+  * How We Use this Information
+  * Data Security
+  * Who Else May See Your Data
+  * Marketing Communications - Firebox
+  * Marketing Communications - 3rd Party
+  * Cookies
+  * 3rd Party Ad Serving
+  * Your Concerns
+  * Contact Us
 
 
 
+**Who We Are**  
+Any personal information provided to or gathered by Firebox.com is controlled by Firebox.com Ltd ("Firebox", "We", "Us), a company registered in England and Wales (Company No. 3874477), with a registered office at 41 Welbeck Street, London, W1M 8HD. We are registered with the Information Commissioner in accordance with the Data Protection Act 1998, Data Protection Registration no. Z4645092. 
 
-**Your Privacy**
+**What Information we Collect**  
+When you place an Order or otherwise interact with the Firebox.com Website, we may ask you for certain information and you may submit personal data to Us (for example your name, phone number, postal address, email address, contact and bank / credit card details). We may also record which products you are interested in and which products you purchase as well as customer traffic patterns and site use.
 
-  * If you have any questions or comments about privacy or the Firebox privacy policy, or if you already have submitted information that you do not wish us to have or if you think that Firebox has cookies or data about you that you don't want us to use or that is incorrect please contact us at the address below, by telephone (on 0870 241 4289) or email (at info@firebox.com) and the information will be corrected as soon as possible or removed from our database as you request. 
-  * Firebox is registered with the Information Commissioner in accordance with the Data Protection Act 1998.
-  * Firebox has a dispute resolution mechanism. If you think we have not followed our privacy policy in some way, please [email us](mailto:info@firebox.com) and we can help you resolve your concern.
+Some examples of how information may be collected by us: 
+
+  * **Information You Provide Us:** we receive and store information that you submit when using our website or that you provide us in any other way (for example by email or telephone). This information may be provided when ordering from us (via our website or by telephone); searching our website; entering competitions; requesting a catalogue; accessing your account; querying order status; or by submitting text/photo/video reviews of us and our products. 
+  * **Information Automatically Provided:** we receive, process and store certain information whenever you interact with our website. Like many websites, we use "cookies" (see below) and obtain certain information automatically when your Web browser accesses the Firebox.com website. Information automatically received by us includes the IP address that your computer uses to connect to the internet; your computer, browser, operating system and internet connection details; purchase history (which we may aggregate with other shoppers to form the "Firebox Top 20"); clickstream/path analysis of your journey through our website; products you searched for. We may also use software tools provided by Nielsen//NetRatings to measure and collect session information, length of visits to certain pages, repeat visits and page interaction information (such as clicks). 
+  * **Email Communications:** to help us make our email newsletter more useful and interesting for our customers we attempt to receive a confirmation when you open and click on email newsletters from Firebox.com (if your email software/service supports this option). If you no longer wish to receive email newsletters, please notify us using the links provided in each newsletter. 
+  * **Telephone Calls:** From time to time we monitor and record telephone calls for training purposes and to improve the quality of our service to you.
+  * **Information from 3rd Parties:** we may receive information about you from other sources and add this to our account information. For example we update address information using data from third parties (including the Royal Mail "Change of Address" File), which we may use to correct our records and deliver your next catalogue to the correct updated address. 
 
 
 
-**Customer Service Contact**
+**How We Use This Information**  
+Information is kept securely in accordance with our internal security policy and may be used to: 
 
-You may resolve any issues that concern your interaction with firebox.com by: 
-  * email to [info@firebox.com](mailto:info@firebox.com); or
-  * post at Firebox.com Ltd, Firebox House, Ardwell Road, Streatham Hill, London, SW2 4RT; or 
-  * fax to 0870 220 2178; or 
-  * telephoning 0870 241 4289 between the office hours of 10am and 6pm GMT. 
+  1. Process and deliver your Order;
+  2. Provide Customer Support services to you;
+  3. Provide you with an up to date, efficient, and reliable service;
+  4. Help prevent fraud (eg. we may check credit card details with our credit agency and reserve the right to refuse Orders on that basis. Your credit rating can be checked for a nominal fee with the main UK agencies Equifax and Experian);
+  5. Open and run your Firebox customer account;
+  6. Administer prize draws;
+  7. Provide a more personal shopping experience.
+
+By making an Order and/or submitting your data to us you agree to this use. 
+
+**Data Security**  
+Your safety is guaranteed because Firebox.com uses the latest security measures to protect your details when you shop with us. We use 128-bit SSL Software to encrypt your credit/debit card information when you place an order on our secure server, which means that only we are able to decrypt the information in order to process your transaction. Please [click here](https://web.archive.org/index.html?dir=admin&action=help#safety) for more information on Security and Credit Card Safety while shopping at Firebox.com. 
+
+**Who Else May See Your Data**  
+In order to complete your order we may need to disclose some of your information to our delivery partners including Royal Mail, City Link, Parcel Line and their affiliates. 
+
+**Marketing Communications - Firebox**  
+When ordering from Firebox, entering competitions or otherwise interacting with us we may give you the chance to subscribe to our email newsletter. We promise not to bombard you with emails - to make it worth your while we only get in touch when we truly have interesting news to share.
+
+If you no longer wish to receive email newsletters, please notify us using the links provided in each newsletter or by clicking [here](https://web.archive.org/index.html?dir=admin&action=newsletter).
+
+We may also from time to time send you the Firebox Catalogue by post to the invoice address specified when placing an order with us (or to the address provided when requesting a catalogue from us). If you do not wish to receive further catalogues please [email us](mailto:privacy@firebox.com) to let us know.
+
+**Marketing Communications - 3rd Party**  
+Firebox will not pass your information on to third parties unless you give us your consent - either at the time of providing the information to us, or previously if we have already received consent from you.
+
+When you place an order with Firebox we may give you the choice for other reputable companies to contact you BY POST about future offers, events and new Products or related activities that you may find useful. 
+
+If you no longer wish us to do this please email us at [privacy@firebox.com](mailto:privacy@firebox.com) at any time.
+
+If you have any concerns over receiving unsolicited post you can join the Mailing Preference Service and your name should be removed from the lists held by responsible direct mail companies. An application form can be filled out on-line at [http://www.mpsonline.org.uk/](http://www.mpsonline.org.uk/mpsr/mps_choosetype.html).
+
+**Cookies**  
+In Order to improve our service we may use a device known as a 'cookie'. Cookies are a means by which information relating to your Internet activity (such as whether you have visited firebox.com before) is recorded on your hard drive and used by us to improve Firebox.com and the products and services available to you.
+
+If you do not wish for us to use cookies when you use the Firebox.com website please adjust your Internet browser settings to not accept cookies. The Help option on the menu bar of your web browser should explain you how to do this. Please note that cookies allow you to take full advantage of the services we provide through the Firebodx.com website and so we recommend that you leave them turned on.
+
+**3rd Party Ad Serving** We allow other companies, called third-party ad servers or ad networks, to serve advertisements within our web pages. We do not provide any personally identifiable customer information to these advertisers or third-party websites. 
+
+  * **Cookies**  
+Because your web browser must request these advertising banners from the ad network Web site, these companies can send their own cookies to your cookie file, just as if you had requested a web page from our website. Please note that if an advertiser asks us to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 13-24 who have viewed sports content) and you respond to that ad, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. We only authorise our third-party ad servers to employ anonymous cookies for ad delivery and anonymous targeting. 
+  * **Opting Out of Third-Party Ad Serving**  
+If you want to prevent a third-party ad server from sending and reading cookies on your computer, currently you must visit each ad network's Web site individually and opt out (if they offer this capability). 
+
+Currently we have relationships with the following third-party ad networks (click to visit their Web site): [24/7 Real Media, Inc.](http://www.247realmedia.com/privacy.html)
+
+**Your Concerns**  
+If you have any questions or comments about privacy or the Firebox privacy policy, or if you already have submitted information that you do not wish us to have or if you think that Firebox has cookies or data about you that you don't want us to use or that is incorrect please contact us at the address below, by telephone (on 0844 922 1010) or email (at [info@firebox.com](mailto:info@firebox.com)) and the information will be corrected as soon as possible or removed from our database as you request.
+
+Firebox has a dispute resolution mechanism. If you think we have not followed our privacy policy in some way, please [email us](mailto:info@firebox.com) and we can help you resolve your concern.
+
+**Customer Service Contact**  
+You may resolve any issues that concern your interaction with Firebox.com by: 
+
+  * **Email** to [info@firebox.com](mailto:info@firebox.com); or
+  * **Post** at Firebox.com Ltd, Firebox House, Ardwell Road, Streatham Hill, London, SW2 4RT; or 
+  * **Fax** to 0870 220 2178; or 
+  * **Telephone** on 0844 922 1010 ([click here](https://web.archive.org/index.html?dir=admin&action=contact) for office hours). 
 
 
 
@@ -75,10 +114,10 @@ You may resolve any issues that concern your interaction with firebox.com by:
 Our homepage on the Web is located at [http://www.firebox.com](http://www.firebox.com/).
 
 The full text of our privacy policy is available on the Web at:  
-[ http://www.firebox.com/index.html?dir=admin&action=privacy](http://www.firebox.com/index.html?dir=admin&action=privacy)
+[ www.firebox.com/index.html?dir=admin&action=privacy](http://www.firebox.com/index.html?dir=admin&action=privacy)
 
 Users may go to:  
-[ http://www.firebox.com/index.html?dir=admin&action=privacy](http://www.firebox.com/index.html?dir=admin&action=privacy)  
+[ www.firebox.com/index.html?dir=admin&action=privacy](http://www.firebox.com/index.html?dir=admin&action=privacy)  
 for information on how to opt-in or opt-out of use of their information.
 
 We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
@@ -92,7 +131,7 @@ We invite you to contact us if you have questions about this policy. You may con
 
 You may contact us by e-mail at [info@firebox.com](mailto:info@firebox.com).
 
-You may call us at 0870 241 4289.
+You may call us at 0844 922 1010.
 
 **Dispute Resolution and Privacy Seals**
 
