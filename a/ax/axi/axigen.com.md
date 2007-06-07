@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axigen.com privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229034941id_/http%3A//www.axigen.com/mail-server/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axigen.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607174841id_/http%3A//www.axigen.com/mail-server/privacy-policy.php) for the most accurate reproduction.*
 
 # AXIGEN Mail Server - Privacy Policy
 
@@ -24,7 +24,7 @@ If you decide to contact us through our [Feedback](https://web.archive.org/about
 
 ## Newsletter Subscription
 
-By subscribing to our [email newsletter](https://web.archive.org/mail-server/newsletter.php "AXIGEN Newsletters"), you agree to occasionally receive a newsletter containing updates about our company and products until you unsubscribe. You may unsubscribe at any time by sending and empty email message to: [news-unsubscribe@lists.axigen.com](mailto:news-unsubscribe@lists.axigen.com "Unsubscribe"). Subscription to our newsletter is optional and requires your consent. 
+By subscribing to our [email newsletter](https://web.archive.org/newsletter/ "AXIGEN Newsletters"), you agree to occasionally receive a newsletter containing updates about our company and products until you unsubscribe. You may unsubscribe at any time by sending and empty email message to: [news-unsubscribe@lists.axigen.com](mailto:news-unsubscribe@lists.axigen.com "Unsubscribe"). Subscription to our newsletter is optional and requires your consent. 
 
 If you sign up for a specific e-mail newsletter on one of GECAD TECHNOLOGIES sites, you will only receive the e-mail newsletter you have requested. You may receive occasionally an offer to sign up for a different newsletter, but you will not receive additional newsletters unless your specifically request them. 
 
