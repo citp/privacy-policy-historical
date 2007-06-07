@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the niteflirt.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212115716id_/http%3A//www.niteflirt.com/documents/help/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niteflirt.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608005938id_/http%3A//www.niteflirt.com/documents/help/privacypolicy.asp) for the most accurate reproduction.*
 
 # NiteFlirt: Privacy Policy
 
