@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quicksales.com.au privacy policy that was archived on 2006-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061221013403id_/http%3A//www.carsales.com.au/pls/carsales/%21quick_content.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quicksales.com.au privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607153201id_/http%3A//www.carsales.com.au/pls/carsales/%21quick_content.privacy) for the most accurate reproduction.*
 
 # quicksales.com.au quicksales.com.au : Privacy Policy
 
@@ -90,7 +90,7 @@ Location: | 77 Atherton Road, Oakleigh VIC 3166
 Postal Address:    | Locked Bag 3333, Oakleigh VIC 3166  
 Phone: | +61 (03) 9093 8600 (Business Hours EST)  
 Contact: | Patricia Chalmers  
-Email: | [Click](https://web.archive.org/web/20061221013403id_/http%3A//www.carsales.com.au/pls/carsales/!quick_content.contact) on the "contact us" link at the bottom of this page  
+Email: | [Click](https://web.archive.org/web/20070607153201id_/http%3A//www.carsales.com.au/pls/carsales/!quick_content.contact) on the "contact us" link at the bottom of this page  
   
 We will try our best to answer any queries as quickly as possible.  
  
