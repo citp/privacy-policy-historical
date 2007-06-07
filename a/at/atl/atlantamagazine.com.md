@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlantamagazine.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206190347id_/http%3A//www.atlantamagazine.com/about/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlantamagazine.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607192517id_/http%3A//www.atlantamagazine.com/about/privacy_policy.php) for the most accurate reproduction.*
 
 # Atlanta Magazine - Company Information
 
