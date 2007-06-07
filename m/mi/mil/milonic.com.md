@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milonic.com privacy policy that was archived on 2006-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061015171312id_/http%3A//www.milonic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milonic.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607071430id_/http%3A//www.milonic.com/privacy.php) for the most accurate reproduction.*
 
 # Milonic Solutions Privacy Policy
 
@@ -40,9 +40,7 @@ This site contains links to other sites. Milonic Solutions is not responsible fo
 By using our site, you agree to this Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version. We may change it by posting a new version on our site at any time.
 
 _**REVIEWING PERSONAL DATA**_  
-You can review and validate the information, that we have collected about you by [Contact Us](https://web.archive.org/contacting.php)
+You can review and validate the information, that we have collected about you by [Contact Us](https://web.archive.org/contactus.php)
 
 **_CONTACTING THE WEB SITE_**  
 If you have any questions or comments about this privacy statement, the practices of this site, or your dealings with this Web Site please [Contact Us](https://web.archive.org/contactus.php)
-
-[The law on spam email](https://web.archive.org/spamlaws.php)
