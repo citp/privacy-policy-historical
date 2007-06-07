@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divavillage.com privacy policy that was archived on 2006-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061010065801id_/http%3A//www.divavillage.com/article.php%3Fid%3D24072) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divavillage.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608013928id_/http%3A//www.divavillage.com/article.php%3Fid%3D24072) for the most accurate reproduction.*
 
 # Privacy Policy - DivaVillage.com: Fashion, Entertainment, Beauty, Hair, Hot Finds
 
@@ -82,4 +82,5 @@ In addition to the foregoing, DivaVillage may share or disclose personally ident
 
 When you voluntarily give out any personal information, like your name, mailing address, telephone number, city, or school, in chat areas or on bulletin boards, that information can be collected and used by others. They may send you messages that you don't want or that are inappropriate. We suggest that you never post this type of information in chat rooms, or other areas open to the public, for your own safety. 
 
+  
 | 
