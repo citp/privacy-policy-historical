@@ -1,8 +1,13 @@
-> *The following text is extracted and transformed from the stats.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208050222id_/http%3A//www.stats.com/default.asp%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stats.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607220333id_/http%3A//biz.stats.com/privacy.asp) for the most accurate reproduction.*
 
-# STATS
+# :: WELCOME TO STATS ::
 
-****STATS ("STATS") is part of the News America Group, which has adopted a set of[Privacy Principles](http://www.newscorp.com/privacy.html) applicable to all its U.S.-based companies. STATS has implemented those Principles in this Privacy Policy, which describes how we collect, use and share personally identifiable information ("PII") we obtain from and about individuals located in the U.S. 
+|    
+**
+
+### Privacy Policy
+
+** STATS ("STATS") is part of the News America Group, which has adopted a set of [Privacy Principles](http://www.newscorp.com/privacy.html) applicable to all its U.S.-based companies. STATS has implemented those Principles in this Privacy Policy, which describes how we collect, use and share personally identifiable information ("PII") we obtain from and about individuals located in the U.S. 
 
 From time to time STATS may revise this Privacy Policy to reflect changes in the law, technology or industry initiatives. Therefore, you should review it periodically so that you are up to date on our most current policies and practices. 
 
@@ -50,7 +55,7 @@ STATS uses reasonable administrative, technical, personnel and physical measures
 
 **ACCESS: HOW TO ACCESS, CORRECT OR DELETE YOUR PII**
 
-You may contact STATS via e-mail at support@stats.com or via fax at (847) 470-9140 in order to obtain information on how to review your PII and correct and/or delete such PII from STATS' database. 
+You may contact STATS via e-mail at helpdesk@stats.com or via fax at (847) 470-9140 in order to obtain information on how to review your PII and correct and/or delete such PII from STATS' database. 
 
 **REMEDIES AND COMPLIANCE: HOW TO CONTACT STATS ABOUT PRIVACY CONCERNS**
 
@@ -60,3 +65,5 @@ If you have any concerns or questions about the STATS Privacy Policy please feel
 8130 Lehigh Ave.   
 Morton Grove, IL 60053   
 Attn: Customer Service **
+
+|  |  |  |  | 
