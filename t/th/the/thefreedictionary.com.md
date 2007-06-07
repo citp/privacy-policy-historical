@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the thefreedictionary.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210020503id_/http%3A//www.thefreedictionary.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefreedictionary.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607034530id_/http%3A//www.thefreedictionary.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
+
+| 
 
 **Farlex, Inc.  
 ****Version 3.0  
