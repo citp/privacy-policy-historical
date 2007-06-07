@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blacksexfinder.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214022936id_/http%3A//www.blacksexfinder.com/public.php%3Fgo%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blacksexfinder.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607153905id_/http%3A//www.blacksexfinder.com/public.php%3Fgo%3Dprivacy) for the most accurate reproduction.*
 
 # Black Sex - Privacy Policy
 
@@ -45,11 +45,6 @@ If you have any questions regarding the above Policy Statement, please contact u
 [](https://web.archive.org/register.php)
 
 [](https://web.archive.org/rate.php?go=top&p=0&cat=0)
-
-[](http://www.adameve.com/AffiliateEntry.asp?bid=409&eid=869&aid=6584)
-
-[](http://links.adultelite.com/?s=herthickblackass&r=ae12875&p=ft&j=1&t=ebony)   
-
 
 |   
 ---  
