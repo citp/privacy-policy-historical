@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bulletads.com privacy policy that was archived on 2006-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061120151400id_/http%3A//bulletads.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulletads.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607194954id_/http%3A//www.bulletads.com/privacypolicy.php) for the most accurate reproduction.*
 
 # BulletAds
 
