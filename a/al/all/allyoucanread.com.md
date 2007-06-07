@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allyoucanread.com privacy policy that was archived on 2006-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061022014503id_/http%3A//www.allyoucanread.com/corp/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allyoucanread.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607133042id_/http%3A//www.allyoucanread.com/corp/privacy_policy.asp) for the most accurate reproduction.*
 
 # AllYouCanRead.Com - Privacy Statement
 
@@ -52,7 +52,7 @@ These are the instances in which we will share users' personal information:
 
 Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for information.
 
-Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by offering an opt-out mechanism on the "My News" pages or contacting us at [help@allyoucanread.com](mailto:help@allyoucanread.com).
+Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by offering an opt-out mechanism on the "My News" pages or contacting us at: **allyoucanread[AT]amixima[DOT]com**.
 
 Users of AllYouCanRead.com are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party.
 
@@ -73,10 +73,14 @@ AMIXIMA takes every precaution to protect our users' information. When users sub
 When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just 'surfing'. 
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users' information is protected.   
-If users have any questions about the security at our Web site, users can send an email to [privacy@allyoucanread.com](mailto:privacy@allyoucanread.com).
+If users have any questions about the security at our Web site, users can send an email to: **allyoucanread[AT]amixima[DOT]com**
+
+.
 
 Correcting/Updating/Deleting/Deactivating Personal Information  
-If a user's personally identifiable information changes (such as , email or country), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can usually be done at the member information page or by emailing our Customer Support at [help@allyoucanread.com.](mailto:help@allyoucanread.com)
+If a user's personally identifiable information changes (such as , email or country), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can usually be done at the member information page or by emailing our Customer Support at: **allyoucanread[AT]amixima[DOT]com**
+
+.
 
 **Notification of Changes**
 
@@ -86,7 +90,5 @@ If we decide to change our privacy policy, we will post those changes to this pr
 If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
 
 **Contact Information**  
-If users have any questions or suggestions regarding our privacy policy, please contact us at: [privacy@allyoucanread.com](mailto:privacy@allyoucanread.com)
-
-  
+If users have any questions or suggestions regarding our privacy policy, please contact us at: **allyoucanread[AT]amixima[DOT]com.**  
 
