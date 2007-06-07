@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accuwebhosting.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206062242id_/http%3A//www.accuwebhosting.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accuwebhosting.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607171027id_/http%3A//www.accuwebhosting.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy notes from AccuWebHosting.Com
 
@@ -37,7 +37,18 @@ Divulgence of Information :
 
 Our client should note that in the following exceptions we may divulge the information;
 
-1.1 To an intended recipient of such information which also includes authorized retailers of goods and services sold by accuwebhosting.com, like 2Checkout, and 3rd party payment processors like VeriSign, BluePay etc, who are payment gateways and operating independently. They are compliant to carry out financial transactions and they follow their own privacy policies over which we do not have any control; 1.2 With a lawful consent of originator; 1.3 To a person authorized to provide technical assistance to our clients; 1.4 To a law enforcement agency as the case may be; 1.5 To a Domain Name Registrar;
+  
+
+
+1.1 To an intended recipient of such information which also includes authorized retailers of goods and services sold by accuwebhosting.com, like 2Checkout, and 3rd party payment processors like VeriSign, BluePay etc, who are payment gateways and operating independently. They are compliant to carry out financial transactions and they follow their own privacy policies over which we do not have any control; 
+
+1.2 With a lawful consent of originator; 
+
+1.3 To a person authorized to provide technical assistance to our clients; 
+
+1.4 To a law enforcement agency as the case may be; 
+
+1.5 To a Domain Name Registrar;
 
 Client Confirmation :
 
@@ -45,8 +56,8 @@ To enable AccuWebHosting.com to use the information supplied such that we are no
 
 Security of client information that we maintain :
 
-We take every best possible measure to provide the highest protection to our client information on our system. However, we can not guarantee that the information submitted, maintained on and transmitted from our system will be completely secured.
+We take every best possible measure to provide the highest protection to our client information on our system. However, we can not guarantee that the information submitted, maintained on and transmitted from our system will be completely secured. In spite of all our security measures we can not rule out the possibility that such information/data could be illegally obtained / destroyed / damaged by some intruder/hacker. In any such event AccuWebHosting.com will not hold any liability thereof.
 
 Changes in Privacy Policy :
 
-AccuWebHosting.com may modify and/or update this Privacy Policy as per the requirement at any time. In case of any major change, we will notify you by placing a notice on our site. 
+AccuWebHosting.com retains the right to change any or all of this entire Privacy Policy without notification. 
