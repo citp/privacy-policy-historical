@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pbreview.com privacy policy that was archived on 2006-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061022160325id_/http%3A//www.pbreview.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbreview.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607214707id_/http%3A//www.pbreview.com/privacy) for the most accurate reproduction.*
 
 # pbreview.com - Paintball Reviews and Paintball Fields
 
