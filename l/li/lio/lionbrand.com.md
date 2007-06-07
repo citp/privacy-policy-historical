@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lionbrand.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216073826id_/http%3A//www.lionbrand.com/content-privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lionbrand.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607181030id_/http%3A//cache.lionbrand.com/content-privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy
+# Lion Brand Yarn Privacy Policy
 
 Lion Brand Yarn is committed to respecting your privacy. We've structured our website so that, in general, you can visit Lion Brand Yarn on the Web without identifying yourself or revealing any personal information. Once you choose to provide us personally identifiable information (any information by which you can be identified), you can be assured that it will only be used to support your customer relationship with Lion Brand Yarn.
 
