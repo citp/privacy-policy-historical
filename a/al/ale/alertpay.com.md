@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alertpay.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231103752id_/http%3A//alertpay.com/SitePrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alertpay.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607191327id_/http%3A//www.alertpay.com/SitePrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # AlertPay.com-My Way To Pay
 
@@ -44,8 +44,8 @@ AlertPay is committed to handling your customer information with high standards 
 
 If you have any questions about this privacy statement, AlertPay's information practices, or your dealings with AlertPay, you can contact us through the following means: 
 
-  * [Our Support page](https://web.archive.org/web/20061231103752id_/http%3A//alertpay.com/SiteContactUs.aspx)
-  * Call us at:  (514)748-5774  Monday through Friday between 10am and 5pm EST 
+  * [Our Support page](https://web.archive.org/web/20070607191327id_/http%3A//www.alertpay.com/SiteContactUs.aspx)
+  * Call us at:  (514)748-5774  Monday through Friday between 10am and 5pm EST
   * Write to us: AlertPay, 5200 De La Savane, Suite 220, Montreal, Quebec H4P-2M8
 
 
