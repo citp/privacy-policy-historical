@@ -1,22 +1,25 @@
-> *The following text is extracted and transformed from the gooutdoors.co.uk privacy policy that was archived on 2006-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061127032432id_/http%3A//www.gooutdoors.co.uk/main.asp%3Fsitepages%3DPrivacyPage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gooutdoors.co.uk privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608002441id_/http%3A//www.gooutdoors.co.uk/privacy) for the most accurate reproduction.*
 
-# Your Privacy at GO Outdoors
+# GO Outdoors | Privacy Policy
+
+Privacy Policy 
+
+* * *
 
 We are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998).
 
-We collect information about you for 2 reasons: firstly, to process your order and second, to provide you with the best possible service.
+We collect information about you for 2 reasons: firstly, to process your order and second, to provide you with the best possible service. 
 
 We may e-mail you regarding the specifics of your order but We will not e-mail you any marketing material in the future unless you have given us your explicit consent.
 
-We will not pass on your information to any third party.
-
+We will not pass on your information to any third party.  
 The type of information we will collect about you includes:
 
-* Your name 
-* Your address 
-* Your phone number 
-* Your email address 
-* credit/debit card details
+**Your name    
+Your address   
+Your phone number   
+Your email address   
+credit/debit card details**
 
 We will never collect sensitive information about you without your explicit consent.
 
@@ -26,4 +29,4 @@ The personal information which we hold will be held securely in accordance with 
 
 We may use technology to track the patterns of behaviour of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings.
 
-If you have any questions/comments about privacy, you should [contact us](https://web.archive.org/web/20061127032432id_/http%3A//www.gooutdoors.co.uk/main.asp?sitepages=ContactPage). 
+If you have any questions/comments about privacy, you should [contact us](https://web.archive.org/web/20070608002441id_/http%3A//www.gooutdoors.co.uk/contact-us). 
