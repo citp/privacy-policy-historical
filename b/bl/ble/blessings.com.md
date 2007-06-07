@@ -1,30 +1,46 @@
-> *The following text is extracted and transformed from the blessings.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110205236id_/http%3A//www.blessings.com/priv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blessings.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607163638id_/http%3A//www.blessings.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy
+# Blessings Christian Marketplace: Privacy Guidelines
 
-Privacy Guidelines
+At Blessings your privacy is important to us. We will do everything possible to protect the information you give us in the store or online. The information we collect is important to operating efficient and effective retail stores. Our pledge to you is that we will protect and use this information with the utmost care and always to your benefit.
 
-At Blessings your privacy is important to us.  We will do everything possible to protect the information you give us in the store or online.  The information we collect is important to operating efficient and effective retail stores.  Our pledge to you is that we will protect and use this information with the utmost care and always to your benefit.
+How we Collect Information 
 
-Each Blessings store asks every customer for their phone number. We use this number to track our customer purchases. The information collected is used to determine which customers will receive the various promotional pieces we send.
+In-Store:
 
-When you enter a Blessings contest, on-line or in the store, the personal information collected is used by Blessings to communicate relevant product offers. All Blessings contest carry the option to 'NOT' receive promotional offers. Choosing to NOT receive e-mail or direct mail offers does not change the likelihood of winning in any way.
+Each Blessings store asks every customer for their phone number. We use this number to track our customer purchases. The information collected is used to determine which customers will receive the various promotional pieces we send. 
 
-When communicating with Blessings electronically we collect customer information including e-mail address and any information that a customer volunteers. All forms allow the customer to choose to NOT receive promotional offers by email or direct mail.
+Contests:
 
-You may receive periodic e-mail notifications from us about new products, services or upcoming events. If you prefer not to receive such mailings, please let us know by requesting 'Do Not Send Email Please". Send the email to [blessingscm@blessings.com](mailto:blessingscm@blessings.com) or call us at 1-800-567-5918. Be sure to include your exact phone number and address.
+When you enter a Blessings contest, on-line or in the store, the personal information collected is used by Blessings to communicate relevant product offers. All Blessings contest carry the option to 'NOT' receive promotional offers. Choosing to NOT receive e-mail or direct mail offers does not change the likelihood of winning. 
 
-When you supply us with your address either on line or in the store we will send you periodic mailings as mentioned above. These mailings will contain a special offer, discount coupon, or information about an upcoming community event.
+Online:
 
-When you supply us with your telephone number, on-line or in the store, we may use this number to contact you regarding an order you have placed.
+When communicating with Blessings electronically we collect customer information including e-mail address and any information that a customer volunteers. All forms allow the customer to choose to NOT receive promotional offers by email or direct mail. 
 
-All credit card transactions are processed using SSL with 128 bit encryption by the PayPaq™ server. Credit card information is stored on the PayPaq™ in a secure environment. At no time does Blessings have access to your credit card information.
+If you are currently on one of our email lists and no longer wish to receive emails from us please visit our [Email Sign-Up](https://web.archive.org/extra-savings/email-sign-up.html) page and enter your email address in the Update Profile section. This will email you a link to a page where you can unsubscribe from any or all of our emails.
 
-Privacy Statement
+How we Communicate With You 
 
-We at Blessings Christian Marketplace will not give out phone numbers or emails to other organizations or individuals. On very rare occasions we may send you information from reputable Christian organizations, but we go to great lengths to ensure that this is always deemed to be in our customer's best interests. If you do not wish to receive these mailings you may request that your name be added to our Do Not Share list by emailing us at [blessingscm@blessings.com](mailto:blessingscm@blessings.com).
+Email:
 
-The information that Blessings Christian Marketplace maintains belongs to our customers. It is always available for viewing by the customer.
+You may receive periodic email notifications from us about new products, services or upcoming events. If you prefer not to receive such emails, please unsubscribe by visiting our [Email Sign-Up](https://web.archive.org/extra-savings/email-sign-up.html) page and updating your profile. The profile update page will provide you with the option to unsubscribe from any or all of our email lists. 
 
-For more information, questions or concerns please contact us at [blessingscm@blessings.com](mailto:blessingscm@blessings.com)    
- 
+Direct Mail:
+
+When you supply us with your address either online or in the store we will send you periodic mailings as mentioned above. These mailings will contain a special offer, discount coupon, or information about an upcoming community event. 
+
+Phone:  
+
+
+When you supply us with your phone number, online or in the store, we may use this number to contact you regarding an order you have placed.
+
+How we Process Your Credit Card Transactions 
+
+All credit card transactions are processed using SSL with 128 bit encryption by the PayPaq™ server. Credit card information is stored on the PayPaq™ in a secure environment.
+
+Privacy Statement 
+
+We at Blessings Christian Marketplace will not give out phone numbers or emails to other organizations or individuals. On very rare occasions we may send you information from reputable Christian organizations, but we go to great lengths to ensure that this is always deemed to be in our customer's best interests. 
+
+The information that Blessings Christian Marketplace maintains belongs to our customers. It is always available for viewing by the customer. 
