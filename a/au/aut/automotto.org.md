@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automotto.org privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206021805id_/http%3A//www.automotto.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automotto.org privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607150223id_/http%3A//www.automotto.org/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - The Automobile Blog - Welcome, Automotto is mad about cars, latest models, latest and biggest car shows, coolest curves and designs, car accessories and products, fast cars, old cars, luxury cars and efficient cars, engines, wheels, batteries, and more...
 
