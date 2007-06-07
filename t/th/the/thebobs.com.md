@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebobs.com privacy policy that was archived on 2006-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061119204633id_/http%3A//thebobs.com/en_1152969649158387MKNFJYYJ_1.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebobs.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607060313id_/http%3A//www.thebobs.com/en_1152969649158387MKNFJYYJ_1.htm) for the most accurate reproduction.*
 
 # The BOBs - BEST OF THE BLOGS - Deutsche Welle International Weblog Awards
 
