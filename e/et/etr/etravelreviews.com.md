@@ -1,147 +1,33 @@
-> *The following text is extracted and transformed from the etravelreviews.com privacy policy that was archived on 2006-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061112132747id_/http%3A//www.etravelreviews.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etravelreviews.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607220553id_/http%3A//www.etravelreviews.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Statement for Earth Travel Reviews
 
   
 
 
-## About Us
+## Effective March 5, 2007
 
-This is a privacy policy for Earth Travel Reviews. Our homepage on the Web is located at [ http://www.etravelreviews.com/](http://www.etravelreviews.com/). The full text of our privacy policy is available on the Web at [ http://www.etravelreviews.com/privacypolicy.html](http://www.etravelreviews.com/privacypolicy.html) Users may go to [ http://www.etravelreviews.com/privacypolicy.html](http://www.etravelreviews.com/privacypolicy.html) for information on how to opt-in or opt-out of use of their information. 
-
-We invite you to contact us if you have questions about this policy. You may contact us by e-mail at [ contactus@etravelreviews.com](mailto:contactus@etravelreviews.com). 
-
-## Dispute Resolution and Privacy Seals
-
-We have the following privacy seals and/or dispute resolution mechanisms. If you think we have not followed our privacy policy in some way, they can help you resolve your concern. 
-
-  * **New Disputes** : Email contactus@etravelreviews.com 
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online visitor information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. This notice applies to all online visitor information collected on the Earth Travel Reviews Web site. The types of online visitor information collected on the Earth Travel Reviews web site are:  
 
 
+  * Membership name
+  * Membership password
+  * Message board comments
+  * Customer service emails
+  * Visitor and session data recorded by server logs
 
-## Additional Information
+Some of our online services are provided by third-party partners, specifically display advertising ([Google Adsense](http://www.google.com/adsense/ "Google Adsense")) and web site hosting ([Doteasy Technology, Inc.](http://www.doteasy.com/ "Doteasy")). These partners may collect information about you. Because Earth Travel Reviews does not control the information policies or practices of these third parties, you should review their privacy policies to learn more about how they collect and use personally identifiable information. We publish the name and comments you submit to our Message Boards where they are publicly viewable for the world to see. Your password is used solely for authenticating your identity when you log into your Message Board account.
 
-This policy is valid for 1 day from the time that it is loaded by a client. 
+We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
 
-## Data Collection
+We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
 
-P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 2 data groups. The data practices of each group will be explained separately. 
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
-* * *
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. You can access all your personally identifiable information that we collect online and maintain by emailing us at: [privacy@etravelreviews.com](mailto:privacy@etravelreviews.com "Contact Us!  We appreciate your feedback."). We use this procedure to better safeguard your information.
 
-### Group "Access log information"
+You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
 
-We collect the following information: 
+To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
-  * Click-stream data
-  * Computer information
-  * Navigation and click-stream data
-  * Search terms
-  * HTTP protocol elements
-  * User's interaction with a page or resource
-
-
-
-At the user's option, we may also collect the following data: 
-
-  * HTTP cookies
-
-
-
-This data will be used for the following purposes:
-
-  * Completion and support of the current activity.
-  * Web site and system administration.
-  * Research and development.
-
-
-
-This data will be used by ourselves and our agents. 
-
-The data in this group has been marked as non-identifiable. This means that there is no reasonable way for the site to identify the individual person this data was collected from. 
-
-The following explanation is provided for why this data is collected:
-
-> Our Web server collects access logs containing this information.
-
-* * *
-
-### Group "Data submitted by user"
-
-At the user's option, we will collect the following data: 
-
-  * Content
-
-
-
-This data will be used for the following purposes:
-
-  * Completion and support of the current activity.
-  * Web site and system administration.
-  * Research and development.
-  * Other purposes
-
-Responding to User Inquiries
-
-
-
-
-This data will be used by ourselves and our agents. 
-
-The following explanation is provided for why this data is collected:
-
-> User Email Inquiries and User Search Queries are collected to enable Customer Service response.
-
-* * *
-
-## Cookies
-
-Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. 
-
-Our site makes use of cookies. Cookies are used for the following purposes: 
-
-  * Site administration 
-  * Completing the user's current activity 
-  * Research and development 
-
-
-
-* * *
-
-## Compact Policy Summary
-
-The compact policy which corresponds to this policy is: 
-    
-    
-        CP="NOI DSP CURa ADMa DEVa OTPa OUR IND COM NAV INT CNT"
-    
-
-The following table explains the meaning of each field in the compact policy. 
-
-| **Field**|  **Meaning**  
----|---  
-`CP=` | This is the compact policy header; it indicates that what follows is a P3P compact policy.  
-`NOI` |  No identifiable information is collected, so no access is possible.   
-`DSP` |  The policy contains at least one dispute-resolution mechanism.   
-`CURa` |  The data is used for completion of the current activity.   
-`ADMa` |  The data is used for site administration.   
-`DEVa` |  The data is used for research and development.   
-`OTPa` |  The data is used for other purposes.   
-`OUR` |  The data is given to ourselves and our agents.   
-`IND` |  The data will be kept indefinitely.   
-`COM` |  Computer information is collected.   
-`NAV` |  Navigation and clickstream data is collected.   
-`INT` |  Interactive data is collected.   
-`CNT` |  Content data is collected.   
-  
-The compact policy is sent by the Web server along with the cookies it describes. For more information, see the P3P deployment guide at <http://www.w3.org/TR/p3pdeployment>. 
-
-* * *
-
-## Policy Evaluation
-
-Microsoft Internet Explorer 6 will evaluate this policy's compact policy whenever it is used with a cookie. The actions IE will take depend on what privacy level the user has selected in their browser (Low, Medium, Medium High, or High; the default is Medium. In addition, IE will examine whether the cookie's policy is considered satisfactory or unsatisfactory, whether the cookie is a session cookie or a persistent cookie, and whether the cookie is used in a first-party or third-party context. This section will attempt to evaluate this policy's compact policy against Microsoft's stated behavior for IE6. 
-
-**Note:** this evaluation is currently experimental and should not be considered a substitute for testing with a real Web browser. 
-
-**Satisfactory policy** : this compact policy is considered _satisfactory_ according to the rules defined by Internet Explorer 6. IE6 will accept cookies accompanied by this policy under the High, Medium High, Medium, Low, and Accept All Cookies settings. 
+Should you have other questions or concerns about these privacy policies, please send us an email at [privacy@etravelreviews.com](mailto:privacy@etravelreviews.com "Contact Us!  We appreciate your feedback.")
