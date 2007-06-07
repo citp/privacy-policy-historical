@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fujitsu-siemens.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219062250id_/http%3A//www.fujitsu-siemens.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fujitsu-siemens.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607151649id_/http%3A//www.fujitsu-siemens.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy policy - Fujitsu Siemens Computers
 
@@ -7,7 +7,7 @@
   
 ## Fujitsu Siemens Computers and your personal data  
   
-As one of the leading providers of information products and technologies Fujitsu Siemens Computersis committed to the use of state of the art technologies in order to continuously improve the services offered to our customers and to protect Personal Information of our customers and visitors of our web sites as effectively as possible. The term "Personal Information" comprises all information which allows or facilitates the identification of any individual. Fujitsu Siemens Computers represents and warrants strictly to comply to any Data Protection laws or any other applicable laws. You may access the public web pages of Fujitsu Siemens Computers without entering any of your personal details. In a few cases, however, we or our partners will need certain information from you in order to give you better service. If you wish to give us such details (e.g. Name, Address, e-Mail) we will inform you about how the data will be used before you submit it. You can also request to see our public list of technical procedures.  
+As one of the leading providers of information products and technologies Fujitsu Siemens Computers is committed to the use of state of the art technologies in order to continuously improve the services offered to our customers and to protect Personal Information of our customers and visitors of our web sites as effectively as possible. The term "Personal Information" comprises all information which allows or facilitates the identification of any individual. Fujitsu Siemens Computers represents and warrants strictly to comply to any Data Protection laws or any other applicable laws. You may access the public web pages of Fujitsu Siemens Computers without entering any of your personal details. In a few cases, however, we or our partners will need certain information from you in order to give you better service. If you wish to give us such details (e.g. Name, Address, e-Mail) we will inform you about how the data will be used before you submit it. You can also request to see our public list of technical procedures.  
   
 ## Fujitsu Siemens Computers and the security and quality of Information  
   
@@ -45,6 +45,6 @@ The content and layout of the Fujitsu Siemens Computers Internet pages are prote
 
 In case of any question or comments please contact the Fujitsu Siemens Computers Privacy Protection Officer.
 
-As the Internet evolve, so will also evolve our Data Privacy Protection Policy. Changes to our Security and Data Protection Policy will be posted on this page as soon as possible.  
+As the Internet evolves, so will also evolve our Data Privacy Protection Policy. Changes to our Security and Data Protection Policy will be posted on this page.  
   
 | | | | 
