@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blockbuster.co.uk privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218030148id_/http%3A//www.blockbuster.co.uk/help/PopupHelp.aspx%3Ftopic%3D/help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blockbuster.co.uk privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607210552id_/http%3A//www.blockbuster.co.uk/help/PopupHelp.aspx%3Ftopic%3D/help/privacy.aspx) for the most accurate reproduction.*
 
 # Blockbuster Entertainment Limited ("Blockbuster", "Us", "We" or "Our") is committed to protecting Our users' privacy
 
@@ -14,7 +14,7 @@ Blockbuster gathers information on our users in two different ways:
   * Cookie technology.
 
 Blockbuster collects Personal Information voluntarily submitted by its users as part of the registration process for its services. You may also be asked to disclose Personal Information at other times, for example, in relation to your participation in any Blockbuster competitions.   
-Blockbuster utilises cookie technology to process orders and identify user data. A cookie is a piece of information that is transferred to a user's hard drive for record-keeping purposes. If you choose to do so, you can set your browser to refuse cookies. Please see Our [ We Use Cookies on this Web Site](https://web.archive.org/help/PopupHelp.aspx?topic=/help/cookies.aspx) statement which will tell you more about Our use of cookie technology on the Site.   
+Blockbuster utilises cookie technology to process orders and identify user data. A cookie is a piece of information that is transferred to a user's hard drive for record-keeping purposes. If you choose to do so, you can set your browser to refuse cookies. Please see Our [ We Use Cookies on this Web Site](http://www.blockbuster.co.uk/help/PopupHelp.aspx?topic=/help/cookies.aspx) statement which will tell you more about Our use of cookie technology on the Site.   
   
 Blockbuster's use of personally identifiable information   
   
