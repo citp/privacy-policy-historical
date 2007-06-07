@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angellearning.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209162645id_/http%3A//angellearning.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angellearning.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607212854id_/http%3A//www.angellearning.com/privacy-policy) for the most accurate reproduction.*
 
 # Untitled Document
 
