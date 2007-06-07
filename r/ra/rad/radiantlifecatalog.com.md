@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radiantlifecatalog.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218203801id_/http%3A//www.radiantlifecatalog.com/service/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiantlifecatalog.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607204942id_/http%3A//www.radiantlifecatalog.com/service/privacy.cfm) for the most accurate reproduction.*
 
 # Radiant Life Wellness Catalog:
 
@@ -8,14 +8,14 @@ Protecting your privacy is important to us and we recognize that your informatio
 Our postal address is:
 
      Radiant Life Wellness Catalog  
-     P.O Box 2326  
-     Novato, CA 94948
+     P.O Box 902  
+     Healdsburg, CA  95448
 
 We can be reached by telephone at: 1-888-593-9595
 
 We can be reached by fax at: 1-888-593-0168 
 
-We can be reached by email [here](https://web.archive.org/web/20061218203801id_/http://www.radiantlifecatalog.com/page.cfm/cid/contact.cfm).
+We can be reached by email [here](https://web.archive.org/web/20070607204942id_/http://www.radiantlifecatalog.com/page.cfm/cid/contact.cfm).
 
 **What information is collected?**  
 For each visitor to our site, Radiant Life automatically recognizes only the customer's IP address, not the individual's email address. We use cookies to store visitors’ preferences, record session information (such as items that customers add to their shopping basket), record past activity at the site in order to provide better service when visitors return to the site, and to customize (when appropriate) web page content based on visitors' browser type or other information that the visitors sends. 
