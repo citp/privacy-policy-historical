@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the loveandseek.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118122335id_/http%3A//www.loveandseek.com/privacy/%3Fa%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveandseek.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607183251id_/http%3A//www.loveandseek.com/privacy/%3Fa%3D) for the most accurate reproduction.*
 
-# LoveAndSeek.com - The Christian Singles Network - 11/18/2006
+# LoveAndSeek.com - The Christian Singles Network - 06/07/2007
 
 |  |  |   
 ---  
