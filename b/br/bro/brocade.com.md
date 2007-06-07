@@ -1,0 +1,7 @@
+> *The following text is extracted and transformed from the brocade.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607123343id_/http%3A//www.brocade.com/company_info/privacy.jsp) for the most accurate reproduction.*
+
+# Privacy Policy: Information Collection and Use
+
+We collect the following personally identifiable information about our users: name, e-mail address, telephone number, business address, shipping address, social security number, preferred means of communication, credit card information and other information voluntarily provided. This personally identifiable information is typically provided when users register for online services, purchase products online, or participate in contests, surveys or sweepstakes. We also collect information about users regarding web pages accessed, traffic patterns and site usage. 
+
+We, our service providers and our vendors may use any information collected by users: to operate the Service; to effect users' transactions; to provide better services, products and opportunities to users; to notify users about services, products and opportunities that may be of interest to such users; to create and share reports about users' transactions; and for other marketing purposes. We may also trade, sell, rent or otherwise share your personally identifiable information with other third parties, including our business partners. 
