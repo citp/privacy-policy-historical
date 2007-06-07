@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the amegybank.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219063743id_/http%3A//www.amegybank.com/privacypolicy/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amegybank.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607194824id_/http%3A//www.amegybank.com/privacypolicy/index.aspx) for the most accurate reproduction.*
 
-# Amegy Bank
+# Amegy Bank Money Market Accounts High Yield Checking Savings Account Online Small Business Loans Free Checking
 
-Privacy Policy  
-(Effective August 1, 2006) 
+Privacy Policy
 
 Amegy Bank National Association and its affiliates, Amegy Mortgage Company, L.L.C., Amegy Investments, Inc., and Amegy Insurance Agency, Inc. values your trust and respects your expectation of privacy.  As such, we are committed to maintaining the confidentiality of your personal financial information.  This document outlines our privacy policy for visitors to our web site, as well as for consumers who have a continuing relationship with us, such as a deposit account, loan, investment product or safe deposit box. 
 
