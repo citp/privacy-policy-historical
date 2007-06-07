@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the aa.co.nz privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214082831id_/https%3A//www.aa.co.nz/Section%3FAction%3DView%26Section_id%3D122%26Story_id%3D1246) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aa.co.nz privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607144456id_/http%3A//www.aa.co.nz/Section%3FAction%3DView%26Section_id%3D122%26Story_id%3D1246) for the most accurate reproduction.*
 
 # AA Online : Terms and Conditions
 
- 
-
-  
-
 ## Privacy Policy
 
-**Respecting your privacy and personal information**
+ **Respecting your privacy and personal information**
 
   1. [Our philosophy ](http://www.aa.co.nz/Section?Action=View&Section_id=122&Story_id=1246#1)
   2. [Collection of information ](http://www.aa.co.nz/Story?Action=View&Section_id=122&Story_id=1246#2)
@@ -26,7 +22,7 @@
 
 
   
-**1. Our Philosophy**
+**1\. Our Philosophy**
 
 The New Zealand Automobile Association Inc (“AA”), consider protection of your privacy to be of utmost importance and are committed to providing you with a personalised service that meets your requirements in a way that safeguards your privacy. We appreciate the trust you have placed in us and this policy explains how we may collect information about you and then use it in order to satisfy your particular requirements. It also outlines some of the security measures that we take in order to protect your privacy and gives certain assurances on things that we will not do.
 
@@ -36,7 +32,7 @@ When we first obtain personal information from you, or when you take a new servi
 
 If you want to update or correct information held by us, including contact preferences, you can call our Membership line toll free on 0800 500 444 (8am to 7pm, Monday to Friday—and 9am to 5pm,Saturday and Sunday). Or, you can change this information online. Click on ‘My AA’ and follow the instructions.
 
-**2. Collection of Information**
+**2\. Collection of Information**
 
 We may collect personal information from you in a number of ways, including: 
 
@@ -47,7 +43,7 @@ We may collect personal information from you in a number of ways, including:
 
 For details on how we secure personal information provided online, see [Security Information](http://www.aa.co.nz/Section?Action=View&Section_id=122&Story_id=1249).
 
-**3. Use Of Information**
+**3\. Use Of Information**
 
 **What We Will Do**
 
@@ -76,7 +72,7 @@ We will not:
 
 
 
-**4. Disclosure of Information**
+**4\. Disclosure of Information**
 
 We may disclose information we hold about you to third parties where AA has contracted those third parties for the purpose of providing services you have requested, or as part of the process of sale of one or more of our businesses, or where legitimately requested for legal or regulatory purposes, as part of legal proceedings or prospective legal proceedings. 
 
@@ -87,11 +83,11 @@ We, and other third-party credit organisations, may also access information abou
 
 
 
-**5. Protection of Information**
+**5\. Protection of Information**
 
 We maintain strict security measures in order to protect personal information. This includes following certain procedures, for example to check your identity when you telephone us, encrypting data on our web sites and in order to ensure compliance with all applicable legal requirements. For details on how we secure personal information provided online, see [Security Information](http://www.aa.co.nz/Section?Action=View&Section_id=122&Story_id=1249).
 
-**6. Access to Personal Information**
+**6\. Access to Personal Information**
 
 The Privacy Act 1993 gives you the right to access and correct personal information held by us. Your information is held securely and will not be disclosed to any other person or organisation unless authorised by you. To access your personal information call our Membership line toll on free on 0800 500 444, [visit an AA Centre](http://www.aatravel.co.nz/main/search.jsp?typeId=95&typeId=11&style=AA&typeId=11&style=AA), or by using [‘My AA’](https://web.archive.org/myaa/MainMenu), our online Membership services tool, which provides access to a limited amount of personal information and services.
 
@@ -101,14 +97,14 @@ If you do not have your Membership number with you, or have lost your Membership
 
 If your date of birth is not listed on your _AA Membership_ record, you will be asked to provide it when you ring the AA Membership call centre, or if you visit an [AA Centre](http://www.aatravel.co.nz/main/search.jsp?typeId=95&typeId=11&style=AA&typeId=11&style=AA). This is for your security, as the date of birth is used as a password to control access to your information over the phone, at AA Centres and online. 
 
-**7. The Internet**
+**7\. The Internet**
 
 If you communicate with us via the Internet, we may occasionally use email to contact you about our services and products. When you first provide personal information to our Web Site we will normally give you the opportunity to indicate whether you would prefer us not to contact you in this way. However, you can always send us an email at any time to change your preferences. 
 
 Please be aware that communications over the Internet, such as emails/webmails, are not secure unless they have been encrypted. Your communications may route through a number of countries before being delivered. This is the nature of the World Wide Web/Internet. We cannot accept responsibility for any unauthorised access or loss of personal information that is beyond our control. For details on how we secure personal information provided online, see [Security Information](http://www.aa.co.nz/Section?Action=View&Section_id=122&Story_id=1249).
 
   
-**8. Cookies**
+**8\. Cookies**
 
 We may use 'cookies' to monitor website user traffic patterns and site usage. They help us to understand how our customers and potential customers use our web sites so that we can develop and improve the design, layout and functionality of the sites. A cookie is a piece of information that is stored on your computer's hard drive and which records your navigation of a web site so that, when you revisit that web site, it can present tailored options to you based upon the stored information about your last visit. You can normally alter the settings of your browser to prevent acceptance of cookies.
 
@@ -118,21 +114,21 @@ If you do not want us to deploy cookies in your browser, you can set your browse
 
 [Click here for instructions on how to turn off Cookies on your computer](http://www.aa.co.nz/Section?Action=View&Section_id=122&Story_id=1310).
 
-**9. Links**
+**9\. Links**
 
 See [Website Terms & Conditions](http://www.aa.co.nz/Section?Action=View&Section_id=122&Story_id=1251).
 
-**10. Monitoring of Calls**
+**10\. Monitoring of Calls**
 
 We may monitor and record communications we receive. This may be done to improve the service which we provide, to ensure compliance with our practices and procedures and where, for example, a contract is entered into by that means, to provide evidence of the transaction. 
 
-**11. Credit Card Details**
+**11\. Credit Card Details**
 
 When you join the AA or renew your existing Membership online, your personal information and credit card details are loaded into our secure Membership database and not held on our web server.
 
 Credit card details are retained indefinitely when you elect to pay Membership renewals annually using that payment method, otherwise for one off payments we are required by tax law to retain remittance details for two years. For details on how we secure personal information provided online, see [Security Information](http://www.aa.co.nz/Section?Action=View&Section_id=122&Story_id=1249).
 
-**12. Further Information**
+**12\. Further Information**
 
 If you would like any further information or have any comments on our Privacy Policy, then please write to us at the address below. We may amend this policy from time to time, in which case the amended version will be published on our website and a copy may be obtained by writing to: 
 
@@ -144,4 +140,4 @@ New Zealand
 
 This Policy applies to personal information held about individuals. It does not apply to information we hold about companies and other organisations.
 
-[The Office of the Privacy Commissioner](http://www.privacy.org.nz/) has further details of the New Zealand Privacy Act and how it protects personal information in New Zealand.
+[The Office of the Privacy Commissioner](http://www.privacy.org.nz/) has further details of the New Zealand Privacy Act and how it protects personal information in New Zealand.
