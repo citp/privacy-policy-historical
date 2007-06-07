@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allfreelogo.com privacy policy that was archived on 2006-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060717202110id_/http%3A//www.allfreelogo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfreelogo.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607094733id_/http%3A//www.allfreelogo.com/privacy-policy) for the most accurate reproduction.*
 
 # Browse Logo
 
