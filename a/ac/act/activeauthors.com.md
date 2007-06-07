@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activeauthors.com privacy policy that was archived on 2006-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061004213306id_/http%3A//activeauthors.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activeauthors.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607163919id_/http%3A//activeauthors.com/privacy.php) for the most accurate reproduction.*
 
 # ActiveAuthors.com - FREE ARTICLE DIRECTORY / Free Reprint Articles / Articles Directory / Article Distribution / Affiliate Marketing / Viral Marketing
 
@@ -47,11 +47,3 @@ This policy and the use of this Site are governed by Texas law. If a dispute ari
 If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Austin, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
 
 This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
-
-| 
-
-**ActiveAuthors.com has upgraded to a new software platform. We were unable to import past articles into our new system. Please register for a new account. Once registered, you can submit your articles for approval.**  
-
-
-  
-
