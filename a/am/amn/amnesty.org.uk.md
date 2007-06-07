@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amnesty.org.uk privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206111845id_/http%3A//www.amnesty.org.uk/content.asp%3FCategoryID%3D345) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amnesty.org.uk privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607092110id_/http%3A//www.amnesty.org.uk/content.asp%3FCategoryID%3D345) for the most accurate reproduction.*
 
 # AIUK : Privacy policy
 
@@ -6,7 +6,7 @@ Your online privacy and security is very important to Amnesty International.
 
 ## Personal information collection
 
-When you are on [www.amnesty.org.uk](http://www.amnesty.org.uk/) and [www.protectthehuman.com](http://www.protectthehuman.com/) and are asked for personal information, you are sharing that information with Amnesty International UK alone unless stated otherwise. 
+When you are on [www.amnesty.org.uk](https://web.archive.org/) and [www.protectthehuman.com](http://www.protectthehuman.com/) or other Amnesty International UK online presences, and are asked for personal information, you are sharing that information with Amnesty International UK alone unless stated otherwise. 
 
 In order to keep improving our website, we collect the following information from visitors
 
