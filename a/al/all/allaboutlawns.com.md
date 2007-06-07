@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allaboutlawns.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206202812id_/http%3A//allaboutlawns.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaboutlawns.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607202218id_/http%3A//www.allaboutlawns.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - All About Lawns
 
@@ -13,7 +13,7 @@ hq|publications has established this Online PRIVACY POLICY so that you can under
 
 Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information. In general, you can visit hq|publications' Web pages without telling us who you are or revealing any Personal Information about yourself. 
 
-If you choose to provide us with your Personal Information on the Web, we may transfer that Information within hq|publications or to hq|publications� third-party service providers, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world. 
+If you choose to provide us with your Personal Information on the Web, we may transfer that Information within hq|publications or to hq|publications' third-party service providers, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world. 
 
 hq|publications strives to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, hq|publications intends to adhere to the principles set forth in this Online PRIVACY POLICY even if, in connection with the above, we transfer your Personal Information from your country to countries that may not require an "adequate" level of protection for your Personal Information. In other words, our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred, or retained. 
 
