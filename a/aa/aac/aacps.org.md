@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aacps.org privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206191934id_/http%3A//www.aacps.org/aacps/boe/HR/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aacps.org privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607135239id_/http%3A//www.aacps.org/aacps/boe/HR/privacy.asp) for the most accurate reproduction.*
 
 # Anne Arundel
 
-[](https://web.archive.org/aacps/boe/HR/privacy.asp?mode=print)
+ 
 
 * * *
 
