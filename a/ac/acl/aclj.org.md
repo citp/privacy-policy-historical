@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aclj.org privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628225300id_/http%3A//aclj.org/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aclj.org privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607092902id_/http%3A//www.aclj.org/Privacy.aspx) for the most accurate reproduction.*
 
-# ACLJ | American Center for Law & Justice
+# ACLJ • American Center for Law & Justice
 
 By accessing or using the ACLJ Web Site, you agree to the terms of the ACLJ Web Site Online Privacy Policy, as outlined below. If you do not agree to these terms, please do not access or use this site. The ACLJ Web Site reserves the right to change the Online Privacy Policy from time to time at its sole discretion. Your use of this site will be subject to the most current version of the Online Privacy Policy at the time of such use.
 
