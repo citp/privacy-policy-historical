@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artmolds.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018223114id_/http%3A//www.artmolds.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artmolds.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607224633id_/http%3A//www.artmolds.com/privacy.cfm) for the most accurate reproduction.*
 
 # Lifecast Belly and Bodycasting Kits, Supplies and Videos
 
