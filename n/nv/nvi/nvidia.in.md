@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nvidia.in privacy policy that was archived on 2006-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061108040959id_/http%3A//www.nvidia.in/object/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nvidia.in privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607195231id_/http%3A//www.nvidia.in/object/privacy_policy.html) for the most accurate reproduction.*
 
 # NVIDIA Privacy Notice
 
@@ -24,3 +24,9 @@ We may release information on customers and visitors to our website when we beli
 
 **Conditions of Use and Revisions**   
 If you choose to visit NVIDIA’s website, your visit and any dispute over privacy is subject to this Privacy Notice, as governed by the laws of the State of California.  This Privacy Notice may change periodically, and use of information that we have gathered is subject to the Privacy Notice in effect at the time of use.  You should check our website frequently to see recent changes. 
+
+* * *
+
+  
+  
+
