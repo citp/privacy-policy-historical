@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expats.cz privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207042256id_/http%3A//www.expats.cz/content/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expats.cz privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607184425id_/http%3A//www.expats.cz/content/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -42,3 +42,6 @@ We may also disclose information about its users to law enforcement officers or 
 **International Users  
 **By visiting our web site and providing us with data, you acknowledge and agree that due to the international dimension of our site we may use the data collected in the course of our relationship for the purposes identified in this policy or in our other communications with you, including the transmission of information outside your resident jurisdiction. In addition, please understand that such data may be stored on servers located in the United Kingdom. By providing us with your data, you consent to the transfer of such data.  
 
+
+**Extent and purpose of data processing**  
+We process your personal information to the extent and for the purposes described in this Privacy Policy or our Site Terms of Service only. Beside the purposes stated above, these include following: ensuring the technical operation of our web pages and network, providing services to users, customizing and optimizing content of our services, analyzing our services to improve their functionality, developing new services, communicating with users and complying with obligations imposed on us by law.
