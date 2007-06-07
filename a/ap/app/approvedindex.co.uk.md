@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the approvedindex.co.uk privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224213421id_/http%3A//www.approvedindex.co.uk/legal/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the approvedindex.co.uk privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607171757id_/http%3A//www.approvedindex.co.uk/legal/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
