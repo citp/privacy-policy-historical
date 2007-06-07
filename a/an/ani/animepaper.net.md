@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the animepaper.net privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207173818id_/http%3A//www.animepaper.net/faq/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animepaper.net privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607195805id_/http%3A//www.animepaper.net/faq/privacy) for the most accurate reproduction.*
 
-# AnimePaper - Anime Wallpaper Community » FAQ » Privacy
+# FAQ - AnimePaper - Anime and Manga wallpapers and scans! (アニメ)
 
 **Our Commitment To Privacy**
 
@@ -16,7 +16,7 @@ Date of Birth
 
 **The Way We Use Information:**
 
-We use this information in order to provide you with a better service, allowing you to recieve personalised notifications, we also check that you are of minimum page to view this web site.
+We use this information in order to provide you with a better service, allowing you to receive personalized notifications, we also check that you are of minimum age to view this web site.
 
 We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
 
