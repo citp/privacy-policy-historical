@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the escapetravel.com.au privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207080308id_/http%3A//www.escapetravel.com.au/aboutus/policies/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escapetravel.com.au privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607154434id_/http%3A//www.escapetravel.com.au/aboutus/policies/privacy.jsp) for the most accurate reproduction.*
 
 # Escape Travel - Privacy Policy
 
@@ -111,7 +111,5 @@ We welcome your inquiries or comments about our Policy. Should you have any comm
 
 From time to time it may be necessary for us to review and revise this Policy. We reserve the right to change our Policy at any time, should this occur the amendment would be posted on our website. 
 
-  |  |   
----|---|---  
   
 
