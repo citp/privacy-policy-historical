@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the myfax.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209100746id_/http%3A//www.myfax.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfax.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607222956id_/http%3A//www.myfax.com/privacy.asp) for the most accurate reproduction.*
 
-# MyFax Privacy Policy
+# MyFax - Email Fax Service - Privacy Policy
 
-Protus IP Solutions, Inc. ("Protus") is dedicated to establishing a trusting relationship with its users, based on respect for personal identity and information, by promoting the use of fair information practices. This privacy statement covers all Web properties owned and maintained by Protus, including but not limited to [http://www.myfax.com](http://www.myfax.com/) and [http://www.protus.com](http://www.protus.com/). Because Protus wants to demonstrate its commitment to our users' privacy, we are disclosing: 
+  
+Protus IP Solutions, Inc. ("Protus") is dedicated to establishing a trusting relationship with its users, based on respect for personal identity and information, by promoting the use of fair information practices. This privacy statement covers all Web properties owned and maintained by Protus, including but not limited to [http://www.myfax.com](https://web.archive.org/web/20070607222956id_/http%3A//www.myfax.com/index.asp) and [http://www.protus.com](http://www.protus.com/). Because Protus wants to demonstrate its commitment to our users' privacy, we are disclosing: 
 
   * What personally identifiable information Protus collects.
   * How Protus uses the information.
@@ -19,7 +20,7 @@ If users have questions or concerns regarding this statement, they should contac
 
 Information Collection
 
-Protus is the sole owner of the information collected on its web properties, including [http://www.myfax.com](http://www.myfax.com/) and [http://www.protus.com](http://www.protus.com/). Protus collects information from its users at several different points on our Web sites. 
+Protus is the sole owner of the information collected on its web properties, including [http://www.myfax.com](https://web.archive.org/web/20070607222956id_/http%3A//www.myfax.com/index.asp) and [http://www.protus.com](http://www.protus.com/). Protus collects information from its users at several different points on our Web sites. 
 
 Consent
 
