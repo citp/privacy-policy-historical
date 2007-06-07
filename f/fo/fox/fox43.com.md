@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fox43.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207225656id_/http%3A//fox43.trb.com/go/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox43.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607154528id_/http%3A//fox43.trb.com/go/services/privacy) for the most accurate reproduction.*
 
-# WPMT FOX43 | Privacy Policy
+# Privacy Policy | Site Services | WPMT FOX43
 
 Privacy Policy
 
@@ -64,5 +64,8 @@ This policy and the use of this Site are governed by Illinois law. Any claim rel
 In the event case of any conflict between the terms of this policy and the terms of any electronic or machine readable privacy policy (for example, a P3P electronic privacy policy), the terms of this written policy shall control.  
 
 
+Copyright © 2007, [WPMT-TV, Harrisburg](http://www.fox43.com/)
+
+  
   
 
