@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the buycheapadvertising.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206082037id_/http%3A//buycheapadvertising.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buycheapadvertising.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607152535id_/http%3A//www.buycheapadvertising.com/privacy.html) for the most accurate reproduction.*
 
 # BuyCheapAdvertising.com - Advertisers Privacy Policy
 
-[ ](https://web.archive.org/web/20061206082037id_/http%3A//buycheapadvertising.com/faq.html)  
+[ ](https://web.archive.org/web/20070607152535id_/http%3A//www.buycheapadvertising.com/faq.html)  
 .:  Privacy Policy :.
 
 **Your Personal Information**  
