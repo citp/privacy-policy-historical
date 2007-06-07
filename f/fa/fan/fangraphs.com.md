@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fangraphs.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214002014id_/http%3A//www.fangraphs.com/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fangraphs.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607190351id_/http%3A//www.fangraphs.com/policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Fan Graphs
 
@@ -62,4 +62,6 @@ Questions and Suggestions
 
   
   
-
+  
+|  | Copyright 2007 by STATS LLC. Any commercial use or distribution without the express written consent of STATS LLC is strictly prohibited."  
+---|---
