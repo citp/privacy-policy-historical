@@ -1,176 +1,110 @@
-> *The following text is extracted and transformed from the champion.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016151253id_/http%3A//www.championmortgage.com/marketing/legalprivacy/legalprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the champion.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607213834id_/http%3A//www.championmortgage.com/marketing/legalprivacy/legalprivacy.asp) for the most accurate reproduction.*
 
 # The home equity lenders at Champion Mortgage are committed to your privacy
 
-**Privacy is an important issue. We provide this Policy as required by law to explain our information practices. It applies to the Key family of companies listed at the end of this Policy. Please read and retain this Policy to learn how we collect and use information about you, and your rights to limit the sharing and use of information.**
+|  | 
 
-**How do we protect information?**  
-KeyCorp ("Key") does not share customer information about you outside of the Key family of companies, except as permitted by law. Key has strict standards and procedures designed to prevent unauthorized access to information. We apply these standards and procedures to our facilities and online services. Our safeguards meet or exceed federal standards for protecting consumer information. We permit only authorized employees, who have been trained in the proper handling of information, to have access to that information. If an employee were to violate Key’s privacy procedures, they would be subject to disciplinary action.   
+If you do not wish to receive future solicitation from Nationstar Mortgage, [click here](http://www.nationstarmtg.com/OptOut.aspx).
 
+At Nationstar Mortgage, customer service, trust and confidence is a high priority. That's why we welcome this opportunity to describe our privacy policies, the steps we take to protect and maintain your information and to let you know how you can choose how your customer information may be shared.   
 
-**What are your options?**  
-Telling us not to share or use information is called "opting out". Key automatically opts you out of external information sharing with third parties outside Key. Key will not disclose information about you to third parties, except as permitted by law. You can also tell us not to share certain information within the Key family of companies, and not to use information for marketing purposes across the Key family of companies. You may also request that we not solicit you. 
 
-**How do you exercise your options?**   
-The **"YOUR OPTIONS"** section explains how to opt out of internal information sharing, limit internal use of information for marketing purposes, and restrict solicitations. 
+**Information Collection**  
+We collect nonpublic personal information about you, including: 
 
-**What if you have already told us your preferences?**  
-If you do not wish to change your preferences, you do not need to do anything. Your previously recorded opt out and solicitation elections will stay in effect until you change them.
+  * Information we receive from you on applications, surveys, online registrations or other forms (such as your name, address, assets, income and debt) 
+  * Information about your transactions with us, our affiliates or others (such as account balance, payment history or information about our communications with you) 
+  * Information about your creditworthiness, credit history and other facts about you that we obtain from consumer reporting agencies or from providers of marketing and demographic information 
+  * Information from other outside sources regarding their employment, credit or other relationship with you or verifying representations made by you, such as your employment history, loan balances or your property insurance coverage 
 
-_This Policy applies to individuals who inquire about and/or obtain products or services from Key for personal, family and household purposes. This Policy describes information practices across Key. However, departments and/or companies within Key may have more restrictive information sharing practices._
 
-_This Policy supersedes all previous notices or statements about practices described in this Policy. You should retain a copy of this Policy for your records. If Key materially changes our Policy, we will notify customers (who maintain an active relationship with Key) and prominently place a notification on our website. Active customers will receive an annual notification, as required by law. You may request a current copy of the Policy at any time by calling our toll free Privacy Line at 1-800-361-0968 or visiting our website at Key.com ®._
 
-**COLLECTING INFORMATION** **We collect information to:**
+**Protecting the Confidentiality and Security of Your Information**   
+Keeping financial information secure is one of our most important responsibilities. Only those persons who need it to perform their job responsibilities are authorized to access your information. We take commercially reasonable precautions to protect your information and limit disclosure by maintaining physical, electronic and procedural safeguards. 
 
-  * Accurately identify you; 
-  * Protect and administer your records, accounts and funds; 
-  * Comply with laws and regulations; 
-  * Understand your financial needs; 
-  * Design and provide you with products and services; and 
-  * Save you time in applying for new products and services.  
+**Information Use and Disclosure**  
+We may share information we have about you to give you superior service and to make a wider range of products available to you. We may share this information in the following ways: 
 
+**With Affiliates of Nationstar Mortgage**  
+The Fair Credit Reporting Act gives you the opportunity to limit the sharing of "non-experience information" among affiliates of Nationstar Mortgage. "Non-experience information" includes information that is used, expected to be used, or collected for the purpose of establishing your eligibility for consumer credit, insurance or deposit accounts, and is not related solely to your transactions or other experiences with us, including information: 
 
+  * From your applications, such as your income or marital status 
+  * From a credit report, such as your credit history 
+  * From sources used to verify representations made by you, such as your open lines of credit or employment history 
 
 
-**We collect information from:**
 
-  * Applications and other forms you give us (e.g., name, address, Social Security number, assets, income and investment objectives); 
-  * The Key family of companies on transactions you've conducted (e.g., account balance, payment history and debit card usage); 
-  * Third parties outside Key on transactions you've conducted (e.g., account balance, payment history, parties to transaction and credit card usage); 
-  * Outside sources such as brokers, dealers or schools that help us develop products and services (e.g., application information and transaction information); 
-  * Credit reporting agencies and market research companies (e.g., creditworthiness, credit history and demographic information); and 
-  * Public sources, such as federal, state or local records (e.g., mortgage and lien information). 
+Within the Nationstar Mortgage family of companies, we may share the customer information we collect (described in the Information Collection) with:   
 
 
+  * Affiliate companies providing financial and other services, such as mortgage lenders, insurance agencies, home security companies, lawn care and pest control companies and residential homebuilders  
 
-**SHARING AND USING INFORMATION**
 
-Key reserves the right to share and/or use all information we collect as this Policy describes. We do not share information about you with third parties outside of Key, except as permitted by law.
 
-**Types of Information**  
-**Personal Private Information** \- non-public personal information that you provide to Key (e.g., birth date, marital status, employer and salary) or Key obtains from a third party (e.g., credit bureau).  
-**Transaction and Experience Information** \- information Key develops from our relationship with you (e.g., account number, account balances and payment history).  
-**Identification Information** \- information Key obtains regarding your identification (e.g., name, address, telephone number and Social Security number).
 
-**Sharing Information with Outside Companies (External Sharing)**  
-We do not provide information about you to third parties outside of Key, except as permitted by law. When Key does disclose information about you to third parties under the limited legal exceptions, the third parties are required to treat the information they receive about you in strict confidence; to use it only for the purpose for which it was shared; and not to use the information for their own marketing purposes. Key does not sell information about you to third parties.
+If you prefer that we not share non-experience information about you with an affiliate of Nationstar Mortgage, you may opt out, that is, you may direct us not to share this information, by calling us toll-free at 1-888-480-2432. 
 
-In addition to the "Additional Opt Out Exceptions" listed below, Key may from time to time share information to jointly market other financial institutions' products and services (e.g., mortgage bankers/brokers, insurance agents/companies, securities broker/dealers, indirect loan originators, correspondent lenders and transaction processors).
+With Third Party Service Providers, Joint Marketers and As Otherwise Permitted by Law  
+We may work with non-affiliated companies or organizations to provide services on our behalf in connection with the servicing of your account or to provide you with opportunities to buy products or services offered by us or jointly with other financial institutions. Consequently, we may disclose some or all of the information that we collect (described in the Information Collection) to the following: 
 
-**Sharing Information within Key (Internal Sharing)**  
-Key engages in several businesses (e.g., banking, mortgage lending, brokerage and investment services, trust administration, asset management and insurance). We may share Personal Private, Transaction and Experience, as well as Identification Information internally to prevent fraud, enhance services, and tailor products and services. Employees are only authorized to share information when a "business need to know" exists. 
+  * Companies that perform services on our behalf, such as check and statement printers, data processing companies and vendors who monitor the status of insurance on the property 
+  * Companies with whom we have joint marketing agreements 
 
-Even if you opt out of internal information sharing within Key, we may share information that identifies you and share information on our transactions and experiences with you. 
 
-**Using Information within Key for Marketing Purposes (Marketing Use)**  
-Personal Private, and Transaction and Experience Information may be used for marketing purposes within the Key family of companies. Information may be used to design and offer products or services that may benefit you based on your financial needs or preferences. Employees are authorized to access information only when a "business need to know" exists.
 
-Even if you opt out of using information for marketing purposes, Key may use information for the following:
+For your protection, we require that these companies keep all personal information secure and confidential. 
 
-  * To market to an individual who has a pre-existing business relationship; 
-  * To market to an individual who had a business relationship within the past 18 months; and 
-  * To respond to an application or inquiry about a product or service. 
+We may disclose some or all of the information that we collect (described in the Information Collection) as permitted by law. For example, we may share personal information:
 
+  * With regulatory authorities and law enforcement officials 
+  * To protect against fraud 
+  * To report activity to credit bureaus 
+  * To respond to a subpoena 
+  * To service your account 
 
 
-**ADDITIONAL OPT OUT EXCEPTIONS**  
-It is important to understand that even if you opt out, in addition to those exceptions listed above, Key may continue to share or use information about you for the following:
 
-  * To perform services (e.g., check printing, loan servicing, printing statements, bill payment, e-mail services and mail house services); 
-  * To process your account or enforce your agreement with us; 
-  * To protect the rights, property or safety of Key, our customers or others (e.g., to protect against fraud and to reduce credit risk); 
-  * To comply with a legal requirement or process (e.g., subpoena or court order); 
-  * To comply with your request or authorization to share information; and 
-  * To furnish information to consumer reporting agencies. 
+**With Other Third Parties**  
+We may disclose some or all of the information that we collect (described in the Information Collection) with non-affiliated companies or other organizations, including: 
 
+  * Financial service providers, such as mortgage bankers, securities broker-dealers and insurance agents 
+  * Non-financial companies, such as retailers, direct marketers, membership clubs and publishers 
+  * Other companies and organizations, such as non-profit organizations 
 
 
-**FORMER CUSTOMERS**  
-If you end your relationship with Key, we will still apply the practices in our Policy to information we maintain on you and will honor your opt out and solicitation elections. 
 
-**ONLINE INFORMATION PRACTICES**  
-Key uses technology that encrypts (scrambles) online information so it transfers privately between you and Key's network. Your unique User ID and password help protect information online.
+**** If you prefer that we not share nonpublic personal information about you with non-affiliated companies and organizations as described in this section (except information described above under Information Sharing "With Third Party Service Providers, Joint Marketers and As Otherwise Permitted by Law"), you may opt out, that is, you may direct us not to share this information, by calling us toll-free at 1-888-480-2432.
 
-Key joins with certain third parties to deliver online products and services. If you ask for information through Key.com®, Key and these outside parties may keep some information you provide in order to deliver these services, such as online tools and applications, online surveys, e-mail, and cookies. Visit Key.com® for more information on how Key protects your information online.
+**Maintenance of Accurate Information**  
+We have established commercially reasonable procedures designed to ensure that your personal information is as accurate and complete as possible. If you believe that our records contain inaccurate or incomplete information about you, please notify us by calling 1-888-480-2432 or sending a written inquiry to us at Nationstar Mortgage, Attention: Customer Service Department, P.O. Box 199400, Dallas, Texas, 75219. We will take commercially reasonable steps to investigate your concerns and correct inaccurate information in a timely manner. 
 
-**ADDITIONAL RIGHTS**  
-You may have other privacy protections under state laws. Our information practices comply with these laws.
+**Former Customers**  
+If you pay off your account with Nationstar Mortgage, your account is later sold to a third party investor or you, in some other manner, become a former customer, we will continue to treat and safeguard your information as described in this notice.
 
-******YOUR OPTIONS  
-****Sharing or Use of Information**  
-You may restrict us from sharing or using information by opting out. The types of information and the companies we may share or use the information with are outlined in this Policy. Even if you opt out, we may still continue to share or use the information as permitted by law (as explained in the "Additional Opt Out Exceptions" section).   
+**Companies Providing This Notice**  
+This policy is provided by Nationstar Mortgage and its subsidiaries.
 
+You may [opt out](http://www.nationstarmtg.com/OptOut.aspx) as described in this Privacy Policy by calling us toll-free at 1-888-480-2432 and indicating your opt out preferences as outlined below. You do not need to notify us if you have decided not to opt out. It may take up to four to six weeks to process your request. If at a later time you wish to change these opt out instructions, please contact our customer service department at 1-888-480-2432.
 
-If you wish to opt out, your election can apply to the following:
+Upon contacting the customer service department at the above listed toll-free number, your opt-out choices will be as reflected below. 
 
-  * **External Sharing** \- Key has automatically opted you out of external sharing. 
-  * **Internal Sharing** \- limit sharing of Personal Private Information within the Key family of companies. 
-  * **Internal Sharing for Marketing Use** \- limit the Personal Private, Transaction and Experience Information that may be used within the Key family of companies for marketing purposes. **  
-**
+  * Please do not share non-experience information about me with an affiliate of Nationstar Mortgage. 
 
+_If you opt out, you may not receive offers for other products or services from the affiliates of Nationstar Mortgage that may be of value to you._
 
+  * Please do not share nonpublic personal information about you with non-affiliated companies and organizations as described in this notice (except information described above under Information Sharing "With Third Party Service Providers, Joint Marketers and As Otherwise Permitted by Law"). 
 
-Your opt out elections will apply to all products and services you obtain within the Key family of companies. If you have a product or service jointly with another person(s), each of you may opt out individually or you may opt out for each other. If you opt out, we still may share or use information about a joint party(ies) unless you or someone else authorized to do so have opted out for that party.
+_If you opt out, you may not receive offers for other products and services from companies and organizations not affiliated with Nationstar Mortgage that may be of value to you._
 
-**Solicitation Preferences**  
-_This Policy constitutes Key’s Do Not Call Policy under the Telephone Consumer Protection Act for all KeyCorp consumers._
 
-If you prefer not to receive promotional offers from Key by mail, telephone, or facsimile machine (fax), you may record your solicitation preferences with us at our toll-free number listed below. Recording a Do Not Solicit preference will not prohibit your account representative(s) from contacting you for account-related notifications, service or support activities. 
 
-If you prefer not to receive e-mail offers for products and services from Key, send an e-mail to DNERequests@Key.com with 'No Promotional E-Mails' in the SUBJECT line. For your convenience a link is provided at the bottom of most e-mails sent by Key. 
 
-**Call our dedicated toll-free Privacy Line**  
-**1-800-361-0968**
+_Note for Accounts with Co-Borrowers: Your opt out choices will also apply to co-borrowers._
 
-  * **To record or update your opt out preferences for sharing or use of information;**
-  * **To record or update your preferences for mail, telephone, or fax solicitations; or**
-  * **For more information.**
+**Cookies and Other Technical Information.** We may send "cookies" to your computer primarily to enhance your online experience. "Cookies" are files that can identify you as a unique customer and store your personal preferences as well as technical information (including click through and click stream data). Cookies can either be permanent (i.e., they remain on your computer until you delete them) or temporary (i.e., they last only until you close your browser). We may also use tracking systems such as "Web beacons," which monitor your use of our Web sites. Tracking systems (Web beacons or Web bugs) are small strings of code that provide a method for delivering a graphic image on a Web page for the purpose of transferring data, such as the IP (Internet Protocol) address of the computer that downloaded the page on which the Web beacon appears, the URL (Uniform Resource Locator) of the page on which the Web beacon appears, the time the page containing the Web beacon was viewed, the types of browser that fetched the Web beacon and the identification number of any cookie on the computer previously placed by that server. When corresponding with you via HTML capable e-mail, Web beacons let us know whether you received and opened our e-mail. 
 
+On their own, cookies or Web beacons do not contain or reveal any personally identifiable information. However, if you choose to furnish one of our Web sites with personally identifiable information, this information can be linked to the data stored in the cookies/Web beacons. 
 
+Your ongoing use of our Web sites constitutes your acceptance of this Privacy Policy, and you specifically agree to our described use of cookies and Web beacons. You may adjust your browser to reject cookies from us or from any other site. Additionally, by setting your Web browser to display HTML e-mails as text only, you may be able to prevent the use of some Web beacons. Please consult the "Help" section of your browser for more information. However, certain areas of our Web sites can only be accessed in conjunction with cookies or similar devices and you should be aware that disabling cookies or similar devices might prevent you from accessing some of our content. 
 
-**CLIENT IDENTIFICATION NOTICE**  
-**Information Collection Procedures for Opening Accounts**  
-To help the government fight the funding of terrorism and money laundering activities, federal law requires all financial institutions to obtain, verify, and record information that identifies each customer who opens an account. Therefore, all new and existing customers are subject to the identity verification requirements. 
-
-When you open an account with any entity within the Key family of companies, we will ask for your name, address and identification number, and, in the case of an individual, your date of birth. For business accounts, we may also obtain this information for individuals associated with the business. We may also request to see a valid driver’s license or other approved identifying documents. In all cases, Key is committed to protecting your privacy and identity.
-
-**This Policy applies to the following Key family of companies:**  
-KeyBank National Association; McDonald Investments Inc.; Victory Capital Management Inc.; Key Bank Life Insurance, Ltd.; Key Financial Services Inc.; KeyCorp Finance Inc.; KeyCorp Insurance Agency, Inc. (NY); KeyCorp Insurance Agency USA Inc. (ID); KeyCorp Insurance Agency USA Inc. (WA); Champion Financial Services, Inc.; Gradison Insurance Agency, Inc.; McD Agency PA, Inc.; KeyTrust Company National Association; SecoLink Settlement Services, LLC; Key Investment Services LLC; Austin Capital Management LTD.; Austin Capital Offshore Management, LLC.
-
-Form No 80-0405x (Rev. 6/01/2006)
-
-**IMPORTANT INFORMATION FOR VERMONT AND CALIFORNIA CONSUMERS**
-
-**KeyCorp Privacy Policy Supplement**
-
-**Certain provisions of the KeyCorp Privacy Policy are modified and superseded by the terms of this Supplemental Information for Vermont & California consumers. Please retain a copy of this Supplemental Information, together with the KeyCorp Privacy Policy, for your records. **
-
-**Special Notice for Vermont**  
-If our records indicate that you have a Vermont mailing address, the opt out procedures required to limit information sharing and use of information for marketing purposes as described in the KeyCorp Privacy Policy do not apply.
-
-To comply with Vermont law, we will automatically opt out individuals with Vermont mailing addresses. You will continue to be opted out for as long as our records indicate you have a Vermont mailing address, or until you exercise your right to opt in. Your election to opt in will apply to all products and services you obtain within the Key family of companies for personal, family or household purposes. Unless you opt in to information sharing and/or use of information for marketing purposes, we will not disclose information about you within the Key family of companies except as permitted by law.
-
-By law, even if you opt out, we may share information about you to jointly market our products or services with other financial institutions. The information we may share about you for joint marketing will be limited to your contact information (e.g., name, address and phone number) and information about your transactions and experiences with the Key family of companies. 
-
-**Joint Accounts**  
-If you have a product or service jointly with another person(s), we will not disclose information about the joint account pursuant to an opt in authorization, except as otherwise permitted by law, unless all joint accountholders have opted in.
-
-**Health or Medical Information**  
-Regardless of whether you have opted in, we will not share any personal health or medical information we may have without your written consent or otherwise as permitted by law. Health or medical information may include insurance application information, other health information you may provide in connection with one or more existing accounts, or information provided to us with regard to an insurance claim. 
-
-**For More Information, to Opt In or to Revoke a Previous Opt In**   
-If you would like more information about your options, or wish to opt in to information sharing or use of information for marketing purposes, please call our dedicated Privacy Line toll free at **1-800-361-0968** to request a pre-printed opt in form be mailed to you. 
-
-**Please note:**   
-The automatic opt out of information sharing and use of information for marketing purposes we record on your behalf will continue for as long as our records indicate you are a Vermont consumer. If our records show you no longer reside in Vermont, your opt outs will revert back to the preference(s) you directly elected with Key. However, if you have not directly recorded an opt out preference with Key, and you want to continue to restrict information sharing and use of information for marketing purposes after moving outside Vermont, you must do so by calling our toll free Privacy Line at **1-800-361-0968**.
-
-**Special Notice for California**  
-If you have a California mailing address, we will automatically limit the disclosure of information about you, within and outside the Key family of companies, to what is permitted by applicable law or regulation. 
-
-Your election(s) will apply to all products and services you obtain within the Key family of companies for personal, family or household purposes. If you wish to update your elections or if you would like more information about your options, call our dedicated toll free Privacy Line at **1-800-361-0968**.
-
-CS7092                                                                                          Form No. 80-0405 Key Supp (Rev. 5/20/2005) 
-
-  
-
+|  | 
