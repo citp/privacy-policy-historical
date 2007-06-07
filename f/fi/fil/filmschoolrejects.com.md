@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filmschoolrejects.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207112642id_/http%3A//www.filmschoolrejects.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmschoolrejects.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607182610id_/http%3A//www.filmschoolrejects.com/privacy-policy) for the most accurate reproduction.*
 
-# Film School Rejects » Privacy Policy
+# Privacy Policy
 
 ### Privacy Policy Statement
 
@@ -43,7 +43,3 @@ Consumers can have this information corrected by sending us e-mail at the above 
 With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA’s Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
-
-**No Comments**
-
- 
