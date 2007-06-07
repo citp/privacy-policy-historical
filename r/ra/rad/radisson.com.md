@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radisson.com privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224020958id_/http%3A//www.radisson.com/sectiontemplate.do%3Fsidemenu%3Dprivacy.sidemenus%26section%3Dprivacy.home) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radisson.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607184715id_/http%3A//www.radisson.com/sectiontemplate.do%3Fsidemenu%3Dprivacy.sidemenus%26section%3Dprivacy.home) for the most accurate reproduction.*
 
 # Privacy Promise
 
@@ -26,6 +26,6 @@ To access your information, ask questions about our privacy practices, change yo
 > 
 > In the U.S. & Canada call toll free at 1-888-201-1718.
 > 
-> Email [privacy@radisson.com](mailto:privacy@radisson.com).
+> Email [privacy@radisson.com](mailto:privacy@radisson.com?subject=Privacy).
 
 If your inquiry is not satisfactorily addressed, contact the TRUSTe Dispute Resolution Process at [www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will serve as a liaison with the website to resolve your concerns.
