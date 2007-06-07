@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the aviewoncities.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206052846id_/http%3A//www.aviewoncities.com/_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aviewoncities.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608015545id_/http%3A//www.aviewoncities.com/_privacy.htm) for the most accurate reproduction.*
 
 # A View On Cities - Privacy Policy
 
 ---  
-|  |  [Home](https://web.archive.org/) |  [City Index](https://web.archive.org/_cityindex.htm) |  [Attractions](https://web.archive.org/_attractions.htm) |  [Hotels](https://web.archive.org/_travelcenter.htm) |  [Buildings](https://web.archive.org/_buildingindex.htm) |  [Facts](https://web.archive.org/_cityfacts.htm) |  [Maps](https://web.archive.org/_citymaps.htm) |  [Pictures](https://web.archive.org/gallery/_galleryindex.htm) |  [Sitemap](https://web.archive.org/_sitemap.htm) |   
----|---|---|---|---|---|---|---|---|---|---  
+|  |  [Home](https://web.archive.org/) |  [City Index](https://web.archive.org/_cityindex.htm) |  [Attractions](https://web.archive.org/_attractions.htm) |  [Hotels](https://web.archive.org/_travelcenter.htm) |  [Buildings](https://web.archive.org/_buildingindex.htm) |  [Facts](https://web.archive.org/_cityfacts.htm) |  [Maps](https://web.archive.org/_citymaps.htm) |  [Pictures](https://web.archive.org/gallery/_galleryindex.htm) |  [Posters](https://web.archive.org/_posters.htm) |  [Sitemap](https://web.archive.org/_sitemap.htm) |   
+---|---|---|---|---|---|---|---|---|---|---|---  
 [A View On Cities](http://www.aviewoncities.com/) > [Privacy Policy](https://web.archive.org/_privacy.htm)  
    
   
