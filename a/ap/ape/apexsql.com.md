@@ -1,18 +1,10 @@
-> *The following text is extracted and transformed from the apexsql.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017153310id_/http%3A//apexsql.com/comp_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apexsql.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607171933id_/http%3A//www.apexsql.com/comp_privacy.asp) for the most accurate reproduction.*
 
 # Apex SQL Tools - SQL Tools for Auditing, Comparison, Recovery and more
 
 TOP REASONS TO BUY 
 
 To See the Top Reasons to Buy Apex SQL Software tools: [Click Here](http://www.apexsql.com/10reasons2buy.asp)
-
-SALES FAQ 
-
-Click [Here](http://www.apexsql.com/sales_faq.asp) for a Comprehensive Sales and Ordering FAQ 
-
-PURCHASE ORDERS 
-
-Click [Here](http://www.apexsql.com/purchase_order_instructions.asp) for Purchase Order Instructions 
 
 PRE SALES QUESTION? 
 
@@ -26,27 +18,41 @@ Please call
 
 or email [sales@apexsql.com](mailto:sales@apexsql.com)
 
-FREE E-NEWSLETTER 
+ApexSQL Univ Studio 
+
+**[](http://www.apexsql.com/sql_tools_univ_studio.asp) $1,999** All 9 ApexSQL Tools with 1 yr Maint and all New tools Free for 1 yr. [Click Here](http://www.apexsql.com/sql_tools_univ_studio.asp) for more info. 
+
+ApexSQL Dev Studio 
+
+**[](http://www.apexsql.com/sql_tools_dev_studio.asp) $999** All 7 ApexSQL Developer Tools - One Download / Discounted Price. [Click Here](http://www.apexsql.com/sql_tools_dev_studio.asp) for more info. 
+
+SALES FAQ 
+
+Click [Here](http://www.apexsql.com/sales_faq.asp) for a Comprehensive Sales and Ordering FAQ 
+
+Killer Upgrades 
+
+[ ](http://www.apexsql.com/killer_upgrades.asp) Unbeatable Killer Upgrades: More is Less. [Click Here](http://www.apexsql.com/killer_upgrades.asp) for more info. 
 
 SUCCESS STORIES 
 
-"Thanks for the quick (and honest) reply. I am impressed. Your company sounds like its truly different from the rest ..." 
+"... In either case thanks for your help. One of the primary reasons I wanted to purchase your software was your unflagging support and friendliness on other" 
 
-Paul Barbin   
-DBA   
-Lewis, Inc. 
+Brian Schkerke   
+Lead Developer   
+NETCO, Inc 
 
-"Thanks Brian. We really appreciate the quality of your product, as well as your willingness to accommodate our needs. You are tops on our list when we go searching for development tools." 
+"Before I forget, thanks for handling that false positives thing I came up with when first evaluating the product. Good, fast response and handling on your part." 
 
-Scott C. Dixon, MCP, MCP+SB, MCSD   
-Tech Consultant   
-CTGi 
+Gus Gwynne   
+Database Developer/Admin   
+Postmark DMS, LLC 
 
-"First let me say we are very impressed with [Apex SQL Audit] Tool, it was not only the fastest but also the easiest to use out of the six audit tools tested. We also hit some errors with other Audit products." 
+"Thanks for your swift reply. I see that the move from LockwoodTech to ApexSQL has not done harm to the brilliant support I've always experienced from Brian." 
 
-Paul Ohlemacher   
-Developer   
-Execupay 
+Robert Echten   
+Senior Software Engineer   
+Sendo International Ltd. 
 
 Apex SQL Privacy Policy
 
