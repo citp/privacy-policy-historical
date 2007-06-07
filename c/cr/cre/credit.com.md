@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the credit.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207063243id_/https%3A//www.credit.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the credit.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607172032id_/http%3A//www.credit.com/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - Credit.com
 
-This statement was most recently updated as of February 21, 2006
+This statement was most recently updated as of February 16, 2007
 
 We take the privacy and security of your non-public sensitive information seriously, and think it is important that you understand:
 
@@ -74,6 +74,8 @@ You may be required to provide personal, non-public, sensitive information so th
 
 
 The sensitive information we collect in these circumstances is shared only with service providers in order to fulfill your request. Sensitive information is immediately encrypted and is only temporarily stored in our database before being permanently deleted. Credit.com shares your sensitive information with service providers only with your consent in order to fulfill your request. We do not sell, rent or otherwise share your personal, non-public sensitive information with third parties unless otherwise detailed in this policy statement.
+
+To help the government fight the funding of terrorism and money laundering activities, Federal law requires all financial institutions to obtain, verify and record information that identifies each person who opens an account.  What this means to you: When you apply for or open an account, the participating financial institution may ask for your name, address, date of birth and other information that will allow them to identify you.
 
 Return to top
 
