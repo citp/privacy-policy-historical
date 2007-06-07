@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the biggerbids.com privacy policy that was archived on 2006-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060825162824id_/http%3A//biggerbids.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biggerbids.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607194514id_/http%3A//www.biggerbids.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# BiggerBids.com - Privacy Policy
+
+## BiggerBids.com Privacy Policy
 
 **WHAT PERSONAL INFORMATION DOES BIGGERBIDS COLLECT AND WHY?**
 
@@ -13,7 +15,7 @@ To provide you with the best service possible a Seller, we collect some or all o
 
 When you use BiggerBids's services we track your activity on our website. Your personal information is used to identify you in our system. We also track your Internet Protocol (IP) address, domain name (if applicable), browser type, and request.cookies duration. BiggerBids uses this information to administer the site and to further improve our service to you. 
 
-Members may periodically receive e-mails from us updating you of significant events taking place at BiggerBid
+Members may periodically receive e-mails from us updating you of significant events taking place at BiggerBids.
 
 **HOW DOES BIGGERBIDS USE YOUR INFORMATION?**
 
@@ -31,7 +33,7 @@ A "cookie" is a small amount of data sent to your browser from a web server and 
 
 **HOW CAN I REVIEW AND CHANGE MY INFORMATION AND CANCEL MY BIGGERBIDS ACCOUNT?**
 
-You can edit and change your information in your BiggerBids account, including your password and email address, at any time in the "My Account " section of the BiggerBids website. Should you forget your password, BiggerBids can send it to you immediately via e-mail, at your request. To cancel your account, please send an email to [support@BiggerBids.com ](mailto:support@biggerbids.com). 
+You can edit and change your information in your BiggerBids account, including your password and email address, at any time in the "My Account " section of the BiggerBids website. Should you forget your password, BiggerBids can send it to you immediately via e-mail, at your request. To cancel your account, please send an email to "support (at) BiggerBids (dot) com" . 
 
 **HOW I WILL KNOW ABOUT CHANGES TO BIGGERBIDS' PRIVACY POLICY**
 
@@ -39,4 +41,4 @@ If we decide to change our privacy policy, we will post those changes on the "Ho
 
 **QUESTIONS OR CONCERNS**
 
-If you have questions or concerns regarding BiggerBids's privacy policy, kindly contact BiggerBids by e-mail at [support@BiggerBids.com](mailto:support@biggerbids.com). 
+If you have questions or concerns regarding BiggerBids's privacy policy, kindly contact BiggerBids by e-mail at "support (at) BiggerBids (dot) com". 
