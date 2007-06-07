@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessweekly.co.uk privacy policy that was archived on 2006-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061005011618id_/http%3A//businessweekly.co.uk/media/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessweekly.co.uk privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607115559id_/http%3A//www.businessweekly.co.uk/media/privacy.asp) for the most accurate reproduction.*
 
 # Business Weekly - Privacy
 
@@ -50,4 +50,4 @@ For permission to reproduce any contents of this website, please e-mail the web 
 
 Business Weekly is a registered trademark of Q Communications Ltd.
 
-[Back](https://web.archive.org/web/20061005011618id_/http%3A//businessweekly.co.uk/index.asp)
+[Back](https://web.archive.org/web/20070607115559id_/http%3A//www.businessweekly.co.uk/index.asp)
