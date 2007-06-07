@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlevista.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206020718id_/http%3A//www.articlevista.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlevista.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607182652id_/http%3A//www.articlevista.com/privacy.php) for the most accurate reproduction.*
 
 # Article Vista | Article Submission | Free Website Content | Publishing
 
@@ -40,4 +40,25 @@ We can be reached by emailing us.
 
 ArticleVista.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
 
-|  [](http://www.altrana.com/top-sites/)
+| 
+
+New Visitors
+
+Article writers, start submitting your articles today! [Sign Up](http://www.articlevista.com/signup.php) for a free account or [learn more](http://www.articlevista.com/learnmore.php).
+
+|  | **Newsletter Signup**  
+News, Free software for webmasters.  
+---|---  
+Automatically receive " **Article Writing Secrets** " ($47 Value!) “…The Easy, Proven And Simple Way To Pump Out High Quality Articles And Turn Them Into Long Term Residual Income”   
+  
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+* * *
