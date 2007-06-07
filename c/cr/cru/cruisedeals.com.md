@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cruisedeals.com privacy policy that was archived on 2006-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061126105949id_/http%3A//cruisedeals.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisedeals.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607192940id_/http%3A//cruisedeals.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Cruise Deals, Cruise Deal from CruiseDeals.com
 
