@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autobytel.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205190208id_/http%3A//www.autobytel.com/content/home/help/index.cfm/action/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autobytel.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608015422id_/http%3A//www.autobytel.com/content/home/help/index.cfm/action/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -122,16 +122,17 @@ For the Autobytel Usage Terms and Disclaimers please [click here](https://web.ar
 
 [ ]()
 
+  
+
+
 A D V E R T I S E M E N T 
 
-  
-  
   
 |  | **CUSTOMER FEEDBACK**  
 ---|---  
 |  **Why our customers love our dealers...**  
-"Sales had a lot of knowledge about the car I was interested in, and did not put any presure on me." 
+"They told me all my options up front and explained my situation right up front as well." 
 
-_\- George R. (Los Angeles, California)_
+_\- Anna P. (San Antonio, Texas)_
 
 » [Read More Testimonials](https://web.archive.org/content/research/comments/index.cfm)
