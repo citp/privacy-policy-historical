@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bareescentuals.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214020140id_/http%3A//bareescentuals.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bareescentuals.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607232535id_/http%3A//www.bareescentuals.com/about/privacy.html) for the most accurate reproduction.*
 
 # Bare Escentuals - Natural Cosmetics for the Body and Face
 
-Our goal at MD Beauty is to provide a safe, secure and pleasant shopping experience for our MD Beauty customers. MD Beauty is committed to protecting your privacy and security as a customer. We only collect information that you give us and WE DO NOT SELL OR RENT YOUR PERSONAL INFORMATION TO ANYONE.
+Our goal at Bare Escentuals is to provide a safe, secure and pleasant shopping experience for our Bare Escentuals customers. Bare Escentuals is committed to protecting your privacy and security as a customer. We only collect information that you give us and WE DO NOT SELL OR RENT YOUR PERSONAL INFORMATION TO ANYONE. Personal information may be disclosed if required by law.
 
 ## When you place an order...
 
@@ -41,6 +41,6 @@ Attention: Website Customer Service
 71 Stevenson Street, 22nd Floor  
 San Francisco, CA 94105
 
-The content of this site may not be duplicated, downloaded, modified, posted or used in any other manner other than for your personal entertainment, information, education and communication purposes, without express written permission from MD Beauty. All content, design and coding is protected by United States and International laws regarding intellectual property. MD Beauty and the bareMinerals logo are registered trademarks and may not be used under any circumstances. Consequently, the registration of a domain name using the word bareescentuals or MD Beauty, or any variation thereof, as part of the domain name or URL, will be prosecuted.
+The content of this site may not be duplicated, downloaded, modified, posted or used in any other manner other than for your personal entertainment, information, education and communication purposes, without express written permission from Bare Escentuals. All content, design and coding is protected by United States and International laws regarding intellectual property. Bare Escentuals and the bareMinerals logo are registered trademarks and may not be used under any circumstances. Consequently, the registration of a domain name using the word bareescentuals or Bare Escentuals, or any variation thereof, as part of the domain name or URL, will be prosecuted.
 
 By using this site, you agree to the terms of our policy. 
