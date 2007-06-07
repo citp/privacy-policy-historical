@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the digicelgroup.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208000400id_/http%3A//www.digicelgroup.com/group/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digicelgroup.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607210726id_/http%3A//www.digicelgroup.com/group/privacy_policy.php) for the most accurate reproduction.*
 
-# Digicel Caribbean: Privacy Policy
+# Digicel Caribbean: Group
 
 Digicel is committed to respecting your privacy and to complying with applicable data protection and privacy laws. You can visit [www.digicelcaribbean.com](http://www.digicelcaribbean.com/) without disclosing any personally identifiable information about yourself.   
 We have provided this Privacy Policy Statement to help you understand how we collect, use and protect your information when you visit the Site. We wish to help you make informed decisions, so please take a few moments to read the sections below and learn how we may use your personal information.   
 You should read this notice in conjunction with the Terms and Conditions of use for the Site and our products and services.
 
- **Personal Information Collection**  
+**Personal Information Collection**  
 We endeavour to collect and use your personal information only with your knowledge and consent and typically when you use services, make customer enquiries, register for information or other services, or when you respond to communications from us (such as questionnaires or surveys). 
 
 The type of personal information we may collect could include, for example, your name and postal address, date of birth, gender, telephone and fax numbers, email address, and lifestyle and other information collected on registration or through surveys. If you choose to provide us with personal information it will be used in support of the intended purposes stated at the time at which it was collected, and subject to any preferences indicated to you. 
@@ -18,6 +18,3 @@ Please be aware that communications over the Internet, such as emails/webmails, 
 
 **Privacy Support**  
 Digicel reserves the right to amend or modify this Privacy Policy Statement at any time and in response to changes in applicable data protection and privacy legislation.
-
-  
-
