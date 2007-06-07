@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bankingtech.com privacy policy that was archived on 2006-10-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061016114421id_/http%3A//www.bankingtech.com/ipi/bankingtech/indextemplate.jsp%3Fpageid%3Dstatic%26contentid%3Dbat%3Aps) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bankingtech.com privacy policy that was archived on 2007-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070607114436id_/http%3A//www.bankingtech.com/ipi/bankingtech/indextemplate.jsp%3Fpageid%3Dstatic%26contentid%3Dbat%3Aps) for the most accurate reproduction.-->
 
 <html><head>
 <meta name="keywords" content="bank it risk, banking systems, banking technology, core banking systems, core banking technology, financial technology, financial sector technology, payments systems, retail banking systems, securities settlement, trading systems">
@@ -43,6 +43,10 @@ main4 = new Image
 main4.src = "/content/ipi/bankingtech/images/topframe/emailon.gif"
 main4off = new Image
 main4off.src = "/content/ipi/bankingtech/images/topframe/emailoff.gif"
+main5 = new Image
+main5.src = "/content/ipi/bankingtech/images/topframe/freesampleon.gif"
+main5off = new Image
+main5off.src = "/content/ipi/bankingtech/images/topframe/freesampleoff.gif"
 
 
 }
@@ -90,17 +94,35 @@ function off(imgName) {
 <center>
 
 <!-- Code:TOP<BR>displayname:BAT Top Banner<BR>acceptCached = true -->
-<!-- Number of total rows:10 -->
+<!-- sql: SELECT
+	IsgAdvertisement.id
+FROM
+	IsgCampaign,
+	IsgAdCampaign,
+	IsgAdvertisement,
+	IsgAdvertisementUse
+WHERE
+	IsgCampaign.id = IsgAdCampaign.campaign_id
+	AND IsgAdCampaign.ad_id = IsgAdvertisement.id
+	AND IsgAdCampaign.link_id = IsgAdvertisementUse.link_id
+	AND IsgCampaign.display_name = 'BAT Top Banner'
+--	AND IsgCampaign.display_name = 'Health Insurance Right Side'
+	AND IsgAdvertisementUse.code = 'TOP'
+	AND (IsgAdvertisementUse.value = '-' OR IsgAdvertisementUse.value = '-')
+	AND (SYSDATE BETWEEN IsgAdvertisementUse.start_date AND IsgAdvertisementUse.end_date)
+	AND IsgAdvertisement.rec_status = 'ACT'
+ -->
+<!-- Number of total rows:4 -->
 <!-- length of array = 1 -->
-<!-- array = 9 -->
-<!-- randarray = 9 -->
-<!-- strINList: 20001030549 -->
+<!-- array = 2 -->
+<!-- randarray = 2 -->
+<!-- strINList: 20001033367 -->
 <!-- Number of rows in adv count:1 -->
-<a href="/ipi/common/adredirect.jsp?var_target=http://www.bankersalmanac.com/info/banktech.htm&amp;var_adid=20001030549&amp;var_name=20001030549&amp;var_customer=BankingTech&amp;var_website=www.bankingtech.com&amp;var_businessunit=IPI" target="_blank"><img src="/Storage/IsgAdvertisement/Sep-2006/7/bankers_almanac.gif" border="0"></a></center>
+<a href="/ipi/common/adredirect.jsp?var_target=http://www.informaprofessionalacademy.com/ip&amp;var_adid=20001033367&amp;var_name=20001033367&amp;var_customer=BankingTech&amp;var_website=www.bankingtech.com&amp;var_businessunit=IPI" target="_blank"><img src="/Storage/IsgAdvertisement/May-2007/10/ipip_468_60.gif" border="0"></a></center>
 </td></tr>
 <tr>
 <td colspan="3" valign="TOP">
-&nbsp;&nbsp;<font color="ffffff" size="2">The leading monthly magazine focusing on the latest developments in financial IT</font>
+&nbsp;&nbsp;<font color="ffffff" size="2"><img src="/content/ipi/bankingtech/images/topframe/strapline.gif" border="0"></font>
 </td>
 </tr>
 <tr>
@@ -113,7 +135,7 @@ function off(imgName) {
 		<TR><TD HEIGHT="3px"></TD></TR>
 		<TR VALIGN="bottom">
 			<TD>&nbsp;&nbsp;
-				<A HREF="indextemplate.jsp" TARGET="_self"><IMG NAME="main1" SRC="/content/ipi/bankingtech/images/topframe/homeoff.gif" BORDER=0 ALT="Banking Technology - Home" onMouseOver="on('main1')" onMouseOut="off('main1')"></A>&nbsp;&nbsp;<A HREF="indextemplate.jsp?pageid=static&contentid=bat:subscribe"><IMG NAME="main2" SRC="/content/ipi/bankingtech/images/topframe/subscribeoff.gif" BORDER=0 ALT="Subscribe to Banking Technology" onMouseOver="on('main2')" onMouseOut="off('main2')"></A>&nbsp;&nbsp;<A HREF="indextemplate.jsp?pageid=static&contentid=bat:contact" TARGET="_self"><IMG NAME="main3" SRC="/content/ipi/bankingtech/images/topframe/contactoff.gif" BORDER=0 ALT="Contact us" onMouseOver="on('main3')" onMouseOut="off('main3')"></A><A HREF="emailsub.jsp" TARGET="_self"><IMG NAME="main4" SRC="/content/ipi/bankingtech/images/topframe/emailoff.gif" BORDER=0 ALT="Sign Up for a FREE e-bulletin" onMouseOver="on('main4')" onMouseOut="off('main4')"></A>
+				<A HREF="indextemplate.jsp" TARGET="_self"><IMG NAME="main1" SRC="/content/ipi/bankingtech/images/topframe/homeoff.gif" BORDER=0 ALT="Banking Technology - Home" onMouseOver="on('main1')" onMouseOut="off('main1')"></A>&nbsp;&nbsp;<A HREF="indextemplate.jsp?pageid=static&contentid=bat:subscribe"><IMG NAME="main2" SRC="/content/ipi/bankingtech/images/topframe/subscribeoff.gif" BORDER=0 ALT="Subscribe to Banking Technology" onMouseOver="on('main2')" onMouseOut="off('main2')"></A>&nbsp;&nbsp;<A HREF="indextemplate.jsp?pageid=static&contentid=bat:contact" TARGET="_self"><IMG NAME="main3" SRC="/content/ipi/bankingtech/images/topframe/contactoff.gif" BORDER=0 ALT="Contact us" onMouseOver="on('main3')" onMouseOut="off('main3')"></A><A HREF="emailsub.jsp" TARGET="_self"><IMG NAME="main4" SRC="/content/ipi/bankingtech/images/topframe/emailoff.gif" BORDER=0 ALT="Sign Up for a FREE e-bulletin" onMouseOver="on('main4')" onMouseOut="off('main4')"></A><A HREF="http://www.informafinance.com/if/marlin/system/render.jsp?siteid=20001000721&#38;marketingid=1034683668847&#38;MarlinViewType=PRODUCT_ENQUIRY&#38;forcedBounce=true" TARGET="_self"><IMG NAME="main5" SRC="/content/ipi/bankingtech/images/topframe/freesampleoff.gif" BORDER=0 ALT="Free Sample Copy" onMouseOver="on('main5')" onMouseOut="off('main5')"></A>
 			</TD>
 			<TD>
 			</TD>
@@ -135,7 +157,7 @@ function off(imgName) {
 		<tbody><tr><td height="3px"></td></tr>
 		<tr valign="bottom">
 			<td>&nbsp;&nbsp;
-				<a href="indextemplate.jsp" target="_self"><img name="main1" src="/content/ipi/bankingtech/images/topframe/homeoff.gif" border="0" alt="Banking Technology - Home" onmouseover="on('main1')" onmouseout="off('main1')"></a>&nbsp;&nbsp;<a href="indextemplate.jsp?pageid=static&amp;contentid=bat:subscribe"><img name="main2" src="/content/ipi/bankingtech/images/topframe/subscribeoff.gif" border="0" alt="Subscribe to Banking Technology" onmouseover="on('main2')" onmouseout="off('main2')"></a>&nbsp;&nbsp;<a href="indextemplate.jsp?pageid=static&amp;contentid=bat:contact" target="_blank"><img name="main3" src="/content/ipi/bankingtech/images/topframe/contactoff.gif" border="0" alt="Contact us" onmouseover="on('main3')" onmouseout="off('main3')"></a><a href="emailsub.jsp" target="_self"><img name="main4" src="/content/ipi/bankingtech/images/topframe/emailoff.gif" border="0" alt="Sign Up for a FREE e-bulletin" onmouseover="on('main4')" onmouseout="off('main4')"></a>
+				<a href="indextemplate.jsp" target="_self"><img name="main1" src="/content/ipi/bankingtech/images/topframe/homeoff.gif" border="0" alt="Banking Technology - Home" onmouseover="on('main1')" onmouseout="off('main1')"></a>&nbsp;&nbsp;<a href="indextemplate.jsp?pageid=static&amp;contentid=bat:subscribe"><img name="main2" src="/content/ipi/bankingtech/images/topframe/subscribeoff.gif" border="0" alt="Subscribe to Banking Technology" onmouseover="on('main2')" onmouseout="off('main2')"></a>&nbsp;&nbsp;<a href="indextemplate.jsp?pageid=static&amp;contentid=bat:contact" target="_blank"><img name="main3" src="/content/ipi/bankingtech/images/topframe/contactoff.gif" border="0" alt="Contact us" onmouseover="on('main3')" onmouseout="off('main3')"></a><a href="emailsub.jsp" target="_self"><img name="main4" src="/content/ipi/bankingtech/images/topframe/emailoff.gif" border="0" alt="Sign Up for a FREE e-bulletin" onmouseover="on('main4')" onmouseout="off('main4')"></a>&nbsp;&nbsp;<a href="http://www.informafinance.com/if/marlin/system/render.jsp?siteid=20001000721&amp;marketingid=1034683668847&amp;MarlinViewType=PRODUCT_ENQUIRY&amp;forcedBounce=true" target="_self"><img name="main5" src="/content/ipi/bankingtech/images/topframe/freesampleoff.gif" border="0" alt="Free Sample Copy" onmouseover="on('main5')" onmouseout="off('main5')"></a>
 			</td>
 		</tr>
 		<tr><td height="3px"></td></tr>
@@ -152,7 +174,7 @@ function off(imgName) {
 
 
 <!-- No of records: 1 -->
-<!-- pubinstance : 20000019504-->
+<!-- pubinstance : 20000029883-->
 
 <script language="JavaScript" type="text/JavaScript">
 <!--
@@ -270,7 +292,7 @@ A:active {color:#999999; text-decoration:underline}
 <br>
 
 <table cellpadding="0" cellspacing="0" width="100%" border="0"><tbody><tr><td></td><td width="1%"><img src="/content/ipi/bankingtech/images/navbar/subscriber_cont.gif" border="0"></td><td width="8"><img src="/content/ipi/bankingtech/images/navbar/spacer.gif" border="0"></td></tr></tbody></table>
-<font size="1">&nbsp;October 2006</font><br>
+<font size="1">&nbsp;May 2007</font><br>
 <div id="left" style="border: 0px solid #ff0000;">
 <a class="menu1b" onclick="showHide('mymenu1')" href="#">Current issue</a>
 	      <div id="mymenu1" class="hide">
@@ -315,7 +337,9 @@ A:active {color:#999999; text-decoration:underline}
 
 <img src="/content/ipi/bankingtech/images/navbar/arrow.gif" border="0" align="left"><a href="indextemplate.jsp?pageid=static&amp;contentid=bat:dos" target="_self">Directory of services</a><br>
 
-<img src="/content/ipi/bankingtech/images/navbar/arrow.gif" border="0" align="left"><a href="indextemplate.jsp?pageid=static&amp;contentid=bat:supplement" target="_self">Supplements</a><br>
+<img src="/content/ipi/bankingtech/images/navbar/arrow.gif" border="0" align="left"><a href="indextemplate.jsp?pageid=static&amp;contentid=bat:current_supplement" target="_self">Current Supplements</a><br>
+
+<img src="/content/ipi/bankingtech/images/navbar/arrow.gif" border="0" align="left"><a href="indextemplate.jsp?pageid=static&amp;contentid=bat:supplement" target="_self">Past Supplements</a><br>
 
 
 <br>
@@ -332,6 +356,7 @@ A:active {color:#999999; text-decoration:underline}
 <img src="/content/ipi/bankingtech/images/navbar/arrow.gif" border="0" align="left"><a href="indextemplate.jsp?pageid=static&amp;contentid=bat:password" target="_self">Forgotten password</a><br>
 
 <img src="/content/ipi/bankingtech/images/navbar/arrow.gif" border="0" align="left"><a href="http://bankingtech.efinancialcareers.com" target="_blank">Recruitment</a><br>
+<img src="/content/ipi/bankingtech/images/navbar/arrow.gif" border="0" align="left"><a href="indextemplate.jsp?pageid=mediacenter">Multimedia Centre</a><br>    
 
 
 <br>
@@ -655,7 +680,7 @@ if ((typeof(gConvert)!="undefined")&&gConvert&&(document.cookie.indexOf(gFpc+"="
 	document.write("<SCR"+"IPT TYPE='text/javascript' SRC='"+"http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+"/"+gDcsId+"/wtid.js"+"'><\/SCR"+"IPT>");
 }
 //-->
-</script><script type="text/javascript" src="https://213.212.67.188/dcs9fdm9310000ct6umz0hsxt_1y9y/wtid.js"></script>
+</script>
 <script type="text/javascript"><!--
 var gImages=new Array;
 var gIndex=0;
@@ -900,7 +925,10 @@ dcsTag();
 
 
 </td><td width="8">
-</td><td width="130">
+</td>
+
+<td width="130">
+
 
 
 
@@ -910,31 +938,52 @@ dcsTag();
 
 <center>
 <br>
-<a href="http://www.bankingtechnologyjobs.com"><img src="/content/ipi/bankingtech/images/banners/bankingtechcover.gif" border="0"></a>
+<a href="./indextemplate.jsp?pageid=mediacenter"><img src="/content/ipi/bankingtech/images/multimedia_button.jpg" alt="Multimedia Centre" border="0"></a>
+
 
 <br><br>
 
 <a href="http://www.bankingtech.com/ipi/bankingtech/indextemplate.jsp?pageid=static&amp;contentid=bat:subscribe" border="0" width="120" height="20"><img src="/content/ipi/bankingtech/images/banners/subscribe.gif" border="0">
  </a>
 <br><br>
+<a href="http://www.bankingtechnologyjobs.com"><img src="/content/ipi/bankingtech/images/banners/bankingtechcover.gif" border="0"></a>
+
+<br><br>
 
 
 <!-- Code:RIG<BR>displayname:BAT Right Side<BR>acceptCached = true -->
-<!-- Number of total rows:8 -->
-<!-- length of array = 4 -->
-<!-- array = 7 -->
-<!-- randarray = 7 -->
-<!-- randarray = 6 -->
+<!-- sql: SELECT
+	IsgAdvertisement.id
+FROM
+	IsgCampaign,
+	IsgAdCampaign,
+	IsgAdvertisement,
+	IsgAdvertisementUse
+WHERE
+	IsgCampaign.id = IsgAdCampaign.campaign_id
+	AND IsgAdCampaign.ad_id = IsgAdvertisement.id
+	AND IsgAdCampaign.link_id = IsgAdvertisementUse.link_id
+	AND IsgCampaign.display_name = 'BAT Right Side'
+--	AND IsgCampaign.display_name = 'Health Insurance Right Side'
+	AND IsgAdvertisementUse.code = 'RIG'
+	AND (IsgAdvertisementUse.value = '-' OR IsgAdvertisementUse.value = '-')
+	AND (SYSDATE BETWEEN IsgAdvertisementUse.start_date AND IsgAdvertisementUse.end_date)
+	AND IsgAdvertisement.rec_status = 'ACT'
+ -->
+<!-- Number of total rows:1 -->
+<!-- length of array = 1 -->
+<!-- array = 1 -->
 <!-- randarray = 1 -->
-<!-- randarray = 3 -->
-<!-- strINList: 20001029467, 20001030068, 20001024949, 20001030288 -->
-<!-- Number of rows in adv count:4 -->
+<!-- strINList: 20001024949 -->
+<!-- Number of rows in adv count:1 -->
 
-<a href="/ipi/common/adredirect.jsp?var_target=http://www.informaprofessionalacademy.com&amp;var_adid=20001024949&amp;var_name=20001024949&amp;var_customer=BankingTech&amp;var_website=www.bankingtech.com&amp;var_businessunit=IPI" target="_blank"><img src="/Storage/IsgAdvertisement/Jan-2006/10/ipa_120.gif" border="0"><br></a><a href="/ipi/common/adredirect.jsp?var_target=http://www.TheBankingChannel.TV &amp;var_adid=20001029467&amp;var_name=20001029467&amp;var_customer=BankingTech&amp;var_website=www.bankingtech.com&amp;var_businessunit=IPI" target="_blank"><img src="/Storage/IsgAdvertisement/Jul-2006/17/mifidbanktechbanner.jpg" border="0"><br></a><a href="/ipi/common/adredirect.jsp?var_target=http://www.financialcrimeeurope.co.uk&amp;var_adid=20001030068&amp;var_name=20001030068&amp;var_customer=BankingTech&amp;var_website=www.bankingtech.com&amp;var_businessunit=IPI" target="_blank"><img src="/Storage/IsgAdvertisement/Aug-2006/17/fce120x60.gif" border="0"><br></a><a href="/ipi/common/adredirect.jsp?var_target=http://www.bankingtechnologyjobs.com&amp;var_adid=20001030288&amp;var_name=20001030288&amp;var_customer=BankingTech&amp;var_website=www.bankingtech.com&amp;var_businessunit=IPI" target="_blank"><img src="/Storage/IsgAdvertisement/Sep-2006/25/bankingtechjobs120herenow.gif" border="0"><br></a>
+<a href="/ipi/common/adredirect.jsp?var_target=http://www.informaprofessionalacademy.com/ip&amp;var_adid=20001024949&amp;var_name=20001024949&amp;var_customer=BankingTech&amp;var_website=www.bankingtech.com&amp;var_businessunit=IPI" target="_blank"><img src="/Storage/IsgAdvertisement/May-2007/10/ipip_120_60.gif" border="0"><br></a>
 
 <br>
 <a href="http://www.bankingtech.com/ipi/bankingtech/indextemplate.jsp?pageid=static&amp;contentid=bat:subscription" border="0" width="120" height="30"><img src="/content/ipi/bankingtech/images/banners/sub_enq.gif" border="0">
- </a>
+ </a><br><br>
+ 
+ 
 
 </center>
 
@@ -942,9 +991,9 @@ dcsTag();
 </td></tr>
 </tbody></table>
 
-</td></tr>
+</td>
+
+</tr>
 </tbody></table>
-
-
 
 </body></html>
