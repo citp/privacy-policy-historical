@@ -1,11 +1,13 @@
-<!--The following is the downloaded HTML source of the apexsql.com privacy policy that was archived on 2006-10-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061017153310id_/http%3A//apexsql.com/comp_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the apexsql.com privacy policy that was archived on 2007-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070607171933id_/http%3A//www.apexsql.com/comp_privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>Apex SQL Tools - SQL Tools for Auditing, Comparison, Recovery and more</title>
 <meta name="description" content="SQL Tools for Auditing, Code Generation, Scripting, Reporting and more.">
 <meta name="keywords" content="sql tools, Auditing, Reporting, Comparison, Synchronization, Code generation, RAD, ApexSQL">
 <link href="http://www.apexsql.com/include/apexsql.css" rel="stylesheet" type="text/css">
+<link rel="icon" href="images/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
 <script>
   function subMenuShow(param) {
     oItem=getDivObj(param);
@@ -25,7 +27,7 @@
   }
 
   function subMenuHide(param, flag) {
-    arr=new Array('products','downloads','purchase', 'company', 'members');
+    arr=new Array('products','downloads','purchase', 'support', 'company', 'members');
 
     n=0;
     while(n!=arr.length)
@@ -73,15 +75,18 @@ function popUpWindow(url, width, height)
 <a name="top"></a>  
 
 <!-- header -->
-<div class="header">
+<div class="head_logo">
   <a href="http://www.apexsql.com/default.asp"><img src="http://www.apexsql.com/images/empty.gif" width="260" height="75" border="0" align="left"></a>
   <div class="header_banner">
   <script type="text/javascript">
       function getFlash()
       {
-        var randomnumber=Math.floor(Math.random()*9)
+        var randomnumber=Math.floor(Math.random()*1)
+        //var randomnumber=Math.floor(Math.random()*8)
                     
-        var sFlashFiles = "audit.swf,clean.swf,code.swf,diff.swf,doc.swf,edit.swf,log.swf,RADSQLtoolsr.swf,report.swf"
+        var sFlashFiles = "studioblue.swf"
+        //var sFlashFiles = "studioblue.swf,clean.swf,code.swf,diff.swf,doc.swf,edit.swf,log.swf,studioblue2.swf"
+
         var arFlashFiles = sFlashFiles.split(',')
           
         var sFlash = '<object id="objFlash" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"  codebase="http://active.macromedia.com/flash2/cabs/swflash.cab#version=4,0,0,0" ID="banner1" WIDTH="468" HEIGHT="60" VIEWASTEXT>'
@@ -95,7 +100,7 @@ function popUpWindow(url, width, height)
         return sFlash
       }
       document.write(getFlash())
-    </script><object id="objFlash" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://active.macromedia.com/flash2/cabs/swflash.cab#version=4,0,0,0" width="468" height="60" viewastext=""><param name="movie" value="http://www.apexsql.com/flash/report.swf"><param name="loop" value="false"><param name="menu" value="false"><param name="quality" value="best"><param name="bgcolor" value="white"><embed id="objFlash" src="http://www.apexsql.com/flash/report.swf" quality="best" bgcolor="#639ECE" loop="false" menu="false" width="468" height="60" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object>        
+    </script><object id="objFlash" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://active.macromedia.com/flash2/cabs/swflash.cab#version=4,0,0,0" width="468" height="60" viewastext=""><param name="movie" value="http://www.apexsql.com/flash/studioblue.swf"><param name="loop" value="false"><param name="menu" value="false"><param name="quality" value="best"><param name="bgcolor" value="white"><embed id="objFlash" src="http://www.apexsql.com/flash/studioblue.swf" quality="best" bgcolor="#639ECE" loop="false" menu="false" width="468" height="60" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object>        
   </div>
 </div>
 <!-- /header --><!-- top menu -->
@@ -107,7 +112,10 @@ function popUpWindow(url, width, height)
   <td id="c_products" class="top_menu_inactive" onmouseover="javascript:subMenuShow('products');" onmouseout="javascript:subMenuHide('products', 0);">
   <div id="products" class="drop" onmouseover="javascript:subMenuShow('products');" onmouseout="javascript:subMenuHide('products', 0);">
     <table class="table_drop_in" cellspacing="0">
-    <tbody><tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="sql_tools_audit.asp">ApexSQL Audit</a></td></tr>
+    <tbody><tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="sql_tools_dev_studio.asp">ApexSQL Developer Studio</a></td></tr>
+    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="sql_tools_univ_studio.asp">ApexSQL Universal Studio</a></td></tr>
+    <tr><td class="td_drop_in">&nbsp;</td></tr>
+    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="sql_tools_audit.asp">ApexSQL Audit</a></td></tr>
     <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="sql_tools_clean.asp">ApexSQL Clean</a></td></tr>
     <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="sql_tools_code.asp">ApexSQL Code</a></td></tr>
     <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="sql_tools_diff.asp">ApexSQL Diff</a></td></tr>
@@ -118,22 +126,23 @@ function popUpWindow(url, width, height)
     <tr><td class="td_drop_in" style="border-bottom: none;" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="sql_tools_script.asp">ApexSQL Script</a></td></tr>
     </tbody></table>
     </div>
-    <a href="products.asp">Products</a>
+    <a href="sql_tools.asp">Products</a>
   </td>
   <td id="c_downloads" class="top_menu_inactive" onmouseover="javascript:subMenuShow('downloads');" onmouseout="javascript:subMenuHide('downloads', 0);">
     <div id="downloads" class="drop" onmouseover="javascript:subMenuShow('downloads');" onmouseout="javascript:subMenuHide('downloads', 0);">
     <table class="table_drop_in" cellspacing="0">
-    <tbody><tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="downloads.asp#audit">ApexSQL Audit</a></td></tr>
+    <tbody><tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="downloads.asp#studios">ApexSQL Developer Studio</a></td></tr>
+    <tr><td class="td_drop_in">&nbsp;</td></tr>
+    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="downloads.asp#audit">ApexSQL Audit</a></td></tr>
     <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="downloads.asp#clean">ApexSQL Clean</a></td></tr>
     <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="downloads.asp#code">ApexSQL Code</a></td></tr>
     <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="downloads.asp#diff">ApexSQL Diff</a></td></tr>
     <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="downloads.asp#doc">ApexSQL Doc</a></td></tr>
     <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="downloads.asp#edit">ApexSQL Edit</a></td></tr>
-    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="downloads.asp#log">ApexSQL Log</a></td></tr>
-    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="downloads.asp#report">ApexSQL Report</a></td></tr>
     <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="downloads.asp#script">ApexSQL Script</a></td></tr>
     <tr><td class="td_drop_in">&nbsp;</td></tr>
-    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="downloads.asp#studios">ApexSQL Studio</a></td></tr>
+    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="downloads.asp#log">ApexSQL Log</a></td></tr>
+    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="downloads.asp#report">ApexSQL Report</a></td></tr>
     <tr><td class="td_drop_in">&nbsp;</td></tr>
     <tr><td class="td_drop_in" style="border-bottom: none;" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="requirements.asp">Sys Requirements</a></td></tr>
     </tbody></table>
@@ -144,7 +153,10 @@ function popUpWindow(url, width, height)
   <td id="c_purchase" class="top_menu_inactive" onmouseover="javascript:subMenuShow('purchase');" onmouseout="javascript:subMenuHide('purchase', 0);">
     <div id="purchase" class="drop" onmouseover="javascript:subMenuShow('purchase');" onmouseout="javascript:subMenuHide('purchase', 0);">
     <table class="table_drop_in" cellspacing="0">
-    <tbody><tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="purchase.asp#audit">ApexSQL Audit</a></td></tr>
+    <tbody><tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="purchase.asp#studios">ApexSQL Developer Studio</a></td></tr>
+    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="purchase.asp#studiou">ApexSQL Universal Studio</a></td></tr>
+    <tr><td class="td_drop_in">&nbsp;</td></tr>
+    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="purchase.asp#audit">ApexSQL Audit</a></td></tr>
     <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="purchase.asp#clean">ApexSQL Clean</a></td></tr>
     <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="purchase.asp#code">ApexSQL Code</a></td></tr>
     <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="purchase.asp#diff">ApexSQL Diff</a></td></tr>
@@ -154,9 +166,6 @@ function popUpWindow(url, width, height)
     <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="purchase.asp#report">ApexSQL Report</a></td></tr>
     <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="purchase.asp#script">ApexSQL Script</a></td></tr>
     <tr><td class="td_drop_in">&nbsp;</td></tr>
-    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="purchase.asp#studios">ApexSQL Developer Studio</a></td></tr>
-    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="purchase.asp#studiou">ApexSQL Universal Studio</a></td></tr>
-    <tr><td class="td_drop_in">&nbsp;</td></tr>
     <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="sales_faq.asp">Sales FAQ</a></td></tr>
     <tr><td class="td_drop_in">&nbsp;</td></tr>
     <tr><td class="td_drop_in" style="border-bottom: none;" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="activation">Product Activation</a></td></tr>
@@ -164,18 +173,35 @@ function popUpWindow(url, width, height)
     </div>
     <a href="purchase.asp">Purchase</a>
   </td>
-  <td class="top_menu_inactive" onmouseover="javascript:this.className='top_menu_rollover';" onmouseout="javascript:this.className='top_menu_inactive';"><a class="top_menu_inactive" href="forum/default.asp">Support</a></td>
-  <td class="top_menu_inactive" onmouseover="javascript:this.className='top_menu_rollover';" onmouseout="javascript:this.className='top_menu_inactive';"><a class="top_menu_inactive" href="training.asp">Training</a></td>
+
+  <td id="c_support" class="top_menu_inactive" onmouseover="javascript:subMenuShow('support');" onmouseout="javascript:subMenuHide('support', 0);">
+    <div id="support" class="drop" onmouseover="javascript:subMenuShow('support');" onmouseout="javascript:subMenuHide('support', 0);">
+    <table class="table_drop_in" cellspacing="0">
+    <tbody><tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="help.asp">Support Guide</a></td></tr>
+    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="forum/default.asp">Forum</a></td></tr>
+	<tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="training.asp">Training</a></td></tr>
+	<tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="general_faqs.asp">General FAQs</a></td></tr>
+    <tr><td class="td_drop_in" style="border-bottom: none;" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="general_troubleshooting.asp">General Troubleshooting</a></td></tr>
+    </tbody></table>
+    </div>
+    <a href="help.asp">Support</a>
+  </td>
+
   <td class="top_menu_inactive" onmouseover="javascript:this.className='top_menu_rollover';" onmouseout="javascript:this.className='top_menu_inactive';"><a class="top_menu_inactive" href="blog/index.htm">News</a></td>
   <td id="c_company" class="top_menu_active" onmouseover="javascript:subMenuShow('company');" onmouseout="javascript:subMenuHide('company', 1);">
     <div id="company" class="drop" onmouseover="javascript:subMenuShow('company');" onmouseout="javascript:subMenuHide('company', 1);">
     <table class="table_drop_in" cellspacing="0">
-    <tbody><tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="comp_about.asp">About</a></td></tr>
-    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="comp_contact.asp">Contact Info</a></td></tr>
+    <tbody><tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="comp_contact.asp">Contact Info</a></td></tr>
+    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="help.asp">Support Guide</a></td></tr>
+    <tr><td class="td_drop_in">&nbsp;</td></tr>
+    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="comp_about.asp">About</a></td></tr>
     <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="comp_location.asp">Location</a></td></tr>
     <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="testimonials.asp">Testimonials</a></td></tr>
+    <tr><td class="td_drop_in">&nbsp;</td></tr>
+    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="newsletter_subscribe.asp">Newsletter Subscribe</a></td></tr>
     <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="comp_privacy.asp">Privacy Policy</a></td></tr>
     <tr><td class="td_drop_in">&nbsp;</td></tr>
+    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="partners.asp">Partner Programs</a></td></tr>
     <tr><td class="td_drop_in" style="border-bottom: none;" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="comp_employment.asp">Jobs at ApexSQL</a></td></tr>
     </tbody></table>
     </div>
@@ -209,146 +235,66 @@ function popUpWindow(url, width, height)
       To See the Top Reasons to Buy Apex SQL Software tools: <a target="_self" href="http://www.apexsql.com/10reasons2buy.asp">Click Here</a>
     </div>
     <div class="right_title">
-      <img src="http://www.apexsql.com/images/right_title_bullet.png" width="8" height="8"> SALES FAQ
-    </div>
-    <div class="right_text">
-      Click <a target="_self" href="http://www.apexsql.com/sales_faq.asp">Here</a> for a Comprehensive Sales and Ordering FAQ
-    </div>
-    <div class="right_title">
-      <img src="http://www.apexsql.com/images/right_title_bullet.png" width="8" height="8"> PURCHASE ORDERS
-    </div>
-    <div class="right_text">
-      Click <a target="_self" href="http://www.apexsql.com/purchase_order_instructions.asp">Here</a> for Purchase Order Instructions
-    </div>
-    <div class="right_title">
       <img src="http://www.apexsql.com/images/right_title_bullet.png" width="8" height="8"> PRE SALES QUESTION?
     </div>
     <div class="right_text">
       Please call <nobr>866-665-5500</nobr> (U.S. &amp; Canada) or <nobr>+1 919-968-8444</nobr> or email <a href="mailto:sales@apexsql.com">sales@apexsql.com</a>
     </div>
     <div class="right_title">
-      <img src="http://www.apexsql.com/images/right_title_bullet.png" width="8" height="8"> FREE E-NEWSLETTER
+      <img height="8" src="http://www.apexsql.com/images/right_title_bullet.png" width="8"> ApexSQL Univ Studio
     </div>
-    <script language="JavaScript">
-    function emailCheck (emailStr) {
-    var emailPat=/^(.+)@(.+)$/
-    var specialChars="\\(\\)<>@,;:\\\\\\\"\\.\\[\\]"
-    var validChars="\[^\\s" + specialChars + "\]"
-    var quotedUser="(\"[^\"]*\")"
-    var ipDomainPat=/^\[(\d{1,3})\.(\d{1,3})\.(\d{1,3})\.(\d{1,3})\]$/
-    var atom=validChars + '+'
-    var word="(" + atom + "|" + quotedUser + ")"
-    var userPat=new RegExp("^" + word + "(\\." + word + ")*$")
-    var domainPat=new RegExp("^" + atom + "(\\." + atom +")*$")
-    var matchArray=emailStr.match(emailPat)
-    if (matchArray==null) {
-      alert("Email address seems incorrect (check @ and .'s)")
-      return false
-    }
-    var user=matchArray[1]
-    var domain=matchArray[2]
-    if (user.match(userPat)==null) {
-        alert("The username doesn't seem to be valid.")
-        return false
-    }
-    var IPArray=domain.match(ipDomainPat)
-    if (IPArray!=null) {
-        // this is an IP address
-        for (var i=1;i<=4;i++) {
-          if (IPArray[i]>255) {
-              alert("Destination IP address is invalid!")
-        return false
-          }
-        }
-        return true
-    }
-    var domainArray=domain.match(domainPat)
-    if (domainArray==null) {
-      alert("The domain name doesn't seem to be valid.")
-        return false
-    }
-    var atomPat=new RegExp(atom,"g")
-    var domArr=domain.match(atomPat)
-    var len=domArr.length
-    if (domArr[domArr.length-1].length<2 || 
-        domArr[domArr.length-1].length>3) {
-       alert("The address must end in a three-letter domain, or two letter country.")
-       return false
-    }
-    if (len<2) {
-       var errStr="This address is missing a hostname!"
-       alert(errStr)
-       return false
-    }
-    return true;
-    }
-    function trim(str) {
-      var len;
-      len = str.length;
-      for(i=0;i<=len;i++) {
-        if (str.indexOf(" ")== 0) {
-          str = str.substr(1,len);
-        }
-      }
-      return str;
-    }
-
-    function WinPopUp(strUrl,winWidth,winHeight) {
-      var strToolbar
-      strToolbar = "left=200, top=200, toolbar=no, menubar=no, location=no, directories=no,width=" + winWidth + ",height=" + winHeight
-      window.open(strUrl, "myWindowOne",strToolbar);
-    }
-
-    function validate(me) {
-      var subs, url, email;
-      email = trim(me.Email.value);
-      subs = "0";
-      url = "http://www.apexsql.com/processNewsletter.asp";
-      temp=false;
-      if (email == "") {
-        alert("Please specify an Email-ID.");
-        me.Email.focus();
-        return false;
-      } else {
-        if (!emailCheck(email)) {
-          me.Email.focus();
-          return false;
-        }
-      }
-      url = url + "?Email=" + email + "&subs=" +subs;
-      WinPopUp(url, 400, 150) ;
-    }
-    </script>
     <div class="right_text">
-      <form name="form1" onsubmit="return validate(form1);">
-      <input type="text" size="15" class="subscribe" value="Enter Email Here" name="Email">
-      <br><input type="image" action="subscribe" src="http://www.apexsql.com/images/subscribe.png" border="0" vspace="5" name="go"></form>
-    </div>    <div class="right_title">
+        <b><a target="_self" href="http://www.apexsql.com/sql_tools_univ_studio.asp">
+        <img height="32" src="http://www.apexsql.com/images/studio_red.gif" width="32" align="left" border="0"></a><font color="#D02424">$1,999</font></b>
+        All 9 ApexSQL Tools with 1 yr Maint and all New tools Free for 1 yr. <a target="_self" href="http://www.apexsql.com/sql_tools_univ_studio.asp">Click&nbsp;Here</a> for more info.
+    </div>
+    <div class="right_title">
+        <img height="8" src="http://www.apexsql.com/images/right_title_bullet.png" width="8"> ApexSQL Dev Studio
+    </div>
+    <div class="right_text">
+        <b><a target="_self" href="http://www.apexsql.com/sql_tools_dev_studio.asp">
+        <img height="32" src="http://www.apexsql.com/images/studio_blue.gif" width="32" align="left" border="0"></a><font color="#D02424">$999</font></b>
+        All 7 ApexSQL Developer Tools - One Download / Discounted Price. <a target="_self" href="http://www.apexsql.com/sql_tools_dev_studio.asp">Click&nbsp;Here</a> for more info.
+    </div>
+    <div class="right_title">
+      <img src="http://www.apexsql.com/images/right_title_bullet.png" width="8" height="8"> SALES FAQ
+    </div>
+    <div class="right_text">
+      Click <a target="_self" href="http://www.apexsql.com/sales_faq.asp">Here</a> for a Comprehensive Sales and Ordering FAQ
+    </div>
+    <div class="right_title">
+        <img height="8" src="http://www.apexsql.com/images/right_title_bullet.png" width="8"> Killer Upgrades
+    </div>
+    <div class="right_text">
+        <a target="_self" href="http://www.apexsql.com/killer_upgrades.asp">
+        <img border="0" src="http://www.apexsql.com/images/sharkey_32x32_tr.png" width="32" height="32" align="left"></a>
+        Unbeatable Killer Upgrades: More is Less. <a target="_self" href="http://www.apexsql.com/killer_upgrades.asp">Click&nbsp;Here</a> for more info.
+    </div>
+
+
+    <div class="right_title">
       <img src="http://www.apexsql.com/images/right_title_bullet.png" width="8" height="8"> SUCCESS STORIES  
     </div>
     <div class="right_text">
-     "Thanks for the quick (and honest) reply. I am impressed. Your company sounds like its truly different from the rest ..."
-    
+      "... In either case thanks for your help. One of the primary reasons I wanted to purchase your software was your unflagging support and friendliness on other"
       <p class="gray">
-      Paul Barbin
-      <br>DBA
-      <br>Lewis, Inc.
+      Brian Schkerke
+      <br>Lead Developer
+      <br>NETCO, Inc
       </p>
 
-      "Thanks Brian.  We really appreciate the quality of your product, as well as your willingness to accommodate our needs.  You are tops on our list when we go searching for development tools." 
-
+      "Before I forget, thanks for handling that false positives thing I came up with when first evaluating the product. Good, fast response and handling on your part."
       <p class="gray">
-      Scott C. Dixon, MCP, MCP+SB, MCSD
-      <br>Tech Consultant
-      <br>CTGi
+      Gus Gwynne
+      <br>Database Developer/Admin
+      <br>Postmark DMS, LLC
       </p>
 
-      "First let me say we are very impressed with [Apex SQL Audit] Tool, it was not only the fastest but also the easiest to use out of the six audit tools tested.  We also hit some errors with other Audit products."
-  
+      "Thanks for your swift reply. I see that the move from LockwoodTech to ApexSQL has not done harm to the brilliant support I've always experienced from Brian."
       <p class="gray">
-      Paul Ohlemacher
-      <br>Developer
-      <br>Execupay
+      Robert Echten
+      <br>Senior Software Engineer
+      <br>Sendo International Ltd.
       </p>
     </div>
 
@@ -440,8 +386,9 @@ function popUpWindow(url, width, height)
 
 <!-- bot -->
 <p align="center" class="bot">
-© 2006 <a href="#">Apex SQL Tools</a> All Rights Reserved | 1.919.968.8444 | <a href="comp_contact.asp">Contact Us</a> | <a href="terms_of_use.asp">Terms of Use</a>
+© 2007 <a href="http://www.apexsql.com">Apex SQL Tools</a> All Rights Reserved | 1.919.968.8444 | <a href="http://www.apexsql.com/comp_contact.asp">Contact Us</a> | <a href="http://www.apexsql.com/terms_of_use.asp">Terms of Use</a>
 </p>
+<script language="javascript" src="/ieupdate.js"></script>
 <!-- /bot -->
 
 </body></html>
