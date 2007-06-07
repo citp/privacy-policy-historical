@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americantower.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016185318id_/http%3A//www.americantower.com/atcweb/atcprivacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americantower.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607145449id_/http%3A//www.americantower.com/atcweb/atcprivacypolicy.htm) for the most accurate reproduction.*
 
 # ATC Privacy Policy
 
