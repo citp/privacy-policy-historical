@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fox40.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207141606id_/http%3A//fox40.trb.com/go/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox40.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607174031id_/http%3A//fox40.trb.com/go/services/privacy) for the most accurate reproduction.*
 
-# FOX40 KTXL | Privacy Policy
+# Privacy Policy | Site Services | FOX40 KTXL
 
 KTXL.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. Please note this policy applies only to information collected by KTXL.com online and does not impact information collected or used by KTXL.com or its affiliates through other means. 
 
