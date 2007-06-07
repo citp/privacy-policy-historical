@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flir.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016210518id_/http%3A//www.flir.com/imaging/footer/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flir.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607142943id_/http%3A//www.flir.com/imaging/footer/privacy.aspx) for the most accurate reproduction.*
 
 # 
 
