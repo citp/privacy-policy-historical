@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directferries.co.uk privacy policy that was archived on 2006-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061015184448id_/http%3A//directferries.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directferries.co.uk privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607222946id_/http%3A//www.directferries.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # Direct Ferries Privacy Policy
 
@@ -44,7 +44,7 @@ Depending upon the type of browser you are using, you may be able to configure y
 
 **Access to your Information**
 
-You can write to us at any time to obtain details of the personal information we may hold about you. Please write to: Web Department Direct Ferries Limited, 140 Tabernacle Street, London, EC2A 4SD.
+You can write to us at any time to obtain details of the personal information we may hold about you. Please write to: Web Department Direct Ferries Limited Europe, 45 Great Sutton Street, London, EC1V 0DE.
 
 Please quote your name and address together with your booking reference and or account number. We would be grateful if could also provide brief details of what information you want a copy of (this helps us to more readily locate your data).
 
@@ -58,4 +58,4 @@ Direct Ferries recognises that its customers are increasingly concerned about ho
 
 Direct Ferries Ltd reserves the right to amend or modify this Privacy Policy Statement at any time and in response to changes in applicable data protection and privacy legislation.
 
-If you have any enquiry about Direct Ferries' data protection and privacy policy or practices, please write to: Web department, Direct Ferries Ltd, 140 Tabernacle Street, London EC2A 4SD. 
+If you have any enquiry about Direct Ferries' data protection and privacy policy or practices, please write to: Web department, Direct Ferries Ltd Europe, 45 Great Sutton Street, London, EC1V 0DE. 
