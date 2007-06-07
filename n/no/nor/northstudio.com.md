@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northstudio.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218073518id_/http%3A//northstudio.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northstudio.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607233043id_/http%3A//northstudio.com/privacy/index.html) for the most accurate reproduction.*
 
 # bc privacy act
 
