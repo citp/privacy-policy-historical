@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the fnal.gov privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208095625id_/http%3A//www.fnal.gov/pub/disclaim.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fnal.gov privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607181317id_/http%3A//www.fnal.gov/pub/disclaim.html) for the most accurate reproduction.*
 
 # Fermilab Disclaimer
 
 **Fermi National Accelerator Laboratory**  
-**Universities Research Association, Inc.**
+**Fermi Research Alliance, LLC.**
 
 **_Security Notice_**
 
@@ -49,11 +49,11 @@ Notwithstanding everything in this Privacy Notice, any information we can collec
 **_Fermilab Disclaimers, Copyright Status and Site Use Notice_**  
 
 
-Fermi National Accelerator Laboratory (Fermilab) is operated by Universities Research Association, Inc. for the U.S. Department of Energy under contract DE-AC02-76CH03000. As such the following rules apply:
+Fermi National Accelerator Laboratory (Fermilab) is operated by Fermi Research Alliance, LLC. for the U.S. Department of Energy under contract DE-AC02-07CH11359. As such the following rules apply:
 
-DISCLAIMER OF LIABILITY: Documents available from this server were prepared as accounts of work sponsored by an agency of the U.S. Government. Neither the U.S. Government nor any agency thereof, nor Universities Research Association, Inc., nor any of their employees or officers, makes any warranty, express or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product or process disclosed, or represents that its use would not infringe privately owned rights.
+DISCLAIMER OF LIABILITY: Documents available from this server were prepared as accounts of work sponsored by an agency of the U.S. Government. Neither the U.S. Government nor any agency thereof, nor Fermi Research Alliance, LLC., nor any of their employees or officers, makes any warranty, express or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product or process disclosed, or represents that its use would not infringe privately owned rights.
 
-DISCLAIMER OF ENDORSEMENT: Reference to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply its endorsement, recommendation, or favoring by the U.S. Government or any agency thereof. The views and opinions of document authors do not necessarily state or reflect those of the U.S. Government or any agency thereof, Fermilab, or Universities Research Association, Inc.
+DISCLAIMER OF ENDORSEMENT: Reference to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply its endorsement, recommendation, or favoring by the U.S. Government or any agency thereof. The views and opinions of document authors do not necessarily state or reflect those of the U.S. Government or any agency thereof, Fermilab, or Fermi Research Alliance, LLC.
 
 COPYRIGHT STATUS: Documents authored by Fermilab employees are the result of work under U.S. Government contract DE-AC02-76CH03000 and are therefore subject to the following license: The Government is granted for itself and others acting on its behalf a paid-up, nonexclusive, irrevocable worldwide license in these documents to reproduce, prepare derivative works, and perform publicly and display publicly by or on behalf of the Government.
 
