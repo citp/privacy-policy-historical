@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the followfollow.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017015618id_/http%3A//followfollow.com/feedback/loadpriv.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the followfollow.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608011154id_/http%3A//www.followfollow.com/feedback/loadpriv.asp) for the most accurate reproduction.*
 
 # FollowFollow.com - the definitive Rangers website. Independent news and stats from footymad.net
 
@@ -66,6 +66,6 @@ We may amend this policy from time to time however we assure you that we only us
 
 Some information and e-mails sent to us may be used as testimonials but no e-mail address or contact details will be displayed. 
 
-**_Contacting Us_** If you have any questions or concerns about the information we hold about you, you can contact us by e-mailing us at 
+**_Contacting Us_** If you have any questions or concerns about the information we hold about you, you can get in touch by filling in a short contact form, which can be reached by 
 
-[privacy@esagroup.co.uk.](mailto:privacy@esagroup.co.uk)
+[_clicking here_.](http://www.footymad.net/feedback/loadcont.asp?CID=EMFM&type=gen)
