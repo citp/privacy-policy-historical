@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domainpeople.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205215438id_/http%3A//www.domainpeople.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainpeople.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607113613id_/http%3A//www.domainpeople.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Corporate Domain Management, Domain Registration, Renewal,Transfer, Forwarding, Bulk Registration by DomainPeople.
 
