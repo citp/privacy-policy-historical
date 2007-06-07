@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitegear.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206042610id_/http%3A//about.websitegear.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitegear.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607081500id_/http%3A//about.websitegear.com/privacy.asp) for the most accurate reproduction.*
 
 # WebsiteGear Privacy Policy
 
@@ -48,5 +48,5 @@ For safegaurding user's submitted information, they are not displayed if the use
 
 * * *
 
-Copyright © 2003-2006 WebsiteGear Inc. All rights reserved.   
-[About](http://about.websitegear.com/) | [Advertise](http://ads.websitegear.com/) | [Submit Content](http://about.websitegear.com/submitcontent.asp) | [Privacy](http://about.websitegear.com/privacy.asp) | [Agreement](http://about.websitegear.com/memberpolicy.asp) | [Contact](http://www.websitegear.com/support/contact.asp)
+Copyright © 2003-2007 WebsiteGear Inc. All rights reserved.   
+[About](http://www.websitegear.com/about/) | [Advertise](http://www.websitegear.com/about/advertise.asp) | [Submit Content](http://content.websitegear.com/submitcontent.asp) | [Privacy](http://www.websitegear.com/about/privacy.asp) | [Agreement](http://www.websitegear.com/about/memberpolicy.asp) | [Contact](http://www.websitegear.com/support/contact.asp)
