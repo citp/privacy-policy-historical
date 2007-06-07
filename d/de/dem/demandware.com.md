@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the demandware.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207150719id_/http%3A//demandware.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demandware.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607202640id_/http%3A//www.demandware.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Demandware :: Privacy Policy
 
