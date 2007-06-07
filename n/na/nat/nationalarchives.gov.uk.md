@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalarchives.gov.uk privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211133955id_/http%3A//www.nationalarchives.gov.uk/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalarchives.gov.uk privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607025555id_/http%3A//www.nationalarchives.gov.uk/legal/privacy.htm) for the most accurate reproduction.*
 
 # The National Archives | Terms of use | Privacy statement
 
@@ -30,7 +30,7 @@ The results of all such research and analysis will be presented as anonymous or 
 
 **Cookies**
 
-Cookies are used in our webiste. They are used to track a user's session and for remembering the options visitors select as they navigate through the sections of the site. These cookies do not contain any personal information. We use this information to find out what site features are most popular so that we can develop the website in the light of our analysis of people´s usage.
+Cookies are used in our website. They are used to track a user's session and for remembering the options visitors select as they navigate through the sections of the site. These cookies do not contain any personal information. We use this information to find out what site features are most popular so that we can develop the website in the light of our analysis of people's usage. We do not pass information users give us to other organisations in a way that enables individual users to be identified but we may share anonymised information about users and their usage of the website with partner organisations wishing to use it for research purposes.
 
 From time to time we will use external marketing resources to measure adverts on other websites. AOL and Tiscali uses pixels, or transparent .gif files, to help manage online advertising. These .gif files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognise a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. The cookie used will expire after 30 days. For more information about DoubleClick, including information about how to opt out of these technologies, go to [www.doubleclick.net](http://www.doubleclick.net/us/corporate/privacy)
 
