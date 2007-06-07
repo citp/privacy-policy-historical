@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gradwell.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207050213id_/http%3A//esupport.gradwell.net/index.php%3F_m%3Dknowledgebase%26_a%3Dviewarticle%26kbarticleid%3D14) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gradwell.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607235319id_/http%3A//esupport.gradwell.net/index.php%3F_m%3Dknowledgebase%26_a%3Dviewarticle%26kbarticleid%3D14) for the most accurate reproduction.*
 
 # Privacy Policy - Powered By Kayako SupportSuite
 
@@ -51,4 +51,7 @@ This site gives users the following options for changing and modifying informati
 
 ### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact The Support Team gradwell dot com Ltd 3-3a Gloucester Street, Bath BA1 1SE support@gradwell.net
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact The Support Team gradwell dot com Ltd26 Cheltenham Street  
+Bath  
+BA2 3EX  
+support@gradwell.net
