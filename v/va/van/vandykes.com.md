@@ -1,6 +1,20 @@
-> *The following text is extracted and transformed from the vandykes.com privacy policy that was archived on 2006-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061101004253id_/http%3A//www.vandykes.com/security.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vandykes.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607142809id_/http%3A//www.vandykes.com/security.php) for the most accurate reproduction.*
 
 # Privacy Policy from Van Dykes
+
+[](http://www.vandykes.com/email.php)
+
+We offer fast and secure online ordering. If you are a new customer to our website, to place an order please [set up an account](https://web.archive.org/create_account.php). If you are a previous customer please [login](https://web.archive.org/login.php) to place an order. For easy navigation use the search box at the top of every page or browse through the categories. If you are having problems locating products on our website please call us at 1-800-787-3355. You can order directly by calling 1-800-558-1234.
+
+Great deals for email subscribers, special offers, new products,   
+and how-to newsletters. [Sign up today!](http://www.vandykes.com/email.php)
+
+|   
+---  
+  
+[](http://www.vandykes.com/catalog.php)   
+  **Free catalog** [Click here](http://www.vandykes.com/catalog.php)   
+| 
 
 **Updated 1-14-05 – Important Policy Changes that apply to all Van Dyke’s Customers**
 
@@ -75,3 +89,8 @@ If you have any further question regarding your online security, please contact 
 **Children**
 
 In accordance with federal law, we do not knowingly collect personally identifiable information from children under age 13 without the verifiable permission of a parent or guardian. If you are under age 13, you are welcome to browse our Web site. However you are not permitted to use any of the features of our site that require the collection of any personally identifiable information. If we determine that we have erroneously collected a child’s information, we will immediately undertake to delete that data from our records.
+
+|  | 
+
+  
+[](http://www.vandykes.com/specials.php)
