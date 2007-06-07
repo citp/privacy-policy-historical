@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cleverstat.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205235611id_/http%3A//cleverstat.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleverstat.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607205507id_/http%3A//www.cleverstat.com/privacy.htm) for the most accurate reproduction.*
 
 # CleverStat Privacy Policy, Copyright Notice
 
@@ -14,7 +14,7 @@ Privacy Policy
   * CleverStat shall never sell, rent or share any private information (such as e-mail addresses, names, postal addresses or phone numbers) received from you. 
   * CleverStat does not use any hidden methods to collect your personal information. We do not collect any information unless you explicitly provide it to us. The information acquired in such a way is used for sending newsletters to our customers, providing feedback or registering our software. 
   * This site (www.CleverStat.com) collects the following information about each visitor: visited pages, date and time, IP address, browser type and a referrer record indicating the website where you come from. This information is used for statistical purposes. 
-  * This site (www.CleverStat.com) does not use cookies technology. 
+  * This site (www.CleverStat.com) uses cookies technology to identify a visitor if he/she returns to our site. No personal information is collected except the one specified above. 
   * This site may contain links to other sites. CleverStat is not responsible for the privacy policies or the content of these websites. 
 
 
