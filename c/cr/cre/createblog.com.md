@@ -1,79 +1,59 @@
-> *The following text is extracted and transformed from the createblog.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230100249id_/http%3A//www.createblog.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the createblog.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607210920id_/http%3A//www.createblog.com/privacy.php) for the most accurate reproduction.*
 
-# CreateBlog.com / Privacy policy
+# Privacy Policy - CreateBlog
 
-**Updated:** 18 January, 2006
+### About CreateBlog.com
 
-**_What This Privacy Policy Covers_**
+CreateBlog.com is an online service that allows our members to set up unique personal profiles that can be linked together through networks of friends. CreateBlog members can view each others' profiles, communicate with old friends and meet new friends on the service, share photos, post journals and comments, and describe their interests. To enrich our members' experience, we request and display some personal information to other members and visitors, which allows our users to identify each other and expand their network of friends. CreateBlog members can change their profile information at any time and can control how other members and the service communicates with them.
 
-  * This privacy policy pertains to the use of the CreateBlog web site at http://www.createblog.com/
-  * This privacy policy covers how CreateBlog treats personal information that CreateBlog collects and receives. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number.
-  * Children under 13 are not permitted to use the CreateBlog service, and so this privacy policy makes no provision for children's use of the site.
+### Information Collection and Use by Createblog.com
 
+CreateBlog.com collects user submitted information such as name, email address, and age to authenticate users and to send notifications to those users relating to the CreateBlog.com service. CreateBlog.com also collects other profile data including but not limited to: personal interests, gender, age, education and occupation in order to assist users in finding and communicating with each other.
 
+CreateBlog.com also logs non-personally-identifiable information including IP address, profile information, aggregate user data, and browser type, from users and visitors to the site This data is used to manage the website, track usage and improve the website services. This non-personally-identifiable information may be shared with third-parties to provide more relevant services and advertisements to members. User IP addresses are recorded for security and monitoring purposes. 
 
-Information Collection and How it is used
+User Profile information including members' pictures and first names are displayed to people in order to facilitate user interaction in the CreateBlog.com social networking community. Email addresses are used for the purposes of inviting new friends to join CreateBlog, to add users to members' friends' networks, and to send notifications related to the service. With the exception of inviting friends, adding friends, and notifications, a user's email address is not shared or displayed to people within a user's personal network Users within a personal network communicate on CreateBlog.com with each other through the CreateBlog.com service, without disclosing their email addresses. 
 
-**General Information**
+We may also use a user's email address to send updates, a newsletter or news regarding the service. Users may choose not to receive email of this type by changing their "Notification" setting to "Do not send me notification emails" in the user "Account settings".
 
-  * CreateBlog collects personal information when you register with CreateBlog to use CreateBlog services or to post content on CreateBlog.
-  * When you register we ask for your email address and certain optional information such as your name, birth date, birth place, gender, biographical information, ICQ/AIM/Yahoo/MSN user name, and personal interests.
-  * CreateBlog automatically receives and records information on our server logs from your browser, including your IP address, cookie, and the page you request.
-  * CreateBlog uses information for the following general purposes: products and services provision, identification and authentication, services improvement, contact, research, and anonymous reporting.
+CreateBlog members can invite friends to join the service by sending invitation emails via our automated invitation system. Createblog.com stores the email addresses that members provide so that the respondents may be added to the friend's list of the member sending the invitations, and also to send reminders of the invitations CreateBlog.com does not sell these email addresses or use them to send any other communication besides invitations, invitation reminders (up to three (3) per email address). Recipients of invitations from CreateBlog.com may contact CreateBlog.com to request the removal of their information from our database. 
 
+### Use of Cookies
 
+CreateBlog.com uses cookies to store visitors' preferences and to record session information, for purposes including ensuring that visitors are not repeatedly offered the same advertisements and to customize newsletter, advertising, and Web page content based on browser type and user profile information. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set -- each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences -- however, you must enable cookies from CreateBlog.com in order to use most functions on the site Please note that CreateBlog allows 3rd party advertisers that are presenting advertisements on some of our pages to set and access their cookies on your computer. Advertisers' use of cookies is subject to their own privacy policies, not the CreateBlog Privacy Policy. 
 
-**IP Addresses**
+### Links
 
-IP Addresses are automatically reported by your browser each time you view a web page. Your IP address is stored in our user registration databases when you register with CreateBlog. 
+CreateBlog.com contains links to sites. CreateBlog.com is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. Our privacy policy only governs information collected on CreateBlog.com. 
 
-IP addresses may be used for various purposes, including: 
+### Chat Rooms, Blogs and Public Forums
 
-  * To diagnose or service technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP.
-  * To tailor advertising based on geographic area or other information derived from your IP address. Aggregate information derived from IP addresses may also be reported to advertisers.
-  * To estimate the total number of users visiting CreateBlog from specific geographical regions.
-  * To make sure that people are not voting for themselves or friends during contests or promotions.
+Please be aware that whenever you voluntarily post public information to Blogs and Public Forums that that information can be accessed by the public and can in turn be used by those people to send you unsolicited communications.
 
+### Correcting/Updating or Removing Information
 
+CreateBlog.com users may modify or remove any of their personal information at any time by logging into their account and accessing features such as Edit Profile and My Account. 
 
-**Cookies**
+### Email Choice/Opt-out
 
-A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive. 
+At this time CreateBlog.com does not have an opt-out system. In the future, members who no longer wish to receive updates or notifications may choose not to by selecting "Do not send me notification emails" in the user profile "Account Settings". 
 
-  * You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set.
-  * If you reject all cookies, you will not be able to use CreateBlog products or services that require you to "sign in," and you may not be able to take full advantage of the CreateBlog service.
-  * CreateBlog uses its own cookies for a number of purposes, including to:  
-o Access your information when you "sign in".  
-o Keep track of preferences you specify while you are using CreateBlog's services.  
-o Display the most appropriate advertising banners, based on your interests and activity on CreateBlog.  
-o Estimate and report our total audience size and traffic.  
-o Conduct research to improve CreateBlog's content and services.
-  * CreateBlog lets other companies (such as Google) that show advertisements on some of our pages set and access their cookies on your computer. Other entities' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other entities do not have access to CreateBlog's cookies.
+### Third Party Advertising
 
+Ads appearing on this Web site may be delivered to users by Createblog.com or one of our Web advertising partners. Our Web advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy statement covers the use of cookies by CreateBlog.com and does not cover the use of cookies by any advertisers. 
 
+### Security
 
-Information Sharing and Disclosure
+CreateBlog.com member accounts are secured by member-created passwords CreateBlog.com takes precautions to insure that member account information is kept private. We use reasonable measures to protect member information that is stored within our database, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time. 
 
-  * When you post a message, your CreateBlog ID or alias that you are posting under is visible to other users.
-  * If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. CreateBlog does not rent or sell your personal information.
-  * Generally, CreateBlog does not share personal information about you with other people or nonaffiliated companies without your consent except to provide products or services you've requested and in the following circumstances: 
-    * CreateBlog may be required to disclose personally identifiable information under special circumstances, such as to comply with subpoenas, warrants, court orders or legal process or to establish or exercise our legal rights or defend against legal claims;
-  * It may be necessary to share information in order to investigate, prevent, or take action regarding suspected or actual illegal activities, including without limitation, fraud, situations involving potential threats to the physical safety of any person, violations of CreateBlog's terms of use, or as otherwise permitted or required by law. We will transfer information about you if CreateBlog is acquired by or merged with another company. CreateBlog may share demographic information with business partners, such as "53% of users who regularly user CreateBlog chat are between 18 and 24" or the like. No personally identifiable information will ever be used without your permission (i.e. we will ask you for a quote or testimonial)
-  * CreateBlog displays targeted advertisements based on personal information that is exhibited in people's profiles. This may sometimes make you laugh, as when it shows advertisements for rabbit feed on the profile page of a person whose handle is "BunnyLove." When you register with us, your personal information and other data will be stored and processed in Canada and the United States and this information may be subject to the laws of these jurisidictions.
+### Sharing and Disclosure of Information CreateBlog.com Collects
 
+Except as otherwise described in this privacy statement, CreateBlog will not disclose personal information to any third party unless we believe that disclosure is necessary: (1) to conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by CreateBlog.com, whether or not a response is required by applicable law; (2) to enforce the CreateBlog.com Terms of Use Agreement or to protect our rights; or (3) to protect the safety of members of the public and users of the service. CreateBlog reserves the right to transfer personal information to a successor in interest that acquires rights to that information as a result of the sale of CreateBlog or substantially all of its assets to that successor in interest.
 
+### Changes in Our Privacy Policy
 
-Editing and Deleting Account Information. Security.
+From time to time we may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your CreateBlog account or by placing a prominent notice on our site. Please note that your continued use of the CreateBlog.com service after the date of any changes to this policy (which will appear as the "Effective" date listed on the policy) will constitute your acceptance and agreement to be bound by those changes. You should visit this page on a regular basis to view any changes to this privacy policy.
 
-  * You can change your CreateBlog Account Information, at any time.
-  * We may send you certain communications relating to the CreateBlog service, such as service announcements and administrative messages, that are considered part of your CreateBlog account.
-  * You can delete your CreateBlog account at any time by emailing to admin at createblog dot com.
-  * Your CreateBlog Account Information is password-protected.
+### Contacting the Web Site
 
-
-
-Changes to this Privacy Policy
-
-CreateBlog may update this policy at any time for any reason. If there are any significant changes to how we handle personal information we will send a notice to the primary email address specified in your CreateBlog account or by placing a prominent notice on our site. 
-
-If you have questions or suggestions please contact us at privacy at createblog dot com. 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: privacy AT createblog DOT com. 
