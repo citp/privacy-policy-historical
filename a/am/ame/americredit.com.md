@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americredit.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217234537id_/http%3A//www.americredit.com/Customers/PrivacyOptOut/PrivacyOptOut.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americredit.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607141943id_/http%3A//www.americredit.com/Customers/PrivacyOptOut/PrivacyOptOut.asp) for the most accurate reproduction.*
 
 # AmeriCredit: Privacy
 
@@ -7,11 +7,11 @@
 ### AN IMPORTANT MESSAGE CONCERNING YOUR PRIVACY
 
   
-At AmeriCredit, we value our customers' trust and confidence. This brochure outlines the safeguards we employ to protect your personal information, and it explains how we collect and use that information. It also describes the instances when we may share information with other parties and affiliates and when and how you can "opt-out" of sharing certain information. We recognize the importance of trust, and we greatly appreciate your business. Please read the following privacy policy carefully. 
+At AmeriCredit's family of companies, we value our customers' trust and confidence. This statement outlines the safeguards we employ to protect your personal information, and it explains how we collect and use that information. It also describes the instances when we may share information with other parties and affiliates and when and how you can "opt-out" of sharing certain information. We recognize the importance of trust, and we greatly appreciate your business. Please read the following privacy policy carefully. 
 
 ### OUR PRIVACY POLICY
 
-This disclosure is our privacy policy. Your understanding of our information sharing practices is important to us. In this brochure, we will tell you (among other things): 
+This disclosure is our privacy policy. Your understanding of our information sharing practices is important to us. In this statement, we will tell you (among other things): 
 
   * Information we collect about you;
   * With whom we might share any of that information, and why;
@@ -20,7 +20,7 @@ This disclosure is our privacy policy. Your understanding of our information sha
 
 We do not share information about you except as disclosed in this policy or as allowed by law without your specific consent or notice. 
 
-In this brochure, "we", "our" and "us" mean **all institutions in the AmeriCredit family of companies, including BayView Acceptance Corporation.** We are a company specializing in automobile finance with offices throughout the United States. 
+In this statement, "we", "our" and "us" mean **all institutions in the AmeriCredit family of companies.** We are a company specializing in automobile finance with offices throughout the United States. 
 
 This policy applies to our consumer customers who have continuing relationships with us. You have a continuing relationship with us if, for example, you have a:
 
@@ -30,7 +30,7 @@ This policy applies to our consumer customers who have continuing relationships 
 
 This policy also applies to all persons (individuals) who do not have a continuing relationship with us but who may use a financial product or service we provide in isolated transactions. This includes, for example, someone who:
 
-  * Applies for an extension of credit that does not result in a contract or loan;
+  * Applies for an extension of credit that does not result in a contract, loan or lease;
   * Is a former customer; or
   * Provides nonpublic personal information on our Web site.
 
@@ -40,8 +40,8 @@ Here are other terms we will use in this disclosure:
     1. Information that can identify you;
     2. That is not available publicly; and
     3. That we collect in connection with providing a financial product or service to you.
-  * We will use the word "information" in this brochure to mean "nonpublic personal information."
-  * **"Affiliate"** is a company one of us owns, a company that owns one of us, or a company that is owned or controlled by a company that owns one of us.
+  * We will use the word "information" in this statement to mean "nonpublic personal information."
+  * **"Affiliate"** is any member of the AmeriCredit family of companies, for example, a company one of us owns, a company that owns one of us, or a company that is owned or controlled by a company that owns one of us.
   * **"Nonaffiliate"** includes a person who is not employed by one of us, or a company that is not an affiliate.
   * **"Opt-out"** means a choice you make to prevent us from sharing certain information about you with others.
   * **"Unsubscribe"** means a choice you make to prevent us from sending you specific electronic communications.
@@ -62,11 +62,10 @@ We are licensed under the laws of the State of Texas and by state law are subjec
 
 ### 1\. INFORMATION WE COLLECT
 
-We collect information about you from the following sources:
+We collect information about you from a variety of sources, including the following:
 
   * Information you might provide us on applications and other forms;
-  * Information about transactions we conduct for or with you;
-  * Information about transactions you might conduct through an affiliate;
+  * Information about transactions we or an affiliate conducts for or with you;
   * Information about your transactions with nonaffiliated third parties;
   * Information from a consumer reporting agency; and
   * Information collected through available technologies in connection with your visit to our Web site.
@@ -75,11 +74,11 @@ We collect information about you from the following sources:
 
 ### 2\. INFORMATION WE SHARE WITH NONAFFILIATES
 
-We may disclose all of the information that we collect, as described in Section 1, to Nonaffiliated Third Parties. We disclose information about you to nonaffiliated third parties so we can provide you with information about additional products and services we do not offer directly but in which we think you would be interested. You may opt-out of the disclosure of this type of information. We will explain how you can opt-out and the effect later.
+Unless otherwise prohibited by law, we may disclose all of the information that we collect, as described in Section 1, to nonaffiliates. We disclose information about you to nonaffiliates so we can provide you with information about additional products and services we do not offer directly but in which we think you would be interested. You may tell us not to share your information for this purpose. We will explain how you do this and the effect it has later in this privacy policy.
 
-### Types of Nonaffiliated Third Parties
+### Types of Nonaffiliates 
 
-We may disclose the information listed above about you to the following types of nonaffiliated third parties:
+We may disclose the information listed above about you to the following types of nonaffiliates:
 
   * Financial service providers, such as: 
     * Mortgage loan companies
@@ -101,7 +100,7 @@ We may disclose the information listed above about you to the following types of
 
 ### 3\. INFORMATION WE MAY SHARE WITH OUTSIDE MARKETING SERVICERS
 
-We may disclose all of the information that we collect, as described in Section 1, to companies who perform marketing services on our behalf. We disclose information about you to Outside Marketing Servicers so we can provide you with information about additional products and services we offer. We disclose information only when we believe the offer or services provided is important for you. Our agreements with these companies are subject to confidentiality provisions and restrictions on using the information for any other purpose. You may not opt-out of the disclosure of this type of information with Outside Marketing Servicers.
+Unless otherwise prohibited by law, we may disclose all of the information that we collect, as described in Section 1, to companies who perform marketing services on our behalf. We disclose information about you to Outside Marketing Servicers (defined below) so we can provide you with information about additional products and services we offer. We disclose information only when we believe the offer or a service provided is important for you. Our agreements with these companies are subject to confidentiality provisions and restrictions on using the information for any other purpose. 
 
 ### Types of Businesses
 
@@ -115,27 +114,26 @@ We may disclose all of the information that we collect, as described in Section 
 
 ### 4\. SHARING WITH JOINT MARKETERS
 
-We may disclose all of the information that we collect, as described in Section 1, to Joint Marketers. At times we arrange programs with other financial service providers to offer you the benefits of additional financial services. We disclose information only as we believe it is important for the offer or services provided. Our joint agreements with these companies are subject to confidentiality provisions and restrictions on using the information for any other purpose. You may not opt-out of the disclosure of this type of information with Joint Marketers.
+Unless otherwise prohibited by law, we may disclose all of the information that we collect, as described in Section 1, to Joint Marketers. At times we arrange programs with other financial service providers to offer you the benefits of additional financial services. We disclose information only as we believe it is important for the offer or services provided. Our joint agreements with these companies are subject to confidentiality provisions and restrictions on using the information for any other purpose.
 
 ### Types of Businesses
 
 **"Joint Marketers"** are third-party financial institutions with whom we have limited agreements to jointly offer a financial product or service to you.
 
-Types of businesses with whom we may disclose information under this section include:
+Types of financial institutions with whom we may disclose information under this section include:
 
-  * Financial service providers, such as: 
-    * Mortgage loan companies;
-    * Securities broker-dealers;
-    * Insurance agents;
-    * Banks;
-    * Credit card companies; and
-    * Finance companies.
+  * Mortgage loan companies;
+  * Securities broker-dealers;
+  * Insurance agents;
+  * Banks;
+  * Credit card companies; and
+  * Finance companies.
 
 
 
 ### 5\. INFORMATION WE MAY SHARE WITH AFFILIATES
 
-Although currently we do not share any information with Affiliates, we reserve the right to disclose all of the information that we collect as described in Section 1, to any current or future affiliate company. You may opt-out of the disclosure of this type of information other than information derived from transactions we might do for you. We will tell you how to opt-out and the effect later.
+We are legally permitted to share information about our transactions and experiences with you within the AmeriCredit family of companies. Although currently we do not share other information about you within our family of companies, we reserve the right to disclose all of the information that we collect as described in Section 1, to any current or future affiliate for other purposes, including marketing purposes. You may tell us not to share your information for these other purposes. We will explain how you do this and the effect it has later in this privacy policy.
 
 ### Types of Affiliates
 
@@ -152,26 +150,26 @@ We may disclose information about you in the future to the following types of af
 
 ### FOR WEB ACCESS ONLY
 
-From time to time we may send you electronic communications without your request or authorization. You will have the opportunity to unsubscribe to these communications when you receive them. If you unsubscribe from specific electronic communications you are not "Opting-Out" as described above. 
+From time to time we may send you electronic communications without your request or authorization. You will have the opportunity to unsubscribe from these communications when you receive them. If you unsubscribe from specific electronic communications you are not "Opting-Out" as described above. 
 
 In addition, there are "hyperlinks" or "links" to other Web sites embedded within our Web site. If you choose to click on one of these links, you will be governed by the privacy policy of the linked Web site, even if the content is framed within our Web site.
 
 ### CALIFORNIA, NORTH DAKOTA, AND VERMONT RESIDENTS
 
-Except for information your state laws allow us to share without your specific consent or notice, we do not share the information we collect about you.
+Except for information we are permitted by state or federal laws to share without your specific consent or notice, we do not share the information we collect about you.
 
 ### PROTECTING YOUR INFORMATION
 
-Ensuring your information is secure is important to us. Therefore, access to your information is limited to those people who need access in order to perform their job. We maintain physical, procedural, and electronic safeguards to protect your information from unauthorized access.
+Ensuring your information is secure is important to us. Therefore, access to your information is limited to those people who need access in order to perform their job. We maintain physical, procedural, and electronic safeguards that comply with federal regulations to protect your information.
 
 ### YOUR RIGHT TO OPT-OUT – INSTRUCTIONS AND EFFECT
 
 You have the right to ask us not to share some of the information listed earlier. This is referred to as an opt-out. The sharing you can stop is (except as allowed by law):
 
   * The information we might share with nonaffiliates listed in Section 2.
-  * The information we might share with affiliates listed in Section 5, except the information we derive from transactions and experience with you.
+  * The information we might share with affiliates listed in Section 5 except the information we derive from transactions and experience with you.
 
-This opt-out does not allow you to opt-out of disclosures necessary in servicing your account, such as collection activities or reporting your information to credit reporting agencies.
+This opt-out does not allow you to opt-out of disclosures necessary in servicing your account, such as collection activities or reporting your information to credit reporting agencies. It also does not allow you to opt-out of disclosures that are otherwise permitted by law.
 
 If you wish to opt-out of disclosures, you must do so by:
 
@@ -197,5 +195,5 @@ If you use our toll-free telephone number, it will help if you have the followin
   * City, State, ZIP Code; and
   * E-mail Address.
 
-Privacy Policy effective June 2006.   
+Privacy Policy effective June 2007.   
    [](http://www.bbbonline.org/cks.asp?id=101032216521615661) | 
