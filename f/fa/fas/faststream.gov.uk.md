@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faststream.gov.uk privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211100301id_/http%3A//www.cabinetoffice.gov.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faststream.gov.uk privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607090423id_/http%3A//www.cabinetoffice.gov.uk/privacy.asp) for the most accurate reproduction.*
 
 # Cabinet Office privacy policy"
 
@@ -40,7 +40,7 @@ We do not pass on your details to any third party or other government department
 
 ### Access to your information and contacting us
 
-If you wish to see our records of any correspondence you have sent to us, or if you have a query or complaint about this privacy policy or about the site, you can contact us by using the [feedback form](https://web.archive.org/web/20061211100301id_/http%3A//www.cabinetoffice.gov.uk/contact_us/feedback.asp "Feedback form").
+If you wish to see our records of any correspondence you have sent to us, or if you have a query or complaint about this privacy policy or about the site, you can contact us by using the [feedback form](https://web.archive.org/web/20070607090423id_/http%3A//www.cabinetoffice.gov.uk/contact_us/feedback.asp "Feedback form").
 
 ### Changes to this privacy policy
 
