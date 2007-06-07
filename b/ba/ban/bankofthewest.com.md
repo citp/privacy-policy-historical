@@ -1,12 +1,17 @@
-> *The following text is extracted and transformed from the bankofthewest.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614050526id_/http%3A//www.bankofthewest.com/BOW/main.jsp%3FChId%3D51f72403c1a6ff00VgnVCM10000087c35c92____) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankofthewest.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607190451id_/http%3A//www.bankofthewest.com/BOW/main.jsp%3FChId%3D51f72403c1a6ff00VgnVCM10000087c35c92____) for the most accurate reproduction.*
 
 # Bank of the West | About Us | Privacy Policy
+
+  
+We recognize your right to privacy. We're pleased you have chosen to bank with us, and we are committed to honor our relationship using great care to responsibly protect the information you share with us. 
+
+* * *
 
 Our customer information privacy policy, detailed in this statement, serves as the standard for all Bank of the West employees in the collection, use, sharing, retention, and security of individual customer information.
 
 Without compromising your privacy, we also wish to offer you, from time to time, superior financial products and services that we believe can help you achieve your financial objectives. We believe we can do this by observing our policy.
 
-Expectation of Privacy
+**Expectation of Privacy**
 
 Safekeeping of customer information is a high priority at Bank of the West. We will continue to maintain the high standards necessary to ensure that your information is kept private and secure at all times.
 
