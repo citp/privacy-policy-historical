@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nitropdf.com privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224025814id_/http%3A//www.nitropdf.com/professional/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nitropdf.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607174820id_/http%3A//www.nitropdf.com/professional/privacy_policy.htm) for the most accurate reproduction.*
 
 # Nitro PDF Professional Online Store: Refund policy and conditions
 
@@ -71,7 +71,7 @@ We only collect personal information from our website if you submit details to u
 Our website uses two types of cookies:
 
   * Per-session cookies: Used to assess and improve the performance of the web site for our users. These cookies are anonymous and in no way no way identify users. 
-  * Persistent cookies: Used to make areas of the site that require a person to be logged in easier to use. For example, when participating in forum discussions or managing Expert Support enquiries.
+  * Persistent cookies: Used to make areas of the site that require a person to be logged in easier to use. For example, managing Expert Support enquiries.
 
 
 
@@ -81,6 +81,8 @@ Our website uses two types of cookies:
 
 From time to time we may make changes to our Privacy Policy. We will publish any changes on our website. This Privacy Policy was last amended 17 March 2006.
 
-Contact us
+### Contact us
+
+* * *
 
 If you require more detailed information about our information handling practices or if you have any concerns about our handling of your personal information, please let us know by going to the Contact Us webpage on this site.
