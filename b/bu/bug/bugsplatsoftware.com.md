@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bugsplatsoftware.com privacy policy that was archived on 2006-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060912123524id_/http%3A//www.bugsplatsoftware.com/browse/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bugsplatsoftware.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607213616id_/http%3A//www.bugsplatsoftware.com/browse/privacy.php) for the most accurate reproduction.*
 
 # Bugsplat Software - Privacy Policy
+
+[](https://web.archive.org/browse/promo.php)
 
 Privacy Policy
 
