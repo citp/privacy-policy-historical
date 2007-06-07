@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bostonmagazine.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111105540id_/http%3A//www.bostonmagazine.com/ADVERTISING/Bmag_Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bostonmagazine.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607153419id_/http%3A//www.bostonmagazine.com/ADVERTISING/Bmag_Privacy) for the most accurate reproduction.*
 
 # Boston Magazine: Boston Privacy Policy
 
