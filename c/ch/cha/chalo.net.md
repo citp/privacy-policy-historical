@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chalo.net privacy policy that was archived on 2006-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061007164614id_/http%3A//chalo.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chalo.net privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607170229id_/http%3A//www.chalo.net/privacy.htm) for the most accurate reproduction.*
 
 # We respect your privacy @ Chalo.net
 
