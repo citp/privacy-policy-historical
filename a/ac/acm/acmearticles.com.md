@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acmearticles.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214143624id_/http%3A//acmearticles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acmearticles.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607175812id_/http%3A//www.acmearticles.com/privacy.php) for the most accurate reproduction.*
 
 # ACME Articles | Free Article Directory
 
