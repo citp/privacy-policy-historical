@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankatlantic.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207155749id_/https%3A//www.bankatlantic.com/privacyPolicy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankatlantic.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607113626id_/https%3A//www.bankatlantic.com/privacyPolicy/default.aspx) for the most accurate reproduction.*
 
 # BankAtlantic Privacy Policy
 
@@ -16,8 +16,8 @@ This online notice supplements BankAtlantic’s Privacy Policy and is intended t
 | What if I need to change the personal information I previously disclosed?  
 | Who can I contact if I have any questions regarding my privacy?  
   
- ** _What information does BankAtlantic ask for and how is it used?  
-_** When you register for Online Banking, BankAtlantic will ask you for basic registration information, such as your name, address, social security, existing BankAtlantic account number(s), your city of birth (or business industry), mother’s maiden name (or business license number), date of birth (or date founded), contact telephone numbers, a user ID and password which you choose, and an E-mail address for customer service. Additional information may be required to utilize value-added features of Online Banking, such as Funds Transfer, Telephone Banking, and Bill Pay, or to access specific third party Internet services such as BankAtlantic ShareBuilder. If you decide to open an account online, or when completing one of our customer surveys we will also ask you for basic registration information, such as the type of information highlighted above. We will use the above information for providing the services and/or accessing the sites you select on your behalf, monitoring and improving our existing products and services, or for purposes of offering new product and service information of interest to you.
+ _ **What information does BankAtlantic ask for and how is it used?  
+**_When you register for Online Banking, BankAtlantic will ask you for basic registration information, such as your name, address, social security, existing BankAtlantic account number(s), your city of birth (or business industry), mother’s maiden name (or business license number), date of birth (or date founded), contact telephone numbers, a user ID and password which you choose, and an E-mail address for customer service. Additional information may be required to utilize value-added features of Online Banking, such as Funds Transfer, Telephone Banking, and Bill Pay, or to access specific third party Internet services such as BankAtlantic ShareBuilder. If you decide to open an account online, or when completing one of our customer surveys we will also ask you for basic registration information, such as the type of information highlighted above. We will use the above information for providing the services and/or accessing the sites you select on your behalf, monitoring and improving our existing products and services, or for purposes of offering new product and service information of interest to you.
 
 As with most online businesses, BankAtlantic logs information about access to its website, including the IP addresses from which a user came to the site in order to diagnose problems with the server, administer the BankAtlantic.com site, and to aggregate statistical data. BankAtlantic reserves the right to share aggregated information with third parties.  For specific details regarding BankAtlantic’s policy on the sharing of information, please refer to our
 
@@ -25,7 +25,7 @@ As with most online businesses, BankAtlantic logs information about access to it
 
  **Back To Menu.**
 
- ** _Will I be contacted if I register for Online Banking with BankAtlantic?_**
+ _ **Will I be contacted if I register for Online Banking with BankAtlantic?**_
 
 BankAtlantic will occasionally contact users by telephone, electronic or regular mail to inform them of new features, to request participation in market surveys, or to inform users of BankAtlantic.com and partner promotions. However, BankAtlantic does offer an opt-out option to users signing up for Online Banking who do not wish to receive such messages. In order to ensure the quality of the Online Banking service, BankAtlantic will send certain types of messages from which users will not be able to opt-out. These may include, "A Welcome Notice" to confirm new membership, "notifications" of password changes or "Account lockouts" and other "customer satisfaction" and "customer service" issues.
 
@@ -33,7 +33,7 @@ Information users provide is used to better customize the experience for each cu
 
  **Back To Menu.**
 
- ** _Does BankAtlantic use cookies?_**
+ _ **Does BankAtlantic use cookies?**_
 
 Like many leading websites, our website uses cookies. A "cookie" is a way for a website to recognize whether or not you have visited the site before. Cookies do not read other information on your hard drive, nor can they be used to reveal anything about you that you have not chosen to enter as a user on a website. When you visit our website, we may use cookies on some pages in order to help us serve you better each time you return. On subsequent visits, we will be able to access such cookies so that you will not have to re-enter your personal information each time you visit our website. Using a cookie at such points allows us to recognize you as a customer and to automate your online experience.
 
@@ -43,26 +43,26 @@ If you do not wish to receive cookies, you can set your browser to alert you of 
 
  **Back To Menu.**
 
- ** _Who has access to my personal information?_**  
+ _ **Who has access to my personal information?**_   
 Customer data is stored in encrypted format in our Internet Banking database, and is transmitted in that encrypted format within the network. Should you forget your password you will need to call our customer care department toll-free at **1-800-741-1700** so that it may be reset for you.
 
 For specific details regarding BankAtlantic’s policy on the sharing of information, please refer to our [Privacy Policy](https://web.archive.org/documents/category1/file1363.pdf). For more detailed information on our Security Policy, please click here.
 
- ** _What if I need to change the personal information I previously disclosed?_**
+ _ **What if I need to change the personal information I previously disclosed?**_
 
-The BankAtlantic.com site includes a customer preference update section for reviewing or updating your individual account settings, profile information, password, or to set up a customized account notification E-mail service based on balance criteria you select. If you are unable to change this information and you need further assistance, you can E-mail us at [ecustomercare@BankAtlantic.com](mailto:ecustomercare@BankAtlantic.com) (please note that this will be a non encrypted transmission, therefore do not to include any confidential account information), or call toll-free at **1-800-741-1700** .
+The BankAtlantic.com site includes a customer preference update section for reviewing or updating your individual account settings, profile information, password, or to set up a customized account notification E-mail service based on balance criteria you select. If you are unable to change this information and you need further assistance, you can send us a secure message by [clicking here](https://www.bankatlantic.com/secureecustomercareform), or call toll-free at **1-800-741-1700** .
 
  **Back To Menu.**
 
- ** _Who can I contact if I have any questions regarding my privacy?_**
+ _ **Who can I contact if I have any questions regarding my privacy?**_
 
-You can contact BankAtlantic for any questions or suggestions you have via E-mail at
+You can contact BankAtlantic for any questions or suggestions you have
 
-[ecustomercare@BankAtlantic.com](mailto:ecustomercare@bankatlantic.com) (please note that this will be a non encrypted transmission, therefore do not include any confidential account information), our BankAtlantic Bankmail (this will be an encrypted secure transmission within our Internet Banking platform), or by calling us toll-free at **1-800-741-1700** .
+via [secure message](https://www.bankatlantic.com/secureecustomercareform) or by calling us toll-free at **1-800-741-1700** .
 
 BankAtlantic has been certified by members of the Council of VeriSignTM to help promote the principles of disclosure and informed consent on the Internet. For more information regarding privacy you can visit the following sites:
 
-  1.   2.  **The Federal Trade Commission**  
+  1.   2.  **The Federal Trade Commission**   
 ([http://www.ftc.gov](https://web.archive.org/system/gateway/default.aspx?url=http://www.ftc.gov&Name=Federal+Trade+Commission)) offers an overview of privacy protection.
 
 
