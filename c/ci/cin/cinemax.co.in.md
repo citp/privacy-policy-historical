@@ -1,20 +1,11 @@
-> *The following text is extracted and transformed from the cinemax.co.in privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210050632id_/http%3A//cinemax.co.in/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinemax.co.in privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607195158id_/http%3A//www.cinemax.co.in/privacyPolicy.aspx) for the most accurate reproduction.*
 
-# Enjoy, Relax @ CINEMAX
+# Untitled Page
 
-|  |  | 
-
-  Privacy Policy  
-  
----  
-  
 **INTRODUCTION  
-**Your privacy is important to cinemax.co.in. We recognize that when you choose to provide us with information about yourself, you trust us to act in a responsible manner. This information helps us improve your movie going experience with better content, services and opportunities. This policy tells you about the information gathering and dissemination that we conduct. As we continue to grow, this policy may change, so please check back periodically for updates.   
+**Your privacy is important to cinemax.co.in. We recognize that when you choose to provide us with information about yourself, you trust us to act in a responsible manner. This information helps us improve your movie going experience with better content, services and opportunities. This policy tells you about the information gathering and dissemination that we conduct. As we continue to grow, this policy may change, so please check back periodically for updates. 
 
-
-**THE INFORMATION WE COLLECT**
-
-  
+**THE INFORMATION WE COLLECT**   
 We ask our users to register when they use the cinemax.co.in site and services (collectively, the "Service"). Through our online registration process, we collect a variety of information about the user, which may include, among other things, name of the person registering, location, gender, phone number, email address, user name and password. cinemax.co.in may also request and collect other information from time to time. 
 
 We automatically track information related to use of the Service. This information may include, among other things, URL tracking information, what browser the user is using, the user's IP address, pages and ads viewed by a user and selections or other actions taken on the Service. We may track usage through cookies. A cookie is a small data file written to a user's hard drive. Cookies may be used to, among other things, allow automated log-in and may contain information such as a Login ID or other information about preferences or Internet use. Third party advertisers that we work with may also place cookies on browsers of users of our Service. 
@@ -48,7 +39,7 @@ Please note that cinemax.co.in may sell, share or transfer personally identifiab
 
 cinemax.co.in users should also be aware that if they voluntarily disclose personal information in any chat areas or bulletin boards within the cinemax.co.in web site, that information might be collected and disseminated by third-parties, and result in, among other things, unsolicited inquiries, messages, and offers from third parties. This third-party conduct is out of the control of the Company. 
 
-**SECURITY **   
+**SECURITY**   
 cinemax.co.in has implemented security measures to protect against the loss, misuse and alteration of the information under our control. We protect the secure areas of our Site with a firewall. Although cinemax.co.in has implemented adequate security measures, the site has contracted Verisign to provide an extra assurance of security. Although, the site is completely virus-free, the User is advised to employ virus scans for extra security, as cinemax.co.in is not liable for any virus picked up at the time of transmission. 
 
 **CHOICE/OPT-OUT**   
@@ -59,17 +50,4 @@ Please note that cinemax.co.in tries its best to collect data from the most auth
 
 **QUESTIONS**   
 If you have any questions about this privacy statement, you can email us at   
-info@cinemax.co.in  
-  
-  
-| 
-
-| [](https://web.archive.org/web/20061210050632id_/http%3A//cinemax.co.in/movieschedule.aspx)  
----  
-  
-  
-  
-[](https://web.archive.org/web/20061210050632id_/http%3A//cinemax.co.in/PressRoom.aspx)  
-   
-  
-[ ](http://www.cinemax.co.in/Films.aspx?film=HO00000684)
+info@cinemax.co.in
