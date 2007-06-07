@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coolbuzz.org privacy policy that was archived on 2006-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060903080558id_/http%3A//www.coolbuzz.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolbuzz.org privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607182359id_/http%3A//www.coolbuzz.org/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Coolbuzz - Gadgets, Fashion Fads, Décor and much more...
+# Privacy Policy - Coolbuzz - Gadgets, Fashion Fads, Decor and much more...
 
 This privacy statement covers all of the Instablogs sites. Please read this statement carefully before using proceeding to access Instablogs Sites. Your use of Instablogs Sites indicates your agreement to abide by the Terms in effect.
 
