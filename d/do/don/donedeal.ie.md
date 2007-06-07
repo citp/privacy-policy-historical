@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the donedeal.ie privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205204245id_/http%3A//www.donedeal.ie/donedeal/legal/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donedeal.ie privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607140435id_/http%3A//www.donedeal.ie/donedeal/legal/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - DoneDeal.ie
 
@@ -13,7 +13,7 @@ By visiting this website, you are accepting the terms of this Website Privacy Po
 We retain two types of information:
 
 "Personal Data"  
-This is data that identifies you or can be used to identify or contact you and may include your name, email address and telephone number. Such information is only collected from you if you voluntarily submit it to us, and is only kept for as long as it is required for us to provide your with the requested service.
+This is data that identifies you or can be used to identify or contact you and may include your name, email address and telephone number. Such information is only collected from you if you voluntarily submit it to us, and is only kept for as long as it is required for us to provide you with a high quality service.
 
 "Non-Personal Data"  
 Like most websites, we gather statistical and other analytical information collected on an aggregate basis of all visitors to our website. This Non-Personal Data comprises information that cannot be used to identify or contact you, such as demographic information regarding, for example browser types and other anonymous statistical data involving the use of our website.
