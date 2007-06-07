@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allfreelancework.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202857id_/http%3A//www.allfreelancework.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfreelancework.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608014920id_/http%3A//www.allfreelancework.com/privacy.php) for the most accurate reproduction.*
 
 # All Freelance Work : Self-Employed jobs: Contractors : Consultants : Independent Professionals
 
@@ -8,7 +8,7 @@
 
 | 
 
-[**Home**](https://web.archive.org/web/20060615202857id_/http%3A//www.allfreelancework.com/indexx.html) **PRIVACY POLICY**
+[**Home**](https://web.archive.org/web/20070608014920id_/http%3A//www.allfreelancework.com/indexx.html) **PRIVACY POLICY**
 
 This is the web site of **AllFreelance**.  
 
