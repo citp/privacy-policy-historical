@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the citybizlist.com privacy policy that was archived on 2006-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061103052749id_/http%3A//www.citybizlist.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citybizlist.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607221744id_/http%3A//www.citybizlist.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # citybizlist: Privacy Policy
 
-[](http://citybizlist.collectivex.com/signup/token/12f85ca)[](http://citybizlist.collectivex.com/login) [Other Cities ](https://web.archive.org/newcity.aspx) [News/Releases](https://web.archive.org/lstg/lstgindex.aspx?cat=7) [Announcements / Community](https://web.archive.org/lstg/lstgindex.aspx?cat=1) [People/Resumes](https://web.archive.org/lstg/lstgindex.aspx?cat=9) [Real Estate](https://web.archive.org/lstg/lstgindex.aspx?cat=8) [Jobs](https://citybizlist.jobexchangenetwork.com/) [Business Listings](https://web.archive.org/lstg/lstgindex.aspx?cat=3) [Marketplace / Services](https://web.archive.org/lstg/lstgindex.aspx?cat=6) [Download citybizbar](http://www.bizbar.com/install/2184/1350)  
+---  
+[](http://citybiz.smartonline.com/)  
+[Other Cities ](https://web.archive.org/newcity.aspx) [News/Releases](https://web.archive.org/lstg/lstgindex.aspx?cat=7) [Announcements / Community](https://web.archive.org/lstg/lstgindex.aspx?cat=1) [People/Resumes](https://web.archive.org/lstg/lstgindex.aspx?cat=9) [](https://citybizlist.jobexchangenetwork.com/)  
+[Real Estate](https://web.archive.org/lstg/lstgindex.aspx?cat=8) [Business Listings](https://web.archive.org/lstg/lstgindex.aspx?cat=3) [Marketplace / Services](https://web.archive.org/lstg/lstgindex.aspx?cat=6)   
+[](http://citybizlist.collectivex.com/)[ ](http://citybizlist.collectivex.com/)  
 |   
 ---  
 | Privacy Policy |   
@@ -29,9 +33,19 @@ If the law or a good faith belief that disclosure is justifiable or reasonable, 
 citybizlist welcomes feedback to this document – [feedback@citybizlist.com](mailto:feedback@citybizlist.com)
 
 |   
-[](https://web.archive.org/lstg/lstgStart.aspx?prem=1)
+[](https://web.archive.org/emailLink.aspx)  
 
-[](http://clincher.berndtgroup.net/cgi-bin/adcycle/adclick.cgi?gid=106&id=1098)
+[](http://clincher.berndtgroup.net/cgi-bin/adcycle/adclick.cgi?gid=108&layout=multi&id=1595)
+
+[](http://clincher.berndtgroup.net/cgi-bin/adcycle/adclick.cgi?gid=109&layout=multi&id=1236)
+
+[](http://clincher.berndtgroup.net/cgi-bin/adcycle/adclick.cgi?gid=111&layout=multi&id=785)
+
+[](http://clincher.berndtgroup.net/cgi-bin/adcycle/adclick.cgi?gid=112&layout=multi&id=1389)
+
+[](http://clincher.berndtgroup.net/cgi-bin/adcycle/adclick.cgi?gid=110&layout=multi&id=1093)
+
+[](http://clincher.berndtgroup.net/cgi-bin/adcycle/adclick.cgi?gid=106&layout=multi&id=1112)
 
   
 
