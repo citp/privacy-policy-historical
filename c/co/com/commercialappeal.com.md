@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commercialappeal.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205210936id_/http%3A//www.commercialappeal.com/mca/home/article/0%2C1426%2CMCA_435_1660485%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commercialappeal.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608095755id_/http%3A//www.commercialappeal.com/mca/home/article/0%2C1426%2CMCA_435_1660485%2C00.html) for the most accurate reproduction.*
 
 # Memphis Commercial Appeal - Memphis' Source for News and Information
 
