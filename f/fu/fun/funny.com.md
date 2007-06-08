@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funny.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208022049id_/http%3A//www.funny.com/support.privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funny.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608031917id_/http%3A//www.funny.com/support.privacyPolicy.html) for the most accurate reproduction.*
 
 # Funny.com: Funny Jokes, Funny Pictures, Funny Videos
 
