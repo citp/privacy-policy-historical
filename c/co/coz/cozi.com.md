@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cozi.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217133520id_/http%3A//www.cozi.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cozi.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608063646id_/http%3A//cozi.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # Cozi Privacy Policy
 
@@ -28,6 +28,8 @@ Information Cozi Collects And How We Use It
   * Links. Cozi may track whether links to external Web sites are followed. We use this information to improve the quality of our service, customized content, and advertising. 
 
 
+
+Any photographs that you post onto this Web site become published content and are not considered personal information subject to this Privacy Policy.
 
 Children
 
@@ -72,4 +74,4 @@ Attention: Privacy Officer
 
 If you have a privacy concern regarding Cozi or this policy and if you cannot satisfactorily resolve it through the use of this Web site you should then write to [privacy@cozi.com](mailto:privacy@cozi.com). In the event that we are still unable to resolve your concerns Cozi is committed to cooperating to achieve a proper resolution of your privacy concerns.
 
-[Last Updated: 8/9/2006]
+[Last Updated: 3/15/2007]
