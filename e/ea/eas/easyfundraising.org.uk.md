@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the easyfundraising.org.uk privacy policy that was archived on 2006-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061009111144id_/http%3A//www.easyfundraising.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyfundraising.org.uk privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609001658id_/http%3A//www.easyfundraising.org.uk/privacy) for the most accurate reproduction.*
 
-# Privacy | easyfundraising
+# Easy Fundraising Ideas | EasyFundRaising.org.uk | easyfundraising
 
 [Home](https://web.archive.org/home/) > [privacy](https://web.archive.org/privacy/)  
   
@@ -36,19 +36,19 @@ We do not transfer information in this way unless we need to transfer informatio
 ---  
 | 
 
-[**Pru Home Insurance**  
-](https://web.archive.org/new_retailers)[ **Orange**  
-](https://web.archive.org/new_retailers)[ **Sock Shop**  
-](https://web.archive.org/new_retailers)[ **Charles Tyrwhitt**  
-](https://web.archive.org/new_retailers)[ **Toys R Us**  
-](https://web.archive.org/new_retailers)[ **Tesco Direct**  
+[**Accorhotels**  
+](https://web.archive.org/new_retailers)[ **Cloggs**  
+](https://web.archive.org/new_retailers)[ **WEGOLO**  
+](https://web.archive.org/new_retailers)[ **Lowcostbeds**  
+](https://web.archive.org/new_retailers)[ **Furniture123**  
+](https://web.archive.org/new_retailers)[ **Wickes**  
 ](https://web.archive.org/new_retailers)[ more>>](https://web.archive.org/new_retailers)
 
 |   
 | 
 
   
-[](https://web.archive.org/Bounce.php?link=http://www.awin1.com/awclick.php?mid=1257@id=57434@clickref=!UID)  
+[](http://www.easyfundraising.org.uk/offer.php?lid=598)  
 
 
 |   
