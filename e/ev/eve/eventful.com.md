@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eventful.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207033806id_/http%3A//eventful.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventful.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608140323id_/http%3A//eventful.com/privacy) for the most accurate reproduction.*
 
-# Eventful: Privacy Policy
+# Eventful - Privacy Policy
 
 Last revised 17 August 2006
 
@@ -15,7 +15,7 @@ Eventful, Inc., the owner and creator of the Eventful service, respects your rig
 
    Eventful Privacy Policy  
    Eventful, Inc.  
-   9191 Towne Centre Drive, Suite 125  
+   9171 Towne Centre Drive, Suite 180  
    San Diego, CA 92122 USA
 
 
@@ -56,7 +56,7 @@ PLEASE NOTE: This privacy policy applies only to the privacy of users of Eventfu
   * "personally identifiable information" or "Personal Information" means your name, address, telephone number or other information which by its nature can identify you personally. "personally identifiable information" does not mean the information found in the Eventful database which we make available to the general public.
   * "Registration Information" means your name, e-mail address, and password.
   * "Eventful.com" means the www.eventful.com Web site or Eventful, Inc., a Delaware corporation.
-  * "Eventful" is trademark of Eventful, Inc., and is the name of a web service run by Eventful, Inc.
+  * "Eventful" is a registered trademark of Eventful, Inc., and Eventful.com, Eventful Demand, and the Eventful logo are trademarks of Eventful, Inc.
   * "Your Information" means your Registration Information.
 
 
