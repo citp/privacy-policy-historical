@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macgamestore.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212110507id_/http%3A//macgamestore.com/information.php%3FTopic%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macgamestore.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608195835id_/http%3A//www.macgamestore.com/information.php%3FTopic%3DPrivacy) for the most accurate reproduction.*
 
 # Macgamestore: Information - Privacy
 
@@ -32,7 +32,7 @@ hen you sign up for our newsletter, we need only your email address. We will onl
 
 **We May Change These Terms**
 
-Whether or not you have viewed our terms and conditions of use of this website, or this privacy notice, and whether or not you have chosen to not receive notices from us, those terms and notices will still govern your use of MacGameStore.com. We may update or change our terms of use and this privacy notice at any time and from time to time, as we determine is appropriate. It is your responsibility to review them for changes. 
+Whether or not you have viewed our terms and conditions of use of this website, or this privacy notice, and whether or not you have chosen to not receive notices from us, those terms and notices will still govern your use of MacGameStore.com. We may change this policy at any time to correct technical or typographical errors, to increase your rights and protections or to comply with laws. If we change this policy in a way that reduces your rights or protections or adds new types of disclosures, we will provide notification before such changes would apply to information collected from or about you. 
 
 **Use by Children**
 
