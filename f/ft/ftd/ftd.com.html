@@ -1,216 +1,242 @@
-<!--The following is the downloaded HTML source of the ftd.com privacy policy that was archived on 2005-04-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050402010236id_/http%3A//www.ftd.com/350/custserv/security.epl) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ftd.com privacy policy that was archived on 2007-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070608085241id_/http%3A//www.ftd.com/350/custserv/security.epl%3Fhomepage_link%3DFOOT) for the most accurate reproduction.-->
 
-<html><head>
-	<script language="Javascript">
-		function getCookie (name) {
-			var dcookie = document.cookie;
-			var cname = name + "=";
-			var clen = dcookie.length;
-			var cbegin = 0;
-			while (cbegin < clen) {
-				var vbegin = cbegin + cname.length;
-				if (dcookie.substring(cbegin, vbegin) == cname) {
-					var vend = dcookie.indexOf (";", vbegin);
-					if (vend == -1) vend = clen;
-					return unescape(dcookie.substring(vbegin, vend));
-				 }
-				 cbegin = dcookie.indexOf(" ", cbegin) + 1;
-				 if (cbegin == 0) break;
-			}
-			return '';
-		}
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+<script language="javascript">
+		var cookie_domain = ".ftd.com";
+		var imageurl = "http://a248.e.akamai.net/f/80/71/6h/www.ftd.com";
+		var markcode = "350";
 	</script>
+	<script language="javascript" src="/utils.js" type="text/javascript"></script>
 	<meta http-equiv="Set-Cookie" content="cont_shop_string=0; path=/; domain=.ftd.com">
-  		<script language="javascript">
-	function getBrowserType () {
-		var agt = navigator.userAgent.toLowerCase();
-	   	var token = "DEFAULT";
-
-	   	if ((agt.indexOf("msie 5") != -1) && (agt.indexOf("mac") != -1)) {
-	       token = "MACIE5";
-       	} else if ((agt.indexOf("msie 4") != -1) && (agt.indexOf("mac") != -1)) {
-	       token = "MACIE4";
-	   	} else if ((agt.indexOf("mozilla") != -1) && (agt.indexOf("mac") != -1) && (agt.indexOf("msie") == -1)) {
-		   token = "MACNS";
-	   	} else if ((agt.indexOf("gecko") != -1) && (agt.indexOf("mac") == -1)) {
-	       token = "GECKO";
-	   	} else if ((agt.indexOf("mozilla/4") != -1) && (agt.indexOf("mac") == -1) && (agt.indexOf("msie") == -1)) {
-		   token = "NS4";
-	   	} else if ((agt.indexOf("mozilla") == -1) && (agt.indexOf("gecko") == -1) && (agt.indexOf("mac") != -1)) {
-           token = "MACDEFAULT";
-	   	}
-	   	return token;
-	}
-    var browser_info = getBrowserType();
+  	<script type="text/javascript">
+			var _traffic_dist = '{}';
+			if (markcode == '350' || markcode == '514' || markcode == '522' || markcode == '528' || markcode == '552' || markcode == '558') {
+				var _sticky_markcodes = '{}';
+				stickyMarkcodeRedirect(_sticky_markcodes, _traffic_dist, 'http://www.ftd.com');
+			} else {
+				trafficDistribution(_traffic_dist, 'http://www.ftd.com', 'homepage_link=FOOT');
+			}
+		</script>
+	<script language="javascript">
 	</script>
 
-    <title>FTD.COM - Security &amp; Privacy</title>
-    <script>
-		document.write("<link rel=stylesheet type='text/css' href='/350/ftd.css?b=" + browser_info + "'>");
-	</script><link rel="stylesheet" type="text/css" href="/350/ftd.css?b=GECKO">
+<!-- start popup -->
+<script language="javascript">
+	var showPopup = true;
+	var Yaxis = 0;
+	var blurred = false;
+	var scart_unloadPopup_override = false;
 
-    <script language="JavaScript">
+	var isIE = (navigator.appName.indexOf("Microsoft") != -1);
+	var isNav = (navigator.appName.indexOf("Netscape") != -1);
+	var isFirefox = (navigator.userAgent.indexOf("Firefox") != -1);
+
+	function unloadPopup(ev) {
+
+            // If we are coming from the empty shopcart page. Thus, if our cart is empty. 
+			// Then don't show any popups.
+		    if(scart_unloadPopup_override){
+			    return 0;
+			}
+
+			range = screen.height - document.body.offsetHeight;
+			if (isIE) {
+				ev = window.event;
+			}
+			if (range < 160) {
+				upperY = -12;
+			}
+			if (range >= 160) {
+				upperY = -35;
+			}
+			if (range >= 170) {
+				upperY = -40;
+			}
+			if (Yaxis == 0) {
+				Yaxis = ev.clientY;
+			}
+			//alert("Yaxis -> " + Yaxis + " keyCode -> " + ev.keyCode + " upperY -> " + upperY + " blurred -> " + blurred);
+			if ((Yaxis > 0) || (Yaxis < upperY) || (ev.keyCode == 116) || (ev.keyCode == 17)) {
+				showPopup = false;
+			}
+			if (Yaxis <= -9600) {
+				showPopup = true;
+			}
+			if (blurred && (Yaxis < 0)) {
+				showPopup = true;
+			}
+			if (isNav && !isFirefox) {
+				showPopup = false;
+			}
+			
+			if (showPopup && (ev.keyCode != 32) && (ev.keyCode != 18)) {
+				}
+
+			// GLOBAL ABANDON POPUP : 2005-12-20
+			if (!isFirefox && showPopup && (ev.keyCode != 32) && (ev.keyCode != 18)) {
+				if (showPopup) {
+					}
+			}
+		}
+	function popup(program_id, program, popup_id, width, height) {
+				window.open('https://ordering.ftd.com/350/popups/index.epl?markcode=350&from=&prog_id=' + program_id + '&popup_id=' + popup_id, program, 'scrollbars=no,width=' + width + ',height=' + height);
+			}
+		if (isIE && !isFirefox) {
+        function grabY(ev) {
+            if (isIE) {
+                ev = window.event;
+            }
+            Yaxis = ev.clientY;
+        }
+        function blurme(ev) {
+            if (isIE) {
+                ev = window.event;
+            }
+            Yaxis = ev.clientY;
+            blurred = true;
+        }
+
+        window.onclick = grabY;
+                window.onunload = unloadPopup;
+                window.onkeydown = unloadPopup;
+                window.onblur = blurme;
+                document.onclick = grabY;
+                document.onunload = unloadPopup;
+        }
+
+
+</script>
+
+<!-- end popup -->
+
+<script language="javascript">
+    var browser_info = getBrowserType();
+	var browser_info_new = getBrowserTypeNew();
+
+	if (browser_info_new == "Netscape_6" || browser_info_new == "Netscape_4_8" || browser_info_new == "Netscape_4_7" || browser_info_new == "Netscape_4_5" || browser_info_new == "Netscape_3" || browser_info_new == "IE4" || browser_info_new == "IE3") {
+		location.href = "http://www.ftd.com/350/custserv/browser.epl?browser=1&homepage_link=FOOT";	
+	}
+	</script>
+
+    <title>Security &amp; Privacy</title>
+    <link rel="stylesheet" type="text/css" href="/350/ftd.css?markcode=350">
+
+  	<script language="JavaScript">
 	arrow_on = new Image();
-	arrow_on.src = "http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/images/arrow.gif";
+	arrow_on.src = "http://a248.e.akamai.net/f/80/71/6h/www.ftd.com/images/arrow.gif";
 	arrow_off = new Image();
-	arrow_off.src = "http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/images/cleardot.gif";
-
-	function showArrow(imgName) {
-		eval('document.'+imgName+'.src = arrow_on.src');
-	}
-	function hideArrow(imgName) {
-		eval('document.'+imgName+'.src = arrow_off.src');
-	}
+	arrow_off.src = "http://a248.e.akamai.net/f/80/71/6h/www.ftd.com/images/cleardot.gif";
 	</script>
 
     </head>
-<body bgcolor="#FFFFFF" link="#666666" alink="#666666" vlink="#666666" topmargin="0">
 
-<table width="95%" border="0" cellpadding="0" cellspacing="3" align="center">
-		<tbody><tr><td align="center"><img src="http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/pics/cutoff_img_home.gif"></td></tr>
+
+
+
+<body>
+<table width="95%" border="0" cellpadding="0" cellspacing="0" align="center"><tbody><tr><td align="center"><img src="http://a248.e.akamai.net/f/80/71/6h/www.ftd.com/pics/cutoff_img_home.gif"></td></tr></tbody></table>
+<table width="756" cellpadding="0" cellspacing="0" border="0" align="center"> 
+<!-- Header ------------------------------------------------------------------------------>
+	<tbody><tr><td>
+	
+	<table width="756" cellpadding="0" cellspacing="0" border="0" align="center" class="content">
+	<tbody><tr height="70">
+		
+	<td width="185" align="center" valign="middle">
+	
+	<a href="http://www.ftd.com/350/?int=1"><img src="http://a248.e.akamai.net/f/80/71/6h/www.ftd.com/pics/mday2006/logo_ftd.gif" width="185" height="70" alt="" border="0"></a>
+
+	</td>
+<td width="3"><img src="http://a248.e.akamai.net/f/80/71/6h/www.ftd.com/images/cleardot.gif" width="3" height="1"></td>
+		
+	
+	<td width="370" align="center" nowrap=""><img src="http://a248.e.akamai.net/f/80/71/6h/www.ftd.com/images/cleardot.gif" width="370" height="60" alt="" border="0"></td>	
+<td align="right" width="128"><div class="header_links"><a href="http://www.ftd.com/350/custserv/">Customer Service</a>&nbsp;<br> 
+ 
+ 
+ <a href="https://ordering.ftd.com/350/myaccount/myaccount_signin.epl?AID=myaccount_enter">My Account</a>&nbsp;<br>
+ <script language="JavaScript">
+ 	login = getCookie("login");
+ 	if (login == "yes") { document.write('<a href="https://ordering.ftd.com/350/myaccount/myaccount_signout.epl">Sign Out</a>&nbsp;<br>'); }
+ </script>
+ 
+ <a href="https://ordering.ftd.com/350/scart/">Shopping Cart</a>&nbsp;<br></div></td>
+		
+	<td width="5"><img src="http://a248.e.akamai.net/f/80/71/6h/www.ftd.com/images/cleardot.gif" width="5" height="1" alt="" border="0"></td>
+	<td width="65"><!-- START SCANALERT CODE -->
+	<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.ftd.com"><img width="65" height="37" border="0" src="//images.scanalert.com/meter/www.ftd.com/31.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a>
+	<!-- END SCANALERT CODE -->
+	</td>
+</tr>
 	</tbody></table>
-	<!-- Top Bar -------------------------------------------------------------->
-	<table width="756" cellpadding="0" cellspacing="0" border="0" align="center"> 
-	<tbody><tr>
-		
-	<td width="149" align="center" valign="middle" colspan="2">
-	<script language="javascript">
-					var page_id = getCookie('page_id');
-					var current_page_id = 1;
-					if ( page_id == 2 || current_page_id == 2) {
-						document.write("<a href=\"http://www.ftd.com/350/?int=1&page_id=2\"><img src=\"http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/images/logo_ftd2.gif\" width=147 height=52 alt=\"\" border=0></a>");
-					}else{
-						document.write("<a href=\"http://www.ftd.com/350/?int=1\"><img src=\"http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/images/logo_ftd2.gif\" width=147 height=52 alt=\"\" border=0></a>");
-					}
-				</script><a href="http://www.ftd.com/350/?int=1"><img src="http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/images/logo_ftd2.gif" width="147" height="52" alt="" border="0"></a>
-		</td>
-<td width="3"><img src="http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/images/cleardot.gif" width="3" height="1"></td>
-		
-	<td width="476" align="center"><img src="http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/images/ftd_graphic1.gif?time=1112403900" alt="FTD.COM - Flowers and Gifts for Every Occasion" border="0" width="200" height="60"><img src="http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/images/ftd_graphic2.gif?time=1112403900" alt="FTD.COM - Flowers and Gifts for Every Occasion" border="0" width="200" height="60"></td>
-				<td align="right" width="128">
-        <table cellpadding="0" cellspacing="0" border="0" width="128">
-          	<tbody><tr>
-            	<td width="112" valign="middle" align="right" class="service"><a href="http://www.ftd.com/350/custserv/">Customer Service</a>
-				</td>
-				<td width="2"><img src="http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/images/cleardot.gif" width="2" height="1"></td>
-            	<td width="14" valign="middle">
-              		<a href="/350/custserv/"><img src="http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/images/icon_custserv.gif" width="14" height="14" alt="" border="0"></a>
-            	</td>
-          	</tr>
-        	<tr>
-            	<td width="112" valign="middle" align="right" class="service"><a href="https://ordering.ftd.com/350/scart/">Shopping Cart</a> </td>
-				<td width="2"><img src="http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/images/cleardot.gif" width="2" height="1"></td>
-            	<td width="14" valign="middle">
-              		<a href="https://ordering.ftd.com/350/scart/"><img src="http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/images/icon_shopcart.gif" width="14" height="14" alt="" border="0"></a>
-            	</td>
-          	</tr>
-        	<tr>
-            	<td width="112" valign="middle" align="right" class="service"><a href="https://ordering.ftd.com/350/myaccount/myaccount_signin.epl?AID=myaccount_enter">My Account</a> </td>
-				<td width="2"><img src="http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/images/cleardot.gif" width="2" height="1"></td>
-            	<td width="14" valign="middle">
-              		<a href="https://ordering.ftd.com/350/myaccount/myaccount_signin.epl?AID=myaccount_enter"><img src="http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/images/icon_myaccount.gif" width="14" height="14" alt="" border="0"></a>
-            	</td>
-          	</tr>
-          	<script language="JavaScript">
-            	login = getCookie('login');
-                if (login == "yes") {
-                	document.write("<tr><td width=\"112\" valign=\"middle\" align=\"right\" class=\"service\"><a href=\"https://ordering.ftd.com/350/myaccount/myaccount_signout.epl\">Sign Out</a>\n</td><td width=\"2\"><img src=\"http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/images/cleardot.gif\" width=\"2\" height=\"1\"></td><td width=\"14\"><a href=\"https://ordering.ftd.com/350/myaccount/myaccount_signout.epl\"><img src=\"http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/images/icon_signout.gif\" width=\"14\" height=\"14\" alt=\"\" border=\"0\"></a></td></tr> ");
-                }
-            </script>
-        	</tbody></table>
-		</td>
-    </tr>
-	<tr><td width="756" colspan="5"><img src="http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/images/cleardot.gif" height="3" width="756"></td></tr>
 
-	<!-- NAVBAR ---------------------------------------------------------------------->
-    <tr>
-		<form method="get" action="http://www.ftd.com/350/catalog/product_search.epl" class="product_signinform"></form>
-		<input type="hidden" name="expresslane" value="Yes">
-		<input type="hidden" name="AID" value="search">
-		<input type="hidden" name="flc" value="FTD">
-		<input type="hidden" name="website_id" value="350">
-		<td width="121" class="nav" rowspan="3">
-			&nbsp;&nbsp;<b>Search</b>
-			<input name="search_box" class="search" size="8" value="">
-		</td>
-		<td width="28" class="nav" rowspan="3" valign="bottom">
-			<input type="image" border="0" src="http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/pics/button_go3.gif" name="Go" width="28" height="28" hspace="0" vspace="0" value="">
-		</td>
-		
-		<td width="3" rowspan="4"><img src="http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/images/cleardot.gif" width="3" height="1"></td>
-		<td width="604" colspan="2">
-	   
+	</td></tr>
+	<!-- End Header -------------------------------------------------------------------------->
+	
+	<!-- Top Navigation ---------------------------------------------------------------------->
+	<tr><td>
+
+	<table width="756" cellpadding="0" cellspacing="0" border="0" align="center" class="content">
+	<tbody><tr>
+		<td width="520" height="22" valign="top">
 	<map name="tabmap">
-<area shape="rect" coords="16,6,63,19" href="http://www.ftd.com/350/catalog/category.epl?index_id=product_flowers&amp;tabmapid=1" alt="Flowers">
-<area shape="rect" coords="94,6,132,19" href="http://www.ftd.com/350/catalog/category.epl?index_id=product_plants&amp;tabmapid=2" alt="Plants">
-<area shape="rect" coords="162,6,198,19" href="http://www.ftd.com/350/catalog/category.epl?index_id=product_roses&amp;tabmapid=3" alt="Roses">
-<area shape="rect" coords="227,6,314,19" href="http://www.ftd.com/350/catalog/category.epl?index_id=product_gourmetfoodgifts&amp;tabmapid=4" alt="Gourmet / Food Gifts">
-<area shape="rect" coords="352,6,442,19" href="http://www.ftd.com/350/catalog/category.epl?index_id=occasion_mothersday&amp;tabmapid=5" alt="Mother's Day">
-<area shape="rect" coords="485,6,586,19" href="http://www.ftd.com/350/catalog/category.epl?index_id=product_samedaydelivery&amp;tabmapid=6" alt="Deliver It Today">
+<area shape="rect" coords="0,0,82,22" href="http://www.ftd.com/350/catalog/category.epl?index_id=occasion_birthday&amp;tabmapid=1" alt="Birthday">
+<area shape="rect" coords="82,0,178,22" href="http://www.ftd.com/350/catalog/category.epl?index_id=occasion_anniversary&amp;tabmapid=2" alt="Anniversary">
+<area shape="rect" coords="178,0,256,22" href="http://www.ftd.com/350/catalog/category.epl?index_id=occasion_getwell&amp;tabmapid=3" alt="Get Well">
+<area shape="rect" coords="256,0,341,22" href="http://www.ftd.com/350/catalog/category.epl?index_id=occasion_sympathy&amp;tabmapid=4" alt="Sympathy &amp; Funeral">
+<area shape="rect" coords="341,0,427,22" href="http://www.ftd.com/350/catalog/category.epl?index_id=occasion_newbaby&amp;tabmapid=5" alt="New Baby">
+<area shape="rect" coords="427,0,517,22" href="http://www.ftd.com/350/catalog/category.epl?index_id=product_samedaydelivery&amp;tabmapid=6" alt="Same Day Delivery">
 </map>
-	<img src="http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/pics/tabs-ftd.gif" usemap="#tabmap" width="604" height="22" border="0" class="nospace">
+	<img src="http://a248.e.akamai.net/f/80/71/6h/www.ftd.com/pics/mday2006/tabs-ftd.gif" usemap="#tabmap" width="517" height="22" border="0" class="nospace">
 </td>
-		
-		<td width="3" rowspan="4"><img src="http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/images/cleardot.gif" width="3" height="1"></td>
+		<td width="236" rowspan="2" class="topnav_productsearch_bgcolor" valign="top">
+			<form method="get" action="http://www.ftd.com/350/catalog/product_search.epl" class="product_signinform" style="margin-bottom: 0pt;" name="product_search">
+			<table width="231" cellpadding="2" cellspacing="0" border="0" align="center" class="topnav_productsearch">
+			<tbody><tr><td width="5"></td><td colspan="2"><span class="topnav_productsearch">Product Search</span>&nbsp;&nbsp;&nbsp;<a href="/350/catalog/search.epl" class="topnav_advancedsearch">Advanced Search</a></td></tr>
+			<tr>
+			<td width="5"></td>
+			<td width="170">
+				<input type="hidden" name="expresslane" value="Yes">
+				<input type="hidden" name="AID" value="search">
+				<input type="hidden" name="flc" value="FTD">
+				<input type="hidden" name="website_id" value="350">
+				<input type="hidden" name="SLI_searchintegration" value="1">
+				<input name="search_box" style="width: 170px;" value="keyword or item #" title="keyword or item #" onclick="if(this.value == this.title){this.value=&quot;&quot;;}">
+				</td>
+			<td align="left">
+				<input type="image" src="http://a248.e.akamai.net/f/80/71/6h/www.ftd.com/pics/mday2006/button_go.gif" name="Go" width="26" height="22" hspace="0" vspace="0" border="0" style="margin: 0px; display: block;" value="">
+			</td></tr>
+			</tbody></table>
+			</form>	
+		</td>
 	</tr>
-	<tr><td width="604" colspan="2"><img src="http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/images/cleardot.gif" width="1" height="1"></td></tr>
 	<tr>
-		<td width="604" align="center" class="nav" colspan="2">
-		
-	<a href="https://ordering.ftd.com/350/myaccount/myaccount_signin.epl?AID=myaccount_enter&amp;reminder_service=1" class="nav">Reminder Service</a> <span class="fixed_text">|</span>
-			<a href="http://www.ftd.com/350/custserv/guarantee.epl" class="nav">Our Guarantee</a>
-			<span class="fixed_text">|</span> <a href="http://www.ftd.com/350/catalog/shopping.epl" class="nav">Browse Our Store</a><script language="javascript">
-				var page_id = getCookie('page_id');
-				if (page_id == 2) {
-					document.write(" <span class=\"fixed_text\">|</span> <a href=\"http://www.ftd.com/350/?int=1&page_id=2\" class=\"nav\">Home</a> ");
-				} else {
-					document.write(" <span class=\"fixed_text\">|</span> <a href=\"http://www.ftd.com/350/?int=1\" class=\"nav\">Home</a> ");
-				}
-			</script> <span class="fixed_text">|</span> <a href="http://www.ftd.com/350/?int=1" class="nav">Home</a> 
+		<td width="520" valign="middle" class="topnav_signup_bgcolor">
+			<table cellpadding="0" cellspacing="2" border="0" align="left" class="topnav_signup"><tbody><tr>
+					<td width="13"></td>
+					<td valign="bottom">
+						<span class="breadcrumb">
+	<div class="breadcrumb">
+		<a href="http://www.ftd.com/350/?int=1">Home</a> &gt;
+		<a href="/350/custserv/">Customer Service</a> &gt; <b>Security &amp; Privacy</b>	</div>
+	</span>
+					</td>
+				</tr></tbody></table>
 			</td>
 	</tr>
-
-	<tr>
-		<td width="149" colspan="2" class="nav"><img src="http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/images/cleardot.gif" width="1" height="3"></td>
-		<td width="604" colspan="2" class="nav"><img src="http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/images/cleardot.gif" width="1" height="3"></td>
-	</tr>
 	</tbody></table>
-		<!-- END NAV BAR ------------------------------------------>
-	<!-- End Top Bar -------------------------------------------------------------->
-  	
-	<table width="756" cellspacing="0" cellpadding="0" border="0" align="center"><tbody><tr><td width="756"><img src="http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/images/cleardot.gif" width="1" height="5" alt="" class="nospace"></td></tr></tbody></table>
-  
-  	<!-- MAIN BODY ---------------------------------------------------------->
-  	<table width="756" cellpadding="0" cellspacing="0" border="0" align="center">
-   	<tbody><tr>
-    	<!-- RIGHT SIDE CONTENT -------------------------------------------------------->
-    	<td width="756" valign="top">
-		<center>
-		    	<table cellspacing="0" cellpadding="0" border="0">
-			    <tbody><tr>
-		      		<td width="756" height="1" valign="top" bgcolor="#FFCC00" colspan="3"><img src="http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/images/cleardot.gif" width="756" height="1"></td>
-	    		</tr>
-	    		<tr>
-	      			<td width="1" bgcolor="#FFCC00"><img src="http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/images/cleardot.gif" width="1" height="1"></td>
-					<td width="754">
-						<table width="754" cellpadding="0" cellspacing="1" border="0">
-							<tbody><tr>
-							<td width="3"><img src="http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/images/cleardot.gif" width="3"></td>
-							<td>
-	  		<img src="http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/images/cleardot.gif" width="5" height="1" align="left" border="0" alt="">
-	<div class="breadcrumb">
-		<script language="javascript">
-			var page_id = getCookie('page_id');
-			var current_page_id = 1;
-			if (page_id == 2 || current_page_id == 2) {
-				document.write("<img src=\"http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/pics/black_circle.gif\" width=12 height=9 border=0 alt=\"You are here\" align=bottom>&nbsp;<a href=\"http://www.ftd.com/350/?int=1&page_id=2\">Home</a>:  ");
-			} else {
-				document.write("<img src=\"http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/pics/black_circle.gif\" width=12 height=9 border=0 alt=\"You are here\" align=bottom>&nbsp;<a href=\"http://www.ftd.com/350/?int=1\">Home</a>:  ");
-			}
-		</script><img src="http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/pics/black_circle.gif" width="12" height="9" border="0" alt="You are here" align="bottom">&nbsp;<a href="http://www.ftd.com/350/?int=1">Home</a>:  
-		<a href="/350/custserv/" class="parent"><b>Customer Service</b></a> &gt; Security &amp; Privacy	</div>
-	<table width="100%" cellpadding="0" cellspacing="0" border="0">
+
+	</td></tr>
+	<!-- End Top Navigation ------------------------------------------------------------------>
+	<tr><td class="content" height="5"></td></tr>
+<tr><td class="content">
+
+	<table width="756" cellpadding="0" cellspacing="0" border="0" align="left" class="content">
+	<tbody><tr>
+	<!-- Page Content ------------------------------------------------------------------------>
+	<td width="756" class="content" valign="top">
+		<table width="100%" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr><td>
 <a name="top"></a>
   <table width="100%" cellpadding="0" cellspacing="0" border="0">
@@ -219,10 +245,10 @@
 		</td><td width="150" valign="top">
 			
 			<table width="150" cellpadding="0" cellspacing="0" border="0">
-				<tbody><tr><td colspan="3" width="150" class="sidenav_outline"><img src="http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/images/cleardot.gif" width="1" height="1" alt=""></td></tr>
+				<tbody><tr><td colspan="3" width="150" class="custserv_security_outline"><img src="http://a248.e.akamai.net/f/80/71/6h/www.ftd.com/images/cleardot.gif" width="1" height="1" alt=""></td></tr>
 				<tr>
-					<td width="1" class="sidenav_outline"><img src="http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/images/cleardot.gif" width="1" height="1" alt=""></td>
-					<td width="148" class="sidenav_background">
+					<td width="1" class="custserv_security_outline"><img src="http://a248.e.akamai.net/f/80/71/6h/www.ftd.com/images/cleardot.gif" width="1" height="1" alt=""></td>
+					<td width="148" class="custserv_security_bgcolor">
 		<table width="148" cellpadding="0" cellspacing="0" border="0">
 				<tbody><tr>
 					<td width="2">&nbsp;</td>
@@ -232,7 +258,7 @@
 						<span class="subindex">
 						<a href="#Collection">Collection and Use of Information</a><br>
 						<a href="#Security">Security</a><br>
-						<a href="#Third">No Sale, Trade or Rental of Personal Information</a><br>
+						<a href="#Third">Sale, Trade or Rental of Personal Information</a><br>
 						<a href="#Links">Links to Other Web Sites</a><br><a href="#Child">Child Protection</a><br>
 						<a href="#Opt">Opt Out / Modify</a><br>
 						<a href="#Consent">Your Consent</a><br><br>
@@ -244,66 +270,77 @@
 				</tbody></table>
 			
 					</td>
-					<td width="1" class="sidenav_outline"><img src="http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/images/cleardot.gif" width="1" height="1" alt=""></td>
+					<td width="1" class="custserv_security_outline"><img src="http://a248.e.akamai.net/f/80/71/6h/www.ftd.com/images/cleardot.gif" width="1" height="1" alt=""></td>
 				</tr>
-				<tr><td colspan="3" width="150" class="sidenav_outline"><img src="http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/images/cleardot.gif" width="1" height="1" alt=""></td></tr>
+				<tr><td colspan="3" width="150" class="custserv_security_outline"><img src="http://a248.e.akamai.net/f/80/71/6h/www.ftd.com/images/cleardot.gif" width="1" height="1" alt=""></td></tr>
 			</tbody></table>
 		</td>
 		
 	<td valign="top">
 	<table cellspacing="0" cellpadding="0" border="0">
 	<tbody><tr><td colspan="2">&nbsp;<br></td></tr>
-        <tr><td class="sidenav_outline" colspan="2" height="1"><img src="http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/pics/cleardot.gif" height="1" width="570"></td></tr>
+        <tr><td class="custserv_security_outline" colspan="2" height="1"><img src="http://a248.e.akamai.net/f/80/71/6h/www.ftd.com/pics/cleardot.gif" height="1" width="570"></td></tr>
     <tr>
-	<td width="5"><img src="http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/pics/cleardot.gif" height="1" width="5"></td>
+	<td width="5"><img src="http://a248.e.akamai.net/f/80/71/6h/www.ftd.com/pics/cleardot.gif" height="1" width="5"></td>
 	<td>
-		<br><p>Effective January 24, 2005</p><p>
-      	<span class="smallheader">Your Security &amp; Privacy Are Important to Us</span><br><br>
-      	<!--- <img src="http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/pics/icon_shop_sec_white.gif" alt="" width="80" height="86" border="0" align="left"> --->
-			FTD.COM ("FTD," "we" or "us") is committed to protecting our customers' privacy. We feel it is important that you fully understand the terms and conditions under which we use the information we gather from you through the use of each of our Web sites located at, or linked to, the URLs: www.FTD.COM, www.GiftSense.com, www.FlowersUSA.com, www.Florist.com, www.ButterfieldBlooms.com, and any other sites that we control (collectively, our "Sites").  Please read this Privacy Policy ("Policy") carefully to understand how we will use and protect your personal information. We will never share your personal information with anyone except as described in this Policy.
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td align="left">
+					Revised January 9, 2007
+				</td>
+				<td align="right">
+					
+					<a href="http://www.truste.org/ivalidate.php?url=www.ftd.com&amp;sealid=101" target="_blank"><img border="0" src="http://a248.e.akamai.net/f/80/71/6h/www.ftd.com/pics/clickseal.gif"></a>	</td>				
+			</tr>
+		</tbody></table>
+
+		<span class="smallheader">Your Security &amp; Privacy Are Important to Us</span>
+		<br><br>
+      	<!--- <img src="http://a248.e.akamai.net/f/80/71/6h/www.ftd.com/pics/icon_shop_sec_white.gif" alt="" width="80" height="86" border="0" align="left"> --->
+			FTD.COM ("FTD," "we" or "us") is committed to protecting our customers' privacy. We feel it is important that you fully understand the terms and conditions under which we use the information we gather from you through the use of our Web site located at, or linked to, the URL: www.FTD.COM.  Please read this Privacy Policy ("Policy") carefully to understand how we will use and protect your personal information. We will never share your personal information with anyone except as described in this Policy.
      	<br><br><br>
       	<a name="Collection"></a><span class="smallheader">Collection and Use of Information</span><br><br>
-	  	In general, you can visit our Sites without telling us who you are or revealing any personal information about yourself. In order to better provide you with numerous products and services, each of our Sites collects two types of information about its visitors: Personally Identifiable Information and Non-Personally Identifiable Information.	
+	  	In general, you can visit our Site without telling us who you are or revealing any personal information about yourself. In order to better provide you with numerous products and services, our Site collects two types of information about its visitors: Personally Identifiable Information and Non-Personally Identifiable Information.	
 	  	<br><br>
-		<strong>1. Non-Personally Identifiable Information</strong><br>
-		When you visit any of our Sites, we may collect some basic Non-Personally Identifiable Information about you. This information may include information regarding your operating system, browser software, and IP (Internet Protocol) address. Non-Personally Identifiable Information is collected in order to provide you with satisfactory service. We may use the information to detect problems with our server and to administer our Sites. In addition, Non-Personally Identifiable Information is compiled by us and analyzed on an aggregate basis.
+		<strong class="security">1. Non-Personally Identifiable Information</strong><br>
+		When you visit our Site, we may collect some basic Non-Personally Identifiable Information about you. This information may include information regarding your operating system, browser software, and IP (Internet Protocol) address. Non-Personally Identifiable Information is collected in order to provide you with satisfactory service. We may use the information to detect problems with our server and to administer our Site. In addition, Non-Personally Identifiable Information is compiled by us and analyzed on an aggregate basis.
 		<br><br>
-		<strong>2. Personally Identifiable Information</strong><br>
+		<strong class="security">2. Personally Identifiable Information</strong><br>
 		When you place an order or enter a sweepstakes or promotion, we request that you send us Personally Identifiable Information.  This information lets us know the specifics of who you are and can be used to identify, contact or locate you. Personally Identifiable Information may consist of: your name, address, telephone number, email address, birth date, billing information (credit card number, expiration date and billing address), occasion type (Valentine's Day, etc.), products purchased, any relevant promotion code and information (for example, reward program account information) and the gift and message recipient's name, address, telephone number, email address and any other information you may provide us ("Personally Identifiable Information" ). We use Personally Identifiable Information for internal purposes, such as confirming and tracking your order, subscription or registration, analyzing trends and statistics, informing you of our new products, services and offers. Personally Identifiable Information is compiled by us and analyzed on both a personal and an aggregated basis.
-		</p><p>To serve you better, we may combine Personally Identifiable Information you give us online or through our catalogs. We may also combine that information with publicly available information about you that we may receive from third parties.  We use that combined information to enhance and personalize your shopping experience with us, to communicate with you about our products and for other promotional purposes.</p>
+		<p>To serve you better, we may combine Personally Identifiable Information you give us online or through our catalogs. We may also combine that information with publicly available information about you that we may receive from third parties.  We use that combined information to enhance and personalize your shopping experience with us, to communicate with you about our products and for other promotional purposes.</p>
 		<p>We may contract with third-party companies or persons to provide certain services including credit card processing, distribution, data management, promotional services, etc. ("Service Providers"). We provide our Service Providers with the information needed for them to perform these services. We also ask our Service Providers to confirm that their privacy practices are consistent with ours.</p>
-		<strong>3. Placing an Order</strong><br>
+		<strong class="security">3. Placing an Order</strong><br>
 		When you place an order, we require you to provide us with Personal Information. We use this information to give you a customized experience and to process the orders that you place with us.
 		<p>For your shopping convenience, when you place an order, we automatically establish your own Personal Account where information used in placing such order (including billing address, email address, telephone number(s) and rewards program information) is saved. Your Personal Account is password protected from third parties. You may access your Personal Account by requesting your password from us (go to My Account) and then signing in with that password. Afterward, you may change your password, edit your Personal Information or request a password reminder at any time. Our database stores your billing and delivery information, and will automatically transfer it to the order form each time you place an order so that you do not have to re-enter this information when you sign in at subsequent visits.</p>
 			<p>The recipient phone number, which you furnish to us when you place an order, is used for delivery purposes. On some occasions, the recipient may be called to schedule delivery. To maintain our high quality standards, we will occasionally contact recipients to ensure satisfaction with their gift.</p>
 		<a href="#top">back to top</a>
 <br><br>
-		<strong>4. Use of Cookies/Clear GIFs</strong><br>
-		<b><i>Cookies</i></b>: Like many other commercial sites, our Sites utilize standard technologies called "cookies" and clear GIFs to collect information about how each of our Sites is used.  A cookie is a small data text file, which a Web site stores on your computer's hard drive (if your Web browser permits) that can later be retrieved to identify you to us. Cookies were designed to help a Web site recognize a user's browser as a previous visitor and thus save and remember any preferences that may have been set while the user was browsing the site. A cookie cannot be read by a Web site other than the one that set the cookie. Cookies can securely store a customer's password, personalize home pages, identify which parts of a site have been visited or keep track of selections, such as those selected in a "shopping cart." For instance, cookies allow us to pre-populate (or fill in) an email field with your email address if you revisit one of our Sites and place an order. When you place an order, we send a cookie to your hard drive to record the product name, category of product that you ordered, the amount paid, the order number and any referral codes. No Personally Identifiable Information is recorded. When you click through to any one of our Sites from a promotional email, our Service Provider may send a cookie to your hard drive recording your IP address and other related information.<br><br>
-		<b><i>Clear GIFs</i></b>: Some of our Service Providers may employ clear GIFs (also known as pixel tags, single pixel GIFs, web beacons or action tags) for our benefit to help us measure advertising effectiveness. Clear GIFs help us better manage content on our Sites by informing us of what content is effective. Clear GIFs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of our users. The main difference between the two is that clear GIFs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. Clear GIFs are not tied to your Personally Identifiable Information.
-		Our Service Providers may use clear GIFs: (i) in HTML based emails to determine which emails have been opened by recipients; (ii) to record when products have been ordered from our Sites; and (iii) to track the visitor traffic on our Sites. These clear GIFs allow us to measure the usage of each of our Sites by our visitors and the effectiveness of certain communications and marketing campaigns. We may also use clear GIFs in a similar manner in our own emails and on our Sites.  Clear GIFs can "work with" existing cookies on a computer if they are both from the same Web site or advertising company. That means, for example, that if a person visited "www.companyX.com", which uses an advertising company's clear GIF, the Web site would match the clear GIFs identifier and the advertising company's cookie ID number, to show the past online behavior for that computer. This collected information can be shared with the advertising company. We may provide such information to our Service Providers but that information can only be used by our Service Providers for our benefit.<br><br>
+		<strong class="security">4. Use of Cookies/Clear GIFs</strong><br>
+		<b><i>Cookies</i></b>: Like many other commercial sites, our Site utilizes standard technologies called "cookies" and clear GIFs to collect information about how our Site is used.  A cookie is a small data text file, which a Web site stores on your computer's hard drive (if your Web browser permits) that can later be retrieved to identify you to us. Cookies were designed to help a Web site recognize a user's browser as a previous visitor and thus save and remember any preferences that may have been set while the user was browsing the site. A cookie cannot be read by a Web site other than the one that set the cookie. Cookies can securely store a customer's password, personalize home pages, identify which parts of a site have been visited or keep track of selections, such as those selected in a "shopping cart." For instance, cookies allow us to pre-populate (or fill in) an email field with your email address if you revisit our Site and place an order. When you place an order, we send a cookie to your hard drive to record the product name, category of product that you ordered, the amount paid, the order number and any referral codes. No Personally Identifiable Information is recorded. When you click through to our Site from a promotional email, our Service Provider may send a cookie to your hard drive recording your IP address and other related information.<br><br>
+		<b><i>Clear GIFs</i></b>: Some of our Service Providers may employ clear GIFs (also known as pixel tags, single pixel GIFs, web beacons or action tags) for our benefit to help us measure advertising effectiveness. Clear GIFs help us better manage content on our Site by informing us of what content is effective. Clear GIFs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of our users. The main difference between the two is that clear GIFs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. Clear GIFs are not tied to your Personally Identifiable Information.
+		Our Service Providers may use clear GIFs: (i) in HTML based emails to determine which emails have been opened by recipients; (ii) to record when products have been ordered from our Site; and (iii) to track the visitor traffic on our Site. These clear GIFs allow us to measure the usage of our Site by our visitors and the effectiveness of certain communications and marketing campaigns. We may also use clear GIFs in a similar manner in our own emails and on our Site.  Clear GIFs can "work with" existing cookies on a computer if they are both from the same Web site or advertising company. That means, for example, that if a person visited "www.companyX.com", which uses an advertising company's clear GIF, the Web site would match the clear GIFs identifier and the advertising company's cookie ID number, to show the past online behavior for that computer. This collected information can be shared with the advertising company. We may provide such information to our Service Providers but that information can only be used by our Service Providers for our benefit.<br><br>
 		<a href="#top">back to top</a>
         <br><br>
-		<strong>5. Sweepstakes &amp; Contest</strong><br>
+		<strong class="security">5. Sweepstakes &amp; Contest</strong><br>
 		When you participate in sweepstakes, contests, and promotions sponsored by FTD, we use the Personal Information provided to qualify your entry and to contact you, should you come up a winner.<br><br>
-		<strong>6.&nbsp;Surveys and Research</strong><br>
-		In an effort to improve our Sites and services, we occasionally request that some customers and recipients voluntarily complete surveys, which may be collected by an independent third party.  Individual survey answers are confidential, although non-personal information may be collected and disclosed to third parties.  If you do not wish to participate in a survey, simply decline to participate when asked.<br><br>
-		<strong>7. Interactive Tools</strong><br>
+		<strong class="security">6.&nbsp;Surveys and Research</strong><br>
+		In an effort to improve our Site and services, we occasionally request that some customers and recipients voluntarily complete surveys, which may be collected by an independent third party.  Individual survey answers are confidential, although non-personal information may be collected and disclosed to third parties.  If you do not wish to participate in a survey, simply decline to participate when asked.<br><br>
+		<strong class="security">7. Interactive Tools</strong><br>
 		Within your Personal Account, you have the option to opt in for our additional services, which include a personal date reminder service and a free online address book. We use your contact information so that you may take full advantage of these interactive tools. You may view, edit or opt out of these additional services at anytime.<br><br>	
-		<strong>8.&nbsp;Mergers and Acquisitions</strong><br>
+		<strong class="security">8.&nbsp;Mergers and Acquisitions</strong><br>
 		In the event of a merger, consolidation, or sale or transfer of all or substantially all of the assets of FTD or its direct or indirect parent company (ies), one of the assets which would generally be transferred to the purchasing or new entity is the information we collect from our customers and store in our customer database.  However, the use of this information by any purchasing or surviving entity would be governed by the terms of this Policy, as amended from time to time, including any amendment after such transaction.  You, of course, will continue to have the right to opt-out of sharing your information with third parties.<br><br>
-		<strong>9.&nbsp;Cooperation with Law Enforcement</strong><br>
+		<strong class="security">9.&nbsp;Cooperation with Law Enforcement</strong><br>
 		We will disclose Personally Identifiable Information, after subpoena or written request, to cooperate with a law enforcement investigation.  We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful.
 		<br><br>
       	<a href="#top">back to top</a>
       	<br><br><br>
       	<a name="Security"></a><span class="smallheader">Security</span><br><br>
-      	We use the Secure Sockets Layer (SSL) technology. SSL encrypts your order information as additional protection against the decoding of that information by anyone other than us.  However, despite all reasonable security precautions and processes, such as password protection, encryption technology, and use of firewall technology, no data transmission over the Internet can be guaranteed to be 100% secure.  As a result, while we strive to protect your Personally Identifiable Information, we cannot guarantee or warrant the security of any information you transmit to or from our Sites, and you do so at your own risk. Once we receive your transmission, we will take commercially reasonable precautions to protect its security on our systems.
+      	We use the Secure Sockets Layer (SSL) technology. SSL encrypts your order information as additional protection against the decoding of that information by anyone other than us.  However, despite all reasonable security precautions and processes, such as password protection, encryption technology, and use of firewall technology, no data transmission over the Internet can be guaranteed to be 100% secure.  As a result, while we strive to protect your Personally Identifiable Information, we cannot guarantee or warrant the security of any information you transmit to or from our Site, and you do so at your own risk. Once we receive your transmission, we will take commercially reasonable precautions to protect its security on our systems.
 		<p>Your password(s) will be your personal, secret entry code(s) to access your Personal Account(s) at our Site(s). When you access your account information, it is kept on a secure server and a password is needed to access any account areas. You can change your password as many times as you like. We recommend that you keep your password in a safe place and that you always sign off your account and close your browser window once you have finished your visit. These precautions will help prevent someone else from accessing your account, especially if you share a computer with other people or use a computer in a public place such as an Internet café or library.</p>
 			<a href="#top">back to top</a>
       	<br><br><br>
-	  	<a name="Third"></a><span class="smallheader">No Sale, Trade or Rental of Personally Identifiable Information</span><br><br>
-		We do not sell, trade, or rent Personally Identifiable Information to third parties. We do share Personally Identifiable Information with our floral and gift distributors for the purpose of fulfilling and delivering your orders. We may offer free promotional emails and send promotional direct mail for products and/or services offered on any one or more of our Sites as a service to our prior customers from any of our Sites.  You have several options for altering or removing your information from our database at any time: see "Opt Out / Modify" section below.
+	  	<a name="Third"></a><span class="smallheader">Sale, Trade or Rental of Personally Identifiable Information</span><br><br>
+		We only share Personally Identifiable Information with businesses that we believe to be reputable and that can provide you with offers and information that we think will be of interest to you. If you would like to opt-out of FTD providing your name and mailing address to third parties, please follow the procedure outlined in the Opt Out / Modify section below. We do share Personally Identifiable Information with our floral and gift distributors for the purpose of fulfilling and delivering your orders. We may offer free promotional emails and send promotional direct mail for products and/or services offered on our Site or from businesses that we believe are reputable, as a service to our prior customers from our Site.  You have several options for altering or removing your information from our database at any time: see "Opt Out / Modify" section below.
 	    <br><br>
         <a href="#top">back to top</a>
         <br><br><br>
@@ -313,15 +350,15 @@
         <a href="#top">back to top</a>
         <br><br><br>
 		<a name="Child"></a><span class="smallheader">Child Protection</span><br><br>
-		We take special care to protect the safety and privacy of children. Our Sites are general audience sites. Consumers making purchases on our Sites must have a valid credit card and be 18 years of age or older.  It is the policy of FTD not to collect personal information on any person under the age of 18 and we request that any person under age 18 not submit any personal information via our sites. Our reminder and greeting services are designed not to gather birthdates (with years) or other personal information for children under 13.
+		We take special care to protect the safety and privacy of children. Our Site is a general audience site. Consumers making purchases on our Site must have a valid credit card and be 18 years of age or older.  It is the policy of FTD not to collect personal information on any person under the age of 18 and we request that any person under age 18 not submit any personal information via our site. Our reminder and greeting services are designed not to gather birthdates (with years) or other personal information for children under 13.
 		<br><br>
         <a href="#top">back to top</a>
         <br><br><br>
   		<a name="Opt"></a><span class="smallheader">Opt Out / Modify</span><br><br>
 		We want to communicate with you only if you want to hear from us.<br><br>
   		We do not send unsolicited promotional email and we respect our customers' mail preferences. FTD.COM gives you several options for altering or removing your information from the database at any time. 
-  		<p>To unsubscribe from promotional emails, <a href="https://ordering.ftd.com/350/myaccount/newsletter_unsubscribe.epl">click here</a>. Please be sure to include your email address, full name, and specifically what information you do not want to receive. You may also unsubscribe or opt-out of receiving promotional emails by following the unsubscribe instructions included in any of the promotional emails that we send you. Or, you may call a customer care representative at <b>1-800-SEND-FTD (1-800-736-3383)</b>&nbsp;or <b>630-719-7756</b>. Once your unsubscribe request is processed, we will not send you further promotional emails from that site from which you have requested to be unsubscribed, unless you opt back into receiving promotional emails from any one of our Sites.
-  		</p><p>To remove your name from our mailing list, call a customer care representative at <nobr><b>1-800-SEND-FTD (1-800-736-3383)</b></nobr>&nbsp;or <b>630-719-7756</b>. Please note that sometimes it may take 6 - 10 weeks for your postal address removal to become effective.
+  		<p>To unsubscribe from promotional emails, <a href="https://ordering.ftd.com/350/myaccount/newsletter_unsubscribe.epl">click here</a>. Please be sure to include your email address, full name, and specifically what information you do not want to receive. You may also unsubscribe or opt-out of receiving promotional emails by following the unsubscribe instructions included in any of the promotional emails that we send you. Or, you may call a customer care representative at <b>1-800-SEND-FTD (1-800-736-3383)</b>&nbsp;or <b>630-719-7756</b>. Once your unsubscribe request is processed, we will not send you further promotional emails from that site from which you have requested to be unsubscribed, unless you opt back into receiving promotional emails from our Site.
+  		</p><p>To remove your name from our mailing list, call a customer care representative at <nobr><b>1-800-SEND-FTD (1-800-736-3383)</b></nobr>&nbsp;or <b>630-719-7756</b>. To opt-out of FTD providing your name and mailing address to third parties, or learn about those third parties, please call a customer care representative at <nobr><b>1-800-SEND-FTD (1-800-736-3383)</b></nobr>&nbsp;or <b>630-719-7756</b>. Please note that sometimes it may take 6 - 10 weeks for your postal address removal to become effective.
   		</p><p>To update your name, address or email address, please call a customer care representative at <b>1-800-SEND-FTD (1-800-736-3383)</b>&nbsp;or <b>630-719-7756</b>.
 
   		</p><p>You may also alter or remove your information from the database by writing us: <br><br>
@@ -333,80 +370,127 @@
   		<a href="#top">back to top</a>
 		<br><br><br>
   		<a name="Consent"></a><span class="smallheader">Your Consent</span><br><br>
-		By shopping at our Sites or opening an account with FTD, you consent to the use of your Personally Identifiable Information by FTD in the manner specified in this Policy. We, however, have the option to change, modify, or add to the terms and conditions of the Policy at any time. We will inform you of any changes by posting the revised Policy on our Sites.  Any customer who does not agree to the revised Policy has the option to opt-out. The Policy will go into effect on the date posted. The new Policy will apply to all current and past users of our Sites and will replace any prior policies that are inconsistent.
-		<p>For our Sites that accept international orders, if you are located outside of the United States, please be aware that any information you provide will be transferred to the United States. By using our sites or providing us with your information, you hereby consent to this transfer. In addition, if you provide data about other individuals (such as gift recipients), you agree that you have obtained consent from each such individual to the submission and processing of such information to the terms of this Policy, including without limitation the transfer of such data to the United States.  Although we will collect and use your information only as stated in this Policy, laws generally applicable to the protection of personal data in the United States may not be as stringent as those in some users' home jurisdictions.</p>
+		By shopping at our Site or opening an account with FTD, you consent to the use of your Personally Identifiable Information by FTD in the manner specified in this Policy. We, however, have the option to change, modify, or add to the terms and conditions of the Policy at any time. We will inform you of any material changes by posting the revised Policy on our Site 30 days prior to implementing the change.  Any customer who does not agree to the revised Policy has the option to opt-out. The Policy will go into effect on the date posted. The new Policy will apply to all current and past users of our Site and will replace any prior policies that are inconsistent.
+		<p>Because our Site accepts international orders, if you are located outside of the United States, please be aware that any information you provide will be transferred to the United States. By using our site or providing us with your information, you hereby consent to this transfer. In addition, if you provide data about other individuals (such as gift recipients), you agree that you have obtained consent from each such individual to the submission and processing of such information to the terms of this Policy, including without limitation the transfer of such data to the United States. Although we will collect and use your information only as stated in this Policy, laws generally applicable to the protection of personal data in the United States may not be as stringent as those in some users' home jurisdictions.</p>
+		<a href="#top">back to top</a>
+
+        <br><br><br>
+        <a name="TRUSTe"></a><span class="smallheader">About TRUSTe</span><br><br>
+        FTD.COM is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the Web site www.FTD.COM.  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+		<p>If you have questions or concerns regarding this statement, you should first contact FTD.COM at http://custserv.ftd.com.  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with us to resolve your concerns.</p>
 		<a href="#top">back to top</a>
 	</td>
 </tr>
 </tbody></table>
 	
 <br><br>
-<img src="http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/pics/cleardot.gif" hspace="7" border="0" height="1" width="1">
+<img src="http://a248.e.akamai.net/f/80/71/6h/www.ftd.com/pics/cleardot.gif" hspace="7" border="0" height="1" width="1">
 </td>
 
 <td width="5">
-	<img src="http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/pics/cleardot.gif" width="5" height="1" alt="">
+	<img src="http://a248.e.akamai.net/f/80/71/6h/www.ftd.com/pics/cleardot.gif" width="5" height="1" alt="">
 </td>
 </tr>
 </tbody></table>
 
 </td></tr></tbody></table>
 
-<br>
-	  		</td>
-			<td width="3"><img src="http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/images/cleardot.gif" width="3"></td>
-			</tr>
-			</tbody></table>
-			</td>
-	  		<td width="1" bgcolor="#FFCC00"><img src="http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/images/cleardot.gif" width="1" height="1"></td>
-	  	</tr>
-	  	<tr>
-	    	<td width="756" height="1" bgcolor="#FFCC00" colspan="3"><img src="http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/images/cleardot.gif" width="756" height="1"></td>
-	  	</tr>
-	  	</tbody></table>
-	  	</center>
-	  	</td>
-		<!-- END RIGHT SIDE CONTENT -------------------------------------------------->
-    	</tr>
-  		</tbody></table>
-  		<!-- END MAIN BODY ---------------------------------------------------------->
-		&nbsp;<br>
-		<!-- FOOTER --------------------------------------------------------------->
-  		<table width="756" cellpadding="0" cellspacing="0" border="0" align="center">
-  		<tbody><tr>
-    		<td bgcolor="#FFFCD6" width="756" height="5"><img src="http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/images/cleardot.gif" width="590" height="5" alt=""></td>
-  		</tr>
-  		<tr>
-    		<td align="center" bgcolor="#FFFCD6">
-			<div class="botnav">
-					<a href="http://www.ftd.com/350/?int=1">Home</a>&nbsp;<span class="fixed_text">|</span>&nbsp;
-	<a href="https://ordering.ftd.com/350/myaccount/myaccount_signin.epl?AID=myaccount_enter">My Account</a>&nbsp;<span class="fixed_text">|</span>&nbsp;<a href="https://ordering.ftd.com/350/myaccount/myaccount_signup.epl?new=yes">New Account</a>&nbsp;<span class="fixed_text">|</span>&nbsp;
-	<a href="http://www.ftd.com/350/custserv/">Customer Service</a>&nbsp;<span class="fixed_text">|</span>&nbsp;
-    <a href="http://www.ftd.com/350/custserv/contact.epl">Contact Us</a>&nbsp;<span class="fixed_text">|</span>&nbsp;
-    <a href="http://www.ftd.com/350/custserv/aboutftd.epl">About Us</a> <br>
-	<a href="http://www.ftd.com/350/custserv/security.epl">Security &amp; Privacy</a>&nbsp;<span class="fixed_text">|</span>&nbsp;
-    <a href="http://www.ftd.com/350/custserv/partners.epl">Partners</a>&nbsp;<span class="fixed_text">|</span>&nbsp;
-    <a href="http://www.ftd.com/350/corporate/">Corporate Services</a>&nbsp;<span class="fixed_text">|</span>&nbsp;
-    <a href="http://www.corporate-ir.net/ireye/ir_site.zhtml?ticker=ftd&amp;script=2100/">Investor Relations</a>&nbsp;<span class="fixed_text">|</span>&nbsp;
-    <a href="http://www.ftd.com/350/corporate/affiliates.epl">Become an Affiliate</a>	</div>
-     		</td>
-   		</tr>
-  		<tr>
-    		<td bgcolor="#FFFCD6" width="756" height="5"><img src="http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/images/cleardot.gif" width="590" height="5" alt=""></td>
-  		</tr>
-   		<tr>
-    		<td align="center">
-	 			<div class="legal">
-				Copyright© 2005. FTD.COM  <a href="http://www.ftd.com/350/custserv/copyright.epl">All Rights Reserved</a>. Produced by: Novator Systems Ltd.<br>Order processing and order fulfillment by MERCURY<sup>®</sup> and MERCURY<sup>®</sup> TECHNOLOGIES.	<br>
-		   		</div>
-    		</td>
-	  	</tr>
+</td>
+	</tr>
+	</tbody></table>
+
+	<!-- End Page Content -------------------------------------------------------------------->
+
+	</td></tr>
+
+<!-- Footer ------------------------------------------------------------------------------>
+	<tr><td><div style="background-image: url('http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/pics/mday2006/footer.jpg'); height: 56px; color: #AF678F; font-size: 10pt; font-weight: bold; padding-left: 150px;">
+Fresh, beautiful flowers and plants that will last at least 7 days. Guaranteed.
+</div></td></tr>
+
+	<tr><td>
+		<table width="756" cellpadding="0" cellspacing="0" border="0" align="center">
+		<tbody><tr><td height="5" colspan="2"></td></tr>	
+		<tr><td width="174"></td><td align="left"><div class="botnav"><a href="http://www.ftd.com/350/?int=1">Home</a> <span class="fixed_text">|</span> 
+ <a href="https://ordering.ftd.com/350/myaccount/myaccount_signin.epl?AID=myaccount_enter">My Account</a> <span class="fixed_text">|</span> <a href="https://ordering.ftd.com/350/myaccount/myaccount_signup.epl?new=yes">New Account</a> <span class="fixed_text">|</span> 
+ <a href="http://www.ftd.com/350/custserv/">Customer Service</a> <span class="fixed_text">|</span>
+ <a href="http://www.ftd.com/350/catalog/international.epl">International Shipping</a> <span class="fixed_text">|</span>
+ <a href="http://www.ftd.com/350/custserv/contact.epl">Contact Us</a> <span class="fixed_text">|</span>
+ <a href="http://www.ftd.com/350/custserv/aboutftd.epl">About Us</a> <span class="fixed_text">|</span>
+ <a href="http://www.ftd.com/350/catalog/shopping.epl">Site Map</a>
+ <br>
+ <a href="http://www.ftd.com/350/custserv/security.epl">Security &amp; Privacy</a> <span class="fixed_text">|</span>
+ <a href="http://www.ftd.com/350/custserv/partners.epl">Partners</a> <span class="fixed_text">|</span>
+ <a href="http://www.ftd.com/350/corporate/">Corporate Services</a> <span class="fixed_text">|</span>
+ <a href="http://phx.corporate-ir.net/phoenix.zhtml?c=96019&amp;p=irol-investors&amp;type=350">Investor Relations</a> <span class="fixed_text">|</span>
+ <a href="http://www.ftd.com/350/corporate/affiliates.epl">Become an Affiliate</a></div></td></tr>
+		<tr><td height="10" colspan="2"></td></tr>	
+		<tr><td width="174"></td><td align="left"><div class="legal">Copyright© 2007. FTD.COM  <a href="http://www.ftd.com/350/custserv/copyright.epl">All Rights Reserved</a>. Produced by: Novator Systems Ltd.<br>Order processing and order fulfillment by MERCURY<sup>®</sup> and MERCURY<sup>®</sup> TECHNOLOGIES.</div></td></tr>
 		</tbody></table>
-  		<!-- END FOOTER --------------------------------------------------------------->
+	</td></tr>
+	<!-- End Footer -------------------------------------------------------------------------->
+</tbody></table>
+
+<br>
+
+<img src="http://a248.e.akamai.net/f/80/71/6h/www.ftd.com/pics/cleardot.gif" border="0" height="1" width="1">
 
 
-<img src="http://a80.g.akamai.net/f/80/71/6h/www.ftd.com/pics/cleardot.gif" hspace="7" border="0" height="1" width="1">
+	
+	
+	<script language="javascript">
+
+		var firstPage = 0;
+		
+		var v_id = getCookie('v_id');
+		if (!v_id) {
+			 v_id = createRandomString();
+			 firstPage = 1;
+		}
+		var date = new Date();
+		date.setTime(date.getTime()+(10*365*24*60*60*1000));
+		document.cookie = "v_id="+escape(v_id)+";expires="+date.toGMTString()+";path=/;domain=.ftd.com";
+		
+		var s_id = getCookie('s_id');
+		if (!s_id) {
+			s_id = createRandomString();
+			firstPage = 1;
+		}
+		var date = new Date();
+		date.setTime(date.getTime()+(30*60*1000));
+		document.cookie = "s_id="+escape(s_id)+";expires="+date.toGMTString()+";path=/;domain=.ftd.com";
+
+		if (firstPage) {
+			document.write("<img src=\"/pics/firstpage.gif?URL=www.ftd.com%2F350%2Fcustserv%2Fsecurity.epl%3Fhomepage_link%3DFOOT\" height=\"1\" width=\"1\" border=\"0\">");	
+		}
+	</script>
+
+	<!-- SiteCatalyst code version: H.4.  Copyright 1997-2006 Omniture, Inc. More info available at http://www.omniture.com -->
+    <script language="JavaScript" src="/omniture.js"></script>
+    <script language="JavaScript"><!--
+	/* You may give each page an identifying name, server, and channel on the next lines. */
+		s.prop1="350";
+        s.prop2="Main Site";
+        s.prop3="Main Site";
+        s.prop4="Main";
+
+		s.eVar1 = s.prop1;
+        s.eVar2 = s.prop2;
+        s.eVar3 = s.prop3;
+        s.eVar4 = s.prop4;
+
+		s.events = "event13";
+		
+			s.pageName = "Security Policy";
+		/* utilize omniture.js */
+		var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+		<script language="JavaScript"><!--
+		if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+	//--></script>
+	<!-- End SiteCatalyst code version: H.4. -->
+	<!-- hello world -->
 
 
-<!-- -->
+
+
 </body></html>
