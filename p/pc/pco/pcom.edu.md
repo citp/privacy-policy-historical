@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcom.edu privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211023031id_/http%3A//www.pcom.edu/Graduate_Medical_Education/Request_More_Info___Applicatio/Other_Content/Privacy_Policy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcom.edu privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608112119id_/http%3A//www.pcom.edu/Graduate_Medical_Education/Request_More_Info___Applicatio/Other_Content/Privacy_Policy/privacy_policy.html) for the most accurate reproduction.*
 
 # PCOM - Privacy Policy
 
@@ -8,7 +8,7 @@
 
  ****
 
-****The following represents the information gathering and use practices of PCOM's Web site,[ www.pcom.edu.](http://www.pcom.edu./)
+****The following represents the information gathering and use practices of PCOM's Web site,[ www.pcom.edu/](http://www.pcom.edu/).
 
 Philadelphia College of Osteopathic Medicine (PCOM) is committed to respecting your privacy. In general, you can visit PCOM on the Web without identifying yourself or revealing any personal information. In some areas, however, you may choose services that require you to provide us with information by which you can be identified. (For example, you can make requests and register to receive materials.) Once any personally identifiable information is received, you can be assured that it will only be used to support your relationship with PCOM.
 
