@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anetforums.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205045141id_/http%3A//www.activewin.com/terms/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anetforums.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608130243id_/http%3A//www.activewin.com/terms/privacy.shtml) for the most accurate reproduction.*
 
 # ActiveWin: Privacy Policy
 
@@ -6,21 +6,13 @@
   
 ---  
   
-Articles  
-  
-AskAW  
-  
 DirectX  
-  
-ActiveDVD  
   
 ActiveMac  
   
 Downloads  
   
 Forums  
-  
-Hardware News  
   
 Interviews  
   
@@ -166,13 +158,13 @@ Drivers
   
 **Xbox/Games**  
   
-Football Manager 2006   
+Viva Pinata   
   
-Top Spin 2  
+Marvel Ultimate Alliance  
   
 **Applications**  
   
-Vista Feb CTP  
+Windows Vista  
   
 **Hardware**  
   
@@ -209,7 +201,7 @@ Site Search
 Awards  
   
 ** Credits**  
-©1997/2006, Active Network, Inc. All Rights Reserved.  
+©1997/2007, Active Network, Inc. All Rights Reserved.  
 Layout, & Design by Byron Hinson. Content written by the Active Network team. Please click [here](http://www.activewin.com/terms/index.shtml) for full terms of use and restrictions or read our [Privacy Statement](http://www.activewin.com/terms/privacy.shtml).  
   
 [ ](http://www.amazon.com/exec/obidos/redirect-home/activedvd-20)
