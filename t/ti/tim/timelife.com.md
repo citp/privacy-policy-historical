@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timelife.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205212930id_/http%3A//www.timelife.com/custserv/custserv.jsp%3FsectionId%3D829) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timelife.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608071521id_/http%3A//www.timelife.com/custserv/custserv.jsp%3FsectionId%3D829) for the most accurate reproduction.*
 
 # TimeLife.com | Privacy Policy
 
