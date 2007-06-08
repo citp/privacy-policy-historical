@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the middlesexbank.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209185921id_/http%3A//www.middlesexbank.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the middlesexbank.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608181859id_/http%3A//www.middlesexbank.com/privacy.asp) for the most accurate reproduction.*
 
 # Middlesex Savings Bank
 
