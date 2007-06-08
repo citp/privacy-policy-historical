@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hetzner.co.za privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218204844id_/http%3A//hetzner.co.za/index.php%3Fid%3D242) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hetzner.co.za privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608033202id_/http%3A//www.hetzner.co.za/index.php%3Fid%3D242) for the most accurate reproduction.*
 
 # Hetzner South Africa – trusted in web hosting: Privacy Policy
 
