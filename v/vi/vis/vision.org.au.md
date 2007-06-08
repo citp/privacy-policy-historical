@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vision.org.au privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231002740id_/http%3A//www.ucb.com.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vision.org.au privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608144458id_/http%3A//www.ucb.com.au/privacy.htm) for the most accurate reproduction.*
 
-# UCB - The Word For Today
+# UCB - God Reaching People Through People
 
 ### Privacy and Policy Document
 
@@ -56,7 +56,7 @@ UCB Australia may release account information when we believe, in good faith, th
 **Opting out or modifying your information**  
 If you want to change any information that you have previously given us, or if you want to opt out of future communications:
 
-  1. you can e-mail a request to our Customer Relations department ([admin@ucb.com.au](https://web.archive.org/web/20061231002740id_/http%3A//www.ucb.com.au/admin@ucb.com.au))
+  1. you can e-mail a request to our Customer Relations department ([admin@ucb.com.au](https://web.archive.org/web/20070608144458id_/http%3A//www.ucb.com.au/admin@ucb.com.au))
   2. you can call our Customer Relations department on **1800 007 770**
   3. you can mail a request to the following postal address:
 
