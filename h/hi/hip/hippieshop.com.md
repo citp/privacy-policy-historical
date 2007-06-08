@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hippieshop.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402172241id_/http%3A//www.hippieshop.com/cgi-bin/gold/category.cgi%3Fcategory%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hippieshop.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608210752id_/http%3A//www.hippieshop.com/cgi-bin/gold/category.cgi%3Fcategory%3Dprivacy) for the most accurate reproduction.*
 
-# HippieShop.com - - Hippie Clothes & Gifts
+# HippieShop.com: at discount prices!
 
 **Privacy Policy**
 
@@ -8,13 +8,11 @@
 
 HippieShop.com respects your privacy. HippieShop.com does not sell, rent, or loan any identifiable information regarding its customers to any third party. Any information you give us is held with the utmost care and security, and will not be used in ways to which you have not consented. 
 
-When you purchase products from HippieShop.com or register for any HippieShop.com services, we may automatically place you on our list to receive e-mail regarding updates about special offers, new products, and new services. If you do not wish to receive e-mail updates, please send an e-mail to [remove@hippieshop.com](mailto:remove@hippieshop.com) and type "remove" in the subject line. 
+When you purchase products from HippieShop.com or register for any HippieShop.com services, you may choose to be on our list to receive e-mail regarding updates about special offers, new products, and new services. If you do not wish to receive e-mail updates, please [Unsubsiribe](http://www.hippieshop.com/cgi-bin/gold/category.cgi?category=hipemail). 
 
 **Use of Information**
 
 HippieShop.com will not collect any personal information about individuals except when specifically and knowingly provided by such individuals. Examples of such information are: name, postal address, e-mail address, phone number, birthdays, and product commentary.
-
-HippieShop.com may share non-personal aggregate, or summary, information regarding its customers with partners or other third parties, but HippieShop.com does not sell or share any information at the individual customer level. 
 
 **Cookies**
 
