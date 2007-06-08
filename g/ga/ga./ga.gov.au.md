@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ga.gov.au privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207160632id_/http%3A//www.ga.gov.au/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ga.gov.au privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608062619id_/http%3A//www.ga.gov.au/about/privacy.jsp) for the most accurate reproduction.*
 
 # Geoscience Australia: Privacy and Security
 
