@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the altium.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207034322id_/http%3A//www.altium.com/%3Fcode%3D2184footerprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altium.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608161103id_/http%3A//www.altium.com/%3Fcode%3D2184footerprivacypolicy) for the most accurate reproduction.*
 
 # Altium Limited > About Us > Company information > Corporate Governance > Altium's Privacy Policy
 
