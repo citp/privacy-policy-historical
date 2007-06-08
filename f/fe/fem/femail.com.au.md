@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the femail.com.au privacy policy that was archived on 2006-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061010202933id_/http%3A//femail.com.au/privacypol.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the femail.com.au privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608102140id_/http%3A//www.femail.com.au/privacypol.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,7 +40,6 @@ Femail.com.au encourages feedback and any questions you may have about privacy. 
 
 * * *
 
-  
 **Femail.com.au Privacy Policy**
 
 Femail.com.au understands the importance of your privacy on and off the Internet. In every action we take, Femail.com.au lives up to our strict privacy statement:  
