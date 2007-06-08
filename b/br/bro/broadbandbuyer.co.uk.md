@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadbandbuyer.co.uk privacy policy that was archived on 2006-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061005024220id_/http%3A//www.broadbandbuyer.co.uk/Shop/Info/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadbandbuyer.co.uk privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609015655id_/http%3A//www.broadbandbuyer.co.uk/Shop/Info/Privacy.asp) for the most accurate reproduction.*
 
 # Broadbandbuyer.co.uk | Privacy Policy
 
@@ -9,7 +9,7 @@ Privacy Policy
 This privacy statement applies to the web site of:
 
 Essanet Ltd / TA Broadbandbuyer.co.uk   
-16 Cromwell Business Centre   
+8 Cromwell Business Centre   
 Newport Pagnell Buckinghamshire MK16 9QS   
 GB   
 Tel. 01908 329007   
