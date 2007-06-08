@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ozemail.com.au privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205203856id_/http%3A//ozemail.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozemail.com.au privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608035816id_/http%3A//ozemail.com.au/privacy) for the most accurate reproduction.*
 
-# OzEmail
+# iiNet
 
 ## privacy policy
 
-This is our Privacy Policy, a document which outlines our guarantee on your use of our products. For further information see our [Privacy Policy FAQ](https://web.archive.org/web/20061205203856id_/http://ozemail.com.au/privacy/faq.html) page. 
+This is our Privacy Policy, a document which outlines our guarantee on your use of our products. For further information see our [Privacy Policy FAQ](https://web.archive.org/web/20070608035816id_/http://www.ozemail.com.au/privacy/faq.html) page. 
 
   1. We use and may disclose your personal information in order to: 
     1. Provide services to you; 
