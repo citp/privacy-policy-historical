@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourbillbuddy.com privacy policy that was archived on 2006-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060823141720id_/http%3A//www.yourbillbuddy.com/info_privacy_policy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourbillbuddy.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608091836id_/http%3A//www.yourbillbuddy.com/info_privacy_policy.do) for the most accurate reproduction.*
 
 # ::PRIVACY POLICY::
 
@@ -9,6 +9,8 @@ Trilogy may collect or receive information about each person who registers with 
 We at Trilogy are proud of our concern for your privacy and our commitment to protect it. Under no circumstances will we hand over the e-bill to a third party. Trilogy will not disclose details of your bills, or calling pattern to any other external third party.
 
 Trilogy may use your IP address to help diagnose problems with Trilogy's server and to administer Trilogy's web site. Your IP address may also be used to help identify you and your shopping cart and to gather broad demographic information. Trilogy's site's registration form requires users to give Trilogy contact information (such as your name and email address) and demographic information (such as your zip code, age, or income level). Trilogy uses customer contact information from the registration form to send the user information about Trilogy's company and promotional material from some of Trilogy's partners. The customer's contact information is also used to contact the user when necessary. Users may choose to opt-out of receiving future mailings. Demographic and profile data may also be collected at Trilogy's site. Trilogy may use this data to tailor the visitor's experience on Trilogy's site, show the visitor content that Trilogy thinks you may be interested in, and display content according to your preferences. The demographic and profile data may be shared with advertisers on an aggregate basis. 
+
+The Trilogy website may provide certain features ("Features") that enable sending/receiving invites/solicitation messages/reminders to your contacts whose details, as required under the specific Features, are submitted and specifically permitted by you to be so used. Trilogy shall use the contact details only for the Feature specifically approved by you. 
 
 Trilogy uses industry-standard technologies when transferring and receiving consumer data exchanged between Trilogy and other companies to help ensure its security. This site has security measures in place to protect the loss, misuse and alteration of the information under Trilogy's control. Trilogy's servers are backed up regularly and protected by security systems.
 
