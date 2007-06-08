@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the birth.com.au privacy policy that was archived on 2006-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061220123648id_/http%3A//birth.com.au/about.asp%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birth.com.au privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608194315id_/http%3A//www.birth.com.au/about.asp%3Fprivacy) for the most accurate reproduction.*
 
-# Pregnancy week by week - pregnancy calendar - pregnancy stages trimesters - pregnancy websites - motherhood maternity - BirthNet Australia
+# Pregnancy week by week - pregnancy calendar - pregnancy stages trimesters - parenting websites - mum dad baby maternity - Birthnet Australia
 
 PRIVACY POLICY  
 Protecting your privacy is important to us at Birthnet Pty Ltd (ACN 089 827 878) and all our related companies (collectively known as "Birthnet"). As part of our commitment, we have developed the following policy in compliance with the voluntary National Privacy Principles developed by the Australian Federal Privacy Commissioner. 
@@ -32,7 +32,7 @@ Birthnet may also ask members for personal information at other times, including
 4. | The organisation collecting the information  
 Birth.com.au is owned and operated by Birthnet Pty Limited (ACN 089 827 878). 
 
-If you choose to subscribe to birth.com.au using the NAB icon displayed on the website, your credit card and payment information will be collected and held by the National Australia Bank. All other information provided by you will be collected by employees, contractors, subcontractors or agents of Birthnet Pty Limited.   
+If you choose to subscribe to birth.com.au using the NAB icon displayed on the website, your [credit card and payment information](http://www.nab.com.au/Personal_Finance/0,,29254,00.html) will be collected and held by the National Australia Bank. All other information provided by you will be collected by employees, contractors, subcontractors or agents of Birthnet Pty Limited.   
   
 5. | How the information is used  
 Our primary goal in collecting personal information is to build user profiles so that we can enhance the functionality of birth.com.au and provide our members with useful and relevant information on pregnancy, birth and related issues. 
