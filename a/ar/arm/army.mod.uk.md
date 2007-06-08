@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the army.mod.uk privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206070643id_/http%3A//www.army.mod.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the army.mod.uk privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608031940id_/http%3A//www.army.mod.uk/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -30,4 +30,4 @@ Every time our web site is accessed an entry is made in the web server's log fil
 
   * **_Web server_**
 
-The machine which on which the MOD website is physically located, which delivers (serves up) web pages to your computer. 
+The machine on which the MOD website is physically located, which delivers (serves up) web pages to your computer. 
