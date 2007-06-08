@@ -1,13 +1,7 @@
-> *The following text is extracted and transformed from the healthleadersmedia.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208104844id_/http%3A//healthleadersmedia.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthleadersmedia.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608191449id_/http%3A//healthleadersmedia.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # HealthLeadersMedia - Privacy Policy
 
-|  |  |  |  | 
-
-**HealthLeaders Media Privacy Policy**  
-  
----  
-  
 **HealthLeadersMedia Privacy Policy**
 
   1. **General**
@@ -76,6 +70,6 @@ By using _HealthLeadersMedia.com_ , you signify your assent to the _HealthLeader
 If you have questions or concerns regarding this Privacy Policy, you should contact _HealthLeadersMedia's_ Customer Service Department by telephone at 877/727-1728 or e-mail via [customerservice@healthleadersmedia.com](mailto:customerservice@hcpro.com?subject=HealthLeadersMedia%20Privacy%20Policy). 
 
 
-|  |   
----|---|---  
-|  |  | 
+|  | 
+
+[](https://web.archive.org/view_features.cfm)
