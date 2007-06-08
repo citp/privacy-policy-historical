@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bragg.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206191806id_/http%3A//bragg.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bragg.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608194132id_/http%3A//www.bragg.com/privacy.html) for the most accurate reproduction.*
 
 # Bragg Live Foods - Bragg Online Privacy Statement
 
@@ -34,3 +34,6 @@ You can access all your personally identifiable information that we collect onli
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before making corrections and will not transmit that information to any sources that cannot be reasonably determined to be authorized by the person to whom the information concerns. 
+
+|   
+---|---
