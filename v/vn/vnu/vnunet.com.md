@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vnunet.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118125919id_/http%3A//www.vnunet.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vnunet.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608072946id_/http%3A//www.vnunet.com/about/privacy) for the most accurate reproduction.*
 
 # vnunet.com - About - Policy
 
