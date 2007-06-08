@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the montgomerycountymd.gov privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211071621id_/http%3A//www.montgomerycountymd.gov/mcgtmpl.asp%3Furl%3D/content/mcginfo/siteFiles/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the montgomerycountymd.gov privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608223731id_/http%3A//www.montgomerycountymd.gov/mcgtmpl.asp%3Furl%3D/content/mcginfo/siteFiles/privacy.asp) for the most accurate reproduction.*
 
 # Welcome to the Montgomery County Maryland Website
 
@@ -12,9 +12,9 @@ Thank you for using the Montgomery County, Maryland Government (hereafter, the C
 It is our statement concerning how your information will be protected. If you have questions or doubts concerning the privacy of your information, you should consult this document. If, after consulting this document you still have questions or doubts, you should contact: 
 
 Montgomery County, Maryland Government   
-ATTN: Chris Daniel  
-100 Maryland Avenue  
-Suite 114  
+Office of Public Information   
+101 Monroe St.   
+4th Floor   
 Rockville, Maryland 20850 
 
 [Customer.Service@montgomerycountymd.gov](mailto:Customer.Service@montgomerycountymd.gov)
@@ -96,14 +96,14 @@ How to contact the County:
 We welcome your comments and invite you to contact us if you have any questions or concerns regarding this Privacy Policy. Contact us at: 
 
 Montgomery County, Maryland Government   
-ATTN: Chris Daniel  
-100 Maryland Avenue  
-Suite 114  
+Office of Public Information   
+101 Monroe St.   
+4th Floor   
 Rockville, Maryland 20850   
 or  
 [Customer.Service@montgomerycountymd.gov](mailto:Customer.Service@montgomerycountymd.gov)
 
 CUSTOMER SATISFACTION:   
-Questions regarding this statement should be directed to the County by sending an e-mail [Customer.Service@montgomerycountymd.gov](mailto:Customer.Service@montgomerycountymd.gov). If you do not receive a response to your inquiry within five business days, please contact the County at [chris.daniel@montgomerycountymd.gov](mailto:chris.daniel@montgomerycountymd.gov). If your inquiry has not been satisfactorily addressed, please contact TRUSTe at http://www.truste.org/users/users_watchdog.html. 
+Questions regarding this statement should be directed to the County by sending an e-mail to [Customer.Service@montgomerycountymd.gov](mailto:Customer.Service@montgomerycountymd.gov). If you do not receive a response to your inquiry within five business days, please contact the Office of Public Information, at 240-777-6530 or at the above address. If your inquiry has not been satisfactorily addressed, please contact TRUSTe at http://www.truste.org/users/users_watchdog.html. 
 
 < top >
