@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christywhitman.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017022958id_/http%3A//christywhitman.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christywhitman.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608060244id_/http%3A//www.christywhitman.com/Privacy.html) for the most accurate reproduction.*
 
 # Personal Empowerment - Christy Whitman
 
