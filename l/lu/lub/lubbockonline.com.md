@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lubbockonline.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212234528id_/http%3A//www.lubbockonline.com/housekeeping/about_us.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lubbockonline.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608185522id_/http%3A//www.lubbockonline.com/housekeeping/about_us.shtml) for the most accurate reproduction.*
 
 # LubbockOnline.com
 
@@ -97,7 +97,7 @@ Lubbock, Texas 79401_
 **The Lubbock Avalanche-Journal  
 710 Ave. J, P.O. Box 491, Lubbock, Texas 79401 _  
 806-762-8844 • Toll-Free: 800-692-4021_** _  
-**[Maps and Directions](http://www.zip2.com/lubbock/scripts/search.dll?ep=3&id=303486484&pg=&totdup=&errp=&buscob=&btl=on&qname=Lubbock+Avalanche-Journal&qcity=Lubbock&qstate=TX&sic=&ck=&ccity=Lubbock&cstate=TX&adrVer=-1&ver=d3.0)** _
+**[Maps and Directions](http://www.google.com/maps?f=l&hl=en&q=lubbock+avalanche-journal&near=lubbock+tx&ie=UTF8&z=11&ll=33.61176,-101.824722&spn=0.314514,0.55481&om=1&iwloc=A)** _
 
 * * *
 
