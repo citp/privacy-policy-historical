@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the galls.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016013729id_/http%3A//galls.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galls.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608135123id_/http%3A//www.galls.com/privacy.html) for the most accurate reproduction.*
 
 # Galls
 
@@ -52,7 +52,7 @@ The information we collect is used to better serve our customers by making their
 
 Galls does share customer information under the limited conditions described below:
 
-_Affiliates_ : Galls shares and aggregates customer information with its affiliated companies under common control with Galls, which is a division of ARAMARK Uniform & Career Apparel, Inc. The information is shared for internal business and marketing/promotional purposes.
+_Affiliates_ : Galls shares and aggregates customer information with its affiliated companies under common control with Galls. The information is shared for internal business and marketing/promotional purposes.
 
 _Agents_ : Galls shares certain customer information with its third party business agents as described in Section 2. The provision of personally-identifiable information to such third parties is for our own business purposes, such as to process your order or to provide services for us.
 
