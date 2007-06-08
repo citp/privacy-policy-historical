@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pe.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206015910id_/http%3A//www.pe.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pe.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608032443id_/http%3A//www.pe.com/registration/privacy.html) for the most accurate reproduction.*
 
-# PE.com | Inland Southern California | Privacy Policy
-
-| 
+# Privacy Policy | PE.com | Southern California News | News for Inland Southern California
 
 ## Privacy Policy
 
@@ -125,17 +123,3 @@ If you have any questions or comments about our Privacy Policy, please e-mail us
 **Effective Date and Changes**
 
 This Privacy Policy is effective as of June 1, 2005. Belo reserves the right to modify the terms of this policy at any time and in our sole discretion, by posting a change notice to this page. Your continued use of the Site following our posting of a change notice will constitute binding acceptance of those changes. 
-
-This text is invisible on the page, but this text is affected by the invisible item's flow. This text is invisible on the page, but this text is affected by the invisible item's flow. This text is invisible on the page, but this text is affected by the invisible item's flow.
-
-| 
-
-Advertising 
-
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/645837888/Position1/default/empty.gif/7a2f4868396c347972526b4144556f37?x)
-
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/1948389371/Position4/default/empty.gif/7a2f4868396c347972526b4144556f37?x)
-
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/951339931/Position5/default/empty.gif/7a2f4868396c347972526b4144556f37?x)
-
-##### shopping
