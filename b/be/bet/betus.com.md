@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betus.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214182103id_/http%3A//www.betus.com/about-us/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betus.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608133729id_/http%3A//www.betus.com/about-us/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
