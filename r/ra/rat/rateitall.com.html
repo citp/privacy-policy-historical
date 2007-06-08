@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the rateitall.com privacy policy that was archived on 2006-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061217212428id_/http%3A//www.rateitall.com/wt-privacy_policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rateitall.com privacy policy that was archived on 2007-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070608093254id_/http%3A//www.rateitall.com/wt-privacy_policy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="rating" content="General"><meta name="robots" content="all"><meta name="distribution" content="global"><meta id="_ctl0_MetaDescription" name="description" content="(!METADESCRIPTION!)"><meta id="_ctl0_MetaKeywords" name="keywords" content="(!METAKEYWORDS!)"><title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="rating" content="General"><meta name="robots" content="all"><meta name="distribution" content="global"><meta id="_ctl0_MetaDescription" name="description" content="(!METADESCRIPTION!)"><meta id="_ctl0_MetaKeywords" name="keywords" content="(!METAKEYWORDS!)"><meta name="verify-v1" content="5YPwxttuUbNryESqWa/8FSD9oFRVQla2AwlIoloqicE="><title>
 	RateItAll Privacy Policy
 </title><link rel="alternate" type="application/rss+xml" title="The RateItAll Buzz Feed" href="http://www.rateitall.com/recentcommentsrss.aspx ">
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
@@ -11,157 +11,11 @@ urchinTracker();
 </script>
 <link type="text/css" rel="stylesheet" href="Styles/Version2.css" media="screen"><link rel="Shortcut Icon" href="images/favicon.ico" type="image/x-icon">
 
-<script type="text/javascript">
-
-/***********************************************
-* AnyLink Drop Down Menu- © Dynamic Drive (www.dynamicdrive.com)
-* This notice MUST stay intact for legal use
-* Visit http://www.dynamicdrive.com/ for full source code
-***********************************************/
-
-//Contents for menuShortcuts
-var menuShortcuts=new Array()
-menuShortcuts[0]='<a href="recentcomments.aspx">All Recent Reviews</a>'
-menuShortcuts[1]='<a href="recent.aspx">New Things to Rate</a>'
-menuShortcuts[2]='<a href="browseTagsList.aspx">Browse Weblist Tags</a>'
-menuShortcuts[3]='<a href="browseTagsUser.aspx">Browse People Tags</a>'
-menuShortcuts[4]='<a href="mosthelpfulreviewer.aspx">Most Helpful Reviewers</a>'
-menuShortcuts[5]='<a href="memberstats.aspx">RateItAll Contributors</a>'
-menuShortcuts[6]='<a href="wt-rateitall_economy.aspx">How to Earn <strong>$</strong> on RateItAll</a>'
-menuShortcuts[7]='<a href="http://rateitall.blogspot.com">RateItAll Blog</a>'
-
-
-var menuwidth='185px' //default menu width
-var menubgcolor='lightyellow'  //menu bgcolor
-var disappeardelay=250  //menu disappear speed onMouseout (in miliseconds)
-var hidemenu_onclick="yes" //hide menu when user clicks within menu?
-
-/////No further editting needed
-
-var ie4=document.all
-var ns6=document.getElementById&&!document.all
-
-if (ie4||ns6)
-document.write('<div id="dropmenudiv" style="visibility:hidden;width:'+menuwidth+';background-color:'+menubgcolor+'" onMouseover="clearhidemenu()" onMouseout="dynamichide(event)"></div>')
-
-function getposOffset(what, offsettype){
-var totaloffset=(offsettype=="left")? what.offsetLeft : what.offsetTop;
-var parentEl=what.offsetParent;
-while (parentEl!=null){
-totaloffset=(offsettype=="left")? totaloffset+parentEl.offsetLeft : totaloffset+parentEl.offsetTop;
-parentEl=parentEl.offsetParent;
-}
-return totaloffset;
-}
-
-
-function showhide(obj, e, visible, hidden, menuwidth){
-if (ie4||ns6)
-dropmenuobj.style.left=dropmenuobj.style.top="-500px"
-if (menuwidth!=""){
-dropmenuobj.widthobj=dropmenuobj.style
-dropmenuobj.widthobj.width=menuwidth
-}
-if (e.type=="click" && obj.visibility==hidden || e.type=="mouseover")
-obj.visibility=visible
-else if (e.type=="click")
-obj.visibility=hidden
-}
-
-function iecompattest(){
-return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
-}
-
-function clearbrowseredge(obj, whichedge){
-var edgeoffset=0
-if (whichedge=="rightedge"){
-var windowedge=ie4 && !window.opera? iecompattest().scrollLeft+iecompattest().clientWidth-15 : window.pageXOffset+window.innerWidth-15
-dropmenuobj.contentmeasure=dropmenuobj.offsetWidth
-if (windowedge-dropmenuobj.x < dropmenuobj.contentmeasure)
-edgeoffset=dropmenuobj.contentmeasure-obj.offsetWidth
-}
-else{
-var topedge=ie4 && !window.opera? iecompattest().scrollTop : window.pageYOffset
-var windowedge=ie4 && !window.opera? iecompattest().scrollTop+iecompattest().clientHeight-15 : window.pageYOffset+window.innerHeight-18
-dropmenuobj.contentmeasure=dropmenuobj.offsetHeight
-if (windowedge-dropmenuobj.y < dropmenuobj.contentmeasure){ //move up?
-edgeoffset=dropmenuobj.contentmeasure+obj.offsetHeight
-if ((dropmenuobj.y-topedge)<dropmenuobj.contentmeasure) //up no good either?
-edgeoffset=dropmenuobj.y+obj.offsetHeight-topedge
-}
-}
-return edgeoffset
-}
-
-function populatemenu(what){
-if (ie4||ns6)
-dropmenuobj.innerHTML=what.join("")
-}
-
-
-function dropdownmenu(obj, e, menucontents, menuwidth){
-if (window.event) event.cancelBubble=true
-else if (e.stopPropagation) e.stopPropagation()
-clearhidemenu()
-dropmenuobj=document.getElementById? document.getElementById("dropmenudiv") : dropmenudiv
-populatemenu(menucontents)
-
-if (ie4||ns6){
-showhide(dropmenuobj.style, e, "visible", "hidden", menuwidth)
-dropmenuobj.x=getposOffset(obj, "left")
-dropmenuobj.y=getposOffset(obj, "top")
-dropmenuobj.style.left=dropmenuobj.x-clearbrowseredge(obj, "rightedge")+"px"
-dropmenuobj.style.top=dropmenuobj.y-clearbrowseredge(obj, "bottomedge")+obj.offsetHeight+"px"
-}
-
-return clickreturnvalue()
-}
-
-function clickreturnvalue(){
-if (ie4||ns6) return false
-else return true
-}
-
-function contains_ns6(a, b) {
-while (b.parentNode)
-if ((b = b.parentNode) == a)
-return true;
-return false;
-}
-
-function dynamichide(e){
-if (ie4&&!dropmenuobj.contains(e.toElement))
-delayhidemenu()
-else if (ns6&&e.currentTarget!= e.relatedTarget&& !contains_ns6(e.currentTarget, e.relatedTarget))
-delayhidemenu()
-}
-
-function hidemenu(e){
-if (typeof dropmenuobj!="undefined"){
-if (ie4||ns6)
-dropmenuobj.style.visibility="hidden"
-}
-}
-
-function delayhidemenu(){
-if (ie4||ns6)
-delayhide=setTimeout("hidemenu()",disappeardelay)
-}
-
-function clearhidemenu(){
-if (typeof delayhide!="undefined")
-clearTimeout(delayhide)
-}
-
-if (hidemenu_onclick=="yes")
-document.onclick=hidemenu
-
-
-</script></head><body><div id="dropmenudiv" style="visibility:hidden;width:185px;background-color:lightyellow" onmouseover="clearhidemenu()" onmouseout="dynamichide(event)"></div>
+<script type="text/javascript" src="DropDown.js"></script></head><body><div id="dropmenudiv" style="visibility:hidden;width:185px;background-color:lightyellow" onmouseover="clearhidemenu()" onmouseout="dynamichide(event)"></div>
 
 
 <form name="aspnetForm" method="post" action="driver.aspx?topic=privacy_policy" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTE5MDEwNTUxD2QWAmYPZBYCAgMPZBYSAgEPDxYCHgtOYXZpZ2F0ZVVybAVALi4vc2lnbmluLmFzcHg/UmV0dXJuVVJMPSUyZmRyaXZlci5hc3B4JTNmdG9waWMlM2Rwcml2YWN5X3BvbGljeWRkAgMPDxYCHwAFQC4uL3NpZ251cC5hc3B4P1JldHVyblVSTD0lMmZkcml2ZXIuYXNweCUzZnRvcGljJTNkcHJpdmFjeV9wb2xpY3lkZAIFDw8WAh4HVmlzaWJsZWhkZAIHDw8WAh8BaGRkAgsPZBYCAgEPD2QWAh4Kb25LZXlQcmVzcwWDAWphdmFzY3JpcHQ6aWYgKGV2ZW50LmtleUNvZGUgPT0gMTMpe3ZhciBzdGV4dCA9IGVzY2FwZSh0aGlzLnZhbHVlKTsgd2luZG93LmxvY2F0aW9uLmhyZWY9J3NlYXJjaDIuYXNweD9XTD0xMCZzZWFyY2hzdHJpbmc9JytzdGV4dDt9ZAIPD2QWAgIBDxYCHgRUZXh0BQ5Qcml2YWN5IFBvbGljeWQCFw8PFgIfAAVALi4vc2lnbnVwLmFzcHg/UmV0dXJuVVJMPSUyZmRyaXZlci5hc3B4JTNmdG9waWMlM2Rwcml2YWN5X3BvbGljeWRkAhkPDxYCHwAFQC4uL3NpZ25pbi5hc3B4P1JldHVyblVSTD0lMmZkcml2ZXIuYXNweCUzZnRvcGljJTNkcHJpdmFjeV9wb2xpY3lkZAIbDw8WAh8BaGRkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBRJfY3RsMDpJbWFnZUJ1dHRvbjKtLj/rFEhDqeUDy1PrFRQYUybE1g==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJLTM1Mjg1NDY2D2QWAmYPZBYCAgMPZBYUAgEPDxYCHgtOYXZpZ2F0ZVVybAVALi4vc2lnbmluLmFzcHg/UmV0dXJuVVJMPSUyZmRyaXZlci5hc3B4JTNmdG9waWMlM2Rwcml2YWN5X3BvbGljeWRkAgMPDxYCHwAFQC4uL3NpZ251cC5hc3B4P1JldHVyblVSTD0lMmZkcml2ZXIuYXNweCUzZnRvcGljJTNkcHJpdmFjeV9wb2xpY3lkZAIFDw8WAh4HVmlzaWJsZWhkZAIHDw8WAh8BaGRkAgsPZBYCAgEPD2QWAh4Kb25LZXlQcmVzcwWDAWphdmFzY3JpcHQ6aWYgKGV2ZW50LmtleUNvZGUgPT0gMTMpe3ZhciBzdGV4dCA9IGVzY2FwZSh0aGlzLnZhbHVlKTsgd2luZG93LmxvY2F0aW9uLmhyZWY9J3NlYXJjaDIuYXNweD9XTD0xMCZzZWFyY2hzdHJpbmc9JytzdGV4dDt9ZAIPD2QWAgIBDxYCHgRUZXh0BQ5Qcml2YWN5IFBvbGljeWQCEQ9kFgQCBQ8WAh8DBboDPGRpdiBjbGFzcz0ibWluaW1lbnUiPgk8aDU+UmF0ZUl0QWxsIEluZm88L2g1Pgk8dWw+CQk8bGk+PGEgaHJlZj0iaHR0cDovL3d3dy5yYXRlaXRhbGwuY29tL2Fib3V0LmFzcHgiPkFib3V0IFJhdGVJdEFsbDwvYT48L2xpPgkJPGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cucmF0ZWl0YWxsLmNvbS93dC1wcmVzc19yb29tLmFzcHgiPlByZXNzIFJvb208L2E+PC9saT4JCTxsaT48YSBocmVmPSJodHRwOi8vd3d3LnJhdGVpdGFsbC5jb20vd3QtbWFuYWdlbWVudF90ZWFtLmFzcHgiPk1hbmFnZW1lbnQgVGVhbTwvYT48L2xpPgkJPGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cucmF0ZWl0YWxsLmNvbS93dC1jb250YWN0X3VzLmFzcHgiPkNvbnRhY3Q8L2E+PC9saT4JCTxsaT48YSBocmVmPSJodHRwOi8vcmF0ZWl0YWxsLmJsb2dzcG90LmNvbSI+QmxvZzwvYT48L2xpPgk8L3VsPjwvZGl2PmQCBw8WAh8DBdoEPGRpdiBjbGFzcz0ibWluaW1lbnUiPgk8aDU+U2hvcnRjdXRzPC9oNT4JPHVsPgkJPGxpPjxhIGhyZWY9InJlY2VudGNvbW1lbnRzLmFzcHgiPkFsbCBSZWNlbnQgUmV2aWV3czwvYT48L2xpPgkJPGxpPjxhIGhyZWY9InJlY2VudC5hc3B4Ij5OZXcgVGhpbmdzIHRvIFJhdGU8L2E+PC9saT4JCTxsaT48YSBocmVmPSJicm93c2VUYWdzTGlzdC5hc3B4Ij5Ccm93c2UgV2VibGlzdCBUYWdzPC9hPjwvbGk+CQk8bGk+PGEgaHJlZj0iYnJvd3NlVGFnc1VzZXIuYXNweCI+QnJvd3NlIFBlb3BsZSBUYWdzPC9hPjwvbGk+CQk8bGk+PGEgaHJlZj0ibW9zdGhlbHBmdWxyZXZpZXdlci5hc3B4Ij5Nb3N0IEhlbHBmdWwgUmV2aWV3ZXJzPC9hPjwvbGk+CQk8bGk+PGEgaHJlZj0ibWVtYmVyc3RhdHMuYXNweCI+UmF0ZUl0QWxsIENvbnRyaWJ1dG9yczwvYT48L2xpPgkJPGxpPjxhIGhyZWY9Ind0LXJhdGVpdGFsbF9lY29ub215LmFzcHgiPkhvdyB0byBFYXJuIDxzdHJvbmc+JDwvc3Ryb25nPiBvbiBSYXRlSXRBbGw8L2E+PC9saT4JCTxsaT48YSBocmVmPSJodHRwOi8vcmF0ZWl0YWxsLmJsb2dzcG90LmNvbSI+UmF0ZUl0QWxsIEJsb2c8L2E+PC9saT4JPC91bD48L2Rpdj5kAhcPDxYCHwAFQC4uL3NpZ251cC5hc3B4P1JldHVyblVSTD0lMmZkcml2ZXIuYXNweCUzZnRvcGljJTNkcHJpdmFjeV9wb2xpY3lkZAIZDw8WAh8ABUAuLi9zaWduaW4uYXNweD9SZXR1cm5VUkw9JTJmZHJpdmVyLmFzcHglM2Z0b3BpYyUzZHByaXZhY3lfcG9saWN5ZGQCGw8PFgIfAWhkZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUSX2N0bDA6SW1hZ2VCdXR0b24yzX73tvCZRC6HpNCL0Uy0oskMNps=">
 
 
 <div id="utils">
@@ -188,14 +42,19 @@ document.onclick=hidemenu
 		
 		      <div id="searchnav">		
 
-<div id="search"> 
-<div id="_ctl0_TopSearch" defaulbutton="ImageButton2">
+                <div id="search"> 
+                    <div style="float: left; width: 100%;">
+                        <div id="_ctl0_TopSearch" defaulbutton="ImageButton2">
 	
-<fieldset><label class="mainsearch" for="searchterm">Search:</label><input name="_ctl0:searchterm" type="text" id="_ctl0_searchterm" class="text" onkeypress="javascript:if (event.keyCode == 13){var stext = escape(this.value); window.location.href='search2.aspx?WL=10&amp;searchstring='+stext;}">
-<input type="image" name="_ctl0:ImageButton2" id="_ctl0_ImageButton2" src="images/mainsearch.gif" border="0"></fieldset>
-
+                        <fieldset><label class="mainsearch" for="searchterm">Search:</label><input name="_ctl0:searchterm" type="text" id="_ctl0_searchterm" class="text" onkeypress="javascript:if (event.keyCode == 13){var stext = escape(this.value); window.location.href='search2.aspx?WL=10&amp;searchstring='+stext;}">
+                        <input type="image" name="_ctl0:ImageButton2" id="_ctl0_ImageButton2" src="images/mainsearch.gif" border="0"></fieldset>
+                        
 </div>
-</div>
+                    </div>
+                    
+                
+                </div>               
+                
 
 			      <div id="navigation">
 				      <ul>
@@ -231,7 +90,12 @@ document.onclick=hidemenu
         <div id="contentsoutside">	
             <div id="Contents" class="ContentsDiv">
                   
-<!-- READ FROM DB --><p>&nbsp;</p>
+
+<div id="topiccontent">
+	<div class="fborderright">
+		
+        <div class="lefttwothird">
+          <!-- READ FROM DB --><p>&nbsp;</p>
 <p><strong>RateItAll Privacy Policy</strong><br></p>
 <p>The bottom line is that RateItAll will NOT release your personal information without your consent. </p>
 <p>Earning the trust of our users is one of RateItAll’s primary goals. We take your privacy very seriously, and we want you to feel absolutely comfortable using our site. Our Privacy Policy answers the following questions: </p>
@@ -250,6 +114,32 @@ document.onclick=hidemenu
 <p>By using this site you acknowledge and agree to the terms of this Privacy Policy. If you disagree with any term or condition in this Privacy Policy, you must not use our site</p><!-- END OF DB -->
 
 
+	    </div>
+		
+		<div class="rightthird">
+
+            
+                <div class="minimenu">
+	                <p class="alert"><strong>RateItAll.com - The Opinion Network</strong><br>1) Find and share opinions on anything; 2) Publish your own ratings list and share it on any site; 3) Make a little money</p>
+	                <ul>
+		                <li class="register"><a href="about.aspx">Learn More</a> or <a href="signup.aspx">Register Now</a></li>
+	                </ul>
+                </div>
+            
+            
+            <div class="minimenu">	<h5>RateItAll Info</h5>	<ul>		<li><a href="http://www.rateitall.com/about.aspx">About RateItAll</a></li>		<li><a href="http://www.rateitall.com/wt-press_room.aspx">Press Room</a></li>		<li><a href="http://www.rateitall.com/wt-management_team.aspx">Management Team</a></li>		<li><a href="http://www.rateitall.com/wt-contact_us.aspx">Contact</a></li>		<li><a href="http://rateitall.blogspot.com">Blog</a></li>	</ul></div>
+                
+            <div class="minimenu">	<h5>Shortcuts</h5>	<ul>		<li><a href="recentcomments.aspx">All Recent Reviews</a></li>		<li><a href="recent.aspx">New Things to Rate</a></li>		<li><a href="browseTagsList.aspx">Browse Weblist Tags</a></li>		<li><a href="browseTagsUser.aspx">Browse People Tags</a></li>		<li><a href="mosthelpfulreviewer.aspx">Most Helpful Reviewers</a></li>		<li><a href="memberstats.aspx">RateItAll Contributors</a></li>		<li><a href="wt-rateitall_economy.aspx">How to Earn <strong>$</strong> on RateItAll</a></li>		<li><a href="http://rateitall.blogspot.com">RateItAll Blog</a></li>	</ul></div>
+                
+		</div>
+		
+	</div>
+
+</div>
+
+              
+    
+      
 
             </div>
         </div>
@@ -311,7 +201,7 @@ document.onclick=hidemenu
 </div>
 
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwKs7p//BwKRtIysAwL3o7/7DW6M/9SuCoVog94i211nkjuedlMf"></form>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwK5upzfAgKRtIysAwL3o7/7DWWgKwQ3YwUlLe3YaVFqJDLSyw3L"></form>
 
 <div id="RateCommentDiv" name="RateCommentDiv" style="position:absolute; left:0px; top:0px; visibility:hidden; z-index:2000;">
 <iframe name="RateCommentFrm" id="RateCommentFrm" width="10" height="10" hspace="0" vspace="0" marginheight="0" marginwidth="0" frameborder="0" noresize="" scrolling="yes"></iframe>
@@ -337,6 +227,15 @@ function DeleteAlertItem(AlertTypeID, ItemID)
 
 
 <script src="/astrack.js" type="text/javascript"></script>
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">
+_qacct="p-c1CGCuOzlacz6";quantserve();</script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-c1CGCuOzlacz6.gif" style="display: none" height="1" width="1" alt="Quantcast"/></noscript>
+<!-- End Quantcast tag -->
+
 
 
 </body></html>
