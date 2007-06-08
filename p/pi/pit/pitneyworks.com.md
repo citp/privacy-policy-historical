@@ -1,23 +1,6 @@
-> *The following text is extracted and transformed from the pitneyworks.com privacy policy that was archived on 2006-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060719140132id_/http%3A//www.pb.com/cgi-bin/pb.dll/jsp/EditorialDetail.do%3Feditorial_id%3Ded_8511%26isPremium%3Dfalse%26isLeft%3Dtrue%26programName%3D/Our%2520Company/About%2520Us/Legal/Privacy%2520Statement%26lang%3Den%26country%3D%26lang%3Den%26country%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitneyworks.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608182456id_/http%3A//www.pb.com/cgi-bin/pb.dll/jsp/EditorialDetail.do%3Feditorial_id%3Ded_8511%26isPremium%3Dfalse%26isLeft%3Dtrue%26programName%3D/Our%2520Company/About%2520Us/Legal/Privacy%2520Statement%26lang%3Den%26country%3D%26lang%3Den%26country%3Dus) for the most accurate reproduction.*
 
 # Privacy Statement
-
-|   
----  
-  
-**LEGAL**  
-  
-[Copyright](http://www.pb.com/cgi-bin/pb.dll/jsp/EditorialDetail.do?editorial_id=ed_8508&isPremium=false&isLeft=true&programName=/Our%20Company/About%20Us/Legal/Copyright&lang=en&country=US)  
-  
-[Trademark](http://www.pb.com/cgi-bin/pb.dll/jsp/EditorialDetail.do?editorial_id=ed_8509&isPremium=false&isLeft=true&programName=/Our%20Company/About%20Us/Legal/Trademark&lang=en&country=US)  
-  
-[Linking](http://www.pb.com/cgi-bin/pb.dll/jsp/EditorialDetail.do?editorial_id=ed_8510&isPremium=false&isLeft=true&programName=/Our%20Company/About%20Us/Legal/Linking&lang=en&country=US)  
-  
-**Privacy Statement**  
-  
-[Terms of Use](http://www.pb.com/cgi-bin/pb.dll/jsp/EditorialDetail.do?editorial_id=ed_10210&isPremium=false&isLeft=true&programName=/Our%20Company/About%20Us/Legal/Terms%20of%20Use&lang=en&country=US)  
-  
-| 
 
 Effective July 1, 2004. The following describes Pitney Bowes' collection, use and disclosure of information gathered from online visitors to certain websites owned and operated by Pitney Bowes.
 
@@ -88,6 +71,3 @@ The Service does not store recipient name and address information (except ZIP co
 **9\. Company's Right to Change Privacy Policy**
 
 By using the Sites, you signify your assent to this Statement. If you do not agree with the terms of this Statement, please do not visit our Sites. We reserve the right, in our sole discretion, to change, modify, add, or remove portions from this Statement at any time. Your continued use of our Site following the posting of changes to these terms shall be deemed your consent to any such changes. Such changes will be evidenced by a change in the effective date for this Statement set forth above.
-
-|  |  |   
----
