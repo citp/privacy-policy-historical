@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the kingice.com privacy policy that was archived on 2006-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061031153106id_/http%3A//www.kingice.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingice.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608021309id_/http%3A//www.kingice.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
 | [](http://www.kingice.com/) |   
 ---|---  
-|  [**BULLET CHAINS**](http://www.kingice.com/HIP-HOP-Bullet-Chains-100180.html) |  [**HIP HOP CROSSES**](http://www.kingice.com/HIP-HOP-Cross-Pendants-100178.html) |  [**HIP HOP RINGS**](http://www.kingice.com/HIP-HOP-Rings-100179.html) |  [**HIP HOP PENDANTS**](http://www.kingice.com/Various-HIP-HOP-Pendants-100184.html) |  [**HIP HOP BRACELETS**](http://www.kingice.com/HIP-HOP-Bracelets-100183.html) |  [**HIP HOP EARRINGS**](http://www.kingice.com/HIP-HOP-Earrings-100334.html) |  [**HIP HOP Grillz**](http://www.kingice.com/Grillz-100437.html)  
----|---|---|---|---|---|---  
+|  [**BULLET CHAINS**](http://www.kingice.com/HIP-HOP-Bullet-Chains-100180.html) |  [**HIP HOP CROSSES**](http://www.kingice.com/HIP-HOP-Cross-Pendants-100178.html) |  [**HIP HOP RINGS**](http://www.kingice.com/HIP-HOP-Rings-100179.html) |  [**PENDANTS**](http://www.kingice.com/Various-HIP-HOP-Pendants-100184.html) |  [**BRACELETS**](http://www.kingice.com/HIP-HOP-Bracelets-100183.html) |  [**EARRINGS**](http://www.kingice.com/HIP-HOP-Earrings-100334.html) |  [**NECKLACES**](http://www.kingice.com/Italian-Silver-Chains-100132.html) |  [**GRILLZ**](http://www.kingice.com/Grillz-100437.html) |  [**ACCESSORIES**](http://www.kingice.com/Accessories-100393.html)  
+---|---|---|---|---|---|---|---|---  
+**Father's Day Sale 20% OFF**, use code **DAD2007** at checkout | Ends 6/17  
 |  | 
 
   
@@ -26,8 +27,9 @@ The credit card numbers are placed in the SQL database on the KING ICE web serve
   
   
 [](http://www.kingice.com/new-arrivals.html)  
+[](http://www.kingice.com/top-sellers.html)  
   
 |  Call Toll Free  
-1-877-KING-ICE | [About US](http://www.kingice.com/company.aspx) | | | [FAQ](http://www.kingice.com/faq.aspx) | | | [Privacy Policy](http://www.kingice.com/privacy.aspx) | | | [Links](http://www.kingice.com/links.aspx) | | | [Articles](http://www.kingice.com/articles.aspx) |   
+1-877-KING-ICE | [FAQ](http://www.kingice.com/faq.aspx) | | | [Privacy Policy](http://www.kingice.com/privacy.aspx) | | | [Links](http://www.kingice.com/links.aspx) | | | [Wholesale](http://www.kingice.com/wholesale.aspx) | | | [Articles](http://www.kingice.com/articles.aspx) |   
 ---|---|---|---|---|---|---|---|---|---|---  
 ©2002-2006 KingIce.com, real hip hop jewelry.
