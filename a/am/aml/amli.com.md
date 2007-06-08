@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amli.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206104215id_/http%3A//www.amli.com/home/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amli.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608133705id_/http%3A//www.amli.com/Home/Privacy.aspx) for the most accurate reproduction.*
 
 # AMLI Residential - Privacy Policy
 
