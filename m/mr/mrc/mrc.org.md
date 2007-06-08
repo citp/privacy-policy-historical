@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the mrc.org privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211173734id_/http%3A//www.mrc.org/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrc.org privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608154721id_/http%3A//www.mrc.org/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement -- Media Research Center
 
-This is the Web site of the [ Media Research Center](http://www.mrc.org/).
+**This is the Web site of the[ Media Research Center](http://www.mrc.org/).**
 
 Our postal address is:  
 325 S. Patrick St.  
 Alexandria, Virginia 22314
 
 We can be reached via e-mail at [ privacy@mediaresearch.org](mailto:privacy@mediaresearch.org?subject=Privacy) or you can reach us by telephone at (800) MRC-1423.
+
+Your investment in the MRC comes with our 100% money-back guarantee: **You must be totally delighted with how your donation to the MRC is used, or you can receive a complete refund of your entire donation, no questions asked.**   In addition, the Media Research Center will provide refunds for donations whose gifts were made in error, provided they contact us within 30 days of making the online gift.
 
 For each visitor to our Web site, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
