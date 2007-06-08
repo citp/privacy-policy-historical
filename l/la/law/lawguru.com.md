@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the lawguru.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021064016id_/http%3A//www.lawguru.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawguru.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608221800id_/http%3A//www.lawguru.com/privacy.html) for the most accurate reproduction.*
 
-# LawGuru.com - Privacy Policy
-
-* * *
-
-* * *
+# 
 
 ## **LawGuru.com Privacy Policy**
 
@@ -12,9 +8,10 @@ This web site, is deeply committed to protecting the privacy of Internet users. 
 
 **Consumer Information**
 
-During the process of delivering our content and information to you, we do not automatically collect any personally identifiable information about you such as name, address, phone number, or e-mail address. However, we do obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example). The information collected by us is used for the purpose of analyzing our traffic and sometimes for targeting ads. 
+During the process of delivering our content and information to you, we do not automatically collect any personally identifiable information about you such as name, address, phone number, or e-mail address. However, we do obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example). The information collected by us is used for the purpose of analyzing our traffic and sometimes for targeting ads.  
 
-In some cases, you may voluntarily provide personal information in order to register for our newsletters, when signing our Guestbook, to submit a question, to use the password protected areas or in response to a specific ad. This information is used by us to respond to your request. We may at times combine this information with other users' information and review it in an aggregate form to understand the type of individuals who visit our website. Any personal information you provide to us **will not** be given or sold to third parties. This information is used by us to serve you better in the future. 
+
+In some cases, you may voluntarily provide personal information in order to register for our newsletters, when signing our guestbook, to submit a question on the Knowledge Base, or to use the password protected areas or in response to a specific ad. This information is used by us to respond to your request. We may at times combine this information with other users' information and review it in an aggregate form to understand the type of individuals who visit our website. We will not disclose your personal information to third parties without your permission except in the following circumstances: i) to protect ourselves from liability; ii) to respond to a legal process or comply with the law; or iii) in a limited number of jurisdictions and legal fields, to have your case reviewed for free by a law firm that practices in the area of law of your case. Nothing transmitted to or from this website constitutes the establishment of an attorney-client relationship between you and any attorney.
 
 **Cookies**
 
@@ -31,7 +28,3 @@ If you have any additional questions about our dedication to consumer privacy, p
 **Third Party Ads**
 
 At times LawGuru.com works with third parties that serve ads to and on this site. Some of these third parties may also use cookies in conjunction with their ads. LawGuru.com may also work with advertisers who may collect information that you would voluntarily provide to them. Please refer to those advertisers individual privacy policies for information on how they manage the privacy of information . 
-
-* * *
-
-* * *
