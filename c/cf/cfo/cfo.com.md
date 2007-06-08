@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the cfo.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205210648id_/http%3A//www.cfo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfo.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608060958id_/http%3A//www.cfo.com/privacy) for the most accurate reproduction.*
 
 # CFO.com - Privacy Policy
 
   
-CFO.com is committed to protecting the privacy of its users. CFO.com is part of The Economist Group.
+CFO Publishing is committed to protecting the privacy of its users. CFO.com is part of CFO Publishing and The Economist Group.
 
 Collection and Use of User Details  
 Personal details of users of CFO.com are collected and processed when users visit our website.
@@ -15,9 +15,13 @@ User information is collected and retained to fulfill orders and notify users of
 CFO.com is part of The Economist Group which operates from offices worldwide. Steps have been taken to ensure that consistently high standards of data protection are adhered to in all regional offices for all the forms of processing mentioned above. Results of in-house research and analysis is anonymized or aggregated and do not reveal any personal details about individual users. 
 
 User Choices  
-Registration and order forms provide users with a series of choices regarding the products and services provided through the CFO.com website, including but not limited to, promotional activities, forms of communication and third party processing. 
+Registration and order forms provide users with a series of choices regarding the products and services provided by CFO Publishing, including but not limited to, promotional activities, forms of communication and third party processing. 
 
-You may also indicate whether you wish to receive such information from CFO.com affiliate and selected partner companies. If you do not wish to receive information from these companies, please mark the appropriate box on the registration form. 
+On these forms, you may indicate whether you wish to receive such information from CFO Publishing affiliate and selected partner companies. If you do not wish to receive information from these companies, please mark the appropriate box on the registration form. 
+
+CFO Publishing (CFO magazine, CFO.com, and CFO Enterprises) respects the privacy of its customers and does not disclose the contents of its email lists to third parties; however, CFO Publishing allows third parties to mail to these lists via a private email deployer, so long as the registrants have expressly provided CFO their permission to receive third party offers and information. 
+
+CFO also rents a portion of its postal mailing address lists to reputable firms. 
 
 Cookies  
 A cookie is a small file which is placed on a user's hard drive or linked to a user's email address when a user visits CFO.com. This file allows the user to move quickly and easily around our website by keeping a record of the user's previous visits. CFO.com uses cookies strictly for identification purposes. We do not link this information to users' personally identifiable details. 
