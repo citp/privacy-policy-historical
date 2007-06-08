@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the apress.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209054649id_/http%3A//www.apress.com/about/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apress.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609013314id_/http%3A//www.apress.com/about/privacyPolicy.html) for the most accurate reproduction.*
 
-# A P R E S S . C O M
+# APRESS.COM | Books for Professionals, by Professionals ...
 
 [Home](https://web.archive.org/)  About
 
@@ -9,8 +9,8 @@
 Apress is committed to protecting your privacy. This Privacy Policy, describes how we collect and use your personal information, and choices you have concerning our use of such information. Please read this Privacy Policy carefully. From time to time, we may revise this Privacy Policy to address new issues. If you have any questions or concerns about our privacy policies, please send email to [customersupport@apress.com](mailto:customersupport@apress.com) or mail us at the following address: 
 
 Apress, Inc.  
-2560 Ninth St., Ste. 219  
-Berkeley, CA 94710
+2855 Telegraph Avenue, Suite 600  
+Berkeley, CA 94705-1128 
 
 ### Scope of Privacy Policy 
 
@@ -60,7 +60,7 @@ The password protected portions of our Web Site are intended to be for your bene
 
 We may occasionally share your contact details with other companies, external organizations and/or individuals so that they can contact you with details of goods and/or services which they think may interest you. We will not do so, however, if you indicate to us, either by writing us or on a  Registration Screen if appropriate that you would prefer not to receive such information. 
 
-If you would like further details in relation to the above, please contact us at Apress, Inc., 2560 Ninth St., Ste. 219 Berkeley, CA 94710 or email us at [info@apress.com](mailto:info@apress.com). 
+If you would like further details in relation to the above, please contact us at Apress, Inc., 2855 Telegraph Avenue, Suite 600, Berkeley, CA 94705-1128 or email us at [info@apress.com](mailto:info@apress.com). 
 
 ### When Might we Transfer your Personal Information Abroad? 
 
@@ -96,7 +96,7 @@ Please note that if you communicate with us electronically, including by e-mail,
 
 ### Requests for Access to Personal Information 
 
-We are happy to provide you with details of the Personal Information that we process about you or retain in our database. To protect your Personal Information, we follow strict storage and disclosure procedures, which means that we will require proof of identity from you prior to disclosing such information. We may charge a small administration fee in relation to any requests for access to Personal Information. Please direct any such request to Apress, Inc., 2560 Ninth St., Ste. 219, Berkeley, CA 94710. 
+We are happy to provide you with details of the Personal Information that we process about you or retain in our database. To protect your Personal Information, we follow strict storage and disclosure procedures, which means that we will require proof of identity from you prior to disclosing such information. We may charge a small administration fee in relation to any requests for access to Personal Information. Please direct any such request to Apress, Inc., 2855 Telegraph Avenue, Suite 600, Berkeley, CA 94705-1128. 
 
 ### Information Updates 
 
