@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shwedream.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618150620id_/http%3A//shwedream.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shwedream.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608044934id_/http%3A//www.shwedream.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
-# Myanmar Entertainment | Shwe Dream Myanmar Community
+# Streaming Videos and Audios | Shwe Dream Myanmar Community
 
 **Privacy Policy**
 
