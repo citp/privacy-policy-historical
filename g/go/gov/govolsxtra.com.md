@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govolsxtra.com privacy policy that was archived on 2006-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061031175051id_/http%3A//web.knoxnews.com/contactinfo/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govolsxtra.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608193617id_/http%3A//web.knoxnews.com/contactinfo/privacypolicy.shtml) for the most accurate reproduction.*
 
 # KnoxNews | Knoxville News Sentinel - Knoxville, Tennessee
 
@@ -20,6 +20,15 @@ We also use cookies in connection with our chat rooms in order to record your pr
 
 We may require you to supply us with personal information (demographic information such as average age, income, education, population data, zip codes) during a "registration" process online prior to using certain features of our site. For example, you may be required to register to use chat rooms, forums, to access archival stories, to subscribe to newspapers, and to access other features. We use this general information to aggregate information according to demographics, such as gender, geographic location, age, income or a combination of these or other demographics.
 
+Like many other commercial sites, our sites may utilize an electronic file called a web beacon to count users who have visited a page or recognize users by accessing certain cookies. Our site and/or our partner web sites use web beacons in the following way: 
+
+  * For auditing purposes and to collect information from the websites of certain partners. 
+  * Information recorded through these web beacons is used to report anonymous individual and/or aggregate information about our users from our partners. Aggregate information may include demographic and usage information. No personally identifiable information about you is shared with partners. 
+
+
+
+Our practice is to require our partners to disclose the presence of these web beacons on their pages in their privacy policies and state what choices are available to users regarding the collection and use of this information. You may choose to opt-out by contacting us at the e-mail address, postal address or telephone number stated above. 
+
 In addition, users may complete a subscription form online in order to subscribe to **The Knoxville News Sentinel**. To subscribe, users must submit personal information in order for us to send the newspaper to you.
 
 **II. Use of User Information**
@@ -34,7 +43,7 @@ We do not share personal identifying information with any third party without yo
 
 In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to [**webmaster@knoxnews.com**](mailto:webmaster@knoxnews.com), or you can reach us by telephone at **(865) 342-6801**. You can also write us at:
 
-Knoxville News-Sentinel Co.  
+Knoxville News Sentinel Co.  
 Online Media  
 P.O. Box 59038  
 Knoxville, TN 37950
