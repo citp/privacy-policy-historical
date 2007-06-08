@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gerson.org privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206233058id_/http%3A//gerson.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gerson.org privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608161126id_/http%3A//www.gerson.org/privacy.asp) for the most accurate reproduction.*
 
 # The Gerson Institute - Alternative Cancer Treatment
 
