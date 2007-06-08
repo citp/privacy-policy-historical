@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bradfordexchange.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616195706id_/http%3A//www.collectiblestoday.com/ct/cs/cs_privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bradfordexchange.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608223438id_/http%3A//www.collectiblestoday.com/ct/cs/cs_privacy_policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - Collectibles Today
 
@@ -58,6 +58,4 @@ As we continue to develop our business, we might sell or buy businesses and asse
 
 Visit Us Often:   
 Please visit this Privacy Policy frequently, as our business changes all the time, and we update this policy to reflect those changes. By visiting our site you agree that we may collect and use information as stated in our privacy policy. If we change our privacy policy, we will post the changes on this page so you are always informed about what information we collect, how we use it, and under what circumstances we disclose it.  
-  
-  
-As an AOL Certified Merchant, we have agreed to abide by AOL's privacy policy. To read AOL's privacy policy, [click here](http://www.aol.com/info/privacy.html).
+
