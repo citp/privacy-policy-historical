@@ -1,19 +1,18 @@
-> *The following text is extracted and transformed from the sovereignsociety.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216172156id_/http%3A//sovereignsociety.com/vmembers.php%3Fsec%3Dsovinfo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sovereignsociety.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608035517id_/http%3A//www.sovereignsociety.com/vmembers.php%3Fsec%3Dsovinfo) for the most accurate reproduction.*
 
 # The Sovereign Society - Important Information - Terms of Use
 
 TERMS OF USE -- THIS IS IMPORTANT -- PLEASE READ 
 
-THE SOVEREIGN SOCIETY WEBSITE REQUIRES CONSIDERATION FOR AND AS A CONDITION OF ALLOWING YOU ACCESS. READING AND ACCEPTING THE TERMS OF USE AND READING AND ACCEPTING THE PROVISIONS OF THE SOVEREIGN SOCIETY PRIVACY POLICY ARE REQUIRED CONSIDERATIONS FOR GRANTING YOU THE RIGHT TO VISIT, READ OR INTERACT WITH IT. 
+The Sovereign Society Website requires consideration for and as a condition of allowing you access.  Reading and accepting the terms of use and reading and accepting the provisions of The Sovereign Society privacy policy are required considerations for granting you the right to visit, read or interact with it.
 
-ALL PERSONS ARE DENIED ACCESS TO THIS SITE UNLESS THEY READ AND ACCEPT THE TERMS OF USE AND THE PRIVACY POLICY. BY VIEWING OR INTERACTING WITH THIS WEBSITE OR WITH ANY BANNER, POP-UP, OR ADVERTISING THAT APPEARS ON IT, YOU ARE AGREEING TO ALL THE PROVISIONS OF THE SOVEREIGN SOCIETY TERMS OF USE AND THE PRIVACY POLICY. 
+All persons are denied access to this site unless they read and accept the terms of use and the privacy policy.  By viewing or interactinjg with this website or with any banner, pop-up, or advertising that appears on it, you are agreeing to all the provisions of The Sovereign Society terms of use and the privacy policy. 
 
-ALL PERSONS UNDER THE AGE OF 18 ARE DENIED ACCESS TO THIS WEBSITE. IF YOU ARE UNDER 18 YEARS OF AGE, IT IS UNLAWFUL FOR YOU TO VISIT, READ, OR INTERACT WITH THIS WEBSITE OR ITS CONTENTS IN ANY MANNER. THIS WEBSITE SPECIFICALLY DENIES ACCESS TO ANY INDIVIDUAL THAT IS COVERED BY THE CHILD   
-ONLINE PRIVACY ACT (COPA) OF 1998. 
+All persons under the age of 18 are denied access to this website.  If you are under 18 years of age, it is unlawful for you to visit, read, or interact with this website or its contents in any manner.   This website specifically denies access to any individual that is covered by the Child Online Privacy Act (COPA) of 1998.
 
-THIS WEBSITE RESERVES THE RIGHT TO DENY ACCESS TO ANY PERSON OR VIEWER FOR ANY REASON. UNDER THE TERMS OF THE PRIVACY POLICY, WHICH YOU ACCEPT AS A CONDITION FOR VIEWING, THE WEBSITE IS ALLOWED TO COLLECT AND STORE DATA AND INFORMATION FOR THE PURPOSE OF EXCLUSION AND FOR MANY OTHER USES. 
+This website reserves the right to deny access to any person or viewer for any reason.  Under the terms of the privacy policy, which you accept as a condition for viewing, the website is allowed to collect and store data and information for the purpose of exclusion and for many other uses.
 
-THE TERMS OF USE AGREEMENT MAY CHANGE FROM TIME TO TIME. VISITORS HAVE AN AFFIRMATIVE DUTY, AS PART OF THE CONSIDERATION FOR PERMISSION TO VIEW THIS WEBSITE, TO KEEP THEMSELVES INFORMED OF CHANGES. 
+The terms of use agreement may change from time to time.  Visitors have an affirmative duty, as part of the consideration for permission to view this website, to keep themselves informed of changes.
 
 PARTIES TO THE TERMS OF USE AGREEMENT   
 Viewers, users, or customers, collectively referred to herein as "Visitors," are parties to this agreement. The website (www.sovereignsociety.com) and its owners and/or operators are parties to this agreement, herein referred to as "Website." 
@@ -51,12 +50,11 @@ When you subscribe to The Sovereign Society Offshore A-Letter via e-mail, your e
 You can remove your address from our e-mailing list by following the instructions at the end of every e-mail we send. Any e-mail you send to The Sovereign Society Offshore A-Letter is considered confidential unless you tell us otherwise. We will not add your name to our e-mail list without your permission. If your inquiry is about an order or subscription, Agora's customer service staff will ask you to verify your identity by confirming information already in your record. 
 
 Personal Information   
-We will never ask you for personal information--your credit card number, for example--except when you place an order. At that time, we will provide a secure (SSL, encrypted) connection and require you to submit only the information needed to complete and fulfill your order. Only authorized employees of Agora, Inc. (our parent company) will have access to this information. We will not sell or rent this information to anyone, nor share it in any other way, unless required to by a law enforcement agency that takes the proper steps to require it. Please note that "personal information" does not include your mailing address. See Mailing Address, below. 
+We will never ask you for personal information--your credit card number, for example--except when you place an order. At that time, we will provide a secure (SSL, encrypted) connection and require you to submit only the information needed to complete and fulfill your order. Only authorized employees will have access to this information. We will not sell or rent this information to anyone, nor share it in any other way, unless required to by a law enforcement agency that takes the proper steps to require it. Please note that "personal information" does not include your mailing address. See Mailing Address, below. 
 
 Mailing Address   
 When you give us your mailing address, we will use this information to fulfill your order or subscription and to send you information on other products that may suit your interests. If you don't want us to send you this other information, please contact our customer service department: 
 
-  
 Order Processing Center   
 Attn: Customer Service   
 P.O. Box 925   
