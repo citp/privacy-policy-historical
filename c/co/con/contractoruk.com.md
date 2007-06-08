@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contractoruk.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207100440id_/http%3A//www.contractoruk.com/about/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contractoruk.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608175909id_/http%3A//www.contractoruk.com/about/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy Statement :: Contractor UK
 
