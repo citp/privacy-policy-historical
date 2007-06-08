@@ -1,79 +1,99 @@
-> *The following text is extracted and transformed from the angelsoft.net privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208124300id_/http%3A//www.angelsoft.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angelsoft.net privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608053016id_/http%3A//www.angelsoft.net/privacy.html) for the most accurate reproduction.*
 
-# Angelsoft | Privacy Policy
+# None
 
-Privacy Policy
+Angelsoft is committed to protecting your privacy. Maintaining the trust of our users is key to the success of our business, and this Privacy Policy is intended to clearly explain our practices so you can feel confident using our services. Please take the time to read the Angelsoft Privacy Policy below. This Policy explains Angelsoft's privacy practices for Angelsoft.net and the entire Angelsoft platform. It includes what type of personal information is collected, how that information is used, and with whom the information may be shared. If you have any questions regarding this policy, please contact us at [info@angelsoft.net](mailto:info@angelsoft.net).
 
-Information Collection & Use
+This Privacy Policy is a part of the Terms of Service for the Angelsoft platform. By agreeing to the Terms of Service and using the Angelsoft platform, you agree to be bound by the terms described in this Privacy Policy. Any disputes that arise over privacy between a user and Angelsoft are subject to the provisions of this Policy and the Terms of Service for the Angelsoft platform, which is available at <http://www.angelsoft.net/tos.html>.
 
-Information requests
+  * What is "Personal Data"?
+  * What kind of Personal Data is collected?
+  * What will my Personal Data be used for?
+  * Will any third parties ever see my Personal Data?
+  * Can I get my Personal Data if I leave Angelsoft?
+  * What is Aggregated Data, and how is it used?
+  * What is Website Data, and how is it used?
+  * Who collects information?
+  * What security measures are in place to protect my data?
+  * When will Angelsoft contact me?
+  * Legal Disclaimers
+  * Changes to the Privacy Policy
+  * Contacting Angelsoft
 
-In order to request information via this web site, you must first complete the form. We use the information you provide (such as name and email address) solely to contact you about your request. Angelsoft LLC is the sole owner of the information collected on [www.angelsoft.net.](http://www.angelsoft.net/) We value your trust and are committed to protecting your privacy. Angelsoft does not share this information with any third parties.
+ 
 
-Communications from the Site
+"Personal data" is information about you or your angel group that is personally identifiable and is not otherwise publicly available, including, for example, your name, contact information, and the deals you have participated in.
 
-When you fill out our information request form, you�ll be given the option to subscribe to periodic announcements and updates. We will occasionally send you information on angel investing developments, technology, products and other topics of interest. Out of respect for your privacy, you have an option not to subscribe at the outset, and we provide you a way to unsubscribe at any time. Please see the "Choice and Opt-out." 
+Personal data does not include website data or aggregated data. For our policies regarding "Website Data" and "Aggregated Data", please see the "What is Website Data, and how is it used?" and "What is Aggregated Data, and how is it used?" sections of this policy.  
+BACK
 
-Profile 
+When you set up your account with Angelsoft, you will be required to provide certain personal data including your name and email address. Individual angel groups may also require entrepreneurs to enter detailed information about their company.
 
-We store information that we collect through cookies, log files and clear gifs, to create a "profile" of your preferences. We do not tie your personally identifiable information and your site visit history to information in the profile. We share do not share your profile with other third parties. In order to provide better communications to you, we may on occasion supplement the personal information you submitted to us with information from third party sources such as industry databases and directories.
+You may also be asked to provide other optional personal data like a brief biography, address and phone number. When you interact with the Angelsoft platform, for example by sending a message or uploading a document, this information is also stored on Angelsoft's secure servers.  
+BACK
 
-Information Sharing and Disclosure
+Angelsoft uses your personal data to maintain your account and to provide you with the angel group management and deal collaboration services that serve as the core of the Angelsoft platform. Angelsoft will NEVER use your personal data for any use other than that for which it is submitted without your prior consent.  
+BACK
 
-Aggregate Information (non-personally identifiable)
+Under certain business or legal conditions, Angelsoft may have to disclose your personal data to others.
 
-We may share aggregated demographic information about our user base with future professional services sponsors. This information does not identify individual users. We do not link aggregate user data with personally identifiable information.
+  * **Affiliated Third Parties**  
+Angelsoft may employ or engage other companies and individuals to perform necessary business functions on behalf of Angelsoft (e.g. outside contractors or service providers). If it is necessary to perform these functions these persons may be provided with personal data, but will be prohibited by contract from using this information for any other purpose other than providing the required services.
+  * **Legally Required Disclosure**  
+Under certain circumstances, disclosure of your personal data may be required by law. Angelsoft may disclose your information if, in its own best judgment, it is required to do so in order to comply with a judicial or governmental subpoena, warrant, or other order, or to a government institution that has asserted its lawful authority to obtain the information.
+  * **Change of Ownership**  
+In the event that ownership of Angelsoft was to change as a result of a merger, acquisition or transfer to another company, your personal data may be transferred. If such a transfer takes place, you will be notified of any material changes to the Privacy Policy.
 
-Legal Disclaimer
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site
 
-Choice/Opt-out
+BACK
 
-If you no longer wish to receive our announcements and updates, you may opt-out of receiving them by following the instructions included in each newsletter or communication, by emailing us at [subscriptions@angelsoft.net](mailto:subscriptions@angelsoft.net) with "unsubscribe" in the subject line, or by clicking on [www.angelsoft.net/unsubscribe.](http://www.angelsoft.net/unsubscribe)
+If a group chooses to leave the Angelsoft platform, Angelsoft will provide that group with a copy of all the personal data it has entered into the system. This data will be exported from our system in a format readable by any standard SQL database.
 
-Log Files
+Upon a user's request, Angelsoft will provide a reasonable description of that user's personal data maintained by Angelsoft. If you wish to receive such a description, please contact us at [info@angelsoft.net](mailto:info@angelsoft.net).  
+BACK
 
-As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp and clickstream data. 
+Aggregated data is information that will only be collected in a non-identifiable format and may be combined with other non-identifiable information.
 
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users� movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personally identifiable information
+Angelsoft uses aggregated data to generate accurate metrics about the early stage private equity industry. This information is packaged and sold to third parties such as governments, economic development agencies, and financial institutions. This information is used and analyzed only in the aggregate, and does not contain any personally identifiable personal data. Angelsoft maintains the right to use this information without limitation.  
+BACK
 
-Cookies
+Website data is information that is not about an individual or specific group; rather, it is information about the overall traffic to our website. Examples include the number of visitors to the Angelsoft.net web site and the number of registered users of the Angelsoft platform. Angelsoft may extract and use such web traffic data for purposes including, but not limited to, traffic analysis and business decision making. The statistics generated in this manner contain no personal data and cannot be used to gather any information about individual visitors to the site.
 
-A cookie is a small text file that is stored on a user�s computer for record-keeping purposes. We use cookies on this site. We use both session ID cookies and/or persistent cookies. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time; it�s used to store things like passwords so you don�t have to enter them more than once. You can remove persistent cookies by following directions provided in your Internet browser�s "help" file. If you reject cookies, you may still use our site, but your ability to use some areas of our site may be limited.
+Angelsoft may also use non-identifying "cookies" to provide you with easier site navigation. A cookie is a small amount of data sent to a user's web browser from a web server which is then stored on the user's hard drive. Angelsoft's cookies do not generate any personal data, do not read personal data from your computer and are never tied to any personally identifiable information.  
+BACK
 
-Some of our business partners or linked sites may use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by [www.angelsoft.net](http://www.angelsoft.net/) only and does not cover the use of cookies by any third parties linked to this site.
+Angelsoft LLC owns and operates the Angelsoft.net web site and the Angelsoft service platform. Our mailing address is 30 East 23rd Street, New York, NY 10010 and our customer service email address is [info@angelsoft.net](mailto:info@angelsoft.net).  
+BACK
 
-Clear Gifs (Web Beacons/Web Bugs)
+Angelsoft is committed to ensuring the integrity of our users' data and has adopted industry-leading practices to safeguard your personal information from both disclosure and loss. In order to best provide for data integrity, our users' data is stored in a secure facility under controlled environmental conditions. The data is protected by both physical and biometric security measures. All data is stored on redundant systems and is backed up daily to an off-site facility.
 
-We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user�s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers� personally identifiable information. 
+All of Angelsoft's employees that may come into contact with your personal information are under strict contractual obligations to neither disclose your information to any non-affiliated third parties nor to use your information for any purpose that is not necessary to provide you with our services.
 
-We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see "Choice and Opt-out."
+Angelsoft uses industry standard technological means to protect your personal information. We use encryption and a comprehensive authentication protocol, among other technical measures, to provide the best possible level of security. However, please remember that no security system on the internet is "perfect."  
+BACK
 
-Links to Other Sites
+Angelsoft will communicate with you in response to your requests for service or customer support. We will contact you either by phone or by email, according to your preference.
 
-This Web site contains links to other sites that are not owned or controlled by Angelsoft LLC. Please be aware that we, Angelsoft, are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies only to information collected by this web site.
+Angelsoft will send you service-related emails if it becomes necessary to do so. For example, if the Angelsoft Platform will be unavailable for a short time due to system maintenance, we may notify you via email.
 
-Access to Personally Identifiable Information
+Angelsoft may also send you an email in order to notify you of updates to our Privacy Policy, Terms of Service, or other agreement you have with Angelsoft.  
+BACK
 
-If your personally identifiable information changes, or if you no longer desire to receive information from us, you may correct, update, delete or deactivate it by making the change on our member information page or by emailing us at [subscriptions@angelsoft.net](mailto:subscriptions@angelsoft.net) or by contacting us by telephone or postal mail at the contact information listed below.
+Angelsoft may provide links to other web sites. Angelsoft is not responsible for the privacy practices or content of these sites. In order to safeguard your privacy, please review the privacy policies of any sites you may visit before providing any Personal Information to them.
 
-Security
+This Privacy Policy only applies to your relationship with Angelsoft. It does not apply to the interactions you have with any other individual or group. In particular, the administrator of your group has the ability to share information you submit to the Angelsoft platform (usually with other group members). Angelsoft is not responsible for any disclosure made by any of these other users of the Angelsoft platform. Your privacy among your group is governed solely by any agreements you may have with that group and is beyond the scope of this Privacy Policy.
 
-The security of your personal information is important to us. When you enter sensitive information (such as private group information) on our information request forms, we encrypt that information using secure socket layer technology (SSL). We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+Angelsoft exercises reasonable efforts to safeguard the confidentiality of your personal information; however, transmissions protected by industry standard technological and administered by humans cannot be guaranteed to be absolutely secure. Angelsoft will not be liable for unauthorized disclosure of personal information that occurs through no fault of Angelsoft including, but not limited to, errors in transmission and the unauthorized acts of Angelsoft's employees.
 
-If you have any questions about security on our Web site, you can send email us at [webmaster@angelsoft.net](mailto:webmaster@angelsoft.net).
+Angelsoft does not provide products or services for individuals under the age of 18. We neither collect nor maintain information from users actually known to be under the age of 18.  
+BACK
 
-Business Transitions
+From time to time, Angelsoft may update this Privacy Policy in order to reflect changes in our service or security practices. Whenever such changes are made, you will be provided with an updated copy of this Policy. Additionally, this Policy will always be available at [www.angelsoft.net/privacy.html](http://www.angelsoft.net/privacy.html). You should periodically review the Policy to stay informed of how Angelsoft protects your personal information.  
+BACK
 
-In the event Angelsoft LLC goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via a prominent notice on our web site for 30 days of any such change in ownership or control of your personal information.
+If you have any questions about this Privacy Policy, or believe that its terms have not been complied with, please contact us at [info@angelsoft.net](mailto:info@angelsoft.net).  
+BACK
 
-Changes in this Privacy Statement
-
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
-
-Contact Us
-
-If you have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/web/20061208124300id_/http%3A//www.angelsoft.net/contact.html)
+Policy last updated May 1, 2007  
+Copyright © 2006 Angelsoft LLC. All rights reserved.
