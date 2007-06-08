@@ -1,22 +1,12 @@
-> *The following text is extracted and transformed from the gdiapers.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205221551id_/http%3A//www.gdiapers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gdiapers.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608165622id_/http%3A//www.gdiapers.com/privacy) for the most accurate reproduction.*
 
 # gDiapers - Privacy Policy
-
-## Privacy & Return Policy
 
 gDiapers and its subsidiaries (collectively, "Company") recognize privacy as an important issue and have prepared this Privacy Policy to inform you of our data collection and use practices and confirm our commitment to keep your personal information secure. 
 
 As Company services evolve, we may revise this policy, so please check back frequently. If you have questions about Company privacy practices please contact us at [info@gdiapers.com](mailto:info@gdiapers.com).
 
 Please note that this policy only applies to our data collection and use practices for the Company websites and our other products and services and does not apply to the data collection and use practices of other companies or organizations whose products, services or websites you may use or gain access through the Company websites. For information on the data collection and use practices of those third parties, please refer to their respective policies and procedures.
-
- **Our Return Policy/Product Guarantee**  
-At gDiapers, your satisfaction with our product and its performance is important to us. If you are unhappy with your purchase from gDiapers.com, you may request a return within 30 days of purchase for exchange credit or refund. Since we are in the diaper business, we need to ask that items be packaged in their original condition and packaging, unused and unwashed.
-
-Shipping charges are not refundable unless your items have arrived damaged or packaged incorrectly.  In this event, please call us and we will immediately rectify the situation.  For defective products purchased from a retail store, please return to the retailer for credit or replacement.
-
-For all return requests for product purchased through our webstore, please call our Customer Service department at 1-866-553-5874 to speak with a gTeam member. Please have your order information readily available when calling (conveniently located on the packing list). Once you have received your Return Authorization (RA) Number, write it in on the pre-addressed return  
-shipping label located at the bottom of your packing slip, package your return securely and place the label on the outside of the package. We suggest you insure it for your protection before sending it back to us.
 
  **Information Collection and Use  
 **Company collects personally identifiable information when you register for a Company account, and when you use certain Company products and services. Company may also receive personally identifiable information from its resellers and other business partners. 
