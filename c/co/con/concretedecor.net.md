@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the concretedecor.net privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216084834id_/http%3A//www.concretedecor.net/html/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concretedecor.net privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608040039id_/http%3A//www.concretedecor.net/html/privacy_policy.html) for the most accurate reproduction.*
 
 # Concrete Decor and PaintPro Magazine Publishers
 
