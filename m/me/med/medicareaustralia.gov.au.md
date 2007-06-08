@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the medicareaustralia.gov.au privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209080302id_/http%3A//www.medicareaustralia.gov.au/about/generic/privacy_security.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicareaustralia.gov.au privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608204854id_/http%3A//www.medicareaustralia.gov.au/about/generic/privacy_security.shtml) for the most accurate reproduction.*
 
-# About Medicare Australia - Privacy & Security
+# Medicare Australia - :: Privacy & Security::
+
+**Page last modified:** 6 June, 2007
 
 Our policy is to respect and protect the privacy of our consumers and users. This policy statement explains how we collect online information and how we use it.
 
-With respect to the collection, use and disclosure of Personal Information*, Medicare Australia complies with the Information Privacy Principles of the Commonwealth Privacy Act 1988 and the Guidelines for Federal and ACT Government World Wide Websites issued by the Office of the Privacy Commissioner (available at [http://www.privacy.gov.au/internet/web/index.html](https://web.archive.org/webinterprise/intercom.nsf/redirect?OpenForm&URL=http://www.privacy.gov.au/internet/web/index.html)). 
+With respect to the collection, use and disclosure of Personal Information*, Medicare Australia complies with the Information Privacy Principles of the Commonwealth Privacy Act 1988 and the Guidelines for Federal and ACT Government World Wide Websites issued by the Office of the Privacy Commissioner (available at [http://www.privacy.gov.au/internet/web/index.html](http://www.medicareaustralia.gov.au/webinterprise/intercom.nsf/redirect?OpenForm&URL=http://www.privacy.gov.au/internet/web/index.html)). 
 
   * Your privacy 
   * Collection of personal information 
@@ -58,7 +60,7 @@ You will know that you are using a secure connection when:
 
 
 
-Medicare Australia is using available technology to protect the security and confidentiality of your transmissions over the Internet. However, if you do not wish to send personal details online, you can contact us by phone, in person, or in writing (see [contact us](https://web.archive.org/web/20061209080302id_/http%3A//www.medicareaustralia.gov.au/about/generic/contact_us.htm) for details).
+Medicare Australia is using available technology to protect the security and confidentiality of your transmissions over the Internet. However, if you do not wish to send personal details online, you can contact us by phone, in person, or in writing (see [contact us](https://web.archive.org/web/20070608204854id_/http%3A//www.medicareaustralia.gov.au/corporate/contact_us.shtml) for details).
 
 ## General security advice
 
@@ -104,7 +106,7 @@ A cookie is a piece of information contained within a small file that an Interne
 
 ## Transmission of data via the Internet
 
-While Medicare Australia endeavours to make this site secure, users should be aware that the World Wide Web is an insecure network that may be at risk of transactions being viewed, intercepted or modified by third parties. If you wish to contact Medicare Australia without sending information via the Internet, please see [contact us](https://web.archive.org/web/20061209080302id_/http%3A//www.medicareaustralia.gov.au/about/generic/contact_us.htm) for details.
+While Medicare Australia endeavours to make this site secure, users should be aware that the World Wide Web is an insecure network that may be at risk of transactions being viewed, intercepted or modified by third parties. If you wish to contact Medicare Australia without sending information via the Internet, please see [contact us](https://web.archive.org/web/20070608204854id_/http%3A//www.medicareaustralia.gov.au/corporate/contact_us.shtml) for details.
 
 ## Disclaimer
 
