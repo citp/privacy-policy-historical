@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kgw.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205204659id_/http%3A//www.kgw.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kgw.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608044848id_/http%3A//www.kgw.com/registration/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | About Us | kgw.com | News for Oregon and SW Washington
 
