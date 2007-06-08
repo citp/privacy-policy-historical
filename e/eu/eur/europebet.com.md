@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the europebet.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208075656id_/http%3A//www.gosportsbet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the europebet.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608030944id_/http%3A//www.gosportsbet.com/privacy) for the most accurate reproduction.*
 
-# GoSportsBet.com - Privacy Policy
+# Online sports betting at GoSportsBet.com - Online gambling, sportsbook, and casino
 
 GoSportsBet.com has created this privacy statement in order to demonstrate a firm commitment to maintaining your privacy. The following statement discloses the information gathering and dissemination practices for GoSportsBet.com.
 
