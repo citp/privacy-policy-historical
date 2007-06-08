@@ -1,107 +1,80 @@
-> *The following text is extracted and transformed from the ozlotteries.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603193537id_/http%3A//www.ozlotteries.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozlotteries.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608021652id_/http%3A//www.ozlotteries.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Statement for OzLotteries.com
+# Privacy Policy
 
-## About Us
+**Privacy Policy**
 
-This is a privacy policy for OzLotteries.com. Our homepage on the Web is located at [ http://www.ozlotteries.com](http://www.ozlotteries.com/). The full text of our privacy policy is available on the Web at [ http://www.ozlotteries.com/privacy/](http://www.ozlotteries.com/privacy/) Users may go to [ http://www.ozlotteries.com/privacy/](http://www.ozlotteries.com/privacy/) for information on how to opt-in or opt-out of use of their information. 
+At Ozlotteries.com, we would like to assure you that we take your information and privacy very seriously. The following is a description of what we do and don't do with your details.
 
-We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
-    
-    
-    OzLotteries.com
-    Level M, BGC Centre
-    28 The Esplanade
-    Perth, WA 6000 
-    Australia
-    
+**Why we collect personal information**
 
-You may contact us by e-mail at [ info@ozlotteries.com](mailto:info@ozlotteries.com). You may call us at +61 8 9322 3213. 
+Any personal information that you submit will be used simply to process your orders and is protected by our secure server.
 
-## Dispute Resolution and Privacy Seals
+**How we collect personal information**
 
-We have the following privacy seals and/or dispute resolution mechanisms. If you think we have not followed our privacy policy in some way, they can help you resolve your concern. 
+Ozlotteries.com collects personal information in a number of ways, including:
 
-  * **Customer Assurance** : Please contact us by email if you have any questions in regards to the information that we collect. We will be able to resolve your concerns in regards to your privacy. 
+  * directly from you, such as when you enter your personal details on our website (eg during account set up); 
+  * from third parties such as our affiliates;
+  * information provided through the use of cookies.
 
 
 
-## Additional Information
+**What are cookies?**
 
-This policy is valid for 1 day from the time that it is loaded by a client. 
-
-## Data Collection
-
-P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 2 data groups. The data practices of each group will be explained separately. 
-
-* * *
-
-### Group "Basic information"
-
-We collect the following information: 
-
-  * Click-stream data
-  * HTTP protocol elements
-  * User's interaction with a page or resource
-  * Computer information
+  * Cookies are alphanumeric identifiers that are placed on your computer's hard drive through your web browser.
+  * Cookies enable our systems to recognise your browser and maintain your purchasing details in your shopping basket.
+  * By disabling cookies, you will not be able to participate in some of the features offered by Ozlotteries.com.
+  * Most Internet browsers are pre-set to accept cookies. If you prefer not to receive cookies, you can adjust your Internet browser to disable or to warn you when cookies are used. As there are many browsers in the marketplace, the easiest way to change your settings is by searching for Cookies in your Help/Contents and Index option on your browser. 
+  * We recommend that you leave your Cookies enabled; otherwise you will not be able to purchase lotto tickets with us.
+  * Our cookies don't send us back any information about your computer or any other information on your hard drive. 
 
 
 
-This data will be used for the following purposes:
+**How we use Personal Information**
 
-  * Completion and support of the current activity.
-  * Web site and system administration.
-  * Research and development.
+Information that you have provided us with, will be used in the following ways:
 
-
-
-This data will be used by ourselves and our agents. 
-
-The following explanation is provided for why this data is collected:
-
-> Data collected from all Web users: access logs, and search strings (if entered).
-
-* * *
-
-### Group "Mailing registration"
-
-We collect the following information: 
-
-  * Online contact information
+  * identify you and to assist you to subscribe to our website services;
+  * provide the services you require;
+  * administer and manage those services, including charging, billing and collecting debts;
+  * conduct appropriate checks for credit-worthiness and for fraud;
+  * inform you of ways the services provided to you could be improved;
+  * research and develop our services;
+  * maintain and develop our business systems and infrastructure, including testing and upgrading of these systems; 
+  * to communicate to you new products and services and also at times, the opportunity to uptake on special promotions or offers. You have the option to opt-out of this communication by following the one-click unsubscribe link available at the bottom of every promotional message;
+  * it is important to note that we only send periodical communications to people who have "opted in" to receive it. We do not set out to "spam" our members in any way and honour their right to privacy.
 
 
 
-This data will be used for the following purposes:
+**Disclosing Personal Information**
 
-  * Completion and support of the current activity.
-  * Contacting visitors for marketing of services or products.
+Ozlotteries.com is not involved in the selling, trading or alternative unauthorised use of personal information.
+
+Ozlotteries.com does use various details to verify information given to us by our members. At times, we use:
+
+  * names on member accounts to compare with information on credit cards;
+  * we use member phone numbers and email addresses provided to us to communicate with customers about payments;
+  * we use member addresses to check against credit card billing addresses etc.;
+  * in cases where fraud or other crime is suspected, we do communicate with police, banks and other relevant authorities;
+  * many of these checks are done manually and communication is handled carefully by a member of Ozlotteries.com’s own Customer Support team.
 
 
 
-This data will be used by ourselves and our agents. In addition, the following types of entities will receive this information: 
+From time to time, we may provide statistical information about sales, trading patterns and navigation techniques to reputable third parties. This will simply comprise data collected about you and other users to form aggregate results. It will not include any direct personal information that identifies you as our customer.
 
-  * Delivery services.
+Any changes to our information collection policies will be posted on this page. By using the Ozlotteries.com site, you are consenting to the collection of information by Ozlotteries.com.
 
+**Help us to ensure we hold accurate information**
 
+Ozlotteries.com takes all reasonable precautions to ensure that the personal information we collect, use and disclose is accurate, complete and up-to-date. However, the accuracy of the information we hold depends to a large extent on the information you provide.
 
-The following explanation is provided for why this data is collected:
+You can easily edit the personal information you provide to us on our website.  To do so, you will need to log into My Account, using your username and password.
 
-> This information is collected so that we can send you valuable and useful information which is relevant to your needs and interests.
+**Children’s privacy**
 
-* * *
+Children’s privacy is very important to us. Children under the age of 18 are not allowed to set up an account with Ozlotteries.com. While Ozlotteries.com will make every reasonable effort to ensure that children's privacy and other rights are not compromised, it is ultimately the responsibility of parents to monitor their children's Internet usage.
 
-## Cookies
+**Contact Us**
 
-Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. 
-
-We do not make use of HTTP cookies. 
-
-* * *
-
-## Policy Evaluation
-
-Microsoft Internet Explorer 6 will evaluate this policy's compact policy whenever it is used with a cookie. The actions IE will take depend on what privacy level the user has selected in their browser (Low, Medium, Medium High, or High; the default is Medium. In addition, IE will examine whether the cookie's policy is considered satisfactory or unsatisfactory, whether the cookie is a session cookie or a persistent cookie, and whether the cookie is used in a first-party or third-party context. This section will attempt to evaluate this policy's compact policy against Microsoft's stated behavior for IE6. 
-
-**Note:** this evaluation is currently experimental and should not be considered a substitute for testing with a real Web browser. 
-
-**Satisfactory policy** : this compact policy is considered _satisfactory_ according to the rules defined by Internet Explorer 6. IE6 will accept cookies accompanied by this policy under the High, Medium High, Medium, Low, and Accept All Cookies settings. 
+We invite you to [contact us if you have questions](https://web.archive.org/contact_us.php) about this policy. 
