@@ -1,61 +1,94 @@
-> *The following text is extracted and transformed from the efaucets.com privacy policy that was archived on 2006-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061106190448id_/http%3A//www.efaucets.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efaucets.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608205225id_/http%3A//www.efaucets.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # eFaucets.com - Privacy Policy -- Delta Faucets, Delta Faucet, Faucets, Kitchen Remodeling
 
 |    
 ---  
-   Overview  
+   Your Privacy is our Priority  
 | 
 
-eFaucets.com. has created this privacy statement in order to demonstrate our firm commitment to privacy.  Because eFaucets.com wants to demonstrate its commitment to your privacy, we have agreed to disclose our information handling practices.  
+At eFaucets.com, your privacy is very important to us. We appreciate our customers and understand the value of protecting your rights. We hope to address all of your concerns through this list of privacy-related Frequently Asked Questions. 
+
+Our site is also [P3P compliant](https://web.archive.org/web/20070608205225id_/http%3A//www.efaucets.com/p3pcompliance.asp).  
   
-|  [](https://web.archive.org/web/20061106190448id_/http%3A//www.efaucets.com/privacypolicy.asp#top)  
+|    
    
-   Information We Collect and Use  
+   Does eFaucets.com collect my IP address?  
 | 
 
-eFaucets.com is the sole owner of the information collected on its web site.  We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement.  eFaucets.com collects information from our users at several different points on our website including the order forms and inquiry forms.  This information  will only be used for customer service purposes including order confirmations, shipping confirmations, etc.  
+Yes. We use this to identify your PC and your shopping cart, as well as to help us diagnose any problems you may encounter with our server. IP addresses are not linked to any personally identifiable information.   
   
-|  [](https://web.archive.org/web/20061106190448id_/http%3A//www.efaucets.com/privacypolicy.asp#top)  
+|    
    
-   Ordering  
+   Why does eFaucets.com need my personal Information?  
 | 
 
-We request information from the user on our order forms.  Here, a user provides contact information and credit card information.  This information is used for billing purposes and to fill customers' orders.  If we have trouble processing an order, the contact information is used to get in touch with the customer.  
+We use your name, e-mail address, phone number, mailing address and credit card information to process your orders and/or notify you if you enter and win a contest on our site. This information is stored in a secure database, and is only available to individuals with proper clearance. To offer our products and services in the most efficient manner, eFaucets.com contracts with third party service partners. These partners provide us with data collection, storage, e-mail/mail support, analysis and reporting services and are restricted from using your information in any way, other than to help us make our site and services more useful to our visitors. Service partners are required to sign confidentiality agreements and will abide by eFaucets.com's privacy policies. Additionally, we may share information with law enforcement agencies or other companies assisting us in fraud prevention or investigations.  
   
-|  [](https://web.archive.org/web/20061106190448id_/http%3A//www.efaucets.com/privacypolicy.asp#top)  
+|    
    
-   What Personal Information We Collect?  
+   What is your credit card fraud policy?  
 | 
 
-We collect personal information that you choose to provide voluntarily when using the eFaucets.com Web site. This information includes your email address and a password when you create your eFaucets.com account. You can browse our online store without creating an account, but you will need to create an account when you purchase something.  We may also ask for personal information when you contact our Customer Service Department. This will allow us to protect your confidentiality by verifying your identity.  
+In the unlikely event that you experience unauthorized use of your credit card, promptly report the fraudulent activity to your credit card company. Under the Fair Credit Billing Act, you are only liable for the first $50 of the fraudulent charges. Please check with your credit card company to verify specific terms and conditions.  
   
-|  [](https://web.archive.org/web/20061106190448id_/http%3A//www.efaucets.com/privacypolicy.asp#top)  
+|    
    
-   Purchase Information  
+   Will I receive mail from eFaucets.com?  
 | 
 
-When you make a purchase using a credit card, we collect your name, billing address, card type, card number, and expiration date. We collect this information in order to bill you for your purchase. We also collect information that allows us to ship your order. This includes the name, address, and phone number of the intended recipient(s).  
+We only send information about our hot deals and specials to our customers who find it useful. You can opt-out of receiving future communications from us when you set up your account or by updating your account information. When you participate in a contest or survey, you also have the choice of opting-out at that time.  
   
-|  [](https://web.archive.org/web/20061106190448id_/http%3A//www.efaucets.com/privacypolicy.asp#top)  
+|    
    
-   Contacting eFaucets.com  
+   How safe is it to shop online?  
 | 
 
-We will use your email address to respond to your questions, suggestions, and/or requests for assistance in using our site.  
+Today, the Internet is actually the safest way of doing business with your credit card. We have made it safer to use your credit card on our site than it is to use it in more traditional ways, such as in retail stores or restaurants.  
   
-|  [](https://web.archive.org/web/20061106190448id_/http%3A//www.efaucets.com/privacypolicy.asp#top)  
+|    
    
-   No Sharing of Information Guarantee  
+   What is SSL and how does it help protect my privacy?  
 | 
 
-We never sell or rent your personal information to any third parties under any circumstances. We will share personal customer information only with our agents, representatives and trusted service providers and contractors for limited purposes, including fulfilling customer orders; communicating to customers; providing customer service; storing, and sharing ; enhancing and improving customers' shopping experience; providing a personalized shopping experience; and completing credit card transactions.  
+We use Secure Socket Layer (SSL) technology for mutual authentication, data encryption and data integrity- all to help ensure secure transactions for our customers. SSL is the industry standard security protocol to encode sensitive information, such as your credit card number. SSL creates a shared digital key, which only lets the sender and the receiver of the transmission scramble or unscramble information. To everyone else, even the servers relaying the message, the SSL transmission is indecipherable. SSL encryption can only be broken by intercepting the encrypted message, recording it, and using a computer to try every possible combination until the key is cracked. Most keys range from 40 to 1,024 digits long...as you can imagine, the number of possible combinations can be into the billions and beyond! SSL deals with data encryption during transmission, not storage.  
   
-|  [](https://web.archive.org/web/20061106190448id_/http%3A//www.efaucets.com/privacypolicy.asp#top)  
+|    
+   Ok, so how about encryption?  
+| 
+
+Encryption is based on the mathematical scrambling and unscrambling of messages. The type of encryption we use assigns two keys - one is a public key and one is a private key. When you send us a message, you use our public key to encrypt your message. Once we receive your encrypted message, we use the private key to decode it. The same key cannot both encrypt and decrypt information. So, information encrypted using the private key can only be decrypted using the public key, and vice versa- ensuring the security of your information.   
+  
+|    
    
-   Changes to the eFaucets.com Privacy Policy  
+   I've heard a lot about Secure Sites. What does that mean?  
 | 
 
-This Privacy Policy was last updated on February 11, 2003. We reserve the right to change, modify or amend this policy at any time. If we make any significant changes to this policy, we will post notice of the changes on eFaucets.com for a period of at least six months after the changes are implemented.  
+Before completing any transaction on a website, you should make sure it is a Secure Site. Being on a Secure Site means you are connected under the cloak of SSL security. You can tell if you are on a Secure Site if you see a padlock or key somewhere along the bottom of your browser's window. If the lock is closed or if the key is unbroken, you are dealing with a Secure Site.   
   
-|  [](https://web.archive.org/web/20061106190448id_/http%3A//www.efaucets.com/privacypolicy.asp#top)
+|    
+   
+   What are cookies and how do they affect my privacy?  
+| 
+
+Simply put, a "cookie" is a small file that serves as an identifier stored on your machine. Although they are not required to browse our site, we use cookies to make web shopping possible. For instance, when you are ready to purchase an item, a cookie allows our site to "remember" you have added the item to your shopping cart. eFaucets.com contracts with third party service partners to provide us with data collection, storage and reporting services. Under no circumstances are these partners permitted to use your information in any manner, other than to help us make our site more useful and efficient for our visitors. Service partners are required to sign confidentiality agreements and will abide by eFaucets.com privacy policies.  
+  
+|    
+   
+   What if I still do not feel my online transaction is secure?  
+| 
+
+We will be happy to assist you with your purchase over the phone at 1-800-891-0896  
+  
+|    
+   
+   Other things you might consider in protecting your privacy:  
+| 
+
+If you ever choose to throw away/discard a PC or Notebook, please make sure you remove all your personal data first. We suggest using an application that specializes in removal of this data. 
+
+If you ever return a product like a PC or Notebook, please make sure you remove all personal data first. Once again, we suggest using an application that specializes in removing this type of data. 
+
+Our site does contain links to other sites. eFaucets.com is not responsible for the privacy practices or the content of such websites. If you have any additional questions about our privacy practices, please contact [ privacy@efaucets.com](mailto:privacy@efaucets.com)   
+  
+|  
