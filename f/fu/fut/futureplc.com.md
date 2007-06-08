@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futureplc.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217093126id_/http%3A//www.futureplc.com/future/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futureplc.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608152536id_/http%3A//www.futureplc.com/future/privacy.jsp) for the most accurate reproduction.*
 
 # Future plc
 
