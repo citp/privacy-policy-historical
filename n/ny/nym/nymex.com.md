@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nymex.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206171030id_/http%3A//www.nymex.com/legal_privac_notice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nymex.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608041321id_/http%3A//www.nymex.com/legal_privac_notice.aspx) for the most accurate reproduction.*
 
 # NYMEX.com: Privacy Policy
 
@@ -8,7 +8,7 @@ EXCHANGE PRIVACY POLICY
 
 The New York Mercantile Exchange, Inc. (the "Exchange" or "we") supports a policy of openness regarding the collection and use of our customers' personal information. We have adopted and implemented this privacy policy ("Policy") as part of our commitment to protecting your personal information from misuse. We encourage you to read this Policy to learn more about the ways we collect, use, disclose, and protect the information we gather from this web site (the "Site"). If you are not comfortable with any of the practices or policies described in this Policy, we ask that you discontinue use of our Site. Please be aware that we may periodically update or revise this Policy without notice. Accordingly, please check this Policy frequently for changes.
 
-Please note that information gathered in connection with any services provided via the Site may be governed by separate terms and conditions including, but not limited to, the **Exchange OTC Services Site Terms of Use** and the **Exchange Rules** (collectively referred to herein as "Other Terms"). In the event that you receive such services, you agree that those Other Terms shall supercede any conflicting terms contained in this Policy. 
+Please note that information gathered in connection with any services provided via the Site may be governed by separate terms and conditions including, but not limited to, Schedule (B) ("NYMEX ClearPort® Clearing Services") of the Exchange User License Agreement and the Exchange Rules (collectively referred to herein as "Other Terms"). In the event that you receive such services, you agree that those Other Terms shall supercede any conflicting terms contained in this Policy. 
 
 **COLLECTION OF INFORMATION**
 
