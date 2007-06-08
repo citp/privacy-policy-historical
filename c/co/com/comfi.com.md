@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comfi.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207031610id_/http%3A//comfi.com/Privacy_Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comfi.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608124041id_/http%3A//www.comfi.com/Privacy_Policy.php) for the most accurate reproduction.*
 
 # Phone Cards Online: make calls for less. ComFi.com
 
