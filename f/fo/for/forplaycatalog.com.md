@@ -1,34 +1,8 @@
-> *The following text is extracted and transformed from the forplaycatalog.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210141210id_/http%3A//www.forplaycatalog.com/store/util/privacy%3FArgs%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forplaycatalog.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608144616id_/http%3A//www.forplaycatalog.com/store/util/privacy%3FArgs%3D) for the most accurate reproduction.*
 
 # Forplay Catalog - Privacy Policy
 
-|  | _Search_  
-  
----  
-[Advanced search](http://www.forplaycatalog.com/store/util/gift_finder?Args=&sblid=gift_finder)  
-[Clubwear](http://www.forplaycatalog.com/store/Clubwear?Args=&page_number=1)  
-  
-[New Arrivals](http://www.forplaycatalog.com/store/New_Arrivals?Args=&page_number=1)  
-  
-[Lingerie](http://www.forplaycatalog.com/store/Lingerie?Args=&page_number=1)  
-  
-[Dancewear](http://www.forplaycatalog.com/store/Dancewear?Args=&page_number=1)  
-  
-[Swimsuits](http://www.forplaycatalog.com/store/Swimsuits?Args=&page_number=1)  
-  
-[Sexy Costumes](http://www.forplaycatalog.com/store/Halloween_Costumes?Args=&page_number=1)  
-  
-[Gowns](http://www.forplaycatalog.com/store/Gowns?Args=&page_number=1)  
-  
-[Accessories](http://www.forplaycatalog.com/store/Accessories?Args=&page_number=1)  
-  
-[Tops](http://www.forplaycatalog.com/store/Tops?Args=&page_number=1)  
-  
-[Shoes](http://www.forplaycatalog.com/store/Shoes?Args=&page_number=1)  
-  
-[Boots](http://www.forplaycatalog.com/store/Boots?Args=&page_number=1)  
-  
-|  |  |  |   
+|  |  |  |  |  |   
 ---|---|---|---  
 |  |  |   
 |  |  | | Forplay Catalog collects client information to make your online shopping experience the best on the Internet. We respect your privacy, and assure you that we will maintain and use this information responsibly.  
