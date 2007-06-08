@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the fdrlab.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205233110id_/http%3A//www.fdrlab.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fdrlab.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608210753id_/http%3A//www.fdrlab.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - FDRLab Data Recovery Centre
-
-**Privacy Policy**
 
 Fdrlab Data Recovery Centre is committed to protect the privacy of the users who visit our web site. All the information that we collect is used to facilitate our services. We value your privacy and will take all the necessary steps to protect your information.
 
