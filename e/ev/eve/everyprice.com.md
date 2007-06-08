@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everyprice.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210050035id_/http%3A//www.everyprice.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everyprice.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608092025id_/http%3A//www.everyprice.com/privacy.asp) for the most accurate reproduction.*
 
 # Everyprice : Price Comparison Network » Privacy Policy
 
@@ -6,7 +6,7 @@
 ---  
 |  [](http://www.everyprice.com/) |   
 |  [](http://www.everyprice.com/category.asp?master_category_Id=1002) |  [](http://www.everyprice.com/category.asp?master_category_Id=1021) |  [](http://www.everyprice.com/category.asp?master_category_Id=1003) |  [](http://www.everyprice.com/category.asp?master_category_Id=1005) |  [](http://www.everyprice.com/category.asp?master_category_Id=1000)  
-|  [Login / Register](https://web.archive.org/web/20061210050035id_/http%3A//www.everyprice.com/login.asp)    
+|  [Login / Register](https://web.archive.org/web/20070608092025id_/http%3A//www.everyprice.com/login.asp)    
  [EveryPrice.com](https://web.archive.org/) » Privacy Policy  
    
   
@@ -30,5 +30,6 @@ Search |
 |   
   
   
-| Copyright ©2000-2006 EveryPrice.com, Inc. :|: Development by [EnD Team](http://www.endteam.com/) | [Contact Us](https://web.archive.org/contact.asp) :|: [About Us](https://web.archive.org/about.asp) :|: [Privacy](https://web.archive.org/privacy.asp) :|: [Category Index](https://web.archive.org/index.asp) :|: [FAQ](https://web.archive.org/faq.asp) :|: Bookmark us :|: [Do you sell online? Join now!](http://merchant.everyprice.com/register.asp)  
+  
+| Copyright ©2000-2007 EveryPrice.com, Inc. :|: Development by [EnD Team](http://www.endteam.com/) | [Contact Us](https://web.archive.org/contact.asp) :|: [About Us](https://web.archive.org/about.asp) :|: [Privacy](https://web.archive.org/privacy.asp) :|: [Category Index](https://web.archive.org/index.asp) :|: [FAQ](https://web.archive.org/faq.asp) :|: Bookmark us :|: [Do you sell online? Join now!](http://merchant.everyprice.com/register.asp)  
 ---|---
