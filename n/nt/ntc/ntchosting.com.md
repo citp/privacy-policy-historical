@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ntchosting.com privacy policy that was archived on 2006-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061130025809id_/http%3A//ntchosting.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntchosting.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608191858id_/http%3A//www.ntchosting.com/privacy) for the most accurate reproduction.*
 
 # NTC Hosting: Privacy policy
 
@@ -18,12 +18,12 @@ Additionally, you agree to respect the privacy and confidentiality of others. Si
 
 **PRIVACY OF YOUR REGISTRATION DATA**
 
-NTCHosting collects information during the registration process. The personally identifiable information that NTCHosting collects includes first and last name. NTCHosting also collects non-personally identifiable information such as country, age, gender, etc. You may update your Registration Information at any time from the members' area.  
+NTC Hosting collects information during the registration process. The personally identifiable information that NTC Hosting collects includes first and last name. NTC Hosting also collects non-personally identifiable information such as country, age, gender, etc. You may update your Registration Information at any time from the members' area.  
 We may disclose aggregate registration statistics in connection with our marketing activities.  
 
 
 **WHY DO WE NEED THIS INFORMATION?**
 
-Your registration information is needed to operate the site, to provide support for your account, for statistical purposes, etc. NTCHosting will not send you any unsolicited information, including e-mail, except as mentioned below. New Customers will receive a NTCHosting welcome letter explaining the features provided by the service. NTCHosting may also send periodic member letters to announce important service changes, new features, technical issue updates and news about the Service.   
-NTCHosting keeps your personally identifiable information private and does not share it with any unauthorized third parties.  
+Your registration information is needed to operate the site, to provide support for your account, for statistical purposes, etc. NTC Hosting will not send you any unsolicited information, including e-mail, except as mentioned below. New Customers will receive a NTC Hosting welcome letter explaining the features provided by the service. NTC Hosting may also send periodic member letters to announce important service changes, new features, technical issue updates and news about the Service.   
+NTC Hosting keeps your personally identifiable information private and does not share it with any unauthorized third parties.  
 
