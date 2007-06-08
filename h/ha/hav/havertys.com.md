@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the havertys.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210173008id_/http%3A//havertys.com/html/Privacy%2520Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the havertys.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608221654id_/http%3A//www.havertys.com/html/Privacy%2520Statement.html) for the most accurate reproduction.*
 
-# Customer Service
+# Havertys Furniture - Privacy Statements
 
 **Havertys Website Privacy Statement**  
 This site is controlled and operated by the Haverty Furniture Companies, Incorporated and Subsidiaries (Havertys). This statement discloses the privacy practices for the Havertys website. Included are: 
