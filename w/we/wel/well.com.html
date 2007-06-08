@@ -1,84 +1,114 @@
-<!--The following is the downloaded HTML source of the well.com privacy policy that was archived on 2006-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061205183059id_/http%3A//www.well.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the well.com privacy policy that was archived on 2007-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070608145218id_/http%3A//www.well.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en"><head>
-<title>The WELL - Privacy Polity</title>
+<title>The WELL - Privacy Policy</title>
+
+<meta http-equiv="Content-Script-Type" content="text/JavaScript">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="author" content="The WELL; original HTML coding created on March 28, 2005, by Fleur Helsingor; revised June 23, 2005">
 <meta name="description" content="The WELL privacy policy">
-<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
-<link rel="stylesheet" type="text/css" href="well.css">
-</head>
-<body bgcolor="#ffffff">
+<meta name="keywords" content="The WELL, community">
+<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" type="text/css" href="/well.css">
 
-<!-- header -->
+</head>
+
+<body bgcolor="#ffffff">
+  <!-- page header -->
+  
 <table width="100%" border="0" cellpadding="0" cellspacing="0" summary="header layout table">
+
+<!-- The WELL is a Salon.com community and the Salon logo -->
 <tbody><tr>
-<td width="67%" colspan="2" height="26" valign="middle" background="http://www.well.com/images/bg_top.gif">&nbsp;<span class="salon"><b>The 
+<td width="67%" colspan="2" height="26" valign="middle" background="/images/bg_top.gif">&nbsp;<span class="salon"><b>The
 WELL</b><sup>®</sup> is a</span> <a class="salon" href="http://www.salon.com/">Salon.com</a> <span class="salon">community</span></td>
-<td width="33%" background="http://www.well.com/images/bg_top.gif" align="right"><a href="http://www.salon.com/"><img src="http://www.well.com/images/salon_logo.gif" height="25" width="27" alt="salon logo"></a></td>
+<td width="33%" background="/images/bg_top.gif" align="right"><a href="http://www.salon.com/"><img src="/images/salon_logo.gif" height="25" width="27" alt="salon logo"></a></td>
 </tr>
 
+<!-- The WELL's logo and the Engaged login form -->
 <tr>
 <td width="67%" colspan="2" bgcolor="#3685ff">
-<a href="http://www.well.com/"><img src="images/well_logo.gif" height="75" width="389" border="0" alt="The WELL logo"></a>
+<a href="/index.html"><img src="/images/well_logo.gif" height="75" width="389" border="0" alt="The WELL logo"></a>
 </td>
-<td width="33%" align="right" valign="bottom" bgcolor="#3685ff"> <!-- login form -->
+
+<td width="33%" align="right" valign="bottom" bgcolor="#3685ff">
+
+
 <script language="javascript" type="text/javascript">
   <!--
-  if (typeof(loginTarget) != 'undefined')
+  function set_focus(curr)
   {
-    document.login.action += "&amp;" + loginTarget ;
+      if (curr == 0)
+      {
+          document.Login.Password.focus() ;
+      }
+      else if (curr == 1)
+      {
+          document.Login.Submit.focus() ;
+      }
+      else if (curr == 2)
+      {
+          document.Login.Username.focus() ;
+      }
   }
   // -->
 </script>
- 
-<form name="login" method="post" action="https://user.well.com/engaged/engaged.cgi?a=5&amp;f=g">
-	<table border="0" width="100%" cellpadding="5" cellspacing="0">
-	<tbody><tr>
-	<td align="right" valign="middle"><span class="nav">Username</span></td>
-	<td align="left" valign="middle"><input type="text" size="11" maxlength="64" name="Username"></td>
-	</tr>
-	<tr>
-	<td align="right" valign="middle"><span class="nav">Password</span></td>
-	<td align="left" valign="middle"><input type="password" size="11" maxlength="64" name="Password">&nbsp;&nbsp;<input type="submit" value="log in" name="Submit"></td>
-	</tr>
-	<tr>
-	<td>&nbsp;</td>
-	<td align="left"> <a class="salon" href="https://www.well.com/newpass/"> Need help logging in?</a></td>
-	</tr>
-	</tbody></table>
+
+<form name="login" method="post" action="https://user.well.com/engaged.cgi?a=5&amp;f=f">
+  <table border="0" width="100%" cellpadding="5" cellspacing="0" summary="Login to The WELL">
+  <tbody><tr>
+  <td align="right" valign="middle"><span class="nav">Username</span></td>
+  <td align="left" valign="middle"><input type="text" size="11" maxlength="64" name="Username" onchange="set_focus(0) ;"></td>
+  </tr>
+  <tr>
+  <td align="right" valign="middle"><span class="nav">Password</span></td>
+  <td align="left" valign="middle"><input type="password" size="11" maxlength="64" name="Password" onchange="set_focus(1) ;">&nbsp;&nbsp;<input type="submit" value="log in" name="Submit" onchange="set_focus(2) ;"></td>
+  </tr>
+  <tr>
+  <td>&nbsp;</td>
+  <td align="left"> <a class="salon" href="https://www.well.com/newpass/"> Need help logging in?</a></td>
+  </tr>
+  </tbody></table>
 </form>
 </td>
 </tr>
-<tr> <!-- navigation bar -->
-<td width="100%" colspan="3" height="26" background="images/bg_bottom.gif">
-&nbsp;&nbsp;<a class="nav" href="http://www.well.com/">Home</a>
-&nbsp;&nbsp;<a class="nav" href="http://www.well.com/aboutwell.html">Learn About</a>
-&nbsp;&nbsp;<a class="nav" href="http://www.well.com/conference.html">Conferences</a>
-&nbsp;&nbsp;<a class="nav" href="http://www.well.com/community.html">Member Pages</a>
-&nbsp;&nbsp;<a class="nav" href="http://www.well.com/mail.html">Mail</a>
-&nbsp;&nbsp;<a class="nav" href="http://www.well.com/bookstore/">Store</a>
-&nbsp;&nbsp;<a class="nav" href="http://www.well.com/tools.html">Services &amp; Help</a>
-&nbsp;&nbsp;<a class="nav" href="http://www.well.com/join.html">Join Us</a>
 
+<!-- navigation bar -->
+<tr>
+<td width="100%" colspan="3" height="26" background="/images/bg_bottom.gif">
+&nbsp;&nbsp;<a class="nav" href="/index.html">Home</a> &nbsp; <a class="nav" href="/aboutwell.html">Learn About</a> &nbsp; <a class="nav" href="/conference.html">Conferences</a> &nbsp; <a class="nav" href="/community.html">Member Pages</a> &nbsp; <a class="nav" href="/mail.html">Mail</a> &nbsp; <a class="nav" href="/bookstore/index.html">Store</a> &nbsp; <a class="nav" href="/tools.html">Services &amp; Help</a> &nbsp; <a class="nav" href="/join.html">Join Us</a>
 </td>
 </tr>
-</tbody></table>
 
+
+</tbody></table>
+<!-- End of header -->
+
+  <div class="container">
+  <table width="100%" border="0" cellpadding="12" cellspacing="12" summary="content layout table">
+    
 <!--
-<span class="small2">
-<b><a href="http://www.well.com/status.html">System Status Update</a></b>
-All systems at The WELL are running normally.
-<br /></span>
+<tr>
+  <td width="100%" colspan="3" valign="top">
+    <span class="small2">
+      <b><a href="/status.html">System Status Update</a></b>
+      All systems at The WELL are running normally.
+    </span>
+  </td>
+</tr>
 -->
 
 
-<table width="100%" border="0" cellpadding="12" cellspacing="12" summary="content layout table">
+<!-- page content -->
+
+
 
 <tbody><tr>
 
-<td width="100%" colspan="3">
+<td width="100%" colspan="3" valign="top">
 
+<br>
 <span class="title1">The WELL Privacy Policy</span>  <!-- document title -->
 
 </td>
@@ -87,7 +117,7 @@ All systems at The WELL are running normally.
 <tr>
 
 <!-- wide top left column -->
-<td width="67%" colspan="2" rowspan="2" valign="top">  
+<td width="67%" colspan="2" rowspan="2" valign="top">
 
 <p>This document is one of the agreements between Salon's Communities (including both The WELL and Salon's Table Talk forum areas) and their members. It concerns the legal privacy framework in which you participate in Salon Communities, what your rights and responsibilities are and what you can expect from The WELL.</p>
 
@@ -96,18 +126,18 @@ All systems at The WELL are running normally.
 <ol>
 <li><a href="#privacy">Privacy policy</a></li>
 <li><a href="#announcements">Announcements and spam</a></li>
-<li><a href="#traffic">Traffic data</a></li> 
-<li><a href="#cookies">Use of cookies at The WELL</a></li> 
-<li><a href="#participants">Participants</a></li> 
-<li><a href="#billing">WELL billing information</a></li> 
-<li><a href="#surveys">Surveys</a></li> 
-<li><a href="#children">Our commitment to children's privacy</a></li> 
-<li><a href="#other">Other disclosure of personal information</a></li> 
-<li><a href="#cancellation">Cancellation and data removal policies</a></li> 
-<li><a href="#sites">Other sites</a></li> 
+<li><a href="#traffic">Traffic data</a></li>
+<li><a href="#cookies">Use of cookies at The WELL</a></li>
+<li><a href="#participants">Participants</a></li>
+<li><a href="#billing">WELL billing information</a></li>
+<li><a href="#surveys">Surveys</a></li>
+<li><a href="#children">Our commitment to children's privacy</a></li>
+<li><a href="#other">Other disclosure of personal information</a></li>
+<li><a href="#cancellation">Cancellation and data removal policies</a></li>
+<li><a href="#sites">Other sites</a></li>
 <li><a href="#info">For further information; contacts</a></li>
 
-</ol> 
+</ol>
 
 <a id="privacy"> </a>
 <p><b>Privacy policy</b></p>
@@ -137,7 +167,7 @@ All systems at The WELL are running normally.
 
 <p>A cookie is a small amount of data that is sent to your browser from a Web server and stored in your computer's memory or written on your computer's hard drive. We use session cookies, non-peristant files which vanish when you shut down your browser, to allow the system to know you have already entered a password each time you click for more data in a conference login session.  Our cookies do not contain any of the personal information you have provided to us.  We use cookies for our Web conferencing interface, not for telnet access to conferences.</p>
 
-<p>We do not use cookies to track usage on our site, but the conferencing software itself tracks what you have seen in order to show you new material when you return.   This information about when you were last present is available to other members of the system in the forums to which you have mutual access so that it is easier to tell who is up to date in a group conversation.  We never provide this information on your activity to non-participants.</p> 
+<p>We do not use cookies to track usage on our site, but the conferencing software itself tracks what you have seen in order to show you new material when you return.   This information about when you were last present is available to other members of the system in the forums to which you have mutual access so that it is easier to tell who is up to date in a group conversation.  We never provide this information on your activity to non-participants.</p>
 
 <a name="participants"> </a>
 <p><b>Participants</b></p>
@@ -145,41 +175,41 @@ All systems at The WELL are running normally.
 <p>WELL members are expected to comply with our Member Agreement, but we cannot control third parties' use of information you may choose to provide via WELL forums or your user home page, nor can we vouch for the integrity of the participants you may communicate with, including but not limited to participants in Private Conference areas.  Sharing information with other WELL members is a matter of individual choice and judgement. If you choose to take part in any WELL conference, whatever you may disclose in that discussion area is made known to others who may read the conference.</p>
 
 <a id="billing"> </a>
-<p><b>WELL Billing Information</b></p> 
+<p><b>WELL Billing Information</b></p>
 
-<p>In order to subscribe, members provide The WELL with personal information including a telephone number, billing street address and credit card information. The WELL goes to great lengths to keep all such information strictly confidential and does not reuse, resell or redistribute it in any way. This information is not available to other WELL subscribers unless you disclose it. The email address with which you register is not made available to others if you have a WELL email address, nor if you provide an alternate off-site email address for member contact by changing your settings after registration.</p> 
+<p>In order to subscribe, members provide The WELL with personal information including a telephone number, billing street address and credit card information. The WELL goes to great lengths to keep all such information strictly confidential and does not reuse, resell or redistribute it in any way. This information is not available to other WELL subscribers unless you disclose it. The email address with which you register is not made available to others if you have a WELL email address, nor if you provide an alternate off-site email address for member contact by changing your settings after registration.</p>
 
 <a id="surveys"> </a>
 <p><b>Surveys</b></p>
 
-<p>The WELL will from time to time conduct voluntary surveys of visitors to the site to obtain aggregate preferences and demographic information about them.  Such information will be compiled and may be shared in the aggregate to discuss business opportunities with third parties, but no personal details will be traceable or associated with specific individuals who participate in surveys.</p>  
+<p>The WELL will from time to time conduct voluntary surveys of visitors to the site to obtain aggregate preferences and demographic information about them.  Such information will be compiled and may be shared in the aggregate to discuss business opportunities with third parties, but no personal details will be traceable or associated with specific individuals who participate in surveys.</p>
 
 <a id="children"> </a>
 <p><b>Our commitment to children's privacy</b></p>
- 
+
 <p>Protecting the privacy of the very young is important to us. For that reason, we do not collect or maintain information at our sites from those we actually know are under 13, and no part of our sites are structured to attract anyone under 13.</p>
- 
+
 
 <a id="other"> </a>
 <p><b>Other disclosure of personal information</b></p>
- 
+
 <p>The WELL will not otherwise use or disclose your personal information without your consent except (i) as described in this privacy policy, or (ii) as required by law.  Any subscriber whose information is sought in accordance with this policy will be advised of the inquiry as soon as practical.  Notification of such inquiries will be emailed to members before disclosures are made, unless notification is prohibited by law.</p>
 
 <p>This privacy policy may not protect information you voluntarily disclose to others via a post to any online conference, email list, chat or send tool or any other communication environment within or from our service.</p>
- 
+
 <a id="cancellation"> </a>
 <p><b>Cancellation and data removal policies</b></p>
- 
+
 <p>If you would like to end your membership and to delete any data we are not required to retain for accounting purposes, you can close your account and request data removal from helpdesk@well.com.  If you wish to delete any of your own posts before ending your membership you may do so.</p>
- 
+
 <a id="sites"> </a>
 <p><b>Other sites</b></p>
- 
+
 <p>The WELL contains many links to other Internet sites. We cannot control and are not responsible for the privacy practices or content of other Web sites, even if those sites are produced by WELL members or reside within our www.well.com/user area.</p>
- 
+
 <a id="info"> </a>
 <p><b>For further information; contacts</b></p>
- 
+
 <p>If you have any further questions or concerns about The WELL's privacy policies and use of personal information, please send them to helpdesk@well.com, or post them to The WELL Policy Conference (the shortcut is <b>g policy</b>).</p>
 
 <p><em>September, 2001</em></p>
@@ -188,7 +218,7 @@ All systems at The WELL are running normally.
 
 <td width="33%" valign="top">    <!-- top right column    -->
 
-<p><img src="images/square_red_bullet.gif" height="8" width="8" alt="*"> <a href="member_agreement.html">Terms of service</a></p>
+<p><img src="/images/square_red_bullet.gif" height="8" width="8" alt="*"> <a href="/member_agreement.html">Terms of service</a></p>
 
 </td>
 
@@ -197,15 +227,17 @@ All systems at The WELL are running normally.
 
 <td width="33%" valign="bottom">  <!-- bottom right column -->
 
+
 <!-- Yahoo! Search -->
 <form method="get" action="http://search.yahoo.com/search">
- <span class="small1"><b>Search our front porch with</b></span><br>
- <div align="left">
- <a href="http://search.yahoo.com/"><img src="http://us.i1.yimg.com/us.yimg.com/i/us/search/ysan/ysanlogo.gif" border="0" alt="Yahoo logo"></a>
- <br><input type="text" name="p" size="19" style="margin-top: 10px">
- <br><input type="radio" name="vs" id="ysvs21" style="vertical-align: middle" value="www.well.com" checked="checked"><label for="ysvs21"><span class="small1">The WELL</span></label> &nbsp; <input type="radio" name="vs" value="" id="ysvs20" style="vertical-align: middle"><label for="ysvs20"><span class="small1">The WWW</span></label>
- <br><br><input type="hidden" name="fr" value="yscpb"><input type="submit" value="Search" style="margin-top: 5px"></div>
- </form>
+  <span class="small1"><b>Search our front porch</b></span><br>
+  <div align="left">
+  <a href="http://search.yahoo.com/"><img src="/images/yahoo_search.png" border="0" alt="Powered by Yahoo!" width="125" height="27"></a>
+  <br><input type="text" name="p" size="19" style="margin-top: 10px">
+  <br><input type="radio" name="vs" id="ysvs21" style="vertical-align: middle" value="www.well.com" checked="checked"><label for="ysvs21"><span class="small1">The WELL</span></label> &nbsp; <input type="radio" name="vs" value="" id="ysvs20" style="vertical-align: middle"><label for="ysvs20"><span class="small1">The WWW</span></label>
+  <br><br><input type="hidden" name="fr" value="yscpb"><input type="submit" value="Search" style="margin-top: 5px">
+  </div>
+</form>
 <!-- End Yahoo! Search -->
 
 
@@ -213,38 +245,64 @@ All systems at The WELL are running normally.
 
 </tr>
 
-</tbody></table>
 
-<!-- footer -->
-<table width="100%" cellpadding="0" cellspacing="0">
+
+
+
+
+
+
+
+
+  </tbody></table>
+  </div>
+  <!-- page footer -->
+  
+<table width="100%" cellpadding="0" cellspacing="0" summary="page footer">
+
 <tbody><tr>
-<td height="24" width="100%" background="images/bottom_bg.gif" valign="middle">
-&nbsp;&nbsp; <a class="join" href="join.html">Join Us</a>
+<td height="24" width="100%" background="/images/bottom_bg.gif" valign="middle">
+
+&nbsp;&nbsp; <a class="join" href="/join.html">Join Us</a>
 </td>
 </tr>
-<tr>  <!-- bottom navbar and footer -->
-<td width="100%" align="center" bgcolor="#b8babc">
-<a class="bottomnav" href="http://www.well.com/">Home</a> | 
-<a class="bottomnav" href="http://www.well.com/aboutwell.html">Learn About</a> | 
-<a class="bottomnav" href="http://www.well.com/conference.html">Conferences</a> | 
-<a class="bottomnav" href="http://www.well.com/community.html">Member Pages</a> | 
-<a class="bottomnav" href="http://www.well.com/mail.html">Mail</a> | 
-<a class="bottomnav" href="http://www.well.com/bookstore/">Store</a> | 
-<a class="bottomnav" href="http://www.well.com/tools.html">Services &amp; Help</a> | 
-<a class="bottomnav" href="http://www.well.com/join.html">Join Us</a>
 
-<br><p class="footer_text"><b>The WELL</b><sup>®</sup> is registered in the U.S. 
-Patent and 
+<tr>
+<td width="100%" align="center" bgcolor="#b8babc">
+<a class="bottomnav" href="/index.html">Home</a> | <a class="bottomnav" href="/aboutwell.html">Learn About</a> | <a class="bottomnav" href="/conference.html">Conferences</a> | <a class="bottomnav" href="/community.html">Member Pages</a> | <a class="bottomnav" href="/mail.html">Mail</a> | <a class="bottomnav" href="/bookstore/index.html">Store</a> | <a class="bottomnav" href="/tools.html">Services &amp; Help</a> | <a class="bottomnav" href="/join.html">Join Us</a>
+<br>
+
+<p class="footer_text"><b>The WELL</b><sup>®</sup> is registered in the U.S.
+Patent and
 Trademark Office as a trademark of Salon Media Group Inc.
 <br>101 Spear Street, Suite 203
 <br>San Francisco, CA 94105
 <br>Telephone 415 645-9300 | Fax 415 645-9309
-<br><a href="http://www.well.com/privacy.html">Privacy Policy</a> | 
-<a href="http://www.well.com/member_agreement.html">Terms of Service</a></p>
+<br>Email helpdesk [at] well dot com
+<br><a href="/privacy.html">Privacy Policy</a> |
+<a href="/member_agreement.html">Terms of Service</a></p>
 
-</td>
-</tr>
-</tbody></table>
+
+</td></tr></tbody></table>
+
+
+<!-- Google analytics stuff -->
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+<!--
+ _uacct = "UA-1388809-2";
+ urchinTracker();
+//-->
+</script>
+
+
+
+
+
+
+
+
 
 
 
