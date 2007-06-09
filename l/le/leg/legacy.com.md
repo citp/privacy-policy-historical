@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legacy.com privacy policy that was archived on 2006-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060505195757id_/http%3A//legacy.com/Obituaries.asp%3FPage%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legacy.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609183231id_/http%3A//legacy.com/Obituaries.asp%3FPage%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Obituaries | Death Notices | Newspaper Obituaries | Online Obituaries | Newspaper Death Notices | Online Death Notices
 
@@ -49,4 +49,4 @@ Legacy.com, Inc. may periodically edit this Privacy Policy. We encourage you to 
 
 Additional information
 
-Questions regarding the Legacy.com, Inc. Privacy Policy should be directed to [info@legacy.com](https://web.archive.org/web/20060505195757id_/http%3A//legacy.com/obituaries.asp?Page=MailLegacy&MailTo=info@legacy.com&Subject=Privacy+Policy).
+Questions regarding the Legacy.com, Inc. Privacy Policy should be directed to [info@legacy.com](https://web.archive.org/web/20070609183231id_/http%3A//legacy.com/Obituaries.asp?Page=MailLegacy&MailTo=info@legacy.com&Subject=Privacy+Policy).
