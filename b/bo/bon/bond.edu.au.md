@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bond.edu.au privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206035029id_/http%3A//bond.edu.au/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bond.edu.au privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609143312id_/http%3A//www.bond.edu.au/disclaimer) for the most accurate reproduction.*
 
 # Your privacy - Bond University
 
@@ -100,7 +100,7 @@ Postal address: Bond University , Gold Coast, QLD, 4229
 
 Email address: [privacy@bond.edu.au](mailto:privacy@bond.edu.au)
 
-Telephone: 07 5595 1693 
+Telephone: 07 5595 4103 
 
 Facsimile: 07 5595 1748
 
