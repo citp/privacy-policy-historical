@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the moniker.com privacy policy that was archived on 2006-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061128225544id_/http%3A//www.moniker.com/help/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moniker.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609150138id_/http%3A//www.moniker.com/help/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Notice - moniker.com
 
-Moniker.com and Moniker Marketplace Pro are owned and operated by Moniker Online Services, LLC (“Moniker”).  At Moniker, we take your privacy seriously. This Privacy Policy explains how we collect and use information about you as you utilize any Moniker services. Our Privacy Policy is subject to change, so we encourage you to visit this page frequently to review our practices. By using services provided by Moniker, you indicate that you agree to the collection and use of your information by Moniker as outlined in this Privacy Policy.
+Moniker.com and Moniker Marketplace are owned and operated by Moniker Online Services, LLC (“Moniker”).  At Moniker, we take your privacy seriously. This Privacy Policy explains how we collect and use information about you as you utilize any Moniker services. Our Privacy Policy is subject to change, so we encourage you to visit this page frequently to review our practices. By using services provided by Moniker, you indicate that you agree to the collection and use of your information by Moniker as outlined in this Privacy Policy.
 
 **Why We Collect Information**  
 First and foremost, Moniker collects information to allow us to provide and improve our services and to present you with information and features that we believe will interest you. We also use your information to measure our success and performance. For example, aggregate information gives us an idea of the number of visitors we attract and how they navigate our site.
