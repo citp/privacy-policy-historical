@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the optum.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205234626id_/http%3A//www.clickcommerce.com/ckcm/Rooms/DisplayPages/LayoutInitial%3FPageID%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optum.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609065555id_/http%3A//www.clickcommerce.com/ckcm/Rooms/DisplayPages/LayoutInitial%3FPageID%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy
+
+**Privacy**
 
 Clickcommerce.com is owned and operated by Click Commerce, Inc. ("Click"). Click collects personal and non-personal information on clickcommerce.com. Click is committed to protecting the privacy of its users. If you have any questions or concerns in connection with Click's information collection practice summarized in this Privacy Statement, please send an email, with the subject heading "Privacy Statement Question," to [click.legal@clickcommerce.com](mailto:click.legal@clickcommerce.com).
 
