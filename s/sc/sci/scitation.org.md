@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scitation.org privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205204643id_/http%3A//www.aip.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scitation.org privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609133709id_/http%3A//www.aip.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - American Institute of Physics
 
