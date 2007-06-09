@@ -1,73 +1,75 @@
-> *The following text is extracted and transformed from the doityourself.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117012058id_/http%3A//www.doityourself.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doityourself.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609150024id_/http%3A//www.doityourself.com/page/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - DoItYourself.com Inc. at DoItYourself.com
+# Privacy Policy - DoItYourself.com Inc. | DoItYourself.com
 
-  * Information We Gather
-  * Relationships and Surveys
-  * Forums
-  * Links and Linked Sites
+  * Privacy Statement
+  * Browsing the Site
+  * Information Collected
+  * Use of Forums
   * Cookies
-  * Opt Out Newsletters
-  * General Advice
-  * Amendments
+  * Security
+  * Contacting the Website
 
 
+  * ## Privacy Statement
 
-  
-DoItYourself.com Inc. is a leading provider of home improvement and repair information on the Internet. DoItYourself.com Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy and to disclose our information gathering and dissemination practices. Questions regarding this statement should be directed to the Webmaster by emailing [webmaster@doityourself.com](mailto:webmaster@doityourself.com).
+www.doityourself.com, an Internet Brands website, is committed to safeguarding your privacy online. This privacy policy applies to your information that we collect and receive; it does not apply to practices of businesses that we do not own or control or people we do not employ. At no time will we sell your information or release your personally-identifiable data without your permission. You can visit www.doityourself.com ("Site") without revealing who you are or providing any personal information about yourself.
 
-  * ## Information this Site Gathers/Tracks
+By using this Site, you agree to the terms of this privacy policy. Please read the following policy to understand how your personal information will be treated as you use our services. The following discloses our information gathering and dissemination practices.
 
-Our websites log IP addresses and browser types, but we do not link IP addresses to anything personally identifiable. This means that users sessions are tracked, but the users remain anonymous. You can browse our site without entering any personal information and therefore remain anonymous during your visit. However, we hope that our visitors will register with us so that we can learn more about our valuable visitors. Our registration form asks users for name, email address, preferences, and very limited demographic information. We encourage all visitors to register with us in our Community Forums.
-
-We maintain a separate list of email addresses which are used to send our newsletters containing news about the subjects you and fellow readers have asked us about. If you would rather not receive the newsletter(s) you may opt out from any page on our website or in our forums as well as from links at the bottom of every newsletter.
-
-Preferences and demographic information are used to help us improve our services. The more we know about our visitors, the better we can serve them.   
-
+This Site contains links to other sites. These include links to individual lender/broker sites that offer consumer and business loans, as well as links to other third party sites that offer credit reports, property valuation information, insurance quotes, etc. www.doityourself.com is not responsible for the privacy practices or the content of such websites.
 
 Back to top
-  * ## Relationships and Surveys
+  * ## Browsing the Site
 
-Our online surveys ask visitors for contact information (like their email address) and demographic information (like their zip code, age, or income level). Contact data from our surveys is used to send users information about our company. Demographic and profile data is also collected at our site. This information is shared with advertisers only on an aggregate basis.
-
-The Company maintains special relationships, with various strategic partners, business partners, and operates several co-branded sites. For example Socratic Inc. maintains a paid by incentives panel known as "The DoItYourself.com Advisors" at [http://panel.doityourself.com](http://panel.doityourself.com/). Another example is Service Magic who matntains a contractor referall service. These and other co-branded sites may gather additional information; the Company sometimes has access to some or all of the information, and the Company's partner's use of the information is not within the Company's control.
+If you browse through the Site without entering any personal data, we will gather and store certain information about your visit. This information does not identify you personally and cannot be linked back to you unless you decide at some point to identify yourself. If you are only browsing, we collect the following information: IP address, the type of browser and operating system used to access our site, the date and time you access our site, the pages you visit (click-through), and if you linked to our website from another website, the address of that website as well as additional information related to your visit. We use your IP address to help diagnose problems with our server, and to administer the Site.
 
 Back to top
-  * ## Forums
+  * ## Information Collected
 
-Our Community Forums allow users to view over one million threads without registering. We require visitors to register before posting so we can track the quantity and quality of their questions and answers, and to recognize longer standing with member status instead of visitor or apprentice. We also have a number of volunteer forum moderators. The information posted therein is therefore not in our control. For those visitors who do register, they have the ability to post, edit their posts, and receive an email when their question is answered. These choices are optional, and are selected by each member individually. The same conditions apply to the ability to post article and product reviews.
+We collect the email addresses of consumers who communicate with us or through our authorized vendors via email. We also collect information provided to us by consumers in loan or refinance requests submitted through our site or our authorized vendors' sites ("Loan Request Information"). Loan Request Information typically includes name, address, and phone numbers, email address, household income, estimated credit rating, and loan specific information including but not limited to estimated property value, desired loan amount, down payment, and whether the applicant is working with a real estate agent. We do not provide financing, but instead transmit those requests to third-party vendors for consideration.
+
+All information provided by consumers in any of the above-listed ways or otherwise becomes the property of Internet Brands once received by us and may be used and disclosed as permitted in this Policy.
+
+Loan Request Information is used to transmit financing requests to third parties who may be in a position to respond to your request. Consumers who submit Loan Request Information expressly authorize up to four (4) third party lenders to contact them in connection with their loan or refinancing request regardless of whether or not such consumer is listed on a "Do Not Call" list.
+
+As part of the request process, we may verify the information you provide, or obtain omitted address or other contact information from third parties.
+
+Loan Request Information transmitted to a lender or other fulfillment entity becomes the property of that lender or fulfillment entity, in addition to us. The information is used to process your financing application.
+
+We also share your personal information with our affiliated companies in order to identify products or services in which you may have interest, to improve our user experience and generally to engage in market research and for other internal business purposes. We may also aggregate your personal information with others' information and prepare reports on site usage, purchase history or other factors for sale or distribution to others. Those reports are aggregated and include no personally identifying information. Finally, we may use your personal information to send you email or postal communications regarding products or services offered by us or by third parties with whom we have relationships in which we think you may be interested. We do not share, sell, trade or rent you personal information to third parties for unknown reasons. You may at any time choose not to receive promotional emails from us by contacting us at . Notwithstanding the foregoing, we may continue to contact you for the purpose of communicating information relating to www.doityourself.com, as well as to facilitate, complete, or confirm any transaction that you may enter into or responding to your inquiry or request.
+
+If you prefer for us not to provide your name and email or postal address to third parties for direct marketing purposes, please contact us at .
 
 Back to top
-  * ## Links and Linked Sites
+  * ## Use of Forums
 
-Our website contains links which may including framing in of pages from other Web sites we have selected. We also maintain a database where visitors can post Community Links. Please be aware that our privacy policy does not apply to linked sites. We encourage you to read the posted privacy statement whenever interacting with any Web site.
+If you choose to transmit, submit or post information through the Site's chat rooms, bulletin boards or other forums (the "Forums"), we will collect that information you provide. www.doityourself.com retains this information as necessary to resolve disputes, provide customer support and troubleshoots problem as permitted by law and pursuant to our Terms of use.
 
 Back to top
   * ## Cookies
 
-Our site may use cookies to track referrals and to provide our visitors with a tailored user experience. With the help of cookies, we can present customized content and ads that will be of more interest. We may also use cookies to remember members passwords so if they so choose they do not have to re-enter them each time they visit. You also have the option of setting your browser to reject cookies.   
-
-
-You may be served cookies from our advertisers or their advertising agencies while visiting our site. We do not control, nor do we have access to any of the information they may collect.
+We may place "cookies" on your personal computer. "Cookies" are small identifiers sent from a web server and stored on your computer's hard drive, similar to a license plate, that help us to recognize you if you visit our website again. Also, our site uses cookies to track how you found our site. Cookies are not designed to be used to get data from your hard drive, your e-mail or any other personal data about you. To protect your privacy we do not use cookies to store or transmit any personal information about you on the Internet. You can reject cookies by changing your browser settings. Please note, however, that if you reject our cookies, it is possible that some web pages may not properly load, your access to certain information might be denied or you might have to enter information about you more than once.
 
 Back to top
-  * ## Opt-out Policy, Correcting and Updating
+  * ## Security
 
-If at any time after registering, you change your mind about receiving the newsletter, you may visit the site and unsubscribe automatically from the newsletter link on every content page. You may also use this feature to modify your address and email preferences.
-
-Back to top
-  * ## General Advice
-
-Finally, although DoItYourself.com Inc. has a very strong Privacy Protection policy on our end, and do their utmost to protect privacy of all visitors, we bear no responsibility for anyone else's conduct with respect to material you transmit. As is true with ANY Internet usage and access to ANY Website, if you are using someone else's computer, or someone else has access to your computer, or spy ware is resident on your computer, or you are using a corporate or other "network", it may be possible for that "someone else" or the "network" operator to retrieve copies of Email you sent from the computer and/or to trace the places you have been visiting on the Internet.
+This site has reasonable security measures in place to protect the loss, misuse and alteration of the information under our control.
 
 Back to top
-  * ## Amendments
+  * ## Contacting the Website
 
-We may amend this Privacy Policy on a prospective basis (i.e., for future visits) at any time by posting a revised policy on our Web site. Further, nothing in this Privacy Policy is designed to protect the privacy of visitors whose use of the Company's Website is, in our opinion, or that of our attorneys or affiliates is intended for illegal, improper or abusive purposes, for purposes of marketing or solicitation, or would violate any other terms and conditions relating to use of the Web site.
+Please be aware that we may change our Privacy Policy from time to time. If we do, we will update this Privacy Policy at out website, so be sure to check back here frequently.
 
 Back to top
 
 
 
-This Privacy Policy has last been updated October 23, 2006  
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, you can contact:
+
+**www.doityourself.com**
+
+**Effective:** 04/11/2007
+
+This Privacy Policy has last been updated April 11, 2007  
 
