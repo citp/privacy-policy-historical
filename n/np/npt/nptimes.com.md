@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nptimes.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205202650id_/http%3A//www.nptimes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nptimes.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609115211id_/http%3A//www.nptimes.com/privacy.html) for the most accurate reproduction.*
 
 # NP Times: Privacy Policy
 
-[](https://web.archive.org/web/20061205202650id_/http%3A//www.nptimes.com/index.html)   
+[](https://web.archive.org/web/20070609115211id_/http%3A//www.nptimes.com/index.html)   
 
 
 **  
@@ -16,7 +16,7 @@ Our postal address is
 Morris Plains NJ 07950  
 Tel:  973-401-0202   
 Fax: 973-401-0404  
-We can be reached via e-mail at [circmngr@nptimes.com](mailto:circmngr@nptimes.com?body=My%20email%20address:)
+We can be reached via e-mail at [circulation@nptimes.com](mailto:circulation@nptimes.com)
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
