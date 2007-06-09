@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the acu.edu.au privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619112734id_/http%3A//www.acu.edu.au/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acu.edu.au privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609212217id_/http%3A//www.acu.edu.au/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - ACU National Website
+# ACU National - Privacy Policy
 
 ACU National is committed to ensuring the privacy of all information it collects. Information supplied to the University will only be used for the administrative and educational purposes of this institution.
 
@@ -65,10 +65,7 @@ Some of the information collected by the University is classed as sensitive info
 **Contact**  
 For further information about this privacy statement or the practices of the University, please contact:
 
-  * John Cameron  
+John Cameron  
 Executive Director, University Services  
 Tel 02-9739 2912  
 Email [j.Cameron@vcy.acu.edu.au](mailto:j.Cameron@vcy.acu.edu.au)
-
-
-
