@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the psychologies.co.uk privacy policy that was archived on 2006-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060830102853id_/http%3A//www.psychologies.co.uk/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychologies.co.uk privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609042313id_/http%3A//www.psychologies.co.uk/privacy_policy.php) for the most accurate reproduction.*
 
-# Psychologies | Privacy Policy
-
-Hachette Filipacchi (UK) Limited:  
-PRIVACY POLICY
-
-Please read the following Privacy Policy carefully before using this website.  If you do not agree with the Hachette Filipacchi (UK) Limited Privacy Policy, you should not submit your personal details on this website.  Registration as a User and use of the website implies an acceptance of both this Privacy Policy and the Terms and Conditions of Website Use. 
+# Psychologies Online - Privacy Policy
 
 DATA PROTECTION NOTICE
 
@@ -64,5 +59,3 @@ If you require further information on how to prevent cookies from being stored o
 If you are worried in particular about ad-serving cookies, these have to be turned off by going to the third party’s website.  The link below is to our ad-server’s website, and gives details of their usage of cookies.  They should be contacted in the event you require details of how to disable these ad-serving cookies.
 
 <http://www.emediate.no/privacy.htm>
-
-Back
