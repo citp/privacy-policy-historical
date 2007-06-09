@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the banksa.com.au privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218034030id_/http%3A//banksa.com.au/privacy/default.asp%3Forc%3Dhome) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banksa.com.au privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609082208id_/http%3A//banksa.com.au/privacy/default.asp%3Forc%3Dhome) for the most accurate reproduction.*
 
 # BankSA - Privacy & Security
 
