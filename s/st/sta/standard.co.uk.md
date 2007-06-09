@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the standard.co.uk privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205214145id_/http%3A//www.thisislondon.co.uk/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standard.co.uk privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609055839id_/http%3A//www.thisislondon.co.uk/privacy.do) for the most accurate reproduction.*
 
 # Privacy policy | This is London
 
-We are Associated Northcliffe Digital (a division of Associated Newspapers Limited, company registration number 84121, data protection registered number Z5272734) ("Associated/we/us"). At Associated we are very serious about protecting your privacy. Your trust is our most important asset. This privacy policy explains how Associated may collect information from you via our websites and how that information may be used subsequently. If you have any queries in relation to this privacy policy please contact privacy@and.co.uk 
+We are Associated Newspapers Limited, company registration number 84121, data protection registered number Z5272734 ("Associated/we/us"). At Associated we are very serious about protecting your privacy. Your trust is our most important asset. This privacy policy explains how Associated may collect information from you via our websites and how that information may be used subsequently. If you have any queries in relation to this privacy policy please contact privacy@and.co.uk 
 
 By browsing and using our website you agree to this policy governing your use of the website. If you do not accept this policy, you must not use our website. 
 
@@ -38,7 +38,7 @@ You agree that we may obtain, hold, correlate, merge and use your information (i
 
   * personalising your visits to the site and developing the design and style of the site to improve our services to you; 
   * to inform you about the latest changes to our website, or products, services or promotional offers that you might find interesting;
-  * communication (and personalising such communication) with you from Associated, from other Daily Mail & General Trust (?DGMT?) group companies and from other reputable and trustworthy third parties (if you have agreed to such);
+  * communication (and personalising such communication) with you from Associated, from other Daily Mail & General Trust (DMGT) group companies and from other reputable and trustworthy third parties (if you have agreed to such);
   * informing you if you have been successful in any of the competitions or promotions;
   * compiling customer reviews;
   * for market research purposes;
