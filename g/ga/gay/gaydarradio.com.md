@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaydarradio.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205223809id_/http%3A//www.gaydarradio.com/scripts/tandc/radio_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaydarradio.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609163311id_/http%3A//www.gaydarradio.com/scripts/tandc/radio_policy.asp) for the most accurate reproduction.*
 
 # GaydarRadio.com - Feel The Pulse
 
@@ -10,7 +10,7 @@ GaydarRadio is available on digital TV channel 0158 in the UK and Eurobird satel
   
 We take the privacy rights of users of this Site very seriously and seek to ensure the highest standards of compliance with UK Data Protection Laws and Regulations.
 
-This Privacy Policy is incorporated in and subject to the Site [Terms and Conditions](https://web.archive.org/web/20061205223809id_/http%3A//www.gaydarradio.com/scripts/tandc/radio_terms.asp). This Privacy Policy explains to You (as relevant) or otherwise use the Site. You expressly consent to the use of Your Data in accordance with this Privacy Policy.
+This Privacy Policy is incorporated in and subject to the Site [Terms and Conditions](https://web.archive.org/web/20070609163311id_/http%3A//www.gaydarradio.com/scripts/tandc/radio_terms.asp). This Privacy Policy explains to You (as relevant) or otherwise use the Site. You expressly consent to the use of Your Data in accordance with this Privacy Policy.
 
 1\. Your Data
 1.1 "Your Data" means any information about You which is personally identifiable, including, without limitation, Your name, address, telephone number, email address, financial details, Member Name, Password, comments, profiles, personal descriptions, photos and other information from which You can be identified and which You may disclose to Us or otherwise via the Site at any time.
@@ -48,7 +48,7 @@ To opt-out of receiving any information pursuant to paragraphs 3.1.5 or 3.1.6, Y
     4.1.3 Some general statistical information about the Site User base, sales patterns, traffic volumes and related matters may be passed on to reputable third parties but these details will not include information personally identifying You.
     4.1.4 We may disclose Your Data to the police, regulatory bodies or legal advisers in connection with any alleged criminal offence or suspected breach of the Terms and Conditions of Use and (where appropriate) Membership Terms and Conditions by You or otherwise where required by law.
 4.2 We do not pass or sell Your Data to third persons for any other purpose than those set out in 4.1 above. Any marketing under paragraph 3.1.6 is conducted by Us on behalf of third parties and they do not have any access to Your Data unless You Yourself choose to contact them.
-4.3 Always think carefully before disclosing Your Data or other information to other Members or otherwise posting Your Data on the Site. It is important that You are aware that any of Your Data or other information which You disclose to another Member may then be disclosed on the Site by that Member. As stated in the [Terms and Conditions](https://web.archive.org/web/20061205223809id_/http%3A//www.gaydarradio.com/scripts/tandc/radio_terms.asp), We have no responsibility or control over the contents of communications made between Members.
+4.3 Always think carefully before disclosing Your Data or other information to other Members or otherwise posting Your Data on the Site. It is important that You are aware that any of Your Data or other information which You disclose to another Member may then be disclosed on the Site by that Member. As stated in the [Terms and Conditions](https://web.archive.org/web/20070609163311id_/http%3A//www.gaydarradio.com/scripts/tandc/radio_terms.asp), We have no responsibility or control over the contents of communications made between Members.
 5\. Data Security
 5.1 We endeavour to take all reasonable steps to protect Your Data. All the Data collected by Us is stored on a secure server. The secure server software encrypts all information You input before it is sent to Us.
 6\. Cookies
