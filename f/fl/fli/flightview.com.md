@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flightview.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018210423id_/http%3A//flightview.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightview.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609094153id_/http%3A//www.flightview.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Flightview ::: Privacy Policy
 
@@ -14,7 +14,7 @@ Cookies
 
 FlightView uses cookies in the Live! product. These cookies are anonymous and are used to manage access and insure the product functions properly. Disabling cookies will completely disrupt a visitor’s ability to use Live!. 
 
-FlightView also utilizes third-party cookies and scripts to measure the performance of our web site and to help us optimize its design and flow for your convenience. These cookies record only anonymous information about your visit to our site and your privacy is maintained. 
+FlightView utilizes third-party cookies and scripts to measure the performance of our web site and to help us optimize its design and flow for your convenience. These cookies record only anonymous information about your visit to our site and your privacy is maintained. FlightView also utilizes cookies and scripts to control the frequency of advertisements displayed to each user. 
 
 Links to Other Sites
 
