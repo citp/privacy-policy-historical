@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heraldnet.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206084443id_/http%3A//www.heraldnet.com/legal/index.cfm%23pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heraldnet.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609224653id_/http%3A//www.heraldnet.com/legal/index.cfm%23pp) for the most accurate reproduction.*
 
 # HeraldNet: Legal Information
 
@@ -13,11 +13,11 @@ By visiting any Daily Herald Co. Web site and using its services, you agree to b
 
 ### Copyright
 
-**Copyright ©1996-2006.**  
+**Copyright ©1996-2007.**  
 The Daily Herald Co.  
 ALL RIGHTS RESERVED.
 
-All Web site pages, design, text, photographs, graphics, and the selection and arrangement thereof Copyright ©1996-2006, The Daily Herald Co., ALL RIGHTS RESERVED.
+All Web site pages, design, text, photographs, graphics, and the selection and arrangement thereof Copyright ©1996-2007, The Daily Herald Co., ALL RIGHTS RESERVED.
 
 This service (including, but not limited to text, photographs, graphics, video and audio content) is protected by copyright as a collective work or compilation under the copyright laws of the United States. 
 
