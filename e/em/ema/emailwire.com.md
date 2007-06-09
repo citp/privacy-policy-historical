@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emailwire.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205231621id_/http%3A//www.emailwire.com/cgi-bin/news/db.cgi%3Fdb%3Dcustomer%26uid%3Ddefault%26template%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailwire.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609025332id_/http%3A//www.emailwire.com/cgi-bin/news/db.cgi%3Fdb%3Dcustomer%26uid%3Ddefault%26template%3Dprivacy) for the most accurate reproduction.*
 
 # Emailwire.com: Press Releases; Press Release Distribution Service
 
