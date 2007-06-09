@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the schoollibraryjournal.com privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229204327id_/http%3A//www.schoollibraryjournal.com/info/CA446428.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoollibraryjournal.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609145710id_/http%3A//www.schoollibraryjournal.com/info/CA446428.html) for the most accurate reproduction.*
 
-# Privacy Policy - 8/19/2004 2:21:00 PM - School Library Journal
+# Privacy Policy - School Library Journal
+
+## Privacy Policy
 
 Last Revised: May 2006
 
