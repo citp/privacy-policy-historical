@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prophet.com privacy policy that was archived on 2006-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061127205012id_/http%3A//prophet.com/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prophet.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609122804id_/http%3A//www.prophet.com/misc/privacy.html) for the most accurate reproduction.*
 
 # Prophet - Privacy Policy
 
