@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csoonline.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205223256id_/http%3A//www.csoonline.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csoonline.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609081013id_/http%3A//www.csoonline.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for CSOonline.com -
 
