@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pakistanway.com privacy policy that was archived on 2006-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061220073447id_/http%3A//www.pakistanway.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakistanway.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609124927id_/http%3A//www.pakistanway.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Pakistanway - Privacy Policy
 
@@ -19,4 +19,4 @@ Pakistanway sites has security measures in place to protect the loss, misuse and
 **Cancellation**  
 At any point you wish us to remove your profile from the Pakistanway sites, you may cancel your account. Following a holding period to ensure that your account was not mistakenly cancelled, your account will be deleted and all personal information will be permanently removed from the Pakistanway sites.  
 Pakistanway is committed to maintaining the highest standards of privacy. We reserve the right to modify these policies at any time. Notification of any such changes will be posted on [ www.pakistanway.com](http://www.pakistanway.com/)  
-For more information you can contact us at [ info@pakistanway.com](mailto:info@pakistanway.com)
+For more information you can contact us at [ info @ pakistanway.com](mailto:info@pakistanway.com)
