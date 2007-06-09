@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joincreditexpert.com privacy policy that was archived on 2006-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061025204544id_/http%3A//www.creditexpert.co.uk/StaticContentUK.aspx%3FPageTypeID%3DPrivacyPolicy%26SiteID%3D100002%26SiteVersionID%3D487%26sc%3D400000%26bcd%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joincreditexpert.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609075958id_/http%3A//www.creditexpert.co.uk/StaticContentUK.aspx%3FPageTypeID%3DPrivacyPolicy%26SiteID%3D100002%26SiteVersionID%3D487%26sc%3D400000%26bcd%3D) for the most accurate reproduction.*
 
 # CreditExpert.co.uk
 
@@ -56,13 +56,25 @@ We may disclose any of the information that we collect to other companies within
 
 
 
-We will check your details with the records we hold and share with other fraud prevention agencies. If you provide false or inaccurate information and we suspect fraud, we will record this. If you want to receive details of those fraud prevention agencies from whom we obtain and with whom we record information about you, write to us at Experian Ltd, PO Box 8000, Nottingham, NG80 7WF. You have a legal right to these details.
+Full Notice 
 
-We and other organisations may use and search these records to: 
-  * Help make decisions about credit and credit related services, for you and members of your household;
-  * Help make decisions on motor, household, credit, life and other insurance proposals and insurance claims, for you and members of your household; 
-  * Trace debtors, recover debt, prevent fraud, and to manage your accounts or insurance policies;
-  * Check your identity to prevent money laundering, unless you provide other satisfactory proof of identity.
+  * If false or inaccurate information is provided and fraud is identified, we will record this and details will be passed to the other fraud prevention agencies.
+  * Law enforcement agencies may access and use this information.
+  * We and other organisations may also access and use this information to prevent fraud and money laundering, for example, when: 
+    * Checking details on applications for credit and credit related or other facilities
+    * Managing credit and credit related accounts or facilities
+    * Recovering debt
+    * Checking details on proposals and claims for all types of insurance
+    * Checking details of job applicants and employees
+  * Please contact us at Experian Ltd, PO Box 8000, Nottingham, NG80 7WF if you want to receive details of the fraud prevention agencies.
+  * We and other organisations may access and use from other countries the information recorded by fraud prevention agencies.
+
+
+
+Telephone Applications 
+
+  * If false or inaccurate information is provided and fraud is identified, we will record this and details will be passed to the other fraud prevention agencies to prevent fraud and money laundering. 
+  * We are able to provide you with further details explaining how the information held by fraud prevention agencies may be used.
 
 
 
