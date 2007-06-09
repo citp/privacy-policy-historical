@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mambosprouts.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209192335id_/http%3A//www.mambosprouts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mambosprouts.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609110214id_/http%3A//www.mambosprouts.com/privacy.html) for the most accurate reproduction.*
 
 # Mambo Sprouts Privacy Policy
 
@@ -45,9 +45,6 @@ Mambo Sprouts will occasionally update this Privacy Statement to reflect company
 
 Mambo Sprouts welcomes your comments regarding this Privacy Statement. If you believe that Mambo Sprouts has not adhered to this Statement, please contact Mambo Sprouts by telephone, e-mail, or postal mail.
 
-Mambo Sprouts Privacy  
-P.O. Box 68,   
-Haddonfield, NJ 08033  
 [info@mambosprouts.com](mailto:info@mambosprouts.com)   
-856-354-8100  
+856-833-1933  
 
