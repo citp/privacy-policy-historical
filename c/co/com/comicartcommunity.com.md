@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the comicartcommunity.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207084238id_/http%3A//comicartcommunity.com/viewnew.php%3Fid%3D003d300cbdf7e132b67314dfe202196a) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comicartcommunity.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609032155id_/http%3A//www.comicartcommunity.com/viewnew.php%3Fid%3D003d300cbdf7e132b67314dfe202196a) for the most accurate reproduction.*
 
 # Comic Art Community AUCTIONS Original Comic Book Art, Chat and Gallery
 
-**[User Agreement](https://web.archive.org/web/20061207084238id_/http%3A//comicartcommunity.com/viewnew.php?id=7a09353fead5afaa298ea6a8a75d23ce)**  
- **[Rules For Sellers](https://web.archive.org/web/20061207084238id_/http%3A//comicartcommunity.com/viewnew.php?id=4ab37bfe90713fd59f144d2476fc2d13)**  
- **[Waiver Of Liability](https://web.archive.org/web/20061207084238id_/http%3A//comicartcommunity.com/viewnew.php?id=1f385f44b2567a642f2bd36d96c6d463)**  
- **[Terms Of Use](https://web.archive.org/web/20061207084238id_/http%3A//comicartcommunity.com/viewnew.php?id=565d1b53257ca2f00a6cf4a930065138)**  
- **[Prohibited Items](https://web.archive.org/web/20061207084238id_/http%3A//comicartcommunity.com/viewnew.php?id=4c0e77b25165292c7ceeaff7743c889a)**  
- **[Legal Notice for Copyright Holders](https://web.archive.org/web/20061207084238id_/http%3A//comicartcommunity.com/viewnew.php?id=abab0583d405b322758cb97ddda8cc57)**  
- **[Advertise On This Site!](https://web.archive.org/web/20061207084238id_/http%3A//comicartcommunity.com/viewnew.php?id=6c9c5257ae220ff04bd555a69c8a01ab)**  
- **[How To Make A Shorter URL](https://web.archive.org/web/20061207084238id_/http%3A//comicartcommunity.com/viewnew.php?id=16d424c8e33ac6fa816d4be323e54b60)**  
- **[Rules For Buyers](https://web.archive.org/web/20061207084238id_/http%3A//comicartcommunity.com/viewnew.php?id=1b8a2c9bd2b1ea1eba40452258f18bc4)**  
- **[Tax Policy](https://web.archive.org/web/20061207084238id_/http%3A//comicartcommunity.com/viewnew.php?id=593524fb04638448993115bf19cf76ed)**  
+**[User Agreement](https://web.archive.org/web/20070609032155id_/http%3A//www.comicartcommunity.com/viewnew.php?id=7a09353fead5afaa298ea6a8a75d23ce)**  
+ **[Rules For Sellers](https://web.archive.org/web/20070609032155id_/http%3A//www.comicartcommunity.com/viewnew.php?id=4ab37bfe90713fd59f144d2476fc2d13)**  
+ **[Waiver Of Liability](https://web.archive.org/web/20070609032155id_/http%3A//www.comicartcommunity.com/viewnew.php?id=1f385f44b2567a642f2bd36d96c6d463)**  
+ **[Terms Of Use](https://web.archive.org/web/20070609032155id_/http%3A//www.comicartcommunity.com/viewnew.php?id=565d1b53257ca2f00a6cf4a930065138)**  
+ **[Prohibited Items](https://web.archive.org/web/20070609032155id_/http%3A//www.comicartcommunity.com/viewnew.php?id=4c0e77b25165292c7ceeaff7743c889a)**  
+ **[Legal Notice for Copyright Holders](https://web.archive.org/web/20070609032155id_/http%3A//www.comicartcommunity.com/viewnew.php?id=abab0583d405b322758cb97ddda8cc57)**  
+ **[Advertise On This Site!](https://web.archive.org/web/20070609032155id_/http%3A//www.comicartcommunity.com/viewnew.php?id=6c9c5257ae220ff04bd555a69c8a01ab)**  
+ **[How To Make A Shorter URL](https://web.archive.org/web/20070609032155id_/http%3A//www.comicartcommunity.com/viewnew.php?id=16d424c8e33ac6fa816d4be323e54b60)**  
+ **[Rules For Buyers](https://web.archive.org/web/20070609032155id_/http%3A//www.comicartcommunity.com/viewnew.php?id=1b8a2c9bd2b1ea1eba40452258f18bc4)**  
+ **[Tax Policy](https://web.archive.org/web/20070609032155id_/http%3A//www.comicartcommunity.com/viewnew.php?id=593524fb04638448993115bf19cf76ed)**  
 | Privacy Policy  
 
 
