@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the legacy.com privacy policy that was archived on 2006-05-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060505195757id_/http%3A//legacy.com/Obituaries.asp%3FPage%3DPrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the legacy.com privacy policy that was archived on 2007-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070609183231id_/http%3A//legacy.com/Obituaries.asp%3FPage%3DPrivacyPolicy) for the most accurate reproduction.-->
 
 <html><head>
 				<title>Obituaries | Death Notices | Newspaper Obituaries | Online Obituaries | Newspaper Death Notices | Online Death Notices</title>
@@ -77,12 +77,27 @@
 		return;
 	}
 
-	function OpenTribute(intPersonId)
+	function OpenTribute(intPersonId, isProd)
 	{
-		window.open("/Tribute/Tribute.asp?PersonId=" + intPersonId + "&Cobrand=LEGACY",'tribute', 
-					'menubar=no,scrollbars=yes,height=520,width=758,dependent=yes,left=50,top=50');
+	    if(isProd == 'TRUE')
+	    {
+	    	window.open("http://turbine.legacy.com/MT/Tribute.aspx?TributePersonID=" + intPersonId + "&Cobrand=LEGACY",'tribute', 
+					'location=no,menubar=no,scrollbars=no,height=520,width=740,dependent=yes,left=10,top=10');	
+	    }
+	    else
+	    {
+	    	window.open("/MT/Tribute.aspx?TributePersonID=" + intPersonId + "&Cobrand=LEGACY",'tribute', 
+					'location=no,menubar=no,scrollbars=no,height=520,width=740,dependent=yes,left=10,top=10');			
+	    }
 	}
 
+	// For prod we may need to hard code it like below because the javascript call to this in the flash on the home page is hard coded.
+	/*function OpenTribute(intPersonId)
+	{
+	  	window.open("http://turbine.legacy.com/MT/Tribute.aspx?TributePersonID=" + intPersonId + "&Cobrand=LEGACY",'tribute', 
+			'location=no,menubar=no,scrollbars=no,height=520,width=740,dependent=yes,left=10,top=10');
+	}*/
+	
 	function PhotoGalleryRedirect(strPersonId)
 	{
 		window.open('/CommonCobrand/PhotoGalleryRedirect.asp?PersonId=' + strPersonId + '&Cobrand=LEGACY', 'photogalleryredirect', 
@@ -93,7 +108,7 @@
 	
 	function OpenTermsOfUse(intPopup, intPermanence)
 	{
-		var strUrl = 'obituaries.asp?Page=PopupTermsOfUse';
+		var strUrl = 'Obituaries.asp?Page=PopupTermsOfUse';
 		if( intPermanence == 1 )
 		{
 			strUrl += '#Permanence';
@@ -107,6 +122,32 @@
 		{
 			location.href = strUrl;
 		}
+	}
+	
+	function SelectUtility(UtilitPage)
+	{
+		var i = document.UtilitiesOption.Utilities.options[document.UtilitiesOption.Utilities.selectedIndex].value;
+				
+		switch (i)
+		{
+			case "0":
+				document.location.href = UtilitPage;			
+				break;
+			default:			
+				break;
+		}
+		
+		document.UtilitiesOption.Utilities.value = -1;			
+		
+	}
+	
+	function EditDeathNotice(strPageName, intPersonId, intModule, intRef)
+	{
+	    var strHref = strPageName + "?Page=LifeStory&PersonID=" + intPersonId + "&ModEdit=" + intModule;
+
+	    location.href = strHref;
+		//window.open(strHref, 'editdeathnotice', 'menubar=no,scrollbars=yes, resizable=yes,height=700,width=785,dependent=yes,left=25,top=25');
+		return;
 	}
 	// Stop Hiding. -->
 </script></head>
@@ -122,7 +163,7 @@
 			<tbody><tr> 
 				<td width="780" align="center">
 
-					<img src="/images/Legacy/LegacyHeader.jpg" alt="Death Notices | Obituaries | Newspaper Obituaries | Online Obituaries | Newspaper Death Notices | Online Death Notices" usemap="#LegacyHeader_Map" border="0">
+					<img src="http://mi-cache.legacy.com/legacy/images/Legacy/LegacyHeader.jpg" alt="Death Notices | Obituaries | Newspaper Obituaries | Online Obituaries | Newspaper Death Notices | Online Death Notices" usemap="#LegacyHeader_Map" border="0">
 					<map name="LegacyHeader_Map">
 						<area shape="rect" alt="Legacy.com - Your nationwide resource for obituaries and Guest Books" coords="8,0,270,59" href="/Default.asp">
 					</map>
@@ -134,28 +175,28 @@
 				<tr>
 					<td align="left">
 		
-		<form name="SubHeaderSearchForm" action="obituaries.asp?Page=ObitFinderResults" method="post" onsubmit="return ValidateSearch(document.SubHeaderSearchForm);">
+		<form name="SubHeaderSearchForm" action="Obituaries.asp?Page=ObitFinderResults" method="post" onsubmit="return ValidateSearch(document.SubHeaderSearchForm);">
 		<table width="100%" border="0" cellspacing="0" cellpadding="0">
 		<tbody><tr>
 
 				<td width="20" nowrap="">&nbsp;</td>
-				<td nowrap="" width="180"><a href="obituaries.asp">Home</a></td>
+				<td nowrap="" width="180"><a href="Obituaries.asp">Home</a></td>
 				<td align="center" class="HeaderBarText" nowrap="">
 
 					<table width="100%" border="0" cellspacing="2" cellpadding="0">
 					<tbody><tr>
 						<td align="center" nowrap="" class="SearchBarText">Search by Last Name:&nbsp;</td>
 						<td nowrap=""><input type="text" name="LastName" class="SearchBarBox"></td>
-						<td nowrap="">&nbsp;<input type="image" name="SubmitButton" src="/images/Legacy/buttons/ButtonSearchObits.gif"></td>
+						<td nowrap="">&nbsp;<input type="image" name="SubmitButton" src="http://mi-cache.legacy.com/legacy/images/Legacy/buttons/ButtonSearchObits.gif"></td>
 					</tr>
 					</tbody></table>
 
 				</td>
 
-			<td align="right" class="SubHeaderDate" nowrap="" width="100%" height="25">Friday, May 05, 2006</td>
+			<td align="right" class="SubHeaderDate" nowrap="" width="100%" height="25">Saturday, June 09, 2007</td>
 		</tr>
 		<tr>
-			<td height="3" colspan="4"><img src="/images/Legacy/HeaderBar.gif" alt="" width="100%" height="1" border="0"></td>
+			<td height="3" colspan="4"><img src="http://mi-cache.legacy.com/legacy/images/Legacy/HeaderBar.gif" alt="" width="100%" height="1" border="0"></td>
 		</tr>
 		</tbody></table>
 		</form>
@@ -175,10 +216,10 @@
 		
 		<table width="780" border="0" cellspacing="0" cellpadding="0"> 
 		<tbody><tr> 
-			<td colspan="3"><img src="/images/Legacy/spacer.gif" alt="" height="10" border="0"></td> 
+			<td colspan="3"><img src="http://mi-cache.legacy.com/legacy/images/Legacy/spacer.gif" alt="" height="10" border="0"></td> 
 		</tr> 
 		<tr> 
-			<td width="5%"><img src="/images/Legacy/spacer.gif" alt="" width="10" height="10" border="0"></td> 
+			<td width="5%"><img src="http://mi-cache.legacy.com/legacy/images/Legacy/spacer.gif" alt="" width="10" height="10" border="0"></td> 
 			<td width="90%" class="ContentHeight"> 
 		
 		<table cellpadding="0" cellspacing="0" border="0" valign="top" width="100%">
@@ -252,16 +293,18 @@
 				Privacy Policy whenever you provide information on this Web site.</p>
 				<p class="Large Heading">Additional information</p>
 				<p>Questions regarding the Legacy.com, Inc. Privacy Policy should be directed to 
-				<a href="obituaries.asp?Page=MailLegacy&amp;MailTo=info@legacy.com&amp;Subject=Privacy+Policy">info@legacy.com</a>.</p>
+
+				<a href="Obituaries.asp?Page=MailLegacy&amp;MailTo=info@legacy.com&amp;Subject=Privacy+Policy" class="link2">info@legacy.com</a>.</p>
+
 			</td>
 		</tr>
 		</tbody></table>
 
 			</td> 
-			<td width="5%"><img src="/images/Legacy/spacer.gif" alt="" width="10" height="10" border="0"></td> 
+			<td width="5%"><img src="http://mi-cache.legacy.com/legacy/images/Legacy/spacer.gif" alt="" width="10" height="10" border="0"></td> 
 		</tr> 
 		<tr> 
-			<td colspan="3"><img src="/images/Legacy/spacer.gif" alt="" height="30" border="0"></td> 
+			<td colspan="3"><img src="http://mi-cache.legacy.com/legacy/images/Legacy/spacer.gif" alt="" height="30" border="0"></td> 
 		</tr> 
 		</tbody></table> 
 	
@@ -271,11 +314,11 @@
 					<table border="0" cellpadding="0" cellspacing="0" width="100%" align="center">
 					<tbody><tr>
 						<td align="center" class="FooterText">
-							<a href="obituaries.asp?Page=Home" class="FooterText">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-							<a href="obituaries.asp?Page=PrivacyPolicy" class="FooterText">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-							<a href="obituaries.asp?Page=TermsOfUse" class="FooterText">Terms of Use</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-							<a href="obituaries.asp?Page=AboutUs" class="FooterText">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-							<a href="obituaries.asp?Page=ContactUs" class="FooterText">Contact Us</a>
+							<a href="Obituaries.asp?Page=Home" class="FooterText">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="Obituaries.asp?Page=PrivacyPolicy" class="FooterText">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="Obituaries.asp?Page=TermsOfUse" class="FooterText">Terms of Use</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="Obituaries.asp?Page=AboutUs" class="FooterText">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="Obituaries.asp?Page=ContactUs" class="FooterText">Contact Us</a>
 						</td>
 					</tr>
 					</tbody></table>
@@ -283,9 +326,9 @@
 			</tr>
 			<tr>
 				<td class="CopyRight" valign="bottom">
-					© Copyright 1999-2006 Legacy.com&nbsp;&nbsp;All Rights Reserved
-					<a href="/Services/admina.asp?Cobrand=LEGACY"><img src="/images/General/shim.gif" width="1" height="1" border="0"></a>
-					<a href="/Services/adminb.asp?Cobrand=LEGACY"><img src="/images/General/shim.gif" width="1" height="1" border="0"></a>
+					© Copyright 1999-2007 Legacy.com&nbsp;&nbsp;All Rights Reserved
+					<a href="/Services/admina.asp?Cobrand=LEGACY"><img src="http://mi-cache.legacy.com/legacy/images/General/shim.gif" width="1" height="1" border="0"></a>
+					<a href="/Services/adminb.asp?Cobrand=LEGACY"><img src="http://mi-cache.legacy.com/legacy/images/General/shim.gif" width="1" height="1" border="0"></a>
 				</td>
 			</tr>
 			</tbody></table> 
@@ -294,36 +337,6 @@
 			<!-- End LegacyContent -->	
 
 		
-	
-		<!--BEGIN-Legacy stats code-->
-		<!--BEGIN-SMB-1.2.3.731.d001-->
-		<script language="JavaScript">
-			var st_pg=""; 
-			var st_ai="";
-			var st_v=1.0; 
-			var st_ci="731"; 
-			var st_di="d001"; 
-			var st_dd="st.sageanalyst.net"; 
-			var st_tai="v:1.2.3";
-		</script>
-		<script language="JavaScript1.1"> st_v=1.1; </script>
-		<script language="JavaScript1.2"> st_v=1.2; </script>
-		<script language="JavaScript1.1" src="//st.sageanalyst.net/tag-731.js">
-		</script>
-		<script language="JavaScript">
-		if (st_v==1.0) {
-			var st_uj;
-			var st_dn = (new Date()).getTime();
-			var st_rf = escape(document.referrer);
-			st_uj = "//"+st_dd+"/"+st_dn+"/JS?ci="+st_ci+"&di="+st_di+
-			"&pg="+st_pg+"&rf="+st_rf+"&jv="+st_v+"&tai="+st_tai+"&ai="+st_ai;
-			var iXz = new Image();
-			iXz.src = st_uj;
-		}
-		</script>
-		<noscript><img src="//st.sageanalyst.net/NS?ci=731&di=d001&pg=&ai="></noscript>
-		<!--END-SMB-1.2.3.731.d001-->
-		<!--END-Legacy stats code-->
 
 		<!--Legacy WEBSIDESTORY CODE HBX1.0 (Universal)-->
 		<!--COPYRIGHT 1997-2005 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
@@ -385,7 +398,7 @@
 
 		</script>
 		
-			<script language="javascript1.1" src="http://WWW.LEGACY.COM/script/js/hbx.js"></script>
+			<script language="javascript1.1" src="http://LEGACY.COM/script/js/hbx.js"></script>
 			
 		<!--END Legacy WEBSIDESTORY CODE-->
 
