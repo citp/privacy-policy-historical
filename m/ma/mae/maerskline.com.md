@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maerskline.com privacy policy that was archived on 2006-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060420162521id_/http%3A//www.maerskline.com/link/%3Fpage%3Dbrochure%26path%3D/user_terms_general/user_terms_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maerskline.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609212300id_/http%3A//www.maerskline.com/link/%3Fpage%3Dbrochure%26path%3D/user_terms_general/user_terms_privacy) for the most accurate reproduction.*
 
 # Maersk Line shipping containers worldwide
 
