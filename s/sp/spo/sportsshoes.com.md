@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsshoes.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205205005id_/http%3A//www.sportsshoes.com/misc.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsshoes.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610015244id_/http%3A//www.sportsshoes.com/misc.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # sportswear and sporting footwear - sportsshoes unlimited
 
