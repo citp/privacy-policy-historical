@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beachcamera.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214180743id_/http%3A//www.beachcamera.com/shop/usertpl.aspx%3Ffle%3Dprivacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beachcamera.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609231657id_/http%3A//www.beachcamera.com/Shop/usertpl.aspx%3Ffle%3Dprivacypolicy.htm) for the most accurate reproduction.*
 
 # BeachCamera.com
 
