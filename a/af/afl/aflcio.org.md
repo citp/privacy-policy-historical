@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aflcio.org privacy policy that was archived on 2006-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061129210854id_/http%3A//www.aflcio.org/siteguides/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aflcio.org privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609024810id_/http%3A//www.aflcio.org/siteguides/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -42,5 +42,8 @@ If you send us an e-mail, you should know that e-mail is not necessarily secure 
 
  **Corrections/Updating Personal Information:**  
 If your personal information changes (such as your ZIP code), or if you wish to have your information removed from our database, contact us and we will endeavor to provide a way to correct, update or remove that personal data provided to us.
+
+ **Disclaimer:  
+** Opinions expressed here and in any corresponding comments are the personal opinions of the original authors, and do not necessarily reflect the views of the AFL-CIO. All AFL & CIO names and trademarks are the property of the AFL-CIO or its subsidiaries in the United States and other countries.
 
 September 4, 2001
