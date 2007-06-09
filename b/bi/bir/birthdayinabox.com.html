@@ -1,8 +1,7 @@
-<!--The following is the downloaded HTML source of the birthdayinabox.com privacy policy that was archived on 2006-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061206080508id_/http%3A//www.birthdayinabox.com/lobby.asp-page-privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the birthdayinabox.com privacy policy that was archived on 2007-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070609192009id_/http%3A//www.birthdayinabox.com/lobby.asp-page-privacy) for the most accurate reproduction.-->
 
 <html><head>
-
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
 
@@ -63,8 +62,8 @@ function preloadImages() {
             popupWin.window.focus()
         }        function openTheWindow( strBody ) {
             w = window.open( "", "MyWindow", "width=280,height=350"); 
-            w.document.write("<html><HEAD></HEAD>");
-            w.document.write("<body><p style='font-Size: 10pt; Font-Family: Arial, Helvetica, sans-serif'>" + strBody + "<br></p><p>&nbsp;<p><div align='center'><a href='javascript:window.close();'><img src='images/done.gif' width='62' height='12' alt='done' border='0'></a></div></body></html>");
+            w.document.write("<html><HEAD><title>Birthday in a Box</title></HEAD>");
+            w.document.write("<body><center><b>Birthday in a Box Party Tips</b></center><p style='font-Size: 10pt; Font-Family: Arial, Helvetica, sans-serif'>" + strBody + "<br></p><p>&nbsp;<p><div align='center'><a href='javascript:window.close();'><img src='images/done.gif' width='62' height='12' alt='done' border='0'></a></div></body></html>");
             w.document.close();
         }
 </script>
@@ -85,9 +84,8 @@ function preloadImages() {
 <style>
   td.experiment
   {
-
-	 background-image: url("images/site/background_leftside2.jpg");
-
+			   background-image: url("http://images.birthdayinabox.com/site/left_side_nav/AllPPand1stBday.jpg");  
+		
 	background-repeat: no-repeat
   }
     td.experiment2
@@ -98,377 +96,6 @@ function preloadImages() {
 </style>
    <link rel="icon" href="favicon.ico" type="image/x-icon">
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-	
-<!-- START OF SDC Advanced Tracking Code -->
-<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
-<!-- V7.5 -->
-<!-- $DateTime: 2005/09/22 12:07:59 $ -->
-<script language="Javascript"><!--
-var gService = false;
-var gTimeZone = -5;
-// Code section for Enable First-Party Cookie Tracking
-function dcsCookie(){
-	if (typeof(dcsOther)=="function"){
-		dcsOther();
-	}
-	else if (typeof(dcsPlugin)=="function"){
-		dcsPlugin();
-	}
-	else if (typeof(dcsFPC)=="function"){
-		dcsFPC(gTimeZone);
-	}
-}
-function dcsGetCookie(name){
-	var pos=document.cookie.indexOf(name+"=");
-	if (pos!=-1){
-		var start=pos+name.length+1;
-		var end=document.cookie.indexOf(";",start);
-		if (end==-1){
-			end=document.cookie.length;
-		}
-		return unescape(document.cookie.substring(start,end));
-	}
-	return null;
-}
-function dcsGetCrumb(name,crumb){
-	var aCookie=dcsGetCookie(name).split(":");
-	for (var i=0;i<aCookie.length;i++){
-		var aCrumb=aCookie[i].split("=");
-		if (crumb==aCrumb[0]){
-			return aCrumb[1];
-		}
-	}
-	return null;
-}
-function dcsGetIdCrumb(name,crumb){
-	var cookie=dcsGetCookie(name);
-	var id=cookie.substring(0,cookie.indexOf(":lv="));
-	var aCrumb=id.split("=");
-	for (var i=0;i<aCrumb.length;i++){
-		if (crumb==aCrumb[0]){
-			return aCrumb[1];
-		}
-	}
-	return null;
-}
-function dcsFPC(offset){
-	if (typeof(offset)=="undefined"){
-		return;
-	}
-	var name=gFpc;
-	var dCur=new Date();
-	dCur.setTime(dCur.getTime()+(dCur.getTimezoneOffset()*60000)+(offset*3600000));
-	var dExp=new Date(dCur.getTime()+315360000000);
-	var dSes=new Date(dCur.getTime());
-	if (document.cookie.indexOf(name+"=")!=-1){
-		var id=dcsGetIdCrumb(name,"id");
-		var lv=parseInt(dcsGetCrumb(name,"lv"));
-		var ss=parseInt(dcsGetCrumb(name,"ss"));
-		if ((id==null)||(id=="null")||isNaN(lv)||isNaN(ss)){
-			return;
-		}
-		WT.co_f=id;
-		var dLst=new Date(lv);
-		dSes.setTime(ss);
-		if ((dCur.getTime()>(dLst.getTime()+1800000))||(dCur.getTime()>(dSes.getTime()+28800000))){
-			dSes.setTime(dCur.getTime());
-			WT.vt_f_s="1";
-		}
-		if ((dCur.getDay()!=dLst.getDay())||(dCur.getMonth()!=dLst.getMonth())||(dCur.getYear()!=dLst.getYear())){
-			WT.vt_f_d="1";
-		}
-	}
-	else{
-		var tmpname=name+"_TMP=";
-		document.cookie=tmpname+"1";
-		if (document.cookie.indexOf(tmpname)!=-1){
-			document.cookie=tmpname+"; expires=Thu, 01-Jan-1970 00:00:01 GMT";
-			if ((typeof(gWtId)!="undefined")&&(gWtId!="")){
-				WT.co_f=gWtId;
-			}
-			else if ((typeof(gTempWtId)!="undefined")&&(gTempWtId!="")){
-				WT.co_f=gTempWtId;
-				WT.vt_f="1";
-			}
-			else{
-				WT.co_f="2";
-				var cur=dCur.getTime().toString();
-				for (var i=2;i<=(32-cur.length);i++){
-					WT.co_f+=Math.floor(Math.random()*16.0).toString(16);
-				}
-				WT.co_f+=cur;
-				WT.vt_f="1";
-			}
-			if (typeof(gWtAccountRollup)=="undefined"){
-				WT.vt_f_a="1";
-			}
-			WT.vt_f_s="1";
-			WT.vt_f_d="1";
-		}
-		else{
-			WT.vt_f="2";
-			WT.vt_f_a="2";
-			return;
-		}
-	}
-	WT.co_f=escape(WT.co_f);
-	WT.vt_sid=WT.co_f+"."+dSes.getTime();
-	var expiry="; expires="+dExp.toGMTString();
-	document.cookie=name+"="+"id="+WT.co_f+":lv="+dCur.getTime().toString()+":ss="+dSes.getTime().toString()+expiry+"; path=/"+(((typeof(gFpcDom)!="undefined")&&(gFpcDom!=""))?("; domain="+gFpcDom):(""));
-}
-
-// Code section for Use the new first-party cookie generated with this tag.
-var gFpc="WT_FPC";
-var gWtId="";
-var gTempWtId="";
-var gConvert=true;
-
-function dcsAdv(){
-	dcsFunc("dcsET");
-	dcsFunc("dcsCookie");
-	dcsFunc("dcsAdSearch");
-	dcsFunc("dcsTP");
-}
-
-//-->
-</script>
-<!-- END OF SDC Advanced Tracking Code -->
-
-<!-- START OF SmartSource Data Collector TAG -->
-<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
-<!-- V7.5 -->
-<!-- $DateTime: 2005/10/21 15:53:12 $ -->
-<script language="Javascript"><!--
-gVersion="1.0";
-//-->
-</script>
-<script language="Javascript1.1"><!--
-gVersion="1.1";
-//-->
-</script>
-<script language="Javascript1.2"><!--
-gVersion="1.2";
-var RE={"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
-//-->
-</script>
-<script language="Javascript1.3"><!--
-gVersion="1.3";
-if (window.ActiveXObject){
-	var gFV="";
-	for (var gVer=2;gVer<=10;gVer++){
-		try{
-			var gFlash = eval("new ActiveXObject('ShockwaveFlash.ShockwaveFlash."+gVer+"');");
-			if (gFlash){
-				gFV=gVer+".0";
-				break;
-			}
-		}
-		catch(e){
-		}
-	}
-}
-//-->
-</script>
-<script language="Javascript1.4"><!--
-gVersion="1.4";
-//-->
-</script>
-<script language="Javascript1.5"><!--
-gVersion="1.5";
-//-->
-</script>
-<script language="JavaScript"><!--
-var gImages=new Array;
-var gIndex=0;
-var DCS=new Object();
-var WT=new Object();
-var DCSext=new Object();
-var gQP=new Array();
-
-var gDomain="sdc.birthdayinabox.com:81";
-var gDcsId="dcs7359jzgsokyenivhi0dynf_6r9l";
-
-if ((typeof(gConvert)!="undefined")&&gConvert&&(document.cookie.indexOf(gFpc+"=")==-1)){
-	document.write("<SCR"+"IPT Language='JavaScript' SRC='"+"http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+"/"+gDcsId+"/wtid.js"+"'></SCR"+"IPT>");
-}
-//-->
-</script>
-<script language="Javascript"><!--
-function dcsVar(){
-	var dCurrent=new Date();
-	WT.tz=dCurrent.getTimezoneOffset()/60*-1;
-	if (WT.tz==0){
-		WT.tz="0";
-	}
-	WT.bh=dCurrent.getHours();
-	WT.ul=navigator.appName=="Netscape"?navigator.language:navigator.userLanguage;
-	if (typeof(screen)=="object"){
-		WT.cd=navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth;
-		WT.sr=screen.width+"x"+screen.height;
-	}
-	if (typeof(navigator.javaEnabled())=="boolean"){
-		WT.jo=navigator.javaEnabled()?"Yes":"No";
-	}
-	if (document.title){
-		WT.ti=document.title;
-	}
-	WT.js="Yes";
-	if (typeof(gVersion)!="undefined"){
-		WT.jv=gVersion;
-	}
-	if (document.body&&document.body.addBehavior){
-		document.body.addBehavior("#default#clientCaps");
-		if (document.body.connectionType){
-			WT.ct=document.body.connectionType;
-		}
-		document.body.addBehavior("#default#homePage");
-		WT.hp=document.body.isHomePage(location.href)?"1":"0";
-	}
-	if (parseInt(navigator.appVersion)>3){
-		if ((navigator.appName=="Microsoft Internet Explorer")&&document.body){
-			WT.bs=document.body.offsetWidth+"x"+document.body.offsetHeight;
-		}
-		else if (navigator.appName=="Netscape"){
-			WT.bs=window.innerWidth+"x"+window.innerHeight;
-		}
-	}
-	WT.fi="No";
-	if (window.ActiveXObject){
-		if ((typeof(gFV)!="undefined")&&(gFV.length>0)){
-			WT.fi="Yes";
-			WT.fv=gFV;
-		}
-	}
-	else if (navigator.plugins&&navigator.plugins.length){
-		for (var i=0;i<navigator.plugins.length;i++){
-			if (navigator.plugins[i].name.indexOf('Shockwave Flash')!=-1){
-				WT.fi="Yes";
-				WT.fv=navigator.plugins[i].description.split(" ")[2];
-				break;
-			}
-		}
-	}
-	WT.sp="@@SPLITVALUE@@";
-	DCS.dcsdat=dCurrent.getTime();
-	DCS.dcssip=window.location.hostname;
-	DCS.dcsuri=window.location.pathname;
-	if (window.location.search){
-		DCS.dcsqry=window.location.search;
-		if (gQP.length>0){
-			for (var i=0;i<gQP.length;i++){
-				var pos=DCS.dcsqry.indexOf(gQP[i]);
-				if (pos!=-1){
-					var front=DCS.dcsqry.substring(0,pos);
-					var end=DCS.dcsqry.substring(pos+gQP[i].length,DCS.dcsqry.length);
-					DCS.dcsqry=front+end;
-				}
-			}
-		}
-	}
-	if ((window.document.referrer!="")&&(window.document.referrer!="-")){
-		if (!(navigator.appName=="Microsoft Internet Explorer"&&parseInt(navigator.appVersion)<4)){
-			DCS.dcsref=window.document.referrer;
-		}
-	}
-}
-
-function A(N,V){
-	return "&"+N+"="+dcsEscape(V);
-}
-
-function dcsEscape(S){
-	if (typeof(RE)!="undefined"){
-		var retStr = new String(S);
-		for (R in RE){
-			retStr = retStr.replace(RE[R],R);
-		}
-		return retStr;
-	}
-	else{
-		return escape(S);
-	}
-}
-
-function dcsCreateImage(dcsSrc){
-	if (document.images){
-		gImages[gIndex]=new Image;
-		if ((typeof(gHref)!="undefined")&&(gHref.length>0)){
-			gImages[gIndex].onload=gImages[gIndex].onerror=dcsLoadHref;
-		}
-		gImages[gIndex].src=dcsSrc;
-		gIndex++;
-	}
-	else{
-		document.write('<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="'+dcsSrc+'">');
-	}
-}
-
-function dcsMeta(){
-	var elems;
-	if (document.all){
-		elems=document.all.tags("meta");
-	}
-	else if (document.documentElement){
-		elems=document.getElementsByTagName("meta");
-	}
-	if (typeof(elems)!="undefined"){
-		for (var i=1;i<=elems.length;i++){
-			var meta=elems.item(i-1);
-			if (meta.name){
-				if (meta.name.indexOf('WT.')==0){
-					WT[meta.name.substring(3)]=meta.content;
-				}
-				else if (meta.name.indexOf('DCSext.')==0){
-					DCSext[meta.name.substring(7)]=meta.content;
-				}
-				else if (meta.name.indexOf('DCS.')==0){
-					DCS[meta.name.substring(4)]=meta.content;
-				}
-			}
-		}
-	}
-}
-
-function dcsTag(){
-	var P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+(gDcsId==""?'':'/'+gDcsId)+"/dcs.gif?";
-	for (N in DCS){
-		if (DCS[N]) {
-			P+=A(N,DCS[N]);
-		}
-	}
-	for (N in WT){
-		if (WT[N]) {
-			P+=A("WT."+N,WT[N]);
-		}
-	}
-	for (N in DCSext){
-		if (DCSext[N]) {
-			P+=A(N,DCSext[N]);
-		}
-	}
-	if (P.length>2048&&navigator.userAgent.indexOf('MSIE')>=0){
-		P=P.substring(0,2040)+"&WT.tu=1";
-	}
-	dcsCreateImage(P);
-}
-
-function dcsFunc(func){
-	if (typeof(window[func])=="function"){
-		window[func]();
-	}
-}
-
-dcsVar();
-dcsMeta();
-dcsFunc("dcsAdv");
-dcsTag();
-//-->
-</script>
-
-<noscript>
-<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://sdc.birthdayinabox.com:81/dcs7359jzgsokyenivhi0dynf_6r9l/njs.gif?dcsuri=/nojavascript&amp;WT.js=No">
-</noscript>
-<!-- END OF SmartSource Data Collector  TAG -->	
 
 </head>
 
@@ -485,17 +112,20 @@ dcsTag();
 		
     
 	  <map name="Map" id="Map">
-  <area shape="rect" coords="183,10,253,44" href="http://www.birthdayinabox.com/lobby.asp">
-  <area shape="rect" coords="258,8,385,41" href="http://www.birthdayinabox.com/lobby.asp-cat_id-5-page-cat">
-  <area shape="rect" coords="388,5,505,42" href="http://www.birthdayinabox.com/lobby.asp-page-alacarte_main">
-  <area shape="rect" coords="507,7,634,42" href="http://www.birthdayinabox.com/lobby.asp-page-partyplanning">
-  <area shape="rect" coords="8,2,150,45" href="http://www.birthdayinabox.com/lobby.asp">
-  <area shape="rect" coords="642,7,745,41" href="http://www.birthdayinabox.com/lobby.asp-page-persn"></map><table id="Table_01" width="743" border="0" cellpadding="0" cellspacing="0">
+    <area shape="rect" coords="5,3,170,47" href="http://www.birthdayinabox.com">
+	<area shape="rect" coords="173,10,240,44" href="http://www.birthdayinabox.com/lobby.asp">
+  <area shape="rect" coords="243,8,368,41" href="http://www.birthdayinabox.com/lobby.asp-cat_id-5-page-cat">
+  <area shape="rect" coords="373,5,488,42" href="http://www.birthdayinabox.com/lobby.asp-page-alacarte_main">
+  <area shape="rect" coords="495,7,605,42" href="http://www.birthdayinabox.com/lobby.asp-page-persn">
+  <area shape="rect" coords="610,7,727,41" href="http://www.birthdayinabox.com/lobby.asp-page-firstbirthday">
+  <area shape="rect" coords="743,7,729,41" href="http://www.birthdayinabox.com/lobby.asp-page-baby_showers">
+</map><table id="Table_01" width="743" border="0" cellpadding="0" cellspacing="0">
         	<tbody><tr>
 			<td colspan="16"><style>
     td.exp3
  {
-    background-image: url("images/site/background_top_middle.jpg");
+    background-image: url("http://images.birthdayinabox.com/site/background_top_middle.jpg");
+		
 	background-repeat: no-repeat
   }
   A:link
@@ -503,14 +133,14 @@ dcsTag();
 </style>
 	<table width="743" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
-	<td width="187"><a href="http://www.birthdayinabox.com"><img src="../../images/site/top_left_corner.jpg" width="187" height="32" border="0"></a></td>
+	<td width="187"><a href="http://www.birthdayinabox.com"><img src="http://images.birthdayinabox.com/site/top_left_corner.jpg" width="187" height="32" border="0"></a></td>
 	<td class="exp3" width="556" height="32">
 	
 		<table border="0" cellspacing="0" cellpadding="0">
 			  <form name="search" method="post" action="http://www.birthdayinabox.com/lobby.asp-page-search"></form><tbody><tr>
 				<td width="256" class="menu"><a href="http://www.birthdayinabox.com/lobby.asp-page-shipping_main">shipping</a> | <a href="http://www.birthdayinabox.com/lobby.asp-page-help">customer help </a>|&nbsp;<a href="http://www.birthdayinabox.com/lobby.asp-page-OrderStatus">order status</a></td>
 			  	<td nowrap="" width="200"><input name="keyword" type="text" class="formstyle" size="30"></td>
-				<td nowrap="" width="100"><input name="search" type="image" src="images/site/search_button.jpg" alt="search" width="85" height="24" hspace="10"></td>
+				<td nowrap="" width="100"><input name="search" type="image" src="http://images.birthdayinabox.com/site/search_button.jpg" alt="search" width="85" height="24" hspace="10"></td>
 			  </tr>
 			</tbody></table>
 	
@@ -523,25 +153,8 @@ dcsTag();
 	
 	</td>
 			</tr><tr>
-<td colspan="16"><img src="../../images/site/top_middle_tabsTHEME.jpg" border="0" usemap="#Map"></td></tr>
-<tr><td width="187"><a href="http://www.birthdayinabox.com"><img src="images/site/left_side_column_top.jpg" width="187" height="104" border="0"></a></td>
-<td colspan="15" valign="top" align="left" width="556"><table width="556" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td><a href="http://www.birthdayinabox.com/lobby.asp-cat_id-5-page-cat" onmouseover="changeImages('top_10', 'images/site/buttons/theme1on.jpg'); return true;" onmouseout="changeImages('top_10', 'images/site/buttons/theme1off.jpg'); return true;" onmousedown="changeImages('top_10', 'images/site/buttons/theme1on.jpg'); return true;" onmouseup="changeImages('top_10', 'images/site/buttons/theme1on.jpg'); return true;"><img name="top_10" src="images/site/buttons/theme1off.jpg" width="67" height="76" border="0" alt="All Birthday Party Themes"></a></td>
-    <td><a href="http://www.birthdayinabox.com/lobby.asp-cat_id-3-page-cat" onmouseover="changeImages('top_11', 'images/site/buttons/theme2on.jpg'); return true;" onmouseout="changeImages('top_11', 'images/site/buttons/theme2off.jpg'); return true;" onmousedown="changeImages('top_11', 'images/site/buttons/theme2on.jpg'); return true;" onmouseup="changeImages('top_11', 'images/site/buttons/theme2on.jpg'); return true;"><img name="top_11" src="images/site/buttons/theme2off.jpg" width="70" height="76" border="0" alt="Character Birthday Party Themes"></a></td>
-    <td><a href="http://www.birthdayinabox.com/lobby.asp-cat_id-2-page-cat" onmouseover="changeImages('top_12', 'images/site/buttons/theme3on.jpg'); return true;" onmouseout="changeImages('top_12', 'images/site/buttons/theme3off.jpg'); return true;" onmousedown="changeImages('top_12', 'images/site/buttons/theme3on.jpg'); return true;" onmouseup="changeImages('top_12', 'images/site/buttons/theme3on.jpg'); return true;"><img name="top_12" src="images/site/buttons/theme3off.jpg" width="75" height="76" border="0" alt="Classic Birthday Party Themes"></a></td>
-    <td><a href="http://www.birthdayinabox.com/lobby.asp-page-firstbirthday" onmouseover="changeImages('top_13', 'images/site/buttons/theme4on.jpg'); return true;" onmouseout="changeImages('top_13', 'images/site/buttons/theme4off.jpg'); return true;" onmousedown="changeImages('top_13', 'images/site/buttons/theme4on.jpg'); return true;" onmouseup="changeImages('top_13', 'images/site/buttons/theme4on.jpg'); return true;"><img name="top_13" src="images/site/buttons/theme4off.jpg" width="65" height="76" border="0" alt="First Birthday Party Themes"></a></td>
-    <td><a href="http://www.birthdayinabox.com/lobby.asp-cat_id-4-page-cat" onmouseover="changeImages('top_14', 'images/site/buttons/theme5on.jpg'); return true;" onmouseout="changeImages('top_14', 'images/site/buttons/theme5off.jpg'); return true;" onmousedown="changeImages('top_14', 'images/site/buttons/theme5on.jpg'); return true;" onmouseup="changeImages('top_14', 'images/site/buttons/theme5on.jpg'); return true;"><img name="top_14" src="images/site/buttons/theme5off.jpg" width="71" height="76" border="0" alt="Pre School Birthday Party Themes"></a></td>
-    <td><a href="http://www.birthdayinabox.com/lobby.asp-cat_id-8-page-cat" onmouseover="changeImages('top_15', 'images/site/buttons/theme6on.jpg'); return true;" onmouseout="changeImages('top_15', 'images/site/buttons/theme6off.jpg'); return true;" onmousedown="changeImages('top_15', 'images/site/buttons/theme6on.jpg'); return true;" onmouseup="changeImages('top_15', 'images/site/buttons/theme6on.jpg'); return true;"><img name="top_15" src="images/site/buttons/theme6off.jpg" width="69" height="76" border="0" alt="Pre-Teen Birthday Party Themes"></a></td>
-    <td><a href="http://www.birthdayinabox.com/lobby.asp-cat_id-12-page-cat" onmouseover="changeImages('top_16', 'images/site/buttons/theme7on.jpg'); return true;" onmouseout="changeImages('top_16', 'images/site/buttons/theme7off.jpg'); return true;" onmousedown="changeImages('top_16', 'images/site/buttons/theme7on.jpg'); return true;" onmouseup="changeImages('top_16', 'images/site/buttons/theme7on.jpg'); return true;"><img name="top_16" src="images/site/buttons/theme7off.jpg" width="70" height="76" border="0" alt="Grownup Birthday Party Themes"></a></td>
-    <td><a href="http://www.birthdayinabox.com/lobby.asp-cat_id-10-page-cat" onmouseover="changeImages('top_17', 'images/site/buttons/theme8on.jpg'); return true;" onmouseout="changeImages('top_17', 'images/site/buttons/theme8off.jpg'); return true;" onmousedown="changeImages('top_17', 'images/site/buttons/theme8on.jpg'); return true;" onmouseup="changeImages('top_17', 'images/site/buttons/theme8on.jpg'); return true;"><img name="top_17" src="images/site/buttons/theme8off.jpg" width="69" height="76" border="0" alt="Luau Birthday Party Themes"></a></td>
-  </tr>
-</tbody></table>
+<td colspan="16"><img src="http://images.birthdayinabox.com/site/tabs/PartyPlanningTab_01a.jpg" border="0" usemap="#Map"></td></tr>
 
-
-
-</td>
-</tr>
 
       </tbody></table>
 	  <!-- TOP PANEL end -->
@@ -550,12 +163,14 @@ dcsTag();
 
 <table height="80" width="307" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr>
-<td height="32" class="MENU"><font color="#FFFFFF">&nbsp;   &nbsp;&nbsp;&nbsp; <a href="http://www.birthdayinabox.com/lobby.asp-page-basket"><img src="../../images/site/view_button.jpg" width="101" height="24" border="0"></a></font></td>
+<td height="32" class="MENU"><font color="#FFFFFF">&nbsp;   &nbsp;&nbsp;&nbsp; <a href="http://www.birthdayinabox.com/lobby.asp-page-basket"><img src="http://images.birthdayinabox.com/site/view_button.jpg" width="101" height="24" border="0"></a></font></td>
 </tr>
 <tr>
-  <td height="48"><img src="../../images/site/top_right_bottom.jpg" width="247" height="48" border="0" usemap="#Map1"></td>
+  <td height="48"><img src="http://images.birthdayinabox.com/site/tabs/PersonalizedTab_02.jpg" width="247" height="48" border="0" usemap="#Map1"></td>
 </tr>
-</tbody></table><a href="http://www.birthdayinabox.com/lobby.asp-page-holiday" onmouseover="changeImages('shopbyitem_30', 'images/site/buttons/holiday_on.jpg'); return true;" onmouseout="changeImages('shopbyitem_30', 'images/site/buttons/holiday.jpg'); return true;" onmousedown="changeImages('shopbyitem_30', 'images/site/buttons/holiday_on.jpg'); return true;" onmouseup="changeImages('shopbyitem_30', 'images/site/buttons/holiday_on.jpg'); return true;"><img name="shopbyitem_30" src="images/site/buttons/holiday.jpg" width="69" height="76" border="0" alt="Holiday"></a><map name="Map1" id="Map1"><area shape="rect" coords="-5,10,49,41" href="http://www.birthdayinabox.com/lobby.asp-page-persn"><area shape="rect" coords="56,10,173,43" href="http://www.birthdayinabox.com/lobby.asp-page-firstbirthday"></map>
+</tbody></table><map name="Map1" id="Map1">
+  <area shape="rect" coords="-7,9,105,41" href="http://www.birthdayinabox.com/lobby.asp-page-baby_showers"><area shape="rect" coords="108,8,238,42" href="http://www.birthdayinabox.com/lobby.asp-page-partyplanning">
+</map>
 </td>
   </tr>
   
@@ -563,44 +178,105 @@ dcsTag();
   <tr>
     <td align="center" valign="top" class="experiment" width="187" height="830">
 		<!-- LEFT PANEL begin -->
-				<br><br><br>
+				<a href="http://www.birthdayinabox.com"><img src="http://images.birthdayinabox.com/site/left_side_column_top.jpg" width="187" height="104" border="0"></a><br><br><br><br>
 		<table width="100%" cellpadding="0" cellspacing="0" border="0">
 		<tbody><tr>
 		<td align="right"><table width="90%" border="0" cellpadding="0" cellspacing="0" align="right">
 		<tbody><tr>
-		  <td colspan="3"> <strong><font color="3983d2">Select a Party Theme</font></strong></td>
+		  <td colspan="3" style="padding-bottom:10px">&nbsp;</td>
 		  </tr>
-		<tr><td width="10%" style="padding-top:10px">&nbsp;</td>
-		  <td width="5%" style="padding-top:10px"><img src="../../images/site/bullet.jpg" width="3" height="3"></td>
-		  <td width="85%" style="padding-top:10px"><a href="http://www.birthdayinabox.com/lobby.asp-page-theme-dept_id-90-cat_id-5">1st Birthday Boy</a></td>
+		<tr><td width="1%">&nbsp;</td>
+		  <td width="6%"><img src="../../images/site/bullet.jpg" width="3" height="3"></td>
+		  <td width="93%"><a href="http://www.birthdayinabox.com/lobby.asp-page-cat-cat_id-5">All Themes</a></td>
 		</tr>
+		
+		<tr><td width="1%">&nbsp;</td>
+		  <td width="6%"><img src="../../images/site/bullet.jpg" width="3" height="3"></td>
+		  <td width="93%"><a href="http://www.birthdayinabox.com/lobby.asp-page-cat-cat_id-51">Baby Shower Themes</a></td>
+		</tr>
+		
+		<tr><td width="1%">&nbsp;</td>
+		  <td width="6%"><img src="../../images/site/bullet.jpg" width="3" height="3"></td>
+		  <td width="93%"><a href="http://www.birthdayinabox.com/lobby.asp-page-firstbirthday">1st Birthday Themes</a></td>
+		</tr>
+		
+		<tr><td width="1%">&nbsp;</td>
+		  <td width="6%"><img src="../../images/site/bullet.jpg" width="3" height="3"></td>
+		  <td width="93%"><a href="http://www.birthdayinabox.com/lobby.asp-page-cat-cat_id-43">Girl Themes</a></td>
+		</tr>
+		
+		<tr><td width="1%">&nbsp;</td>
+		  <td width="6%"><img src="../../images/site/bullet.jpg" width="3" height="3"></td>
+		  <td width="93%"><a href="http://www.birthdayinabox.com/lobby.asp-page-cat-cat_id-42">Boy Themes</a></td>
+		</tr>
+		
+		<tr><td width="1%">&nbsp;</td>
+		  <td width="6%"><img src="../../images/site/bullet.jpg" width="3" height="3"></td>
+		  <td width="93%"><a href="http://www.birthdayinabox.com/lobby.asp-page-cat-cat_id-3">Character Themes</a></td>
+		</tr>
+		
+		<tr><td width="1%">&nbsp;</td>
+		  <td width="6%"><img src="../../images/site/bullet.jpg" width="3" height="3"></td>
+		  <td width="93%"><a href="http://www.birthdayinabox.com/lobby.asp-page-cat-cat_id-1">Nature &amp; Animals</a></td>
+		</tr>
+		
+		<tr><td width="1%">&nbsp;</td>
+		  <td width="6%"><img src="../../images/site/bullet.jpg" width="3" height="3"></td>
+		  <td width="93%"><a href="http://www.birthdayinabox.com/lobby.asp-page-cat-cat_id-10">Luau Themes</a></td>
+		</tr>
+		
+		<tr><td width="1%">&nbsp;</td>
+		  <td width="6%"><img src="../../images/site/bullet.jpg" width="3" height="3"></td>
+		  <td width="93%"><a href="http://www.birthdayinabox.com/lobby.asp-page-cat-cat_id-40">Princesses &amp; Knights</a></td>
+		</tr>
+		
+		<tr><td width="1%">&nbsp;</td>
+		  <td width="6%"><img src="../../images/site/bullet.jpg" width="3" height="3"></td>
+		  <td width="93%"><a href="http://www.birthdayinabox.com/lobby.asp-page-cat-cat_id-8">Preteen Themes</a></td>
+		</tr>
+		
+		<tr><td width="1%">&nbsp;</td>
+		  <td width="6%"><img src="../../images/site/bullet.jpg" width="3" height="3"></td>
+		  <td width="93%"><a href="http://www.birthdayinabox.com/lobby.asp-page-cat-cat_id-11">Sale Themes</a></td>
+		</tr>
+		
 		<tr>
 		  <td>&nbsp;</td>
-		  <td><img src="../../images/site/bullet.jpg" width="3" height="3"></td>
-		  <td><a href="http://www.birthdayinabox.com//lobby.asp-page-theme-dept_id-91-cat_id-5">1st Birthday Girl</a></td>
+		  <td></td>
+		  <td></td>
 		  </tr>
 		<tr>
 		  <td>&nbsp;</td>
-		  <td><img src="../../images/site/bullet.jpg" width="3" height="3"></td>
-		  <td><a href="http://www.birthdayinabox.com//lobby.asp-page-theme-dept_id-184-cat_id-5">Baby Einstein</a></td>
-		  </tr>
-		<tr>
 		  <td>&nbsp;</td>
-		  <td><img src="../../images/site/bullet.jpg" width="3" height="3"></td>
-		  <td><a href="http://www.birthdayinabox.com//lobby.asp-page-theme-dept_id-199-cat_id-5">Elmo</a></td>
-		  </tr>
-		<tr>
 		  <td>&nbsp;</td>
-		  <td><img src="../../images/site/bullet.jpg" width="3" height="3"></td>
-		  <td><strong><a href="http://www.birthdayinabox.com/lobby.asp-cat_id-5-page-cat">All Themes</a></strong></td>
 		  </tr>
-		<tr>
+		  	<tr>
+		  <td>&nbsp;</td>
+		  <td>&nbsp;</td>
+		  <td>&nbsp;</td>
+		  </tr>	<tr>
 		  <td>&nbsp;</td>
 		  <td>&nbsp;</td>
 		  <td>&nbsp;</td>
 		  </tr>
+		  	<tr>
+		  <td>&nbsp;</td>
+		  <td>&nbsp;</td>
+		  <td>&nbsp;</td>
+		  </tr>
+
+		  	<tr>
+		  <td>&nbsp;</td>
+		  <td>&nbsp;</td>
+		  <td>&nbsp;</td>
+		  </tr>
+		  	<tr>
+		  <td>&nbsp;</td>
+		  <td>&nbsp;</td>
+		  <td>&nbsp;</td>
+		  </tr>
 		<tr>
-		  <td colspan="3">  <strong><font color="3983d2">Select an Item Category</font></strong></td>
+		  <td colspan="3"></td>
 		  </tr>
 		  <tr>
 		  <td colspan="3"></td>
@@ -650,13 +326,16 @@ dcsTag();
 		  <td>&nbsp;</td>
 		  <td>&nbsp;</td>
   </tr><tr>
-		  <td colspan="3">Personalize any of these<br>
-great party products... </td>
+		  <td colspan="3"></td>
+  </tr><tr>
+		  <td>&nbsp;</td>
+		  <td>&nbsp;</td>
+		  <td>&nbsp;</td>
   </tr>
 <tr>
-		  <td width="10%" style="padding-top:10PX">&nbsp;</td>
-    <td width="5%" style="padding-top:10PX"><img src="../../images/site/bullet.jpg" width="3" height="3"></td>
-    <td width="85%" style="padding-top:10PX"><a href="http://www.birthdayinabox.com/lobby.asp-page-perscatn-subcat-205">Banners</a></td>
+		  <td width="1%" style="padding-top:10PX">&nbsp;</td>
+    <td width="6%" style="padding-top:10PX"><img src="../../images/site/bullet.jpg" width="3" height="3"></td>
+    <td width="93%" style="padding-top:10PX"><a href="http://www.birthdayinabox.com/lobby.asp-page-perscatn-subcat-205">Banners</a></td>
 		  </tr>
 		<tr>
 		  <td>&nbsp;</td>
@@ -707,9 +386,9 @@ great party products... </td>
 		  <td>&nbsp;</td>
 		  <td>&nbsp;</td>
   </tr>		<tr>
-		  <td width="10%">&nbsp;</td>
-		  <td width="5%"><img src="../../images/site/bullet.jpg" width="3" height="3"></td>
-		  <td width="85%"><a href="http://www.birthdayinabox.com/lobby.asp-page-cat-cat_id-11">Sale Themes</a></td>
+		  <td width="1%">&nbsp;</td>
+		  <td width="6%"><img src="../../images/site/bullet.jpg" width="3" height="3"></td>
+		  <td width="93%"><a href="http://www.birthdayinabox.com/lobby.asp-page-cat-cat_id-11">Sale Themes</a></td>
   </tr>
 		<tr>
 		  <td>&nbsp;</td>
@@ -801,7 +480,7 @@ great party products... </td>
     <td>&nbsp;<!-- SiteCatalyst code version: H.7.
 Copyright 1997-2006 Omniture, Inc. More info available at
 http://www.omniture.com -->
-<script language="JavaScript" src="s_code.js"></script><img name="s_i_kaboosebiabcom" height="1" width="1" border="0" alt="" src="https://kaboose.112.2O7.net/b/ss/kaboosebiabcom/1/H.7-pdv-2/s94644572086757?[AQB]&amp;ndh=1&amp;t=31/0/2020%2010%3A32%3A0%205%200&amp;ns=kaboose&amp;pageName=Privacy%20Policy&amp;g=https%3A//web.archive.org/web/20061206080508id_/http%253A//www.birthdayinabox.com/lobby.asp-page-privacy&amp;cc=USD&amp;ch=Information&amp;server=Birthday%20in%20a%20Box&amp;pageType=Info&amp;v7=P24DT12K9B759L8N9G6SQHFL1BXH7U22&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+<script language="JavaScript" src="s_code.js"></script><img name="s_i_kaboosebiabcom" height="1" width="1" border="0" alt="" src="https://kaboose.112.2O7.net/b/ss/kaboosebiabcom/1/H.7-pdv-2/s91086041675253?[AQB]&amp;ndh=1&amp;t=31/0/2020%2010%3A31%3A58%205%200&amp;ns=kaboose&amp;pageName=Privacy%20Policy&amp;g=https%3A//web.archive.org/web/20070609192009id_/http%253A//www.birthdayinabox.com/lobby.asp-page-privacy&amp;cc=USD&amp;ch=Information&amp;server=Birthday%20in%20a%20Box&amp;pageType=Info&amp;v7=KJXXD0Q5F0BA9KRCFP2JDEG7R97REHJD&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
 <script language="JavaScript"><!--
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
@@ -827,7 +506,7 @@ s.eVar3=""
 s.eVar4=""
 s.eVar5=""
 s.eVar6=""
-s.eVar7="P24DT12K9B759L8N9G6SQHFL1BXH7U22"
+s.eVar7="KJXXD0Q5F0BA9KRCFP2JDEG7R97REHJD"
 s.eVar10=""
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 var s_code=s.t();if(s_code)document.write(s_code)//--></script>
@@ -836,14 +515,21 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 <td colspan="3">
 	<table width="990" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
-	<td rowspan="2" valign="top"><img src="../../images/site/footer_left.jpg" width="187" height="91"></td>
-<td valign="top" align="left"><img src="../../images/site/footer_middle_top.jpg" width="556" height="45"></td>
-<td rowspan="2" valign="top" align="left"><a href="http://www.birthdayinabox.com/lobby.asp-page-mailing"><img src="../../images/site/footer_right.jpg" width="247" height="91" border="0"></a></td>
+	<td rowspan="2" valign="top"><img src="http://images.birthdayinabox.com/site/footer_left.jpg" width="187" height="91"></td>
+<td valign="top" align="left"><img src="http://images.birthdayinabox.com/site/footer_middle_top.jpg" width="556" height="45"></td>
+<td rowspan="2" valign="top" align="left"><a href="http://www.birthdayinabox.com/lobby.asp-page-mailing"><img src="http://images.birthdayinabox.com/site/footer_right.jpg" width="247" height="91" border="0"></a></td>
 	</tr>
 	<tr>
 	  <td valign="top" align="center"><a href="http://www.birthdayinabox.com/lobby.asp-page-about">About Us</a> | <a href="http://www.birthdayinabox.com/lobby.asp-page-partyplanning">Tips and Tricks</a> | <a href="http://www.birthdayinabox.com/lobby.asp-page-sitemap">Sitemap</a> | <a href="http://www.birthdayinabox.com/lobby.asp-page-privacy">Privacy Policy</a> | <a href="http://www.birthdayinabox.com/lobby.asp-page-memberinfo">Affiliates</a> | <a href="http://www.birthdayinabox.com/lobby.asp-page-shipping_main">Shipping</a><br>
-            Copyright © 2006                         <a href="http://www.kaboose.com" target="_blank"><img src="images/kabooze.jpg" alt="kaboose" width="71" height="22" border="0" align="absmiddle"></a>&nbsp;All rights reserved.
-         </td>
+            Copyright © 2007                      <a href="http://www.kaboose.com" target="_blank"><img src="images/site/kaboose_logo.gif" alt="kaboose" width="71" height="22" border="0" align="absmiddle"></a>&nbsp;All rights reserved.         </td>
+	  </tr>
+	<tr>
+	  <td colspan="3" valign="top" align="center">
+			Visit our other sites:&nbsp;&nbsp; <a href="http://www.funschool.com/" target="_blank">Funschool</a>&nbsp;&nbsp;|&nbsp;&nbsp;<!--
+			--><a href="http://www.babyzone.com/" target="_blank">BabyZone</a>&nbsp;&nbsp;|&nbsp;&nbsp;<!--
+			--><a href="http://www.twopeasinabucket.com/" target="_blank">Two Peas in a Bucket</a>&nbsp;&nbsp;|&nbsp;&nbsp;<!--
+			--><a href="http://www.kaboose.com/" target="_blank">Kaboose</a>&nbsp;&nbsp;|&nbsp;&nbsp;<!--
+			--><a href="http://www.zeeks.com/" target="_blank">Zeeks</a>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
 	  </tr>
 	</tbody></table>
 
@@ -851,10 +537,16 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 </tr>
 
 	
+
 </tbody></table>
 	
 
 
 
-
+<script language="JavaScript"><!--
+{
+document.write("<img src=http://tracking.searchmarketing.com/welcome.asp?SMCID=333&x=" +escape(document.referrer) +  " width=1 height=1>");
+}
+//-->
+</script><img src="http://tracking.searchmarketing.com/welcome.asp?SMCID=333&amp;x=" width="1" height="1">
 </body></html>
