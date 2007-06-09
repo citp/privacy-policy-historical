@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyfx.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206000654id_/http%3A//www.dailyfx.com/page/privacy_policy_and_disclosure.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyfx.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610013916id_/http%3A//www.dailyfx.com/page/privacy_policy_and_disclosure.html) for the most accurate reproduction.*
 
 # Privacy Policy and Disclosure
 
@@ -42,7 +42,7 @@ We may share personal information described above with our affiliates for busine
 
 Pursuant to CFTC and applicable regulation, we may disclose personal information with regulatory authorities or as required by applicable law. For example, we may disclose personal information to cooperate with regulatory authorities and law enforcement agencies to comply with subpoenas or other official requests, and as necessary to protect our rights or property. Except as described in this privacy policy, we will not use your personal information for any other purpose unless we describe how such information will be used at the time you disclose it to us or we obtain your permission.
 
-### Disclaimer
+### Risk Disclaimer
 
 * * *
 
