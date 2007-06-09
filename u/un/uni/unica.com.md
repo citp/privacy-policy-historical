@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unica.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206172851id_/http%3A//www.unica.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unica.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609094835id_/http%3A//www.unica.com/privacy.cfm) for the most accurate reproduction.*
 
-# Unica Corporation - Enterprise Marketing Management
+# Unica Corporation - Privacy Policy
 
 Privacy Policy 
 
@@ -10,8 +10,8 @@ If you choose to register to receive more information about our products and ser
 
 For our general marketing purposes, we collect and compile information through multiple internal and third party sources including, but not limited to our web site, event marketing, permission-based affiliated marketing, and the use of opt-in lists for prospecting. Cookies and other technologies may be used for the purposes of recognizing you as a registered user and personalizing your experience on our web site. The information that we collect is for Unica's internal marketing purposes, and not for sale, rental or other distribution to third parties. 
 
-**Security**  
-Unica takes appropriate measures to protect the security of your personal information from loss, misuse, unauthorized access or disclosure, alteration, or destruction and honors your choices for its intended use. We offer the ability to "opt-out" from various forms of communication at any time, by accessing [www.unica.com/register/unsubscribe.html](http://www.unica.com/register/unsubscribe.html). 
+**Security  
+** Unica takes appropriate measures to protect the security of your personal information from loss, misuse, unauthorized access or disclosure, alteration, or destruction and honors your choices for its intended use. We offer the ability to "opt-out" from various forms of communication at any time, by accessing [www.unica.com/unsubscribe](http://www.unica.com/unsubscribe). 
 
 **Resources**  
 Unica may provide additional resources for information on consumer privacy, privacy legislation, personalization, marketing, and technology initiatives that may be useful to you. Unica may also provide links to affiliated groups, government associations and the industry associations of which we maintain membership. Unica makes no claims about the accuracy of this information. 
@@ -22,8 +22,8 @@ Notwithstanding anything to the contrary contained herein, personal information 
 **Modifications**  
 Unica reserves the right to modify or supplement this Privacy Policy at any time. If Unica makes any material modification thereof, we will both (i) update this page with a notice of such changes, and (ii) notify you of such material modification via email, if you have not opt-ed out of email communications. 
 
-**Questions and Comments**  
-For questions or comments about our Privacy Policy, or if you need assistance accessing or updating information we have collected about you, please contact Unica's Chief Privacy Officer at 1-877-864-2261 or [cpo@unica.com](mailto:cpo@unica.com). 
+**Questions and Comments**   
+For questions or comments about our Privacy Policy, or if you need assistance accessing or updating information we have collected about you, please contact Unica's Chief Privacy Officer at [cpo@unica.com](mailto:cpo@unica.com). 
 
 **Copyright**  
-© 2005 Unica Corporation. All rights reserved. Unica and Affinium are registered trademarks of Unica Corporation with the U.S. Patent and Trademark Office. Affinium Campaign, Affinium Campaign Collaborate, Affinium Campaign eMessage, Affinium Campaign Interact, Affinium Campaign Optimize, Affinium Leads, Affinium Model, Affinium Plan, Affinium Mart, Universal Dynamic Interconnect, Interconnect Modules, Marketic, Powering Marketing Innovation, Powering Marketing Success, Customer Value Maximization, MAP, One-to-One Optimization, and Right-time Marketing are trademarks of Unica Corporation. All other trademarks are the property of their respective owners. 
+© 2007 Unica Corporation. All rights reserved. Unica and Affinium are registered trademarks of Unica Corporation with the U.S. Patent and Trademark Office. Affinium Campaign, Affinium Campaign Collaborate, Affinium Campaign eMessage, Affinium Campaign Interact, Affinium Campaign Optimize, Affinium Leads, Affinium Model, Affinium Plan, Affinium Mart, Universal Dynamic Interconnect, Interconnect Modules, Marketic, Powering Marketing Innovation, Powering Marketing Success, Customer Value Maximization, MAP, One-to-One Optimization, and Right-time Marketing are trademarks of Unica Corporation. All other trademarks are the property of their respective owners. 
