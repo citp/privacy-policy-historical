@@ -1,13 +1,12 @@
-> *The following text is extracted and transformed from the codeproject.com privacy policy that was archived on 2005-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050507084251id_/http%3A//www.codeproject.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeproject.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609073232id_/http%3A//www.codeproject.com/info/privacy.asp) for the most accurate reproduction.*
 
 # The Code Project - Privacy Policy - Free Source Code and Tutorials
 
-  
+Privacy Policy
 
+Last updated: Monday 9th October, 2006
 
-Last updated: Tuesday 15th April, 2003
-
-The Code Project is committed to protecting your privacy and to developing technology that gives you the most powerful and secure online experience. This privacy statement explains data collection and use practices of the CodeProject.com site (the “Site”) hosted for The Code Project by Dundas Software **;** it does not apply to other online or offline CodeProject sites, products or services. By accessing the Site, you are consenting to the information collection and use practices described in this privacy statement.
+The Code Project is committed to protecting your privacy and to developing technology that gives you the most powerful and secure online experience. This privacy statement explains data collection and use practices of the CodeProject.com site (the "Site"); it does not apply to other online or offline CodeProject sites, products or services. By accessing the Site, you are consenting to the information collection and use practices described in this privacy statement.
 
 #### **Collecting Your Personal Information**
 
@@ -30,6 +29,12 @@ CodeProject occasionally hires other companies to provide limited services on ou
 CodeProject may disclose personal information if required to do so by law or in the good faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served to CodeProject, or the Site; (b) protect and defend the rights or property of CodeProject and our family of Web sites; or (c) act in urgent circumstances to protect the personal safety of users of CodeProject, our Web sites, or the public. 
 
 Personally identifiable information collected on this site may be stored and processed in the United States or any other country in which CodeProject or its affiliates, subsidiaries or agents maintain facilities, and by using this site, you consent to any such transfer of information outside of your country. 
+
+#### Email addresses
+
+Email addresses collected as part of the sign-up process are not made publicly available. Email addresses are used to confirm your identity and to communicate with you via email. 
+
+Third Party companies wishing to send offers to our members do so through us. They send us the offer and we email it to you on their behalf. In order to comply with anti-spam legislation such as CANSPAM there may be cases where a third-party email data house is used to advise us as to which addresses on our list have specifically opted out of emails from a given advertiser. In order for this to occur we send our list to the data house, the advertiser sends their list to the data house, and the data house then advises us of the results. At no time do we see the third party company's list nor do they see our list. The data house operates under strict privacy guidelines. 
 
 #### Control of your Personal Information
 
@@ -62,9 +67,9 @@ We may occasionally update this privacy statement. When we do, we will also revi
 If you have questions about our privacy statement or our use of your information, or if you need help changing your personal information, please contact us by sending e-mail to [webmaster@codeproject.com](mailto:webmaster@codeproject.com) or contacting us at: 
 
 > The Code Project   
->  500-250 Ferrand Drive  
+>  503-250 Ferrand Drive  
 >  Toronto Ontario, M3C 3G8  
->  ph: 416-642-1998 
+>  ph: 416-849-8900 
 
   
 
