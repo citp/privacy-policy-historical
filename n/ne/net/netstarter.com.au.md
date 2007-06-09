@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netstarter.com.au privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216233805id_/http%3A//www.netstarter.com.au/website_privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netstarter.com.au privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609173019id_/http%3A//www.netstarter.com.au/website_privacypolicy.aspx) for the most accurate reproduction.*
 
 # Web design Sydney Australia - Net Starter website site map
 
