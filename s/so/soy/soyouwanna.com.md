@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the soyouwanna.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205184855id_/http%3A//soyouwanna.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soyouwanna.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609020736id_/http%3A//www.soyouwanna.com/privacy.cfm) for the most accurate reproduction.*
 
-# SoYouWanna.com
+# SoYouWanna
 
 **Effective as of June 3, 2005**
 
-**THIS PRIVACY POLICY MAY CHANGE FROM TIME TO TIME. PLEASE CHECK THIS PAGE FOR UPDATES OR REQUEST THE LATEST COPY BY[ **CONTACTING US ONLINE**](http://www.intermix.com/form_privacy.cfm?site=soyouwanna.com).**
+**THIS PRIVACY POLICY MAY CHANGE FROM TIME TO TIME. PLEASE CHECK THIS PAGE FOR UPDATES OR REQUEST THE LATEST COPY.**
 
 Intermix Network, LLC owns and/or operates a network of Web sites (referred to hereafter as the "Network") providing diversionary entertainment and topical news, information and editorial content to millions of users and subscribers daily. The information collection, use, maintenance and disposal practices of the Network are discussed in this privacy policy.
 
@@ -90,4 +90,4 @@ The Network may disclose, transfer and sell Individual Information to an entity 
 The Network maintains multiple newsletter and email marketing lists. To unsubscribe from one or more of such lists, click the link included in the footer of any message delivered by the Network and follow the instructions provided. 
 
 **6\. More Information.**  
-For more information about protecting your privacy, you may wish to visit [www.privacylaw.net](http://www.privacylaw.net/) or [www.privacyalliance.org](http://www.privacyalliance.org/). If you have questions about this policy, please [contact us online](http://www.intermix.com/form_privacy.cfm?site=soyouwanna.com). THE NETWORK RESERVES THE RIGHT TO UPDATE THIS POLICY FROM TIME TO TIME, SO YOU SHOULD REVIEW THIS WEB PAGE PERIODICALLY.
+For more information about protecting your privacy, you may wish to visit [www.privacylaw.net](http://www.privacylaw.net/) or [www.privacyalliance.org](http://www.privacyalliance.org/). THE NETWORK RESERVES THE RIGHT TO UPDATE THIS POLICY FROM TIME TO TIME, SO YOU SHOULD REVIEW THIS WEB PAGE PERIODICALLY.
