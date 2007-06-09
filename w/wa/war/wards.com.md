@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the wards.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228145445id_/http%3A//www.wards.com/wards/privacypolicy.asp%3Fpartner%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wards.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609181447id_/http%3A//www.wards.com/wards/privacypolicy.asp%3Fpartner%3D0) for the most accurate reproduction.*
 
 # Privacy Policy
 
   
 **Montgomery Ward Privacy Policy**
 
-We understand and share your concern about privacy and value the trust you place in us. Montgomery Ward wants to assure you that we respect your privacy and confidentiality and take great care to safeguard your personal information. To better protect your privacy, we provide this notice explaining our online information practices. If you have any questions regarding this policy, please [click here](https://web.archive.org/web/20051228145445id_/http%3A//www.wards.com/wards/cschoice.asp?partner=0) to send us an email.
+We understand and share your concern about privacy and value the trust you place in us. Montgomery Ward wants to assure you that we respect your privacy and confidentiality and take great care to safeguard your personal information. To better protect your privacy, we provide this notice explaining our online information practices. If you have any questions regarding this policy, please [click here](https://web.archive.org/web/20070609181447id_/http%3A//www.wards.com/wards/cschoice.asp?partner=0) to send us an email.
 
 **Information We Collect**  
 We recognize your right to confidentiality and are committed to protecting your privacy. We use the information we collect to make products and services more efficient for you and to communicate with you about products, services and promotions.
@@ -23,10 +23,10 @@ We use the information we collect to improve our services and products and make 
 It is possible to register as a Montgomery Ward email subscriber directly from our site. Upon registering, we will periodically send you e-mail newsletters and e-mails featuring sales, promotions and other member-only benefits.
 
 **Unsubscribe**  
-If you would rather not receive emails, please [click here](https://web.archive.org/web/20051228145445id_/http%3A//www.wards.com/wards/remove.asp) to unsubscribe your email address form any future communication. You may also call us at 1-800-227-7598, or write to us at the address below to be removed from our email or catalog mailing lists.
+If you would rather not receive emails, please [click here](https://web.archive.org/web/20070609181447id_/http%3A//www.wards.com/wards/remove.asp) to unsubscribe your email address form any future communication. You may also call us at 1-800-227-7598, or write to us at the address below to be removed from our email or catalog mailing lists.
 
 **Affiliate Programs**  
-Our affiliate program is administered by Commission Junction. Any information collected by Commission Junction is not governed by this policy.
+Our affiliate program is administered by LinkShare. Any information collected by LinkShare is not governed by this policy.
 
 **Sharing Your Information with Third Parties**  
 If you supply us with your postal address on-line you may receive mailings from other reputable companies. You can, however, have your name put on our do-not-share list by sending us an email, calling us at 1-800-227-7598, or writing to us at the address provided below. Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations. 
@@ -38,9 +38,6 @@ Telephone numbers and email addresses are never shared with third parties unless
 **Security**  
 We utilize industry-standard SSL encryption technologies when transferring and receiving consumer data exchanged with our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. 
 
-**AOL**  
-As an AOL Certified Merchant, we have agreed to abide by the principles outlined in AOL’s Privacy Policy at the following URL: <http://legal.web.aol.com/policy/aolpol/privpol.html>. If you have any questions regarding our privacy practices, please contact us by calling, e-mailing or writing to us through the contact information below.
-
 **Changes to This Policy**  
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy policy. If our information practices change at some time in the future we will use for these new purposes only data collected after the change in policy is posted on this web site.
 
@@ -48,7 +45,7 @@ From time to time, we may use customer information for new, unanticipated uses n
 We welcome your feedback. If you have questions or comments about our privacy policies, feel free to contact us by:
 
 **Email:**  
-[Click here to send us an email.](https://web.archive.org/web/20051228145445id_/http%3A//www.wards.com/wards/cschoice.asp?partner=0)
+[Click here to send us an email.](https://web.archive.org/web/20070609181447id_/http%3A//www.wards.com/wards/cschoice.asp?partner=0)
 
 **By Mail:**  
 Montgomery Ward  
@@ -60,4 +57,4 @@ Cedar Rapids, IA 52406
 **Fax:** 1-319-896-5820
 
   
-If you have other questions, [please click here to send email to our customer service department](https://web.archive.org/web/20051228145445id_/http%3A//www.wards.com/wards/cschoice.asp?parter=0), or call us at 1-800-227-7598.
+If you have other questions, [please click here to send email to our customer service department](https://web.archive.org/web/20070609181447id_/http%3A//www.wards.com/wards/cschoice.asp?parter=0), or call us at 1-800-227-7598.
