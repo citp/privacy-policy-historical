@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the yesvideo.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205220128id_/http%3A//yesvideo.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesvideo.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609033743id_/http%3A//www.yesvideo.com/legal/privacy.aspx) for the most accurate reproduction.*
 
 # YesDVD Transfer Service: Videotape to DVD
-
-Privacy Policy
 
 We at YesVideo respect your right to privacy and have a firm commitment to safeguarding our customers' personal information. YesVideo will not rent, sell, or share any information regarding any individual customer (such as name, address, e-mail address or credit cards numbers) to any third party other than under the terms outlined in this privacy statement. 
 
