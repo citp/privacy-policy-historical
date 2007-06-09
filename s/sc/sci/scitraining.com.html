@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the scitraining.com privacy policy that was archived on 2006-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060617193926id_/http%3A//scitraining.com/Dispstpg.htm%3FID%3D62) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the scitraining.com privacy policy that was archived on 2007-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070609202148id_/http%3A//www.scitraining.com/Dispstpg.htm%3FID%3D62) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>Privacy Statement | Stratford Career Institute</title>
@@ -18,17 +18,17 @@ var nImgPrevWinCounter = 0;
 var nDocumentWinCounter = 0;
 function LoadImagePreviewWindow(sLIPW_ImgSrc,nLIPW_Width,nLIPW_Height) {
 	nImgPrevWinCounter++;
-	window.open("ImagePreview.htm?ImgPrevSrc="+escape(sLIPW_ImgSrc)+"&CDT=1150572966","ImgPrevWin"+nImgPrevWinCounter,"top=50,left=50,width="+nLIPW_Width+",height="+nLIPW_Height+",resizable=1,scrollbars=0,status=1");
+	window.open("ImagePreview.htm?ImgPrevSrc="+escape(sLIPW_ImgSrc)+"&CDT=1181419811","ImgPrevWin"+nImgPrevWinCounter,"top=50,left=50,width="+nLIPW_Width+",height="+nLIPW_Height+",resizable=1,scrollbars=0,status=1");
 }
 function LoadDocumentWindow(sLDW_DocSrc,nLDW_Width,nLDW_Height,sLDW_Attributes) {
 	nDocumentWinCounter++;
 	if (sLDW_Attributes!=""){sLDW_Attributes=","+sLDW_Attributes;}
-	window.open(sLDW_DocSrc,"DocPrevWin1150572966"+nDocumentWinCounter,"top=50,left=50,width="+nLDW_Width+",height="+nLDW_Height+sLDW_Attributes);
+	window.open(sLDW_DocSrc,"DocPrevWin1181419811"+nDocumentWinCounter,"top=50,left=50,width="+nLDW_Width+",height="+nLDW_Height+sLDW_Attributes);
 }
 </script><table width="775" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
 		<td>
-			<map name="Header"><area alt="" coords="16,4,162,70" href="Default.htm" shape="RECT"></map>
+			<map name="Header"><area alt="" coords="16,4,162,70" href="http://www.scitraining.com/" shape="RECT"></map>
 			<table width="100%" border="0" cellpadding="0" cellspacing="0">
 				<tbody><tr>
 					<td width="197"><img src="Images/Header_L.gif" width="197" height="76" alt="" border="0" usemap="#Header"></td>
@@ -41,7 +41,7 @@ function LoadDocumentWindow(sLDW_DocSrc,nLDW_Width,nLDW_Height,sLDW_Attributes) 
 					<td width="197" height="31" background="Images/Navbar_BG.jpg" nowrap="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="NavBarText" href="FreeCareerInfo.htm"><font color="#0476A6"><b>Free Career Information</b></font></a></td>
 					<td width="578" height="31" background="Images/Navbar_BG.jpg">
 						<table border="0" cellpadding="0" cellspacing="0">
-							<form name="NavbarForm" action="Search.htm?RCV=LQ3yMAggbQW4PBA" method="POST"></form>
+							<form name="NavbarForm" action="Search.htm?RCV=zcw6ggfeyBth3E6" method="POST"></form>
 							<tbody><tr>
 								<td style="padding-right:14px"><a class="NavBarText" href="Dispstpg.htm?ID=5057"><b>About Us</b></a></td>
 								<td style="padding-right:14px"><a class="NavBarText" href="Dispstpg.htm?ID=5079"><b>Contact Us</b></a></td>
@@ -49,12 +49,20 @@ function LoadDocumentWindow(sLDW_DocSrc,nLDW_Width,nLDW_Height,sLDW_Attributes) 
 								<td class="SiteText" style="padding-right:4px"><b>COUNTRY</b></td>
 								<td style="padding-right:14px">
 									<script language="Javascript">
-									function NBChangeCountry() {document.location="Default.htm?CCD="+escape(document.NavbarForm.Country.options[document.NavbarForm.Country.selectedIndex].value)+"&CDT=1150572966";}
+									function NBChangeCountry() {
+										var sValue=document.NavbarForm.Country.options[document.NavbarForm.Country.selectedIndex].value;
+										if (sValue == "UK") {
+											document.location="http://www.dcalearn.co.uk/";
+										} else {
+											document.location="Default.htm?CCD="+escape(sValue)+"&CDT=1181419811";
+										}
+									}
 									</script>
 									<select name="Country" onchange="NBChangeCountry()">
 										<option value="CAN">Canada
 										</option><option value="USA" selected="">USA
 										</option><option value="OTH">Global
+										</option><option value="UK">UK
 									</option></select>
 								</td>
 								<td class="SiteText" style="padding-right:4px"><b>SEARCH</b></td>
@@ -103,6 +111,9 @@ function LoadDocumentWindow(sLDW_DocSrc,nLDW_Width,nLDW_Height,sLDW_Attributes) 
 					<td><a class="FooterText" href="Dispstpg.htm?ID=5058">Copyright &amp; Terms</a></td>
 					<td class="SiteText">|</td>
 					<td><a class="FooterText" href="Dispstpg.htm?ID=5554">Site Map</a></td>
+					<td class="SiteText">|</td>
+					<td><a class="FooterText" href="Dispstpg.htm?ID=6498">Resources</a></td>
+					
 				</tr>
 			</tbody></table>
 		</td>
