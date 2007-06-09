@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ldonline.org privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206000136id_/http%3A//www.ldonline.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ldonline.org privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609125436id_/http%3A//www.ldonline.org/privacy) for the most accurate reproduction.*
 
 # LD OnLine :: Privacy Policy
 
@@ -80,7 +80,7 @@ All of the information is stored on servers at a location designed specifically 
 
 ## LD OnLine privacy policy changes
 
-If LD OnLine changes this privacy statement, we will post the changes at <http://www.ldonline.org/privacychange.html> so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone.
+If LD OnLine changes this privacy statement, we will post the changes at <http://www.ldonline.org/privacy> so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone.
 
 ## Contact LD OnLine 
 
