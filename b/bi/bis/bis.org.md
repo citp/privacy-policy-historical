@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bis.org privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215032050id_/http%3A//www.bis.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bis.org privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609101759id_/http%3A//www.bis.org/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy
 
