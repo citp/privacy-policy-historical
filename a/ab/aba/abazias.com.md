@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abazias.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019190240id_/http%3A//www.abazias.com/terms/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abazias.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610001953id_/http%3A//www.abazias.com/terms/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ If you believe that Abazias.com is in breach of our privacy policy, please conta
 
 Collecting personal information
 
-During the checkout and diamond request processes, we collect personal information required for us to fulfill your request or order. All information collected by Abazias.com is kept confidential. Abazias.com will only use your email address or contact information to notify you or to provide valid information about your potential purchase. Your email address or contact information will never be sold to another company or used for unsolicited (SPAM) email. 
+During the checkout and diamond request processes, we collect personal information required for us to fulfill your request or order. All information collected by Abazias.com is kept confidential. Your email address or contact information will never be sold to another company or used for unsolicited (SPAM) email. 
 
 The use of cookies
 
