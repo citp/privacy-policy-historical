@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bbpeoplemeet.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206031013id_/http%3A//www.bbpeoplemeet.com/privacy/%3Fa%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbpeoplemeet.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609220106id_/http%3A//www.bbpeoplemeet.com/privacy/%3Fa%3D) for the most accurate reproduction.*
 
-# BBPeopleMeet.com - The Big & Beautiful People Network - 12/05/2006
+# BBPeopleMeet.com - The Big & Beautiful People Network - 06/09/2007
 
 |  |  |   
 ---  
