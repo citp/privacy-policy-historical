@@ -1,77 +1,97 @@
-> *The following text is extracted and transformed from the fark.com privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224214622id_/http%3A//www.fark.com/farq/legal.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fark.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609145812id_/http%3A//www.fark.com/farq/legal.shtml) for the most accurate reproduction.*
 
-# FARK.com: Legal / Privacy Policy
+# FARK.com: Frequently Asked Questions: Legal Stuff
 
-> Last updated: Sun Jun 25 15:18:44 2006  
+> ### Fark Frequently Asked Questions (FAQ): Legal Stuff
+> 
+> [Back to top of FAQ](https://web.archive.org/web/20070609145812id_/http%3A//www.fark.com/farq/index.shtml)  
 > 
 > 
-> ## Terms Of Service
+>   * [ Legal Stuff](https://web.archive.org/web/20070609145812id_/http%3A//www.fark.com/farq/legal.shtml#Legal_Stuff)
+>     * [ Fark's Legal and Privacy Statement](https://web.archive.org/web/20070609145812id_/http%3A//www.fark.com/farq/legal.shtml#Fark.27s_Legal_and_Privacy_Statement)
+> 
+
+> 
+> * * *
+> 
+> ###  Legal Stuff 
+> 
+> ####  Fark's Legal and Privacy Statement 
+> 
+> #####  Terms Of Service 
 > 
 > Text comments, AudioEdit submissions, and Photoshopped images posted on Fark by registered users may not be reposted or broadcast without the express written permission or license from Fark.com, and must attribute Fark.com as the source. 
 > 
-> ## Copyright Notice
+> #####  Copyright Notice 
 > 
-> Fark.com is the legal owner of all copyright interests of Fark.com content. Each and every submission to Fark.com carries with it an implied assignment of the entire copyright interest in the submission. In exchange for the content and publication of that submission on Fark.com, Fark.com grants back to the submitter a non-exclusive, non-transferable and royalty-free license to republish that submission in any and all forms. 
+> The content on Fark.com, except all Submissions (defined below) is owned by or licensed to Fark.com, subject to copyright and other intellectual property rights under the United States and international intellectual property laws and conventions. Content on Fark.com is provided for personal use only and may not be used, copied, reproduced, distributed, transmitted, broadcast, displayed, sold, licensed, or otherwise exploited for any purpose without the prior written consent of the respective owners. You agree to not engage in the use, copying, or distribution of any of the content other than expressly permitted herein, including any use, copying, or distribution of Submissions of third parties obtained through the Fark.com website for any commercial purposes. Fark.com permits the submission of text, photographs, opinions, comments and/or other forms of communication submitted by you and other users ("Submissions") and the hosting, sharing and publication of such Submissions. You agree that you are solely responsible for your own Submissions and affirm, represent, and/or warrant that you own or have the necessary licenses, rights, consents, and permissions to use and authorize Fark.com to use all patent trademark, trade secret, copyright or other proprietary rights in and to any and all Submissions to enable inclusion and use of the Submissions in the manner contemplated by Fark.com. You retain all ownership rights in your Submissions. However, by submitting the Submissions to Fark.com, you hereby grant Fark.com a non-exclusive, royalty-free, sublicenseable and transferable license to use, reproduce, distribute, prepare derivative works of, display, and perform the Submissions in connection with Fark.com and Fark.com's business, including without limitation for promoting and redistributing part or all of Fark.com (and derivative works thereof) in any media formats and through any media channels/outlets. Fark.com does not permit or allow copyright infringing activities and/or infringement of intellectual property rights on Fark.com's website, and Fark.com will remove any and all content and Submissions if properly notified that such content and/or Submission infringes on another's intellectual property rights. 
 > 
-> If you have any questions about our copyright policies, please send [feedback](http://cgi.fark.com/cgi/fark/feedback.pl?type=legal). 
+> #####  Fark's Privacy Policy 
 > 
-> ## Fark's Privacy Policy
+> **Short Version**
 > 
-> **Short Version**  
->  We will not give your addresses to third parties. We hate spammers. Bunch of jackasses is what they are. 
+> We will not give your addresses to third parties. We hate spammers. Bunch of jackasses is what they are. 
 > 
-> **Longer Official Version**  
->  Fark is committed to user privacy in our products and services. This policy outlines our personal information handling practices. If you give us personal information, we will treat it according to this policy. 
+> **Longer Official Version**
+> 
+> Fark is committed to user privacy in our products and services. This policy outlines our personal information handling practices. If you give us personal information, we will treat it according to this policy. 
 > 
 > Fark encourages you to read this privacy policy and those of all web sites you visit. Below is a summary of Fark's online privacy policy. 
 > 
-> **Types and uses of personal information.**  
->  Your personal information is used in the following ways: 
+> **Types and uses of personal information**
 > 
->   * **User IDs and Passwords.** Provides you with access to your profile areas and to protected content.
->   * **Account Information.** These tell us more about who you are, how to contact you, and your shipping and billing information.
->   * **Customer Feedback and Support.** Provides a mechanism for requesting information from Fark. Also used to tell us how we can improve our products, services and site designs.
->   * **Email Correspondence.** Used to raise and respond to issues and inquiries of all types. Also used to distribute information about Fark, our products, and services.
->   * **Transactions.** Shows which products and services you have requested.
+> Your personal information is used in the following ways: 
+> 
+>   * User IDs and Passwords. Provides you with access to your profile areas and to protected content. 
+>   * Account Information. These tell us more about who you are, how to contact you, and your shipping and billing information. 
+>   * Customer Feedback and Support. Provides a mechanism for requesting information from Fark. Also used to tell us how we can improve our products, services and site designs. 
+>   * Email Correspondence. Used to raise and respond to issues and inquiries of all types. Also used to distribute information about Fark, our products, and services. 
+>   * Transactions. Shows which products and services you have requested. 
 > 
 
 > 
 > We will only use your personal information in the ways specified when it was collected. We will not subsequently change the way in which we use your personal information, unless you consent to the new usage. 
 > 
-> **Security measures**  
->  We protect the personal information you share with us. 
+> **Security measures**
+> 
+> We protect the personal information you share with us. 
 > 
 > Authorized third party agents may also need access to some of your personal information. For example, if we need to ship something to you, we must share your name and address with a shipping company. We only provide third party agents with the minimum amount of information needed to complete the requested service or transaction. We do not otherwise share your personal information with third parties, unless you have granted us permission to do so. 
 > 
-> **Data Retention**  
->  Fark will not retain your personal information longer than is necessary for the purposes for which it was collected. 
+> **Data Retention**
 > 
-> **Linked web sites**  
->  We provide links to third party sites. Since we do not control these Web sites, we encourage you to review the privacy policies posted on these (and all) third party sites. 
+> Fark will not retain your personal information longer than is necessary for the purposes for which it was collected. 
 > 
-> **Children's privacy**  
->  We do not knowingly collect personal information from children under the age of 13. If we learn that we have personal information on a child under the age of 13, we will delete that information from our systems. 
+> **Linked web sites**
+> 
+> We provide links to third party sites. Since we do not control these Web sites, we encourage you to review the privacy policies posted on these (and all) third party sites. 
+> 
+> **Children's privacy**
+> 
+> We do not knowingly collect personal information from children under the age of 13. If we learn that we have personal information on a child under the age of 13, we will delete that information from our systems. 
 > 
 > Fark encourages parents to go online with their kids. Here are a few tips to help make a child's online experience safer: 
 > 
 >   * Teach kids never to give personal information, unless supervised by a parent or responsible adult. Includes name, address, phone, school, etc 
->   * Know the sites your kids are visiting and which sites are appropriate.
->   * Look for Web site privacy policies. Know how your child's information is treated.
+>   * Know the sites your kids are visiting and which sites are appropriate. 
+>   * Look for Web site privacy policies. Know how your child's information is treated. 
 > 
 
 > 
-> Check out the [FTC's site](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html)(1) for more tips on protecting children's privacy online. 
+> Check out the FTC's site(1) for more tips on protecting children's privacy online. 
 > 
 > We may display advertisements from third parties. Third party ad-serving companies control which ads are shown. These ad-serving companies may use cookies to collect non-personally identifiable information from you. Advertisers use this information to target the ads and measure their impact. 
 > 
-> **Third Party Advertising**  
->  We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [here](http://www.networkadvertising.org/optout_nonppii.asp). 
+> **Third Party Advertising**
 > 
-> **Third Party Cookies**  
->  In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
+> We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here. 
 > 
-> **Policy updates**  
->  All updates to this policy will be posted here. Last updated: Sun Jun 25 15:18:44 2006  
+> **Third Party Cookies**
 > 
+> In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
+> 
+> **Policy updates**
+> 
+> All updates to this policy will be posted here. 
 > 
 > Note: This policy also covers the personal information you provide to Fark Customer Support. 
