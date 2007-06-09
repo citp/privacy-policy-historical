@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cue.org privacy policy that was archived on 2006-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061101074201id_/http%3A//www.cue.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cue.org privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609111630id_/http%3A//www.cue.org/privacy) for the most accurate reproduction.*
 
-# CUE | Computer-Using Educators : CUE Privacy Policy
+# CUE : CUE Privacy Policy
 
 ### CUE Privacy Policy
 
