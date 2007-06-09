@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the ucr.edu privacy policy that was archived on 2006-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060911074915id_/http%3A//www.ucr.edu/cgi-bin/logs/link.cgi%3Fp%3Dindex%26l%3Dhttp%3A//www.ucr.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucr.edu privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609135322id_/http%3A//www.ucr.edu/cgi-bin/logs/link.cgi%3Fp%3Dindex%26l%3Dhttp%3A//www.ucr.edu/privacy.html) for the most accurate reproduction.*
 
 # UCR: Privacy Policy
-
-[](http://www.ucr.edu/) |     
----|---  
-  
-* * *
 
 ### Policy
 
@@ -42,5 +37,3 @@ Questions regarding users' rights to review, modify or delete their previously p
 ### Main Campus Site
 
 The main campus site (i.e. www.ucr.edu) in addition to general logs, also collects usage information the links on its pages. This information is only used in an aggregate form to determine how resources are used. 
-
-* * *
