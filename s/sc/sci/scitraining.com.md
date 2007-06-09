@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scitraining.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617193926id_/http%3A//scitraining.com/Dispstpg.htm%3FID%3D62) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scitraining.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609202148id_/http%3A//www.scitraining.com/Dispstpg.htm%3FID%3D62) for the most accurate reproduction.*
 
 # Privacy Statement | Stratford Career Institute
 
