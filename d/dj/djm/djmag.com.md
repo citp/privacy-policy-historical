@@ -1,16 +1,25 @@
-> *The following text is extracted and transformed from the djmag.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020171045id_/http%3A//www.djmag.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djmag.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609220048id_/http%3A//www.djmag.com/index.php%3Fop%3Dprivacy) for the most accurate reproduction.*
 
 # DJ Magazine: Cutting Edge dance music, club culture and DJ technology - Clubbing
 
+|  | 
+
+You are here:> [Home](https://web.archive.org/index.php) > Privacy Statement
+
+|   
+---  
+  
+|  |  |   
+---|---|---  
 | 
 
 ## 1\. General
 
-This is a website of Future Publishing Ltd (“Future”). We are committed to protecting your privacy and we take our responsibilities regarding the security of information you provide to us very seriously. If you have any concerns, questions or comments please email the [website editor.](mailto:terry.church@djmag.com%20class=)
+This is a website of DJ Magazine Ltd (“DJ Mag”). We are committed to protecting your privacy and we take our responsibilities regarding the security of information you provide to us very seriously. If you have any concerns, questions or comments please email the [website editor.](mailto:ben.murphy@djmag.com?subject=privacy%20enquiry)
 
 ## 2\. Use of Information 
 
-If you provide us with any personal information through this Website or any associated poll, survey or competition (“Your Information”) we will use it as set out in this policy and to: (a) provide you with any goods or services that you request and to monitor the provision of those goods and services; and (b) contact you about any goods or services of Future or any of its group companies which may be of interest to you. If you do not wish to receive information about our goods and services or those of our group companies, please follow the unsubscribe instructions on the correspondence you receive or on this Website or contact the Website editor. 
+If you provide us with any personal information through this Website or any associated poll, survey or competition (“Your Information”) we will use it as set out in this policy and to: (a) provide you with any goods or services that you request and to monitor the provision of those goods and services; and (b) contact you about any goods or services of DJ Mag or any of its group companies which may be of interest to you. If you do not wish to receive information about our goods and services or those of our group companies, please follow the unsubscribe instructions on the correspondence you receive or on this Website or contact the Website editor. 
 
 ## 3\. Disclosure to third parties 
 
@@ -34,14 +43,22 @@ If you choose to take part in an on-line survey or poll conducted by us, we may 
 
 ## 8\. Security 
 
-In accordance with our requirements under the Data Protection Act 1998, we shall use reasonable endeavours to implement security procedures to help prevent unauthorised access to Your Information. However, Future shall not be liable for any attempt to hack or crack or otherwise gain access to any part of this Website including any of Your Information. 
+In accordance with our requirements under the Data Protection Act 1998, we shall use reasonable endeavours to implement security procedures to help prevent unauthorised access to Your Information. However, DJ Mag shall not be liable for any attempt to hack or crack or otherwise gain access to any part of this Website including any of Your Information. 
 
 ## 9\. Usage of information 
 
 We may disclose Your Information if we are required to do so by any law or other regulatory or government authority. 
 
-10\. Corrections/updates If we hold any of Your Information and that information is incorrect in any respect, you can e-mail the Website editor and the information will be corrected as soon as reasonably possible. 
+## 10\. Corrections/updates 
+
+If we hold any of Your Information and that information is incorrect in any respect, you can e-mail the Website editor and the information will be corrected as soon as reasonably possible. 
 
 ## 11\. Policy changes 
 
-By using this Website you agree to the terms of this privacy policy and our website terms of use. We may amend this privacy policy and our website terms of use from time to time. If we do so, we will post an updated version on this Website.  | 
+By using this Website you agree to the terms of this privacy policy and our website terms of use. We may amend this privacy policy and our website terms of use from time to time. If we do so, we will post an updated version on this Website.  |   
+|  |   
+|  |   
+  
+|  [](https://web.archive.org/index.php?op=rss) |   
+---  
+[](https://web.archive.org/index.php?op=subscription&story=mag&type=mag)
