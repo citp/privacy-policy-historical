@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the klipfolio.com privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229154943id_/http%3A//www.klipfolio.com/index.php%3Faction%3Dhome%2Clegal_privacy%26PHPSESSID%3D76f50be9f0a37e4991caec25927c7707) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klipfolio.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609152743id_/http%3A//www.klipfolio.com/index.php%3Faction%3Dhome%2Clegal_privacy%26PHPSESSID%3De3fa504fb437bc19380bebda197b418e) for the most accurate reproduction.*
 
 # KlipFolio.com Privacy Policy
 
