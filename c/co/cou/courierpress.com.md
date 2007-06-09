@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the courierpress.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019063623id_/http%3A//www.courierpress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the courierpress.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610002059id_/http%3A//www.courierpress.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy & User Agreement : News : Evansville Courier Press
 
@@ -19,6 +19,13 @@ We may request that you voluntarily supply us with personal information, includi
 Like many other commercial sites, our sites may utilize a standard technology called a "cookie" to collect information about how our site is used. Cookies were designed to help a web site recognize a user's browser as a previous visitor and thus save and remember any preferences that may have been set while the user was browsing the site. A cookie cannot retrieve any other data from your hard drive, pass on a computer virus, or capture your e-mail address. Our web sites may use cookies to enhance your visit. Cookies can securely store a user's password, personalize home pages, identify which parts of a site have been visited or keep track of selections, such as those selected in a "shopping cart." Our cookies may collect your domain name and track your selections through our web pages. We only use "cookies" to gather the information indicated in this policy and do not use cookies to gather personal identifying information about you without your consent. 
 
 We also use cookies in connection with our chat rooms in order to record your preferences. These cookies store automatically information pertaining to the last chat room you visited, as well as certain comments that can be issues in the chat room, in order to facilitate your experience with the chat rooms. No additional identifying information is stored on these cookies. You also have the option of choosing to allow us to use a cookie to store your username, or "handle" and password on your computer for use in that chat rooms, forums and other sites as indicated on the particular site.
+
+Like many other commercial sites, our sites may utilize an electronic file called a web beacon to count users who have visited a page or recognize users by accessing certain cookies. Our site and/or our partner web sites use web beacons in the following way:
+
+• For auditing purposes and to collect information from the websites of certain partners.   
+• Information recorded through these web beacons is used to report anonymous individual and/or aggregate information about our users from our partners. Aggregate information may include demographic and usage information. No personally identifiable information about you is shared with partners.
+
+Our practice is to require our partners to disclose the presence of these web beacons on their pages in their privacy policies and state what choices are available to users regarding the collection and use of this information. You may choose to opt-out by contacting us at the e-mail address, postal address or telephone number stated above.
 
 We may require you to supply us with personal information (demographic information such as average age, income, education, population data, zip codes) during a "registration" process online prior to using certain features of our site. For example, you may be required to register to use chat rooms, forums, to access archival stories, to subscribe to newspapers, and to access other features. We use this general information to aggregate information according to demographics, such as gender, geographic location, age, income or a combination of these or other demographics.
 
