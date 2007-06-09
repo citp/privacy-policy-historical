@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobissimo.com privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114154253id_/http%3A//www.mobissimo.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobissimo.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609222658id_/http%3A//www.mobissimo.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Mobissimo Travel | Privacy policy
 
@@ -16,7 +16,9 @@ You can generally visit our Site without revealing any personally identifiable i
   
 We may use small text files called cookies to improve overall Site experience. A cookie is a piece of data stored on the user's hard drive containing information about the user. Cookies generally do not permit us to personally identify you. Additionally, our search partners may use cookies during your visits to their External Web Sites (defined below) and their use of cookies may be subject to their own privacy policies. Mobissimo's search partners do not have access to Mobissimo's cookies.
 
-We allow advertisers and other third parties to place cookies on this Site for the purpose of tracking some of the web searches, browsing and clicks made on this Site, customizing ads to you on this Site and other web sites you visit, and/or keeping track of your response to each ad. None of these third parties are able to use this information to identify you personally. One such company is AlmondNet. If you’d like to know more about AlmondNet’s privacy practices, please click here. 
+We allow advertisers and other third parties to place cookies on this Site for the purpose of tracking some of the web searches, browsing and clicks made on this Site, customizing ads to you on this Site and other web sites you visit, and/or keeping track of your response to each ad. None of these third parties are able to use this information to identify you personally. One such company is AlmondNet. If you'd like to know more about AlmondNet's privacy practices, please click [here](http://www.almondnet.com/privacy.aspx?miid=7).
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [ here](http://networkadvertising.org/consumer/opt_out.asp).
 
   
   
