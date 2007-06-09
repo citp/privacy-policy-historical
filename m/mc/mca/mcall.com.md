@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcall.com privacy policy that was archived on 2006-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061109072824id_/http%3A//www.mcall.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcall.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609125301id_/http%3A//www.mcall.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : The Morning Call Online
 
@@ -39,11 +39,11 @@ mcall.com does not knowingly collect or solicit Personally Identifiable Informat
 We can be reached by contacting: 
 
 mcall.com  
-c/o Russell Glitman  
-Interactive Content & Operations Manager  
+c/o Daniel Sarko  
+General Manager  
 101 North Sixth Street  
 Allentown, PA 18105  
-Email: [**russell.glitman@mcall.com**](mailto:russell.glitman@mcall.com)
+Email: [**daniel.sarko@mcall.com**](mailto:dsarko@mcall.com)
 
 **Changes to this policy.**  
 mcall.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. 
