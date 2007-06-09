@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adicio.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212063021id_/http%3A//adicio.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adicio.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609191941id_/http%3A//www.adicio.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Adicio Privacy Policy
 
