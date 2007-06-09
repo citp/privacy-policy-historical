@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ernestjones.co.uk privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218060441id_/https%3A//www.ernestjones.co.uk/webstore/static/legal/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ernestjones.co.uk privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609124405id_/http%3A//www.ernestjones.co.uk/webstore/static/legal/privacy.do) for the most accurate reproduction.*
 
-# Ernest Jones - The Diamond and Watch Specialist : Privacy Policy
+# Privacy Policy - The Diamond and Watch Specialist - Ernest Jones
 
 We understand that privacy is important to you, and we promise to look after your personal information. Any personal information you provide to us will only be used and recorded in accordance with the Data Protection Act. We will not sell any information about you to any other party.
 
