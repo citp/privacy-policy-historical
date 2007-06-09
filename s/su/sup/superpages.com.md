@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the superpages.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205052346id_/http%3A//www.superpages.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superpages.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609130033id_/http%3A//www.superpages.com/about/privacy.html) for the most accurate reproduction.*
 
-# SuperPages.com - Consumer Center
+# Superpages.com - Privacy Policy
 
 Idearc Media Corp. ("Idearc") respects your right to privacy. 
 
@@ -169,8 +169,7 @@ All concerns or questions about your privacy related to online advertising shoul
 The combination of offline and online information provided by the customer has the ability to enhance the customer experience, and make the consumer's interaction with Idearc more meaningful and relevant. Idearc requires notification of any consumer profiling or purchasing behavior being captured by Idearc online and combined with offline information be clearly stated to the consumer at the time of online data collection. The consumer will have the ability to choose not to have that information aggregated and be part of subsequent marketing campaigns by so indicating at the point of the application, or by choosing to Opt-Out of future marketing campaigns from Idearc by clicking on [Contact Us ](http://www.superpages.com/about/contact.html). 
 
 **Please note:**  
-We may disclose personal information when required by law or in the good faith belief that such action is necessary in order to conform to the edicts of the law or to comply with a legal process served relating to our web site. 
-
+We may disclose personal information when required by law or in the good faith belief that such action is necessary in order to conform to the edicts of the law or to comply with a legal process served relating to our web site.   
   
 **How do I know I am on a secured site?**  
 Every secure page on this web site has been secured with a digital certificate. You know you are on a secure page of this web site when you see a lock in the status bar at the bottom of your browser. In Internet Explorer, you can view your status bar by clicking on View, Status Bar. When you see the lock, double click it and a popup window opens and displays who issued the digital certificate securing that page and the dates it is valid. 
