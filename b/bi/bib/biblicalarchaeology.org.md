@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biblicalarchaeology.org privacy policy that was archived on 2006-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060825111927id_/http%3A//www.biblicalarchaeology.org/bswbMktPrivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biblicalarchaeology.org privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609175403id_/http%3A//www.biblicalarchaeology.org/bswbMktPrivacy.html) for the most accurate reproduction.*
 
 # Biblical Archaeology Society
 
