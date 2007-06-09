@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the thisislondon.co.uk privacy policy that was archived on 2006-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060719123909id_/http%3A//www.thisislondon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisislondon.co.uk privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609055839id_/http%3A//www.thisislondon.co.uk/privacy.do) for the most accurate reproduction.*
 
-# Our privacy policy | This is London
+# Privacy policy | This is London
 
-  
-Our privacy policy
-
-We are Associated New Media (a division of Associated Newspapers Limited, company registration number 84121, data protection registered number Z5272734) ("Associated/we/us"). At Associated we are very serious about protecting your privacy. Your trust is our most important asset. This privacy policy explains how Associated may collect information from you via our websites and how that information may be used subsequently. If you have any queries in relation to this privacy policy please contact privacy@anm.co.uk 
+We are Associated Newspapers Limited, company registration number 84121, data protection registered number Z5272734 ("Associated/we/us"). At Associated we are very serious about protecting your privacy. Your trust is our most important asset. This privacy policy explains how Associated may collect information from you via our websites and how that information may be used subsequently. If you have any queries in relation to this privacy policy please contact privacy@and.co.uk 
 
 By browsing and using our website you agree to this policy governing your use of the website. If you do not accept this policy, you must not use our website. 
 
@@ -23,9 +20,11 @@ We will only collect personal information from you (such as name, address, telep
 
 Examples of where we may collect your personal information include (without limitation):- 
 
-* If you enter a contest or promotion we ask for your name, address and e-mail address. This is so we can run the contest effectively and tell you if you have won. 
-* If you order a product or service from us we may ask for information including your name, e-mail address, delivery and billing address, credit or debit card number and expiry date. Sometimes we may ask for your telephone number to be forwarded to the couriers who may deliver your order. These details allow us to process your orders efficiently. 
-* If you use our "Mail to a friend" service, we ask for the friend's name and email address. We then send an automatic, one-time e-mail inviting your friend to visit us. Details of this transaction are stored only to send that one-time e-mail or to track complaints of mischievous use. Your friend may email privacy@anm.co.uk to ask that it be deleted. 
+  * If you enter a contest or promotion we ask for your name, address and e-mail address. This is so we can run the contest effectively and tell you if you have won. 
+  * If you order a product or service from us we may ask for information including your name, e-mail address, delivery and billing address, credit or debit card number and expiry date. Sometimes we may ask for your telephone number to be forwarded to the couriers who may deliver your order. These details allow us to process your orders efficiently. 
+  * If you use our "Mail to a friend" service, we ask for the friend's name and email address. We then send an automatic, one-time e-mail inviting your friend to visit us. Details of this transaction are stored only to send that one-time e-mail or to track complaints of mischievous use. Your friend may email privacy@and.co.uk to ask that it be deleted. 
+
+
 
 **Collection of other information**
 
@@ -37,17 +36,19 @@ The information collected by cookies and web beacons is not personally identifia
 
 You agree that we may obtain, hold, correlate, merge and use your information (including personal information) for the purpose of providing you with our services and ancillary services and for our internal business purposes. These include (without limitation):- 
 
-* personalising your visits to the site and developing the design and style of the site to improve our services to you; 
-* to inform you about the latest changes to our website, or products, services or promotional offers that you might find interesting; 
-* communication (and personalising such communication) with you from Associated, from other Daily Mail & General Trust (“DGMT”) group companies and from other reputable and trustworthy third parties (if you have agreed to such); 
-* informing you if you have been successful in any of the competitions or promotions; 
-* compiling customer reviews; 
-* for market research purposes; 
-* to prevent you from posting illegal, offensive or objectionable comments on our sites; 
-* to enable third parties to carry out statistical analyses’, technical, logistical or other functions on our behalf including determining behavioural preferences to manage online advertising; 
-* for strategic development; 
-* for any purpose required by law or regulation; and 
-* for accounting purposes. 
+  * personalising your visits to the site and developing the design and style of the site to improve our services to you; 
+  * to inform you about the latest changes to our website, or products, services or promotional offers that you might find interesting;
+  * communication (and personalising such communication) with you from Associated, from other Daily Mail & General Trust (DMGT) group companies and from other reputable and trustworthy third parties (if you have agreed to such);
+  * informing you if you have been successful in any of the competitions or promotions;
+  * compiling customer reviews;
+  * for market research purposes;
+  * to prevent you from posting illegal, offensive or objectionable comments on our sites;
+  * to enable third parties to carry out statistical analyses', technical, logistical or other functions on our behalf including determining behavioural preferences to manage online advertising;
+  * for strategic development;
+  * for any purpose required by law or regulation; and
+  * for accounting purposes.
+
+
 
 **Sharing Information**
 
@@ -77,11 +78,6 @@ For more information on the Data Protection Act and the Information Commissioner
 
 **Changing or accessing your information**
 
-Should your personal information change (e.g. your postcode), or if you no longer wish to receive newsletters or services you have signed up for, or if you wish to review or receive copies of the personal information we hold about you, or have any other queries please email privacy@anm.co.uk including full details of your request. 
+Should your personal information change (e.g. your postcode), or if you no longer wish to receive newsletters or services you have signed up for, or if you wish to review or receive copies of the personal information we hold about you, or have any other queries please email privacy@and.co.uk including full details of your request. 
 
 We may charge a small administration fee in relation to fulfilling a request for access to personal information. 
-
-|   
----  
-|  Top of page |   
-[©2006 Associated New Media](http://www.anm.co.uk/) | [Terms](https://web.archive.org/homepagearticles/terms) | [Privacy policy](https://web.archive.org/homepagearticles/privacy)
