@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angelo.edu privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207212834id_/http%3A//www.angelo.edu/welcome/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angelo.edu privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610012408id_/http%3A//www.angelo.edu/welcome/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
