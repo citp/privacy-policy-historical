@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the royallepage.ca privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205235359id_/http%3A//www.royallepage.ca/CMSTemplates/GlobalNavTemplate.aspx%3Fid%3D239) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royallepage.ca privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609174259id_/http%3A//royallepage.ca/CMSTemplates/GlobalNavTemplate.aspx%3Fid%3D239) for the most accurate reproduction.*
 
-# Royal LePage - Canadian Real Estate and MLS Listings
+# Royal LePage Canada: Canadian Real Estate and MLS® Listings
 
-  
 Royal LePage Real Estate Services Privacy Policy
 
 At Royal LePage Real Estate Services ("Royal LePage"), we respect the privacy of our clients and we are committed to keeping your personal information accurate, confidential, secure, and private. We have adopted the following Privacy Policy to ensure that Royal LePage continues to meet its commitment to your privacy. 
