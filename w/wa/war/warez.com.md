@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warez.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212032408id_/http%3A//www.warez.com/content/docs/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warez.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609094838id_/http%3A//www.warez.com/docs/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
