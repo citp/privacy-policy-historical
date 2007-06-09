@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdrinfo.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205212451id_/http%3A//www.cdrinfo.com/Sections/Privacy/Home.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdrinfo.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609095612id_/http%3A//cdrinfo.com/Sections/Privacy/Home.aspx) for the most accurate reproduction.*
 
 # Privacy Statement for CdrInfo.com
 
@@ -52,17 +52,18 @@ CD DVD Duplicators** ](http://www.octave.com/)
 Duplicators** ](http://www.primera.com/)  
 [ **Primera Europe CD / DVD  
 Duplizierer und Drucker** ](http://www.primeraeurope.com/)  
-[ **DVD CD Duplicators  
-MF Digital** ](https://web.archive.org/Sections/Ads/TextLinkRedirector.aspx?TargetUrl=http%3a%2f%2fwww.mfdigital.com%2f "MF Digital, industry leader of duplication solutions")  
+[ **DVD Duplicator  
+DVD Duplicators by MF Digital** ](https://web.archive.org/Sections/Ads/TextLinkRedirector.aspx?TargetUrl=http%3a%2f%2fwww.mfdigital.com%2f "DVD Duplicator, DVD Duplicators, by MF Digital")  
 [ **Microboards  
-Disc Copiers/Printers** ](https://web.archive.org/Sections/Ads/TextLinkRedirector.aspx?TargetUrl=http%3a%2f%2fwww.microboards.com%2f "CD and DVD Copiers and Printers")  
-[ **CD Duplicators  
-DVD Duplicators by Disc Makers** ](https://web.archive.org/Sections/Ads/TextLinkRedirector.aspx?TargetUrl=http%3a%2f%2fwww.discmakers.com%2fduplicators "CD Duplicators - DVD Duplicators by Disc Makers")  
+Disc Copiers/Printers** ](http://www.microboards.com/ "CD and DVD Copiers and Printers")  
+[ **CD Duplicators DVD  
+Duplicators by Disc Makers** ](https://web.archive.org/Sections/Ads/TextLinkRedirector.aspx?TargetUrl=http%3a%2f%2fwww.discmakers.com%2fduplicators "CD Duplicators - DVD Duplicators by Disc Makers")  
 [ **Blank DVDs  
 from Disc Makers** ](https://web.archive.org/Sections/Ads/TextLinkRedirector.aspx?TargetUrl=http%3a%2f%2fwww.discmakers.com%2fshop%2f "Blank DVDs from Disc Makers")  
-[ **AVI to DVD** ](http://www.vso-software.fr/products/convert_x_to_dvd "AVI to DVD")   
-[ **burning software** ](http://www.vso-software.fr/ "burning software")  
-[ **CD DVD Duplicators**   
-**by Vinpower** ](https://web.archive.org/Sections/Ads/TextLinkRedirector.aspx?TargetUrl=http%3a%2f%2fwww.vinpowerdigital.com%2f "CD DVD Duplicators by Vinpower")  
+[ **DVD Duplicators** ](http://www.vinpowerdigital.com/ "CD DVD Duplicators by Vinpower")  
 [ **Noble House CD & DVD**   
-**Duplicators/Printers** ](https://web.archive.org/Sections/Ads/TextLinkRedirector.aspx?TargetUrl=http%3a%2f%2fwww.noblehousecd.com%2f "Noble House CD & DVD Duplicators/Printers")
+**Duplicators/Printers** ](https://web.archive.org/Sections/Ads/TextLinkRedirector.aspx?TargetUrl=http%3a%2f%2fwww.noblehousecd.com%2f "Noble House CD & DVD Duplicators/Printers")  
+[ **DVD Duplicator CD Duplicators**   
+**by CopyStars.com** ](http://www.copystars.com/ "DVD Duplicator CD Duplicators by CopyStars.com")  
+[ **MicroBoards CD DVD printer**   
+**Publishers & Duplicators** ](http://www.microboards.co.uk/ "MicroBoards, CD / DVD printer Publishers & Duplicators")
