@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunrider.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118100102id_/http%3A//www.sunrider.com/Eng/WebForm/Information/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunrider.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610150615id_/http%3A//www.sunrider.com/Eng/WebForm/Information/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # privacy policy
 
