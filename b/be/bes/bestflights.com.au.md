@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestflights.com.au privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206110827id_/http%3A//www.bestflights.com.au/ns/information/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestflights.com.au privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610094309id_/http%3A//www.bestflights.com.au/ns/information/privacy.php) for the most accurate reproduction.*
 
 # Australian Travel Agent : Best Flights - discount travel - Travel Agent Australia
 
