@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futurequest.net privacy policy that was archived on 2006-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061014150520id_/http%3A//www.futurequest.net/About/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futurequest.net privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610072718id_/http%3A//www.futurequest.net/About/Privacy) for the most accurate reproduction.*
 
 # Privacy Statement - FutureQuest, Inc.
 
