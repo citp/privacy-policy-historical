@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailylit.com privacy policy that was archived on 2006-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061120095346id_/http%3A//dailylit.com/privacy.html%3Fversion%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailylit.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610175914id_/http%3A//dailylit.com/privacy) for the most accurate reproduction.*
 
-# DailyLit
+# DailyLit: Read books by email and RSS.
 
 We take the privacy of your personal information very seriously. This Privacy Policy describes how we treat the information we collect when you visit our Web site and/or register to for the DailyLit services. Please read this policy carefully.
 
@@ -13,6 +13,8 @@ DailyLit will never sell, rent or share your e-mail address with any third parti
 We currently process the sending of DailyLit emails ourselves, but in the future might use a third party e-mail provider, in which case we need to share your e-mail address with that provider, but exclusively for the purpose of delivering our e-mail.
 
 We may also disclose your e-mail address as required by law.
+
+To remove your e-mail address from DailyLit, simply click on the "manage all your subscriptions" link included in every email. You will see a list of your subscriptions and an option to remove your email address.
 
 ### Usage Information and Optional Personal Information
 
