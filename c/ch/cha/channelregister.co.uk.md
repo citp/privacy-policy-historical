@@ -1,13 +1,14 @@
-> *The following text is extracted and transformed from the channelregister.co.uk privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205182748id_/http%3A//www.channelregister.co.uk/Design/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channelregister.co.uk privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610123313id_/http%3A//www.channelregister.co.uk/Design/page/privacy) for the most accurate reproduction.*
 
 # Your Privacy and Channel Register
 
 ### Channel Register is owned and operated by Situation Publishing.
 
 Situation Publishing   
-410 The Bon Marche Centre   
-London   
-SW9 8BJ
+5th Floor  
+33 Charlotte Street  
+London  
+W1T 1RR
 
 Channel Register strongly believes in the importance of keeping readers' personal information personal. It will never use your information for any use beyond that stated or the permissions you give us.
 
@@ -108,11 +109,12 @@ If you wish to contact Situation Publishing regarding any aspect of the Privacy 
 
 ### By Post:
 
-The Data Controller   
-Situation Publishing   
-410 The Bon Marche Centre   
-London   
-SW9 8BJ
+The Data Controller  
+Situation Publishing  
+5th Floor  
+33 Charlotte Street  
+London  
+W1T 1RR
 
 ### By Email
 
