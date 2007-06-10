@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the friendster.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615001337id_/http%3A//www.friendster.com/info/privacy.php%3Fstatpos%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendster.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610022103id_/http%3A//www.friendster.com/info/privacy.php%3Fstatpos%3Dfooter) for the most accurate reproduction.*
 
 # Friendster Privacy Policy
 
-Last Updated on May 8, 2006
+Last Updated on July 18, 2006
 
 #### Friendster does not send Spam or sell email addresses.
 
@@ -19,7 +19,7 @@ Friendster is an online social networking community that connects people through
 
 Friendster also collects Member-submitted account information such as name and email address, to identify Members and send notifications related to the use of the Friendster service. 
 
-You should also be aware that Members may reveal other personal information while communicating on other areas of the Friendster website, such as while participating in discussions on [ Friendster Groups](http://www.friendster.com/group/mygroup.php), using the [ Friendster Chat](http://www.friendster.com/imcontactlist.php?statpos=headernav) service, or posting information on [ Friendster Blogs](http://www.friendster.com/blogs.php). This information, in turn, might be viewed by other Members or visitors to the Friendster website who are not Members. 
+You should also be aware that Members may reveal other personal information while communicating on other areas of the Friendster website, such as while participating in discussions on [ Friendster Groups](http://www.friendster.com/group/mygroup.php) and/or posting information on [ Friendster Blogs](http://www.friendster.com/blogs.php). This information, in turn, might be viewed by other Members or visitors to the Friendster website who are not Members. 
 
 Finally, we also collect some information from Members, as well as from other visitors to the Friendster website, that is not personally identifiable, such as browser type and IP address. This information is gathered from all Members and visitors to the website. 
 
