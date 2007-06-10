@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agric.wa.gov.au privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206132608id_/http%3A//www.agric.wa.gov.au/pls/portal30/url/PAGE/IKMP_MAIN/IKMP_PRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agric.wa.gov.au privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610020628id_/http%3A//www.agric.wa.gov.au/pls/portal30/url/PAGE/IKMP_MAIN/IKMP_PRIVACY) for the most accurate reproduction.*
 
 # Department of Agriculture and Food, Western Australia
 
