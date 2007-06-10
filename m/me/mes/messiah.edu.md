@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the messiah.edu privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208180520id_/http%3A//www.messiah.edu/etc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the messiah.edu privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610040456id_/http%3A//www.messiah.edu/etc/privacy.html) for the most accurate reproduction.*
 
 # Messiah College
 
@@ -35,4 +35,4 @@ Comments or questions? Contact
 the [WebMaster](https://web.archive.org/offices/pr/web_staff/feedback.html)
 
 .   
-[© 2006 Messiah College](https://web.archive.org/etc/legal.html)
+[© 2007 Messiah College](https://web.archive.org/etc/legal.html)
