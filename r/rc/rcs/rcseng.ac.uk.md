@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rcseng.ac.uk privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205224435id_/http%3A//www.rcseng.ac.uk/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcseng.ac.uk privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610040719id_/http%3A//www.rcseng.ac.uk/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement — The Royal College of Surgeons of England
 
