@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the openobjects.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016091612id_/http%3A//www.openobjects.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openobjects.com privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611002709id_/http%3A//www.openobjects.com/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - Open Objects
+
+* * *
 
 Open Objects Software respects and protects the privacy of the individuals that visit Open Objects Software's website and customers of Open Objects Software. Privacy is of great concern to most users of the Internet, and especially email. Open Objects Software are acutely aware of and sensitive to the privacy concerns of visitors to our Web site. Whether you are a customer of our various products or a visitor to our site, we assure you that we do not collect personal information from you unless you provide it to us.
 
 What Information Will Open Objects Software Gather? 
 
 We do not collect any personal information from a visitor to our site unless that visitor explicitly and intentionally provides it. Any voluntary, explicitly collected information will be from forms on this website or through email correspondance with Open Objects Software. 
-
-## Use Of Cookies
-
-We do not use cookies.
 
 ## What Will Open Objects Software Use My Information For?
 
