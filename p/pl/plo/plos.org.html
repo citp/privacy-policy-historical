@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the plos.org privacy policy that was archived on 2006-09-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060928110725id_/http%3A//www.plos.org/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the plos.org privacy policy that was archived on 2007-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070610113717id_/http%3A//www.plos.org/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 
@@ -7,8 +7,9 @@
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-<link rel="stylesheet" href="/plos_screen.css" type="text/css">
+<link rel="stylesheet" href="/plos_screen.20070504.css" type="text/css">
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="alternate" type="application/rss+xml" title="RSS - blogs" href="/cms/blog/feed">
 
 <script language="JavaScript" type="text/javascript">
   <!--
@@ -20,6 +21,13 @@
 </script>
 
 <script language="JavaScript" src="/scripts/goto.js" type="text/javascript"></script>
+
+<script src="/scripts/dojo/dojo.js" type="text/javascript"></script>
+<script type="text/javascript">
+	dojo.require("dojo.lfx.*");
+	dojo.require("dojo.lang.*");
+</script>
+<script src="/scripts/init_navigation.js" type="text/javascript"></script>
 
 <!--
 <rdf:RDF xmlns="http://web.resource.org/cc/"
@@ -57,61 +65,57 @@
 <!-- Start : REVISED Navigation HTML -->
 <div id="navcontainer">
 <ul id="nav">
-        <li><a href="/index.php" title="PLoS.org: Home" tabindex="1">Home</a></li>
-        <li class="none"><a href="/about/index.html" title="About PLoS" tabindex="2">About PLoS</a>
-			<ul>
-				<li><a href="/about/principles.html" title="Core Principles">Core Principles</a></li>
-				<li><a href="/about/board.html" title="Board of Directors">Board of Directors</a></li>
-				<li><a href="/about/people.html" title="Staff">Staff</a></li>
-				<li><a href="/about/faq.html" title="FAQs">FAQ</a></li>
-			</ul>
-		</li>
-        <li class="none"><a href="/oa/index.html" title="Open Access" tabindex="3">Open Access</a>
-			<ul>
-				<li><a href="/oa/definition.html" title="What is Open Access">What is Open Access?</a></li>
-				<li><a href="/oa/timeline.html" title="PLoS OA Timeline">PLoS OA Timeline</a></li>
-				<li><a href="/oa/plosoa.html" title="PLoS OA Resources">PLoS OA Resources</a></li>
-				<li><a href="/oa/otheroa.html" title="Other OA Resources">Other OA Resources</a></li>
-			</ul>
-		</li>
-        <li class="none"><a href="/journals/index.html" title="PLoS Journals" tabindex="4">PLoS Journals</a>
-			<ul>
-				<li><a href="/journals/pubfees.html" title="Publication Fees">Publication Fees</a></li>
-				<li><a href="/journals/model.html" title="Publishing Model">Publishing Model</a></li>
-				<li><a href="/journals/license.html" title="Open Access License">Open Access License</a></li>
-				<li><a href="/journals/embargopolicy.html" title="Media Inquiries">Media Inquiries</a></li>
-				<li><a href="/journals/print.html" title="PLoS in Print">PLoS in Print</a></li>
-				<li><a href="/downloads/creativeuses.html" title="Creative Uses">Creative Uses</a></li>
-			</ul>
-		</li>
-        <li class="none"><a href="/support/index.html" title="Support PLoS" tabindex="5">Support PLoS</a>
-			<ul>
-				<li><a href="/support/donate.php" title="Individual Membership Info">Individual Membership</a></li>
-				<li><a href="/support/instmembership.html" title="Institutional Membership Info">Institutional Membership</a></li>
-				<li><a href="/support/sponsorship.html" title="Sponsorship">Sponsorship</a></li>
-				<li><a href="/support/members.shtml" title="Individual Members">Individual Members</a></li>
-				<li><a href="/support/instmembers.html" title="Institutional Members">Institutional Members</a></li>
-				<li><a href="/support/enewsletter.html" title="E-Newsletter Archive">E-Newsletter Archive</a></li>
-			</ul>
-		</li>
-        <li class="none"><a href="/news/index.html" title="News &amp; Events" tabindex="6">News &amp; Events</a>
-			<ul>
-				<li><a href="/news/news.html" title="PLoS In the News">PLoS In the News</a></li>
-				<!--li><a href="/news/events.html" title="PLoS Calendar">PLoS Calendar</a></li-->
-				<li><a href="/news/archive.html" title="News Archive">News Archive</a></li>
-			</ul>
-		</li>
-        <li class="none"><a href="/downloads/index.html" title="Posters &amp; Media" tabindex="7">Posters &amp; Media</a>
-			<ul>
-				<li><a href="/downloads/jposters.html" title="Journal Flyers">PLoS Flyers</a></li>
-				<li><a href="/downloads/choose.html" title="I Choose PLoS">I Choose PLoS</a></li>
-				<li><a href="/downloads/banners.html" title="Posters and Flyers Menu">Web Banners and Buttons</a></li>
-				<li><a href="/downloads/slides.html" title="Slides">Presentation Slides</a></li>
-				<li><a href="/downloads/archive.html" title="Slides">Archive</a></li>
-				</ul>
-		</li>
-	<li class="none"><a href="/phpdig/search.php" title="Search" tabindex="8">Search</a></li>
-		
+        <li><a href="/index.php" title="PLoS.org: Home" tabindex="101">Home</a></li>
+        <li><a href="/about/index.html" title="About PLoS" tabindex="102">About PLoS</a>
+		<ul>
+			<li><a href="/about/principles.html" title="Core Principles">Core Principles</a></li>
+			<li><a href="/about/board.html" title="Board of Directors">Board of Directors</a></li>
+			<li><a href="/about/people.html" title="Staff">Staff</a></li>
+			<li><a href="/about/faq.html" title="FAQs">FAQ</a></li>
+			<li><a href="/about/testimonials.html" title="Testimonials">Testimonials</a></li>
+		</ul>
+	</li>
+        <li><a href="/oa/index.html" title="Open Access" tabindex="103">Open Access</a>
+		<ul>
+			<li><a href="/oa/definition.html" title="What is Open Access">What is Open Access?</a></li>
+			<li><a href="/oa/plosoa.html" title="PLoS OA Resources">PLoS OA Resources</a></li>
+			<li><a href="/oa/otheroa.html" title="Other OA Resources">Other OA Resources</a></li>
+		</ul>
+	</li>
+        <li><a href="/journals/index.html" title="PLoS Journals" tabindex="104">PLoS Journals</a>
+		<ul>
+			<li><a href="/journals/pubfees.html" title="Publication Fees">Publication Fees</a></li>
+			<li><a href="/journals/license.html" title="Open Access License">Open Access License</a></li>
+			<li><a href="/journals/embargopolicy.html" title="Media Inquiries">Media Inquiries</a></li>
+			<li><a href="/journals/print.html" title="PLoS in Print">PLoS in Print</a></li>
+			<li><a href="/downloads/creativeuses.html" title="Creative Uses">Creative Uses</a></li>
+		</ul>
+	</li>
+        <li><a href="/support/index.html" title="Support PLoS" tabindex="105">Support PLoS</a>
+		<ul>
+			<li><a href="/support/donate.php" title="Individual Membership Info">Individual Membership</a></li>
+			<li><a href="/support/instmembership.html" title="Institutional Membership Info">Institutional Membership</a></li>
+			<li><a href="/support/sponsorship.html" title="Sponsorship">Sponsorship</a></li>
+			<li><a href="/support/members.shtml" title="Individual Members">Individual Members</a></li>
+			<li><a href="/support/instmembers.html" title="Institutional Members">Institutional Members</a></li>
+		</ul>
+	</li>
+        <li><a href="/news/index.html" title="News &amp; Events" tabindex="106">News &amp; Events</a>
+		<ul>
+			<li><a href="/news/news.html" title="PLoS In the News">PLoS In the News</a></li>
+			<li><a href="/cms/blog" title="PLoS Blog">PLoS Blog</a></li>
+		</ul>
+	</li>
+        <li><a href="/downloads/index.html" title="Posters &amp; Media" tabindex="107">Posters &amp; Media</a>
+		<ul>
+			<li><a href="/downloads/jposters.html" title="Journal Flyers">PLoS Flyers</a></li>
+			<li><a href="/downloads/choose.html" title="I Choose PLoS">I Choose PLoS</a></li>
+			<li><a href="/downloads/banners.html" title="Posters and Flyers Menu">Web Banners and Buttons</a></li>
+			<li><a href="/downloads/slides.html" title="Slides">Presentation Slides</a></li>
+			<li><a href="/downloads/archive.html" title="Slides">Archive</a></li>
+		</ul>
+	</li>
+	<li><a href="/phpdig/search.php" title="Search" tabindex="108">Search</a></li>
 </ul>
 </div>
 <!-- End : REVISED Navigation HTML -->
@@ -194,7 +198,6 @@ This statement may change from time to time, so please check back periodically. 
 	<ul>
 		<li><a href="/index.php">HOME</a></li>
 		<li><a href="/advertise/">ADVERTISE</a></li>
-		<li><a href="/blogs/">BLOG</a></li>
 		<li><a href="/contact.html">CONTACT</a></li>
 		<li><a href="/jobs.html">JOBS</a></li>
 		<li><a href="/privacy.html">PRIVACY POLICY</a></li>
@@ -214,7 +217,7 @@ This statement may change from time to time, so please check back periodically. 
 </script>
 <script type="text/javascript">
 _uacct = "UA-338393-1";
-_udn = "www.plos.org";
+_udn = "plos.org";
 urchinTracker();
 </script>
 
@@ -223,4 +226,4 @@ urchinTracker();
 
 
 
-</body></html>
+<div>FATAL: symbol 'dojo.lfx' is not defined after loading '__package__.js'</div></body></html>
