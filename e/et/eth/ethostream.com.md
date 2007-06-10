@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ethostream.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210171405id_/http%3A//www.ethostream.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethostream.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610105307id_/http%3A//www.ethostream.com/privacy.php) for the most accurate reproduction.*
 
 # Welcome to EthoStream
 
