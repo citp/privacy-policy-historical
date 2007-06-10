@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the myoffers.co.uk privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219232209id_/http%3A//www.myoffers.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myoffers.co.uk privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610153525id_/http%3A//www.myoffers.co.uk/privacy.asp) for the most accurate reproduction.*
 
-# Win competitions and prizes online with MyOffers :: The UK's Leading Prize Draw Website
+# Competitions: car competition | Daily prize draws | iPod competition | win online today
 
-Last Updated: December 2006 
+[](http://www.truste.org/ivalidate.php?url=www.myoffers.co.uk&sealid=101 "truste logo, click to verify") Last Updated: December 2006 
 
   * Introduction
 
