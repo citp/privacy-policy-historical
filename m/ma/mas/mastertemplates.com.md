@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mastertemplates.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206082418id_/http%3A//www.mastertemplates.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mastertemplates.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610181003id_/http%3A//www.mastertemplates.com/privacy.htm) for the most accurate reproduction.*
 
 # MasterTemplates : Privacy Policy
 
