@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the xoom.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117085304id_/https%3A//www.xoom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xoom.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610021536id_/https%3A//www.xoom.com/privacy) for the most accurate reproduction.*
 
 # Xoom: Privacy Policy
 
-This Privacy Disclosure is effective as of June 14, 2006, and explains the privacy policies of MetaBank and Xoom Corporation (each, a "Provider"). We are committed to protecting our customers' privacy and security. This disclosure explains what information we collect about you, with whom we share it, and how you can direct us not to share certain information with certain parties. You should read this Privacy Policy in its entirety. Certain sections may apply differently to residents of different jurisdictions. 
+This Privacy Disclosure is effective as of **2007-04-04** , and explains the privacy policies of MetaBank and Xoom Corporation (each, a "Provider"). We are committed to protecting our customers' privacy and security. This disclosure explains what information we collect about you, with whom we share it, and how you can direct us not to share certain information with certain parties. You should read this Privacy Policy in its entirety. Certain sections may apply differently to residents of different jurisdictions. 
 
 ### DEFINITIONS
 
@@ -40,9 +40,9 @@ Our affiliates include nonfinancial companies, and may include financial service
 
 ### INFORMATION WE SHARE WITH NONAFFILIATED THIRD PARTIES
 
-Non-California residents: We may disclose information to other nonaffiliated third parties such as other financial services providers, direct marketers, retailers, publishers, and nonprofit organizations. Except as otherwise described herein, you have the choice to opt out from our sharing of certain information with these types of third parties. You may opt out from Xooms information sharing (except information sharing permitted by law) by contacting us by email at https://www.xoom.com/static/help-contact.html ; fax at 415-777-8690; or by mail at Xoom Corporation, attn: Customer Service, 425 Brannan Street, San Francisco, CA 94107, USA. You may opt-out from Xooms emails to you by accessing your [E-mail Preferences.](https://web.archive.org/emailprefs)
+Non-California residents: We may disclose information to other nonaffiliated third parties such as other financial services providers, direct marketers, retailers, publishers, and nonprofit organizations. Except as otherwise described herein, you have the choice to opt out from our sharing of certain information with these types of third parties. You may opt out from Xooms information sharing (except information sharing permitted by law) by contacting us by email at https://www.xoom.com/static/help-contact.html ; fax at 415-777-8690; or by mail at Xoom Corporation, attn: Customer Service, 301 Brannan Street, 5th Floor, San Francisco CA 94107 USA. You may opt-out from Xooms emails to you by accessing your [E-mail Preferences.](https://web.archive.org/emailprefs)
 
-California and Vermont residents: Except as otherwise described herein or as otherwise permitted by law, we will not disclose information to other nonaffiliated third parties. You may opt in to our sharing of certain information with nonaffiliated third parties by contacting us by email at https://www.xoom.com/static/help-contact.html ; fax at 415-777-8690; or by mail at Xoom Corporation, attn: Customer Service, 425 Brannan Street, San Francisco, CA 94107, USA. For Vermont residents, if we disclose information about you to nonaffiliated third parties with whom we have joint marketing agreements, we will only share information about your name, contact information, and our own transactions and experiences with you. 
+California and Vermont residents: Except as otherwise described herein or as otherwise permitted by law, we will not disclose information to other nonaffiliated third parties. You may opt in to our sharing of certain information with nonaffiliated third parties by contacting us by email at https://www.xoom.com/static/help-contact.html ; fax at 415-777-8690; or by mail at Xoom Corporation, attn: Customer Service, 301 Brannan Street, 5th Floor, San Francisco CA 94107 USA. For Vermont residents, if we disclose information about you to nonaffiliated third parties with whom we have joint marketing agreements, we will only share information about your name, contact information, and our own transactions and experiences with you. 
 
 ### YOUR RIGHT TO OPT-OUT OF DISCLOSURES TO THIRD PARTIES
 
@@ -78,8 +78,8 @@ In order to comply with Vermont law, if your account has a Vermont address we wi
 
 ### QUESTIONS
 
-If you have any questions regarding this Privacy Disclosure, you can contact us by telephone at 1-877-815-1531; by fax at 415-777-8690; or by mail at Xoom Corporation, attn: Customer Service, 425 Brannan Street, 2nd Floor, San Francisco, CA 94107 USA.
+If you have any questions regarding this Privacy Disclosure, you can contact us by telephone at 1-877-815-1531; by fax at 415-777-8690; or by mail at Xoom Corporation, attn: Customer Service, 301 Brannan Street, 5th Floor, San Francisco CA 94107 USA.
 
 ### COMPLAINTS
 
-Texas residents: Complaints concerning our sale of checks activities should be directed to: Texas Department of Banking, 2601 North Lamar Boulevard, Austin, Texas 78705, 1-877-276-5554 (toll free) [http://www.banking.state.tx.us](http://www.banking.state.tx.us/)
+For Texas Customers Only: After first contacting Xoom Corporation, if you still have an unresolved complaint regarding the company's money transmission or currency exchange activity, please direct your complaint to: Texas Department of Banking, 2601 North Lamar Boulevard, Austin, Texas 78705, 1-877-276-5554 (toll free), [www.banking.state.tx.us](http://www.banking.state.tx.us/). 
