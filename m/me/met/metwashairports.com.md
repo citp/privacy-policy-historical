@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metwashairports.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217222008id_/http%3A//www.metwashairports.com/mwaa/about_the_authority/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metwashairports.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610061903id_/http%3A//www.metwashairports.com/mwaa/about_the_authority/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,7 +40,7 @@ We ensure that our web site remains available to all users by using a computer s
 
 **Use of Photographs from the Website**
 
-Copyright © 1997-2005 Metropolitan Washington Airports Authority ("MWAA"). All rights reserved.
+Copyright © 1997-2007 Metropolitan Washington Airports Authority ("MWAA"). All rights reserved.
 
 All photographs contained on this web site are protected by United States copyright law. You may browse, search, retrieve, view, download, store or print photographs from mwaa.com for your personal, noncommercial use only. Otherwise, photographs on this web site may not be copied, reproduced, modified, distributed, transmitted, displayed, published or broadcast without the prior written permission of the Metropolitan Washington Airports Authority. You may not alter or remove any trademark, copyright or other notice from the content on this web site.
 
