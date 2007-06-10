@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the streamaudio.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110233624id_/http%3A//streamaudio.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamaudio.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610110114id_/http%3A//www.streamaudio.com/site/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# StreamAudio
+# Privacy Policy
 
-  
-
-
-* * *
-
-**  
-StreamAudio Privacy Policy** This privacy statement discloses the privacy practices for the StreamAudio media players used by StreamAudio to stream the audio signal of its customers. Those media players are referred to as the “Players.” “StreamAudio” is a trade name of ChainCast Networks, Inc. 
+**StreamAudio Privacy Policy** This privacy statement discloses the privacy practices for the StreamAudio media players used by StreamAudio to stream the audio signal of its customers. Those media players are referred to as the “Players.” “StreamAudio” is a trade name of ChainCast Networks, Inc. 
 
 **This Privacy Statement notifies you of:**
 
