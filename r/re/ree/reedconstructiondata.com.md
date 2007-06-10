@@ -1,11 +1,14 @@
-> *The following text is extracted and transformed from the reedconstructiondata.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208164751id_/http%3A//www.reedconstructiondata.com/info/CA375627.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reedconstructiondata.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610073708id_/http%3A//www.reedconstructiondata.com/info/CA375627.html) for the most accurate reproduction.*
 
-# Reed Construction Data - Privacy Policy
+# Privacy Policy - 1/20/2004 9:57:00 AM - Reed Construction Data
 
-  
+[](http://www.reedconstructiondata.com/index.asp?layout=top10Projects)
 
+Products & Services
 
-Privacy Policy
+Resource Center
+
+## Privacy Policy
 
 **_Privacy Policy  
 _**  
