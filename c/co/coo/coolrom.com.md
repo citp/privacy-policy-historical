@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolrom.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213225813id_/http%3A//www.coolrom.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolrom.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610080655id_/http%3A//www.coolrom.com/privacy.php) for the most accurate reproduction.*
 
 # CoolROM.com - Privacy Policy
 
