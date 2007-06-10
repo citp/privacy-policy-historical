@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the ancestry.co.uk privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207042758id_/http%3A//www.ancestry.co.uk/legal/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ancestry.co.uk privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610023747id_/http%3A//www.ancestry.co.uk/legal/Privacy.aspx) for the most accurate reproduction.*
 
 # 
 
-**This Privacy Statement was last updated on July 21, 2004.  
+**This Privacy Statement was last updated on May 25, 2007.  
 If you have not reviewed it since that date, please do so.  
 You will not receive any other notice of changes to this statement.**
 
 Privacy Information for Ancestry.co.uk  
-MyFamily.com, Inc., operator of this site, recognizes the confidentiality of information that may be disclosed by members in registering or making purchases from our Website and we are firmly committed to protecting your privacy. The following discloses our information gathering and dissemination practices for this site. 
+The Generations Network, Inc., (we, us or our) operator of this site, recognizes the confidentiality of information that may be disclosed by members in registering or making purchases from our Website and we are firmly committed to protecting your privacy. The following discloses our information gathering and dissemination practices for this site. 
 
 **Overview:**  
 The personal, private information that is provided to Ancestry by individual members is not provided to unrelated third parties except in rare cases involving possible violations of our use policies or legal statutes. We do collect some data, always with your knowledge and consent, that is used to fulfill orders and otherwise enhance content to better meet the needs of our users. 
@@ -36,9 +36,11 @@ Ancestry will not disclose any of your personal information, except with your kn
 
 Circumstances where limited personal information may be disclosed are specifically described when the data is collected, such as in the User Agreement, or in the rules of sweepstakes or other promotions. So in all cases you control what, if any, information you disclose.
 
-Ancestry reserves the right to disclose aggregated user statistics, such as "45% of our users are female" or "47% of our users have attended college" in order to describe our services to prospective partners, advertisers, and other third parties. Under protection of confidentiality agreements, Ancestry may match common user information, such as name, address and phone number with third party data to avoid duplication and prevent errors.
+We do reserve the right to disclose aggregated user statistics, such as "45 percent of our users are female" or "10,000 members indicate an interest in gardening" in order to describe our services to prospective partners, advertisers, and other third parties. Under protection of confidentiality agreements, we use third party processors in some cases to help us provide services and manage our sites and relationships with you. These may include purchase and order fulfillment, credit card processing, removing duplicate information from lists, providing marketing assistance and providing other customer services. Third-party processors and providers will be given access only to that information needed to perform their support functions, and are prohibited from using it for other purposes.
 
 Additionally, if you click away from Ancestry to visit the site of any third party advertiser or sponsor, you may be asked for your credit card or other personal information in order to purchase or use products and services offered. These companies have their own privacy and data collection practices. Ancestry has no responsibility or liability for these independent policies. You should therefore review their privacy policies carefully if you have concerns about how your information may be used.
+
+As our business continues to grow, we might buy or sell subsidiaries or business units. In these transactions, customer information is often one of the transferred assets, remaining subject to promises made in existing privacy statements. Also, in the event that The Generations Network, Inc., or substantially all of its assets are acquired, customer information will as a matter of course be one of the transferred assets.
 
 **Will Ancestry use my information for direct mailings?**  
 Ancestry will send electronic mail to you, for the purpose of informing you of changes or additions to Ancestry, or of any Ancestry related products and services. If you do not want to receive such mailings, you may opt out at any time by using the unsubscribe link listed in the e-mail.
@@ -67,5 +69,5 @@ Ancestry may occasionally run contests or other special promotions on our site i
 **Contacting the Website**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can contact:
 
-MyFamily.com, Inc.  
+The Generations Network, Inc.  
 360 W 4800 N Provo, UT 84604 
