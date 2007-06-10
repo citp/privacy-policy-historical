@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inetgiant.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210131540id_/http%3A//inetgiant.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inetgiant.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610065513id_/http%3A//inetgiant.com/privacypolicy) for the most accurate reproduction.*
 
 # Free Advertising, Free Classifieds, Free Classified Ads, Free Ads, Classified Ads, Free Classified, Bulk Email Advertising, Opt In Email Marketing Services, Email Lists, Classified, Free Ad, Advertising Free, Classifieds, Classified Ad, Free Classified Ad by www.inetgiant.com
 
