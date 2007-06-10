@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nh.gov privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231000550id_/http%3A//nh.gov/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nh.gov privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610225320id_/http%3A//www.nh.gov/disclaimer.html) for the most accurate reproduction.*
 
 # NH.gov - The Official Web Site of New Hampshire State Government
 
