@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tnt.tv privacy policy that was archived on 2006-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061023005326id_/http%3A//www.tnt.tv/title/display/%3Foid%3D6620) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tnt.tv privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610063249id_/http%3A//www.tnt.tv/title/display/%3Foid%3D6620) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -154,4 +154,6 @@ e-mail: [privacy.tnt@turner.com](mailto:%20privacy.tnt@turner.com)
 
 back to top
 
-| 
+|   
+  
+---|---
