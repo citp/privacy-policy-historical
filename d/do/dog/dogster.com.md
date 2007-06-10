@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogster.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225060637id_/http%3A//www.dogster.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogster.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610222407id_/http%3A//www.dogster.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
