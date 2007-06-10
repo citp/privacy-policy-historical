@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moody.edu privacy policy that was archived on 2006-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060831130611id_/http%3A//www.moody.edu/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moody.edu privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610101305id_/http%3A//www.moody.edu/privacy.htm) for the most accurate reproduction.*
 
 # MBI - Privacy
 
@@ -47,7 +47,7 @@ Moody Bible Institute
 Information Systems  
 820 N. LaSalle Blvd  
 Chicago, Illinois 60610-3284  
-(312) 329-4349 
+1-800-DLMOODY 
 
 **The Way We Use Information:**
 
