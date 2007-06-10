@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the westlaw.co.uk privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230062635id_/http%3A//www.sweetandmaxwell.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westlaw.co.uk privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610095020id_/http%3A//www.westlaw.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
-# Welcome to Sweet and Maxwell
+# Westlaw UK - Privacy Policy
 
-**SWEET & MAXWELL PRIVACY STATEMENT**
+## 
 
-1\. Sweet & Maxwell Limited [and its parent company Thomson Legal & Regulatory Europe Limited] is/are committed to respecting your privacy and we recognise your need to know that your personal information is being lawfully processed and held in accordance with the Data Protection Act 1998.
+### SWEET & MAXWELL PRIVACY STATEMENT
+
+1\. Sweet & Maxwell Limited [and its parent company Thomson Legal & Regulatory Limited] is/are committed to respecting your privacy and we recognise your need to know that your personal information is being lawfully processed and held in accordance with the Data Protection Act 1998.
 
 2\. This Privacy Statement is designed to help you understand how we may use and safeguard the personal information you provide to us in this website.
 
@@ -75,7 +77,7 @@ London
 NW3 3PF
 
 Call Customer Services on  
-02074491111 (UK)   
-+441264342906 (International)
+020 7449 1111 (UK)   
++44 1264 342906 (International)
 
 Email us: [SMG.datamanagement@thomson.com](mailto:smg.datamanagement@thomson.com)
