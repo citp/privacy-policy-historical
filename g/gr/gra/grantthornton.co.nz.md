@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grantthornton.co.nz privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219220805id_/http%3A//grantthornton.co.nz/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grantthornton.co.nz privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610091226id_/http%3A//www.grantthornton.co.nz/privacy.html) for the most accurate reproduction.*
 
 # Grant Thornton New Zealand - Privacy
 
@@ -54,4 +54,4 @@ Unfortunately, no data transmission over the Internet or any other network can b
 
 Inaccuracies and Corrections
 
-We would like to keep your personal data accurate and up to date. If you become aware of any errors or inaccuracies please let us know by contacting: [info@wn.gtnz.co.nz](mailto:info@wn.gtnz.co.nz)
+We would like to keep your personal data accurate and up to date. If you become aware of any errors or inaccuracies please let us know by contacting: [info@gtwn.co.nz](mailto:info@gtwn.co.nz)
