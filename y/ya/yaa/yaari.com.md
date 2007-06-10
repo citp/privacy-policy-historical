@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yaari.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213010533id_/http%3A//yaari.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yaari.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610083519id_/http%3A//www.yaari.com/policy.php) for the most accurate reproduction.*
 
 # :: yaari.com ::
 
