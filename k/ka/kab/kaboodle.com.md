@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaboodle.com privacy policy that was archived on 2006-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061031152050id_/http%3A//www.kaboodle.com/zd/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaboodle.com privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611002923id_/http%3A//www.kaboodle.com/zd/privacy.html) for the most accurate reproduction.*
 
 # Kaboodle Privacy Policy
 
@@ -13,13 +13,13 @@ Kaboodle collects information from users including email address, username, pass
 
 Messages on message boards are submitted by users and redisplayed to the general public.
 
-·         A user may email pages to other users by using the email function and therefore Kaboodle collects these email addresses for the purpose of sending pages and populating a user’s address book.
+·         A user may email lists to other users by using the email function and therefore Kaboodle collects these email addresses for the purpose of sending lists and populating a user’s address book.
 
 ·         IP, browser and cookie data are utilized for the purpose of customizing the site for each user.
 
 **Customer Service**
 
-If you choose to bookmark a page on Kaboodle or post messages in our message areas, we will collect that information you provide to us. Kaboodle employees may examine this data on an individual user basis as necessary to provide customer support and troubleshoot problems as permitted by law. 
+If you choose to bookmark a list on Kaboodle or post messages in our message areas, we will collect that information you provide to us. Kaboodle employees may examine this data on an individual user basis as necessary to provide customer support and troubleshoot problems as permitted by law. 
 
 **Emails Sent To Kaboodle**
 
@@ -27,7 +27,7 @@ If you send us personal correspondence, such as emails or letters, or if other u
 
 **Use of Personal Information**
 
-As Kaboodle is a free site, we may use your bookmarks to improve our marketing and promotional efforts by providing targeted advertising based on the content of the pages. 
+As Kaboodle is a free site, we may use your bookmarks to improve our marketing and promotional efforts by providing targeted advertising based on the content of the lists. 
 
 On an aggregate, non-personally identifiable level we may also use this data to analyze site usage and customize the Site's content, layout, and services. These uses improve the Site and better tailor it to meet your needs, so as to provide you with a smooth, efficient, safe and customized experience while using the Site. 
 
@@ -35,7 +35,7 @@ As a matter of policy, we do not sell or rent any of your personal information t
 
 We aggregate (gather up data across all user accounts) personal information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for their marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to identify you personally. 
 
-Your User ID, bookmarks and any content you generate via message boards are displayed throughout the Site.  Therefore this data is available to the public. All of your activities on the Site will be identifiable to your User ID. Other people can see your bookmarks, comments, and any other pages you have created on the Kaboodle service.
+Your User ID, bookmarks and any content you generate via message boards are displayed throughout the Site.  Therefore this data is available to the public. All of your activities on the Site will be identifiable to your User ID. Other people can see your bookmarks, comments, and any other lists you have created on the Kaboodle service.
 
 Kaboodle cooperates with law enforcement inquiries, as well as other third parties to enforce laws, such as: intellectual property rights, fraud and other rights, to help protect you and the Kaboodle community from those doing harm. Therefore, in response to a verified request by law enforcement or other government officials relating to a criminal investigation or alleged illegal activity, we can (and you authorize us to) disclose your user ID, email, bookmarks, and site usage history without a subpoena.
 
