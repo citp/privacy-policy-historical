@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clubshop.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230073921id_/http%3A//clubshop.com/privacy.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubshop.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610181203id_/http%3A//www.clubshop.com/privacy.xml) for the most accurate reproduction.*
 
 # ClubShop Online Shopping Mall - Trust the ClubShop Online Shopping Mall with your information because your privacy and personal information is completed protected and secure
 
