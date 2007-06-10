@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bestflights.com.au privacy policy that was archived on 2006-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061206110827id_/http%3A//www.bestflights.com.au/ns/information/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bestflights.com.au privacy policy that was archived on 2007-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070610094309id_/http%3A//www.bestflights.com.au/ns/information/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>Australian Travel Agent : Best Flights - discount travel - Travel Agent Australia</title>
@@ -34,7 +34,90 @@
 	<link rel="P3Pv1" href="/w3c/p3p.xml">
 	<link rel="stylesheet" type="text/css" href="/ns/site/theme/default/style.css">
 	<script type="text/javascript" src="/ns/site/theme/default/adadjust.js"></script>
+
 	<link rel="stylesheet" type="text/css" href="/ns/site/theme/default/2_column/style.css">
+
+
+<script type="text/JavaScript">
+<!--
+var expDays = 1; // number of days the cookie should last
+
+var page = "/ns/pop-up_ad/pop_bf.php";
+var windowprops = "width=390,height=570,location=no,toolbar=no,menubar=no,scrollbars=no,resizable=no";
+
+function GetCookie (name) {
+  var arg = name + "=";
+  var alen = arg.length;
+  var clen = document.cookie.length;
+  var i = 0;
+  while (i < clen) {
+    var j = i + alen;
+    if (document.cookie.substring(i, j) == arg)
+    return getCookieVal (j);
+    i = document.cookie.indexOf(" ", i) + 1;
+    if (i == 0) break;
+  }
+  return null;
+}
+
+function SetCookie (name, value) {
+  var argv = SetCookie.arguments;
+  var argc = SetCookie.arguments.length;
+  var expires = (argc > 2) ? argv[2] : null;
+  var path = (argc > 3) ? argv[3] : null;
+  var domain = (argc > 4) ? argv[4] : null;
+  var secure = (argc > 5) ? argv[5] : false;
+  document.cookie = name + "=" + escape (value) +
+    ((expires == null) ? "" : ("; expires=" + expires.toGMTString())) +
+    ((path == null) ? "" : ("; path=" + path)) +
+    ((domain == null) ? "" : ("; domain=" + domain)) +
+    ((secure == true) ? "; secure" : "");
+}
+
+function DeleteCookie (name) {
+  var exp = new Date();
+  exp.setTime (exp.getTime() - 1);
+  var cval = GetCookie (name);
+  document.cookie = name + "=" + cval + "; expires=" + exp.toGMTString();
+}
+
+var exp = new Date();
+exp.setTime(exp.getTime() + (expDays*24*60*60*1000));
+
+function amt(){
+  var count = GetCookie('bfpopup')
+  if(count == null) {
+    SetCookie('bfpopup','1')
+    return 1
+  } else {
+    var newcount = parseInt(count) + 1;
+    DeleteCookie('bfpopup')
+    SetCookie('bfpopup',newcount,exp)
+    return count
+  }
+}
+
+function getCookieVal(offset) {
+  var endstr = document.cookie.indexOf (";", offset);
+  if (endstr == -1)
+  endstr = document.cookie.length;
+  return unescape(document.cookie.substring(offset, endstr));
+}
+
+function checkCount() {
+  var count = GetCookie('bfpopup');
+  if (count == null) {
+    count=1;
+    SetCookie('bfpopup', count, exp);
+    window.open(page, "", windowprops);
+  } else {
+    count++;
+    SetCookie('bfpopup', count, exp);
+  }
+}
+
+//-->
+</script>
 
 <!-- Tower Ad Code -->
 <script type="text/JavaScript">
@@ -93,7 +176,7 @@ function resizeNmsnHeader() {
 </script>
 <!-- End Ninemsn Code -->
 
-<script language="javascript">
+<script language="javascript" type="text/javascript">
 <!--
 var acePopupWindow=null;
 function acePopup(mypage,myname,w,h,pos,infocus){
@@ -181,12 +264,284 @@ function printWindow(){
    if (bV >= 4) window.print()
 }
 //-->
-</script>	<link rel="stylesheet" type="text/css" href="/ns/site/theme/default/2_column/style.css">
+</script>
+
+<script type="text/javascript">
+
+<!--
+
+function validatecompany() {
+	valid = true;
+	var error = Array();
+	
+	// Check for company
+	if ( document.company.name.value == "" ) {
+		error.push("You must specify a company name!");
+		valid = false;
+	}	
+	
+	if (!valid) {
+		alert(error.join("\n"));
+	}
+	return valid;
+}
+
+function validatecontact() {
+	valid = true;
+	var error = Array();
+	
+	// Check for subject
+	if ( document.contact.subject.value == "" ) {
+		error.push("You must specify a subject.");
+		valid = false;
+	}
+	// Check for body
+	if ( document.contact.body.value == "") {
+		error.push("Please describe your enquiry within the body.");
+		valid = false;
+	}
+		
+	if (!valid) {
+		alert(error.join("\n"));
+	}
+	return valid;
+}
+function validatelog() {
+	valid = true;
+	var error= Array();
+	
+	// Check for Client Firstname
+	if ( document.log.client_firstname.value == "" ) {
+		error.push("You must specify the clients firstname.");
+		valid = false;		
+	}
+	// Check for Client Surname
+	if ( document.log.client_surname.value == "" ) {
+		error.push("You must specify the clients surname.");
+		valid = false;		
+	}
+	// Check for Description
+	if ( document.log.description.value == "" ) {
+		error.push("Please describe the nature of the call.");
+		valid = false;		
+	}
+		
+	if (!valid) {
+		alert(error.join("\n"));
+	}
+	return valid;
+
+}
+
+function validate()
+{
+	
+	valid = true;
+	var error= Array();
+
+		// Check for Company
+		if ( document.newuser.company_id.value == 0 ) {
+			error.push("You must specify a company.");
+			valid = false;
+		}
+		
+		// Check for name
+        if ( document.newuser.name.value == "" )
+        {
+                error.push("You must specify a fullname.");
+                valid = false;
+        } 
+        
+        // Check for Username
+        if ( document.newuser.username.value == "" )
+        {
+                error.push("You must specify a username.");
+                valid = false;
+        }
+        
+        // Check for blank password
+        if ( document.newuser.password1.value == "" && document.newuser.password2.value == "") {
+			    error.push("You must specify a password.");
+                valid = false;
+		} else {
+			// Check if password matches confirmation password.
+			if ( document.newuser.password1.value != document.newuser.password2.value )
+			{
+					error.push("The passwords do not match.");
+					valid = false;
+			}
+		}
+		
+		// Check for blank email
+        if ( document.newuser.email1.value == "" && document.newuser.email2.value == "") {
+			    error.push("You must specify an email.");
+                valid = false;
+		} else {
+			// Check if email matches confirmation email.
+			if ( document.newuser.email1.value != document.newuser.email2.value )
+			{
+					error.push("The emails do not match.");
+					valid = false;
+			}
+		}
+		
+		// Check for privilege
+		if ( document.newuser.privilege.value == 0 ) {
+			error.push("You must specify a privilege.");
+			valid = false;
+		}		
+
+
+		if (!valid) {
+			alert(error.join("\n"));
+		}
+        return valid;
+}
+
+function profilecheck() {
+	valid = true;
+	if ( document.logcall.profile.value == 0 ) {
+		alert('Please select who the call is from.');
+		valid=false;
+	}
+	return valid;
+}
+
+
+
+//-->
+
+</script>
+
+<script type="text/javascript">
+	var flagclock = 0;
+	var flagstop = 0;
+	var stoptime = 0;
+	var splitcounter = 0;
+	var currenttime;
+	var splitdate = '';
+	var output;
+	var clock;
+		
+	function startstop()
+		{
+		var startstop = document.getElementById('startstopbutton');
+		var startdate = new Date();
+		var starttime = startdate.getTime();		
+		counter(starttime);			
+		}
+		
+	function counter(starttime)
+		{
+		output = document.getElementById('output');
+		clock = document.getElementById('clock');
+		currenttime = new Date();
+		var timediff = currenttime.getTime() - starttime;
+		
+			clock.value = formattime(timediff,'');
+			refresh = setTimeout('counter(' + starttime + ');',10);			
+		}
+		
+	function formattime(rawtime,roundtype)
+		{
+		if(roundtype == 'round')
+			{
+			var ds = Math.round(rawtime/100) + '';
+			}
+		else
+			{
+			var ds = Math.floor(rawtime/100) + '';		
+			}
+		var sec = Math.floor(rawtime/1000);
+		var min = Math.floor(rawtime/60000);
+		ds = ds.charAt(ds.length - 1);
+		if(min >= 60)
+			{
+			startstop();
+			}
+		sec = sec - 60 * min + '';
+		if(sec.charAt(sec.length - 2) != '')
+			{
+			sec = sec.charAt(sec.length - 2) + sec.charAt(sec.length - 1);
+			}
+		else
+			{
+			sec = 0 + sec.charAt(sec.length - 1);
+			}	
+		min = min + '';
+		if(min.charAt(min.length - 2) != '')
+			{
+			min = min.charAt(min.length - 2)+min.charAt(min.length - 1);
+			}
+		else
+			{
+			min = 0 + min.charAt(min.length - 1);
+			}
+		return min + ':' + sec + ':' + ds;
+		}
+		
+	function resetclock()
+		{
+		flagstop = 0;
+		stoptime = 0;
+		splitdate = '';
+		window.clearTimeout(refresh);
+		output.value = '';
+		splitcounter = 0;
+		if(flagclock == 1)
+			{
+			var resetdate = new Date();
+			var resettime = resetdate.getTime();
+			counter(resettime);
+			}
+		else
+			{
+			clock.value = "00:00:0";
+			}
+		}
+		
+	function splittime()
+		{
+		if(flagclock == 1)
+			{
+			if(splitdate != '')
+				{	
+				var splitold = splitdate.split(':');
+				var splitnow = clock.value.split(':');
+				var numbers = new Array();
+				var i = 0
+				for(i;i<splitold.length;i++)
+					{
+					numbers[i] = new Array();
+					numbers[i][0] = parseInt(splitold[i]);
+					numbers[i][1] = parseInt(splitnow[i]);
+					}
+				if(numbers[1][1] < numbers[1][0])
+					{
+					numbers[1][1] += 60;
+					numbers[0][1] -= 1;
+					}
+				if(numbers[2][1] < numbers[2][0])
+					{
+					numbers[2][1] += 10;
+					numbers[1][1] -= 1;
+					}
+				var mzeros = (numbers[0][1] - numbers[0][0]) < 10?'0':'';
+				var szeros = (numbers[1][1] - numbers[1][0]) < 10?'0':'';
+				output.value += '\t+' + mzeros + (numbers[0][1] - numbers[0][0]) + ':' + szeros + (numbers[1][1] - numbers[1][0]) + ':' + (numbers[2][1] - numbers[2][0]) + '\n';
+				}
+			splitdate = clock.value;
+			output.value += splitcounter + 1 + '. ' + clock.value + '\n';
+			splitcounter ++;
+			}
+		}
+	</script>
+	<link rel="stylesheet" type="text/css" href="/ns/site/theme/default/2_column/style.css">
 
 
 
 </head>
-<body onload="doBigAd(); bf_page_onload();" onresize="doBigAd()">
+<body onload="doBigAd(); bf_page_onload(); " onresize="doBigAd()">
 
 <table border="0" cellspacing="0" cellpadding="0" id="page_box" style="width: 930px;"><tbody><tr><td>
 <div style="float:left; width:760px">
@@ -214,7 +569,7 @@ function printWindow(){
     <td width="2"><div class="nav_bevel"><img src="/ns/images/nav_bevel_coach.gif" alt="bevel" width="2" height="30"></div></td>
     <td><div id="btn_coach" class="btn_coach"><a href="http://www.bestcoachtours.com.au" target="_blank">Coach Tours</a></div></td>
     <td width="2"><div class="nav_bevel"><img src="/ns/images/nav_bevel_coach2.gif" alt="bevel" width="2" height="30"></div></td>
-    <td><div id="btn_hotels" class="btn_std"><a href="/ns/hotels">Hotels <span style="font-weight:normal">/</span> Hostels</a></div></td>
+    <td><div id="btn_hotels" class="btn_std"><a href="/ns/hotels/">Hotels <span style="font-weight:normal">/</span> Hostels</a></div></td>
     <td width="2"><div class="nav_bevel"><img src="/ns/images/nav_bevel_std.gif" alt="bevel" width="2" height="30"></div></td>
     <td><div id="btn_packages" class="btn_std"><a href="/ns/packages/">Packages</a></div></td>
     <td width="2"><div class="nav_bevel"><img src="/ns/images/nav_bevel_std.gif" alt="bevel" width="2" height="30"></div></td>
@@ -234,7 +589,7 @@ function printWindow(){
 		<tbody><tr>
 		  <td valign="top" class="leftside"><div id="left_btn_01" class="main_btn"><a href="javascript:showHide('hs_0'),doAdHeightsR(), doAdHeights()"><img id="arrow_0" src="/ns/site/theme/default/menu/left_btn_arrow_dn.gif" border="0" class="arrow1"></a>Flight Specials</div>
 			  <span id="hs_0" class="main_sub_menu" style="display: none;">
-			  <div class="dynarch-popup-menu dynarch-popup-base-menu"><div class="d"><div class="c"><div class="b"><div class="a"><table cellspacing="0" cellpadding="0"><tbody><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Domestic Flights</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Africa</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Asia</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Latin America</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item has-submenu"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">North America</td><td class="end arrow"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">South Pacific</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">The Middle East</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item has-submenu"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">UK and Europe</td><td class="end arrow"><div unselectable="on">&nbsp;</div></td></tr><tr class="item has-submenu"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Business &amp; First Class</td><td class="end arrow"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Circle Fares</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">World Air Passes</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Round World Flights</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action has-submenu"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Worldwide Departures</td><td class="end arrow"><div unselectable="on">&nbsp;</div></td></tr></tbody></table></div></div></div></div></div><ul id="menu1" style="display: none;">
+			  <div class="dynarch-popup-menu dynarch-popup-base-menu"><div class="d"><div class="c"><div class="b"><div class="a"><table cellspacing="0" cellpadding="0"><tbody><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Domestic Flights</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Africa</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Asia</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Latin America</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item has-submenu"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">North America</td><td class="end arrow"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">South Pacific</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">The Middle East</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item has-submenu"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">UK and Europe</td><td class="end arrow"><div unselectable="on">&nbsp;</div></td></tr><tr class="item has-submenu"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Business &amp; First Class</td><td class="end arrow"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Circle Fares</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Round World Flights</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action has-submenu"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Worldwide Departures</td><td class="end arrow"><div unselectable="on">&nbsp;</div></td></tr></tbody></table></div></div></div></div></div><ul id="menu1" style="display: none;">
 				  <li><a href="http://www.bestflights.com.au/ns/flights/specials/domestic/">Domestic Flights</a></li>
 				  <li><a href="http://www.bestflights.com.au/cgi-bin/211/flights?mainlist">Africa</a></li>
 				  <li><a href="http://www.bestflights.com.au/cgi-bin/209/flights?mainlist">Asia</a></li>
@@ -250,7 +605,7 @@ function printWindow(){
 				  <li><a href="http://www.bestflights.com.au/cgi-bin/214/flights?mainlist">The Middle East</a></li>
 				  <li>UK and Europe
 					  <ul>  
-                          <li><a href="http://www.bestflights.com.au/ns/flights/earlybirds/index.php">2007 Earlybirds</a></li>                        
+                          <!--<li><a href="?=$domain?>/ns/flights/earlybirds/index.php">2007 Earlybirds</a></li>-->                        
 						  <li><a href="http://www.bestflights.com.au/ns/flights/specials/uk_europe/flights/">Just Flights</a></li>
 						  <li><a href="http://www.bestflights.com.au/ns/flights/specials/uk_europe/flights_tours/">Flights with Tours</a></li>
 						  <li><a href="http://www.bestflights.com.au/cgi-bin/05_201b_land/flights?mainlist">Flights with Land Fares</a></li>
@@ -269,14 +624,14 @@ function printWindow(){
 						  <li>UK and Europe
 							  <ul>
 								  <li><a href="http://www.bestflights.com.au/cgi-bin/04_201f/flights?mainlist">Just Flights</a></li>
-								  <li><a href="http://www.bestflights.com.au/cgi-bin/04_201b_toursf/flights?mainlist">Flights with Tours</a></li>
+								  <!--<li><a href="http://www.bestflights.com.au/cgi-bin/04_201b_toursf/flights?mainlist">Flights with Tours</a></li>-->
 								  <li><a href="http://www.bestflights.com.au/cgi-bin/04_201b_landf/flights?mainlist">Flights with Land Fares</a></li>
 							  </ul>
 						  </li>
 					  </ul>
 				  </li>
 				  <li><a href="http://www.bestflights.com.au/cgi-bin/208/flights?mainlist">Circle Fares</a></li>
-				  <li><a href="http://www.bestflights.com.au/ns/flights/specials/world_air_passes/">World Air Passes </a></li>
+				  <!--<li><a href="http://www.bestflights.com.au/ns/flights/specials/world_air_passes/">World Air Passes </a></li>-->
 				  <!--<li><a href="http://www.bestflights.com.au/ns/flights/specials/low_cost_airlines/">Low Cost Airlines</a></li>-->
 				  <li><a href="http://www.bestflights.com.au/cgi-bin/203/flights?mainlist">Round World Flights</a></li>
 				  <li><a href="http://www.bestflights.com.au/ns/flights/specials/worldwide_departures/">Worldwide Departures</a>
@@ -332,12 +687,14 @@ function printWindow(){
 		</tr>				<tr>
 			<td valign="top" class="leftside"><div id="left_btn_02" class="main_btn"><a href="javascript:showHide('hs_1'),doAdHeightsR(), doAdHeights()"><img id="arrow_1" src="/ns/site/theme/default/menu/left_btn_arrow_dn.gif" border="0" class="arrow1"></a>Tools / Resources</div>
 				<span id="hs_1" class="main_sub_menu" style="display: none;">
-				<div class="dynarch-popup-menu dynarch-popup-base-menu"><div class="d"><div class="c"><div class="b"><div class="a"><table cellspacing="0" cellpadding="0"><tbody><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Newsletter</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Deals On Your Mobile</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">RSS Newsfeeds</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">RSS Screensavers</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Desktop Wallpapers</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Currency Convertor</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Visalink</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">World Time Zones</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr></tbody></table></div></div></div></div></div><ul id="menu2" style="display: none;">
+				<div class="dynarch-popup-menu dynarch-popup-base-menu"><div class="d"><div class="c"><div class="b"><div class="a"><table cellspacing="0" cellpadding="0"><tbody><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Newsletter</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Deals On Your Mobile</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">RSS Newsfeeds</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">RSS Screensavers</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Desktop Wallpapers</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Mobile Wallpapers</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Currency Convertor</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Visalink</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">World Time Zones</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr></tbody></table></div></div></div></div></div><ul id="menu2" style="display: none;">
 					<li><a href="http://www.bestflights.com.au/ns/tools_resources/newsletter/">Newsletter</a></li>
+                    <!-- <li><a href="http://www.bestflights.com.au/ns/tools_resources/travelmessenger/">Travel Messenger</a></li> -->
 					<li><a href="http://www.bestflights.com.au/ns/tools_resources/mobile/">Deals On Your Mobile</a></li>
 					<li><a href="http://www.bestflights.com.au/ns/tools_resources/rss/">RSS Newsfeeds</a></li>
 					<li><a href="http://www.bestflights.com.au/ns/tools_resources/downloads/screensavers/">RSS Screensavers</a></li>
 					<li><a href="http://www.bestflights.com.au/ns/tools_resources/downloads/wallpapers/">Desktop Wallpapers</a></li>
+					<li><a href="http://www.bestflights.com.au/ns/tools_resources/downloads/wallpapers/mobile.php">Mobile Wallpapers</a></li>
 					<!--<li><a href="http://www.bestflights.com.au/ns/tools_resources/downloads/games/">Travel Games</a></li>-->
 					<li><a href="http://www.bestflights.com.au/ns/tools_resources/currency_convertor/">Currency Convertor</a></li>
 					<!--<li><a href="http://www.bestflights.com.au/ns/tools_resources/taxes_calculator/">Taxes Calculator</a></li>-->
@@ -348,12 +705,13 @@ function printWindow(){
 		</tr>				<tr>
 			<td valign="top" class="leftside"><div id="left_btn_03" class="main_btn"><a href="javascript:showHide('hs_2'),doAdHeightsR(), doAdHeights()"><img id="arrow_2" src="/ns/site/theme/default/menu/left_btn_arrow_up.gif" border="0" class="arrow1"></a>Information</div>
 				<span id="hs_2" class="main_sub_menu" style="display: block;">
-				<div class="dynarch-popup-menu dynarch-popup-base-menu"><div class="d"><div class="c"><div class="b"><div class="a"><table cellspacing="0" cellpadding="0"><tbody><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">About Us</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Contact Us</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Terms and Conditions</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Privacy Policy</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Advertise With Us</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Site Map</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Employment</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Testimonials</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Travel Awards</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Where We've Been</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr></tbody></table></div></div></div></div></div><ul id="menu3" style="display: none;">
+				<div class="dynarch-popup-menu dynarch-popup-base-menu"><div class="d"><div class="c"><div class="b"><div class="a"><table cellspacing="0" cellpadding="0"><tbody><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">About Us</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Contact Us</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Terms and Conditions</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Privacy Policy</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Advertise With Us</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Affiliate Program</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Site Map</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Employment</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Testimonials</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Travel Awards</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Where We've Been</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr></tbody></table></div></div></div></div></div><ul id="menu3" style="display: none;">
 					<li><a href="http://www.bestflights.com.au/ns/information/about.php">About Us</a></li>
 					<li><a href="http://www.bestflights.com.au/ns/information/contact.php">Contact Us</a></li>
 					<li><a href="http://www.bestflights.com.au/ns/information/terms_conditions.php">Terms and Conditions</a></li>
 					<li><a href="http://www.bestflights.com.au/ns/information/privacy.php">Privacy Policy</a></li>
 					<li><a href="http://www.bestflights.com.au/ns/information/advertise_with_us/">Advertise With Us</a></li>
+					<li><a href="http://www.bestflights.com.au/ns/information/affiliates/">Affiliate Program</a></li>
 					<li><a href="http://www.bestflights.com.au/ns/information/site_map.php">Site Map</a></li>
 					<li><a href="http://www.bestflights.com.au/ns/information/employment.php">Employment</a></li>
 					<li><a href="http://www.bestflights.com.au/ns/information/testimonials/testimonials.php">Testimonials</a></li>
@@ -371,20 +729,20 @@ function printWindow(){
 							<li><a href="http://www.bestflights.com.au/ns/useful_links/airports_airlines/uk_airport_guide/">UK Airport Guide</a></li>
 							<li><a href="http://www.bestflights.com.au/ns/useful_links/airports_airlines/world_airport_guide/">World Airport Guide</a></li>
 							<li><a href="http://www.bodyclock.com/" target="_blank">Jet Lag</a></li>
-							<li><a href="http://fasttrack.flightexplorer.com/" target="_blank">Flight Tracking</a></li>
+							<li><a href="http://travel.flightexplorer.net/" target="_blank">Flight Tracking</a></li>
 							<li><a href="http://www.bestflights.com.au/ns/useful_links/airports_airlines/time_dist_calc/">Time &amp; Distance Calculator</a></li>
+							<li><a href="http://www.airlinemeals.net/" target="_blank">Airline Meals </a></li>
 						</ul>
 					</li>
 					<li>Computers &amp; Travel
 						<ul>
 							<li><a href="http://www.roadnews.com/" target="_blank">Computer Traveller</a></li>
 							<li><a href="http://www.world66.com/netcafeguide" target="_blank">Cybercafe Guide</a></li>
-							<li><a href="http://www.connexionbyboeing.com/" target="_blank">Online while Flying</a></li>
 						</ul>
 					</li>
 					<li>Holiday Dates
 						<ul>
-							<li><a href="http://www.accuweather.com/adcbin/desk_travel/holiday?nav=travel" target="_blank">World Public Holidays</a></li>
+							<li><a href="http://www.globalsources.com/TNTLIST/DIRECTORIES/TRAVEL/HOLIDAYS.HTM" target="_blank">World Public Holidays</a></li>
 							<li><a href="http://www.dest.gov.au/portfolio_department/calendar_dates/" target="_blank">Australian School Dates</a></li>
 						</ul>
 					</li>
@@ -394,11 +752,12 @@ function printWindow(){
 							<li><a href="https://www.virtuallythere.com/" target="_blank">Worldwide City Guide</a></li>
 							<li><a href="http://www.thebathroomdiaries.com/" target="_blank">The Bathroom Diaries</a></li>
 							<li><a href="http://www.kropla.com/dialcode.htm" target="_blank">World Dialing Codes</a></li>
-							<li><a href="http://globaledge.msu.edu/ibrd/busresmain.asp?ResourceCategoryID=15" target="_blank">Trade Fairs</a></li>
+							<li><a href="http://www.biztradeshows.com/" target="_blank">Trade Fairs</a></li>
 							<li><a href="http://www.lib.utexas.edu/maps/" target="_blank">World Maps</a></li>
-							<li><a href="http://www.weather.com/" target="_blank">World Weather</a></li>
+							<li><a href="http://www.wunderground.com/" target="_blank">World Weather</a></li>
 							<li><a href="http://gc.kls2.com/" target="_blank">Route Mileage Calculator</a></li>
 							<li><a href="http://www.worldtimeserver.com/" target="_blank">World Clock</a></li>
+							<li><a href="http://www.getcustoms.com/" target="_blank">Getting Through Customs</a></li>
 						</ul>
 					</li>
 					<li>Money &amp; Finance
@@ -416,10 +775,10 @@ function printWindow(){
 </span></td>
 		</tr>
 	</tbody></table>	</div>
-
-<div id="ads_left" style="height: 1172px;"><div id="adl1" style="visibility: visible;"><a href="http://www.bestflights.com.au/cgi-bin/adrotation/click.cgi?id=2183"><img src="http://www.bestflights.com.au/images/adrotation/2183pos6.gif" alt="Click for further details" border="0"></a></div><div id="adl2" style="visibility: visible;"><a href="http://www.bestflights.com.au/cgi-bin/adrotation/click.cgi?id=1952"><img src="http://www.bestflights.com.au/images/adrotation/1952pos3.gif" alt="Click for further details" border="0"></a></div><div id="adl3" style="visibility: visible;"><a href="http://www.bestflights.com.au/cgi-bin/adrotation/click.cgi?id=2085"><img src="http://www.bestflights.com.au/images/adrotation/2085pos2.gif" alt="Click for further details" border="0"></a></div><div id="adl4" style="visibility: visible;"><a href="http://www.bestflights.com.au/cgi-bin/adrotation/click.cgi?id=1994"><img src="http://www.bestflights.com.au/images/adrotation/1994pos5.gif" alt="Click for further details" border="0"></a></div><div id="adl5" style="visibility: visible;"><a href="http://www.bestflights.com.au/cgi-bin/adrotation/click.cgi?id=2176"><img src="http://www.bestflights.com.au/images/adrotation/2176pos6.gif" alt="Click for further details" border="0"></a></div><div id="adl6" style="visibility: visible;"><a href="http://www.bestflights.com.au/cgi-bin/adrotation/click.cgi?id=1978"><img src="http://www.bestflights.com.au/images/adrotation/1978pos6.gif" alt="Click for further details" border="0"></a></div><div id="adl7" style="visibility: visible;"><a href="http://www.bestflights.com.au/cgi-bin/adrotation/click.cgi?id=1979"><img src="http://www.bestflights.com.au/images/adrotation/1979pos8.gif" alt="Click for further details" border="0"></a></div><div id="adl8" style="visibility: visible;"><a href="http://www.bestflights.com.au/cgi-bin/adrotation/click.cgi?id=2127"><img src="http://www.bestflights.com.au/images/adrotation/2127pos9.gif" alt="Click for further details" border="0"></a></div><div id="adl9" style="visibility: visible;"><a href="http://www.bestflights.com.au/cgi-bin/adrotation/click.cgi?id=1972"><img src="http://www.bestflights.com.au/images/adrotation/1972pos4.gif" alt="Click for further details" border="0"></a></div><div id="adl10" style="visibility: visible;"></div></div>  
+<iframe name="bf_search" width="157" height="374" scrolling="no" border="0" frameborder="0" src="http://www.bestflights.com.au/ns/flights/search/left_searchbox/index.php"></iframe>
+<div id="ads_left" style="height: 1356px;"><div id="adl1" style="visibility: visible;"><a href="http://www.bestflights.com.au/cgi-bin/adrotation/click.cgi?id=2487"><img src="http://www.bestflights.com.au/images/adrotation/2487pos2.gif" alt="Click for further details" border="0"></a></div><div id="adl2" style="visibility: visible;"><a href="http://www.bestflights.com.au/cgi-bin/adrotation/click.cgi?id=2493"><img src="http://www.bestflights.com.au/images/adrotation/2493pos3.gif" alt="Click for further details" border="0"></a></div><div id="adl3" style="visibility: visible;"><a href="http://www.bestflights.com.au/cgi-bin/adrotation/click.cgi?id=2328"><img src="http://www.bestflights.com.au/images/adrotation/2328pos2.gif" alt="Click for further details" border="0"></a></div><div id="adl4" style="visibility: visible;"><a href="http://www.bestflights.com.au/cgi-bin/adrotation/click.cgi?id=2513"><img src="http://www.bestflights.com.au/images/adrotation/2513pos5.gif" alt="Click for further details" border="0"></a></div><div id="adl5" style="visibility: visible;"><a href="http://www.bestflights.com.au/cgi-bin/adrotation/click.cgi?id=2517"><img src="http://www.bestflights.com.au/images/adrotation/2517pos6.gif" alt="Click for further details" border="0"></a></div><div id="adl6" style="visibility: visible;"><a href="http://www.bestflights.com.au/cgi-bin/adrotation/click.cgi?id=2233"><img src="http://www.bestflights.com.au/images/adrotation/2233pos7.gif" alt="Click for further details" border="0"></a></div><div id="adl7" style="visibility: visible;"><a href="http://www.bestflights.com.au/cgi-bin/adrotation/click.cgi?id=1981"><img src="http://www.bestflights.com.au/images/adrotation/1981pos8.gif" alt="Click for further details" border="0"></a></div><div id="adl8" style="visibility: visible;"><a href="http://www.bestflights.com.au/cgi-bin/adrotation/click.cgi?id=2452"><img src="http://www.bestflights.com.au/images/adrotation/2452pos9.gif" alt="Click for further details" border="0"></a></div><div id="adl9" style="visibility: visible;"><a href="http://www.bestflights.com.au/cgi-bin/adrotation/click.cgi?id=2451"><img src="http://www.bestflights.com.au/images/adrotation/2451pos10.gif" alt="Click for further details" border="0"></a></div><div id="adl10" style="visibility: visible;"></div></div>  
   </td>
- <td id="column_center">
+ <td id="column_center" style="min-width:400px">
 
 <h1>Privacy Statement</h1>
 
@@ -536,7 +895,7 @@ document.write('<a href = "javascript:CreateBookmarkLink()");">Add Bookmark</a>'
 	  <!-- make home travel agent code -->
 <a href="http://www.bestflights.com.au/" title="Click here to make BestFlights your Home Page" target="_top" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.bestflights.com.au/');">Make This My Home Page</a>
 <!-- end of make travel agent travel code --> | <a href="/ns/information/contact.php">Contact Us</a><br>
-     <a href="/ns/tools_resources/rss/"><img src="/ns/images/rss.gif" alt="Get The Latest Flight Specials Via RSS" width="40" height="16" border="0" class="inline_img"></a>
+     <a href="http://www.bestflights.com.au/rss/bfnews.rss"><img src="/ns/images/rss.gif" alt="Get The Latest Flight Specials Via RSS" width="40" height="16" border="0" class="inline_img"></a>
 		 
 <a href="http://add.my.yahoo.com/content?url=http%3A//www.bestflights.com.au/rss/bfnews.rss" target="_blank"><img src="/ns/images/myyahoo.gif" alt="Add Best Flights RSS to My Yahoo!" width="90" height="16" border="0" class="inline_img"></a>		 
 		 <a href="/ns/tools_resources/rss/">RSS Feed Information</a></div>
@@ -545,16 +904,18 @@ document.write('<a href = "javascript:CreateBookmarkLink()");">Add Bookmark</a>'
   </tr>
  </tbody></table>
 </div>
+
+<div style="text-align:center; margin-bottom:10px">
+<!-- GeoTrust True Site[tm] Smart Icon tag. Do not edit. --><script language="JavaScript" type="text/javascript" src="//smarticon.geotrust.com/si.js"></script>
+<!-- end GeoTrust Smart Icon tag -->
+</div>
+
 <div id="copyright">© Copyright 2006 Best Flights</div>
 
 </div>
 <div id="bigad" style="display: block;">
-<!-- begin ad tag -->
-<script language="JavaScript" type="text/javascript">
-ord=Math.random()*10000000000000000;
-document.write('<script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/bestflights/;dcopt=ist;sz=120x600;ord=' + ord + '?" type="text/javascript"><\/script>');
-</script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/bestflights/;dcopt=ist;sz=120x600;ord=6473860353166112?" type="text/javascript"></script><noscript><a href="http://ad.uk.doubleclick.net/jump/bestflights/;sz=468x60;ord=123456789?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/bestflights/;sz=468x60;ord=123456789?" width="468" height="60" border="0" alt=""></a></noscript>
-<!-- End ad tag --></div>
+<a href="http://www.bestflights.com.au/cgi-bin/adrotation/click.cgi?id=2500"><img src="http://www.bestflights.com.au/images/adrotation/2500pos1.gif" alt="Click for further details" border="0"></a>
+</div>
 </td></tr></tbody></table>
 
 <!-- Google Analytics -->
@@ -579,4 +940,4 @@ var U="http://www.bestflights.com.au/ns/information/privacy.php";
 </noscript>
 <!-- END 3dstats Real CODE V3.2 -->
 
-<div class="dynarch-popup-menu" style="display: none;"><div class="d"><div class="c"><div class="b"><div class="a"><table cellspacing="0" cellpadding="0"><tbody><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Just Flights</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Flights with Tours</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Flights with Land Fares</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr></tbody></table></div></div></div></div></div><div class="dynarch-popup-menu" style="display: none;"><div class="d"><div class="c"><div class="b"><div class="a"><table cellspacing="0" cellpadding="0"><tbody><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">2007 Earlybirds</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Just Flights</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Flights with Tours</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Flights with Land Fares</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr></tbody></table></div></div></div></div></div><div class="dynarch-popup-menu" style="display: none;"><div class="d"><div class="c"><div class="b"><div class="a"><table cellspacing="0" cellpadding="0"><tbody><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Africa</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Asia</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Circle Fares</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Latin America</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">North America</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Round World Flights</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">South Pacific</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">The Middle East</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item has-submenu"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">UK and Europe</td><td class="end arrow"><div unselectable="on">&nbsp;</div></td></tr></tbody></table></div></div></div></div></div><div class="dynarch-popup-menu" style="display: none;"><div class="d"><div class="c"><div class="b"><div class="a"><table cellspacing="0" cellpadding="0"><tbody><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Just Flights</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Flights with Tours</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Flights with Land Fares</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr></tbody></table></div></div></div></div></div><div class="dynarch-popup-menu" style="display: none;"><div class="d"><div class="c"><div class="b"><div class="a"><table cellspacing="0" cellpadding="0"><tbody><tr class="item has-submenu"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">From Africa</td><td class="end arrow"><div unselectable="on">&nbsp;</div></td></tr><tr class="item has-submenu"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">From Asia</td><td class="end arrow"><div unselectable="on">&nbsp;</div></td></tr><tr class="item has-submenu"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">From New Zealand</td><td class="end arrow"><div unselectable="on">&nbsp;</div></td></tr><tr class="item has-submenu"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">From North America</td><td class="end arrow"><div unselectable="on">&nbsp;</div></td></tr><tr class="item has-submenu"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">From UK &amp; Europe</td><td class="end arrow"><div unselectable="on">&nbsp;</div></td></tr></tbody></table></div></div></div></div></div><div class="dynarch-popup-menu" style="display: none;"><div class="d"><div class="c"><div class="b"><div class="a"><table cellspacing="0" cellpadding="0"><tbody><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To Asia</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To Australia</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To New Zealand</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To North America</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To UK &amp; Europe</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr></tbody></table></div></div></div></div></div><div class="dynarch-popup-menu" style="display: none;"><div class="d"><div class="c"><div class="b"><div class="a"><table cellspacing="0" cellpadding="0"><tbody><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To Africa</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To Australia</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To New Zealand</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To North America</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To UK &amp; Europe</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr></tbody></table></div></div></div></div></div><div class="dynarch-popup-menu" style="display: none;"><div class="d"><div class="c"><div class="b"><div class="a"><table cellspacing="0" cellpadding="0"><tbody><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To Africa</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To Asia</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To North America</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To UK &amp; Europe</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr></tbody></table></div></div></div></div></div><div class="dynarch-popup-menu" style="display: none;"><div class="d"><div class="c"><div class="b"><div class="a"><table cellspacing="0" cellpadding="0"><tbody><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To Africa</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To Asia</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To Australia</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To New Zealand</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To UK &amp; Europe</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr></tbody></table></div></div></div></div></div><div class="dynarch-popup-menu" style="display: none;"><div class="d"><div class="c"><div class="b"><div class="a"><table cellspacing="0" cellpadding="0"><tbody><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To Africa</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To Asia</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To Australia</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To New Zealand</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To North America</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr></tbody></table></div></div></div></div></div><div class="dynarch-popup-menu" style="display: none;"><div class="d"><div class="c"><div class="b"><div class="a"><table cellspacing="0" cellpadding="0"><tbody><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Airline Awards</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">UK Airport Guide</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">World Airport Guide</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Jet Lag</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Flight Tracking</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Time &amp; Distance Calculator</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr></tbody></table></div></div></div></div></div><div class="dynarch-popup-menu" style="display: none;"><div class="d"><div class="c"><div class="b"><div class="a"><table cellspacing="0" cellpadding="0"><tbody><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Computer Traveller</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Cybercafe Guide</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Online while Flying</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr></tbody></table></div></div></div></div></div><div class="dynarch-popup-menu" style="display: none;"><div class="d"><div class="c"><div class="b"><div class="a"><table cellspacing="0" cellpadding="0"><tbody><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">World Public Holidays</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Australian School Dates</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr></tbody></table></div></div></div></div></div><div class="dynarch-popup-menu" style="display: none;"><div class="d"><div class="c"><div class="b"><div class="a"><table cellspacing="0" cellpadding="0"><tbody><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Worldwide City Guide</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">The Bathroom Diaries</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">World Dialing Codes</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Trade Fairs</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">World Maps</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">World Weather</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Route Mileage Calculator</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">World Clock</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr></tbody></table></div></div></div></div></div><div class="dynarch-popup-menu" style="display: none;"><div class="d"><div class="c"><div class="b"><div class="a"><table cellspacing="0" cellpadding="0"><tbody><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Money Transfers</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Visa World ATM's</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">MasterCard World ATM's</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr></tbody></table></div></div></div></div></div></body></html>
+<div class="dynarch-popup-menu" style="display: none;"><div class="d"><div class="c"><div class="b"><div class="a"><table cellspacing="0" cellpadding="0"><tbody><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Just Flights</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Flights with Tours</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Flights with Land Fares</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr></tbody></table></div></div></div></div></div><div class="dynarch-popup-menu" style="display: none;"><div class="d"><div class="c"><div class="b"><div class="a"><table cellspacing="0" cellpadding="0"><tbody><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Just Flights</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Flights with Tours</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Flights with Land Fares</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr></tbody></table></div></div></div></div></div><div class="dynarch-popup-menu" style="display: none;"><div class="d"><div class="c"><div class="b"><div class="a"><table cellspacing="0" cellpadding="0"><tbody><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Africa</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Asia</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Circle Fares</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Latin America</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">North America</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Round World Flights</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">South Pacific</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">The Middle East</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item has-submenu"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">UK and Europe</td><td class="end arrow"><div unselectable="on">&nbsp;</div></td></tr></tbody></table></div></div></div></div></div><div class="dynarch-popup-menu" style="display: none;"><div class="d"><div class="c"><div class="b"><div class="a"><table cellspacing="0" cellpadding="0"><tbody><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Just Flights</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Flights with Land Fares</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr></tbody></table></div></div></div></div></div><div class="dynarch-popup-menu" style="display: none;"><div class="d"><div class="c"><div class="b"><div class="a"><table cellspacing="0" cellpadding="0"><tbody><tr class="item has-submenu"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">From Africa</td><td class="end arrow"><div unselectable="on">&nbsp;</div></td></tr><tr class="item has-submenu"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">From Asia</td><td class="end arrow"><div unselectable="on">&nbsp;</div></td></tr><tr class="item has-submenu"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">From New Zealand</td><td class="end arrow"><div unselectable="on">&nbsp;</div></td></tr><tr class="item has-submenu"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">From North America</td><td class="end arrow"><div unselectable="on">&nbsp;</div></td></tr><tr class="item has-submenu"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">From UK &amp; Europe</td><td class="end arrow"><div unselectable="on">&nbsp;</div></td></tr></tbody></table></div></div></div></div></div><div class="dynarch-popup-menu" style="display: none;"><div class="d"><div class="c"><div class="b"><div class="a"><table cellspacing="0" cellpadding="0"><tbody><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To Asia</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To Australia</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To New Zealand</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To North America</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To UK &amp; Europe</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr></tbody></table></div></div></div></div></div><div class="dynarch-popup-menu" style="display: none;"><div class="d"><div class="c"><div class="b"><div class="a"><table cellspacing="0" cellpadding="0"><tbody><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To Africa</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To Australia</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To New Zealand</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To North America</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To UK &amp; Europe</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr></tbody></table></div></div></div></div></div><div class="dynarch-popup-menu" style="display: none;"><div class="d"><div class="c"><div class="b"><div class="a"><table cellspacing="0" cellpadding="0"><tbody><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To Africa</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To Asia</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To North America</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To UK &amp; Europe</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr></tbody></table></div></div></div></div></div><div class="dynarch-popup-menu" style="display: none;"><div class="d"><div class="c"><div class="b"><div class="a"><table cellspacing="0" cellpadding="0"><tbody><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To Africa</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To Asia</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To Australia</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To New Zealand</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To UK &amp; Europe</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr></tbody></table></div></div></div></div></div><div class="dynarch-popup-menu" style="display: none;"><div class="d"><div class="c"><div class="b"><div class="a"><table cellspacing="0" cellpadding="0"><tbody><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To Africa</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To Asia</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To Australia</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To New Zealand</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">To North America</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr></tbody></table></div></div></div></div></div><div class="dynarch-popup-menu" style="display: none;"><div class="d"><div class="c"><div class="b"><div class="a"><table cellspacing="0" cellpadding="0"><tbody><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Airline Awards</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">UK Airport Guide</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">World Airport Guide</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Jet Lag</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Flight Tracking</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Time &amp; Distance Calculator</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Airline Meals</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr></tbody></table></div></div></div></div></div><div class="dynarch-popup-menu" style="display: none;"><div class="d"><div class="c"><div class="b"><div class="a"><table cellspacing="0" cellpadding="0"><tbody><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Computer Traveller</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Cybercafe Guide</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr></tbody></table></div></div></div></div></div><div class="dynarch-popup-menu" style="display: none;"><div class="d"><div class="c"><div class="b"><div class="a"><table cellspacing="0" cellpadding="0"><tbody><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">World Public Holidays</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Australian School Dates</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr></tbody></table></div></div></div></div></div><div class="dynarch-popup-menu" style="display: none;"><div class="d"><div class="c"><div class="b"><div class="a"><table cellspacing="0" cellpadding="0"><tbody><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Worldwide City Guide</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">The Bathroom Diaries</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">World Dialing Codes</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Trade Fairs</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">World Maps</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">World Weather</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Route Mileage Calculator</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">World Clock</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Getting Through Customs</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr></tbody></table></div></div></div></div></div><div class="dynarch-popup-menu" style="display: none;"><div class="d"><div class="c"><div class="b"><div class="a"><table cellspacing="0" cellpadding="0"><tbody><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Money Transfers</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">Visa World ATM's</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr><tr class="item explicit-action"><td class="icon"><div unselectable="on">&nbsp;</div></td><td class="label">MasterCard World ATM's</td><td class="end"><div unselectable="on">&nbsp;</div></td></tr></tbody></table></div></div></div></div></div></body></html>
