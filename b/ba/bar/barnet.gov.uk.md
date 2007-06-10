@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barnet.gov.uk privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215090634id_/http%3A//www.barnet.gov.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barnet.gov.uk privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610212659id_/http%3A//www.barnet.gov.uk/privacy.htm) for the most accurate reproduction.*
 
 # Barnet Online - Privacy statement
 
