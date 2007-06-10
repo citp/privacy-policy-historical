@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babiesrus.com privacy policy that was archived on 2006-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061112034313id_/http%3A//www.toysrus.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babiesrus.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610230130id_/http%3A//www.toysrus.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.*
 
 # Toys"R"Us/Babies"R"Us : Help Desk
 
@@ -125,7 +125,7 @@ The "R" Us Sites may contain links to other sites, including content from other 
 
 **10\. How to contact the "R" Us Family**
 
-If you have questions or concerns about this Privacy Policy, please send an e-mail to [guestservices.us@toysrus.com](mailto:guestservices.us@toysrus.com) or call 1-800-TOYSRUS (1-800-869-7787) or 1-888-BABYRUS (1-800-222-9787).
+If you have questions or concerns about this Privacy Policy, please send an e-mail to [guestservices.us@toysrus.com](mailto:guestservices.us@toysrus.com) or call 1-800-TOYSRUS (1-800-869-7787) or 1-888-BABYRUS (1-888-222-9787).
 
  BACK TO TOP
 
