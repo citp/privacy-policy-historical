@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the routledge.com privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229083436id_/http%3A//www.routledge.com/util/resources.asp%3Ff%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the routledge.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610020644id_/http%3A//www.routledge.com/util/resources.asp%3Ff%3Dprivacy) for the most accurate reproduction.*
 
 # Routledge
 
