@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the hamptonroads.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205204631id_/http%3A//www.hamptonroads.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hamptonroads.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610233302id_/http%3A//www.hamptonroads.com/privacy.html) for the most accurate reproduction.*
 
-# HamptonRoads.com/Pilot Online Privacy Policy
-
-**Privacy Policy  
-** **HamptonRoads.com & Pilot Online**  
-
+# HamptonRoads.com/PilotOnline.com Privacy Policy
 
 The following statement has been developed to demonstrate the commitment that Pilot Online and HamptonRoads.com have to your privacy. 
 
@@ -15,11 +11,14 @@ We collect personal information to determine which products, features and specia
 **Overview**  
 We collect personally identifiable information (name, e-mail address, etc.) and/or demographic data (zip code, gender, interests, etc.) that you submit when you:
 
-* register for our services 
-* complete a survey 
-* register for a promotion, contest, or sweepstakes 
-* make a purchase from our online store 
-* send us an email. We and/or our 3rd party partners may use this information to process and maintain your account, compile demographic statistics about our users, and display to you information and advertisements that match your interests and profile. 
+  * register for our services 
+  * complete a survey 
+  * register for a promotion, contest, or sweepstakes 
+  * send us an email. 
+
+
+
+We and/or our 3rd party partners may use this information to process and maintain your account, compile demographic statistics about our users, and display to you information and advertisements that match your interests and profile. 
 
 Credit card information will be provided to third parties only to provide products and services that you order. We may use the contact information you provide to contact you about your account and/or to send you necessary information directly related to the product(s) or service(s) for which you have registered. With your permission, we may use your contact information to inform you of new features and special offers from us. We will not provide your contact information to unaffiliated third parties without your express permission. As part of the registration process, you have the option to inform us that you do not wish to receive information about other special offers and promotions. 
 
@@ -35,22 +34,26 @@ The Children's Online Privacy Protection Act (COPPA) stipulates that Web site op
 You must be 18 years or older to participate in the following services:  
 
 
-* Contests 
-* Bidzilla (selling and buying) 
-* Registering for free Community Pages 
+  * Contests 
+  * Registering for free Community Pages
+
+
 
 You must be 13 years or older to participate in the following services:  
 
 
-* Registering for free HamptonRoads.com newsletters  
+  * Registering for free HamptonRoads.com newsletters  
 
-* Participating in TalkNet discussions  
+  * Participating in online discussions  
 
-* Rating movies in the Movie Guide  
+  * Rating movies in the Movie Guide  
 
-* Posting events in our Community Calendar  
+  * Posting events in our Community Calendar  
 
-* Adding sites to the WebGuide 
+  * Adding sites to the WebGuide
+
+
 
 **Additional Information**  
-We reserve the right to alter our Privacy Policy as business needs require. Any changes will be posted to our web site in a timely manner. This statement and the policies outlined here are not intended to and do not give you any contractual or other legal rights. 
+We reserve the right to alter our Privacy Policy as business needs require. Any changes will be posted to our web site in a timely manner. This statement and the policies outlined here are not intended to and do not give you any contractual or other legal rights.   
+
