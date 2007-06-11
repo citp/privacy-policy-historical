@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esr.cri.nz privacy policy that was archived on 2006-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061127205757id_/http%3A//www.esr.cri.nz/aboutus/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esr.cri.nz privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611173407id_/http%3A//www.esr.cri.nz/aboutus/privacy.htm) for the most accurate reproduction.*
 
 # ESR - Specialist Science Solutions : Privacy policy
 
@@ -12,9 +12,9 @@ ESR is committed to ensuring that your privacy is protected. You can access and 
 
 #### What information do we collect?
 
-We only collect information that you actively give us by emailing your personal details to the [webmaster](mailto:webmaster@esr.cri.nz) or giving your personal details to a member of our staff. This usually includes your name, job title, organisation, mailing address, email address and phone number.
+We only collect information that you actively give us by emailing your personal details to the [Marketing and Communications Advisor](mailto:laura.wards@esr.cri.nz?subject=Information%20submission) or giving your personal details to a member of our staff. This usually includes your name, job title, organisation, mailing address, email address and phone number.
 
-You may update personal information held by ESR at any time by contacting the [webmaster](mailto:webmaster@esr.cri.nz).
+You may update personal information held by ESR at any time by contacting the [Marketing and Communications Advisor](mailto:laura.wards@esr.cri.nz?subject=Update%20to%20personal%20information).
 
 #### What will we use your information for?
 
