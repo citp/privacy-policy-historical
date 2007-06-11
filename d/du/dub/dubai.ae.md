@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dubai.ae privacy policy that was archived on 2006-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061007161925id_/http%3A//www.dubai.ae/portal/en.portal%3Fdae_citizen%2CArticle_000104%2C1%2C%26_nfpb%3Dtrue%26_pageLabel%3Dview) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubai.ae privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611162140id_/http%3A//www.dubai.ae/%3Ftopic%2Cftr_privacy%2C1%2C%26_nfpb%3Dtrue%26_pageLabel%3Dhome) for the most accurate reproduction.*
 
-# Dubai eGovernment Security and Privacy Policies
-
-**DUBAI** **GOVERNMENT PRIVACY AND SECURITY STATEMENT  **
+# DUBAI GOVERNMENT PRIVACY AND SECURITY STATEMENT
 
 **OUR COMMITMENT**
 
