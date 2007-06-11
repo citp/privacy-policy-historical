@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the globeofblogs.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016144351id_/http%3A//www.globeofblogs.com%3Fx%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globeofblogs.com privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611085112id_/http%3A//www.globeofblogs.com%3Fx%3Dprivacy) for the most accurate reproduction.*
 
-# Globe of Blogs ::: Privacy Policy
+# Globe of Blogs
 
 ### Random Weblog
 
-[Information Policy Blog](http://i-policy.typepad.com/) ::: Information Policy Blog provides daily news about information policy in the world. Support - e-belarus.ORG  
+[Digital Library Groningen](http://db.weblog.ub.rug.nl/) ::: A weblog on scholarly online publishing, open access, and library related technology  
 
 
 ## Statement of Policy
@@ -68,5 +68,5 @@ If Globe of Blogs should at some point in the future become a directory where us
 
 
 
-Copyright © 2001-2005 H.R., J.M. Dodd, Globe of Blogs. All rights reserved.  
+Copyright © 2001-2007 H.R., J.M. Dodd, Globe of Blogs. All rights reserved.  
 
