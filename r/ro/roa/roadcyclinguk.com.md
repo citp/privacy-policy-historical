@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the roadcyclinguk.com privacy policy that was archived on 2006-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061029061947id_/http%3A//www.roadcyclinguk.com/members/privacy.asp%3Fsp%3D%26v%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadcyclinguk.com privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611053421id_/http%3A//www.roadcyclinguk.com/members/privacy.asp%3Fsp%3D%26v%3D1) for the most accurate reproduction.*
 
 # RoadCyclingUK - Privacy Policy
 
-| |  |   
+| | 
+
+|   
 ---  
 Magicalia is committed to respecting the privacy of its users. However, we do collect and use various bits of information about you through your use of this Website, and this policy sets out the basis on which your personal data will be collected, stored and processed. The Data Collector for this Website is Magicalia Ltd, with its registered office at 90 Long Acre, London WC2E 9TT ("Magicalia"). Please note that this policy only addresses our activities, and other sites to which this Website links may have their own privacy policies and practices, which we do not control.  
 Information collected  
@@ -23,7 +25,7 @@ We use the information held about you in the following ways:
 * To update you about changes to the service of the Website
 * To contact you with information about this Website or any other website operated by Magicalia that we think may be of interest to you.
 
-If you are a member of this website, we may also permit third parties to use your data to provide you with information about goods and services which may be of interest to you. You have the right to request us not to pass such information on to third parties for such purposes. You can exercise that right by changing the settings on your [personal profile page](https://web.archive.org/members/mymagic.asp?sp=&v=1).
+If you are a member of this website, we may also permit third parties to use your data to provide you with information about goods and services which may be of interest to you. You have the right to request us not to pass such information on to third parties for such purposes. You can exercise that right by changing the settings on your [personal profile pages](https://web.archive.org/members/mydetails.asp?sp=328768616494544899550&v=1).
 
 You should be aware that if we are requested by the police or any regulatory or government authority investigating suspected illegal activities to access and disclose individually identifiable information concerning your activities whilst using our web site, we shall do so. We also reserve the right to disclose individually identifiable information to third parties where a complaint arises concerning your use of our web site, and that use is deemed by us inconsistent with these conditions.
 
