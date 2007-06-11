@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centurytel.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225170859id_/http%3A//www.centurytel.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centurytel.com privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611135520id_/http%3A//www.centurytel.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # CenturyTel - Privacy Policy
 
@@ -25,6 +25,7 @@ Updated: 06.01.06
   * Limitation of Liability
   * CPNI (Customer Proprietary Network Information)
   * Security of Your Phone Records
+  * My Account
 
 
 
@@ -78,7 +79,7 @@ back to top
 
 ### How To Get Your Information Removed From Our Records
 
-We keep our customer data for two years, for modeling and profiling of our products and their activity, after which it is destroyed. To get your information removed from our records prior to that, you may contact us by [e-mail](https://web.archive.org/web/20061225170859id_/http%3A//www.centurytel.com/custserv/contact_us/#/), phone, or [postal mail](https://web.archive.org/web/20061225170859id_/http%3A//www.centurytel.com/custserv/contact_us/contact_info.cfm), and we will remove your information promptly. 
+We keep our customer data for two years, for modeling and profiling of our products and their activity, after which it is destroyed. To get your information removed from our records prior to that, you may contact us by [e-mail](https://web.archive.org/web/20070611135520id_/http%3A//www.centurytel.com/custserv/contact_us/#/), phone, or [postal mail](https://web.archive.org/web/20070611135520id_/http%3A//www.centurytel.com/custserv/contact_us/contact_info.cfm), and we will remove your information promptly. 
 
 back to top
 
@@ -88,7 +89,7 @@ back to top
 
 We periodically send our customers news about products, new offers, and special promotions by e-mail. When you become a CenturyTel customer, you are automatically signed up to receive these e-mails. To update your e-mail address for special offers and products, or to stop receiving e-mails about specials on products and services, log in to "[My Account](https://www.centurytel.com/custserv/myAccount/)," select "Account Profile" in the left navigation menu, and under "Your e-mail preferences," select the link that matches your preference. 
 
-If you would like to enroll or learn about the benefits of My Account, read our [FAQs](https://web.archive.org/web/20061225170859id_/http%3A//www.centurytel.com/custserv/FAQs/index.cfm) or [Enroll now](https://www.centurytel.com/applications/index.cfm).
+If you would like to enroll or learn about the benefits of My Account, read our [FAQs](https://web.archive.org/web/20070611135520id_/http%3A//www.centurytel.com/custserv/FAQs/index.cfm) or [Enroll now](https://www.centurytel.com/applications/index.cfm).
 
 If you are not enrolled for My Account, and wish to stop receiving emails about CenturyTel products and services specials, [unsubscribe](http://www.centurytel.com/applications/index.cfm?fuseaction=EmailOption.main) here.
 
@@ -367,6 +368,35 @@ back to top
 ### Security of Your Phone Records
 
 At CenturyTel we understand that security of customer records is vitally important, and we use great care in protecting customer information. We do not release customer information to any agency or organization without proper authorization. Requests are processed by CenturyTel, not by third parties, and are carefully verified by our in-house team. Our commitment to you extends beyond our service -- that's the personal touch we deliver.
+
+back to top
+
+* * *
+
+### My Account
+
+**What information do we collect?**   
+To access your bill, make payments or shop in our store, you will need to create an account. Your account is protected by a password that you choose. We will ask for your name, email address, billing address, telephone number and other personal information. If you wish to pay by credit card, we will also ask for your credit card information which will be maintained in encrypted form for your protection. This account information is kept along with your order history. You can view your account information and the status of your orders by clicking on the My Account page at any time. In addition, we also log information about your visit, including the URL that you came from, your Internet Protocol address, domain type (e.g., .com, .org), CenturyTel website pages that you view and search terms you use.
+
+**How do we use personal information?**   
+The information you provide to purchase merchandise is used to fulfill your order. In addition, you may choose to receive an email newsletter with special promotions, new arrivals or new features of the site. You can remove yourself from our newsletter list by changing your selection on the My Account page at any time. In addition, we use log information from My Account in order to enhance the operation of the site. We do not correlate personally identifying information collected in My Account with any other information that you provide when using other sections of the CenturyTel website. 
+
+**What about cookies?**  
+A cookie is a piece of data that identifies you as a unique user. When you visit My Account, we set a cookie on your computer to help identify you, customize your experience, maintain your account and order information. To protect the security of your account, you must accept the My Account cookie in order to access your bill, make payments or shop.
+
+**Do we share personal information?**   
+We do not sell or rent any personal information to others. We may, however, disclose personal information if we believe we are required to do so by law or have a good faith belief that access, preservation or disclosure of such information is reasonably necessary to protect the rights, property or safety of CenturyTel, its users and the public.
+
+**How do we keep your information secure?**   
+The personal information that you provide to My Account, including your credit card information, is maintained on secure servers and protected by industry-standard Secure Socket Layer encryption. When entering personal information, look for an icon at the bottom of your browser window that indicates you are on a secure page.
+
+**How do I update my information?**  
+You can access and edit your account information at any time by logging in and clicking on the [My Account page.](https://web.archive.org/web/20070611135520id_/http%3A//www.centurytel.com/custserv/myAccount/index.cfm)
+
+If you have questions about the status of your orders or any other questions about My Account, please [contact us](https://web.archive.org/web/20070611135520id_/http%3A//www.centurytel.com/custserv/contact_us/).
+
+**Changes to this Policy**  
+Please note that it is possible that this Privacy Policy may change from time to time. We expect most such changes to be minor, but there may be changes that are more significant. Regardless, we will post those changes on this page so that you can easily find the information we collect and how we safeguard it. You should be able to readily notice any changes by the date stamp at the top of this page. 
 
 back to top
 
