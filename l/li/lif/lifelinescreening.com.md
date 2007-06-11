@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifelinescreening.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016074754id_/http%3A//www.lifelinescreening.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifelinescreening.com privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611212556id_/http%3A//www.lifelinescreening.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy Statement - Life Line Screening
 
