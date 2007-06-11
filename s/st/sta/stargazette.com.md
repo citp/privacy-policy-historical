@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stargazette.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205202310id_/http%3A//www.stargazette.com/apps/pbcs.dll/article%3FAID%3D/99999999/HELP/51003007/1141) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stargazette.com privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611082637id_/http%3A//www.stargazette.com/apps/pbcs.dll/article%3FAID%3D/99999999/HELP/51003007/1141) for the most accurate reproduction.*
 
 # Star-Gazette.COM - Customer Service
 
@@ -27,7 +27,7 @@ We are an affiliate of the CareerBuilder online careers service. Through our coo
 
 Likewise, we are an affiliate of the Topix.net online news service, which enables us to provide you with access to Topix.net products and services through a co-branded Topix.net site. When you provide information through the co-branded Topix.net site, Topix.net may share your information with us and we may use that information in a manner consistent with this Privacy Policy.
 
-Be aware that we may occasionally release information about our visitors when release is appropriate to comply with law, to enforce our [Terms of Service] [insert link to Terms of Service] agreement, or to protect the rights, property or safety of users of our Services, the public, or **Star-Gazette.COM**.
+Be aware that we may occasionally release information about our visitors when release is appropriate to comply with law, to enforce our [Terms of Service](http://www.stargazette.com/apps/pbcs.dll/article?AID=/99999999/HELP/50929012/1141). agreement, or to protect the rights, property or safety of users of our Services, the public, or **Star-Gazette.COM**.
 
 Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we, some or all of our assets, or one or more of our websites is acquired by another company, information about our users may be among the transferred assets.
 
