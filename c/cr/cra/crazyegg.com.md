@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crazyegg.com privacy policy that was archived on 2006-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061223152739id_/http%3A//www.crazyegg.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazyegg.com privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611150402id_/http%3A//crazyegg.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Crazy Egg
 
