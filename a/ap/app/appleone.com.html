@@ -1,192 +1,203 @@
-<!--The following is the downloaded HTML source of the appleone.com privacy policy that was archived on 2006-10-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061020230219id_/http%3A//www.appleone.com/Privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the appleone.com privacy policy that was archived on 2007-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070611231659id_/http%3A//www.appleone.com/Privacy.aspx) for the most accurate reproduction.-->
 
-<html><head><script language="javascript">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
+	AppleOne
+</title><link rel="stylesheet" href="/App_Themes/InternalPages.css" type="text/css">
+  <!--[if IE]>
+		<link href="/App_Themes/InternalPagesIE.css" rel="stylesheet" type="text/css" />
+	<![endif]-->
+<style type="text/css">
+	.ctl00_TreeView1_0 { text-decoration:none; }
+	.ctl00_TreeView1_1 { border-style:none; }
+	.ctl00_TreeView1_2 { padding:0px 0px 0px 0px; }
+	.ctl00_TreeView1_3 { font-weight:bold; }
+	.ctl00_TreeView1_4 {  }
+	.ctl00_TreeView1_5 { font-weight:bold; }
+	.ctl00_TreeView1_6 {  }
+	.ctl00_TreeView1_7 {  }
+	.ctl00_TreeView1_8 {  }
+	.ctl00_TreeView1_9 {  }
+	.ctl00_TreeView1_10 { background-color:#E8E8E8;border-width:0px;width:122px; }
+	.ctl00_TreeView1_11 {  }
+	.ctl00_TreeView1_12 { width:115px; }
+	.ctl00_TreeView1_13 { font-weight:bold;border-style:none; }
+	.ctl00_TreeView1_14 {  }
 
-function Is() {
-	var agent = navigator.userAgent.toLowerCase();
-	this.major = parseInt(navigator.appVersion);
-	this.minor = parseFloat(navigator.appVersion);
-	this.ns = ((agent.indexOf('mozilla')!=-1) && ((agent.indexOf('spoofer')==-1) && 
-	(agent.indexOf('compatible') == -1)));
-	this.ns2 = (this.ns && (this.major == 3));
-	this.ns3 = (this.ns && (this.major == 3));
-	this.ns4b = (this.ns && (this.minor < 4.04));
-	this.ns4 = (this.ns && (this.major == 4));
-	this.ns6 = (this.ns && (this.major >= 5));
-	this.ie = (agent.indexOf("msie") != -1);
-	this.ie3 = (this.ie && (this.major == 2));
-	this.ie4 = (this.ie && (this.major >= 4));
-	this.op3 = (agent.indexOf("opera") != -1);
-	this.win = (agent.indexOf("win")!=-1);
-	this.mac = (agent.indexOf("mac")!=-1);
-	this.unix = (agent.indexOf("x11")!=-1);
-}
+</style><script language="javascript" type="text/javascript">
+   function OnClientClickBtnSearch()
+   {  //[Client-side function] when btnSearch button is clicked
 
-var is = new Is();
-var isDynamic = (is.ns4 || is.ns6 || is.ie4);
-var doc = (is.ns) ? "document" : "document.all";
-var sty = (is.ns4) ? "" : ".style";
-var openBraces = (is.ns6) ? ".getElementById('" : "['";
-var closeBraces = (is.ns6) ? "')" : "']";
-var aCurrentTab = new Array(3);
-var aImages = new Array();
-var bLoaded = false;
+	  //store keywords data in hidden field because ASP.NET Master page adds uniqueID (ctl00) to all controls so the controls cannot be accessed
+	  document.forms[0].txtKeywords.value = document.forms[0].elements['ctl00$txtKeywords2'].value;
+	  if (document.forms[0].txtKeywords.value == 'Type Keywords Here')
+		document.forms[0].txtKeywords.value = '';
 
-function getX(img) {
-	if(is.ns) {
-		if(is.ns4) {
-			xCo = document.images[img].x;
-		} else {
-			xCo = document.images[img].offsetLeft;
-		}
-	} else {
-		xCo = eval(document.all[img]).offsetLeft;
-		co2 = eval(document.all[img]).offsetParent;
-		while (co2 != null) {
-			xCo += co2.offsetLeft;
-			co2 = co2.offsetParent;
-		}
-	}	
-	return xCo;
-}
+	  //erase the viewstate so it wouldn't collide with another ASP.NET page
+	  if (document.getElementById('__VIEWSTATE'))
+		document.getElementById('__VIEWSTATE').parentNode.removeChild(document.getElementById('__VIEWSTATE'));
 
-function getY(img) {
-	if(is.ns) {
-		if(is.ns4) {
-			yCo = document.images[img].y;
-		} else {
-			yCo = document.images[img].offsetTop;
-		}
-	} else {
-		yCo = eval(document.all[img]).offsetTop;
-		co2 = eval(document.all[img]).offsetParent;
-		while (co2 != null) {
-			yCo += co2.offsetTop;
-			co2 = co2.offsetParent;
+	  //remove ASP.NET postback component preventing IsPostBack = true in next ASP.NET page
+	  if (document.getElementById('__EVENTTARGET'))
+		document.getElementById('__EVENTTARGET').parentNode.removeChild(document.getElementById('__EVENTTARGET'));
+	  if (document.getElementById('__EVENTARGUMENT'))
+		document.getElementById('__EVENTARGUMENT').parentNode.removeChild(document.getElementById('__EVENTARGUMENT'));
+
+	  document.forms[0].method = "post";
+      switch (document.forms[0].elements['ctl00$ddlSearchList'].selectedIndex)
+      {
+		case 0:	//Search Site
+		default:
+  		  document.forms[0].action="/IndexSearch/Default.aspx";
+		  break;
+		case 1:	//Search Career
+  		  document.forms[0].action="/CareerSearch/mcs_searchResults.aspx";
+		  break;
+		case 2:	//Search Resumes
+  		  document.forms[0].action="http://search.appleone.com/ResumeSearch/process.asp?page=HomePage";
+		  break;
+      }
+	}
+
+	function ShowAdvanceSearch(){
+		with(document.forms[0]){
+			var iEmployType = document.getElementById('ctl00$ddlSearchList').selectedIndex;
+			if(iEmployType == 0){
+				document.location.href='/IndexSearch/Default.aspx';
+			}else if(iEmployType == 1){
+				document.location.href='/CareerSearch/mcs_findCareer2.aspx';
+			}else if(iEmployType == 2){
+				document.location.href='http://search.appleone.com/ResumeSearch/SearchDetailed.asp';
+			}
 		}
 	}
-	return yCo;
-}
 
-var helpWindow;
-function HelpWindowold(){
-	helpWindow = window.open('/IndexSearch/Help.asp', 'Help', 'width=300,height=400');	
-}
+	function ShowHelpTipsLink()
+	{
+	  if (document.getElementById('ctl00$ddlSearchList').selectedIndex == 0)
+		document.getElementById("HelpTipsLink").style.visibility = 'visible';
+	  else
+		document.getElementById("HelpTipsLink").style.visibility = 'hidden';
+	}
 
+    function defaultButtonFix(source, arguments) 
+    {	//As of 20060726, fix to a ASP.NET 2.0 bug that defaultButton in panel stop working after validation failed on a control
+		//detail in doc
+        __defaultFired = false; 
+    }
+  </script></head>
+
+  
+
+<body>
+  <form name="aspnetForm" method="post" action="/Privacy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTcwODg1MTE2Ng9kFgJmD2QWAgIBD2QWDAICDw8WAh4LTmF2aWdhdGVVcmwFFmh0dHA6Ly93d3cuYXBwbGVvbmUuY2FkZAIDD2QWBAIBDzwrAAUBAA8WAh4HVmlzaWJsZWhkZAIDDw8WAh4EVGV4dAU2PGEgaHJlZj0nL0RlZmF1bHQuYXNweCcgY2xhc3M9J2JyZWFkY3J1bWJCYXInPkhvbWU8L2E+ZGQCBA8WBh4SU3RhcnRpbmdOb2RlT2Zmc2V0Zh4PU2l0ZU1hcFByb3ZpZGVyBRNtYWluU2l0ZU1hcFByb3ZpZGVyHhBTaG93U3RhcnRpbmdOb2RlaGQCCA9kFgQCAQ8QD2QWAh4Ib25DaGFuZ2UFHWphdmFzY3JpcHQ6U2hvd0hlbHBUaXBzTGluaygpZGRkAgMPD2QWBB4Hb25mb2N1cwU1aWYodGhpcy52YWx1ZT09J1R5cGUgS2V5d29yZHMgSGVyZScpIHt0aGlzLnZhbHVlPScnO30eBm9uYmx1cgU1aWYodGhpcy52YWx1ZT09JycpIHt0aGlzLnZhbHVlPSdUeXBlIEtleXdvcmRzIEhlcmUnO31kAgkPFgIfAWhkAgoPDxYCHwFoZBYKAgEPEGRkFgFmZAIDDw9kFgQfBwUzaWYodGhpcy52YWx1ZT09J1R5cGUgRS1tYWlsIEhlcmUnKSB7dGhpcy52YWx1ZT0nJzt9HwgFM2lmKHRoaXMudmFsdWU9PScnKSB7dGhpcy52YWx1ZT0nVHlwZSBFLW1haWwgSGVyZSc7fWQCBw8PFgIeFFZhbGlkYXRpb25FeHByZXNzaW9uBVxeW2EtekEtWjAtOV1bXHdcLi1dKlthLXpBLVowLTldQFthLXpBLVowLTldW1x3XC4tXSpbYS16QS1aMC05XVwuW2EtekEtWl1bYS16QS1aXC5dKlthLXpBLVpdJGRkAgsPEGRkFgFmZAINDxBkZBYBZmQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFD2N0bDAwJFRyZWVWaWV3MQ==">
+
+	<div id="wrapper">
+	  <div id="header">
+		<a href="/"><img src="/images/Apple/logo.jpg" alt="Where Great People and Great Companies Meet" width="167" height="36" style="margin-top: 15px;border-width: 0"></a>
+		<span class="headerNav">
+		  <a id="ctl00_HyperLink3" class="nav2" href="Contact.aspx">Contact Us</a>
+		  |
+		  <a id="ctl00_HyperLink4" class="nav2" href="LocalOffice.aspx">Office Locator</a>
+		  |
+		  <a id="ctl00_hlAppleOneCanada1" class="nav2" href="http://www.appleone.ca">AppleOne Canada</a>
+		</span>
+	  </div>
+	  <div id="ctl00_SiteMapPathDIV" class="breadcrumbBarRed">
 		
-function ShowAdvanceLink(){
-	var object = 'AdvanceSearch';
-	var okShow;
-	var xCo;
-	var yCo;
-	with(document.frmQuckSearch){
-		var iEmployType = ddnEmployType.options[ddnEmployType.selectedIndex].value;
-		if(iEmployType == 1){
-			okShow = false;
-		}else if(iEmployType == 2){
-			okShow = true;
-		}else if(iEmployType == 3){
-			okShow = true;
-		}
-	}
-		
-	if(okShow){
-		xCo = getX("imgPlaceMark");
-		yCo = getY("imgPlaceMark");
-	}else{
-		xCo = -100;
-		yCo = -100;	
-	}
+        <span id="ctl00_lblSiteMapPath"><a href="/Default.aspx" class="breadcrumbBar">Home</a></span>
+	  </div>
+	  <div class="gradientTop">
+		<div id="container">
+		  <div id="CenterCorner">
+			<img src="/images/Background/bkgdGradientCorner.jpg" width="18" height="18" alt="">
+		  </div>
+		  <div id="left">
+			
+			<a href="#ctl00_TreeView1_SkipLink"><img alt="Skip Navigation Links." src="/WebResource.axd?d=mEp1QKYz446P8_umd0m0rQ2&amp;t=632963917982783750" width="0" height="0" border="0"></a><div id="ctl00_TreeView1">
+	<table cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td class="nav ctl00_TreeView1_2 ctl00_TreeView1_4"><a class="ctl00_TreeView1_0 nav ctl00_TreeView1_1 ctl00_TreeView1_3" href="/Career_Seekers/Default.aspx" title="Career Seekers" id="ctl00_TreeView1n0">Career Seekers</a></td>
+		</tr><tr>
+			<td></td>
+		</tr>
+	</tbody></table><table cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td></td>
+		</tr><tr>
+			<td class="nav ctl00_TreeView1_2 ctl00_TreeView1_4"><a class="ctl00_TreeView1_0 nav ctl00_TreeView1_1 ctl00_TreeView1_3" href="/Large_Businesses/Default.aspx" title="Large Enterprises" id="ctl00_TreeView1n1">Large Enterprises</a></td>
+		</tr><tr>
+			<td></td>
+		</tr>
+	</tbody></table><table cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td></td>
+		</tr><tr>
+			<td class="nav ctl00_TreeView1_2 ctl00_TreeView1_4"><a class="ctl00_TreeView1_0 nav ctl00_TreeView1_1 ctl00_TreeView1_3" href="/Emerging_Businesses/Default.aspx" title="Emerging Businesses" id="ctl00_TreeView1n2">Emerging Businesses</a></td>
+		</tr><tr>
+			<td></td>
+		</tr>
+	</tbody></table><table cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td></td>
+		</tr><tr>
+			<td class="nav ctl00_TreeView1_2 ctl00_TreeView1_4"><a class="ctl00_TreeView1_0 nav ctl00_TreeView1_1 ctl00_TreeView1_3" href="/LocalOffice.aspx" title="Find Local Office" id="ctl00_TreeView1n3">Find Local Office</a></td>
+		</tr><tr>
+			<td></td>
+		</tr>
+	</tbody></table><table cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td></td>
+		</tr><tr>
+			<td class="nav ctl00_TreeView1_2 ctl00_TreeView1_4"><a class="ctl00_TreeView1_0 nav ctl00_TreeView1_1 ctl00_TreeView1_3" href="/Contact.aspx" title="Contact AppleOne" id="ctl00_TreeView1n4">Contact AppleOne</a></td>
+		</tr><tr>
+			<td></td>
+		</tr>
+	</tbody></table>
+</div><a id="ctl00_TreeView1_SkipLink"></a>
+			<br>
+		  </div>
+		  <div id="right">
+			<!-- <BEGIN> Temporary banner </BEGIN> //-->
+			
+			<!-- <END> Temporary banner </END> //-->
 
-	if(is.ns) {
-		if(is.ns4) {
-			document[object].x = xCo;
-			document[object].y = yCo -15;
-		} else {
-			var oDiv = document.getElementById(object);
-			oDiv.style.left = xCo;
-			oDiv.style.top = yCo -9;
-		}
-	} else {
-		document.all[object].style.left = xCo;
-		document.all[object].style.top = yCo - 15;
-	}
-}
+			<div id="ctl00_searchBoxDIV" class="searchBoxTitleRed">Search AppleOne</div>
+  			<div id="ctl00_panelSearchBox" class="searchBox">
+	
+			  <select name="ctl00$ddlSearchList" id="ctl00_ddlSearchList" class="searchList" onchange="javascript:ShowHelpTipsLink()">
+		<option selected="selected" value="0">Search Site</option>
+		<option value="1">Search Careers</option>
+		<option value="2">Search Resumes</option>
 
-function QuickSearch(){
-	with(document.frmQuckSearch){
-	var iEmployType = ddnEmployType.options[ddnEmployType.selectedIndex].value;
-	if(iEmployType == 1){
-		action='/IndexSearch/ResultWrapper.asp'
-	}else if(iEmployType == 2){
-		Keywords.value = txtKeywords.value;
-		//action='/Career_Seekers/SearchResults.asp?page=quick';
-		action='http://www.AppleOne.com/CareerSearch/mcs_searchResults.aspx';
-	}else if(iEmployType == 3){
-		action='http://search.appleone.com/ResumeSearch/process.asp?page=HomePage'
-		//page.value='HomePage'
-	}
-		submit();
-	}
-}
-function QuickSubscribe(){
-	if (document.frmQuickSubscribe.hdnEmail.value.length != 0 && document.frmQuickSubscribe.hdnEmail.value.indexOf("@") > 0) {
-		document.frmQuickSubscribe.submit();
-	} else {
-		alert("Please enter a valid e-mail address");	
-	}
-}
+	</select>
+			  <br>
+			  
+			  <input name="ctl00$txtKeywords2" type="text" value="Type Keywords Here" id="ctl00_txtKeywords2" class="input" onfocus="if(this.value=='Type Keywords Here') {this.value='';}" onblur="if(this.value=='') {this.value='Type Keywords Here';}"><br>
 
-var helpWindow
-function HelpWindow(){
-	helpWindow = window.open('/IndexSearch/Help.asp', 'Help', 'width=300,height=400');
-}
+			  <input id="page" name="page" value="searchForm" type="hidden">
+			  <input id="txtKeywords" name="txtKeywords" value="" type="hidden">
+			  <input type="hidden" name="txtSalary" id="txtSalary" value="">
+			  <input type="hidden" name="SalaryType" id="SalaryType" value="1">
+			  <input type="hidden" name="txtZip" id="txtZip" value="">
 
-function ShowAdvanceSearch(){
-	with(document.frmQuckSearch){
-		var iEmployType = ddnEmployType.options[ddnEmployType.selectedIndex].value;
-		if(iEmployType == 1){
-			document.location.href='/index.asp'
-		}else if(iEmployType == 2){
-			document.location.href='http://www.AppleOne.com/CareerSearch/mcs_findCareer2.aspx';
-		}else if(iEmployType == 3){
-			document.location.href='http://search.appleone.com/ResumeSearch/SearchDetailed.asp';
-		}
-	}
-}
-
-</script>
-
-
-
-
-
-<meta name="generator" content="microsoft visual studio 6.0">
-<title>AppleOne - Privacy Statement</title>
-<link rel="stylesheet" href="/Includes/Style/main.css" type="text/css">
-<link rel="stylesheet" href="/Includes/Style/IE.css" type="text/css">
-
-
-</head>
-<body bgcolor="#FFFFFF" text="#000000" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
-<table id="Header" width="100%" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr><td background="/Images/Background/Back.gif"><a href="http://www.AppleOne.com/"><img src="/images/Apple/Logo.gif" width="200" height="42" border="0"></a></td><td background="/Images/Background/Back.gif" class="pageText" align="right" valign="bottom" nowrap="">Privacy Statement</td><td background="/Images/Background/Back.gif">&nbsp;</td></tr>
-<tr><td background="/Images/Background/Back.gif" colspan="3"><img src="/images/misc/blank.gif" width="5" height="5"></td></tr>
-<tr><td background="/Images/Background/BlueBack.gif" class="WhiteText" nowrap="">&nbsp;<a class="path" href="http://www.AppleOne.com/">AppleOne</a>&nbsp;&gt;&nbsp;Privacy Statement</td><td background="/Images/Background/BlueBack.gif" class="WhiteText" align="right"><a class="path" href="/localoffice.asp">Find Closest Office</a> | <a class="path" href="/contact.asp">Contact Us</a></td><td background="/Images/Background/BlueBack.gif">&nbsp;</td></tr>
-<tr><td colspan="3"><img src="/images/misc/blank.gif" width="5" height="5"></td></tr>
-</tbody></table>
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr><td><img src="/images/misc/blank.gif" width="150" height="1"></td><td><img src="/images/misc/blank.gif" width="20" height="1"></td><td width="90%"></td><td><img src="/images/misc/blank.gif" width="20" height="1"></td><td><img src="/images/misc/blank.gif" width="150" height="1"></td></tr>
-<tr>
-<td id="---Navigation---" valign="top">
-<table cellpadding="0" cellspacing="0" width="150" border="0">
-<tbody><tr><td>&nbsp;</td><td><table cellpadding="0" cellspacing="0" width="140" border="0">
-</table></td></tr></tbody></table>
-</td>
-<td id="---Spacer1---" background="/Images/Background/dividerBack.gif">&nbsp;</td>
-	<td id="---content---" valign="top" class="normal">
-
+			  <input type="submit" name="ctl00$btnSearch" value="Search" onclick="return OnClientClickBtnSearch();" id="ctl00_btnSearch" class="button"><br>
+			  <center>
+				<br>
+				  <a name="HelpTipsLink" id="HelpTipsLink" style="visibility:visible" href="/IndexSearch/Help.aspx" class="small">Help &amp; Tips</a>
+				  <div style="visibility:visible;"><center><a href="javascript:ShowAdvanceSearch()" class="small">Advance Search</a></center></div>
+				<br>
+			  </center>
+			
+</div>
+			<br>
+			
+			
+  			
+		  </div>
+		  <div id="center">
+			
 
 <h3>Privacy Statement</h3>
 <p>AppleOne respects the privacy concerns of every 
@@ -231,23 +242,25 @@ with personal information such as names or addresses, and AppleOne does
 not seek to determine the usage patterns of individuals within its web 
 site. </p>
 
-<form method="post" id="form1" name="form1">
+
 <input type="reset" value="Close" onclick="window.close();" id="reset1" name="reset1">
-</form>
-</td>
-<td id="---Spacer2---"></td>
-<td id="---rightColumn---" valign="top">
-</td>
-</tr>
-<tr id="---Copyright---">
-<td colspan="2"></td>
-<td>
-<br clear="all">
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr><td bgcolor="#000000"><img src="/images/misc/blank.gif" width="1" height="1"></td></tr><tr><td class="copy" align="center">AppleOne is Copyright© 2000-2006&nbsp;-&nbsp;AppleOne, Inc.&nbsp;-&nbsp;All Rights Reserved<br><a class="copy" href="http://www.appleone.ca">Visit AppleOne Canada</a></td></tr><tr><td bgcolor="#000000"><img src="/images/misc/blank.gif" width="1" height="1"></td></tr></tbody></table>
-</td>
-</tr>
-</tbody></table>
+
+
+		  </div>
+		  <br>
+		  <div class="clear">
+		  </div>
+		</div>
+	  </div>
+	  <div id="Footer">
+		<p>
+		  <a href="/Career_Seekers/">Career Seekers</a> | <a href="/Large_Businesses/">Large Enterprises</a> | <a href="/Emerging_Businesses/">Emerging Businesses</a> | <a href="/Privacy.aspx" target="_blank">Privacy Statement</a><br>
+		  AppleOne is Copyright © 2000-2007 - AppleOne, Inc. - All Rights Reserved<br>
+		</p>
+	  </div>
+	</div></form>
+  
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBgLO0Z3aCALEvf+VBALbvf+VBALavf+VBALfxryWCAL9n+COAg==">
 
 
 </body></html>
