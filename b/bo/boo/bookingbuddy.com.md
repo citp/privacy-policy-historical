@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bookingbuddy.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113214556id_/http%3A//www.bookingbuddy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookingbuddy.com privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611151605id_/http%3A//www.bookingbuddy.com/privacy.php) for the most accurate reproduction.*
 
 # Booking Buddy - Airfare, Hotel Rate, and Car Rental Rate Comparison Tool
 
-_This Privacy Policy was last changed March 8, 2006._
+_This Privacy Policy was last changed February 15, 2007._
 
 ## Overview 
 
@@ -54,7 +54,7 @@ BookingBuddy may, from time to time, offer services to allow our users to send i
 
 ## Children Under 13 Years Old
 
-BookingBuddy and its affiliated sites do not knowingly collect, maintain or use personal information from our websites about children under age 13. Children under the age of 13 may not participate in any online activites on Smarter Living, Inc.'s web sites. If a child whom we know to be under age 13 sends personal information to us online, we will only use that information to respond directly to that child, notify parents, or seek parental consent.
+BookingBuddy and its affiliated sites do not knowingly collect, maintain or use personal information from our websites about children under age 13. Children under the age of 13 may not participate in any online activites on Smarter Travel Media LLC's web sites. If a child whom we know to be under age 13 sends personal information to us online, we will only use that information to respond directly to that child, notify parents, or seek parental consent.
 
 ## IP Addresses
 
@@ -88,7 +88,7 @@ BookingBuddy.com subscribers may opt out of receiving future BookingBuddy.com co
 
   * Website: [http://www.bookingbuddy.com/sub/changesubscriptions.php](https://web.archive.org/sub/changesubscriptions.php "unsubscribe")
   * Email: [help@bookingbuddy.com](mailto:help@bookingbuddy.com)
-  * Mail: Smarter Living, Inc., Attn: BookingBuddy Customer Service, 465 Medford Street, Suite 400 Boston, MA 02129
+  * Mail: Smarter Travel Media LLC, Attn: BookingBuddy Customer Service, 465 Medford Street, Suite 400 Boston, MA 02129
 
 
 
@@ -104,15 +104,15 @@ We communicate with our users to provide requested services and in regards to is
 
 If at any point we decide to share personally identifiable information to third parties FOR REASONS NOT OUTLINED IN THIS PRIVACY POLICY, we will notify our users by way of an email, so that users are made aware. Users will have a choice as to whether or not we use their information in this different manner. 
 
-## Smarter Living Product
+## Smarter Travel Media LLC Product
 
-BookingBuddy.com is a product managed by Smarter Living, Inc. Smarter Living, Inc. from time to time may compare, merge or append information collected on BookingBuddy.com with data from one or more other sites managed by Smarter Living, Inc. Similarly, information you provide on other Smarter Living, Inc. managed sites may be compared, merged or appended to information you provide via BookingBuddy.com.
+BookingBuddy.com is a product managed by Smarter Travel Media LLC. Smarter Travel Media LLC from time to time may compare, merge or append information collected on BookingBuddy.com with data from one or more other sites managed by Smarter Travel Media LLC. Similarly, information you provide on other Smarter Travel Media LLC managed sites may be compared, merged or appended to information you provide via BookingBuddy.com.
 
 ## Business Assets 
 
 As part of operations, BookingBuddy may sell, transfer or merge particular businesses and/or other assets to a third party. As part of such a transaction, personal information users have provided to BookingBuddy may be given to a third party. BookingBuddy attempts to comply with all legislative and judicial orders. These orders will take precedence over the details stated in the policy above. If you have any questions about this Privacy Policy or your dealings with BookingBuddy, please contact: 
 
-Smarter Living, Inc.  
+Smarter Travel Media LLC  
 465 Medford Street  
 Suite 400  
 Boston, MA 02129  
