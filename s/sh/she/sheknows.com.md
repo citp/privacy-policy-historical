@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sheknows.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205224622id_/http%3A//sheknows.com/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheknows.com privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611142417id_/http%3A//sheknows.com/aboutus/privacy) for the most accurate reproduction.*
 
 # SheKnows LLC » Privacy
 
