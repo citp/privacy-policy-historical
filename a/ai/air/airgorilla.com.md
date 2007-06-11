@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airgorilla.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205222137id_/http%3A//www.airgorilla.com/help/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airgorilla.com privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611104052id_/http%3A//www.airgorilla.com/help/privacy-policy.html) for the most accurate reproduction.*
 
 # AirGorilla Privacy Policy
 
@@ -55,4 +55,4 @@ This policy may be revised over time as new features are added to the AirGorilla
 
 ### Section 7: Compliance to Policy
 
-If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 619 435-2147 orfor email. 
+If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 619 435-2147 or[](http://www.airgorilla.com/agemail.html)for email. 
