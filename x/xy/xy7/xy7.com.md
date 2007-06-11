@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xy7.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206020518id_/http%3A//www.xy7.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xy7.com privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611153047id_/http%3A//www.xy7.com/privacypolicy.html) for the most accurate reproduction.*
 
 # XY7.com - Converting Clicks into Cash
 
