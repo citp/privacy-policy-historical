@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tek.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217133109id_/http%3A//www.tek.com/Measurement/privacy/privacy_truste.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tek.com privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611093221id_/http%3A//www.tek.com/Measurement/privacy/privacy_truste.html) for the most accurate reproduction.*
 
 # Tektronix: Privacy > Privacy Statement
 
