@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seekwellness.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018190950id_/http%3A//www.seekwellness.com/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seekwellness.com privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611163041id_/http%3A//www.seekwellness.com/privacy_statement.htm) for the most accurate reproduction.*
 
 # privacy policy
 
@@ -28,7 +28,7 @@ Q. **What should you look for in a privacy policy?**
 
   1. Make sure it's easy to understand. If you have trouble understanding it, chances are the website doesn't want you to know what it does with your information. 
 
-_SeekWellness Response: This statement has been tested with our visitors for clarity and ease of understanding. If you have questions about any part, please[contact us](https://web.archive.org/web/20061018190950id_/http%3A//www.seekwellness.com/emailform.htm?t=audaev1dhw1d44skkkkks48sw)._
+_SeekWellness Response: This statement has been tested with our visitors for clarity and ease of understanding. If you have questions about any part, please[contact us](https://web.archive.org/web/20070611163041id_/http%3A//www.seekwellness.com/%3C?php%20print\(relativelink\(%27emailform.htm%27\).%27?t=audaev1dhw1d44skkkkks48sw%27\)?)._
 
   2. Check to see that the website includes an opt-in or opt-out option for registered visitors. Opt-in means that you have the right to choose if and when your information is released to others. Opt-out means that your information will be shared with others until you specifically request that it not be. If there is a choice listed, check its wording to see if the default setting is opt-out and you have to do something to stop the website from sharing your information. At that point, look at how difficult the website makes it for you to opt-out. 
 
@@ -51,29 +51,29 @@ _Currently SeekWellness uses WebTrends Live to collect information about visits 
 > **Privacy Principles**  
 >  Because your privacy is important to us, WebTrends Live conducts its business under the following principles:
 > 
-> **Principle 1 - No Collection of Personal Information**  
+>  **Principle 1 - No Collection of Personal Information**  
 >  WebTrends does not collect personal information such as name, age, phone number and mailing address from visitors to our customer's web sites.
 > 
-> **Principle 2 - No Combination of Browsing and Web Traffic Information with Personal Information**  
+>  **Principle 2 - No Combination of Browsing and Web Traffic Information with Personal Information**  
 >  Since WebTrends does not collect any personal information, we do not combine traffic analysis information with personal information such as name, age, phone number and mailing address.
 > 
-> **Principle 3 - No Aggregation of Individual Visitor Traffic Patterns across Multiple Sites**  
+>  **Principle 3 - No Aggregation of Individual Visitor Traffic Patterns across Multiple Sites**  
 >  WebTrends does not collect individual profile information for visitors across multiple sites and does not aggregate information from any other sources about browsing patterns of individual visitors across multiple sites.
 > 
-> **Principle 4 - Use of Anonymous IP Address**  
+>  **Principle 4 - Use of Anonymous IP Address**  
 >  IP addresses are recorded by every site on the internet. WebTrends collects this information as well, but does so exclusively for the following uses: (1) anonymous statistical purposes; or (2) administration of our web site and servers, and to improve our services.
 > 
-> **Principle 5 - Anonymous Use of Cookies**  
+>  **Principle 5 - Anonymous Use of Cookies**  
 >  It is WebTrends Live's policy to use cookies only for more accurate anonymous traffic analysis. The cookie information does NOT include personal data such as name, age, phone number, e-mail address or mailing address. In addition, WebTrends does NOT link cookies to personal data such as name, age, phone number, e-mail address and mailing address. Most browsers are initially set up to accept cookies. If you would prefer, you can set your browser to reject cookies.
 > 
-> **Principle 6 - No Individual Profiling**  
+>  **Principle 6 - No Individual Profiling**  
 >  WebTrends Live does not create individual profiles for visitors. Unlike other tracking services we do not have a database of individual profiles for each visitor. WebTrends Live collects data in aggregate form and data is not recorded or stored for individual visitors.
 > 
-> **Principle 7 - Limited Use of Cookies**  
+>  **Principle 7 - Limited Use of Cookies**  
 >  WebTrends Live uses cookies to track such as the time/date of the visit, the time/date of last visit, the page viewed, the referrer, transaction information for eCommerce pages, and other data. The cookies never include personal information such as name, mailing address and phone number. We do not collect such information and visitors that we track can not provide us with personal information through normal movement across a web site. As we do not build a database of individual visitors, the data that we do collect is never stored in any individual user profile; the data collected serves only to update aggregate counts allowing our customers to monitor traffic on their site. Visitors can also reject cookies.
 > 
-> **Opting Out of Tracking Cookies**  
->  You may elect to opt out of receiving tracking cookies for all sites using WebTrends Live services. To do so, you will need to accept a cookie indicating your choice. Please visit our [**opt out page**](http://www.webtrendslive.com/permission.asp) for more information.
+>  **Opting Out of Tracking Cookies**  
+>  You may elect to opt out of receiving tracking cookies for all sites using WebTrends services. To do so, you will need to accept a cookie indicating your choice. Please visit our [**opt out page**](https://ondemand.webtrends.com/support/optout.asp) for more information.
 
   5. If the website collects personal information from you, it should tell you why it collects this information and how it plans to use it, whether or not it releases this information to others, or if it claims rights to this information in the future. If it does share your information, it should tell you how it plans to obtain your permission prior to sharing it. It should also tell you how to access this record to make changes or delete the information in the future and how secure this information is while being stored. The website should make it clear that it will retain only the information that is necessary for the original purpose and only for as long as it's needed. 
 
@@ -87,7 +87,7 @@ _SeekWellness Response: You are free to use whatever passwords are convenient fo
 
 _SeekWellness Response: If and when SeekWellness shares information about you with other organizations, it will notify you by email of the planned use and purpose for sharing the information as well as your procedure for preventing the sharing. It is a SeekWellness policy not to share information with other organizations unless they sign an agreement to guard your information with provisions that are equal to or stronger than its own._
 
-_SeekWellness uses WebTrends Live software to track visitor traffic to and on the website. Please read the[WebTrends Live Privacy Policy](http://www.webtrendslive.com/privacy_policy.htm); you should refer to the WebTrends Live Privacy Policy to learn how they collect and use information. WebTrends Live fully complies with applicable law; and protects privacy in a manner consistent with the principles of an industry-approved privacy certification program._
+_SeekWellness uses WebTrends Live software to track visitor traffic to and on the website. Please read the[WebTrends Privacy Policy](https://ondemand.webtrends.com/privacypolicy.asp#PSFV); you should refer to the WebTrends Live Privacy Policy to learn how they collect and use information. WebTrends Live fully complies with applicable law; and protects privacy in a manner consistent with the principles of an industry-approved privacy certification program._
 
   8. The website should describe its security system for storing your personal information including encryption software, if used, passwords, physical storage characteristics, and the personnel policies that determine who has access to your information within the organization. 
 
@@ -121,4 +121,4 @@ _Effective January 1, 2001_ , _last updated August 15, 2005_
 
 
 
-[Send email to SeekWellness](https://web.archive.org/web/20061018190950id_/http%3A//www.seekwellness.com/emailform.htm?t=audaev1dhw1d44skkkkks48sw)
+ [Contact SeekWellness](https://web.archive.org/emailform.htm?t=dln66uv4vzra0wow408sow8gg)
