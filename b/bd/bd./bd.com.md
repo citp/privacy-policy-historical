@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bd.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205061338id_/http%3A//www.bd.com/legal/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bd.com privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611151235id_/http%3A//www.bd.com/legal/privacy_policy.asp) for the most accurate reproduction.*
 
 # Legal - Privacy Statement and Consent to Use of Data
 
