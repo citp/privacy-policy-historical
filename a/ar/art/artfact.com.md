@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the artfact.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211150929id_/http%3A//www.artfact.com/agreements/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artfact.com privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611182242id_/http%3A//www.artfact.com/agreements/privacy.cfm) for the most accurate reproduction.*
 
-# ARTFACT : Your Complete Resource to Research, Price and Find Antiques & Art
+# ARTFACT.COM : Find, Price & Research Antiques and Fine Art
 
 **ARTFACT PRIVACY POLICY**
 
