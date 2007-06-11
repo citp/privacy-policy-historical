@@ -1,12 +1,7 @@
-> *The following text is extracted and transformed from the pdfcomplete.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211085937id_/http%3A//www.pdfcomplete.com/cms/Home/tabid/52/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfcomplete.com privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611120401id_/http%3A//www.pdfcomplete.com/cms/Home/tabid/52/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # PDF Complete > Home
 
-|  |   | Privacy Statement |   
----|---|---|---  
-  
-* * *  
-  
 The following statement discloses the PDF Complete Inc ("PDFC") consumer privacy practices for the PDF Complete Web Site ("Site") and software sold and/or supported ("Software") on this Site. We do update our policy from time to time without notice so please check back periodically. All updates will be published at this Site. This Statement of Privacy applies to the Site and governs data collection and usage. By using the Site or Software, you consent to the data practices described in this statement.
 
 Personal Information
