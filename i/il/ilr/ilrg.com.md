@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilrg.com privacy policy that was archived on 2006-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061222190044id_/http%3A//www.ilrg.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilrg.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612002417id_/http%3A//www.ilrg.com/terms/privacy.html) for the most accurate reproduction.*
 
 # ILRG.com: Privacy Policy
 
@@ -8,7 +8,7 @@
 
 **_ILRG.COM RESPECTS YOUR PRIVACY_**
 
-Last Updated: May 2, 2006
+Last Updated: May 14, 2007
 
 | [ ](http://www.truste.org/ivalidate.php?url=www.ilrg.com&sealid=101)  
 ---|---  
@@ -29,7 +29,7 @@ ILRG.com promotes trust, privacy and security as core attributes of our service 
   * Request promotional items, ILRG.com will collect and use your name and address, or e-mail address; 
   * Post information on any of our interactive areas, ILRG.com will collect information from you in order to e-mail you major updates about Internet Legal Research Group, the products and services; 
   * Sign-up for the Internet Legal Research Group mailing list, ILRG.com will collect information from you to facilitate the publishing of that mailing list; and 
-  * Send our link to others through our website, ILRG.com will collect the information from you only for the purpose of facilitating the transmission of the e-mail. 
+  * Send our link to others through our website, ILRG.com will collect the information from you only for the purpose of facilitating the transmission of the e-mail. We will send this email only and no following promotional emails unless the recipient specifically chooses to receive future promotional emails from us.
 
 
 
