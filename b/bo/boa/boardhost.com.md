@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boardhost.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110062341id_/http%3A//www.boardhost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boardhost.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612015816id_/http%3A//www.boardhost.com/privacy) for the most accurate reproduction.*
 
 # Boardhost: Privacy Policy
 
@@ -42,5 +42,5 @@ This document and our policies may change from time to time. Any such modificati
 
 To the extent that anything within this privacy policy is inconsistent with Boardhost’s Usage Terms or Terms of Service, the Usage Terms or Terms of Service, as appropriate, shall prevail. 
 
-Copyright ©1998-2006 [Boardhost.com, Inc.](http://www.boardhost.com/contact/) All Rights Reserved.  
+Copyright ©1998-2007 [Boardhost.com, Inc.](http://www.boardhost.com/contact/) All Rights Reserved.  
 
