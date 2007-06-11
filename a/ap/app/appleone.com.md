@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the appleone.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020230219id_/http%3A//www.appleone.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appleone.com privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611231659id_/http%3A//www.appleone.com/Privacy.aspx) for the most accurate reproduction.*
 
-# AppleOne - Privacy Statement
+# AppleOne
 
 ### Privacy Statement
 
