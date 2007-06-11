@@ -1,25 +1,10 @@
-> *The following text is extracted and transformed from the affiliatescout.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207063352id_/http%3A//www.affiliatescout.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatescout.com privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611202219id_/http%3A//www.affiliatescout.com/privacy.html) for the most accurate reproduction.*
 
 # AffiliateScout
 
-This is the web site of **AffiliateScout.com**
+  
+This is the web site of **AffiliateScout.com**  
 
-**We can be reached:
-
-Via e-mail at:
-
-**
-
-[ _  
-admin@affiliatescout.com_](mailto:admin@affiliatescout.com)
-
-**  
-Via mail at:**  
-8345 NW 66 ST #8887  
-Miami, FL 33166
-
-**Via telephone at:**   
-727.743.7598 
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
 
