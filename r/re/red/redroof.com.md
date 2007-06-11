@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the redroof.com privacy policy that was archived on 2006-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061126035445id_/http%3A//www.redroof.com/about_the_roof/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redroof.com privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611023326id_/http%3A//www.redroof.com/about_the_roof/privacy.asp) for the most accurate reproduction.*
 
 # Red Roof Inn - Accor Privacy Protection Policy
 
 [](https://web.archive.org/about_the_roof/index.asp)  
-|  |   
----|---  
 [](https://web.archive.org/promotions/redicard/index.asp)  
-[](https://web.archive.org/rr/email-signup.do)
+[](https://web.archive.org/rr/email-signup.do) | 
 
 ## Introduction
 
