@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exploroz.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211222936id_/http%3A//www.exploroz.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exploroz.com privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611134932id_/http%3A//www.exploroz.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy @ ExplorOz
 
@@ -44,7 +44,7 @@ Before you can interact with the site you must be registered as a Visitor. The p
 
 The Membership system provides enhanced viewing facilities and provides interfaces that identify Site changes since your last visit. Also ExplorOz through it's advertising customers ("Advertisers") has a membership reward system. The rewards are provided by the Advertisers and ExplorOz will accept no responsibility for any misrepresentation whatsoever made by the Advertisers on the Site.
 
-You can learn more about enhancing your online experience through Membership by [clicking here](https://web.archive.org/web/20061211222936id_/http%3A//www.exploroz.com/Rewards/Default.asp).  
+You can learn more about enhancing your online experience through Membership by [clicking here](https://web.archive.org/web/20070611134932id_/http%3A//www.exploroz.com/Rewards/Default.asp).  
   
 * * *
 
