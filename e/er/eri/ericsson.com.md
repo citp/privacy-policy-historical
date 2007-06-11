@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the ericsson.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110045402id_/http%3A//www.ericsson.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ericsson.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612004059id_/http%3A//www.ericsson.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy
 
-At Ericsson, we understand that privacy is an important issue for users of (visitors to) the Ericsson Internet site 
-
-[_www.ericsson.com_](http://www.ericsson.com/)
-
-and its related domains. The following information is designed to help visitors understand what information we collect from our site, and how we handle and use the information after that. 
+At Ericsson, we understand that privacy is an important issue for users of (visitors to) the Ericsson Internet site [www.ericsson.com](https://web.archive.org/index.shtml) and its related domains. The following information is designed to help visitors understand what information we collect from our site, and how we handle and use the information after that. 
 
 Information collection and use
 
@@ -32,11 +28,7 @@ Subscriptions
 
 If a user wishes to subscribe to Ericsson information such as press releases or financial reports, we ask for an email address. Ericsson will use this e-mail address only to send the requested information; we will not send other unsolicited information.
 
-How to subscribe and unsubscribe: Users may open or cancel subscription(s) at any time by filling in the form on 
-
-[_http://www.ericsson.com/press/subscribe.shtml_](http://www.ericsson.com/press/subscribe.shtml)
-
-. 
+How to subscribe and unsubscribe: Users may open or cancel subscription(s) at any time by filling in the form on [http://www.ericsson.com/ericsson/press/subscribe/index.shtml](https://web.archive.org/ericsson/press/subscribe/index.shtml). 
 
 Orders, surveys and contests
 
@@ -64,10 +56,6 @@ Ericsson may, from time to time, make changes to this policy. We recommend that 
 
 How to contact Ericsson about this privacy policy
 
-It's important to us at Ericsson to hear what users have to say about our services, and our policies. If site users have any questions, concerns, or complaints about this privacy policy, or want to let us know what they think about any of our off-line and on-line products and services, they can use our 
-
-[_"Questions and comments"_](https://web.archive.org/question.shtml)
-
-form accessible from almost every page on this site. 
+It's important to us at Ericsson to hear what users have to say about our services, and our policies. If site users have any questions, concerns, or complaints about this privacy policy, or want to let us know what they think about any of our off-line and on-line products and services, they can use our ["Questions and comments"](https://web.archive.org/ericsson/contact/question.shtml) form accessible from almost every page on this site. 
 
 |  | 
