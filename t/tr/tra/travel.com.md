@@ -1,15 +1,8 @@
-> *The following text is extracted and transformed from the travel.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113151347id_/http%3A//www.travel.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travel.com privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611134028id_/http%3A//www.travel.com/privacy.html) for the most accurate reproduction.*
 
 # TRAVEL.com ® - About Us
 
-### **Privacy Statement**
-
-  
-
-
-TRAVEL.com does not collect personally identifiable information about individuals except when such individuals specifically provide such information on a voluntary basis. Currently, the only places where individual information is collected are our messaging/photo forums and when one submits their website URL to be listed at TRAVEL.com. This information is only used internally at TRAVEL.com, mainly for verification purposes and for statistical analysis to get a general idea of the background of our users. 
-
-Except as required by law, TRAVEL.com will not give out personal user data to third parties. However, TRAVEL.com reserves the right to contact members of our database for verification purposes. 
+TRAVEL.com does not collect personally identifiable information about individuals except when such individuals specifically provide such information on a voluntary basis. Users may create public user profiles by their own choice. Except as required by law, TRAVEL.com will not give out personal user data to third parties. However, TRAVEL.com reserves the right to contact members of our database for verification purposes. 
 
 TRAVEL.com reserves the right to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the site and to inform advertisers of such information as well as the number of users that have been exposed to or clicked on their advertising banners. TRAVEL.com will provide only aggregated data from these analyses to third parties. 
 
