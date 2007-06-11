@@ -1,32 +1,36 @@
-> *The following text is extracted and transformed from the fha.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216032009id_/http%3A//www.fha.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fha.com privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611191000id_/http%3A//www.fha.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # FHA.com Privacy Policy for FHA Loans
 
 |    
 |  |  |    
   
-|  |  |  1\. Facts about
+|  | 
 
-[](https://web.archive.org/web/20061216032009id_/http%3A//www.fha.com/important_facts.cfm)
+Call Today!  
+**(866) 363-7907**
+
+1\. Facts about
+
+[](https://web.archive.org/web/20070611191000id_/http%3A//www.fha.com/important_facts.cfm)
 
 2\. Learn how to
 
-[](https://web.archive.org/web/20061216032009id_/http%3A//www.fha.com/prequalify.cfm)
+[](https://web.archive.org/web/20070611191000id_/http%3A//www.fha.com/prequalify.cfm)
 
 3\. Continue to
 
-[](https://www.ahmadvantage.com/OA1_Shell.asp?referrer=83666857)
+[](http://www.ahmadvantage.com/landingpages/form1.aspx?referrer=83666857)
 
 with  
-[](https://www.ahmadvantage.com/OA1_Shell.asp?referrer=83666857)  
-  
----  
-  
+[](http://www.ahmadvantage.com/landingpages/form1.aspx?referrer=83666857)
+
 FHA.com can help make this an easy, satisfying experience. Our company is a private business and is specializing in FHA loans and is not a government agency.
 
 Please note that the FHA does not directly make home mortgage loans. They insure the FHA loans that we assist people in getting.   
   
-[FHA Facts](https://web.archive.org/web/20061216032009id_/http%3A//www.fha.com/important_facts.cfm) | [FHA Loan Types](https://web.archive.org/web/20061216032009id_/http%3A//www.fha.com/fha_loan_types.cfm) | [Down Payment Grants](https://web.archive.org/web/20061216032009id_/http%3A//www.fha.com/fha_programs.cfm) COLLECTION AND USE INFORMATION  
+---|---  
+[FHA Facts](https://web.archive.org/web/20070611191000id_/http%3A//www.fha.com/important_facts.cfm) | [FHA Loan Types](https://web.archive.org/web/20070611191000id_/http%3A//www.fha.com/fha_loan_types.cfm) | [Down Payment Grants](https://web.archive.org/web/20070611191000id_/http%3A//www.fha.com/fha_programs.cfm) COLLECTION AND USE INFORMATION  
 At FHA.com, we recognize that your privacy is important to you and something that must be maintained. The following privacy statement explains the kind of information that is collected during the loan process, how we use the information and how we share it with others.
 
 FHA.com has partnered with several trusted third party companies to offer services including but not limited to: obtaining a competitive residential home mortgage and / or cash back rebates on relocation services where applicable. In order for us to assist you with a particular form or service that is provided or offered on our Web site we request that you voluntarily supply us with personal information, including, but not limited to, your email address, social security number and mailing address for purposes of fulfilling requests inclusive of, but not limited to, assistance with mortgage and real estate services and requests for home loan related assistance in general.
@@ -48,10 +52,11 @@ Washington, DC 20410
 Should you have any questions concerning Privacy Policy issues, e-mail us at  
 
 
-[Privacy Policy](https://web.archive.org/web/20061216032009id_/http%3A//www.fha.com/privacy_policy.cfm) | [About Us](https://web.archive.org/web/20061216032009id_/http%3A//www.fha.com/about_us.cfm) | [FHA Loan](https://web.archive.org/web/20061216032009id_/http%3A//www.fha.com/sitemap.cfm) | [Contact Information](https://web.archive.org/web/20061216032009id_/http%3A//www.fha.com/contact_information.cfm)
+  
+[Privacy Policy](https://web.archive.org/web/20070611191000id_/http%3A//www.fha.com/privacy_policy.cfm) | [About Us](https://web.archive.org/web/20070611191000id_/http%3A//www.fha.com/about_us.cfm) | [FHA Loan](https://web.archive.org/web/20070611191000id_/http%3A//www.fha.com/sitemap.cfm) | [Contact Information](https://web.archive.org/web/20070611191000id_/http%3A//www.fha.com/contact_information.cfm)
 
-Copyright © 1997- 2006 · FHA.com · All Rights Reserved  
-[Web Design](http://www.archimageonline.com/): Archimage  4200 Montrose Blvd., Suite 330  Houston, Texas  
+Copyright © 1997- 2007 · FHA.com · All Rights Reserved  
+[Web Design](http://www.archimageonline.com/): Archimage · Houston, Texas  
   
   
 
