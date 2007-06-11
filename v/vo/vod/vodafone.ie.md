@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vodafone.ie privacy policy that was archived on 2006-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061013201031id_/http%3A//vodafone.ie/terms/privacy/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafone.ie privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612002403id_/http%3A//www.vodafone.ie/terms/privacy/index.jsp) for the most accurate reproduction.*
 
-# Privacy Policy - Vodafone Ireland
+# Vodafone Ireland, Mobile Phone Offers, Webtext - Privacy Policy
 
 Vodafone Ireland Limited (hereinafter referred to as "Vodafone" "us" "we" or "our") is committed to respecting your privacy and to complying with all applicable data protection and privacy laws. 
 
