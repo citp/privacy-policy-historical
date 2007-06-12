@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the moviegallery.com privacy policy that was archived on 2006-11-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061114231203id_/http%3A//www.moviegallery.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the moviegallery.com privacy policy that was archived on 2007-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070612073126id_/http%3A//www.moviegallery.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <title>Movie Gallery - Privacy Policy</title> 
@@ -18,6 +18,12 @@
 <link type="text/css" id="print" rel="stylesheet" href="http://static.moviegallery.com/mg_content/styles/main-print.css" media="print">
 <link type="text/css" id="tooltipsCss" rel="stylesheet" href="http://static.moviegallery.com/mg_content/styles/tooltip.css">
 
+<link rel="stylesheet" type="text/css" href="http://static.moviegallery.com/mg_content/styles/newBase.css">
+<link rel="stylesheet" type="text/css" href="http://static.moviegallery.com/mg_content/styles/Content.css">
+<link rel="stylesheet" type="text/css" href="http://static.moviegallery.com/mg_content/styles/Ratings.css">
+<link rel="stylesheet" type="text/css" href="http://static.moviegallery.com/mg_content/styles/print.css" media="print">
+<link rel="stylesheet" type="text/css" href="http://static.moviegallery.com/mg_content/styles/tooltip.css" id="tooltipsCss">
+
 
 <link rel="alternate" type="application/rss+xml" title="New Releases Feed" href="http://www.moviegallery.com/rssfeed/MovieGallery-MoviesNewRelease.xml">
 <link rel="alternate" type="application/rss+xml" title="Movies Coming Soon" href="http://www.moviegallery.com/rssfeed/MovieGallery-MoviesComingSoon.xml">
@@ -27,20 +33,21 @@
 <link rel="alternate" type="application/rss+xml" title="Top 10 Game Rentals" href="http://www.moviegallery.com/rssfeed/MovieGallery-GamesTopRented.xml">
 
 
-<script type="text/javascript" src="http://static.moviegallery.com/mg_content/js/init.js"></script>
-<script type="text/javascript" src="http://static.moviegallery.com/mg_content/js/ratings.js"></script>
-<script type="text/javascript" src="http://static.moviegallery.com/mg_content/js/dhtmlfuncs.js"></script>
-
-
 <script type="text/javascript" src="http://static.moviegallery.com/mg_content/js/dyn/dw_event.js"></script>
 <script type="text/javascript" src="http://static.moviegallery.com/mg_content/js/dyn/dw_viewport.js"></script>
 <script type="text/javascript" src="http://static.moviegallery.com/mg_content/js/dyn/dw_tooltip.js"></script>
 <script type="text/javascript" src="http://static.moviegallery.com/mg_content/js/tolltips.js"></script>
 
 
+<script type="text/javascript" src="http://static.moviegallery.com/mg_content/js/init.js"></script>
+<script type="text/javascript" src="http://static.moviegallery.com/mg_content/js/ratings.js"></script>
+<script type="text/javascript" src="http://static.moviegallery.com/mg_content/js/dhtmlfuncs.js"></script>
+<script type="text/javascript" src="http://static.moviegallery.com/mg_content/js/ratingStars.js"></script>
+
+
 <script type="text/javascript" src="http://static.moviegallery.com/mg_content/js/ajax.js"></script>
 <script type="text/javascript" src="/ajax/common.ashx"></script>
-<script type="text/javascript" src="/ajax/MovieGallery.Web.classes.ajax,MovieGallery.Web.ashx"></script>
+<script type="text/javascript" src="/ajax/MovieGallery.classes.ajax,MovieGallery.Web.ashx"></script>
 
 <!--[if gte ie 5.5000]>
 <style type="text/css" media="screen">@import "http://static.moviegallery.com/mg_content/styles/ie.css";</style>
@@ -57,10 +64,16 @@
 	
 <body id="movieGallery">
 <form name="_default" method="post" action="privacy.aspx" id="_default">
-<input type="hidden" name="__VIEWSTATE" value="dDwtMTIyMDc2NzEwNjs7bDxQYWdlSGVhZGVyMTpzZWFyY2g6U2VhcmNoSW1hZ2VCdXR0b247Pj61KXxrVe44pszRLn4ma1X4vWdOiA==">
+<input type="hidden" name="__VIEWSTATE" value="dDwxOTQ0NjU0NTY1OztsPFBhZ2VIZWFkZXIxOnNlYXJjaDpTZWFyY2hJbWFnZUJ1dHRvbjs+PtoE1ijmp/CNFxOIYeKn3OabiLK0">
+	
+<script type="text/javascript" src="/ajaxpro/prototype.ashx"></script>
+<script type="text/javascript" src="/ajaxpro/core.ashx"></script>
+<script type="text/javascript" src="/ajaxpro/converter.ashx"></script>
+<script type="text/javascript" src="/ajaxpro/MovieGallery.Web.classes.ajax,MovieGallery.Web.ashx"></script>
+
+
 
 <!--BEGIN MAIN PAGE SECTION-->
-
 
 
 <!--BEGIN MAIN PAGE SECTION-->
@@ -72,16 +85,21 @@
 	<a href="/"><img src="http://static.moviegallery.com/mg_content/images/MGLogoFlat.gif" alt="Movie Gallery" name="logo" width="350" height="60" border="0" id="logo"></a>
 	<div id="nav">
 	<div id="extranav">
-		<span class="menuitem"><a href="/rss/">RSS Feeds</a></span>&nbsp;|
+		<span class="menuitem"><a href="/MyMovies/Recommendations.aspx">Recommendations</a></span>&nbsp;|
+		<!--<span class="menuitem"><a href="/rss/">RSS Feeds</a></span>&nbsp;|-->
 		<span class="menuitem"><a href="/StoreLocator/">Store Locator</a></span>&nbsp;|
 		<span class="menuitem"><a href="/company/contact_us.aspx">Contact Us</a></span>&nbsp;|
 		<span class="menuitem last"><a href="/newsletter/subscription.aspx">Newsletters</a></span><br>
 	</div>
 	<div id="mainnav">
-		<span class="menuitem"><a href="/movies/moviebrowser.aspx">MOVIES</a></span>
-		<span class="menuitem"><a href="/games/gamebrowser.aspx">GAMES</a></span>
-		<span class="menuitem last"><a href="/company/about.aspx">INFO</a></span>
+		<span class="menuitem"><a href="/movies/moviebrowser.aspx">&nbsp;&nbsp;MOVIES</a></span>
+		<span class="menuitem"><a href="/games/gamebrowser.aspx">&nbsp;&nbsp;GAMES</a></span>
+		<span class="menuitem last"><a href="/company/about.aspx">&nbsp;&nbsp;INFO</a></span>
 	</div>
+	<div id="theHeaderHello"><p><a id="greetUnrec" href="/Profile/default.aspx">
+		<strong><u>Sign In</u></strong></a> to My Movie Gallery.
+
+</p></div>
 	</div>
 </div>
 
@@ -90,6 +108,18 @@
 		<div id="searchbox">
 <script type="text/javascript" language="javascript">
 	function ClearSearch(inputObject){if(inputObject.value=="Search for movies, games, and actors"){inputObject.value="";}inputObject.style.color="#000";}		
+	function doSearch(sourceObj)
+	{
+		window.location.href = "/Search/results.aspx?t=" + sourceObj.value;
+	}
+	function doSearch_indirect(sourceObjId)
+	{
+		var txtBox = document.getElementById(sourceObjId);
+		if(txtBox)
+		{
+			window.location.href = "/Search/results.aspx?t=" + txtBox.value;
+		}
+	}
 </script>
 <!--
 <div class="searchwidget">
@@ -114,12 +144,12 @@
 		
 	</td>
 	<td>
-		<input name="PageHeader1:search:SearchTextbox" type="text" maxlength="40" size="24" id="PageHeader1_search_SearchTextbox" tabindex="4" class="searchtext" onfocus="ClearSearch(this)" value="Search for movies, games, and actors" onkeydown="if ((event.keyCode &amp;&amp; event.keyCode == 13)) {PageHeader1_search_SearchButton.click(); return false;}">
+		<input name="PageHeader1:search:SearchTextbox" type="text" maxlength="40" size="24" id="PageHeader1_search_SearchTextbox" tabindex="4" class="searchtext" onfocus="ClearSearch(this)" value="Search for movies, games, and actors" onkeydown="if ((event.keyCode &amp;&amp; event.keyCode == 13)) {doSearch(this); return false;}">
 	</td>
 	<td>
 		
 		<span style="DISPLAY:none"><input type="submit" name="PageHeader1:search:SearchButton" value="" id="PageHeader1_search_SearchButton"></span>
-		<input type="image" name="PageHeader1:search:SearchImageButton" id="PageHeader1_search_SearchImageButton" tabindex="5" title="Go" src="http://static.moviegallery.com/mg_content/images/button/btn_gray_go.gif" alt="">
+		<input type="image" name="PageHeader1:search:SearchImageButton" id="PageHeader1_search_SearchImageButton" tabindex="5" title="Go" onclick="doSearch_indirect('PageHeader1_search_SearchTextbox'); return false;" src="http://static.moviegallery.com/mg_content/images/button/btn_gray_go.gif" alt="">
 	</td>
 </tr>
 </tbody></table>
@@ -135,6 +165,7 @@
 
 <!--BEGIN CONTENT SECTION-->
 <div id="content">
+<table bgcolor="#ffffff" cellpadding="0" cellspacing="0"><tbody><tr><td>
 <!--BEGIN SINGLE COLUMN CONTENT-->
 	<div class="col_full">
 
@@ -190,25 +221,26 @@
   Service Department, 900 West Main Street, Dothan, Alabama 36301. </p>
 </div>
 <!--END CONTENT SECTION-->
-</div>	
+</td></tr></tbody></table></div>	
 
 <!--BEGIN FOOTER SECTION-->
 <div id="footer" class="clearfix">
 	<a href="/rss"><img src="http://static.moviegallery.com/mg_content/images/button/btn_rss.gif" alt="RSS" width="36" height="15" border="0" style="float:right; display:inline;margin-left:8px;"></a>
 	<p><a href="/">Home</a> | <a href="/movies/moviebrowser.aspx">Movies</a> | <a href="/games/gamebrowser.aspx">Games</a> | <a href="/specials/">Specials and Promotions</a> | <a href="/storelocator/">Find My Store</a> | <a href="/sitemap.aspx">Sitemap</a> | <a href="/newsletter/subscription.aspx">Newsletters</a> | <a href="/support/">Help &amp; FAQ</a></p>
 	<p><a href="/investors/" target="_blank">Investor Relations</a> | <a href="/company/jobs/">Jobs &amp; Careers</a> | <a href="/company/retaildevelopment/">Retail Development</a> | <a href="/company/Contact_Us.aspx">Contact Us</a> | <a href="/privacy.aspx">Privacy Policy</a> | <a href="/terms.aspx">Terms &amp; Conditions</a></p>
-	<p class="credits"><a href="/"><img alt="Movie Gallery" src="http://static.moviegallery.com/mg_content/images/logo_mg_stacked_sm.gif" width="87" height="35" border="0"></a><a href="/offsite.aspx?url=http://www.hollywoodvideo.com"><img src="http://static.moviegallery.com/mg_content/images/logo_hv_sm.gif" width="80" height="35" border="0" alt="Hollywood Video"></a><a href="/offsite.aspx?url=http://www.gamecrazy.com"><img src="http://static.moviegallery.com/mg_content/images/logo_gc_sm.gif" width="120" height="35" border="0" alt="Game Crazy"></a><a href="/">© 2006 Movie Gallery US, LLC</a></p>
+	<p class="credits"><a href="/"><img alt="Movie Gallery" src="http://static.moviegallery.com/mg_content/images/logo_mg_stacked_sm.gif" width="87" height="35" border="0"></a><a href="/offsite.aspx?url=http://www.hollywoodvideo.com"><img src="http://static.moviegallery.com/mg_content/images/logo_hv_sm.gif" width="80" height="35" border="0" alt="Hollywood Video"></a><a href="/offsite.aspx?url=http://www.gamecrazy.com"><img src="http://static.moviegallery.com/mg_content/images/logo_gc_sm.gif" width="120" height="35" border="0" alt="Game Crazy"></a><a href="/">© 2007 Movie Gallery US, LLC</a></p>
 	<div id="expander" style="display:none;"></div>
 </div>
-<!-- Server: 01 -->
+
 <!--END FOOTER SECTION-->
 
-
-</div>
 <!--END MAIN PAGE SECTION-->
+<div id="scr_for" align="left">
 <script language="javascript">
 	checkForHash();
 </script>
+
+
 <!-- SiteCatalyst code version: H.3.
 Copyright 1997-2005 Omniture, Inc. More info available at
 http://www.omniture.com -->
@@ -264,8 +296,25 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 //--></script><!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: H.3. -->
+
+<script language="JavaScript">function doneWithRatings(temp){}</script>
+<!-- Server: 01 -->
+
 <script language="JavaScript">function doneWithRatings(temp){}</script>
 
+	<script language="javascript">
+	function srn(itemId, ratingValue, ratingDiv)
+	{
+		window.location = "/Profile/default.aspx?Promo=rec0001";
+	}
+	
+	function addTWL(movieId, targetObject)
+	{
+		window.location = "/Profile/default.aspx?Promo=WLH0008";
+	}
+	</script>
+
+</div></div>
 </form>
 
 
