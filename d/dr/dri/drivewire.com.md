@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the drivewire.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216204110id_/http%3A//www.drivewire.com/001supportingfiles/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivewire.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612141736id_/http%3A//www.drivewire.com/001supportingfiles/privacypolicy.html) for the most accurate reproduction.*
 
-# Drivewire Auto Parts – Discount Auto Parts and Accessories
+# Drivewire Auto Parts – Privacy Policy
 
 [](http://www.truste.org/ivalidate.php?url=www.drivewire.com&sealid=101) **Last Updated September 14, 2005**
 
