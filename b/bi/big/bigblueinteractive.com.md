@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the bigblueinteractive.com privacy policy that was archived on 2006-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061025225417id_/http%3A//www.bigblueinteractive.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigblueinteractive.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612050551id_/http%3A//bigblueinteractive.com/privacy.htm) for the most accurate reproduction.*
 
 # Big Blue Interactive Privacy Policy
 
 ****  
-[](https://web.archive.org/web/20061025225417id_/http%3A//www.bigblueinteractive.com/index.cfm)
+[](https://web.archive.org/web/20070612050551id_/http%3A//bigblueinteractive.com/index.cfm)
 
 * * *
 
@@ -31,6 +31,8 @@ _BBI_ employs third party advertisers and advertising serving services. These pa
 To find out more about how third party advertisers/advertising serving services that _BBI_ works with manage the privacy of information in conjunction with serving ads on this site, please see their respective privacy policies at: 
 
   * [Burst! Media](http://www.burstmedia.com/release/privacy.asp)
+  * [Google](http://www.google.com/privacy.html)
+  * [TicketCity.com](http://www.ticketcity.com/Privacy-Policy.html)
 
 
 
@@ -64,8 +66,8 @@ _BBI_ reserves the right to change its Privacy Policy at any time. Your continue
 
 If you have any questions or comments about our privacy policy, please contact us at [info@bigblueinteractive.com](mailto:info@bigblueinteractive.com). If you wish your communication to remain private, please label it as such. 
 
-_This Document Was Last Updated on July 26, 2004_
+_This Document Was Last Updated on May 15, 2007_
 
 * * *
 
-[](https://web.archive.org/web/20061025225417id_/http%3A//www.bigblueinteractive.com/index.cfm)
+[](https://web.archive.org/web/20070612050551id_/http%3A//bigblueinteractive.com/index.cfm)
