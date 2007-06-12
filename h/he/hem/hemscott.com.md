@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hemscott.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205203001id_/http%3A//www.hemscott.com/privacy-policy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hemscott.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612171907id_/http%3A//www.hemscott.com/privacy-policy.do) for the most accurate reproduction.*
 
 # Privacy Policy | Hemscott
 
@@ -12,7 +12,7 @@ You signify your consent to our collecting and using your personal information i
 
 ## What information do we collect about you?
 
-Hemscott requires that customers supply personal information, including name and e-mail address in order for us to perform various services (like providing our Hemscott Analyst subscription service). Some of the information requested is voluntary; compulsory fields are clearly marked on the registration form. On occasions, Hemscott may also collect additional personal information from subscribers in optional competitions or survey and feedback forms.
+Hemscott requires that customers supply personal information, including name and e-mail address in order for us to perform various services. Some of the information requested is voluntary; compulsory fields are clearly marked on the registration form. On occasions, Hemscott may also collect additional personal information from subscribers in optional competitions or survey and feedback forms.
 
 Clearly, the better that we know you, the better that we can tailor our services to meet your needs, but we will limit the collection and use of your information to the minimum required to deliver, develop and improve our services to you, which includes advising you about our products, services and other opportunities and administering our business.
 
@@ -52,7 +52,7 @@ We reserve the right to contact you via post, e-mail or telephone solely in rela
 
 Hemscott reserves the right to access and disclose individually identifiable information to comply with applicable laws, court orders and lawful government and regulatory requests, to operate its systems properly, and/or to protect itself and its users.
 
-We reserve the right to sell the database of our subscribers (including personal data relating to you) to a third party if we sell, assign or transfer the assets of our company.
+We reserve the right to sell the database of our subscribers (including personal data relating to you) to a third party if we sell, assign or transfer assets of our company.
 
 Please note that we may need to export personal data outside the European Economic Area, but where we will do this we will ensure that data subjects are offered similar data protection to the regime operating in the United Kingdom.
 
@@ -74,10 +74,9 @@ Should you feel that your privacy or security is being compromised, or have any 
 
 Company Secretary  
 Hemscott Group Limited  
-2nd Floor Finsbury Tower  
-103 - 105 Bunhill Row  
+1st Floor Castle House  
+37 - 45 Paul Street  
 London  
-EC1Y 8TY  
-Tel: 020 7496 0055  
-Fax: 020 7847 1719  
+EC2A 4LS  
+Tel: 020 7763 8200  
 [dataprotection@hemscott.co.uk](mailto:dataprotection@hemscott.co.uk)
