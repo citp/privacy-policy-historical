@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the mercycorps.org privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228062841id_/http%3A//www.mercycorps.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercycorps.org privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612223038id_/http%3A//www.mercycorps.org/privacy) for the most accurate reproduction.*
 
 # Mercy Corps > About Us > Overview > Privacy Policy
 
-|   
----|---  
-  
 Our goal at Mercy Corps is to extend trust and respect to you. We are committed to respecting the privacy rights of all donors and visitors to our website. The following information details Mercy Corps' collection, protection, and use of the data we receive from donors and visitors to this website.
 
 **Email Updates**
@@ -30,6 +27,3 @@ In order to increase our base of support and keep our costs low, Mercy Corps som
 **Contact Mercy Corps**
 
 Thank you for your interest in Mercy Corps and our privacy policy. If you would like more information about the options discussed herein or simply have questions, please feel free to contact us via email at donorservices@mercycorps.org, or speak to a Donor Services Representative at 800.292.3355 x 250.
-
-  
-
