@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the siliconinvestor.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205215253id_/http%3A//www.siliconinvestor.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siliconinvestor.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612212429id_/http%3A//www.siliconinvestor.com/privacy.aspx) for the most accurate reproduction.*
 
 # SI - privacy.aspx
 
-Privacy Policy | [Terms of Use](https://web.archive.org/web/20061205215253id_/http%3A//www.siliconinvestor.com/terms.aspx)   
+Privacy Policy | [Terms of Use](https://web.archive.org/web/20070612212429id_/http%3A//www.siliconinvestor.com/terms.aspx)   
   
   
 Silicon Investor is strongly committed to protecting the privacy of its user community.   
@@ -39,4 +39,6 @@ In response to concerns about protecting children's privacy online, Congress ena
 Questions regarding children's privacy should be directed to: 
 
 **Disclosure**  
-Silicon Investor reserves the right to access and disclose individually identifiable information to comply with applicable laws and lawful government requests, to operate its systems properly or to protect itself or its users. Where practical, Silicon Investor will attempt to obtain the prior consent of the individual prior to disclosing individually identifiable information. As mentioned above, we reserve the right to share aggregated "site usage" information with third parties.
+Silicon Investor reserves the right to access and disclose individually identifiable information to comply with applicable laws and lawful government requests, to operate its systems properly or to protect itself or its users. Where practical, Silicon Investor will attempt to obtain the prior consent of the individual prior to disclosing individually identifiable information. As mentioned above, we reserve the right to share aggregated "site usage" information with third parties.  
+  
+Copyright © 2007 InvestorsHub.com, Inc.. All rights reserved.
