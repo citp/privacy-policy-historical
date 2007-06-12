@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastweb.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017071153id_/http%3A//www.fastweb.com/fastweb/about/privacy%3Fid%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastweb.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612030759id_/http%3A//www.fastweb.com/fastweb/about/privacy) for the most accurate reproduction.*
 
 # FastWeb: Privacy Policy — Your Privacy Rights
 
@@ -22,7 +22,7 @@ Password: |
 |  |   
 | 
 
-[](https://web.archive.org/printer/about/privacy?id=)
+[](https://web.archive.org/printer/about/privacy)
 
   
 
@@ -42,7 +42,7 @@ _How to Contact Us_ \--If you have questions or concerns regarding this Privacy 
 
     Privacy at FastWeb 
     FastWeb, LLC 
-    444 North Michigan Avenue, Suite 3100 
+    444 North Michigan Avenue, Suite 3000 
     Chicago, Illinois 60611 
 
     Telephone: 1-800-FASTWEB (1-800-327-8932) 
