@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wayport.net privacy policy that was archived on 2006-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061119073116id_/http%3A//wayport.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wayport.net privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613015511id_/http%3A//www.wayport.net/Privacy.aspx) for the most accurate reproduction.*
 
-# Wayport Privacy Policy
-
-### WAYPORT PRIVACY POLICY
+# Wayport
 
 **Our Commitment to Your Privacy**
 
@@ -10,10 +8,8 @@ Wayport wants to make your online experience enjoyable while respecting your pri
 
 **Types of Information Gathered and How it is Used**
 
-  1. **Anonymous Data:** During a user's Wayport session, various technical data is collected through our network monitoring software which does not reveal any personal information about a particular customer. We also count, track and aggregate a customer's network activity into our analysis of general traffic flows on our network. From this information we can determine how many people used our service at a particular location on a particular day, for how long, etc. Many individuals who utilize our service choose not to provide us with optional personal information and thus remain anonymous to us. 
+  1. **Anonymous Data:** During a user's Wayport session, various technical data is collected through our network monitoring software which does not reveal any personal information about a particular customer. We also count, track and aggregate a customer's network activity into our analysis of general traffic flows on our network. From this information we can determine how many people used our service at a particular location on a particular day, for how long, etc. Many individuals who utilize our service choose not to provide us with optional personal information and thus remain anonymous to us.
   2. **Personal Information:** This information includes facts which personally identify a customer such as your name, postal address, email address, preferences, etc. The extent of the information provided is up to the particular person and you always have the option not to provide any personal information. The personal information we collect from you is used to provide you with updates about our services and locations and special events and services offered by the hotel. If necessary, a customer's contact information is also used to contact the visitor when necessary. We treat the information you provide to us as confidential information; accordingly it is subject to our company's security procedures regarding protection and use of confidential information. Information is generally processed and stored in the United States, in which data protection laws are not as comprehensive as in the European Union. Wayport does not provide a user's personal information to any third party.
-
-
 
 Currently, all information is gathered by Wayport's employees and maintained internally.
 
@@ -25,7 +21,7 @@ In the case where you received a special promotion due to the involvement of a t
 
 **Links to Other Sites / Co-Branded Sites**
 
-This site contains links to other sites which provide local information about a particular city or hotel. Wayport is not responsible for the privacy practices or the content of any such Web site. 
+This site contains links to other sites which provide local information about a particular city or hotel. Wayport is not responsible for the privacy practices or the content of any such Web site.
 
 Wayport often participates in co-branding of hotel websites for which Wayport provides network connectivity services. These co-branded websites inform visitors that the particular hotel offers fast Internet connectivity powered by Wayport and provides a link to Wayport's website.
 
@@ -39,7 +35,7 @@ Wayport does record the MAC (Media Access Controller) address from the network c
 
 **Security Measures to Protect Your Privacy**
 
-This site has security measures in place to protect against the loss, misuse or alteration of the information under our control. We have put into place protections to ensure that a guest in another room or hotel staff members cannot intercept, view or otherwise 'sniff' your information. However, once your information leaves the premises where you are accessing this data, it is only as secure as the Internet at large. We encourage you to take whatever measures you deem appropriate to secure your data as it transits the Internet. 
+This site has security measures in place to protect against the loss, misuse or alteration of the information under our control. We have put into place protections to ensure that a guest in another room or hotel staff members cannot intercept, view or otherwise 'sniff' your information. However, once your information leaves the premises where you are accessing this data, it is only as secure as the Internet at large. We encourage you to take whatever measures you deem appropriate to secure your data as it transits the Internet.
 
 You can be assured that when you are browsing a secure site (you can tell by a closed lock icon in the lower lefthand corner of your Netscape browser or on the lower righthand side of your Internet Explorer browser) your data will remain still secure. Nothing in the Wayport system will thwart such built-in security of other sites.
 
@@ -47,13 +43,13 @@ For a secure connection to your company's LAN, you should follow whatever polici
 
 **Corrections/Updates to Personal Information**
 
-If at any time you would like to submit updates or changes to your personal information, or request that we delete such information from our records please send an email with your request to [subscriptions@wayport.net](mailto:subscriptions@wayport.net). Should you decide to opt-out of receiving communications from 3rd parties you should contact that 3rd party directly. Wayport is not responsible for removing information from the list of any 3rd party with whom you may have authorized us to share your information.
+If at any time you would like to submit updates or changes to your personal information, or request that we delete such information from our records please send an email with your request to [subscriptions@wayport.net](mailto:subscriptions@wayport.net). Should you decide to opt-out of receiving communications from 3rd parties you should contact that 3rd party directly. Wayport is not responsible for removing information from the list of any 3rd party with whom you may have authorized us to share your information.
 
 Wayport may change or modify its privacy policy from time to time. Please check Wayport's home page for a link to the most current privacy policy.
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact:
 
-**Wayport, Inc.**  
+**Wayport, Inc.**   
 4509 Freidrich Lane Building III Suite 300  
 Austin, Texas 78744  
 [webmaster@wayport.net](mailto:webmaster@wayport.net)
