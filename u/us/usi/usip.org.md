@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usip.org privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231053554id_/http%3A//www.usip.org/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usip.org privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612194429id_/http%3A//www.usip.org/aboutus/privacy.html) for the most accurate reproduction.*
 
 # About USIP: Privacy Policy: United States Institute of Peace
 
@@ -22,7 +22,7 @@ The date and time you access our site; how long you remained on our site; the do
 Our site **does not** use persistent cookies, which are small files that are stored on a user's hard drive and used to monitor web browsing activity. Instead, USIP automatically creates session cookies when you access our Web site that are automatically deleted once you close your browser window. Session cookies do not collect information from a user's hard drive, rather, they collect and store information in the form of a session.
 
 **Links to Other Web sites**  
-Documents posted on this Web site may contain hypertext links or pointers to information created and maintained by other public and private organizations. These links and pointers are provided for visitors' convenience. A user is subject to that site's privacy policy upon leaving USIP's Web site.
+Documents posted on this Web site may contain hypertext links or pointers to information created and maintained by other public and private organizations. These links and pointers are provided for visitors' convenience. A user is subject to that site's privacy policy upon leaving USIP's Web site. USIP does not endorse the content on Web sites that it has linked to. These links are provided purely for reference purposes. 
 
 ## About USIP
 
