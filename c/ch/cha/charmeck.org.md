@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the charmeck.org privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618192942id_/http%3A//www.charmeck.org/Site-Info/Legal%2BInformation/Privacy%2BNotice.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charmeck.org privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613004858id_/http%3A//www.charmeck.org/Site-Info/Legal%2BInformation/Privacy%2BNotice.htm) for the most accurate reproduction.*
 
 # Privacy Notice
 
 **Purpose  
 ** This policy describes privacy practices regarding information collected from the City of Charlotte / Mecklenburg County web site.  It contains information about what data are collected and how that information is used.  This policy may be updated periodically, so please check back from time to time.
 
-This policy applies only to the official City of Charlotte Mecklenburg County web site (charmeck.org).  When you follow a link to another web site, even the site of another governmental agency, you are subject to the privacy policy of that site.  You should check the privacy policies of each of these sites if you have questions about how they handle personally identifiable information.
+This policy applies only to the official City of Charlotte and Mecklenburg County web site (charmeck.org).  When you follow a link to another web site, even the site of another governmental agency, you are subject to the privacy policy of that site.  You should check the privacy policies of each of these sites if you have questions about how they handle personally identifiable information.
 
-Automatic Collection of Certain Information  
+**Automatic Collection of Certain Information**  
 No personally identifiable information is collected from visitors who simply browse this site or who download information from it.  While our web servers maintain logs of user activity to help us manage the web site, information stored in these logs does not identify you personally.  The logs store things such the domain name and IP address from which you access our site, the type of browser and operating system you used, the date and time you accessed our site, the pages visited and the address of the site that you linked to us from (if you linked to our web site from another web site).
 
 We use this information to learn how many visitors we have, where they are coming from, which parts of our web site are of most interest to visitors, and other facts that will help us improve the web site and the services we offer.
@@ -20,8 +20,8 @@ If you use this web site for electronic commerce, we may collect, process and di
 **Privacy of Email Lists  
 ** The City and County maintain e-mail lists, but only of those individuals or organizations that have specifically opted to receive updates and other information from the City or County. These lists include members of the media and interested members of the general public who have specifically requested to be kept informed about the City or County affairs.  Under current North Carolina law, these email lists are public records and we must provide them to anyone who makes a public records request, except to the extent they contain public enterprise billing information or other information protected from disclosure by law.  
 .  
-Length of Time Data Will Be Stored / How to Unsubscribe:  
-Unless you request that we delete any of the information you submitted when you registered for any electronic updates and/or newsletters we may offer, we may store such information indefinitely. You can  "unsubscribe" to any newsletters, notices, schedules, etc., sent to you automatically by e-mail in one of the following ways:
+ **Length of Time Data Will Be Stored / How to Unsubscribe:  
+** Unless you request that we delete any of the information you submitted when you registered for any electronic updates and/or newsletters we may offer, we may store such information indefinitely. You can  "unsubscribe" to any newsletters, notices, schedules, etc., sent to you automatically by e-mail in one of the following ways:
 
 " Each e-mail sent to you provides an automatic way to unsubscribe to a mailing list;  
 " You can unsubscribe on the same web page that you used to subscribe; or  
