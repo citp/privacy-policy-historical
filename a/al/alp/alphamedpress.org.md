@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alphamedpress.org privacy policy that was archived on 2006-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061010043316id_/http%3A//www.alphamedpress.org/misc/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alphamedpress.org privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612175443id_/http%3A//www.alphamedpress.org/misc/privacypolicy.shtml) for the most accurate reproduction.*
 
 # AlphaMed Press -- Privacy Policy
 
@@ -53,7 +53,7 @@ Last updated: December 23, 2005
  **REFUND/RETURN POLICY**
 
 **Subscription Satisfaction Guarantee**  
-If you are not happy with your subscription and wish to cancel, we will issue a full refund of your money. If there is an error in the processing of your subscription order, we will issue a refund to your credit card as soon as possible.
+If you are dissatisfied, notify the publisher within 90 days, and a full refund will be provided.
 
 **Books**  
 For book purchases, you may receive a full refund on the book purchase price within 30 days of delivery. You will be responsible for the return shipping costs. For returns, please contact:
@@ -66,4 +66,4 @@ Telephone: 919-680-0011
 
 * * *
 
-**[Copyright © 2006 by AlphaMed Press.](https://web.archive.org/misc/terms.shtml)**
+**[Copyright © 2007 by AlphaMed Press.](https://web.archive.org/misc/terms.shtml)**
