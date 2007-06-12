@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the uneasysilence.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216060901id_/http%3A//www.uneasysilence.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uneasysilence.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612200933id_/http%3A//www.uneasysilence.com/privacy-policy) for the most accurate reproduction.*
 
-# UNEASYsilence » Privacy Policy
+# Privacy Policy
 
-Posted by Dan 11 months ago 
+  
+
 
 ### What information do you collect from me?
 
