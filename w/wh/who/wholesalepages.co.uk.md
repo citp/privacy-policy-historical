@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wholesalepages.co.uk privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207213947id_/http%3A//www.wholesalepages.co.uk/privacy/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesalepages.co.uk privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612034926id_/http%3A//www.wholesalepages.co.uk/privacy/privacy.php) for the most accurate reproduction.*
 
 # UK Wholesale - UK Wholesalers Directory: Privacy Policy
 
