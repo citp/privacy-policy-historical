@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the harrispollonline.com privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224192950id_/http%3A//www.harrispollonline.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrispollonline.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612020739id_/http%3A//www.harrispollonline.com/privacy.asp) for the most accurate reproduction.*
 
 # Harris Poll Online - Privacy Policy
 
 **Harris Interactive Privacy Policy**
 
-[](http://www.truste.org/ivalidate.php?companyName=Harrisinteractive.com&sealid=102)Harris Interactive is a licensee of the TRUSTe Privacy Program. Harris Interactive and its subsidiaries, abide by the principles set forth in the Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. Information about the U.S. Department of Commerce Safe Harbor certification can be found at [www.export.gov/safeharbor](http://www.export.gov/safeharbor).
+[](http://www.truste.org/ivalidate.php?companyName=Harrisinteractive.com&sealid=102)
+
+Harris Interactive is a licensee of the TRUSTe Privacy Program. Harris Interactive and its subsidiaries, abide by the principles set forth in the Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. Information about the U.S. Department of Commerce Safe Harbor certification can be found at [www.export.gov/safeharbor](http://www.export.gov/safeharbor).
 
 Harris Interactive strives to conform to the Council of American Survey Research Organizations (CASRO) Code of Standards and Ethics for Survey Research, the European Society of Opinion and Marketing Research (ESOMAR) Codes and Guidelines for Survey Research, the European Commission Directive on Data Protection, SNYTEC in France, the French law on "Informatique et Libertés", CNIL, the American Association for Public Opinion Research (AAPOR) Code of Professional Ethics and Practices, the Federal Trade Commission (FTC) Fair Information Practice Principles, the FTC’s Children’s Online Privacy Protection Act (COPPA) Final Rule, the Children’s Advertising Review Unit (CARU) Guidelines for Advertising on the Internet and Online Services, the Health Insurance Portability and Accountability Act (HIPAA), the Graham-Leach Bliley Act (GLB), the CAN-SPAM Act, and other privacy regulations and guidelines in the U.S. and abroad.
 
@@ -103,13 +105,11 @@ Though we make every effort to preserve user privacy, we may need to disclose pe
 
 **Passively Collected and Stored Information - Cookies and Log Files**
 
-We passively collect information to make your browsing experience more pleasant, and to understand what areas of our sites are more popular, what areas may require improvement, and what technologies are being used by members of our sites. This information helps us to update and improve our sites. We also use this information for security purposes, to detect and to block security breaches, to detect violations of our quality standards, for example, detecting multiple memberships from the same user which is not permitted by our terms of use, and to provide you with a safe online environment.
+We passively collect information to make your browsing experience more pleasant, and to understand what areas of our sites are more popular, what areas may require improvement, and what technologies are being used by members of our sites. This information helps us to update and improve our sites. We also use this information for security purposes, to detect and to block security breaches, to detect violations of our quality standards, for example, detecting multiple memberships from the same user which is not permitted by the [ Harris Poll Online Terms Of Use](https://web.archive.org/AdultReg.asp?lang=1), and to provide you with a safe online environment.
 
 Cookies are small text files stored on your computer by a website that assigns a numerical user ID and stores certain information about your online browsing. When we use cookies, we do so to help us recognize you as a prior user of this site. The cookie file does not store your personal information. If you prefer not to receive cookies from our website you can disable their use in your browser settings. By doing so you may reduce the functionality of the web pages you view.
 
 As is true of most websites, we gather certain information automatically and store it in log files. This information includes Internet Protocol addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp and click stream data.
-
-We use this information, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.
 
 **4) Accessing the Information You Provided**
 
@@ -121,7 +121,7 @@ Visit the [Harris Poll Online](http://www.harrispollonline.com/) website, log in
 
 **Survey Help Desk**  
 Harris Interactive Inc.  
-135 Corporate Woods  
+60 Corporate Woods  
 Rochester, NY 14623-1457 USA
 
 Online Survey Help: [surveyhelp.harrispollonline.com](http://surveyhelp.harrispollonline.com/)
@@ -170,7 +170,7 @@ If you are a panel member and have questions or comments about this privacy stat
 
 **Survey Help Desk**  
 Harris Interactive Inc.  
-135 Corporate Woods  
+60 Corporate Woods  
 Rochester, NY 14623-1457 USA
 
 Online Survey Help: [surveyhelp.harrispollonline.com](http://surveyhelp.harrispollonline.com/)
