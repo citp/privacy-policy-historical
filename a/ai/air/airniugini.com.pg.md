@@ -1,21 +1,36 @@
-> *The following text is extracted and transformed from the airniugini.com.pg privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217181632id_/http%3A//airniugini.com.pg/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D5%26Itemid%3D56) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airniugini.com.pg privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612112347id_/http%3A//www.airniugini.com.pg/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D5%26Itemid%3D70) for the most accurate reproduction.*
 
-# Air Niugini Limited - Air Niugini Privacy Statement
+# Air Niugini Limited - Air Niugini Privacy & Security of Information Statement
 
-| 
-
-  
-  
-  
----  
-|  |  |   |   
+|  |   |   
 ---|---|---  
   | 
 
-[Home](http://www.airniugini.com.pg/index.php) Privacy Policy 
+[Home](http://www.airniugini.com.pg/index.php) Privacy & Security Policy 
 
-|  Air Niugini Privacy Statement  |  [ ](http://www.airniugini.com.pg/index2.php?option=com_content&do_pdf=1&id=5 "PDF") |  [ ](http://www.airniugini.com.pg/index2.php?option=com_content&task=view&id=5&pop=1&page=0&Itemid=56 "Print") |  [ ](http://www.airniugini.com.pg/index2.php?option=com_content&task=emailform&id=5&itemid=56 "E-mail")  
----|---|---|---  
+  
+|  |   
+**Book online HERE**  
+---  
+[Click here to search for multiple or connection flights](http://bookings.airniugini.com.pg/itd/itd/ComplexAir)  
+From: |   
+To:  |   
+Depart:  |  |  One way   
+Return:  |  |  Return   
+Class:  |  | Preferred Currency:   
+Adults: |  | Children   
+(2-11): |  | Infant   
+(under 2): |   
+|   
+  
+For bookings with more than eight passengers, infants, or complex itineraries please contact your nearest [Air Niugini Sales Office](https://web.archive.org/index.php?option=com_contact&catid=69&Itemid=3) or Travel Agent. 
+
+**_Note_** : The following international locations; **Fiji (Nadi), Honiara, Hong Kong and Manila** , are currently not available for online booking. Please consult your nearest [Air Niugini Sales Office](https://web.archive.org/index.php?option=com_contact&catid=69&Itemid=3) or Travel agent for bookings to/from these locations.   
+**Narita (Tokyo, Japan)** is available now for online booking. 
+
+[Click here](http://bookings.airniugini.com.pg/itd/itd/Profile) to go to your online booking profile. 
+
+  |   
   
   * Introduction
   * What information do we collect?
@@ -32,26 +47,20 @@
 
 
 
-Back to Top
-
 ### Introduction
 
 > From 21 December 2001, Air Niugini Ltd and its related companies (collectively referred to as "we", "us" and "Air Niugini") will be subject to the National Privacy Principles under the Privacy Act 1988 (Cth) (as amended by the Privacy Amendment (Private Sector) Act 2000 (Cth)).This Privacy Statement explains in general terms how Air Niugini protects the privacy of your personal information under the National Privacy Principles. It will apply to any personal information you provide to us:
 > 
->   * when making a booking with us, checking-in for a flight or lodging freight;
->   * under any other agreement or arrangement
+>     * when making a booking with us, checking-in for a flight or lodging freight;
+>     * under any other agreement or arrangement
 > 
 
 
 > This Privacy Statement will also apply to any information about you that is provided to us by someone else such as a travel agent. This Privacy Statement does not apply to Air Niugini employee records, which are generally exempt from the legislation.
 
-Back to Top
-
 ### What information do we collect?
 
 > The types of personal information that we collect from you will depend on the circumstances of collection and on the type of service you request from us. For example, when you request us to make your travel arrangements, we may collect details such as your name, address, flight and other travel details, credit/debit card number and expiry date, billing address, telephone numbers, Executive Club number or other loyalty program membership details, dietary requirements (if any) and health issues relevant to your travel arrangements. As we are required by law to obtain your consent to the collection of "sensitive information" we will assume that you have consented to the collection of all information, which is provided to us for use in accordance with this Statement, unless you tell us otherwise.
-
-Back to Top
 
 ### How we collect information
 
@@ -59,14 +68,12 @@ Back to Top
 > 
 >   * from people making travel or freight bookings on your behalf;
 >   * from third party telesales companies that collect your personal information and disclose it to us so that we may issue you with your ticket and make and fulfil your travel arrangements or market our products and services to you; 
->   * other service providers who collect information on our behalf such as operators of our Executive Club programme and corporate travel functions; 
+>   * other service providers who collect information on our behalf such as operators of our online booking engine, our Executive Club programme and corporate travel functions; 
 >   * from market research companies contracted by us to obtain information so that we may improve and market our products and services; 
 >   * from third party service providers and Executive Club Partners that collect your personal information when providing you with a service and disclose it to us so that we may award you with Executive Club membership entitlements; 
 >   * from other organisations that issue an Air Niugini Air Waybill on our behalf for the carriage of your freight.
 > 
 
-
-Back to Top
 
 ### How we use your personal information
 
@@ -78,8 +85,6 @@ Back to Top
 
 > some of the personal information we collect is essential for us to be able to accurately identify who is using the service. Other types of personal information we collect help us to profile who is using our services and what their interests are.
 
-Back to Top
-
 
 
 
@@ -89,16 +94,14 @@ Back to Top
 > 
 >     * provide email and mail handling services;
 >     * provide electronic funds transfer services, credit card account processing and related services;
->     * operate call centres; 
+>     * operate call centres;
 >     * operate some corporate travel sales and fulfilment functions;
 >     * conduct market research;
 >     * provide catering services;
->     * provide ground handling services, such as check-in agents, freight handling and special assistance; 
+>     * provide ground handling services, such as check-in agents, freight handling and special assistance;
 >     * assist with obtaining payment from creditors;
 > 
 > In these situations, we prohibit the third party contractor from using personal information about you except for the specific purpose for which we supply it. Other than the above, we will not disclose your personal information without your consent unless disclosure is either necessary to prevent a threat to life or health, authorised or required by law, reasonably necessary to enforce the law or necessary to investigate a suspected unlawful activity.
-
-Back to Top
 
 
 
@@ -111,16 +114,12 @@ Back to Top
 > 
 > Your request to provide access to this information will be dealt with in a reasonable time. If we refuse to provide you with access to the information, we will provide you with reasons for the refusal and inform you of any exceptions relied upon under the National Privacy Principles. In light of the new legislation we are putting in place systems and procedures to facilitate access to all information we hold about you on request. For information which we collected prior to 21 December 2001, we may not be able to provide you with access to this information where to do so would place an unreasonable administrative burden on us or cause us unreasonable expense.
 
-Back to Top
-
 
 
 
 ### Keeping your personal information up-to-date
 
 > We take reasonable steps to ensure that your personal information is accurate, complete, and up-to-date whenever we collect or use it. If the personal information we hold about you is inaccurate, incomplete or out-of-date, please contact us and we will take reasonable steps to either correct this information, or if necessary, discuss alternative action with you.
-
-Back to Top
 
 
 
@@ -134,8 +133,6 @@ Back to Top
 >     * airlines, hotels and other travel and freight service providers.
 > 
 > In most cases the transfer will be necessary for the performance of our contract with you or for the implementation of pre-contractual measures taken in response to a request by you or for the performance of a contract with a third party which is concluded in your interests. Please let us know if you have any objections to such transfers.
-
-Back to Top
 
 
 
@@ -154,16 +151,12 @@ Back to Top
 > 
 > Executive Club program members can update their profile information by contacting their nearest Air Niugini Travel Centre.
 
-Back to Top
-
 
 
 
 ### Resolving your concerns
 
 > If you wish to gain access to your personal information, have a complaint about a breach of your privacy or you have any query on how your personal information is collected or used please forward your request, complaint or query to the address below. We will respond to your query or complaint as soon as possible.
-
-Back to Top
 
 
 
@@ -172,14 +165,12 @@ Back to Top
 
 > We may amend this Privacy Statement as our business requirements or the law changes. Any changes to this Privacy Statement will be updated on our website, so please visit -- [airniugini.com.pg](http://www.airniugini.com.pg/) \-- periodically to ensure that you have our most current privacy statement. 
 
-Back to Top
-
 
 
 
 ### Our contact details - passenger & freight enquiries
 
-|  | Air Niugini Ltd|  | P.O.Box 7186, Boroko  
+ | Air Niugini Ltd|  | P.O.Box 7186, Boroko  
 ---|---|---|---  
  | Air Niugini House|  | Port Moresby, National Capital District   
  | Jackson's Airport| 
@@ -191,16 +182,10 @@ Or
  | Papua New Guinea|  | Fax: +675 327 3550  
  | [mailto:ang[@]airniugini.com.pg](mailto:ang\[@\]airniugini.com.pg)  
   
-Back to Top
 
 
-  
-Last Updated ( Wednesday, 26 July 2006 )   
- 
 
-[ Back ] 
-
-   
+     
 |   |   
   
 |  Main Menu   
@@ -217,8 +202,19 @@ Last Updated ( Wednesday, 26 July 2006 )
 [Schedules & Fares](http://www.airniugini.com.pg/index.php?option=com_content&task=section&id=8&Itemid=50)  
 [ Air Freight / Cargo](http://www.airniugini.com.pg/index.php?option=com_content&task=category&sectionid=5&id=14&Itemid=51)  
 [Flight Information](http://www.airniugini.com.pg/index.php?option=com_content&task=section&id=9&Itemid=53)  
-[Site Map](http://www.airniugini.com.pg/index.php?option=com_content&task=view&id=182&Itemid=60)  
   
 [PNG Tourism](http://www.pngtourism.org.pg/)  
 ---  
-[Japanese Site](http://www.air-niugini.co.jp/)
+[Japanese Site](http://www.air-niugini.co.jp/)  
+  
+eCommerce Menu   
+---  
+| [eCommerce Support](http://www.airniugini.com.pg/index.php?option=com_content&task=view&id=182&Itemid=69)  
+---  
+[Privacy & Security Policy](http://www.airniugini.com.pg/index.php?option=com_content&task=view&id=5&Itemid=70)  
+[Terms and Conditions of Carriage](http://www.airniugini.com.pg/index.php?option=com_content&task=view&id=183&Itemid=68)  
+[Refund Policy](http://www.airniugini.com.pg/index.php?option=com_content&task=view&id=186&Itemid=65)  
+[Credit Cards/Currencies](http://www.airniugini.com.pg/index.php?option=com_content&task=view&id=184&Itemid=67)  
+[Technical Requirements](http://www.airniugini.com.pg/index.php?option=com_content&task=view&id=185&Itemid=66)  
+[Online Bookings (FAQ's)](http://www.airniugini.com.pg/index.php?option=com_content&task=category&sectionid=3&id=84&Itemid=71)  
+[eCommerce Partners](http://www.airniugini.com.pg/index.php?option=com_content&task=view&id=251&Itemid=72)
