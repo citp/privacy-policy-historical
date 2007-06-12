@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the annieselke.com privacy policy that was archived on 2006-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060719202422id_/http%3A//www.annieselke.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the annieselke.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612022649id_/http%3A//www.annieselke.com/privacypolicy.htm) for the most accurate reproduction.*
 
-# Annie Selke
+# Annie Selke: Privacy Policy
 
 By visiting [annieselke.com](http://www.annieselke.com/)™ and using The Annie Selke Companies™ application, you accept the practices as described in the following Privacy Notice. 
 
