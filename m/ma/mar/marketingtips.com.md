@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingtips.com privacy policy that was archived on 2006-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061223023711id_/http%3A//www.marketingtips.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingtips.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612050757id_/http%3A//www.marketingtips.com/privacy.html) for the most accurate reproduction.*
 
 # Internet Marketing Center, Derek Gehl, Insiders Secrets to Marketing your Business the Internet, Privacy
 
