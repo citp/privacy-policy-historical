@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opticsinfobase.org privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213030540id_/http%3A//www.opticsinfobase.org/include/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opticsinfobase.org privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612071200id_/http%3A//www.opticsinfobase.org/include/privacy.cfm) for the most accurate reproduction.*
 
 # Optics InfoBase
 
