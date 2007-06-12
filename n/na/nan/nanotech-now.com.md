@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nanotech-now.com privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114214655id_/http%3A//www.nanotech-now.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nanotech-now.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612040345id_/http%3A//www.nanotech-now.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,11 +8,11 @@
 [ ](https://web.archive.org/current-months-news.htm)  
 [ ](https://web.archive.org/current-months-press.htm)  
 [ ](https://web.archive.org/submit-press.cgi)  
+[ ](https://web.archive.org/columns/)  
 [ ](https://web.archive.org/products/)  
 [ ](https://web.archive.org/cb/nanotech-now/)  
 [ ](https://web.archive.org/Press_Kit/)  
-[ ](https://web.archive.org/events-2006.htm)  
-[ ](https://web.archive.org/columns/)  
+[ ](https://web.archive.org/events-2007.htm)  
 [ ](https://web.archive.org/interviews.htm)  
 [ ](https://web.archive.org/best_of.htm)  
 [ ](http://nanotech-now.tinytechjobs.com/)  
@@ -20,12 +20,23 @@
 [ ](https://web.archive.org/about_us.htm)  
 [ ](https://web.archive.org/advertise.htm)  
 [ ](https://web.archive.org/accounts/)  
-  
+**Our NanoNews Digest Sponsors **
+
+[](https://web.archive.org/banners/track.pl?banner_id=100)
+
+[](https://web.archive.org/banners/track.pl?banner_id=102)
+
+[](https://web.archive.org/banners/track.pl?banner_id=99)
+
 [](https://web.archive.org/banners/track.pl?banner_id=47)
+
+********
 
 [](https://web.archive.org/banners/track.pl?banner_id=81)
 
-[Home](https://web.archive.org/web/20061114214655id_/http%3A//www.nanotech-now.com/) > Privacy
+****
+
+[Home](https://web.archive.org/web/20070612040345id_/http%3A//www.nanotech-now.com/) > Privacy
 
 **Privacy Notice:**
 
@@ -52,6 +63,8 @@ We use these summary statistics to help us make our site more useful to visitors
 [](https://web.archive.org/products/newsdigest/)  
 |  The latest news from around the world, FREE    
 |   
+  
+[](https://web.archive.org/banners/track.pl?banner_id=103)  
 ---  
 **   Premium Products**  
 [](https://web.archive.org/products/nanonewscustom/)  
