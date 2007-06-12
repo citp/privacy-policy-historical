@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campaignmonitor.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230082509id_/http%3A//www.campaignmonitor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campaignmonitor.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612055107id_/http%3A//campaignmonitor.com/privacy) for the most accurate reproduction.*
 
 # The Campaign Monitor Privacy Policy
 
@@ -14,7 +14,7 @@ Your email address is used to only send you information that you have requested.
 
 ### Subscriber Lists, Campaign Content and Campaign Reports
 
-Campaign Monitor ensures that all subscriber lists, email content and reports remain private and confidential. Campaign Monitor may scan the content of your campaigns to ensure it complies with our [Terms of Use](https://web.archive.org/web/20061230082509id_/http://campaignmonitor.com/terms/) — to protect against defamatory, inaccurate, abusive, obscene, profane, or threatening material that is racially or ethnically offensive. Campaign Monitor will not sell, rent, loan or invite external access to a customer's contact lists. Nor will Campaign Monitor themselves use customer's contact lists for any purpose.
+Campaign Monitor ensures that all subscriber lists, email content and reports remain private and confidential. Campaign Monitor may scan the content of your campaigns to ensure it complies with our [Terms of Use](https://web.archive.org/web/20070612055107id_/http://www.campaignmonitor.com/terms/) — to protect against defamatory, inaccurate, abusive, obscene, profane, or threatening material that is racially or ethnically offensive. Campaign Monitor will not sell, rent, loan or invite external access to a customer's contact lists. Nor will Campaign Monitor themselves use customer's contact lists for any purpose.
 
 ### Communications from the Site
 
@@ -48,10 +48,19 @@ We may change this Privacy Policy from time to time. If/when Campaign Monitor ma
 
 ### Contacting Campaign Monitor about Privacy
 
-If you have any questions about our privacy statement, the information we have collected from you online, the practices of this site, or your dealings with this web site, please contact:
+If you have any questions about our privacy statement, the information we have collected from you online, the practices of this site, or your dealings with this web site, please contact us:
 
-**Campaign Monitor**  
-9/1 Pitt Street  
-Loftus NSW 2232  
-Sydney, Australia  
+**Postal Address**  
+Campaign Monitor  
+201-3/5 Stapleton Ave  
+Sutherland NSW 2232  
+Sydney, Australia
+
+**Telephone**  
++61 2 9521 5312
+
+**Fax**  
++61 2 9521 5316
+
+**Email**  
 [info@campaignmonitor.com](mailto:info@campaignmonitor.com)
