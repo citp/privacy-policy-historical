@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the architectureweek.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019013444id_/http%3A//www.architectureweek.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architectureweek.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612063740id_/http%3A//www.architectureweek.com/privacy.html) for the most accurate reproduction.*
 
 # ArchitectureWeek Privacy Statement
 
@@ -73,65 +73,47 @@ Kevin Matthews Editor in Chief, ArchitectureWeek Artifice, Inc. PO Box 1588 Euge
 
 [**Daily Architecture Headlines**](http://www.architectureweek.com/headlines.html) — Updated every day at ArchitectureWeek 
 
-[**Acropolis Museum to Boost Bid for Parthenon Sculptures**](http://www.architectureweek.com/cgi-bin/wllk?http://www.mytelus.com/travel/article.do?pageID=home&articleID=2411617) — MyTelus, 2006.1011 
+[**Two Chinese Sites Listed on Fund Watch List**](http://www.architectureweek.com/cgi-bin/wllk?http://www.chinadaily.com.cn/china/2007-06/07/content_888690.htm) — China Daily, 2007.0607 
 
-[**New Gehry Design in Spain Opens**](http://www.architectureweek.com/cgi-bin/wllk?http://www.calendarlive.com/galleriesandmuseums/cl-et-quick11.2oct11,0,4941870.story?coll=cl-art-features) — Los Angeles Times, 2006.1011 
+[**Wall Collapses on Staten Island in Concrete Avalanche**](http://www.architectureweek.com/cgi-bin/wllk?http://www.nytimes.com/2007/06/06/nyregion/06wall.html) — New York Times, 2007.0606 
 
-[**Aircraft Crashes Into NYC Building**](http://www.architectureweek.com/cgi-bin/wllk?http://www.msnbc.msn.com/id/15223650/#storyContinued) — MSNBC, 2006.1011 
+[**Genentech Plant Wins Facility of the Year Award**](http://www.architectureweek.com/cgi-bin/wllk?http://www.pharmpro.com/ShowPR.aspx?PUBCODE=021&ACCT=0000100&ISSUE=0706&RELTYPE=ATO&PRODCODE=0000&PRODLETT=N&CommonCount=0) — Pharmaceutical Processing, 2007.0605 
 
-[**Aircraft Crashes Into Manhattan High-Rise**](http://www.architectureweek.com/cgi-bin/wllk?http://www.cnn.com/2006/US/10/11/plane.crash/index.html) — CNN, 2006.1011 
+[**ASLA Announces 2007 Honors**](http://www.architectureweek.com/cgi-bin/wllk?http://www.asla.org/press/2007/release_07medals.html) — American Society of Landscape Architects press release, 2007.0605 
 
-[**Tall Tower Rises from Pier Ashes**](http://www.architectureweek.com/cgi-bin/wllk?http://news.bbc.co.uk/1/hi/england/southern_counties/6039722.stm) — BBC, 2006.1011 
+[**All Eyes on the Grand Prize**](http://www.architectureweek.com/cgi-bin/wllk?http://property.timesonline.co.uk/tol/life_and_style/property/interiors/article1864671.ece) — The Times (London), 2007.0603 
 
-[**2006 Mississauga Urban Design Award**](http://www.architectureweek.com/cgi-bin/wllk?http://www.newswire.ca/en/releases/archive/October2006/11/c7031.html) — Mississauga Press Release, 2006.1011 
+[**GSA Hosts Courthouse Design Forum**](http://www.architectureweek.com/cgi-bin/wllk?http://prnewswire.com/cgi-bin/stories.pl?ACCT=ind_focus.story&STORY=/www/story/06-01-2007/0004600181&EDATE=FRI+Jun+01+2007,+04:30+PM) — PR Newswire, 2007.0601 
 
-[**D.M. Civic Center Wins Award for Design**](http://www.architectureweek.com/cgi-bin/wllk?http://desmoinesregister.com/apps/pbcs.dll/article?AID=/20061008/BUSINESS04/610080329/1001/NEWS) — Des Moines Register, 2006.1008 
+[**Retrofitting Marks Golden Gate's 70 Years**](http://www.architectureweek.com/cgi-bin/wllk?http://www.mercurynews.com/lifestyle/ci_6004850?nclick_check=1) — San Jose Mercury News, 2007.0528 
 
-[**Rybczynski Wins Eighth Vincent J. Scully Prize**](http://www.architectureweek.com/cgi-bin/wllk?http://www.aia.org/aiarchitect/thisweek06/1006/1006n_scully.cfm) — AIArchitect, 2006.1006 
+[**The Next World’S Tallest Building? It's Anybody's Guess**](http://www.architectureweek.com/cgi-bin/wllk?http://www.aia.org/aiarchitect/thisweek07/0525/0525n_tall.cfm) — AIArchitect, 2007.0525 
 
-[**Peter Calthorpe Named 2006 Laureate of the Urban Land Institute**](http://www.architectureweek.com/cgi-bin/wllk?http://news.corporate.findlaw.com/prnewswire/20061006/06oct20060939.html) — FindLaw, 2006.1006 
+[**Pallant House Wins Museum of the Year**](http://www.architectureweek.com/cgi-bin/wllk?http://arts.guardian.co.uk/art/news/story/0,,2088123,00.html) — Guardian Unlimited, 2007.0525 
 
-[**City Launches Competition to Redesign Square**](http://www.architectureweek.com/cgi-bin/wllk?http://www.theglobeandmail.com/servlet/story/LAC.20061004.TORBRIEFS04-2/TPStory/TPNational/Ontario/) — The Globe and Mail, 2006.1004 
+[**AIA Presents Housing and Community Design Awards**](http://www.architectureweek.com/cgi-bin/wllk?http://www.multi-housingnews.com/multihousing/headlines/article_display.jsp?vnu_content_id=1003590210) — Multi-Housing News, 2007.0524 
 
-[**Stirling Prize Shortlist Shows Strength of British Architects**](http://www.architectureweek.com/cgi-bin/wllk?http://www.bloomberg.com/apps/news?pid=20601088&sid=apoxqkNIxzfc&refer=home) — Bloomberg, 2006.1004 
+[**Architecture Professors Pocket Honors**](http://www.architectureweek.com/cgi-bin/wllk?http://dailyheadlines.uark.edu/10759.htm) — University of Arkansas Daily Headlines, 2007.0522 
 
-[**Jacques Herzog and Pierre de Meuron Win British Design Award**](http://www.architectureweek.com/cgi-bin/wllk?http://www.iht.com/articles/ap/2006/10/04/europe/EU_GEN_Britain_Design_Award.php) — International Herald Tribune, 2006.1004 
+[**AIA Announces Recipients of 2007 AIA/HUD Secretary Awards**](http://www.architectureweek.com/cgi-bin/wllk?http://www.aia.org/aiarchitect/thisweek07/0518/0518d_hud.cfm) — AIArchitect, 2007.0518 
 
-[**Historic Theatre Scoops Top Award**](http://www.architectureweek.com/cgi-bin/wllk?http://news.bbc.co.uk/2/hi/uk_news/scotland/north_east/5402254.stm) — BBC News, 2006.1003 
+[**2007 Gold Nugget Award of Merit Winners**](http://www.architectureweek.com/cgi-bin/wllk?http://www.goldnuggetawards.com/) — The Gold Nugget Awards press release, 2007.0516 
 
-[**Testing the Manual Date Entry.**](http://www.architectureweek.com/cgi-bin/wllk?http://www.PetitionOnline.com) — PetitionOnline, 2006.1000 
+[**Russian Capital's Architectural Gems Bulldozed**](http://www.architectureweek.com/cgi-bin/wllk?http://www.guardian.co.uk/russia/article/0,,2079655,00.html) — Guardian Unlimited, 2007.0515 
 
-[**Chicago Athenaeum Announces International Architecture Awards**](http://www.architectureweek.com/cgi-bin/wllk?http://www.chi-athenaeum.org/intarch/2006/index.html) — Chicago Athenaeum press release, 2006.0929 
+[**Marvin J. Malecha, FAIA Elected 2009 AIA President**](http://www.architectureweek.com/cgi-bin/wllk?http://www.aia.org/press2_template.cfm?pagename=release_malecha_051407) — American Institute of Architects press release, 2007.0514 
 
-[**The Disaster That Has Followed the Tragedy**](http://www.architectureweek.com/cgi-bin/wllk?http://www.opinionjournal.com/la/?id=110009004) — Opinion Journal, 2006.0928 
+[**Four Architects Receive Awards from Academy of Arts and Letters**](http://www.architectureweek.com/cgi-bin/wllk?http://www.architectmagazine.com/industry-news.asp?sectionID=1006&articleID=493469) — ArchitectOnLine, 2007.0514 
 
-[**AIA Maryland 2006 Design Awards**](http://www.architectureweek.com/cgi-bin/wllk?http://archiwire.aia.org/website/34199/pr/search/?action=detail&entity_id=2372) — ArchiWire, 2006.0928 
+[**Building Boom Threatens Moscow's Architectural Heritage**](http://www.architectureweek.com/cgi-bin/wllk?http://www.usatoday.com/travel/news/2007-05-14-moscow-architecture_N.htm) — USA Today, 2007.0514 
 
-[**Engineer: Pier 34 Had Problems for Years**](http://www.architectureweek.com/cgi-bin/wllk?http://www.philly.com/mld/inquirer/15607867.htm) — Philadelphia Inquirer, 2006.0926 
+[**Iconic Modular Skyscraper on the Way Out**](http://www.architectureweek.com/cgi-bin/wllk?http://www.core77.com/blog/object_culture/iconic_modular_skyscraper_on_the_way_out_6286.asp) — Core77, 2007.0511 
 
-[**Pei Cobb Freed to Renovate Its Louvre Addition**](http://www.architectureweek.com/cgi-bin/wllk?http://www.archrecord.com/news/daily/archives/060926louvre.asp) — Architectural Record, 2006.0926 
+[**Gore to AIA: Architects Needed More Than Ever**](http://www.architectureweek.com/cgi-bin/wllk?http://www.aia.org/aiarchitect/thisweek07/0511/0511_satgore.cfm) — AIArchitect, 2007.0511 
 
-[**Plans to Build the Tallest Skyscraper in London Abandoned**](http://www.architectureweek.com/cgi-bin/wllk?http://www.worldarchitecturenews.com/index.php?fuseaction=wanappln.projectview&upload_id=534) — World Architecture News, 2006.0926 
+[**BD+C's 2007 Best AEC Firms**](http://www.architectureweek.com/cgi-bin/wllk?http://www.bdcnetwork.com/article/CA6441179.html) — BDC, 2007.0510 
 
-[**Freedom Tower Suit Resolved**](http://www.architectureweek.com/cgi-bin/wllk?http://www.yaledailynews.com/Article.aspx?ArticleID=33400) — Yale Daily News, 2006.0926 
-
-[**Rebuilding of WTC Gets Final Approval**](http://www.architectureweek.com/cgi-bin/wllk?http://thestar.com.my/news/story.asp?file=/2006/9/22/worldupdates/2006-09-22T011910Z_01_NOOTR_RTRJONC_0_-268726-2&sec=Worldupdates) — Malaysian Star, 2006.0922 
-
-[**Witold Rybczynski Wins Eighth Vincent J. Scully Prize**](http://www.architectureweek.com/cgi-bin/wllk?http://www.canadianarchitect.com/issues/ISArticle.asp?id=60407&issue=09202006&btac=no) — Canadian Architect, 2006.0920 
-
-[**LEAF Awards 2006 Winners**](http://www.architectureweek.com/cgi-bin/wllk?http://www.designbuild-network.com/features/feature616/) — DesignBuild-Network.com, 2006.0916 
-
-[**Commission Honors Restoration of 21 Historic Buildings**](http://www.architectureweek.com/cgi-bin/wllk?http://www.bdcnetwork.com/articleXml/LN504809213.html) — BDC, 2006.0913 
-
-[**SCUP/AIA-CAE Awards**](http://www.architectureweek.com/cgi-bin/wllk?http://www.scup.org/about/awards/aiawards.html) — Society for College and University Planning press release, 2006.0911 
-
-[**Built and Unbuilt: Venice Biennale Celebrates Creative Process**](http://www.architectureweek.com/cgi-bin/wllk?http://www.channelnewsasia.com/stories/singaporelocalnews/view/229589/1/.html) — Channel News Asia, 2006.0910 
-
-[**A First Look at Freedom Tower's Neighbors**](http://www.architectureweek.com/cgi-bin/wllk?http://www.nytimes.com/2006/09/08/nyregion/08towers.html?_r=1&ref=nyregion&oref=slogin) — New York Times, 2006.0908 
-
-[**Seven Decades of Skyscrapers**](http://www.architectureweek.com/cgi-bin/wllk?http://www.businessweek.com/innovate/content/sep2006/id20060908_097194.htm?chan=innovation_innovation+%2B+design_innovation+and+design+lead) — BusinessWeek, 2006.0908 
-
-[**India's Top Architect Awards**](http://www.architectureweek.com/cgi-bin/wllk?http://www.constructionupdate.com/construct/constructionworld/2006Issues/september2006/060.html) — Construction World, 2006.0908 
+[**Charleston Waterfront Park Receives 2007 Landmark Award**](http://www.architectureweek.com/cgi-bin/wllk?http://www.asla.org/press/2007/release050807.html) — American Society of Landscape Architects press release, 2007.0508 
 
 Note: Pages will open in a new browser window  
 External sites are not endorsed by ArchitectureWeek.  
