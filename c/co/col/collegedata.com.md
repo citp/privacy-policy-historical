@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegedata.com privacy policy that was archived on 2006-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061103025046id_/https%3A//www.collegedata.com/cs/content/content_privacy_tmpl.jhtml%3Ftype%3Dinfo%26infopage%3Dfalse%26url%3D/index.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegedata.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613010800id_/https%3A//www.collegedata.com/cs/content/content_privacy_tmpl.jhtml%3Ftype%3Dinfo%26infopage%3Dfalse%26url%3D/index.jhtml) for the most accurate reproduction.*
 
 # CollegeData - Privacy Policy
 
@@ -23,8 +23,8 @@ When you use certain tools on this Site, such as College Chances, EFC Estimator,
 Collection of Personal Information from Children Under Thirteen  
 1st Financial Bank USA does not knowingly allow children under the age of thirteen (13) to register for our services.
 
-Collection of Information  
-We collect information on this Site that you provide to us. We also use "cookies" to collect information about Site usage and our users' browsing activities. We do not use "cookies" to collect or store personally identifiable information. A "cookie" is a small text file that a Web browser places on the computer you are using to visit a Web site. While you may modify the settings of your browser to prevent acceptance of "cookies," you must enable "cookies" to access areas of the Site that require log in. The information we collect on this Site allows us to improve our marketing and promotional efforts, to statistically analyze Site usage, to improve our content and product offerings, and to customize our Site's content, layout and services.
+Collection and Use of Information  
+We collect information on this Site that you provide to us. We also use "cookies" to collect aggregate information about Site usage and our users' browsing activities, which information is not user specific. A "cookie" is a small text file that a Web site may provide to your browser when you visit the site. We do not use "cookies" to collect or store personally identifiable information provided that we use a "cookie" to store a unique identification number assigned to you that may be used to customize Site content and services for individual users. While you may modify the settings of your browser to prevent acceptance of "cookies," you must enable "cookies" to access areas of the Site that require log in. The information we collect on this Site may be used to market our financial products and services to you and also allows us to improve our marketing and promotional efforts, to statistically analyze Site usage, and to improve and customize our content, product offerings, and services.
 
 
 
