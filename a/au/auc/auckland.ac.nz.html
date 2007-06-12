@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the auckland.ac.nz privacy policy that was archived on 2006-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061205214633id_/http%3A//www.auckland.ac.nz/uoa/legal/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the auckland.ac.nz privacy policy that was archived on 2007-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070612102722id_/http%3A//www.auckland.ac.nz/uoa/legal/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
 		<title>Privacy - Legal Information - The University of Auckland</title>
@@ -119,10 +119,18 @@ Act 1982">Official Information Act 1982</a></li></ul>
 			<a name="bottom"></a>
 <div id="feedback">
 <script language="JavaScript" type="text/javascript">
+function trimString(theString) {
+		while (theString.charAt(0) == " ") {
+			theString = theString.substring(1,theString.length);
+		}
+		while (theString.charAt(theString.length - 1) == " ") {
+			theString = theString.substring(0,theString.length - 1);
+		}
+		return theString;
+}
 function checkFeedback(){
-	if(document.forms["feedback_form"].feedback_text.value.length == 0)
-	{
-		alert("Please enter some feedback or a question.");
+	if ((document.forms["feedback_form"].feedback_text.value.length == 0) || (trimString(document.forms["feedback_form"].feedback_text.value) == 0 )) {
+		alert("Please enter some feedback or a question");
 	}else{
 		document.forms["feedback_form"].submit();
 	}
@@ -131,10 +139,11 @@ function checkFeedback(){
 	<div id="innerFeedback">
 		<div class="inside">
 		<form action="/uoa/app_templates/objects/UOAFeedback/formaction.cfm" method="post" name="feedback_form">
-			<input type="hidden" name="label" value="{ts '2006-12-06 10:26:22'}">
+			<input type="hidden" name="label" value="{ts '2007-06-12 22:27:28'}">
 			<input type="hidden" name="page_uuid" value="E8676B9C-CAED-CC89-804C-C9A71B49D8BF">
 			<input type="hidden" name="page_ssurl" value="/uoa//legal/privacy.cfm">
 			<input type="hidden" name="webroot" value="Legal Information">
+			<input type="text" name="contact_name" value="" class="cname">
 			<h3 style="margin-top:5px;">Please give us your feedback or ask us a question</h3>
 			This message is...<br>
 			<select name="feedback_type" style="width:320px;">
@@ -196,7 +205,7 @@ function feedback_toggle()
 </script>		
 	<a href="#bottom" onclick="feedback_toggle();" title="Click here to send feedback to the owner of this page"><img src="/uoa/images/uoa/css/footer_feedback.gif" width="107" height="22" border="0" alt="Click here to send feedback to the owner of this page" title="Click here to send feedback to the owner of this page"></a>
 			</div>
-				<div><a href="http://www.auckland.ac.nz/uoa/legal/copyright.cfm" title="Copyright" alt="Copyright">copyright</a>&nbsp;|&nbsp;<a href="http://www.auckland.ac.nz/uoa/legal/privacy.cfm" title="Privacy" alt="Privacy">privacy</a>&nbsp;|&nbsp;<a href="http://www.auckland.ac.nz/uoa/legal/disclaimer.cfm" alt="Disclaimer" title="Disclaimer">disclaimer</a><br>© The University of Auckland 2006<br><a href="http://www.auckland.ac.nz" alt="The University of Auckland" title="The University of Auckland">www.auckland.ac.nz</a></div>
+				<div><a href="http://www.auckland.ac.nz/uoa/legal/copyright.cfm" title="Copyright" alt="Copyright">copyright</a>&nbsp;|&nbsp;<a href="http://www.auckland.ac.nz/uoa/legal/privacy.cfm" title="Privacy" alt="Privacy">privacy</a>&nbsp;|&nbsp;<a href="http://www.auckland.ac.nz/uoa/legal/disclaimer.cfm" alt="Disclaimer" title="Disclaimer">disclaimer</a><br>© The University of Auckland 2007<br><a href="http://www.auckland.ac.nz" alt="The University of Auckland" title="The University of Auckland">www.auckland.ac.nz</a></div>
 				<hr class="hide">
 			</div>
 <!-- footer end -->
