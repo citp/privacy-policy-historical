@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lacrosse.org privacy policy that was archived on 2006-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061115001726id_/http%3A//www.lacrosse.org/info/privacypolicy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lacrosse.org privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612071054id_/http%3A//www.lacrosse.org/info/privacypolicy.phtml) for the most accurate reproduction.*
 
 # US Lacrosse -- US Lacrosse Privacy Policy
 
-If you feel that we are not abiding by our posted privacy statement, you should first contact Carrie Geldart Membership Marketing Manager, [cgeldart@uslacrosse.org](mailto:cgeldart@uslacrosse.org) or at (410) 235.6882 ext. 114. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact Glen Schorr, Managing Director- Marketing and Branding, at [gschorr@uslacrosse.org](mailto:gschorr@uslacrosse.org) or at (410) 235.6882 ext. 103.
+If you feel that we are not abiding by our posted privacy statement, you should first contact Art Zito, Managing Director of Membership, at [azito@uslacrosse.org](mailto:azito@uslacrosse.org) or at (410) 235.6882 ext. 114. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact Glen Schorr, Managing Director, Marketing and Branding, at [gschorr@uslacrosse.org](mailto:gschorr@uslacrosse.org) or at (410) 235.6882 ext. 103.
 
  ****
 
@@ -103,7 +103,7 @@ When registration forms ask users to enter sensitive information (such as credit
 
 While we use SSL encryption to protect sensitive information online, we also make every reasonable effort to protect users' information off-line. Access to users' information, not only the sensitive information mentioned above, is restricted in our organization. Only those employees who need the information to perform their job are granted access to personally identifiable information. All employees are kept up-to-date on our security and privacy practices and are reminded about the importance we place on privacy. 
 
-USL makes every reasonable effort to safeguard sensitive information by regularly reviewing our security standards and practices to protect against unauthorized access. If you have any questions about the security at our Web site, you can send an e-mail to [cgledart@uslacrosse.org](mailto:cgledart@uslacrosse.org).
+USL makes every reasonable effort to safeguard sensitive information by regularly reviewing our security standards and practices to protect against unauthorized access. If you have any questions about the security of our Web site, you can send an e-mail to [azito@uslacrosse.org](mailto:azito@uslacrosse.org). 
 
 **5\. What choices are available to you regarding collection, use, and distribution of the information and how you can correct any inaccuracies in the information.**
 
