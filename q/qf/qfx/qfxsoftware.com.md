@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qfxsoftware.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209053241id_/http%3A//www.qfxsoftware.com/QFX_privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qfxsoftware.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612110755id_/http%3A//www.qfxsoftware.com/QFX_privacy_policy.htm) for the most accurate reproduction.*
 
 # QFX Software Corporation Privacy Policy
 
@@ -42,4 +42,4 @@ We do not use cookies to collect personal information.
 
 QFX Software may update its privacy policy from time to time. When we change the policy in a substantive way, a notice will be posted on our home page along with our updated privacy policy.
 
-**Top**  
+**Top**
