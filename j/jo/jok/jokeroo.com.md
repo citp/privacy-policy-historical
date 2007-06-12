@@ -1,16 +1,29 @@
-> *The following text is extracted and transformed from the jokeroo.com privacy policy that was archived on 2006-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060903213728id_/http%3A//www.jokaroo.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jokeroo.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613011630id_/http%3A//www.jokeroo.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Jokaroo.com
+# Privacy Policy - Jokeroo.com
 
----  
+|  |   
+---|---  
+|  |   
+Privacy Policy for Jokeroo.com |   
+---|---  
   
-**Jokaroo.com **
 
-**** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ Jokaroo.com](http://www.jokaroo.com/). 
+
+**Jokeroo.com **
+
+**** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ Jokeroo.com](http://www.jokeroo.com/). 
 
 ####  Information Automatically Logged 
 
 We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to gather broad demographic information to help us better serve you. 
+
+####  Advertisers 
+
+We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:   
+<http://www.fastclick.com/about/privacy.html>  
+<http://www.tribalfusion.com/TribalFusion/privacy.html>  
+<http://www.casalemedia.com/privacy.html>
 
 ####  Information Collected 
 
@@ -18,11 +31,11 @@ We collect the domain name and e-mail address (where possible) of visitors to ou
 
 ####  Cookies 
 
-We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, record past activity at a site in order to provide better service when visitors return to our site. If you do not want to receive e-mail from us in the future, please let us know by visiting us at <http://www.jokaroo.com/unsubscribe.htm>. From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please do not opt into receiving their offers on our forms. 
+We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, record past activity at a site in order to provide better service when visitors return to our site. If you do not want to receive e-mail from us in the future, please let us know by visiting us at <http://www.jokeroo.com/unsubscribe.html>. From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please do not opt into receiving their offers on our forms. 
 
 ####  Choice/Opt-Out 
 
-Our site provides users the opportunity to opt out of receiving communications from us and our partners at the point where we request information about the visitor. Users may unsubscribe from the Jokaroo.Com Newsletter if they wish to no longer receive communication from Jokaroo.Com and no longer use our service. To be removed, please visit us at <http://www.jokaroo.com/unsubscribe.htm>
+Our site provides users the opportunity to opt out of receiving communications from us and our partners at the point where we request information about the visitor. Users may unsubscribe from the Jokaroo.Com Newsletter if they wish to no longer receive communication from Jokaroo.Com and no longer use our service. To be removed, please visit us at <http://www.jokeroo.com/unsubscribe.html>
 
 ####  Security 
 
@@ -43,4 +56,12 @@ you may contact us:
 
 ####  Notification of Changes 
 
-If we change this privacy policy, we will post those changes on our home page so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+If we change this privacy policy, we will post those changes on our home page so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.  
+  
+|  |   
+---  
+  
+  
+  
+  
+ 
