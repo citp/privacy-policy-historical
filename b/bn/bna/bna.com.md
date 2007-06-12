@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bna.com privacy policy that was archived on 2006-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061223110126id_/http%3A//www.bna.com/corp/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bna.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613004327id_/http%3A//www.bna.com/corp/privacy.htm) for the most accurate reproduction.*
 
 # BNA - Internet Privacy Policy
 
