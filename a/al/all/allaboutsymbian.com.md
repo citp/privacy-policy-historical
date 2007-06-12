@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allaboutsymbian.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206053704id_/http%3A//www.allaboutsymbian.com/site/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaboutsymbian.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613014631id_/http%3A//www.allaboutsymbian.com/site/privacy.php) for the most accurate reproduction.*
 
 # All About Symbian - Privacy Policy
 
