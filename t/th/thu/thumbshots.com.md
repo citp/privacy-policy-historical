@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the thumbshots.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205210554id_/http%3A//www.thumbshots.com/corporate/privacy.pxf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thumbshots.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612172423id_/http%3A//www.thumbshots.com/corporate/privacy.aspx) for the most accurate reproduction.*
 
 # Thumbshots.com - Corporate - Privacy Policy
 
+Privacy Policy
+
 Thank you for visiting Thumbshots.com (A Smartdevil Site). Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this Smartdevil site. 
 
-**The Information We Collect**
+The Information We Collect
 
 At some Smartdevil sites, you can order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in article submission. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services. 
 
 At some Smartdevil sites, you can submit a person's name and e-mail address to send electronic information. The types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, e-mail address, and telephone number. At certain parts of some of our sites, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the site's activities and offerings. 
 
-We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows '95 or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink). ** **
+We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows '95 or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink).  
 
-**How We Use the Information**
+How We Use the Information
 
 We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, and to offer you other products, programs or services that we believe may be of interest to you. 
 
@@ -30,24 +32,26 @@ Although we take appropriate measures to safeguard against unauthorized disclosu
 
 We may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. 
 
-Finally, the Smartdevil sites covered by this Privacy Notice will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.  ** ** ****
+Finally, the Smartdevil sites covered by this Privacy Notice will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.  
 
-**Cookies & Web Beacons**
+Cookies & Web Beacons
 
 To enhance your experience with our sites, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie. We use cookies to understand site usage and to improve the content and offerings on our sites.
 
-"Web beacons" are small pieces of code placed on a web page to monitor the behaviour and collect data about the visitors viewing a web page. We may use web beacons on this site from time to time for this and other purposes. ** **
+"Web beacons" are small pieces of code placed on a web page to monitor the behavior and collect data about the visitors viewing a web page. We may use web beacons on this site from time to time for this and other purposes.  
 
-**Collection of Information by Third-Party Sites, Ad Servers, and Sponsors**
+Collection of Information by Third-Party Sites, Ad Servers, and Sponsors
 
-Some of our sites contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties. ** **
+Some of our sites contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties.  
 
-**Our Commitment to Security**
+Our Commitment to Security
 
-We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. ** **
+We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.  
 
-**How to Contact Us** If you have any questions or concerns about the Smartdevil online policy for this site or its implementation you may [contact us](mailto:support@smartdevil.com?subject=Thumbshots.com%20Privacy%20Issues).  ** **
+How to Contact Us 
 
-**Updates & Effective Date**
+If you have any questions or concerns about the Smartdevil online policy for this site or its implementation you may contact us at [support@smartdevil.com](mailto:support%40smartdevil.com?subject=Thumbshots.com%20Privacy%20Issues).  
+
+Updates & Effective Date
 
 From time to time, we may update this privacy notice. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it. 
