@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the yellowpages.com.my privacy policy that was archived on 2006-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061205210216id_/http%3A//www.yellowpages.com.my/main2.jsp%3Fop%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yellowpages.com.my privacy policy that was archived on 2007-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070612233126id_/http%3A//www.yellowpages.com.my/main2.jsp%3Fop%3Dprivacy) for the most accurate reproduction.-->
 
 <html><head>
 <link rel="SHORTCUT ICON" href="https://www.yellowpages.com.my/favicon.ico">
@@ -7,7 +7,61 @@
 <meta name="description" content="A complete one-stop local search engine, offering comprehensive multi-channel local search capabilities">
 <meta name="keywords" content="YellowPages,YellowPages.com.my,TM Info-Media, Malaysia,Local Search,Kuala Lumpur,Search,Search Engine, Online Search,Advertiser">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript">
+<!--
+var path = 'main';
+var href = location.pathname;
+var q = '';
+var OAS_listpos = 'Top,Middle1,Middle2,Middle3,Right1';
+if (href.indexOf('search_business.jsp') > -1) {
+	path = 'keyword';
+	}
+else if (href.indexOf('search_cat.jsp') > -1) {
+	path = 'category';
+	}
+else if (href.indexOf('search_white.jsp') > -1) {
+	path = 'whitepages';
+	}
+OAS_listpos = 'Top,Right1';
 
+//configuration
+OAS_url = 'http://ads1.yellowpages.com.my/RealMedia/ads/';
+OAS_sitepage = 'www.yellowpages.com.my/' + path;
+OAS_query = q;
+OAS_target = '_blank';
+//end of configuration
+OAS_version = 10;
+OAS_rn = '001234567890'; OAS_rns = '1234567890';
+OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
+function OAS_NORMAL(pos) {
+	document.write('<A HREF="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@'
+	+ OAS_listpos + '!' + pos + '?' + OAS_query + '" TARGET=' + OAS_target + '>');
+	document.write('<IMG SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns +
+	'@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" BORDER=0></A>');
+	}
+//-->
+</script>
+<script language="JavaScript1.1">
+<!--
+OAS_version = 11;
+if ((navigator.userAgent.indexOf('Mozilla/3') != -1) || (navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1))
+	OAS_version = 10;
+	if (OAS_version >= 11)
+		document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' +
+	OAS_sitepage + '/1' + OAS_rns + '@' +
+	OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');//-->
+</script><script language="JavaScript1.1" src="http://ads1.yellowpages.com.my/RealMedia/ads/adstream_mjx.ads/www.yellowpages.com.my/main/1250314915@Top,Right1?"></script>
+<script language="JavaScript">
+<!--
+document.write('');
+function OAS_AD(pos) {
+	if (OAS_version >= 11)
+		OAS_RICH(pos);
+	else
+		OAS_NORMAL(pos);
+	}
+//-->
+</script>
 <link rel="stylesheet" type="text/css" href="/css/style.css"><link rel="stylesheet" type="text/css" href="/css/iyp2006.css"></head>
 
 
@@ -66,8 +120,12 @@
 			<table width="100%" border="0" cellspacing="0" cellpadding="2">
             <tbody><tr>
             	<td valign="middle" align="center">
-						<script language="JavaScript" src="/servlet/adsWriter.do?type=2"></script>
-					</td>
+<script language="JavaScript">
+<!--
+OAS_AD('Top');
+//-->
+</script>
+				</td>
             </tr>
           </tbody></table>
 		</td>
@@ -82,12 +140,12 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
    	<td width="8%" height="20" align="center" valign="middle" class="tab0">&nbsp;</td>
-  
       <td width="14%" height="20" align="center" valign="middle" class="tabcommandR">
 			<a href="http://www.yellowpages.com.my/search_business.jsp?op=home" id="menu-txt">Search</a></td>
       <td width="14%" height="20" align="center" valign="middle" class="tabcommandR">
 			<a href="http://www.yellowpages.com.my/search_cat.jsp?op=cat&amp;sf=w&amp;cv=c" id="menu-txt">Categories</a></td>
-
+      <td width="14%" height="20" align="center" valign="middle" class="tabcommandR">
+			<a href="http://maps.yellowpages.com.my" id="menu-txt">Online Map</a></td>
       <td width="14%" height="20" align="center" valign="middle" class="tabcommandR">
 			<a href="http://www.yellowpages.com.my/search_white.jsp?op=white" id="menu-txt">WhitePages </a></td>
       <td width="14%" height="20" align="center" valign="middle" class="tabcommandR">
@@ -95,7 +153,7 @@
       <td width="14%" height="20" align="center" valign="middle" class="tabcommandR">
 			<a href="http://www.yellowpages.com.my/main_yellow.jsp?op=yellow" id="menu-txt">YellowClub</a></td>
       <td width="14%" height="20" align="center" valign="middle" class="tabcommandR">
-			<a href="http://www.yellowpages.com.my/main_advertiser.jsp?op=advertiser" id="menu-txt">Advertiser</a></td>
+			<a href="http://www.yellowpages.com.my/customer/" id="menu-txt">Advertiser</a></td>
       <td width="8%" height="20" align="center" valign="middle" class="tab0">&nbsp;</td>
    </tr>
 </tbody></table>
@@ -431,8 +489,12 @@ Persistent cookies are used on YellowPages.com.my in the   following ways:
 	<tbody><tr>
 		<td width="1" height="200">&nbsp;</td>
 		<td align="right" valign="top" width="100%">
-			<script language="JavaScript" src="/servlet/adsWriter.do?type=3"></script>
-			</td>
+<script language="JavaScript">
+<!--
+OAS_AD('Right1');
+//-->
+</script>
+      </td>
 	</tr>
 </tbody></table>
 
@@ -454,12 +516,7 @@ Persistent cookies are used on YellowPages.com.my in the   following ways:
     <td height="20" align="center"><a href="http://www.yellowpages.com.my/main.jsp?op=home" id="link-small">HOME</a>
 		 | <a href="http://www.yellowpages.com.my/main.jsp?op=about" id="link-small">ABOUT US</a>
 		 | <a href="http://www.yellowpages.com.my/main2.jsp?op=contact" id="link-small">CONTACT US</a>
-		 |  LANGUAGE :
-			 <!--<a href="main.jsp?lang=my"  id="link-small"> -->
-			Bahasa Malaysia <!--</a> -->
-			<a href="http://www.yellowpages.com.my/main.jsp?lang=en" id="link-small">
-		 | </a><a href="http://www.yellowpages.com.my/main.jsp?lang=en" id="link-small">English</a> :: </td>
-  </tr>
+  </td></tr>
   <tr id="searchMainTbl">
     <td height="20" class="footer-box">::
 		 <a href="http://www.yellowpages.com.my/main2.jsp?op=term" id="link-small">Terms and Conditions </a>
@@ -471,7 +528,7 @@ Persistent cookies are used on YellowPages.com.my in the   following ways:
 
 <table width="100%" border="0" cellspacing="0" cellpadding="2">
       <tbody><tr height="10">
-        <td align="left" id="footer"><span id="copyright">Copyright © 2006 TM Info-Media Sdn Bhd (formerly known as Telekom Publications Sdn Bhd)<br></span>
+        <td align="left" id="footer"><span id="copyright">Copyright © 2007 TM Info-Media Sdn Bhd<br></span>
        <!-- <a href="index.jsp?op=term" id="link-small">Term &amp; conditions</a> &nbsp;| &nbsp;<a href="index.jsp?op=privacy" id="link-small">Privacy Statement</a> -->
 
        </td></tr>
