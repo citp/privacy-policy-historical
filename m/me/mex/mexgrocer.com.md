@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mexgrocer.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225063353id_/http%3A//www.mexgrocer.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mexgrocer.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613023848id_/http%3A//www.mexgrocer.com/privacy-policy.html) for the most accurate reproduction.*
 
 # MexGrocer.com - Privacy Policy
 
@@ -85,9 +85,9 @@ Your **** Feedback
 At MexGrocer.com, your privacy is extremely important. If you have any questions about the privacy statement, the practices of this site, or your dealings with MexGrocer, please click [Contact Us](http://store.yahoo.com/mexgrocer/contact-us.html) and let us know or write us by mail at: 
 
 MexGrocer.com LLC  
-7445 Girard Ave, Suite 6  
-La Jolla, CA 92037  
+4060 Morena Blvd. Suite C  
+San Diego, CA 92117  
 USA
 
-Phone (858)459-0577  
+Phone (858) 270-0577  
 Email [info@mexgrocer.com](mailto:info@mexgrocer.com%20)
