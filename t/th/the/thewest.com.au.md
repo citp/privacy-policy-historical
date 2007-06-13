@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the thewest.com.au privacy policy that was archived on 2006-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061003132803id_/http%3A//www.thewest.com.au/default.aspx%3FContentID%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewest.com.au privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613150902id_/http%3A//www.thewest.com.au/default.aspx%3FContentID%3D2) for the most accurate reproduction.*
 
-# The West Australian
+# Privacy Policy : thewest.com.au
 
-West Australian Newspapers Holdings Limited
-
-Privacy Policy
+**West Australian Newspapers Holdings Limited: Privacy Policy**
 
 **National Privacy Principles**
 
@@ -28,11 +26,11 @@ From time to time, this website or its advertisers may send a “cookie” to yo
 
 **Advertisements**
 
-The Group uses a third party advertising company to serve advertisements when you visit this website. The advertising company may use information (not including your name, address, email address or telephone number) about your visit to this website in order to provide advertisements about goods or services that may be of interest to you. In the course of serving advertisements to this site, the advertising company may place or recognize a unique cookie on your browser. If you would like more information about this practice and to know your choices about not having this information used by the advertising company, please [click here ](http://www.doubleclick.net/us/corporate/privacy)
+The Group uses a third party advertising company to serve advertisements when you visit this website. The advertising company may use information (not including your name, address, email address or telephone number) about your visit to this website in order to provide advertisements about goods or services that may be of interest to you. In the course of serving advertisements to this site, the advertising company may place or recognize a unique cookie on your browser. If you would like more information about this practice and to know your choices about not having this information used by the advertising company, please [click here](http://www.doubleclick.net/us/corporate/privacy).
 
 **Site Measurement**
 
-The Group uses the Nielsen Netratings system to provide measurement services in relation to this website. For more information about this system please visit their website: [Click here](http://www.netratings.com/corp.jsp?section=leg_prs)
+The Group uses the Nielsen Netratings system to provide measurement services in relation to this website. For more information about this system please visit their [website](http://www.netratings.com/corp.jsp?section=leg_prs). 
 
 **Aggregated Information**
 
@@ -43,7 +41,7 @@ The IP addresses and cookies allow the Group to aggregate information which incl
 
 The Group has appointed the Company Secretary as its privacy officer and any request for access to personal information or complaint about a breach of privacy should be made to:
 
-The Company Secretary  
+**The Company Secretary**  
 West Australian Newspapers Holdings Limited  
 50 Hasler Road  
 Osborne Park WA 6017
@@ -51,9 +49,7 @@ Osborne Park WA 6017
 Telephone: (08) 9482 3111  
 Facsimile: (08) 9482 9080
 
-Australian Press Council Privacy Standards
-
-September 2001
+Australian Press Council Privacy Standards, September 2001
 
 **Background**
 
@@ -122,6 +118,22 @@ Unless otherwise restricted by law or court order, open court hearings are matte
 **8\. Complaints**
 
 The Council will receive and deal with complaints from person or persons affected about possible breaches of these Standards in the same way as it receives and deals with complaints about possible breaches of its Statement of Principles. Where the Council issues an adjudication in relation to these Standards, the publication concerned must prominently print the adjudication.
+
+**thewest.com.au Electronic Newsletter Databasing  
+Digital Privacy Policy**
+
+**1.**     Completed coupons, which have ticked the box to receive thewest.com.au’s electronic newsletter and update via email, will receive a newsletter sent to the email address noted in the coupon. 
+
+**2.**     By ticking the box you are giving thewest.com.au the permission to keep your personal details (including your email address) on record for the use of a database mailing list.  
+
+
+**3.**     If you do not wish to receive email electronic newsletter from thewest.com.au please contact thewest.com.au on 9482 3436 to have all of your personal details deleted from the mailing list. You can also opt out of receiving email news from thewest.com.au by emailing [unsubscribebn@enews.thewest.com.au](mailto:unsubscribebn@enews.thewest.com.au) with “unsubscribe” in the subject line, this must be from the same email address that you originally subscribed with.  
+
+
+**4.**     All personal details kept will be used only for the purpose of emailing thewest.com.au’s news. Your details will not be given to a third party or used in any other way without your express permission. Thewest.com.au will take all reasonable steps to ensure the security of your personal information.  
+
+
+**5.**     To access personal information kept on you by thewest.com.au, please visit Newspaper House, 50 Hasler Road, Osborne Park WA. Please note that information will only be provided to the person detailed and current photographic identification will be required before information is released.
 
 These procedures apply to those media organisations listed in the Schedule.
 
