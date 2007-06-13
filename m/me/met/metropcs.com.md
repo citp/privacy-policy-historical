@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metropcs.com privacy policy that was archived on 2006-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061223034549id_/http%3A//www.metropcs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metropcs.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613162516id_/http%3A//metropcs.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
