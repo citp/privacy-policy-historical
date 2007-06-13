@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the wnd.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111014322id_/http%3A//www.wnd.com/resources/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wnd.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613144343id_/http%3A//www.wnd.com/resources/privacy.asp) for the most accurate reproduction.*
 
 # WorldNetDaily: WorldNetDaily Privacy Policy
 
 **  
   
-[](http://www.worldnetdaily.com/admin/ads/banman.asp?Task=Click&ZoneID=304&CampaignID=460&AdvertiserID=32&BannerID=995&SiteID=1&RandomNumber=78801)   | **   FREE News Flashes**  
+[](http://www.worldnetdaily.com/admin/ads/banman.asp?Task=Click&ZoneID=304&CampaignID=557&AdvertiserID=263&BannerID=1126&SiteID=1&RandomNumber=51439)[](http://www.worldnetdaily.com/admin/ads/banman.asp?Task=Click&ZoneID=305&CampaignID=460&AdvertiserID=32&BannerID=996&SiteID=1&RandomNumber=63774)  
+  | **   FREE News Flashes**  
 ---  
     
   
@@ -12,6 +13,7 @@
   
 WND Directory|    
 ---|---  
+[Shop.WND](http://shop.wnd.com/store/)  
 [Page 1 News](https://web.archive.org/index.html)  
 [Page 2 News](https://web.archive.org/page2.html)  
 [Commentary](https://web.archive.org/commentary.html)  
@@ -20,6 +22,7 @@ WND Directory|  
 [WND Forums](http://forums.wnd.com/)  
 [Letters to the Editor](https://web.archive.org/letters.asp)  
 [BizNetDaily](https://web.archive.org/biznetdaily)  
+[SportsNetDaily](http://www.breitbart.com/?ch=sports)  
 [TV Guide](http://www.tvguide.com/)  
 [Weather](http://www.accuweather.com/adcbin/index?partner=WNDAILY)  
   
@@ -152,8 +155,8 @@ I.T. Dept
 541-474-1776  
 privacy@worldnetdaily.com  
 WorldNetDaily.com, Inc.  
-PO Box 1087  
-Grants Pass, OR 97528 
+PO Box 1627  
+Medford, OR 97501 
 
 _Privacy statement updated Aug. 5, 2004._   
 
@@ -162,39 +165,38 @@ _Privacy statement updated Aug. 5, 2004._
 
 |     |    
   
-  
+[](http://shop.wnd.com/store/item.asp?ITEM_ID=108)   
+[](http://shop.wnd.com/store/item.asp?ITEM_ID=343)[](http://shop.wnd.com/store/item.asp?ITEM_ID=983)   
 | Today's WND Highlights|    
 ---|---  
   
      News  
    
-[Republicans lost because 'they just don't get it'](https://web.archive.org/news/article.asp?ARTICLE_ID=52884)  
-['Agent of Change' trounced by pro-war Republican](https://web.archive.org/news/article.asp?ARTICLE_ID=52878)  
-[Truckers call for boycott of foreign-owned road](https://web.archive.org/news/article.asp?ARTICLE_ID=52882)  
-[The God vacuum: America and the invading barbarians](https://web.archive.org/news/article.asp?ARTICLE_ID=52770)  
-['Pat Boone's America' tops Movers, Shakers list](https://web.archive.org/news/article.asp?ARTICLE_ID=52891)  
-[Farah headliner at Christian think tank](https://web.archive.org/news/article.asp?ARTICLE_ID=52893)  
-['Death with dignity' on trial in Florida](https://web.archive.org/news/article.asp?ARTICLE_ID=52887)  
-[U.S. Jewish groups refuse aid to refugees](https://web.archive.org/news/article.asp?ARTICLE_ID=52870)  
-[RNC chairman a closet 'gay,' charges Bill Maher](https://web.archive.org/news/article.asp?ARTICLE_ID=52877)  
+[Aide: Bill Clinton broke secret pact with Hillary](https://web.archive.org/news/article.asp?ARTICLE_ID=56136)  
+[National borders erased for airlines in new plan](https://web.archive.org/news/article.asp?ARTICLE_ID=56147)  
+[Failed plan still 'basis for moving forward'](https://web.archive.org/news/article.asp?ARTICLE_ID=56149)  
+[Christian fears torture if deported](https://web.archive.org/news/article.asp?ARTICLE_ID=56144)  
+[Hamas fighters seize U.S. armored carriers](https://web.archive.org/news/article.asp?ARTICLE_ID=56139)  
+['Clean' site takes on YouTube](https://web.archive.org/news/article.asp?ARTICLE_ID=56142)  
+[Chuck Norris hits Digg's Top 10](https://web.archive.org/news/article.asp?ARTICLE_ID=56141)  
   
      Commentary  
    
-[Better choices than Gates  
-   \- By Joseph Farah](https://web.archive.org/news/article.asp?ARTICLE_ID=52879)  
-[It's about federalism, stupid!  
-   \- By Ilana Mercer](https://web.archive.org/news/article.asp?ARTICLE_ID=52885)  
-[The gloves are off  
-   \- By Melanie Morgan](https://web.archive.org/news/article.asp?ARTICLE_ID=52886)  
-[Pelosi and her 'Crash Dummies'  
-   \- By Kevin McCullough](https://web.archive.org/news/article.asp?ARTICLE_ID=52892)  
-[We're still at war  
-   \- By David Limbaugh](https://web.archive.org/news/article.asp?ARTICLE_ID=52894)  
-[A house divided in a time of war  
-   \- By Hal Lindsey](https://web.archive.org/news/article.asp?ARTICLE_ID=52888)  
-[Legitimizing partial-birth abortion  
-   \- By Jill Stanek](https://web.archive.org/news/article.asp?ARTICLE_ID=52890)  
-[Time for a rebirth of the Reagan Revolution  
-   \- By Jerome Corsi](https://web.archive.org/news/article.asp?ARTICLE_ID=52880)  
+[The growing threat of fascism  
+   \- By Joseph Farah](https://web.archive.org/news/article.asp?ARTICLE_ID=56152)  
+[Why we should celebrate Flag Day  
+   \- By Judge Roy Moore](https://web.archive.org/news/article.asp?ARTICLE_ID=56143)  
+[Our blood-obsessed judges  
+   \- By Burt Prelutsky](https://web.archive.org/news/article.asp?ARTICLE_ID=56140)  
+[Paris Hilton Star Wars: Russia to the rescue?  
+   \- By Maralyn Lois Polak](https://web.archive.org/news/article.asp?ARTICLE_ID=56137)  
+[End government's monopoly on schools  
+   \- By Walter E. Williams](https://web.archive.org/news/article.asp?ARTICLE_ID=56138)  
+[Incoming! Mexican airplanes on radar  
+   \- By Jerome Corsi](https://web.archive.org/news/article.asp?ARTICLE_ID=56146)  
+[Purely fanatical  
+   \- By Jill Stanek](https://web.archive.org/news/article.asp?ARTICLE_ID=56145)  
+[Dreaming of a world without God  
+   \- By Ben Shapiro](https://web.archive.org/news/article.asp?ARTICLE_ID=56151)  
   
 
