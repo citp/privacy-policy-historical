@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the autoanything.com privacy policy that was archived on 2006-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061222200906id_/http%3A//www.autoanything.com/help/policy.aspx%23privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoanything.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614014613id_/http%3A//www.autoanything.com/help/policy.aspx%23privacypolicy) for the most accurate reproduction.*
 
-# Auto Accessories,Car Covers,Tonneau Cover,Car Bra,Floor Mats,Seat Covers and Truck Accessories
+# Auto Accessories, Auto Parts, Car Covers, Tonneau Cover, Seat Covers and Truck Accessories
 
 Take a moment to check out AutoAnything's policies and related information
 
@@ -46,7 +46,9 @@ Processing your order at the lower match price is done at the discretion of Auto
 
 ### Terms and conditions
 
-Price comparison includes merchandise selling price plus equivalent shipping method and handling charges. Expedited shipping offers may not be available for price matched orders. The item also needs to be the identical product available for purchase from an authorized dealer and not a pricing error. Excludes rebates, liquidations, auction sites such as Ebay, coupons, promotional offers, employee discounts and membership club stores. Price matches discounts cannot be combined with AutoAnything promotional offers. California residents – price matches do not include state sales tax.
+Price comparison includes merchandise selling price plus equivalent shipping method and handling charges. Expedited shipping offers may not be available for price matched orders. The item also needs to be the identical product available for purchase from an authorized dealer and not a pricing error. Excludes manufacturer restrictions, rebates, liquidations, auction sites such as Ebay, coupons, promotional offers, employee discounts and membership club stores. Price matches discounts cannot be combined with AutoAnything promotional offers. California residents – price matches do not include state sales tax.
+
+On rare occasions, erroneous price or availability listings may appear on this site or independently operated affiliate sites. While we apologize for the inconvenience such an error may cause, AutoAnything reserves the right to correct inaccuracies at any time, with or without notice, and update any related orders. We also reserve the right not to price match against any erroneous price listing on this site or any other site. For more information on site errors and corrections, please see our full [terms and conditions](http://www.autoanything.com/help/policy.aspx#legalnotice).
 
 * * *
 
@@ -108,7 +110,7 @@ Effective: May 25, 2006.
 
 ## Safe & Secure Shopping
 
-The AutoAnything Security Guarantee protects you while you shop at AutoAnything so that you never have to worry about credit card safety. We guarantee that every transaction you make at AutoAnything will be safe. This means you pay nothing if unauthorized charges are made to your credit card as a result of shopping at AutoAnything. We have processed more than 100,000 problem free orders. AutoAnything servers use Secure Sockets Layer (SSL), an encryption technology that works with Netscape, Microsoft Internet Explorer, and AOL's browser. This ensures that only AutoAnything can read your personal information. We reveal only the last four digits of your credit card numbers when confirming an order. We will, however, transmit the entire credit card number to the appropriate credit card company during order processing.
+The AutoAnything Security Guarantee protects you while you shop at AutoAnything so that you never have to worry about credit card safety. We guarantee that every transaction you make at AutoAnything will be safe. This means you pay nothing if unauthorized charges are made to your credit card as a result of shopping at AutoAnything. We have processed more than 500,000 problem free orders. AutoAnything servers use Secure Sockets Layer (SSL), an encryption technology that works with Netscape, Microsoft Internet Explorer, AOL, and Apple's Safari's browser. This ensures that only AutoAnything can read your personal information. We reveal only the last four digits of your credit card numbers when confirming an order. We will, however, transmit the entire credit card number to the appropriate credit card company during order processing.
 
 After you click on the "checkout" button, be sure that the website's URL always begins with https://www.autoanything.com/
 
@@ -216,6 +218,7 @@ _*All times pacific_
 **Order by email:**| [sales@autoanything.com](mailto:sales@autoanything.com)  
 ---|---  
 **Express shipping:**| [expressshipping@autoanything.com](mailto:expressshipping@autoanything.com)  
+**APO/FPO Shipping:**| [apo@autoanything.com](mailto:apo@autoanything.com)  
 **International orders:**| [internationalshipping@autoanything.com](mailto:internationalshipping@autoanything.com)  
 **Order status info:**| [orderstatus@autoanything.com](mailto:orderstatus@autoanything.com)  
 **Cancel an order:**| [cancel@autoanything.com](mailto:cancel@autoanything.com)  
