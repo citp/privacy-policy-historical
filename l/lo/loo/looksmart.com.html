@@ -1,11 +1,10 @@
-<!--The following is the downloaded HTML source of the looksmart.com privacy policy that was archived on 2006-10-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061030082831id_/http%3A//aboutus.looksmart.com/p/aboutus/corp/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the looksmart.com privacy policy that was archived on 2007-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070613063301id_/http%3A//aboutus.looksmart.com/p/aboutus/corp/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd "><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>LookSmart About Us - Privacy Policy</title>
 <meta name="description" content="Read about LookSmart's terms of service, advertising standards, privacy policy and editorial policy.">
 <meta name="keywords" content="InfoSpace, CNET, Inktomi, LookSmart.com">
 <style>
-<!--
 body {
 	background:#fff;
 	border:0;
@@ -41,6 +40,16 @@ h2 {
 
 label { font-weight: 700; }
 
+input {
+    border: 1px solid #ccc;
+    border-top: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+}
+
+p.alert {
+    color: #C00;
+}
+
 #box {
 	background:#fff;
 	margin:auto;
@@ -55,6 +64,8 @@ label { font-weight: 700; }
 	height: 72px;
 	
 }
+
+
 
 .aboutSplash#left{text-align:left;}
 
@@ -81,13 +92,18 @@ label { font-weight: 700; }
 }
 
 .aboutNav {background-color:#F1F1E4;color:#333;height:auto;}
+.aboutNavPttp {background-color:#F3E2C6;color:#333;height:auto;}
 .aboutNavJobs {background-color:#F1F1E4;color:#333;height:auto;}
-.aboutNavTR, .aboutNavLabel {color:#333;font-weight:bold;margin-bottom:2px;}
+.aboutNavTR, .aboutNavPttpTR, .aboutNavLabel {color:#333;font-weight:bold;margin-bottom:2px;}
 .aboutNavTR {background:url(/i/us/home/bg-corner-tr.gif) no-repeat top right;text-transform:uppercase;padding:6px 9px 0 9px;margin-bottom:8px;}
 .aboutNavTL {background:url(/i/us/home/bg-corner-tl.gif) no-repeat top left;}
+.aboutNavPttpTR {text-transform:uppercase;padding:6px 9px 0 9px;margin-bottom:8px;}
+.aboutNavPttpTL {}
 .aboutNavBody {padding:0 10px 0 10px;}
 .aboutNavBR {background:url(/i/us/home/bg-corner-br.gif) no-repeat bottom right;height:10px;}
 .aboutNavBL {background:url(/i/us/home/bg-corner-bl.gif) no-repeat bottom left;}
+.aboutNavPttpBR {height:10px;}
+.aboutNavPttpBL {}
 
 .aboutline {
 	border-bottom:1px dashed #333;
@@ -95,31 +111,31 @@ label { font-weight: 700; }
 	padding:0;
 }
 
-#contents {
+#contents, #contentsPttp {
 	font-size: medium;
 	font-weight: bold;
 	}	
 	
-#contents ul {
+#contents ul, #contentsPttp ul {
 	list-style-type: none;
 	margin:0;
 	padding:0;
 	}
 
-#contents ul ul {
+#contents ul ul, #contentsPttp ul ul {
 	background:#F1F1E4;
 	list-style-type: none;
 	margin-bottom:10px;
 	padding:0;
 	}
 
-#contents li {
+#contents li, #contentsPttp li {
 	background:#F1F1E4;
 	padding:4px 0 4px 0;
 	font-size:11px;
 	}
 
-#contents li:hover {
+#contents li:hover, #contentsPttp li:hover {
 	background:#fff;
 	}
 
@@ -127,7 +143,7 @@ label { font-weight: 700; }
 	width: 208px;
 }
 
-#contents ul ul li {
+#contents ul ul li, #contentsPttp ul ul li {
 	background:#F1F1E4;
 	text-indent:10px;
 	border:none;
@@ -136,27 +152,31 @@ label { font-weight: 700; }
 	font-weight: normal;
 	}
 
-#contents a {
+#contentsPttp ul ul, #contentsPttp li, #contentsPttp ul ul li {
+	background:#F3E2C6;
+}
+
+#contents a, #contentsPttp a {
 	color:#333;
 	text-decoration:none;
 	}
 	
-#contents ul ul a {
+#contents ul ul a, #contentsPttp ul ul a {
 	color:#3769DD;
 	text-decoration:underline;
 	}
 	
-#contents ul ul a:visited {
+#contents ul ul a:visited, #contentsPttp ul ul a:visited {
 	color:#3D5999;
 	text-decoration:underline;
 	}
 	
-#contents a:visited {
+#contents a:visited, #contentsPttp a:visited {
 	color:#333;
 	text-decoration:none;
 	}
 	
-#contents a:hover {
+#contents a:hover, #contentsPttp a:hover {
 	color:#3270FF;
 	text-decoration:underline;
 	}
@@ -331,7 +351,7 @@ margin-top: -1.5em;
  }
  #fmSubscribe input, #fmSubscribe select { margin-left: 10px;}
  input#suSubscribe { margin-left: 160px; }
--->
+
 #top { 
 position: relative;
 height: 90px;
@@ -345,8 +365,9 @@ width: 770px;
 }
 #title_logo, #search, #top_home { position: absolute; }
 
-#title_logo{
-padding-top:10px;}
+#title_logo {
+	padding-top:10px;
+}
 
 
 #container { 
@@ -365,6 +386,58 @@ margin-bottom:10px;
 background:#fffbea;
 padding: 5px 10px 5px 5px;
 width: 100%;
+}
+
+#publisher-contact {
+    margin-bottom: 200px;
+    border-collapse: collapse;
+}
+
+span.required {
+    color: #C00;
+}
+
+#publisher-contact td {
+    text-align: left;
+    vertical-align: top;
+    padding: 3px;
+    color: #555;
+    font: normal 11px lucida grande, verdana, sans-serif;
+}
+
+#publisher-contact label {
+    display: block;
+    color: #333;
+}
+
+#publisher-contact input, #publisher-contact select {
+    float: left;
+    display: inline;
+    border: 1px solid #ccc;
+    border-top: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+    width: 99%;
+    font: normal 11px lucida grande, verdana, sans-serif;
+}
+
+#publisher-contact select {
+    width: 250px;
+}
+
+#publisher-contact input#submit {
+    width: 100px;
+    margin-top: 20px;
+    border: 1px solid #333;
+}
+
+#publisher-contact textarea {
+    border: 1px solid #ccc;
+    border-top: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+    overflow: auto;
+    height: 40px;
+    width: 99%;
+    font: normal 11px lucida grande, verdana, sans-serif;
 }</style>
 
 <!-- WIDGET_CSS_AGGREGATOR  -->
@@ -372,9 +445,10 @@ width: 100%;
 </head>
 <body>
 <div id="container">
-  <div id="top">
-       <div id="title_logo"><a href="http://www.looksmart.com/"><img src="/i/ls/title-looksmart.gif" border="0"></a></div>
-</div>
+	<div id="top">
+		<div id="title_logo">
+		<a href="http://www.looksmart.com/"><img src="/i/ls/title-looksmart.gif" border="0"></a>		</div>
+	</div>
 
 <div id="yelStrip"><!-- --></div>
 
@@ -419,140 +493,176 @@ document.write(if_tag);
 
 <!-- END Insight XE -->
 
-<h2 class="topSpace">Privacy Policy: August 15, 2005</h2>
+<!--WEBSIDESTORY CODE HBX1.0 (Universal)-->
 
-<p>LookSmart.com, a service of LookSmart, Ltd., has created this privacy statement in order to demonstrate our firm commitment to protecting your privacy. The following discloses our information gathering and dissemination practices for the www.LookSmart.com.com site.</p>
+<!--COPYRIGHT 1997-2004 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
+
+<script language="javascript">
+
+var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
+
+var hbx=_hbEvent("pv");hbx.vpc="HBX0100u";hbx.gn="ehg-looksmart.hitbox.com";
+
+//CONFIGURATION VARIABLES
+
+hbx.acct="DM570114NDMC61EN3";
+
+hbx.pn="";
+
+hbx.pndef="title";
+
+hbx.mlc="CONTENT+CATEGORY";
+
+hbx.ctdef="full";
+
+hbx.lt="auto";
+
+</script><script language="javascript1.1" defer="" src="http://aboutus.looksmart.com/js/hbx.js"></script>
+
+<!--END WEBSIDESTORY CODE-->
+
+<h2 class="topSpace">Privacy Policy: February 7, 2007</h2>
+
+<p>LookSmart, a service of LookSmart, Ltd., has created this privacy statement to demonstrate our firm commitment to protecting your privacy. The following discloses our information gathering and dissemination practices for the <a href="http://www.LookSmart.com">www.LookSmart.com</a> site.</p>
+
 
 <p>The following questions are answered below:</p>
 
 <ol>
-<li><a href="#q1">What information does LookSmart.com collect?</a></li>
+<li><a href="#q1">What information does LookSmart collect?</a></li>
 <li><a href="#q2">What organization is collecting the information?</a></li>
-<li><a href="#q3">What does LookSmart.com do with the data it collects?</a></li>
-<li><a href="#q4">With whom does LookSmart.com share data?</a></li>
+<li><a href="#q3">What does LookSmart do with the data it collects?</a></li>
+<li><a href="#q4">With whom does LookSmart share data?</a></li>
 <li><a href="#q5">What choices are available regarding collection, use and distribution of the information (Opt Out Policy)?</a></li>
 <li><a href="#q6">How can I update or correct my information?</a></li>
 <li><a href="#q7">How can I delete my information?</a></li>
-<li><a href="#q8">What procedures have been designed to protect the loss, misuse or alteration of information under LookSmart.com's control?</a></li>
-<li><a href="#q9">What about privacy policies for sites to which LookSmart.com links?</a></li>
-<li><a href="#q10">What happens to my information if LookSmart.com merges with or is sold to another company?</a></li>
+<li><a href="#q8">What procedures have been designed to protect the loss, misuse or alteration of information under LookSmart's control?</a></li>
+<li><a href="#q9">What about privacy policies for sites to which LookSmart links?</a></li>
+<li><a href="#q10">What happens to my information if LookSmart merges with or is sold to another company?</a></li>
+<li><a href="#q11">Notification of Changes.</a></li>
+<li><a href="#q12">Contact Information.</a></li>
 </ol>
 
 <p>If you have any questions about this privacy statement, the practices of this site or your dealings with this site, email <a href="mailto:copyright@looksmart.net">copyright@looksmart.net</a>.</p>
 
 <ol>
-<a name="q1"></a><li><strong>What information does LookSmart.com collect?</strong>
+<a name="q1"></a><li><strong>What information does LookSmart collect?</strong>
 
-<p>At different times, LookSmart.com may collect several types of information about you.  Except as otherwise stated in this privacy policy, we do not provide this information to third parties, except in aggregate form.</p>
+<p>At different times, LookSmart may collect several types of information about you.  Except as otherwise stated in this privacy policy, we do not provide this information to third parties, except in aggregate form.</p>
 
-<p>First, we or our partners or advertisers may use a feature of your browser called a cookie to assign identification to your computer. The unique user ID contained within your cookie automatically identifies your computer — but not you — to our servers every time you visit our site. Cookies by themselves cannot be used to find out the identity of any user. You can turn the cookies feature off by using your browser's preference options, but you may not be able to utilize some services properly.</p>
+<p>First, we or our partners or advertisers may use a feature of your browser called a cookie to assign identification to your computer. The unique user ID contained within your cookie automatically identifies your computer - but not you - to our servers every time you visit our site. Cookies by themselves cannot be used to find out the identity of any user. You can turn the cookies feature off by using your browser's preference options, but if you do so you may not be able to utilize some services properly. 
+</p>
 
-<p>Second, we keep track of your IP address to help diagnose problems with our servers and to administer our site. Your IP address is a number that identifies a computer which accesses the Internet.  This address is used to gather broad demographic information about you, such as your Internet service provider and the geographic location of your IP address. LookSmart.com may also collect aggregate information on how our users are utilizing the site. This might include information regarding traffic patterns through the site and search queries.</p>
+<p>Second, we keep track of your IP address to help diagnose problems with our servers and to administer our site. Your IP address is a number that identifies a computer which accesses the Internet.  This address is used to gather broad demographic information about you, such as your Internet service provider and the geographic location of your IP address. LookSmart may also collect aggregate information on how our users are utilizing the site. This might include information regarding traffic patterns through the site and search queries. 
+</p>
+<p>Third, we log browser types, access times, URLs from which visitors came to our site and URLs viewed by visitors while on our site.  Again, LookSmart uses this information on an aggregate basis, in this case making sure we can support overall visitor traffic and service performance. 
+</p>
+<p>Fourth, at specific times we may ask you to provide us with personal information to enable you to register for a service or to enter a sweepstakes. You may also provide personal information if you write us feedback email.  This information may include but is not limited to your name and email address. You may always choose not to provide us with this information; however, this may limit our ability to provide you with a specific service, offer you personalized content, or respond to your feedback. </p>
 
-<p>Third, we log browser types, access times, URLs from which visitors came to our site and URLs viewed by visitors while on our site. Again, LookSmart.com uses this information on an aggregate basis, in this case making sure we can support overall visitor traffic and service performance.</p>
-
-<p>Fourth, at specific times we may ask you to provide us with personal information in order for you to register for a service or to enter a sweepstakes. Also, you may also provide personal information if you write us feedback email.  This information may include but is not limited to your name and email address. You may always choose not to provide us with this information; however, this may limit our ability to provide you with a specific service, offer you personalized content, or respond to your feedback.</p>
-
-<p>Fifth, we contract with 24/7 Real Media, a service partner, to provide us with a data collection and reporting service to better understand overall use of our site. 24/7 Real Media may store certain legacy data that we received from visitors to our site prior to our relationship with them, so that we may access this information via their reporting service. 24/7 Real Media may collect information on our behalf about our users' visiting behaviors in several ways, including through the use of cookies or pixel tags.  We use 24/7 Real Media to understand what's popular and useful for visitors.</p>
+<p>Fifth, we contract with service partners 24/7 Real Media and WebSideStory, to provide us with data collection and reporting services to better understand overall use of our site. These service partners may store certain legacy data that we received from visitors to our site prior to our relationship with them, so that we may access this information via their reporting service.  These service partners may collect information on our behalf about our users' visiting behaviors in several ways, including through the use of cookies or pixel tags.  We use these service partners to understand what's popular and useful for visitors.  Our service partners are contractually prohibited from disclosing this information to any third party.
+</p>
 </li>
-
 <a name="q2"></a><li>
 <strong>What organization is collecting the information?</strong>
 
-<p>LookSmart.com usually collects the requested information. However, LookSmart.com has chosen select partners in order to provide certain services. In order to use certain services on the site, it may be necessary to enter information that then goes to our partner and is not kept by LookSmart.com. The areas of our site in which partners are collecting information may be cobranded with our partners' logos.  If you have questions regarding the privacy policy or data collection practices of one of our content partners, please contact that partner directly.</p>
+<p>LookSmart usually collects the requested information. However, LookSmart has chosen select partners to provide certain services. To use certain services on the site, it may be necessary to enter information that then goes to our partner and is not kept by LookSmart. The areas of our site in which partners are collecting information may be cobranded with our partners' logos.  If you have questions regarding the privacy policy or data collection practices of one of our content partners, please contact that partner directly. </p>
 
-<p>We use third-party advertising companies and advertising networks to collect information and serve ads to you when you visit our site.  These companies may use cookies, pixel tags, or otherwise independently collect information (not including your name, address email address or telephone number) from you and use this information about your visits to this and other sites in order to provide advertisements about goods and services of interest to you.  We do not control their collection and use of information. Please note that if an advertiser or advertising network asks us to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 13-24 who have viewed sports content) and you respond to that ad, the advertiser or advertising network may conclude that you fit the description of the audience they are trying to reach.</p>
+<p>We use third-party advertising companies and advertising networks to collect information and serve ads to you when you visit our site.  These companies may use cookies, pixel tags, or otherwise independently collect information (not including your name, address email address or telephone number) from you and use this information about your visits to this and other sites to provide advertisements about goods and services of interest to you.  We do not control their collection and use of information.  Please note that if an advertiser or advertising network asks us to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 13-24 who have viewed sports content) and you respond to that ad, the advertiser or advertising network may conclude that you fit the description of the audience they are trying to reach.  </p>
 
-<p>To learn more about the collection of information by these third party advertising networks, including how to opt out of such collection, see the links below.</p>
+<p>To learn more about the collection of information by these third party advertising networks, including how to opt out of such collection, see the links below.  </p>
 
-<p>To opt out of collection by AlmondNet, please visit: http://www.almondnet.com/privacy.aspx?miid=7&amp;artid=52</p>
+<p>To opt out of collection by WebSideStory, please visit: <a href="http://www.websidestory.com/privacy/cookie-opt-out.html" target="_blank">http://www.websidestory.com/privacy/cookie-opt-out.html</a>  </p>
 
-<p>To opt out of collection by Revenue Science, Inc., please visit: http://www.networkadvertising.org/optout_nonppii.asp</p>
-
-<p>To opt out of collection by 24/7 Real Media, please visit: http://www.247realmedia.com/opt-out.html</p>
-
+<p>To opt out of collection by 24/7 Real Media, please visit: <a href="http://www.247realmedia.com/opt-out.html" target="_blank">http://www.247realmedia.com/opt-out.html</a></p>
 </li>
-
 <a name="q3"></a><li>
-<strong>What does LookSmart.com do with the data it collects?</strong>
+<strong>What does LookSmart do with the data it collects?</strong>
 
-<p>Whenever LookSmart.com collects data, the data is intended to tailor or improve the experience of visitors to our site. From the data collected we can customize content and advertising based on the user's preferences. We may use information from cookies to differentiate between unique users, personalize the site for each unique user, to control the frequency of individual advertisements directed to individual computers, and other purposes. In all cases, personally identifiable information is not shared with our advertisers, except as otherwise stated in this privacy policy.</p>
+<p>Whenever LookSmart collects data, the data is intended to tailor or improve the experience of visitors to our site. From the data collected we can customize content and advertising based on the user's preferences. We may use information from cookies to differentiate between unique users, personalize the site for each unique user, to control the frequency of individual advertisements directed to individual computers, and other purposes. In all cases, personally identifiable information is not shared with our advertisers, except as otherwise stated in this privacy policy. </p>
 
-<p>We use IP addresses to help diagnose problems with our server and to administer our site. It's the way we can make sure our service is available 24/7 to you.</p>
+<p>We use IP addresses to help diagnose problems with our server and to administer our site.  It's the way we can make sure our service is consistently available to you. </p>
 
-<p>If you register for a service or to enter a sweepstakes, we may use the information we collect to provide the service to you or send communications regarding the sweepstakes.  We may also send a newsletter by email to our users who opt to receive such emails.  It is our policy to send these emails only to users who give us permission to do so. In every such email, we will also have instructions on how to unsubscribe and avoid receiving any future emails from us.  LookSmart.com also may contact you by email to respond to feedback you have submitted.</p>
+<p>If you register for a service or to enter a sweepstakes, we may use the information we collect to provide the service to you or send communications regarding the sweepstakes.  We may also send a newsletter by email to our users who opt to receive such emails.  It is our policy to send these emails only to users who give us permission to do so. In every such email, we will also have instructions on how to unsubscribe to avoid receiving any future emails from us.  LookSmart also may contact you by email to respond to feedback you have submitted. </p>
 </li>
 
 <a name="q4"></a><li>
-<strong>With whom does LookSmart.com share data?</strong>
+<strong>With whom does LookSmart share data?</strong>
 
-<p>LookSmart.com may disclose your personal information to our business partners in order to provide you with the services you have requested, or to companies that offer a cobranded version of our site. If you have questions regarding the privacy policy or data-collection practices of one of our business partners, please contact that partner directly. LookSmart.com does not have control over and is not responsible for the data collection and use practices of our business partners.  LookSmart.com may also disclose your personal information to other members of the LookSmart family of businesses.</p>
+<p>LookSmart may disclose your personal information to our business partners to provide you with the services you have requested, or to companies that offer a cobranded version of our site. If you have questions regarding the privacy policy or data-collection practices of one of our business partners, please contact that partner directly. LookSmart does not have control over and is not responsible for the data collection and use practices of our business partners.  LookSmart may also disclose your personal information to other members of the LookSmart family of businesses.  </p>
 
-<p>We also may disclose your personal information (including without limitation IP addresses) to a third party if we believe in good faith that the law or legal process requires it, to protect the rights or property of LookSmart.com or others, or as otherwise described in this privacy policy.</p>
+<p>We also may disclose your personal information (including without limitation IP addresses) to a third party if the law or legal process requires it, to protect the rights or property of LookSmart or others, or as otherwise described in this privacy policy. </p>
 
-<p>We may disclose certain non-personally identifiable information about you to advertisers or other third parties in order to present you with targeted advertisements.  We may share aggregate demographic information with our advertisers or information collection companies, but will not reveal any personally identifiable information in these instances.</p>
+<p>We may disclose certain non-personally identifiable information about you to advertisers or other third parties to present you with targeted advertisements.  We may share aggregate demographic information with our advertisers or information collection companies, but will not reveal any personally identifiable information in these instances. </p>
 </li>
 
 <a name="q5"></a><li>
 <strong>What choices are available regarding collection, use and distribution of the information (Opt Out Policy)?</strong>
 
-<p>As previously noted, you may always choose to not provide us with any of the information we request; however, this may limit our ability to provide you with a specific service or limit our ability to offer personalized content.</p>
+<p>As previously noted, you may always choose to not provide us with any of the information we request; however, this may limit our ability to provide you with a specific service or limit our ability to offer personalized content. </p>
 
 <p>To learn more about the collection of information by third party advertising networks, including how to opt out of such collection, see the links below.</p>
 
-<p>To opt out of collection by AlmondNet, please visit: http://www.almondnet.com/privacy.aspx?miid=7&amp;artid=52</p>
+<p>To opt out of collection by WebSideStory, please visit: <a href="http://www.websidestory.com/privacy/cookie-opt-out.html" target="_blank">http://www.websidestory.com/privacy/cookie-opt-out.html</a>  </p>
 
-<p>To opt out of collection by Revenue Science, Inc., please visit: http://www.networkadvertising.org/optout_nonppii.asp</p>To opt out of collection by 24/7 Real Media, please visit: http://www.247realmedia.com/opt-out.html<p></p>
+<p>To opt out of collection by 24/7 Real Media, please visit: <a href="http://www.247realmedia.com/opt-out.html" target="_blank">http://www.247realmedia.com/opt-out.html</a></p>
 
 </li>
 
 <a name="q6"></a><li>
 <strong>How can I update or correct my information?</strong>
 
-<p>LookSmart.com does not currently have a method for users to change their user information. In the case of personalized services, you will be able to modify your user information through personalization links on those pages.</p>
+<p>LookSmart does not currently have a method for users to change their user information. In the case of personalized services, you will be able to modify your user information through personalization links on those pages. </p>
+
 </li>
 
 <a name="q7"></a><li>
 <strong>How can I delete my information?</strong>
 
-<p>LookSmart.com currently does not have a method for completely deleting user information from our database. However, deleting the cookie stored on your computer will cause you to be perceived as a new user with no known user data. You may also change a setting in your browser, instructing it not to accept cookies, but this could prevent you from receiving some LookSmart.com services.</p>
+<p>LookSmart currently does not have a method for completely deleting user information from our database. However, deleting the cookie stored on your computer will cause you to be perceived as a new user with no known user data. You may also change a setting in your browser, instructing it not to accept cookies, but this could prevent you from receiving some LookSmart services. </p>
+
 </li>
 
 <a name="q8"></a><li>
-<strong>What procedures have been designed to protect the loss, misuse or alteration of information under LookSmart.com's control?</strong>
+<strong>What procedures have been designed to protect the loss, misuse or alteration of information under LookSmart's control?</strong>
 
-<p>Except as otherwise stated in this privacy policy, LookSmart.com has taken measures to ensure that information that is not publicly available through its site is accessible only to the user who initially entered the information or to authorized personnel at LookSmart.com or its partners, and only after a password has been entered.  In the unlikely event of a security breach for which we provide notice under Cal. Civ. Code § 1798.82, LookSmart will send a notification to the email address on file (if any) for each relevant user informing him or her of the security breach.</p>
+<p>Except as otherwise stated in this privacy policy, LookSmart has taken measures to ensure that information that is not publicly available through its site is accessible only to the user who initially entered the information or to authorized personnel at LookSmart or its partners, and only after a password has been entered.  In the unlikely event of a security breach for which we provide notice under Cal. Civ. Code § 1798.82, LookSmart will send a notification to the email address on file (if any) for each relevant user informing him or her of the security breach. </p>
 
 </li>
 
 <a name="q9"></a><li>
-<strong>What about privacy policies for sites to which LookSmart.com links?</strong>
+<strong>What about privacy policies for sites to which LookSmart links?</strong>
 
-<p>LookSmart.com contains many links to Web sites not controlled by LookSmart.com. These sites have their own policies and practices with respect to online privacy, and LookSmart.com cannot be responsible for the privacy practices or the content of these Web sites. In addition, in certain instances a LookSmart.com advertiser may ask you for personal information. LookSmart.com cannot be responsible for the privacy practices of its advertisers.</p>
+<p>LookSmart contains many links to Web sites not controlled by LookSmart. These sites have their own policies and practices with respect to online privacy, and LookSmart cannot be responsible for the privacy practices or the content of these Web sites. </p>
+
 </li>
 
 <a name="q10"></a><li>
-<strong>What happens to my information if LookSmart.com merges with or its assets are sold to another company?</strong>
+<strong>What happens to my information if LookSmart merges with or its assets are sold to another company?</strong>
 
-<p>It is possible that LookSmart.com and/or any of our assets may be acquired. In such a transaction, user information may be transferred to the acquiring entity. While we will endeavor to require the successor company to maintain this privacy policy, we cannot guarantee that our policy will remain in effect.</p>
+<p>It is possible that LookSmart and/or any of our assets may be acquired. In such a transaction, user information may be transferred to the acquiring entity. While we will endeavor to require the successor company to maintain this privacy policy, we cannot guarantee that our policy will remain in effect. </p>
+
 </li>
-</ol>
 
+<a name="q11"></a><li>
 <strong>Notification of Changes</strong>
 
-<p>This policy may be revised over time as new features are added to the site. We will post our new privacy policy, along with the date of its last revision, prominently so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. Please check this page for information about revisions to our privacy policy.</p>
+<p>This policy may be revised over time as new features are added to the site. We will post our new privacy policy, along with the date of its last revision, prominently so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. Please check this page for information about revisions to our privacy policy. </p>
 
+</li>
+<a name="q12"></a><li>
 <strong>Contact Information</strong>
 
-<p>If you have any questions about this privacy policy or about LookSmart.com information collection practices, please contact us at <a href="mailto:copyright@looksmart.net">copyright@looksmart.net</a>.</p>
-</div> <!-- rightcontent -->
+<p>If you have any questions about this privacy policy or about LookSmart's information collection practices, please contact us at <a href="mailto:copyright@looksmart.net">copyright@looksmart.net</a>.</p>
+
+</li>
+</ol></div> <!-- rightcontent -->
 <br clear="all">
 <div align="center" id="yelStrip">
   <!--  -->
 </div>
 
 <div id="aboutFooter" style="text-align:left;padding-bottom:8px;" align="left">
-    © 2006 LookSmart, Ltd.<br>
+    © 2007 LookSmart, Ltd.<br>
 	<a href="http://aboutus.looksmart.com/p/aboutus/advertise/">Advertiser Solutions</a> ·
 	<a href="http://aboutus.looksmart.com/p/aboutus/publisher/">Publisher Solutions</a> ·
 	<a href="http://www.looklistings.com/campaigns/submit/initial.jhtml?registerState=6&amp;loginState=7">Advertiser Login</a> ·
@@ -580,7 +690,7 @@ document.write(if_tag);
 <a href="http://www.looksmartauto.com/">Auto</a> · 
 <a href="http://www.looksmartcities.com/">Cities</a> · 
 <a href="http://www.looksmarteducation.com/">Education</a> · 
-<a href="http://www.findarticles.com/">FindArticles™</a> · 
+<a href="http://findarticles.com/">FindArticles™</a> · 
 <a href="http://www.looksmartfood.com/">Food</a> · 
 <a href="http://www.furl.net/">Furl.net</a> · 
 <a href="http://www.looksmarthealth.com/">Health</a> · 
