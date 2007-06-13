@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the flycell.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208202731id_/http%3A//www.flycell.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flycell.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613131239id_/http%3A//www.flycell.com/privacy-policy) for the most accurate reproduction.*
 
 # Ringtones, Cell Phone Wallpapers, Mobile Phone Games and more - Flycell - Privacy Policy
 
-| 
-
 We at FLYCELL USA, Inc. know how much you value your privacy, so we make sure that your privacy is protected any time you're using our services. You do need to give us some personal information so we're able to process your orders and requests. However, we want you to know what information we need, why we need it, and how we make sure that your information is protected. We want you to be able to enjoy your FLYCELL experience safely and privately.
 
-Your FLYCELL account   
+  
 When you sign up with FLYCELL, you establish a password-protected personal account for ordering ringtones, graphics, games and other items and services. 
 
   
@@ -55,10 +53,3 @@ Flycell, Inc. owns and operates FLYCELL and is the sole owner of the information
 
   
 If you have any questions or suggestions regarding our Privacy Policy, please contact us at [help@flycell.com](mailto:help@flycell.com)
-
-|  |   
-QUESTIONS? 
-
-If you have a question that is not answered here, please use the [Contact Support](https://web.archive.org/support) page.  
-  
----|---|---
