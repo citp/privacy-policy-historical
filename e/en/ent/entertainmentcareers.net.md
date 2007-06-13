@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entertainmentcareers.net privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206071645id_/http%3A//entertainmentcareers.net/sbjobs/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertainmentcareers.net privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613193023id_/http%3A//www.entertainmentcareers.net/sbjobs/privacy.asp) for the most accurate reproduction.*
 
 # Entertainment Jobs and Internships - Entertainment Careers.Net
 
@@ -9,13 +9,14 @@ This is a privacy policy for EntertainmentCareers.Net, LLC. Our homepage on the 
 We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
     
     
-    EntertainmentCareers.Net, LLC
-    10622 Kinnard Ave - A		
-    Los Angeles, CA 90024 
+    EntertainmentCareers.Net Inc
+    914 S Barrington Ave  
+    Los Angeles, CA 90049  
+    
     USA
     
 
-You may contact us by e-mail at [ info@entertainmentcareers.net](mailto:info@entertainmentcareers.net). You may call us at 310-441-9963. 
+You may contact us by e-mail at [ info@entertainmentcareers.net](mailto:info@entertainmentcareers.net). 
 
 ## Dispute Resolution and Privacy Seals
 
