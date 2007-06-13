@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spark.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206231408id_/http%3A//www.spark.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spark.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613080213id_/http%3A//www.spark.net/privacy.htm) for the most accurate reproduction.*
 
 # Spark Networks
 
