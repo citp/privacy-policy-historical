@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reeceandnichols.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205235619id_/http%3A//www.reeceandnichols.com/Content/Content.aspx%3FFooterID%3D183793) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reeceandnichols.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613102329id_/http%3A//www.reeceandnichols.com/Content/Content.aspx%3FFooterID%3D183793) for the most accurate reproduction.*
 
 # Reece & Nichols Real Estate, Mortgage, Closing Title Experts | PRIVACY
 
