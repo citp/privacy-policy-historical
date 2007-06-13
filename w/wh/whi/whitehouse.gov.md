@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the whitehouse.gov privacy policy that was archived on 2006-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061227140316id_/http%3A//www.whitehouse.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitehouse.gov privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613035347id_/http%3A//www.whitehouse.gov/privacy.html) for the most accurate reproduction.*
 
 # White House Website Privacy and Security Policy
+
+ [Home](https://web.archive.org/index.html) > [Search](https://web.archive.org/search/) > [Privacy Policy](https://web.archive.org/privacy.html)   
+|   
+---|---  
+  
+
 
 **White House Website Privacy and Security Policy**
 
@@ -24,6 +30,8 @@ If you do nothing during your visit but browse through the website, read pages, 
   3. The date and time you access our site; 
   4. The pages you visit; and 
   5. If you linked to the White House website from another website, the address of that website. 
+
+
 
 We use this information to help us make our site more useful to visitors -- to learn about the number of visitors to our site and the types of technology our visitors use. We do **not** track or record information about individuals and their visits. 
 
