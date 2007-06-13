@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mactalk.com.au privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216221234id_/http%3A//www.mactalk.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mactalk.com.au privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613105159id_/http%3A//www.mactalk.com.au/privacy.php) for the most accurate reproduction.*
 
 # 
 
