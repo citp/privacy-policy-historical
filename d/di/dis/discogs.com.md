@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the discogs.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020163813id_/http%3A//help.discogs.com/wiki/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discogs.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613133418id_/http%3A//help.discogs.com/wiki/PrivacyPolicy) for the most accurate reproduction.*
 
-# PrivacyPolicy - Discogs - Trac
+# Discogs Help
 
 **Privacy Statement for Discogs** Discogs has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: Discogs 
 
