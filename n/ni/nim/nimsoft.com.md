@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nimsoft.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215201644id_/http%3A//nimsoft.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nimsoft.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613151942id_/http%3A//www.nimsoft.com/privacy.php) for the most accurate reproduction.*
 
 # Nimsoft - Privacy & Security Policy
 
@@ -38,8 +38,6 @@ By using our web site, you consent to the collection and use of the information 
 
 If you have any questions or concerns about our collection, use or disclosure of your personal information, please email [privacy@nimsoft.com](mailto:privacy@nimsoft.com). For more information about this site or your visit, please email us at [webmaster@nimsoft.com](mailto:webmaster@nimsoft.com).
 
-"We use NimBUS to monitor and verify Quality of Service of more than 5000 operational IT-infrastructure elements all over Norway. It provides us with an overview of the network- and systems for our customers that is quite unique.
+"We were excited to see how quickly NimBUS deployed compared to OpenView. In a typical 10 server environment, I'd say we cut our deployment time by 80 percent. Where we used to take days to bring up new customer SLAs, we now do it in hours. NimBUS also requires less highly paid personnel, and less staff time overall, for ongoing support. By reducing our personnel requirements we've saved quite a bit of money."
 
-The flexibility in the software gives both Computerland, as a Managed Service Provider, and our customers a very good overview of the IT-infrastructure and enables us to quickly pinpoint where there are problems. NimBUS was chosen in competition with software vendors like IBM/Tivoli and BMC/Patrol, together with several others."
-
-ComputerLand
+Vince Conroy, CTO, FusionStorm
