@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gastateparks.org privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218002507id_/http%3A//gastateparks.org/net/content/item.aspx%3Fs%3D6966.0.1.5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gastateparks.org privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613100950id_/http%3A//www.gastateparks.org/net/content/item.aspx%3Fs%3D6966.0.1.5) for the most accurate reproduction.*
 
 # Georgia State Parks - Privacy and Security Policies
 
