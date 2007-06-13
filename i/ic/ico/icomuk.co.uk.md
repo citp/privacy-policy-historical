@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icomuk.co.uk privacy policy that was archived on 2006-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060923173109id_/http%3A//www.icomuk.co.uk/categoryRender.asp%3FcategoryID%3D3549%26cCID%3D5739) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icomuk.co.uk privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613193037id_/http%3A//www.icomuk.co.uk/categoryRender.asp%3FcategoryID%3D3549%26cCID%3D5739) for the most accurate reproduction.*
 
 # Privacy Statement - Icom UK - radio transceivers, receivers and navigation products
 
@@ -13,5 +13,12 @@ Please note that clicking on to links may result in your transferral to another 
 
 This privacy policy may be changed by Icom (UK) Ltd at any time. The revised policy will be posted to this page so that you are always aware of the information we collect, how we use it and under what circumstances we disclose it. Icom (UK) Ltd will ensure that your personal information is treated with the utmost respect and in accordance with Directive 95/46/EC on the protection of individuals with regard to processing of personal data and on the free movement of such data. 
 
-© ICOM (UK) LTD 2006   
+© ICOM (UK) LTD 2007   
 All rights reserved. 
+
+  
+
+
+**© 2007** copyright - **Icom (UK) Ltd**  
+Site Designed and Developed by [**World Launch IT Ltd**](http://www.worldlaunchit.com/)  
+
