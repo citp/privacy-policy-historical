@@ -1,194 +1,137 @@
-> *The following text is extracted and transformed from the shop-com.co.uk privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111210448id_/http%3A//www.shop-com.co.uk/op/a-about-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shop-com.co.uk privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613095754id_/http%3A//www.shop-com.co.uk/op/a-about-privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SHOP.COM UK
 
-Privacy Policy 
+Privacy Policy
 
   
-  
-[About SSL Certificates](http://www.verisign.com/ssl-certificate/) |            |  [ ](http://www.truste.org/ivalidate.php?url=www.shop.com&sealid=101) |              |  [ ](http://www.the-dma.org/)  
+|    
+[About SSL Certificates](http://www.verisign.com/ssl-certificate/) |           | [](http://www.truste.org/ivalidate.php?url=www.shop.com&sealid=101) |             | [](http://www.the-dma.org/)  
 ---|---|---|---|---  
   
-TRUSTe Licensee 
 
-SHOP
 
-•
+SHOP.COM and its family of related sites (the "site" or "sites") is dedicated to protecting the privacy of our valued online customers (and has been since 1997). SHOP.COM created this Privacy Policy to demonstrate its firm commitment to the safety of your personal information. 
 
-COM ([www.SHOP.COM](http://www.shop.com/)) is a licensee of TRUSTe. TRUSTe is an independent, non-profit organisation whose mission is build user's trust and confidence in the Internet by promoting the use of fair information practices. Because SHOP
+SHOP.COM's mission is to provide the most compelling shopping experience for our customers, so at SHOP.COM we want you to feel safe while visiting a partner site or a site that we develop or manage. 
 
-•
+We know that you care how information about you is used and shared, and we appreciate your trust in us to do so carefully and sensibly. To demonstrate our commitment to your privacy, SHOP.COM discloses its information and privacy practices for continuing review for compliance by TRUSTe®. TRUSTe® is an independent, nonprofit organization dedicated to enabling individuals and organizations to establish trusting relationships based on respect for personal identity and information in the evolving networked world. 
 
-COM wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this website has agreed to notify you of: 
+SHOP.COM is a licensee of TRUSTe®, and by displaying the TRUSTe® trustmark, SHOP.COM agreed to notify you and aid you in understanding how we collect and use the information you provide to us, and to assist you in making informed decisions when using our site. 
 
-  1. What personally identifiable information of yours or third-party personally identifiable information is collected from you through the website
-  2. The organisation collecting the information
-  3. How the information is used
-  4. With whom the information may be shared
-  5. What choices are available to you regarding collection, use and distribution of the information
-  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under SHOP•COM's control
-  7. How you can correct any inaccuracies in the information
+As you will see below, SHOP.COM's Privacy Policy outlines some of the types of personal information we receive and collect, as well as some of the steps we take to safeguard your information. We hope this Privacy Policy will help you make an informed decision about sharing your personal information with us.
 
+This Privacy Policy covers the following information:
 
+1. | The types of personally identifiable information collected about you during your relationship with SHOP.COM.  
+---|---  
+2. | The organisation collecting the information  
+3. | The choices you have about the collection, use and sharing of your personally identifiable information.  
+4. | The types of security procedures we take to safeguard your personally identifiable information.  
+5. | How you may access, update and change personally identifiable information you've provided.  
+6. | Other information.  
+7. | How you can ask questions, or send us comments about this Privacy Policy.  
+  
+Your use of this website constitutes your acceptance of this Privacy Policy and your consent to the practices it describes. The information we learn from customers helps us personalize and continually improve the shopping experience at SHOP.COM.
 
-Questions regarding this statement should be directed to: 
+1\. Types of Personally Identifiable Information Collected by SHOP.COM
 
-SHOP
+While you visit SHOP.COM we collect various types of personally identifiable information (PII). Here are the types of information we gather: 
 
-•
+    a. Information You Provide Us.  
+Much of the personally identifiable information we receive comes directly from customers who are interested in obtaining various products and services by shopping at SHOP.COM. Typically, this information includes your name, postal address, email address and telephone number. We may also collect other types of information such as gender, age, number of children, and personal interests, which we may associate with personally identifiable information. If you purchase products or services from SHOP.COM we will note, for example, credit card information, the type of services or products ordered or purchased, and the date of the order or purchase. We collect personal information when you register, log on, or visit our sites, including when you participate in activities on our sites, such as by placing an order, completing a user registration form or online survey, creating an address book, using our Shopping or Gift Services (including eGifts, Gift Certificates, Gift Registry, Bridal Registry, Reminder Service), or participating in a rebate offer, game, promotion, contest or sweepstakes. 
 
-COM  
-1 Quality Court  
-Chancery Lane  
-London WC2A 1HR  
-Telephone: 0845 257 8041  
-E-mail: [Customer Service](mailto:customerserviceuk@shop.com)
+    b. Information From Others.  
+SHOP.COM is constantly improving the products and services we provide our consumers. To aid in serving you better we may supplement personally identifiable information that we have collected directly from our customers with other information that we obtain from third parties or from our partner stores. In addition, we may obtain information about individuals who are not yet users of SHOP.COM. To insure your privacy when we associate information that we obtain from third parties with personally identifiable information that we have collected under this Privacy Policy, we will treat the acquired information like the information that we collected ourselves and, except as permitted by this Privacy Policy, the information will not be shared with other third parties. 
 
-If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). 
+    c. Information Collected Through Technology.  
+We collect information through technology to make SHOP.COM more interesting and useful to you. For instance, when you come to one of the SHOP.COM sites, we collect your IP address. An IP address is often associated with the portal through which you enter the Internet, like your ISP (Internet service provider), your company, or your university. Standing alone, your IP address is not personally identifiable. At times, we also use IP addresses to collect information regarding the frequency with which our customers visit various parts of our sites. We may combine this information with personally identifiable information as more fully described in paragraph 1a. above.
 
-Information Collection and Use
+SHOP.COM also uses cookies. Cookies are pieces of information that a site sends to your computer while you are viewing the site. SHOP.COM and other companies use cookies for a variety of purposes. For instance, when you return to SHOP.COM after logging in, cookies provide information to the site so that the site will remember you. We may also use temporary or "session" cookies to help you shop. These cookies will expire when you place an order. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your experience on SHOP.COM smoother, like the features mentioned above, and some of our services will not function properly including the shopping cart and checkout areas. Some of our business partners may also use cookies on our site; however, we have no access to, or control over, these cookies and do not accept any responsibility for such use. 
 
-We want you to feel safe while visiting any site developed or managed by SHOP
+The SHOP.COM sites use a variety of technical methods for tracking purposes, including web beacons. Web beacons are small pieces of data that are embedded in images on the pages of sites. We may use these technical methods to analyze the traffic patterns on our sites, such as the frequency with which our users visit various parts of our sites. These technical methods may involve the transmission of information either directly to us or to another party authorized by us to collect information on our behalf. We also use these technical methods in HTML emails that we send our customers to determine whether customers have opened those emails and/or clicked on links in those emails. The information from use of these technical methods may be collected in a form that is personally identifiable. 
 
-•
+The SHOP.COM sites may include third party advertising and links to other web sites such as Google, advertising.com or shopping.com. These companies are called "network advertisers." We do not provide any personally identifiable information to these network advertisers. Network advertisers who place advertisements on our sites may also use cookies and web beacons to collect non-personally identifiable information. You may not realize this information is being collected. In some cases, we may have access to information from web beacons and cookies used by network advertisers on our sites and this information may permit us to identify other sites that you have visited that are also associated with the network advertiser. Once you have clicked on an advertisement and have left our sites, our Privacy Policy no longer applies and you must read the privacy policy of the advertiser to see how your personal information will be handled on their site. You should contact these advertisers directly if you have any questions about their use of the information that they collect.
 
-COM. We know that you care how information about you is used and shared, and we appreciate your trust in us to do so carefully and sensibly. Your use of this website constitutes your acceptance of this Privacy Policy and your consent to the practices it describes. The information we learn from customers helps us personalise and continually improve the shopping experience at SHOP.COM. Here are the types of information we gather: 
+2\. How We Use and Share the Personally Identifiable Information We Collect
 
-Non-Personally Identifiable Information:
+    a. Use by SHOP.COM.  
+SHOP.COM may use personally identifiable information for Operational Uses such as helping to establish and verify the identity of users; opening, maintaining, administering and servicing user accounts; processing, servicing or enforcing transactions and sending related service communications; providing services and support to users such as eGifts, Gift Certificates, Gift Registry, Bridal Registry, Reminders, rebates, contests, sweepstakes, and address books; improving the web site, including tailoring it to users' preferences; providing users with service or product updates, promotional notices and offers; responding to your questions, inquiries, comments and instructions; and maintaining the security and integrity of our systems. SHOP.COM may also use personally identifiable information to provide offers, promotions and product updates to you via standard mail. Your email address may be used by SHOP.COM or any subsidiary, parent or other coroporation into which SHOP.COM merges or is otherwise acquired or sold, in whole or in part. 
 
-As with most websites, when you visit SHOP.COM, certain anonymous information about your visit is automatically collected and later analysed, which may include the following: computer and connection information such as the type of browser you use, the server name, operating system, platform and IP address through which you access the internet; the date and time you access the site; purchase history (which we sometimes aggregate with similar information from other customers to create special features, such as Top Sellers and Most Popular); the full URL (Uniform Resource Locator) clickstream to, through and from our Web site; cookie numbers; products you viewed or searched for; and the number of sessions held on our Web site. During some visits, we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as clicks, rollovers and scrolling), and methods used to browse away from the page. This information is not personally identifiable. 
+SHOP.COM welcomes you to post reviews, comments, articles, stories and other appropriate content; send ecards and other communications; and submit suggestions, ideas, comments, questions, or other information. Information or content submitted may be used by SHOP.COM or its affiliates to provide other consumers with product reviews and shopping information. If you do post content or submit material, and unless we indicate otherwise, you grant SHOP.COM a nonexclusive, fee-free, royalty-free, perpetual, irrevocable, and fully sublicensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display such content throughout the world in any media. You grant SHOP.COM the right to use the name or home town that you submit in connection with such content. 
 
-Personally Identifiable Information (PII):
+    b. Use of Your Email Address.  
+SHOP.COM may use your email address for processing, servicing or enforcing transactions and sending related service communications; providing users with service or product updates, promotional notices and offers; and/or responding to your questions, inquiries or comments. Your email address may be used by SHOP.COM or any subsidiary, parent or other corporation into which SHOP.COM merges or is otherwise acquired or sold, in whole or in part. 
 
-Personally Identifiable Information is any information that concerns you individually and would permit someone to contact you. For example, your name, address, telephone/fax number, social security number, credit card number, email address or any information you submitted to us that identifies you individually. PII may be collected by SHOP.COM if you choose to communicate with us through email, via this website, by telephone, in writing, by placing an order, by completing a user registration form or online survey, by creating an address book, using our Shopping or Gift Services (including eGifts, Gift Certificates, Gift Registry, Bridal Registry, Reminder Service), or participating in a rebate offer, contest or sweepstakes. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. You can visit and browse SHOP.COM without revealing personally identifiable information about yourself. 
+    c. Use by Merchant Partners.  
+SHOP.COM and its Merchant Partners share information about you for Fulfillment Uses such as using your email address for shipping and other contact information for purposes of processing, servicing or enforcing transactions and sending order status and other related communications. You can contact each Merchant Partner by clicking on the "Stores" tab, then locating the particular Merchant Partner and finding contact information in the "Merchant Information" link. 
 
-Information from other sources:
+    d. Co-Branding Partners.  
+SHOP.COM has Co-Branding Partners that provide unique benefits to certain loyal customers. In Co-Branded Partnerships, SHOP.COM may acquire or use personally identifiable information to communicate special offers, provide additional benefits or for other related uses. 
 
-We might receive information about you from other sources and add it to our account information. Examples include: updated postal and email information, which we use to correct our records and deliver your next purchase or communication more easily; purchase confirmation, order status, and shipping information from our partner stores to better service your orders or requests placed with these partners through SHOP.COM, and search results and links (including paid listings such as Sponsored Links from Google), and other behavioral or psychographic data that help us to provide an improved experience while visiting our site. 
+    e. Charitable Organizations.  
+SHOP.COM may offer opportunities for you to make purchases or donations to promote the charitable mission of certain organizations (such as Make-A-Wish Foundation). When you participate in these offers, your personally identifiable information may be forwarded to the charitable organization so that it may recognize your donation and provide follow up communication. 
 
-Use of Personally Identifiable Information:
+    f. Companies that Facilitate Communications and Transactions with You.  
+Sometimes SHOP.COM hires companies to help deliver messages or services, such as a company that helps fulfill prizes for a sweepstakes or assists us in the analysis of consumer data, development of new services, sending email, sending catalogs or other promotional mailings; or providing customer assistance or marketing assistance. In those instances, there is a need to share your information with these companies. Sometimes SHOP.COM also works with other companies who help either gather your information or communicate with you. Your opt-out choices under paragraph 3 below will not apply to sharing by SHOP.COM of your personal information with any of these companies. We require these third parties to maintain your information in strictest confidence and to ensure they honor the privacy settings you have selected for the handling of your private information. Nonetheless, except as separately permitted by other provisions of this Privacy Policy, these companies are allowed to gather, receive, and use your information only for the purposes described in this paragraph or as required by law. The personal identifiable information that may be shared is more fully described in paragraph 1a. above. 
 
-SHOP.COM may use PII collected primarily for such purposes as helping to establish and verify the identity of users; opening, maintaining, administering and servicing user accounts; processing, servicing or enforcing transactions and sending related communications; providing services and support to users such as eGifts, Gift Certificates, Gift Registry, Bridal Registry, Reminders, rebates, contests & sweepstakes, and address books; improving the website, including tailoring it to users' preferences; providing users with service or product updates, promotional notices and offers; responding to your questions, inquiries, comments and instructions; maintaining the security and integrity of our systems. 
+    g. Disclosures Required By Law and Disclosures to Help Protect the Security and Safety of Our Sites, and Others.  
+Regardless of any opt-out choices that you make under paragraph 3, SHOP.COM will disclose personal information when it believes in good faith that such disclosures (a) are required by law, including, for example, to comply with a court order or subpoena, or (b) will help to: enforce our Terms of Use; enforce contest, sweepstakes, promotions, and/or game rules; protect your safety or security, including the safety and security of property that belongs to you; and/or, protect the safety and security of our sites, SHOP.COM, and/or third parties, including the safety and security of property that belongs to SHOP.COM or third parties. 
 
-Use of Cookies:
+    h. No Sharing with Third-Party Marketers.  
+We do not rent to, or share your personal information with third-party marketers without first obtaining your consent. Should this policy change in the future, SHOP.COM will post a notification of those changes to the homepage and other places SHOP.COM deems appropriate.
 
-We may obtain non-personally identifiable information by placing a "cookie" on your computer's hard drive so we can recognise you as a return user and personalise your experience. A cookie is a piece of data that enables us to track and target your preferences. The cookie will be stored on your computer's hard drive until you remove it. We may also use temporary or "session" cookies to help you shop. These cookies will expire when you place an order. As with most internet browsers, you can erase this information from your computer's hard drive, block all cookies or even receive a warning before a cookie is placed on your system. Click on your browser's Help button for more information. If you reject our cookies, you may still use our site, but you may be limited in the use of many of our features, including the shopping basket and checkout areas. Some of our business partners may also use cookies on our site; however, we have no access to, or control over, these cookies and do not accept any responsibility for such use. 
+3\. Your choices about the collection, use and sharing of your personally identifiable information
 
-Opt out Choices & Sharing of Data
+With regard to personal information that you provide under this Privacy Policy, there are two separate opt-out choices available to you. These opt-out choices are the means by which you give us, or decline to give us, your consent to use your personal information for the purposes covered by these opt-out choices. There are several methods by which you can exercise your opt-out choices: (a) during the registration process on our sites; (b) after registration, by logging on our sites, clicking on our [My Account](https://www.shop-com.co.uk/amos/cc/main/ccn_account/ccsyn/518) link, [Privacy Policy](https://www.shop-com.co.uk/amos/cc/main/ccn_change_privacy/ccsyn/518) links or going to Manage My Account and following the opt-out directions; (c) by emailing, phoning or writing SHOP.COM using the contact information provided below; (d) promotional emails you receive from us will provide you with an "unsubscribe" option; and (e) at other times and locations on the site. Each of these opt-out choices is subject to the exceptions described further below. 
 
-Opt Out Choices:
+Your two opt-out choices are: 
 
-SHOP
+SHOP.COM: You may choose to opt-out of receiving promotional materials from SHOP.COM, including the licensees, acquirers and Co-Branding Partners by de-selecting "Sign up to receive email announcements and take advantage of special savings from SHOP.COM." 
 
-•
+SHOP.COM Merchant Partners: You may choose to opt-out of receiving promotional materials directly from SHOP.COM Merchant Partners by de-selecting "Make my email address available to stores that I order from today on SHOP.COM." 
 
-COM gives you the option to opt out from receiving offers from us and the stores that you've made purchases from on our site. You can opt out by de-selecting "Sign up to receive email announcements and take advantage of special savings from SHOP
+Please keep in mind that any opt-out choices you make will not apply in situations where (a) you either have made, simultaneously make, or later make a specific request for information from SHOP.COM, (b) SHOP.COM uses your personal information for either "Operational Uses" or "Fulfillment Uses" (as described above in paragraph 2), (c) SHOP.COM shares your personal information under the provisions of paragraph 2 above with respect to "Companies That Facilitate Communications and Transactions With You," or "Disclosures Required By Law and Disclosures to Help Protect the Security and Safety of Our Web Sites, SHOP.COM and Others." 
 
-•
+Finally, if you do not exercise your opt-out choices upon registration or initial log-in at our sites, it may take up to ten (10) days for your opt-out choices to be fully effective. As our systems require time to update, promotional mailings using personal information shared before you opt-out may already be in process. Thus, you might continue to receive promotional materials from SHOP.COM based upon the personal information you have provided under this Privacy Policy for up to ten (10) days. For similar reasons, your personal information might continue to be shared with third parties for promotional purposes for up to ten (10) days.
 
-COM" and de-selecting "Make my email address available to stores that I order from on SHOP
+4\. SHOP.COM Security Measures to protect your personal information
 
-•
+The security and confidentiality of your information is extremely important to us. We have implemented technical, administrative, and physical security measures to protect your information from unauthorized access and improper use. On a regular basis, we review our security procedures in order to consider appropriate new technology and methods. Please be aware, however, that no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your email address, we cannot guarantee its absolute security. 
 
-COM." You can do this de-selecting (or re-selecting) action during the registration process or by going to the privacy settings in your account area (Your Account) after you've registered. You can also opt out by emailing us, phoning us or writing us, using the contact information provided above. If you do not wish to receive offers from our marketing partners, simply leave that checkbox unchecked. Additionally, if you have previously agreed to receive offers from our stores, and would like to discontinue receiving these offers, you can do so by following the simple opt out procedures they provide in the email or contacting them directly. 
+Whether you're ordering a catalog or making a purchase, we want you to feel safe and secure while visiting SHOP.COM. You can also feel confident making purchases from established Co-Branded Partner sites. To ensure that your credit card information is even more secure, we use secure sockets layer (SSL) software (which encrypts the information you input) when you give us your credit card information. We encrypt all credit card information and store it on a server that isn't accessible on the Internet. Once we store that information, it can not be displayed anywhere on SHOP.COM. Internally, SHOP.COM takes extra caution to limit access to customers' information. Only a few individuals within the company are given degrees of access to customers' personal information according to job function and necessity. Access is granted to these employees through special passwords. All employees are kept up to date on our security and privacy practices. Finally, the servers that store personally identifiable information are kept in a secure, guarded environment. If you have any questions about security on our web site, you can send an email to us at [customersupportuk@shop.com](mailto:customersupportuk@shop.com).
 
-Sharing with Our Partner Stores:
+5\. How can you access, update your information and opt out choices
 
-If you have agreed to receive offers from our stores, we will provide them your contact information when we forward your order or catalogue request to them. They will then include you on their mailing list. If you have agreed to receive email offers from our stores, they will include you on their email marketing list. 
+You can access and update the contact information you gave us during registration (that is, your postal address, email address, or any other information that would directly enable us to contact you), or modify your opt-out choices, by going to [My Account](https://www.shop-com.co.uk/amos/cc/main/ccn_account/ccsyn/518). You also have the ability to add new credit card or shipping information to My Account when placing an order. If you have elected to store your credit card information with us, we only display the last five digits of your credit card number in the saved payment methods in the My Account section. The full credit card information is stored on secure offline servers. For more information on how we protect your credit card information, see our Security section. 
 
-Sharing with Third-Party Marketers
+If you want to review, modify or correct any of this information, simply click on this [link](https://www.shop-com.co.uk/amos/cc/main/ccn_account/ccsyn/518) or go to the My Account center on our sites, and then log in with your member name and password. If you have forgotten your password, there are instructions on the link above to help you recover your password. If you need to recover your password, you can also contact us via email at  [customersupportuk@shop.com](mailto:customersupportuk@shop.com). Please include information in the email that will help us identify your account so we can assist you with your request. We may also provide you an opportunity to update your contact information and/or modify your opt-out choices by sending you an email or other communication that invites your response. Finally, you may unsubscribe from certain email communications by clicking on unsubscribe links in those emails. 
 
-We do not rent, share or sell your personal information to third-party marketers. Should this policy change in the future, we will not do so without your prior consent. 
+This web site contains links to other sites. Please be aware that SHOP.COM is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each web site that collects personally identifiable information. This privacy statement applies solely to information collected by this site.
 
-Sharing with Third-Party Advertisers & Links to Other Sites:
+6\. Other Information
 
-Our site includes third-party advertising and links to other websites. We do not provide any personally identifiable information to these advertisers or third-party websites. Some examples of these companies include Google, Advertising.com, Shopping.com and Trilegiant. These third-party websites and advertisers, or Internet advertising companies working on their behalf, sometimes use technology to send (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalise advertising content. We do not have access to or control over cookies or other features that they may use, and the information practices of these advertisers and third-party websites are not covered by this Privacy Notice. Please contact them directly for more information about their privacy practices. In addition, the Network Advertising Initiative offers useful information about Internet advertising companies (also called "ad networks" or "network advertisers"), including information about how to opt-out of their information collection. 
-
-Using Third-Party Data to Improve Our Marketing Efforts on Your Behalf
-
-SHOP
-
-•
-
-COM is constantly improving the service and products we provide our customers. To aid us in serving you better, we may combine non-personally identifiable information available from our records with information available from other sources. SHOP
-
-•
-
-COM may also hire third parties to help us in analysis of our customer data or the development of new products, sending postal mail and email, removing repetitive data from customer lists, providing marketing assistance, providing customer service, and providing search results and links. As a result, these third parties may be given access to some or all of the information you provide to SHOP
-
-•
-
-COM that is needed to perform their functions, but they may not use it for other purposes. SHOP
-
-•
-
-COM requires these third parties to maintain your information in the strictest confidence and to ensure that they honor the privacy settings you have selected for the handling of your personal information on the SHOP
-
-•
-
-COM site. We use Verisign to provide credit card fraud checking services on our site. When you purchase from SHOP.COM we will share your credit card details as necessary for the third party to provide that service. Verisign is prohibited from using your personally identifiable information for any other purpose. 
-
-Security
-
-Our website takes every precaution to protect your information. When you submit sensitive information, that information is protected both online and offline. Website security is reviewed regularly to ensure we are up to date with industry standards and technology. Whether you're ordering a catalog or making a purchase, we want you to feel safe and secure while visiting SHOP
-
-•
-
-COM. You can feel confident making purchases from established partner sites that have been in business for many years. To ensure that your credit card information is even more secure, we use secure sockets layer (SSL) software (which encrypts the information you input) when you give us your credit card information. We encrypt all credit card information and store it on a server that isn't accessible on the Internet. Once we store that information, it can not be displayed anywhere on SHOP
-
-•
-
-COM. Internally, SHOP
-
-•
-
-COM takes extra caution to limit access to customers' information. Only a few individuals within the company are given degrees of access to customers' personal information according to job function and necessity. Access is granted to these employees through special passwords. All employees are kept up to date on our security and privacy practices. Finally, the servers that we store personally identifiable information on are kept in a secure guarded environment. 
-
-Log Files and Other Tracking Information
-
-SHOP
-
-•
-
-COM uses our Web server log files to help track the performance of our site. We do not tie the IP addresses within the log files to your personally identifiable information. In addition to cookies (as described above), we employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information. 
-
-Child Use
-
+    a. Child Use.  
 SHOP.COM does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use SHOP.COM only with the involvement of a parent or guardian. 
 
-Legal Disclaimer
+    b. Legal Disclaimer.  
+We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our site. 
 
-We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our website. 
+    c. Notification of Changes.  
+Our business changes constantly and our Privacy Policy will change accordingly. We may email periodic reminders of changes to our Privacy Policy, unless you have instructed us not to, but you should check our site frequently to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
 
-Notification of Changes
+If we decide to change our email practices, we will post those changes to this Privacy Policy statement, the homepage and other places we deem appropriate so that you are aware of what information we collect, how we use it and under what circumstances, if any, we disclose it.
 
-Our business changes constantly and our Privacy Policy will change accordingly. We may email periodic reminders of changes to our Privacy Policy, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
+7\. Questions, Comments, Contact Information Regarding our Privacy Policy
 
-Changes to Your Personal Information
+If you have any questions or suggestions regarding our privacy policy, please contact us at:  
+SHOP.COM  
+1 Lower Ragsdale Drive  
+Building 1, Suite 210  
+Monterey, CA 93940  
+Telephone: (831) 647-4700  
+email:  [customersupportuk@shop.com](mailto:customersupportuk@shop.com)
 
-The personal information you enter during registration and/or during checkout is stored in your personal account area, also known as Your Account. You can access Your Account to add or change information, including changing your privacy settings, by entering the email address and the password you created you used when you registered. You also have the ability to add new credit card or delivery information to Your Account when placing an order. If you have elected to store your credit card information with us, we only display the last five digits of your credit card number in the saved payment methods in the Your Account section. The full credit card information is stored on secure offline servers. For more information on how we protect your credit card information, see our Security section. 
+If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe®](http://www.truste.org/about/contacts.php?PHPSESSID=af3c9fab26b44c9dfe21ebd131ddd238). 
 
-Links
-
-This web site contains links to other sites. Please be aware that we, SHOP
-
-•
-
-COM, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
-
-Contact Information
-
-If you have any questions or suggestions regarding our privacy policy, please contact us at: 
-
-SHOP
-
-•
-
-COM  
-1 Quality Court  
-Chancery Lane  
-London WC2A 1HR  
-Telephone: 0845 257 8041  
-E-mail: [Customer Service](mailto:customerserviceuk@shop.com)
-
-Updated 25th September 2006 
+Updated 5/8/07.
