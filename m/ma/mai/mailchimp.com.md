@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mailchimp.com privacy policy that was archived on 2006-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061120103847id_/http%3A//mailchimp.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailchimp.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613084204id_/http%3A//www.mailchimp.com/privacy.phtml) for the most accurate reproduction.*
 
 # MailChimp Privacy Policy
 
@@ -97,7 +97,7 @@ MailChimp is a product of [The Rocket Science Group](http://www.rocketsciencegro
 Atlanta, GA 30318  
 (678)999-0141
 
-Or email us [here.](https://web.archive.org/web/20061120103847id_/http%3A//mailchimp.com/contact.phtml)
+Or email us [here.](https://web.archive.org/web/20070613084204id_/http%3A//www.mailchimp.com/contact.phtml)
 
 * * *
 
