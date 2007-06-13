@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitachi.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206023937id_/http%3A//hitachi.com/utility/privacy-e) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitachi.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613202737id_/http%3A//www.hitachi.com/utility/privacy-e) for the most accurate reproduction.*
 
 # HITACHI : Hitachi Ltd. - Concerning Protection of Personal Information (Summary)
 
@@ -9,10 +9,10 @@
   
 
 
-In relation to this website (hereafter, "this site"), operated by Hitachi Ltd. (hereafter, the "Company"), ["Applicable scope"](https://web.archive.org/web/20061206023937id_/http://www.hitachi.com/privacy-e/index2.html#scope) prescribes the handling of personal information received by the Company from the customer.
+In relation to this website (hereafter, "this site"), operated by Hitachi Ltd. (hereafter, the "Company"), ["Applicable scope"](https://web.archive.org/web/20070602061743id_/http://hitachi.com/privacy-e/index2.html#scope) prescribes the handling of personal information received by the Company from the customer.
 
-On this site, the Company protects and manages customers' personal information with the utmost attention and effort, based on the documents ["Hitachi policy on personal information protection"](https://web.archive.org/web/20061206023937id_/http://www.hitachi.com/privacy-e/index2.html#approach) and ["Personal information protection policy"](https://web.archive.org/web/20061206023937id_/http://www.hitachi.com/privacy-e/index2.html#policy) as prescribed by the Company.   
-In this summary, ["personal information"](https://web.archive.org/web/20061206023937id_/http://www.hitachi.com/privacy-e/index2.html#definition) refers to the following items of information that can identify individual customers: 
+On this site, the Company protects and manages customers' personal information with the utmost attention and effort, based on the documents ["Hitachi policy on personal information protection"](https://web.archive.org/web/20070602061743id_/http://hitachi.com/privacy-e/index2.html#approach) and ["Personal information protection policy"](https://web.archive.org/web/20070602061743id_/http://hitachi.com/privacy-e/index2.html#policy) as prescribed by the Company.   
+In this summary, ["personal information"](https://web.archive.org/web/20070602061743id_/http://hitachi.com/privacy-e/index2.html#definition) refers to the following items of information that can identify individual customers: 
 
   1. Information entered and provided to the Company by the customer via the "Inquiry Input Form" or other windows on this site; and 
   2. Information provided by the customer to the Company in relation to this site. 
@@ -28,11 +28,11 @@ In this summary, ["personal information"](https://web.archive.org/web/2006120602
 
 When making requests or complaints concerning the disclosure, correction, addition, deletion, suspension of use, suspension of provision to third parties, or notification of the purpose of use (hereafter, "disclosure, etc.") of the customer's personal information provided to the Company, the customer is requested to do so according to the designated procedure. 
 
-  1. The cooperation of customers is requested [concerning the protection of personal information, in regards to its provision, and the acquisition of prior consent. ](https://web.archive.org/web/20061206023937id_/http://www.hitachi.com/privacy-e/index2.html#request)  
+  1. The cooperation of customers is requested [concerning the protection of personal information, in regards to its provision, and the acquisition of prior consent. ](https://web.archive.org/web/20070602061743id_/http://hitachi.com/privacy-e/index2.html#request)  
 
-  2. There are extra considerations [concerning the information in the document "Concerning protection of personal information"](https://web.archive.org/web/20061206023937id_/http://www.hitachi.com/privacy-e/index2.html#note).  
+  2. There are extra considerations [concerning the information in the document "Concerning protection of personal information"](https://web.archive.org/web/20070602061743id_/http://hitachi.com/privacy-e/index2.html#note).  
 
-  3. There are extra considerations [concerning the use of cookies and Web beacons ](https://web.archive.org/web/20061206023937id_/http://www.hitachi.com/privacy-e/index2.html#cookie)on this site.  
+  3. There are extra considerations [concerning the use of cookies and Web beacons ](https://web.archive.org/web/20070602061743id_/http://hitachi.com/privacy-e/index2.html#cookie)on this site.  
 
   4. In cases where the customer telephones the Company, the contents of the conversation may be subject to recording in order to allow an accurate response to be given.   
 
