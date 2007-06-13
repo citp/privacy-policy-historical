@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the contextualpsychology.org privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019151922id_/http%3A//contextualpsychology.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contextualpsychology.org privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613105647id_/http%3A//www.contextualpsychology.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | ContextualPsychology.org
 
 Protecting your privacy is important to us. Because we gather certain types of information from visitors and registered users of our site, we feel you should be fully aware of the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
 
 **Why we collect personal information**  
-ContextualPsychology.org uses any information voluntarily provided by our users to promote an open scientific community and to encourage the contribution and sharing of relevant knowledge, content, and resources. This information is not used for any commercial purposes. ContextualPsychology.org also tracks user traffic patterns through our site. For visitors, this data is not correlated with individual users. For register users of the site, this data (including number of site contributions and comments posted, as reported in the "[Hall of Fame](https://web.archive.org/hof)") may be correlated with individual users.
+ContextualPsychology.org uses any information voluntarily provided by our users to promote an open scientific community and to encourage the contribution and sharing of relevant knowledge, content, and resources. This information is not used for any commercial purposes. ContextualPsychology.org also tracks user traffic patterns through our site. For visitors, this data is not correlated with individual users. For registered users of the site, this data (including number of site contributions and comments posted, as reported in the "[Hall of Fame](https://web.archive.org/hof)") may be correlated with individual users.
 
 **How we collect personal information**  
 We collect information about you in several ways. Certain information, such as the type of browser, computer, and operating system you are using, is automatically collected by your web browser. Additional information is collected when users register for the site. The website also uses “cookies” technology to collect and store certain information (see below).
