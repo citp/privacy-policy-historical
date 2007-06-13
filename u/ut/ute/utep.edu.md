@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the utep.edu privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230121131id_/http%3A//www.utep.edu/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utep.edu privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613165647id_/http%3A//www.utep.edu/privacy.aspx) for the most accurate reproduction.*
 
 # UT El Paso - Privacy Statement Information
 
-Saturday, December 30, 2006 | 5:11 AM
+Wednesday, June 13, 2007 | 3:18 AM
 
 **_Web Site Privacy Statement on the Use of Information Gathered from the General Public_**
 
@@ -51,4 +51,4 @@ Saturday, December 30, 2006 | 5:11 AM
 
  ** _Contacting Administration_**
 
-   If there are any questions about this privacy statement, the practices of this site, or dealings with this website, please [contact us](https://web.archive.org/web/20061230121131id_/http%3A//www.utep.edu/feedbackform.aspx)!
+   If there are any questions about this privacy statement, the practices of this site, or dealings with this website, please [contact us](https://web.archive.org/web/20070613165647id_/http%3A//www.utep.edu/feedbackform.aspx)!
