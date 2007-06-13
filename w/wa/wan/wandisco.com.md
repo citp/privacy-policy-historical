@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wandisco.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230215006id_/http%3A//wandisco.com/php/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wandisco.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613030817id_/http%3A//www.wandisco.com/php/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - WANdisco™ CVS Replicator for CVS Multisite, Subversion, CVS Replication, Software Configuration Management, SCM, Distributed Development, ACL, CVSACL, Access Control List, RACL, CVSNT, cvsroot, source code control
+# Privacy Policy - WANdisco™ CVS Replicator for CVS Multisite, Subversion, SVN / CVS Replication, Role Based Security, Software Configuration Management, SCM, Distributed Development, ACL, Access Control List, RACL, CVSNT, cvsroot, source code control
 
 PRIVACY STATEMENT 
 
