@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dealio.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019041442id_/http%3A//www.dealio.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealio.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613144721id_/http%3A//www.dealio.com/privacy.html) for the most accurate reproduction.*
 
-# Dealio - Privacy Policy : Certified by TRUSTe
+# Dealio: Privacy Policy
 
 **Effective on: October 1, 2004**
 
@@ -16,7 +16,7 @@ You may not disclose your password to any third party. If you lose control of yo
 > **2.2. Information You Provide.** To post messages on our message center or to use any of our other services we may require you to provide us with contact information, such as your name, street address, phone number, and email address. In the event that you are using a paid service we may collect your credit card number, expiration date, and billing information. We may also transmit your credit card to partners, such as universal registration partners, whom you specifically select to receive this information.  
 > Additionally, if a friend or associate refers you to Vendio, you have the option to provide their user name during registration so they get credit for the referral. 
 > 
-> **2.3. Information We Track.** As you use our services, our servers will automatically track certain information about you in log files. This information includes your IP address, the URL that you just came from, which URL you go to next, which browser you are using, and which operating system you are using. This is not unique to the Vendio website as many existing sites automatically collect this information. These log files are not linked to your personal information. 
+> **2.3. Information We Track.** As you use our services, our servers will automatically track certain information about you in log files. This information includes your IP address, the URL that you just came from, which URL you go to next, which browser you are using, and which operating system you are using. This is not unique to the Vendio website as many existing sites automatically collect this information. These log files are not linked to your personal information. Vendio also records participation in our online communities, including messages submitted, contributions through wikis or buying guides, and reviews/ratings. 
 
 **3\. Disclosure of Information.**
 
@@ -28,7 +28,7 @@ You may not disclose your password to any third party. If you lose control of yo
 > 
 > **3.4. Personally Identifiable Information.** We do not sell, rent, trade or otherwise share any personally identifiable information about our users to any third party, except with your consent or for the specific purposes described in this statement. If you register for Vendio through a co-branded or private-labeled site, registration information may also be provided to the co-branded or private-labeled site. This includes, but is not limited to the names, addresses, email addresses, and phone numbers of our users. You should refer to the privacy policy of the co-branded site to review their data collection and handling policies. In addition, except as we describe here we will not disclose any personally identifiable financial or security related personally identifiable information such as credit card numbers and or passwords. 
 > 
-> **3.5. Message Center.** If you participate in our message center, your Vendio username will be posted along with your messages. Users are also given the opportunity to create a profile that may be viewed by other users. Users are given the option when entering this information to make it viewable by other users or request that it remain private. If the user chooses to opt-in to this option of disclosing their information to third parties or other users, then the user may receive promotional items. You may later elect to opt-out in accordance with section 9. 
+> **3.5. Online Communities.** If you participate in the online communities provided by Vendio (for example, our message boards, wikis, product buying guides, reviews/ratings, etc.), your username will be posted along with your contributions. Users are also given the opportunity to create a profile that may be viewed by other users. Users are given the option when entering this information to make it viewable by other users or request that it remain private. If the user chooses to opt-in to this option of disclosing their information to third parties or other users, then the user may receive promotional items. You may later elect to opt-out in accordance with section 9. 
 > 
 > **3.6. Compelled Disclosure.** Unfortunately, we cannot ensure the absolute privacy of any personally identifiable user information. For example, we may be forced to disclose information to government and/or law enforcement agencies or third parties under certain circumstances. Vendio cooperates with all law enforcement inquiries and reserves the right to reveal your identity (or whatever information we know about you) in the event of a complaint or legal action arising from your use of the services or features on the Vendio website. In addition, third parties may unlawfully intercept or access transmissions or private communications. Therefore, although we make it a practice not to disclose any personally identifiable information to any third party, we do not promise that your personally identifiable information or private communications will remain private. 
 
@@ -55,9 +55,9 @@ You may not disclose your password to any third party. If you lose control of yo
 **5\. Editing Personally Identifiable Information.**  
 You may at any time review and change your personally identifiable information at Vendio. This information includes but is not limited to your email address, street address, city, state, zip code, country, daytime phone number, password, or credit card number and expiration date. To change this information, the user must log on and click the "preferences" link on the bottom of the Vendio pages. 
 
-  **6\. Message Center**
+  **6\. Online Communities**
 
-> **6.1. Personal Information.** This site makes message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information in any of these public forums.
+> **6.1. Personal Information.** This site makes message boards, wikis, reviews/ratings and user networks available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information in any of these public areas.
 > 
 > **6.2. Other Users Information.** In the course of using the services at Vendio you may be exposed to personally identifiable information of other users. Under no circumstances may you disclose personally identifiable information about another user to any third party without the consent of Vendio and the consent of such other user. Vendio does not tolerate spam, and we reserve the right to suspend the registration of any user who sends unsolicited email to our other users. 
 > 
