@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberguys.com privacy policy that was archived on 2006-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061227235257id_/http%3A//www.cyberguys.com/templates/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberguys.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613131319id_/http%3A//www.cyberguys.com/templates/privacy.asp) for the most accurate reproduction.*
 
 # Cyberguys.com - Privacy and Security
 
@@ -61,22 +61,6 @@ We take privacy and security matters very seriously and it is important to us th
 ---|---|---  
 |   
 ---  
- Exclusive  
- Email Specials  
-|   
+[](http://www.cyberguys.com//templates/subscribe.asp "Buyers Club Sign Up")  
 ---  
-   
----  
-[](http://www.cyberguys.com/templates/quickorder.asp?entry=Y "Our Quick Order page is a fast and easy way to order items directly.")  
----  
- Top 10 Sellers  
-| 1.  | [Y-splitter Liberator Power Ext.](http://www.cyberguys.com/templates/searchdetail.asp?productID=9921) |   
-| 2.  | [Power Strip Liberator, 14in](http://www.cyberguys.com/templates/searchdetail.asp?productID=1757) |   
-| 3.  | [CD Carousel Plus Black](http://www.cyberguys.com/templates/searchdetail.asp?productID=10670) |   
-| 4.  | [Aluminum Mobile Computing Workstation Cart](http://www.cyberguys.com/templates/searchdetail.asp?productID=4356) |   
-| 5.  | [Plusdeck2c Pc Cassette Deck, Tape To MP3](http://www.cyberguys.com/templates/searchdetail.asp?productID=10172) |   
-| 6.  | [Network Pair Splitter](http://www.cyberguys.com/templates/searchdetail.asp?productID=596) |   
-| 7.  | [Kill A Watt, Electricity Usage Monitor](http://www.cyberguys.com/templates/searchdetail.asp?productID=5382) |   
-| 8.  | [USB 2.0 Cable](http://www.cyberguys.com/templates/searchdetail.asp?productID=4310) |   
-| 9.  | [Desktop Boom Microphone](http://www.cyberguys.com/templates/searchdetail.asp?productID=1558) |   
-| 10.  | [Power Station Organizer](http://www.cyberguys.com/templates/searchdetail.asp?productID=8763) | 
+[](http://www.cyberguys.com/templates/quickorder.asp?entry=Y "Our Quick Order page is a fast and easy way to order items directly.")
