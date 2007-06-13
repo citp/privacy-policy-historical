@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinefootballmanager.co.uk privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207022718id_/http%3A//onlinefootballmanager.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinefootballmanager.co.uk privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613141020id_/http%3A//www.onlinefootballmanager.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # Online Football Manager
 
@@ -23,7 +23,7 @@ Upon request, we provide site visitors with access to the information that we ha
 
 With respect to security: we do not collect online information from any of our visitors for intentions of redistribution. We solemnly guarantee that any information you submit to us will not be sold or bartered to any third parties, unless express consent is given by yourself to do so.
 
-As with many online agencies today, Online Football Manager tries its best to abide by the set out privacy policy guidelines. We can not 100% guarantee our privacy policy to be accurate to a tee as our advertisers or ISP's may from time to time change their privacy policies or legal disclaimers without any prior notification. In any such instance where any damage may be incurred on yourself, Online Football Manager and any subsidiaries of Online Football Manager have no legal liability for any damages.
+As with many online agencies today, Online Football Manager tries its best to abide by the set out privacy policy guidelines. We can not 100% guarantee our privacy policy to be accurate to a tee as our advertisers or ISPs may from time to time change their privacy policies or legal disclaimers without any prior notification. In any such instance where any damage may be incurred on yourself, Online Football Manager and any subsidiaries of Online Football Manager have no legal liability for any damages.
 
 |    
 ---|---|---
