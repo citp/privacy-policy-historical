@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sempo.org privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206022114id_/http%3A//www.sempo.org/about/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sempo.org privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613033234id_/http%3A//www.sempo.org/about/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SEMPO
 
