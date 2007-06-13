@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meatmyass.com privacy policy that was archived on 2006-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061127123225id_/http%3A//meatmyass.com/themes/default/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meatmyass.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613153841id_/http%3A//www.meatmyass.com/themes/default/privacy.html) for the most accurate reproduction.*
 
 # %settings:siteName% :: %pageTitle%
 
