@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extremetech.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117214429id_/http%3A//www.ziffdavis.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremetech.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613195510id_/http%3A//www.ziffdavis.com/about/privacy) for the most accurate reproduction.*
 
 # Ziff Davis Media : Privacy Policy
 
@@ -21,6 +21,7 @@ Ziff Davis Media is not responsible for the information you volunteer about your
   * [eWEEK](http://www.eweek.com/view_profile/)
   * [Extreme iPod](http://www.extremeipod.com/view_profile/)
   * [ExtremeTech](http://www.extremetech.com/view_profile/)
+  * [IT Link](http://ziffdavisitlink.leveragesoftware.com/)
   * [Microsoft Watch](http://www.eweek.com/view_profile/)
   * [PC Magazine Magazine and the PC Magazine Utility Library](http://www.pcmag.com/view_profile/)
   * [Sync Magazine](http://www.syncmag.com/view_profile/)
