@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nrc.gov privacy policy that was archived on 2006-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060928213646id_/http%3A//www.nrc.gov/site-help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrc.gov privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613052628id_/http%3A//www.nrc.gov/site-help/privacy.html) for the most accurate reproduction.*
 
 # NRC: Privacy Policy and Security Notice
 
@@ -49,7 +49,7 @@ Any comments that you submit to the NRC on a proposed rulemaking, petition, or o
 
 ### **A. NRC Privacy Act System of Records**
 
-If any personal information you provide will be maintained in an [NRC Privacy Act system](https://web.archive.org/reading-rm/foia/privacyact-system-of-records.pdf) of records you will be notified at the point of collection, through a Privacy Act statement, of the following: which system of records the information will be maintained in; the authority for and purpose of the system; statutorily-mandated disclosures and authorized routine uses; and the safeguards of the information, subject to the [Privacy Act (5 U.S.C. 552a)](https://web.archive.org/reading-rm/foia/privstat.html). The Privacy Act statement will also inform you whether providing information is mandatory or voluntary and the effects of not providing all or any part of the requested information. Information on [NRC's Privacy Act regulations](https://web.archive.org/reading-rm/doc-collections/cfr/part009/), can be found at [Part 9, Subpart B of Title 10 of the _Code of Federal Regulations_](https://web.archive.org/reading-rm/doc-collections/cfr/part009/) _._
+If any personal information you provide will be maintained in an [NRC Privacy Act system](https://web.archive.org/reading-rm/foia/privacy-systems.html) of records you will be notified at the point of collection, through a Privacy Act statement, of the following: which system of records the information will be maintained in; the authority for and purpose of the system; statutorily-mandated disclosures and authorized routine uses; and the safeguards of the information, subject to the [Privacy Act (5 U.S.C. 552a)](https://web.archive.org/reading-rm/foia/privstat.html). The Privacy Act statement will also inform you whether providing information is mandatory or voluntary and the effects of not providing all or any part of the requested information. Information on [NRC's Privacy Act regulations](https://web.archive.org/reading-rm/doc-collections/cfr/part009/), can be found at [Part 9, Subpart B of Title 10 of the _Code of Federal Regulations_](https://web.archive.org/reading-rm/doc-collections/cfr/part009/) _._
 
 ### **B. Section 2.390 Public Inspections, Exemptions, Requests for Withholding**
 
@@ -63,17 +63,15 @@ Retention and disposal of electronically submitted information depend on the sub
 
 ## **Children's Privacy**
 
-We do not solicit information from children. If teachers or parents have questions or comments, they should contact an [NRC Public Affairs Officer](https://web.archive.org/what-we-do/public-affairs/contact-opa.html).
+We do not solicit information from children. If teachers or parents have questions or comments, they should contact an [NRC Public Affairs Officer](https://web.archive.org/about-nrc/public-affairs/contact-opa.html).
 
 ## **Use of Cookies**
 
-"Cookies" are small bits of text that are used either for the length of a visit ("session cookies") or saved on a user's hard drive to identify that user, or information about that user, the next time the user logs on to a Web site ("persistent cookies"). We use "session cookies" as place-keepers to retain context during an individual user session. They assist with movement throughout the site during that visit without any capacity to track users over time and across different Web sites. Session cookies are deleted at the end of a visit or they expire in a short time. They are not used to track personal information.
-
-We do not use persistent cookies or other persistent tracking technologies at this Web site.
+"Cookies" are small bits of text that are used either for the length of a visit ("session cookies") or saved on a user's hard drive to identify that user, or information about that user, the next time the user logs on to a Web site ("persistent cookies"). We use "session cookies" as place-keepers to retain context during an individual user session. They assist with movement throughout the site during that visit without any capacity to track users over time and across different Web sites. Session cookies are deleted at the end of a visit or they expire in a short time. We do not use persistent cookies or other persistent tracking technologies at this Web site except for users of our site search. Our site search relies on search technology hosted at www.google.com, which places a persistent cookie in the user's browser to maintain his or her personal preferences and track user trends across multiple sessions whenever he or she performs a search using Google's search technology from a particular computer. No Personally Identifiable Information (PII) is collected through the use of this cookie. You may disable cookies in the Web browser’s preferences menu without affecting your ability to perform this type of search. Refer to your browser’s preferences for more information on disabling cookies. The use of persistent cookies will not result in the user receiving pop-up advertisements. The NRC does not have access to the cookie information maintained by Google. You may also view Google’s cookie policy <http://www.google.com/preferences> .
 
 ## **E-Mail Notification of Employment Opportunities**
 
-Each registered user of our [NRCareers](http://www.nrc.gov/who-we-are/employment/nrcareers.html) site may elect to be notified by e-mail whenever we issue an employment opportunity that meets criteria set by the user. The user may also modify the notification criteria or stop receiving the notifications at any time. For more information, see **Change your Notification Preferences** in the Registered Users section of [How to Use _NRCareers_](https://web.archive.org/who-we-are/employment/nrcareers/how-to-use.html#registered).
+Each registered user of our [NRCareers](http://www.nrc.gov/about-nrc/employment/nrcareers.html) site may elect to be notified by e-mail whenever we issue an employment opportunity that meets criteria set by the user. The user may also modify the notification criteria or stop receiving the notifications at any time. For more information, see **Change your Notification Preferences** in the Registered Users section of [How to Use _NRCareers_](https://web.archive.org/about-nrc/employment/nrcareers/how-to-use.html#registered).
 
 ## **Security**
 
@@ -83,4 +81,4 @@ Except for authorized law enforcement investigations and the gathering of site u
 
 ## **Privacy Impact Assessments Performed**
 
-Access our [Privacy Impact Assessment](https://web.archive.org/who-we-are/privacy-impcat-asess.html) page for assessments made by NRC before developing or procuring information technology (IT) that collects, maintains, or disseminates personal information in identifiable form about members of the public.
+Access our [Privacy Impact Assessment](https://web.archive.org/about-nrc/plans/privacy-impcat-asess.html) page for assessments made by NRC before developing or procuring information technology (IT) that collects, maintains, or disseminates personal information in identifiable form about members of the public.
