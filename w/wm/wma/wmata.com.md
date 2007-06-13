@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wmata.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206192037id_/http%3A//wmata.com/about/datause.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmata.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613071952id_/http%3A//wmata.com/about/datause.cfm) for the most accurate reproduction.*
 
 # Metro privacy and data use policy
 
@@ -83,5 +83,6 @@ _Please note: We are required to release personal information if it is subpoenae
 
 If you have any questions or concerns about our privacy policy, please [contact customer service](https://web.archive.org/riding/ridercomment.cfm). 
 
-|  [](https://web.archive.org/tile_rotator/redirect.cfm?BanID=64&target=http://www.wpas.org)  
+|  [](https://web.archive.org/tile_rotator/redirect.cfm?BanID=94&target=http://www.wnba.com/mystics/tickets/ticketsindex.html)   
+[**Advertise on this site**](https://adwords.google.com/select/OnsiteSignupLandingPage?client=ca-pub-9206482252431813&referringUrl=http://www.wmata.com)  
 ---|---
