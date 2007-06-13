@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the micase.org privacy policy that was archived on 2006-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061220210859id_/http%3A//www.michigan.gov/hal/0%2C1607%2C7-160-17188-2088--%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micase.org privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613044815id_/http%3A//www.michigan.gov/hal/0%2C1607%2C7-160-17188-2088--%2C00.html) for the most accurate reproduction.*
 
 # MHAL - Michigan Privacy Policy
 
@@ -108,5 +108,4 @@ If you are using Navigator 3.x:
   3. Navigator 3.x does not have an option to completely disable accepting cookies. To get a prompt: Check "Accepting a Cookie" under "Show an Alert Before"
   4. Click "OK"
 
-  
 
