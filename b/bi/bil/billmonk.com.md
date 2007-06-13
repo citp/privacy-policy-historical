@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billmonk.com privacy policy that was archived on 2006-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061101122239id_/https%3A//www.billmonk.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billmonk.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613035640id_/https%3A//www.billmonk.com/about/privacy) for the most accurate reproduction.*
 
 # BillMonk Privacy Policy
 
