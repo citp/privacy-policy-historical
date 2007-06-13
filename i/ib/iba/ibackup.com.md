@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ibackup.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206000501id_/http%3A//ibackup.com/policy_new.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibackup.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613035024id_/http%3A//ibackup.com/policy_new.htm) for the most accurate reproduction.*
 
-# Privacy policy of IBackup
+# Privacy policy – Secure online storage and backup
 
   |    
 **Privacy Policy**
@@ -27,7 +27,7 @@ SURVEYS: In addition to required member information, we may conduct surveys and 
 
 3\. With whom does IBackup share the information?
 
-We do not voluntarily share personally identifiable information with any third party without the user's express consent or unless compelled by applicable state and federal laws. IBackup does notcontrol the practices of our affiliates. If you have questions about how affiliates use the information gathered when you link to them, please read their privacy policies. This site contains links to other sites. Pro Softnet Corp. is not responsible for the privacy practices or the content of such Web sites.
+We do not voluntarily share personally identifiable information with any third party without the user's express consent or unless compelled by applicable state and federal laws. Please refer to the IBackup terms page for privacy and security issues related to data stored in user accounts and user information. IBackup does notcontrol the practices of our affiliates. If you have questions about how affiliates use the information gathered when you link to them, please read their privacy policies. This site contains links to other sites. Pro Softnet Corp. is not responsible for the privacy practices or the content of such Web sites.
 
 Choice/Opt-Out
 
