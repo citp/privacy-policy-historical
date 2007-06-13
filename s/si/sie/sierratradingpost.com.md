@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sierratradingpost.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210221120id_/http%3A//www.sierratradingpost.com/lp2/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sierratradingpost.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613034612id_/http%3A//www.sierratradingpost.com/lp2/privacy.html) for the most accurate reproduction.*
 
 # Sierra Trading Post Privacy Policy
 
@@ -38,7 +38,7 @@ Some of our third party partners such as Google and PayPal may have their own pr
 Cheyenne, WY 82007-1898  
 Phone: 1-800-713-4534  
 Mon-Fri 5am-10pm MST.  
-Saturday 7am-4pm MST.
+Saturday 7am-10pm MST.
 
 **Email** :[CustomerService@SierraTradingPost.com.](mailto:CustomerService@SierraTradingPost.com)
 
