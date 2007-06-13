@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the neworleans.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206015654id_/http%3A//www.neworleans.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neworleans.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613174550id_/http%3A//www.neworleans.com/Privacy_Policy) for the most accurate reproduction.*
 
-# NewOrleans.com - Indulgence Required - Privacy Policy
+# NewOrleans.com - Privacy Policy
 
 **Privacy Policy Statement**
 
