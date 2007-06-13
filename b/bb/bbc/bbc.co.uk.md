@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbc.co.uk privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217221939id_/http%3A//www.bbc.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbc.co.uk privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613115123id_/http%3A//www.bbc.co.uk/privacy) for the most accurate reproduction.*
 
 # BBC - Privacy & Cookies Policy
 
@@ -32,7 +32,7 @@ During the course of any visit to bbc.co.uk, the pages you see, along with a sho
 
 Information supplied by cookies can help us to provide you with a better online user experience and assist us to analyse the profile of our visitors. For example: if on a previous visit you went to our education pages, we might find this out from your cookie and highlight educational information on your second and subsequent visits.
 
-Nielsen//Netratings and SageMetrics, two independent measurement and research companies, gather non-personal information regarding the visitors to our website on our behalf using cookies, log file data and code which is embedded on our website. The BBC uses this type of information, as with that obtained from other cookies used on the site, to help it improve the services to its users. If you wish to reject Nielsen//Netratings' cookie and SageMetrics' cookie, you can use the process set out below in point 7. To Totally Opt-Out of Nielsen//Netratings collecting any data regarding your interaction on bbc.co.uk, use the Opt-Out in their Privacy and Cookie Policy at [http://www.netratings.com/privacy.jsp?section=leg_scs](https://web.archive.org/go/web/20061217221939id_/http://www.bbc.co.uk/privacy/ext/_auto/-/http://www.netratings.com/privacy.jsp?section=leg_scs). To Totally Opt-Out of SageMetrics collecting any data regarding your interaction on bbc.co.uk, use the Opt-Out in their Privacy Statements and Policies at [http://www.sagemetrics.com/ popup-dynamic.asp?pagename=privacy_main](https://web.archive.org/go/web/20061217221939id_/http://www.bbc.co.uk/privacy/ext/_auto/-/http://www.sagemetrics.com/popup-dynamic.asp?pagename=privacy_main).
+Nielsen//Netratings and SageMetrics, two independent measurement and research companies, gather non-personal information regarding the visitors to our website on our behalf using cookies, log file data and code which is embedded on our website. The BBC uses this type of information, as with that obtained from other cookies used on the site, to help it improve the services to its users. If you wish to reject Nielsen//Netratings' cookie and SageMetrics' cookie, you can use the process set out below in point 7. To Totally Opt-Out of Nielsen//Netratings collecting any data regarding your interaction on bbc.co.uk, use the Opt-Out in their Privacy and Cookie Policy at [http://www.netratings.com/privacy.jsp?section=leg_scs](https://web.archive.org/go/web/20070613115123id_/http://www.bbc.co.uk/privacy/ext/_auto/-/http://www.netratings.com/privacy.jsp?section=leg_scs). To Totally Opt-Out of SageMetrics collecting any data regarding your interaction on bbc.co.uk, use the Opt-Out in their Privacy Statements and Policies at [http://www.sagemetrics.com/ popup-dynamic.asp?pagename=privacy_main](https://web.archive.org/go/web/20070613115123id_/http://www.bbc.co.uk/privacy/ext/_auto/-/http://www.sagemetrics.com/popup-dynamic.asp?pagename=privacy_main).
 
 ## 3. What is a cookie?
 
@@ -42,7 +42,7 @@ Many sites do this whenever a user visits their website in order to track online
 
 Cookies record information about your online preferences. Users have the opportunity to set their computers to accept all cookies, to notify them when a cookie is issued, or not to receive cookies at any time. The last of these, of course, means that certain personalised services cannot then be provided to that user user and accordingly you may not be able to take full advantage of all of the bbc.co.uk features. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.
 
-If you have set your computer to reject cookies you can still browse bbc.co.uk anonymously until such time as you wish to register for bbc.co.uk services. For further information on cookies please visit [http://www.aboutcookies.org](https://web.archive.org/go/web/20061217221939id_/http://www.bbc.co.uk/privacy/ext/_auto/-/http://www.aboutcookies.org/).
+If you have set your computer to reject cookies you can still browse bbc.co.uk anonymously until such time as you wish to register for bbc.co.uk services. For further information on cookies please visit [http://www.aboutcookies.org](https://web.archive.org/go/web/20070613115123id_/http://www.bbc.co.uk/privacy/ext/_auto/-/http://www.aboutcookies.org/).
 
 ## 4. Use and storage of your personal information
 
@@ -252,6 +252,8 @@ BBC-UID cookie
     A unique identifier given to each computer to allow log analysis to determine the number of unique users for various parts of bbc.co.uk. Data is only used in aggregate.
 BBCMediaselector cookie
     Used to store your user preferences for Audio-Video content from bbc.co.uk - format (Real player or Windows Media player) and quality (narrowband or broadband).
+mstouch cookie
+    Used if we have needed to reset your BBCMediaSelector cookie which stores your preference for the Audio-Video content from bbc.co.uk. 
 BBCPostcoder cookie
     Used to store your user preferences for geographic specific content on bbc.co.uk - allows pages to present information for your local area, primarily on the homepage, but also in other areas like bbc.co.uk/arts.
 BBCWEACITY cookie
