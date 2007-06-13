@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dillards.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230191250id_/http%3A//www.dillards.com/info/notices.jsp%23PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dillards.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613212147id_/http%3A//www.dillards.com/info/notices.jsp%23PrivacyPolicy) for the most accurate reproduction.*
 
 # Dillard's.com | Company Notices and Terms of Use
 
@@ -74,15 +74,15 @@ The following charges apply to your order:
 7 - 10 business days** | **EXPRESS  
 2 - 3 business days**  
 ---|---|---|---  
-Up to $24.99  |   |  $4.95  | $16.95  
-$25.00 - 99.99  |   | $7.95 | $18.95  
-$100.00 - 149.99  |   | $11.95 | $20.95  
-$150.00 - 299.99  |   | $13.95 | $23.95  
-$300.00 and Up  |   | $15.95 | $24.95  
+Up to $24.99  |   |  $5.95  | $17.95  
+$25.00 - 99.99  |   | $8.95 | $19.95  
+$100.00 - 149.99  |   | $12.95 | $21.95  
+$150.00 - 299.99  |   | $14.95 | $24.95  
+$300.00 and Up  |   | $16.95 | $25.95  
   
 Items, including certain electronics, that are very large or fragile may include an additional shipping charge. Items in a multi-item order may be shipped separately and from different locations. 
 
-Gift Cards are shipped U.S. Mail at no charge for regular delivery. There is a $7.50 charge for Fed Ex express delivery. 
+Gift Cards are shipped U.S. Mail at no charge for regular delivery. There is a $8.50 charge for Fed Ex express delivery. 
 
 Dillard’s does not ship fragrances, aerosols, and alcohol based products via Express Delivery or to P.O. boxes, military facilities or outside the continental United States. Please select Regular Delivery for the shipment of these items. 
 
@@ -152,7 +152,7 @@ We use cookies to keep track of when you return to the Web Site as well as to id
 
 If you are shopping Dillards.com and are having difficulty adding items to your shopping bag or completing your order, please check your privacy settings in your browser. We find that “Medium” Privacy Settings will optimize your online shopping experience at Dillards.com. If you are currently using the "Medium High" or "High" privacy settings, you can improve your online ordering experience if you override your current cookie handling practices for specific websites, including Dillards.com. Please click here for instructions on how to override your normal privacy/cookie handling practices. If you prefer not to change your privacy settings or override your cookie handling practices, you can, as always, place your Dillard’s order by phone at 1-800-345-5273. 
 
-We may use third party companies to help us gather website traffic and other data that helps us to assess and improve our website and other services. These companies may use cookies, web beacons, or similar technology to collect and analyze information about our online traffic, on our behalf. These third parties are prohibited by our contracts with them from sharing that information with anyone other than us. However, if you would like to opt out of these third party services, please [click here](https://web.archive.org/web/20061230191250id_/http%3A//www.dillards.com/info/cookie_opt_out.jsp). 
+We may use third party companies to help us gather website traffic and other data that helps us to assess and improve our website and other services. These companies may use cookies, web beacons, or similar technology to collect and analyze information about our online traffic, on our behalf. These third parties are prohibited by our contracts with them from sharing that information with anyone other than us. However, if you would like to opt out of these third party services, please [click here](https://web.archive.org/web/20070613212147id_/http%3A//www.dillards.com/info/cookie_opt_out.jsp). 
 
 ### 5\. How You Can Change Your Preferences or “Email Opt Out” 
 
@@ -195,7 +195,7 @@ Little Rock, AR 72201
 
 Or email us at [Questions@dillards.com](mailto:Questions@dillards.com)
 
-This policy was last updated effective November 7, 2006. 
+This policy was last updated effective January 17, 2007. 
 
   
 
@@ -237,4 +237,4 @@ This website and all information contained herein are provided "as is" and witho
 We are committed to maintaining the security of the information we receive from you. To prevent unauthorized access, we have implemented appropriate software and management procedures which we monitor continuously. Encryption is a process which scrambles your personal information while it is in transit to us. We encrypt sensitive information as you key it in your browser via a "secure socket layer", or SSL, which is the industry standard for encrypting transmitted data. Upon receipt, your information is stored on a secured server behind a firewall. This secured server is not directly connected to the Internet, and the firewall which protects it meets all industry standards. In addition, the facility that houses the server is physically secured to further protect your information against loss, alteration or misuse. We are and will continue to be diligent in our efforts to ensure that your personal information is secure with us. 
 
   
-This page last updated on November 7, 2006
+This page last updated on January 17, 2007
