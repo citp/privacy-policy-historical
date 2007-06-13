@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expatriates.com privacy policy that was archived on 2006-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061201170301id_/http%3A//expatriates.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expatriates.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613034157id_/http%3A//www.expatriates.com/html/privacy.html) for the most accurate reproduction.*
 
 # Expatriates.com - Privacy statement
 
@@ -14,7 +14,7 @@ Your email address is confidential and we will it not make it available, under a
 
 When placing ads, our web logs track the current date and time and the IP address used. 
 
-In order to enforce its [terms of use](http://www.expatriates.com/about/terms.of.use.html), expatriates.com may dislose information about its users to law enforcement agencies. This is particularly the case if a user defrauds other expatriates.com users, deliberately places an ad impersonating another person, or publishes anothers person's private information. 
+In order to enforce its [terms of use](http://www.expatriates.com/about/terms.of.use.html), expatriates.com may dislose information about its users to law enforcement agencies or others. This is particularly the case if a user defrauds other expatriates.com users, deliberately places an ad impersonating another person, or publishes anothers person's private information. 
 
 #### Public Forums
 
