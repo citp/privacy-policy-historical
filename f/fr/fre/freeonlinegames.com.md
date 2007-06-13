@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the freeonlinegames.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231024207id_/http%3A//www.freeonlinegames.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeonlinegames.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613041141id_/http%3A//www.freeonlinegames.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# FreeOnlineGames - Privacy Policy
+
+Privacy Policy
 
 **INTRODUCTION:**   
 We want our users to always be aware of any information we collect, how we use it, and under what circumstances, if any, we disclose it. 
@@ -29,4 +31,4 @@ If we decide to change our privacy policy, we will post those changes to this pr
 We are committed to resolving disputes within 24-48 hours. If problems arise, users may contact via our contact form. 
 
 **CONTACT INFORMATION**   
-If site users have any questions or suggestions regarding our privacy policy, please contact us via our [contact page](http://www.freeonlinegames.com/contact.html).
+If site users have any questions or suggestions regarding our privacy policy, please contact us via our [contact page](https://web.archive.org/web/20070613041141id_/http%3A//www.freeonlinegames.com/contact.php).
