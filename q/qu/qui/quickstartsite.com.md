@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickstartsite.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230202713id_/http%3A//www.quickstartsite.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickstartsite.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613160050id_/http%3A//www.quickstartsite.com/privacypolicy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -94,13 +94,15 @@ This website takes measures to protect its data that contains information relate
 
 You may direct questions, comments or reports to: 
 
-[www.goldwares.com/support](http://www.goldwares.com/support)
+[www.goldwaressupport.com](http://www.goldwaressupport.com/)
 
 Mining Gold Corporation
 
-20533 Biscayne Boulevard, No. 484
+No. 348
 
-Aventura, FL 33180
+3780 Old Norcross Rd. Suite 103
+
+Duluth, GA 30096
 
 **REVISIONS TO THIS PRIVACY POLICY WITHOUT NOTICE**
 
