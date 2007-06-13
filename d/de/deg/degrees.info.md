@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the degrees.info privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628051413id_/http%3A//www.degrees.info/emc/privacy_01354.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degrees.info privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613063724id_/http%3A//www.degrees.info/emc/privacy_01354.html) for the most accurate reproduction.*
 
 # Degrees.info - Privacy Policy
 
@@ -73,4 +73,4 @@ Adchemy knows that you care about how your personal information is used and shar
 **Adchemy may amend this Privacy Policy from time to time. If we make material changes in the way we use Personal Information or otherwise materially change the terms of this Privacy Policy, we will notify you by posting an announcement on Adchemy Sites.
 
 **Questions or Concerns  
-**If you have any questions or concerns regarding privacy at Adchemy Sites, please send us a detailed message to privacy at Achemy or to Attn: Privacy Officer, Adchemy, Inc., 220 S. California Drive, Suite 100, Palo Alto, CA 94024. We will make every effort to resolve your concerns.
+**If you have any questions or concerns regarding privacy at Adchemy Sites, please send us a detailed message to privacy at Achemy or to Attn: Privacy Officer, Adchemy, Inc., 203 Redwood Shores Parkway, Suite 125, Redwood Ciity, CA, 94065. We will make every effort to resolve your concerns.
