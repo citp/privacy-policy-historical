@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myownbusiness.org privacy policy that was archived on 2006-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060923034633id_/http%3A//myownbusiness.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myownbusiness.org privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613112957id_/http%3A//www.myownbusiness.org/privacy.html) for the most accurate reproduction.*
 
-# My Own Business, Inc. - Privacy Policy
+# My Own Business Inc - Privacy Policy
 
 We are committed to protecting your privacy.
 
@@ -20,7 +20,7 @@ Feedback is voluntary and will be used solely to improve the course and/or to pr
 
 **Information Sharing:**
 
-No personal information is furnished to any third-parties. 
+No personal information is furnished to any third parties. 
 
 **Changes:**
 
