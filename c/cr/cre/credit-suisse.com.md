@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the credit-suisse.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210134922id_/http%3A//www.credit-suisse.com/privacy/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the credit-suisse.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613192303id_/http%3A//www.credit-suisse.com/privacy/en) for the most accurate reproduction.*
 
 # CS - Privacy Policy
 
