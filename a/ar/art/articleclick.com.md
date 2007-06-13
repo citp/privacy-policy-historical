@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articleclick.com privacy policy that was archived on 2006-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061201041428id_/http%3A//www.articleclick.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleclick.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613162558id_/http%3A//www.articleclick.com/privacy.php) for the most accurate reproduction.*
 
 # ArticleClick.com - Article Submission, Free Articles, Find Articles
 
