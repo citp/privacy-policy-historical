@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phonedog.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118100156id_/http%3A//www.phonedog.com/content/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonedog.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613231654id_/http%3A//www.phonedog.com/content/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@
 
 **You're here:**   Privacy Policy
 
-**www.phonedog.com respects your privacy.**   We have created this privacy statement in order to demonstrate our commitment to you, our consumer. This privacy statement discloses the privacy practices for this site, [www.phonedog.com](http://www.phonedog.com/). 
+**www.phonedog.com respects your privacy.**   We have created this privacy statement in order to demonstrate our commitment to you, our consumer. This privacy statement discloses the privacy practices for this site, [www.phonedog.com](http://www.phonedog.com/).
 
   * We do not give third parties access to your personal information.
   * We only send e-mail or postal mail to you if you have elected to receive it, have signed up for a new plan, or to inform you of a new plan or product.
@@ -17,7 +17,7 @@
 
 **We will never give any information about you to others without your express permission.**   Our site uses forms in which you give us contact information (like your name, address, and e-mail address) so you can place orders, request information and make suggestions. We use your customer information only when it will be important for us to contact you regarding changes to our service, our Web site and special offers we think you'll find valuable.
 
-However, if you decide to switch your long distance service to one of the plans listed, www.phonedog.com or the company you select will ask you for any relevant information needed to switch your service. All this is done through a secure site provided by www.phonedog.com or the long distance company. All of these companies have strict privacy policies that only use your information for the sole purpose of providing you service. See each company’s privacy policies for more details.
+However, if you decide to register for a product or service, www.phonedog.com or the company you select will ask you for any relevant information needed to process your order. All this is done through a secure site provided by www.phonedog.com or the selected merchant. All of these companies have strict privacy policies that only use your information for the sole purpose of providing you service. See each company’s privacy policies for more details.
 
  We use information gathered about you from our site statistics (for example, your IP address) to help diagnose problems with our server and to administer our Web site. We also gather broad demographic information from this data to help us improve our site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information. Our site uses cookies to keep track of your site visit. We use cookies to track the amount of traffic we receive and troubleshoot any browser issues. This site may also contain links to other sites. Unfortunately, [www.phonedog.com](http://www.phonedog.com/) is not responsible for the privacy practices or the content of such Web sites.
 
