@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nuim.ie privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230090001id_/http%3A//www.nuim.ie/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuim.ie privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614015916id_/http%3A//www.nuim.ie/about/privacy.shtml) for the most accurate reproduction.*
 
 # NUI Maynooth> About NUI Maynooth > Privacy Policy
 
