@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the creativepool.co.uk privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209065444id_/http%3A//www.creativepool.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativepool.co.uk privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613064327id_/http%3A//www.creativepool.co.uk/privacy.php) for the most accurate reproduction.*
 
-# The UKs creative CV and job centre :: privacy policy :: creativepool.co.uk
+# creativepool.co.uk Privacy Statement
 
 |  |   
 ---|---|---  
-[](https://web.archive.org/web/20061209065444id_/http%3A//www.creativepool.co.uk/) |  |   
+[](https://web.archive.org/web/20070613064327id_/http%3A//www.creativepool.co.uk/) |  |   
 |   
 |  |   
 ---|---  
-|  |  privacy policy  | 9th December 2006  
+|  |  privacy policy  | 13th June 2007  
 ---|---  
       
     
@@ -100,10 +100,19 @@
     
     **security**
     creativepool.co.uk uses industry standard practices to safeguard the confidentiality of your personal 
-    identifiable information, including encryption, and Secure Socket Layers. We treat data as an asset that must 
+    identifiable information, including encryption, and where applicable Secure Socket Layers. We treat data as an asset that must 
     be protected against loss and unauthorised access. We employ many different security techniques to protect such 
     data from unauthorised access by users inside and outside the company. However, "perfect security" does not 
-    exist in may business or on the Internet. 
+    exist in any business or on the Internet. The internet is an open system and as such we cannot guarantee that unauthorised 
+    third parties will never be able to defeat those measures or use your personal information for improper purposes. 
+    You should also be aware that there is a chance that your current employer may also have access to creativepool
+    and therefore be aware of you being on the site.   
+    
+    A final note that while every precaution has been by us to ensure the security of your information. 
+    Certain information that you provide may become publicly available - this is not our intention - 
+    and if highlighted to us we will do our uptmost to ensure that the situation is rectified as quickly and efficiently as possible. 
+    Any situation arising from such a scenario - which would only occur due to missuse of the site or a genuine error 
+    on our part will incur an aggregate liability for the Company to you for all claims arising from this situation is limited to £0.01. 
     
     
     **children** 
