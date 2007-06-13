@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lp.org privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214232116id_/http%3A//www.lp.org/organization/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lp.org privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614000920id_/http%3A//www.lp.org/organization/privacy.shtml) for the most accurate reproduction.*
 
 # Official Website of the Libertarian National Committee
 
@@ -15,18 +15,16 @@ This web site is owned and administered by The Libertarian Party.
 
 Our postal address is:
 
-> 2600 Virginia Ave. NW, Suite 100  
+> 2600 Virginia Ave. NW, Suite 200  
 > Washington D.C. 20037
 
 We can be reached via e-mail at [info@lp.org](mailto:info@lp.org) or you can reach us by telephone at (202) 333-0008
 
 ## General Issues
 
-For each visitor to our Web page, our Web server automatically recognizes the visitor's host/domain name, but not his e-mail address. We collect only the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and any other information volunteered by the consumer, such as survey or contact information provided to us in various sign-up forms and interactive elements of the site.
+For each visitor to our Web page, our Web server automatically recognizes the visitor's host/domain name, but not an e-mail address. We collect only the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages visitors access or visit, and any other information volunteered by the visitor, such as survey or contact information provided to us in various sign-up forms and interactive elements of the site.
 
 ### Details: Unidentified visitors and aggregate information
-
-The information we collect from general, unidentified visitors is used to improve the content of our Web site, to customize certain content and/or layout of our site for visitors who opt for our "regionalization" feature, and it is not shared with other organizations for commercial purposes. The "regionalization" feature uses cookies to customize Web page content based on the user's volunteered information: their U.S. state and/or ZIP code. 
 
 We collect and use aggregate information from all our site's visitors (derived from your internet host, the duration and details of your visit, and the entrance and exit path to/from our site) in order to understand and improve our site's performance, design, architecture or content over time. No other information from general visitors is collected, used or shared in any way not specifically stated above.
 
@@ -41,7 +39,7 @@ The information we collect from self-identified visitors to the site, through th
 
 If you do not want to receive postal mail from us in the future, please let us know by or sending us e-mail at [info@lp.org](mailto:info@lp.org) and including in your message the text "DEACTIVATE." When writing, please be sure to provide us with pertinent information such as your membership number or current contact information. You will not receive any further postal mail from us, and your name will not be shared with outside organizations.
 
-If you would like us to stop sharing your contact information with other organizations, please let us know, again by writing to [info@lp.org](mailto:info@lp.org) and including in your message the text "NO MAIL." You will continue to receive mailings from us, but your name and contact information will no longer be shared.
+If you would like us to stop sharing your contact information with other organizations, please let us know, again by writing to [info@lp.org](mailto:info@lp.org) and including in your message the text "DO NOTE SHARE." You will continue to receive mailings from us, but your name and contact information will no longer be shared.
 
 You may also write to us with the option "REDUCED MAIL" - You will receive limited mail from us, including LP News (if your membership/subscription is current), membership renewal notices, and our annual report. You will not receive the periodic (monthly or bi-monthly) progress reports.
 
@@ -49,11 +47,11 @@ Rental/exchanges are always for one time use and only involve postal addresses. 
 
 ## Ad Servers
 
-We do not partner with or have special relationships with any ad server companies at this time. We do not employ the use of banner advertising on the site. 
+We do not partner with or have special relationships with any ad server companies at this time. We do not employ the use of external banner advertising on the site. 
 
 ## Other Sites
 
-The Libertarian Party web site contains links to the web sites of other companies and organizations which may employ their own privacy protection policies and publish notices of their own regarding online privacy. We encourage you to seek out and read such privacy protection notices whenever they are available in order to remain informed regarding the use of your personal information. For example, the Libertarian Party web site employs the use of "frames" in linking to a feature entitled the "World's Smallest Political Quiz," an interactive application developed, hosted and owned by The Advocates for Self-Government. Please be sure to read and understand the privacy policy available at the Advocates' site. 
+The Libertarian Party web site contains links to the web sites of other companies and organizations which may employ their own privacy protection policies and publish notices of their own regarding online privacy. We encourage you to seek out and read such privacy protection notices whenever they are available in order to remain informed regarding the use of your personal information. 
 
 ## Future Changes and Updates
 
