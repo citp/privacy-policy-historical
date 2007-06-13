@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afterlogic.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213214621id_/http%3A//www.afterlogic.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afterlogic.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613163323id_/http%3A//www.afterlogic.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # MAILBEE POP3 SMTP WEBMAIL IMAP4 POP IMAP EMAIL COMPONENT VB ASP ACTIVEX COM VBA OCX NET .NET C# VB.NET ASP.NET DOWNLOAD QUEUE SSL SECURITY CENSOR ACCESS PARSER C++ DLL CONTROL LIBRARY MIME INTERFACE
 
@@ -14,6 +14,9 @@
 > 
 > Our guiding principal is that we will never sell, lend or distribute email, business or personal addresses to any other company or organization for any purpose whatsoever. Neither will we ourselves, bombard you with unsolicited email. 
 
+  
+
+
 ## For more information:
 
   
@@ -23,9 +26,5 @@
 > 
 > or:
 > 
-> **Contact Us:**
+>   
 > 
-> AfterLogic Corporation  
->  tel: +1-303-364-3899
-> 
-> [ ]()
