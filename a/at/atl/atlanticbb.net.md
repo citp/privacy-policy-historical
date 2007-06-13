@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlanticbb.net privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021153214id_/http%3A//www.atlanticbb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlanticbb.net privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613030042id_/http%3A//www.atlanticbb.com/privacy.html) for the most accurate reproduction.*
 
 # Untitled Document
 
