@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guardster.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118070134id_/http%3A//www.guardster.com/%3FHome-Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guardster.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613071630id_/http%3A//guardster.com/%3FHome-Privacy_Policy) for the most accurate reproduction.*
 
 # Guardster - Privacy Policy
 
@@ -48,7 +48,7 @@ With respect to Ad Servers: To try and bring you offers that are of interest to 
 
 Please note: Our site may contain links to other sites. Guardster is not responsible for the privacy practices or the content of such Web sites. 
 
-Some Guardster services are funded by paid advertisers. All advertising inquiries are handled by email. If you are interested in becoming a paid advertiser please contact us at [sales@Guardster.com](mailto:sales@Guardster.com). 
+Some Guardster services are funded by paid advertisers. All advertising inquiries are handled by email. If you are interested in becoming a paid advertiser please contact us at [support@Guardster.com](mailto:support@Guardster.com). 
 
 If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically. 
 
