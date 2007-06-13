@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the nuigalway.ie privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215194551id_/http%3A//www.nuigalway.ie/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuigalway.ie privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613101546id_/http%3A//www.nuigalway.ie/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement, NUI Galway
 
 The National University of Ireland, Galway fully respects your right to privacy and takes every appropriate measure to secure the privacy of any information shared with the University.
 
-##### User Volunteered Information:
+### User Volunteered Information:
 
 The University does not collect any personal information on this Web site without your permission. All information volunteered within online forms is treated as confidential in accordance with the Data Protection Act 1988 and Data Protection (Amendment) Act 2003. Personal information such as email addresses is requested by online forms for the sole purpose of enabling the recipient in NUI Galway to reply to your contact.
 
-##### Automatically Obtained Information
+### Automatically Obtained Information
 
 Cookies may be used by this Web site to collect non-personal information about how visitors use our Web site. Cookies may also be used to remember your display preferences (e.g. preferred text size) the next time you visit. We use cookies as part of Google Analytics, a Web analytics service that enables us to track how visitors use our Web site. Google Analytics uses first party cookies. You may refuse the use of cookies by selecting the appropriate settings on your browser.
 
@@ -18,15 +18,15 @@ Some [browser header information](http://www.nuigalway.ie/web/services/tools/ser
 
 The National University of Ireland Galway does not use [malware](http://www.google.com/search?sourceid=navclient&ie=UTF-8&q=define%3A+malware), [spyware](http://www.google.com/search?sourceid=navclient&ie=UTF-8&q=define%3A+spyware), or [ adware](http://www.google.com/search?sourceid=navclient&ie=UTF-8&q=define%3A+adware) in any form or fashion.
 
-##### Security:
+### Security:
 
 NUI Galway uses every appropriate physical and technical security measure to prevent unauthorised access, alteration or destruction of data. These measures are reviewed regularly.
 
-##### Information Disclosure:
+### Information Disclosure:
 
 The National University of Ireland, Galway will not disclose any personal information obtained from its Web site to any third party unless required by law to do so.
 
-##### Contact Information:
+### Contact Information:
 
 Any queries regarding privacy and this Web site can be directed to the [Web Services team](http://www.nuigalway.ie/web/contact.php?privacy=y&username=None&department=No%20Advised%20Department).
 
