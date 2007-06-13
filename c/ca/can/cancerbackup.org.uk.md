@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the cancerbackup.org.uk privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206180035id_/http%3A//www.cancerbackup.org.uk/Termsconditions/Privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cancerbackup.org.uk privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613120300id_/http%3A//www.cancerbackup.org.uk/Termsconditions/Privacystatement) for the most accurate reproduction.*
 
 # Privacy statement : Cancerbackup
 
 * * *
 
 ## Emails
-
-Cancerbackup does not keep a database of people who send us emails, nor do we pass on personal details to other people or organisations.
 
 It is not necessary to include your details when giving us feedback unless you wish to receive a reply. 
 
@@ -24,7 +22,7 @@ Users should be aware that Cancerbackup cannot control the use of cookies by thi
 
 ## Donations
 
-If you make a donation to Cancerbackup through the website the information you supply about yourself will be kept securely on an internal database for financial purposes. You can choose not to receive any further information from us and your details will not be passed on to any other person or organisation.
+If you make a donation to Cancerbackup through the website the information you supply about yourself will be kept securely on an internal database for financial purposes. You can choose not to receive any further information from us and choose for your details not to be passed on to any other person or organisation.
 
 ## Research
 
@@ -33,6 +31,6 @@ Cancerbackup records some details about enquiries to monitor the quality and del
   
 
 
-Page last modified: 14 October 2006
+Page last modified: 22 March 2007
 
 Cancerbackup is a national charity and we rely on voluntary donations. To donate, please call 020 7696 9003 and tell us you have visited our website. Thank you.
