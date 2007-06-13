@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pmo.gov.sg privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211194800id_/http%3A//www.pmo.gov.sg/PrivacyStatement/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pmo.gov.sg privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613095228id_/http%3A//www.pmo.gov.sg/PrivacyStatement/index.htm) for the most accurate reproduction.*
 
 # The PMO - index
 
