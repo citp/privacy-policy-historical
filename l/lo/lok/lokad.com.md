@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lokad.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219183346id_/http%3A//www.lokad.com/docs/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lokad.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613130317id_/http%3A//www.lokad.com/docs/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Lokad, Privacy policy
 
@@ -10,7 +10,7 @@ Each Lokad customer can store time-series data in their Lokad account. We consid
 
 However, you should be aware that your time-series data will be used anonymously to improve the forecasts of other Lokad customers. This is one of Lokad's core technologies. We believe that this technology is fair for two strong reasons. First, the time-series data synergy process is a very indirect process that happens internally in Lokad. **The other Lokad customers do not have access to your time-series data.** Second, the process is symmetric: the time-series data of the other Lokad customers is used to improve your forecasts as well.
 
-If you believe that your time-series data are too sensitive to be entrusted to Lokad's care, then we suggest that you [obfuscate your time-series data](https://web.archive.org/web/20061219183346id_/http%3A//www.lokad.com/docs/Documentation.aspx#obfuscation).
+If you believe that your time-series data are too sensitive to be entrusted to Lokad's care, then we suggest that you [obfuscate your time-series data](https://web.archive.org/web/20070613130317id_/http%3A//www.lokad.com/docs/Documentation.aspx#obfuscation).
 
 ## Security
 
