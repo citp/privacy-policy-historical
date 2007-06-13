@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heritagewebdesign.com privacy policy that was archived on 2006-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061029211428id_/http%3A//www.heritagewebdesign.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heritagewebdesign.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613040333id_/http%3A//www.heritagewebdesign.com/privacy.html) for the most accurate reproduction.*
 
 # Website Design - Heritage Web Solutions Privacy
 
