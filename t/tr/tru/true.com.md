@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the true.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111104101id_/http%3A//www.true.com/privacy.htm%3Fsvw%3Dhomepage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the true.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614181617id_/http%3A//www.true.com/privacy.htm%3Fsvw%3Dfooter) for the most accurate reproduction.*
 
 # True | Privacy & Use Policy
 
@@ -15,7 +15,7 @@ Through TRUE.com, our members may take advantage of the many services and featur
 **Sign Up**  
 Certain features of our website, including the TRUE Compatibility Index™ and personality profile, require the client or website user to sign up before accessing those services.  During sign-up, TRUE.com collects the following information: name, address, birth date, and email address, along with other information about you and the type of people and relationships you are seeking through our website (e.g., hobbies, interests, personal preferences, personality traits).  This information may then be imported into the website programs to simplify the amount of information you will be required to enter when using the features available on TRUE.com.  In the event there is a change or update to the services available on our website, TRUE may use your information to contact you regarding such a change or update.  Your demographic data is used to show you content that may be of interest to you, and to help us display the content of our website according to your preferences.
 
-Also, TRUE uses your sign-up information to send you information about our company, affiliates and unaffiliated third parties.  You may opt out of receiving such information; see the choice/opt-out section below. 
+Also, TRUE uses your signup information to send you information about our company and select partners.  You may control the receipt of such information; see the choice/opt-out section below. 
 
 **Email Communication**  
 We use your email address to help us operate the website by sending appropriate communication to you related to billing and website changes.  We also use your email address to forward communications from other TRUE.com members.  Email communications may contain commercial messaging, such as ads and special offers from TRUE.com or our affiliates.  We may use action tags, also know a single-pixel gif or Web Beacons, to learn more about your visits to this Site in order to provide emails about goods and services of interest to you.
@@ -57,7 +57,7 @@ Cookies are used to deliver content specific to a user's potential interests and
 A user’s IP address is used by most e-commerce websites to collect demographic data and improve service.  We use your IP address, as well as the website you visited prior to our website for much the same purpose.  We automatically gather this information after each visit and translate this information into a resource that we can use to identify and correct problems with our website and better understand our users, as well as continually update and expand our offerings. 
 
 **Limited Access to Information**  
-TRUE guards your personal information carefully.  The individually identifiable information that you provide will be used by TRUE and its affiliated companies to provide you with information about products and services available to you through TRUE, its affiliated companies, and/or non-affiliated third parties.  TRUE will not disclose individually identifiable information to non-affiliated third parties without your permission.  You may opt-out of sharing your personal information with affiliated companies by following the unsubscribe instructions on the applicable confirmation page(s) or by sending an email to [customercare@true.com](mailto:customercare@true.com).
+TRUE guards your personal information carefully.  The individually identifiable information that you provide will be used by TRUE to provide you with information about products and services available to you through TRUE and select partners.  TRUE will not disclose individually identifiable information to non-affiliated third parties without your permission.
 
 Upon your request, TRUE.com will share your information with its affiliated representatives.  For example, if you need assistance in completing your profile, you may request that an affiliated relationship consultant contact you to review your profile or provide other assistance.  Upon such a request, TRUE.com will forward your name, phone number and other information you authorize to a relationship consultant.  TRUE will not, however, forward any information without your request to do so.
 
@@ -77,7 +77,7 @@ An SSL certificate is issued to ensure authentic and accurate identification of 
 TRUE reviews its security policies regarding TRUE.com on a regular basis, and changes are made as necessary.  Only a select group of authorized individuals within TRUE have access to user information. 
 
 **Availability Policy**  
-TRUE recognizes how important it is for you to have access to your information at any time.  We have implemented a policy specific to information availability.  Our network will be made available 99% of the time, excluding time for maintenance, backup and other routine services.  In the event of a disaster or other prolonged service interruption, access to system information and other resources will be limited until any problem is corrected.  Should you believe that we are not following our availability policy, please contact Customer Care by [ email](mailto:customercare@TRUE.com?subject=Privacy%20&%20Use%20Policy) or toll free at 1.866.583.TRUE (8783). 
+TRUE recognizes how important it is for you to have access to your information at any time.  We have implemented a policy specific to information availability.  Our network will be made available 99% of the time, excluding time for maintenance, backup and other routine services.  In the event of a disaster or other prolonged service interruption, access to system information and other resources will be limited until any problem is corrected.  Should you believe that we are not following our availability policy, please contact Customer Care by [ email](mailto:customercare@TRUE.com?subject=Privacy%20&%20Use%20Policy) or toll free at 1.866.212.8198 or 1.972.374.9402. 
 
 **Managing Your Information**  
 TRUE also understands that your circumstances and preferences change.  That is why we have simplified the process of amending, updating or deleting your information. 
@@ -89,7 +89,7 @@ Your TRUE.com account information is password protected so that only you have ac
 We strongly recommend that you do not divulge your password to anyone.  TRUE will never ask you for your password in an unsolicited phone call or email.  Also, remember to log out of your TRUE.com account and close your browser window when you have finished your session.  This will help to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place. 
 
 **Opt-Out**  
-If you change your mind about receiving special promotions and other information from TRUE, simply log into TRUE.com, click "Edit My Profile" and delete the check mark(s) from the various correspondence options.  You may also opt-out of receiving special promotions and other information from TRUE by following the unsubscribe instructions at the end of the applicable promotional email(s) or by sending an email to [customercare@true.com](mailto:customercare@true.com). 
+If you change your mind about receiving special promotions and other information from TRUE, simply log into TRUE.com, visit your [email options](https://web.archive.org/web/20070614181617id_/http%3A//www.true.com/emailoptions.htm) and specify the types of correspondence you'd like to receive.  You may also opt-out of receiving special promotions and other information from TRUE by following the unsubscribe instructions at the end of the applicable promotional email(s) or by sending an email to [customercare@true.com](mailto:customercare@true.com). 
 
 **Contacting TRUE**  
 You may reach us at: 
@@ -98,7 +98,7 @@ TRUE.com
 5215 N.  O'Connor, Suite 1600  
 Irving, TX 75039  
 Email: [ customercare@TRUE.com](mailto:customercare@TRUE.com?subject=Privacy%20&%20Use%20Policy)  
-1.866.583.TRUE (8783) 
+1.866.212.8198 or 1.972.374.9402
 
   
-Last updated on December 16, 2005. 
+Last updated on March 1, 2007. 
