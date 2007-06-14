@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the cari.net privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218081157id_/http%3A//www.cari.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cari.net privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614181350id_/http%3A//www.cari.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy
-
-Thank you for 6 great years of excellent service, and extremely reliable support, hardware, and software.  
-_-Time D., MxThree_
-
-[](http://www.cari.net/xeon-woodcrest-dual-core-dedicated-server.html)
 
 ## Privacy Policy
 
