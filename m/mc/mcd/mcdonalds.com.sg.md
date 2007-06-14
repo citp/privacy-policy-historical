@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the mcdonalds.com.sg privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206010134id_/http%3A//www.mcdonalds.com.sg/%3Fq%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcdonalds.com.sg privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615010538id_/http%3A//www.mcdonalds.com.sg/%3Fq%3Dprivacy) for the most accurate reproduction.*
 
 # McDonald's Internet Privacy Policy | McDonald's Singapore
 
-Thank you for visiting us online at McDonalds.com. At McDonald's, we strive to do everything we can to respect the trust customers have in our brand and our commitment to your privacy is no exception. We are committed to protecting and safeguarding consumer privacy on the Internet, especially for children. 
+Thank you for visiting us online at McDonalds.com.sg. At McDonald's, we strive to do everything we can to respect the trust customers have in our brand and our commitment to your privacy is no exception. We are committed to protecting and safeguarding consumer privacy on the Internet, especially for children. 
 
 Thanks again for visiting our web-site and for placing your trust in McDonald's.
 
 **McDonald's Internet Privacy Policy**
 
-McDonald's Corporation ("McDonald's") is pleased to provide information to all of its customers about its online privacy policy. Please be assured that McDonald's uses its best efforts to protect the privacy of visitors to this web site. Be first. As a McDonald's Preferred Subscriber, you'll hear about new promotional offers and other cool stuff way before anyone else. 
+McDonald's Restaurants Pte Ltd ("McDonald's") is pleased to provide information to all of its customers about its online privacy policy. Please be assured that McDonald's uses its best efforts to protect the privacy of visitors to this web site. Be first. As a McDonald's Preferred Subscriber, you'll hear about new promotional offers and other cool stuff way before anyone else. 
 
 Click here to change your preferences by choosing what you want to hear about -- or tell us if you don't want to hear anything at all. 
 
@@ -30,9 +30,9 @@ McDonald's reserves the right to use or disclose any information as needed to sa
 
 McDonald's is very sensitive to privacy issues. We are proud of our longtime commitment to our customers. We are especially careful in any communications with one of our most treasured customers - children. 
 
-On our web sites, we offer many features, like games and coloring books, which do not require a child to provide any personal information. We collect only limited personal information from children 12 and under (like their email addresses) to respond to their online requests. For example, we may collect a child's email address in order to send the child a screen saver, but we promptly delete the email address from our system. Or, we may collect a child's email address in order to enter the child in a sweepstakes. We may also ask a child to provide an email address of a parent so we can notify the parent or seek consent. We will not collect more detailed information from a child 12 and younger, such as a postal address or a telephone number, without the consent of a parent or guardian. McDonald's will not condition a child's participation in any online activity on the child's disclosure of more personal information than is reasonably necessary to participate in that activity. 
+On our web sites, we offer many features, like games and coloring books, which do not require a child to provide any personal information. We collect only limited personal information from children 12 and under (like their email addresses) to respond to their online requests. For example, we may collect a child's email address in order to send the child a screen saver, but we promptly delete the email address from our system. Or, we may collect a child's email address in order to enter the child in a lucky draw or sweepstakes. We may also ask a child to provide an email address of a parent so we can notify the parent or seek consent. We will not collect more detailed information from a child 12 and younger, such as a postal address or a telephone number, without the consent of a parent or guardian. McDonald's will not condition a child's participation in any online activity on the child's disclosure of more personal information than is reasonably necessary to participate in that activity. 
 
-Personal information collected from children is used solely by McDonald's or other entities that provide technical, fulfillment or other services to McDonald's. For example, such entities may provide services, such as, improving our web sites, fulfilling requests or administering sweepstakes. This personal information is not sold or transferred to third parties. 
+Personal information collected from children is used solely by McDonald's or other entities that provide technical, fulfillment or other services to McDonald's. For example, such entities may provide services, such as, improving our web sites, fulfilling requests or administering lucky draws or sweepstakes. This personal information is not sold or transferred to third parties. 
 
 We urge parents to regularly monitor and supervise their children's on-line activities. 
 
@@ -46,7 +46,7 @@ In order to review any personal information we have about your child or to ask u
 
 **Cookies**
 
-"Cookies" are pieces of information that a web site transfers to an individual's hard drive for record-keeping purposes. Cookies allow the web site to remember important information that will make your use of the site more convenient. Like most web sites, McDonald's uses cookies for a variety of purposes in order to improve your on-line experience. For example, we track the total number of visitors to our site on an anonymous aggregate basis. We may also employ cookies so that we remember you when you return to the site, to keep track of the items in your shopping cart if you purchase merchandise online, to administer certain contests and sweepstakes and to help customize your McDonald's web experience. We may associate personal information with a cookie file in those instances. 
+"Cookies" are pieces of information that a web site transfers to an individual's hard drive for record-keeping purposes. Cookies allow the web site to remember important information that will make your use of the site more convenient. Like most web sites, McDonald's uses cookies for a variety of purposes in order to improve your on-line experience. For example, we track the total number of visitors to our site on an anonymous aggregate basis. We may also employ cookies so that we remember you when you return to the site, to keep track of the items in your shopping cart if you purchase merchandise online, to administer certain contests and lucky draws or sweepstakes and to help customize your McDonald's web experience. We may associate personal information with a cookie file in those instances. 
 
 Use the options in your web browser if you do not wish to receive a cookie or if you wish to set your browser to notify you when you receive a cookie. Click on the "Help" section of your browser to learn how to change your cookie preferences. If you disable all cookies, you may not be able to take advantage of all the features of this web site. 
 
@@ -64,16 +64,13 @@ Many McDonald's restaurants are owned and operated by franchisees, who are indep
 
 **Changes to our Privacy Policy**
 
-This privacy policy is effective as of June 8, 2004. From time to time, it may be necessary for McDonald's to change this privacy policy. If we change our policy, we will post the revised version here, so we suggest that you check here periodically for the most up-to-date version of our privacy policy. Rest assured, however, that any changes will not be retroactively applied and will not alter how we handle previously collected information.
+This privacy policy is effective as of 1st April, 2006. From time to time, it may be necessary for McDonald's to change this privacy policy. If we change our policy, we will post the revised version here, so we suggest that you check here periodically for the most up-to-date version of our privacy policy. Rest assured, however, that any changes will not be retroactively applied and will not alter how we handle previously collected information.
 
 **How to Contact Us**
 
 If you have any questions about our McDonald's Internet Privacy Policy, please [contact](http://www.mcdonalds.com.sg/?q=feedback) us at: 
 
-Privacy at McDonald's  
-Dept. 062  
-One Kroc Drive  
-Oak Brook, IL 60523  
-USA  
-(800) 261-9827  
-or e-mail us at contact.privacy@mcd.com
+Mcdonald's Restaurants  
+Communications Department  
+11 King Albert Park  
+Singapore 598292 
