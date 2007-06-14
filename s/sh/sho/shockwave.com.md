@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shockwave.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231163854id_/http%3A//www.atomentertainment.com/asw_legal_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shockwave.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614065302id_/http%3A//www.atomentertainment.com/asw_legal_privacy.htm) for the most accurate reproduction.*
 
 # Atom Entertainment - Privacy and Legal Info - Privacy Policy
 
@@ -14,7 +14,7 @@ _When does Atom Entertainment collect my information, including personally ident
 
 Registration. When you register, Atom Entertainment asks for your e-mail address, a user selected user name, and other information. Once you are a registered user you can update your profile and may be able to provide additional preferential information (e.g. a member name, a nickname, and certain user preferences). (Atom Entertainment's policy with respect to children under 13 is below) 
 
-Order Forms and Products Store. Atom Entertainment also uses an order form for users to request information, products and services. For that order form, we collect a user's contact information (e-mail address) and necessary financial information to process the order (i.e. credit card number). Contact information from the order (including email) is used to deliver digital products and information from Atom Entertainment. Atom Entertainment may use third parties to accept and process orders and credit card purchases for merchandise and products, including software. Atom Entertainment currently uses the services of Custom CD to fulfill orders for games on tangible media for Shockwave.com, iPay for credit card processing for Shockwave.com and Shockwave.com Unlimited, and Navio for credit card and direct carrier billing in the Shockwave Mobile Store. Custom CD collects information from consumers solely to process orders for games on CDs and send them to the designated recipient. Custom CD does not sell or rent this information, and will only share it as stated in its Privacy Policy. For more information in Navio's use of your information, please read their Privacy Policy [<http://customcd.us/privacy_policy.html>]. iPAY collects information from consumers solely to process payment transactions on behalf of its merchants and will only share consumer information with the merchant who originated the transaction, vendors, processors, banking institutions, and credit card associations as necessary to process payment transactions. iPAY does not sell or rent this information, and will only share it as stated in its Privacy Policy. For more information in iPay's use of your information, please read their Privacy Policy [<http://www.ipay.com/pages/privacy.asp>]. Navio collects information from consumers solely to process payment transactions on behalf of its merchants and will only share consumer information with the merchant who originated the transaction, vendors, processors, banking institutions, and credit card associations as necessary to process payment transactions. Navio does not sell or rent this information, and will only share it as stated in its Privacy Policy. For more information in Navio's use of your information, please read their Terms of Service, Privacy Policy, Account User Policy, and Spam Policy [<http://my.av.net/docs/termsofuse.html>]. 
+Order Forms and Products Store. Atom Entertainment also uses an order form for users to request information, products and services. For that order form, we collect a user's contact information (e-mail address) and necessary financial information to process the order (i.e. credit card number). Contact information from the order (including email) is used to deliver digital products and information from Atom Entertainment. Atom Entertainment may use third parties to accept and process orders and credit card purchases for merchandise and products, including software. Atom Entertainment currently uses the services of iPay for credit card processing for Shockwave.com and Shockwave.com Unlimited, and Navio for credit card and direct carrier billing in the Shockwave Mobile Store. iPAY collects information from consumers solely to process payment transactions on behalf of its merchants and will only share consumer information with the merchant who originated the transaction, vendors, processors, banking institutions, and credit card associations as necessary to process payment transactions. iPAY does not sell or rent this information, and will only share it as stated in its Privacy Policy. For more information in iPay's use of your information, please read their Privacy Policy [<http://www.ipay.com/pages/privacy.asp>]. Navio collects information from consumers solely to process payment transactions on behalf of its merchants and will only share consumer information with the merchant who originated the transaction, vendors, processors, banking institutions, and credit card associations as necessary to process payment transactions. Navio does not sell or rent this information, and will only share it as stated in its Privacy Policy. For more information in Navio's use of your information, please read their Terms of Service, Privacy Policy, Account User Policy, and Spam Policy [<http://my.av.net/docs/termsofuse.html>]. 
 
 Special Contests or Promotions. Atom Entertainment may occasionally present a special contest or promotion that is sponsored by another company. To qualify for entry in that contest or promotion, we may ask you to provide personal information. If we plan to share that information with the sponsor(s) or with others, we will provide a statement to that effect in the contest or promotion terms. 
 
@@ -94,13 +94,30 @@ _How can I update my Profile?_
 
 You can help Atom Entertainment maintain the accuracy of your profile by notifying us when you change your name (only for gameblast), zip code, country of residence, age range, or e-mail address. If at any time you wish to update your information or stop receiving communication from Atom Entertainment, sign in to the applicable Atom Entertainment Site and then select 'update your profile' to change your newsletter preferences. 
 
-Contacting AtomShockwave. Atom Entertainment would like to receive your comments and questions about this Privacy Policy. Please address comments or questions regarding Atom Entertainment's Privacy Policy to us via e-mail or postal mail. 
+Contacting Atom Entertainment.
 
-You can complete our e-mail form at: <http://www.atomshockwave.com/asw_contact_submission.htm>. You may also contact Atom Entertainment by mail at:   
+Atom Entertainment would like to receive your comments and questions about this Privacy Policy. Please address comments or questions regarding Atom Entertainment's Privacy Policy to us via e-mail or postal mail. 
+
+You can complete our e-mail form at: <http://www.atomentertainment.com/asw_legal_infringement.htm>. 
+
+You may also contact Atom Entertainment by mail at: 
+
 Atom Entertainment, Inc.   
-Attn: Shockwave Privacy  
-225 Bush Street, Suite 1200 San Francisco, CA 94104 USA 
+Attn: Privacy  
+225 Bush Street, Suite 1200   
+San Francisco, CA 94104 USA 
 
-Acceptance of Privacy Policy. Your use of the Atom Entertainment Sites, including any dispute concerning privacy, is subject to this Privacy Policy and Atom Entertainment's Terms of Service. [By using the Atom Entertainment Sites, you are accepting the practices set out in this Privacy Policy and those Terms of Service](http://www.atomshockwave.com/asw_legal_terms.htm). We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date at the bottom of this page to determine if the policy has been modified since you last reviewed it. Your continued use of any portion of the Atom Entertainment Sites following posting of the updated Privacy Policy will constitute your acceptance of the changes. 
+Your California Privacy Rights.
 
-Updated as of 10-17-06 
+Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to businessaffairs(at)atom.com or write us:
+
+Atom Entertainment, Inc.  
+Attn: Privacy  
+225 Bush Street, Suite 1200  
+San Francisco, CA 94104 USA 
+
+Acceptance of Privacy Policy.
+
+Your use of the Atom Entertainment Sites, including any dispute concerning privacy, is subject to this Privacy Policy and Atom Entertainment's Terms of Service. [By using the Atom Entertainment Sites, you are accepting the practices set out in this Privacy Policy and those Terms of Service](http://www.atomshockwave.com/asw_legal_terms.htm). We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date at the bottom of this page to determine if the policy has been modified since you last reviewed it. Your continued use of any portion of the Atom Entertainment Sites following posting of the updated Privacy Policy will constitute your acceptance of the changes. 
+
+Updated as of 01-24-07
