@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the odmp.org privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211205436id_/http%3A//odmp.org/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odmp.org privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614032318id_/http%3A//www.odmp.org/info/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
