@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the blogflux.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205213816id_/http%3A//www.blogflux.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogflux.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614090627id_/http%3A//www.blogflux.com/privacy.php) for the most accurate reproduction.*
 
-# Blog Flux Privacy Policy
-
-  
-  
-
+# Blog Flux Privacy Policy - Blog Flux
 
 ## Privacy Statement for Blog Flux and its associated services
 
@@ -34,4 +30,4 @@ This site has security measures in place to protect the loss, misuse, and altera
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at the following page: [contact us](http://www.blogflux.com/contact.php). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at the following page: [contact us](http://www.blogflux.com/contact.php).
