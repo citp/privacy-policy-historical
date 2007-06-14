@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the schaeffler.com privacy policy that was archived on 2006-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060502124919id_/http%3A//www.schaeffler.com/content/en/_global/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schaeffler.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614203200id_/http%3A//www.schaeffler.com/content.ina.de/en/_global/Privacy.jsp) for the most accurate reproduction.*
 
-# INA Internet | Privacy Statement
+# INA
 
 Thank you for your interest in our company and in our products. Protecting your privacy while using our online services is very important to us. We comply with the legal requirements of the country in which the site processing the data is located when collecting and processing personal data. In the Federal Republic of Germany, the applicable law is the Federal Data Protection Act. 
 
