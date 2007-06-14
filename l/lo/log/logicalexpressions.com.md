@@ -1,22 +1,28 @@
-> *The following text is extracted and transformed from the logicalexpressions.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208013248id_/http%3A//www.logicalexpressions.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logicalexpressions.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615000146id_/http%3A//www.logicalexpressions.com/privacy.htm) for the most accurate reproduction.*
 
-# Logical Expressions, Inc.
+# Logical Expressions, Inc. - Print and Online Publishing Products and Services - Books, Web Sites, Newsletters and Information Products
 
 | 
 
 At Logical Expressions, Inc., we know that you value your privacy, so we want you to know that your personal information is completely confidential. This privacy policy applies not only to our main Logical Expressions, Inc. site ([http://www.logicalexpressions.com](http://www.logicalexpressions.com/)), but also to the other sites we produce, including: 
 
-  * The Logical Web Publisher - [http://www.pointclickpublish.com](http://www.pointclickpublish.com/) (and other promotional sites for it) 
+  * The LEI Store - [http://shop.logicalexpressions.com](http://shop.logicalexpressions.com/)
+  * The Logical Web Publisher - [http://www.pointclickpublish.com](http://www.pointclickpublish.com/)
   * Computor Companion - [http://www.computorcompanion.com](http://www.computorcompanion.com/)
   * Logical Tips (CC Tips) - [http://www.logicaltips.com](http://www.logicaltips.com/)
-  * Logical EBiz (ebook) - [http://www.logicalebiz.com](http://www.logicalebiz.com/)
+  * Web Business Success (book) - [http://www.logicalebiz.com](http://www.logicalebiz.com/)
+  * IdeaWeaver Software - [http://www.ideaweaversoftware.com](http://www.ideaweaversoftware.com/)
+  * Vegan Success (book) \- [http://www.vegansuccess.com](http://www.vegansuccess.com/)
+  * Happy Hound (book) - [http://www.happyhoundbook.com](http://www.happyhoundbook.com/)
   * Many Veggie Recipes - [http://www.manyveggierecipes.com](http://www.manyveggierecipes.com/)
   * Pet Tails - [http://www.pet-tails.com](http://www.pet-tails.com/)
   * Newsletter Help - [http://www.newsletterhelp.com](http://www.newsletterhelp.com/)
+  * Sandpoint Insider - [http://www.sandpointinsider.com](http://www.sandpointinsider.com/)
+  * Sandpoint Store - [http://www.sandpointstore.com](http://www.sandpointstore.com/)
 
 
 
-To send you an e-zine, we obviously need your e-mail address. However, our privacy policy is very simple: we will not ever rent or sell your name, e-mail address or other information about you to anyone else. Ever.
+To send you an e-zine or sell you a product, we need your e-mail address. However, our privacy policy is very simple: we will not ever rent or sell your name, e-mail address or other information about you to anyone else. Ever.
 
 Similarly, if you send us an e-mail, we use your return email addresses to answer the e-mail. However, we don't use your address for any other purpose and we absolutely do not share it with any outside parties.
 
@@ -33,8 +39,8 @@ You may opt out of any future contacts from us at any time. You can do the follo
 Here's a list of the information we collect and how we use it.
 
   * Like most sites on the Internet, all Logical Expressions, Inc. Web sites automatically tracks certain general information about your visit so we know how many people visit the site, which browsers they are using, what Web page they came from, and which pages they visited on our site. This information helps us monitor customer traffic and site usage to help us improve the content, design, and layout of the site. When you visit Logical Expressions, Inc., our Web server gathers this information by tracing your domain name (such as aol.com, for example) but not your e-mail address. Note that none of this information is used (or can be used) to identify you personally. 
-  * We use PayPal to process payments. So when you want to buy an ebook, software or otherwise pay us for something by credit card, PayPal will need your name, e-mail address, address, telephone number, and credit card information which we then use to fulfill your order and to deliver information to you regarding your order. 
-  * Although PayPal collects your credit card information for payment, the information is kept strictly private and confidential. If you have questions on PayPal, please visit the [PayPal site](http://www.paypal.com/). 
+  * We use Authorize.net to process payments. So when you want to buy an book, software or otherwise pay us for something by credit card, our shopping cart will need your name, e-mail address, address, telephone number, and credit card information which we then use to fulfill your order and to deliver information to you regarding your order. 
+  * Although the cart collects your credit card information for payment, the information is kept strictly private and confidential. We do not store credit card numbers in our ecommerce sites. 
   * Some of our advertisers may use cookies to track the fact that you clicked their link on our site. However, we have no access to or control over these cookies. 
 
 
@@ -55,4 +61,4 @@ Logical Expressions, Inc.
 311 Fox Glen Road  
 Sandpoint, Idaho 83864  
 Phone: 208-265-3636  
-E-mail: _webmaster_ AT logicalexpressions.com  | 
+[E-mail](https://web.archive.org/web/20070615000146id_/http%3A//www.logicalexpressions.com/contact.asp) | 
