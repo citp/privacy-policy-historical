@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afternic.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230022931id_/http%3A//www.afternic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afternic.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614182701id_/http%3A//www.afternic.com/privacy.php) for the most accurate reproduction.*
 
 # Afternic Privacy Statement
 
@@ -6,7 +6,7 @@
 
 Your privacy is very important to Afternic. As part of the normal operation of our business services, we collect and, in some cases, disclose information about you. This Privacy Policy outlines the information that we collect about you and what may happen to that information. The privacy policies of this notice apply to http://www.Afternic.com (hereafter, the Site).
 
-As described below, some of your personally identifiable information is disclosed to third parties and used by us and third parties. By accepting the Membership Agreement, you expressly consent to our use and disclosure of your personally identifiable information. This Privacy Policy is incorporated into and subject to the terms of the [AFTERNIC Membership Agreement](https://web.archive.org/web/20061230022931id_/http%3A//www.afternic.com/agreement.php).
+As described below, some of your personally identifiable information is disclosed to third parties and used by us and third parties. By accepting the Membership Agreement, you expressly consent to our use and disclosure of your personally identifiable information. This Privacy Policy is incorporated into and subject to the terms of the [AFTERNIC Membership Agreement](https://web.archive.org/web/20070614182701id_/http%3A//www.afternic.com/agreement.php).
 
 AFTERNIC reserves the right to change its privacy policy from time to time.
 
@@ -25,7 +25,7 @@ We use this information to measure the number of visitors to the different secti
 
 We will not obtain any other personally identifying information about you when you visit our site, unless you choose to provide such information to us.
 
-As a STANDARD MEMBER, BUYER MEMBER or EXCHANGE MEMBER, we collect and store additional information about you. To fully use our services, you will need to register using our online form. You will be required to provide us with your contact information and other personal information such as User ID, email address, and billing address. In addition, as a BUYER MEMBER or EXCHANGE MEMBER, you will be required to provide your credit card number and its expiration date. We use this credit card information to verify your name, address, and other personally identifying information as well as to process your transactions.
+As a STANDARD MEMBER, BUYER MEMBER or ACTIVEEXCHANGE MEMBER, we collect and store additional information about you. To fully use our services, you will need to register using our online form. You will be required to provide us with your contact information and other personal information such as User ID, email address, and billing address. In addition, as a BUYER MEMBER or ACTIVEEXCHANGE MEMBER, you will be required to provide your credit card number and its expiration date. We use this credit card information to verify your name, address, and other personally identifying information as well as to process your transactions.
 
 We automatically track certain information about you based upon your behavior on our site. We use this information to analyze user demographics, interests, and behavior to better understand your preferences and improve your AFTERNIC experience.
 
@@ -82,4 +82,4 @@ At your discretion, you may review and change all fields in your personal domain
 AFTERNIC uses industry standard efforts such as firewalls and SSL-encryption to safeguard the confidentiality of your personally identifiable information. However, 'perfect security' does not exist on the Internet.
 
 **9\. Privacy protection.**  
-The data required by AFTERNIC to activate your membership is used solely for the account you maintain with us. All real data you provide to AFTERNIC is kept strictly confidential and will not be sold or released. Your Username on AFTERNIC can be any name of your own choosing, and identifies you as Standard Member or Exchange Member. Prospective counterparties will be able to view your Member Profile, post comments about you, and view the auctions you are involved in, but in no way will have access to your true identity or your email address. 
+The data required by AFTERNIC to activate your membership is used solely for the account you maintain with us. All real data you provide to AFTERNIC is kept strictly confidential and will not be sold or released. Your Username on AFTERNIC can be any name of your own choosing, and identifies you as Standard Member or ACTIVEEXCHANGE Member. Prospective counterparties will be able to view your Member Profile, post comments about you, and view the auctions you are involved in, but in no way will have access to your true identity or your email address. 
