@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educationvalue.com privacy policy that was archived on 2006-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060520180511id_/http%3A//educationvalue.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationvalue.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614113431id_/http%3A//educationvalue.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,6 +17,3 @@ Education Value has security measures in place to protect against the loss, misu
 
 **Contact Us**   
 To remove or change your contact information in our database, to ask us any questions you may have about Privacy Statement, or to make other inquiries, please contact us at 
-
-198 Tremont St #460  
-Boston, MA 02116
