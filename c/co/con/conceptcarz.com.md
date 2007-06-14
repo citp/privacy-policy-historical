@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conceptcarz.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219231307id_/http%3A//www.conceptcarz.com/info/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conceptcarz.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614212926id_/http%3A//www.conceptcarz.com/info/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
