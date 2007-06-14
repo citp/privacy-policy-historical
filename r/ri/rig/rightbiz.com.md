@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the rightbiz.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205222017id_/http%3A//www.rightbiz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightbiz.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614125957id_/http%3A//www.rightbiz.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
+  
 RightBiz Enterprises respects the privacy of all our visitors and we will never sell, barter, or rent your Personally Identifiable Information (your name, e-mail address, street address, telephone number) to any unauthorized third party. Period." 
 
 * Privacy policy   
@@ -60,7 +61,7 @@ You can subscribe to our mailing list by sending an e-mail with your name and e-
 
 ### How you can get more information
 
-Send an email to info@rightbiz.com stating what it is you want, or use our on-line form at http://www.rightbiz.com/info.html 
+Send an email to info@rightbiz.com stating what it is you want, or use our on-line form at <http://www.rightbiz.com/info.html>
 
 ### Spam Policy
 
