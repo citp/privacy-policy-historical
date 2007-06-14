@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkedin.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231071611id_/http%3A//www.linkedin.com/static%3Fkey%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkedin.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614124905id_/http%3A//www.linkedin.com/static%3Fkey%3Dprivacy_policy) for the most accurate reproduction.*
 
 # LinkedIn: Privacy Policy
 
@@ -121,8 +121,8 @@ If you have questions or comments about this privacy policy, please email us at 
 
 LinkedIn Corporation  
 Attn: Privacy Policy Issues  
-1840 Embarcadero Road  
-Palo Alto, CA 94303 
+2029 Stierlin Court  
+Mountain View, CA 94043 
 
 #### Recent Updates:
 
