@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fullcompass.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216214054id_/http%3A//www.fullcompass.com/news/88.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullcompass.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614190451id_/http%3A//www.fullcompass.com/news/88.html) for the most accurate reproduction.*
 
-# Full Compass Privacy Statement
+# Privacy Statement | Full Compass
 
 **800-476-9886** | 608-227-3000 | Fax: 608-831-1890   
 **Monday - Friday 9:00 - 5:30, Saturday 10:00 - 4:00 CST**
