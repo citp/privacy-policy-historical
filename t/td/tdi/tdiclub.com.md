@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the tdiclub.com privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228094639id_/http%3A//www.tdiclub.com/Disclaimer/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tdiclub.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614144325id_/http%3A//www.tdiclub.com/Disclaimer/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
 ###    
 Privacy Statement
 
-TDIClub (also known as Fred's TDIPage ) is committed to protecting the privacy of individuals. 
+TDIClub (TDIClub Online Ltd.) is committed to protecting the privacy of individuals. 
 
 **How Information is Collected and Used** The Authority collects personal information that is voluntarily provided by you when using certain portions of this website; such as 'contact us', 'e-commerce' or 'reservations'. This information is collected for the purpose in which it was given; respond to your inquiry, ship your product, or make your reservation. By providing us with your personal information, you consent to the use of your personal information in accordance with this privacy statement. The Authority will not disclose any personal information to any third party, except as required by law and as is necessary to fulfill your request. 
 
