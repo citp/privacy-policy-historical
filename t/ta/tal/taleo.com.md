@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the taleo.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218154033id_/http%3A//www.taleo.com/privacy/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taleo.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614020819id_/http%3A//www.taleo.com/privacy/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy > Taleo
 
 Effective on: July 1, 2004
 
-Taleo Corporation and its affiliated companies (Taleo ) provides this Web Site Privacy Statement to explain how we collect, use, and disclose certain personal information online. Taleo also has a separate privacy statement that applies to certain personal data that Taleo receives in the United States from the European Union, called the [EU Safe Harbor Privacy Statement](https://web.archive.org/web/20061218154033id_/http%3A//www.taleo.com/privacy/EU-safe-harbor.php).
+Taleo Corporation and its affiliated companies (Taleo ) provides this Web Site Privacy Statement to explain how we collect, use, and disclose certain personal information online. Taleo also has a separate privacy statement that applies to certain personal data that Taleo receives in the United States from the European Union, called the [EU Safe Harbor Privacy Statement](https://web.archive.org/web/20070614020819id_/http%3A//www.taleo.com/privacy/EU-safe-harbor.php).
 
 This Web Site Privacy Statement discloses the privacy practices for www.Taleo.com. Taleo Corporation is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because Taleo wants to demonstrate its commitment to your privacy, it discloses its website information practices (set forth below) and permits TRUSTe to review its website privacy practices. This Website Privacy Statement notifies you of:
 
@@ -117,7 +117,7 @@ In general, Taleo may obtain EU Personal Data in the United States about several
 
 ## Website Visitors
 
-Taleo generally collects, uses, and discloses information about website visitors located in the EU in accordance with the Website Privacy Policy [www.taleo.com/privacy/privacy-policy.php](https://web.archive.org/web/20061218154033id_/http%3A//www.taleo.com/privacy/privacy-policy.php).
+Taleo generally collects, uses, and discloses information about website visitors located in the EU in accordance with the Website Privacy Policy [www.taleo.com/privacy/privacy-policy.php](https://web.archive.org/web/20070614020819id_/http%3A//www.taleo.com/privacy/privacy-policy.php).
 
 ## Clients, Suppliers, and Business Partners
 
