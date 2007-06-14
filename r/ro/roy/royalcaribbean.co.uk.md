@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the royalcaribbean.co.uk privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217183611id_/http%3A//www.royalcaribbean.co.uk/php/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalcaribbean.co.uk privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614153356id_/http%3A//www.royalcaribbean.co.uk/php/privacy.php) for the most accurate reproduction.*
 
-# Royal Caribbean International UK & Ireland: Privacy Policy
+# Royal Caribbean UK & Ireland
 
 |  | 
 
@@ -16,38 +16,9 @@ Our web sites often provide links to resources that we believe may be useful. Th
 Security for all personally identifiable information is extremely important to us. To prevent unauthorised access, maintain data accuracy and ensure the correct usage of information, we monitor and adjust our physical, electronic and managerial procedures to safeguard and secure the information we collect online. Unfortunately, we cannot guarantee that data transmitted over the Internet will always be secure. As a result, while we strive to protect your personally identifiable information, we cannot ensure or warrant the security of any information you transmit to us or from our online products and services and you do so at your own risk. Upon receipt of your transmission, we strive to ensure the security of that information in our systems.  **What About Children Under the Age of 13?**  
 None of our web sites are targeted at children (minors under thirteen years of age) and we do not knowingly collect personally identifiable information from children who have not obtained parental consent.  **Privacy Policy Updates**  
 By using our web sites, you signify your acceptance of this Privacy Policy. RCCL reserves the right to modify, alter or otherwise update this policy at any time. Visitors are encouraged to review this policy from time to time to stay abreast of any changes. Your continued use of our web sites following the posting of any changes to this policy means you accept those changes.  **Questions or Comments?**  
-If you have any further questions or comments regarding our Privacy Policy, [please send us an e-mail](https://web.archive.org/web/20061217183611id_/http%3A//www.royalcaribbean.co.uk/php/ask_us.php) with your questions or comments. This privacy policy was last modified on May 14, 2003.  **Copyrights**  
+If you have any further questions or comments regarding our Privacy Policy, [please send us an e-mail](https://web.archive.org/web/20070614153356id_/http%3A//www.royalcaribbean.co.uk/php/ask_us.php) with your questions or comments. This privacy policy was last modified on May 14, 2003.  **Copyrights**  
 Unless otherwise expressly noted, all materials, including images, illustrations, designs, icons, photographs, appearing anywhere on a Royal Caribbean Cruises Ltd., Celebrity Cruises Inc. or their affiliates (collectively the "Company") Internet sites are protected by worldwide copyright laws and treaty provisions. (All such Internet web sites shall be referred to as "Company Web Sites.") The copyright on such materials is held by the company or by the original creator of the materials. None of the materials may be copied, reproduced, displayed, modified, published, uploaded, posted, transmitted, or distributed in any form or by any means other than as described in the Linking Policy section or with Royal Caribbean Cruises Ltd.'s prior written permission. All rights not expressly granted herein are reserved. Any unauthorised use of the materials appearing on Company Web Sites may violate copyright, trademark and other applicable laws and could result in criminal or civil penalties.   
-|  |  |  |  |  | 
-
-**Search for your cruise**
-
-Search and book your cruise.  
-  
----  
-  
-[](http://www.royalcaribbean.co.uk/popups/transfer.php?url=http://www.royalcaribbean.com/findacruise/search/buildAdvancedSearch.do?port=null&ship=null&dest=null)  
-  
-**E-Newsletter**
-
-For all the latest news.  
-  
-[](https://www.royalcaribbean.co.uk/popups/basic.php)  
-  
-**Already Booked**
-
-Final details to help you prepare before you go.  
-  
-[](https://web.archive.org/web/20061217183611id_/http%3A//www.royalcaribbean.co.uk/php/already_booked.php)  
-  
-**Brochures & More**
-
-View and request info.  
-  
-[Order Brochure ](https://www.royalcaribbean.co.uk/html/brochure.php)  
-|   
-|   
-Terms & Conditions  
+|  | Terms & Conditions  
 ---  
 |  |   
 |  |  |   
