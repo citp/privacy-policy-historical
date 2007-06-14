@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allsitessorted.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206200516id_/http%3A//www.allsitessorted.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allsitessorted.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614230821id_/http%3A//allsitessorted.com/privacy.php) for the most accurate reproduction.*
 
-# Internet Web Directory Site - All Sites Sorted- Privacy Policy
+# - Privacy Policy
 
 [All Sites Sorted Internet Web Directory](https://web.archive.org/) » privacy 
 
@@ -20,7 +20,7 @@ This web site contains links to other sites. Please be aware that we are not res
 
 This site takes precautions to protect your information. The server on which this site resides is administered by a third party provider for whom we are not responsible, although we have found generally reliable. If you have any questions regarding the security at our website, you can send an email to the webmaster.
 
-Changes of this statement will be posted to this page. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users well in advance with appropriate opt-out options. Users will have a choice as to whether or not we use their information in this different manner. Shoe-Junkie.com cannot be held responsible for notifying you of any changes made to this policy. This policy may change as our site develops and grows, so please re-visit this page as often as you wish.
+Changes of this statement will be posted to this page. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users well in advance with appropriate opt-out options. Users will have a choice as to whether or not we use their information in this different manner. This site cannot be held responsible for notifying you of any changes made to this policy. This policy may change as our site develops and grows, so please re-visit this page as often as you wish.
 
 This site is owned by 1033 Inc.
 
