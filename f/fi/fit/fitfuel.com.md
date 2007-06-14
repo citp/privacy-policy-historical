@@ -1,8 +1,31 @@
-> *The following text is extracted and transformed from the fitfuel.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018134532id_/http%3A//www.fitfuel.com/privacy-policy-i-3.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitfuel.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614222256id_/http%3A//www.fitfuel.com/privacy-policy-i-3.html) for the most accurate reproduction.*
 
 # FitFuel.com
 
-Fit Fuel is committed to protecting your personal information. As a reminder, Fit Fuel does not request personal information via e-mail or telemarketing. If someone contacts you in this manner and requests personal information on behalf of Fit Fuel, _DO NOT RESPOND_! Delete, disregard or hang up. These questions are not from us. We want your personal information to remain private. If you have questions about Fit Fuel’s privacy practices, contact privacy@fitfuel.com or call us Toll-Free at 1-877-2-FITFUEL. 
+|  | 
+
+[](http://www.fitfuel.com/index.php)  
+  
+---  
+  
+[](http://www.fitfuel.com/customer_care_smartship_program.php)  
+  
+| 
+
+Order online or  
+Call _Mon-Fri: 9am - 5pm PST_
+
+1.877.2.FITFUEL (234.8383)   
+  
+---  
+  
+|  | Privacy Policy |   
+---|---  
+  
+|    
+---  
+  
+Fit Fuel is committed to protecting your personal information. As a reminder, Fit Fuel does not request personal information via e-mail or telemarketing. If someone contacts you in this manner and requests personal information on behalf of Fit Fuel, _DO NOT RESPOND_! Delete, disregard or hang up. These questions are not from us. We want your personal information to remain private. If you have questions about Fit FuelÃ¢â‚¬â„¢s privacy practices, contact privacy@fitfuel.com or call us Toll-Free at 1-877-2-FITFUEL. 
 
   
 
@@ -26,9 +49,9 @@ We value the relationship we have with our customers and are committed to respon
 
  **FIT FUEL, LLC PRIVACY POLICY**
 
-The following Privacy Policy describes the information and privacy practices for Fit Fuel, LLC (“Fit Fuel”) in occasions or events where your personal information is collected by, or on behalf of, Fit Fuel. When you provide us your personal information, you consent to the information practices described in this policy.
+The following Privacy Policy describes the information and privacy practices for Fit Fuel, LLC (Ã¢â‚¬Å“Fit FuelÃ¢â‚¬Â) in occasions or events where your personal information is collected by, or on behalf of, Fit Fuel. When you provide us your personal information, you consent to the information practices described in this policy.
 
-This Privacy Policy may not apply to Web sites that are accessible through Fit Fuel’s web site. Our Web site contains links to other sites operated by third parties, including but not limited to third-party sites that display Fit Fuel trademarks. We encourage you to read the privacy policies of those other sites to learn how they collect, use, share and secure your information.
+This Privacy Policy may not apply to Web sites that are accessible through Fit FuelÃ¢â‚¬â„¢s web site. Our Web site contains links to other sites operated by third parties, including but not limited to third-party sites that display Fit Fuel trademarks. We encourage you to read the privacy policies of those other sites to learn how they collect, use, share and secure your information.
 
 To assist you with reading through our Privacy Policy, we have provided questions and answers below that you may find helpful in understanding our privacy practices:
 
@@ -138,9 +161,9 @@ Whether you are shopping online or in our stores, we have security measures in p
 
  ** _Safe Shopping Policy on FitFuel.com/store_**
 
-Because the security of your personal information is a high priority, we have taken numerous steps to ensure that it is processed confidentially, accurately and securely. Fit Fuel’s Web site uses encryption technology, such as Secure Sockets Layer (SSL), to protect your personal information during data transport. SSL encrypts ordering information such as your name, address and credit card number. 
+Because the security of your personal information is a high priority, we have taken numerous steps to ensure that it is processed confidentially, accurately and securely. Fit FuelÃ¢â‚¬â„¢s Web site uses encryption technology, such as Secure Sockets Layer (SSL), to protect your personal information during data transport. SSL encrypts ordering information such as your name, address and credit card number. 
 
-**_Choosing a Personal Password on Fit Fuel’s Web site_**
+**_Choosing a Personal Password on Fit FuelÃ¢â‚¬â„¢s Web site_**
 
 When you create an online account on FitFuel.com, you need to select a personal password. To maximize your level of protection, you should choose at least 6 characters including a combination of both letters and numbers. You are solely responsible for maintaining the secrecy of your password or any account information. You have the ability to purchase on our site without using a password; however, you will have to reenter your personal information each time you use our site in order to make a purchase. 
 
@@ -148,7 +171,7 @@ DOES FIT FUEL USE **COOKIES, OTHER TECHNOLOGIES** OR **THIRD PARTIES** TO COLLEC
 
  ** _Cookies_**
 
-A cookie is a small data file that a Web site or e-mail may send to your browser, which may then be stored on your hard drive. Our Web sites and e-mails use cookies to create a more personalized shopping experience for visitors to our site. Cookies simulate a continuous connection — they let us "remember" information about your preferences and session, and allow you to move within areas of our Web sites without reintroducing yourself.
+A cookie is a small data file that a Web site or e-mail may send to your browser, which may then be stored on your hard drive. Our Web sites and e-mails use cookies to create a more personalized shopping experience for visitors to our site. Cookies simulate a continuous connection Ã¢â‚¬â€ they let us "remember" information about your preferences and session, and allow you to move within areas of our Web sites without reintroducing yourself.
 
 Fit Fuel uses a third party to place cookies on your computer to collect non-personally identifiable information. Although our cookies may contain a unique user ID, they do not collect or store any of your personally identifiable information.
 
@@ -162,7 +185,7 @@ HOW CAN I **UPDATE** MY INFORMATION?
 
 Fit Fuel wants your information and marketing preferences to be accurate and complete. We provide several different methods for you to update your personal information. To update your information:
 
-1) If you’ve created an account on FitFuel.com, you can update your information after logging into your account
+1) If youÃ¢â‚¬â„¢ve created an account on FitFuel.com, you can update your information after logging into your account
 
 2) Call: 1-877-2-FITFUEL
 
@@ -200,4 +223,10 @@ WILL THIS PRIVACY POLICY **CHANGE**?
 
 Because Fit Fuel will continue to implement new technologies and improve the services and features we provide, this policy is subject to change. If there are certain changes or additions to this Privacy Policy, we will post these changes here or in other formats for you to review. If we change our information practives or our Privacy Policy in such a way that your personal information may be used or shared in a different manner, we will give you the opportunity to opt-out of having your information used or share in that new manner.
 
-**Last Revision Date:** September 6, 2005
+**Last Revision Date:** September 6, 2005  
+  
+Site Directory 
+
+[](http://www.fitfuel.com/videos_coming_soon.php " Videos ")
+
+[](http://www.fitfuel.com/customer_care_summary.php " Fit Rewards ")
