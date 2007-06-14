@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefurniture.com privacy policy that was archived on 2006-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061120042111id_/http%3A//www.thefurniture.com/store/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefurniture.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614214524id_/http%3A//www.thefurniture.com/store/privacy-policy.asp) for the most accurate reproduction.*
 
 # TheFurniture.com :: Privacy and Security Policy
 
@@ -37,3 +37,22 @@ If you have any questions about security at our Web site, send an email to servi
 
 ** Legal Disclaimer**  
 We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law, or to comply with a legal process served on our Web site. 
+
+You can shop at **TheFurniture.com** online with confidence. We have partnered with **Authorize.Net** , a leading payment gateway since 1996, to offer safe and secure credit card and electronic check transactions for our customers.
+
+The Authorize.Net Payment Gateway manages the complex routing of sensitive customer information through the credit card and electronic check processing networks (see an [ online payments diagram](http://www.authorize.net/resources/howitworksdiagram/)) The company adheres to strict industry standards for payment processing, including: 
+
+  * 128-bit Secure Sockets Layer (SSL) technology for secure Internet Protocol (IP) transactions. 
+
+  * Industry leading encryption hardware and software methods and security protocols to protect customer information. 
+
+  * Compliance with the Payment Card Industry (PCI) Data Security Standard.
+
+
+
+
+For additional information regarding the privacy of your sensitive cardholder data, please read the [ Authorize.Net Privacy Policy](http://www.authorize.net/company/privacy/).
+
+If you prefer, we can process your transaction by phone, fax or mail. Call us at [sales number] during our business hours [business hours], fax us at [fax number] or mail your order to [mailing address].
+
+**TheFurniture.com is registered with the Authorize.Net Verified Merchant Seal program.**
