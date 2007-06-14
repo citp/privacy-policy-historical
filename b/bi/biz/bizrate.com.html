@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bizrate.com privacy policy that was archived on 2006-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061223195558id_/http%3A//www.bizrate.com/content/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bizrate.com privacy policy that was archived on 2007-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070614222915id_/http%3A//www.bizrate.com/content/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 	<title>	Shop at BizRate: Compare Prices, Reviews and Stores Online	</title>
@@ -9,7 +9,9 @@
 	<link href="http://file.bizrate.com/css/l_exp.css" rel="stylesheet" type="text/css">
 	<link href="http://file.bizrate.com/css/about.css" rel="stylesheet" type="text/css">
 	
-	<link rel="stylesheet" href="http://file.bizrate.com/br/us/css/sitewide_fonts.css" type="text/css">
+	
+		<link rel="stylesheet" href="http://file.bizrate.com/br/us/css/sitewide_fonts.css" type="text/css">
+		
 	
 	<base target="_top">
 	<meta name="ROBOTS" content="NOODP">
@@ -17,151 +19,119 @@
 	<meta name="description" content="BizRate.com has the best price comparison and online shopping information. Compare prices, check store ratings and read consumer reviews before you buy.">
 	<meta name="content-language" content="en-US">
 	<meta http-equiv="content-language" content="en-US">
-	<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
 	<link rel="shortcut icon" href="http://img.bizrate.com/site/smiley.ico">
-	<script language="JavaScript" src="http://file.bizrate.com/css/popup.js" type="text/javascript"></script>
-	<script language="JavaScript" src="http://file.bizrate.com/css/footer.js" type="text/javascript"></script>
 	
-    <script language="JavaScript" src="http://file.bizrate.com/scripts/cs_js.js" type="text/javascript"></script>
-    
-    <script language="JavaScript1.1" type="text/javascript"><!--
-        var br_mid=26680;var br_domain='.bizrate.com';var br_all=1;var br_pitch_frequency_cookie=30;var br_pitch_possibility_random=100;var br_invite_delay=1000;var br_cart_expire=20;var br_friendly=1;br_write_cookie("br_mid", 26680);br_write_cookie("br_domain", '.bizrate.com');
-        var br_ExitPop;var br_dontshow=0;var br_rdm=Math.round(Math.random()*99);var br_blocked=br_GetCookie("br_blocked");var br_invited=br_GetCookie("br_invited");var br_shopcart=br_GetCookie("br_shopcart");var br_inviteURL='http://eval.bizrate.com/popup_exit.xpml';var br_inviteWidth=450;var br_inviteHeight=200;var br_indomain_delay=1000;var br_indomain_timeout;
-        function br_GetCookie (name) {var arg=name+"=";var alen=arg.length;var clen=document.cookie.length;var i=0;while(i<clen){var j=i+alen;if(document.cookie.substring(i,j)==arg){return br_getCookieVal(j);};i=document.cookie.indexOf(" ", i)+1;if(i==0){break;};}return 0;}
-        function br_getCookieVal(offset){var endstr=document.cookie.indexOf(";",offset);if(endstr==-1){endstr=document.cookie.length;};return unescape(document.cookie.substring(offset,endstr));}
-        function br_write_cookie(arg,value){var expires=(br_pitch_frequency_cookie*24*60*60*1000);if(arg=='br_shopcart'||arg=='br_blocked'){expires=(br_cart_expire*60*1000);}var exp=new Date();var someday=exp.getTime()+expires;exp.setTime(someday);document.cookie=arg+"="+value+"; expires="+exp.toGMTString()+";path=/;domain="+br_domain;}
-        function br_friendly_links(){if(document.links){for(var i=0;i<document.links.length;i++){var stmt="var oldClickLoop"+i+" = (document.links[i].onclick)?document.links[i].onclick:function(){};document.links[i].onclick=function(){br_dontshow=1;oldClickLoop"+i+"();}";eval(stmt);}}}
-        function br_indomain_loop(){if(br_GetCookie("br_indomain")!=1){br_write_cookie("br_indomain",1);}br_indomain_timeout=setTimeout("br_indomain_loop()",br_indomain_delay);}br_indomain_loop();
-    //--></script> 
-    
+<script language="JavaScript" src="http://file.bizrate.com/yui/yahoo/yahoo-min.js" type="text/javascript"></script>
+<script language="JavaScript" src="http://file.bizrate.com/yui/dom/dom-min.js" type="text/javascript"></script>
+<script language="JavaScript" src="http://file.bizrate.com/br/common/scripts/bizrate.js" type="text/javascript"></script>
+<script language="JavaScript1.1" type="text/javascript">
 
-
-
-	<script language="JavaScript1.1" type="text/javascript">
-	<!--
-		function switchAction(formObj) {
-			var current_keyword = "";
-			if (formObj.cat_id.value=="offers") {
-				formObj.action = "http://www.bizrate.com/offers/savings_center.xpml";
-				formObj.cat_id.value = 1;
-			} else if (formObj.cat_id.value=="stores") {
-				formObj.action = "http://www.bizrate.com/merchant/results.xpml";
-				formObj.cat_id.value = 1;
-			} else if (formObj.cat_id.value=="marketplace") {
-				formObj.action = "http://www.bizrate.com/buy/superfind.xpml";
-				formObj.cat_id.value = 1;
-			} else {
-			
-				formObj.action = "http://www.bizrate.com/buy/superfind.xpml";
+	myTemplate = function() {
+		return {
+			init: function() {
+				myInternationalRedirectorConfigs = {
+					
+				};
+		
 				
-			
-			}
-			return false;
-		}
+				myPageConfigs = {
+					token:'47',
+					focusElementId:'searchTerm',
+					DLDESC:'BizRate - Home',
+					DLURL:'/content/privacy.html',
+					local_message:'Bookmark this page by pressing %keystroke%',
+					currentKeyword:'',
+					focusActive:false,
+					actions:{
+						offers:'/offers/savings_center.xpml',
+						stores:'/merchant/results.xpml',
+						marketplace:'/buy/superfind.xpml',
+						
+							default_action:'/buy/superfind.xpml'
+						
+					},
+					sfsk:false
+				};
 
-		var override_search_focus = 0;  //set to 1 where js/popup is spawned or popup loses focus
+				myInternationalRedirector = new BIZRATE.widget.InternationalRedirector(myInternationalRedirectorConfigs);
 
-		function setSearchFocus () {
-			if (override_search_focus == 0) {
-				document.forms[0].keyword.focus();
-			}
-		}
-
-		function bookmarkThisPage() {
-			agent = navigator.userAgent.toLowerCase();
-			app = navigator.appVersion.toLowerCase();
-			var varKey = "D";
-			var varCommandKey = "Ctrl";
-			if (agent.indexOf("opera") == 0) { varKey = "T"; }
-			if (app.indexOf("macintosh") > 0) { varCommandKey = "Command"; }
-			if ((app.indexOf("msie") > 0) && (parseInt(app) >= 4) && (app.indexOf("macintosh") <= 0)) {DLURL = "http://www.bizrate.com/content/content.xpml?content=privacy";
-				DLDESC = "BizRate - Home";
-				window.external.AddFavorite(DLURL,DLDESC);
-			} else {
-				var key_combination = varCommandKey+'-'+varKey;
-				var local_message = "Bookmark this page by pressing %keystroke%";
-				local_message = local_message.replace(/%keystroke%/g, key_combination);
-				local_message = local_message.replace(/&#xFC\;/g, 'ü');
-				alert(local_message);
+				myPage = new BIZRATE.widget.Page(myPageConfigs);
+				myPage.init();
 			}
 		}
-	//-->
+	}();
+</script>
+
+
+	<script language="JavaScript" type="text/javascript">
+//		openPopup('http://www.bizrate.com/features/product/review_thanks_popup.xpml?aud=', 'shopzilla_popup' , 'height=315,width=450,scrollbars=no,resizable=no');
 	</script>
 
-
 </head>
-<body style="margin:0px 0px 0px 0px;" onload="">
-<div id="overlay"></div>
-<div style="margin:0px 20px 10px 20px;text-align:center;">
-	<div style="margin:0px auto 0px auto;width:956;text-align:left;">
-
-		
-
-		
-
-		<table border="0" width="100%" cellpadding="0" cellspacing="0">
-			<tbody><tr>
-				<td valign="top" style="padding:10px 0px 2px 18px;">
-<a href="/"><img src="http://img.bizrate.com/br/us/logos/christmas.gif" border="0" alt="BizRate" title="BizRate" vspace="0"></a>
-</td>
-				<td align="right" valign="top">
-					<div style="font-size: 11px; padding:20px 18px 2px 0px;">
-						<div style="padding:0px 0px 5px 0px;"><a href="https://www.bizrate.com/myaccount/index.html">Log in to your account</a></div>
-						<div style="padding:5px 0px 0px 0px;"><a href="#" onclick="bookmarkThisPage();return false;">Bookmark this page!</a></div>
-					</div>
-				</td>
-			</tr>
-		</tbody></table>
-
-		<div id="tabs2">
-			<table border="0" cellpadding="0" cellspacing="0" align="center">
-				<tbody><tr>
-					 
- 
-<td id="a0" class="on"><div id="a0" class="tab_on"><a href="/">Home</a></div></td>
-
-
- 
-<td id=""><div id="" class="tab"><a href="/home_garden/">Home &amp; Garden</a></div></td>
-
-
- 
-<td id=""><div id="" class="tab"><a href="/computers_software/">Computers</a></div></td>
-
-
- 
-<td id=""><div id="" class="tab"><a href="/clothing_accessories/">Clothes</a></div></td>
-
-
- 
-<td id=""><div id="" class="tab"><a href="/toys_games/">Toys</a></div></td>
-
-
- 
-<td id=""><div id="" class="tab"><a href="/electronics/">Electronics</a></div></td>
-
-
- 
-<td id=""><div id="" class="tab"><a href="/babies_kids/">Kids</a></div></td>
-
-
- 
-<td id=""><div id="" class="tab"><a href="/jewelry_watches/">Jewelry</a></div></td>
-
-
- 
-
-
-					<td class="j"><div id="j"><a href="http://www.bizrate.com/categoryguide.html"><img src="http://img.bizrate.com/site/arrow_right_9x10.gif" width="9" height="10" alt="" border="0" align="absmiddle" style="margin-right: 2px;">All Departments</a></div></td>
-				</tr>
-			</tbody></table>
-		</div>
+<body class="tkn47" onload="myTemplate.init();">
+	<div id="overlay"></div>
 	
-		<div id="s">
-			<!-- include/undeca/headers/search_bar.xmi -->
-<form action="/buy/superfind.xpml" id="sf" name="sf" onsubmit="switchAction(this);">
-<input type="hidden" name="search_box" value="1">
-I'm shopping for <input type="hidden" name="sfsk" value="0"><input type="text" name="keyword" value="" maxlength="256" size="30" style="font-size: 12px;"> in <select name="cat_id" style="font-size: 12px;">
+	
+	<div class="content">
+		<div id="header">
+			<ul id="tools">
+				<li><a href="/myaccount/index.html" rel="nofollow">Log in to your account</a></li>
+				<li><a href="#" onclick="return myPage.bookmarkThisPage();" rel="nofollow">Bookmark this page!</a></li>
+			</ul>
+			
+<div id="siteLogo"><a href="/"><img src="http://img.bizrate.com/br/us/images/logos/default.gif" border="0" alt="BizRate" title="BizRate" vspace="0"></a></div>
+
+			
+<div id="survey">
+	<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="298" height="58">
+		<param name="movie" value="http://file.bizrate.com/br/us/flash/survey.swf?clickTAG=http://eval.bizrate.com/survey/visitor.xpml?id%3D150633">
+		<param name="quality" value="high">
+		<embed src="http://file.bizrate.com/br/us/flash/survey.swf?clickTAG=http://eval.bizrate.com/survey/visitor.xpml?id%3D150633" width="298" height="58" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash">
+	</object>
+</div>
+
+			<br clear="all">
+
+			
+<div id="tabs2">
+	<table border="0" cellpadding="0" cellspacing="0" align="center">
+		<tbody><tr>
+			
+				
+				<td id="a0" class="on"><div id="a0" class="tab_on"><a href="/">Home</a></div></td>
+			
+				
+				<td id=""><div id="" class="tab"><a href="/home_garden/">Home &amp; Garden</a></div></td>
+			
+				
+				<td id=""><div id="" class="tab"><a href="/computers_software/">Computers</a></div></td>
+			
+				
+				<td id=""><div id="" class="tab"><a href="/clothing_accessories/">Clothes</a></div></td>
+			
+				
+				<td id=""><div id="" class="tab"><a href="/toys_games/">Toys</a></div></td>
+			
+				
+				<td id=""><div id="" class="tab"><a href="/electronics/">Electronics</a></div></td>
+			
+				
+				<td id=""><div id="" class="tab"><a href="/babies_kids/">Kids</a></div></td>
+			
+				
+				<td id=""><div id="" class="tab"><a href="/jewelry_watches/">Jewelry</a></div></td>
+			
+				
+            <td class="j"><div id="j"><a href="/categoryguide.html"><img src="http://img.bizrate.com/site/arrow_right_9x10.gif" width="9" height="10" alt="" border="0" align="absmiddle" style="margin-right: 2px;">All Departments</a></div></td>
+		</tr>
+	</tbody></table>
+</div>
+
+            
+            <div id="search_bar">
+	<form id="searchForm">
+		<input type="hidden" name="search_box" value="1">
+		I'm shopping for <input type="hidden" name="sfsk" value="0"><input type="text" name="keyword" value="" maxlength="256" size="30" style="font-size: 12px;"> in <select name="cat_id" style="font-size: 12px;">
 	<option value="1">All Departments</option>
 	<option value="18000000">Appliances</option>
 	<option value="22000000">Automotive</option>
@@ -189,42 +159,44 @@ I'm shopping for <input type="hidden" name="sfsk" value="0"><input type="text" n
 </select>
 
 
-&nbsp;<input type="submit" name="SEARCH_GO" value="Find it!" style="font-size: 12px;">
-</form>
+		&nbsp;<input type="submit" id="searchTerm" name="SEARCH_GO" value="Find it!">
+	</form>
+</div>
 
-		</div>
-	
-		
+
 			
 				
-			
+					
+				
+	
+				
 
-			
 
-
-
-			
-				<table border="0" id="bc" width="100%" cellspacing="0" cellpadding="0" style="z-index: 100; width: 100%; padding-top: 2px;">
-					<tbody><tr>
-						<td width="75%" valign="top">
-							
-								<a href="http://www.bizrate.com/">Home</a> &gt; <a href="/content/about.html">About BizRate</a> &gt; <span class="breadcrumbCurrent">Privacy Policy
-							
-						</span></td>
-						<td width="25%" valign="top" align="right" nowrap="" style="font-size: 11px;">
+	
+				
+					<table border="0" id="bc" width="100%" cellspacing="0" cellpadding="0">
+						<tbody><tr>
+							<td width="75%" valign="top">
+								
+									<a href="/">Home</a> &gt; <a href="/content/about.html">About BizRate</a> &gt; <span class="breadcrumbCurrent">Privacy Policy</span>
+								
+							</td>
+							<td width="25%" valign="top" align="right" nowrap="" id="features">
  
  <!-- email link //-->
 
  	<a rel="nofollow" href="/features/email_page__page_title--Shopzilla%2C+Inc.+Privacy+Policy__page_token--47.html"><span class="headerLinksA">Email this page</span></a>
 
 
-							
-						</td>
-					</tr>
-				</tbody></table>
+								
+							</td>
+						</tr>
+					</tbody></table>
+				
 			
-		
-		<script language="JavaScript" type="text/javascript">var noads =0;</script>
+		</div>
+	</div>
+	<div class="content">
 <div id="search_header">
 	<table border="0" width="100%" cellspacing="0" cellpadding="0">
 		<tbody><tr>
@@ -276,15 +248,7 @@ I'm shopping for <input type="hidden" name="sfsk" value="0"><input type="text" n
 
 			</td>
 			<td width="76%" valign="top" style="padding-left: 18px;">
-				
-	<h1>Shopzilla, Inc. Privacy Policy</h1>
-
-<style>
-.clickseal {
-	float:right;
-	margin:0px 0px 5px 5px;
-}
-</style>
+				<h1>Shopzilla, Inc. Privacy Policy</h1>
 <div class="clickseal">
 	<a href="http://www.truste.org/ivalidate.php?url=www.bizrate.com&amp;sealid=101" rel="nofollow" target="_blank"><img src="http://img.bizrate.com/br/common/truste/clickseal.gif" width="91" height="73" border="0"></a>
 </div>
@@ -561,7 +525,7 @@ var _cookie_domain_periods = '2';
 
 
 var _mtrcs_hostname = "bizrate.com";
-var _my_timestamp = "1166903758000";
+var _my_timestamp = "1181860155000";
 
 
 </script>
@@ -580,18 +544,18 @@ s.pageName = "47 : About, Privacy";
 
 
 s.prop1    = "";
-s.prop2    = "58" + ' ' + s.pageName;
+s.prop2    = "55" + ' ' + s.pageName;
 s.prop3    = "US";  
 s.prop4    = "BR"; 
 s.prop6    = "bizrate"; 
 s.prop7    = "1"; 
 s.prop8    = "wlk"; 
-s.prop10   = "11669037581658270025700480101020664"; 
+s.prop10   = "11818601554787510000600460102018256"; 
 
 s.prop11   = ""; 
 
-s.prop12   = "58"; 
-s.prop14   = "204811206641943758" ; 
+s.prop12   = "55"; 
+s.prop14   = "504612182561178955" ; 
 s.prop17   = "wlk"; 
 
 s.prop18   = "1"; 
@@ -622,14 +586,15 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 
 
 
-		<div id="f" style="margin:15px 0px 0px 0px;border:0px;padding:0px 0px 0px 0px;">
+	</div>
+	<div class="content">
+		<div id="footer">
 			
-				<div id="searchInFooter" style="color: #000; margin: 0px 0px 18px 0px;">
-					<div id="s">
-						<!-- include/undeca/headers/search_bar.xmi -->
-<form action="/buy/superfind.xpml" id="sf" name="sf" onsubmit="switchAction(this);">
-<input type="hidden" name="search_box" value="1">
-I'm shopping for <input type="hidden" name="sfsk" value="0"><input type="text" name="keyword" value="" maxlength="256" size="30" style="font-size: 12px;"> in <select name="cat_id" style="font-size: 12px;">
+				<div id="searchInFooter">
+					<div id="search_bar">
+	<form id="searchForm">
+		<input type="hidden" name="search_box" value="1">
+		I'm shopping for <input type="hidden" name="sfsk" value="0"><input type="text" name="keyword" value="" maxlength="256" size="30" style="font-size: 12px;"> in <select name="cat_id" style="font-size: 12px;">
 	<option value="1">All Departments</option>
 	<option value="18000000">Appliances</option>
 	<option value="22000000">Automotive</option>
@@ -657,90 +622,98 @@ I'm shopping for <input type="hidden" name="sfsk" value="0"><input type="text" n
 </select>
 
 
-&nbsp;<input type="submit" name="SEARCH_GO" value="Find it!" style="font-size: 12px;">
-</form>
+		&nbsp;<input type="submit" id="searchTerm" name="SEARCH_GO" value="Find it!">
+	</form>
+</div>
 
-					</div>
+					
+						<style>
+							#bottom_bread_crumb	{margin:0px 0px 0px 0px; text-align:left; font-size:14px;}
+							#bottom_bread_crumb a {font-size:14px;}
+						</style>
+						<div id="bottom_bread_crumb">
+							
+								<a href="/">Home</a> &gt; <a href="/content/about.html">About BizRate</a> &gt; <span class="breadcrumbCurrent">Privacy Policy</span>
+							
+						</div>
+					
 				</div>
 			
 
 			
-				<div align="center" style="margin:0px 0px 10px 0px;">
-					<table cellspacing="0" cellpadding="0" border="0">
-					<tbody><tr>
-						<td valign="middle" style="padding:0px 10px 0px 0px;"><a href="/boutique/2006circleofexcellence.html"><img src="http://img.bizrate.com/site/coe/badge_coe_43x39.gif" width="43" height="39" border="0" align="absmiddle" alt="Circle of Excellence"></a></td>
-						<td valign="middle" style="font-size:13px;"><a href="/boutique/2006circleofexcellence.html"><strong>See the 2006 Circle of Excellence Winners!</strong></a></td>
-					</tr>
-					</tbody></table>
+				<div id="circleOfExcellence">
+					<a href="/boutique/2006circleofexcellence.html"><img src="http://img.bizrate.com/site/coe/badge_coe_43x39.gif" width="43" height="39" border="0" align="absmiddle" alt="Circle of Excellence"><strong>See the 2006 Circle of Excellence Winners!</strong></a>
 				</div>
 			
 
 			
 			<div style="clear:both;text-align:center;">
 				
-				<a href="http://www.bizrate.com/">Home</a> &nbsp;|&nbsp;
+				<a href="/">Home</a> &nbsp;|&nbsp;
 				
-					<a href="http://www.bizrate.com/myaccount/index.html">Your account</a> &nbsp;|&nbsp;
-					<a href="http://www.bizrate.com/help/help.html">Help</a> &nbsp;|&nbsp;
+<a href="/myaccount/index.html">Your account</a> &nbsp;|&nbsp;
+                    <a href="/help/help.html" rel="nofollow">Help</a> &nbsp;|&nbsp;
 				
-				<a href="http://www.bizrate.com/content/about.html">About BizRate.com</a> &nbsp;|&nbsp;
-				<a href="http://www.bizrate.com/content/privacy.html">Privacy Policy</a> &nbsp;|&nbsp;
-				<a href="http://www.bizrate.com/content/legal.html">User Agreement</a>
+                <a href="/content/about.html" rel="nofollow">About BizRate</a> &nbsp;|&nbsp;
+				<a href="/content/privacy.html" rel="nofollow">Privacy Policy</a> &nbsp;|&nbsp;
+				<a href="/content/legal.html" rel="nofollow">User Agreement</a>
 				
-					&nbsp;|&nbsp; <a href="http://www.bizrate.com/content/jobs.html">Jobs</a>
+					&nbsp;|&nbsp; <a href="/content/jobs.html" rel="nofollow">Jobs</a>
 				
+				&nbsp;|&nbsp; <a href="/content/press_releases.html" rel="nofollow">Press</a>
 			</div>
 			<div>
 				<a href="/sitemap/index.html">BizRate Sitemap Index</a> &nbsp;|&nbsp;
 				<a href="/sitemap/top_searches.html">BizRate Top Searches</a> &nbsp;|&nbsp;
 				<a href="/sitemap/top_products.html">BizRate Top Products</a>
+				
+				 &nbsp;|&nbsp;	<a href="/ratings_guide/guide.html">BizRate Store Ratings</a>
+				
 			</div>
 			
 			<div style="margin:20px 0px 0px 0px;">
-				<a href="/interstitial/btob.xpml">Merchant Login</a> &nbsp;|&nbsp;
-				<a href="/interstitial/btob.xpml">Merchant Listings and Advertising</a> &nbsp;|&nbsp;
-				<a href="/interstitial/btob.xpml">Ratings and Research</a>
+				<a href="/interstitial/btob.xpml" rel="nofollow">Merchant Login</a> &nbsp;|&nbsp;
+				<a href="/interstitial/btob.xpml" rel="nofollow">Merchant Listings and Advertising</a> &nbsp;|&nbsp;
+				<a href="/interstitial/btob.xpml" rel="nofollow">Ratings and Research</a>
 				
-					&nbsp;|&nbsp; <a href="http://partners.bizrate.com">Affiliates</a>
+					&nbsp;|&nbsp; <a href="http://publisher.shopzilla.com" rel="nofollow">Affiliates</a>
 				
 			</div>
 			<div>
 				
-					<span style="color:#000;">BizRate International - </span>
+					BizRate UK - <a href="http://www.bizrate.co.uk/">Shopping</a> &nbsp;|&nbsp;
 				
 				
-					<a href="http://www.bizrate.co.uk/">BizRate UK</a> &nbsp;|&nbsp;
+					BizRate France - <a href="http://fr.bizrate.com/">Acheter à prix discount</a> &nbsp;|&nbsp;
 				
 				
-					<a href="http://fr.bizrate.com/">BizRate France</a> &nbsp;|&nbsp;
+					BizRate Germany - <a href="http://de.bizrate.com/">Preise vergleichen</a>
 				
-				
-					<a href="http://de.bizrate.com/">BizRate Germany</a>
-				
-				
+                
 			</div>
 			
-				<div><a style="color:#000; text-decoration:none" href="http://www.bizrate.com">Thank you for shopping online at BizRate</a></div>
+				<div><a style="color: #000; text-decoration: none;" href="http://www.bizrate.com">Thank you for shopping online at BizRate</a></div>
 			
-			<div>© 2006 Shopzilla, Inc. Shopzilla is a <a href="http://www.scripps.com" target="_blank">Scripps</a> media company.</div>
+			<div>© 2007 Shopzilla, Inc. Shopzilla is a <a href="http://www.scripps.com" target="_blank">Scripps</a> media company.</div>
 			
 
 			
 
 			<div style="margin: 10px 0 0 0;">
-				<a href="/content/privacy.html"><img src="http://img.bizrate.com/br/common/truste/finalmark.gif" width="116" height="31" border="0" alt="Reviewed by TRUSTe - Site Privacy Statement"></a>
+				<a href="/content/privacy.html" rel="nofollow"><img src="http://img.bizrate.com/br/common/truste/finalmark.gif" width="116" height="31" border="0" alt="Reviewed by TRUSTe - Site Privacy Statement"></a>
 			</div>
 		</div>
 		
 	</div>
-</div>
+
 
 
 
 <a href="/color_bumper.xpml"><img src="http://img.bizrate.com/site/trans.gif" width="10" height="10" border="0" alt=""></a>
 
 <!-- TKN#47 -->
-<!-- APPSERVER: dante048.sl1.shopzilla.hou -->
+<!-- APPSERVER: dante046.sl2.shopzilla.hou -->
+
 
 
 
