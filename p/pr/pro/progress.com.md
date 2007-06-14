@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the progress.com privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229115504id_/http%3A//www.progress.com/privacy/index.ssp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the progress.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614035755id_/http%3A//www.progress.com/privacy/index.ssp) for the most accurate reproduction.*
 
 # Privacy Policy: Progress Software Corporation
+
+[](https://web.archive.org/web/20070614035755id_/http%3A//www.progress.com/privacy/index.ssp?printable=true)
 
 **Last update: Monday, October 4, 2004**
 
@@ -15,7 +17,7 @@ When you visit our web sites, you might be providing information about your visi
 
 Because Progress Software respects your right to privacy, we want you to be aware of how we handle this information.
 
-Our Commitment to Your Privacy
+## Our Commitment to Your Privacy
 
 Progress Software assures you that we do not
 
@@ -34,7 +36,7 @@ Progress Software does:
 
 Progress Software has always valued your privacy, and we reinforce this belief throughout our organization. Your information will be protected as described unless the specific Web page says otherwise. If you have further questions about our privacy policy, please [Contact Us](mailto:generalcounsel@progress.com).
 
-Information this Site Gathers/Tracks
+## Information this Site Gathers/Tracks
 
 **Statistics Collected as You Browse Our Web Sites**
 
@@ -53,7 +55,7 @@ While we gather this information, none of it is associated with you as an indivi
 
 Within our Web sites, you may be asked to give us personal or organizational information in order to purchase or receive information about a product or service. This information may range from your generic zip code, to your specific phone number, product serial numbers and control codes, account number, credit card number, e-mail address, organization URL, or mailing address.
 
-Use of the Information this Site Gathers/Tracks
+## Use of the Information this Site Gathers/Tracks
 
 **Your IP Address and Host Name**  
 Progress Software's Web sites log Host Names (or IP addresses when the Host Name is not available) for systems administration and security purposes. These logs are monitored and analyzed to maintain systems and information security and allow us to constantly improve the value and the availability of the Web content.
@@ -69,7 +71,7 @@ You may also be given the option of registering a profile with Progress Software
 **Cookies**  
 A cookie is a small, encrypted data string our server writes to your hard drive that contains your unique User ID. We use cookies to deliver Web content specific to your interests and to control access to restricted content. A cookie cannot be used to access or otherwise compromise the data on your hard drive. You can choose to change your browser settings to disable cookies if you do not want us to establish and maintain a unique User ID. Please be aware that cookies might be required to complete certain functions on our Web sites.
 
-Sharing of the Information this Site Gathers/Tracks
+## Sharing of the Information this Site Gathers/Tracks
 
 The information you submit may be shared with third parties if it is necessary to complete your request, provide you with access to downloadable software, or as required by law.
 
