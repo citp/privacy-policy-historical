@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizrate.com privacy policy that was archived on 2006-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061223195558id_/http%3A//www.bizrate.com/content/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizrate.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614222915id_/http%3A//www.bizrate.com/content/privacy.html) for the most accurate reproduction.*
 
 # Shop at BizRate: Compare Prices, Reviews and Stores Online
 
