@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macsurfer.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016161935id_/http%3A//www.macsurfer.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macsurfer.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614045116id_/http%3A//www.macsurfer.com/privacy.shtml) for the most accurate reproduction.*
 
 # MacSurfer's Privacy Policy
 
