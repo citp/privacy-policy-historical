@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalsecurity.org privacy policy that was archived on 2006-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061226202053id_/http%3A//www.globalsecurity.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalsecurity.org privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614144920id_/http%3A//www.globalsecurity.org/privacy.htm) for the most accurate reproduction.*
 
 # GlobalSecurity.org - Reliable News and Security Information
 
@@ -26,3 +26,15 @@ We use BUDS INC and other third-party advertising companies to serve ads when yo
 Third Party Cookies
 
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
+
+We send to your web browser many of the advertisements you see when you use our network of Web sites. However, we also allow other companies, called third-party ad servers or ad networks, to serve advertisements within our web pages. Because your web browser must request these advertising banners from the ad network Web site, these companies can send their own cookies to your cookie file, just as if you had requested a web page from the site. Please note that if an advertiser asks us to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 13-24 who have viewed sports content) and you respond to that ad, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. As always remember, we only authorize our third-party ad servers to employ anonymous cookies for ad delivery and anonymous targeting. Our third-party ad servers do not collect, nor do we give them access, to any personally identifying information about you. 
+
+Opting Out of Third-Party Ad Servers
+
+If you want to prevent a third-party ad server from sending and reading cookies on your computer, currently you must visit each ad network's Web site individually and opt out (if they offer this capability). 
+
+Currently, we have relationships with the following third-party ad networks (click to visit their Web site): 
+
+24/7 Real Media, Inc. 
+
+http://www.247realmedia.com/privacy.html 
