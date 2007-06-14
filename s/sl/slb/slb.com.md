@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the slb.com privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228145125id_/http%3A//www.slb.com/content/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slb.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614050306id_/http%3A//www.slb.com/content/about/privacy.asp) for the most accurate reproduction.*
 
 # Schlumberger, Schlumberger General Website Privacy Statement
 
   
 |    
   
-Schlumberger General Website Privacy Statement  
 Schlumberger has a long-standing commitment to safeguard the privacy of information entrusted to us. The privacy principles and procedures set forth below are intended to tell you how we collect, use, and distribute user information via our primary public web site (www.slb.com). This statement also applies generally to all web sites operated by Schlumberger (and its affiliates). This statement does not cover information collected from sources other than Schlumberger web sites.
 
 Schlumberger General Web Site Privacy Statement covers the following topics: 
@@ -39,7 +38,7 @@ Schlumberger may use "cookies" in connection with operation of its web sites. Co
 The use of cookies is common in the industry, and they are used at most major web sites. Cookies will not be used to pass any information from your computer except the specific information placed into the cookie from one participating Schlumberger web site when the cookie is retrieved by another participating Schlumberger web site. You may wish to adjust your Web browser to inform you whenever a cookie is to be used, or to reject all cookies automatically. However, if you elect not to accept cookies, some parts of the web site may not function properly or permit access. For more information on cookies, see <http://www.cookiecentral.com/faq.htm>.
 
 Contact Information  
-Customers should direct comments or questions regarding this statement to their Schlumberger representative; employees to their Personnel representative; all other inquiries should be directed [via this form](https://web.archive.org/web/20061228145125id_/http%3A//www.slb.com/content/contact/contact_inquiry.asp?recipientCode=email.contact.website.feedback&context=Privacy+Statement+Comment&referringURL=content/about/privacy.asp&).
+Customers should direct comments or questions regarding this statement to their Schlumberger representative; employees to their Personnel representative; all other inquiries should be directed [via this form](https://web.archive.org/web/20070614050306id_/http%3A//www.slb.com/content/contact/contact_inquiry.asp?recipientCode=email.contact.website.feedback&context=Privacy+Statement+Comment&referringURL=content/about/privacy.asp&).
 
 _Last updated: 12 June 2006 Version 1.5_  
 
