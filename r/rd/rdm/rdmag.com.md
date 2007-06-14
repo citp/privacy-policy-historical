@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rdmag.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017084751id_/http%3A//rdmag.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rdmag.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615014126id_/http%3A//www.rdmag.com/privacy.aspx) for the most accurate reproduction.*
 
 # R & D Magazine
 
