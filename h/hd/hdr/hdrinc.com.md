@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the hdrinc.com privacy policy that was archived on 2006-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061029180220id_/http%3A//hdrinc.com/5/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdrinc.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614031520id_/http%3A//www.hdrinc.com/5/default.aspx) for the most accurate reproduction.*
 
 # Terms/Privacy
 
 ******Copyright Statement**  
-The content provided by HDRInc.com unless otherwise noted, is copyrighted © 2006 HDR, Inc. All use of the HDRInc.com site is subject to the terms and conditions set forth below. 
+The content provided by HDRInc.com unless otherwise noted, is copyrighted © 2007 HDR, Inc. All use of the HDRInc.com site is subject to the terms and conditions set forth below. 
 
 **Legal Notice**  
 All materials used on this site, including all images, are copyrighted and are protected worldwide by copyright laws and treaty provisions. They may not be copied, reproduced, modified, published, uploaded, posted, transmitted, or distributed in any way, without HDR, Inc.'s prior written permission. 
@@ -31,9 +31,11 @@ The materials on this Web site are provided by HDR, Inc. for informational purpo
 
   * Phoenix Light Rail photo simulation courtesy of Valley Metro Rail
 
-  * Wisconsin Heart Hospital © Mark Ballogg @ Steinkamp/Ballogg, Chicago
+  * Wisconsin Heart Hospital © Mark Ballogg @ Steinkamp/Ballogg Photography, Chicago
 
-  * United States Courthouse, Laredo, Texas © 2004 Mark Ballogg:  Steinkamp/Ballogg Photography, Chicago
+  * United States Courthouse, Laredo, Texas © 2004 Mark Ballogg: Steinkamp/Ballogg Photography, Chicago
+
+  * State of Iowa Laboratories Facility, Ankeny, Iowa © 2006 Mark Ballogg: Steinkamp/Ballogg Photography, Chicago
 
   * Golden Gate Bridge, San Francisco, California, © 2005 Photography by [Scott Highton](http://www.highton.com/ "Opens in New Window")
 
