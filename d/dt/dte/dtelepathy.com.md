@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dtelepathy.com privacy policy that was archived on 2006-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061220130502id_/http%3A//www.dtelepathy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dtelepathy.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614035155id_/http%3A//www.dtelepathy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[Request a Proposal](https://web.archive.org/web/20061220130502id_/http%3A//www.dtelepathy.com/quote.php)
 
 The following statement explains our policy regarding the personal information we collect about you. 
 
