@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jessops.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217184403id_/http%3A//jessops.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jessops.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614175236id_/http%3A//www.jessops.com/privacy) for the most accurate reproduction.*
 
 # Jessops.com - Privacy Policy
 
@@ -24,7 +24,7 @@ This privacy statement covers the site www.jessops.com. Because this Web site wa
 
 If users have questions or concerns regarding this statement, they should contact the Jessops Web Site Department by email - webmaster@jessops.com.
 
-If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact our Customer Liaison Department: [custcare@jessops.com](mailto:custcare@jessops.com) \- tel. 0116 232 6000.
+If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact us at: [cs@jessops.com](mailto:cs@jessops.com) or call 0845 458 7005.
 
 ### Information Collection and Use
 
@@ -44,9 +44,6 @@ _Member's Area_
 Membership of our "Member's Area" is optional, and membership is not essential to make a purchase.  
 Customers who choose to join our Member's Area are subject to the same Privacy Policy as non-members. We may ask for additional information from users who sign up for the Member's Area, including an additional delivery address. We will not share this information with third parties, except for the purposes of fulfilling an order.  
 We send update emails to our Members from time to time, to keep them up to date with product launches, promotions and site news. Members can opt-uot of these emails at the time of registration, or by replying to the original email with the word "unsubscribe" in the subject line, or by emailing webmaster@jessops.com.
-
-_Clubfinder_  
-We hold details of UK camera clubs in our Camera Club database, which is available to the public via our web site. These details sometimes include a contact name and address for the club. If these details change, or the contact no longer wishes to be listed on the site, we will remove them. Please notify our Clubs Administrator, Rachel Markham - rmarkham@jessops.com or telephone 0116 232 6000.
 
 _Cookies_  
 A cookie is a piece of data stored on the user's computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. More information on cookies can be found here: <http://www.allaboutcookies.org/>
@@ -141,18 +138,6 @@ _Notification of Changes_
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. 
 
 If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
-
-### Contact Information
-
-If users have any questions or suggestions regarding our privacy policy, please contact us at:
-
-Phone: 0116 232 6000 (Switchboard - ask for Web Design)
-
-Fax: 0116 232 0060 (Please mark for the attention of "Web Design")
-
-Email: webmaster@jessops.com
-
-Postal Address: Jessops House, 98 Scudamore Road, Leicester, LE3 1TZ.
 
 top of Policy  
 
