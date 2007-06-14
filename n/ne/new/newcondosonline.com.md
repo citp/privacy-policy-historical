@@ -1,7 +1,9 @@
-> *The following text is extracted and transformed from the newcondosonline.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206200448id_/http%3A//www.newcondosonline.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newcondosonline.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614155306id_/http%3A//www.newcondosonline.com/privacy.php) for the most accurate reproduction.*
 
-# New Condos Online | Condos for Sale | Find Condominiums Worldwide
+# Condominium Sales | Bulk Sales | Bulk Pre-Sales | Achieve Pre-Sale Requirements
 
+   |  |   
+---  
 |  |    
 ---  
   
@@ -73,10 +75,16 @@ NewCondosOnline is not responsible for the content or practices of third party w
 
 Our Sites may provide you the opportunity to opt-in to receive communications from us at the point where we request information about you. You always have the option of removing your name from any e-mail list to not receive future communications. In order to ensure immediate removal from any list, it is best to follow the specific instructions outlined within the communication you received from us. However, if you are unable to complete the process indicated in the communications, then just send us an e-mail at info@newcondosonline.com with a copy of the undesired email attached to the request and state you wish to be removed from the mailing list. ****
 
+**10 . Opt-In Content**
+
+By signing up to use the facilities of this website, you are agreeing to receive at least one email communication from us regarding listings, or condo information. You do have the option to cancel any further communications from us if you choose to do so.
+
 **11.  Contact Information**
 
 Questions or comments regarding the Web Site should be sent by e-mail to [info@newcondosonline.com](mailto:info@newcondosonline.com) or by U.S. mail to NewCondosOnline, Inc., 2195 Station Village Way #1407, San Diego, CA 92104. 
 
 **12\. Changes**
 
-NewCondosOnline may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your newsletter or other registration or by placing a prominent notice on our site. This Privacy Policy was last updated on May 22, 2005.
+NewCondosOnline may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your newsletter or other registration or by placing a prominent notice on our site. This Privacy Policy was last updated on May 22, 2005.  
+  
+  
