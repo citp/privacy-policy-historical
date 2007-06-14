@@ -1,858 +1,503 @@
-<!--The following is the downloaded HTML source of the ctia.org privacy policy that was archived on 2006-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061207171813id_/http%3A//www.ctia.org/content/index.cfm/AID/10058) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ctia.org privacy policy that was archived on 2007-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070614150222id_/http%3A//www.ctia.org/content/index.cfm/AID/10058) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><base href="http://www.ctia.org/content/">
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-  
-
-    
-    
-    
-    
-
-
-
-
-
-
-
-
-
-
-
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<title>CTIA.ORG Website Privacy Policy</title>
+	<link rel="stylesheet" href="/css/common.css" type="text/css">
+	<link rel="stylesheet" href="/css/navstyles.css" type="text/css">
 	
+	<link rel="stylesheet" href="/css/subpage.css" type="text/css">
+	<link rel="stylesheet" href="/css/article.css" type="text/css">
+	<link rel="stylesheet" href="/css/print.css" type="text/css" media="print">
+	
+	<script type="text/javascript">
+	// <![CDATA[
 		
-
-	
-
-
-	
+		var sNavImgDir = "http://files.ctia.org/img/ctia_org_v2007/navbar/";
 		
-
-	
-
-
-	
-		
-
-	
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-	
-		
+		function newImage(arg) {
+			if (document.images) {
+				rslt = new Image();
+				rslt.src = sNavImgDir + arg;
+				return rslt;
+			}
+		}
+		function changeImages(ROSection,iCurrentSection) {
 		
 	
-	
-	
-	
-	
+			iNumSections = 7;
+			
+			btn_1 = 'btn_about_us';
+			btn_2 = 'btn_media';
+			btn_3 = 'btn_advocacy';
+			btn_4 = 'btn_consumer_info';
+			btn_5 = 'btn_membership';
+			btn_6 = 'btn_conventions_events';
+			btn_7 = 'btn_business_resources';
+			imgExt = '.jpg';
 
-
-
-
-
-	<title>CTIA - The Wireless Association®</title>
-	
-	<link href="http://www.ctia.org/css/article.css" rel="stylesheet" type="text/css">
-	<link href="http://www.ctia.org/css/main.css" rel="stylesheet" type="text/css">
-	
-	<script language="JavaScript" type="text/javascript" src="http://www.ctia.org/lib/flash.js"></script>
+			
+			if (document.images && (preloadFlag == true)) {
+			
+				for (var i=1; i<=iNumSections; i++) {
+					
+					iThisSectionImgID = eval("btn_" + i);
+					iThisSectionImgName = sNavImgDir + iThisSectionImgID;
+					//alert(iThisSectionImgName);
+					iThisSectionImgRlotName = iThisSectionImgName + imgExt;
+					iThisSectionImgRlvrName = iThisSectionImgName + "-over" + imgExt;
+					
+																
+					//displays rollover image for current section and rollover section
+					if (i == ROSection || i == iCurrentSection) {
+						if (document[iThisSectionImgID].src.indexOf(iThisSectionImgRlotName) != -1) {
+							document[iThisSectionImgID].src = iThisSectionImgRlvrName;
+						}
+					}
+					else {
+						
+						if (document[iThisSectionImgID].src.indexOf(iThisSectionImgRlvrName) != -1) {
+							document[iThisSectionImgID].src = iThisSectionImgRlotName;
+						}
+					}
+				}
+			}
+		}
 		
+		var preloadFlag = false;
+		function preloadImages() {
+			if (document.images) {
+				btn_about_us_over = newImage(sNavImgDir + "btn_about_us-over.jpg");
+				btn_media_over = newImage(sNavImgDir + "btn_media-over.jpg");
+				btn_advocacy_over = newImage(sNavImgDir + "btn_advocacy-over.jpg");
+				btn_consumer_info_over = newImage(sNavImgDir + "btn_consumer_info-over.jpg");
+				btn_membership_over = newImage(sNavImgDir + "btn_membership-over.jpg");
+				btn_conventions_events_over = newImage(sNavImgDir + "btn_conventions_events-over.jpg");
+				btn_business_resources_over = newImage(sNavImgDir + "btn_business_resources-over.jpg");
+				preloadFlag = true;
+			}
+		}
 
+
+		function checkSearch() {
+			if (document.mainSearch.keyword1.value == ''){
+				alert('You must have at least one keyword in the text box to search.');
+				return false;
+			}
+			else
+			{
+				document.mainSearch.submit();
+			}
+		}
+		//for long pages - headings are linked to the function below to display content
+		
+		function openClose(thisDiv, nbrDivs){ 
+			var strThisDiv, thisContent;
+			for (i=1; i<=nbrDivs; i = i + 1){			
+				
+				strThisDiv = 'content_' + i.toString();
+				
+				thisContent = document.getElementById(strThisDiv);
+
+				if (i == thisDiv && thisContent.style.display  == 'none'){
+					thisContent.style.display  = '';
+				}else{
+					thisContent.style.display  = 'none';
+				}
+			}			
+		}
+				
+	// ]]>
+	</script>
 	
-
-
-
-
-
 </head>
 
+<body onload="preloadImages();">
 
-	<body bgcolor="#FFFFFF" rightmargin="0">
+<div id="pageMain">
+	<div id="spectrumTop"><img src="http://files.ctia.org/img/ctia_org_v2007/common/spacer.gif" alt=""></div>
 
-<div style="width: 780px; padding:0px; margin:0px;">
+	<div id="mainContent">
+
+	<div id="mainHeader">
+		<div id="topNav"><a href="http://assistive.usablenet.com/tt/http://www.ctia.org">Text Only</a> | <a href="/membership/membership_apps/">Join Now</a> | <a href="http://wirelesscareers.ctia.org/">Career Center</a> | <a href="/store/">Shop CTIA</a> | <a href="/smartbrief/" target="_blank">CTIA SmartBrief</a> | <a href="/advocacy/research/index.cfm/AID/10586">Legislative</a> | <a href="/members/">Members Only</a></div>
+		<div id="logoMain">
+			<a href="/"><img src="http://files.ctia.org/img/ctia_org_v2007/common/logo_ctia_main.gif" width="114" height="54" border="0" alt="CTIA - The Wireless Association"></a>
+		</div>
+		<div id="mottoTxt">
+			<img src="http://files.ctia.org/img/ctia_org_v2007/common/mottotxt.jpg" alt="CTIA is the International Association for the Wireless Telecommunications Industry, dedicated to Expanding the Wireless Frontier." width="410" height="35">
+		</div>
+		<div id="topSearch">
+			<img src="http://files.ctia.org/img/ctia_org_v2007/common/hdr_search_site.gif" alt="Search Site" style="margin-bottom:2px;">
+			<div id="topForm">
+			<form name="mainSearch" method="post" action="/search/searchresults.cfm" onsubmit="return checkSearch();">
+				<input name="keyword1" type="text" value="" maxlength="120" size="15">
+				<input type="hidden" name="vars" value="set">
+				<input type="hidden" name="searchwhat" value="TOB">
+				<input type="image" align="top" src="http://files.ctia.org/img/ctia_org_v2007/common/icon_search_img.gif" alt="GO!">
+			</form>
+			</div>
+		</div>
+	</div>
 
 
-<table width="780" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-	<td>
-	<a href="/"><img src="http://files.ctia.org/img/ctia_org/ctia_spectrum_banner.jpg" width="780" height="117" alt="CTIA-The Wireless Association®" border="0"></a>
-	</td>
-</tr>
-<tr>
-	<td width="780" class="gray_texture_horiz" height="10">
-		<a href="http://transcoder.usablenet.com:8080/tt/http://www.colo.ctia.org"><img src="http://files.ctia.org/img/spacer.gif" style="border:none" alt="text-only page" width="780" height="10"></a>
-	</td>
-</tr>
-</tbody></table>
 
 
 
 
-<table width="780" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
+
+
+
+
+
+
+
+
 	
-	<td width="150" align="left" valign="top" bgcolor="#6699CC">
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
 	
 
 
 
 
- 
-
-
-
-					
+<div id="mainNavMenu">
+<div id="menuItems">
+	<ul>
+	
+		
+	
 	
 
-
-
-
-
-
-
-
- 
-
-
-<div class="mainNavMenu">
-
-
-
-
-
-
-
-
-
-
-
-	<div style="padding: 5px; padding-left: 8px; border-top: 1px solid #A9C1D8; border-bottom: 1px solid #4579AD;; width:90%;">
-		<a class="mainNav" name="Section_1" href="/index.cfm" target="">Home</a>
-	</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	<div style="padding: 5px; padding-left: 8px; border-top: 1px solid #A9C1D8; border-bottom: 1px solid #4579AD;; width:90%;" onmouseover="hideCur(); Menus.submenu1.show()" onmouseout="Menus.submenu1.hide()">
-		<a class="mainNav" name="Section_2" href="/aboutCTIA/index.cfm" target="">About CTIA</a>
-	</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	<div style="padding: 5px; padding-left: 8px; border-top: 1px solid #A9C1D8; border-bottom: 1px solid #4579AD;; width:90%;" onmouseover="hideCur(); Menus.submenu2.show()" onmouseout="Menus.submenu2.hide()">
-		<a class="mainNav" name="Section_3" href="/membership/index.cfm" target="">Membership</a>
-	</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	<div style="padding: 5px; padding-left: 8px; border-top: 1px solid #A9C1D8; border-bottom: 1px solid #4579AD;; width:90%;" onmouseover="hideCur(); Menus.submenu3.show()" onmouseout="Menus.submenu3.hide()">
-		<a class="mainNav" name="Section_4" href="/industry_topics/index.cfm" target="">Industry Topics</a>
-	</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	<div style="padding: 5px; padding-left: 8px; border-top: 1px solid #A9C1D8; border-bottom: 1px solid #4579AD;; width:90%;" onmouseover="hideCur(); Menus.submenu4.show()" onmouseout="Menus.submenu4.hide()">
-		<a class="mainNav" name="Section_5" href="/news_media/index.cfm" target="">Wireless News</a>
-	</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	<div style="padding: 5px; padding-left: 8px; border-top: 1px solid #A9C1D8; border-bottom: 1px solid #4579AD;; width:90%;" onmouseover="hideCur(); Menus.submenu5.show()" onmouseout="Menus.submenu5.hide()">
-		<a class="mainNav" name="Section_6" href="/conventions_events/index.cfm" target="">Conventions &amp; Events</a>
-	</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	<div style="padding: 5px; padding-left: 8px; border-top: 1px solid #A9C1D8; border-bottom: 1px solid #4579AD;; width:90%;" onmouseover="hideCur(); Menus.submenu6.show()" onmouseout="Menus.submenu6.hide()">
-		<a class="mainNav" name="Section_7" href="/research_statistics/index.cfm" target="">Research &amp; Statistics</a>
-	</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	<div style="padding: 5px; padding-left: 8px; border-top: 1px solid #A9C1D8; border-bottom: 1px solid #4579AD;; width:90%;" onmouseover="hideCur(); Menus.submenu7.show()" onmouseout="Menus.submenu7.hide()">
-		<a class="mainNav" name="Section_8" href="/wireless_resources/index.cfm" target="">Wireless Resources</a>
-	</div>
-
-
-
-
+	
+		<li id="section1" onmouseover="changeImages(1,0); return true;" onmouseout="changeImages(0,0); return true;">
+			<a href="/aboutCTIA/"><img name="btn_about_us" src="http://files.ctia.org/img/ctia_org_v2007/navbar/btn_about_us.jpg" alt="About Us" border="0"></a>
+			<div>
+			<ul>
+				
+				<li class="leftside"><a href="/aboutCTIA/staff_dir/">Contact Us</a></li>
+				
+				<li><a href="/aboutCTIA/board_of_directors/">Board of Directors</a></li>
+				
+				<li><a href="/aboutCTIA/president/">President/CEO</a></li>
+				
+				<li><a href="/aboutCTIA/leadership_team/">Leadership Team</a></li>
+				
+				<li><a href="/aboutCTIA/structure/">Departments</a></li>
+				
+			</ul>
+			</div>
+		</li>
+	
+		
+	
+	
+
+	
+		<li id="section2" onmouseover="changeImages(2,0); return true;" onmouseout="changeImages(0,0); return true;">
+			<a href="/media/"><img name="btn_media" src="http://files.ctia.org/img/ctia_org_v2007/navbar/btn_media.jpg" alt="Media" border="0"></a>
+			<div>
+			<ul>
+				
+				<li class="leftside"><a href="/media/press_releases/">Press Releases</a></li>
+				
+				<li><a href="/media/industry_info/">Industry Info</a></li>
+				
+				<li><a href="/media/publications/">Publications</a></li>
+				
+				<li><a href="/media/multimedia/">Multimedia Library</a></li>
+				
+			</ul>
+			</div>
+		</li>
+	
+		
+	
+	
+
+	
+		<li id="section3" onmouseover="changeImages(3,0); return true;" onmouseout="changeImages(0,0); return true;">
+			<a href="/advocacy/"><img name="btn_advocacy" src="http://files.ctia.org/img/ctia_org_v2007/navbar/btn_advocacy.jpg" alt="Advocacy" border="0"></a>
+			<div>
+			<ul>
+				
+				<li class="leftside"><a href="/advocacy/policy_topics/">Policy Topics</a></li>
+				
+				<li><a href="/advocacy/position_papers/">Position Papers</a></li>
+				
+				<li><a href="/advocacy/filings/">FCC Filings</a></li>
+				
+				<li><a href="/advocacy/research/">Research</a></li>
+				
+				<li><a href="/advocacy/federal_state/">Federal &amp; State Affairs</a></li>
+				
+			</ul>
+			</div>
+		</li>
+	
+		
+	
+	
+
+	
+		<li id="section4" onmouseover="changeImages(4,0); return true;" onmouseout="changeImages(0,0); return true;">
+			<a href="/consumer_info/"><img name="btn_consumer_info" src="http://files.ctia.org/img/ctia_org_v2007/navbar/btn_consumer_info.jpg" alt="Consumer Info" border="0"></a>
+			<div>
+			<ul>
+				
+				<li class="leftside"><a href="/consumer_info/service/">Your Wireless Service</a></li>
+				
+				<li><a href="/consumer_info/safety/">Wireless Safety</a></li>
+				
+				<li><a href="/consumer_info/multimedia/">Multimedia Library</a></li>
+				
+			</ul>
+			</div>
+		</li>
+	
+		
+	
+	
+
+	
+		<li id="section5" onmouseover="changeImages(5,0); return true;" onmouseout="changeImages(0,0); return true;">
+			<a href="/membership/"><img name="btn_membership" src="http://files.ctia.org/img/ctia_org_v2007/navbar/btn_membership.jpg" alt="Membership" border="0"></a>
+			<div>
+			<ul>
+				
+				<li class="leftside"><a href="/membership/membership_apps/">Join Now</a></li>
+				
+				<li><a href="/membership/member_benefits/">Types/Benefits</a></li>
+				
+				<li><a href="/membership/ctia_members/">Current Members</a></li>
+				
+				<li><a href="/membership/members/">Members Only</a></li>
+				
+			</ul>
+			</div>
+		</li>
+	
+		
+	
+	
+
+	
+		<li id="section6" onmouseover="changeImages(6,0); return true;" onmouseout="changeImages(0,0); return true;">
+			<a href="/conventions_events/"><img name="btn_conventions_events" src="http://files.ctia.org/img/ctia_org_v2007/navbar/btn_conventions_events.jpg" alt="Conventions &amp; Events" border="0"></a>
+			<div>
+			<ul>
+				
+				<li class="leftside"><a href="/conventions_events/wirelessIT/">CTIA WIRELESS I.T. &amp; ENTERTAINMENT®</a></li>
+				
+				<li><a href="/conventions_events/wireless/">CTIA WIRELESS®</a></li>
+				
+				<li><a href="/conventions_events/industry_events_calendar/">Industry Events Calendar</a></li>
+				
+			</ul>
+			</div>
+		</li>
+	
+		
+	
+	
+
+	
+		<li id="section7" onmouseover="changeImages(7,0); return true;" onmouseout="changeImages(0,0); return true;">
+			<a href="/business_resources/"><img name="btn_business_resources" src="http://files.ctia.org/img/ctia_org_v2007/navbar/btn_business_resources.jpg" alt="Business Resources" border="0"></a>
+			<div>
+			<ul>
+				
+				<li class="leftside"><a href="/business_resources/wic/">Wireless Internet Caucus</a></li>
+				
+				<li><a href="/business_resources/certification/">Certification</a></li>
+				
+				<li><a href="/business_resources/short_code/">Common Short Code</a></li>
+				
+				<li><a href="/business_resources/industry_directory/">Industry Directory</a></li>
+				
+				<li><a href="http://wirelesscareers.ctia.org/">Wireless Career Center</a></li>
+				
+			</ul>
+			</div>
+		</li>
+	
+	</ul>
+</div>
 </div>
 
 
 
+
+
+
+
+
+
+<div id="bodyContent">
+
+
+
+<div id="subPageContent">
 	
 	
-
-	
-
-
-
-
-
-<script language="JavaScript" type="text/JavaScript">
-
-// |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-// 
-// Coded by Travis Beckham
-// http://www.squidfingers.com | http://www.podlob.com
-// If want to use this code, feel free to do so, but please leave this message intact.
-// If you do remove this, I will hunt you down :)
-//
-// |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-// --- Version Date 8-6-02 ---------------------------------------------------------------
-
-var agent = navigator.userAgent.toLowerCase(); 
-var mac = agent.indexOf('mac') != -1;
-var w3c = document.getElementById ? true : false;
-var iex = document.all ? true : false;
-var ns4 = document.layers ? true : false;
-
-function fixNetscape(){
-	if(origWidth != window.innerWidth || origHeight != window.innerHeight){
-		window.location.reload();
-	}	
-}
-if(ns4){
-	origWidth = window.innerWidth;
-	origHeight = window.innerHeight;
-	window.onresize = fixNetscape;
-}
-function getStyle(name, nest){
-	nest = nest ? 'document.'+nest+'.' : '';
-	return w3c ? document.getElementById(name).style : iex ? document.all[name].style : ns4 ? eval(nest+'document.'+name) : false;
-}
-
-// ~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~
-// Menu Constructor
-
-CenterMenu = function(name,left,top){
-	this.name = name;
-	this.left = left;
-	this.top = top;
-	this.timer = null;
-	this.obj = name+'Object';
-	eval(this.obj+'=this');
-}
-
-//changes the visibility of select boxes in forms so they do not appear in front of popup menus
-
-function showSelect() {
-	var sSelect = document.getElementsByTagName('select');
-	for (i=0; i<sSelect.length; i++) {
-		sThis = sSelect[i].name;
-		if(getStyle(sThis).visibility == 'hidden') {
-			getStyle(sThis).visibility = 'visible';
-		}
-	}
-}
-
-function hideSelect() {
-	var sSelect = document.getElementsByTagName('select');
-	for (i=0; i<sSelect.length; i++) {
-		sThis = sSelect[i].name;
-		getStyle(sThis).visibility = 'hidden';
-	}
-}
-
-
-
-CenterMenu.prototype.show = function(){
-	clearTimeout(this.timer);
-	/* var windowWidth = iex ? document.body.clientWidth : window.innerWidth;
-	var offset = Math.floor((windowWidth-pageWidth)/2);
-	alert(offset);
-	if(offset < 0){
-		offset = 0;
-	}
-	if(ns4 && offset > 0){ // Ugly NS4 Bug Fix
-		if(mac){
-			if(document.height < window.innerHeight){
-				offset -= 8;
-			}
-		}else{
-			offset -= 8;
-		}
-	}
-	getStyle(this.name).left = offset+this.left;*/
-	getStyle(this.name).visibility = 'visible';
-	curMenu = this.name;
-	hideSelect();
-	
-}
-
-CenterMenu.prototype.hide = function(){
-	showSelect();
-	this.timer = setTimeout(this.obj+'.hideIt()',500);
-}
-CenterMenu.prototype.hideIt = function(){
-	getStyle(this.name).visibility = 'hidden';
-}
-CenterMenu.prototype.startMenu = function(){
-	var html;
-	if(ns4){
-		html = '<layer name="'+this.name+'" left="'+this.left+'" top="'+this.top+'" z-index="1000" visibility="hidden" ';
-	}else{
-		html = '<div id="'+this.name+'" style="position:absolute; left:'+this.left+'px; top:'+this.top+'px; z-index:1000; visibility:hidden" ';
-	}
-	html += 'onMouseOver="Menus.'+this.name+'.show()" onMouseOut="Menus.'+this.name+'.hide()">';
-	
-	return html;
-}
-
-// Global Menu Functions
-hideCur = function(){
-	if(curMenu != null){
-		Menus[curMenu].hideIt();
-		curMenu = null;
-	}
-}
-endMenu = function(){
-	 return ns4 ? '<\/layer>' : '<\/div>';
-}
-createCenterMenu = function(name,left,top){
-	Menus[name] = new CenterMenu(name,left,top);
-}
-
-Menus = new Object();
-var curMenu = null;
-var pageWidth = 780;
-
-
-// ~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~
-// Build Menu Structure
-
-
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-
-//figure out how much to move down pop-outs
-	
-
-
-	createCenterMenu('submenu1', 135, 160);
-
-	createCenterMenu('submenu2', 135, 185);
-
-	createCenterMenu('submenu3', 135, 210);
-
-	createCenterMenu('submenu4', 135, 235);
-
-	createCenterMenu('submenu5', 135, 260);
-
-	createCenterMenu('submenu6', 135, 285);
-
-	createCenterMenu('submenu7', 135, 310);
-
-	createCenterMenu('submenu8', 135, 335);
-
-
-
-// ~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~
-
-</script>
-<!-- Sub Navigation (Absolute Position) -->
-
-
-	
-	<script language="JavaScript" type="text/JavaScript">document.write(Menus.submenu1.startMenu());</script><div id="submenu1" style="position:absolute; left:135px; top:160px; z-index:1000; visibility:hidden" onmouseover="Menus.submenu1.show()" onmouseout="Menus.submenu1.hide()">
-		<div class="un_jtt_hide">
 		
-		<table class="submenu_pop" cellpadding="3" cellspacing="0">
-		<tbody><tr>
-			<td width="175" align="left" valign="top" nowrap="">
-				
-				
-									
-					<div class="submenuitem_pop"><a class="submenupop" href="/aboutCTIA/overview/index.cfm" target="">Overview</a></div>
-				
-									
-					<div class="submenuitem_pop"><a class="submenupop" href="/aboutCTIA/staff_dir/index.cfm" target="">Contact Us</a></div>
-				
-									
-					<div class="submenuitem_pop"><a class="submenupop" href="/aboutCTIA/visitor_information/index.cfm" target="">Visitor Information</a></div>
-				
-									
-					<div class="submenuitem_pop"><a class="submenupop" href="/aboutCTIA/structure/index.cfm" target="">Departments</a></div>
-				
-									
-					<div class="submenuitem_pop"><a class="submenupop" href="/aboutCTIA/president/index.cfm" target="">President/CEO</a></div>
-				
-									
-					<div class="submenuitem_pop"><a class="submenupop" href="/aboutCTIA/leadership_team/index.cfm" target="">Leadership Team</a></div>
-				
-									
-					<div class="submenuitem_pop_nl"><a class="submenupop" href="/aboutCTIA/board_of_directors/index.cfm" target="">Board of Directors</a></div>
-				
-			</td>
-		</tr>			
-		</tbody></table>
-		
-		</div>
 			
-	<script language="JavaScript" type="text/JavaScript">document.write(endMenu());</script></div>
-	
-
-	
-	<script language="JavaScript" type="text/JavaScript">document.write(Menus.submenu2.startMenu());</script><div id="submenu2" style="position:absolute; left:135px; top:185px; z-index:1000; visibility:hidden" onmouseover="Menus.submenu2.show()" onmouseout="Menus.submenu2.hide()">
-		<div class="un_jtt_hide">
-		
-		<table class="submenu_pop" cellpadding="3" cellspacing="0">
-		<tbody><tr>
-			<td width="175" align="left" valign="top" nowrap="">
-				
-				
-									
-					<div class="submenuitem_pop"><a class="submenupop" href="/membership/overview/index.cfm" target="">Overview</a></div>
-				
-									
-					<div class="submenuitem_pop"><a class="submenupop" href="/membership/member_benefits/index.cfm" target="">Member Benefits</a></div>
-				
-									
-					<div class="submenuitem_pop"><a class="submenupop" href="/membership/ctia_members/index.cfm" target="">Current Members</a></div>
-				
-									
-					<div class="submenuitem_pop"><a class="submenupop" href="/membership/membership_categories/index.cfm" target="">Membership Categories</a></div>
-				
-									
-					<div class="submenuitem_pop"><a class="submenupop" href="/membership/membership_apps/index.cfm" target="">Membership Applications</a></div>
-				
-									
-					<div class="submenuitem_pop"><a class="submenupop" href="/membership/faqs/index.cfm" target="">Membership FAQs</a></div>
-				
-									
-					<div class="submenuitem_pop_nl"><a class="submenupop" href="/members/index.cfm" target="">Members Only</a></div>
-				
-			</td>
-		</tr>			
-		</tbody></table>
-		
-		</div>
-			
-	<script language="JavaScript" type="text/JavaScript">document.write(endMenu());</script></div>
-	
-
-	
-	<script language="JavaScript" type="text/JavaScript">document.write(Menus.submenu3.startMenu());</script><div id="submenu3" style="position:absolute; left:135px; top:210px; z-index:1000; visibility:hidden" onmouseover="Menus.submenu3.show()" onmouseout="Menus.submenu3.hide()">
-		<div class="un_jtt_hide">
-		
-		<table class="submenu_pop" cellpadding="3" cellspacing="0">
-		<tbody><tr>
-			<td width="175" align="left" valign="top" nowrap="">
-				
-				
-									
-					<div class="submenuitem_pop"><a class="submenupop" href="/industry_topics/index.cfm" target="">Index</a></div>
-				
-									
-					<div class="submenuitem_pop_nl"><a class="submenupop" href="/industry_topics/filings/index.cfm" target="">FCC Legal Filings</a></div>
-				
-			</td>
-		</tr>			
-		</tbody></table>
-		
-		</div>
-			
-	<script language="JavaScript" type="text/JavaScript">document.write(endMenu());</script></div>
-	
-
-	
-	<script language="JavaScript" type="text/JavaScript">document.write(Menus.submenu4.startMenu());</script><div id="submenu4" style="position:absolute; left:135px; top:235px; z-index:1000; visibility:hidden" onmouseover="Menus.submenu4.show()" onmouseout="Menus.submenu4.hide()">
-		<div class="un_jtt_hide">
-		
-		<table class="submenu_pop" cellpadding="3" cellspacing="0">
-		<tbody><tr>
-			<td width="175" align="left" valign="top" nowrap="">
-				
-				
-									
-					<div class="submenuitem_pop"><a class="submenupop" href="/news_media/press_contacts/index.cfm" target="">Press Contacts</a></div>
-				
-									
-					<div class="submenuitem_pop"><a class="submenupop" href="/news_media/press/index.cfm" target="">CTIA News Releases</a></div>
-				
-									
-					<div class="submenuitem_pop"><a class="submenupop" href="/news_media/wireless_newslines/index.cfm" target="">Wireless News Releases</a></div>
-				
-									
-					<div class="submenuitem_pop_nl"><a class="submenupop" href="http://www.ctia.org/news_media/index.cfm/AID/10226" target="">Podcasts</a></div>
-				
-			</td>
-		</tr>			
-		</tbody></table>
-		
-		</div>
-			
-	<script language="JavaScript" type="text/JavaScript">document.write(endMenu());</script></div>
-	
-
-	
-	<script language="JavaScript" type="text/JavaScript">document.write(Menus.submenu5.startMenu());</script><div id="submenu5" style="position:absolute; left:135px; top:260px; z-index:1000; visibility:hidden" onmouseover="Menus.submenu5.show()" onmouseout="Menus.submenu5.hide()">
-		<div class="un_jtt_hide">
-		
-		<table class="submenu_pop" cellpadding="3" cellspacing="0">
-		<tbody><tr>
-			<td width="175" align="left" valign="top" nowrap="">
-				
-				
-									
-					<div class="submenuitem_pop"><a class="submenupop" href="/conventions_events/ctia_events/index.cfm" target="">Overview</a></div>
-				
-									
-					<div class="submenuitem_pop"><a class="submenupop" href="/conventions_events/wirelessIT/index.cfm" target="">CTIA WIRELESS I.T.®</a></div>
-				
-									
-					<div class="submenuitem_pop"><a class="submenupop" href="/conventions_events/wireless/index.cfm" target="">CTIA WIRELESS®</a></div>
-				
-									
-					<div class="submenuitem_pop"><a class="submenupop" href="http://speakers.ctia.org" target="_blank">Speaker Application</a></div>
-				
-									
-					<div class="submenuitem_pop_nl"><a class="submenupop" href="/conventions_events/industry_events_calendar/index.cfm" target="">Industry Events Calendar</a></div>
-				
-			</td>
-		</tr>			
-		</tbody></table>
-		
-		</div>
-			
-	<script language="JavaScript" type="text/JavaScript">document.write(endMenu());</script></div>
-	
-
-	
-	<script language="JavaScript" type="text/JavaScript">document.write(Menus.submenu6.startMenu());</script><div id="submenu6" style="position:absolute; left:135px; top:285px; z-index:1000; visibility:hidden" onmouseover="Menus.submenu6.show()" onmouseout="Menus.submenu6.hide()">
-		<div class="un_jtt_hide">
-		
-		<table class="submenu_pop" cellpadding="3" cellspacing="0">
-		<tbody><tr>
-			<td width="175" align="left" valign="top" nowrap="">
-				
-				
-									
-					<div class="submenuitem_pop"><a class="submenupop" href="/research_statistics/statistics/index.cfm" target="">Overview</a></div>
-				
-									
-					<div class="submenuitem_pop"><a class="submenupop" href="/store/index.cfm" target="">Research e-Store</a></div>
-				
-									
-					<div class="submenuitem_pop"><a class="submenupop" href="/research_statistics/industry_links/index.cfm" target="">Industry Research Links</a></div>
-				
-									
-					<div class="submenuitem_pop_nl"><a class="submenupop" href="/research_statistics/legislative_search/index.cfm" target="">Legislative Search</a></div>
-				
-			</td>
-		</tr>			
-		</tbody></table>
-		
-		</div>
-			
-	<script language="JavaScript" type="text/JavaScript">document.write(endMenu());</script></div>
-	
-
-	
-	<script language="JavaScript" type="text/JavaScript">document.write(Menus.submenu7.startMenu());</script><div id="submenu7" style="position:absolute; left:135px; top:310px; z-index:1000; visibility:hidden" onmouseover="Menus.submenu7.show()" onmouseout="Menus.submenu7.hide()">
-		<div class="un_jtt_hide">
-		
-		<table class="submenu_pop" cellpadding="3" cellspacing="0">
-		<tbody><tr>
-			<td width="175" align="left" valign="top" nowrap="">
-				
-				
-									
-					<div class="submenuitem_pop"><a class="submenupop" href="/wireless_resources/overview/index.cfm" target="">Overview</a></div>
-				
-									
-					<div class="submenuitem_pop"><a class="submenupop" href="/certification/" target="">CTIA Certification Program</a></div>
-				
-									
-					<div class="submenuitem_pop"><a class="submenupop" href="http://www.ctia.org/content/index.cfm/AID/10141" target="">CTIA Technology Programs</a></div>
-				
-									
-					<div class="submenuitem_pop"><a class="submenupop" href="/wic/" target="">Wireless Internet Caucus</a></div>
-				
-									
-					<div class="submenuitem_pop"><a class="submenupop" href="http://www.ctia.org/content/index.cfm/AID/10197" target="">Wireless 101</a></div>
-				
-									
-					<div class="submenuitem_pop_nl"><a class="submenupop" href="/industry_directory/" target="">CTIA Industry Directory</a></div>
-				
-			</td>
-		</tr>			
-		</tbody></table>
-		
-		</div>
-			
-	<script language="JavaScript" type="text/JavaScript">document.write(endMenu());</script></div>
-	
-
-
-	</td>
-	
-	<td align="left" valign="top" class="content">
-	
-		<div class="pad10">
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-
-	
-	
-	  
-			
-				
-					
-				
-				
-				
-			
+			<div id="subMainContentFull">
 		
 	
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	
-
-
-
-		<p><span class="aHeader">CTIA.ORG® WEBSITE PRIVACY POLICY</span></p>
-<p><span class="aHeader"></span>CTIA is committed to protecting the privacy of CTIA.ORG® users personal information. This privacy statement applies with respect to the information that CTIA collects from its CTIA.ORG® Website, located at <a href="http://www.CTIA.ORG">www.CTIA.ORG</a>.&nbsp; Amendments to this privacy statement will be posted at this URL and will be effective when posted. Your continued use of this site following the posting of any amendment, modification or change shall constitute your acceptance thereof.<br>&nbsp;<br><span class="pHeader">Information Collected<br><br></span>We collect non-personally identifiable information about you in a number of ways, including tracking your activities through your IP address, computer settings or most-recently visited URL. We may also ask you to provide certain non-personally identifiable information about yourself, such as your age, household income, your profession, buying preferences, etc. We do not collect personally identifiable information about you unless you voluntarily submit such information to the CTIA.ORG® Website by, for example, filling out a survey or registration form. The types of information that may be requested include your name, address, e-mail address, and telephone number.<br>&nbsp;<br><span class="pHeader">Use of Information<br></span><span class="pHeader"><br></span>CTIA may use the information to tell you about CTIA.ORG® products or services that we feel may be of interest to you. Personally identifiable information may be used to contact you again either by online electronic communication (such as e-mail), or by regular mail or telephone. CTIA.ORG® users may opt-out of receiving future mailings from CTIA by unsubscribing from the CTIA Daily News or e-mailing <a href="mailto:webmaster@ctia.org">webmaster@ctia.org</a>.<br>&nbsp;<br>Non-personal demographic and profile data is used to tailor your experience at the CTIA.ORG® Website, showing you content we think you might be interested in. This information may also be shared with advertisers on an aggregate, non-personal basis. When CTIA shares such information with advertisers, it is not traceable to any particular user and will not be used to contact you again.<br>&nbsp;<br>CTIA hosts several industry-leading events each year, including the world's largest Wireless show and the groundbreaking Agenda conferences. CTIA offers on-line registration for these events at the CTIA.ORG® Website. We may use the information that you provide on the on-line registration form to tell you about future CTIA events that we feel may be of interest to you, and we may also share this information with other entities from whom we believe you may want to receive information concerning wireless-related products or services. Personally identifiable information may be used to contact you again either by online electronic communication (such as e-mail), or by regular mail or telephone. CTIA.ORG® users that register on-line for CTIA events may opt-out of receiving future mailings from CTIA or other entities by selecting the appropriate box on the on-line registration form.<br>&nbsp;<br><span class="pHeader">Use of IP Addresses<br><br></span>We use your IP address to help diagnose problems with our server and to administer the CTIA.ORG® Website.<br>&nbsp;<br><span class="pHeader">Use of Cookies<br><br></span>When you view the CTIA.ORG® Website we may store some information on your computer. This information will be in the form of a "cookie" or similar file. Cookies are small pieces of information stored on your hard drive, not on the CTIA.ORG® Website. Cookies do not spy on you or otherwise invade your privacy, and they cannot invade your hard drive and steal information. Rather, they help you navigate a website as easily as possible. We use cookies to deliver content specific to your interests. Cookies can allow the CTIA.ORG® Website to remember you when you return so you do not have to enter your registration data at each connection.<br><br><span class="pHeader">Security<br><br></span>While there is no such thing as "perfect security" on the Internet, CTIA takes reasonable steps to protect the security and confidentiality of your personal information.&nbsp; We maintain physical, electronic and procedural safeguards to protect against the loss, misuse and alteration of personally identifiable information transmitted to us using the CTIA.ORG® Website. To guard your information, the CTIA.ORG® Website uses Secure Sockets Layer (SSL) as well as other industry standard security measures for online transactions at the CTIA.ORG® Wesbsite.&nbsp; Please note that e-mail is not encrypted and is not considered to be a secure means of transmitting credit card information. </p>
-<p><span class="pHeader">Other Websites and Links<br><br></span>The CTIA.ORG® Website contains links to other websites. CTIA is not responsible for the privacy practices or the content of such websites.<br>&nbsp;<br><span class="pHeader">Correction &amp; Update of Information<br><br></span>CTIA allows its users the option to change or modify information previously provided. This may be done through the following methods:<br><br>1. &nbsp;E-mail the information to <a href="mailto:webmaster@ctia.org">webmaster@ctia.org</a>; or <br><br>2.&nbsp; Visit the Registration Section of the CTIA.ORG® Website and follow&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the&nbsp;appropriate instructions.<br><br>CTIA will use reasonable efforts to ensure that your information is removed from or corrected in our records.<br>&nbsp;<br><span class="pHeader">Contacting Us<br><br></span>If you have any questions about this privacy statement, the practices of this site, or your dealings with the CTIA.ORG® Website, you can contact us at <a href="mailto:webmaster@ctia.org">webmaster@ctia.org</a>.</p>
-<p>Effective Date: This policy was last updated on August 1, 2006. </p>
-<p>&nbsp;</p>
-		</div>
-		<p>&nbsp;</p>
 	
-		</td>
-		
-		<td width="150" valign="top">
-			
-			<table width="100%" align="left" valign="top" border="0" cellspacing="0" cellpadding="0">
-			
+	
+	<div id="breadcrumb">
+		<table cellpadding="0" cellspacing="0" width="100%">
 			<tbody><tr>
 				<td>
-				<table align="left" valign="top" border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr>
-					<td>
-						<table cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-	<td><a href="http://www.ctiawireless.com" target="_blank"><img src="http://files.ctia.org/img/ctia_org/w07_152x250.gif" border="0" alt="CTIA WIRELESS 2007 - March 27-29, Orlando, FL"></a>				
-</td>
-</tr>
-</tbody></table>
-
-
-
-	
-					</td>
-				</tr>
-				</tbody></table>
-				</td>
-			</tr>
+				<a href="/">Home</a>
+				
+				
+				
+				
+			</td>
 			
-			
-			</tbody></table>
-		</td>
+			<td valign="top">
+				<div id="printLink">
+					
+					
+					
+					
+						
+					
+					
+					
+					
+														
+					
+						
+					
+					
+					
+					
+					
+					
+					
 		
+					<a href="/content/index.cfm?bPrint=1&amp;AID=10058"><img src="http://files.ctia.org/img/ctia_org_v2007/icon/icon_print.gif" alt="Printer Friendly Version"></a>
+				</div>
+			</td>
+		</tr>
+	</tbody></table>
+	</div>
+	
+
+	<p><span class="aHeader">CTIA.ORG® WEBSITE PRIVACY POLICY</span></p>
+<p><span class="aHeader"></span>CTIA is committed to protecting the privacy of CTIA.ORG® users personal information. This privacy statement applies with respect to the information that CTIA collects from its CTIA.ORG® Website, located at <a href="http://www.CTIA.ORG">www.CTIA.ORG</a>.&nbsp; Amendments to this privacy statement will be posted at this URL and will be effective when posted. Your continued use of this site following the posting of any amendment, modification or change shall constitute your acceptance thereof.<br>&nbsp;<br><span class="pHeader">Information Collected<br></span>We collect non-personally identifiable information about you in a number of ways, including tracking your activities through your IP address, computer settings or most-recently visited URL. We may also ask you to provide certain non-personally identifiable information about yourself, such as your age, household income, your profession, buying preferences, etc. We do not collect personally identifiable information about you unless you voluntarily submit such information to the CTIA.ORG® Website by, for example, filling out a survey or registration form. The types of information that may be requested include your name, address, e-mail address, and telephone number.<br>&nbsp;<br><span class="pHeader">Use of Information</span><span class="pHeader"><br></span>CTIA may use the information to tell you about CTIA.ORG® products or services that we feel may be of interest to you. Personally identifiable information may be used to contact you again either by online electronic communication (such as e-mail), or by regular mail or telephone. CTIA.ORG® users may opt-out of receiving future mailings from CTIA by unsubscribing from the CTIA Daily News or e-mailing <a href="mailto:webmaster@ctia.org">webmaster@ctia.org</a>.<br>&nbsp;<br>Non-personal demographic and profile data is used to tailor your experience at the CTIA.ORG® Website, showing you content we think you might be interested in. This information may also be shared with advertisers on an aggregate, non-personal basis. When CTIA shares such information with advertisers, it is not traceable to any particular user and will not be used to contact you again.<br>&nbsp;<br>CTIA hosts several industry-leading events each year, including the world's largest Wireless show and the groundbreaking Agenda conferences. CTIA offers on-line registration for these events at the CTIA.ORG® Website. We may use the information that you provide on the on-line registration form to tell you about future CTIA events that we feel may be of interest to you, and we may also share this information with other entities from whom we believe you may want to receive information concerning wireless-related products or services. Personally identifiable information may be used to contact you again either by online electronic communication (such as e-mail), or by regular mail or telephone. CTIA.ORG® users that register on-line for CTIA events may opt-out of receiving future mailings from CTIA or other entities by selecting the appropriate box on the on-line registration form.<br>&nbsp;<br><span class="pHeader">Use of IP Addresses<br></span>We use your IP address to help diagnose problems with our server and to administer the CTIA.ORG® Website.<br>&nbsp;<br><span class="pHeader">Use of Cookies<br></span>When you view the CTIA.ORG® Website we may store some information on your computer. This information will be in the form of a "cookie" or similar file. Cookies are small pieces of information stored on your hard drive, not on the CTIA.ORG® Website. Cookies do not spy on you or otherwise invade your privacy, and they cannot invade your hard drive and steal information. Rather, they help you navigate a website as easily as possible. We use cookies to deliver content specific to your interests. Cookies can allow the CTIA.ORG® Website to remember you when you return so you do not have to enter your registration data at each connection.<br><br><span class="pHeader">Security<br></span>While there is no such thing as "perfect security" on the Internet, CTIA takes reasonable steps to protect the security and confidentiality of your personal information.&nbsp; We maintain physical, electronic and procedural safeguards to protect against the loss, misuse and alteration of personally identifiable information transmitted to us using the CTIA.ORG® Website. To guard your information, the CTIA.ORG® Website uses Secure Sockets Layer (SSL) as well as other industry standard security measures for online transactions at the CTIA.ORG® Wesbsite.&nbsp; Please note that e-mail is not encrypted and is not considered to be a secure means of transmitting credit card information. </p>
+<p><span class="pHeader">Other Websites and Links<br></span>The CTIA.ORG® Website contains links to other websites. CTIA is not responsible for the privacy practices or the content of such websites.<br>&nbsp;<br><span class="pHeader">Correction &amp; Update of Information<br></span>CTIA allows its users the option to change or modify information previously provided. This may be done through the following methods:<br><br>1. &nbsp;E-mail the information to <a href="mailto:webmaster@ctia.org">webmaster@ctia.org</a>; or <br><br>2.&nbsp; Visit the Registration Section of the CTIA.ORG® Website and follow&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the&nbsp;appropriate instructions.<br><br>CTIA will use reasonable efforts to ensure that your information is removed from or corrected in our records.<br>&nbsp;<br><span class="pHeader">Contacting Us<br></span>If you have any questions about this privacy statement, the practices of this site, or your dealings with the CTIA.ORG® Website, you can contact us at <a href="mailto:webmaster@ctia.org">webmaster@ctia.org</a>.</p>
+<p>Effective Date: This policy was last updated on August 1, 2006. </p>
+<p>&nbsp;</p>
 	
 
 
 
+
+				
+
 	
-</tr>
+	</div>
+	
+	
 
-</tbody></table>
-
-
-<br>
-<br>
-<table width="780" border="0" cellspacing="0" cellpadding="2" class="footer">
-	<tbody><tr>
-	<td width="112">&nbsp;</td>
-	<td width="112" align="center" style="border-right: 1px solid #cccccc;"><a href="/site_map.cfm">CTIA.org Site Map</a></td>
-	<td width="112" align="center" style="border-right: 1px solid #cccccc;"><a href="/aboutCTIA/index.cfm/AID/215">Contact Us</a></td>
-	<td width="160" align="center" style="border-right: 1px solid #cccccc;"><a href="/content/index.cfm/AID/10057">CTIA.org Terms Of Use</a></td>
-	<td width="112" align="center" style="border-right: 1px solid #cccccc;"><a href="/content/index.cfm/AID/10058">Privacy Policy</a></td>
-	<td width="112" align="center"><a href="http://transcoder.usablenet.com:8080/tt/http://www.ctia.org" title="Text-only Page">Text only</a></td>
-	<td>&nbsp;</td>
-	</tr>
-	<tr>
-	<td>&nbsp;</td>
-	<td align="center" colspan="5">CTIA 1400 16th Street, NW, Suite 600, Washington D.C. 20036 &nbsp; 202.785.0081</td>
-	<td>&nbsp;</td>
-	</tr>
-</tbody></table>
 </div>
 
+
+
+
+</div>
+
+
+
+<div id="bottomNav">
+	
+	<div id="bottomNavLeft">
+		<a href="/site_map.cfm">CTIA.org Site Map</a> | <a href="/aboutCTIA/staff_dir/">Contact Us</a> | <a href="/content/index.cfm/AID/10057">CTIA.org Terms of Use</a> | <a href="/content/index.cfm/AID/10058">Privacy Policy</a> | <a href="http://assistive.usablenet.com/tt/http://www.ctia.org">Text Only</a>
+	</div>
+	
+	<div id="bottomNavRight">
+		<a href="http://www.cibernet.com" target="_blank"><img src="http://files.ctia.org/img/ctia_org_v2007/common/logo_cibernet_v2.jpg" alt="Cibernet" align="right" border="0"></a>
+	</div>
+	
+</div>
+
+	
+
+<div id="pageFooter">
+	<p>CTIA 1400 16th Street, NW, Suite 600, Washington, D.C. 20036&nbsp;&nbsp;202.785.0081</p>
+</div>
+
+</div>
+
+
+<script type="text/javascript" language="javascript">
+	// <![CDATA[
+	//for long pages click on headings to view additional content, this initially hides the content
+	spans=document.getElementsByTagName("SPAN"); 
+	for (i=0;i<spans.length;i++) { 
+		thisString = spans[i].id.toString();
+		if (thisString.substr(0,8) == "content_"){ 
+			spans[i].style.display  = 'none';
+		}	
+	} 
+	// ]]>
+</script>
+
+
+
+</div>
 
 
 
