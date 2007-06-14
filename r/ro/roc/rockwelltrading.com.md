@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rockwelltrading.com privacy policy that was archived on 2006-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061129021122id_/http%3A//www.rockwelltrading.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockwelltrading.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614093101id_/http%3A//www.rockwelltrading.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Futures Trading Systems - How to start trading successfully with e-mini trading systems.
+# Daytrading Courses For Beginners | Rockwell Trading : Privacy Policy
 
-**Privacy Policy**
+### Privacy Policy
 
 We respect your privacy and appreciate the confidence you have placed in Rockwell Trading, Inc. as your primary source of information about how to get started with trading systems. We are committed to protecting your privacy and preserving your trust. 
 
