@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the iscripts.com privacy policy that was archived on 2006-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061206012323id_/http%3A//www.iscripts.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the iscripts.com privacy policy that was archived on 2007-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070614160504id_/http%3A//www.iscripts.com/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
 <title>iScripts.com, free web software and scripts for your web site</title>
@@ -32,6 +32,7 @@
          <table width="100%" border="0" cellspacing="0" cellpadding="0">
             <tbody><tr>
               <td class="defaultbgcolor"><script language="JavaScript" type="text/JavaScript">
+
 <!--
 function MM_reloadPage(init) {  //reloads the window if Nav4 resized
   if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
@@ -39,7 +40,103 @@ function MM_reloadPage(init) {  //reloads the window if Nav4 resized
   else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
 }
 MM_reloadPage(true);
-function showDropDown(id){
+
+function showDropDown(id)
+{
+
+  var cal_val ;
+ 
+  if(navigator.appName == 'Microsoft Internet Explorer')
+  {
+  
+    cal_val = 1;
+    
+  }
+  else
+  {
+  
+   cal_val = 5;
+  
+  }
+  
+	switch(id)
+	{
+	
+		case 'products':	
+		
+			var c = getAnchorWindowPosition('product_image');
+			var spacer = getAnchorWindowPosition('spacer_image_product');
+			var length =  c.x - spacer.x;
+			
+				changed_x =  c.x - length;
+				document.getElementById(id).style.left = (changed_x - cal_val);
+			
+		break;	
+		
+		case 'services':	
+		
+			var c = getAnchorWindowPosition('service_image');
+	        var spacer = getAnchorWindowPosition('spacer_image_services');
+			var length =  c.x - spacer.x;
+			
+				changed_x =  c.x - length;
+				document.getElementById(id).style.left = (changed_x - cal_val);
+		break;	
+		
+		case 'showcase':	
+		
+			var c = getAnchorWindowPosition('showcase_image');
+	        var spacer = getAnchorWindowPosition('spacer_image_showcase');
+			var length =  c.x - spacer.x;
+			
+				changed_x =  c.x - length;
+				document.getElementById(id).style.left = (changed_x - cal_val);
+		break;	
+		
+		case 'support':	
+		
+			var c = getAnchorWindowPosition('support_image');
+	        var spacer = getAnchorWindowPosition('spacer_image_support');
+			var length =  c.x - spacer.x;
+			
+				changed_x =  c.x - length;
+				document.getElementById(id).style.left = (changed_x - cal_val);
+		break;	
+		
+		case 'contactus':	
+		
+			var c = getAnchorWindowPosition('contactus_image');
+	        var spacer = getAnchorWindowPosition('spacer_image_contactus');
+			var length =  c.x - spacer.x;
+			
+				changed_x =  c.x - length;
+				document.getElementById(id).style.left = (changed_x - cal_val);
+		break;	
+		
+		case 'affiliate':	
+		
+			var c = getAnchorWindowPosition('affiliate_image');
+	        var spacer = getAnchorWindowPosition('spacer_image_affiliate');
+			var length =  c.x - spacer.x;
+			
+				changed_x =  c.x - length;
+				document.getElementById(id).style.left = (changed_x - cal_val);
+		break;	
+		
+		case 'company':	
+		
+			var c = getAnchorWindowPosition('company_image');
+	        var spacer = getAnchorWindowPosition('spacer_image_company');
+			var length =  c.x - spacer.x;
+			
+				changed_x =  c.x - length;
+				document.getElementById(id).style.left = (changed_x - cal_val);
+		break;	
+		
+		
+	}
+
+	
 	document.getElementById(id).style.display="";
 }
 function hideDropDown(){
@@ -57,28 +154,190 @@ function changeBG(){
 
 }
 //-->
+
+
+/* Javascript to find the position*/
+
+
+/*--starts here--*/
+
+function getAnchorPosition(anchorname) {
+	// This function will return an Object with x and y properties
+	var useWindow=false;
+	var coordinates=new Object();
+	var x=0,y=0;
+	// Browser capability sniffing
+	var use_gebi=false, use_css=false, use_layers=false;
+	if (document.getElementById) { use_gebi=true; }
+	else if (document.all) { use_css=true; }
+	else if (document.layers) { use_layers=true; }
+	// Logic to find position
+ 	if (use_gebi && document.all) {
+		x=AnchorPosition_getPageOffsetLeft(document.all[anchorname]);
+		y=AnchorPosition_getPageOffsetTop(document.all[anchorname]);
+		}
+	else if (use_gebi) {
+		var o=document.getElementById(anchorname);
+		x=AnchorPosition_getPageOffsetLeft(o);
+		y=AnchorPosition_getPageOffsetTop(o);
+		}
+ 	else if (use_css) {
+		x=AnchorPosition_getPageOffsetLeft(document.all[anchorname]);
+		y=AnchorPosition_getPageOffsetTop(document.all[anchorname]);
+		}
+	else if (use_layers) {
+		var found=0;
+		for (var i=0; i<document.anchors.length; i++) {
+			if (document.anchors[i].name==anchorname) { found=1; break; }
+			}
+		if (found==0) {
+			coordinates.x=0; coordinates.y=0; return coordinates;
+			}
+		x=document.anchors[i].x;
+		y=document.anchors[i].y;
+		}
+	else {
+		coordinates.x=0; coordinates.y=0; return coordinates;
+		}
+	coordinates.x=x;
+	coordinates.y=y;
+	return coordinates;
+	}
+
+// getAnchorWindowPosition(anchorname)
+//   This function returns an object having .x and .y properties which are the coordinates
+//   of the named anchor, relative to the window
+function getAnchorWindowPosition(anchorname) {
+	var coordinates=getAnchorPosition(anchorname);
+	var x=0;
+	var y=0;
+	if (document.getElementById) {
+		if (isNaN(window.screenX)) {
+			x=coordinates.x-document.body.scrollLeft+window.screenLeft;
+			y=coordinates.y-document.body.scrollTop+window.screenTop;
+			}
+		else {
+			x=coordinates.x+window.screenX+(window.outerWidth-window.innerWidth)-window.pageXOffset;
+			y=coordinates.y+window.screenY+(window.outerHeight-24-window.innerHeight)-window.pageYOffset;
+			}
+		}
+	else if (document.all) {
+		x=coordinates.x-document.body.scrollLeft+window.screenLeft;
+		y=coordinates.y-document.body.scrollTop+window.screenTop;
+		}
+	else if (document.layers) {
+		x=coordinates.x+window.screenX+(window.outerWidth-window.innerWidth)-window.pageXOffset;
+		y=coordinates.y+window.screenY+(window.outerHeight-24-window.innerHeight)-window.pageYOffset;
+		}
+	coordinates.x=x;
+	coordinates.y=y;
+	return coordinates;
+	}
+
+// Functions for IE to get position of an object
+function AnchorPosition_getPageOffsetLeft (el) {
+	var ol=el.offsetLeft;
+	while ((el=el.offsetParent) != null) { ol += el.offsetLeft; }
+	return ol;
+	}
+function AnchorPosition_getWindowOffsetLeft (el) {
+	return AnchorPosition_getPageOffsetLeft(el)-document.body.scrollLeft;
+	}	
+function AnchorPosition_getPageOffsetTop (el) {
+	var ot=el.offsetTop;
+	while((el=el.offsetParent) != null) { ot += el.offsetTop; }
+	return ot;
+	}
+function AnchorPosition_getWindowOffsetTop (el) {
+	return AnchorPosition_getPageOffsetTop(el)-document.body.scrollTop;
+	}
+
+/*--ends here--*/
+
+
+/*function test1()
+{
+	
+	alert(document.getElementById("test").style.position.left);
+	
+}*/
+
+/*function alignMenu(name,par) {
+	var c = getAnchorWindowPosition(name);
+	var total_length;
+	alert("X = "+c.x+" , Y = "+c.y);
+	
+	
+	
+	var o = document.getElementById("products");
+	var p = document.getElementById("services");
+	*/
+	//alert(o.style.left);
+	
+	
+	//alert(document.getElementById("product_test").width);
+	
+	//alert(document.getElementById("service_test").width);
+	
+	/*switch(par)
+	{
+	 case 1:
+		o.style.left =  c.x - 20;
+	 break;
+	 case 2:
+		p.style.left =  (90 + c.x) - 20;
+	 break;
+	
+	
+	
+	}*/
+	
+	/*o.style.left =  c.x - 20;
+	p.style.left =  (90 + c.x) - 20;*/
+	//o.style.left =  c.x
+	
+	//alert(o.style.left );
+	
+	//total_length = eval(o.style.left + c.x);
+	
+	//alert(total_length);
+	
+	//o.style.left = o.style.left + c.x;
+	
+	//alert(o.style.left);
+	
+	/*if (document.getElementById) {
+		var o = document.getElementById("testdiv");
+		if (o.style) {
+			o.style.left = c.x;
+			o.style.top = c.y;
+			}
+		}*/
+	//}
+
 </script>
+
 <table width="950" border="0" cellspacing="0" cellpadding="0">
                 <tbody><tr>
-
-                  <td width="114" align="center"><a href="http://www.iscripts.com/index.php"><img src="http://www.iscripts.com/images/home.jpg" width="90" height="20" border="0"></a></td>
-                  <td width="5"><img src="http://www.iscripts.com/images/separator.gif" width="5" height="20"></td>
-                  <td width="114" align="center" onmouseout="hideDropDown();" onmouseover="showDropDown('products');"><img src="http://www.iscripts.com/images/products.jpg" width="90" height="20"></td>
-                  <td width="5"><img src="http://www.iscripts.com/images/separator.gif" width="5" height="20"></td>
-                  <td width="114" align="center" onmouseout="hideDropDown();" onmouseover="showDropDown('services');"><img src="http://www.iscripts.com/images/services.jpg" width="90" height="20"></td>
-                  <td width="5"><img src="http://www.iscripts.com/images/separator.gif" width="5" height="20"></td>
-                  <td width="114" align="center" onmouseout="hideDropDown();" onmouseover="showDropDown('showcase');"><img src="http://www.iscripts.com/images/showcase.jpg" width="90" height="20"></td>
-                  <td width="5"><img src="http://www.iscripts.com/images/separator.gif" width="5" height="20"></td>
-                  <td width="114" align="center" onmouseout="hideDropDown();" onmouseover="showDropDown('support');"><img src="http://www.iscripts.com/images/support.jpg" width="90" height="20"></td>
-                  <td width="5"><img src="http://www.iscripts.com/images/separator.gif" width="5" height="20"></td>
-				  <td width="114" align="center" onmouseout="hideDropDown();" onmouseover="showDropDown('contactus');"><img src="http://www.iscripts.com/images/contactus.jpg" width="90" height="20"></td>
-                  <td width="5"><img src="http://www.iscripts.com/images/separator.gif" width="5" height="20"></td>
-                  <td width="114" align="center" onmouseout="hideDropDown();" onmouseover="showDropDown('affiliate');"><img src="http://www.iscripts.com/images/affiliates.jpg" width="90" height="20"></td>
-                  <td width="5"><img src="http://www.iscripts.com/images/separator.gif" width="5" height="20"></td>
-				  <td width="114" align="center" onmouseout="hideDropDown();" onmouseover="showDropDown('company');"><img src="http://www.iscripts.com/images/company.jpg" width="90" height="20"></td>
+				  <td width="114" align="center"><a href="http://www.iscripts.com/index.php"><img src="http://www.iscripts.com/images/home.jpg" width="90" height="20" border="0"></a></td>
+                  <td width="5"><img id="spacer_image_product" src="http://www.iscripts.com/images/separator.gif" width="5" height="20"></td>
+				  <td width="114" align="center" onmouseout="hideDropDown();" onmouseover="showDropDown('products');"><img id="product_image" src="http://www.iscripts.com/images/products.jpg" width="90" height="20"></td>
+                  <td width="5"><img id="spacer_image_services" src="http://www.iscripts.com/images/separator.gif" width="5" height="20"></td>
+				  <td width="114" align="center" onmouseout="hideDropDown();" onmouseover="showDropDown('services');"><img id="service_image" src="http://www.iscripts.com/images/services.jpg" width="90" height="20"></td>
+                  <td width="5"><img id="spacer_image_showcase" src="http://www.iscripts.com/images/separator.gif" width="5" height="20"></td>
+                  <td width="114" align="center" onmouseout="hideDropDown();" onmouseover="showDropDown('showcase');"><img id="showcase_image" src="http://www.iscripts.com/images/showcase.jpg" width="90" height="20"></td>
+                  <td width="5"><img id="spacer_image_support" src="http://www.iscripts.com/images/separator.gif" width="5" height="20"></td>
+                  <td width="114" align="center" onmouseout="hideDropDown();" onmouseover="showDropDown('support');"><img id="support_image" src="http://www.iscripts.com/images/support.jpg" width="90" height="20"></td>
+                  <td width="5"><img id="spacer_image_contactus" src="http://www.iscripts.com/images/separator.gif" width="5" height="20"></td>
+				  <td width="114" align="center" onmouseout="hideDropDown();" onmouseover="showDropDown('contactus');"><img id="contactus_image" src="http://www.iscripts.com/images/contactus.jpg" width="90" height="20"></td>
+                  <td width="5"><img id="spacer_image_affiliate" src="http://www.iscripts.com/images/separator.gif" width="5" height="20"></td>
+                  <td width="114" align="center" onmouseout="hideDropDown();" onmouseover="showDropDown('affiliate');"><img id="affiliate_image" src="http://www.iscripts.com/images/affiliates.jpg" width="90" height="20"></td>
+                  <td width="5"><img id="spacer_image_company" src="http://www.iscripts.com/images/separator.gif" width="5" height="20"></td>
+				  <td width="114" align="center" onmouseout="hideDropDown();" onmouseover="showDropDown('company');"><img id="company_image" src="http://www.iscripts.com/images/company.jpg" width="90" height="20"></td>
 				  <td width="3"><img src="http://www.iscripts.com/images/separator.gif" width="3" height="0"></td>
               </tr>
 </tbody></table>
+
               <table width="100%" border="0" cellspacing="0" cellpadding="0">
                   <tbody><tr>
                     <td background="http://www.iscripts.com/images/dotline.jpg"><img src="http://www.iscripts.com/images/spacer2.jpg" width="1" height="1"></td>
@@ -263,12 +522,20 @@ function changeBG(){
                   <tr>
 				    <td width="124" align="center" colspan="3"><img src="http://www.iscripts.com/images/seperatorh.gif" height="1"></td>
 			    </tr>
- <tr>
+ 				<tr>
 				    <td width="5"><img src="http://www.iscripts.com/images/separator1.gif" width="5" height="20"></td>
 					<td width="114" class="dropmenu" style="background-color:#FFFFFF;" onmouseover="this.style.backgroundColor='FFBA00'" onmouseout="this.style.backgroundColor='#FFFFFF'">&nbsp;&nbsp;<a href="http://www.iscripts.com/bugreport.php" class="dropmenu">BUG REPORT</a></td>
 				    <td width="5"><img src="http://www.iscripts.com/images/separator1.gif" width="5" height="20"></td>
                   </tr>
                   <tr>
+				    <td width="124" align="center" colspan="3"><img src="http://www.iscripts.com/images/seperatorh.gif" height="1"></td>
+			    </tr>
+				<tr>
+				    <td width="5"><img src="http://www.iscripts.com/images/separator1.gif" width="5" height="20"></td>
+					<td width="120" class="dropmenu" style="background-color:#FFFFFF;" onmouseover="this.style.backgroundColor='FFBA00'" onmouseout="this.style.backgroundColor='#FFFFFF'">&nbsp;&nbsp;<a href="http://www.iscripts.com/contactus.php" class="dropmenu">CONTACT US</a></td>
+				    <td width="5"><img src="http://www.iscripts.com/images/separator1.gif" width="5" height="20"></td>
+                  </tr>
+				 <tr>
 				    <td width="124" align="center" colspan="3"><img src="http://www.iscripts.com/images/seperatorh.gif" height="1"></td>
 			    </tr>
 				</tbody></table>
@@ -386,63 +653,28 @@ function changeBG(){
                         </tbody></table>
                           <table width="100%" border="0" cellspacing="0" cellpadding="10">
                             <tbody><tr>
-                              <td align="right"><table width="100%" border="0" cellpadding="2" cellspacing="0" class="maintext">
-                                
-                                  <tbody><tr>
-                                    <td width="12%" align="right"><img src="http://www.iscripts.com/images/bullet.jpg" width="6" height="5"></td>
-                                           										     <td width="88%" align="left"><a class="maintext" href="http://www.iscripts.com/productlistingdetail.php?productid=2" style="text-decoration:none">Image Gallery</a></td>
-											
-
-
-                                  </tr>
-								 
+                              <td align="right">
+							  	<table width="100%" border="0" cellpadding="2" cellspacing="0" class="maintext">
+                                 <tbody><tr>
+                                    <td width="14%" align="right"><img src="http://www.iscripts.com/images/bullet.jpg" width="6" height="5"></td>
+                                    <td width="86%" align="left"><a class="maintext" href="installation.php" style="text-decoration:none">Installation</a></td>
+                                  </tr>	
                                   <tr>
-                                    <td width="12%" align="right"><img src="http://www.iscripts.com/images/bullet.jpg" width="6" height="5"></td>
-                                           										     <td width="88%" align="left"><a class="maintext" href="http://www.iscripts.com/productlistingdetail.php?productid=4" style="text-decoration:none">MultiCart</a></td>
-											
-
-
-                                  </tr>
-								 
-                                  <tr>
-                                    <td width="12%" align="right"><img src="http://www.iscripts.com/images/bullet.jpg" width="6" height="5"></td>
-                                           										     <td width="88%" align="left"><a class="maintext" href="http://www.iscripts.com/productlistingdetail.php?productid=5" style="text-decoration:none">DirectoryBrowsing</a></td>
-											
-
-
-                                  </tr>
-								 
-                                  <tr>
-                                    <td width="12%" align="right"><img src="http://www.iscripts.com/images/bullet.jpg" width="6" height="5"></td>
-                                           										     <td width="88%" align="left"><a class="maintext" href="http://www.iscripts.com/productlistingdetail.php?productid=9" style="text-decoration:none">EasyCreate</a></td>
-											
-
-
-                                  </tr>
-								 
-                                  <tr>
-                                    <td width="12%" align="right"><img src="http://www.iscripts.com/images/bullet.jpg" width="6" height="5"></td>
-                                           										     <td width="88%" align="left"><a class="maintext" href="http://www.iscripts.com/productlistingdetail.php?productid=11" style="text-decoration:none">eSwap</a></td>
-											
-
-
-                                  </tr>
-								 
-                                  <tr>
-                                    <td width="12%" align="right"><img src="http://www.iscripts.com/images/bullet.jpg" width="6" height="5"></td>
-                                           
-
-											<td width="88%" align="left"><a target="_blank" class="maintext" href="http://www.supportpro.net/" style="text-decoration:none">SupportPRO SupportDesk</a></td>
-											
-
-
-                                  </tr>
-								 
-
-
-                              </tbody></table></td>
+                                    <td width="14%" align="right"><img src="http://www.iscripts.com/images/bullet.jpg" width="6" height="5"></td>
+                                    <td width="86%" align="left"><a class="maintext" href="custamization.php" style="text-decoration:none">Customization</a></td>
+                                  </tr>	
+								  <tr>
+                                    <td width="14%" align="right"><img src="http://www.iscripts.com/images/bullet.jpg" width="6" height="5"></td>
+                                    <td width="86%" align="left"><a class="maintext" href="customdevelopment.php" style="text-decoration:none">Custom Programming</a></td>
+                                  </tr>	
+							</tbody></table></td>
                             </tr>
                           </tbody></table>
+						  <table cellpadding="0" cellspacing="0" border="0" width="100%">
+							   <tbody><tr>
+								 <td><img src="http://www.iscripts.com/images/subheadingflip.gif"></td>
+							  </tr>
+						  </tbody></table>
                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
                             <tbody><tr>
                               <td align="left"><img src="http://www.iscripts.com/images/productsnew.gif" width="170" height="50"></td>
@@ -454,6 +686,14 @@ function changeBG(){
                                  
                                   <tbody><tr>
                                     <td width="12%" align="right"><img src="http://www.iscripts.com/images/bullet.jpg" width="6" height="5"></td>
+                                    										     <td width="88%" align="left"><a class="maintext" href="http://www.iscripts.com/productlistingdetail.php?productid=9" style="text-decoration:none">iScripts EasyCreate</a></td>
+											
+
+
+                                  </tr>
+								 
+                                  <tr>
+                                    <td width="12%" align="right"><img src="http://www.iscripts.com/images/bullet.jpg" width="6" height="5"></td>
                                     
 
 											<td width="88%" align="left"><a target="_blank" class="maintext" href="http://www.supportpro.net/" style="text-decoration:none">SupportPRO SupportDesk</a></td>
@@ -464,15 +704,7 @@ function changeBG(){
 								 
                                   <tr>
                                     <td width="12%" align="right"><img src="http://www.iscripts.com/images/bullet.jpg" width="6" height="5"></td>
-                                    										     <td width="88%" align="left"><a class="maintext" href="http://www.iscripts.com/productlistingdetail.php?productid=2" style="text-decoration:none">Image Gallery</a></td>
-											
-
-
-                                  </tr>
-								 
-                                  <tr>
-                                    <td width="12%" align="right"><img src="http://www.iscripts.com/images/bullet.jpg" width="6" height="5"></td>
-                                    										     <td width="88%" align="left"><a class="maintext" href="http://www.iscripts.com/productlistingdetail.php?productid=9" style="text-decoration:none">EasyCreate</a></td>
+                                    										     <td width="88%" align="left"><a class="maintext" href="http://www.iscripts.com/productlistingdetail.php?productid=2" style="text-decoration:none">iScripts EasySnaps</a></td>
 											
 
 
@@ -480,6 +712,31 @@ function changeBG(){
 								                               </tbody></table></td>
                             </tr>
                           </tbody></table>
+						  <table cellpadding="0" cellspacing="0" border="0" width="100%">
+							   <tbody><tr>
+								 <td><img src="http://www.iscripts.com/images/subheadingflip.gif"></td>
+							  </tr>
+						  </tbody></table>
+						  
+						  <table width="100%" border="0" cellspacing="0" cellpadding="10">
+                            <tbody><tr>
+                              <td align="right"><table width="100%" border="0" cellpadding="2" cellspacing="0" class="maintext">
+                                  <tbody><tr>
+                                    <td width="12%" align="right"><img src="images/bullet.jpg" width="6" height="5"></td>
+                                    <td width="88%" align="left"><a class="maintext" href="index.php" style="text-decoration:none">iScripts Home</a></td>
+                                  </tr>
+                                  <tr>
+                                    <td align="right"><img src="images/bullet.jpg" width="6" height="5"></td>
+                                    <td align="left"><a class="maintext" href="faq.php" style="text-decoration:none">FAQ</a></td>
+                                  </tr>
+                                   <tr>
+                                    <td align="right"><img src="images/bullet.jpg" width="6" height="5"></td>
+                                    <td align="left"><a class="maintext" href="contactus.php" style="text-decoration:none">Contact Us</a></td>
+                                  </tr>
+                              </tbody></table></td>
+                            </tr>
+                          </tbody></table>
+						  
                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
                             <tbody><tr>
                               <td align="left"><img src="http://www.iscripts.com/images/otherareas.gif" width="170" height="50"></td>
@@ -490,15 +747,15 @@ function changeBG(){
                               <td align="right"><table width="100%" border="0" cellpadding="2" cellspacing="0" class="maintext">
                                   <tbody><tr>
                                     <td width="12%" align="right"><img src="http://www.iscripts.com/images/bullet.jpg" width="6" height="5"></td>
-                                    <td width="88%" align="left"><a class="maintext" target="new" style="text-decoration:none" href="http://www.musicclick.com">MusicClick</a></td>
+                                    <td width="88%" align="left"><a class="maintext" style="text-decoration:none" href="http://www.supportpro.com">SupportPRO</a></td>
+                                  </tr>
+								  <tr>
+                                    <td align="right"><img src="http://www.iscripts.com/images/bullet.jpg" width="6" height="5"></td>
+                                    <td align="left"><a class="maintext" href="http://www.armia.com" style="text-decoration:none">Armia Systems, Inc</a></td>
                                   </tr>
                                   <tr>
                                     <td align="right"><img src="http://www.iscripts.com/images/bullet.jpg" width="6" height="5"></td>
-                                    <td align="left"><a class="maintext" target="new" style="text-decoration:none" href="http://www.supportpro.com">SupportPRO</a></td>
-                                  </tr>
-                                  <tr>
-                                    <td align="right"><img src="http://www.iscripts.com/images/bullet.jpg" width="6" height="5"></td>
-                                    <td align="left"><a class="maintext" target="new" style="text-decoration:none" href="http://www.newbiesite.com">NewbieSite</a></td>
+                                    <td align="left"><a class="maintext" style="text-decoration:none" href="http://www.secure.newbiesite.com">NewbieSite</a></td>
                                   </tr>
                               </tbody></table></td>
                             </tr>
@@ -507,7 +764,12 @@ function changeBG(){
 
 						  </td>
                       </tr>
-                    </tbody></table>                   	</td>
+                    </tbody></table>
+					<table cellpadding="0" cellspacing="0" border="0" width="100%">
+							   <tbody><tr>
+								 <td><img src="http://www.iscripts.com/images/subheadingflip.gif"></td>
+							  </tr>
+						  </tbody></table>                   	</td>
                   </tr>
                 </tbody></table>
                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -572,10 +834,11 @@ function changeBG(){
      <td width="10" valign="top" background="http://www.iscripts.com/images/bordershadowrigt.jpg"><img src="http://www.iscripts.com/images/spacer.gif" width="10" height="3"></td>
    </tr>
  </tbody></table>
- <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+ <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
 <script type="text/javascript">
-_uacct = "UA-251426-7";
-urchinTracker();
+  _uacct="UA-251426-7";
+  urchinTracker('');
 </script>
 
 </body></html>
