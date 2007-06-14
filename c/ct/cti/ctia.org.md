@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ctia.org privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207171813id_/http%3A//www.ctia.org/content/index.cfm/AID/10058) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctia.org privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614150222id_/http%3A//www.ctia.org/content/index.cfm/AID/10058) for the most accurate reproduction.*
 
-# CTIA - The Wireless Association®
+# CTIA.ORG Website Privacy Policy
 
 CTIA is committed to protecting the privacy of CTIA.ORG® users personal information. This privacy statement applies with respect to the information that CTIA collects from its CTIA.ORG® Website, located at [www.CTIA.ORG](http://www.ctia.org/).  Amendments to this privacy statement will be posted at this URL and will be effective when posted. Your continued use of this site following the posting of any amendment, modification or change shall constitute your acceptance thereof.
 
