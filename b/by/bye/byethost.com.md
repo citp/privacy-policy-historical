@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the byethost.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207034031id_/http%3A//byethost.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the byethost.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615002427id_/http%3A//www.byethost.com/privacy.php) for the most accurate reproduction.*
 
 # ByetHost.com ◊ Free web Hosting
 
@@ -19,14 +19,14 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
 
-  * You can send an email to [support@Byethost.com](mailto:support@byethost.com)
+  * You can contact us at http://yoursupportgroup.com 
 
 
 
 This site gives users the following options for changing and modifying information previously provided. 
 
-  * Email [support@Byethost.com](mailto:support@byethost.com)
+  * You can contact us at http://yoursupportgroup.com 
 
 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can email [support@Byethost.com](mailto:support@byethost.com)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, You can contact us at http://yoursupportgroup.com
