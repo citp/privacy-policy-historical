@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the egg2.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019134418id_/http%3A//egg2.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egg2.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614031446id_/http%3A//egg2.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy
+# Egg2 Free Online Games - Privacy Policy
 
-**  
-Egg2's Online Privacy Policy**
+**Egg2's Online Privacy Policy**
 
 This Policy relates only to Egg2's online information collection and use practices. At Egg2 we recognize that many consumers who visit our web site are concerned about any information they provide us on-line and how we maintain and use this information. To address these concerns and to demonstrate our commitment to privacy especially for children who visit the site, we have developed and implemented this Privacy Policy. This Policy relates only to our online information collection and use practices. As this policy may change from time to time, we encourage you to periodically check it. 
 
@@ -14,7 +13,7 @@ We use outside ad companies to display ads on our site. These ads may contain co
 
 The site fully agrees and complies to [COPPA](http://www.ftc.gov/bcp/conline/pubs/buspubs/coppa.htm) rules and policies.
 
-Please [](mailto:paul@egg2.com) if you have any questions.
+Please [](mailto:fetchfido@gmail.com) if you have any questions.
 
 \---------------------------------------------------------------------
 
