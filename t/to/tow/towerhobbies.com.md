@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the towerhobbies.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205024832id_/http%3A//towerhobbies.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the towerhobbies.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614113735id_/http%3A//towerhobbies.com/help/privacy.html) for the most accurate reproduction.*
 
 # Your Privacy
 
-[](https://web.archive.org/web/20061205024832id_/http%3A//towerhobbies.com/index.html)  
+[](https://web.archive.org/web/20070614113735id_/http%3A//towerhobbies.com/index.html)  
 **800-637-6050** |  |   
 ---|---|---  
   
@@ -16,7 +16,7 @@ When magazine subscriptions are purchased, we will supply the customer's contact
 
 We use your IP address to help diagnose problems with our server, administer our Web site and to provide security. Our site uses "cookies" to keep track of your shopping cart contents. 
 
-  * Whenever sensitive personal or financial information is transmitted, it is sent via a [secured connection](https://web.archive.org/web/20061205024832id_/http%3A//towerhobbies.com/help/security.html) directly to our mainframe computer using secure sockets layer (SSL) technology. This is the most successfully used method of ensuring private, secure transmission of personal information over the Internet. 
+  * Whenever sensitive personal or financial information is transmitted, it is sent via a [secured connection](https://web.archive.org/web/20070614113735id_/http%3A//towerhobbies.com/help/security.html) directly to our mainframe computer using secure sockets layer (SSL) technology. This is the most successfully used method of ensuring private, secure transmission of personal information over the Internet. 
   * E-mail addresses are collected only for the purpose of contacting you in the future. We WILL NOT sell or rent your e-mail address to other companies or individuals. 
   * We do not collect the personal information for children under the age of 13. We are prohibited from conditioning a child's participation in an activity on the child disclosing more personal information than is reasonably necessary. In cases where we have inadvertently collected personal information of a child, the parent can always review this information, choose to have this information deleted from our records and refuse to permit further collection or use of this information. 
   * We do occasionally share portions of our customer postal mailing list with trusted and approved high-quality companies. We choose these companies on a very high standard and will only allow postal mailings for offers which we feel you may be interested in. _We never sell or rent e-mail addresses, phone numbers or financial information._
