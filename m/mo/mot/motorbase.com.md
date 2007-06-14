@@ -1,148 +1,51 @@
-> *The following text is extracted and transformed from the motorbase.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602065521id_/http%3A//www.motorbase.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorbase.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614223545id_/http%3A//www.motorbase.com/content/Motorbase/About%2520Us/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Motorbase
 
-  
-|   
-|  |   
-|   
-  
----|---  
-Directories  |   
-  
-[Clubs](http://www.motorbase.com/search/club.ehtml)  
-[Engines](http://www.motorbase.com/search/engine.ehtml)  
-[Manufacturers](http://www.motorbase.com/directory/manufacturer/index.html)  
-[Models of car](http://www.motorbase.com/search/make_and_model.ehtml)  
-[Personalities](http://www.motorbase.com/search/people.ehtml)  
-[Pictures](http://www.motorbase.com/search/picture.ehtml)  
-  
-|   
-  
----|---  
-Contribute  |   
-  
-[Send us a message](http://www.motorbase.com/submit/feedback.ehtml)  
-[Suggest a vehicle](http://www.motorbase.com/submit/vehicle.ehtml)  
-[Suggest a club](http://www.motorbase.com/submit/club.ehtml)  
-[Suggest a supplier](http://www.motorbase.com/submit/club.ehtml)  
-[Submit a picture](http://www.motorbase.com/submit/upload.ehtml)  
-[Place a classified ad](http://classifieds.motorbase.com/placead.ehtml?o=1850876091)  
-  
-|   
-  
----|---  
-Site Details  |   
-  
-[About Motorbase](http://www.motorbase.com/about/index.html)  
-[Contact Details](http://www.motorbase.com/about/contact.html)  
-[History of the Site](http://www.motorbase.com/about/history.html)  
-[Privacy Policy](http://www.motorbase.com/privacy/index.html)  
-[](http://www.russellsharpe.co.uk/)  
-  
-|   
-|   
-|   
-| 
+**Who we are  
+**  
+In this Privacy Policy references to "we" and "us" are to Classic Vehicles Limited trading as [www.motorbase.com](http://www.motorbase.com/)  Company Registration No.3840299 Reg. office: 20 Havelock Road, Hastings, TN34 1BP 
 
-Privacy Policy
+**What information we collect and how  
+**  
+The information we collect via this website may include: 
 
-**Motorbase** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ Motorbase ](http://www.motorbase.com/)
+(1) Any personal details you type in and submit, such as name, address, email address, etc. 
 
-Information Automatically Logged 
+(2) Data which allows us to recognise you, your preferences and how you use this website. This saves you from re-entering information when you return to the site. This data is collected by cookies from your navigation around the site. A cookie is a small amount of data which we send to your computer. The data is then stored on your browser or hard disk. Most web browsers can be set to prevent you from receiving new cookies, notify you before accepting cookies or disable cookies altogether. Details about this can normally be found in the Help facility provided with your browser. If you disable cookies, you will not be able to receive personalised facilities and your progress to check out may take longer. The cookies store information only for as long as you are viewing the website. If you do not want your visits to our website to be monitored in this way you can opt-out by clicking here. 
 
-We use your IP address to help identify you and your shopping cart. Your IP address is also used to gather broad demographic information. 
+(3) Your IP address (this is your computer’s individual identification number) which is automatically logged by our web server. This is used to note your interest in our website. 
 
-Cookies 
+(4) Your preferences and use of email updates, recorded by emails we send you (if you select to receive email updates on products and offers). 
 
-Our Site uses cookies to keep track of your shopping cart, and to make sure you don't see the same ad repeatedly. We also use cookies to deliver content specific to your interests, and to save your password so you don't have to re-enter it each time you visit our site. 
+**What we do with your information  
+**  
+Any personal information we collect from you will be used in accordance with the Data Protection Act 1998 and other applicable laws. The details we collect will be used:- 
 
-Advertisers 
+(1) to process your order, to process any application for finance or a mobile phone contract etc., to maintain guarantee records and to provide after-sales service (we may pass your details to another organisation to supply/deliver products or services you have purchased and/or to provide after-sales service); 
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
+(2) to carry out security checks (this may involve passing your details to a credit reference agency, who will check details we give them against public and private databases and may keep a record of that check to use in future security checks - this helps to protect you and us from fraudulent transactions); and 
 
-Registration Forms 
+(3) to comply with legal requirements
 
-Our site's registration form requires users to give us contact information (like their name, email, and postal address), unique identifiers (like their social security number), and demographic information (like their zip code, age, or income level). 
+We would also like to inform you of various promotions, goods and services that may be of interest to you.  You may be contacted by post, email, telephone, SMS or such other means as we regard as appropriate, including new technology. If you wish to receive these communications, please tick the "Yes" box when entering your personal details. You may unsubscribe at a later date, if you wish - see "Your rights" section below. 
 
-Contact information from the registration forms is used to ship purchases, information about our company. The customer's contact information is also used to get in touch with the customer when necessary. 
+**Your rights**
 
-Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+(1) You can ask us to update your personal information by emailing precise details of your request to [admin@motorbase.com](mailto:admin@motorbase.com). Please ensure you type "update" in the subject line of your email. 
 
-Unique identifiers (such as social security numbers) are collected from Web site visitors to verify the user's identity, and for use as account numbers in our record system. 
+(2) You can ask us not to send you future marketing communications. To do this, simply email [admin@motorbase.com](mailto:admin@motorbase.com). Type "No Marketing" in the subject line and then the following in the main text:-   
+your full name   
+your postal address, including postcode   
+your email address   
+We will then suppress your data from all direct marketing, although we will still keep it for processing your order and fulfilling customer service and after sale obligations.   
+Alternatively, you can post your request to the address in (3) below. 
 
-Demographic and profile data is also collected at our site.   
-This information is shared with advertisers on an aggregate basis. We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences. 
+(3) You also have the right to request a copy of any personal information we hold about you. To do this, simply write to us at the following address, enclosing a cheque for £5 payable to Classic Vehicles Ltd to cover our administration costs:-   
+Classic Vehicles Ltd    
+PO Box 112,  
+Hailsham  
+BN27 4WA
 
-Order Forms 
-
-Our site uses an order form for customers to request information, products, and services. We collect contact information (like their email address), financial information (like their account or credit card numbers), and demographic information (like their zip code, age, or income level). 
-
-Contact information from the order forms is used to ship purchases, information about our company. The customer's contact information is also used to get in touch with the visitor when necessary. 
-
-Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
-
-Financial information that is collected is used to bill the user for products and services. 
-
-Demographic and profile data is also collected at our site.   
-This information is shared with advertisers on an aggregate basis. We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences. 
-
-Surveys 
-
-Our online surveys ask visitors for contact information (like email address), and demographic information (like zip code, age, or income level). 
-
-Contact information from the surveys is used to ship purchases, information about our company. The customer's contact information is also used to get in touch with the visitor when necessary. 
-
-Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
-
-Demographic and profile data is also collected at our site.   
-This information is shared with advertisers on an aggregate basis. We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences. 
-
-Contests 
-
-We run contests on our site in which we ask visitors for contact information (like email address), and demographic information (like zip code, age, or income level). 
-
-Contact information from the contests is used to ship purchases, information about our company. The customer's contact information is also used to get in touch with the visitor when necessary. 
-
-Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
-
-Demographic and profile data is also collected at our site.   
-This information is shared with advertisers on an aggregate basis. We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences. 
-
-External Links 
-
-This site contains links to other sites. **Motorbase** is not responsible for the privacy practices or the content of such Web sites. 
-
-Public Forums 
-
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
-
-Security 
-
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. 
-
-Children's Guidelines 
-
-We care about children and understand that they have special privacy needs. Therefore, we have adopted the following privacy policy regarding children: 
-
-  1. We will NOT collect, use, or distribute to third parties personally identifiable information without prior verifiable parental consent. 
-  2. We will NOT give the child access to unmonitored chat rooms, message boards, email accounts, or other services that would give the child the ability to publicly post or otherwise distribute personally identifiable information without prior verifiable parental consent 
-  3. When verifiable parental consent is not obtained, we will only use the online contact information (such as email) to: 
-    1. Respond directly to the child's request on a one-time basis and not use that information to re-contact the child for other purposes. 
-    2. Request the name or online contact information of a parent for the purpose of obtaining verifiable parental consent or providing parental notification. 
-    3. Respond more than once directly to a specific request from a child (such as in the case where a child requests a newsletter subscription) and not used to re-contact the child for other purposes. We will use our best efforts to provide parental notification, which will include the nature and intended use as well as an opportunity for the parent to prevent the use of the information and participation in the activity. 
-  4. We will NOT entice the child to divulge more information than is needed to participate in any activity, game, or service. 
-  5. We will provide the parent a description of the specific types of a personally identifiable information collected from their child upon request. We will allow the parent to refuse further use or future online collection of personally identifiable information and provide a way for a parent to obtain any personally identifiable information collected from their child. 
-  6. We will provide notice to children in age appropriate terms of what personally identifiable information is to be collected. 
-  7. We will NOT provide any links to Web sites that are unsuitable for children. 
-  8. We will encourage children to get their parent's permission before sharing personal information online. 
-
-
-
-##  Contacting the Web Site 
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
-
-
-[ motorbase@motorbase.com ](mailto:motorbase@motorbase.com) |  |    
-
+ **Other Websites**   
+This privacy policy only covers this website. Any other websites which may be linked to by our website are subject to their own policy, which may differ from ours. 
