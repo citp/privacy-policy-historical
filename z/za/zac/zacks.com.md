@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zacks.com privacy policy that was archived on 2006-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061014230124id_/http%3A//www.zacks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zacks.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614232834id_/http%3A//www.zacks.com/privacy.php) for the most accurate reproduction.*
 
 # Zacks.com - - Privacy Policy
 
@@ -16,7 +16,7 @@ During the Zacks.com registration process, there is a checked box that is accomp
 
 **Zacks Investment Research Postal Marketing List**
 
-Everyone who submits personal postal information to Zacks Investment Research online will receive special direct mail offers from outside marketers that may be of interest to you. As with our other lists, we "rent" our postal marketing list and do not sell your information to third parties. Zacks Investment Research controls the process through an agreement with a postal list service bureau, which handles the distribution of direct mail offers from Zacks Investment Research and its business partners. Outside marketers are only given the right to send you a piece of direct mail through our bureau with our approval. Zacks Investment Research is selective about the companies we permit to send your offers and the offers being sent. Naturally, you can unsubscribe from these direct mail offers at any time by calling us at 1-800-767-3771 ext. 339 or emailing your request to [support@zacks.com](mailto:support@zacks.com). 
+Everyone who submits personal postal information to Zacks Investment Research online will receive special direct mail offers from outside marketers that may be of interest to you. As with our other lists, we "rent" our postal marketing list and do not sell your information to third parties. Zacks Investment Research controls the process through an agreement with a postal list service bureau, which handles the distribution of direct mail offers from Zacks Investment Research and its business partners. Outside marketers are only given the right to send you a piece of direct mail through our bureau with our approval. Zacks Investment Research is selective about the companies we permit to send your offers and the offers being sent. Naturally, you can unsubscribe from these direct mail offers at any time by calling us at 1-800-767-3771 ext. 9339 or emailing your request to [support@zacks.com](mailto:support@zacks.com). 
 
 **Zacks Premium**
 
