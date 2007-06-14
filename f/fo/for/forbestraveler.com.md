@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the forbestraveler.com privacy policy that was archived on 2006-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061025211937id_/http%3A//www.forbestraveler.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forbestraveler.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615002948id_/http%3A//www.forbestraveler.com/privacy) for the most accurate reproduction.*
 
-# Forbes Traveler
+# Privacy Policy, Policy Statement - ForbesTraveler.com
 
 [HOME](https://web.archive.org/)
 
@@ -77,6 +77,6 @@ Your information is stored on ForbesTraveler.com's servers located in the United
 **How Will I Know if the Privacy Policy Is Changed?  
 **This statement may change from time to time, so please check back periodically. If we are going to be using the information collected from users in a manner materially different from that stated at the time of collection, we will send affected users written notice of the change by e-mail. 
 
-© 2006 Forbes.com LLC. All Rights Reserved. 
+© 2007 Forbes.com LLC. All Rights Reserved. 
 
 Revised and posted as of August 31, 2006 
