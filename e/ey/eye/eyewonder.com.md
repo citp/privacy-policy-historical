@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyewonder.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208143319id_/http%3A//www.eyewonder.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyewonder.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614190924id_/http%3A//www.eyewonder.com/privacy.cfm) for the most accurate reproduction.*
 
 # Rich Media Ads, Video Ads, Flash Ads, Online Advertising - EyeWonder, Inc.
 
