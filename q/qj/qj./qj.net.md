@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qj.net privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209204415id_/http%3A//www.qj.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qj.net privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615114929id_/http%3A//www.qj.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - PS3 News, Wii News, Xbox 360 News, PSP News and more!
 
