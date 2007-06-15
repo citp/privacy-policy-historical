@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interactivetools.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206115954id_/http%3A//www.interactivetools.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interactivetools.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615181859id_/http%3A//www.interactivetools.com/about/privacy.html) for the most accurate reproduction.*
 
 # interactivetools.com - Privacy Policy
 
@@ -19,9 +19,9 @@ We take your privacy very seriously. In order for you to better understand our d
 
 > It is very important for us to keep accurate purchase records. During this process, we ask for information such as name, company name, e-mail address, etc. This data is used only to identify you in order to give you the full benefits of registration including free technical support and upgrade eligibility. We do not make this information available to any third parties. 
 
-**4\. During Software Installation**
+**4\. During Software Usage**
 
-> The software will electronically register itself during installation and confirm that you've entered a valid "Product ID". The registration process only sends the license information that you've entered (Company Name, Domain Name, Product ID) and information about the software installed (Program Name, Version, Install URL, Checksum). No other type of information is sent. 
+> The software will electronically register itself during installation, relocation, and periodically during usage to confirm that you've entered a valid "Product ID". The registration process only sends the license information that you've entered (Company Name, Domain Name, Product ID) and information about the software installed (Program Name, Version, Install URL, Checksum). No other type of information is sent. 
 
 **5\. Cookies**
 
