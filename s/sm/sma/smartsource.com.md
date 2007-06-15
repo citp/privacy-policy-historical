@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartsource.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231142858id_/http%3A//rt2.smartsource.com/aboutus/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartsource.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615054050id_/http%3A//rt2.smartsource.com/aboutus/privacy.aspx) for the most accurate reproduction.*
 
 # SmartSource: Grocery Coupons
 
