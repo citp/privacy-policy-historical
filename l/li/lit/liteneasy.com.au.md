@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the liteneasy.com.au privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211114938id_/http%3A//www.liteneasy.com.au/home/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liteneasy.com.au privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615022658id_/http%3A//www.liteneasy.com.au/home/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Lite n' Easy - Home
+# Lite n' Easy - Privacy Policy
 
 |  |  |  |  |  |   
   |   |    
