@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frightcatalog.com privacy policy that was archived on 2006-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061011192635id_/http%3A//www.frightcatalog.com/Site/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frightcatalog.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615144211id_/http%3A//www.frightcatalog.com/Site/PrivacyPolicy) for the most accurate reproduction.*
 
 # Halloween Store - Decorations, Costumes, Masks and more at Frightcatalog.com
 
