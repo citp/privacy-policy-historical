@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the abanet.org privacy policy that was archived on 2006-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061229122125id_/http%3A//www.abanet.org/privacy_statement.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the abanet.org privacy policy that was archived on 2007-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070615045431id_/http%3A//www.abanet.org/privacy_statement.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -82,6 +82,7 @@ if(firstname == ""){
       <ul>
         <li><a href="/">ABA Home</a></li>
         <li><a href="/join/">Join</a></li>
+		<li><a href="/store/">Web Store</a></li>
         <li><a href="/about/">About the ABA</a></li>
       </ul>
     </div>
@@ -104,41 +105,77 @@ if(firstname == ""){
 		<li><a href="/lawyerlocator/searchlawyer.html">Lawyer Locator</a></li>
 	</ul>
 </div>
+<!-- Ad JavaScript Goes Here-->
+<div align="center"><a href="/yld/101practiceseries/101practiceseries.shtml"><img src="/images/ads/yldad.jpg" width="120" height="240" alt="ABA Young Lawyers 101 Practice Series" border="0"></a></div>
 
 
   </div>
   <!--End Sidebar with </div> directly above-->
 
   <!-- Begin Search DO NOT REMOVE-->
-  
-  <!-- NEW GOOGLE SEARCH SCRIPT -->
- 
- <div id="search" style="height: 50px; ">
+  <!-- MODIFIED 5/22/2007 CHANG AHN - add entity site filter to search box -->
+
+ <div id="search" style="height: 50px;">
     <ul id="searchemail">
-      <li id="searchbox">         <form name="gs" method="GET" action="http://search.abanet.org/search">
-		 <input type="hidden" name="sort" value="date:D:L:d1">
-					<input type="hidden" name="access" value="a">
-                  <input type="hidden" name="output" value="xml_no_dtd">
-                  <input type="hidden" name="ie" value="UTF-8">
-                  <input type="hidden" name="oe" value="UTF-8">
-                  <input type="hidden" name="client" value="default_frontend">
-                  <input type="hidden" name="proxystylesheet" value="default_frontend">
-                  <table border="0" cellspacing="0" cellpadding="2">
-                    <tbody><tr>
-                      <td><label>Search:</label>
-                          <input type="text" name="q" size="20" maxlength="256" value="" style="font-size:10px">
-                          <select name="site" style="font-size:10px">
-                            <option value="website">Web Site</option>
-                          </select>
-                          <input type="submit" name="btnG" value="Go" align="middle" style="font-size:10px "></td>
-                      <td><span style="font-size: 80%;"><a href="http://search.abanet.org/search?access=a&amp;entqr=0&amp;sort=date%3AD%3AS%3Ad1&amp;ud=1&amp;output=xml_no_dtd&amp;site=website&amp;client=default_frontend&amp;proxystylesheet=default_frontend&amp;q=law&amp;proxycustom=%3CADVANCED/%3E">Advanced Search</a> <br>
-                            <a href="http://www.abanet.org/aztopics.html">Topics A-Z</a></span> </td>
-                    </tr>
-                  </tbody></table>
-          
-         </form>
+      <li id="searchbox">         
+<form name="gs" id="gs" method="get" action="http://search.abanet.org/search">
+	<input type="hidden" name="sort" value="date:D:L:d1">
+	<input type="hidden" name="access" value="a">
+	<input type="hidden" name="output" value="xml_no_dtd">
+	<input type="hidden" name="ie" value="UTF-8">
+	<input type="hidden" name="oe" value="UTF-8">
+	<input type="hidden" name="client" value="default_frontend">
+	<input type="hidden" name="proxystylesheet" value="default_frontend">
+	<input type="hidden" name="sort" value="score">
+	
+	<table border="0" cellspacing="0" cellpadding="2">
+		<tbody><tr>
+			<td><label>Search:</label>
+			<input id="q" type="text" name="q" size="20" maxlength="256" value="" style="font-size:10px">
+			<select id="as_sitesearch" name="as_sitesearch" style="font-size:10px">
+				<option value="">Web Site</option>												
+					<script type="text/javascript">
+					<!--
+					/* 5/22/2007 CHANG AHN - entity fitler search*/ 
+					
+					var whereami = window.location.href; // get root level directory
+							
+						 // get root level directory
+					var urlParts = new Array();
+						urlParts = whereami.split("/");
+					//var http_host = urlParts[0] + "//" + urlParts[2];  // resemble http
+					var http_host = urlParts[2];
+					var rootLevelDir = urlParts[3];
+					var q_sitefilter = "";
+					
+					//chedk that the user location is under a root level directory
+					if ((rootLevelDir) && (rootLevelDir != '' )) {
+						var testForExt = /\./;
+						var isWebPage = true;
+								isWebPage = testForExt.test(rootLevelDir);  // test if user is in a root level file.
+						if (! isWebPage) {
+							q_sitefilter = http_host + "/" + rootLevelDir;
+							document.write("<option selected value=\"" + q_sitefilter + "\">This Entity</option>");
+						} else {
+							q_sitefilter = "";
+						}
+					}
+					//-->
+					</script><option selected="" value="web.archive.org/web">This Entity</option> 
+				</select>
+				<input type="submit" name="btnG" value="Go" align="middle" style="font-size:10px ">
+			</td>
+			<td><span style="font-size: 80%;">
+				<a href="http://search.abanet.org/search?access=a&amp;sort=date%3AD%3AL%3Ad1&amp;output=xml_no_dtd&amp;site=default_collection&amp;ie=UTF-8&amp;oe=UTF-8&amp;client=default_frontend&amp;proxystylesheet=default_frontend&amp;ip=10.1.21.51&amp;proxycustom=%3CADVANCED/%3E">Advanced Search</a> 
+			<br>
+			<a href="http://www.abanet.org/aztopics.html">Topics A-Z</a></span> 
+			</td>
+		</tr>
+	</tbody></table>
+	
+ </form>
       </li>
-      <li id="emailprint"><script language="JavaScript">
+    <li id="emailprint"><script language="JavaScript">
 	function pop() {
 		var title = escape(document.title);
 		window.open("/abanet/common/abaelements/emailthis.cfm?title="+title+"&link="+window.location+"", "EmailThis", "resizable=no,scrollbars=yes,width=460,height=470");
@@ -261,7 +298,7 @@ if(firstname == ""){
   <div id="footer">
     <ul id="footernav">
       <li><a href="/aztopics.html" class="footerlink">Topics A-Z</a></li>
-      <li><a href="/store/" class="footerlink">Web Store</a></li>
+      <li><a href="/abastore/index.cfm" class="footerlink">Web Store</a></li>
       <li><a href="/abanet/oc/" class="footerlink">ABA Calendar</a></li>
       <li><a href="/contact/" class="footerlink">Contact ABA</a></li>
     </ul><p>
