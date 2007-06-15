@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mugglenet.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218112228id_/http%3A//mugglenet.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mugglenet.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615112447id_/http%3A//www.mugglenet.com/privacy.shtml) for the most accurate reproduction.*
 
 # MuggleNet | Privacy Policy
 
@@ -30,14 +30,14 @@ By utilizing the layout-changing feature on MuggleNet, you agree to accept a "co
 
 * * *
 
-MuggleNet is an unofficial fan site and the staff has a mortal fear of lawyers - the site isn't here to infringe upon any copyrights or break any laws, it's here to be a resource for Harry Potter fans. E-mail us if you have any questions or concerns. MuggleNet's layout was designed and created by [Navy](mailto:navy_o@hotmail.com).
+MuggleNet is an unofficial Harry Potter fan site. Please [email us](https://web.archive.org/feedback/) if you have any questions or concerns. MuggleNet's original layouts were designed and created by [Navy](mailto:navy_o@hotmail.com). All subsequent layouts by Dylan Spartz.
 
-© 1999-2006 MuggleNet.com. All rights reserved.
+© 1999-2007 MuggleNet.com. All rights reserved.
 
 [Privacy Policy](https://web.archive.org/privacy.shtml) | [COPPA Policy](http://www.mugglenet.com/coppa.shtml) | [Feedback](http://www.mugglenet.com/feedback/) | [Credits](http://www.mugglenet.com/credits.shtml)  
 [Random Addresses](http://www.mugglenet.com/junk.php)
 
-929 muggles currently online
+1,749 muggles currently online
 
   
 
