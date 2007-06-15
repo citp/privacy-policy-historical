@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chat-avenue.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216232731id_/http%3A//www.chat-avenue.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chat-avenue.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615184036id_/http%3A//www.chat-avenue.com/privacy.html) for the most accurate reproduction.*
 
 # #1 Chat Avenue - Privacy Statement
 
@@ -30,5 +30,5 @@ This site makes chat rooms, forums and/or message boards available to its users.
 
 #1 Chat Avenue will never require a user to submit any more personal information other than what is required for activity participation. (such as entering a chat nickname) 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can write us or email us at:   
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can write us an email at:   
 
