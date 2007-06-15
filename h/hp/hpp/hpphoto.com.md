@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hpphoto.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208200615id_/http%3A//www.snapfish.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hpphoto.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615130557id_/http%3A//www.snapfish.com/privacy) for the most accurate reproduction.*
 
 # Snapfish: Privacy Policy
 
