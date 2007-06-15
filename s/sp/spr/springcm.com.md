@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the springcm.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117140206id_/http%3A//www.springcm.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the springcm.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615102402id_/http%3A//www.springcm.com/privacypolicy) for the most accurate reproduction.*
 
 # SpringCM - Powerful Content Management System
 
