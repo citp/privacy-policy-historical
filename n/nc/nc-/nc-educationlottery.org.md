@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nc-educationlottery.org privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205224902id_/http%3A//www.nc-educationlottery.org/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nc-educationlottery.org privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615205818id_/http%3A//www.nc-educationlottery.org/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - North Carolina Education Lottery
 
@@ -15,10 +15,10 @@ We may also retain any information that you voluntarily provide to us, such as y
 
 ## How the Information is Used
 
-Typically, the information automatically collected and voluntarily submitted is used to provide a more personal experience.  We strive to present you with the information, which is most pertinent to your specific needs.  We also use the information to operate and improve our website, to gather information about our products and services, to gather aggregate user and customer information, and to provide information about our products and services. As an example, we may send you an email that describes a product or service that we are offering. 
+Typically, the information automatically collected and voluntarily submitted is used to provide website visitors with a more personal experience and to present them with information that is most pertinent to their specific needs.  We also use the information to operate and improve our website, to gather and provide information about our products and services, and to gather user and customer information.  
 
-Reasonable care will be utilized to ensure that the file(s) that may personally identify you are kept in a secured location.  The files and the data contained in these files are the sole property of the NCEL.  Information contained in these files may be routinely purged at the discretion of the NCEL.
+Reasonable care will be utilized to ensure that files and data contained therein which may personally identify you are kept in a secured location.  However, please be aware that, except as protected by law, such information may be subject to disclosure pursuant to the North Carolina Public Records Act, N.C.G.S. §132-1 et seq.  At the discretion of the NCEL, such files and/or data may also be routinely purged.
 
 ## More Information
 
-If you have questions about the practices of this website, or your interaction with the site, please contact us at: _[website@lotterync.net](mailto:website@lotterync.net)_. 
+If you have questions about the practices of this website, or your interaction with the site, please contact us at: _[WebMaster@lotterync.net](mailto:WebMaster@lotterync.net)_.
