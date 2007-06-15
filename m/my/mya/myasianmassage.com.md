@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myasianmassage.com privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224215245id_/http%3A//myasianmassage.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myasianmassage.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615094113id_/http%3A//www.myasianmassage.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
