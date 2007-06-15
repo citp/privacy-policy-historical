@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the imaging-resource.com privacy policy that was archived on 2006-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061205205945id_/http%3A//www.imaging-resource.com/PRIVACY.HTM) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the imaging-resource.com privacy policy that was archived on 2007-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070615041639id_/http%3A//www.imaging-resource.com/PRIVACY.HTM) for the most accurate reproduction.-->
 
 <html><head><script language="JavaScript" type="text/javascript">
 // If the cookie is not present, begin is set to -1
@@ -20,6 +20,7 @@ if (begin == -1) {
 	}
 }
 </script>
+
 
 
 
@@ -113,14 +114,7 @@ if (begin == -1) {
     <td valign="middle" align="left" bgcolor="#3A3A3A" colspan="3">
     <span class="topads"><!--This file is called from the top of the main pages on the site and displays the top ad. -->
 
-	<iframe src="http://ad.doubleclick.net/adi/N3552.ImagingResource/B2095070.4;sz=728x90;ord=698143?" width="728" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000">
-<SCRIPT language='JavaScript1.1' SRC="http://ad.doubleclick.net/adj/N3552.ImagingResource/B2095070.4;abr=!ie;sz=728x90;ord=698143?">
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://ad.doubleclick.net/jump/N3552.ImagingResource/B2095070.4;abr=!ie4;abr=!ie5;sz=728x90;ord=698143?">
-<IMG SRC="http://ad.doubleclick.net/ad/N3552.ImagingResource/B2095070.4;abr=!ie4;abr=!ie5;sz=728x90;ord=698143?" BORDER=0 WIDTH=728 HEIGHT=90 ALT="Click Here"></A>
-</NOSCRIPT>
-</iframe>
+	<iframe src="http://ad.doubleclick.net/adi/N339.imagingresource/B2289544.4;sz=728x90;ord=45896?" width="728" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000"> <SCRIPT language='JavaScript1.1' SRC="http://ad.doubleclick.net/adj/N339.imagingresource/B2289544.4;abr=!ie;sz=728x90;ord=45896?"> </SCRIPT> <NOSCRIPT> <A HREF="http://ad.doubleclick.net/jump/N339.imagingresource/B2289544.4;abr=!ie4;abr=!ie5;sz=728x90;ord=45896?"> <IMG SRC="http://ad.doubleclick.net/ad/N339.imagingresource/B2289544.4;abr=!ie4;abr=!ie5;sz=728x90;ord=45896?" BORDER=0 WIDTH=728 HEIGHT=90 ALT=""></A> </NOSCRIPT> </iframe>
 
 
 </span>
@@ -132,7 +126,7 @@ if (begin == -1) {
       <table width="135" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr>
           <td background="/ART/bottom.gif" width="137" height="30" valign="middle">
-          <center id="date">Dec.  5, 2006</center></td>
+          <center id="date">Jun. 15, 2007</center></td>
         </tr>
       </tbody></table>
     </td>
@@ -146,7 +140,6 @@ if (begin == -1) {
 	<div class="marker3">Resources</div>
 	<div class="navigation">
 		<ul>
-		<li><h5><strong><font color="#3a3a3a"><a href="http://www.imaging-resource.com/ARTS/GIFT/guide2006.htm" title="Holiday Shopping Guide">Holiday Shopping Guide</a></font></strong></h5></li>
 		<li><h5><font color="#3a3a3a">Digital Cameras</font></h5>
 		<ul>
 		<li><a href="/MFR1.HTM">By Manufacturer</a></li>
@@ -159,11 +152,12 @@ if (begin == -1) {
 		<li><a href="http://www.imaging-resource.com/cgi-bin/m/pl.cgi?cajs" target="_newWindow" onclick="openWindow('http://www.imaging-resource.com/cgi-bin/m/pl.cgi?cajs'); return false;">Find the Best Camera For You</a></li>
 		<li><a href="http://www.photo-forums.com/WebX?14@@.ee6b2a8">Camera Forums</a></li>
 		<li><a href="/ARTS/DRV/DRV.HTM">Camera Drivers</a></li>
-		</ul>
+				<li><a href="http://www.imaging-resource.com/buynow.htm" title="IR Shopping Portal">Support this Site<br>(Use our links)</a>
+		</li></ul>
 		</li>
 		<li><h5><font color="#3A3A3A">Accessories</font></h5>
 			<ul>
-			<li><a href="http://www.slrgear.com">SLRgear.com!</a></li>
+			<li><a href="http://www.slrgear.com/reviews/index.php">Camera Lens Reviews</a></li>
 			<li><a href="/ACCS/BATTS/BATTS.HTM">Batteries</a></li>
 			<li><a href="/ACC1.HTM">Camera Accessories</a></li>
 			<li><a href="/PRINT.HTM">Printers</a></li>
@@ -247,21 +241,24 @@ if (begin == -1) {
 <script language="JavaScript" type="text/javascript">
 <!--
 
-// Select random number from 0 to 99 (100%)
-var num = Math.round(Math.random()*(99));
+ 
+	// Select random number from 0 to 99 (100%)
+	var num = Math.random()*(99);
+	
+	// Select file based on generated number
+	if( num < 55) { // D40, smaller 300 56%
+	
+		var width = 300;
+		var height = 250;
+		var region = 84;
+		showPopUp(width, height, region);
+	} else { // D80, larger 640 44%
+		var width = 640;
+		var height = 480;
+		var region = 86;
+		showPopUp(width, height, region);
+	}
 
-// Select file based on generated number
-if( num < 49 ) { // Olympus 50%
-	var width = 640;
-	var height = 480;
-	var region = 65;
-} else { // Nikon 50%
-	var width = 300;
-	var height = 250;
-	var region = 86;
-}
-
-showPopUp(width, height, region);
 
 function showPopUp(width, height, region) {
 
@@ -285,7 +282,7 @@ function showPopUp(width, height, region) {
 <p align="center"></p><br>
   <br>
 <p align="center"><script src="../../IN/ANTISPAMEMAIL.JS"></script></p>
-<h6 align="left"><b>This document copyright © 1998 - 2006,
+<h6 align="left"><b>This document copyright © 1998 - 2007,
   The Imaging Resource, all rights reserved.</b> Visitors to this site may download
   this document for <i>local, private, non-commercial use</i>. Individuals who
   have <i>themselves</i> downloaded this page may print a copy on their personal
@@ -312,7 +309,7 @@ function showPopUp(width, height, region) {
 	var _rsCG="ir_reviews_revtop_43";
 	var _rsDN="//secure-us.imrworldwide.com/";
 </script>
-<script type="text/javascript" src="/IN/netratings.js"></script><img src="https://secure-us.imrworldwide.com/cgi-bin/m?rnd=1580431650691&amp;ci=us-imaging&amp;cg=ir_reviews_revtop_43&amp;cc=1&amp;sr=800x600&amp;cd=24&amp;lg=en-US&amp;je=n&amp;ck=y&amp;tz=0&amp;si=https%3A//web.archive.org/web/20061205205945id_/http%253A//www.imaging-resource.com/PRIVACY.HTM&amp;rp=" width="1" height="1">
+<script type="text/javascript" src="/IN/netratings.js"></script><img src="https://secure-us.imrworldwide.com/cgi-bin/m?rnd=1580431650376&amp;ci=us-imaging&amp;cg=ir_reviews_revtop_43&amp;cc=1&amp;sr=800x600&amp;cd=24&amp;lg=en-US&amp;je=n&amp;ck=y&amp;tz=0&amp;si=https%3A//web.archive.org/web/20070615041639id_/http%253A//www.imaging-resource.com/PRIVACY.HTM&amp;rp=" width="1" height="1">
 <noscript>
 	<img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-imaging&amp;cg=ir_reviews_revtop_43" alt=""/>
 </noscript>
@@ -353,10 +350,54 @@ function showPopUp(width, height, region) {
     <tbody><tr>
       <td background="/ART/white.gif">
         <p>&nbsp;</p>
-        <p align="center"><iframe src="http://view.atdmt.com/ANY/iview/mgngroly0090000156any/direct/01?click=" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" allowtransparency="true" width="160" height="600">
-<script language="JavaScript" type="text/javascript">
-document.write('<a href="http://clk.atdmt.com/ANY/go/mgngroly0090000156any/direct/01/285424" target="_blank"><img src="http://view.atdmt.com/ANY/view/mgngroly0090000156any/direct/01/285424"/></a>');
-</script><noscript><a href="http://clk.atdmt.com/ANY/go/mgngroly0090000156any/direct/01/285424" target="_blank"><img border="0" src="http://view.atdmt.com/ANY/view/mgngroly0090000156any/direct/01/285424" /></a></noscript></iframe>
+        <p align="center"><script language="javascript" type="text/javascript"> 
+
+    // 
+    // Variable used to reference the external MPA Window. 
+    // Parent document may access the MPA Window's objects from 
+    // this reference. 
+    // 
+    var mpaWindow; 
+
+    function openWindow(url) { 
+        if (! mpaWindow || mpaWindow.closed) { 
+            mpaWindow = window.open(url, "subWindow", 
+                "scrollbars,width=" + newWindowWidth() 
+                + ",height=" + newWindowHeight() + ",resizable"); 
+
+            if (! mpaWindow.opener) { 
+                mpaWindow.opener = window; 
+            } 
+        } else { 
+            // mpaWindow is already opened and focusable 
+            mpaWindow.focus(); 
+        } 
+    } 
+
+    function newWindowWidth() { 
+        var DEFAULT_WIDTH = 785; 
+        if (screen) { 
+            if (DEFAULT_WIDTH > screen.width - 40) { 
+                return screen.width - 40; 
+            } 
+        } 
+        return DEFAULT_WIDTH; 
+    } 
+
+    function newWindowHeight() { 
+        var DEFAULT_HEIGHT = 750; 
+        if (screen) { 
+            if (DEFAULT_HEIGHT > screen.height - 40) { 
+                return screen.width - 40; 
+            } 
+        } 
+        return DEFAULT_HEIGHT; 
+    } 
+
+</script> 
+
+<a href="http://www.myproductadvisor.com/mpa/camera/inputSummary.do?referrer=ir" target="_newWindow" onclick="openWindow('http://www.myproductadvisor.com/mpa/camera/inputSummary.do?referrer=ir'); 
+ return false;"><img src="http://www.imaging-resource.com/ADS/camadvisor5_122x600.gif" width="122" height="600" border="0" alt="IR Camera Advisor"></a>
 
 </p></td>
     </tr>
