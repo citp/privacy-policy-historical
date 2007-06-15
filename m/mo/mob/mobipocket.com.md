@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mobipocket.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219203943id_/http%3A//www.mobipocket.com/EN/MyMobi/Cnil.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobipocket.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615175148id_/http%3A//www.mobipocket.com/en/MyMobi/Cnil.asp%3FLanguage%3DEN) for the most accurate reproduction.*
 
-# Mobipocket.com - eBooks for your PDA and Smartphone, Palm PocketPC Symbian
+# Mobipocket.com - eBooks and ebook reader for your PC, PDA and Smartphone: Palm, Windows mobile, Symbian, Blackberry, or PocketPC.
 
 **What this Privacy Policy Covers**
 
@@ -38,6 +38,6 @@ Mobipocket.com has security measures in place to protect the loss, misuse and al
 
 **Questions**
 
-Mobipocket.com takes its users' privacy concerns seriously. If you believe that Mobipocket.com has not complied with this Online Privacy Policy with respect to your personal information or you have other related inquiries or concerns, you contact Mobipocket.com at [info@mobipocket.com](mailto:info@mobipocket.com)
+Mobipocket.com takes its users' privacy concerns seriously. If you believe that Mobipocket.com has not complied with this Online Privacy Policy with respect to your personal information or you have other related inquiries or concerns, you contact Mobipocket.com at <http://www.mobipocket.com/forum/index.php>
 
 In your correspondence, be sure to include your name, address, and/or email address, and please describe in as much detail as possible the nature of your inquiry or the ways in which you believe that the Mobipocket.com Online Privacy Policy has not been complied with. We will investigate your inquiry or complaint promptly.
