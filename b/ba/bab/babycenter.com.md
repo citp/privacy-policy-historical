@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the babycenter.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629062557id_/http%3A//www.babycenter.com/help/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babycenter.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615061921id_/http%3A//www.babycenter.com/help/aboutus/privacy) for the most accurate reproduction.*
 
 # BabyCenter LLC Privacy Policy
 
 |    
-**Privacy & Security**
+
+
+### Privacy & Security
 
 **Welcome**  
-Welcome to **BabyCenter.com** and **ParentCenter.com** , **baby.com** , and **pregnancy.com** , web sites owned by BabyCenter, L.L.C. This Privacy Policy is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this site. Please be sure to read this entire Privacy Policy before using or submitting information to this site. 
+Welcome to **BabyCenter.com** and **ParentCenter.com** , and **pregnancy.com** , web sites owned by BabyCenter, L.L.C. This Privacy Policy is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this site. Please be sure to read this entire Privacy Policy before using or submitting information to this site. 
 
 **Your Consent**  
 By using this site, you agree to the terms of this Privacy Policy and the BabyCenter [Terms of Use](https://web.archive.org/help/aboutus/terms). Whenever you submit information via this site, you consent to the collection, use, and disclosure of that information in accordance with this Privacy Policy. 
@@ -79,5 +81,3 @@ If you have any questions, comments, requests, or concerns related to this Priva
 If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on **June 16, 2005**. 
 
 [](https://web.archive.org/help)
-
-                                                                                                                                       
