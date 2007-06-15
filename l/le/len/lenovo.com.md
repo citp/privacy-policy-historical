@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lenovo.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615015512id_/http%3A//www.lenovo.com/privacy/us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lenovo.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615190525id_/http%3A//www.lenovo.com/privacy/us) for the most accurate reproduction.*
 
 # Lenovo Privacy - United States
 
@@ -17,7 +17,7 @@ This statement applies to Lenovo Web Sites Worldwide.
 |  | Personal information  
 ---  
   
-In general, you can visit us on the internet without telling us who you are or giving us personal information. There are times when we may need information from you, for instance: to process an order, to correspond, to provide a subscription or in connection with a job application. We may supplement this information to complete a transaction or to provide a better service.  
+In general, you can visit us on the Internet without telling us who you are or giving us personal information. There are times when we may need information from you, for instance: to process an order, to correspond, to provide a subscription or in connection with a job application. We may supplement this information to complete a transaction or to provide a better service.  
   
   
 Uses  
@@ -56,9 +56,10 @@ For Lenovo's complete notice see [Lenovo's Privacy policy](http://www.lenovo.com
   
 Questions about this statement or about Lenovo's handling of your information may be sent to: privcy@us.lenovo.com or
 
-Privacy, Lenovo   
-1133 Westchester Ave.  
-White Plains, NY 10604 USA  
+Lenovo Privacy   
+1009 Think Place  
+Bldg 500 Rm DD313  
+Morrisville, NC 27560  
   
   
 
