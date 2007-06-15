@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the manufacturers.com.tw privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205211129id_/http%3A//manufacturers.com.tw/help/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manufacturers.com.tw privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615224903id_/http%3A//manufacturers.com.tw/help/privacy-policy.htm) for the most accurate reproduction.*
 
 # B2BManufactures.com
 
 China & Taiwan Trade Manufacturers Directory is your one-stop site for complete trade sources. B2BManufactures.com is an online B2B trading platform with which multi million dollars business transactions go through on daily bases. OEM and ODM orders certainly find their suppliers here. Be efficient and catch your trade leads quickly, [JOIN US RIGHT NOW](https://web.archive.org/help/contact-us.htm)!!
-
-[Home](http://www.manufacturers.com.tw/ "B2BManufacturers") > **Privacy Policy**
 
 Privacy Policy
 
