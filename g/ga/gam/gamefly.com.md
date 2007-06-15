@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the gamefly.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210191102id_/http%3A//www.gamefly.com/help/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamefly.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615031532id_/http%3A//www.gamefly.com/help/privacypolicy.asp) for the most accurate reproduction.*
 
 # Video Game Rentals: Rent or Buy PS3, PS2, PSP, Xbox 360, Xbox, GameCube, DS, Wii, GBA Games
 
   
-GameFly respects the privacy rights of our online visitors and is committed to protecting the personal information collected about you. To further this commitment, we have adopted this Online Privacy Policy ("Privacy Policy") to guide how we collect, store, and use the information you provide us online. 
+GameFly respects the privacy rights of our online visitors and is committed to protecting the personal information collected about you. To further this commitment, we have adopted this Online Privacy Policy ("Privacy Policy") to guide how we collect, store, and use the information you provide us online. GameFly follows established online information collection and use practices. 
 
-This Privacy Statement and the certification seal located on this page confirm that GameFly is a valid licensee and participating subscriber in the [Entertainment Software Rating Board's Privacy Online Program: ESRB Privacy Online](http://www.esrb.org/privacy.asp). To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by ESRB Privacy Online. 
-
-Because the website you are currently visiting displays the ESRB Privacy Online certification seal, you can expect to be informed about the following. 
+By reading this Privacy Policy, you can expect to be informed about the following:
 
   * The scope of this Privacy Policy
   * Exactly what information GameFly may collect from you through its website(s) 
@@ -31,7 +29,7 @@ In the future, if we wish to include additional websites under this Privacy Poli
 
 Please note that this Privacy Policy applies only to information submitted and collected online through the GameFly Website (as listed above), whether maintained by GameFly or one of our vendors, and does 
 
-_not_ apply to information that may be collected by GameFly offline. In addition, this Privacy Policy does _not_ extend to websites maintained by other companies or organizations to which we link or which link to us. Because we cannot guarantee that the privacy policies of such sites meet our high standards and the requirements of the ESRB Privacy Online Program, we encourage you to read the privacy policy of the website to which you link before you submit any personal information to that site. 
+_not_ apply to information that may be collected by GameFly offline. In addition, this Privacy Policy does _not_ extend to websites maintained by other companies or organizations to which we link or which link to us. Because we cannot guarantee that the privacy policies of such sites meet our high standards, we encourage you to read the privacy policy of the website to which you link before you submit any personal information to that site. 
 
 _Please note that by using our Website, you signify your assent to GameFly's Online Privacy Policy. If you do not agree to this Privacy Policy, please do not use our Website. We reserve the right to make changes to this Privacy Policy. Please check back from time to time to ensure that you are aware of these changes. Your continued use of our Website will signify your acceptance of these changes. Please note that if we make a material change to this Privacy Policy, we will notify you by posting the change on our Website or in this Privacy Policy and, if necessary, give you additional choices regarding such change._
 
@@ -41,7 +39,8 @@ In order to give you the best experience on our Website, GameFly may collect inf
 
   * sign up for a GameFly account (i.e., purchase a membership plan); 
   * use our GameFly Referrals feature; and/or, 
-  * send us a message using our “Contact Us” form. 
+  * sign up to receive GameFly newsletters. 
+  * send us a message using our "Contact Us" form. 
 
 The types of information requested for each feature above and the way the information is used are detailed by category below. Under all circumstances, we will only collect the information deemed reasonably necessary to fulfill your online requests and our legitimate business objectives. _GameFly Account Registration_
 
@@ -62,6 +61,10 @@ When you use the GameFly Referrals Program (or the "Referral Program"), we may a
 _Buy It Alerts_
 
 When you create a Buy It Alert for a particular game, we ask you to submit an e-mail address that you would like the Alert e-mail sent to. E-mail addresses collected through the Buy It Alert request form will only be used for delivery of requested Buy It Alert e-mails, and will be otherwise treated in accordance with this Privacy Policy. 
+
+_Newsletter Sign-Ups_
+
+You may sign up to receive information about GameFly products and services by selecting which newsletters you wish to receive and providing us with your e-mail address. We use the information you provide us to fulfill your request for GameFly newsletters only and for no other purpose. You may choose to stop receiving these newsletters by unsubscribing through a link in each newsletter sent to you. 
 
 _Contact Us Form_
 
@@ -144,13 +147,4 @@ Any personal information you provide to the above e-mail or postal mail addresse
 
 If you have any questions, complaints or comments **regarding our GameFly Referrals Program** , please contact [friends_cs@gamefly.com](mailto:friends_cs@gamefly.com). 
 
-GameFly is a licensee of the ESRB's Privacy Online Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at <http://www.esrb.org/about/contact.jsp>. 
-
-ESRB  
-Attn.: Privacy Online Program  
-317 Madison Avenue, 22nd Floor  
-New York, NY 10017  
-212-759-0700  
-[privacy@esrb.org](mailto:privacy@esrb.org)
-
-This Privacy Policy was last updated on September 28, 2006. 
+This Privacy Policy was last updated on January 4, 2007. 
