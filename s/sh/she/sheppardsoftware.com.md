@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sheppardsoftware.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205211253id_/http%3A//www.sheppardsoftware.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheppardsoftware.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615042729id_/http%3A//www.sheppardsoftware.com/privacy.htm) for the most accurate reproduction.*
 
 # Sheppard Software - Online Games & More
 
@@ -8,4 +8,4 @@ Sheppard Software collects certain technical information from your computer each
 
 Additionally, no email addresses or contact information submitted via our contact page will ever be sold, distributed, or shared with any third parties.
 
-Your privacy is important to us. If you should ever have questions regarding the acquisition or use of information that appears on the site, please feel free to [contact us](https://web.archive.org/web/20061205211253id_/http%3A//www.sheppardsoftware.com/contact.htm) with your comments.
+Your privacy is important to us. If you should ever have questions regarding the acquisition or use of information that appears on the site, please feel free to [contact us](https://web.archive.org/web/20070615042729id_/http%3A//www.sheppardsoftware.com/contact.htm) with your comments.
