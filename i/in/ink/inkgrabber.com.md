@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inkgrabber.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205221423id_/http%3A//www.inkgrabber.com/privatepolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inkgrabber.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615022858id_/http%3A//www.inkgrabber.com/privatepolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,6 +15,4 @@
 >   
 >  Our web site is encrypted with SSL (secure socket layer). SSL encrypts all of your personal information, including your credit card number, name, and address, so that it cannot be interrupted and/or read as it travels through the internet. There will never be any unauthorized charges appearing on your credit card.
 
-> [](http://www.bizrate.com/ratings_guide/cust_reviews__mid--68575.html)
-
-|  
+> |  
