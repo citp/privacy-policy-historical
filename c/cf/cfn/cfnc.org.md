@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cfnc.org privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216131544id_/http%3A//www.cfnc.org/global/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfnc.org privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615230512id_/http%3A//www.cfnc.org/global/privacy_policy.jsp) for the most accurate reproduction.*
 
 # CFNC - Privacy of Information
 
@@ -111,7 +111,7 @@ WHAT THIS PRIVACY POLICY STATEMENT COVERS:
 
 
 
-PATHWAYS OF NORTH CAROLINA?S PRIVACY POLICY AND ITS EXCEPTIONS   
+PATHWAYS OF NORTH CAROLINA'S PRIVACY POLICY AND ITS EXCEPTIONS   
 Except as set forth below, personally identifiable data you enter on Pathways of North Carolina is not made available or distributed to third parties, except with your express consent or at your express direction. In particular, Pathways of North Carolina (including the University of North Carolina General Administration (UNCGA) which administers the Pathways of North Carolina program) and Xap will not give, sell or provide access to your personal information to any company, individual or organization for its use in marketing or commercial solicitation or for any other purpose, except with your express consent, at your direction, as is necessary for the operation of this site, or pursuant to one of the exceptions listed below.
 
 Exceptions to the privacy policy  
