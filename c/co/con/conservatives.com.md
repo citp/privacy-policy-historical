@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conservatives.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205202407id_/http%3A//www.conservatives.com/tile.do%3Fdef%3Dprivacy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conservatives.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616005746id_/http%3A//www.conservatives.com/tile.do%3Fdef%3Dprivacy.page) for the most accurate reproduction.*
 
 # Conservative Party - Conservatives.com Privacy Policy
 
@@ -25,8 +25,8 @@ This is a privacy policy for the Conservative Party website. Our homepage on the
 We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
 
 Conservative Campaign Headquarters  
-25 Victoria Street  
-London, SW1H 0DL  
+30 Millbank  
+London, SW1P 4DP  
 United Kingdom
 
 You may contact us by e-mail at [webmaster@conservatives.com](mailto:webmaster@conservatives.com). You may call us at +44 (0) 20 7222 9000.   
@@ -47,7 +47,7 @@ Join and Donate
 
 In addition to the information from site registration we need additional information if you wish to donate money or join. This includes payment information (such as your credit card number and expiry date) and personal information that we must collect to abide by legal and voluntary codes of conduct (such as the constituency in which you are registered to vote). This information may be used for user analysis, user-profiling and contacting visitors.
 
-If you donate more than £5,000 to the Party via the website, we are obliged under the Political Parties Elections and Referendums Act 2000 to report such a donation to the Electoral Commission, who will publish the fact that you have made a donation over £5,000. For more information, please see [http://www.electoralcommission.gov.uk/](https://web.archive.org/web/20061205202407id_/http%3A//www.conservatives.com/redir.cfm?ref=http://www.electoralcommission.gov.uk/)
+If you donate more than £5,000 to the Party via the website, we are obliged under the Political Parties Elections and Referendums Act 2000 to report such a donation to the Electoral Commission, who will publish the fact that you have made a donation over £5,000. For more information, please see [http://www.electoralcommission.gov.uk/](https://web.archive.org/web/20070616005746id_/http%3A//www.conservatives.com/redir.cfm?ref=http://www.electoralcommission.gov.uk/)
 
 Under the Political Party Elections and Referendums Act 2000 (PPERA) you must be on the electoral register in the UK excluding the Channel Islands and the Isle of Man in order to make a donation of more than £200.
 
