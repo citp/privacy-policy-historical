@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hesaa.org privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208221228id_/http%3A//www.hesaa.org/about_hesaa/statements/index.asp%3Fstatement%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hesaa.org privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616010214id_/http%3A//hesaa.org/about_hesaa/statements/index.asp%3Fstatement%3Dprivacy) for the most accurate reproduction.*
 
 # Statements - www.hesaa.org
 
