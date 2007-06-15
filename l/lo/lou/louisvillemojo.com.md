@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the louisvillemojo.com privacy policy that was archived on 2006-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060527182922id_/http%3A//www.louisvillemojo.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the louisvillemojo.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615153433id_/http%3A//www.louisvillemojo.com/privacy.cfm) for the most accurate reproduction.*
 
 # Louisville Mojo - free personal ads, events, classifieds, forums, chat, blogs & more
 
