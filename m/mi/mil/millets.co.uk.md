@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the millets.co.uk privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216102057id_/http%3A//www.millets.co.uk/millets.storefront/PrivacyAndSecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millets.co.uk privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615102703id_/http%3A//www.millets.co.uk/millets.storefront/PrivacyAndSecurity) for the most accurate reproduction.*
 
 # Millets
 
@@ -110,4 +110,13 @@ The Outdoor Group Limited
 Mansard Close  
 Westgate, Northampton  
 NN5 5DL  
+
+
+## Our Policies
+
+  * [Accessibility](https://web.archive.org/web/20070615102703id_/http%3A//www.millets.co.uk/millets.storefront/Accessibility)
+  * [Privacy & Security](https://web.archive.org/web/20070615102703id_/http%3A//www.millets.co.uk/millets.storefront/PrivacyandSecurity)
+  * [Sale of Knives](https://web.archive.org/web/20070615102703id_/http%3A//www.millets.co.uk/millets.storefront/Sale%20of%20Knives)
+  * [Terms & Conditions](https://web.archive.org/web/20070615102703id_/http%3A//www.millets.co.uk/millets.storefront/TermsandConditions)
+
 
