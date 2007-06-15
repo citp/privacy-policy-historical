@@ -1,74 +1,11 @@
-> *The following text is extracted and transformed from the lacrossemonkey.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lacrossemonkey.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616012513id_/http%3A//www.lacrossemonkey.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
-|  [Lacrosse Monkey HOME](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/index.html)  
----  
- [My Basket](http://order.store.yahoo.com/cgi-bin/wg-order?lacrossemonkey)  
- [Customer Feedback](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/customer-feedback.html)  
- [Ice Hockey Equipment](http://www.hockeymonkey.com/)  
- [Roller Hockey Equipment](http://www.rollerhockeymonkey.com/)  
- [Goalie Hockey Equipment](http://www.goaliemonkey.com/)  
- [Clearance Outlet](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/lacrosseclearance.html)  
- [Lacrosse Combo Packages](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/lacrosse-combo-packages.html)  
- [Team Sales](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/team-sales.html)  
- [Employment Opportunities](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/employment.html)  
- [New Items!](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/new-items.html)  
- Lacrosse Sticks  
-   [Complete Lacrosse Sticks](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/complete-sticks.html)  
-   [Lacrosse Heads](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/lacrosse-heads.html)  
-   [Lacrosse Shafts](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/shafts.html)  
-   [Stringing Kits](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/stringingkits.html)  
-   [Stringing Accessories](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/stringingaccessories.html)  
- Shoulder, Arm, Rib & Gloves  
-   [Lacrosse Shoulder Pads](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/shoulderpads.html)  
-   [Lacrosse Arm Guards](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/armpads.html)  
-   [Lacrosse Rib Protection](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/ribprotection.html)  
-   [Lacrosse Gloves](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/gloves.html)  
-   [Jocks & Undergarments](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/jocks.html)  
-   [Lacrosse Starter Kits](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/starterkits.html)  
- Lacrosse Goalie Equipment  
-   [Lacrosse Goalie Gloves](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/goaliegloves.html)  
-   [Lacrosse Goalie Pants ](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/goaliepants.html)  
-   [Lacrosse Goalie Heads ](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/goalieheads.html)  
-   [Lacrosse Goalie Shafts ](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/goaliehandles.html)  
-   [Lacrosse Goalie Full Sticks](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/gofust.html)  
-   [Lacrosse Goalie Chest Guards ](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/gochpr.html)  
-   [Lacrosse Goalie Throat Guards ](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/goaliethroatguards.html)  
- Lacrosse Helmets  
-   [Lacrosse Helmet](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/helmets.html)  
-   [Lacrosse Helmet Accessories](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/helmetaccessories.html)  
- Lacrosse Footwear  
-   [Lacrosse Footwear](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/footwear.html)  
- Bags & Backpacks  
-   [Lacrosse Equipment Bags](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/equipment-bags.html)  
-   [Lacrosse Stick Equipment Bags](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/equipment-bags-stick.html)  
-   [Lacrosse Equipment Backpacks](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/lacrosse-equipment-backpacks.html)  
- Accessories & Apparel  
-   [Lacrosse Balls](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/lacrosse-balls.html)  
-   [Lacrosse Goals & Nets](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/lacgoalnets.html)  
-   [Coach & Training Aids](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/coachtrainingaids.html)  
-   [More Accessories](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/other-accessories.html)  
-   [Lacrosse Apparel](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/apandje.html)  
- Women's Lacrosse  
-   [Women's Lacrosse Full Sticks](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/fullsticks1.html)  
-   [Women's Lacrosse Heads](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/heads1.html)  
-   [Women's Lacrosse Shafts](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/handles1.html)  
-   [Women's Lacrosse Gloves](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/gloves1.html)  
-   [Women's Lacrosse Goggles](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/womens-headgear.html)  
-   [Women's Lacrosse Apparel](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/underarmour-women.html)  
- Lacrosse Equipment Related  
-   [Join Our Email Club](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/emailclub.html)  
-   [Order Status](http://www.hockeymonkey.info/tracking/lacrossemonkey.com/)  
-   [Store Locations](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/storelocations.html)  
-   [Store Info](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/info.html)  
-   [Currency Converter](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/curconverter.html)  
-  
-[](https://web.archive.org/web/20061213161811id_/http%3A//www.lacrossemonkey.com/ind.html)  
-| 
+|  | | 
 
-_This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._ Lacrosse Monkey |  | **** |   
----|---|---  
+_This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._ Lacrosse Monkey |  | **** |  |    
+---|---|---|---  
 | **Yahoo! shopping means Privacy and Security:**  
 ---  
   
@@ -100,4 +37,15 @@ Use merchant ratings to make more informed purchasing decisions. And, after you 
 
  **The Lacrosse Monkey mission:** **  
 Provide superior customer service, unparalleled selection, at unbeatable prices!!**  
-The superior customer service of Lacrosse Monkey and the peace of mind offered by Yahoo! Shopping is your guarantee that your online shopping experience with Lacrosse Monkey will be a safe, secure, and pleasant one!
+The superior customer service of Lacrosse Monkey and the peace of mind offered by Yahoo! Shopping is your guarantee that your online shopping experience with Lacrosse Monkey will be a safe, secure, and pleasant one!  
+  
+| 
+
+Copyright© 1999 - 2007 Monkey Sports, Inc.  
+All Rights Reserved. Lacrosse Monkey™ and Lacrossemonkey.com™  
+are operated by and are trademarks of Monkey Sports, Inc. [Site Map](http://www.lacrossemonkey.com/site-map.html)   [Contact Us](http://www.lacrossemonkey.com/info.html#contactus)   [Link to Us](http://www.lacrossemonkey.com/link-to-us.html)
+
+Lacrosse Monkey is your source for top quality Lax Equipment offering brands such as: Warrior, Brine, deBeer, Gait, STX, Cascade, Stryke, and many more. Lacrosse Equipment you need, Including Men’s, Women’s and Youth Heads, Shafts, Lacrosse Helmets, Lacrosse Gloves, Lacrosse Elbow Pads, Lacrosse Shoulder Pads, and Cleats at the Lowest Prices. Don’t forget to check our Clearance Section to save up to 80% on select Lacrosse equipment!   
+  
+---  
+ [](https://web.archive.org/web/20070616012513id_/http%3A//www.lacrossemonkey.com/ind.html)
