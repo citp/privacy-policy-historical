@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nasdaq.com privacy policy that was archived on 2006-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061231051443id_/http%3A//www.nasdaq.com/sitespecific/privacy.stm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nasdaq.com privacy policy that was archived on 2007-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070615114314id_/http%3A//www.nasdaq.com/sitespecific/privacy.stm) for the most accurate reproduction.-->
 
 <html><head>
 		<title>NASDAQ Privacy Statement</title>
@@ -25,6 +25,7 @@
 
 <!-- End call to menuing system -->
 <script>
+if(typeof myPage == "undefined")
 var myPage='nasdaq';
 </script>
 
@@ -33,32 +34,81 @@ var myPage='nasdaq';
 	function openWin(winName,winURL,winWidth,winHeight){
 		 newWindow = window.open(winURL,winName,'toolbar=no,menubar=no,width='+winWidth+',height='+winHeight+',scrollbars=no,resizable=no');
 	 }
+
+
+	function openWin(winName,winURL,winWidth,winHeight){
+		 newWindow = window.open(winURL,winName,'toolbar=no,menubar=no,width='+winWidth+',height='+winHeight+',scrollbars=no,resizable=no');
+	}
+
+	function is_clearTB() {
+	 	document.forms['_ipsubmit4'].Text1.value ='';
+	}
+
+	
+	function is_submitSearch() {
+
+	
+		if (document.getElementById("nasdaqsearchType").checked){
+			document._ipsubmit4.method = 'get';
+			document._ipsubmit4.action = 'http://Search.nasdaq.com/search'	
+			document.forms['_ipsubmit4'].submit();
+		} else {
+			document._ipsubmit4.action = 'http://www.infospace.com/info.nasdaq/search/redir.htm?qkw=' + document.forms['_ipsubmit4'].Text1.value + '&qcat=web';
+			document._ipsubmit4.method = 'post';
+			document.forms['_ipsubmit4'].submit();
+		}
+	}
+
  -->
 </script>
 
-
 <!-- End main nav background -->
 
-	<!-- Begin gradient background -->
+<!-- Begin gradient background -->
 		<div style="position:absolute; top:0px; left:0px; z-index:0; height:96px; width:1000px; background-image:url(http://content.nasdaq.com/images/mastheadBG.gif); background-repeat:repeat;">
 		</div>
-	<!-- End gradient background -->
+<!-- End gradient background -->
 
-	<!-- Begin logo and Persistent Nav -->
-	<div id="logo" name="logo" style="position:absolute; width:640px; top:25px; left:0px; z-index:20">
-		<a href="http://www.nasdaq.com" target="_top"><img src="http://content.nasdaq.com/images/nasdaq_whitelogo.gif" hspace="10" border="0" alt="Nasdaq" height="27" width="136"></a>
-	</div>
-
-
-
-	<div id="masthead" name="masthead" style="position:absolute; width:1000px; top:76px; left:0px; z-index:20;">
-		<img src="http://www.nasdaq.com/images/topnav_new2.jpg" border="0" usemap="#nasdaq_topNav_blank">
+<!-- Begin logo and Persistent Nav -->
+	<div id="logo" name="logo" style="position:absolute; width:980px; top:25px; left:0px; z-index:20">
 		
 
 
 
+		<div style="float:right;height:35px;">
+		<form name="_ipsubmit4" onsubmit="javascript:is_submitSearch();" target="_top">
+		
+									
+										
+							<input type="text" width="16" name="q" id="Text1" value="Search" onfocus="javascript:is_clearTB('query');">
+								&nbsp;&nbsp;
+								<input type="image" name="btnG" src="http://content.nasdaq.com/images/homepagewidgetgo.gif">
+								<input type="hidden" name="site" value="my_collection">
+       							<input type="hidden" name="client" value="my_collection">
+       							<input type="hidden" name="proxystylesheet" value="my_collection">
+       							<input type="hidden" name="output" value="xml_no_dtd">
+							<br>
+							
+							<span style="color:white;font-size:8pt" class="body1">
+								<input type="radio" name="searchType" id="websearchType" value="web" checked="">Web
+								<input type="radio" name="searchType" id="nasdaqsearchType" value="nasdaq">NASDAQ.com
+								</span>&nbsp;&nbsp;								
+								
+							
+							</form>
 
-		<map name="nasdaq_topNav_blank">		<map name="nasdaq_topNav_blank">
+									
+		</div>
+		
+		<a href="http://www.nasdaq.com" target="_top"><img src="http://content.nasdaq.com/images/nasdaq_whitelogo.gif" hspace="10" border="0" alt="Nasdaq" height="27" width="136"></a>
+
+	</div>
+
+				
+
+	<div id="masthead" name="masthead" style="position:absolute; width:1000px; top:76px; left:0px; z-index:20;">
+		<img src="http://www.nasdaq.com/images/topnav_new2.jpg" border="0" usemap="#nasdaq_topNav_blank">
+		<map name="nasdaq_topNav_blank">
 				<area shape="rect" alt="" coords="135,0,195,18" href="http://www.nasdaq.com/reference/loginmain.stm" target="_top">
 				<area shape="rect" alt="" coords="196,0,250,18" href="http://quotes.nasdaq.com/reference/comlookup.stm" target="_top">
 				<area shape="rect" alt="" coords="251,0,337,18" href="http://dynamic.nasdaq.com/aspx/majorindices.aspx" target="_top">
@@ -71,10 +121,9 @@ var myPage='nasdaq';
 				<area shape="rect" alt="" coords="714,0,736,18" href="http://www.nasdaq.com/reference/ipos.stm" target="_top">
 				<area shape="rect" alt="" coords="737,0,779,18" href="http://www.nasdaq.com/reference/BarChartSectors.stm" target="_top">
 				<area shape="rect" alt="" coords="780,0,870,18" href="http://www.nasdaq.com/reference/ownership.stm" target="_top">
-				<area shape="rect" alt="" coords="871,0,1000,18" href="http://ad.doubleclick.net/clk;52198057;7477625;w?http://clk.atdmt.com/OY6/go/nsdqxtam0010000191oy6/direct;at.Q107_NASDAQFIN_Toolbar_logo_nsdqtam0010000191oy6/01/" target="_new">
+				<area shape="rect" alt="" coords="871,0,1000,18" href="http://ad.doubleclick.net/clk;95676797;16617331;b?http://clk.atdmt.com/OY6/go/nsdqxtam0120000132oy6/direct;at.Q307_TDA_NASDAQFIN_FIN_Toolbar_Logo_Txnsdqxtam0120000132oy6/01/" target="_new">
 			</map>
-
-	</map></div>
+	</div>
 	<div id="mkttime" name="mkttime" style="position:absolute; width:135px; top:76px; left:0px; z-index:30;">
 		<table border="0" cellpadding="0" width="135" cellspacing="0">
 			<tbody><tr>
@@ -85,10 +134,24 @@ var myPage='nasdaq';
 		<div id="passportlogo" style="Z-INDEX: 102; LEFT: 134px; POSITION: absolute; TOP: 75px">			
 			<script language="javascript" src="http://www.nasdaq.com/dev_includes/passportlogo.aspx?ru=http://www.nasdaq.com/aspx/passportconfig.aspx&amp;targetpage=http://www.nasdaq.com/aspx/login.aspx&amp;showalways=true"></script>
 	</div>
+
+			<script language="JavaScript" src="http://www.nasdaq.com/includes/DartAdEngine.js"></script>
+           <!--***********display advertisement in the masthead*********-->
+			<div style="z-index:20; left:869px; position:absolute; TOP: 75px">
+					<script type="text/javascript">
+					makeAd('24','112x18','home','ROSToolbar','','');		
+					</script> 
+			</div>
+
+
+
+
+
+
+
 	<!-- End logo and Persistent Nav -->
 	<!-- SiteCatalyst code version: H.1.
-Copyright 1997-2005 Omniture, Inc. More info available at
-http://www.omniture.com -->
+Copyright 1997-2005 Omniture, Inc. More info available at http://www.omniture.com -->
 <script language="JavaScript" src="http://content.nasdaq.com/includes/s_code.js"></script>
 <script language="JavaScript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
@@ -96,7 +159,6 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 src="http://nasdaqdev.122.2O7.net/b/ss/nasdaqdev/1/H.1--NS/0"
 height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: H.1. -->
-	<!-- End logo and Persistent Nav -->
 <!-- END includes/masthead.inc //-->
 
 
@@ -497,17 +559,18 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 	<tbody><tr>
 		<td>&nbsp;<br>
 <center>
-
+<!--<A HREF="http://ad.doubleclick.net/clk;68604716;7956715;z?http://service.bfast.com/bfast/click?bfmid=29150849&siteid=41025267&bfpage=sharebuild"><IMG SRC="http://content.nasdaq.com/images/ad/88x31_banner_25Offer.gif" border="0"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;-->
 <script>
 										switch(Math.floor(Math.random() * 2) +1){
 												case 1:
-document.write('<a href="http://www.forex.com/land-currency-trading-light.html?src=NasdaqButtonROS_CurrencyLight-200701&utm_source=Nasdaq&utm_medium=Button&utm_term=200701&utm_content=88x31ROSOrange&utm_campaign=CurrencyLight"> <img src="http://www.nasdaq.com/images/88x31_GAIN_Footer.gif" border="0"></a>'); 
+document.write('<a href="http://ad.doubleclick.net/clk;107501375;14563380;y?http://www.forex.com/land-world.html?src=NasdaqButtonROS_kin_BLworldlp-200706&utm_source=nasdaq&utm_medium=button&utm_content=nasdaq88x31ros_kin_blworldlp&utm_campaign=200706"> <img src="http://www.nasdaq.com/images/88x31_GAIN_Takes_BL.gif" border="0"></a>'); 
 break;
 												case 2:
-document.write('<a href="http://www.forex.com/land-currency-trading-light.html?src=NasdaqButtonROS_CurrencyLight-200701&utm_source=Nasdaq&utm_medium=Button&utm_term=200701&utm_content=88x31ROSOrange&utm_campaign=CurrencyLight"> <img src="http://www.nasdaq.com/images/88x31_GAIN_Footer.gif" border="0"></a>'); 
+document.write('<a href="http://ad.doubleclick.net/clk;107501376;14563380;z?http://www.forex.com/land-currency-trading-light.html?src=Nasdaq88x31ROS_kin_OR-200706&utm_source=nasdaq&utm_medium=button&utm_content=nasdaq88x31ros_kin_or&utm_campaign=200706"> <img src="http://www.nasdaq.com/images/88x31_GAIN_Takes_OR.gif" border="0"></a>'); 
 												break;
 											}
-											</script><a href="http://www.forex.com/land-currency-trading-light.html?src=NasdaqButtonROS_CurrencyLight-200701&amp;utm_source=Nasdaq&amp;utm_medium=Button&amp;utm_term=200701&amp;utm_content=88x31ROSOrange&amp;utm_campaign=CurrencyLight"> <img src="http://www.nasdaq.com/images/88x31_GAIN_Footer.gif" border="0"></a>
+											</script><a href="http://ad.doubleclick.net/clk;107501375;14563380;y?http://www.forex.com/land-world.html?src=NasdaqButtonROS_kin_BLworldlp-200706&amp;utm_source=nasdaq&amp;utm_medium=button&amp;utm_content=nasdaq88x31ros_kin_blworldlp&amp;utm_campaign=200706"> <img src="http://www.nasdaq.com/images/88x31_GAIN_Takes_BL.gif" border="0"></a>
 
 </center>
 <br><br><br></td>
@@ -578,7 +641,7 @@ document.write('<a href="http://www.forex.com/land-currency-trading-light.html?s
 	<TR>
 		<TD ALIGN="center"><SCRIPT>
 if (is_google_nlURL.indexOf('analyst_summary.asp')<=-1){
-				document.write('<P><TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 ALIGN=CENTER CLASS="datadisclaimer" WIDTH=400><TR><TD>NASDAQ Stocks: Information delayed 15 minutes. Non-NASDAQ Stocks and All Options: Information delayed 20 minutes. Bid and Ask quotation information for NYSE and AMEX securities is only available on a real time basis.<P>* FTSE RAFI 1000 is calculated and disseminated during U.S. Market hours and FTSE All-World ex-US is calculated and disseminated during U.K. Market hours.</TD></TR></TABLE>');
+				document.write('<P><TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 ALIGN=CENTER CLASS="datadisclaimer" WIDTH=400><TR><TD><P>* FTSE RAFI 1000 is calculated and disseminated during U.S. Market hours and FTSE All-World ex-US is calculated and disseminated during U.K. Market hours.</TD></TR></TABLE>');
 
 
 			}
@@ -586,15 +649,15 @@ if (is_google_nlURL.indexOf('analyst_summary.asp')<=-1){
 	</tr>
 	<tr>
 		<td align="center" class="footer" nowrap=""><a href="http://nasdaq.ar.wilink.com/?mkt_code=NASDAQFTR" target="_top">Get Free Annual Reports</a> | ©  <a href="http://www.nasdaq.com/sitespecific/IndexPromptDisclaimer.stm#copyright" target="_top">Copyright</a> | <a href="http://www.nasdaq.com/sitespecific/IndexPromptDisclaimer.stm#disclaimer" target="_top">Disclaimer</a> | <a href="http://www.nasdaq.com/sitespecific/IndexPromptDisclaimer.stm#trademark" target="_top">Trademarks</a> | <a href="http://www.nasdaq.com/sitespecific/privacy.stm" target="_top">Privacy&nbsp;Statement</a> | <a href="http://www.nasdaq.com/help/contactInformation.stm" target="_top">Contact&nbsp;Us</a> | <a href="http://www.nasdaq.com/help/helpfaq.stm" target="_top">Help</a> | <a href="http://www.nasdaq.com/services/search.stm" target="_top">Search</a>&nbsp;|&nbsp;<!--*************************OpinionLab Begin*****************-->
-				<script language="javascript" type="text/javascript" src="/services/onlineopinionS3tS/oo_engine.js">
+				<script language="javascript" type="text/javascript" src="http://www.nasdaq.com/services/onlineopinionS3tS/oo_engine.js">
 				</script>
-				<script language="javascript" type="text/javascript">O_GoT('<img src="/services/onlineopinionS3tS/sm_1E5395_oo.gif" border="0" title="Please give us your feedback" style="margin-right:5px;">Feedback');
-				</script><a href="javascript:O_LC()" class="footerText"><img src="/services/onlineopinionS3tS/sm_1E5395_oo.gif" border="0" title="Please give us your feedback" style="margin-right:5px;">Feedback</a>
+				<script language="javascript" type="text/javascript">O_GoT('<img src="http://www.nasdaq.com/services/onlineopinionS3tS/sm_1E5395_oo.gif" border="0" title="Please give us your feedback" style="margin-right:5px;">Feedback');
+				</script>
 				<!--*************************OpinionLab End*****************-->
 		</td>
 	</tr>
 	<tr>
-		<td align="center"><p><br><a href="http://www.nasdaq.com/sitespecific/privacy.stm"><img src="http://www.nasdaqtrader.com/trader/dotnet_images/finalmark.gif" width="116" height="31" alt="" border="0"></a>
+		<td align="center"><p><br><a href="http://www.nasdaq.com/sitespecific/privacy.stm"><img src="http://content.nasdaq.com/images/finalmark.gif" width="116" height="31" alt="" border="0"></a>
 		</p></td>
 	</tr>	
 </tbody></table>
