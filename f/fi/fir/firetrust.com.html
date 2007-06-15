@@ -1,406 +1,236 @@
-<!--The following is the downloaded HTML source of the firetrust.com privacy policy that was archived on 2006-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061206002251id_/http%3A//firetrust.com/firetrustprivacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the firetrust.com privacy policy that was archived on 2007-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070615053546id_/http%3A//www.firetrust.com/en/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-	<title>Email Security, Anti-spam, Anti Virus Software, MailWasher creators:</title>
-					
-			<script language="JavaScript" type="text/javascript">
-			
-				/*redirect netscape 4 users styles for netscape 4*/
-				browserName=navigator.appName; 
-				browserVer=parseInt(navigator.appVersion);
-		
-					  if ((browserName=="Netscape" && browserVer <=4))    
-					  version="ver4";
-					  else
-					    version="other";
-										 
-					if (version=="ver4")
-					  document.write("<link rel='stylesheet' type='text/css' href='/assets/site/netstyle.css'>");	
-					  
-					else
-					 	document.write("<link rel='stylesheet' type='text/css' href='/assets/site/ft_style.css'>");		
-	        	
-				/*status*/
-	        	window.status = 'F I R E T R U S T :: email security :: the home of MailWasher Pro, Benign and MailWasher Server.'	
-								
-				/*subscribe function removes type when clicked*/			
-				function removeType()
-				{
-					document.subscribe.emailAddress.value = "";
-				}
-				
-				/*simulate sending */
- 					function thankYou()
-					{
-						
-						if ((document.subscribe.emailAddress.value=="") || (document.subscribe.emailAddress.value=="Enter email address here"))
-						{
-							alert("Please enter your e-mail address")
-							document.subscribe.emailAddress.value = "";
-							document.subscribe.emailAddress.focus();
-						}
-						else
-						{
-							var x = window.open("", "newWin", "width=200,height=150,left=''+leftPos+', top=0");
-							x.focus()
-							
-							browserName=navigator.appName; 
-							browserVer=parseInt(navigator.appVersion);
-		
-							  if ((browserName=="Netscape" && browserVer <=4))    
-							  version="ver4";
-							  else
-							    version="other";
-												 
-							if (version=="ver4")
-							{
-							  	x.document.write("<link rel='stylesheet' type='text/css' href='netstyle.css'><br><table><tr><td>Thank you<br><br>You have been added to the Firetrust Newsletter mailing list.</td></tr></table>");	
-								x.document.write("<form><input type='button' value='Close Window' onclick='window.close();'></form>");
-								document.subscribe.emailAddress.value = "enter email address here";
-							}
-							else
-							{
-								x.document.write("<link rel='stylesheet' type='text/css' href='style.css'><center><br>Thank you<br><br>You have been added to the Firetrust Newsletter mailing list.<br><br>");
-								x.document.write("<input type='button' value='Close Window' onclick='window.close();'>");
-								document.subscribe.emailAddress.value = "enter email address here";
-							}
-							
-						}
-					}
-					
-					/*checks email for @ and a dot*/
-						function validEmail(email)
-						{
-							if((email.indexOf("@")< 0) || (email.indexOf(".")< 0))
-							alert("This is not a valid email address");
-						}
-					
-				
-	function startDownload(location) { location.href = location; }
-	function queue() { setTimeout("startDownload()", 1500); }
-	function openTour() { x = window.open ("firetrust92.html","Tour","width=600,height=550,scrollbars=yes,left=''+leftPos+',top=0"); x.focus(); }
-function openTut() { x = window.open ("firetrust110.html","Tutorial","width=600,height=550,scrollbars=yes,left=''+leftPos+',top=0"); x.focus(); }  
-        function m0ver(src){document.getElementById('Main').tbodies[0].rows[src].cells[0].bgcolor = '#CC5555';}
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" class="js"><!-- {{{ head --><head>
+  <title>Privacy Policy | Firetrust Ltd</title>
+   <!-- {{{ Meta -->
+  <meta name="author" content="Author: Firetrust Ltd --- Drupal based solution made by: Encode Ltd - http://encode.net.nz">
+  <meta name="generator" content="Drupal - http://drupal.org">
+  <meta name="copyright" content="Copyright Firetrust Ltd. All Rights Reserved.">
+  <meta name="robots" content="all">
+  <meta http-equiv="content-language" content="en">
+  <meta name="MSSmartTagsPreventParsing" content="true">
+  <meta name="keywords" content="Mailwasher, anti spam software, spam blocker, antispam filter">
+  <meta name="description" content="Reliable anti spam and spam blocker software, protect your computer from unwanted email spam. Control spam before you download it. Over 7 million users">
+  <meta name="verify-v1" content="muZQ1Egvjv+lalWMzHL4fYH3BmrA0q2lx8CeIIGk4Mg=">
+  <!-- }}} -->
+  <!-- {{{ Meta CSS -->
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <!-- {{{ Meta DC -->
+  <meta name="dc.title" content="Privacy Policy">
+  <meta name="dc.format" content="text/xml">
+  <meta name="dc.language" content="en-nz">
+  <meta name="dc.publisher" content="Firetrust Ltd.">
+  <meta name="dc.rights" content="Copyright Firetrust Ltd. All rights reserved.">
+  <meta name="dc.type" content="Text">
+  <!-- }}} -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css" media="all">@import "/misc/drupal.css";</style>
+<script type="text/javascript"><!--
+  var BASE_URL = "/";
+--></script>
 
-        function m0ut(src){document.getElementById('Main').tbodies[0].rows[src].cells[0].bgcolor = '#B31111';}   
-	
-	        //-->
-	        </script><link rel="stylesheet" type="text/css" href="/assets/site/ft_style.css">
-<link rel="stylesheet" type="text/css" href="/assets/site/ft_style2.css">
-                        <script language="JavaScript" type="text/javascript">
-            <!--
-            downloadButton = new Image
-                        downloadButton.src = "images/download.gif"
+<script type="text/javascript" src="/misc/drupal.js"></script>
+<script type="text/javascript" src="/modules/img_assist/img_assist.js"></script>
+<!--[if lte IE 6]><script type="text/javascript" src="/modules/nice_menus/nice_menus.js"></script><![endif]-->
+<link rel="shortcut icon" href="/misc/favicon.ico" type="image/x-icon">
+<style type="text/css" media="screen">@import "/sites/default/themes/firetrust.com/css/style.css";</style><style type="text/css" media="print">@import "/sites/default/themes/firetrust.com/css/print.css";</style><style type="text/css" media="all">@import "/modules/flash_filter/flash_filter.css";</style><style type="text/css" media="all">@import "/modules/logintoboggan/logintoboggan.css";</style><style type="text/css" media="all">@import "/modules/nice_menus/nice_menus.css";</style>
+<!--[if IE 7]>
+<style type="text/css">
+ul.nice-menu-down ul {
+    left: 0;
+    padding: 15px 0 0 0;
+    margin: 0;
+</style>
+<![endif]-->
 
-                        downloadButton_over = new Image
-                        downloadButton_over.src = "images/download_over.gif"
-
-            //-->
-            </script>
-                        <script language="JavaScript" type="text/javascript">
-            <!--
-            function openWin(theURL, winName, features)
-            {
-                window.open(theURL, winName, features);
-            }
-            //-->
-            </script>
-
+  <!-- }}} -->
+  <link rel="shortcut icon" href="/favicon.png" type="image/x-icon">
 </head>
-<body bgcolor="#ffffff" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" text="#444444" link="#b61212" alink="#b61212" vlink="#b61212">
-
-<!-------------------------------------------------TOP BRANDING BANNER------------------------------------------>
-
-	<table width="760" cellpadding="0" cellspacing="0" border="0" align="center">
-
-		<tbody><tr>
-			<td width="200" height="65" valign="middle">
-				<a href="firetrusthome.html" title="Firetrust" style="text-decoration:none;">
-					<img src="assets/images/banner/firetrust3.gif" width="156" height="61" alt="Firetrust" border="0">
-				</a>
-			</td>
-			<td align="right" height="65" valign="bottom" width="560">
-		<a href="/intl/?lang=german"><img src="/images/german_flag.gif" style="width: 28px; height: 22px" alt="German"></a>
-		<a href="/intl/?lang=spanish"><img src="/images/spain_flag.gif" style="width: 28px; height: 22px" alt="Spanish"></a>
-	        <a href="/intl/?lang=japanese"><img src="/images/japanese_flag.gif" style="width: 28px; height: 22px" alt="Japanese"></a>
-				<img src="assets/images/banner/complete.gif" width="191" height="60" border="0" alt="Complete INBOX protection">
-			</td>
-
-		</tr>
-	</tbody></table>	
-<!-----------------------------------------TOP BANNER CLOSED------------------------------------------------------->
-<!-- Start eXTReMe Non Public Tracker Code -->
-<script type="text/javascript" language="javascript1.2"><!--
-EXs=screen;EXw=EXs.width;navigator.appName!="Netscape"?
-EXb=EXs.colorDepth:EXb=EXs.pixelDepth;//-->
-</script><script type="text/javascript"><!--
-navigator.javaEnabled()==1?EXjv="y":EXjv="n";
-EXd=document;EXw?"":EXw="na";EXb?"":EXb="na";
-EXd.write("<img src=http://nht-2.extreme-dm.com",
-"/n2.g?login=firetrus&amp;pid=privacyp&amp;auto=y&amp;",
-"jv="+EXjv+"&amp;j=y&amp;srw="+EXw+"&amp;srb="+EXb+"&amp;",
-"l="+escape(EXd.referrer)+" height=1 width=1>");//-->
-</script><img src="http://nht-2.extreme-dm.com/n2.g?login=firetrus&amp;pid=privacyp&amp;auto=y&amp;jv=n&amp;j=y&amp;srw=800&amp;srb=24&amp;l=" height="1" width="1"><noscript><img height="1" width="1" alt=""
-src="http://nht-2.extreme-dm.com/n2.g?login=firetrus&amp;pid=privacyp&amp;j=n&amp;jv=n&amp;auto=y"/>
-</noscript>
-<!-- End eXTReMe Non Public Tracker Code -->
-<!-------------------------------------------MENU TABLE STARTS-------------------------------------------------->
-<table width="760" cellpadding="0" cellspacing="0" border="0" align="center"><tbody><tr><td width="760" height="2"><img src="assets/images/spacers/2by1.gif" width="1" height="2" border="0"></td></tr><tr><td width="760" align="right" bgcolor="#b61212" height="15" valign="top"><a href="firetrusthome.html" title="Firetrust.com" class="main">&nbsp;&nbsp;HOME</a><img src="assets/images/spacers/menu_spacer.gif" width="22" height="5" border="0"><a href="firetrustabout.html" title="About Firetrust" class="main">&nbsp;&nbsp;ABOUT</a><img src="assets/images/spacers/menu_spacer.gif" width="22" height="5" border="0"><a href="firetrustproducts.html" class="main" title="Firetrust Products">&nbsp;&nbsp;PRODUCTS</a><img src="assets/images/spacers/menu_spacer.gif" width="22" height="5" border="0"><a href="firetrustsupport.html" class="main" title="Firetrust Support">&nbsp;&nbsp;SUPPORT</a><img src="assets/images/spacers/menu_spacer.gif" width="22" height="5" border="0"><a href="firetrustmedia.html" class="main" title="Media Resources">&nbsp;&nbsp;MEDIA</a><img src="assets/images/spacers/menu_spacer.gif" width="22" height="5" border="0"><a href="firetrustresellers.html" title="Affiliates" class="main">&nbsp;&nbsp;AFFILIATES</a><img src="assets/images/spacers/menu_spacer.gif" width="22" height="5" border="0"><a href="firetrustcontactus.html" class="main" title="Contact Firetrust">&nbsp;&nbsp;CONTACT</a>&nbsp;&nbsp;</td></tr></tbody></table>
-<!-------------------------------------------MENU FINISHED----------------------------------------------------------------->
-<table width="760" cellpadding="0" cellspacing="0" border="0" align="center">
-<tbody><tr>
-<td width="760" colspan="2" height="80">
-<img src="/images/titles/privacy.gif" border="0" alt="Privacy Policy">
-</td></tr>
-<tr><td width="150" valign="top"></td></tr>
-<tr>
-<td width="760" valign="top">
-<table width="760" cellpadding="0" cellspacing="0" class="grey">
-<tbody><tr>
-<td width="760">
-<table width="760" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-<td width="20"></td>
-<td width="230" valign="top">
-
-<br><br>
-
-<b>Firetrust website policy</b>
-
-<br><br>
-
-We believe it is important that you know how we treat information about
-
-you which we receive via the Internet. 
-
-Our commitment to personal privacy
-
-is paramount - none of our products contain any form of Adware of Spyware.
-
-<br><br>
-
-Firetrust Limited lets you visit the Firetrust website without revealing any
-
-personal information about yourself. We will ask you when we need information
-
-that personally identifies (personal information) you. Firetrust requests 
-
-personal information from our users at several different points on our 
-
-website. The personal information we collect is used only to respond to your
-
-inquiry, process an order, allow you to access specific account information,
-
-or advise you of special promotions, discounts, updates and new products.
-
-<br><br>
-
-Firetrust is the sole owner of the information collected on this site.
-
-We will not use or disclose this information for purposes other than those
-
-set out in this statement or in our end user agreement.
-
-<br><br>
-
-By using this site or any services provided through the site,
-
-you expressly consent to the use and disclosure of information as described in this
-
-Privacy Statement.
-
-<br><br> 
-
-<b>Your email address</b>
-
-<br><br>
-
-We collect your email address to either generate a registration code for your purchased product and/or to contact you regarding your purchase and/or to keep you informed of updates and product announcements. Your email address is never passed to 3rd parties.
-<br><br>
-We honour all unsubscribe requests and you can unsubscribe at any time to the emails we send you by clicking the unsubscribe link in our announcement emails or by proceeding to http://www.firetrust.com/user and amending your profile there.
-
-<br><br><br>
-
-</td>
-
-<td width="15"></td>
-
-<td width="230" valign="top">
-
-<br><br>
-
-<b>Order and Credit Card Information</b>
-
-<br><br>
-
-Firetrust uses Element5, PayPal and Worldpay as third-party payment providers of e-commerce solutions, to power
-
-the Firetrust.com store and in doing so, collects information about users, including
-
-credit card information. When a user purchases a product from the Firetrust.com store,
-
-'Payment provider' provides information about the customer, including name, address and email
-
-address, to Firetrust. Firetrust uses this information as set out in the end user
-
-agreement, agreed to by purchasers at the time of purchase. In particular, Firetrust
-
-uses the information to license the software to you, support the software and send 
-
-you information about updates, upgrades and new works or services provided by 
-
-Firetrust.
-
-<br><br>
-
-'Payment provider' requests information from the user on the order form, viewed by the user
-
-as a page hosted on their 'payment provider' web server. Here a user must provide contact
-
-information (like name and shipping address) and financial information (like
-
-credit card number, expiration date). This information is used 
-
-as explained above. For example, if we have trouble processing an order,
-
-contact information is used to get in touch with the user. 
-
-<br><br>
-
-Your credit card
-
-information does not pass through the 'payment provider' site under the terms of Firetrust's
-
-agreement with 'payment provider'.  'Payment provider' does not share credit card information with 
-
-Firetrust. 'Payment provider' keeps your credit card information confidential and protects your
-
-credit card information through the use of industry-standard Secure Sockets (SSL)
-
-encryption technology.
-
-
-<br><br><br>
-
-</td>
-
-<td width="15"></td>
-
-<td width="230" valign="top">
-
-<br><br>
-
-<b>Links</b>
-
-<br><br>
-
-The Firetrust website may contain links to other websites.
-
-Please note that when you click on one of these links, you are leaving our website
-
-and travelling to another website. 
-
-We encourage you to read the privacy
-
-statements of these linked sites, as their privacy policies may differ from ours.
-
-This privacy statement applies solely to information collected by this website.
-
-<br><br><br>
-
-<b>Cookies</b>
-
-<br><br>
-
-"Cookies " are small pieces of information that your browser stores on 
-
-your computer on behalf of a website that you have visited.
-
-Session (temporary) cookies may be used from time-to-time to enhance 
-
-navigation within the website. These cookies are destroyed when the user closes their
-
-web browser.
-
-Our e-commerce provider, element5, uses session cookies and other cookies to 
-
-facilitate access to customer account information in the shopping cart on their
-
-site. However, Firetrust has no access to or control over these cookies.
-
-<br><br>
-
-element5's cookies are used only to identify the customer, not to identify any
-
-specific customer traits. This allows element5 to maintain consistency in the
-
-shopping cart and enable a more pleasant shopping experience.
-
-<br><br><br>
-
-<b>Log files</b>
-
-<br><br>
-
-Google Analytics is used to analyze traffic to this website. Google Analytics does not create
-
-individual profiles for visitors. 
-
-Unlike some tracking services, Google Analytics
-
-does not have a database of individual profiles for each visitor. Google Analytics only
-
-collects aggregate data.
-
-<br><br><br>
-
-<b>Changes to this Policy</b>
-
-<br><br>
-
-Firetrust reserves the right to change this policy at any time by providing notice
-
-of such modification on this site.
-
-<br><br>
-
-
-
-</td><td width="20"></td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-</tbody></table>
-<!----------------------------------------BOTTOM LINKS------------------------------------------------------------------>
-<table width="760" cellpadding="0" cellspacing="0" border="0" align="center">
-<tbody><tr><td width="760" height="25">&nbsp;</td></tr><tr>			
-<td width="760" align="right">
-<a href="firetrusthome.html" title="You are here" class="direct">HOME</a>
-<img src="assets/images/spacers/menu_spacer2.gif" width="7" height="5" border="0">
-<a href="firetrustabout.html" title="About Firetrust" class="direct">ABOUT</a>
-<img src="assets/images/spacers/menu_spacer2.gif" width="7" height="5" border="0">
-<a href="firetrustproducts.html" title="Firetrust Products" class="direct">PRODUCTS</a><img src="assets/images/spacers/menu_spacer2.gif" width="7" height="5" border="0"><a href="firetrustsupport.html" title="Firetrust Support Overview" class="direct">SUPPORT</a><img src="assets/images/spacers/menu_spacer2.gif" width="7" height="5" border="0">
-<a href="firetrustmedia.html" title="Media Resources" class="direct">MEDIA</a>
-<img src="assets/images/spacers/menu_spacer2.gif" width="7" height="5" border="0">
-<a href="firetrustresellers.html" title="Affiliates" class="direct">AFFILIATES</a>
-<img src="assets/images/spacers/menu_spacer2.gif" width="7" height="5" border="0">
-<a href="firetrustcontactus.html" title="Contact Firetrust" class="direct">CONTACT</a></td></tr><tr><td width="769" height="15"></td></tr><tr><td width="760" height="18"><table width="760" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr><td width="303" height="18"><img src="assets/images/bg/big_line_left.gif" width="303" height="18" border="0"></td><td align="center"><a href="firetrusttermsandconditions.html" title="Terms of Use">Terms of Use</a>&nbsp;|&nbsp;<a href="firetrustprivacypolicy.html" title="Privacy Policy">Privacy Policy</a></td>
-<td width="303"><img src="assets/images/bg/big_line_right.gif" width="303" height="18" border="0"></td></tr></tbody></table></td></tr></tbody></table><br><br><br>
-<script src="http://www.google-analytics.com/urchin.js" language="JavaScript" type="text/javascript"></script>
-<script type="text/javascript" language="JavaScript"><!--
- _uacct = "UA-77941-1";
- urchinTracker();//-->
-</script>
-
-
-
-
-
+<!-- }}} -->
+<!-- {{{ body -->
+<body>
+    <!-- {{{ container -->
+    <div id="container">
+        <!-- {{{ topmenu -->
+        <div class="box" id="topmenu">
+            <div class="left">
+                                    <div class="content"><h2><span class="nice-menu-hide-title">Primary links</span></h2><ul class="nice-menu nice-menu-down" id="nice-menu-1"><li id="menu-27" class="menu-path-node-1"><a href="/en/home" title="Home">Home</a></li><li id="menu-68" class="menuparent menu-path-node-1"><a href="/en/home" title="Our Products">Products</a><ul><li id="menu-$mid" class="menu-path-no_menu_link">&nbsp;» Home &amp; Small Business</li><li id="menu-71" class="menu-path-node-2"><a href="/en/products/mailwasher-pro">MailWasher Pro</a></li><li id="menu-73" class="menu-path-node-257"><a href="/en/products/sitehound">SiteHound</a></li><li id="menu-75" class="menu-path-node-7"><a href="/en/products/benign">Benign</a></li><li id="menu-76" class="menu-path-node-9"><a href="/en/products/encrypt">Encrypt</a></li><li id="menu-77" class="menu-path-node-10"><a href="/en/partner-products">Partner Products</a></li><li id="menu-$mid" class="menu-path-no_menu_link">&nbsp;» Enterprise</li><li id="menu-74" class="menu-path-node-202"><a href="/en/products/oss/mailwasher-server">MailWasher Server</a></li></ul></li><li id="menu-29" class="menuparent menu-path-node-206"><a href="/en/download" title="Download our Products">Download</a><ul><li id="menu-$mid" class="menu-path-no_menu_link">&nbsp;» Home &amp; Small Business</li><li id="menu-61" class="menu-path-download-mailwasher-pro"><a href="/en/download/mailwasher-pro">MailWasher Pro</a></li><li id="menu-62" class="menu-path-download-sitehound"><a href="/en/download/sitehound">SiteHound</a></li><li id="menu-63" class="menu-path-download-benign"><a href="/en/download/benign">Benign</a></li><li id="menu-64" class="menu-path-download-encrypt"><a href="/en/download/encrypt">Encrypt</a></li><li id="menu-$mid" class="menu-path-no_menu_link">&nbsp;» Enterprise</li><li id="menu-65" class="menu-path-http:--sourceforge.net-projects-mailwasher-"><a href="http://sourceforge.net/projects/mailwasher/">MailWasher Server</a></li></ul></li><li id="menu-30" class="menuparent menu-path-shopping-cart"><a href="/en/shopping-cart" title="Buy a Firetrust Product">Buy</a><ul><li id="menu-$mid" class="menu-path-no_menu_link">&nbsp;» Home &amp; Small Business</li><li id="menu-66" class="menu-path-shopping-cart-add-mailwasher-pro"><a href="/en/shopping-cart/add/mailwasher-pro">MailWasher Pro</a></li><li id="menu-84" class="menu-path-shopping-cart-add-sitehound"><a href="/en/shopping-cart/add/sitehound">SiteHound</a></li><li id="menu-85" class="menu-path-shopping-cart-add-benign"><a href="/en/shopping-cart/add/benign">Benign</a></li><li id="menu-86" class="menu-path-shopping-cart-add-encrypt"><a href="/en/shopping-cart/add/encrypt">Encrypt</a></li><li id="menu-$mid" class="menu-path-no_menu_link">&nbsp;» Enterprise</li><li id="menu-87" class="menu-path-node-209"><a href="/en/products/oss/mailwasher-server/buy">MailWasher Server</a></li></ul></li><li id="menu-31" class="menuparent menu-path-support"><a href="/en/support" title="Need Help? Click here">Support</a><ul><li id="menu-$mid" class="menu-path-no_menu_link">&nbsp;» Home &amp; Small Business</li><li id="menu-88" class="menu-path-node-14"><a href="/en/support/mailwasher-pro">MailWasher Pro</a></li><li id="menu-113" class="menu-path-support-firstalert"><a href="/en/support/firstalert">First Alert!</a></li><li id="menu-89" class="menu-path-node-147"><a href="/en/support/sitehound">SiteHound</a></li><li id="menu-90" class="menu-path-node-15"><a href="/en/support/benign">Benign</a></li><li id="menu-91" class="menu-path-node-16"><a href="/en/support/encrypt">Encrypt</a></li><li id="menu-$mid" class="menu-path-no_menu_link">&nbsp;» Enterprise</li><li id="menu-92" class="menu-path-node-213"><a href="/en/support/mailwasher-server">MailWasher Server</a></li></ul></li><li id="menu-32" class="menuparent menu-path-node-204"><a href="/en/affiliates" title="Our Resellers and Partners">Affiliates</a><ul><li id="menu-93" class="menu-path-node-20"><a href="/en/affiliates/about">Affiliate program</a></li><li id="menu-94" class="menu-path-node-21"><a href="/en/affiliates/resellers">Become a reseller</a></li><li id="menu-95" class="menu-path-node-22"><a href="/en/affiliates/partners">Partner enquiries</a></li></ul></li><li id="menu-33" class="menuparent menu-path-node-23"><a href="/en/about/about-firetrust" title="About Firetrust">About</a><ul><li id="menu-96" class="menu-path-node-23"><a href="/en/about/about-firetrust">About Firetrust</a></li><li id="menu-97" class="menu-path-about-how-firetrust-can-help"><a href="/en/about/how-firetrust-can-help">How Firetrust can help</a></li><li id="menu-98" class="menu-path-news"><a href="/en/about/news">News</a></li><li id="menu-99" class="menu-path-blog"><a href="/en/about/blog">Blog</a></li><li id="menu-100" class="menu-path-node-25"><a href="/en/about/media/reviews">Firetrust reviews</a></li><li id="menu-102" class="menu-path-node-27"><a href="/en/about/media/kit">Media kit and press releases</a></li></ul></li><li id="menu-34" class="menu-path-contact-us"><a href="/en/contact-us" title="Contact Firetrust">Contact</a></li></ul></div><br>                            </div>
+            <div class="right">
+                        <form name="languageSelector" action="#" method="get" id="languageSelector">
+            <span id="selectorWidget">
+            <select name="language" onchange="languageSelector.submit()">
+                <option value="en" selected="selected">English</option>
+                <option value="de">Deutsch</option>
+                <!-- option value="es">Español</option -->
+                <!-- option value="ja">日本語</option -->
+            </select>
+            </span>
+            <!-- input type="submit" name="go" value="go" class="formButtonLocalisation" / -->
+            </form>
+            </div>
+            <b class="cn tl"></b>
+            <b class="cn tr"></b>
+        </div>
+        <!-- }}} -->
+        <!-- {{{ header -->
+        <div id="header">
+                    <a href="/" title="Firetrust Promo" alt="Firetrust Promo">
+            <img src="/sites/default/themes/firetrust.com/images/bg/header-banners/en-promo.jpg" alt="Firetrust Promo" title="Firetrust Promo">            <img src="/sites/default/themes/firetrust.com/images/bg/en-header-logo.jpg" alt="Firetrust" title="Firetrust">            </a>
+        </div>
+        <!-- }}} -->
+    </div>
+    <!-- }}} -->
+        <div id="leftcol-container">
+                    <div class="box" id="leftcol">
+                    <h2 class="content-title">Privacy Policy</h2>
+                <!-- BEGIN - Main Content Area -->
+
+          
+          
+          
+
+          
+          <!-- begin content --><div class="node">
+    
+  <div class="info"><span class="terms"><span class="action"></span></span></div>
+  <div class="content">
+    <h3 class="blue">Firetrust website policy</h3>
+<p> We believe it is important that you know how we treat information about  you which we receive via the Internet.   Our commitment to personal privacy  is paramount - none of our products contain any form of Adware or Spyware.</p>
+<p>Firetrust Limited lets you visit the Firetrust website without revealing any  personal information about yourself. We will ask you when we need information  that personally identifies (personal information) you. Firetrust requests   personal information from our users at several different points on our   website. The personal information we collect is used only to respond to your  inquiry, process an order, allow you to access specific account information,  or advise you of special promotions, discounts, updates and new products.</p>
+<p>Firetrust is the sole owner of the information collected on this site.  We will not use or disclose this information for purposes other than those  set out in this statement or in our end user agreement.</p>
+<p>By using this site or any services provided through the site,  you expressly consent to the use and disclosure of information as described in this  Privacy Statement.</p>
+<p>&nbsp;</p>
+<h3 class="blue">Your email address<br></h3>
+<p>We collect your email address to either generate a registration code for your purchased product and/or to contact you regarding your purchase and/or to keep you informed of updates and product announcements. Your email address is never passed to 3rd parties.</p>
+<p>We honour all unsubscribe requests and you can unsubscribe at any time to the emails we send you by clicking the unsubscribe link in our announcement emails or by proceeding to <a href="http://www.firetrust.com/user" title="Firetrust's Customer Centre">http://www.firetrust.com/user</a> and amending your profile there.</p>
+<p>&nbsp;</p>
+<h3 class="blue">Order and Credit Card Information<br></h3>
+<p>Firetrust uses Element5, PayPal and Worldpay as third-party payment providers of e-commerce solutions, to power  the Firetrust.com store and in doing so, collects information about users, including  credit card information. When a user purchases a product from the Firetrust.com store,  'Payment provider' provides information about the customer, including name, address and email  address, to Firetrust. Firetrust uses this information as set out in the end user  agreement, agreed to by purchasers at the time of purchase. In particular, Firetrust  uses the information to license the software to you, support the software and send   you information about updates, upgrades and new works or services provided by   Firetrust.</p>
+<p>'Payment provider' requests information from the user on the order form, viewed by the user  as a page hosted on their 'payment provider' web server. Here a user must provide contact  information (like name and shipping address) and financial information (like  credit card number, expiration date). This information is used   as explained above. For example, if we have trouble processing an order,  contact information is used to get in touch with the user.</p>
+<p>Your credit card  information does not pass through the 'payment provider' site under the terms of Firetrust's  agreement with 'payment provider'.  'Payment provider' does not share credit card information with   Firetrust. 'Payment provider' keeps your credit card information confidential and protects your  credit card information through the use of industry-standard Secure Sockets (SSL)  encryption technology.</p>
+<p>&nbsp;</p>
+<h3 class="blue">Links<br></h3>
+<p>The Firetrust website may contain links to other websites.  Please note that when you click on one of these links, you are leaving our website  and travelling to another website.   We encourage you to read the privacy  statements of these linked sites, as their privacy policies may differ from ours.  This privacy statement applies solely to information collected by this website.</p>
+<p>&nbsp;</p>
+<h3 class="blue">Cookies<br></h3>
+<p>"Cookies" are small pieces of information that your browser stores on   your computer on behalf of a website that you have visited.  Session (temporary) cookies may be used from time-to-time to enhance   navigation within the website. These cookies are destroyed when the user closes their  web browser.  Our e-commerce provider, element5, uses session cookies and other cookies to   facilitate access to customer account information in the shopping cart on their  site. However, Firetrust has no access to or control over these cookies.</p>
+<p>Element5's cookies are used only to identify the customer, not to identify any  specific customer traits. This allows element5 to maintain consistency in the  shopping cart and enable a more pleasant shopping experience.</p>
+<p>&nbsp;</p>
+<h3 class="blue">Log files<br></h3>
+<p>Google Analytics is used to analyze traffic to this website. Google Analytics does not create  individual profiles for visitors.   Unlike some tracking services, Google Analytics  does not have a database of individual profiles for each visitor. Google Analytics only  collects aggregate data.</p>
+<p>&nbsp;</p>
+<h3 class="blue">Changes to this Policy<br></h3>
+<p>Firetrust reserves the right to change this policy at any time by providing notice  of such modification on this site.</p>
+  </div>
+</div>
+<!-- end content -->
+        <!-- END - Main Content Area -->
+        <b class="cn tl"></b>
+        <b class="cn bl"></b>
+        <b class="cn br"></b>
+    </div>
+        </div>
+            <div id="rightcol-container">
+                        <div class="box" id="rightcol"><div class="right2-box"><div class="hd-right2"><div class="c-right2"></div></div><div class="bd-right2"><div class="c-right2"><div class="s-right2"><div class="content"><h2>Products</h2><!-- {{{ MWPro -->
+<div class="column-product-sidebox first-product-sidebox">
+    <img src="/sites/default/themes/firetrust.com/images/shopping-cart/mailwasher-pro-thumb.gif" border="0" alt="MailWasher Pro" title="MailWasher Pro" width="62" height="76">
+</div>
+<div class="column-product-sidebox last-product-sidebox">
+    <h3 class="blue">MailWasher Pro</h3>
+    <p>
+        <a href="products/mailwasher-pro">The ultimate anti spam software. Stop spam...</a>
+    </p>
+</div>
+
+<div id="product-submenu-buttons-2">
+    <a href="shopping-cart/add/mailwasher-pro" title="MailWasher Pro - Buy Now" alt="MailWasher Pro - Buy Now"><img src="/sites/default/themes/firetrust.com/images/buttons/en-buynow2.gif" border="0" alt="MailWasher Pro - Buy Now" title="MailWasher Pro - Buy Now" width="88" height="15"></a>
+    &nbsp;
+    <a href="download/mailwasher-pro" title="MailWasher Pro - Download" alt="MailWasher Pro - Download"><img src="/sites/default/themes/firetrust.com/images/buttons/en-download2.gif" border="0" alt="MailWasher Pro - Download" title="MailWasher Pro - Download" width="82" height="15"></a>
+    <hr>
+</div>
+<!-- }}} -->
+<!-- {{{ SiteHound -->
+<div class="column-product-sidebox first-product-sidebox">
+    <img src="/sites/default/themes/firetrust.com/images/shopping-cart/sitehound-thumb.gif" border="0" alt="SiteHound" title="SiteHound" width="62" height="76">
+</div>
+<div class="column-product-sidebox last-product-sidebox">
+    <h3 class="grey">SiteHound</h3>
+    <p>
+        <a href="products/sitehound">SiteHound protects you and your computer...</a>
+    </p>
+</div>
+
+<div id="product-submenu-buttons-2">
+    <a href="shopping-cart/add/sitehound" title="SiteHound - Buy Now" alt="SiteHound - Buy Now"><img src="/sites/default/themes/firetrust.com/images/buttons/en-buynow2.gif" border="0" alt="SiteHound - Buy Now" title="SiteHound - Buy Now" width="88" height="15"></a>
+    &nbsp;
+    <a href="download/sitehound" title="SiteHound - Download" alt="SiteHound - Download"><img src="/sites/default/themes/firetrust.com/images/buttons/en-download2.gif" border="0" alt="SiteHound - Download" title="SiteHound - Download" width="82" height="15"></a>
+    <hr>
+</div>
+<!-- }}} -->
+<!-- {{{ MailWasher Server -->
+<div class="column-product-sidebox first-product-sidebox">
+    <img src="/sites/default/themes/firetrust.com/images/shopping-cart/mailwasher-server-thumb.gif" border="0" alt="MailWasher Server" title="MailWasher Server" width="62" height="76">
+</div>
+<div class="column-product-sidebox last-product-sidebox">
+    <h3 class="red">MailWasher Server</h3>
+    <p>
+        <a href="products/oss/mailwasher-server">Free open source antispam for your mail server...</a>
+    </p>
+</div>
+
+<div id="product-submenu-buttons-2">
+    <a href="products/oss/mailwasher-server/buy" title="MailWasher Server - Buy Now" alt="MailWasher Server - Buy Now"><img src="/sites/default/themes/firetrust.com/images/buttons/en-buynow2.gif" border="0" alt="MailWasher Server - Buy Now" title="MailWasher Server - Buy Now" width="88" height="15"></a>
+    &nbsp;
+    <a href="http://sourceforge.net/projects/mailwasher/" title="MailWasher Server - Download" alt="MailWasher Server - Download"><img src="/sites/default/themes/firetrust.com/images/buttons/en-download2.gif" border="0" alt="MailWasher Server - Download" title="MailWasher Server - Download" width="82" height="15"></a>
+    <hr>
+</div>
+<!-- }}} -->
+<!-- {{{ Benign -->
+<div class="column-product-sidebox first-product-sidebox">
+    <img src="/sites/default/themes/firetrust.com/images/shopping-cart/benign-thumb.gif" border="0" alt="Benign" title="Benign" width="62" height="76">
+</div>
+<div class="column-product-sidebox last-product-sidebox">
+    <h3 class="green">Benign</h3>
+    <p>
+        <a href="products/benign">Catches all the email borne viruses, makes email safe...</a>
+    </p>
+</div>
+
+<div id="product-submenu-buttons-2">
+    <a href="shopping-cart/add/benign" title="Benign - Buy Now" alt="Benign - Buy Now"><img src="/sites/default/themes/firetrust.com/images/buttons/en-buynow2.gif" border="0" alt="Benign - Buy Now" title="Benign - Buy Now" width="88" height="15"></a>
+    &nbsp;
+    <a href="download/benign" title="Benign - Download" alt="Benign - Download"><img src="/sites/default/themes/firetrust.com/images/buttons/en-download2.gif" border="0" alt="Benign - Download" title="Benign - Download" width="82" height="15"></a>
+    <hr>
+</div>
+<!-- }}} -->
+<!-- {{{ Encrypt -->
+<div class="column-product-sidebox first-product-sidebox">
+    <img src="/sites/default/themes/firetrust.com/images/shopping-cart/encrypt-thumb.gif" border="0" alt="Encrypt" title="Encrypt" width="62" height="76">
+</div>
+<div class="column-product-sidebox last-product-sidebox">
+    <h3 class="brown">Encrypt</h3>
+    <p>
+        <a href="products/encrypt">Send secure, encrypted files via email to anyone...</a>
+    </p>
+</div>
+
+<div id="product-submenu-buttons-2">
+    <a href="shopping-cart/add/encrypt" title="Encrypt - Buy Now" alt="Encrypt - Buy Now"><img src="/sites/default/themes/firetrust.com/images/buttons/en-buynow2.gif" border="0" alt="Encrypt - Buy Now" title="Encrypt - Buy Now" width="88" height="15"></a>
+    &nbsp;
+    <a href="download/encrypt" title="Encrypt - Download" alt="Encrypt - Download"><img src="/sites/default/themes/firetrust.com/images/buttons/en-download2.gif" border="0" alt="Encrypt - Download" title="Encrypt - Download" width="82" height="15"></a>
+</div>
+<!-- }}} -->
+</div></div></div></div><div class="ft-right2"><div class="c-right2"></div></div></div><b class="cn tl"></b><b class="cn bl"></b><b class="cn br"></b></div><br>                    </div>
+    <div id="footer">
+        <p>© Firetrust Ltd |
+    <a href="/sitemap">Sitemap</a> |
+    <a href="/en/privacy-policy">Privacy Policy</a> |
+    <a href="/en/terms-of-use">Terms Of Use</a><!-- |
+    valid: <a href="http://validator.w3.org/check/referer">xhtml</a>,
+    <a href="http://jigsaw.w3.org/css-validator/check/referer">css</a>. --></p>
+</div>
+<script type="text/javascript" src="http://www.google-analytics.com/urchin.js"></script><script type="text/javascript">_uacct = "UA-77941-1";urchinTracker();</script>
+<!-- }}} -->
 
 </body></html>
