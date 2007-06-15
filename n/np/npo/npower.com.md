@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the npower.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231191140id_/http%3A//www.npower.com/At_home/Privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npower.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616015434id_/http%3A//www.npower.com/At_home/Privacy_policy.html) for the most accurate reproduction.*
 
 # npower - Privacy Policy.
 
