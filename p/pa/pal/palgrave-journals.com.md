@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the palgrave-journals.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209140307id_/http%3A//www.palgrave-journals.com/pal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palgrave-journals.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615041617id_/http%3A//www.palgrave-journals.com/pal/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy : Palgrave Macmillan Journals
 
@@ -58,6 +58,6 @@ We strive to do everything we can to protect the privacy of our users. We do not
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our website to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, we recommend that you review this Privacy Statement periodically, as Palgrave Macmillan may update it from time to time.
 
-This order will be processed by a staff-member of the Macmillan group, who may or may not be located in the European Union. By submitting this request for an order, you are signifying that you accept this.
+This order will be processed by a staff-member of the Macmillan group, who may or may not be located in the European Union. By submitting an order, you signify that you accept this.
 
 If you feel that this site is not following its stated information policy, you may [contact us via email](mailto:feedback@palgrave.com). We will be sure to address your concerns.
