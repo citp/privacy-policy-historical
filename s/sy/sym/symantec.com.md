@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the symantec.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217230858id_/http%3A//symantec.com/about/profile/policies/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the symantec.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616000808id_/http%3A//www.symantec.com/about/profile/policies/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - Symantec Corp.
 
@@ -9,6 +9,10 @@ Last Updated: January 5, 2006
 On January 5, 2006, we updated our privacy policy to include information regarding our new practice of using Web Beacons. Please see section 1.4 below for more information.
 
 _
+
+### Corporate
+
+This Privacy Policy applies to symantec.com hosted Web sites or Web sites hosted by third parties on behalf of Symantec which are branded to appear like Symantec.com. For the privacy policy that applies to LiveUpdate, please visit <http://www.symantec.com/legal/luprivacy.html>. 
 
 [](http://www.truste.org/ivalidate.php?url=www.symantec.com&sealid=101)
 
