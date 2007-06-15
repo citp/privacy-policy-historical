@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wize.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225072612id_/http%3A//wize.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wize.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615034652id_/http%3A//wize.com/privacy) for the most accurate reproduction.*
 
-# Wize- Consumer Research & Product Reviews
+# Wize.com Consumer Product Reviews - Sitemap
 
 Last modified: August 17, 2006
 
