@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exactseek.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231103600id_/http%3A//new.exactseek.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exactseek.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615121253id_/http%3A//www.exactseek.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement: ExactSeek.com
 
@@ -19,7 +19,7 @@
 
 > ExactSeek offers two types of site listings - Standard and Featured. Unlike many directories and search engines that charge for site listings and collect personal information as well, ExactSeek Standard listings are free and the information we collect is primarily to provide a customized experience as you use our Services, and generally this information is not shared with third parties. However, we may disclose personal information collected, if we have received your permission beforehand or in very special circumstances, such as when we believe that the law requires such disclosure or other special cases described below.
 > 
-> For our Standard Free Listings, membership is required under a valid verified email address. Upon the creation of a new member account, in lieu of a site submission fee you will be subscribed to either SiteProNews or SEO-News.
+> For our Standard Free Listings, membership is required under a valid verified email address. Upon the creation of a new member account, in lieu of a site submission fee you will be subscribed to either SiteProNews or SEO-News and given a free subscription to the InternetSeer Web site monitoring service.
 > 
 > Your use of ExactSeek's services constitutes a business relationship wherein we provide a promotion service for your web  
 >  site(s). In exchange, ExactSeek reserves the right to use the contact information collected during site submission to deliver notices regarding changes or updates to our service, to provide free newsletters (SiteProNews, SEO-News), to inform you of additions to the Jayde Online Network of web sites, or to send announcements and carefully screened offers and information on behalf of our partners or advertisers. 
@@ -42,7 +42,7 @@
 
 > It is ExactSeek.com's policy not to use or share personal information about Visitors or Members in ways unrelated to the ones described above without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses. However, ExactSeek.com may disclose personal information about Visitors or Members, or information regarding your use of the Services or Web sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: to satisfy laws, such as the Electronic Communications Privacy Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Acceptable Use Policy or other user policies; to operate the Services properly; or to protect ExactSeek.com and our Members.
 
-> In the event of a change in ownership, or a direct merger or acquisition of ExactSeek.com with another entity or multiple entities, all (or select aspects) of ExactSeek.com's customer information (including email addresses) may be transferred to a separate entity or entities. All ExactSeek.com subscribers and registered users will be notified within five business days of any change in ownership, merger or acquisition of ExactSeek.com's assets by a third party. Subscribers and users may choose to access and modify any of their registration and subscription information at that time. 
+> In the event of a change in ownership, or a direct merger or acquisition of ExactSeek.com with another entity or multiple entities, all (or select aspects) of ExactSeek.com's customer information (including email addresses) may be transferred to a separate entity or entities. All ExactSeek.com subscribers and registered users will be notified of any change in ownership, merger or acquisition of ExactSeek.com's assets by a third party by email announcement or through prominently placed notices on the web site. Subscribers and users may choose to access and modify any of their registration and subscription information at that time. 
 
   
 
