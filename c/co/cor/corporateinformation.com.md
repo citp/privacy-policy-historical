@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corporateinformation.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214231913id_/http%3A//www.corporateinformation.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corporateinformation.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616012717id_/http%3A//www.corporateinformation.com/privacy.htm) for the most accurate reproduction.*
 
 # CorporateInformation Privacy Policy
 
@@ -40,4 +40,4 @@ CorporateInformation.com collects only the personal information that you volunta
 
             **Changes and Opting Out**
 
-            From time to time, CorporateInformation.com may change this privacy policy.  To keep up-to-date on any changes, please check this site periodically.  If at any time you have a question about this privacy policy or you wish to opt out of access to CorporateInformation.com’s services, please [Contact Us](https://web.archive.org/web/20061214231913id_/http%3A//www.corporateinformation.com/contactus.asp) with your request.
+            From time to time, CorporateInformation.com may change this privacy policy.  To keep up-to-date on any changes, please check this site periodically.  If at any time you have a question about this privacy policy or you wish to opt out of access to CorporateInformation.com’s services, please [Contact Us](https://web.archive.org/web/20070616012717id_/http%3A//www.corporateinformation.com/contactus.asp) with your request.
