@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the imercer.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016141220id_/http%3A//www.imercer.com/default.aspx%3Fpage%3Dprivacy%26tab%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imercer.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615081757id_/http%3A//www.imercer.com/default.aspx%3Fpage%3Dprivacy%26tab%3D1) for the most accurate reproduction.*
 
 # iMercer.com
 
+---  
 **By using this Web Site, you consent to the collection, use, and transfer of your personal information as described in this Privacy Policy.**  
   
 **Clicking on the following links will take you to that section of the Privacy Policy.**  
@@ -15,7 +16,7 @@ Sharing and Disclosure of Information to Third Parties
 Legal Matters  
 Links to other Sites  
 Security  
-Contacts and Complaints   
+Contacts and Complaints  
    
 **General**  
    
@@ -50,7 +51,7 @@ You may set your web browser to not accept cookies. If you do, you may still use
    
 Certain Web Site users are required to register with Mercer by supplying their names and other personal information in order to have access to specific Web Site features (“Registered Users”). All Registered Users receive a username and password. When you register on a Web Site, Mercer may use your data to provide you with information reports as well as information about goods and services offered by Mercer. Mercer may also use the information provided by Registered Users to perform statistical analyses on our clients and understand client demographics.   
    
-Occasionally, we may transfer to our global client contact database certain information about Registered Users , in which case it will be governed by Mercer’s Privacy Policy for [Contact Data](https://web.archive.org/web/20061016142506id_/http://www.imercer.com/default.aspx?page=home&contentId=1775&newRegionId=100).   
+Occasionally, we may transfer to our global client contact database certain information about Registered Users , in which case it will be governed by Mercer’s Privacy Policy for [Contact Data](https://web.archive.org/web/20070615081757id_/http%3A//www.imercer.com/default.aspx?page=home&contentId=1775&newRegionId=100).   
    
 Information Related to Employment   
    
@@ -99,4 +100,20 @@ You must maintain the confidentiality of your username and password, and are res
    
 This Web Site is operated by Mercer Human Resource Consulting LLC, 1166 Avenue of the Americas, New York, NY 10036-2774, United States. If you have any questions or concerns about this Privacy Policy, please e-mail us at [ PrivacyCoordinator@mercer.com](mailto:privacycoordinator@mercer.com).   
    
-By using this web site, you consent to the collection, use, and transfer of your personal information as described in this Policy. 
+By using this web site, you consent to the collection, use, and transfer of your personal information as described in this Policy.   
+  
+
+
+* * *
+
+©2007 Mercer Human Resource Consulting LLC, All Rights Reserved 
+
+[Home](https://web.archive.org/web/20070615081757id_/http%3A//www.imercer.com/default.aspx?page=home&tab=1) |  [Contact Us](https://web.archive.org/web/20070615081757id_/http%3A//www.imercer.com/default.aspx?page=home&tab=6) |  [Terms of Use](https://web.archive.org/web/20070615081757id_/http%3A//www.imercer.com/default.aspx?page=term) |  [Privacy Policy](https://web.archive.org/web/20070615081757id_/http%3A//www.imercer.com/default.aspx?page=privacy) |  [Site Map](https://web.archive.org/web/20070615081757id_/http%3A//www.imercer.com/default.aspx?page=sitemap) |  [Rss Feed](https://web.archive.org/web/20070615081757id_/http%3A//www.imercer.com/default.aspx?page=rsslist) |  [Feedback](http://www.imercersurveys.com/imercerfeedback)  
+---|---|---|---|---|---|---  
+|  **Asia:** 65 63275377 (Singapore)   
+---  
+**Australia/New Zealand:** 1800 645 186 (Sydney) 0508 645 186 (Auckland) 61 2 8864 6985 (International)   
+**Canada:** 1-800-631-9628   
+**Europe:** 41 22 869 3000 (Geneva)   
+**Latin America:** 1-305-341-5009 or 1-305-341-5057 (Miami)   
+**United States:** Customer Service: 1-800-333-3070 or 1-502-560-8290 Software Helpdesk: 1-800-866-7474 or 1-502-561-8995 
