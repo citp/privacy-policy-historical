@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the topcoder.com privacy policy that was archived on 2006-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061205225915id_/http%3A//www.topcoder.com/tc%3Fmodule%3DStatic%26d1%3Dabout%26d2%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the topcoder.com privacy policy that was archived on 2007-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070615215843id_/http%3A//www.topcoder.com/tc%3Fmodule%3DStatic%26d1%3Dabout%26d2%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <title>Privacy Policy of TopCoder</title>
@@ -28,128 +28,91 @@
 
 
 
-<script language="javascript" type="text/javascript">
-<!--
-var objPopUp = null;
-function popUpUnder(event,objectID){
-   objPopTrig = document.getElementById(event);
-   alert(objPopTrig);
-   objPopUp = document.getElementById(objectID);
-   xPos = objPopTrig.offsetLeft;
-   if(xPos + objPopUp.offsetWidth > document.body.clientWidth) xPos = xPos - objPopUp.offsetWidth;
-   objPopUp.style.left = xPos + 'px';
-   objPopUp.style.display = 'block';
+<script type="text/javascript">
+var objTopPopUp = null;
+// called when you topPopup at the bottom right of an object
+function topPopUp(topPopper,topPopupID) {
+    var pos = findPos(topPopper);
+    var x = pos[0] + topPopper.offsetWidth + 2;
+    var y = pos[1] + topPopper.offsetHeight + 2;
+    topPopShow(x,y,topPopupID);
 }
-function popDescription(objectID){
-   objPopUp = document.getElementById(objectID);
-   objPopUp.style.visibility = 'visible';
-//   objPopUp.style.display = 'block';
+// called when you know the exact spot you want to topPop up at
+function topPopShow(posX,posY,topPopupID) {
+    objTopPopUp = document.getElementById(topPopupID);
+    objTopPopUp.style.left = posX + 'px';
+    objTopPopUp.style.top = posY + 'px';
+    objTopPopUp.style.display = 'block';
 }
-function hideDescription(){
-   objPopUp.style.visibility = 'hidden';
-//   objPopUp.style.display = 'none';
-   objPopUp = null;
+function topPopHide() {
+    objTopPopUp.style.display = 'none';
+    objTopPopUp = null;
 }
-
-// -->
+function findPos(obj) {
+    var curLeft = curTop = 0;
+    if (obj.offsetParent) {
+        curLeft = obj.offsetLeft;
+        curTop = obj.offsetTop;
+        while (obj = obj.offsetParent) {
+            curLeft += obj.offsetLeft;
+            curTop += obj.offsetTop;
+        }
+    }
+    return [curLeft,curTop];
+}
 </script>
-<style type="text/css">
-div.topBar, div.topBar div, div.memberCountBox
-{
-color: #FFFFFF;
-font-size: 11px;
-}
-div.memberCountBox
-{
-position:absolute;
-top:5;
-left:3;
-z-index:1;
-}
-div.topBar
-{
-background: #FFFFFF url(/i/interface/top_bg.gif) top center repeat-x;
-vertical-align: top;
-padding: 5px 10px 80px 3px;
-white-space: nowrap;
-}
-div.launchPopUp
-{
-font-size: 11px;
-background-color: #FFFFCC;
-visibility: hidden;
-position: absolute;
-padding: 3px 5px 3px 5px;
-border: solid 1px black;
-font-weight:bold;
-z-index: 3;
-}
-#outerLogo
-{
-width: 360px;
-position: relative;
-z-index: 2;
-}
-#innerLogo
-{
-position: absolute;
-left: 0px;
-}
-</style>
 
 
-<div id="launch0" class="launchPopUp" style="left:73;top:65;">Competitions Home</div>
-<div id="launch1" class="launchPopUp" style="left:108;top:65;">Launch Algorithm Competitions Arena</div>
-<div id="launch2" class="launchPopUp" style="left:155;top:65;">Launch High School Competitions Arena</div>
-<div id="launch3" class="launchPopUp" style="left:181;top:65;">Component Design Active Contests</div>
-<div id="launch4" class="launchPopUp" style="left:207;top:65;">Component Development Active Contests</div>
-<div id="launch5" class="launchPopUp" style="left:252;top:65;">Marathon Match Active Contests</div>
-<map name="competeBar">
-<area shape="rect" alt="" coords="0,0,66,30" href="http://www.topcoder.com/tc" onmouseover="popDescription('launch0')" onmouseout="hideDescription()">
-<area shape="rect" alt="" coords="68,0,106,30" href="javascript:arena();" onmouseover="popDescription('launch1')" onmouseout="hideDescription()">
-<area shape="rect" alt="" coords="107,0,153,30" href="javascript:arena();" onmouseover="popDescription('launch2')" onmouseout="hideDescription()">
-<area shape="rect" alt="" coords="154,0,179,30" href="http://www.topcoder.com/tc?module=ViewActiveContests&amp;ph=112" onmouseover="popDescription('launch3')" onmouseout="hideDescription()">
-<area shape="rect" alt="" coords="180,0,205,30" href="http://www.topcoder.com/tc?module=ViewActiveContests&amp;ph=113" onmouseover="popDescription('launch4')" onmouseout="hideDescription()">
-<area shape="rect" alt="" coords="206,0,250,30" href="http://www.topcoder.com/longcontest/?module=ViewActiveContests" onmouseover="popDescription('launch5')" onmouseout="hideDescription()">
+<div id="launch0" class="popUp"><div><strong>Competitions Home</strong></div></div>
+<div id="launch1" class="popUp"><div><strong>Launch Algorithm Competitions Arena</strong></div></div>
+<div id="launch2" class="popUp"><div><strong>Launch High School Competitions Arena</strong></div></div>
+<div id="launch3" class="popUp"><div><strong>Component Design Active Contests</strong></div></div>
+<div id="launch4" class="popUp"><div><strong>Component Development Active Contests</strong></div></div>
+<div id="launch5" class="popUp"><div><strong>Marathon Match Active Contests</strong></div></div>
+
+<map name="competeBar" id="competeBar">
+<area shape="rect" alt="" coords="0,0,66,30" href="http://www.topcoder.com/tc" onmouseover="topPopShow(73,65,'launch0')" onmouseout="topPopHide()">
+<area shape="rect" alt="" coords="68,0,106,30" href="javascript:arena();" onmouseover="topPopShow(108,65,'launch1')" onmouseout="topPopHide()">
+<area shape="rect" alt="" coords="107,0,153,30" href="javascript:arena();" onmouseover="topPopShow(155,65,'launch2')" onmouseout="topPopHide()">
+<area shape="rect" alt="" coords="154,0,179,30" href="http://www.topcoder.com/tc?module=ViewActiveContests&amp;ph=112" onmouseover="topPopShow(181,65,'launch3')" onmouseout="topPopHide()">
+<area shape="rect" alt="" coords="180,0,205,30" href="http://www.topcoder.com/tc?module=ViewActiveContests&amp;ph=113" onmouseover="topPopShow(207,65,'launch4')" onmouseout="topPopHide()">
+<area shape="rect" alt="" coords="206,0,250,30" href="http://www.topcoder.com/longcontest/?module=ViewActiveContests" onmouseover="topPopShow(252,65,'launch5')" onmouseout="topPopHide()">
 </map>
 
 
-<div id="register_now_container" style="position:absolute; left:0; top:31px; width:100%;">
-   <div style="position:absolute; left:0px; top:0px;">
+<div style="position: absolute; left:0; top:31px; background: transparent;">
    <img src="/i/interface/competeBar.gif" alt="" usemap="#competeBar">
-   </div>
-   
-   <div style="float:right; width:790px;" align="right"><a href="http://www.topcoder.com/reg/"><img src="/i/interface/register_now.gif" alt="Register Now" style="display:block;"></a></div>
-   
 </div>
+
+
+<div style="position: absolute; right:0px; top:31px;"><a href="http://www.topcoder.com/reg/"><img src="/i/interface/register_now.gif" alt="Register Now" style="display:block;"></a></div>
 
 
 <div align="center" style="margin: 0px 290px 0px 280px;">
    <div id="outerLogo">
       <div id="innerLogo">
-      <a href="http://www.topcoder.com/"><img src="/i/interface/topcoder.gif" alt="TopCoder"></a>
+      <a href="http://www.topcoder.com/"><img src="/i/interface/topcoder.gif" alt="TopCoder" style="display: block;"></a>
       </div>
    </div>
 </div>
 
 <div class="memberCountBox">
-Member Count: 99,210 - 
+Member Count: 115,625 - 
 
 
-December 5, 2006
+June 15, 2007
 
 &nbsp;<a class="gMetal" href="Javascript:tcTime()">[Get Time]</a>
 </div>
 
 <div class="topBar">
-   <div style="float: right; margin-left: 650px;">
-   
-               <a class="gMetal" href="http://www.topcoder.com/tc?&amp;module=Login">Login</a>
-      
-   
-   </div>
+    <div style="float: right; margin: 5px 0px 0px 0px;">
+        
+                <a class="gMetal" href="http://www.topcoder.com/tc?&amp;module=Login">Login</a>
+            
+        
+    </div>
 </div>
-
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
    <tbody><tr valign="top">
@@ -163,10 +126,11 @@ December 5, 2006
 
 
 
+
 <script language="JavaScript" type="text/javascript" src="/js/arena.js"></script>
 
 
-<script language="javascript" type="text/javascript">
+<script language="JavaScript" type="text/javascript">
 <!--
 function toggleMenu(menuTitle,menuID){
    var menu = document.getElementById(menuID);
@@ -188,10 +152,9 @@ function flipMenu(myMenuName){
 // -->
 </script>
 
-<!--node is tc_privacy -->
-<div style="float: left; padding: 0px 0px 0px 0px;"><img src="/i/interface/leftnav_top.gif" alt=""></div>
+<div style="padding: 0px;"><img src="/i/interface/leftnav_top.gif" alt=""></div>
 <div id="navbar">
-
+    
 <ul>
 <li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_competitions')">Competitions</a>
 <ul id="m_competitions">
@@ -237,6 +200,7 @@ function flipMenu(myMenuName){
 <li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=help&amp;d2=faqIndex">FAQs</a></li>
 <li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=help&amp;d2=sampleProblems">Sample Problems</a></li>
 <li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=help&amp;d2=ratings">Rating System</a></li>
+<li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=help&amp;d2=problemWriter&amp;node=algo_write">Write Problems</a></li>
 <li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=help&amp;d2=getPaid&amp;node=algo_get_paid">How to Get Paid</a></li>
 <li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=help&amp;d2=charity">Charity Donations</a></li>
 </ul></li>
@@ -246,7 +210,6 @@ function flipMenu(myMenuName){
 <li><a href="http://www.topcoder.com/tc?module=ViewActiveContests&amp;ph=112">Active Contests</a></li>
 <li><a href="http://www.topcoder.com/tc?module=ContestStatus&amp;ph=112">Contest Status</a></li>
 <li><a href="http://www.topcoder.com/tc?module=ViewReviewProjects&amp;ph=112">Review Opportunities</a></li>
-<li><a href="http://software.topcoder.com/forum/c_active_collab.jsp?ft=2">TCS Developer Forums</a></li>
 <li><a href="http://software.topcoder.com/review">Submit &amp; Review</a></li>
 <li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_des_stats')">Statistics</a>
 <ul id="m_des_stats">
@@ -261,6 +224,7 @@ function flipMenu(myMenuName){
 <li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=dev&amp;d2=support&amp;d3=desDocumentation">Documentation</a></li>
 <li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=dev&amp;d2=support&amp;d3=desRatings">Ratings</a></li>
 <li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=dev&amp;d2=support&amp;d3=desReliability">Reliability Ratings</a></li>
+<li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=help&amp;d2=getPaid&amp;node=des_get_paid">How to Get Paid</a></li>
 </ul></li>
 </ul></li>
 <li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_dev_competitions')">Software Development</a>
@@ -268,7 +232,6 @@ function flipMenu(myMenuName){
 <li><a href="http://www.topcoder.com/tc?module=ViewActiveContests&amp;ph=113">Active Contests</a></li>
 <li><a href="http://www.topcoder.com/tc?module=ContestStatus&amp;ph=113">Contest Status</a></li>
 <li><a href="http://www.topcoder.com/tc?module=ViewReviewProjects&amp;ph=113">Review Opportunities</a></li>
-<li><a href="http://software.topcoder.com/forum/c_active_collab.jsp?ft=2">TCS Developer Forums</a></li>
 <li><a href="http://software.topcoder.com/review">Submit &amp; Review</a></li>
 <li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_dev_stats')">Statistics</a>
 <ul id="m_dev_stats">
@@ -289,7 +252,8 @@ function flipMenu(myMenuName){
 <li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_assembly_competitions')">Software Assembly</a>
 <ul id="m_assembly_competitions">
 <li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=dev&amp;d2=assembly&amp;d3=overview">Overview</a></li>
-<li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=dev&amp;d2=assembly&amp;d3=activeContests">Active Contests</a></li>
+<li><a href="http://www.topcoder.com/tc?module=ViewAssemblyActiveContests">Active Contests</a></li>
+<li><a href="http://software.topcoder.com/review">Submit &amp; Review</a></li>
 <li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_assembly_support')">Support / FAQs</a>
 <ul id="m_assembly_support">
 <li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=dev&amp;d2=assembly&amp;d3=instructions">How to Compete</a></li>
@@ -329,6 +293,7 @@ function flipMenu(myMenuName){
 <li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=hs&amp;d2=support&amp;d3=faqIndex">FAQs</a></li>
 <li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=hs&amp;d2=support&amp;d3=sampleProblems">Sample Problems</a></li>
 <li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=hs&amp;d2=support&amp;d3=ratings">Rating System</a></li>
+<li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=help&amp;d2=problemWriter&amp;node=hs_write">Write Problems</a></li>
 </ul></li>
 </ul></li>
 <li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_long_contests')">Marathon Matches</a>
@@ -337,10 +302,13 @@ function flipMenu(myMenuName){
 <li><a href="http://www.topcoder.com/longcontest/?module=ViewPractice&amp;rt=14">Practice</a></li>
 <li><a href="http://www.topcoder.com/longcontest/?module=Static&amp;d1=intel_overview">Intel Multi-Threading Competition Series</a></li>
 <li><a href="http://www.topcoder.com/longcontest/?module=ViewActiveContests&amp;rt=15">Intel Active Contests</a></li>
-<li><a href="http://www.topcoder.com/longcontest/?module=ViewPractice&amp;rt=16">Intel Practice</a></li>
 <li><a href="http://www.topcoder.com/longcontest/?module=ViewQueue">Queue Status</a></li>
 <li><a href="http://www.topcoder.com/longcontest/?module=Static&amp;d1=match_editorials&amp;d2=archive">Match Editorials</a></li>
-<li><a href="http://www.topcoder.com/longcontest/?module=Static&amp;d1=instructions">Support / FAQs</a></li>
+<li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_long_support')">Support / FAQs</a>
+<ul id="m_long_support">
+<li><a href="http://www.topcoder.com/longcontest/?module=Static&amp;d1=instructions">How to Compete</a></li>
+<li><a href="http://www.topcoder.com/longcontest/?module=Static&amp;d1=support&amp;d2=ratings">Rating System</a></li>
+</ul></li>
 </ul></li>
 <li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_tournaments')">Tournaments</a>
 <ul id="m_tournaments">
@@ -354,6 +322,7 @@ function flipMenu(myMenuName){
 <li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=education&amp;d2=overview">Overview</a></li>
 <li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=tutorials&amp;d2=alg_index">Algorithm Tutorials</a></li>
 <li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=tutorials&amp;d2=comp_index">Component Tutorials</a></li>
+<li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=tutorials&amp;d2=mm_index">Marathon Tutorials</a></li>
 <li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=features&amp;d2=archive">Features</a></li>
 <li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=help&amp;d2=writeForTC">Write for TopCoder</a></li>
 </ul></li>
@@ -361,12 +330,14 @@ function flipMenu(myMenuName){
 <li><a href="http://forums.topcoder.com/">Forums</a></li>
 <li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=calendar&amp;d2=thisMonth">Event Calendar</a></li>
 <li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=pressroom&amp;d2=index">Press Room</a></li>
+<li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=media&amp;d2=tcchannel">TC Channel</a></li>
 <li><a href="http://www.topcoder.com/tc?&amp;module=SurveyList">Surveys</a></li>
 <li class="exp"><a href="javascript:void(0)" onclick="Javascript:toggleMenu(this.parentNode,'m_my_tc')">My TopCoder</a>
 <ul id="m_my_tc">
 <li><a href="http://www.topcoder.com/reg/?nrg=false">Update My Profile</a></li>
 <li><a href="http://www.topcoder.com/tc?module=ViewReferrals">Member Referrals</a></li>
 <li><a href="http://www.topcoder.com/PactsMemberServlet?module=AffidavitHistory">Affidavits</a></li>
+<li><a href="http://www.topcoder.com/tc?module=VisaSelection">Visa Letter Status</a></li>
 <li><a href="http://www.topcoder.com/PactsMemberServlet?module=PaymentHistory">Payments</a></li>
 <li><a href="http://www.topcoder.com/tc?module=Static&amp;d1=card&amp;d2=description">Cards / Badges</a></li>
 </ul></li>
@@ -381,11 +352,11 @@ function flipMenu(myMenuName){
 <li class="highlight"><a href="http://www.topcoder.com/tc?module=Static&amp;d1=about&amp;d2=privacy">Privacy Policy</a></li>
 </ul></li></ul>
 
-
+    
 
 <div id="navbarSearch">
 <b>Member Search:</b>
-<form name="simpleSearchForm" method="get" action="http://www.topcoder.com/tc" class="noSpace">
+<form action="http://www.topcoder.com/tc" method="get" name="simpleSearchForm" class="noSpace" id="simpleSearchForm">
    <input class="noSpace" type="hidden" name="module" value="SimpleSearch">
    <input class="noSpace" type="text" name="ha" value="Handle:" size="12" maxlength="15" onfocus="javascript:
          if (document.simpleSearchForm.ha.value=='Handle:')
@@ -398,6 +369,12 @@ function flipMenu(myMenuName){
 </div>
 </div>
 <div style="float: left; clear:left; padding: 0px 0px 23px 0px;"><img src="/i/interface/leftnav_bottom.gif" alt=""></div>
+
+
+    <div align="center" style="float: left; clear:left; width: 170px; margin: 0px;">
+        <img src="/i/interface/brackets.png" alt="" style="margin-bottom: 23px;">
+    </div>
+
         </td>
 <!-- Left Column Ends -->
 
@@ -441,7 +418,7 @@ Glastonbury, CT  06033
 We gather information about all of our users collectively, including without limitation, (a) their Internet domain and their computer IP address, (b) what area users visit most frequently, (c) the type of browser and operating system they use and (d) if the user linked to our Web site from another Web site, the address of that other Web site.  We use this information for analyzing trends and statistics, fraud protection, improving our services, planning Web site enhancements and measuring overall Web site effectiveness.  From time to time we may reveal general, anonymous, aggregated statistical information about our Web site, services and users, such as the number of visits and users and what Web site features they use.
 <br><br>
 <span class="bodySubtitle">Information About You Specifically</span><br>
-If you choose to register as a member in order to participate in TopCoder competitions, you will provide us with additional information about yourself, including your name, handle (public login name) and address.  If you are a winner, for legal purposes we will also request confirmation of your date of birth.  In addition, if you are a U.S. person (including U.S. resident aliens), we will request your social security number (or taxpayer identification number) on IRS form W-9.  If you are a winner, and you are not a U.S. person, we will request a Certificate of Foreign Status of Beneficial Owner for United States Tax Withholding on IRS form W-8BEN.  We use this information to verify your eligibility to participate in specific competitions, and to contact you and properly notify the IRS should you be a winner.  From time to time, we may use the contact information to alert members of new competitions and communicate news, events and reminders.  If you do not want to be alerted of any of these items, do not check the "Contest Notification" box on the registration form or at any time thereafter you can send us an e-mail asking to be removed from this notification listing to <a href="mailto:service@topcoder.com">service@topcoder.com</a>.  During a competition, users participating will be shown and identified only by their handles, which are their public login names.  A TopCoder member's handle, rating, country, school, competition statistics, date registered, winnings to date, skill set, and personal quote will be publicly available to any participants of the TopCoder Web site and competition applications.
+If you choose to register as a member in order to participate in TopCoder competitions, you will provide us with additional information about yourself, including your name, handle (public login name) and address.  If you are a winner, for legal purposes we will also request confirmation of your date of birth.  In addition, if you are a U.S. person (including U.S. resident aliens), we will request your social security number (or taxpayer identification number) on IRS form W-9.  If you are a winner, and you are not a U.S. person, we will request a Certificate of Foreign Status of Beneficial Owner for United States Tax Withholding on IRS form W-8BEN.  We use this information to verify your eligibility to participate in specific competitions, and to contact you and properly notify the IRS should you be a winner.  From time to time, we may use the contact information to alert members of new competitions and communicate news, events and reminders.  If you do not want to be alerted of any of these items, uncheck all boxes in the "Email Notifications" section on the second page of the registration form, or send an e-mail to <a href="mailto:service@topcoder.com">service@topcoder.com</a> asking to be removed from email notifications.  During a competition, users participating will be shown and identified only by their handles, which are their public login names.  A TopCoder member's handle, rating, country, school, competition statistics, date registered, winnings to date, skill set, and personal quote will be publicly available to any participants of the TopCoder Web site and competition applications.
 <br><br>
 Spectators may be allowed to view a competition without identifying themselves, but competition participants must be members and must log in to prove it.  All source code created during a competition will be available to anyone-spectators, members and sponsors and may be subject to challenge from other members.  Your performance in a competition will allow us to help balance the competition.  It will be recorded to calculate competition rating values and it will be posted on the Web site and in the competition area.  Winners' names may also be released to governmental authorities as required by law.  At registration, we will ask you to answer questions regarding certain demographic information as it relates to your status as a student or a professional.
 <br><br>
@@ -517,30 +494,23 @@ Thank you for visiting our site.  We'll keep working hard to earn your loyalty.
 
 
 
-
-<!-- Footer Include Begins -->
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
-<!-- TopCoder Links Begins -->
-    <tbody><tr><td width="100%" class="footer">
+<tbody>
+    <tr>
+        <td width="100%" class="footer">
             <a href="http://www.topcoder.com/" class="footerLinks">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;
             <a href="http://www.topcoder.com/tc?module=Static&amp;d1=about&amp;d2=index" class="footerLinks">About TopCoder</a>&nbsp;&nbsp;|&nbsp;&nbsp;
             <a href="http://www.topcoder.com/tc?module=Static&amp;d1=pressroom&amp;d2=index" class="footerLinks">Press Room</a>&nbsp;&nbsp;|&nbsp;&nbsp;
             <a href="http://www.topcoder.com/tc?module=Static&amp;d1=about&amp;d2=contactus" class="footerLinks">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;
             <a href="http://www.topcoder.com/tc?module=Static&amp;d1=about&amp;d2=privacy" class="footerLinks">Privacy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-            <a href="http://www.topcoder.com/tc?module=Static&amp;d1=about&amp;d2=terms" class="footerLinks">Terms</a></td></tr>
-<!-- TopCoder Links Ends -->
-
-<!-- Member Sites Begins -->
-    <tr><td width="100%" class="footer">
+            <a href="http://www.topcoder.com/tc?module=Static&amp;d1=about&amp;d2=terms" class="footerLinks">Terms</a>
+            <br>
             <a href="http://www.topcoder.com/tc" class="footerLinks">Developer Center</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-            <a href="http://www.topcoder.com/corp/?module=Static&amp;d1=corp&amp;d2=index" class="footerLinks">Corporate Services</a>
-<!-- Member Sites Ends -->
-
-    </td></tr><tr><td height="4" class="footerStripe"><img src="/i/corp/clear.gif" width="10" height="4" border="0"></td></tr>
-
-    <tr><td width="100%" class="copyright">Copyright © 2001-2006, TopCoder, Inc. All rights reserved.</td></tr>
-</tbody></table>
-<!-- Footer Include Ends -->
+            <a href="http://www.topcoder.com/corp/?module=Static&amp;d1=corp&amp;d2=index" class="footerLinks">Corporate Services</a>        </td>
+    </tr>
+    <tr><td width="100%" class="copyright">Copyright © 2001-2007, TopCoder, Inc. All rights reserved.</td></tr>
+</tbody>
+</table>
 
 
 
