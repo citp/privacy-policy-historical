@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the adb.org privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205224734id_/http%3A//www.adb.org/Help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adb.org privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615070850id_/http%3A//www.adb.org/Help/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - ADB.org
 
-| 
+  
+
 
 ## Privacy Statement for ADB.org
 
@@ -49,21 +50,4 @@ PO Box 789
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact
 
 [webmaster@adb.org](mailto:webmaster@adb.org)   
-|  |  | | [First Time Visitors](https://web.archive.org/Help/FirstTime/default.asp)  
-  
----|---  
-| [What's New](https://web.archive.org/Help/whatsnew.asp)  
-  
-| [Site Map](https://web.archive.org/Help/sitemap.asp)  
-  
-| [Index & Style Guide](https://web.archive.org/Help/Index/default.asp)  
-  
-| [Searching the Site](https://web.archive.org/Help/search.asp)  
-  
-| **[Privacy Policy](https://web.archive.org/Help/privacy.asp)  
-**  
-| [Terms of Use](https://web.archive.org/Help/terms.asp)  
-  
-| |   
-  
 
