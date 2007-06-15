@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gnomefiles.org privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205220258id_/http%3A//www.osnews.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gnomefiles.org privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615064843id_/http%3A//www.osnews.com/privacy.php) for the most accurate reproduction.*
 
 # OSNews.com
 
@@ -8,16 +8,12 @@
 **[Features](https://web.archive.org/article.php?kind=Feature&offset=0&rows=70)**  
 **[Interviews](https://web.archive.org/article.php?kind=Interview&offset=0&rows=70)**  
 **[Editorials](https://web.archive.org/article.php?kind=Editorial&offset=0&rows=70)**  
-**[Staff Blog](https://web.archive.org/staff/)**  
-**[View Topics](https://web.archive.org/topic.php)**  
 **[Submit News](https://web.archive.org/submit.php)**  
+**[View Topics](https://web.archive.org/topic.php)**  
 **[Contact Us](https://web.archive.org/contact.php)**  
 **[Membership](https://web.archive.org/subscribe.php)**  
-**[OS Resources](https://web.archive.org/resources.php)**  
-**[OS Galaxy](http://galaxy.osnews.com/)**  
-**[GnomeFiles](http://gnomefiles.org/)**  
-**[Dusty-Computing](http://www.dusty-computing.com/)**  
 **[Advertise](https://web.archive.org/advertise.php)**  
+  
 **Privacy statement**
 
 OSNews will not sell your personal information, and you will not receive email from anyone but OSNews if you register for an account or become a member. Registered users will be asked for certain personal information (name and email address), and certain information will be posted on a user page on the site, though posting an email address is optional. Location, date of registration, and information about comments posted will be made publicly available. 
