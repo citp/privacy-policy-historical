@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nc-educationlottery.org privacy policy that was archived on 2006-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061205224902id_/http%3A//www.nc-educationlottery.org/privacy_policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nc-educationlottery.org privacy policy that was archived on 2007-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070615205818id_/http%3A//www.nc-educationlottery.org/privacy_policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -9,7 +9,7 @@
 </head>
 <body>
 		<form name="Form1" method="post" action="privacy_policy.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwxMDEzNjA5OTc0OztsPFJpZ2h0Y29sdW1uMTppbWdMb2NhdGU7UmlnaHRjb2x1bW4xOmltZ1NlYXJjaDs+Pg==">
+<input type="hidden" name="__VIEWSTATE" value="dDwxMDEzNjA5OTc0Ozs+">
 
 		
 <script language="javascript" src="/resources/menu.js"></script>
@@ -87,10 +87,10 @@ var myMenu2 = new ypSlideOutMenu("menu2", "down", -1000, 105, 92, 90, 101)
   &nbsp;<br>
               Our site may use “cookies”, both persistent and  non-persistent, to store information.&nbsp;  Cookies are small data files that can be stored on your computer system  that contain information pertinent to our website.&nbsp; The cookies will not contain personally  identifiable information and in most instances are encrypted.</p>
             <h2>How the  Information is Used</h2>
-              Typically, the information automatically collected and  voluntarily submitted is used to provide a more personal experience.&nbsp; We strive to present you with the  information, which is most pertinent to your specific needs.&nbsp; We also use the information to operate and  improve our website, to gather information about our products and services, to  gather aggregate user and customer information, and to provide information  about our products and services. As an example, we may send you an email that  describes a product or service that we are offering.<p></p>
-            <p>Reasonable care will be utilized to ensure that the  file(s) that may personally identify you are kept in a secured location.&nbsp; The files and the data contained in these  files are the sole property of the NCEL.&nbsp;  Information contained in these files may be routinely purged at the discretion  of the NCEL.</p>
-            <h2>More Information</h2>
-              If you have questions about the practices of this  website, or your interaction with the site, please contact us at: <u><a href="mailto:website@lotterync.net">website@lotterync.net</a></u>.<p></p>
+              <p>Typically, the information   automatically collected and voluntarily submitted is used to provide website   visitors with a more personal experience and to present them with information   that is most pertinent to their specific needs.&nbsp; We also use the information to   operate and improve our website, to gather and provide information about our   products and services, and to gather user and customer information.   &nbsp;</p>
+              <p>Reasonable care will be utilized to   ensure that files and data contained therein which may personally identify you   are kept in a secured location.&nbsp; However, please be aware that, except as protected by law, such   information may be subject to disclosure pursuant to the North Carolina Public   Records Act, N.C.G.S. §132-1 et seq. &nbsp;At the discretion of the NCEL, such files   and/or data may also be routinely purged.</p>
+              <h2>More Information</h2>
+              <p>If you have questions about the practices of this  website, or your interaction with the site, please contact us at: <u><a href="mailto:WebMaster@lotterync.net">WebMaster@lotterync.net</a></u>.</p>
             <p><br>
             </p></td>
       </tr>
@@ -105,96 +105,158 @@ var myMenu2 = new ypSlideOutMenu("menu2", "down", -1000, 105, 92, 90, 101)
           </td>
       </tr>
       <tr>
-        <td valign="top">
-<table width="155" border="0" cellpadding="0" cellspacing="0">
+        <td valign="top"><script language="javascript">
+/****
+* Banner Ad Rotater v3.02
+* Anarchos > anarchos3@hotmail.com
+* http://anarchos.xs.mw/bannerad.phtml
+**/
+
+function Banner(refreshTime, width, height, altText, start, random){
+	this.objName = "bannerAd" + (Banner.count++);
+	eval(this.objName + "=this");
+	if (!refreshTime) this.refreshTime = 5000; else this.refreshTime = refreshTime*1000;
+	if (!width) this.width = 460; else this.width = width;
+	if (!height) this.height = 68; else this.height = height;
+	if (random == null) this.random = 1; else this.random = random;
+	this.altText = altText;
+	this.ads = [];
+	if (start) this.currentAd = start-1; else start = null;
+	this.mySize = 0;
+
+	this.Ad = function(src, href, target, mouseover) {
+		var tempImage = new Image();
+		tempImage.src = src;
+		this.ads[this.mySize] = new Object();
+		var ad = this.ads[this.mySize];
+		ad.src = src;
+		if (typeof(target) == "undefined" || target == null) ad.target = "_self"; else ad.target = target;
+		ad.href = href;
+		ad.mouseover = mouseover;
+		this.mySize++;
+	}
+
+	this.link = function(){
+		var	ad = this.ads[this.currentAd];
+		if (ad.target == "_self"){
+			location.href = ad.href;
+		}
+		else if (ad.target == "_blank" || ad.target == "_new"){
+			open(ad.href,this.objName + "Win");
+		}
+		else top.frames[ad.target].location.href = ad.href;
+	}
+
+	this.showStatus = function(){
+		var ad = this.ads[this.currentAd];
+		if (ad.mouseover) status = ad.mouseover;
+		else status = ad.href;
+	}
+
+	this.randomAd = function(){
+		var n;
+		do { n = Math.floor(Math.random() * (this.mySize)); } 
+		while(n == this.currentAd);
+		this.currentAd = n;
+	}
+
+	this.output = function(){
+		var tempCode = "";
+		if (this.mySize > 1){
+			if (this.currentAd == null) this.randomAd();
+			if (this.currentAd >= this.mySize) this.currentAd = this.mySize - 1;
+			tempCode = '<a href="javascript:'+this.objName+'.link();"';
+			tempCode += ' onMouseOver="' + this.objName + '.showStatus(); return true"';
+			tempCode += ' onMouseOut="status=\'\';return true">';
+			tempCode += '<img src="' + this.ads[this.currentAd].src + '" width="' + this.width;
+			tempCode += '" name="' + this.objName + 'Img" height="' + this.height + '" ';
+			if (this.altText) tempCode += 'alt="'+this.altText + '" ';
+			tempCode += 'border="0" /></a>';
+			document.write(tempCode);
+			this.nextAd();
+		} else document.write("Error: two banners must be defined for the script to work.");
+	}
+
+	this.newAd = function(){
+		if (!this.random){	
+			this.currentAd++;
+			if (this.currentAd >= this.mySize)
+			   this.currentAd = 0;
+		}
+		else {
+			this.randomAd();
+		}
+		this.nextAd();
+	}
+
+	this.nextAd = function(){
+		document.images[this.objName+ 'Img'].src = this.ads[this.currentAd].src;
+		setTimeout(this.objName+'.newAd()',this.refreshTime)
+	}
+}
+Banner.count = 0;
+</script>
+<table width="155" border="0" cellpadding="0" cellspacing="0" background="/images/img_rcolumn-middle.gif">
 	<tbody><tr>
-		<td colspan="2"><img src="/images/img_retailer_top.gif" width="123" height="13" align="top"></td>
-		<td width="32"><img src="/images/img_retailer_topcorner.gif" width="32" height="13"></td>
+		
+		<form id="frmRetailers" action="/retailer_locations.aspx" method="get"></form>
+		<td>
+			<div id="retailerRight">
+		    	<span class="zipText">Zip Code</span>&nbsp;&nbsp;<input type="text" id="zipBox" name="zip" size="6" maxlength="5">
+            	<br>
+            	<input name="btnLocate" type="submit" id="btnLocate" value="Locate" class="rightButton">  	
+			</div>		</td>
+		
 	</tr>
 	<tr>
-		<td width="4" valign="top" class="greyborder">&nbsp;</td>
-		<td width="119" valign="top" class="bluebg"><div align="center"><span class="formtext">Find
-                    a retailer</span><br>
-				<span class="WhiteTextSmall">Enter Zip Code</span>
-			</div>
-			<label></label>
-			<div style="PADDING-RIGHT:6px;PADDING-LEFT:6px;PADDING-BOTTOM:6px;PADDING-TOP:6px">
-				<center>
-					<input name="Rightcolumn1:txtZipCode" type="text" maxlength="50" size="10" id="Rightcolumn1_txtZipCode">
-				</center>
-			</div>
-			<div align="center">
-				<input type="image" name="Rightcolumn1:imgLocate" id="Rightcolumn1_imgLocate" src="images/btn_locate.gif" alt="">
-			</div>
-		</td>
-		<td><img src="/images/img_retailer_right.gif" width="32" height="100"></td>
+		<td><img src="/images/img_rcolumn-middle-star.gif" width="155" height="10"></td>
 	</tr>
 	<tr>
-		<td colspan="2"><img src="/images/img_retailer_bottom.gif" width="123" height="14"></td>
-		<td><img src="/images/img_retailer_bottomcorner.gif" width="32" height="14"></td>
-	</tr>
-	<tr>
-		<td colspan="3"><img src="/images/img_rcolumn-middle-star.gif" width="155" height="10"></td>
-	</tr>
-	<tr>
-		<td colspan="2"><img src="/images/img_retailer_top.gif" width="123" height="13"></td>
-		<td><img src="/images/img_retailer_topcorner.gif" width="32" height="13"></td>
-	</tr>
-	<tr>
-		<td class="greyborder">&nbsp;</td>
-		<td valign="top" class="bluebg"><div align="center" class="formtext">Search The Site</div>
-			<center>
-				<div style="PADDING-RIGHT:6px;PADDING-LEFT:6px;PADDING-BOTTOM:6px;PADDING-TOP:6px">
-					<input name="Rightcolumn1:txtSite" type="text" maxlength="50" size="10" id="Rightcolumn1_txtSite">
-				</div>
-				<input type="image" name="Rightcolumn1:imgSearch" id="Rightcolumn1_imgSearch" src="images/btn_search.gif" alt="">
-			</center>
-		</td>
-		<td><img src="/images/search_right.gif" width="32" height="81"></td>
-	</tr>
-	<tr>
-		<td colspan="2"><img src="/images/img_retailer_bottom.gif" width="123" height="14"></td>
-		<td><img src="/images/img_retailer_bottomcorner.gif" width="32" height="14"></td>
-	</tr>
-	<tr>
-		<td colspan="3"><img src="/images/img_rcolumn-middle.gif" width="155" height="10"></td>
-	</tr>
-	<tr>
-		<td colspan="2"><img src="/images/img_scam_top.gif" width="123" height="13"></td>
-		<td><img src="/images/img_scam_topcorner.gif" width="32" height="13"></td>
-	</tr>
-	<tr>
-		<td class="greyborder">&nbsp;</td>
-		<td valign="top" class="redbg"><div align="center" class="formtext"><a href="/lottery_scams.aspx"><img src="../images/img_lottery_scams.gif" alt="Caution! Lottery Scams - Click for More Information" width="119" height="75" border="0"></a></div>
-			<center>
-				
-			</center>
-		</td>
-		<td><img src="/images/img_scam_right.gif" width="32"></td>
-	</tr>
-	<tr>
-		<td colspan="2"><img src="/images/img_scam_bottom.gif" width="123" height="14"></td>
-		<td><img src="/images/img_scam_bottomcorner.gif" width="32" height="14"></td>
+		<td><a href="https://northcarolina.secondchancebonuszone.com/nascar/home.php"><img src="/images/secondChanceRight.gif" alt="Enter the Second Chance Drawing!" width="155" height="80" border="0"></a></td>
 	</tr>	
 	<tr>
-		<td colspan="3"><img src="/images/img_rcolumn-middle.gif" width="155" height="10"></td>
+		<td class="side-right-middle">&nbsp;</td>
 	</tr>
 	<tr>
-		<td colspan="2"><img src="/images/img_official_top.gif" width="123" height="13"></td>
-		<td><img src="/images/img_official_topcorner.gif" width="32" height="13"></td>
+		<td><a href="/email_signup.aspx"><img src="/images/email_updates_right.gif" alt="Receive Lottery Updates by Email or Text Message" width="155" height="54" border="0"></a></td>
 	</tr>
 	<tr>
-		<td class="greyborder">&nbsp;</td>
-		<td valign="top" class="redbg"><div align="center" class="formtext"><a href="official_website_alert.aspx"><img src="../images/img_website_alert.gif" alt="Official lottery website alert. Click for more information." width="119" height="75" border="0"></a></div>
-			<center>
-				
-			</center>
+		<td class="side-right-middle">&nbsp;</td>
+	</tr>	
+
+		<tr>
+		<td>
+			<div id="bannerDiv">
+				<script type="text/javascript">
+					<!--
+					myAd = new Banner( 7, 155, 80, "Caution! Lottery Scams", 1, 0 );
+					myAd.Ad( "/images/img_lottery_scams.gif", "/lottery_scams.aspx", null, "Caution! Lottery Scams" );
+					myAd.Ad( "/images/img_website_alert.gif", "/official_website_alert.aspx", null, "Official Lottery Website Alert" );
+					myAd.output();
+					// -->
+				</script><a href="javascript:bannerAd0.link();" onmouseover="bannerAd0.showStatus(); return true" onmouseout="status='';return true"><img src="/images/img_lottery_scams.gif" width="155" name="bannerAd0Img" height="80" alt="Caution! Lottery Scams" border="0"></a>
+				<noscript>
+					<a href="/lottery_scams.aspx"><img src="/images/img_lottery_scams.gif" alt="Caution!  Lottery Scams" width="155" height="80" border="0" /></a>
+				</noscript>
+			</div>
+    	</td>
+	</tr>
+	<tr>
+		<td class="side-right-middle">&nbsp;</td>
+	</tr>	
+	<tr>
+		<form id="frmSearch" action="/search_results.aspx" method="get"></form>
+		<td>
+			<div id="searchRight">
+				<input name="search" type="text" id="searchBox" value="" size="12" maxlength="50">
+				<br>
+				<input name="btnSearch" type="submit" id="btnSearch" value="Search" class="rightButton">			
+			</div>		
 		</td>
-		<td><img src="/images/img_official_right.gif" width="32" height="75"></td>
-	</tr>
+			
+	</tr>	
 	<tr>
-		<td colspan="2"><img src="/images/img_official_bottom.gif" width="123" height="14"></td>
-		<td><img src="/images/img_official_bottomcorner.gif" width="32" height="14"></td>
+		<td class="side-right-middle">&nbsp;</td>
 	</tr>	
 </tbody></table>
 
@@ -223,7 +285,7 @@ var myMenu2 = new ypSlideOutMenu("menu2", "down", -1000, 105, 92, 90, 101)
   </tr>
 </tbody></table>
 
- </form>
+ 
 
 
-</body></html>
+</form></body></html>
