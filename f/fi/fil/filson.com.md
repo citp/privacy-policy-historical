@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filson.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205204343id_/http%3A//www.filson.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooter_privacyPolicy_txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filson.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615191856id_/http%3A//www.filson.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooter_privacyPolicy_txt) for the most accurate reproduction.*
 
 # Filson Help Desk
 
