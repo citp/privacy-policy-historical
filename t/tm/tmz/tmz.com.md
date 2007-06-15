@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmz.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230051424id_/http%3A//www.tmz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmz.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616014730id_/http%3A//www.tmz.com/privacy) for the most accurate reproduction.*
 
 # TMZ.com
 
