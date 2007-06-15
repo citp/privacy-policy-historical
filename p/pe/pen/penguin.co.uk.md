@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the penguin.co.uk privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114005111id_/http%3A//www.penguin.co.uk/static/html/uk/copyright/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penguin.co.uk privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615161803id_/http%3A//www.penguin.co.uk/static/html/uk/copyright/privacy.html) for the most accurate reproduction.*
 
 # Penguin UK - Privacy Policy
 
