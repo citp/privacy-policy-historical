@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carwale.com privacy policy that was archived on 2006-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061129213754id_/http%3A//www.carwale.com/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carwale.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615175526id_/http%3A//carwale.com/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - CarWale.com India
 
