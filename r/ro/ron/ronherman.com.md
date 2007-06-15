@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ronherman.com privacy policy that was archived on 2006-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060706112237id_/http%3A//www.ronherman.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ronherman.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615041603id_/http%3A//www.ronherman.com/privacy.aspx) for the most accurate reproduction.*
 
 # Ron Herman - Juicy Couture - Rebel Yell - DaNang - True Religion - Seven For All Mankind
 
