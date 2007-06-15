@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petco.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205214406id_/http%3A//www.petco.com//Content/petco_HelpList_PC_helplist_Nav_17_TopicID_8.aspx%3Fcm_re%3D051806-_-ftr-_-privacy%233040) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petco.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616010400id_/http%3A//www.petco.com//Content/petco_HelpList_PC_helplist_Nav_17_TopicID_8.aspx%3Fcm_re%3D051806-_-ftr-_-privacy%233040) for the most accurate reproduction.*
 
 # Help Topics at PETCO
 
@@ -124,14 +124,14 @@ If you have any questions about this privacy statement, the practices of this we
 |  |  |  |    
 **Free Newsletters:** Pet Care Tips, Discounts & More!  
   
-
-
-* * *
-
+[](https://web.archive.org/Landing/Promo.aspx?PromoCode=summerfun&Nav=1&cm_sp=siteoffer-_-freeship-_-061007)   
+  
+[](https://web.archive.org/Content/PetcoStars.aspx?nav=1&cm_sp=siteoffer-_-stars-_-061007)   
   
   
-[](https://web.archive.org/Landing/Promo.aspx?PromoCode=winter&AddPromo=TRUE&cm_sp=siteoffer-_-fs60-_-113006)   
-[](https://web.archive.org/Page.aspx?PC=dealofdaylanding&Nav=427&cm_sp=merch-_-checkdeal-_-sitewide)   
+  
+[](https://web.archive.org/Page.aspx?PC=shutterfly&nav=371&cm_sp=siteoffer-_-shutterlfy-_-060107)   
+  
   
   
 |  | 
