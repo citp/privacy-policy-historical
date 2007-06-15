@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partypoker.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213011522id_/http%3A//www.partypoker.com/about_us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partypoker.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615134632id_/http%3A//www.partypoker.com/about_us/privacy.html) for the most accurate reproduction.*
 
 # PartyPoker.com - About Us - Privacy
 
