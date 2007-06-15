@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nasdaq.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231051443id_/http%3A//www.nasdaq.com/sitespecific/privacy.stm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nasdaq.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615114314id_/http%3A//www.nasdaq.com/sitespecific/privacy.stm) for the most accurate reproduction.*
 
 # NASDAQ Privacy Statement
 
@@ -124,7 +124,7 @@ Website: <http://www.emi.nasdaq.com/>
 User Profile update: [ http://emi.nasdaq.com/Management.aspx?tab=home&page=updateUserInfo](http://emi.nasdaq.com/Management.aspx?tab=home&page=updateUserInfo)  
 Email: [emi@nasdaq.com](mailto:emi@nasdaq.com)
 
-Website: [www.nasdaqtrader.com/enastraq](https://web.archive.org/web/20061231051443id_/http%3A//www.nasdaq.com/sitespecific/www.nasdaqtrader.com/enastraq)  
+Website: [www.nasdaqtrader.com/enastraq](https://web.archive.org/web/20070615114314id_/http%3A//www.nasdaq.com/sitespecific/www.nasdaqtrader.com/enastraq)  
 Email: [enastraq@nastraq.com](mailto:enastraq@nastraq.com)
 
 **Mailing address:**  
@@ -140,7 +140,7 @@ Website: <http://www.nasdaqinsurance.com/>
 Website: <http://www.nasdaqtrader.com/>  
 Website: <https://www.nasdaq.net/nisn_frameset.asp>  
 Website: <http://www.nasdaq.com/>  
-Website: [www.nasdaqtrader.com/enastraq](https://web.archive.org/web/20061231051443id_/http%3A//www.nasdaq.com/sitespecific/www.nasdaqtrader.com/enastraq)
+Website: [www.nasdaqtrader.com/enastraq](https://web.archive.org/web/20070615114314id_/http%3A//www.nasdaq.com/sitespecific/www.nasdaqtrader.com/enastraq)
 
 Because NASDAQ wants to demonstrate its commitment to your privacy, we has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first contact the appropriate contact from the list above. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at [ http://www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php) . TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
