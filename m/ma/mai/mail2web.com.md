@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mail2web.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231070722id_/http%3A//services.mail2web.com/About/Policy/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mail2web.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615231901id_/http%3A//services.mail2web.com/About/Policy/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
