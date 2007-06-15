@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the usatf.org privacy policy that was archived on 2006-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061015001216id_/http%3A//www.usatf.org/about/privacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usatf.org privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615194509id_/http%3A//www.usatf.org/about/privacyStatement.asp) for the most accurate reproduction.*
 
 # USATF - Privacy Statement
-
-| 
 
 USA Track & Field Privacy Statement
 
@@ -135,14 +133,3 @@ For the website and printed directories, contact information may be corrected/ad
 Notification of Changes
 
 If USATF changes its privacy policy, we will post a notice of the change on our homepage for at least seven days so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point USATF decides to use personally identifiable information in a manner different from that stated at the time it was collected, users will have a choice whether to consent to such use.
-
-| [](https://web.archive.org/membership/?sc=joinNow)[](https://web.archive.org/store/?sc=shopNow)
-
-  
-
-
-* * *
-
-* * *
-
-* * *
