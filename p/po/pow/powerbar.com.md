@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerbar.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212211607id_/http%3A//www.powerbar.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerbar.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616062046id_/http%3A//www.powerbar.com/Privacy) for the most accurate reproduction.*
 
 # PowerBar: Privacy
 
@@ -10,11 +10,10 @@
 [](https://web.archive.org/Company/ContactUs.aspx)  
 | 
 
-Effective Date: 10/25/2006
+Effective Date: 10/25/2006  
+Last Updated On: 3/9/2007
 
-### Welcome!
-
-Thank you for visiting a Nestlé USA (“Nestlé USA,” “we,” or “our”) website. The following is a description of how we collect, store, and use the personal information you provide us through any of the websites operated by Nestlé USA, including the one you are currently visiting ("Nestlé USA Privacy Policy" or “Privacy Policy”). 
+Thank you for visiting a Nestlé USA (“Nestlé USA,” “we,” or “our”) website. The following is a description of how we collect, store, and use the personal information you provide us through any of the websites operated by Nestlé USA, including the one you are currently visiting (“Nestlé USA Privacy Policy” or “Privacy Policy”). We have also voluntarily undertaken privacy certification with TRUSTe, which requires that we meet established online information collection and use practices.
 
 We encourage you to read this Privacy Policy before you submit any personal information on this website. For a complete description of our online privacy practices, please click on the topics of interest provided below. 
 
@@ -42,6 +41,8 @@ Note: If you are a parent or legal guardian and are interested in learning about
 
 The Nestlé USA Privacy Policy currently applies to any website operated by Nestlé USA and that posts a direct link to this Privacy Policy (“Nestlé USA Website(s),” “Website(s),” or “Site(s)”). In addition, the privacy practices set forth in this Privacy Policy pertain only to the on-line collection of information through the Nestlé USA Websites, but do not apply to information that may be collected by Nestlé USA off-line.
 
+The TRUSTe program only covers information that is collected through Nestlé USA Websites, and does not cover information that may be collected through any software downloaded from our Websites. Please note, however, that Nestlé USA does not presently collect personal information when you download certain features such as screen savers and cookbooks from our Websites.
+
 #### Websites Not Covered by this Privacy Policy 
 
 This Privacy Policy does not apply to websites maintained by other companies or organizations to which we link, including websites that are operated by our parent or affiliate companies or that are not otherwise a part of the Nestlé USA family of websites (collectively, “third party sites”). These third party sites may include but are not limited to websites operated by: 
@@ -50,7 +51,7 @@ This Privacy Policy does not apply to websites maintained by other companies or 
   2. our international affiliates (e.g., Nestlé Canada); 
   3. joint ventures such as Beverage Partners Worldwide (e.g., nestea.com); 
   4. other U.S. subsidiaries of Nestlé SA such as Dreyer’s Ice Cream and Nestlé Waters North America (e.g., nestle-waters.com); 
-  5. online stores that sell Nestlé products (e.g., mybrandsinc.com, careexpress.com, imprintstore.com, and rei.com); and, 
+  5. unaffiliated online stores that sell Nestlé products and to which we link (e.g., mybrandsinc.com and rei.com); and, 
   6. Nestlé USA that are directed to businesses (e.g., vend-nesquik.com and nestlefoodservices.com). 
 
 
@@ -76,7 +77,7 @@ Personal information is only collected with your knowledge (i.e., if you volunta
   * Sweepstakes, contests, or other promotions; 
   * Surveys and polls; 
   * Message boards and other interactive activities; 
-  * Purchase of a Nestlé product through an online store to which we link; 
+  * Purchasing a Nestlé product through one of our online stores; 
   * E-cards, tell-a-friend, or other one-time use features; 
   * Feedback, questions, or comments through one of our Contact or “Ask the Expert” forms; 
   * Information submitted in a business capacity (e.g., resumes, media requests, etc.); 
@@ -88,13 +89,13 @@ Personal information is only collected with your knowledge (i.e., if you volunta
 
 Note: depending on the Nestlé USA site that you are visiting, some or many of the activities listed above may not be available.
 
-The types and amount of information collected for the features listed above will vary depending on the activity. The requested personal information may include: first and last name, email address, home address (including city and state), and telephone number (work or home). For some activities, you may be asked to create a username and/or password and/or to provide additional, demographic information, including: (i) your age or date of birth, (ii) gender, (iii) frequency of use, purchase, and consumption of certain Nestlé products and/or other similar products, (iv) facts about your household or lifestyle, and/or, (v) other information relevant to the Nestlé product you’ve purchased or the specific Site which you are visiting (for example, if you are registering on verybestbaby.com or verybestkids.com, you may be asked to provide information about the children in your household, including their names, genders, and birthdates). 
+The types and amount of information collected for the features listed above will vary depending on the activity. The requested personal information may include: first and last name, email address, home address (including city and state), telephone number (work or home), and (for those purchasing products online) credit card information. For some activities, you may be asked to create a username and/or password and/or to provide additional, demographic information, including: (i) your age or date of birth, (ii) gender, (iii) frequency of use, purchase, and consumption of certain Nestlé products and/or other similar products, (iv) facts about your household or lifestyle, and/or, (v) other information relevant to the Nestlé product you’ve purchased or the specific Site which you are visiting (for example, if you are registering on verybestbaby.com or verybestkids.com, you may be asked to provide information about the children in your household, including their names, genders, and birthdates). 
 
 If demographic information is collected for an activity that also requires personal information, we may combine the demographic information with your personal information. Combining data allows us to customize the notices we send you and the content we provide you according to your interests and preferences. For more on how we use your information, please read the section on use below. 
 
 ### How do we use the information we collect? 
 
-Generally, all information collected is used for the purpose for which the information was collected or as otherwise identified at the point of collection or in this Privacy Policy. For example, if you sign up or register on a Nestlé USA Website (“general website registration”), the information you provide is used to offer you the benefits and privileges that typically come along with registration. This may include access to and use of exclusive or personalized content or activities on the Nestlé USA Websites (e.g., message boards, upload features, personalized recipe boxes, etc.), participation in special events and promotions (contests, sweepstakes, coupons, etc.), and the ability to receive the communications or marketing material you select at the time of registration or that automatically come with your registration. Similarly, if you contact us via an online contact form or through one of our Ask the Expert features, your information is used to respond to your inquiry or comment, and in some instances, post the answers to your question in anonymous form on the relevant Website. For additional specifics about some of the features available on the Nestlé USA Websites, please see below. 
+Generally, all information collected is used for the purpose for which the information was collected or as otherwise identified at the point of collection or in this Privacy Policy. For example, if you sign up or register on a Nestlé USA Website (“general website registration”), the information you provide is used to offer you the benefits and privileges that typically come along with registration. This may include access to and use of exclusive or personalized content or activities on the Nestlé USA Websites (e.g., message boards, upload features, personalized recipe boxes, etc.), participation in special events and promotions (contests, sweepstakes, coupons, etc.), and the ability to receive the communications or marketing material you select at the time of registration or that automatically come with your registration. Similarly, if you contact us via an online contact form or through one of our Ask the Expert features, your information is used to respond to your inquiry or comment, and in some instances, post the answers to your question in anonymous form on the relevant Website. And, of course, any credit card information you provide us is used to fulfill and process your online purchases. For additional specifics about some of the features available on the Nestlé USA Websites, please see below. 
 
 When registering or providing information on our Sites, you may also be given the option (through a check box or otherwise) to have your information used for an activity or service different from the primary activity or service that you are requesting. For example, if you are signing up for a contest or other promotion, you may also be able to sign up for newsletters or alerts from the Site hosting the promotion or from other Nestlé USA Sites or products. If you choose to receive these additional services, Nestlé USA will use your information to provide them to you. 
 
@@ -108,7 +109,7 @@ The following provides additional information about certain features on our Webs
 
 If you provide us your email address and/or mailing address (whether as part of our general website registration or for a specific newsletter or communication), the contact information you provide will be used to send you the specific newsletter, communication, or literature requested. In addition, you may receive communications introducing you to other Nestlé brands or Websites. These materials may come in the form of regular mail or email, depending on the Site you register on and the information you provide during registration.
 
-We may also use your email address to send you transactional or administrative communications (e.g., confirmation email when you sign up for, or unsubscribe from, a specific registration or activity), as well as certain service-related announcements (e.g., notices about updates to our Privacy Policy, discontinued features or programs on our Websites, changes to our online services or technical support policies, or other related changes). Collectively, these types of communications are referred to in this Privacy Policy as “Administrative Communications.”
+We may also use your email address to send you transactional or administrative communications (e.g., confirmation email when you purchase a product online or when you sign up for, or unsubscribe from, a specific registration or activity), as well as certain service-related announcements (e.g., notices about updates to our Privacy Policy, discontinued features or programs on our Websites, changes to our online services or technical support policies, or other related changes). Collectively, these types of communications are referred to in this Privacy Policy as “Administrative Communications.”
 
   * Sweepstakes, Contests, and Promotions  
   
@@ -128,7 +129,9 @@ Please note that if we choose to post a picture or message that you provide us t
 
   * Purchasing Nestlé products online
 
-Although we do not presently operate an online store on our Websites, some of our Sites allow you to link to other sites that sell Nestlé products. In some instances, these stores may appear in a Nestlé-branded frame or web page so that the online buying experience is seamless to you. Please note that these sites are not operated by Nestlé USA and are not covered by this Privacy Policy. We are selective in who we choose to partner with to sell Nestlé products online and we will strive to work with online retailers that use industry-standard encryption when collecting and processing orders through their websites. This helps prevent unauthorized electronic access to sensitive financial information, such as your credit card number. We encourage you to read the privacy policy of the online store you are visiting before sharing any personal information such as your credit card number.
+Some of our Sites may allow you to purchase Nestlé products through an online store operated by Nestlé USA or by a vendor on our behalf (“Nestlé USA Online Store”), while other Nestlé USA Websites may provide links to unaffiliated third party sites that sell Nestlé products. If you are purchasing a product through a Nestlé USA Online Store, you will be asked to provide your credit card information, including credit card number and billing and shipping addresses, as well as other basic contact information (e.g., phone, email address). This information is used to fulfill your purchase and confirm your order.
+
+If the online store you are visiting is operated by an unaffiliated third party, we may provide you a direct link to the third party store for your convenience. Please note, however, that these sites are not operated by Nestlé USA and are not covered by this Privacy Policy. We are selective in who we choose to partner with to sell Nestlé products online and we will strive to work with online retailers who (like ourselves) use industry-standard encryption when collecting and processing orders through their websites. This helps prevent unauthorized electronic access to sensitive financial information, such as your credit card number. We encourage you to read the privacy policy of the online store you are visiting before sharing any personal information such as your credit card number.
 
   * E-cards, tell-a-friend, and other one-time use features
 
@@ -149,13 +152,13 @@ As with other Nestlé USA Sites (as more fully described in this Privacy Policy)
 
 ### What happens if you refuse to provide your personal information? 
 
-If you choose not to submit any personal information when requested, you may not be able to participate in certain activities and personalized features on our Websites and may limit the services and special offers we can provide you. For example, if you refuse to share your email address, you will not be able to receive any of our newsletters or otherwise register on our Websites. To simply browse our Websites and learn more about our products, you do not need to give us any personal information.
+If you choose not to submit any personal information when requested, you may not be able to participate in certain activities and personalized features on our Websites and may limit the services and special offers we can provide you. For example, if you refuse to share your email address, you will not be able to receive any of our newsletters or otherwise register on our Websites. If you refuse to provide your credit card number, you will not be able to purchase products at a Nestlé USA Online Store. However, to simply browse our Websites and learn more about our products, you do not need to give us any personal information.
 
 ### Do we use cookies, track IP addresses, or use other passive means to collect information? 
 
 #### Cookies 
 
-We use cookies to improve the use and functionality of our Websites. A "cookie" is a small file or record-keeping device that websites often store on a user's computer. Storage of cookies on your system provides an easy and convenient way for us to personalize or enhance your experience on our Websites and to make your next visit more enjoyable. For example, cookies may remember the content you previously viewed on our Sites or the email address and password you provided when registering during an earlier visit to our Sites. This may allow us to serve you content tailored to your interests or save you the time of having to re-register or re-enter information when you re-visit our Sites or try to access certain member-only sections. On some Sites, cookies enable us to store your favorite recipes, activities, points or high scores. We may also use cookies to lockout underage users from certain activities. We do not use cookies to collect personal information such as your name; however, we may link information contained in a cookie to personal information collected from you by other means (e.g., general website registration). You can always disable cookies or set your browser to alert you when cookies are being sent to your computer; however, if you do so, you may not be able to register on our Site or use other features that require registration. 
+We use cookies to improve the use and functionality of our Websites. A "cookie" is a small file or record-keeping device that websites often store on a user's computer. Storage of cookies on your system provides an easy and convenient way for us to personalize or enhance your experience on our Websites and to make your next visit more enjoyable. For example, cookies may remember the content you previously viewed on our Sites or the email address and password you provided when registering during an earlier visit to our Sites. Cookies may also remember items you have previously placed in your shopping cart while visiting a Nestlé USA Online Store. Using cookies, therefore, may allow us to serve you content tailored to your interests and save you the time of having to re-register or re-enter information when you re-visit our Sites or try to access certain member-only sections. On some Sites, cookies enable us to store your favorite recipes, activities, points or high scores. We may also use cookies to lockout underage users from certain activities. We do not use cookies to collect personal information such as your name; however, we may link information contained in a cookie to personal information collected from you by other means (e.g., general website registration). You can always disable cookies or set your browser to alert you when cookies are being sent to your computer; however, if you do so, you may not be able to register on our Site or use other features that require registration or the collection of information. 
 
 #### IP Addresses 
 
@@ -167,7 +170,7 @@ We (or a vendor on our behalf) may collect information in the form of logs - fil
 
 #### Web Beacons 
 
-We may use web beacons (or clear GIFs) on our Websites or include them in the e-mail messages we send you. Web beacons (also known as "web bugs") are small strings of code that provide a method of delivering a graphic image on a web page or in an email message for the purpose of transferring data back to us. The information collected via web beacons may include some of the information described in the IP Address section directly above, as well as information about how a user responds to an email campaign from Nestlé USA (e.g., the time the email is opened, where does the user link to from the email, etc.). We use web beacon information for a variety of purposes, including but not limited to, site traffic reporting, unique visitor counts, advertising and email auditing and reporting, and personalization. 
+We may use web beacons (or clear GIFs) on our Websites or include them in the e-mail messages we send you. Web beacons (also known as “web bugs”) are small strings of code that provide a method of delivering a graphic image on a web page or in an email message for the purpose of transferring data back to us. The information collected via web beacons may include some of the information described in the IP Address section directly above, as well as information about how a user responds to an email campaign from Nestlé USA (e.g., the time the email is opened, where does the user link to from the email, etc.). We use web beacon information for a variety of purposes, including but not limited to, site traffic reporting, unique visitor counts, advertising and email auditing and reporting, and personalization. 
 
 ### Who is collecting your personal information and is it shared with anyone? 
 
@@ -175,7 +178,7 @@ The information that you disclose on the Nestlé USA Websites is collected by Ne
 
 #### Agents and Contractors 
 
-We may use outside companies, agents, or contractors (“vendors”) to provide support for the internal operations of our Websites and to assist us with administering the various programs and promotions on our Sites. In the course of doing so, these vendors may come into contact with your personal information. However, we only give them access to (or allow them to collect on our behalf) the information they need in order to perform the specific tasks they’ve been hired to do. They have also agreed to protect the confidentiality and security of this information. 
+We may use outside companies, agents, or contractors (“vendors”) to provide support for the internal operations of our Websites and to assist us with administering a Nestlé USA Online Store or the various programs and promotions available on our Sites. In the course of doing so, these vendors may come into contact with your personal information. However, we only give them access to (or allow them to collect on our behalf) the information they need in order to perform the specific tasks they’ve been hired to do. They have also agreed to protect the confidentiality and security of this information. 
 
 #### Partners and Joint Promotions 
 
@@ -199,7 +202,7 @@ We may share aggregated demographic or survey information with third parties, bu
 
 ### What safeguards do we use to protect your personal information? 
 
-Nestlé USA takes commercially reasonable efforts to protect the confidentiality and security of the personal information collected from our Website visitors, including children under 13. These efforts include, but are not necessarily limited to: (i) storing your personal information in secure operating environments that are not available to the public and that are only accessible to authorized Nestlé USA employees, and our agents and contractors; (ii) using industry-standard SSL encryption to protect the security of certain sensitive personal information (if collected) during transmission to our Websites, and, (iii) verifying the identities of registered Website users before they can access the personal information we maintain about them. 
+Nestlé USA takes commercially reasonable efforts to protect the confidentiality and security of the personal information collected from our Website visitors, including children under 13. These efforts include, but are not necessarily limited to: (i) storing your personal information in secure operating environments that are not available to the public and that are only accessible to authorized Nestlé USA employees, and our agents and contractors; (ii) using industry-standard SSL encryption to protect the security of certain sensitive personal information (such as credit card information) during transmission to our Websites, and, (iii) verifying the identities of registered Website users before they can access the personal information we maintain about them. 
 
 ### How can you access, modify, or make other choices regarding the use of your information? 
 
@@ -223,10 +226,12 @@ In addition, please note that if you participated in a promotion or program that
 If you have any questions, complaints, or comments regarding this Privacy Policy or our information collection practices, please contact us at: 
 
 Nestlé USA Office of Consumer Services  
-PO Box 2178   
-Wilkes-Barre, PA 18703  
-[Contact Us](http://www.powerbar.com/Company/ContactUs.aspx)  
+800 N. Brand Blvd.  
+Glendale, CA 91203  
+Contact Us  
 1-800-225-2270 
+
+Nestlé USA is a licensee of the TRUSTe Privacy Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. 
 
 * * *
 
@@ -281,6 +286,8 @@ If you are a parent that has given us permission to collect and store your child
 If any of the options set forth above are not available or you wish to make a different request, please either: (i) refer to the documentation provided to you when you gave your consent; or, (ii) contact us using the information provided above. Please be sure to have the following information ready for verification purposes: your child’s name and email address, your name and email address, and the name of the Site at which your child registered. 
 
 Please be advised that if you permit your child to register on a Nestlé USA Site or participate in other Site activities available to children under 13, your child may also have the ability to review, modify, or delete his/her personal information associated with such registration or activity. This may include the ability to unsubscribe himself/herself from a feature that you’ve consented to.
+
+Any changes to this Children's Privacy Policy will be posted here and material changes will generally apply only to activities and information collected on a going forward basis. If we wish to materially change how we use your child's previously-collected personal information, we will notify you by email and seek the required parental consent.
 
 * * *
 
