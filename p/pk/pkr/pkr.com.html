@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pkr.com privacy policy that was archived on 2006-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061206004905id_/http%3A//www.pkr.com/footer/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pkr.com privacy policy that was archived on 2007-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070616054538id_/http%3A//www.pkr.com/footer/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 
@@ -20,7 +20,7 @@
 <meta name="expires" content="Never">
 <meta name="robots" content="Index, Follow">
 <meta name="revisit-after" content="7 Days">
-
+<meta name="verify-v1" content="qUsxSjC6DyUZbzkFpF+1/rX0NLnBDOoNjQ9dVyrxEdE=">
 <!-- beging ICRA tagging -->
 <link rel="meta" href="http://www.pkr.com/labels.xml" type="application/rdf+xml" title="ICRA labels">
 <meta http-equiv="pics-Label" content="(pics-1.1 &quot;http://www.icra.org/pics/vocabularyv03/&quot; l gen true for &quot;http://pkr.com&quot; r (n 0 s 0 v 0 l 0 oa 0 ob 0 oc 0 od 0 oe 2 of 0 og 0 oh 0 c 0) gen true for &quot;http://www.pkr.com&quot; r (n 0 s 0 v 0 l 0 oa 0 ob 0 oc 0 od 0 oe 2 of 0 og 0 oh 0 c 0))">
@@ -35,6 +35,10 @@ rooturl="http://www.pkr.com/";
 <script language="javascript" src="_include/js/common.js" type="text/javascript"></script>
 <script language="javascript" src="_include/js/script_tmt_validator.js" type="text/javascript"></script>
 <script language="javascript" src="_include/js/flashobject.js" type="text/javascript"></script>
+<script type="text/javascript" src="_include/js/swfobject.js"></script>
+
+
+
 
 
 
@@ -44,20 +48,36 @@ rooturl="http://www.pkr.com/";
 </head>
 
 <body>
-<script language="javascript" src="_include/js/common.js" type="text/javascript"></script>
-<script language="javascript" src="_include/js/script_tmt_validator.js" type="text/javascript"></script>
-<script language="javascript" src="_include/js/flashobject.js" type="text/javascript"></script>
-
-
-
-	
-
 
 <div align="center">
 	<table width="990" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
 		<td align="left" valign="top" height="70"><a href="index.cfm"><img src="images/logo.gif" alt="PKR. Let's play." border="0"></a></td>
 		<td align="right" valign="bottom">
+			<div id="lang">
+				<table align="right" width="128" border="0" cellspacing="5" cellpadding="0">
+		  			
+					<form action="setlanguage.cfm" method="post"></form>
+					<tbody><tr>
+						<td><img src="images/flags/flag_gb.gif" alt="English"></td>
+						<td><select name="dropLanguage" class="box" onchange="form.submit();">
+							<option value="English">English</option>
+							<option value="Brasilian">Brasil</option>
+							<option value="Danish">Dansk</option>
+							<option value="German">Deutsch</option>
+							<option value="Spanish">Español</option>
+							<option value="Dutch">Hollands</option>
+							<option value="Italian">Italiano</option>
+							<option value="Norwegian">Norsk</option>
+							<option value="Finnish">Suomi</option>
+							<option value="Swedish">Svenska</option>
+						</select></td>
+					</tr>
+					
+				</tbody></table>
+			</div>
+		</td>
+		<td width="210" align="right" valign="bottom">
 	<table cellpadding="0" cellspacing="0" border="0">
 		<tbody><tr>
 			<td>
@@ -66,7 +86,9 @@ rooturl="http://www.pkr.com/";
 						<td><a href="play-poker/free-poker-download.cfm">Open account</a></td>
 						<td width="10" align="center"><span class="line"> | </span></td>
 
-						<td><a href="pkr-support/pkr-customer-services.cfm">Password?</a></td>
+							
+						<td><a href="javascript: popup('https://accounts.pkr.com/forgotpassword.aspx', 'account','700','500','status=yes,location=no, scrollbars=yes, resizable=yes')">Password?</a></td>
+						
 						<td width="10" align="center"><span class="line"> | </span></td>
 						<td><a href="pkr-support/">Help</a></td>
 					</tr>
@@ -78,15 +100,18 @@ rooturl="http://www.pkr.com/";
 		</tr>
 		<tr>
 			<td valign="bottom" align="right">
-				<form name="memberlogin" id="memberlogin" method="post" action="code.cfm" tmt:validate="true">
+				
+				<form name="memberlogin" id="memberlogin" method="post" action="https://www.pkr.com/code.cfm" tmt:validate="true">
+				
 				<table cellpadding="0" cellspacing="0" border="0" width="200" class="membertext">
 					<tbody><tr>
-						<td width="80"><input type="text" id="username" name="username" class="box" value="Username" tmt:required="true" tmt:message="Username" maxlength="15" onfocus="HideText()" onclick="HideText()" onblur="ShowText()"></td>
-						<td width="80"><input type="password" id="password" name="password" class="box" value="" tmt:required="true" tmt:message="Password" maxlength="15"></td>
+						<td width="80"><input type="text" id="username" name="username" class="box" value="Username" tmt:required="true" tmt:message="Username" maxlength="16" onfocus="HideText()" onclick="HideText()" onblur="ShowText()"></td>
+						<td width="80"><input type="password" id="password" name="password" class="box" value="" tmt:required="true" tmt:message="Password" maxlength="25"></td>
 						<td align="right" width="40"><input type="submit" value="LOGIN" class="button"></td>
 					</tr>
 				</tbody></table>
 				</form>
+				
 			</td>
 		</tr>
 		<tr>
@@ -102,7 +127,7 @@ rooturl="http://www.pkr.com/";
 	</tr>
 	</tbody></table>
 
-	
+<a name="top" id="top"></a>
 	<table id="maintable" width="990" border="0" cellpadding="0" cellspacing="0" style="height:440px;">
 	
 	<tbody><tr>
@@ -137,6 +162,19 @@ rooturl="http://www.pkr.com/";
 			
 			
 			
+						
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
 			
 
 		
@@ -165,12 +203,13 @@ rooturl="http://www.pkr.com/";
 			
 			
 		
+						
 			
 			
 			
-			
-			
+						
 				
+
 			
 		
 
@@ -180,30 +219,30 @@ rooturl="http://www.pkr.com/";
 			
 		
 	
-			
-				
-			
-		
-			
-				
-				
 
+				
+			
 		
 			
-			
-			
+				
 			
 
+					
+
+		
+					
+			
+			
+			
+						
+			
 		
 			
+						
 			
 			
 			
 			
-			
-			
-			
-		
 			
 			
 			
@@ -216,182 +255,64 @@ rooturl="http://www.pkr.com/";
 
 
 <tbody><tr>
-<td width="20" height="20" align="center"><a href="" onclick="expand('1');return false;"><img src="images/heart_1.gif" alt="Navigation" name="link1" width="12" height="12" border="0" id="link1"></a></td>
+<td width="20" height="20" align="center"><img src="images/heart_1.gif" alt="Navigation" name="link1" width="12" height="12" border="0" id="link1"></td>
 <td width="2"></td>
-<td width="100"><a href="play-poker/">Let's Play</a></td>
+<td width="100"><a href="play-poker/">Play PKR</a></td>
 </tr>
 <tr>
 <td colspan="3"><img src="images/left_divider.gif" alt="menu"></td>
 </tr>
 <tr>
 	<td colspan="3">
-		<div id="content1" style="display:none;">
-			<table border="0" cellpadding="0" cellspacing="0" width="100%" class="submenu">
-				
-				<tbody><tr>
-				<td height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="play-poker/free-poker-download.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="play-poker/free-poker-download.cfm">Download PKR</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-				<tr>
-				<td style="border-top:1px solid #0F494B;" height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="play-poker/pkr-game-features.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="play-poker/pkr-game-features.cfm">Game Features</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-				<tr>
-				<td style="border-top:1px solid #0F494B;" height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="play-poker/pkr-screenshots.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="play-poker/pkr-screenshots.cfm">Screenshots</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-				<tr>
-				<td style="border-top:1px solid #0F494B;" height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="play-poker/how-to-play-pkr.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="play-poker/how-to-play-pkr.cfm">User Guide</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-			</tbody></table>
-		</div>
+		
+		
+		
+
 	</td>
 </tr>
 
 
 
 <tr>
-<td width="20" height="20" align="center"><a href="" onclick="expand('2');return false;"><img src="images/heart_1.gif" alt="Navigation" name="link2" width="12" height="12" border="0" id="link2"></a></td>
+<td width="20" height="20" align="center"><img src="images/heart_1.gif" alt="Navigation" name="link2" width="12" height="12" border="0" id="link2"></td>
 <td width="2"></td>
-<td width="100"><a href="club-pkr/">Club PKR</a></td>
+<td width="100"><a href="poker-promotions/">Promotions</a></td>
 </tr>
 <tr>
 <td colspan="3"><img src="images/left_divider.gif" alt="menu"></td>
 </tr>
 <tr>
 	<td colspan="3">
-		<div id="content2" style="display:none;">
-			<table border="0" cellpadding="0" cellspacing="0" width="100%" class="submenu">
-				
-				<tbody><tr>
-				<td height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="club-pkr/how-club-PKR-works.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="club-pkr/how-club-PKR-works.cfm">How Club PKR works</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-				<tr>
-				<td style="border-top:1px solid #0F494B;" height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="club-pkr/PKR-points.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="club-pkr/PKR-points.cfm">PKR Points</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-				<tr>
-				<td style="border-top:1px solid #0F494B;" height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="club-pkr/bonuses-and-promos.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="club-pkr/bonuses-and-promos.cfm">Bonuses and Promos</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-				<tr>
-				<td style="border-top:1px solid #0F494B;" height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="club-pkr/awards.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="club-pkr/awards.cfm">Awards</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-				<tr>
-				<td style="border-top:1px solid #0F494B;" height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="club-pkr/welcome-gift.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="club-pkr/welcome-gift.cfm">Welcome Gift</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-			</tbody></table>
-		</div>
+		
+		
+		
+
 	</td>
 </tr>
 
 
 
 <tr>
-<td width="20" height="20" align="center"><a href="" onclick="expand('3');return false;"><img src="images/heart_1.gif" alt="Navigation" name="link3" width="12" height="12" border="0" id="link3"></a></td>
+<td width="20" height="20" align="center"><img src="images/heart_1.gif" alt="Navigation" name="link3" width="12" height="12" border="0" id="link3"></td>
+<td width="2"></td>
+<td width="100"><a href="club-pkr/">Loyalty</a></td>
+</tr>
+<tr>
+<td colspan="3"><img src="images/left_divider.gif" alt="menu"></td>
+</tr>
+<tr>
+	<td colspan="3">
+		
+		
+		
+
+	</td>
+</tr>
+
+
+
+<tr>
+<td width="20" height="20" align="center"><img src="images/heart_1.gif" alt="Navigation" name="link4" width="12" height="12" border="0" id="link4"></td>
 <td width="2"></td>
 <td width="100"><a href="poker-school/">Poker School</a></td>
 </tr>
@@ -400,93 +321,17 @@ rooturl="http://www.pkr.com/";
 </tr>
 <tr>
 	<td colspan="3">
-		<div id="content3" style="display:none;">
-			<table border="0" cellpadding="0" cellspacing="0" width="100%" class="submenu">
-				
-				<tbody><tr>
-				<td height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="poker-school/beginners-guide-to-poker.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="poker-school/beginners-guide-to-poker.cfm">Beginner</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-				<tr>
-				<td style="border-top:1px solid #0F494B;" height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="poker-school/intermediate-poker-guide.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="poker-school/intermediate-poker-guide.cfm">Intermediate</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-				<tr>
-				<td style="border-top:1px solid #0F494B;" height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="poker-school/advanced-poker-strategy.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="poker-school/advanced-poker-strategy.cfm">Advanced</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-				<tr>
-				<td style="border-top:1px solid #0F494B;" height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="poker-school/email-poker-tutorials.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="poker-school/email-poker-tutorials.cfm">Courses</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-				<tr>
-				<td style="border-top:1px solid #0F494B;" height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="poker-school/poker-glossary.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="poker-school/poker-glossary.cfm">Glossary</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-			</tbody></table>
-		</div>
+		
+		
+		
+
 	</td>
 </tr>
 
 
 
 <tr>
-<td width="20" height="20" align="center"><a href="" onclick="expand('4');return false;"><img src="images/heart_1.gif" alt="Navigation" name="link4" width="12" height="12" border="0" id="link4"></a></td>
+<td width="20" height="20" align="center"><img src="images/heart_1.gif" alt="Navigation" name="link5" width="12" height="12" border="0" id="link5"></td>
 <td width="2"></td>
 <td width="100"><a href="poker-tournaments/">Tournaments</a></td>
 </tr>
@@ -495,153 +340,17 @@ rooturl="http://www.pkr.com/";
 </tr>
 <tr>
 	<td colspan="3">
-		<div id="content4" style="display:none;">
-			<table border="0" cellpadding="0" cellspacing="0" width="100%" class="submenu">
-				
-				<tbody><tr>
-				<td height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="poker-tournaments/pkr-tournaments.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="poker-tournaments/pkr-tournaments.cfm">Tournaments at PKR</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-				<tr>
-				<td style="border-top:1px solid #0F494B;" height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="poker-tournaments/poker-tournament-schedule.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="poker-tournaments/poker-tournament-schedule.cfm">Tournament Schedule</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-				<tr>
-				<td style="border-top:1px solid #0F494B;" height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="poker-tournaments/multi-table-tournaments.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="poker-tournaments/multi-table-tournaments.cfm">Multi-table tournaments</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-				<tr>
-				<td style="border-top:1px solid #0F494B;" height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="poker-tournaments/sit-and-go-tournaments.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="poker-tournaments/sit-and-go-tournaments.cfm">Sit and go's</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-				<tr>
-				<td style="border-top:1px solid #0F494B;" height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="poker-tournaments/satellite-tournaments.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="poker-tournaments/satellite-tournaments.cfm">Satellites</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-				<tr>
-				<td style="border-top:1px solid #0F494B;" height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="poker-tournaments/heads-up-tournaments.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="poker-tournaments/heads-up-tournaments.cfm">Heads-up</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-				<tr>
-				<td style="border-top:1px solid #0F494B;" height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="poker-tournaments/tournament-structures.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="poker-tournaments/tournament-structures.cfm">Tournament variations</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-				<tr>
-				<td style="border-top:1px solid #0F494B;" height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="poker-tournaments/freerolls-and-promotions.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="poker-tournaments/freerolls-and-promotions.cfm">Freerolls &amp; promos</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-				<tr>
-				<td style="border-top:1px solid #0F494B;" height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="poker-tournaments/poker-tournament-rules.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="poker-tournaments/poker-tournament-rules.cfm">Rules</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-			</tbody></table>
-		</div>
+		
+		
+		
+
 	</td>
 </tr>
 
 
 
 <tr>
-<td width="20" height="20" align="center"><a href="" onclick="expand('5');return false;"><img src="images/heart_1.gif" alt="Navigation" name="link5" width="12" height="12" border="0" id="link5"></a></td>
+<td width="20" height="20" align="center"><img src="images/heart_1.gif" alt="Navigation" name="link6" width="12" height="12" border="0" id="link6"></td>
 <td width="2"></td>
 <td width="100"><a href="poker-community/">Community</a></td>
 </tr>
@@ -650,108 +359,17 @@ rooturl="http://www.pkr.com/";
 </tr>
 <tr>
 	<td colspan="3">
-		<div id="content5" style="display:none;">
-			<table border="0" cellpadding="0" cellspacing="0" width="100%" class="submenu">
-				
-				<tbody><tr>
-				<td height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="poker-community/online-poker-forum.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="poker-community/online-poker-forum.cfm">Forums</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-				<tr>
-				<td style="border-top:1px solid #0F494B;" height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="poker-community/phil-laak-jennifer-tilly.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="poker-community/phil-laak-jennifer-tilly.cfm">Team PKR</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-				<tr>
-				<td style="border-top:1px solid #0F494B;" height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="poker-community/pkr-blog.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="poker-community/pkr-blog.cfm">PKR Blog</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-				<tr>
-				<td style="border-top:1px solid #0F494B;" height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="poker-community/online-poker-rankings.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="poker-community/online-poker-rankings.cfm">PKR Rankings</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-				<tr>
-				<td style="border-top:1px solid #0F494B;" height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="poker-community/pkr-player-search.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="poker-community/pkr-player-search.cfm">Member Search</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-				<tr>
-				<td style="border-top:1px solid #0F494B;" height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="poker-community/tell-a-friend.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="poker-community/tell-a-friend.cfm">Refer-a-Friend</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-			</tbody></table>
-		</div>
+		
+		
+		
+
 	</td>
 </tr>
 
 
 
 <tr>
-<td width="20" height="20" align="center"><a href="" onclick="expand('6');return false;"><img src="images/heart_1.gif" alt="Navigation" name="link6" width="12" height="12" border="0" id="link6"></a></td>
+<td width="20" height="20" align="center"><img src="images/heart_1.gif" alt="Navigation" name="link7" width="12" height="12" border="0" id="link7"></td>
 <td width="2"></td>
 <td width="100"><a href="mypkr/">My PKR</a></td>
 </tr>
@@ -760,238 +378,36 @@ rooturl="http://www.pkr.com/";
 </tr>
 <tr>
 	<td colspan="3">
-		<div id="content6" style="display:none;">
-			<table border="0" cellpadding="0" cellspacing="0" width="100%" class="submenu">
-				
-				<tbody><tr>
-				<td height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="mypkr/wins.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="mypkr/wins.cfm">Tournament Wins</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-				<tr>
-				<td style="border-top:1px solid #0F494B;" height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="mypkr/friends.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="mypkr/friends.cfm">Friends</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-				<tr>
-				<td style="border-top:1px solid #0F494B;" height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="mypkr/blog.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="mypkr/blog.cfm">Blog</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-				<tr>
-				<td style="border-top:1px solid #0F494B;" height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="mypkr/messages.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="mypkr/messages.cfm">Messages</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-				<tr>
-				<td style="border-top:1px solid #0F494B;" height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="mypkr/guestbook.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="mypkr/guestbook.cfm">Guest Book</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-			</tbody></table>
-		</div>
+		
+		
+		
+
 	</td>
 </tr>
 
 
 
 <tr>
-<td width="20" height="20" align="center"><a href="" onclick="expand('7');return false;"><img src="images/heart_1.gif" alt="Navigation" name="link7" width="12" height="12" border="0" id="link7"></a></td>
+<td width="20" height="20" align="center"><img src="images/heart_1.gif" alt="Navigation" name="link8" width="12" height="12" border="0" id="link8"></td>
 <td width="2"></td>
-<td width="100"><a href="pkr-resources/">Resource Center</a></td>
+<td width="100"><a href="pkr-resources/">Resources</a></td>
 </tr>
 <tr>
 <td colspan="3"><img src="images/left_divider.gif" alt="menu"></td>
 </tr>
 <tr>
 	<td colspan="3">
-		<div id="content7" style="display:none;">
-			<table border="0" cellpadding="0" cellspacing="0" width="100%" class="submenu">
-				
-				<tbody><tr>
-				<td height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="pkr-resources/poker-magazine.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="pkr-resources/poker-magazine.cfm">Magazine</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-				<tr>
-				<td style="border-top:1px solid #0F494B;" height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="pkr-resources/poker-tools.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="pkr-resources/poker-tools.cfm">PKR Goodies</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-				<tr>
-				<td style="border-top:1px solid #0F494B;" height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="pkr-resources/poker-odds-calculator.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="pkr-resources/poker-odds-calculator.cfm">Odds Calculator</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-			</tbody></table>
-		</div>
+		
+		
+		
+
 	</td>
 </tr>
 
 
 
 <tr>
-<td width="20" height="20" align="center"><a href="" onclick="expand('8');return false;"><img src="images/heart_1.gif" alt="Navigation" name="link8" width="12" height="12" border="0" id="link8"></a></td>
-<td width="2"></td>
-<td width="100"><a href="pkr-news/">News &amp; Promotions</a></td>
-</tr>
-<tr>
-<td colspan="3"><img src="images/left_divider.gif" alt="menu"></td>
-</tr>
-<tr>
-	<td colspan="3">
-		<div id="content8" style="display:none;">
-			<table border="0" cellpadding="0" cellspacing="0" width="100%" class="submenu">
-				
-				<tbody><tr>
-				<td height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="pkr-news/poker-news-in-brief.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="pkr-news/poker-news-in-brief.cfm">News In Brief</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-				<tr>
-				<td style="border-top:1px solid #0F494B;" height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="pkr-news/main.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="pkr-news/main.cfm">Main News</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-				<tr>
-				<td style="border-top:1px solid #0F494B;" height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="pkr-news/archive.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="pkr-news/archive.cfm">News Archive</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-				<tr>
-				<td style="border-top:1px solid #0F494B;" height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="pkr-news/pkr-promotions.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="pkr-news/pkr-promotions.cfm">Promotions</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-			</tbody></table>
-		</div>
-	</td>
-</tr>
-
-
-
-<tr>
-<td width="20" height="20" align="center"><a href="" onclick="expand('9');return false;"><img src="images/heart_1.gif" alt="Navigation" name="link9" width="12" height="12" border="0" id="link9"></a></td>
+<td width="20" height="20" align="center"><img src="images/heart_1.gif" alt="Navigation" name="link9" width="12" height="12" border="0" id="link9"></td>
 <td width="2"></td>
 <td width="100"><a href="pkr-support/">Support</a></td>
 </tr>
@@ -1000,123 +416,17 @@ rooturl="http://www.pkr.com/";
 </tr>
 <tr>
 	<td colspan="3">
-		<div id="content9" style="display:none;">
-			<table border="0" cellpadding="0" cellspacing="0" width="100%" class="submenu">
-				
-				<tbody><tr>
-				<td height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="pkr-support/pkr-technical-faq.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="pkr-support/pkr-technical-faq.cfm">Technical FAQ</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-				<tr>
-				<td style="border-top:1px solid #0F494B;" height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="pkr-support/pkr-game-faq.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="pkr-support/pkr-game-faq.cfm">Game FAQ</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-				<tr>
-				<td style="border-top:1px solid #0F494B;" height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="pkr-support/pkr-account-faq.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="pkr-support/pkr-account-faq.cfm">Account FAQ</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-				<tr>
-				<td style="border-top:1px solid #0F494B;" height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="pkr-support/pkr-customer-services.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="pkr-support/pkr-customer-services.cfm">Customer Services</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-				<tr>
-				<td style="border-top:1px solid #0F494B;" height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="pkr-support/pkr-integrity.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="pkr-support/pkr-integrity.cfm">Integrity</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-				<tr>
-				<td style="border-top:1px solid #0F494B;" height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="pkr-support/pkr-house-rules.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="pkr-support/pkr-house-rules.cfm">House Rules</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-				<tr>
-				<td style="border-top:1px solid #0F494B;" height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="pkr-support/responsible-gaming.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="pkr-support/responsible-gaming.cfm">Responsible Gaming</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-			</tbody></table>
-		</div>
+		
+		
+		
+
 	</td>
 </tr>
 
 
 
 <tr>
-<td width="20" height="20" align="center"><a href="" onclick="expand('10');return false;"><img src="images/heart_1.gif" alt="Navigation" name="link10" width="12" height="12" border="0" id="link10"></a></td>
+<td width="20" height="20" align="center"><img src="images/heart_1.gif" alt="Navigation" name="link10" width="12" height="12" border="0" id="link10"></td>
 <td width="2"></td>
 <td width="100"><a href="about-pkr/">About PKR</a></td>
 </tr>
@@ -1125,86 +435,10 @@ rooturl="http://www.pkr.com/";
 </tr>
 <tr>
 	<td colspan="3">
-		<div id="content10" style="display:none;">
-			<table border="0" cellpadding="0" cellspacing="0" width="100%" class="submenu">
-				
-				<tbody><tr>
-				<td height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="about-pkr/pkr-press.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="about-pkr/pkr-press.cfm">Press</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-				<tr>
-				<td style="border-top:1px solid #0F494B;" height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="about-pkr/pkr-affiliate-program.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="about-pkr/pkr-affiliate-program.cfm">Affiliates</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-				<tr>
-				<td style="border-top:1px solid #0F494B;" height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="about-pkr/pkr-people.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="about-pkr/pkr-people.cfm">Who We Are</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-				<tr>
-				<td style="border-top:1px solid #0F494B;" height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="about-pkr/pkr-invest.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="about-pkr/pkr-invest.cfm">Investor Relations</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-				<tr>
-				<td style="border-top:1px solid #0F494B;" height="18">
-			
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td width="10"></td>
-					<td><a href="about-pkr/contact-pkr.cfm">- </a></td>
-					<td width="10"></td>
-					<td><a href="about-pkr/contact-pkr.cfm">Contact Us</a></td>
-					</tr>
-				</tbody></table>
-			
-				</td>
-				</tr>
-				
-			</tbody></table>
-		</div>
+		
+		
+		
+
 	</td>
 </tr>
 
@@ -1216,6 +450,8 @@ rooturl="http://www.pkr.com/";
 		<td align="left" valign="top" class="maincontent">
 
 		
+
+
 
 
 
@@ -1335,6 +571,9 @@ rooturl="http://www.pkr.com/";
 	<td valign="top">
 
 
+		
+
+	
 
 	<table cellpadding="0" cellspacing="0" border="0" height="100%">
 	<tbody><tr>
@@ -1366,17 +605,17 @@ rooturl="http://www.pkr.com/";
 <tbody><tr>
 <td width="6" rowspan="3"></td>
 <td width="67">
+	<div id="smallchip">
+		<a href="play-poker/free-poker-download.cfm"><img src="images/inframe/spinning_chip.jpg" alt="Download here" border="0"></a>
+	</div>
 	<script type="text/javascript">
 		// <!CDATA[[
-		var flashobj = new FlashObject("flash/spinning_chip_small.swf", "spinning_chip", "67", "74", 8, "");
+		var flashobj = new SWFObject("flash/spinning_chip_small.swf", "spinning_chip", "67", "74", 8, "");
 		flashobj.addVariable("path", "http://www.pkr.com/");
-		flashobj.write();
+		flashobj.write("smallchip");
 		// ]]>
 	</script>
-	
-	<noscript>
-	<a href="play-poker/free-poker-download.cfm"><img src="images/inframe/spinning_chip.jpg" alt="Download here" border="0"></a>
-	</noscript>
+
 
 </td>
 <td width="125"><a href="play-poker/free-poker-download.cfm"><img src="images/download_text_small.jpg" alt="Download here" border="0"></a></td>
@@ -1407,45 +646,41 @@ rooturl="http://www.pkr.com/";
 	
 	<table width="990" border="0" cellpadding="0" cellspacing="0" class="footerlinks">
 		<tbody><tr>
-			<td align="left" width="140" style="padding-left:10px" height="30">© 2006 PKR Limited</td>
+			<td align="left" width="140" style="padding-left:10px" height="30">© 2007 PKR Limited</td>
 			<td align="center" width="640">
 				<a href="footer/sitemap.cfm" class="footerlink">Site Map</a><span class="subheader"> | </span>
 				<a href="footer/terms.cfm" class="footerlink">Terms &amp; Conditions</a><span class="subheader"> | </span>
 				<span class="footerselected">Privacy Policy</span><span class="subheader"> | </span>
 				<a href="about-pkr/" class="footerlink">About PKR</a><span class="subheader"> | </span>
 				<a href="about-pkr/pkr-press.cfm" class="footerlink">Press</a><span class="subheader"> | </span>
-				<a href="about-pkr/pkr-affiliate-program.cfm" class="footerlink">Affiliates</a><span class="subheader"> | </span>
-				<a href="pkr-support/responsible-gaming.cfm" class="footerlink">Responsible Gaming</a><span class="subheader"> | </span>
+				<a href="http://affiliates.pkr.com/" class="footerlink">Affiliates</a><span class="subheader"> | </span>
+				<a href="about-pkr/responsible-gaming.cfm" class="footerlink">Responsible Gaming</a><span class="subheader"> | </span>
 				<a href="pkr-support/pkr-customer-services.cfm" class="footerlink">Contact</a>
 			</td>
 			<td align="right" width="210" style="padding-right:10px"><a href="http://www.lightmaker.com" target="_blank" class="lmlink">Site by Lightmaker</a></td>
 		</tr>
 		<tr>
-			<td align="center" valign="middle" colspan="3">
+			<td></td>
+			<td align="center" valign="middle">
 			<table cellpadding="0" cellspacing="0" border="0" width="100%">
 				<tbody><tr>
-					<td id="logos" width="100%">
+					<td width="100%" align="center" id="logos">
 						<table cellpadding="0" cellspacing="0" border="0">
 							<tbody><tr>
 								<td class="footerpadding"><a href="http://www.gamblingcontrol.org" target="_blank" onmouseover="logo_over('alt_gaming');" onmouseout="logo_out('alt_gaming');"><img src="images/logos/alt_gaming_off.gif" border="0" name="alt_gaming" alt="AGCC"></a></td>
-								<td class="footerpadding"><a href="pkr-support/responsible-gaming.cfm" onmouseover="logo_over('c18')" onmouseout="logo_out('c18');"><img src="images/logos/18_off.gif" border="0" name="c18" alt="18+"></a></td>
+								<td class="footerpadding"><a href="about-pkr/responsible-gaming.cfm" onmouseover="logo_over('c18')" onmouseout="logo_out('c18');"><img src="images/logos/18_off.gif" border="0" name="c18" alt="18+"></a></td>
 								<td class="footerpadding"><a href="http://www.gamcare.co.uk" target="_blank" onmouseover="logo_over('gamcare');" onmouseout="logo_out('gamcare');"><img src="images/logos/gamcare_off.gif" border="0" name="gamcare" alt="GAMCARE"></a></td>
-								<td class="footerpadding"><a href="http://www.mastercard.com/" target="_blank" onmouseover="logo_over('mastercard')" onmouseout="logo_out('mastercard');" style="cursor: default"><img src="images/logos/mastercard_off.gif" border="0" name="mastercard" alt="MasterCard"></a></td>
-								<td class="footerpadding"><a href="http://www.neteller.com/home/index.jsf" target="_blank" onmouseover="logo_over('netewer')" onmouseout="logo_out('netewer');"><img src="images/logos/netewer_off.gif" border="0" name="netewer" alt="Neteller"></a></td>
-								<td class="footerpadding"><a href="http://www.visa.com/" target="_blank" onmouseover="logo_over('visa')" onmouseout="logo_out('visa');"><img src="images/logos/visa_off.gif" border="0" name="visa" alt="VISA"></a></td>
-								<td class="footerpadding"><a href="http://www.maestrocard.com" target="_blank" onmouseover="logo_over('maestro')" onmouseout="logo_out('maestro');"><img src="images/logos/maestro_off.gif" border="0" name="maestro" alt="Maestro"></a></td>
-								<td class="footerpadding"><a href="http://www.visa.com/" target="_blank" onmouseover="logo_over('visa_elec')" onmouseout="logo_out('visa_elec');"><img src="images/logos/visa_elec_off.gif" border="0" name="visa_elec" alt="VISA Electron"></a></td>
-								<td class="footerpadding"><a href="http://www.visa.com/" target="_blank" onmouseover="logo_over('delta')" onmouseout="logo_out('delta');"><img src="images/logos/delta_off.gif" border="0" name="delta" alt="Delta"></a></td>
-								<td class="footerpadding"><a href="http://www.maestrocard.com" target="_blank" onmouseover="logo_over('swich')" onmouseout="logo_out('swich');"><img src="images/logos/swich_off.gif" border="0" name="swich" alt="Switch"></a></td>
-								<td class="footerpadding"><a href="http://www.maestrocard.com" target="_blank" onmouseover="logo_over('solo')" onmouseout="logo_out('solo');"><img src="images/logos/solo_off.gif" border="0" name="solo" alt="Solo"></a></td>
 								<td class="footerpadding"><a href="http://www.icra.org" target="_blank" onmouseover="logo_over('icra');" onmouseout="logo_out('icra');"><img src="images/logos/icra_off.gif" border="0" name="icra" alt="ICRA"></a></td>
 								<td class="footerpadding"><a href="http://www.gamingassociates.com" target="_blank" onmouseover="logo_over('gaming_associates');" onmouseout="logo_out('gaming_associates');"><img src="images/logos/gaming_associates_off.gif" border="0" name="gaming_associates" alt="Gaming Associates"></a></td>
+																								
 							</tr>
 						</tbody></table>
 					</td>
-				</tr>
+				</tr>			
+				
 			</tbody></table>
 			</td>
+			<td></td>
 		</tr>
 		<tr>
 			<td colspan="2" height="30"></td>
@@ -1454,7 +689,6 @@ rooturl="http://www.pkr.com/";
 	  
 </div>
 
-<script language="javascript" src="http://server.iad.liveperson.net/hc/10973025/x.js?cmd=file&amp;file=chatScript3&amp;site=10973025&amp;&amp;imageUrl=imageUrl=#Application.timpaniImages#"></script>
 <script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">_uacct = "UA-330488-3"; urchinTracker(); </script>
 
 
