@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tradepub.com privacy policy that was archived on 2006-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061220032408id_/http%3A//www.tradepub.com/%3Fp%3Dpriv%26w%3Dwp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradepub.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616133408id_/http%3A//www.tradepub.com/%3Fp%3Dpriv%26w%3Dwp) for the most accurate reproduction.*
 
-# www2.tradepub.com Privacy Policy
+# Free Business, Computer, Engineering and Trade Magazine Subscriptions and Free White Papers
 
-|  TradePub.com Privacy Policy   
+TradePub.com Privacy Policy   
 ---  
 | 
 
@@ -76,5 +76,4 @@ We will use information in accordance with the privacy policy under which the in
 Additional Questions  
 | 
 
-If you have any questions about the security at our website, please send an email to [privacy@TradePub.com](mailto:privacy@TradePub.com), or call us at 408-340-2200.   
-
+If you have any questions about the security at our website, please send an email to [privacy@TradePub.com](mailto:privacy@TradePub.com), or call us at 408-340-2200. 
