@@ -1,0 +1,64 @@
+> *The following text is extracted and transformed from the jimdo.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617004221id_/http%3A//jimdo.com/privacy_statement.php) for the most accurate reproduction.*
+
+# Jimdo - Pages to the People. - Privacy Statement
+
+**Jimdo Privacy Policy  
+**
+
+  
+At Jimdo we care about your privacy. In the following we describe what information is collected and how we deal with it. This policy applies to all of the Jimdo Products. Jimdo is a service of the NorthClick GmbH.  
+If you have any questions about this Policy, please feel free to contact us at [privacy@jimdo.com](mailto:privacy@jimdo.com) or write to Jimdo, Privacy Department, Gasstr. 10, 22761 Hamburg, Germany.  
+
+
+**Information we collect and how we use it:**
+
+  * **Information you provide.** When you sign up for a Jimdo-Website we ask you for a username and your email address. Your username is used for publishing your Jimdo-Website under www.username.jimdo.com, your email address is used for sending you notifications concerning the Jimdo services (i.e. sending you the password for your Jimdo-website and further notifications). For certain services, such as JimdoPro, we also ask you for your contact details (which we need for the domain registration since you will be the domain owner) and payment information (which we save in encrypted form on secure servers). The information you provide is stored as long as you are a Jimdo-User. Due to tax requirements some information of JimdoPro-Users has to be stored for seven years.  
+
+  * **Information about Usage.** When you log in to your Jimdo website, Jimdo’s servers automatically record information about the way you use Jimdo. Jimdo records information such as account activity (including storage usage, number of log-ins), and other log information (including browser type, IP-address, date and time of access, cookie ID, and referrer URL).   
+
+  * **Identifying you with the help of a Cookie.** When you login to your Jimdo-Website, we send one cookie to uniquely identify your browser. We use it so you do not have to re-enter your password when changing the content of different pages on your Jimdo-website. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, in this case Jimdo will not work properly.  
+
+  * **Log information.** When you use Jimdo, our servers automatically record information that your browser sends whenever you visit a website. Information about your web request, your I.P. address, your browser type, your browser language, and the date and time of your request will be collected.   
+
+  * **Your website.** The information you provide on your Jimdo-Website may be read by persons you don’t know. So be careful with providing personal information. Jimdo of course stores, processes and maintains your pages submitted files in order to provide the Website-service to you.  
+
+  * **Jimdo will index the content of your website** in order to provide a useful search function on jimdo.com or other Jimdo-sites. The index may also be used for analyzing the content on your page in order to display matching ads of our advertising partners on your website.  
+
+  * **At jimdo.com we will keep a directory of all Jimdo pages**. We may use the index of the content of your website, your tags, as well as a screenshot of your current site to faciliate browsing through the Jimdo-Websites.   
+
+  * **Your Jimdo-Profile.** Jimdo also may collect other profile data including but not limited to: personal picture, personal interests, gender, age, education, occupation, and tags concerning the topic of your site in order to assist users in finding each others websites. User Profile information including members' pictures and first names will be displayed to people in order to facilitate user interaction.  
+
+  * **Your communication with Jimdo.** When you send an email or other communication to Jimdo, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.   
+
+  * **Links.** Jimdo may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our services.  
+
+  * **Storage of your information.** The information of the JimdoFree Users is stored  
+
+
+
+
+**  
+Sharing and Disclosure of Information Jimdo Collects  
+**
+
+  
+If not stated otherwise, Jimdo will not disclose personal information to third parties except   
+
+
+  * to conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by Jimdo, whether or not a response is required by applicable law  
+
+  * to protect the safety of other Jimdo users or the public  
+
+  * to enforce Jimdo’s Terms of Use or our rights.  
+
+
+
+
+If Jimdo gets acquired we reserve the right to transfer personal information to the successor in interest.   
+
+
+**Changes to this policy  
+**
+
+This Privacy Policy may change. Of course, we will not reduce your rights without your explicit consent. All of the Policy changes will be posted on this page. If the changes are significant we will provide a more significant notice (i.e. email notification).   
+If you have any additional questions or concerns about this Policy, please feel free to contact us any time through this web site or at Jimdo, Privacy Department, Gasstr. 10, 22761 Hamburg, Germany.
