@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getacoder.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017165938id_/http%3A//www.getacoder.com/page.php%3Fp%3Dinfo/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getacoder.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616073223id_/http%3A//www.getacoder.com/page.php%3Fp%3Dinfo/privacy) for the most accurate reproduction.*
 
 # GetACoder - Privacy Statement
 
