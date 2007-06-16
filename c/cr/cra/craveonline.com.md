@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the craveonline.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207143538id_/http%3A//www.craveonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craveonline.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616113602id_/http%3A//www.craveonline.com/privacy) for the most accurate reproduction.*
 
-# CRAVE ONLINE: Privacy Policy
+# CRAVEONLINE: Privacy Policy
 
 **Crave Online's Commitment To Privacy**
 
