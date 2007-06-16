@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gamestop.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018204759id_/http%3A//www.gamestop.com/gs/help/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamestop.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616181145id_/http%3A//gamestop.com/gs/help/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Gamestop.com - Help Desk
 
-Last updated: June 22, 2006
+Last updated: January 9, 2007
 
 Gamestop.com is aware of your concerns about use of your personal information. We attempt to use and share personal information that we collect online carefully and sensibly. This notice describes our privacy policy. By visiting Gamestop.com, you are accepting the practices described in this privacy notice.
 
@@ -40,9 +40,15 @@ Cookies are alphanumeric identifiers that are placed by us on your computer's st
 
 You can stop your computer from storing cookies if you want to. Most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. You should look in the "help" area shown on your browser's toolbar. Because cookies allow you to have the benefit of our personalized features, we recommend that you leave them turned on. You MUST have cookies enabled in order to checkout on our website.
 
-**Sharing of Information**
+**Sharing of Information
 
-**Sharing with Third Parties.** We may share customer information that we collect with third parties. Usually, this information will be shared with a third party that has relationship with us as a business partner or marketing partner. (See information on Third Party Relationships below.) Also, we may use the information that you provide us, or that we collect about you, in connection with the promotion of our products and services and those of our affiliates. It is not our policy to sell or rent lists of our website customers to unaffiliated third parties.
+Tournaments: 
+
+**If you register for tournaments on GameStop.com, we may share your registration data with the tournament host and they may use it for internal tracking and analytics. For instance, if you give us your Xbox Live Gamertag for a Microsoft tournament, Microsoft will use that information for internal research. **
+
+Sharing with Third Parties.
+
+** We may share customer information that we collect with third parties. Usually, this information will be shared with a third party that has relationship with us as a business partner or marketing partner. (See information on Third Party Relationships below.) Also, we may use the information that you provide us, or that we collect about you, in connection with the promotion of our products and services and those of our affiliates. It is not our policy to sell or rent lists of our website customers to unaffiliated third parties.
 
 **Sharing with our Contractors.** We also may employ other companies and individuals to perform functions on our behalf. Examples include order fulfillment, package delivery, postal mail and e-mail communications, customer lists management, data analysis, marketing assistance, credit card processing, and customer relationship management. These companies and individuals have access to personal information needed to perform their functions, but they are not permitted to use such information for other purposes without our permission.
 
