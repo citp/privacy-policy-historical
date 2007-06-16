@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the comcastoffers.com privacy policy that was archived on 2006-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060906071758id_/http%3A//www.comcastoffers.com/3/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comcastoffers.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616082304id_/http%3A//www.comcastoffers.com/7/privacy.php) for the most accurate reproduction.*
 
 # Comcast High-Speed Internet: Privacy Policy
-
-Privacy Policy
 
 Effective June 2004
 
@@ -104,4 +102,4 @@ Comcastoffers.com provides you with the opportunity to opt-out of receiving comm
 
 
 
-©2006 ComcastOffers.com. All rights reserved. 
+©2007 ComcastOffers.com. All rights reserved.
