@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imediaconnection.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016180924id_/http%3A//www.imediaconnection.com/5882.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imediaconnection.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617005634id_/http%3A//imediaconnection.com/5882.asp) for the most accurate reproduction.*
 
 # iMedia Connection: Privacy Policy
 
@@ -6,7 +6,7 @@
 This privacy policy applies to all brands and services within the iMedia Communications, Inc. family. 
 
 **Overall privacy statement**  
-iMedia Communications, Inc. takes privacy seriously. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. These privacy practices apply to the Web site that you were viewing when you clicked through to this policy, which is operated by iMedia Communications, Inc., its partner or affiliate.
+iMedia Communications, Inc. takes privacy seriously. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. These privacy practices apply to the website that you were viewing when you clicked through to this policy, which is operated by iMedia Communications, Inc., its partner or affiliate.
 
 **1\. What personally identifiable information does iMedia Communications, Inc. collect?**
 
@@ -20,10 +20,10 @@ _Cookies_
 You do not need to have cookies turned on to visit iMediaConnection.com, although active participation in certain areas of our site may require cookies. In addition, you may elect not to allow cookies to be collected by selecting certain options on your browser. 
 
 _Webservers_  
-iMedia Communications, Inc. also automatically receives and records information from our servers and from your browser, including your IP address, the time, and information about the page you requested. We use tracking technologies in a variety of ways, including: keeping count of return visits to our site or our advertiser' or partners' sites; accumulating and report anonymous, aggregate (data collected in mass), statistical information on Web site and advertisement usage; and determining which features users like best.
+iMedia Communications, Inc. also automatically receives and records information from our servers and from your browser, including your IP address, the time, and information about the page you requested. We use tracking technologies in a variety of ways, including: keeping count of return visits to our site or our advertisers' or partners' sites; accumulating and reporting anonymous, aggregate (data collected in mass), statistical information on Web site and advertisement usage; and determining which features users like best.
 
 _Third-party advertisement servers_  
-Some of our advertisers use third-party companies to serve their advertisements on our sites and, in some cases, in our HTML-formatted newsletters. Often, these third-party advertising companies employ cookie and Web bug technologies to measure advertisement effectiveness. We do not give any personally identifiable information to them as part of this relationship. Use of their tracking technology is subject to their own privacy policies. 
+Some of our advertisers use third-party companies to serve their advertisements on our sites and, in some cases, in our HTML-formatted newsletters. Often, these third-party advertising companies employ cookie and other tracking technologies to measure advertisement effectiveness. We do not give any personally identifiable information to them as part of this relationship. Use of their tracking technology is subject to their own privacy policies. 
 
 **3\. How does iMedia Communications, Inc. use the information?**
 
@@ -42,7 +42,7 @@ Personally identifiable information
 iMedia Communications, Inc. will make your personally identifiable information available to other companies or people when:
 
   * we have your consent to share the information 
-  * we have engaged companies to work with or on behalf of iMedia Communications, Inc. to provide a product or service that you have requested, such as opt-in e-mail announcements 
+  * we have engaged companies to work with or on behalf of iMedia Communications, Inc. to provide a product or service that you have requested, such as opt-in email announcements 
   * you use co-branded services. When you use a co-branded service within our site you grant us permission to pass your registration information back to that service partner. Their use of your information is subject to their applicable privacy policies. 
   * we respond to subpoenas, court orders, or legal process; or we believe that your actions violate applicable laws, iMedia Communications, Inc.'s Terms of Use or any usage guidelines for specific products or services, or threaten the rights, property, or safety of iMedia Communications, Inc., our users, or others   
 
@@ -59,7 +59,3 @@ Users who would rather not provide any of the user data requested by our registr
 **6\. How will I know if the privacy policy is changed?**
 
 Any modification to our privacy practices will be reflected within this area of our Web site. If there is a material change in our privacy practices, we will indicate on our site that our privacy practices have changed and provide a link to the new privacy statement. If we are going to be using the information collected from users in a manner materially different from that stated at the time of collection we will send affected users written notice of the change. 
-
-Please e-mail us if you have any questions or concerns: 
-
-[policy@imediaconnection.com](mailto:policy@imediaconnection.com)
