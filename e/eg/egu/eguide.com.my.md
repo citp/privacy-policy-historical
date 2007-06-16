@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eguide.com.my privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217104027id_/http%3A//www.eguide.com.my/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eguide.com.my privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616135006id_/http%3A//www.eguide.com.my/privacy.asp) for the most accurate reproduction.*
 
 # eGuide Malaysia (MY) - Asia's Leading Directory
 
