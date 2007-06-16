@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theamericanwedding.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214053627id_/http%3A//www.theamericanwedding.com/customerservice/privacy.asp-site-73-sid-751879554D1EDEEAF432EF65) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theamericanwedding.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616084013id_/http%3A//www.theamericanwedding.com/customerService/privacy.asp) for the most accurate reproduction.*
 
 # Wedding Reception Card Stationery Decoration Candles Photo Albums
 
@@ -8,7 +8,6 @@ American Stationery Company, Inc. (the Company), as owner and operator of severa
 
   * [www.americanstationery.com](http://www.americanstationery.com/)
   * [www.theamericanwedding.com](http://www.theamericanwedding.com/)
-  * [www.thats-my-baby.com](http://www.thats-my-baby.com/)
 
 is committed to your online security and privacy. We believe that your online shopping experience should be safe, secure and enjoyable. We take measures to make that happen. This statement provides details concerning our policies and procedures to protect your online security and privacy. This privacy statement does not apply to information we may gather through sources other than our web sites, including, but not limited to, orders that are transmitted by telephone, fax or mail. 
   * Information Collection and Use
