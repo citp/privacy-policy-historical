@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the encyclopedia-titanica.org privacy policy that was archived on 2004-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040814190203id_/http%3A//www.encyclopedia-titanica.org/admin/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the encyclopedia-titanica.org privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617004615id_/http%3A//www.encyclopedia-titanica.org/admin.php%3Fangle%3DPrivacy) for the most accurate reproduction.*
 
-# Encyclopedia Titanica: Privacy Policy
+# Encyclopedia Titanica : Privacy
 
-## Privacy Policy
-
-This pages explains what information might be gathered about you when you visit encyclopedia-titanica.org. 
+This page explains what information might be gathered about you when you visit encyclopedia-titanica.org. 
 
 **What is collected and stored:** ET collects data volunteered by users by signing up to receive newsletters or creating a message board profile. Certain data is also created automatically when you interact with the site. 
 
@@ -19,7 +17,7 @@ ET may use IP addresses to analyze trends, administer the site, track user movem
 
 **External Links and Services:** This site contains links to other sites. ET is not responsible for the privacy practices or the content of other Web Sites. 
 
-**Opting Out:** You may opt out of mailing lists by unsubscribing from the home page. You may contact the editor if you want your membership of the message board to be terminated.
+**Opting Out:** You may opt out of mailing lists by clicking unsubscribe link from our newsletter. You may delete your ET account at any time from your [profile manager](https://web.archive.org/cgi-bin/discus/board-profile.cgi).
 
 * * *
 
