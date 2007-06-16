@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wowmine.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206112813id_/http%3A//www.wowmine.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowmine.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616191840id_/http%3A//www.wowmine.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - WoWMine - Secured transaction trusted network of chinese farmers who doesn't use macro to farm gold. Information are saved with us.
 
@@ -14,13 +14,14 @@ PASSWORD
 ---  
 [World of Warcraft US](https://www.wowmine.com/buy-cheap-wholesale-wow-gold.php?serverarea=5)  
 [World of Warcraft EU](https://www.wowmine.com/buy-cheap-wholesale-wow-gold.php?serverarea=8)  
-Final Fantasy XI  
+[Final Fantasy XI](http://www.ffmine.com/)  
 [Guild Wars](http://www.gwmine.com/gwmine/en/Orders/OrderForm.htm)  
 [Lineage II](http://www.l2mine.com/l2mine/en/Orders/OrderForm.htm)  
 [Dungeons and Dragons](http://www.ddomine.com/ddomine/en/Orders/OrderForm.htm)  
 [WoW Power Leveling](http://pl.wowmine.com/power-leveling/index.php)  
   
-[](https://web.archive.org/web/20061206112813id_/http%3A//best-price-guarantee.php)
+[](http://www.mmomaven.com/forum/freetour.html)  
+[](https://web.archive.org/web/20070616191840id_/http%3A//best-price-guarantee.php)
 
 Privacy Policy
 
@@ -100,20 +101,14 @@ Super Continental US LLC (WoWMine.com)
 
 | 
 
-[](http://server.iad.liveperson.net/hc/47292500/?cmd=file&file=visitorWantsToChat&site=47292500&byhref=1)
+[](http://server.iad.liveperson.net/hc/47292500/?cmd=file&file=visitorWantsToChat&site=47292500&byhref=1)   
+[](http://www.ringcentral.com/)
 
-TOLL-FREE HOTLINE:  
-1-800-969-6791  
-(1-800-WOW-ORY1)  
-1-877-855-1768    
+US TOLL-FREE HOTLINE:  
+1-800-977-2365  
+(1-800-977-BeOK)  
+Int. Call:  
++1 (302) 295-6316   
 
 
 [](https://www.scanalert.com/RatingVerify?ref=www.wowmine.com)
-
-  
-
-
-[ ](http://www.bizrate.com/ratings_guide/merchant_detail__mid--134460.html)
-
-  
-
