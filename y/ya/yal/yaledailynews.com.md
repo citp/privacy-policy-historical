@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yaledailynews.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205224907id_/http%3A//www.yaledailynews.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yaledailynews.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616073222id_/http%3A//www.yaledailynews.com/pages/view/privacy) for the most accurate reproduction.*
 
-# Yale Daily News - Privacy Policy
+# Yale Daily News - Privacy
 
 The _Yale Daily News_ , and its advertisers and associates, are deeply committed to protecting the privacy of Internet users. Below is information outlining our support for the responsible management of personal information. 
 
