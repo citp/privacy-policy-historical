@@ -1,26 +1,41 @@
-> *The following text is extracted and transformed from the ourstory.com privacy policy that was archived on 2006-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061101211218id_/http%3A//static.ourstory.com/doc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourstory.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617013039id_/http%3A//ourstory.com/doc/policies.html) for the most accurate reproduction.*
 
-# OurStory.com - OurStory. Your life. Capture your memories, life events easily in words, pictures and voice.
+# OurStory.com - Capture your stories, save them permanently.
 
-[Home](http://www.ourstory.com/) > Privacy Policy 
+[](http://www.truste.org/ivalidate.php?url=www.ourstory.com&sealid=101)
+
+  
+
 
 ### Effective as of 07/13/06
 
 This privacy statement ("Privacy Statement") covers the website [www.OurStory.com](http://www.ourstory.com/) (the "Site" or "OurStory"), owned and operated by WisdomArk, Inc ("WisdomArk"), and all OurStory services provided on the Site (the "Service"). By visiting the Site, submitting information or using the Service, you are accepting the practices outlined in this Privacy Statement. This Privacy Statement does not apply to the practices of third parties that WisdomArk does not own or control, or to individuals that WisdomArk does not employ or manage. Please contact us with questions regarding this Privacy Statement.
 
+  
+
+
 ### About OurStory and the Information We Collect
 
 OurStory is an online biography service that allows people to capture personal histories online. To accomplish this, our users create their own profiles, which are shown to the people in their personal network, or if the user so chooses, to the general public. A personal network consists of a user's friends and family as listed by the user on the Site, plus the extended group of people that a user is connected to via chains of mutual friends. Some personal information we ask for is displayed to people within these personal networks. Users of the free version can mark any post as (1) viewable by their personal network, or (2) publicly viewable. Users of the premium version can mark any post on the Site as (1) private, (2) viewable by their personal network, or (3) publicly viewable. 
 
+  
+
+
 ### Information Collected by WisdomArk
 
-### Information Users Submit to WisdomArk
+###  Information Users Submit to WisdomArk
 
 WisdomArk collects user-submitted account information such as name and email address to identify users and send notifications related to the use of the Service, such as the system-generated email 'starter question' set or when those in their personal network add or update a posting. For premium accounts, users will be asked to submit financial information such as their credit card number. WisdomArk also collects user-submitted profile information such as gender, age, occupation, location, etc. This information is collected in order for us to develop, improve, and tailor services to our users and to communicate with certain groups of users based on their profile information. We may also, for example, use it in aggregate form to tell advertisers about our users' needs and interests. WisdomArk also collects user-submitted life experience accounts, photos and comments. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of the Site's special features.
+
+  
+
 
 ### Information not Directly Submitted by Users to WisdomArk
 
 WisdomArk automatically receives and records certain "traffic data" on our server logs from your browser including your Internet Protocol address, internet service provider (ISP), date/time stamp, referring/exit pages, browser type and the webpage you request. This information is gathered for all users of the Site. WisdomArk uses this traffic data to help diagnose problems with our server, analyze trends and administer the Site. The Site also automatically collects usage information, such as the numbers and frequency of visitors to the Site and its components. This information is only used in the aggregate.
+
+  
+
 
 ### Use of Information Obtained by WisdomArk
 
@@ -28,7 +43,10 @@ WisdomArk automatically receives and records certain "traffic data" on our serve
 
 Profile information as well as user name, life experience accounts, photos and comments are displayed according to whether a user classifies his or her posting on the Site as (1) private, (2) viewable by his or her personal network, or (3) publicly viewable, to support the function of the Site as an online biography service where users collaborate in the collection of memories and life stories about individuals. Email address and full name are used when a user invites a friend via email to join the Service, when a user requests to add another user to his or her friends list or when we send notifications to a user related to his or her use of the Service (such as updates or news regarding the Site). Except when inviting or adding friends, a user's email address is not shared or displayed with people within a user's personal network. Users within a personal network communicate with each other through the Service without disclosing email addresses. A user's email address is also used to send notifications when you or other users add or update postings, ask questions create comments, send invitations, reset passwords, create relationships, and create or share threads, as well as when we receive a new user registration and when we receive payments from you. Notifications are only sent from other users that you already connected to. Although at this time we have no plans to send marketing messages via email, you may opt out of email altogether, choose not to receive email notifications in general, or opt out of notifications from specific users by changing your settings in the [Settings](http://www.ourstory.com/account_settings.html) section of the Site.
 
-### Information not Directly Submitted by Users to WisdomArk
+  
+
+
+###  Information not Directly Submitted by Users to WisdomArk
 
 We use your server, Internet Protocol address, and browser-type related information in the general administration of the Site.
 
@@ -42,9 +60,15 @@ In some cases, we may choose to buy or sell assets. In these types of transactio
 
 Except as set forth above, you will be notified through the Service by email and a notice on the web site when your personal information may be shared with third parties. 
 
+  
+
+
 ### Links
 
 The Site may contain links to other websites. Please be aware that WisdomArk is not responsible for the privacy practices, security or the content of other websites. We encourage our users to be aware when they leave the Site and to read the privacy statements of each and every website that collects personally identifiable information. This Privacy Statement applies solely to information collected on this Site. 
+
+  
+
 
 ### Use of Cookies
 
@@ -56,35 +80,59 @@ We use a third-party tracking service WebSideStory that uses their own cookies t
 
 This Privacy Statement covers the use of cookies by WisdomArk and does not cover the use of cookies by any Web advertising partners, third-party ad servers or ad networks.
 
+  
+
+
 ### Correcting, Updating or Removing Information
 
 OurStory users may access, modify, or remove any of their personal information at any time by logging-in to their accounts and accessing My Profile. When you update information, however, we often maintain a copy of the unrevised information in our records. Deleted posts and email addresses are deleted from our Service immediately. Email addresses for cancelled accounts, however, are kept indefinitely to prevent the unauthorized future opening of a user account using such an email address.
 
 You may request deletion of your OurStory account by logging-in to your account and accessing Account Info. Please note that some information may remain in our records, such as on back-up tapes, after deletion of your account.
 
+  
+
+
 ### Changes in Our Privacy Statement
 
 WisdomArk may amend this Privacy Statement at any time, at our sole discretion. Use of information we collect now is subject to the Privacy Statement in effect at the time such information is used. If we change this Privacy Statement, we will post those changes on the Site so users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+
+  
+
 
 ### Invite a Friend
 
 If a user elects to invite a friend to use the Site, we ask them for the friend's email address. WisdomArk will automatically send the friend an email inviting them to join the Site. WisdomArk stores this email address for the purpose of automatically adding the recipient to the "friends list" of the user sending the invitation. WisdomArk does not sell these email addresses or use them to send any other communication besides these one time invitations. The friend may contact us at [support@ourstory.com](mailto:support@ourstory.com) to request the removal of this information from our database
 
+  
+
+
 ### Publicly Viewable Posts and Photos
 
 Please keep in mind that whenever you voluntarily disclose personal information online in public view on the Site (including, without limitation, classifying any posting on the Site as publicly viewable), that information can be collected and used by others. If you choose to upload a photo to your Profile Page, this photo is publicly viewable. By posting personal information online in public view, you may receive unsolicited messages from other parties. 
+
+  
+
 
 ### Security
 
 Your OurStory account is password-protected. You need to work to protect against unauthorized access to your password and to your computer by logging-off once you have finished using a shared computer. We use industry standard measures, including Secure Socket Layer (SSL) software, to protect your information both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. We limit access to your information to those employees who need access to perform their job functions, such as our customer service personnel. All of our employees are kept up to date on our privacy and security practices. If you have any questions about the Site's security, please contact us.
 
+  
+
+
 ### Third Party Advertising
 
 The ads appearing on the Site are delivered to users by our Web advertising partners. Our Web advertising partners may use cookies. Doing this allows our Web advertising partners to recognize your computer each time they send you an online advertisement. In this way, our Web advertising partners may compile information about where you, or others who are using your computer, saw their advertisements and determine which advertisements are clicked on. This information allows our Web advertising partners to deliver targeted advertisements that they believe will be of most interest to you. WisdomArk does not have access to or control of the cookies that may be used by any Web advertising partners, third-party ad servers or ad networks.
 
+  
+
+
 ### Conditions of Use
 
 If you decide to visit the Site, your visit and any possible dispute over privacy is subject to this Privacy Statement and our Terms of Service, including limitations on damages and application of California state law. 
+
+  
+
 
 ### Questions or Suggestions?
 
