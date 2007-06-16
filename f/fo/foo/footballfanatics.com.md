@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the footballfanatics.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218182832id_/http%3A//www.footballfanatics.com/HelpDesk/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballfanatics.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616161628id_/http%3A//www.footballfanatics.com/HelpDesk/Privacy_Policy) for the most accurate reproduction.*
 
-# Football Fanatics
+# 
 
 Protecting your privacy is important to Football Fanatics. This Policy explains how Football Fanatics collects, uses, and discloses the personal information you may provide while using the Football Fanatics Web Site. It is always your choice whether or not to provide personal information through the Web Site. Any personal information you provide will be treated with care, and subject to this Policy will not be used or disclosed in ways to which you have not consented. Also, you may opt-out certain uses and disclosures of your personal information, as explained in this Policy.
 
