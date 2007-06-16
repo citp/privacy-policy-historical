@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the daysinn.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205205329id_/http%3A//www.daysinn.com/DaysInn/control/Booking/Link%3Fredirect%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daysinn.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616100833id_/http%3A//www.daysinn.com/DaysInn/control/Booking/Link%3Fredirect%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Days Inn: Privacy Policy
 
-  |   | 
+  | 
 
 **WYNDHAM HOTEL GROUP, LLC  
 CUSTOMER PRIVACY POLICY  
 AND INFORMATION PRACTICES STATEMENT  
-Revised August 2006**
+Revised May 2007**
 
-**Introduction.** We at the Wyndham Hotel Group, LLC, a subsidiary of Wyndham Worldwide Corporation, consisting of Days Inns Worldwide, Inc., Howard Johnson International, Inc., Ramada Worldwide, Inc., Super 8 Motels, Inc., Travelodge Hotels, Inc., Wingate Inns International, Inc., AmeriHost Franchise Systems, Inc., Knights Franchise Systems, Inc.,and Baymont Franchise Systems, Inc. (collectively, the "Franchisors") and the Wyndham Worldwide family of hotel franchise systems, (Days Inn®, Howard Johnson®, Ramada®, Super 8®, Travelodge®, Wingate Inn®, AmeriHost®, Baymont®, and Knights Inn® brands (collectively, the "Brands") recognize the importance of protecting the privacy of individual-specific (personally identifiable) information collected about the guests, visitors and prospective guests ("Customers") of our Brands. Examples of individual-specific information ("Information") are described in the Section, "What is Individual Specific Information?" We have adopted this Customer Privacy Policy to guide how we and affiliates, utilize Information about our Customers. This Policy will evolve and change as we continue to study privacy issues. 
+**Introduction.** We at the Wyndham Hotel Group, LLC, a subsidiary of Wyndham Worldwide Corporation, consisting of Days Inns Worldwide, Inc., Howard Johnson International, Inc., Ramada Worldwide, Inc., Super 8 Motels, Inc., Travelodge Hotels, Inc., Wingate Inns International, Inc., AmeriHost Franchise Systems, Inc., Knights Franchise Systems, Inc.,and Baymont Franchise Systems, Inc. (collectively, the "Franchisors") and the Wyndham Worldwide family of hotel franchise systems, (Days Inn®, Howard Johnson®, Ramada®, Super 8®, Travelodge®, Wingate® by Wyndham, AmeriHost®, Baymont®, and Knights Inn® brands (collectively, the "Brands") recognize the importance of protecting the privacy of individual-specific (personally identifiable) information collected about the guests, visitors and prospective guests ("Customers") of our Brands. Examples of individual-specific information ("Information") are described in the Section, "What is Individual Specific Information?" We have adopted this Customer Privacy Policy to guide how we and affiliates, utilize Information about our Customers. This Policy will evolve and change as we continue to study privacy issues. 
 
 [Privacy Notice to California Customers](http://www.daysinn.com/DaysInn/control/california_privacy_policy)
 
@@ -57,7 +57,7 @@ Any Customer may opt out of communication by contacting Wyndham Worldwide using 
 
 By email, [click here to opt out](http://www.daysinn.com/DaysInn/control/privacy_policy_inquiry_form). 
 
-By phone - 888-564-4487 for Amerihost Inn; 877-212-2733 for Days Inn; 877-222-3297 for Howard Johnson; 877-225-5637 for Knights Inn; 877-227-3557 for Ramada Inn; 877-244-7633 for Super 8; 877-321-7653 for Travelodge; 877-333-6683 for Wingate Inn; 800-870-3936 for Baymont Inn 
+By phone - 888-564-4487 for Amerihost Inn; 877-212-2733 for Days Inn; 877-222-3297 for Howard Johnson; 877-225-5637 for Knights Inn; 877-227-3557 for Ramada Inn; 877-244-7633 for Super 8; 877-321-7653 for Travelodge; 877-333-6683 for Wingate by Wyndham; 800-870-3936 for Baymont Inn 
 
 By mail - Opt Out/ Privacy, Hotel Group  
 Wyndham Worldwide Corporation  
@@ -89,7 +89,7 @@ Each Franchisor offers our Customers the option to decline these communications.
 
 By email, [click here to opt out](http://www.daysinn.com/DaysInn/control/privacy_policy_inquiry_form). 
 
-By phone - 888-564-4487 for Amerihost Inn; 877-212-2733 for Days Inn; 877-222-3297 for Howard Johnson; 877-225-5637 for Knights Inn; 877-227-3557 for Ramada Inn; 877-244-7633 for Super 8; 877-321-7653 for Travelodge; 877-333-6683 for Wingate Inn; 800-870-3936 for Baymont Inn 
+By phone - 888-564-4487 for Amerihost Inn; 877-212-2733 for Days Inn; 877-222-3297 for Howard Johnson; 877-225-5637 for Knights Inn; 877-227-3557 for Ramada Inn; 877-244-7633 for Super 8; 877-321-7653 for Travelodge; 877-333-6683 for Wingate by Wyndham; 800-870-3936 for Baymont Inn 
 
 By mail - Privacy Policy Inquiry  
 Wyndham Worldwide Corporation  
