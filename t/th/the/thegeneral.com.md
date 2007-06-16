@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the thegeneral.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230133602id_/http%3A//www.thegeneral.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegeneral.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616063703id_/http%3A//www.thegeneral.com/privacy.html) for the most accurate reproduction.*
 
 # The General - Auto Insurance Online
 
 Our Privacy Policy
 
-**Your privacy is important to us.** Our goal is to protect the confidentiality of information that you provide to us.
+**Your privacy is important to us.** We will not share your email address with third parties without your consent. We may send to you email requests to complete, support and analyze your business transactions with The General and to comply with any requirements of law. We may also send to you emails as a follow-up to the quote you were given, in response to any questions you might have, or to provide information to you about your policy Our goal is to protect the confidentiality of information that you provide to us.
 
 **This is how we will do this.**
 
-**Information We Collect.** Our company needs information in order to issue you a policy, service a policy, and handle claims on a policy. The information that we need is not generally available to the public. We collect this information in a number of ways:
+**Information We Collect.** Our company needs information in order to issue to you a policy, service a policy, and handle claims on a policy. The information that we need is not generally available to the public. We collect this information in a number of ways:
 
 **Information that you give us.** When you apply for a policy we record the information that you give us. We do the same thing when you request a policy change. This information includes:
 
@@ -54,7 +54,7 @@ Driving history
 
 **Parties to Whom We Disclose Information**
 
-We disclose this information to third parties only to the extent necessary to issue you a policy, to service a policy already issued to you, to handle claims under your policy, to provide another service that you have asked for, or to respond to a request from a court or governmental agency.
+We disclose this information to third parties only to the extent necessary to issue to you a policy, to service a policy already issued to you, to handle claims under your policy, to provide another service that you requested or to respond to a request from a court or governmental agency.
 
 We do not disclose this information to third parties except to the extent described above. This is our company policy. We will not change this policy without giving you advance notice.
 
