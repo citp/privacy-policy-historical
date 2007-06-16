@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapoair.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212041633id_/http%3A//www.cheapoair.com/travel/travel_resources/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapoair.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616224132id_/http%3A//www.cheapoair.com/travel/travel_resources/privacy.asp) for the most accurate reproduction.*
 
 # Cheapoair.com Privacy Policy
 
@@ -82,4 +82,4 @@ NY-10001,
   
 If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> . TRUSTe will then serve as a liaison with us to resolve your concerns.  
   
-[****](https://web.archive.org/web/20061212041633id_/http%3A//www.cheapoair.com/travel/travel_resources/clienttestimonials.asp)
+[****](https://web.archive.org/web/20070616224132id_/http%3A//www.cheapoair.com/travel/travel_resources/clienttestimonials.asp)
