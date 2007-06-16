@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliatebot.com privacy policy that was archived on 2006-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061223180122id_/http%3A//www.affiliatebot.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatebot.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616032839id_/http%3A//www.affiliatebot.com/privacy.htm) for the most accurate reproduction.*
 
 # AffiliateBot.com - Privacy Policy
 
@@ -46,7 +46,7 @@ AffiliateBot.com is very sensitive on the issue of children's privacy and strive
 
 **VI. SPAM POLICY**
 
-AffiliateBot.com is committed to professional and ethical Internet practices and prohibits any Â“e-mail spamÂ” of any kind by AffiliateBot.com or our partners, merchants, affiliates and any other entities or individuals associated with us. We however, cannot fully guarantee a Â“spam freeÂ” experience to our users as we do not control the activities of our partners, merchants, affiliates and any other entities or individuals associated with us. 
+AffiliateBot.com is committed to professional and ethical Internet practices and prohibits any ?e-mail spam? of any kind by AffiliateBot.com or our partners, merchants, affiliates and any other entities or individuals associated with us. We however, cannot fully guarantee a ?spam free? experience to our users as we do not control the activities of our partners, merchants, affiliates and any other entities or individuals associated with us. 
 
 Please note that an advertiser is required to provide an opt-out mechanism for consumers to unsubscribe from future emails about the advertiser. Should you experience any "e-mail spam" as a result of using this Site, look for the opt-out mechanism to unsubscribe yourself and if necessary, contact us here. 
 
