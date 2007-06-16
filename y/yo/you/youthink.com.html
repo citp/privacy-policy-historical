@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the youthink.com privacy policy that was archived on 2006-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061214204159id_/http%3A//www.youthink.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the youthink.com privacy policy that was archived on 2007-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070616162614id_/http%3A//www.youthink.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <link rel="shortcut icon" href="/favicon4.ico" type="image/x-icon">
@@ -8,8 +8,8 @@
 
 <meta http-equiv="pragma" content="no-cache">
 <meta http-equiv="Expires" content="Tue, 04 Dec 1993 21:29:02 GMT">
-<meta name="Keywords" content="comminity,teen,journal,jokes,forums,chat,talk,teen,movie,music,trivia,politics,community,game,poll,instant message,private message,amihot,amihotornot,youthink,you think">
-<meta name="Description" content="Bored? This site is the cure for boredom! Meet people, ask and answer questions, create a journal, send private messages, discuss whatever's on your mind in the forums, play trivia, rate and add movies, music and jokes.">
+<meta name="Keywords" content="quiz,personality test,quizzes,polls,teens,blog,journal,forums,myspace,community,games,private messages,youthink,you think">
+<meta name="Description" content="Make quizzes and personality tests, ask and answer questions, create profiles, journals, forums and more in this online community.">
 
 
 <script language="JavaScript">
@@ -45,9 +45,9 @@ if (ref != "") {land(loc,target);}
 }
 
 function keyOnly() {	
-    is_ok = confirm("This function tracks new post since the last time you looked at the thread, and will jump to directly to the first new post in the thread. You need to have an account in order for this to work.\n\nWant to create a free account now?");
+    is_ok = confirm("This function tracks new posts since the last time you looked at the thread, and will jump you directly to the first new post in the thread. You need to be a key member in order for this to work.\n\nWant to become one now?");
 	if (is_ok) {
-		self.location="edit_profile.asp";
+		self.location="key_members.asp";
 	}
 }
 
@@ -85,6 +85,20 @@ function unlockThread(comment_id,ct,thisq,read_page,ss,my_k,sw) {
 }
 
 
+function update(limit,cur_val) {
+   var old = document.newmess_form.counter.value;
+   document.newmess_form.counter.value=cur_val;
+   if(document.newmess_form.counter.value > limit && old <= limit) {
+     alert('Your comment is too long! 1000 chars max.');
+     if(document.styleSheets) {
+       document.newmess_form.counter.style.fontWeight = 'bold';
+       document.newmess_form.counter.style.color = '#ff0000'; } }
+   else if(document.newmess_form.counter.value <= limit && old > limit
+	   && document.styleSheets ) {
+       document.newmess_form.counter.style.fontWeight = 'normal';
+       document.newmess_form.counter.style.color = '#000000'; } 
+   }
+
 function popUp(URL,windowName,width,height) {	
     var features =
         'width='        + width +
@@ -114,25 +128,17 @@ function AddText(NewCode){document.newmess_form.comment.value+=NewCode}
 //-->
 </script>
 
+<link rel="stylesheet" href="yt.css" type="text/css">
 </head>
 
 <body link="#505A84" vlink="#505A84" alink="#505A84" bgcolor="white" marginwidth="0" marginheight="0" leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" onload="MM_preloadImages('art/qtab2.gif','art/qtab2-u.gif','art/quiztab.gif','art/quiztab-u.gif','art/jtab2.gif','art/jtab-u.gif','art/l-tab2.gif','art/l-tab-u.gif','art/mtab3.gif','art/mtab2-u.gif','art/ttab3.gif','art/ttab2-u.gif','art/ftab3.gif','art/ftab2-u.gif')">
-<style>
-		<!-- BODY {font-family: verdana,arial,helvetica; font-size:10pt} -->
-		
-		<!-- A:HOVER {color: #313131; } // -->
 
-		.copy {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; color: #000000; text-decoration: none;  padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px}
-		.copy2 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; color: #000000; text-decoration: none;  padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px}
-		.copy_small {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; color: #000000; text-decoration: none;  padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px}
-		.header {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-weight: bold; font-variant: normal; text-transform: none; color: #A7B1BB; text-decoration: none;  padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px}
-	</style>
 
 
 
 <table bgcolor="white" width="100%" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr><form action="/home.asp" method="post"></form><td background="" rowspan="2" width="50" bgcolor="#CFD0EC" valign="top"><a href="/home.asp"><img border="0" src="/art/skinny_baby2.gif" width="59" height="68"></a></td>
-<td valign="top"><a href="/home.asp"><img border="0" src="/art/skinny_logo_xmas_new2.gif" width="127" height="27"></a></td>
+<td valign="top"><a href="/home.asp"><img border="0" src="/art/new_logo.gif" width="179" height="27"></a></td>
 <td align="right" valign="top"><img src="/art/pix.gif" width="10" height="15"><a href="/show_profile.asp?handle="><img vspace="0" src="/art/ntb-profile.gif" width="82" height="17" border="0" alt="Edit Profile"></a><a href="/show_profile.asp?action=journal&amp;handle="><img vspace="0" src="/art/ntb_journal.gif" width="73" height="17" border="0" alt="My Journal"></a><a href="/whos_online.asp"><img vspace="0" src="/art/ntb_online.gif" width="99" height="17" border="0" alt="Who's Online"></a><a href="#" onclick="window.open('/chat2.asp','chatter','width=600,height=500,scrollbars=no,menubar=no,toolbar=no,status=no,location=no,title=no,resizable=yes,top=10,left=10');"><img vspace="0" src="/art/ntb_chat.gif" width="52" height="17" border="0" alt="Chat"></a><a href="store.asp"><img vspace="0" src="/art/ntb_store.gif" width="57" height="17" border="0" alt="Store"></a><a href="/faq.asp"><img vspace="0" width="42" height="17" src="/art/ntb_faq.gif" border="0" alt="Links"></a></td></tr>
 <tr><td colspan="2">
 
@@ -243,6 +249,8 @@ function AddText(NewCode){document.newmess_form.comment.value+=NewCode}
 
 <td align="right"><nobr><font face="verdana,arial,helvetica" color="gray" size="1"><img src="/art/search.gif" width="20" height="18" align="absmiddle"><select name="which_search" style="font-size:9;"><option>Questions</option>
 
+
+<option>Quizzes</option>
 
 <option>Links</option>
 
@@ -403,7 +411,7 @@ document.write("usr=00131449P000");
 document.write("&refer="+escape(document.referrer)+"");
 document.write("&tips="+Math.random()+"");
 document.write("\" alt=\"AddFreeStats\" border=0></A>");
-//--></script><a href="http://top.addfreestats.com/cgi-bin/main.cgi?usr=00131449P000" target="_blank"><img src="http://www1.addfreestats.com/cgi-bin/connect.cgi?usr=00131449P000&amp;refer=&amp;tips=0.07780821208704092" alt="AddFreeStats" border="0"></a>
+//--></script><a href="http://top.addfreestats.com/cgi-bin/main.cgi?usr=00131449P000" target="_blank"><img src="http://www1.addfreestats.com/cgi-bin/connect.cgi?usr=00131449P000&amp;refer=&amp;tips=0.24282806750841734" alt="AddFreeStats" border="0"></a>
 <noscript>
 <a href="http://top.addfreestats.com/cgi-bin/main.cgi?usr=00131449P000" target="_blank">
 <img src="http://www1.addfreestats.com/cgi-bin/connect.cgi?usr=00131449P000" border=0 alt="AddFreeStats.com Free Web Stats in real-time !"></A>
@@ -424,8 +432,8 @@ urchinTracker();
 
 </td><td align="center" valign="middle">
 <font color="white" size="1" face="verdana,arial,helvetica,sans-serif"><b>
-<a href="/faq.asp"><font color="gray">FAQs</font></a> &nbsp; <a href="/news.asp"><font color="gray">Newsletters</font></a> &nbsp; <a href="/advertise.asp"><font color="gray">Advertise</font></a> &nbsp; <a href="/about.asp"><font color="gray">About Us</font></a> &nbsp; <a href="http://www.i-am-bored.com"><font color="gray">Bored</font></a> &nbsp; 
-<a href="/privacy.asp"><font color="gray">Privacy</font></a><font color="gray"> &nbsp;  <a href="contact.asp"><font color="gray">Contact Us</font></a><font color="gray"> &nbsp; <a href="close_account.asp"><font color="gray">Close Your Account</font></a><font color="gray"> &nbsp;&nbsp;&nbsp;&nbsp;© 2006 Zertical, Inc.&nbsp;
+<a href="/faq.asp"><font color="gray">FAQs</font></a> &nbsp; <a href="/news.asp"><font color="gray">Newsletters</font></a> &nbsp; <a href="/advertise.asp"><font color="gray">Advertise</font></a> &nbsp; <a href="/about.asp"><font color="gray">About Us</font></a> &nbsp; <a href="http://www.quiztron.com"><font color="gray">Quiz</font></a> &nbsp; <a href="http://www.i-am-bored.com"><font color="gray">Bored</font></a> &nbsp; 
+<a href="/privacy.asp"><font color="gray">Privacy</font></a><font color="gray"> &nbsp;  <a href="contact.asp"><font color="gray">Contact Us</font></a><font color="gray"> &nbsp; <a href="close_account.asp"><font color="gray">Close Your Account</font></a><font color="gray"> &nbsp;&nbsp;&nbsp;&nbsp;© 2007 Zertical, Inc.&nbsp;
 
 </font>
 </font></font></b></font></td></tr>
