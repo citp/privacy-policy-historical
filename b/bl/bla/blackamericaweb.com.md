@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackamericaweb.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209095149id_/http%3A//www.blackamericaweb.com/site.aspx/misc/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackamericaweb.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616060452id_/http%3A//blackamericaweb.com/site.aspx/misc/privacypolicy) for the most accurate reproduction.*
 
 # BAW: Privacy Policy
 
