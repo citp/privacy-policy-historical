@@ -1,84 +1,57 @@
-> *The following text is extracted and transformed from the yourstreet.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206115500id_/http%3A//yourstreet.com/index.cfm%3Fa%3Dhelp%26sa%3Dgetstart%26tab%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourstreet.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616062926id_/http%3A//www.yourstreet.com/about/privacy_policy) for the most accurate reproduction.*
 
-# Afternic.com - Getting Started
+# YourStreet – Neighborhood Profiles, Free Local Real Estate Information
 
-Your privacy is very important to us. As part of the normal operation of our business services, we collect and, in some cases, disclose information about you. This Privacy Policy outlines the information that we collect about you and what may happen to that information. The privacy policies of this notice apply to [http://www.Afternic.com](https://web.archive.org/web/20001206115500id_/http%3A//yourstreet.com/index.cfm) (hereafter, the Site).
+YourStreet recognizes that your privacy and the protection of your personal information is important to you and is committed to protecting your privacy. The privacy policy described below applies to the site and services offered by YourStreet. BY USING THIS SITE, YOU AGREE TO THE TERMS OF THIS POLICY.
 
-As described below, some of your personally identifiable information is disclosed to third parties and used by us and third parties. By accepting the User Agreement, you expressly consent to our use and disclosure of your personally identifiable information. This Privacy Policy is incorporated into and subject to the terms of the [AFTERNIC.COM, Inc. User Agreement](https://web.archive.org/web/20001206115500id_/http%3A//yourstreet.com/index.cfm?a=help&sa=getstart&tab=useragreement).
+**This policy was last modified on March 13, 2007.**
 
-AFTERNIC.COM reserves the right to change its privacy policy from time to time. Before policy changes take effect, however we will post notices prominently.
+YourStreet helps you connect with people in your neighborhood and discover the most detailed real estate information available anywhere on the Web, helping you as a home buyer or seller to profit from this knowledge.
 
- **1\. TRUSTe Privacy Program**  
+**What information is collected by YourStreet:**  
+You may use YourStreet's services anonymously and we will not collect any information about you.
 
+However, we do collect information from you when you register on our website. Registration is necessary to contribute content to the YourStreet website. When you register we ask you for your e-mail address and request you to specify a username, password, and your zip code. We also ask you to indicate your experience with the real estate market as well as whether you are a: Home Buyer, Home Seller, Real Estate Enthusiast, Real Estate Investor, Real Estate Professional, or other user.
 
-This confirms that Afternic.com is a licensee of the TRUSTe Privacy Program.This privacy statement discloses the privacy practices for Afternic.com.
+In the "Profile" section of our website, you can view and modify information you submitted during the registration process. You can also add information, such as your first and last name, a picture to represent yourself, your real estate experiences, your real estate interests, and your other interests. In this section, you may also specify whether your first and last name and e-mail address are public or private with respect to other users.
 
-TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of:
+YourStreet uses cookies. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web server in the domain that issued the cookie to you. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of this or other websites you visit.
 
-1.What personally identifiable information of yours or third party personally identification is collected from you through the web site   
-2.The organization collecting the information   
-3.How the information is used   
-4.With whom the information may be shared   
-5.What choices are available to you regarding collection, use and distribution of the information   
-6.The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Afternic.com control   
-7.How you can correct any inaccuracies in the information. 
+**How you can access and update your information:**  
+Your profile information is always available when you log in to the website using your username and password. You are free to change or delete any or all of your profile information at any time. However, if you delete your profile information, you may not be able to access your account.
 
-**2\. Information we collect**  
-If you are merely visiting our site, we collect and store only the following information about you:
+**How the information collected is used:**  
+YourStreet will not share, sell, or rent your personal information to third parties.
 
-  * The IP address of the terminal from which you access the Internet 
-  * The IP address of the website from which you linked directly to our site 
-  * The date and time you access our site 
-  * The browser you used to access the site 
-  * The operating system you used to access the site 
+YourStreet uses your personal information only for the operation and maintenance of the service provided by this site. For example, your username will be used to identify you when you contribute content to the site, such as, in a discussion forum.
 
+YourStreet will not use or share your personal information in a manner that differs from what is described in this privacy statement without your prior consent.
 
+**How your information is protected:**  
+YourStreet strictly protects the security of the personal information you provide. Personal information we collect is stored in password-controlled servers with limited access, and we carefully protect this information from loss or misuse, and from unauthorized access, disclosure, alteration, or destruction.
 
-We use this information to measure the number of visitors to the different sections of our site, and to help us make our site more useful to visitors.
+**When your information may be disclosed:**  
+YourStreet may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to: (a) conform to the requirements of the law or comply with legal process served on YourStreet or the site; (b) protect and defend the rights or property of YourStreet; or (c) act in urgent circumstances to protect personal safety of users of YourStreet, its websites, or the public.
 
-We will not obtain any other personally identifying information about you when you visit our site, unless you choose to provide such information to us.
+**Updates to this privacy policy:**  
+We may occasionally update this Privacy Policy. When we do, we will also revise the "last updated" date at the top of the Privacy Policy. We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the personal information we collect. Your continued use of the service constitutes your agreement to this Privacy Policy and any updates.
 
-As a STANDARD MEMBER or EXCHANGE MEMBER, we collect and store additional information about you. To fully use our services, you will need to register using our online form. You will be required to provide us with your contact information and other personal information such as User ID, email address, and billing address. In addition, as an EXCHANGE MEMBER, you will be required to provide your credit card number and its expiration date. We use this credit card information to verify your name, address, and other personally identifying information as well as to process your transactions.
+**Sale of assets:**  
+In the unlikely event that YourStreet or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
 
-We automatically track certain information about you based upon your behavior on our site. We use this information to analyze user demographics, interests, and behavior to better understand your preferences and improve your AFTERNIC.COM experience.
+**Terms of use:**  
+Please also visit our Terms of Use section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
-Cookies are used on certain pages of our site. We offer certain features that are only available through the use of a cookie. Cookies are stored on your hard drive, not on our site. If your browser permits, you are always free to decline our cookies, but you may not be able to use certain site features and will have to enter your personally identifying information manually more often. If you choose to buy, bid, sell, or appraise on our site, we collect information about these behaviors. 
+**Third party links:**  
+In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).
 
-When you successfully buy or sell a domain name, we collect some additional information including name servers, administrative contacts, business identification, special registrar requirements, billing address, bank account number, and tracking information from checks and money orders. Bank account information is deleted when your transaction closes. 
+**Questions and feedback:**  
+YourStreet welcomes your comments regarding this Privacy Policy. If you believe that YourStreet has not adhered to this Policy, please contact us by using our feedback form or postal mail, and we will use commercially reasonable efforts to promptly determine and remedy the problem.
 
-**3\. How we use your information**  
-We use the information we collect from you to transmit administrative notices, buy/sell information and support, billing information, to send you specific information that you have requested, to process your credit card purchases, and to complete the paperwork necessary to transfer a domain name registration. We may also use it to send you information that is targeted to your interests, such as upcoming auctions and promotions. By accepting the User Agreement, you expressly agree to receive this information. Additionally, on appropriate portions of the site, we may display or archive your user name and system- and user-generated feedback, including the comments you submit and that others submit about you.
+We can be reached online through our [contact form](https://web.archive.org/about/contact_us).
 
-If you send us personal correspondence, such as emails or letters, or if third parties such as other users send us correspondence about your activities or postings on the site, we may collect such information into a file with information specific to you. We use this information to support your customer inquiries, settle disputes, enforce our User Agreement, maintain our customer ranking system, troubleshoot problems, and to identify you as eligible for special user campaigns. On rare occasions, we may look across multiple users to identify problems, resolve disputes, and evaluate you for multiple user names.
+Our Postal address is:
 
-As a general proposition, we do not sell or rent any personally identifiable information about you to any third party. If you choose to use the optional services available on the site, we will, by necessity, provide some of your personally identifiable information to these service providers. However, you can avoid these disclosures by choosing to not use these services. Because we do not control the privacy practices of these third parties, you should evaluate their practices before deciding to use their services.
-
-Unfortunately, due to the existing regulatory environment, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. As an example, without limiting the foregoing, AFTERNIC.COM will provide personal data records if required by the order of any court of competent jurisdiction. We may disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal and may expose us to legal liability. Therefore, although we use industry standard practices to protect your privacy, we cannot guarantee, and you should not expect, that your personally identifiable information or private communications will remain private.
-
-**4\. Special note about children**  
-Children are not eligible to use our services. We ask that minors do not submit any personal information to us. 
-
-If you believe your child has errantly submitted personally identifying information on the site, please send us an email message with the name of your child, the email address which the child used to contact us, and the child’s postal address. We will notify you if we have any data matching these identifiers. If you can supply the additional information that we require to authenticate your relationship to the data subject, we will delete the data at your request.
-
-**5\. Your use of other users’ information**  
-In order to facilitate community, our service allows you to access other users’ personal information, such as (but not limited to) user name and listed auctions. Further, as a successful buyer or seller, you will be sent the other data subject’s name, address, email address, phone number, fax number, title, DNS information, and registrar identity information. 
-
-By entering into our User Agreement, you agree that, with respect to other user’s personally identifiable information, you obtain through the Site or through an AFTERNIC.COM-related communication or AFTERNIC.COM-facilitated transaction, AFTERNIC.COM hereby grants you license to use such information only for:
-
-  * AFTERNIC.COM -related communications that are not unsolicited commercial messages, and 
-  
-
-  * Any use that such user expressly opts into after adequate disclosure of the purpose(s).
-
-
-
-Additionally, under no circumstances, except those defined in this section, can you disclose personally identifiable information about another user to any third party without our consent and the consent of such other user after adequate disclosure. Note that law enforcement personnel and other rights holders are given different information access rights.
-
-AFTERNIC.COM and its users will not tolerate any spam. Without limiting the foregoing, you are not licensed to add any AFTERNIC.COM user, even one with whom you have transacted, to your mail (email or physical) or phone list without their express consent after adequate disclosure.
-
-**8\. Reviewing and changing your information**  
-Following registration, you can review the information you submitted via your personal MY AFTERNIC account, including your Username and encoded credit card information. 
-
-Additionally, you can use your MY AFTERNIC account to review and modify other fields, including first and last name, address information, email address, and password. If you choose to change your email address, we will cross-match your new address in our database for relationship to any other data set. We will only allow unique email addresses to be used for registration.
-
-At your discretion, you may review and change all fields in your personal domain name profile records at any time.
+YourStreet, Inc.  
+1819 Polk Street #196  
+San Francisco, CA 94109
