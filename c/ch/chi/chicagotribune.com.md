@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chicagotribune.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230182155id_/http%3A//www.chicagotribune.com/services/site/chi-privacy%2C0%2C4121982.story) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicagotribune.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616102801id_/http%3A//www.chicagotribune.com/services/site/chi-privacy%2C0%2C4121982.story) for the most accurate reproduction.*
 
 # Privacy policy | Chicago Tribune
 
@@ -45,10 +45,10 @@ Contacting us.
 We can be reached by contacting:
 
 chicagotribune.com  
-c/o Barb Healy  
+c/o Christopher Shoup  
 435 Michigan Avenue  
 Chicago, IL 60611  
-Email: bahealy@tribune.com
+Email: cashoup@tribune.com
 
 **Changes to this policy.**
 
@@ -60,7 +60,7 @@ This policy and the use of this Site are governed by Illinois law. Any claim rel
 
 In the event case of any conflict between the terms of this policy and the terms of any electronic or machine readable privacy policy (for example, a P3P electronic privacy policy), the terms of this written policy shall control. 
 
-Copyright © 2006, [Chicago Tribune](https://web.archive.org/)
+Copyright © 2007, [Chicago Tribune](https://web.archive.org/)
 
   
   
