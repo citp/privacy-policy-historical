@@ -1,509 +1,557 @@
-<!--The following is the downloaded HTML source of the 123rf.com privacy policy that was archived on 2006-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061205195156id_/http%3A//www.123rf.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 123rf.com privacy policy that was archived on 2007-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070616053752id_/http%3A//www.123rf.com/privacy.php) for the most accurate reproduction.-->
 
-<html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <title>123 Royalty Free - Stock Image and Photo Subscription</title>
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"><meta name="description" content="123 Royalty Free - Stock Image and Photo Subscription">  
+
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"><!-- <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> -->
+<meta name="description" content="123 Royalty Free - Stock Image and Photo Subscription">
+<meta name="keywords" content="royalty free, stock photo, stock photography, stock images, pictures, photographs">
+<script src="/2007/js/global.js" type="text/javascript"></script>
+<script src="/2007/js/horizNav.js" type="text/javascript"></script>
+<script src="/cookies.js" type="text/javascript"></script>
+<script src="/overlibmws.js" type="text/javascript"></script>
+
 <script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">
 _uacct = "UA-154033-4";
 urchinTracker();
-
 </script>
-<link rel="SHORTCUT ICON" href="http://www.123rf.com/favicon.gif">
+
+<link rel="alternate" type="application/atom+xml" title="Atom" href="http://www.123rf.com/blog/atom.xml">
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.123rf.com/blog/rss.xml">
+<link rel="shortcut icon" href="/2007/favicon.ico">
 
 <style type="text/css">
-<!--
-body {
-  margin-left: 0px;
-  margin-top: 0px;
-}
--->
-
+@import url(/2007/styles/default.css);
+@import url(/2007/styles/horizNav.css);
 </style>
-<link href="/stylesheet2006.css" rel="stylesheet" type="text/css">
 
-<script language="JavaScript" src="/gen_validatorv2.js" type="text/javascript"></script>
-<script language="JavaScript" src="/cookies.js" type="text/javascript"></script>
-
-<script language="JavaScript" type="text/javascript">
-
-function helpPopup() {
-window.open("http://www.123rf.com/remaintime_help.php", "myWindow", 
-"status = 1, height = 300, width = 550, resizable = 1" )
-}
-
-
-function gotopage(imagesperpage)
-{
-window.document.f.start.value = (window.document.f.page.value * imagesperpage) - imagesperpage; 
-window.document.f.submit();
-return true;
-}
-function gotopage2(imagesperpage)
-{
-window.document.f2.start.value = (window.document.f2.page.value * imagesperpage) - imagesperpage; 
-window.document.f2.submit();
-return true;
-}
-
-function setthumb(thumbperpage)
-{
-  //"borrow" hidden field inside form f to resubmit the page
-window.document.f.start.value = 0;
-window.document.f.itemsperpage.value = thumbperpage;
-window.document.f.submit();
-return true;
-}
-
-function setLang(lang)
-{
-  setCookie('preferlang',lang);
-  window.location.reload(); 
-}
-
-</script>
-<script language="JavaScript">
-function lightbox(uid,light,filename)
-  {
-  var shref;
-  var statustxt;
-  var lightn;
-  var box;
-  var lightid = getCookie('lightid');
-  //lightn = document.getElementById('which')[document.getElementById('which').selectedIndex].id;
-  box = eval("document.formation.cb" + filename); 
-  if(box.checked == true)
-  {    
-        shref = "/sdo_light.php?uid="+uid+"&filename="+filename+"&action=add"+"&light="+lightid;
-        statustxt = "Item ("+filename+") added to Lightbox ("+uid+")";
-  }
-  else
-  {
-        shref = "/sdo_light.php?uid="+uid+"&filename="+filename+"&action=remove"+"&light="+lightid;
-        statustxt = "Item ("+filename+") removed from Lightbox ("+uid+")";
-  }
-
-  //alert(shref); 
-
-        var httprequest = new Image();
-        httprequest.src = shref;
-
-  window.status = statustxt;
-
-  }
-
-  function do_create () {
-     var new_name = prompt('Please enter a name for the new lightbox.','');
-     if (new_name != null) {
-         document.forms.lightboxaction.text.value = new_name;
-         document.forms.lightboxaction.action.value = 'create';
-          
- 
-  document.forms.lightboxaction.submit();
-     }
-  }
-
-    function do_delete (n) {
-        if (confirm('Are you sure you want to delete this entire lightbox?')) {
-            document.forms.lightboxaction.text.value = n;
-            document.forms.lightboxaction.action.value = 'delete';
-            document.forms.lightboxaction.submit();
-        }
-    }
-
-
-
-</script>
-<script language="javascript">
-function showMoreSearch()
-{
-    document.getElementById('moresearchoptions').style.display = "inline";
-    document.getElementById('searchOptionLink').innerHTML = "<a class=slinklight2 href=\"javascript:offMoreSearch();\">&laquo Turn Off Search Options</a>";
-    document.getElementById('moreoptions').value = "yes";
-     setCookie('cookiemoreoptions', 'yes');
-
-}
-function offMoreSearch()
-{
-    document.getElementById('moresearchoptions').style.display = "none";
-    document.getElementById('searchOptionLink').innerHTML = "<a href=\"javascript:showMoreSearch();\" class=slinklight2>More Search Options &raquo</a>";
-    document.headerSearch.exclude.value = "";
-    document.headerSearch.match[0].checked = true;
-    document.headerSearch.itemsperpage.value = "40";
-    document.headerSearch.moreoptions.value = "no";
-    setCookie('cookiemoreoptions', 'no');
-    //document.getElementById('exclude').value = "";
-    //document.getElementById('match').checked  = true;
-  //  document.getElementByid('itemsperpage').value ="20";
-
-}
-</script>
+<!--[if IE]><link rel="stylesheet" type="text/css" href="/2007/styles/ie.css"><![endif]-->
+<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="/2007/styles/ie6.css"><![endif]-->
 
 </head>
-<body bgcolor="#FFFFFF" style="margin:0">
-	<script language="JavaScript" type="text/javascript">
-<!--
 
-if (window.top!=window.self) 
- {
- window.top.location="http://www.123rf.com"
- }
+<body>
+<div id="sexyBG"></div>
+<a name="top"></a>
 
+<!-- Main Container -->
+<div id="container">
 
--->
-</script>
-<div id="overDiv" style="position:absolute; visibility:hidden; z-index:1000;"></div>
-  
+  <!--
+  <div id="topcoloroption">
+    Theme
+    <span id="silvertheme" class="silvertheme"><img src="/images/v2/spacer.gif" width="12" height="12" onclick="applytheme('silver');" alt="Silver" title="Silver"></span>
+    <span id="bluetheme" class="bluethemeon"><img src="/images/v2/spacer.gif" width="12" height="12" onclick="applytheme('blue');" alt="Blue" title="Blue"></span>
+    <span id="greentheme" class="greentheme"><img src="/images/v2/spacer.gif" width="12" height="12" onclick="applytheme('green');" alt="Green" title="Green"></span>
+    <span id="pinktheme" class="pinktheme"><img src="/images/v2/spacer.gif" width="12" height="12" onclick="applytheme('pink');" alt="Pink" title="Pink"></span>
+    <span id="orangetheme" class="orangetheme"><img src="/images/v2/spacer.gif" width="12" height="12" onclick="applytheme('orange');" alt="Orange" title="Orange"></span>
+  </div>
+  -->
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr><td width="182"><img src="/pics/logo.jpg" border="0"></td><td width="100%" background="/pics/top_mid.jpg"></td><td width="416"><img src="/pics/top_rite.jpg" border="0"></td></tr>
-</tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr><td height="2"></td></tr>
-</tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr><td width="100%" background="/pics/greydot.gif"></td></tr>
-</tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr><td width="22"></td><td class="topmenu"><a href="http://www.123rf.com">123RF Home</a><img src="pics/1clearpx.gif" border="0" width="20" height="1"><a href="http://www.123rf.com/latestsearch.php">New Images</a><img src="pics/1clearpx.gif" border="0" width="20" height="1"><a href="http://www.123rf.com/freeimages.php">Free Images</a>
-	
-<img src="/pics/1clearpx.gif" border="0" width="20" height="1"><a href="http://www.123rf.com/rewards/">Rewards</a>
-</td>
-<td align="right" class="topmenuorange">
-  <a href="https://www.123rf.com/register.php">Register</a>    <img src="pics/1clearpx.gif" border="0" width="20" height="1">
-  <a href="https://www.123rf.com/purchasecredits.php">Buy Credits</a>
-  <img src="pics/1clearpx.gif" border="0" width="20" height="1">
-  <a href="https://www.123rf.com/subscribe.php">Subscribe</a>
-  <img src="pics/1clearpx.gif" border="0" width="20" height="1">
-  <a href="http://www.123rf.com/mylightbox.php">My Lightbox</a>
- <img src="/1clearpx.gif" width="2" border="0" align="absmiddle"><a href="/lightboxhelp.php"><img src="/images/icon_qmark2.gif" style="vertical-align: top; margin-top: 1px;" border="0" title="What is lightbox?" alt="What is lightbox?"></a></td><td width="22"></td></tr>
-</tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr><td width="100%" background="/pics/greydot.gif"></td></tr>
-</tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr><td height="2"></td></tr>
-</tbody></table>
-<table width="100%" border="0" cellpadding="0" cellspacing="0" style="padding:0px px 0px 10px;"><tbody><tr><td valign="top">
-<script language="javascript">
+  <div id="topcontact">
+    <div id="topcontact2">US/CA: Toll-Free <b>1-866-655-FREE</b> (1-866-655-3733)</div>
+    <div id="topcontact1">SUPPORT</div>
+  </div>
 
+  <!-- Header Container -->
+  <div id="container_header_stretched">
 
-function setTabCookie(name, value, expires, path, domain, secure)
-{
-    document.cookie= name + "=" + escape(value) +
-        ((expires) ? "; expires=" + expires.toGMTString() : "") +
-        ((path) ? "; path=" + path : "") +
-        ((domain) ? "; domain=" + domain : "") +
-        ((secure) ? "; secure" : "");
-}
-
-  
-function toggleTab(divname)
-{
-//  var div = document.getElementById(divname)
-  var icon = document.getElementById('icon'+divname);
-  var div = document.getElementById('div'+divname);
-  var stylecookie = divname+"tabstyle";
-  var futdate = new Date();
-  var expdate = futdate.getTime();
-  expdate += 30*24*3600*1000 //expires in 30 days(milliseconds) 
-  futdate.setTime(expdate);
-    
-  if(div.style.display == "block")
-  {   
-    div.style.display = "none";
-    icon.innerHTML = "[+]";
-  //  tab.className = "sidetab";
-    setTabCookie(stylecookie,"collapse",futdate,"/");
-  }
-  else
-  {
-    div.style.display = "block";
-    icon.innerHTML = "[&#8213;]";
-    //tab.className = "sidetabactive";
-    setTabCookie(stylecookie,"expand",futdate,"/");
-  }
-  
-  
-}
-</script>
-<table border="0" cellspacing="0" cellpadding="0" style="margin-left:5px">
-<tbody><tr><td valign="top">
-
-  <!--- login --->
-
-
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr height="7"><td></td></tr></tbody></table>
-  <!--- login --->
-
-  <table class="loginbox" border="0" cellspacing="0" cellpadding="0" width="200" style="color: #777; background: #E0F5F8;">
-    <tbody><tr>
-      <td width="11" height="11" background="/images/tb_blue2_topleft.gif"></td>
-      <td></td>
-      <td></td>
-    </tr>
+  <table border="0" cellspacing="0" cellpadding="0" id="header_table_stretched" align="center">
+    <tbody><tr><td colspan="3" height="0"><img src="/images/v2/spacer.gif" width="900" height="0"></td></tr>
     <tr>
-      <td></td>
-      <td>
+      <td class="logo logo_blue" id="logocolor" valign="bottom">
+        <!-- Logo -->
+        <a href="http://www.123rf.com" title="123RF" alt="123RF"><img style="opacity:0;filter:alpha(opacity=0);" src="/images/v2/123rf_mainlogo_orange.gif" width="110" height="48" border="0"></a>
+        <!-- Logo -->
+      </td>
 
-        <form action="http://www.123rf.com/logindone.php" method="post" style="margin: 0px;">
+      <td id="text_after_logo" valign="bottom">
+        <!-- Text after logo -->
+        <div id="text_after_logo">
 
-        <table class="loginbox" border="0" cellspacing="0" cellpadding="0" width="100%" style="color: #777;">
-          <tbody><tr>
-            <td valign="middle" align="left">
-              <img src="/images/123rf_bullet_blue.gif">
-            </td>
-            <td valign="top" align="left" width="188">
-              <div class="leftpanel_header"><b>Sign In</b></div>
-            </td>
+          <div id="topcoloroption2">
+            <span id="silvertheme" class="silvertheme"><img src="/images/v2/spacer.gif" width="12" height="12" onclick="applytheme('silver');" alt="Silver" title="Silver"></span>
+            <span id="bluetheme" class="bluethemeon"><img src="/images/v2/spacer.gif" width="12" height="12" onclick="applytheme('blue');" alt="Blue" title="Blue"></span>
+            <span id="greentheme" class="greentheme"><img src="/images/v2/spacer.gif" width="12" height="12" onclick="applytheme('green');" alt="Green" title="Green"></span>
+            <span id="pinktheme" class="pinktheme"><img src="/images/v2/spacer.gif" width="12" height="12" onclick="applytheme('pink');" alt="Pink" title="Pink"></span>
+            <!-- <span id="redtheme" class="redtheme"><img src="/images/v2/spacer.gif" width="12" height="12" onclick="applytheme('red');" alt="Red" title="Red"></span> -->
+            <span id="orangetheme" class="orangetheme"><img src="/images/v2/spacer.gif" width="12" height="12" onclick="applytheme('orange');" alt="Orange" title="Orange"></span>
+          </div>
 
-          </tr>
+          - MORE THAN A MILLION ROYALTY-FREE STOCK PHOTOS
+        </div>
+        <!-- Text after logo -->
+      </td>
 
-          <tr>
-            <td align="left" colspan="2">
+      <td id="top_loginbox" valign="bottom" align="right">
 
-              <table border="0" cellspacing="0" cellpadding="0" width="100%" class="text">
-                <tbody><tr><td colspan="3" height="5"></td></tr>
-                <tr><td align="right" class="loginbox2" style="padding-right: 5px;">Username:</td><td align="left"><input type="text" name="uid" size="20" class="textbox2" style="width: 115px;"></td></tr>
-                <tr><td colspan="3" height="3"></td></tr>
+        <!-- Top login panel (table) -->
+        <form action="http://www.123rf.com/logindone.php" method="post">
+<table border="0" cellspacing="0" cellpadding="0" align="right">
+  <tbody><tr>
+    <td align="right" width="200">
+      <div id="login_panel">
+        <div id="top_loginbox_text">Password</div>
+        <input id="top_input_pwd" type="password" name="password" value="" tabindex="2">
+      </div>
+      <div id="login_panel">
+        <div id="top_loginbox_text">Username</div>
+        <input id="top_input_username" type="text" name="uid" value="" tabindex="1">
+      </div>
+    </td>
 
-                <tr><td align="right" class="loginbox2" style="padding-right: 5px;">Password:</td><td align="left"><input type="password" name="password" size="20" class="textbox2" style="width: 115px;"></td></tr>
-                <tr><td colspan="3" height="10"></td></tr>
-                <tr><td colspan="3" align="center" valign="bottom"><a class="forgotpassword" href="/forgetpassword.php">Forgot Password?</a>&nbsp;&nbsp;<input type="submit" value="Login" class="loginbutton_new" style="padding: 0 3px;"></td></tr>
-              </tbody></table>
+    <td valign="bottom" width="65">
+      <input id="login_panel_button" type="image" src="/images/v2/button_login.gif" tabindex="3" title="Login">
+    </td>
 
-            </td>
-          </tr>
-        </tbody></table>
-
-        </form>
+    <td align="right" valign="bottom" id="top_loginbox_register">
+      <a id="top_loginbox_purchase" href="https://www.123rf.com/register.php" alt="Register" title="Register">Register</a> <span class="bullet">■</span><br clear="all">
+      <a id="top_loginbox_purchase" href="https://www.123rf.com/forgetpassword.php" alt="Retrieve forgotten password" title="Retrieve forgotten password">Forgot Password</a> <span class="bullet">■</span>
+    </td>
+    <td align="right" valign="bottom" id="top_loginbox_purchase">
+      <a id="top_loginbox_purchase" href="https://www.123rf.com/purchase.php" alt="Subscribe" title="Subscribe">Subscribe</a> <span class="bullet">■</span><br clear="all">
+      <a id="top_loginbox_purchase" href="https://www.123rf.com/purchase.php" alt="Buy credits" title="Buy credits">Buy Credits</a> <span class="bullet">■</span>
+    </td>
+  </tr>
+  <tr><td height="3"></td></tr>
+</tbody></table>
+</form>        <!-- Top login panel (table) -->
 
       </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td width="11" height="11" background="/images/tb_blue2_btmright.gif"></td>
-
     </tr>
   </tbody></table>
 
-  <!--end of login box-->
-  
-  
-  
-    <table border="0" cellpadding="0" cellspacing="0"><tbody><tr height="10"><td></td></tr></tbody></table>
-  <table class="loginbox" border="0" cellspacing="0" cellpadding="0" width="200" style="color: #777; background: #F1FBFC;">
+  </div>
+  <!-- Header Container -->
+
+  <!-- Print navigation menu and advanced search options -->
+  <!-- Search Bar -->
+<form action="http://www.123rf.com/search.php" method="get" name="searchform" onsubmit="javascript: return searchsubmit(this);">
+
+<!-- iframe to fix windowed element problems in IE5.5 and lower -->
+<iframe id="DivShim" src="javascript: false;" scrolling="no" frameborder="0" style="position: absolute; top: 0; left: 0; display: none;">
+</iframe>
+
+<div class="container_search_bar sbar_blue" id="sbarcolor">
+
+  <table border="0" cellspacing="0" cellpadding="0" id="search_bar_content">
     <tbody><tr>
-      <td width="11" height="11" background="/images/tb_blue1_topleft.gif"></td>
-      <td></td>
-      <td></td>
+      <td width="20"></td>
+            <td valign="top" id="search_text"><input type="text" name="word" id="search_text" class="search_text" title="Enter keywords or image code" value="Enter keywords or image code" onfocus="search_text_onfocus(this, 'Enter keywords or image code');" onblur="search_text_onblur(this, 'Enter keywords or image code');"></td>
+      <td valign="top"><input id="search_button" type="image" src="/images/v2/button_search.gif" alt="Search  Royalty-Free Stock Photos" title="Search  Royalty-Free Stock Photos"></td>
+      <td align="center">
 
-    </tr>
-    <tr>
-      <td></td>
-      <td>
+        <!-- Navi bar background -->
+        <div id="topNav" class="navBar">
+          <div class="collapsed">
+            <div class="navItem" title="Click to toggle advanced search options" alt="Click to toggle advanced search options" onclick="toggle_search_options('container_advanced_search', 'toggle_arrow');">ADVANCED SEARCH <span id="toggle_arrow">▼</span></div>
+          </div>
 
-        <table class="loginbox" border="0" cellspacing="0" cellpadding="0" width="100%" style="color:#777">
-          <tbody><tr>
-            <td valign="middle" align="left">
-              <img src="/images/123rf_bullet_blue.gif">
+          <div class="collapsed separator">|</div>
 
-            </td>
-            <td valign="top" align="left" width="188">
-              <div class="leftpanel_header"><b><a href="/topsearch.php"><font color="5D7E9F">Image Search</font></a></b></div>
-            </td>
-          </tr>
+          <!-- Image Categories Drop Down Menu -->
+          <div class="collapsed">
+            <div class="navItem" alt="Browse By Image Categories" title="Browse By Image Categories">IMAGE CATEGORIES ▼</div>
+            <div class="dropContainer">
+              <div class="dropMenu imgcat dropMenu_blue" id="dropMenu_imgcat">
 
-          <tr><td height="5"></td></tr>
+                <ul id="dropMenu_imgcat_left">
+                  <li><a id="dropmenu_link_em" href="http://www.123rf.com/discover/" alt="Discover 123RF" title="Discover 123RF"><b>Discover 123RF</b></a></li>
+                  <li><a id="dropmenu_link_em" href="http://www.123rf.com/freeimages.php" alt="Free Images" title="Free Images"><b>Free Images</b></a></li>
+                  <li><a id="dropmenu_link_em" href="http://www.123rf.com/latestsearch.php" alt="Latest Images" title="Latest Images"><b>Latest Images</b></a></li>
 
-          <tr>
-
-            <td align="left" colspan="2">
-
-              <!--search box-->
-              <table border="0" cellspacing="0" cellpadding="0" class="sidetext">
-              <form action="http://www.123rf.com/search.php" name="headerSearch"></form>
-              <tbody><tr>
-                <td><input class="textbox2" type="text" size="25" name="word" value="" style="width: 140px;"></td>
-                <td align="left" style="padding-left: 5px;"><input type="submit" value="Go" class="loginbutton_new" style="padding: 0 3px;"></td>
-              </tr>
-
-              <tr><td height="5"></td></tr>
-              <tr>
-                <td colspan="2">
-<span class="boldtext2">Thumbnails</span><br>
-                <select name="itemsperpage" class="maintab3" onchange="setCookie('perpage', document.headerSearch.itemsperpage.options[headerSearch.itemsperpage.selectedIndex].value);">
-                <option value="20">20 per page</option>
-
-                <option value="40" selected="">40 per page</option>
-                <option value="60">60 per page</option>
-                <option value="80">80 per page</option>
-
-                <option value="100">100 per page</option>
-              </select>
-                <span id="moresearchoptions" style="display: none;">
-                &nbsp;<br><br>
-                  <table border="0" cellspacing="0" cellpadding="0">
-                    <tbody><tr>
-                      <td valign="middle" style="padding-right: 2px;"><input type="radio" name="match" id="match_and" value="and" style="margin: 0;" checked=""></td>
-                      <td valign="middle"><label for="match_and" class="select_caption">Match All</label></td>
-                      <td valign="middle" style="padding-left: 10px; padding-right: 2px;"><input type="radio" name="match" id="match_or" value="or" style="margin: 0;"></td>
-                      <td valign="middle"><label for="match_or" class="select_caption">Match Any</label></td>
-                    </tr>
-                  </tbody></table><br>
+<li><a id="dropmenu_link" href="http://www.123rf.com/photos-images/1/1/animals_and_pets.html" alt="Animals &amp; Pets" title="Animals &amp; Pets">Animals &amp; Pets</a></li><li><a id="dropmenu_link" href="http://www.123rf.com/photos-images/2/1/arts_and_architecture.html" alt="Arts &amp; Architecture" title="Arts &amp; Architecture">Arts &amp; Architecture</a></li><li><a id="dropmenu_link" href="http://www.123rf.com/photos-images/4/1/babies_and_kids.html" alt="Babies &amp; Kids" title="Babies &amp; Kids">Babies &amp; Kids</a></li><li><a id="dropmenu_link" href="http://www.123rf.com/photos-images/5/1/background_and_graphics.html" alt="Background &amp; Graphics" title="Background &amp; Graphics">Background &amp; Graphics</a></li><li><a id="dropmenu_link" href="http://www.123rf.com/photos-images/11/1/beauty.html" alt="Beauty" title="Beauty">Beauty</a></li><li><a id="dropmenu_link" href="http://www.123rf.com/photos-images/6/1/business_man.html" alt="Business - Man" title="Business - Man">Business - Man</a></li><li><a id="dropmenu_link" href="http://www.123rf.com/photos-images/7/1/business_woman.html" alt="Business - Woman" title="Business - Woman">Business - Woman</a></li><li><a id="dropmenu_link" href="http://www.123rf.com/photos-images/3/1/celebrations_and_holidays.html" alt="Celebrations &amp; Holidays" title="Celebrations &amp; Holidays">Celebrations &amp; Holidays</a></li><li><a id="dropmenu_link" href="http://www.123rf.com/photos-images/8/1/concepts_and_stills.html" alt="Concepts &amp; Stills" title="Concepts &amp; Stills">Concepts &amp; Stills</a></li><li><a id="dropmenu_link" href="http://www.123rf.com/photos-images/9/1/couples_and_families.html" alt="Couples &amp; Families" title="Couples &amp; Families">Couples &amp; Families</a></li></ul><ul id="dropMenu_imgcat_left"><li><a id="dropmenu_link" href="http://www.123rf.com/photos-images/21/1/education.html" alt="Education" title="Education">Education</a></li><li><a id="dropmenu_link" href="http://www.123rf.com/photos-images/10/1/fruits_food_and_drinks.html" alt="Fruits, Food &amp; Drinks" title="Fruits, Food &amp; Drinks">Fruits, Food &amp; Drinks</a></li><li><a id="dropmenu_link" href="http://www.123rf.com/photos-images/20/1/health_and_medical.html" alt="Health &amp; Medical" title="Health &amp; Medical">Health &amp; Medical</a></li><li><a id="dropmenu_link" href="http://www.123rf.com/photos-images/12/1/illustrations.html" alt="Illustrations" title="Illustrations">Illustrations</a></li><li><a id="dropmenu_link" href="http://www.123rf.com/photos-images/19/1/landscapes_and_travel.html" alt="Landscapes &amp; Travel" title="Landscapes &amp; Travel">Landscapes &amp; Travel</a></li><li><a id="dropmenu_link" href="http://www.123rf.com/photos-images/14/1/nature.html" alt="Nature" title="Nature">Nature</a></li><li><a id="dropmenu_link" href="http://www.123rf.com/photos-images/15/1/people_lifestyle.html" alt="People - Lifestyle" title="People - Lifestyle">People - Lifestyle</a></li><li><a id="dropmenu_link" href="http://www.123rf.com/photos-images/16/1/science_and_technology.html" alt="Science &amp; Technology" title="Science &amp; Technology">Science &amp; Technology</a></li><li><a id="dropmenu_link" href="http://www.123rf.com/photos-images/13/1/seniors.html" alt="Seniors" title="Seniors">Seniors</a></li><li><a id="dropmenu_link" href="http://www.123rf.com/photos-images/17/1/sports_and_leisure.html" alt="Sports &amp; Leisure" title="Sports &amp; Leisure">Sports &amp; Leisure</a></li><li><a id="dropmenu_link" href="http://www.123rf.com/photos-images/22/1/teenagers.html" alt="Teenagers" title="Teenagers">Teenagers</a></li><li><a id="dropmenu_link" href="http://www.123rf.com/photos-images/18/1/transportation_and_industry.html" alt="Transportation &amp; Industry" title="Transportation &amp; Industry">Transportation &amp; Industry</a></li></ul>
 
 
-                <span class="boldtext2">Exclude</span><br>
-                <input class="textbox2" type="text" name="exclude" size="22" value="" style="width: 120px;">
+              </div>
+            </div>
+          </div>
 
-                &nbsp;<br><br><span class="boldtext2">Availability</span><br>
-                <select name="cka" class="maintab3">
-                <option value="">Credits and Subscription</option>
-                <option value="1">Via Credits</option>
-                 <option value="2">Via Subscription</option>
-                </select>
-                  
-                &nbsp;<br><br><span class="boldtext2">Orientation</span><br>
-                <select name="cko" class="maintab3">
+          <div class="collapsed separator">|</div>
 
-                <option value="">All</option>
-                <option value="1">Horizontal</option>
-                <option value="2">Vertical</option>
-                <option value="3">Square</option>
-                </select>
-                &nbsp;<br><br><span class="boldtext2">Sort by</span><br>
+          <div class="collapsed">
+            <div class="navItem" alt="Photographers Zone" title="Photographers Zone">PHOTOGRAPHERS ▼</div>
+            <div class="dropContainer">
+              <div class="dropMenu dropMenu_blue" id="dropMenu_photog">
+                <ul id="dropMenu_photog">
+                  <!-- <li><a id="dropmenu_link" href="/submit/" alt="Photographers Home" title="Photographers Home">Photographers Home</a></li> -->
+                  <li><a id="dropmenu_link_em" href="http://www.123rf.com/discover/" alt="Discover 123RF" title="Discover 123RF"><b>Discover 123RF</b></a></li>
+                  <li><a id="dropmenu_link" href="http://www.123rf.com/submit/myportfolio.php" alt="My Portfolio" title="My Portfolio">My Portfolio</a></li>
+                  <li><a id="dropmenu_link" href="http://www.123rf.com/submit/myprofile.php" alt="My Profile" title="My Profile">My Profile</a></li>
+                  <li><a id="dropmenu_link" href="http://www.123rf.com/myfavimages.php" alt="My Fave Images" title="My Fave Images">My Fave Images <span class="red"><i>New!</i></span></a></li>
+                  <li><a id="dropmenu_link" href="http://www.123rf.com/submit/upload_step1.php" alt="Upload Images" title="Upload Images">Upload Images</a> </li>
+                  <li><a id="dropmenu_link" href="http://www.123rf.com/submit/listmyuploaded.php" alt="Upload History" title="Upload History">Upload History</a></li>
+                  <li><a id="dropmenu_link" href="http://www.123rf.com/submit/donatephoto.php" alt="Donate Images" title="Donate Images">Donate Images</a></li>
+                  <li><a id="dropmenu_link" href="http://www.123rf.com/submit/myrelease.php" alt="Release Folder" title="Release Folder">Release Folder</a></li>
+                  <li><a id="dropmenu_link" href="http://www.123rf.com/submit/listmydownloaded.php" alt="Images Downloaded" title="Images Downloaded">Images Downloaded</a></li>
+                  <li><a id="dropmenu_link" href="http://www.123rf.com/submit/myearnings.php" alt="My Earnings" title="My Earnings">My Earnings</a></li>
+                  <li><a id="dropmenu_link" href="http://www.123rf.com/submit/referralprogram.php" alt="Referral Program #1" title="Referral Program #1">Referral Program #1</a></li>
+                  <li><a id="dropmenu_link" href="http://www.123rf.com/submit/integrationsearch.php" alt="Referral Program #2" title="Referral Program #2">Referral Program #2</a></li>
+                  <li><a id="dropmenu_link" href="http://www.123rf.com/submit/photographersfaq.php" alt="Photographer's FAQ" title="Photographer's FAQ">Photographer's FAQ</a></li>
+                  <li><a id="dropmenu_link" href="http://forum.123rf.com/redirect.php" alt="Forum" title="Forum">Forum</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
 
-                <select name="orderby" class="maintab3">
-                <option value="">Random</option>
-                <option value="2">Popularity</option>
-                <option value="1">Age(Newest First)</option>
-                </select>
-                
-              <br><br>
+          <div class="collapsed separator">|</div>
 
-              </span>
+          <div class="collapsed">
+            <div class="navItem hilite" onclick="goTo('http://www.123rf.com/rewards/')"><b>REWARDS</b></div>
+          </div>
 
-              </td></tr>
-              <tr><td style="padding-top: 5px;"><span id="searchOptionLink"><a href="javascript:showMoreSearch();" class="slinklight2">More Search Options »</a></span><input type="hidden" name="moreoptions" id="moreoptions" value="no"><input type="hidden" name="lang" value=""></td></tr>
-              
-              </tbody></table>
+          <div class="collapsed separator">|</div>
 
-            </td>
-          </tr>
-        </tbody></table>
+          <div class="collapsed">
+            <div class="navItem" alt="Make Money" title="Make Money" onclick="goTo('http://www.123rf.com/submit/makemoney.php')">MAKE MONEY</div>
+          </div>
+
+          <div class="collapsed separator">|</div>
+
+          <div class="collapsed">
+            <div class="navItem" alt="123RF In Your Language" title="123RF In Your Language">LANGUAGES ▼</div>
+            <div class="dropContainer">
+              <div class="dropMenu dropMenu_blue" id="dropMenu_langsite">
+                <ul id="dropMenu_langsite">
+                  <li><a id="dropmenu_link" href="http://www.123rf.com/en/" alt="123RF International" title="123RF International">English</a></li>
+                  <li><a id="dropmenu_link" href="http://www.123rf.com/fr/" alt="123RF France" title="123RF France">Français</a></li>
+                  <li><a id="dropmenu_link" href="http://www.123rf.com/gb/" alt="123RF China" title="123RF China">中文</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
 
       </td>
-      <td></td>
     </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td width="11" height="11" background="/images/tb_blue1_btmright.gif"></td>
-    </tr>
-
   </tbody></table>
-  
 
 
+</div>
+<!-- Search Bar -->
+
+<script type="text/javascript">setNav();</script>
 
 
-  <table border="0" cellpadding="0" cellspacing="0"><tbody><tr height="10"><td></td></tr></tbody></table>
+<!-- Advanced Search Options -->
+<div id="container_advanced_search" class="advanced_serach advsearch_blue" style="display: none">
 
-  <table class="loginbox" border="0" cellspacing="0" cellpadding="0" width="200" style="color: #777; background: #F1FBFC;">
+  <!-- Advanced Search Options Table -->
+  <table border="0" cellspacing="0" cellpadding="0" id="search_result_table" align="center">
     <tbody><tr>
-      <td width="11" height="11" background="/images/tb_blue1_topleft.gif"></td>
-      <td></td>
-      <td></td>
-    </tr>
+      <td valign="top" align="center">
 
-    <tr>
-      <td></td>
-      <td>
+        <div id="search_options">
 
-        <table class="loginbox" border="0" cellspacing="0" cellpadding="0" width="100%" style="color:#777">
-          <tbody><tr>
-            <td valign="middle" align="left">
-              <img src="/images/123rf_bullet_blue.gif">
-            </td>
+          <table border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr>
+              <td id="separator" class="nopadding"></td>
+              <td valign="top" style="padding-right: 3px;">
 
-            <td valign="top" align="left" width="188">
-              <div class="leftpanel_header"><b>Image Categories</b></div>
-            </td>
-          </tr>
+                <table border="0" cellspacing="5" cellpadding="0" width="200" id="searchtips">
+                  <tbody><tr>
+                    <td colspan="2">
+                      <div class="search_options_header" id="search_options_header">
+                        <b>Search Tips:</b>
+                      </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td valign="top">•</td>
+                    <td class="justify">
+                     Separate multiple keywords with a space or a comma (,).                     </td>
+                  </tr>
+                  <tr>
+                    <td valign="top">•</td>
+                    <td class="justify">
+                      If you have more than one keyword in your search, you can opt to match all your keywords (Match All), or match either one of them (Match Any).                    </td>
+                  </tr>
+                  <tr>
+                    <td valign="top">•</td>
+                    <td class="justify"><div id="searchtips">You may block out irrelevant results by entering keywords in 'Do not include these words'. </div></td>
+                  </tr>
+                </tbody></table>
 
-          <tr><td height="5"></td></tr>
+              </td>
+              <td id="separator" class="nopadding"></td>
+              <td valign="top">
 
-          <tr>
-            <td align="left" colspan="2" class="image_cat">
-• <a class="slinklight2" href="http://www.123rf.com/latestsearch.php">New Images</a><br>• <a class="slinklight2" href="http://www.123rf.com/photos-images/1/1/animals_and_pets.html">Animals &amp; Pets</a><br>• <a class="slinklight2" href="http://www.123rf.com/photos-images/2/1/arts_and_architecture.html">Arts &amp; Architecture</a><br>• <a class="slinklight2" href="http://www.123rf.com/photos-images/4/1/babies_and_kids.html">Babies &amp; Kids</a><br>• <a class="slinklight2" href="http://www.123rf.com/photos-images/5/1/background_and_graphics.html">Background &amp; Graphics</a><br>• <a class="slinklight2" href="http://www.123rf.com/photos-images/11/1/beauty.html">Beauty</a><br>• <a class="slinklight2" href="http://www.123rf.com/photos-images/6/1/business_man.html">Business - Man</a><br>• <a class="slinklight2" href="http://www.123rf.com/photos-images/7/1/business_woman.html">Business - Woman</a><br>• <a class="slinklight2" href="http://www.123rf.com/photos-images/3/1/celebrations_and_holidays.html">Celebrations &amp; Holidays</a><br>• <a class="slinklight2" href="http://www.123rf.com/photos-images/23/1/christmas.html">Christmas</a><br>• <a class="slinklight2" href="http://www.123rf.com/photos-images/8/1/concepts_and_stills.html">Concepts &amp; Stills</a><br>• <a class="slinklight2" href="http://www.123rf.com/photos-images/9/1/couples_and_families.html">Couples &amp; Families</a><br>• <a class="slinklight2" href="http://www.123rf.com/photos-images/21/1/education.html">Education</a><br>• <a class="slinklight2" href="http://www.123rf.com/photos-images/10/1/fruits_food_and_drinks.html">Fruits, Food &amp; Drinks</a><br>• <a class="slinklight2" href="http://www.123rf.com/photos-images/20/1/health_and_medical.html">Health &amp; Medical</a><br>• <a class="slinklight2" href="http://www.123rf.com/photos-images/12/1/illustrations.html">Illustrations</a><br>• <a class="slinklight2" href="http://www.123rf.com/photos-images/19/1/landscapes_and_travel.html">Landscapes &amp; Travel</a><br>• <a class="slinklight2" href="http://www.123rf.com/photos-images/14/1/nature.html">Nature</a><br>• <a class="slinklight2" href="http://www.123rf.com/photos-images/15/1/people_lifestyle.html">People - Lifestyle</a><br>• <a class="slinklight2" href="http://www.123rf.com/photos-images/16/1/science_and_technology.html">Science &amp; Technology</a><br>• <a class="slinklight2" href="http://www.123rf.com/photos-images/13/1/seniors.html">Seniors</a><br>• <a class="slinklight2" href="http://www.123rf.com/photos-images/17/1/sports_and_leisure.html">Sports &amp; Leisure</a><br>• <a class="slinklight2" href="http://www.123rf.com/photos-images/22/1/teenagers.html">Teenagers</a><br>• <a class="slinklight2" href="http://www.123rf.com/photos-images/18/1/transportation_and_industry.html">Transportation &amp; Industry</a><br>             
-              <!--- end categories-->
+                <table border="0" cellspacing="0" cellpadding="5">
+                  <tbody><tr>
+                    <td valign="top">
+                      • How keywords are matched:                      <table border="0" cellspacing="0" cellpadding="0" height="25">
+                        <tbody><tr>
+                          <td class="search_option_newline"><input type="radio" name="match" id="match_all" value="and" checked=""></td>
+                          <td><label for="match_all"> Match All &nbsp;</label></td>
+                          <td><input type="radio" name="match" id="match_any" value="or"></td>
+                          <td><label for="match_any"> Match Any</label></td>
+                          
+                        </tr>
+                      </tbody></table>
+                    </td>
+                  </tr>
+                  <tr><td id="separator_horizontal" class="nopadding"></td></tr>
+                  <tr>
+                    <td>
+                      • Items per page:
 
-            </td>
-          </tr>
-        </tbody></table>
+                      <table border="0" cellspacing="0" cellpadding="0" height="25">
+                        <tbody><tr>
+                          <td class="search_option_newline"><input type="radio" id="item_20" name="itemsperpage" value="20" onclick="remember_perpage('20');"></td>
+                          <td><label for="item_20">20 &nbsp;</label></td>
+                          <td><input type="radio" id="item_40" name="itemsperpage" value="40" onclick="remember_perpage('40');" checked=""></td>
+                          <td><label for="item_40">40 &nbsp;</label></td>
+                          <td><input type="radio" id="item_60" name="itemsperpage" value="60" onclick="remember_perpage('60');"></td>
+                          <td><label for="item_60">60 &nbsp;</label></td>
+                          <td><input type="radio" id="item_80" name="itemsperpage" value="80" onclick="remember_perpage('80');"></td>
+                          <td><label for="item_80">80 &nbsp;</label></td>
+                        </tr>
+                      </tbody></table>
+
+                    </td>
+                  </tr>
+                  <tr><td id="separator_horizontal" class="nopadding"></td></tr>
+                  <tr>
+                    <td>
+                      • Do not include these words:
+                      <br clear="all">
+                      <div class="search_option_newline"><input id="search_options_textbox" type="text" value="" name="exclude" size="22"></div>
+                    </td>
+                  </tr>
+                </tbody></table>
+
+              </td>
+              <td id="separator" class="nopadding"></td>
+              <td valign="top">
+
+                <table border="0" cellspacing="0" cellpadding="5">
+                  <tbody><tr>
+                    <td nowrap="" align="center" valign="top" height="55">
+
+                      <table border="0" cellspacing="0" cellpadding="0">
+                        <tbody><tr>
+                          <td colspan="3">• Availability:</td>
+                        </tr>
+                        <tr><td height="1"></td></tr>
+                        <tr>
+                          <td style="padding-bottom: 3px;"><div class="search_option_newline"><input type="checkbox" name="cka" id="avail_cred" value="1"></div></td><td valign="middle"><img alt="Must be available via credits" title="Must be available via credits" src="/images/v2/img_cred.gif" border="0" class="icon2"></td><td style="padding-left: 2px;"><label for="avail_cred">Must be available<br>via Credits</label></td>
+                        </tr>
+                      </tbody></table>
+
+                    </td>
+                  </tr>
+                  <tr><td id="separator_horizontal" class="nopadding"></td></tr>
+                  <tr>
+                    <td>
+                      <table border="0" cellspacing="0" cellpadding="0">
+                        <tbody><tr>
+                          <td colspan="2">• Media Type:</td>
+                        </tr>
+                        <tr>
+                          <td><div class="search_option_newline"><input type="radio" id="mediaall" name="imgtype" value="0" checked=""></div></td><td><label for="mediaall">All</label></td>
+                        </tr>
+                        <tr>
+                          <td><div class="search_option_newline"><input type="radio" id="mediaphoto" name="imgtype" value="1"></div></td><td><label for="mediaphoto">Photography</label></td>
+                        </tr>
+                        <tr>
+                          <td valign="middle"><div class="search_option_newline"><input type="radio" id="mediavector" name="imgtype" value="2"></div></td><td><label for="mediavector"><img alt="Vector Image (Scalable to any size)" title="Vector Image (Scalable to any size)" src="/images/v2/img_vector.gif" border="0" align="absmiddle"> Vector Illustration</label></td>
+                        </tr>
+                      </tbody></table>
+                    </td>
+                  </tr>
+                  <tr><td id="separator_horizontal" class="nopadding"></td></tr>
+                  <tr>
+                    <td>
+                      <table border="0" cellspacing="0" cellpadding="0">
+                        <tbody><tr>
+                          <td colspan="3">• Color Range:</td>
+                        </tr>
+                        <tr>
+                          <td><div class="search_option_newline"><input type="radio" name="colorrange" id="colorrange0" value="0" checked=""></div></td><td colspan="2"><label for="colorrange0">No color preference</label></td>
+                        </tr>
+                        <tr>
+                          <td><div class="search_option_newline"><input type="radio" name="colorrange" id="colorrange1" value="1"></div></td><td colspan="2"><label for="colorrange1">Black and White</label></td>
+                        </tr>
+                        <tr>
+                          <td><div class="search_option_newline"><input type="radio" name="colorrange" id="colorrange2" value="2"></div></td><td><div id="colorpicker" style="background-color: #F60;" onclick="toggle_colorpicker(document.getElementById('colorhex').value); return false;" alt="Click to choose a color" title="Click to choose a color"></div></td><td style="width: 100px;"><span id="colorpicker_text" alt="Click to choose a color" title="Click to choose a color"><a href="javascript: void(0);" onclick="toggle_colorpicker(document.getElementById('colorhex').value); return false;"><b>#FF6600</b></a></span><input type="hidden" value="FF6600" name="colorhex" id="colorhex"></td>
+                        </tr>
+                       
+                      </tbody></table>
+                    </td>
+                  </tr>
+                </tbody></table>
+
+              </td>
+              <td id="separator" class="nopadding"></td>
+              <td valign="top" class="nopadding">
+
+                <table border="0" cellspacing="0" cellpadding="0">
+                  <tbody><tr>
+                    <td valign="top" class="nopadding">
+
+                      <table border="0" cellspacing="0" cellpadding="0">
+                        <tbody><tr>
+                          <td valign="top" class="pad5px">
+
+                            <table border="0" cellspacing="0" cellpadding="0">
+                              <tbody><tr>
+                                <td colspan="4">• Orientation:</td>
+                              </tr>
+                              <tr>
+                                <td><div class="search_option_newline"><input type="radio" id="allorient" name="cko" value="" checked=""></div></td><td><label for="allorient">All</label></td>
+                                <td><div class="search_option_newline"><input type="radio" id="land" name="cko" value="1"></div></td><td><label for="land">Landscape</label></td>
+                              </tr>
+                              <tr>
+                                <td><div class="search_option_newline"><input type="radio" id="port" name="cko" value="2"></div></td><td><label for="port">Portrait</label></td>
+                                <td><div class="search_option_newline"><input type="radio" id="square" name="cko" value="3"></div></td><td><label for="square">Square</label></td>
+                              </tr>
+                            </tbody></table>
+
+                          </td>
+                          <td id="separator"></td>
+                          <td valign="top" class="pad5px">
+                            <table border="0" cellspacing="0" cellpadding="0">
+                              <tbody><tr>
+                                <td colspan="2">• Sort results by:</td>
+                              </tr>
+                              <tr>
+                                <td><div class="search_option_newline"><input type="radio" id="popular" name="orderby" value="2"></div></td><td><label for="popular">Most downloaded</label></td>
+                              </tr>
+                              <tr>
+                                <td><div class="search_option_newline"><input type="radio" id="newest" name="orderby" value="1"></div></td><td><label for="newest">Latest</label></td>
+                              </tr>
+                              <tr>
+                                <td><div class="search_option_newline"><input type="radio" id="random" name="orderby" value="" checked=""></div></td><td><label for="random">Random</label></td>
+                              </tr>
+                            </tbody></table>
+
+                          </td>
+                        </tr>
+                      </tbody></table>
+                    </td>
+                  </tr>
+                  <tr><td id="separator_horizontal" class="nopadding"></td></tr>
+                  <tr>
+                    <td valign="top">
+                      <table border="0" cellspacing="0" cellpadding="0" width="100%">
+                        <tbody><tr>
+                          <td valign="top" class="pad5px">
+
+                            <table border="0" cellspacing="0" cellpadding="0" width="100%">
+                              <tbody><tr>
+                                <td>• Model Preference:</td>
+                                <td align="right">
+                                  <table border="0" cellspacing="0" cellpadding="0">
+                                    <tbody><tr>
+                                      <td>
+                                        <input type="checkbox" id="nonudity" name="nonudity" value="1"></td><td><label for="nonudity">Without Nudity</label>
+                                      </td>
+                                    </tr>
+                                  </tbody></table>
+                                </td>
+                              </tr>
+                            </tbody></table>
+
+                            <table border="0" cellspacing="0" cellpadding="0" class="clear">
+                              <tbody><tr>
+                                <td><div class="search_option_newline"><input type="radio" id="alletnic" name="exppl" value="0" checked=""></div></td><td><label for="alletnic">No preference</label></td>
+                                <td><div class="search_option_newline"><input type="radio" id="caucasian" name="exppl" value="2"></div></td><td><label for="caucasian">Caucasian</label></td>
+                              </tr>
+                              <tr>
+                                <td><div class="search_option_newline"><input type="radio" id="afriamer" name="exppl" value="3"></div></td><td><label for="afriamer">African American</label></td>
+                                <td><div class="search_option_newline"><input type="radio" id="latino" name="exppl" value="5"></div></td><td><label for="latino">Hispanic</label></td>
+                              </tr>
+                              <tr>
+                                <td><div class="search_option_newline"><input type="radio" id="asian" name="exppl" value="4"></div></td><td><label for="asian">Asian</label></td>
+                                <td><div class="search_option_newline"><input type="radio" id="noppl" name="exppl" value="1"></div></td><td><label for="noppl">Without People</label></td>
+                              </tr>
+                            </tbody></table>
+
+                            <!--
+                            <table border="0" cellspacing="0" cellpadding="0" class="clear">
+                              <tr><td height="3"></td></tr>
+                              <tr>
+                                <td><div style="display: inline; padding-bottom: 10px;">&bull;</div>&nbsp;</td><td><input type="checkbox" id="nonudity" name="nonudity" value="1" ></td><td><label for="nonudity">Without Nudity</label></td>
+                              </td>
+                            </table>
+                            -->
+
+                          </td>
+                        </tr>
+                      </tbody></table>
+                    </td>
+                  </tr>
+                </tbody></table>
+
+              </td>
+              <td id="separator" class="nopadding"></td>
+            </tr>
+          </tbody></table>
+
+        </div>
+
       </td>
-            
-      <td></td>
-
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td width="11" height="11" background="/images/tb_blue1_btmright.gif"></td>
+      <td id="separator_horizontal"></td>
     </tr>
-  </tbody></table><br>
+    <tr>
+      <td id="general_search_options">
+        <a id="hide_search_options" href="javascript: void(0);" onclick="searchagain_submit();return false;" alt="Search" title="Search"><b>Search »</b></a> | <a href="javascript: void(0);" id="hide_search_options" alt="Reset search options" title="Reset search options" onclick="resetsearch();"><b>Reset Search</b></a> | <a href="javascript: void(0)" id="hide_search_options" alt="Close search options" title="Close search options" onclick="toggle_search_options('container_advanced_search', 'toggle_arrow');return false;"><b>Close</b></a>
+      </td>
+    </tr>
+    <tr>
+      <td id="border_bottom_grey"></td>
+    </tr>
+  </tbody></table>
+  <!-- Advanced Search Options Table -->
+
+</div>
+<!-- Advanced Search Options -->
+
+</form>
 
 
+  <!-- Current Theme -->
+  <input type="hidden" name="curtheme" id="curtheme" value=""><div id="container_content_bg">
+  <div id="content_center">
+    <div class="content_title_special yellow">Privacy Policy</div>
 
-
-
-
-
-
-  </td>
-  <td class="text" valign="top" style="padding-top:5px;padding-left:5px" width="100%">&nbsp;<br>
-<div class="titlebig">Privacy Policy</div>
-<table width="90%" class="text"><tbody><tr><td>
+<table width="98%" class="text" align="center"><tbody><tr><td>
+123RF Limited respects every user's privacy. When you register with 123RF.com, we ask for your personal or company's details. Once you register and sign in to our services, you are not anonymous to us. 123RF.com uses the information provided to enhance your surfing experience such as the lightbox and to contact you about our specials and new products. The information we collect may be shared (with your consent upon registration) with our subsidiaries for similar purposes.
 <br><br>
-<p>123rf.com respects every user's privacy. When you register with 123rf, we ask for your personal or company's details. Once you register with 123rf.com and sign in to our services, you are not anonymous to us. 123rf.com uses the information provided to enhance your surfing experience such as lightbox and to contact you about our specials and new products. The information we collect may be shared (with your consent upon registration) with our subsidiaries for similar purposes. 
-</p><p>
-By using this website, you understand that all information collected from your registration will be collected indefinitely; and may be stored and used in jurisdiction whose privacy laws may be different and less protective than those of your home jurisdiction. 123rf.com may use the information collected for a variety of purposes including direct marketing via email and snail mail (unless you select not to receive such information when registering). 
-</p><p>
-When you visit 123rf's website, we place a text file call cookie in your computer hard disk. This file allows us to provide you with more convenience such as the lightbox and enhance your surfing experience. Most browsers allow you to reject cookies, but if you were to do so, these pages may not display properly. 
-</p><p>
-123rf.com reserves the right to disclose your personal information if required to do so by law, or in the good faith belief that such action is reasonably necessary to comply with legal process, respond to claims, or protect the rights, property or safety of our company, employees, customers, or the public.
+By using this website, you understand that all information collected from your registration will be collected indefinitely; and may be stored and used in jurisdiction whose privacy laws may be different and less protective than those of your home jurisdiction. 123RF.com may use the information collected for a variety of purposes including direct marketing via email and snail mail (unless you select not to receive such information when registering).
+<br><br>
+When you visit the 123RF.com website, we place a small text file called a cookie in your computer hard disk. This file allows us to provide you with more conveniences such as the lightbox and enhance your surfing experience. Most browsers allow you to reject cookies, but if you were to do so, these pages may not display properly.
+<br><br>
+123RF LIMITED will never share your personal information with any third party. 123RF LIMITED  reserves the right to disclose your personal information if required to do so by law, or in the good faith belief that such action is reasonably necessary to comply with legal process, respond to claims, or protect the rights, property or safety of our company, employees, customers, or the public.
+<br><br>
+THIS DOCUMENT WAS ORIGINALLY COMPOSED IN ENGLISH AND WAS SUBSEQUENTLY TRANSLATED INTO OTHER LANGUAGES. THE FIDELITY OF SUBSEQUENT TRANSLATIONS CANNOT BE GUARANTEED. IN CASE OF CONFLICT BETWEEN THE ENGLISH VERSION AND ANOTHER LANGUAGE VERSION, THE ENGLISH VERSION TAKES PRECEDENCE.
 
-
-</p><p>
-
-</p></td></tr></tbody></table>
+<br><br>
 
 </td></tr></tbody></table>
-<br>
-<table width="95%" align="center" cellspacing="0" cellpadding="0"><tbody><tr><td height="1" bgcolor="#E7F3F7"></td></tr>
-<tr>
-<td align="center">
-<table align="center" class="text" width="800" cellspacing="10"> 
-<tbody><tr><td align="center" nowrap=""><a style="font-size:11px" href="http://www.123rf.com">Home</a>
-&nbsp;&nbsp;|&nbsp;&nbsp; <a style="font-size:11px" href="http://www.123rf.com/aboutus.php">About Us</a>
- &nbsp;&nbsp;|&nbsp;&nbsp; <a style="font-size:11px" href="http://www.123rf.com/contact.php">Contact</a>
-&nbsp;&nbsp;|&nbsp;&nbsp; <a style="font-size:11px" href="http://www.123rf.com/faq.php">FAQ</a>
-&nbsp;&nbsp;|&nbsp;&nbsp; <a style="font-size:11px" href="http://www.123rf.com/privacy.php">Privacy Policy</a>
- &nbsp;&nbsp;|&nbsp;&nbsp; <a style="font-size:11px" href="http://www.123rf.com/terms.php">Terms of Use</a>
- &nbsp;&nbsp;|&nbsp;&nbsp; <a style="font-size:11px" href="http://www.123rf.com/license.php">Licensing</a>
- &nbsp;&nbsp;|&nbsp;&nbsp; <a style="font-size:11px" href="http://submit.123rf.com">Photographer Submissions</a></td>
- </tr>
- <tr><td align="center">
-©2006 123rf, a wholly-owned subsidiary of <a style="font-size:11px" href="http://www.inmagine.com">Inmagine Corp LLC - Royalty Free Stock Photos</a>
-</td></tr>
-</tbody></table>
-<div class="text"><a href="http://www.123rf.com/en/"><img src="/images/us.gif" border="0" style="vertical-align:middle"> <img src="/images/uk.gif" border="0" style="vertical-align:middle"></a><img src="/1clearpx.gif" border="0" width="3" style="vertical-align:middle"><a href="http://www.123rf.com/en/">123RF International</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://fr.123rf.com"><img src="/images/fr.gif" border="0" style="vertical-align:middle"></a> <a href="http://fr.123rf.com">123RF France</a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.123rf.com/gb/"><img src="/images/cn.gif" border="0" style="vertical-align:middle"></a> <a href="http://www.123rf.com/gb/">123RF China</a>
-</div></td>
-</tr>
 
-</tbody></table>
-<font size="1">0.003</font>
-</td></tr></tbody></table></body></html>
+    </div>
+  </div>
+</div>
+  
+  <!-- Main Content Container -->
+
+  <!-- Footer Container -->
+  <div id="container_footer">
+    <div id="footer_content_stretched">
+      © 2006-2007 123RF Limited. All rights reserved.<br>
+      / <a id="footer_nav" href="http://www.123rf.com/aboutus.php" alt="About 123RF" title="About 123RF">ABOUT</a> / <a id="footer_nav" href="http://www.123rf.com/contact.php" alt="Contact 123RF" title="Contact 123RF.com">CONTACT</a> / <a id="footer_nav" href="http://www.123rf.com/faq.php" alt="Frequently Asked Questions" title="Frequently Asked Questions">FAQ</a> / <a id="footer_nav" href="http://www.123rf.com/privacy.php" alt="Privacy Policy" title="Privacy Policy">PRIVACY POLICY</a> / <a id="footer_nav" href="http://www.123rf.com/terms.php" alt="Terms of Use" title="Terms of Use">TERMS</a> / <a id="footer_nav" href="http://www.123rf.com/license.php" alt="Licensing" title="Licensing">LICENSING</a> / <a id="footer_nav" href="http://www.123rf.com/submit/makemoney.php" alt="Make Money" title="Make Money">MAKE MONEY</a> / <a id="footer_nav" href="http://www.inmagine.com" alt="More stock photos" title="More stock photos">MORE STOCK PHOTOS</a> /
+      </div>
+    </div>
+  
+  <!-- Footer Container -->
+
+
+<!-- Main Container -->
+
+
+</body></html>
