@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topcashback.co.uk privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231155709id_/http%3A//www.topcashback.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topcashback.co.uk privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616093314id_/http%3A//www.topcashback.co.uk/privacy.aspx) for the most accurate reproduction.*
 
 # TopCashBack Privacy Policy
 
@@ -28,4 +28,6 @@ We recommend that all users enable cookies in their browsers in order to make fu
 
 If a user can sign-in to our site, then they most likely have cookies enabled. Users may also check if they have cookies enabled using our ‘Tracking Test’ page. 
 
-|  
+|    
+  
+Can you send us traffic from your website? Join our [Affiliate Scheme](http://www.affiliatefuture.co.uk/registration/affiliates.asp?AffiliateID=29123) on Affiliate Future. 
