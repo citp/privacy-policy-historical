@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the snapstream.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205213749id_/http%3A//www.snapstream.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapstream.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616055446id_/http%3A//www.snapstream.com/privacy.asp) for the most accurate reproduction.*
 
 # SnapStream: Privacy Policy
 
-Updated March 23, 2006
+Updated February 28, 2007
 
 Thank you for visiting the home of SnapStream Media, Inc. (“SnapStream”).
 
@@ -10,7 +10,7 @@ Thank you for visiting the home of SnapStream Media, Inc. (“SnapStream”).
 
 SnapStream is committed to protecting the privacy of our users’ personal information. The SnapStream Privacy Policy (“Privacy Policy”), set forth below, provides a detailed description of what information SnapStream currently collects, how SnapStream protects said information, and means for SnapStream users to contact SnapStream concerning collection of their personal information and the Privacy Policy. 
 
-The Privacy Policy covers information collected when using any SnapStream website (“Site”), including but not limited to the SnapStream store (“Store”), SnapStream.Net (“.Net”), the SnapStream Forums (“Forums”); SnapStream Beyond TV (“Beyond TV”); SnapStream Beyond Media (“Beyond Media”); and SnapStream Firefly PC Remote (“Firefly”). The Privacy Policy will be updated when necessary; so, please check here (http://www.snapstream.com/privacy.asp) for future updates or contact SnapStream directly for a copy through the means set forth below in Section 7.0.   
+The Privacy Policy covers information collected when using any SnapStream website (“Site”), including but not limited to the SnapStream store (“Store”), Couchville.com ("Couchville"), SnapStream.Net (“.Net”), the SnapStream Forums (“Forums”); SnapStream Beyond TV (“Beyond TV”); SnapStream Beyond Media (“Beyond Media”); SnapStream Firefly PC Remote (“Firefly”); and SnapStream Firefly Mini PC Remote (“Firefly Mini”). The Privacy Policy will be updated when necessary; so, please check here (http://www.snapstream.com/privacy.asp) for future updates or contact SnapStream directly for a copy through the means set forth below in Section 7.0.   
 
 
 **2.0 Categories of Information**
@@ -25,9 +25,13 @@ The Privacy Policy covers information collected when using any SnapStream websit
 
 3.2 SnapStream Store: When a user orders products from the Store, certain Personally Identifiable Information is recorded, including, but not limited to, name, address, phone number, email address, and credit card information. Certain Non-Personally Identifiable Information is also recorded, including, but not limited to IP address, items ordered, and the referring URL. The Store is currently powered by Yahoo!. SnapStream urges the user to read the Yahoo! Privacy Policy as well, located at http://privacy.yahoo.com/privacy/us/.
 
-3.3 SnapStream Beyond TV: When a user uses Beyond TV, certain Non-Personally Identifiable Information is recorded, including but not limited to, whether the user is upgrading from a previous version. Additionally, users are given the option to enable certain advanced features. Should the user choose to enable the advanced features, certain Personally Identifiable Information may be gathered by SnapStream, including, but not limited to user viewing preferences and recording choices and preferences.
+3.3 Couchville: When a user visits Couchville, certain Non-Personally Identifiable Information is recorded. SnapStream automatically documents what pages the user visits and for how long, from where the user linked, the user’s IP address, and other technical statistics, none of which is used to personally identify the user. SnapStream collects the data to learn from where Couchville visitors come, what Couchville features users use most, and other similar development- and maintenance-related information so that SnapStream can improve service for our users. 
 
-3.4 SnapStream Beyond Media: When a user uses Beyond Media, certain non-personally identifiable information is recorded, including but not limited to, what version the user is employing. 
+Additionally, when a user creates a personalized line-up in Couchville, Couchville will place a cookie file on the user’s hard drive. Said cookie does not contain any personally identifiable information but does record the zip code and tv service provider provided by the user. Upon the user’s next visit to Couchville, the cookie will be called up, providing a faster, user-specific interface. Cookies can be blocked or removed through your browser features; however, blocking or removing cookies will deny the user customized content delivery.
+
+3.4 SnapStream Beyond TV: When a user uses Beyond TV, certain Non-Personally Identifiable Information is recorded, including but not limited to, whether the user is upgrading from a previous version. Additionally, users are given the option to enable certain advanced features. Should the user choose to enable the advanced features, certain Personally Identifiable Information may be gathered by SnapStream, including, but not limited to user viewing preferences and recording choices and preferences.
+
+3.5 SnapStream Beyond Media: When a user uses Beyond Media, certain non-personally identifiable information is recorded, including but not limited to, what version the user is employing. 
 
 **4.0 Information Disclosure**
 
@@ -69,13 +73,14 @@ Via e-mail: [privacy@snapstream.com](mailto:privacy@snapstream.com)
 
 8.2 Entire Agreement: This Privacy Policy supplements and is incorporated into all SnapStream End-User Agreements. This Privacy Policy constitutes the entire agreement, and replaces and supersedes all prior agreements, between the user and SnapStream concerning the subject matter discussed in this Privacy Policy.
 
-**BY USING THE SITE, THE STORE, BEYOND TV, .NET, FORUMS, BEYOND MEDIA, OR FIREFLY, YOU REPRESENT THAT YOU HAVE READ AND UNDERSTOOD THIS ENTIRE PRIVACY POLICY AND YOU AGREE TO ALL THE TERMS OF THIS PRIVACY POLICY AS STATED ABOVE.**
+**BY USING THE SITE, THE STORE, COUCHVILLE, BEYOND TV, .NET, FORUMS, BEYOND MEDIA, FIREFLY, OR FIREFLY MINI YOU REPRESENT THAT YOU HAVE READ AND UNDERSTOOD THIS ENTIRE PRIVACY POLICY AND YOU AGREE TO ALL THE TERMS OF THIS PRIVACY POLICY AS STATED ABOVE.**
 
 * * *
 
 **To view a past version of the Privacy Policy, select a link below:**
 
-  * **[Privacy Policy (10/18/2000 \- 3/23/2006)](https://web.archive.org/web/20061205213749id_/http%3A//www.snapstream.com/privacy-2000-10.asp)  
+  * **[Privacy Policy (10/18/2000 \- 3/23/2006)](https://web.archive.org/web/20070616055446id_/http%3A//www.snapstream.com/privacy-2000-10.asp)**
+  * **[Privacy Policy (3/24/2006 \- 2/27/2007)](https://web.archive.org/web/20070616055446id_/http%3A//www.snapstream.com/privacy-2006-03.asp)  
 **
 
 |  
