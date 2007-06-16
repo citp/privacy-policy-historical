@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the headphone.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216185104id_/http%3A//www.headphone.com/headroom/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the headphone.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617012053id_/http%3A//www.headphone.com/headroom/policies/privacy) for the most accurate reproduction.*
 
 # Privacy - HeadRoom - Right Between Your Ears
 
