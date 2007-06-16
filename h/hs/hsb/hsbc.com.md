@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the hsbc.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206014631id_/http%3A//www.hsbc.com/hsbc/legal/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsbc.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616090154id_/http%3A//www.hsbc.com/hsbc/legal/privacy-statement) for the most accurate reproduction.*
 
-# Privacy statement
+# Data Protection and Privacy statement
 
 ### 15  August  2005
 
 This privacy statement sets out the privacy policy of hsbc.com, inc., a wholly-owned subsidiary of the financial holding company, HSBC North America, Inc. hsbc.com, inc. provides a portal, or gateway, to the financial services offered by members of the HSBC Group.
+
+hsbc.com,inc. is incorporated in New Jersey, U.S.A. under registered number 22-3186825.Its principal place office is 545 Washington Boulevard, Jersey City , New Jersey, U.S.A. 07310 and the address of its registered agent in New Jersey is 820, Bear Tavern Road, West Trenton, New Jersey, U.S.A. 08628.
 
 hsbc.com, inc., hosts the HSBC Group website and provides technical support, access and links to the Local Sites of HSBC Group members. hsbc.com, inc., does not offer financial services or products. Financial services and products may only be obtained by registering with a Local Site. For more information on how to use this website, please see the Terms and Conditions of Use.
 
