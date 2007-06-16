@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the charitynavigator.org privacy policy that was archived on 2006-09-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060926202322id_/http%3A//www.charitynavigator.org/index.cfm/bay/content.view/cpid/38.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the charitynavigator.org privacy policy that was archived on 2007-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070616180323id_/http%3A//charitynavigator.org/index.cfm/bay/content.view/cpid/38.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <base href="http://www.charitynavigator.org/">
@@ -19,6 +19,25 @@
 <script src="http://www.charitynavigator.org/_js_/visibility.js" type="text/javascript"></script>
 <script src="http://www.charitynavigator.org/_js_/formscripts.js" type="text/javascript"></script>
 
+<script type="text/javascript">
+<!--
+var form_submitted = false;
+
+function submit_form ( )
+{
+  if ( form_submitted )
+  {
+    alert ( "Your form has already been submitted. Please wait..." );
+    return false;
+  }
+  else
+  {
+    form_submitted = true;
+    return true;
+  }
+}
+// -->
+</script>
 </head>
 
 <body onload="visibilitytoggle();">
@@ -27,21 +46,11 @@
 <div id="top"><a href="index.cfm"><img src="http://www.charitynavigator.org/_gfx_/main/logo.gif" alt="Charity Navigator" width="285" height="101" border="0"></a>
 <div id="topuser">
  
-  <form id="login" name="login" method="post" action="index.cfm">
-    Log in or <a href="index.cfm/bay/my.login">register</a> 
-    &nbsp;&nbsp;&nbsp;&nbsp;email 
-    <input name="email" type="text" id="email" size="20" maxlength="40"> 
-    password 
-    <input name="password" type="password" id="password" size="12">
-    <input class="btnSrchSubmit" type="submit" name="Submit" value="GO">
-    <input name="bay" type="hidden" id="bay" value="my.login"> <br>
-  Become a registered user to access expanded features.
-  <a href="index.cfm/bay/my.login">Learn more. 
-  </a>
-  </form>
- 
-
- 
+    <a href="index.cfm?bay=my.login"><strong>Log
+    in</strong></a>  | New
+    User? <a href="index.cfm?bay=my.login"><strong>Register
+    now to access expanded features.</strong></a>  <a href="index.cfm/bay/my.login"></a>
+  
   </div>
 <div id="topnav">
   <ul>
@@ -59,7 +68,7 @@
     <li style="width: 8%"><a href="index.cfm">HOME</a></li>
     <li style="width: 14%"><a href="index.cfm/bay/content.view/cpid/33.htm">METHODOLOGY</a></li>
     <li style="width: 8%"><a href="index.cfm/bay/content.view/cpid/39.htm">TIPS</a></li>
-    <li><a href="index.cfm/bay/studies.htm">STUDIES</a></li>
+    <li><a href="index.cfm/bay/studies.metro.main.htm">STUDIES</a></li>
     <li><a href="index.cfm/bay/content.articles.htm">ARTICLES</a></li>
     <li><a href="index.cfm/bay/content.view/cpid/336.htm">PRODUCTS</a></li>
     <li><a href="index.cfm/bay/content.view/cpid/17.htm">ABOUT US</a></li>
@@ -74,13 +83,13 @@
 
 <div id="search">
 
-<form id="simplesearch" name="simplesearch" method="get" action="index.cfm">
+<form id="simplesearch" name="simplesearch" method="get" action="index.cfm" onsubmit="return submit_form()">
   <img src="_gfx_/main/charity_search.gif" alt="Charity Search" width="85" height="11">&nbsp;
-  <input class="searchbox" name="keyword_list" type="text" id="keyword_list" maxlength="60">
+  <input name="keyword_list" type="text" class="searchbox" id="keyword_list" maxlength="100">
   <input name="Submit2" type="submit" class="btnSrchSubmit" id="btnSrchSubmit" value="GO">
   <input name="bay" type="hidden" id="bay" value="search.results">
   &nbsp; <a href="index.cfm/bay/search.advanced.htm">Advanced</a>&nbsp;  |&nbsp; <a href="index.cfm/bay/search.alpha.htm">A-Z
-  Directory&nbsp;</a> |&nbsp; <a href="index.cfm/bay/search.fourstar.htm">4-Star
+  Directory&nbsp;</a> |&nbsp; <a href="index.cfm?bay=search.results&amp;overallrtg=4">4-Star
   Charities</a>
 </form> 
 
@@ -107,33 +116,35 @@
 </div> 
   <div id="sideads">
     <div class="sidebar">
-      <h1>F.A.Q.'s</h1>
-      <ul>
-        <li><a href="index.cfm/bay/content.view/cpid/484.htm#1">Why don't you list the Salvation
-            Army?</a></li>
-        <li><a href="index.cfm/bay/content.view/cpid/484.htm#compare">How
-          can I compare charities?</a><a href="index.cfm/bay/content.view/catid/61/cpid/399.htm#3"></a></li>
-        <li><a href="index.cfm/bay/content.view/cpid/484.htm#11">Does Charity Navigator charge
-            for its evaluations?</a></li>
-        <li class="more"><a href="index.cfm/bay/content.view/cpid/485.htm">more faq's </a></li>
-      </ul>
+		
+<h1>FAQ's</h1>
+<ul>
+	<li><a href="index.cfm/bay/content.view/cpid/484.htm#26">How can I donate goods, such as books, cars and food, instead of cash?</a></li>
+	<li><a href="index.cfm/bay/content.view/cpid/484.htm#23">Should I use your ratings exclusively to determine if I should support a charity?</a></li>
+	<li><a href="index.cfm/bay/content.view/cpid/484.htm#27">Is it better to give to many charities or just a few?</a></li>
+	<li><a href="index.cfm/bay/content.view/cpid/484.htm#25">The CEO's salary of my favorite charity seems high, should I make a contribution?</a></li>
+	<li><a href="index.cfm/bay/content.view/cpid/484.htm#24">What else should I know before I give?</a></li>
+	<li class="more"><a href="index.cfm/bay/content.view/cpid/485.htm">more faq's</a></li>
+</ul>
+
     </div>
     
     <div class="sidebar">
       <h1>Trent Stamp's Blog </h1>	  
-      <p>Charity Navigator's executive director sounds off, like only he
+      <p>Charity Navigator's president sounds off, like only he
         can, on the not-for-profit sector.</p>
 		<ul>
-<li><!--StartFragment --><a class="" href="http://trentstamp.blogspot.com/2006/09/no-holier-than-anyone-else.html" target="_blank">No Holier Than Anyone Else</a><!--StartFragment --><!--StartFragment --><!--StartFragment -->
-</li><li><a class="" href="http://trentstamp.blogspot.com/2006/09/road-rules.html" target="_blank">Road Rules</a> 
-</li><li><a class="" href="http://trentstamp.blogspot.com/2006/09/fear-hospitals.html" target="_blank">Fear The Hospitals</a><!--StartFragment --> 
-</li><li><a class="" href="http://trentstamp.blogspot.com/2006/09/google-it.html" target="_blank">Google It</a> 
-</li><li><a href="http://trentstamp.blogspot.com/2006/09/close-down-all-hospitals.html" target="_blank">Close Down All The Hospitals!</a> 
-</li><li class="more"><a href="http://trentstamp.blogspot.com/" target="_blank">visit blog site </a></li></ul>
+<li><a class="" href="http://www.trentstampstake.org/2007/06/new-990-longer-than-old-990.html" target="_blank">New 990 Longer Than Old 990</a>
+</li><li><a class="" href="http://trentstamp.blogspot.com/2007/06/new-jerseys-real-mobsters.html" target="_blank">New Jersey's Real Mobsters</a> 
+</li><li><a class="" href="http://trentstamp.blogspot.com/2007/06/paris-hilton-should-have-robbed-charity.html" target="_blank">Paris Hilton Should Have Robbed a Charity</a> 
+</li><li><a class="" href="http://trentstamp.blogspot.com/2007/06/looking-for-mr-goodbar.html" target="_blank">Looking for Mr. Goodbar</a> 
+</li><li><a class="" href="http://trentstamp.blogspot.com/2007/06/were-beholden-to-logic-only.html" target="_blank">We're Beholden to Logic Only</a> 
+</li><li><a href="http://trentstamp.blogspot.com/" target="_blank">visit blog site </a></li></ul>
     </div>
 
   </div>
   
+
 </div>
 
 <div id="maincontent">
@@ -159,47 +170,8 @@
 </div>
 </div>
 <div>
-<!--ONESTAT SCRIPTCODE START-->
-<script language="JavaScript" type="text/javascript">
-<!--
-// Modification of this code is not allowed and will permanently disable your account!
-// Account ID : 193755
-// Website URL: http://www.charitynavigator.org
-// Copyright (C) 2002-2004 OneStat.com All Rights Reserved
-function OneStat_Pageview()
-{
-    var d=document;
-    var sid="193755";
-    var CONTENTSECTION="";
-    var CUSTOMDATA="";
-    var osp_URL=d.URL;
-    var osp_Title=d.title;
-    var t=new Date();
-    var p="http"+(document.URL.indexOf('https:')==0?'s':'')+"://stat.onestat.com/stat.aspx?tagver=2&sid="+sid;
-    p+="&url="+escape(osp_URL);
-    p+="&ti="+escape(osp_Title);
-    p+="&section="+escape(CONTENTSECTION);
-    p+="&custom="+escape(CUSTOMDATA);
-    p+="&rf="+escape(parent==self?window.document.referrer:top.document.referrer);
-    p+="&tz="+escape(t.getTimezoneOffset());
-    p+="&ch="+escape(t.getHours());
-    p+="&js=1";
-    p+="&ul="+escape(navigator.appName=="Netscape"?navigator.language:navigator.userLanguage);
-    if(typeof(screen)=="object"){
-       p+="&sr="+screen.width+"x"+screen.height;p+="&cd="+screen.colorDepth;
-       p+="&jo="+(navigator.javaEnabled()?"Yes":"No");
-    }
-    d.write('<A HREF="http://www.onestat.com/aspx/login.aspx?sid='+sid+'" target=_blank><IMG ID="ONESTAT_TAG" BORDER="0" WIDTH="1" HEIGHT="1" SRC="'+p+'" ></A>');
-}
 
-OneStat_Pageview();
-//-->
-</script><a href="http://www.onestat.com/aspx/login.aspx?sid=193755" target="_blank"><img id="ONESTAT_TAG" border="0" width="1" height="1" src="https://stat.onestat.com/stat.aspx?tagver=2&amp;sid=193755&amp;url=https%3A//web.archive.org/web/20060926202322id_/http%253A//www.charitynavigator.org/index.cfm/bay/content.view/cpid/38.htm&amp;ti=Charity%20Navigator%20-%20Privacy&amp;section=&amp;custom=&amp;rf=&amp;tz=0&amp;ch=19&amp;js=1&amp;ul=en-US&amp;sr=800x600&amp;cd=24&amp;jo=No"></a>
-<noscript>
-<A HREF="http://www.onestat.com/aspx/login.aspx?sid=193755" target=_blank><IMG BORDER="0" WIDTH="1" HEIGHT="1" SRC="http://stat.onestat.com/stat.aspx?tagver=2&sid=193755&js=No&"  ></A>
-</noscript>
-<!--ONESTAT SCRIPTCODE END-->
- 
+	
 	
 	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 	</script>
