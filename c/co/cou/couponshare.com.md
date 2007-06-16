@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the couponshare.com privacy policy that was archived on 2006-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061104152127id_/http%3A//www.couponshare.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponshare.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616075739id_/http%3A//www.couponshare.com/privacy.asp) for the most accurate reproduction.*
 
 # CouponShare.com Privacy Policy - coupons, coupon codes, bargains, deals, free shipping, online shopping, discounts, online coupons, online discounts.
 
 **PRIVACY POLICY**
 
-We can be reached via e-mail at [privacy@couponshare.com](mailto:privacy@couponshare.com?subject=privacy). If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the previously named address.
+We can be reached via e-mail by using our [feedback form](http://www.couponshare.com/feedback.asp). If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the previously named address.
 
 For each visitor to our Web page, our Web server collects only the domain name, the e-mail addresses of those who communicate with us via e-mail, information volunteered by the consumer, such as survey information and/or site registrations.
 
@@ -23,4 +23,6 @@ Thank you,
 Jason Husman  
 CouponShare.com
 
-[Click Here to return to CouponShare!](https://web.archive.org/web/20061104152127id_/http%3A//www.couponshare.com/)
+[Click Here to return to CouponShare!](http://www.couponshare.com/)
+
+CouponShare.com logo design by Biz-Logo.com.
