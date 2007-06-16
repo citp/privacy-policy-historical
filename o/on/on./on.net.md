@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the on.net privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205220312id_/http%3A//www.internode.on.net/sfoa/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the on.net privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616090534id_/http%3A//www.internode.on.net/sfoa/privacy/index.htm) for the most accurate reproduction.*
 
 # Internode - SFOA - Privacy Policy
 
