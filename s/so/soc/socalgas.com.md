@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the socalgas.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111094044id_/http%3A//www.socalgas.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socalgas.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616044151id_/http%3A//www.socalgas.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
   | 
+
+_[Para la versión en español](https://web.archive.org/web/20070616044151id_/http%3A//www.socalgas.com/sp/privacidad.shtml)_
+
+[_In Chinese_](https://web.archive.org/ch/privacy.shtml)
 
 _Effective November 7, 2006_ Thank you for visiting SoCalGas's Web site. We are committed to protecting the reasonable expectations of privacy of the visitors to our Web site. 
 
