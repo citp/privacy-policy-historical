@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the projo.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205213624id_/http%3A//www.projo.com/cgi-bin/include.pl/registration/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projo.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617013301id_/http%3A//www.projo.com/registration/privacy.html%3Fbn) for the most accurate reproduction.*
 
-# Rhode Island news | projo.com | The Providence Journal
-
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.projo.com/home/854643930/Left/default/empty.gif/7a2f4868374634303543454142416d5a?x)
-
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.projo.com/home/101668618/Left1/default/empty.gif/7a2f4868374634303543454142416d5a?x)
-
-| 
+# Privacy Policy | About Us | Rhode Island news | projo.com | The Providence Journal
 
 ## Privacy Policy
 
@@ -129,14 +123,3 @@ If you have any questions or comments about our Privacy Policy, please e-mail us
 **Effective Date and Changes**
 
 This Privacy Policy is effective as of June 1, 2005. Belo reserves the right to modify the terms of this policy at any time and in our sole discretion, by posting a change notice to this page. Your continued use of the Site following our posting of a change notice will constitute binding acceptance of those changes. 
-
-| 
-
-Advertising
-
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.projo.com/home/358232272/Position1/default/empty.gif/7a2f4868374634303543454142416d5a?x)
-
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.projo.com/home/25060714/Position2/default/empty.gif/7a2f4868374634303543454142416d5a?x)
-
-  
-
