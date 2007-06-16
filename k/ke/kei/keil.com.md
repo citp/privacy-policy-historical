@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keil.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213230529id_/http%3A//www.keil.com/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keil.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617002814id_/http%3A//www.keil.com/company/privacy.asp) for the most accurate reproduction.*
 
 # Keil Privacy Statement
 
@@ -139,7 +139,7 @@ The information you enter on this web site is used differently depending on the 
 
 #### Customer Database
 
-We maintain a customer database and from time-to-time send mail through the postal service to customers listed in this database. If you wish to be excluded from our mailings, please contact our [customer service department](https://web.archive.org/product/custserv.htm).
+We maintain a customer database and from time-to-time send mail through the postal service to customers listed in this database. If you wish to be excluded from our mailings, please contact our [customer service department](https://web.archive.org/product/custserv.asp).
 
 #### E-mail Addresses
 
