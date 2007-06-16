@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activetrail.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207034656id_/http%3A//www.activetrail.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activetrail.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617001505id_/http%3A//www.activetrail.com/privacy.html) for the most accurate reproduction.*
 
 # activetrail
 
@@ -30,4 +30,4 @@ The name "ActiveTrail" is a registered trademark owned by ActiveTrail™ and The
 
 ## General
 
-We may change our privacy policy in the future. Any changes to our privacy policy will be made available online. If you have any questions about our privacy policy, the practices of this website, or your dealings with our company, please email us at [info@activetrail.com](mailto:info@activetrail.com) Please see our [Spam Policy. ](https://web.archive.org/web/20061207034656id_/http%3A//www.activetrail.com/anti-spam.html)
+We may change our privacy policy in the future. Any changes to our privacy policy will be made available online. If you have any questions about our privacy policy, the practices of this website, or your dealings with our company, please email us at [info@activetrail.com](mailto:info@activetrail.com) Please see our [Spam Policy. ](https://web.archive.org/web/20070617001505id_/http%3A//www.activetrail.com/anti-spam.html)
