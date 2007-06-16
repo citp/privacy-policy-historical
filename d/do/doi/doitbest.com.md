@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the doitbest.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019114941id_/http%3A//doitbest.com/doitbest/Main.aspx%3FPageId%3D67) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doitbest.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616220323id_/http%3A//doitbest.com/Privacy.dib) for the most accurate reproduction.*
 
-# Home Improvement Store for Home Repair and Remodeling: DoItBest - home hardware store, housewares, hand tools
+# DoitBest.com Customer Privacy Policy
 
 Because doitbest.com, "World's Largest Hardware Store®", understands that our customers are concerned about privacy online, we have developed policies that will ensure personal information is handled in a safe, professional and confidential manner. Through the online posting of this policy, you will know what kind of information we collect, how it is handled and with whom it could be shared. 
 
