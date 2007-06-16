@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moo.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231200250id_/http%3A//www.moo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moo.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616064302id_/http%3A//www.moo.com/privacy) for the most accurate reproduction.*
 
 # moo | we love to print
 
