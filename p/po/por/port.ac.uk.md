@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the port.ac.uk privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228102508id_/http%3A//www.port.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the port.ac.uk privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616130121id_/http%3A//www.port.ac.uk/privacy) for the most accurate reproduction.*
 
-# University of Portsmouth - Privacy
+# Privacy | University of Portsmouth
 
 The University of Portsmouth is committed to ensuring visitors’ privacy whilst viewing University web pages. This Policy explains the types of data collected and how this information will be used.
 
@@ -20,7 +20,7 @@ In submitting your personal information online, you are agreeing that University
 
 ### Cookies
 
-Cookies are small pieces of information that a website can put on your hard drive in order for it to remember something about you at a later time. The information is in the form of a text file, which will only be understood by the web site that initially set the cookie. The University web sites may use cookies for certain applications, for example to remember your name when filling in online forms. You can stop your browser exchanging cookies with web servers at any time by changing the settings in your web browser. For more information about cookies visit <http://www.aboutcookies.org/>
+Cookies are small pieces of information that a website can put on your hard drive in order for it to remember something about you at a later time. The information is in the form of a text file, which will only be understood by the web site that initially set the cookie. The University web site uses cookies for certain applications, for example to remember your name when filling in online forms. A cookie is also used to anonymously track how visitors interact with the University website, including where they came from and what they did. This is then used to ultimately provide a better online experience for all our audiences.You can stop your browser exchanging cookies with web servers at any time by changing the settings in your web browser. For more information about cookies visit <http://www.aboutcookies.org/>
 
 ### Live Chat 
 
