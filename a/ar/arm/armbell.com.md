@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the armbell.com privacy policy that was archived on 2006-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061115044147id_/http%3A//www.armbell.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armbell.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616142658id_/http%3A//www.armbell.com/privacy.html) for the most accurate reproduction.*
 
 # armbell.com * reliable phpbb hosting / webhosting with great network & dedicated server uptime
 
