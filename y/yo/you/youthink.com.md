@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youthink.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214204159id_/http%3A//www.youthink.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youthink.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616162614id_/http%3A//www.youthink.com/privacy.asp) for the most accurate reproduction.*
 
 # YouThink.com - Privacy Policy
 
