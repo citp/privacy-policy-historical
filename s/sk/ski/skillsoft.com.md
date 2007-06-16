@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the skillsoft.com privacy policy that was archived on 2006-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061109202856id_/http%3A//www.skillsoft.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skillsoft.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616134552id_/http%3A//www.skillsoft.com/privacy.asp) for the most accurate reproduction.*
 
 # SkillSoft - Privacy Policy
 
-|   | 
+Effective on: **December 1, 2006**
 
-Effective on: **November 2, 2006**
-
-1\. OUR COMMITMENT TO YOUR PRIVACY [](http://www.truste.org/ivalidate.php?url=www.skillsoft.com&sealid=102)[](http://www.truste.org/ivalidate.php?url=www.skillsoft.com&sealid=102)[](http://www.truste.org/ivalidate.php?url=www.skillsoft.com&sealid=102)[](http://www.truste.org/ivalidate.php?url=www.skillsoft.com&sealid=102)
+1\. OUR COMMITMENT TO YOUR PRIVACY [](http://www.truste.org/ivalidate.php?url=www.skillsoft.com&sealid=102 "TRUSTe Privacy Program: Click to Verify Link")
 
 SkillSoft and its subsidiaries and affiliates ("SkillSoft") are committed to respecting your privacy, and providing a secure environment in which you can participate in on-line activities is important to us. This Privacy Policy discloses our privacy practices and expresses our commitment to keeping you informed of the information we collect and how it is used. We ask that you take time to read it carefully. We may update this Privacy Policy from time to time to reflect new uses, rules, regulations or technologies that impact your privacy. We recommend that users review our Privacy Policy on a routine basis to view any changes. This Privacy Policy will be continuously assessed against new technologies and business practices. This Privacy Policy applies to this site and governs data collection and usage at this site. Please read it in its entirety. IF YOU DO NOT AGREE WITH OUR PRIVACY POLICY, THEN DO NOT USE THIS SITE. 
 
-SkillSoft is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission it is to build user trust and confidence in the Internet. This privacy statement discloses the privacy practices for Skillsoft.com, and related sites. The links to this privacy statement throughout Skillsoft.com include pages hosted by third party service providers, such as SkillSoft's Investor Relations page, [http://phx.corporate-ir.net/phoenix.zhtml?c=90584&p=irol-irhome](http://phx.corporate-ir.net/phoenix.zhtml?c=90584&p=irol-irhome), and SkillSoft’s Customer Information page, [http://information.skillsoft.com](http://information.skillsoft.com/) which pages are branded to look like www.skillsoft.com to effectively collect information on behalf of SkillSoft. Because SkillSoft wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and to have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, SkillSoft has agreed to notify you of: what personally identifiable information is collected; the organization collecting the information; how the information is used; with whom the information may be shared; what choices are available to you regarding collection, use and distribution of the information; the kinds of security procedures in place to protect against the loss, misuse or alteration of information under SkillSoft's control; and how you can correct any inaccuracies in the information. 
+SkillSoft is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission it is to build user trust and confidence in the Internet. This privacy statement discloses the privacy practices for SkillSoft.com, and related sites. The links to this privacy statement throughout SkillSoft.com include pages hosted by third party service providers, such as SkillSoft's Investor Relations page, [http://phx.corporate-ir.net/phoenix.zhtml?c=90584&p=irol-irhome](http://phx.corporate-ir.net/phoenix.zhtml?c=90584&p=irol-irhome "SkillSoft Investor Relations Link"), which pages are branded to look like www.skillsoft.com to effectively collect information on behalf of SkillSoft. Because SkillSoft wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and to have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, SkillSoft has agreed to notify you of: what personally identifiable information is collected; the organization collecting the information; how the information is used; with whom the information may be shared; what choices are available to you regarding collection, use and distribution of the information; the kinds of security procedures in place to protect against the loss, misuse or alteration of information under SkillSoft's control; and how you can correct any inaccuracies in the information. 
 
 The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through courseware downloaded from the site. 
 
-SkillSoft complies with the safe harbor privacy framework as set forth by the U.S. Department of Commerce. 
+SkillSoft.com abides by the EU Safe Harbor framework as set forth by the Department of Commerce regarding collection, use and retention of data from the European Union. 
 
 2\. THE INFORMATION WE COLLECT AND HOW IT IS USED 
 
@@ -34,13 +32,13 @@ Some SkillSoft Web pages use cookies. Cookies are small data files that are tran
 
 3\. CHOICE 
 
-We may use your personally identifiable information for purposes not directly related to products and/or services you have requested or other requests or inquiries you have made in order for you to receive e-mail communications from Skillsoft, Skillsoft's newsletter, information on new products or offers and information from Skillsoft's partners ("Secondary Uses") unless you direct us not to do so by opting-out at the point where the information is collected. Additionally, you may opt-out from any particular Secondary Use of your personally identifiable information collected online at any time by going to our e-mail preferences page located at <http://www.skillsoft.com/email_prefs.asp>. 
+We may use your personally identifiable information for purposes not directly related to products and/or services you have requested or other requests or inquiries you have made in order for you to receive e-mail communications from SkillSoft, SkillSoft's newsletter, information on new products or offers and information from SkillSoft's partners ("Secondary Uses") unless you direct us not to do so by opting-out at the point where the information is collected. Additionally, you may opt-out from any particular Secondary Use of your personally identifiable information collected online at any time by going to our e-mail preferences page located at <http://www.skillsoft.com/email_prefs.asp>. 
 
 4\. SHARING OF INFORMATION 
 
 Unless SkillSoft has your permission or is required by law, SkillSoft will not sell, rent, lease or otherwise provide your personally identifiable information to others, except in order to provide you with the products and services you request. SkillSoft will only share the personally identifiable information you provide online with other SkillSoft entities, SkillSoft's partners and/or outside contractors who may be used to ship products, provide technical support, handle order processing, or otherwise act on SkillSoft's behalf, for the purpose of providing products, services and marketing and promotional communications. 
 
-Please remember that when you submit information to a discussion group or some other public forum, the information submitted will be deemed public information and will not be considered confidential or treated by SkillSoft as other personally identifiable information you specifically provide to Skillsoft and which is subject to this Privacy Policy. 
+Please remember that when you submit information to a discussion group or some other public forum, the information submitted will be deemed public information and will not be considered confidential or treated by SkillSoft as other personally identifiable information you specifically provide to SkillSoft and which is subject to this Privacy Policy. 
 
 Except as otherwise provided in this Privacy Policy, we will keep your personally identifiable information private and will not share it with third parties, unless such disclosure is necessary to: (a) comply with legal process (such as a court order) or other legal requirements of any governmental authority; (b) protect our rights or property; (c) protect the interest of users of the site, other than you, or any other person; or (d) operate or conduct maintenance and repair of our services or equipment, as authorized by law. 
 
@@ -64,7 +62,7 @@ We will take reasonable steps to safeguard personally identifiable information w
 
 SkillSoft strives to keep your personally identifiable information accurate and up-to-date. Should you find inaccuracies in your personally identifiable information and wish to amend, correct or delete the same, please contact us through one of the communication methods described below in Section 10, Contacting Us. SkillSoft will respond to requests to update personally identifiable information within 30 days of the reception of the request. 
 
-To opt out of all future correspondence from SkillSoft, please submit an email request to [skillsoft_optout@skillsoft.com](mailto:skillsoft_optout@skillsoft.com). Your request will be met within 10 business days. 
+To opt out of all future correspondence from SkillSoft, please submit an email request to [skillsoft_optout@skillsoft.com](mailto:skillsoft_optout@skillsoft.com "mailto:skillsoft_optout@skillsoft.com"). Your request will be met within 10 business days. 
 
 8\. NOTIFICATION OF CHANGES 
 
@@ -76,8 +74,8 @@ By using the site, you signify your assent to our Privacy Policy. If you do not 
 
 10\. CONTACTING US WITH COMMENTS AND CONCERNS 
 
-We welcome your comments. Should you have any questions or concerns about our Privacy Policy, please contact us: via e-mail at [support@skillsoft.com](mailto:support@skillsoft.com), by telephone at (866) 754-5435, or by mail to: SkillSoft, Attn: SkillSoft Contracts Department, 107 Northeastern Boulevard, Nashua, NH 03062. If you have any questions or concerns about personally identifiable information with regards to employment applications please contact our human resources department by telephone at (603) 324-3001 extension 3312. 
+We welcome your comments. Should you have any questions or concerns about our Privacy Policy, please contact us: via e-mail at [support@skillsoft.com](mailto:support@skillsoft.com "mailto:support@skillsoft.com"), by telephone at (866) 754-5435, or by mail to: SkillSoft, Attn: SkillSoft Contracts Department, 107 Northeastern Boulevard, Nashua, NH 03062. If you have any questions or concerns about personally identifiable information with regards to employment applications please contact our human resources department by telephone at (603) 324-3001 extension 3312. 
 
 If you feel that SkillSoft is not abiding by this Privacy Policy, you should first contact us by the means listed above. If your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
 
-Last Updated: November 2, 2006
+Last Updated: **December 1, 2006**
