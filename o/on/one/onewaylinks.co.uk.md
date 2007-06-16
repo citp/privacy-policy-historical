@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the onewaylinks.co.uk privacy policy that was archived on 2006-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061129045251id_/http%3A//www.onewaylinks.co.uk/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onewaylinks.co.uk privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616030820id_/http%3A//www.explorama.co.uk/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Who we are**   
-In this privacy policy references to “we”, “us” and “our” are to Explorama Limited. References to “our Website” or “the Website” are to [www.onewaylinks.co.uk](http://www.onewaylinks.co.uk/). 
+  
+**Who we are**
+
+In this privacy policy references to “we”, “us” and “our” are to **Explorama Limited**. References to “our Website/s” or “the Website/s” are to [www.explorama.co.uk](http://www.explorama.co.uk/) and all of its websites. 
 
 **What information we collect and how**   
-The information we collect via the Website may include. 
+The information we collect via the Website/s may include. 
 
 1\. Any personal details you knowingly provide us with through forms and our email, such as name, address, telephone number etc. 
 
@@ -14,12 +16,12 @@ The information we collect via the Website may include.
 
 3\. Your preferences and use of email updates, recorded by emails we send you (if you select to receive email updates on products and offers). 
 
-4\. Your IP Address, this is a string of numbers unique to your computer that is recorded by our web server when you request any page or component on the Website. This information is used to monitor your usage of the Website. 
+4\. Your IP Address, this is a string of numbers unique to your computer that is recorded by our web server when you request any page or component on the Website. This information is used to monitor your usage of the Website/s. 
 
-5\. Data recorded by the Website which allows us to recognise you and your preferred settings, this saves you from re-entering information on return visits to the site. Such data is recorded locally on you computer through the use of cookies. Most browsers can be programmed to reject, or warn you before downloading cookies, information regarding this may be found in your browsers ‘help’ facility. 
+5\. Data recorded by the Website/s which allows us to recognise you and your preferred settings, this saves you from re-entering information on return visits to the site. Such data is recorded locally on you computer through the use of cookies. Most browsers can be programmed to reject, or warn you before downloading cookies, information regarding this may be found in your browsers ‘help’ facility. 
 
 **What we do with your information**   
-Any personal information we collect from this website will be used in accordance with the Data Protection Act 1998 and other applicable laws. The details we collect will be used: 
+Any personal information we collect from our website/s will be used in accordance with the Data Protection Act 1998 and other applicable laws. The details we collect will be used: 
 
 1\. To process your order, to provide after sales service (we may pass your details to another organisation to supply/deliver products or services you have purchased and/or to provide after-sales service); 
 
@@ -30,9 +32,8 @@ We may need to pass the information we collect to other companies for administra
 **Your Rights**   
 You have the right to request a copy of any information that we currently hold about you. In order to receive such information please send your contact details including address and payment of £10 to cover administration expenses to the following address: 
 
-Explorama Limited, 31A Clarence Road, London N22 8PG, United Kingdom 
-
-Our email address is: [ admin@explorama.co.uk](mailto:admin@explorama.co.uk?subject=Info%20request)
+Due to spam and abuse we will divert you to one of websites where our contact address can be found: [Contact Us](http://www.ukonewaylinks.co.uk/contact_us.html)   
+Please change the Subject Line accordingly for your query. 
 
 **Other Websites**   
-This privacy policy only covers this website. Any other websites which may be linked to by our website are subject to their own policy, which may differ from ours. 
+This privacy policy covers all Explorama Limited websites. Any other websites which may be linked to by our website are subject to their own policy, which may differ from ours. 
