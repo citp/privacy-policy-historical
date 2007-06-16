@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telugupeople.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230083346id_/http%3A//www.telugupeople.com/telugupeople/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telugupeople.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616224025id_/http%3A//www.telugupeople.com/telugupeople/privacy.asp) for the most accurate reproduction.*
 
 # TeluguPeople.com - Privacy Policy
 
