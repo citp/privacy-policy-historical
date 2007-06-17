@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scottrade.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207222117id_/http%3A//www.scottrade.com/online_stock_trading_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scottrade.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617234918id_/http%3A//scottrade.com/online_stock_trading_privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Opening a Online Trading Account, Brokerage Account, Investing - Scottrade
 
