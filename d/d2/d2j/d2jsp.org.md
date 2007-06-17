@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the d2jsp.org privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207205654id_/http%3A//www.d2jsp.org/index.php%3Fa%3Dwiki%26s%3D3%26p%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the d2jsp.org privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617062625id_/http%3A//www.d2jsp.org/index.php%3Fa%3Dwiki%26s%3D3%26p%3Dprivacypolicy) for the most accurate reproduction.*
 
 # d2jsp - Diablo 2 JavaScript Parser - by Paul Taulborg
 
