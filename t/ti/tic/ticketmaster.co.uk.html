@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ticketmaster.co.uk privacy policy that was archived on 2006-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061210180351id_/http%3A//www.ticketmaster.co.uk/legal/privacy.html%3Ftm_link%3Dtm_home_i_pp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ticketmaster.co.uk privacy policy that was archived on 2007-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070617060802id_/http%3A//www.ticketmaster.co.uk/legal/privacy.html%3Ftm_link%3Dtm_home_i_pp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>Ticketmaster.co.uk - Privacy</title>
@@ -9,7 +9,7 @@
     <meta name="keywords" content="tickets, concert tickets, concert listings, concert tour dates, sports tickets, theater tickets, family tickets, hot tickets, buy tickets">
 
 <meta name="rating" content="general">
-<meta name="copyright" content="2006, Ticketmaster">
+<meta name="copyright" content="2007, Ticketmaster">
 <meta name="revisit-after" content="4 Days">
 <meta name="expires" content="never">
 <meta name="distribution" content="global">
@@ -122,7 +122,7 @@ function grabUrl() {
 
 }
 </script>
-<meta name="DCSext.uri" content="/web/20061210180351id_/http%3A//www.ticketmaster.co.uk/legal/privacy.html%3Ftm_link%3Dtm_home_i_pp"></head>
+<meta name="DCSext.uri" content="/web/20070617060802id_/http%3A//www.ticketmaster.co.uk/legal/privacy.html%3Ftm_link%3Dtm_home_i_pp"></head>
 <body id="body" onload="SS_preloadImages('http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/tab_music_over.jpg','http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/tab_sports_over.jpg','http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/tab_arts_over.jpg','http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/tab_family_over.jpg')" bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 
 
@@ -133,6 +133,24 @@ function grabUrl() {
 
 
 
+<style type="text/css">
+#gcFlyover-wrapper{
+    position:absolute;
+    z-index:3;
+    height:70px;
+    width:108px;
+    cursor:pointer;
+    margin:-18px 0px 0px 662px;
+}
+#gcFlyover{
+    height:70px;
+    width:108px;
+    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/giftcardbadge.png'); /*  IE6 filter png hack must be absolute path */
+}
+#gcFlyover[id]{
+    background-image:url(http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/giftcardbadge.png); /* blocks png from IE */
+}
+</style>
 <div align="center" class="logoLocation-container" id="logoLocation">
     <table width="755" border="0" align="center" cellpadding="0" cellspacing="0">
     <tbody><tr>
@@ -145,9 +163,11 @@ function grabUrl() {
     </tbody></table>
 </div><script language="JavaScript">
 var member_name = GetCookie("MNAME");
-var member_text, action_text;
+var check1 = GetCookie("MID");
+var member_text = "";
+var action_text;
 
-if (member_name == null || member_name.length == 0) {
+if ( check1 == null || check1.length == 0 ) {
      member_text = "";
      action_text = "Log In";
      member_name = null;
@@ -157,22 +177,24 @@ else {
           var decoded = decodeURI(escape(member_name));
           if (decoded != null && decoded.length > 0) member_name = decoded;
      }
-     member_text = ", " + member_name;
+     if( member_name != 'null' ) {
+         member_text = ", " + member_name;
+     }
      action_text = "Log Out";
 }
 
 function buildLink( myFlag ) {
      if( myFlag == "log" ) {
-          if( member_text != "" ) {
-               var theLink = "https://www.ticketmaster.co.uk/member/logout";
-          }
-          else {
-               var theLink = "https://www.ticketmaster.co.uk/member?";
-          }
-          document.write( "<a href=\"" + theLink + "\" class=\"passive\">");
+         if ( check1 == null || check1.length == 0 ) {
+             var theLink = "https://www.ticketmaster.co.uk/member?";
+         }
+         else {
+             var theLink = "https://www.ticketmaster.co.uk/member/logout";
+         }
+         document.write( "<a href=\"" + theLink + "\" class=\"passive\">");
      }
      else {
-          if( member_text != "" ) {
+          if( check1 != null || check1.length != 0 ) {
                var theLink = "https://www.ticketmaster.co.uk/member/edit_subscriptions?tm_link=tm_alert_header";
           }
           else {
@@ -182,14 +204,14 @@ function buildLink( myFlag ) {
      }
 }
 </script>
-<div id="tabs">
-    <table width="770" cellpadding="0" align="center" cellspacing="0" border="0" class="topNav-subLedgeStroke">
+<div id="tabs">        <div id="gcFlyover-wrapper"><div id="gcFlyover" onclick="window.location.href='http://www.ticketmaster.co.uk/giftcards';"></div></div>    <table width="770" cellpadding="0" align="center" cellspacing="0" border="0" class="topNav-subLedgeStroke">
         <tbody><tr>
             <td align="center">
                 <table cellpadding="0" cellspacing="0" border="0">
                     <tbody><tr>
                         <td valign="top"><a href="http://www.ticketmaster.co.uk/section?tm_link=tm_home_header" title="Home"><img src="http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/TM_home_off.gif" height="27" border="0" alt="Home"></a></td>
-                        <td width="4"></td>                        <td valign="top"><a href="https://www.ticketmaster.co.uk/member?tm_link=tm_myaccount_header" title="My Ticketmaster"><img src="http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/TM_mytm_off.gif" height="27" border="0" alt="My Ticketmaster"></a></td>
+                        <td width="4"></td>                            <td valign="top"><a href="http://www.ticketmaster.co.uk/ticketexchange/?tm_link=tm_exchange_header" title="TicketExchange"><img src="http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/TM_tExch_off.gif" height="27" border="0" alt="TicketExchange"></a></td>
+                            <td width="4"></td>                        <td valign="top"><a href="https://www.ticketmaster.co.uk/member?tm_link=tm_myaccount_header" title="My Ticketmaster"><img src="http://media.ticketmaster.co.uk/en-gb/img/sys/common_new/TM_mytm_off.gif" height="27" border="0" alt="My Ticketmaster"></a></td>
                     </tr>
                 </tbody></table>
             </td>
@@ -285,9 +307,11 @@ function buildLink( myFlag ) {
     </tbody></table>
 </div><script language="JavaScript">
 var member_name = GetCookie("MNAME");
-var member_text, action_text;
+var check1 = GetCookie("MID");
+var member_text = "";
+var action_text;
 
-if (member_name == null || member_name.length == 0) {
+if ( check1 == null || check1.length == 0 ) {
      member_text = "";
      action_text = "Log In";
      member_name = null;
@@ -297,22 +321,24 @@ else {
           var decoded = decodeURI(escape(member_name));
           if (decoded != null && decoded.length > 0) member_name = decoded;
      }
-     member_text = ", " + member_name;
+     if( member_name != 'null' ) {
+         member_text = ", " + member_name;
+     }
      action_text = "Log Out";
 }
 
 function buildLink( myFlag ) {
      if( myFlag == "log" ) {
-          if( member_text != "" ) {
-               var theLink = "https://www.ticketmaster.co.uk/member/logout";
-          }
-          else {
-               var theLink = "https://www.ticketmaster.co.uk/member?";
-          }
-          document.write( "<a href=\"" + theLink + "\" class=\"passive\">");
+         if ( check1 == null || check1.length == 0 ) {
+             var theLink = "https://www.ticketmaster.co.uk/member?";
+         }
+         else {
+             var theLink = "https://www.ticketmaster.co.uk/member/logout";
+         }
+         document.write( "<a href=\"" + theLink + "\" class=\"passive\">");
      }
      else {
-          if( member_text != "" ) {
+          if( check1 != null || check1.length != 0 ) {
                var theLink = "https://www.ticketmaster.co.uk/member/edit_subscriptions?tm_link=tm_alert_header";
           }
           else {
@@ -326,7 +352,7 @@ function buildLink( myFlag ) {
     <tbody><tr>
         <td class="topNav-signInBar" style="padding:5px">
         <div id="signInBar-text">            <div class="floatLeft">
-                <span class="altTextColor" style="padding-left:10px" id="welcome_bar">Welcomeundefined&nbsp;&nbsp;</span>  |  <script>buildLink('log');</script><a href="https://www.ticketmaster.co.uk/member/logout" class="passive"><script>document.write(action_text);</script>undefined</a>
+                <span class="altTextColor" style="padding-left:10px" id="welcome_bar">Welcomeundefined&nbsp;&nbsp;</span>  |  <script>buildLink('log');</script><a href="https://www.ticketmaster.co.uk/member?" class="passive"><script>document.write(action_text);</script>undefined</a>
             </div>            <div class="floatRight" style="margin-right:13px">            </div>        </div></td>
     </tr>
     </tbody></table></div><script language="JavaScript">
@@ -432,52 +458,38 @@ if (!member_text && (document.getElementById('myAccountSubNav'))) {
 	</div>
 </div>
  <!-- START FOOTER-->
-<div id="bottom" align="center"><div class="footerContainer" style="border-top: 0px;">    <div class="footerSections" align="center"> <a href="http://www.ticketmaster.co.uk/section" class="footer">Home</a> <a href="http://www.ticketmaster.co.uk/section/concerts" class="footer">Music</a> <a href="http://www.ticketmaster.co.uk/section/sports" class="footer">Sport</a> <a href="http://www.ticketmaster.co.uk/section/arts_theater" class="footer">Arts &amp; Theatre</a> <a href="http://www.ticketmaster.co.uk/section/family" class="footer">Family &amp; Attractions</a> </div>            <div class="footerSubSections" align="center">
-                 <a href="http://www.ticketmaster.co.uk/h/help.html">Help</a>|<a href="http://www.ticketmaster.co.uk/etc/">Ticket Centres</a>|<a href="http://www.ticketmaster.co.uk/about_us/">About Us</a>|<a href="http://www.ticketmaster.co.uk/about_us/advertise_with_us/">Advertise with Us</a>|<a href="http://www2.ticketmaster.co.uk/cgi/sell_tickets_with_us/stwu_form.asp">Sell Tickets With Us</a>|<a href="http://www.ticketmaster.co.uk/about_us/worldwide/">International</a>|<a href="http://www.ticketmaster.co.uk/legal/">Our Policies</a>|<a href="http://www.ticketmaster.co.uk/legal/privacy.html">Privacy Policy</a>
+<div id="bottom" align="center"><div class="footerContainer" style="border-top: 0px;">    <div class="footerSections" align="center"> <a href="http://www.ticketmaster.co.uk/section" class="footer">Home</a> <a href="http://www.ticketmaster.co.uk/section/concerts" class="footer">Music</a> <a href="http://www.ticketmaster.co.uk/section/sports" class="footer">Sport</a> <a href="http://www.ticketmaster.co.uk/section/arts_theater" class="footer">Arts &amp; Theatre</a> <a href="http://www.ticketmaster.co.uk/section/family" class="footer">Family &amp; Attractions</a> <a href="http://www.ticketmaster.co.uk/giftcards" class="footer">Gift Cards</a></div>            <div class="footerSubSections" align="center">
+                <a href="http://www.ticketmaster.co.uk/sitemap">Site Map</a> | <a href="http://www.ticketmaster.co.uk/h/help.html">Help</a>|<a href="http://www.ticketmaster.co.uk/etc/">Ticket Centres</a>|<a href="http://www.ticketmaster.co.uk/about_us/">About Us</a>|<a href="http://www.ticketmaster.co.uk/about_us/advertise_with_us/">Affiliates</a>|<a href="http://www2.ticketmaster.co.uk/cgi/sell_tickets_with_us/stwu_form.asp">Sell Tickets With Us</a>|<a href="http://www.ticketmaster.co.uk/about_us/worldwide/">International</a>|<a href="http://www.ticketmaster.co.uk/legal/">Our Policies</a>|<a href="http://www.ticketmaster.co.uk/legal/privacy.html">Privacy Policy</a>
             </div>    <div class="footerTOU" align="center">Use of this site is subject to express <a href="http://www.ticketmaster.co.uk/legal/">terms of use,</a> which prohibit commercial use of this site. By continuing past this page, you agree to abide by these terms.</div>
-
- <div class="footerCopyRight" align="center">©&nbsp;2006&nbsp;&nbsp;Ticketmaster. All rights reserved.</div>
+ <div class="footerCopyRight" align="center">© 2007 Ticketmaster. All rights reserved.<br>Ticketmaster UK Limited Registration in England No. 2662632. Registered Office, 48 Leicester Square, London WC2H 7LR
+ </div>
 
 <div class="footerPartnerSites" align="center">Partner Sites:
-    <a href="http://www.alstos.com/" target="_blank">Alsto's</a>
-    <a href="http://www.ballarddesigns.com/" target="_blank">Ballard Designs</a>
-    <a href="http://www.chemistry.com" target="_blank">Chemistry.com</a>
-    <a href="http://www.citysearch.com/" target="_blank">Citysearch</a>
-    <a href="http://www.classicvacations.com/" target="_blank">ClassicVacations.com</a>
-    <a href="http://www.condosaver.com/" target="_blank">CondoSaver.com</a>
-    <a href="http://www.cottonblend.com/" target="_blank">Cottonblend.com</a>
-    <a href="http://www.entertainment.com/" target="_blank">Entertainment.com</a>
-    <a href="http://www.evite.com/" target="_blank">Evite</a>
-    <a href="http://www.expedia.co.uk" target="_blank">Expedia</a>
-    <a href="http://www.frontgate.com/" target="_blank">Frontgate</a>
-    <a href="http://www.garnethill.com/" target="_blank">Garnet Hill</a>
-    <a href="http://www.gifts.com" target="_blank">Gifts.com</a>
-    <a href="http://www.homefocuscatalog.com/" target="_blank">HomeFocus</a>
-    <a href="http://www.hotels.co.uk" target="_blank">Hotels.com</a>
-    <a href="http://www.hotwire.com" target="_blank">Hotwire</a>
-    <a href="http://www.hsn.com/" target="_blank">HSN</a>
-    <a href="http://www.improvementscatalog.com/" target="_blank">ImprovementsCatalog.com</a>
-    <a href="http://www.isabellabird.com" target="_blank">Isabella Bird</a>
-    <a href="http://www.lendingtree.com" target="_blank">LendingTree</a>
-    <a href="http://www.livedaily.com" target="_blank">liveDaily</a>
-    <a href="http://liveitup.com/travel/home.home" target="_blank">LiveItUp</a>
-    <a href="http://uk.match.com" target="_blank">Match.com</a>
-    <a href="http://www.pronto.com" target="_blank">Pronto.com</a>
-    <a href="http://www.realestate.com" target="_blank">RealEstate.com</a>
-    <a href="http://www.reserveamerica.com" target="_blank">ReserveAmerica</a>
-    <a href="http://www.smithandnoble.com/" target="_blank">Smith+Noble</a>
-    <a href="http://www.territoryahead.com/" target="_blank">The Territory Ahead</a>
-    <a href="http://www.ticketweb.co.uk/" target="_blank">TicketWeb</a>
-    <a href="http://www.travelsmith.com" target="_blank">Travel Smith</a>
-    <a href="http://www.travelnow.com/index.jsp?localeSelect=true&amp;locale=en_UK" target="_blank">TravelNow.com</a>
+    <a href="http://www.admission.com/">Admission</a>
+    <a href="http://www.condodirect.com/" target="_blank">Condo Direct</a>
+    <a href="http://www.cottonblend.com/" target="_blank">Cottonblend</a>
+    <a href="http://www.domania.com/" target="_blank">Domania</a>
+    <a href="http://www.expedia.com/" target="_blank">Expedia</a>
+    <a href="http://www.getsmart.com/" target="_blank">GetSmart</a>
+    <a href="http://www.homeconnections.com/" target="_blank">HomeConnections</a>
+    <a href="http://www.homeloancenter.com/" target="_blank">Home Loan Center</a>
+    <a href="http://www.hotels.com/" target="_blank">Hotels</a>
+    <a href="http://www.hotwire.com/" target="_blank">Hotwire</a>
+    <a href="http://www.improvenet.com/" target="_blank">ImproveNet</a><br>    <a href="http://www.internest.com/" target="_blank">iNest</a>
+    <a href="http://www.ioscatalog.com/" target="_blank">IOS Catalog</a>
+    <a href="http://www.lendingtree.com/" target="_blank">LendingTree</a>
+    <a href="http://www.lendingtreeloans.com/" target="_blank">LendingTree Loans</a>
+    <a href="http://www.livedaily.com/" target="_blank">LiveDaily</a>
+    <a href="http://www.realestate.com/" target="_blank">RealEstate</a>
+    <a href="http://www.reserveamerica.com/" target="_blank">ReserveAmerica</a>
+    <a href="http://www.servicemagic.com/" target="_blank">ServiceMagic</a>
+    <a href="http://www.shoebuy.com/">Shoes</a>
+    <a href="http://www.smithandnoble.com/" target="_blank">Smith + Noble</a>    <a href="http://www.thecampingclub.com/">The Camping Club</a>
+    <a href="http://www.ticketweb.com/" target="_blank">TicketWeb</a>
 </div>
 
-        </div>
-</div><iframe id="aaf0587e" name="aaf0587e" src="http://d.m3.net/afr.php?n=aaf0587e&amp;zoneid=183&amp;source=source=tmuk/legal/99999//////ffffff/&amp;dmaid=99999&amp;cb=1165733944" framespacing="0" frameborder="no" scrolling="no" width="0" height="0"></iframe>
-
-
-
-
+</div>
+</div><iframe id="aaf0587e" name="aaf0587e" src="http://d.m3.net/afr.php?n=aaf0587e&amp;zoneid=183&amp;source=source=tmuk/legal/99999//////ffffff/&amp;dmaid=99999&amp;cb=1182058928" framespacing="0" frameborder="no" scrolling="no" width="0" height="0"></iframe>
 
 
 
@@ -632,8 +644,12 @@ function dcsVar(){
 	WT.bh=dCurrent.getHours();
 	WT.ul=navigator.appName=="Netscape"?navigator.language:navigator.userLanguage;
 	if (typeof(screen)=="object"){
-		WT.cd=screen.colorDepth;
-		WT.sr=screen.width+"x"+screen.height;
+        try {
+            WT.cd=screen.colorDepth;
+            WT.sr=screen.width+"x"+screen.height;
+        }
+        catch(error) {
+        }   
 	}
 	if (typeof(navigator.javaEnabled())=="boolean"){
 		WT.jo=navigator.javaEnabled()?"Yes":"No";
@@ -740,6 +756,7 @@ dcsMeta();
 dcsTag();
 //-->
 </script>
+
 
 
 
