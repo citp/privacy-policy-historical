@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youandyourwedding.co.uk privacy policy that was archived on 2006-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061015004239id_/http%3A//www.youandyourwedding.co.uk/index.php%3Fmodule%3Droles%26func%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youandyourwedding.co.uk privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617031530id_/http%3A//www.youandyourwedding.co.uk/index.php%3Fmodule%3Droles%26func%3Dprivacy) for the most accurate reproduction.*
 
 # You & Your Wedding :: Privacy Statement
 
@@ -22,4 +22,4 @@ Data Protection: The National Magazine Company and our sponsors and promoters ma
 
 Please leave the Site and its Service now if you don't agree to our privacy terms.
 
-###### See our full [Terms and Conditions](http://www.youandyourwedding.co.uk/index.php?module=roles&func=terms).
+#### See our full [Terms and Conditions](http://www.youandyourwedding.co.uk/index.php?module=roles&func=terms).
