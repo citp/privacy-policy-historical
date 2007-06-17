@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the nch.com.au privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205195649id_/http%3A//www.nch.com.au/general/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nch.com.au privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617190211id_/http%3A//www.nch.com.au/general/privacy.html) for the most accurate reproduction.*
 
 # NCH Swift Sound Privacy Statement
 
 ## NCH Swift Sound Privacy Policy
 
   Introduction  
-  Cookied and Other Tracking Technologies  
+  Cookies and Other Tracking Technologies  
   Choice  
   Security  
   Access/Accuracy  
@@ -69,7 +69,7 @@ NCH Swift Sound's website is not structured to attract children. Accordingly, we
 
 Protecting your privacy online is an evolving area, and NCH Swift Sound's Web site is constantly evolving to meet these demands. 
 
-If you have any comments or questions regarding our Online Privacy Policy, please [Contact Us](https://web.archive.org/web/20061205195649id_/http%3A//www.nch.com.au/general/contact.html). While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible. 
+If you have any comments or questions regarding our Online Privacy Policy, please [Contact Us](https://web.archive.org/web/20070617190211id_/http%3A//www.nch.com.au/general/contact.html). While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible. 
 
   Back to top
 
