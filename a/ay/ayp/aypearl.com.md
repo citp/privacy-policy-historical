@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aypearl.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020063947id_/http%3A//aypearl.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aypearl.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618001929id_/http%3A//www.aypearl.com/Privacy.asp) for the most accurate reproduction.*
 
 # Wholesale Jewelry
 
