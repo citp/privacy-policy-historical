@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the plumbenefits.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118141812id_/http%3A//www.plumbenefits.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plumbenefits.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617042057id_/http%3A//www.plumbenefits.com/about/privacy) for the most accurate reproduction.*
 
 # Plum Benefits - Privacy Policy
 
-To put it plainly, we will not sell, rent or share your personal information with other companies. If you have any other questions, please read the below. 
+To put it plainly, we will not sell, rent or share your personal information with other non-affiliated third-parties. If you have any other questions, please read the below. 
 
 * * *
 
 Plum Benefits, LLC ("PLUM BENEFITS") takes your privacy very seriously. Please read the following to learn more about PLUM BENEFITS' Privacy Policy ("Policy"). This Policy details how PLUM BENEFITS receives, collects and uses information in connection with their website ("Site"). 
 
 **Collection and Use of Information**   
-PLUM BENEFITS collects and stores information from you in a several ways on different parts of our Site.
+PLUM BENEFITS collects and stores information from you in several ways on different parts of our Site.
 
  _Information You Provide:_
 
-When you register on the Site, you will be asked to provide personally identifiable information, which may include your name, email address, age, gender, address, telephone number(s), areas of interest, login name, login password and other self-identifying information (all "Personal Information"). PLUM BENEFITS collects Personal Information primarily for the following purposes: (i) to maintain a record of registered users, (ii) to email registered users with news and updates regarding new offers and (iii) to email promotional offers. In addition, PLUM BENEFITS may also collect information information about the searches you perform, promotional offers you choose and the pages you visit on the Site.
+When you register on the Site, you will be asked to provide personally identifiable information, which may include your name, email address, age, gender, address, telephone number(s), areas of interest, login name, login password and other self-identifying information (all "Personal Information"). PLUM BENEFITS collects Personal Information primarily for the following purposes: (i) to maintain a record of registered users, (ii) to email registered users with news and updates regarding new offers and (iii) to email promotional offers. In addition, PLUM BENEFITS may also collect information about the searches you perform, promotional offers you choose and the pages you visit on the Site.
 
 PLUM BENEFITS may also make certain message boards and forums available to you (collectively, "Forums"). You are solely responsible for the information and other content you post on and through these Forums and should be aware that when you voluntarily disclose personal information (e.g., name, e-mail address, telephone number) on or through these Forums, such information is generally accessible to and may be collected and used by other users. This Privacy Policy will not cover such disclosure of information. You are encouraged to exercise discretion when providing personal information about themselves in and through Forums.
 
