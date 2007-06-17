@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transitchicago.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110084622id_/http%3A//www.transitchicago.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transitchicago.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617104054id_/http%3A//www.transitchicago.com/help/privacy.html) for the most accurate reproduction.*
 
 # CTA | Chicago Transit Authority - Privacy Policy
 
@@ -31,7 +31,7 @@ We collect personal information in connection with the purchase of fare cards, C
 
 **E-mail Address**
 
-If you send us an e-mail with questions or comments or if you provide your e-mail address when ordering CTA merchandise, the CTA may use your e-mail address and other personal information included in your correspondence to improve the content of our web site or to respond to your correspondence. If you provide your e-mail address to receive notifications such as information concerning your Chicago Card Plus® account, the CTA will only use your e-mail address to send you the type of information for which you provided your e-mail address unless you agree to additional e-mail notifications from time to time. If you own a Chicago Card Plus® certain e-mails concerning your account will be sent to you automatically. Those e-mail notifications are described in the [Chicago Card Plus® Terms and Conditions](http://www.chicago-card.com/ccplus/conditions.aspx). 
+If you send us an e-mail with questions or comments or if you provide your e-mail address when ordering CTA merchandise or subscribing to receive notifications of newly available information regarding pertinent CTA transit services by e-mail or wireless enabled device, the CTA may use your e-mail address and other personal information (defined in Personal Information) included in your correspondence to improve the content of our web site, to provide you with pertinent information regarding CTA transit services or to respond to your correspondence. Your e-mail address will only be used to deliver the requested information unless you agree to additional e-mail notifications. If you provide your e-mail address to receive notifications such as information concerning your Chicago Card Plus® account, the CTA will use your e-mail address to send you the type of information for which you provided it. If you own a Chicago Card Plus® certain e-mails concerning your account will be sent to you automatically. Those e-mail notifications are described in the [Chicago Card Plus® Terms and Conditions](http://www.chicago-card.com/ccplus/conditions.aspx). 
 
 **Surveys**
 
@@ -71,6 +71,6 @@ If you have any questions about our privacy policy statement or our use of your 
 
 **Special Notice**
 
-Effective Date of this version of CTA's Privacy Policy: November 30, 2005 
+Effective Date of this version of CTA's Privacy Policy: April 23, 2007. 
 
 Use of this site signifies your acceptance of Chicago Transit Authority Web Site Terms and Conditions and Privacy Policy.
