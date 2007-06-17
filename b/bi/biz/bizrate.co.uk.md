@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bizrate.co.uk privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213093223id_/http%3A//www.bizrate.co.uk/content/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizrate.co.uk privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617053952id_/http%3A//www.bizrate.co.uk/content/privacy.html) for the most accurate reproduction.*
 
-# Compare, Buy and Review at BizRate UK
+# Home at BizRate UK. Shop and buy online
 
 [](http://www.truste.org/ivalidate.php?url=www.bizrate.com&sealid=101)
 
