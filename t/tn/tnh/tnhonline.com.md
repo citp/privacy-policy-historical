@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tnhonline.com privacy policy that was archived on 2006-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061121090432id_/http%3A//www.tnhonline.com/user/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tnhonline.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617205312id_/http%3A//www.tnhonline.com/user/privacypolicy) for the most accurate reproduction.*
 
 # The New Hampshire
 
