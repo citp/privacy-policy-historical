@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the prisonfellowship.org privacy policy that was archived on 2006-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060819110350id_/http%3A//www.prisonfellowship.org/generic.asp%3FID%3D2057) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prisonfellowship.org privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617073532id_/http%3A//www.prisonfellowship.org/generic.asp%3FID%3D2057) for the most accurate reproduction.*
 
 # Prison Fellowship Privacy Policy - Prison Fellowship
 
 Jan. 3, 2005
 
- **Table of Contents:  
+ **Table of Contents:** **  
 **
 
   * Our Commitment to Privacy
@@ -84,7 +84,7 @@ Back to top.
 
  **Sharing Information with Third Parties**
 
-Occasionally, we share the addresses of donors who have not given to the ministry in over two years with other like-minded ministries.  To exclude your information from ever being shared, please contact us.
+Occasionally, we share the addresses of donors who have not given to the ministry in over two years with other like-minded ministries.  To exclude your information from ever being shared, please [contact us](http://www.prisonfellowship.org/contentindex.asp?ID=953).
 
 Also, from time to time we acquire details about people who are in our database from third parties to enhance the data we already have. 
 
@@ -110,7 +110,7 @@ Back to top.
 
  **How to Contact Us**
 
-Should you have other questions or concerns about these policies, please contact us.
+Should you have other questions or concerns about these policies, please [contact us](http://www.prisonfellowship.org/contentindex.asp?ID=953).
 
 Back to top.
 
