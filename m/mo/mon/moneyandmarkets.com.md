@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moneyandmarkets.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113120514id_/http%3A//www.moneyandmarkets.com/subpages/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyandmarkets.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617101701id_/http%3A//www.moneyandmarkets.com/subpages/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy Statement - MoneyAndMarkets.com
+# Money and Markets
 
 Privacy  
 ---  
