@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vue.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206000850id_/http%3A//vue.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vue.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617050706id_/http%3A//www.vue.com/legal/privacy) for the most accurate reproduction.*
 
 # Pearson VUE Privacy Policy
 
@@ -51,12 +51,6 @@ We reserve the right to change the terms of this Privacy Policy from time to tim
 
 ### How to Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please contact us at [PearsonVUEContracts@pearson.com](mailto:PearsonVUEContracts@pearson.com). You may also contact us through one of our Call Centers:
-
-  * **Americas** +1 (952) 681-3918
-  * **Europe, Middle East and Africa** +31 30 2874962
-  * **Asia-Pacific** +61 2 9467 6600
-
-
+If you have any questions or concerns about this Privacy Policy, please contact us at [PearsonVUEContracts@pearson.com](mailto:PearsonVUEContracts@pearson.com). You may also contact us at +1 (952) 681-3918.
 
 Revision Date of April 4, 2005
