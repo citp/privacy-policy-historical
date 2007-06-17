@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stylusstudio.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205203756id_/http%3A//www.stylusstudio.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylusstudio.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617022348id_/http%3A//www.stylusstudio.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -85,21 +85,21 @@ If you would like to correct and/or update your information, please [contact us]
 
 [Prev: **"XML Industry News"**](https://web.archive.org/xml_industry_news.html "XML Industry News") [Next: **"Stylus Studio 2007 EULA"**](https://web.archive.org/eula.html "Stylus Studio 2007 End User Product License Agreement")
 
-### [Using DataDirect XQuery with Stylus Studio](http://www.stylusstudio.com/videos/ddxqdemo/datadirectxquery.html)
+### [Microsoft XML Tools for MSXML 3.0, MSXML 4.0 and MSXML 6.0](http://www.stylusstudio.com/microsoft/msxml.html)
 
-Learn how to query any relational database using XQuery and the XQuery API for Java using DataDirect XQuery, an embeddable Java component, and Stylus Studio the world's leading XML IDE.
+MSXML tools in Stylus Studio feature integrated XML validation, XSLT transformation and XSLT debugging using the Microsoft's COM-based XML processing components: MSXML 3.0, MSXML 4.0 and MSXML 6.0
 
-### [Whitepaper: FIXML - Working with Complex Message Sets Defined Using XML Schema](http://www.stylusstudio.com/fixml.html)
+### [Translating X12 Documents to XML](http://www.stylusstudio.com/edi/X12_translate.html)
 
-The advanced XML Schema handling and presentation capabilities of Stylus Studio have valuable implications for users of industry-specific XML message sets. 
+The X12 to XML Converter is a built-in function of the adapter library. The XML that is generated is well commented and indented, and can be used anywhere XML is normally used — with XML Schemas, XSLT, XQuery, etc.
 
-### [XML Publisher](http://www.stylusstudio.com/xml/publisher.html)
+### [Mapforce - The Unfortunate Users of Altova Mapforce](http://www.stylusstudio.com/mapforce.html)
 
-The XML Publisher lets you easily design beautiful documents in HTML or PDF format from relational, XML and other data sources using XSL:FO or XSLT, using an intuitive visual interface.
+Read what the XML developer community has to say about Altova Mapforce.
 
-### [Database-to-XML Mapping](http://www.stylusstudio.com/db_to_xml_mapper.html)
+### [FLWOR - An Introduction to the XQuery FLWOR Expression](http://www.stylusstudio.com/xquery_flwor.html)
 
-Stylus Studio features several database-to-XML mapping tools that allow you to easily query a relational database using SQL/XML or SQL and render the results as XML. Stylus Studio also supports the world's first and only visual SQL/XML Editor!
+An XQuery FLWOR Tutorial, covering an introduction to the main constructs of the XQuery FLWOR expression, including: For, Let, Where, Order By, and Return. Written by the W3C's Dr. Michael Kay.
 
 #### [Stylus Most Wanted](https://web.archive.org/advertise.html "Advertise with Stylus Studio")
 
