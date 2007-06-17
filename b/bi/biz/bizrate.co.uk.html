@@ -1,14 +1,17 @@
-<!--The following is the downloaded HTML source of the bizrate.co.uk privacy policy that was archived on 2006-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061213093223id_/http%3A//www.bizrate.co.uk/content/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bizrate.co.uk privacy policy that was archived on 2007-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070617053952id_/http%3A//www.bizrate.co.uk/content/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-	<title>Compare, Buy and Review at BizRate UK</title>
+	<title> Home at BizRate UK. Shop and buy online</title>
+	
 	<link href="http://file.bizrate.co.uk/css/site/nav.css" rel="stylesheet" type="text/css">
 	<link href="http://file.bizrate.co.uk/css/site/features.css" rel="stylesheet" type="text/css">
 	<link href="http://file.bizrate.co.uk/css/l_exp.css" rel="stylesheet" type="text/css">
 	<link href="http://file.bizrate.co.uk/css/about.css" rel="stylesheet" type="text/css">
 	
-	<link rel="stylesheet" href="http://file.bizrate.co.uk/br/gb/css/sitewide_fonts.css" type="text/css">
+	
+		<link rel="stylesheet" href="http://file.bizrate.co.uk/br/gb/css/sitewide_fonts.css" type="text/css">
+		
 	
 	<base target="_top">
 	<meta name="ROBOTS" content="NOODP">
@@ -16,208 +19,178 @@
 	<meta name="description" content="Compare prices, read reviews and check online store ratings at BizRate UK before you buy online">
 	<meta name="content-language" content="en-GB">
 	<meta http-equiv="content-language" content="en-GB">
-	<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
 	<link rel="shortcut icon" href="http://img.bizrate.co.uk/site/smiley.ico">
-	<script language="JavaScript" src="http://file.bizrate.co.uk/css/popup.js" type="text/javascript"></script>
-	<script language="JavaScript" src="http://file.bizrate.co.uk/css/footer.js" type="text/javascript"></script>
 	
-    <script language="JavaScript" src="http://file.bizrate.co.uk/scripts/cs_js.js" type="text/javascript"></script>
-    
+<script language="JavaScript" src="http://file.bizrate.co.uk/yui/yahoo/yahoo-min.js" type="text/javascript"></script>
+<script language="JavaScript" src="http://file.bizrate.co.uk/yui/dom/dom-min.js" type="text/javascript"></script>
+<script language="JavaScript" src="http://file.bizrate.co.uk/br/common/scripts/bizrate.js" type="text/javascript"></script>
+<script language="JavaScript1.1" type="text/javascript">
 
-
-	<script language="JavaScript1.1" type="text/javascript">
-	<!--
-		function switchAction(formObj) {
-			var current_keyword = "";
-			if (formObj.cat_id.value=="offers") {
-				formObj.action = "http://www.bizrate.co.uk/offers/savings_center.xpml";
-				formObj.cat_id.value = 1;
-			} else if (formObj.cat_id.value=="stores") {
-				formObj.action = "http://www.bizrate.co.uk/merchant/results.xpml";
-				formObj.cat_id.value = 1;
-			} else if (formObj.cat_id.value=="marketplace") {
-				formObj.action = "http://www.bizrate.co.uk/buy/superfind.xpml";
-				formObj.cat_id.value = 1;
-			} else {
-			
-				formObj.action = "http://www.bizrate.co.uk/buy/superfind.xpml";
+	myTemplate = function() {
+		return {
+			init: function() {
+				myInternationalRedirectorConfigs = {
+					
+				};
+		
 				
-			
-			}
-			return false;
-		}
+				myPageConfigs = {
+					token:'47',
+					focusElementId:'searchTerm',
+					DLDESC:'BizRate UK - Home',
+					DLURL:'/content/privacy.html',
+					local_message:'Bookmark this page by pressing %keystroke%',
+					currentKeyword:'',
+					focusActive:false,
+					actions:{
+						offers:'/offers/savings_center.xpml',
+						stores:'/merchant/results.xpml',
+						marketplace:'/buy/superfind.xpml',
+						
+							default_action:'/buy/superfind.xpml'
+						
+					},
+					sfsk:false
+				};
 
-		var override_search_focus = 0;  //set to 1 where js/popup is spawned or popup loses focus
+				myInternationalRedirector = new BIZRATE.widget.InternationalRedirector(myInternationalRedirectorConfigs);
 
-		function setSearchFocus () {
-			if (override_search_focus == 0) {
-				document.forms[0].keyword.focus();
-			}
-		}
-
-		function bookmarkThisPage() {
-			agent = navigator.userAgent.toLowerCase();
-			app = navigator.appVersion.toLowerCase();
-			var varKey = "D";
-			var varCommandKey = "Ctrl";
-			if (agent.indexOf("opera") == 0) { varKey = "T"; }
-			if (app.indexOf("macintosh") > 0) { varCommandKey = "Command"; }
-			if ((app.indexOf("msie") > 0) && (parseInt(app) >= 4) && (app.indexOf("macintosh") <= 0)) {DLURL = "http://www.bizrate.co.uk/content/content.xpml?content=privacy";
-				DLDESC = "BizRate UK - Home";
-				window.external.AddFavorite(DLURL,DLDESC);
-			} else {
-				var key_combination = varCommandKey+'-'+varKey;
-				var local_message = "Bookmark this page by pressing %keystroke%";
-				local_message = local_message.replace(/%keystroke%/g, key_combination);
-				local_message = local_message.replace(/&#xFC\;/g, 'ü');
-				alert(local_message);
+				myPage = new BIZRATE.widget.Page(myPageConfigs);
+				myPage.init();
 			}
 		}
-	//-->
+	}();
+</script>
+
+
+	<script language="JavaScript" type="text/javascript">
+//		openPopup('http://www.bizrate.co.uk/features/product/review_thanks_popup.xpml?aud=', 'shopzilla_popup' , 'height=315,width=450,scrollbars=no,resizable=no');
 	</script>
 
-
 </head>
-<body style="margin:0px 0px 0px 0px;" onload="">
-<div id="overlay"></div>
-<div style="margin:0px 20px 10px 20px;text-align:center;">
-	<div style="margin:0px auto 0px auto;width:956;text-align:left;">
-
-		
-
-		
-
-		<table border="0" width="100%" cellpadding="0" cellspacing="0">
-			<tbody><tr>
-				<td valign="top" style="padding:10px 0px 2px 18px;"><a href="/"><img src="http://img.bizrate.co.uk/br/gb/logos/default.gif" border="0" alt="BizRate UK" title="BizRate UK" vspace="0">
-</a></td>
-				<td align="right" valign="top">
-					<div style="font-size: 11px; padding:20px 18px 2px 0px;">
-						
-						<div style="padding:5px 0px 0px 0px;"><a href="#" onclick="bookmarkThisPage();return false;">Bookmark this page!</a></div>
-					</div>
-				</td>
-			</tr>
-		</tbody></table>
-
-		<div id="tabs2">
-			<table border="0" cellpadding="0" cellspacing="0" align="center">
-				<tbody><tr>
-					 
- 
-<td id="a0" class="on"><div id="a0" class="tab_on"><a href="http://www.bizrate.co.uk/">Home</a></div></td>
-
-
- 
-<td id=""><div id="" class="tab"><a href="http://www.bizrate.co.uk/clothing_accessories/">Clothing</a></div></td>
-
-
- 
-<td id=""><div id="" class="tab"><a href="http://www.bizrate.co.uk/home_garden/">Home &amp; Garden</a></div></td>
-
-
- 
-<td id=""><div id="" class="tab"><a href="http://www.bizrate.co.uk/toys_games/">Toys</a></div></td>
-
-
- 
-<td id=""><div id="" class="tab"><a href="http://www.bizrate.co.uk/computers_software/">Computers</a></div></td>
-
-
- 
-<td id="holiday_intl"><div id="holiday_intl" class="tab"><a href="http://www.bizrate.co.uk/boutique/index__g_id--1761.html">Christmas Gifts</a></div></td>
-
-
- 
-<td id=""><div id="" class="tab"><a href="http://www.bizrate.co.uk/appliances/">Appliances</a></div></td>
-
-
- 
-<td id=""><div id="" class="tab"><a href="http://www.bizrate.co.uk/health_beautysupplies/">Health &amp; Beauty</a></div></td>
-
-
- 
-<td id=""><div id="" class="tab"><a href="http://www.bizrate.co.uk/electronics/">Electronics</a></div></td>
-
-
- 
-<td id=""><div id="" class="tab"><a href="http://www.bizrate.co.uk/ratings_guide/guide.html">Store Ratings</a></div></td>
-
-
-
-
-					<td class="j"><div id="j"><a href="http://www.bizrate.co.uk/categoryguide.html"><img src="http://img.bizrate.co.uk/site/arrow_right_9x10.gif" width="9" height="10" alt="" border="0" align="absmiddle" style="margin-right: 2px;">All Departments</a></div></td>
-				</tr>
-			</tbody></table>
-		</div>
+<body class="tkn47" onload="myTemplate.init();">
+	<div id="overlay"></div>
 	
-		<div id="s">
-			<!-- include/undeca/headers/search_bar.xmi -->
-<form action="/buy/superfind.xpml" id="sf" name="sf" onsubmit="switchAction(this);">
-<input type="hidden" name="search_box" value="1">
-I'm shopping for <input type="hidden" name="sfsk" value="0"><input type="text" name="keyword" value="" maxlength="256" size="30" style="font-size: 12px;"> in <select name="cat_id" style="font-size: 12px;">
+	
+	<div class="content">
+		<div id="header">
+			<ul id="tools">
+				
+				<li><a href="#" onclick="return myPage.bookmarkThisPage();">Bookmark this page!</a></li>
+			</ul>
+			
+<div id="siteLogo"><a href="/"><img src="http://img.bizrate.co.uk/br/gb/images/logos/default.gif" border="0" alt="BizRate UK" title="BizRate UK" vspace="0"></a></div>
+
+			
+			<br clear="all">
+
+			
+<div id="tabs2">
+	<table border="0" cellpadding="0" cellspacing="0" align="center">
+		<tbody><tr>
+			
+				
+				<td id="a0" class="on"><div id="a0" class="tab_on"><a href="/">Home</a></div></td>
+			
+				
+				<td id=""><div id="" class="tab"><a href="/clothing_accessories/">Clothing</a></div></td>
+			
+				
+				<td id=""><div id="" class="tab"><a href="/home_garden/">Home &amp; Garden</a></div></td>
+			
+				
+				<td id=""><div id="" class="tab"><a href="/toys_games/">Toys</a></div></td>
+			
+				
+				<td id=""><div id="" class="tab"><a href="/computers_software/">Computers</a></div></td>
+			
+				
+				<td id=""><div id="" class="tab"><a href="/appliances/">Appliances</a></div></td>
+			
+				
+				<td id=""><div id="" class="tab"><a href="/health_beautysupplies/">Health &amp; Beauty</a></div></td>
+			
+				
+				<td id=""><div id="" class="tab"><a href="/electronics/">Electronics</a></div></td>
+			
+				
+				<td id=""><div id="" class="tab"><a href="/ratings_guide/guide.html">Store Ratings</a></div></td>
+			
+            <td class="j"><div id="j"><a href="/categoryguide.html"><img src="http://img.bizrate.co.uk/site/arrow_right_9x10.gif" width="9" height="10" alt="" border="0" align="absmiddle" style="margin-right: 2px;">All Departments</a></div></td>
+		</tr>
+	</tbody></table>
+</div>
+
+            
+            <div id="search_bar">
+	<form id="searchForm">
+		<input type="hidden" name="search_box" value="1">
+		I'm shopping for <input type="hidden" name="sfsk" value="0"><input type="text" name="keyword" value="" maxlength="256" size="30" style="font-size: 12px;"> in <select name="cat_id" style="font-size: 12px;">
 	<option value="1">All Departments</option>
-	<option value="18000000">Appliances</option>
-	<option value="22000000">Automotive</option>
-	<option value="17000000">Babies &amp; Kids</option>
-	<option value="80">Books &amp; Magazines</option>
-	<option value="10000000">Clothing &amp; Accessories</option>
-	<option value="4">Computers &amp; Software</option>
-	<option value="51">DVDs &amp; Videos</option>
-	<option value="11000000">Electronics</option>
-	<option value="16000000">Gifts, Flowers &amp; Food</option>
-	<option value="50">Health &amp; Beauty Supplies</option>
-	<option value="13000000">Home &amp; Garden</option>
-	<option value="30000000">Jewellery &amp; Watches</option>
-	<option value="52">Music</option>
-	<option value="21000000">Musical Instruments &amp; Accessories</option>
-	<option value="24">Office Supplies</option>
-	<option value="20000000">Other Products</option>
-	<option value="31000000">Pet Supplies</option>
-	<option value="12000000">Sports Equipment &amp; Outdoor Gear</option>
-	<option value="14000000">Toys &amp; Games</option>
-	<option value="15000000">Video Games</option>
+	<option value="13514">Appliances</option>
+	<option value="13516">Automotive</option>
+	<option value="13186">Babies &amp; Kids</option>
+	<option value="13251">Baby Girls</option>
+	<option value="13242">Books &amp; Magazines</option>
+	<option value="13512">Clothing &amp; Accessories</option>
+	<option value="12972">Computers &amp; Software</option>
+	<option value="13144">DVDs &amp; Videos</option>
+	<option value="13909">Electronics</option>
+	<option value="12927">Gifts, Flowers &amp; Food</option>
+	<option value="13142">Health &amp; Beauty Supplies</option>
+	<option value="13184">Home &amp; Garden</option>
+	<option value="13518">Jewellery &amp; Watches</option>
+	<option value="13147">Music</option>
+	<option value="13188">Musical Instruments &amp; Accessories</option>
+	<option value="13033">Office Supplies</option>
+	<option value="12930">Other Products</option>
+	<option value="13896">Pet Supplies</option>
+	<option value="12925">Sports Equipment &amp; Outdoor Gear</option>
+	<option value="13513">Toys &amp; Games</option>
+	<option value="13910">Video Games</option>
 	<option value="">----------------------</option>
 	<option value="stores">Store Ratings</option>
 </select>
 
 
-&nbsp;<input type="submit" name="SEARCH_GO" value="Find it!" style="font-size: 12px;">
-</form>
+		&nbsp;<input type="submit" id="searchTerm" name="SEARCH_GO" value="Find it!">
+	</form>
+</div>
 
-		</div>
-	
-		
+
 			
 				
-			
+					
+				
+	
+				
 
-			
 
-
-
-			
-				<table border="0" id="bc" width="100%" cellspacing="0" cellpadding="0" style="z-index: 100; width: 100%; padding-top: 2px;">
-					<tbody><tr>
-						<td width="75%" valign="top">
-							
-								<a href="http://www.bizrate.co.uk/">Home</a> &gt; <a href="/content/about.html">About BizRate UK</a> &gt; <span class="breadcrumbCurrent">Privacy Policy
-							
-						</span></td>
-						<td width="25%" valign="top" align="right" nowrap="" style="font-size: 11px;">
+	
+				
+					<table border="0" id="bc" width="100%" cellspacing="0" cellpadding="0">
+						<tbody><tr>
+							<td width="75%" valign="top">
+								
+									<a href="/">Home</a> &gt; <a href="/content/about.html">About BizRate UK</a> &gt; <span class="breadcrumbCurrent">Privacy Policy</span>
+								
+							</td>
+							<td width="25%" valign="top" align="right" nowrap="" id="features">
  
  <!-- email link //-->
 
  	<a rel="nofollow" href="/features/email_page__page_title--Shopzilla%2C+Inc.+Privacy+Policy__page_token--47.html"><span class="headerLinksA">Email this page</span></a>
 
 
-							
-						</td>
-					</tr>
-				</tbody></table>
+								
+							</td>
+						</tr>
+					</tbody></table>
+				
 			
-		
-		<script language="JavaScript" type="text/javascript">var noads =0;</script>
+		</div>
+	</div>
+	<div class="content">
 <div id="search_header">
 	<table border="0" width="100%" cellspacing="0" cellpadding="0">
 		<tbody><tr>
@@ -264,15 +237,7 @@ I'm shopping for <input type="hidden" name="sfsk" value="0"><input type="text" n
 
 			</td>
 			<td width="76%" valign="top" style="padding-left: 18px;">
-				
-	<h1>Shopzilla, Inc. Privacy Policy</h1>
-
-<style>
-.clickseal {
-	float:right;
-	margin:0px 0px 5px 5px;
-}
-</style>
+				<h1>Shopzilla, Inc. Privacy Policy</h1>
 <div class="clickseal">
 	<a href="http://www.truste.org/ivalidate.php?url=www.bizrate.com&amp;sealid=101" rel="nofollow" target="_blank"><img src="http://img.bizrate.co.uk/br/common/truste/clickseal.gif" width="91" height="73" border="0"></a>
 </div>
@@ -548,7 +513,7 @@ var _cookie_domain_periods = "3";
 
 
 var _mtrcs_hostname = "bizrate.co.uk";
-var _my_timestamp = "1166002340000";
+var _my_timestamp = "1182058792000";
 
 
 </script>
@@ -567,18 +532,18 @@ s.pageName = "47 : About, Privacy";
 
 
 s.prop1    = "";
-s.prop2    = "40" + ' ' + s.pageName;
+s.prop2    = "92" + ' ' + s.pageName;
 s.prop3    = "GB";  
 s.prop4    = "BR"; 
 s.prop6    = "bizrate"; 
-s.prop7    = "1"; 
+s.prop7    = "16695"; 
 s.prop8    = "wlk"; 
-s.prop10   = "11660023407141830001500660000028701"; 
+s.prop10   = "11820587920963640033100620101025578"; 
 
 s.prop11   = ""; 
 
-s.prop12   = "40"; 
-s.prop14   = "506600287011042340" ; 
+s.prop12   = "92"; 
+s.prop14   = "306211255781377592" ; 
 s.prop17   = "wlk"; 
 
 s.prop18   = "1"; 
@@ -609,44 +574,57 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 
 
 
-		<div id="f" style="margin:15px 0px 0px 0px;border:0px;padding:0px 0px 0px 0px;">
+	</div>
+	<div class="content">
+		<div id="footer">
 			
-				<div id="searchInFooter" style="color: #000; margin: 0px 0px 18px 0px;">
-					<div id="s">
-						<!-- include/undeca/headers/search_bar.xmi -->
-<form action="/buy/superfind.xpml" id="sf" name="sf" onsubmit="switchAction(this);">
-<input type="hidden" name="search_box" value="1">
-I'm shopping for <input type="hidden" name="sfsk" value="0"><input type="text" name="keyword" value="" maxlength="256" size="30" style="font-size: 12px;"> in <select name="cat_id" style="font-size: 12px;">
+				<div id="searchInFooter">
+					<div id="search_bar">
+	<form id="searchForm">
+		<input type="hidden" name="search_box" value="1">
+		I'm shopping for <input type="hidden" name="sfsk" value="0"><input type="text" name="keyword" value="" maxlength="256" size="30" style="font-size: 12px;"> in <select name="cat_id" style="font-size: 12px;">
 	<option value="1">All Departments</option>
-	<option value="18000000">Appliances</option>
-	<option value="22000000">Automotive</option>
-	<option value="17000000">Babies &amp; Kids</option>
-	<option value="80">Books &amp; Magazines</option>
-	<option value="10000000">Clothing &amp; Accessories</option>
-	<option value="4">Computers &amp; Software</option>
-	<option value="51">DVDs &amp; Videos</option>
-	<option value="11000000">Electronics</option>
-	<option value="16000000">Gifts, Flowers &amp; Food</option>
-	<option value="50">Health &amp; Beauty Supplies</option>
-	<option value="13000000">Home &amp; Garden</option>
-	<option value="30000000">Jewellery &amp; Watches</option>
-	<option value="52">Music</option>
-	<option value="21000000">Musical Instruments &amp; Accessories</option>
-	<option value="24">Office Supplies</option>
-	<option value="20000000">Other Products</option>
-	<option value="31000000">Pet Supplies</option>
-	<option value="12000000">Sports Equipment &amp; Outdoor Gear</option>
-	<option value="14000000">Toys &amp; Games</option>
-	<option value="15000000">Video Games</option>
+	<option value="13514">Appliances</option>
+	<option value="13516">Automotive</option>
+	<option value="13186">Babies &amp; Kids</option>
+	<option value="13251">Baby Girls</option>
+	<option value="13242">Books &amp; Magazines</option>
+	<option value="13512">Clothing &amp; Accessories</option>
+	<option value="12972">Computers &amp; Software</option>
+	<option value="13144">DVDs &amp; Videos</option>
+	<option value="13909">Electronics</option>
+	<option value="12927">Gifts, Flowers &amp; Food</option>
+	<option value="13142">Health &amp; Beauty Supplies</option>
+	<option value="13184">Home &amp; Garden</option>
+	<option value="13518">Jewellery &amp; Watches</option>
+	<option value="13147">Music</option>
+	<option value="13188">Musical Instruments &amp; Accessories</option>
+	<option value="13033">Office Supplies</option>
+	<option value="12930">Other Products</option>
+	<option value="13896">Pet Supplies</option>
+	<option value="12925">Sports Equipment &amp; Outdoor Gear</option>
+	<option value="13513">Toys &amp; Games</option>
+	<option value="13910">Video Games</option>
 	<option value="">----------------------</option>
 	<option value="stores">Store Ratings</option>
 </select>
 
 
-&nbsp;<input type="submit" name="SEARCH_GO" value="Find it!" style="font-size: 12px;">
-</form>
+		&nbsp;<input type="submit" id="searchTerm" name="SEARCH_GO" value="Find it!">
+	</form>
+</div>
 
-					</div>
+					
+						<style>
+							#bottom_bread_crumb	{margin:0px 0px 0px 0px; text-align:left; font-size:14px;}
+							#bottom_bread_crumb a {font-size:14px;}
+						</style>
+						<div id="bottom_bread_crumb">
+							
+								<a href="/">Home</a> &gt; <a href="/content/about.html">About BizRate UK</a> &gt; <span class="breadcrumbCurrent">Privacy Policy</span>
+							
+						</div>
+					
 				</div>
 			
 
@@ -655,17 +633,21 @@ I'm shopping for <input type="hidden" name="sfsk" value="0"><input type="text" n
 			
 			<div style="clear:both;text-align:center;">
 				
-				<a href="http://www.bizrate.co.uk/">Home</a> &nbsp;|&nbsp;
+				<a href="/">Home</a> &nbsp;|&nbsp;
 				
-				<a href="http://www.bizrate.co.uk/content/about.html">About BizRate UK</a> &nbsp;|&nbsp;
-				<a href="http://www.bizrate.co.uk/content/privacy.html">Privacy Policy</a> &nbsp;|&nbsp;
-				<a href="http://www.bizrate.co.uk/content/legal.html">User Agreement</a>
+                <a href="/content/about.html">About BizRate UK</a> &nbsp;|&nbsp;
+				<a href="/content/privacy.html">Privacy Policy</a> &nbsp;|&nbsp;
+				<a href="/content/legal.html">User Agreement</a>
 				
+				&nbsp;|&nbsp; <a href="/content/press_releases.html" rel="nofollow">Press</a>
 			</div>
 			<div>
 				<a href="/sitemap/index.html">BizRate UK Sitemap Index</a> &nbsp;|&nbsp;
 				<a href="/sitemap/top_searches.html">BizRate UK Top Searches</a> &nbsp;|&nbsp;
 				<a href="/sitemap/top_products.html">BizRate UK Top Products</a>
+				
+				 &nbsp;|&nbsp;	<a href="/ratings_guide/guide.html">BizRate UK Store Ratings</a>
+				
 			</div>
 			
 			<div style="margin:20px 0px 0px 0px;">
@@ -677,20 +659,19 @@ I'm shopping for <input type="hidden" name="sfsk" value="0"><input type="text" n
 			<div>
 				
 				
-				
-					<a href="http://fr.bizrate.com/" style="text-decoration:none;color:#000;">Shopping in France:</a>&nbsp;<a href="http://fr.bizrate.com/">Fr.BizRate.com</a> &nbsp;|&nbsp;
-				
-				
-					<a href="http://de.bizrate.com/" style="text-decoration:none;color:#000;">Shopping in Germany:</a>&nbsp;<a href="http://de.bizrate.com/">De.BizRate.com</a>
+					BizRate France - <a href="http://fr.bizrate.com/" style="text-decoration: none; color: #000;">Shopping</a> &nbsp;|&nbsp;
 				
 				
-					<p>
-						<a href="http://www.bizrate.com/" style="text-decoration:none;color:#000;">Comparison shopping in the US? Compare prices, product reviews and store ratings at BizRate.</a>
+					BizRate Germany - <a href="http://de.bizrate.com/" style="text-decoration: none; color: #000;">Schnäppen</a>
+				
+                 
+                    <p>
+					    <a href="http://www.bizrate.com/" style="text-decoration: none; color: #000;">Comparison shopping in the US? Compare prices, product reviews and store ratings at BizRate.</a>
 					</p>
 				
 			</div>
 			
-			<div>© 2006 Shopzilla, Inc. Shopzilla is a <a href="http://www.scripps.com" target="_blank">Scripps</a> media company.</div>
+			<div>© 2007 Shopzilla, Inc. Shopzilla is a <a href="http://www.scripps.com" target="_blank">Scripps</a> media company.</div>
 			
 
 			
@@ -701,14 +682,15 @@ I'm shopping for <input type="hidden" name="sfsk" value="0"><input type="text" n
 		</div>
 		
 	</div>
-</div>
+
 
 
 
 <a href="/color_bumper.xpml"><img src="http://img.bizrate.co.uk/site/trans.gif" width="10" height="10" border="0" alt=""></a>
 
 <!-- TKN#47 -->
-<!-- APPSERVER: dante066.shopzilla.lax -->
+<!-- APPSERVER: dante062.sl1.shopzilla.hou -->
+
 
 
 
