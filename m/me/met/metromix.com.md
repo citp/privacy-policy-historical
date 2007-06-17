@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metromix.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019051721id_/http%3A//metromix.chicagotribune.com/go/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metromix.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617032551id_/http%3A//metromix.chicagotribune.com/go/services/privacy) for the most accurate reproduction.*
 
 # Metromix. Privacy policy
 
@@ -42,11 +42,11 @@ Contacting us.
 
 We can be reached by contacting:
 
-chicagotribune.com  
-c/o Royce Vibbert  
-435 Michigan Avenue  
+Matt McGuire, editor  
+Metromix  
+435 Michigan Ave.  
 Chicago, IL 60611  
-Email: Rvibbert@tribune.com
+e-mail: mmcguire@tribune.com
 
 **Changes to this policy.**
 
