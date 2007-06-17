@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the owenscorning.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206041157id_/http%3A//owenscorning.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the owenscorning.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617025702id_/http%3A//www.owenscorning.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Owens Corning Privacy Policy
 
@@ -26,4 +26,4 @@ Children
 Owens Corning has no intention of collecting any personal information from individuals under 18 years of age. If a child has provided us with personal information without the consent of a parent or guardian, a parent or guardian should contact us at [answers@answers.owenscorning.com](mailto:answers@answers.owenscorning.com) if they would like us to use reasonable effort to delete this information from our files. 
 
 Contact Information  
-If you do not want your personal information collected or shared, please contact Owens Corning at [answers@answers.owenscorning.com](mailto:answers@answers.owenscorning.com) and we will use reasonable efforts to delete your information from our files. If you would like to participate in any of the offerings on our site and do not wish to submit information over the Internet, please call us at 1-800-GET-PINK, or send your U.S. mail to: Owens Corning, One Owens Corning Parkway, Toledo, OH, USA 43659. 
+If you do not want your personal information collected or shared, please contact Owens Corning at [answers@answers.owenscorning.com](mailto:answers@answers.owenscorning.com) and we will use reasonable efforts to delete your information from our files. If you would like to participate in any of the offerings on our site and do not wish to submit information over the Internet, please call us at 1-800-GET-PINK™, or send your U.S. mail to: Owens Corning, One Owens Corning Parkway, Toledo, OH, USA 43659. 
