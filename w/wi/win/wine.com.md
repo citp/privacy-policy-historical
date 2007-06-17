@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wine.com privacy policy that was archived on 2006-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061222225608id_/http%3A//www.wine.com/customercare/PrivacyInfo.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wine.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617175628id_/http%3A//www.wine.com/customercare/PrivacyInfo.asp) for the most accurate reproduction.*
 
 # Wine.com - Privacy Policy
 
@@ -51,7 +51,7 @@ Wine.com order forms request data from users including: Contact information such
 
 ### Gift Recipients
 
-We collect contact information, such as name, shipping address and phone number, for gift recipients to ensure correct gift delivery. We do not sell, share or rent any contact information for gift recipients with third parties.
+We collect contact information, such as name, shipping address and phone number, for gift recipients to ensure correct gift delivery. We do not sell, share or rent any contact information for gift recipients with third parties. We do not sell or rent any personally identifiable information that you provide to us regarding gift recipients, but they may receive offers from us highlighting new features, new products and services and special offers we think they will find of interest. Also we may send marketing offers to gift recipients on behalf of ourselves and our business partners. In connection with such offers, we allow gift recipients to opt out of receiving future marketing-related mailings from us.
 
 [back to top]
 
@@ -141,6 +141,6 @@ Wine.com, Inc.
 114 Sansome Street, 6th Floor  
 San Francisco, CA 94104
 
-The Privacy Notice posted on this site was updated on on June 20, 2006.
+The Privacy Notice posted on this site was updated on on May 16, 2007.
 
 [back to top]
