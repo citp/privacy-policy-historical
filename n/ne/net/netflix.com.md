@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the netflix.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205191356id_/http%3A//www.netflix.com/PrivacyPolicy%3Fhnjr%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netflix.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617181146id_/http%3A//www.netflix.com/PrivacyPolicy%3Fhnjr%3D8) for the most accurate reproduction.*
 
-# Netflix - Rent DVDs Online - Free Trial
+# Netflix Online Movie Rentals - Rent DVDs, Classic Films to DVD New Releases - Free Trial
 
 This Privacy Policy explains our policy regarding the collection, use and disclosure of your personal information. As we update and expand our services, this policy may change, so please refer back to it periodically. By accessing our Web site or using our services, you consent to our information practices. 
 
@@ -10,7 +10,7 @@ Personal information means information that can be used to identify and contact 
 
 When you register or re-register at our Web site, we ask you to supply us with personal information so that we can provide, enhance and personalize our services and marketing efforts. For similar reasons, we may supplement the personal information you provide with publicly available information about you. We use this personal information to process your registration, your orders and your payments, and to communicate with you on these and other topics. We also use your e-mail address to send you newsletters, as well as messages about Netflix special offers, promotional announcements and consumer surveys. Occasionally, we may send these materials to you via postal mail, using the shipping address provided. Our mailers that contain the DVDs may also contain promotional items or advertisements. If you no longer want to receive the newsletters, other announcements or non-DVD-mailer postal mail, simply access the Email Subscriptions page under Your Account and uncheck those items to unsubscribe. Please note that you cannot unsubscribe from certain correspondence from us, including messages relating to your account transactions. 
 
-We keep track of your interactions with us, including but not limited to your site activity, DVD selections, movie ratings, payment history and correspondence. We use this information for such purposes as providing recommendations on movies we think will be enjoyable, personalizing the site to better reflect particular interests, helping us quickly and efficiently respond to inquiries and requests and otherwise enhancing our service offering for our customers. We also provide analyses of our users in the aggregate to prospective partners, advertisers and other third parties. We may also disclose and otherwise use, on an anonymous basis, movie ratings, commentary, reviews and other non-personal information about customers. 
+We keep track of your interactions with us, including but not limited to your site activity, DVD selections, movie ratings, payment history and correspondence as well as any instant movie viewing and related activity. We use this information for such purposes as providing recommendations on movies we think will be enjoyable, personalizing the site to better reflect particular interests, tracking your available instant-viewing hours, helping us quickly and efficiently respond to inquiries and requests and otherwise enhancing our service offering for our customers. We also provide analyses of our users in the aggregate to prospective partners, advertisers and other third parties. We may also disclose and otherwise use, on an anonymous basis, movie ratings, consumption habits, commentary, reviews and other non-personal information about customers. 
 
 While using the Netflix service and Web site, you will have opportunities to post reviews or other personal information in public forums. Please understand that when you post such information, it is made public and is not subject to this policy. 
 
@@ -62,4 +62,4 @@ netflix.
 
 com. Our address is 100 Winchester Circle, Los Gatos, CA 95032, Attention: General Counsel. 
 
-_Last updated: March 2006_
+_Last updated: January 2007_
