@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the sophos.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212220455id_/http%3A//www.sophos.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sophos.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617090417id_/http%3A//www.sophos.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Sophos privacy policy
 
-Skip navigation
-
-This document was last updated on 18 February 2004.
+This document was last updated on 21 February 2007.
 
 ## General
 
@@ -14,19 +12,48 @@ We at Sophos are committed to safeguarding the privacy of visitors to our websit
 
 Whenever you give us personal data, you are consenting to its collection and use in accordance with our privacy policy. We will not share your personal information for marketing or any other purposes without your consent unless required by law.
 
-## Email guidelines
+## Sophos email communications
 
-Sophos has implemented the following guidelines for email delivery to recipients in the United States:
+Sophos adheres to the following policy in relation to deployment of Sophos email communications:
 
-  1. All emails sent to you by Sophos will clearly identify Sophos or the applicable division of Sophos as the sender.
+  1. All emails sent to you by the Sophos Group will clearly identify Sophos or the applicable division of Sophos as the sender.
   2. The subject line of any email sent by Sophos will always accurately describe the subject matter of the email.
   3. All emails sent to you by Sophos will include an option to unsubscribe from future email messages.
   4. You may unsubscribe from ALL Sophos mailing lists, with the exception of any emails regarding product updates, upgrades or renewals.
   5. All promotional emails sent to you by Sophos will include information that the email is an advertisement within either the body or the footer.
-  6. All emails sent to you by Sophos will include our physical postal address : Sophos Plc, The Pentagon, Abingdon Science Park, Abingdon, OX14 3YP, Oxon, United Kingdom
+  6. All emails sent to you by the Sophos Group will include our physical postal address.
   7. Any third party partners will be required to comply with legislative requirements on unsolicited emails and the use of data.
 
 
+
+Sophos sends emails to customers, partners and prospects from a number of different domains in both plain text and HTML email formats. Emails are sent using sender email addresses at:
+
+  * @sophos.com
+  * @sophos.de
+  * @sophos.fr
+  * @sophos.co.jp
+  * @sophos.it
+  * @sophos.010.com
+  * @sophos.au
+
+
+
+Sophos does use third-party companies to send emails on its behalf. Links inside emails sent by, or on behalf of, Sophos can point to URLs at the following domains:
+
+  * sophos.com
+  * sophos.de
+  * sophos.fr
+  * sophos.co.jp
+  * sophos.it
+  * sophos.010.com
+  * mail-sophos.com
+  * clicktactics.com
+
+
+
+If you receive an email which claims to come from Sophos which does not use these domains, or if you are suspicious that an email may not be an approved Sophos email communication, then please send a copy of the email to [customerservice@sophos.com](mailto:customerservice@sophos.com) so we can investigate.
+
+Sophos has published best practise guidelines to help internet users learn how to avoid phishing emails at <http://www.sophos.com/security/best-practice/phishing.html>
 
 ## What personal data does Sophos collect?
 
