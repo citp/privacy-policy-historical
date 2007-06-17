@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hannaandersson.com privacy policy that was archived on 2006-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061030222433id_/http%3A//www.hannaandersson.com/Static.asp%3Fpg%3D16) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hannaandersson.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617120844id_/http%3A//www.hannaandersson.com/Static.asp%3Fpg%3D16) for the most accurate reproduction.*
 
 # Security & Privacy
 
@@ -70,5 +70,5 @@ If a customer prefers not to receive information from Hanna Andersson through e-
 If a customer asks Hanna Andersson to remove their name and address form our e-mail or postal mailing lists, we maintain that name in a "Do Not Mail" file to ensure that we will honor that request. Important Note: Because we plan mailings in advance, such requests may take from six to eight weeks to become effective. Please also note that when a customer makes a purchase, we send e-mails to confirm the order, and may also contact the customer by telephone, postal mail or e-mail if we have additional questions regarding the order. 
 
 How to Contact Us  
-If you would like to contact us regarding our privacy policy and practices please e-mail: [customer_service@hannaAndersson.com](http://www.hannaandersson.com/email.asp).  
+If you would like to contact us regarding our privacy policy and practices please e-mail: [customerservice@hannaAndersson.com](http://www.hannaandersson.com/email.asp).  
 | 
