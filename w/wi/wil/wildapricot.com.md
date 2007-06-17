@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wildapricot.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214115354id_/http%3A//www.wildapricot.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildapricot.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618010732id_/http%3A//www.wildapricot.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# web software for non-profits and associations: events, member database, donations, website
+# Integrated, Web-based Association Membership Management Solution: Free Trial!
 
 ### Privacy Policy
 
