@@ -1,80 +1,91 @@
-> *The following text is extracted and transformed from the projectpayday.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215071426id_/http%3A//www.projectpayday.com/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectpayday.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617045313id_/http%3A//www.projectpayday.com/privacy.cgi) for the most accurate reproduction.*
 
 # Project Payday Privacy Policy
 
 **Project Payday Privacy Policy**
 
-ProjectPayday.com takes your privacy seriously, and has created this Privacy Policy in order to demonstrate our firm commitment to online privacy. This page outlines our information gathering and dissemination practices, and our use of personally identifiable information.
+We take your privacy very seriously, and we've created this Privacy Policy in order to demonstrate our firm commitment to online privacy.
+
+This page outlines our information gathering and dissemination practices, and our use of personally identifiable information.
 
 **_What information does Project Payday collect from visitors?_**
 
-Project Payday collects information from our visitors and users of our website and uses the information internally for marketing and administration purposes, in the fulfillment of our service commitment to you, or as legally required under the law.
+Project Payday collects information from our visitors and users of our website and uses the information internally for marketing and administration purposes, in the fulfillment of our service commitment to you, or as required under the law.
 
-As a user of the Project Payday website, Project Payday may collect your personally identifiable information (including certain financial information necessary to complete a transaction) when you visit our site or make a purchase.
+As a user of this website, Project Payday may collect your personally identifiable information when you visit our site and create a Project Payday account.
 
-Personally identifiable information may include, but is not limited to, your full name, home or other physical address, telephone number, email address, or credit card information.
+The personally identifiable information that we collect is limited to just your name and email address, and optionally your mailing address.
 
 Project Payday is the sole owner of the information collected on this site. We do not sell, share, or rent this information to others in any way.
 
 **_Why is information collected?_**
 
-Information may be collected in an effort to enhance your user experience, provide you with information regarding Project Payday services and special offers, and/or to provide you with the products and/or services that you purchase.
+Information may be collected in an effort to enhance your user experience, provide you with information regarding Project Payday services and special offers, and/or to provide you with the products and/or services you request.
 
-We, or our authorized third-party affiliates, may also collect general information about purchases as they correspond to our advertisements or products. This aggregate information may include demographic and usage information, but will not include personally identifiable information. This information is used in an aggregated manner (i.e. How many customers purchased product "X") to determine advertising effectiveness and is sometimes shared with our advertising partners for the same limited purpose.
+We, or our authorized third-party affiliates, may also collect general information about purchases as they correspond to our advertisements or products. This aggregate information may include demographic and usage information, but will not include personally identifiable information.
+
+This information is used in an aggregated manner (i.e. How many customers purchased product "X") to determine advertising effectiveness and is sometimes shared with our advertising partners for the same limited purpose.
 
 In addition, information is collected for the following purposes:
 
-  * When you order services or register on Project Payday properties, we may need you to provide your name, e-mail address, mailing address, phone number and credit card or checking account information to complete your purchase.
-  * When ordering products or services your information will be collected for purposes of payment, product delivery and/or customer service related to your purchase.
-  * By registering at our web site and creating a Project Payday account, you'll be added to our internal mailing list. As a registered user, we may contact you about customer service related issues, functionality changes to the web site, account updates, new services, and special offers we think you'll find valuable.
+  * Upon creating an account you must provide your name and email.
+  * Certain actions may cause you to be eligible for a cash rebate. We issue rebates via PayPal or a check in the mail. If you request your rebate via check, you will need to provide us with your mailing address.
+  * When ordering products or services your information will be collected for purposes of payment, product delivery and/or customer service.
+  * By registering at our web site and creating a Project Payday account, you'll be added to our internal mailing list. As a registered user, we may contact you about customer service related issues, functionality changes to the web site, account updates, new services, and special offers.
   
 
   
-**_Does Project Payday have security measures in place to protect my information?_**
+**_How does Project Payday protect my information?_**
 
-Project Payday has implemented a variety of security measures to maintain the safety of your personally identifiable information. Users' personal information is contained behind secured networks and is only accessible by a limited number of employees.
+We have implemented a variety of security measures to maintain the safety of your personally identifiable information. Users' personal information is contained behind secured networks and is only accessible by certain key employees.
 
-When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit card information you supply is transmitted via Secure Socket Layer (SSL) technology. Should it be necessary to transmit your personally identifiable information to a reputable third party vendor to fulfill our service commitment to you or process your credit card, Project Payday will require all recipients of such information to maintain the information as confidential information, use the information for the limited and intended purpose and agree not to disclose such information to third parties.
+We do not collect credit card or other financial information.
 
-**_Will Project Payday disclose the information it collects to outside parties?_**
+Should it be necessary to transmit your personally identifiable information to a reputable third party vendor to fulfill our service commitment to you, Project Payday will require all recipients of such information to maintain the information as confidential information, use the information for the limited and intended purpose and agree not to disclose such information.
 
-Project Payday does not rent, sell or share any of the information collected by this website with other people or any other companies, except to provide products or services you've requested, when we have your permission, or under the following circumstances:
+**_Will Project Payday disclose the information it collects to others?_**
+
+Project Payday does not rent, sell or share any of the information collected by this website with other people or any other companies, except to provide the products or services you've purchased or requested, when we have your permission, or under the following circumstances:
 
   * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;
-  * We believe it is necessary to share information in order to investigate, prevent, or take action in conjunction with illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Project Payday's Terms of Use, or as otherwise required by law;
-  * We are required by law to provide the IRS with Tax ID numbers and/or other personally identifiable information about Affiliates who promote Project Payday and earn over $600 in affiliate commissions in a calender year.  
+  * We believe it is necessary to share information in order to investigate, prevent, or take action in conjunction with illegal activities, suspected fraud, situations involving threats to the physical safety of any person, violations of Project Payday's Terms of Use, or as otherwise required by law;
+  * We are required by law to provide the IRS with Tax ID numbers and/or other personally identifiable information about Affiliates who promote Project Payday and earn over $600 in commissions in a calender year.  
 
 
   
 **_Does Project Payday use "cookies" or pixel "tags"?_**
 
-Cookies are bits of electronic information that a website can transfer to a visitor's hard drive to help tailor and keep records of his or her visit to the site. Cookies allow website operators to better customize visits to the site to your individual preferences.
+Cookies are bits of electronic information that a website can transfer to a visitor's hard drive to help tailor and keep records of his or her visit to the site. Cookies allow website operators to better customize a site to your individual preferences.
 
-The use of cookies is standard on the Internet and most major websites use them. Project Payday may use cookies to help provide you with a better experience on our site; however, we do not store personally identifying information in cookies.
+The use of cookies is standard on the Internet and most major websites use them. We may use cookies to help provide you with a better experience on our site; however, we do not store personally identifying information in cookies.
 
-Like many Web sites, Project Payday may also use pixel tags, also known as beacons, spotlight tags or web bugs, to improve our understanding of site traffic, visitor behavior, and response to promotional campaigns, as a supplement to our server logs and other methods of traffic and response measurement. We may also implement pixel tags provided by other companies, and limit the collection of information for the same purpose. We do not store personally identifying information in pixel tags.
+Like many Web sites, Project Payday may also use pixel tags, also known as beacons, spotlight tags or web bugs, to improve our understanding of site traffic, visitor behavior, and response to promotional campaigns, as a supplement to our server logs and other methods of traffic and response measurement.
 
-**_Can I access or modify the Personal Identifying Information that is collected?_**
+We may also implement pixel tags provided by other companies, and limit the collection of information for the same purpose. We do not store personally identifying information in pixel tags.
 
-You can view and/or modify the information provided to us at any time by logging in to your Project Payday account, and clicking the "Account Info" link. You may also submit your request to modify your account information via any of the methods listed below.
+**_Can I access or modify the Personal Identifying Information collected?_**
+
+You can view and/or modify the information provided to us at any time by logging in to your account, and clicking the "Account Info" link. You may also submit your request to modify your account information via any of the methods below.
 
 **_What if I want to Opt-Out of email communications from Project Payday?_**
 
-Project Payday provides every user with the opportunity to opt-out of receiving future promotional communications from us. You may do so in any of the following ways. Please note however that even if you opt-out you may still receive important announcements and/or updates regarding your Project Payday account unless you cancel it.
+Project Payday provides every user with the opportunity to opt-out of receiving future promotional communications from us. You may do so in the following ways. Please note however that even if you opt-out, you may still receive important announcements or updates regarding your Project Payday account.
 
 1\. Email: [support@projectpayday.com](mailto:support@projectpayday.com)  
-2\. Website: [http://www.projectpayday.com/contact.cgi](https://web.archive.org/contact.cgi)  
+2\. Website: [http://www.projectpayday.com/cancel.cgi](https://web.archive.org/cancel.cgi)  
 3\. Postal Mail: 381 Casa Linda Plaza #102, Dallas, TX 75218
 
 **_What happens if there is a transfer of Project Payday's business?_**
 
-As we continue to develop our business, we may acquire or divest various businesses and/or business assets, or be acquired ourselves. In such transactions, customer information generally is one of the transferred business assets.
+As we continue to develop our business, we may acquire or divest various business assets, or be acquired ourselves. In such transactions, customer information generally is one of the transferred assets.
 
-In the event of such a transaction you will be notified prior to your personally identifiable information being subject to a new Privacy Policy, and given the opportunity to opt-out.
+In the event of such a transaction you will be notified prior to your personally identifiable information being subject to a new Privacy Policy, and given the opportunity to opt-out should you desire to do so.
 
 **_Can children or minors use Project Payday?_**
 
-Project Payday does not knowingly collect or solicit any information from or about anyone under the age of 18. If we discover that we have received such information in violation of this policy, we will delete that information immediately. If you believe Project Payday has any information from or about anyone under 18, please contact us. If you are under 18, you may use Project Payday only under the supervision of a parent or guardian.
+Project Payday does not knowingly collect or solicit any information from or about anyone under the age of 18. If we discover we have received such information in violation of this policy, we will delete that information immediately.
+
+If you believe Project Payday has any information from or about anyone under the age of 18, please contact us. If you are under 18, you may use Project Payday only under the supervision of a parent or guardian.
 
 **_Links to Other Sites_**
 
@@ -82,10 +93,10 @@ This website may contain links to other sites. Please be aware that Project Payd
 
 **_Your consent_**
 
-By using our wsite, you consent to the collection and use of the information you provide according to this Privacy Policy. We reserve the right to change our Privacy Policy from time to time. If this policy is changed, we will post these changes on this page so that you are always aware of what information we collect and how we use it.
+By using this website, you consent to the collection and use of the information you provide per this Privacy Policy. We also reserve the right to change our Privacy Policy. If this policy is changed, we will post these changes on this page so you are always aware of the information we collect and how we use it.
 
 **_Contacting Project Payday_**
 
-If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, please contact us via one of the methods above.
+If you have any questions about this Privacy Policy statement, the privacy-related practices of this website, or your dealings with this website, please contact us via one of the methods above for immediate assistance.
 
-This Privacy Policy was last updated November 27th, 2006.
+This Privacy Policy was last updated December 15th, 2006.
