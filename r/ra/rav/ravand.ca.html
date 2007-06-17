@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ravand.ca privacy policy that was archived on 2006-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061205220706id_/http%3A//www.ravand.com/privacy_policy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ravand.ca privacy policy that was archived on 2007-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070617072655id_/http%3A//www.ravand.com/privacy_policy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head><title>Ravand Privacy Policy</title>
 <meta content="Advanced Windows Hosting for Canadian Community and around the world with more than 6 years of experience in Web Hosting services." name="description">
@@ -21,21 +21,38 @@ function NewWindow2(url)
 }
 </script>
 
-<meta content="Microsoft FrontPage 5.0" name="GENERATOR">
-<script language="JavaScript" type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
-
-<script language="JavaScript" type="text/javascript">
+<meta content="Microsoft FrontPage 5.0" name="GENERATOR"><script type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
+<script type="text/javascript" src="/CFIDE/scripts/masks.js"></script>
+<script type="text/javascript">
 <!--
+    function  _CF_checkCFForm_1(_CF_this)
+    {
+        //reset on submit
+        _CF_error_exists = false;
+        _CF_error_messages = new Array();
+        _CF_error_fields = new Object();
+        _CF_FirstErrorField = null;
 
-function  _CF_checkCFForm_1(_CF_this)
-{
-	return true;
-}
 
+        //display error messages and return success
+        if( _CF_error_exists )
+        {
+            if( _CF_error_messages.length > 0 )
+            {
+                // show alert() message
+                _CF_onErrorAlert(_CF_error_messages);
+                // set focus to first form error, if the field supports js focus().
+                if( _CF_this[_CF_FirstErrorField].type == "text" )
+                { _CF_this[_CF_FirstErrorField].focus(); }
 
+            }
+            return false;
+        }else {
+            return true;
+        }
+    }
 //-->
 </script>
-
 </head>
 <body bgcolor="#ffffff" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0">
 <table height="100%" cellspacing="0" cellpadding="0" width="780" align="center" bgcolor="#ffffff" border="0">
@@ -106,21 +123,7 @@ function  _CF_checkCFForm_1(_CF_this)
                 <td><img height="1" src="/images/white.gif" width="180"></td></tr>
               <tr>
                 <td bgcolor="#F9FAF8" align="center" background="/images/bkg.gif">
-					
-
-
-
-
-	
-	
-	<form name="CFForm_1" action="https://secure.ravand.com/domain_index_2.cfm" method="POST" onsubmit="return _CF_checkCFForm_1(this)">
-
-
-
-
-
-
-
+					<form name="CFForm_1" action="https://secure.ravand.com/domain_index_2.cfm" method="post" onsubmit="return _CF_checkCFForm_1(this)">
 						<p style="line-height: 170%">
 						<font class="domain"><strong>Domain Name Registration</strong></font><br>
 						<input type="hidden" name="action" value="lookup">
@@ -128,37 +131,14 @@ function  _CF_checkCFForm_1(_CF_this)
 						<input type="text" name="domain" size="14" style="border: 1px solid #719D5E">&nbsp;
 						<input type="image" src="/images/search.gif" border="0" name="search" alt="Search Your Domain" value="TRUE" align="middle"><br>
 						<font class="TLD">.com,.net,.org,.ca,.us,.biz,.info</font></p>
-					
-
-
-
-
-	
-
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	</form>
-
-
-
-
+					</form>
 
 				</td>
 			  </tr>				  
               <tr>
                 <td><img height="1" src="/images/white.gif" width="180"></td></tr>
               <tr>
-                <td id="head0" onclick="ShowHide(0)"><a class="navheader" href="#">Dedicated Servers</a></td></tr>
+                <td id="head0" onclick="ShowHide(0)"><a class="navheader" href="dedicated.cfm">Dedicated Servers</a></td></tr>
               <tr>
                 <td align="left"><!-- Menu 1 -->
                   <div class="LINKSOFF" id="Link0">
@@ -176,7 +156,7 @@ function  _CF_checkCFForm_1(_CF_this)
               <tr>
                 <td><img height="1" src="/images/white.gif" width="180"></td></tr>
               <tr>
-                <td id="head2" onclick="ShowHide(2)"><a class="navheader" href="#">Shared Hosting</a></td></tr>
+                <td id="head2" onclick="ShowHide(2)"><a class="navheader" href="hosting.cfm">Shared Hosting</a></td></tr>
               <tr>
                 <td align="left"><!-- Menu 3 -->
                   <div class="LINKSOFF" id="Link2">
@@ -186,7 +166,7 @@ function  _CF_checkCFForm_1(_CF_this)
               <tr>
                 <td><img height="1" src="/images/white.gif" width="180"></td></tr>
               <tr>
-                <td id="head3" onclick="ShowHide(3)"><a class="navheader" href="#">Domain Services</a></td></tr>
+                <td id="head3" onclick="ShowHide(3)"><a class="navheader" href="domains.cfm">Domain Services</a></td></tr>
               <tr>
                 <td align="left"><!-- Menu 4 -->
                   <div class="LINKSOFF" id="Link3">
@@ -362,7 +342,14 @@ Users may elect not to receive solicitations from Ravand or from trusted affilia
 </tr>
 	  
   <tr>
-    <td align="middle" colspan="2"><br>Copyright ® 2000 - 2006 Ravand Cybertech&nbsp;&nbsp;<a href="http://www.ravand.com/terms_of_services.cfm">Terms of Service</a>&nbsp;&nbsp;<a href="http://www.ravand.com/privacy_policy.cfm">Privacy Policy</a></td></tr></tbody></table>		
+    <td align="middle" colspan="2"><br>Copyright ® 2000 - 2006 Ravand Cybertech&nbsp;&nbsp;<a href="http://www.ravand.com/terms_of_services.cfm">Terms of Service</a>&nbsp;&nbsp;<a href="http://www.ravand.com/privacy_policy.cfm">Privacy Policy</a></td></tr></tbody></table>	
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2018005-1";
+urchinTracker();
+</script>	
 	        
 	
 </body></html>
