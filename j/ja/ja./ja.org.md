@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ja.org privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209082602id_/http%3A//www.ja.org/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ja.org privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617153450id_/http%3A//www.ja.org/about/privacy.shtml) for the most accurate reproduction.*
 
 # About JA
 
@@ -41,6 +41,8 @@ Any personal information you provide to JA Worldwide™ is maintained and access
   * We respond to subpoenas, warrants, or other court orders regarding information that is contained within our access logs concerning any member or visitor. We also reserve the right to release that information concerning a user who we believe is in violation of Junior Achievement's terms and conditions or other published guidelines and official rules, even without a subpoena, warrant, or other court order. We cooperate with law enforcement agencies in identifying those who use our servers for illegal activities. We also reserve the right to report any illegal activity to law enforcement. 
 
   * Junior Achievement also cooperates with, and reserves the right to release any and all information to, tax collection and tax law enforcement agencies in order to identify those users who may owe taxes on earnings from Junior Achievement prize winnings. (U.S. residents who win $600.00 or more combined cash and merchandise prizes in a calendar year must provide their Social Security number in order to receive "1099" forms from Junior Achievement.) 
+
+  * JA Worldwide uses SSL security on any form that requires credit card information. We will never ask for information that could be used in a phishing scheme without the SSL security behind the form.
 
 
 
