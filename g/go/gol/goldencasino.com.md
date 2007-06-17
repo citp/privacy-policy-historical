@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goldencasino.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230072400id_/http%3A//www.goldencasino.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldencasino.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617111751id_/http%3A//www.goldencasino.com/privacy.php) for the most accurate reproduction.*
 
-# GoldenCasino.com
+# GoldenCasino.Com - Online Casino
 
   
 This GoldenCasino.com Privacy Statement discloses the information privacy practices for GoldenCasino.com's Web site, www.GoldenCasino.com
@@ -27,7 +27,7 @@ GoldenCasino.com collects certain technical information from your computer each 
   2.   
 User Information
 
-PII is also collected on certain pages of the GoldenCasino.com. If you decide to contact GoldenCasino.com to ask a question, learn more about how to start playing at Golden Casino, learn how to participate in the contest at GoldenCasino.com, how to download our software, registering for your free/real playing account, minimum system requirements, how many games we have, how frequently a winner is chosen, you will find that our customer service representatives can be contacted 24 hours a day, seven days a week at 1-888-217-5648, such PII will assist us in complying with these requests. 
+PII is also collected on certain pages of the GoldenCasino.com. If you decide to contact GoldenCasino.com to ask a question, learn more about how to start playing at Golden Casino, learn how to participate in the contest at GoldenCasino.com, how to download our software, registering for your free/real playing account, minimum system requirements, how many games we have, how frequently a winner is chosen, you will find that our customer service representatives can be contacted 24 hours a day, seven days a week at 1-800-980-7818, such PII will assist us in complying with these requests. 
 
 GoldenCasino.com may ask you to provide User Information, to register for an account or participate in the contest. The information requested may include your name, address, e-mail address, shipping information, phone number, credit card and/or debit card information and your comments. User Information may be forwarded to our Management Company or Partner Company that is equipped to handle your order, inquiry or feedback.
 
@@ -66,7 +66,7 @@ You may also receive postal mail notifications from us about special promotions,
 
 Data Security
 
-GoldenCasino.com works hard to ensure tat our systems are secure and that they meet industry standards. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the Information we collect online. All transactions pass through Secure Socket Layer 3.0 technology to ensure your data is protected. The security of personal information you may submit in connection with a promotion entry, survey response, online facilities and/or registration for any feature on the Site is of the utmost concern to us, and we strive to ensure its security through encryption on our systems. However, no data transmission over the Internet can be guaranteed to be completely secure, we cannot guarantee the security of any information you transmit to us, and you transmit such information at your own risk. We will continue to assess new technology to evaluate its ability to provide additional protection of your Information.
+GoldenCasino.com works hard to ensure that our systems are secure and that they meet industry standards. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the Information we collect online. All transactions pass through Secure Socket Layer 3.0 technology to ensure your data is protected. The security of personal information you may submit in connection with a promotion entry, survey response, online facilities and/or registration for any feature on the Site is of the utmost concern to us, and we strive to ensure its security through encryption on our systems. However, no data transmission over the Internet can be guaranteed to be completely secure, we cannot guarantee the security of any information you transmit to us, and you transmit such information at your own risk. We will continue to assess new technology to evaluate its ability to provide additional protection of your Information.
 
 Protecting Children from Online Gambling
 
