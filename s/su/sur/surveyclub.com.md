@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveyclub.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217192217id_/http%3A//www.surveyclub.com/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyclub.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617102016id_/http%3A//www.surveyclub.com/privacy.cgi) for the most accurate reproduction.*
 
 # Paid Surveys Privacy Policy
 
@@ -28,7 +28,7 @@ Users may opt-out of receiving future mailings; see the opt-out/modify section b
 
 **Information Dissemination**
 
-None of the information that is collected by this web site is rented, sold, or shared with any 3rd parties for any purpose -- except in the case of unique identifiers (such as social security and Tax Id numbers) which are provided to the IRS for tax-reporting purposes if applicable.
+We may use the personal information that you supply to us and we may work with other third party businesses to bring selected retail opportunities to our members via email. These businesses may include providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation and email marketing.
 
 **Links to Other Sites**
 
@@ -58,4 +58,4 @@ If you're a SurveyClub member and you simply wish to cancel your account, you ar
 
 If you have any questions about this privacy statement, the practices of this web site, or your dealings with this web site, please contact us via one of the methods above.
 
-This Privacy Policy was last updated March 29th, 2006.
+This Privacy Policy was last updated April 27, 2007.
