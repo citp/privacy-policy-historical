@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycutegraphics.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212055806id_/http%3A//www.mycutegraphics.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycutegraphics.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617110956id_/http%3A//www.mycutegraphics.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,7 +21,10 @@ We use an outside ad company to display ads on our site. These ads may contain c
 
 ####  MyCuteGraphics.com Newsletter Double Opt-In 
 
-MyCuteGraphics.com newsletter/mailing list is used only to notify visitors of new layouts and graphics. The newsletter/mailing list is double opt-in (you MUST request to be added and you MUST confirm your subscription) and is used to notify visitors of new layouts and graphics. Subscription is optional, and must be confirmed via email before your address will be added to the mailing list. You may also unsubscribe from MyCuteGraphics.com newsletter at anytime.   
+MyCuteGraphics.com newsletter/mailing list is used only to notify visitors of new layouts and graphics. The newsletter/mailing list is double opt-in (you MUST request to be added and you MUST confirm your subscription) and is used to notify visitors of new layouts and graphics. Subscription is optional, and must be confirmed via email before your address will be added to the mailing list. You may also unsubscribe from MyCuteGraphics.com newsletter at anytime. 
+
+MyCuteGraphics.com newsletter is remotely hosted by [YourMailingListProvider.com](https://web.archive.org/web/20070617110956id_/http%3A//www.mycutegraphics.com/ymlp.com)
+
 MyCuteGraphics.com DOES NOT sell the email addresses of users who join the newsletter. 
 
 ####  Choice/Opt-Out 
