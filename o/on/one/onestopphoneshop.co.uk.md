@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onestopphoneshop.co.uk privacy policy that was archived on 2006-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061013100751id_/http%3A//www.onestopphoneshop.co.uk/index.php%3F%26B%5B0%5D%5Bnext%5D%5B0%5D%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onestopphoneshop.co.uk privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617052705id_/http%3A//www.onestopphoneshop.co.uk/index.php%3F%26B%5B0%5D%5Bnext%5D%5B0%5D%3Dprivacy) for the most accurate reproduction.*
 
 # One Stop Phone Shop Privacy Policy.
 
