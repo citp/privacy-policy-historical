@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the bjp-online.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217152540id_/http%3A//www.incisivemedia.com/public/showPage.html%3Fpage%3D11526) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bjp-online.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617210117id_/http%3A//www.incisivemedia.com/public/showPage.html%3Fpage%3D11526) for the most accurate reproduction.*
 
-# Incisive Media
+# Incisive Media Plc
 
 **Information Collection and Use**  
-Incisive Media Plc is the sole owner of the information collected on this site. We will not sell, share, or rent this information to third parties in ways other than those disclosed in this policy. Incisive Media Plc collects information from our users at several different points on our websites. 
+Incisive Media  is the sole owner of the information collected on this site. We will not sell, share, or rent this information to third parties in ways other than those disclosed in this policy. Incisive Media  collects information from our users at several different points on our websites. 
 
-Incisive Media plc includes Incisive Media and all of its subsidiary companies (Incisive Financial Publishing Limited, Incisive Photographic Limited, Global Professional Media Limited, Conjecture Limited, Incisive Media Investments Limited, Incisive RWG Inc, Incisive Interactive Marketing LLC).
+Incisive Media includes Incisive Media and all of its subsidiary companies (Incisive Financial Publishing Limited, Incisive Photographic Limited, Global Professional Media Limited, Conjecture Limited, Incisive Media Investments Limited, Incisive RWG Inc, Incisive Interactive Marketing LLC).
 
 **Registration**  
 some of our sites restrict access to online content. To gain entry a user must first complete a registration form. During registration a user is required to give their contact information (such as name and e-mail address). For sites where online access to content is part of a subscription package, registration forms will often contain full subscriber details used to identify and fulfil that subscriber's account. 
@@ -31,7 +31,7 @@ We employ a software technology called clear gifs (also known as Web Beacons/Web
 We use IP addresses to analyse trends, administer the site, track a user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
 
 **Links**  
-Some of our websites contain links to other sites. Please be aware that Incisive Media Plc is not responsible for the privacy practices of other sites. This privacy statement applies solely to information collected by this website. 
+Some of our websites contain links to other sites. Please be aware that Incisive Media is not responsible for the privacy practices of other sites. This privacy statement applies solely to information collected by this website. 
 
 **Surveys & Contests**  
 From time to time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
@@ -59,7 +59,7 @@ If we decide to change our privacy policy, we will seek to advise all users of t
 
 **Discussion boards:**
 
-While we take every precaution to ensure all contributions to discussion boards are factually correct, and not deemed to be untruthful, libellous, defamatory, racist or persecutory, these messages are entered by third parties. All users of the board are presented with a set of house rules before taking part. Our editor will monitor as much as possible and although all users of the site are entitled to their opinion, language on the boards must be clean - contributions containing sexual swear words and slander will be removed. Users will be warned if breaking the house rules. A user who consistently breaks the house rules will be barred from the discussion boards`. All users are reminded of copyright - Articles from other websites should be linked to rather than copied in full. Articles from within Incisive Media Plc publications/websites may be copied in their entirety for use on Incisive Media Plc discussion boards. Incisive Media Plc reserves the right to remove articles without notice or reason.
+While we take every precaution to ensure all contributions to discussion boards are factually correct, and not deemed to be untruthful, libellous, defamatory, racist or persecutory, these messages are entered by third parties. All users of the board are presented with a set of house rules before taking part. Our editor will monitor as much as possible and although all users of the site are entitled to their opinion, language on the boards must be clean - contributions containing sexual swear words and slander will be removed. Users will be warned if breaking the house rules. A user who consistently breaks the house rules will be barred from the discussion boards`. All users are reminded of copyright - Articles from other websites should be linked to rather than copied in full. Articles from within Incisive Media  publications/websites may be copied in their entirety for use on Incisive Media  discussion boards. Incisive Media  reserves the right to remove articles without notice or reason.
 
   
 
