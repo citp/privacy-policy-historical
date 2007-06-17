@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sabre.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205220349id_/http%3A//www.sabre-holdings.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sabre.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617080331id_/http%3A//www.sabre-holdings.com/privacy/index.html) for the most accurate reproduction.*
 
 # Sabre Holdings :: Privacy Policy
 
@@ -48,8 +48,7 @@ Information you provide may be shared internally with other Sabre Inc. departmen
 
 This web site provides information and services for many different businesses within Sabre Inc. Any questions or issues about your privacy or information you provide us should be sent to the appropriate e-mail address below. 
 
-Marketing Information - [contact.us@sabre.com](mailto:contact.us@sabre.com)   
-Investor Relations - [sabre.investor.relations@sabre.com](mailto:sabre.investor.relations@sabre.com)   
+Marketing Information - [contact.us@sabre.com](mailto:contact.us@sabre.com)  
 General sabre.com Inquiries - [contact.us@sabre.com](mailto:contact.us@sabre.com)   
 Business Opportunities - [opportunities@sabre.com](mailto:opportunities@sabre.com)   
 Event Planning Registration - [event.marketing@sabre.com](mailto:event.marketing@sabre.com)
