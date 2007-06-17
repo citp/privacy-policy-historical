@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trendsecure.com privacy policy that was archived on 2006-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061122115851id_/http%3A//www.trendsecure.com/about/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendsecure.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617094634id_/http%3A//www.trendsecure.com/about/privacy_policy.php) for the most accurate reproduction.*
 
 # TrendSecure | Privacy Policy
 
