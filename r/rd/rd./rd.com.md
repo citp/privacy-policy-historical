@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rd.com privacy policy that was archived on 2006-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060516205828id_/http%3A//www.rd.com/content/openContent.do%3FcontentId%3D10660%26wtGroup%3DRDCOM_FOOTER%26wtID%3DPRIVACY_SITE%26lid%3D177) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rd.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617040919id_/http%3A//www.rd.com/content/openContent.do%3FcontentId%3D10660%26lid%3D177) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,7 +19,7 @@ Please note that we do reserve the right to transfer your personally identifiabl
 Reader's Digest may also provide aggregate statistics about our customers, traffic patterns and related site information to reputable third parties for statistical analysis, but these statistics will include no personal information.
 
 Opting Out of Receiving Email and Postal Correspondence  
-Receiving email messages and postal mail from Reader's Digest, our affiliates and partners is optional. You may choose not to receive certain email, even after granting prior permission, or you may wish to correct information you previously provided. If you do not wish to receive email or wish to correct information you provided to Reader's Digest and you know you are a member of rd.com, please go to the [Update My Profile](https://web.archive.org/updateprofile.do) section of rd.com; otherwise please [click here](http://www.rd.com/profilecenter/openPreferencePage.do?) to go to the [E-Mail Preference Center](http://www.rd.com/profilecenter/openPreferencePage.do?) form. Reader's Digest will use commercially reasonable efforts to delete records from our database when we receive requests to do so; however, because of possible retention of a residual copy in a system backup file, we cannot guarantee deletion in every instance.
+Receiving email messages and postal mail from Reader's Digest, our affiliates and partners is optional. You may choose not to receive certain email, even after granting prior permission, or you may wish to correct information you previously provided. If you do not wish to receive email or wish to correct information you provided to Reader's Digest and you know you are a member of rd.com, please go to the [View My Profile](https://web.archive.org/viewprofile.do) section of rd.com; otherwise please [click here](https://web.archive.org/privacyOptionAction.do) to go to the [E-Mail Preference Center](https://web.archive.org/privacyOptionAction.do) form. Reader's Digest will use commercially reasonable efforts to delete records from our database when we receive requests to do so; however, because of possible retention of a residual copy in a system backup file, we cannot guarantee deletion in every instance.
 
 We reserve the right to send you certain communications such as service announcements and administrative messages, relating to Reader's Digest and rd.com that are necessary to our relationship with you.
 
@@ -54,6 +54,9 @@ We encourage parents to be aware of their children's online activities, and to l
 
 Advertisers  
 If you submit your name through a form on any RD site to request information from an advertiser or other third party, Reader's Digest is not responsible for any marketing or other use of your name by the third party. To learn more about any other company or organization's privacy policies, we suggest visiting its Web site or contacting it by postal mail or telephone.
+
+Third Party Advertising  
+Many of the ads appearing on this Web site are delivered to you by third-party ad servers such as DoubleClick, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad, is used to serve ads to you. ForDoubleClick's privacy policy , please [click here](http://www.doubleclick.net/us/corporate/privacy).
 
 Discussion Boards  
 Please be aware that discussion board postings are not private. Others may capture your email address and send you email messages if you post your email address. Reader's Digest cannot control such actions by others; however, we urge you and any other discussion board user not to use our forums as a source of email addresses for sending unsolicited messages. For more information on our discussion boards, please see [Instructions and Terms of Use](http://communitytalk.rd.com/webx?termsOfUse@@.ee93238) in the Community Talk section of rd.com as well as our [Terms of Use](https://web.archive.org/content/openContent.do?contentId=10661) for the site.
@@ -95,7 +98,7 @@ Reader's Digest wants your personal information to remain as secure as reasonabl
 Acceptance of Privacy Policy  
 By using this site, you signify your agreement to the RD sites privacy policy. You further authorize the export of personal information to the USA and its storage and use as specified in this policy when you provide such information to us. If you do not agree to this policy, please do not use this site. We reserve the right, at our discretion, to change, modify, add, or remove portions of this policy at any time. Please bookmark this page and check it periodically. We will post any changes to this privacy policy on our site. Your continued use of any RD site following the posting of any changes to these terms shall mean that you have accepted those changes. This policy and all of our legal obligations are subject to the laws of New York and the USA, regardless of the location of any user. Any claims or complaints must be filed in the USA in the State of New York.
 
-Policy last updated December 2004
+Policy last updated September 2006
 
 Legal Notice and Terms and Conditions  
 Please also read the RD sites [Terms of Use](https://web.archive.org/content/openContent.do?contentId=10661) to understand the additional terms and conditions which apply to use of the sites.
