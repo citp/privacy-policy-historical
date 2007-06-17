@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coregmedia.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225005423id_/http%3A//www.coregmedia.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coregmedia.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617041421id_/http%3A//www.coregmedia.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Coregistrations | Coregistration | Co-registration | Co-registrations| CoregMedia
 
@@ -57,7 +57,7 @@ A. Registration Information
 
 As part of the registration process, we often offer you the option to take advantage of one or more offers from our partners. Those offers are optional and you do not have to sign-up for any offers in order to participate in the main promotional offer (although you may need to check or uncheck certain boxes to do so). If you do choose to sign-up for an offer, we will share information about you with those selected partners from whom you have chosen to receive information.
 
-When you register with CoregMedia, you can elect to sign up with some of our marketing partners so they may to contact you with their special offers. Our marketing partners wishing to contact you either give their e-mail message to us and we deliver it to you, or with your prior permission, we provide your contact information to them so they can deliver messages directly to you. It is solely at your discretion if you choose to provide additional personally identifiable information to a marketer by making a purchase, requesting additional information, or communicating directly with the company or organization after using its website. We may share this information with a third-party advertising company in order to market more effectively to you.
+When you register with CoregMedia, you can elect to sign up with some of our marketing partners so they may to contact you with their special offers. It is solely at your discretion if you choose to provide additional personally identifiable information to a marketer by making a purchase, requesting additional information, or communicating directly with the company or organization after using its website. We may share this information with a third-party advertising company in order to market more effectively to you.
 
 We may employ other companies and individuals to perform functions on our behalf (e.g., outsourced e-mail delivery companies). They have access to the User information to perform their functions, but may not use it for other purposes.
 
@@ -105,4 +105,4 @@ CoregMedia or its successors and assigns may amend the terms and conditions of t
 
 If you are not in agreement with the terms of this Policy, please unsubscribe from the CoregMedia email list, please visit http://www.coregmedia.com/optout.php or write to us at CoregMedia, PO Box 5860, Redwood City, CA 94063 and request to be removed. 
 
-If you feel that CoregMedia is not abiding by its posted privacy policy, please contact us by clicking [here](https://web.archive.org/web/20061225005423id_/http%3A//www.coregmedia.com/company-contact.php) or write us at CoregMedia, PO Box 5860, Redwood City, CA 94063.
+If you feel that CoregMedia is not abiding by its posted privacy policy, please contact us by clicking [here](https://web.archive.org/web/20070617041421id_/http%3A//www.coregmedia.com/company-contact.php) or write us at CoregMedia, PO Box 5860, Redwood City, CA 94063.
