@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the londonexternal.ac.uk privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207143505id_/http%3A//www.londonexternal.ac.uk/web/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londonexternal.ac.uk privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617064314id_/http%3A//www.londonexternal.ac.uk/web/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Privacy policy - External Programme website - University of London
 
