@@ -1,292 +1,271 @@
-<!--The following is the downloaded HTML source of the expertarticles.com privacy policy that was archived on 2002-04-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020409020143id_/http%3A//www.expertarticles.com/legal.asp%3Fpageoption%3Dprivacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the expertarticles.com privacy policy that was archived on 2007-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070617211623id_/http%3A//www.expertarticles.com%3Fact%3D24) for the most accurate reproduction.-->
 
-<html><head>
-    <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-    <meta name="GENERATOR" content="Microsoft FrontPage 4.0">
-    <meta name="ProgId" content="FrontPage.Editor.Document">
-    <title>ExpertArticles.com</title>
-    <link rel="stylesheet" type="text/css" href="/templates/default/css/basic.css">
-  </head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>ExpertArticles.com | Privacy Policy</title>
+<link rel="alternate" type="application/rss+xml" title="Expert Articles - RSS" href="http://www.expertarticles.com/rss.php">
+<link rel="stylesheet" type="text/css" href="/css/main.css" media="screen">
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print">
+<meta name="description" content="Privacy Policy">
+<meta name="keywords" content="">
+<link href="http://www.expertarticles.com/favicon.ico" rel="SHORTCUT ICON">
+<script type="text/javascript">
+var siteurl = 'http://www.expertarticles.com/';
+</script>
 
-<body bgcolor="#FFFFFF">
+<script type="text/javascript">
+    /* <![CDATA[ */ 
+	
+function submitart()
+{
+	if (authid != 0) window.location = "/?act=3";
+	else Ext.MessageBox.alert('Information', 'Before submitting articles you must create an author. Click "Add Author" button.');
+}
+	
+var showerr = false;
+	
+	function isdefined( variable)
+		{
+    		return (typeof(window[variable]) == "undefined")?  false: true;
+		}
+		
+	function MoveOut(e,n)
+		{
+			//if (!e) var e = window.event;
+			//var tg = (window.event) ? e.srcElement : e.target;
+			//if (tg.nodeName != 'DIV') return;
+			//var reltg = (e.relatedTarget) ? e.relatedTarget : e.toElement;
+			//while (reltg != tg && reltg.nodeName != 'BODY')
+			//	reltg= reltg.parentNode
+			//if (reltg== tg) return;
+			
+			// Mouseout took place when mouse actually left layer
+			// Handle event
+			SetActiveRate(n);
+		}	
+		
+		function SetActiveRate(num)
+			{				
+				for (i=1;i<=num;i++)
+				{
+				im = window.document.getElementById('i'+i);
+				im.src = '/css/images/star_on.gif';
+				}
+				
+				for (i=num+1;i<=5;i++)
+				{
+				im = window.document.getElementById('i'+i);
+				im.src = '/css/images/star_off.gif';
+				}				
+				if (showerr == false)
+				{
+					document.getElementById("ratetext").innerHTML = (Math.round(xrating*10)/10)+" rating from "+xvoted+" votes.";				
+				}
+			}
+		
+		function Rate(id,num)
+			{
+				sendRequest(siteurl+'rate.php?artid='+id+'&rate='+num,handleRequest);
+			}
+			
+		function showrate()
+			{
+				showerr = false;
+				SetActiveRate(act);
+			}
 
-      <div id="header">
-      <table border="0" width="99%" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td valign="bottom" align="right"><img border="0" src="/templates/default/images/small.gif" width="100" height="58"></td>
-          <td width="100%" valign="bottom" align="left">
-            <table border="0" cellspacing="0" cellpadding="0" width="100%">
-              <tbody><tr>
-                <td align="center" valign="middle"><a href="/adrot/redirect.asp?url=/experteditors/&amp;image=/adrot/exed.gif" _new=""><img src="/adrot/exed.gif" alt="ExpertEditors.com" width="468" height="60" border="0"></a></td>
-              </tr>
-              <tr>
-                <td align="right">
-                  <table border="0">
-                    <tbody><tr>
-                      <td align="center" width="100%"><b><table width="0%" border="0" bgcolor="#0000AF" cellspacing="0" cellpadding="1"><tbody><tr><td><table width="100%" border="0" bgcolor="yellow" cellspacing="0" cellpadding="3">  <tbody><tr>    <td><a class="bold" href="/register.asp">Register&nbsp;For&nbsp;Free!</a></td>  </tr></tbody></table></td></tr></tbody></table></b></td>
-                      <td><img border="0" src="/templates/default/images/mail.gif"></td>
-                      <td><a class="bold" href="mailto:webmaster@expertarticles.com">email&nbsp;ExpertArticles.com</a></td>
-                    </tr>
-                  </tbody></table>
-                </td><td>
-              </td></tr>
-            </tbody></table>
+/**************************************************************************************************/	
+function sendRequest(url,callback,postData) {
+	var req = createXMLHTTPObject();
+	if (!req) return;
+	var method = (postData) ? "POST" : "GET";
+	req.open(method,url,true);
+	req.setRequestHeader('User-Agent','XMLHTTP/1.0');
+	if (postData)
+		req.setRequestHeader('Content-type','application/x-www-form-urlencoded');
+	req.onreadystatechange = function () {
+		if (req.readyState != 4) return;
+		if (req.status != 200 && req.status != 304) {
+//			alert('HTTP error ' + req.status);
+			return;
+		}
+		callback(req);
+	}
+	if (req.readyState == 4) return;
+	req.send(postData);
+}
 
-            <hr size="1" width="100%" color="#000000" noshade="">
+var XMLHttpFactories = [
+	function () {return new XMLHttpRequest()},
+	function () {return new ActiveXObject("Msxml2.XMLHTTP")},
+	function () {return new ActiveXObject("Msxml3.XMLHTTP")},
+	function () {return new ActiveXObject("Microsoft.XMLHTTP")}
+];
 
-          </td>
-        </tr>
-      </tbody></table>
-      </div>
+function createXMLHTTPObject() {
+	var xmlhttp = false;
+	for (var i=0;i<XMLHttpFactories.length;i++) {
+		try {
+			xmlhttp = XMLHttpFactories[i]();
+		}
+		catch (e) {
+			continue;
+		}
+		break;
+	}
+	return xmlhttp;
+}
 
-      <div class="spacer">&nbsp;</div>
+function handleRequest(req) {
+		var returnXML = req.responseXML;
+		if (!returnXML) 
+			{
+				alert(req.responseText);
+				alert("Error. Cannot create XML parser object.");
+				return;
+			}
+//		var speed = parseInt(returnXML.getElementsByTagName('speed')[0].firstChild.nodeValue);			
+			if (returnXML.getElementsByTagName('status')[0].childNodes[0].nodeValue == 'OK')
+				{
+					xrating = returnXML.getElementsByTagName('rating')[0].childNodes[0].nodeValue;
+					xvoted	= returnXML.getElementsByTagName('voted')[0].childNodes[0].nodeValue;
+					act = Math.round(xrating);
+					SetActiveRate(act);
+				}
+			else if (returnXML.getElementsByTagName('status')[0].childNodes[0].nodeValue == 'VOTED')
+				{
+					document.getElementById("ratetext").innerHTML = "You have already voted.";									
+					showerr = true;
+					setTimeout("showrate();",3000);
+				} else alert(returnXML.getElementsByTagName('status')[0].childNodes[0].nodeValue);
+				
+//You have already voted.													
+	//	showadbox();
+	// alert(req.responseXML);
+}
+		
+        //window.onload = function() {AdjustColumnsHeight();}
+    /* ]]> */       
+    </script>
+<!--[if IE]>
+<style type="text/css"> 
+/* place css fixes for all versions of IE in this conditional comment */
+.thrColElsHdr #sidebar1, .thrColElsHdr #sidebar2 { padding-top: 30px; }
+.thrColElsHdr #mainContent { zoom: 1; padding-top: 15px; }
+/* the above proprietary zoom property gives IE the hasLayout it needs to avoid several bugs */
+</style>
+<![endif]-->
 
-      <div id="horizontalmenu">
-      <table width="99%" border="0" cellpadding="0" cellspacing="0" align="center">
-        <tbody><tr>
-          <td width="20%"><div class="smallhoriz">Monday,&nbsp;April&nbsp;8,&nbsp;2002</div></td>
-          <td width="80%"><div class="horizmenuitem"><a href="/">Home</a> &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; <a href="/expertarticles/">ExpertArticles</a> &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; <a href="/experteditors/">ExpertEditors</a></div></td>
-        </tr>
-      </tbody></table>
-      </div>
+</head>
 
-<div class="spacer">&nbsp;</div>
+<body class="thrColElsHdr" onload=" if(isdefined('act')) {	SetActiveRate(act);	}">
 
-      <table width="99%" border="0" cellpadding="3" cellspacing="0" align="center">
-        <tbody><tr>
-          <td width="20%" bgcolor="#0000AF" valign="top" align="left">&nbsp;</td>
-          <td width="80%" bgcolor="#FFFFFF" valign="top" align="left">
-            <table border="0" width="100%" bgcolor="#FFFFFF" cellpadding="0" cellspacing="0">
-              <tbody><tr>
-                <td width="100%" bgcolor="#CA0000">&nbsp;</td>
-              </tr>
-            </tbody></table>
-<div align="left">
-<table border="0" cellpadding="1" cellspacing="0" width="100%" bgcolor="#0000AF">
-  <tbody><tr>
-    <td>
-      <table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#E0E0E0">
-        <tbody><tr>
-          <td align="left" valign="middle" width="100%"><span class="smallerblackbold"><a class="smallerblackbold" href="/userinfo/getaccess.asp">&nbsp;Get&nbsp;Licenses</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="smallerblackbold" href="/expertarticles/searchcontent.asp">Search&nbsp;Content</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="smallerblackbold" href="/expertarticles/browsecontent.asp">Browse&nbsp;Content</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="smallerblackbold" href="/expertarticles/submit.asp">Submit&nbsp;Content</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="smallerblackbold" href="/userinfo/mycontent.asp">My&nbsp;Content</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="smallerblackbold" href="/newslettersvc.asp">Newsletter&nbsp;Service</a></span></td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-</tbody></table>
-</div>
-<div class="spacer">&nbsp;</div>          </td>
-        </tr>
-        <tr>
-          <td width="20%" bgcolor="#0000AF" valign="top" align="left"><div class="mainmenuhead">ExpertArticles.com</div>
+<div id="container">
+  <div id="header">
+    <div id="site-name">Expert Articles</div>
+	
+    <ul id="nav">
+      <li><a href="/">Home</a></li>
+      <li><a href="/?act=17">Top Articles</a></li>
+      <li><a href="/?act=18">Site Map</a></li>
+	  <li><a href="/?act=21">RSS</a></li>
+	  <li><a href="/?act=28">Search</a></li>
+    </ul>
+  <!-- end #header --></div>
+  <div id="sidebar1" style="padding:0 1em 0 0; margin:0;">
+      <center>
+        <h4 style="color:#FFFFFF; background-color:#c00; vertical-align:text-top; display:block; margin:0 0 -0.3em; letter-spacing: 0.5px;">Categories</h4>
+      </center>
+      <ul id="nav-secondary"><li class="first"><a title="5 article(s) in  category" href="http://www.expertarticles.com/category/Arts-Entertainment/">Arts &amp; Entertainment</a></li><li><a title="5146 article(s) in  category" href="http://www.expertarticles.com/category/Business/">Business</a></li><li><a title="3 article(s) in  category" href="http://www.expertarticles.com/category/Communications/">Communications</a></li><li><a title="1576 article(s) in  category" href="http://www.expertarticles.com/category/Computers/">Computers</a></li><li><a title="2918 article(s) in  category" href="http://www.expertarticles.com/category/Culture-and-Society/">Culture &amp; Society</a></li><li><a title="1 article(s) in  category" href="http://www.expertarticles.com/category/Disease-Illness/">Disease &amp; Illness</a></li><li><a title="0 article(s) in  category" href="http://www.expertarticles.com/category/Fashion/">Fashion</a></li><li><a title="900 article(s) in  category" href="http://www.expertarticles.com/category/Finance/">Finance</a></li><li><a title="1237 article(s) in  category" href="http://www.expertarticles.com/category/Food-Beverage/">Food &amp; Beverage</a></li><li><a title="21476 article(s) in  category" href="http://www.expertarticles.com/category/Health-Fitness/">Health &amp; Fitness</a></li><li><a title="1 article(s) in  category" href="http://www.expertarticles.com/category/Hobbies/">Hobbies</a></li><li><a title="2372 article(s) in  category" href="http://www.expertarticles.com/category/Home-Family/">Home &amp; Family</a></li><li><a title="2 article(s) in  category" href="http://www.expertarticles.com/category/Home-Based-Business/">Home Based Business</a></li><li><a title="207 article(s) in  category" href="http://www.expertarticles.com/category/Internet-Business/">Internet Business</a></li><li><a title="1845 article(s) in  category" href="http://www.expertarticles.com/category/Legal/">Legal</a></li><li><a title="2 article(s) in  category" href="http://www.expertarticles.com/category/Pets-Animals/">Pets &amp; Animals</a></li><li><a title="2736 article(s) in  category" href="http://www.expertarticles.com/category/Politics/">Politics</a></li><li><a title="0 article(s) in  category" href="http://www.expertarticles.com/category/Product-Reviews/">Product Reviews</a></li><li><a title="2687 article(s) in  category" href="http://www.expertarticles.com/category/Recreation-Sports/">Recreation &amp; Sports</a></li><li><a title="2246 article(s) in  category" href="http://www.expertarticles.com/category/Reference-Education/">Reference &amp; Education</a></li><li><a title="2403 article(s) in  category" href="http://www.expertarticles.com/category/Religion/">Religion</a></li><li><a title="2599 article(s) in  category" href="http://www.expertarticles.com/category/Self-Improvement/">Self Improvement</a></li><li><a title="2569 article(s) in  category" href="http://www.expertarticles.com/category/Shopping/">Shopping</a></li><li><a title="3286 article(s) in  category" href="http://www.expertarticles.com/category/Travel-Leisure/">Travel &amp; Leisure</a></li><li><a title="0 article(s) in  category" href="http://www.expertarticles.com/category/Vehicles/">Vehicles</a></li><li class="last"><a title="502 article(s) in  category" href="http://www.expertarticles.com/category/Writing-Speaking/">Writing &amp; Speaking</a></li></ul> 
+	  <br><h4 style="color:#000000; vertical-align:text-top; display:block; padding:0px 0px 0px 0px; margin:0 0 2px 2px; border-style:none; letter-spacing: 0.5px; font-size:x-small;">Stats</h4>
+      <hr style="margin:2px; padding:0px;">
+	  <font size="-2">
+	  Total Articles: 250865<br>
+	  Total Authors: 32500<br>
+ 
 
-  <div class="mainmenuelement"><a href="/company.asp" class="mainmenulink">Company&nbsp;Information</a></div>
+Newest Member:<br>
+ Joe  Pav</font>	  
+  <!-- end #sidebar1 --></div>
+  <div id="sidebar2" style="padding:0; margin:0;">
+          <h4 style="text-align:center;">Author menu</h4>
 
-  <div class="mainmenuelement"><a href="/newslettersvc.asp" class="mainmenulink">Newsletter&nbsp;Service</a>&nbsp;<img src="/templates/default/images/new.gif"></div>
+                <ul id="nav-secondary">
+          <li class="first"><a href="/?act=2">Login</a></li>
+          <li class="last"><a href="/?act=9">Register</a></li>
+        </ul>
+         
+      <div>
+        <center>
+          <h4>Information</h4>
+        </center>
+        <ul id="nav-secondary">
+          <li class="first"><a href="/?act=22">Submission Guidelines</a></li>
+		  <li><a href="/?act=23">Terms of Services</a></li>
+          <li><a href="/?act=24">Privacy Policy</a></li>
+		  <li><a href="/?act=19">Contact Us</a></li>
+		  <li class="last"><a href="/?act=20">About Us</a></li>		  
+        </ul>
+      </div>		
+		<br>
+	<!-- insert elements for right sidebar here -->	
+	<div class="featurebox" style="padding-right:10px;">
+	<h3>Free Service</h3>
+	<span style="font-size:9pt; font-weight:700">
+	Shortcut to 50+ Social Bookmarking Sites!
+	</span>
+    <br>
+	<span style="font-size:9pt;">
+	Adding social bookmark links to your blog or website makes it easy for readers to save and share your content.
+	</span>
+	<br><br>
+		<p align="center">
+	<a href="http://www.expertarticles.com/bookmark/?url=http://www.expertarticles.com&amp;title=ExpertArticles.com | Top Quality Free Articles and Tutorials from Expert Authors"><img border="0" alt="Social Bookmarking" src="http://www.expertarticles.com/bookmark/images/bookmarkit16r.gif" width="80" height="16"></a>
+	</p>
+	<p align="center">
+	<a href="/bookmark" style="font-size:8pt;">Add "Bookmark it" to your website</a>
+	</p>
+    </div>
+  <!-- end #sidebar2 --></div>
+  <div id="mainContent">
+      <div id="breadcrumb"> <a href="/">Home</a> / Privacy Policy </div>
+      <hr>
+      <center>
+        
+      </center>
+            ExpertArticles.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.  
+<br>
+<br>
 
-  <div class="mainmenuelement"><a href="/customerservice.asp" class="mainmenulink">Customer&nbsp;Service</a></div>
+  <p><strong>How we gather information from users </strong></p>
+  <p>How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, ExpertArticles.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site's features according to your preferences. </p>
+  <p><strong>What we do with the information we collect </strong></p><p>Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone. </p><p>Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually. </p>
+  
+<p>We may use Personally Identifiable Information collected on www.ExpertArticles.com to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by www.ExpertArticles.com and other topics we think you might find of interest. </p>
+  <p>Personally Identifiable Information collected by ExpertArticles.com may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases. </p>
+  <p><strong>Affiliated sites, linked sites and advertisements </strong></p><p>ExpertArticles.com expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a www.ExpertArticles.com page, certain content that is actually created or hosted by a third party. Also, through ExpertArticles.com you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. ExpertArticles.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party. </p>
+  <p>While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. ExpertArticles.com does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties. </p>
+  <p>You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of ExpertArticles.com and this policy.</p><p><strong>Children </strong></p><p>ExpertArticles.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe ExpertArticles.com has any information from or about anyone under 13, please contact us at the address listed below. </p><p><strong>Contacting Us </strong></p><p>We can be reached by emailing us. </p><p><strong>Changes to this Policy </strong></p>
+  <p>ExpertArticles.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. </p><p><strong>Governing law </strong></p><p>This Agreement shall all be governed and construed in accordance  with the laws of The United States of America applicable to agreements  made and to be performed in The United States of America.   You agree that any legal  action or proceeding between glocksoft.net and you for any purpose  concerning this Agreement or the parties' obligations hereunder  shall be brought exclusively in a federal or state court of competent  jurisdiction sitting in The United States of America .  Any cause of action or claim you  may have with respect to the Service must be commenced within one  (1) year after the claim or cause of action arises or such claim or  cause of action is barred. glocksoft.net's failure to insist upon or  enforce strict performance of any provision of this Agreement shall  not be construed as a waiver of any provision or right. Neither the  course of conduct between the parties nor trade practice shall act to  modify any provision of this Agreement.  glocksoft.net may assign  its rights and duties under this Agreement to any party at any time  without notice to you.</p>
+  <p>Any rights not expressly granted herein are reserved.</p>
+        
 
-  <div class="mainmenuelement"><a href="/faqs.asp" class="mainmenulink">FAQs</a></div>
-
-  <div class="mainmenuelement"><a href="/guidelines.asp" class="mainmenulink">User&nbsp;Guidelines</a></div>
-
-  <div class="mainmenuelement"><a href="/legal.asp" class="mainmenulink">Legal&nbsp;Information</a></div>
-
-  <div class="mainmenuelement"><a href="/partners.asp" class="mainmenulink">Partner&nbsp;Programs</a></div>
-
-  <div class="mainmenuelement"><a href="/register.asp" class="mainmenulink">Register&nbsp;for&nbsp;FREE!</a></div>
-
-  <form name="loginform" method="POST" action="/login/process_login.asp">
-  <input type="hidden" name="url" value="/legal.asp">
-  <table bgcolor="#0000AF" cellpadding="3" align="center" cellspacing="0" border="0">
-    <tbody><tr>
-  <td><div class="mainmenuhead">Quick&nbsp;Login</div></td>
-  </tr>
-  <tr>
-    <td><div class="smallerwhite">UserID</div>
-      <div class="form"><input type="text" size="15" name="userid"></div>
-    <div class="smallerwhite">Password</div>
-    <div class="form"><input type="password" size="15" name="password"></div></td>
-  </tr>
-  <tr>
-    <td align="center"><span class="smallerwhite"><input class="form" type="checkbox" name="persist" value="ON">&nbsp;Remember&nbsp;My&nbsp;Login</span></td>
-  </tr>
-  <tr>
-    <td align="center"><input type="submit" value="Login" name="login"></td>
-  </tr>
-  <tr>
-    <td align="center"><div align="center" class="smallerwhite"><a class="white" href="/login/recoverpswd.asp">Lost&nbsp;your&nbsp;Password?</a></div>
-      <div align="center" class="smallerwhite"><a class="white" href="/login/recoverid.asp">Forgot&nbsp;your&nbsp;UserID?</a></div></td>
-  </tr>
-  </tbody></table>
-  </form>
-
-          </td>
-          <td width="80%" valign="top" align="left" bordercolor="#FFFFFF">
-            <table width="100%" cellpadding="0" cellspacing="0" border="0">
-              <tbody><tr>
-                <td><div id="mainbody">
-
-<p class="pagetitle">ExpertArticles Privacy Policy</p>
-
-<table align="right" border="0" cellpadding="10" cellspacing="0">
-  <tbody><tr>
-    <td align="left" valign="top"><div class="frontcolumn2">
-      <div class="largeboldunderline">Legal&nbsp;Information&nbsp;Menu</div>
-      <div>&nbsp;</div>
-      <div><a href="/legal.asp">Legal&nbsp;Home</a></div>
-      <div><a href="/legal.asp?pageoption=contribagmnt">Contributor&nbsp;Agreement</a></div>
-      <div><a href="/legal.asp?pageoption=pubagmnt">Publisher&nbsp;Agreement</a></div>
-      <div><a href="/legal.asp?pageoption=copyright">Copyright&nbsp;Information</a></div>
-      <div><a href="/legal.asp?pageoption=trademark">Trademark&nbsp;Information</a></div>
-      <div><a href="/legal.asp?pageoption=privacypolicy">Privacy&nbsp;Policy</a></div>
-      <div><a href="/legal.asp?pageoption=tos">Terms&nbsp;of&nbsp;Service</a></div>
-      <div><a href="/legal.asp?pageoption=affiliateagmnt">Affiliate&nbsp;Program&nbsp;Agreement</a></div>
-    </div></td>
-  </tr>
-</tbody></table>
-
-
-
-<p class="largebolditalic"><a id="section1" name="section1">Section 1.0 - Purpose</a></p>
-
-<p class="blockindent">ExpertArticles.com, Inc. has created this privacy statement in order to 
-  demonstrate our commitment to privacy. In providing our services, ExpertArticles may need to 
-  gather personal information (including various forms of personally identifiable information) 
-  about you. The following discloses our information gathering and dissemination practices for 
-  the ExpertArticles web site:</p>
-
-<p class="largebolditalic"><a id="section2">Section 2.0 - User Registration</a></p>
-
-<p class="blockindent">In order to use most of the services offered by ExpertArticles, you will 
-  need to register with our web site. ExpertArticles requires such registration in order to 
-  identify our contributors, protect their rights, and to track the proper use, both by our 
-  members, and by others, of ExpertArticles content.</p>
-
-<p class="blockindent">Because ExpertArticles centers around the distribution and use of 
-intellectual property, and because ExpertArticles is committed to the preservation and protection 
-of such property, we take steps to protect our contributors' rights in the work they produce. 
-Almost all of the content available from ExpertArticles is limited to access by registered 
-users. Therefore, ExpertArticles can identify and prevent many unauthorized persons from 
-unlawfully using such material.</p>
-
-<p class="blockindent">The ExpertArticles registration process may require you to provide the 
-following kinds of information:</p>
-
-<p class="blockindent">Contact information - including name, address, telephone numbers and 
-email address</p>
-
-<p class="largebolditalic"><a id="section3">Section 3.0 - Online Article Submission</a></p>
-
-<p class="blockindent">For your convenience, ExpertArticles provides its web site visitors the 
-ability to submit a articles online. ExpertArticles' Online Article Submission application 
-requires web site users first register for an ExpertArticles account. This registration process 
-requires our web site users to provide various kinds of personal
-information, including the information described in <a href="#section1" class="privacylink">Section 1.0</a></p>
-
-<p class="blockindent">ExpertArticles will not sell or otherwise provide a visitor's personal 
-contact information to other companies; except prospective employers, or web sites, without 
-the visitor's permission.</p>
-
-<p class="largebolditalic"><a id="section4">Section 4.0 - Hidden Information</a></p>
-
-<p class="blockindent">Unlike user-entered data (such as form submissions) some types of 
-personally identifiable information transmitted across the Internet are not readily perceptible 
-to web site users. Such information may include your internet protocol address ("IP address"), 
-which identifies your specific computer on the Internet, and
-personally identifiable information stored in session variables, or "cookies" on your 
-computer’s hard drive. ExpertArticles may use these types of hidden information on its 
-web site.</p>
-
-<p class="blockboldunderline"><a id="section4.1">Section 4.1 - Session Information &amp; 
-Cookies</a></p>
-
-<p class="blockindent">ExpertArticles uses both "cookies" and "session variables" in order 
-to enhance your experience with out web site. In fact, ExpertArticles requires you to use a 
-web browser which supports "cookies", and which has the "cookies" feature enabled.&nbsp; 
-ExpertArticles will not intentionally use cookies in any manner that would cause harm to your 
-computer equipment, or which would act as an invasion of your privacy.&nbsp; Cookies and 
-Session variables will ONLY be used to enhance your experience with our web site.</p>
-
-<p class="blockboldunderline"><a id="section4.2">Section 4.2 - IP Addresses</a></p>
-
-<p class="blockindent">ExpertArticles may log the IP addresses of its web site users for 
-statistical ad/or demographic purposes.&nbsp;&nbsp;ExpertArticles may also log IP addresses 
-for use in policing enforcement of the Terms of Service or other Agreements which govern the 
-use of this&nbsp; web site.</p>
-
-<p class="blockindent">ExpertArticles’ Internet Provider, Innerhost.com, may log IP 
-addresses of our users and provide them to ExpertArticles for statistical and analytical 
-purposes. &nbsp;ExpertArticles cannot offer any guarantee about how Innerhost.com may otherwise 
-use information it gathers about your IP address.&nbsp;&nbsp;&nbsp;</p>
-
-<p class="blockboldunderline"><a id="section4.3">Section 4.3 - Linked Web sites</a></p>
-
-<p class="blockindent">The ExpertArticles web site may include links to and/or advertisements 
-by other companies or web sites. These other entities may collect personal information, 
-including identification information from you. Please be advised that the information practices 
-of any web sites linked to ExpertArticles are not covered by this
-privacy statement.</p>
-
-<p class="blockindent">ExpertArticles does not receive any personal information about visitors 
-to the ExpertArticles web site from any third party, including any information collected by or 
-through links to third party web sites and/or advertisements on the ExpertArticles web site.</p>
-
-<p class="largebolditalic"><a id="section5">Section 5 - Opt Out</a></p>
-
-<p class="blockindent">ExpertArticles is committed to protecting the personal, private information 
-of persons who use our web site services. Therefore, ExpertArticles provides web site visitors 
-the ability to opt out of using ExpertArticles' services, and/or receiving information from 
-ExpertArticles.</p>
-
-<p class="blockindent">ExpertArticles' web site users may opt out of participating in the 
-online content submission program by not sending content to ExpertArticles through its web 
-site.&nbsp; ExpertArticles' web site users may opt out of submitting content to ExpertArticles 
-by not otherwise sending content to ExpertArticles (e.g. via e-mail), or not authorizing 
-ExpertArticles' employees or agents to collect content from the user.</p>
-
-<p class="blockindent">Visitors to ExpertArticles' web site may opt out of receiving 
-informational communications about ExpertArticles' services by not submitting a request for 
-information.</p>
-
-<p class="largebolditalic"><a id="section6">Section 6.0 - Contacting the Web Site</a></p>
-
-<p class="blockindent">If you have any questions about this privacy statement, the practices of 
-ExpertArticles' web site, or your dealings with ExpertArticles' web site, you can contact <a class="standard" href="mailto:masonduke@expertarticles.com">Mason Duchatschek</a>, or call 
-ExpertArticles at (800) 930-4246.</p>
-
-</div></td>
-              </tr>
-            </tbody></table>
-          </td>
-        </tr>
-        <tr>
-          <td width="20%" bgcolor="#0000AF" valign="top" align="left">&nbsp;</td>
-          <td width="80%" bgcolor="#FFFFFF" valign="top" align="left">
-            <table border="0" width="100%" bgcolor="#FFFFFF" cellspacing="3" cellpadding="0">
-              <tbody><tr>
-                <td width="100%" bgcolor="#CA0000">&nbsp;</td>
-              </tr>
-            </tbody></table>
-          </td>
-        </tr>
-      </tbody></table>
-
-      <div id="footer">
-        <br>
-        <table width="99%" border="0">
-          <tbody><tr>
-            <td align="bottom" width="45%"><div><a class="bold" href="/legal.asp?pageoption=tos">Terms&nbsp;of&nbsp;Service</a></div><div><a class="bold" href="/legal.asp?pageoption=privacypolicy">Privacy&nbsp;Policy</a></div>
-            </td>
-            <td valign="bottom" align="middle" width="10%">&nbsp;</td>
-            <td valign="bottom" align="right" width="45%"><span class="bold"><sup>©</sup>2000&nbsp;ExpertArticles.com,&nbsp;Inc.&nbsp;All&nbsp;Rights&nbsp;Reserved</span></td>
-          </tr>
-        </tbody></table>
-      </div>
-
-<div class="smallercenter"><b>ExpertArticles.com, Inc.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1028 Beso Ct.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fenton, Mo. 63026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;800-930-4246</b></div>
+        
+	  		  	      
+<!-- end #mainContent -->
+    </div>
+	<!-- This clearing element should immediately follow the #mainContent div in order to force the #container div to contain all child floats --><br class="clearfloat">
+   <div id="footer">
+        <p>© 2007 ExpertArticles.com   Article Directory of Free Reprint  Articles from Expert Authors. All rights reserved.<br>
+        ExpertArticles.com   		 is a Member of the <a href="http://www.glocksoft.com" target="_new">G-Lock Software</a> network. <a href="/?act=19">Contact Us</a> | <a href="/?act=24">Privacy</a> | <a href="/?act=25">Links</a></p>
+  <!-- end #footer --></div>
+<!-- end #container --></div>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-401878-3";
+urchinTracker();
+</script>
 
 
-
-
-</body></html>
+ </body></html>
