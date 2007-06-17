@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopzilla.co.uk privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225153848id_/http%3A//www.shopzilla.co.uk/47_-_content--privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopzilla.co.uk privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617174011id_/http%3A//www.shopzilla.co.uk/47_-_content--privacy) for the most accurate reproduction.*
 
 # Shopzilla UK - Reviews and Prices for UK Stores
 
