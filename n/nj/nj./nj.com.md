@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nj.com privacy policy that was archived on 2006-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061006115124id_/http%3A//www.nj.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nj.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617032845id_/http%3A//www.nj.com/privacypolicy) for the most accurate reproduction.*
 
 # NJ.com: Privacy Policy
 
