@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkhost.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110212102id_/http%3A//thinkhost.com/company/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkhost.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617035327id_/http%3A//www.thinkhost.com/company/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy statement - ThinkHost
 
@@ -32,7 +32,7 @@ Choice/Opt-Out: Our site provides users the opportunity to opt-out of receiving 
 
 Our users have the following options for removing their information from our database to not receive future communications or to no longer receive our service: 
 
-  * You may send a request via e-mail to [Support@ThinkHost.com](mailto:support@thinkhost.com)
+  * You may send a request by [opening a support ticket](http://www.thinkhost.com/services/ticket/newticket.shtml)
 
 
 
