@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the freeringers.net privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017192206id_/http%3A//www.freeringers.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeringers.net privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617023332id_/http%3A//www.freeringers.net/privacy.php) for the most accurate reproduction.*
 
-# Privacy Notice > FreeRingers.net
+# Privacy Policy > FreeRingers.net
 
 How To Contact Us
 
 **Our Commitment To Privacy:**  
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+Your privacy is important to us. To better protect your privacy we provide this policy explaining our online information practices and the choices you can make about the way your information is collected and used. To make this policy easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
 
 **The Information We Collect:**  
-This notice applies to all information collected or submitted on the FreeRingers website. On some pages, you can order products or make requests. The types of personal information collected at these pages are: 
+This policy applies to all information collected or submitted on the FreeRingers website. On some pages, you can order products or make requests. The types of personal information collected at these pages are: 
 
 Name  
 Email address  
@@ -44,4 +44,4 @@ You can correct factual errors in your personally identifiable information by us
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
 **How To Contact Us:**  
-Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/support.php?id=57). 
+Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/support.php?contact=a&rnd=5141db387ebb262d78ca49cba0f832c2). 
