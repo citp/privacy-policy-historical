@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the myyearbook.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206053328id_/http%3A//www.myyearbook.com/%3Fmysession%3DaW5mb19wcml2YWN5JnJlZmVycmVyPTA%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myyearbook.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617094639id_/http%3A//www.myyearbook.com/%3Fmysession%3DaW5mb19wcml2YWN5JnJlZmVycmVyPTA%3D) for the most accurate reproduction.*
 
 # myYearbook -- You've Got Friends!
 
+|  |   
 ---  
 |    
 ---  
@@ -46,7 +47,7 @@ When you register we ask for information such as your name, email address, birth
 
 **Physical Address**  
 myYearbook.com  
-6 Harbourton Ridge Drive  
-Pennington NJ 08534   
+280 Union Square Drive  
+New Hope, PA 18938   
 ---  
  
