@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the habbo.ca privacy policy that was archived on 2006-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060823232120id_/http%3A//www.habbo.ca/footer_pages/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the habbo.ca privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617093809id_/http%3A//www.habbo.ca/footer_pages/privacy_policy.html) for the most accurate reproduction.*
 
 # Habbo ~ Privacy Policy
 
