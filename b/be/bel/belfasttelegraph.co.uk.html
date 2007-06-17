@@ -1,595 +1,1961 @@
-<!--The following is the downloaded HTML source of the belfasttelegraph.co.uk privacy policy that was archived on 2006-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061206170210id_/http%3A//www.belfasttelegraph.co.uk/story.jsp%3Fstory%3D55090) for the most accurate reproduction.-->
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><head>
-
-
-
-<script type="text/javascript"><!--
-
-function storeCookie(key,val) { 
-	var expDate = new Date();
-	var expTime = expDate.getTime() + 1000 * SECS_100DAYS;
-	expDate.setTime( expTime );
-	 	document.cookie = 	key +"="+ val + "; expires="+ expDate.toGMTString() ;
-	
-	//window.alert("Cookie is now :"+ document.cookie );
-	
-	window.location.reload();
-}//storeCookie
-	
-function getCookieVal( key ){
-	var cookiesText = document.cookie;
-	var keyAt = cookiesText.indexOf(key);		//get position of key
-	 
-	 	//window.alert("Cookie Key: "+key+" is at "+ keyAt );
-	
-	  if (keyAt == -1)  return null;  
-	  
-	  var sepAt = cookiesText.indexOf("=", keyAt );					//find next seperator pos after key
-	  var endAt = cookiesText.indexOf(";", sepAt );					//find first delim. after sep.
-	  if (endAt == -1) 	  endAt = cookiesText.length; 		// Last pair has no delimiter
-	  
-	  var val = cookiesText.substring( 1+ sepAt, endAt);
-	  
- 	 	// window.alert("Cookie Key: "+key+" has val \n"+val);
-	  return val;
-}//func
-
-
-
-var portfolioCookie = getCookieVal( "null" );
-SHOW_SUMMARIES =   (portfolioCookie == null) || (portfolioCookie== "1") ;
-//window.status="Show summaries: "+ SHOW_SUMMARIES;
-
-function interceptClickBuyStory( premUrl, premQS, jumpUrl  ){
-	displayClickBuyStory(SHOW_SUMMARIES, premUrl, premQS, jumpUrl);
-	return false;
-}//func
-
-
-function displayClickBuyStory( showSummaries,  premUrl, premQS, jumpUrl  ){
-	if( premUrl.length > 0 ){
-		if( showSummaries )
-			window.location = jumpUrl;
-		else{
-			var btAppend = "$$$javascript:self.close();";    // ensure c&b back button functions properly.
-			var styleQS = "&STYLE_SHEET="+ getCookieVal( "STYLE_SHEET" );
-			newWindow = window.open( premUrl + "?"+ premQS + styleQS + btAppend, "portfolio_window");
-			newWindow.focus();
-		}
-	}else
-		window.location = jumpUrl;
-}//func
-
-
-
-function getDateString(){ 
-	var months = new Array("January","February","March","April","May","June","July","August","September","October","November","December");	
-	var today  = new Date();
-	var year  = today.getYear() , 	month = today.getMonth(),
-	dayOfWk  = today.getDay(), dayOfMonth=today.getDate() ,
-	hh  = today.getHours(),	mm = today.getMinutes();
-
-	if(year < 1000)             year += 1900;         
-	if (hh < 10 ) 	   hh= "0" + hh; 
-	if (mm< 10 )   mm = "0" + mm; 
-
-	var dateStr = dayOfMonth + " "+ months[month] + " "+ year + "  "+ hh+ ":" + mm;
-
-	return dateStr;
-	
-}//function
-
-
-function toggle(button, trueVal, falseVal){
-	if(button.value==trueVal){
-		button.value=falseVal;
-		button.checked=false; 
-	}else{
-		button.value=trueVal;
-		button.checked=true;  
-	}//else
-}//function
-
-
-function openWin1 (url){
-	openNewWin(url,520,600);
-}
-
-function openNewWin(url, w, h){
-	var atts =  'width='+w+',height='+h+',menubar=yes,scrollable=yes,resizable=no,toolbar=no,location=no,directories=no,status=0,toolbar=0,menubar=0,scrollbars=1,resizable=0';
-	var newWindow = open (url, '_blank',atts);
-	newWindow.focus ();
-	if (document.layers)
-		open (location, '_self')
-}
-
-
-
-STYLE_FILES = new Array ("BIG","style_large.css", "MEDIUM", "style_medium.css", "SMALL", "style_small.css");
-DEFAULT_STYLE = "style_small.css";
-function getStyleFile(){
-	var key = getCookieVal( "STYLE_SHEET" );
-	var file=DEFAULT_STYLE;
-	for( s=0; s< STYLE_FILES.length; s+=2 ){
-		if( key == STYLE_FILES[s] )
-			file = STYLE_FILES[s+1];
-	}//for
-	//window.status = "Style :  "+ file;
-
-	return file;
-}//func
-
-
-function getStyleSheet(){
-	document.writeln("<link rel=\"STYLESHEET\" type=\"text/css\" href=\"/includes/styles/style_main.css\">");
-	document.writeln("<link rel=\"STYLESHEET\" type=\"text/css\" href=\"/includes/styles/"+ getStyleFile() +"\">");
-	document.writeln("<style type=\"text/css\" media=\"all\">@import \"/includes/styles/style_ie.css\";</style>");	
-}//func
-
-
-function shuffleArray( dataArray, shuffles ){
-	if( dataArray.length <2)
-		return dataArray;
-	
-	var len = dataArray.length;
-	for( s=0; s< shuffles; s++ ){
-		var shuffled = new Array (len);
-		var shuffPoint =  Math.round( Math.random() * (len-1) );
-	
-		for( e=shuffPoint; e<len;  e++ )
-			shuffled[ e-shuffPoint ] = dataArray[e]; 
-		for( e=0; e<shuffPoint; e++ )
-			shuffled[ e+ (len-shuffPoint) ] = dataArray[e]; 
-	
-		dataArray = shuffled;
-	}//for
-	return dataArray;
-}//fn
-	
-function getRandomAdIds( cmpIds, optIds, totalAds ){
-	cmpIds = shuffleArray( cmpIds, 3 );
-	optIds = shuffleArray( optIds, 3 );
-	
-	var adArray = new Array( totalAds );
-	var adCount =0;
-	for( a=0; a<cmpIds.length; a++){
-		if(adCount < totalAds){
-			adArray[adCount] = cmpIds[a] ;
-			adCount++;
-		}//if
-	}
-	for( a=0; a<optIds.length; a++){
-		if( adCount<totalAds ){
-			adArray[adCount] = optIds[a] ;
-			adCount++;
-		}//if
-	}//for
-	
-	return adArray;	
-}//func
-
-
-
-//-->
-</script>
-
-
-<script language="javascript" type="text/javascript"><!--
-
-if (parent != self)
-	window.parent.location = location;
-	
-// getStyleSheet();	// in clientScripts include
-
-//-->
-</script>
-
-<link rel="STYLESHEET" type="text/css" href="/includes/styles/style.css">
-
-<script language="JavaScript">
-<!--
-var browserName=navigator.appName; 
- if (browserName=="Microsoft Internet Explorer")
-  document.write('<link rel="stylesheet" type="text/css" href="/includes/styles/style_ie.css">');
-//-->
-</script>
-
-<title>Belfast Telegraph</title>
-<meta name="description" content="Belfast Telegraph News">
-<meta name="Keywords" content="Ireland, Belfast, England, UK, London, News, traveller, visitor, work, New Zealand, Australia, South Africa, working visa, news, travel, working holiday, property, information, travellers, guide, employment, employment agency, careers, jobs">
-<meta http-equiv="Content-Script-Type" content="text/javascript">
-<meta name="ROBOTS" content="NOARCHIVE">
-</head>
-
-
-<body bgcolor="ffffff" text="#000000" leftmargin="5" topmargin="0" marginheight="0" marginwidth="0">
-
-<a name="top"></a>
- 
-<!-- top table -->
-<table width="760" border="0" cellspacing="0" cellpadding="0" align="center">
-  <tbody><tr class="doubledots"> 
-    <td align="center">
-        <!--  Advertron2: BT - Promo Strip - Archive   ( #1109 )  -->
-<a href="http://www.belfasttelegraph.co.uk"><img src="http://www.belfasttelegraph.co.uk/img/furniture/ipr2005b.gif" width="760" height="27" border="0" vspace="0"></a>
-  </td></tr>
-</tbody></table>
-
-
-<!-- branding & banner-->
-<table width="760" border="0" align="center" cellpadding="0" cellspacing="0" height="64">
-<tbody><tr> 
-<td width="268" valign="top"><a href="/"><img src="/img/furniture/branding.gif" width="288" height="60" border="0"></a></td>
-<td width="16">&nbsp;</td>
-<td width="476" align="right" valign="top">
-<!--  Advertron2: BT - Adlink Banner  - Homepage   ( #765 )  -->
-<!-- begin ad tag  (tile=1) -->
-<script language="JavaScript" type="text/javascript">
-ord=Math.random()*10000000000000000;
-document.write('<script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/Belfast.etype/homepage;tile=1;dcopt=ist;sz=468x60;ord=' + ord + '?" type="text/javascript"><\/script>');
-</script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/Belfast.etype/homepage;tile=1;dcopt=ist;sz=468x60;ord=2076289895657332.8?" type="text/javascript"></script><noscript><a href="http://ad.uk.doubleclick.net/jump/Belfast.etype/homepage;tile=1;sz=468x60;ord=123456789?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/Belfast.etype/homepage;tile=1;sz=468x60;ord=123456789?" width="468" height="60" border="0" alt=""></a></noscript>
-<!-- End ad tag --></td></tr></tbody></table>
-
-<!-- stripadvert start-->
-
-<table width="760" border="0" align="center" cellpadding="0" cellspacing="0" height="85"><tbody><tr><td valign="top">
-<!--  Advertron2: BT etype Homepage Triplets   ( #2033 )  -->
-<table width="760" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td width="250"><!-- begin ad tag  (tile=5) -->
-<script language="JavaScript" type="text/javascript">
-document.write('<script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/Belfast.etype/homepage_left;tile=5;sz=250x85;ord=' + ord + '?" type="text/javascript"><\/script>');
-</script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/Belfast.etype/homepage_left;tile=5;sz=250x85;ord=2076289895657332.8?" type="text/javascript"></script><noscript><a href="http://ad.uk.doubleclick.net/jump/Belfast.etype/homepage_left;tile=5;sz=250x85;ord=123456789?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/Belfast.etype/homepage_left;tile=5;sz=250x85;ord=123456789?" width="250" height="85" border="0" alt=""></a></noscript>
-<!-- End ad tag --></td>
-    <td width="5"></td>
-    <td width="250"><!-- begin ad tag  (tile=5) -->
-<script language="JavaScript" type="text/javascript">
-document.write('<script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/Belfast.etype/homepage_middle;tile=7;sz=250x85;ord=' + ord + '?" type="text/javascript"><\/script>');
-</script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/Belfast.etype/homepage_middle;tile=7;sz=250x85;ord=2076289895657332.8?" type="text/javascript"></script><noscript><a href="http://ad.uk.doubleclick.net/jump/Belfast.etype/homepage_middle;tile=7;sz=250x85;ord=123456789?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/Belfast.etype/homepage_middle;tile=7;sz=250x85;ord=123456789?" width="250" height="85" border="0" alt=""></a></noscript>
-<!-- End ad tag --></td>
-    <td width="5"></td>
-    <td width="250"><!-- begin ad tag  (tile=5) -->
-<script language="JavaScript" type="text/javascript">
-document.write('<script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/Belfast.etype/homepage_right;tile=8;sz=250x85;ord=' + ord + '?" type="text/javascript"><\/script>');
-</script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/Belfast.etype/homepage_right;tile=8;sz=250x85;ord=2076289895657332.8?" type="text/javascript"></script><noscript><a href="http://ad.uk.doubleclick.net/jump/Belfast.etype/homepage_right;tile=8;sz=250x85;ord=123456789?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/Belfast.etype/homepage_right;tile=8;sz=250x85;ord=123456789?" width="250" height="85" border="0" alt=""></a></noscript>
-<!-- End ad tag --></td>
-  </tr>
-</tbody></table>
-</td></tr></tbody></table>
-
-<!-- stripadvert end-->
-
-<!-- site links -->
-<table width="760" border="0" cellspacing="0" cellpadding="0" align="center">
-<tbody><tr class="doubledots"> 
-<td align="center">
-<a class="site-links" href="http://www.belfasttelegraph.co.uk/">Belfast Telegraph</a>&nbsp; | &nbsp;
-<a class="site-links" href="http://www.sundaylife.co.uk/">Sunday Life</a> &nbsp;|&nbsp; 
-<a class="site-links" href="http://www.irelandssaturdaynight.co.uk/">Ireland's Saturday Night</a> &nbsp;|&nbsp; 
-<a class="site-links" href="http://www.belfasttelegraph.co.uk/news/business_telegraph/">Business Telegraph</a> &nbsp;|&nbsp; 
-<a class="site-links" href="http://www.belfasttelegraph.co.uk/jobfinder/">Jobfinder</a> &nbsp;|&nbsp; 
-<a class="site-links" href="http://www.propertynews.com/">PropertyNews.com</a>
-</td></tr>
-<tr height="4"><td height="4"><spacer type="block" height="4" width="4"></spacer></td></tr>
-</tbody></table>
-
-<!-- site links -->
-
-<!-- end top table --> 
-
-<!-- main table --> 
-
-<table width="760" border="0" cellspacing="0" cellpadding="0" align="center">
-<tbody><tr><td width="130" valign="top"> 
-<!-- navigation --> 
-
-
-
-<table width="130" border="0" cellspacing="0" cellpadding="2">
-<tbody><tr class="hubnavprimary"><td>&nbsp;<a href="http://www.belfasttelegraph.co.uk/" class="navprimary">Belfast Telegraph</a></td></tr>
-<tr><td class="grey-text">
-	&nbsp;<a href="http://www.belfasttelegraph.co.uk/news/" class="navsecondary">News</a><br>
-+&nbsp;<a href="http://www.belfasttelegraph.co.uk/news/business/" class="navtertiary">Business</a><br>
-+&nbsp;<a href="http://www.belfasttelegraph.co.uk/news/business_telegraph/" class="navtertiary">Business Telegraph</a><br>
-+&nbsp;<a href="http://www.belfasttelegraph.co.uk/news/features/" class="navtertiary">Features</a><br>
-+&nbsp;<a href="http://www.belfasttelegraph.co.uk/news/letters/" class="navtertiary">Letters</a><br>
-+&nbsp;<a href="http://www.belfasttelegraph.co.uk/news/columnists/" class="navtertiary">Telegraph<br>&nbsp;&nbsp;&nbsp;&nbsp;Columnists</a><br>
-+&nbsp;<a href="http://www.belfasttelegraph.co.uk/news/opinion/" class="navtertiary">Opinion</a><br>
-+&nbsp;<a href="http://www.belfasttelegraph.co.uk/news/northwest_edition/" class="navtertiary">Northwest Edition</a><br>
-+&nbsp;<a href="http://www.belfasttelegraph.co.uk/news/northwest_weekly/" class="navtertiary">Northwest Weekly</a><br>
-+&nbsp;<a href="http://www.belfasttelegraph.co.uk/news/education/" class="navtertiary">Education</a><br>
-+&nbsp;<a href="http://forums.indigital.co.uk/id-beltel?lgnF=Y&amp;fpi=yes" class="navtertiary">Interactive Letters</a><br>
-+&nbsp;<a href="/html/weather/index.shtml" class="navtertiary">Weather</a><br>
-+&nbsp;<a href="http://www.themeetingpointni.co.uk/" class="navtertiary">Dating</a><br>
-+&nbsp;<a href="http://www.belfasttelegraph.co.uk/news/media_pack/" class="navtertiary">Media Pack</a><br>
-&nbsp;<a href="http://www.belfasttelegraph.co.uk/sport/" class="navsecondary">Sport</a><br>
-+&nbsp;<a href="http://www.belfasttelegraph.co.uk/sport/football/" class="navtertiary">Football</a><br>
-+&nbsp;<a href="http://www.belfasttelegraph.co.uk/sport/worldcup_2006/index.jsp" class="navtertiary">World Cup 2006</a><br>
-+&nbsp;<a href="http://www.belfasttelegraph.co.uk/sport/premiership/" class="navtertiary">Premiership</a><br>
-+&nbsp;<a href="http://www.belfasttelegraph.co.uk/sport/rugby/" class="navtertiary">Rugby</a><br>
-+&nbsp;<a href="http://www.belfasttelegraph.co.uk/sport/gaelic_games/" class="navtertiary">Gaelic Games</a><br>
-+&nbsp;<a href="http://www.belfasttelegraph.co.uk/sport/general/" class="navtertiary">General</a><br>
-+&nbsp;<a href="http://www.belfasttelegraph.co.uk/sport/local_heroes/" class="navtertiary">Local Heroes<img src="http://www.belfasttelegraph.co.uk/img/furniture/new.gif" border="0"></a><br>
-&nbsp;<a href="http://www.belfasttelegraph.co.uk/lifestyle/" class="navsecondary">Lifestyle</a><br>
-+&nbsp;<a href="http://www.belfasttelegraph.co.uk/lifestyle/arts/" class="navtertiary">Arts</a><br>
-+&nbsp;<a href="http://www.belfasttelegraph.co.uk/lifestyle/film_tv/" class="navtertiary">Film &amp; TV</a><br>
-+&nbsp;<a href="http://www.belfasttelegraph.co.uk/lifestyle/food_drink/" class="navtertiary">Food &amp; Drink</a><br>
-+&nbsp;<a href="http://www.belfasttelegraph.co.uk/lifestyle/music/" class="navtertiary">Music</a><br>
-+&nbsp;<a href="http://www.belfasttelegraph.co.uk/lifestyle/health_beauty/" class="navtertiary">Health &amp; Beauty</a><br>
-+&nbsp;<a href="http://www.belfasttelegraph.co.uk/lifestyle/motoring/" class="navtertiary">Motoring</a><br>
-+&nbsp;<a href="http://www.belfasttelegraph.co.uk/lifestyle/travel/" class="navtertiary">Travel</a><br>
-+&nbsp;<a href="http://www.belfasttelegraph.co.uk/lifestyle/special_interest/" class="navtertiary">Special Interest</a><br>
-+&nbsp;<a href="http://www.belfasttelegraph.co.uk/lifestyle/twentyfourseven/" class="navtertiary">Twentyfourseven</a><br>
-&nbsp;<a href="http://www.propertynews.com/" class="navsecondary">PropertyNews.com</a><br>
-&nbsp;<a href="http://www.sundaylife.co.uk" class="navsecondary">Sunday Life</a><br>
-&nbsp;<a href="http://www.irelandssaturdaynight.co.uk/" class="navsecondary">Ireland's<br>&nbsp;Saturday Night</a><br>
-&nbsp;<a href="http://www.belfasttelegraphgaming.co.uk/" class="navsecondary">Gaming</a><br>
-&nbsp;<a href="http://www.belfasttelegraph.co.uk/top_100_cos/" class="navsecondary">Top 100 Companies</a><br>
-&nbsp;<a href="http://www.belfasttelegraph.co.uk/home_delivery/" class="navsecondary">Home Delivery</a><br>
-&nbsp;<a href="/search/search.jsp" class="navsecondary">Online Archive</a><br>
-&nbsp;<a href="http://www.belfasttelegraph.co.uk/news/features/story.jsp?story=668613" class="navsecondary">Calendar 2007</a><br>
-&nbsp;<a href="http://www.belfasttelegraph.co.uk/adsforfree/" class="navsecondary">Ads For Free</a><br>
-&nbsp;<a href="http://www.belfasttelegraph.co.uk/news/features/story.jsp?story=452829" class="navsecondary">At The Movies</a><br>
-
-
-</td></tr>
-<tr><td height="1"><img src="/img/furniture/trans.gif" width="1" height="1"></td></tr>
-</tbody></table>
-<br clear="all">
-<!-- /navigation--> 
-</td>
-<td width="10" class="black-line-left">&nbsp;</td>
-<td align="left" valign="top">
-
-
-
-
-
-
-
-
-
-
-
-<!-- content -->
-
-<!--	Template: story.jsp		-->
-<!--	Story ID: 55090-->
-
-
-
-
-<span class="head1">Privacy Policy</span><br>
-<span class="head2">Please read this carefully</span><br>
-
-
-09 October 2004
-
-
-	<!-- Do not show editorial column ! -->
-<indy:articlecolumns columns="1">
-<!-- Tables below -->
-
-
-<p>Before using the Website (that is, any site operated by <b>Independent News &amp; Media plc</b> companies) it is your responsibility to read the Privacy Policy. You can notify us in the manner set out below if you do not want us to share information about you with third parties.
-</p><p>
-<b>The basic principles</b>
-</p><p>
-By accessing and using the Website you are agreeing to be legally bound by the <a href="story.jsp?story=55087"><b>Terms of Use</b></a> and this Privacy Policy. You should therefore also read the Terms of Use before using the Website.
-</p><p>
-ID is determined to protect your privacy. It is very important to us that you should be able to use and enjoy the Website without having to compromise your privacy unacceptably.
-</p><p>
-Knowing something about our users is, however, necessary to ensure that our service is continually improved. We need to build an accurate picture of the needs and wishes of our users, and to be able to communicate with you. That enables us to offer a service that is relevant and truly interactive, which is what our users expect. It also helps us to maintain free-to-user access to much of  the Website.
-</p><p>
-
-<b>We answer your important questions</b>
-</p><p>
-<i>"What information do you collect about me?"</i>
-</p><ul>
-<li>We automatically collect some data about our users' browsing actions and patterns. This is aggregate data and does not identify any individual.
-</li><li>We may also ask you to provide personal information on a voluntary basis in order to get a clearer picture of our users. It is then entirely up to you whether you are happy to give us this information.
-</li><li>In the course of entering competitions, promotions and other online offers you will be asked to give some details about yourself. You may also choose to e–mail us or make contact with us in other ways. Such contact gives us information about you.
-</li><li>If you have any financial dealings or make purchases with our trading partners on co–branded sites, they will ask for certain information. This information may be shared with us.
-</li></ul>
-<i>"For what purposes do you collect and use this information?"</i>
-<ul>
-<li>We use aggregate audience details (where no individual is identifiable) to help us improve our understanding of our users and their preferences. We use it to assist us in arranging relevant advertising, commercial opportunities and competitions, as well as ensuring the best editorial coverage. It also helps us develop the Website and audit its use.
-</li><li>The information about you as an identifiable individual, including contact details, may be used in the following ways:
-</li><li>to conduct market research and other surveys.
-</li><li>to create and draw to your attention editorial material and commercial opportunities that may be of interest to you.
-</li><li>to be shared with advertisers, trading partners and other commercial entities with whom we have or might have an association. We may also share the information that they obtain about their users, which may include you.
-</li></ul>
-<i>"How private are my details?</i>
-<ul>
-<li>Apart from other companies in the Independent News &amp; Media group, we only share personal information about you with third parties whom we have selected carefully and with whom we have, or may have, a commercial relationship. ID complies with the relevant legal requirements and takes all reasonable care to ensure that your information is secure and private and is only seen by responsible third parties. However we cannot be held responsible for the actions of any third party who receives or obtains access to the information, nor for any breach of security.
-</li><li>If you tell us that you do not want us to use your details, then data about your use of the Web Site would then only form part of aggregated statistics and would not be related to you as an individual.
-</li><li>You can ask to see the information we have about you by e-mailing a request to <a href="mailto:customerservice@independent.co.uk">customerservice@independent.co.uk</a>.
-</li></ul>
-<i>"What do I do if I am not happy for you to share information about me with others?"</i>
-<ul>
-<li>You may not wish us to share personal details about you with third parties outside the Group, or to use your information in the other ways we have described in this Privacy Policy. You can e-mail us at <a href="mailto:customerservice@independent.co.uk">customerservice@independent.co.uk</a> at any time to let us know of any objections you may have to how we use or disclose your data in the ways set out in this Privacy Policy..Your personal details may in any event be shared with third party organisations we have contracted to provide services to us, on an agency basis, which include processing data. We may also have to release information (which could include the contents of e-mail communications between any persons) because of a legal requirement on us or pursuant to a court order.
-</li></ul>
-
-<p>
-
-<b>Use of cookies on a website </b>
-</p>
-<ul><li><i> The basic principles</i><br>
-A cookie is a text-only string of information that a website transfers to the cookie file of the browser of your computer's hard disk so that the website can remember who you are. A cookie will typically contain the name of the domain from which the cookie has come, the "lifetime" of the cookie, and a value, usually a randomly generated unique number.
-<br>
-Two types of cookies are used on the Website: <b>Session Cookies</b> which are temporary cookies that remain in the cookie file of your browser until you leave the Website. <b>Persistent Cookies</b> which remain in the cookie file of your browser for much longer (though how long will depend on the lifetime of each specific cookie). Cookies can help a website to arrange content to match your preferred interests more quickly. Most major websites use cookies. Cookies cannot be used by themselves to identify you. Find out more about 
-<a href="http://www.allaboutcookies.org" target="NEW">cookies</a> here. </li></ul>
-
-<ul><li>
-<i>How we collect cookies on the Website and what information we collect</i>
-<br>
-<b>Session Cookies: </b>To allow you to carry information across pages of the Website and avoid having to re-enter information. <b>Persistent Cookies: </b>To help us recognise you as a unique visitor (just a number) when you return to the Website and to allow us to tailor content, advertisements and the presentation of the Website to match your preferences.  To compile anonymous, aggregated statistics that allow us to understand how users use the Website and to help us improve the structure of the Website. We cannot identify you personally in this way.
-
-
-<ul><li>
-<i>Third Party Cookies. </i>
-<br> Third parties serve cookies via the Website. These are used for the following purposes: To serve advertisements on the Website and track whether these advertisements are clicked on by users. To control how often you are shown a particular advertisement. To count the number of anonymous users of the Website.To provide security within transactions.</li></ul>
-
-
-<ul><li>
-<i>Use of Web Beacons</i>
-<br>
-Some of our web pages may contain electronic images know as web beacons (sometimes know as clear gifs) that allow us to count users who have visited these pages. Web beacons collect only limited information which including a cookie number, time and date of a page view, and a description of the page on which the web beacon resides. We may also carry web beacons placed by third party advertisers. These beacons do not carry any personally identifiable information and are only used to track the effectiveness of a particular campaign. Find out more about <a href="http://www.allaboutcookies.org/web-beacons/index.html" target="NEW">Web Beacons </a> 
-</li></ul>
-
-<ul><li>
-<i>Disabling/Enabling Cookies. </i>
-<br>You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of the Website if cookies are disabled. Find out how to <a href="http://www.allaboutcookies.org/manage-cookies/" target="NEW">disable/enable cookies</a></li></ul>
-<p></p>
-<b>International transfer of personal data</b>
-<br>
-As you will know, the Internet does not recognise national boundaries. Services on the net are accessible globally so collection and transmission of personal data is not always confined to one country. You should be aware that by using the Website and those of our partners or any site we link through to, your personal data may be processed in or transferred to other countries, the USA for example, and you agree to your personal data being transferred or processed in this way.
-<p>
-
-<b>Further information</b>
-<br>
-If you want further information, or wish to communicate with us about this Privacy Policy and your wishes about your personal information, please e-mail us at  <a href="mailto:customerservice@independent.co.uk">customerservice@independent.co.uk</a>. 
-</p><p>
-
-<b>Company information</b>
-<br>
-Independent Digital (UK) Limited is a company in the <a href="http://www.independentnewsmedia.com" target="new">Independent News &amp; Media</a> group, registered in England and Wales under company number 3761191, whose registered office is at Independent House, 191 Marsh Wall, London E14 9RS, UK.<br></p>
-
+<!--The following is the downloaded HTML source of the belfasttelegraph.co.uk privacy policy that was archived on 2007-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070617132136id_/http%3A//www.belfasttelegraph.co.uk/legals/article1617183.ece) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+    <title>
+        
 	
 
 
 
 
-&nbsp;<a href="javascript:history.back()" class="site-links">Back</a>
-&nbsp;|&nbsp;<a class="site-links" href="#top">Return to top</a>
-&nbsp;|&nbsp;<a href="/low_res/story.jsp?story=55090&amp;host=26&amp;dir=674" class="site-links">Printable Story</a><br>
 
 
 
-<!-- start of footer -->
 
 
 
-</li></ul></indy:articlecolumns></td>
-<td width="11" class="black-line-right">&nbsp;</td>
-<td width="120" align="right" valign="top"> 
 
-<!-- date -->
 
-<!-- Mini Search -->
-<table width="120" border="0" cellpadding="2" cellspacing="0" bgcolor="#EEF5F6">
-  <tbody><tr> 
-    <form action="/search/search.jsp" class="searchbox" name="minisearch"></form>
-      <td><div align="left">SiteSearch<br>
-          <input class="box" name="keywords" onclick="document.minisearch.keywords.value='';" size="9">
-          <input class="button" name="submit" type="submit" value="Go">
-        </div></td>
+
+
+
+
+	
+		Privacy Policy - 
+	
+	
+	
+	Legals
+ - 
+Belfast Telegraph
+
+
+
+
+	
+    </title>
+    <meta name="keywords" content="belfast, belfast news, news belfast, irish news, news ireland, irish politics, northern irish politics, telegraph, belfast telegraph, northern ireland, newspaper, news, jobs, sport, classifieds, homes, property, business">
+    <meta name="description" content="belfast, belfast news, telegraph, northern ireland, newspaper, news, jobs, sport, classifieds, homes, property, business">
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
     
-  </tr>
-  <tr bgcolor="#223D40"> 
-    <td height="2"></td>
-  </tr>
-</tbody></table>
 
 
 
-<!-- commercial adverts -->
-
-<table cellpadding="0" cellspacing="0">
-<tbody><tr align="right" valign="top"><td><img src="/img/furniture/trans.gif" width="120" height="0" alt="" border="0"></td></tr>
-
-<tr align="right" valign="top"><td><!--  Advertron2: Bt etype HalfSky Homepage   ( #2055 )  -->
-<a href="http://www.belfasttelegraph.co.uk/news/features/story.jsp?story=706302"><img src="http://www.belfasttelegraph.co.uk/img/editorial/august06/Book-Collection_button2.gif" width="120" height="120" alt="Children's Book Collection" border="0"></a>
-
-<!-- begin ad tag  (tile=6) -->
-<script language="JavaScript" type="text/javascript">
-document.write('<script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/Belfast.etype/homepage;tile=6;sz=120x300;ord=' + ord + '?" type="text/javascript"><\/script>');
-</script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/Belfast.etype/homepage;tile=6;sz=120x300;ord=2076289895657332.8?" type="text/javascript"></script><noscript><a href="http://ad.uk.doubleclick.net/jump/Belfast.etype/homepage;tile=6;sz=120x300;ord=123456789?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/Belfast.etype/homepage;tile=6;sz=120x300;ord=123456789?" width="120" height="300" border="0" alt=""></a></noscript>
-<!-- End ad tag -->
 
 
-<!-- begin ad tag  (tile=2) -->
-<script language="JavaScript" type="text/javascript">
-document.write('<script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/Belfast.etype/homepage;tile=2;sz=120x600;ord=' + ord + '?" type="text/javascript"><\/script>');
-</script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/Belfast.etype/homepage;tile=2;sz=120x600;ord=2076289895657332.8?" type="text/javascript"></script><noscript><a href="http://ad.uk.doubleclick.net/jump/Belfast.etype/homepage;tile=2;sz=120x600;ord=123456789?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/Belfast.etype/homepage;tile=2;sz=120x600;ord=123456789?" width="120" height="600" border="0" alt=""></a></noscript>
-<!-- End ad tag --></td></tr>  
-<tr align="right" valign="top"><td><img src="/img/furniture/trans.gif" width="120" height="5" alt="" border="0"></td></tr>
-
-<tr align="right" valign="top"><td><!--  Advertron2: BT etype Sky Homepage   ( #2054 )  -->
-<!-- begin ad tag -->
-<script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/Belfast.sky2.etype/homepage;sz=120x600;ord=[timestamp]?" type="text/javascript"></script>
-<noscript><a href="http://ad.uk.doubleclick.net/jump/Belfast.sky2.etype/homepage;sz=120x600;ord=[timestamp]?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/Belfast.sky2.etype/homepage;sz=120x600;ord=[timestamp]?" width="120" height="600" border="0" alt=""></a></noscript>
-<!-- End ad tag -->
 
 
-</td></tr>  
-<tr align="right" valign="top"><td><img src="/img/furniture/trans.gif" width="120" height="5" alt="" border="0"></td></tr>
 
-</tbody></table>
 
-<!-- commercial adverts end --> 
-<br>
-</td>
-</tr>
-</tbody></table>
+<link rel="stylesheet" type="text/css" media="all" href="http://www.belfasttelegraph.co.uk/legals/article1617183.ece?service=css&amp;style=all&amp;">
+<link rel="stylesheet" type="text/css" media="screen" href="http://www.belfasttelegraph.co.uk/legals/article1617183.ece?service=css&amp;style=screen&amp;">
+<link rel="stylesheet" type="text/css" media="print" href="http://www.belfasttelegraph.co.uk/legals/article1617183.ece?service=css&amp;style=print&amp;">
 
-<!-- content adverts --> 
 
-<!-- our content-->
-<table width="760" border="0" cellspacing="0" cellpadding="0" align="center">
-<tbody><tr>
-<td align="center">
-<hr width="550" size="1" align="center">
-<a class="site-links" href="http://www.belfasttelegraph.co.uk/story.jsp?story=55087">Terms &amp; conditions</a> | 
-<a class="site-links" href="http://www.belfasttelegraph.co.uk/story.jsp?story=55090">Privacy policy</a> | 
-<a class="site-links" href="http://www.belfasttelegraph.co.uk/news/media_pack/story.jsp?story=431720">Advertise online</a> | 
-<a class="site-links" href="http://www.belfasttelegraph.co.uk/news/media_pack/story.jsp?story=437152">Advertise in print</a> | 
-<a class="site-links" href="http://www.belfasttelegraph.co.uk/news/story.jsp?story=139438">Contact us</a> |
-<br clear="all"><span class="black12px">© 2006 Independent News and Media (NI) <br>a division of Independent News &amp; media (UK) Ltd</span></td>
-</tr>
-</tbody></table>
-<!-- our content end-->
+    
 
-<!-- Netscape re-size -->
 
-<script language="javascript" type="text/javascript">
 
-<!--
 
-function WM_netscapeCssFix () {
-	if (document.WM.WM_netscapeCssFix.initWindowWidth != window.innerWidth || document.WM.WM_netscapeCssFix.initWindowHeight != window.innerHeight) {
-		document.location = document.location;
-	}
-}
 
-function WM_netscapeCssFixCheckIn () {
-	if ((navigator.appName == 'Netscape') && (parseInt(navigator.appVersion) == 4)) {
-		if (typeof document.WM == 'undefined') {
-			document.WM = new Object;
+
+
+
+
+<script type="text/javascript" src="http://www.belfasttelegraph.co.uk/legals/article1617183.ece?service=script&amp;script=head&amp;"></script>
+
+
+    
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+    
+  
+
+  
+
+  
+  
+
+  
+    
+    
+    
+
+    
+      
+      
+      
+      
+      
+    
+
+    
+
+    
+  
+
+
+    
+  </head>
+  <body>
+    
+
+
+
+
+
+
+
+
+
+<div id="infoBar"> 
+  <p class="quickWeather">
+  	
+
+
+
+
+Sunday, June 17, 2007 &nbsp;&nbsp; 
+  	
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="http://www.belfasttelegraph.co.uk/weather/"><strong>Weather:</strong></a>
+<a href="http://www.belfasttelegraph.co.uk/weather/"><img src="http://www.belfasttelegraph.co.uk/template/ver/gfx/template/components/weather/icons/4s.gif" alt="weather icon" title=""></a>
+<a href="http://www.belfasttelegraph.co.uk/weather/">Hi:  17°C / Lw: 12°C</a>
+
+
+  </p>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+  <ul class="quickLinks">
+    
+    
+    
+      
+      
+      <li><a href="http://www.loadzajobs.co.uk/">Loadzajobs </a></li>
+      
+    
+      
+       | 
+      <li><a href="http://www.propertynews.com" target="_blank">Propertynews </a></li>
+      
+    
+      
+       | 
+      <li><a href="http://www.sundaylife.co.uk" target="_blank">Sunday Life </a></li>
+      
+    
+      
+       | 
+      <li><a href="http://www.irelandssaturdaynight.co.uk" target="_blank">Ireland's Saturday Night </a></li>
+      
+    
+    
+      <li class="siteMap"> | <a href="site-map/">Sitemap</a></li>
+    
+  </ul>
+
+
+</div>
+
+
+<div id="header">
+  <p class="logo"><a href="http://www.belfasttelegraph.co.uk/"><img src="http://www.belfasttelegraph.co.uk/template/ver/gfx/template/components/header/belfasttelegraph_logo.gif" alt="Belfast Telegraph Digital" title="Belfast Telegraph Digital" width="292" height="62"></a></p>
+
+
+	
+	
+		
+	
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+    
+  
+
+  
+
+  
+  
+
+  
+    
+    
+    
+
+    
+
+    
+      
+      <div id="Banner" class="ad">
+        
+        
+          
+            
+              
+                
+                
+                
+                
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="Banner-0" class="singleAd">
+  
+  
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+   
+    
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+  
+  <iframe src="http://ad.uk.doubleclick.net/adi/homepage.belfasttelegraph.co.uk/legals/;sz=468x60;pos=Banner0;ord=11820863?" name="frame1" width="468" height="60" frameborder="0" border="0" marginwidth="0" marginheight="0" scrolling="no">
+   <a href="http://ad.uk.doubleclick.net/jump/homepage.belfasttelegraph.co.uk/legals/;sz=468x60;pos=Banner0;ord=11820863?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/homepage.belfasttelegraph.co.uk/legals/;sz=468x60;pos=Banner0;ord=11820863?" border="0" height="60" width="468" alt=""></a>
+  </iframe>
+  
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+  
+  
+  
+  
+  
+  
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span id="Banner-1" class="singleAd">
+  
+  
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+   
+    
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+  
+  <iframe src="http://ad.uk.doubleclick.net/adi/homepage.belfasttelegraph.co.uk/legals/;sz=728x90;pos=Banner1;ord=11820863?" name="frame1" width="728" height="90" frameborder="0" border="0" marginwidth="0" marginheight="0" scrolling="no">
+   <a href="http://ad.uk.doubleclick.net/jump/homepage.belfasttelegraph.co.uk/legals/;sz=728x90;pos=Banner1;ord=11820863?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/homepage.belfasttelegraph.co.uk/legals/;sz=728x90;pos=Banner1;ord=11820863?" border="0" height="90" width="728" alt=""></a>
+  </iframe>
+  
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+  
+  
+  
+  
+  
+  
+
+
+</span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="Banner-2" class="singleAd">
+  
+  
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+   
+    
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+  <script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/homepage.belfasttelegraph.co.uk/legals/;key=placement_100;sz=300x400;pos=Banner2;ord=11820863?"></script>
+  <noscript>
+   <a href="http://ad.uk.doubleclick.net/jump/homepage.belfasttelegraph.co.uk/legals/;key=placement_100;sz=300x400;pos=Banner2;ord=11820863?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/homepage.belfasttelegraph.co.uk/legals/;key=placement_100;sz=300x300;pos=Banner2;ord=11820863?" width="300" height="400" border="0" alt=""></a>
+  </noscript>
+  
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+  
+  
+  
+  
+  
+  
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="Banner-3" class="singleAd">
+  
+  
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+   
+    
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+  <script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/homepage.belfasttelegraph.co.uk/legals/;key=placement_100;sz=1x1;pos=Banner3;ord=11820863?"></script>
+  <noscript>
+   <a href="http://ad.uk.doubleclick.net/jump/homepage.belfasttelegraph.co.uk/legals/;key=placement_100;sz=1x1;pos=Banner3;ord=11820863?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/homepage.belfasttelegraph.co.uk/legals/;key=placement_100;sz=1x1;pos=Banner3;ord=11820863?" width="1" height="1" border="0" alt=""></a>
+  </noscript>
+  
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+  
+  
+  
+  
+  
+  
+
+
+</div>
+
+
+
+            
+          
+        
+          
+        
+          
+        
+        
+      </div>
+    
+
+    
+  
+
+
+
+
+	
+
+	
+	<table width="760" cellspacing="0">
+	    <tbody><tr> 
+	      <td>
+			  	
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+  <ul class="login">
+    <li><strong><span>Belfast Telegraph - IPR Website of the Year </span></strong></li><strong>
+  </strong></ul><strong>
+
+
+
+
+				</strong></td>
+	      <td>
+	        
+
+
+
+
+
+
+
+
+
+
+
+  <form name="simpleSearchForm" method="get" action="/search/simple.do;jsessionid=d94e09cfce6f64b18e5630e4152971da68fd5353181.e3mKa3yQaN8Qe38Ka3mPc34Qahr0n6jAmljGr5XDqQLvpAe">
+     <p class="quickSearch">
+      <input type="hidden" name="publicationId" value="105953">
+      <input type="hidden" name="includeSectionId" value="942">
+      <input type="hidden" name="successUrl" value="http://www.belfasttelegraph.co.uk/search/index.jsp?mode=result">
+      
+
+      <input type="hidden" name="searchEngineName" value="lucySearch1">
+      <input type="hidden" name="includeSubSections" value="true">
+      <input type="hidden" name="pageLength" value="25">
+
+      <input type="hidden" name="articleType" value="news">
+      <input type="hidden" name="sortString" value="score">
+      <input type="hidden" name="maxRows" value="500">
+
+
+
+      <label for="searchString">Search Site</label>
+      <input id="searchString" name="searchString">
+      <select name="from"><option value="3 months">3 months back</option>
+<option value="2007">archive since 2007</option>
+<option value="2006">archive since 2006</option>
+<option value="2005">archive since 2005</option>
+<option value="2004">archive since 2004</option>
+<option value="2003">archive since 2003</option>
+<option value="2002">archive since 2002</option>
+<option value="2001">archive since 2001</option>
+<option value="2000">archive since 2000</option>
+<option value="1999">archive since 1999</option>
+<option value="1998">archive since 1998</option>
+<option value="1997">archive since 1997</option>
+<option value="1996">archive since 1996</option>
+<option value="1995">archive since 1995</option></select>
+      <input type="submit" id="submitQuickSearch" name="submitQuickSearch" value="Go" class="button">
+      <a href="http://www.belfasttelegraph.co.uk/search/index.jsp"><strong>Advanced Search</strong></a>
+     </p>
+  </form>
+
+  
+	      </td>
+	    </tr>
+	</tbody></table>
+	
+</div>
+
+ 
+    <table width="760" cellspacing="0" id="main">
+      <tbody><tr valign="top">
+        <td width="139" class="left">
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="navigation">
+      
+      
+        
+        
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+        <ul class="loadza">
+        
+            <li><a href="http://www.loadzajobs.co.uk" target="_blank">Loadzajobs.co.uk</a></li>
+        
+            <li><a href="http://www.propertynews.com" target="_blank">Propertynews.com</a></li>
+        
+            <li><a href="http://www.belfasttelegraph.co.uk/tv" target="_blank">Belfast Telegraph TV</a></li>
+        
+            <li><a href="http://www.belfasttelegraph.co.uk/family-notices/" target="_blank">Family Notices</a></li>
+        
+            <li><a href="http://www.belfasttelegraph.co.uk/adsforfree/" target="_blank">Ads For Free</a></li>
+        
+        </ul>
+    
+    
+    
+  
+
+
+      
+        
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    <ul class="level-2">
+    
+    </ul>
+  
+
+
+
+
+
+
+      
+      
+        
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    <ul class="level-2">
+    
+      
+       <li class="level-2 isChild">
+       
+       
+       
+         <span class="level-2" href="">Belfast&nbsp;Telegraph</span>
+       
+
+          
+            <ul class="level-3">
+          
+          
+      
+    
+      
+       <li class="level-3 isDefault">
+       
+       
+         
+          <a class="isHome" href="http://www.belfasttelegraph.co.uk/">Home</a>
+        
+         
+       
+       
+
+          
+            </li>
+          
+          
+      
+    
+      
+       <li class="level-3 isDefault">
+       
+       
+         
+         
+           <a class="level-3" href="http://www.belfasttelegraph.co.uk/news/">News</a>
+         
+       
+       
+
+          
+            </li>
+          
+          
+      
+    
+      
+       <li class="level-3 isDefault">
+       
+       
+         
+         
+           <a class="level-3" href="http://www.belfasttelegraph.co.uk/breaking-news/">Breaking&nbsp;News</a>
+         
+       
+       
+
+          
+            </li>
+          
+          
+      
+    
+      
+       <li class="level-3 isDefault">
+       
+       
+         
+         
+           <a class="level-3" href="http://www.belfasttelegraph.co.uk/northwest-edition/">Northwest&nbsp;Edition</a>
+         
+       
+       
+
+          
+            </li>
+          
+          
+      
+    
+      
+       <li class="level-3 isDefault">
+       
+       
+         
+         
+           <a class="level-3" href="http://www.belfasttelegraph.co.uk/business/">Business</a>
+         
+       
+       
+
+          
+            </li>
+          
+          
+      
+    
+      
+       <li class="level-3 isDefault">
+       
+       
+         
+         
+           <a class="level-3" href="http://www.belfasttelegraph.co.uk/business-telegraph/">Business&nbsp;Telegraph</a>
+         
+       
+       
+
+          
+            </li>
+          
+          
+      
+    
+      
+       <li class="level-3 isDefault">
+       
+       
+         
+         
+           <a class="level-3" href="http://www.belfasttelegraph.co.uk/sport/">Sport</a>
+         
+       
+       
+
+          
+            </li>
+          
+          
+      
+    
+      
+       <li class="level-3 isDefault">
+       
+       
+         
+         
+           <a class="level-3" href="http://www.belfasttelegraph.co.uk/health/">Health</a>
+         
+       
+       
+
+          
+            </li>
+          
+          
+      
+    
+      
+       <li class="level-3 isDefault">
+       
+       
+         
+         
+           <a class="level-3" href="http://www.belfasttelegraph.co.uk/features/">Features</a>
+         
+       
+       
+
+          
+            </li>
+          
+          
+      
+    
+      
+       <li class="level-3 isDefault">
+       
+       
+         
+         
+           <a class="level-3" href="http://www.belfasttelegraph.co.uk/columnists/">Columnists</a>
+         
+       
+       
+
+          
+            </li>
+          
+          
+      
+    
+      
+       <li class="level-3 isDefault">
+       
+       
+         
+         
+           <a class="level-3" href="http://www.belfasttelegraph.co.uk/entertainment/">Entertainment</a>
+         
+       
+       
+
+          
+            </li>
+          
+          
+      
+    
+      
+       <li class="level-3 isDefault">
+       
+       
+         
+         
+           <a class="level-3" href="http://www.belfasttelegraph.co.uk/homefinder/">Homefinder</a>
+         
+       
+       
+
+          
+            </li>
+          
+          
+      
+    
+      
+       <li class="level-3 isDefault">
+       
+       
+         
+         
+           <a class="level-3" href="http://www.belfasttelegraph.co.uk/weather/">Weather</a>
+         
+       
+       
+
+          
+            </li>
+          
+          
+      
+    
+      
+       <li class="level-3 isDefault">
+       
+       
+         
+         
+           <a class="level-3" href="http://www.belfasttelegraph.co.uk/search/">Archive</a>
+         
+       
+       
+
+          
+            </li>
+          
+          
+      
+    
+      
+       <li class="level-3 isDefault">
+       
+       
+         
+         
+           <a class="level-3" href="http://www.belfasttelegraph.co.uk/calendar-2007/">Calendar&nbsp;2007</a>
+         
+       
+       
+
+          
+            </li>
+          
+          
+      
+    
+      
+       <li class="level-3 isDefault">
+       
+       
+         
+         
+           <a class="level-3" href="http://www.belfasttelegraph.co.uk/travel/">Telegraph&nbsp;Travel</a>
+         
+       
+       
+
+          
+            </li>
+          
+          
+          
+                  </ul>
+                </li>
+            
+          
+      
+    
+    </ul>
+  
+
+
+
+
+
+      
+      
+        
+        
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+    
+      <h2 class="insideIndo">Inside Belfast</h2>
+      <ul class="insideIndo">
+      
+          <li><a href="http://www.loadzajobs.co.uk" target="_blank">Jobs</a></li>
+      
+          <li><a href="http://www.here2learn.com" target="_blank">Training</a></li>
+      
+          <li><a href="http://belfasttelegraph.parship.co.uk" target="_blank">Dating</a></li>
+      
+          <li><a href="http://www.belfasttelegraphgaming.co.uk" target="_blank">Gaming</a></li>
+      
+          <li><a href="http://www.edirectory.co.uk/belfast_telegraph" target="_blank">Reader Offers</a></li>
+      
+          <li><a href="http://www.hi-life.co.uk/bt" target="_blank">Diners' Club</a></li>
+      
+      </ul>
+    
+    
+  
+
+
+      
+      
+        
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    <ul class="level-2">
+    
+      
+       <li class="level-2 isChild">
+       
+       
+       
+         <span class="level-2" href="">Services</span>
+       
+
+          
+            <ul class="level-3">
+          
+          
+      
+    
+      
+       <li class="level-3 isDefault">
+       
+       
+         
+         
+           <a class="level-3" href="http://www.belfasttelegraph.co.uk/services/rss/">RSS</a>
+         
+       
+       
+
+          
+            </li>
+          
+          
+      
+    
+      
+       <li class="level-3 isDefault">
+       
+       
+         
+         
+           <a class="level-3" href="http://www.belfasttelegraph.co.uk/services/media-kit/">Media&nbsp;Kit</a>
+         
+       
+       
+
+          
+            </li>
+          
+          
+          
+                  </ul>
+                </li>
+            
+          
+      
+    
+      
+       <li class="level-2 isChild">
+       
+       
+       
+         <span class="level-2" href="">Other&nbsp;Titles</span>
+       
+
+          
+            <ul class="level-3">
+          
+          
+      
+    
+      
+       <li class="level-3 isDefault">
+       
+       
+         
+         
+           <a class="level-3" href="http://www.sundaylife.co.uk">Sunday&nbsp;Life</a>
+         
+       
+       
+
+          
+            </li>
+          
+          
+      
+    
+      
+       <li class="level-3 isDefault">
+       
+       
+         
+         
+           <a class="level-3" href="http://www.irelandssaturdaynight.co.uk">Ireland's&nbsp;Saturday&nbsp;Night</a>
+         
+       
+       
+
+          
+            </li>
+          
+          
+          
+                  </ul>
+                </li>
+            
+          
+      
+    
+    </ul>
+  
+
+
+
+
+</div>
+
+
+
+        </td>
+        <td width="621" class="centreFull">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <table cellpadding="0" cellspacing="0" id="bodyTable">
+    <tbody><tr>
+      <td width="491" class="centre" valign="top">		
+
+
+
+
+		
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+<div id="breadcrumbs">
+	
+	  
+	  
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ul id="breadcrumbs">
+
+</ul>
+
+
+</div>
+
+
+
+
+	
+  
+	                               
+		
+		    
+		  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+<!-- page title & date navigation -->
+					<div class="pageTitle">						
+						<div class="leftColumn">
+							<h2>Legals</h2>
+						</div>
+						<div class="rightColumn">
+								
+									
+								
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+    
+  
+
+  
+
+  
+  
+
+  
+    
+    
+    
+
+    
+
+    
+      
+      <div id="TopSponsorship" class="ad">
+        
+        
+          
+            
+              
+                
+                
+                
+                
+              
+            
+          
+        
+          
+            
+              
+                
+                
+                
+                
+              
+            
+          
+        
+          
+            
+              
+                
+                
+                
+                
+              
+            
+          
+        
+        
+      </div>
+    
+
+    
+  
+
+
+
+								
+						</div>
+						<div class="horizontalRule clearFloats"><hr></div>
+					</div>
+<!-- /page title & date navigation -->
+                                                            
+                                                                    
+		
+		 
+
+  
+  <div class="article">
+  	
+		
+	    <h2>Privacy Policy</h2>
+    
+
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="rightColumnFloat">
+
+
+
+
+	
+		                                                                   
+		                                                          
+		
+		  
+		  
+		    
+		    
+		      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script language="Javascript"> 
+		function displayImage(sPicURL) { 
+			window.open("popup.jsp?"+sPicURL, "", "resizable=1,HEIGHT=200,WIDTH=200");
 		}
-		if (typeof document.WM.WM_scaleFont == 'undefined') {
-			document.WM.WM_netscapeCssFix = new Object;
-			document.WM.WM_netscapeCssFix.initWindowWidth = window.innerWidth;
-			document.WM.WM_netscapeCssFix.initWindowHeight = window.innerHeight;
-		}
-		window.onresize = WM_netscapeCssFix;
-	}
-}
-
-WM_netscapeCssFixCheckIn ();
-
-//-->
-
-
 </script>
-<!-- /Netscape re-size -->
-<!-- /NCDN -->
+<script type="text/javascript"><!--
+        var img = getElementsWithClassName('div', 'leadPhoto');
+        var current = img[0];
+        current.className += " showLeadPhoto";
+
+        function setupImageNavigation() {
+          for (var i = 0; i < img.length; i++) {
+            var image = img[i];
+            var para = document.createElement("p");
+            var navElement = image.getElementsByTagName('div');
+
+            navElement[0].appendChild(para);
+
+            if (i > 0) {
+              var a = document.createElement('a');
+              para.appendChild(a);
+							eval ('a.onclick = function(e) {displayImage(' + (i - 1) + ');};');
+              //a.setAttribute('onclick', 'displayImage(' + (i - 1) + ');');
+              a.setAttribute('href', '#');
+              a.setAttribute('class', 'previous');
+              a.appendChild(document.createTextNode('Previous'));
+              para.appendChild(document.createTextNode(" | "));
+            }
+
+            para.appendChild(document.createTextNode((i + 1) + " of " + img.length));
+
+            if ((i + 1) < img.length) {
+              var a = document.createElement('a');
+              para.appendChild(document.createTextNode(" | "));
+              para.appendChild(a);
+              eval ('a.onclick = function(e) {displayImage(' + (i + 1) + ');};');
+              //a.setAttribute('onclick', 'displayImage(' + (i + 1) + ');'); 
+              a.setAttribute('href', '#');
+              a.setAttribute('class', 'next');
+              a.appendChild(document.createTextNode('Next')); 
+            }
+           
+            var large = document.createElement('a');
+            eval ('large.onclick = function(e) {launchPopup("http://www.belfasttelegraph.co.uk/legals/article1617183.ece?service=popup&index=' + i +'","largeimage",350,300,1,0,0,0);};');
+            //large.setAttribute('onclick', 'launchPopup("http://www.belfasttelegraph.co.uk/legals/article1617183.ece?service=popup&index=' + i +'","largeimage",350,300,1,0,0,0);');
+            large.setAttribute('href', '#');
+            large.setAttribute('class', 'enlarge');
+            large.appendChild(document.createTextNode('Enlarge'));
+            para.appendChild(document.createTextNode(' '));
+            para.appendChild(large);
+            
+            
+          }
+        }
+
+        function displayImage(index) {
+          var previous = getElementsWithClassName('div', 'showLeadPhoto');
+
+          previous[0].className = previous[0].className.replace(' showLeadPhoto', '');
+          img[index].className += " showLeadPhoto";
+          return false;
+        }
+
+        setupImageNavigation();
+
+--></script>
+
+		    
+		  
+		  
+		
+
+		  
+
+      
+
+	
+
+      
+        
+      
 
 
-<!-- belfasttelegraph.co.uk is owned and trained by independent digital -->
-<!-- end of footer -->
 
 
 
@@ -598,5 +1964,1733 @@ WM_netscapeCssFixCheckIn ();
 
 
 
+
+
+<!-- Article Tools -->
+
+	
+		<div class="articleTools">
+		  <div class="column">
+		    <ul>
+		      <li><img src="http://www.belfasttelegraph.co.uk/template/ver/gfx/template/components/tools/email_icon.gif" class="icon" alt="Email Article"><a href="http://www.belfasttelegraph.co.uk/legals/article1617183.ece?service=emailArticle">Email Article</a></li>
+		      <li><img src="http://www.belfasttelegraph.co.uk/template/ver/gfx/template/components/tools/print_icon.gif" class="icon" alt="Print Version"><a href="http://www.belfasttelegraph.co.uk/legals/article1617183.ece?service=print">Print Version</a></li>
+		      <li><img src="http://www.belfasttelegraph.co.uk/template/ver/gfx/template/components/tools/search_icon.gif" class="icon" alt="Search"><a href="http://www.belfasttelegraph.co.uk/search/">Search</a></li>
+		    </ul>
+		  </div>
+		  <div class="column">
+		    <ul>
+		      <li><img src="http://www.belfasttelegraph.co.uk/template/ver/gfx/template/components/tools/most_emailed_icon.gif" class="icon" alt="Most Emailed"><a href="http://www.belfasttelegraph.co.uk/most-emailed-articles/">Most Emailed</a></li>
+		      <li><img src="http://www.belfasttelegraph.co.uk/template/ver/gfx/template/components/tools/most_read_icon.gif" class="icon" alt="Most Read"><a href="http://www.belfasttelegraph.co.uk/most-read-articles/">Most Read</a></li>
+		    </ul>
+		  </div>
+		  <br class="clearFloats">
+
+		  
+
+		</div>
+	
+	
+
+<!--  / Article Tools -->
+
+
+      
+
+
+	
+
+		  
+		    
+		    
+		     
+		     
+		     
+		      
+		      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+							 
+
+
+
+
+
+
+
+
+
+		      
+		      
+
+			
+		            
+		        
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+    
+  
+
+  
+
+  
+  
+
+  
+    
+    
+    
+
+    
+
+    
+      
+      <div id="AdvertiserLinks" class="ad">
+        
+        
+          
+            
+              
+                
+                
+                
+                
+              
+            
+          
+        
+          
+            
+              
+                
+                
+                
+                
+              
+            
+          
+        
+          
+            
+              
+                
+                
+                
+                
+              
+            
+          
+        
+        
+      </div>
+    
+
+    
+  
+
+
+
+				
+		    
+		  
+      
+
+    </div>
+
+		
+    
+  	
+		
+
+		
+
+		
+			<p class="deck">
+				Tuesday, December 05, 2006
+			</p>
+		
+
+    
+    
+
+
+
+    <div class="deck">
+      
+    </div>
+
+
+    
+    
+    
+    
+      <p>
+   <b>Privacy Policy</b>
+</p>
+<p>
+   <i>Please read this carefully</i>
+</p>
+<p>
+  Before using the Website (that is, any site operated by a company in the 
+  Independent News &amp; Media group) it is your responsibility to read the 
+  Privacy Policy. You can notify us in the manner set out below if you do not 
+  want us to share information about you with third parties. 
+</p>
+<p>
+  Independent News and Media Limited (together with its holding and associated 
+  companies where relevant), is hereinafter referred to as INM.
+</p>
+<p>
+   <b>The basic principles</b>
+</p>
+<p>
+  By accessing and using the Website you are agreeing to be legally bound by 
+  the Terms &amp; Conditions and this Privacy Policy. You should therefore 
+  also read the Terms of Use before using the Website.
+</p>
+<p>
+  IINM is determined to protect your privacy. It is very important to us that 
+  you should be able to use and enjoy the Website without having to compromise 
+  your privacy unacceptably.
+</p>
+<p>
+  Knowing something about our users is, however, necessary to ensure that our 
+  service is continually improved. We need to build an accurate picture of the 
+  needs and wishes of our users, and to be able to communicate with you. That 
+  enables us to offer a service that is relevant and truly interactive, which 
+  is what our users expect. It also helps us to maintain the greatest possible 
+  free-to-user access to the Website.
+</p>
+<p>
+  We answer your important questions 
+</p>
+<p>
+   <b>"What information do you collect about me?"</b> 
+</p>
+<p>
+  We automatically collect some data about our users' browsing actions and 
+  patterns. This is aggregate data and does not identify any individual. 
+</p>
+<p>
+  We may also ask you to provide personal information on a voluntary basis in 
+  order to get a clearer picture of our users. It is then entirely up to you 
+  whether you are happy to give us this information. 
+</p>
+<p>
+  In the course of entering competitions, promotions and other offers you will 
+  be asked to give some details about yourself. You may also choose to e-mail 
+  us or make contact with us in other ways. Such contact gives us information 
+  about you. 
+</p>
+<p>
+  If you have any financial dealings or make purchases with our trading 
+  partners on co-branded sites, they will ask for certain information. This 
+  information may be shared with us. 
+</p>
+<p>
+   <b>"For what purposes do you collect and use this information?"</b></p>
+<p>
+  We use aggregate audience details (where no individual is identifiable) to 
+  help us improve our understanding of our users and their preferences. We use 
+  it to assist us in arranging relevant advertising, commercial opportunities 
+  and competitions, as well as ensuring the best editorial coverage. It also 
+  helps us develop the Website and audit its use. 
+</p>
+<p>
+  The information about you as an identifiable individual, including contact 
+  details, may be used in the following ways: 
+</p>
+<p>
+  * to conduct market research and other surveys. 
+</p>
+<p>
+  * to create and draw to your attention editorial material and commercial 
+  opportunities that may be of interest to you. 
+</p>
+<p>
+  * to be shared with advertisers, trading partners and other commercial 
+  entities with whom we have or might have an association. We may also be able 
+  to share the information that they obtain about their users, which may 
+  include you. 
+</p>
+<p>
+   <b>"How private are my details? </b>
+</p>
+<p>
+  Apart from other companies in the INM group, we only share personal 
+  information about you with third parties whom we have selected carefully and 
+  with whom we have, or may have, a commercial relationship. INM complies with 
+  the relevant legal requirements and takes all reasonable care to ensure that 
+  your information is secure and private and is only seen by responsible third 
+  parties. However we cannot be held responsible for the actions of any third 
+  party who receives or obtains access to the information, or for any breach 
+  of security. 
+</p>
+<p>
+  If you tell us that you do not want us to use your details, then data about 
+  your use of the Website would then only form part of aggregated statistics 
+  and would not be related to you as an individual. 
+</p>
+<p>
+  You can ask to see the information we have about you by e-mailing a request 
+  to customerservices@independent.co.uk. 
+</p>
+<p>
+   <b>"What do I do if I am not happy for you to share information about 
+  me with others?" </b>
+</p>
+<p>
+  You may not wish us to share personal details about you with third parties 
+  outside the INM group, or to use your information in the other ways we have 
+  described in this Privacy Policy. You can e-mail 
+  customerservices@independent.co.uk at any time to let us know of any 
+  objections you may have to how we use or disclose your data in the ways set 
+  out in this Privacy Policy. Your personal details may in any event be shared 
+  with third party organisations we have contracted to provide services to us, 
+  on an agency basis, which include processing data. We may also have to 
+  release information (which could include the contents of e-mail 
+  communications between any persons) because of a legal requirement on us or 
+  pursuant to a court order. 
+</p>
+<p>
+   <b>Use of cookies on a website </b>
+</p>
+<p>
+  The basic principles 
+</p>
+<p>
+  A cookie is a text-only string of information that a website transfers to 
+  the cookie file of the browser of your computer's hard disk so that the 
+  website can remember who you are. A cookie will typically contain the name 
+  of the domain from which the cookie has come, the "lifetime" of 
+  the cookie, and a value, usually a randomly generated unique number. 
+</p>
+<p>
+  Two types of cookies are used on the Website: Session Cookies which are 
+  temporary cookies that remain in the cookie file of your browser until you 
+  leave the Website. Persistent Cookies which remain in the cookie file of 
+  your browser for much longer (though how long will depend on the lifetime of 
+  each specific cookie). Cookies can help a website to arrange content to 
+  match your preferred interests more quickly. Most major websites use 
+  cookies. Cookies cannot be used by themselves to identify you. 
+</p>
+<p>
+   <b>How we collect cookies on the Website and what information we collect </b></p>
+<p>
+  Session Cookies: To allow you to carry information across pages of the 
+  Website and avoid having to re-enter information. Persistent Cookies: To 
+  help us recognise you as a unique visitor (just a number) when you return to 
+  the Website and to allow us to tailor content, advertisements and the 
+  presentation of the Website to match your preferences. To compile anonymous, 
+  aggregated statistics that allow us to understand how users use the Website 
+  and to help us improve the structure of the Website. We cannot identify you 
+  personally in this way. 
+</p>
+<p>
+   <b>Third Party Cookies.</b> 
+</p>
+<p>
+  Third parties serve cookies via the Website. These are used for the 
+  following purposes: To serve advertisements on the Website and track whether 
+  these advertisements are clicked on by users. To control how often you are 
+  shown a particular advertisement. To count the number of anonymous users of 
+  the Website.To provide security within transactions. 
+</p>
+<p>
+   <b>Use of Web Beacons </b>
+</p>
+<p>
+  Some of our web pages may contain electronic images know as web beacons 
+  (sometimes know as clear gifs) that allow us to count users who have visited 
+  these pages. Web beacons collect only limited information which including a 
+  cookie number, time and date of a page view, and a description of the page 
+  on which the web beacon resides. We may also carry web beacons placed by 
+  third party advertisers. These beacons do not carry any personally 
+  identifiable information and are only used to track the effectiveness of a 
+  particular campaign. 
+</p>
+<p>
+   <b>Disabling/Enabling Cookies. </b>
+</p>
+<p>
+  You have the ability to accept or decline cookies by modifying the settings 
+  in your browser. However, you may not be able to use all the interactive 
+  features of the Website if cookies are disabled. 
+</p>
+<p>
+   <b>International transfer of personal data </b>
+</p>
+<p>
+  As you will know, the internet does not recognise national boundaries. 
+  Services on the net are accessible globally so collection and transmission 
+  of personal data is not always confined to one country. You should be aware 
+  that by using the Website and those of our partners or any site we link 
+  through to, your personal data may be processed in or transferred to other 
+  countries, the USA for example, and you agree to your personal data being 
+  transferred or processed in this way. 
+</p>
+<p>
+   <b>Further information</b>
+</p>
+<p>
+  If you want further information, or wish to communicate with us about this 
+  Privacy Policy and your wishes about your personal information, please 
+  e-mail us at <a href="mailto:customerservice@independent.co.uk">
+  customerservice@independent.co.uk</a> .
+</p>
+<p>
+   <b>Company and data protection information</b>
+</p>
+<p>
+  The data controller of data on the Website is Independent News and Media 
+  Limited, which is a company in the Independent News &amp;amp; Media group, 
+  registered in England and Wales under company number 1908967, whose 
+  registered office is at Independent House, 191 Marsh Wall, London E14 9RS, 
+  UK. VAT number GB 248 1845 43. Any queries or notices under the Data 
+  Protection Act should be addressed to the IT Director at the above address. 
+</p>
+<p>
+   <i>Last updated: 3 May 2007</i>
+</p>
+
+    
+    
+
+
+   </div>
+
+
+  <div>
+
+	
+	<br class="clearFloats">		
+  
+  
+  
+ 
+
+
+
+ 
+  
+  
+	  
+	  
+	  
+	  
+  
+  </div>
+
+
+
+
+
+
+	
+	   
+
+                                                                                                                   
+	  
+
+
+
+
+
+    </td>
+    <td width="130" valign="top">
+      
+
+
+
+
+
+
+
+
+
+
+		
+		   
+
+                                                                
+
+	
+
+
+
+
+
+
+
+
+
+   
+	<div class="editorsChoice">
+		<div class="internalAd">		
+			<h2>Don't miss . . .</h2>								
+    			<p>  <preform><title>11+ without the fuss</title></preform></p><p><a href="http://www.belfasttelegraph.co.uk/tv/article2628998.ece"><img src="http://www.belfasttelegraph.co.uk/multimedia/archive/00248/paisley_248741a.jpg" alt="Ian Paisley" width="115" height="130" border="0"></a></p>
+<div class="clearFloats">
+</div>
+<p><a href="http://www.belfasttelegraph.co.uk/news/education/article2657687.ece">11plus without the fuss</a></p>
+<p class="summary"><img src="http://www.belfasttelegraph.co.uk/multimedia/archive/00249/11plus1_249374a.jpg" width="34" height="44" class="associatedThumbnailImage noBorder"> Download the 12 free practice papers for your child here
+</p><div class="clearFloats">
+</div>
+<p><a href="http://www.belfasttelegraph.co.uk/features/daily-features/article2648162.ece?service=popup&amp;mode=dayInPictures&amp;start=1 " target="name" onclick="window.open(' http://www.belfasttelegraph.co.uk/features/daily-features/article2652756.ece?service=popup&amp;mode=dayInPictures&amp;start=1','name',',height=600,width=750,toolbar=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=yes ' ); return false;">In Pictures: <br>
+Wet wet wet </a><a href="http://www.belfasttelegraph.co.uk/features/daily-features/article2652756.ece"></a></p>
+<p class="summary"><img src="http://www.belfasttelegraph.co.uk/multimedia/archive/00248/wet_248828a.jpg" width="34" height="44" class="associatedThumbnailImage noBorder"> Torrential rain  causes flash flooding in parts of Belfast 
+</p><div class="clearFloats">
+</div>
+<p><a href="http://www.belfasttelegraph.co.uk/tv/article2652947.ece">Homefinder TV:<br>
+  Episode seven
+</a></p>
+<p class="summary"><img src="http://www.belfasttelegraph.co.uk/multimedia/archive/00246/home_246496a.jpg" width="36" height="46" class="associatedThumbnailImage noBorder"> Helen Carson looks at Ulster's hottest properties  
+</p><div class="clearFloats">
+</div>
+<a href="http://www.belfasttelegraph.co.uk/sport/football/premiership/article2661313.ece#manchesterunited"><br></a>
+<p class="summary"><img src="http://www.belfasttelegraph.co.uk/multimedia/archive/00249/boot_249567a.jpg" width="38" height="15" class="associatedThumbnailImage noBorder"><a href="http://www.belfasttelegraph.co.uk/sport/football/premiership/article2661313.ece#manchesterunited">Premiership fixtures </a></p>
+
+<p></p>
+    					
+		</div>
+	</div>
+   
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+    
+  
+
+  
+
+  
+  
+
+  
+    
+    
+    
+
+    
+
+    
+      
+      <div id="INMServices" class="ad">
+        
+        
+          
+            
+              
+                
+                
+                
+                
+              
+            
+          
+        
+          
+            
+              
+                
+                
+                
+                
+              
+            
+          
+        
+          
+            
+              
+                
+                
+                
+                
+              
+            
+          
+        
+        
+      </div>
+    
+
+    
+  
+
+
+
+                                                        
+
+
+		  
+
+
+
+<div class="externalAdGroupContainer">
+  <div class="externalAdGroup">
+	
+		
+	
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+    
+  
+
+  
+
+  
+  
+
+  
+    
+    
+    
+
+    
+
+    
+      
+      <div id="Buttons" class="ad">
+        
+        
+          
+            
+              
+                
+                
+                
+                
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="Buttons-0" class="singleAd">
+  
+  
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+   
+    
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+  
+  <iframe src="http://ad.uk.doubleclick.net/adi/homepage.belfasttelegraph.co.uk/legals/;sz=120x600;pos=Buttons0;ord=11820863?" name="frame1" width="120" height="600" frameborder="0" border="0" marginwidth="0" marginheight="0" scrolling="no">
+   <a href="http://ad.uk.doubleclick.net/jump/homepage.belfasttelegraph.co.uk/legals/;sz=120x600;pos=Buttons0;ord=11820863?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/homepage.belfasttelegraph.co.uk/legals/;sz=120x600;pos=Buttons0;ord=11820863?" border="0" height="600" width="120" alt=""></a>
+  </iframe>
+  
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+  
+  
+  
+  
+  
+  
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="Buttons-1" class="singleAd">
+  
+  
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+   
+    
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+  
+  <iframe src="http://ad.uk.doubleclick.net/adi/homepage.belfasttelegraph.co.uk/legals/;sz=120x120;pos=Buttons1;ord=11820863?" name="frame1" width="120" height="120" frameborder="0" border="0" marginwidth="0" marginheight="0" scrolling="no">
+   <a href="http://ad.uk.doubleclick.net/jump/homepage.belfasttelegraph.co.uk/legals/;sz=120x120;pos=Buttons1;ord=11820863?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/homepage.belfasttelegraph.co.uk/legals/;sz=120x120;pos=Buttons1;ord=11820863?" border="0" height="120" width="120" alt=""></a>
+  </iframe>
+  
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+  
+  
+  
+  
+  
+  
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="Buttons-2" class="singleAd">
+  
+  
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+   
+    
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+  
+  <iframe src="http://ad.uk.doubleclick.net/adi/homepage.belfasttelegraph.co.uk/legals/;sz=120x300;pos=Buttons2;ord=11820863?" name="frame1" width="120" height="300" frameborder="0" border="0" marginwidth="0" marginheight="0" scrolling="no">
+   <a href="http://ad.uk.doubleclick.net/jump/homepage.belfasttelegraph.co.uk/legals/;sz=120x300;pos=Buttons2;ord=11820863?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/homepage.belfasttelegraph.co.uk/legals/;sz=120x300;pos=Buttons2;ord=11820863?" border="0" height="300" width="120" alt=""></a>
+  </iframe>
+  
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+  
+  
+  
+  
+  
+  
+
+
+</div>
+
+
+
+            
+          
+        
+          
+        
+          
+        
+        
+      </div>
+    
+
+    
+  
+
+
+
+		<br>
+   </div>
+</div>
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+    
+  
+
+  
+
+  
+  
+
+  
+    
+    
+    
+
+    
+
+    
+      
+      <div id="Internal" class="ad">
+        
+        
+          
+            
+              
+                
+                
+                
+                
+              
+            
+          
+        
+          
+            
+              
+                
+                
+                
+                
+              
+            
+          
+        
+          
+            
+              
+                
+                
+                
+                
+              
+            
+          
+        
+        
+      </div>
+    
+
+    
+  
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+   
+	<div class="editorsChoice">
+		<div class="internalAd">		
+			<h2>Video</h2>								
+    			<p>  <preform>
+</preform></p><p><a href="http://www.belfasttelegraph.co.uk/news/local-national/article2554632.ece"></a><a href="http://www.belfasttelegraph.co.uk/tv/article2647805.ece">IFA scoring </a></p>
+<p class="summary"><img src="http://www.belfasttelegraph.co.uk/multimedia/archive/00248/ifa_248729a.jpg" width="34" height="44" class="associatedThumbnailImage noBorder"> Gary Grattan reports on the IFA's success off the pitch 
+</p><div class="clearFloats">
+</div>
+<p><a href="http://www.belfasttelegraph.co.uk/tv/article2618295.ece">Clowning around </a></p>
+<p class="summary"><img src="http://www.belfasttelegraph.co.uk/multimedia/archive/00247/clown_247771a.jpg" width="36" height="46" class="associatedThumbnailImage noBorder"> Gary Grattan reports on the day the circus came to town 
+</p><div class="clearFloats">
+</div> 
+<p><a href="http://www.belfasttelegraph.co.uk/tv/article2602325.ece">Acting the 
+goat<br>
+in west Belfast </a></p>
+<p class="summary"><img src="http://www.belfasttelegraph.co.uk/multimedia/archive/00247/nic_247567a.jpg" width="36" height="46" class="associatedThumbnailImage noBorder"> Maureen Coleman chats to Paul Nicholls on set 
+</p><div class="clearFloats">
+</div>
+<p><a href="http://www.belfasttelegraph.co.uk/tv/article2592047.ece">'She is no longer<br>
+my daughter' </a></p>
+<p class="summary"><img src="http://www.belfasttelegraph.co.uk/multimedia/archive/00247/crymSmall_247410a.jpg" width="36" height="46" class="associatedThumbnailImage noBorder"> Killer Crymble's mum talks exclusively to the Telegraph
+</p><div class="clearFloats">
+</div>
+<p></p>
+    					
+		</div>
+	</div>
+   
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+   
+	<div class="editorsChoice">
+		<div class="internalAd">		
+			<h2>In Pictures . . .</h2>								
+    			<p>  <preform>
+  <strong>News</strong><br>
+  <a href="http://www.belfasttelegraph.co.uk/incoming/article2522277.ece?service=popup&amp;mode=dayInPictures&amp;start=1 " target="name" onclick="window.open(' http://www.belfasttelegraph.co.uk/incoming/article2522277.ece?service=popup&amp;mode=dayInPictures&amp;start=1','name',',height=600,width=750,toolbar=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=yes ' ); return false;"> 
+Devolution Day</a><br>    <a href="http://www.belfasttelegraph.co.uk/sport/article2361013.ece?service=popup&amp;mode=dayInPictures&amp;start=1 " target="name" onclick="window.open(' http://www.belfasttelegraph.co.uk/in-pictures/article2332899.ece?service=popup&amp;mode=dayInPictures&amp;start=1','name',',height=600,width=750,toolbar=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=yes ' ); return false;"> 
+Assembly Elections</a> <br>    <a href="http://www.belfasttelegraph.co.uk/news/local-national/article2413557.ece?service=popup&amp;mode=dayInPictures&amp;start=1 " target="name" onclick="window.open(' http://www.belfasttelegraph.co.uk/news/local-national/article2413557.ece?service=popup&amp;mode=dayInPictures&amp;start=1','name',',height=600,width=750,toolbar=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=yes ' ); return false;"> 
+Maze tumbles</a><br>  <a href="http://www.belfasttelegraph.co.uk/news/politics/article2532144.ece.ece?service=popup&amp;mode=dayInPictures&amp;start=1 " target="name" onclick="window.open(' http://www.belfasttelegraph.co.uk/news/politics/article2532144.ece?service=popup&amp;mode=dayInPictures&amp;start=1','name',',height=600,width=750,toolbar=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=yes ' ); return false;"> 
+Blair quits</a><br><a href="http://www.belfasttelegraph.co.uk/in-pictures/article2268831.ece?service=popup&amp;mode=dayInPictures&amp;start=1 " target="name" onclick="window.open(' http://www.belfasttelegraph.co.uk/in-pictures/article2268831.ece?service=popup&amp;mode=dayInPictures&amp;start=1','name',',height=600,width=750,toolbar=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=yes ' ); return false;">Last watchtower </a><br>  <a href="http://www.belfasttelegraph.co.uk/in-pictures/article2291512.ece?service=popup&amp;mode=dayInPictures&amp;start=1 " target="name" onclick="window.open(' http://www.belfasttelegraph.co.uk/in-pictures/article2291512.ece?service=popup&amp;mode=dayInPictures&amp;start=1','name',',height=600,width=750,toolbar=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=yes ' ); return false;"> 
+Carrick-a-rede</a><br>
+  <br>
+  <a href="http://www.belfasttelegraph.co.uk/sport/article2361013.ece?service=popup&amp;mode=dayInPictures&amp;start=1 " target="name" onclick="window.open(' http://www.belfasttelegraph.co.uk/sport/article2361013.ece?service=popup&amp;mode=dayInPictures&amp;start=1','name',',height=600,width=750,toolbar=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=yes ' ); return false;"> 
+</a><strong>Events</strong><br>  <a href="http://www.belfasttelegraph.co.uk/news/world-news/article2554553.ece?service=popup&amp;mode=dayInPictures&amp;start=1 " target="name" onclick="window.open(' http://www.belfasttelegraph.co.uk/news/world-news/article2554553.ece?service=popup&amp;mode=dayInPictures&amp;start=1','name',',height=600,width=750,toolbar=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=yes ' ); return false;">Balmoral Show</a><br>  <a href="http://www.belfasttelegraph.co.uk/in-pictures/article2294189.ece?service=popup&amp;mode=dayInPictures&amp;start=1 " target="name" onclick="window.open(' http://www.belfasttelegraph.co.uk/in-pictures/article2294189.ece?service=popup&amp;mode=dayInPictures&amp;start=1','name',',height=600,width=750,toolbar=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=yes ' ); return false;"> 
+Razorlight</a><br>
+<a href="http://www.belfasttelegraph.co.uk/in-pictures/article2356838.ece?service=popup&amp;mode=dayInPictures&amp;start=1 " target="name" onclick="window.open(' http://www.belfasttelegraph.co.uk/in-pictures/article2356838.ece?service=popup&amp;mode=dayInPictures&amp;start=1','name',',height=600,width=750,toolbar=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=yes ' ); return false;"> 
+St Patrick's Day<br>
+</a><a href="http://www.belfasttelegraph.co.uk/in-pictures/article2284368.ece?service=popup&amp;mode=dayInPictures&amp;start=1 " target="name" onclick="window.open(' http://www.belfasttelegraph.co.uk/in-pictures/article2284368.ece?service=popup&amp;mode=dayInPictures&amp;start=1','name',',height=600,width=750,toolbar=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=yes ' ); return false;"> 
+Mardis Gras<br>
+</a><a href="http://www.belfasttelegraph.co.uk/entertainment/music-gigs/article2484106.ece?service=popup&amp;mode=dayInPictures&amp;start=1 " target="name" onclick="window.open('http://www.belfasttelegraph.co.uk/entertainment/music-gigs/article2484106.ece?service=popup&amp;mode=dayInPictures&amp;start=1','name',',height=600,width=750,toolbar=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=yes ' ); return false;">Justin Timberlake<br></a><a href="http://www.belfasttelegraph.co.uk/in-pictures/article2272149.ece?service=popup&amp;mode=dayInPictures&amp;start=1 " target="name" onclick="window.open('http://www.belfasttelegraph.co.uk/in-pictures/article2272149.ece?service=popup&amp;mode=dayInPictures&amp;start=1','name',',height=600,width=750,toolbar=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=yes ' ); return false;">Brit Awards 07 <br>
+<br>
+</a>
+</preform></p><p><strong>Sport</strong><br>    <a href="http://www.belfasttelegraph.co.uk/sport/football/international/article2402769.ece?service=popup&amp;mode=dayInPictures&amp;start=1 " target="name" onclick="window.open(' http://www.belfasttelegraph.co.uk/sport/football/international/article2402769.ece?service=popup&amp;mode=dayInPictures&amp;start=1','name',',height=600,width=750,toolbar=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=yes ' ); return false;"> 
+N Ireland v Sweden<br>
+</a><a href="http://www.belfasttelegraph.co.uk/sport/football/international/article2402769.ece?service=popup&amp;mode=dayInPictures&amp;start=1 " target="name" onclick="window.open(' http://www.belfasttelegraph.co.uk/in-pictures/article2305812.ece?service=popup&amp;mode=dayInPictures&amp;start=1','name',',height=600,width=750,toolbar=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=yes ' ); return false;"> 
+Six Nations<br></a><a href="http://www.belfasttelegraph.co.uk/sport/article2464202.ece?service=popup&amp;mode=dayInPictures&amp;start=1 " target="name" onclick="window.open(' http://www.belfasttelegraph.co.uk/sport/article2464202.ece?service=popup&amp;mode=dayInPictures&amp;start=1','name',',height=600,width=750,toolbar=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=yes ' ); return false;">
+World in Sport </a><br>
+  <br>
+</p>
+<div class="clearFloats">
+</div>
+
+<p></p>
+    					
+		</div>
+	</div>
+   
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+   
+	<div class="editorsChoice">
+		<div class="internalAd">		
+			<h2>Eye on the World</h2>								
+    			<p>  <preform></preform></p><p><a href="http://www.belfasttelegraph.co.uk/news/local-national/article2554632.ece"></a>
+  <a href="http://www.belfasttelegraph.co.uk/news/world-news/article2615189.ece" target="NEW">New Cold War? </a></p>
+<p class="summary"><img src="http://www.belfasttelegraph.co.uk/multimedia/archive/00247/bushputin_247793a.jpg" width="36" height="46" class="associatedThumbnailImage noBorder"> The nuclear stand-off in Europe between US and Russia 
+</p><div class="clearFloats">
+</div>
+<p><a href="http://www.belfasttelegraph.co.uk/news/world-news/article2618648.ece">An interview with <br>
+America's most wanted </a></p>
+<p class="summary"><img src="http://www.belfasttelegraph.co.uk/multimedia/archive/00247/sadr_247794a.jpg" width="36" height="46" class="associatedThumbnailImage noBorder"> Shia cleric Moqtada al-Sadr gives  rare interview in Iraq
+</p><div class="clearFloats">
+</div> 
+<p><a href="http://www.belfasttelegraph.co.uk/news/world-news/article2618772.ece">UK's private<br>
+army in Iraq </a></p>
+<p class="summary"><img src="http://www.belfasttelegraph.co.uk/multimedia/archive/00247/privsec_247795a.jpg" width="36" height="46" class="associatedThumbnailImage noBorder"> Thousands of mercenaries and they cost you £200m 
+</p><div class="clearFloats">
+</div> <p><a href="http://www.belfasttelegraph.co.uk/news/world-news/article2612088.ece">Sicko?</a></p>
+<p class="summary"><img src="http://www.belfasttelegraph.co.uk/multimedia/archive/00247/moore_247798a.jpg" width="36" height="46" class="associatedThumbnailImage noBorder"> Is Michael Moore  right  about  US healthcare?
+</p><div class="clearFloats">
+</div> 
+<p></p>
+
+<p></p>
+    					
+		</div>
+	</div>
+   
+
+
+
+
+    </td>
+  </tr>
+  </tbody></table>
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+
+        </td>
+      </tr>
+    </tbody></table>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="760" cellspacing="0" id="footer">
+<tbody><tr>
+	<td width="139" class="left"></td>
+	<td width="491" class="centre">
+		<ul>
+			<li class="copyright">© Independent News &amp; Media (NI)</li>
+
+			
+			
+				
+					<li><a href="http://www.belfasttelegraph.co.uk/site-map/">Sitemap</a></li> | 
+					<li><a href="http://www.belfasttelegraph.co.uk/contact/">Contact Us</a></li> |
+					<li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <a href="http://www.belfasttelegraph.co.uk/legals/article2126539.ece">Terms &amp; Conditions</a>
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+   
+
+  
+
+  
+
+  
+
+  
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</li> | 
+					<li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <a href="http://www.belfasttelegraph.co.uk/legals/article1617183.ece">Privacy Policy</a>
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+   
+
+  
+
+  
+
+  
+
+  
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</li>
+				
+			
+		</ul>
+	</td>
+	<td width="130" class="right"></td>
+</tr>
+</tbody></table>
+
+<!-- WebTrends -->
+
+<!-- START OF SmartSource Data Collector  TAG -->          
+<script type="text/javascript" src="/js/webtrends.js"></script>
+<script type="text/javascript"><!--
+var gDomain="unisonsdc.commtech.ie";
+var gDcsId="dcsc59yyyuuunnv67uh0kh41e_1i1j";
+
+if ((typeof(gConvert)!="undefined")&&gConvert&&(document.cookie.indexOf(gFpc+"=")==-1)&&(document.cookie.indexOf("WTLOPTOUT=")==-1)){
+
+                document.write("<scr"+"ipt type='text/javascript' SRC='"+"http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+"/"+gDcsId+"/wtid.js"+"'><\/scr"+"ipt>");
+}
+//-->
+</script><script type="text/javascript" src="https://unisonsdc.commtech.ie/dcsc59yyyuuunnv67uh0kh41e_1i1j/wtid.js"></script>
+<script type="text/javascript" src="/js/webtrends2.js"></script>
+<noscript>
+<img alt="" border="0" name="DCSIMG" width="1" height="1" src="http://unisonsdc.commtech.ie/dcsc59yyyuuunnv67uh0kh41e_1i1j/njs.gif?dcsuri=/nojavascript&amp;WT.js=No" />
+</noscript>
+<!-- END OF SmartSource Data Collector  TAG --> 
+
+
+
+<!-- End WebTrends -->
+
+
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Escenic Analysis Engine client script start  -->
+<script language="JavaScript">var jsRt     = '1';
+var jsObjId  = '1617183';
+var jsType   = escape('article');
+var jsCtxId  = '6004';
+var jsPubId  = '105953';
+var jsCat    = escape('');
+var jsMeta   = escape('');
+var jsTitle  = escape('Privacy Policy');
+var jsUrl    = escape('http://www.belfasttelegraph.co.uk/template/ver/wireFrame/independent.jsp');
+
+var ref=escape(document.referrer);
+if (ref.length>=252) ref=ref.substring(0,252)+"...";
+  var isJS10 = 1;
+</script><script language="JavaScript1.1">
+var isJS10=0;
+document.write('<img src="http://logger.independent.co.uk/eae-logger/Logger?clientDT=' + (new Date()).getTime() + '&rt=' + jsRt+ '&objId=' + jsObjId  + '&type=' + jsType + '&ctxId=' + jsCtxId + '&pubId=' + jsPubId + '&cat=' + jsCat +  
+'&meta=' + jsMeta + '&title=' + jsTitle + '&url=' + jsUrl + '" width="1" height="1">');
+</script><img src="http://logger.independent.co.uk/eae-logger/Logger?clientDT=1580417061182&amp;rt=1&amp;objId=1617183&amp;type=article&amp;ctxId=6004&amp;pubId=105953&amp;cat=&amp;meta=&amp;title=Privacy%20Policy&amp;url=http%3A//www.belfasttelegraph.co.uk/template/ver/wireFrame/independent.jsp" width="1" height="1"><script language="JavaScript">
+if(isJS10){
+  document.write('<img src="http://logger.independent.co.uk/eae-logger/Logger?rt=' + jsRt + '&objId=' + jsObjId  + '&type=' + jsType + '&ctxId=' + jsCtxId + '&pubId=' + jsPubId + '&cat=' + jsCat +  '&meta=' + jsMeta + '&title=' + 
+jsTitle + '&url=' + jsUrl + '" width="1" height="1">');
+}
+</script>
+<noscript>
+ <!-- eaeNoscriptMark --><img src="http://logger.independent.co.uk/eae-logger/Logger?rt=1&objId=1617183&url=http%3A%2F%2Fwww.belfasttelegraph.co.uk%2Ftemplate%2Fver%2FwireFrame%2Findependent.jsp&type=article&pubId=105953&ctxId=6004&cat=&meta=&title=Privacy+Policy" width="1" height="1">
+</noscript>
+<!-- Escenic Analysis Engine client script start  -->
+
+
+
+    
+    
+  
 
 </body></html>
