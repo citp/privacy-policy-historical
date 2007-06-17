@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lsbu.ac.uk privacy policy that was archived on 2006-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060924080109id_/http%3A//lsbu.ac.uk/accessibility/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lsbu.ac.uk privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617173227id_/http%3A//www.lsbu.ac.uk/accessibility/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - London South Bank University
 
@@ -19,7 +19,13 @@ All our web pages are designed to comply with the [JANET Acceptable Use Policy](
 
 We do log site statistics, such as what pages you left us on or what pages you viewed while on our site. This information is used to help us improve our website in the future by analysing which pages are working and which not.
 
-We do not log your website movements after you have left our website.
+We do not log your website movements after you have left our web site.
+
+We are currently engaged in the trial of a piece of software that will log your mouse movements while on certain pages of our site. This is intended to see where people look, what services they use and what links they click on. We are not using this functionality of every page of the web site; those on which we are can be found in the list below:
+
+  * our homepage (www.lsbu.ac.uk)
+
+
 
 ## Cookie Files
 
