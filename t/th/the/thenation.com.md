@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thenation.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214120012id_/http%3A//www.thenation.com/about/privacy.mhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenation.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617025442id_/http%3A//www.thenation.com/about/privacy.mhtml) for the most accurate reproduction.*
 
 # The Nation Privacy Policy
 
-November 1, 2006 
+December 29, 2006 
 
 The Nation Company, L.P. and its affiliated organizations and individuals (which also may be collectively referred to herein as, among other things, "we," "us" and "our") have created this statement to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for our websites. 
 
@@ -88,6 +88,7 @@ We have also contracted with a number of advertising network partners to monitor
 
   * 24/7 Real Media's privacy policy at <http://www.247realmedia.com/privacy.html>
   * Quantcast's privacy policy at <http://www.quantcast.com/wiki/index.php/Privacy_Policy>
+  * Omniture's product privacy policy at <http://www.omniture.com/privacy/product>
   * Feedburner's privacy policy at <http://www.feedburner.com/fb/a/privacy>
   * Tacoda's privacy policy at <http://www.tacoda.com/privacy_policy.htm>
   * Google's privacy policy at <http://www.google.com/privacy.html>
@@ -112,6 +113,7 @@ New York, NY 10003
 
 ##  History of Amendments to This Document 
 
+  * December 29, 2006: Added Omniture to list of Third Party Information sharing.
   * November 9, 2006: Added Quantcast web beacon to list of Third Party Information sharing.
   * November 1, 2006: Made changes to incorporate affiliated sites into policy.
   * January 10, 2006: Made changes to reflect new partnerships and interactive features.
