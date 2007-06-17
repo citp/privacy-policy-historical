@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rcgp.org.uk privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229151112id_/http%3A//www.rcgp.org.uk/default.aspx%3Fpage%3D3893) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcgp.org.uk privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617153347id_/http%3A//www.rcgp.org.uk/default.aspx%3Fpage%3D3893) for the most accurate reproduction.*
 
 # RCGP UK - Privacy Policy
 
