@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the direct-golf.co.uk privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214123021id_/http%3A//direct-golf.co.uk/static/privacy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the direct-golf.co.uk privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617022608id_/http%3A//www.direct-golf.co.uk/static/privacy/privacy.asp) for the most accurate reproduction.*
 
 # Golf equipment. Discount golf equipment by Direct Golf UK Ltd. Golf equipment by Callaway, Ping, Titleist, TaylorMade, Nike, Mizuno, King Cobra, Founders Golf all in stock within our online golf shop
 
@@ -47,4 +47,21 @@ We do not record information like your credit card details or address in a cooki
 If you are concerned about security, you can usually modify your browser to prevent cookies being stored on your machine. 
 
 If you have any questions about your privacy on this site, you should e-mail us at  
-[info@direct-golf.co.uk](mailto:info@direct-golf.co.uk). 
+[info@direct-golf.co.uk](mailto:info@direct-golf.co.uk).   
+  
+| 
+
+Finance Available  
+  
+---  
+[](https://web.archive.org/able2buy/about.asp)  
+  
+Our Great Stores  
+  
+---  
+[](https://web.archive.org/stores/index.asp)  
+  
+Logo Products  
+  
+---  
+[](https://web.archive.org/logo/index.asp)
