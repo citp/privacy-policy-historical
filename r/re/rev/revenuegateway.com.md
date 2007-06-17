@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revenuegateway.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231034054id_/http%3A//www.revenuegateway.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revenuegateway.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618015214id_/http%3A//www.revenuegateway.com/privacy.html) for the most accurate reproduction.*
 
 # Revenuegateway Affiliate Program and Affiliate Advertising Network
 
