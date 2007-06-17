@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the estatesales.net privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216074609id_/http%3A//estatesales.net/w3c/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the estatesales.net privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617045025id_/http%3A//www.estatesales.net/w3c/privacy.htm) for the most accurate reproduction.*
 
 # EstateSales.NET Privacy Policy
 
