@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the photobox.co.uk privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205190624id_/http%3A//www.photobox.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photobox.co.uk privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617181625id_/http%3A//www.photobox.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
 Privacy Policy 
 
-This privacy policy together with our [terms of use](https://web.archive.org/web/20061205190624id_/http%3A//www.photobox.co.uk/legal.html) sets out how Photobox Limited (“we”, “our”, “us”) will use any personal data we collect from you, or you provide to us during your use of the on-line photo service (the “Website”). 
+This privacy policy together with our [terms of use](https://web.archive.org/web/20070617181625id_/http%3A//www.photobox.co.uk/legal.html) sets out how Photobox Limited (“we”, “our”, “us”) will use any personal data we collect from you, or you provide to us during your use of the on-line photo service (the “Website”). 
 
 For the purpose of the Data Protection Act 1998 (the Act), the data controller is Photobox Limited of UNIT 2-3 PARK, ROYAL METRO CENTRE, BRITANNIA WAY, LONDON, NW10 7PA. We may from time to time use data processors, who are not employees, agents or otherwise connected with us, with whom we have an agreement to process your data (“Data Processors”). 
 
