@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the qut.edu.au privacy policy that was archived on 2006-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061023154320id_/http%3A//qut.edu.au/general/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qut.edu.au privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617163028id_/http%3A//www.qut.edu.au/general/privacy.jsp) for the most accurate reproduction.*
 
 # QUT | QUT's privacy and security statement
-
-[[Print-friendly version](http://www.qut.edu.au/general/privacy.jsp?view=print)]
 
 Use of cookies and other information collection technologies  
 Site usage  
@@ -52,10 +50,10 @@ Email messages may be monitored by our website support staff for system trouble 
 
 ####  Further information about privacy
 
-Information on how QUT manages personal privacy can be found in our [Privacy Plan](http://www.secretariat.qut.edu.au/programs/privacy/QUTPrivacyPlan.pdf) (download PDF). If you have any questions about QUT’s privacy and security practices, you can contact the QUT Privacy Contact Officer at the following address:
+Information on how QUT manages personal privacy can be found in our [Privacy Plan](http://www.governance.qut.edu.au/programs/privacy/QUTPrivacyPlan.pdf) (download PDF). If you have any questions about QUT’s privacy and security practices, you can contact the QUT Privacy Contact Officer at the following address:
 
 Corporate Information Coordinator  
-QUT Secretariat  
+Governance Services   
 GPO Box 2434  
 Brisbane Qld 4001
 
