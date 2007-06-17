@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyherald.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205225309id_/http%3A//www.dailyherald.com/info/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyherald.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617044745id_/http%3A//www.dailyherald.com/info/privacypolicy.asp) for the most accurate reproduction.*
 
 # Daily Herald | Privacy Policy
 
@@ -61,7 +61,7 @@ It is possible for you to use much of dailyherald.com without giving us any pers
 > Internet Department Manager  
 >  Paddock Publications, Inc.  
 >  155 E. Algonquin Road  
->  Arlington Heights, IL 60606  
+>  Arlington Heights, IL 60005  
 >  Facsimile: (847) 427-2869  
 >  e-mail: [webmaster@dailyherald.com](mailto:webmaster@dailyherald.com)
 
