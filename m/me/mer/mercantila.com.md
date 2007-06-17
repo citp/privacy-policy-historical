@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercantila.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206120644id_/http%3A//www.mercantila.com/content/notices/privacy_notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercantila.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617222102id_/http%3A//www.mercantila.com/content/notices/privacy_notice) for the most accurate reproduction.*
 
 # Mercantila | Privacy Notice
 
@@ -14,7 +14,9 @@ You may interact with our site in one of two ways: contacting us by email or pla
 
 We also log certain non-personal information when you visit Mercantila, such as the type of browser (e.g., Netscape, Internet Explorer) used, the type of operating system (e.g., Windows XP, Mac OSX) used, and the domain of your Internet service provider (e.g., Earthlink, AOL, MSN). We log this information using ‘cookies,’ which are small data text files that Web sites store on your computer’s hard drive if your Web browser permits. Cookies, which can later be retrieved to identify you to Mercantila, make your use of our site easier, allow you to retrieve earlier shopping carts, and help us to maintain a secure site. **For your safety, you will be unable to shop on our site if your browser is not set to accept cookies**. 
 
-We only use the information you provide about yourself to fulfill an order, to enroll you in services you have requested, or to respond to your inquiries. 
+We only use or disclose to third parties the information you provide   
+about yourself to fulfill an order, to enroll you in our or third party   
+services you have requested, or to respond to your inquiries. 
 
 We use the non-personal information we collect to analyze the overall traffic on our site. This analysis helps us make site design changes to improve your experience. 
 
@@ -26,6 +28,8 @@ Mercantila uses several of the latest encryption technologies to keep your perso
 
 You may contact us at any time to update the information we have about you. To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. 
 
-We want to communicate with you only if you want to hear from us. If you prefer not to receive information from us, either by email, postal mail, or phone, please let us know by sending us an email or by calling us at (800) 718-1710 Mon.-Fri. (5am to 8pm, PST) or Sat.-Sun. and holidays (6am to 5pm, PST). 
+We want to communicate with you only if you want to hear from us. If you prefer not to receive information from us, either by email, postal mail, or phone, please let us know by sending us an email or by calling us at (800) 718-1710 Mon.-Fri. (Mon - Fri 5am to 8pm, PST   
+Sat and Sun 8 am to 5 pm PST) or Sat.-Sun. and holidays (Mon - Fri 5am to 8pm, PST   
+Sat and Sun 8 am to 5 pm PST). 
 
 Please note that such requests may take up to 6-8 weeks to become effective. Please also note that when you make a purchase, we will send you emails to confirm your order and may also need to contact you by phone, mail, or email if we have other questions regarding your order. 
