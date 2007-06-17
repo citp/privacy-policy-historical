@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verticalresponse.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230223506id_/http%3A//www.verticalresponse.com/about/privacy_tos.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verticalresponse.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618011355id_/http%3A//www.verticalresponse.com/about/privacy_tos.html) for the most accurate reproduction.*
 
 # Privacy Statement | VerticalResponse
 
@@ -36,7 +36,7 @@ We use IP addresses to analyze trends, administer the site, track user's movemen
 **Sharing**  
 We will share aggregated demographic information with 3rd parties in the case they would like to know aggregate demographics of our audience. This is not linked to any personal information that can identify any individual person. We do not share personally identifiable information with 3rd parties.
 
-**[Links](https://web.archive.org/glossary#term41)**  
+**[Links](https://web.archive.org/glossary/term/41)**  
 This web site contains links to other sites. Please be aware that we VerticalResponse are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by verticalresponse.com.
 
 **Security**  
