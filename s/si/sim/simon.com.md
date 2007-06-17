@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simon.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230014957id_/http%3A//www.simon.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simon.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617032841id_/http%3A//www.simon.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Simon.com - Privacy Policy
 
@@ -56,4 +56,4 @@ We are always improving and updating our website to further enhance your shoppin
 
   
 Want To Share Your Thoughts on Privacy With Us?  
-We welcome your comments and suggestions. [Click here](https://web.archive.org/web/20061230014957id_/http%3A//www.simon.com/about_simon/contact_spg/) to send your comments.
+We welcome your comments and suggestions. [Click here](https://web.archive.org/about_simon/contact_spg/default.aspx) to send your comments.
