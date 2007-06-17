@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goldline.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206003228id_/http%3A//goldline.com/about-goldline/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldline.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617181419id_/http%3A//www.goldline.com/about-goldline/privacy-policy.html) for the most accurate reproduction.*
 
-# About Goldline - Privacy Policy
+# About Goldline - Privacy Policy - Goldline International
 
 |  | [](http://www.goldline.com/ "Goldline International, Inc") | 
 
@@ -25,6 +25,10 @@ Serving Rare Coin and Precious Metals Investors Since 1960
 
 [](https://web.archive.org/about-goldline/goldline-careers.html)
 
+[](https://web.archive.org/precious-metals/articles/gold-confiscation-order.html)
+
+[](https://web.archive.org/buy-gold/coin-grading.html)
+
 |  |   
 ---  
   
@@ -46,17 +50,9 @@ The images on this website are the property of Goldline International, Inc. and 
 
   
   
-[](https://web.archive.org/precious-metals/chart.html)  
+[](https://web.archive.org/about-goldline/spot-price-help.html)  
   
-| Metal | Ask $ | Chg ±  
----|---|---  
-Gold | ??? | ???  
-Silver | ??? | ???  
-Platinum | ??? | ???  
-Palladium | ??? | ???  
   
-Loading Prices...
-
   
   
   
@@ -72,7 +68,11 @@ The American Advisor with Joe Battaglia, a daily talk show focusing on conservat
 Goldline's success, growth, and experience have allowed us to acquire other outstanding precious metals firms including Deak International Goldline (US) Ltd. from Thomas Cook; Gold and Silver Emporium (asset purchase); and Dreyfus Precious Metals, Inc.
 
   
-[](https://web.archive.org/about-goldline/corporate-info.html)  
+[](https://web.archive.org/about-goldline/corporate-info.html)
+
+[](https://web.archive.org/buy-gold/ira-investment.html)  
+   
+  
 |   
 |   
 |  |   
