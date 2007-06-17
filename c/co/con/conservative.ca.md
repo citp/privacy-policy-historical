@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conservative.ca privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219135139id_/http%3A//www.conservative.ca/EN/2454) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conservative.ca privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617134738id_/http%3A//www.conservative.ca/EN/2454) for the most accurate reproduction.*
 
 # CONSERVATIVE PARTY OF CANADA - Privacy Policy
 
@@ -27,7 +27,7 @@ Your information is used to communicate with you, or to facilitate your particip
 
 Because the Conservative Party is a national organization with a riding-based membership system, your personal information may also be used by our local riding associations including by contestants for nominations. For example, if you have made a financial contribution, the local riding may contact you to see if you would like to continue your support. 
 
-As a federal political party registered under the Canada Elections Act, the Conservative Party including its “electoral district associations��? (riding associations) are subject to extensive regulation under that Act, including in particular public disclosure requirements for contributions over $200. 
+As a federal political party registered under the Canada Elections Act, the Conservative Party including its “electoral district associations" (riding associations) are subject to extensive regulation under that Act, including in particular public disclosure requirements for contributions over $200. 
 
 We will not sell your personal information that you have chosen to provide us, nor will we disclose it to third parties except as required by the Elections Act. 
 
