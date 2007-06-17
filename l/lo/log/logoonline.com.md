@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the logoonline.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111021623id_/http%3A//www.logoonline.com/about/privacy-policy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logoonline.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617025623id_/http%3A//www.logoonline.com/about/privacy-policy.jhtml) for the most accurate reproduction.*
 
-# LOGOonline.com - LGBT Television and Entertainment, Movies, Documentaries, News, Music, Videos, Photos and Blogs
+# About Logo | Contact | FAQs | Casting Call | Job Openings | Logo Online
 
 YOUR CALIFORNIA PRIVACY RIGHTS:  
 Residents of the State of California, under a new provision of the California Civil Code, have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed personally identifiable information during the preceding year for direct marketing purposes. Alternatively, the law provides that if the company has a privacy policy that gives either an Opt-out or Opt-in choice for use of your personally identifiable information by third parties (such as advertisers or affiliated companies) for marketing purposes, the company may instead provide you with information on how to exercise your disclosure choice options. 
