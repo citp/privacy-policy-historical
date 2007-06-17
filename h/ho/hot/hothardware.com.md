@@ -1,7 +1,9 @@
-> *The following text is extracted and transformed from the hothardware.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216113221id_/http%3A//www.hothardware.com/privacyterms.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hothardware.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617022629id_/http%3A//www.hothardware.com/privacyterms.aspx) for the most accurate reproduction.*
 
-# Privacy, Terms and Conditions - HotHardware.com - Hot Hardware
+# HotHardware.com
 
+**Privacy, Terms and Conditions - HotHardware.com**  
+  
 **Privacy Policy, Terms and Conditions of HotHardware.com, LLC.  
 **   
 HotHardware.com observes and protects the privacy of you as a reader of this website. This Website does not collect personal information about you except for information that you may voluntarily provide . If you send us an email for however, for example, please indicate whether or not your identity is to be kept confidential. We utilize cookies to better track our readership volume and other simple non-personal demographics such as browser type used etc. No personal information is recorded in these cookies. 
