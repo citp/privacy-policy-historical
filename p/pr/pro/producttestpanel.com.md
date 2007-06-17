@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the producttestpanel.com privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228011406id_/http%3A//producttestpanel.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the producttestpanel.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617044132id_/http%3A//producttestpanel.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-|   | ProductTestPanel.com presented by Consumer Research Corporation Privacy Policy
+|   | The Consumer Research Corporation Privacy Policy  
+Last Revised November 16, 2006
 
   This privacy policy describes the privacy and data handling practices of ProductTestPanel.com, a website of the Consumer Research Corporation (CRC).
 
@@ -33,7 +34,7 @@ We store and use the information you give us in accordance with the terms of thi
 
   Third-Party Action Tags.  We may use third-party advertising companies to serve ads on our behalf.  These companies may employ cookies and action tags (also known as single pixel gifts or web beacons) to measure advertising effectiveness.  Any information that these third parties collect via cookies and action tags is completely anonymous.  If you would like more information about this practice and your choices,
 
-[click here](http://www.networkadvertising.org/consumer/opt_out.asp).
+[click here](http://www.cookiecentral.com/faq/).
 
   E-mail Links. In some instances we may include certain links in our e-mails that will allow us to monitor whether you access specific content or advertisements contained in that e-mail. When you click on one of these links, we will record that click and certain activities on the Web page associated with that link. We may use this information for various purposes, such as to conduct internal research on our users' demographics, interests, and behavior in and to our e-mail advertisements and content, and to better understand and serve you.
 
