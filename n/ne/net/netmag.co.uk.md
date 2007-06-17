@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netmag.co.uk privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206002759id_/http%3A//www.netmag.co.uk/zine/general-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netmag.co.uk privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617025529id_/http%3A//www.netmag.co.uk/zine/general-info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - .net magazine
 
@@ -25,8 +25,4 @@ By using this Website you agree to the terms of this privacy policy and our [web
 
 [](https://web.archive.org/zine/net-competition)
 
-[](http://www.netmag.co.uk/zine/net-competition/win-a-macbook-pro-worth-1-399)  
-.net has partnered with CyberSource Essentials to give you the chance to bag a MacBook Pro worth £1,399! [Click here!](http://www.netmag.co.uk/zine/net-competition/win-a-macbook-pro-worth-1-399)
-
-[](http://www.netmag.co.uk/zine/net-competition/net-survey-2006-comp)  
-Take the .net reader survey 2006 and Win MacBook and hosting worth £1,000. [Click here!](http://www.netmag.co.uk/zine/net-competition/net-survey-2006-comp)
+The latest competitons from .net magazine
