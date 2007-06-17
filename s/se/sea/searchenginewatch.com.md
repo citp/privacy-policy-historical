@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchenginewatch.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017085210id_/http%3A//www.incisivemedia.com/public/showPage.html%3Fpage%3D1118) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchenginewatch.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617051459id_/http%3A//www.incisivemedia.com/public/showPage.html%3Fpage%3D1118) for the most accurate reproduction.*
 
 # Incisive Media Privacy Policy
 
