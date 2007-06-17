@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ampfutures.com privacy policy that was archived on 2006-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061102030335id_/http%3A//www.ampfutures.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ampfutures.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617095833id_/http%3A//www.ampfutures.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy: Security and Disclosure of Amp Futures - futures, options and forex trading
 
@@ -50,5 +50,5 @@ If you do not wish to have your personal information disclosed to our affiliates
   
 AMP Futures LLC.   
 Attention: Privacy Officer   
-18117 Bridle Bit Lane   
-Tampa, Fl 33647 
+151 N. Michigan Avenue ste.2904   
+Chicago, IL 60601 
