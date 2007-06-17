@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the synopsys.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216015058id_/http%3A//synopsys.com/snps_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synopsys.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617044609id_/http%3A//www.synopsys.com/snps_privacy.html) for the most accurate reproduction.*
 
 # Synopsys Privacy Policy
 
