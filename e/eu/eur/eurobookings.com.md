@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the eurobookings.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207205418id_/http%3A//www.eurobookings.com/privacy.en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurobookings.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617175431id_/http%3A//www.eurobookings.com/privacy.html) for the most accurate reproduction.*
 
-# Eurobookings online hotel reservations
+# Europe Hotel Reservations | Discount European Hotels and Accommodations
 
-## Privacy Policy
+##  Privacy Policy
 
 At Eurobookings we take our responsibility regarding your privacy, very seriously. The information we request when making your reservation, is requested in order to offer you a professional service. We only share customer information with the hotel you are booking in to. Under no circumstances will we distribute it to others, except in the unlikely event that the law obliges disclosure.
 
@@ -10,7 +10,7 @@ Your contact data is used to make the hotel reservation. This data will be passe
 
 We would again like to stress that, in accordance with European personal data protection laws, strict security procedures are observed at Eurobookings to prevent personal data misuse and unauthorised access.
 
-## Credit Card information
+##  Credit Card information
 
 We will not charge your credit card. Your credit card information is only required to guarantee your booking. You will pay your stay at the hotel.
 
@@ -21,13 +21,13 @@ Our server and network are protected by firewalls against unauthorized access. T
 
 Your credit card details will be kept at Eurobookings until your arrival date at the hotel. After this date the details will be destroyed.
 
-## Control over your data
+##  Control over your data
 
 You always have the right to review the personal data you have stored with us. You can request your personal data by emailing us at [privacy@eurobookings.com](mailto:privacy@eurobookings.com). Please state ‘request personal data’ in the subject line of your email.
 
 If your personal data is incorrect, we will change it upon your request. You can also ask Eurobookings to remove your personal data from its database by sending us an email to the same email address.
 
-## When does Eurobookings send you emails?
+##  When does Eurobookings send you emails?
 
 After you have made a booking you will receive a confirmation message with all the information about your booking. You may take this confirmation to the hotel as guarantee of the reservation.
 
