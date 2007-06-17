@@ -1,8 +1,19 @@
-> *The following text is extracted and transformed from the wizarduniverse.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213071751id_/http%3A//wizarduniverse.com/info/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wizarduniverse.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617052255id_/http%3A//wizarduniverse.com/info/privacy.cfm) for the most accurate reproduction.*
 
 # Wizard Entertainment
 
-[](http://www.itaggit.com/wizard.aspx)  
+|  |  |  |  |  |  |   
+[](http://www.wizarduniverse.com/) | [](http://www.wizarduniverse.com/) |   |   
+[](http://store.yahoo.com/wizarduniverse/wizenmag.html) | [](http://www.wizarduniverse.com/conventions/index.cfm) | [](http://www.wizarduniverse.com/store/index.cfm) |   
+|  [](http://www.toygrader.com/)
+
+[](http://www.garrisoncarida.com/index.php)[](http://www.rifftrax.com/cart.php?m=affiliate_go&affiliateID=b26081481e975af95572c0dd853e3e3b&go)
+
+|   
+|   
+| 
+
+[](http://wizarduniverse.stores.yahoo.net/wizworeas20.html)  
   
 ---  
 | 
@@ -56,7 +67,9 @@ Sites which you may access through links on WizardUniverse.com (i.e. Internet ac
 * * *
 
   
-WizardUniverse.com and/or our partners may send you direct mail and/or e-mail about products and services that we feel may be of interest to you. Only WizardUniverse.com and our entrusted agents will send you these direct mailings and only if you indicated that you do not object to these offers at the time you registered with WizardUniverse.com. If you do not want to receive such mailings, simply tell us when you give us your personal information (i.e. receiving a mailing/newsletter can be stopped or prevented if you indicate you are not interested in such an offer at the time of registration). Certain promotions, contests and/sweepstakes will request that you submit your e-mail address in order to update you on your score, entries, and/or status in prize drawings. 
+Personal Identification Information Wizard Entertainment may request personal identification information from you (such as your name, street address, telephone number, credit card number, e-mail address, and/or any other identifier that permits the physical or online contacting of you) in connection with your use of, or participation in, membership registration for Wizarduniverse.com  , our products, contests, sweepstakes, promotions, games, surveys, forums, subscription registrations, content submissions, chats, bulletin boards, discussion groups, requests for suggestions, visitors' requests for free products or services or additional information (including via email to us), and in connection with other activities, services or resources we make available on any of our Sites. In all of these cases, we will collect personal identification information from you only if you voluntarily submit such information to us. Except as otherwise provided in this policy, we will never intentionally disclose any personal identification information about you as an individual user to any third party without having received your permission. 
+
+We may also use personal identification information for internal or external marketing and promotional purposes. For example, we may send you emails to introduce a product, service or news alert that we think might be of interest to the users of our Site. The user may choose to "opt-out" at any time, even after you have provided personal information, by clicking on the "unsubscribe' link which if located on the footer of every email communication. 
 
 * * *
 
@@ -75,4 +88,6 @@ Should you have any further questions about WizardUniverse.com’s privacy polic
   
   
 [Advertise](http://www.wizarduniverse.com/info/advertise.cfm) • [Corporate](http://www.wizarduniverse.com/info/corporate.cfm) • [Jobs](http://www.wizarduniverse.com/info/jobs.cfm) • [Legal](http://www.wizarduniverse.com/info/legal.cfm) • [Links](http://www.wizarduniverse.com/info/links.cfm) • [Press Releases](http://www.wizarduniverse.com/info/press.cfm) • [Privacy](http://www.wizarduniverse.com/info/privacy.cfm) • [Contact Info](http://www.wizarduniverse.com/info/contact.cfm) • [Site Credits](http://www.wizarduniverse.com/info/credits.cfm)   
-© 2006 Wizard Entertainment 
+© 2007 Wizard Entertainment   
+  
+| 
