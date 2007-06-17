@@ -1,0 +1,527 @@
+<!--The following is the downloaded HTML source of the emailbrain.com privacy policy that was archived on 2007-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070617020446id_/http%3A//www.emailbrain.com/eb/privacy.shtml) for the most accurate reproduction.-->
+
+<html><head>
+<title>Email Brain</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="styles.css" rel="stylesheet" type="text/css">
+<script type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+
+<body bgcolor="#f2f7dc" link="#666666" vlink="#666666" alink="#666666" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="MM_preloadImages('images/bttn_eng_on.gif','images/bttn_esp_on.gif','images/bttn01_home_on.gif','images/bttn02_features_on.gif','images/bttn03_industry_on.gif','images/bttn04_resources_on.gif','images/bttn05_pricing_on.gif','images/bttn06_support_on.gif','images/bttn07_faq_on.gif','images/bttn08_about_on.gif','images/bttn09_contact_on.gif')">
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td height="7" bgcolor="#f7a820"><img src="images/1pix.gif" width="7" height="7"></td>
+  </tr>
+  <tr>
+    <td height="95" bgcolor="#FFFFFF"><script>
+function CheckPassword(){
+	if(document.LogininputForm.Username.value>"" && document.LogininputForm.Username.value!="Email"){
+		if(document.LogininputForm.Password.value>""){
+			document.LogininputForm.Mode.value='Login';
+			document.LogininputForm.submit()
+		}else{
+			alert("You must enter a password.")
+		}
+	}else{
+		alert("You have to enter your e-mail address to login.")
+	}
+}
+function change2(field) {
+	
+ if(field.value=='Password'){
+	document.getElementsByName('Password').item = '';
+	//document.all.Username.focus()
+	
+	if (document.all) {
+		
+		str= field.outerHTML;
+		//alert(field.outerHTML)
+	   i=str.indexOf("type=");
+	   j=str.indexOf(" ", i);
+	   str2=str.substring(0,i)+" type='password' "+str.substr(j);
+	   field.outerHTML="<input " + str2;
+	   
+	   //str= field.outerHTML;
+	   //i=str.indexOf("value=");
+	   //j=str.indexOf(" ", i);
+	   //str2=str.substring(0,i)+" value='' "+str.substr(j);
+	   	   
+	   //field.outerHTML="<input " + str2;
+	   document.LogininputForm.Password.focus()
+	   document.LogininputForm.Password.value="Password"
+	   document.LogininputForm.Password.value=""
+	   document.LogininputForm.Password.focus()
+	   return;
+	}
+	if (document.getElementById) {
+		
+	 field.type="password";
+	 document.LogininputForm.Password.focus()
+	   document.LogininputForm.Password.value="Password"
+	   document.LogininputForm.Password.value=""
+	   document.LogininputForm.Password.focus()
+	}
+ }
+}
+function changeBack2(field) {
+ if(field.value==''){
+	
+	document.all.Username.focus()
+		
+	if (document.all) {
+	
+		str= field.outerHTML;
+		//alert(field.outerHTML)
+	   i=str.indexOf("type=");
+	   j=str.indexOf(" ", i);
+	   str2=str.substring(0,i)+" type='text' "+str.substr(j);
+	   //alert("<input " + str2);
+	   str= "<input " + str2;
+	   //alert(field.outerHTML)
+	   i=str.indexOf("value=");
+	   j=str.indexOf(" ", i);
+	   str2=str.substring(0,i)+" value='Password' "+str.substr(j);
+	   
+	   field.outerHTML=str2;
+	   //field.blur
+	   //alert(field.outerHTML)
+	   return;
+	}
+	//field.focus()
+	//document.all.Password.focus()
+	if (document.getElementById) {
+	 field.type="text";
+	 document.LogininputForm.Password.value="Password"
+	}
+	document.LogininputForm.Username.focus()
+ }
+}
+</script>
+<link href="../images/emailbrain/favicon.ico" rel="Shortcut Icon" type="image/x-icon">
+<form method="post" name="LogininputForm" action="login.asp">
+<input type="hidden" name="Mode"> 
+<table width="100%" height="80" border="0" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td valign="bottom"><a href="index.shtml"><img src="images/logo.gif" width="261" height="80" border="0"></a></td>
+        <td align="right" valign="bottom"><table width="372" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr>
+              <script>
+				var sBrowser = navigator.appVersion
+				if(sBrowser.indexOf("Mac")>-1){
+					document.write("<td width='153' align='left' valign='top'><input onfocus=\"if(this.value=='Email'){this.value=''}\" onblur=\"if(this.value==''){this.value='Email'}\" onclick=\"if(this.value=='Email'){this.value=''}\" name='Username' id='Username' value='Email' style='width:150' ></td>")
+					document.write("<td align='left' valign='top'>&nbsp;</td>")
+					document.write("<td width='144' align='left' valign='top'><input type='Password' onblur=\"if(this.value==''){this.value='Password'}\" onfocus=\"if(this.value=='Password'){this.value=''}\" onclick=\"if(this.value=='Password'){this.value=''}\" name='Password' id='Password' value='Password' style='width:150' /></td>")
+					document.write("<td width='75'><a href='javascript: CheckPassword();'><img src='images/login.gif' width='51' height='31' hspace='10'></a></td>")
+				}else{
+					document.write("<td width='153' align='left' valign='top'><input onfocus=\"if(this.value=='Email'){this.value=''}\" onblur=\"if(this.value==''){this.value='Email'}\" onclick=\"if(this.value=='Email'){this.value=''}\" name='Username' id='Username' value='Email' style='width:150' /></td>")
+					document.write("<td align='left' valign='top'>&nbsp;</td>")
+					document.write("<td width='144' align='left' valign='top'><input onblur='changeBack2(this.form.Password);' onfocus='change2(this.form.Password);' onclick='change2(this.form.Password);this.focus();' name='Password' id='Password' value='Password' style='width:150' /></td>")
+					document.write("<td width='75'><a href='javascript: CheckPassword();'><img src='images/login.gif' width='51' height='31' hspace='10'></a></td>")
+              }
+              </script><td width="153" align="left" valign="top"><input onfocus="if(this.value=='Email'){this.value=''}" onblur="if(this.value==''){this.value='Email'}" onclick="if(this.value=='Email'){this.value=''}" name="Username" id="Username" value="Email" style="width:150"></td><td align="left" valign="top">&nbsp;</td><td width="144" align="left" valign="top"><input onblur="changeBack2(this.form.Password);" onfocus="change2(this.form.Password);" onclick="change2(this.form.Password);this.focus();" name="Password" id="Password" value="Password" style="width:150"></td><td width="75"><a href="javascript: CheckPassword();"><img src="images/login.gif" width="51" height="31" hspace="10"></a></td>
+            </tr>
+            <tr>
+              <td colspan="4" class="fsmall"><a href="register.asp" class="fsmall"><b>Sign up now!</b></a>    <b><a href="login.asp?Mode=Forgot" class="fsmall">Forgot your password?</a> Call us: 1-866-873-3019&nbsp;</b></td>
+            </tr>
+        </tbody></table></td>
+      </tr>
+</tbody></table>
+</form>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-985365-1";
+urchinTracker();
+</script>
+</td>
+  </tr>
+  <tr>
+    <td height="22" bgcolor="#BED62F"><script type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<a href="index.shtml" onmouseover="MM_swapImage('home','','images/bttn01_home_on.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/bttn01_home.gif" name="home" width="25" height="22" border="0" id="home"></a><a href="features.shtml" onmouseover="MM_swapImage('features','','images/bttn02_features_on.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/bttn02_features.gif" name="features" width="86" height="22" border="0" id="features"></a><a href="industry.shtml" onmouseover="MM_swapImage('industry','','images/bttn03_industry_on.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/bttn03_industry.gif" name="industry" width="171" height="22" border="0" id="industry"></a><a href="resources.shtml" onmouseover="MM_swapImage('resources','','images/bttn04_resources_on.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/bttn04_resources.gif" name="resources" width="103" height="22" border="0" id="resources"></a><a href="pricing.shtml" onmouseover="MM_swapImage('pricing','','images/bttn05_pricing_on.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/bttn05_pricing.gif" name="pricing" width="75" height="22" border="0" id="pricing"></a><a href="support.asp" onmouseover="MM_swapImage('support','','images/bttn06_support_on.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/bttn06_support.gif" name="support" width="82" height="22" border="0" id="support"></a><a href="faq.shtml" onmouseover="MM_swapImage('faq','','images/bttn07_faq_on.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/bttn07_faq.gif" name="faq" width="53" height="22" border="0" id="faq"></a><a href="aboutus.shtml" onmouseover="MM_swapImage('about','','images/bttn08_about_on.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/bttn08_about.gif" name="about" width="91" height="22" border="0" id="about"></a><a href="contactus.asp" onmouseover="MM_swapImage('contact','','images/bttn09_contact_on.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/bttn09_contact.gif" name="contact" width="102" height="22" border="0" id="contact"></a></td>
+  </tr>
+  <tr>
+    <td height="194" background="images/aboutus_art.jpg"><blockquote><span class="ttl-maintopbanner">ABOUT US</span> <br>
+        <strong><span class="maintopbanner">EmailBrain<font size="1"> </font>offers more than just a great product to assist customers in their marketing <br>
+efforts. A prompt access to customer service combined with a knowledgeable and <br>
+committed team with strong values, completes a rounded set of email <br>
+communication solutions.</span></strong></blockquote></td>
+  </tr>
+  <tr>
+    <td height="4" valign="top" bgcolor="#FFFFFF"><img src="images/1pix.gif" width="4" height="4" align="top"></td>
+  </tr>
+  <tr>
+    <td height="38" bgcolor="#BED62F"><script type="text/javascript">
+function goThere(loc){
+	window.location.href=loc;
+}
+</script>
+
+<table width="100%" height="38" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td width="342"><img src="images/img_ttl_targe_your_business.gif" width="342" height="38"></td>
+    <td align="center" valign="middle"><select name="redirect" onchange="goThere(this.options[this.selectedIndex].value)">
+      <option value="#" selected="selected">Choose your Industry Type!</option>
+      <option value="artists.shtml">Artists &amp; Galleries </option>
+	  <option value="associations.shtml">Associations</option>
+	  <option value="law.shtml">Attorneys &amp; Law Firms</option>
+	  <option value="clubs.shtml">Clubs &amp; Lounges</option>
+	  <option value="decorators.shtml">Decorators &amp; Designers</option>
+	  <option value="education.shtml">Education</option>
+	  <option value="entertainment.shtml">Entertainment</option>
+	  <option value="financial.shtml">Financial Services</option>
+	  <option value="healthcare.shtml">Health Care</option>
+	  <option value="healthclubs.shtml">Health Clubs &amp; Fitness</option>
+	  <option value="hotels.shtml">Hotels &amp; Resorts</option>
+	  <option value="religious.shtml">Ministries &amp; Religious Groups</option>
+	  <option value="nonprofit.shtml">Non Profit Organizations</option>
+	  <option value="political.shtml">Political Campaigns</option>
+	  <option value="publishers.shtml">Publishers</option>
+	  <option value="realestate.shtml">Real Estate &amp; Realtors</option>
+	  <option value="restaurants.shtml">Restaurants &amp; Cafes</option>
+	  <option value="retail.shtml">Retailers</option>
+	  <option value="consulting.shtml">Sales &amp; Consulting</option>
+	  <option value="salons.shtml">Salons &amp; Spas</option>
+	  <option value="tradeshows.shtml">Trade Shows</option>
+	  <option value="travel.shtml">Travel</option>
+	  <option value="developers.shtml">Web Designers &amp; Developers</option>
+	  <option value="winery.shtml">Winery &amp; Wine Retail</option>
+    </select></td>
+    <td width="185" align="center" valign="middle" bgcolor="#F7A81F" class="free-trial">Free Trial!</td>
+  </tr>
+</tbody></table>
+</td>
+  </tr>
+  <tr>
+    <td valign="top" bgcolor="#FFFFFF"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td width="18"><img src="images/1pix.gif" width="18" height="18"></td>
+            <td valign="top" class="fnormalgrey" style="width: 856px"><br>
+              <p><span class="ttl-oj"><strong>EMAILBRAIN PRIVACY POLICY </strong><br>
+----------------------------------</span><br>
+  Email Logics Inc., the holding company of EmailBrain, is committed to protect your privacy, and rigorous procedures have been implemented to ensure this.  The following Privacy Policy provides information on how your personal information is collected and used.&nbsp; <br>
+                <br>
+</p>
+            <font color="#666666" size="2" face="Verdana, Arial, Helvetica, sans-serif"><br>
+                  </font></td>
+    <td class="fnormalgrey" style="width: auto" valign="top"><br><br><br>&nbsp;&nbsp;<a href="http://www.truste.org/ivalidate.php?url=www.emailbrain.com&amp;sealid=101" target="_blank"><img border="0" src="images/clickseal.gif" width="91" height="73"></a>
+    </td>
+            <td width="17"><img src="images/1pix.gif" width="17" height="17"></td>
+          </tr>
+    <tr>
+        <td width="18">
+        </td>
+        <td class="fnormalgrey" valign="top" colspan="2">
+            <p><strong><font color="#666666" size="2" face="Verdana, Arial, Helvetica, sans-serif">A. What this site does with the information it gathers/tracks:</font></strong></p>
+              <p>Email Logics Inc. may offer several opportunities for visitors to register for promotional or informational mailings or to receive assistance in evaluating our software and services. Our site's optional information requests forms that require your name, company, e-mail address, as well as information to help us determine your needs relative to our products and services.<br></p>
+              <p>Information submitted by you within our website, will be used only by us in order to provide customer support to you, inform you of any new promotion or update of our website, or to help process your order, in case help is needed.
+                Email Logics Inc. does not share, sell, rent, or trade PII with third parties for their promotional purposes. We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.<br></p>
+              <p>If you purchase a product or service from us, our credit card processing vendor will request certain personally identifiable information from you on our order form.  You must provide contact information (such as name, email, and physical address) and financial information (such as credit card number, expiration date) in the following URL: <a href="https://www.linkpoint.com/lpc/servlet/lppay">https://www.linkpoint.com/lpc/servlet/lppay</a>. They utilize SSL encryption to transmit sensitive information. The information provided to them, will be only kept by them. Email logics Inc. will not have access to it.<br></p>
+              <p>We use this information to send updates about our company and will contact you if requested or necessary. We use your IP address to help diagnose problems with our server and to administer our website. We also track browser types to help us understand our visitors' needs related to our website design. IP addresses are not linked to personally identifiable information. When you enter a contest or other promotional features, such as the EmailBrain's free trial, we ask for information such as your name, mailing address, daytime phone number and email address, so we can administer the contest and contact you to receive feedback regarding our product.<br></p>
+  <br>
+  <strong><font color="#666666" size="2" face="Verdana, Arial, Helvetica, sans-serif">B. Choice/Opt-out</font></strong>
+        <p>If you sign up as a trial or a paying member, we request certain personally identifiable information from you. You must provide contact information (such as name, email, and physical address). We use this information for promotion, or support purposes.<br>The users selected to be part of Emailbrain's Case Studies have the option of opting-out by calling 302.356.4200 or by sending an email to <a href="mailto:unsubscribe@emailbrain.com">unsubscribe@emailbrain.com</a>. However, all testimonials had full permission to be posted on <a href="http://www.emailbrain.com/">www.emailbrain.com</a>.<br></p>
+        <p>If you no longer wish to receive our newsletter whether it is a promotional, support, or billing related communication, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at <a href="mailto:unsubscribe@emailbrain.com">unsubscribe@emailbrain.com</a>.<br></p>
+        <p>We offer an opportunity to opt-out of promotional, support, billing related communication emails, by clicking on the unsubscribe link on the emails. Or, you may also unsubscribe by contacting us at 1.866.873.3019. If you would like to unsubscribe with a written letter, please send us a letter to:
+        <br>Email Logics Inc.
+        <br>One Commerce Center
+        <br>1201 Orange Street - Suite 600
+        <br>Wilmington, Delaware 19801
+        <br>USA<br>
+        </p>
+        <p>Every email sent through EmailBrain contains an easy, automated unsubscribe link at the bottom of the email. To unsubscribe, you simply need to click the link at the bottom of the page in the unsubscribe area. You are immediately excluded from all future mailings<br></p>
+        <p>You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.<br></p>
+        <br>
+  <strong><font color="#666666" size="2" face="Verdana, Arial, Helvetica, sans-serif">C. With whom this site shares information it gathers/tracks/shares:</font></strong><br>
+               <p>We share aggregate statistics about our customer's traffic patterns and reservations with our suppliers and partners, but these statistics do not include any personally identifying information. Like most Web sites, there is certain information we automatically track, including the URL that you just came from, which URL you go to next, the browser you are using and your IP address.<br></p>
+              <p>Information gathered by our credit card processing vendor, as the name of the client, name of the company, phone number, email address, and credit card, is necessary for them to provide that service, and will not be provided to Email logics Inc.<br>Our credit card processing vendor is prohibited from using your personally identifiable information for any other purpose.<br></p>
+              <p>We use cookies to help users navigate efficiently between secure and non-secure pages of our site. Cookies are pieces of information that a Website transfers to your computer's hard disk for record-keeping purposes. Cookies can make the Web more useful by storing information about your preferences. The use of cookies is an industry standard, and many major web sites use them to provide useful features for their customers. Cookies in and of themselves do not personally identify users, although they identify a user's computer. Most browsers are initially set to accept cookies. If you prefer, you can set yours to refuse cookies. However, you may not be able to take full advantage of a website if you do so. We link the information we store in cookies to any personally identifiable information you submit while on our site.<br></p>
+              
+  <strong><font color="#666666" size="2" face="Verdana, Arial, Helvetica, sans-serif">D. Our policy on correcting and updating personally identifiable information:</font></strong><br>
+        <p>We intend to give you as much control as possible over your personal information. You have the option to register with Email Logics Inc. for the use of our services. You can update your personal information, subscriptions or service package at any time by signing into your account and making the relevant adjustments.<br></p> 
+  <br>
+  <strong><font color="#666666" size="2" face="Verdana, Arial, Helvetica, sans-serif">E. Links to Other Sites:</font></strong><br>
+            <p>This Web site contains links to other sites that are not owned or controlled by Email logics Inc. Please be aware that Email Logics Inc. is not responsible for the privacy practices of such other sites.  We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.  This privacy statement applies only to information collected by this Web site.<br></p>   
+   <br>
+   <strong><font color="#666666" size="2" face="Verdana, Arial, Helvetica, sans-serif">F. Security:</font></strong><br>
+            <p>We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once they receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can send us an email us to <a href="mailto:security@emailbrain.com">security@emailbrain.com</a>.
+
+<br></p>   
+   <br>
+   <strong><font color="#666666" size="2" face="Verdana, Arial, Helvetica, sans-serif">G. How to Contact Us:</font></strong><br>
+            <p>If you have any questions about this privacy statement, or would like more information about our company, please contact us at: <a href="mailto:privacy@emailbrain.com">privacy@emailbrain.com</a>, or at the contact telephone number: 1866.873.3019, or send us a letter to:
+            <br>Email Logics Inc.
+        <br>One Commerce Center
+        <br>1201 Orange Street - Suite 600
+        <br>Wilmington, Delaware 19801
+        <br>USA<br></p>   
+   <br>
+   <strong><font color="#666666" size="2" face="Verdana, Arial, Helvetica, sans-serif">H. Changes to our Privacy Policy:</font></strong><br>
+            <p>This policy may be revised over time as new features are added to the web site. We will post those changes prominently so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. Please check this site for information about revisions to our privacy policy. <br></p>
+            <p>If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner.<br>
+            ----------------------------------------------------------------------------------------------------------------</p>
+   <br>
+   <strong><font color="#666666" size="2" face="Verdana, Arial, Helvetica, sans-serif">Truste Privacy Program:</font></strong><br>
+            <p>Email Logics Inc. is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the Web site <a href="http://www.emailbrain.com">www.emailbrain.com</a>.  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.<br></p>   
+    <p>If you have questions or concerns regarding this statement, you should first contact Stephanie Lewis at <a href="mailto:stephanie@emailbrain.com">Stephanie@emailbrain.com</a>.  If you do not receive acknowledgement of your inquiry, or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <a href="http://www.truste.org/consumers/watchdog_complaint.php">http://www.truste.org/consumers/watchdog_complaint.php</a> TRUSTe will then serve as a liaison with us to resolve your concerns.<br></p>
+     <p>"Effective Date: 02/20/2007" is the last date that the company's privacy practices or privacy statement disclosures were approved by TRUSTe.<br></p>
+   <br>
+  
+        </td><td width="17"><img src="images/1pix.gif" width="17" height="17"></td>
+    </tr>
+        </tbody></table></td>
+        <td width="185" valign="top"> <script>
+function CreateFreeAccount(){
+	var sPassword = document.TrailinputForm.Password1.value
+	if(checkEmailTrail(document.TrailinputForm.Email.value)){
+		if(document.TrailinputForm.Password1.value == document.TrailinputForm.Password3.value){
+			if(sPassword.length > 3){
+				document.TrailinputForm.submit()
+			}else{
+				alert("The password must be 4 characters at minimum.")
+			}	
+		}else{
+			alert("Please make sure both passwords where entered correctly.")
+		}
+	}else{
+		alert("You have to enter a valid email address")
+	}
+}
+function checkEmailTrail(emailStr)
+{
+	var re = /^(([^()<>@,;:\\\"".[\]\ ]+)|(\""[^\r\""]+\""))((\.[^()<>@,;:\\\"".[\]\ ]+)|(\.\""[^\r\""]+\""))*@((([a-zA-Z0-9\-]+\.)*([a-zA-Z0-9][a-zA-Z0-9\-]+)*[a-zA-Z0-9]+\.[a-zA-Z]{2,})|(\[(25[0-4]|2[0-4]\d|1\d{2}|[1-9]\d?)(\.(25[0-4]|2[0-4]\d|1\d{2}|[1-9]\d|\d)){2}(\.(25[0-4]|2[0-4]\d|1\d{2}|[1-9]\d?)))\])$/
+	if (!re.test(emailStr)){
+	}
+	return re.test(emailStr);
+}
+function change(field) {
+	if (document.all) {
+	
+		str= field.outerHTML;
+	   i=str.indexOf("type=");
+	   j=str.indexOf(" ", i);
+	   str2=str.substring(0,i)+" type='password' "+str.substr(j);
+	   field.outerHTML="<input " + str2;
+	   return;
+	}
+	if (document.getElementById) {
+	 field.type="password";
+	}
+}
+function changeBack(field){
+if(field.value==''){
+	if (document.all) {
+		str= field.outerHTML;
+	   i=str.indexOf("type=");
+	   j=str.indexOf(" ", i);
+	   str2=str.substring(0,i)+" type='text' "+str.substr(j);
+	   str= "<input " + str2;
+	   i=str.indexOf("value=");
+	   j=str.indexOf(" ", i);
+	   if(field.name=='Password1'){
+	   str2=str.substring(0,i)+" value='Password' "+str.substr(j);
+	   }
+	   if(field.name=='Password3'){
+	   str2=str.substring(0,i)+" value='Confirm Password' "+str.substr(j);
+	   }
+	   field.outerHTML=str2;
+	   return;
+	}
+	if (document.getElementById) {
+	 field.type="text";
+	 document.TrailinputForm.Password1.value="Password"
+	}
+	document.TrailinputForm.Email.focus()
+ }
+}
+function changePass2(){
+	if(document.all.Password3.value=='Confirm Password'){
+		change(document.all.Password3);
+		document.all.Password3.value='';
+		document.TrailinputForm.Email.focus();
+		document.all.Password3.focus();
+	}
+}
+function changePass(){
+	if(document.all.Password1.value=='Password'){
+		change(document.all.Password1);
+		document.all.Password1.value='';
+		document.TrailinputForm.Email.focus();
+		document.all.Password1.focus();
+	}
+}
+</script>
+ <form action="Register.asp" method="POST" name="TrailinputForm">
+                      <input type="hidden" name="Mode" value="CheckFree">
+                      <input type="hidden" name="Name" value="">
+                      <input type="hidden" name="Surname" value="">
+                      <input type="hidden" name="Organization" value="">
+                      <input type="hidden" name="HearAboutID" value="1">
+                      <input type="hidden" name="WebsiteURL" value="">
+                      <input type="hidden" name="BrochureEmail" value="">
+                      <input type="hidden" name="Payment" value="1">
+                      <input type="hidden" name="transStatus" value="Y">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td width="11" rowspan="2" align="right" background="images/img_bg_freetrial.gif"><img src="images/1pix.gif" width="1" height="1"></td>
+    <td height="99" align="center"><strong><font color="#666666" size="1" face="Verdana, Arial, Helvetica, sans-serif">No Credit Card Required<br>
+      Zero Risk</font><font color="#666666" size="1" face="Arial, Helvetica, sans-serif">!<br>
+       </font></strong>
+        <script>
+			var sBrowser2 = navigator.appVersion
+			if(sBrowser2.indexOf("Mac")>-1){
+				document.write("<input onclick=\"javascript: if(this.value=='Email Address'){this.value=''}\" onblur=\"if(this.value==''){this.value='Email Address'}\" name='Email' id='Email' type='text' value='Email Address' />")
+				document.write("<br>")
+				document.write("<input onfocus=\"javascript: if(this.value=='Password'){this.value=''}\" onclick=\"javascript: if(this.value=='Password'){this.value=''}\" onblur=\"javascript: if(this.value==''){this.value='Password'}\" name='Password1' id='Password1' type='password' value='Password' />")
+				document.write("<br>")
+				document.write("<input onfocus=\"javascript: if(this.value=='Password'){this.value=''}\" onclick=\"javascript: if(this.value=='Password'){this.value=''}\" onblur=\"javascript: if(this.value==''){this.value='Password'}\" name='Password3' id='Password3' type='password' value='Password' />")
+			}else{
+				document.write("<input onclick=\"javascript: if(this.value=='Email Address'){this.value=''}\" onblur=\"if(this.value==''){this.value='Email Address'}\" name='Email' id='Email' type='text' value='Email Address' />")
+				document.write("<br>")
+				document.write("<input onfocus='javascript: changePass()' onclick='javascript: changePass()' onblur='changeBack(this.form.Password1);' name='Password1' id='Password1' type='text' value='Password' />")
+				document.write("<br>")
+				document.write("<input onfocus='javascript: changePass2()' onclick='javascript: changePass2()' onblur='changeBack(this.form.Password3);' name='Password3' id='Password3' type='text' value='Confirm Password' />")
+			}
+       </script><input onclick="javascript: if(this.value=='Email Address'){this.value=''}" onblur="if(this.value==''){this.value='Email Address'}" name="Email" id="Email" type="text" value="Email Address"><br><input onfocus="javascript: changePass()" onclick="javascript: changePass()" onblur="changeBack(this.form.Password1);" name="Password1" id="Password1" type="text" value="Password"><br><input onfocus="javascript: changePass2()" onclick="javascript: changePass2()" onblur="changeBack(this.form.Password3);" name="Password3" id="Password3" type="text" value="Confirm Password">
+    </td>
+  </tr>
+  <tr>
+    <td height="42" valign="top"><img src="images/img_1month.gif" alt="" width="119" height="42" border="0"><input type="image" src="images/bttn_arrow.gif" onclick="javascript:  CreateFreeAccount(); return false;" name="image" width="55" height="42"></td>
+  </tr>
+</tbody></table><img src="images/img_bot_freetrial.gif" alt="" width="185" height="13" border="0" align="top">
+</form><br>
+<br>
+<table width="185" border="0" align="left" cellpadding="0" cellspacing="0">
+  <!-- fwtable fwsrc="sub_menu.png" fwbase="sub_menu.gif" fwstyle="Dreamweaver" fwdocid = "873079768" fwnested="0" -->
+  <tbody><tr>
+    <td><img src="images/spacer.gif" width="182" height="1" border="0" alt=""></td>
+    </tr>
+  <tr>
+    <td height="36" align="center" background="images/sub_menu_r1_c1.gif" class="submenu-ttl">About Us  Menu </td>
+    </tr>
+  <tr>
+    <td background="images/sub_menu_r2_c1.gif"><table width="100%" height="0" border="0" align="center" cellpadding="2" cellspacing="2">
+      <tbody><tr>
+        <td><img src="images/about_us_icon.gif" width="14" height="18"></td>
+        <td><a href="aboutus.shtml" class="submenu-links">About Us</a> </td>
+      </tr>
+      <tr>
+        <td width="11%"><img src="images/about_us_icon.gif" width="14" height="18"></td>
+        <td width="89%"><a href="values.shtml" class="submenu-links">Our Values </a></td>
+      </tr>
+      <tr>
+        <td><img src="images/about_us_icon.gif" width="14" height="18"></td>
+        <td><a href="jobs.shtml" class="submenu-links">Job Openings</a></td>
+      </tr>
+      <tr>
+        <td><img src="images/about_us_icon.gif" width="14" height="18"></td>
+        <td><a href="partners.shtml" class="submenu-links">Our Partners </a></td>
+      </tr>
+      <tr>
+        <td><img src="images/about_us_icon.gif" width="14" height="18"></td>
+        <td><a href="clients.shtml" class="submenu-links">Our Clients </a></td>
+      </tr>
+      <tr>
+        <td><img src="images/about_us_icon.gif" width="14" height="18"></td>
+        <td><a href="terms.shtml" class="submenu-links">Terms &amp; Conditions </a></td>
+      </tr>
+      <tr>
+        <td><img src="images/about_us_icon.gif" width="14" height="18"></td>
+        <td><a href="antispam.shtml" class="submenu-links">Anti-Spam Policy </a></td>
+      </tr>
+      <tr>
+        <td><img src="images/about_us_icon.gif" width="14" height="18"></td>
+        <td><a href="privacy.shtml" class="submenu-links">Privacy Policy </a></td>
+      </tr>
+    </tbody></table></td>
+    </tr>
+  <tr>
+    <td><img name="sub_menu_r3_c1" src="images/sub_menu_r3_c1.gif" width="185" height="21" border="0" id="sub_menu_r3_c1" alt=""></td>
+    </tr>
+  <tr>
+    <td><br>
+      <table width="185" height="65" border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+          <td align="center" valign="bottom" background="images/pricin_info_image.gif" class="submenu-links"><strong>Have questions about   EmailBrain?</strong><br>
+              <strong>Check our <a href="faq.shtml"><font color="#666666">FAQ</font></a><br>
+                Call:</strong><span class="fsmall">1-866-873-3019</span>&nbsp;<br>
+            <strong>Email</strong>: <a href="mailto:info@emailbrain.com" class="submenu-links">info@emailbrain.com</a></td>
+        </tr>
+      </tbody></table>
+      <img name="sub_menu_r3_c1" src="images/sub_menu_r3_c1.gif" width="185" height="21" border="0" id="sub_menu_r3_c1" alt=""><br>
+      <a href="http://livechat.boldchat.com/aid/6686224797763378190/bc.chat" target="_blank"><img src="images/chat_with_us.gif" width="182" height="50" vspace="10" border="0"></a><br></td>
+    </tr>
+</tbody></table></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td valign="top" bgcolor="#FFFFFF"><br>
+    
+<div align="center"><font color="#666666" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="aboutus.shtml" class="footerlinks">About Us</a>| <a href="terms.shtml" class="footerlinks">Terms &amp; Conditions</a> | <a href="antispam.shtml" class="footerlinks">Anti-Spam Policy</a> | <a href="corpsolutions.asp" class="footerlinks">Corporate Edition </a> | <a href="resellers.asp" class="footerlinks">Reseller / Agencies</a> | <a href="privacy.shtml">Privacy Policy </a>  | <a href="contactus.asp" class="footerlinks">Contact Us </a><br>
+        ------------------------------------------------------------------------------------------------------------------<br>
+    "EmailBrain - Smart Email Marketing" are trademarks of Email Logics Inc. - © Copyright 2003-2007 Email Logics Inc. All Rights Reserved. <br>
+      </font>
+        <table width="45%" border="0" cellspacing="3" cellpadding="3">
+          <tbody><tr>
+            <th scope="row"><a href="http://www.espcoalition.org/about_espc.php" target="_blank"></a>              <div align="center"><a href="http://www.data.bbb.org/scripts/cgiip.exe/WService=wilmington/wilmington/showrpt.html?zid=ZHGnGhIgLg"><img src="images/bbb_logo.gif" width="90" height="32" border="0"></a>&nbsp;&nbsp;<a href="http://www.espcoalition.org/members.php"><img src="images/Logo_espc.gif" width="109" height="32" border="0"></a>&nbsp;&nbsp;<a href="../eb/privacy.shtml"><img src="images/finalmark.gif" width="116" height="32" border="0"></a></div><div align="center"></div></th>
+          </tr>
+        </tbody></table>
+<font color="#666666" size="1" face="Verdana, Arial, Helvetica, sans-serif"></font></div></td>
+  </tr>
+</tbody></table>
+
+
+</body></html>
