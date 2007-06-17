@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the smartbrief.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205212414id_/http%3A//www.smartbrief.com/about/privacy_legal.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartbrief.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617182841id_/http%3A//www.smartbrief.com/about/privacy_legal.jsp) for the most accurate reproduction.*
 
-# SmartBrief: About: Privacy
-
-  * [Overview](https://web.archive.org/web/20061205212414id_/http%3A//www.smartbrief.com/about/index.jsp) |
-  * [Directions](https://web.archive.org/web/20061205212414id_/http%3A//www.smartbrief.com/about/directions.jsp) |
-  * [The Board](https://web.archive.org/web/20061205212414id_/http%3A//www.smartbrief.com/about/board.jsp) |
-  * [Contact Us](https://web.archive.org/web/20061205212414id_/http%3A//www.smartbrief.com/about/contact.jsp) |
-  * [Careers](https://web.archive.org/web/20061205212414id_/http%3A//www.smartbrief.com/about/careers.jsp) |
-  * [Privacy](https://web.archive.org/web/20061205212414id_/http%3A//www.smartbrief.com/about/privacy_legal.jsp) |
-  * [News](https://web.archive.org/web/20061205212414id_/http%3A//www.smartbrief.com/about/new_news.jsp)
-
-
+# SmartBrief : About Us : Privacy
 
 ## Information Collection and Use
 
@@ -24,7 +14,7 @@ SmartBrief uses this information in several ways:
 
 
 
-Top of page 
+Top of page
 
 ## Information Sharing
 
@@ -74,7 +64,7 @@ Top of page
 
 ## Correct/Update
 
-SmartBrief, Inc. gives users the option to change and modify information previously provided. To change subscription information, follow the link provided in the confirmation e-mail you received you upon registering.
+SmartBrief, Inc. gives users the option to change and modify information previously provided. To change subscription information, follow the link provided in the confirmation e-mail you received upon registering.
 
 Top of page 
 
@@ -92,7 +82,7 @@ Top of page
 
 Although we do everything within our power to protect the privacy of the information provided by the users of our site, we do reserve the right to share user information in the event that it is necessary to comply with any subpoena, court orders, or legal process.
 
-Copyright © 1999-2006 SmartBrief, Inc. All rights reserved. Protected by copyright laws of the United States and international treaties. SmartBrief may only be used pursuant to the subscription agreement and reproduction, copying, or redistribution for commercial purposes is strictly prohibited without the express written permission of SmartBrief, Inc.
+Copyright © 1999-2007 SmartBrief, Inc. All rights reserved. Protected by copyright laws of the United States and international treaties. SmartBrief may only be used pursuant to the subscription agreement and reproduction, copying, or redistribution for commercial purposes is strictly prohibited without the express written permission of SmartBrief, Inc.
 
 SmartBrief contains links to third party Web sites. The linked sites are not under the control of SmartBrief, Inc., and SmartBrief, Inc. is not responsible for the contents, advertising, products, or any other materials or links contained in those linked sites. SmartBrief, Inc. provides these links only as a convenience, and inclusion of a link does not imply endorsement of the linked site by SmartBrief, Inc. or its affiliates.
 
