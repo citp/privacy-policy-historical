@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webroot.com privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229093609id_/http%3A//www.webroot.com/company/privacy.html%3FWRSID%3D8d7753ff71ce5e3e96f7c7ece49443a3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webroot.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617103640id_/http%3A//www.webroot.com/company/privacy.html%3Fid%3DH2-FOOTER-PRIVACY%26WRSID%3D0d8c7e786d9d01b206ed4ede131df052) for the most accurate reproduction.*
 
 # Webroot's Privacy Policy
 
