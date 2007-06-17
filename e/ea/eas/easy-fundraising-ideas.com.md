@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easy-fundraising-ideas.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217151732id_/http%3A//www.easy-fundraising-ideas.com/help-center/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easy-fundraising-ideas.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618005019id_/http%3A//www.easy-fundraising-ideas.com/help-center/security) for the most accurate reproduction.*
 
 # Online Privacy & Security Policy
 
