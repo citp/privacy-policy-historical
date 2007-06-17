@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the foodafactoflife.org.uk privacy policy that was archived on 2006-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061023163424id_/http%3A//foodafactoflife.org.uk/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodafactoflife.org.uk privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617022941id_/http%3A//www.foodafactoflife.org.uk//Privacy.aspx) for the most accurate reproduction.*
 
-# Teacher Area
+# 
 
 The Food - a fact of life website has been developed by the British Nutrition Foundation (BNF). BNF has created this privacy statement to demonstrate our firm commitment to users' privacy.
 
@@ -41,4 +41,4 @@ Hosting UK
 Internet Engineering Limited, Richard House, Winckley Square, Preston, PR1 3HP  
 [www.hostinguk.com](http://www.hostinguk.com/)
 
-[Click here to return to the previous page.](https://web.archive.org/)
+Click here to return to the previous page.
