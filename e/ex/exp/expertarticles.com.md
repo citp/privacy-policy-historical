@@ -1,57 +1,49 @@
-> *The following text is extracted and transformed from the expertarticles.com privacy policy that was archived on 2002-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020409020143id_/http%3A//www.expertarticles.com/legal.asp%3Fpageoption%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expertarticles.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617211623id_/http%3A//www.expertarticles.com%3Fact%3D24) for the most accurate reproduction.*
 
-# ExpertArticles.com
+# ExpertArticles.com | Privacy Policy
 
-ExpertArticles Privacy Policy
+[Home](https://web.archive.org/) / Privacy Policy 
 
-Section 1.0 - Purpose
+* * *
 
-ExpertArticles.com, Inc. has created this privacy statement in order to demonstrate our commitment to privacy. In providing our services, ExpertArticles may need to gather personal information (including various forms of personally identifiable information) about you. The following discloses our information gathering and dissemination practices for the ExpertArticles web site:
+ExpertArticles.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period. 
 
-Section 2.0 - User Registration
+**How we gather information from users**
 
-In order to use most of the services offered by ExpertArticles, you will need to register with our web site. ExpertArticles requires such registration in order to identify our contributors, protect their rights, and to track the proper use, both by our members, and by others, of ExpertArticles content.
+How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, ExpertArticles.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site's features according to your preferences. 
 
-Because ExpertArticles centers around the distribution and use of intellectual property, and because ExpertArticles is committed to the preservation and protection of such property, we take steps to protect our contributors' rights in the work they produce. Almost all of the content available from ExpertArticles is limited to access by registered users. Therefore, ExpertArticles can identify and prevent many unauthorized persons from unlawfully using such material.
+**What we do with the information we collect**
 
-The ExpertArticles registration process may require you to provide the following kinds of information:
+Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone. 
 
-Contact information - including name, address, telephone numbers and email address
+Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually. 
 
-Section 3.0 - Online Article Submission
+We may use Personally Identifiable Information collected on www.ExpertArticles.com to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by www.ExpertArticles.com and other topics we think you might find of interest. 
 
-For your convenience, ExpertArticles provides its web site visitors the ability to submit a articles online. ExpertArticles' Online Article Submission application requires web site users first register for an ExpertArticles account. This registration process requires our web site users to provide various kinds of personal information, including the information described in Section 1.0
+Personally Identifiable Information collected by ExpertArticles.com may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases. 
 
-ExpertArticles will not sell or otherwise provide a visitor's personal contact information to other companies; except prospective employers, or web sites, without the visitor's permission.
+**Affiliated sites, linked sites and advertisements**
 
-Section 4.0 - Hidden Information
+ExpertArticles.com expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a www.ExpertArticles.com page, certain content that is actually created or hosted by a third party. Also, through ExpertArticles.com you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. ExpertArticles.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party. 
 
-Unlike user-entered data (such as form submissions) some types of personally identifiable information transmitted across the Internet are not readily perceptible to web site users. Such information may include your internet protocol address ("IP address"), which identifies your specific computer on the Internet, and personally identifiable information stored in session variables, or "cookies" on your computer’s hard drive. ExpertArticles may use these types of hidden information on its web site.
+While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. ExpertArticles.com does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties. 
 
-Section 4.1 - Session Information & Cookies
+You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of ExpertArticles.com and this policy.
 
-ExpertArticles uses both "cookies" and "session variables" in order to enhance your experience with out web site. In fact, ExpertArticles requires you to use a web browser which supports "cookies", and which has the "cookies" feature enabled.  ExpertArticles will not intentionally use cookies in any manner that would cause harm to your computer equipment, or which would act as an invasion of your privacy.  Cookies and Session variables will ONLY be used to enhance your experience with our web site.
+ **Children**
 
-Section 4.2 - IP Addresses
+ExpertArticles.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe ExpertArticles.com has any information from or about anyone under 13, please contact us at the address listed below. 
 
-ExpertArticles may log the IP addresses of its web site users for statistical ad/or demographic purposes.  ExpertArticles may also log IP addresses for use in policing enforcement of the Terms of Service or other Agreements which govern the use of this  web site.
+**Contacting Us**
 
-ExpertArticles’ Internet Provider, Innerhost.com, may log IP addresses of our users and provide them to ExpertArticles for statistical and analytical purposes.  ExpertArticles cannot offer any guarantee about how Innerhost.com may otherwise use information it gathers about your IP address.   
+We can be reached by emailing us. 
 
-Section 4.3 - Linked Web sites
+**Changes to this Policy**
 
-The ExpertArticles web site may include links to and/or advertisements by other companies or web sites. These other entities may collect personal information, including identification information from you. Please be advised that the information practices of any web sites linked to ExpertArticles are not covered by this privacy statement.
+ExpertArticles.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. 
 
-ExpertArticles does not receive any personal information about visitors to the ExpertArticles web site from any third party, including any information collected by or through links to third party web sites and/or advertisements on the ExpertArticles web site.
+**Governing law**
 
-Section 5 - Opt Out
+This Agreement shall all be governed and construed in accordance with the laws of The United States of America applicable to agreements made and to be performed in The United States of America. You agree that any legal action or proceeding between glocksoft.net and you for any purpose concerning this Agreement or the parties' obligations hereunder shall be brought exclusively in a federal or state court of competent jurisdiction sitting in The United States of America . Any cause of action or claim you may have with respect to the Service must be commenced within one (1) year after the claim or cause of action arises or such claim or cause of action is barred. glocksoft.net's failure to insist upon or enforce strict performance of any provision of this Agreement shall not be construed as a waiver of any provision or right. Neither the course of conduct between the parties nor trade practice shall act to modify any provision of this Agreement. glocksoft.net may assign its rights and duties under this Agreement to any party at any time without notice to you.
 
-ExpertArticles is committed to protecting the personal, private information of persons who use our web site services. Therefore, ExpertArticles provides web site visitors the ability to opt out of using ExpertArticles' services, and/or receiving information from ExpertArticles.
-
-ExpertArticles' web site users may opt out of participating in the online content submission program by not sending content to ExpertArticles through its web site.  ExpertArticles' web site users may opt out of submitting content to ExpertArticles by not otherwise sending content to ExpertArticles (e.g. via e-mail), or not authorizing ExpertArticles' employees or agents to collect content from the user.
-
-Visitors to ExpertArticles' web site may opt out of receiving informational communications about ExpertArticles' services by not submitting a request for information.
-
-Section 6.0 - Contacting the Web Site
-
-If you have any questions about this privacy statement, the practices of ExpertArticles' web site, or your dealings with ExpertArticles' web site, you can contact [Mason Duchatschek](mailto:masonduke@expertarticles.com), or call ExpertArticles at (800) 930-4246.
+Any rights not expressly granted herein are reserved.
