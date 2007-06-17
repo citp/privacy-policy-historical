@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oztion.com.au privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215125107id_/http%3A//www.oztion.com.au/public/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oztion.com.au privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617222757id_/http%3A//www.oztion.com.au/public/privacy.htm) for the most accurate reproduction.*
 
 # OZtion Privacy Policy
 
