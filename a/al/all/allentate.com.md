@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allentate.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216032847id_/http%3A//www.allentate.com/DesktopDefault.aspx%3Fpageid%3D36%26pagealias%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allentate.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617051829id_/http%3A//www.allentate.com/DesktopDefault.aspx%3Fpageid%3D36%26pagealias%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Allen Tate Family of Companies
 
