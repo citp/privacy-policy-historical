@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the red-gate.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205222019id_/http%3A//red-gate.com/about/legal.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the red-gate.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617022611id_/http%3A//www.red-gate.com/about/legal.htm) for the most accurate reproduction.*
 
 # Legal information about Red Gate Software
 
