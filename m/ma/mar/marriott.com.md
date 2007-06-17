@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marriott.com privacy policy that was archived on 2006-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061115201150id_/http%3A//marriott.com/privacy.mi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marriott.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617175927id_/http%3A//marriott.com/privacy.mi) for the most accurate reproduction.*
 
 # View information on the Marriott corporation, including our internet privacy policy
 
@@ -8,9 +8,10 @@ This Web site does not collect personally identifiable information when you brow
 
   * access the Web site from a link in an email that we sent;
   * are a Marriott Rewards member and log-in to your account; or
+  * are a Marriott Rewards member or have created a profile and you either log-in to your account or choose to be remembered via your cookie; or
   * have created a profile and log-in when you access the Web site.
 
-In these cases we will know who you are based on the information you previously supplied to us. When you request a page from our Web site, our servers log the information provided in the HTTP request header including the IP number, the time of the request, the URL of your request and other information that is provided in the HTTP header. We collect the HTTP request header information in order to make our Web site function correctly and provide you the functionality that you see on this Web site. We also use this information to better understand how visitors use our Web site and how we can better tune it, its contents, and functionality to meet your needs.   
+In these cases we will know who you are based on the information you previously supplied to us. When you request a page from our Web site, our servers log the information provided in the HTTP request header including the IP number, the time of the request, the URL of your request and other information that is provided in the HTTP header. We collect the HTTP request header information in order to make our Web site function correctly and provide you the functionality that you see on this Web site. We also use this information to personalize content presented to you, better understand how visitors use our Web site and how we can better tune it, its contents, and functionality to meet your needs.   
 ---  
  Back to top  
 **Information We Collect and How We Use It**
@@ -25,7 +26,7 @@ When we need to collect personally identifiable information from you to provide 
 
 4) send you periodic satisfaction or market research surveys. 
 
-You can opt out of marketing emails at any time. You can also [opt out](https://web.archive.org/profile/email/unsubscribeChallenge.mi) of Marriott research surveys. The same types of information would be requested to complete a gift certificate purchase, register for a Marriott Rewards promotion, enter a sweepstakes or online game, to enroll in the [Marriott Rewards program](https://web.archive.org/web/20061115201150id_/http%3A//marriott.com/privacy.mi?WT_Ref=mi_footer#Question4) or to redeem Marriott Rewards points. On occasion, we use third parties to provide us with additional contact information about you given the information you provided to us directly. For example, if we know your name and postal address, we may use a third party to provide us with your email address. We would then use this information for market analysis and marketing purposes.   
+You can opt out of marketing emails at any time. You can also opt out of Marriott research surveys. The same types of information would be requested to complete a gift certificate purchase, register for a Marriott Rewards promotion, enter a sweepstakes or online game, to enroll in the [Marriott Rewards program](https://web.archive.org/web/20070617175927id_/http%3A//marriott.com/privacy.mi#Question4) or to redeem Marriott Rewards points. On occasion, we use third parties to provide us with additional contact information about you given the information you provided to us directly. For example, if we know your name and postal address, we may use a third party to provide us with your email address. We would then use this information for market analysis and marketing purposes.   
   
  Back to top  
 **Reservations**
@@ -35,7 +36,12 @@ The personally identifiable information you provide to us for making a reservati
  Back to top  
 **Creating a Personal Account**
 
-At your choice, you may create a personal account containing information such as your preferred Marriott hotel brands, frequently visited cities, interests (e.g., golf, tennis), and whether you travel with children or pets.  Creating a personal account makes it more convenient for you to make reservations by eliminating the need to repeatedly enter personal preference information.  It will allow us to inform you about special offers and promotions that may be of interest to you.  In addition, if you choose, you can include your credit card information in your account.  Your credit card information will be used for subsequent reservations to increase reservation speed and eliminate the need for you to repeatedly enter your credit card information.  The security of this information is addressed in security section below.   
+At your choice, you may create a personal account containing information such as your name, address, email address, room type, frequently visited cities and travel activities (e.g., golf, tennis). Creating a personal account makes it more convenient for you to make reservations by eliminating the need to repeatedly enter personal preference information.  It will allow us to inform you about special offers and promotions that may be of interest to you.  In addition, if you choose, you can include your credit card information in your account.  Your credit card information will be used for subsequent reservations to increase reservation speed and eliminate the need for you to repeatedly enter your credit card information.  The security of this information is addressed in security section below.   
+  
+ Back to top  
+**Accessing Marriott.com from a Web-enabled Mobile Device**
+
+You can access Marriott.com from a web-enabled mobile device to find a hotel (including clicking to call the hotel) or view or cancel a reservation.  If you desire to view or cancel a reservation you will be required to enter your personal account user name and password, or Marriott confirmation number and last name.  No other personally identifiable information will be requested.   
   
  Back to top  
 **Updating Your Personal Account Information**
@@ -59,9 +65,28 @@ If you believe "phishers" have gotten access to your personal or financial infor
 [Learn more about fraudulent email or "phish" and how to protect your personal information >>](https://web.archive.org/marriott.mi?page=FraudulentEmails)  
   
  Back to top  
-**Marriott Rewards Communications and Use of Member Information**
+**Marriott Rewards Communications and Use of Member Information**  
 
-Communications of relevant information is important to administering the Marriott Rewards program and providing you the opportunity to maximize the benefits of membership. We will only disclose member information to: the Marriott group of companies, person(s) authorized by you; Marriott franchisees, fulfillment houses, email service providers and mail houses that process mail for such entities; and marketing companies that provide services to the Marriott group of companies and Marriott franchisees; in each case for the following purposes:   1) in order to better service your account and preferences by keeping you informed of your account status and activities through printed or electronic statements;   2) to assess your entitlement to benefits;   3) to collect and process charges incurred by you in Marriott facilities;   4) to offer you additional products and services;   5) send periodic satisfaction or market research surveys;   6) to offer you products or services from select reputable companies with whom Marriott has a strategic relationship because we believe their offerings will be of interest to you; and   7) to promote the co-branded Chase/Marriott Rewards Visa card.   When choosing to become a Marriott Rewards member, you will have consented to receive all of the kinds of information described above. However, you will be given the opportunity to define and modify your mailing preferences.   
+
+Communications of relevant information is important to administering the Marriott Rewards program and providing you the opportunity to maximize the benefits of membership. We will only disclose member information to:
+
+the Marriott group of companies, person(s) authorized by you; Marriott franchisees, fulfillment houses, email service providers and mail houses that process mail for such entities; and marketing companies that provide services to the Marriott group of companies and Marriott franchisees; in each case for the following purposes:
+
+1) in order to better service your account and preferences by keeping you informed of your account status and activities through printed or electronic statements;
+
+2) to assess your entitlement to benefits;
+
+3) to collect and process charges incurred by you in Marriott facilities;
+
+4) to offer you additional products and services;
+
+5) send periodic satisfaction or market research surveys;
+
+6) to offer you products or services from select reputable companies with whom Marriott has a strategic relationship because we believe their offerings will be of interest to you; and
+
+7) to promote the co-branded Chase/Marriott Rewards Visa card.  Based on your choices regarding how you wish to earn points (e.g., participating airlines and other company loyalty programs), we do need to transmit certain transaction information to these companies so that your point and transaction activity is accurately recorded.
+
+When choosing to become a Marriott Rewards member, you will have consented to receive all of the kinds of information described above. However, you will be given the opportunity to define and modify your mailing preferences.   
   
  Back to top  
 **Registering Your Marriott Rewards Account**
@@ -71,7 +96,7 @@ At your choice, you can register your Marriott Rewards account for viewing onlin
  Back to top  
 **Marriott Rewards/Chase Card Services Visa Card**
 
-The Marriott Rewards/Chase Card Services Visa card provides you with a means to earn Marriott Rewards points faster. If you chose to apply for a Marriott Rewards/Chase Card Services Visa card you will link from this Web site to Chase Card Services' (a subsidiary of JP Morgan Chase) Web site and will be required to enter certain personally identifiable information as part of the credit application process. You can refer to Chase Card Services' privacy statement posted on their Web site to understand how the information you supply will be used. Chase Card Services is the issuer of the credit card, and all terms and conditions of being a cardholder are dictated by Chase Card Services   
+The Marriott Rewards/Chase Card Services Visa card provides you with a means to earn Marriott Rewards points faster. If you chose to apply for a Marriott Rewards/Chase Card Services Visa card you will link from this Web site to Chase Card Services' (a subsidiary of JP Morgan Chase) Web site and will be required to enter certain personally identifiable information as part of the credit application process. You can refer to Chase Card Services' privacy statement posted on their Web site to understand how the information you supply will be used. Chase Card Services is the issuer of the credit card, and all terms and conditions of being a cardholder are dictated by Chase Card Services.   
   
  Back to top  
 **Securing the Transmission and Storage of Information**
@@ -88,7 +113,8 @@ To provide you with a single source for purchasing packages that include other t
  Back to top  
 **Disclosure of Information to Third Parties**
 
-In addition to the travel-related services and required information sharing described directly above, Marriott does use the services of third parties, such as fulfillment houses, email service providers and mail houses that process mail for the Marriott group of companies, persons authorized by you, and Marriott franchisees as well as such entities and marketing companies that provide these services for the Marriott group of companies and Marriott franchisees. These parties are contractually prohibited from using personally identifiable information for any purpose other than for the purpose Marriott specifies. We do provide non-personally identifiable information to certain service providers for their use on an aggregated basis for the purpose of performing their contractual obligations to us. Except as described in this paragraph and the sections above titled “Marriott Rewards Communications and Use of Member Information” and “Travel Related Services” we do not permit the sale or transfer of personally identifiable information to entities outside of the Marriott family of companies and hotels and our third party service providers for any non-Marriott use without your approval.   
+In addition to the travel-related services and required information sharing described directly above, Marriott does use the services of third parties, such as market researchers,  
+fulfillment houses, email service providers and mail houses that process mail for the Marriott group of companies, persons authorized by you, and Marriott franchisees as well as such entities and marketing companies that provide these services for the Marriott group of companies and Marriott franchisees. These parties are contractually prohibited from using personally identifiable information for any purpose other than for the purpose Marriott specifies. We do provide non-personally identifiable information to certain service providers for their use on an aggregated basis for the purpose of performing their contractual obligations to us. Except as described in this paragraph and the sections above titled “Marriott Rewards Communications and Use of Member Information” and “Travel Related Services” we do not permit the sale or transfer of personally identifiable information to entities outside of the Marriott family of companies and hotels and our third party service providers for any non-Marriott use without your approval.   
   
  Back to top  
 **Cookies**
@@ -110,7 +136,8 @@ You may set your browser to block Cookies (consult the instructions for your par
 
 Marriott and its third-party service providers use pixel tags (also known as "clear gifs" "beacon gifs" etc.).  Pixel tags are not visible to the user of the Web site and consist of a few lines of computer coding delivered with the Web page.  Pixel tags are not used to collect any personally identifiable information about you apart from what you voluntarily provide us in your dealings with Marriott.  Marriott and our email service provider use pixel tags to: 
 
-  * Track customer response to Marriott advertisements and Web site content;
+  * Track customer response to Marriott advertisements and Web site content;  
+
   * Determine your ability to receive HTML-based email messages.  Our email service provider includes a pixel tag, which they refer to as a "coded sensor" in all of the HTML-based messages sent on our behalf.  The sensor activates when the email message is opened and flags the email address of the user as one that is capable of receiving HTML-based email messages.  This capability helps our service provider to send the email in a format you can read.  The sensor does not collect or use any other information.  If you cannot receive HTML, you will not receive a functioning sensor; 
 
   * Know how many users open an email and allow our service provider to compile aggregated statistics about an email campaign for us; and 
@@ -121,7 +148,10 @@ Marriott and its third-party service providers use pixel tags (also known as "cl
  Back to top  
 **Emails about Special Offers and Promotions and Opt-Out**
 
-It is our intention to only send you email communications that will be useful to you and that you want to receive. When you create a personal account, join Marriott Rewards, make a reservation, or request a copy of your hotel bill via email and provide your email address, we will periodically contact you via email and provide information about special offers and promotions that may be of interest to you. These communications will relate to Marriott offers which may also include the promotions of select, reputable third parties with whom Marriott has a strategic marketing relationship because they offer products or services that we believe would be of interest to you. We typically use third party email service providers to send emails. These service providers are contractually prohibited from using your email address for any purpose other than to send Marriott related email. We provide you the ability to define and modify your mailing preferences online at anytime including [unsubscribing](https://web.archive.org/profile/email/unsubscribeChallenge.mi) from all marketing communications.  In addition, every time you receive an email, you will be provided the choice to opt-out of future emails by following the instructions provided in the email.  You may also opt-out online by updating your personal account, or sending a letter to Internet Customer Care - Unsubscribe, 1818 North 90 Street, Omaha, Nebraska 68114-1315 USA. Please allow 10 business days for us to process your opt-out.   
+It is our intention to only send you email communications that will be useful to you and that you want to receive. When you create a personal account, join Marriott Rewards, make a reservation, or request a copy of your hotel bill via email and provide your email address, we will periodically contact you via email and provide information about special offers and promotions that may be of interest to you. These communications will relate to Marriott offers which may also include the promotions of select, reputable third parties with whom Marriott has a strategic marketing relationship because they offer products or services that we believe would be of interest to you. We typically use third party email service providers to send emails. These service providers are contractually prohibited from using your email address for any purpose other than to send Marriott related email.   
+
+
+We provide you the ability to define and modify your mailing preferences online at anytime including [unsubscribing](https://web.archive.org/profile/email/unsubscribeChallenge.mi) from all marketing communications.  In addition, every time you receive an email, you will be provided the choice to opt-out of future emails by following the instructions provided in the email.  You may also opt-out online by updating your personal account, or sending a letter to Internet Customer Care - Unsubscribe, 1818 North 90 Street, Omaha, Nebraska 68114-1315 USA. Please allow 10 business days for us to process your opt-out.   
   
  Back to top  
 **eFolio**
@@ -148,7 +178,9 @@ On occasion, we conduct sweepstakes and online games that entitle the winners to
  Back to top  
 **Careers at Marriott**
 
-Marriott uses select private label databases and tools hosted by third parties on their Web sites to collect information from individuals that wish to be considered for potential employment.  Information you provide to us via these private label services is accessible and confidential to Marriott. Marriott will not use the information you provide for any purpose other than to allow you to conduct automated job searches or determine your qualifications for potential employment with Marriott. The third-party service providers are prohibited from using the information you provide for any purpose other than collecting it on our behalf.   
+Marriott uses select private label databases and tools hosted by third parties on their Web sites to collect information from individuals that wish to be considered for potential employment.  Information you provide to us via these private label services is accessible and confidential to Marriott. 
+
+  Marriott will not use the information you provide for any purpose other than to allow you to conduct automated job searches or determine your qualifications for potential employment with Marriott. The third-party service providers are prohibited from using the information you provide for any purpose other than collecting it on our behalf.   
   
  Back to top  
 **Investor Relations Communications**
@@ -165,16 +197,19 @@ Marriott is only responsible for the privacy statement and content of this Web s
 
 This is a United States Web site and is subject to laws of the United States and the State of Maryland. Marriott will disclose personally identifiable information without your permission when required by law, or in good faith belief that such action is necessary to investigate or protect against harmful activities to Marriott guests, visitors, associates, or property (including this site), or to others. As mentioned previously, laws related to personally identifiable information vary by country. 
 
-If you are a customer who resides in the State of California, you have the right to request from Marriott a list of third parties with whom we shared personally identifiable information about you for their own direct marketing purposes during the previous calendar year. Although Marriott does not share personally identifiable information with unrelated third parties for their own direct marketing purposes, many of our hotels, which are separately owned and operated by franchisees of Marriott, are permitted to use the personally identifiable information they receive from Marriott to market the Marriott hotels that they franchise. If you would like to request information about the franchisees that may have obtained personally identifiable information about you during the immediately preceding calendar year, please send an email to [privacy@marriott.com](mailto:privacy@marriott.com) or letter to Marriott International, Inc., 10400 Fernwood Road, Dept. 52.923.26, Bethesda, MD 20817. By using this Web site, you agree that any and all disputes that were not resolved to your satisfaction directly by us shall be governed by the BBB _Online_ 's dispute resolution process.   
+If you are a customer who resides in the State of California, you have the right to request from Marriott a list of third parties with whom we shared personally identifiable information about you for their own direct marketing purposes during the previous calendar year. Although Marriott does not share personally identifiable information with unrelated third parties for their own direct marketing purposes, many of our hotels, which are separately owned and operated by franchisees of Marriott, are permitted to use the personally identifiable information they receive from Marriott to market the Marriott hotels that they franchise. If you would like to request information about the franchisees that may have obtained personally identifiable information about you during the immediately preceding calendar year, please send an email to [privacy@marriott.com](mailto:privacy@marriott.com) or letter to Marriott International, Inc., 10400 Fernwood Road, Dept. 52.923.26, Bethesda, MD 20817. 
+
+  By using this Web site, you agree that any and all disputes that were not resolved to your satisfaction directly by us shall be governed by the BBB _Online_ 's dispute resolution process.   
   
  Back to top  
 **Other Marriott Sites Within Marriott.com**
 
-Within Marriott.com are numerous other Marriott Web sites that are accessible from links within Marriott.com or via separate URLs.  Namely, these Web sites are: marriottrewards.com, jwmarriotthotels.com, fairfieldinn.com, marriotthotels.com, newworldhotels.com, renaissancehotels.com, residenceinn.com, springhillsuites.com, towneplace.com, towneplacesuites.com, conferencecenters.com, courtyard.com, execustay.com, marriottfoundation.org, careers.marriott.com, marriottnewsroom.com, marriott.com/investor and executiveresidences.com.   
+Within Marriott.com are numerous other Marriott Web sites that are accessible from links within Marriott.com or via separate URLs.  Namely, these Web sites are: marriottrewards.com, jwmarriotthotels.com, fairfieldinn.com, marriotthotels.com, renaissancehotels.com, residenceinn.com, springhillsuites.com, towneplace.com, towneplacesuites.com, conferencecenters.com, courtyard.com, marriottfoundation.org, careers.marriott.com, marriottnewsroom.com, marriott.com/investor and executiveresidences.com.   
   
  Back to top  
 **Marriott.com Changes to Your Privacy Rights**
 
-In the future, we may need to change this privacy statement.  All changes will be made here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone.  This statement was last updated on April 4, 2006 to describe the eFolio program and provide a phishing alert.   
+In the future, we may need to change this privacy statement.  All changes will be made here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone.  This statement was last updated on May 25, 2007 to describe personalization of content served when accessing this Web site, an additional disclosure  
+about your choices on earning Marriott Rewards points, disclosure of the use of market researchers, updating of the list other sites covered by this privacy statement and a description of accessing Marriott.com via a web-enabled mobile wireless device.   
   
  Back to top
