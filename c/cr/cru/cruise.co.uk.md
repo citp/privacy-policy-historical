@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cruise.co.uk privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210053123id_/http%3A//cruise.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruise.co.uk privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617203203id_/http%3A//cruise.co.uk/privacy.php) for the most accurate reproduction.*
 
-# Terms & Conditions
+# Privacy Policy | Cruise.co.uk
 
 The following information explains our policy regarding any personal information you may supply to us when visiting cruise.co.uk You can generally visit our web site without telling us who you are or revealing any personal information, including your e-mail address. cruise.co.uk does not collect personally identifiable information about individuals except when such individuals specifically provide such information on a voluntary basis, such as when requesting a brochure or accessing our cruise booking applications. cruise.co.uk will not share e-mail addresses nor any information submitted by a user when accessing our web site with anyone outside cruise.co.uk nor will cruise.co.uk disclose user information to any third party.
 
