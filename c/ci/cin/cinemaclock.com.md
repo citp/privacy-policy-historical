@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cinemaclock.com privacy policy that was archived on 2006-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060826225206id_/http%3A//www.cinemaclock.com/aw/clga.aw/j.e/f.privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinemaclock.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617105134id_/http%3A//www.cinemaclock.com/aw/clga.aw/j.e/f.privacy.html) for the most accurate reproduction.*
 
 # CinemaClock.com - Canada Movie Guide
 
@@ -8,4 +8,4 @@ We collect the name, e-mail, age, sex, telephone number of visitors to our Web s
 
 By using our Web site, you are giving us your consent to our use of the information you provide to us as laid out in this privacy protection policy. 
 
-If you no longer want to receive e-mail messages from us, please let us know by sending an e-mail to: info@cinemaclock.com and simply type the word "Unsubscribe" as the subject of your message. By providing your personal information for the purposes specified above, you are giving us your permission for using this information accordingly. 
+If you no longer want to receive e-mail messages from us, please [click here to contact us](https://web.archive.org/aw/cfba.aw/ContactUs.html). By providing your personal information for the purposes specified above, you are giving us your permission for using this information accordingly. 
