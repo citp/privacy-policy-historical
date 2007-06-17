@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the latinopeoplemeet.com privacy policy that was archived on 2006-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061101095609id_/http%3A//www.latinopeoplemeet.com/privacy/%3Fa%3Durl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latinopeoplemeet.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617045430id_/http%3A//www.latinopeoplemeet.com/privacy/%3Fa%3D) for the most accurate reproduction.*
 
-# LatinoPeopleMeet.com - The Latino People Network - 11/01/2006
+# LatinoPeopleMeet.com - The Latino People Network - 06/16/2007
 
 |  |  |   
 ---  
 The Latino People Network  
-[](https://web.archive.org/sign_up/?a=url)  
+[](https://web.archive.org/sign_up/?a=)  
   
 |   
 ---  
