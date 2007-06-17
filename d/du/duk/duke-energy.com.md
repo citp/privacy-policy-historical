@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the duke-energy.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205232610id_/http%3A//www.duke-energy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duke-energy.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617055441id_/http%3A//www.duke-energy.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy - Duke Energy
 
 ## Privacy Our Privacy Policy
 
-Privacy has always been an important part of how we do business. We would like to make our policy concerning information collection and use absolutely clear. This notice explains our online information practices and the choices you can make about the way information is collected and used.
+Privacy has always been an important part of how we do business. We would like to make our policy concerning information collection and use absolutely clear. This notice explains our online information practices and the choices you can make about the way information is collected and used. 
 
 **The Information We Collect**
 
@@ -19,7 +19,7 @@ Examples of personally identifiable information which you may provide to us whil
   * Account number (if you are a current customer) 
   * Social Security number 
   * Information about your computer and browser 
-  * Gender and ethnicity (if you inquire about programs applicable to minorities)
+  * Gender and ethnicity (if you inquire about programs applicable to minorities) 
 
 
 
@@ -53,11 +53,13 @@ Duke Energy does not sell the personally identifiable information you provide fo
   3. Making such information available to third parties who are providing the product, service or information that you have requested (but never your password); 
   4. Making such information available to third parties who are providing services to Duke Energy or its subsidiaries or affiliates (e.g., providing such information to third parties performing computer-related services for Duke Energy or its affiliates (but never your password)); 
   5. We form a good-faith belief that disclosure of such information is necessary to investigate, prevent, or take action regarding any illegal activities or regarding interference with the operation of our site or violation of its terms of use; or 
-  6. Disclosing such information is allowed by law or our legal counsel forms a good-faith belief that such disclosure is required by federal or state law, subpoena or court order.
+  6. Disclosing such information is allowed by law or our legal counsel forms a good-faith belief that such disclosure is required by federal or state law, subpoena or court order. 
 
 
 
 By providing personally identifiable information, you expressly consent to these privacy practices.
+
+The North Carolina Utilities Commission requires certain protections of Duke Energy Carolinas' confidential customer information that are described in this [Code of Conduct](https://web.archive.org/pdfs/NC_Code_Conduct_10-30-06.pdf) document.
 
 Also, Duke Energy reserves the right to share any aggregated information (i.e., non-personally identifiable information) with any third parties for any reason, unless prohibited by law.
 
@@ -79,10 +81,10 @@ Duke Energy
 Charlotte, NC 28202-1803
 
 **Email**  
-[Contact Us](https://web.archive.org/redirect.asp?url=https://mdenote1.duke-energy.com/custweb/email.nsf/Contact?OpenForm&RBU=D "This link goes to an external Web site and opens in a new window.")
+[Contact Us](https://mdenote1.duke-energy.com/custweb/email.nsf/Contact?OpenForm&RBU=D "This link goes to an external Web site and opens in a new window.")
 
 **Telephone**  
-1.800.USE.DUKE (1.800.873.3853) or 704-382-0418
+1-800-USE-DUKE (1-800-873-3853) or 704-594-6200
 
 If you believe we have not followed this privacy policy in some instance, please contact our business ethics officer by email at [ethicsofficer@duke-energy.com](mailto:ethicsofficer@duke-energy.com).
 
