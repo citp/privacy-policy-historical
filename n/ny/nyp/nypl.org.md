@@ -1,45 +1,44 @@
-> *The following text is extracted and transformed from the nypl.org privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619235328id_/http%3A//www.nypl.org/legal/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nypl.org privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617041436id_/http%3A//www.nypl.org/legal/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
 | 
 
-The Library is strongly committed to protecting the privacy of its online users, customers, members, donors, and friends. We believe that maintaining privacy on the Web is very important, and that informing our visitors about the types of information we collect and how we use it is crucial. 
+  
+
+
+The Library is committed to protecting the privacy of our users, customers, members, donors, and friends. We believe that maintaining our patrons' privacy is important, and we have created this Privacy Policy so that our patrons can learn what the Library does with information it may obtain about its patrons. By using the Library's services, including its website, and by communicating with the Library, you agree to be bound by the terms of this Privacy Policy. 
 
 **Type of Information Collected**  
-The Library does not collect any "personally identifiable information" about individuals-such as names and postal or e-mail addresses-except when such information is voluntarily submitted by the user. Personally identifiable information might be obtained from online transactions such as purchases, registrations, or membership pledges. Additionally, personally identifiable information may be transmitted in connection with other activities, services, or resources made available on our site. 
+In general, the Library does not collect personally identifiable information about individuals—such as names and postal or e-mail addresses—except when such information is voluntarily provided by the patron. Personally identifiable information is obtained from online transactions such as purchases, registrations, or contributions. Additionally, personally identifiable information may be obtained in connection with other activities, services, or resources made available on our website, in person at one of our facilities, or (as set forth in the following sentence) through e-mails sent by us to our patrons. In order to help us to better tailor our services and offerings, the Library collects limited information about patron click-throughs, solely in connection with _The New York Public Library News_ e-newsletter and the Membership Department's e-mail communications.
 
-In common with many Websites, the Library's Website automatically logs certain "non-personally identifiable" information about visits to our Website. This information is used for system administration and for producing usage statistics.
+Like many websites, the Library's website also automatically logs certain aggregate information about visits to our website. This information is used for system administration and for producing usage statistics.
 
-**How the Information Is Used**
+**Use of Your Information**  
+Unless the Library explicitly states otherwise and except as set forth in this Privacy Policy, any personally identifiable information provided to the Library is maintained by and accessible only to the Library. Except as set forth herein (or as required by law or as necessary for the proper operation of the Library), we will not release personally identifiable information about our patrons, including their use of Library materials and resources (whether electronic or in print, including, but not limited to, circulation records and specific internet or website resources).
 
-Any personally identifiable information provided to the Library is maintained by and accessible only to the Library unless the Library explicitly states otherwise. The Library will not release information on the use of specific Internet or Website resources by members of the public except as required by law or necessary for the proper operation of the Library.
+The Library compiles aggregate demographic data related to our patrons to better manage our services and to provide aggregate information to potential funders of the Library's programs. The Library may also use personally identifiable information you submit to inform you of Library programs, services, and activities, including exhibitions, events, programs, and membership opportunities. The Library does not share or exchange email addresses with other organizations. The Library does not rent or sell its donor mailing list but may sometimes exchange names and addresses with other organizations. You may indicate to the Library at any time whether or not you wish to have the Library share your name with other organizations. When [making online donations](https://www2.nypl.org/support/secure/), donors may indicate preferences for information sharing. Donors may also contact the [Development Office](http://www.nypl.org/pr/contacts.cfm#friends).
+
+**Updating Your Information**   
+Patrons who would like to update information and preferences in connection with Library newsletters, mailing lists, and databases should refer to this list for [contact information](https://web.archive.org/web/20070617041436id_/http%3A//www.nypl.org/legal/contact.cfm). In all instances, patrons can stop receiving e-newsletters sent by the Library by clicking on the “Unsubscribe” link at the bottom of each such e-newsletter.
 
 **Third-Party Partners**  
-The Library has teamed up with reputable third-party vendors in order to provide certain services to its online users. In cases when users leave the Library's site to visit one of its partners' sites, users are encouraged to become familiar with the privacy statements of each site they visit.
+The Library has teamed up with reputable third-party partners in order to provide certain services to its patrons. The information you submit to the Library may be provided to those third parties on a confidential basis so that they can assist us in providing certain services, including English Classes for Speakers of Other Languages and activities that require us to maintain databases and/or process credit card transactions and donations. In cases where patrons leave the Library's website to visit one of its partners' websites, patrons are encouraged to become familiar with the privacy policies of the websites they visit.
 
 **Security**  
-The Library has all reasonable physical, electronic, and managerial measures in place to prevent unauthorized access to the information we collect online. We do not, however, claim any responsibility for information collected by or from Websites linking to or from the Library's Website.
+The Library has reasonable physical, electronic, and managerial measures in place to prevent unauthorized access to the information we collect. We do not, however, claim any responsibility for information collected by or from websites linking to or from the Library's website.
 
 **Cookies**  
-A cookie is a small text file that is sent to your browser from a Website and stored on your computer's hard drive. Cookies cannot read data from your hard disk or read cookie files that were created by other sites-the Website that creates a cookie is the only one that a browser will permit to access it.
+A cookie is a small text file that is sent to your browser from a website and stored on your computer's hard drive. Cookies cannot read data from your hard disk or read cookie files that were created by other websites—the website that creates a cookie is the only one that a browser will permit to access it. Examples of ways in which the Library might use cookies would be to customize content areas or to analyze site activity.
 
-Examples of ways in which the Library might use cookies would be to customize content areas or to analyze site activity and user behavior.
-
-If you are concerned about the use of cookies, the Library suggests that you explore your browser's options to notify you whenever a cookie is set, or to disallow cookies altogether. Users should be aware, however, that prohibiting the use of cookies may restrict the user's access to certain types of content or features.
+If you are concerned about the use of cookies, the Library suggests that you explore your browser's options to notify you whenever a cookie is set, or to disallow cookies altogether. Patrons should be aware, however, that prohibiting the use of cookies may restrict the patron's access to certain types of content or features. 
 
 **Children**  
-Parents should remind their children to ask their permission before providing personal information to any Website or purchasing any products or services online. The Library urges all parents to participate in their children's exploration of the Internet and to teach them about protecting their personal information while online. For further information, see [A Safety Net for the Internet: A Parent's Guide](https://web.archive.org/web/20060619235328id_/http%3A//www.nypl.org/legal/safety.cfm).
-
-**Promotional E-mail, Newsletter, and List-Serve Policy and "Opt-In/Opt-Out" Elections**  
-If you give permission, the Library may use personally identifiable information you submit for promotional purposes. For example, on occasion the Library may wish to send e-mails to inform users of new exhibitions or other events we think might be of interest to them. You will not receive such communications unless you have willingly provided the personal information required. In some cases, you will be required to "opt-in" by joining a newsgroup or mailing list. If you do "opt-in," you will always have the option to "opt-out" at any time by "unsubscribing" to that particular list.
+Parents should remind their children to ask their permission before providing personal information to any website or purchasing any products or services online. The Library urges all parents to participate in their children's exploration of the internet and to teach them about protecting their personal information while online. For further information, see [A Safety Net for the Internet: A Parent's Guide](http://www.nypl.org/legal/safety.cfm). 
 
 **Policy Changes**  
-Changes may occasionally be made to this Website Privacy Policy as new services and content are added to the site or to reflect changes in the Library's policies. Visitors to the Library's Website are encouraged to check this document periodically to stay informed of current Library privacy guidelines.
+This Privacy Policy may be revised to reflect changes in the Library's policies and practices or to reflect new services and content provided by the Library. Patrons are encouraged to check this document periodically to stay informed of the Library's current privacy guidelines. 
 
-**Acceptance of Terms**  
-By using the Library's Website, you signify your acceptance of this Website Privacy Policy. If you do not agree to this Policy, please do not use our sites. Your continued use of any Library site following the posting of changes to these terms will indicate your acceptance of those changes.
+Revised 4/18/07
 
-[**Contact Information**](https://web.archive.org/pr/contacts.cfm)
-
-Rev. 4/2004 
+[**Contact Information**](https://web.archive.org/web/20070617041436id_/http%3A//www.nypl.org/legal/contact.cfm)
