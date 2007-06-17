@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the theglobeandmail.com privacy policy that was archived on 2006-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061220234114id_/http%3A//www.theglobeandmail.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theglobeandmail.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617110812id_/http%3A//www.theglobeandmail.com/help/privacy) for the most accurate reproduction.*
 
 # globeandmail.com - Privacy Policy
 
 [](http://www.globeandmail.com/)
 
 ### The Globe and Mail/  
-Bell Globemedia Publishing Inc. ("Globe")
+CTVglobemedia Publishing Inc. ("Globe")
 
 ## Globe Privacy Code
 
@@ -101,7 +101,7 @@ Certain Globe Companies Services may be co-branded and offered in conjunction wi
 
 ### _Definitions_
 
-**Globe Companies** \- all companies providing communications services under The Globe and Mail and Bell Globemedia brands, including Bell Globemedia Publishing Inc., Bell Globemedia Inc., and their subsidiaries, and any successor company or companies thereof, as a result of corporate reorganization or restructuring.
+**Globe Companies** \- all companies providing communications services under The Globe and Mail and Bell Globemedia brands, including CTVglobemedia Publishing Inc., Bell Globemedia Inc., and their subsidiaries, and any successor company or companies thereof, as a result of corporate reorganization or restructuring.
 
 **Collection** \- the act of gathering, acquiring, recording or obtaining Personal Information from any source, including third parties, by any means.
 
@@ -271,4 +271,4 @@ _A Person shall be able to address a challenge concerning compliance with the ab
 
 Please send us your privacy inquiry using the form below.   
 **All fields are mandatory.**   
-© 2006 Bell Globemedia Publishing Inc. All Rights Reserved. 
+© 2007 CTVglobemedia Publishing Inc. All Rights Reserved. 
