@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexoverdose.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205210743id_/http%3A//www.emitentertainment.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexoverdose.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617052744id_/http%3A//www.emitentertainment.com/privacy.php) for the most accurate reproduction.*
 
 # Emit Entertainment, Inc.
 
