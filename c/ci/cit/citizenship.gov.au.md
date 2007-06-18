@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizenship.gov.au privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229224601id_/http%3A//www.immi.gov.au/functional/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizenship.gov.au privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618074608id_/http%3A//www.immi.gov.au/functional/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -9,7 +9,7 @@
 
 The _Privacy Act 1988_ defines personal information as 'information or an opinion (including information or an opinion forming part of a database), whether true or not, and whether recorded in a material form or not, about an individual whose identity is apparent, or can reasonably be ascertained, from the information or opinion'.
 
-The Department of Immigration and Multicultural Affairs (DIMA) manages this website and treats personal information as confidential.
+The Department of Immigration and Citizenship (DIAC) manages this website and treats personal information as confidential.
 
 The _Privacy Act 1988_ is the key law designed to protect your rights and prevent misuse of personal information collected by government agencies such as this department. 
 
@@ -69,7 +69,7 @@ You can find more information from the [Privacy Commissioner's website](http://w
 
 If at any time you believe we have not adhered to the principles referred to in this privacy statement or have any other comments on these principles, please contact:
 
-DIMA Privacy Officer  
+DIAC Privacy Officer  
 **Email:** [privacy@immi.gov.au](mailto:privacy@immi.gov.au)
 
 Please note the Privacy Officer will only respond to queries on privacy matters. Inquiries about other matters will not be answered.
