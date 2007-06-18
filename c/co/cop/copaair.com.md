@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the copaair.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117123431id_/http%3A//www.copaair.com/html/User/default.aspx%3FPageId%3D147) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copaair.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618153904id_/http%3A//www.copaair.com/html/User/default.aspx%3FPageId%3D147) for the most accurate reproduction.*
 
 # Copa Air ::: :::
 
