@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fun-with-pictures.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212141155id_/http%3A//fun-with-pictures.com/privacy-policy-fwp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fun-with-pictures.com privacy policy that was archived on 2007-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070619015913id_/http%3A//www.fun-with-pictures.com/privacy-policy-fwp.html) for the most accurate reproduction.*
 
 # Privacy Policy of Fun with Pictures
 
@@ -64,4 +64,4 @@ This web site contains links to other web sites. Please note that when you click
 
 © 2004 **Fun-with-Pictures.com** , All rights reserved.  
 Unauthorized duplication or publication of any materials from this Site is expressly prohibited.   
-Get your own Privacy Policy [here](http://www.prioritydigital.com/)!  | 
+Get your own Privacy Policy [here](http://www.prioritydigital.com/)! 
