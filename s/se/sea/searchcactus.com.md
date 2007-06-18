@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchcactus.com privacy policy that was archived on 2006-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061107040151id_/http%3A//www.searchcactus.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchcactus.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618053233id_/http%3A//searchcactus.com/privacy.asp) for the most accurate reproduction.*
 
 # SearchCactus.com - Privacy policy
 
@@ -25,7 +25,7 @@ This policy describes the information collection, use, and dissemination practic
 
 
 
-If you have questions or concerns regarding this statement, you should first contact Search Cactus's Privacy Practices Department by email at [privacy@searchcactus.com](mailto:privacy@searchcactus.com) or at 3250 W. Big Beaver Road Suite 144, Troy, MI 48084. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://truste.org/consumers/watchdog_complaint.php) . TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact Search Cactus's Privacy Practices Department by email at [privacy@searchcactus.com](mailto:privacy@searchcactus.com) or at 3250 W. Big Beaver Road Suite 144, Troy, MI 48084. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php) . TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
 * * *
 
