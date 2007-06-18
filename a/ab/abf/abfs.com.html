@@ -1,12 +1,11 @@
-<!--The following is the downloaded HTML source of the abfs.com privacy policy that was archived on 2006-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061206104341id_/http%3A//www.abfs.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the abfs.com privacy policy that was archived on 2007-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070618232517id_/http%3A//www.abfs.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
-<meta name="description" content="privacy policy, transportation privacy, shipment information privacy, security, cookies">
-<meta name="keywords" content="ABF is committed to protecting your privacy. We use the information we collect to provide you the most robust Internet applications in the transportation industry.">
 <title>ABF Freight System, Inc. - Privacy Policy</title>
-
-<script language="Javascript" src="/Include/AllInclude-STC.js?V=2.6"></script>
+<meta name="description" content="ABF is committed to protecting your privacy. We use the information we collect to provide you the most robust Internet applications in the transportation industry.">
+<meta name="keywords" content="privacy policy, transportation privacy, shipment information privacy, security, cookies">
+<script language="Javascript" src="/Include/AllInclude-STC.js?V=2.7"></script>
 <script language="JavaScript">
 <!--
  var jsBlnAutoFillOn         = false;
@@ -29,7 +28,7 @@
 
 // -->
 </script>
-<script language="JavaScript" src="/Include/customer_info-STC.js?V=1.2"></script><script language="javascript">
+<script language="JavaScript" src="/Include/customer_info-STC.js?V=1.3"></script><script language="javascript">
 <!--
 var strToolCode = '';
 // -->
@@ -40,7 +39,7 @@ var blnUserActionTracked = false ; //used so multiple actions are not tracked fo
 function TrackUserAction(mOption)
 {  var strPage     = '/ABFGlobal/RemoteUsageTracking.asp' ;
    var strQString  = '?Option='+ mOption
-       strQString += '&Parm=   PWZCRYM3T64.208.172.178                                                               '
+       strQString += '&Parm=   PFX@SDR7P64.208.172.178                                                               '
        strQString += '&VERSION=' + Math.random();
 
    if (!blnUserActionTracked)
@@ -52,8 +51,8 @@ function TrackUserAction(mOption)
 // -->
 </script><script language="Javascript" src="/ABFGlobal/Include/ajax-STC.js?V=1.3"></script>
 
-<script language="Javascript" src="/Include/PrintEmail-STC.js?V=1.14"></script>
-<script language="Javascript" src="/Include/Menu-STC.js?V=1.21"></script><script language="JavaScript">
+<script language="Javascript" src="/Include/PrintEmail-STC.js?V=1.16"></script>
+<script language="Javascript" src="/Include/Menu-STC.js?V=1.22"></script><script language="JavaScript">
 <!--
 //Note: Any changes to the functions in this script block must also be made in the
 //      JScriptSource.asp page.  
@@ -178,27 +177,26 @@ function objHotKey(key, loc) {
 }
 var hotkeys = new Array()
 
+var strQS = '?NCHK=HKEY&WT.svl=HKY' ;
+
 if (ie4)
-{
-   hotkeys[0] = new objHotKey('B', '/tools/bolfmt/?NCHK=HKEY')
-   hotkeys[1] = new objHotKey('D', '/tools/docret/?NCHK=HKEY')
-   hotkeys[2] = new objHotKey('H', '/tools/reports/history/?NCHK=HKEY')
-   hotkeys[3] = new objHotKey('F', '/tools/billreview/?NCHK=HKEY')
-   hotkeys[4] = new objHotKey('P', '/tools/planner/?NCHK=HKEY')
-   hotkeys[5] = new objHotKey('Q', '/tools/ltlquotes/?NCHK=HKEY')
-   hotkeys[6] = new objHotKey('S', '/tools/reports/?NCHK=HKEY')
-   hotkeys[7] = new objHotKey('T', '/tools/trace/?NCHK=HKEY')
-   hotkeys[8] = new objHotKey('U', '/tools/pickup/?NCHK=HKEY')
-   hotkeys[9] = new objHotKey('R', '/tools/rsearch/?NCHK=HKEY')
-   hotkeys[10] = new objHotKey('I', '/tools/transit/?NCHK=HKEY')
-   hotkeys[11] = new objHotKey('X', '/tools/reports/inbox/?NCHK=HKEY')
-   hotkeys[12] = new objHotKey('C', '/tools/director/?NCHK=HKEY')
-   hotkeys[13] = new objHotKey('J', 'javascript:showJScriptDiv()')
+{  hotkeys[0] = new objHotKey('B', '/tools/bolfmt/' + strQS);
+   hotkeys[1] = new objHotKey('D', '/tools/docret/' + strQS);
+   hotkeys[2] = new objHotKey('H', '/tools/reports/history/' + strQS);
+   hotkeys[3] = new objHotKey('F', '/tools/billreview/' + strQS);
+   hotkeys[4] = new objHotKey('P', '/tools/planner/' + strQS);
+   hotkeys[5] = new objHotKey('Q', '/tools/ltlquotes/' + strQS);
+   hotkeys[6] = new objHotKey('S', '/tools/reports/' + strQS);
+   hotkeys[7] = new objHotKey('T', '/tools/trace/' + strQS);
+   hotkeys[8] = new objHotKey('U', '/tools/pickup/' + strQS);
+   hotkeys[9] = new objHotKey('R', '/tools/rsearch/' + strQS);
+   hotkeys[10] = new objHotKey('I', '/tools/transit/' + strQS);
+   hotkeys[11] = new objHotKey('X', '/tools/reports/inbox/' + strQS);
+   hotkeys[12] = new objHotKey('C', '/tools/director/' + strQS);
+   hotkeys[13] = new objHotKey('J', 'javascript:showJScriptDiv()');
 }
 else
-{
-   hotkeys[0] = new objHotKey('J', 'javascript:showJScriptDiv()')
-}
+{  hotkeys[0] = new objHotKey('J', 'javascript:showJScriptDiv()'); }
 
 function DisplayWait(strMessage)
 {
@@ -416,8 +414,9 @@ var WT=new Object();
 var DCSext=new Object();
 var gQP=new Array();
 
+var gDomain="sdc.data-tronics.com";
 
-   var gDomain="sdc.data-tronics.com";
+
    var gDcsId="dcs349it54uls0jmt27ytjmi4_1x8r";
 
 
@@ -613,8 +612,8 @@ dcsTag();
 </script>
 
 <script type="text/javascript" src="/include/overlib_new/overlib_cssstyle.js?V=1.1"><!-- overLIB (c) Erik Bosrup --></script>
-<script type="text/javascript" src="/include/overlib_new/overlib_hideform.js?V=1.1"><!-- overLIB (c) Erik Bosrup --></script>
-<script type="text/javascript" src="/include/overlib_new/overlib_shadow.js?V=1.1"><!-- overLIB (c) Erik Bosrup --></script>
+<script type="text/javascript" src="/include/overlib_new/overlib_hideform.js?V=1.2"><!-- overLIB (c) Erik Bosrup --></script>
+<script type="text/javascript" src="/include/overlib_new/overlib_shadow.js?V=1.2"><!-- overLIB (c) Erik Bosrup --></script>
 <script type="text/javascript" src="/include/overlib_new/overlib_overtwo.js?V=1.1"><!-- overLIB (c) Erik Bosrup --></script>
 <script type="text/javascript" src="/tools/accountinfo/login-STC.js?V=1.2"></script>
 <link rel="stylesheet" href="/style/ajax.css" type="text/css">
@@ -625,10 +624,10 @@ function showElementsIE() {}
 </head>
 
 <body topmargin="3" leftmargin="3" bgcolor="#FFFFFF" text="#000000">
-<div id="JScriptSource" class="hidden"><form name="frmScriptSrc" method="POST" action="/help/JScriptSource.asp"><input type="hidden" name="hidAction"><input type="hidden" name="hidScriptBlockCount"><table height="100" bgcolor="#F3F3F3" style="border-color:black" width="100%" border="2" cellpadding="0" cellspacing="0">   <tbody><tr>      <td valign="Top">         <table border="0" width="100%" cellpadding="0" cellspacing="0">            <tbody><tr class="sectionHeader">               <td colspan="2">                  ABF JavaScript Diagnostics               </td>               <td align="RIGHT">                  [<a class="sectionHeader" href="javascript:void(null)" onclick="showJScriptDiv();">Close</a>]               </td>            </tr>            <tr height="50">               <td width="10">                  &nbsp;               </td>               <td valign="TOP">                  <font class="formTxt">This section of abf.com is provided solely for the purpose of diagnosing and resolving JavaScript problems that customers may be experiencing with the ABF website. If you have reached this area inadvertantly, please use the 'Close' link in the upper-right-hand corner to continue using abf.com.</font>               </td>            </tr>            <tr>               <td width="10">                  &nbsp;               </td>               <td colspan="2">                  <select class="frm" name="cboAnalyst">                     <option value="">DTC Personnel</option>                     <option value="Alexander K">Alexander K</option>                     <option value="Angela D">Angela D</option>                     <option value="Brian N">Brian N</option>                     <option value="Corey G">Corey G</option>                     <option value="Doug H">Doug H</option>                     <option value="Kaelin S">Kaelin S</option>                     <option value="Krista D">Krista D</option>                     <option value="Larry W">Larry W</option>                     <option value="Nathan C">Nathan C</option>                     <option value="Noble S">Noble S</option>                     <option value="Sherry D">Sherry D</option>                     <option value="Stephen D">Stephen D</option>                  </select>                  <input type="BUTTON" name="cmdSend" value="Send Diagnostics" onclick="getScriptSource()">               </td>            </tr>         </tbody></table>      </td>   </tr></tbody></table></form></div>
-   <iframe id="overIFrame" style="display:none; position:absolute; z-index:6;"></iframe>
-   <iframe height="0" width="0" id="saveIFrame" style="display:inline; position:absolute; z-index:6;"></iframe>
-   <iframe height="0" width="0" name="saveIFrame2" style="display:inline; position:absolute; z-index:6;"></iframe>
+<div id="JScriptSource" class="hidden"><form name="frmScriptSrc" method="POST" action="/help/JScriptSource.asp"><input type="hidden" name="hidAction"><input type="hidden" name="hidScriptBlockCount"><table height="100" bgcolor="#F3F3F3" style="border-color:black" width="100%" border="2" cellpadding="0" cellspacing="0">   <tbody><tr>      <td valign="Top">         <table border="0" width="100%" cellpadding="0" cellspacing="0">            <tbody><tr class="sectionHeader">               <td colspan="2">                  ABF JavaScript Diagnostics               </td>               <td align="RIGHT">                  [<a class="sectionHeader" href="javascript:void(null)" onclick="showJScriptDiv();">Close</a>]               </td>            </tr>            <tr height="50">               <td width="10">                  &nbsp;               </td>               <td valign="TOP">                  <font class="formTxt">This section of abf.com is provided solely for the purpose of diagnosing and resolving JavaScript problems that customers may be experiencing with the ABF website. If you have reached this area inadvertantly, please use the 'Close' link in the upper-right-hand corner to continue using abf.com.</font>               </td>            </tr>            <tr>               <td width="10">                  &nbsp;               </td>               <td colspan="2">                  <select class="frm" name="cboAnalyst">                     <option value="">DTC Personnel</option>                     <option value="Angela D">Angela D</option>                     <option value="Sherry D">Sherry D</option>                     <option value="Stephen D">Stephen D</option>                     <option value="Doug H">Doug H</option>                     <option value="Nick K">Nick K</option>                     <option value="Alexander K">Alexander K</option>                     <option value="Andy N">Andy N</option>                     <option value="Larry W">Larry W</option>                  </select>                  <input type="BUTTON" name="cmdSend" value="Send Diagnostics" onclick="getScriptSource()">               </td>            </tr>         </tbody></table>      </td>   </tr></tbody></table></form></div>
+   <iframe id="overIFrame" src="/blank.htm" style="display:none; position:absolute; z-index:6;"></iframe>
+   <iframe height="0" width="0" id="saveIFrame" src="/blank.htm" style="display:inline; position:absolute; z-index:6;"></iframe>
+   <iframe height="0" width="0" name="saveIFrame2" src="/blank.htm" style="display:inline; position:absolute; z-index:6;"></iframe>
 
    <div id="overDiv" style="position:absolute; visibility:hide; z-index:6; filter:revealTrans(transition=5, duration=.3) alpha(opacity=100);"></div>
    <div id="overDiv2" style="position:absolute; visibility:hide; z-index:6; -moz-opacity: 1.0; filter:alpha(opacity=89) revealTrans(transition=7, duration=.2);"></div>
@@ -639,58 +638,62 @@ var intButtonNavHeight = 72
 function GetToolsList()
 {
    var txt = ''
-   txt = txt + "<TABLE WIDTH=\"613\" HEIGHT=\"342\" BORDER=\"0\" CELLPADDING=\"3\" CELLSPACING=\"0\" CLASS=\"allToolsBG\"><TR><TD VALIGN=\"TOP\" ALIGN=\"CENTER\">"
-txt = txt + "<TABLE BORDER=\"0\" CELLPADDING=\"0\" CELLSPACING=\"0\">"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\">"
+   txt = txt + "<TABLE WIDTH=\"613\" HEIGHT=\"342\" BORDER=\"0\" CELLPADDING=\"3\" CELLSPACING=\"0\" CLASS=\"allToolsBG\">"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"CENTER\">"
+txt = txt + "<TABLE BORDER=\"0\" CELLPADDING=\"0\" CELLSPACING=\"0\"><TR>"
+txt = txt + "<TD VALIGN=\"TOP\" ALIGN=\"LEFT\">"
 txt = txt + "<TABLE BORDER=\"0\" CELLPADDING=\"1\" CELLSPACING=\"1\" BGCOLOR=\"#006044\" CLASS=\"allToolsTable\">"
 txt = txt + "<TR><TD CLASS=\"sectionHeader\" VALIGN=\"TOP\" ALIGN=\"LEFT\" WIDTH=\"145\">Before You Ship</TD></TR>"
 txt = txt + "<TR><TD CLASS=\"sectionCell\" VALIGN=\"TOP\" ALIGN=\"LEFT\" WIDTH=\"145\">"
 txt = txt + "<TABLE BORDER=\"0\" CELLPADDING=\"2\" CELLSPACING=\"0\">"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/ltlquotes/?NCHK=ATP\">Rate Quotations</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/timekeeper/?NCHK=ATP\">TimeKeeper Quotations</A></SPAN><SPAN CLASS=\"small2\"><BR>(expedited, guaranteed)</SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/rsearch/?NCHK=ATP\">Routing & Service Center Search</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/transit/?NCHK=ATP\">Transit Times</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/bolfmt/?NCHK=ATP\">Bill of Lading Creation</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/pickup/?NCHK=ATP\">Pickup Request</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/slip/?NCHK=ATP\">Packing Slip Creation</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/labels/?NCHK=ATP\">Shipping Labels</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/ziploadguide/?NCHK=ATP\">Zip Loading Guide</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/nmfc/?NCHK=ATP\">NMFC Request</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/chargecalc/?NCHK=ATP\">Shipping Charges Calculator</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/ltlquotes/?NCHK=ATP&WT.svl=FLY\">Rate Quotations</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/timekeeper/?NCHK=ATP&WT.svl=FLY\">TimeKeeper Quotations</A></SPAN><SPAN CLASS=\"small2\"><BR>(expedited, guaranteed)</SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/rsearch/?NCHK=ATP&WT.svl=FLY\">Routing & Service Center Search</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/transit/?NCHK=ATP&WT.svl=FLY\">Transit Times</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/bolfmt/?NCHK=ATP&WT.svl=FLY\">Bill of Lading Creation</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/pickup/?NCHK=ATP&WT.svl=FLY\">Pickup Request</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/slip/?NCHK=ATP&WT.svl=FLY\">Packing Slip Creation</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/labels/?NCHK=ATP&WT.svl=FLY\">Shipping Labels</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/nmfc/?NCHK=ATP&WT.svl=FLY\">NMFC Request</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
 txt = txt + "</TABLE></TD></TR></TABLE></TD><TD WIDTH=\"3\"></TD>"
-txt = txt + "<TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><TABLE BORDER=\"0\" CELLPADDING=\"1\" CELLSPACING=\"1\" BGCOLOR=\"#006044\" CLASS=\"allToolsTable\">"
+txt = txt + "<TD VALIGN=\"TOP\" ALIGN=\"LEFT\">"
+txt = txt + "<TABLE BORDER=\"0\" CELLPADDING=\"1\" CELLSPACING=\"1\" BGCOLOR=\"#006044\" CLASS=\"allToolsTable\">"
 txt = txt + "<TR><TD CLASS=\"sectionHeader\" VALIGN=\"TOP\" ALIGN=\"LEFT\" WIDTH=\"145\">After You Ship</TD></TR>"
-txt = txt + "<TR><TD CLASS=\"sectionCell\" VALIGN=\"TOP\" ALIGN=\"LEFT\" WIDTH=\"145\"><TABLE BORDER=\"0\" CELLPADDING=\"2\" CELLSPACING=\"0\">"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/trace/?NCHK=ATP\">Tracking &amp; E-mail Notification</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD CLASS=\"sectionCell\" VALIGN=\"TOP\" ALIGN=\"LEFT\" WIDTH=\"145\">"
+txt = txt + "<TABLE BORDER=\"0\" CELLPADDING=\"2\" CELLSPACING=\"0\">"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/trace/?NCHK=ATP&WT.svl=FLY\">Tracking &amp; E-mail Notification</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
 txt = txt + "</TABLE></TD></TR></TABLE></TD><TD WIDTH=\"3\"></TD>"
-txt = txt + "<TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><TABLE BORDER=\"0\" CELLPADDING=\"1\" CELLSPACING=\"1\" BGCOLOR=\"#006044\" CLASS=\"allToolsTable\">"
+txt = txt + "<TD VALIGN=\"TOP\" ALIGN=\"LEFT\">"
+txt = txt + "<TABLE BORDER=\"0\" CELLPADDING=\"1\" CELLSPACING=\"1\" BGCOLOR=\"#006044\" CLASS=\"allToolsTable\">"
 txt = txt + "<TR><TD CLASS=\"sectionHeader\" VALIGN=\"TOP\" ALIGN=\"LEFT\" WIDTH=\"145\">Other Tools</TD></TR>"
-txt = txt + "<TR><TD CLASS=\"sectionCell\" VALIGN=\"TOP\" ALIGN=\"LEFT\" WIDTH=\"145\"><TABLE BORDER=\"0\" CELLPADDING=\"2\" CELLSPACING=\"0\">"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/abfforms/?NCHK=ATP\">Forms &amp; ABF Documents</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/exchange/?NCHK=ATP\">Exchange Rates</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/claimfile/?NCHK=ATP\">Loss &amp; Damage Claims, Filing</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/claims/?NCHK=ATP\">Loss &amp; Damage Claims, Status</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/reports/center.asp?NCHK=ATP\">Reports Center</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/timekeeper/resourcecenter/?NCHK=ATP\">TimeKeeper Resource Center</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/supplychain/?NCHK=ATP\">Supply Chain Services</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD CLASS=\"sectionCell\" VALIGN=\"TOP\" ALIGN=\"LEFT\" WIDTH=\"145\">"
+txt = txt + "<TABLE BORDER=\"0\" CELLPADDING=\"2\" CELLSPACING=\"0\">"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/abfforms/?NCHK=ATP&WT.svl=FLY\">Forms &amp; ABF Documents</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/exchange/?NCHK=ATP&WT.svl=FLY\">Exchange Rates</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/claimfile/?NCHK=ATP&WT.svl=FLY\">Loss &amp; Damage Claims, Filing</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/claims/?NCHK=ATP&WT.svl=FLY\">Loss &amp; Damage Claims, Status</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/reports/center.asp?NCHK=ATP&WT.svl=FLY\">Reports Center</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/timekeeper/resourcecenter/?NCHK=ATP&WT.svl=FLY\">TimeKeeper Resource Center</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/supplychain/?NCHK=ATP&WT.svl=FLY\">Supply Chain Services</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
 txt = txt + "</TABLE></TD></TR></TABLE></TD><TD WIDTH=\"3\"></TD>"
 txt = txt + "<TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><TABLE BORDER=\"0\" CELLPADDING=\"1\" CELLSPACING=\"1\" BGCOLOR=\"#006044\" CLASS=\"allToolsTable\">"
 txt = txt + "<TR><TD CLASS=\"sectionHeader\" VALIGN=\"TOP\" ALIGN=\"LEFT\" WIDTH=\"145\"><A STYLE=COLOR:white; HREF=\"/tools/accountinfo/acctpswd.asp\">Logon</A> to access...</TD></TR>"
 txt = txt + "<TR><TD CLASS=\"sectionCell\" VALIGN=\"TOP\" ALIGN=\"LEFT\" WIDTH=\"145\"><TABLE BORDER=\"0\" CELLPADDING=\"2\" CELLSPACING=\"0\">"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/AutoTrack/?NCHK=ATP\">AutoTrack</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/docret/?NCHK=ATP\">Document Retrieval</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/billreview/?NCHK=ATP\">Invoice Review</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/reports/history?NCHK=ATP\">Historical Reports</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/reports/charting?NCHK=ATP\">Charts &amp; Graphs</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/optipool/?NCHK=ATP\">OptiPool</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/overchargeclaims/?NCHK=ATP\">Overcharge Claims</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/merge/?NCHK=ATP\">Merge-in-Transit</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/planner/?NCHK=ATP\">Shipment Planner</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/reroute/?NCHK=ATP\">Dynamic Rerouting</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/ziploadguide/?NCHK=ATP\">Zip Loading Guide</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/director/?NCHK=ATP\">Shipment Director</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/contacts/view/?NCHK=ATP\">My Contacts</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
-txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/multiship/?NCHK=ATP\">MultiShipment Tender</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/AutoTrack/?NCHK=ATP&WT.svl=FLY\">AutoTrack</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/docret/?NCHK=ATP&WT.svl=FLY\">Document Retrieval</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/billreview/?NCHK=ATP&WT.svl=FLY\">Invoice Review</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/reports/history?NCHK=ATP&WT.svl=FLY\">Historical Reports</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/reports/charting?NCHK=ATP&WT.svl=FLY\">Charts &amp; Graphs</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/optipool/?NCHK=ATP&WT.svl=FLY\">OptiPool</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/overchargeclaims/?NCHK=ATP&WT.svl=FLY\">Overcharge Claims</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/merge/?NCHK=ATP&WT.svl=FLY\">Merge-in-Transit</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/planner/?NCHK=ATP&WT.svl=FLY\">Shipment Planner</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/reroute/?NCHK=ATP&WT.svl=FLY\">Dynamic Rerouting</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/ziploadguide/?NCHK=ATP&WT.svl=FLY\">Zip Loading Guide</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/director/?NCHK=ATP&WT.svl=FLY\">Shipment Director</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/contacts/view/?NCHK=ATP&WT.svl=FLY\">My Contacts</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/multiship/?NCHK=ATP&WT.svl=FLY\">MultiShipment Tender</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
+txt = txt + "<TR><TD VALIGN=\"TOP\" ALIGN=\"LEFT\"><SPAN CLASS=\"small\"><A CLASS=\"nav\" HREF=\"/tools/chargecalc/?NCHK=ATP&WT.svl=FLY\">Shipping Charges Calculator</A></SPAN><SPAN CLASS=\"small2\"></SPAN></TD></TR>"
 txt = txt + "</TABLE></TD></TR></TABLE></TD></TR></TABLE></TD></TR></TABLE>"
 
    return(txt)
@@ -711,7 +714,7 @@ txt = txt + "</TABLE></TD></TR></TABLE></TD></TR></TABLE></TD></TR></TABLE>"
 <td width="7"><img src="/images/tabs/tab_right.gif" width="8" height="17" hspace="0" vspace="0" border="0"></td>
 <td><img src="/images/d1x1t.gif" border="0" width="1"></td>
 <td width="7"><img src="/images/tabs/tab_left.gif" width="7" height="17" hspace="0" vspace="0" border="0"></td>
-<td class="tab" nowrap=""><a href="/services/?NCHK=STAB" class="tablink" title="TimeKeeper, TurnKey, Assured, Trade Show...">Services</a></td>
+<td class="tab" nowrap=""><a href="/services/?NCHK=STAB" class="tablink" title="TimeKeeper, TurnKey, Trade Show...">Services</a></td>
 <td width="7"><img src="/images/tabs/tab_right.gif" width="8" height="17" hspace="0" vspace="0" border="0"></td>
 <td><img src="/images/d1x1t.gif" border="0" width="1"></td>
 <td width="7"><img src="/images/tabs/tab_left.gif" width="7" height="17" hspace="0" vspace="0" border="0"></td>
@@ -726,7 +729,11 @@ txt = txt + "</TABLE></TD></TR></TABLE></TD></TR></TABLE></TD></TR></TABLE>"
 <td class="tab" nowrap=""><a href="/resource/?NCHK=STAB" class="tablink" title="Shipping Guide, Rules &amp; Special Services, Fuel Surcharge, Software Downloads...">Resource Center</a></td>
 <td width="7"><img src="/images/tabs/tab_right.gif" width="8" height="17" hspace="0" vspace="0" border="0"></td>
 <td><img src="/images/d1x1t.gif" border="0" width="1"></td>
-<td nowrap="" class="small" align="top">&nbsp;<a class="servicelink" href="javascript:upWinXY('helpWin','/help/helphow.asp?page=/help/helpmain.asp',725,500,true);" title="Get help..."><img src="/images/icons/help.gif" width="14" height="13" border="0" align="top" vspace="2">help</a>&nbsp;<a class="servicelink" href="/about/contact/" title="Contact ABF..."><img src="/images/icons/contact.gif" width="14" height="13" border="0" align="top" vspace="2">contacts</a>&nbsp;<a class="servicelink" href="javascript:upWinXY('helpWin','/help/helphow.asp?page=/help/helpform.asp',725,500,true);" title="Send us a suggestion..."><img src="/images/icons/suggestion.gif" width="14" height="13" border="0" align="top" vspace="1">suggestion</a>&nbsp;<a class="servicelink" href="javascript:PrintPage('/style/main_style_new.css');" title="Print this page..."><img src="/images/icons/print.gif" width="14" height="13" border="0" align="top" vspace="2">print</a>&nbsp;<a class="servicelink" href="javascript:EmailPage('/style/main_style_new.css');" title="E-mail this page..."><img src="/images/icons/email.gif" width="14" height="13" border="0" align="top" vspace="2">e-mail</a>&nbsp;<a class="servicelink" href="javascript:SavePage();" title="Save this page..."><img src="/images/icons/save.gif" border="0" align="top" vspace="3">&nbsp;save</a>
+<td nowrap="" class="small" align="top">&nbsp;<a class="servicelink" title="Get help..." onclick="upWinXY('helpWin','/help/helphow.asp?page=/help/helpmain.asp&amp;WT.svl=HLP',725,500,true); return false;" href="/help/helphow.asp?page=/help/helpmain.asp&amp;WT.svl=HLP"><img src="/images/icons/help.gif" width="14" height="13" align="top" vspace="2" border="0">help</a>
+<a class="servicelink" href="/about/contact/" title="Contact ABF..."><img src="/images/icons/contact.gif" width="14" height="13" border="0" align="top" vspace="2">contacts</a>&nbsp;<a class="servicelink" title="Send us a suggestion..." onclick="upWinXY('helpWin','/help/helphow.asp?page=/help/helpform.asp&amp;WT.svl=SUG',725,500,true); return false;" href="/help/helphow.asp?page=/help/helpform.asp&amp;WT.svl=SUG"><img src="/images/icons/suggestion.gif" width="14" height="13" align="top" vspace="0" border="0">suggestion</a>
+<a class="servicelink" title="Print this page..." onclick="PrintPage(); return false;" href="/print.asp"><img src="/images/icons/print.gif" width="14" height="13" align="top" vspace="2" border="0">print</a>
+<a class="servicelink" title="E-mail this page..." onclick="EmailPage(); return false;" href="/email.asp"><img src="/images/icons/email.gif" width="14" height="13" align="top" vspace="2" border="0">e-mail</a>
+<a class="servicelink" title="Save this page..." onclick="SavePage(); return false;" href="/Include/SavePage.asp"><img src="/images/icons/save.gif" align="top" vspace="3" border="0">&nbsp;save</a>
 </td>
 </tr>
 </tbody></table>
@@ -737,8 +744,8 @@ txt = txt + "</TABLE></TD></TR></TABLE></TD></TR></TABLE></TD></TR></TABLE>"
 <td class="truck2">
 <a href="/"><img alt="Go to ABF Home Page" title="Go to ABF Home Page" src="/images/logo2.gif" width="78" height="36" hspace="0" vspace="0" border="0" align="LEFT"></a><img src="/images/slogan.jpg" title="Expect More" hspace="0" vspace="0" border="0" align="LEFT"><img src="/images/banner_dot.gif" width="1" height="36" hspace="0" vspace="0" border="0" align="RIGHT"></td>
 </tr>
-<tr><td class="truck4">&nbsp;To use the advanced features of ABF.com -&gt;
-<a href="/tools/accountinfo/acctpswd.asp" class="tablink" title="Logon and use the advanced features of ABF.com...">Logon</a> | <a href="/tools/accountinfo/password.asp?WT.svl=R" class="tablink" title="Register to get a User ID and Password...">Register</a> | <a href="/tools/" class="tablink" title="Learn about the benefits of registering... ">Benefits</a></td></tr>
+<tr><td class="truck4">&nbsp;To use the advanced features of abf.com -&gt;
+<a href="/tools/accountinfo/acctpswd.asp" class="tablink" title="Logon and use the advanced features of abf.com...">Logon</a> | <a href="/tools/accountinfo/password.asp?WT.svl=R" class="tablink" title="Register to get a User ID and Password...">Register</a> | <a href="/tools/" class="tablink" title="Learn about the benefits of registering... ">Benefits</a></td></tr>
 <tr><td><img src="/images/d1x1t.gif" width="1" height="1" hspace="0" vspace="0"></td></tr>
 </tbody></table></td></tr>
    <tr>
@@ -762,21 +769,21 @@ txt = txt + "</TABLE></TD></TR></TABLE></TD></TR></TABLE></TD></TR></TABLE>"
   </tr>
 </tbody></table>
 </td></tr>
-<tr><td height="6" bgcolor="#FFFFFF"></td></tr>
 <tr><td>
+</td></tr><tr><td height="6" bgcolor="#FFFFFF"></td></tr><tr><td>
 
    <table width="100%" border="0" cellpadding="4" cellspacing="1" class="sectionTable" bgcolor="#006044">
       <tbody><tr>
          <td class="sectionCell">
             <table cellpadding="4" cellspacing="0" border="0">
 <tbody><tr>
-<td class="sectionCell"><span class="sideNavigation"><strong><a href="/privacy.asp?NCHK=SPLM" class="sideNavigation">Privacy Policy</a></strong></span></td>
+<td class="sectionCell"><span class="sideNavigation"><strong><a href="/privacy.asp?NCHK=SPLM&amp;WT.svl=LSM" class="sideNavigation">Privacy Policy</a></strong></span></td>
 </tr>
 <tr>
-<td class="sectionCell"><span class="sideNavigation"><a class="nav" href="/termsofuse.asp?NCHK=SPLM">Terms of Use</a></span></td>
+<td class="sectionCell"><span class="sideNavigation"><a class="nav" href="/termsofuse.asp?NCHK=SPLM&amp;WT.svl=LSM">Terms of Use</a></span></td>
 </tr>
 <tr>
-<td class="sectionCell"><span class="sideNavigation"><a class="nav" href="/copyright.asp?NCHK=SPLM">Copyright</a></span></td>
+<td class="sectionCell"><span class="sideNavigation"><a class="nav" href="/copyright.asp?NCHK=SPLM&amp;WT.svl=LSM">Copyright</a></span></td>
 </tr>
 
             </tbody></table>
@@ -803,7 +810,7 @@ txt = txt + "</TABLE></TD></TR></TABLE></TD></TR></TABLE></TD></TR></TABLE>"
 </dt><dd><font class="pgTxt">We treat our data as assets that must be protected against loss and unauthorized access. We employ information security techniques to appropriately protect confidential information from unauthorized access by users inside and outside the company. Access to customer information is limited to those individuals who have a legitimate business need for that information.<br><br>ABF Internet sites are currently located in the United States. ABF Internet sites, and their supporting systems, employ generally accepted information security techniques such as firewalls, access control procedures and cryptography to appropriately protect confidential information from unauthorized access.<br><br>Your account and shipment information is stored in a central, secure source in our mainframe system. All calls from the Internet to access this information must pass through our secure site.<br><br>Although we make substantial efforts to limit access to our facilities and vehicles to authorized personnel, we are not responsible for maintaining the confidentiality of information that is printed and placed in plain view on a shipment or package.</font> 
 <p></p>
 </dd><dt><font class="pgParaTtl">How do I change my personal or company information?</font> 
-</dt><dd><font class="pgTxt">Registered users of myABF and/or the eCenter of Online Tools may contact their local sales representative or e-mail <a href="mailto:passwords@abfs.com">passwords@abfs.com</a> to request a change to registration information. You are entirely responsible for any and all activities that occur under your account.<br><br>Personal information provided at the time of the ABF Web site registration will be deleted if the user does not access ABF.com within 6 months as a logged-on user.</font> 
+</dt><dd><font class="pgTxt">Registered users of myABF and/or the eCenter of Online Tools may contact their local sales representative or e-mail <a href="mailto:passwords@abfs.com">passwords@abfs.com</a> to request a change to registration information. You are entirely responsible for any and all activities that occur under your account.<br><br>Personal information provided at the time of the ABF Web site registration will be deleted if the user does not access abf.com within 6 months as a logged-on user.</font> 
 <p></p>
 </dd><dt><font class="pgParaTtl">Does the ABF site use cookies?</font> 
 </dt><dd><font class="pgTxt">Certain saved options are stored as an encrypted entry in your cookie file, enabling you to access the advanced features of this site without having to logon each time you enter the site. We believe cookies provide a safe and secure way to improve the usability of the site. Please note that we will never use cookies to find demographic information. For more information about cookies, read the <a href="http://home.netscape.com/security/basics/privacy.html" target="NetscapePrivacyFAQ">Cookie and Privacy FAQ</a> at the Netscape site. </font>
@@ -841,19 +848,19 @@ txt = txt + "</TABLE></TD></TR></TABLE></TD></TR></TABLE></TD></TR></TABLE>"
                <td class="sectionCell" valign="TOP">
                   <table border="0" cellpadding="0" cellspacing="0" width="100%">
                      <tbody><tr>
-                        <td valign="TOP"><font class="small">&nbsp;<a class="nav" href="javascript:upWinXY('mapWin','/help/sitemap.asp',540,420,true);">Site Map</a>&nbsp;|&nbsp;<a class="nav" href="javascript:searchWinUp(0);">Search</a>:&nbsp;</font><input type="TEXT" maxlength="100" size="30" name="UserRestriction" onkeypress="searchWinUp(event)">&nbsp;<input type="BUTTON" value="Search" name="btnSearch" onclick="searchWinUp(0);"></td>
-                        <td valign="TOP" width="300">
-                           <table border="0" cellpadding="0" cellspacing="0">
-                              <tbody><tr>
-                                 <td valign="TOP"><font class="pgTxt"><b>December 6, 2006</b>&nbsp;</font></td>
-                                 <td valign="TOP"><a href="javascript:upWinXY('calWin','/ABFGlobal/calwin.asp?nol=Y',340,290,false);"><img src="/images/cal1.gif" width="16" height="14" border="0"></a></td>
-                              </tr>
-                           </tbody></table>
-                        </td>
+                        <td valign="top"><font class="small">&nbsp;<a class="nav" onclick="upWinXY('mapWin','/help/sitemap.asp',540,420,true); return false;" href="/help/sitemap.asp">Site Map</a>&nbsp;|&nbsp;<a class="nav" onclick="searchWinUp(0); return false;" href="/help/search.asp">Search</a>:&nbsp;</font><input type="text" maxlength="100" size="30" name="UserRestriction" onkeypress="searchWinUp(event)">&nbsp;<input type="button" value="Search" name="btnSearch" onclick="searchWinUp(0);"></td>
+<td valign="top" width="300">
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td valign="top"><font class="pgTxt"><b> June 18, 2007</b>&nbsp;</font></td>
+<td valign="top"><a class="nav" onclick="upWinXY('calWin','/ABFGlobal/calwin.asp?nol=Y',340,290,false); return false;" href="/ABFGlobal/calwin.asp?nol=Y"><img src="/images/cal1.gif" width="16" height="14" border="0"></a></td></tr>
+</tbody></table>
+</td>
+
                      </tr>
                      <tr>
                         <td valign="TOP"></td>
-                        <td valign="TOP"><span class="small"><a class="nav" href="/copyright.asp">Copyright © 1995-2006 ABF Freight System, Inc.</a><br>
+                        <td valign="TOP"><span class="small"><a class="nav" href="/copyright.asp">Copyright © 1995-2007 ABF Freight System, Inc.</a><br>
                               All Rights Reserved | <a class="nav" href="/termsofuse.asp">Terms of Use</a> | <a class="nav" href="/privacy.asp">Privacy Policy</a><br></span></td>
                      </tr>
                   </tbody></table>
