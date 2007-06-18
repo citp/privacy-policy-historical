@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the travelgrove.com privacy policy that was archived on 2006-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061122084238id_/http%3A//travelgrove.com/html/bottom_bar/privacy_policy.php%3FidReferral%3D%26adid%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelgrove.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618042020id_/http%3A//travelgrove.com/html/bottom_bar/privacy_policy.php%3FidReferral%3D%26adid%3D) for the most accurate reproduction.*
 
 # Travelgrove Privacy Policy
+
+  
+
 
 ### We only store personal information at Travelgrove if you choose to.
 
@@ -57,3 +60,54 @@ Any material changes in the way Travelgrove Inc uses personal information will b
 
 
 back to top 
+
+  
+  |  | 
+
+### Travelgrove Info  
+  
+---  
+[about us](https://web.archive.org/html/bottom_bar/about.php?idReferral=&adid=)  
+[site map](https://web.archive.org/html/bottom_bar/site_map.php?idReferral=&adid=)  
+[partner list](https://web.archive.org/html/bottom_bar/partner_list.php?idReferral=&adid=)  
+[advertising](https://web.archive.org/html/bottom_bar/advertising_info.php?idReferral=&adid=)  
+[useful hints](https://web.archive.org/html/bottom_bar/useful_hints.php?idReferral=&adid=)  
+[terms of use](https://web.archive.org/html/bottom_bar/terms_of_use.php?idReferral=&adid=)  
+[privacy](https://web.archive.org/html/bottom_bar/privacy_policy.php?idReferral=&adid=)  
+[contact](https://web.archive.org/html/bottom_bar/contact.php?idReferral=&adid=)  
+[feedback form](https://web.archive.org/html/bottom_bar/feedback.php?idReferral=&adid=)  
+[affiliates](https://www.travelgrove.com/affiliates/index.php?idReferral=&adid=)  
+[FAQ](https://web.archive.org/html/bottom_bar/faq.php?idReferral=&adid=)  
+[webstats](https://web.archive.org/html/bottom_bar/webstats.php?idReferral=&adid=)  
+[travel directory](https://web.archive.org/link_exchange/index.php?idReferral=&adid=)  
+[travel news](https://web.archive.org/html/bottom_bar/news.php?idReferral=&adid=)  
+  
+
+
+### Travel Themes
+
+[Casino Deals](https://web.archive.org/themes/vacation-themes.php?vacation_deal=lasvegas&idReferral=&adid=)   
+[Lastminute](https://web.archive.org/themes/vacation-themes.php?vacation_deal=lastminute&idReferral=&adid=)   
+[Cruises Caribbean](https://web.archive.org/themes/vacation-themes.php?vacation_deal=cruisesbahamas&idReferral=&adid=)   
+  
+
+
+###### Travel Tools  
+  
+---  
+[Country information](https://web.archive.org/worldfacts/country-info.php?idReferral=&adid=) NEW!  
+[Travel Forum](https://web.archive.org/worldfacts/forum/index.php?idReferral=&adid=)  
+[Airport Parking](https://web.archive.org/html/bottom_bar/airport-parking.php?idReferral=&adid=)  
+[Hostels](https://web.archive.org/html/bottom_bar/hostels.php?idReferral=&adid=)   
+[Backpacking - Tours](https://web.archive.org/html/bottom_bar/backpackingtours.php?idReferral=&adid=)  
+[Travel Guides and more](https://web.archive.org/travel_info.php?idReferral=&adid=)  
+Currency Converter  
+World Clock (Java only)  
+Time Zones (Java only)  
+[Country Maps (Java only)](https://web.archive.org/html/info/worldmap.php?idReferral=&adid=)  
+  
+  
+  
+Travelgrove Inc is not responsible for content on external Web sites. ©2007 Travelgrove, Inc. All rights reserved.
+
+cheap airfares, discount airfares, cheap travel
