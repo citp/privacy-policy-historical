@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abfs.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206104341id_/http%3A//www.abfs.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abfs.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618232517id_/http%3A//www.abfs.com/privacy.asp) for the most accurate reproduction.*
 
 # ABF Freight System, Inc. - Privacy Policy
 
@@ -25,7 +25,7 @@ Although we make substantial efforts to limit access to our facilities and vehic
 How do I change my personal or company information?
     Registered users of myABF and/or the eCenter of Online Tools may contact their local sales representative or e-mail [passwords@abfs.com](mailto:passwords@abfs.com) to request a change to registration information. You are entirely responsible for any and all activities that occur under your account.
 
-Personal information provided at the time of the ABF Web site registration will be deleted if the user does not access ABF.com within 6 months as a logged-on user.
+Personal information provided at the time of the ABF Web site registration will be deleted if the user does not access abf.com within 6 months as a logged-on user.
 
 Does the ABF site use cookies?
     Certain saved options are stored as an encrypted entry in your cookie file, enabling you to access the advanced features of this site without having to logon each time you enter the site. We believe cookies provide a safe and secure way to improve the usability of the site. Please note that we will never use cookies to find demographic information. For more information about cookies, read the [Cookie and Privacy FAQ](http://home.netscape.com/security/basics/privacy.html) at the Netscape site. 
