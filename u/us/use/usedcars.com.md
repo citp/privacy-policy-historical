@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the usedcars.com privacy policy that was archived on 2006-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060819013543id_/http%3A//www.usedcars.com/Sites/UCC/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usedcars.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618224621id_/http%3A//www.usedcars.com/Sites/UCC/privacypolicy.aspx) for the most accurate reproduction.*
 
 # used cars - generic page
 
-**Our General Policies And Practices**  
-  
+**Our General Policies And Practices**
+
 As Web users ourselves, we understand the importance of online privacy. And we are committed to respecting yours. 
 
 We exist to help people find used cars. In order to operate, we need to gather and supply personal information about prospective car buyers. We are committed to responsible handling of the information you provide us. This means that we will not abuse it and will use it only as outlined below. It also means that we will supply it through business relationships only to auto retailing network partners whose privacy policies are equally respectful of your rights. 
@@ -24,7 +24,19 @@ We use your IP address, collected automatically by our Web servers, to analyze o
 
 The Process places "cookies" on your hard drive. Cookies are small amounts of textual information which allow the Process to work better for you by storing information such as the vehicle you’re currently configuring, etc. These cookies are only used by the Process during the time you’re in the Process. We don’t collect them or use them in other ways. If you don’t like the fact that cookies are placed on your hard drive by our Process or any other Web site, you can set your browser preferences so that you don’t accept cookies, or only accept them on demand. 
 
-Other Ways In Which We Use Collected Information
+“As an online advertiser, we are looking for better, more targeted and less intrusive forms of advertising and as such have partnered with several companies that collect anonymous information about your visits to our Web site in order to provide advertisements about goods and services of interest to you. Additionally, we use this technology to advertise this site’s products and services. If you would like to find out more information regarding this practice and to opt-out of this information collection method, please visit the following sites. 
+
+\- DRIVEpm and Atlas DMT (www.networkadvertising.org)   
+\- Advertising.com (www.advertising.com/Privacy.html) “
+
+
+**Information Collected Through Action On Your Part**
+
+If you ask to be introduced to an auto dealer or dealer network through our Process, we need you to voluntarily provide your name, email address, phone number, and other information to make the introduction possible. This information will be stored in our databases and may be used to email you a follow-up survey regarding your experience. It may also be used to send you information regarding changes to our services. You may opt out of receiving such notices by emailing your request to removeme@dealix.com. We will also provide your information to the retailer or retail network to whom we’re introducing you. The retailer or retail network will then use the information to contact you regarding your vehicle request. 
+
+Our own contracted retailers, identified as “UsedCars.com Network Retailers”, will use the information to communicate with you regarding the vehicle you are seeking. The use of the information by other retail networks is governed by the privacy policy of the network which receives the information. This network is clearly identified to you when you submit the information. We aren’t responsible for individual networks’ policies or practices. 
+
+**Other Ways In Which We Use Collected Information**
 
 We may share generalized information about our customers or traffic sources with our business partners. This does not include any information through which you can be personally identified. 
 
