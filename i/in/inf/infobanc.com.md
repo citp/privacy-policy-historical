@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infobanc.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219191754id_/http%3A//www.infobanc.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infobanc.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618134329id_/http%3A//www.infobanc.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - The Great Indian Bazaar
 
@@ -24,7 +24,7 @@ This site contains links to many other sites. www.infobanc.com is not responsibl
 
 -On-line removal - Every e-zine that we send has a link for immediate and on-line 'Unsubscribe'. Subscribers may remove themselves from any of our mailking lists just by clicking at 'Unsubscribe' link. Every e-zine has clear instructions on how to 'Unsubscribe' 
 
-\- Opt-out via email - Additionally. one may send e-mail at remove@infobanc.com for unsubscription/opt-out 
+-Opt-out via email - Additionally. one may send e-mail at remove@infobanc.com for unsubscription/opt-out 
 
 **Contacting the Web Site** If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
@@ -33,9 +33,7 @@ Information for Business and Commerce (InfoBanc.com)
 124-A/7, 3rd Floor   
 Main Road, Katwaria Sarai   
 (Opp. Indian Statistical Institute)   
-New Delhi - 110 016   
+New Delhi - 110 016  
 India   
 Tel: 91-11-26961886   
 E-Mail: info@infobanc.com **
-
-**BACK**
