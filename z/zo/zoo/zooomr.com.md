@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zooomr.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206220924id_/http%3A//beta.zooomr.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zooomr.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618095542id_/http%3A//beta.zooomr.com/about/privacy_policy) for the most accurate reproduction.*
 
-# Zooomr :: Experience the World Through Photos
+# About Zooomr | Privacy Policy
 
 The privacy policy of Zooomr (hereafter known as the Web Site), is designed to help users understsand how BlueBridge Technologies Group collects and uses personal information that you provide when signing up for and using the Zooomr.com service.
 
