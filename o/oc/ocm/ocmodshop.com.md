@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ocmodshop.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205203420id_/http%3A//ocmodshop.com/legal/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocmodshop.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618224212id_/http%3A//www.ocmodshop.com/legal/privacy_policy.aspx) for the most accurate reproduction.*
 
-# OCModShop
+# OCModShop - Privacy Policy
 
-**OCModShop privacy.**  
+  
 We at OCModShop.com do not collect any information from you but the companies that advertise on our web site may. We are not responsible for any information they may or may not collect. This web site is only intended for entertainment purposes and it takes no responsibility for the material on this web site. You use the content at your own risk and we are not liable to you or any third parties for any damage caused by your use of this web site or its material. OCModShop does not endorse any other web site that might be linked to. All the content is the property of OCModShop Publishing and is copyrighted. All rights are reserved. 
 
 **Burst Media privacy policy.**   
@@ -15,4 +15,4 @@ There are instances where a user may provide specific personal information in re
 **The Cookie Principle.**  
 BURST! may use cookies to improve your web browsing experience. When you are first served a BURST! ad, BURST! may assign a unique random number to your computer browser - commonly known as a "cookie." We do this to understand the way a user responds to the ads we deliver. For example, this number lets us keep track of how many times you view an ad we distribute. Likewise, the cookie can help make sure you do not see the same ad over and over - thus enhancing your online web viewing experience. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. Most web browsers automatically accept cookies, but you can usually change your browser to prevent that use if you desire. 
 
-More information about Burst Media privacy policy can be obtained from Burst Media. 
+More information about Burst Media privacy policy can be obtained from [Burst Media](http://www.burstmedia.com/). 
