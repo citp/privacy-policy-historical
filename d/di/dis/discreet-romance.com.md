@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discreet-romance.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207122612id_/http%3A//www.discreet-romance.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discreet-romance.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618123359id_/http%3A//www.discreet-romance.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policies - Discreet Romance Adult Sex Toys Store
 
@@ -29,7 +29,13 @@ See Contact Us below for more contact details
 We do not and will not store your credit card in our database. It is discarded the moment your card is authorized. 
 
 **Emailing & Promotions**  
-Discreet-romance.com will never send out spaming or promotional emails to your account. We will not send flyers or catalogs to your address. We will only email you regarding your order information, or reply to your requests and inquiries. 
+
+
+  * Discreet-romance.com will **NEVER** send out spaming or promotional emails to your account.
+  * We will **NOT** send flyers or catalogs to your address.
+  * The only time we will email you is regarding your order information or reply to your requests and inquiries.
+
+
 
 **Session ID**  
 Upon visiting our site, we assign you a unique Session ID and attempt to store that onto your computer in the form of a cookie. This is used to keep track of your shopping basket during your visit and between visits. 
@@ -56,10 +62,6 @@ If we decide to change our privacy policy or email practices, we will post a lin
 By visiting our Web site and providing us with data, you acknowledge and agree that your personal information may be processed for the purposes identified in our Privacy Policy. In addition, such data may be stored on servers located outside your resident jurisdiction which may have less stringent privacy practices than your own. By providing us with your data, you consent to the transfer of such data. 
 
 **Contacting Us**  
-If you have any questions about this privacy statement, the practices of this site, wish to have information about you deleted, opt-out of mailings, or want to place an order via a method other than the Internet, you can click [here](http://www.discreet-romance.com/contact_us.php) to contact us, or email us at privacy [at] discreet-romance.com. You can also contact us by mailing us at:   
-TEG, LLC  
-11 Perimeter Center East, Suite 1215  
-Atlanta, GA 30346  
-
+If you have any questions about this privacy statement, the practices of this site, wish to have information about you deleted, opt-out of mailings, or want to place an order via a method other than the Internet, you can click [here](http://www.discreet-romance.com/contact_us.php) to contact us, or email us at privacy [at] discreet-romance.com. 
 
 Privacy Statement last updated on: November 16th, 2006 
