@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cfsan.fda.gov privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231113229id_/http%3A//www.fda.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfsan.fda.gov privacy policy that was archived on 2007-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070619014014id_/http%3A//www.fda.gov/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for the FDA Website
 
