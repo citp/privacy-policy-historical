@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the acepolls.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215215517id_/http%3A//www.acepolls.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acepolls.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618110827id_/http%3A//www.acepolls.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Ace Polls Privacy Policy
+
+Compatible with Myspace, Blogs, Shoutlife, Tagged, Xanga, IMVU, Tagworld, LiveJournal, Friendster, and other websites.
+
+[](http://www.acepolls.com/ "Ace Polls")
 
 July 06, 2006
 
@@ -8,7 +12,7 @@ The Privacy Policy describes how we treat personal information when you use Ace 
 
 **Personal information**
 
-  * Ace Polls may send you information related to the Poll of the Month or Ace Polls if you have elected to recieve such information.
+  * No personally identifiable data is collected on Ace Polls
 
 
 
@@ -27,12 +31,12 @@ The Privacy Policy describes how we treat personal information when you use Ace 
 **Your choices**
 
   * You may create or vote in any poll on this site.
-  * You may cancel any poll that you created by Contacting Us and supplying a valid reason and IP.
+  * You may cancel any poll that you created by Contacting Us and supplying a valid reason and poll ID.
 
 
 
 **More information**
 
-Ace Polls adheres to the US Safe Harbor privacy principles. For more information about the Safe Harbor framework or our registration, see the [Department of Commerce's web site](http://www.export.gov/safeharbor/). 
+Ace Polls adheres to the US Safe Harbor privacy principles. For more information about the Safe Harbor framework, see the [Department of Commerce's web site](http://www.export.gov/safeharbor/). 
 
-Further information about Ace Polls is available [here](https://web.archive.org/web/20061215215517id_/http%3A//www.acepolls.com/faq.php). 
+Further information about Ace Polls is available [here](http://www.acepolls.com/faq/). 
