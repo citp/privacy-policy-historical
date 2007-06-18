@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the soulcast.com privacy policy that was archived on 2006-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061220072248id_/http%3A//www.soulcast.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soulcast.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618090823id_/http%3A//www.soulcast.com/page/privacy) for the most accurate reproduction.*
 
-# SoulCast - Free Blogs, Personal Blogs, Anonymous Blogging in Privacy, and Meaningful Connections
+# SoulCast: FREE Blog - Blogs & Blogging
 
 ### SoulCast Privacy Policy Notice
 
