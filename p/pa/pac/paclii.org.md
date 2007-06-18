@@ -1,8 +1,14 @@
-> *The following text is extracted and transformed from the paclii.org privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210033207id_/http%3A//www.paclii.org/paclii/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paclii.org privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618095359id_/http%3A//www.paclii.org/paclii/privacy.html) for the most accurate reproduction.*
 
 # PacLII - About PacLII: Privacy Policy
 
+Last updated: 22 March 2007
+
 PacLII's privacy policies are based on respect for international standards of information privacy protection. 
+
+PacLII collects two main categories of information about individuals, further details of which are set out below:  
+A. Information concerning usage of PacLII  
+B. Information about individuals contained in PacLII databases
 
 ## A. Information concerning usage of PacLII
 
@@ -12,21 +18,27 @@ PacLII's privacy policies are based on respect for international standards of in
 
 **A3.** PacLII reserves the right to gather more extensive information that stated above (i) about any attempted access to PacLII which raise security issues (and, where necessary, to make disclosures to relevant authorities); and (ii) for network analyses on an occasional basis.
 
-## B. Personal information contained in PacLII databases
+**A4.** If you contact PacLII via email (at our Feedback email address or through 'Report an error' or otherwise) we will only use your email address and any information about individuals you provide us for the purposes for which the information is provided. It will not be added to a mailing list without your consent.
 
-**B1.** Some PacLII databases contain personal information, including the decisions of Courts and Tribunals, and the reports of Royal Commissions. PacLII publishes these databases with the consent of the public bodies concerned. It is the responsibility of the public bodies which provide these databases to PacLII to determine, subject to the requirements of the laws under which they operate, the appropriate balance between the privacy interests of individuals and the public interests in dissemination of the information. In particular, if personal data is to be anonymised before publication, this is done by the public body concerned. PacLII does not and can not censor part or all of the information provided by these public bodies for publication.
+**A5.** Cookies are not used by PacLII to collect information.
+
+## B. Information about individuals contained in PacLII databases
+
+**B1.** Some PacLII databases contain information about individuals, including the decisions of Courts and Tribunals, and the reports of Royal Commissions. PacLII publishes these databases with the consent of the public bodies concerned. It is the responsibility of the public bodies which provide these databases to PacLII to determine, subject to the requirements of the laws under which they operate, the appropriate balance between the privacy interests of individuals and the public interests in dissemination of the information. In particular, if personal data is to be anonymised before publication, this is done by the public body concerned. PacLII does not and can not censor part or all of the information provided by these public bodies for publication.
 
 **B2.** PacLII does not consent to the contents of these databases being indexed by other web sites. PacLII attempts to prevent such indexing occurring by placing these database outside the permitted scope of web 'crawlers', 'robots' or 'spiders' that adhere to the voluntary Robot Exclusion Standard
 
 PacLII also monitors whether any robots attempt to index these databases in disregard of this Standard, and takes steps to exclude any that do so from any access to PacLII.
 
-**B3.** PacLII users should note that there are legal limitations on the use, publication and dissemination of some personal information contained in PacLII databases. 
+**B3.** PacLII users should note that there are legal limitations on the use, publication and dissemination of some information about individuals contained in PacLII databases. 
 
 **B4.** If any person considers that any case in a PacLII database may contain information which it should not include, PacLII suggests that they should contact the Registrar of the Court or Tribunal concerned, setting out the reasons why there is information in a case which should not be published. The Court or Tribunal is then in a position to inform all previous recipients of the case of any matters that need to be changed. 
 
 **PacLII reserves the right to exclude access to its databases by users or sites that are in apparent breach of any such legal requirements.**
 
 If you have any comments or suggestions in relation to this policy, please [**send us some mail**](https://web.archive.org/paclii/feedback.html).
+
+Due to the developing nature of privacy principles for online communication, this policy may be modified or expanded in light of new developments or issues that may arise from time to time. The amended policy will be posted to this site and will operate from the time it is posted.
 
 * * *
 
