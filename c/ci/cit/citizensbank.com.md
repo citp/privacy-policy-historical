@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizensbank.com privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228194035id_/http%3A//www.citizensbank.com/security/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizensbank.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618173437id_/http%3A//www.citizensbank.com/security/privacy.aspx) for the most accurate reproduction.*
 
 # Citizens Bank | Privacy Pledge
 
