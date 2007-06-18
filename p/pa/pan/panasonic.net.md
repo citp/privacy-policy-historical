@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panasonic.net privacy policy that was archived on 2006-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060716042727id_/http%3A//panasonic.net/site_info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panasonic.net privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618182743id_/http%3A//panasonic.net/site_info/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Panasonic Global
 
@@ -18,7 +18,6 @@ The Company aims to obtain the satisfaction and trust of our customers by provid
   6. The Company will make reasonable efforts to maintain and improve security to ensure that personal information is managed safely.
   7. While complying with applicable laws and regulations, the Company will make ongoing efforts to improve and upgrade measures taken to protect personal information. 
     * With regard to inquiries regarding personal information supplied or registered by you, requests to review such information, etc., should be directed to the contact person indicated at the specific website where the information was submitted.
-    * Please direct inquiries regarding the Company's Privacy Policy [here](https://sec.panasonic.net/panasonic/contact/form.html).
     * If you are under the age of 13, you are requested to obtain the consent of your parent or guardian, before your personal information is submitted.
 
 
