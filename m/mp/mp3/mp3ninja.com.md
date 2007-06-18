@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mp3ninja.com privacy policy that was archived on 2006-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061130021252id_/http%3A//www.mp3ninja.com/index/faq/category3/6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3ninja.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618084548id_/http%3A//www.mp3ninja.com/index/faq/category3/6) for the most accurate reproduction.*
 
-# mp3ninja.com - nice mp3 download collection. Legal, secure mp3 service. Ordered mp3 content with search.
+# Download Mp3 You Have Dreamed Of. Nice mp3 download collection. Legal, secure mp3 service. Ordered mp3 content with search.
 
 **We take your privacy seriously.**
 
