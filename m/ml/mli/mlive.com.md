@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlive.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209075645id_/http%3A//www.mlive.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlive.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618112743id_/http%3A//www.mlive.com/privacypolicy) for the most accurate reproduction.*
 
 # MLive.com: Privacy Policy
 
@@ -56,8 +56,8 @@ If you have any concerns or questions about any aspect of this policy, please fe
 
 Privacy Policy Coordinator  
 **Michigan Live LLC**  
-**332 E. Liberty St, Suite 210**  
-**Ann Arbor, MI 48197**  
+**339 E. Liberty St, Suite 210**  
+**Ann Arbor, MI 48104**  
 **[Contact Us](https://web.archive.org/contactus)**
 
 
