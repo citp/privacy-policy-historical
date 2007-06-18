@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roses.ru privacy policy that was archived on 2006-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060720173100id_/http%3A//www.roses.ru/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roses.ru privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618142614id_/http%3A//www.roses.ru/privacy.shtml) for the most accurate reproduction.*
 
 # FAQ related to security and privacy.
 
@@ -47,5 +47,5 @@ How can I contact Russian Florists' Network if I have concerns regarding my priv
 If you have questions at any time regarding our privacy policy, you may contact Russian Florists' Network by sending a note to [info@roses.ru](mailto:info@roses.ru) or to the following address: 
 
 Russian Florists' Network  
-185 Dekabristov str  
-Kazan Russia 420080 
+50 Peterburgskaja str  
+Kazan Russia 420107 
