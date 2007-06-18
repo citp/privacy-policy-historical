@@ -1,18 +1,31 @@
-> *The following text is extracted and transformed from the modernhealthcare.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614223917id_/http%3A//modernhealthcare.com/page.cms%3FpageId%3D57) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernhealthcare.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618031225id_/http%3A//www.modernhealthcare.com/apps/pbcs.dll/section%3Fcategory%3Dprivacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Modern Healthcare Online
 
-June 14, 2006
+| 
 
-[](http://oas-central.realmedia.com/RealMedia/ads/click_nx.ads/www.modernhealthcare.com/pageId_57/13725306379@Left1,Left2,Right,Top,TopRight,BottomLeft,x21,x22,x23,x24!Top?)
+[](http://oascentral.modernhealthcare.com/RealMedia/ads/click_nx.ads/www.modernhealthcare.com/privacypolicy/index/15620892959@Top1,Right1,Left1,TopLeft,x21,x22,x23,x24!Left1?)
 
-Privacy Policy
+SEARCH
+
+EVENT CALENDAR
+
+  
+|  | 
+
+Privacy Policy and Rules
+
+**Overview**
 
 _Modernhealthcare.com_ is the Web site of _Modern Healthcare_ , a publication of Crain Communications Inc. Our postal address is 360 N. Michigan Avenue, Chicago, IL 60601. We can be reached by e-mail at _mheditorial@crain.com_ or by telephone at 312-649-3173. Your use of our Web site indicates to us that you have read and accepted our Privacy Policy and our Terms and Conditions. 
 
-We have developed this Privacy Policy to advise subscribers and users of our products about our possible uses of information collected by us and to inform you on how to modify your marketing preferences. This Privacy Policy is subject to change. When we make any material change to this Privacy Policy, we will inform you by posting a notice on the home page of this site and by changing the date on this page noting when the Privacy Policy was last updated.
+We have developed this Privacy Policy to advise subscribers and users of our products about our possible uses of information collected by us and to inform you on how to modify your marketing preferences. This Privacy Policy is subject to change. When we make any material change to this Privacy Policy, we will inform you by posting a notice on the home page of this site and by changing the date on this page noting when the Privacy Policy was last updated. 
+
+**Your information**
 
 When you subscribe, register, make purchases or at other times, we collect and store personally identifiable information from you that may include your name, postal and e-mail addresses, credit card information, facts about your profession, company and responsibilities and information regarding your computer system. For each visitor to this Web site, our web server may automatically attempt to identify the user through a cookie set within your browser. This is done to provide access to the site. From time to time we may also track information, in aggregate, on pages and features that users access or view. The activity is collected and stored in our server's log files. Our email alerts utilize tracking technology that allows us to see how many newsletter e-mails are opened and the e-mail address of users who have clicked on a given story, feature or advertisement. We use this information for internal purposes to measure the aggregate number of people who view a given newsletter item.
+
+**Cookies**
 
 We may also set cookies to your computer to allow subscribers and users to store login information, set personalization and navigate easily through the site. Additionally, through the use of an additional cookies or technology, we will have the ability to track users by their behavior profile and geographic location for the purpose of pushing advertising that matches their interests and/or specific location. We may conduct online surveys and contests or generate content that is presented by aggregating activity of users on the site. These surveys and contests are entirely voluntary and you may decline to participate. 
 
@@ -20,13 +33,23 @@ Information collected about subscribers and users may be used by us and our affi
 
 From time to time, we may make individual subscriber or user information available to carefully selected third parties to send you information through e-mail or postal mail about their products or services. If you prefer not to have your personal information disclosed to third parties for direct marketing purposes, please send an e-mail stating this preference and including your full name and e-mail address to _mheditorial@crain.com_ or, if you are a print subscriber, please call 1-800-678-9595. Also, during the registration process, a user can indicate on the registration form that he or she does not wish to receive such marketing materials. A user may change/correct his/her preferences or personal information at any time online or by contacting us at the above e-mail address or phone number. We retain the right to contact a subscriber or registered user regarding account status, orders for products or services, changes to the registration agreement or to enforce our subscription agreement. 
 
+This Web site is operated in the United States. If you are located in the European Union or elsewhere outside of the United States, please be aware that any information you provided to us will be transferred to the United States. By using our Web site, participating in any of our services and/or providing us with your information, you consent to this transfer. 
+
+**Removal**
+
 We will remove any registrant (and their personal information) from our database pursuant to a request from the registrant, including full name and e-mail address, to _mheditorial@crain.com_. You may not be able to fully access this Web site if you request removal of your personal information. 
 
-This Web site is operated in the United States. If you are located in the European Union or elsewhere outside of the United States, please be aware that any information you provided to us will be transferred to the United States. By using our Web site, participating in any of our services and/or providing us with your information, you consent to this transfer. 
+**Questions or Comments**
 
 If you have any questions or concerns about the substance or implementation of this Privacy Policy, please contact the Crain Communications Inc Legal Department at _privacyhelp@crain.com_ or 313-446-6000.
 
-Policy Last Updated: January 1, 2005   
+Policy Last Updated: January 1, 2005 
 
+|  |  | [](https://web.archive.org/apps/pbcs.dll/section?category=toc)  
+---  
+June 11, 2007  
+  
+  
+[](http://oascentral.modernhealthcare.com/RealMedia/ads/click_nx.ads/www.modernhealthcare.com/privacypolicy/index/15620892959@Top1,Right1,Left1,TopLeft,x21,x22,x23,x24!Right1?)
 
-| |  [](http://oas-central.realmedia.com/RealMedia/ads/click_nx.ads/www.modernhealthcare.com/pageId_57/13725306379@Left1,Left2,Right,Top,TopRight,BottomLeft,x21,x22,x23,x24!TopRight?)[](http://oas-central.realmedia.com/RealMedia/ads/click_nx.ads/www.modernhealthcare.com/pageId_57/13725306379@Left1,Left2,Right,Top,TopRight,BottomLeft,x21,x22,x23,x24!Right?)
+[](http://oascentral.modernhealthcare.com/RealMedia/ads/click_nx.ads/www.modernhealthcare.com/privacypolicy/index/15620892959@Top1,Right1,Left1,TopLeft,x21,x22,x23,x24!Right2?)
