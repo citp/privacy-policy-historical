@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polepositionmarketing.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231120739id_/http%3A//www.polepositionmarketing.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polepositionmarketing.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618021443id_/http%3A//www.polepositionmarketing.com/privacy.php) for the most accurate reproduction.*
 
 # Pole Position Marketing Privacy Policy
 
@@ -84,25 +84,3 @@ E-mail: info@polepositionmarketing.com
 If you think we have not followed our privacy policy in some way, it can be resolved in the following manner.
 
 Pole Position Marketing Customer Service 
-
-[ ](http://www.bbbonline.org/cks.asp?id=10406241255542076%20)
-
-[](http://www.polepositionmarketing.com/contact-us.php)
-
-  
-
-
-  
-
-
-### Testimonial
-
-The VP of a top SEO firm called me about a month ago to tell me that she had done a webposition on our site and was amazed at how much better the site was doing on the search engines. When I told her that indeed it had **improved greatly since I went with Pole Position Marketing** she said "Oh, you're not with us anymore? Well congratulations on the site improvement." (Click!) They use to use me as a reference and I have been recommending your company to the people that have called.
-
-[read more  
-stats & testimonials](http://www.polepositionmarketing.com/testimonials.php)
-
-[](http://www.emarketingperformance.com/)  
-Marketing Blog Headlines [Google-Mining](http://www.emarketingperformance.com/:/1038/search-engines/google/google-mining/) [The Lazy Week](http://www.emarketingperformance.com/:/1037/search-marketing/the-lazy-week/) [Just Added MyBlogLog to EMP](http://www.emarketingperformance.com/:/1035/search-marketing/just-added-mybloglog-to-emp/) [more...](http://www.emarketingperformance.com/)
-
-[](http://www.sherpastore.com/Buyers-Guides-SEO-PPC.html?8907)Featured in the 2007 Buyer's Guide to SEO & PPC Firms.
