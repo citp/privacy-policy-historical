@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poets.org privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205200013id_/http%3A//www.poets.org/page.php/prmID/340) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poets.org privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618062708id_/http%3A//www.poets.org/page.php/prmID/340) for the most accurate reproduction.*
 
 # Poets.org - Poetry, Poems, Bios & More - Privacy Policy Statement
 
