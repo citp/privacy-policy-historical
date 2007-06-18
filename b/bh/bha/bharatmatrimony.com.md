@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bharatmatrimony.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021153227id_/http%3A//www.bharatmatrimony.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bharatmatrimony.com privacy policy that was archived on 2007-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070619002848id_/http%3A//www.bharatmatrimony.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ We use a secure server for credit card transactions to protect the credit card i
 
 If you establish a credit account with us to pay the fees we charge, we collect some additional information, including a billing address, a credit card number and a credit card expiration date and tracking information from checks or money orders.
 
-* Bharatmatrimony collects information from our clients primarily to ensure that we are able to fulfill your requirements and to deliver personalized experience.
+* Bharatmatrimony collects information from our clients primarily to ensure that we are able to fulfill your requirements and to deliver Personalised experience.
 
 * The information collected from any of our clients is not shared with any individual or organization without the former�s approval.
 
