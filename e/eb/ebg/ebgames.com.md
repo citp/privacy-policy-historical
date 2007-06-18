@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ebgames.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016225035id_/http%3A//www.ebgames.com/gs/sites/eb/help/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebgames.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618105016id_/http%3A//www.ebgames.com/gs/sites/eb/help/privacypolicy.asp) for the most accurate reproduction.*
 
 # EBgames.com - Help Desk
 
-Last updated: March 24, 2006
+Last updated: January 9, 2007
 
 EBgames.com is aware of your concerns about use of your personal information. We attempt to use and share personal information that we collect online carefully and sensibly. This notice describes our privacy policy. By visiting EBgames.com, you are accepting the practices described in this privacy notice.
 
@@ -42,7 +42,11 @@ You can stop your computer from storing cookies if you want to. Most browsers wi
 
 **Sharing of Information**
 
-**Sharing with Third Parties.** We may share customer information that we collect with third parties. Usually, this information will be shared with a third party that has relationship with us as a business partner or marketing partner. (See information on Third Party Relationships below.) Also, we may use the information that you provide us, or that we collect about you, in connection with the promotion of our products and services and those of our affiliates. It is not our policy to sell or rent lists of our website customers to unaffiliated third parties.
+**Tournaments:** If you register for tournaments on EBgames.com, we may share your registration data with the tournament host and they may use it for internal tracking and analytics. For instance, if you give us your Xbox Live Gamertag for a Microsoft tournament, Microsoft will use that information for internal research. **
+
+Sharing with Third Parties.
+
+** We may share customer information that we collect with third parties. Usually, this information will be shared with a third party that has relationship with us as a business partner or marketing partner. (See information on Third Party Relationships below.) Also, we may use the information that you provide us, or that we collect about you, in connection with the promotion of our products and services and those of our affiliates. It is not our policy to sell or rent lists of our website customers to unaffiliated third parties.
 
 **Sharing with our Contractors.** We also may employ other companies and individuals to perform functions on our behalf. Examples include order fulfillment, package delivery, postal mail and e-mail communications, customer lists management, data analysis, marketing assistance, credit card processing, and customer relationship management. These companies and individuals have access to personal information needed to perform their functions, but they are not permitted to use such information for other purposes without our permission.
 
@@ -112,7 +116,7 @@ As is the case with any business, our business changes over time, and our privac
 
 **Related Practices and Information**
 
-Terms and Conditions of Use may be found by [clicking here.](https://web.archive.org/web/20061016225035id_/http%3A//www.ebgames.com/gs/sites/eb/help/ConditionsofUse.asp)
+Terms and Conditions of Use may be found by [clicking here.](https://web.archive.org/web/20070618105016id_/http://www.ebgames.com/gs/sites/eb/help/ConditionsofUse.asp)
 
 **Still Have a Question?**
 
