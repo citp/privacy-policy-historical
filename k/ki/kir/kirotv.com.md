@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kirotv.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205225724id_/http%3A//www.kirotv.com/station/1873436/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kirotv.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618054923id_/http%3A//www.kirotv.com/station/1873436/detail.html) for the most accurate reproduction.*
 
-# Privacy Policy - KIRO-TV - KIROTV.com | KIRO
+# Privacy Policy - KIRO-TV News Story - KIRO Seattle
 
 Effective date: 1/10/03 
 
