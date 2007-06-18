@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the zoomerang.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213013033id_/http%3A//info.zoomerang.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoomerang.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618060937id_/http%3A//info.zoomerang.com/privacy.htm) for the most accurate reproduction.*
 
 # Zoomerang Online Survey Software - Privacy Policy
 
 [](http://www.truste.org/ivalidate.php?url=www.zoomerang.com&sealid=102)
 
-Updated November 27, 2006  
+Updated December 27, 2006
+
 Your privacy is important to us. MarketTools, Inc., through our Zoomerang service, has created this Privacy Policy to let you know what information we collect when you visit our www.zoomerang.com site, why we collect it and how it is used.
 
 In Part II of this policy, the term "you" refers to the User utilizing our www.zoomerang.com site; in Part I of this policy, the term "you" refers to the person receiving or responding to a User’s survey ("Survey Respondent"). "Users" are users of the Zoomerang service who register to build and deploy surveys and who from time to time might purchase other services offered by Zoomerang. The terms "MarketTools," "Zoomerang," and "we" refer to MarketTools, Inc. This Privacy Policy is governed by our [Terms of Use](http://info.zoomerang.com/terms.htm). By using this web site, you consent to the data practices described in this policy.
@@ -15,13 +16,13 @@ Please be aware that this Privacy Policy and the choices you make on this web si
 
 [MarketTools, Inc.](http://www.markettools.com/) is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [www.zoomerang.com](http://www.zoomerang.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact Zoomerang at [info@zoomerang.com](mailto:info@zoomerang.com) or write to Zoomerang, 150 Spear Street, Suite 600, San Francisco, CA 94105. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact Zoomerang at [privacy@zoomerang.com](mailto:privacy@zoomerang.com) or write to Zoomerang, 150 Spear Street, Suite 600, San Francisco, CA 94105. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 This site complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union.
 
 #### What is Zoomerang?
 
-Zoomerang is a survey clearinghouse that that enables our Users to create surveys and questionnaires for distribution to Survey Respondents. Zoomerang is committed to its policy of protecting the privacy and confidential information of our Users, as described in Part II of this policy. We also protect the privacy of Survey Respondents (other than [ZoomPanelists](https://web.archive.org/web/20061213013033id_/http%3A//prodserv/sample/panelists.htm)) as described in Part I of this policy. Part II of our Privacy Policy applies only to our Users, who are subscribers to our Zoomerang service. [MarketTools’](http://www.markettools.com/) privacy practices related to [ZoomPanel members](http://www.zoompanel.com/) are described in the [Zoompanel.com privacy policy](http://www.zoompanel.com/privacy.html), not in this Privacy Policy.
+Zoomerang is a survey clearinghouse that that enables our Users to create surveys and questionnaires for distribution to Survey Respondents. Zoomerang is committed to its policy of protecting the privacy and confidential information of our Users, as described in Part II of this policy. We also protect the privacy of Survey Respondents (other than [ZoomPanelists](https://web.archive.org/web/20070618060937id_/http%3A//prodserv/sample/panelists.htm)) as described in Part I of this policy. Part II of our Privacy Policy applies only to our Users, who are subscribers to our Zoomerang service. [MarketTools’](http://www.markettools.com/) privacy practices related to [ZoomPanel members](http://www.zoompanel.com/) are described in the [Zoompanel.com privacy policy](http://www.zoompanel.com/privacy.asp), not in this Privacy Policy.
 
 #### Part I. Survey Respondents
 
@@ -88,4 +89,4 @@ Please be aware that some of the Web sites you may choose to link to from our si
 If changes are made to this policy, we will notify you of the changes and post a notice on our site directing you to the modified policy. Please review this site periodically to keep informed of our most current privacy policy. As always, if you do not agree with our Privacy Policy or any changes to it, you should cease using this site. If you continue to use this site after we have posted a notice that changes have been made to this policy, you will be deemed to have accepted those changes. 
 
 **Contacting Zoomerang**  
-If you have questions regarding this Privacy Policy, please contact Zoomerang at [info@zoomerang.com](mailto:info@zoomerang.com) or Zoomerang, 150 Spear Street, Suite 600 San Francisco, CA 94105.
+If you have questions regarding this Privacy Policy, please contact Zoomerang at [privacy@zoomerang.com](mailto:privacy@zoomerang.com) or Zoomerang, 150 Spear Street, Suite 600 San Francisco, CA 94105.
