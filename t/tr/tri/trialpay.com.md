@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the trialpay.com privacy policy that was archived on 2006-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060826145317id_/http%3A//trialpay.com/index.php/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trialpay.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618095508id_/http%3A//www.trialpay.com/info/privacypolicy) for the most accurate reproduction.*
 
-# TrialPay | Help
+# TrialPay Privacy Policy
 
-**TrialPay Privacy Policy**  
+## TrialPay Privacy Policy
+
 TrialPay takes your privacy seriously. This Privacy Policy is designed to assist you in understanding how we collect and use personal information such as your name and email address. We hope that this will help you to make informed decisions when using our services.
 
 What this policy covers  
@@ -27,7 +28,7 @@ TrialPay automatically receives and records information on our server logs from 
 TrialPay uses information for the following general purposes: to customize the advertising and content you see, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. 
 
 **Children**  
-This site is not aimed to attract children and its objective is not to collect personal information from children. Anyone under the age of 18 should not use this site unless supervised by an adult. Digital River’s goal is to comply with applicable laws and regulations relating to collection and use of information from children, including the Children’s On-line Privacy Protection Act of the United States.
+This site is not aimed to attract children and its objective is not to collect personal information from children. Anyone under the age of 18 should not use this site unless supervised by an adult. TrialPay’s goal is to comply with applicable laws and regulations relating to collection and use of information from children, including the Children’s On-line Privacy Protection Act of the United States.
 
 **Information Sharing and Disclosure**  
 TrialPay does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
@@ -70,4 +71,4 @@ TrialPay displays targeted offers based on personal information. Advertisers may
 **Contact Us**  
 TrialPay may update this policy at any time. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your TrialPay account or by placing a prominent notice on our site. 
 
-If you have any questions about this Privacy Policy, please email us at generalsupport AT trialpay.com or write to us at Privacy Concerns, c/o TrialPay Inc., 1735 Technology Drive, Suite 830, San Jose, CA 95110. 
+If you have any questions about this Privacy Policy, please email us at generalsupport@trialpay.com or write to us at Privacy Concerns, c/o TrialPay Inc., 650 Castro Street, Suite 270, Mountain View, CA 94041.
