@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dynamicbusiness.com.au privacy policy that was archived on 2006-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061129142430id_/http%3A//www.dynamicbusiness.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynamicbusiness.com.au privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618053641id_/http%3A//www.dynamicbusiness.com.au/privacy.php) for the most accurate reproduction.*
 
 # DBC-web site design, ebusiness application development, flash design, web consulting, web content management, corporate web site design, ebusiness consultant, web site usability, web programming, web design brisbane, cdrom,dvd,extranet
 
@@ -45,12 +45,12 @@ If you have any questions about this privacy policy, any privacy related dealing
 
 Wernher Pramschufer  
 Dynamic Busisness Communications Pty Limited   
-21, Botticelli St  
-Fig Tree Pocket  
-BRISBANE QLD 4069
+15, Hindmarsh Place, Westlake  
+BRISBANE QLD 74
 
-Phone 07 3378 1766  
+Phone 07 3376 0333
+
 Fax   07 3878 9573
 
-Email: [info@dynamicbusiness.com.au](mailto:info@dynamicbusiness.com.au)  
+Email: [wernher@dynamicbusiness.com.au](mailto:iwernher@dynamicbusiness.com.au)  
 
