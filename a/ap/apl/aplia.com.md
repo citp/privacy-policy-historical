@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the aplia.com privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622180042id_/http%3A//aplia.com/support/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aplia.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618103854id_/http%3A//aplia.com/support/privacy.jsp) for the most accurate reproduction.*
 
-# Aplia: Privacy Notice
+# Aplia: Technology Supporting the Econ and Finance Classroom: Aplia Privacy Notice
+
+Aplia Privacy Notice
 
 Your privacy is important to us. To better protect your privacy, we provide this notice explaining our current online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage. 
 
 What We Will NOT Do With Your Personal Information  
 Aplia will NOT do the following with your personal information: 
 
-  * We will NOT sell your personal information, such as your name, email address or street address, to third parties. 
-  * We will NOT use your email address to send you marketing materials. 
+  * We will NOT sell your personal information, such as your name, email address or street address, to third parties.
+  * We will NOT use your email address to send you marketing materials.
 
   
 When We Collect Your Personal Information  
@@ -19,7 +21,7 @@ When you purchase a product or service, we collect your contact information (suc
 When you enroll in a course, we may ask you to provide your student identification number for that course. We only ask for your student ID when your teacher has instructed us to do so. You have the option to not provide your student ID; however, not providing it may affect your teacher's ability to determine your grades. 
 
 Why We Need Your Personal Information  
-Your personal information is used only for the following purposes: 
+Your personal information is used **only** for the following purposes: 
 
   * Your email address and password will be used to identify you as an authorized user of our services.
   * Your name may be used to identify you when you participate in an Aplia multi-user interactive experiment, simulation, chat session, email exchange or bulletin board. 
