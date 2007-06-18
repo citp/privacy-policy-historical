@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadwaybox.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206195652id_/http%3A//broadwaybox.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadwaybox.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618101954id_/http%3A//www.broadwaybox.com/privacy.aspx) for the most accurate reproduction.*
 
 # BroadwayBox.com free Broadway discount codes : Broadway
 
