@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asp.net privacy policy that was archived on 2006-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061130112741id_/http%3A//www.asp.net/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asp.net privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618153307id_/http%3A//www.asp.net/privacy.aspx) for the most accurate reproduction.*
 
 # Home : The Official Microsoft ASP.NET 2.0 Site : English
 
