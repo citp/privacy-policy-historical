@@ -1,28 +1,26 @@
-<!--The following is the downloaded HTML source of the connexion.org privacy policy that was archived on 2006-08-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060826064501id_/http%3A//www.connexion.org/privacypolicy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the connexion.org privacy policy that was archived on 2007-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070618125519id_/http%3A//www.connexion.org/privacypolicy.cfm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en"><html><head>
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en"><html><!-- google_ad_section_start(weight=ignore) --><head>
 
-		<link rel="shortcut icon" href="http://image1.connexion.org/membertype1/icon1.ico" type="image/x-icon">
-		<link rel="icon" href="http://image1.connexion.org/membertype1/icon1.ico" type="image/x-icon">
-	
+	<link rel="shortcut icon" href="http://image1.connexion.org/membertype1/icon1.ico" type="image/x-icon">
+	<link rel="icon" href="http://image1.connexion.org/membertype1/icon1.ico" type="image/x-icon">
+
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
 <title>Privacy Policy</title>
 
-	<meta http-equiv="Description" name="Description" content="Connexion is a place for friends to meet.">
+<meta http-equiv="Description" name="Description" content="Connexion is a place for friends to meet.">
 
-	<link rel="stylesheet" href="http://image1.connexion.org/skin1/style2.css?ver=27">
-	<script src="http://image1.connexion.org/js.js">
+	<link rel="stylesheet" href="http://image1.connexion.org/skin1/style.css?ver=115">
+	<script src="http://image1.connexion.org/js.js?ver=2">
 
 </head>
 
-<script language=javascript>
-
+	
+	<script language=javascript>
 	if (window != top) top.location.href = location.href
-
-</script>
-
+	</script>
 
 
 <script language="JavaScript">
@@ -30,12 +28,15 @@ function myonload() {
 
 }
 
+	var revalidation = 0;
+	var memberid = 0;
+	var imwindowwidth = 360;
+	var imwindowheight = 440;
 	function viewfullsize(id,photoid,ps,titletype,width,height) {
-		var thewindow = window.open('viewfullsize.cfm?id='+id+'&photoid='+photoid+'&ps='+ps+'&titletype='+titletype+'&w='+width+'&h='+height+'&revalidation=0','VFS'+Math.floor(Math.random()*1000000),
+		var thewindow = window.open('viewfullsize.cfm?id='+id+'&photoid='+photoid+'&ps='+ps+'&titletype='+titletype+'&w='+width+'&h='+height,'VFS'+Math.floor(Math.random()*1000000),
 			'width='+width+',height='+height+',resizable=no,scrollbars=no');
 		thewindow.focus();
 	}
-	
 	function myconfirm(message,url) {
 		if (confirm(message)) window.location = url;
 	}
@@ -45,13 +46,13 @@ function myonload() {
 	}
 	
 	function startic(id) {
-		window.open('ic.cfm?strDestinationMemberID='+id+'&start=1&revalidation=0','ICWindow_0_'+id,
+		window.open('ic.cfm?strDestinationMemberID='+id+'&start=1&revalidation='+revalidation,'ICWindow_'+memberid+'_'+id,
 			'width=360,height=440,toolbar=0,directories=0,menubar=0,status=0,location=0,scrollbars=0,resizable=0');
 	}
 	function openic(id) {
 		var thewindow;
 		
-		thewindow = window.open('ic.cfm?strDestinationMemberID='+id+'&start=0&revalidation=0','ICWindow_0_'+id,
+		thewindow = window.open('ic.cfm?strDestinationMemberID='+id+'&start=0&revalidation='+revalidation,'ICWindow_'+memberid+'_'+id,
 			'width=360,height=440,toolbar=0,directories=0,menubar=0,status=0,location=0,scrollbars=0,resizable=0');
 		if (thewindow == null) {
 			if (confirm("Your popup blocker stopped an Instant Connexion window from opening.\nPlease disable it and then click 'OK'.")) {
@@ -60,6 +61,25 @@ function myonload() {
 		}
 	}
 	
+	function handlemsg(msg) {
+		if (msg.substring(0,2) == '0,') {
+			msg = msg.substring(2,msg.length);
+			alert(msg);
+		}
+		else if (msg.substring(0,2) == '1,') {
+			msg = msg.substring(2,msg.length);
+			theimg = document.getElementById("msgtab");
+			newsrc = theimg.src.replace("nav_messages_o","nav_messages_new_o");
+			if (theimg.src != newsrc) theimg.src = newsrc;
+			document.getElementById("newmsgid").innerHTML = msg;
+			
+		}
+		else if (msg.substring(0,3) == '99,') eval(msg.substring(3,msg.length));
+		else alert("Unknown msg: "+msg);
+	}
+	function handlesnd(snd) {
+		frames.playframe.location.href = "playsound.cfm?thesnd="+snd;
+	}
 	function openfriends() {
 		window.open('friendsonline.cfm','friendsonline',
 			'width=307,height=400,toolbar=0,directories=0,menubar=0,status=0,location=0,resizable=1');
@@ -67,57 +87,94 @@ function myonload() {
 	function opentip(url,w,h) {
 		if (url.indexOf("?") >= 0) url = url+"&";
 		else url = url+"?";
-		url = url+"revalidation=0&pane=1&paneheader=1&panewidth="+w;
+		url = url+"revalidation="+revalidation+"&pane=1&paneheader=1&panewidth="+w;
+		window.open(url,null,"screenx=30,screeny=30,top=30,left=30,width="+w+",height="+h+",toolbar=0,directories=0,menubar=0,status=0,location=0,scrollbars=0,resizable=0");
+	}
+	function opentip(url,w,h) {
+		if (url.indexOf("?") >= 0) url = url+"&";
+		else url = url+"?";
+		url = url+"revalidation="+revalidation+"&pane=1&paneheader=1&panewidth="+w;
 		window.open(url,null,"screenx=30,screeny=30,top=30,left=30,width="+w+",height="+h+",toolbar=0,directories=0,menubar=0,status=0,location=0,scrollbars=0,resizable=0");
 	}
 	function openwhatsthis(url,w,h) {
 		if (url.indexOf("?") >= 0) url = url+"&";
 		else url = url+"?";
-		url = url+"revalidation=0&pane=1&paneheader=2&panewidth="+w;
+		url = url+"revalidation="+revalidation+"&pane=1&paneheader=2&panewidth="+w;
 		window.open(url,null,"screenx=30,screeny=30,top=30,left=30,width="+w+",height="+h+",toolbar=0,directories=0,menubar=0,status=0,location=0,scrollbars=0,resizable=0");
 	}
 	function opencertified(url,w,h) {
 		if (url.indexOf("?") >= 0) url = url+"&";
 		else url = url+"?";
-		url = url+"revalidation=0&pane=1&paneheader=3&panewidth="+w;
+		url = url+"revalidation="+revalidation+"&pane=1&paneheader=3&panewidth="+w;
 		window.open(url,null,"screenx=30,screeny=30,top=30,left=30,width="+w+",height="+h+",toolbar=0,directories=0,menubar=0,status=0,location=0,scrollbars=0,resizable=0");
 	}
 	function openprofilepane(id) {
-		var thewindow = window.open('viewprofile.cfm?id='+id+'&pane=1&revalidation=0','VPR'+Math.floor(Math.random()*1000000),
+		var thewindow = window.open('viewprofile.cfm?id='+id+'&pane=1&revalidation='+revalidation,'VPR'+Math.floor(Math.random()*1000000),
 			'width=610,height=400');
 		thewindow.focus();
 	}
 
 </script>
 </head><body topmargin="0" leftmargin="0" onload="myonload()" bgcolor="#ffffff">
-<!-- google_ad_section_start(weight=ignore) -->
 
+	
 <table align="left" border="0" cellpadding="0" cellspacing="0">
+
 <tbody><tr>
 <td colspan="2">
 	
 		<table align="left" border="0" cellpadding="0" cellspacing="0">
 		<tbody><tr>
 		<td width="770" height="60" colspan="2" valign="middle">
-			<table width="100%" align="left" border="0" cellspacing="0" cellpadding="0">
+			<table class="datat2" width="100%">
 			<tbody><tr>
 				
 					
 					<td valign="middle" align="left"><a href="/"><img src="http://image1.connexion.org/membertype1/logo1.gif" border="0"></a></td>
 					
-					<td><img src="http://image1.connexion.org/membertype1/banner1.gif"></td>
+					<td height="60"><!-- Begin Adify tag for "Top Banner" Ad Space (468x60) ID #932407 -->
+<script type="text/javascript">
+<!--
+	sr_adspace_id = 932407;
+	sr_adspace_width = 468;
+	sr_adspace_height = 60;
+	sr_adspace_type = "graphic";
+sr_color_back = "#FFFFFF"
+sr_color_text = "#000000"
+sr_color_url = "#008000"
+sr_color_title = "#000000"
+sr_color_border = "#336699"
+sr_color_your_ad = "#0000FF"
+sr_color_your_adbk = "#FFFFFF"
+	sr_text_your_ad = "";
+	sr_ad_new_window = true;
+-->
+</script>
+<script type="text/javascript" src="http://ad.afy11.net/srad.js?azId=932407">
+</script>
+<script type="text/javascript">srExecute();</script>
+<!-- End Adify tag for "Top Banner" Ad Space (468x60) ID #932407 -->
+</td>
 					
 			</tr></tbody></table></td></tr>
 		
 			<tr>
 			<td colspan="2" valign="middle">
-				<table align="left" border="0" cellspacing="0" cellpadding="0" width="770">
+				<table class="datat2" width="770">
 				<tbody><tr>	
-				<td><img src="http://image1.connexion.org/skin1/nav_home_on.gif" width="62"></td><td><a href="news.cfm"><img src="http://image1.connexion.org/skin1/nav_news_off.gif" width="51"></a></td><td><a href="search.cfm"><img src="http://image1.connexion.org/skin1/nav_search_off.gif" width="64"></a></td><td><a href="messages.cfm"><img src="http://image1.connexion.org/skin1/nav_messages_off.gif" width="76"></a></td><td><a href="chat.cfm"><img src="http://image1.connexion.org/skin1/nav_chat_off.gif" width="48"></a></td><td><a href="eventcalendar.cfm"><img src="http://image1.connexion.org/skin1/nav_calendar_off.gif" width="78"></a></td><td width="100%"><img src="http://image1.connexion.org/skin1/nav_blank.gif" height="22" width="100%"></td>
+				<td><a href="index.cfm"><img src="http://image1.connexion.org/skin1/nav_home_on.gif" height="22" width="62"></a></td><td><a href="news.cfm"><img src="http://image1.connexion.org/skin1/nav_news_off.gif" height="22" width="51"></a></td><td><a href="search.cfm"><img src="http://image1.connexion.org/skin1/nav_search_off.gif" height="22" width="64"></a></td><td><a href="messages.cfm"><img id="msgtab" src="http://image1.connexion.org/skin1/nav_messages_off.gif" height="22" width="76"></a></td><td><a href="whosonlinephotos.cfm"><img src="http://image1.connexion.org/skin1/nav_chat_off.gif" height="22" width="48"></a></td><td><a href="eventcalendar.cfm"><img src="http://image1.connexion.org/skin1/nav_calendar_off.gif" height="22" width="78"></a></td><td width="100%"><img src="http://image1.connexion.org/skin1/nav_blank.gif" height="22" width="100%"></td>
 				</tr></tbody></table>
 			</td></tr><tr>
 			
-				<td class="sm" colspan="2" height="4">
+				<td class="sm" width="150">
+				</td><td class="sm" width="620">
+					
+					<table class="datat2" width="100%">
+					<tbody><tr>
+					<td>
+						<div id="newmsgid" style="text-align: left">&nbsp;</div>
+						
+					</td></tr></tbody></table>
 			
 		</td></tr></tbody></table>
 	
@@ -125,7 +182,7 @@ function myonload() {
 
 	<td class="sm" align="left" width="150" height="340" valign="top">
 		
-		<p><br>
+		<p>
 		<a href="/index.cfm"><img src="http://image1.connexion.org/skin1/sml_square_off.gif" border="0" hspace="3">Welcome</a><br>
 <a href="/editprofile.cfm"><img src="http://image1.connexion.org/skin1/triangle_off.gif" border="0" hspace="3">My Profile</a><br>
 <a href="/viewinvitations.cfm"><img src="http://image1.connexion.org/skin1/sml_square_off.gif" border="0" hspace="3">View Invitations</a><br>
@@ -145,15 +202,15 @@ function myonload() {
 
 	</td><td width="620" align="center" valign="top">
 
-			<div class="st">Privacy Policy</div>
-		
 		<table width="600" border="0" cellpadding="0" cellspacing="0" align="center">
 	
-	<tbody><tr>
-	<td class="cont" align="left">
-
-<!-- google_ad_section_end -->
-
+			<tbody><tr>
+			<td class="st" style="text-align: center">
+				Privacy Policy 
+		</td></tr><tr>
+		<td class="cont" align="left">
+	
+<!-- google_ad_section_end --> 
 <span class="headline"><b>Connexion Privacy Policy</b></span><br>
 <p>Connexion does not send SPAM or sell or rent email addresses!</p>
 
@@ -244,7 +301,7 @@ to contact us.</p>
 		</tr><tr>
 		<td class="bm" colspan="3" align="center">
 			<p><br>
-			<a href="index.cfm">Home</a> | <a href="news.cfm">News</a> | <a href="search.cfm">Search</a> | <a href="messages.cfm">Messages</a> | <a href="chat.cfm">Chat</a> | <a href="eventcalendar.cfm">Calendar</a><br><a href="join.cfm">Join</a> | <a href="help.cfm?s=home">Help</a> | <a href="contactus.cfm">Contact Us</a> | <a href="termsofservice.cfm">Terms of Service</a> | <a href="privacypolicy.cfm">Privacy</a> | <a href="sitemap.cfm">Site Map</a> 
+			<a href="join.cfm">Join</a> | <a href="help.cfm?s=home">Help</a> | <a href="contactus.cfm">Contact Us</a> | <a href="termsofservice.cfm">Terms of Service</a> | <a href="privacypolicy.cfm">Privacy</a> | <a href="sitemap.cfm">Site Map</a> 
 			<br>&nbsp;</p>
 	
 	</td></tr><tr>
@@ -252,13 +309,41 @@ to contact us.</p>
 	</tr><tr>
 	<td class="bm" colspan="3" align="center">
 		<p><br>
-		Site design by Connexion.<br>
-		Copyright © 2003-2005 Connexion. All rights reserved.</p>
-		
+		Copyright © 2003-2007 Connexion. All rights reserved.</p>
 		
 	</td></tr></tbody></table><br>
 
 <!-- google_ad_section_end -->
+
+
+
+	<script type="text/javascript">
+	qlytics_clientid = 1;
+	qlytics_siteid = 1;
+	qlytics_adspaceid = 0;
+	qlytics_gender = '';
+	
+	qlytics_orientation = '?';
+	qlytics_country = 'US';
+	qlytics_state = '';
+	qlytics_postalcode = '';
+	</script>
+	<script src="http://www.qlytics.com/qlytics/saveanalytics.js?v=2" type="text/javascript">
+	</script>
+	<script type="text/javascript">
+	qlytics_clientid = 1;
+	qlytics_siteid = 1;
+	qlytics_adspaceid = 1;
+	qlytics_gender = '';
+	
+	qlytics_orientation = '?';
+	qlytics_country = 'US';
+	qlytics_state = '';
+	qlytics_postalcode = '';
+	</script>
+	<script src="http://www.qlytics.com/qlytics/saveanalytics.js?v=2" type="text/javascript">
+	</script>
+
 
 
 </body></html>
