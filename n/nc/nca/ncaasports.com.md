@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncaasports.com privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114042611id_/http%3A//www.ncaasports.com/story/arc_story/11829) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncaasports.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618110058id_/http%3A//www.ncaasports.com/story/arc_story/11829) for the most accurate reproduction.*
 
 # - NCAA Sports.com
 
