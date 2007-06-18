@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the mygeek.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219042924id_/http%3A//www.adonnetwork.com/public/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygeek.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618023143id_/http%3A//www.adonnetwork.com/public/privacy_policy.jsp) for the most accurate reproduction.*
 
 # AdOn Network - About AdOn Network: Privacy Policy
 
-  |  |   | Please note that the Privacy Policy has changed as of 8/15/2006.
+  |  |   | 
+
+#### Privacy Policy
+
+Please note that the Privacy Policy has changed as of 8/15/2006.
 
 MyGeek Inc., is doing business as AdOn Network.
 
