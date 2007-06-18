@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pcpitstop.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205205039id_/http%3A//www.pcpitstop.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcpitstop.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618231843id_/http%3A//pcpitstop.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Last Amended:** May 16, 2003
+**Last Amended:** January 22, 2007
 
 Effective March 1, 2000 
 
@@ -33,6 +33,7 @@ Your privacy is important to us. By participating in the Council of Better Busin
   * System name, Windows version, and browser type; 
   * System status such as CPU load and available disk space; 
   * Programs running during testing. 
+  * Software installed on your PC. 
 
 
 
