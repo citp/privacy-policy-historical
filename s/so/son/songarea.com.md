@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the songarea.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215113317id_/http%3A//www.songarea.com/info.php%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the songarea.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618091718id_/http%3A//www.songarea.com/info.php%3Fprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
