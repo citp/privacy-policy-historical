@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the smcorp.com privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229225746id_/http%3A//www.smcorp.com/weborder/smc_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smcorp.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618032759id_/http%3A//smcorp.com/weborder/smc_privacy.htm) for the most accurate reproduction.*
 
 # 
-
-**SMC® Privacy Policy**
 
 Specialty Merchandise Corporation (SMC) takes privacy matters seriously.  Please read the following to learn more about our privacy policy. 
 
@@ -45,7 +43,7 @@ Specialty Merchandise Corporation (SMC) takes privacy matters seriously.  Pleas
     * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; 
     * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of SMC's Standard Membership Rules, terms of use, or as otherwise required or permitted by law. 
     * We transfer information about you if SMC is acquired by or merged with another company. 
-  * SMC may employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. They may have access to personal information about you needed to perform their functions. 
+  * SMC may employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, processing credit card account payments, providing collection services, and providing customer service. They may have access to personal information about you needed to perform their functions. 
   * SMC works with vendors, partners, advertisers, and other service providers in different industries and categories of business. 
   * We reserve the right to send you certain communications relating to the SMC service, such as service announcements and administrative messages, that are considered part of your SMC membership, without offering you the opportunity to opt-out of receiving them. 
 
@@ -95,6 +93,4 @@ Simi Valley, CA 93065
 
 (805) 578-5500
 
-[smcsupport.smcorp.com](http://smcsupport.smcorp.com/)
-
-(Updated 9/25/2006)
+Members only at [http://smcsupport.smcorp.com](http://smcsupport.smcorp.com/)
