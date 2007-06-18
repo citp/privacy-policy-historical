@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weblog.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206142317id_/http%3A//www.weblog.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weblog.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618122205id_/http%3A//www.weblog.com/privacy.aspx) for the most accurate reproduction.*
 
 # WebLog.com: Privacy Policy
 
