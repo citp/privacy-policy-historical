@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1shoppingcart.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205200031id_/http%3A//www.1shoppingcart.com/shopping-cart-terms-privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1shoppingcart.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618092151id_/http%3A//www.1shoppingcart.com/shopping-cart-terms-privacy.asp) for the most accurate reproduction.*
 
 # Shopping Cart Software - 1ShoppingCart.com - Helping You Succeed Online!
 
