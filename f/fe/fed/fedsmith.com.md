@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the fedsmith.com privacy policy that was archived on 2006-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061028172825id_/http%3A//www.fedsmith.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fedsmith.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618235010id_/http%3A//www.fedsmith.com/about/privacy.php) for the most accurate reproduction.*
 
-# FedSmith.com: Privacy Policy
-
-FedSmith Inc. Privacy Policy
+# Privacy Policy
 
 FedSmith Inc. is committed to our readers' privacy. We handle information submitted to us from our readers with care. By visiting and using the FedSmith Inc. Web site, you agree to the terms stated in this privacy policy.
 
-FedSmith Inc. will collect personal information from our readers from time to time. Examples of personal information that FedSmith Inc. collects includes names, email addresses, agencies, and titles of our readers. This information is collected at different times through forms on our web site, such as when users sign up for [My FedSmith.com](https://web.archive.org/myfedsmith) or for our mailing list. 
+FedSmith Inc. will collect personal information from our readers from time to time. Examples of personal information that FedSmith Inc. collects includes names, email addresses, agencies, and titles of our readers. This information is collected at different times through forms on our web site, such as when users sign up for our mailing list. 
 
 No. FedSmith Inc. does not disclose the personal information of our readers to another party. We do not rent or sell our mailing list to other businesses or individuals. We securely store and use your personal information solely for correspondence between us and our readers.
 
