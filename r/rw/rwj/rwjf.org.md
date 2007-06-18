@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rwjf.org privacy policy that was archived on 2006-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061005084713id_/http%3A//rwjf.org/policies/privacy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rwjf.org privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618043044id_/http%3A//www.rwjf.org/policies/privacy.jhtml) for the most accurate reproduction.*
 
 # RWJF - Web Policies - Privacy Statement
 
