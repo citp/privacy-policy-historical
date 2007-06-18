@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the naplesnews.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217121633id_/http%3A//www.naplesnews.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naplesnews.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618160803id_/http%3A//www.naplesnews.com/about/privacy_policy) for the most accurate reproduction.*
 
-# naplesnews.com Privacy Policy | naplesnews.com | Naples Daily News
+# naplesnews.com Privacy Policy
 
-The Naples Daily News and NDN Productions are committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the Web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At naplesnews.com and bonitanews.com we intend to give you as much control as possible over your personal information.
+The Naples Daily News and the multimedia division of the Naples Daily News are committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the Web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At naplesnews.com and bonitanews.com we intend to give you as much control as possible over your personal information.
 
 The purpose of our policy is to inform you about the types of information we gather about you when you visit our sites, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information.
 
@@ -34,14 +34,14 @@ We may perform statistical analyses of aggregate reader behavior. This allows us
 We do not share personal identifying information with any third party without your permission. We disclose only in aggregate form our statistical analyses or demographics of users to third parties, such as advertisers or other business partners. In some instances, we operate shared Web sites with businesses affiliated with us. Our privacy policy will apply to these Web sites, and our affiliates adhere to our privacy policy and will not share personal information with any third party without your permission. PLEASE BE AWARE that when you voluntarily disclose personal information (such as your name, e-mail address) in blogs, chat areas or bulletin boards to third parties, that information may be collected by others outside the control of us and may result in unsolicited messages from others.
 
 **IV. Accuracy of Reader Information**  
-In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to Rob Curley, Director of New Media at [rob@robcurley.com](mailto:rob@robcurley.com), or you can reach us by telephone at (239) 453-3473. You can also write us at:
+In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to Site Manager Chris Silk at [cwsilk@naplesnews.com](mailto:cwsilk@naplesnews.com), or you can reach us by telephone at (239) 435-3442. You can also write us at:
 
-Rob Curley c/o:  
-Naples Daily News/NDN Productions  
+Chris Silk c/o:  
+Naples Daily News/Multimedia  
 1075 Central Avenue  
 Naples, FL 34102
 
-These privacy policies were first effective on this site as of August 15, 1998, and were updated on Jan. 2, 2006. We reserve the right to change this policy at any time, and will post any changes to this policy as soon as they go into effect.
+These privacy policies were first effective on this site as of August 15, 1998, and were updated on Jan. 2, 2006 and again on January 19, 2007. We reserve the right to change this policy at any time, and will post any changes to this policy as soon as they go into effect.
 
 **V. Security of Information**  
 We use our best efforts to ensure the security of personal information submitted by users. When collecting credit card information for online purchases, we offer secured-server transactions that encrypt your information in transit to thwart someone from intercepting it and misusing it. When we collect other information from our users, it is stored in an area where the general public does not have access to it.
@@ -50,4 +50,4 @@ We use our best efforts to ensure the security of personal information submitted
 At any time while assessing our sites, any reader while online may "opt-out" of further e-mail contact from us (while still allowing access to our sites). For further information about opting-out, contact us at the e-mail address, postal address or telephone number stated above.
 
 **VII. Use of Materials**  
-The right to download and store or output the materials in our sites is granted for the reader's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at [editor@naplesnews.com](mailto:editor@naplesnews.com). To read the full Terms of Use Agreement pertaining to use of our sites, please [click here](https://web.archive.org/about/user_agreement/).
+The right to download and store or output the materials in our sites is granted for the reader's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact Naples Daily News editor Phil Lewis at [pplewis@naplesnews.com](mailto:pplewis@naplesnews.com). To read the full Terms of Use Agreement pertaining to use of our sites, please [click here](https://web.archive.org/about/user_agreement/).
