@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mhric.org privacy policy that was archived on 2006-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060930023402id_/http%3A//www.mhric.org/inform/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mhric.org privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618231319id_/http%3A//www.mhric.org/inform/privacy.html) for the most accurate reproduction.*
 
 # Your Privacy
 
