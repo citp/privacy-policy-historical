@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the amsterdamprinting.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208033128id_/http%3A//www.amsterdamprinting.com/Default.aspx%3FFocusId%3Dprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amsterdamprinting.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618174051id_/http%3A//www.amsterdamprinting.com/Default.aspx%3FFocusId%3Dprivacy.htm) for the most accurate reproduction.*
 
-# Amsterdam Printing features the latest in Promotional Products including Promotional Items and Personalized Pens
+# Amsterdam: Promotional Items | Promo Products | Imprinted Pens Customized Calendars | Personalized Products for your Business
 
 ### Our Privacy Policy
 
