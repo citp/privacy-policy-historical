@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the godsgirls.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215144631id_/http%3A//www.godsgirls.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godsgirls.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618060351id_/http%3A//www.godsgirls.com/privacy) for the most accurate reproduction.*
 
 # Gods Girls
 
 ---  
-[home](http://www.godsgirls.com/) | [ tour](http://www.godsgirls.com/site/tour/tour1/tour1.htm) | [news ](http://www.godsgirls.com/news) | [the girls](http://www.godsgirls.com/search/type/girl) | [ipod / video](http://www.godsgirls.com/ipod) | [read](http://www.godsgirls.com/read) | [the members](http://www.godsgirls.com/search/type/member) | [email](http://www.godsgirls.com/email) | [forums](http://www.godsgirls.com/forum) | [live chat](http://www.godsgirls.com/chat) |    
+[home](http://www.godsgirls.com/) | [ tour](http://www.godsgirls.com/site/tour/tour1/tour1.htm) | [news ](http://www.godsgirls.com/news) | [the girls](http://www.godsgirls.com/search/type/girl) | [galleries](http://www.godsgirls.com/gallery_list) | [ipod / video](http://www.godsgirls.com/ipod) | [read](http://www.godsgirls.com/read) | [the members](http://www.godsgirls.com/search/type/member) | [email](http://www.godsgirls.com/email) | [forums](http://www.godsgirls.com/forum) | [chat](http://www.godsgirls.com/chat) | [store](http://www.merchlackey.com/godsgirls/) |    
   
+| 
+
+| 
+
 | 
 
 | 
