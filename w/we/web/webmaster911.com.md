@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webmaster911.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206172810id_/http%3A//www.webmaster911.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmaster911.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618192404id_/http%3A//www.webmaster911.com/privacy.php) for the most accurate reproduction.*
 
 # WebMaster 911 Privacy Policy
 
