@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the money.com privacy policy that was archived on 2006-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061126204157id_/http%3A//money.cnn.com/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the money.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618232055id_/http%3A//money.cnn.com/services/privacy) for the most accurate reproduction.*
 
 # CNNMoney.com: Privacy Policy
 
+  
 Privacy Policy|   
 ---|---  
 For the privacy policy of MONEY, FORTUNE, BUSINESS 2.0, or FORTUNE Small Business magazine, operated by Time, Inc., please click the appropriate link:  
-• [MONEY](https://web.archive.org/web/20061126204157id_/http://money.cnn.com/services/privacy/index_moneymag.html)  
-• [FORTUNE](https://web.archive.org/web/20061126204157id_/http://money.cnn.com/services/privacy/index_fortune.html)  
-• [BUSINESS 2.0](https://web.archive.org/web/20061126204157id_/http://money.cnn.com/services/privacy/index_business2.html)  
-• [FORTUNE Small Business](https://web.archive.org/web/20061126204157id_/http://money.cnn.com/services/privacy/index_fsb.html)
+• [MONEY](https://web.archive.org/web/20070618232055id_/http://money.cnn.com/services/privacy/index_moneymag.html)  
+• [FORTUNE](https://web.archive.org/web/20070618232055id_/http://money.cnn.com/services/privacy/index_fortune.html)  
+• [BUSINESS 2.0](https://web.archive.org/web/20070618232055id_/http://money.cnn.com/services/privacy/index_business2.html)  
+• [FORTUNE Small Business](https://web.archive.org/web/20070618232055id_/http://money.cnn.com/services/privacy/index_fsb.html)
 
 Thank you for visiting CNNMoney.com, a Time Warner site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this Time Warner site. [Click here](http://www.cnn.com/privacy/privacy.sites.html) for a list of the Time Warner businesses whose sites are governed by this Privacy Notice.
 
