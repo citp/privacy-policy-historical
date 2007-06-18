@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the efinancialcareers.co.uk privacy policy that was archived on 2006-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061207092755id_/http%3A//www.efinancialcareers.co.uk/privacyPolicy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the efinancialcareers.co.uk privacy policy that was archived on 2007-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070618051950id_/http%3A//www.efinancialcareers.co.uk/privacyPolicy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 
-<!-- eFC-Web3 {ts '2006-12-07 09:27:44'} --> 
+<!-- eFC-Web1 {ts '2007-06-18 06:20:01'} --> 
 	<title>Finance Jobs: Investment Banking Jobs, IT Jobs, Accounting Jobs &amp; Bank Recruitment</title>
 	<meta name="description" content="Finance Jobs: IT jobs, accounting Jobs &amp; recruitment | Investment banking jobs, accounting, bank &amp; IT jobs search – browse jobs by sector &amp; location">
 	<meta name="keywords" content="IT jobs, investment banking jobs, finance, accounting jobs, accounting, IT job, finance jobs, investment banking, IT recruitment, search, employment, bank recruitment, IT job, careers, bank, careers, job, banking, careers, vacancy, bank job">
@@ -46,7 +46,7 @@
 			<table border="0" cellpadding="0" cellspacing="0">
 			<tbody><tr><td align="right" valign="middle">
 			
-				<a href="http://www.efinancialcareers.com/fuseads/track/track.cfm?BannerID=3605&amp;PathInfo=/index.cfm&amp;catid=1285&amp;siteid=100&amp;partnerid=000" target="_top"><img src="http://www.efinancialcareers.com/images/fuseads/inHouse/nationwide.gif" align="left" border="0" alt="Nationwide banner_UK">
+				<a href="http://www.efinancialcareers.com/fuseads/track/track.cfm?BannerID=2211&amp;PathInfo=/index.cfm&amp;catid=1285&amp;siteid=100&amp;partnerid=000" target="_top"><img src="http://www.efinancialcareers.com/images/fuseads/inHouse/state_banner.gif" align="left" border="0" alt="State Street banner (UK)">
 			
 			
 			
@@ -75,7 +75,7 @@
 		<tbody><tr>
 			<td class="eFC-subHeader-left" width="30%" nowrap="">
 				<span class="linkText">
-					Job Seeker's&nbsp;<a class="linkText" href="http://www.efinancialcareers.co.uk/myaccount.htm">Sign-in</a><span class="genericText"> / </span><a href="http://www.efinancialcareers.co.uk/myaccount.htm#register">Registration</a>		
+					Job Seekers&nbsp;<a class="linkText" href="http://www.eFinancialCareers.co.uk/myaccount.htm">Sign-in</a><span class="genericText"> / </span><a href="http://www.eFinancialCareers.co.uk/myaccount.htm#register">Registration</a>		
 			
 				</span>
 				<img src="http://www.efinancialcareers.co.uk/images/spacer.gif" width="1" height="19" border="0">
@@ -165,7 +165,7 @@
 		if (country == "AU")
 			location.href = "http://www.efinancialcareers.com.au";
 		else if(country == "BE")
-			location.href = "http://www.efinancialcareers.be";
+			location.href = "http://www.efinancialcareers.be/changePartner.htm/newPartnerId-" + country + urlVars;
 		else if(country == "CH")
 			location.href = "http://www.efinancialcareers.ch/changePartner.htm/newPartnerId-" + country + urlVars;
 		else if (country == "DE")
@@ -174,6 +174,8 @@
 			location.href = "http://www.efinancialcareers.es";
 		else if (country == "FR")
 			location.href = "http://www.efinancialcareers.fr";
+		else if (country == "GF")
+			location.href = "http://www.efinancialcareers-gulf.com";	
 		else if (country == "HK")
 			location.href = "http://www.efinancialcareers.hk";
 		else if (country == "IE")
@@ -201,83 +203,92 @@
 
 
 <div id="country-picker">
-	<div id="country-picker-title">
-		<div id="Nav-TopFlag"><span class="Nav-TopFlagText">UK</span> <img src="http://www.efinancialcareers.co.uk/images/countryPicker/UK.gif" alt="Region flag" width="18" height="12" align="absmiddle"></div>
-		<a href="http://www.efinancialcareers.co.uk" onmouseout="window.status='';" onmouseover="window.status='Home'; return true;" class="home-link">Home</a>
-		<div style="text-align:right;"><a href="javascript:toggleCountryPickerMenu();" class="country-menu-link">Change country</a>&nbsp;<a href="javascript:toggleCountryPickerMenu();"><img src="http://www.efinancialcareers.co.uk/images/cparrow.gif" width="14" height="12" alt="" border="0" align="absmiddle"></a></div>
+	<div id="CP-HeaderTop">
+		<div id="country-picker-title">
+			<div id="Nav-TopFlag"><span class="Nav-TopFlagText">UK <img src="http://www.efinancialcareers.co.uk/images/countryPicker/UK.gif" alt="Region flag" width="18" height="12" align="absmiddle"></span></div>
+			<a href="http://www.eFinancialCareers.co.uk" onmouseout="window.status='';" onmouseover="window.status='Home'; return true;" class="home-link">Home</a>
+		</div>
 	</div>
-	<div id="country-picker-menu" style="display: none;">
+	<div id="CP-HeaderBottom">
+		<div class="countryPickerChangeCountry"><a href="javascript:toggleCountryPickerMenu();" class="country-menu-link">Change country</a>&nbsp;<a href="javascript:toggleCountryPickerMenu();"><img src="http://www.efinancialcareers.co.uk/images/cparrow.gif" width="14" height="12" alt="" border="0" align="absmiddle"></a></div>
+	</div>
+	<div id="country-picker-menu" style="display:none">
 		<hr class="country-picker-spacer">
 		
 		
 			<div class="country-picker-item" onclick="pickCountry('AU');">
-				<div style="position: absolute; right: 0px;"><span class="Nav-TopFlagText">AU</span> <img src="http://www.efinancialcareers.co.uk/images/countryPicker/AU.gif" alt="Region flag" width="18" height="12" align="absmiddle"></div>
-				<a href="javascript:pickCountry('AU');" class="country-menu-link-item">Australia</a>
+				<div><span class="Nav-TopFlagText">AU <img src="http://www.efinancialcareers.co.uk/images/countryPicker/AU.gif" alt="Region flag" width="18" height="12" align="absmiddle"></span></div>
+				<a href="javascript:pickCountry('AU');">Australia</a>
 			</div>
 		
 			<div class="country-picker-item" onclick="pickCountry('BE');">
-				<div style="position: absolute; right: 0px;"><span class="Nav-TopFlagText">BE</span> <img src="http://www.efinancialcareers.co.uk/images/countryPicker/BE.gif" alt="Region flag" width="18" height="12" align="absmiddle"></div>
-				<a href="javascript:pickCountry('BE');" class="country-menu-link-item">Belgium</a>
+				<div><span class="Nav-TopFlagText">BE <img src="http://www.efinancialcareers.co.uk/images/countryPicker/BE.gif" alt="Region flag" width="18" height="12" align="absmiddle"></span></div>
+				<a href="javascript:pickCountry('BE');">Belgium</a>
 			</div>
 		
 			<div class="country-picker-item" onclick="pickCountry('FR');">
-				<div style="position: absolute; right: 0px;"><span class="Nav-TopFlagText">FR</span> <img src="http://www.efinancialcareers.co.uk/images/countryPicker/FR.gif" alt="Region flag" width="18" height="12" align="absmiddle"></div>
-				<a href="javascript:pickCountry('FR');" class="country-menu-link-item">France</a>
+				<div><span class="Nav-TopFlagText">FR <img src="http://www.efinancialcareers.co.uk/images/countryPicker/FR.gif" alt="Region flag" width="18" height="12" align="absmiddle"></span></div>
+				<a href="javascript:pickCountry('FR');">France</a>
 			</div>
 		
 			<div class="country-picker-item" onclick="pickCountry('DE');">
-				<div style="position: absolute; right: 0px;"><span class="Nav-TopFlagText">DE</span> <img src="http://www.efinancialcareers.co.uk/images/countryPicker/DE.gif" alt="Region flag" width="18" height="12" align="absmiddle"></div>
-				<a href="javascript:pickCountry('DE');" class="country-menu-link-item">Germany</a>
+				<div><span class="Nav-TopFlagText">DE <img src="http://www.efinancialcareers.co.uk/images/countryPicker/DE.gif" alt="Region flag" width="18" height="12" align="absmiddle"></span></div>
+				<a href="javascript:pickCountry('DE');">Germany</a>
 			</div>
 		
 			<div class="country-picker-item" onclick="pickCountry('HK');">
-				<div style="position: absolute; right: 0px;"><span class="Nav-TopFlagText">HK</span> <img src="http://www.efinancialcareers.co.uk/images/countryPicker/HK.gif" alt="Region flag" width="18" height="12" align="absmiddle"></div>
-				<a href="javascript:pickCountry('HK');" class="country-menu-link-item">Hong Kong</a>
+				<div><span class="Nav-TopFlagText">HK <img src="http://www.efinancialcareers.co.uk/images/countryPicker/HK.gif" alt="Region flag" width="18" height="12" align="absmiddle"></span></div>
+				<a href="javascript:pickCountry('HK');">Hong Kong</a>
 			</div>
 		
 			<div class="country-picker-item" onclick="pickCountry('IE');">
-				<div style="position: absolute; right: 0px;"><span class="Nav-TopFlagText">&nbsp;IE</span> <img src="http://www.efinancialcareers.co.uk/images/countryPicker/IE.gif" alt="Region flag" width="18" height="12" align="absmiddle"></div>
-				<a href="javascript:pickCountry('IE');" class="country-menu-link-item">Ireland</a>
+				<div><span class="Nav-TopFlagText">&nbsp;IE <img src="http://www.efinancialcareers.co.uk/images/countryPicker/IE.gif" alt="Region flag" width="18" height="12" align="absmiddle"></span></div>
+				<a href="javascript:pickCountry('IE');">Ireland</a>
 			</div>
 		
 			<div class="country-picker-item" onclick="pickCountry('IT');">
-				<div style="position: absolute; right: 0px;"><span class="Nav-TopFlagText">&nbsp;IT</span> <img src="http://www.efinancialcareers.co.uk/images/countryPicker/IT.gif" alt="Region flag" width="18" height="12" align="absmiddle"></div>
-				<a href="javascript:pickCountry('IT');" class="country-menu-link-item">Italy</a>
+				<div><span class="Nav-TopFlagText">&nbsp;IT <img src="http://www.efinancialcareers.co.uk/images/countryPicker/IT.gif" alt="Region flag" width="18" height="12" align="absmiddle"></span></div>
+				<a href="javascript:pickCountry('IT');">Italy</a>
 			</div>
 		
 			<div class="country-picker-item" onclick="pickCountry('LU');">
-				<div style="position: absolute; right: 0px;"><span class="Nav-TopFlagText">LU</span> <img src="http://www.efinancialcareers.co.uk/images/countryPicker/LU.gif" alt="Region flag" width="18" height="12" align="absmiddle"></div>
-				<a href="javascript:pickCountry('LU');" class="country-menu-link-item">Luxembourg</a>
+				<div><span class="Nav-TopFlagText">LU <img src="http://www.efinancialcareers.co.uk/images/countryPicker/LU.gif" alt="Region flag" width="18" height="12" align="absmiddle"></span></div>
+				<a href="javascript:pickCountry('LU');">Luxembourg</a>
+			</div>
+		
+			<div class="country-picker-item" onclick="pickCountry('GF');">
+				<div><span class="Nav-TopFlagText">Gulf <img src="http://www.efinancialcareers.co.uk/images/countryPicker/GF.gif" alt="Region flag" width="18" height="12" align="absmiddle"></span></div>
+				<a href="javascript:pickCountry('GF');">Middle East</a>
 			</div>
 		
 			<div class="country-picker-item" onclick="pickCountry('NL');">
-				<div style="position: absolute; right: 0px;"><span class="Nav-TopFlagText">NL</span> <img src="http://www.efinancialcareers.co.uk/images/countryPicker/NL.gif" alt="Region flag" width="18" height="12" align="absmiddle"></div>
-				<a href="javascript:pickCountry('NL');" class="country-menu-link-item">Netherlands</a>
+				<div><span class="Nav-TopFlagText">NL <img src="http://www.efinancialcareers.co.uk/images/countryPicker/NL.gif" alt="Region flag" width="18" height="12" align="absmiddle"></span></div>
+				<a href="javascript:pickCountry('NL');">Netherlands</a>
 			</div>
 		
 			<div class="country-picker-item" onclick="pickCountry('SC');">
-				<div style="position: absolute; right: 0px;"><span class="Nav-TopFlagText">SC</span> <img src="http://www.efinancialcareers.co.uk/images/countryPicker/SC.gif" alt="Region flag" width="18" height="12" align="absmiddle"></div>
-				<a href="javascript:pickCountry('SC');" class="country-menu-link-item">Scotland</a>
+				<div><span class="Nav-TopFlagText">SC <img src="http://www.efinancialcareers.co.uk/images/countryPicker/SC.gif" alt="Region flag" width="18" height="12" align="absmiddle"></span></div>
+				<a href="javascript:pickCountry('SC');">Scotland</a>
 			</div>
 		
 			<div class="country-picker-item" onclick="pickCountry('SG');">
-				<div style="position: absolute; right: 0px;"><span class="Nav-TopFlagText">SG</span> <img src="http://www.efinancialcareers.co.uk/images/countryPicker/SG.gif" alt="Region flag" width="18" height="12" align="absmiddle"></div>
-				<a href="javascript:pickCountry('SG');" class="country-menu-link-item">Singapore</a>
+				<div><span class="Nav-TopFlagText">SG <img src="http://www.efinancialcareers.co.uk/images/countryPicker/SG.gif" alt="Region flag" width="18" height="12" align="absmiddle"></span></div>
+				<a href="javascript:pickCountry('SG');">Singapore</a>
 			</div>
 		
 			<div class="country-picker-item" onclick="pickCountry('CH');">
-				<div style="position: absolute; right: 0px;"><span class="Nav-TopFlagText">CH</span> <img src="http://www.efinancialcareers.co.uk/images/countryPicker/CH.gif" alt="Region flag" width="18" height="12" align="absmiddle"></div>
-				<a href="javascript:pickCountry('CH');" class="country-menu-link-item">Switzerland</a>
+				<div><span class="Nav-TopFlagText">CH <img src="http://www.efinancialcareers.co.uk/images/countryPicker/CH.gif" alt="Region flag" width="18" height="12" align="absmiddle"></span></div>
+				<a href="javascript:pickCountry('CH');">Switzerland</a>
 			</div>
 		
 			<div class="country-picker-item" onclick="pickCountry('UK');">
-				<div style="position: absolute; right: 0px;"><span class="Nav-TopFlagText">UK</span> <img src="http://www.efinancialcareers.co.uk/images/countryPicker/UK.gif" alt="Region flag" width="18" height="12" align="absmiddle"></div>
-				<a href="javascript:pickCountry('UK');" class="country-menu-link-item">United Kingdom</a>
+				<div><span class="Nav-TopFlagText">UK <img src="http://www.efinancialcareers.co.uk/images/countryPicker/UK.gif" alt="Region flag" width="18" height="12" align="absmiddle"></span></div>
+				<a href="javascript:pickCountry('UK');">United Kingdom</a>
 			</div>
 		
 			<div class="country-picker-item" onclick="pickCountry('US');">
-				<div style="position: absolute; right: 0px;"><span class="Nav-TopFlagText">US</span> <img src="http://www.efinancialcareers.co.uk/images/countryPicker/US.gif" alt="Region flag" width="18" height="12" align="absmiddle"></div>
-				<a href="javascript:pickCountry('US');" class="country-menu-link-item">United States</a>
+				<div><span class="Nav-TopFlagText">US <img src="http://www.efinancialcareers.co.uk/images/countryPicker/US.gif" alt="Region flag" width="18" height="12" align="absmiddle"></span></div>
+				<a href="javascript:pickCountry('US');">United States</a>
 			</div>
 		
 	</div>
@@ -285,13 +296,11 @@
 
 <div id="leftNav">
 <table cellpadding="0" cellspacing="0" border="0" width="100%" class="leftNavContainer">
-	<tbody><tr><td colspan="2"><div class="leftNav-row-spacer-top">&nbsp;</div></td></tr>
-	<tr>
+	<tbody><tr>
 		
-				<td colspan="2" class="row-spacer">&nbsp;</td>
+				<td colspan="2" height="1"></td>
 			
 	</tr>
-	<tr><td colspan="2"><div class="leftNav-row-spacer">&nbsp;</div></td></tr>
 	
 					
 				
@@ -299,7 +308,7 @@
 		
 			<tr>
 				<td colspan="2" class="menuCategory">
-					<a href="http://www.efinancialcareers.co.uk/myefinancialcareers.htm" target="" onmouseout="window.status='';" onmouseover="window.status='My eFinancialCareers'; return true;">My eFinancialCareers</a>
+					<a href="http://www.eFinancialCareers.co.uk/myefinancialcareers.htm" target="" onmouseout="window.status='';" onmouseover="window.status='My eFinancialCareers'; return true;">My eFinancialCareers</a>
 				</td>
 			</tr>
 		
@@ -310,7 +319,7 @@
 					
 						
 						<div id="menu_MYEFC" style="display: none;">
-					</div></td></tr><tr><td colspan="2"><div class="leftNav-row-spacer">&nbsp;</div></td></tr>
+					</div></td></tr><tr><td colspan="2" height="1"><div class="leftNav-row-spacer"></div></td></tr>
 			
 			<tr>
 				<td colspan="2" class="menuCategory">
@@ -327,29 +336,29 @@
 						<div id="menu_FINDAJOB">
 					
 				<div class="menuTopic">
-				<a href="http://www.efinancialcareers.co.uk/advancedSearch.htm" target="" onmouseout="window.status='';" onmouseover="window.status='Advanced Job Search'; return true;">Advanced Job Search</a>
+				<a href="http://www.eFinancialCareers.co.uk/advancedSearch.htm" target="" onmouseout="window.status='';" onmouseover="window.status='Advanced Job Search'; return true;">Advanced Job Search</a>
 				</div>
 				
 				<div class="menuTopic">
-				<a href="http://www.efinancialcareers.co.uk/companySearch.htm" target="" onmouseout="window.status='';" onmouseover="window.status='Search by Company'; return true;">Search by Company</a>
+				<a href="http://www.eFinancialCareers.co.uk/companySearch.htm" target="" onmouseout="window.status='';" onmouseover="window.status='Search by Company'; return true;">Search by Company</a>
 				</div>
 				
 				<div class="menuTopic">
-				<a href="http://www.efinancialcareers.co.uk/myefinancialcareers.htm/pageAction-myResumes" target="" onmouseout="window.status='';" onmouseover="window.status='Post your Resume'; return true;">Post your Resume</a>
+				<a href="http://www.eFinancialCareers.co.uk/myefinancialcareers.htm/pageAction-myResumes" target="" onmouseout="window.status='';" onmouseover="window.status='Post your Resume'; return true;">Post your Resume</a>
 				</div>
 				
 				<div class="menuTopic">
-				<a href="http://www.efinancialcareers.co.uk/myefinancialcareers.htm/pageAction-myJobAlerts" target="" onmouseout="window.status='';" onmouseover="window.status='Jobs by Email'; return true;">Jobs by Email</a>
+				<a href="http://www.eFinancialCareers.co.uk/myefinancialcareers.htm/pageAction-myJobAlerts" target="" onmouseout="window.status='';" onmouseover="window.status='Jobs by Email'; return true;">Jobs by Email</a>
 				</div>
 				
 					</div>
 				</td>
 			</tr>
-		<tr><td colspan="2"><div class="leftNav-row-spacer">&nbsp;</div></td></tr>
+		<tr><td colspan="2" height="1"><div class="leftNav-row-spacer"></div></td></tr>
 			
 			<tr>
 				<td colspan="2" class="menuCategory">
-					<a href="http://www.efinancialcareers.co.uk/corporateProfileList.htm" target="" onmouseout="window.status='';" onmouseover="window.status='Corporate Profiles'; return true;">Corporate Profiles</a>
+					<a href="http://www.eFinancialCareers.co.uk/corporateProfileList.htm" target="" onmouseout="window.status='';" onmouseover="window.status='Corporate Profiles'; return true;">Corporate Profiles</a>
 				</td>
 			</tr>
 		
@@ -360,11 +369,11 @@
 					
 						
 						<div id="menu_CORPORATE_PROFILE" style="display: none;">
-					</div></td></tr><tr><td colspan="2"><div class="leftNav-row-spacer">&nbsp;</div></td></tr>
+					</div></td></tr><tr><td colspan="2" height="1"><div class="leftNav-row-spacer"></div></td></tr>
 			
 			<tr>
 				<td colspan="2" class="menuCategory">
-					<a href="http://news.efinancialcareers.co.uk/" target="" onmouseout="window.status='';" onmouseover="window.status='News &amp; Advice'; return true;">News &amp; Advice</a>
+					<a href="http://news.eFinancialCareers.co.uk/" target="" onmouseout="window.status='';" onmouseover="window.status='News &amp; Advice'; return true;">News &amp; Advice</a>
 				</td>
 			</tr>
 		
@@ -377,25 +386,25 @@
 						<div id="menu_NEWS_HOME" style="display: none;">
 					
 				<div class="menuTopic">
-				<a href="http://news.efinancialcareers.co.uk/JOB_MARKET" target="" onmouseout="window.status='';" onmouseover="window.status='Job Market News'; return true;">Job Market News</a>
+				<a href="http://news.eFinancialCareers.co.uk/JOB_MARKET" target="" onmouseout="window.status='';" onmouseover="window.status='Job Market News'; return true;">Job Market News</a>
 				</div>
 				
 				<div class="menuTopic">
-				<a href="http://news.efinancialcareers.co.uk/PAY" target="" onmouseout="window.status='';" onmouseover="window.status='Pay News'; return true;">Pay News</a>
+				<a href="http://news.eFinancialCareers.co.uk/PAY" target="" onmouseout="window.status='';" onmouseover="window.status='Pay News'; return true;">Pay News</a>
 				</div>
 				
 				<div class="menuTopic">
-				<a href="http://news.efinancialcareers.co.uk/SALARY_SURVEY" target="" onmouseout="window.status='';" onmouseover="window.status='Salary Surveys'; return true;">Salary Surveys</a>
+				<a href="http://news.eFinancialCareers.co.uk/Advice" target="" onmouseout="window.status='';" onmouseover="window.status='Advice'; return true;">Advice</a>
 				</div>
 				
 					</div>
 				</td>
 			</tr>
-		<tr><td colspan="2"><div class="leftNav-row-spacer">&nbsp;</div></td></tr>
+		<tr><td colspan="2" height="1"><div class="leftNav-row-spacer"></div></td></tr>
 			
 			<tr>
 				<td colspan="2" class="menuCategory">
-					<a href="http://students.efinancialcareers.co.uk/" target="" onmouseout="window.status='';" onmouseover="window.status='Student Centre'; return true;">Student Centre</a>
+					<a href="http://students.eFinancialCareers.co.uk/" target="" onmouseout="window.status='';" onmouseover="window.status='Student Centre'; return true;">Student Centre</a>
 				</td>
 			</tr>
 		
@@ -406,22 +415,7 @@
 					
 						
 						<div id="menu_GRADUATECENTRE" style="display: none;">
-					</div></td></tr><tr><td colspan="2"><div class="leftNav-row-spacer">&nbsp;</div></td></tr>
-			
-			<tr>
-				<td colspan="2" class="menuCategory">
-					<a href="http://training.efinancialcareers.co.uk " target="" onmouseout="window.status='';" onmouseover="window.status='Training &amp; Development'; return true;">Training &amp; Development</a>
-				</td>
-			</tr>
-		
-			<tr>
-				<td colspan="2">
-				
-				
-					
-						
-						<div id="menu_EDUCATION" style="display: none;">
-					</div></td></tr><tr><td colspan="2"><div class="leftNav-row-spacer">&nbsp;</div></td></tr>
+					</div></td></tr><tr><td colspan="2" height="1"><div class="leftNav-row-spacer"></div></td></tr>
 			
 			<tr>
 				<td colspan="2" class="menuCategory">
@@ -438,27 +432,31 @@
 						<div id="menu_RECRUITERS" style="display: none;">
 					
 				<div class="menuTopic">
-				<a href="http://www.efinancialcareers.co.uk/advertising_options.htm" target="" onmouseout="window.status='';" onmouseover="window.status='Advertising Options'; return true;">Advertising Options</a>
+				<a href="http://www.eFinancialCareers.co.uk/advertising_options.htm" target="" onmouseout="window.status='';" onmouseover="window.status='Advertising Options'; return true;">Advertising Options</a>
 				</div>
 				
 				<div class="menuTopic">
-				<a href="http://www.efinancialcareers.co.uk/admin/index.cfm" target="" onmouseout="window.status='';" onmouseover="window.status='Post a job'; return true;">Post a job</a>
+				<a href="http://www.eFinancialCareers.co.uk/admin/index.cfm" target="" onmouseout="window.status='';" onmouseover="window.status='Post a job'; return true;">Post a job</a>
 				</div>
 				
 				<div class="menuTopic">
-				<a href="http://www.efinancialcareers.co.uk/admin/login.cfm" target="" onmouseout="window.status='';" onmouseover="window.status='Search Resumes'; return true;">Search Resumes</a>
+				<a href="http://www.eFinancialCareers.co.uk/admin/login.cfm" target="" onmouseout="window.status='';" onmouseover="window.status='Search Resumes'; return true;">Search Resumes</a>
+				</div>
+				
+				<div class="menuTopic">
+				<a href="http://training.eFinancialCareers.co.uk " target="" onmouseout="window.status='';" onmouseover="window.status='Training Courses'; return true;">Training Courses</a>
 				</div>
 				
 					</div>
 				</td>
 			</tr>
-		<tr><td colspan="2"><div class="leftNav-row-spacer">&nbsp;</div></td></tr>
+		<tr><td colspan="2" height="1"><div class="leftNav-row-spacer"></div></td></tr>
 			
 			<tr>
 				<td colspan="2" class="menuCategory">
 					<div style="margin:1px 0 0 0"></div>
-					<a href="http://www.efinancialcareers.co.uk/rss_select.htm" target=""><img src="http://www.efinancialcareers.co.uk/images/rss/rssfeed.gif" alt="RSS Feeds" width="47" height="16" border="0" align="absbottom"></a>&nbsp;
-					<a href="http://www.efinancialcareers.co.uk/rss_select.htm" target="" onmouseout="window.status='';" onmouseover="window.status='RSS Feeds'; return true;">RSS Feeds</a>
+					<a href="http://www.eFinancialCareers.co.uk/rss_select.htm" target=""><img src="http://www.efinancialcareers.co.uk/images/rss/rssfeed.gif" alt="RSS Feeds" width="47" height="16" border="0" align="absbottom"></a>
+					<a href="http://www.eFinancialCareers.co.uk/rss_select.htm" target="" onmouseout="window.status='';" onmouseover="window.status='RSS Feeds'; return true;">RSS Feeds</a>
 				</td>
 			</tr>
 		
@@ -469,7 +467,7 @@
 					
 						
 						<div id="menu_RSS Feeds" style="display: none;">
-					</div></td></tr><tr><td colspan="2"><div class="leftNav-row-spacer">&nbsp;</div></td></tr>
+					</div></td></tr><tr><td colspan="2" height="1"><div class="leftNav-row-spacer"></div></td></tr>
 			
 			<tr>
 				<td colspan="2">
@@ -484,28 +482,7 @@
 					
 						
 						<div id="menu_Scotland Logo" style="display: none;">
-					</div></td></tr><tr><td colspan="2"><div class="leftNav-row-spacer">&nbsp;</div></td></tr>
-			
-			<tr>
-				<td colspan="2" class="menuCategory">
-					<a href="javascript:toggleMenuCategoryVisibility('SISTERSITE');" target="" onmouseout="window.status='';" onmouseover="window.status='Sister Site'; return true;">Sister Site</a>
-				</td>
-			</tr>
-		
-			<tr>
-				<td colspan="2">
-				
-				
-					
-						
-						<div id="menu_SISTERSITE">
-					
-					<a href="http://www.efinancialnews.com"><img src="http://www.efinancialcareers.co.uk/images/fn_logo_nav.gif" border="0"></a>
-				
-					</div>
-				</td>
-			</tr>
-		<tr><td colspan="2"><div class="leftNav-row-spacer">&nbsp;</div></td></tr>
+					</div></td></tr><tr><td colspan="2" height="1"><div class="leftNav-row-spacer"></div></td></tr>
 			
 			<tr>
 				<td colspan="2" class="menuCategory">
@@ -522,27 +499,7 @@
 						<div id="menu_PARTNERS">
 					
 				<div class="menuTopic">
-				<a href="http://www.efinancialnews.com" target="_blank" onmouseout="window.status='';" onmouseover="window.status='Financial News'; return true;">Financial News</a>
-				</div>
-				
-				<div class="menuTopic">
-				<a href="http://securities-institute.efinancialcareers.co.uk/" target="_blank" onmouseout="window.status='';" onmouseover="window.status='Securities Institute'; return true;">Securities Institute</a>
-				</div>
-				
-				<div class="menuTopic">
-				<a href="http://www.jobsinthemoney.com/" target="_blank" onmouseout="window.status='';" onmouseover="window.status='Jobsinthemoney'; return true;">Jobsinthemoney</a>
-				</div>
-				
-				<div class="menuTopic">
-				<a href="http://bankingtech.efinancialcareers.co.uk" target="_blank" onmouseout="window.status='';" onmouseover="window.status='Banking Technology'; return true;">Banking Technology</a>
-				</div>
-				
-				<div class="menuTopic">
-				<a href="http://www.financeasia.efinancialcareers.com" target="_blank" onmouseout="window.status='';" onmouseover="window.status='Finance Asia'; return true;">Finance Asia</a>
-				</div>
-				
-				<div class="menuTopic">
-				<a href="http://risk.efinancialcareers.com/" target="_blank" onmouseout="window.status='';" onmouseover="window.status='Risk'; return true;">Risk</a>
+				<a href="http://news.securities-institute.efinancialcareers.co.uk" target="_blank" onmouseout="window.status='';" onmouseover="window.status='Securities &amp; Investment Institute'; return true;">Securities &amp; Investment Institute</a>
 				</div>
 				
 				<div class="menuTopic">
@@ -551,6 +508,34 @@
 				
 				<div class="menuTopic">
 				<a href="http://tradetechonline.efinancialcareers.co.uk/" target="_blank" onmouseout="window.status='';" onmouseover="window.status='TradeTechOnline'; return true;">TradeTechOnline</a>
+				</div>
+				
+				<div class="menuTopic">
+				<a href="http://risk.efinancialcareers.co.uk" target="_blank" onmouseout="window.status='';" onmouseover="window.status='Risk'; return true;">Risk</a>
+				</div>
+				
+				<div class="menuTopic">
+				<a href="http://creditmag.efinancialcareers.com" target="_blank" onmouseout="window.status='';" onmouseover="window.status='CreditMag'; return true;">CreditMag</a>
+				</div>
+				
+				<div class="menuTopic">
+				<a href="http://structuredproducts.efinancialcareers.com" target="_blank" onmouseout="window.status='';" onmouseover="window.status='Structured Products'; return true;">Structured Products</a>
+				</div>
+				
+				<div class="menuTopic">
+				<a href="http://traderdaily-uk.efinancialcareers.com" target="_blank" onmouseout="window.status='';" onmouseover="window.status='Trader Daily UK'; return true;">Trader Daily UK</a>
+				</div>
+				
+				<div class="menuTopic">
+				<a href="http://hedgefundsreview.efinancialcareers.co.uk" target="_blank" onmouseout="window.status='';" onmouseover="window.status='Hedge Funds Review'; return true;">Hedge Funds Review</a>
+				</div>
+				
+				<div class="menuTopic">
+				<a href="http://privatebankerinternational.efinancialcareers.com" target="_blank" onmouseout="window.status='';" onmouseover="window.status='Private Banker International'; return true;">Private Banker International</a>
+				</div>
+				
+				<div class="menuTopic">
+				<a href="http://opriskandcompliance.efinancialcareers.com" target="_blank" onmouseout="window.status='';" onmouseover="window.status='Oprisk &amp; Compliance'; return true;">Oprisk &amp; Compliance</a>
 				</div>
 				
 		</div></td></tr><tr>
@@ -693,127 +678,48 @@
 				<td colspan="3" align="center">
 					
 					
-
-<style>
-.footerLinks{height:0px;}
-</style>
-<table width="100%" cellpadding="0" cellspacing="0" border="0" class="genericText">
+<div id="efcFooter">
 	
-		<tbody><tr><td colspan="3"><img src="http://www.efinancialcareers.co.uk/images/spacer.gif" height="5" width="1"></td></tr>
-		<tr>
-			<td colspan="3" align="center">
-				
-					<a href="http://www.efinancialcareers.co.uk">Home</a>
-					&nbsp;|&nbsp; 
-					<a href="http://www.efinancialcareers.co.uk/myefinancialcareers.htm">My eFinancialCareers</a>
-					&nbsp;|&nbsp; 
-					<a href="http://www.efinancialcareers.co.uk/advancedSearch.htm">Find a Job</a>
-					&nbsp;|&nbsp; 
-					<a href="http://news.efinancialcareers.co.uk/">News &amp; Advice</a>
-					&nbsp;|&nbsp; 
-					<a href="http://www.efinancialcareers.co.uk/advertising_options.htm">Recruiters</a>
-					&nbsp;|&nbsp; 
-					<a href="http://www.efinancialcareers.co.uk/aboutus.htm">About Us</a>
-					&nbsp;|&nbsp; 
-					<a href="http://www.efinancialcareers.co.uk/contactus.htm">Contact Us</a>
-					&nbsp; 
-			</td>
-		</tr>
-		<tr><td colspan="3"><img src="http://www.efinancialcareers.co.uk/images/spacer.gif" height="2" width="1"></td></tr>
-	 
-		<tr><td colspan="3"><div align="center" class="footerOrangeBand">&nbsp;</div></td></tr>
-		
-		<tr>
-			<td class="footerLinks"><img src="http://www.efinancialcareers.co.uk/images/spacer.gif" height="1" width="130"></td>
-			<td class="footerLinks"><img src="http://www.efinancialcareers.co.uk/images/spacer.gif" height="2" width="1"></td>
-			<td class="footerLinks"><img src="http://www.efinancialcareers.co.uk/images/spacer.gif" height="1" width="130"></td>
-		</tr>
-		<tr>
-			<td class="footerLinks"><img src="http://www.efinancialcareers.co.uk/images/spacer.gif" height="1" width="130"></td>
-			<td class="footerLinks" align="center">
-				
-				<a class="genericLink" href="http://www.efinancialcareers.com.au">Australia</a>
-				&nbsp;|&nbsp;
-				
-					<a class="genericLink" href="http://www.efinancialcareers.be">Belgium</a>
-					&nbsp;|&nbsp;
-				
-				<a class="genericLink" href="http://www.efinancialcareers.fr">France</a>
-				&nbsp;|&nbsp;
-				<a class="genericLink" href="http://www.efinancialcareers.de">Germany</a>
-				&nbsp;|&nbsp;
-				
-					<a class="genericLink" href="http://www.efinancialcareers.hk">Hong Kong</a>
-					&nbsp;|&nbsp;
-				
-				<a class="genericLink" href="http://www.efinancialcareers.ie">Ireland</a>
-				&nbsp;|&nbsp;
-				<a class="genericLink" href="http://www.efinancialcareers.it">Italy</a>
-				&nbsp;|&nbsp;
-				
-					<a class="genericLink" href="http://www.efinancialcareers.lu">Luxembourg</a>
-					&nbsp;|&nbsp;
-				
-					<a class="genericLink" href="http://www.efinancialcareers.nl">Netherlands</a>
-					&nbsp;|&nbsp;
-				
-				<a class="genericLink" href="http://scotland.efinancialcareers.co.uk">Scotland</a>
-				&nbsp;|&nbsp;
-				
-					<a class="genericLink" href="http://www.efinancialcareers.sg">Singapore</a>
-					&nbsp;|&nbsp;
-				
-				<a class="genericLink" href="http://www.efinancialcareers.ch">Switzerland</a>
-				&nbsp;|&nbsp;
-				<a class="genericLink" href="http://www.efinancialcareers.co.uk">United Kingdom</a>
-				&nbsp;|&nbsp;
-				<a class="genericLink" href="http://www.efinancialcareers.com">United States</a>
-			</td>
-			<td class="footerLinks"><img src="http://www.efinancialcareers.co.uk/images/spacer.gif" height="1" width="130"></td>
-		</tr>
-		<tr>
-			<td class="footerLinks"><img src="http://www.efinancialcareers.co.uk/images/spacer.gif" height="1" width="130"></td>
-			<td class="footerLinks"><img src="http://www.efinancialcareers.co.uk/images/spacer.gif" height="2" width="1"></td>
-			<td class="footerLinks"><img src="http://www.efinancialcareers.co.uk/images/spacer.gif" height="1" width="130"></td>
-		</tr>
-		<tr>
-			<td class="footerLinks"><img src="http://www.efinancialcareers.co.uk/images/spacer.gif" height="1" width="130"></td>
-			<td class="footerLinks">
-				
-				<a class="genericLink" href="http://www.jobsinthemoney.com">Jobsinthemoney.com</a>
-				&nbsp;|&nbsp;
-				
-					<a class="genericLink" href="http://www.efinancialnews.com">Financial News Online</a>
-				
-			</td>
-			<td class="footerLinks"><img src="http://www.efinancialcareers.co.uk/images/spacer.gif" height="1" width="130"></td>
-		</tr>
-		<tr>
-			<td class="footerLinks"><img src="http://www.efinancialcareers.co.uk/images/spacer.gif" height="1" width="130"></td>
-			<td class="footerLinks"><img src="http://www.efinancialcareers.co.uk/images/spacer.gif" height="2" width="1"></td>
-			<td class="footerLinks"><img src="http://www.efinancialcareers.co.uk/images/spacer.gif" height="1" width="130"></td>
-		</tr>
-		<tr>
-			<td class="footerLinks"><img src="http://www.efinancialcareers.co.uk/images/spacer.gif" height="1" width="130"></td>
-			<td class="footerLinks">
-				
-				<a class="genericLink" href="mailto:help@efinancialcareers.com?subject=eFinancialCareers Feedback">Send Us Feedback</a>
-				&nbsp;|&nbsp;
-				<a class="genericLink" href="http://www.efinancialcareers.co.uk/termsConditions.htm">Terms of Use</a> 
-				and 
-				<a class="genericLink" href="http://www.efinancialcareers.co.uk/privacyPolicy.htm">Privacy policy</a>
-				&nbsp;© Copyright 2000-2006 eFinancialCareers Ltd.&nbsp;
-			</td>
-			<td class="footerLinks"><img src="http://www.efinancialcareers.co.uk/images/spacer.gif" height="1" width="130"></td>
-		</tr>
-		<tr>
-			<td class="footerLinks"><img src="http://www.efinancialcareers.co.uk/images/spacer.gif" height="1" width="130"></td>
-			<td class="footerLinks"><img src="http://www.efinancialcareers.co.uk/images/spacer.gif" height="2" width="1">&nbsp;</td>
-			<td class="footerLinks"><img src="http://www.efinancialcareers.co.uk/images/spacer.gif" height="1" width="130"></td>
-		</tr>
+	<a href="http://www.eFinancialCareers.co.uk">Home</a>&nbsp;&nbsp;|&nbsp; 
+	<a href="http://www.eFinancialCareers.co.uk/myefinancialcareers.htm">My eFinancialCareers</a>&nbsp;&nbsp;|&nbsp; 
+	<a href="http://www.eFinancialCareers.co.uk/advancedSearch.htm">Find a Job</a>&nbsp;&nbsp;|&nbsp; 
+	<a href="http://news.eFinancialCareers.co.uk/">News &amp; Advice</a>&nbsp;&nbsp;|&nbsp; 
+	<a href="http://www.eFinancialCareers.co.uk/advertising_options.htm">Recruiters</a>&nbsp;&nbsp;|&nbsp; 
+	<a href="http://www.eFinancialCareers.co.uk/aboutus.htm">About Us</a>&nbsp;&nbsp;|&nbsp; 
+	<a href="http://www.eFinancialCareers.co.uk/workforus.htm">Work at eFinancialCareers</a>&nbsp;&nbsp;|&nbsp; 
+	<a href="http://www.eFinancialCareers.co.uk/contactus.htm">Contact Us</a>  
 	
-</tbody></table>
-
+	<div id="efcFooterColour" class="genericLink">
+		<p class="footer1">
+			<a href="http://www.efinancialcareers.com.au">Australia</a>&nbsp;|&nbsp;
+			<a href="http://www.efinancialcareers.be">Belgium</a>&nbsp;|&nbsp;
+			<a href="http://www.efinancialcareers.fr">France</a> &nbsp;|&nbsp;
+			<a href="http://www.efinancialcareers.de">Germany</a>&nbsp;|&nbsp;
+			<a href="http://www.efinancialcareers.hk">Hong Kong</a>&nbsp;|&nbsp;
+			<a href="http://www.efinancialcareers.ie">Ireland</a>&nbsp;|&nbsp;
+			<a href="http://www.efinancialcareers.it">Italy</a>&nbsp;|&nbsp;
+			<a href="http://www.efinancialcareers.lu">Luxembourg</a>&nbsp;|&nbsp;
+			<a href="http://www.efinancialcareers-gulf.com">Middle East</a>&nbsp;|&nbsp;
+			<a href="http://www.efinancialcareers.nl">Netherlands</a>&nbsp;|&nbsp;<br>
+			<a href="http://scotland.efinancialcareers.co.uk">Scotland</a>&nbsp;|&nbsp;
+			<a href="http://www.efinancialcareers.sg">Singapore</a>&nbsp;|&nbsp;
+			<a href="http://www.efinancialcareers.ch">Switzerland</a>&nbsp;|&nbsp;
+			<a href="http://www.efinancialcareers.co.uk">United Kingdom</a>&nbsp;|&nbsp;
+			<a href="http://www.efinancialcareers.com">United States</a>
+		</p>
+		<p class="footer2">
+			<a href="mailto:help@efinancialcareers.com?subject=eFinancialCareers Feedback">Send Us Feedback</a>&nbsp;|&nbsp;  
+			<a href="http://www.efinancialcareers.co.uk/termsConditions.htm">Terms of Use</a><span> and</span>
+			<a href="http://www.efinancialcareers.co.uk/privacyPolicy.htm">Privacy policy</a>&nbsp;© <span>Copyright 2000-2007 eFinancialCareers Ltd.&nbsp;</span>			
+		</p>
+		<p class="footer3">
+			
+			<span class="footerLine">eFinancialCareers is a <a onclick="javascript:OpenNewWindow_OnClick('http://www.efinancialcareers.co.uk/modules/Popup_Dice.cfm', 400, 620);" style="cursor:pointer;">Dice</a> company.</span>
+			
+		</p>
+	</div>
+	
+</div>
 
 				</td>
 			</tr>
@@ -825,9 +731,10 @@
 
 	<script type="text/javascript">
 	<!--
-	xtnv = document;           				//affiliation frameset : document, parent.document ou top.document 739
-	xtsd = "http://logi8";
-	xtsite = "198124";
+	xtnv = document;           				//affiliation frameset : document, parent.document ou top.document 9848
+	xtsd = "http://logc9";
+	//xtsite = "198124"; // old default value
+	xtsite = "305226";
 	xtn2 = "3";	//use the level 2 number in which you want to classify this page
 	xtpage = "Other";		//give a page title for Xiti's reports
 	xtmc = "";			//Keyword from internal search engine (text)
@@ -838,13 +745,9 @@
 	xtprm = "";           					//additionnal parameters (optionnal)
 	//-->
 	</script>
-	
-	
-	
-	
-	
-	<script type="text/javascript" src="http://www.efinancialcareers.com/javascript/xtanalyzer.js"></script>
-	
 
-				<img src="http://www.efinancialcareers.co.uk/stats/getStats.cfm?passed_sessionkey=0&amp;passed_scriptname=&amp;passed_jobref=&amp;passed_http_request_method=&amp;passed_path_translated=D:\eFC\index.cfm&amp;passed_script_name=/index.cfm&amp;passed_query_string=404%3Bhttp%3A%2F%2Fwww%2Eefinancialcareers%2Eco%2Euk%3A80%2FprivacyPolicy%2Ehtm&amp;passed_HTTP_referer=&amp;partnerId=000&amp;passed_uniqueUser=0" width="0" height="0" style="display:none">
+	
+		<script type="text/javascript" src="http://www.efinancialcareers.com/javascript/xtanalyzer.js"></script>
+	
+				<img src="http://www.efinancialcareers.co.uk/stats/getStats.cfm?passed_sessionkey=0&amp;passed_scriptname=&amp;passed_jobref=&amp;passed_http_request_method=&amp;passed_path_translated=D:\eFC\index.cfm&amp;passed_script_name=/index.cfm&amp;passed_query_string=404%3Bhttp%3A%2F%2Fwww%2Eefinancialcareers%2Eco%2Euk%3A80%2FprivacyPolicy%2Ehtm&amp;passed_HTTP_referer=&amp;partnerId=000&amp;passed_uniqueUser=0&amp;contactParam=" width="0" height="0" style="display:none">
 			</body></html>
