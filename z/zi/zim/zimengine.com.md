@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the zimengine.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211020242id_/http%3A//www.landlordportal.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zimengine.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618170854id_/http%3A//www.landlordportal.com/privacy.asp) for the most accurate reproduction.*
 
 # LandlordPortal.com™: When success is necessary!
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   
 ---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
 |   
-| [](https://web.archive.org/web/20061211020242id_/http%3A//www.landlordportal.com/search_rentals.aspx) |  | [](https://web.archive.org/web/20061211020242id_/http%3A//www.landlordportal.com/post_rentals.aspx) |  | [](https://web.archive.org/web/20061211020242id_/http%3A//www.landlordportal.com/login.aspx) |  | [](https://web.archive.org/web/20061211020242id_/http%3A//www.landlordportal.com/login.aspx) |  | [](https://web.archive.org/web/20061211020242id_/http%3A//www.landlordportal.com/join.aspx) | [](https://web.archive.org/web/20061211020242id_/http%3A//www.landlordportal.com/contactus.asp) |  |   
+| [](https://web.archive.org/web/20070618170854id_/http%3A//www.landlordportal.com/search_rentals.aspx) |  | [](https://web.archive.org/web/20070618170854id_/http%3A//www.landlordportal.com/post_rentals.aspx) |  | [](https://web.archive.org/web/20070618170854id_/http%3A//www.landlordportal.com/login.aspx) |  | [](https://web.archive.org/web/20070618170854id_/http%3A//www.landlordportal.com/login.aspx) |  | [](https://web.archive.org/web/20070618170854id_/http%3A//www.landlordportal.com/join.aspx) | [](https://web.archive.org/web/20070618170854id_/http%3A//www.landlordportal.com/contactus.asp) |  |   
 |  |  |   
 |  |  |  |  |   
 |   
-| [](https://web.archive.org/web/20061211020242id_/http%3A//www.landlordportal.com/join.aspx) |  |   
+| [](https://web.archive.org/web/20070618170854id_/http%3A//www.landlordportal.com/join.aspx) |  |   
 |   
 |    
 |  Logged-off ( [login here](https://web.archive.org/login.asp) )  | 
 
- Sunday, December 10, 2006  
+ Monday, June 18, 2007  
   
 ---|---  
    
@@ -23,8 +23,6 @@
 **Welcome !!**  
   
 ---  
-  
-[](https://web.archive.org/web/20061211020242id_/http%3A//www.landlordportal.com/join.asp)  
   
 [View Cart](https://www.landlordportal.com/cart.asp)  
   
@@ -40,7 +38,7 @@
 [Laws & Legal Guides](https://web.archive.org/legal_guide.asp)  
    
   
-[](https://web.archive.org/web/20061211020242id_/http%3A//www.landlordportal.com/form_search.asp)  
+[](https://web.archive.org/web/20070618170854id_/http%3A//www.landlordportal.com/form_search.asp)  
   
    
   
@@ -213,7 +211,7 @@ Feel free to contact us any time and we'll answer any additional questions you m
 
 |    
   
-[](http://www.verisign.com/)     [](https://web.archive.org/web/20061211020242id_/http%3A//www.landlordportal.com/fair_housing.asp)         [ ](http://www.reod.org/)   [](http://www.reod.org/)       [](http://www.property3.com/)       [](http://www.napbs.com/)
+[](http://www.verisign.com/)     [](https://web.archive.org/web/20070618170854id_/http%3A//www.landlordportal.com/fair_housing.asp)         [ ](http://www.reod.org/)   [](http://www.reod.org/)       [](http://www.property3.com/)       [](http://www.napbs.com/)
 
 |    
   |    
