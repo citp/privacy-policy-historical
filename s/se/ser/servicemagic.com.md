@@ -1,23 +1,23 @@
-> *The following text is extracted and transformed from the servicemagic.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205220306id_/http%3A//www.servicemagic.com/rfs/aboutus/privacyStatement.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servicemagic.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618145824id_/http%3A//www.servicemagic.com/rfs/aboutus/privacyStatement.jsp) for the most accurate reproduction.*
 
 # ServiceMagic - Privacy Statement
 
-| **ServiceMagic PRIVACY POLICY effective August, 2005**
+**SERVICEMAGIC PRIVACY POLICY - Effective August, 2005**
 
-This privacy policy applies to [http://www.servicemagic.com](http://www.servicemagic.com/) and all websites and URL's controlled or operated by ServiceMagic, Inc., which link to this policy, unless otherwise specified. Real Estate services and Home Loans services are owned, operated and provided by LendingTree, Inc., and not by ServiceMagic, and the privacy policies applicable to your use of those services are governed by the privacy policies located on those websites. 
+This privacy policy applies to [http://www.servicemagic.com](http://www.servicemagic.com/) and all websites and URL's controlled or operated by ServiceMagic, Inc., which link to this policy, unless otherwise specified.
 
-This is a new privacy policy effective as of the date set forth above. Even if you read and approved a prior policy, you need to review this new version as it has been updated and revised. 
+This is a new privacy policy effective as of the date set forth above. Even if you read and approved a prior policy, you need to review this new version as it has been updated and revised.
 
-Titles and headings are provided for general reference and ease of use only, as information may be covered in more than one heading or under other headings. 
+Titles and headings are provided for general reference and ease of use only, as information may be covered in more than one heading or under other headings.
 
-If users have questions or concerns regarding this statement, they should first contact ServiceMagic's privacy department at [privacy@servicemagic.com](mailto:privacy@servicemagic.com). 
+If users have questions or concerns regarding this statement, they should first contact ServiceMagic's privacy department at [privacy@servicemagic.com](mailto:privacy@servicemagic.com).
 
 **Information Collection**
 
-**Registration and Service Professional Enrollment**   
-In order to complete a service request or to enroll as a prospective service professional, a user must first complete a registration form. During registration a user is required to give contact information (such as name and email address). We use this information to contact the user about services on our site for which they have expressed interest, to inform service professionals of leads, and/or inform customers about service professionals they matched to. By providing this information to us, or by submitting a service request, you expressly consent to being contacted by us and by our service professionals and providers via phone, fax, email, mail or other reasonable means, at any of your contact numbers or addresses, in order that we may provide the services set forth on our Web site, service your account, reasonably address matters pertaining to your account or for other reasonable purposes related to our business. Unique identifiers (such as username and password) are required. It is optional for the user to provide demographic information (such as income level and gender) but encouraged so we can provide a more personalized experience on our Web site. We also require a US service professional's social security number or federal tax id number to complete a background check (credit is not checked), prior to a US service professional being approved to join our network. 
+**Registration and Service Professional Enrollment**  
+In order to complete a service request or to enroll as a prospective service professional, a user must first complete a registration form. During registration a user is required to give contact information (such as name and email address). We use this information to contact the user about services on our site for which they have expressed interest, to inform service professionals of leads, and/or inform customers about service professionals they matched to. By providing this information to us, or by submitting a service request, you expressly consent to being contacted by us and by our service professionals and providers via phone, fax, email, mail or other reasonable means, at any of your contact numbers or addresses, in order that we may provide the services set forth on our Web site, service your account, reasonably address matters pertaining to your account or for other reasonable purposes related to our business. Unique identifiers (such as username and password) are required. It is optional for the user to provide demographic information (such as income level and gender) but encouraged so we can provide a more personalized experience on our Web site. We also require a US service professional's social security number or federal tax id number to complete a background check (credit is not checked), prior to a US service professional being approved to join our network.
 
-**Service Request**   
+**Service Request**  
 We request information from the consumer in our service request interview process. A user must provide detailed information about the service requested. No financial information (such as credit card number, expiration date) is collected from the consumer. This information is used to match consumers with appropriate service professionals. The information may also be used to contact the consumer to verify or clarify their service request or to customize the consumer's Web site experience or future ServiceMagic communication. 
 
 **Feedback, Ratings and Reviews and Testimonials**  
@@ -51,7 +51,7 @@ In addition, ServiceMagic and its advertisers use clear gifs in HTML-based email
 **Communications from ServiceMagic and its Service professionals**
 
 **Special Offers and Updates**  
-We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a bi-monthly newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the Choice and Opt-out sections. 
+We send all new members a welcoming email to verify password and username. Members will occasionally receive information on products, services, special deals, and a bi-monthly newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the Choice and Opt-out sections. 
 
 **Newsletter**  
 If a user wishes to subscribe to our newsletters, we ask for contact information such as name and email address. Out of respect for our users privacy we provide a way to opt-out of these communications. Please see the Choice and Opt-out sections. 
