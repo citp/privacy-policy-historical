@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the globalsurveygroup.com privacy policy that was archived on 2005-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050328085202id_/http%3A//www.globalsurveygroup.com/gsg.php%3FpageID%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalsurveygroup.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618053357id_/http%3A//www.globalsurveygroup.com/gsg.php%3FpageID%3Dprivacy) for the most accurate reproduction.*
 
-# GLOBAL SURVEY GROUP: Make Your Opinions Count and Be Rewarded For It! ()()
+# GLOBAL SURVEY GROUP: Get invitations to the best paid online surveys
 
 Effective Date January 1, 2004 
 
@@ -31,7 +31,7 @@ Global Survey Group does not send unsolicited or "spam" e-mail. We use User info
 5) to monitor and improve its internal operations, as well as to ensure that it properly performs the services requested and bills properly where appropriate; and  
 6) to send Users other information about Global Survey Group and/or its products.
 
-When you register with Global Survey Group, you may receive offers from us or our marketing partners. Our marketing partners may use this information to make offers to you in your areas of interest or other offers. Our marketing partners wishing to contact you either give their e-mail message to us and we deliver it to you, or we provide your contact information to them so they can deliver messages directly to you. It is solely at your discretion if you choose to provide additional personally identifiable information to a marketer by making a purchase, requesting additional information, or communicating directly with the company or organization after using its website. We may also use outside companies to execute the marketing campaigns on our behalf or on behalf of some of our marketing partners. We will share your e-mail name & other information that you give us that is necessary for these third parties to provide these services. These third parties are not allowed to use personally identifiable information except for the purposes of providing these services.
+When you register with Global Survey Group, you may receive offers from us or our marketing partners. Our marketing partners may use this information to make offers to you in your areas of interest or other offers. Our marketing partners wishing to contact you either give their e-mail message to us and we deliver it to you, or with your prior permission, we provide your contact information to them so they can deliver messages directly to you. It is solely at your discretion if you choose to provide additional personally identifiable information to a marketer by making a purchase, requesting additional information, or communicating directly with the company or organization after using its website. We may also use outside companies to execute the marketing campaigns on our behalf or on behalf of some of our marketing partners. We will share your e-mail name & other information that you give us that is necessary for these third parties to provide these services. These third parties are not allowed to use personally identifiable information except for the purposes of providing these services.
 
 B. Automatic Information ("Cookies")
 
@@ -51,7 +51,7 @@ A. Registration Information
 
 As part of the registration process, we often offer you the option to take advantage of one or more offers from our partners. Those offers are optional and you do not have to sign-up for any offers in order to participate in the main promotional offer (although you may need to check or uncheck certain boxes to do so). If you do choose to sign-up for an offer, we will share information about you with those selected partners from whom you have chosen to receive information.
 
-When you register with Global Survey Group, you can elect to sign up with some of our marketing partners so they may to contact you with their special offers. Our marketing partners wishing to contact you either give their e-mail message to us and we deliver it to you, or with your prior permission, we provide your contact information to them so they can deliver messages directly to you. It is solely at your discretion if you choose to provide additional personally identifiable information to a marketer by making a purchase, requesting additional information, or communicating directly with the company or organization after using its website. We may share this information with a third-party advertising company in order to market more effectively to you.
+When you register with Global Survey Group, you can elect to sign up with some of our marketing partners so they may to contact you with their special offers. It is solely at your discretion if you choose to provide additional personally identifiable information to a marketer by making a purchase, requesting additional information, or communicating directly with the company or organization after using its website. We may share this information with a third-party advertising company in order to market more effectively to you.
 
 We may employ other companies and individuals to perform functions on our behalf (e.g., outsourced e-mail delivery companies). They have access to the User information to perform their functions, but may not use it for other purposes.
 
@@ -77,7 +77,7 @@ Please note once an account is created, we may send you a confirmation e-mail ac
 
 B. Opting Out
 
-To remove your User information from our mailing list(s) so as not to receive future communications from us or to no longer receive our service, please go to: http://www.globalsurveygroup.com/support.php3 and enter your email address. If you have submitted personal information under more than one e-mail account, you must make this request from each account that you have used. Global Survey Group will use commercially reasonable efforts to delete records from our mailing list when we receive requests to do so. Please allow up to 48 hours to be completely removed from our database. This Privacy Policy is subject to change from time to time, so please check back periodically. Use of the services offered at this site constitutes acceptance of the terms of this Policy.
+To remove your User information from our mailing list(s) so as not to receive future communications from us or to no longer receive our service, please go to: http://www.globalsurveygroup.com/unsub.php and enter your email address. If you have submitted personal information under more than one e-mail account, you must make this request from each account that you have used. Global Survey Group will use commercially reasonable efforts to delete records from our mailing list when we receive requests to do so. Please allow up to 48 hours to be completely removed from our database. This Privacy Policy is subject to change from time to time, so please check back periodically. Use of the services offered at this site constitutes acceptance of the terms of this Policy.
 
 #### How secure is my information?
 
@@ -97,6 +97,6 @@ Global Survey Group or its successors and assigns may amend the terms and condit
 
 #### Contact Information:
 
-If you are not in agreement with the terms of this Policy, please unsubscribe from the Global Survey Group email list via an e-mail to [remove@GlobalSurveyGroup.com](mailto:remove@GlobalSurveyGroup.com) or write to us at Global Survey Group, PO Box 5860, Redwood City, CA 94063 and request to be removed. 
+If you are not in agreement with the terms of this Policy, please unsubscribe from the Global Survey Group [click here](http://www.globalsurveygroup.com/contact.php) or write to us at Global Survey Group, PO Box 5860, Redwood City, CA 94063 and request to be removed. 
 
-If you feel that Global Survey Group is not abiding by its posted privacy policy, please send an e-mail to [privacy@GlobalSurveyGroup.com](mailto:privacy@GlobalSurveyGroup.com) or write us at Global Survey Group, PO Box 5860, Redwood City, CA 94063.
+If you feel that Global Survey Group is not abiding by its posted privacy policy, please [click here](http://www.globalsurveygroup.com/contact.php) or write us at Global Survey Group, PO Box 5860, Redwood City, CA 94063.
