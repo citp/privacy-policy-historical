@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ripoffreport.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205194958id_/http%3A//www.ripoffreport.com/w3c/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ripoffreport.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618085625id_/http%3A//www.ripoffreport.com/w3c/policy.html) for the most accurate reproduction.*
 
-# Rip-off Report.com - badbusinessbureau.com
+# Ripoff Report
 
-This privacy policy applies to the Rip-off Report.com web site. Our contact information is:
+This privacy policy applies to the Ripoff Report web site. Our contact information is:
 
-> Rip-off Report.com  
+> Ripoff Report  
 >  PO Box 310  
 >  Tempe AZ 85280 USA  
 >  [editor@ripoffreport.com](mailto:editor@ripoffreport.com)
@@ -19,7 +19,7 @@ We collect information for the following purpose(s):
   * Website and system administration
   * Research and development 
   * Preserving social history as governed by existing law or policy 
-  * Users filing a rip-off report or rebuttal may opt-in if they would be willing to be contacted by the media, a consumer advocate, lawyer, or government authority to help further their cause or to help with an investigation against the business or individual
+  * Users filing a Ripoff Report or rebuttal may opt-in if they would be willing to be contacted by the media, a consumer advocate, lawyer, or government authority to help further their cause or to help with an investigation against the business or individual
 
 
 
@@ -31,7 +31,4 @@ Who has access to the information we collect?
 
 Of the information we do collect, we do not provide our visitors with access to information we collect.
 
-If you believe that our website has collected incorrect information or if you would like to dispute any information, please contact us using the address at the top of this page.   
-  
----  
-Feel free to send us suggestions and comments to our [editorial staff.](mailto:EDitor@ripoffreport.com) |  | Technical questions can be addressed to our [webmaster.](mailto:webmaster@RipOffReport.com) |  | Best if viewed with Netscape 4, Internet Explorer 4, or AOL 4.0. Support for JavaScript is needed to submit and search for reports.  |  | Having trouble searching or filing a report? It may be a browser problem. See our [FAQ](http://www.ripoffreport.com/faq.asp#error) for help
+If you believe that our website has collected incorrect information or if you would like to dispute any information, please contact us using the address at the top of this page. 
