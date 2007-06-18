@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercuryinsurance.com privacy policy that was archived on 2006-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061129075425id_/http%3A//about.mercuryinsurance.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercuryinsurance.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618113847id_/http%3A//about.mercuryinsurance.com/privacy.asp) for the most accurate reproduction.*
 
 # Mercury Insurance Services
 
