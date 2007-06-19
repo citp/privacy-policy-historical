@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bargello.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206065321id_/http%3A//bargello.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bargello.com privacy policy that was archived on 2007-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070619045058id_/http%3A//www.bargello.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Bargello Online Shopping Pakistan, Desi Online Shop in UK
 
@@ -51,4 +51,4 @@ Ultimately, you are solely responsible for maintaining the secrecy of your perso
 
 **Your Consent To This Agreement**
 
-By using the Web sites managed and/ or owned by Bargello.com, you consent to the collection and use of information by us as specified above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.  
+By using the Web sites managed and/or owned by Bargello.com, you consent to the collection and use of information by us as specified above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.  
