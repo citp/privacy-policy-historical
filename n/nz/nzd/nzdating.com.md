@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nzdating.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117142946id_/http%3A//www.nzdating.com/general/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nzdating.com privacy policy that was archived on 2007-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070619030440id_/http%3A//www.nzdating.com/general/privacy.aspx) for the most accurate reproduction.*
 
 # NZDating - New Zealands premier NZ dating and friendship service
 
@@ -83,5 +83,12 @@ Or use our [**contact form**](https://web.archive.org/general/contact.aspx)
 
 Please note: we do not provide email addresses to prevent automated spamming engines collecting them. If you need an email address please use webmaster at NZDating.co.nz, replacing the at and spaces with the @ sign. 
 
-|   
+| 
+
+  Text Ads
+
+NZCity Video  
+NEW! The latest video  
+news only on NZCity  
+[www.nzcity.co.nz](http://data.webads.co.nz/webad.asp?act=C&type=20&site=51&fid=4010&adid=2515)  
 
