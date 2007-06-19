@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cichlid-forum.com privacy policy that was archived on 2006-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061220034715id_/http%3A//www.cichlid-forum.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cichlid-forum.com privacy policy that was archived on 2007-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070619035533id_/http%3A//www.cichlid-forum.com/privacy.php) for the most accurate reproduction.*
 
 # Cichlid-Forum.com - Privacy Policy
 
