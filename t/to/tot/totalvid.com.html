@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the totalvid.com privacy policy that was archived on 2006-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061231204046id_/http%3A//www.totalvid.com/guidePrivacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the totalvid.com privacy policy that was archived on 2007-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070619110131id_/http%3A//www.totalvid.com/guidePrivacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 		
@@ -77,8 +77,12 @@ function cleanSearch(){
 	<div class="headerDropdowntext navContentTop">Choose a Category</div>
 	<div class="headerDropdowndropdown">
 		<script>function go(){ intIndex = document.getElementById('intCategoryIdnt').selectedIndex; destination = document.getElementById('intCategoryIdnt').options[intIndex].value; if (destination) location.href = ('/'+destination);}</script> 
- <select name="intCategoryIdnt" id="intCategoryIdnt" alt="Choose a Category" title="Choose a Category" style="width: 155px; margin:2px 0px 0px 0px;" class="searchSelect" onchange="go()"><option value="">---- All Videos ----</option><option value="Action-Sports-Videos">
+ <select name="intCategoryIdnt" id="intCategoryIdnt" alt="Choose a Category" title="Choose a Category" style="width: 155px; margin:2px 0px 0px 0px;" class="searchSelect" onchange="go()"><option value="">---- All Videos ----</option><option value="TV-Shows">
+TV Shows				</option>
+<option value="Action-Sports-Videos">
 Action Sports				</option>
+<option value="Animal-Care-Videos">
+Animal Care				</option>
 <option value="Anime-Videos">
 Anime				</option>
 <option value="Arts-Crafts-Hobbies-Videos">
@@ -89,16 +93,14 @@ Comedy				</option>
 Dance Instruction				</option>
 <option value="Documentary-Videos">
 Documentary				</option>
-<option value="Dog-Training-Videos">
-Dog Training				</option>
 <option value="Education-Videos">
 Education and Self Help				</option>
 <option value="Fitness-and-Exercise-Videos">
-Fitness and Exercise				</option>
+Exercise and Fitness				</option>
 <option value="Food-and-Beverage-Videos">
 Food and Beverage				</option>
-<option value="Gambling-Instruction-Videos">
-Gambling				</option>
+<option value="Gaming-Instruction-Videos">
+Gaming				</option>
 <option value="Health-and-Beauty-Videos">
 Health and Beauty				</option>
 <option value="Home-Improvement-Videos">
@@ -111,8 +113,6 @@ Love and Intimacy				</option>
 Martial Arts				</option>
 <option value="Massage-Videos">
 Massage				</option>
-<option value="Military-History-Videos">
-Military History				</option>
 <option value="Motorsports-Videos">
 Motorsports				</option>
 <option value="Music-Videos">
@@ -121,8 +121,6 @@ Music				</option>
 Outdoors				</option>
 <option value="Parenting-Videos">
 Parenting				</option>
-<option value="Religion-Videos">
-Religion				</option>
 <option value="Self-Defense-Videos">
 Self-Defense				</option>
 <option value="Sports-Videos">
@@ -147,146 +145,146 @@ Travel				</option>
 				<tbody><tr>
 					<td width="175" valign="top" align="left">
 						
-	<script type="text/javascript">
-/***********************************************
-* AnyLink Vertical Menu- © Dynamic Drive (www.dynamicdrive.com)
-* This notice MUST stay intact for legal use
-* Visit http://www.dynamicdrive.com/ for full source code
-***********************************************/	
-var disappeardelay=250  //menu disappear speed onMouseout (in miliseconds)
-var horizontaloffset=-4 //horizontal offset of menu from default location. (0-5 is a good value)
-var currDiv = 0
-/////No further editting needed
-var ie4=document.all
-var ns6=document.getElementById&&!document.all
-if (ie4||ns6)
-document.write('<div id="dropmenudiv" style="visibility:hidden;width: 160px" onMouseover="clearhidemenu()" onMouseout="dynamichide(event)"></div>')
-function getposOffset(what, offsettype){
-var totaloffset=(offsettype=="left")? what.offsetLeft : what.offsetTop;
-var parentEl=what.offsetParent;
-while (parentEl!=null){
-totaloffset=(offsettype=="left")? totaloffset+parentEl.offsetLeft : totaloffset+parentEl.offsetTop;
-parentEl=parentEl.offsetParent;
-}
-return totaloffset;
-}
-function showhide(obj, e, visible, hidden, menuwidth){
-if (ie4||ns6)
-dropmenuobj.style.left=dropmenuobj.style.top=-500
-dropmenuobj.widthobj=dropmenuobj.style
-dropmenuobj.widthobj.width=menuwidth
-if (e.type=="click" && obj.visibility==hidden || e.type=="mouseover")
-obj.visibility=visible
-else if (e.type=="click")
-obj.visibility=hidden
-}
-function iecompattest(){
-return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
-}
-function clearbrowseredge(obj, whichedge){
-var edgeoffset=0
-if (whichedge=="rightedge"){
-var windowedge=ie4 && !window.opera? iecompattest().scrollLeft+iecompattest().clientWidth-15 : window.pageXOffset+window.innerWidth-15
-dropmenuobj.contentmeasure=dropmenuobj.offsetWidth
-if (windowedge-dropmenuobj.x-obj.offsetWidth < dropmenuobj.contentmeasure)
-edgeoffset=dropmenuobj.contentmeasure+obj.offsetWidth
-}
-else{
-var topedge=ie4 && !window.opera? iecompattest().scrollTop : window.pageYOffset
-var windowedge=ie4 && !window.opera? iecompattest().scrollTop+iecompattest().clientHeight-15 : window.pageYOffset+window.innerHeight-18
-dropmenuobj.contentmeasure=dropmenuobj.offsetHeight
-if (windowedge-dropmenuobj.y < dropmenuobj.contentmeasure){ //move menu up?
-edgeoffset=dropmenuobj.contentmeasure-obj.offsetHeight
-if ((dropmenuobj.y-topedge)<dropmenuobj.contentmeasure) //up no good either? (position at top of viewable window then)
-edgeoffset=dropmenuobj.y
-}
-}
-return edgeoffset
-}
-function populatemenu(what){
-if (ie4||ns6)
-dropmenuobj.innerHTML=what.join("")
-}
-function clearOld(){
-if (currDiv!=0){
-currDiv.style.backgroundColor='#FFFFFF';
-currDiv.style.borderWidth='0px';}
-}
-function dropdownmenu(obj, e, menucontents, menuwidth){
-obj.style.backgroundColor='#CCCCCC';
-obj.style.borderWidth='1px';
-currDiv=obj
-if (window.event) event.cancelBubble=true
-else if (e.stopPropagation) e.stopPropagation()
-clearhidemenu()
-dropmenuobj=document.getElementById? document.getElementById("dropmenudiv") : dropmenudiv
-populatemenu(menucontents)
-
-if (ie4||ns6){
-showhide(dropmenuobj.style, e, "visible", "hidden", menuwidth)
-dropmenuobj.x=getposOffset(obj, "left")
-dropmenuobj.y=getposOffset(obj, "top")
-dropmenuobj.style.left=dropmenuobj.x-clearbrowseredge(obj, "rightedge")+obj.offsetWidth+horizontaloffset+"px"
-dropmenuobj.style.top=dropmenuobj.y-clearbrowseredge(obj, "bottomedge")+"px"
-}
-return clickreturnvalue()
-}
-function clickreturnvalue(){
-if (ie4||ns6) return false
-else return true
-}
-
-function contains_ns6(a, b) {
-while (b.parentNode)
-if ((b = b.parentNode) == a)
-return true;
-return false;
-}
-function dynamichide(e){
-if (ie4&&!dropmenuobj.contains(e.toElement))
-delayhidemenu()
-else if (ns6&&e.currentTarget!= e.relatedTarget&& !contains_ns6(e.currentTarget, e.relatedTarget))
-delayhidemenu()
-}
-function hidemenu(e){
-if (typeof dropmenuobj!="undefined"){
-if (ie4||ns6)
-dropmenuobj.style.visibility="hidden"
-currDiv.style.backgroundColor='#FFFFFF';
-currDiv.style.borderWidth='0px';
-}
-}
-function delayhidemenu(obj){
-if (ie4||ns6)
-delayhide=setTimeout("hidemenu()",disappeardelay)
-}
-function clearhidemenu(){
-if (typeof delayhide!="undefined")
-clearTimeout(delayhide)
-}
-</script><div id="dropmenudiv" style="visibility:hidden;width: 160px" onmouseover="clearhidemenu()" onmouseout="dynamichide(event)"></div>
-<script>
-/*Contents for menu 1
-var menu1=new Array()
-menu1[0]='&nbsp;'
-menu1[1]='<a href="http://codingforums.com">Coding Forums</a>'
-menu1[2]='<a href="http://codingforums.com">Coding Forums</a>'
-menu1[3]='<a href="http://www.cssdrive.com">CSS Drive</a>'
-menu1[4]='<a href="http://tools.dynamicdrive.com/imageoptimizer/">Image Optimizer</a>'
-
-
-//Contents for menu 2, and so on
-var menu2=new Array()
-menu2[0]='&nbsp;'
-menu2[1]='<a href="http://www.javascriptkit.com/javaindex.shtml">JavaScript tutorials</a>'
-menu2[2]='<a href="http://news.bbc.co.uk">JavaScript Reference</a>'
-menu2[4]='<a href="http://www.javascriptkit.com/java/">Java Applets</a>'
-menu2[3]='<a href="http://www.javascriptkit.com/dhtmltutors/">DHTML & CSS</a>'
-menu2[4]='<a href="http://www.javascriptkit.com/howto/">Design Tutorials</a>'
-*/
-</script>
-
-			<table cellpadding="0" cellspacing="0" border="0" width="175" style="border-width:1px; border-color:#000000; border-style: solid;">
+			<script type="text/javascript">
+		/***********************************************
+		* AnyLink Vertical Menu- © Dynamic Drive (www.dynamicdrive.com)
+		* This notice MUST stay intact for legal use
+		* Visit http://www.dynamicdrive.com/ for full source code
+		***********************************************/	
+		var disappeardelay=250  //menu disappear speed onMouseout (in miliseconds)
+		var horizontaloffset=-4 //horizontal offset of menu from default location. (0-5 is a good value)
+		var currDiv = 0
+		/////No further editting needed
+		var ie4=document.all
+		var ns6=document.getElementById&&!document.all
+		if (ie4||ns6)
+		document.write('<div id="dropmenudiv" style="visibility:hidden;width: 160px" onMouseover="clearhidemenu()" onMouseout="dynamichide(event)"></div>')
+		function getposOffset(what, offsettype){
+		var totaloffset=(offsettype=="left")? what.offsetLeft : what.offsetTop;
+		var parentEl=what.offsetParent;
+		while (parentEl!=null){
+		totaloffset=(offsettype=="left")? totaloffset+parentEl.offsetLeft : totaloffset+parentEl.offsetTop;
+		parentEl=parentEl.offsetParent;
+		}
+		return totaloffset;
+		}
+		function showhide(obj, e, visible, hidden, menuwidth){
+		if (ie4||ns6)
+		dropmenuobj.style.left=dropmenuobj.style.top=-500
+		dropmenuobj.widthobj=dropmenuobj.style
+		dropmenuobj.widthobj.width=menuwidth
+		if (e.type=="click" && obj.visibility==hidden || e.type=="mouseover")
+		obj.visibility=visible
+		else if (e.type=="click")
+		obj.visibility=hidden
+		}
+		function iecompattest(){
+		return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+		}
+		function clearbrowseredge(obj, whichedge){
+		var edgeoffset=0
+		if (whichedge=="rightedge"){
+		var windowedge=ie4 && !window.opera? iecompattest().scrollLeft+iecompattest().clientWidth-15 : window.pageXOffset+window.innerWidth-15
+		dropmenuobj.contentmeasure=dropmenuobj.offsetWidth
+		if (windowedge-dropmenuobj.x-obj.offsetWidth < dropmenuobj.contentmeasure)
+		edgeoffset=dropmenuobj.contentmeasure+obj.offsetWidth
+		}
+		else{
+		var topedge=ie4 && !window.opera? iecompattest().scrollTop : window.pageYOffset
+		var windowedge=ie4 && !window.opera? iecompattest().scrollTop+iecompattest().clientHeight-15 : window.pageYOffset+window.innerHeight-18
+		dropmenuobj.contentmeasure=dropmenuobj.offsetHeight
+		if (windowedge-dropmenuobj.y < dropmenuobj.contentmeasure){ //move menu up?
+		edgeoffset=dropmenuobj.contentmeasure-obj.offsetHeight
+		if ((dropmenuobj.y-topedge)<dropmenuobj.contentmeasure) //up no good either? (position at top of viewable window then)
+		edgeoffset=dropmenuobj.y
+		}
+		}
+		return edgeoffset
+		}
+		function populatemenu(what){
+		if (ie4||ns6)
+		dropmenuobj.innerHTML=what.join("")
+		}
+		function clearOld(){
+		if (currDiv!=0){
+		currDiv.style.backgroundColor='#FFFFFF';
+		currDiv.style.borderWidth='0px';}
+		}
+		function dropdownmenu(obj, e, menucontents, menuwidth){
+		obj.style.backgroundColor='#CCCCCC';
+		obj.style.borderWidth='1px';
+		currDiv=obj
+		if (window.event) event.cancelBubble=true
+		else if (e.stopPropagation) e.stopPropagation()
+		clearhidemenu()
+		dropmenuobj=document.getElementById? document.getElementById("dropmenudiv") : dropmenudiv
+		populatemenu(menucontents)
+		
+		if (ie4||ns6){
+		showhide(dropmenuobj.style, e, "visible", "hidden", menuwidth)
+		dropmenuobj.x=getposOffset(obj, "left")
+		dropmenuobj.y=getposOffset(obj, "top")
+		dropmenuobj.style.left=dropmenuobj.x-clearbrowseredge(obj, "rightedge")+obj.offsetWidth+horizontaloffset+"px"
+		dropmenuobj.style.top=dropmenuobj.y-clearbrowseredge(obj, "bottomedge")+"px"
+		}
+		return clickreturnvalue()
+		}
+		function clickreturnvalue(){
+		if (ie4||ns6) return false
+		else return true
+		}
+		
+		function contains_ns6(a, b) {
+		while (b.parentNode)
+		if ((b = b.parentNode) == a)
+		return true;
+		return false;
+		}
+		function dynamichide(e){
+		if (ie4&&!dropmenuobj.contains(e.toElement))
+		delayhidemenu()
+		else if (ns6&&e.currentTarget!= e.relatedTarget&& !contains_ns6(e.currentTarget, e.relatedTarget))
+		delayhidemenu()
+		}
+		function hidemenu(e){
+		if (typeof dropmenuobj!="undefined"){
+		if (ie4||ns6)
+		dropmenuobj.style.visibility="hidden"
+		currDiv.style.backgroundColor='#FFFFFF';
+		currDiv.style.borderWidth='0px';
+		}
+		}
+		function delayhidemenu(obj){
+		if (ie4||ns6)
+		delayhide=setTimeout("hidemenu()",disappeardelay)
+		}
+		function clearhidemenu(){
+		if (typeof delayhide!="undefined")
+		clearTimeout(delayhide)
+		}
+		</script><div id="dropmenudiv" style="visibility:hidden;width: 160px" onmouseover="clearhidemenu()" onmouseout="dynamichide(event)"></div>
+		<script>
+		/*Contents for menu 1
+		var menu1=new Array()
+		menu1[0]='&nbsp;'
+		menu1[1]='<a href="http://codingforums.com">Coding Forums</a>'
+		menu1[2]='<a href="http://codingforums.com">Coding Forums</a>'
+		menu1[3]='<a href="http://www.cssdrive.com">CSS Drive</a>'
+		menu1[4]='<a href="http://tools.dynamicdrive.com/imageoptimizer/">Image Optimizer</a>'
+		
+		
+		//Contents for menu 2, and so on
+		var menu2=new Array()
+		menu2[0]='&nbsp;'
+		menu2[1]='<a href="http://www.javascriptkit.com/javaindex.shtml">JavaScript tutorials</a>'
+		menu2[2]='<a href="http://news.bbc.co.uk">JavaScript Reference</a>'
+		menu2[4]='<a href="http://www.javascriptkit.com/java/">Java Applets</a>'
+		menu2[3]='<a href="http://www.javascriptkit.com/dhtmltutors/">DHTML & CSS</a>'
+		menu2[4]='<a href="http://www.javascriptkit.com/howto/">Design Tutorials</a>'
+		*/
+		</script>
+		
+					<table cellpadding="0" cellspacing="0" border="0" width="175" style="border-width:1px; border-color:#000000; border-style: solid;">
 		<tbody><tr>
 			<td bgcolor="#c8c7c7" valign="center"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td valign="center"><img src="/images/imgBrowseNavHeader.gif" vspace="4" style="margin-left:3px;"></td><td valign="center" width="100%"> <img alt="Browse Categories" title="Browse Categories" src="/images/imgArrowDown.gif" border="0" style="margin-left:3px;"></td></tr></tbody></table></td>
 		</tr>
@@ -294,7 +292,7 @@ menu2[4]='<a href="http://www.javascriptkit.com/howto/">Design Tutorials</a>'
 			<td valign="center"><img src="/images/img1spacer.gif" height="3"></td>
 		</tr>
 		<tr><td align="left">
-			<div id="navM" name="navM" style="width:170px; border: 0 solid; line-height:15px; text-indent:10px;" onmouseover="clearOld(); dropdownmenu(this, event, menu1, '150px')" onmouseout="delayhidemenu(this)">
+			<div id="navM" name="navM" style="width:170px; border: 0 solid; line-height:15px; text-indent:10px;" onmouseover="clearOld(); dropdownmenu(this, event, menu999, '150px')" onmouseout="delayhidemenu(this)">				<img src="/images/imgLeftBarCategoryArrow.gif">&nbsp;<a href="/TV-Shows/1" class="navLink1" style="color:#333333;" title="TotalVid Category: TV Shows">TV Shows</a>			</div>			<div id="navM" name="navM" style="width:170px; border: 0 solid; line-height:15px; text-indent:10px;" onmouseover="clearOld(); dropdownmenu(this, event, menu1, '150px')" onmouseout="delayhidemenu(this)">
 				<img src="/images/imgLeftBarCategoryArrow.gif">&nbsp;<a href="/Action-Sports-Videos/1" class="navLink1" style="color:#333333;" title="TotalVid Category: Action Sports">Action Sports</a>
 			</div>
 			<div id="navM" name="navM" style="width:170px; border: 0 solid; line-height:15px; text-indent:10px;" onmouseover="clearOld(); dropdownmenu(this, event, menu2, '150px')" onmouseout="delayhidemenu(this)">
@@ -316,19 +314,19 @@ menu2[4]='<a href="http://www.javascriptkit.com/howto/">Design Tutorials</a>'
 				<img src="/images/imgLeftBarCategoryArrow.gif">&nbsp;<a href="/Education-Videos/1" class="navLink1" style="color:#333333;" title="TotalVid Category: Education and Self Help">Education and Self Help</a>
 			</div>
 			<div id="navM" name="navM" style="width:170px; border: 0 solid; line-height:15px; text-indent:10px;" onmouseover="clearOld(); dropdownmenu(this, event, menu8, '150px')" onmouseout="delayhidemenu(this)">
-				<img src="/images/imgLeftBarCategoryArrow.gif">&nbsp;<a href="/Fitness-and-Exercise-Videos/1" class="navLink1" style="color:#333333;" title="TotalVid Category: Fitness and Exercise">Fitness and Exercise</a>
+				<img src="/images/imgLeftBarCategoryArrow.gif">&nbsp;<a href="/Fitness-and-Exercise-Videos/1" class="navLink1" style="color:#333333;" title="TotalVid Category: Exercise and Fitness">Exercise and Fitness</a>
 			</div>
 			<div id="navM" name="navM" style="width:170px; border: 0 solid; line-height:15px; text-indent:10px;" onmouseover="clearOld(); dropdownmenu(this, event, menu9, '150px')" onmouseout="delayhidemenu(this)">
 				<img src="/images/imgLeftBarCategoryArrow.gif">&nbsp;<a href="/Food-and-Beverage-Videos/1" class="navLink1" style="color:#333333;" title="TotalVid Category: Food and Beverage">Food and Beverage</a>
 			</div>
 			<div id="navM" name="navM" style="width:170px; border: 0 solid; line-height:15px; text-indent:10px;" onmouseover="clearOld(); dropdownmenu(this, event, menu10, '150px')" onmouseout="delayhidemenu(this)">
-				<img src="/images/imgLeftBarCategoryArrow.gif">&nbsp;<a href="/Gambling-Instruction-Videos/1" class="navLink1" style="color:#333333;" title="TotalVid Category: Gambling">Gambling</a>
+				<img src="/images/imgLeftBarCategoryArrow.gif">&nbsp;<a href="/Gaming-Instruction-Videos/1" class="navLink1" style="color:#333333;" title="TotalVid Category: Gaming">Gaming</a>
 			</div>
 			<div id="navM" name="navM" style="width:170px; border: 0 solid; line-height:15px; text-indent:10px;" onmouseover="clearOld(); dropdownmenu(this, event, menu11, '150px')" onmouseout="delayhidemenu(this)">
 				<img src="/images/imgLeftBarCategoryArrow.gif">&nbsp;<a href="/Home-Improvement-Videos/1" class="navLink1" style="color:#333333;" title="TotalVid Category: Home Improvement">Home Improvement</a>
 			</div>
 			<div id="navM" name="navM" style="width:170px; border: 0 solid; line-height:15px; text-indent:10px;" onmouseover="clearOld(); dropdownmenu(this, event, menu12, '150px')" onmouseout="delayhidemenu(this)">
-				<img src="/images/imgLeftBarCategoryArrow.gif">&nbsp;<a href="/browse.cfm?blnInstruction=1" class="navLink1" style="color:#333333;" title="TotalVid Category: Instruction">Instruction</a>
+				<img src="/images/imgLeftBarCategoryArrow.gif">&nbsp;<a href="/Instructional-Videos/1" class="navLink1" style="color:#333333;" title="TotalVid Category: Instructional">Instructional</a>
 			</div>
 			<div id="navM" name="navM" style="width:170px; border: 0 solid; line-height:15px; text-indent:10px;" onmouseover="clearOld(); dropdownmenu(this, event, menu13, '150px')" onmouseout="delayhidemenu(this)">
 				<img src="/images/imgLeftBarCategoryArrow.gif">&nbsp;<a href="/Love-and-Intimacy-Videos/1" class="navLink1" style="color:#333333;" title="TotalVid Category: Love and Intimacy">Love and Intimacy</a>
@@ -337,34 +335,25 @@ menu2[4]='<a href="http://www.javascriptkit.com/howto/">Design Tutorials</a>'
 				<img src="/images/imgLeftBarCategoryArrow.gif">&nbsp;<a href="/Martial-Arts-Instruction-Videos/1" class="navLink1" style="color:#333333;" title="TotalVid Category: Martial Arts">Martial Arts</a>
 			</div>
 			<div id="navM" name="navM" style="width:170px; border: 0 solid; line-height:15px; text-indent:10px;" onmouseover="clearOld(); dropdownmenu(this, event, menu15, '150px')" onmouseout="delayhidemenu(this)">
-				<img src="/images/imgLeftBarCategoryArrow.gif">&nbsp;<a href="/Military-History-Videos/1" class="navLink1" style="color:#333333;" title="TotalVid Category: Military History">Military History</a>
-			</div>
-			<div id="navM" name="navM" style="width:170px; border: 0 solid; line-height:15px; text-indent:10px;" onmouseover="clearOld(); dropdownmenu(this, event, menu16, '150px')" onmouseout="delayhidemenu(this)">
 				<img src="/images/imgLeftBarCategoryArrow.gif">&nbsp;<a href="/Motorsports-Videos/1" class="navLink1" style="color:#333333;" title="TotalVid Category: Motorsports">Motorsports</a>
 			</div>
-			<div id="navM" name="navM" style="width:170px; border: 0 solid; line-height:15px; text-indent:10px;" onmouseover="clearOld(); dropdownmenu(this, event, menu17, '150px')" onmouseout="delayhidemenu(this)">
+			<div id="navM" name="navM" style="width:170px; border: 0 solid; line-height:15px; text-indent:10px;" onmouseover="clearOld(); dropdownmenu(this, event, menu16, '150px')" onmouseout="delayhidemenu(this)">
 				<img src="/images/imgLeftBarCategoryArrow.gif">&nbsp;<a href="/Music-Videos/1" class="navLink1" style="color:#333333;" title="TotalVid Category: Music">Music</a>
 			</div>
-			<div id="navM" name="navM" style="width:170px; border: 0 solid; line-height:15px; text-indent:10px;" onmouseover="clearOld(); dropdownmenu(this, event, menu18, '150px')" onmouseout="delayhidemenu(this)">
+			<div id="navM" name="navM" style="width:170px; border: 0 solid; line-height:15px; text-indent:10px;" onmouseover="clearOld(); dropdownmenu(this, event, menu17, '150px')" onmouseout="delayhidemenu(this)">
 				<img src="/images/imgLeftBarCategoryArrow.gif">&nbsp;<a href="/Outdoors-Videos/1" class="navLink1" style="color:#333333;" title="TotalVid Category: Outdoors">Outdoors</a>
 			</div>
-			<div id="navM" name="navM" style="width:170px; border: 0 solid; line-height:15px; text-indent:10px;" onmouseover="clearOld(); dropdownmenu(this, event, menu19, '150px')" onmouseout="delayhidemenu(this)">
+			<div id="navM" name="navM" style="width:170px; border: 0 solid; line-height:15px; text-indent:10px;" onmouseover="clearOld(); dropdownmenu(this, event, menu18, '150px')" onmouseout="delayhidemenu(this)">
 				<img src="/images/imgLeftBarCategoryArrow.gif">&nbsp;<a href="/Parenting-Videos/1" class="navLink1" style="color:#333333;" title="TotalVid Category: Parenting">Parenting</a>
 			</div>
-			<div id="navM" name="navM" style="width:170px; border: 0 solid; line-height:15px; text-indent:10px;" onmouseover="clearOld(); dropdownmenu(this, event, menu20, '150px')" onmouseout="delayhidemenu(this)">
-				<img src="/images/imgLeftBarCategoryArrow.gif">&nbsp;<a href="/Religion-Videos/1" class="navLink1" style="color:#333333;" title="TotalVid Category: Religion">Religion</a>
-			</div>
-			<div id="navM" name="navM" style="width:170px; border: 0 solid; line-height:15px; text-indent:10px;" onmouseover="clearOld(); dropdownmenu(this, event, menu21, '150px')" onmouseout="delayhidemenu(this)">
+			<div id="navM" name="navM" style="width:170px; border: 0 solid; line-height:15px; text-indent:10px;" onmouseover="clearOld(); dropdownmenu(this, event, menu19, '150px')" onmouseout="delayhidemenu(this)">
 				<img src="/images/imgLeftBarCategoryArrow.gif">&nbsp;<a href="/Self-Defense-Videos/1" class="navLink1" style="color:#333333;" title="TotalVid Category: Self-Defense">Self-Defense</a>
 			</div>
-			<div id="navM" name="navM" style="width:170px; border: 0 solid; line-height:15px; text-indent:10px;" onmouseover="clearOld(); dropdownmenu(this, event, menu22, '150px')" onmouseout="delayhidemenu(this)">
+			<div id="navM" name="navM" style="width:170px; border: 0 solid; line-height:15px; text-indent:10px;" onmouseover="clearOld(); dropdownmenu(this, event, menu20, '150px')" onmouseout="delayhidemenu(this)">
 				<img src="/images/imgLeftBarCategoryArrow.gif">&nbsp;<a href="/Sports-Videos/1" class="navLink1" style="color:#333333;" title="TotalVid Category: Sports">Sports</a>
 			</div>
-			<div id="navM" name="navM" style="width:170px; border: 0 solid; line-height:15px; text-indent:10px;" onmouseover="clearOld(); dropdownmenu(this, event, menu23, '150px')" onmouseout="delayhidemenu(this)">
+			<div id="navM" name="navM" style="width:170px; border: 0 solid; line-height:15px; text-indent:10px;" onmouseover="clearOld(); dropdownmenu(this, event, menu21, '150px')" onmouseout="delayhidemenu(this)">
 				<img src="/images/imgLeftBarCategoryArrow.gif">&nbsp;<a href="/Travel-Videos/1" class="navLink1" style="color:#333333;" title="TotalVid Category: Travel">Travel</a>
-			</div>
-			<div style="width:170px; border: 0 solid; line-height:15px; text-indent:10px;" onmouseover="clearOld();">
-				<img src="/images/imgLeftBarCategoryArrow.gif">&nbsp;<a href="/browseFC.cfm" class="navLink2" style="color:#333333; text-decoration:none" title="TotalVid Free Clips"><strong>Free Clips</strong></a>
 			</div>
 			</td></tr>
 		<tr>
@@ -386,7 +375,7 @@ menu2[4]='<a href="http://www.javascriptkit.com/howto/">Design Tutorials</a>'
  menu1[11]='<a href="/Snowboarding-Videos">Snowboarding</a>'
  menu1[12]='<a href="/Snowkiting-Videos">Snowkiting</a>'
  menu1[13]='<a href="/Snowmobiling-Videos">Snowmobiling</a>'
- menu1[14]='<a href="/Surfing-Videos">Surfing</a>'
+ menu1[14]='<a href="/Surfing-Videos">Surf</a>'
  menu1[15]='<a href="/Wake-Videos">Wake</a>'
  menu1[16]='<a href="/Windsurfing-Videos">Windsurfing</a>'
  var menu2=new Array()
@@ -400,14 +389,16 @@ menu2[4]='<a href="http://www.javascriptkit.com/howto/">Design Tutorials</a>'
  menu3[0]='&nbsp;'
  menu3[1]='<a href="/Art-Documentary-Videos">Art Documentary</a>'
  menu3[2]='<a href="/Drawing-Videos">Drawing</a>'
- menu3[3]='<a href="/Magic-Videos">Magic</a>'
- menu3[4]='<a href="/Metalsmithing-Videos">Metalsmithing</a>'
- menu3[5]='<a href="/Needlecrafts-Videos">Needlecrafts</a>'
- menu3[6]='<a href="/Painting-Videos">Painting</a>'
- menu3[7]='<a href="/Papercrafts-Videos">Papercrafts</a>'
- menu3[8]='<a href="/Photography-Videos">Photography</a>'
- menu3[9]='<a href="/Pottery-Videos">Pottery</a>'
- menu3[10]='<a href="/Woodworking-Videos">Woodworking</a>'
+ menu3[3]='<a href="/Juggling-Videos">Juggling</a>'
+ menu3[4]='<a href="/Magic-Videos">Magic</a>'
+ menu3[5]='<a href="/Metalsmithing-Videos">Metalsmithing</a>'
+ menu3[6]='<a href="/Needlecrafts-Videos">Needlecrafts</a>'
+ menu3[7]='<a href="/Painting-Videos">Painting</a>'
+ menu3[8]='<a href="/Papercrafts-Videos">Papercrafts</a>'
+ menu3[9]='<a href="/Photography-Videos">Photography</a>'
+ menu3[10]='<a href="/Pottery-Videos">Pottery</a>'
+ menu3[11]='<a href="/Sandcastles-Videos">Sandcastles</a>'
+ menu3[12]='<a href="/Woodworking-Videos">Woodworking</a>'
  var menu4=new Array()
  menu4[0]='&nbsp;'
  menu4[1]='<a href="/Blue-Collar-Comedy-Videos">Blue Collar</a>'
@@ -440,14 +431,18 @@ menu2[4]='<a href="http://www.javascriptkit.com/howto/">Design Tutorials</a>'
  menu6[11]='<a href="/Documentary-Videos-Sports">Sports</a>'
  var menu7=new Array()
  menu7[0]='&nbsp;'
- menu7[1]='<a href="/Foreign-Language-Videos">Foreign Language</a>'
- menu7[2]='<a href="/Investing-Videos">Investing</a>'
- menu7[3]='<a href="/Math-Videos">Math</a>'
- menu7[4]='<a href="/Physics-Videos">Physics</a>'
- menu7[5]='<a href="/Poetry-Videos">Poetry</a>'
- menu7[6]='<a href="/Public-Speaking-Videos">Public Speaking</a>'
- menu7[7]='<a href="/Education-Videos-Science">Science</a>'
- menu7[8]='<a href="/Education-Videos-Self-Help">Self Help</a>'
+ menu7[1]='<a href="/Education-Videos-Business">Business</a>'
+ menu7[2]='<a href="/Foreign-Language-Videos">Foreign Language</a>'
+ menu7[3]='<a href="/Investing-Videos">Investing</a>'
+ menu7[4]='<a href="/Legal-Videos">Legal</a>'
+ menu7[5]='<a href="/Math-Videos">Math</a>'
+ menu7[6]='<a href="/Physics-Videos">Physics</a>'
+ menu7[7]='<a href="/Poetry-Videos">Poetry</a>'
+ menu7[8]='<a href="/Public-Speaking-Videos">Public Speaking</a>'
+ menu7[9]='<a href="/Religion-Videos">Religion</a>'
+ menu7[10]='<a href="/Education-Videos-Science">Science</a>'
+ menu7[11]='<a href="/Education-Videos-Self-Help">Self Help</a>'
+ menu7[12]='<a href="/Education-Videos-Technology">Technology</a>'
  var menu8=new Array()
  menu8[0]='&nbsp;'
  menu8[1]='<a href="/Abs-Videos">Abs</a>'
@@ -499,26 +494,27 @@ menu2[4]='<a href="http://www.javascriptkit.com/howto/">Design Tutorials</a>'
  menu11[18]='<a href="/Wood-and-Woodworking-Videos">Wood and Woodworking</a>'
  var menu12=new Array()
  menu12[0]='&nbsp;'
- menu12[1]='<a href="/browse.cfm?blnInstruction=1&intSelectedIdnt=8693965" class="navLink2" title="TotalVid Category: Action Sports">Action Sports</a>'
- menu12[2]='<a href="/browse.cfm?blnInstruction=1&intSelectedIdnt=69842327" class="navLink2" title="TotalVid Category: Arts, Crafts and Hobbies">Arts, Crafts and Hobbies</a>'
- menu12[3]='<a href="/browse.cfm?blnInstruction=1&intSelectedIdnt=55412195" class="navLink2" title="TotalVid Category: Dance Instruction">Dance Instruction</a>'
- menu12[4]='<a href="/browse.cfm?blnInstruction=1&intSelectedIdnt=88239358" class="navLink2" title="TotalVid Category: Dog Training">Dog Training</a>'
- menu12[5]='<a href="/browse.cfm?blnInstruction=1&intSelectedIdnt=80959117" class="navLink2" title="TotalVid Category: Education and Self Help">Education and Self Help</a>'
- menu12[6]='<a href="/browse.cfm?blnInstruction=1&intSelectedIdnt=39859348" class="navLink2" title="TotalVid Category: Fitness and Exercise">Fitness and Exercise</a>'
- menu12[7]='<a href="/browse.cfm?blnInstruction=1&intSelectedIdnt=80959487" class="navLink2" title="TotalVid Category: Food and Beverage">Food and Beverage</a>'
- menu12[8]='<a href="/browse.cfm?blnInstruction=1&intSelectedIdnt=34694960" class="navLink2" title="TotalVid Category: Gambling">Gambling</a>'
- menu12[9]='<a href="/browse.cfm?blnInstruction=1&intSelectedIdnt=89699114" class="navLink2" title="TotalVid Category: Health and Beauty">Health and Beauty</a>'
- menu12[10]='<a href="/browse.cfm?blnInstruction=1&intSelectedIdnt=28337147" class="navLink2" title="TotalVid Category: Home Improvement">Home Improvement</a>'
- menu12[11]='<a href="/browse.cfm?blnInstruction=1&intSelectedIdnt=111954060" class="navLink2" title="TotalVid Category: Instructional">Instructional</a>'
- menu12[12]='<a href="/browse.cfm?blnInstruction=1&intSelectedIdnt=87458003" class="navLink2" title="TotalVid Category: Love and Intimacy">Love and Intimacy</a>'
- menu12[13]='<a href="/browse.cfm?blnInstruction=1&intSelectedIdnt=28584828" class="navLink2" title="TotalVid Category: Martial Arts">Martial Arts</a>'
- menu12[14]='<a href="/browse.cfm?blnInstruction=1&intSelectedIdnt=97908679" class="navLink2" title="TotalVid Category: Massage">Massage</a>'
- menu12[15]='<a href="/browse.cfm?blnInstruction=1&intSelectedIdnt=8697323" class="navLink2" title="TotalVid Category: Motorsports">Motorsports</a>'
- menu12[16]='<a href="/browse.cfm?blnInstruction=1&intSelectedIdnt=54592414" class="navLink2" title="TotalVid Category: Music">Music</a>'
- menu12[17]='<a href="/browse.cfm?blnInstruction=1&intSelectedIdnt=8697358" class="navLink2" title="TotalVid Category: Outdoors">Outdoors</a>'
- menu12[18]='<a href="/browse.cfm?blnInstruction=1&intSelectedIdnt=51384624" class="navLink2" title="TotalVid Category: Parenting">Parenting</a>'
- menu12[19]='<a href="/browse.cfm?blnInstruction=1&intSelectedIdnt=28599306" class="navLink2" title="TotalVid Category: Self-Defense">Self-Defense</a>'
- menu12[20]='<a href="/browse.cfm?blnInstruction=1&intSelectedIdnt=43190122" class="navLink2" title="TotalVid Category: Sports">Sports</a>'
+ menu12[1]='<a href="/Action-Sports-Instructional">Action Sports</a>'
+ menu12[2]='<a href="/Animal-Care-Instructional">Animal Care</a>'
+ menu12[3]='<a href="/Arts-Crafts-Hobbies-Instructional">Arts, Crafts and Hobbies</a>'
+ menu12[4]='<a href="/Dance-Instructional">Dance</a>'
+ menu12[5]='<a href="/Education-Instructional">Education and Self Help</a>'
+ menu12[6]='<a href="/Fitness-and-Exercise-Instructional">Exercise and Fitness</a>'
+ menu12[7]='<a href="/Food-and-Beverage-Instructional">Food and Beverage</a>'
+ menu12[8]='<a href="/Foreign-Languages-Instructional">Foreign Languages</a>'
+ menu12[9]='<a href="/Gaming-Instructional">Gaming</a>'
+ menu12[10]='<a href="/Health-and-Beauty-Instructional">Health and Beauty</a>'
+ menu12[11]='<a href="/Home-Improvement-Instructional">Home Improvement</a>'
+ menu12[12]='<a href="/Love-and-Intimacy-Instructional">Love and Intimacy</a>'
+ menu12[13]='<a href="/Martial-Arts-Instructional">Martial Arts</a>'
+ menu12[14]='<a href="/Massage-Instructional">Massage</a>'
+ menu12[15]='<a href="/Motorsports-Instructional">Motorsports</a>'
+ menu12[16]='<a href="/Music-Instructional">Music</a>'
+ menu12[17]='<a href="/Outdoors-Instructional">Outdoors</a>'
+ menu12[18]='<a href="/Parenting-Instructional">Parenting</a>'
+ menu12[19]='<a href="/Self-Defense-Instructional">Self-Defense</a>'
+ menu12[20]='<a href="/Sign-Language-Videos-Instructional">Sign Language</a>'
+ menu12[21]='<a href="/Sports-Instructional">Sports</a>'
  var menu13=new Array()
  menu13[0]='&nbsp;'
  menu13[1]='<a href="/Love-and-Intimacy-Videos">Love and Intimacy</a>'
@@ -527,86 +523,91 @@ menu2[4]='<a href="http://www.javascriptkit.com/howto/">Design Tutorials</a>'
  menu14[1]='<a href="/Boxing-Videos">Boxing</a>'
  menu14[2]='<a href="/Capoeira-Videos">Capoeira</a>'
  menu14[3]='<a href="/Hapkido-Videos">Hapkido</a>'
- menu14[4]='<a href="/Jujitsu-Videos">Jujitsu</a>'
- menu14[5]='<a href="/Karate-Videos">Karate</a>'
- menu14[6]='<a href="/Kickboxing-Videos">Kickboxing</a>'
- menu14[7]='<a href="/Kung-Fu-Videos">Kung Fu</a>'
- menu14[8]='<a href="/Mixed-Martial-Arts-Videos">Mixed Martial Arts</a>'
- menu14[9]='<a href="/Special-Forces-Videos">Special Forces</a>'
- menu14[10]='<a href="/Taekwondo-Videos">Taekwondo</a>'
- menu14[11]='<a href="/Tai-Chi-Videos">Tai Chi</a>'
- menu14[12]='<a href="/Training-Videos">Training</a>'
- menu14[13]='<a href="/Weapons-Videos">Weapons</a>'
- menu14[14]='<a href="/Wing-Chun-Videos">Wing Chun</a>'
+ menu14[4]='<a href="/Jeet-Kune-Do-Videos">Jeet Kune Do</a>'
+ menu14[5]='<a href="/Jujitsu-Videos">Jujitsu</a>'
+ menu14[6]='<a href="/Karate-Videos">Karate</a>'
+ menu14[7]='<a href="/Kickboxing-Videos">Kickboxing</a>'
+ menu14[8]='<a href="/Kung-Fu-Videos">Kung Fu</a>'
+ menu14[9]='<a href="/Mixed-Martial-Arts-Videos">Mixed Martial Arts</a>'
+ menu14[10]='<a href="/Special-Forces-Videos">Special Forces</a>'
+ menu14[11]='<a href="/Taekwondo-Videos">Taekwondo</a>'
+ menu14[12]='<a href="/Tai-Chi-Videos">Tai Chi</a>'
+ menu14[13]='<a href="/Training-Videos">Training</a>'
+ menu14[14]='<a href="/Weapons-Videos">Weapons</a>'
+ menu14[15]='<a href="/Wing-Chun-Videos">Wing Chun</a>'
  var menu15=new Array()
  menu15[0]='&nbsp;'
- menu15[1]='<a href="/Military-History-Videos">Military History</a>'
+ menu15[1]='<a href="/Offroad/4x4-Videos">4x4 and Offroad</a>'
+ menu15[2]='<a href="/Auto-Repair-Videos">Auto Repair</a>'
+ menu15[3]='<a href="/Motocross-Videos">Motocross</a>'
+ menu15[4]='<a href="/Sportbike-Videos">Sportbike</a>'
+ menu15[5]='<a href="/Street-Racing-Videos">Street Racing</a>'
  var menu16=new Array()
  menu16[0]='&nbsp;'
- menu16[1]='<a href="/Auto-Repair-Videos">Auto Repair</a>'
- menu16[2]='<a href="/Motocross-Videos">Motocross</a>'
- menu16[3]='<a href="/Offroad/4x4-Videos">Offroad/4x4</a>'
- menu16[4]='<a href="/Sportbike-Videos">Sportbike</a>'
- menu16[5]='<a href="/Street-Racing-Videos">Street Racing</a>'
+ menu16[1]='<a href="/Music-Concerts-Videos">Concerts</a>'
+ menu16[2]='<a href="/Music-Documentaries-Videos">Documentaries</a>'
+ menu16[3]='<a href="/Music-Instruction-Videos">Music Instruction</a>'
  var menu17=new Array()
  menu17[0]='&nbsp;'
- menu17[1]='<a href="/Music-Concerts-Videos">Concerts</a>'
- menu17[2]='<a href="/Music-Documentaries-Videos">Documentaries</a>'
- menu17[3]='<a href="/Music-Instruction-Videos">Music Instruction</a>'
+ menu17[1]='<a href="/Boating-Videos">Boating</a>'
+ menu17[2]='<a href="/Camping-Videos">Camping</a>'
+ menu17[3]='<a href="/Climbing-Videos">Climbing</a>'
+ menu17[4]='<a href="/Fishing-Videos">Fishing</a>'
+ menu17[5]='<a href="/Hiking-Videos">Hiking</a>'
+ menu17[6]='<a href="/Hunting-Videos">Hunting</a>'
+ menu17[7]='<a href="/Kayaking-Videos">Kayaking</a>'
+ menu17[8]='<a href="/Sailing-Videos">Sailing</a>'
+ menu17[9]='<a href="/Scuba-Diving-Videos">Scuba Diving</a>'
  var menu18=new Array()
  menu18[0]='&nbsp;'
- menu18[1]='<a href="/Boating-Videos">Boating</a>'
- menu18[2]='<a href="/Camping-Videos">Camping</a>'
- menu18[3]='<a href="/Climbing-Videos">Climbing</a>'
- menu18[4]='<a href="/Fishing-Videos">Fishing</a>'
- menu18[5]='<a href="/Hiking-Videos">Hiking</a>'
- menu18[6]='<a href="/Hunting-Videos">Hunting</a>'
- menu18[7]='<a href="/Kayaking-Videos">Kayaking</a>'
- menu18[8]='<a href="/Sailing-Videos">Sailing</a>'
- menu18[9]='<a href="/Scuba-Diving-Videos">Scuba Diving</a>'
+ menu18[1]='<a href="/Parenting-Videos">Parenting</a>'
  var menu19=new Array()
  menu19[0]='&nbsp;'
- menu19[1]='<a href="/Parenting-Videos">Parenting</a>'
+ menu19[1]='<a href="/Self-Defense-Videos">Self-Defense</a>'
  var menu20=new Array()
  menu20[0]='&nbsp;'
- menu20[1]='<a href="/Religion-Videos">Religion</a>'
+ menu20[1]='<a href="/Baseball-Videos">Baseball</a>'
+ menu20[2]='<a href="/Basketball-Videos">Basketball</a>'
+ menu20[3]='<a href="/Billiards-Videos">Billiards</a>'
+ menu20[4]='<a href="/Coaching-Videos">Coaching</a>'
+ menu20[5]='<a href="/Cycling-Videos">Cycling</a>'
+ menu20[6]='<a href="/Equestrian-Videos">Equestrian</a>'
+ menu20[7]='<a href="/Figure-Skating-Videos">Figure Skating</a>'
+ menu20[8]='<a href="/Football-Videos">Football</a>'
+ menu20[9]='<a href="/Golf-Instruction-Videos">Golf</a>'
+ menu20[10]='<a href="/Hockey-Videos">Hockey</a>'
+ menu20[11]='<a href="/Lacrosse-Videos">Lacrosse</a>'
+ menu20[12]='<a href="/Lawn-Sports-Videos">Lawn Sports</a>'
+ menu20[13]='<a href="/Soccer-Videos">Soccer</a>'
+ menu20[14]='<a href="/Softball-Videos">Softball</a>'
+ menu20[15]='<a href="/Sports-Psychology-Videos">Sports Psychology</a>'
+ menu20[16]='<a href="/Sports-Training-Videos">Sports Training</a>'
+ menu20[17]='<a href="/T-Ball-Videos">T-Ball</a>'
+ menu20[18]='<a href="/Table-Tennis-Videos">Table Tennis</a>'
+ menu20[19]='<a href="/Tennis-Instruction-Videos">Tennis</a>'
+ menu20[20]='<a href="/Track-Field-Videos">Track and Field</a>'
+ menu20[21]='<a href="/Volleyball-Videos">Volleyball</a>'
  var menu21=new Array()
  menu21[0]='&nbsp;'
- menu21[1]='<a href="/Self-Defense-Videos">Self-Defense</a>'
- var menu22=new Array()
- menu22[0]='&nbsp;'
- menu22[1]='<a href="/Baseball-Videos">Baseball</a>'
- menu22[2]='<a href="/Basketball-Videos">Basketball</a>'
- menu22[3]='<a href="/Billiards-Videos">Billiards</a>'
- menu22[4]='<a href="/Coaching-Videos">Coaching</a>'
- menu22[5]='<a href="/Figure-Skating-Videos">Figure Skating</a>'
- menu22[6]='<a href="/Football-Videos">Football</a>'
- menu22[7]='<a href="/Golf-Instruction-Videos">Golf</a>'
- menu22[8]='<a href="/Hockey-Videos">Hockey</a>'
- menu22[9]='<a href="/Lacrosse-Videos">Lacrosse</a>'
- menu22[10]='<a href="/Soccer-Videos">Soccer</a>'
- menu22[11]='<a href="/Sports-Psychology-Videos">Sports Psychology</a>'
- menu22[12]='<a href="/T-Ball-Videos">T-Ball</a>'
- menu22[13]='<a href="/Tennis-Instruction-Videos">Tennis</a>'
- menu22[14]='<a href="/Track-Field-Videos">Track and Field</a>'
- var menu23=new Array()
- menu23[0]='&nbsp;'
- menu23[1]='<a href="/Africa-Videos">Africa</a>'
- menu23[2]='<a href="/Asia-Videos">Asia</a>'
- menu23[3]='<a href="/Australia-Videos">Australia</a>'
- menu23[4]='<a href="/Caribbean-Videos">Caribbean</a>'
- menu23[5]='<a href="/Central-America-Videos">Central America</a>'
- menu23[6]='<a href="/Europe-Videos">Europe</a>'
- menu23[7]='<a href="/Family-Attraction-Videos">Family Attractions</a>'
- menu23[8]='<a href="/Far-East-Videos">Far East</a>'
- menu23[9]='<a href="/Hawaii-Videos">Hawaii</a>'
- menu23[10]='<a href="/Middle-East-Videos">Middle East</a>'
- menu23[11]='<a href="/National-Parks-Videos">National Parks</a>'
- menu23[12]='<a href="/New-Zealand-Videos">New Zealand</a>'
- menu23[13]='<a href="/North-America-Videos">North America</a>'
- menu23[14]='<a href="/South-America-Videos">South America</a>'
- menu23[15]='<a href="/South-Pacific-Videos">South Pacific</a>'
- menu23[16]='<a href="/Special-Videos">Special</a>'
+ menu21[1]='<a href="/Africa-Videos">Africa</a>'
+ menu21[2]='<a href="/Asia-Videos">Asia</a>'
+ menu21[3]='<a href="/Australia-Videos">Australia</a>'
+ menu21[4]='<a href="/Caribbean-Videos">Caribbean</a>'
+ menu21[5]='<a href="/Central-America-Videos">Central America</a>'
+ menu21[6]='<a href="/Europe-Videos">Europe</a>'
+ menu21[7]='<a href="/Family-Attraction-Videos">Family Attractions</a>'
+ menu21[8]='<a href="/Far-East-Videos">Far East</a>'
+ menu21[9]='<a href="/Hawaii-Videos">Hawaii</a>'
+ menu21[10]='<a href="/Middle-East-Videos">Middle East</a>'
+ menu21[11]='<a href="/National-Parks-Videos">National Parks</a>'
+ menu21[12]='<a href="/New-Zealand-Videos">New Zealand</a>'
+ menu21[13]='<a href="/North-America-Videos">North America</a>'
+ menu21[14]='<a href="/South-America-Videos">South America</a>'
+ menu21[15]='<a href="/South-Pacific-Videos">South Pacific</a>'
+ menu21[16]='<a href="/Special-Videos">Special</a>'
+ var menu999=new Array() 
+ menu999[0]='&nbsp;' 
+ menu999[1]='<a href="/Weather-Channel">The Weather Channel</a>'
 </script>
 						<table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td height="5"><img src="/images/img1spacer.gif" height="5"></td></tr></tbody></table>
 								<table cellpadding="5" cellspacing="0" border="0" width="175" style="border-width:1px; border-color:#000000; border-style: solid;">
@@ -713,9 +714,9 @@ s.prop11=""
 s.prop12=document.URL
 s.prop13="unsourced"
 s.prop14=""
-s.prop15="b"
+s.prop15="a"
 s.prop16=""
-s.prop17="unsourced-b"
+s.prop17="unsourced-a"
 s.prop18=""
 s.prop19=""
 s.prop20=""
@@ -733,13 +734,13 @@ s.eVar5=""
 s.eVar6=""
 s.eVar7=""
 s.eVar8=""
-s.eVar9="b"
+s.eVar9="a"
 s.eVar10="newuser"
 s.eVar11=""
 s.eVar12=""
 s.eVar13=""
-s.eVar14="unsourced-b"
-s.eVar15="-unsourced-b"
+s.eVar14="unsourced-a"
+s.eVar15="-unsourced-a"
 s.eVar16="E"
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 var s_code=s.t();if(s_code)document.write(s_code)//--></script>
@@ -748,7 +749,7 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 		</td>
 	</tr>
 </tbody></table>
-<font color="white">Elapsed time was: 0.203125-</font>
+<font color="white">Elapsed time was: 0.046875-</font>
 
 
 </body></html>
