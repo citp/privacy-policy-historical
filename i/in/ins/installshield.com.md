@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the installshield.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231141846id_/http%3A//www.macrovision.com/company/about/legal/legal_and_privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the installshield.com privacy policy that was archived on 2007-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070619025505id_/http%3A//www.macrovision.com/company/about/legal/legal_and_privacy.shtml) for the most accurate reproduction.*
 
 # Legal | Legal and Privacy Notices
 
