@@ -1,38 +1,76 @@
-> *The following text is extracted and transformed from the kellyclarkson.com privacy policy that was archived on 2006-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061104203033id_/http%3A//www.kellyclarkson.com/main.php%3Fcontent%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kellyclarkson.com privacy policy that was archived on 2007-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070619030027id_/http%3A//www.kellyclarkson.com/main.php%3Fcontent%3Dprivacypolicy) for the most accurate reproduction.*
 
 # KellyClarkson.com
 
-**Privacy & Usage Policy**
+For purposes of this document "company" is defined as "Face Face Productions, Inc. c/o Flood, Bumstead, McCready & McCarthy, Inc.."
 
-ShPants, Inc. ("we," "us" or "our") has created this privacy statement in order to demonstrate our firm commitment to protecting the privacy of our website visitors and fan club members. The following discloses our information gathering and dissemination practices for the websites located at _http://www.KellyClarkson.com_ and _http://www.KellyClarksonStreetTeam.com_ (the "websites"). If you choose not to consent to this Privacy Statement, you may not use these websites. Further, this policy is subject to change, so you should re-read it periodically. 
+### privacy policy
 
-**1\. How We Use Collected Information**  
-Server Logs. Our servers record your computer's IP address and website usage in "server logs" when you use the websites. No personally identifiable information is contained in these logs, such as name, address, phone numbers or email addresses. We use these logs to help diagnose problems with our servers, analyze traffic patterns and to administer the websites. 
+company is committed to respecting your privacy. please read the following privacy policy to understand how your personal information will be treated if it is collected through this Web site (the “Site”) by Company. except as explicitly provided herein, this Privacy Policy does not apply to the practices of companies that Company does not own or control, or to people that Company does not employ or manage. this Privacy Policy may change from time to time so please check back periodically. the current version of this Privacy Policy is dated October 4, 2006. 
 
-> **Cookies**.   
->  We use cookies on certain pages of our websites. Cookies are small text files stored on your hard drive, not on our websites. A cookie is not a program, and does not itself have the ability to automatically collect personal information about you. A cookie can store certain information that identifies your browser to our servers in order to make the websites operate more smoothly. For example, we use cookies to aid in the functioning of the shopping cart and sign in form. Most cookies we use are "session cookies" which means that they are automatically deleted when you leave the websites. Some of our advertising partners may also use cookies. We do not have access to or control over such cookies. 
-> 
-> **Registration.**  
->  If you choose to register with our websites, our registration forms require you to give us certain information including your name, address, zip/postal code, phone number, email address, and date of birth. In addition, to join the Kelly Clarkson Fan Club or to purchase products or services from the websites, you will be required to give us your credit card information in order to process the membership fee or purchase price. Personally identifying information is used to contact you when necessary in the day to day running of the websites. In addition, financial information that is collected is used to check your qualifications for registration and to bill you for products and services you may purchase through the websites. 
-> 
-> **Voluntary Contact.**   
->  If you send us information voluntarily, such as through personal correspondence, email, or chat rooms, or if other users or third parties send us correspondence about your activities or postings on our websites, we may collect such information. We use such information, and other information that we obtain from your use of the services, to resolve disputes, troubleshoot problems and enforce our Terms of Use agreement, among other things. Please also note that information you volunteer in public areas, such as chat rooms and bulletin boards, is not protected information, and anyone could potentially collect and use such information in ways we cannot control. 
-> 
-> In addition to using your information as described above, we also may occasionally send you email announcing special promotions, changes in our services, and other information we believe will be of interest to you. You may opt in or out of receiving these mailings by using the join/unsubscribe feature located in the Fan Club portions of our websites at _http://www.KellyClarkson.com_ and _http://www.KellyClarksonStreetTeam.com._
-> 
-> We cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Statement. For example, we may be forced to disclose information to the government or third parties under certain circumstances without your consent, or third parties may unlawfully intercept or access transmissions or private communications. We can (and you authorize us to) disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us to legal liability. However, we will not use your information for marketing purposes outside of the Kelly Clarkson Fan Club or Dog Pound sites. We do not sell or rent our list of users past or present to any third party without your consent.
+any dispute over privacy is subject to this Privacy Policy and our Terms of Service. if you have any concern about your privacy in connection with this policy, please send a thorough description to [tou@echomusic.com](mailto:tou@echomusic.com), and we will try to resolve it. please note that the use of information that we gather is subject to the Privacy Policy in effect at the time of use. you should check this Site frequently to see recent changes in this Site’s Privacy Policy and its Terms of Service. 
 
-**2\. Linked Websites**  
-For your convenience, the websites contain links to other sites. Please be aware that neither KellyClarkson.com nor KellyClarksonStreetTeam.com is responsible for the privacy practices or content of such other websites, which may differ significantly from our own. We encourage our users to be aware when they leave our websites and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by our websites. 
+### 1\. what personal information is collected from me?
 
-**3\. Security**  
-The websites have procedural security measures in place to protect the loss, misuse and alteration of the information under our control. Only authorized individuals have access to your information. On all pages where user credit card information is entered, we utilize a secure digital server, with a secure certificate from VeriSign. Notwithstanding these efforts, we caution you that "perfect security" does not exist on the Internet. 
+the types of personal information collected on these pages may include, but are not limited to, your name, email address, standard contact information including addresses and phone numbers, transactional information, and financial information such as credit card or bank account numbers. you also may provide additional information to us when you conduct a search on this Site, place an order for merchandise, complete a questionnaire or an entry form for sweepstakes or contests, and participate in forums and chat rooms or other community features. we may also ask you to voluntarily provide us with information regarding, for example, your personal or professional interests, demographics, experiences with the services we provide and contact preferences. wherever Company collects personal information, we make an effort to include a link to this Privacy Policy on that page.
 
-**4\. A Special Note About Children**  
-Persons under the age of 18 are not eligible to use our websites without parental supervision and consent and we ask that children under the age of 13 not submit personal information to us. We believe that is important that parents supervise their minor children when they are online. As a result, we require that persons under the age of 18 use these websites only in conjunction with parents or legal guardians. 
+company may gather and collect any of the following: (1) IP addresses (the Internet address of a computer) to track a user’s session while the user remains anonymous, (2) computer and connection information such as browser type and version, operating system, and platform, (3) purchase history, (4) the full Uniform Resource Locator (URL) clickstream to, through, and from this Site, including date and time, (5) cookie number, and (6) Web pages and/or products you viewed or searched for. company analyzes this data for certain trends in statistics, such as which parts of this Site users visit and how long they spend there. in general, we do not link your IP addresses to anything personally identifiable to you. during some visits Company may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
 
-**5\. Fan Club Membership**  
-Membership to the official Kelly Clarkson fan club may be obtained by submitting the form at http://www.KellyClarkson.com/fanclub.aspx. The fan club community is strictly moderated by website administrators. Messages deemed to be innapropriate for any reason may be edited, deleted or locked. Abuse of the message board or chat room will result in the revoking membership priveleges and/or a discontinuation of membership altogether. Membership will also be terminated without refund if 'members only' content is distributed or displayed without written consent. We reserve the right to refuse service to anyone for any reason.
+company gathers and stores certain types of information whenever you use this Site or the services made available hereon (the “Services”). for example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses this Site. various third party companies offer utilities that are designed to allow or help you visit and use Web sites anonymously; please note, however, that Company may not be able to provide you with a personalized experience on this Site if you choose to utilize any such utilities.
 
-**6\. Contacting Us**   
-If you have any questions about this Privacy Statement, the practices of this websites, or your dealings with these websites, you may use the "Contact" forms on either KellyClarkson.com or KellyClarksonStreetTeam.com.
+### 2\. what are cookies and how are they used by Company?
+
+company may place Internet cookies on your hard drive. internet cookies are small files that may be placed on your hard disk for record-keeping purposes. cookies are used to (a) remind us of who you are in order to deliver you better service, (b) estimate our audience size by determining repeat usage of the Web site to help target advertisements based on user interests and behavior, (c) track your progress and entries in promotions, sweepstakes and contests, if any, and (d) measure certain traffic patterns for use as a research tool to understand how our users’ habits are similar or different from one another. you can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. by not accepting cookies, some Web pages of this Site may not display properly or you may not be permitted to access certain information.
+
+### 3\. does Company use Web beacons, and, if so, how?
+
+company may employ Web beacons (also called single-pixel gifs), which are customized links or similar technologies, when sending you newsletters or promotional emails. web beacons allow Company to (a) determine whether you have opened, or acted upon, a promotional email and which links you have clicked on in order to deliver to you more focused email communications and other information, (b) allow Company to count the number of users who have visited certain Web pages and effectively deliver co-branded services, and (c) enable Company to compile aggregated statistics and determine the efficacy of promotions by using Web beacons from third parties, without allowing such third parties to use Web beacons on this Site to collect or access your personal information.   
+
+
+### 4\. how is my information used?
+
+company will not sell, rent or lease your personally identifiable information to others without your consent, except as provided in this Privacy Policy. in general, the information you provide will be used to support your customer relationship with Company. 
+
+we want to help you quickly find information regarding the Services on this Site and alert you to specific offers, updated information, and other new products and Services that are available. accordingly, we may send you direct mailings or contact you by telephone about our various products and Services or other products and services we feel may be of interest to you. if you do not want to receive such mailings, simply “opt-out” by the means provided for (if any) in the mailings or by contacting [tou@echomusic.com](mailto:tou@echomusic.com). 
+
+notwithstanding the foregoing, Company does research on our users’ demographics, interests and behavior based on the information provided to us during your use of this Site. this research is compiled and analyzed on an aggregated basis. aggregated data does not include personally identifiable information. company may share this aggregated data with others. company also may combine your information with information we collect or receive from other companies and sources (such as demographic data) to improve and personalize our services. 
+
+### 5\. what does “opt-out” mean?
+
+to “opt-out” means that you have notified Company that we no longer have permission to use your information for a particular purpose. for example, when we send you information on a new product, you will be given the opportunity to “opt-out” of receiving such information in the future.  
+
+
+### 6\. who is collecting my information?
+
+when you are on this Site and are asked for personal information, you are sharing that information with Company alone, except as provided herein or unless specifically stated otherwise on this Site. if data is being collected and/or maintained by any company other than Company or an agent for Company, you will be notified prior to the time of the data collection or transfer. if you do not want your data to be shared, you can choose not to allow the transfer by not using that particular Service or purchasing those particular goods.
+
+please be aware that advertisers that may have links on this Site may collect personal information about you through the use of cookies, JavaScript, Web beacons, and other technologies. company does not have any control over or access to such technologies that may be used by these advertisers, and the information practices of those Web sites linked to this Site either through advertisements or other hyperlinks are not covered by this Privacy Policy. company does not, however, provide any personally identifiable information about you to these advertisers. 
+
+### 7\. with whom does Company share my information?
+
+company may share the personal data you provide or the information gathered by Company to any party with your consent or, in any event, to Company subsidiaries, agents, contractors and our business partners. company also may share information with the following groups: (a) affiliated business which Company does not control but with which it engages in joint and co-branded offerings, (b) third party service providers in order to facilitate the performance of only those functions which are assigned to them, such as order fulfillment, data analysis, marketing assistance, provision of search results and links, credit card payment processing, and customer service, and (c) entities with which Company may merge or which may acquire all or substantially all of Company’s assets, as customer information likely will be one of the transferred assets. 
+
+in addition, Company believes it is necessary to share information in order to (x) investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, and violations of the Terms of Service, (y) respond to subpoenas, court orders, or legal process, and (z) establish or exercise our legal rights, or defend against legal claims, and as otherwise required by law. except as provided above or in the event of a merger, consolidation, or sale of all or substantially all of Company’s assets, we will not share any of your information with any third party without your permission. 
+
+### 8\. how do I access, update or delete my information?
+
+you can request the individual information that Company has collected about you, correct factual inaccuracies in your information, remove personal information from Company’s databases and/or update your personal information here or by contacting [tou@echomusic.com](mailto:tou@echomusic.com).  
+
+
+### 9\. what else should I know about my privacy?
+
+third party Internet Web sites and services accessible through this Site have separate privacy and data collection practices, independent of us. company has no responsibility or liability for these independent policies or actions. please be careful and responsible online. if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. while we strive to protect your information, Company cannot ensure or warrant the security of any information through the transmission process, and any transmission by you of information is done at your own risk.
+
+### 10\. children.
+
+when a child between the ages of 13 to 18 attempts to register on the Site, he or she may register with the consent and involvement of a parent or guardian. company will not contact children under the age of 18 about special offers or for marketing purposes without a parent's permission. company does not ask a child under the age of 18 for more personal information, as a condition of participation, than is reasonably necessary to participate in a given activity or promotion.   
+
+
+### 11\. security.
+
+company uses its best efforts to protect your personal information and, to that end, uses tools such as encryption, passwords, and physical security to protect your personal information against unauthorized access and disclosure. however, no website can be absolutely secure, and third parties may unlawfully intercept or access transmissions or private communications, and other users may abuse or misuse your personal information that they collect from this Site. therefore, although Company works very hard to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain absolutely private
+
+### 12\. other legal notices.
+
+any dispute over privacy is subject to this Privacy Policy and our Terms of Service, including limitations on damages and application of the law of the State Tennessee.   
+
