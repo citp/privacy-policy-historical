@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fotki.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205184957id_/http%3A//help.fotki.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fotki.com privacy policy that was archived on 2007-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070620015932id_/http%3A//help.fotki.com/privacy) for the most accurate reproduction.*
 
 # Help | Fotki.com
 
