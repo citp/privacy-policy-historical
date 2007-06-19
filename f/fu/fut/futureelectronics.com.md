@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futureelectronics.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206232103id_/http%3A//www.futureelectronics.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futureelectronics.com privacy policy that was archived on 2007-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070619040935id_/http%3A//www.futureelectronics.com/info/privacy.asp) for the most accurate reproduction.*
 
 # Future Electronics | Privacy Policy
 
