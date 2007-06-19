@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the city-visitor.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205201518id_/http%3A//www.city-visitor.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the city-visitor.com privacy policy that was archived on 2007-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070619043851id_/http%3A//www.city-visitor.com/privacy_policy.html) for the most accurate reproduction.*
 
 # UK city guides & travel guide, providing tourist information
 
