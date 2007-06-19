@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the soe.com privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224215000id_/http%3A//www.station.sony.com/sonyonline/privacy.vm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soe.com privacy policy that was archived on 2007-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070619055604id_/http%3A//www.station.sony.com/sonyonline/privacy.vm) for the most accurate reproduction.*
 
 # Sony Online Entertainment LLC Privacy Policy
 
 [](https://www.esrb.org/confirm/soe-confirmation.jsp)
 
-(Revised 4th April 2005)
+(Revised 19th April 2007)
 
 YOUR USE OF OUR SERVICES AND WEB SITES IS SUBJECT TO YOUR AGREEMENT TO THE TERMS OF THIS PRIVACY POLICY.
 
@@ -85,7 +85,7 @@ You must have a membership account in order to receive emails from us. You may b
 
 ### Sweepstakes, Contests, and Promotions
 
-To participate in some of our sweepstakes, contests, surveys, and other promotions, you may be asked to provide additional personal information such as your mailing address. In each such case, no new personal information will be collected from you without your consent. This information may be collected by SOE or by third parties such as co-sponsors or vendors for the promotion. SOE's use of any such information will be governed by this Policy. The names of third parties such as co-sponsors (other than vendors hired by SOE to conduct, administer, and execute a promotion on behalf of SOE) will be disclosed to you when you are asked to sign up for the promotion. You should review such third parties' privacy policies to see how they may use any information that they collect.
+To participate in some of our sweepstakes, contests, surveys, and other promotions, you may be asked to provide additional personal information such as your mailing address. In each such case, no new personal information will be collected from you without your consent. This information may be collected by SOE or by third parties such as co-sponsors or vendors for the promotion. SOE's use of any such information will be governed by this Policy. The names of third parties such as co-sponsors (other than vendors hired by SOE to conduct, administer, and execute a promotion on behalf of SOE) will be disclosed to you when you are asked to sign up for the promotion. You should review such third parties' privacy policies to see how they may use any information that they collect. 
 
 ### Online Purchases and Technical Support
 
@@ -94,6 +94,10 @@ When you sign up to play one of our fee based games or you make an online purcha
 ### Online Games
 
 When you play any of the games offered and/or served by SOE, or use any of the communication features on the Sites, your IP address (the Internet protocol address from which you access any of the above) may be stored in our records. When any game is updated or "patched," our patch routine may check your computer to see that you have the most recent version of game-specific files; when you communicate within any game or any other communication feature within the Station (e.g. live chat, instant message services and the like), even "privately" to another person, you do so with the understanding that those communications go through our servers, can be monitored by us, you have no expectation of privacy in any of those communications and, accordingly, you expressly consent to monitoring of communications (including technical support and customer service communications) that you send and receive. When you log into one of our online games, your system specifications (such as OS, RAM, video card, monitor, system configuration, etc.) may be reviewed/recorded by us for the purposes of analyzing and optimizing your game experience and in order to provide you with customer service.
+
+### Hosting of Third-Party Tournament Services
+
+Certain SOE services, such as the Gamers Round Table, may be provided to you in conjunction with a third party, such as with Comic Images for the _Stargate Trading Card Game_ or with Bandai America for the _Naruto Collectible Card Game_. During the registration process for any tournament service(s) related to such games, you may be notified that such third party wishes access to some of your Personal Information. In such a situation, you will be given an opportunity to decline to share that information with that third party before any such information is shared. If you decline to share such information with the relevant third party, you may not be able to use the tournament services for that game. As described in the registration process, a third party's (such as Comic Images') use of the shared Personal Information will be governed by any privacy policy that company may have in place and SOE's use of such information shall, of course, be governed by the terms of this Privacy Policy. You may change your preferences concerning the sharing of your information by going to the Edit Registration page. 
 
 ### Resume Submissions and Business Capacity
 
@@ -119,7 +123,7 @@ SOE does not control cookies in third party ads, and visitors are encouraged to 
 
 ## How we use and share the information that we collect from you
 
-Personal information which we collect for a particular purpose will only be saved and used for that purpose, unless you have agreed to allow us to use it for some other purpose, as described in this Policy. For example, if you make an online purchase from The Store, and unless you have given us permission to do otherwise, we will only collect and save the personal information you provided to us, including your billing and delivery information, in order to (1) complete the sale, (2) comply with tax and other applicable statutes, (3) maintain accurate business and financial records (in accordance with accepted standards), and (4) assist with customer service and returns.
+Personal information which we collect for a particular purpose will only be saved and used for that purpose, unless you have agreed to allow us to use it for some other purpose, as described in this Policy. For example, if you make an online purchase from The Store, and unless you have given us permission to do otherwise, we will only collect and save the personal information you provided to us, including your billing and delivery information, in order to (1) complete the sale, (2) comply with tax and other applicable statutes, (3) maintain accurate business and financial records (in accordance with accepted standards), and (4) assist with customer service and returns. 
 
 When you have provided personal information to us for a particular purpose, we may disclose your information to other companies that we have engaged to assist us in fulfilling your request. This may include, but is not limited to, fulfillment houses, billing services, transaction managers, credit verification services, and other third party service providers. We may also disclose any of your personal information to law enforcement or other appropriate third parties in connection with criminal investigations, investigation of fraud, infringement of intellectual property rights, or other suspected illegal activities, or as otherwise may be required by applicable law, or, as we deem necessary in our sole discretion, in order to protect the legitimate legal and business interests of SOE. 
 
@@ -161,14 +165,14 @@ In certain countries other than the United States, some of our online games and 
 
 ## Our commitment to secure the personal information we have collected
 
-While SOE takes precautions against possible breaches in its web sites and customer databases, no web site or Internet transmission is completely secure. Consequently, SOE cannot guarantee that unauthorized access, hacking, data loss, or other breaches will never occur. Your use of the SOE sites and services is at your own risk. SOE urges you to take steps to keep your personal information safe by memorizing your password or keeping it in a safe place (separate from your account information), logging out of your user account, and closing your web browser.
+While SOE takes precautions against possible breaches in its web sites and customer databases, no web site or Internet transmission is completely secure. Consequently, SOE cannot guarantee that unauthorized access, hacking, data loss, or other breaches will never occur. Your use of the SOE sites and services is at your own risk. SOE urges you to take steps to keep your personal information safe by memorizing your password or keeping it in a safe place (separate from your account information), logging out of your user account, and closing your web browser. 
 
 Whenever you give SOE sensitive or confidential information (for example, credit card numbers for purchases), SOE will take commercially reasonable steps to protect the information by establishing a secure connection with your web browser. SOE employs a security technology known as a secure-socket-layer ("SSL") to protect the transmission of payment information to the site. Unless otherwise specified herein or on the site where you make a purchase, credit card numbers are used only for payment processing and are not retained for marketing purposes.
 
 ## Notice of changes to the Policy
 
-SOE reserves the right to change this Policy at any time by notifying registered users via e-mail of the existence of a new Policy and/or posting the new Policy on the SOE sites. All changes to the Policy will be effective when posted, and your continued use of any SOE site or service after the posting will constitute your acceptance of, and agreement to be bound by, those changes.
+SOE reserves the right to change this Policy at any time by notifying registered users via e-mail of the existence of a new Policy and/or posting the new Policy on the SOE sites. All changes to the Policy will be effective when posted, and your continued use of any SOE site or service after the posting will constitute your acceptance of, and agreement to be bound by, those changes. 
 
-Last Updated: 4th April 2005
+Last Updated: 19th April 2007
 
 [Legal & Copyright Notice](https://web.archive.org/sonyonline/legal.vm)
