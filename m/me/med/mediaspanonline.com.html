@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mediaspanonline.com privacy policy that was archived on 2006-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061212150516id_/http%3A//www.mediaspanonline.com/article.asp%3Fid%3D109540) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mediaspanonline.com privacy policy that was archived on 2007-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070620051452id_/http%3A//www.mediaspanonline.com/article.asp%3Fid%3D109540) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -8,7 +8,7 @@
 <title>MediaSpan Online Services</title>
 <meta name="description" content="MediaSpan Online Services is the leading provider of Web Development and eMarketing services to the broadcast, hospitality and business communities, with over 1500 live sites.">
 <meta name="keywords" content="website design, radio station web design, radio station website development, radio music preference surveys, resort website design, ">
-<meta name="MSSmartTagsPreventParsing" content="TRUE">
+<meta name="MSSmartTagsPreventParsing" content="true">
 
 
 <!-- ******** STYLESHEETS ******** -->
@@ -46,7 +46,7 @@ aryMenu1[5] = new objMenuItem('About MediaSpan','/Article.asp?id=109541','');
 var aryMenu1_6 = new Array();
 aryMenu1_6[0] = new objMenuItem('Backgrounder','/Article.asp?id=115747','');
 aryMenu1_6[1] = new objMenuItem('FAQs','/Article.asp?id=115754','');
-aryMenu1_6[2] = new objMenuItem('Career Opportunities','/Article.asp?id=115718','');
+aryMenu1_6[2] = new objMenuItem('Career Opportunities','http://www.mediaspangroup.com/Article.asp?id=252204&c=1','_blank');
 aryMenu1_6[3] = new objMenuItem('Executive Team','/Article.asp?id=115744','');
 aryMenu1_6[4] = new objMenuItem('MediaSpan Corporate','http://www.mediaspangroup.com','_blank');
 var aryMenu1_2 = new Array();
@@ -64,7 +64,7 @@ aryMenu2[3] = new objMenuItem('Events','/Article.asp?id=180781&c=4','');
 aryMenu2[4] = new objMenuItem('Contact Us','/contactus.asp?c=5','');
 var aryMenu2_1 = new Array();
 aryMenu2_1[0] = new objMenuItem('Bios','/Article.asp?id=115744&c=1','');
-aryMenu2_1[1] = new objMenuItem('Career Opportunities','/Article.asp?id=115718&c=1','');
+aryMenu2_1[1] = new objMenuItem('Career Opportunities','http://www.mediaspangroup.com/Article.asp?id=252204&c=1','_blank');
 aryMenu2_1[2] = new objMenuItem('Backgrounder','/Article.asp?id=115747&c=1','');
 aryMenu2_1[3] = new objMenuItem('Client Partners','/Article.asp?id=259897&c=1','');
 var aryMenu2_2 = new Array();
@@ -107,87 +107,7 @@ function seeFrameLabel()
 </script>
 
 
-<script language="javascript" type="text/javascript">
-/* <![CDATA[ */
-var gnFlashVersion = 0;
-var gbFlashAsked = false;
-var gbFlashEnabled = false;
-
-function funTestFlashPlugin(nRequiredVersion, bAskDownload) {
-	if (bAskDownload == null) bAskDownload = true;
-	if (!bAskDownload) gbFlashAsked = true;
-	
-	var appNm = navigator.appName;
-	var appVr = navigator.appVersion;
-	var isIE = (appNm.indexOf("Explorer") > 0) ? true : false;
-	var isNS = (appVr == "Netscape") ? true : false;
-	var bVer = (isIE) ? (parseFloat( appVr.substring(appVr.indexOf("MSIE ")+5) )) : (parseFloat(appVr));
-	var windows = ( (appVr.indexOf("Windows NT")!=-1) || (appVr.indexOf("Windows 95")!=-1) || (appVr.indexOf("Windows 98")!=-1) );
-	var mac = appVr.indexOf("Mac") != -1 ? true : false;
-
-	if ( !( (isIE && windows && (bVer < 5)) || (isNS && (bVer==4.7)) ) ){
-		if (gnFlashVersion == 0) {
-			if (appNm.indexOf("Webtv")!=-1) gbFlashEnabled = true;
-			else if ( mac && bVer < 4) gbFlashEnabled = false;
-			else if (isIE && (!mac || bVer < 5) ) {
-				if (appVr.indexOf("3.1")!=-1){
-					gbFlashEnabled = false;
-				}
-				else if (windows) {
-					document.writeln('<sc'+'ript language="vbscript">');
-					document.writeln('on error resume next');
-					document.writeln('gbFlashEnabled = false');
-					document.writeln('call subVBGetFlashVersion()');
-					document.writeln('sub subVBGetFlashVersion()');
-					document.writeln(' dim i');
-					document.writeln(' For i = 7 to 3 Step -1');
-					document.writeln('	gbFlashEnabled = IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash." & i))');
-					document.writeln('	if gbFlashEnabled then');
-					document.writeln('		gnFlashVersion = i');
-					document.writeln('		exit for');
-					document.writeln('	end if');
-					document.writeln(' Next');
-					document.writeln('end sub');
-					document.writeln('</sc'+'ript>');
-					if (nRequiredVersion > gnFlashVersion) gbFlashEnabled = false;
-				}
-				else if (appVr.indexOf("Mac")!= -1) {
-					gbFlashEnabled = true;
-				}
-			}
-			else if (navigator.plugins != null) {
-
-			//	navigator.plugins.refresh(false);
-				for(var i=0; i < navigator.plugins.length; i++) {
-					if (navigator.plugins[i].name == "Shockwave Flash") {
-						gnFlashVersion = parseInt(navigator.plugins[i].description.substring(navigator.plugins[i].description.indexOf(".")-1));
-						if (nRequiredVersion > gnFlashVersion) gbFlashEnabled = false;
-						else gbFlashEnabled = true;
-						break;
-					}
-				}
-			}
-
-		}
-
-		if (!gbFlashEnabled) {
-			if (funPromptForFlash(nRequiredVersion)) window.top.location.href = "/goout.asp?u=http://macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash";
-		}
-	}
-}
-
-
-function funPromptForFlash(nRequiredVersion){
-	if (gbFlashAsked) return false;
-	else {
-		gbFlashAsked = true;
-		return confirm("This site uses the Flash Plug-in (Version " + nRequiredVersion + ").\n\rWould you like to download it now?");
-	}
-}
-
-/* ]]> */
-</script>
-
+<script language="javascript" type="text/javascript" src="/gbinc/jsfiles/gbincFlashCheck.js"></script>
 
 </head>
 <body class="body" onload="showMenu('Navigation',getImgX('positionObj')-5);funPositionMenus();" onresize="showMenu('Navigation',getImgX('positionObj')-5);funPositionMenus();" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0">
@@ -233,7 +153,7 @@ funCreateSubNavs(2, "2");
 <table border="0" id="table2_1" class="SubMenuTable1" cellpadding="0" cellspacing="0" width="200"><tbody><tr><td nowrap="" class="SubMenuBG">
 <div id="div2_1_2" class="SubMenu" width="200" onmouseover="funShowSub('2_1_2');" onmouseout="funDelayHideSub('2_1_2');" onclick="document.location='/Article.asp?id=115744&amp;c=1';" style="cursor:pointer">Bios</div>
 <div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div2_1_3" class="SubMenu" width="200" onmouseover="funShowSub('2_1_3');" onmouseout="funDelayHideSub('2_1_3');" onclick="document.location='/Article.asp?id=115718&amp;c=1';" style="cursor:pointer">Career Opportunities</div>
+<div id="div2_1_3" class="SubMenu" width="200" onmouseover="funShowSub('2_1_3');" onmouseout="funDelayHideSub('2_1_3');" onclick="window.open('http://www.mediaspangroup.com/Article.asp?id=252204&amp;c=1');" style="cursor:pointer">Career Opportunities</div>
 <div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
 <div id="div2_1_4" class="SubMenu" width="200" onmouseover="funShowSub('2_1_4');" onmouseout="funDelayHideSub('2_1_4');" onclick="document.location='/Article.asp?id=115747&amp;c=1';" style="cursor:pointer">Backgrounder</div>
 <div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
@@ -286,6 +206,12 @@ funCreateSubNavs(2, "2");
 	<table width="100%" border="0" cellspacing="0" cellpadding="0">
 		
 		<tbody><tr>
+			<td align="left" valign="top">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="pollTableLeft"><img src="/images/trans.gif" width="1" height="1"></td><td class="PressReleasesLink"><div class="healinePressReleasesDiv"><a href="/Article.asp?c=3&amp;id=390241&amp;spid=5463" class="cgBoxHeadlines">MediaSpan Signs Website Services Deals With Over 50 Leading Local Newspapers</a></div><a href="/Article.asp?c=3&amp;id=390241&amp;spid=5463" class="Text"></a></td><td class="pollTableRight"><img src="/images/trans.gif" width="1" height="1"></td></tr>
+<tr><td class="sectEntrySeparator"><img src="/images/trans.gif" height="1" width="1" border="0"></td></tr></tbody></table>
+		<br></td></tr>
+		
+		<tr>
 			<td align="left" valign="top">
 		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="pollTableLeft"><img src="/images/trans.gif" width="1" height="1"></td><td class="PressReleasesLink"><div class="healinePressReleasesDiv"><a href="/Article.asp?c=3&amp;id=294987&amp;spid=5463" class="cgBoxHeadlines">MediaSpan Names New Senior Executives</a></div><a href="/Article.asp?c=3&amp;id=294987&amp;spid=5463" class="Text"></a></td><td class="pollTableRight"><img src="/images/trans.gif" width="1" height="1"></td></tr>
 <tr><td class="sectEntrySeparator"><img src="/images/trans.gif" height="1" width="1" border="0"></td></tr></tbody></table>
@@ -399,10 +325,10 @@ funCreateSubNavs(2, "2");
 			<td width="293" rowspan="2"><img src="/images/trans.gif" width="293" height="7"></td>
 			<td width="78" rowspan="2"><img src="/images/g-logo-footer.gif" width="78"></td>
 			<td width="526"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><form action="/default.asp" method="post" target="_top" id="siteIndexForm" name="siteIndexForm"></form>
-<td><select name="u" class="SiteIndex" onchange="submit();"><option>Site Index</option><option value="/default.asp?c=1">Home/About</option><option value="/Article.asp?id=115744&amp;c=1">&nbsp;&nbsp;&nbsp;&nbsp;• Bios</option><option value="/Article.asp?id=115718&amp;c=1">&nbsp;&nbsp;&nbsp;&nbsp;• Career Opportunities</option><option value="/Article.asp?id=115747&amp;c=1">&nbsp;&nbsp;&nbsp;&nbsp;• Backgrounder</option><option value="/Article.asp?id=259897&amp;c=1">&nbsp;&nbsp;&nbsp;&nbsp;• Client Partners</option><option value="/sectional.asp?id=5538&amp;c=2">Products</option><option value="/Article.asp?id=176346&amp;c=2">&nbsp;&nbsp;&nbsp;&nbsp;• Content Management</option><option value="/Article.asp?id=176364&amp;c=2">&nbsp;&nbsp;&nbsp;&nbsp;• Streaming</option><option value="/Article.asp?id=115113&amp;c=2">&nbsp;&nbsp;&nbsp;&nbsp;• Custom Website Design</option><option value="/Article.asp?id=115122&amp;c=2">&nbsp;&nbsp;&nbsp;&nbsp;• Relationship Management</option><option value="/Article.asp?id=176362&amp;c=2">&nbsp;&nbsp;&nbsp;&nbsp;• Podcasting</option><option value="/Article.asp?id=176365&amp;c=2">&nbsp;&nbsp;&nbsp;&nbsp;• Classifieds</option><option value="/Article.asp?id=115520&amp;c=2">&nbsp;&nbsp;&nbsp;&nbsp;• Advertising</option><option value="/Article.asp?id=176374&amp;c=2">&nbsp;&nbsp;&nbsp;&nbsp;• Network Revenue</option><option value="/Article.asp?id=176375&amp;c=2">&nbsp;&nbsp;&nbsp;&nbsp;• Consumer Relationship &amp; Loyalty Management</option><option value="/Article.asp?id=115142&amp;c=2">&nbsp;&nbsp;&nbsp;&nbsp;• Promotional and Fan Frenzy Sports Games</option><option value="/Article.asp?id=115427&amp;c=2">&nbsp;&nbsp;&nbsp;&nbsp;• Training/Support</option><option value="/sectional.asp?id=7822&amp;c=3">News</option><option value="/Article.asp?id=180781&amp;c=4">Events</option><option value="/contactus.asp?c=5">Contact Us</option><option value="/aboutthissite.asp">About This Site</option></select></td></tr></tbody></table></td>
+<td><select name="u" class="SiteIndex" onchange="submit();"><option>Site Index</option><option value="/default.asp?c=1">Home/About</option><option value="/Article.asp?id=115744&amp;c=1">&nbsp;&nbsp;&nbsp;&nbsp;• Bios</option><option value="http://www.mediaspangroup.com/Article.asp?id=252204&amp;c=1">&nbsp;&nbsp;&nbsp;&nbsp;• Career Opportunities</option><option value="/Article.asp?id=115747&amp;c=1">&nbsp;&nbsp;&nbsp;&nbsp;• Backgrounder</option><option value="/Article.asp?id=259897&amp;c=1">&nbsp;&nbsp;&nbsp;&nbsp;• Client Partners</option><option value="/sectional.asp?id=5538&amp;c=2">Products</option><option value="/Article.asp?id=176346&amp;c=2">&nbsp;&nbsp;&nbsp;&nbsp;• Content Management</option><option value="/Article.asp?id=176364&amp;c=2">&nbsp;&nbsp;&nbsp;&nbsp;• Streaming</option><option value="/Article.asp?id=115113&amp;c=2">&nbsp;&nbsp;&nbsp;&nbsp;• Custom Website Design</option><option value="/Article.asp?id=115122&amp;c=2">&nbsp;&nbsp;&nbsp;&nbsp;• Relationship Management</option><option value="/Article.asp?id=176362&amp;c=2">&nbsp;&nbsp;&nbsp;&nbsp;• Podcasting</option><option value="/Article.asp?id=176365&amp;c=2">&nbsp;&nbsp;&nbsp;&nbsp;• Classifieds</option><option value="/Article.asp?id=115520&amp;c=2">&nbsp;&nbsp;&nbsp;&nbsp;• Advertising</option><option value="/Article.asp?id=176374&amp;c=2">&nbsp;&nbsp;&nbsp;&nbsp;• Network Revenue</option><option value="/Article.asp?id=176375&amp;c=2">&nbsp;&nbsp;&nbsp;&nbsp;• Consumer Relationship &amp; Loyalty Management</option><option value="/Article.asp?id=115142&amp;c=2">&nbsp;&nbsp;&nbsp;&nbsp;• Promotional and Fan Frenzy Sports Games</option><option value="/Article.asp?id=115427&amp;c=2">&nbsp;&nbsp;&nbsp;&nbsp;• Training/Support</option><option value="/sectional.asp?id=7822&amp;c=3">News</option><option value="/Article.asp?id=180781&amp;c=4">Events</option><option value="/contactus.asp?c=5">Contact Us</option><option value="/aboutthissite.asp">About This Site</option></select></td></tr></tbody></table></td>
 		 </tr>
 		 <tr align="left" valign="top">
-			<td class="Copyright"><div class="CopyrightLink"><a href="http://www.mediaspangroup.com" target="_blank" class="CopyrightLink">Copyright © 2006 MediaSpan</a> </div><a href="/default.asp" class="CopyrightLink">Powered by MediaSpan Online Services</a><br><a class="CopyrightLink" href="/article.asp?id=109540">PRIVACY POLICY</a><!--future stat tag code goes here-->
+			<td class="Copyright"><div class="CopyrightLink"><a href="http://www.mediaspangroup.com" target="_blank" class="CopyrightLink">Copyright © 2007 MediaSpan</a> </div><a href="/default.asp" class="CopyrightLink">Powered by MediaSpan Online Services</a><br><a class="CopyrightLink" href="/article.asp?id=109540">PRIVACY POLICY</a><!--future stat tag code goes here-->
 			</td>
 		 </tr>
 		</tbody></table></td>
