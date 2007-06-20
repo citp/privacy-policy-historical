@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the escapade.co.uk privacy policy that was archived on 2006-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061220160545id_/http%3A//www.escapade.co.uk/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escapade.co.uk privacy policy that was archived on 2007-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070620175826id_/http%3A//www.escapade.co.uk/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,14 +25,3 @@ We would also like to send you offers for goods or services from Escapade or oth
 Cookies are small text files that a web site transfers to a site visitor’s hard disk or browser for added functionality, or for tracking web site usage. We do not use cookies to gather personal information such as a person’s name or e-mail address. In order to measure the effectiveness of our on-line presence, Escapade may use cookies to identify repeat visitors to our site and to determine the path visitors take on our site. Any information gathered by the use of cookies is compiled on an aggregate, anonymous basis. 
 
 Use of cookies is an industry standard and many web sites use them. If you do not wish to receive cookies, or want to be notified of when they are placed, you can set your web browser to do so, if your browser so permits. 
-
-  * [Shopping cart](https://web.archive.org/ShowCart.asp?ShowCart=SALE&Referer=/privacy_policy.asp)
-  * [Hire Wardrobey](https://web.archive.org/ShowCart.asp?ShowCart=HIRE&Referer=/privacy_policy.asp)
-
-
-  * Your shopping basket is empty.
-
-
-
-
-Add items to your shoppping basket by browsing items stored in the sales category.
