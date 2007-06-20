@@ -1,15 +1,29 @@
-> *The following text is extracted and transformed from the coachfederation.org privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404040814id_/http%3A//www.coachfederation.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coachfederation.org privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621003526id_/http%3A//www.coachfederation.org/ICF/Privacy.htm) for the most accurate reproduction.*
 
-# ICF Request for Ethics Facilitators
+# Privacy
 
   
-Privacy Policy for International Coach Federation Web Site (coachfederation.org)
 
-Close Window  |   Print Window
+
+### Find a:
+
+### Search:
+
+  
+ICF WWW    
+
+
+  
+
+
+  
+Advertisement
+
+[](https://apps.coachfederation.org/eweb/DynamicPage.aspx?Webcode=COEPubSearch)
 
 The International Coach Federation (ICF) recognizes the importance of protecting our users privacy. To that end we have created this privacy statement in order to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices. 
 
-**What Information is Collected**  
+**What Information is Collected **  
 ICF and its web hosting company, acting as ICF's agent, collect and store technical information about your visit to our web site. We use this information for statistical purposes to make our site more accessible to visitors and the information we collect is not provided to any other third party. Specifically, we may record: 
 
   * The name of the domain from which you access the Internet. 
@@ -40,9 +54,8 @@ This site uses physical, electronic and managerial procedures to protect informa
 **Choice/Opt-Out or Corrections/Updates**  
 Users of our Web site have the opportunity to opt-out of receiving communications from us and our partners. If you no longer wish to receive any future communications or need to change or modify information previously provided. 
 
-  1. You can send email to [icfoffice@coachfederation.org](mailto:icfoffice@coachfederation.org?subject=Privacy)
-  2. You can send mail to the address listed below 
-  3. You can call the following telephone number: 202-712-9039 
+  1. You can send email to [icfheadquarters@coachfederation.org](mailto:icfheadquarters@coachfederation.org)
+  2. You can call the following telephone number: 859-219-3580
 
 
 
@@ -54,15 +67,15 @@ This Site is controlled and operated by ICF from its offices within the United S
 **Site Content**  
 You may access, download and print materials on this Web site for your personal and non-commercial use. You may not modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, or sell any information, software, products or services obtained from this Web site without first obtaining written consent from ICF. Furthermore, you may not use the materials found on this Web site on any other Web sites or in a networked environment without first obtaining written consent from ICF. 
 
-All materials on this site (as well as the organization and layout of the site) are owned and copyrighted by the International Coach Federation. © Copyright International Coach Federation (ICF) 1998 - 2003. All rights reserved. No reproduction, distribution, or transmission of the copyrighted materials at this site is permitted without the written permission of the ICF. 
+All materials on this site (as well as the organization and layout of the site) are owned and copyrighted by the International Coach Federation. © Copyright International Coach Federation (ICF) 1998 - 2005. All rights reserved. No reproduction, distribution, or transmission of the copyrighted materials at this site is permitted without the written permission of the ICF. 
 
 **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact the following: 
 
 International Coach Federation  
-1444 I ("Eye") Street, NW  
-Suite 700  
-Washington, DC 20005-6542  
-Phone: 202-712-9039   
-Fax: 202-216-9646   
-[icfoffice@coachfederation.org](mailto:icfoffice@coachfederation.org?subject=Privacy)
+2365 Harrodsburg Rd, Suite A325  
+Lexington, KY 40504  
+Phone: 888-423-3131, 859-219-3580  
+Fax: 888-329-2423, 859-226-4411  
+[icfheadquarters@coachfederation.org](mailto:icfheadquarters@coachfederation.org)   
+
