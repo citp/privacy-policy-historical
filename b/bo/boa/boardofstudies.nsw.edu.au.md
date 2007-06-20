@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boardofstudies.nsw.edu.au privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209071840id_/http%3A//www.boardofstudies.nsw.edu.au/administration/privacy_plan.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boardofstudies.nsw.edu.au privacy policy that was archived on 2007-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070620171029id_/http%3A//www.boardofstudies.nsw.edu.au/administration/privacy_plan.html) for the most accurate reproduction.*
 
 # OBOS - Privacy Management Plan
 
