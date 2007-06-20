@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dltk-teach.com privacy policy that was archived on 2006-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061222060106id_/http%3A//www.dltk-kids.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dltk-teach.com privacy policy that was archived on 2007-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070620194728id_/http%3A//www.dltk-kids.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -13,3 +13,5 @@ There are a few features on our site that we have offered in conjunction with a 
 In some cases, you may be able to use these third party features without providing any personal information.  
   
 
+
+| | 
