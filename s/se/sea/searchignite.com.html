@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the searchignite.com privacy policy that was archived on 2006-08-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060828003229id_/http%3A//searchignite.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the searchignite.com privacy policy that was archived on 2007-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070621012906id_/http%3A//searchignite.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-	<title>Searchignite.com: Privacy</title>
+	<title>SearchIgnite: Privacy</title>
 <meta name="keywords" content="ppc, pay per click, search engine, marketing,
 paid, software, keyword, management, adwords, ad words, overture, findwhat,
 google, yahoo search, msn search, aol search, ask jeeves, search engine">
@@ -16,19 +16,37 @@ and sales.">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
 <link rel="STYLESHEET" type="text/css" href="css/si_marketing_template.css" media="screen">
-<script src="scripts/si_marketing_common.js" type="text/javascript"></script>
 <script src="scripts/si_cookie.js" type="text/javascript"></script>
+<script src="scripts/si_marketing_common.js" type="text/javascript"></script>
 <script type="text/javascript" src="swfobject.js"></script>
 
 </head>
-<body onload="show_cookies()">
+<body>
+
+<!-- Google Analytics script -->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+	// valid for www.searchignite.com = _uacct="UA-605402-1";		//
+	// valid for qa.searchginite.com = _uacct="UA-605402-2";			//
+_uacct = "UA-605402-1";
+urchinTracker();
+</script>
+
+<!-- // Google Analytics script -->
+
 <!-- begin container-->
 <div class="container">
 	<!-- Begin Logo-->
 	<div id="logo"><a href="default.aspx" title="Searchignite: Search Management Solutions"><img src="images/elements/logo_SI.gif" alt="Searchignite: Search Management Solutions"></a></div>
-	<!-- End logo-->	<!--Begin login box-->
+	<!-- End logo--><script language="javascript" src="scripts/validate_login_form.js"></script>
+	<!--Begin login box-->
 	<div id="login">
-		<form action="https://admin.searchignite.com/si/login.aspx" method="post" name="login" onsubmit="check_cookie();">
+	
+	<!-- form action for www.searchignite.com		:	https://admin.searchignite.com/si/login.aspx //-->
+	<!-- form action for qa.searchignite.com	:		http://qa-searchignite.com/si/login.aspx	//-->
+	
+	<form action="https://admin.searchignite.com/si/login.aspx" method="post" name="login" onsubmit="check_cookie(); return validateForm(this);">
 		<div class="col1">
 			Client Sign-in:<br>
 			<input type="text" name="username" class="loginFld">
@@ -60,9 +78,13 @@ and sales.">
 	<img src="images/nav/nav_pipe.gif" width="12" height="13">
 	<a href="features.aspx" title="Product Features"><img src="images/nav/nav_prod_features.gif" name="navProdFeatures" alt="Product Features" width="93" height="13" onmouseover="javascript: imgSwap('navProdFeatures',navProdFeaturesOn);" onmouseout="javascript: imgSwap('navProdFeatures',navProdFeaturesOff);"></a>
 	<img src="images/nav/nav_pipe.gif" width="12" height="13">
+	<a href="campaign-advisory-services.aspx" title="Advisory Services"><img src="images/nav/nav_advisory.gif" name="navAdvisory" alt="Advisory Services" width="99" height="13" onmouseover="javascript: imgSwap('navAdvisory',navAdvisoryOn);" onmouseout="javascript: imgSwap('navAdvisory',navAdvisoryOff);"></a>	
+	<img src="images/nav/nav_pipe.gif" width="12" height="13">
 			<a href="get_started.aspx"><img src="images/nav/nav_get_started.gif" name="navGetStarted" alt="Get Started" width="62" height="13" onmouseover="javascript: imgSwap('navGetStarted',navGetStartedOn);" onmouseout="javascript: imgSwap('navGetStarted',navGetStartedOff);"></a>
 	<img src="images/nav/nav_pipe.gif" width="12" height="13">
 	<a href="about.aspx" title="About Us"><img src="images/nav/nav_about_us.gif" name="navAboutUs" alt="About Us" width="52" height="13" onmouseover="javascript: imgSwap('navAboutUs',navAboutUsOn);" onmouseout="javascript: imgSwap('navAboutUs',navAboutUsOff);"></a>
+	<img src="images/nav/nav_pipe.gif" width="12" height="13">
+	<a href="careers.aspx" title="Careers"><img src="images/nav/nav_careers.gif" name="navCareers" alt="Careers" width="44" height="13" onmouseover="javascript: imgSwap('navCareers',navCareersOn);" onmouseout="javascript: imgSwap('navCareers',navCareersOff);"></a><div class="new"><img src="images/text/txtNew.gif"></div>
 	<!-- Begin nav arrow -->
 	<div class="navarrow" style="display: none;">
 	<img src="images/nav/nav_arrow.gif" width="10" height="6">
@@ -132,21 +154,54 @@ e-mail: privacy@searchignite.com</p>
 	<!-- Begin col2 content -->
 	<div id="col2">
 <!-- Begin sign up box-->
-		<div class="signUpBox">
-			<div class="text"><strong>Ready?</strong><br>
-			Contact a SearchIgnite<br>
-			representative today for<br>
-			more information!</div>
-			<div class="img">
-			<a href="get_started.aspx" title="Get Started"><img src="images/buttons/btn_get_started.gif" name="btnGetStarted" onmouseover="javascript: imgSwap('btnGetStarted',btnGetStartedOn);" onmouseout="javascript: imgSwap('btnGetStarted',btnGetStartedOff);" alt="Get Started"></a>
-			</div>
+		<div class="searchEng" id="searchEng">
+		<h2 style="text-transform: none;">2 ways to learn more about SearchIgnite:</h2>
+			<table align="center" style="border:0;width:90%;" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td class="icon"><img src="images/icons/icon_one.gif"></td>
+					<td>
+						<img src="images/buttons/btnRequestInfo.jpg" id="btnRequestInfo" style="cursor: pointer;">
+					</td>
+				</tr>
+				<tr>
+					<td colspan="2"><hr style="width:100%;height:1px;color: #ccc;" color="#cccccc" size="1"></td>
+				</tr>
+				<tr>
+					<td class="icon"><img src="images/icons/icon_two.gif"></td>
+					<td class="text">call now: (404) 961-9250</td>
+				</tr>
+			</tbody></table>			
 		</div>
 		<!-- end sign up box-->		<!-- Begin search engine box-->
 		<div class="searchEng">
+			<h2 style="text-transform: none;">Let us help optimize your campaigns!</h2>
+			<!-- begin flash object-->
+			<div class="clear" style="height:10px;"></div>
+			<table border="0" cellpadding="0" cellspacing="0" align="center">
+			<tbody><tr>
+				<td><img src="images/icons/icon_advisor.gif" style="margin-right:2px;width:45px;height:44px;"></td>
+				<td nowrap="nowrap"><a href="campaign-advisory-services.aspx">Learn more about our new<br>Campaign Advisory Services</a></td>
+				<td style="vertical-align:top;"><img src="images/icons/icon_new.jpg" alt="New" style="width:28px;height:13px;"></td>			
+			</tr>
+			</tbody></table>
+			
+	
+			
+		
+		</div>
+		<!-- end search engine box-->		<!-- Begin search engine box-->
+		<div class="searchEng">
 			<h2>We support all major engines:</h2>
 			<!-- begin flash object-->
-			<div class="flash">
+		
+			<ul class="engines">
+			    <li>Google<sup>TM</sup></li>
+			    <li>Yahoo!<sup>®</sup></li> 			
+			    <li>MSN<sup>®</sup></li>
+			   <li><a href="features_international.aspx">See all</a></li> 
+			    </ul>
 			
+			<!--
 			<script language="javascript" type="text/javascript">
 			var WriteFlash;
 			document.write('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="'+document.location.protocol+'download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="150" height="50">');
@@ -154,10 +209,10 @@ e-mail: privacy@searchignite.com</p>
 			document.write('<param name="quality" value="high" />');
 			document.write('<embed src="images/se_logos.swf" quality="high" pluginspage="'+document.location.protocol+ 'www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="150" height="50"></embed>');
 			document.write('</object>');
-			</script><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https:download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="150" height="50"><param name="movie" value="images/se_logos.swf"><param name="quality" value="high"><embed src="images/se_logos.swf" quality="high" pluginspage="https:www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="150" height="50"></object>
-	
+			</script>
+	        -->
 			
-			</div><!-- end flash object-->
+		
 		</div>
 		<!-- end search engine box-->
 	</div>
@@ -173,8 +228,18 @@ e-mail: privacy@searchignite.com</p>
 	<a href="default.aspx" title="Home">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="our_approach.aspx" title="Our Approach">Our Approach</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="features.aspx" title="Product Features">Product Features</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="terms.aspx" title="Terms &amp; Conditions">Terms &amp; Conditions</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="privacy.aspx" title="Privacy Policy">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="about.aspx" title="About Us">About Us</a><br>Copyright © 2006 SearchIgnite</div>
 <!--end footer-->
 
+
 <script language="javascript" type="text/javascript">document.write('<s'+'cript language="javascript" type="text/javascript" src="'+document.location.protocol+'//ct.360i.com/cgi-bin/ctasp-server.cgi?i=CjHq6RpzSfAMpvhJ"></s'+'cript>');
 </script><script language="javascript" type="text/javascript" src="https://ct.360i.com/cgi-bin/ctasp-server.cgi?i=CjHq6RpzSfAMpvhJ"></script>
+
+<!--Search Ignite BEGIN click tracking script version 3.1.2 -->
+<script language="javascript" type="text/javascript">
+document.write('<s'+'cript language="javascript" type="text/javascript" src="'+document.location.protocol+'//track.searchignite.com/si/CM/Tracking/ClickTracking.aspx?siclientid=76&jscript=1"></s'+'cript>');
+</script><script language="javascript" type="text/javascript" src="https://track.searchignite.com/si/CM/Tracking/ClickTracking.aspx?siclientid=76&amp;jscript=1"></script>
+<noscript>
+<img width="1" height="1" src='http://track.qa-searchignite.com/si/CM/Tracking/ClickTracking.aspx?siclientid=76&jscript=0'>
+</noscript>
+<!--Search Ignite END click tracking script version 3.1.2 -->
 
 
 
