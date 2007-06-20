@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizbuysell.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225011636id_/http%3A//www.bizbuysell.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizbuysell.com privacy policy that was archived on 2007-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070620110148id_/http%3A//www.bizbuysell.com/privacy.htm) for the most accurate reproduction.*
 
 # BizBuySell - The Internet's Largest Business for Sale Marketplace
 
