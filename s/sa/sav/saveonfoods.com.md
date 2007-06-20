@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the saveonfoods.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017214942id_/http%3A//saveonfoods.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saveonfoods.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621004211id_/http%3A//www.saveonfoods.com/legal/privacy.htm) for the most accurate reproduction.*
 
-# Save On Foods, Privacy Statement
+# privacy
+
+privacy
 
 **_I. Privacy Statement_**
 
@@ -15,7 +17,7 @@ It is important for us at Save-On-Foods to make you feel as comfortable as possi
 **Contact**  
 During your initial visit to our website, we would ask that you indicate whether you want to receive communications from Save-On-Foods. There is no obligation to receive communications when visiting our website. Occasionally, we may be in touch with you via email, postal mail or telephone to notify you of new services or products available through Save-On-Foods and to ask you about how satisfied you are with Save-On-Foods' products and services.
 
-If you have any questions about our privacy statement, the practices of this website, or dealing with Save-On-Foods, contact us by calling 1.800.242.9229 to voice any concerns to our friendly customer service representatives, or fill in our: **[online customer inquiry form](https://web.archive.org/web/20061017214942id_/http%3A//saveonfoods.com/contact.htm) **[](https://web.archive.org/web/20061017214942id_/http%3A//saveonfoods.com/contact.htm)
+If you have any questions about our privacy statement, the practices of this website, or dealing with Save-On-Foods, contact us by calling 1.800.242.9229 to voice any concerns to our friendly customer service representatives, or fill in our: **[online customer inquiry form](https://web.archive.org/web/20070621004211id_/http%3A//www.saveonfoods.com/customerservices/contact.htm) **[](https://web.archive.org/web/20070621004211id_/http%3A//www.saveonfoods.com/customerservices/contact.htm)
 
 **Links**  
 This website provides links to other websites. Please be aware that we are not responsible for the privacy practices of any other websites. We encourage our users to be aware when they leave our website to read the privacy policies of each and every website that collects personal information. This policy statement applies solely to personal information collected by Save-On-Foods.
@@ -47,11 +49,13 @@ Personal information is information about an identifiable individual but does no
 **Collection, Use and Disclosure of Your Personal Information**  
 In order to efficiently offer and provide quality products and services to OFG’s customers/team members, OFG must collect, use and disclose personal information in relation to its customers/team members. In this regard: 
 
-  * OFG will only collect, use and disclose the personal information necessary for its day-to-day administration, reward programs and to enable OFG to: 
+  * OFG will only collect, use and disclose the personal information necessary for its day-to-day administration, reward programs and to enable OFG to:
+
+
     * understand the needs of customers, their preferences and to establish and maintain a commercial relationship with customers of OFG and to provide customers with ongoing service 
     * determine the demand for products which OFG makes available for sale to customers 
     * provide you with information about products and services offered by OFG, and 
-    * enable OFG to more efficiently and effectively operate, manage and develop its business 
+    * enable OFG to more efficiently and effectively operate, manage and develop its business
   * OFG will only collect, use or disclose personal information with a customer’s/team member’s consent, except where required or allowed by law
   * OFG will disclose and transfer personal information to its agents for processing and to assist OFG in its day-to-day business activities and administration 
   * OFG will safeguard and maintain the security and confidentiality of the personal information provided by its customers/team members 
