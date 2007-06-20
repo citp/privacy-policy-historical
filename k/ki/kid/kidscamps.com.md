@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidscamps.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205234913id_/http%3A//kidscamps.com/privacy.camp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidscamps.com privacy policy that was archived on 2007-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070620174949id_/http%3A//kidscamps.com/privacy.camp) for the most accurate reproduction.*
 
 # KidsCamps.com - Privacy Statement
 
@@ -27,7 +27,7 @@ This site gives users the following options for removing their information from 
   1. You can send e-mail to [info@kidscamps.com](mailto:info@kidscamps.com)
   2. You can visit [www.kidscamps.com](http://kidscamps.com/)® and use the Contact Us form.
   3. You can send mail to the following postal address:  
-2500 N. Military Trail, Suite 450, Boca Raton, Florida 33431-6353
+500 NE Spanish River Blvd., Suite 30, Boca Raton, Florida 33431
   4. You can call the following telephone number: 877-242-9330
 
 
@@ -39,7 +39,7 @@ This site gives users the following options for changing and modifying informati
   1. E-mail [info@kidscamps.com](mailto:info@kidscamps.com)
   2. Visit [www.kidscamps.com](http://kidscamps.com/)® and fill out the online update form.
   3. Send mail to the following postal address:  
-2500 N. Military Trail, Suite 450, Boca Raton, Florida 33431-6353
+500 NE Spanish River Blvd., Suite 30, Boca Raton, Florida 33431
   4. Call the following telephone number: 877-242-9330
 
 
