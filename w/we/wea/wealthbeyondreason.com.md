@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wealthbeyondreason.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215081151id_/http%3A//wealthbeyondreason.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wealthbeyondreason.com privacy policy that was archived on 2007-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070620120423id_/http%3A//www.wealthbeyondreason.com/privacy.html) for the most accurate reproduction.*
 
 # Boundless Living, Inc. Privacy Policy
 
