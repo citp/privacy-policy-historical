@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spacedaily.com privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228070317id_/http%3A//www.spacedaily.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spacedaily.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621012654id_/http%3A//www.spacedaily.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
