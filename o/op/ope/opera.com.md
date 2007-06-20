@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opera.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613022426id_/http%3A//www.opera.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opera.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621005214id_/http%3A//www.opera.com/privacy) for the most accurate reproduction.*
 
 # Opera Privacy Statement
 
