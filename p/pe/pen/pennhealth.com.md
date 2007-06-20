@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pennhealth.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205192845id_/http%3A//pennhealth.com/health/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennhealth.com privacy policy that was archived on 2007-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070620231136id_/http%3A//pennhealth.com/health/privacy.html) for the most accurate reproduction.*
 
 # University of Pennsylvania Health System - Philadelphia PA
 
-The University of Pennsylvania Health System values your privacy and the confidentiality of the information you choose to share with us. We want you to use our web sites without being concerned that others will have access to your confidential information. This statement pertains only to our web sites; UPHS patients should also review our [HIPAA Notice of Privacy Practices](https://web.archive.org/web/20061205192845id_/http%3A//pennhealth.com/health/npp.html).
+The University of Pennsylvania Health System values your privacy and the confidentiality of the information you choose to share with us. We want you to use our web sites without being concerned that others will have access to your confidential information. This statement pertains only to our web sites; UPHS patients should also review our [HIPAA Notice of Privacy Practices](https://web.archive.org/web/20070620231136id_/http%3A//pennhealth.com/health/npp.html).
 
 In almost all cases, you can use our web sites without sharing any personal information about yourself. The only information we learn about you is the information you voluntarily provide us.
 
