@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the totaltraining.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212135156id_/http%3A//www.totaltraining.com/corp/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totaltraining.com privacy policy that was archived on 2007-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070620150125id_/http%3A//www.totaltraining.com/corp/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
 [](https://web.archive.org/corp/home.asp)  
   
-[](https://web.archive.org/corp/advantage.asp)   
+[](https://web.archive.org/corp/advantage.asp)  
   
 [](https://web.archive.org/corp/contactus.asp)  
   
@@ -19,12 +19,8 @@
 [](https://web.archive.org/corp/career.asp)  
   
 [](https://web.archive.org/corp/survey.asp)  
-  
 |   
-|   
-Your right to privacy is important to us.
-
-Total Training respects your privacy. This Online Privacy Statement is made available to you in order to make you aware of how Total Training collects and uses identifying information for individuals who visit Total Training's Web site. Total Training is committed to taking reasonable steps to protect information provided to us. From time to time, we may use information provided to us to better serve our customer's needs. This Statement explains what information is collected, how it is collected, how it may be used, and how you can take steps to safeguard your interests.
+|  Total Training respects your privacy. This Online Privacy Statement is made available to you in order to make you aware of how Total Training collects and uses identifying information for individuals who visit Total Training's Web site. Total Training is committed to taking reasonable steps to protect information provided to us. From time to time, we may use information provided to us to better serve our customer's needs. This Statement explains what information is collected, how it is collected, how it may be used, and how you can take steps to safeguard your interests.
 
 When you visit www.totaltraining.com, place an order directly from Total Training, or request to be placed on our mailing list; whether online, by phone; or in person, or if you participate in a contest, promotion or survey, the company may collect information from you, such as your name, email and postal addresses, and phone and numbers.
 
