@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jet2.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206093143id_/http%3A//www.jet2.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jet2.com privacy policy that was archived on 2007-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070620133107id_/http%3A//www.jet2.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Jet2.com | Privacy Statement
 
@@ -102,7 +102,7 @@ This data will be used for the following purposes:
 
   * Completion and support of the current activity.
   * Web site and system administration.
-  * Research and development.
+  * Research and development, including market research.
   * Historical preservation.
 
 
