@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filmcritic.com privacy policy that was archived on 2006-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061025024928id_/http%3A//filmcritic.com/misc/emporium.nsf/9c20d8b9ba5270748625626800015979/b6f4c69e3d8ce866082566fb0068dba0%3FOpenDocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmcritic.com privacy policy that was archived on 2007-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070620105023id_/http%3A//www.filmcritic.com/misc/emporium.nsf/9c20d8b9ba5270748625626800015979/b6f4c69e3d8ce866082566fb0068dba0%3FOpenDocument) for the most accurate reproduction.*
 
-# filmcritic.com Our privacy policy
+# Filmcritic.com - Our privacy policy
 
 filmcritic.com Privacy Policy
 
@@ -33,6 +33,6 @@ This web site contains links to other sites. This statement is for the sole use 
 
 **Disclosure**
 
-filmcritic.com openly volunteers its practices of collecting information, its targeting capabilities, and its use of cookies. If you have any questions pertaining to this privacy policy and its contents, please direct your correspondence to null@filmcritic.com. 
+filmcritic.com openly volunteers its practices of collecting information, its targeting capabilities, and its use of cookies. If you have any questions pertaining to this privacy policy and its contents, please direct your correspondence [here](mailto:null@filmcritic.com). 
 
 filmcritic.com reserves the right to change this policy from time to time. A revised policy will apply to information collected after the date the policy is changed.
