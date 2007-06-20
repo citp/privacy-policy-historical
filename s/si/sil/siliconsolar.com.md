@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siliconsolar.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230050200id_/http%3A//siliconsolar.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siliconsolar.com privacy policy that was archived on 2007-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070620141347id_/http%3A//www.siliconsolar.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Silicon Solar Inc - Privacy Policy
 
@@ -8,8 +8,8 @@ In our ongoing effort to improve the services and features we provide to our cus
 
 The type of information we gather online falls into five general categories: 
 
-  * Online Order Information
-  * Voluntary Registered Shopper Information
+  * Online Order Information 
+  * Voluntary Registered Shopper Information 
 
 **WHAT HAPPENS TO MY INFORMATION AFTER WE RECEIVE IT?**
 
@@ -19,11 +19,11 @@ SSL protects information en route to us. THAWte certificate technology helps ens
 
 If you choose to purchase products from any of Silicon Solar's websites, we require the following information in order to fulfill your order: 
 
-  * Name
-  * Contact phone number (s)
-  * Address
-  * E-mail address
-  * Credit card account information or payment information.
+  * Name 
+  * Contact phone number (s) 
+  * Address 
+  * E-mail address 
+  * Credit card account information or payment information. 
 
 We use this information to process your order and to make sure that it is delivered to you. Aggregated order information is also used to track and analyze overall shopping trends, which allows Silicon Solar to improve product offerings and services to its members and customers.
 
