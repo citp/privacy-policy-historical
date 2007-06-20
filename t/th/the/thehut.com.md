@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thehut.com privacy policy that was archived on 2006-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061129211013id_/http%3A//www.thehut.com/hut/privacy-policy.info) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehut.com privacy policy that was archived on 2007-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070620095746id_/http%3A//www.thehut.com/hut/privacy-policy.info) for the most accurate reproduction.*
 
-# Privacy Policy
+# thehut.com - Privacy Policy
 
 |  | 
 
@@ -27,20 +27,24 @@ It is important for you to protect against unauthorized access to your password 
 
 In addition to the company's safeguards, your personal data is protected in the UK by the Data Protection Act (the Act'). 'The Act' requires us, as registered Data Controllers, amongst other things to ensure that the data we hold about you should be processed lawfully and fairly. It should be accurate, relevant and not excessive. The information should, where necessary, be kept up to date and not retained for longer than is necessary. It should be kept securely to prevent unauthorized access by other people. 
 
+## Contact Us
+
 If you have any queries on any aspect of the above policy, please contact us at:
 
-TheHut.com  
-Customer Service Centre  
-Unit 4A  
-Brunel Court  
-Rudheath Way  
-Northwich  
-Cheshire  
-CW9 7LP  
-UK
+## Email:
 
-Phone: +44 (0) 8702 408 956  
-Fax: +44 (0) 845 354455
+[care@thehut.com](mailto:care@thehut.com?subject=Website%20Query)
 
-Email: [care@thehut.com](mailto:care@thehut.com?subject=Website%20Query)  
+## Telephone:
 
++44 (0) 8702 408 956
+
+## Fax:
+
++44 (0) 845 2991321 
+
+## Opening Hours:
+
+Monday to Friday: 09.00 - 18.00
+
+Weekends and Bank Holidays: Closed 
