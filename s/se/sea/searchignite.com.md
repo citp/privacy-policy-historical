@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the searchignite.com privacy policy that was archived on 2006-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060828003229id_/http%3A//searchignite.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchignite.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621012906id_/http%3A//searchignite.com/privacy.aspx) for the most accurate reproduction.*
 
-# Searchignite.com: Privacy
+# SearchIgnite: Privacy
 
 ## Privacy Policy
 
