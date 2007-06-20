@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the centrelink.gov.au privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231071452id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centrelink.gov.au privacy policy that was archived on 2007-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070620141946id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/legal/privacy.htm) for the most accurate reproduction.*
 
-# Legal - Privacy & Security Statement
+# Privacy & Security Statement
 
 Centrelink places great emphasis on maintaining and enhancing the privacy and security of your personal information. With a number of strong security measures in place and the continued development of our internet services, our main focus is on improving existing measures as well as keeping you informed about the latest developments.
 
@@ -35,7 +35,7 @@ Centrelink collects a range of information about visits to the Centrelink websit
   * the length of time spent on the site
   * how much information was downloaded
   * if the visit is from a company or an individual
-  * if you are browsing from Australia or overseas
+  * if you are browsing from Australia or outside Australia
   * the general area you visited from
   * what browser types are being used.
 
