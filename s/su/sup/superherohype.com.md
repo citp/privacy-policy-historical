@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the superherohype.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215183231id_/http%3A//www.superherohype.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superherohype.com privacy policy that was archived on 2007-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070620023218id_/http%3A//www.superherohype.com/privacy.php) for the most accurate reproduction.*
 
 # Superhero Hype! - Privacy Statement
 
-**Privacy Statement**
+Privacy Statement 
 
 SuperheroHype.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices of SuperheroHype.com. 
 
@@ -19,28 +19,3 @@ We use Gorilla Nation and other third-party advertising companies to serve ads w
 In the course of serving advertisements to this 
 
 website, our third-party ad server, Gorilla Nation or their affiliates, or individual advertisers may place or recognize a unique "cookie" on your browser.
-
-#### Personal Information
-
-Our site's mailing list form asks visitors to provide their email address. We use the contact information gathered from the form to send the visitor information about our site and about upcoming events. The visitor's contact information is also used to contact the visitor when necessary. Visitors may opt-out of receiving future mailings (see the "choice/opt-out" section below). 
-
-#### External Links
-
-This website contains links to other websites. SuperheroHype.com is not responsible for the privacy practices or the content of such websites.
-
-#### Public Forums
-
-This website makes message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
-
-#### Security
-
-This website has security measures in place to protect the loss, misuse, and alteration of the information under our control. For more information about our security measures, you may [contact us](https://web.archive.org/web/20061215183231id_/http%3A//www.superherohype.com/contact.php). 
-
-** Choice/Opt-Out **
-
-Our website provides users with the opportunity to opt-out of receiving communications from us at any time.
-
-## Contacting the Web Site
-
-If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, you can [contact us](https://web.archive.org/web/20061215183231id_/http%3A//www.superherohype.com/contact.php). _  
-_
