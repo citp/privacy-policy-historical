@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clubmonaco.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216114912id_/http%3A//www.clubmonaco.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubmonaco.com privacy policy that was archived on 2007-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070620170715id_/http%3A//www.clubmonaco.com/privacy) for the most accurate reproduction.*
 
 # Club Monaco Privacy Policy
 
@@ -236,7 +236,7 @@ Upon request, Club Monaco will inform you of the existence, use and disclosure o
 
 For anything to do with this Policy, including questions, comments, withdrawing consent or to challenge our compliance with this Policy, please contact us as follows:
 
-> Brooke K. Travis, Senior Manager of Global Creative Marketing  
+> Brooke K. Travis, Senior Director of Global Communications  
 >  601 West 26th Street, 8th Floor  
 >  New York, New York  
 >  10001, USA  
