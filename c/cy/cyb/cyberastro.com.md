@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberastro.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205224301id_/http%3A//www.cyberastro.com/pubdoc/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberastro.com privacy policy that was archived on 2007-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070620170342id_/http%3A//www.cyberastro.com/pubdoc/privacy.asp) for the most accurate reproduction.*
 
 # Free Indian Astrology Sites : Cyber Astro
 
@@ -79,7 +79,7 @@ Free email services at our domain name @ClubCyberastro.com is provided by [www.E
   
 **What communications do we send you?**
 
-At the current time we send out an automatic Welcome letter from the site when you enroll as a member with your user name and password so that you may use it as a reference in the future. Additionaly, we send you email for your personalized monthly astrological signatures and information regarding new products and services, from time to time. You are provided with an option to unsubscribe from this mailing list at any time. Besides these communications, we bring you special offers from our business associates on their products and services. Once again, you have an option to opt out from receiving such special offers.
+At the current time we send out an automatic Welcome letter from the site when you enroll as a member with your user name and password so that you may use it as a reference in the future. Additionally, we send you email for your personalized monthly astrological signatures and information regarding new products and services, from time to time. You are provided with an option to unsubscribe from this mailing list at any time. Besides these communications, we bring you special offers from our business associates on their products and services. Once again, you have an option to opt out from receiving such special offers.
 
   
 **How can you correct/update your membership profile or information?**
@@ -105,8 +105,8 @@ This website is in compliance and with accordance with the Children's Online Pri
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
-**Gautam Mukerjee**  
-Vice President & CFO  
+**Satrajit Majumdar**  
+Director & CEO  
 Cyber Astro Ltd.  
 Cyber House  
 35 (4 Bays)  
