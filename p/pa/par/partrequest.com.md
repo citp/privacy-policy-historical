@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partrequest.com privacy policy that was archived on 2006-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061128113500id_/http%3A//www.partrequest.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partrequest.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621150847id_/http%3A//www.partrequest.com/privacy.htm) for the most accurate reproduction.*
 
 # Used Auto Parts Online - PartRequest.com
 
@@ -8,7 +8,7 @@ In order to submit a used auto parts request to our network of salvage yards, ju
 
 The information that is required from you is needed in order to provide our subscribers with enough information so they can reply to you after you place a part request. Your personal information, including your email address and phone number (if you choose to provide it), will not be shared with anyone outside our network of subscribers. In addition, each subscriber has agreed to the terms and conditions of our Subscriber Agreement which states, in part, that each subscriber is required to keep all information that they receive through our service confidential.
 
-If you believe that your privacy has not been maintained as a result of your use of our web site, please [contact our support team](https://web.archive.org/web/20061128113500id_/http%3A//www.partrequest.com/contact.htm) immediately.
+If you believe that your privacy has not been maintained as a result of your use of our web site, please [contact our support team](https://web.archive.org/web/20070621150847id_/http%3A//www.partrequest.com/contact.htm) immediately.
 
 Information we may collect and store on our servers includes: (1) your email address; (2) your name; (3) information about the automobile for which a part request is placed, including the year, make and model of the automobile; (4) the city, state and zip code where the part will be shipped if it is purchased from one of our vendors; (5) information about the part(s) being requested; and (6) your phone number if you decide to provide it. 
 
