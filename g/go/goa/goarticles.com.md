@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goarticles.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214044004id_/http%3A//www.goarticles.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goarticles.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621220110id_/http%3A//goarticles.com/privacy.html) for the most accurate reproduction.*
 
 # GoArticles.com: Privacy Statement
 
@@ -28,6 +28,8 @@ Your email address information is stored in a protected directory. Access is res
 
   
 **Changes to this Privacy Policy**   
-GoArticles may amend this policy from time to time. If significant changes are made in the way your personal information is used, we will post a prominent announcement on our site notifying you of the change.   
+GoArticles may amend this policy from time to time. If significant changes are made in the way your personal information is used, we will post a prominent announcement on our site notifying you of the change. 
+
+[ ](http://www.sitepronews.com/cgi-bin/ct.cgi?id=1868)  
   
-Jayde Online, Inc. © Copyright 2004, All Rights Reserved. 
+Jayde Online, Inc. © Copyright 2007, All Rights Reserved. 
