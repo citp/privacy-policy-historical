@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grit.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206144322id_/http%3A//www.grit.com/grtec/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grit.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621062129id_/http%3A//www.grit.com/grtec/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Ogden Publications, Inc
 
