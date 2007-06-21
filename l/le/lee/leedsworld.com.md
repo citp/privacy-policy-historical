@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leedsworld.com privacy policy that was archived on 2006-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061014204101id_/http%3A//leedsworld.com/aboutleeds/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leedsworld.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621192337id_/http%3A//www.leedsworld.com/aboutleeds/privacy.asp) for the most accurate reproduction.*
 
 # Leed's: Privacy Statement
 
