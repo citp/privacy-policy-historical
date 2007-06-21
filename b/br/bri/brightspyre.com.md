@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightspyre.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217015015id_/http%3A//www.brightspyre.com/policy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightspyre.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621040317id_/http%3A//www.brightspyre.com/policy/index.php) for the most accurate reproduction.*
 
 # Contact Us BrightSpyre. Search jobs in Pakistan
 
@@ -52,7 +52,7 @@ If you have applied for a job then the concerned employer can view all your info
 
 You can also make your resume private by marking it as unsearchable. Private resumes will not be searchable by the employers searching the BrightSpyre database. ****
 
-Once you have registered to BrightSpyre.com , you are registered with all our affiliate portals including MobilinkGSM, UFone, PTCL, UNDP, PTC, TRG and new ones. etc and the same is true for other end. That is, if you have registered to any of our affiliate clients then you are also a registered member of BrightSpyre. And all the rules apply to the registered users. 
+Once you have registered to BrightSpyre.com , you are registered with all our affiliate portals including UNDP, UNFPA, PTC, PSEB, LEAD Pakistan, Micronet, TRG, PTCL and new ones. etc and the same is true for other end. That is, if you have registered to any of our affiliate clients then you are also a registered member of BrightSpyre. And all the rules apply to the registered users. 
 
 BrightSpyre reserves all the rights about on the registered users' data.   
   
@@ -106,7 +106,7 @@ Top
 
 If you have any queries or concerns about BrightSpyre.com  then please do not feel hesitant to email us at [support@BrightSpyre.com ](mailto:support@BrightSpyre.com). 
 
-**Office Address:** **** 205-D, 2 nd Floor, Evacuee Trust Complex, Aga Khan Road , F-5/1, Islamabad . 
+**Office Address:** **** 205-D, 2nd Floor, Evacuee Trust Complex, Aga Khan Road , F-5/1, Islamabad . 
 
 BrightSpyre is Pakistan 's leading online hiring portal. It is completely owned and operated by [**Cogilent Solutions.**](http://www.cogilent.com/)  
   
