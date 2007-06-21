@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the moteng.com privacy policy that was archived on 2006-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061211205452id_/http%3A//moteng.com/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the moteng.com privacy policy that was archived on 2007-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070621024909id_/http%3A//moteng.com/Privacy) for the most accurate reproduction.-->
 
 <html><head>
   <title>Privacy - Moteng International</title>
@@ -33,10 +33,6 @@
       color: #000000;
     }
 
-    body * {
-      font-size: 12px;
-    }
-    
     #YellowText, #YellowText A, #YellowText TD {
       color: #EFE734;
     }
@@ -160,7 +156,11 @@
     hr.bg {
       color: #EFE734;
     }
-        
+    
+    dt {
+      font-weight: bold;
+    }
+    
     .YellowButton {
       background-color: #EFE734;
       font-family: "Verdana, Arial, Sans-Serif";
@@ -349,8 +349,8 @@ function MenusInitialize() {
     
     // Contact Us Links
     asURLs[iIndex++] = ElementRetrieve("ContactUsLink").href;
+    asURLs[iIndex++] = ElementRetrieve("CustomerServiceLink").href;		
     asURLs[iIndex++] = ElementRetrieve("AdminLink").href;
-    asURLs[iIndex++] = ElementRetrieve("CustomerServiceLink").href;
     asURLs[iIndex++] = ElementRetrieve("PurchasingLink").href;
     asURLs[iIndex++] = ElementRetrieve("WarehouseLink").href;
     asURLs[iIndex++] = ElementRetrieve("FeedbackLink").href;
@@ -716,8 +716,8 @@ function GetY(obj)
     </tr>
     <tr class="headerbg">
       <!-- menu -->
-      <td align="left" valign="top">
-        &nbsp;
+      <td align="left" valign="top">&nbsp;
+        
       </td>
       <td width="80%" height="" align="left" valign="bottom">
          				<table border="0" cellpadding="0" cellspacing="0">
@@ -806,18 +806,17 @@ if( bDOM || bIE4 ) {
   document.writeln("  &nbsp;<a id=\"ContactUsLink\" href=\"/ContactUs/\">Contact Us</a>");
   document.writeln("  </div>");
   document.writeln("  <div class=\"SubMenuElement\" onmouseover=\"MenuElementEnter(this,"+iIndex+")\" onmouseout=\"MenuElementExit(this)\" onclick=\"window.location.href=asURLs["+(iIndex++)+"]\">");
-  document.writeln("  &nbsp;<a id=\"AdminLink\" href=\"/ContactUs/Admin.asp\">Administration</a>");
+  document.writeln("  &nbsp;<a id=\"CustomerServiceLink\" href=\"/ContactUs/CustomerService.asp\">Sales & Customer Service</a>");
   document.writeln("  </div>");
   document.writeln("  <div class=\"SubMenuElement\" onmouseover=\"MenuElementEnter(this,"+iIndex+")\" onmouseout=\"MenuElementExit(this)\" onclick=\"window.location.href=asURLs["+(iIndex++)+"]\">");
-  document.writeln("  &nbsp;<a id=\"CustomerServiceLink\" href=\"/ContactUs/CustomerService.asp\">Customer Service</a>");
-  document.writeln("  </div>");
+  document.writeln("  &nbsp;<a id=\"AdminLink\" href=\"/ContactUs/Admin.asp\">Administration</a>");
+  document.writeln("  </div>");	
   document.writeln("  <div class=\"SubMenuElement\" onmouseover=\"MenuElementEnter(this,"+iIndex+")\" onmouseout=\"MenuElementExit(this)\" onclick=\"window.location.href=asURLs["+(iIndex++)+"]\">");
   document.writeln("  &nbsp;<a id=\"PurchasingLink\" href=\"/ContactUs/Purchasing.asp\">Purchasing</a>");
   document.writeln("  </div>");
   document.writeln("  <div class=\"SubMenuElement\" onmouseover=\"MenuElementEnter(this,"+iIndex+")\" onmouseout=\"MenuElementExit(this)\" onclick=\"window.location.href=asURLs["+(iIndex++)+"]\">");
   document.writeln("  &nbsp;<a id=\"WarehouseLink\" href=\"/ContactUs/Warehouse.asp\">Warehouse</a>");
   document.writeln("  </div>");
-
   document.writeln("  <div class=\"SubMenuElement\" onmouseover=\"MenuElementEnter(this,"+iIndex+")\" onmouseout=\"MenuElementExit(this)\" onclick=\"window.location.href=asURLs["+(iIndex++)+"]\">");
   document.writeln("  &nbsp;<a id=\"FeedbackLink\" href=\"/ContactUs/Feedback.asp?SPage=http%3A%2F%2Fwww%2Emoteng%2Ecom%2FPrivacy%2FDefault%2Easp&rq=\">Feedback</a>");
   document.writeln("  </div>");
@@ -896,10 +895,10 @@ if( bDOM || bIE4 ) {
   &nbsp;<a id="ContactUsLink" href="/ContactUs/">Contact Us</a>
   </div>
   <div class="SubMenuElement" onmouseover="MenuElementEnter(this,16)" onmouseout="MenuElementExit(this)" onclick="window.location.href=asURLs[16]">
-  &nbsp;<a id="AdminLink" href="/ContactUs/Admin.asp">Administration</a>
+  &nbsp;<a id="CustomerServiceLink" href="/ContactUs/CustomerService.asp">Sales &amp; Customer Service</a>
   </div>
   <div class="SubMenuElement" onmouseover="MenuElementEnter(this,17)" onmouseout="MenuElementExit(this)" onclick="window.location.href=asURLs[17]">
-  &nbsp;<a id="CustomerServiceLink" href="/ContactUs/CustomerService.asp">Customer Service</a>
+  &nbsp;<a id="AdminLink" href="/ContactUs/Admin.asp">Administration</a>
   </div>
   <div class="SubMenuElement" onmouseover="MenuElementEnter(this,18)" onmouseout="MenuElementExit(this)" onclick="window.location.href=asURLs[18]">
   &nbsp;<a id="PurchasingLink" href="/ContactUs/Purchasing.asp">Purchasing</a>
@@ -1023,7 +1022,7 @@ if( bDOM || bIE4 ) {
           </tr>
           <tr>
             <td class="tdsm" align="center">
-              <a class="black" href="/Legal/">©1998-2006 Moteng Inc.</a>
+              <a class="black" href="/Legal/">©1998-2007 Moteng, Inc.</a>
             </td>
           </tr>
         </tbody></table>
