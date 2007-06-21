@@ -1,23 +1,26 @@
-> *The following text is extracted and transformed from the hitslink.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230144249id_/http%3A//www.netapplications.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitslink.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621082417id_/http%3A//www.netapplications.com/privacy.asp) for the most accurate reproduction.*
 
 # Affiliate program, private label, reseller webmaster products
 
-Privacy Statement
-
-We have created this privacy statement in order to demonstrate our firm commitment to privacy.  The following discloses our information gathering and dissemination practices.
-
 **Your Information is Private**  
-Subscribers are requested to enter limited personal information during signups.  Under no circumstance will we sell, transfer or disseminate this personal information gathered by our products to any other entity. 
+Subscribers are requested to enter limited personal information during signups. Under no circumstance will we sell, transfer or disseminate this personal information gathered by our products to any other entity. 
 
-Our statistics product collects information about visitors to the subscriber's website.  This information will also not be sold, transfered or disseminated to any other entity.  We may display aggregated data to show industry trends (such as browser share).  However, this data shall be the average of many thousands of sites and will in no way linked to individual subscribers. 
+Our statistics product collects information about visitors to the subscriber's website. This information will also not be sold, transfered or disseminated to any other entity. We may display aggregated data to show industry trends (such as browser share). However, this data shall be the average of many thousands of sites and will in no way linked to individual subscribers. 
 
 **Your Information is Secure**  
 We employ the use of the following measures to ensure your data is secure:
 
-* All accounts require an account id and password to view data. 
-* Secure logins are supported (through SSL 128-bit encryption) for users concerned about their account id and/or password being viewed in transmission.  This login can be accessed at by entering our sites using the https: protocol instead of the standard http: protocol. 
-* All data centers use firewalls and other extensive security measures to prevent unauthorized access to our internal networks. 
-* The physical preservation of the data is ensured by the use of RAID-enabled servers, surge protectors, battery power backups, and daily data backups.  All servers are housed in climate-controlled data centers. 
+The physical preservation of the data is ensured by the use of RAID-enabled servers, surge protectors, battery power backups, and daily data backups.  All servers are housed in climate-controlled data centers. 
+
+**Safe Harbor**  
+For Our European Union Clients/Customers: Net Applications has joined the U.S. Department of Commerce's Safe Harbor Program, and we adhere to the principles and guidelines set forth within Safe Harbor. 
+
+If you believe that Net Applications is not in compliance with Safe Harbor, contact our company by mail, e-mail or telephone:
+
+**Anonymous Information**  
+You can visit Net Applications' websites without telling us who you are and without revealing any personal information. To improve the effectiveness of our website, Net Applications measures and analyzes anonymous and aggregated statistical data from our website visitors in an effort to continuously improve our website performance and the quality of our service to you. 
+
+The information we gather may include, but is not limited to, the following: the country of origin of the visitor, the visitor's navigation path within our websites, and the when the visitor is visiting our website. Net Applications reserves the right to publish anonymous, aggregate summary information regarding our website visitors. Please note that we neither collect nor store personal information from our website visitors. 
 
 **Cookie Usage**  
 The use of cookies is limited to storing a small amount of non-identifiable information on a visitor's computer.  For visitors to our sites, the data is used only to maintain information about the user's session. 
@@ -40,6 +43,7 @@ This web site meets the guidelines of TRUSTe's Children's program, which means t
   5. NOT entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity
 
   
-**Contacting the Web SiteIf you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact support@netapplications.com **
+**Contacting the Web Site**  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
-****
+[privacy@netapplications.com](mailto:privacy@netapplications.com)
