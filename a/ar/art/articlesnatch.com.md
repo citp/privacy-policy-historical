@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the articlesnatch.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211032948id_/http%3A//www.articlesnatch.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesnatch.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621070733id_/http%3A//www.articlesnatch.com/privacy.php) for the most accurate reproduction.*
 
-# articlesnatch.com - Free Article Content for Ezines, Blogs, Newsletters and Websites
+# ArticleSnatch - Article Directory - Free Article Content for Ezines, Blogs, Newsletters and Websites
 
 ArticleSnatch Privacy Policy
 
