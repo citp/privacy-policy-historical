@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the testriffic.com privacy policy that was archived on 2006-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061103064602id_/http%3A//www.testriffic.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testriffic.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622015603id_/http%3A//www.testriffic.com/info/privacy) for the most accurate reproduction.*
 
 # Testriffic | Info | Privacy Policy
 
