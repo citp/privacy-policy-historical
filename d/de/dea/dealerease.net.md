@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealerease.net privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208070918id_/http%3A//dealerease.net/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealerease.net privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621045227id_/http%3A//www.dealerease.net/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
