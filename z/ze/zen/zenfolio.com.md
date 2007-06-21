@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zenfolio.com privacy policy that was archived on 2006-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061202133710id_/http%3A//www.zenfolio.com/zf/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenfolio.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621160041id_/http%3A//www.zenfolio.com/zf/privacy.aspx) for the most accurate reproduction.*
 
 # Zenfolio | Privacy Statement
 
