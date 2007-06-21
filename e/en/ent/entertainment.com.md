@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entertainment.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212232853id_/http%3A//www.entertainment.com/jsp/consumer/help/safety_privacy_legal/publications_privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertainment.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621130611id_/http%3A//www.entertainment.com/jsp/consumer/help/safety_privacy_legal/publications_privacy_policy.jsp) for the most accurate reproduction.*
 
 # Help - Entertainment
 
