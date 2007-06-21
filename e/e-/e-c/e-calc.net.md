@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the e-calc.net privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214031300id_/http%3A//e-calc.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-calc.net privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621114638id_/http%3A//e-calc.net/privacy.php) for the most accurate reproduction.*
 
 # Free Articles, Tutorials and Calculators - business,computers,health,family,travel
 
   
 E-Calc.net is committed to protecting your privacy. Your search through our pages is not recorded, and we do not record your activity on our pages. We do not sell information. 
 
-Your activity at E-Calc.net is private and confidential. You may voluntarily choose to provide us with your email address for the purposes of subscribing to E-Calc.nets newsletters. The information you provide E-Calc.net is held in the strictest confidence. 
+Your activity at E-Calc.net is private and confidential. You may voluntarily choose to provide us with your email address for the purposes of subscribing to E-Calc.net’s newsletters. The information you provide E-Calc.net is held in the strictest confidence. 
 
 The terms of this Privacy Policy form part of and should be read in conjunction with the Terms of Use and Disclaimer, which govern this Website. 
 
