@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portlandgeneral.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221212439id_/http%3A//www.portlandgeneral.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portlandgeneral.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621054503id_/http%3A//www.portlandgeneral.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # PGE - Privacy Policy
 
@@ -20,7 +20,7 @@ We value our customer relationships and recognize that when you provide personal
 
 
 
-[](http://www.truste.org/ivalidate.php?url=www.portlandgeneral.com "This link opens a new browser window to the TRUSTe licensee validation page.")PGE is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, nonprofit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site www.portlandgeneral.com. Because we want to demonstrate our commitment to our users’ privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe.
+[](http://www.truste.org/ivalidate.php?url=www.portlandgeneral.com&sealid=101 "This link opens a new browser window to the TRUSTe licensee validation page.")PGE is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, nonprofit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site www.portlandgeneral.com. Because we want to demonstrate our commitment to our users’ privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe.
 
 If users have questions or concerns regarding this statement, you should first contact PGE by e-mail at **[customer.service@pgn.com](https://cs.portlandgeneral.com/Secure/ContactUs.aspx "Contact customer service")**. If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the [**TRUSTe Watchdog Dispute Resolution Process**](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will serve as a liaison with the Web site to resolve users’ concerns.
 
@@ -52,9 +52,11 @@ A cookie is a small text file stored on the visitor’s hard drive. We use cooki
   * To enhance your privacy and security while doing business with PGE. If you step away from your computer or don’t sign out, you will be signed out automatically after 10 idle minutes.
   * To ensure your Web experience will not be disrupted if a load-balancing server is down or busy.
 
-Our cookies will expire 10 to 20 minutes after the visitor leaves the PGE Web site. The cookie file remains on the hard drive and will be renewed upon subsequent visits, but no information in the file will be reused, matched or associated with any other information. 
+Our cookies will expire 10 to 20 minutes after the visitor leaves the PGE Web site. The cookie file remains on the hard drive and will be renewed upon subsequent visits, but no information in the file will be reused, matched or associated with any other information. In addition, ForeSee Results, Inc., a firm hired to survey visitors on the PGE Web site, places a session-level cookie on survey respondents’ browsers to track how many pages a particular visitor has passed over. Session-level cookies are automatically deleted at the end of a session. This technique ensures that a visitor has sufficiently browsed the site in order to adequately answer the survey and prevents anyone from getting a survey more than once in a single session.
 
-In addition, PGE uses pixels, or transparent GIF files, on selected pages on our Web site. The GIF files allow us, through a third-party service, to recognize a unique cookie on your hard drive that tracks traffic patterns and enrollment success rates. No personally identifiable information, such as your name, address, telephone number or e-mail address, is gathered or shared through this process. We do not share the anonymous information gathered through this technology with third parties other than companies assisting us in improving our Web site or programs. If you use Internet Explorer version 6.0, you may be notified that this technology is in use on our site.
+The Web survey also adds a persistent cookie to track that a particular respondent has seen the PGE Web site survey, so that person won't be bothered with it again. No personal information is tracked with this persistent cookie, nor are visitors tracked once they have left the PGE Web site. 
+
+PGE also uses pixels, or transparent GIF files, on selected pages on our Web site. The GIF files allow us, through a third-party service, to recognize a unique cookie on your hard drive that tracks traffic patterns and enrollment success rates. No personally identifiable information, such as your name, address, telephone number or e-mail address, is gathered or shared through this process. We do not share the anonymous information gathered through this technology with third parties other than companies assisting us in improving our Web site or programs. If you use Internet Explorer version 6.0, you may be notified that this technology is in use on our site.
 
 Back to top
 
