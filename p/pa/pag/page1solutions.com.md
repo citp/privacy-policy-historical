@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the page1solutions.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016115710id_/http%3A//www.page1solutions.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the page1solutions.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621085811id_/http%3A//www.page1solutions.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # Page 1 Solutions - Website Design and Internet Marketing for Plastic Surgeons, Ophthalmologists, Law Firms and Cosmetic Dentists
 
@@ -28,7 +28,7 @@ You may opt out of any future contacts from us at any time. You can do the follo
 
 
 
-**If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 800-916-3886 or via[email](https://web.archive.org/web/20061016115710id_/http%3A//www.page1solutions.com/contact.html).**
+**If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 800-916-3886 or via[email](https://web.archive.org/web/20070621085811id_/http%3A//www.page1solutions.com/contact.html).**
 
 **Security**  
 We take precautions to protect your information. We do not collect sensitive information (such as credit card data) via the website.
