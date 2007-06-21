@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the joomlajunkie.com privacy policy that was archived on 2006-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061223090705id_/http%3A//www.joomlajunkie.com/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlajunkie.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621095951id_/http%3A//www.joomlajunkie.com/legal/privacy-policy.html) for the most accurate reproduction.*
 
-# Joomla Junkie - Privacy Policy
+# Joomla Junkie | Privacy Policy | Information, Used, Junkie, Joomla, Privacy
 
 Joomla Junkie, knows that your information is private and you are concerned how it is used and shared, and we appreciate your trust that we will do so carefully and sensibly. 
 
