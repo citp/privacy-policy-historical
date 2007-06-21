@@ -1,104 +1,127 @@
-> *The following text is extracted and transformed from the autocult.com.au privacy policy that was archived on 2006-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060831044512id_/http%3A//www.autocult.com.au/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autocult.com.au privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621193220id_/http%3A//about.sensis.com.au/legal/privacy.php) for the most accurate reproduction.*
 
-# AutoCult - Privacy Policy
+# Sensis - A Leading directory, advertising and information provider
 
-## Privacy
-
-As a condition to using the Service, you must understand and agree to the terms of the Privacy Policy as it may be updated from time to time. To access the Privacy Policy, go to Privacy Policy. 
-
-* * *
+Privacy Collection Statement
 
   
+Updated May 2007 
+
+Sensis Pty Ltd ("Sensis") is committed to providing you with the highest levels of customer service. This includes protecting your privacy. Sensis is bound by the Privacy Act 1988 (Cth), which sets out a number of principles concerning the protection of your personal information. 
+
+Set out below is information that Sensis is required to communicate to our customers. We recommend that you keep this information for future reference. This information does not restrict Sensis' rights under the Privacy Act in any way. 
+
+Sensis   
+Sensis, is a wholly owned subsidiary of Telstra Corporation Limited ("Telstra"), and is responsible for Yellow™, White Pages® directories, Trading Post classifieds directory and related print, voice, electronic, wireless and online products, as well as a range of advertising, media, content, location and other business services. 
+
+Your personal information   
+Personal information held by Sensis may include your name, date of birth, current and previous addresses, telephone/mobile phone number, e-mail address, bank account or credit card details, preferences for using our websites, occupation, driver's licence number and your Sensis password. We also hold details of your Sensis services, including their status, as well as certain details about your personal interests. 
+
+If you choose not to provide us with certain personal information, we may not be able to provide you with the services you require, or the level of service on which we pride ourselves. 
+
+Occasionally, you may need to provide personal information about other individuals to Sensis (eg about your authorised representatives). If so, we rely on you to inform those individuals that you are providing their personal information to Sensis and advise them that we can be contacted for further information (see 'How to contact us' below).
+
+Personal information is collected by Sensis to enable us to provide you with the products and services you have requested and to assist us improve our products and services. If you choose not to provide personal information, we may not be able to provide you with the products and services you require, or a high level of service. 
+
+How we collect personal information   
+Sensis collects personal information in a number of ways, including: 
+
+  * directly from you, for example when you provide information by phone, in marketing coupons, competitions or application forms or when you submit information to us through our websites (eg by email or [ cookies](http://about.sensis.com.au/legal/cookies.php)); 
+  * from third parties such as our related companies, carriage service providers, credit reporting agencies or your representatives; 
+  * from publicly available sources of information; 
+  * from the organisations identified below under "When we disclose your personal information"; 
+  * from our own records of how you use our services; or 
+  * when legally required to do so. 
+
+How we use your personal information   
+Your personal information may be used in order to: 
+
+  * verify your identity; 
+  * assist you to subscribe to our products and services; 
+  * provide the products and services you require, including directory services and classified advertising through a number of media; 
+  * administer and manage those products and services, including charging, billing and collecting debts; 
+  * make changes to your profile; 
+  * respond to any queries or feedback you may have; 
+  * inform you of ways the products and services provided to you could be improved; 
+  * conduct appropriate checks for credit-worthiness and for fraud; 
+  * research and develop our products and services; 
+  * gain an understanding of your information and communication needs in order for us to provide you with a better service; 
+  * maintain and develop our business systems and infrastructure, including testing and upgrading of these systems. 
 
 
-## What is the Privacy Policy about? 
 
-AutoCult.com.au ("AutoCult" or "we") takes its privacy obligations seriously and is committed to the responsible handling of personal information and protecting the privacy rights of individuals. 
+Also, your personal information is collected so Sensis can promote and market its services to you. This is to keep you informed of our products, services, special offers or products we believe you will find valuable and may continue after you cease acquiring services from us. If you do not want us to promote and market our products, services and special offers to you please call 1800 736 747. 
 
-This policy sets out how AutoCult handles your personal information. It explains the key measures that have been taken to make sure it abides by the Commonwealth Privacy Act 1998, which includes the ten National Privacy Principles. As a condition of using the site, you agree to be bound by the terms of this Policy 
+When we disclose your personal information   
+In order to deliver the services you require and for the purposes set out above, Sensis may disclose your personal information to organisations outside Sensis. Your personal information is disclosed to these organisations only in relation to Sensis and related companies providing services to you. These organisations may carry out: 
 
-* * *
+  * customer enquiries; 
+  * mailing systems; 
+  * billing and debt-recovery functions; 
+  * information technology services; 
+  * marketing, telemarketing and sales services; 
+  * market research; and 
+  * website usage analysis. 
 
-  
+Sensis takes reasonable steps to ensure that these organisations are bound by confidentiality and privacy obligations in relation to the protection of your personal information. 
 
+In addition, we may disclose your personal information to: 
 
-## Collection of information 
-
-The information AutoCult collects from you depends on how and why you access this web site. If you visit the web site to read, browse or download information, our computer system may record information about the visit such as the number of pages visited and the duration of the visit. Such information is only used for web site administration and it is not used to identify you. 
-
-AutoCult ensures that Personal Information is collected by lawful and fair means with your consent. AutoCult only collects Personal Information from users during: 
-
-**i. Registration to the web site**  
-When you register for membership on AutoCult Site, we will ask you for your email address and certain demographic information such as your name, birth date, gender and location. Provision of a valid email address is necessary for first-time registered users to activate their accounts. 
-
-**ii. Participation in certain online areas or services**  
-AutoCult also collects automotive related information about you when you voluntarily disclose it using the features of the web site, such as adding it to your garage (profile), writing reviews, updating your blog, participating in forum discussions and providing user surveys. AutoCult may hold your personal information relating to three broad categories: cars you own, cars you love and cars you hate. Other common examples are your feedback to specific poles and or surveys 
-
-* * *
-
-  
-
-
-## Use and disclosure of information
-
-AutoCult may use your personal information in order to: 
-
-  * verify your identity;
-  * respond to any queries or feedback you may have;
-  * provide, administer and manage our services;
-  * research, develop and improve our services;
-  * gain an understanding of your information and communication needs in order for us to provide you with better functionalities and services;
+  * your authorised representatives or legal advisers (when requested by you to do so); 
+  * credit-reporting and fraud-checking agencies; 
+  * credit providers (for credit related purposes such as creditworthiness, credit rating, credit provision and financing); 
+  * Telstra and our related companies; 
+  * our professional advisers, including our accountants, auditors and lawyers; 
+  * government and regulatory authorities and other organisations, as required or authorised by law; 
+  * organisations who manage our business and corporate strategies, including those involved in a transfer/sale of all or part of our assets or business (including accounts and trade receivables) and those involved in managing our corporate risk and funding functions (eg securitisation); and 
+  * other telecommunication and information service providers (eg if you obtain services from other providers, we may need to disclose your information for billing purposes). 
 
 
 
-Below are more details about how AutoCult uses your personal information and the specific circumstances under which your personal information may be disclosed. 
+Your personal information and our related companies   
+Sensis is a wholly owned subsidiary of Telstra and also operates a group of subsidiary companies which includes the Invizage Pty Ltd and Universal Publishers Pty Ltd ( **"Related Companies"** ).
 
-**i. Email Newsletters**   
-Users of AutoCult are automatically registered to receive newsletters that we offer on a periodic basis. We do this to keep you informed of news, events, special offers, services or products that we believe you will find valuable. If you want to update your email address or stop receiving a newsletter, follow the procedures to unsubscribe at the bottom of any newsletter AutoCult send you or simply visit http://www.AutoCult.com.au/profile.aspx to update your profile. 
+Sensis may share your personal information with the Related Companies to assist them with their business development and to market their own products and services to you and may continue to do so after your cease acquiring services from us. The Related Companies will use and disclose your personal information in accordance with their privacy policies. If you want to know more about the Related Companies, their areas of business and their commitment to privacy, please contact us. (see 'How to contact us' below). 
 
-**ii. Co-registration with Other Sites**  
-To provide better user experiences, AutoCult offers its users the ability to co-register with other web sites in the same network, which are 100 percent owned and managed by AutoCult. (sites will be listed in the future). Registered users of AutoCult are automatically registered as a member of the above-mentioned sites and your personal information will shared by these web sites. If you wish to cancel your membership with these sites, simply advise AutoCult administrators via email. 
+Sensis' websites  
+Sensis provides products and services via our various websites. When you visit our sites, our web servers record anonymous information such as the time, date and URL of the request. This information assists us to improve the structure of our websites and monitor their performance. 
 
-**iii. Advertisers.**  
-Users of AutoCult are given an option at registration to receive emails AutoCult send on behalf of our advertisers. AutoCult will not disclose your personal information to the advertisers without your consent. You will only receive information from AutoCult, not directly from the advertisers, if you opt to receive these emails. 
+Sensis may use '[cookies](http://about.sensis.com.au/legal/cookies.php)' on various websites. [Cookies](http://about.sensis.com.au/legal/cookies.php) are an industry standard and most major websites use them. A cookie is a small text file that our websites may place on your computer. Usually, cookies are used as a means for our websites to remember your preferences. As such, cookies are designed to improve your experience of our websites. 
 
-**iv. Surveys and User Research.**   
-AutoCult conducts email and web-delivered surveys from time to time, as well as instant polls, to gather information about our users. Taking these surveys and polls is entirely optional. You have no obligation to respond to them. We share only the aggregate results of these surveys, not personal information, with our advertisers to help them better understand our services and monitor the reach of their advertising on our service. We also use some of the personal information that you provide in these surveys to help us understand your interests and to make AutoCult site more useful to you. 
+In some cases, cookies may collect and store personal information about you. Sensis extends the same privacy protection to your personal information, whether gathered via cookies or from other sources. Most internet browsers are pre-set to accept cookies, however you can adjust your Internet browser to disable cookies or to warn you when cookies are being used. However, if you disable cookies, you may not be able to access certain areas of our websites or take advantage of the improved website experience that cookies offer. 
 
-* * *
+Sensis also collects Internet Protocol (IP) addresses. IP addresses are assigned to computers on the internet to uniquely identify them within the global network. Sensis collects and manages IP addresses as part of the service of providing internet session management and for security purposes. 
 
-  
+Acts in the course of journalism  
+Sensis commits to the Australian Press Council Privacy Standards (available at <http://www.presscouncil.org.au/>) in relation to material prepared by Sensis, its employees and its agents in the course of journalism.. Sensis publishes some material which is licensed to it by other organisations. Sensis will take reasonable steps to ensure that each organisation which supplies it with material for publication has publicly committed to standards for the purpose of section 7B(4)(b) of the Privacy Act 1988. If Sensis receives a privacy related complaint relating to any material supplied to it by another organisation, then it will formally request that organisation to deal with the privacy complaint in a fair and efficient manner. 
 
+Third party sites  
+You may click-through to third party sites from our sites in which case we recommend that you refer to the privacy statement of the sites you visit. Sensis' collection statement and privacy policy apply to Sensis' websites only and Sensis assumes no responsibility for information and content of third party sites. 
 
-## Cookies
+Help us to ensure we hold accurate information   
+Sensis takes all reasonable precautions to ensure that the personal information we collect, use and disclose is accurate, complete and up-to-date. However, the accuracy of that information depends to a large extent on the information you provide. That's why we recommend that you: 
 
-Cookies are pieces of information that a website transfers to your computer's memory for record keeping purposes. AutoCult uses cookies to recognize registered users to the site, allowing those users to speed up their future activities on the sites. Most web browsers are set to accept cookies, but you may configure your browser to reject cookies, although it may interfere with some functionality of the site. 
+  * let us know if there are any errors in your personal information; and 
+  * keep us up to date with changes to personal information such as your name or address. 
 
-* * *
+by contacting us (see 'How to contact us' below) 
 
-  
+You can access your personal information   
+You have a right to access your personal information, subject to some exceptions allowed by law. If you would like to do so, please let us know. You may be required to put your request in writing for security reasons. 
 
+Sensis reserves the right to charge a fee for searching for, and providing access to, your information. 
 
-## Access, Correction and Update of Information 
+How to contact us   
+If you have any questions in relation to privacy, please contact us between 9.00am and 5.00pm, Monday to Friday. 
 
-To access, correct or update your account or other personal information such as your city or interests, please use the "Edit profile page" at the site on which you are registered. 
+Tel: 1800 736 747  
+Please note that this number is not for general service enquiries. 
 
-If you have any other questions, comments or complaints regarding this Policy, please contact AutoCult administrator via email. 
+Post: Privacy Manager, Locked Bag 2910, Melbourne, VIC 3001
 
-* * *
+Email:[privacy@sensis.com.au](mailto:privacy@sensis.com.au).
 
-  
+Further information  
+Further information on privacy is available at the [website](http://www.privacy.gov.au/) of the Office of the Federal Privacy Commissioner. 
 
-
-## Storage and Security of Information
-
-Your personal information is stored on AutoCult computer servers. AutoCult endeavours to take all reasonable and appropriate steps to keep any information about our users secure. We protect your personal information with technical, administrative and physical safeguards to protect against loss, unauthorized access, destruction, misuse, modification and improper disclosure. Please however be aware that no computer system or information can ever be fully protected against every possible hazard. 
-
-* * *
-
-  
-
-
-## Change of Privacy Policy 
-
-The Policy is accessible from a link entitled "Privacy" at the bottom of the AutoCult home page. PSP is always responding to the feedback we get from users, and will always be developing new features, functionalities, services and new ways of working. Because of this, this Policy is subject to change from time to time. If they do, we will publish the new version and make an announcement on the site. But we will not necessarily send you specific notice of any change. Users are recommended to check the site regularly for such announcements, and your continued use of the site will signify that you agree to these changes. Any changes we make will abide by the Privacy Act, and will continue to treat your personal information with respect. 
+| 
