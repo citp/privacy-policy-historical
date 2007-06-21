@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lloydstsbbusiness.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206004013id_/http%3A//www.lloydstsb.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lloydstsbbusiness.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621104948id_/http%3A//www.lloydstsb.com/privacy.asp) for the most accurate reproduction.*
 
 # Lloyds TSB - Privacy
 
@@ -20,15 +20,10 @@ You agree that we may use and update this centrally held information:
   * for credit and credit related services and to manage your accounts,
   * to provide you with other services,
   * to identify other products and services which might be suitable for you,
-
   * to recover debts and to assist in debtor tracing,
-
   * to prevent and detect fraud,
-
   * to update our records about you,
-
   * to prevent money laundering; and,
-
   * to check your identity.
 
 
@@ -51,7 +46,6 @@ The information we hold about you is confidential. We will only disclose it outs
   * you give us your consent,
   * it is needed by certain reputable third parties involved in running accounts and/or providing services for you (for example, credit reference agencies who do credit checks for us),
   * in order to obtain professional advice,
-
   * we or others need to investigate or prevent crime (e.g. to fraud prevention agencies),
   * the law permits or requires it, or any regulatory or governmental body requests or requires it, even without your consent, or,
   * there is a duty to the public to reveal the information.
