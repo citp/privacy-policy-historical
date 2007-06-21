@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the indextools.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205215250id_/http%3A//indextools.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indextools.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621100344id_/http%3A//www.indextools.com/privacy.html) for the most accurate reproduction.*
 
 # IndexTools: Privacy Policy
 
-[Home](https://web.archive.org/web/20061205215250id_/http%3A//indextools.com/index.html) > Legal Information > Privacy Policy
+[Home](https://web.archive.org/web/20070621100344id_/http%3A//www.indextools.com/index.html) > Legal Information > Privacy Policy
 
 Privacy Policy
 
