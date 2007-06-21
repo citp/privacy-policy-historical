@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heartinternet.com privacy policy that was archived on 2005-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051204152936id_/http%3A//www.heartinternet.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartinternet.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621115715id_/http%3A//www.heartinternet.co.uk/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -16,18 +16,18 @@
 
 7\. If you have any questions about privacy please contact us at [sales@heartinternet.co.uk](mailto:sales@heartinternet.co.uk).
 
-[ ](https://web.archive.org/web/20051204152936id_/http%3A//www.heartinternet.com/prices-d.shtml)
+[ ](https://web.archive.org/web/20070621115715id_/http%3A//www.heartinternet.co.uk/domainprivacy-d.shtml)
 
-The UKs lowest price domains - only from Heart Internet.
+Protect your online identity, hide your details in the WHOIS domain name database.
 
-[ ](https://web.archive.org/web/20051204152936id_/http%3A//www.heartinternet.com/prices-d.shtml)
+[ ](https://web.archive.org/web/20070621115715id_/http%3A//www.heartinternet.co.uk/order.shtml)
 
-Take advantage of the lowest price in the UK and you only have to register for ONE year.
+Always the best prices for hosting and domains.
 
-[ ](https://web.archive.org/web/20051204152936id_/http%3A//www.heartinternet.com/reseller-h.shtml)
+[ ](https://web.archive.org/web/20070621115715id_/http%3A//www.heartinternet.co.uk/virus-h.shtml)
 
-The UKs fastest growing and most advanced reseller package.
+Ensure your email is safe and secure with our high end scanning technology.
 
-[ ](https://web.archive.org/web/20051204152936id_/http%3A//www.heartinternet.com/technology-h.shtml)
+[ ](https://web.archive.org/web/20070621115715id_/http%3A//www.heartinternet.co.uk/order.shtml)
 
-We use only the best hardware and network equipment - find out more.
+All accounts activated instantly online!
