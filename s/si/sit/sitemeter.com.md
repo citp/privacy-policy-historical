@@ -1,28 +1,75 @@
-> *The following text is extracted and transformed from the sitemeter.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205213630id_/http%3A//sitemeter.com/%3Fa%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitemeter.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621153826id_/http%3A//sitemeter.com/%3Fa%3Dprivacy) for the most accurate reproduction.*
 
 # Site Meter - Counter and Statistics Tracker
 
-### Privacy Statement for _Site Meter_
+**General**
 
-_Site Meter_ has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website. 
+Site Meter ("Site Meter", "we" or "us") is committed to your online privacy and protecting any and all personally identifiable information ([1](https://web.archive.org/?a=privacy#1)) ("Personal Information") about you that we may collect and store as a result of our business activities with you. This Privacy Policy (this "Policy") outlines the type of information we may collect, how we might use such information, and the choices you have regarding the Personal Information we may possess about you. 
 
-**Your IP address**  
-We collect aggregate information site-wide and from sites using the _Site Meter_ service, including anonymous site statistics. We also log domain names and/or IP addresses. _Site Meter_ does not link IP addresses to anything personally identifiable. This means that a user's session on _Site Meter_ or sites using the _Site Meter_ service will be tracked, but the user will be anonymous. Domain names and/or IP addresses are used to gather broad demographic information. 
+We encourage you to read this Policy carefully. If you have any questions about this Policy, our use of your Personal Information, or your dealings with this website, please feel free to contact us by sending an email to [webmaster@sitemeter.com](mailto:webmaster@sitemeter.com). 
 
-**Cookies**  
-We also use cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site. We also use cookies to track visits to our site, our clients' sites and to accumulate and report statistical information on web site usage. We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
+We may update this Policy from time to time in our sole discretion to reflect changes in our use of your Personal Information and/or applicable law. Any changes made to this Policy will be reflected in an updated policy (denoted by an updated date above) posted on our website at [www.sitemeter.com.](https://web.archive.org/)
 
-**Contact and Member Information**  
-Our site's registration form requires users to give us contact information (like an email address). This information is used to contact the member when necessary. It is _Site Meter_ 's policy to respect the privacy of its members. _Site Meter_ will not monitor, edit, or disclose any personal information about you or your account without your prior permission unless _Site Meter_ has a good faith belief the action is necessary to conform to legal requirements; protect and defend the rights or property of _Site Meter_ ; or act to protect the interests of its members or others. _Site Meter_ does provide certain user information in aggregate form to third parties, including its advertisers, for demographics. 
+**Sitemeter Business Customer Privacy**
 
-**Other Sites**  
-This site contains links to other sites. _Site Meter_ is not responsible for the privacy practices or the content of such web sites.
+_Collection of Personal Information_
 
-**Security**  
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
+Customers who use the products and services available through our website (collectively, the "Services") do so voluntarily. In order to use our Services, a customer is required to create an account by registering and providing us with basic contact, billing and website information, including, but not limited to, such customer's name, email address, credit card information and website URL. By providing us with Personal Information, customers are consenting to the collection, use and disclosure of such Personal Information in accordance with the terms and conditions set forth in this Policy. 
 
-**Corrections and Updates**  
-This site gives users the ability to modify member information previously provided. Visit <http://www.sitemeter.com/> to change this information.
+_How We Use Personal Information_
 
-**Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [here](https://web.archive.org/web/20061205213630id_/http%3A//sitemeter.com/?a=contact). 
+Any Personal Information collected and stored by us is used strictly for billing purposes, contacting our customers, evaluating a prospective customer's website content, and for such other purposes as are described in this Policy. Site Meter does not share any customer Personal Information with any third party other than those business partners which are directly involved in managing our day to day business operations, such as, without limitation, our billing and payment processes. 
+
+Site Meter reserves the right to disclose your Personal Information without notice or consent as it deems necessary (a) to conform to applicable law; (b) when we believe that disclosure is necessary to protect our rights and property; (c) to protect the safety of our users, us, or other third parties; (d) to comply with any judicial proceeding, court order, or legal process served on us; and/or (e) pursuant to an acquisition, merger, sale of assets or other business transfer. 
+
+_Direct Email_
+
+Site Meter customers may voluntarily elect to receive their websites' statistical information via email. Site Meter may from time to time include important news, information, or offers within these emails. However, you may choose to opt-out of receiving any such emails, or change the frequency with which you receive such e-mails, at any time by logging on to your personal account page and changing the applicable preferences contained therein. 
+
+_Log Files_
+
+By accessing our website, our internet servers automatically record information that your internet browser sends when you visit a website. These logs may contain information such as your internet protocol (IP) address, browser version, domain name, language, date and time, the referring website and information in your cookie files. 
+
+_Third Party Advertisements_
+
+The advertisements appearing on our website from time to time are provided by a variety of our third party advertising partners. We only share website usage information about our users with reputable third party advertisers for the sole purpose of better targeting our website banner advertisements. 
+
+_Site Meter Website Cookies_
+
+To allow our customers the convenience of not having to remember their login information when accessing our website, Site Meter may place a temporary or persistent "cookie" on your computer's hard drive. These cookies are simple, harmless text files that remember the internet browser you use to access the internet. However, if you do no want to receive cookies, you may adjust the settings in your internet browser to reject cookies or to alert you when a cookie is placed on your computer([2](https://web.archive.org/?a=privacy#2)). We do not collect or store any Personal Information via cookies. 
+
+**General Internet User Privacy**
+
+In order to gather and aggregate statistical data for our customers, we may from time to time place persistent or temporary cookies on a visitor's hard drive when visiting a customer's website. These cookies are not capable of tracking, retaining, or storing any Personal Information, and they are used for no other reason than to gather the same general internet information that is available to all internet service providers, search engines, and websites. Examples of this information include, without limitation, a visitor's general location based on IP address, information from the visitor's browser such as browser type, type of operating system, keywords used while searching, websites visited, monitor resolution settings. 
+
+Site Meter may from time to time also authorize and facilitate the use of cookies from trusted third party business partners to gather and aggregate additional, anonymous, and non-Personal Information data from general internet visitors for the purpose of providing our customers with additional information about their viewing audience. 
+
+Site Meter does not gather, retain or store any data from these third party partners. Site Meter has also chosen to partner only with businesses that have shown a strong commitment to online privacy and have represented and warranted to Site Meter that any and all data collected on our behalf is non-Personal Information. 
+
+_Site Meter does not condone, support, or participate in any activities that could potentially gather, retrieve or store any Personal Information about or from internet users._
+
+**Children's Online Privacy**
+
+Site Meter does not do business with any person under the age of 18 and anyone using our Services must be at least 18 years of age. If we become aware that a person under the age of 18 has provided us with Personal Information, we will discontinue the use of such information and remove it from our active systems. To our knowledge, we are in full compliance with all children's online privacy guidelines and practices. 
+
+**Data Security**
+
+The security of your Personal Information is important to us. When you enter sensitive information (such as credit card information) on our registration forms, we encrypt that information using secure socket layer technology (SSL). 
+
+We follow generally accepted industry standards to protect the Personal Information collected by us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security. 
+
+Your Personal Information may be stored on computers systems maintained by an agent or service provider of Site Meter, each of which will be bound by an agreement to protect the confidentiality of your Personal Information. Our computer systems are located in the United States of America, but the computer systems of our service providers may be located in another country. Your submission of Personal Information constitutes your consent to the transfer and storage of your information across international borders. 
+
+**Links to Other Websites**
+
+Site Meter's website contains links to other sites that are not owned or controlled by Site Meter. Please be aware that we are not responsible for the privacy practices of such third party websites and this Policy does not govern such other websites or your use of them. This Policy applies only to information collected by our website. 
+
+We encourage you to be aware when you leave our site and to read the privacy policies of each and every website that collects personally identifiable information. 
+
+(1) For a comprehensive list of definitions and what constitutes "personally identifiable information" please visit <http://www.w3.org/TR/1998/WD-P3P10-harmonization-19980330>
+
+(2) For more information Regarding Cookies please see - <http://www.bbbonline.org/UnderstandingPrivacy/toolbox/cookies.asp>
+
+Additional Information Regarding Online Privacy Can Be Found At: <http://www.privacyalliance.org/>  
+[http://www.bbbonline.org](http://www.bbbonline.org/)  
+<http://www.truste.org/>
