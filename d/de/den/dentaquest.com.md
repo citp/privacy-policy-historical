@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dentaquest.com privacy policy that was archived on 2006-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061108123356id_/http%3A//dentaquest.com/footer/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dentaquest.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621225244id_/http%3A//dentaquest.com/footer/privacy.asp) for the most accurate reproduction.*
 
 # DentaQuest - Privacy Statement
 
@@ -19,7 +19,7 @@ We may also use your information to:
 
 All other uses and disclosures, not previously described, may only be made with your signed authorization. You may revoke your authorization at any time.
 
-[Please click here for the authorization form.](https://web.archive.org/web/20061108123356id_/http%3A//dentaquest.com/pdfs/AuthorizationPHI.pdf)
+[Please click here for the authorization form.](https://web.archive.org/web/20070621225244id_/http%3A//dentaquest.com/pdfs/AuthorizationPHI.pdf)
 
 Our Responsibilities  
 DentaQuest is required by law to:
@@ -46,7 +46,7 @@ Boston, MA 02114
 
 All complaints will be investigated and you will not suffer retaliation for filing a complaint. You may also file a complaint regarding health information with the Secretary of Health and Human Services in Washington, D.C.
 
-[Please click here for the PDF version of our Privacy Policy.](https://web.archive.org/web/20061108123356id_/http%3A//dentaquest.com/pdfs/DQV_Privacy_Layout_08-03.pdf)
+[Please click here for the PDF version of our Privacy Policy.](https://web.archive.org/web/20070621225244id_/http%3A//dentaquest.com/pdfs/DQV_Privacy_Layout_08-03.pdf)
 
 |   
 ---|---|---|---
