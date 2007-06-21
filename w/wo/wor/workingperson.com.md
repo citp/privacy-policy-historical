@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workingperson.com privacy policy that was archived on 2006-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061130135809id_/http%3A//workingperson.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workingperson.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621192628id_/http%3A//workingperson.com/privacy.php) for the most accurate reproduction.*
 
 # Find Carhartt Clothing, Work Boots, Dickies Clothing and Work Shoes at The Working Person's Store!
 
