@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rent.com.au privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219071027id_/http%3A//rent.com.au/about_rent5.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rent.com.au privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621095740id_/http%3A//www.rent.com.au/about_rent5.asp) for the most accurate reproduction.*
 
-# Rent.com.au : List & Search for residential, share and holiday rental accommodation Australia Wide
+# Search rental properties apartments, houses, units, holiday accommodation, shared property - rent.com.au
 
 Privacy Policy for Rent.com.au Pty Ltd, ACN 091 233 680 and its related entities, 'Rent.com.au' 
 
