@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the revenueloop.com privacy policy that was archived on 2006-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060901022434id_/http%3A//revenueloop.com/index-8.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revenueloop.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621153213id_/http%3A//revenueloop.com/Privacy.htm) for the most accurate reproduction.*
 
-# RevenueLoop Affiliate Network
+# Revenueloop.com
 
-Privacy
-
-This notice explains RevenueLoop’s online information practices and the choices you can make about the way we collect and use your personal information. You may access our privacy policy from our home page. It is also accessible any time we request your personal information.
+Privacy **  
+** This notice explains RevenueLoop’s online information practices and the choices you can make about the way we collect and use your personal information. You may access our privacy policy from our home page. It is also accessible any time we request your personal information. 
 
 Information We Collect  
 This notice applies to all information you submit on the RevenueLoop.com website. On some pages, you can register with RevenueLoop, make requests, and sign up to receive materials. The types of personal information we collect on these pages include: name, address, email address, and phone number.
@@ -20,3 +19,8 @@ Protecting the privacy of childern is especially important. For that reason, we 
 
 How to Contact Us  
 Should you have other questions or concerns about our privacy policy, please email us at privacy@RevenueLoop.com.
+
+Disclaimer  
+RevenueLoop does not warrant the accuracy or completeness of any information contained on its website and is not responsible for mistakes or omissions. By selecting the enter button to request information, you agree to hold RevenueLoop harmless from any damages incurred as a result of any act or omission by any agent, broker, or service provider to whom you are connected or as a result of your use of any of the information contained on this website. 
+
+*The Privacy Notice posted on this site was updated on or about November 16, 2006. 
