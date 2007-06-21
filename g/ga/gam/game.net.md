@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the game.net privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206001603id_/http%3A//www.game.co.uk/help/firsttime.aspx%23privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the game.net privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621112726id_/http%3A//www.game.co.uk/help/firsttime.aspx%23privacystatement) for the most accurate reproduction.*
 
 # GAME: First Time
 
-###  FIRST TIME HELP|   
+###  First Time Help|   
 ---|---  
   
-## GAME.CO.UK PRIVACY STATEMENT
+## GAME.co.uk Privacy Statement
 
 At GAME we are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998). Our data protection registration is Z8299010.
 
@@ -27,7 +27,7 @@ Your order history and profile
 
 We will never collect sensitive information about you without your explicit consent.
 
-The information we hold will be accurate and up to date. You can check the information that we hold about you by contacting our [Customer Services](https://web.archive.org/web/20061206001603id_/http%3A//www.game.co.uk/help/help/CustService.aspx) department.
+The information we hold will be accurate and up to date. You can check the information that we hold about you by contacting our [Customer Services](https://web.archive.org/web/20070621112726id_/http%3A//www.game.co.uk/help/help/CustService.aspx) department.
 
 If you find any inaccuracies we will delete or correct them.
 
@@ -41,10 +41,10 @@ We currently partner with Mad4Games Ltd in order to supply mobile games, they ar
 
 We may use technology to track the patterns of behaviour of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings. Should you wish to browse anonymously please contact us and request a link that we can send you to exclude you from web tracking. 
 
-If you have any questions/ comments about privacy, you should contact our [Customer Services](https://web.archive.org/web/20061206001603id_/http%3A//www.game.co.uk/help/help/CustService.aspx) department. If you contact us for details of existing information that we hold about you it is important that you quote your original email address, as used at the time you first contacted us. We may be unable to trace your details without this.  
+If you have any questions/ comments about privacy, you should contact our [Customer Services](https://web.archive.org/web/20070621112726id_/http%3A//www.game.co.uk/help/help/CustService.aspx) department. If you contact us for details of existing information that we hold about you it is important that you quote your original email address, as used at the time you first contacted us. We may be unable to trace your details without this.  
 
 
-## SECURE SHOPPING
+## Secure Shopping
 
 You don't have to worry about the safety of your credit card information when shopping at GAME.CO.UK. We use encryption technology to ensure that any information you transmit during the ordering process is secure. Our servers are secured to protect all personal information including credit card numbers, your address and any products you may order. GAME.CO.UK has been certified as an Authentic SiteSeal Site and displays the SiteSeal logo to prove it. 
 
@@ -62,16 +62,16 @@ TrustUK is the body set up to approve online codes of practice. The Consumers As
 The imrg Code sets out basic standards for e-retailing. It is a manifestation of the imrg members' collective effort towards establishing high industry standards that provides a meaningful point of reference and workable guidelines for e-commerce merchants and facilitators. The imrg Code is also the benchmark used by imrg and its members to facilitate self-regulation of the e-retail market: imrg reserves the right to measure the service of any e-retailer against the imrg Code, not just those who voluntarily comply with it, and to take appropriate action in order to protect the industry.
 
 ##   
-SEARCH TIPS
+Search Tips
 
 To perform a search on GAME.CO.UK, use the search box on the top left of every page. When typing a name to search for, be general. For example, if you want to find the game Quake III, just type in "Quake". This would find all of the games that contain Quake in the title, among them Quake III. 
 
 If you'd like to browse for a certain type of game on your favourite platform, but don't have a specific title in mind - click here to use our [advanced search](http://www.game.co.uk/search.aspx).
 
 ##   
-CONTACTING US
+Contacting Us
 
-| **METHOD** |  | **CONTACT DETAILS** |   
+| **Method** |  | **Contact Details** |   
 ---|---|---|---|---  
 |  |  |  |   
 | 
