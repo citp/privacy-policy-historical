@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scholarshipexperts.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206011157id_/http%3A//www.scholarshipexperts.com/privacy/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarshipexperts.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621143118id_/http%3A//www.scholarshipexperts.com/privacy/privacy.jsp) for the most accurate reproduction.*
 
 # Scholarships
 
@@ -6,7 +6,6 @@
   
 **Use of Personal Data**
 
-Scholarship Experts is a service provided by Goal Financial, LLC.   
 Scholarship Experts knows that privacy matters, especially in this information age and the Internet era. We have, therefore, created a website and a scholarship search service with a strict privacy policy in order to maintain your confidentiality and keep your trust. Read on to learn more about the types of information we collect, how the information is collected, how it is used, and how users can restrict its use or disclosure.   
   
 **Information Collection and Use**
