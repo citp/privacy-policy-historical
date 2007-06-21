@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the top-game.net privacy policy that was archived on 2006-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060719043915id_/http%3A//www.top-game.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top-game.net privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622010351id_/http%3A//www.top-game.net/privacy.html) for the most accurate reproduction.*
 
-# Flash Games. Only the best flash games at Top-Game.net!
+# Only the Best flash games!
 
 #### Information Collection and Use
 
@@ -12,7 +12,7 @@ We will share aggregated demographic information with our partners and advertise
 
 #### Log Files
 
-We use IP addresses to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
+We use IP addresses to analyze trends, administer the site, track user�s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
 
 #### Links
 
@@ -20,7 +20,7 @@ This web site contains links to other sites. Please be aware that we [Top Games]
 
 #### Tell-A-Friend
 
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. Flash Games will automatically send the friend a one-time email inviting them to visit the site. Flash Games stores this information for the sole purpose of sending this one-time email. The friend may contact Flash Games at INSERT URL to request the removal of this information from their database. 
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend�s name and email address. Flash Games will automatically send the friend a one-time email inviting them to visit the site. Flash Games stores this information for the sole purpose of sending this one-time email. The friend may contact Flash Games at INSERT URL to request the removal of this information from their database. 
 
 #### Newsletter 
 
