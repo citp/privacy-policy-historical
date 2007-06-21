@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the relevantknowledge.com privacy policy that was archived on 2006-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061221104010id_/http%3A//www.relevantknowledge.com/RKPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relevantknowledge.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621063155id_/http%3A//www.relevantknowledge.com/RKPrivacy.aspx) for the most accurate reproduction.*
 
 # RelevantKnowledge
 
-Our online market research community has millions of participants who are interested in voicing their opinions through surveys and allowing their passively-tracked online browsing and purchasing behavior to be used as part of anonymous market research reports that help shape the future of the Internet. The information that you contribute is used by comScore Networks, Inc., a U.S.-based market research company that is a nationally-recognized authority on Internet and general economic trends, whose data are routinely cited by major media outlets such as the New York Times, the Wall Street Journal, CNN, and CNBC, and is extensively used by the largest Internet services companies and scores of Fortune 500 companies.
+Our online market research community has millions of participants who are interested in voicing their opinions through surveys and allowing their passively-tracked online browsing and purchasing behavior to be used as part of anonymous market research reports that help shape the future of the Internet. The information that you contribute is used by comScore Networks, Inc., a U.S.-based market research company that is a nationally-recognized authority on Internet and general economic trends, whose data are routinely cited by major media outlets such as the New York Times, the Wall Street Journal, and CNBC, and is extensively used by the largest Internet services companies and scores of Fortune 500 companies.
 
 Be assured that protection of your privacy is one of our top priorities. Our privacy procedures are regularly audited and certified by the nationally-recognized firm, Ernst & Young, who assure that we conform with the international trust services and privacy principles developed and managed by the American Institute of Certified Public Accountants. While participation in our program will allow us to send you periodic surveys and track information about your online activities such as where you surf and the transactions that you make, 
 
@@ -227,7 +227,7 @@ _ENTIRE AGREEMENT:_
 
 This Agreement constitutes the entire agreement between sponsor and you with respect to the subject matter contained in the Agreement.
 
-This Agreement is effective as of November 29, 2006.
+This Agreement is effective as of March 6, 2007.
 
 Whom can I contact if I have additional questions? 
 
@@ -246,4 +246,4 @@ For any support issues, please contact: support@tmrginc.com.
 
 Please be aware that through our Webtrust certification, you are entitled to and are covered by binding arbitration by the American Arbitration Association. Should you feel that certain privacy issues have not been handled to your satisfaction by our privacy office, your privacy disputes may be directed to and arbitrated according to the Association's arbitration rules. You can reach the Association at 335 Madison Avenue, New York, New York 10017 or by calling (212) 716-5800, and access information about the Association's arbitration rules at [www.adr.org](http://www.adr.org/).
 
-LP 0645
+LP 0710
