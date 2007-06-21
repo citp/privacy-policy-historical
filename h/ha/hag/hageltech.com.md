@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hageltech.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207020000id_/http%3A//www.hageltech.com/root/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hageltech.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621220215id_/http%3A//www.hageltech.com/root/privacy.php) for the most accurate reproduction.*
 
 # Hagel Technlologies Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Hagel Technologies will never sell, rent, or share your personal information without your consent unless compelled by law or court order to do so. 
 
-Hagel Technologies has created this Privacy Policy Statement in order to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for our web sites: [www.hageltech.com](http://www.hageltech.com/root/main.php?SID=51cc4bea3f32929f2be2fa3135b6fb7b), [www.tweakmaster.com](http://www.tweakmaster.com/main.php?SID=51cc4bea3f32929f2be2fa3135b6fb7b), [www.dumeter.com](http://www.dumeter.com/main.php?SID=51cc4bea3f32929f2be2fa3135b6fb7b) and [www.tradetrakker.com](http://www.tradetrakker.com/main.php?SID=51cc4bea3f32929f2be2fa3135b6fb7b).
+Hagel Technologies has created this Privacy Policy Statement in order to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for our web sites: [www.hageltech.com](http://www.hageltech.com/root/main.php?SID=11abfabf249024311840a10ef150e87f), [www.tweakmaster.com](http://www.tweakmaster.com/main.php?SID=11abfabf249024311840a10ef150e87f), [www.dumeter.com](http://www.dumeter.com/main.php?SID=11abfabf249024311840a10ef150e87f) and [www.tradetrakker.com](http://www.tradetrakker.com/main.php?SID=11abfabf249024311840a10ef150e87f).
 
 ### What we gather from visitors to our site
 
