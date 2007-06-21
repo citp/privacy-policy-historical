@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designload.net privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205234544id_/http%3A//www.designload.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designload.net privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621092604id_/http%3A//www.designload.net/privacy.html) for the most accurate reproduction.*
 
 # DesignLoad - Flash Templates, Website Templates, Web Templates
 
