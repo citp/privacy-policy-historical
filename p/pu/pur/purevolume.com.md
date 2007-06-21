@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purevolume.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205211749id_/http%3A//www.purevolume.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purevolume.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622010358id_/http%3A//www.purevolume.com/privacy_policy) for the most accurate reproduction.*
 
 # purevolume™ | We're Listening To You
 
