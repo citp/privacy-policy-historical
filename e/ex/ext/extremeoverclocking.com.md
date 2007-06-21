@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extremeoverclocking.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205191834id_/http%3A//www.extremeoverclocking.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremeoverclocking.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621160411id_/http%3A//www.extremeoverclocking.com/privacy.php) for the most accurate reproduction.*
 
 # EXTREME Overclocking - Tweaking PC Hardware To The Max
 
