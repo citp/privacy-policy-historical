@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the questia.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230190514id_/http%3A//www.questia.com/aboutQuestia/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the questia.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621095642id_/http%3A//www.questia.com/aboutQuestia/privacyPolicy.html) for the most accurate reproduction.*
 
 # Questia Privacy Policy
 
@@ -29,11 +29,11 @@ Specific questions or comments regarding this policy should be directed to Quest
 
 **1.   Information Collected**
 
-Our primary goal in collecting personal information is to enable us to provide you with an efficient, customized experience while you use the Questia service. To fully use our service, you will need to register using our [Online Registration Form](https://web.archive.org/subscribe) where you will be required to provide certain personal information. For a complete list of the information we currently may request, see our [ Personal Information Appendix](https://web.archive.org/web/20061230190514id_/http%3A//www.questia.com/aboutQuestia/PII.html) page.
+Our primary goal in collecting personal information is to enable us to provide you with an efficient, customized experience while you use the Questia service. To fully use our service, you will need to register using our [Online Registration Form](https://web.archive.org/subscribe) where you will be required to provide certain personal information. For a complete list of the information we currently may request, see our [ Personal Information Appendix](https://web.archive.org/web/20070621095642id_/http%3A//www.questia.com/aboutQuestia/PII.html) page.
 
 Once you register, you can use your [My Account](https://web.archive.org/SelfCareMediator.qst?action=displaySelfCare) page to review and change the information that you submitted during registration at any time.
 
-Upon request we will remove your personal information from our operational databases (unless your account is in dispute, in which case it will be kept until the dispute is resolved). In order to remove information, please [Contact Us](https://web.archive.org/aboutQuestia/Contact.jsp). Technical constraints and the fact that we back up our system may prevent the total elimination of all of your personally identifying information.
+Upon request we will remove your personal information from our operational databases (unless your account is in dispute, in which case it will be kept until the dispute is resolved). In order to remove information, please [Contact Us](https://web.archive.org/support/CustomerSupport.jsp). Technical constraints and the fact that we back up our system may prevent the total elimination of all of your personally identifying information.
 
 Occasionally we solicit additional information from you through the use of optional questionnaires. None of this additional information is required for your continued use of our service.
 
@@ -57,7 +57,7 @@ While it is not our practice to monitor or review material you store on our site
 
 _Advertisers._ We aggregate information and disclose this information to advertisers and use it for other marketing and promotional purposes. We do not disclose to third parties any information that could reasonably be used to personally identify or contact you.
 
-_Co-Branded Service Providers._ Questia offers its users and subscribers the opportunity to use a number of third-party services from our site (e.g., moderated chat). If you choose to use these optional services, we will provide only so much of your personal information as is necessary to affect your use of the Co-Branded Service Providers� services. Because we do not control the privacy practices of these third parties, you should evaluate their practices before deciding to use their services.
+_Co-Branded Service Providers._ Questia offers its users and subscribers the opportunity to use a number of third-party services from our site (e.g., moderated chat). If you choose to use these optional services, we will provide only so much of your personal information as is necessary to affect your use of the Co-Branded Service Providers' services. Because we do not control the privacy practices of these third parties, you should evaluate their practices before deciding to use their services.
 
 _Suppliers and Other Service Providers._ We may use third-party Suppliers and Service Providers to facilitate some of our services. In some instances, the Service Provider may collect information directly from you (e.g. we ask a Service Provider to conduct a survey for us). In these cases, all information disclosures you make will be strictly optional, and we contractually restrict how they may access, use and disclose your information. We do not permit the sale of your information to third parties by these Suppliers and Other Service Providers.
 
