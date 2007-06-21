@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcusa.org privacy policy that was archived on 2006-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061227154057id_/https%3A//www.pcusa.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcusa.org privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621183156id_/http%3A//www.pcusa.org/privacy.htm) for the most accurate reproduction.*
 
 # PC(USA) - Privacy Policy
 
