@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the invitationconsultants.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207020840id_/http%3A//invitationconsultants.com/cs-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invitationconsultants.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621061641id_/http%3A//www.invitationconsultants.com/cs-privacy.aspx) for the most accurate reproduction.*
 
 # Help Center at InvitationConsultants.com - Security & Privacy
-
-| 
 
 * * *
 
@@ -18,7 +16,7 @@ Click here to verify: 
 * * *
 
 **  
-Privacy Notice: **_Last updated: 5/4/2006_ | [](http://www.truste.org/ivalidate.php?url=www.invitationconsultants.com&sealid=101) | 
+Privacy Notice: **_Last updated: 6/19/2007_ | [](http://www.truste.org/ivalidate.php?url=www.invitationconsultants.com&sealid=101) | 
 
 Invitation Consultants, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.invitationconsultants.com.   
   
@@ -26,7 +24,7 @@ Invitation Consultants, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe
   
 Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first contact Customer Service at [customerservice@invitationconsultants.com](mailto:customerservice@invitationconsultants.com).  
   
-If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe - [www.truste.org/consumers/watchdog_complaint.php](https://www.truste.org/pvr.php?page=complaint) TRUSTe will then serve as a liaison with the Web site to resolve your concerns. Thanks for shopping at www.invitationconsultants.com. We've done our best to ensure the security and privacy of your transactions with us. Be confident that your credit card information and other personal data will be regarded with the highest standards of confidentiality, safety, and security.  
+If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe - [http://www.truste.org/consumers/watchdog_complaint.php](https://www.truste.org/pvr.php?page=complaint) TRUSTe will then serve as a liaison with the Web site to resolve your concerns. Thanks for shopping at www.invitationconsultants.com. We've done our best to ensure the security and privacy of your transactions with us. Be confident that your credit card information and other personal data will be regarded with the highest standards of confidentiality, safety, and security.  
   
   
 (back to top)
@@ -80,13 +78,23 @@ Based upon the personally identifiable information you provide us, we will send 
 
  _Service Providers_
 
-****We use Microsoft bCentral to provide you with e-mails about special offers and promotions. When you place an order with us, we will share your e-mail address as necessary for them to provide that service.
+****We use iContact to provide you with e-mails about special offers and promotions. When you place an order with us, we will share your e-mail address as necessary for them to provide that service.
 
-They are prohibited from using your personally identifiable information for any other purpose 
+They are prohibited from using your personally identifiable information for any other purpose. 
 
-_Legal Disclaimer_
+_Live Chat_
 
-****We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site
+****We use a third party service provider to provide for chat service. If you use a bulletin board or chat room on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
+
+ _BLOG_
+
+****If you post a comment to our blog, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
+
+ _Legal Disclaimer_
+
+****We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.
+
+We do not share, sell, rent or trade personally identifiable information with third parties for our promotional purposes. 
 
 (back to top)
 
@@ -102,8 +110,8 @@ In addition you can update or correct your information by emailing us at the sam
 * * *
 
   
-**Log Files** A cookie is a small text file that is stored on a userâ€™s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.   
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track usersâ€™ movements around the site and to gather demographic information about our user base as a whole.
+**Log Files** A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.   
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole.
 
 We do not link this automatically-collected data to personally identifiable information, except to prevent fraud or abuse of our systems. 
 
@@ -115,8 +123,8 @@ We do not link this automatically-collected data to personally identifiable info
 
   
 **Cookies** As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, and date/time stamp.   
-We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for   
-an extended period of time. We use persistent cookies set by one of our service providers only to measure and track the effectiveness of certain marketing campaigns.
+We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time.   
+We use persistent cookies set by one of our service providers only to measure and track the effectiveness of certain marketing campaigns.
 
 If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as your shopping cart, will be limited. 
 
@@ -167,4 +175,8 @@ In the event Invitation Consultants, Inc. goes through a business transition, su
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. (back to top)
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
+
+**Invitation Consultants, Inc,  ** |  8176 Woodland Center Blvd.  |  Tampa, FL 33614 
+
+(back to top)
