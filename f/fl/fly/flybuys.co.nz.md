@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flybuys.co.nz privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207095144id_/https%3A//www.flybuys.co.nz/members/PrivacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flybuys.co.nz privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622001219id_/http%3A//www.flybuys.co.nz/members/PrivacyStatement.asp) for the most accurate reproduction.*
 
 # Fly Buys New Zealand
 
