@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the wwtdd.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206113820id_/http%3A//wwtdd.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wwtdd.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622002718id_/http%3A//fatpenguinmedia.com/privacy.phtml) for the most accurate reproduction.*
 
-# Privacy - What Would Tyler Durden Do
+# Fat Penguin Media
 
-## Privacy
-
-[](http://fatpenguinmedia.com/)WWTDD.com and Fat Penguin Media are committed to protecting the privacy of Internet users. The following statement details our ongoing support for the responsible collection and management of Internet user information. 
+Fat Penguin Media is committed to protecting the privacy of Internet users. The following statement details our ongoing support for the responsible collection and management of Internet user information.
 
 **Internet User Information**
 
-When we deliver an ad to you, we do not collect any personal identifiable information about you, such as your name, address, telephone number or email address. Fat Penguin Media does, like other Internet advertisers, collect certain information which can not personally identify you. This category of information is generally referred to as non-personally-identifiable information.  Which includes information like the server or internet service provider you use and the type of browser you use. There are some cases where you, the Internet user, may voluntarily provide personal information in response to a particular ad (a survey or purchase order form). In such cases the third party advertising with Fat Penguin Media may collect this information on behalf of an advertiser. The advertiser in turn uses this information to reply to your request. 
+When we deliver an ad to you, we do not collect any personal identifiable information about you, such as your name, address, telephone number or email address.
 
-Furthermore, Fat Penguin Media does not divulge any information regarding the users who use email for correspondence with the webmaster or any representative of Fat Penguin Media. 
+Fat Penguin Media does, like other Internet advertisers, collect certain information which can not personally identify you. This category of information is generally referred to as non-personally-identifiable information.  Which includes information like the server or internet service provider you use and the type of browser you use. There are some cases where you, the Internet user, may voluntarily provide personal information in response to a particular ad (a survey or purchase order form). In such cases the third party advertising with Fat Penguin Media may collect this information on behalf of an advertiser. The advertiser in turn uses this information to reply to your request.
 
-Fat Penguin Media never sells any information, such as email addresses, to any third parties. 
+Furthermore, Fat Penguin Media does not divulge any information regarding the users who use email for correspondence with the webmaster or any representative of Fat Penguin Media.
+
+Fat Penguin Media never sells any information, such as email addresses, to any third parties.
 
 **Use Common Sense in All Your Online Activities**
 
@@ -20,8 +20,8 @@ Even the best policy can't protect your online privacy and security in all circu
 
 Be aware that e-mail is an inherently insecure form of communication. Remember that third parties are sometimes able to illegally intercept your unencrypted messages, including online greetings. Anytime you visit a chat room or post a message to an on-line bulletin board, your e-mail address can be accessed by advertisers looking to compile lists for unsolicited commercial e-mail (also known as spam). Be sure that you only disclose your e-mail address in circumstances in which it is safe to do so.
 
-Beware of scams in which persons unknown to you request your screen name, password, or credit card information. Make sure you verify the identity of anyone asking for personal information. Always monitor your children's on-line activities and educate them as to the rules for safe Internet use. 
+Beware of scams in which persons unknown to you request your screen name, password, or credit card information. Make sure you verify the identity of anyone asking for personal information. Always monitor your children's on-line activities and educate them as to the rules for safe Internet use.
 
 **Contacting the Owner**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can contact the owner directly via [contact@fatpenguinmedia.com](mailto:contact@fatpenguinmedia.com)
+If you have any questions about this privacy statement, the practices of this network, or your dealings with any of our websites, you can contact the owner directly via  [ contact@fatpenguinmedia.com](mailto:contact@fatpenguinmedia.com).
