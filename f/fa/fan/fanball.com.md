@@ -1,7 +1,82 @@
-> *The following text is extracted and transformed from the fanball.com privacy policy that was archived on 2006-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061115022057id_/http%3A//www.fanball.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanball.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621095317id_/http%3A//www.fanball.com/privacy.cfm) for the most accurate reproduction.*
 
-# Fantasy Sports - Fanball.com
+# 
 
+[](http://www.fanball.com/)  
+---  
+  
+  * [HOME ](http://www.fanball.com/)
+    * [Main](http://www.fanball.com/)
+    * [Articles](http://www.fanball.com/features.cfm)
+    * [Forums](http://forums.fanball.com/forum.bb)
+    * [Auction Arena](http://www.fanball.com/rewards.cfm)
+    * [Store](http://www.fanball.com/store/)
+  * [COMMISSIONER](http://www.fanball.com/commissioner/index.cfm)
+  * [ OWNER'S EDGE ](http://www.fanball.com/OE/index.cfm)
+  * [ REAL LEAGUES ](http://www.fanball.com/realLeagues/index.cfm)
+  * [ NFL ](http://www.fanball.com/football/)
+    * [Main](http://www.fanball.com/football/)
+    * [Articles](http://www.fanball.com/football/features.cfm)
+    * [Newsbreakers](http://www.fanball.com/football/newsbreakers.cfm)
+    * [Podcasts](http://www.fanball.com/football/pantsparty.cfm)
+    * [Keeper Corner](http://www.fanball.com/football/keeperCorner.cfm)
+    * Players
+      * [Player Profiles](http://www.fanball.com/football/playerIndex.cfm)
+      * [3rd Year Wide-Outs](http://www.fanball.com/football/3wr.cfm)
+      * [Final Contract Year](http://www.fanball.com/football/contract.cfm)
+    * [Teams / Depth Charts](http://www.fanball.com/football/teamIndex.cfm)
+    * Stats
+      * [Stat Leaders](http://www.fanball.com/football/statLeaders.cfm)
+      * [Stats By Position](http://www.fanball.com/football/positionStats.cfm)
+      * [Game Logs](http://www.fanball.com/football/teamStats.cfm)
+      * [Team Stat Averages](http://www.fanball.com/football/statsAvgs.cfm)
+    * [Schedule](http://www.fanball.com/football/schedule.cfm)
+    * [Fantasy Football 101](http://www.fanball.com/football/fantasyFootball101.cfm)
+    * [Forums](http://forums.fanball.com/forum.bb)
+    * [Store](http://www.fanball.com/store/)
+  * [ MLB ](http://www.fanball.com/baseball/)
+    * [Main](http://www.fanball.com/baseball/)
+    * [Articles](http://www.fanball.com/baseball/features.cfm)
+    * [Newsbreakers](http://www.fanball.com/baseball/newsbreakers.cfm)
+    * [Podcasts](http://www.fanball.com/baseball/fivetool.cfm)
+    * [Depth Charts](http://www.fanball.com/baseball/depthChart.cfm)
+    * [Forums](http://forums.fanball.com/forum.bb)
+    * [Store](http://www.fanball.com/store/)
+  * [ NBA ](http://www.fanball.com/NBA/)
+    * [Main](http://www.fanball.com/NBA/)
+    * [Articles](http://www.fanball.com/NBA/features.cfm)
+    * [Newsbreakers](http://www.fanball.com/NBA/newsbreakers.cfm)
+    * [Forums](http://forums.fanball.com/forum.bb)
+    * [Store](http://www.fanball.com/store/)
+  * [ NHL ](http://www.fanball.com/hockey/)
+    * [Main](http://www.fanball.com/hockey/)
+    * [Articles](http://www.fanball.com/hockey/features.cfm)
+    * [Newsbreakers](http://www.fanball.com/hockey/newsbreakers.cfm)
+    * [Forums](http://forums.fanball.com/forum.bb)
+    * [Store](http://www.fanball.com/store/)
+  * [ PGA ](http://www.fanball.com/golf/)
+    * [Main](http://www.fanball.com/golf/index.cfm)
+    * [Articles](http://www.fanball.com/golf/features.cfm)
+    * [Newsbreakers](http://www.fanball.com/golf/newsbreakers.cfm)
+    * [Forums](http://forums.fanball.com/forum.bb)
+    * [Store](http://www.fanball.com/store/index.cfm)
+  * [ NASCAR ](http://www.fanball.com/NASCAR/)
+    * [Main](http://www.fanball.com/NASCAR/)
+    * [Articles](http://www.fanball.com/NASCAR/features.cfm)
+    * [Newsbreakers](http://www.fanball.com/NASCAR/newsbreakers.cfm)
+    * [Forums](http://forums.fanball.com/forum.bb)
+    * [Store](http://www.fanball.com/store/)
+  * [ VIEW ALL GAMES ](http://www.fanball.com/games/)
+
+
+  * [Main](http://www.fanball.com/) |
+  * [Articles](http://www.fanball.com/features.cfm) |
+  * [Forums](http://forums.fanball.com/forum.bb) |
+  * [Auction Arena](http://www.fanball.com/rewards.cfm) |
+  * [Store](http://www.fanball.com/store/)
+
+  
+  
 **Privacy Statement for www.fanball.com**
 
 Fanball has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.fanball.com.
