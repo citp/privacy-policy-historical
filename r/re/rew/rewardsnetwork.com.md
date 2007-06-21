@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rewardsnetwork.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218022924id_/http%3A//www.rewardsnetwork.com/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rewardsnetwork.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621081828id_/http%3A//www.rewardsnetwork.com/privacypolicy.jsp) for the most accurate reproduction.*
 
-# Rewards Network -
+# Rewards Network - Privacy Policy
 
 ##### Our pledge to you, our member
 
@@ -119,7 +119,7 @@ Email: [rbehnia@rewardsnetwork.com](mailto:rbehnia@rewardsnetwork.com)
 
 ##### Notice of Changes
 
-This Privacy Policy was last revised on **_February 12, 2006_**. We reserve the right to change, modify or add to this policy (a "Change") at any time, and to apply any Change to Personal Information that we have already collected. We may provide you with notice of a Change by posting a notice or a revised Privacy Policy on our web site. You agree to visit our web site, from time to time, to review the current policy and any Changes.
+This Privacy Policy was last revised on **_January 30, 2006_**. We reserve the right to change, modify or add to this policy (a "Change") at any time, and to apply any Change to Personal Information that we have already collected. We may provide you with notice of a Change by posting a notice or a revised Privacy Policy on our web site. You agree to visit our web site, from time to time, to review the current policy and any Changes.
 
 **_AFFILIATES_**  
 Rewards Network Establishment Services Inc.  
@@ -127,6 +127,5 @@ Rewards Network Services Inc.
 Rewards Network International, Inc.  
 Rewards Network Canada GP Corp.  
 Rewards Network Canada LP  
-TMNI International Inc.  
 RTR Funding LLC  
 
