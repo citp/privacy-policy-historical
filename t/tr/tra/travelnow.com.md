@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelnow.com privacy policy that was archived on 2006-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061006230957id_/http%3A//www.travelnow.com/index.jsp%3FpageName%3Dprivacy%26cid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelnow.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621033053id_/http%3A//www.travelnow.com/index.jsp%3FpageName%3Dprivacy%26cid%3D1) for the most accurate reproduction.*
 
 # travel now . com -- infocenter
 
