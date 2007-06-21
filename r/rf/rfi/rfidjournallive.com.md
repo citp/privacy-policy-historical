@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rfidjournallive.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206010233id_/http%3A//www.rfidjournal.com/article/articleview/213) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rfidjournallive.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621114208id_/http%3A//www.rfidjournal.com/article/articleview/213) for the most accurate reproduction.*
 
 # RFID Journal - RFID Journal Privacy Statement - RFID (Radio Frequency Identification) Technology News & Features
 
