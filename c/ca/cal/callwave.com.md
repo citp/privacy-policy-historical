@@ -1,18 +1,6 @@
-> *The following text is extracted and transformed from the callwave.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216002210id_/http%3A//www.callwave.com/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callwave.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622005440id_/http%3A//www.callwave.com/company/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[About CallWave](https://web.archive.org/company/index.asp)  
-[Investor Relations](https://web.archive.org/company/disclaimer.asp)  
-[Press Room](https://web.archive.org/company/press.asp)
-
- **Award Winner!**  
-[](http://www.tmcnet.com/it/it_winners/it_winnersp1.htm)  
-[](http://investor.callwave.com/phoenix.zhtml?c=180005&p=irol-newsArticle&ID=715041)
-
-  | 
-
-Privacy Policy
 
 CallWave, Inc. ("CallWave") has created this Privacy Statement (the "Statement") as part of its commitment to protecting its Members (the "Members") personal information from misuse when using CallWave Service(s), as defined in CallWave's Terms of Service for CallWave, Inc. (the "Terms of Service").
 
@@ -92,5 +80,4 @@ P.O. Box 549
 Santa Barbara, CA 93102
 
 
-  
-|  
+
