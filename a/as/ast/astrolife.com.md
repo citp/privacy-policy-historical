@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astrolife.com privacy policy that was archived on 2006-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060907132153id_/http%3A//www.astrolife.com/help/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrolife.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622194814id_/http%3A//www.astrolife.com/help/privacy-policy.php) for the most accurate reproduction.*
 
 # Help :: Astrolife.com
 
