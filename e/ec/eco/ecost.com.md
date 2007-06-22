@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecost.com privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224042101id_/http%3A//www.ecost.com/ecost/information/help/getting_started.asp%23d) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecost.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622035646id_/http%3A//ecost.com/ecost/information/help/getting_started.asp) for the most accurate reproduction.*
 
 # eCost – Computers and Electronics for Home and Business – Plasma TV iPODS Laptop MP3 Player
 
@@ -10,7 +10,7 @@ Thank you for visiting eCOST.com! We have thousands of exciting computer product
   
 [
   * return to "Help Desk"
-](https://web.archive.org/web/20061224042101id_/http%3A//www.ecost.com/ecost/information/help/help.asp) 
+](https://web.archive.org/web/20070622035646id_/http%3A//ecost.com/ecost/information/help/help.asp) 
   
 
 
@@ -275,7 +275,7 @@ Borderfree Buyers:
 
 
 
-Please click here for a complete description of our [Shipping Methods](https://web.archive.org/web/20061224042101id_/http%3A//www.ecost.com/ecost/information/help/shipping_handling.asp#a).
+Please click here for a complete description of our [Shipping Methods](https://web.archive.org/web/20070622035646id_/http%3A//ecost.com/ecost/information/help/shipping_handling.asp#a).
 
 ### What are my payment options?
 
@@ -287,13 +287,13 @@ Borderfree Buyers are provided payment options through our partner, Borderfree w
 
 Unfortunately, we cannot accept open account orders, purchase orders, checks, COD, etc.
 
-Please click here for more information on our [Payment Options](https://web.archive.org/web/20061224042101id_/http%3A//www.ecost.com/ecost/information/help/payment_information.asp#a).
+Please click here for more information on our [Payment Options](https://web.archive.org/web/20070622035646id_/http%3A//ecost.com/ecost/information/help/payment_information.asp#a).
 
 ### When do you charge sales tax?
 
 We charge sales tax on orders shipping into California, Texas and Tennessee.
 
-Please click here for more information regarding [Sales Tax](https://web.archive.org/web/20061224042101id_/http%3A//www.ecost.com/ecost/information/help/payment_information.asp#b).
+Please click here for more information regarding [Sales Tax](https://web.archive.org/web/20070622035646id_/http%3A//ecost.com/ecost/information/help/payment_information.asp#b).
 
 For our Borderfree Buyers, all federal and provincial taxes (if applicable) are calculated for your order when you click on the “Borderfree Checkout” button.
 
@@ -303,17 +303,17 @@ You can usually cancel an order within an hour of order placement during normal 
 
 If you would like to cancel an order, please call us Toll Free at 1 (877) 888-2678 or email us at [cancel@ecost.com](mailto:cancel@ecost.com). We will try our best to cancel the order, but cannot guarantee that we will able to depending upon where the order is at in the credit approval, pick and ship processes.
 
-Please click here for a complete description of our [Order Cancellations](https://web.archive.org/web/20061224042101id_/http%3A//www.ecost.com/ecost/information/help/ordering.asp#g) policy.
+Please click here for a complete description of our [Order Cancellations](https://web.archive.org/web/20070622035646id_/http%3A//ecost.com/ecost/information/help/ordering.asp#g) policy.
 
 ### Can I return a product?
 
 Generally, most products can be returned within 30 days of shipment.Very important return policies and procedures exist, however, and we would encourage you to familiarize yourself with our return policies and procedures prior to ordering.
 
-Please click here for a complete description of our [Return Policies and Procedures](https://web.archive.org/web/20061224042101id_/http%3A//www.ecost.com/ecost/information/help/shipping_handling.asp#g).
+Please click here for a complete description of our [Return Policies and Procedures](https://web.archive.org/web/20070622035646id_/http%3A//ecost.com/ecost/information/help/shipping_handling.asp#g).
 
 ### How do I contact eCOST.com?
 
-We are available by phone, email and/or US Mail. Please click [**here**](https://web.archive.org/web/20061224042101id_/http%3A//www.ecost.com/ecost/information/help/contact_us.asp) for the complete Contact options.
+We are available by phone, email and/or US Mail. Please click [**here**](https://web.archive.org/web/20070622035646id_/http%3A//ecost.com/ecost/information/help/contact_us.asp) for the complete Contact options.
 
 We look forward to hearing from you!
 
@@ -337,19 +337,19 @@ This Policy is the sole authorized statement of ECOST's practices with respect t
 
 To assist you with your review of our Policy, we have provided answers to questions that you may find important:
 
-  * [ What Personal Information We Collect ](https://web.archive.org/web/20061224042101id_/http%3A//www.ecost.com/ecost/information/help/getting_started.asp#1)
-  * [ How We Use the Personal Information We Collect](https://web.archive.org/web/20061224042101id_/http%3A//www.ecost.com/ecost/information/help/getting_started.asp#2)
-  * [ Marketing Communications: Opting Out](https://web.archive.org/web/20061224042101id_/http%3A//www.ecost.com/ecost/information/help/getting_started.asp#3)
-  * [ Cookies](https://web.archive.org/web/20061224042101id_/http%3A//www.ecost.com/ecost/information/help/getting_started.asp#4)
-  * [ Web Beacons](https://web.archive.org/web/20061224042101id_/http%3A//www.ecost.com/ecost/information/help/getting_started.asp#5)
-  * [ How We Protect Your Personal Information](https://web.archive.org/web/20061224042101id_/http%3A//www.ecost.com/ecost/information/help/getting_started.asp#6)
-  * [ Correcting/Updating Your Personal Information and Preferences](https://web.archive.org/web/20061224042101id_/http%3A//www.ecost.com/ecost/information/help/getting_started.asp#7)
-  * [ Other Information We Collect](https://web.archive.org/web/20061224042101id_/http%3A//www.ecost.com/ecost/information/help/getting_started.asp#8)
-  * [ Advertisers](https://web.archive.org/web/20061224042101id_/http%3A//www.ecost.com/ecost/information/help/getting_started.asp#9)
-  * [ Sweepstakes and Promotions](https://web.archive.org/web/20061224042101id_/http%3A//www.ecost.com/ecost/information/help/getting_started.asp#10)
-  * [ Co-branded Sites: Links to Other Sites](https://web.archive.org/web/20061224042101id_/http%3A//www.ecost.com/ecost/information/help/getting_started.asp#11)
-  * [ Online vs. Offline Practices](https://web.archive.org/web/20061224042101id_/http%3A//www.ecost.com/ecost/information/help/getting_started.asp#12)
-  * [ Contacting ECOST](https://web.archive.org/web/20061224042101id_/http%3A//www.ecost.com/ecost/information/help/getting_started.asp#13)
+  * [ What Personal Information We Collect ](https://web.archive.org/web/20070622035646id_/http%3A//ecost.com/ecost/information/help/getting_started.asp#1)
+  * [ How We Use the Personal Information We Collect](https://web.archive.org/web/20070622035646id_/http%3A//ecost.com/ecost/information/help/getting_started.asp#2)
+  * [ Marketing Communications: Opting Out](https://web.archive.org/web/20070622035646id_/http%3A//ecost.com/ecost/information/help/getting_started.asp#3)
+  * [ Cookies](https://web.archive.org/web/20070622035646id_/http%3A//ecost.com/ecost/information/help/getting_started.asp#4)
+  * [ Web Beacons](https://web.archive.org/web/20070622035646id_/http%3A//ecost.com/ecost/information/help/getting_started.asp#5)
+  * [ How We Protect Your Personal Information](https://web.archive.org/web/20070622035646id_/http%3A//ecost.com/ecost/information/help/getting_started.asp#6)
+  * [ Correcting/Updating Your Personal Information and Preferences](https://web.archive.org/web/20070622035646id_/http%3A//ecost.com/ecost/information/help/getting_started.asp#7)
+  * [ Other Information We Collect](https://web.archive.org/web/20070622035646id_/http%3A//ecost.com/ecost/information/help/getting_started.asp#8)
+  * [ Advertisers](https://web.archive.org/web/20070622035646id_/http%3A//ecost.com/ecost/information/help/getting_started.asp#9)
+  * [ Sweepstakes and Promotions](https://web.archive.org/web/20070622035646id_/http%3A//ecost.com/ecost/information/help/getting_started.asp#10)
+  * [ Co-branded Sites: Links to Other Sites](https://web.archive.org/web/20070622035646id_/http%3A//ecost.com/ecost/information/help/getting_started.asp#11)
+  * [ Online vs. Offline Practices](https://web.archive.org/web/20070622035646id_/http%3A//ecost.com/ecost/information/help/getting_started.asp#12)
+  * [ Contacting ECOST](https://web.archive.org/web/20070622035646id_/http%3A//ecost.com/ecost/information/help/getting_started.asp#13)
 
 
 
@@ -370,13 +370,13 @@ ECOST collects personally identifiable information that you specifically and vol
 
 We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, [click here](http://www.networkadvertising.org/optout_nonppii.asp).
 
-[Return to Top](https://web.archive.org/web/20061224042101id_/http%3A//www.ecost.com/ecost/information/help/getting_started.asp#pp)
+[Return to Top](https://web.archive.org/web/20070622035646id_/http%3A//ecost.com/ecost/information/help/getting_started.asp#pp)
 
 **How We Use the Personal Information We Collect**
 
 We use the PII that you provide to us in order to 1) fulfill requests for products, services and/or information, 2) provide customer service, 3) offer new products or services, 4) measure and improve the effectiveness of our Site and our marketing endeavors, 5) tailor our online offerings to your preferences, 6) administer promotions or surveys, and 7) achieve other business purposes as permitted under applicable law.
 
-When you make a purchase on our Site we collect credit card information including card number, card type, cardholder name and billing address, and expiration date, in order to bill you for purchases made through ECOST. Please review our [Credit Card Policy](https://web.archive.org/web/20061224042101id_/http%3A//www.ecost.com/ecost/information/help/payment_information.asp#a) for additional information.
+When you make a purchase on our Site we collect credit card information including card number, card type, cardholder name and billing address, and expiration date, in order to bill you for purchases made through ECOST. Please review our [Credit Card Policy](https://web.archive.org/web/20070622035646id_/http%3A//ecost.com/ecost/information/help/payment_information.asp#a) for additional information.
 
 ECOST may disclose PII to consultants, professional advisors and contractors who perform services on our behalf, but only to the extent necessary for them to perform such services. At times, ECOST may seek to validate the PII we have collected via an audit by a third party designed to determine the accuracy of and/or to update the information collected. We may also combine data that we collect online with data collected offline (such as through purchases made through one of our catalogs), or with data provided by other parties.
 
@@ -385,7 +385,7 @@ ECOST reserves the right to release PII concerning any visitor when that visitor
 
 In the event that we sell or otherwise transfer to a third party assets related either (a) to the Site or (b) to one or more of our businesses, divisions or affiliated companies, we reserve the right to also transfer any and all information (including any PII) associated with the Site and/or any business, division or affiliated company to such third party. However, all PII transferred to such third party shall be transferred subject to the usage restrictions contained in ECOST’s privacy policy. Please note that we are not responsible for retracting your PII from any third parties with whom we have shared your information pursuant to the terms of this Policy.
 
-[Return to Top](https://web.archive.org/web/20061224042101id_/http%3A//www.ecost.com/ecost/information/help/getting_started.asp#pp)
+[Return to Top](https://web.archive.org/web/20070622035646id_/http%3A//ecost.com/ecost/information/help/getting_started.asp#pp)
 
 **Marketing Communications: Opting Out**
 
@@ -395,19 +395,19 @@ ECOST has partnered with third parties to offer our customers and Site visitors 
 
 Should you wish to change your preferences regarding the information that you receive from ECOST or its affiliates, or would prefer that we not share PII with our marketing partners, please refer to the paragraph below entitled “Correcting/Updating Your Personal Information and Preferences.” Please note that we are not responsible for retracting your PII from any third parties with whom we have shared your information pursuant to the terms and conditions of this Policy.
 
-[Return to Top](https://web.archive.org/web/20061224042101id_/http%3A//www.ecost.com/ecost/information/help/getting_started.asp#pp)
+[Return to Top](https://web.archive.org/web/20070622035646id_/http%3A//ecost.com/ecost/information/help/getting_started.asp#pp)
 
 **Cookies**
 
 Upon visiting our Site we will assign you a unique ID in the form of a "cookie". A cookie is a piece of information that our server places on your computer’s hard drive, which ECOST may associate with your PII when you log on to the site. Cookies are used for such purposes as facilitating and personalizing your shopping and ordering experience, keeping track of your shopping basket during your visit, helping diagnose problems with our server, and administering our Site. We may use the information collected through cookies for marketing purposes to inform you of special offers, better understand your needs or answer your questions.  NOTE: You can control how and whether cookies will be accepted by your web browser, and you may remove them from your computer at any time at your discretion.
 
-[Return to Top](https://web.archive.org/web/20061224042101id_/http%3A//www.ecost.com/ecost/information/help/getting_started.asp#pp)
+[Return to Top](https://web.archive.org/web/20070622035646id_/http%3A//ecost.com/ecost/information/help/getting_started.asp#pp)
 
 **Web Beacons**
 
 Some ECOST Web pages and HTML-formatted e-mail newsletters may use Web beacons to compile aggregate statistics about website usage. A Web beacon is an electronic image, often called a single-pixel (1x1) or clear GIF, that is ordinarily not visible to the site visitor. Web beacons can recognize certain types of information on a visitor's computer, such as a visitor's cookie number, time and date of a page or image view, and a description of the page where the Web beacon is placed. When used in an e-mail, they can tell us whether an e-mail has been opened. 
 
-[Return to Top](https://web.archive.org/web/20061224042101id_/http%3A//www.ecost.com/ecost/information/help/getting_started.asp#pp)
+[Return to Top](https://web.archive.org/web/20070622035646id_/http%3A//ecost.com/ecost/information/help/getting_started.asp#pp)
 
 **How We Protect Your Personal Information**
 
@@ -415,13 +415,13 @@ To help ensure the confidentiality of your PII, ECOST seeks to use security tech
 
 In addition, your personal, account information, and transaction history are kept behind our firewall.
 
-[Return to Top](https://web.archive.org/web/20061224042101id_/http%3A//www.ecost.com/ecost/information/help/getting_started.asp#pp)
+[Return to Top](https://web.archive.org/web/20070622035646id_/http%3A//ecost.com/ecost/information/help/getting_started.asp#pp)
 
 **Correcting/Updating Your Personal Information and Preferences**
 
-If you would like to have your PII removed from ECOST’s databases, or to make changes to your PII or to your preferences regarding the use of your PII for marketing purposes, please [ click here](https://web.archive.org/ecost/information/subscription_services/default~page~showtext.asp). We will use reasonable efforts to comply with your request. Please note that we may need to contact you in order to be sure that we are updating the appropriate information. When requesting that PII be updated or that your preferences be changed, please keep in mind that until the change is implemented, you may still receive email and/or physical mailings from us. Furthermore, there will be residual information that will remain within ECOST databases, access logs and other records, which may contain such PII. The residual information will not be used for commercial purposes; however, ECOST reserves the right, from time to time, to recontact former customers or visitors to the Site. Please note that we are not responsible for retracting your PII from third parties with whom we have shared your information pursuant to the terms and conditions of this Policy.
+If you would like to have your PII removed from ECOST’s databases, or to make changes to your PII or to your preferences regarding the use of your PII for marketing purposes, please [ click here](https://web.archive.org/ecost/information/subscription_services/default.asp?page=showtext). We will use reasonable efforts to comply with your request. Please note that we may need to contact you in order to be sure that we are updating the appropriate information. When requesting that PII be updated or that your preferences be changed, please keep in mind that until the change is implemented, you may still receive email and/or physical mailings from us. Furthermore, there will be residual information that will remain within ECOST databases, access logs and other records, which may contain such PII. The residual information will not be used for commercial purposes; however, ECOST reserves the right, from time to time, to recontact former customers or visitors to the Site. Please note that we are not responsible for retracting your PII from third parties with whom we have shared your information pursuant to the terms and conditions of this Policy.
 
-[Return to Top](https://web.archive.org/web/20061224042101id_/http%3A//www.ecost.com/ecost/information/help/getting_started.asp#pp)
+[Return to Top](https://web.archive.org/web/20070622035646id_/http%3A//ecost.com/ecost/information/help/getting_started.asp#pp)
 
 **Other Information We Collect**
 
@@ -431,13 +431,13 @@ _Aggregated Information:_ ECOST may collect and aggregate demographic informatio
 
 _Information About Corporate and Other Organizational Customers:_ We may collect information pertaining solely to corporations, governmental or educational entities, or other business or not for profit entities, such as, for example, a company's address. We may use any such corporate information without restriction. In an effort to better support our customers by delivering more relevant marketing communications, ECOST will, on occasion, purchase third party information about businesses and other entities that are our customers. The company information we purchase may include number of employees, or annual sales volume and company structure. This is used to customize such customers’ online/offline experience and to supplement our internal sales information to better serve you. 
 
-[Return to Top](https://web.archive.org/web/20061224042101id_/http%3A//www.ecost.com/ecost/information/help/getting_started.asp#pp)
+[Return to Top](https://web.archive.org/web/20070622035646id_/http%3A//ecost.com/ecost/information/help/getting_started.asp#pp)
 
 **Advertisers**
 
 ECOST may use outside advertising companies ("Advertisers") to serve advertisements on the Site. Please be advised that such Advertisers may use cookies or other technologies to enable such Advertisers to record which ads your browser has seen, and which Site pages you may have been viewing when the ads were delivered. 
 
-[Return to Top](https://web.archive.org/web/20061224042101id_/http%3A//www.ecost.com/ecost/information/help/getting_started.asp#pp)
+[Return to Top](https://web.archive.org/web/20070622035646id_/http%3A//ecost.com/ecost/information/help/getting_started.asp#pp)
 
 **Sweepstakes and Promotions**
 
@@ -445,19 +445,19 @@ We may from time to time offer sweepstakes, contests, or other similar promotion
 
 Other companies may offer sweepstakes, contests or similar promotions through our Site, including through the Rebates & Coupons page. ECOST is not responsible for any such promotions offered by third parties. Please read all related terms and conditions carefully, or contact the applicable third party for more information. The collection and use of personal information in connection with such promotions is governed by such third party’s privacy policy, and not by the policies of ECOST.
 
-[Return to Top](https://web.archive.org/web/20061224042101id_/http%3A//www.ecost.com/ecost/information/help/getting_started.asp#pp)
+[Return to Top](https://web.archive.org/web/20070622035646id_/http%3A//ecost.com/ecost/information/help/getting_started.asp#pp)
 
 **Co-branded Sites: Links to Other Sites**
 
 The Site offers certain features that are provided and/or hosted by third parties, but that may be presented on pages displaying ECOST’s branding. For example, ECOST-branded pages featuring investor relations information about ECOST may be created and operated by a third party data provider specializing in such information. The Site may also contain links to other Web sites, or other affiliated sites (e.g., event sponsors, or companies offering rebates or other promotions through our Rebates & Coupons page). We are not responsible for the privacy practices or the content of any such Web sites, including such sites’ use of any information (such as IP number, browser type or operating system) collected when visitors to the Site click through links to those sites. Even though such information might not identify you personally, we strongly encourage you to become familiar with the privacy practices of any third party sites.
 
-[Return to Top](https://web.archive.org/web/20061224042101id_/http%3A//www.ecost.com/ecost/information/help/getting_started.asp#pp)
+[Return to Top](https://web.archive.org/web/20070622035646id_/http%3A//ecost.com/ecost/information/help/getting_started.asp#pp)
 
 **Online vs. Offline Practices**
 
 Please note that this Policy applies solely to our online information-gathering and dissemination practices in connection with the Site, and does not apply to any of our practices conducted offline other than as expressly set forth in this Policy. 
 
-[Return to Top](https://web.archive.org/web/20061224042101id_/http%3A//www.ecost.com/ecost/information/help/getting_started.asp#pp)
+[Return to Top](https://web.archive.org/web/20070622035646id_/http%3A//ecost.com/ecost/information/help/getting_started.asp#pp)
 
 **Contacting ECOST**
 
@@ -485,4 +485,4 @@ eCOST.com will remain committed to protecting your privacy online. We may change
 >  Torrance, CA 90504  
 >   
   
-© 2006 eCOST.com. All rights reserved. 
+© 2007 eCOST.com. All rights reserved. 
