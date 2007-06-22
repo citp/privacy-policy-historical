@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emedtv.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215161344id_/http%3A//www.emedtv.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emedtv.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622154430id_/http%3A//www.emedtv.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -93,4 +93,4 @@ Bellevue, WA 98009
 
 Attn: Privacy Officer
 
-Last reviewed/updated August 17, 2006
+Last reviewed/updated March 07, 2007
