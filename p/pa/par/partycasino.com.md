@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the partycasino.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215021421id_/http%3A//www.partycasino.com/about_us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partycasino.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623014027id_/http%3A//www.partycasino.com/about_us/privacy.html) for the most accurate reproduction.*
 
 # PartyCasino.com - About Us - Privacy
 
-At PartyGaming, part of the PartyGaming Group (the “Group”), we respect your privacy and are committed to protecting your personal information. We have created this Privacy Policy to let you know what information we collect when you use our services at our online sites (collectively, the “Service”), why we collect this information and how we use the collected information.
+At PartyGaming, part of the PartyGaming Group (the “Group”), we respect your privacy and are committed to protecting your personal information. We have created this Privacy Policy to let you know what information we collect when you use our services at our online sites (collectively, the “Service”), why we collect this information and how we use the collected information.
 
 We may periodically make changes to this Privacy Policy and will notify you of these changes by posting the modified terms on our online site. We recommend that you revisit this Privacy Policy regularly.
 
@@ -18,7 +18,7 @@ We may periodically make changes to this Privacy Policy and will notify you of t
 
 **6\. Cookies**. Cookies are small text files that are stored on your computer or equipment when you visit certain online pages that record your preferences. We use cookies to track use of PartyGaming sites. We also may use cookies to monitor traffic to the site, improve the Service and make it easier and/or more relevant for your use.
 
-**_When do we use cookies?_ **
+_**When do we use cookies?** _
 
 **During the registration process**   
 These cookies will hold information collected during your registration and will allow us to recognize you as a customer and provide you with the services you require. We may also use this data to better understand your interests while online and to enhance your visits to our online sites.
@@ -40,7 +40,7 @@ Cookies allow us to:
 
 
 
-**_How can I refuse or opt out of cookies?_ **
+_**How can I refuse or opt out of cookies?** _
 
 You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but, if you prefer, you can usually modify your browser setting to decline cookies. If you choose to decline cookies, you may not be able to experience all of the interactive features on the PartyGaming sites.
 
