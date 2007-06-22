@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the archetypes.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206062741id_/http%3A//archetypes.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archetypes.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622161522id_/http%3A//www.archetypes.com/privacy_statement.aspx) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement - BaldwinHardware.com
+
+**PRIVACY POLICY**
 
 We respect your privacy and want you to know what happens to information we receive when you use this site. Generally, you can visit this site without providing any personal information, such as name, mailing address, email address, request and other information that you submit. There are instances where we request personal information to provide you a service or correspondence such as brochures. Personal information that we receive will be collected and stored in a manner appropriate to the nature of the information and your request. We may also use the information to send you promotional materials. If at any time you tell us the information should not be used for further contact, we will honor your request. Simply let us know by contacting us at [webmaster@baldwinhq.com](mailto:webmaster@baldwinhq.com).
 
@@ -8,4 +10,4 @@ There are no other circumstances under which we will provide or sell personal in
 
 Our computer is not set up to track, collect or distribute personal information about visitors unless you expressly submit the information to us. Our site does track information (other than personal information) about the visits to our site, such as your internet service provider, the web that referred you to us, the pages you request and the date and time of your requests. These aggregated statistics are used for research, promotions, and site development to help us provide you with better services. We will share aggregated demographic information with our partners and advertisers but the demographic information is not linked to any personal information that can identify you.
 
-A technology called "cookies" may be used to provide you with tailored information. A cookie is a tiny element of data that a web site can send to your browser, which may then be stored on your hard drive so we can recognize you when you return. You may set your browser to notify you when you receive a cookie. 
+A technology called "cookies" may be used to provide you with tailored information. A cookie is a tiny element of data that a web site can send to your browser, which may then be stored on your hard drive so we can recognize you when you return. You may set your browser to notify you when you receive a cookie.
