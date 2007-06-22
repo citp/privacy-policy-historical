@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coremetrics.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209065415id_/http%3A//coremetrics.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coremetrics.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622231950id_/http%3A//www.coremetrics.com/company/privacy.html) for the most accurate reproduction.*
 
 # Coremetrics
 
@@ -38,7 +38,7 @@ We believe in the strength of an industry concerned with and proactive about pri
 Coremetrics has also certified its privacy practices as consistent with the U.S. Department of Commerce's Safe Harbor Principles: Notice, Choice, Onward Transfer, Access and Accuracy, Security, and Oversight/Enforcement. The European Commission recognizes the Safe Harbor Principles as a framework that provides adequate protection for personally identifiable information sent to Safe Harbor certified companies from Europe. More information about the U.S. Department of Commerce Safe Harbor Principles can be found at [http://www.export.gov/safeharbor/ ](http://www.export.gov/safeharbor/). 
 
   
-**What We Collect and How We Use It.** When you visit this web site, we collect certain non-personally-identifiable information such as your IP address, what pages you visited, and the time that you visited. We will also collect any personally identifiable information that you may send to us or provide to us on our forms (such as Resume Submission, Request for Information or Newsletter Subscription [(unsubscribe here) ](https://web.archive.org/web/20061209065415id_/http%3A//coremetrics.com/company/unsubscribe.html)). We use this information in connection with fulfilling your request, for our own marketing purposes, or to consider your employment application. Finally, we may forward to our vendors (e.g. an email service provider) information that you provide to us, but only for so they can provide us services, such as responding to your request to receive information. 
+**What We Collect and How We Use It.** When you visit this web site, we collect certain non-personally-identifiable information such as your IP address, what pages you visited, and the time that you visited. We will also collect any personally identifiable information that you may send to us or provide to us on our forms (such as Resume Submission, Request for Information or Newsletter Subscription [(unsubscribe here) ](https://web.archive.org/web/20070622231950id_/http%3A//www.coremetrics.com/company/unsubscribe.html)). We use this information in connection with fulfilling your request, for our own marketing purposes, or to consider your employment application. Finally, we may forward to our vendors (e.g. an email service provider) information that you provide to us, but only for so they can provide us services, such as responding to your request to receive information. 
 
 When our client users access their data via our secure web interface, we collect information about the way they use our Services, such as their IP address, the type of browser they are using, and the frequency and duration of their visits. We also collect user ID, username, and password from client visitors to our secure web interface. We use this information to improve the way that we provide our Services to our clients, to relay administrative information, and to verify login information. 
 
@@ -46,7 +46,7 @@ As we continue to develop our business, we may sell certain of our assets. In su
 
 **Update Your Information.** We provide all visitors to our web site with the opportunity to review, modify and delete any personally identifiable information that has previously been provided. You can send an email to [privacy@coremetrics.com ](mailto:privacy@coremetrics.com), or call us toll free at 877.721.CORE (2673) or in California at 650.762.1400. 
 
-**Unsubscribe from Our Mailing List.** If you have previously subscribed to Coremetrics' mailing list, you may at any time ask us to remove you from our mailing list by [clicking here](https://web.archive.org/web/20061209065415id_/http%3A//coremetrics.com/company/unsubscribe.html), or by calling us toll free at 877.721.CORE (2673) or direct at 650.762.1400.
+**Unsubscribe from Our Mailing List.** If you have previously subscribed to Coremetrics' mailing list, you may at any time ask us to remove you from our mailing list by [clicking here](https://web.archive.org/web/20070622231950id_/http%3A//www.coremetrics.com/company/unsubscribe.html), or by calling us toll free at 877.721.CORE (2673) or direct at 650.762.1400.
 
 **Other Web Sites.** This privacy statement applies solely to information collected by this web site, which contains links to other sites. Please be aware that we are not responsible for the privacy practices of these other sites. We encourage our visitors to read the privacy statements of each and every web site that they visit. 
 
@@ -103,7 +103,7 @@ Remember, if you choose to opt out you will need to do so the first time you vis
 
 **Opt-out Selection Form**
 
-[**Click Here** to View Your Current Opt-out Status](http://data.coremetrics.com/getStatus.php)
+[**Click Here** to View Your Current Opt-out Status](http://data.coremetrics.com/privacy/getStatus.php)
 
 **Contacting Coremetrics**
 
