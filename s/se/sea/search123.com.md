@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the search123.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206010437id_/http%3A//www.search123.com/sc/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the search123.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622205515id_/http%3A//www.search123.com/sc/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Partner Programs | Search Products | Search123
 
@@ -90,9 +90,9 @@ The European Union (“EU”) maintains strict privacy laws. These rules differ 
 
 By providing information to ValueClick Network sites, you acknowledge that they operate in the United States and agree to (i) permit ValueClick to transmit and use your User information anywhere necessary, including across international boundaries, to affect the services and transactions provided by this Site; and (ii) that such use by ValueClick shall be subject to the terms and conditions stated in this Privacy Statement and applicable Terms and Conditions and Policies. 
 
-VIII. NETWORK ADVERTISING INITIATIVE 
+VIII. DIGITAL POLICY FORUM 
 
-ValueClick, Inc. is a member of the Network Advertising Initiative (“NAI”). The NAI is a group of third party network advertisers committed to increasing consumer confidence and contributing to the growth of electronic commerce. We, along with other members of the NAI, are committed to providing consumers with a clear explanation of what data we collect, how we use them, and why the use of data can benefit consumer's experience online. For more information about the Network Advertising Alliance please go to <http://www.networkadvertising.org/>. 
+ValueClick, Inc. is a member of the Digital Policy Forum ("DPF"). The DPF is made up of online marketing, analytics, advertising, publishing, and email companies that are committed to examining and developing responses to important privacy and consumer protection issues in emerging media.
 
 IX. LIMITATION OF LIABILITY, THIRD PARTY INFORMATION & LANGUAGE
 
