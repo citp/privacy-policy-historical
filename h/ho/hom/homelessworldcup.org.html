@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the homelessworldcup.org privacy policy that was archived on 2006-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061102225713id_/http%3A//www.homelessworldcup.org/content/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the homelessworldcup.org privacy policy that was archived on 2007-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070623014227id_/http%3A//www.homelessworldcup.org/content/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta http-equiv="Content-Language" content="en">
 	<meta http-equiv="imagetoolbar" content="no">
 	
 	<title>Privacy Policy - Homeless World Cup</title>
@@ -16,18 +17,21 @@
 	Copyright 2006
 	-->
 
-	<!-- F.O.U.C -->
-	<script type="text/javascript" src=""></script>
-
+	<!-- Flash handling -->
+	<script type="text/javascript" src="/matchbox/contrib/swfobject.js"></script>
+	
+	
 	<style type="text/css" media="all">
-	<!--
 				@import url(/style/basic.css);
 		@import url(/style/screen.css);
-	-->
-	</style>
+					</style>
 
-	<!--[if IE]>
+	<!--[if lte IE 6]>
 		<link rel="stylesheet" type="text/css" href="/style/screen_ie.css" />
+	<![endif]-->
+	
+	<!--[if IE 7]>
+		<link rel="stylesheet" type="text/css" href="/style/screen_ie7.css" />
 	<![endif]-->
 
 </head>
@@ -38,44 +42,44 @@
 
 	<div id="page">
 	
+		
+		<ul id="tabs">
+		
+			<li class="hide"><a href="#content"><span>Skip to content</span></a></li>
+			
+			
+			
+						<li><a class="rss" href="/login"><span>Login</span></a></li>			
+			<li><a class="dansk" href="/content/hjem"><span>Dansk</span></a></li>		
+		</ul>
+	
 		<div id="header">
 		
-			<span><a href="/"><img src="/images/logo.gif" alt="Homeless Worldcup - Kick off poverty" width="130" height="68"></a></span>
+			<span><a href="http://www.homelessworldcup.org"><img src="/images/logo.gif" alt="Homeless Worldcup - Kick off poverty" width="130" height="68"></a></span>
 			
+			<p class="hide">
+				<strong>The 5th Homeless World Cup</strong><br>
+				Town Hall Square, Copenhagen, Denmark<br>
+				29 July - 4 August 2007
+			</p>			
 			<p><a href="#content">Skip to content</a></p>
 			
 			<ul id="navbar">
 			
-				<li><a href="/">home</a></li>
 			
-						
-				<li><a href="/content/tournament">Tournament</a></li>
 			
-						
-				<li><a href="/content/get-involved">Get involved</a></li>
-			
-						
-				<li><a href="/content/news">News</a></li>
-			
-						
-				<li><a href="/content/gallery">Gallery</a></li>
-			
-						
-				<li><a href="/content/teams">Teams</a></li>
-			
-						
-				<li><a href="/content/players">Players</a></li>
-			
-						
-				<li><a href="/content/shop">Shop</a></li>
-			
-						
-				<li><a href="/content/press">Press</a></li>
-			
-						
-				<li><a href="/content/organisation">Organisation</a></li>
-			
-							
+										<li><a href="http://www.homelessworldcup.org/content/home" class="selected">Home</a></li>
+													<li><a href="http://www.homelessworldcup.org/content/tournament">Tournament</a></li>
+													<li><a href="http://www.homelessworldcup.org/content/get-involved">Get involved</a></li>
+													<li><a href="http://www.homelessworldcup.org/content/gallery">Gallery</a></li>
+													<li><a href="http://www.homelessworldcup.org/content/teams">Teams</a></li>
+													<li><a href="http://www.homelessworldcup.org/content/players">Players</a></li>
+													<li><a href="http://www.homelessworldcup.org/content/fans-5">Fans</a></li>
+													<li><a href="http://www.homelessworldcup.org/store">shop</a></li>
+													<li><a href="http://www.homelessworldcup.org/content/press">Press</a></li>
+													<li><a href="http://www.homelessworldcup.org/content/organisation">Organisation</a></li>
+													<li><a href="http://www.homelessworldcup.org/content/contact-49">Contact</a></li>
+										
 			</ul>
 			
 			<div class="clear">&nbsp;</div>
@@ -104,15 +108,36 @@
 		
 		<div id="side_col">
 		
+						
+						
+						
 			<div class="col_item newsletter">
 			
-				<form action="/newsletters.plm" method="post">
+				
+				<script type="text/javascript">
+					<!--
+				
+						function validate_form(form)
+						{
+						if(!form.email.value || form.email.value == 'your email address'){
+						alert('Please enter an email address.') ;
+						return false ;
+						}
+						
+						return true ;
+						}
+						
+				//-->
+				</script>
+				
+			
+				<form action="/newsletters.plm" method="post" onsubmit="return validate_form(this);">
 				
 					<fieldset>
 						
 						<legend>get the latest news</legend>
 					
-						<p><label for="email">Your email address </label><input class="email" type="text" value="your email address" name="email" onfocus="if(this.value == this.defaultValue) this.value=''; ">
+						<p><label for="email">Your email address </label><input id="email" class="email" type="text" value="your email address" name="email" onfocus="if(this.value == this.defaultValue) this.value=''; ">
 						<input class="submit" type="submit" value="sign me up"></p>
 					
 					</fieldset>
@@ -125,13 +150,13 @@
 			
 			<div class="col_item involved">
 			
-				<h3><a href="/content/get-involved">get involved»</a></h3>
+				<h3><a href="http://www.homelessworldcup.org/content/get-involved">get involved»</a></h3>
 				
 				<ul>
 				
-					<li><a href="/content/fans">Fan Club</a></li>
-					<li><a href="/content/donate">Donate</a></li>
-					<li><a href="/content/sponsor">Sponsor</a></li>
+					<li><a href="http://www.homelessworldcup.org/members">Fan Club</a></li>
+					<li><a href="http://www.homelessworldcup.org/content/extreme-team">Extreme Team</a></li>
+					<li><a href="http://www.homelessworldcup.org/content/partner">Partner</a></li>
 				
 				</ul>
 			
@@ -139,13 +164,13 @@
 			
 			<div class="col_item build">
 			
-				<h3><a href="/content/tournament">build up to 2006»</a></h3>
+				<h3><a href="http://www.homelessworldcup.org/content/tournament">Copenhagen 2007»</a></h3>
 				
 				<ul>
 				
-					<li><a href="/content/tournament">Stories</a></li>
-					<li><a href="/content/match-schedule">Matches</a></li>
-					<li><a href="/content/teams">Teams</a></li>
+					<li><a href="http://www.homelessworldcup.org/groups">Teams</a></li>
+					<li><a href="http://www.homelessworldcup.org/content/tournament">Tournament</a></li>
+					<li><a href="http://www.homelessworldcup.org/content/team-appeal">Team Appeal</a></li>
 				
 				</ul>
 			
@@ -153,12 +178,13 @@
 			
 			<div class="col_item gallery">
 			
-				<h3><a href="/content/gallery">gallery»</a></h3>
+				<h3><a href="http://www.homelessworldcup.org/content/gallery">gallery»</a></h3>
 				
 				<ul>
 				
-					<li><a href="/content/photos">Photos</a></li>
-					<li><a href="/content/movies">Movies</a></li>
+					<li><a href="http://www.homelessworldcup.org/content/photos">Photos</a></li>
+					<li><a href="http://www.homelessworldcup.org/content/movies">Movies</a></li>
+					<li><a href="http://www.homelessworldcup.org/content/audio">Audio</a></li>
 				
 				</ul>
 			
@@ -166,57 +192,63 @@
 			
 			<div class="col_item sponsors">
 			
-				<h3>sponsors</h3>
+				<h3><a href="http://www.homelessworldcup.org/content/sponsors">partners &amp; sponsors</a></h3>
 				
-				<p><a href="/content/sponsors"><img src="/files/nike.gif" alt="Nike" width="50" height="38" border="0"></a> <a href="/content/sponsors"><img src="/files/nip.gif" alt="" width="38" height="38" border="0"></a> <a href="/content/sponsors"><img src="/files/uefa.gif" alt="UEFA" width="33" height="38" border="0"></a></p>
+				<p>
+					<a href="http://www.homelessworldcup.org/content/sponsors"><img src="/files/nike.gif" alt="Nike" width="50" height="38" border="0"></a> <a href="http://www.homelessworldcup.org/content/sponsors"><img src="/files/sponsors/un.gif" width="38" height="38" alt="UN"></a> <a href="http://www.homelessworldcup.org/content/sponsors"><img src="/files/uefa.gif" alt="UEFA" width="33" height="38" border="0"></a><br>
+					<a href="http://www.homelessworldcup.org/content/sponsors"><img src="/files/sponsors/turner.gif" alt="Turner CNN" width="42" height="38" border="0"></a> <a href="http://www.homelessworldcup.org/content/sponsors"><img src="/files/sponsors/pa_sport.gif" alt="PA Sport" width="41" height="38" border="0"></a> <a href="http://www.homelessworldcup.org/content/sponsors"><img src="/files/nip.gif" alt="" width="38" height="38" border="0"></a> 
+				</p>
 			
 			</div>
-		
+			
+					
 		</div>
 	
 		<div id="footer">
 		
 			<ul>
 			
-				<li><a href="/">Home</a></li>
+				<li class="no_div"><a href="http://www.homelessworldcup.org">Home</a></li>
 			
 						
-				<li> | <a href="/content/tournament">Tournament</a></li>
+				<li><a href="http://www.homelessworldcup.org/content/tournament">Tournament</a></li>
 			
 						
-				<li> | <a href="/content/get-involved">Get involved</a></li>
+				<li><a href="http://www.homelessworldcup.org/content/get-involved">Get involved</a></li>
 			
 						
-				<li> | <a href="/content/news">News</a></li>
+				<li><a href="http://www.homelessworldcup.org/content/gallery">Gallery</a></li>
 			
 						
-				<li> | <a href="/content/gallery">Gallery</a></li>
+				<li><a href="http://www.homelessworldcup.org/content/teams">Teams</a></li>
 			
 						
-				<li> | <a href="/content/teams">Teams</a></li>
+				<li><a href="http://www.homelessworldcup.org/content/players">Players</a></li>
 			
 						
-				<li> | <a href="/content/players">Players</a></li>
+				<li><a href="http://www.homelessworldcup.org/content/fans-5">Fans</a></li>
 			
 						
-				<li> | <a href="/content/shop">Shop</a></li>
+				<li><a href="http://www.homelessworldcup.org/content/shop">Shop</a></li>
 			
 						
-				<li> | <a href="/content/press">Press</a></li>
+				<li><a href="http://www.homelessworldcup.org/content/press">Press</a></li>
 			
 						
-				<li> | <a href="/content/organisation">Organisation</a></li>
+				<li><a href="http://www.homelessworldcup.org/content/organisation">Organisation</a></li>
+			
+						
+				<li><a href="http://www.homelessworldcup.org/content/contact-49">Contact</a></li>
 			
 						
 			</ul>
 			
-			<p>Produced by <a href="http://www.plumdigitalmedia.com" target="_blank">Plum Digital Media Ltd</a>. <a href="http://matchbox.plumdigitalmedia.com" target="_blank">Powered by Matchbox - speed: 0.024 seconds</a><br>
+			<p>Produced by <a href="http://www.plumdigitalmedia.com" target="_blank">Plum Digital Media Ltd</a>. <a href="http://matchbox.plumdigitalmedia.com" target="_blank">Powered by Matchbox - speed: 0.106 seconds</a><br>
 			
-			© 2006 Homeless World Cup Organisation. <a href="/content/terms-conditions">Terms &amp; Conditions</a> | <a href="/content/privacy-policy">Privacy Policy</a></p>
+			© 2006 Homeless World Cup Organisation. <a href="http://www.homelessworldcup.org/content/terms-conditions">Terms &amp; Conditions</a> | <a href="http://www.homelessworldcup.org/content/privacy-policy">Privacy Policy</a></p>
 		
 						
-		</div>
-	
+		</div>	
 	</div>
 	
 	<div id="ad_col">
@@ -224,6 +256,11 @@
 		
 
 	</div>
+	
+	<script type="text/javascript">
+		var so = new SWFObject("/flash/nc_160x600.swf", "New Consumer Advert", "160", "600", "6", "#ffffff");
+		so.write("ad_col");
+	</script>	
 
 </div>
 
