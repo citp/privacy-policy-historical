@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onmilwaukee.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210195729id_/http%3A//www.onmilwaukee.com/about/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onmilwaukee.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623014511id_/http%3A//www.onmilwaukee.com/about/privacystatement.html) for the most accurate reproduction.*
 
 # OnMilwaukee.com - Milwaukee's Daily Magazine
 
@@ -35,6 +35,3 @@ When we present information to our advertisers -- to help them understand our au
 A final note: The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes before they take effect.
 
 If you have any questions regarding this statement, please [click here](https://web.archive.org/feedback/index.html).
-
-  
-
