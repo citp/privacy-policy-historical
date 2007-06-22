@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the globalmuonline.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230175026id_/http%3A//globalmuonline.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalmuonline.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622063340id_/http%3A//www.globalmuonline.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Official Global MU Online - Privacy Policy
+
+Updated: May 10, 2007 
 
 **K2 NETWORK PRIVACY POLICY**
 
@@ -10,17 +12,18 @@ K2 Network wants to provide for the safety and security of all of our members wh
 
 Please take a few moments to read this agreement. By accessing the K2 Network website, you agree to accept the terms and conditions of this Privacy Policy and are aware that our policies may evolve in the future as indicated below. 
 
-  * [What web sites and services are covered?](https://web.archive.org/web/20061230175026id_/http%3A//globalmuonline.com/privacy_policy.php#L1)
-  * [What information do we collect and who is collecting it?](https://web.archive.org/web/20061230175026id_/http%3A//globalmuonline.com/privacy_policy.php#L2)
-  * [What about cookies?](https://web.archive.org/web/20061230175026id_/http%3A//globalmuonline.com/privacy_policy.php#L3)
-  * [How do we use the information we collect?](https://web.archive.org/web/20061230175026id_/http%3A//globalmuonline.com/privacy_policy.php#L4)
-  * [Is the information secure?](https://web.archive.org/web/20061230175026id_/http%3A//globalmuonline.com/privacy_policy.php#L5)
-  * [How do I edit my personal information?](https://web.archive.org/web/20061230175026id_/http%3A//globalmuonline.com/privacy_policy.php#L6)
-  * [Do you share information with co-publishers of game developers?](https://web.archive.org/web/20061230175026id_/http%3A//globalmuonline.com/privacy_policy.php#L7)
-  * [Our Commitment to Children's Privacy.](https://web.archive.org/web/20061230175026id_/http%3A//globalmuonline.com/privacy_policy.php#L8)
-  * [Our Commitment to Data Security.](https://web.archive.org/web/20061230175026id_/http%3A//globalmuonline.com/privacy_policy.php#L9)
-  * [Conditions of Use, Notices, and Revisions.](https://web.archive.org/web/20061230175026id_/http%3A//globalmuonline.com/privacy_policy.php#L10)
-  * [Contacting K2 Network.](https://web.archive.org/web/20061230175026id_/http%3A//globalmuonline.com/privacy_policy.php#L11)
+  * [What web sites and services are covered?](https://web.archive.org/web/20070622063340id_/http%3A//www.globalmuonline.com/privacy_policy.php#L1)
+  * [What information do we collect and who is collecting it?](https://web.archive.org/web/20070622063340id_/http%3A//www.globalmuonline.com/privacy_policy.php#L2)
+  * [What about cookies?](https://web.archive.org/web/20070622063340id_/http%3A//www.globalmuonline.com/privacy_policy.php#L3)
+  * [How do we use the information we collect?](https://web.archive.org/web/20070622063340id_/http%3A//www.globalmuonline.com/privacy_policy.php#L4)
+  * [Is the information secure?](https://web.archive.org/web/20070622063340id_/http%3A//www.globalmuonline.com/privacy_policy.php#L5)
+  * [How do I edit my personal information?](https://web.archive.org/web/20070622063340id_/http%3A//www.globalmuonline.com/privacy_policy.php#L6)
+  * [Do you share information with co-publishers of game developers?](https://web.archive.org/web/20070622063340id_/http%3A//www.globalmuonline.com/privacy_policy.php#L7)
+  * [Our Commitment to Children's Privacy.](https://web.archive.org/web/20070622063340id_/http%3A//www.globalmuonline.com/privacy_policy.php#L8)
+  * [Our Commitment to Data Security.](https://web.archive.org/web/20070622063340id_/http%3A//www.globalmuonline.com/privacy_policy.php#L9)
+  * [Conditions of Use, Notices, and Revisions.](https://web.archive.org/web/20070622063340id_/http%3A//www.globalmuonline.com/privacy_policy.php#L10)
+  * [Privacy of Information for the Merchant Center and Affiliate Center.](https://web.archive.org/web/20070622063340id_/http%3A//www.globalmuonline.com/privacy_policy.php#L11)
+  * [Contacting K2 Network.](https://web.archive.org/web/20070622063340id_/http%3A//www.globalmuonline.com/privacy_policy.php#L12)
 
 **What web sites and services are covered by this Privacy Policy?**
 
@@ -28,7 +31,11 @@ We currently operate the following websites, game services and related game foru
 
 [www.k2network.net](http://www.k2network.net/)  
 [www.knightonlineworld.com](http://www.knightonlineworld.com/)  
-[www.globalmuonline.com](http://www.globalmuonline.com/)
+[www.warrock.net](http://www.warrock.net/)  
+[www.globalmuonline.com](http://www.globalmuonline.com/)  
+[www.swordofthenewworld.com](http://www.swordofthenewworld.com/)  
+[http://affiliates.k2network.net](http://affiliates.k2network.net/)  
+[http://merchants.k2network.net](http://merchants.k2network.net/)
 
 From time to time, we may add new sites, game services and related forums that may not be listed above, but they will provide a link to this Policy and will be governed by its terms. 
 
@@ -50,7 +57,7 @@ You are asked to choose a member ID and password when you join our website. Your
 
 **How do I edit my personal information?**
 
-All of your personal information is located in your personal K2 Network profile. Your profile can be edited at any time once you have signed in with your ID and password. Simply click on the "[My Account](https://web.archive.org/web/20061230175026id_/http%3A//globalmuonline.com/my_account.php)" link and make your desired changes. 
+All of your personal information is located in your personal K2 Network profile. Your profile can be edited at any time once you have signed in with your ID and password. Simply click on the "[My Account](https://web.archive.org/web/20070622063340id_/http%3A//www.globalmuonline.com/my_account.php)" link and make your desired changes. 
 
 **Do you share information with co-publishers of game developers?**
 
@@ -71,7 +78,7 @@ Once parental notice and consent has been verified, the information we collect w
 
 In compliance with COPPA, parents and legal guardians may request us to review, delete or stop the collection of the personally identifiable information of their child. You may do so in one of two ways. 
 
-If you would like to review the information collected, please visit "[My Account](https://web.archive.org/web/20061230175026id_/http%3A//globalmuonline.com/my_account.php)" after logging in, or you may contact us by letter or email using the address information provided at the bottom of this page. 
+If you would like to review the information collected, please visit "[My Account](https://web.archive.org/web/20070622063340id_/http%3A//www.globalmuonline.com/my_account.php)" after logging in, or you may contact us by letter or email using the address information provided at the bottom of this page. 
 
 If you request that no further information about your child be collected or used, we will be required to terminate your child's ability to use the K2 Network webpages that require a user to "sign in." 
 
@@ -83,13 +90,17 @@ During sessions in which you give us information such as credit card numbers, we
 
 We will notify our members, by E-Mail or by posting a notice on our website, when we make any significant changes to our Privacy Policy that affect the use of any personally identifiable information we collect. Your continued use of our website will constitute acceptance of the changes and the existing privacy policy. In instances where we ask for your personally identifiable information and we tell you the data we are collecting on that page will be shared with unaffiliated third parties, and in cases where a member of the K2 Network community opts-in to share his/her information with third parties, those disclosures and opt-ins will override anything to the contrary in this Privacy Policy. In addition, K2 Network reserves the right to make non-significant changes to our Privacy Policy that will not affect K2 Network's use of a user's personally identifiable information at any time without any notice to you other than posting any such changes in a revised Privacy Policy on the K2 Network website. We encourage you to periodically review our Privacy Policy to be sure you are familiar with the most current version. The Policy will include the most recent date in which any revision has been made. Please note that this Privacy Policy is also incorporated, by reference, into K2 Network's Terms of Use. 
 
+**Privacy of Information for the Merchant Center and Affiliate Center**
+
+K2 Network is committed to the privacy of information collected by these programs as much as it is committed to the privacy of information related to game customers. The policies in this document apply to both the Merchant Center and Affiliate Center. We may request additional information to confirm the identity of you, your banking institution, or your business. To further protect you, we may also have additional confirmatory requirements for changing your information stored at the Merchant Center and Affiliate Center.
+
 **Contacting K2 Network.**
 
 If you have a privacy concern regarding the K2 Network website or this policy, and if you cannot satisfactorily resolve it through the use of the website, you can write to us by email at [privacy@k2network.net](mailto:privacy@k2network.net). Alternatively, we can be reached by our postal mail address: 
 
 K2 Network, Inc.  
-2967 Michelson drive, Ste G425  
-Irvine, 92612  
+14252 Culver Dr. #A355  
+Irvine, 92604  
 Attention: Director, Privacy 
 
 If you object to any sharing of your personal information that may be permitted under this policy, you may do so by writing us at the above address. We will take reasonable steps to accommodate your requests as they relate to our commercial practices. In some instances, honoring your requests may interfere with or preclude your ability to use the K2 Network website or may require us to terminate our relationship with you. 
