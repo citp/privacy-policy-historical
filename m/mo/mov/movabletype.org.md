@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movabletype.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615195328id_/http%3A//www.sixapart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movabletype.org privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622195228id_/http%3A//www.sixapart.com/privacy) for the most accurate reproduction.*
 
 # Six Apart Privacy Policy
 
