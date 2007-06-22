@@ -1,18 +1,38 @@
-> *The following text is extracted and transformed from the kovideo.net privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614125906id_/http%3A//www.kovideo.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kovideo.net privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622230731id_/http%3A//www.kovideo.net/privacy.asp) for the most accurate reproduction.*
 
-# KOvideo.net Where Music Video Downloads Were Born
+# KOvideo's Privacy Policy
 
-|    
-KOmp3.net is deeply committed to protecting the privacy of Internet users, and more specifically, its own visitors. Below is information outlining our continued support for the responsible management of user information. 
+## KOvideo.net Website Privacy and Security Policy
 
-During the process of delivering content to you, KOmp3.net does not collect any personally identifiable information about you such as name, address, phone number, or e-mail address. However, KOmp3.net does obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your browser type, etc. The information collected by KOmp3.net is used for the purpose of analyzing traffic pattern and readership "hotspot", so that KOmp3.net can deliver better content that suits your need. 
+Thank you for visiting and reviewing our privacy policy. Our privacy policy is clear: We will collect no personal information about you when you visit our website unless you choose to provide that information to us.  
+Here is how we handle information about your visit to our website:
 
-KOmp3.net, as well as most sites on the Internet, use "cookies" to enhance your experience as a pre-joined member. What are cookies and why do we use them? A cookie is a unique number that is provided to you the first time you log into KOmp3.net as a member. This unique number, which is stored in a cookie file on your computer, helps KOmp3.net target content to you. This cookie can help KOmp3.net ensure that only authorized user can get to his/her content of interest. 
+### Information Collected and Stored Automatically
 
-If you do not want the benefit of cookies, there is a simple procedure to manually delete your cookies. Please consult your web browser's Help documentation for more information. 
+If you do nothing during your visit but browse through the website, read pages, or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. We automatically collect and store only the following information about your visit:
 
-If you have any additional questions about KOmp3.net's dedication to consumer privacy, please contact us at [contact *at* komp3](mailto:contact%20%20*at*%20%20KOmp3.net)
+1\. The IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our website;  
+2\. The type of browser and operating system used to access our site;  
+3\. The date and time you access our site;  
+4\. The pages you visit;  
+5\. If you linked to the website from another website, the address of that website.
 
-KOmp3.net use third-party advertising companies to serve ads when you visit our web site. These companies are also deeply committed to protecting privacy of Internet users. 
+We use this information to help us make our site more useful to visitors -- to learn about the number of visitors to our site and the types of technology our visitors use. We do not track or record information about individuals and their visits.
 
-| 
+### If You Send Us Personal Information
+
+If you choose to provide us with personal information by filling out a form (email address or name) and submitting it through our website, we will only use that information to respond to your message and to help us provide the information that you request. We do not collect personal information for any other purposes. The information you provide is not given to any private organizations or private persons. KOvideo.net does not collect or use information for commercial marketing.
+
+### Third Party Advertising
+
+The ads appearing on this Web site are delivered to you by our sponsors. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. 
+
+### Third Party Cookies
+
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
+
+### Cookies
+
+To serve our visitors better and help with automattic login on each visit we may place or recognize a unique cookie on your browser. This cookie will be used only to log you in to the site and it doesn't contain any personal information.
+
+## If you think KOvideo.net has violated any of these privacy policies, please contact us immediately.
