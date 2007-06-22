@@ -1,85 +1,59 @@
-> *The following text is extracted and transformed from the ricoh-usa.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206010627id_/http%3A//ricoh-usa.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ricoh-usa.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622114030id_/http%3A//ricoh-usa.com/privacy.asp) for the most accurate reproduction.*
 
 # Ricoh-USA - Privacy Policy
 
-RICOH recognizes the importance of personal Data. Therefore, RICOH exerts its best efforts to pay attention to protection of your privacy on The RICOH Web Site and strongly adheres to the following policies. 
+Ricoh Americas Corporation and our affiliated companies ("Ricoh") respect your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. Ricoh has established this Privacy Policy so that you can understand how we intend to use and treat your Personal Information, and about the choices you can make in the way your information is collected and used.
 
-**Privacy statement Version 1.1 - December 2002**
+ **Changes to Ricoh's PrivacyPolicy **
 
-Ricoh is committed to protecting your privacy and to technology that gives you the most powerful and secure online experience with the Ricoh Corporation Web Site (the "site"). You can travel through most of the Site without giving us any information about yourself. But sometimes we do need information to provide services that you request. This policy outlines our personal information handling practices. If you give us personal information, we will treat it according to this policy. 
+This Site and our business change constantly. As a result, at times it may be necessary for Ricoh to make changes to this Privacy Policy. Ricoh reserves the right to update or modify this Privacy Policy at any time without prior notice, and any changes will be effective immediately upon posting on this Site. Please review this Policy periodically, and especially before you provide any Personal Information. This Privacy Policy was last updated on April 5, 2007. Your continued use of the Site after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Policy. 
 
-Our policy regarding the safeguard of your information when collected is consistent with the five privacy principles of Fair Information Practices and the U.S. - E.U. Safe Harbor standards. 
+**Types of Information** **we Collect** \- **Personal Information**
 
-**Principles: Awareness, Choice, Accuracy and Access, Security and oversight (Enforcement).**
+Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information. On some of Ricoh's web sites, you can order products or services, make requests, and register to receive materials. The types of Personal Information collected on these pages include such things as name, contact and billing information, transaction, and credit card information. 
 
-**Awareness**
+In general, you can visit Ricoh’s web pages without telling us who you are or revealing any Personal Information about yourself. If you choose not to provide the Personal Information we request, you can still visit most of Ricoh’s Site, but you may be unable to access certain features, offers, and services that involve our interaction with you. 
 
-Ricoh publishes an Online Privacy Statement to make you aware of our privacy policy, practices and of the choices you can make about the way your information is collected and used. 
+When you do provide us with Personal Information, we usually use it to respond to your inquiry, process your order or provide you access to specific information, services or offers. If you chose to have a relationship with Ricoh, such as a contractual or other business relationship, we will naturally continue to contact you in connection with that business relationship including providing you with information about other Ricoh products and promotions that may be of interest to you. We (or a third party on our behalf) may contact you about a Ricoh offer in support of your business needs or to conduct surveys to better understand our customers' needs. 
 
-**Choice**
+**Other Information**
 
-Once you have chosen to provide Ricoh with personal information, meaning any information that may be used to identify an individual, including, but not limited to, a first and last name, email address, a home, postal or other physical address, other contact information, title, birth date, gender, occupation, industry, personal interests, other information when needed to provide a service you requested, Ricoh will maintain that information. 
+We may also collect non personal information including data about products and services that is not associated with a specific personal identity. For example, we may also ask you to provide us with information regarding your interests, demographics, and experiences with our products or services. Providing this additional information is optional. This information may be used to personalize our websites, services or communications and improve our products and services. We may also gather information about your usage of our website, such as pages visited, through the use of cookies or other automated technology. 
 
-Ricoh will not sell, rent, or lease your information to others. Unless we have your permission or are required to do so by law, we will only share the personal data you provide with other Ricoh entities and/or business partners who act on our behalf for the uses described in "how we use it". These other entities and/or suppliers, may include those in the United States and/or any other countries, and are bound by the appropriate confidentiality and data protection agreements. 
+**Use of Cookies**
+
+When you view one of our Sites, we may store some data on your computer in the form of a 
+
+"cookie" to automatically recognize your PC next time you visit. Cookies can help us in many ways, for example, by allowing us to tailor a Web site to better match your interests or to store your password to save you having to re-enter it each time. If you prefer not to receive cookies while browsing our Site, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser, although you may not be able to take full advantage of the Ricoh Site if you do so. 
+
+**Use of Information**
+
+In addition to the uses described above, Ricoh, like many businesses, sometimes hires other companies to help us deliver programs, products, information, and services. Examples include mailing information, maintaining databases, filling an order, providing a service and processing payments. When we retain another non-affiliated company to perform a function of this nature, we seek to provide them with only the information that they need to perform their specific functions and we take reasonable steps to ensure that these third-party service providers are obligated to protect your Personal Information. 
+
+Ricoh and its parent company, Ricoh Company Ltd of Japan, represent a global organization with legal entities, businesses, personnel, and technical systems that cross borders. We may share your Personal Information within the various Ricoh entities and transfer it to countries in the world where we do business. Some countries may provide less legal protection for your information. In such countries Ricoh will still handle information in the manner we describe here. 
+
+Circumstances may arise where, whether for strategic or other business reasons, Ricoh decides to sell, buy, merge or otherwise reorganize businesses in some countries. Such a transaction may involve the disclosure of Personal Information to prospective or actual purchasers, or receiving it from sellers. It is Ricoh’s practice to seek appropriate protection for information in these types of transactions. 
+
+Except as provided in this Policy, Ricoh will not sell, rent or lease your Personal Information to any other third parties without your permission. Ricoh may, however, use your Personal Information to: (i) respond to duly authorized information requests of governmental authorities; (ii) comply with any law, regulation, subpoena, or court order or (iii) help prevent fraud or (iv) to enforce or protect the rights and properties of Ricoh or its affiliates. 
 
 **Accuracy & Access**
 
-In certain areas of the Site access is limited and requires the use of a password or may require you to provide personal data. In those areas, Ricoh makes every effort to keep your personal information accurate and up to date. To protect your privacy and security, we may take reasonable steps to verify your information by using that information to contact you. Allow you access to your information via a web page, so that you may view, update or correct your information. We will provide you a set of instructions on that web page and also allow you to opt-out of the agreement, contract, provide your name, email and/or address and relevant information about subscriptions or registrations you may have with Ricoh. This opt-out function will also enable you to cancel all marketing and support communications and newsletters, including software driver subscriptions. 
+Ricoh respects your desire that your Personal Information be accurately maintained. At your request, we will allow you access to your Personal Information so that you may view, update or correct it. To protect your privacy and security, we may take reasonable steps to verify your identity before granting you access to your data.
 
 **Security**
 
-Ricoh is committed to ensuring the security of your information. To prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. As part of real-time payment processing, Ricoh uses 128 bit encryption and SSL (Secure Socket Layer) certificates when collecting or transferring sensitive data such as credit card information. The service gives you an extra level of protection to guard against credit card fraud. This secure data transfer and validation process ensures the highest level of security available. You are invited to visit the area outlined "data security" to learn more. 
-
-**Oversight**
-
-If you have comments or questions about our privacy policy, please complete the web form, and select "Privacy" as your subject category. To help us process your request, please include all relevant contact information, name of the program(s) and action requested. 
-
-**What we collect**
-
-On some of Ricoh's web sites, you can order products or services, make requests, and register to receive materials. The types of personal information collected on these pages are name, contact and billing information, transaction, and credit card information. We may also ask you to provide information as to your personal or professional interests, demographics, experience with our products, and more detailed contact preferences. This information allows us to better serve your needs and to maximize product improvement possibilities and our customer service efforts. 
-
-**How we use it**
-
-Ricoh uses your information to better understand your needs and provide you with better service. Specifically, we use your information to help you complete a transaction, to communicate back to you, to update you on services and benefits, and also on occasion personalize our web pages for you. Credit card numbers are used solely for payment processing, fraud protection, and are not retained for other purposes. 
-
-From time to time, we may also use this information to contact you for market research or to provide you with marketing information we think would be of particular interest. At a minimum, we will always give you the opportunity to opt-out of receiving such direct marketing or market research contact. We will also follow the "laws of the State of New Jersey" requirements, such as allowing you to opt-in before receiving unsolicited contact, where applicable. Some of our web pages also use cookies and other technologies for data analysis. To learn more about these please see our section outlined, "How we use cookies." 
-
-**Who we share it with**
-
-Ricoh will not sell, rent, or lease your personal information to others. Unless we have your permission or are required to do so by law, we will only share the personal data you provide online with other Ricoh entities and/or business partners who act on our behalf. These entities and/or suppliers, may include those in the United States and/or any other countries, are governed by our privacy policies with respect to the use of States and/or any other countries, are governed by our privacy policies with respect to the use of this data and are bound by the appropriate confidentiality and data protection agreements. In addition data collected online may also be combined with information you provide when you register your ownership of products or service. 
-
-**How to use cookies**
-
-A cookie is a small data file that certain web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited, but the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. Some parts of Ricoh's website uses cookies to track user traffic patterns. We do this in order to determine the usefulness of our website information to our users and to see how effective our navigational structure is in helping users reach that information. If you prefer not to receive cookies while browsing our website, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser, although you may not be able to take full advantage of the Ricoh website if you do so. You do not need to have cookies turned on to use/navigate through many parts of our website, except where access to areas to web pages which require a login and password. 
-
-**Acceptance of Terms**
-
-The services that Ricoh provides to you are subject to "Terms of Use". Ricoh reserves the right to update these terms at any time without notice to you. The most current version of these terms can be reviewed by clicking on the "Terms of Use" hypertext link located at the bottom of our web pages. 
-
-**Description of Services**
-
-Through its network of web sites, Ricoh provides you with access to a variety of resources, including developer tools, download areas, communication forums and product information (collectively "Services"). These Services, including any updates, enhancements, new features, and/or the addition of any new web sites, are subject to the "Terms of Use". 
-
-**Personal and non-commercial use limitation.**
-
-Unless otherwise specified, the Ricoh Corporation web sites are for your personal and non-commercial use. You may not modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, or sell any information, software, products or services obtained from the sites. 
+Ricoh is committed to ensuring the security of your Personal Information. To prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. In certain areas of our Sites, Ricoh uses industry-standard 128-bit SSL-encryption in conjunction with firewalls to enhance the security of data transmissions. SSL encryption is designed to make the information unreadable by anyone but us. This security measure is working when you see either the symbol of an unbroken key or closed lock (depending on your browser) on the bottom of your browser window. While we strive to protect your personal information, we cannot ensure the security of the information while it is in transit to us, and so we urge you to take every precaution to protect your Personal Information when you are on the Internet. We also suggest that you update your browser to the most current software/updates available, change your passwords often, use a combination of letters and numbers, and after transactions close your browser to ensure that no data can be collected once you leave our Site.
 
 **Children and Privacy**
 
-The Site does not knowingly solicit personal information from children. We do not knowingly collect personal information from children under the age of 13. If we learn that we have personal information on a child under the age of 13, we will delete that information from our systems. 
-
-Ricoh encourages parents to go online with their kids. Here are a few tips to help make a child's online experience safer: 
-
-  * Teach kids never to give personal information, unless supervised by a parent or responsible adult. Includes name, address, phone, school, etc. 
-  * Know the sites your kids are visiting and which sites are appropriate. 
-  * Look for Web site privacy policies. Know how your child's information is treated.
-
-Check out the FTC's site(1) for more tips on protecting children's privacy online. 
+Ricoh does not knowingly collect Personal Information from children under the age of 13 and Ricoh does not target the Site to children under 13. 
 
 **Linked Web Sites**
 
-Links to third party web sites from our pages are provided solely as a convenience to you. If you use these links, you will leave the Ricoh web site. RICOH HAS NOT REVIEWED ALL OF THESE THIRD PARTY SITES AND DOES NOT CONTROL NOR IS RESPONSIBLE FOR ANY OF THESE SITES, THEIR CONTENT OR THEIR PRIVACY POLICY. RICOH DOES NOT ENDORSE OR MAKE REPRESENTATIONS ABOUT THEM, OR ANY INFORMATION, SOFTWARE OR OTHER PRODUCTS OR MATERIALS FOUND THERE, OR ANY RESULTS THAT MAY BE OBTAINED FROM USING THEM. IF YOU DECIDE TO ACCESS ANY OF THE THIRD PARTY SITES LINKED FROM THE SITE, YOU DO SO AT YOUR OWN RISK. 
+Links to third party web sites from our pages are provided solely as a convenience to you. If you use these links, you will leave the Ricoh Site. RICOH HAS NOT REVIEWED ALL OF THESE THIRD PARTY SITES AND DOES NOT CONTROL NOR IS RESPONSIBLE FOR ANY OF THESE SITES, THEIR CONTENT OR THEIR PRIVACY POLICY. RICOH DOES NOT ENDORSE OR MAKE REPRESENTATIONS ABOUT THEM, OR ANY INFORMATION, PRODUCTS OR MATERIALS FOUND THERE, OR ANY RESULTS THAT MAY BE OBTAINED FROM USING THEM. IF YOU DECIDE TO ACCESS ANY OF THE THIRD PARTY SITES LINKED FROM THE RICOH SITE, YOU DO SO AT YOUR OWN RISK. 
 
-**Data Security**
+**How to Contact Us**
 
-Ricoh safeguards the security of that data you send us with physical, electronic, and managerial procedures. In certain areas of our websites, Ricoh uses industry-standard 128-bit SSL-encryption in conjunction with firewalls to enhance the security of data transmissions. While we strive to protect your personal information, we cannot ensure the security of the information while it is in transit to us, and so we urge you to take every precaution to protect your personal data when you are on the Internet. We also suggest that you update your browser to the most current software/updates available, change your passwords often, use a combination of letters and numbers, and after transactions close your browser to ensure that no data can be collected once you leave our site. 
+If you have questions or comments about this Privacy Policy, please mail your inquiry to Ricoh Americas Corporation, 5 Dedrick Place, West Caldwell, NJ 07006, Attention: General Counsel.
+
+Copyright © 2001, 2007 Ricoh Americas Corporation. All rights reserved.
