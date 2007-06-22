@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponalbum.com privacy policy that was archived on 2006-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061030140412id_/http%3A//couponalbum.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponalbum.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623001510id_/http%3A//www.couponalbum.com/policy.htm) for the most accurate reproduction.*
 
 # Coupons, Coupon,Free Coupons,Online product deals,coupon codes,discount coupons - Coupon Album
 
