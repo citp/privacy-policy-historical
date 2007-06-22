@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ashworthcollege.edu privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206003852id_/http%3A//www.ashworthcollege.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashworthcollege.edu privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623015436id_/http%3A//www.ashworthcollege.com/privacy.html) for the most accurate reproduction.*
 
-# Ashworth College - Privacy Policy
+# Ashworth University - Privacy Policy
 
 ## Introduction
 
@@ -30,7 +30,7 @@ We occasionally make our student list, including student names and addresses, av
 
 When we obtain personal information from you, we will provide you with the opportunity to opt-out of any third party disclosure of that information or its use in ways unrelated to the operation of the website. If you later decide to opt-out of such disclosures, you may do so by contacting us at the following address:
 
-**Ashworth College**  
+**Ashworth University**  
 Attn: Marketing Manager  
 430 Technology Park Norcross, Georgia 30092  
 e-mail: [marketingmanager@ashworthcollege.com](mailto:marketingmanager@ashworthcollege.com)   
