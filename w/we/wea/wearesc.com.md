@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wearesc.com privacy policy that was archived on 2006-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060605083419id_/https%3A//secure.scout.com/a.z%3Fs%3D143%26p%3D5%26c%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wearesc.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622101028id_/https%3A//secure.scout.com/a.z%3Fs%3D143%26p%3D5%26c%3D10) for the most accurate reproduction.*
 
 # Scout.com: Membership
 
