@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ellusionist.com privacy policy that was archived on 2006-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061026152823id_/http%3A//www.ellusionist.com/Privacy-Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ellusionist.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622062020id_/http%3A//www.ellusionist.com/Privacy-Policy.htm) for the most accurate reproduction.*
 
 # Ellusionist Privacy Policy
 
