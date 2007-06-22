@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the scribendi.com privacy policy that was archived on 2006-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061026074806id_/http%3A//www.scribendi.com/privacy.en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scribendi.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622205025id_/http%3A//www.scribendi.com/privacy.en.html) for the most accurate reproduction.*
 
 # Privacy | Scribendi.com
 
 Because your privacy is important to us, Scribendi.com operates by these principles:
 
-  1. The Scribendi.com web site ("Site") is maintained by Scribendi Inc., 81 St. Michael Ave., Chatham, Ontario, N7M 3E7. Scribendi Inc. is a company federally incorporated in Canada.
+  1. The Scribendi.com web site ("Site") is maintained by Scribendi Inc., 405 Riverview Drive, Suite 201, Chatham, Ontario, N7M 5J5. Scribendi Inc. is a company federally incorporated in Canada.
 
   2. Any personal information you provide to Scribendi is regulated and protected by the laws of the Province of Ontario, Canada, including Canada's _Personal Information Protection and Electronic Documents Act._
 
@@ -17,7 +17,7 @@ Because your privacy is important to us, Scribendi.com operates by these princip
 
   * When you visit our site, our server collects information ("server logs") regarding the pages you request, your IP address, and whether the server was able to successfully send you the page requested. These server logs are used for diagnostic and maintenance purposes, and to produce aggregated statistics which we may use to monitor and improve our services.
 
-  * Your web browser may accept a "session cookie" which allows the web server to associate your requests with each other and distinguish them from the requests of other visitors. The "session cookie" is a random string of letters and numbers and contains no personally identifying information. It expires and is deleted by your browser as soon as you navigate away from the site.
+  * Your web browser may accept a "session cookie" which allows the web server to associate your requests with each other and distinguish them from the requests of other visitors. The "session cookie" is a random string of letters and numbers and contains no personally identifying information.
 
   * Your web browser sends information "request headers" to any site you visit to let the site know what language(s) you prefer to see the site displayed in. You can control this information using the options or preferences settings in your browser software. This information is used only to serve the current request, and for system diagnostics.
 
@@ -68,7 +68,7 @@ This information is used to fulfill your order, to allow you to track your order
 
 ### Providing Feedback
 
-  * Your feedback is valuable. We like to know when we've done well, and when we can do better. Feedback you provide will be correlated with information regarding the order the feedback relates to, and we may contact you to respond to the feedback you provide.
+  * Your feedback is valuable. We like to know when we've done well, and when we can do better. Feedback you provide for completed orders will be correlated with information regarding the order the feedback relates to, and we may contact you to respond to the feedback you provide.
 
   * You may choose to permit us to publish feedback you provide in the testimonials section of our site and elsewhere. If you permit us to do this, we will only use the first name or nickname you provide, and will edit your comments to remove other personally identifying information.
 
@@ -88,9 +88,17 @@ This information is used to fulfill your order, to allow you to track your order
 
 
 
+### Statistical Analysis
+
+  * We may from time to time engage the services of third parties to store and process server logs and statistical data on our behalf. When we do so, those third parties act as limited agents of Scribendi Inc., and are bound by this privacy policy.
+
+
+
+
 ### Legal Disclosure
 
   * We do not share personal information with any third parties except as disclosed in this policy. We may be required to disclose any personal information we hold as a result of a legitimate request or warrant, or for other reasons required or allowed by applicable laws. If we believe that a crime, tort or other illegal act, including payment fraud, has taken place or is about to take place, we may voluntarily disclose relevant personal information to the police, courts, or other competent authorities.
+
 
 
 
@@ -105,9 +113,9 @@ This information is used to fulfill your order, to allow you to track your order
 
 ### Recourse and Dispute Resolution
 
-  * Any personal information you provide to Scribendi is regulated by Canada's _Personal Information Protection and Electronic Documents Act._ You have the right to know what personal information Scribendi holds about you, and to request correction of any errors or omissions therein. We reserve the right, as required by law, to require additional evidence of your identity in order to ensure that personal information we hold is disclosed only to you. Please direct all such inquiries, by post and enclosing a copy of a document which confirms your identity (i.e. your driving license), to: _The Data Protection and Privacy Officer, Scribendi Inc., 81 St Michael Ave., Chatham, Ontario, N7M 3E7, Canada_.
+  * Any personal information you provide to Scribendi is regulated by Canada's _Personal Information Protection and Electronic Documents Act._ You have the right to know what personal information Scribendi holds about you, and to request correction of any errors or omissions therein. We reserve the right, as required by law, to require additional evidence of your identity in order to ensure that personal information we hold is disclosed only to you. Please direct all such inquiries, by post and enclosing a copy of a document which confirms your identity (i.e. your driving license), to: _The Data Protection and Privacy Officer, Scribendi Inc., 405 Riverview Drive, Suite 201, Chatham ON N7M 5J5, Canada_.
 
 
 
 
-Thank you for reading our Privacy Policy! If you have any questions or concerns, please [ask us](https://web.archive.org/contact.php). 
+Thank you for reading our Privacy Policy. If you have any questions or concerns, please [ask us](https://web.archive.org/contact). 
