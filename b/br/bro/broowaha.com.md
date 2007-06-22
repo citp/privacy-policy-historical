@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the broowaha.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113110635id_/http%3A//www.broowaha.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broowaha.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622211912id_/http%3A//www.broowaha.com/privacy.php) for the most accurate reproduction.*
 
-# BrooWaha Los Angeles: Make your city live!
+# BrooWaha Nation: Privacy policy
 
 ## Privacy Policy
 
