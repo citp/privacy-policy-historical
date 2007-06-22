@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blacks.co.uk privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216125752id_/http%3A//www.blacks.co.uk/blacks.storefront/PrivacyandSecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blacks.co.uk privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622194629id_/http%3A//www.blacks.co.uk/blacks.storefront/PrivacyandSecurity) for the most accurate reproduction.*
 
 # Blacks - The Outdoor Experts
 
