@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the duckbrand.com privacy policy that was archived on 2006-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060528041346id_/http%3A//www.duckbrand.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duckbrand.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622041447id_/http%3A//www.duckbrand.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Duck Tape Products | Privacy Policy
 
 Privacy Policy
 
-Thank you for visiting the Henkel Consumer Adhesives ("Henkel CA") web sites, including but not limited to henkelca.com, duckproducts.com, loctiteproducts.com, lepageproducts.com, stickwithpl.com, osiproseries.com, polyseamseal.com, and ducktapeclub.com. Below you will find information about our commitment to ensuring the privacy of your personally identifiable information. We have done our best to ensure the privacy and security of your transactions with us.
+Thank you for visiting the Henkel Corporation ("Henkel") web sites, including but not limited to henkelca.com, duckproducts.com, loctiteproducts.com, lepageproducts.com, stickwithpl.com, osiproseries.com, polyseamseal.com, and ducktapeclub.com. Below you will find information about our commitment to ensuring the privacy of your personally identifiable information. We have done our best to ensure the privacy and security of your transactions with us.
 
 If you have any questions about this privacy statement, or the content or practices of our web site, you can contact us directly at:
 
-Henkel Consumer Adhesives, Inc.  
+Henkel Corporation  
 Web Site Privacy  
 32150 Just Imagine Drive  
 Avon, Ohio 44011
@@ -21,7 +21,7 @@ Our web sites may gather navigational information about where you go on our web 
  **Disclosure of Personal Information**  
 We do not share, sell, rent or barter any identifiable personal information to any third party without your permission.
 
-Any information you provide to us at this site when you establish membership, update an account, shop online or request information (e.g. name, address, e-mail address, telephone number and credit card information), is maintained in private files on our secure web server and our internal systems. This information is used to enable our web sites to deliver services to you. To ensure compliance with federal law, Henkel CA's web sites do not collect or maintain information provided by children under the age of 14, unless parental consent is obtained.
+Any information you provide to us at this site when you establish membership, update an account, shop online or request information (e.g. name, address, e-mail address, telephone number and credit card information), is maintained in private files on our secure web server and our internal systems. This information is used to enable our web sites to deliver services to you. To ensure compliance with federal law, Henkel's web sites do not collect or maintain information provided by children under the age of 14, unless parental consent is obtained.
 
 If you are visiting our web sites from a location outside of the U.S., your connection will be through and to servers located in the U.S. Your orders placed through DuckTapeClub.com will be accepted and fully processed in and shipped from the U.S. and all information you provide will be processed and securely maintained in our web server and internal systems located within the U.S.
 
@@ -39,30 +39,30 @@ Your contact information is transmitted using Secure Sockets Layer (SSL) technol
  **Updating Personal Information**  
 We prefer to keep your personal information accurate and up-to-date. To do this, we provide you with the opportunity to update or modify your personal information including billing and shipping information by logging into Your Account.
 
- **Henkel CA Web Site E-Mail**  
+ **Henkel Web Site E-Mail**  
 When you submit feedback or questions via e-mail, or contact us for information about our web site, we will request your name and e-mail address. We use this information solely to respond to your inquiries.
 
 DuckTapeClub.com E-Mail allows you to receive exclusive information about special offers, events, contests, sweepstakes, new products and much more. If you're not already registered, simply complete our "Join The Club" form to receive these special messages. If at any time you would like to stop future delivery of DuckTapeClub.com E-Mail, please follow the removal instructions located at the bottom of each message. Asking to be removed from DuckTapeClub.com E-Mail will not prevent you from receiving e-mail confirmations for any order you place at DuckTapeClub.com.
 
  **Surveys & Contests**  
-From time to time, Henkel CA offers surveys or promotions, such as sweepstakes and contests. Participation in these contests or promotions is completely voluntary and the user therefore has a choice whether or not to disclose this information. When you enter a contest or other promotional feature, we may ask for your name, address, demographic information, phone number and e-mail address. Contest information will be used to conduct drawings, notify the winners and award prizes. Survey information will be used to monitor or improve the site.
+From time to time, Henkel offers surveys or promotions, such as sweepstakes and contests. Participation in these contests or promotions is completely voluntary and the user therefore has a choice whether or not to disclose this information. When you enter a contest or other promotional feature, we may ask for your name, address, demographic information, phone number and e-mail address. Contest information will be used to conduct drawings, notify the winners and award prizes. Survey information will be used to monitor or improve the site.
 
  **Sweepstakes**  
 The Sweepstakes entry data that you provide to our web sites, including your name, address, telephone numbers and email address, will be used for your entry into, and the administration of this Sweepstakes. DuckTapeClub.com may also use this information to send you periodic mailings of promotional or other material. This information will not be shared with other organizations for commercial purposes but may be used by DuckTapeClub.com or DuckTapeClub.com's authorized agencies for internal marketing analysis.
 
  **Links to Other Sites**  
-Our sites may contain links to other sites. Henkel CA is not responsible for the privacy practices or the content of other web sites.
+Our sites may contain links to other sites. Henkel is not responsible for the privacy practices or the content of other web sites.
 
 We use industry-standard SSL authentication to guarantee the confidentiality and privacy of online transactions through our site. SSL authentication and 128-bit encryption (scrambling) ensures that your online transaction and credit card information is safe from third party interception.
 
 Please note that email is not encrypted and is not considered a secure means of transmitting credit card numbers.
 
  **Disclosure to Authorities**  
-Henkel CA cannot guarantee that all private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. We reserve the right and may be forced to disclose any and all information to government bodies or government officials or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. Accordingly, you authorize Henkel CA to disclose any and all information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us to legal liability.
+Henkel cannot guarantee that all private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. We reserve the right and may be forced to disclose any and all information to government bodies or government officials or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. Accordingly, you authorize Henkel to disclose any and all information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us to legal liability.
 
-Further, you authorize Henkel CA to disclose your password, name, street address, city, state, zip code, country, phone number, email, and company as we, in our sole discretion, believe necessary or appropriate in connection with an investigation of fraud, gray market, intellectual property infringement, piracy, or other unlawful activity. Specifically, this includes exchanging such information with other companies and organizations for fraud protection and credit risk reduction. Henkel CA cooperates with law enforcement inquiries and other third parties to enforce laws, intellectual property and other rights.
+Further, you authorize Henkel to disclose your password, name, street address, city, state, zip code, country, phone number, email, and company as we, in our sole discretion, believe necessary or appropriate in connection with an investigation of fraud, gray market, intellectual property infringement, piracy, or other unlawful activity. Specifically, this includes exchanging such information with other companies and organizations for fraud protection and credit risk reduction. Henkel cooperates with law enforcement inquiries and other third parties to enforce laws, intellectual property and other rights.
 
  **Your Consent**  
-By using any of Henkel CA's web sites and the content and services available to you on our sites, you consent to our collection and use of your information as described above. If we decide to change our privacy policy, we will post the changes on this page so that you are always informed of our policies.
+By using any of Henkel's web sites and the content and services available to you on our sites, you consent to our collection and use of your information as described above. If we decide to change our privacy policy, we will post the changes on this page so that you are always informed of our policies.
 
 | 
