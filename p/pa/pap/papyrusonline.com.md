@@ -1,55 +1,53 @@
-> *The following text is extracted and transformed from the papyrusonline.com privacy policy that was archived on 2006-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061023094051id_/http%3A//papyrusonline.com/legal/security.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papyrusonline.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622203216id_/http%3A//www.papyrusonline.com/category/privacy%2B%26%2Bsecurity.do) for the most accurate reproduction.*
 
-# PapyrusOnline Home Page
+# Privacy & Security - Papyrus
 
-#### Security and Privacy
+Thank you for visiting the Papyrus web site. Papyrus takes your privacy seriously and is committed to safeguarding your privacy online. Because we do gather certain types of information from visitors to our web site, we have developed a privacy policy to help our visitors understand the terms and conditions surrounding the collection and use of information. This policy only applies to visitors accessing our web site from the United States. By visiting our web site you are accepting the practices described in this policy. 
 
-## Customer Account
+  * Papyrus collects information online primarily to provide our visitors with a more relevant experience on our web site. When doing so, we will make every reasonable effort to avoid excessive or irrelevant collection of data. 
+  * Papyrus will take reasonable physical, electronic and managerial measures to safeguard and secure any information you provide to us (e.g., data will be stored in protected databases on secured servers with restricted access). 
+  * Papyrus will honor its customers’ requests to not receive future communication from Papyrus 
 
-When you create a new user account at papyrusonline.com, we collect your name and e-mail address. If you place an order for a product that required payment, we also collect your billing address, credit card information, and in some cases, telephone number. This information will be used to process orders and if necessary, to contact you regarding the status of your orders. With your permission, this information may be used by Schurman Fine Papers (hereinafter, "SFP") and/or Papyrus Franchise Corporation (hereinafter "PFC"), (collectively, "Companies") to contact you for promotional purposes. We do not currently share your customer contact information with third parties for promotional purposes, and we will only do so in the future with your prior approval.
 
-## Secure and Private Purchases
 
-The Companies guarantees safe on-line shopping, so you never have to worry about credit card safety. This means you pay nothing if unauthorized charges are made to your card as a result of shopping at papyrusonline.com. All on-line purchases made at papyrusonline.com are protected by the Fair Credit Billing Act of 1993. Under the Fair Credit Billing Act, your bank cannot hold you liable for more than $50 of fraudulent charges. The Companies will cover the full $50 liability for you if the unauthorized use of your credit card resulted, through no fault of your own, from purchased made at papyrusonline.com while using the secure server. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with the Fair Credit Billing Act reporting rules and procedures. 
+Generally, you may visit the Papyrus web site without revealing personal information about yourself. When you visit our web site, however, we may track your Internet domain address, any search engine you may have used to locate the web site, and we may track certain navigational information about where you go on our web site. This information enables us to determine which areas of the web site are most frequently visited and helps us tailor the web site to the needs and interests of our online visitors. You will remain anonymous unless you specifically request otherwise. When you purchase a product online, we ask for your name, mailing address, phone number, and your credit card number to complete your order. In some cases, we may use this information to personalize your future experience with Papyrus. For example, if your zip code indicates you live near one of our stores, we may notify you about an upcoming event (such as a sale or workshop). If you do not wish to be contacted, please let us know and we will remove your name from our email list immediately (see Opt-Out Procedures below).   
 
-Surveys with more than 16 million customers who have shopped on the Internet have been conducted and uncovered not a single documented case of credit card fraud. 
 
-## Purchase History
+We occasionally share the postal addresses of customers with our affiliated companies and select partner companies whom we deem trustworthy. These partners may contact you with products or services that may be of interest to you. 
 
-The Companies keep information about your purchases to provide you with a convenient, easy way to remember what you've ordered in the past. Your previous orders may be used to present you with the most relevant products and gift ideas and to provide you with a better overall user experience. Your individual order information will not be provided to third parties for promotional purposes. Purchase history information may be disclosed to third parties in aggregate (i.e. group basis), however, this information will not be traceable to any particular customer.
+If the policy changes, Papyrus will notify those customers who have opted in of the change and provide them with the opportunity to opt out. 
 
-## Use of Cookies
+Papyrus may disclose specific personal information based on a good-faith belief that such disclosure is necessary to comply with or conform to the law (subpoenas, warrants) or that such disclosure is necessary to protect the users of the web site or the public. 
 
-"Cookies" is a technology that can be used to provide you with tailored information from a web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your computer's hard drive. Our cookies contain personal identification information and enable us to provide features to improve your shopping experience such as storing items in your shopping cart between visits. You may set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. You must have cookies enabled in your browser settings to complete a purchase at papyrusonline.com.
+If you shop at one of our affiliates, we share information so that our affiliates can communicate with you by postal mail about their products or services that that may be of interest to you. Our affiliates have privacy policies that are similar and consistent with our own. 
 
-## Denial of Promotional Information
+Further, in the event Papyrus sells or transfers a particular portion of its business assets, consumer information may be one of the business assets transferred as part of the transaction. If substantially all of the assets of Papyrus are acquired, consumer information may be transferred as part of the acquisition. 
 
-When you establish a papyrusonline.com account, your account automatically indicates that you want to receive promotional information from the Companies regarding news about the Companies products, services and events. If you do not wish to be contacted by the Companies for promotional purposes, you may indicate your preference by contacting the Companies at the address below or by sending an electronic message through the link on the Web site. 
+Papyrus may send communications to you on the basis of the information you provide to us through email or postal mail. You may always specifically request not to be contacted (see Opt-Out Procedures below). 
 
-## Confidentiality of Electronic Messages
+Papyrus strives to protect the privacy of children. Children under the age of 13 should obtain parental consent before accessing this web site. We never intend to collect personal information from children under 13. 
 
-Your electronic greeting messages are always considered confidential and securely protected. Electronic greetings will only be accessed when in rare circumstances it is necessary for the purpose of completing your order.
+The personal data record created through your registration with this web site can only be accessed with the unique password associated with that record. To protect the integrity of the information contained in this record you should not disclose or otherwise reveal your password to third parties. 
 
-## Use of IP Addresses
+You may always opt-out of receiving future communications from Papyrus by either (a) replying to an email message you receive and placing the word “unlist” in the subject line, or (b) making a request through the web site. 
 
-An IP address is a number that is assigned to your computer when you are using your browser on the Internet. The servers that serve our web site automatically identify your computer by its IP address. IP addresses may be logged, but the addresses are not linked to individual customer accounts nor are they used in any other way to personally identify our customers. 
+If you request not to receive information from Papyrus, it may take several weeks to have your name removed from our files. Your request not to receive information will not preclude us from contacting you regarding a question we have about your purchase. 
 
-## Privacy at Connectable Sites
+Papyrus may use a browser feature known as a “cookie.” Cookies are small files placed on your hard drive that assist Papyrus in providing you with a customized browsing experience. Papyrus uses cookies to provide you with the convenience of not having to reenter information, such as user Ids and passwords, multiples times during your visits to the Papyrus web site. Cookies can also be used to help Papyrus provide you with information targeted to your interests, based upon your prior browsing on the web site. The “help” section of the toolbar on most browsers will inform you on how to prevent your browser from accepting new cookies, how to have the browser notify you upon the receipt of a new cookie, or how to disable the use of the cookies completely. 
 
-The Companies may enter into future agreements with other Web sites to provide additional Content and information and, while we carefully select the sites to which we may link, we are not responsible for the privacy practices or the content of these Web sites.
+The Papyrus web site may contain links to other sites. Papyrus is not responsible for the privacy practices or the content of such sites. To help ensure your privacy, Papyrus recommends that you review the privacy policy of any site you visit. 
 
-## Privacy Policy Changes
+If you are visiting this web site from a location outside the United States, your connection will be through and to servers located in the United States. Any information you provide during your visit will be processed and maintained on our web server and other internal systems located within the United States. 
 
-Our privacy policy is regularly reviewed to make sure we continue to serve the privacy interests of our customers. We reserve the right to change and update the privacy policy and these changes will be posted on our Web site. We encourage you to visit this page from time to time to ensure you are aware of any changes we may have made.
+We use state-of-the-art software to encrypt your credit card numbers and personal information automatically while they are in transit over the Internet, preventing a third party from viewing this information. The instant you reach our checkout page, a padlock symbol at the bottom of your screen indicates that you have entered our secure shopping zone. If you do not see the padlock symbol at the bottom of your screen, please call our customer service number at 1-800-789-1649 to complete your transaction. An internal security system, known as a firewall, protects information about our customers from being viewed by a third party. Information access is restricted within our offices as well. Personal information collected about our customers is only viewable by employees who need the information to perform a specific job (such as a billing clerk or customer service representative), and the personal information is protected by a random password. 
 
-## Contact Information
+Unfortunately, however, due to the nature of the Internet the privacy and security of every transmission over the Internet cannot be absolutely guaranteed. While we strive to protect your personal information, we cannot guarantee the privacy and security of the information you transmit to our web site. 
 
-If you have any questions at any time regarding our privacy policy, you may contact papyrusonline.com by using the Contact Us link in the navigation bar or by sending a note to the following address:
+We reserve the right to change, modify, or amend this policy at any time. If amended, the effective date of the policy amendment will always be posted at the beginning of this policy. The new policy will replace any prior policies to the extent that there are any inconsistencies. Use of this web site after modification, implies that you consent to the policy as amended. 
 
-Papyrus Franchise Corporation  
-Marketing Department  
-500 Chadbourne Road  
-Fairfield, CA 94533 
+If you have questions concerning this privacy policy or the practices of these sites, you may contact us at: 
 
-  
-
+| By Email: | [customerservice@papyrusonline.com](mailto:customerservice@papyrusonline.com)  
+---|---  
+By Phone: | 1-800-789-1649  
+By Regular U.S. Mail: | Papyrus Customer Service, 500 Chadbourne Rd, Box 6030, Fairfield, CA 94533
