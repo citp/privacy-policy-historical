@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fpl.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212215615id_/http%3A//www.fpl.com/contents/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fpl.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622053409id_/http%3A//www.fpl.com/contents/privacy_policy.shtml) for the most accurate reproduction.*
 
 # FPL | Privacy Policy
 
@@ -6,11 +6,11 @@ Dispute resolution and privacy information | Who can use the online forms | Data
 
 At FPL, we take steps to ensure the privacy of your business transactions.
 
-Our home page on the Web is located at [www.FPL.com](http://www.fpl.com/). This is the full text of our privacy policy. Customers who do not wish to receive FPL promotional e-mails on new products and services may [click here to notify us](https://app.fpl.com/optout/OptOutHtmlController?command=update). 
+Our home page on the Web is located at [www.FPL.com](http://www.fpl.com/). This is the full text of our privacy policy. Customers who do not wish to receive FPL promotional e-mails on new products and services may [click here to notify us](http://app.fpl.com/sowww2/SowwwHtmlController?command=emailPrefUpdate). 
 
 We may send out periodic e-mails informing customers of offers related to a service they requested. Customers will not be able to choose to unsubscribe to these mailings, as they are considered an essential service.
 
-We invite you to contact us if you have questions about this policy. You may [contact us by e-mail](https://web.archive.org/web/20061212215615id_/http%3A//www.fpl.com/contact/index.shtml#E-mail) or standard mail at the following address: 
+We invite you to contact us if you have questions about this policy. You may [contact us by e-mail](https://web.archive.org/web/20070622053409id_/http%3A//www.fpl.com/contact/index.shtml#E-mail) or standard mail at the following address: 
 
 Florida Power & Light   
 PO Box 025576   
@@ -18,7 +18,7 @@ Miami, FL 33102
 
 ## Dispute resolution and privacy information
 
-**Customer Service** : To contact us, [visit us on the Web](https://web.archive.org/web/20061212215615id_/http%3A//www.fpl.com/contact/index.shtml#E-mail). FPL will reply to your e-mail within four business days of receiving it (Monday through Friday, excluding holidays). 
+**Customer Service** : To contact us, [visit us on the Web](https://web.archive.org/web/20070622053409id_/http%3A//www.fpl.com/contact/index.shtml#E-mail). FPL will reply to your e-mail within four business days of receiving it (Monday through Friday, excluding holidays). 
 
 **Federal Trade Commission** : The Federal Trade Commission is educating consumers and businesses about the importance of personal information privacy. Read more about their efforts, what they've learned, and what you can do to protect the privacy of your personal information. 
 
@@ -89,7 +89,7 @@ The FPL Web site is secure. We use industry-standard encryption technologies whe
 
 You must keep your user ID and password confidential and notify FPL immediately if you detect a security breach.
 
-For more information on Internet browser settings affecting our security features, visit [Recommended Browser Settings](https://web.archive.org/web/20061212215615id_/http%3A//www.fpl.com/faqs/settings.shtml).
+For more information on Internet browser settings affecting our security features, visit [Recommended Browser Settings](https://web.archive.org/web/20070622053409id_/http%3A//www.fpl.com/faqs/settings.shtml).
 
 ## Confidentiality
 
