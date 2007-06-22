@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the annegeddes.com privacy policy that was archived on 2006-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061103012442id_/http%3A//www.annegeddes.com/home/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the annegeddes.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622113239id_/http%3A//www.annegeddes.com/home/legal/privacy.aspx) for the most accurate reproduction.*
 
 # Designer baby clothes and baby pictures by Anne Geddes
 
