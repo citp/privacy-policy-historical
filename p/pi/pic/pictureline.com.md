@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pictureline.com privacy policy that was archived on 2006-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061023021352id_/http%3A//www.pictureline.com/mail/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pictureline.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623012954id_/http%3A//www.pictureline.com/mail/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ pictureline prides itself on integrity in our business practices. We will never 
 
 **Our Promise.**
 
-pictureline.com does not send spam. Email is only sent out to members who have opted in on our website or in our retail store. 
+pictureline.com does not send spam. Email is only sent out to members who have opted in on our website or in our retail store. We do not purchase or sell email lists of any kind.
 
 pictureline.com will send out a confirmation email when you subscribe to the newslist(s). This email will contain a link to confirm your subscription to the picturelineNews or other related news.
 
@@ -19,12 +19,10 @@ Each email that is sent from pictureline.com will include, at or near the bottom
 pictureline.com sends out a monthly newsletter, entitled picturelineNews. This newsletter is delivered near the first of the month, and will be distributed to you if:
 
 \- you request to be added to the pictureline Mailing List  
-\- you request a price from pictureline with the "Get a Better Price" button  
 \- you Check the box in the shopping cart which reads "Add me to your Email List  
 \- you sign up for a product update list  
 \- you add your name manually in our retail store with a pictureline sales associate  
-\- you request tickets to a pictureline sponsored event  
-\- you submit a question to askRodger™ ( see below )
+\- you request tickets to a pictureline sponsored event
 
 The monthly newsletter will contain news on new products, products updates, price changes at pictureline, and general information relating to traditional photography, digital photography, and motion picture photography.
 
