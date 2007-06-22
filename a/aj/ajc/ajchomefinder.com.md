@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ajchomefinder.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230070956id_/http%3A//www.ajc.com/search/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ajchomefinder.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622033032id_/http%3A//www.ajc.com/search/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
 
 # Welcome to AJC! | ajc.com
 
@@ -78,7 +78,7 @@ Back to top ****
 
 **OPTING OUT**
 
-If you register with us, you will have the opportunity to review, update, or delete the information you have provided us at any time (except, of course, any information that we do not store). If you remove your registration information completely, you may not be able to continue using certain services that require registration (such as free email). You agree that we may use your information to contact you for customer service, to inform you of important changes or additions to our site or the services offered over our site and to send you administrative notices or any communications relevant to your use of our site. If you do not wish to receive these notices, please email us at [optout@ajc.com](mailto:optout@ajc.com). 
+If you register with us, you will have the opportunity to review, update, or delete the information you have provided us at any time (except, of course, any information that we do not store). If you remove your registration information completely, you may not be able to continue using certain services that require registration (such as free email). You agree that we may use your information to contact you for customer service, to inform you of important changes or additions to our site or the services offered over our site and to send you administrative notices or any communications relevant to your use of our site. If you do not wish to receive these notices, please email us at [our optout page for ajc.com communication](http://bridge.caspio.net/dp.asp?AppKey=C6B1C9B2H0C6B1C9B2H0). 
 
 If you have subscribed to one of our email newsletters, you will always have the opportunity to unsubscribe from future mailings (for example, by clicking on an unsubscribe link in an email newsletter or by going back to our site). 
 
