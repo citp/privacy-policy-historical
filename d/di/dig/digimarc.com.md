@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digimarc.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207034008id_/http%3A//www.digimarc.com/corp/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digimarc.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622095817id_/http%3A//www.digimarc.com/corp/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Digimarc
 
@@ -6,7 +6,7 @@
 
 For further information, please read the Privacy Policy below.
 
-This statement discloses the privacy practices for the Digimarc web properties and related web-based services. If you have questions or concerns regarding this statement, you should first contact the webmaster [via our online form](https://web.archive.org/web/20061207034008id_/http%3A//www.digimarc.com/corp/contact.asp). For additional concerns, please contact [Digimarc Corporation](https://web.archive.org/web/20061207034008id_/http%3A//www.digimarc.com/corp/contact.asp) or call toll-free +1 800 344 4627.
+This statement discloses the privacy practices for the Digimarc web properties and related web-based services. If you have questions or concerns regarding this statement, you should first contact the webmaster [via our online form](https://web.archive.org/web/20070622095817id_/http%3A//www.digimarc.com/corp/contact.asp). For additional concerns, please contact [Digimarc Corporation](https://web.archive.org/web/20070622095817id_/http%3A//www.digimarc.com/corp/contact.asp) or call toll-free +1 800 344 4627.
 
 Subscription Registration Program  
 Photographers, web designers, and other people and organizations involved in image-processing can subscribe to digital watermark embedding and related services through the Digimarc Corporate website and its associated sites by obtaining a Digimarc ID. In order to sign up for a Digimarc ID under the Digimarc Watermark Subscription Registration Program, you must first complete the registration form. During registration you are required to give your contact information (such as name, country and email address) and, if a fee is required, payment information (such as credit card number and expiration date). This information is used to contact you about the services on our site for which you have expressed interest, for billing purposes and to obtain your feedback. It is optional for you to provide demographic information (such as profession, digital camera ownership, embedding tool used) and unique identifiers (such as URL linked to Digimarc). You may update your information in the Member subscription area.
@@ -48,5 +48,11 @@ Personally Identifiable Information and/or Third Party Personally Identifiable I
 
 Digimarc reserves the right to change its privacy policy. If we change our privacy practices, the changes will not relate to previously collected data. If we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our website notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.
 
-Copyright ©2006, Digimarc Corporation  
+Copyright ©2007, Digimarc Corporation  
 PRIVACY POLICY UPDATED 05-20-05 
+
+Need More Information?
+
+[](https://web.archive.org/web/20070622095817id_/http%3A//www.digimarc.com/corp/contact.asp "Contact Us Today!")
+
+Related Links
