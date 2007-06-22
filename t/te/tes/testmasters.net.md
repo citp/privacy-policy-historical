@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the testmasters.net privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218141927id_/http%3A//www.testmasters180.com/common/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testmasters.net privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622225903id_/http%3A//www.testmasters180.com/common/privacy.aspx) for the most accurate reproduction.*
 
 # TestMasters Privacy Policy
 
@@ -46,6 +46,6 @@ The TestMasters LSAT Course was created and written by Robin Singh.
 Our company offers services under the name TestMasters everywhere except Texas.  
 In Texas our company offers services under the name ScorePerfect.
 
-© 1991-2006 TestMasters. All rights reserved.  
+© 1991-2007 TestMasters. All rights reserved.  
 1620 26th Street · Suite 1000 North  
 Santa Monica, CA  90404
