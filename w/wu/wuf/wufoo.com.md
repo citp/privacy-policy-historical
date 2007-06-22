@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wufoo.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111233416id_/http%3A//wufoo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wufoo.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622193506id_/http%3A//wufoo.com/privacy) for the most accurate reproduction.*
 
-# Wufoo - HTML Form Builder · Privacy Policy
+# Wufoo - HTML Form Builder » Privacy Policy
 
 ### Your Data
 
