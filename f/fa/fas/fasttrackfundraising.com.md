@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the fasttrackfundraising.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206031047id_/http%3A//www.fasttrackfundraising.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fasttrackfundraising.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622034349id_/http%3A//www.fasttrackfundraising.com/privacy.php) for the most accurate reproduction.*
 
-# Sorority Fraternity School Fundraisers, Easy Fundraising Ideas - Fast Track Fundraising
+# FastTrack privacy policy – FastTrack Fundraising
 
+[Home](http://www.fasttrackfundraising.com/) » FastTrack Fundraiser privacy policy
+
+  
 **Your Privacy is Important to Us!**
 
 **SECURITY & PRIVACY STATEMENT**  
