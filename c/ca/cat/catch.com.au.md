@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catch.com.au privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209032644id_/http%3A//www.reedbusiness.com.au/default.asp%3Fsect%3D9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catch.com.au privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622060834id_/http%3A//www.reedbusiness.com.au/default.asp%3Fsect%3D9) for the most accurate reproduction.*
 
 # Reed Business Information
 
@@ -51,4 +51,4 @@ CHATSWOOD NSW 2067
 AUSTRALIA  
 Phone 02 9422 2002   
 Fax 02 9422 2682  
-Email: [mary-alice.bannister@reed-elsevier.com.au](mailto:mary-alice.bannister@reed-elsevier.com.au)
+
