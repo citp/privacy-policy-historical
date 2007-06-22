@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the hays.com.au privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216173022id_/http%3A//www.hays.com.au/about/websiteprivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hays.com.au privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622053250id_/http%3A//www.hays.com.au/about/websiteprivacy.aspx) for the most accurate reproduction.*
 
-# Website Privacy Policy
-
-Website Privacy Policy
+# Hays Recruitment
 
 At Hays we are committed to protecting the privacy of visitors to our website. We will use our best efforts to ensure that the information you submit to us remains private, and is used only for the purposes you agree to. The following reflects our commitment to you. 
 
