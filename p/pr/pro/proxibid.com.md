@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proxibid.com privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114050140id_/http%3A//www.proxibid.com/asp/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proxibid.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622043156id_/http%3A//www.proxibid.com/asp/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Proxibid: Privacy Policy
 
@@ -10,13 +10,13 @@ Your privacy is one of our highest priorities at Proxibid. We provide this Priva
 
 To make this Privacy Policy easy for you to find, we provide it on our welcome page and at every point where personally identifiable information may be requested. If you have any questions or comments about this privacy statement, please contact Proxibid’s privacy representative:
 
-Andy Letter  
-6825 Pine Street  
-Mail Stop C9  
-Omaha, NE 68106  
-402-505-7778  
-402-505-7996 fax  
-[aletter@proxibid.com](mailto:aletter@proxibid.com)
+Ken Maxwell  
+11837 Miracle Hills Drive  
+Suite 200  
+Omaha, NE 68154  
+402-505-7770  
+402-505-7981 fax  
+[info@proxibid.com](mailto:info@proxibid.com)
 
 This privacy statement applies to all information collected by or supplied to [http://www.proxibid.com](http://www.proxibid.com/).
 
