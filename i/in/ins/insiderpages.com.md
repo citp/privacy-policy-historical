@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insiderpages.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219024159id_/http%3A//www.insiderpages.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insiderpages.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622155519id_/http%3A//www.insiderpages.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Insider Pages Privacy Policy
 
@@ -37,7 +37,7 @@ We do not disclose your Information or Personally Identifiable Information to th
 
 ### Use of Reviews, Ratings and User Names
 
-Insider Pages gives you the opportunity to give Reviews and Ratings for local businesses. Your name may appear next to your user reviews and ratings as they are posted on the Site. We may also use and disclose your user name, reviews or portions thereof and ratings in any other manner, including in marketing materials. To read further details about how we may use your Reviews or Ratings, see ["Reviews."](https://web.archive.org/legal/terms.html#18d)
+Insider Pages gives you the opportunity to give Reviews and Ratings for local businesses. Your name may appear next to your user reviews and ratings as they are posted on the Site. We may also use and disclose your user name, reviews or portions thereof and ratings in any other manner, including in marketing materials. To read further details about how we may use your Reviews or Ratings, see ["Reviews."](https://web.archive.org/legal/terms#18d)
 
 ### Questionnaires and Surveys
 
