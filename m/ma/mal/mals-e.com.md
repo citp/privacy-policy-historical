@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mals-e.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217175926id_/http%3A//www.mals-e.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mals-e.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622130321id_/http%3A//mals-e.com/privacy.php) for the most accurate reproduction.*
 
 # Mal's e-commerce
 
