@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gerberlife.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206215413id_/http%3A//www.gerberlife.com/gl/view/legal_site/priv.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gerberlife.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622232445id_/http%3A//www.gerberlife.com/gl/view/legal_site/priv.jsp) for the most accurate reproduction.*
 
 # Privacy Notice
 
