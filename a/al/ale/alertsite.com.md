@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the alertsite.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231223946id_/http%3A//alertsite.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alertsite.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622213942id_/http%3A//alertsite.com/privacy.shtml) for the most accurate reproduction.*
 
 # AlertSite: The Web Site Monitoring Company
 
 AlertSite Privacy Policy  
-Effective Date: October 13, 2005 |  [](http://www.truste.org/ivalidate.php?url=www.alertsite.com&sealid=101)  
+Effective Date: March 30, 2007 |  [](http://www.truste.org/ivalidate.php?url=www.alertsite.com&sealid=101)  
 ---|---  
 The [www.AlertSite.com](http://www.alertsite.com/) website is owned and operated by Boca Internet Technologies, Inc., a Florida corporation ("AlertSite"). AlertSite respects your individual privacy. That is why AlertSite adopted this Privacy Policy as evidence of its commitment to the protection of your privacy through adherence to fair electronic information practices. This Privacy Policy puts you in control of how your personal information is processed. You have our promise that AlertSite will not electronically process your personal information in any way that is incompatible with this Privacy Policy.
 
@@ -93,6 +93,10 @@ If your personally identifiable information changes, you may correct or update i
 Customer Forum
 
 If you use the customer forum on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of this forum, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in this forum. 
+
+Customer Testimonials
+
+We post customer testimonials on our web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent, prior to posting the testimonial, to include any personally identifiable information along with the testimonial. 
 
 Questions, Comments & Complaints
 
