@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arcadecabin.com privacy policy that was archived on 2006-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061102122426id_/http%3A//arcadecabin.com/page-privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadecabin.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623014237id_/http%3A//www.arcadecabin.com/page-privacypolicy.html) for the most accurate reproduction.*
 
-# ArcadeCabin.com - Myspace Games, Xanga, Friendster! Play free online flash arcade games!
+# Play Free Online Flash Games at ArcadeCabin.com!
 
 Privacy Policy
 
