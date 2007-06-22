@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmh.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214145859id_/http%3A//www.mmh.com/content/CA6344325.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmh.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622213620id_/http%3A//www.mmh.com/content/CA6344325.html) for the most accurate reproduction.*
 
 # Privacy Policy - Modern Materials Handling
 
