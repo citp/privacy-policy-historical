@@ -1,33 +1,47 @@
-> *The following text is extracted and transformed from the zazachat.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018064934id_/http%3A//zazachat.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zazachat.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622232355id_/http%3A//www.zazachat.com/privacy.aspx) for the most accurate reproduction.*
 
-# ZaZaCHAT - Privacy policys
+# ZaZaCHAT - Privacy policy
 
 |  **Account**  
-[Create Account](http://zazachat.zazasoftware.com/livechatclient/newaccount/)  
+[Create Account](https://www.zazachat.com/newaccount/)  
 [Take a Tour](https://web.archive.org/zazachat_online_tour/)  
-[Client Login](http://zazachat.zazasoftware.com/livechatclient/livechatoperator/chatoperator.aspx)  
+[Operator Panel Overview](https://web.archive.org/zazachat_online_tour/ChatAssistance_OperatorPanel.aspx)  
+[ Client Login](https://www.zazachat.com/livechatclient/livechatoperator/chatoperator.aspx)  
 
 
 * * *
 
 **Features**  
-[About ZaZaCHAT](https://web.archive.org/about_zazachat.aspx)  
-[About ZaZaAlerter](https://web.archive.org/zazaAlerter/)  
+[Features, Tools, Prices](https://web.archive.org/about_zazachat.aspx)  
+[Download ZaZaAlerter](https://web.archive.org/zazaAlerter/)  
 [About ZaZaKnowledge](https://web.archive.org/zazaknowledge/zazaknowledge_faq_management_system.aspx)  
-[Hosted or Maintained](https://web.archive.org/HostedorMaintained.aspx)  
+[ZaZaCHAT .NET control](https://web.archive.org/zazachat_control/livechat_vbnet_control.aspx)  
+[Hosted Solution](https://web.archive.org/HostedorMaintained.aspx)  
+[Partner with ZaZa](https://web.archive.org/partnershipopportunities.aspx)  
 [Support Outsourcing](https://web.archive.org/OutsorcingCustomerSupport.aspx)  
 [F.A.Q.](http://faq.zazachat.com/)  
 [ZaZaCHAT Forum](http://discuss.zazasoftware.com/)  
+[ZaZaCHAT News](https://web.archive.org/news.aspx)  
+[Why "ZaZa"?](https://web.archive.org/whyzaza.aspx)  
+
+
+* * *
+
+**About Live Chat**  
+[Why Live Chat Software?](https://web.archive.org/zazachat_online_tour/Why_Live_Chat_Assistance.aspx)  
 
 
 * * *
 
 **Solutions**  
-[Higher Education](https://web.archive.org/articles/highered.aspx)  
-[Health Care](https://web.archive.org/articles/healthcare.aspx)  
-[Veterinary](https://web.archive.org/articles/veterinary.aspx)  
-[Real Estate](https://web.archive.org/articles/realestate.aspx)  
-[Financial](https://web.archive.org/articles/financial.aspx)  
+[Online Store](https://web.archive.org/articles/live-chat-ecommerce-online-store.aspx)  
+[Auto Sales](https://web.archive.org/articles/live-chat-auto-dealership.aspx)  
+[Travel Industry](https://web.archive.org/articles/live-chat-help-for-travel-website.aspx)  
+[Higher Education](https://web.archive.org/articles/live-chat-help-support-college-school-higher-education.aspx)  
+[Health Care](https://web.archive.org/articles/live-chat-help-support-medical-healthcare-hospital.aspx)  
+[Veterinary](https://web.archive.org/articles/live-help-chat-support-veterinary.aspx)  
+[Real Estate](https://web.archive.org/articles/live-chat-help-support-real-estate-mortgage-agency.aspx)  
+[Financial](https://web.archive.org/articles/live-chat-help-support-banking-financial-industry.aspx)  
 [Why ZaZaCHAT?](https://web.archive.org/articles/ZaZaCHAT_Brochure.pdf)  
 
 
@@ -35,7 +49,24 @@
 
 **Support**  
 [Contacts](https://web.archive.org/contact.aspx)  
-877-570-2328  | 
+877-570-2328 
+
+* * *
+
+**In the News**  
+
+
+[](https://web.archive.org/news.aspx?newsid=16)6/11/2007: New Release/New Feature: Ticket Management System...[more](https://web.archive.org/news.aspx?newsid=16) New!
+
+[](https://web.archive.org/news.aspx?newsid=15)3/27/2007: Live Chat Software benefits explained...[more](https://web.archive.org/news.aspx?newsid=15)
+
+[](https://web.archive.org/news.aspx?newsid=14)3/5/2007: ZaZaChat PRO™ Live Chat Software Is Available at Special Member Pricing To Point2 Technologies ...[more](https://web.archive.org/news.aspx?newsid=14)
+
+[](https://web.archive.org/news.aspx?newsid=12)2/7/2007: ZaZa Network, Inc acquires [LiveHelpNow.com](http://www.livehelpnow.com/)...[more](https://web.archive.org/news.aspx?newsid=12)
+
+[](https://web.archive.org/news.aspx?newsid=13)2/6/2007: ZaZa Network, Inc acquires [LiveLegalAid.com](http://www.livelegalaid.com/)...[more](https://web.archive.org/news.aspx?newsid=13)
+
+| 
 
 **Individually Identifiable Information**  
 ZaZa Network, Inc recognizes that the growth of online services, including Internet services, has created many privacy concerns, particularly for consumers.   
