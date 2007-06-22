@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valuemags.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205031914id_/http%3A//www.valuemags.com/home/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuemags.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622202815id_/http%3A//www.valuemags.com/home/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,7 +27,7 @@ Contact information from the order forms is used to get in touch with the visito
 
 Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
-Financial information that is collected is used to bill the user for products and services. This information is never shared with our partners.
+Financial information that is collected is used to bill the user for products and services.
 
 Unique identifiers are collected from Web site visitors for use as account numbers in our record system. 
 
@@ -50,5 +50,5 @@ This site gives users the following options for changing and modifying informati
 **  
 Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: ValueMags, 212 West Superior St., Ste 300, Chicago, IL 60610  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: ValueMags, 212 West Superior St., Ste 202, Chicago, IL 60610  
 
