@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ha.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117164808id_/http%3A//www.heritageauctions.com/common/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ha.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622113353id_/http%3A//www.ha.com/common/privacy.php) for the most accurate reproduction.*
 
 # Heritage Privacy Policy
 
@@ -13,7 +13,7 @@ Any information that you provide to us is personal, private, and valuable. When 
 
 As our relationship with you and our other customers grows, this privacy policy will change to better serve everyone. Check back periodically for updates and feel free to contact us at any time with questions or suggestions regarding this policy. This privacy policy was last updated on July 23, 2004.
 
-If you have questions or concerns regarding this statement, you should first contact Heritage by either e-mail ([webmaster@HeritageAuctions.com](mailto:webmaster@HeritageAuctions.com)) or writing us at the following address:
+If you have questions or concerns regarding this statement, you should first contact Heritage by either e-mail ([webmaster@HA.com](mailto:webmaster@HA.com)) or writing us at the following address:
 
 Heritage Auction Galleries  
 3500 Maple Avenue, 17th Floor  
@@ -37,7 +37,7 @@ We collect any and/or all of the following, depending on what particular form yo
 
 We automatically record your IP address, session duration, transaction data, the order and addresses of the pages you visit, and in most cases the data that you enter on those pages. We use all of this information to improve the navigation, functionality, and general service that our Web site provides.
 
-If you provide us with your e-mail address, you will automatically begin receiving e-mails from us on a variety of subjects. If you wish to block your e-mail address from receiving any e-mails from Heritage, you may do so quickly and easily by sending an e-mail to [webmaster@HeritageAuctions.com](mailto:webmaster@HeritageAuctions.com) with "REMOVE" in the subject line.
+If you provide us with your e-mail address, you will automatically begin receiving e-mails from us on a variety of subjects. If you wish to block your e-mail address from receiving any e-mails from Heritage, you may do so quickly and easily by sending an e-mail to [webmaster@HA.com](mailto:webmaster@HA.com) with "REMOVE" in the subject line.
 
 **How does Heritage use your information?**  
 Heritage researches our customers' usage patterns and demographics based on the information provided to us during their experiences on our Web site. We do this to better understand our customers' needs and enhance our service. This information is compiled and analyzed on an aggregate basis for internal use only and is not shared with any parties outside of Heritage.
@@ -64,11 +64,11 @@ You can edit and change the information that Heritage has concerning you, includ
 
 |   
 ---  
-**Heritage delivers Value - $547,912,561** sold at auction and in private treaty sales over the past 12 months. 
+**Heritage delivers Value - $617,017,441** sold at auction and in private treaty sales over the past 12 months. 
 
 Our 
 
-**271,985** bidder-members from 122 countries enjoy all these free benefits: 
+**303,430** bidder-members from 132 countries enjoy all these free benefits: 
 
   1. Bid on-line
   2. Free Collector newsletter
@@ -79,14 +79,22 @@ Our
   
 **Quality Consignments Wanted**  
 ---  
-Consign to the 2007 March Signature Antique Rugs & Tapestries Auction  E-mail [Leigh Arnold](https://web.archive.org/common/acquisitions.php?target=consign&txtConsignmentDirector=Leigh%20Arnold) or call   
-1-800-872-6467 x444   
+Consign to the 2007 November Signature Vintage Movie Poster Auction  E-mail [Grey Smith](https://web.archive.org/common/acquisitions.php?target=consign&txtConsignmentDirector=Grey%20Smith) or call   
+1-800-872-6467 x367   
   
   
-[](http://sports.heritageauctions.com/misc/706Preview)
+[](http://americana.ha.com/misc/663Preview?ic=rightcolumn-preview663-b032707)
 
-[](http://americana.heritageauctions.com/misc/642Preview)
+**Dallas Children's Theatre Charity Auction**  
+Dallas, TX - June 23
 
+**BeatlesFest Convention**  
+Las Vegas, NV - July 1-3
+
+**Heritage Appraisal Day**  
+Austin, TX - July 21
+
+  
   
   
  
