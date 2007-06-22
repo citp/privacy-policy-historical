@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lululemon.com privacy policy that was archived on 2006-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061222200018id_/http%3A//lululemon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lululemon.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622151109id_/http%3A//www.lululemon.com/privacy) for the most accurate reproduction.*
 
 # lululemon athletica | privacy policy
 
