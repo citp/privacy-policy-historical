@@ -1,28 +1,72 @@
-> *The following text is extracted and transformed from the statefarm.com privacy policy that was archived on 2003-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030210075540id_/http%3A//statefarm.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statefarm.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622144247id_/http%3A//www.statefarm.com/about/privacy/privacy.asp) for the most accurate reproduction.*
 
-# State Farm - Privacy
+# Privacy Policies
 
-| Our Privacy [**Principles:** ](https://web.archive.org/about/privacy_customer.htm)  
----  
-**·** | We do not sell customer information.  
-**·** | We do not provide customer information to persons or organizations outside our State Farm family of companies who are doing business on our behalf, for their own marketing purposes.  
-**·** | We contractually require any person or organization providing products or services to customers on our behalf to protect the confidentiality of State Farm customer information.  
-**·** | We do not share customer medical information with anyone within the State farm family of companies, unless you expressly authorize it, or unless your insurance policy contract with us permits us to do so.  
-**·** | We afford prospective and former customers the same protections as existing customers with respect to the use of personal information  
-  |    
+[Our Mission](http://www.statefarm.com/about/mission.asp)[Our Agents](http://www.statefarm.com/about/our_agents/our_agents.asp)[Career Center](https://web.archive.org/about/careers/careers.asp)[Our Retirees](https://web.archive.org/about/retirees/retiree.asp)[Partnerships & Sponsorships](http://www.statefarm.com/about/part_spos/part_spos.asp)[Newsroom](http://www.statefarm.com/about/media/media.asp)[Contact](http://www.statefarm.com/about/media/contact.asp)
+
+* * *
+
+[Insurance](http://www.statefarm.com/insurance/insurance.asp)[Mutual Funds](http://www.statefarm.com/mutual/mutual.asp)[State Farm Bank®](http://www.statefarm.com/bank/bank.asp)[Learning Center](http://www.statefarm.com/learning/learning.asp)[About Us](http://www.statefarm.com/about/about.asp)
+
+* * *
+
+[Login](http://www.statefarm.com/account.htm)[Register](http://www.statefarm.com/main/signup.asp)
+
+Search Site
+
+Powered by Google™
+
   
-For more details, please review our [Privacy Policy for Customers](https://web.archive.org/about/privacy_customer.htm) and [Privacy Policy for Consumers](https://web.archive.org/about/privacy_consumer.htm).
 
-For information about online privacy, review [Privacy and Security on statefarm.com®](https://web.archive.org/about/webprivacy.htm).
 
-|  | Topics of [**Frequently  
-Asked Questions** ](https://web.archive.org/about/privacyfaq.htm)  
----  
-**·** | [State Farm's Notice of Privacy Policy](https://web.archive.org/about/privacyfaq.htm)  
-**·** | [Customer information collection](https://web.archive.org/about/privacyfaq1.htm)  
-**·** | [Information sharing (general)](https://web.archive.org/about/privacyfaq2.htm)  
-**·** | [State Farm Family of Companies sharing of information](https://web.archive.org/about/privacyfaq3.htm)  
-**·** | [Solicitations/Direct Marketing ](https://web.archive.org/about/privacyfaq4.htm)  
-**·** | [Information security](https://web.archive.org/about/privacyfaq5.htm)  
-**·** | [Online transactions](https://web.archive.org/about/privacyfaq6.htm)  
-**·** | [Providers of goods and services](https://web.archive.org/about/privacyfaq7.htm)
+|  | 
+
+### Our Privacy Principles:
+
+  * We do not sell customer information.
+  * We do not allow those who are doing business on our behalf to use our customer information for their own marketing purposes.
+  * We contractually require any person or organization providing products or services on our behalf to protect State Farm customer information.
+  * We do not share customer medical information with anyone within the State Farm family of companies unless: 
+    * You expressly authorize it.
+    * It is permitted or required by law.
+    * Your insurance policy contract with us permits us to do so.
+  * We afford prospective and former customers with the same protections as existing customers with respect to the use of personal information.
+
+
+
+For more details, please review our [ Privacy Policy for Customers](http://www.statefarm.com/about/privacy/privacy_customer.asp) and [Privacy Policy for Consumers.](http://www.statefarm.com/about/privacy/privacy_consumer.asp)
+
+For more details about the privacy of your medical information, see our [Privacy Policy for Personal Health Information.](http://www.statefarm.com/about/privacy/personal_health.asp)   
+
+
+| 
+
+## Privacy Links
+
+  * [Notice of Privacy Policy](http://www.statefarm.com/about/privacy/privacy_customer.asp)
+  * [Privacy Policy and Personal Health](http://www.statefarm.com/about/privacy/personal_health.asp)
+  * [Notice of Privacy Policy to Consumers](http://www.statefarm.com/about/privacy/privacy_consumer.asp)
+  * [State Privacy Rights](http://www.statefarm.com/about/privacy/privacy_rights.asp)
+  * [Privacy Principles](http://www.statefarm.com/about/privacy/privacy_principles.asp)
+
+
+
+## Privacy FAQs
+
+  * [Customer Information Collection](http://www.statefarm.com/about/privacy/privacy_faq/privacyfaq1.asp)
+  * [Information Sharing](http://www.statefarm.com/about/privacy/privacy_faq/privacyfaq2.asp)
+  * [Information Sharing among the State Farm Family of Companies®](http://www.statefarm.com/about/privacy/privacy_faq/privacyfaq3.asp)
+  * [Solicitations/Direct Marketing](http://www.statefarm.com/about/privacy/privacy_faq/privacyfaq4.asp)
+  * [Information Security](http://www.statefarm.com/about/privacy/privacy_faq/privacyfaq5.asp)
+  * [Online Transactions](http://www.statefarm.com/about/privacy/privacy_faq/privacyfaq6.asp)
+  * [Providers of Goods and Services](http://www.statefarm.com/about/privacy/privacy_faq/privacyfaq7.asp)
+  * [Questions about Privacy Notice](http://www.statefarm.com/about/privacy/privacy_faq/privacyfaq8.asp)
+
+  
+  
+---|---  
+  
+Copyright 2006, State Farm Mutual Automobile Insurance Company. Home Office, Bloomington, Illinois  
+
+
+[Home](http://www.statefarm.com/index.asp)   [About](http://www.statefarm.com/about/about.asp)   [Contact](https://online.statefarm.com/apps/AskSF/)   [Terms of service](http://www.statefarm.com/about/terms/terms.asp)   [Privacy policy](http://www.statefarm.com/about/privacy/privacy.asp)  
