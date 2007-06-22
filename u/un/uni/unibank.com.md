@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unibank.com privacy policy that was archived on 2006-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061123063205id_/https%3A//www.unibank.com/about/au_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unibank.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622101830id_/http%3A//www.unibank.com/about/au_privacy.asp) for the most accurate reproduction.*
 
 # UniBank | About UniBank | Privacy
 
@@ -43,4 +43,4 @@ Whitinsville , MA 01588-1415
 
 An OPT OUT by one account holder will apply equally to all parties of a joint account.
 
-**[Click here to download the UniBank Opt Out Form](https://web.archive.org/web/20061123063205id_/https%3A//www.unibank.com/forms/UniBank-optout.pdf)** (PDF) 
+**[Click here to download the UniBank Opt Out Form](https://web.archive.org/forms/UniBank-optout.pdf)** (PDF) 
