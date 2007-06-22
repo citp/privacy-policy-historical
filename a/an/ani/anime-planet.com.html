@@ -1,0 +1,301 @@
+<!--The following is the downloaded HTML source of the anime-planet.com privacy policy that was archived on 2007-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070622045034id_/http%3A//www.anime-planet.com/privacypolicy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+		<title>Privacy Policy - Anime-Planet</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+						<meta name="robots" content="index,follow,all"> 
+		<meta name="revisit-after" content="3 days">
+
+		<link href="/inc/style.css" rel="stylesheet" type="text/css">
+		<!--[if lt IE 7]>
+			<link href="/inc/ie.css" rel="stylesheet" type="text/css">
+		<![endif]-->
+
+		<script src="http://www.anime-planet.com/inc/jquery.js" type="text/javascript"></script>
+		<script src="http://www.anime-planet.com/inc/js/jquery.validate.js" type="text/javascript"></script>
+		<script src="http://www.anime-planet.com/inc/js/jquery.form.js" type="text/javascript"></script>
+		<script src="http://www.anime-planet.com/inc/jquery.tablesorter.js" type="text/javascript"></script>
+		<script type="text/javascript" src="/inc/js/tinymce/jscripts/tiny_mce/tiny_mce.js"></script>
+
+			
+			
+						<script type="text/javascript">
+
+						var defaultusername = 'username';
+			var defaultpassword = 'password';
+			var defaultselectanime = 'select anime';
+			var defaulttextarea = 'you would like this anime because...';
+			$(document).ready(function(){
+			
+							$("input#username").val(defaultusername);
+				$("input#password").val(defaultpassword);
+
+				$('input#username').focus( function(){
+					if ($("input#username").val() == defaultusername) { 
+						$("input#username").val('');
+					}
+				});
+
+
+				$('input#password').focus( function(){
+					if ($("input#password").val() == defaultpassword) { 
+						$("input#password").val('');
+					}
+				});
+
+				var loggedin = 0;	
+				if (loggedin == 1)
+				{
+					$("div#login").hide();
+					$("div#logout").show();
+				}
+				else
+				{
+					$("div#login").show();
+					$("div#logout").hide();
+				}
+
+				$('#logoutform').submit(function() {
+					$(this).ajaxSubmit({
+						dataType: "html",
+						url: "/users/login.php",
+						success: function(responseText){ window.location.reload(true); }
+					});
+					return false;
+				}); 
+				
+				//Always redirect register button to register page
+				$('#register_btn').click(function(){ location.href = "/users/register.php"; });
+
+				var oValidator = $("#loginform").validate(
+				{
+					submitHandler: function(form){
+						$(form).ajaxSubmit(
+						{
+							url: "/users/login.php",
+							dataType: "html",
+							success: function(responseText){
+								// if result was successful
+								if(!responseText){
+									$("div.error").html("");
+									window.location.reload(true); 
+								} else {
+									$("div.error").html(responseText);
+								}
+							}
+						});	//end form ajaxsubmit
+					},	//end submithandler
+
+					rules: {
+						username: {
+							required: true
+						},
+						password: {
+							required: true
+						}
+					},
+
+					messages: {
+						username: {
+							required: "username is required"
+						},
+
+						password: {
+							required: "password is required"
+						}
+					}
+				}); //end validate
+					$("tr:nth-child(even)").addClass("alt");
+					$("tr:nth-child(odd)").addClass("alt2");
+			});	//end jquery load
+
+		</script>	
+	</head>
+	<body class="whr">
+		<div id="wrapper" class="whr">
+			<div class="skin_top"></div><!-- /.skin_top -->
+			<div class="skin_central">
+				<div class="skin_inner">
+					<ul class="nav_top">
+						<li class="news"><a href="/index.php"><span>News</span></a></li>
+						<li class="ard"><a href="/anirec/"><span>Anime Recommendation Database</span></a></li>
+						<li class="reviews"><a href="/reviews/"><span>Reviews</span></a></li>
+						<li class="forum"><a href="/forum/"><span>Forum</span></a></li>
+						<li class="chat"><a href="/chat.php"><span>Chat</span></a></li>
+						<li class="users"><a href="/users/"><span>Users</span></a></li>
+					</ul><!-- /.nav_top -->
+					<div class="central">
+						<div class="leftnav_shell">
+							<div id="leftnav_top"></div>
+							<div id="leftnav">
+							
+								<!-- SEARCH -->		
+								<form action="/search.php" method="get">
+									<label for="search_txt">&nbsp;</label>
+									<input id="search_txt" name="search" type="text" maxlength="60"><br>
+									<input id="search_btn" type="submit" value="Go"> 
+								</form>
+
+								<!-- LOGIN -->
+								<img src="/newsite/images/themes/whr/left_nav_login.gif" alt="Login"><br>
+
+								<div id="logout" style="display: none;">							
+									<h4>Welcome, <a href="/users/.html"></a></h4>
+									<ul>
+									<li><a href="/users/.html">My Profile</a></li>
+									<li><a href="/users/anime.php?usersid=">My Anime</a></li>
+																											</ul>
+										<form method="post" id="logoutform">
+											<input type="hidden" name="logout" value="1">
+											<input id="logout_btn" name="submit" type="submit" value="Logout">
+											<!--<div class="clear"></div>-->
+										</form>
+								</div>
+
+								<div id="login" style="display: none;">
+									<form method="post" id="loginform">
+										<input type="hidden" name="login" value="1">
+										<input id="username" name="username" type="text">
+										<label for="username">&nbsp;</label>
+										
+										<input id="password" name="password" type="password">
+										<label for="password">&nbsp;</label>
+										<div class="error"></div>
+										<input id="login_btn" name="submit" type="submit" value="Login"> 
+										<input id="register_btn" name="register" type="button" value="Register">
+										
+										
+										
+										<!--<div id="keeplogged_box">-->
+										<!--	<input id="keeplogged_rdo" name="rememberme" type="checkbox" />
+											<label id="keeplogged_lbl" for="keeplogged_rdo">Keep me logged in</label>-->
+										<!--</div>-->
+									</form>
+								</div>
+
+								<!-- THEME -->
+								<img src="/newsite/images/themes/whr/left_nav_theme.gif" alt=""><br>
+								<div class="whr">
+									<form method="post" action="">
+										<input type="hidden" name="themeselect" value="1">
+										<label for="theme_sel">&nbsp;</label>
+										<select id="theme_sel" name="theme">
+											<option value="blue">Blue Gender</option>
+											 <option value="excel">Excel Saga</option>
+											<option value="jing">King of Bandit Jing</option>
+											<option value="ns">Ninja Scroll</option>
+											<option value="saik">Saikano</option>
+											<!--<option  value="fp">Funny Pets</option>-->
+											<option selected="selected" value="whr">Witch Hunter Robin</option>
+										</select>
+										<input id="theme_btn" type="submit" value="Go">&nbsp;
+									</form>
+								</div>
+
+								<!-- RECENT REVIEWS -->
+									
+
+								<!-- ANIREC RECENT ANIME, KEY -->
+									
+
+								<!-- MISCELLANEOUS -->
+								<img src="/newsite/images/themes/whr/left_nav_misc.gif" alt="Miscellaneous"><br>
+								<div class="whr">
+								<ul class="misc_nav">
+									<li><a href="/banners.php">Link to Us</a></li>
+									<li><a href="/contact.php">Contact Us</a></li>
+									<li><a href="/users/earnprizes.php">Earn/Win Prizes!</a></li>
+									<li><a href="/privacypolicy.php">Privacy Policy</a></li>
+									<li><a href="http://www.anime-planet.com/credits.php">Credits</a></li>
+
+								</ul>
+								</div>
+								<!-- DONATE -->
+								<!--<img src="/test/_img/left_nav_donate.gif" alt="" /><br />
+
+								<div id="paypal_button">
+									<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+										<input type="hidden" name="cmd" value="_xclick" />
+										<input type="hidden" name="business" value="egypt1an@yahoo.com" />
+										<input type="hidden" name="item_name" value="Anime Planet domain/hosting fund" />
+										<input type="hidden" name="no_note" value="1" />
+										<input type="hidden" name="currency_code" value="USD" />
+										<input type="hidden" name="tax" value="0" />
+										<input type="image" src="https://www.paypal.com/images/x-click-but04.gif" align="left" name="submit" alt="Donate" />
+									</form>
+								</div>
+
+								<p id="paypal_intro">Donations fund server costs, shipping for prizes, and more! <a href="#">Click here</a> for non-money donation info.</p>
+
+								<p>
+								<b>Donators:</b><br />
+								Mechatama $10.00<br />
+								sothis $20.00
+								</p>
+
+								<p>
+								<b>Costs:</b><br />
+								Sept. server costs $18.00<br />
+								Oct. server costs $18.00<br />
+								Shipping for Oct. contest $15.00
+								</p>
+
+								<p>
+								<b>Donation:</b><br />
+								Mechatama $10.00<br />
+								Total: $100.00
+								</p>
+								-->
+
+							</div>
+							<div id="leftnav_bottom"></div>		
+						</div>
+						<div class="content_shell">
+						<div id="content_top" class="whr"><p class="privacypolicy"><span>privacypolicy</span></p></div>
+						<div id="content">
+	<p>At Anime-Planet, we value your privacy. Your personal information (email, IP address, contact information) will never be sold to a third party. For more details, please see below.</p>
+
+	<h3 class="themed privacypolicy">Anime-Planet collects the following information:</h3>
+	<ul id="privacypolicy">
+	<li>IP address (used to verify login authenticity)</li>
+	<li>Host name</li>
+	<li>Cookie information (setting information, login details BESIDES the password)</li>
+	<li>Survey or poll data</li>
+	<li>Mailing address and full name, if you have won a prize</li>
+	<li>Profile information (stored in our database; visible by the public in your user profile)</li>
+	<li>Email address (used for password reset and optional communication with users)</li>
+	</ul>
+
+	<p>Access to personal information is limited to specific staff members who need it to complete their duties (such as contacting a user regarding rule-breaking recommendations). We may provide this information to third parties (such as to send you a contest prize), but only with your expressed permission.</p> 
+
+	<p>Anime-Planet reserves the right to share statistical data with third parties; this does not include personal items such as IP, email, or mailing address. </p> 
+
+	<p>Anime-Planet reserves the right to modify this policy at any time. Though we take heavy precautions to safeguard your personal information, we are not responsible for information that is unlawfully obtained from our servers. We are not responsible for any information publicly disclosed by an individual regarding him or herself by means of  our services, including the chat room, forum, blogs, or profile.</p>
+	
+	<p>If you have additional questions about our privacy policy, please <a href="/contact.php">contact us</a>.</p>
+
+
+					</div><!-- /#content-->
+					<div id="content_bottom"></div>
+				</div>
+				<div class="clear"></div>
+			</div><!-- /.central -->
+		</div><!-- /.skin_inner -->
+	</div><!-- /.skin_central -->
+	<div class="skin_bottom"></div><!-- /.skin_bottom -->
+
+	
+	<br>
+	<br>
+
+</div>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-962063-1";
+urchinTracker();
+</script>
+
+</body></html>
