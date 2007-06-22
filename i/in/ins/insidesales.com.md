@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the insidesales.com privacy policy that was archived on 2006-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061027154323id_/http%3A//www.insidesales.com/terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidesales.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622230536id_/http%3A//www.insidesales.com/terms.php) for the most accurate reproduction.*
 
-# insidesales.com ™
+# On-Demand Lead Management, CRM and Contact Center Solutions - InsideSales.com ™
 
 Privacy Policy Overview        Safe Harbor       Terms of Use
 
