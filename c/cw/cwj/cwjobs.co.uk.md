@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cwjobs.co.uk privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214004836id_/http%3A//www.cwjobs.co.uk/Contents/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cwjobs.co.uk privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622194532id_/http%3A//www.cwjobs.co.uk/Contents/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy policy - CWJobs.co.uk
 
@@ -6,13 +6,13 @@ At CWJobs.co.uk we make every effort to comply with our obligations under the 19
 
 You can remove any of the information that CWJobs.co.uk stores about you, at any time, by logging in to your 'My CWJobs' account and choosing to close the account. 
 
-_Privacy policy update (1 August, 2006)_
+_Privacy policy update (1 February 2007)_
 
 **Registration details**   
 Contact and other details you supply as part of the registration process are stored by us and used to provide you with the information you have requested. 
 
 **Profile and CV information**   
-When you complete your CWJobs.co.uk profile, including your CV, it can be made available for searching, viewing over the Internet and downloading by CWJobs.co.uks' customers. Customers who request CVs matching your profile to be sent to them, will receive your CV and profile via email or CD Rom. These may be direct recruiters, employment consultants or other organisations. 
+When you complete your CWJobs.co.uk profile, including your CV, it can be made available for searching, viewing over the Internet and downloading by any direct recruiter, employment consultant or other person or organisation who requests CVs matching your profile to be sent to them. CWJobs.co.uk does not verify the identity or the nature of the business of such organisations. 
 
 **IMPORTANT:** Your current employer may be a customer of CWJobs.co.uk, or a client of one of our customers. CWJobs.co.uk cannot restrict the customers who access profiles on our database and cannot be held responsible for any eventuality. As part of the registration process CWJobs.co.uk offers you the option of remaining anonymous. 
 
