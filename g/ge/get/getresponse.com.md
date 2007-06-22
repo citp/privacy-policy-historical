@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getresponse.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207222909id_/http%3A//www.getresponse.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getresponse.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622171642id_/http%3A//www.getresponse.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
