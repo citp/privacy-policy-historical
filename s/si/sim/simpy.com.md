@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpy.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205181449id_/http%3A//www.simpy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpy.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622122919id_/http%3A//www.simpy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
