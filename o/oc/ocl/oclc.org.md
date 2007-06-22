@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oclc.org privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210080801id_/http%3A//www.oclc.org/policies/privacy/default.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oclc.org privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622223026id_/http%3A//www.oclc.org/policies/privacy/default.htm) for the most accurate reproduction.*
 
 # OCLC Privacy policy [OCLC]
 
@@ -107,5 +107,5 @@ If you have any questions regarding our policies, please contact [privacy@oclc.o
 
 > > OCLC Online Computer Library Center, Incorporated  
 >  Customer Service, ATTN: Privacy  
->  6565 Frantz Road  
+>  6565 Kilgour Place  
 >  Dublin, Ohio 43017-3395 
