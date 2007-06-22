@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glaad.org privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209170027id_/http%3A//www.glaad.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glaad.org privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622235349id_/http%3A//www.glaad.org/privacy.php) for the most accurate reproduction.*
 
 # GLAAD: Privacy Policy
 
