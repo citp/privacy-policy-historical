@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desertusa.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230112706id_/http%3A//desertusa.com/who/du_who.html%23anchor1141274) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desertusa.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622200131id_/http%3A//desertusa.com/who/du_who.html%23anchor1141274) for the most accurate reproduction.*
 
 # DesertUSA General Information
 
@@ -25,7 +25,7 @@ DesertUSA offers advertising opportunities to businesses that would like to prom
 
 
 
-[**Advertising rates and general site information**](https://web.archive.org/web/20061230112706id_/http%3A//desertusa.com/ads/du_adrates.html)
+[**Advertising rates and general site information**](https://web.archive.org/web/20070622200131id_/http%3A//desertusa.com/ads/du_adrates.html)
 
 ### 
 
@@ -54,7 +54,11 @@ If you would like information about licensing materials from DesertUSA, please c
   
 Submitting Content To DesertUSA.com
 
-If you would like to [submit an article, story or personal adventure ](https://web.archive.org/web/20061230112706id_/http%3A//desertusa.com/who/du_submissions.html)to DesertUSA for possible publication, you can do so by following the guidelines listed on the [Content Submission page.](https://web.archive.org/web/20061230112706id_/http%3A//desertusa.com/who/du_submissions.html) DesertUSA reserves the right to refuse any content submitted. Manuscripts and content are not acknowledged or returned unless accompanied by self-addressed return envelope with proper postage attached. No responsibility is assumed for unsolicited contributions.
+If you would like to [submit an article, story or personal adventure ](https://web.archive.org/web/20070622200131id_/http%3A//desertusa.com/who/du_submissions.html)to DesertUSA for possible publication, you can do so by following the guidelines listed on the [Content Submission page.](https://web.archive.org/web/20070622200131id_/http%3A//desertusa.com/who/du_submissions.html) DesertUSA reserves the right to refuse any content submitted. Manuscripts and content are not acknowledged or returned unless accompanied by self-addressed return envelope with proper postage attached. No responsibility is assumed for unsolicited contributions.
+
+If you would like to submit a news item for the news blog, [DesertUSAblog.com](http://www.desertusablog.com/), please [click here](https://web.archive.org/web/20070622200131id_/http%3A//desertusa.com/who/du_talk.html#news) for more information.
+
+If you would like to submit and essay or photos for our [Desert Talk](https://web.archive.org/web/20070622200131id_/http%3A//desertusa.com/who/du_talk.html) area, please [click here](https://web.archive.org/web/20070622200131id_/http%3A//desertusa.com/who/du_talk.html#essay) for more information.
 
 ### 
 
@@ -67,7 +71,7 @@ DesertUSA makes every effort to provide accurate, error-free, up-to-date informa
 
 ### Copyright
 
-All photographs, text, illustrations, maps, video, audio and other content in DesertUSA are for personal use only. Do not upload any DesertUSA.com content to any online service or FTP site. All content on the DesertUSA Web site is Copyright 1997,1998,1999,2000,2001,2002,2003,2004,2005 by Digital West Media, Inc and/or **DesertUSA** contributors.
+All photographs, text, illustrations, maps, video, audio and other content in DesertUSA are for personal use only. Do not upload any DesertUSA.com content to any online service or FTP site. All content on the DesertUSA Web site is Copyright 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007 by Digital West Media, Inc and/or **DesertUSA** contributors.
 
 ### DesertUSA.com Privacy Policy
 
@@ -83,7 +87,7 @@ While "cookies" are required by DesertUSA.com to make an online purchase in our 
 
 If you do not want the benefit of cookies, there is a simple procedure to manually delete your cookies. Please consult your web browser's Help documentation for more information.
 
-**Survey's and Order Forms  
+**Surveys and Order Forms  
 **  
 In some cases, you may voluntarily provide personal information by filling out a survey form or order form on the DesertUSA.com Web site.
 
@@ -102,7 +106,7 @@ If you have any additional questions about DesertUSAcom's dedication to consumer
 **Jerrold J. Feldner  
 **Production/Programming:**  
 Kristine Cole | **Webmaster/Programmer:  
-**[Jim F. Bremner,](mailto:webmaster@desertusa.com)  
+**[Jim F. Bremner](mailto:webmaster@desertusa.com)  
 |   
   
 #### 
