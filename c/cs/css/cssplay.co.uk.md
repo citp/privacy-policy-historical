@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cssplay.co.uk privacy policy that was archived on 2006-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061221051235id_/http%3A//cssplay.co.uk/w3c/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cssplay.co.uk privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622230255id_/http%3A//www.cssplay.co.uk/w3c/privacy.html) for the most accurate reproduction.*
 
-# Stu Nicholls | CSSplay | Privacy Policy
+# Stu Nicholls | CSS play | Privacy Policy
 
 ### Information
 
@@ -70,6 +70,3 @@ Me and/or my entities acting as my agents or entities for which I am acting as a
 How long is this information retained?
 
 I do not have a retention policy for this area of the Web Site.
-
-  
-
