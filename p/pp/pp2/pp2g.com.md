@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pp2g.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218201333id_/http%3A//www.partypeeps2000.com/info/cmsi/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pp2g.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622152241id_/http%3A//www.partypeeps2000.com/info/cmsi/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Info | Privacy Statement
 
@@ -41,7 +41,3 @@ Users should check the applicable privacy policies of those third parties when p
 The foregoing policy is effective as of October 1, 2001.  
 PartyPeeps2000.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of the sites following the posting of changes to these terms will mean you accept those changes.  
 This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
-
-* * *
-
-[terms](https://web.archive.org/web/20061218201333id_/http%3A//www.partypeeps2000.com/info/tag/terms.aspx)
