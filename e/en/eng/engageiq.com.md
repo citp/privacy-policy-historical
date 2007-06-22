@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the engageiq.com privacy policy that was archived on 2006-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060930041300id_/http%3A//engageiq.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engageiq.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622033444id_/http%3A//www.engageiq.com/privacy.html) for the most accurate reproduction.*
 
 # WELCOME :: ENGAGEIQ Contact
 
@@ -60,5 +60,5 @@ This privacy statement applies solely to information collected by this Web site.
 If users have any questions or suggestions regarding our privacy policy, please contact us at:
 
 Engage Logic, Inc.  
-5201 Great America Park way Suite 320  
-Santa Clara, CA 95054
+3080 Olcott Street Suite 130C  
+Santa Clara, CA, 95054
