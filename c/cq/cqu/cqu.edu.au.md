@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cqu.edu.au privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219073139id_/http%3A//www.cqu.edu.au/policy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cqu.edu.au privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622224537id_/http%3A//www.cqu.edu.au/policy/privacy.htm) for the most accurate reproduction.*
 
 # CQU Web Privacy Policy
 
@@ -38,7 +38,7 @@ If you have questions about this policy, please feel free to contact the [Webmas
 
 For more detailed information you may wish to consult the following materials:
 
-  * [Privacy Plan](http://www.cqu.edu.au/cqutour/privacy_plan_150202.doc)
-  * [Privacy and Security Statement](http://www.cqu.edu.au/cqutour/privacy_security_statemen.doc)
+  * [Privacy Plan](http://policy.cqu.edu.au/Policy/policy.jsp?policyid=539)
+  * [Privacy and Security Statement](http://policy.cqu.edu.au/Policy/policy.jsp?policyid=540)
 
 
