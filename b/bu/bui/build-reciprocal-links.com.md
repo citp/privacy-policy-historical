@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the build-reciprocal-links.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110192718id_/http%3A//www.build-reciprocal-links.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the build-reciprocal-links.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622145746id_/http%3A//www.build-reciprocal-links.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - build-reciprocal-links.com
 
@@ -72,7 +72,7 @@ This Privacy Policy is effective as of December 10th, 2005. build-reciprocal-lin
 Governing Law.  
 This Privacy Policy and its performance shall be governed by the laws in force in the Ohio, USA. You consent and submit to the exclusive jurisdiction of the Courts of the Ohio, in all questions and controversies arising out of your use of the Site and this Privacy Policy. 
 
-If you have questions or concerns regarding this statement, you should first contact Customer Support at 937-367-5787. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact admin@build-reciprocal-links.com. 
+If you have questions or concerns regarding this statement, you should first contact Customer Support at +91-9825215822. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact pr@build-reciprocal-links.com. 
 
 build-reciprocal-links.com
 
