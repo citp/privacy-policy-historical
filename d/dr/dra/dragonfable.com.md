@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dragonfable.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216122912id_/http%3A//www.dragonfable.com/df-privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dragonfable.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623014019id_/http%3A//dragonfable.com/df-privacy.asp) for the most accurate reproduction.*
 
-# DragonFable: Privacy Policy
+# PRIVACY POLICY OVERVIEW
 
 DragonFable (created and run by Artix Entertainment, LLC) provides family friendly entertainment to our users. As a result, we are committed to protecting the safety and security of its online visitors and are sensitive to our user’s concerns about the safety of the personal information provided to us. We encourage all our users to read this Privacy Statement carefully in order to understand how any personal information collected about you is used. 
 
@@ -36,11 +36,32 @@ A Subscriber Account is a paid membership account that provides our users with a
 
 We are copied with this information by PayPal (see Security and Credit Card Use below) and require this information for the sole purpose of verifying your account and payment information.
 
-  
-DragonFable does not sell or knowingly divulge your personal information to advertisers or any other third parties, unless we are required to share your information with a third party in order to comply with law, to comply with a court order or subpoena; to enforce our site or game rules; to protect the safety and security of our users and our Web sites.
+III. Artix Affiliate Program   
+The Artix Entertainment Partner Program is Artix’s affiliate marketing program. The Partner Program is the FIRST EVER such program for a Massively Single Player Role Playing Game (MSPRPG), and it is open to anyone 18 years old or older with an active website. For additional information on the Partner Program, please go to 
+
+_[http://www.battleon.com/aq-partner.asp](http://www.battleon.com/aq-partner.asp)_. In order to register for the Partner Program, we will require you to provide the following information:
+
+  * First and last name
+
+  * Address, city, state, zip code and country
+  * Phone number
+  * Email address
+  * Social security number/Corporate ID number/ABN/EIN
+  * Website URL
+
+
 
   
-A cookie is a little piece of information handed to a web browser to a web server that contains information that can be retrieved from the server later. DragonFable uses cookies only to the limited extent of recognizing the registered user and pairing that user with the character that the user created and the account preferences set by that user within the game.
+DragonFable discloses your information to the Internal Revenue Service and to those that help it provide services, including those who perform technical, administrative and data processing tasks such as affiliate tracking, hosting, billing, fulfillment, and data storage and security (“Affiliated Third Parties”). The Affiliated Third Parties to whom DragonFable discloses your personal information all have agreed to abide by this Privacy Policy, although some of these Affiliated Third Parties have separate privacy policies that govern their collection, use and storage of information that you provide to them directly.
+
+  
+DragonFable does not sell or knowingly divulge your personal information to advertisers or any other non-Affiliated Third Parties, unless we are required to share your information with a third party in order to comply with law, to comply with a court order or subpoena; to enforce our site or game rules; to protect the safety and security of our users and our Web sites.
+
+  
+A cookie is a little piece of information handed to a web browser to a web server that contains information that can be retrieved from the server later. DragonFable uses cookies only to the limited extent of recognizing the registered user and pairing that user with the character that the user created and the account preferences set by that user within the game. 
+
+  
+An IP address (Internet Protocol address) is a unique address that certain electronic devices use in order to identify and communicate with each other on a computer network utilizing the Internet Protocol standard (IP)—in simpler terms, a computer address. Any participating network device—including routers, computers, time-servers, printers, Internet fax machines, and some telephones—can have their own unique address.
 
   
 The DragonFable message board is a place for users of the game to interact by posting messages. The message board must be signed up for separately from the game and is subject to TERMS OF USE. 
@@ -52,7 +73,7 @@ DragonFable does not process your payments directly. Instead we contract this se
 DragonFable encourages parents and legal guardians to spend time online with their children. We urge parents and legal guardians to instruct their children to never give out their personal information online without permission. We also recognize a special need to protect personal information obtained from children. In compliance with Children’s Online Privacy Protection Act (“COPPA”), we have adopted the following policies regarding children under the age of 14 (“Children”):
 
 **Type and Use of Information Collected from Children**  
-Parents of children under the age of 13 who wish to allow their children access to the Site or Services must create an account on behalf of their child. When you create a child’s account, you certify that you are at least 18 years old and that you are the legal guardian of the child using the account. Accordingly, as the legal guardian, it is your responsibility to determine whether any of the Service areas and/or Content are appropriate for your child. By creating a child’s account, you also give your child permission to access many areas of the Service, including email and message boards (among others). By creating a child’s account, you do not give your child permission to purchase account upgrades or other items by credit card or any other means. To purchase account upgrades or other products, you must represent that you are at least 18 years old. When you purchase account upgrades or other products on behalf of a child under the age of 18, you certify that you are at least 18 years old and that you are the legal guardian of the child. 
+To create a Free Account, DragonFable does not collect or requite for the child to provide any personally identifiable information if the child is known to DragonFable to be under the age of 14.
 
 To create a Subscriber Account, DragonFable does require an e-mail address as well as the parent’s correct billing information as outlined under the Subscriber Accounts section. The setting up of the account by the parents is considered an actual verifiable consent by the parent for the child to use this website as required by COPPA.
 
@@ -74,7 +95,7 @@ DragonFable does not sell or knowingly divulge your child’s information to adv
 Also, please note that DragonFable does not condition a child’s participation in an online activity on the child providing more personal information than is reasonably necessary for the activity.
 
 **Notification and Verifiable Parental Consent**  
-For Subsciber Accounts, the receipt of payment is considered actual, verifiable consent from the parents to the child’s use of our website and to any information that was divulged as reasonably necessary to process payments, verify and maintain the account.
+At this time, whenever DragonFable is aware that a user is under the age of 14, DragonFable does not require any personal information for that user to set up a free account. For Subsciber Accounts, the receipt of payment is considered actual, verifiable consent from the parents to the child’s use of our website and to any information that was divulged as reasonably necessary to process payments, verify and maintain the account.
 
 **How can parents access, change or delete personally identifiable information about their children?**  
 Parents can find out what personally identifiable information is being kept by DragonFable about their child by e-mailing df.privacy@battleon.com. Parents can then request to purge either all or specific portions of that information by e-mailing df.privacy@battleon.com.
@@ -83,14 +104,9 @@ Parents can find out what personally identifiable information is being kept by D
 DragonFable reserves the right to change, modify, or revise this Privacy Policy in order to comply with any applicable laws or changes within the game or for any other reason at any time. Therefore our users are encouraged to check the Privacy Policy periodically to read about any changes, modifications, or revisions. 
 
   
-If you need further assistance concerning our Privacy Policy or have any additional questions or comments about our Privacy Policy, please contact us at df.privacy@battleon.com or write to us: 
+If you need further assistance or have any additional questions or comments about our Privacy Policy, please contact us at df.privacy@battleon.com or write to us:
 
-**Member Services**  
+Member Services  
 Artix Entertainment, LLC  
 P.O. Box 2005  
-Land O' Lakes, FL 34639  
-(813) 774-8493 
-
-**Please Note: This number is for Privacy Policy purposes only.** Only call this number if you are calling in reference to our Privacy Policy. We do not take orders over the phone, nor provide Technical Support over the phone. For any issue other than the Privacy Policy, such as Billing Questions and Account Recovery questions, please visit the Help Pages.
-
-Our office hours are Noon to 5pm EST Monday through Friday. It can take 3 business days to receive an email response from us because real people read each email. We do not have an automated email response system.
+Land O’ Lakes, FL 34639
