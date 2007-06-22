@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiannet.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231021855id_/http%3A//www.asiannet.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiannet.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622210046id_/http%3A//www.asiannet.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Asian Manufacturers, Asian Suppliers - AsianNet / Global B2B - Asia, China, Taiwan, Trade Directory, Marketplace, Chinese Products, Taiwan Products, China Exporters, Taiwan Exporters
 
