@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebaseballcube.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217191343id_/http%3A//thebaseballcube.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebaseballcube.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622194954id_/http%3A//www.thebaseballcube.com/about/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - The Baseball Cube
 
@@ -6,7 +6,7 @@
   
 The Baseball Cube understands that when you submit information about yourself to us that you wish for it to remain private and thus, we are committed to insuring that any information sent to us remains confidential. Any time we request specific information from you via a web form, we intend to use the data precisely for its intended outlined purpose. This document will further clarify our intentions. 
 
-**Newsletter:** [The Baseball Cube newsletter](https://web.archive.org/web/20061217191343id_/http%3A//thebaseballcube.com/about/newsletter.shtml) asks you to submit your email address to us via a web form. At no time will your email address be visible to site visitors nor will we be giving or selling your email away to other companies. The purpose of collecting addresses is to be able to send you periodical emails with information on our site and by providing us with that email, you are simply letting us know that you are okay with receiving this information. The information sent to you will be text only and will not contain viruses or inappropriate material.
+**Newsletter:** [The Baseball Cube newsletter](https://web.archive.org/web/20070622194954id_/http%3A//www.thebaseballcube.com/about/newsletter.shtml) asks you to submit your email address to us via a web form. At no time will your email address be visible to site visitors nor will we be giving or selling your email away to other companies. The purpose of collecting addresses is to be able to send you periodical emails with information on our site and by providing us with that email, you are simply letting us know that you are okay with receiving this information. The information sent to you will be text only and will not contain viruses or inappropriate material.
 
 **Affiliates:** The Baseball Cube has signed up with different affiliate programs on the Internet including Commission Junction and Amazon.Com. If a visitor to The Baseball Cube clicks on one of these links, the privacy policy of The Baseball Cube is no longer in effect. We are responsible for only the information that is submitted to our site through our web forms or email. Any information sent to third-party web sites, and it use, is completely out of the control of The Baseball Cube.
 
