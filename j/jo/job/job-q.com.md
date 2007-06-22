@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the job-q.com privacy policy that was archived on 2006-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061130163654id_/http%3A//www.job-q.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the job-q.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622232958id_/http%3A//www.job-q.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy Statement
+# Privacy Policy of Job-Q.com
 
 Privacy Policy Statement
 
@@ -14,4 +14,4 @@ Exceptions to this clause are:
   3. To protect privacy of both companies and job seekers, we provide option to hide profile information that is submitted to the site (public viewing disabled)
 
   
-Job-Q.com responsibilities and liabilities in safeguarding this privacy policy is stated in [Terms and Conditions](https://web.archive.org/web/20061130163654id_/http%3A//www.job-q.com/terms.php)
+Job-Q.com responsibilities and liabilities in safeguarding this privacy policy is stated in [Terms and Conditions](https://web.archive.org/web/20070622232958id_/http%3A//www.job-q.com/terms.php)
