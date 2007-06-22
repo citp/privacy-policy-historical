@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theinsider.com privacy policy that was archived on 2006-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061126141154id_/http%3A//www.theinsider.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinsider.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622063048id_/http%3A//www.theinsider.com/privacy.htm) for the most accurate reproduction.*
 
 # Insider Travel Network: insider travel and sightseeing guides for New York City, Boston, Hawaii, Philadelphia, San Francisco and Bermuda
 
@@ -16,7 +16,7 @@ Our site uses cookies to make sure you don't see the same ad repeatedly. We do n
 
 #### Advertisers 
 
-We use several different orgranizations to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
+We use several different orgranizations, including Google, Burst Media, and LinkShare, to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad companies, and we do not have access to this information. 
 
 #### Registration Forms 
 
