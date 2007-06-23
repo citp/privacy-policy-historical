@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the endclothing.co.uk privacy policy that was archived on 2006-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061022163533id_/http%3A//endclothing.co.uk/shop.php/privacy-policy/i_8.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endclothing.co.uk privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623043613id_/http%3A//www.endclothing.co.uk/shop.php/privacy-policy/i_8.html) for the most accurate reproduction.*
 
-# Privacy Policy - End Clothing - Adidas, Nike, Levi, Umbro by Kim Jones, Silas, Fred Perry, Lyle and Scott, and MHI by Maharishi jeans, jackets, t-shirts, trainers and accessories
+# Privacy Policy - End Clothing - Adidas Originals, Nike White Label, Levi Vintage, Umbro by Kim Jones, Fred Perry, Lyle and Scott, and MHI by Maharishi jeans, jackets, t-shirts, trainers and accessories
 
 #### Our Commitment To Privacy
 
