@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the vegas.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205055654id_/http%3A//www.vegas.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegas.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623064542id_/http%3A//www.vegas.com/about/privacy.html) for the most accurate reproduction.*
 
-# Privacy & Security Policy
+# VEGAS.com: About VEGAS.com: Privacy & Security
+
+_Updated Dec. 28, 2006_
 
 * * *
 
@@ -62,13 +64,10 @@ A VEGAS.com third-party advertiser cookie file may also be placed on your hard d
 For more information on cookies, [click here](http://ciac.llnl.gov/ciac/bulletins/i-034.shtml)  
 
 
-**Web Beacons**  
-In order to determine a user's ability to receive HTML e-mail in addition to whether or not an e-mail has been opened, Vegas.com may include a "web beacon" in the HTML e-mail messages it sends. A web beacon is activated when an HTML e-mail is opened via a request for the image on Vegas.com's servers. This capability helps Vegas.com send e-mails in a format users can read and enables Vegas.com to track the aggregate number of e-mails opened. The web beacon does not collect any personally identifiable information. Users that do not want to receive e-mail messages with web beacons can choose to receive their e-mails in text (non-HTML) format. Vegas.com may also use the web beacon capability to track when a URL has been clicked inside of an e-mail message sent by Vegas.com. Vegas.com uses this functionality to track which links are clicked and in what quantity, as well as the aggregate number of links clicked. This click tracking functionality does not collect personally identifiable information. 
-
 **Tracking Pixels**  
 As a means of measuring the efficacy of the online advertising and marketing campaigns that VEGAS.com employs, we may also allow third-party advertising companies to use a single-pixel image file on our site to collect information about your visit. This information is anonymous in nature. It only identifies actions being performed on our website. It does not tie actions back to any individual user of our website. No personally identifiable information is collected during this process. 
 
-Certain VEGAS.com marketing and confirmation e-mails may also contain a single-pixel image file to detect when and whether you've opened the e-mail. VEGAS.com may also track clicks from e-mail communications using an internal or third-party tracking system. This information is gathered in aggregate and is not used to identify individual movements within our e-mails or through our website. 
+Certain VEGAS.com marketing and confirmation e-mails may also contain a single-pixel image file to detect when and whether you've opened the e-mail. VEGAS.com may also track clicks from e-mail communications using an internal or third-party tracking system. Vegas.com uses this personal information to continually assess and improve the products and services we offer. Vegas.com also uses this information to inform you of products and services, sales and special offers that might benefit you. 
 
 These tracking mechanisms are used to ensure that the VEGAS.com website and e-mails continue to provide relevant content that is interesting and useful to our customers. 
 
@@ -138,7 +137,7 @@ Additionally, VEGAS.com may use your information, including personally identifia
 
 In some cases, we may choose to buy or sell assets. In these business transfers, customer information, including personally identifiable information, is typically one of the business assets that is transferred. Moreover, if Vegas.com, or substantially all of its assets were acquired, or in the unlikely event that VEGAS.com goes out of business or enters bankruptcy, customer information, including personally identifiable information, would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Vegas.com may continue to use your personally identifiable information as set forth in this policy. 
 
-From time to time, Vegas.com may enter into agreements with third party providers for web analytic and other similar services. If Vegas.com enters into such an agreement, Vegas.com may share your information, including personally identifiable information, with the provider or such provider may have access to and collect your information. Your information, including personally identifiable information, may be stored with the provider. Before sharing or storing any customer information with a third party provider, Vegas.com shall ensure that any provider agrees to comply with the terms and conditions of this privacy policy. 
+From time to time, Vegas.com may enter into agreements with third party providers for web analytic and other similar services. If Vegas.com enters into such an agreement, Vegas.com may share your information, including personally identifiable information, with the provider or such provider may have access to and collect your information on behalf of Vegas.com. Your information, including personally identifiable information, may be stored with the provider. Before sharing or storing any customer information with a third party provider, Vegas.com shall ensure that any provider agrees to comply with the terms and conditions of this privacy policy. Additionally, Vegas.com generally requires any third party provider of web analytic or other similar services to maintain industry security standards to protect your information. 
 
 If you prefer your web browsing patterns on the VEGAS.com website to be tracked anonymously or if you prefer for your web browsing patterns to not be tracked in this way, please [**click here**](https://web.archive.org/about/siteusage.html) for opt-out options. 
 
@@ -252,7 +251,7 @@ back to top
 If you ever have any questions about our privacy policy, please contact us. We respect your rights and privacy, and will be happy to answer any questions or concerns you might have. 
 
   * **Postal contact:** VEGAS.com, Attn: Customer Privacy, 2370 Corporate Circle Dr., 3rd Floor, Henderson, NV 89074. 
-  * **E-mail contact:** [privacy@vegas.com](mailto:privacy@vegas.com)
+  * **E-mail contact:**[privacy@vegas.com](mailto:privacy@vegas.com)
   * **Telephone contact:** (702) 992-7900 
 
 
