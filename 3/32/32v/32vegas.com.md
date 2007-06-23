@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 32vegas.com privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114045412id_/http%3A//www.32vegas.com/en/security-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 32vegas.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623215207id_/http%3A//www.32vegas.com/en/security-privacy.html) for the most accurate reproduction.*
 
 # The Best of The Online Casinos - 32Vegas Casino : Security & Privacy
 
