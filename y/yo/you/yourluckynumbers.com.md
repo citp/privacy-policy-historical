@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourluckynumbers.com privacy policy that was archived on 2006-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060816084228id_/http%3A//yourluckynumbers.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourluckynumbers.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624013532id_/http%3A//yourluckynumbers.com/Privacy) for the most accurate reproduction.*
 
 # YourLuckyNumbers.com - Privacy Policy
 
