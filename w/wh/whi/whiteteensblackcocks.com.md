@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whiteteensblackcocks.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215023330id_/http%3A//www.whiteteensblackcocks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whiteteensblackcocks.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623112508id_/http%3A//www.whiteteensblackcocks.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
