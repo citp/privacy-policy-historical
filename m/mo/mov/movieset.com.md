@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movieset.com privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114181912id_/http%3A//movieset.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movieset.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623111457id_/http%3A//www.movieset.com/about/privacy) for the most accurate reproduction.*
 
 # Movieset - Privacy Information
 
@@ -80,7 +80,7 @@ We share user information with our parent corporation (Amazon.com, Inc.), the su
 
   
 
-  * Protection of MovieSet and Others: We release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our [Terms and Conditions of Use](https://web.archive.org/web/20061114181912id_/http%3A/about/copyright_condition) and other agreements; or protect the rights, property, or safety of MovieSet, our users, or others. This includes exchanging information with other companies and organizations for fraud protection.
+  * Protection of MovieSet and Others: We release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our [Terms and Conditions of Use](https://web.archive.org/web/20070623111457id_/http%3A/about/copyright_condition) and other agreements; or protect the rights, property, or safety of MovieSet, our users, or others. This includes exchanging information with other companies and organizations for fraud protection.
 
   
 
@@ -129,7 +129,7 @@ MovieSet is not intended for use by children under the age of 13. If you are und
 
 Conditions of Use, Notices, and Revisions
 
-If you choose to visit MovieSet, your visit and any dispute over privacy is subject to this Notice and our [Terms and Conditions of Use](https://web.archive.org/web/20061114181912id_/http%3A/about/copyright_condition) , including limitations on damages, arbitration of disputes, and application of the law of the state of Washington. If you have any concern about privacy at MovieSet, please send us a thorough description to our Help Desk , and we will try to resolve it. Our business changes constantly. This Notice and the [Terms and Conditions of Use](https://web.archive.org/web/20061114181912id_/http%3A/about/copyright_condition) will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes.
+If you choose to visit MovieSet, your visit and any dispute over privacy is subject to this Notice and our [Terms and Conditions of Use](https://web.archive.org/web/20070623111457id_/http%3A/about/copyright_condition) , including limitations on damages, arbitration of disputes, and application of the law of the state of Washington. If you have any concern about privacy at MovieSet, please send us a thorough description to our Help Desk , and we will try to resolve it. Our business changes constantly. This Notice and the [Terms and Conditions of Use](https://web.archive.org/web/20070623111457id_/http%3A/about/copyright_condition) will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes.
 
   
 
