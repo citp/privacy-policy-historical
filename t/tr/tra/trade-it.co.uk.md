@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trade-it.co.uk privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216022909id_/http%3A//www.trade-it.co.uk/PrivacyCookiePolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trade-it.co.uk privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623133220id_/http%3A//www.trade-it.co.uk/PrivacyCookiePolicy.asp) for the most accurate reproduction.*
 
 # Online classifieds - Buy and sell classifieds - Classified advertising - Trade-It Classifieds
 
