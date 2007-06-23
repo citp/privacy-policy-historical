@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the booksontape.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111011016id_/http%3A//www.booksontape.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booksontape.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623231905id_/http%3A//www.booksontape.com/privacy.cfm) for the most accurate reproduction.*
 
 # Booksontape.com : Privacy Policy
 
@@ -37,7 +37,7 @@ We do not collect or use personal data for any purpose other than that indicated
 If we wish to use your personal data for new purposes, we offer you the means to consent to those new purposes: 
 
   * by sending an email (never@booksontape.com) 
-  * by sending postal mail to this address (P.O. Box 25122, Santa Ana, CA 92799-5122) 
+  * by sending postal mail to this address (1745 Broadway, 16th Fl., New York, NY 10019) 
   * by calling this telephone number (1-800-626-3333) 
 
 
@@ -83,7 +83,7 @@ You can ask us, by:
 
   * sending an email (botcs@randomhouse.com) 
   * visiting this url (<https://www.booksontape.com/account/index.cfm>) 
-  * sending postal mail to this address (P.O. Box 25122, Santa Ana, CA 92799-5122) 
+  * sending postal mail to this address (1745 Broadway, 16th Fl., New York, NY 10019) 
 
 whether we are keeping personal data about you. 
 
@@ -91,7 +91,7 @@ Upon request, which you can indicate by:
 
   * sending an email (botcs@randomhouse.com) 
   * visiting this url (<https://www.booksontape.com/account/index.cfm>) 
-  * sending postal mail to this address (P.O. Box 25122, Santa Ana, CA 92799-5122) 
+  * sending postal mail to this address (1745 Broadway, 16th Fl., New York, NY 10019) 
 
 We will provide you with a readable copy of the personal data which we keep about you, although we may before require proof of your identity. We will provide the information without any charge. 
 
@@ -119,22 +119,14 @@ In order to demonstrate that our privacy policy accords with the above privacy i
 
 ####  Self Assessment procedure 
 
-**Name or designation of the privacy policy person or service:** |  Kevin Coon, Privacy Specialist  
+**Name or designation of the privacy policy person or service:** |  Ian Wallace, Privacy Specialist  
 ---|---  
 **URL:** |  <http://www.booksontape.com/privacy.cfm>  
-**Address:** |  P.O. Box 25122, Santa Ana, CA 92799-5122  
+**Address:** |  1745 Broadway, 16th Fl., New York, NY 10019  
 **Country:** |  United States  
   
 If you have an enquiry or concern about our privacy policy, please contact: 
 
-**Name/designation:** |  Kevin Coon, Privacy Specialist  
----|---  
-**Address:** |  P.O. Box 25122, Santa Ana, CA 92799-5122  
-**Phone Number:** |  (714) 327-0315  
-**Fax Number:** |  (714) 825-0756  
-**Email address:** | [ privacy@booksontape.com](mailto:privacy@booksontape.com)  
-**URL:** | [ http://www.booksontape.com/privacy.cfm](http://www.booksontape.com/privacy.cfm)  
-  
   
 
 
