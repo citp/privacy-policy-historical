@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bannerhealth.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206135250id_/http%3A//bannerhealth.com/About%2BUs/Legal%2BNotices/Privacy%2BStatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bannerhealth.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623215920id_/http%3A//www.bannerhealth.com/About%2BUs/Legal%2BNotices/Privacy%2BStatement.htm) for the most accurate reproduction.*
 
 # Banner Health Privacy Statement
 
@@ -9,7 +9,7 @@ Effective Date: 07/30/2004**
 
 This privacy statement describes and applies to the information we collect from you when you visit the Banner Health web site, how we use that information, and under what circumstances we disclose it. It will also give you more information about how to manage the personal information that you provide to us through this site. This statement applies only to information you provide to us online while visiting or using our site. It does not apply to information we have obtained or may obtain offline through other traditional means.
 
-Banner also maintains a separate Notice of Privacy Practices, as required by law, that applies to protected health information that it collects from individuals. You may view that [statement](https://web.archive.org/_Patients+and+Visitors/Privacy+Practices.htm "Privacy practices statement in English and Spanish") in English or Spanish.  
+Banner also maintains a separate [Notice of Privacy Practices](https://web.archive.org/_Patients+and+Visitors/Privacy+Practices.htm "Privacy practices statement in English and Spanish"), as required by law, that applies to protected health information that it collects from individuals. You may view that [statement](https://web.archive.org/_Patients+and+Visitors/Privacy+Practices.htm "Privacy practices statement in English and Spanish") in English or Spanish.  
 
 
 **1\. The information we collect.**
@@ -100,5 +100,5 @@ All comments, feedback, suggestions, ideas, and other submissions disclosed, sub
 
 **8\. Questions, comments and contact information.**
 
-> If you have any questions or comments concerning our privacy policy, please contact us through our online form.   
+> If you have any questions or comments concerning our privacy policy, please contact us through our [online form](https://web.archive.org/_Contact+Us/_feedback.htm "Online form for questions and comments").   
 > 
