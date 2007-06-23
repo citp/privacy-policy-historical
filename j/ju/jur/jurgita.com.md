@@ -1,7 +1,28 @@
-> *The following text is extracted and transformed from the jurgita.com privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224180841id_/http%3A//www.jurgita.com/articles-id380.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jurgita.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623121125id_/http%3A//www.jurgita.com/articles-id380.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
+Author: jurgita.com  
+Articles written: 325  
+Source: [www.jurgita.com](http://www.jurgita.com/)  
+  
+  
+---  
+  
+Article stats:  
+Views: 6882   Votes: 0   Average: 0.00  
+Added: 2005-07-29  Updated: 2007-01-08  
+  
+  
+[](http://www.jurgita.com/send-to.php?article_id=380)
+
+| 
+
+[](http://www.addthis.com/bookmark.php "Bookmark using any bookmark manager!")  
+[](http://www.addthis.com/feed.php?pub=ugnius&h1=http%3A%2F%2Fwww.jurgita.com%2Ffeeds%2Farticles.xml&t1= "Subscribe using any feed reader!")  
+  
+[Submit Your article](http://www.jurgita.com/articles-submit.php)  
+  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
  _The Information We Collect:_
@@ -49,8 +70,3 @@ To protect your privacy and security, we will also take reasonable steps to veri
 By Email: Use the Form [Here](http://www.jurgita.com/tickets.php "Contact Us")  
 By Phone: +370 37 451996  
 By mail: Donelaicio 62-304, Kaunas, Lt-44248, Lithuania
-
-Should you have other questions or concerns about these privacy policies, please call us at +370 37 451996 or send us an email Using the Form [Here](http://www.jurgita.com/tickets.php "Contact Us")
-
-Added: 2005-07-29   
-Updated: 2006-09-15
