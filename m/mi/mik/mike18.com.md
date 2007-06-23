@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mike18.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111140752id_/http%3A//mike18.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mike18.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623105901id_/http%3A//www.mike18.com/privacy.htm) for the most accurate reproduction.*
 
 # Untitled Document
 
