@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldbar.net privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224174158id_/http%3A//www.goldbar.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldbar.net privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623073959id_/http%3A//www.goldbar.net/privacy.htm) for the most accurate reproduction.*
 
 # Goldbar.net Privacy Statement
 
@@ -14,7 +14,7 @@ This privacy statement discloses the privacy practices for Goldbar Enterprises, 
   * The kind of security procedures that are in place to protect the loss, misuse or alteration of information under control
   * How you can correct any inaccuracies in the information
 
-If you feel that Goldbar.net is not abiding by its posted privacy policy, you wish to modify information previously given, or have any questions regarding the privacy policy, please contact us via email at Support@ Goldbar.net or via postal mail at Goldbar Enterprises LLC, 405 Tarrytown Road #1541, White Plains, New York 10607 or by telephone at 212-898-9048.
+If you feel that Goldbar.net is not abiding by its posted privacy policy, you wish to modify information previously given, or have any questions regarding the privacy policy, please contact us via email at Support@ Goldbar.net or via postal mail at Goldbar Enterprises LLC, 405 Tarrytown Road #1541, White Plains, New York 10607 or by telephone at 888-594-0068.
 
 MINORS
 
@@ -28,7 +28,7 @@ Information about your computer hardware and software is automatically collected
 
 ACCESS OF INFORMATION
 
-Upon request we provide site visitors with access to the information that we maintain about them, including financial information (e.g. credit card account information), unique identifier information (e.g. customer number or password), transaction information (e.g., dates on which customers made purchases, amounts and types of purchases), communications that the consumer/visitor has directed to our site (e.g., emails, customer inquiries), contact information (e.g., name, address, phone number). Users can access this information by contacting us via email at Support@ Goldbar.net or via postal mail at Goldbar Enterprises LLC, 405 Tarrytown Road #1541, White Plains, New York 10607 or by telephone at 212-898-9048.
+Upon request we provide site visitors with access to the information that we maintain about them, including financial information (e.g. credit card account information), unique identifier information (e.g. customer number or password), transaction information (e.g., dates on which customers made purchases, amounts and types of purchases), communications that the consumer/visitor has directed to our site (e.g., emails, customer inquiries), contact information (e.g., name, address, phone number). Users can access this information by contacting us via email at Support@ Goldbar.net or via postal mail at Goldbar Enterprises LLC, 405 Tarrytown Road #1541, White Plains, New York 10607 or by telephone at 888-594-0068.
 
 SECURITY
 
@@ -44,7 +44,7 @@ You can send email to Support@ Goldbar.net
 
 You can send mail to the following postal address: Goldbar Enterprises LLC, 405 Tarrytown Road, #1541, White Plains, New York 10607.
 
-You can call Goldbar at 212-898-9048.
+You can call Goldbar at 888-594-0068.
 
 Please note that participation in certain activities on our website may be limited if personally identifiable information is not submitted for the user.
 
