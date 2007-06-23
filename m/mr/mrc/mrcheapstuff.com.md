@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mrcheapstuff.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214222235id_/http%3A//www.mrcheapstuff.com/resources/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrcheapstuff.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623173929id_/http%3A//www.mrcheapstuff.com/resources/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy at Mr. Cheap Stuff
+# Privacy Policy
 
 **Our Commitment To Privacy**
 
@@ -42,4 +42,4 @@ We are not responsible for the practices employed by Web sites linked to or from
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies send us an email at info@mrcheapstuff.com 
+Should you have other questions or concerns about these privacy policies send us an email at info@mrcheapstuff.com
