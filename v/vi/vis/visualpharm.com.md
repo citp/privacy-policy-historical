@@ -1,30 +1,9 @@
-> *The following text is extracted and transformed from the visualpharm.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231022158id_/http%3A//www.visualpharm.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visualpharm.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624001413id_/http%3A//www.visualpharm.com/pp.html) for the most accurate reproduction.*
 
 # VisualPharm Privacy Policy
 
-Privacy Policy
-
 This is the web site of VisualPharm.
 
-We can be reached via e-mail at [sales@visualpharm.com](mailto:sales@visualpharm.com) or via our fax and voicemail box in USA: +1 (815) 642-0396.
-
-**Our snail mail addresses:**
-
-| **In USA**  
-Ivan Boyko  
-Box 73  
-c/o Post International   
-295 Greenwich Street, #353  
-New York NY 10007  
-| **In Europe**  
-Ivan Boyko  
-Box 73  
-c/o Post International  
-PO Box 2176  
-Slough PDO  
-SL3 0PE  
----|---  
-  
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name.
 
 We collect the domain name of visitors to our Web page, the aggregate information on what pages consumers access or visit and the e-mail addresses of those who communicate with us via e-mail or via Live Support Chat.
@@ -43,4 +22,4 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 Upon request we offer visitors the ability to have inaccuracies corrected in contact information, financial information and transaction information. Consumers can have this information corrected by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above contact information.
+If you feel that this site is not following its stated information policy, you may contact us at the above contact information. 
