@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paybycash.com privacy policy that was archived on 2006-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061129002758id_/http%3A//paybycash.com/customer/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paybycash.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623224152id_/http%3A//www.paybycash.com/customer/privacy.php) for the most accurate reproduction.*
 
 # PayByCash™
 
@@ -109,7 +109,7 @@ In order for this Web site to properly fulfill its obligation to users it is nec
 To determine if users have provided valid bank account information and have funds available in their checking account, we will use the information they provide to contact their financial institution before processing their order. This is analogous to a credit card validation and authorization, and a corresponding check for available credit. 
 
 **Correcting/Updating Personal Information**  
-If a user’s personally identifiable information changes (such as zip code, phone, email or postal address), we provide a way to correct or update users’ personally identifiable information. This can be done by emailing our Customer Support at [CustomerService@PayByCash.com](mailto:customerservice@paybycash.com). 
+If a user’s personally identifiable information changes (such as zip code, phone, email or postal address), we provide a way to correct or update users’ personally identifiable information. This can be done by [emailing our Customer Service](https://web.archive.org/service/contact.php)
 
 **Notification of Changes**  
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.   
@@ -120,7 +120,7 @@ If users have any questions or suggestions regarding our privacy policy, please 
 
 **Fax:** 1-434-296-3187 
 
-**Email:** [CustomerService@PayByCash.com](mailto:customerservice@paybycash.com)
+**Email:** [Contact Customer Service](https://web.archive.org/service/contact.php)
 
 **Postal Address:**  
 Internet Payment Solutions, Inc.  
@@ -129,4 +129,4 @@ AStec Center
 Charlottesville, VA 22902  
 USA 
 
-Via contact information found on our Web site at: [http://www.paybycash.com/company/contact_us.php](https://web.archive.org/web/20061129002758id_/http%3A//paybycash.com/company/contact_us.php)
+Via contact information found on our Web site at: [http://www.paybycash.com/company/contact_us.php](https://web.archive.org/web/20070623224152id_/http%3A//www.paybycash.com/company/contact_us.php)
