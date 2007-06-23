@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regnow.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225134632id_/http%3A//regnow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regnow.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623193807id_/http%3A//regnow.com/privacy.html) for the most accurate reproduction.*
 
 # RegNow.com - Sell Software Online - Electronic Software & Shareware Marketing & Distribution
 
