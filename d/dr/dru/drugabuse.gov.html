@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the drugabuse.gov privacy policy that was archived on 2006-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061207061257id_/http%3A//www.drugabuse.gov/tools/Privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the drugabuse.gov privacy policy that was archived on 2007-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070623064612id_/http%3A//www.drugabuse.gov/tools/Privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><!-- #BeginTemplate "/Templates/in_the_news.dwt" --><head>
 <!-- #BeginEditable "doctitle" --> 
@@ -15,9 +15,369 @@
 <script language="javascript" type="text/javascript" src="/includes/style_logic2.js"></script><link title="new" rel="stylesheet" href="/includes/all.css" type="text/css"><link href="/includes/nav6up.css" rel="stylesheet" type="text/css">
 <script language="JavaScript" type="text/javascript" src="/includes/images2.js"></script>
 
+<style type="text/css">
+
+
+
+#dropmenudiv{
+
+position:absolute;
+
+border:1px solid black;
+
+border-bottom-width: 0;
+
+font:normal 12px Verdana;
+
+line-height:18px;
+
+z-index:100;
+
+}
+
+
+
+#dropmenudiv a{
+
+width: 100%;
+
+display: block;
+
+text-indent: 3px;
+
+border-bottom: 1px solid black;
+
+padding: 1px 0;
+
+text-decoration: none;
+
+font-weight: none;
+
+}
+
+
+
+#dropmenudiv a:hover{ /*hover background color*/
+
+background-color: #e7e1d0;
+
+}
+
+
+
+</style>
+
+
+
+<script type="text/javascript">
+
+
+
+
+
+
+
+//Contents for menu 2
+
+var menu2=new Array()
+
+menu2[0]='<a href="/drugpages/alcohol.html">Alcohol</a>'
+
+menu2[1]='<a href="/drugpages/cocaine.html">Cocaine</a>'
+
+menu2[2]='<a href="/drugpages/clubdrugs.html">Club Drugs</a>'
+
+menu2[3]='<a href="/drugpages/heroin.html">Heroin</a>'
+
+menu2[4]='<a href="/drugpages/inhalants.html">Inhalants</a>'
+
+menu2[5]='<a href="/drugpages/acidLSD.html">LSD (Acid)</a>'
+
+menu2[6]='<a href="/drugpages/marijuana.html">Marijuana</a>'
+
+menu2[7]='<a href="/drugpages/mdma.html">MDMA (Ecstasy)</a>'
+
+menu2[8]='<a href="/drugpages/methamphetamine.html">Methamphetamine</a>'
+
+menu2[9]='<a href="/drugpages/nicotine.html">Nicotine</a>'
+
+menu2[10]='<a href="/drugpages/pcp.html">PCP (Phencyclidine)</a>'
+
+menu2[11]='<a href="/drugpages/prescription.html">Prescription Medications</a>'
+
+menu2[12]='<a href="/drugpages/steroids.html">Steroids</a>'
+
+menu2[13]='<a href="/drugpages/steroids.html"><br></a>'
+
+menu2[14]='<a href="/drugpages/testing.html">Drug Testing</a>'
+
+menu2[15]='<a href="/drugpages/HIV.html">HIV and Drug Abuse</a>'
+
+menu2[16]='<a href="/drugpages/prevention.html">Prevention Research</a>'
+
+menu2[17]='<a href="/drugpages/PSAHome.html">Public Service Announcements</a>'
+
+menu2[18]='<a href="/drugpages/stress.html">Stress & Drug Abuse</a>'
+
+menu2[19]='<a href="/drugpages/treatment.html">Treatment Research</a>'
+
+menu2[20]='<a href="/drugpages/stats.html">Trends and Statistics</a>'
+
+		
+
+var menuwidth='235px' //default menu width
+
+var menubgcolor='#edf2eb'  //menu bgcolor
+
+var disappeardelay=250  //menu disappear speed onMouseout (in miliseconds)
+
+var hidemenu_onclick="yes" //hide menu when user clicks within menu?
+
+
+
+/////No further editting needed
+
+
+
+var ie4=document.all
+
+var ns6=document.getElementById&&!document.all
+
+
+
+if (ie4||ns6)
+
+document.write('<div id="dropmenudiv" style="visibility:hidden;width:'+menuwidth+';background-color:'+menubgcolor+'" onMouseover="clearhidemenu()" onMouseout="dynamichide(event)"></div>')
+
+
+
+function getposOffset(what, offsettype){
+
+var totaloffset=(offsettype=="left")? what.offsetLeft : what.offsetTop;
+
+var parentEl=what.offsetParent;
+
+while (parentEl!=null){
+
+totaloffset=(offsettype=="left")? totaloffset+parentEl.offsetLeft : totaloffset+parentEl.offsetTop;
+
+parentEl=parentEl.offsetParent;
+
+}
+
+return totaloffset;
+
+}
+
+
+
+
+
+function showhide(obj, e, visible, hidden, menuwidth){
+
+if (ie4||ns6)
+
+dropmenuobj.style.left=dropmenuobj.style.top="-500px"
+
+if (menuwidth!=""){
+
+dropmenuobj.widthobj=dropmenuobj.style
+
+dropmenuobj.widthobj.width=menuwidth
+
+}
+
+if (e.type=="click" && obj.visibility==hidden || e.type=="mouseover")
+
+obj.visibility=visible
+
+else if (e.type=="click")
+
+obj.visibility=hidden
+
+}
+
+
+
+function iecompattest(){
+
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+
+}
+
+
+
+function clearbrowseredge(obj, whichedge){
+
+var edgeoffset=0
+
+if (whichedge=="rightedge"){
+
+var windowedge=ie4 && !window.opera? iecompattest().scrollLeft+iecompattest().clientWidth-15 : window.pageXOffset+window.innerWidth-15
+
+dropmenuobj.contentmeasure=dropmenuobj.offsetWidth
+
+if (windowedge-dropmenuobj.x < dropmenuobj.contentmeasure)
+
+edgeoffset=dropmenuobj.contentmeasure-obj.offsetWidth
+
+}
+
+else{
+
+var topedge=ie4 && !window.opera? iecompattest().scrollTop : window.pageYOffset
+
+var windowedge=ie4 && !window.opera? iecompattest().scrollTop+iecompattest().clientHeight-15 : window.pageYOffset+window.innerHeight-18
+
+dropmenuobj.contentmeasure=dropmenuobj.offsetHeight
+
+if (windowedge-dropmenuobj.y < dropmenuobj.contentmeasure){ //move up?
+
+edgeoffset=dropmenuobj.contentmeasure+obj.offsetHeight
+
+if ((dropmenuobj.y-topedge)<dropmenuobj.contentmeasure) //up no good either?
+
+edgeoffset=dropmenuobj.y+obj.offsetHeight-topedge
+
+}
+
+}
+
+return edgeoffset
+
+}
+
+
+
+function populatemenu(what){
+
+if (ie4||ns6)
+
+dropmenuobj.innerHTML=what.join("")
+
+}
+
+
+
+
+
+function dropdownmenu(obj, e, menucontents, menuwidth){
+
+if (window.event) event.cancelBubble=true
+
+else if (e.stopPropagation) e.stopPropagation()
+
+clearhidemenu()
+
+dropmenuobj=document.getElementById? document.getElementById("dropmenudiv") : dropmenudiv
+
+populatemenu(menucontents)
+
+
+
+if (ie4||ns6){
+
+showhide(dropmenuobj.style, e, "visible", "hidden", menuwidth)
+
+dropmenuobj.x=getposOffset(obj, "left")
+
+dropmenuobj.y=getposOffset(obj, "top")
+
+dropmenuobj.style.left=dropmenuobj.x-clearbrowseredge(obj, "rightedge")+"px"
+
+dropmenuobj.style.top=dropmenuobj.y-clearbrowseredge(obj, "bottomedge")+obj.offsetHeight+"px"
+
+}
+
+
+
+return clickreturnvalue()
+
+}
+
+
+
+function clickreturnvalue(){
+
+if (ie4||ns6) return false
+
+else return true
+
+}
+
+
+
+function contains_ns6(a, b) {
+
+while (b.parentNode)
+
+if ((b = b.parentNode) == a)
+
+return true;
+
+return false;
+
+}
+
+
+
+function dynamichide(e){
+
+if (ie4&&!dropmenuobj.contains(e.toElement))
+
+delayhidemenu()
+
+else if (ns6&&e.currentTarget!= e.relatedTarget&& !contains_ns6(e.currentTarget, e.relatedTarget))
+
+delayhidemenu()
+
+}
+
+
+
+function hidemenu(e){
+
+if (typeof dropmenuobj!="undefined"){
+
+if (ie4||ns6)
+
+dropmenuobj.style.visibility="hidden"
+
+}
+
+}
+
+
+
+function delayhidemenu(){
+
+if (ie4||ns6)
+
+delayhide=setTimeout("hidemenu()",disappeardelay)
+
+}
+
+
+
+function clearhidemenu(){
+
+if (typeof delayhide!="undefined")
+
+clearTimeout(delayhide)
+
+}
+
+
+
+if (hidemenu_onclick=="yes")
+
+document.onclick=hidemenu
+
+
+
+</script></head><body onload="preloadImages();" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" bgcolor="#E7E1D0"><div id="dropmenudiv" style="visibility:hidden;width:235px;background-color:#edf2eb" onmouseover="clearhidemenu()" onmouseout="dynamichide(event)"></div>
 
 <!-- #EndEditable -->
-</head>
 
 
 
@@ -25,116 +385,193 @@
 
 
 
-<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" bgcolor="#E7E1D0">
+
+
+
 <center>
+
 <br>
 <!-- IN USE, DRAFT HOME PAGE -->
 
+
 <table width="788" border="0" cellspacing="0" cellpadding="0" bgcolor="black">
+
 	<tbody><tr>
+
 	<td>
+
+
 
 	<table width="100%" border="0" cellspacing="1" cellpadding="0">
+
 		<tbody><tr>
+
 		<td>
 
+
+
 		<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#223c75">
+
 		<tbody><tr>
+
 		<td align="left" valign="top"><a href="/index.html"><img src="/1homeimages/NIDA1.gif" alt="NIDA: National Institute on Drug Abuse - The Science of Drug Abuse &amp; Addiction" width="341" height="70" border="0"></a></td>
+
 		<td align="right" valign="top"><img src="/1homeimages/bannerhead6.gif" alt="Keep Your Body Healthy" width="270" height="70" border="0"></td>
+
 		</tr>
+
 		</tbody></table>
+
 	</td>
+
 	</tr>
+
 	<tr>
+
 	<td>
+
 		<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#000066">
+
 		<tbody><tr>
+
 		<td align="left" valign="top" height="22" nowrap="" width="578">
+
 		<a onmouseover="changeImages( /*CMP*/'nav_home_off',/*URL*/'/1homeimages/nav_home_on.gif');return true" onmouseout="changeImages( /*CMP*/'nav_home_off',/*URL*/'/1homeimages/nav_home_off.gif');return true" href="/NIDAHome.html"><img src="/1homeimages/nav_home_off.gif" alt="Go to the Home page" name="nav_home_off" width="52" height="22" border="0"></a><img src="/1homeimages/nav_spacer.gif" alt="" width="4" height="22" border="0"><a onmouseover="changeImages( /*CMP*/'nav_about_off',/*URL*/'/1homeimages/nav_about_on.gif');return true" onmouseout="changeImages( /*CMP*/'nav_about_off',/*URL*/'/1homeimages/nav_about_off.gif');return true" href="/AboutNIDA.html"><img src="/1homeimages/nav_about_off.gif" alt="Go to the About Nida page" name="nav_about_off" width="98" height="22" border="0"></a><img src="/1homeimages/nav_spacer.gif" alt="" width="4" height="22" border="0"><a onmouseover="changeImages( /*CMP*/'nav_news_off',/*URL*/'/1homeimages/nav_news_on.gif');return true" onmouseout="changeImages( /*CMP*/'nav_news_off',/*URL*/'/1homeimages/nav_news_off.gif');return true" href="/NIDANews.html"><img src="/1homeimages/nav_news_off.gif" alt="Go to the News &amp; Events page" name="nav_news_off" width="118" height="22" border="0"></a><img src="/1homeimages/nav_spacer.gif" alt="" width="4" height="22" border="0"><a onmouseover="changeImages( /*CMP*/'nav_funding_off',/*URL*/'/1homeimages/nav_funding_on.gif');return true" onmouseout="changeImages( /*CMP*/'nav_funding_off',/*URL*/'/1homeimages/nav_funding_off.gif');return true" href="/funding/"><img src="/1homeimages/nav_funding_off.gif" alt="Go to the Funding page" name="nav_funding_off" width="77" height="22" border="0"></a><img src="/1homeimages/nav_spacer.gif" alt="" width="4" height="22" border="0"><a onmouseover="changeImages( /*CMP*/'nav_pubs_off',/*URL*/'/1homeimages/nav_pubs_on.gif');return true" onmouseout="changeImages( /*CMP*/'nav_pubs_off',/*URL*/'/1homeimages/nav_pubs_off.gif');return true" href="http://ncadistore.samhsa.gov/catalogNIDA/"><img src="/1homeimages/nav_pubs_off.gif" alt="Go to the Publications page" name="nav_pubs_off" width="109" height="22" border="0"></a>
+
 		</td>
 
+
+
 <form method="get" action="http://search2.google.cit.nih.gov/search" name="search"></form>
+
   
+
       
+
       
+
       <td align="right" valign="top" height="22" nowrap="">
+
        
+
 <input id="searchbox" type="text" name="q" size="16" maxlength="255" value="">
+
+
+
 
 
 <input type="hidden" name="site" value="NIDA">
 
+
+
 <input type="hidden" name="client" value="NIDA_frontend">
+
+
 
 <input type="hidden" name="proxystylesheet" value="NIDA_frontend">
 
+
+
 <input type="hidden" name="output" value="xml_no_dtd">
 
+
+
 <input type="hidden" name="filter" value="0">
+
+
 
 <input type="hidden" name="getfields" value="*">
 
 
+
+
+
 <input type="image" src="/1homeimages/nav_search.gif" align="absmiddle" width="60" height="22" border="0" name="btnG" id="btnG" alt="Search">
 
+
+
       </td>
+
     
 
 
+
+
+
 		</tr>
+
 		</tbody></table>
+
 	</td>
+
 	</tr>
+
 	</tbody></table>
+
 </td>
+
 </tr>
+
 </tbody></table>
 
+
+
 <table width="788" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr height="45">
-<td align="right" valign="top" bgcolor="#e7e1d0" width="530">
+
+<tbody><tr height="36">
+
+<td align="right" valign="top" bgcolor="#e7e1d0" width="530" height="36"><a onmouseover="changeImages( /*CMP*/'b1',/*URL*/'/1homeimages/newnav/physicians_on.gif');return true" onmouseout="changeImages( /*CMP*/'b1',/*URL*/'/1homeimages/newnav/physicians_off.gif');return true" href="/medstaff.html"><img src="/1homeimages/newnav/physicians_off.gif" alt="Physicians" name="b1" height="36" width="136" border="0"></a><a onmouseover="changeImages( /*CMP*/'b2',/*URL*/'/1homeimages/newnav/researchers_on.gif');return true" onmouseout="changeImages( /*CMP*/'b2',/*URL*/'/1homeimages/newnav/researchers_off.gif');return true" href="/researchers.html"><img src="/1homeimages/newnav/researchers_off.gif" alt="Researchers" name="b2" height="36" width="107" border="0"></a><a onmouseover="changeImages( /*CMP*/'b3',/*URL*/'/1homeimages/newnav/parents_on.gif');return true" onmouseout="changeImages( /*CMP*/'b3',/*URL*/'/1homeimages/newnav/parents_off.gif');return true" href="/parent-teacher.html"><img src="/1homeimages/newnav/parents_off.gif" alt="Parents/Teachers" name="b3" height="36" width="91" border="0"></a><a onmouseover="changeImages( /*CMP*/'b4',/*URL*/'/1homeimages/newnav/students_on.gif');return true" onmouseout="changeImages( /*CMP*/'b4',/*URL*/'/1homeimages/newnav/students_off.gif');return true" href="/students.html"><img src="/1homeimages/newnav/students_off.gif" alt="Students/Young Adults" name="b4" height="36" width="114" border="0"></a><a onmouseover="changeImages( /*CMP*/'b5',/*URL*/'/1homeimages/newnav/espanol_on.gif');return true" onmouseout="changeImages( /*CMP*/'b5',/*URL*/'/1homeimages/newnav/espanol_off.gif');return true" href="/nidaespanol.html"><img src="/1homeimages/newnav/espanol_off.gif" alt="En Español" name="b5" height="36" width="82" border="0"></a></td>
+
+					<td align="right" valign="middle" bgcolor="#e7e1d0" height="36"><font color="#e7e1d0">
+
 					
-<img src="/1homeimages/nav2_info.gif" alt="" width="25" height="45" border="0"><a onmouseover="changeImages( /*CMP*/'nav2_research_off',/*URL*/'/1homeimages/nav2_research_on.gif');return true" onmouseout="changeImages( /*CMP*/'nav2_research_off',/*URL*/'/1homeimages/nav2_research_off.gif');return true" href="/researchers.html"><img src="/1homeimages/nav2_research_off.gif" alt="Go to Researchers and Health Professionals" name="nav2_research_off" width="175" height="45" border="0"></a><a onmouseover="changeImages( /*CMP*/'nav2_parents_off',/*URL*/'/1homeimages/nav2_parents_on.gif');return true" onmouseout="changeImages( /*CMP*/'nav2_parents_off',/*URL*/'/1homeimages/nav2_parents_off.gif');return true" href="/parent-teacher.html"><img src="/1homeimages/nav2_parents_off.gif" alt="Go to Parents and Teachers" name="nav2_parents_off" width="99" height="45" border="0"></a><a onmouseover="changeImages( /*CMP*/'nav2_students_off',/*URL*/'/1homeimages/nav2_students_on.gif');return true" onmouseout="changeImages( /*CMP*/'nav2_students_off',/*URL*/'/1homeimages/nav2_students_off.gif');return true" href="/students.html"><img src="/1homeimages/nav2_students_off.gif" alt="Go to Students and Young Adults" name="nav2_students_off" width="130" height="45" border="0"></a><a onmouseover="changeImages( /*CMP*/'nav2_espanol_off',/*URL*/'/1homeimages/nav2_espanol_on.gif');return true" onmouseout="changeImages( /*CMP*/'nav2_espanol_off',/*URL*/'/1homeimages/nav2_espanol_off.gif');return true" href="/NIDAEspanol.html"><img src="/1homeimages/nav2_espanol_off.gif" alt="Go to NIDA en espanol." name="nav2_espanol_off" width="81" height="45" border="0"></a><img src="/1homeimages/nav2_tab.gif" alt="" height="45" width="20" border="0"></td><td align="right" valign="middle" bgcolor="#e7e1d0"><font size="1" face="Arial, Helvetica, San-Serif">
-<select onchange="window.open(this.options[this.selectedIndex].value,'_top')">
-    <option selected="">SELECT A TOPIC...</option> 
-	<option value="/drugpages/acidLSD.html">Acid/LSD</option>
-    <option value="/drugpages/alcohol.html">Alcohol</option>
-    <option value="/drugpages/clubdrugs.html">Club Drugs</option>
-    <option value="/drugpages/cocaine.html">Cocaine</option>
-    <option value="/drugpages/mdma.html">Ecstasy/MDMA</option>
-    <option value="/drugpages/heroin.html">Heroin</option>
-    <option value="/drugpages/inhalants.html">Inhalants</option>
- 	<option value="/drugpages/marijuana.html">Marijuana</option>
-    <option value="/drugpages/methamphetamine.html">Methamphetamine</option>
- 	<option value="/drugpages/pcp.html">PCP/Phencyclidine</option>
-  	<option value="/drugpages/prescription.html">Prescription Medications</option>
- 	<option value="/drugpages/nicotine.html">Smoking/Nicotine</option>
-  	<option value="/drugpages/steroids.html">Steroids (Anabolic)</option>
-  	<option value="#">----------------</option>
-  	<option value="#">RELATED TOPICS</option>
-  	<option value="/about/organization/Organization.html">Divisions/Centers/Offices</option>
-  	<option value="/CTN/index.htm">Clinical Trials Network</option>
-  	<option value="/drugpages/cj.html">Crime &amp; Drug Treatment</option>
-    <option value="/drugpages/testing.html">Drug Testing</option>
-    <option value="/drugpages/HIV.html">HIV/AIDS &amp; Drug Abuse</option>
-    <option value="/consequences/">Medical Consequences</option>
-  	<option value="/drugpages/prevention.html">Prevention Research</option>
-    <option value="/drugpages/stress.html">Stress &amp; Drug Abuse</option>
- <option value="/drugpages/treatment.html">Treatment Research</option>
- <option value="/drugpages/stats.html">Trends and Statistics</option>
-</select></font><font color="#e7e1d0">..</font></td>
-				<td align="center" valign="left" bgcolor="#e7e1d0" width="24"><a onmouseover="changeImages( /*CMP*/'nav2_go_off',/*URL*/'/1homeimages/nav2_go_on.gif');return true" onmouseout="changeImages( /*CMP*/'nav2_go_off',/*URL*/'/1homeimages/nav2_go_off.gif');return true" href="/drugpages/"><img src="/1homeimages/nav2_go_off.gif" alt="GO!" align="absmiddle" name="nav2_go_off" width="24" height="45" border="0"></a></td>
+
+					
+
+							<a href="#" onclick="return dropdownmenu(this, event, menu2, '235px')" onmouseout="delayhidemenu()"><img src="/1homeimages/newnav/drugs_on.gif" alt="Drugs of Abuse &amp; Related Topics" name="b6" height="36" width="238" border="0"></a>
+
+					
+
+					</font>
+
+					
+
+					</td>
+
+			
+
+			
+
+
+
+			
+
+			
+
+			
+
+			
+
 			</tr>
+
 </tbody></table>
+
+
+
 
 
 <table width="788" border="0" cellspacing="0" cellpadding="1" bgcolor="black">
+
 <tbody><tr>
+
 <td>
+
 <table width="100%" border="0" cellspacing="0" cellpadding="5" bgcolor="white">
+
 <tbody><tr>
+
 <td>
+
 
 
 
@@ -340,7 +777,7 @@ The NIDA site is running a customer satisfaction survey that employs persistent 
 <tbody><tr>
 <td width="100" valign="top" align="center"><a href="http://www.nih.gov/"><img src="/Images/nihseal2.gif" border="0" width="36" height="37" alt="National Institutes of Health logo"></a><font color="white">_</font><a href="http://www.hhs.gov/"><img src="/Images/dhhs_sm.gif" border="0" width="36" height="37" alt="Department of Health and Human Services Logo"></a></td>
 <td><font size="1">The National Institute on Drug Abuse (NIDA) is part of the <a href="http://www.nih.gov/">National Institutes of Health (NIH)</a> , a component of the <a href="http://www.hhs.gov/">U.S. Department of Health and Human Services</a>. Questions? See our <a href="/about/AboutNIDA.html"><b>Contact Information</b></a>. <i>Last updated on Monday, May 8, 2006</i></font>.</td>
-<td align="left" valign="top" width="155"><a href="http://firstgov.gov/"><img src="/1homeimages/firstgov_sm.gif" alt="" width="135" height="37" border="0"></a></td>
+<td align="left" valign="top" width="155"><a href="http://www.usa.gov/"><img src="/1homeimages/usagov.gif" alt="The U.S. government's official web portal" width="129" height="37" border="0"></a></td>
 </tr>
 </tbody></table>
 </td>
