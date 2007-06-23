@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the bmwusa.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110131724id_/http%3A//www.bmwusa.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmwusa.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623143111id_/http%3A//www.bmwusa.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - BMWUSA.com - BMW North America
 
-**Our Promise to You**   
+**Privacy Policy last updated 6/04/2007**
+
+ **Our Promise to You**   
 We appreciate the trust you place in BMW and would not want to jeopardize your trust in any way. We respect your privacy and are committed to protecting the security of your personal information. Rest assured that we will not rent or sell your personal information to anyone. 
 
 BMW works with retailers and contracted business partners to provide you with products and services and to give you the best ownership experience possible. We maintain physical, electronic and procedural safeguards designed to protect your personal information. We will address your privacy-related questions or concerns. 
