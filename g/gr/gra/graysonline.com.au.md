@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graysonline.com.au privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208033331id_/http%3A//www.graysonline.com.au/help/AU/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graysonline.com.au privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623073354id_/http%3A//www.graysonline.com.au/help/AU/privacy.asp) for the most accurate reproduction.*
 
 # GraysOnline
 
@@ -39,7 +39,7 @@ When a GraysOnline web page is requested and viewed, that request is logged on o
 \- Diagnose service or system problems reported by our users that may be associated with IP addresses controlled by a specific Internet Service Provider (ISP) 
 
 **5\. Where will my personal information be used?**  
-Personal information such as contact details and billing information is collected in order that we can efficiently process your bids at online auctions. 
+Personal information such as contact details and billing information is collected in order that we can efficiently process your registration and your bids at online auctions. 
 
 We also want to make your experience online a satisfying and safe one by making it easier and more rewarding for you to use our services. We therefore ask you to provide other personal information such as purchasing preferences and demographic data. Naturally, we want you to come back and visit us regularly, so we use the data you supply to us, and your bidding history at online auctions to tailor the content we display to you according to your preferences. We may also use it to advise you when certain items of interest to you come up for bidding at auction. Should you so choose, you can opt-out of receiving communications from us at any time, by visiting the "My Info" section, and follow the instructions to unsubscribe.
 
@@ -82,4 +82,4 @@ We may amend our Online Auctions Privacy Statement if further privacy legislatio
 
 These amendments will take effect from the time of posting and you should check back from time to time for any such amendments.
 
-[Click here](https://web.archive.org/web/20061208033331id_/http%3A//www.graysonline.com.au/help/AU/auction_rules.asp) to read the complete Bidders Agreement. 
+[Click here](https://web.archive.org/web/20070623073354id_/http%3A//www.graysonline.com.au/help/AU/bid_agreement.asp) to read the complete Bidders Agreement. 
