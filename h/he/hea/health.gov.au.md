@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the health.gov.au privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019175502id_/http%3A//www.health.gov.au/internet/wcms/publishing.nsf/Content/privacy_security.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the health.gov.au privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623221452id_/http%3A//www.health.gov.au/internet/wcms/publishing.nsf/Content/privacy_security.htm) for the most accurate reproduction.*
 
 # Privacy and security
 
