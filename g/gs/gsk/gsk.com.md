@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gsk.com privacy policy that was archived on 2006-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061106055956id_/http%3A//www.gsk.com/yourprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsk.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623060032id_/http%3A//www.gsk.com/yourprivacy.htm) for the most accurate reproduction.*
 
-# GlaxoSmithKline: Privacy statement
+# Privacy statement - GlaxoSmithKline
 
   * [Home](https://web.archive.org/ "Home")
   * Privacy statement
