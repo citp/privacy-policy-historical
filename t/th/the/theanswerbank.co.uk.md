@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theanswerbank.co.uk privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217081921id_/http%3A//www.theanswerbank.co.uk/Info/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theanswerbank.co.uk privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623145950id_/http%3A//www.theanswerbank.co.uk/Info/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # The AnswerBank: Privacy Policy
 
@@ -41,7 +41,7 @@ If we are requested by the police or any regulatory or government authority inve
   * Yes. Cookies are small files that are placed on your computer by your browser. We use them to save information that helps you - for example to save you entering your personal details every time you re-visit the site. The cookies contain no personal details about you. You can disable cookies by changing your browser preferences, but may find you have to enter the same information over and over again if you use a personalised part of the service regularly.
 
 
-  * What if The AnswerBank changes it's privacy policy?
+  * What if The AnswerBank changes its privacy policy?
   * We will let you know by making any alterations clear on this page.
 
 
