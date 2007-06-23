@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the searchmarketingstandard.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205214431id_/http%3A//www.searchmarketingstandard.com/%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchmarketingstandard.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623071529id_/http%3A//www.searchmarketingstandard.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Search Marketing Standard Magazine
 
 Protecting the information of our visitors is of paramount importance to us. Therefore, Search Marketing Standard, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for Search Marketing Standard, Inc.
 
@@ -10,6 +10,6 @@ There are a number of registration and contact forms present throughout the Sear
 
 SearchMarketingStandard.com also contains hyperlinks to other sites outside our network. Search Marketing Standard, Inc. is not responsible for the privacy practices or the content of the sites that we knowingly or inadvertently link to, nor are these outside sites protected by this statement.
 
-While browsing the sites of our advertisers, you may encounter "cookies" which collect information regarding your Web surfing habits. Search Marketing Standard, Inc. does not have direct access to the information these cookies collect.
+While browsing the sites of our advertisers, you may encounter “cookies” which collect information regarding your Web surfing habits. Search Marketing Standard, Inc. does not have direct access to the information these cookies collect.
 
-Search Marketing Standard, Inc. has security measures in place to protect the loss, misuse and alteration of the information under our control, including server security features. These are updated on a regular basis to ensure the protection of your information.
+Search Marketing Standard, Inc. has security measures in place to protect the loss, misuse and alteration of the information under our control, including server security features. These are updated on a regular basis to ensure the protection of your information. 
