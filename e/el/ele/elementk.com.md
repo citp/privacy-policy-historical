@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the elementk.com privacy policy that was archived on 2006-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061201195355id_/http%3A//elementk.com/index.asp%3Forgid%3D117%26storyTypeID%3D%26sid%3D%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elementk.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623130121id_/http%3A//www.elementk.com/index.asp%3Forgid%3D117%26storyTypeID%3D%26sid%3D%26) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Privacy and Security Policy
 
 Introduction  
-Element K LLC, on behalf of itself, and its affiliates and subsidiaries (“Element K”) is committed to upholding the highest security and privacy standards for our online products and services. Our Privacy and Security Policy has been developed as a core component of our commitment to combine the finest quality products and services with the highest level of integrity in dealing with our customers. This policy guides how we collect and use information about customers, and we commit that it will be continuously assessed against new technologies, business practices and standards being enacted by other internet-based companies.
+Element K Corporation, on behalf of itself, and its affiliates and subsidiaries (“Element K”) is committed to upholding the highest security and privacy standards for our online products and services. Our Privacy and Security Policy has been developed as a core component of our commitment to combine the finest quality products and services with the highest level of integrity in dealing with our customers. This policy guides how we collect and use information about customers, and we commit that it will be continuously assessed against new technologies, business practices and standards being enacted by other internet-based companies.
 
 Scope  
 This Privacy and Security Policy guides how we collect and use information collected on the website where this Policy appears. This Policy does not extend to other online or offline sites, products, or services. Please read this Policy in its entirety. By using this website, you consent to the data practices described in this Policy.
