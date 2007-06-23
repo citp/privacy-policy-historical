@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the winonadailynews.com privacy policy that was archived on 2004-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041024191731id_/http%3A//www.winonadailynews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winonadailynews.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623095707id_/http%3A//www.winonadailynews.com/privacy) for the most accurate reproduction.*
 
-# Winona Daily News - privacy
+# Winona Daily News - 6.0
 
-**Welcome to the web sites of the Winona Daily News,** a media company located in eastern Minnesota. We believe in your right to know what information is collected during your visit to our web sites and how the information is used and safeguarded. 
+**Welcome to the web sites of the Winona Daily News,** a media company located in Minnesota. We believe in your right to know what information is collected during your visit to our web sites and how the information is used and safeguarded. 
 
 The information gathered by the Winona Daily News website falls into two categories:  
 (1) information voluntarily supplied by visitors to our websites through optional registration, and   
@@ -31,7 +31,7 @@ To help make our sites more responsive to the needs of our visitors, we may util
 
 **Information Shared With Other Organizations**
 
-When we present information to our advertisers -- to help them understand our audience and confirm the value of advertising on our websites \-- it is usually in the form of aggregated statistics on traffic to various pages within our sites. From time to time, we may share information on visitors to our sites with those marketing products and services that we believe may be of interest to you. This list can include your e-mail address and, other specific information (such as your phone number or street address) you may have provided us while online. 
+When we present information to our advertisers -- to help them understand our audience and confirm the value of advertising on our websites -- it is usually in the form of aggregated statistics on traffic to various pages within our sites. From time to time, we may share information on visitors to our sites with those marketing products and services that we believe may be of interest to you. This list can include your e-mail address and, other specific information (such as your phone number or street address) you may have provided us while online. 
 
 **Special Attention to Children**
 
