@@ -1,24 +1,26 @@
-> *The following text is extracted and transformed from the annaslinens.com privacy policy that was archived on 2006-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060707071815id_/http%3A//annaslinens.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the annaslinens.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623043857id_/http%3A//www.annaslinens.com/content/4/privacy-security.html) for the most accurate reproduction.*
 
-# Annas Linens - Privacy Policy
+# Privacy & Security
 
-Privacy Policy Welcome to Adobe GoLive 6
+**Privacy Policy**   
+At Anna's Linens, we are committed to protecting the privacy of our customers, which is why we do not sell, rent, or loan any personal identifiable information regarding our customers to any third party. We hope the policy below will answer all of your questions regarding how we treat information gathered from visitors to Anna's Linens. Feel free to email us at [AnnasLinens.com](https://web.archive.org/web/20070623043857id_/http%3A//www.annaslinens.com/content/4/contact) with any questions you might have. 
 
-**Information collection and use  
-**
+**What Information We Collect**   
+In order to process your order efficiently, we collect the following information: name, billing address, shipping address, e-mail address, phone number, and credit card number ("Personal Information") when you place an order with us. This information is used solely by Anna's Linens and is stored in a secure environment. Under certain circumstances we do also collect the user's IP address, but only when we suspect that credit card fraud may have occurred. We also periodically conduct surveys of visitors to our Web site. This helps us better understand what our customers would like to see from us. We use this information for internal marketing research purposes. We may contact a visitor who responded to a survey for more information, but only if that visitor has told us that they don't mind being contacted. 
 
-Anna's Linens collects personal information when you register for email notifications. We collect your first name, last name, email address and zip code. This information is not publically available. We do not sale or rent your personal information to anyone. We use it to send you information about upcoming events at www.AnnasLinens.com or through one of our retail store locations. If you would like to subscribe or unsubscribe to the Anna's Linens email list, [click here](https://web.archive.org/web/20060707071815id_/http%3A//annaslinens.com/list.html).
+**Use of Information that You Provide**   
+At Anna's Linens we collect Personal Information only for the purposes of fulfilling orders, providing a high level of customer service, gaining knowledge internally regarding what our customers want and mailing circulars and special offers from Anna's Linens. We do not give or sell Personal Information to any other party. If at any time you do not want to receive offers and/or circulars from us, you can always remove yourself from our mailing list by sending an e-mail to [AnnasLinens.com](https://web.archive.org/web/20070623043857id_/http%3A//www.annaslinens.com/content/4/contact). 
 
-Anna's Linens collects personal information at the time you make a purchase. The information collected is: Ship to and bill to name, address, phone and email address. Additional information collected is merchandise purchased and credit card type, number, and expiration date for processing your purchase. This information is used to process your order and ship the merchandise you ordered to you. This information is not publically available.
+**Opt-out Email policy**   
+We ask that you tell us when you do not wish to receive periodic emails from us. We will only send email for customer service purposes and to those visitors who have indicated that they wish to receive other types of email from us. If at any time you wish to stop receiving email from us at any time, you can always remove your name from our mailing list by sending an email to [AnnasLinens.com](https://web.archive.org/web/20070623043857id_/http%3A//www.annaslinens.com/content/4/contact) stating that you wish to unsubscribe. 
 
-Anna's Linens collects generic information while you browse www.AnnasLinens.com. This information is used to enhance your shopping experience while on our website. At any time, feel free to send us a note and tell us your ideas and how we are doing at [web@AnnasLinens.com](mailto:web@AnnasLinens.com).
+**Security of the Information You Provide**   
+Among our top priorities is keeping your Personal Information secure. We use Secure Sockets Layer (SSL) technology, which provides the highest level of security currently available for secure transactions, to encrypt all of your Personal Information before it is transmitted to us. Encrypted information cannot be read or recorded as it travels over the Internet. You can tell you are sending information securely by the unbroken key icon or closed lock icon that should appear at the bottom of your internet browser's window (depending on what browser you use). These icons will appear when you are placing an order on our Web site. In addition, you will see our site address change slightly, from http: to https: indicating a secure server connection is being used. 
 
-**Secure shopping  
-**
+Additionally, access to your Personal Information is provided only to our employees and agents who have a need to know such information for the purpose of fulfilling your order and offering our high level of customer service. The computers that store your Personal Information are located in a separate facility which employs the latest in firewall and security technology. 
 
-At Anna's Linens, we take security in your shopping experience seriously. We want you to feel safe shopping with us and for that reason, we treat your secure information as if it was our own. This is one of the reasons why we decided to partner with Yahoo! stores. To process orders, Yahoo! uses industry-standard SSL-encryption to protect data transmissions. What that means is your credit card information is safe when your order is processed through the Yahoo! shopping cart. Remember to never email your credit card information as regular email is not secure.
+**Use of Cookies**   
+We use cookies to provide our customers with streamlined ordering and other useful features. Cookies are pieces of information that are stored by your browser on your computer's hard drive. Cookies make Web surfing easier for you by saving your customer identification information while you're at our site. The use of cookies has become an industry standard used by most major Web sites. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that. Please continue to review our privacy policy from time to time so that you are aware of our current policy with respect to cookies. 
 
-**Changes  
-**
-
-Anna's Linens may update this privacy policy. We will notify you of significant changes in the way we treat personal information by sending an email to the subscribers of www.AnnasLinens.com email list and post a link on the website. If you would like to subscribe or unsubscribe to the Anna's Linens email list, [click here](https://web.archive.org/web/20060707071815id_/http%3A//annaslinens.com/list.html).
+**Your Acceptance of these Terms**   
+By using our Web site, you agree to accept the Anna's Linens privacy policy. Make sure you read this policy carefully, because if you do choose to use our Web site, you automatically agree to this policy. If you do not agree to this policy, please do not use our Web site. We reserve the right, at our discretion, to change, modify, add, or remove 
