@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebusiness-articles.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214174055id_/http%3A//ebusiness-articles.com/PP.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebusiness-articles.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623064134id_/http%3A//www.ebusiness-articles.com/PP.htm) for the most accurate reproduction.*
 
 # Untitled Document
 
