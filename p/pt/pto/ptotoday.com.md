@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ptotoday.com privacy policy that was archived on 2006-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061127060214id_/http%3A//www.ptotoday.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ptotoday.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623140320id_/http%3A//www.ptotoday.com/privacy.html) for the most accurate reproduction.*
 
 # Our Privacy Policy | PTO Today
 
@@ -63,3 +63,15 @@ PTO Today, Inc.
 100 Stonewall Blvd, Suite 3   
 Wrentham, MA 02093  
 [info@ptotoday.com](mailto:info@ptotoday.com)
+
+|  | 
+
+| 
+
+"Thank you!! Thank You!! What a wonderful thing you started with PTO Today! I hope you will continue this mission to inspire, teach, and encourage future parent leaders."
+
+Cheryl Peters, PTO Secretary  
+South Butler Inter-Elementary School  
+Saxonburg, PA  
+  
+---
