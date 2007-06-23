@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uni.edu privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212114752id_/http%3A//www.uni.edu/pres/policies/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uni.edu privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623231202id_/http%3A//www.uni.edu/pres/policies/privacy.shtml) for the most accurate reproduction.*
 
 # UNI | Web Policy Statement
 
