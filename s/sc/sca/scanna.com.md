@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scanna.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231143709id_/http%3A//www.scanna.com/index/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scanna.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623164927id_/http%3A//www.scanna.com/index/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Scanna - easy way to meet Russian brides – Privacy Statement
 
@@ -80,6 +80,3 @@ The present Agreement is an open and publicly accessible document. The current e
 > 4\. Scanna right to modify the Agreement
 
 Scanna reserves the right to modify the present Agreement, and notify members about such modifications at the address, where the present Agreement is placed, not later than 7 days before the respective alterations will come into force. 
-
-  
-
