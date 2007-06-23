@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gicare.com privacy policy that was archived on 2006-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061027000644id_/http%3A//gicare.com/jprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gicare.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623054056id_/http%3A//gicare.com/jprivacy.htm) for the most accurate reproduction.*
 
 # Jackson Gastroenterology Privacy Policy
 
@@ -7,39 +7,34 @@
 | 
 
   
-[Home](https://web.archive.org/web/20061027000644id_/http%3A//gicare.com/index.htm) |  [Jackson Siegelbaum Gastro](https://web.archive.org/web/20061027000644id_/http%3A//gicare.com/j000001.htm) |  [Patient Education](https://web.archive.org/web/20061027000644id_/http%3A//gicare.com/pated/e000001.htm)
+[Home](https://web.archive.org/web/20070623054056id_/http%3A//gicare.com/index.htm) |  [Jackson Siegelbaum Gastro](https://web.archive.org/web/20070623054056id_/http%3A//gicare.com/j000001.htm) |  [Patient Education](https://web.archive.org/web/20070623054056id_/http%3A//gicare.com/pated/e000001.htm)
 
 |   
   
 ---|---|---|---  
 |  |  |   
-[ ](https://web.archive.org/web/20061027000644id_/http%3A//gicare.com/j000001.htm) [ ](https://web.archive.org/web/20061027000644id_/http%3A//gicare.com/j000001.htm) [   
-](https://web.archive.org/web/20061027000644id_/http%3A//gicare.com/j000001.htm) [   
-](https://web.archive.org/web/20061027000644id_/http%3A//gicare.com/jpl0001.htm) [   
-](https://web.archive.org/web/20061027000644id_/http%3A//gicare.com/jos0001.htm) [   
-](https://web.archive.org/web/20061027000644id_/http%3A//gicare.com/joi0001.htm) [   
-](https://web.archive.org/web/20061027000644id_/http%3A//gicare.com/jfu0001.htm) [   
-](https://web.archive.org/web/20061027000644id_/http%3A//gicare.com/jin0001.htm) [ ](https://web.archive.org/web/20061027000644id_/http%3A//gicare.com/jpt0001.htm)  
-[ ](https://web.archive.org/web/20061027000644id_/http%3A//gicare.com/jprivacy.htm)
+[ ](https://web.archive.org/web/20070623054056id_/http%3A//gicare.com/j000001.htm) [ ](https://web.archive.org/web/20070623054056id_/http%3A//gicare.com/j000001.htm) [   
+](https://web.archive.org/web/20070623054056id_/http%3A//gicare.com/j000001.htm) [   
+](https://web.archive.org/web/20070623054056id_/http%3A//gicare.com/jpl0001.htm) [   
+](https://web.archive.org/web/20070623054056id_/http%3A//gicare.com/jos0001.htm) [   
+](https://web.archive.org/web/20070623054056id_/http%3A//gicare.com/joi0001.htm) [   
+](https://web.archive.org/web/20070623054056id_/http%3A//gicare.com/jfu0001.htm) [   
+](https://web.archive.org/web/20070623054056id_/http%3A//gicare.com/jin0001.htm) [](https://web.archive.org/web/20070623054056id_/http%3A//gicare.com/jpt0001.htm)  
+[](https://web.archive.org/web/20070623054056id_/http%3A//gicare.com/jprivacy.htm)[](https://web.archive.org/web/20070623054056id_/http%3A//gicare.com/j000001.htm)[  
+](https://web.archive.org/web/20070623054056id_/http%3A//gicare.com/jos0001.htm) [  
+](https://web.archive.org/web/20070623054056id_/http%3A//gicare.com/joi0001.htm) [  
+](https://web.archive.org/web/20070623054056id_/http%3A//gicare.com/jfu0001.htm) [  
+](https://web.archive.org/web/20070623054056id_/http%3A//gicare.com/jin0001.htm) [](https://web.archive.org/web/20070623054056id_/http%3A//gicare.com/jpt0001.htm)  
+[](https://web.archive.org/web/20070623054056id_/http%3A//gicare.com/jprivacy.htm) |  | 
 
-[ ](https://web.archive.org/web/20061027000644id_/http%3A//gicare.com/pated/e000001.htm)  
-[ ](file:///Macintosh%20HD/My%20Work/Web%20sites/Gicare-A-L/web/www/pated/e000001.htm) [   
-](https://web.archive.org/web/20061027000644id_/http%3A//gicare.com/pated/ecd0001.htm) [   
-](https://web.archive.org/web/20061027000644id_/http%3A//gicare.com/pated/epd0001.htm) [   
-](https://web.archive.org/web/20061027000644id_/http%3A//gicare.com/pated/edt0001.htm) [   
-](https://web.archive.org/web/20061027000644id_/http%3A//gicare.com/pated/edr0001.htm) [   
-](https://web.archive.org/web/20061027000644id_/http%3A//gicare.com/pated/ei00001.htm) [ ](https://web.archive.org/web/20061027000644id_/http%3A//gicare.com/pated/elk0001.htm)
-
-|  | 
-
-> **NOTICE OF PRIVACY PRACTICES FOR JACKSON GASTROENTEROLOGY  
->  ** Effective April 14, 2003
+> **NOTICE OF PRIVACY PRACTICES FOR JACKSON SIEGELBAUM GASTROENTEROLOGY  
+>  ** Effective July 1, 2006 
 > 
 > **THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW TO GET ACCESS TO THIS INFORMATION.  
 >  PLEASE READ IT CAREFULLY.**
 > 
 > If you have any questions regarding this notice, you may contact our privacy officer at:  
->  Address: Jackson Gastroenterology  
+>  Address: Jackson Siegelbaum Gastroenterology  
 >  Attention: Privacy Officer  
 >  423 N 21st St.  
 >  Ste 100, Camp Hill, PA  
@@ -48,7 +43,7 @@
 >  Email: info@gicare.com 
 > 
 >   1. **YOUR PROTECTED HEALTH INFORMATION**  
->      Jackson Gastroenterology is required by the federal privacy rule to maintain the privacy of health information protected by the rule. We are also required to provide you with notice of our legal duties and privacy practices related to your protected health care information. We are required to abide by the terms of the notice currently in effect. 
+>      Jackson Siegelbaum Gastroenterology is required by the federal privacy rule to maintain the privacy of health information protected by the rule. We are also required to provide you with notice of our legal duties and privacy practices related to your protected health care information. We are required to abide by the terms of the notice currently in effect. 
 > 
 >      Your protected health information includes the following: (a) information that relates to your past, present or future physical or mental health or condition; (b) the provision of health care to you; and (c) payment for health care provided to you. Protected information must individually identify you or can reasonably be used to identify you.
 > 
@@ -238,7 +233,7 @@
 >  We reserve the right to change this notice at any time. We further reserve the right to make any change effective for all protected health information that we maintain at the time of the change – including information that we created or received prior to the effective date of the change.  
 >  We will provide a copy of our current notice in the waiting room for the practice. At any time, patients may review the current notice by contacting our privacy officer. Patients may also access the current notice at our web site at www.gicare.com. 
 >   5. **COMPLAINTS**  
->  If you believe that we have violated your privacy rights, you may submit a complaint to the privacy officer of Jackson Gastroenterology or to the Secretary of Health and Human Services. Submit the complaint in writing. We will not retaliate against you for filing a complaint. 
+>  If you believe that we have violated your privacy rights, you may submit a complaint to the privacy officer of Jackson Siegelbaum Gastroenterology or to the Secretary of Health and Human Services. Submit the complaint in writing. We will not retaliate against you for filing a complaint. 
 >   6. **LEGAL EFFECT OF THIS NOTICE**  
 >  This notice is not intended to create contractual or other rights independent of those created in the federal privacy rule. 
 > 
@@ -248,7 +243,7 @@
 |  |  |   
 |  | 
 
-[Jackson Siegelbaum Gastro](https://web.archive.org/web/20061027000644id_/http%3A//gicare.com/j000001.htm) |  [Philosophy](https://web.archive.org/jpl0001.htm) |  [Staff](https://web.archive.org/jos0001.htm) |  [Office Info](https://web.archive.org/joi0001.htm) |  [Find Us](https://web.archive.org/jfu0001.htm) |  [Insurance](https://web.archive.org/jin0001.htm) |  [On Good Health](https://web.archive.org/jpt0001.htm) |  [Privacy](https://web.archive.org/jprivacy.htm)  
+[Jackson Siegelbaum Gastro](https://web.archive.org/web/20070623054056id_/http%3A//gicare.com/j000001.htm) |  [Philosophy](https://web.archive.org/jpl0001.htm) |  [Staff](https://web.archive.org/jos0001.htm) |  [Office Info](https://web.archive.org/joi0001.htm) |  [Find Us](https://web.archive.org/jfu0001.htm) |  [Insurance](https://web.archive.org/jin0001.htm) |  [On Good Health](https://web.archive.org/jpt0001.htm) |  [Privacy](https://web.archive.org/jprivacy.htm)  
 
 
 **Jackson Siegelbaum Gastroenterology** | 423 North 21st Street, Suite 100 |   | 2626 North 3rd Street., Suite 3A  
@@ -260,4 +255,4 @@ _*We can NOT provide medical care over the phone. Please contact us to make an a
 **Email:** contact@gicare.com   
 **Web:**[gicare.com](http://www.gicare.com/)
 
-©  [ Copyright](https://web.archive.org/jlegal01.htm) 2006 Jackson Siegelbaum Gastroenterology. All Rights Reserved.
+©  [ Copyright](https://web.archive.org/jlegal01.htm) 2007 Jackson Siegelbaum Gastroenterology. All Rights Reserved.
