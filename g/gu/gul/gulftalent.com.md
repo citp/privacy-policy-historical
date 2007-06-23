@@ -1,8 +1,15 @@
-> *The following text is extracted and transformed from the gulftalent.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206211117id_/http%3A//www.gulftalent.com/home/cntPrivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gulftalent.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623110547id_/http%3A//www.gulftalent.com/home/cntPrivacy.php) for the most accurate reproduction.*
 
 # GulfTalent.com Privacy Policy
 
-|  | **Privacy Policy**  
+|   
+---  
+  
+[](http://www.marcusevans.com/events/TCEventinfo.asp?EventID=12645)  
+  
+   
+  
+| **Privacy Policy**  
 ---  
 **Introduction**  
 GulfTalent is committed to protecting the privacy of your personal data collected at this website. This statement summarizes the policies of this website regarding the collection, use, and transfer of your personal data, and the security measures GulfTalent employs to protect such data.  
@@ -50,7 +57,7 @@ In addition, GulfTalent distinguishes between ‘Employers’ and ‘Recruitment
 **Changes To The Privacy Policy**  
 GulfTalent reserves the right to modify or amend the Privacy Policy at any time and for any reason. Please check back to this Privacy Policy from time to time to stay informed.  
 Nothing contained in this Privacy Policy is intended to create a contract or agreement between GulfTalent and any user visiting the site or providing identifying information in any form. If you have any questions about your personal information, please email GulfTalent at [info@gulftalent.com](mailto:info@gulftalent.com?)  
-|    
+|   
 
 
      **Latest Research**        
