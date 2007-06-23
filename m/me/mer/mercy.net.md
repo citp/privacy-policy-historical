@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercy.net privacy policy that was archived on 2006-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061010154505id_/http%3A//www.mercy.net/privacy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercy.net privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623233556id_/http%3A//www.mercy.net/privacy/default.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
