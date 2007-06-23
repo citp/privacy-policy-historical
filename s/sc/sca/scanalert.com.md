@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scanalert.com privacy policy that was archived on 2006-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061024223349id_/https%3A//www.scanalert.com/Content.sa%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scanalert.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623211435id_/http%3A//www.scanalert.com/site/en/privacy) for the most accurate reproduction.*
 
-# ScanAlert
+# 
 
 Our privacy and security policies exceed industry standards. The nature of our services dictates that we restrict our use of information to only what is needed to deliver the best services in our industry, and no more. We encourage you to read our Privacy Statement as part of your evaluation process and to read it again when we notify you of changes from time to time.
 
@@ -49,7 +49,7 @@ ScanAlert will contact the sites where you have shopped, or plan to shop, when y
 
 Delivery of Services
 
-ScanAlert's services collect information about servers connected to the IPs or URLs given by the users during the registration process. IP's and URL's are checked to verify users authority to do invasive port scanning, and/or vulnerability and penetration testing. No invasive data is collected until the user requests it and is verified as having proper authority to request the data to be collected. Users can start and stop the ScanAlert scan and data collection process by changing their settings in their Account Settings web page available on the web site to registered users. ScanAlert only collects information that that can be accessed from the internet about users computer(s) and does not install software on the users computer for this purpose. Information such as open ports, trace route, OS fingerprint, network and web services running on open ports, as well as detected security exposures and vulnerabilities is collected and stored in our computers for later use in delivering comprehensive reports and security verification related services to our users.
+ScanAlert's services collect information about servers connected to the IPs or URLs given by the users during the registration process. IP's and URL's are checked to verify users authority to do invasive port scanning, and/or vulnerability and penetration testing. No invasive data is collected until the user requests it and is verified as having proper authority to request the data to be collected. Users can start and stop the ScanAlert scan and data collection process by changing their settings in their Account Settings web page available on the web site to registered users. ScanAlert only collects information that can be accessed from the internet about users computer(s) and does not install software on the users computer for this purpose. Information such as open ports, trace route, OS fingerprint, network and web services running on open ports, as well as detected security exposures and vulnerabilities is collected and stored in our computers for later use in delivering comprehensive reports and security verification related services to our users.
 
 Information Use
 
@@ -137,7 +137,7 @@ Choice/Opt-out
 
 Our users are given the opportunity to .opt-out. of having their information used for purposes not directly related to our site at the point where we ask for information. For example, our order form has an .opt-out. mechanism so users who buy a product from us, but don't want any marketing material, can keep their email address off of our lists. For any non-service related communications or information uses, our opt-out mechanism defaults to the opted-out status until users explicitly .Opt-In. for the first time.
 
-Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at unsubscribe@ScanAlert.com We also offer an opt-out mechanism on the Registered User Account Settings pages.
+Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at unsubscribe@hackersafe.com We also offer an opt-out mechanism on the Registered User Account Settings pages.
 
 Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party.
 
@@ -153,7 +153,7 @@ When our registration/order form asks users to enter sensitive information (such
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user information off-line. All of our users. information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to user information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, information, and server security, and what they can do to ensure our users. information is protected. Sensitive information such as credit card information is stored in encrypted format only. Every precaution is made to protect our servers from hackers and crackers, including firewalls and regular checks for viruses, trojans, backdoors, and open ports. Finally, the servers that store personally identifiable information are in a locked facility with access limited to technical operations personnel. 
 
-If users have any questions about security, users can send an email to [Privacy@ScanAlert.com](mailto:privacy@scanalert.com).
+If users have any questions about security, users can send an email to [privacy@hackersafe.com](mailto:privacy@hackersafe.com).
 
 Supplementation of Information
 
@@ -163,7 +163,7 @@ We use Verisign Inc. as both a certificate authority and Payment Gateway to proc
 
 Correcting/Updating/Deleting/Deactivating Personal Information
 
-If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users. personally identifiable information. This can usually be done at the Registered User account settings page or by emailing our Customer Support at support@ScanAlert.com.
+If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users. personally identifiable information. This can usually be done at the Registered User account settings page or by emailing our Customer Support at support@hackersafe.com.
 
 Notification of Changes
 
@@ -175,7 +175,7 @@ Contact Information
 
 If users have any questions or suggestions regarding our privacy statement including privacy, information use, collection, or security, please contact us at:
 
-**Email:** [Privacy@ScanAlert.com](mailto:Privacy@ScanAlert.com)
+**Email:** [privacy@hackersafe.com](mailto:privacy@hackersafe.com)
 
 **Phone:** 707.224.7656
 
