@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hegre-art.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216202353id_/http%3A//www.hegre-art.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hegre-art.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623030950id_/http%3A//www.hegre-art.com/privacy.html) for the most accurate reproduction.*
 
 # Hegre-Art.com
 
@@ -6,7 +6,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 **The Information We Collect:**
 
-This notice applies to all information collected or submitted to hegre-art.com. On some pages, you can purchase a Membership to hegre-art.com, make requests, and register to receive materials. The types of personal information collected at these pages are name, age, email address, sexual orientation, etc. We use ccBill, iBill, Paycom, third-party credit card processing services, who will obtain additional information such as your address, and credit card data.
+This notice applies to all information collected or submitted to hegre-art.com. On some pages, you can purchase a Membership to hegre-art.com, make requests, and register to receive materials. The types of personal information collected at these pages are name, age, email address, sexual orientation, etc. We use ccBill, Paycom, Payex, Commercegate and NetCash's third-party credit card processing services, who will obtain additional information such as your address, and credit card data.
 
 **Credit Card info:**
 
@@ -14,7 +14,7 @@ NOTE! the credit card info that you submit on the signup forms are submitted dir
 
 **The Way We Use Information:**
 
-The information collected by hegre-art.com is used solely for the creation and maintenance of your Membership account. WE DO NOT sell, loan, lease, swap, trade or otherwise disclose your personal data or email address. That information collected by ccBill, iBill, Paycom is used for the purpose of processing payment of your Membership to hegre-art.com.
+The information collected by hegre-art.com is used solely for the creation and maintenance of your Membership account. WE DO NOT sell, loan, lease, swap, trade or otherwise disclose your personal data or email address. That information collected by ccBill, Paycom, Payexis, Commercegate, NetCash used for the purpose of processing payment of your Membership to hegre-art.com.
 
 **Our Commitment To Data Security:**
 
