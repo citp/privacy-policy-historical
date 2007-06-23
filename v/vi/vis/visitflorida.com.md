@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the visitflorida.com privacy policy that was archived on 2006-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061128223600id_/http%3A//www.visitflorida.com/cms/d/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitflorida.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623130817id_/http%3A//visitflorida.com/cms/e/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Florida Vacation, Travel & Entertainment Information – Privacy Policy- by VISIT FLORIDA
 
   
 **You are here:**   [Home](https://web.archive.org/) / [Tools](https://web.archive.org/cms/d/tools.php) / Privacy Policy
