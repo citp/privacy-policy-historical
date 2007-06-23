@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunywcc.edu privacy policy that was archived on 2006-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061221200349id_/http%3A//www.sunywcc.edu/wcc_disclaimer.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunywcc.edu privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623055222id_/http%3A//www.sunywcc.edu/wcc_disclaimer.htm) for the most accurate reproduction.*
 
 # Westchester Community College - Disclaimer
 
