@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowes.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205213600id_/http%3A//www.lowes.com/lowes/lkn%3Faction%3DtopicSelect%26topic%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowes.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623051551id_/http%3A//www.lowes.com/lowes/lkn%3Faction%3DtopicSelect%26topic%3Dprivacy) for the most accurate reproduction.*
 
 # Need Help?
 
@@ -36,7 +36,7 @@ In order to register on our site, you must provide your:
 
 
 
-Registration is an optional service provided by Lowes.com. However, you must be registered on our site to shop online.
+Registration is an optional service provided by Lowes.com.
 
 If you choose to register: 
 
