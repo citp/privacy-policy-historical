@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the congoo.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207222132id_/http%3A//congoo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the congoo.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623181212id_/http%3A//www.congoo.com/privacy) for the most accurate reproduction.*
 
 # Congoo - Privacy Policy
 
@@ -12,11 +12,67 @@ This Congoo Privacy Statement applies to data collected by Congoo through its si
 
 In order to sign in to some of Congoo’s services, you will be asked to enter an e-mail address and password, which we refer to as your Congoo credentials. Some services may require added security, and in these cases, you may be asked to create an additional security key. Finally, a unique ID number will be assigned to your Congoo credentials which will be used to identify your credentials and associated information. You may also use any other Congoo credentials to sign into most Congoo services.
 
-When registering on Congoo, Congoo collects personal information, such as your e-mail address, name, home or work address and telephone number. We may also collect demographic information, such as your ZIP code, age, gender, preferences, occupation, interests and favorites. Information collected on Congoo may be combined with information obtained from other Congoo services and other companies.
+When registering on Congoo, Congoo collects personal information, such as your e-mail address, name, home or work address, information about your profession and your telephone number. We may also collect demographic information, such as your ZIP code, age, gender, preferences, occupation, interests and favorites. Information collected on Congoo may be combined with information obtained from other Congoo services and other companies.
 
 We may collect information about your visit, including the pages you view, the links you click and other actions taken in connection with Congoo sites and services. We also collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring Web site addresses.
 
 Some Congoo services may be co-branded and offered in conjunction with another company. If you register for or use such services, both Congoo and the other company may receive information collected in conjunction with the co-branded services.
+
+Your privacy is our top concern. We work hard to earn and keep your trust, so we adhere to the following principles to protect your privacy:
+
+•    We will never rent or sell your personally identifiable information to third parties for marketing purposes   
+•    We will never share your contact information with another user, without your consent.   
+•    Any sensitive information that you provide will be secured with all industry standard protocols and technology 
+
+Notice of all changes that materially affect ways in which your personally identifiable data may be used or shared will be posted in updates to our Privacy Policy. If you continue to use the Congoo service after notice of changes have been sent to you or published on our site, you hereby provide your consent to the changed practices
+
+**Registration**
+
+In order to become a Congoo user, you must first create an account on this web site. To create an account you are required to provide the following contact information: name, email address, country, ZIP/postal code, profession and industry and you might also choose to supply a brief summary of your professional background (Your occupation or your networking goals), and choose a password.
+
+**Personal Profile Information**
+
+Once a user, you may provide additional information in the Profile section describing your skills, professional experiences, and networking objectives as well as an electronic image of yourself. Providing additional information beyond what is required at registration is entirely optional, but enables you to better identify yourself and find new opportunities.
+
+**Information about your Contacts**
+
+In order to invite others to connect with you directly on Congoo, you will enter their names and email addresses. This information will be used by Congoo to send your invitation including a message that you write. The names and email addresses of people that you invite will be used only to send your invitation and reminders. You may also choose to manually enter or upload data about your contacts into the private “My Contacts” section of our website. All information entered there will only be viewable by you and will not be searchable by others in the Congoo network without your permission. All information that you enter or upload about your contacts will be covered by the same terms of this privacy policy as cover your own personally identifiable information. Due to the communications standards on the Internet, when you visit the Congoo web site we automatically receive the URL of the site from which you came and the site to which you are going when you leave Congoo. We also receive the Internet protocol (IP) address of your computer (or the proxy server you use to access the World Wide Web), your computer operating system and type of web browser you are using, as well as the name of your ISP. This information is used to analyze overall trends to help us improve the Congoo service. The linkage between your IP address and your personally identifiable information is never shared with third-parties without your permission or except when required by law.
+
+**Web Beacons**
+
+We allow other companies, called ad networks, to serve advertisements to Congoo users. Ad networks include third party ad servers, ad agencies, ad technology vendors and research firms. Congoo may “target” some ads to users that fit a certain general profile — for example, “product managers in Texas.” Congoo does NOT use personally identifiable information to target ads.
+
+To deliver these ads properly, Congoo may include a file, called a web beacon, from these ad networks within pages served by Congoo so the networks may provide anonymized, aggregated auditing, research and reporting for advertisers as well as to target ads to you while you visit other websites.
+
+Because your web browser must request these advertisements and web beacons from the ad network’s servers, these companies can view, edit or set their own cookies, just as if you had requested a web page from their site.
+
+These general targets may also be used by ad networks to display targeted ads on other websites as a substitute for random, irrelevant ads. You will never see additional ads as a result of being a Congoo user and Congoo never provides personally identifiable information to any advertiser nor any third party.
+
+You may opt-out of use of Web beacons in Congoo pages that you view and of placement of a cookie by ad networks in your browser. To opt-out click here and go to the “Advertising” section at the bottom and change the setting there to “No”.
+
+In addition, this Web site uses the technology of DoubleClick Inc. to serve ads only when you visit this site. DoubleClick may use non-personal information, such as your state or zip code, in order to provide advertisements about goods and services that may be of interest to you while you visit this Web site. In the course of serving advertisements to this site, DoubleClick may place or recognize a unique “cookie” on your browser. If you would like more information about this practice and to know your choices about not having this information used by DoubleClick, please click here. Note that when you opt-out of the DoubleClick cookie a special DoubleClick “opt-out” cookie will replace the DoubleClick Ad cookie. If you ever delete the cookies on your browser you will need to again opt-out of the DoubleClick Ad Cookie.
+
+If you opt-out you will lose the potential benefit of receiving ads that are more targeted to your interests.
+
+**Information Use**
+
+Congoo is an online information portal whose mission is to provide users with access to the Web’s most valuable information. The personally identifiable information you choose to provide on this site is used to help you describe yourself to other users. Other information, that does not personally identify you as an individual, is collected by Congoo from the site and is exclusively owned by Congoo. This information can be utilized by Congoo in such manner as Congoo, in its sole discretion, deems appropriate.
+
+**Congoo Communications**
+
+Congoo will communicate with you through email and notices posted on this website. These include welcome emails which help inform new users about various features of the service. Please be aware that you will always receive certain emails from Congoo related to the proper functioning of your account, such as email notices when another user in your network sends you a message, opportunity or networking opportunity. Congoo may send you promotional information unless you have opted out of receiving such information. If you wish to opt-out of receiving promotional emails, please opt out at: <http://www.congoo.com/user/profile>
+
+**Customized Content**
+
+Information you provide at registration or in your profile section is also used to customize your experience on the web site. For example, when you login to your account we will display the names of new users who have recently joined your network.
+
+**Sharing Information with Third Parties**
+
+Congoo takes the privacy of our users very seriously. We will never sell, rent, or otherwise provide your personally identifiable information to any third parties for marketing purposes. We will only share your personally identifiable with third parties to carry out your instructions and to provide specific services. For instance, we use a credit card processing company to bill users for subscription fees. These third parties do not retain, share, or store any personally identifiable information except to provide these services and are bound by strict confidentiality agreements which limit their use of such information. Congoo offers a “public profile” feature which allows users to publish portions of their Congoo profile, including your “name”, but not your “email address” to the public Internet. Users may opt-out of this feature, however Congoo does not warrant how third-party search engines will update their cache. We may provide aggregated data about the usage of our services to third-parties for such purposes as we deem, in our sole discretion, to be appropriate. We may segment our users by title, industry, sub-category, geographic location, company or other by using other categorization methods.
+
+**Communications Between Users**
+
+Many emails you initiate through Congoo, an invitation sent to a non-user for instance, will list your email address and name in the header of the message. Emails you initiate may also provide aggregate information about your network (for instance how many people are in your network), but will never list the people to whom you’re directly connected. Other communications that you initiate through the Congoo website, like a request for contact, will list your name as the initiator but will not include your personal contact information. Your contact information will only be shared with another user if both of you have indicated that you would like to establish contact with each other.
 
 **Use of your Personal Information**
 
@@ -24,27 +80,17 @@ Congoo collects and uses your personal information to operate Congoo and deliver
 
 We also use your personal information to communicate with you. We may send certain mandatory service communications such as welcome letters, billing reminders, information on technical service issues, and security announcements. Some Congoo services may send periodic member letters that are considered part of the service. We may also occasionally send you product surveys or promotional mailings to inform you of other products or services available from Congoo and its affiliates.
 
-We may also automatically share your personal information with third party content providers when you access premium sections within their site from links on Congoo. Congoo does not sell, rent or lease its Congoo customer lists to third parties. We may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your personal information (e-mail, name, address, telephone number) is not transferred to the third party. You will be given the option of unsubscribing from communications sent to you by Congoo at any time by following the instructions at the bottom of the emails sent to you. We do not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+Congoo does not sell, rent or lease its Congoo customer lists to third parties. We may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your personal information (e-mail, name, address, telephone number) is not transferred to the third party. You will be given the option of unsubscribing from communications sent to you by Congoo at any time by following the instructions at the bottom of the emails sent to you. We do not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
 
 We occasionally hire other companies to provide limited services on our behalf, such as handling the processing and delivery of mailings, providing customer support, processing transactions, or performing statistical analysis of our services. We will only provide those companies the personal information they need to deliver the service. They are required to maintain the confidentiality of your information and are prohibited from using that information for any other purpose.
 
 Congoo may access and/or disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Congoo or the site; (b) protect and defend the rights or property of Congoo, including its Congoo family of Web sites; or (c) act in urgent circumstances to protect the personal safety of users of Congoo services or members of the public.
 
-Personal information collected on this site may be stored and processed in the United States or any other country in which Congoo or its affiliates, subsidiaries or agents maintain facilities, and by using this site, you consent to any such transfer of information outside of your country. The protection and handling of your personal information may be subject to the laws and regulations within the countries that your information is hosted in or transferred through.  Congoo abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.
+Personal information collected on this site may be stored and processed in the United States or any other country in which Congoo or its affiliates, subsidiaries or agents maintain facilities, and by using this site, you consent to any such transfer of information outside of your country. The protection and handling of your personal information may be subject to the laws and regulations within the countries that your information is hosted in or transferred through. Congoo abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.
 
-**Registration Data**
+**Children**
 
-Congoo collects and stores your registration and other personal information to operate and deliver the services and information that you request. Additionally, certain sites and services on the Congoo Content Network require your registration information in order to provide you with their services. Congoo can automatically share a copy of this registration information also known as your Congoo credentials to third party content providers who require that information in order to provide free access to content or services. Anytime the transmission of your registration data is required by a publisher to obtain free access, Congoo will ask whether you would like this information transfer to take place. Congoo will make the privacy policies of all third parties available to review so that you can review them before you decide to transfer your registration information. It is only by clicking “yes” that Congoo will transfer your registration information. Congoo does not participate and is not responsible for the marketing practices of any organization that you decide to pass your registration information. We strongly recommend that you read the privacy policies of any organization before deciding to share your registration information. Your Congoo password is not shared with any of these third parties.
-
-In accordance with the preceding paragraph please note that if you elect to transfer your personal registration data through Congoo, the sites and services where your information is transferred may use or share your e-mail address or other personal information as described in their privacy polices.  All sites or services on the Congoo Content Network are required to have a posted privacy statement, but we do not control or monitor the privacy practices of sites on the Congoo Content Network, and the privacy practices of those sites will vary. You should carefully review the privacy statement for each site you visit in order to determine how each site or service will use the information it collects. Some services offered on Congoo may collect personal information. In such cases, you may be able to access that information through alternative means of access described by the service.
-
-**Collection and Use of Children's Personal Information**
-
-When we collect age information and users identify themselves as under 13, we will obtain consent from parents for the collection, use and sharing of their children's personal information on Congoo as described in this Privacy Statement. If we change this Congoo Privacy Statement in a way that expands the collection, use or disclosure of children's personal information to which a parent has previously consented, the parent will be notified and we will be required to obtain the parent's additional consent. Parents can change or revoke the consent choices previously made, and review, edit or request the deletion of their children's personal information, by visiting Account Services, and clicking on "Permission for kids."
-
-Please note that if you grant consent for your child to use Congoo services, this will include such general audience communication services as the Congoo Toolbar. We encourage you to talk with your children about communicating with strangers and disclosing personal information online.
-
-We will delete your sign-in credentials if they remain inactive for an extended period of time. Inactivity is defined as a failure to sign in to any site or service on the Congoo Content Network using your credentials.
+Children are not eligible to use our service and we ask that minors (under the age of 18) do not submit any personal information to us or use the service.
 
 **Congoo Toolbar**
 
@@ -86,7 +132,11 @@ Congoo is concerned about controlling unsolicited commercial e-mail, or "spam." 
 
 **Changes to this Statement**
 
-We will occasionally update this Privacy Statement to reflect changes in our services and customer feedback. If there are material changes to this Statement or in how Congoo will use your personal information, we will prominently post such changes prior to implementing the change. We encourage you to periodically review this Statement to be informed of how Congoo is protecting your information. 
+We will occasionally update this Privacy Statement to reflect changes in our services and customer feedback. If there are material changes to this Statement or in how Congoo will use your personal information, we will prominently post such changes prior to implementing the change. We encourage you to periodically review this Statement to be informed of how Congoo is protecting your information.
+
+**Contact Information**
+
+Congoo welcomes your comments regarding this Privacy Statement. If you have questions about this Statement or believe that we have not adhered to it, please contact Congoo Privacy.
 
 **Contact Information**
 
