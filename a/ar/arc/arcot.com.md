@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the arcot.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021152552id_/http%3A//www.arcot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcot.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623073531id_/http%3A//www.arcot.com/privacy.html) for the most accurate reproduction.*
 
-# Arcot Systems, Inc. | Privacy
+# Arcot Privacy
 
-**Privacy** ****To protect your privacy, we have adopted the following principles:
+**Privacy**
 
- **Choice**  
-If you choose to give us personal information via our Website, it is our intent to let you know how we will use such information. Moreover, Arcot will offer you the opportunity to choose (opt out) if your personal information will be used for a purpose that is incompatible with the purpose(s) for which it was originally collected or subsequently authorized by you. 
+To protect your privacy, we have adopted the following principles:
+
+**Choice**  
+If you choose to give us personal information via our Website, it is our intent to let you know how we will use such information. Moreover, Arcot will offer you the opportunity to choose (opt out) if your personal information will be used for a purpose that is incompatible with the purpose(s) for which it was originally collected or subsequently authorized by you.
 
 **Security**  
 Arcot is dedicated to protecting your personal information from loss, misuse, and unauthorized access, disclosure, alteration and destruction.
@@ -23,10 +25,9 @@ Arcot uses standard commercial Web logging tools to gather information about you
 The Arcot Systems, Inc. site may contain links to other Websites. Arcot Systems, Inc. is not responsible for the privacy practices or the content of such Websites.
 
 **Our Commitment**  
-We are committed to privacy, and therefore have implemented these practices for the Arcot Website (www.arcot.com). Arcot reserves the right to modify its privacy policy and will post any changes on this page. If you have any questions or comments, please contact [webmaster@arcot.com](mailto:webmaster@arcot.com). Thank you  
+We are committed to privacy, and therefore have implemented these practices for the Arcot Website (www.arcot.com). Arcot reserves the right to modify its privacy policy and will post any changes on this page. If you have any questions or comments, please contact [webmaster@arcot.com](mailto:webmaster@arcot.com).
 
-
-****
+Thank you.
 
 **We at Arcot Systems, Inc. ("Arcot") respect your privacy and are committed to protecting the personal information that you share with us. To meet that goal, Arcot intends to give you as much control as possible over your personal information.**
 
