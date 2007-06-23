@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the krawlerx.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215224729id_/http%3A//www.krawlerx.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krawlerx.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623235338id_/http%3A//krawlerx.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # Krawler[x] - Privacy policy
 
