@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starkstate.edu privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231053408id_/http%3A//www.starkstate.edu/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starkstate.edu privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623073545id_/http%3A//www.starkstate.edu/about/privacy.htm) for the most accurate reproduction.*
 
 # Stark State College Privacy Policy Statement
 
@@ -10,12 +10,12 @@ Our postal address is:
 **6200 Frank Avenue NW  
 North Canton, Ohio 44720**
 
-We can be reached via email at  [webmaster@starkstate.edu](mailto:webmaster@starkstate.edu)  
-or you can reach us by telephone at 330-494-6170, Ext. 4299
+We can be reached via email at  [webmaster@starkstate.edu](mailto:webmaster@starkstate.edu) or you can reach us by telephone at  
+330-494-6170, Ext. 4299
 
 For each visitor to our Web site, our Web server automatically recognizes only the user's domain name, but not the email address.
 
-We collect only the domain name, aggregate information on what pages users access or visit, user-specific information on what pages are accessed or visited, and information volunteered by the user, such as survey information. We do not collect the email address of visitors to our Web site.
+We collect only the domain name, aggregate information on what pages users access or visit, user-specific information on what pages are accessed or visited and information volunteered by the user, such as survey information. We do not collect the email address of visitors to our Web site.
 
 The information we collect is used to improve the content of our Web site and for College marketing purposes. The information IS NOT shared with other organizations for any purposes.
 
