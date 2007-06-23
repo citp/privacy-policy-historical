@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mochiads.com privacy policy that was archived on 2006-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061227122706id_/http%3A//www.mochiads.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mochiads.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624011615id_/http%3A//www.mochiads.com/privacy.html) for the most accurate reproduction.*
 
 # MochiAds
 
