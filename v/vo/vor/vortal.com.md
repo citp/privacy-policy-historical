@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vortal.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216155814id_/http%3A//vortal.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vortal.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623031513id_/http%3A//www.vortal.com/privacy.html) for the most accurate reproduction.*
 
 # Vortal.com - Your Gateway to the Web
 
