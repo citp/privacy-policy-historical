@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the backcountryoutlet.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212053400id_/http%3A//www.backcountryoutlet.com/outlet/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backcountryoutlet.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623062154id_/http%3A//www.backcountryoutlet.com/outlet/privacy.html) for the most accurate reproduction.*
 
-# Backcountryoutlet.com | Privacy Policy
+# Backcountryoutlet.com | Privacy Policy from Backcountryoutlet.com
 
 Your Personal Information  
 Backcountryoutlet.com will not sell, loan, rent, lease, barter or publish your personal information to a third party. All data that we keep on you is kept strictly for Backcountryoutlet.com business use to assist you in your current or future purchases or in analyzing sales trends. No customer data is stored on servers that are accessible to the Internet. All data is downloaded and deleted from our Web server many times a day. 
