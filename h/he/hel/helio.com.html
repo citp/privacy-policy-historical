@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the helio.com privacy policy that was archived on 2006-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061205192138id_/http%3A//www.helio.com/page%3Fp%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the helio.com privacy policy that was archived on 2007-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070623044948id_/http%3A//www.helio.com/page%3Fp%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -7,8 +7,9 @@
 <title>Helio Privacy Policy | Helio.com - Mobile Devices, Phones, and Wireless Service for You</title>
 <meta name="description" content="Mobile Multimedia and Messaging: Helio is more innovative, ingenious and fun than anything you've ever seen in the wireless world.">
 <meta name="keywords" content="multimedia phones, mobile web surfing, media messaging, wireless Internet, handheld media, mobile phones and multimedia device">
-<script src="js/noframe.js" type="text/javascript"></script><script src="js/common.js" type="text/javascript"></script><script src="js/referdetect.js" type="text/javascript"></script><script src="js/hbx_custom.js" type="text/javascript"></script><script src="js/swfobject.js" type="text/javascript"></script><script src="js/swfaddress.js" type="text/javascript"></script>
+<script src="js/noframe.js" type="text/javascript"></script><script src="js/common.js" type="text/javascript"></script><script src="js/referdetect.js" type="text/javascript"></script><script src="js/hbx_custom.js" type="text/javascript"></script><script src="js/swfobject.js" type="text/javascript"></script><script src="js/chat.js" type="text/javascript"></script>
 <link type="text/css" href="css/common.css" rel="stylesheet">
+<link type="text/css" href="css/nav.css" rel="stylesheet">
 <!--[if gte ie 5.5000]>
 					<link rel="stylesheet" type="text/css" href="css/ie.css"/>
 				<![endif]-->
@@ -79,11 +80,11 @@ hbx.pec="";//ERROR CODES
 <tbody><tr>
 <td>
 <div class="mainNavContainer">
-<table cellpadding="0" cellspacing="0" border="0">
+<table class="mainNavTable" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
 <td>
 <div class="logo">
-<a href="/"><img alt="Helio" border="0" height="40" width="108" src="images/nav/mainnav_logo.gif"></a>
+<a href="http://www.helio.com//"><img alt="Helio" border="0" height="40" width="108" src="images/nav/mainnav_logo.gif"></a>
 </div>
 </td><td>
 <div class="mainNav">
@@ -99,9 +100,18 @@ hbx.pec="";//ERROR CODES
 </div>
 </td><td class="accountNavCell">
 <div class="accountNav">
-<table cellpadding="0" cellspacing="0" border="0">
+<table style="position:relative;" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
-<td><a title="My Account" href="https://selfcare.helio.com/myaccount/ChSummary.jsp" onmouseover="btnOver('nav_utility_my_account')" onmouseout="btnOut('nav_utility_my_account')"><img border="0" src="images/nav/topnav_myaccount.gif" alt="My Account" id="nav_utility_my_account" name="nav_utility_my_account" title="My Account"></a></td><td><a title="My Cart" href="https://selfcare.helio.com/onlineshop/OrdCart.jsp" onmouseover="btnOver('nav_utility_my_cart')" onmouseout="btnOut('nav_utility_my_cart')"><img border="0" src="images/nav/topnav_mycart.gif" alt="My Cart" id="nav_utility_my_cart" name="nav_utility_my_cart" title="My Cart"></a></td><td><a title="Track My Order" href="https://selfcare.helio.com/onlineshop/OrderTrackingLogin.jsp" onmouseover="btnOver('nav_utility_track_my_order')" onmouseout="btnOut('nav_utility_track_my_order')"><img border="0" src="images/nav/topnav_myorder.gif" alt="Track My Order" id="nav_utility_track_my_order" name="nav_utility_track_my_order" title="Track My Order"></a></td>
+<td style="position:relative;">
+<div class="accountNavDropDown" onmouseover="showSubNav('accountSub1');" onmouseout="hideSubNav('accountSub1');">
+<div class="dropDownMain">
+<a title="My Account" href="javascript:void(0)" onmouseover="btnOver('nav_utility_my_account')" onmouseout="btnOut('nav_utility_my_account')"><img border="0" src="images/nav/utilityNav_account.gif" alt="My Account" id="nav_utility_my_account" name="nav_utility_my_account" title="My Account"></a>
+</div>
+<div class="dropDownSub" id="accountSub1">
+<a title="Account Login" href="https://selfcare.helio.com/myaccount/ChSummary.jsp" onmouseover="btnOver('nav_utility_account_login')" onmouseout="btnOut('nav_utility_account_login')"><img border="0" src="images/nav/utilityNav_login.gif" alt="Account Login" id="nav_utility_account_login" name="nav_utility_account_login" title="Account Login"></a><a title="Helio Webmail" href="https://webmail.myhelio.com" onmouseover="btnOver('nav_utility_webmail')" onmouseout="btnOut('nav_utility_webmail')"><img border="0" src="images/nav/utilityNav_webmail.gif" alt="Helio Webmail" id="nav_utility_webmail" name="nav_utility_webmail" title="Helio Webmail"></a>
+</div>
+</div>
+</td><td style="position:relative;"><a title="Track My Order" href="https://selfcare.helio.com/onlineshop/OrderTrackingLogin.jsp" onmouseover="btnOver('nav_utility_track_my_order')" onmouseout="btnOut('nav_utility_track_my_order')"><img border="0" src="images/nav/utilityNav_order.gif" alt="Track My Order" id="nav_utility_track_my_order" name="nav_utility_track_my_order" title="Track My Order"></a></td><td style="position:relative;"></td>
 </tr>
 </tbody></table>
 </div>
@@ -261,22 +271,31 @@ hbx.pec="";//ERROR CODES
 <div class="footerNav">
 <table cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
-<td class="footerContent"><a title="Contact Us" href="page?p=about_contact" onmouseover="btnOver('nav_footer_about_contact')" onmouseout="btnOut('nav_footer_about_contact')"><img border="0" src="images/nav/footer_contactus.gif" alt="Contact Us" id="nav_footer_about_contact" name="nav_footer_about_contact" title="Contact Us"></a></td><td class="footerContent"><a title="About Helio" href="page?p=about" onmouseover="btnOver('nav_footer_about')" onmouseout="btnOut('nav_footer_about')"><img border="0" src="images/nav/footer_abouthelio.gif" alt="About Helio" id="nav_footer_about" name="nav_footer_about" title="About Helio"></a></td><td class="footerContent"><a title="Jobs" href="page?p=jobs" onmouseover="btnOver('nav_footer_jobs')" onmouseout="btnOut('nav_footer_jobs')"><img border="0" src="images/nav/footer_jobs.gif" alt="Jobs" id="nav_footer_jobs" name="nav_footer_jobs" title="Jobs"></a></td><td class="footerContent"><a title="Activation" href="https://selfcare.helio.com/onlineshop/ActivateServiceLogin.jsp" onmouseover="btnOver('nav_footer_activation')" onmouseout="btnOut('nav_footer_activation')"><img border="0" src="images/nav/footer_activation.gif" alt="Activation" id="nav_footer_activation" name="nav_footer_activation" title="Activation"></a></td><td class="footerContent"><a title="Referrals and Rewards" href="page?p=programs" onmouseover="btnOver('nav_footer_programs')" onmouseout="btnOut('nav_footer_programs')"><img border="0" src="images/nav/footer_referralsrewards.gif" alt="Referrals and Rewards" id="nav_footer_programs" name="nav_footer_programs" title="Referrals and Rewards"></a></td><td class="footerContent"><a title="Sign Up For Updates" href="page?p=signup" onmouseover="btnOver('nav_footer_signup')" onmouseout="btnOut('nav_footer_signup')"><img border="0" src="images/nav/footer_signup.gif" alt="Sign Up For Updates" id="nav_footer_signup" name="nav_footer_signup" title="Sign Up For Updates"></a></td><td class="footerContent"><a title="Sitemap" href="page?p=sitemap" onmouseover="btnOver('nav_footer_sitemap')" onmouseout="btnOut('nav_footer_sitemap')"><img border="0" src="images/nav/footer_sitemap.gif" alt="Sitemap" id="nav_footer_sitemap" name="nav_footer_sitemap" title="Sitemap"></a></td><td class="footerContent"><a title="Investor Relations" href="page?p=investor_relations" onmouseover="btnOver('nav_footer_investor_relations')" onmouseout="btnOut('nav_footer_investor_relations')"><img border="0" src="images/nav/footer_investors.gif" alt="Investor Relations" id="nav_footer_investor_relations" name="nav_footer_investor_relations" title="Investor Relations"></a></td><td class="footerContent"><a title="Become a Partner" href="page?p=partner" onmouseover="btnOver('nav_footer_partner')" onmouseout="btnOut('nav_footer_partner')"><img border="0" src="images/nav/footer_partners.gif" alt="Become a Partner" id="nav_footer_partner" name="nav_footer_partner" title="Become a Partner"></a></td>
+<td class="footerContent"><a title="Contact Us" href="page?p=about_contact">Contact Us</a></td><td width="10"></td><td class="footerContent"><a title="About Helio" href="page?p=about">About Helio</a></td><td width="10"></td><td class="footerContent"><a title="Careers" href="page?p=jobs">Careers</a></td><td width="10"></td><td class="footerContent"><a title="Activation" href="https://selfcare.helio.com/onlineshop/ActivateServiceLogin.jsp">Activation</a></td><td width="10"></td><td class="footerContent"><a title="Referrals and Rewards" href="page?p=programs">Referrals and Rewards</a></td><td width="10"></td><td class="footerContent"><a title="Sign Up For Updates" href="page?p=signup">Sign Up For Updates</a></td><td width="10"></td><td class="footerContent"><a title="Sitemap" href="page?p=sitemap">Sitemap</a></td><td width="10"></td><td class="footerContent"><a title="Investor Relations" href="page?p=investor_relations">Investor Relations</a></td><td width="10"></td><td class="footerContent"><a title="Become a Partner" href="page?p=partner">Become a Partner</a></td><td width="10"></td><td class="footerContent"><a title="HAC" href="page?p=hac">HAC</a></td><td width="10"></td>
 </tr>
 </tbody></table>
 <table cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
-<td><img alt="" src="images/nav/footer_copyright.gif"></td><td class="footerContent"><a title="Privacy Policy" href="page?p=privacy" class="selected"><img border="0" src="images/nav/footer_privacypolicy_on.gif" alt="Privacy Policy" id="nav_subfooter_privacy" name="nav_subfooter_privacy" title="Privacy Policy"></a></td><td class="footerContent"><a title="Terms + Conditions" href="page?p=terms" onmouseover="btnOver('nav_subfooter_terms')" onmouseout="btnOut('nav_subfooter_terms')"><img border="0" src="images/nav/footer_termsconditions.gif" alt="Terms + Conditions" id="nav_subfooter_terms" name="nav_subfooter_terms" title="Terms + Conditions"></a></td>
+<td class="footerContent"><a title="Find Helio Stores" href="page?p=stores">Find Helio Stores</a></td><td width="10"></td><td class="footerContent"><a title="News + Events" href="page?p=events">News + Events</a></td><td width="10"></td><td class="footerContent"><a title="Get Helio" href="page?p=join">Get Helio</a></td><td width="10"></td><td class="footerContent"><a title="Ocean" href="page?p=devices_ocean">Ocean</a></td><td width="10"></td><td class="footerContent"><a title="Heat" href="page?p=devices_heat">Heat</a></td><td width="10"></td><td class="footerContent"><a title="Drift" href="page?p=devices_drift">Drift</a></td><td width="10"></td><td class="footerContent"><a title="Services" href="page?p=services">Services</a></td><td width="10"></td>
+</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+<td class="footerCopy subFooter">©2006 HELIO.  ALL RIGHTS RESERVED.</td><td width="20"></td><td class="footerContent subFooter"><a title="Privacy Policy" href="page?p=privacy" class="selected">Privacy Policy</a></td><td width="5"></td><td class="footerContent subFooter"><a title="Terms + Conditions" href="page?p=terms">Terms + Conditions</a></td><td width="5"></td>
 </tr>
 </tbody></table>
 </div>
 <div class="footerTerms">"Helio," the "Helio" logo and any other product names, service names or logos of HELIO used, quoted and/or referenced herein are trademarks or registered trademarks of HELIO LLC.<br>All other product names and/or company names used herein may be protected as trademarks of their respective owners.<br>
 </div>
+<div class="footerTerms">
+<br>
+</div>
 </div>
 </td>
 </tr>
 </tbody></table>
-<script src="onlineopinion/oo_engine.js" charset="windows-1252" type="text/javascript" language="javascript"></script><script src="onlineopinion/oo_conf_en-US.js" charset="windows-1252" type="text/javascript" language="javascript"></script>
+<script src="onlineopinion/oo_engine.js" charset="windows-1252" type="text/javascript" language="javascript"></script><script src="onlineopinion/oo_conf_en-US.js" charset="windows-1252" type="text/javascript" language="javascript"></script><div id="O_o" style="position: absolute; z-index: 999; visibility: visible; left: 1282px; top: 716px;" onmouseover="_Ps(&quot;O_c&quot;,_Gd(&quot;O_o&quot;,0)-91,_Gd(&quot;O_o&quot;,1)-39);if(!_stop){_Sh(&quot;O_o&quot;,0);_Sh(&quot;O_c&quot;,1)}"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td align="center" style="text-align:center"><a href="#" onmouseover="_stop=0" onmouseout="_stop=1;_Sh('O_c',0);_Sh('O_o',1);return 1"><img src="onlineopinion/en-US/black_oo.gif" border="0" width="19" height="17" alt="" title=""></a></td></tr><tr><td align="center" style="text-align:center"><a href="#" onmouseover="_stop=1" onmouseout="_stop=1;_Sh('O_c',0);_Sh('O_o',1);return 1"><img src="onlineopinion/en-US/black_fb_en-US.gif" border="0"></a></td></tr></tbody></table></div><br><div id="O_c" style="position:absolute;top:0px;left:0px;visibility:hidden;z-index:999"><table cellpadding="0" cellspacing="0" border="0" valign="top" align="left" width="138"><tbody><tr><td><a href='javascript:{_fW(_ht,1);_hdn=1;O_LC();_Sh("O_c",0)}' onmouseover="_Ps(&quot;O_c&quot;,_Gd(&quot;O_o&quot;,0)-91,_Gd(&quot;O_o&quot;,1)-39);_Sh(&quot;O_o&quot;,0);_Sh(&quot;O_c&quot;,1)" onmouseout="_Sh(&quot;O_c&quot;,0);_Sh(&quot;O_o&quot;,1);return 1"><img src="onlineopinion/en-US/black_popns_en-US.gif" alt="Please click here to give us feedback." title="Please click here to give us feedback." border="0" width="115" height="56"></a><a href='javascript:{_fW(_ht,1);_hdn=1;O_LC();_Sh("O_c",0)}' onmouseover="_Ps(&quot;O_c&quot;,_Gd(&quot;O_o&quot;,0)-91,_Gd(&quot;O_o&quot;,1)-39);_Sh(&quot;O_o&quot;,0);_Sh(&quot;O_c&quot;,1)" onmouseout="_Sh(&quot;O_c&quot;,0);_Sh(&quot;O_o&quot;,1);return 1"><img src="onlineopinion/en-US/black_dot.gif" alt="" title="" width="4" height="17" border="0"><img src="onlineopinion/en-US/black_comment.gif" alt="Comments?" title="Comments?" border="0" width="19" height="17"></a></td></tr></tbody></table></div>
+					<script type="text/javascript" src="http://thesearchagency.net/tsawaypoint.php?siteid=256&amp;wayid=962"></script>
+				
 
-
-<form id="swfaddress" method="get"></form></body></html>
+</body></html>
