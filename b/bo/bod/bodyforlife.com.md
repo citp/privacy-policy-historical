@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bodyforlife.com privacy policy that was archived on 2006-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061023235915id_/http%3A//www.abbott.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodyforlife.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623134133id_/http%3A//www.abbott.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Abbott
 
