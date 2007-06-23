@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colliers.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205215729id_/http%3A//www.colliers.com/Corporate/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colliers.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623082430id_/http%3A//www.colliers.com/Corporate/Privacy) for the most accurate reproduction.*
 
 # Colliers International: Privacy Policy
 
@@ -68,7 +68,7 @@ This Privacy Policy is intended be governed by, construed and enforced in accord
 
 **11\. Additional Information**
 
-Questions regarding this statement should be directed to [contact@colliers.com](mailto:contact@colliers.com).
+Questions regarding this statement should be directed to [info@colliers.com](mailto:info@colliers.com).
 
 COLLIERS.COM TERMS OF USE AGREEMENT
 
@@ -78,7 +78,7 @@ We have set up some ground rules to ensure that we keep this area useful, inform
 
 THIS AGREEMENT DESCRIBES THE TERMS AND CONDITIONS UNDER WHICH YOU WILL USE THE SERVICES AT COLLIERMN.COM. BY COMPLETING YOUR ONLINE REGISTRATION FOR COLLIERMN.COM YOU AGREE TO ALL OF THE TERMS AND CONDITIONS SET OUT IN THIS AGREEMENT. IF YOU DO NOT AGREE WITH ANY OF THE TERMS AND CONDITIONS SET OUT IN THIS AGREEMENT, PLEASE DO NOT USE THIS SITE.
 
-Colliers.com reserves the right to change these guidelines and disclaimers at anytime, and you agree that each visit you make to the Colliers.com Web Site shall be subject to the current guidelines. If you have any questions that this guide does not answer, please contact [contact@colliers.com](mailto:contact@colliers.com). Except as otherwise provided herein, this Terms of Use Agreement applies to all Users of any service at Colliers.com.
+Colliers.com reserves the right to change these guidelines and disclaimers at anytime, and you agree that each visit you make to the Colliers.com Web Site shall be subject to the current guidelines. If you have any questions that this guide does not answer, please contact [info@colliers.com](mailto:info@colliers.com). Except as otherwise provided herein, this Terms of Use Agreement applies to all Users of any service at Colliers.com.
 
 * * *
 
@@ -137,7 +137,7 @@ You and Colliers.com are independent contractors, and no agency, partnership, jo
 
 **12\. Notices**
 
-Except as explicitly stated otherwise, any notices shall be transmitted to Colliers.com by e-mail to [contact@colliers.com](mailto:contact@colliers.com) (in the case of notices sent to Colliers.com) or to you the User at the e-mail address which you provide to Colliers.com during the registration process. Notice shall be deemed given 72 hours after e-mail is sent, unless the sending party is notified that the e-mail address is invalid. Alternatively, we may give you notice by certified mail, postage prepaid and return receipt requested, to the address provided to Colliers.com during the transaction or bid process. In such case, notice shall be deemed given 3 days after the date of mailing.
+Except as explicitly stated otherwise, any notices shall be transmitted to Colliers.com by e-mail to [info@colliers.com](mailto:info@colliers.com) (in the case of notices sent to Colliers.com) or to you the User at the e-mail address which you provide to Colliers.com during the registration process. Notice shall be deemed given 72 hours after e-mail is sent, unless the sending party is notified that the e-mail address is invalid. Alternatively, we may give you notice by certified mail, postage prepaid and return receipt requested, to the address provided to Colliers.com during the transaction or bid process. In such case, notice shall be deemed given 3 days after the date of mailing.
 
 **13\. Trademarks**
 
@@ -165,6 +165,6 @@ We encourage you to share your comments and questions with other users and us. W
 
 **19\. Additional Information**
 
-Questions regarding this Terms of Use Agreement should be directed to [contact@colliers.com.](mailto:contact@colliers.com.)
+Questions regarding this Terms of Use Agreement should be directed to [info@colliers.com.](mailto:info@colliers.com.)
 
 Copyright © 2003 Colliers International. All rights reserved.
