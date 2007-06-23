@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gables.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208015409id_/http%3A//gables.com/AboutGables/PrivacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gables.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623033035id_/http%3A//www.gables.com/AboutGables/PrivacyPolicy.cfm) for the most accurate reproduction.*
 
 # Gables Residential Privacy Policy
 
