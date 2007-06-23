@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the olt.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214164306id_/http%3A//www.olt.com/main/home/privacysecurity.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olt.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623132653id_/http%3A//www.olt.com/main/home/privacysecurity.asp) for the most accurate reproduction.*
 
 # OnLine Taxes respects your privacy - Please read our Privacy/Security Policy.
 
@@ -73,7 +73,7 @@ Your privacy is important to us. By participating in the Council of Better Busin
   
 **_Customer Support_**
 
-If you have any questions or concerns, you can contact our [Customer Service Department](https://web.archive.org/web/20061214164306id_/http%3A//www.olt.com/main/home/service.asp).
+If you have any questions or concerns, you can contact our [Customer Service Department](https://web.archive.org/web/20070623132653id_/http%3A//www.olt.com/main/home/service.asp).
 
   
 
