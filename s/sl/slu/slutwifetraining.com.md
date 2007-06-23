@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slutwifetraining.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205225203id_/http%3A//thestall.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slutwifetraining.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623150755id_/http%3A//thestall.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,11 +6,11 @@ This Policy explains what information we collect about you and what we do with i
 
 **What information do we collect?**
 
-We collect personal information that you provide to us such as your name, e-mail address, street address and telephone number. We also collect credit card information from you. We generally collect this personal information on our registration and order forms when you sign up to receive products or services from any of our Sites. We may also collect information from our online surveys such as age, gender and income level. Finally, we collect IP addresses and anonymous demographic information.
+We collect personal information that you provide to us such as your name, e-mail address, street address and telephone number. We generally collect this personal information on our registration and order forms when you sign up to receive products or services from any of our Sites.
 
 **What do we do with the information we collect?**
 
-We use personal information and other demographic or profile information you provide to us to fulfill your orders or requests; to provide you with information about our sites and to contact you when necessary.
+We use personal information and other demographic or profile information you provide to us to fulfill your orders or requests, for security, to provide you with information about our sites and to contact you when necessary.
 
 **Do we share the information we collect with third parties?**
 
