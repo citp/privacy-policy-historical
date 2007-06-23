@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seniorpeoplemeet.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207075730id_/http%3A//www.seniorpeoplemeet.com/privacy/%3Fa%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seniorpeoplemeet.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623043924id_/http%3A//www.seniorpeoplemeet.com/privacy/%3Fa%3D) for the most accurate reproduction.*
 
-# SENIORPeopleMeet.com - The Senior People Network - 12/07/2006
+# SENIORPeopleMeet.com - The Senior People Network - 06/22/2007
 
 |  |  |   
 ---  
