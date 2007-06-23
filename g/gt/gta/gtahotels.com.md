@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gtahotels.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217113606id_/http%3A//www.gtahotels.com/customercare/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtahotels.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623045502id_/http%3A//www.gtahotels.com/customercare/privacy.htm) for the most accurate reproduction.*
 
 # GtaHotels.com - Customer Care : Privacy
 
