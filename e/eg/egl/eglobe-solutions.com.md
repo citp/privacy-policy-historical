@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eglobe-solutions.com privacy policy that was archived on 2006-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060805120729id_/http%3A//eglobe-solutions.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eglobe-solutions.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623215919id_/http%3A//www.eglobe-solutions.com/privacy.htm) for the most accurate reproduction.*
 
 # eGlobe Solutions | Privacy Policy
 
