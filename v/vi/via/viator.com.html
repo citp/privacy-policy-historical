@@ -1,12 +1,14 @@
-<!--The following is the downloaded HTML source of the viator.com privacy policy that was archived on 2006-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061205235427id_/http%3A//www.viator.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the viator.com privacy policy that was archived on 2007-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070623073022id_/http%3A//www.viator.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <!-- SESSION ID: NULL -->
 <title>Viator | Tours, Tickets &amp; Things to do from Tour Operators Worldwide by Viator</title>
-<link rel="stylesheet" type="text/css" href="/css/global.css?v=1" media="screen">
+<link rel="stylesheet" type="text/css" href="/css/global.css" media="screen">
+<link rel="stylesheet" type="text/css" href="/css/components.css" media="screen"> 
 <link rel="stylesheet" type="text/css" href="/css/marketing.css" media="screen">
 <link rel="stylesheet" type="text/css" href="/css/print.css" media="print">
+<link rel="shortcut icon" href="/images/icons/favicon.ico" type="image/x-icon">
 <script type="text/javascript" src="/js/showCookieManager.js"></script>
 <script type="text/javascript" src="/js/calendar.js"></script>
 <script type="text/javascript" src="/js/tools.js"></script>
@@ -22,7 +24,7 @@ document.getElementById('calender').appendChild(sCal1);
 sCal2 = createCalendar('sCal2', document.pasForm.to_yyyy, document.pasForm.to_mm, document.pasForm.to_dd, sCal1, null, null);
 document.getElementById('calender').appendChild(sCal2);
 sCal1.stopDateCal = sCal2;
-if (typeof(document.pasForm.continent) != 'undefined') {
+if (typeof(document.pasForm.country) != 'undefined') {
 document.pasForm.reset();
 }
 } 
@@ -30,24 +32,27 @@ document.pasForm.reset();
 </head>
 <body onload="body_doonload();">
 <iframe id="loadingMsg" frameborder="0" scrolling="no" src="/inc/loading.jsp" style="visibility:hidden;"></iframe>
+<div id="container-top"></div>
+<div id="container" class="clearfix">
 <div id="wrapper">
-<div id="top-navigation">
+<div id="top-navigation" class="clearfix">
 <ul class="utilities-left">
 <li><a href="http://www.viator.com/sitemap" title="Thousands of tours, activities and things to do from Viator.com">Viator Site Map</a></li>
 </ul>
 <ul class="utilities-right">
-<li><a href="#"><img src="/images/icon-cart-header.gif" width="11" height="8" alt=""></a></li>
-<li><a href="http://www.viator.com/shopping-cart" title="Shopping cart">Shopping cart</a> |</li>
-<li><a href="#"><img src="/images/icon-wishlist.gif" alt="wishlist"></a></li>
-<li><a href="#" title="Wishlist" onclick="showWishlistManager();return false;">Wishlist</a> |</li>
+<li><a href="http://www.viator.com/shopping-cart"><img src="/images/icon-cart-header.gif" width="11" height="8" alt=""></a> <a href="http://www.viator.com/shopping-cart" title="Shopping cart">Shopping cart</a> |</li>
+<li><a href="#" onclick="showWishlistManager();return false;"><img src="/images/icon-wishlist.gif" alt="wishlist"></a> <a href="#" title="Wishlist" onclick="showWishlistManager();return false;">Wishlist</a> |</li>
 <li><a href="http://www.viator.com/faq" title="FAQs">FAQs</a> | </li>
 <li><a href="#" title="My Bookings" onclick="window.open('http://www.viator.com/popup/accessBooking.jspa','bookingwindow','scrollbars=1,resizable=1,width=420,height=545')">My Bookings</a> | </li>
-<li><a href="http://www.viator.com/customer-care" title="Customer Care">Customer Care - Viator.com</a> | </li>
-<li><a href="#" onclick="window.open('http://www.viator.com/common/looktour-popup.jsp', null,'height=400,width=400,status=yes,toolbar=no,menubar=no,location=no')" title="Customer Care" class="look-tours">Customer Care - All other sites</a></li>
+<li><a href="http://www.viator.com/customer-care" title="Customer Care">Customer Care</a> | </li>
+<li><a href="http://travelblog.viator.com" title="Travel Blog">Travel Blog</a></li>
+<!--<li><a href="#" onclick="window.open('http://www.viator.com/common/looktour-popup.jsp', null,'height=400,width=400,status=yes,toolbar=no,menubar=no,location=no')" title="Customer Care" class="look-tours">Customer Care - All other sites</a></li>-->
 </ul>
 </div><!-- End of top-navigation division -->
 <div id="header">
-<a href="http://www.viator.com/"><img src="/images/header-logo.gif" width="150" height="80" alt="Viator.com: Book things to do, sightseeing tours, activities and attractions in more than 70 countries worldwide."></a><img src="/images/header/15.jpg?v=1" width="610" height="80" alt="Viator.com: Book things to do, sightseeing tours, activities and attractions in more than 70 countries worldwide." name="headerIMG">
+<img id="print-logo" src="/images/logo-print.gif">
+<h1>Book things to do, sightseeing tours, activities and attractions in more than 70 countries worldwide.</h1>
+<a href="http://www.viator.com/"><img src="/images/header-logo.gif" width="150" height="80" alt="Viator.com: Book things to do, sightseeing tours, activities and attractions in more than 70 countries worldwide."></a><img src="/images/header/" width="610" height="80" alt="Viator.com: Book things to do, sightseeing tours, activities and attractions in more than 70 countries worldwide." name="headerIMG">
 <script type="text/javascript" language="JavaScript">
 <!--// 
 function rewriteFreetxtUrl(keyword) {
@@ -106,18 +111,18 @@ return false;
 <div id="search-bar">
 <form action="http://www.viator.com/freeTextSearch.jspa" method="get" enctype="" title="search" name="search" onsubmit="return doFreeTextSearchSubmit();">
 <input type="text" name="freeTextKeyword" size="16" maxlength="50" id="freeTextKeyword">
-<input class="button" type="Submit" value="Search" title="Search">
+<div class="btnL"><input class="btnR" type="Submit" value="Search" title="Search"></div>
 </form>
 </div><!-- End of search-bar division --> 
 </div><!-- End of header division -->
-<noscript>
-<meta http-equiv="refresh" content="0; url=http://www.viator.com/error.jspa?code=VTC125" />
-</noscript>
 <div id="crumbler">	
 <strong>You are here:</strong>&nbsp;
-<a href="/" title="Viator Home">Viator Home</a>&nbsp;&gt;&nbsp;
-<a href="/customer-care">Customer Care</a>&nbsp;&gt;&nbsp;
-<h2><span class="current">Privacy Policy</span></h2>
+<a href="http://www.viator.com/" title="Viator Home">Viator Home</a>&nbsp;&gt;&nbsp;
+<a href="/customer-care" title="Customer Care">Customer Care</a>&nbsp;&gt;&nbsp;
+<h2><span class="current">
+<a href="/privacy-policy" title="Privacy Policy">
+Privacy Policy</a>
+</span></h2>
 </div><!-- End of navigation division -->
 <div id="tools"><!-- Lefthand column items -->
 <script type="text/javascript">
@@ -163,6 +168,7 @@ YOffset = 0;
 loadingObj.style.left = (windowWidth - parseInt(parseInt(getCompStyle2(loadingObj, "width")))) / 2 + scrollX + XOffset + "px";
 loadingObj.style.top = (windowHeight - parseInt(parseInt(getCompStyle2(loadingObj, "height")))) / 2 + scrollY + YOffset + "px";
 loadingObj.style.visibility = 'visible';
+loadingObj.src='/inc/loading.jsp'; //Re-assign src so the gif reloads upon display: VTC-1248
 }
 }
 function pasCheck(pas) {
@@ -172,7 +178,7 @@ var fromDate = new Date();
 toDate.setFullYear(pas.to_yyyy.value,pas.to_mm.value-1,pas.to_dd.value);
 fromDate.setFullYear(pas.from_yyyy.value,pas.from_mm.value-1,pas.from_dd.value);
 if (toDate<fromDate) {
-alert("Invalid From or To Date");
+alert("The From date selected must be before the To date");
 return false;
 }
 var difference = Date.UTC(toDate.getFullYear(),toDate.getMonth(),toDate.getDate(),0,0,0) - Date.UTC(fromDate.getFullYear(),fromDate.getMonth(),fromDate.getDate(),0,0,0);
@@ -189,12 +195,12 @@ for(var i=0;i<pas.region.value.length;i++){
 if(!isDigit(pas.region.value.charAt(i))) {
 if (pas.region.value.substring(0,1)=="T") {
 pas.action = "/themeProdSearch.jspa";
-pas.categoryName.value = pas.region.value.substring(1, pas.region.value.length);
+pas.categoryName.value = pas.region.value.substring(1, pas.region.value.indexOf('-'));
 } else {
 pas.action = "/poiProdSearch.jspa";
-pas.categoryName.value = pas.region.value.substring(1, pas.region.value.length);
+pas.categoryName.value = pas.region.value.substring(1, pas.region.value.indexOf('-'));
 }
-pas.destinationID.value = pas.country.value;
+pas.destinationID.value = pas.region.value.substring(pas.region.value.indexOf('-')+1);
 return;
 }
 }
@@ -209,16 +215,17 @@ pas.categoryName.value = pas.country.value.substring(1, pas.country.value.length
 pas.action = "/poiProdSearch.jspa";
 pas.categoryName.value = pas.country.value.substring(1, pas.country.value.length);
 }
-pas.destinationID.value = pas.continent.value;
+//pas.destinationID.value = pas.continent.value;
 return;
 }
 }
 pas.destinationID.value = pas.country.value;
-} else if (pas.continent.value!="") {
+} /*else if (pas.continent.value!="") {
 alert("You must select a country to search");
 return false;
-} else {
-alert("You must select a continent and country to search");
+} */else {
+//alert("You must select a continent and country to search");
+alert("You must select a country to search");
 return false;
 }
 showLoading2();
@@ -228,61 +235,124 @@ function setActivities() {
 document.pasForm.activities[1].checked=true;
 }
 function clearDates() {
-document.pasForm.activities[0].checked=true;	
-document.pasForm.from_mm.value = "12";
-document.pasForm.from_dd.value = "5";
-document.pasForm.from_yyyy.value = "2006";
-document.pasForm.to_mm.value = "12";
-document.pasForm.to_dd.value = "12";
-document.pasForm.to_yyyy.value = "2006";
+document.pasForm.activities[0].checked=true;
+document.pasForm.from_mm.value = "6";
+document.pasForm.from_dd.value = "23";
+document.pasForm.from_yyyy.value = "2007";
+document.pasForm.to_mm.value = "6";
+document.pasForm.to_dd.value = "30";
+document.pasForm.to_yyyy.value = "2007";
 }
 </script>
 <div id="DEBUG_DIV"></div>
-<h2 class="find"><img src="/images/double-arrow.gif" width="8" height="5" alt="">Find things to do in:</h2>
+<p class="tools-mod-heading pas-find"><img src="/images/double-arrow.gif" width="8" height="5" alt="Find things to do in:">Find things to do in:</p>
 <form action="/prodAvailSearch.jspa" method="get" id="pasForm" name="pasForm">
-<select name="continent" onchange="this.form.region.disabled=true;this.form.region.value='';getXML('/pascountries.jspa?continent='+escape(this.value), false, xmlDD, [this.form.country]);">
-<option value="">Select a continent</option>
-<option value="2">Asia</option>
-<option value="3">Australia &amp; the Pacific</option>
-<option value="4">Caribbean</option>
-<option value="9">Central &amp; South America</option>
-<option value="6">Europe</option>
-<option value="1">Middle East &amp; Africa</option>
-<option value="8">North America</option>
-</select>
 <select name="country" id="pascountry" onchange="this.form.region.disabled=true;getXML('/pascities.jspa?country='+escape(this.value), false, xmlDD, [this.form.region]);if(this.form.region.length>1){this.form.region.disabled=false;}">
 <option value="">Select a country</option>
+<option value="77">USA</option>
+<option value="22">Australia</option>
+<option value="24">New Zealand</option>
+<option value="51">France</option>
+<option value="57">Italy</option>
+<option value="67">Spain</option>
+<option value="731">England</option>
+<option value="60">Netherlands</option>
+<option value="">------------------------------</option>
+<option value="810">Anguilla</option>
+<option value="27">Antigua and Barbuda</option>
+<option value="78">Argentina</option>
+<option value="28">Aruba</option>
+<option value="22">Australia</option>
+<option value="44">Austria</option>
+<option value="29">Bahamas</option>
+<option value="30">Barbados</option>
+<option value="45">Belgium</option>
+<option value="746">Belize</option>
+<option value="780">Botswana</option>
+<option value="79">Brazil</option>
+<option value="809">British Virgin Islands</option>
+<option value="46">Bulgaria</option>
+<option value="12">Cambodia</option>
+<option value="75">Canada</option>
+<option value="31">Cayman Islands</option>
+<option value="80">Chile</option>
+<option value="13">China</option>
+<option value="747">Costa Rica</option>
+<option value="730">Croatia</option>
+<option value="725">Curacao</option>
+<option value="47">Cyprus</option>
+<option value="48">Czech Republic</option>
+<option value="49">Denmark</option>
+<option value="32">Dominican Republic</option>
+<option value="743">Dubai (UAE)</option>
+<option value="727">Ecuador</option>
+<option value="722">Egypt</option>
+<option value="731">England</option>
+<option value="23">Fiji</option>
+<option value="50">Finland</option>
+<option value="51">France</option>
+<option value="52">Germany</option>
+<option value="53">Greece</option>
+<option value="748">Guatemala</option>
+<option value="14">Hong Kong</option>
+<option value="54">Hungary</option>
+<option value="55">Iceland</option>
+<option value="723">India</option>
+<option value="15">Indonesia</option>
+<option value="56">Ireland</option>
+<option value="57">Italy</option>
+<option value="34">Jamaica</option>
+<option value="16">Japan</option>
+<option value="744">Jordan</option>
+<option value="801">Kenya</option>
+<option value="58">Lithuania</option>
+<option value="17">Malaysia</option>
+<option value="733">Malta</option>
+<option value="76">Mexico</option>
+<option value="10">Namibia</option>
+<option value="724">Nepal</option>
+<option value="60">Netherlands</option>
+<option value="24">New Zealand</option>
+<option value="61">Norway</option>
+<option value="745">Oman</option>
+<option value="749">Panama</option>
+<option value="62">Poland</option>
+<option value="63">Portugal</option>
+<option value="36">Puerto Rico</option>
+<option value="64">Romania</option>
+<option value="65">Russia</option>
+<option value="732">Scotland</option>
+<option value="18">Singapore</option>
+<option value="66">Slovakia</option>
+<option value="734">Slovenia</option>
+<option value="11">South Africa</option>
+<option value="67">Spain</option>
+<option value="19">Sri Lanka</option>
+<option value="37">St Kitts - Nevis</option>
+<option value="38">St Lucia</option>
+<option value="728">St Maarten</option>
+<option value="68">Sweden</option>
+<option value="69">Switzerland</option>
+<option value="25">Tahiti</option>
+<option value="778">Taiwan</option>
+<option value="20">Thailand</option>
+<option value="39">Trinidad and Tobago</option>
+<option value="70">Turkey</option>
+<option value="781">Ukraine</option>
+<option value="77">USA</option>
+<option value="21">Vietnam</option>
+<option value="40">Virgin Islands-US</option>
+<option value="779">Zambia</option>
 </select>
 <select name="region" id="pasregion" disabled="true">
 <option value="">Select a region/city</option>
 </select>
-<div id="find-activities">
+<div id="find-activities" class="clearfix">
 <label for="activitiesAll"><input class="radio" type="radio" name="activities" id="activitiesAll" value="all" checked="checked">Find all activities</label><br>
-<label for="activitiesFrom"><input class="radio" type="radio" name="activities" id="activitiesFrom" value="from">Find activities available from</label>
+<label for="activitiesFrom"><input class="radio" type="radio" name="activities" id="activitiesFrom" value="from">Find activities available from / to</label>
 <div id="calender" class="find-date">
-<select name="from_mm" class="mm" onchange="writeAvailDays(this.form.from_yyyy, this.form.from_mm, this.form.from_dd);" onclick="setActivities();">
-<option value="12" selected="">Dec</option>
-</select>
-<select name="from_dd" class="dd" onchange="writeAvailYears(this.form.to_yyyy, this.form.to_mm, this.form.to_dd, this.form.from_yyyy, this.form.from_mm, this.form.from_dd, null, null);" onclick="setActivities();">
-<option value="5" selected="">5</option>
-<option value="6">6</option>
-<option value="7">7</option>
-<option value="8">8</option>
-<option value="9">9</option>
-<option value="10">10</option>
-<option value="11">11</option>
-<option value="12">12</option>
-<option value="13">13</option>
-<option value="14">14</option>
-<option value="15">15</option>
-<option value="16">16</option>
-<option value="17">17</option>
-<option value="18">18</option>
-<option value="19">19</option>
-<option value="20">20</option>
-<option value="21">21</option>
-<option value="22">22</option>
-<option value="23">23</option>
+<select name="from_dd" class="dd" onclick="setActivities();">
+<option value="23" selected="">23</option>
 <option value="24">24</option>
 <option value="25">25</option>
 <option value="26">26</option>
@@ -290,35 +360,23 @@ document.pasForm.to_yyyy.value = "2006";
 <option value="28">28</option>
 <option value="29">29</option>
 <option value="30">30</option>
-<option value="31">31</option>
 </select>
-<select name="from_yyyy" class="yy" onchange="writeAvailMonths(this.form.from_yyyy, this.form.from_mm, this.form.from_dd);" onclick="setActivities();">
-<option value="2006" selected="">2006</option>
-<option value="2007">2007</option>
+<select name="from_yyyymm" class="mmyy" onchange="this.form.from_yyyy.value=this.options[this.options.selectedIndex].getAttribute('yyyy');this.form.from_mm.value=this.options[this.options.selectedIndex].getAttribute('mm');writeAvailDays(this.form.from_yyyy, this.form.from_mm, this.form.from_dd);" onclick="setActivities();">
+<option mm="6" yyyy="2007" value="6 2007" selected="">Jun '07</option>
+<option mm="7" yyyy="2007" value="7 2007">Jul '07</option>
+<option mm="8" yyyy="2007" value="8 2007">Aug '07</option>
+<option mm="9" yyyy="2007" value="9 2007">Sep '07</option>
+<option mm="10" yyyy="2007" value="10 2007">Oct '07</option>
+<option mm="11" yyyy="2007" value="11 2007">Nov '07</option>
+<option mm="12" yyyy="2007" value="12 2007">Dec '07</option>
+<option mm="1" yyyy="2008" value="1 2008">Jan '08</option>
+<option mm="2" yyyy="2008" value="2 2008">Feb '08</option>
+<option mm="3" yyyy="2008" value="3 2008">Mar '08</option>
+<option mm="4" yyyy="2008" value="4 2008">Apr '08</option>
+<option mm="5" yyyy="2008" value="5 2008">May '08</option>
 </select>
-<a href="#" onclick="setActivities();showHideCalendar(sCal1);return false;"><img src="/images/date-selector.gif" width="21" height="18" alt="Select date"></a> to<br>
-<select name="to_mm" class="mm" onchange="writeAvailDays(this.form.to_yyyy, this.form.to_mm, this.form.to_dd, this.form.from_yyyy, this.form.from_mm, this.form.from_dd, null, null);" onclick="setActivities();">
-<option value="12" selected="">Dec</option>
-</select>
-<select name="to_dd" class="dd" onchange="" onclick="setActivities();">
-<option value="5">5</option>
-<option value="6">6</option>
-<option value="7">7</option>
-<option value="8">8</option>
-<option value="9">9</option>
-<option value="10">10</option>
-<option value="11">11</option>
-<option value="12" selected="">12</option>
-<option value="13">13</option>
-<option value="14">14</option>
-<option value="15">15</option>
-<option value="16">16</option>
-<option value="17">17</option>
-<option value="18">18</option>
-<option value="19">19</option>
-<option value="20">20</option>
-<option value="21">21</option>
-<option value="22">22</option>
+<a href="#" onclick="setActivities();showHideCalendar(sCal1);return false;"><img src="/images/date-selector.gif" width="21" height="18" alt="Select date"></a>
+<select name="to_dd" class="dd" onclick="setActivities();">
 <option value="23">23</option>
 <option value="24">24</option>
 <option value="25">25</option>
@@ -326,25 +384,36 @@ document.pasForm.to_yyyy.value = "2006";
 <option value="27">27</option>
 <option value="28">28</option>
 <option value="29">29</option>
-<option value="30">30</option>
-<option value="31">31</option>
+<option value="30" selected="">30</option>
 </select>
-<select name="to_yyyy" class="yy" onchange="writeAvailMonths(this.form.to_yyyy, this.form.to_mm, this.form.to_dd, this.form.from_yyyy, this.form.from_mm, this.form.from_dd, null, null);" onclick="setActivities();">
-<option value="2006" selected="">2006</option>
-<option value="2007">2007</option>
+<select name="to_yyyymm" class="mmyy" onchange="this.form.to_yyyy.value=this.options[this.options.selectedIndex].getAttribute('yyyy');this.form.to_mm.value=this.options[this.options.selectedIndex].getAttribute('mm');writeAvailDays(this.form.to_yyyy, this.form.to_mm, this.form.to_dd, this.form.from_yyyy, this.form.from_mm, this.form.from_dd, null, null);" onclick="setActivities();">
+<option mm="6" yyyy="2007" value="6 2007" selected="">Jun '07</option>
+<option mm="7" yyyy="2007" value="7 2007">Jul '07</option>
+<option mm="8" yyyy="2007" value="8 2007">Aug '07</option>
+<option mm="9" yyyy="2007" value="9 2007">Sep '07</option>
+<option mm="10" yyyy="2007" value="10 2007">Oct '07</option>
+<option mm="11" yyyy="2007" value="11 2007">Nov '07</option>
+<option mm="12" yyyy="2007" value="12 2007">Dec '07</option>
+<option mm="1" yyyy="2008" value="1 2008">Jan '08</option>
+<option mm="2" yyyy="2008" value="2 2008">Feb '08</option>
+<option mm="3" yyyy="2008" value="3 2008">Mar '08</option>
+<option mm="4" yyyy="2008" value="4 2008">Apr '08</option>
+<option mm="5" yyyy="2008" value="5 2008">May '08</option>
 </select>
 <a href="#" onclick="setActivities();showHideCalendar(sCal2);return false;"><img src="/images/date-selector.gif" width="21" height="18" alt="Select date"></a><br>
-<p><input type="submit" class="button" value="Go" id="go" name="go" title="Go" onclick="return pasCheck(this.form)"></p>
+<div class="btnL-blueBG"><input value="Go" type="submit" name="go" class="btnR-blueBG" id="Go" title="Go" onclick="return pasCheck(this.form)"></div>
+<iframe id="sCal1" width="150" height="340" scrolling="no" frameborder="0" src="javascript:false;" style="display: none; position: absolute; left: 500px; top: 172px; border: 0px;"></iframe><iframe id="sCal2" width="150" height="340" scrolling="no" frameborder="0" src="javascript:false;" style="display: none; position: absolute; left: 500px; top: 172px; border: 0px;"></iframe></div>
 </div>
-</div>
-<input type="hidden" name="topx" value="1-15">
+<input type="hidden" name="from_mm" value="6" onchange="setSelVal(this.form.from_yyyymm, this.form.from_mm.value+' '+this.form.from_yyyy.value);">
+<input type="hidden" name="from_yyyy" value="2007">
+<input type="hidden" name="to_mm" value="6" onchange="setSelVal(this.form.to_yyyymm, this.form.to_mm.value+' '+this.form.to_yyyy.value);">
+<input type="hidden" name="to_yyyy" value="2007">
+<input type="hidden" name="topx" value="1-10">
 <input type="hidden" name="section" value="ttd">
 <input type="hidden" name="destinationID" value="">
 <input type="hidden" name="categoryName" value="">
 </form>
-<div id="shop-with-confidence">
-<a href="http://www.viator.com/low-price"><img src="/images/shop-with-confidence-LHS.gif" alt="Shop with confidence"></a>
-</div>
+<div id="shop-with-confidence"><a href="http://www.viator.com/low-price"><img src="/images/shop-with-confidence-LHS.gif" alt="Shop with confidence"></a></div>
 <div id="shopping-cart">
 <p class="tools-mod-heading"><img src="/images/icon-cart-green.gif" width="11" height="8" alt="">My shopping cart</p>
 <!-- no items -->
@@ -366,24 +435,21 @@ currentUrl = currentUrl.substring(0, currentUrl.indexOf("%3FcurrencyCode"));
 document.location.href = "/changeCurrency.jspa?currencyCode="+currency+"&page="+currentUrl;
 }
 </script>
-<div id="currency">
-<p class="tools-mod-heading">View in your currency</p>
-<a href="#" onclick="changeCurrency('USD');return false;">
-<img class="first" src="/images/icon-flag-us-on.gif" width="27" height="19" alt="USD">
+<div id="currency"><p class="tools-mod-heading">View in your currency</p>
+<a href="#" onclick="changeCurrency('USD');return false;" title="USD" class="first">
+<img src="/images/icon-flag-us-on.gif" width="40" height="27" alt="USD">
 </a>
-<a href="#" onclick="changeCurrency('AUD');return false;">
+<a href="#" onclick="changeCurrency('AUD');return false;" title="AUD">
 <img src="/images/icon-flag-aus.gif" width="27" height="19" alt="AUD">
 </a>
-<a href="#" onclick="changeCurrency('GBP');return false;">
+<a href="#" onclick="changeCurrency('GBP');return false;" title="GBP">
 <img src="/images/icon-flag-uk.gif" width="27" height="19" alt="GBP">
 </a>
-<a href="#" onclick="changeCurrency('EUR');return false;">
+<a href="#" onclick="changeCurrency('EUR');return false;" title="EUR">
 <img src="/images/icon-flag-eu.gif" width="27" height="19" alt="EUR">
 </a>
 </div><!-- End of currency division --> 
-<div id="make-the-most">
-<img src="/images/make-the-most-LHS.gif" alt="Make the most of your trip">
-</div>
+<div id="make-the-most"><img src="/images/bookAhead.gif" alt="Reasons to Book Ahead"></div>
 <script type="text/javascript" language="javascript" src="/silverpop/formValidate.js"></script>
 <div id="email-capture">
 <p class="mod-heading">Viator Newsletters</p>
@@ -643,11 +709,11 @@ document.location.href = "/changeCurrency.jspa?currencyCode="+currency+"&page="+
 <input type="radio" class="radio" id="email-text" name="EMAIL_TYPE" value="TEXT" /><label for="email-text">Text</label>
 -->
 <input type="hidden" name="url" value="www.viator.com/confirm.jspa">
-<input type="submit" class="button" value="Sign me up!" title="Sign me up!" onclick="f_validateForm(this.form.name);return false;">
+<div class="btnL-midBlueBG"><input value="Sign me up" type="button" name="Sign me up" class="btnR-midBlueBG" onclick="f_validateForm(this.form.name);return false;" title="Sign me up"></div>
 </form>
 <br class="clear">
 </div>
-<img src="/images/leftCol/17.jpg" width="150" alt="Viator... the things you do when you get there!" class="column-photo" name="leftColIMG">
+<img src="/images/leftCol/2.jpg" width="150" alt="Viator... the things you do when you get there!" class="column-photo" name="leftColIMG">
 </div><!-- End of tools division -->
 <div id="content"><!-- Main content area -->
 <div id="location-bar"><!-- This is section across the top of the main content -->
@@ -658,11 +724,11 @@ document.location.href = "/changeCurrency.jspa?currencyCode="+currency+"&page="+
 </div>
 <div id="Tabs">
 <ul>
-<li><a href="/customer-care">Customer care</a></li>
-<li class="faq"><a href="/faq">FAQ</a></li>
-<li id="current"><a>Privacy policy</a></li>
-<li><a href="/terms-and-conditions">Terms &amp; conditions</a></li>
-<li><a href="/contact-us-customercare">Contact us</a></li>
+<li><a href="/customer-care"><span>Customer care</span></a></li>
+<li class="faq"><a href="/faq"><span>FAQ</span></a></li>
+<li id="current"><a><span>Privacy policy</span></a></li>
+<li><a href="/terms-and-conditions"><span>Terms &amp; conditions</span></a></li>
+<li><a href="/contact-us-customercare"><span>Contact us</span></a></li>
 </ul>
 </div><!-- end tabs div -->
 </div><!-- end location-copy -->
@@ -676,7 +742,7 @@ document.location.href = "/changeCurrency.jspa?currencyCode="+currency+"&page="+
 <!-- SiteCatalyst code version: H.3.
 Copyright 1997-2005 Omniture, Inc. More info available at
 http://www.omniture.com -->
-<script type="text/javascript" language="JavaScript" src="/analytics/s_code.js"></script><img name="s_i_viatorprd" height="1" width="1" border="0" alt="" src="https://viator.122.2O7.net/b/ss/viatorprd/1/H.4-pdv-2/s02928048880410?[AQB]&amp;ndh=1&amp;t=31/0/2020%2014%3A41%3A5%205%200&amp;ns=viator&amp;cdp=3&amp;pageName=Customer%20Care%20%3A%20Privacy%20policy&amp;g=https%3A//web.archive.org/web/20061205235427id_/http%253A//www.viator.com/privacy-policy&amp;events=event2&amp;v12=New&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+<script type="text/javascript" language="JavaScript" src="/analytics/s_code.js"></script><img name="s_i_viatorprd" height="1" width="1" border="0" alt="" src="https://viator.122.2O7.net/b/ss/viatorprd/1/H.4-pdv-2/s33215783125007?[AQB]&amp;ndh=1&amp;t=30/0/2020%2016%3A26%3A3%204%200&amp;ns=viator&amp;cdp=3&amp;pageName=Customer%20Care%20%3A%20Privacy%20policy&amp;g=https%3A//web.archive.org/web/20070623073022id_/http%253A//www.viator.com/privacy-policy&amp;events=event2&amp;v12=New&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
 <script type="text/javascript" language="JavaScript"><!--
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
@@ -718,6 +784,12 @@ s.eVar21=""
 s.eVar22=""
 s.eVar23=""
 s.eVar24=""
+s.eVar25=""
+s.eVar26=""
+s.eVar30=""
+s.eVar31=""
+s.eVar32=""
+s.eVar33=""
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 <script type="text/javascript" language="JavaScript"><!--
@@ -783,9 +855,9 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 <p>If you subscribe to any of our newsletters, we will use your personal information to send you the information you requested. You will always have the option to unsubscribe.</p>
 <p>Some of the personal information we collect is shared with our service partners (e.g. tour operators) who are directly involved in fulfilling the purchases you have made from us.</p>
 <p>We only provide our service providers with your name and your local contact details, if you provide them (e.g. your hotel name for pick-ups and drop-offs, your local phone number, etc.) We do not provide our service providers with any other personal information. If you decide to provide any personal information directly to a service provider, we recommend that you review the service provider’s privacy policy.</p>
-<p>We also share your personal information with third parties contracted to provide us with marketing and data reporting services who are bound by an obligation of confidentiality.</p>
+<p>We also share your personal information with third parties contracted to provide us with marketing and data reporting services who are bound by an obligation of confidentiality and with other third party marketing partners if you expressly authorize us to do so.</p>
 <p>We currently contract with several online partners to help manage and optimize our Internet business and communications. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our website. To do this, we use web beacons and cookies provided by our marketing company on this website. The information we collect helps us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. Although our marketing company logs the information coming from our website on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can “opt-out" of our ability to analyze such data by <a href="http://www.omniture.com/privacy/product#optout" target="_blank">clicking here</a>.</p>
-<p>Finally, rest assured that we do not share your personal information with third-party organizations who are not involved in fulfilling the purchases you have made from us or who are not contracted by us. We also do not partner with or have relationships with any businesses which serve ads on websites and collect information about your use of web sites.</p>
+<p>Finally, rest assured that unless you expressly authorize us to do so, we do not share your personal information with third-party organizations who are not involved in fulfilling the purchases you have made from us or who are not contracted by us. </p>
 <div class="back-to-top"><a href="#top">Back to top</a></div>
 <h3 id="distPartners">Our Distribution Partners</h3>
 <p>Our products are made available through our distribution partners. This Privacy Policy should be read in conjunction with the privacy policies of our distribution partners, which may differ from Viator's Privacy Policy.</p>
@@ -817,8 +889,8 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 <p class="view"><a href="/low-price" title="Shop with confidence on Viator.com">View complete details »</a></p>
 </div>
 <div class="RC last">
-<h4>Top Destinations in 2006</h4>
-<p>What destinations are hot in 2006? Here's a list of Viator's most popular destinations:</p>
+<h4>Top Destinations in 2007</h4>
+<p>What destinations are hot in 2007? Here's a list of Viator's most popular destinations:</p>
 <ol>
 <li><a href="/New-York/d687" title="New York">New York City</a></li>
 <li><a href="/San-Francisco/d651" title="San Francisco">San Francisco</a></li>
@@ -834,27 +906,45 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 </div>
 </div>
 </div><!-- End of content division -->
+</div><!-- end wrapper About Us-->
+</div><!-- end container -->
+<div id="container-bottom"></div>
 <div id="footer">
-<p class="links"><a href="/sitemap" title="Thousands of tours, activities and things to do from Viator.com">Viator Site Map</a> | 
+<p>
+<a href="/sitemap" title="Thousands of tours, activities and things to do from Viator.com">Viator Site Map</a> | 
 <a href="/meet-our-team" title="Meet Viator's travel experts">Meet Our Team</a> | 
 <a href="/newsletters" title="Free Newsletters">Free Newsletters</a> | 
-<a href="/gift-certificates" title="Viator.com Gift Certificates">Viator Gift Certificates</a> | 
-<a href="/low-price" title="Shop with confidence on Viator.com">Low Price Guarantee</a> | 
-<a href="/earn-miles" title="Earn Frequent&nbsp;Flyer Miles">Earn Frequent&nbsp;Flyer Miles</a> | 
+<a href="/gift-certificates" title="Gift Certificates">Gift Certificates</a> | 
+<a href="/earn-miles" title="Earn Miles">Earn Miles</a> | 
 <a href="/travel-links" title="Travel Links">Travel Links</a> |
 <a href="http://travelblog.viator.com" title="Travel Blog">Travel Blog</a>
-</p>
-<p class="links2"><a href="about-us" title="Things to do, tours &amp; activities from Viator.com">About Us</a> | 
+<br>
+<a href="about-us" title="Things to do, tours &amp; activities from Viator.com">About Us</a> | 
 <a href="/customer-care" title="24/7 Customer Support from Viator">Customer Care</a> | 
-<a href="/faq" title="FAQ">Frequently Asked Questions (FAQ)</a> | 
+<a href="/group-services" title="Group Services">Group Services</a> | 
+<a href="/faq" title="FAQs">FAQs</a> | 
 <a href="/media-center" title="Media Center">Media Center</a> | 
 <a href="/partnership" title="Become a Viator Distributor">Become a Viator Distributor</a> | 
 <a href="/terms-and-conditions" title="Terms &amp; Conditions">Terms &amp; Conditions</a> | 
-<a href="/privacy-policy" title="Your Privacy Rights">Your Privacy Rights</a></p>
-<p>© 1997 - 2006 <a href="/about-us" title="Viator, Inc.">Viator, Inc.</a> All rights reserved.</p>
-<p>Use of this website constitutes acceptance of Viator's <a href="/terms-and-conditions" title="Terms &amp; Conditions">Terms &amp; Conditions</a>.</p>
+<a href="/privacy-policy" title="Your Privacy Rights">Your Privacy Rights</a>
+</p> 
+<p>
+<small>
+<a href="http://www.viator.com/Paris/d479-ttd" title="Paris Tours">Paris Tours</a> | 
+<a href="http://www.viator.com/Rome/d511-ttd" title="Rome Tours">Rome Tours</a> | 
+<a href="http://www.viator.com/New-York-City/d687-ttd" title="New York City Tours">New York City Tours</a> | 
+<a href="http://www.viator.com/Las-Vegas/d684-ttd" title="Las Vegas Tours">Las Vegas Tours</a> | 
+<a href="http://www.viator.com/Arizona/Grand-Canyon-National-Park/tours-activities/d271-ttd-spoi" title="Grand Canyon Tours">Grand Canyon Tours</a> | 
+<a href="http://www.viator.com/Sydney/d357-ttd" title="Sydney Tours">Sydney Tours</a> | 
+<a href="http://www.viator.com/San-Francisco/d651-ttd" title="San Francisco Tours">San Francisco Tours</a> | 
+<a href="http://www.viator.com/Amsterdam/d525-ttd" title="Amsterdam Tours">Amsterdam Tours</a> | 
+<a href="http://www.viator.com/London/d737-ttd" title="London Tours">London Tours</a> | 
+<a href="http://www.viator.com/sitemap" title="See all destinations »">See all destinations&nbsp;»</a>
+<br>
+© 1997 - 2007 <a href="/about-us" title="Viator, Inc.">Viator, Inc.</a> All rights reserved. Use of this website constitutes acceptance of Viator's <a href="/terms-and-conditions" title="Terms &amp; Conditions">Terms &amp; Conditions</a>.	
+</small>
+</p>
 </div><!-- End of footer division -->
-</div><!-- end wrapper About Us-->
 
 
 </body></html>
