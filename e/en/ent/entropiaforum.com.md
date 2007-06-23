@@ -1,24 +1,25 @@
-> *The following text is extracted and transformed from the entropiaforum.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213203750id_/http%3A//www.entropiaforum.com/forums/showthread.php%3Fp%3D422676) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entropiaforum.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623113749id_/http%3A//www.entropiaforum.com/forums/showthread.php%3Fp%3D422676) for the most accurate reproduction.*
 
 # EntropiaForum Privacy Policy - EntropiaForum
 
+EF Owner  
 Administrator
 
-[](https://web.archive.org/web/20061213203750id_/http%3A//www.entropiaforum.com/forums/member.php?s=442114d3e6a4297f820e0ba325e94c91&u=9992)
+[](https://web.archive.org/web/20070623113749id_/http%3A//www.entropiaforum.com/forums/member.php?s=56d2f30a93941b116800857e11c114f2&u=9992)
 
-Joined: Jul 06
+Joined: Aug 06
 
 Gender:  Ingame: 
 
 Location: EntropiaForum
 
-Posts: 685  
-EFD: 10,966     [Donate](https://web.archive.org/web/20061213203750id_/http%3A//www.entropiaforum.com/forums/vbplaza.php?do=donate&userid=9992)
+Posts: 1,613  
+EFD: 151,089     [Donate](https://web.archive.org/web/20070623113749id_/http%3A//www.entropiaforum.com/forums/vbplaza.php?do=donate&userid=9992)
 
-Fame: 0 
+Fame: 44 
 
-Reputation: Adept   
-Achievements: [0](http://www.entropiaforum.com/forums/search.php?do=process&starteronly=1&searchuser=711&childforums=1&exactname=1&forumchoice\[\]=9)
+Reputation: Impressive   
+Achievements: [2](http://www.entropiaforum.com/forums/search.php?do=process&starteronly=1&searchuser=711&childforums=1&exactname=1&forumchoice\[\]=9)
 
 | 
 
@@ -133,4 +134,4 @@ Please contact EntropiaForum with any questions or comments about this Privacy N
 
 * * *
 
-_Last edited by 711 : 09-03-2006 at 09:47 AM. _
+_Last edited by 711 : 09-03-2006 at 08:47 AM. _
