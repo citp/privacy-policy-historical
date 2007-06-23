@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailypress.com privacy policy that was archived on 2006-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060831183221id_/http%3A//www.dailypress.com/services/site/dp-privacypolicy%2C0%2C653314.htmlstory) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailypress.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623080231id_/http%3A//www.dailypress.com/services/site/dp-privacypolicy%2C0%2C653314.htmlstory) for the most accurate reproduction.*
 
 # Privacy Policy
 
