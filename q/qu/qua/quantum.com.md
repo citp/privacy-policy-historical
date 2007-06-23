@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quantum.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205192219id_/http%3A//quantum.com/privacypolicy/Index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quantum.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623035432id_/http%3A//www.quantum.com/privacypolicy/Index.aspx) for the most accurate reproduction.*
 
 # Quantum About Us
 
