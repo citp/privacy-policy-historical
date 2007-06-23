@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the giftcards.com privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114044727id_/http%3A//www.giftcards.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftcards.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623204846id_/http%3A//www.giftcards.com/company/privacy.html) for the most accurate reproduction.*
 
-# Visa Gift Cards & Corporate Reward Cards
+# Privacy Policy - GiftCards.com
 
 **Direct Sites, Inc. (DBA, GiftCards - GC)** will not share your nonpublic personal information with others as defined below. **GC** , on your behalf, has exercised your right to opt-out under 12 CFR Part 40, Privacy of Consumer Financial Information.
 
