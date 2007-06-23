@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icslearn.co.uk privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208171101id_/http%3A//www.icslearn.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icslearn.co.uk privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623033034id_/http%3A//www.icslearn.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # 
 
