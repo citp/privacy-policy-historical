@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestwebbuys.com privacy policy that was archived on 2006-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061104133029id_/http%3A//www.bestwebbuys.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestwebbuys.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623143318id_/http%3A//www.bestwebbuys.com/privacy.html) for the most accurate reproduction.*
 
 # Best Web Buys searches online stores to find the lowest prices for books, music, and more.
 
