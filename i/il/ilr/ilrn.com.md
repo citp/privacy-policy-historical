@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilrn.com privacy policy that was archived on 2006-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060819064920id_/http%3A//www.thomson.com/corp/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilrn.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623071204id_/http%3A//www.thomson.com/corp/privacy.jsp) for the most accurate reproduction.*
 
 # Thomson - Privacy Statement
 
@@ -16,7 +16,7 @@ When you visit our Web Site, you may provide us with two types of information: (
 
 We may ask for certain personal information from you for the purpose of providing to you content and/or services that you request. For example, if you indicate an interest in receiving press releases about The Thomson Corporation, you are asked to submit your name and e-mail address, which we retain on file, so that we may send you the information that you requested. If you indicate on our E-mail Alert registration form that you are a member of the press, we may also send you information regarding our business. We also request your name and e-mail address each time you contact us by clicking on the "Contact Us" link. We may retain a record of users who have contacted us in order to respond properly to questions or concerns and for purposes of future communications.
 
-**Non-Personally Identifiable Information We Collect.**
+ **Non-Personally Identifiable Information We Collect.**
 
 Cookies/ Web server logs: Similar to other commercial Web sites, our Web Site utilizes standard technology called "cookies" and Web server logs to collect information about how our Web Site is used. Cookies are a feature of Web browser software that allows Web servers to recognize the computer used to access a Web site. Cookies are small pieces of data that are stored by a user's Web browser on the user's hard drive. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web Site, and the Web sites visited just before and just after our Web Site. This information is collected on an aggregate basis. None of this information is associated with you as an individual.
 
@@ -56,5 +56,6 @@ LINKS
 
 This Web Site contains links to third party sites as well as to other sites owned and/or operated by The Thomson Corporation. Please be aware that The Thomson Corporation is not responsible for the privacy practices of any third party sites. Please also be aware that the privacy policies of other Thomson sites may differ significantly from the privacy policy of this Web Site. Therefore, we encourage our users to read the privacy statement of each and every Web site that collects personally identifiable information. This Privacy Statement applies solely to information collected by this Web Site.
 
+  
   
 
