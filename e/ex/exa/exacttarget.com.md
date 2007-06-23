@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exacttarget.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216031604id_/http%3A//email.exacttarget.com/ETWeb/company.aspx%3Fid%3D80) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exacttarget.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623115340id_/http%3A//email.exacttarget.com/ETWeb/company.aspx%3Fid%3D80) for the most accurate reproduction.*
 
 # ExactTarget: Company Information
 
@@ -102,7 +102,7 @@ European Consumer Contact Information
 
 Safe Harbor Line  
 Direct Marketing Association  
-1111 19th Street, NW - Suite 1100  
+1615 L Street, NW, Suite 1100  
 Washington, DC 20036
 
 For further information, please contact us.
