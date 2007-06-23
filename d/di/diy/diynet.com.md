@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diynet.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214021258id_/http%3A//www1.diynet.com/diy/about_us/article/0%2C2019%2CDIY_13703_2291323%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diynet.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623062540id_/http%3A//www.diynetwork.com/diy/press/article/0%2C2019%2CDIY_13703_2291323%2C00.html) for the most accurate reproduction.*
 
 # About Us : Privacy Policy : DIY Network
 
