@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the webspawner.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205185145id_/http%3A//www.webspawner.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webspawner.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623175709id_/http%3A//www.webspawner.com/privacy.html) for the most accurate reproduction.*
 
-# WebSpawner.com Privacy Policy
-
-##  Privacy Statement
+# WebSpawner.com: Privacy Policy
 
 **Information Collection and Use**
 
@@ -50,7 +48,7 @@ From time-to-time our site requests information from users via surveys or contes
 
 **Tell-A-Friend**
 
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. [Webspawner.com] will automatically send the friend a one-time email inviting them to visit the site. [Webspawner.com] stores this information for the sole purpose of sending this one-time email. The friend may contact [Webspawner.com] at [](mailto:support@webspawner.com)[support@webspawner.com](mailto:support@webspawner.com) to request the removal of this information from their database. 
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. [Webspawner.com] will automatically send the friend a one-time email inviting them to visit the site. [Webspawner.com] stores this information for the sole purpose of sending this one-time email. The friend may contact [Webspawner.com] at [support@webspawner.com](mailto:support@webspawner.com) to request the removal of this information from their database. 
 
 **Security**
 
@@ -60,7 +58,7 @@ When our registration/order form asks users to enter sensitive information (such
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment. 
 
-If you have any questions about the security at our website, you can send an email to [](mailto:support@webspawner.com)[support@webspawner.com](mailto:support@webspawner.com) . 
+If you have any questions about the security at our website, you can send an email to [support@webspawner.com](mailto:support@webspawner.com) . 
 
 **Special Offers**
 
@@ -72,11 +70,11 @@ We also send the user site and service announcement updates. Members are not abl
 
 **Correction/Updating Personal Information:**
 
-If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done at the member information page or by emailing our Customer Support at [](mailto:support@webspawner.com)[support@webspawner.com](mailto:support@webspawner.com) .
+If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done at the member information page or by emailing our Customer Support at [support@webspawner.com](mailto:support@webspawner.com) .
 
 **Choice/Opt-out**
 
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe on a line by itself at the begginning of the body in the email or email us at [](mailto:support@webspawner.com)[support@webspawner.com](mailto:support@webspawner.com)
+Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe on a line by itself at the begginning of the body in the email or email us at [support@webspawner.com](mailto:support@webspawner.com)
 
 Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not. 
 
