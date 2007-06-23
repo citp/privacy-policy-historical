@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mychurch.org privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216202629id_/http%3A//www.mychurch.org/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mychurch.org privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623114927id_/http%3A//www.mychurch.org/info/privacy.php) for the most accurate reproduction.*
 
-# MyChurch.org | Privacy
+# MyChurch.org: Privacy
 
 **MyChurch.org does not spam or sell email addresses.**
 
@@ -38,4 +38,4 @@ From time to time we may make changes to our privacy policy If we make changes, 
 
 **Privacy Tips**
 
-Please be aware that whenever you voluntarily post public information WebLogs, Bulletin Boards, Classifieds or any other Public Forums that that information can be accessed by the public and can in turn be used by those people to send you unsolicited communications. Please report unsolicited communications to abuse@mychurch.org 
+Please be aware that whenever you voluntarily post public information WebLogs, Bulletin Boards, Sharing or any other Public Forums that that information can be accessed by the public and can in turn be used by those people to send you unsolicited communications. Please report unsolicited communications to abuse@mychurch.org 
