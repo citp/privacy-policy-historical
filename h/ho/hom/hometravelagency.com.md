@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hometravelagency.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212234939id_/http%3A//hometravelagency.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometravelagency.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623201356id_/http%3A//www.hometravelagency.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -88,9 +88,7 @@ Should you have other questions or concerns about these privacy policies, please
 | 
 
 The Intrepid Traveler  
-POB 531, Branford, CT 06405  
-(203) 488-5341  
-(203) 488-7677 fax  
-Copyright© 1999-2005. All rights reserved.  
+POB 531, Branford, CT 06405(203) 469-0214  
+Copyright© 1999-2007. All rights reserved.  
   
 ---|---
