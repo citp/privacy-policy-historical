@@ -1,149 +1,529 @@
-<!--The following is the downloaded HTML source of the kamus.net privacy policy that was archived on 2006-07-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060713230342id_/http%3A//kamus.net/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kamus.net privacy policy that was archived on 2007-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070623183025id_/http%3A//www.kamus.net/privacy.php) for the most accurate reproduction.-->
 
-<html><head>
-<title>Kamus.net by iIndo.com</title>
-<meta name="description" content="Kamus Online English - Indonesia - English">
-<meta name="keywords" content="kamus, kamus online, kamus indonesia, kamus indonesia inggris, kamus bahasa indonesia, indonesia-english, kamus.net, kemangnet.com, online dictionary">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta name="author" content="eProduct.com">
+<meta name="description" content="Kamus.net is the largest english-bahasa-english dictionary on the net.">
+<meta name="keywords" content="kamus, kamus.net, online dictionary, dictionary, toefl, ielts, english, bahasa, indonesia">
+<meta name="revisit-after" content="1 day">
+<meta name="robots" content="FOLLOW,INDEX">
+<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+<link rel="stylesheet" href="http://www.kamus.net/images/style.css" type="text/css">
+<title>Kamus.net</title>
 
-<link rel="stylesheet" href="stylesheets/global.css" type="text/css">
+
 <script language="javascript">
+function createRequestObject() 
+{
+	var req;
+       	if(window.XMLHttpRequest)
+	{
+        	req = new XMLHttpRequest();
+       	} 
+	else if(window.ActiveXObject) 
+	{
+          	req = new ActiveXObject("Microsoft.XMLHTTP");
+       	} 
+	else 
+	{
+          	alert('Problem creating the XMLHttpRequest object');
+       	}
+       	return req;
+}
 
+
+var http = createRequestObject();
+
+function sendRequest(theform) 
+{
+	var q = theform.q.value;
+	if (q != "")
+	{
+     	document.getElementById("searchResults").innerHTML = "<table border=0 width=100% height=100%><tr><td align=center valign=center><img src=images/loading.gif border=0><br>Loading</td></tr></table>";
+     	var w;
+     	if (theform.lang[0].checked)
+     	{ 
+		w="en";
+	}
+     	else
+     	{ 
+		w="id";
+	}
+
+     	var e;
+     	if (theform.modes[0].checked)
+     	{ 
+		e=0;
+	}
+	else if (theform.modes[1].checked)
+     	{  
+		e=1;
+	}
+	else if (theform.modes[2].checked)
+	{
+		e=2;
+	}
+	else
+	{
+		e=3;
+	}
+	
+       	http.open('get', '/include/result.php?q='+q+'&w='+w+'&e='+e);
+       	http.onreadystatechange = handleResponse;
+       	http.send(null);
+	}
+
+}
+
+function findWord(q,lang) 
+{
+	document.getElementById('q').value = q;
+     	document.getElementById("searchResults").innerHTML = "<table border=0 width=100% height=100%><tr><td align=center valign=center><img src=images/loading.gif border=0><br>Loading</td></tr></table>";
+     	if (lang == 1)
+     	{ 
+		w="en";
+	}
+     	else
+     	{ 
+		w="id";
+	}
+
+     	var e = 0;
+	
+       	http.open('get', '/include/result.php?q='+q+'&w='+w+'&e='+e);
+       	http.onreadystatechange = handleResponse;
+       	http.send(null);
+
+}
+
+function addWord(q,w) 
+{
+     	document.getElementById("searchResults").innerHTML = "<table border=0 width=100% height=100%><tr><td align=center valign=center><img src=images/loading.gif border=0><br>Loading</td></tr></table>";
+	
+       	http.open('get', '/include/notfound.php?q='+q+'&w='+w);
+       	http.onreadystatechange = handleResponse;
+       	http.send(null);
+
+}
+
+function handleResponse() 
+{
+
+	if(http.readyState == 4 && http.status == 200)
+	{
+          	var response = http.responseText;
+          	if(response.substr(0,1) != '.') 
+		{
+             		document.getElementById("searchResults").innerHTML = response;
+          	}  
+		else 
+		{
+             		document.getElementById("searchResults").innerHTML = "<p> error</p>";
+          	}
+       	}
+}
+
+
+function AddFavorite()
+{
+        window.external.AddFavorite(location.href, "Kamus.net by eProduct.com");
+}
+	
 function openWindow()
 {
-  popupWin = window.open('main3.php', 'remote', 'width=236,height=361, left=20,top=20')
-}
-function openWindow3()
-{
-  popupWin = window.open('http://www.learnenglishwell.com/main.php', 'remote', 'width=236,height=361, left=20,top=20')
+  popupWin = window.open('http://www.kamus.net/main.php', 'NewWindow', 'width=234,height=361, left=20,top=20')
 }
 
-function openWindow2()
-{
-  popupWin = window.open('main2.php', 'remote')
-}
+</script>
 
-function disableEnterKey() 
-{ 
-     if (window.event.keyCode == 13) window.event.keyCode = 0; 
-} 
 
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
 
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
+                <style type="text/css">
+<!--
+#social {width:100%; align:center;}
+#social ul {margin:2px; list-style: none;float:left;}
+#social li {margin:2px; list-style: none;float:left;width:85px;}
+#social img {padding:0 3px;}
 
-function MM_findObj(n, d) { //v4.0
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && document.getElementById) x=document.getElementById(n); return x;
-}
+*- Menu Tabs B--------------------------- */
 
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
+    #tabsB {
+      float:left;
+      width:100%;
+      background:#FFFFFF;
+      font-size:93%;
+      line-height:normal;
+      }
+    #tabsB ul {
+        margin:0;
+	float:right;
+        padding:0px 10px 0px 0px;
+        list-style:none;
+      }
+    #tabsB li {
+      display:inline;
+      margin:0;
+      padding:0;
+      }
+    #tabsB a {
+      float:left;
+      background:url("images/tableftB.gif") no-repeat left top;
+      margin:0;
+      padding:0 0 0 4px;
+      text-decoration:none;
+      }
+    #tabsB a span {
+      float:left;
+      display:block;
+      background:url("images/tabrightB.gif") no-repeat right top;
+      padding:1px 10px 1px 10px;
+      color:#8a1212;
+      font-weight:900;
+      }
+    /* Commented Backslash Hack hides rule from IE5-Mac \*/
+    #tabsB a span {float:none;}
+    /* End IE5-Mac hack */
+    #tabsB a:hover span {
+      color:#000;
+      }
+    #tabsB a:hover {
+      background-position:0% -42px;
+      }
+    #tabsB a:hover span {
+      background-position:100% -42px;
+      }
+
+        #tabsB #current a {
+                background-position:0% -42px;
+        }
+        #tabsB #current a span {
+                background-position:100% -42px;
+        }
+
+
+
+
+
+/* CSS Tabs */
+#button {
+        width: 12em;
+        border-right: 1px solid #000;
+        padding: 0 0 0 0;
+        margin-bottom: 1em;
+        font-family: Tahoma, Arial, sans-serif;
+                /*'Trebuchet MS', 'Lucida Grande', Verdana, Arial, sans-serif;*/
+        font-size : 10px;
+        background-color: #8a1212;
+        color: #fff;
+        }
+
+        #button ul {
+                list-style: none;
+                margin: 0;
+                padding: 0;
+                border: none;
+                }
+
+        #button li {
+                border-top: 1px solid #de9090;
+                margin: 0;
+                list-style: none;
+                list-style-image: none;
+                }
+
+        #button li a {
+                display: block;
+                padding: 5px 0px 5px 0.5em;
+                border-left: 10px solid #b71919;
+                border-right: 10px solid #b71919;
+                background-color: #8a1212;
+                color: #fff;
+                text-decoration: none;
+                width: 100%;
+                }
+
+        html>body #button li a {
+                width: auto;
+                }
+
+        #button li a:hover {
+                border-left: 10px solid #d11c1c;
+                border-right: 10px solid #d11c1c;
+                background-color: #c11a1a;
+                color: #fff;
+                }
+
+        #button li #active {
+                border-left: 10px solid #d11c1c;
+                border-right: 10px solid #d11c1c;
+                background-color: #c11a1a;
+                color: #fff;
+                }
+
+        /* Big box with list of options */
+        #ajax_listOfOptions{
+                position:absolute;      /* Never change this one */
+                width:498px;    /* Width of box */
+                overflow:auto;  /* Scrolling features */
+                border:1px solid #317082;       /* Dark green border */
+                background-color:#FFF;  /* White background color */
+                text-align:left;
+                font-size:0.9em;
+                z-index:100;
+        }
+        #ajax_listOfOptions div{        /* General rule for both .optionDiv and .optionDivSelected */
+                margin:1px;
+                padding:1px;
+                cursor:pointer;
+                font-size:0.9em;
+        }
+
+        #ajax_listOfOptions .optionDiv{ /* Div for each item in list */
+
+        }
+        #ajax_listOfOptions .optionDivSelected{ /* Selected item in the list */
+                background-color:#8a1212;
+                color:#FFF;
+        }
+        #ajax_listOfOptions_iframe{
+                background-color:#F00;
+                position:absolute;
+                z-index:5;
+        }
+
+        form{
+                display:inline;
+        }
+
+
+-->
+</style>
+<script type="text/javascript" src="include/js/ajax2.js"></script>
+<script type="text/javascript" src="include/js/ajax-dynamic-list.js"></script>
+
+</head>
+<body>
+        <table width="100%" background="http://www.kamus.net/images/back.gif" border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+          <td width="30%" valign="top" colspan="1">
+            <a href="http://www.kamus.net" title="Kamus.net: The most comprehensive Indonesian-English-Indonesian dictionary">
+            <img border="0" src="http://www.kamus.net/images/logo.gif" alt="Kamus.net Logo">
+            </a>
+          </td><td width="70%" valign="bottom" align="right">
+                        <div id="tabsB">
+                                <ul>
+                                        <!-- CSS Tabs -->
+<li><a href="http://www.kamus.net/"><span>Home</span></a></li>
+<li><a href="http://www.kamus.net/news.php"><span>News</span></a></li>
+<li><a href="http://www.kamus.net/report.php"><span>Report</span></a></li>
+<li><a href="http://www.kamus.net/contact.php"><span>Contact Us</span></a></li>
+
+                                </ul>
+                        </div>
+
+	  </td>
+        </tr>
+        </tbody></table>
+
+	<br>
+
+
+	
+        <table width="100%" background="images/back.gif" border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+          <td class="search_field" valign="top" align="center">
+               <form name="form" onsubmit="sendRequest(this); return false;">
+		   <table><tbody><tr><td>
+                        <table><tbody><tr><td>
+			<input type="text" name="q" id="q" class="search" onkeyup="ajax_showOptions(this,'getWord',this.form,10,event)">
+			</td><td>
+                        <input name="submitButton" id="submitButton" type="button" onclick="sendRequest(this.form);" value="Search" class="submit">
+			</td></tr>
+                	<tr><td colspan="2" align="center">
+			<input type="radio" name="lang" value="en" checked="">
+                	<label for="en_id">English - Indonesia</label>
+                	<input type="radio" name="lang" value="id">
+                	<label for="en_id">Indonesia - English</label>
+			</td></tr>
+			</tbody></table>
+		   </td><td>
+			<table align="left"><tbody><tr><td align="left">
+				<input type="radio" name="modes" value="0" checked="">
+	                	<label for="zero">Exact</label>
+			</td><td align="left">
+	                	<input type="radio" name="modes" value="2">
+        	        	<label for="two">Contains</label>
+			</td></tr><tr><td align="left">
+				<input type="radio" name="modes" value="1">
+        	        	<label for="one">Begins with</label>
+			</td><td align="left">
+	                	<input type="radio" name="modes" value="3">
+        	        	<label for="three">Ends with</label>
+			</td></tr></tbody></table>
+		   </td></tr></tbody></table>
+                </form>
+	  </td>
+        </tr>
+        </tbody></table>
+
+
+
+
+<table width="100%">
+<tbody><tr>
+<td width="300" valign="top">
+<div id="button">
+<div align="center">Navigation</div>
+<ul>
+<li><a href="http://www.kamus.net/help.php">Help</a></li>
+<li><a href="http://www.kamus.net/statistic.php">Statistic</a></li>
+<li><a href="http://www.kamus.net/wotd.php">Word of the Day</a></li>
+<li><a href="http://www.kamus.net/link.php">Link to Us</a></li>
+<li><a href="#" onclick="openWindow();">Launch Dashboard</a></li>
+</ul>
+</div>
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-7399033975419876";
+google_ad_width = 120;
+google_ad_height = 60;
+google_ad_format = "120x60_as_rimg";
+google_cpa_choice = "CAAQwLOkgwIaCEjO5OMYO7UfKMi84IEB";
+google_ad_channel = "9712357996";
 //-->
 </script>
-</head>
-<body bgcolor="#FFFFFF" text="#000000" link="#000000" vlink="#000000" alink="#000000" onload="MM_preloadImages('images/bn_01_on.gif','images/bn_02_on.gif','images/bn_03_on.gif','images/bn_04_on.gif')">
-<table width="102%" border="0" cellspacing="0" cellpadding="0" height="100%">
-  <tbody><tr>
-		
-    <td align="center" valign="middle" class="subtitle"> 
-      <table width="483" border="0" cellspacing="3" cellpadding="0" bgcolor="#333333">
-        <tbody><tr>
-          <td bgcolor="#FFFFFF"> 
-            <table width="480" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr> 
-                <td bgcolor="#FF3300"><img src="images/cov_header.gif" width="480" height="23"></td>
-              </tr>
-              <tr> 
-                <td><img src="images/cov_header2.gif" width="480" height="56"></td>
-              </tr>
-              <tr> 
-                <td><img src="images/h_privacy.gif" width="480" height="45"></td>
-              </tr>
-              <tr> 
-                <td align="right"> 
-                  <table width="450" border="0" cellspacing="0" cellpadding="6">
-                    <tbody><tr> 
-                      <td class="subtitle">Privacy Policy</td>
-                    </tr>
-                    <tr> 
-                      <td class="normal"> 
-                        <p>This privacy policy covers kamus.net's treatment of 
-                          personally identifiable information that we collect 
-                          when you are on our site, and when you use our services. 
-                          This policy also applies to kamus.net's treatment of 
-                          any personally identifiable information that our business 
-                          partners share with us. This policy does not apply the 
-                          practices of companies that we do not own or control, 
-                          or to people that we do not employ or manage.</p>
-                      </td>
-                    </tr>
-                    <tr> 
-                      <td class="subtitle">Information Collection and Use</td>
-                    </tr>
-                    <tr> 
-                      <td class="normal"> 
-                        <p>We automatically receive and record information on 
-                          our server logs from your browser including your IP 
-                          address, and the page you requested. </p>
-                        <p>We automatically collect every missing word that you 
-                          type to our database as our reference to complete database 
-                          content.</p>
-                        <p>We may use this information for three general purposes: 
-                          to customize the content you see, to fulfill your requests 
-                          for certain services and information.</p>
-                      </td>
-                    </tr>
-                    <tr> 
-                      <td class="subtitle">Cookies</td>
-                    </tr>
-                    <tr> 
-                      <td class="normal">We are not using any cookies on your 
-                        computer.</td>
-                    </tr>
-                    <tr> 
-                      <td align="center"><a href="index.php" class="subtitle">home</a></td>
-                    </tr>
-                  </tbody></table>
-                </td>
-              </tr>
-              <tr> 
-                <td><img src="images/blank.gif" width="47" height="25"></td>
-              </tr>
-              <tr> 
-                <td> 
-                  <table width="480" border="0" cellspacing="0" cellpadding="0">
-                    <tbody><tr> 
-			                      <td width="93"><a href="linktous.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image7','','images/bn_01_on.gif',1)"><img name="Image7" border="0" src="images/bn_01_off.gif" width="93" height="22"></a></td>
-                      <td width="78"><a href="adinfo.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image8','','images/bn_02_on.gif',1)"><img name="Image8" border="0" src="images/bn_02_off.gif" width="78" height="22"></a></td>
-                      <td width="172"><a href="help.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image9','','images/bn_03_on.gif',1)"><img name="Image9" border="0" src="images/bn_03_off.gif" width="172" height="22"></a></td>
-                      <td width="137"><a href="about.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image10','','images/bn_04_on.gif',1)"><img name="Image10" border="0" src="images/bn_04_off.gif" width="137" height="22"></a></td>
-                    
-                    </tr>
-                  </tbody></table>
-                </td>
-              </tr>
-            </tbody></table>
-          </td>
-        </tr>
-      </tbody></table>
-      <p><br>
-      </p>
-      
-    </td>
-	</tr>
-</tbody></table>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+<br>
+<script type="text/javascript"><!--
+google_ad_client = "pub-7399033975419876";
+google_ad_width = 120;
+google_ad_height = 60;
+google_ad_format = "120x60_as_rimg";
+google_cpa_choice = "CAAQ9eKXhAIaCEiJ9P4cPlJYKI-293M";
+google_ad_channel = "7693109231";
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</td>
+<td width="70%" valign="top">
+<div id="searchResults">
+<h2>Privacy Policy</h2>
+
+<h4>Personal Information</h4>
+<p>
+We do not collect any personal information from a visitor to our sites unless that visitor explicitly and 
+intentionally provides it. Under no circumstances do we collect any personal data revealing racial or ethnic origin, 
+political opinions, religious or philosophical beliefs, trade union membership, health, or sex life. If you are 
+simply browsing our sites, we do not gather any personal information about you.
+
+</p><h4>Subscriptions</h4>
+<p>
+If you choose to subscribe to our premium products or services, we will request certain information from you such as 
+your name, address, telephone number, e-mail address, and credit card information.
+
+</p><h4>Statistical Information about your Visit</h4>
+<p>
+When you visit our sites, our computers may automatically collect statistics about your visit. This information does 
+not identify you personally, but rather about your visit to our sites. We may monitor statistics such as how many 
+people visit our sites, the user's IP address, which pages people visit on our sites, from which domains our visitors 
+reach our sites, and which browsers people use. We use these statistics about your visit for aggregation purposes 
+only. These statistics are used to help us improve the performance of our Web sites.
+
+</p><h4>Our Commitment to Children's Privacy</h4>
+<p>
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain 
+information at our website from those we actually know are under 13, and no part of our website is structured to 
+attract anyone under 13.
+
+</p><h4>Use of Cookies</h4>
+<p>
+A "cookie" is a piece of information that our web sites send to your browser, which then is stored on your system. A 
+user can use our web sites without cookies; however, our systems need cookies for premium content in order to 
+identify you as a premium subscriber. You may disable or delete the cookies at any time. Many users prefer to use 
+cookies in order to help them navigate a Web site as seamlessly as possible. You should be aware that cookies contain 
+no more information than you volunteer, and they are not able to "invade" your hard drive and return to the sender 
+any personal or other information from your computer.
+
+</p><p>To find more information about cookies: 
+
+</p><p>If you are using Microsoft Internet Explorer® as your browser, go to the Microsoft Web site at 
+http://www.microsoft.com/info/cookies.htm?RLD=291 
+If you are using Netscape Navigator® as your browser, go to the Netscape Web site at 
+http://home.netscape.com/security/basics/privacy.html#cookies
+
+</p><h4>Disclosure by Law and Protection of eProduct</h4>
+<p>If we are required by law to disclose certain information to local, state, federal, national or international law 
+enforcement authorities, we will do so. We will also disclose information to third parties as necessary in order to 
+comply with applicable laws and regulations. In addition, Farlex may share information in order to investigate, 
+prevent, or take action regarding illegal activities or suspected fraud, or enforce or apply our agreements.
+
+</p><h4>Our Security Procedures</h4>
+<p>
+We consider the protection of all personally identifiable information we receive from our Web site visitors and 
+subscribers as critical to our corporate mission. Please be assured that we have security measures in place to 
+protect against the loss and misuse of any information we receive from you. As with any transmission over the 
+Internet, however, there is always some element of risk involved in sending personal information. In order to try to 
+minimize this risk, we encrypt all information that you submit in ordering of our premium products using the Secure 
+Sockets Layer (SSL) protocol. We also have partnered with Authorize.net, one of the most reputable and experienced 
+credit card payment companies in the World to handle our users' online transactions.
+
+</p><p>Facilitating the Support, Renewal, and Purchase of our Products and Services.
+We may use the information you submit to contact you to discuss the support, renewal, and purchase of our premium 
+products and services. You may receive a communication directly from one of our customer care representatives. Please 
+be assured that we will keep the communications to a minimum and you will have an option to block any communication 
+from us if your subscriptions are cancelled.
+
+</p><p>Please be aware that we reserve the right to notify our subscribers of any information that affects the status of 
+current subscriptions. You may not opt out of receiving information regarding the expiration and renewal of the 
+subscriptions, account balances or the payment history and status.
+
+</p><h4>Changes to this Privacy Statement</h4>
+<p>
+If a material change is made to this Privacy Statement and/or the way we use our customers' personally identifiable 
+information, a prominent notice of the nature of the change will be posted on this Privacy Statement and the current 
+subscribers will be notified as soon as possible.
+
+</p></div>
+</td>
+<td width="160" valign="top">
+</td><td width="300" valign="top" align="left">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7399033975419876";
+google_ad_width = 160;
+google_ad_height = 600;
+google_ad_format = "160x600_as";
+google_ad_type = "text_image";
+//2007-01-19: kamus_right
+google_ad_channel = "3310178940";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "CCCCCC";
+google_color_text = "CCCCCC";
+google_color_url = "CCCCCC";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</td>
+
+
+</tr></tbody></table>
+<br>
+<div class="footer">
+ 	<p><a href="contact.php">Contact</a> | <a href="disclaimer.php">Disclaimer</a> | <a href="privacy.php">Privacy</a> 
+	<br>
+	© Copyright 1999-2007 Kamus.net, <a href="http://www.eproduct.com">eProduct LLC</a></p>
+</div>
+<script type="text/javascript">
+var dc_UnitID = 14;
+var dc_PublisherID = 10700;
+var dc_AdLinkColor = 'blue';
+var dc_adprod='ADL';
+</script>
+<script type="text/javascript" src="http://kona.kontera.com/javascript/lib/KonaLibInline.js"></script>
+
 
 
 </body></html>
