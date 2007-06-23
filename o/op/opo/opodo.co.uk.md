@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opodo.co.uk privacy policy that was archived on 2006-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060930045258id_/http%3A//www.opodo.co.uk/opodo/StrutsServlet/DisplaySiteInfoPage%3FpageName%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opodo.co.uk privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623075742id_/http%3A//opodo.co.uk/opodo/StrutsServlet/DisplaySiteInfoPage%3FpageName%3Dprivacy) for the most accurate reproduction.*
 
 # Opodo
 
@@ -46,7 +46,7 @@ We disclose your data to our partners who will only use your data for the purpos
 
 We will not disclose your data to any other third parties except where it is necessary for the purposes of fulfilling any bookings, purchases or requests that you make on the website, through our customer service team, for the purposes or credit checks or fraud prevention or as otherwise described in this policy. We may be required to disclose your information if required by any applicable law or regulation. We may also disclose your data to reputable third parties and professional advisers acting on our behalf and who are obliged to keep that data confidential.
 
-All airlines are now obliged by law to disclose the flight and reservation data of all passengers flying through UK, Australian or United States airspace to the relevant government agency prior to arrival. Data is only used for security purposes.
+All airlines are required to collect Advance Passenger Information from passengers before travel to or from the USA and certain other countries. For this purpose, your data may be disclosed to airlines who may onward disclose it to foreign authorities.
 
 **Transfer of information**
 
