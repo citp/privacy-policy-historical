@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dabcc.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019155320id_/http%3A//dabcc.com/showcontent.aspx%3Fid%3D201) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dabcc.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623045211id_/http%3A//www.dabcc.com/showcontent.aspx%3Fid%3D201) for the most accurate reproduction.*
 
 # Corporate Information
 
-Thursday, October 19, 2006
+Saturday, June 23, 2007
 
 DABCC Inc. Privacy Statement
 
@@ -52,5 +52,3 @@ If you believe for any reason that DABCC has not followed these principles, plea
 
   
 
-
-* * *
