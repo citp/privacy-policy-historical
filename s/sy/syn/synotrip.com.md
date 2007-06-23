@@ -1,8 +1,15 @@
-> *The following text is extracted and transformed from the synotrip.com privacy policy that was archived on 2006-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061203022214id_/http%3A//www.synotrip.com/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synotrip.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623053627id_/http%3A//www.synotrip.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # About_Us - privacy policy | Synotrip.com
 
-| 
+Guide
+
+﻿  \- [The Synotrip Team](http://www.synotrip.com/about-us/the-synotrip-team/)  
+  \- [Join Synotrip](http://www.synotrip.com/about-us/join-synotrip/)  
+  \- [Our Partners](http://www.synotrip.com/about-us/partners/)  
+  \- [Advertise on Synotrip](http://www.synotrip.com/about-us/advertise/)  
+  \- [Link to Us](http://www.synotrip.com/about-us/link-to-us/)  
+  \- [Contact Us](http://www.synotrip.com/about-us/contact-us/) | 
 
 | 
 
