@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the spamfighter.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213220229id_/http%3A//www.spamfighter.com/Info_Privacy_Statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spamfighter.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623021536id_/http%3A//www.spamfighter.com/Info_Privacy_Statement.asp) for the most accurate reproduction.*
 
 # SPAMfighter Privacy Statement - SPAMfighter
 
 SPAMfighter ApS has created this privacy statement in order to demonstrate our sincere commitment to privacy. The following statement discloses the information gathering and dissemination practices for this web site. 
 
-Logged Information  
+**Logged Information**  
 We log your IP address to help diagnose problems with our server and to administer our web site. This information is primarily used for general traffic tracking and security. 
 
 **Cookies**  
@@ -23,5 +23,5 @@ Your email address will NEVER be shared with other companies!
 **External Links**  
 This site contains links to other sites. SPAMfighter ApS is not responsible for the privacy practices or the content of such web sites. 
 
-© SPAMfighter 2003-2006  
+© SPAMfighter 2003-2007  
 All rights reserved. 
