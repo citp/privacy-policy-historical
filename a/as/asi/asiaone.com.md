@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiaone.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210114556id_/http%3A//www.asiaone.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiaone.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623084545id_/http%3A//www.asiaone.com/html/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -31,7 +31,7 @@ Please read carefully our policy on data collection and use of the data collecte
 
 **_Can you opt out?_**
 
-Whenever we send you any information, we will include instructions on how to unsubscribe and a link to do so. If you do not wish to receive further information of a similar nature, you may [unsubscribe via this link](http://persia2.asia1.com.sg/NASApp/RegAuth2/en/COUpdateAcct.jsp?lang=en) or [Email us](http://newslink.asia1.com.sg/contact/index.html). If you do not wish to receive any information of any kind from us at all, you may go to your "[My Account](http://persia2.asia1.com.sg/NASApp/RegAuth2/en/COUpdateAcct.jsp?lang=en)" page and check the "opt out" box or [email us](http://newslink.asia1.com.sg/contact/index.html). 
+Whenever we send you any information, we will include instructions on how to unsubscribe and a link to do so. If you do not wish to receive further information of a similar nature, you may [unsubscribe via this link](http://sphreg.asiaone.com/RegAuth2/enMainMenu.html) or [Email us](http://newslink.asia1.com.sg/contact/index.html). If you do not wish to receive any information of any kind from us at all, you may go to your "[My Account](http://sphreg.asiaone.com/RegAuth2/enMainMenu.html)" page and check the "opt out" box or [email us](http://newslink.asia1.com.sg/contact/index.html). 
 
   
 _**Will your personal information be shared with anyone?**_
@@ -44,7 +44,7 @@ However, in the event that you participate in contests or other promotional prog
   
 _**Can you change and update your particulars?**_
 
-If you wish to correct, change or update your particulars, all you have to do is to go to your "[My Account](http://persia2.asia1.com.sg/NASApp/RegAuth2/en/COUpdateAcct.jsp?lang=en)" page to do so. You will need to have your user id and password.
+If you wish to correct, change or update your particulars, all you have to do is to go to your "[My Account](http://sphreg.asiaone.com/RegAuth2/enMainMenu.html)" page to do so. You will need to have your user id and password.
 
   
 _**How your data is protected**_
