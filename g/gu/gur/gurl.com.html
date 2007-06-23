@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gurl.com privacy policy that was archived on 2006-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061214202406id_/http%3A//www.gurl.com/about/privacypolicy/pages/0%2C%2C621914%2C00.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gurl.com privacy policy that was archived on 2007-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070624005804id_/http%3A//www.gurl.com/about/privacypolicy/pages/0%2C%2C621914%2C00.html) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -51,6 +51,17 @@ var cimsUid = '';
 <!--DART params(1|605712|/gurl/about/privacypolicy/pages:621914)-->
 <script type="text/javascript" language="javascript">
 //<![CDATA[
+function getQueryParamValue(param) { 
+var q = document.location.search; 
+var detectIndex = q.indexOf(param); 
+var endIndex = (q.indexOf("&", detectIndex) != -1) ? q.indexOf("&", detectIndex) : q.length; 
+if(q.length > 1 && detectIndex != -1) { 
+		return unescape(q.substring(q.indexOf("=", detectIndex)+1, endIndex)); 
+	} else { 
+		return ""; 
+	} 
+}
+
 
 document.checkedPBA = (location.search == '')? true:false
 if (!document.iv_arrival_pba) document.iv_arrival_pba = ''
@@ -59,6 +70,7 @@ if (!document.dartTData) document.dartTData = ''
 if (!document.dartTid) document.dartTid = ''
 if (!document.catid) document.catid = ''
 if (!document.ivrtt) document.ivrtt = '';
+
 
 if (!document.ivNPA) {
     qs = location.search.substring(1).split('&');
@@ -69,16 +81,22 @@ if (!document.ivNPA) {
     }
 }
 
+
 if (!document.checkedPBA) {
     for (i = 0; i < qs.length; i++) {
         pos = qs[i].indexOf('=');
         if (qs[i].substring(0, pos) == 'pba') { document.iv_arrival_pba = unescape(qs[i].substring(pos+1)+';!category=nopopup;!category=nopopunder;'); document.checkedPBA = 1; break; }
     }
 }
-document.write('<scr'+'ipt language=javascript1.1 src=http://iv.doubleclick.net/adj/web.ivillage/gurl_gurlabout;!category=gurl;chan=gurl;sect=gurlabout;'+document.iv_arrival_pba+document.dartFTT+document.dartTData+document.catid+document.dartTid+document.ivrtt+'sz=468x60;pos=1;tile=1;dcopt=ist;ord=240520?></scr'+'ipt>')
+	var suppArrLyr = getQueryParamValue('suppArrLyr');
+	if (suppArrLyr) {
+		document.write('<scr'+'ipt language=javascript1.1 src=http://iv.doubleclick.net/adj/web.ivillage/gurl_gurlabout;!category=gurl;chan=gurl;sect=gurlabout;'+document.iv_arrival_pba+document.dartFTT+document.dartTData+document.catid+document.dartTid+document.ivrtt+'sz=468x60;pos=1;tile=1;ord=580300?></scr'+'ipt>')
+	} else {
+		document.write('<scr'+'ipt language=javascript1.1 src=http://iv.doubleclick.net/adj/web.ivillage/gurl_gurlabout;!category=gurl;chan=gurl;sect=gurlabout;'+document.iv_arrival_pba+document.dartFTT+document.dartTData+document.catid+document.dartTid+document.ivrtt+'sz=468x60;pos=1;tile=1;dcopt=ist;ord=580300?></scr'+'ipt>')
+	}
 //]]>
-</script><script language="javascript1.1" src="http://iv.doubleclick.net/adj/web.ivillage/gurl_gurlabout;!category=gurl;chan=gurl;sect=gurlabout;sz=468x60;pos=1;tile=1;dcopt=ist;ord=240520?"></script>
-<noscript><a href="http://iv.doubleclick.net/jump/web.ivillage/gurl_gurlabout;!category=gurl;chan=gurl;sect=gurlabout;sz=468x60;pos=1;tile=1;dcopt=ist;ord=240520?"><img src="http://iv.doubleclick.net/ad/web.ivillage/gurl_gurlabout;!category=gurl;chan=gurl;sect=gurlabout;sz=468x60;pos=1;tile=1;dcopt=ist;ord=240520?" border="0" width="468" height="60" alt="Click Here!" /></a></noscript><!-- End DART Tag -->
+</script><script language="javascript1.1" src="http://iv.doubleclick.net/adj/web.ivillage/gurl_gurlabout;!category=gurl;chan=gurl;sect=gurlabout;sz=468x60;pos=1;tile=1;dcopt=ist;ord=580300?"></script>
+<noscript><a href="http://iv.doubleclick.net/jump/web.ivillage/gurl_gurlabout;!category=gurl;chan=gurl;sect=gurlabout;sz=468x60;pos=1;tile=1;dcopt=ist;ord=580300?"><img src="http://iv.doubleclick.net/ad/web.ivillage/gurl_gurlabout;!category=gurl;chan=gurl;sect=gurlabout;sz=468x60;pos=1;tile=1;dcopt=ist;ord=580300?" border="0" width="468" height="60" alt="Click Here!" /></a></noscript><!-- End DART Tag -->
 </td>
 </tr>
 </tbody></table>
@@ -154,7 +172,7 @@ var g_ImgCollapsed = "http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/gurl/
 		<td>&nbsp;</td>
 		<td><img src="/i/t.gif" width="306" height="1" alt=""></td>
 		<td width="32">
-		<script type="text/javascript" language="javaScript">displayLogTextHeader();</script><a href="https://web.archive.org/web/20070206162747/https://auth.gurl.com/login/login?s=gurl&amp;dt=rurl&amp;dd=https%3A//web.archive.org/web/20061214202406id_/http%253A//www.gurl.com/about/privacypolicy/pages/0%252C%252C621914%252C00.html" '="" class="shop">log in</a>
+		<script type="text/javascript" language="javaScript">displayLogTextHeader();</script><a href="https://web.archive.org/web/20070206162747/https://auth.gurl.com/login/login?s=gurl&amp;dt=rurl&amp;dd=https%3A//web.archive.org/web/20070624005804id_/http%253A//www.gurl.com/about/privacypolicy/pages/0%252C%252C621914%252C00.html" '="" class="shop">log in</a>
 		</td>
 		<td width="9"><span class="line">&nbsp;|</span></td>
 		<td width="50"><a href="https://auth.gurl.com/registration/register" class="shop">join now</a></td>
@@ -840,7 +858,7 @@ function replace(string,text,by) {
 			//<![CDATA[
 			displayAccountSettingLink();
 			//]]>
-			</script><a href="https://auth.gurl.com/login/login?s=gurl&amp;dt=rurl&amp;dd=https://auth.gurl.com/registration/register/update&amp;d=https%3A//web.archive.org/web/20061214202406id_/http%253A//www.gurl.com/about/privacypolicy/pages/0%252C%252C621914%252C00.html" class="bNav">account settings</a><img src="/i/t.gif" width="1" height="5" border="0" alt="/"><br>
+			</script><a href="https://auth.gurl.com/login/login?s=gurl&amp;dt=rurl&amp;dd=https://auth.gurl.com/registration/register/update&amp;d=https%3A//web.archive.org/web/20070624005804id_/http%253A//www.gurl.com/about/privacypolicy/pages/0%252C%252C621914%252C00.html" class="bNav">account settings</a><img src="/i/t.gif" width="1" height="5" border="0" alt="/"><br>
 
 			<a href="/connect/boards/pages/0,,621992,00.html" class="bNav">shout out boards</a><img src="/i/t.gif" width="1" height="5" border="0" alt=""><br>
 			<a href="https://auth.gurl.com/optin/agecheck" class="bNav">gURL newsletter</a><img src="/i/t.gif" width="1" height="5" border="0" alt=""><br>
@@ -848,7 +866,7 @@ function replace(string,text,by) {
 			//<![CDATA[
             displayLogTextFooter();
 			//]]>
-			</script><a href="https://web.archive.org/web/20070206162747/https://auth.gurl.com/login/login?s=gurl&amp;dt=rurl&amp;dd=https%3A//web.archive.org/web/20061214202406id_/http%253A//www.gurl.com/about/privacypolicy/pages/0%252C%252C621914%252C00.html" class="bNav">log in</a>
+			</script><a href="https://web.archive.org/web/20070206162747/https://auth.gurl.com/login/login?s=gurl&amp;dt=rurl&amp;dd=https%3A//web.archive.org/web/20070624005804id_/http%253A//www.gurl.com/about/privacypolicy/pages/0%252C%252C621914%252C00.html" class="bNav">log in</a>
 			<br><img src="/i/t.gif" width="1" height="10" border="0" alt=""><br></td>
 			<!--EXplore gURL by topic COLUMN 1-->
 			<td valign="top"><a href="/topics/beingyourself/0,,,00.html" class="bNav">being yourself</a><img src="/i/t.gif" width="1" height="5" border="0" alt=""><br>
@@ -890,6 +908,17 @@ function replace(string,text,by) {
 <!--DART params(12|605712|/gurl/about/privacypolicy/pages:621914)-->
 <script type="text/javascript" language="javascript">
 //<![CDATA[
+function getQueryParamValue(param) { 
+var q = document.location.search; 
+var detectIndex = q.indexOf(param); 
+var endIndex = (q.indexOf("&", detectIndex) != -1) ? q.indexOf("&", detectIndex) : q.length; 
+if(q.length > 1 && detectIndex != -1) { 
+		return unescape(q.substring(q.indexOf("=", detectIndex)+1, endIndex)); 
+	} else { 
+		return ""; 
+	} 
+}
+
 
 document.checkedPBA = (location.search == '')? true:false
 if (!document.iv_arrival_pba) document.iv_arrival_pba = ''
@@ -898,6 +927,7 @@ if (!document.dartTData) document.dartTData = ''
 if (!document.dartTid) document.dartTid = ''
 if (!document.catid) document.catid = ''
 if (!document.ivrtt) document.ivrtt = '';
+
 
 if (!document.ivNPA) {
     qs = location.search.substring(1).split('&');
@@ -908,16 +938,22 @@ if (!document.ivNPA) {
     }
 }
 
+
 if (!document.checkedPBA) {
     for (i = 0; i < qs.length; i++) {
         pos = qs[i].indexOf('=');
         if (qs[i].substring(0, pos) == 'pba') { document.iv_arrival_pba = unescape(qs[i].substring(pos+1)+';!category=nopopup;!category=nopopunder;'); document.checkedPBA = 1; break; }
     }
 }
-document.write('<scr'+'ipt language=javascript1.1 src=http://iv.doubleclick.net/adj/web3.ivillage/gurl_gurlabout;!category=gurl;chan=gurl;sect=gurlabout;'+document.iv_arrival_pba+document.dartFTT+document.dartTData+document.catid+document.dartTid+document.ivrtt+'sz=120x600;pos=12;tile=12;ord=240520?></scr'+'ipt>')
+	var suppArrLyr = getQueryParamValue('suppArrLyr');
+	if (suppArrLyr) {
+		document.write('<scr'+'ipt language=javascript1.1 src=http://iv.doubleclick.net/adj/web3.ivillage/gurl_gurlabout;!category=gurl;chan=gurl;sect=gurlabout;'+document.iv_arrival_pba+document.dartFTT+document.dartTData+document.catid+document.dartTid+document.ivrtt+'sz=120x600;pos=12;tile=12;ord=580300?></scr'+'ipt>')
+	} else {
+		document.write('<scr'+'ipt language=javascript1.1 src=http://iv.doubleclick.net/adj/web3.ivillage/gurl_gurlabout;!category=gurl;chan=gurl;sect=gurlabout;'+document.iv_arrival_pba+document.dartFTT+document.dartTData+document.catid+document.dartTid+document.ivrtt+'sz=120x600;pos=12;tile=12;ord=580300?></scr'+'ipt>')
+	}
 //]]>
-</script><script language="javascript1.1" src="http://iv.doubleclick.net/adj/web3.ivillage/gurl_gurlabout;!category=gurl;chan=gurl;sect=gurlabout;sz=120x600;pos=12;tile=12;ord=240520?"></script>
-<noscript><a href="http://iv.doubleclick.net/jump/web3.ivillage/gurl_gurlabout;!category=gurl;chan=gurl;sect=gurlabout;sz=120x600;pos=12;tile=12;ord=240520?"><img src="http://iv.doubleclick.net/ad/web3.ivillage/gurl_gurlabout;!category=gurl;chan=gurl;sect=gurlabout;sz=120x600;pos=12;tile=12;ord=240520?" border="0" width="120" height="600" alt="Click Here!" /></a></noscript><!-- End DART Tag -->
+</script><script language="javascript1.1" src="http://iv.doubleclick.net/adj/web3.ivillage/gurl_gurlabout;!category=gurl;chan=gurl;sect=gurlabout;sz=120x600;pos=12;tile=12;ord=580300?"></script>
+<noscript><a href="http://iv.doubleclick.net/jump/web3.ivillage/gurl_gurlabout;!category=gurl;chan=gurl;sect=gurlabout;sz=120x600;pos=12;tile=12;ord=580300?"><img src="http://iv.doubleclick.net/ad/web3.ivillage/gurl_gurlabout;!category=gurl;chan=gurl;sect=gurlabout;sz=120x600;pos=12;tile=12;ord=580300?" border="0" width="120" height="600" alt="Click Here!" /></a></noscript><!-- End DART Tag -->
 <br>
         <script type="text/javascript" language="javascript">
     
@@ -977,7 +1013,7 @@ document.write('<scr'+'ipt language=javascript1.1 src=http://iv.doubleclick.net/
 A.black {font-family:arial; font-size:8pt; color:#009999; text-decoration: underline; font-weight:normal;}
 A.whitel {font-family:arial; font-size:8pt; color:#FFFFFF; text-decoration: underline; font-weight:normal;}
 </style>
-<table width="336" border="0" cellpadding="0" cellspacing="0">
+<a href="http://mall.gurl.com/"><img src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/gurl/nav/side/gurlmall300x250.gif" border="0" alt="gURLmall"></a><a href="http://www.gurl.com/seasonal/summer/0,,639371,00.html/"><img src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/gurl/nav/side/sidebar_special_summer.gif" border="0" alt="summer"></a><table width="336" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr>
 <form method="get" action="https://auth.gurl.com/optin/agecheck" onsubmit="return validateNews(this)"></form>
 <td rowspan="2"><a href="https://auth.gurl.com/optin/agecheck"><img src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/gurl/nav/side/sidebar_newsletter_signup_0_2.gif" width="96" height="118" alt="" border="0"></a></td>
@@ -992,13 +1028,15 @@ A.whitel {font-family:arial; font-size:8pt; color:#FFFFFF; text-decoration: unde
 </tr>
 <tr>
 <td colspan="2"><img src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/gurl/nav/side/side_nl_bot.gif" width="336" height="8" border="0" alt=""></td>
-</tr>
-</tbody></table>
-<table width="336" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
-<tbody><tr><td bgcolor="#000000"><img src="http://i.ivillage.com/i/t.gif" width="5" height="10" border="0" alt=""></td></tr>
-<tr><td><a href="http://www.gurl.com/seasonal/holiday/0,,653146,00.html"><img src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/gurl/nav/side/sidebar_special_holiday.gif" border="0" alt="Holiday"></a></td></tr>
+</tr><tr><td bgcolor="#000000"><img src="http://i.ivillage.com/i/t.gif" width="5" height="10" border="0" alt=""></td></tr>
+
 <tr><td bgcolor="#000000"><img src="http://i.ivillage.com/i/t.gif" width="5" height="10" border="0" alt=""></td></tr>
-</tbody></table><br>
+
+<tr><td bgcolor="#000000"><img src="http://i.ivillage.com/i/t.gif" width="5" height="10" border="0" alt=""></td></tr>
+</tbody></table>
+<br>
+
+
 
 
 
@@ -1006,21 +1044,21 @@ A.whitel {font-family:arial; font-size:8pt; color:#FFFFFF; text-decoration: unde
 <!-- Contextual Links -->
 
 
-<script language="javascript" type="text/javascript" src="http://xml.ivillage.overture.com/d/search/p/standard/jsflat/tracking/?Keywords=FPLinkSpot&amp;Partner=ivillage_gurl_tracking&amp;cb=240520"></script>
+<script language="javascript" type="text/javascript" src="http://xml.ivillage.overture.com/d/search/p/standard/jsflat/tracking/?Keywords=FPLinkSpot&amp;Partner=ivillage_gurl_tracking&amp;cb=580300"></script>
 
 <!-- Should only appear of hotspots is programmed to appear -->
 <!-- <script language="javascript" type="text/javascript" src=" + iv_overtureSourceHSTrack + "></script>  -->
 
 <script language="javascript" type="text/javascript">
 //<![CDATA[
-var iv_overtureSrcCTA =  "http://cm.ivillage.overture.com/js_flat_1_0/?config=3697471804&ctxtId=about&source=ivillage_gurl_us_about_cpm_ctxt&type=about&maxCount=3&cb=240520";
-var iv_overtureSrcHS = "http://cmls.overture.com/ls_js_1_0/?config=3697471804&source=ivillage_gurl_us_np_hs-search&linkspotId=about&NGrp=1&NKw=10";
+var iv_overtureSrcCTA =  "http://cm.ivillage.overture.com/js_flat_1_0/?config=3697471804&ctxtId=about&source=ivillage_gurl_us_about_cpm_ctxt&type=about&maxCount=3&cb=580300";
+var iv_overtureSrcHS = "http://cmls.overture.com/ls_js_1_0/?config=3697471804&source=ivillage_gurl_us_np_hs-search&linkspotId=gurl&NGrp=1&NKw=10";
 
 
 document.write("<scr"+"ipt language=\"javascript\" type=\"text/javascript\" src=\"" + iv_overtureSrcCTA + "\"></scr" + "ipt>");
 document.write("<scr"+"ipt language=\"javascript\" type=\"text/javascript\" src=\"" + iv_overtureSrcHS + "\"></scr" + "ipt>");
 //]]>
-</script><script language="javascript" type="text/javascript" src="http://cm.ivillage.overture.com/js_flat_1_0/?config=3697471804&amp;ctxtId=about&amp;source=ivillage_gurl_us_about_cpm_ctxt&amp;type=about&amp;maxCount=3&amp;cb=240520"></script><script language="javascript" type="text/javascript" src="http://cmls.overture.com/ls_js_1_0/?config=3697471804&amp;source=ivillage_gurl_us_np_hs-search&amp;linkspotId=about&amp;NGrp=1&amp;NKw=10"></script>
+</script><script language="javascript" type="text/javascript" src="http://cm.ivillage.overture.com/js_flat_1_0/?config=3697471804&amp;ctxtId=about&amp;source=ivillage_gurl_us_about_cpm_ctxt&amp;type=about&amp;maxCount=3&amp;cb=580300"></script><script language="javascript" type="text/javascript" src="http://cmls.overture.com/ls_js_1_0/?config=3697471804&amp;source=ivillage_gurl_us_np_hs-search&amp;linkspotId=gurl&amp;NGrp=1&amp;NKw=10"></script>
 
 
 <!--
@@ -1070,7 +1108,7 @@ if (typeof zSr != "undefined" && zSr.length > 6) {
 <table width="565" cellspacing="0" cellpadding="1" border="0" bgcolor="#666666">
 <tbody><tr>
 	<!--ivil copyright-->
-	<td align="center" bgcolor="#000000" valign="top"><img src="/i/t.gif" width="1" height="10" border="0" alt=""><br><span class="copy">© iVillage Inc. 1995-2005.  All rights reserved.</span></td>
+	<td align="center" bgcolor="#000000" valign="top"><img src="/i/t.gif" width="1" height="10" border="0" alt=""><br><span class="copy">© iVillage Inc. 1995-2007.  All rights reserved.</span></td>
 </tr>
 </tbody></table></td>
 </tr>
