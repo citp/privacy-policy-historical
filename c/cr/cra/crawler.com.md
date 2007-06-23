@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the crawler.com privacy policy that was archived on 2006-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060901154234id_/http%3A//www.crawler.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crawler.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623210841id_/http%3A//www.crawler.com/privacy_policy.aspx) for the most accurate reproduction.*
 
-# Crawler.com - Games, Screensavers, Wallpapers, eCards and more! - Privacy Policy
+# Crawler.com - Privacy Policy
 
 PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY USING ANY OF THE SERVICES, YOU REPRESENT THAT YOU HAVE READ AND UNDERSTAND THE AGREEMENT, WHICH INCLUDES THIS PRIVACY POLICY, AND YOU AGREE TO BE BOUND BY ALL ITS TERMS. TERMS NOT DEFINED IN THIS PRIVACY POLICY HAVE THE MEANING DESCRIBED IN THE TERMS OF USE.
 
-**The Privacy Policy will address the following points:**
+ **The Privacy Policy will address the following points:**
 
   * Information Collection
   * Personally Identifiable Information
