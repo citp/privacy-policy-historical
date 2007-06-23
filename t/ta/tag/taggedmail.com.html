@@ -1,17 +1,27 @@
-<!--The following is the downloaded HTML source of the taggedmail.com privacy policy that was archived on 2006-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060620075640id_/http%3A//www.tagged.com/terms_of_service.html%3Fpriv%3Dy%23privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the taggedmail.com privacy policy that was archived on 2007-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070623231611id_/http%3A//www.tagged.com/terms_of_service.html%3Fpriv%3Dy%23privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 <title>Terms of Service</title>
+        
 <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
-<link rel="stylesheet" type="text/css" href="http://static.tagged.com/mainTemplateStyles.css" title="default">
-<link rel="alternate stylesheet" type="text/css" href="http://static.tagged.com/mainTemplateStyles_alt.css" title="alt">
-<link rel="alternate stylesheet" type="text/css" href="http://static.tagged.com/mainTemplateStyles_alt2.css" title="alt2">
-<link rel="alternate stylesheet" type="text/css" href="http://static.tagged.com/mainTemplateStyles_alt3.css" title="alt3">
+<!-- customization-has to be first in line -->
+<link rel="stylesheet" type="text/css" href="http://www.tagged.com/customization/customization.css">
+<link rel="stylesheet" type="text/css" href="http://static.tagged.com/mainTemplateStyles.css">
+<link rel="stylesheet" type="text/css" href="http://static.tagged.com/switch_style.css" title="default">
+<link rel="alternate stylesheet" type="text/css" href="http://static.tagged.com/switch_style_alt.css" title="alt">
+<link rel="alternate stylesheet" type="text/css" href="http://static.tagged.com/switch_style_alt2.css" title="alt2">
+<link rel="alternate stylesheet" type="text/css" href="http://static.tagged.com/switch_style_alt3.css" title="alt3">
+   
 <script type="text/javascript" src="http://static.tagged.com/swap_styles.js"></script>
 <script type="text/javascript" src="http://static.tagged.com/findDOM.js"></script>
 <script type="text/javascript" src="http://static.tagged.com/tagged.js"></script>
+<script type="text/javascript" src="http://static.tagged.com/sal.js"></script>
 <script type="text/javascript" src="http://static.tagged.com/alttxt.js"></script>
+<script type="text/javascript" src="http://static.tagged.com/alttxt.js"></script>
+<script type="text/javascript" src="http://www.tagged.com/userplane/functions.js"></script>
+<script type="text/javascript" src="http://static.tagged.com/js/embeddedcontent.js" defer="defer"></script>
+	
 <!--  begin framebuster -->
 
 <script type="text/javascript">
@@ -27,8 +37,20 @@ self.focus();
     window.name = 'tagged_main';    
 </script>
 <link rel="shortcut icon" href="http://static.tagged.com/images/favicon.ico">
-<script type="text/javascript" src="/__utm.js"></script><script type="text/javascript">
+<script type="text/javascript" src="http://static.tagged.com/__utm.js"></script><script type="text/javascript">
 function taggedOnLoad() {
+
+
+  // Remove #'s from title.
+  var titlePoundRegExp = /^([^\#]+)\#/;
+  if (document.title != '') {
+  	var resMatchTitle = document.title.match(titlePoundRegExp);
+  	if (resMatchTitle != null) {
+  		document.title = resMatchTitle[1];
+  	}
+  }
+
+
 
     //the following funciton is defined in alttext.js and must be
     // called if you want the alt-text mouse-overs to work
@@ -39,168 +61,88 @@ function taggedOnLoad() {
     //begin section for arbitrary onload code
     //end section
 
+
+
+
+  // Copied this code from swap_styles.js. All onload code MUST go inside the current function and not elsewhere!
+  var cookie = readCookie("style");
+  var title = cookie ? cookie : getPreferredStyleSheet();
+  setActiveStyleSheet(title);
+  // End of code copied from swap_styles.js
+
+
+  // Set the cursor 
+  
 }
 </script>
-</head><body id="custom_image" onload="taggedOnLoad()">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<style type="text/css">
-#body_skin_lymon{ background-image:URL('http://static.tagged.com/images/uploads/lymon_skin_wide.jpg');background-repeat: no-repeat; background-position: center; background-color:#00000;} 
-                 #body_skin_mobizzo{ background-image:URL('http://static.tagged.com/images/uploads/mobizzo_background2.jpg');background-repeat: no-repeat; background-position: center; background-color:#020A5D;} 
-</style>&nbsp;
+<style type="text/css">
+#body_skin_mobizzo{ background-image:URL('http://static.tagged.com/images/uploads/mobizzo_background2.jpg');background-repeat: no-repeat; background-position: top center; background-color:#020A5D; }
+#body_skin_lymon{ background-image:URL('http://static.tagged.com/images/uploads/lymon_skin_wide.jpg');background-repeat: no-repeat; background-position: center; background-color:#000000;}
+#body_skin_afro_samurai{ background-image:URL('http://static.tagged.com/images/uploads/afro_samurai_wide.jpg');background-repeat: no-repeat; background-position: center; background-color:#990000;}
+#body_skin_accepted{}
+#body_skin_enyce{ background-image:URL('http://static.tagged.com/images/uploads/enyce_takeover.jpg');background-repeat: no-repeat; background-position: center; background-color:#020202;}
+#body_skin_jayz{ background-image:URL('http://static.tagged.com/images/uploads/jayz_takeover.jpg');background-repeat: no-repeat; background-position: center; background-color:#020202;}
+#body_skin_ladysov{ background-image:URL('http://static.tagged.com/images/uploads/ladysov_takeover.jpg');background-repeat: no-repeat; background-position: center; background-color:#020202;}
+#body_skin_nike{ background-image:URL('http://static.tagged.com/images/uploads/nike_takeover.jpg');background-repeat: no-repeat; background-position: center; background-color:#020202;}				 
+#body_skin_cherry_coke{ background-image:URL('http://static.tagged.com/images/uploads/cherry_coke.jpg');background-repeat: no-repeat; background-position: center; background-color:#6F103C;}				 
+</style>
 
-
-<!-- *****background image start***** -->
-<!-- *****background image end***** -->
-
-<!-- Start Logo -->
+</head>
+<body class="body" id="custom_image" onload="taggedOnLoad();">
 <div id="logo">
-<!-- 
-<div class="cssswitch">Change Color: <a href="#" onClick="setActiveStyleSheet('default'); return false;"><img src="http://static.tagged.com/images/orange.gif" width="20" height="14" alt="orange square"></a>&nbsp;<a href="#" onClick="setActiveStyleSheet('alt'); return false;"><img src="http://static.tagged.com/images/green.gif" width="20" height="14" alt="green square"></a>&nbsp;<a href="#" onClick="setActiveStyleSheet('alt2'); return false;"><img src="http://static.tagged.com/images/pink.gif" width="20" height="14" alt="pink square"></a>&nbsp;<a href="#" onClick="setActiveStyleSheet('alt3'); return false;"><img src="http://static.tagged.com/images/blue.gif" width="20" height="14" alt="blue square"></a></div>
--->
-<div class="login">
-<p class="online_num">
-<a class="sign_out" href="/logout.html">Sign Out</a></p>
+<div id="ad"><div id="ad_horiz_div_id">
+<iframe src="http://c5.zedo.com/jsc/c5/ff2.html?n=496;c=121;s=1;d=14;w=728;h=90" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="728" height="90"></iframe>
 </div>
-<div class="clearFloats" style="font-size: 1px">&nbsp;</div>
-<!-- Start AD -->
-<div id="ad"> 
-<div id="ad_horiz_div_id">
-<script language="JavaScript">
-                var zflag_nid="496"; var zflag_cid="84"; var zflag_sid="1"; var 
-                zflag_width="728"; var zflag_height="90"; var zflag_sz="14"; 
-                </script>
-<script language="JavaScript" src="http://c5.zedo.com/jsc/c5/fo.js"></script>
 </div>
- 
+<div id="above_nav_container">
+<a href="/index.html" style="float:left;"><img src="http://static.tagged.com/images/tagged_logo_med.png" style="behavior:url(/pngbehavior.htc);width:105px;height:36px;" id="logo_img"></a>
+<div id="has_alerts_top_nav" style="visibility:visible;"></div>
+<!-- START NAV SEARCH BOX -->
+<div id="navSearchBox">
+<form action="/search_results.html" method="POST" name="nav_searchbox">
+<input type="hidden" name="fldSearchType" value="generalSearch">
+<input type="hidden" name="fldWithin" value="web">
+<input type="hidden" name="fldOnlyWithPhoto" value="checked">
+<input type="hidden" name="fldOnlyOnline" value="">
+<input type="hidden" name="fldIsNavBarSearch" value="true">
+<input type="text" name="fldSearchString" class="search">
+<input type="button" class="orangeBtn" value="Web Search" onclick="return document.forms['nav_searchbox'].submit();">
+</form>
 </div>
-<!-- End AD -->
-<div class="taggedLogo">
-<a href="/index.html"><img src="http://static.tagged.com/images/tagged_logo.gif"></a>
+<!-- END NAV SEARCH BOX --><p id="login_wrap"><a class="sign_out" href="/login.html">Sign In</a></p>
 </div>
-<div class="header_alerts"><span id="has_alerts_top_nav" style="visibility:hidden;">
-<a class="online_num" href="/mypage.html"><img src="http://static.tagged.com/images/new_alerts.gif" width="85" height="14" alt="" border="0"></a>&nbsp;&nbsp;</span>
-</div>
-<div class="clearFloats" style="font-size: 5px;">&nbsp;</div>
+<div class="clearFloats"></div>
 </div>
 <!-- Start nav -->
-<div id="nav_container">
 <div id="main_nav">
 <ul>
-<li><a href="home.html">Home</a></li>
-<li><a href="mypage.html">My Page</a></li>
-<li><a href="inbox.html">My Messages</a></li>
-<li><a href="fresh_stuff.html">Fresh Stuff</a></li>
-<li><a href="chat_rooms.html">Chat Now</a></li>
-<li><a href="quizzes_and_contests.html">Quizzes &amp; Contests</a></li>
-<li><a href="tag_more_people.html">Invite Friends</a></li>
-<li><a href="huh.html">Help</a></li>
+<li class="first"><a href="home.html">Home</a></li>
+<li><a href="mypage.html">My Profile</a></li>
+<li><a href="inbox.html">Messages</a></li>
+<li><a href="mytagteam.html">Friends</a></li>
+<li><a href="fresh_stuff.html">Fun Stuff</a></li>
+<li><a href="chat_rooms.html">Chat</a></li>
+<li><a href="browse.html">Browse</a></li>
 <li><a href="search.html">Search</a></li>
 </ul>
-<div class="cssswitch2">
-<div><a href="#" onclick="setActiveStyleSheet('default'); return false;"><img src="http://static.tagged.com/images/orange.gif" width="20" height="14" alt="orange square"></a></div>
-<div><a href="#" onclick="setActiveStyleSheet('alt'); return false;"><img src="http://static.tagged.com/images/green.gif" width="20" height="14" alt="green square"></a></div>
-<div><a href="#" onclick="setActiveStyleSheet('alt2'); return false;"><img src="http://static.tagged.com/images/pink.gif" width="20" height="14" alt="pink square"></a></div>
-<div><a href="#" onclick="setActiveStyleSheet('alt3'); return false;"><img src="http://static.tagged.com/images/blue.gif" width="20" height="14" alt="blue square"></a></div>
 </div>
-<div class="keepClear"><span></span></div>
-</div>
-<div id="sub_nav">&nbsp;</div>  
-</div>
-<!-- End nav -->
-<!-- Start Fresh Users -->
-<!-- End Fresh -->
-<!-- Start Quizzes -->
-<!-- Start Container: Light Blue container of main content -->
-<div id="container">
+<!-- End nav --><div id="containerim">
 <div style="display:none">
 <!-- google_ad_section_start -->
-Tagged is the premier teen social networking destination on the web.  Tagged 
-provides a fun, safe, and exciting environment for teens to showcase their 
-personalities and talents, and to connect with friends and meet new ones.  Our 
-users are able to chat, create journals, upload photos, build and manage teams 
-of friends and classmates and vote for celebrity look a likes.  Tagged members 
-prefer the following merchandise:  Teen Chat Ringtones.
+Stay connected with friends old and new.  Send messages, leave comments, browse 
+photos, watch videos, play games, give tags, chat, customize your profile and 
+much more on Tagged.
 <!-- google_ad_section_end -->
 </div>
-<!-- END Logo -->
-<!-- google_ad_section_start(weight=ignore) -->
-<!-- google_ad_section_end -->
-<!--  END HEADER -->
-<!-- Start sidebar: main RIGHT column -->
 <div id="sidebar">
 <!-- <div>&nbsp;</div> -->
-<div><script language="JavaScript">
-            var zflag_nid="496"; var zflag_cid="84"; var zflag_sid="1"; var zflag_width="300"; var zflag_height="250"; var zflag_sz="9"; 
-            </script>
-<div>
-<script language="JavaScript" src="http://c5.zedo.com/jsc/c5/fo.js"></script>
+<div><div class="ad_300_250">
+<iframe src="http://c5.zedo.com/jsc/c5/ff2.html?n=496;c=121;s=1;d=9;w=300;h=250" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="300" height="250"> </iframe>
+</div></div>
 </div>
-<div class="HdrTabSb">FRESH USERS</div>
-<div class="sidebar_block_wt" style="text-align:center;">
-    
-<div class="photosSB">
-<!-- Begin Photos -->
-<div class="box">
-<div class="pic"><a href="/mypage.html?uid=3896575"><img src="http://static.tagged.com/images/user/38/96/57/thumb-3896575-19035595.jpg"></a></div>             
-<p class="txt"><a href="/mypage.html?uid=3896575" class="usrnm4photo">Capri W,&nbsp;15</a></p>
-</div>
-<div class="box">
-<div class="pic"><a href="/mypage.html?uid=3896574"><img src="http://static.tagged.com/images/user/38/96/57/thumb-3896574-19035692.jpg"></a></div>             
-<p class="txt"><a href="/mypage.html?uid=3896574" class="usrnm4photo">Tanner B,&nbsp;14</a></p>
-</div>
-		
-<p class="float_rt"><a class="body_text11" href="/fresh_users.html">View more users&gt;&gt;</a></p>		   
-</div> 
-<div class="clearFloats"></div>
-</div><!-- BEGIN profile views -->
-<div class="HdrTabSb">CELEBRITY LOOK-A-LIKE CONTEST</div>
-<div class="sidebar_block_wt" style="text-align:center;">
-<div style="font-size:8px">&nbsp;</div>
-<table border="0" cellspacing="0" cellpadding="0" class="body_text">
-<tbody><tr>
-<td align="center">
-<div><a href="/contest_celeb.html"><img src="http://static.tagged.com//images/celebcontest/2012/celeb_thumb.jpg" alt="" border="0"></a></div>
-<div style="white-space: nowrap;"><a class="body_text" href="/contest_celeb.html">Pink .</a></div>
-</td>
-<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-<td valign="middle">Vote for the best<br>
-<a class="body_text" href="/contest_celeb.html"><strong>Celebrity Look-a-Likes</strong></a>
-<br>
-or enter your photo</td>
-</tr>
-</tbody></table>
-<!-- CLOSE sidebar_block -->	
-</div>
-<!-- END profile views  --> 
-<div class="HdrTabSb">CHAT</div>
-<div class="sidebar_block_wt">
-<table border="0" cellspacing="0" cellpadding="0">
-<tbody><tr><td><a href="/chat_rooms.html"><img src="http://static.tagged.com/images/chat_module_icon.gif" width="42" height="42" alt="" border="0"></a></td>
-<td>&nbsp;&nbsp;</td>
-<td class="body_text">Get your talk on in <a class="or" href="/chat_rooms.html">Tagged Chat</a>.
-</td>
-</tr>
-</tbody></table>
-</div>
-<!-- BEGIN cotw box -->
-<div class="HdrTabSb">WHADDYA THINK?</div>
-<div class="sidebar_block_wt" style="text-align:center;">
-<div class="photosSB">
-<!-- Begin Photos -->
-<div class="box">
-<p class="body_text">Jun 12 - Jun 18</p>
-<div><img src="http://static.tagged.com/images/1px_space.gif" width="1" height="5" alt="" border="0"></div>
-<div class="pic"><a href="/cotw_confession.html"><img src="http://static.tagged.com/images/cotw/6122006_thumb.jpg" alt="" border="0"></a></div>         
-</div>
-<p style="padding-top: 30px;" class="body_text">Post your comments about this week's <a class="body_text" href="/cotw_confession.html"><strong>Topic</strong></a></p>
-</div> 
-<div class="clearFloats"></div>
-</div>
-<!-- END cotw box --></div>
-</div>
-<!-- End sidebar -->
 <!-- Start content: main LEFT column -->
-<div id="content">
-<div class="whiteHeader3" style="width:780;"><strong>TERMS</strong> OF <strong>SERVICE</strong></div>
-<img src="http://static.tagged.com/images/main/header_bar_long.gif">
+<div id="side-b">
+<div class="whiteHeader3"><strong>TERMS</strong> OF <strong>SERVICE</strong></div>
 <!-- huh questions start -->
 <div id="huh_qs">
 <p>&nbsp;&nbsp;<a href="#terms_of_service">Terms of Service</a></p>
@@ -210,12 +152,12 @@ or enter your photo</td>
 <!-- huh questions end -->
 <!-- Begin text -->
 <div class="content_block">
-<table cellspacing="0" width="100%">
-<tbody><tr><td>Updated as of February 7, 2006</td></tr>
+<table cellspacing="0">
+<tbody><tr><td>Updated as of April 20, 2007</td></tr>
 <tr><td height="10"></td></tr>
 <tr><td><a name="terms_of_service"></a><strong>TERMS OF SERVICE</strong></td></tr>
 <tr><td height="10"></td></tr>
-<tr><td>Please read the following important Terms of Service Agreement (the "Agreement") before accessing or using any of the various services (the "Services") made available to you (the "Member") by Tagged through <a class="or" href="/">http://www.tagged.com</a> ("Tagged"). ONLY USERS BETWEEN 13 AND 19 YEARS OF AGE MAY REGISTER FOR TAGGED.  By completing the registration process for the Tagged website, you represent that you are between 13 and 19 years of age, and can and will be legally bound by this Agreement.  If you are a minor, your parent or guardian must read and accept the terms of this Agreement before you register.  No Member may participate where doing so would be prohibited by any applicable law or regulation.</td></tr>
+<tr><td>Please read the following important Terms of Service Agreement (the "Agreement") before accessing or using any of the various services (the "Services") made available to you (the "Member") by Tagged through <a class="or" href="/">http://www.tagged.com</a> ("Tagged"). ONLY USERS WHO ARE 13 YEARS OF AGE OR OLDER MAY REGISTER FOR TAGGED.  By completing the registration process for the Tagged website, you represent that you are 13 years of age or older, and can and will be legally bound by this Agreement.  If you are a minor, your parent or guardian must read and accept the terms of this Agreement before you register.  No Member may participate where doing so would be prohibited by any applicable law or regulation.</td></tr>
 <tr><td height="10"></td></tr>
 <tr><td><strong>A) Modifications</strong></td></tr>
 <tr><td height="10"></td></tr>
@@ -230,7 +172,7 @@ or enter your photo</td>
 <tr><td>Use of the Services by you, as Member, is subject to all applicable local, state, national and international laws and regulations. Tagged reserves the right, but does not assume any obligation, to monitor the Services to enforce this Agreement. Nor does Tagged guarantee that any monitoring it does perform will be to the Member's satisfaction. Upon learning of any violation of this Agreement, Tagged, at its sole discretion, may terminate your access to and use of the Services, require you to remedy such violation, and/or take any other actions that Tagged deems appropriate to enforce its rights and pursue all available remedies. Without limitation, Tagged reserves the right to terminate your access to and use of the Services if, in our view, your conduct fails to meet any of the following guidelines:</td></tr> 
 <tr><td height="10"></td></tr>
 </tbody></table>
-<table cellspacing="0" width="100%">
+<table cellspacing="0">
 <tbody><tr><td valign="top">1.&nbsp;&nbsp;</td>	
 <td>Members shall not engage in any activity that constitutes harassment, including, but not limited to, excessive repetition when listing a person as a referral.</td></tr> 
 <tr><td height="5"></td></tr>
@@ -260,7 +202,7 @@ or enter your photo</td>
 <td>Members shall not use any portion of the Tagged website or the Services for uploading, posting, emailing, transmitting or otherwise making available junk mail, commercial advertisements, or any other form of commercial solicitation.</td></tr> 
 <tr><td height="5"></td></tr>
 <tr><td valign="top">10.&nbsp;&nbsp;</td>	
-<td>Members shall not use any portion of the Tagged website or the Services for uploading, posting, emailing, transmitting or otherwise making available content, including user names and Tag Team names, that is harmful, threatening, abusive, vulgar, obscene, profane, defamatory, libelous, hateful, or racially, ethnically or otherwise objectionable.</td></tr> 
+<td>Members shall not use any portion of the Tagged website or the Services for uploading, posting, emailing, transmitting or otherwise making available content, including user names and friend list names, that is harmful, threatening, abusive, vulgar, obscene, profane, defamatory, libelous, hateful, or racially, ethnically or otherwise objectionable.</td></tr> 
 <tr><td height="5"></td></tr>
 <tr><td valign="top">11.&nbsp;&nbsp;</td>	
 <td>Members shall not use any portion of the Tagged website or the Services for uploading, posting, emailing, transmitting or otherwise making available messages that are harmful to minors in any way.</td></tr> 
@@ -291,14 +233,14 @@ underage drinking or smoking, substance abuse, weapon use, or gang affiliation.<
 <tr><td valign="top">19.&nbsp;&nbsp;</td>	
 <td>Members shall not use any portion of the Tagged website or the Services for any unlawful purpose.</td></tr> 
 </tbody></table>
-<table cellspacing="0" width="100%">
+<table cellspacing="0">
 <tbody><tr><td height="10"></td></tr>
 <tr><td>All judgments concerning the applicability of these guidelines shall be at the sole and exclusive discretion of Tagged. Tagged will remove the offending material and alert the member against repeating the offense. If another direct violation of our Terms of Agreement is committed, a member's account will be fully terminated. A member is not necessarily offered a warning. An account may be terminated at any time, without notice, depending on the severity of the offense.</td></tr> 
 <tr><td height="10"></td></tr>
 <tr><td><strong>D) Privacy</strong></td></tr>
 <tr><td height="10"></td></tr>
 <tr><td>Tagged has established a <a class="or" href="/terms_of_service.html?priv=y#privacy_policy">Privacy Policy</a> to explain to Members how their information is collected and used, which Member can read by clicking <a class="or" href="/terms_of_service.html?priv=y#privacy_policy">http://www.Tagged.com/terms_of_service.html?priv=y#privacy_policy</a>. Member's use of the Tagged website or the Services signifies acknowledgment of and agreement to Tagged's Privacy Policy. Members further acknowledge and agree that Tagged may disclose Member's personal information if required to do so by law or in the good faith belief that such preservation or disclosure is reasonably necessary to
-comply with legal process, enforce this Agreement, or to protect the rights, property, or personal safety of Tagged, its employees, users and third parties, and the public, or as otherwise described in the Privacy Policy. The Invite Friends feature is an easy way for Tagged users to invite friends through email. The email address(es) that you supply to use this service will only be used to send invitations to join your Tag Team.</td></tr> 
+comply with legal process, enforce this Agreement, or to protect the rights, property, or personal safety of Tagged, its employees, users and third parties, and the public, or as otherwise described in the Privacy Policy. The Add Friends feature is an easy way for Tagged users to invite friends through email. The email address(es) that you supply to use this service will only be used to send invitations to connect with you on Tagged.</td></tr> 
 <tr><td height="10"></td></tr>
 <tr><td><strong>E) Notice Regarding Commercial Email</strong></td></tr>
 <tr><td height="10"></td></tr>
@@ -365,14 +307,19 @@ If there is a dispute between participants on this site, or any third party, Tag
 Users with questions about this Terms of Service and any of the aforementioned statements may contact Tagged at <a class="or" href="mailto:SiteSquad@Tagged.com">SiteSquad@Tagged.com</a> or Tagged.com, P.O. Box 193152, San Francisco, CA 94119-3152. 
 </td></tr>
 <tr><td height="10"></td></tr>
-<tr><td>Updated as of February 7, 2006</td></tr>
+<tr>
+<td>Updated as of April 20, 2007</td>
+</tr>
 <tr><td height="10"></td></tr>
 <tr><td><a name="privacy_policy"></a><strong>PRIVACY POLICY</strong></td></tr>
 <tr><td height="10"></td></tr>
 <tr><td><strong>User Privacy</strong></td></tr>
 <tr><td height="10"></td></tr>
-<tr><td>Tagged is a fun website for teenagers that lets you refer your friends to sign up and join each others' Tag Teams. Like any website that offers a service where you register and provide information about yourself or your opinions, it is wise to pay attention to your personal information. At Tagged we understand this, and have established this Privacy Policy to explain how information is collected on our website, and how this information is used. 
-Members Must Be Between 13 and 19 Years of Age. Tagged is intended solely for use by persons 13 to 19 years of age. All persons under 13 or over 19 years of age are prohibited from registering on Tagged.  An account created by a person between the ages of 13 and 19 will not be terminated once that person turns 20, however new accounts may not be created by this person at the age of 20.</td></tr>
+<tr><td>Tagged is a fun website that lets you refer your friends to sign up and communicate with each other. 
+Like any website that offers a service where you register and provide information about yourself or your opinions, it is wise to pay attention to your personal information. 
+At Tagged we understand this, and have established this Privacy Policy to explain how information is collected on our website, and how this information is used. 
+Members Must Be 13 years of age or older. Tagged is intended solely for use by persons 13 years of age or older. 
+All persons under 13 or born before January 1, 1982 are prohibited from registering on Tagged.</td></tr>
 <tr><td height="10"></td></tr>
 <tr><td><strong>How Does Tagged Protect Children’s Privacy?</strong></td></tr>
 <tr><td height="10"></td></tr>
@@ -383,7 +330,7 @@ Tagged is a general audience web site that complies with the Children's Online
 Privacy Protection Act (COPPA).  Our registration process is designed to
 restrict children under the age of 13 from becoming members of Tagged and using
 our site. We've also designed the tone and style of the site to appeal to
-teenagers only (ages 13-19).  If we receive information suggesting that a user
+teenagers.  If we receive information suggesting that a user
 who has registered with Tagged is under the age of 13, we require the user to
 provide evidence confirming that the user is at least 13 years old.  If the user
 fails to provide such information within 48 hours, we immediately terminate the
@@ -432,7 +379,7 @@ parents with Privacy questions or concerns.
 <tr><td>
 All users begin using Tagged's services by registering on the Tagged website. 
 When registering, users provide personally identifiable information, which includes their first and last name, 
-email address, mailing address, which school they attend, a user-chosen password, and data of birth, and other personal information. During registration, 
+email address, mailing address, which school they attend, a user-chosen password, and date of birth, and other personal information. During registration, 
 users also complete survey questions that provide information that is helpful for us to understand the demographics and consumer behavior of our users, 
 such as identifying the users' eye color, style, personality type, favorite color, sport, food, activity or TV show, post-graduation plans or graduation year. 
 Users are also asked to select "Tags" related to their talents, or complete a questionnaire for their online profile, which includes a variety of questions about the user's 
@@ -451,18 +398,29 @@ Tagged web pages may also contain similar pixel tags that allow us to count user
 <tr><td height="10"></td></tr>
 <tr><td><strong>Personally Identifiable Information</strong></td></tr>
 <tr><td height="10"></td></tr>
-<tr><td>
-Tagged uses personally identifiable user information for the purposes of the Tagged website, the Tagged referral and Tag Team building. 
-We also use email addresses to send useful information to all registered users regarding the Tagged website. For example, we use email addresses of users, 
+<tr>
+<td>
+Tagged uses personally identifiable user information for the purposes of
+the Tagged website, the Tagged referral and friend list building.  Personally
+identifiable information including members' pictures and names are displayed to
+people in order to facilitate user interaction on Tagged.  Email addresses are
+used for the purposes of inviting new friends to join Tagged and to add users to
+members' friends' networks. To facilitate searching and finding friends and acquaintances on
+the service, Tagged allows users to search for other members using first and
+last name, email address, location and schools where users may have attended. 
+We also use email addresses to send useful information to all registered users
+regarding the Tagged website.
+For example, we use email addresses of users, 
 and of those persons provided on their referral lists, to send an invitation to the referred friend and encourage them to sign up on Tagged. When a user lists an 
 email address on the referral page, an email is automatically sent from that registered user to the referral address, encouraging the referral to sign up on the Tagged website. 
 If the referred person does not sign up within a few days, we also send a reminder from the registered user to the referral address. 
-All registered users will be able to view other users Stats, Profiles, Journals and Tag Team pages, which may include personal information and responses to survey questions. 
+All registered users will be able to view other users Stats, Profiles,
+Journals and friend list pages, which may include personal information and
+responses to survey questions. 
 If a registered user refers a friend who goes on to sign up on our site, then the registered user earns points. For more information about the point system, 
-see <a href="http://www.tagged.com/huh.html">http://www.tagged.com/huh.html</a>. Tagged does not share the email address of any registered user with third parties unless the user specifically requests and authorizes 
-that the user's email address be provided to such third party in order to receive information or participate in an offer. Tagged does not, however, sell or market the 
-personally identifiable information of any unregistered user to or with any third party.
-</td></tr>
+see <a href="http://www.tagged.com/huh.html">http://www.tagged.com/huh.html</a>. From time to time, Tagged may share the email address and/or other personally identifiable information of any registered user with third parties for marketing purposes. You may opt-out from receiving marketing messages from our partners at any time by using the following link: <a href="http://g.trackbot.com/dne?l=705f227&amp;e" target="_blank">http://g.trackbot.com/dne?l=705f227&amp;e</a>. In addition, Tagged may share a registered user’s email address with third parties to target advertising and to improve user experience on Tagged’s pages in general.		
+</td>
+</tr>
 <tr><td height="10"></td></tr>
 <tr><td>
 <!-- old info -->
@@ -481,8 +439,9 @@ From time to time we may extend various offers from various partner companies, i
 <tr><td><strong>Invitations</strong></td></tr>
 <tr><td height="10"></td></tr>
 <tr><td>The Invite Friends feature is an easy way for Tagged users to invite friends
-through email. The email address(es) that you supply to use this service will
-only be used to send invitations to join your Tag Team.</td></tr>
+through email. 
+The email address(es) that you supply to use this service will only be
+used to send invitations to connect with you on Tagged.</td></tr>
 <tr><td height="10"></td></tr>
 <tr><td><strong>Surveys and Contests</strong></td></tr>
 <tr><td height="10"></td></tr>
@@ -547,10 +506,6 @@ Any violation of our policies, by sending unsolicited email advertisements to or
 <tr><td height="10"></td></tr>
 <tr><td>Tagged reserves the right to revise, amend, or modify this policy and our other policies and agreements at any time and in any manner. Notice of any revision, amendment, or modification will be posted on the website, and a user's continued use of Tagged will signify agreement to such changes.</td></tr>
 <tr><td height="10"></td></tr>
-<tr><td><strong>International Users</strong></td></tr>
-<tr><td height="10"></td></tr>
-<tr><td>The Tagged service is available only to users who have a valid postal address in the United States.</td></tr> 
-<tr><td height="10"></td></tr>
 <tr><td><strong>Contacting Tagged</strong></td></tr>
 <tr><td height="10"></td></tr>
 <tr><td>Users with questions about this Privacy Policy and any of the aforementioned statements may contact Tagged at <a class="or" href="mailto:SiteSquad@Tagged.com">SiteSquad@Tagged.com</a> or Tagged.com, P.O. Box 193152, San Francisco, CA 94119-3152. 
@@ -558,7 +513,9 @@ Any violation of our policies, by sending unsolicited email advertisements to or
 <tr><td height="10"></td></tr>
 <tr><td>USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE PRIVACY POLICY.</td></tr>
 <tr><td height="10"></td></tr>
-<tr><td>Effective Date February 7, 2006.</td></tr>
+<tr>
+<td>Effective Date April 20, 2007.</td>
+</tr>
 <tr><td height="20"></td></tr>
 </tbody></table>
 </div>
@@ -585,22 +542,27 @@ Any violation of our policies, by sending unsolicited email advertisements to or
         var numInvites = 0;
         var numMessages = 0;
         var hasProps = false;
+        var numPhotoComments = 0;
+        var hasPhotoComments = false;
+        var numVideoComments = 0;    
+        var hasVideoComments = false;                
         var hasTags = false;
         var numUnviewedQuizRes = 0;
+        var numUnviewedBirthdays = 0;
+                    var imRequest = null;
         
         
         // END REGION - auto generated by PHP/Smarty
         
-        displayIfHasAlerts(numInvites, numMessages, hasProps, hasTags, cdArray,
-                chatArray, numUnviewedQuizRes);
+        displayIfHasAlerts(numInvites, numMessages, hasProps, hasPhotoComments, hasVideoComments, hasTags, cdArray,
+                chatArray, numUnviewedQuizRes, numUnviewedBirthdays, imRequest);                              
         
         //setInterval('refreshAlerts()', 80000);
     }
     
     initHasAlerts(); 
 </script>
-<!-- END ALERTS CODE --><!-- Start footer -->
-<div id="footer">
+<!-- END ALERTS CODE --><div id="footer">
 <div>
 <a href="/terms_of_service.html" class="footer_white2">Terms of Service</a>
 &nbsp;<span class="footer_grey">|</span>&nbsp;
@@ -614,13 +576,12 @@ Any violation of our policies, by sending unsolicited email advertisements to or
 &nbsp;<span class="footer_grey">|</span>&nbsp;
 <a href="/safety.html" class="footer_white2">Online Safety</a>
 </div>
-<p>© 2004 - 2006 Tagged Inc. All rights reserved.</p>
-</div><!-- End footer -->
-<!--  When hide_container is specified, the div is still included, just in the main template -->
-</div>
-<!--  End Container -->
-<div id="navtxt" class="navtext" style="position:absolute; top:-100px; left:0px; visibility:hidden"></div>
-<!-- COPYRIGHT 2006 I/PRO Corporation ALL RIGHTS RESERVED. -->
-<!--obtain from cvs version 1.1 when re-implimenting-->
-<!-- END I/PRO PAGE TAG -->
+<p>© 2004 - 2007 Tagged Inc. All rights reserved.</p>
+</div></div>
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">_qacct="p-96ZHBHvG56-qg";quantserve();</script>
+<noscript><img src="http://pixel.quantserve.com/pixel/p-96ZHBHvG56-qg.gif" style="display:none" height="1" width="1" alt="Quantcast"/></noscript>
+<!-- End Quantcast tag -->
+
 </body></html>
