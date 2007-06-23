@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thegauntlet.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204193708id_/http%3A//www.thegauntlet.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegauntlet.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623082645id_/http%3A//www.thegauntlet.com/policy.php) for the most accurate reproduction.*
 
-# Privacy Statement
+# The Gauntlet - Heavy Metal Ringtones, mp3, buddy icons, lyrics, ringtones, wallpaper, photos, bios, pictures, metal radio
 
 ##  Privacy Statement for The Gauntlet 
 
@@ -12,11 +12,11 @@ We use your IP address to help diagnose problems with our server and to administ
 
 ####  Advertisers 
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
+We use an both an outside ad company and inhouse ad network to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
 
 ####  Contests 
 
-We run contests on our site in which we ask visitors for contact information (like email address), and demographic information (like zip code age, and postal address). 
+We run contests on our site in which we ask visitors for contact information (like email address), and demographic information (like zip code, country and age) We do not collect phone numbers or postal addresses. 
 
 Contact information from the contests is used to get in touch with the visitor when necessary and if requested is added to the mailinglist to receive info from the band that sponsored the contest. __
 
@@ -34,4 +34,4 @@ This site contains links to other sites. **The Gauntlet** is not responsible for
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
 
 
-[ moshpit@thegauntlet.com ](mailto:moshpit@thegauntlet.com)
+[ Contact Us ](https://web.archive.org/contactus.php)
