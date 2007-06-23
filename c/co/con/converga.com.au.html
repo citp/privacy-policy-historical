@@ -1,512 +1,175 @@
-<!--The following is the downloaded HTML source of the converga.com.au privacy policy that was archived on 2006-08-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060820165632id_/http%3A//www.converga.com.au/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the converga.com.au privacy policy that was archived on 2007-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070623114224id_/http%3A//www.converga.com.au/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><!-- InstanceBegin template="/Templates/Main Template.dwt" codeOutsideHTMLIsLocked="false" --><head>
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><!-- InstanceBegin template="/Templates/Main.dwt" codeOutsideHTMLIsLocked="false" --><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Converga - Privacy</title>
-<!-- InstanceEndEditable --><link rel="stylesheet" href="ConvergaStyles-01.css" type="text/css">
-<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
-<script language="JavaScript" type="text/JavaScript">
-<!--
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-
-function MM_showHideLayers() { //v6.0
-  var i,p,v,obj,args=MM_showHideLayers.arguments;
-  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
-    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
-    obj.visibility=v; }
-}
-
-function MM_timelineGoto(tmLnName, fNew, numGotos) { //v2.0
-  //Copyright 1997, 2000 Macromedia, Inc. All rights reserved.
-  var i,j,tmLn,props,keyFrm,sprite,numKeyFr,firstKeyFr,lastKeyFr,propNum,theObj;
-  if (document.MM_Time == null) MM_initTimelines(); //if *very* 1st time
-  tmLn = document.MM_Time[tmLnName];
-  if (numGotos != null)
-    if (tmLn.gotoCount == null) tmLn.gotoCount = 1;
-    else if (tmLn.gotoCount++ >= numGotos) {tmLn.gotoCount=0; return}
-  jmpFwd = (fNew > tmLn.curFrame);
-  for (i = 0; i < tmLn.length; i++) {
-    sprite = (jmpFwd)? tmLn[i] : tmLn[(tmLn.length-1)-i]; //count bkwds if jumping back
-    if (sprite.charAt(0) == "s") {
-      numKeyFr = sprite.keyFrames.length;
-      firstKeyFr = sprite.keyFrames[0];
-      lastKeyFr = sprite.keyFrames[numKeyFr - 1];
-      if ((jmpFwd && fNew<firstKeyFr) || (!jmpFwd && lastKeyFr<fNew)) continue; //skip if untouchd
-      for (keyFrm=1; keyFrm<numKeyFr && fNew>=sprite.keyFrames[keyFrm]; keyFrm++);
-      for (j=0; j<sprite.values.length; j++) {
-        props = sprite.values[j];
-        if (numKeyFr == props.length) propNum = keyFrm-1 //keyframes only
-        else propNum = Math.min(Math.max(0,fNew-firstKeyFr),props.length-1); //or keep in legal range
-        if (sprite.obj != null) {
-          if (props.prop2 == null) sprite.obj[props.prop] = props[propNum];
-          else        sprite.obj[props.prop2][props.prop] = props[propNum];
-      } }
-    } else if (sprite.charAt(0)=='b' && fNew == sprite.frame) eval(sprite.value);
-  }
-  tmLn.curFrame = fNew;
-  if (tmLn.ID == 0) eval('MM_timelinePlay(tmLnName)');
-}
-
-function MM_timelinePlay(tmLnName, myID) { //v1.2
-  //Copyright 1997, 2000 Macromedia, Inc. All rights reserved.
-  var i,j,tmLn,props,keyFrm,sprite,numKeyFr,firstKeyFr,propNum,theObj,firstTime=false;
-  if (document.MM_Time == null) MM_initTimelines(); //if *very* 1st time
-  tmLn = document.MM_Time[tmLnName];
-  if (myID == null) { myID = ++tmLn.ID; firstTime=true;}//if new call, incr ID
-  if (myID == tmLn.ID) { //if Im newest
-    setTimeout('MM_timelinePlay("'+tmLnName+'",'+myID+')',tmLn.delay);
-    fNew = ++tmLn.curFrame;
-    for (i=0; i<tmLn.length; i++) {
-      sprite = tmLn[i];
-      if (sprite.charAt(0) == 's') {
-        if (sprite.obj) {
-          numKeyFr = sprite.keyFrames.length; firstKeyFr = sprite.keyFrames[0];
-          if (fNew >= firstKeyFr && fNew <= sprite.keyFrames[numKeyFr-1]) {//in range
-            keyFrm=1;
-            for (j=0; j<sprite.values.length; j++) {
-              props = sprite.values[j]; 
-              if (numKeyFr != props.length) {
-                if (props.prop2 == null) sprite.obj[props.prop] = props[fNew-firstKeyFr];
-                else        sprite.obj[props.prop2][props.prop] = props[fNew-firstKeyFr];
-              } else {
-                while (keyFrm<numKeyFr && fNew>=sprite.keyFrames[keyFrm]) keyFrm++;
-                if (firstTime || fNew==sprite.keyFrames[keyFrm-1]) {
-                  if (props.prop2 == null) sprite.obj[props.prop] = props[keyFrm-1];
-                  else        sprite.obj[props.prop2][props.prop] = props[keyFrm-1];
-        } } } } }
-      } else if (sprite.charAt(0)=='b' && fNew == sprite.frame) eval(sprite.value);
-      if (fNew > tmLn.lastFrame) tmLn.ID = 0;
-  } }
-}
-
-function MM_timelineStop(tmLnName) { //v1.2
-  //Copyright 1997, 2000 Macromedia, Inc. All rights reserved.
-  if (document.MM_Time == null) MM_initTimelines(); //if *very* 1st time
-  if (tmLnName == null)  //stop all
-    for (var i=0; i<document.MM_Time.length; i++) document.MM_Time[i].ID = null;
-  else document.MM_Time[tmLnName].ID = null; //stop one
-}
-
-function MM_displayStatusMsg(msgStr) { //v1.0
-  status=msgStr;
-  document.MM_returnValue = true;
-}
-
-function MM_initTimelines() { //v4.0
-    //MM_initTimelines() Copyright 1997 Macromedia, Inc. All rights reserved.
-    var ns = navigator.appName == "Netscape";
-    var ns4 = (ns && parseInt(navigator.appVersion) == 4);
-    var ns5 = (ns && parseInt(navigator.appVersion) > 4);
-    document.MM_Time = new Array(1);
-    document.MM_Time[0] = new Array(1);
-    document.MM_Time["menuoff"] = document.MM_Time[0];
-    document.MM_Time[0].MM_Name = "menuoff";
-    document.MM_Time[0].fps = 15;
-    document.MM_Time[0][0] = new String("behavior");
-    document.MM_Time[0][0].frame = 10;
-    document.MM_Time[0][0].value = "MM_showHideLayers('about','','hide','services1','','hide','soluti','','hide','case','','hide')";
-    document.MM_Time[0].lastFrame = 10;
-    for (i=0; i<document.MM_Time.length; i++) {
-        document.MM_Time[i].ID = null;
-        document.MM_Time[i].curFrame = 0;
-        document.MM_Time[i].delay = 1000/document.MM_Time[i].fps;
-    }
-}
-//-->
-</script>
+<title>Converga - Privacy policy</title>
+<!-- InstanceEndEditable -->
+<link rel="stylesheet" href="style.css" type="text/css">
+<!-- InstanceBeginEditable name="head" -->
+<!-- InstanceEndEditable -->
+<meta name="keywords" content="Converga, Outsource, Australia, Business, Process, Outsourcing, Careers@Converga, Careers, Positions, Job, Seek, Seekers, Information, Management, Records, Paperless, AP, Accounts, Payable, OSA, on-site, off-site, end-to-end, tailor, made, solutions, paper, automated">
+<meta name="description" content="Converga is the innovative market leader in Business Process Outsourcing, outperforming our clients expectations and providing real career development for our people.">
 </head>
 
-<body bgcolor="#CCCCCC" text="#000000" topmargin="0" marginwidth="0" marginheight="0" onload="MM_preloadImages('file:///P|/Converga/images/paperlessAPDDred.gif','file:///P|/Converga/images/fullcycleformsDDred.gif','file:///P|/Converga/images/digitalmailroomsDD.gif','file:///P|/Converga/images/solutionsred.gif','file:///P|/Converga/images/largescalevoucher.gif','file:///P|/Converga/images/automatingaccountspay.gif','file:///P|/Converga/images/financialservicesdoc.gif','file:///P|/Converga/images/smallgovtagency.gif','file:///P|/Converga/images/mediumsizegov.gif','file:///P|/Converga/images/largemanfacturingfirm.gif','file:///P|/Converga/images/aboutconvergared.gif','images/contactusRED.gif','images/servicesred.gif','images/casestudiesRED.gif','images/downloadsRED.gif','images/managementeamDD.gif','images/careersDD.gif','images/strategicconsultDD.gif','images/smartimageDD.gif')" leftmargin="0">
-
-<meta name="keywords" content="Converga, Australia, New, Zealand, Information, Management, Outsource, PaperlessAP, Accounts, Payable, Account, FullCycle, Full, Cycle, Form, Forms, Extraction, DigiMail, Digi, Mail, Electronic, Document, Documents, System, Systems, Consulting, Datamail, Data, Record, Records, Print, Copy, Scan">
-<meta name="description" content="Converga is the Information Management division of Outsource Australia (OSA). It is a 100% owned subsidiary of OSA. OSA, originally formed in 1994 is now part of the Datamail Group which is owned by New Zealand Post. Converga's focus and expertise is in planning, configuring, operating and managing entire business processes which need to handle both paper and electronic transactions within unified workflows, and integrating them with records and information management disciplines, smart imaging and data capture technologies. We offer a range of information management services and specific solution portfolios to both public and private sector clients - from strategic consulting, through implementation services to entire information logistics and business process outsourcing - both on and off site.">
-<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" height="98">
-  <tbody><tr> 
-    <td width="362" valign="bottom" rowspan="2"><a name="top" href="default.htm"> 
-      </a><a href="http://www.converga.com.au" onmouseover="MM_displayStatusMsg('converga');return document.MM_returnValue" onmouseout="MM_displayStatusMsg(' ');return document.MM_returnValue"><img src="images/convergalogo.gif" width="194" height="98" border="0"></a></td>
-    <td width="641" valign="top" height="70">&nbsp;</td>
-  </tr>
-  <tr> 
-    <td valign="bottom" height="32" bgcolor="cc0033"> 
-      <div align="left"><img src="images/tab.gif" alt="Information Management &amp; Data Transformation Services" width="641" height="32"></div>
-    </td>
-  </tr>
-</tbody></table>
-
-<script language="JavaScript">
-<!--
-
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-//-->
-</script>
- 
-<script language="JavaScript">
-<!--
-
-<!--
-function MM_reloadPage(init) {  //reloads the window if Nav4 resized
-  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
-    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
-  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
-}
-MM_reloadPage(true);
-// -->
-//-->
-</script>
-<script language="JavaScript">
-<!--
-
-function P7_autoLayers() { //v1.4 by PVII
- var g,b,k,f,args=P7_autoLayers.arguments;a=parseInt(args[0]);if(isNaN(a))a=0;
- if(!document.p7setc){p7c=new Array();document.p7setc=true;for(var u=0;u<10;u++){
- p7c[u]=new Array();}}for(k=0;k<p7c[a].length;k++){if((g=MM_findObj(p7c[a][k]))!=null){
- b=(document.layers)?g:g.style;b.visibility="hidden";}}for(k=1;k<args.length;k++){
- if((g=MM_findObj(args[k]))!=null){b=(document.layers)?g:g.style;b.visibility="visible";f=false;
- for(var j=0;j<p7c[a].length;j++){if(args[k]==p7c[a][j]) {f=true;}}
- if(!f){p7c[a][p7c[a].length++]=args[k];}}}
-}
-//-->
-</script>
-<script language="JavaScript">
-<!--
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-</script>
-<script language="JavaScript">
-<!--
-function P7_hideDiv(evt) { //v1.3 by PVII
- var b,relT,mT=false; 
- if(document.layers){b=evt.target;if(b.p7aHide){
-  b.visibility="hidden";}else{routeEvent(evt);}
- }else if(document.all&&!window.opera){b=event.srcElement;
-  while(b!=null){if(b.tagName=="DIV" && b.p7ahD){mT=true;break;}b=b.parentElement;}
-  if(!b.contains(event.toElement)){b.style.visibility="hidden";}
- }else if(document.getElementById){b=evt.currentTarget;relT=evt.relatedTarget;
-  while(relT!=null){if(b==relT){mT=true;break;}
-  relT=relT.parentNode;}if(!mT){b.style.visibility="hidden";}}
-}
-
-function P7_autoHide() { //v1.3 by PVII
- var i,g,args=P7_autoHide.arguments;
- for(i=0;i<args.length;i++){if((g=MM_findObj(args[i]))!=null){
-  g.p7aHide=true;if(document.layers){
-  g.captureEvents(Event.MOUSEOUT);}g.onmouseout=P7_hideDiv;g.p7ahD=true;}}
-}
-//-->
-</script>
-
-<table border="0" cellspacing="0" cellpading="0" width="100%">
-  <tbody><tr> 
-    <td height="10" background="images/bar_lines.gif"><img src="images/space01.gif" width="10" height="10"></td>
-  </tr>
-</tbody></table>
-<table border="0" cellspacing="0" cellpadding="0" bgcolor="#666666" width="100%">
-  <tbody><tr> 
-    <td background="images/bar_bg2.gif" align="left" valign="top" width="826"><nobr><img src="images/bar1a.gif" width="25" height="24"><img src="images/bar4.gif" width="9" height="24" alt=""><img src="images/bar4.gif" width="9" height="24" alt=""><img src="images/bar4.gif" width="9" height="24" alt=""><a href="aboutus.htm" onmouseover="MM_swapImage('Image6','','images/aboutconvergared.gif',1);MM_showHideLayers('about','','show','services1','','hide','soluti','','hide','case','','hide');MM_timelineStop('menuoff');MM_displayStatusMsg('about converga');return document.MM_returnValue" onmouseout="MM_timelineGoto('menuoff','1');MM_swapImgRestore();MM_timelinePlay('menuoff');MM_displayStatusMsg(' ');return document.MM_returnValue"><img src="images/aboutconverga.gif" alt="about converga" name="Image6" width="117" height="24" border="0"></a><img src="images/bar4.gif" width="9" height="24" alt=""><a href="services.htm" onmouseover="MM_swapImage('services','','images/servicesred.gif',1);MM_showHideLayers('about','','hide','services1','','show','soluti','','hide','case','','hide');MM_timelineStop('menuoff');MM_displayStatusMsg('services');return document.MM_returnValue" onmouseout="MM_swapImgRestore();MM_timelineGoto('menuoff','1');MM_timelinePlay('menuoff');MM_displayStatusMsg(' ');return document.MM_returnValue"><img src="images/services.gif" alt="services" name="services" width="117" height="24" border="0"></a><img src="images/bar4.gif" width="9" height="24" alt=""><a href="solutions.htm" onmouseover="MM_swapImage('solutions','','images/solutionsred.gif',1);MM_showHideLayers('about','','hide','services1','','hide','soluti','','show','case','','hide');MM_timelineStop('menuoff');MM_displayStatusMsg('solutions');return document.MM_returnValue" onmouseout="MM_swapImgRestore();MM_timelineGoto('menuoff','1');MM_timelinePlay('menuoff');MM_displayStatusMsg(' ');return document.MM_returnValue"><img src="images/solutions.gif" alt="solutions" name="solutions" width="117" height="24" border="0"></a><img src="images/bar4.gif" width="9" height="24" alt=""><a href="casestudies.htm" onmouseover="MM_swapImage('casestudie','','images/casestudiesRED.gif',1);MM_showHideLayers('about','','hide','services1','','hide','soluti','','hide','case','','show');MM_timelineStop('menuoff');MM_displayStatusMsg('case studies');return document.MM_returnValue" onmouseout="MM_swapImgRestore();MM_timelineGoto('menuoff','1');MM_timelinePlay('menuoff');MM_displayStatusMsg(' ');return document.MM_returnValue"><img src="images/casestudies.gif" alt="case studies" name="casestudie" width="117" height="24" border="0"></a><img src="images/bar4.gif" width="9" height="24" alt=""><a href="downloads.htm" onmouseover="MM_swapImage('Image9','','images/downloadsRED.gif',1);MM_showHideLayers('about','','hide','services1','','hide','soluti','','hide','case','','hide');MM_displayStatusMsg('downloads');return document.MM_returnValue" onmouseout="MM_swapImgRestore();MM_displayStatusMsg(' ');return document.MM_returnValue"><img src="images/downloads.gif" alt="downloads" name="Image9" width="117" height="24" border="0"></a><img src="images/bar4.gif" width="9" height="24" alt=""><a href="contactus.htm" onmouseover="MM_swapImage('contactus','','images/contactusRED.gif',1);MM_showHideLayers('about','','hide','services1','','hide','soluti','','hide','case','','hide');MM_displayStatusMsg('contact us');return document.MM_returnValue" onmouseout="MM_swapImgRestore();MM_displayStatusMsg(' ');return document.MM_returnValue"><img src="images/contactus.gif" alt="contact us" name="contactus" width="117" height="24" border="0"></a></nobr></td>
-    <td background="images/bar_bg2.gif" width="198" align="left" valign="top" bgcolor="#666666"><img src="images/space01.gif" width="1" height="1" alt=""><a href="http://data.converga.com.au/wraps/" onmouseover="MM_displayStatusMsg('Client Login');return document.MM_returnValue" onmouseout="MM_displayStatusMsg(' ');return document.MM_returnValue"><img src="images/clientzone.gif" alt="Client Login" width="68" height="24" border="0"></a><img src="images/bar4.gif" width="9" height="24" alt=""><a href="https://intranet.osaust.com" onmouseover="MM_displayStatusMsg('Staff Login');return document.MM_returnValue" onmouseout="MM_displayStatusMsg(' ');return document.MM_returnValue"><img src="images/stafflogin.gif" alt="Staff Login" width="68" height="24" border="0"></a></td>
-  </tr>
-</tbody></table>
-<div id="about" style="position:absolute; left:52px; top:137px; width:110px; height:43px; z-index:1; visibility: hidden; overflow: visible"><a href="managmentteam.htm" onmouseover="MM_swapImage('Image1','','images/managementeamDD.gif',1);MM_timelineStop('menuoff');MM_displayStatusMsg('management team');return document.MM_returnValue" onmouseout="MM_swapImgRestore();MM_timelineGoto('menuoff','1');MM_timelinePlay('menuoff');MM_displayStatusMsg(' ');return document.MM_returnValue"><img src="images/managementeamDDblack.gif" name="Image1" width="117" height="21" border="0"></a><a href="careers.htm" onmouseover="MM_swapImage('Image2','','images/careersDD.gif',1);MM_timelineStop('menuoff');MM_displayStatusMsg('careers');return document.MM_returnValue" onmouseout="MM_swapImgRestore();MM_timelineGoto('menuoff','1');MM_timelinePlay('menuoff');MM_displayStatusMsg(' ');return document.MM_returnValue"><img src="images/careersDDblack.gif" name="Image2" width="117" height="21" border="0"></a> 
-</div>
-<div id="services1" style="position:absolute; left:178px; top:137px; width:114px; height:54px; z-index:3; visibility: hidden"> 
-  <a href="strategicconsult.htm" onmouseover="MM_swapImage('Image3','','images/strategicconsultDD.gif',1);MM_timelineStop('menuoff');MM_displayStatusMsg('strategic consulting');return document.MM_returnValue" onmouseout="MM_swapImgRestore();MM_timelineGoto('menuoff','1');MM_timelinePlay('menuoff');MM_displayStatusMsg(' ');return document.MM_returnValue"><img src="images/strategicconsultDDblack.gif" name="Image3" width="117" height="21" border="0"></a><a href="Services_SIC.htm" onmouseover="MM_swapImage('Image4','','images/smartimageDD.gif',1);MM_timelineStop('menuoff');MM_displayStatusMsg('smart imaging &amp; data capture');return document.MM_returnValue" onmouseout="MM_swapImgRestore();MM_timelineGoto('menuoff','1');MM_timelinePlay('menuoff');MM_displayStatusMsg(' ');return document.MM_returnValue"><img src="images/smartimageDDblack.gif" name="Image4" width="117" height="32" border="0"></a> 
-</div>
-<div id="soluti" style="position:absolute; left:304px; top:137px; width:118px; height:63px; z-index:4; visibility: hidden"> 
-  <a href="solutions_paperlessAP.htm" onmouseover="MM_swapImage('Image5','','images/paperlessAPDDred.gif',1);MM_timelineStop('menuoff');MM_displayStatusMsg('paperless ap');return document.MM_returnValue" onmouseout="MM_swapImgRestore();MM_timelineGoto('menuoff','1');MM_timelinePlay('menuoff');MM_displayStatusMsg(' ');return document.MM_returnValue"><img src="images/paperlessAPDDblack.gif" name="Image5" width="117" height="21" border="0"></a><br>
-  <a href="solutions_fullcycleforms.htm" onmouseover="MM_swapImage('Image8','','images/fullcycleformsDDred.gif',1);MM_timelineStop('menuoff');MM_displayStatusMsg('fullcycle forms');return document.MM_returnValue" onmouseout="MM_swapImgRestore();MM_timelineGoto('menuoff','1');MM_timelinePlay('menuoff');MM_displayStatusMsg(' ');return document.MM_returnValue"><img src="images/fullcycleformsDDblack.gif" name="Image8" width="117" height="21" border="0"></a><br>
-<a href="solutions%20-%20digmailrooms.htm" onmouseover="MM_swapImage('Image7','','images/digitalmailroomsDD.gif',1);MM_timelineStop('menuoff');MM_displayStatusMsg('digital mailrooms');return document.MM_returnValue" onmouseout="MM_swapImgRestore();MM_timelineGoto('menuoff','1');MM_timelinePlay('menuoff');MM_displayStatusMsg(' ');return document.MM_returnValue"><img src="images/digitalmailroomsDDblack.gif" name="Image7" width="117" height="21" border="0"></a></div>
-<div id="case" style="position:absolute; width:104px; height:181px; z-index:5; left: 431px; top: 139px; visibility: hidden"><a href="casestudies%20-%20LSV.htm" onmouseover="MM_swapImage('Image29','','images/largescalevoucher.gif',1);MM_timelineStop('menuoff');MM_displayStatusMsg('large scale voucher / form processing');return document.MM_returnValue" onmouseout="MM_swapImgRestore();MM_timelineGoto('menuoff','1');MM_timelinePlay('menuoff');MM_displayStatusMsg(' ');return document.MM_returnValue"><img src="images/largescalevoucherBLK.gif" name="Image29" width="117" height="32" border="0"></a><a href="casestudies-automatingaccountpayable.htm" onmouseover="MM_swapImage('Image30','','images/automatingaccountspay.gif',1);MM_timelineStop('menuoff');MM_displayStatusMsg('automating accounts payable');return document.MM_returnValue" onmouseout="MM_swapImgRestore();MM_timelineGoto('menuoff','1');MM_timelinePlay('menuoff');MM_displayStatusMsg(' ');return document.MM_returnValue"><img src="images/automatingaccountspayBLK.gif" name="Image30" width="117" height="32" border="0"></a><a href="casestudies%20-%20FServices.htm" onmouseover="MM_swapImage('Image31','','images/financialservicesdoc.gif',1);MM_timelineStop('menuoff');MM_displayStatusMsg('financial services document processing');return document.MM_returnValue" onmouseout="MM_swapImgRestore();MM_timelineGoto('menuoff','1');MM_timelinePlay('menuoff');MM_displayStatusMsg(' ');return document.MM_returnValue"><img src="images/financialservicesdocBLK.gif" name="Image31" width="117" height="32" border="0"></a><a href="casestudies%20-%20SGA.htm" onmouseout="MM_swapImgRestore();MM_timelineGoto('menuoff','1');MM_timelinePlay('menuoff');MM_displayStatusMsg(' ');return document.MM_returnValue" onmouseover="MM_swapImage('Image32','','images/smallgovtagency.gif',1);MM_timelineStop('menuoff');MM_displayStatusMsg('small government agency');return document.MM_returnValue"><img src="images/smallgovtagencyBLK.gif" name="Image32" width="117" height="21" border="0"></a><a href="casestudies%20-%20MGA.htm" onmouseover="MM_swapImage('Image33','','images/mediumsizegov.gif',1);MM_timelineStop('menuoff');MM_displayStatusMsg('medium size government agency');return document.MM_returnValue" onmouseout="MM_swapImgRestore();MM_timelineGoto('menuoff','1');MM_timelinePlay('menuoff');MM_displayStatusMsg(' ');return document.MM_returnValue"><img src="images/mediumsizegovtBLK.gif" name="Image33" width="117" height="32" border="0"></a><a href="casestudies%20-%20LMF.htm" onmouseover="MM_swapImage('Image34','','images/largemanfacturingfirm.gif',1);MM_timelineStop('menuoff');MM_displayStatusMsg('large manufacturing firm');return document.MM_returnValue" onmouseout="MM_swapImgRestore();MM_timelineGoto('menuoff','1');MM_timelinePlay('menuoff');MM_displayStatusMsg(' ');return document.MM_returnValue"><img src="images/largemanfacturingfirmBLK.gif" name="Image34" width="117" height="32" border="0"></a></div> 
-<br>
-<!-- InstanceBeginEditable name="Main" -->
-<table width="803" border="0" cellspacing="0" cellpadding="0" bgcolor="#CCCCCC">
+<body>
+<a name="top"></a>
+<table width="864" border="0" align="center" cellpadding="0" cellspacing="0">
   <tbody><tr>
-    <td width="42" height="545" valign="top">&nbsp;</td>
-    <td width="761" valign="top">
-      <table border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" width="751" height="680">
-        <tbody><tr>
-          <td valign="top" bgcolor="#CCCCCC" colspan="2" rowspan="3"><img src="images/corner1.gif" width="12" height="16"></td>
-          <td valign="top" height="4" colspan="6" bgcolor="#CC0033"><img src="images/space01.gif" width="4" height="1"><img src="images/space01.gif" width="10" height="4"></td>
-          <td valign="top" colspan="4" rowspan="4">
-            <table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
-              <tbody><tr>
-                <td width="152" valign="top" height="95">
-                  <div align="right"> <img src="images/dontangle.gif" width="153" height="95"></div>
-                </td>
-              </tr>
-            </tbody></table>
-          </td>
-          <td valign="top" colspan="2" rowspan="6" bgcolor="#CCCCCC">&nbsp;</td>
-          <td width="1"></td>
-        </tr>
-        <tr>
-          <td valign="top" bgcolor="#CCCCCC" colspan="2" rowspan="4">
-            <table width="100%" border="0" cellpadding="0" cellspacing="0" background="images/sidebackgroundwhite.gif" height="388">
-              <tbody><tr>
-                <td height="566" width="151" valign="top">
-                  <table border="0" width="144" cellspacing="0" cellpadding="0" class="secondary" height="387">
-                    <!--<tr> 
-                      <td bgcolor="#000000" colspan="3"><img src="clear.gif" width="1" height="1" border="0"></td>
-                    </tr>-->
-                    <tbody><tr>
-                      <td width="2" valign="top" rowspan="2">&nbsp;</td>
-                      <td width="137" height="5"></td>
-                      <td width="5" rowspan="2" valign="top">&nbsp;</td>
-                    </tr>
-                    <tr>
-                      <td valign="middle" height="538" class="secondary">&nbsp;</td>
-                    </tr>
-                    <!--<tr> 
-                <td width="5" height="15">&nbsp;</td>
-                <td class="SeconadryLinks" colspan="2" width="5" height="15"><img src="clear.gif" width="8" height="15"></td>
-                <td class="SeconadryLinks" height="31"><a href="CaseStudies-BPO_3.htm" class="small"><font color="#666666">Records 
-                  Storage <br>
-                  Repository</font></a></td>
-                <td width="5" height="15">&nbsp;</td>
-              </tr>
-              <tr> 
-                <td width="5" height="1"><img src="clear.gif" width="5" height="1"></td>
-                <td class="SeconadryLinks" colspan="2" width="5"><img src="clear.gif" width="5" height="1"></td>
-                <td class="SeconadryLinks" bgcolor="#000000" height="1"><img src="Bclear.gif" width="1" height="1"></td>
-                <td width="5" height="1" bgcolor="#000000"><img src="Bclear.gif" width="1" height="1"></td>
-              </tr>
-              <tr> 
-                <td width="5" height="31">&nbsp;</td>
-                <td class="SeconadryLinks" colspan="2" width="5" height="31">&nbsp;</td>
-                <td class="SeconadryLinks" height="31"><a href="CaseStudies-BPO_4.htm" class="small"><font color="#666666">Secure 
-                  Records<br>
-                  Management</font></a></td>
-                <td width="5" height="31">&nbsp;</td>
-              </tr>  -->
-                  </tbody></table>
-                </td>
-              </tr>
-              <tr>
-                <td height="5"></td>
-              </tr>
-            </tbody></table>
-          </td>
-          <td colspan="4" valign="top" bgcolor="#FFFFFF" height="10"><img src="images/space01.gif" width="20" height="10"></td>
-          <td></td>
-        </tr>
-        <tr>
-          <td valign="top" colspan="4" rowspan="2">
-            <table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
-              <tbody><tr>
-                <td valign="top" height="19" colspan="2">&nbsp;</td>
-              </tr>
-              <tr>
-                <td width="19" height="62" valign="top">&nbsp;</td>
-                <td valign="middle" width="400" class="Heading1">Privacy </td>
-              </tr>
-            </tbody></table>
-          </td>
-          <td height="2"></td>
-        </tr>
-        <tr>
-          <td valign="top" width="4" rowspan="2" bgcolor="#CC0033"><img src="images/space01.gif" width="4" height="15"></td>
-          <td width="8" valign="top" rowspan="2" bgcolor="#CCCCCC">&nbsp;</td>
-          <td height="79"></td>
-        </tr>
-        <tr>
-          <td width="9" valign="top" bgcolor="#FFFFFF" height="480">&nbsp;</td>
-          <td valign="top" colspan="2">
-            <table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" height="475">
-              <tbody><tr>
-                <td width="1" height="9"></td>
-                <td width="16" rowspan="2" valign="top"><img src="images/leftside.gif" width="16" height="377"></td>
-                <td width="371" valign="top"><img src="images/lineacross.gif" width="371" height="9"></td>
-                <td width="20" rowspan="2" valign="top"><img src="images/side.gif" width="20" height="120"></td>
-              </tr>
-              <tr>
-                <td height="471"></td>
-                <td valign="top" height="471">
-                  <table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
-                    <tbody><tr>
-                      <td height="471" width="371" valign="top" class="secondary">
-                        <p class="Heading2">Converga Respects Your Privacy
-                        </p><p class="content">Converga respects your privacy. We
-                          want to make use of individual identifying information
-                          that you provide to us for purposes of serving you
-                          better.
-                        </p><p class="content">Individual identifying information
-                          is information that enables us to identify you, such
-                          as your email address, name, title, address etc. Converga
-                          uses the individual identifying information in order
-                          to personalise your experience on our website and also
-                          to be able to selectively send you communications that
-                          may be of interest to you, either electronically or
-                          otherwise.</p>
-                        <p class="content">Converga's policy regarding use of
-                          your individual identifying information supplied to
-                          us or collected via your experience at our online website
-                          covers these areas:</p>
-                        <p class="content"><b>1. Notice and Disclosure</b><br>
-                          This Online Privacy Policy is made available to you
-                            in order to make you aware of how Converga collects
-                            and uses individual identifying information of visitors
-                            to Converga's website. </p>
-                        <p class="content">Converga collects the following information
-                          regarding visitors to our website: domain name, name,
-                          information regarding what pages are accessed, information
-                          volunteered by you, such as survey information, email
-                          address and your preferred means of communication. <br>
-                        </p><p class="content">Converga does make individual identifying
-                          information available to its business partners, for
-                          marketing purposes. Converga also uses such information
-                          to contact people for marketing purposes.</p>
-                        <p class="content"><b>2. Choice/Consent</b><br>
-                          You have the choice to opt out of having individual
-                            identifying information provided in the registration
-                            process used for any purpose unrelated to the purpose
-                            for which the information was provided to us. Access
-                            to certain parts of Converga's web pages require
-                            a login and password. The use of those web pages,
-                            and the information downloadable from those sites,
-                            may be governed by a written agreement between you
-                            and/or your employer and Converga. Your individual
-                            identifying information may be retained by Converga
-                            to verify compliance with the agreement.</p>
-                        <p class="content"> <b>3. Data Security</b><br>
-                          Converga is committed to taking reasonable steps to
-                            protect the individual identifying information that
-                            you provide to us.</p>
-                        <p class="content"><b>4. Use of Cookies</b><br>
-                          A cookie is a small data file that certain web sites
-                            write to your hard drive when you visit them. A cookie
-                            file can contain information such as a user ID that
-                            the site uses to track the pages you've visited,
-                            but the only personal information a cookie can contain
-                            is information you supply yourself. A cookie can't
-                            read data off your hard disk or read cookie files
-                            created by other sites.
-                        </p><p class="content">Some parts of Converga use cookies
-                          to track user traffic patterns. We do this in order
-                          to determine the usefulness of Converga information
-                          to our users and to see how effective our navigational
-                          structure is in helping users reach that information.
-                          Converga does not correlate this information with data
-                          about individual users, nor does it share this information
-                          or sell it to any third party. </p>
-                        <p class="content">If you prefer not to receive cookies
-                          on Converga, you can set your browser to warn you before
-                          accepting cookies and refuse the cookie when your browser
-                          alerts you to its presence. You can also refuse all
-                          cookies by turning them off in your browser. You do
-                          not need to have cookies turned on to use any area
-                          of the Converga web site.</p>
-                      </td>
-                    </tr>
-                  </tbody></table>
-                </td>
-              </tr>
-            </tbody></table>
-          </td>
-          <td valign="top" bgcolor="#FFFFFF" colspan="2"> </td>
-          <td valign="top" bgcolor="#FFFFFF" colspan="2">&nbsp;</td>
-          <td width="4" valign="top" bgcolor="#CC0033"><img src="images/spacer.gif" width="4" height="20"></td>
-          <td></td>
-        </tr>
-        <tr>
-          <td valign="top" colspan="12" height="25">
-            <table width="100%" border="0" cellpadding="0" cellspacing="0" height="29" bgcolor="#CCCCCC">
-              <tbody><tr>
-                <td width="20" valign="top" bgcolor="#CCCCCC" rowspan="2"><img src="images/corner2.gif" width="20" height="20"></td>
-                <td valign="top" height="16" width="143">
-                  <table width="105%" border="0" cellpadding="0" cellspacing="0" height="15">
-                    <tbody><tr>
-                      <td width="143" height="16" valign="top" bgcolor="#CCCCCC"><img src="images/spacer.gif" width="20" height="16"></td>
-                    </tr>
-                  </tbody></table>
-                </td>
-                <td valign="top" width="548" bgcolor="#FFFFFF"><img src="images/spacer.gif" width="20" height="16"></td>
-                <td width="24" rowspan="2" valign="top" bgcolor="#FFFFFF">
-                  <div align="right"><img src="images/corner3.gif" width="23" height="20"></div>
-                </td>
-              </tr>
-              <tr>
-                <td valign="top" height="4" bgcolor="#CC0033" colspan="2"><img src="images/space01.gif" width="20" height="4"></td>
-              </tr>
-              <tr bgcolor="#CCCCCC">
-                <td height="10" colspan="4" valign="top"><img src="images/space01.gif" width="10" height="5"></td>
-              </tr>
-            </tbody></table>
-          </td>
-          <td height="25"></td>
-        </tr>
-        <tr>
-          <td height="65" colspan="13" valign="top" bgcolor="#CCCCCC">
-            <table width="733" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr>
-                <td valign="top" height="19" width="7">&nbsp;</td>
-                <td valign="top" width="649">
-                  <link rel="stylesheet" href="ConvergaStyles-01.css" type="text/css">                  <font face="Arial, Helvetica, sans-serif" size="2"><a href="default.htm" class="plainlink">home</a> | <a href="aboutus.htm" class="plainlink">about
-                  converga</a> | <a href="solutions.htm" class="plainlink">solutions</a> | <a href="services.htm" class="plainlink">services</a> | <a href="casestudies.htm" class="plainlink">case
-                  studies</a> | <a href="contactus.asp" class="plainlink">contact
-                  us </a>| <a href="privacy.htm" class="plainlink">privacy</a> | <a href="sitemap.htm" class="plainlink">sitemap</a> | <a href="legal.htm" class="plainlink">legal</a><br>
-                  <br>
-                  <span class="Normal"><font color="#666666">All site content
-                  copyright © 2006 Converga Pty. Ltd</font></span></font> <font face="Arial, Helvetica, sans-serif" size="2">&nbsp;</font></td>
-                <td width="77"></td>
-              </tr>
-            </tbody></table>
-          </td>
-          <td width="6"></td>
-          <td></td>
-        </tr>
-        <tr>
-          <td valign="top" height="8" bgcolor="#CCCCCC"><img height="1" width="4" src="/images/spacer.gif"></td>
-          <td valign="top" bgcolor="#CCCCCC" colspan="2"><img height="8" width="16" src="/images/spacer.gif"></td>
-          <td valign="top" bgcolor="#CCCCCC" width="143"><img height="1" width="143" src="/images/spacer.gif"></td>
-          <td valign="top" bgcolor="#CCCCCC" colspan="2"><img height="8" width="16" src="/images/spacer.gif"></td>
-          <td width="401" bgcolor="#CCCCCC"></td>
-          <td valign="top" colspan="3" bgcolor="#CCCCCC"><img height="1" width="135" src="/images/spacer.gif"></td>
-          <td width="15" valign="top" bgcolor="#CCCCCC"><img height="8" width="15" src="/images/spacer.gif"></td>
-          <td valign="top" bgcolor="#CCCCCC"><img height="1" width="4" src="/images/spacer.gif"></td>
-          <td valign="top" bgcolor="#CCCCCC" width="19"><img height="1" width="19" src="/images/spacer.gif"></td>
-          <td></td>
-          <td></td>
-        </tr>
-        <tr>
-          <td height="2" bgcolor="#CCCCCC"></td>
-          <td bgcolor="#CCCCCC"></td>
-          <td width="8" bgcolor="#CCCCCC"></td>
-          <td bgcolor="#CCCCCC"></td>
-          <td bgcolor="#CCCCCC"></td>
-          <td width="7" bgcolor="#CCCCCC"></td>
-          <td bgcolor="#CCCCCC"></td>
-          <td width="2" bgcolor="#CCCCCC"></td>
-          <td width="131" bgcolor="#CCCCCC"></td>
-          <td width="3" bgcolor="#CCCCCC"></td>
-          <td bgcolor="#CCCCCC"></td>
-          <td bgcolor="#CCCCCC"></td>
-          <td bgcolor="#CCCCCC"></td>
-          <td></td>
-          <td></td>
-        </tr>
-      </tbody></table>
-    </td>
+    <td width="7" rowspan="5" background="images/left.gif"><img src="images/left.gif" width="7" height="5"></td>
+    <td width="850"><table id="Table_01" width="850" height="106" border="0" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td><a href="default.htm"><img src="images/header01.gif" alt="Converga" width="159" height="106" border="0"></a></td>
+        <td><img src="images/header02.gif" width="334" height="106" alt="Converga"></td>
+        <td><!-- InstanceBeginEditable name="Image" --><img src="images/privacy.gif" width="357" height="106" alt="Privacy policy"><!-- InstanceEndEditable --></td>
+      </tr>
+    </tbody></table></td>
+    <td width="7" rowspan="5" background="images/right.gif"><img src="images/right.gif" width="7" height="5"></td>
+  </tr>
+  <tr>
+    <td><table width="850" height="24" border="0" cellpadding="0" cellspacing="0" background="images/mm_bg.gif">
+      <tbody><tr>
+        <td><table width="507" border="0" cellpadding="0" cellspacing="0" class="menu">
+            <tbody><tr>
+              <td width="11"><img src="images/spacer.gif" alt="Converga" width="11" height="24"></td>
+              <td width="67"><a href="default.htm">Welcome</a></td>
+              <td width="4"><img src="images/mm_div.gif" alt="Converga" width="4" height="24"></td>
+              <td width="87"><div align="center"><a href="contact.html">Contact Us</a></div></td>
+              <td width="4"><img src="images/mm_div.gif" alt="Converga" width="4" height="24"></td>
+              <td width="144"><div align="center"><a href="careers/default.htm">Careers@Converga</a></div></td>
+              <td width="4"><img src="images/mm_div.gif" alt="Converga" width="4" height="24"></td>
+              <td width="94"><div align="center"><a href="http://data.converga.com.au/wraps">Client Login</a></div></td>
+              <td width="4"><img src="images/mm_div.gif" alt="Converga" width="4" height="24"></td>
+              <td width="88"><div align="center"><a href="http://intranet.converga.com.au">Staff Login</a></div></td>
+            </tr>
+          </tbody></table></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td><table width="850" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td width="184" bgcolor="#FAFAFA"><img src="images/spacer.gif" width="184" height="18"></td>
+        <td width="1" rowspan="2" valign="top" background="images/lm_div.gif"><img src="images/lm_div.gif" width="1" height="4"></td>
+        <td width="665" bgcolor="#FFFFFF"><p><img src="images/spacer.gif" width="665" height="18"></p></td>
+      </tr>
+      <tr>
+        <td valign="top" bgcolor="#FAFAFA"><!-- InstanceBeginEditable name="SubNav" -->
+          <table width="184" border="0" cellpadding="0" cellspacing="0" class="submenu">
+            <tbody><tr>
+              <td colspan="3"><img src="images/spacer.gif" width="1" height="1"></td>
+            </tr>
+            <tr>
+              <td width="18"><img src="images/spacer.gif" width="18" height="30"></td>
+              <td width="18"><img src="images/marker.gif" width="12" height="30"></td>
+              <td width="148"><a href="privacy.html">Privacy policy </a></td>
+            </tr>
+            <tr>
+              <td><img src="images/spacer.gif" width="18" height="30"></td>
+              <td>&nbsp;</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td><img src="images/spacer.gif" width="18" height="30"></td>
+              <td>&nbsp;</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td><img src="images/spacer.gif" width="9" height="18"></td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+            </tr>
+          </tbody></table>
+        <!-- InstanceEndEditable --></td>
+        <td width="665" valign="top" bgcolor="#FFFFFF"><!-- InstanceBeginEditable name="Main" -->
+          <table width="665" border="0" cellpadding="0" cellspacing="0" class="content">
+            <tbody><tr>
+              <td width="18"><img src="images/spacer.gif" width="18" height="18"></td>
+              <td width="385" valign="top"><div align="justify">
+                  <p class="covred">Privacy policy</p>
+                  <p>The Converga website is maintained by the Converga  Strategic Services Department (CSSD). This Privacy Policy applies to all the  publicly accessible pages on the Converga site located at <a href="http://www.converga.com.au">http://www.converga.com.au</a>  and to all the publicly accessible pages listed in the search results web  pages. CSSD does not have any responsibility for the privacy policies or  practices of third party sites linked to the Converga site. If you have any  questions about the Converga site, or the application of this Privacy Policy or  a request for access to information held please contact the Privacy Officer,  Converga, Level 31, BT Tower, 1 Market Street, Sydney, phone 02 9264 7200 and/or  email <a href="mailto:information@converga.com.au">information@converga.com.au</a></p>
+                  <p>Users of the Converga site are entitled to  expect that any information as a result of that use will be treated within the  terms of Converga’s privacy responsibilities and obligations. Converga’s  privacy practices are regulated by the New South Wales Privacy and Personal  Information Protection Act 1988.</p>
+                  <p><strong>What  information do we collect?</strong><br>
+                    When you look at the pages on the Converga site,  our computers automatically record information that identifies, for each page  accessed: </p>
+                  <ul>
+                    <li>the IP (Internet Protocol) address of the  machine which has accessed it;</li>
+                    <li>your top-level domain name (for example .com,  .gov, .au, .uk etc.);</li>
+                    <li>the address of your server;</li>
+                    <li>the date and time of your visit to the site;</li>
+                    <li>the pages accessed and documents downloaded;</li>
+                    <li>the previous site visited; and</li>
+                    <li>the type of browser and operating system you  have used.</li>
+                    </ul>
+                  <p><strong>How  do we use the information collected?</strong><br>
+The information collected during each visit  is aggregated with similar logged information and published in reports in order  for CSSD to identify patterns of usage of the site. This will assist us in  improving the Converga site and the services offered on it.</p>
+                  <p>CSSD will not disclose or publish  information that identifies individual machines, or potentially identifies  sub-groupings of addresses, without consent or otherwise in accordance with the  New South Wales Privacy and Personal Information Protection Act 1988.</p>
+                  <p><strong>What  exceptions are there to this rule?<br>
+                  </strong>CSSD  will collect, use and disclose more extensive information than stated above in  the following circumstances:                  </p>
+                  <ul>
+                    <li>unauthorised attempts to access files which are  not published Converga pages;</li>
+                    <li>unauthorised tampering or interference with  files published on the Converga site;</li>
+                    <li>unauthorised attempts to index the contents of  the Converga site by other sites;</li>
+                    <li>attempts to intercept messages of other users of  the Converga site;</li>
+                    <li>communications which are defamatory, abusive,  vilify individuals or groups or which give rise to a suspicion that an offence  is being committed; and</li>
+                    <li>attempts to otherwise compromise the security of  the web server, breach the laws of the State of New    South Wales or Commonwealth of  Australia, or interfere with the enjoyment of the Converga site by other users.</li>
+                    </ul>
+                  <p>CSSD reserves the right to make disclosures  to relevant authorities where the use of the Converga site raises a suspicion  that an offence is being, or has been, committed.</p>
+                  <p>In the event of an investigation, CSSD will  provide access to data to any law enforcement agency that may exercise a  warrant to inspect our logs.</p>
+                  <p><strong>Is  the information stored securely?</strong><br>
+                    Yes. Information collected is stored in an  appropriately secure format and held by CSSD for archival purposes. When the  information is no longer required for the purposes for which it was collected  it is deleted.</p>
+                  <p><strong>What  will we do with information provided in Feedback?</strong><br>
+                    CSSD provides feedback facilities on the Converga  site to allow users to provide input into the future development of the site  and to comment on the provision of service by the department.</p>
+                  <p>The provision of personal details on  feedback is optional.</p>
+                  <p>Users may provide personal details for the  purpose of receiving a reply to their feedback. This information will only be  used for the purpose for which it was provided. We will not add your email  address or name to any mailing list.</p>
+                  <p>CSSD may publish aggregated information  about feedback on the site, to the extent that it does not identify or cannot  be used to identify individual users.</p>
+                  <p><strong>Who  else has access to information within the Department?</strong><br>
+                    CSSD captures this information on its own  computers. Access to the raw data is restricted to a limited number of officers  in CSSD for the purpose of analysis and to report on the success of Converga in  meeting CSSD’s communication and access objectives. If you would like to access  information held about you by CSSD please contact the Privacy Officer, Converga,  Level 31, BT Tower, 1 Market Street, Sydney, phone 02 9264 7200 and/or email <a href="mailto:information@converga.com.au">information@converga.com.au</a></p>
+                  <p><strong>Will  this policy be updated over time?<br>
+                  </strong>Due  to the developing nature of privacy principles for online communication, this  policy may be modified or expanded in light of new developments or issues that  may arise from time to time. The amended policy will be posted to this site and  will operate from the time it is posted.                  </p>
+                  <p><a href="#top">return to top</a> </p>
+              </div></td>
+              <td width="18"><img src="images/spacer.gif" width="18" height="18"></td>
+              <td width="244" valign="top">&nbsp;</td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+            </tr>
+          </tbody></table>
+        <!-- InstanceEndEditable --></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td><table width="850" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td><img src="images/line.gif" width="850" height="1"></td>
+      </tr>
+      <tr>
+        <td height="50" valign="top" background="images/bm_bg.gif"><table width="850" border="0" cellpadding="0" cellspacing="0" class="lowermenu">
+            <tbody><tr>
+              <td width="11"><img src="images/spacer.gif" width="11" height="35"></td>
+              <td><a href="default.htm"></a><a href="default.htm">Welcome</a> | <a href="contact.html">Contact
+                Us</a> | <a href="careers/default.htm">Careers@Converga</a> | <a href="http://data.converga.com.au/wraps">Client Login</a> | <a href="https://intranet.osaust.com/">Staff Login</a> | <a href="privacy.html">Privacy
+                  policy</a></td>
+            </tr>
+        </tbody></table></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td><img src="images/line.gif" width="850" height="1"></td>
   </tr>
 </tbody></table>
-<!-- InstanceEndEditable -->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1133510-1";
+urchinTracker();
+</script>
 
 <!-- InstanceEnd -->
 </body></html>
