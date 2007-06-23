@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geotrust.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206003326id_/http%3A//www.geotrust.com/resources/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geotrust.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623032629id_/http%3A//geotrust.com/resources/legal/privacy.asp) for the most accurate reproduction.*
 
 # SSL Certificate, SSL, Server Certificates, Web Server Certificates
 
@@ -58,8 +58,6 @@ _Subscriber Information_
 
 We must also collect Personal Information from officers and other representatives of companies that subscribe to our Services and designate authorized Certificate Holders. This information may include name; corporate affiliation; job title; postal address; years at address; telephone numbers; email address; state license status and license numbers; Dun & Bradstreet number; credit card and bank account number and related billing and payment information; and IP addresses. We use this information to administer our Services, contact you in connection with your account, and to provide information about the Services or other offerings that we believe may be of interest to you. 
 
-For our True Identity product, we may also collect Social Security Number and date of birth to present dynamically generated questions based on information contained in the individual's credit report. We use, this information to develop an identity verification score. The score comprises an estimate of the likelihood that a person is the person he or she claims to be. This information is periodically deleted and is collected and transmitted in an encrypted form. 
-
 _Customer Service_
 
 We may send Service-related announcements when we believe it is necessary to do so. For instance, if our Service is temporarily unavailable, we might send you an email. Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you may terminate any Services that you receive from us. We will communicate with you in response to your inquiries, to provide the Services you request, and as we determine is necessary to manage your account. We will communicate with you by email, telephone, or postal mail, depending upon the nature and urgency of the matter. 
@@ -97,9 +95,9 @@ We maintain and process Personal Information in the United States. Accordingly, 
 
 **CHOICE/OPT-OUT**
 
-You may inform us that you do not wish to receive communications from us except as required in connection with Services that you request. If you no longer wish to receive our updates and other informational materials, you may opt out of future such communications by following the instructions included in each newsletter or communication or by sending a written mail, email, or facsimile request as listed under "Contact Us" below. To remove your address from our marketing and newsletter distribution lists, please go to http://www.geotrust.com/compref/. 
+You may inform us that you do not wish to receive communications from us except as required in connection with Services that you request. If you no longer wish to receive our updates and other informational materials, you may opt out of future such communications by following the instructions included in each newsletter or communication or by sending a written mail, email, or facsimile request as listed under "Contact Us" below. To remove your address from our marketing and newsletter distribution lists, please go to https://www.geotrust.com/compref. 
 
-We use permission-based third party email marketing services such as Reponsys, Vertical Response, salesforce.com, and Constant Contact, which allow individuals to control their receipt of marketing email messages. 
+We use permission-based third party email marketing services such as Responsys, Vertical Response, salesforce.com, and Constant Contact, which allow individuals to control their receipt of marketing email messages. 
 
 **ACCESS TO PERSONALLY IDENTIFIABLE INFORMATION**
 
