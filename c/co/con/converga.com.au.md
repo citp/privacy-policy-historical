@@ -1,32 +1,67 @@
-> *The following text is extracted and transformed from the converga.com.au privacy policy that was archived on 2006-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060820165632id_/http%3A//www.converga.com.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the converga.com.au privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623114224id_/http%3A//www.converga.com.au/privacy.html) for the most accurate reproduction.*
 
-# Converga - Privacy
+# Converga - Privacy policy
 
-Converga Respects Your Privacy 
+| 
 
-Converga respects your privacy. We want to make use of individual identifying information that you provide to us for purposes of serving you better. 
+Privacy policy
 
-Individual identifying information is information that enables us to identify you, such as your email address, name, title, address etc. Converga uses the individual identifying information in order to personalise your experience on our website and also to be able to selectively send you communications that may be of interest to you, either electronically or otherwise.
+The Converga website is maintained by the Converga Strategic Services Department (CSSD). This Privacy Policy applies to all the publicly accessible pages on the Converga site located at [http://www.converga.com.au](http://www.converga.com.au/) and to all the publicly accessible pages listed in the search results web pages. CSSD does not have any responsibility for the privacy policies or practices of third party sites linked to the Converga site. If you have any questions about the Converga site, or the application of this Privacy Policy or a request for access to information held please contact the Privacy Officer, Converga, Level 31, BT Tower, 1 Market Street, Sydney, phone 02 9264 7200 and/or email [information@converga.com.au](mailto:information@converga.com.au)
 
-Converga's policy regarding use of your individual identifying information supplied to us or collected via your experience at our online website covers these areas:
+Users of the Converga site are entitled to expect that any information as a result of that use will be treated within the terms of Converga’s privacy responsibilities and obligations. Converga’s privacy practices are regulated by the New South Wales Privacy and Personal Information Protection Act 1988.
 
-**1\. Notice and Disclosure**  
-This Online Privacy Policy is made available to you in order to make you aware of how Converga collects and uses individual identifying information of visitors to Converga's website. 
+**What information do we collect?**  
+When you look at the pages on the Converga site, our computers automatically record information that identifies, for each page accessed: 
 
-Converga collects the following information regarding visitors to our website: domain name, name, information regarding what pages are accessed, information volunteered by you, such as survey information, email address and your preferred means of communication.   
+  * the IP (Internet Protocol) address of the machine which has accessed it;
+  * your top-level domain name (for example .com, .gov, .au, .uk etc.);
+  * the address of your server;
+  * the date and time of your visit to the site;
+  * the pages accessed and documents downloaded;
+  * the previous site visited; and
+  * the type of browser and operating system you have used.
 
 
-Converga does make individual identifying information available to its business partners, for marketing purposes. Converga also uses such information to contact people for marketing purposes.
 
-**2\. Choice/Consent**  
-You have the choice to opt out of having individual identifying information provided in the registration process used for any purpose unrelated to the purpose for which the information was provided to us. Access to certain parts of Converga's web pages require a login and password. The use of those web pages, and the information downloadable from those sites, may be governed by a written agreement between you and/or your employer and Converga. Your individual identifying information may be retained by Converga to verify compliance with the agreement.
+**How do we use the information collected?**  
+The information collected during each visit is aggregated with similar logged information and published in reports in order for CSSD to identify patterns of usage of the site. This will assist us in improving the Converga site and the services offered on it.
 
-**3\. Data Security**  
-Converga is committed to taking reasonable steps to protect the individual identifying information that you provide to us.
+CSSD will not disclose or publish information that identifies individual machines, or potentially identifies sub-groupings of addresses, without consent or otherwise in accordance with the New South Wales Privacy and Personal Information Protection Act 1988.
 
-**4\. Use of Cookies**  
-A cookie is a small data file that certain web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited, but the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. 
+**What exceptions are there to this rule?  
+**CSSD will collect, use and disclose more extensive information than stated above in the following circumstances: 
 
-Some parts of Converga use cookies to track user traffic patterns. We do this in order to determine the usefulness of Converga information to our users and to see how effective our navigational structure is in helping users reach that information. Converga does not correlate this information with data about individual users, nor does it share this information or sell it to any third party. 
+  * unauthorised attempts to access files which are not published Converga pages;
+  * unauthorised tampering or interference with files published on the Converga site;
+  * unauthorised attempts to index the contents of the Converga site by other sites;
+  * attempts to intercept messages of other users of the Converga site;
+  * communications which are defamatory, abusive, vilify individuals or groups or which give rise to a suspicion that an offence is being committed; and
+  * attempts to otherwise compromise the security of the web server, breach the laws of the State of New South Wales or Commonwealth of Australia, or interfere with the enjoyment of the Converga site by other users.
 
-If you prefer not to receive cookies on Converga, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser. You do not need to have cookies turned on to use any area of the Converga web site.
+
+
+CSSD reserves the right to make disclosures to relevant authorities where the use of the Converga site raises a suspicion that an offence is being, or has been, committed.
+
+In the event of an investigation, CSSD will provide access to data to any law enforcement agency that may exercise a warrant to inspect our logs.
+
+**Is the information stored securely?**  
+Yes. Information collected is stored in an appropriately secure format and held by CSSD for archival purposes. When the information is no longer required for the purposes for which it was collected it is deleted.
+
+**What will we do with information provided in Feedback?**  
+CSSD provides feedback facilities on the Converga site to allow users to provide input into the future development of the site and to comment on the provision of service by the department.
+
+The provision of personal details on feedback is optional.
+
+Users may provide personal details for the purpose of receiving a reply to their feedback. This information will only be used for the purpose for which it was provided. We will not add your email address or name to any mailing list.
+
+CSSD may publish aggregated information about feedback on the site, to the extent that it does not identify or cannot be used to identify individual users.
+
+**Who else has access to information within the Department?**  
+CSSD captures this information on its own computers. Access to the raw data is restricted to a limited number of officers in CSSD for the purpose of analysis and to report on the success of Converga in meeting CSSD’s communication and access objectives. If you would like to access information held about you by CSSD please contact the Privacy Officer, Converga, Level 31, BT Tower, 1 Market Street, Sydney, phone 02 9264 7200 and/or email [information@converga.com.au](mailto:information@converga.com.au)
+
+**Will this policy be updated over time?  
+**Due to the developing nature of privacy principles for online communication, this policy may be modified or expanded in light of new developments or issues that may arise from time to time. The amended policy will be posted to this site and will operate from the time it is posted. 
+
+return to top
+
+|  |  
