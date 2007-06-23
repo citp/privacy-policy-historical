@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worstpreviews.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230221602id_/http%3A//www.worstpreviews.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worstpreviews.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623085157id_/http%3A//www.worstpreviews.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy at WorstPreviews™
 
