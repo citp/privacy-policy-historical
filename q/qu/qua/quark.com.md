@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quark.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113102111id_/http%3A//www.quark.com/about/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quark.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623063957id_/http%3A//www.quark.com/about/legal/privacy.html) for the most accurate reproduction.*
 
 # Quark: Privacy Policy
 
@@ -29,7 +29,7 @@ We respect the privacy of our customers and therefore have adopted the following
 
 ####  We do not: 
 
-  * Provide personal information, such as your name or address associated with your e-mail address to third parties
+  * Provide personal information, such as your name or address, without your expressed consent.
 
 
 
