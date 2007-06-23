@@ -1,191 +1,142 @@
-> *The following text is extracted and transformed from the theeagle.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204023100id_/http%3A//www.theeagle.com/legal/legal.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theeagle.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623033908id_/http%3A//www.theeagle.com/legal/privacy.php) for the most accurate reproduction.*
 
-# The Bryan-College Station Eagle-Copyright notice
+# The Bryan-College Station Eagle>Privacy Notice
 
-The Bryan-College Station Eagle Copyright Notice   
-& Privacy Statement  
+|   
+---  
+  [Home](http://www.theeagle.com/)  
+  [Today's Headlines](http://www.theeagle.com/heads_index.php)  
+  [Archives](http://www.theeagle.com/archives/archives.php)  
+  [Weather](http://www.theeagle.com/weather/)   
+  [Week in Photos](http://spotted.theeagle.com/pages/galleries.php?category=113534)   
+  [Local](http://www.theeagle.com/local/)  
+  [A&M News](http://www.theeagle.com/am/)  
+  [Schools](http://www.theeagle.com/schools/)  
+  [Texas & Region](http://www.theeagle.com/texas/)  
+  [Nation](http://www.theeagle.com/nation/)  
+  [World](http://www.theeagle.com/world/)  
+  [Politics](http://www.theeagle.com/politics/)  
+  [Business](http://www.theeagle.com/business/)  
+  [Entertainment](http://www.theeagle.com/entertainment/)  
+  [Columnists](http://www.theeagle.com/columnists/)  
+  [Opinions](http://www.theeagle.com/opinions/)  
+  [Obituaries](http://www.theeagle.com/obits/)  
+  [Agriculture](http://www.landandlivestockpost.com/)  
+  [Get news via RSS](http://www.theeagle.com/RSS/)  
+  [Get news via e-mail](http://www.theeagle.com/email/)  
+  [National/Rec Sports](http://www.theeagle.com/sports/)  
+  [A&M/Big 12 Sports](http://www.aggiesports.com/)  
+  [High School Sports](http://www.brazossports.com/)  
+  [Lifestyles](http://www.theeagle.com/lifestyles/)  
+  [Health & Fitness](http://www.theeagle.com/health/)  
+  [Faith & Values](http://www.theeagle.com/faith/)  
+  [Food](http://www.theeagle.com/food/)  
+  [Gardening](http://www.theeagle.com/gardening/)  
+  [Today in History](http://hosted.ap.org/dynamic/files/specials/today-in-history/index.html?SITE=TXBRY&SECTION=HOME)  
+  [Sudoku](http://www.uclick.com/client/cse/sudoc/)  
+  [Contests](http://www.theeagle.com/contests)  
+  [Gas Price Watch](http://blogs.theeagle.com/gasprices)  
+---  
+  [Spotted](http://www.theeagle.com/spotted/)   
+  [Events Calendar](http://www.theeagle.com/calendar/)  
+  [Announcements](http://www.theeagle.com/announcements/)  
+  [Worship Directory](http://www.theeagle.com/faith/directory.php)  
+  [Pets on Parade](http://www.theeagle.com/petsonparade/)   
+  [Senior Resource](http://www.theeagle.com/specialsections/seniorresource.htm)  
+  [Summer Fun Guide](http://www.theeagle.com/summerfun/)  
+  [Special Sections](http://www.theeagle.com/specialsections/)  
+  [Kids Corner](http://www.theeagle.com/kidskorner/)  
+  [Organizations](http://www.theeagle.com/community/organizations/)  
+  [Newspapers in  
+    Education](http://www.theeagle.com/nie/)  
+  
+[](http://www.theeagle.com/petsonparade/)
 
+[](http://www.theeagle.com/summerfun/)
 
-THE FINE PRINT   
-THE BRYAN-COLLEGE STATION EAGLE NOTICE 
+[](http://www.texasgasprices.com/index.aspx?s=Y&fuel=A&area=Bryan&area=College%20Station&station=All+Stations&tme_limit=24)  
+[ ](http://blogs.theeagle.com/gasprices)
 
-> Copyright © 1998,1999, 2000 _The Bryan-College Station Eagle_. All rights reserved. This material is for individual use only and may not be copied, republished or redistributed without the prior written consent of _The Bryan-College Station Eagle_. 
+**WEBSITE PRIVACY STATEMENT**
+
+Welcome to the website for theeagle.com (the “Site”).  This Site is owned by Evening Post Publishing Company (“Evening Post” or “us”).  We at Evening Post recognize that many visitors to our website are concerned about the information that they provide to us or that may be collected, and how we treat that information.  In order to address those concerns we have developed this Website Privacy Statement. 
+
+**A.   TYPES OF INFORMATION COLLECTED**
+
+At this website, we may collect both personally identifiable information and non-personal information from you. 
+
+> 1. **Personally identifiable information.   **You don’t have to provide us with your personally identifiable information (such as your name, address, telephone number, email address, etc.) in order to read most of what’s posted on this Site.  We may, however, collect personally identifiable information about you when you submit comments in response to one of our stories, sign up to receive information from us, open an account with us, submit a letter to the editor through the Site, enter a contest, respond to a survey, make a forum submission, email us, purchase something through the Site, or at times in which we alert you that you must submit personally identifiable information.  Without this information, we would not be able to respond to your inquiries, entries and requests.  Please also note that several features of the Site, such as classified ads and blogs, may be operated by third parties.  These third parties may also obtain personally identifiable information from you in order to use their services.  Please check their privacy policies for information about their privacy practices.  In some cases these third parties may provide your personally identifiable information to Evening Post.
 > 
-> _The Bryan-College Station Eagl_ e shall not be liable for any errors, inaccuracies, omissions or other defects in, or untimeliness or unauthenticity of, the information on theeagle.com, or for any delay or interruption in the transmission thereof to the user, or for any claims or losses arising therefrom or occasioned thereby. 
+> 2\. **Non-personal information**. Non-personal information, such as which pages on the Site are accessed, what information is downloaded, what type of browser and operating system are being used, which Internet service provider is being used, and other information of this general type may be collected about visitors to the Site.  This information does not allow us to personally identify the Site visitor.  By collecting this information we learn how best to develop our website to meet the needs and desires of our visitors.
 
-ASSOCIATED PRESS NOTICE 
+**B. METHODS OF INFORMATION COLLECTION**
 
-> Associated Press text, photos, graphics, audio and/or video materials shall not be published, broadcast, rewritten for broadcast or publication or redistributed directly or indirectly in any medium. Neither these AP Materials nor any portion thereof may be stored in a computer except for personal and non-commercial use. The AP shall not be held liable for any delays, inaccuracies, errors or omissions therefrom or in the transmission or delivery of all or any part thereof or for any damages arising from any of the foregoing. 
+> Personally identifiable information is collected when submitted by you – such as when you sign up for an account with us or when you send us an email.  Personally identifiable information may also be collected when you include it as part of a comment, letter, forum submission or blog entry that you submit to us.  Your personally identifiable information may be collected by third party service providers and then provided to Evening Post by the third party.  Non-personal information may be collected via “cookies” (small text files placed on your computer’s hard drive), “web beacons” or other technology. 
+
+**C.         HOW WE USE YOUR INFORMATION**
+
+  * **Personally identifiable information**.  If you sign up for an account with us (which is required in order to make certain submissions), then we may use your personally identifiable information to maintain your account and to correspond with you.  We may also use it to send you materials that we think would be of interest to you.  We may also provide your personally identifiable information to advertisers or others.  If you enter one of our contests, then we may use your personally identifiable information for purposes of the contest (such as to notify you if you win) and/or in accordance with the contest rules.  We may also provide your personally identifiable information to the sponsor(s) of the contest, publish information concerning the winner of the contest, and/or for any other lawful purposes.  If you e-mail us, submit a letter to us, or ask to be placed on a mailing list that we maintain, then we may contact you and send information to you.  If you register to purchase merchandise through this website, then we may use your personally identifiable information to maintain your account and/or process your order.  If we receive your personally identifiable information from a third party service provider, then we may use the information to contact you and to assist in performing the service for which you have registered with the third party.  In addition to the uses listed above, we may use your personally identifiable information to improve our marketing and promotional efforts, as part of a statistical website usage analysis, and/or to improve the features and content of this website.  We may also use your personally identifiable information to assist in delivery of content that is customized to your interests.  We do not collect personally identifiable information on an automatic basis, but we may combine non-personal information (which may be automatically collected) with your previously submitted personally identifiable information.  We may also use your personally identifiable information as set forth elsewhere in this Privacy Statement.
+
+
+  * **Non-personal information**.  We may use your non-personal information to improve our marketing and promotional efforts, as part of a statistical website usage analysis, to improve the features and content of this website, and/or for other purposes to assist our business.  We may share such information with advertisers and other third parties, typically in the aggregate.  We may also use your non-personal information as set forth elsewhere in this Privacy Statement.
+
+
+  * **Links from the Site to advertisers and other third parties**.  Please be aware that Evening Post’s advertisers, business partners, sponsors, service providers and other third parties accessible through the Site (such as via links from this Site and/or framed on this Site) may have their own privacy practices.  Evening Post is not responsible for any actions or policies of such third parties.  You should check the applicable privacy policies of the third parties when providing information to them.  These third parties may provide the personally identifiable information that they collect to Evening Post and may also use the information in accordance with their own privacy practices.  Financial institutions, such as those which process credit card orders, are subject to federal privacy laws.
+
+
+  * **Other third parties**.  During the course of its business, Evening Post uses third party service providers, such as lawyers and accountants, to perform a variety of functions.  In some instances, Evening Post may need to provide personal and/or non-personal information about you to such third parties.  However, all third party service providers which are not linked from the Site are prohibited from using your personally identifiable information for any purpose other than for which they were selected to work with Evening Post.
+
+
+  * **Public forum**.  If you submit a comment, personal ad, email, blog entry, forum entry, or similar submission, the information in your submission may be published to the general public.  Please exercise caution when making such submissions.  Please note that most such submissions are not reviewed prior to publication.  _We will not be responsible to read, respond to, or perform in accordance with any requests for privacy or confidentiality that are included with the submission or at any time_. 
+
+
+  * **Other uses**.  In addition to the uses set forth elsewhere in this Privacy Statement, Evening Post may use or disclose personal or non-personal information: (i) in cases where we believe in good faith that it is necessary to prevent a crime, an injury or financial loss to ourselves or to third parties; (ii) to protect against misuse or unauthorized use of this Site (including violation of the Terms of Use); (iii) pursuant to a court order, warrant, subpoena, discovery request, or as required by law; (iv) in conjunction with the sale or offering for sale of some or all of Evening Post; (v) in the event of Evening Post’s bankruptcy, assignment for the benefit of creditors, or similar financial circumstances; and/or (vi) when you have been made aware of the possibility of use or disclosure of the information at or prior to the time of collection.
+
+
+
+**D.   OUR COMMITMENT TO SECURITY**
+
+> We have put in place physical, electronic, and managerial procedures that we believe are appropriate to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.  Please note that we cannot guarantee the security of our databases or Site, nor can we guarantee that information will not be intercepted while being transmitted over the Internet.  In order to use some of the features of this Site, you may be required to create an account with us.  For your protection, this account will only be accessible by means of a password or similar security measure.  If you believe that your password or email address has been compromised, you should change your account with us immediately.  If you forget your password, follow the instructions on the login page. 
+
+**E.   CHILDREN**
+
+> Evening Post does not knowingly collect personal information from children under the age of 13 through this Site unless such collection is done in accordance with the law.  If you are a child under the age of 13 that intends to submit information to Evening Post through this Site, you must obtain your parent’s consent _prior_ to making such a submission.  In the event that Evening Post obtains actual knowledge that you are a child under the age of 13, Evening Post may require that you (and/or your parent) prove to us your prior parental consent.  Even if you are 13 or over, we recommend that all children under the age of 18 obtain parental consent prior to the submission or purchase of anything through this Site. 
 > 
-> All Associated Press content is © 2000, Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
+>   * **ACCESS TO YOUR PERSONAL INFORMATION AND “OPT OUT” PROCEDURES**
+> 
 
-REQUESTING PERMISSION TO REPRINT CONTENT FROM THE BRYAN-COLLEGE STATION EAGLE 
+> 
+> You may change your online account information with Evening Post by accessing your account through the Site (if you forgot your password, follow the instructions on the login page).  If you would like to access or change any other personal information that we have collected, or would like to “opt out” of our collection, retention or disclosure of any other information, please email us at [privacy@eveningpostdigital.com](mailto:privacy@eveningpostdigital.com) or contact us at the address set forth below.  Subject to Evening Post’s protection of itself and others, disclosures for legal reasons, and our current technological capabilities, we may be able to assist you.  Please keep in mind that to protect your privacy and security, we may take reasonable steps to verify your identity before granting you access to any personally identifiable information or “opt out” capabilities.  To change the information that you submitted to third party service providers, such as in conjunction with personal ads, classified ads or blogs, please contact the service provider.  Their policies will dictate the extent to which you can access or change the information that they have collected about you. 
 
-All content of theeagle.com is ©1998, _1999, 2000 The Bryan-College Station Eagle_. So, to reproduce or reprint any part of _theeagle.com_ or _The Bryan-College Station Eagle_ , you must submit your request in writing before you use it. 
+**G.   PARENTAL OPTIONS AND REVIEW**
 
-Here's what it should specify: 
+>             Parents of children under the age of 13 have the option to agree to the collection and use of their child’s personal information without consenting to the disclosure of the information to third parties (subject to Evening Post’s protection of itself and others, disclosures for legal reasons, and Evening Post’s current technological capabilities).  In addition, parents can review the personal information provided by their child under the age of 13, ask to have it deleted and refuse to allow any further collection or use of the child’s information (subject to the same items as above).  In order to make these requests, parents should follow the “Opt Out” procedures set forth in the “Access to Your Personal Information and ‘Opt Out’ Procedures” section of this Privacy Statement.  Please note that, while this Site will not require more information from children under 13 than is reasonably necessary to participate in any activity or event, deletion of required information (such as information that would permit Evening Post to contact the winner of a contest) may result in termination of the child’s participation in an event or activity.  Parents should also note that the official rules for contests and promotions on this website may contain additional information related to their children’s privacy and the parents’ rights and responsibilities.
 
-The story you want to reproduce  
-The date it was published   
-The headline  
-The writer's name   
-How you intend to use it 
+**H. CHANGES TO THIS PRIVACY STATEMENT**
 
-Requests may be mailed to: 
+> This Privacy Statement may be changed from time to time, so we encourage you to check back with every visit to the Site. If you do not agree to one or more of the changes, you may choose to “opt out,” using the procedures set forth above.  Once the change has been made, all information collected by the Site before or after the change will be subject to the new terms of the Privacy Statement.  The current version of this Privacy Statement is effective January 9, 2007. 
 
-Director of New Media  
-The Bryan-College Station Eagle   
-P.O. Box 3000   
-Bryan, Texas 77805  
-[directornewmedia@theeagle.com](mailto:directornewmedia@theeagle.com)
+**I.   TO CONTACT US**
 
-Expect a written response within five working days after we receive your request. 
+> 1.  For general privacy inquiries, please contact us at [privacy@eveningpostdigital.com](mailto:privacy@eveningpostdigital.com). 
+> 
+> 2\. Parents of children under 13 seeking to access or change personally identifiable information that has been collected about their children through this Site, or to submit parental consent forms, please contact us at:
+> 
+> Website Privacy Issues
+> 
+> c/o Administrator
+> 
+> Evening Post Digital  
+>  134 Columbus Street
+> 
+> Charleston, SC 29403
+> 
+> Ph: (843) 577-7111
+> 
+> Email:  [privacy@eveningpostidigital.com](mailto:privacy@eveningpostidigital.com)
+> 
+> Evening Post may have several operators collecting or maintaining personal information.  The operator that is responsible for responding to privacy inquiries is Ward Lassoe.  His address is listed above.  Third parties accessible through this Site may have their own such operators.
 
-* * *
+Copyright © 2007, Evening Post Publishing Company.  All rights reserved.
 
-**BELO INTERACTIVE PRIVACY POLICY**  
-
-
-This Privacy Policy discloses the general privacy practices for  
-www.belointeractive.com.  
-
-
-Belo Interactive is committed to respecting the privacy rights of  
-visitors to any of the Belo Interactive web sites. While visiting Belo  
-Interactive web sites (collectively, the "Site"), we may ask you to  
-register and/or provide information that personally identifies you  
-("Personal Information") for purposes of interacting with the Site. To  
-further the protection of your Personal Information, Belo Interactive  
-has adopted a set of information management guidelines (outlined below)  
-which serve as the basis for our customer and advertiser relationships.  
-
-
-These guidelines have been developed with the recognition that Internet  
-technologies are rapidly evolving, and that underlying business models  
-are still not established. Accordingly, guidelines are subject to  
-change. Any such changes will be posted on this page. Please see the  
-Effective Date stated at the conclusion of this Policy.  
-
-
-**Information Collected:**  
-
-
-**What are Cookies?** There is a technology called "cookies" which can be  
-used to provide you with tailored information from a web site. A cookie  
-is an element of data that a web site can send to your browser, which  
-may then be stored on your system. This element of data is a piece of  
-text, not a program. The Site can only access the information from a  
-cookie sent by the Site. We cannot access other cookies sent by other  
-web sites or the information contained therein. Additionally, we cannot  
-learn your email address or any other information about you through the  
-use of a cookie. The only way we would learn such information is if you  
-specifically submit that information to us, for example, through our  
-registration system, by entering a sweepstakes or promotion, etc.  
-
-
-**Why do the Belo Sites use cookies?** Belo Interactive uses cookies to  
-track usage of the Site and further customize your experience when you  
-are visiting the Site. By tracking usage, we can best determine what  
-features of the Site best serve the users. We never give out  
-information to others about individual usage. However, we do provide  
-our advertisers with aggregate information about our users, such as  
-"2,000 people viewed your ad today."  
-
-
-**May I decline to accept a cookie?** On those pages of the Site that do  
-not require registration, you may decline to accept cookies sent by the  
-Site by selecting an option on your browser to reject cookies. However,  
-some portions of the Site may require registration in order to access  
-those areas. In such case, we ask that you register and provide us with  
-basic information on our registration page. Cookies enable our server  
-to know that you are a registered user; therefore, our registration  
-system requires that you accept the cookies from the Sites. Other sites  
-linked to the Site may also send cookies; however we do not control such  
-activities.  
-
-
-**What benefits do I receive from cookies?** Overall, the use of cookies  
-helps to give you a customized experience at the Site. Through the use  
-of cookies, we‚ll know what‚s working and what‚s not. That information  
-is then used to keep our Site fresh and relevant to you the user.  
-Cookies also allow you to avoid retyping your user id each time you  
-access the Site, as well as personalize any online services we provide  
-to you.  
-
-
-**What happens with the information collected in a cookie?** We use an  
-advertising server developed by a third party to display ads on the  
-Site. Some of these ads may contain cookies that are set by third  
-parties (i.e. advertising agencies or advertising clients). We do not  
-have access to these cookies or any information that they may contain;  
-please contact the advertiser for more information on these cookies.  
-
-
-**IP Addresses** : Belo Interactive does log IP addresses, or the location of  
-your computer on the Internet, for systems administration and  
-troubleshooting purposes.  
-
-
-**Use of Personal Information  
-**
-
-Belo Interactive may match aggregated user information with third party  
-data. Also, Belo Interactive discloses aggregated user statistics in  
-order to describe our services to potential advertisers, partners and  
-other third parties, and for other lawful purposes. Additionally, Belo  
-Interactive will use reasonable efforts to ensure that only our  
-employees with a "need to know" will have access to your information.  
-We do not release personal information about you as an individual to  
-third parties.  
-
-
-It should be noted, however, that this Privacy Policy only addresses the  
-use and dissemination of information that we collect from you. To the  
-extent that you disclose any information to other parties, whether  
-through, for example, on-line auctions, chat rooms, personal ads, or the  
-like, or through other web sites throughout the Internet, different  
-policies may apply. Since Belo Interactive does not control the privacy  
-policies of third parties, you are subject to the privacy customs and  
-policies, if any, of that third party, and Belo Interactive shall not be  
-responsible for the use or dissemination of your private information by  
-that third party. Therefore, we encourage you to ask questions before  
-you disclose your personal information to others.  
-Links to Other Materials  
-
-
-If any link is offered connecting you to a third party web site, it is  
-as an accommodation to the respective third party site owner and without  
-charge. Third party sites linked to and from the Site are not  
-necessarily under the control of Belo Interactive. Belo Interactive  
-shall have no responsibilities or liabilities whatsoever for the content  
-or privacy practices of any such linked site or any link or linking  
-program at any time. Belo Interactive does not necessarily endorse  
-companies (or related products or services) to or from which the Site is  
-linked. If you decide to access any of the third party sites linked to  
-the Site, you do so entirely at your own risk. Belo Interactive hereby  
-disclaims any rights to trademarks, service marks, trade names, logos,  
-copyrights, patents, domain names or other intellectual property  
-interests of third parties.  
-
-
-**Children's Privacy**  
-
-
-Belo Interactive cares about the safety of children and their use of the  
-Internet. Therefore, in accordance with the Children's Online Privacy  
-Protection Act of 1998, we will never knowingly request or solicit  
-personally identifiable information from anyone under the age of 13  
-without prior verifiable parental consent. In the event that we receive  
-actual knowledge that we have collected such personal information  
-without the requisite and verifiable parental consent, we will delete  
-that information from our database as quickly as is practical.  
-
-
-**Effective Date and Changes**  
-
-
-This Privacy Policy is effective as of April 11, 2000. Belo Interactive  
-reserves the right to modify the terms of this policy at any time and in  
-our sole discretion, by posting a change notice to this page. Your  
-continued use of the Site following our posting of a change notice will  
-constitute binding acceptance of those changes.
+>  
