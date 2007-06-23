@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicteachershelper.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206224849id_/http%3A//www.musicteachershelper.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicteachershelper.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623055258id_/http%3A//www.musicteachershelper.com/privacy) for the most accurate reproduction.*
 
 # Music Teacher's Helper is the Easiest Way to Manage your Teaching Studio
 
