@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the petcarerx.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221132259id_/http%3A//www.petcarerx.com/GenInfo.asp%3Fupi%3D0%26ezid%3DK7FSXKSRG0UG8HR6VG82Q3E4JKFWDVH7%26upgt%3D301) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petcarerx.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624010238id_/http%3A//www.petcarerx.com/PCareRX/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# PetCareRx.com: online pet pharmacy and supplies. - Privacy and Security
+# PetCareRx
 
 PetCareRx.com is completely dedicated to protecting your privacy and the information you give us.
 
@@ -19,7 +19,7 @@ Ask the Vet
 PetCareRx.com makes the Ask the Vet message boards available to all its users. Please note that any information you disclose in these areas becomes public. Always be sure to exercise caution in any public forum.
 
 Email   
-We give you the freedom to remove yourself from our email list at any time. We know just how frustrating it can be to receive “junk” emails you no longer want. At any time, you can choose not to be included on our email list. Simply click on "My Account," and click on "Edit My Profile." You can then deselect the "Send promotions to my email address" option.
+We give you the freedom to remove yourself from our email list at any time. We know just how frustrating it can be to receive â€œjunkâ€ emails you no longer want. At any time, you can choose not to be included on our email list. Simply click on "My Account," and click on "Edit My Profile." You can then deselect the "Send promotions to my email address" option.
 
 Questions?  
 If you have any questions, please do not hesitate to contact us. We are always searching for ways to serve you better. We want you to have complete confidence in shopping with us and we are intent on providing every added level of security to ease your concerns. 
