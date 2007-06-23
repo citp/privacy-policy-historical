@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the holidayiq.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231081223id_/http%3A//www.holidayiq.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidayiq.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623033001id_/http%3A//www.holidayiq.com/privacypolicy.php) for the most accurate reproduction.*
 
-# Holiday IQ | Home
+# HolidayIQ | Home
 
-This Policy covers the treatment of personally identifiable information collected by Holiday IQ ("HIQ"), a division of Leisure and Lifestyle Information Services Private Limited (the "Company"), when you access the website of HIQ or the Company. This policy does not apply to any entity not owned or controlled by the Company. This Policy may not be applicable to any information provided by you or on your behalf to HIQ or the Company in any other context. By accessing the HIQ website or any website of the Company, you are consenting to the information collection and use practices described in this Policy.Collection of identifiable information
+This Policy covers the treatment of personally identifiable information collected by HolidayIQ ("HIQ"), a division of Leisure and Lifestyle Information Services Private Limited (the "Company"), when you access the website of HIQ or the Company. This policy does not apply to any entity not owned or controlled by the Company. This Policy may not be applicable to any information provided by you or on your behalf to HIQ or the Company in any other context. By accessing the HIQ website or any website of the Company, you are consenting to the information collection and use practices described in this Policy.Collection of identifiable information
 
 We will collect information from you if you choose to register for certain services provided by HIQ or the Company. The following specific information will be sought by us when requesting information about you: Name, Age/Date of Birth, Gender, Marital Status, Anniversary, Occupation, E-mail address, Holiday Preferences.
 
-HIQ uses the personal information collected from you for two general purposes: to fulfill your requests for certain information, products and services; and to contact you about the latest about Holiday IQ.
+HIQ uses the personal information collected from you for two general purposes: to fulfill your requests for certain information, products and services; and to contact you about the latest about HolidayIQ.
 
 Collection of non-identifiable information
 
@@ -44,6 +44,6 @@ Amendment of this policy
 
 HIQ and/or the Company may from time to time amend this policy. When this policy is so amended, the last date of such amendment shall be indicated on this policy under the legend "Revised on ____". In the event the amendment of this policy results in an enlargement of the scope of permitted disclosures of personally identifiable information, we shall obtain your consent before such disclosure.
 
-If you have questions about our privacy statement or our use of your information, or if you need help changing the information provided to us, please contact us by [clicking here](https://web.archive.org/web/20061231081223id_/http%3A//www.holidayiq.com/contactus.php):
+If you have questions about our privacy statement or our use of your information, or if you need help changing the information provided to us, please contact us by [clicking here](https://web.archive.org/web/20070623033001id_/http%3A//www.holidayiq.com/contactus.php):
 
 If you do not wish to receive any further information about us, our products and our services, please [click here](http://www.holidayiq.com/unsubscribe.php) to unsubscribe.
