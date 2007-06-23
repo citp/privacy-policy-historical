@@ -1,14 +1,16 @@
-<!--The following is the downloaded HTML source of the veeam.com privacy policy that was archived on 2006-10-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061016085954id_/http%3A//www.veeam.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the veeam.com privacy policy that was archived on 2007-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070623024148id_/http%3A//www.veeam.com/privacy.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
 
-<title>Veeam – tools for VMware virtual machines management</title>
-<meta name="keywords" content="Veeam, Vmware, monitor, scanner, monitoring, virtualization, virtual, report, virtualization structure, virtual server, VMware Server, VMware Workstation, virtual machine">
-<meta name="description" content="Veeam creates products for VMware virtual machines management. Current products help to understand and manage the virtual infrastructure based on VMware Solutions">
+<title>Veeam - tools for VMware virtual machines management</title>
 
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
 <link href="/main.css" rel="stylesheet" type="text/css">
+
+<link href="/engine/dropdowntab.css" rel="stylesheet" type="text/css"> <!-- DROPDOWN CSS INCLUDE HERE -->
+<script type="text/javascript" src="/engine/dropdowntab.js"></script>    <!-- DROPDOWN SCRIPT INCLUDE HERE -->
+
 <script type="text/JavaScript">
 <!--
 function MM_findObj(n, d) { //v4.01
@@ -23,40 +25,87 @@ function MM_validateForm() { //v4.0
   var i,p,q,nm,test,Label,num,min,max,errors='',args=MM_validateForm.arguments;
   for (i=0; i<(args.length-2); i+=4) { test=args[i+2]; Label=args[i+3]; val=MM_findObj(args[i]);
     if (val) { nm=val.name; if ((val=val.value)!="") {
-      if (test.indexOf('isEmail')!=-1) { p=val.indexOf('@');
-        if (p<1 || p==(val.length-1)) errors+='- '+Label+' must contain an e-mail address.\n';
+      if (test.indexOf('isEmail')!=-1) {
+      	if(/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(val)!= true){
+ 			errors+='- '+Label+' invalid email address.\n';
+		}
       } else if (test!='R') { num = parseFloat(val);
         if (isNaN(val)) errors+='- '+Label+' must contain a number.\n';
         if (test.indexOf('inRange') != -1) { p=test.indexOf(':');
           min=test.substring(8,p); max=test.substring(p+1);
           if (num<min || max<num) errors+='- '+Label+' must contain a number between '+min+' and '+max+'.\n';
-    } } } else if (test.charAt(0) == 'R') errors += '- '+Label+' is required.\n'; }
+    	}
+	 }
+	}
+	else if (test.charAt(0) == 'R')
+		if (test.indexOf('isZip')!=-1) {
+			  var iCountry = "document.step2.country";
+			  eval("var iSel = "+iCountry+".selectedIndex;");
+			  if(iSel == "1" || iSel == "2" || iSel == "39")
+			errors += '- '+Label+' is required.\n';
+		}
+		else{
+			errors += '- '+Label+' is required.\n';
+		}
+	}
   } if (errors) alert('The following error(s) occurred:\n'+errors);
   document.MM_returnValue = (errors == '');
 }
 
+
+
 //-->
 </script></head>
 
-<body>
-<table cellpadding="0" cellspacing="0" class="main">
+<body onload="javascript:tabdropdown.initializetabmenu('shademenu');">
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-154008-5";
+urchinTracker();
+</script>
+
+<table cellpadding="0" cellspacing="0" class="main" height="100%" border="0">
   <tbody><tr class="main">
-    <td class="main">
-		<table align="center" cellpadding="0" cellspacing="0" class="content">
+	<td class="ear">&nbsp;</td>
+    <td class="main" style="width:50%;"><div align="center">
+		<div id="dropmenuProducts" class="dropmenudiv">
+<!--	<a class="diver">Products for ESX</a> -->
+	<a href="/veeam_reporter.asp">Veeam Reporter</a>
+    <a href="/veeam_fast_scp.asp">Veeam FastSCP</a>
+	<a href="/veeam_monitor.asp">Veeam Monitor</a>
+<!--	<a class="diver">Free utilities</a> -->
+	<a href="/root_access/">Veeam RootAccess <small>(free)</small></a>
+	<a href="/veeam_reporter_stencil.asp">Veeam Stencils <small>(free)</small></a>
+<!--	<div></div>-->
+</div><div id="dropmenuSupport" class="dropmenudiv">
+	<a href="/support.asp">Support &amp; feedback form</a>
+	<a href="/download/veeam_discussion_forums_support_vmware.asp">Forum</a>
+</div><div id="dropmenuPartners" class="dropmenudiv">
+	<a href="/partners/lic_forall.asp">Consultants</a>
+	<a href="/partners/Default.asp?act=reg">Registration</a>
+	<a href="/partners/">Partner login</a>
+</div><div id="dropmenuCompany" class="dropmenudiv">
+	<a href="/Company.asp">About</a>
+	<a href="/press.asp">Press coverage</a>
+	<a href="/release.asp">News release</a>
+	<a href="/contacts.asp">Contacts</a>
+</div><table cellpadding="0" cellspacing="0" class="content" bgcolor="#FFFFFF" border="0" style="margin:0px 30px 0px 30px;">
 		  <tbody><tr>
-			<td height="12"><img src="/images/veeam.gif" width="1" height="12"></td>
+		  		<td height="12"><img src="/images/veeam.gif" width="1" height="12"></td>
 		  </tr>
 		  <tr>
 			<td>
 				<table width="100%" border="0" cellspacing="0" cellpadding="0">
 				  <tbody><tr>
 					<td rowspan="2" width="126" height="29"><a href="/default.asp"><img src="/images/logo.gif" alt="Logo" width="126" height="29" border="0"></a></td>
-					<td rowspan="2"><div align="center"><img src="/images/slogan.gif" width="505" height="30"></div></td>
+					<td rowspan="2"><div align="center" style=" width:505px; height:30px;"><h1 class="topslogan">Best-of-breed Solutions for VM Infrastructure Management</h1></div></td>
 					<td height="4"><img src="/images/veeam.gif" width="1" height="4"></td>
 				  </tr>
 				  <tr>
 					<td>
-						<div align="right"><a href="/download_all.asp" title="Download"><img src="/images/download.gif" alt="Download" width="64" height="19" border="0"></a>&nbsp;<a href="/buy.asp" title="Buy"><img src="/images/buy.gif" alt="Buy" width="45" height="19" border="0"></a></div>
+						<div align="right"><a href="/download/download_free_trial_veeam_products.asp" title="Download"><img src="/images/download.gif" alt="Download" width="64" height="19" border="0"></a>&nbsp;<a href="/buy.asp" title="Buy"><img src="/images/buy.gif" alt="Buy" width="45" height="19" border="0"></a></div>
 						</td>
 				  </tr>
 				</tbody></table>
@@ -67,25 +116,36 @@ function MM_validateForm() { //v4.0
 		  </tr>
 		  <tr>
 			<td class="menu">
-				<table width="100%" border="0" cellspacing="0" cellpadding="0">
-				  <tbody><tr>
-					<td width="100" class="menu"><a href="/default.asp" class="menu" title="home">home</a></td>
-					<td width="100" class="menu"><a href="/products.asp" class="menu" title="products">products</a></td>
-					<td width="100" class="menu"><a href="/support.asp" class="menu" title="support">support</a></td>
-					<td width="100" class="menu"><a href="/company.asp" class="menu" title="company">company</a></td>
-					<td>&nbsp;</td>
-				  </tr>
-				</tbody></table>
+			  	<div id="shademenu" class="shadetabs">
+			  		<ul>
+						<li width="100px"><a class="menu" href="/default.asp" title="">Home</a></li>
+						<li width="100px"><a class="menu" href="/products.asp" rel="dropmenuProducts" title="">Products</a></li>
+						<li width="100px"><a class="menu" href="/support.asp" rel="dropmenuSupport" title="">Support</a></li>
+						<li width="100px"><a class="menu" href="/partners/lic_forall.asp" rel="dropmenuPartners" title="">Partners</a></li>
+						<li width="100px"><a class="menu" href="/company.asp" rel="dropmenuCompany" title="">Company</a></li>
+					</ul>
+				</div>
 			</td>
 		  </tr>
 		  <tr>
 			<td height="13"><img src="/images/veeam.gif" width="1" height="13"></td>
 		  </tr>
 
+<!--Product drop down menu -->
+
+
+<!--Support drop down menu -->
+
+
+<!--Partners drop down menu -->
+
+
+<!--Company drop down menu -->
+
 		  <tr>
 			<td><table width="100%" border="0" cellspacing="0" cellpadding="0">
               <tbody><tr>
-                <td width="535" height="40"><img src="images/ins.jpg" alt="people" width="535" height="40"></td>
+                <td width="535" height="40"><img src="images/ins.jpg" alt="people" width="550" height="40"></td>
                 <td class="page_header" height="40" width="534">Privacy Policy</td>
               </tr>
             </tbody></table></td>
@@ -152,22 +212,25 @@ To help us improve our privacy policy, please <a href="/support.asp">give us</a>
 				</tbody></table>
 
 			</td>
-		  </tr>
+		  </tr>			  <tr>
+			<td height="19" style="border-bottom: 1px #a5a698 solid;"><img src="/images/veeam.gif" width="1" height="19"></td>
+			  </tr>
+					</tbody></table></div>
+
+			</td>
+		    <td class="ear">&nbsp;</td></tr>
 		  <tr>
-			<td height="19"><img src="images/veeam.gif" width="1" height="19"></td>
+			<td class="bottom_line">&nbsp;</td>
+			<td class="bottom_line">
+			
+			<table cellpadding="0" cellspacing="0" border="0"><tbody><tr>
+			<td width="15px" height="7px"><img width="15" height="7" src="/images/bottom.png"></td>
+			<td bgcolor="#FFFFFF" width="100%"></td>
+			<td width="15px" height="7px"><img width="15" height="7" src="/images/bottom_r.png"></td></tr></tbody></table>
+			
+			<a class="menu" style="background-color:#737373; font-size:11px;margin-top:9px">All rights reserved. © 2007 Veeam. </a>&nbsp;<a class="menu" style="background-color:#737373; font-size:11px;margin-top:9px" href="privacy.asp">Read Privacy Policy.</a>&nbsp;&nbsp;</td><td class="bottom_line">&nbsp;</td>
 		  </tr>
-		  <tr>
-			<td class="bottom_line"><img src="images/veeam.gif" width="1" height="6"></td>
-		  </tr>
-		  <tr>
-			<td height="4"><img src="images/veeam.gif" width="1" height="4"></td>
-		  </tr>
-		  <tr>
-			<td class="copyright">All rights reserved. © 2006 Veeam. <a class="green" href="privacy.asp">Read Privacy Policy.</a></td>
-		  </tr>
-		</tbody></table>
-	</td>
-  </tr>
+
 </tbody></table>
 
 </body></html>
