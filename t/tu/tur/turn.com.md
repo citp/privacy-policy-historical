@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the turn.com privacy policy that was archived on 2006-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061104212536id_/http%3A//turn.com/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turn.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624002546id_/http%3A//www.turn.com/corp/about/privacy-policy.jsp) for the most accurate reproduction.*
 
-# TURN | The uniquely relevant ad network
+# TURN | Privacy Policy
 
 **This Privacy Policy is effective as of June 16th, 2006**
 
@@ -88,7 +88,4 @@ If you have any questions about this Privacy Policy or the practices of this Sit
 
 Copyright © 2006 Turn Inc.
 
-back to top
-
-  
-
+^ back to top
