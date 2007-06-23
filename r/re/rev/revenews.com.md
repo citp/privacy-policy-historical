@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revenews.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205230052id_/http%3A//www.revenews.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revenews.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623073548id_/http%3A//revenews.com/privacy.html) for the most accurate reproduction.*
 
 # ReveNews Privacy Policy, Online Revenue News & Opinions Since 1998
 
@@ -33,7 +33,7 @@ If we decide to change our privacy policy, we will post those changes on our hom
 Contact Us  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at: feedback@revenews.com 
 
-Read ReveNews [Terms Of Use](https://web.archive.org/web/20061205230052id_/http%3A//www.revenews.com/terms.html). 
+Read ReveNews [Terms Of Use](https://web.archive.org/web/20070623073548id_/http%3A//revenews.com/terms.html). 
 
 "The breadth of coverage, spanning the key elements of online marketing to traditional marketing, makes ReveNews required daily reading for me. It is a direct connection to the industry's thought-leaders, who invite readers to explore the innermost workings of their professional realms in their own words."  
 \- **Jen O'Neal, Marketing Manager,[StubHub](http://www.stubhub.com/).**
