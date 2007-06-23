@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wormly.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211101553id_/http%3A//www.wormly.com/help/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wormly.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623055344id_/http%3A//www.wormly.com/help/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Wormly
 
@@ -47,12 +47,20 @@ All communications within this distributed server infrastructure are secured usi
 
 ## See Also
 
-  * [Referral Program](https://web.archive.org/help/about/affiliates)
+  * [About Wormly](https://web.archive.org/help/about/about-us)
   * [Why Choose Wormly?](https://web.archive.org/help/about/why-us)
-  * [Spotlight – ValuableNames.com](https://web.archive.org/help/about/case-study-vn)
+  * [Referral Program](https://web.archive.org/help/about/affiliates)
   * [Terms of Service](https://web.archive.org/help/about/terms-of-service)
 
 
+
+## Solution Spotlight
+
+[](https://web.archive.org/help/case-studies/case-study-sitepoint)
+
+Mark Harbottle from SitePoint said:
+
+“ _We chose Wormly because website uptime is crucial to our business … A slow or unreachable website translates directly into revenue lost._ ” [Read on »](https://web.archive.org/help/case-studies/case-study-sitepoint)
 
 ## About Wormly
 
@@ -62,12 +70,4 @@ All communications within this distributed server infrastructure are secured usi
 
 **Be Proactive**. Performance monitoring reveals problems before they cause downtime.
 
-**It's Free**. Monitor 5 websites free, and enjoy pricing from [just $2 a month](https://web.archive.org/pricing) after that.
-
-## Customer Spotlight
-
-Jason Donald from **Valuable Names.com** says:
-
-“ _We need to squeeze every ounce of performance out of our servers - Wormly helps us locate and eliminate bottlenecks saving us money._ ” [Read on »](https://web.archive.org/help/about/case-study-vn)
-
-[Try it out now »](https://web.archive.org/join)
+**Exceptional Value**. With feature packed plans from [just $7 a month](https://web.archive.org/plans) you can afford the peace of mind that a professional uptime monitoring solution delivers.
