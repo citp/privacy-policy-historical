@@ -1,57 +1,50 @@
-> *The following text is extracted and transformed from the prufoxroach.com privacy policy that was archived on 2002-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020802015041id_/http%3A//www.prufoxroach.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prufoxroach.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624000440id_/http%3A//prufoxroach.com/privacyterms.cfm) for the most accurate reproduction.*
 
-# Prudential Fox & Roach Realtors - Privacy Statement
+# Prudential Fox & Roach, REALTORS
 
-PRUDENTIAL FOX ROACH REALTORS is strongly committed to your right to privacy and to keeping your personal and financial information secure. To earn your trust and confidence in our commitment, we are fully disclosing our privacy practices. 
+## Privacy Policy 
 
-Our policy discloses: 
-
-  1. What personally identifiable information we collect and how it is used
-  2. Other general information we collect and how it is used
-  3. With whom your information is shared
-  4. How we ensure that your personally identifiable information is secured
-
-
-
-* * *
-
+**Our Commitment to Privacy**  
   
-What Personally Identifiable Information We Collect and How it is Used  
-PRUDENTIAL FOX ROACH REALTORS only collects the necessary personally identifiable information in order to respond to your requests for our customized products and services. Personally identifiable information includes, but is not limited to, first and last name, physical address, zip code, email address, phone number, social security number, birth date, and any other information that itself identifies or when tied to the above information, may identify you as a specific individual. You will be requested to provide personally identifiable information for: 
+Our Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our clients and partners. The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. This statement will be continuously assessed against new technologies, business practices and our customers' needs. 
 
-_Requests for Relocation packages_ – we collect your name, address, phone number, fax number and email address and request your employer, employer's address and phone number as well as special needs and areas of interest. 
-
-_Contact Us_ \- we collect your name, address, phone number, fax number and email address and request your employer, employer's address and phone number as well as special needs and areas of interest.   
-We do not require consumers to input personally identifiable information to receive basic site services such as the use of the Mortgage Calculator. We do not request prospect information – information about one person that is submitted by someone else. 
-
-* * *
-
+**What Information Do We Collect?**  
   
-Other General Information We Collect and How it is Used  
-When you visit PRUDENTIAL FOX ROACH Realtor's site, our systems log some basic and anonymous information about your computer for routine web site maintenance, including: 
+When you visit our Web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site. 
 
-  * IP address (your computer's unique signature) 
-  * Operating system (e.g., Windows 95) 
-  * Browser software (e.g., Microsoft Internet Explorer, Netscape) 
-
-**Cookies**  
-When we built the PRUDENTIAL FOX ROACH REALTORS site, we decided not to use cookies, so that consumers would never have to worry about the possibility of personal information stored on their computer hard drives being inadvertently misdirected or misused. 
-
-* * *
-
+**1\. Personal Information You Choose to Provide**  
   
-With Whom Your Information is Shared  
-The information you provide is stored in our databases and processed by PRUDENTIAL FOX ROACH REALTOR's employees. A PRUDENTIAL FOX ROACH REALTORS employee will contact you to confirm receipt of your request and, where appropriate, send you additional documents, via postal mail 
-
-**Customer Research**  
-We routinely contact our customers via email or telephone to gain information which will help us to better understand your needs. These surveys are optional. PRUDENTIAL FOX ROACH REALTORS values the time it takes to share your opinions and understands if you choose not to participate. If you wish to opt-out of receiving any future correspondence including new listings and promotions that may benefit you, you may do so by contacting PRUDENTIAL FOX ROACH REALTORS. 
-
-Unless compelled by warrant or subpoena, we do not disclose, sell or rent customer information to any third party and you will not receive unauthorized communications from any company that has obtained information from PRUDENTIAL FOX ROACH REALTORS about you. 
-
-* * *
-
+For example, you may need to provide the following information:  
   
-How We Ensure that your Personally Identifiable Information is Secured  
-In order to prevent unauthorized access, your personally identifiable and sensitive financial information is protected by Secure Socket Layering (SSL) system, a leading web security technology which ensures that any information exchanged on the web cannot be viewed in transit by anyone else. PRUDENTIAL FOX ROACH REALTORS personnel are required to uphold our privacy and security standards and will not share your information with any third parties other than authorized agents. 
 
-By using our site, you consent to our collection and use of your information. Any changes to our policy will be reflected on this page so that you are always aware of the information we collect and how we use it. 
+
+Name  
+Mailing address  
+Email address  
+Home and business phone number  
+Other personal information
+
+If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone. 
+
+**2\. Web Site Use Information**  
+  
+Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site. This information is collected on an aggregate basis. None of this information is associated with you as an individual. 
+
+**How Do We Use the Information That You Provide to Us?**  
+  
+Broadly speaking, we use personal information for purposes of administering our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. The lists used to send you product and service offers are developed and managed under our traditional corporate standards designed to safeguard the security and privacy of our customers’ personal information. As a customer, you will be given the opportunity, at least once annually, to notify us of your desire not to receive these offers. 
+
+**What Are Cookies?**  
+  
+Cookies are a feature of Web browser software that allows Web servers to recognize the computer used to access a Web site. Cookies are small pieces of data that are stored by a user’s Web browser on the user’s hard drive. Cookies can remember what information a user accesses on one Web page to simplify subsequent interactions with that Web site by the same user or to use the information to streamline the user’s transactions on related Web pages. This makes it easier for a user to move from Web page to Web page and to complete commercial transactions over the Internet. Cookies should make your online experience easier and more personalized. 
+
+**How Do We Use Information We Collect from Cookies?**  
+  
+We use Web site browser software tools such as cookies and Web server logs to gather information about our Web site users’ browsing activities, in order to constantly improve our Web site and better serve our customers. This information assists us to design and arrange our Web pages in the most user-friendly manner and to continually improve our Web site to better meet the needs of our customers and prospective acustomers. 
+
+Cookies help us collect important business and technical statistics. The information in the cookies lets us trace the paths followed by users to our Web site as they move from one page to another. Web server logs allow us to count how many people visit our Web site and evaluate our Web site’s visitor capacity. We do not use these technologies to capture your individual email address or any personally identifying information about you although they do permit us to send focused online banner advertisements or other such responses to you. 
+
+**What About Other Web Sites Linked to Our Web Site?**  
+  
+We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site.   
+
