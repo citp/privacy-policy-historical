@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the tripcentral.ca privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117070553id_/http%3A//tripcentral.ca/trip/INFO/WEBSITE/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripcentral.ca privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623102912id_/http%3A//tripcentral.ca/trip/INFO/WEBSITE/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
- P R I V A C Y   P O L I C Y  
-Privacy Policy  
-|   
+| **Privacy Policy**  
+---  
 The Canadian Personal Information Protection and Electronic Documents Act (PIPEDA) was enacted on January 1, 2001 to ensure all Canadian's basic right to privacy. PIPEDA applies to every business in Canada and covers the collection, use, storage and disclosure of personal information about identifiable individuals. 
 
 At Tripcentral.ca, we value your trust and believe in the importance of protecting the privacy of the individual. A travel enquiry and purchase requires the voluntary disclosure of personal information and an exchange of that information with various third party suppliers. We have appointed a Privacy Officer to handle requests for information; ensure our Privacy Protection Policy complies with the legislation; oversee the integrity of our systems and monitor end supplier adherence to PIPEDA. 
@@ -16,18 +15,9 @@ The following Privacy Protection Policy was updated and posted on Tripcentral.ca
 2 King Street West  
 Hamilton, ON L8P 1A1  
 **Attn: Privacy Officer**  
-  
-[Top of page]  
-  
-Privacy Protection Policy  
-|   
-Tripcentral.ca uses your personal information for the purposes of responding to and processing your requests for travel products and services. Personal information is also required to process refunds. Our privacy policies cover information regarding all customers and potential customers: customers we deal with face-to-face, on the telephone and online. 
-
-[Top of page]
-
-|   
-Collection of Personal Information  
-|   
+**Privacy Protection Policy**  
+Tripcentral.ca uses your personal information for the purposes of responding to and processing your requests for travel products and services. Personal information is also required to process refunds. Our privacy policies cover information regarding all customers and potential customers: customers we deal with face-to-face, on the telephone and online.  
+**Collection of Personal Information**  
 Tripcentral.ca collects personal information that is specifically and voluntarily provided by visiting and calling our physical locations or by visiting our website. In order to plan and purchase a travel product or service some basic personal information is required. This may include: 
 
   * Name, Title, Gender 
@@ -68,13 +58,9 @@ Tripcentral.ca collects Internet Protocol (IP) addresses for the purposes of adm
 Tripcentral.ca collects certain technical information from your computer such as the operating system, web browser type and version, screen resolution, IP address and referrer site.
 
 **Permission**  
-By making a travel enquiry you give Tripcentral.ca permission to collect voluntarily provided personal information, and by using the Tripcentral.ca website you agree to allow a cookie to be set on your computer and the collection of personal and computer information.
-
-[Top of page]
-
-|   
+By making a travel enquiry you give Tripcentral.ca permission to collect voluntarily provided personal information, and by using the Tripcentral.ca website you agree to allow a cookie to be set on your computer and the collection of personal and computer information.  
+  
 Use of Personal Information  
-|   
 Tripcentral.ca uses the personal information in order to process and compete travel inquires and reservations. The records are maintained for seven (7) years from date of booking (six years full calendar years plus the year of the transaction) as required by Canada Customs and Revenue Agency (CCRA). Tripcentral.ca does not sell or distribute any personal information to third parties for marketing purposes. 
 
 **Third Party Suppliers**  
@@ -103,28 +89,16 @@ Tripcentral.ca uses aggrigate IP address information and does not ordinarily lin
 Portfolio management, management of individual enquiries within the portfolio and individual session management all require cookies. They are used to track advertising referrer sources and to test the effectiveness of online marketing campaigns. Aggregate statistics are used in the web site planning and development cycle and to monitor overall traffic. Cookies identify excessive users who can be tracked using IP addresses.
 
 **Computer Information**  
-Tripcentral.ca uses operating system, browser and screen resolution information in aggregate during the development cycle.
-
-[Top of page]
-
-|   
+Tripcentral.ca uses operating system, browser and screen resolution information in aggregate during the development cycle.  
+  
 Storage of Personal Information  
-|   
 By providing you with this Privacy Statement, Tripcentral.ca pledges continued commitment to protecting personal information. Tripcentral.ca provides appropiate physical, organizational and secure technical measures to safeguard personal information and to protect it from unauthorized access. This includes limiting access of personal information to those employees who have a business reason to use it. 
 
 **Physical Storage**  
 All paper files are stored securely at Tripcentral.ca premises and shredded when discarded.
 
 **Electronic Storage**  
-To protect the confidentiality of all personal information Tripcentral.ca uses data encryption, or scrambling technologies and industry-standard firewalls. When you send personal information it is stored by Tripcentral.ca and protected by 128-bit Secure Socket Layer (SSL) technology, an industry standard security protocol.
-
-[Top of page]
-
-|   
+To protect the confidentiality of all personal information Tripcentral.ca uses data encryption, or scrambling technologies and industry-standard firewalls. When you send personal information it is stored by Tripcentral.ca and protected by 128-bit Secure Socket Layer (SSL) technology, an industry standard security protocol.  
+  
 Disclosure of Personal Information  
-|   
-Tripcentral.ca and its employees will maintain and protect all personal information under their control. Personal information may be reviewed electronically or in person by the identifiable individual at any time. It may also be amended or deleted at any time. 
-
-[Top of page]
-
-| 
+Tripcentral.ca and its employees will maintain and protect all personal information under their control. Personal information may be reviewed electronically or in person by the identifiable individual at any time. It may also be amended or deleted at any time.
