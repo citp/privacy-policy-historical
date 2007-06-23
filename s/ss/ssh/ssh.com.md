@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ssh.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212025901id_/http%3A//www.ssh.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ssh.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623043930id_/http%3A//www.ssh.com/privacy_policy.html) for the most accurate reproduction.*
 
 # SSH Communications Security
 
