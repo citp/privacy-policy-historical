@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goguides.org privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230224143id_/http%3A//www.goguides.org/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goguides.org privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623130545id_/http%3A//www.goguides.org/info/privacy.html) for the most accurate reproduction.*
 
 # GoGuides - Privacy Policy
 
