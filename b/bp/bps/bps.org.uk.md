@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bps.org.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615074100id_/http%3A//www.bps.org.uk/additional-pages/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bps.org.uk privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623042023id_/http%3A//www.bps.org.uk/additional-pages/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -50,7 +50,7 @@ This website takes every precaution to protect your information. When you submit
 
 **Capturing of Confidential Information Online**
 
-When our order form asks you to enter sensitive information (such as a credit card number), it is encrypted and is protected with the best encryption software in the industry - SSL (Secure Socket Layer). While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'. To learn more about SSL, follow this link [www.thawte.com/ ](https://web.archive.org/external-link-disclaimer.cfm?url=http://www.thawte.com/). Your personal information is never transmitted via email, and is never viewed or transmitted unencrypted. 
+When our order form asks you to enter sensitive information (such as a credit card number), it is encrypted and is protected with the best encryption software in the industry - SSL (Secure Socket Layer). While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'. To learn more about SSL, follow this link [www.thawte.com/ ](http://www.thawte.com/ "External Site \(new window\) - http://www.thawte.com/"). Your personal information is never transmitted via email, and is never viewed or transmitted unencrypted. 
 
 Use of email forms such as site feedback and request for further information   
 These email forms are not secure, i.e. they are not protected by SSL. Once submitted this type of form is transmitted unencrypted via email directly to our offices. Any personal information sent via these forms, (address, credit card details) is done so entirely at your own risk. We cannot be responsible for any personal information sent by email.
@@ -144,9 +144,9 @@ SK9 5AF
 
 Or telephone 01625 545700 (switchboard)
 
-Homepage: [www.dataprotection.gov.uk ](https://web.archive.org/external-link-disclaimer.cfm?url=http://www.dataprotection.gov.uk)
+Homepage: [www.dataprotection.gov.uk ](http://www.dataprotection.gov.uk/ "External Site \(new window\) - http://www.dataprotection.gov.uk")
 
-The Registrar: [www.dpr.gov.uk ](https://web.archive.org/external-link-disclaimer.cfm?url=http://www.dpr.gov.uk)
+The Registrar: [www.dpr.gov.uk ](http://www.dpr.gov.uk/ "External Site \(new window\) - http://www.dpr.gov.uk")
 
 October 2001
 
