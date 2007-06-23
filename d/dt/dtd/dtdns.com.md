@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the dtdns.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017175350id_/http%3A//www.dtdns.com/index.cfm%3Ffuseaction%3Dinfo.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dtdns.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623115250id_/http%3A//www.dtdns.com/index.cfm%3Ffuseaction%3Dinfo.privacy) for the most accurate reproduction.*
 
 # DtDNS :: Privacy Statement
 
 | 
 
 Sales/Support:  
-1-877-760-6337
+1-941-378-5341
 
 |  |  | 
 
