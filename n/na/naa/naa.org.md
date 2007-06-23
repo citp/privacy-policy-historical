@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naa.org privacy policy that was archived on 2006-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061116205314id_/http%3A//www.naa.org/Home/NAAOrg/AboutNAA/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naa.org privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623182101id_/http%3A//www.naa.org/Home/NAAOrg/AboutNAA/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -6,7 +6,7 @@
 
 **Online Privacy and Child-Protection Policy**
 
-This is the World Wide Web site of the Newspaper Association of America, 1921 Gallows Road, Suite 600, Vienna, Va. 22182-3900. NAA can be reached by e-mail at [webmaster@naa.org](mailto:webmaster@naa.org) and by telephone at (703) 902-1600.
+This is the World Wide Web site of the Newspaper Association of America, 4401 Wilson Boulevard, Suite 900, Arlington, Va. 22203-1867. NAA can be reached by e-mail at [webmaster@naa.org](mailto:webmaster@naa.org) and by telephone at (571) 366-1000.
 
 This site does not target children under the age of 13 and does not collect personal information about individuals except when specifically and knowingly provided by such individuals. Currently, the site collects information (e.g., name, title, employer, mailing address, telephone number, fax number, e-mail address, and payment information) voluntarily provided by individuals who register for NAA events or purchase NAA products online. NAA uses this information to process online requests.
 
