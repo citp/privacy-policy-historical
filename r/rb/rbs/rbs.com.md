@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rbs.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210223358id_/http%3A//www.rbs.com/global_options.asp%3Fid%3DGLOBAL/PRIVACY_POLICY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rbs.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623032854id_/http%3A//www.rbs.com/global_options.asp%3Fid%3DGLOBAL/PRIVACY_POLICY) for the most accurate reproduction.*
 
 # RBS: Privacy Policy - Privacy
 
