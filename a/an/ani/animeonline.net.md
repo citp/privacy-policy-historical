@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the animeonline.net privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206105158id_/http%3A//www.animeonline.net/index.php%3Fact%3Dps) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animeonline.net privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623143246id_/http%3A//www.animeonline.net/index.php%3Fact%3Dps) for the most accurate reproduction.*
 
-# Anime Online Community Forums - Privacy Statement
+# Anime Online - Privacy Statement
 
 Your privacy is very important to us, and as a result, we DO NOT sell or share your personal information or email address with ANY 3rd party. The following discloses our information gathering and dissemination practices for this website [www.animeonline.net](http://www.animeonline.net/).
 
@@ -59,4 +59,4 @@ Any personal information (email address, home address etc) we obtain from users 
 If you have any questions about this Privacy Statement, [Terms of Use](http://www.animeonline.net/index.php?act=tos), the practices or your dealings with this website, you can contact the below Staff:
 
 Dragon Ball - support@animeonline.net  
-Sinistra - webmaster@animeinsight.net
+
