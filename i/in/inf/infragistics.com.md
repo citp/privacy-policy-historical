@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infragistics.com privacy policy that was archived on 2006-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061222002326id_/http%3A//www.infragistics.com/corporate/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infragistics.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623132933id_/http%3A//www.infragistics.com/corporate/privacy.aspx) for the most accurate reproduction.*
 
 # Infragistics - Powering the Presentation Layer
 
