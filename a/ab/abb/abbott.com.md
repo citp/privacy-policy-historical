@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abbott.com privacy policy that was archived on 2006-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061129112229id_/http%3A//abbott.com/global/url/content/en_US/0%3A0/general_content/General_Content_00029.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abbott.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623134133id_/http%3A//www.abbott.com/global/url/content/en_US/0%3A0/general_content/General_Content_00029.htm) for the most accurate reproduction.*
 
 # Abbott
 
