@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the anchorfree.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021035905id_/http%3A//anchorfree.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anchorfree.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624003227id_/http%3A//www.anchorfree.com/privacy-policy) for the most accurate reproduction.*
 
-# AnchorFree Privacy Notice » AnchorFree
+# Find free wifi hotspots and free wireless news at AnchorFree
 
-AnchorFree, Inc. (”AnchorFree”) recognizes the importance of protecting the privacy of all information provided to us by any user of www.anchorfree.com, and any other web sites or services owned or operated by AnchorFree (”AnchorFree Sites”) (collectively or individually “User(s)”). 
+AnchorFree, Inc. ("AnchorFree") recognizes the importance of protecting the privacy of all information provided to us by any user of www.anchorfree.com, and any other web sites or services owned or operated by AnchorFree ("AnchorFree Sites") (collectively or individually "User(s)").
 
 Your use of AnchorFree Sites and any personal information you provide on AnchorFree Sites is subject to the terms of this Privacy Notice.
 
@@ -10,8 +10,8 @@ NOTE TO KIDS: ANCHORFREE SITES ARE NOT AVAILABLE TO PERSONS UNDER THE AGE OF 13.
 
 ### The Information AnchorFree Collects:
 
-  * **User Provided Information:** In signing up for an AnchorFree account, you will be asked to provide your name and email address, and you may elect to provide to AnchorFree additional “personally identifiable” information (such as your postal mailing address, home/mobile telephone numbers, credit card number and billing information, etc.) if you choose to participate in other promotional activities offered on AnchorFree Sites such as frequent usage rewards programs, surveys or contests.
-  * **“Cookies” Information:** When you visit AnchorFree Sites, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer. AnchorFree Sites use both session cookies and persistent cookies. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to AnchorFree Sites. These persistent type of cookies can be removed, but each web browser is a little different, so please look through your browser “Help” file to learn the correct way to modify your cookies set-up.
+  * **User Provided Information:** In signing up for an AnchorFree account, you will be asked to provide your name and email address, and you may elect to provide to AnchorFree additional "personally identifiable" information (such as your postal mailing address, home/mobile telephone numbers, credit card number and billing information, etc.) if you choose to participate in other promotional activities offered on AnchorFree Sites such as frequent usage rewards programs, surveys or contests.
+  * **"Cookies" Information:** When you visit AnchorFree Sites, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer. AnchorFree Sites use both session cookies and persistent cookies. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to AnchorFree Sites. These persistent type of cookies can be removed, but each web browser is a little different, so please look through your browser "Help" file to learn the correct way to modify your cookies set-up.
 
 
 
@@ -38,11 +38,11 @@ To protect your privacy and security, we take reasonable steps to verify your id
 
 ### Our Commitment to Data Security:
 
-AnchorFree uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to AnchorFree and you do so at your own risk. Once we receive your transmission of information, AnchorFree makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. 
+AnchorFree uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to AnchorFree and you do so at your own risk. Once we receive your transmission of information, AnchorFree makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
-If AnchorFree learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. AnchorFree may post a notice on AnchorFree Sites if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach you should notify us at info@anchorfree.com. 
+If AnchorFree learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. AnchorFree may post a notice on AnchorFree Sites if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach you should notify us at info@anchorfree.com.
 
-### Our Commitment to Children’s Privacy:
+### Our Commitment to Children's Privacy:
 
 Protecting the privacy of young children is especially important. For that reason, AnchorFree does not knowingly collect or maintain personally identifiable information or automatically collected information on AnchorFree Sites from persons under 13 years of age, and no part of our website is directed to persons under 13. IF YOU ARE UNDER 13 YEARS OF AGE, THEN PLEASE DO NOT USE OR ACCESS ANCHORFREE SITES AT ANY TIME OR IN ANY MANNER. If AnchorFree learns that personally identifiable information of persons under 13 years of age has been collected on AnchorFree Sites without verifiable parental consent, then AnchorFree will take the appropriate steps to delete this information.
 
@@ -59,15 +59,15 @@ sale, or other change of control.
 
 ### Changes and updates to this Privacy Notice:
 
-This Privacy Notice may be revised periodically and this will be reflected by the “last modified” notice below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Notice in effect when we received that personal information. Your continued use of AnchorFree Sites constitutes your agreement to this Privacy Notice and any future revisions.
+This Privacy Notice may be revised periodically and this will be reflected by the "last modified" notice below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Notice in effect when we received that personal information. Your continued use of AnchorFree Sites constitutes your agreement to this Privacy Notice and any future revisions.
 
-For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us or that we have collected, we will attempt to obtain your consent before implementing such revisions with respect to such information. 
+For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us or that we have collected, we will attempt to obtain your consent before implementing such revisions with respect to such information.
 
 ### Effective Date, Date Last Modified:
 
 This Privacy Notice is effective as of April 1, 2006.  
-This Privacy Notice was last modified March 29, 2006. 
+This Privacy Notice was last modified March 29, 2006.
 
 ### AnchorFree Contact Information:
 
-Please contact AnchorFree with any questions or comments about this Privacy Notice, your personal information, our third-party disclosure practices, or your consent choices at info@anchorfree.com. We will respond to your inquiry within 30 days of its receipt. 
+Please contact AnchorFree with any questions or comments about this Privacy Notice, your personal information, our third-party disclosure practices, or your consent choices at info@anchorfree.com. We will respond to your inquiry within 30 days of its receipt.
