@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the startribune.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231002204id_/http%3A//www.startribune.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startribune.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623133536id_/http%3A//www.startribune.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy for startribune.com
-
-[Home](https://web.archive.org/)|[Member Center](https://web.archive.org/304/v-story_nonpaged/index.html)|[Member Center - Help](https://web.archive.org/776/v-story_nonpaged/index.html)
 
 Startribune.com has a firm commitment to privacy. We take your privacy concerns seriously and want to make every effort to address them as we strive to offer our site visitors a high quality, interactive and personalized experience. That is why we have adopted the following policy, which explains our position on information gathering and how we intend to use and share any information we collect. It is important to note that this policy applies only to information collected by startribune.com and does not apply to information obtained or used by Star Tribune or its affiliates through other means.
 
@@ -97,11 +95,4 @@ Startribune.com endorses and abides by the privacy principles approved by the In
 Offices: startribune.com, 425 Portland Ave., Minneapolis, MN 55488  
 E-mail: [Feedback Form](http://www.startribune.com/feedback)
 
-  
-Effective Date: May 14, 2003  
-
-
-|  |  |  |  |   
----|---|---|---|---  
-  
-[](https://www.formrouter.net/circulation@STRIB/customerservice.html)
+Effective Date: May 14, 2003
