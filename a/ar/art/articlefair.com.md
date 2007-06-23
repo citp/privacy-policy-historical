@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the articlefair.com privacy policy that was archived on 2006-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060826004710id_/http%3A//www.articlefair.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlefair.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623042434id_/http%3A//www.articlefair.com/privacy.php) for the most accurate reproduction.*
 
 # ArticleFair.com : free articles, submit articles, free content
+
+Hottest New Site :::[ **Watch 3000 TV Channels on Your PC for FREE!**](http://www.online-shopping-101.com/freetv.html)
 
 ArticleFair.com Directory Privacy Policy
 
