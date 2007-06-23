@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emedny.org privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205183719id_/http%3A//www.health.state.ny.us/nysdoh/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emedny.org privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623232351id_/http%3A//www.health.state.ny.us/nysdoh/privacy.htm) for the most accurate reproduction.*
 
 # New York State Department of Health Privacy Policy
 
