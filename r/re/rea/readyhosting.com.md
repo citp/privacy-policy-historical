@@ -1,15 +1,13 @@
-> *The following text is extracted and transformed from the readyhosting.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016233119id_/http%3A//www.readyhosting.com/about/privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readyhosting.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623150511id_/http%3A//www.readyhosting.com/about/privacy.bml) for the most accurate reproduction.*
 
 # Privacy Statement
 
-|   
-|   
-[home](https://web.archive.org/) > [About Us](https://web.archive.org/about/) > Privacy Statement Privacy Statement
-
-At ReadyHosting, we are committed to protecting your privacy. The limited information we do collect is used to provide you with a personalized experience, better service, and at times, bring you value-added offers from our partners.  
+|    
+|    
+[home](https://web.archive.org/) > [About Us](https://web.archive.org/about/) > Privacy Statement At ReadyHosting, we are committed to protecting your privacy. The limited information we do collect is used to provide you with a personalized experience, better service, and at times, bring you value-added offers from our partners.  
 
 
-The Information Collected and How It Is Used
+## The Information Collected and How It Is Used
 
   
 
@@ -29,7 +27,7 @@ To ensure you receive the information you need to manage your account and protec
   
 If you have any questions about this privacy statement, the practices of this site, or your dealings with ReadyHosting, you can contact: 
 
-> [ReadyHosting](https://web.archive.org/support/supportForm.bml)   
+> [ReadyHosting](https://web.archive.org/support/supportForm.bml)  
 >  70 Blanchard Road, 3rd Floor  
 >  Burlington, MA 01803  
 > 
