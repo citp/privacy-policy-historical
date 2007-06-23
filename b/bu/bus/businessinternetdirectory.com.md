@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the businessinternetdirectory.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213035257id_/http%3A//www.businessinternetdirectory.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessinternetdirectory.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623103533id_/http%3A//www.businessinternetdirectory.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Business Internet Directory
 
 Privacy Policy - www.businessinternetdirectory.com 
 
-This privacy policy (“Privacy Policy”) is provided by **Business Internet Directory Limited** (registered company number 04225065) whose registered office is at Garforth House, 54 Micklegate, York, YO1 6WF (referred to as “us”, “our” or “we” in this Privacy Policy) for the information of visitors (referred to as “you” or “your” in this Privacy Policy) to our website, the URL of which is http://www.businessinternetdirectory.com (.co.uk, .net, .org.uk, .org, .ltd.uk, .tv), referred to as the “Website” in this Privacy Policy.
+This privacy policy (“Privacy Policy”) is provided by **Business Internet Directory Limited** (registered company number 04225065) whose registered office is at Garforth House, 54 Micklegate, York, YO1 6LF (referred to as “us”, “our” or “we” in this Privacy Policy) for the information of visitors (referred to as “you” or “your” in this Privacy Policy) to our website, the URL of which is http://www.businessinternetdirectory.com (.co.uk, .net, .org.uk, .org, .ltd.uk, .tv), referred to as the “Website” in this Privacy Policy.
 
 By accepting this Privacy Policy, you expressly consent to our use and disclosure of your personal information in the manner set out in this Privacy Policy. If you object to this use and disclosure please do not register for a Priority Advert with us. If you object to your information being featured on our database in a Standard Entry, please contact us, in accordance with Clause 10 of this Policy, in order to arrange its removal. 
 
@@ -46,7 +46,7 @@ II. You will appreciate that may need to gather some information from you when y
 (ix) A category for your business  
 (x) Keywords that describe your business offering
 
-The information you provide (excepting your payment details) will then be featured in the Business Internet Directory as a Priority Advert and will be made available to users of our Website when they search our database. The information in your Priority Advert will be given priority over the other Standard Free Entry in the database and will be displayed along with a map, e mail and web address hyperlinks.  We may also use the information you provide to contact you about other services which we provide and to contact you should we encounter any problems in the provisions of services to you. 
+The information you provide (excepting your payment details) will then be featured in the Business Internet Directory as a Priority Advert and will be made available to users of our Website when they search our database. The information in your Priority Advert will be given priority over the other Standard Free Entry in the database and will be displayed along with a map, e mail and web address hyperlinks. We may also use the information you provide to contact you about other services which we provide and to contact you should we encounter any problems in the provisions of services to you. 
 
 III. We may, on occasions, collect additional personal information from surveys on the Website, which you will not be obliged to fill in or return to us.
 
@@ -104,7 +104,7 @@ Garforth House
 54 Micklegate  
 York  
 North Yorkshire  
-YO1 6WF  
+YO1 6LF  
   
 **9 Other Collectors of Information**  
 Except as otherwise expressly included in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, different rules may apply to their use or disclosure of the information you disclose to them. To the extent that we use third party advertisers, they adhere to their own privacy policies. Since we do not control the privacy policy of any third party, you are subject to the privacy policy of that third party.
