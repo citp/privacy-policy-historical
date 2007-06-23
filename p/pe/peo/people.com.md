@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the people.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205215813id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/people%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the people.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623191308id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/people%3F) for the most accurate reproduction.*
 
 # People Privacy Policy
 
@@ -62,11 +62,11 @@ Although we take appropriate measures to safeguard against unauthorized disclosu
 |    
   
 **Privacy Options**  
-If you prefer not to receive traditional mail or other off-line promotions from this or any other Time Inc. property or any companies not owned by Time Inc., please [click here](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized.cgi/people?offline=yes&referring_url=&dnp_source=K). |    
+If you prefer not to receive traditional mail or other off-line promotions from this or any other Time Inc. property or any companies not owned by Time Inc., please [click here](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized.cgi/people?offline=yes&referring_url=http://www.people.com/people/gallery/0,,20016037_11,00.html&dnp_source=K). |    
   
-If a Time Inc. site discloses personally identifiable information to companies not owned by Time Inc. who want to market products or services to you, it will provide you with an opportunity to opt out or block such uses. If you prefer not to receive online marketing information from companies not owned by Time Inc., please [click here](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized.cgi/people?online=yes&referring_url=&dnp_source=K). 
+If a Time Inc. site discloses personally identifiable information to companies not owned by Time Inc. who want to market products or services to you, it will provide you with an opportunity to opt out or block such uses. If you prefer not to receive online marketing information from companies not owned by Time Inc., please [click here](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized.cgi/people?online=yes&referring_url=http://www.people.com/people/gallery/0,,20016037_11,00.html&dnp_source=K). 
 
-Time Inc. may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive online marketing information from this or any other Time Inc. site, please [click here](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized.cgi/people?online=yes&referring_url=&dnp_source=K). 
+Time Inc. may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive online marketing information from this or any other Time Inc. site, please [click here](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized.cgi/people?online=yes&referring_url=http://www.people.com/people/gallery/0,,20016037_11,00.html&dnp_source=K). 
 
 Time Inc. sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses. 
 
