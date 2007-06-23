@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clearancejobs.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217181539id_/http%3A//www.clearancejobs.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearancejobs.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623051519id_/http%3A//www.clearancejobs.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Security Clearance Jobs - ClearanceJobs.com
 
