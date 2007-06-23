@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the see-now.com privacy policy that was archived on 2006-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060822040333id_/http%3A//www.see-now.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the see-now.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623114406id_/http%3A//www.see-now.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
