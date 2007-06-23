@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the allfreethings.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219191949id_/http%3A//www.allfreethings.com/page.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfreethings.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623042053id_/http%3A//www.allfreethings.com/page.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # All Free Things Privacy Policy
 
   
 
 
-[](http://ab.vcmedia.com/c/s=7622/c=73655/)
+[](http://ab.vcmedia.com/c/s=7622/c=122776/)
 
   
 
@@ -42,8 +42,8 @@ If you have any questions about our privacy policy, you may contact our webmaste
 [Free Ice Blue Motorola RAZR](http://ab.vcmedia.com/c/s=7622/c=79308/)  
 It's definitely the coolest phone around. Plus it's free. Pretty cool huh? Get your new cell phone today! 
 
-[Free Digital Camera](http://ab.vcmedia.com/c/s=7622/c=99244/)  
-If girls just wanna have fun, a free Pink Fuji FinePix Digital Camera is definitely the way to go. Check out its 5.1-megapixel CCD and 2.5" color TFT-LCD Monitor, or just let the pictures speak for themselves! 
+[Get Free Stuff!](http://ab.vcmedia.com/c/s=7622/c=113133/)  
+Everyone has an opinion, so why not get paid for it? Sign-up today for your chance to win free cash, coupons and special gifts. Just click below to get started. 
 
 [Free Plasma TV](http://ab.vcmedia.com/c/s=7622/c=98194/)  
 Make primetime or watching the big game even better. Choose between a Free Philips 42" LCD TV or Panasonic 42" Plasma TV. Don't miss any of the action this season. 
@@ -59,10 +59,10 @@ There is nothing better than Free-Stuff, and www.Free2Try.com is where the Inter
 
 Gamers, are you up for the challenge? Get your free Sony PlayStation 3 now by clicking here. That is, if you think you can handle it!
 
-Looks like Christmas came early this year - just click here to get your free $500 ToysRUs, KB Toys, or JCPenney Gift Card.
+Get back into your skinny jeans by getting 3 free months of NutriSystem. Join now because the only thing you have to lose is weight!
 
   
   
   
   
-Copyright © 1999 - 2006 - All Rights Reserved | [Privacy Policy](http://www.allfreethings.com/page.php?page=privacy) | [Articles Terms of Use](http://www.allfreethings.com/page.php?page=articles_terms_of_use) | [Link to Us](http://www.allfreethings.com/page.php?page=link_to_us) | [Site Map](http://www.allfreethings.com/sitemap.html)
+Copyright © 1999 - 2007 - All Rights Reserved | [Privacy Policy](http://www.allfreethings.com/page.php?page=privacy) | [Articles Terms of Use](http://www.allfreethings.com/page.php?page=articles_terms_of_use) | [Link to Us](http://www.allfreethings.com/page.php?page=link_to_us) | [Site Map](http://www.allfreethings.com/sitemap.html)
