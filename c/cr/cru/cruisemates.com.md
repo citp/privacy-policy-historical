@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cruisemates.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205214022id_/http%3A//cruisemates.com/articles/about/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisemates.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623081116id_/http%3A//www.cruisemates.com/articles/about/privacy_policy.cfm) for the most accurate reproduction.*
 
 # About CruiseMates.com
 
@@ -27,7 +27,9 @@ We collect the email addresses of consumers who communicate with us or through o
 
 Any information provided by consumers becomes the property of Internet Brands once received by us and may be used and disclosed as permitted in this Policy. 
 
-We also share your personal information with our affiliated companies in order to identify products or services in which you may have interest, to improve our user experience and generally to engage in market research and for other internal business purposes. We may also aggregate your personal information with others' information and prepare reports on site usage, purchase history or other factors for sale or distribution to others. Those reports are aggregated and include no personally identifying information. Finally, we may use your personal information to send you email or postal communications regarding products or services offered by us or by third parties with whom we have relationships in which we think you may be interested. We do not share, sell, trade or rent you personal information to third parties for unknown reasons. 
+We also share your personal information with our affiliated companies in order to identify products or services in which you may have interest, to improve our user experience and generally to engage in market research and for other internal business purposes. We may also aggregate your personal information with others' information and prepare reports on site usage, purchase history or other factors for sale or distribution to others. Those reports are aggregated and include no personally identifying information. Finally, we may use your personal information to send you email or postal communications regarding products or services offered by us or by third parties with whom we have relationships in which we think you may be interested. We do not share, sell, trade or rent you personal information to third parties for unknown reasons. You may at any time choose not to receive promotional emails from us by contacting us at [Customer Service](mailto:customer-service@cruisemates.com). Notwithstanding the foregoing, we may continue to contact you for the purpose of communicating information relating to Cruisemates.com, as well as to facilitate, complete, or confirm any transaction that you may enter into or responding to your inquiry or request. 
+
+If you prefer for us not to provide your name and email or postal address to third parties for direct marketing purposes, please contact us at [Customer Service](mailto:customer-service@cruisemates.com). 
 
 **Use of Forums**
 
@@ -51,4 +53,4 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 Cruisemates.com
 
-Effective: August 11, 2006
+Effective: January 23, 2007
