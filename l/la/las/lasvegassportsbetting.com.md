@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lasvegassportsbetting.com privacy policy that was archived on 2006-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060831023818id_/http%3A//lasvegassportsbetting.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lasvegassportsbetting.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623030839id_/http%3A//www.lasvegassportsbetting.com/privacy.html) for the most accurate reproduction.*
 
 # Lasvegassportsbetting.com Privacy
 
