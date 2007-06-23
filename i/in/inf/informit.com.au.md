@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the informit.com.au privacy policy that was archived on 2006-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061108003253id_/http%3A//informit.com.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the informit.com.au privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623052433id_/http%3A//www.informit.com.au/privacy.asp) for the most accurate reproduction.*
 
 # Informit
 
@@ -10,7 +10,7 @@ RMIT Training is committed to the privacy of its web site visitors. Please note 
 
 ## Personal Information
 
-RMIT Training is committed to complying with Australia’s Privacy Act. Our primary purpose in collecting personal information is to enable us to perform tasks such respond to your requests, or to contact you via mail, e-mail or phone to assist you with any enquiries regarding products or services we offer. We also use your personal information for marketing purposes such as to notify you of promotions, services, competitions and events we may offer/hold unless you have advised us in writing that you do not wish to receive this information. You can request to access your personal information at anytime to update or correct the information we hold on you by email, post or phone as detailed below. Your personal information will not be disclosed to a third party without your permission. All requests for access to personal information should be made by writing to RMIT Training, PO Box 12058, A’Beckett Street, Melbourne 8006, or by emailing us at [privacy.training@rmit.edu.au](mailto:privacy.training@rmit.edu.au) or phoning 1800 067 117. For a detailed version of our privacy policy, please visit [www.rmittraining.com](http://www.rmittraining.com/)
+RMIT Training is committed to complying with Australia’s Privacy Act. Our primary purpose in collecting personal information is to enable us to perform tasks such respond to your requests, or to contact you via mail, e-mail or phone to assist you with any enquiries regarding products or services we offer. We also use your personal information for marketing purposes such as to notify you of promotions, services, competitions and events we may offer/hold unless you have advised us in writing that you do not wish to receive this information. You can request to access your personal information at anytime to update or correct the information we hold on you by email, post or phone as detailed below. Your personal information will not be disclosed to a third party without your permission. All requests for access to personal information should be made by writing to RMIT Training, PO Box 12058, A’Beckett Street, Melbourne 8006, or by emailing us at [privacy.training@rmit.edu.au](mailto:privacy.training@rmit.edu.au "Email RMIT Training") or phoning 1800 067 117. For a detailed version of our privacy policy, please visit [www.rmittraining.com](http://www.rmittraining.com/ "Visit RMIT Training Website")
 
 ## Security
 
@@ -20,11 +20,11 @@ RMIT Training has taken all appropriate measures to prevent unauthorised access 
 
 RMIT Training will on its own initiative, or at your request, replenish, rectify or erase any incomplete, inaccurate or outdated personal data.
 
-To edit your personal details on the Short Courses or Single Courses database log into: [cbs.rmit.edu.au/book.php3](http://cbs.rmit.edu.au/book.php3) or call 1800 067 117
+To edit your personal details on the Short Courses or Single Courses database log into: [cbs.rmit.edu.au/book.php3](http://cbs.rmit.edu.au/book.php3 "Visit Short Courses or Single Courses Website") or call 1800 067 117
 
-To edit your personal details on JET Apprenticeship and Traineeship (formerly called New Career Connections) log into: [www.jet.org.au](http://www.jet.org.au/) or call 9925 8195
+To edit your personal details on JET Apprenticeship and Traineeship (formerly called New Career Connections) log into: [www.jet.org.au](http://www.jet.org.au/ "Visit JET Apprenticeship and Traineeship website") or call 9925 8195
 
-If you come across any incorrect or outdated information on our websites please contact: [privacy.training@rmit.edu.au](mailto:privacy.training@rmit.edu.au) or call 9925 8179
+If you come across any incorrect or outdated information on our websites please contact: [privacy.training@rmit.edu.au](mailto:privacy.training@rmit.edu.au "Email RMIT Training") or call 9925 8179
 
 ## Cookies
 
