@@ -1,28 +1,33 @@
-<!--The following is the downloaded HTML source of the congoo.com privacy policy that was archived on 2006-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061207222132id_/http%3A//congoo.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the congoo.com privacy policy that was archived on 2007-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070623181212id_/http%3A//www.congoo.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1">
+    <!-- Urchin Stats Code Start-->
+    <script src="/__utm.js" type="text/javascript"></script>
+    <!-- Urchin Stats Code End-->
+
+    <title>
 	Congoo - Privacy Policy
-</title><link href="/css/Style.css" rel="stylesheet" type="text/css">
+</title><link href="css/Style.css" rel="stylesheet" type="text/css"><link href="css/news.css" rel="stylesheet" type="text/css">
     
     <script type="text/javascript" src="/includes/common.js"></script>
     <script type="text/javascript" src="/builder/links.js"></script>
+    <script type="text/javascript" src="/includes/Access.js"></script>   
     
     <script language="JavaScript" type="text/JavaScript">
     <!--
     var url="http://" + location.host + "/";
     var title="Congoo.com";
 
-    function favorites(){
+    function favorites()
+    {
 	    if(document.all)
 		    window.external.AddFavorite(url,title)
-    }
-    function MakeHomePage(){
-	    alert("");
     }
 
     //-->
     </script>
+    
     <script language="JavaScript">
     <!--
     function MM_preloadImages() { //v3.0
@@ -49,104 +54,182 @@
     }
     //-->
     
-                            function changeImageSrc()
-                            {
-                                if(document.URL.indexOf("/images") > -1)
-                                {
-                                    var i = 0;
-                                    for(i=1;i<=16;i++)
-                                    {
-                                        image = document.getElementById("img" + i);
-                                        width = image.offsetWidth;
-                                        height = image.offsetHeight;
-                                        if(width<50 && height<50)
-                                        {
-                                            image.src = "/images/thumbnail_replacement.gif";
-                                        } 
-                                    }
-                                }
-                                else if(document.URL.indexOf("/index") > -1)
-                                {
-                                    btnSearch = document.getElementById("submitbtn");
-                                    btnSearch.focus();
-                                }
-                            }
+    function changeImageSrc()
+    {
+        if(document.URL.indexOf("/images") > -1)
+        {
+            var i = 0;
+            for(i=1;i<=16;i++)
+            {
+                image = document.getElementById("img" + i);
+                width = image.offsetWidth;
+                height = image.offsetHeight;
+                if(width<50 && height<50)
+                {
+                    image.src = "/images/thumbnail_replacement.gif";
+                } 
+            }
+        }
+        else if(document.URL.indexOf("/index") > -1)
+        {
+           // btnSearch = document.getElementById("submitbtn");
+            //btnSearch.focus();
+        }
+    }
               
+    function navHor( tableCellRef, hoverFlag, navStyle ) 
+    {
+        if ( hoverFlag ) 
+        {
+	        switch ( navStyle ) 
+	        {
+		        case 1:
+			        tableCellRef.style.backgroundColor = '#8ebae5';
+			        break;
+		        default:
+			        if ( document.getElementsByTagName ) 
+			        {
+				        tableCellRef.getElementsByTagName( 'a' )[0].style.color = '#fff';
+			        }
+	        }
+        } 
+        else 
+        {
+	        switch ( navStyle ) 
+	        {
+		        case 1:
+			        tableCellRef.style.backgroundColor = '#37618d';
+			        break;
+		        default:
+			        if ( document.getElementsByTagName ) 
+			        {
+				        tableCellRef.getElementsByTagName( 'a' )[0].style.color = '#fff';
+			        }
+	        }
+        }
+    }
     </script>
+    
+    <script language="JavaScript">
+        //The 4 top search links call this function whenever they're clicked
+        function GetQuery(el)
+        {
+	        if (window.RegExp && window.encodeURIComponent)
+	        {
+		        var ue = el.href;
+		        var query = document.getElementById('ctl00_txtSearch');
+		        var qe = encodeURIComponent(query.value);
+		        
+		        //if we do have a query value
+		        if(query.value != "")
+		        {
+		            if(ue.indexOf("query=") != -1)
+		            {
+			            el.href = ue.replace(new RegExp("query=[^&$]*"),"query="+qe);
+		            }
+		            else
+		            {
+			            el.href = ue + "&query=" + qe;
+		            }
+		        }
+	        }
+	        return 1;
+        }
+    </script>
+    
     
     <style type="text/css">
     <!--
     .style5 {font-family: Arial, Helvetica, sans-serif; font-size: 16px; }
     .style7 {font-family: Arial, Helvetica, sans-serif; font-size: x-small; }
     .style9 {font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: small; }
-    .style10 {
-	    font-family: Arial, Helvetica, sans-serif;
-	    font-size: small;
-    }
+    .style10 {font-family: Arial, Helvetica, sans-serif; font-size: small;}
     -->
-    </style>
+    </style>    
+    
 </head>
 <!--Cookie Not found-->
-  <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="javascript:changeImageSrc();">
-  
-    <!--<form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMjUzNTk5OTE4ZGQkAJ2TH2tPlQ/ms1Z+eRMYvULu+A==" />
--->
+  <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="javascript:changeImageSrc();" style="margin:0px; padding: 0px; font-family: Arial;">
+  <form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMjUzNTk5OTE4ZGQkAJ2TH2tPlQ/ms1Z+eRMYvULu+A==">
+
         <table width="95%" border="0" align="center" cellpadding="0" cellspacing="0">
         
-                      <tbody><tr>
-                      <td rowspan="8" bgcolor="#0066cc" width="20"></td>
-                        <td width="70"></td>
-	        <td style="width: 1518px">
-		        <table border="0" cellpadding="0" cellspacing="0" width="100%">
-			        <tbody><tr>
-				        <td colspan="2" nowrap="" align="right" valign="bottom" class="toplk">
-					        
-				        </td>
-			        </tr>
-			        <tr>
-				         <td width="50%">
-					                    <a href="/index" onclick="javascript:newCongoo();">
-						                <img src="/images/logo.gif" border="0">
-					                    </a>
-				                    </td>
-				                    <td width="50%" align="left" valign="bottom">
-				                        <font face="arial" color="#cc6600" size="2">
-					                    <table border="0" align="left" cellpadding="2" cellspacing="2">
-						                <tbody><tr>
-							                <td align="left">&gt;&gt; <a href="aboutcongoo.aspx">About Congoo</a> </td>
-							                <td align="left">&gt;&gt; <a href="congoosource.aspx">Netpass Enabled Sites</a> </td>
-						                </tr>
-						                <tr>
-							                <td align="left">&gt;&gt; <a href="congoonews.aspx">News Room</a> </td>
-							                <td align="left">&gt;&gt; <a href="netpass/install.aspx">Download The Netpass</a> </td>
-						                </tr>
-					                    </tbody></table>
-					                    </font>
-				                    </td>
-			        </tr>
-			        
-		        </tbody></table>
+        <tbody><tr>
+            <td rowspan="8" bgcolor="#0066cc" width="20"></td>
+            <td width="70"></td>
+            <td>
+                <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                    <tbody><tr>
+                        <td colspan="3" nowrap="" align="right" valign="bottom" class="toplk">
+                            <span class="Welcome"><a href="/user/memberlogin?redir=http%3a%2f%2fwww.congoo.com%2fprivacy.aspx">Log In</a></span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="txt">
+                            <table>
+                                <tbody><tr>
+                                    <td><a href="/index" onclick="javascript:newCongoo();"><img src="/images/logo.gif" border="0"></a></td>
+                                    
+                                </tr>
+                            </tbody></table>                                                        
+                        </td>
+                        <td>                            
+                        </td>
+                        <td align="left" valign="bottom" class="txt">
+                        
+                            <font face="arial" color="#cc6600" size="2">
+                                <table border="0" align="left" cellpadding="2" cellspacing="2">
+                                    <tbody><tr>
+                                        <td align="left" nowrap="">
+                                            &gt;&gt; <a href="/aboutcongoo.aspx" style="color:Blue">About Congoo</a>
+                                        </td>
+                                        <td align="left" nowrap="">
+                                            &gt;&gt; <a href="/congoosource.aspx" style="color:Blue">Netpass Enabled Sites</a>
+                                        </td>
+                                        <td align="left" nowrap="">
+                                            &gt;&gt; <a href="/alerts/briefing?rd=1" style="color:Blue">News Briefing</a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td align="left" nowrap="">
+                                            &gt;&gt; <a href="/congoonews.aspx" style="color:Blue">News Room</a>
+                                        </td>
+                                        <td align="left" nowrap="">
+                                            &gt;&gt; <a href="/netpass/install.aspx" style="color:Blue">Get The Netpass</a>
+                                        </td>
+                                        <td align="left" nowrap="">
+                                            &gt;&gt; <a href="http://www.congoo.com" style="color:Blue">News Home</a>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </font>
+                            
+                        </td>
+                    </tr>
+                </tbody></table>
 	        </td>
           </tr>
-          <tr>
-               <td colspan="2">
-					        <hr>
-			    </td>
-			</tr>
-            <tr>
-                <td rowspan="6" width="70"></td>
-                <td></td>
-            </tr>
+        <tr>
+          <td colspan="2">
+              <hr>
+          </td>
+        </tr>
+        <tr>
+            <td rowspan="6" width="70">
+            </td>
+            <td>
+            </td>
+        </tr>
             
             
-            <tr>
-               <td>
-                    <div>
+        <tr>
+            <td colspan="2">
+                <div>
                         
     
     </div><table width="100%">
-            
+                
                     <tbody><tr>
         <td>
             <table width="80%" style="font-size:10pt">
@@ -157,67 +240,98 @@
                             <span class="b14"><b>Congoo Privacy Policy</b></span>
                         </center>
                         <br>
-                        <p>Congoo is committed to  protecting your privacy. Please read the Congoo Privacy Statement below and  also any supplementary information at the end of this statement for additional  details about particular Congoo sites and services that you may use.</p>
-                        <p>This Congoo Privacy  Statement applies to data collected by Congoo through its sites and services;  it does not apply to data collected through other online or offline sites,  products or services.</p>
-                        <p>
-                        <b>Collection of your Personal Information</b></p><p>In order to sign in to some  of Congoo’s services, you will be asked to enter an e-mail address and  password, which we refer to as your Congoo credentials. Some services may  require added security, and in these cases, you may be asked to create an  additional security key. Finally, a unique ID number will be assigned to your  Congoo credentials which will be used to identify your credentials and  associated information. You may also use any other Congoo credentials to sign  into most Congoo services.</p>
-                        <p>When registering on Congoo,  Congoo collects personal information, such as your e-mail address, name, home  or work address and telephone number. We may also collect demographic  information, such as your ZIP code, age, gender, preferences, occupation,  interests and favorites. Information collected on Congoo may be combined with  information obtained from other Congoo services and other companies.</p>
-                        <p>We may collect information  about your visit, including the pages you view, the links you click and other  actions taken in connection with Congoo sites and services. We also collect  certain standard information that your browser sends to every website you  visit, such as your IP address, browser type and language, access times and  referring Web site addresses.</p>
-                        <p>Some Congoo services may be  co-branded and offered in conjunction with another company. If you register for  or use such services, both Congoo and the other company may receive information  collected in conjunction with the co-branded services.</p>
-                        <p>
-                        <b>Use of your Personal Information</b>
-                        </p>
-                        <p>Congoo collects and uses  your personal information to operate Congoo and deliver services and  information you have requested. These services may include the display of  customized content and advertising based upon the information we have  collected. In order to provide services in conjunction with other Congoo  products or services, personal information collected on Congoo may be accessed  and used by other Congoo services as necessary to provide such services. Any  use of such information within Congoo will remain subject to the limitations of  this privacy statement.</p>
-                        <p>We also use your personal  information to communicate with you. We may send certain mandatory service  communications such as welcome letters, billing reminders, information on  technical service issues, and security announcements. Some Congoo services may  send periodic member letters that are considered part of the service. We may  also occasionally send you product surveys or promotional mailings to inform  you of other products or services available from Congoo and its affiliates.</p>
-                        <p>We may also automatically  share your personal information with third party content providers when you  access premium sections within their site from links on Congoo. Congoo does not  sell, rent or lease its Congoo customer lists to third parties. We may, from  time to time, contact you on behalf of external business partners about a  particular offering that may be of interest to you. In those cases, your  personal information (e-mail, name, address, telephone number) is not transferred  to the third party. You will be given the option of unsubscribing from  communications sent to you by Congoo at any time by following the instructions  at the bottom of the emails sent to you. We do not use or disclose sensitive  personal information, such as race, religion, or political affiliations,  without your explicit consent.</p>
-                        <p>We occasionally hire other  companies to provide limited services on our behalf, such as handling the  processing and delivery of mailings, providing customer support, processing  transactions, or performing statistical analysis of our services. We will only  provide those companies the personal information they need to deliver the  service. They are required to maintain the confidentiality of your information  and are prohibited from using that information for any other purpose.</p>
-                        <p>Congoo may access and/or  disclose your personal information if required to do so by law or in the good  faith belief that such action is necessary to: (a) conform to the edicts of the  law or comply with legal process served on Congoo or the site; (b) protect and  defend the rights or property of Congoo, including its Congoo family of Web  sites; or (c) act in urgent circumstances to protect the personal safety of  users of Congoo services or members of the public.</p>
-                        <p>Personal information  collected on this site may be stored and processed in the United States or any  other country in which Congoo or its affiliates, subsidiaries or agents  maintain facilities, and by using this site, you consent to any such transfer  of information outside of your country. The protection and handling of your personal  information may be subject to the laws and regulations within the countries  that your information is hosted in or transferred through.&nbsp; Congoo abides by the safe harbor framework  as set forth by the U.S. Department of Commerce regarding the collection, use,  and retention of data from the European Union.</p>
-                        <p>
-                        <b>Registration Data</b>
-                        </p>
-                        <p>Congoo collects and stores  your registration and other personal information to operate and deliver the  services and information that you request. Additionally, certain sites and  services on the Congoo Content Network require your registration information in  order to provide you with their services. Congoo can automatically share a copy  of this registration information also known as your Congoo credentials to third  party content providers who require that information in order to provide free  access to content or services. Anytime the transmission of your registration  data is required by a publisher to obtain free access, Congoo will ask whether  you would like this information transfer to take place. Congoo will make the  privacy policies of all third parties available to review so that you can  review them before you decide to transfer your registration information. It is  only by clicking “yes” that Congoo will transfer your registration information.  Congoo does not participate and is not responsible for the marketing practices  of any organization that you decide to pass your registration information. We  strongly recommend that you read the privacy policies of any organization  before deciding to share your registration information. Your Congoo password is  not shared with any of these third parties.</p>
-                        <p>
-                            In accordance with the  preceding paragraph please note that if you elect to transfer your personal  registration data through Congoo, the sites and services where your information  is transferred may use or share your e-mail address or other personal  information as described in their privacy polices.&nbsp; All sites or services on the Congoo Content Network are required  to have a posted privacy statement, but we do not control or monitor the  privacy practices of sites on the Congoo Content Network, and the privacy  practices of those sites will vary. You should carefully review the privacy  statement for each site you visit in order to determine how each site or  service will use the information it collects. Some services offered on Congoo  may collect personal information. In such cases, you may be able to access that  information through alternative means of access described by the service.</p>
-                        <p><b>Collection and Use of Children's Personal Information</b></p>
-                        <p>When we collect age  information and users identify themselves as under 13, we will obtain consent  from parents for the collection, use and sharing of their children's personal  information on Congoo as described in this Privacy Statement. If we change this  Congoo Privacy Statement in a way that expands the collection, use or  disclosure of children's personal information to which a parent has previously  consented, the parent will be notified and we will be required to obtain the  parent's additional consent. Parents can change or revoke the consent choices  previously made, and review, edit or request the deletion of their children's  personal information, by visiting Account Services, and clicking on  "Permission for kids."</p>
-                        <p>Please note that if you  grant consent for your child to use Congoo services, this will include such  general audience communication services as the Congoo Toolbar. We encourage you  to talk with your children about communicating with strangers and disclosing  personal information online.</p>
-                        <p>We will delete your sign-in  credentials if they remain inactive for an extended period of time. Inactivity  is defined as a failure to sign in to any site or service on the Congoo Content  Network using your credentials.</p>
-                        <p>
-                            <b>Congoo Toolbar</b>
-                        </p>
-                        <p>Each time you use Congoo  Search, including the Congoo Toolbar, cookies may be placed on your machine and  Congoo may collect your Internet IP address, the time and date of your search  terms, and your browser configuration. Congoo may use this information to  customize your search results.</p>
-                        <p>While you have Congoo’s Net  Pass &amp; toolbar installed and running in your browser, please note that new  versions of the Congoo Toolbar will automatically be installed on your  computer. This keeps the software up-to-date and lets you take advantage of the  newest features as soon as they are available.</p>
-                        <p>The Congoo Toolbar also  includes a feature which can automatically fill out forms on Web sites with  information such as your address, passwords, and credit card information so  that you do not have to repeatedly type the same information or remember  multiple passwords. The Toolbar will prompt you to create a single “form fill  password.” You must enter the form fill password every time you wish to  automatically enter a stored credit card number and the first time each browser  session you wish to automatically enter a stored password.</p>
-                        <p>
-                            <b>Security of your Personal Information</b></p><p>Congoo is committed to  protecting the security of your personal information. We use a variety of  security technologies and procedures to help protect your personal information  from unauthorized access, use, or disclosure. For example, we store the  personal information you provide on computer systems with limited access, which  are located in controlled facilities. When we transmit highly confidential  information (such as a credit card number or password) over the Internet, we  protect it through the use of encryption, such as the Secure Socket Layer (SSL)  protocol.</p>
-                        <p>
-                            <b>Use of Cookies</b>
-                        </p>
-                        <p>Congoo does use  "cookies" to enable users to sign in to Congoo services and to help  personalize your online experience. A cookie is a small text file that is  placed on your hard disk by a Web page server. Cookies contain information that  can later be read by a web server in the domain that issued the cookie to you.  Cookies cannot be used to run programs or deliver viruses to your computer.</p>
-                        <p>Congoo uses cookies to  store your preferences and other information on your computer in order to save  you time by eliminating the need to repeatedly enter the same information and  to display your personalized content and appropriate advertising on your later  visits to Congoo.</p>
-                        <p>When you sign in to a site  using your Congoo credentials, the Congoo Network stores your unique ID number,  and the time you signed in, in an encrypted cookie on your hard disk. This  cookie allows you to move from page to page at the site without having to sign  in again on each page. When you sign out, these cookies are deleted from your  computer. The Congoo Network also uses cookies to improve the sign in  experience. For example, your e-mail address may be stored in a cookie that  will remain on your computer after you sign out. This cookie allows your e-mail  address to be pre-populated, so that you will only need to type your password  the next time you sign in.</p>
-                        <p>You have the ability to  accept or decline cookies. Most Web browsers automatically accept cookies, but  you can usually modify your browser setting to decline cookies if you prefer.  If you choose to decline cookies, you may not be able to sign in or use other  interactive features of Congoo sites and services that depend on cookies.</p>
-                        <p>
-                            <b>Use of Web Beacons</b>
-                        </p>
-                        <p>Congoo Web pages may  contain electronic images known as Web beacons - sometimes called single-pixel  gifs - that allow Congoo to count users who have visited those pages and to  deliver co-branded services. Congoo may include Web beacons in promotional  e-mail messages or Congoo Newsletters in order to determine whether messages  have been opened and acted upon.</p>
-                        <p>Congoo may also place Web  beacons from third parties on our site in order to compile aggregated  statistics and to help determine the effectiveness of our joint promotional or  advertising campaigns. Congoo prohibits Web beacons on our site from being used  by third parties to access your personal information.</p>
-                        <p>Finally, Congoo may work  with other companies that advertise on Congoo to place Web beacons on their  sites in order to allow us to develop statistics on how often clicking on an  advertisement on Congoo results in a purchase or other action on the  advertiser’s site.</p>
-                        <p>
-                            <b>Use of Third Party Ad Networks</b>
-                        </p>
-                        <p>Congoo allows other  companies, called third-party ad servers or ad networks, to display advertisements  on Congoo Web pages. Some of these ad networks may place a persistent cookie on  your computer in order to recognize your computer each time they send you an  online advertisement. In this way, ad networks may compile information about  where you, or others who are using your computer, saw their advertisements and  determine which ads are clicked on. This information allows an ad network to  deliver targeted advertisements that they believe will be of most interest to  you. Congoo does not have access to the cookies that may be placed by the  third-party ad servers or ad networks. Those ad networks that use persistent  cookies may offer you a way to opt out of ad targeting. You may find more  information at the Web site of either the individual ad network or the Network  Advertising Initiative.</p>
-                        <p>
-                            <b>Controlling "Spam" or Unsolicited E-mail</b>
-                        </p>
-                        <p>Congoo is concerned about  controlling unsolicited commercial e-mail, or "spam." Congoo has a  strict policy prohibiting the use of all Congoo mail accounts to send spam.</p>
-                        <p>
-                            <b>Changes to this Statement</b>
-                        </p>
-                        <p>
-                            We will occasionally update this Privacy Statement to reflect changes in our services and customer feedback.  If there are material changes to this Statement or in how Congoo will use your personal information, we will prominently post such changes prior to implementing the change. We encourage you to periodically review this Statement to be informed of how Congoo is protecting your information.
-                        </p>
+                        <p>Congoo is committed to protecting your privacy. Please read the Congoo Privacy Statement below and also any supplementary information at the end of this statement for additional details about particular Congoo sites and services that you may use.</p>
+                        <p>This Congoo Privacy Statement applies to data collected by Congoo through its sites and services; it does not apply to data collected through other online or offline sites, products or services.</p>
+                        
+                        <p><b>Collection of your Personal Information</b></p>
+                        <p>In order to sign in to some of Congoo’s services, you will be asked to enter an e-mail address and password, which we refer to as your Congoo credentials. Some services may require added security, and in these cases, you may be asked to create an additional security key. Finally, a unique ID number will be assigned to your Congoo credentials which will be used to identify your credentials and associated information. You may also use any other Congoo credentials to sign into most Congoo services.</p>
+                        <p>When registering on Congoo, Congoo collects personal information, such as your e-mail address, name, home or work address, information about your profession and your telephone number. We may also collect demographic information, such as your ZIP code, age, gender, preferences, occupation, interests and favorites. Information collected on Congoo may be combined with information obtained from other Congoo services and other companies.</p>
+                        <p>We may collect information about your visit, including the pages you view, the links you click and other actions taken in connection with Congoo sites and services. We also collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring Web site addresses.</p>
+                        <p>Some Congoo services may be co-branded and offered in conjunction with another company. If you register for or use such services, both Congoo and the other company may receive information collected in conjunction with the co-branded services.</p>
+                        
+                        <p>Your privacy is our top concern. We work hard to earn and keep your trust, so we adhere to the following principles to protect your privacy:</p>                        
+                        •&nbsp;&nbsp;&nbsp;&nbsp;We will never rent or sell your personally identifiable information to third parties for marketing purposes 
+                        <br>•&nbsp;&nbsp;&nbsp;&nbsp;We will never share your contact information with another user, without your consent. 
+                        <br>•&nbsp;&nbsp;&nbsp;&nbsp;Any sensitive information that you provide will be secured with all industry standard protocols and technology 
+                        <p>Notice of all changes that materially affect ways in which your personally identifiable data may be used or shared will be posted in updates to our Privacy Policy. If you continue to use the Congoo service after notice of changes have been sent to you or published on our site, you hereby provide your consent to the changed practices</p>
+                        
+                        <p><b>Registration</b></p>
+                        <p>In order to become a Congoo user, you must first create an account on this web site. To create an account you are required to provide the following contact information: name, email address, country, ZIP/postal code, profession and industry and you might also choose to supply a brief summary of your professional background (Your occupation or your networking goals), and choose a password.</p>
+                        
+                        <p><b>Personal Profile Information</b></p>
+                        <p>Once a user, you may provide additional information in the Profile section describing your skills, professional experiences, and networking objectives as well as an electronic image of yourself. Providing additional information beyond what is required at registration is entirely optional, but enables you to better identify yourself and find new opportunities.</p>
+                                                
+                        <p><b>Information about your Contacts</b></p>
+                        <p>In order to invite others to connect with you directly on Congoo, you will enter their names and email addresses. This information will be used by Congoo to send your invitation including a message that you write. The names and email addresses of people that you invite will be used only to send your invitation and reminders.  You may also choose to manually enter or upload data about your contacts into the private “My Contacts” section of our website. All information entered there will only be viewable by you and will not be searchable by others in the Congoo network without your permission.  All information that you enter or upload about your contacts will be covered by the same terms of this privacy policy as cover your own personally identifiable information. Due to the communications standards on the Internet, when you visit the Congoo web site we automatically receive the URL of the site from which you came and the site to which you are going when you leave Congoo. We also receive the Internet protocol (IP) address of your computer (or the proxy server you use to access the World Wide Web), your computer operating system and type of web browser you are using, as well as the name of your ISP. This information is used to analyze overall trends to help us improve the Congoo service. The linkage between your IP address and your personally identifiable information is never shared with third-parties without your permission or except when required by law.</p>
+                        
+                        <p><b>Web Beacons</b></p>
+                        <p>We allow other companies, called ad networks, to serve advertisements to Congoo users. Ad networks include third party ad servers, ad agencies, ad technology vendors and research firms. Congoo may “target” some ads to users that fit a certain general profile — for example, “product managers in Texas.” Congoo does NOT use personally identifiable information to target ads.</p>
+                        <p>To deliver these ads properly, Congoo may include a file, called a web beacon, from these ad networks within pages served by Congoo so the networks may provide anonymized, aggregated auditing, research and reporting for advertisers as well as to target ads to you while you visit other websites.</p>
+                        <p>Because your web browser must request these advertisements and web beacons from the ad network’s servers, these companies can view, edit or set their own cookies, just as if you had requested a web page from their site.</p>
+                        <p>These general targets may also be used by ad networks to display targeted ads on other websites as a substitute for random, irrelevant ads. You will never see additional ads as a result of being a Congoo user and Congoo never provides personally identifiable information to any advertiser nor any third party.</p>
+                        <p>You may opt-out of use of Web beacons in Congoo pages that you view and of placement of a cookie by ad networks in your browser. To opt-out click here and go to the “Advertising” section at the bottom and change the setting there to “No”.</p>
+                        <p>In addition, this Web site uses the technology of DoubleClick Inc. to serve ads only when you visit this site. DoubleClick may use non-personal information, such as your state or zip code, in order to provide advertisements about goods and services that may be of interest to you while you visit this Web site. In the course of serving advertisements to this site, DoubleClick may place or recognize a unique “cookie” on your browser. If you would like more information about this practice and to know your choices about not having this information used by DoubleClick, please click here. Note that when you opt-out of the DoubleClick cookie a special DoubleClick “opt-out” cookie will replace the DoubleClick Ad cookie. If you ever delete the cookies on your browser you will need to again opt-out of the DoubleClick Ad Cookie.</p>
+                        <p>If you opt-out you will lose the potential benefit of receiving ads that are more targeted to your interests.</p>
+                        
+                        <p><b>Information Use</b></p>
+                        <p>Congoo is an online information portal whose mission is to provide users with access to the Web’s most valuable information.  The personally identifiable information you choose to provide on this site is used to help you describe yourself to other users. Other information, that does not personally identify you as an individual, is collected by Congoo from the site and is exclusively owned by Congoo. This information can be utilized by Congoo in such manner as Congoo, in its sole discretion, deems appropriate.</p>
+                        
+                        <p><b>Congoo Communications</b></p>
+                        <p>Congoo will communicate with you through email and notices posted on this website. These include welcome emails which help inform new users about various features of the service. Please be aware that you will always receive certain emails from Congoo related to the proper functioning of your account, such as email notices when another user in your network sends you a message, opportunity or networking opportunity. Congoo may send you promotional information unless you have opted out of receiving such information. If you wish to opt-out of receiving promotional emails, please opt out at: <a href="http://www.congoo.com/user/profile" style="color:Blue">http://www.congoo.com/user/profile</a></p>
+                        
+                        <p><b>Customized Content</b></p>
+                        <p>Information you provide at registration or in your profile section is also used to customize your experience on the web site. For example, when you login to your account we will display the names of new users who have recently joined your network.</p>
+                        
+                        <p><b>Sharing Information with Third Parties</b></p>
+                        <p>Congoo takes the privacy of our users very seriously. We will never sell, rent, or otherwise provide your personally identifiable information to any third parties for marketing purposes. We will only share your personally identifiable with third parties to carry out your instructions and to provide specific services. For instance, we use a credit card processing company to bill users for subscription fees. These third parties do not retain, share, or store any personally identifiable information except to provide these services and are bound by strict confidentiality agreements which limit their use of such information.  Congoo offers a “public profile” feature which allows users to publish portions of their Congoo profile, including your “name”, but not your “email address” to the public Internet. Users may opt-out of this feature, however Congoo does not warrant how third-party search engines will update their cache.  We may provide aggregated data about the usage of our services to third-parties for such purposes as we deem, in our sole discretion, to be appropriate. We may segment our users by title, industry, sub-category, geographic location, company or other by using other categorization methods.</p>
+                        
+                        <p><b>Communications Between Users</b></p>
+                        <p>Many emails you initiate through Congoo, an invitation sent to a non-user for instance, will list your email address and name in the header of the message. Emails you initiate may also provide aggregate information about your network (for instance how many people are in your network), but will never list the people to whom you’re directly connected. Other communications that you initiate through the Congoo website, like a request for contact, will list your name as the initiator but will not include your personal contact information. Your contact information will only be shared with another user if both of you have indicated that you would like to establish contact with each other.</p>
+                        
+                        <p><b>Use of your Personal Information</b></p>
+                        <p>Congoo collects and uses your personal information to operate Congoo and deliver services and information you have requested. These services may include the display of customized content and advertising based upon the information we have collected. In order to provide services in conjunction with other Congoo products or services, personal information collected on Congoo may be accessed and used by other Congoo services as necessary to provide such services. Any use of such information within Congoo will remain subject to the limitations of this privacy statement.</p>
+                        <p>We also use your personal information to communicate with you. We may send certain mandatory service communications such as welcome letters, billing reminders, information on technical service issues, and security announcements. Some Congoo services may send periodic member letters that are considered part of the service. We may also occasionally send you product surveys or promotional mailings to inform you of other products or services available from Congoo and its affiliates.</p>                        
+                        <p>Congoo does not sell, rent or lease its Congoo customer lists to third parties. We may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your personal information (e-mail, name, address, telephone number) is not transferred to the third party. You will be given the option of unsubscribing from communications sent to you by Congoo at any time by following the instructions at the bottom of the emails sent to you. We do not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.</p>
+                        <p>We occasionally hire other companies to provide limited services on our behalf, such as handling the processing and delivery of mailings, providing customer support, processing transactions, or performing statistical analysis of our services. We will only provide those companies the personal information they need to deliver the service. They are required to maintain the confidentiality of your information and are prohibited from using that information for any other purpose.</p>                        
+                        <p>Congoo may access and/or disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Congoo or the site; (b) protect and defend the rights or property of Congoo, including its Congoo family of Web sites; or (c) act in urgent circumstances to protect the personal safety of users of Congoo services or members of the public.</p>                        
+                        <p>Personal information collected on this site may be stored and processed in the United States or any other country in which Congoo or its affiliates, subsidiaries or agents maintain facilities, and by using this site, you consent to any such transfer of information outside of your country. The protection and handling of your personal information may be subject to the laws and regulations within the countries that your information is hosted in or transferred through.  Congoo abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.</p>
+                        
+                        
+                        <p><b>Children</b></p>
+                        <p>Children are not eligible to use our service and we ask that minors (under the age of 18) do not submit any personal information to us or use the service.</p>
+                        
+                        <p><b>Congoo Toolbar</b></p>
+                        <p>Each time you use Congoo Search, including the Congoo Toolbar, cookies may be placed on your machine and Congoo may collect your Internet IP address, the time and date of your search terms, and your browser configuration. Congoo may use this information to customize your search results.</p>
+                        <p>While you have Congoo’s Net Pass &amp; toolbar installed and running in your browser, please note that new versions of the Congoo Toolbar will automatically be installed on your computer. This keeps the software up-to-date and lets you take advantage of the newest features as soon as they are available.</p>
+                        <p>The Congoo Toolbar also includes a feature which can automatically fill out forms on Web sites with information such as your address, passwords, and credit card information so that you do not have to repeatedly type the same information or remember multiple passwords. The Toolbar will prompt you to create a single “form fill password.” You must enter the form fill password every time you wish to automatically enter a stored credit card number and the first time each browser session you wish to automatically enter a stored password.</p>
+                                                                        
+                        <p><b>Security of your Personal Information</b></p>
+                        <p>Congoo is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access, which are located in controlled facilities. When we transmit highly confidential information (such as a credit card number or password) over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.</p>
+                        
+                        <p><b>Use of Cookies</b></p>
+                        <p>Congoo does use "cookies" to enable users to sign in to Congoo services and to help personalize your online experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies contain information that can later be read by a web server in the domain that issued the cookie to you. Cookies cannot be used to run programs or deliver viruses to your computer.</p>
+                        <p>Congoo uses cookies to store your preferences and other information on your computer in order to save you time by eliminating the need to repeatedly enter the same information and to display your personalized content and appropriate advertising on your later visits to Congoo.</p>
+                        <p>When you sign in to a site using your Congoo credentials, the Congoo Network stores your unique ID number, and the time you signed in, in an encrypted cookie on your hard disk. This cookie allows you to move from page to page at the site without having to sign in again on each page. When you sign out, these cookies are deleted from your computer. The Congoo Network also uses cookies to improve the sign in experience. For example, your e-mail address may be stored in a cookie that will remain on your computer after you sign out. This cookie allows your e-mail address to be pre-populated, so that you will only need to type your password the next time you sign in.</p>
+                        <p>You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to sign in or use other interactive features of Congoo sites and services that depend on cookies.</p>
+                        
+                        
+                        <p><b>Use of Web Beacons</b></p>
+                        <p>Congoo Web pages may contain electronic images known as Web beacons - sometimes called single-pixel gifs - that allow Congoo to count users who have visited those pages and to deliver co-branded services. Congoo may include Web beacons in promotional e-mail messages or Congoo Newsletters in order to determine whether messages have been opened and acted upon.</p>
+                        <p>Congoo may also place Web beacons from third parties on our site in order to compile aggregated statistics and to help determine the effectiveness of our joint promotional or advertising campaigns. Congoo prohibits Web beacons on our site from being used by third parties to access your personal information.</p>
+                        <p>Finally, Congoo may work with other companies that advertise on Congoo to place Web beacons on their sites in order to allow us to develop statistics on how often clicking on an advertisement on Congoo results in a purchase or other action on the advertiser’s site.</p>
+                        
+                        <p><b>Use of Third Party Ad Networks</b></p>
+                        <p>Congoo allows other companies, called third-party ad servers or ad networks, to display advertisements on Congoo Web pages. Some of these ad networks may place a persistent cookie on your computer in order to recognize your computer each time they send you an online advertisement. In this way, ad networks may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. Congoo does not have access to the cookies that may be placed by the third-party ad servers or ad networks. Those ad networks that use persistent cookies may offer you a way to opt out of ad targeting. You may find more information at the Web site of either the individual ad network or the Network Advertising Initiative.</p>
+                        
+                        <p><b>Controlling "Spam" or Unsolicited E-mail</b></p>
+                        <p>Congoo is concerned about controlling unsolicited commercial e-mail, or "spam." Congoo has a strict policy prohibiting the use of all Congoo mail accounts to send spam.</p>
+                        
+                        <p><b>Changes to this Statement</b></p>
+                        <p>We will occasionally update this Privacy Statement to reflect changes in our services and customer feedback. If there are material changes to this Statement or in how Congoo will use your personal information, we will prominently post such changes prior to implementing the change. We encourage you to periodically review this Statement to be informed of how Congoo is protecting your information.</p>
+                        
+                        <p><b>Contact Information</b></p>
+                        <p>Congoo welcomes your comments regarding this Privacy Statement. If you have questions about this Statement or believe that we have not adhered to it, please contact Congoo Privacy.</p>
+                           
                         <p>
                             <b>Contact Information</b>
                         </p>
@@ -239,36 +353,52 @@
 
 
                     
-                    </tbody></table>
-                </td>
-            </tr>
-            <tr>
-                <td style="width: 1518px">
-                    
-                    
-                    
-                </td>
-            </tr>        
-            <tr>
-                <td height="1" bgcolor="#DDDDDD" style="width: 1518px"><img src="/images/sp.gif" width="1" height="1"></td>
-            </tr>
-            <tr>
-            <td height="20" align="center" class="txt" style="width: 1518px">
-                <a href="/aboutcongoo" class="greylk">About Congoo Search</a>
-                &nbsp; | &nbsp; <a href="/tos" class="greylk">Terms of Use</a>
-                &nbsp; | &nbsp; <a href="/privacy" class="greylk">Privacy Policy</a>
-                &nbsp; | &nbsp; <a href="/netpass/faq" class="greylk">Need Help?</a>
-                
-             </td>
-            </tr>
-            <tr>
-            <td align="center" valign="bottom" class="txtsm" style="width: 1518px">
-                Copyright ©2006 Congoo.com. All Rights Reserved.
+                                        
+                </tbody></table>
             </td>
-
-            </tr>
-        </tbody></table>
-    <!--</form>-->
+        </tr>
+        <tr>
+            <td style="width: 1518px">
+                
+            </td>
+        </tr>
+        <tr>
+            <td height="1" bgcolor="#DDDDDD" style="width: 1518px"><img src="/images/sp.gif" width="1" height="1"></td>
+        </tr>
+        <tr>
+            <td>
+                <table>
+                    <tbody><tr>
+                        <td height="20" align="center" class="txt" style="width: 1518px">   
+                            <a href="/user/circlebuilder" class="greylk">Build a News Circle</a> &nbsp; | &nbsp; 
+                            <a href="/alerts/briefing?rd=1" class="greylk">Get News Briefings</a> &nbsp; | &nbsp; 
+                            <a href="http://www.congoo.com" class="greylk">Congoo News Home</a> &nbsp; | &nbsp; 
+                            <a href="/netpass/install.aspx" class="greylk">Get the Netpass</a>                             
+                        </td>
+                    </tr>
+                    <tr>
+                        <td height="20" align="center" class="txt" style="width: 1518px">
+                            <a href="/aboutcongoo" class="greylk">About Congoo</a> &nbsp; | &nbsp; 
+                            <a href="/tos" class="greylk">Terms</a> &nbsp; | &nbsp; 
+                            <a href="/privacy" class="greylk">Privacy</a> &nbsp; | &nbsp; 
+                            <a href="/netpass/faq" class="greylk">Need Help?</a> &nbsp; | &nbsp; 
+                            <a href="/newssitemap" class="greylk">Site Map</a>
+                            
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" valign="bottom" class="txtsm" style="width: 1518px">
+                Copyright ©2007
+                Congoo.com. All Rights Reserved.
+            </td>
+        </tr>        
+        </tbody></table>       
+        <!--<input type="submit" name="ctl00$btnCongooSearch" value="" id="ctl00_btnCongooSearch" />-->
+    
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgL3/OzfBwLxlJbBDJfjT9jgS7WXMGxwc7KD1cd9hmZu"></form>
 
 
 </body></html>
