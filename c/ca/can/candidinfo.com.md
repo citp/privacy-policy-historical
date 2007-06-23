@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the candidinfo.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205213804id_/http%3A//candidinfo.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candidinfo.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623190244id_/http%3A//www.candidinfo.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy of Candidinfo an Indian website - Your Information Powerhouse
 
@@ -56,6 +56,6 @@ E 47/7 Second Floor,
 Okhla Phase II  
 New Delhi  
 INDIA  
-Ph: +91-9810178155
+Ph: +91-4`720246
 
 _
