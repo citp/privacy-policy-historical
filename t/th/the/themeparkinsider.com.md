@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themeparkinsider.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206221918id_/http%3A//www.themeparkinsider.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themeparkinsider.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623214449id_/http%3A//www.themeparkinsider.com/privacy) for the most accurate reproduction.*
 
 # Protecting Your Privacy on Theme Park Insider
 
