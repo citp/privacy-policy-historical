@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the visitmix.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209233323id_/http%3A//visitmix.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitmix.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623212448id_/http%3A//www.visitmix.com/privacy) for the most accurate reproduction.*
 
-# MIX07.com - Privacy Policy
+# Privacy Policy : MIX Online
 
-Microsoft is committed to protecting your privacy. This privacy statement explains data collection and use practices of the MIX site (the “Site”) hosted for Microsoft by ORCSWEB; it does not apply to other online or offline Microsoft sites, products or services. By accessing the Site, you are consenting to the information collection and use practices described in this privacy statement.
+Microsoft is committed to protecting your privacy. This privacy statement explains data collection and use practices of the VisitMix site (the “Site”) hosted for Microsoft by ORCSWEB; it does not apply to other online or offline Microsoft sites, products or services. By accessing the Site, you are consenting to the information collection and use practices described in this privacy statement.
 
 **Collecting Your Personal Information**  
 We will ask you when we need information that personally identifies you or allows us to contact you. The personal information we collect may include your name, title, company or organization name, work e-mail, work phone, work or home address, information about your job function, information about your company, and credit card information.
@@ -49,9 +49,9 @@ You have the ability to accept or decline cookies. Most web browsers automatical
 We may occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this privacy statement, we will notify you either by placing a prominent notice on the home page of our web site or by directly sending you a notification. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates. 
 
 **Contact Information**   
-Microsoft welcomes your comments regarding this privacy statement. If you believe that Microsoft has not adhered to this privacy statement, please contact us by e-mail at [mix@microsoft.com](mailto:mix@microsoft.com) or via postal mail at the address provided below, and we will use commercially reasonable efforts to promptly determine and remedy the problem.
+Microsoft welcomes your comments regarding this privacy statement. If you believe that Microsoft has not adhered to this privacy statement, please contact us by e-mail at [visitmix@microsoft.com](mailto:visitmix@microsoft.com) or via postal mail at the address provided below, and we will use commercially reasonable efforts to promptly determine and remedy the problem.
 
-MIX Privacy  
+VisitMix Privacy  
 Microsoft Corporation  
 One Microsoft Way  
 Redmond, Washington 98052-6399
