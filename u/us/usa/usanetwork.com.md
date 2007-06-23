@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the usanetwork.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205194728id_/http%3A//www.usanetwork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usanetwork.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623024206id_/http%3A//www.usanetwork.com/privacy) for the most accurate reproduction.*
 
-# USA Network | Privacy
+# Official USA Network Website Privacy Policy - Personal Data, Cookies, IP - USA Network
 
 **_NBC UNIVERSAL WEB SITE PRIVACY POLICY_**
 
