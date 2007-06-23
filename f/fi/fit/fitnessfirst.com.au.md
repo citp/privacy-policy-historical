@@ -1,99 +1,88 @@
-> *The following text is extracted and transformed from the fitnessfirst.com.au privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211214149id_/http%3A//www.fitnessfirst.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitnessfirst.com.au privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623063227id_/http%3A//www.fitnessfirst.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy statement | Fitness First Australia | Fitness, Health club, Gym, Training, Weight loss, Exercise, Aerobics, Personal training
 
-[Home](http://www.fitnessfirst.com.au/ "Home") > Privacy statement **Our privacy assurance to you  
-** At Fitness First your privacy has always been important to us. We are currently going through our policies and procedures that effect the way we store, collect and use information to make sure that we comply with the National Privacy Principles (new privacy laws which apply from 21 December 2001).  
-This privacy policy explains how we collect personal information and how we maintain, use and disclose that information. It also provides some detail about your privacy rights along with our general rights and obligations and our policy in relation to the personal information we keep on record.  
-When you become a member, the application form includes notices about privacy and requests for consent. This privacy notice (called Customer Direct Debit Service Agreement and Privacy Statement and Acknowledgement) specifies in more detail how any information about you may be used and disclosed in relation to your membership.  
-**What information does Fitness First hold?  
-** The types of information we ask for are standard from club to club. We keep records of one or more of the following types of information about you:  
-· information that identifies you, such as your name, address, date of birth, contact numbers and other information provided by you and people nominated by you;  
-· bank account details and or credit card details provided by you for the purpose of collecting monthly membership fees;  
-· health information provided by you through the 'pre-exercise questionnaire;  
-· account transaction information including credits and debits of monthly payments;  
-All information sought is required for our business purposes, which are generally detailed in this information notice.  
-We do not actively seek to collect sensitive information (for example information about your racial, sexual or ethnic origin or any criminal record), unless it is necessary for our business purposes. If we do have to collect sensitive information, we will do so in accordance with the National Privacy Principles.  
- **How Fitness First collects your information  
-** Generally, we only collect personal information about you from you, unless it is not reasonable or practical for us to do so or you consent. This information is usually collected upon becoming a member of Fitness First or over the reception counter via member information change forms.  
- **What rights does Fitness First have to disclose personal information?  
-** Fitness First does not disclose any of the information collected from its members except for credit agencies (in the case of financial information) and our staff/personal trainers (in the case of health information)  
-Sometimes the law requires or allows us to give out information about you. For example, by giving your account details to a court if we are ordered to do so under a subpoena.  
-We will not disclose your health information or information about your medical history unless you tell us to.  
- **Access to your information  
-** You can request access to personal information we hold about you by completing the required forms at your home club's reception. We will process your request within a reasonable time, usually 14 working days for a straightforward request. More time may be needed, depending on the nature of the request. There is no fee for requesting access to your information.  
- **Correction of information  
-** We try to ensure that all information we hold about you which we collect, use or disclose is accurate, complete and up to date. You must promptly notify us if there are any changes to your personal information by filling the appropriate forms at your home club's reception.  
+[Home](http://www.fitnessfirst.com.au/ "Home") > Privacy statement **As a leading Australian health club operator, Fitness First Australia Pty Limited (Fitness First) needs a wide range of "personal information" in order to carry out its business. "Personal information" is essentially information from which you can be identified. This Privacy Policy explains Fitness First's approach to the handling of personal information, and how we comply with our privacy obligations.  
+**  
+Fitness First is bound by the National Privacy Principles contained in the _Privacy Act_ 1988\. If you provide us with information about your health, we also strive to ensure that our handling of that information complies with applicable State and Territory health records legislation.  
+
+
+**1\. What personal information does Fitness First collect and why?  
+** Fitness First collects personal information from its members and from membership applicants, contractors, employees, and people we do business with.  
   
-Fitness First would like to welcome all new visitors and current members to our website. We can ensure all visitors to our Website that information given to us through this site is secured by using a Class 3 Authentication 128bit (Secure Sockets Layer) SSL technology encryption. When entering a secure site you will notice the small padlock at the bottom of you web browser. Some browsers have a key icon instead. This is your guarantee of absolute security.  
-'Global Site Services enable 128bit SSL encryption with both domestic (US) and export (outside US) versions of Microsoft and Netscape browsers (Note: "Export-version" browsers are used by over 50 percent of Internet users), 128bit SSL encryption, the world's strongest for Web servers, has never been broken. According to RSA Labs, it would take a trillion-trillion years to crack using today's technology.' eSign.com.au  
-In the unlikely event of an unauthorised use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures.  
-The new privacy rules are summed up in ten National Privacy Principles (or NPPs). These are listed below.  
-**NPP 1: Collection**  
-An organisation may only collect personal information that is necessary for its activities and the collection must be fair and not intrusive. A person must be given certain prescribed information at the time of collecting information from them.
+Fitness First needs personal information:  
+\- to provide its members with personalised fitness services (including assessments of physical fitness, health status and goals); and  
+- to conduct our business (eg to administer accounts, charge fees and to communicate with our members and business contacts).   
 
-**NPP 2: Use and Disclosure**  
-An organisation must only use or disclose personal information for the primary purpose of the collection or a related secondary purpose which a person would reasonably expect or with the individual's consent.
 
-**NPP 3: Information Quality**  
-An organisation must take reasonable steps to ensure the accuracy of its information records
-
-**NPP 4: Information Security**  
-An organisation must take reasonable steps to protect the personal information it holds from misuse, loss, unauthorised access, modification or disclosure
-
-**NPP 5: Openness**  
-An organisation must have a policy document outlining its information handling practices and make this available to anyone who asks.
-
-**NPP 6: Access and Correction**  
-Access to and correction of personal information must be made available on request to the individual.
-
-**NPP 7: Use of Government Identifiers**  
-An
-
-organisation must not use a prescribed identifier (e.g. Medicare number) as a method of identifying a person for their records
-
-**NPP 8: Anonymity**  
-A customer should be able to be anonymous when conducting transactions, if practicable and legal
-
-**NPP 9: Trans-border Data Flows**
-
-Personal information should not be transferred to countries which do not have equivalent data protection
-
-**NPP 10: Sensitive Information**  
-An
-
-organisation can only collect and use sensitive information with the individual's consent.  
+To illustrate, the personal information we collect about our members includes:  
+- **Identification Information** , including each member's name, address, contact details (including telephone numbers and email address), date of birth and driver's licence number;  
+- **Health information** , including information provided on the pre-exercise questionnaire (that members complete upon becoming a member of Fitness First) and information we collect in the course of memberships. Health information is a sensitive form of personal information, so we only collect it with your consent, and we only collect what we need;  
+- **Financial Information** , including bank account details and credit card details, as well as information about payment or non-payment of membership fees.  
   
-**New National Privacy Principles**
-
-Privacy is an important right in our society. Amendments to the Privacy Act 1988 will come into force on December 21 2001, introducing new rules guiding how private sector organisations may collect, use, disclose, keep secure and give access to personal information. These new rules are set out in a framework of The Ten National Privacy principals.
-
- **Collection of personal information**
-
-Under the privacy rules, we must:   
+We need this personal information to provide health and fitness services, and is collected from application forms, and when members attend our clubs and communicate with us through our website.  
 
 
-  * _Only collect information that is necessary for our activities;_  
+We also collect:  
+- **Business Contact Information** from and about our suppliers and other people we do business with (eg our landlords). This information is needed so that we can manage our business;  
+- **"Next of Kin" Information** , which we collect from our members for use in the case of an emergency. We suggest that our members tell their next of kin that they have been nominated for this purpose; and  
+- **Employee Information**. However, this Privacy Policy does not apply to personal information collected or held by us about our employees. Employees should contact our HR Department if they have privacy questions.  
 
-  * _Collect information in a fair and lawful way; and_   
+
+**2\. How does Fitness First use personal information?  
+** As indicated, we use personal information to provide fitness and health services, to manage and administer club memberships and to operate our business.  
 
 
-As far as is practical, collect information directly from the individual.  
-**Fitness First Privacy Principles  
-** These principles set out how we will deal with information that we collect from you.  
-**1.** We will only collect information that is necessary for what we do.  
-**2.** We will be fair in the way we collect information about you.  
- **3.** We will tell you what we intend to do with information about you.  
-**4.** Where practicable, we will collect personal information directly from you.  
-**5.** If we collect information about you from someone else we will, wherever possible, make sure you know we have done this.  
-**6.** We will use or disclose information about you in ways that are consistent with your expectations and our privacy statement or are required in the public interest.  
-**7.** We will ensure that information about you is accurate when we collect or use it.  
-**8.** We will keep information about you secure.  
-**9.** We will be open with you about what kind of personal information we hold and what we do with it.  
-**10.** Wherever possible we will let you see the information we hold about you and correct it if it is wrong.  
-**11.** We will limit our use of identifiers that government agencies have assigned to you.  
-**12.** If we can (and you want to) we will deal with you anonymously.  
-**13.** We will take steps to protect your privacy if we send personal information about you to a third party.  
-**14.** We will limit the collection of highly sensitive information about you.  
-We will try to answer any questions you may have, correct any error on our part or resolve any complaint that you may have about our information handling practices. If we do not resolve a complaint to your satisfaction, you also have the right to complain to the Privacy Commissioner. Please send all questions to [privacy@fitnessfirst.com.au](mailto:privacy@fitnessfirst.com.au)  
+For example, if you are a member, will use your personal information to process your membership application, charge you membership fees and administer your account. We will also use your personal information to communicate with you, including answering any enquires you may have.  
+Unless you tell us otherwise, we may also use members' personal information to mail out special promotions, newsletters and other marketing material.  
+For instance, Fitness First may mail its members information about its own promotions, or those offered by our business partners. If you don't want us to do this, we give you an opportunity to "opt out" from receiving such material on our pre-exercise questionnaire form. However, you can opt out at any time by contacting our Privacy Officer (see details at section 8 below).  
+
+
+**3\. Does Fitness First share my personal information with anyone else?  
+** Fitness First will disclose your personal information in a few different ways.  
+  
+Like most businesses, sometimes we outsource or "contract out" specific support services from time to time, and this may mean that our contractors see your personal information. For instance, sometimes we may engage IT contractors to maintain our databases. All our contractors are subject to strict confidentiality obligations, which means that they are authorised only to use personal information in order to provide the services or to perform the functions required by us.  
+  
+We will disclose personal information if we are under a legal requirement to do so (eg under a court order, or if required under legislation), or if an authorised request is made from a law enforcement agency.  
+Otherwise, we will only disclose personal information with the consent of the relevant individuals. For example, if you are a member, _with your consent (and only with your consent):  
+_ - we may provide personal information to Fitness First's personal trainers to assist you to improve your fitness and well being, and so they can advise you which fitness programs are suitable for you. If personal trainers are contractors (rather than Fitness First employees), their contracts with us require them to keep your personal information confidential. Of course, all our employees are required to keep your personal information confidential also; and  
+- we may disclose personal information to our business partners so that they can contact you directly with special offers, discounts or other membership benefits.  
+
+
+**4\. How can I access my Personal Information?  
+** Privacy laws give you rights to seek access to the personal information we hold about you.  
+You can seek access by completing an access request form at your home club's reception, or by writing to our Privacy Officer (see contact details at section 8 below). Generally, we should be able to provide you with access within a month of your request, although we may need more time if your request is complicated. Ordinarily, Fitness First will not charge you for the cost of providing access to your personal information. However, if we do propose to charge you, we will advise you of the relevant charge before we provide you with access.  
+We try to ensure that all the personal information that we hold about you is accurate, complete and up-to-date. However, we rely on you to help us with this. If you wish to update or correct the personal information we hold about you, please complete the access request form at your home club's reception, or by writing to our Privacy Officer. We will contact you if there is any issue about amending the record of personal information we hold about you.  
+If you wish to discuss our method of providing access or correction to personal information, please contact our Privacy Officer with your query.  
+
+
+**5\. Is my Personal Information kept secure?  
+** Fitness First takes reasonable steps to ensure that the personal information we hold is stored in a secure environment protected from unauthorised access, modification or disclosure. We remind our staff and contractors of the importance of storing personal information in a secure way, and to treat it like confidential information.  
+
+
+**6\. Anonymity  
+** Fitness First only offers its health and fitness services to members, and it is not possible to become a member of Fitness First without providing Fitness First with the personal information that is requested in our application form and in our pre-exercise questionnaire.  
+We may be able to answer telephone questions without collecting personal information about you, but if you would like to use our clubs, we need your personal information. This is in everyone's interests (eg if you fall ill at one of our clubs, we need to know who you are).  
+
+
+**7\. Website/online privacy  
+** As we also collect personal information through [www.fitnessfirst.com.au](http://www.fitnessfirst.com.au/) (our website), this Privacy Policy also outlines our approach to online privacy issues. In that context, it is to be read as forming part of the terms of use for our website.  
+Generally, Fitness First will handle personal information collected online consistently with the way that it handles personal information collected offline. Other matters specific to Fitness First's handling of personal information online are set out below.  
+ **a) Cookies  
+** When you visit our website, we will not collect any personal information unless you chose to provide it to us (eg by sending us emails through our website). However, we may collect certain data that does not identify you (sometimes called "web log information") when you visit certain pages, such as the type of browser and operating system you have. We may also use "cookies" which are small files that are stored on your computer and that manage the security and navigation process of the site. You can choose to block these cookies but some portions of the site may not function correctly if you do. This type of data is collected for statistical purposes only, and while cookies will identify your computer, they are unlikely to identify you personally.  
+ **  
+b) Email/SMS marketing  
+** We will not email or SMS you marketing material unless you have consented to this. This is a requirement of the _Spam Act_ 2003\. Further, you can unsubscribe from our e-newsletter or other bulletins by using the "unsubscribe" facility contained in each electronic publication we send.  
+  
+**c) Site security policy**  
+Our website uses up-to-date technology to maximise the security of your personal information.  
+
+
+**8\. Contact details and other information**  
+If you have any queries or concerns about privacy or this Privacy Policy, you can either provide a written request or complaint at one of our clubs, or you can contact our Privacy Officer as follows;  
+- by letter: Privacy Officer, Fitness First Head Office, Level 3/ 55 Grafton St, Bondi Junction NSW, 2022;  
+- by telephone: (02) 9387 5266; or  
+- by email to [privacy@fitnessfirst.com.au](mailto:privacy@fitnessfirst.com.au)   
+This Privacy Policy applies to Fitness First Australia Pty Limited, its employees and contractors.  
+Fitness First may change its Privacy Policy at any time. This Privacy Policy was last updated in September 2006.  
 
