@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the heraldsun.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206001256id_/http%3A//www.heraldsun.com/legal/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heraldsun.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623052600id_/http%3A//www.heraldsun.com/legal/privacy.cfm) for the most accurate reproduction.*
 
-# heraldsun.com: privacy statement
+# heraldsun.com: heraldsun.com: privacy statement
 
 heraldsun.com respects your privacy. 
 
