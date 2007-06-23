@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cardevotion.com privacy policy that was archived on 2006-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061201102420id_/http%3A//www.cardevotion.com/contact/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardevotion.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623224459id_/http%3A//cardevotion.com/contact/Privacy.asp) for the most accurate reproduction.*
 
-# CarDevotion.com: Find a Car
+# CarDevotion.com: Privacy Policy
 
 This privacy policy ("Policy") discloses the data collection and use practices of CarDevotion ("CarDevotion") in connection with the CarDevotion Web site (the "Web Site") and all associated CarDevotion products and services (the "CarDevotion Services").
 
@@ -8,11 +8,29 @@ CarDevotion will not directly inform you of any changes to the privacy policy wh
 
 **What Information We Collect/How We Use It**
 
-We store and use the information you give us in accordance with the terms of this Policy. Our registration form (or registration information you provide our marketing partners if you joined Pharmdaily though one of our partners) requests that you provide certain contact and profile information. That information includes but may not be limited to: name, address, email address, phone number, gender and birth date.
+We store and use the information you give us in accordance with the terms of this Policy. Our registration form (or registration information you provide our marketing partners if you joined CarDevotion though one of our partners) requests that you provide certain contact and profile information. That information includes but may not be limited to: name, address, email address, phone number, gender and birth date. Additional information may include, but not be limited to, car and lifestyle information about you and your family such as marital status and household information (spouse, children, pets, etc.), ethnicity, education, income, occupation, purchasing habits, reading habits, insurance, and participation in research surveys.
+
+In addition, we might receive information about you from outside sources and add it to your CarDevotion membership information. We do this to improve personalization of our services (for example, providing better newsletter content, advertising or special offers that we think will interest you). 
+
+We also may collect information such as the identification of the server your computer is logged onto and whether you opened a CarDevotion e-mail delivered to you. We also may compare our customer list to lists received from other companies, in an effort to avoid sending identical messages to our members. You can add and modify the information you have provided by sending an e-mail to [information@CarDevotion.com](mailto:information@cardevotion.com) with your requested changes. 
+
+We use all this information in five ways: 
+
+  * to provide you with personalized information via electronic delivery, telemarketing and/or direct mail. These may include personalized offers from 3rd party sources. 
+  * to send you targeted advertising via electronic delivery and/or direct mail; 
+  * to contact you for feedback and surveys via electronic delivery and/or direct mail; 
+  * to send you general and administrative information about your CarDevotion membership via electronic delivery and/or direct mail; and 
+  * to provide your contact information to CarDevotion marketing partners whose offer(s) you have selected to receive in order for them to send you special offers via electronic delivery, telemarketing and direct mail. 
+
+
+
+**Agents**
+
+We employ other companies and individuals to perform certain functions on our behalf. These companies and individuals may include but are not limited to pharmaceutical companies and their subsidiaries and affiliates, and manufacturers of food and health-related and consumer-related products and services and their subsidiaries and affiliates. Examples include sending direct and electronic mail, removing duplicate information from customer lists, analyzing data, and providing marketing analysis. These agents have access to member personal information as needed to perform their functions for CarDevotion. 
 
 **Cookies**
 
-We use cookies on the site to deliver personalized content. Many Web browsers are automatically set to accept cookies. You may change your browser settings to either reject cookies or notify you when a cookie is about to be placed on your computer. Please note, however, that rejecting cookies while visiting the CarDevotion Web Site may result in certain parts of the CarDevotion Web Site not operating correctly or as efficiently as if they were allowed.
+We use cookies on the site to deliver personalized content. Many Web browsers are automatically set to accept cookies. You may change your browser settings to either reject cookies or notify you when a cookie is about to be placed on your computer. Please note, however, that rejecting cookies while visiting the CarDevotion Web Site may result in certain parts of the CarDevotion Web Site not operating correctly or as efficiently as if they were allowed. 
 
 We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous.
 
@@ -22,7 +40,7 @@ In some instances we may include certain links in our e-mails that will allow us
 
 **Disclosures**
 
-CarDevotion may disclose information about you and your use of the CarDevotion Web Site and the CarDevotion Services if CarDevotion believes such disclosure is reasonably necessary: (i) to comply with the law or legal process; (ii) to protect or defend the rights or property of CarDevotion or others; (iii) to enforce the CarDevotion Terms and Conditions or this Privacy Policy; and (iv) to respond to claims that the content(s) of a communication violates the rights of another. In addition CarDevotion may share or transfer information about you and that you provide to CarDevotion, to one or more third party entities pursuant to a sale, merger, assignment, joint venture or other transfer or disposition of a portion, or all of, the assets or stock of CarDevotion or its affiliated entities, or as otherwise provided herein.
+CarDevotion may disclose information about you and your use of the CarDevotion Web Site and the CarDevotion Services if CarDevotion believes such disclosure is reasonably necessary: (i) to comply with the law or legal process; (ii) to protect or defend the rights or property of CarDevotion or others; (iii) to enforce the CarDevotion Terms and Conditions or this Privacy Policy; and (iv) to respond to claims that the content(s) of a communication violates the rights of another. In addition CarDevotion may share or transfer information about you and that you provide to CarDevotion, to one or more third party entities pursuant to a sale, merger, assignment, joint venture or other transfer or disposition of a portion, or all of, the assets or stock of CarDevotion or its affiliated entities, or as otherwise provided herein. 
 
 **Reports**
 
