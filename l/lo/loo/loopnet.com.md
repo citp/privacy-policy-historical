@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the loopnet.com privacy policy that was archived on 2006-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061014165400id_/http%3A//www.loopnet.com/xNet/MainSite/Marketing/About/Privacy.aspx%3FLinkCode%3D830) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loopnet.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623171409id_/http%3A//www.loopnet.com/xNet/MainSite/Marketing/About/Privacy.aspx%3FLinkCode%3D830) for the most accurate reproduction.*
 
 # LoopNet - Privacy Policy
 
-Last Updated: March 22, 2006
+Last Updated: March 22, 2007
 
 LoopNet, Inc., and its website located at [http://www.loopnet.com](http://www.loopnet.com/), is a licensee of the TRUSTe Privacy Program. This statement discloses the privacy practices for the LoopNet web site. When you visit a web site displaying the TRUSTe trustmark, you can expect to be notified of the following information: 
 
@@ -20,7 +20,7 @@ If the web site has not responded to your inquiry or your inquiry has not been s
 
 **LoopNet's Privacy Statement**
 
-LoopNet provides a variety of online services for commercial real estate professionals. LoopNet values your privacy, feedback and candor very highly. Any user information we collect is considered private and we do not use it or share it except as permitted herein, without the user's permission. We use this personal information at LoopNet to provide the best quality service possible. The following policy statement summarizes LoopNet's protection and use of any personal information provided by visitors to the LoopNet site.
+This privacy statement covers the website [http://www.loopnet.com](http://www.loopnet.com/). LoopNet provides a variety of online services for commercial real estate professionals. LoopNet values your privacy, feedback and candor very highly. Any user information we collect is considered private and we do not use it or share it except as permitted herein, without the user's permission. We use this personal information at LoopNet to provide the best quality service possible. The following policy statement summarizes LoopNet's protection and use of any personal information provided by visitors to the LoopNet site.
 
 **Information Collected by LoopNet:**
 
@@ -32,7 +32,7 @@ Collected information helps LoopNet better understand its users' needs in order 
 
 **Use of Email Tools:**
 
-You may NOT use the Email The Broker, Email a Listing service or other email services that we offer to send spam (i.e. unsolicited commercial email) or otherwise send content that would violate LoopNet's Terms and Conditions. We may monitor, track or save the use of this feature, but will be under no obligation to monitor, track or save these email messages sent from these tools. If you send and email using the Email This Item to a Friend service to an email address that is not registered in our system, we do not use that email address for any purpose other than to send your email. We also do not rent or sell these email addresses of un-registered users. 
+You may NOT use the Email The Broker, Email a Listing service or other email services that we offer to send spam (i.e. unsolicited commercial email) or otherwise send content that would violate LoopNet's Terms and Conditions. We may monitor, track or save the use of this feature, but will be under no obligation to monitor, track or save these email messages sent from these tools. If you send and email using the Email This Item to a Friend service to an email address that is not registered in our system, we do not use that email address for any purpose other than to send your email, and for us to automatically send your friend a one-time email inviting him or her to visit the site. LoopNet stores this information for the sole purpose of sending this one-time email and for tracking the success of our referral program. We also do not rent or sell these email addresses of un-registered users.
 
 **Shared information:**
 
@@ -42,7 +42,7 @@ LoopNet shares member information in the following areas on the site: Listing Se
 
 LoopNet shares information with its partners for the purpose of providing related services in which we deem our users have interest. The use that LoopNet's partners make of customer information will not exceed LoopNet's use of the data. Key billing information (such as credit card number, expiration date and dollar amount) gathered from users making online purchases of products or services is shared with VeriSign, our credit card processing partner, in order to authorize charges to the credit card. LoopNet also uses third party providers to perform email and postal mailings on behalf of LoopNet, but this information (such as name, address and email) is confidential and is not used by the provider for any other purpose.
 
-LoopNet does not sell, rent or lease user information to any third party, except as disclosed here. From time to time, LoopNet may obtain information (such as electronic mail addresses) from third party providers. It is our goal to only contact individuals who we believe may have a legitimate business interest in LoopNet based on their membership or participation in other organizations or web sites, and who have indicated a willingness to be contacted for this purpose. While LoopNet endeavors to work with other sites and companies with a similar respect for user privacy, LoopNet cannot be responsible for the privacy practices of other sites.
+LoopNet does not rent or lease user information to any third party, except as disclosed here. From time to time, LoopNet may obtain information (such as electronic mail addresses) from third party providers. It is our goal to only contact individuals who we believe may have a legitimate business interest in LoopNet based on their membership or participation in other organizations or web sites, and who have indicated a willingness to be contacted for this purpose. While LoopNet endeavors to work with other sites and companies with a similar respect for user privacy, LoopNet cannot be responsible for the privacy practices of other sites.
 
 Please be aware that in the event LoopNet merges with a third party, or in the event all or substantially all of LoopNet's assets are acquired by a third party, customer information, including personally identifiable information, will be shared and/or transferred to such third party. The information may only be used or shared by such third parties for the primary purpose for which the information was originally collected. If such third parties, or if LoopNet for its own business needs, desire to use the personally identifiable information for another purpose, you will be notified prior to the information being used for a new purpose, and you will have the opportunity to opt out of such new use of your personally identifiable information.
 
@@ -55,6 +55,22 @@ The security of your personal information is important to LoopNet. When you ente
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
 If you have any questions about security on our Web site, you can email us at [privacy@loopnet.com](mailto:privacy@loopnet.com).
+
+**Cookies:**
+
+Cookies are used on this site. A cookie is a small text file that is stored on a user's computer for record-keeping purposes.
+
+We use both session cookies and persistent cookies. We use session cookies to make it easier for you to use our site and to enable certain specialized functionality that requires maintaining information about your session. A session cookie is not stored on your hard disk and expires when you close your browser. A persistent cookie remains on your hard disk for an extended period of time. You can remove persistent cookies by following the directions in your Internet browser's "help" files.
+
+If you select the "Remember Me" function on the web site, we will store a persistent cookie on your hard drive which allows you to bypass the login requirement each time you access the site. Additionally, we use a persistent cookie to enable us to track and target the interests of our users to enhance the experience on our site.
+
+We do not store in persistent cookies any personally identifiable information you submit while on our site.
+
+Due to the functionality provided by our site, the use of cookies is required. If you reject cookies, our site will not perform properly.
+
+**Testimonials:**
+
+We post customer testimonials on our web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent to post their name along with their testimonial prior to any posting of such testimonial.
 
 **Opting-out, editing, updating or deleting personal information:**
 
