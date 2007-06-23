@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wtov9.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231072616id_/http%3A//www.wtov9.com/station/1953096/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtov9.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623104824id_/http%3A//www.wtov9.com/station/1953096/detail.html) for the most accurate reproduction.*
 
-# Privacy Policy - WTOV9
+# Privacy Policy - WTOV9 News Story - WTOV Steubenville
 
 Effective date: 2/4/03 
 
