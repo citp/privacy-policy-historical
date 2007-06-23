@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the nuance.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205232808id_/http%3A//www.nuance.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuance.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623063850id_/http%3A//www.nuance.com/company/privacy) for the most accurate reproduction.*
 
 # Nuance - Company - Privacy Policy
 
 Nuance Communications, Inc. ("Nuance") is dedicated to making your online experience as interesting and enjoyable as possible. We truly appreciate your presence on our site and at all times understand that you are our guest and should be treated accordingly. To ensure this, we have listed the components of our Privacy Policy below.
 
 ## Use of Personal Information
+
+Nuance Communications, Inc. abided by the Privacy Principles of the Safe Harbor Program as administered by the USA Department of Commerce. Details of these principles may be found at: [www.export.gov/SafeHarbor](http://www.export.gov/SafeHarbor).
 
 Any information you submit through Nuance's web sites will be held in the strictest confidence. In no way will your personal information ever be used without your consent. To ensure this, all forms on our web sites that send information to a database that may be used in the future, e.g. mailing lists, registration, etc., have check boxes where you specify whether or not you would like to receive information from us in the future. Forms used just to send email, post messages, etc., do not include the option, but will never be used to send information. Be assured that we do not sell our name and address lists. If you choose to receive information from us, each message will also include instructions on how to "unsubscribe" from future mailings should you wish to cancel.
 
