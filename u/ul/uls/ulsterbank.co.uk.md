@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ulsterbank.co.uk privacy policy that was archived on 2006-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060724043326id_/http%3A//www.ulsterbank.co.uk/ni_global_options.asp%3Fid%3DGLOBAL/PRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ulsterbank.co.uk privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623080059id_/http%3A//www.ulsterbank.co.uk/ni_global_options.asp%3Fid%3DGLOBAL/PRIVACY) for the most accurate reproduction.*
 
 # Ulster Bank: Privacy Policy
 
@@ -29,7 +29,7 @@ The procedure for disabling cookies depends on the web browser that you have cho
 
 If you use Internet Explorer, [ www.microsoft.com/info/cookies.htm](http://www.microsoft.com/info/cookies.htm "Microsoft's website. Opens in a new window")
 
-If you use Netscape, [ www.netscape.com/legal_notices/cookies.html](http://www.netscape.com/legal_notices/cookies.html "Netscape's website. Opens in a new window")
+If you use Netscape, [ wp.netscape.com/legal_notices/cookies.html](http://wp.netscape.com/legal_notices/cookies.html "Netscape's website. Opens in a new window")
 
 You should be aware that ULSTER BANK is unable to control the use of cookies or the resulting information by other third parties. 
 
