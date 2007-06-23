@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unclehenrys.com privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114093400id_/http%3A//www.unclehenrys.com/Common/Content/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unclehenrys.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623132448id_/http%3A//www.unclehenrys.com/Common/Content/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Uncle Henry's - Classifieds : About Us : Privacy Policy
 
