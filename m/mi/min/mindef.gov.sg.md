@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindef.gov.sg privacy policy that was archived on 2006-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061221164236id_/http%3A//www.mindef.gov.sg/imindef/footer/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindef.gov.sg privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623215510id_/http%3A//www.mindef.gov.sg/imindef/footer/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
