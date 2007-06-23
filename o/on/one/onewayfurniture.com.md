@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onewayfurniture.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017201227id_/http%3A//onewayfurniture.com/ccprv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onewayfurniture.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623041513id_/http%3A//www.onewayfurniture.com/ccprv.html) for the most accurate reproduction.*
 
 # Your Privacy is Our Priority
 
