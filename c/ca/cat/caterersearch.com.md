@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the caterersearch.com privacy policy that was archived on 2006-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060506024149id_/http%3A//www.caterersearch.com/StaticPages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caterersearch.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623145918id_/http%3A//www.caterersearch.com/StaticPages/privacy.htm) for the most accurate reproduction.*
 
-# CatererSearch: News, jobs & information for hospitality & catering
+# CatererSearch
 
-This website is owned and operated by [Reed Business Information Limited](http://www.caterersearch.com/StaticPages/aboutus.htm). Information we collect from our customers and users of our websites may be used in the following ways.  If the website offers recruitment services please also see Privacy information for job seekers.
+This website is owned and operated by [Reed Business Information Limited](http://www.rbi.co.uk/rb2_about/rb2_about_profile.htm). Information we collect from our customers and users of our websites may be used in the following ways.  If the website offers recruitment services please also see Privacy information for job seekers.
 
  **Subscription Services  
 ** Personal information provided as part of the registration process for any publication, product or service is used to manage your subscription and to enable us to provide a better service. 
@@ -11,13 +11,13 @@ This website is owned and operated by [Reed Business Information Limited](http:/
 Any information provided by you in connection with any transaction regarding your credit or debit card numbers, expiry date and billing or delivery address will be used by us to process the transaction. These details will be stored on a secure server and may be used by us to facilitate and personalise future transactions with you.  If you do not wish us to store and use the information for future transactions, please contact us. 
 
   **Contact details**   
-We will use contact details provided by you as part of any registration process (i.e. your name, job title, telephone and fax number and your e-mail and postal addresses) to provide any product or services requested by you and also to tell you about important changes to relevant subscription services and their functionality. 
+We will use your contact details (your name, job title, telephone and fax number and your e-mail and postal addresses) to provide any services requested by you and also to tell you about important changes to the site and its functionality.
 
-Contact details other than e-mail addresses will be used by us and by our associated companies to provide you with information about other services and products which may interest you and may also be disclosed to third party businesses and advertisers for the same purpose.  If you do not wish to be contacted for this purpose, you may register your preferences by [clicking here ](http://www.caterersearch.com/StaticPages/terms.htm)
+Contact details other than e-mail addresses will be used by us and by our associated companies to provide you with information about other services and products which may interest you and may also be disclosed to third party businesses and advertisers for the same purpose.  If you do not wish to be contacted for this purpose, you may register your preferences on the [registration page.](http://www.reedbusiness.co.uk/dataprotection/)
 
-We will not use or disclose your e-mail address for marketing purposes unless you have agreed that we may use or disclose it in this way.  You may at any time opt-out of receiving further e-mails by registering your preference [here](http://www.caterersearch.com/StaticPages/terms.htm)
+We will not use or disclose your e-mail address for marketing purposes unless you have agreed that we may use or disclose it in this way.  You may at any time opt-out of receiving further e-mails by registering your preference [here](http://www.caterersearch.com/login/login.aspx)
 
-If you wish to alter any of your registration details please [click here](http://www.caterersearch.com/mycaterersearch)
+If you wish to alter any of your registration details please [click here](http://www.caterersearch.com/login/login.aspx)
 
  **Voluntary Information**  
 We may ask for further information about you as part of online surveys or if you enter any competition or other promotional feature. This information will be used to enable us to improve the relevant publication, product or service and may also be disclosed to other companies as specified in the relevant promotion.  
@@ -40,17 +40,15 @@ There is no personally identifiable information held on cookies. An example of a
 You have the option to decline cookies, but if you decline you may not be able to access all the functionality of the site. 
 
 **We strongly recommend you accept any cookies used by this site.  
-**  
- **  
+** **  
 Web Activity Reporting**  
-We use Webtrends software which requires a cookie in order to gather valuable information about how users navigate around the site. Click here for the Webtrends privacy policy. [http://www.netiq.com/about_netIQ/privacypolicy.asp **#**](http://www.netiq.com/about_netIQ/privacypolicy.asp#)
+We use Hitbox analytics software from WebSideStory which requires a cookie in order to gather valuable information about how users navigate around the site. Click here for the [WebSideStory privacy policy](http://www.websidestory.com/privacy/overview.html).
 
 **Statistical information**  
 Aggregate statistical information provided by us to our advertisers or others regarding sales or website usage will not include personally identifying information.
 
  **Commercial Advertising  
-** Please click this link <http://www.adtech.info/privacy_en.php> for the Privacy Policy statement of our advertisement content provider.
-
+** Please click this link <http://www.adtech.info/privacy_en.php> for the Privacy Policy statement of our advertisement content provider.  
  **  
  _Privacy information for job seekers_**
 
