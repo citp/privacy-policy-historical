@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kcentv.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206101852id_/http%3A//www.kcentv.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcentv.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623050531id_/http%3A//www.kcentv.com/privacy.html) for the most accurate reproduction.*
 
 # KCEN-TV...NBC 6 - Privacy Policy
 
@@ -42,4 +42,4 @@ Questions regarding this Privacy Policy should be directed to us at [ webmaster@
 
 _ Effective date: July 1, 2004_
 
-** ©  Copyright 2006 Channel 6, Inc. All Rights Reserved.**
+** ©  Copyright 2007 Channel 6, Inc. All Rights Reserved.**
