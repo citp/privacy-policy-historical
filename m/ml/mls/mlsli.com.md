@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlsli.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211014620id_/http%3A//mlsli.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlsli.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623050956id_/http%3A//www.mlsli.com/privacy.cfm) for the most accurate reproduction.*
 
 # MLSLI.com - Privacy Policy
 
@@ -8,7 +8,7 @@
 
 Please read the following to learn more about our Privacy Policy.  This privacy policy may be updated from time to time so please check back frequently. 
 
-Click [here](http://www.ftc.gov/privacy/index.html) for information on Internet safety and security from the Federal Trade Commission. 
+Click [here](http://www.hfhsuffolk.org/) for information on Internet safety and security from the Federal Trade Commission. 
 
 MLSLI.com is committed to your privacy and security and want to provide you with the best possible online experience. To that end, we want you to understand what kinds of information we gather from you, how this information is used and safeguarded, and how you can control its use. 
 
@@ -81,7 +81,7 @@ Whenever personal information about you is stored on our computers, that informa
 
 Since your financial information is especially sensitive, we take special care to keep it secure. We will only transmit or ask for this information over secure Internet connections, using SSL (Secure Sockets Layer)encryption, the currently accepted standard for online security, and security keys. In addition, we require password authentication from any third parties you’ve authorized to receive this information. Finally, your credit card number and financial information are never stored on our servers.  While this means you may have to enter this information more than once, we believe the added security is worth the extra effort. 
 
-Of course, we appreciate your help in safeguarding the integrity of your own and others’ privacy. We hope you’ll use common sense whenever you disclose personal information over the Internet. Just as importantly, we encourage you to let us know immediately if you suspect that the information you share with us is being used in any way contrary to this privacy policy.  To contact us, please send an e-mail to: [info@mlsli.com](mailto:info@MLSLI.com). 
+Of course, we appreciate your help in safeguarding the integrity of your own and others’ privacy. We hope you’ll use common sense whenever you disclose personal information over the Internet. Just as importantly, we encourage you to let us know immediately if you suspect that the information you share with us is being used in any way contrary to this privacy policy.  To contact us, please send an e-mail to: [info@mlsli.com](mailto:info@mlsli.com). 
 
 **Scope of This Privacy Policy: Outside Links**
 
@@ -95,4 +95,4 @@ Privacy Administrator - MLSLI.com
 300 Sunrise Highway  
 West Babylon, New York 11704  
 Fax 631-661-5202  
-E-mail: [info@mlsli.com](mailto:info@MLSLI.com)
+E-mail: [info@mlsli.com](mailto:info@mlsli.com)
