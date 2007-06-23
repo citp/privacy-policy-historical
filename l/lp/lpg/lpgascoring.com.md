@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lpgascoring.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016223139id_/http%3A//www.lpga.com/content_1.aspx%3Fmid%3D0%26pid%3D61) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lpgascoring.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623035028id_/http%3A//www.lpga.com/content_1.aspx%3Fmid%3D0%26pid%3D61) for the most accurate reproduction.*
 
 # LPGA.com
 
