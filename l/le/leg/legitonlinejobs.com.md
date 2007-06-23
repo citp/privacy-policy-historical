@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the legitonlinejobs.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230072654id_/http%3A//www.legitonlinejobs.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legitonlinejobs.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624010106id_/http%3A//www.legitonlinejobs.com/privacy.htm) for the most accurate reproduction.*
 
-# LegitOnlineJobs.Com - Privacy Policy
+# Legit Online Jobs - Privacy Policy
 
-| 
-
-  
-**  Privacy Policy**  
  
 
+  
 Sharing Personal Information with Third Parties:  
 We will never sell or give away your personal information to third parties for purposes of building contact lists without your permission. We stand firmly against any transfer of personal information for reasons of building the contact lists of third parties.
 
@@ -33,12 +30,15 @@ Security:
 
 This web site has security measures in place to protect against loss, misuse and/or alteration of the information that you provide. Furthermore, we have taken every precaution technically possible to prevent any unauthorized access to the contents of this web server. 
 
-Contacting LegitOnlineJobs: 
+Contacting Legit Online Jobs: 
 
-If you have any questions about this privacy statement, the practices of this web site, or your dealings with this web site, please [contact us here](mailto:contact@legitonlinejobs.com).
+If you have any questions about this privacy statement, the practices of this web site, or your dealings with this web site, please [contact us here](http://support.legitonlinejobs.com/).
 
 Policy Changes: 
 
-LegitOnlineJobs reserves the right to change this privacy policy at any time. 
+Legit Online Jobs reserves the right to change this privacy policy at any time. 
 
 This Privacy Policy was last revised on Aug 7, 2006.
+
+Copyright © 2007 Legit Online Jobs. All rights reserved.  
+1901 60th Place E. Suite L9419, Bradenton, Florida 34203, United States
