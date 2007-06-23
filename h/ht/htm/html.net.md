@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the html.net privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217062956id_/http%3A//html.net/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the html.net privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623182822id_/http%3A//html.net/about/privacy) for the most accurate reproduction.*
 
 # Privacy statement | HTML.net
 
@@ -17,14 +17,14 @@ Your privacy is important to HTML.net. We have created this privacy statement in
 
 Questions regarding this statement should be directed to the HTML.net webmaster by [emailing](https://web.archive.org/about/contact/) or writing to us at the following address:
 
-[OUTPUT I/S](http://www.output.dk/)  
+[OUTPUT I/S](http://www.output.dk/?lang=en)  
 Flensborggade 30, st.tv  
 1669 Copenhagen V  
 Denmark
 
 If you feel that HTML.net has not complied with the policies outlined in this privacy statement please contact us.
 
-HTML.net and [OUTPUT I/S](http://www.output.dk/) are the sole owners of the information it gathers on its site. We will only share your information with outside parties in ways that are described in this privacy statement or if we are required to do so by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law, cooperate with law enforcement agencies, or comply with a legal process served on our web site.
+HTML.net and [OUTPUT I/S](http://www.output.dk/?lang=en) are the sole owners of the information it gathers on its site. We will only share your information with outside parties in ways that are described in this privacy statement or if we are required to do so by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law, cooperate with law enforcement agencies, or comply with a legal process served on our web site.
 
 ## What information is collected and how it is used?
 
