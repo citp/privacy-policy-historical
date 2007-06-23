@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babyworld.co.uk privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206065337id_/http%3A//www.babyworld.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babyworld.co.uk privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623121450id_/http%3A//www.babyworld.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # babyworld - Privacy Policy
 
@@ -8,11 +8,11 @@
 
 [](http://shop.babyworld.co.uk/)
 
-Mother's instinct could be down 
+ADHD is a real but invisible 
+
+Did your partner suffer a phantom pregnancy? Vote now!
 
 Win a fantastic prize when you recommend the babyworld shop to 6 friends  [click here](https://web.archive.org/shop/recommend_friend/default.asp)
-
-How much are you spending on each child this Xmas? Vote now!
 
 babyworld.com Ltd ("babyworld"), takes your privacy seriously. In general, we use the personal information that we collect from you to identify personal preferences and match your needs with relevant products, and process any orders that you may make through our website.
 
@@ -63,5 +63,3 @@ We welcome your questions and comments about privacy issues. Should you have any
 See also our [Terms of Use](http://www.babyworld.co.uk/bbs/discussion_rules.asp), [copyright](http://www.babyworld.co.uk/notices/copyright.asp) and [disclaimer](http://www.babyworld.co.uk/notices/disclaimer.asp) information.
 
 **Last revised 22 July 2003**
-
-[](https://web.archive.org/abm/abmc.asp?b=989&z=3)
