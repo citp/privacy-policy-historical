@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hancocks-paducah.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205210542id_/http%3A//www.hancocks-paducah.com/Content.aspx%3Fid%3D16%26lr%3DY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hancocks-paducah.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623084738id_/http%3A//www.hancocks-paducah.com/Content.aspx%3Fid%3D16%26lr%3DY) for the most accurate reproduction.*
 
 # Hancock's of Paducah - The world's foremost supplier of fine fabrics and notions.
 
