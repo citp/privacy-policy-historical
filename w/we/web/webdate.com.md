@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webdate.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212041346id_/http%3A//www.webdate.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webdate.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623192743id_/http%3A//www.webdate.com/privacy.php) for the most accurate reproduction.*
 
 # Online Dating Service & Personals at Webdate.com
 
@@ -25,7 +25,19 @@ Webdate processes credit card transactions via industry standard encryption thro
 
 Emails From Webdate and use of Your Email Address
 
-Your email address will be used by us to contact you when someone has emailed you through our system or when we have special offers or other information to provide you. Such information may include, without limitation, advice columns for entertainment purposes, new services offered by us, entertainment articles about Webdate and other information related to your subscription to Webdate. Webdate may share your email address with other third parties, with whom we have a direct or indirect relationship with, for the purposes of sending you special advertisements or promotions. If at any time you no longer wish to receive such emails from third parties please visit the "Account Settings" section of our website. Webdate and its advertising partners fully comply with the federal CAN-SPAM Act and as such all emails from Webdate and its advertising partners will have a place for you to opt out of receipt of further email correspondence.
+Your email address will be used by us to contact you when someone has emailed you through our system or when we have special offers or other information to provide you. Such information may include, without limitation, advice columns for entertainment purposes, new services offered by us, entertainment articles about Webdate and other information related to your subscription to Webdate. Your personal information will not be shared or sold to any third party, with whom we have a direct or indirect relationship with, for the purposes of sending you special advertisements or promotions. If at any time you no longer wish to receive such emails from third parties please visit the "Account Settings" section of our website. Webdate and its advertising partners fully comply with the federal CAN-SPAM Act and as such all emails from Webdate and its advertising partners will have a place for you to opt out of receipt of further email correspondence.
+
+You acknowledge that 
+
+(a) We cannot ensure the security or privacy of information you provide through the Service, the Software or any and all messages sent through the Service or Software. You hereby release WEBDATE from any and all liability in connection with the use or misuse of such information, including but not limited to invasion of privacy and misappropriation, by any and all parties who may receive or come into contact with such information; 
+
+(b) We are not responsible for, and cannot control, the use of the Service and/or Software by anyone and their use of any information which you may provide to them. You acknowledge that it is your duty to exercise caution in selecting the personal information you provide through the Service and/or Software. You hereby release WEBDATE from any and all liability arising from anyone's use of information you have provided to or through the Service and/or Software; 
+
+(c) We cannot and do not assume any responsibility for and you hereby release WEBDATE from any liability for the content of messages sent by others through the Service or Software nor for any information posted by others on the Service or Software, and you release WEBDATE from any and all liability in connection with the contents of any communications you may receive from others in connection with your use of the Service and/or Software; 
+
+(d) You acknowledge that you will not sue WEBDATE nor any of its employees for any damages done to you through the site; and 
+
+(e) Any and all images uploaded to WEBDATE become property of WEBDATE and may be used by WEBDATE, without any restriction(s), as marketing materials. By accepting this Agreement and its Terms and Conditions you specifically authorize us to use any images you upload to WEBDATE for marketing this site in our sole discretion.
 
 Advertisements
 
