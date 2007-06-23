@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viator.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205235427id_/http%3A//www.viator.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viator.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623073022id_/http%3A//www.viator.com/privacy-policy) for the most accurate reproduction.*
 
 # Viator | Tours, Tickets & Things to do from Tour Operators Worldwide by Viator
 
@@ -61,11 +61,11 @@ Some of the personal information we collect is shared with our service partners 
 
 We only provide our service providers with your name and your local contact details, if you provide them (e.g. your hotel name for pick-ups and drop-offs, your local phone number, etc.) We do not provide our service providers with any other personal information. If you decide to provide any personal information directly to a service provider, we recommend that you review the service provider’s privacy policy.
 
-We also share your personal information with third parties contracted to provide us with marketing and data reporting services who are bound by an obligation of confidentiality.
+We also share your personal information with third parties contracted to provide us with marketing and data reporting services who are bound by an obligation of confidentiality and with other third party marketing partners if you expressly authorize us to do so.
 
 We currently contract with several online partners to help manage and optimize our Internet business and communications. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our website. To do this, we use web beacons and cookies provided by our marketing company on this website. The information we collect helps us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. Although our marketing company logs the information coming from our website on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can “opt-out" of our ability to analyze such data by [clicking here](http://www.omniture.com/privacy/product#optout).
 
-Finally, rest assured that we do not share your personal information with third-party organizations who are not involved in fulfilling the purchases you have made from us or who are not contracted by us. We also do not partner with or have relationships with any businesses which serve ads on websites and collect information about your use of web sites.
+Finally, rest assured that unless you expressly authorize us to do so, we do not share your personal information with third-party organizations who are not involved in fulfilling the purchases you have made from us or who are not contracted by us. 
 
 ### Our Distribution Partners
 
