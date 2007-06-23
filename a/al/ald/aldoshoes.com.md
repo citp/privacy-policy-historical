@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aldoshoes.com privacy policy that was archived on 2006-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060530065817id_/http%3A//www.aldoshoes.com/eng/customerService/redirect.cfm%3FsectionID%3DprivacyPolicyUS.cfm%26path%3DcustomerService%26CFID%3D3995273%26CFTOKEN%3D1eabed6857fb266c-51F58A4F-9677-0B4E-DAB90E2596ECAEC9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aldoshoes.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624010457id_/http%3A//www.aldoshoes.com/eng/customerService/redirect.cfm%3FsectionID%3DprivacyPolicyUS.cfm%26path%3DcustomerService%26var%3Dd%26ckey%3DUS) for the most accurate reproduction.*
 
 # ALDO Shoes Online Store - women's shoes & men's shoes, boots, sandals, handbags and more
 
