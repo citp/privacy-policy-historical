@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divinewrite.com privacy policy that was archived on 2006-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061025234255id_/http%3A//divinewrite.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divinewrite.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623094039id_/http%3A//www.divinewrite.com/Privacy.htm) for the most accurate reproduction.*
 
 # Advertising Copywriter, Website Copywriter, SEO Copywriter - Divine Write Copywriting
 
@@ -26,7 +26,7 @@ We use the personal information collected from you to:
 
   * provide you with information or services at your request; 
   * take purchase orders from you; 
-  * dispatch Products and/or Services to you pursuant to our [Terms](https://web.archive.org/web/20061025234255id_/http%3A//divinewrite.com/Terms.htm). 
+  * dispatch Products and/or Services to you pursuant to our [Terms](https://web.archive.org/web/20070623094039id_/http%3A//www.divinewrite.com/Terms.htm). 
   * register your contact details; and
   * establish and maintain our relationship with you; 
 
