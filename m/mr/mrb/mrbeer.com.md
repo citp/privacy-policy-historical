@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mrbeer.com privacy policy that was archived on 2006-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061120082849id_/http%3A//mrbeer.com/privacy.php%3Fmenu%3Dsub1%26mactive%3D0%26subactive%3D-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrbeer.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623092653id_/http%3A//mrbeer.com/privacy.php%3Fmenu%3Dsub1%26mactive%3D0%26subactive%3D-1) for the most accurate reproduction.*
 
-# Mr. Beer - America's favorite home brewing kit
+# Mr.Beer® - America's favorite home brewing system
 
 **Privacy Statement**  
 Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the [Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information.
