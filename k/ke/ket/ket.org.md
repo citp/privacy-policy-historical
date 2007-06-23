@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ket.org privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206074238id_/http%3A//www.ket.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ket.org privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623082237id_/http%3A//www.ket.org/privacy) for the most accurate reproduction.*
 
 # KET | Online Privacy Policy
 
@@ -13,7 +13,7 @@ KET respects your privacy! We pledge to make our web site an accessible, safe en
     * making or renewing your contribution to KET
     * submitting items to forums or calendars of events
 In those cases, we will ask only for the information necessary; tell you how that information will be used; and, whenever possible, provide an alternate way of participating that preserves your online anonymity if you so choose.
-  3. We do not sell or trade personally identifiable information about our users. The only outside parties with whom this information is shared are those hired by KET to complete a transaction in which you have chosen to participate, such as fulfilling your request for a thank-you premium.
+  3. We do not sell or trade personally identifiable information about our users. The only outside parties with whom this information is shared are those hired by KET to complete a transaction in which you have chosen to participate, such as fulfilling your request for a thank-you gift.
   4. KET may occasionally use some personally identifiable information about you for our own internal promotion, marketing, and fund-raising purposes. You may, for instance, be invited to subscribe to a newsletter related to your already expressed interests or reminded that a contribution is due for renewal. Your participation is voluntary, and any choice you make to “opt out” of a service or subscription will be honored immediately.
 
 
@@ -23,6 +23,8 @@ In those cases, we will ask only for the information necessary; tell you how tha
 In order to allow you to customize certain areas of our site, such as the TV schedules, or to complete a transaction, we will sometimes store a “cookie” on your computer. This small text file records a randomly generated ID for you, along with the data necessary to maintain the level of customization you have selected.
 
 Certain transactions, such as making an online contribution, require cookies that include some personal information about you. You will always be asked to supply this information and told what it will be used for. We do not store this information except for the purposes of completing the specific transaction(s) you have chosen to participate in.
+
+The KET site also uses cookies to collect anonymous traffic data. These cookies contain no personally identifiable information, but simply record patterns of usage of the site so that we may monitor its performance and continue to improve its usefulness to visitors.
 
 **Acceptance of KET Online Privacy Policy Terms and Conditions**
 
