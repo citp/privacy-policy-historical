@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the worldnetdaily.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205225121id_/http%3A//www.worldnetdaily.com/resources/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldnetdaily.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623043206id_/http%3A//www.worldnetdaily.com/resources/privacy.asp) for the most accurate reproduction.*
 
 # WorldNetDaily: WorldNetDaily Privacy Policy
 
 **  
   
-[](http://www.worldnetdaily.com/admin/ads/banman.asp?Task=Click&ZoneID=304&CampaignID=460&AdvertiserID=32&BannerID=993&SiteID=1&RandomNumber=47659)   | **   FREE News Flashes**  
+[](http://www.worldnetdaily.com/admin/ads/banman.asp?Task=Click&ZoneID=304&CampaignID=557&AdvertiserID=263&BannerID=1126&SiteID=1&RandomNumber=26156)[](http://www.worldnetdaily.com/admin/ads/banman.asp?Task=Click&ZoneID=305&CampaignID=460&AdvertiserID=32&BannerID=996&SiteID=1&RandomNumber=14261)  
+  | **   FREE News Flashes**  
 ---  
     
   
@@ -12,6 +13,7 @@
   
 WND Directory|    
 ---|---  
+[Shop.WND](http://shop.wnd.com/store/)  
 [Page 1 News](https://web.archive.org/index.html)  
 [Page 2 News](https://web.archive.org/page2.html)  
 [Commentary](https://web.archive.org/commentary.html)  
@@ -20,6 +22,7 @@ WND Directory|  
 [WND Forums](http://forums.wnd.com/)  
 [Letters to the Editor](https://web.archive.org/letters.asp)  
 [BizNetDaily](https://web.archive.org/biznetdaily)  
+[SportsNetDaily](http://www.breitbart.com/?ch=sports)  
 [TV Guide](http://www.tvguide.com/)  
 [Weather](http://www.accuweather.com/adcbin/index?partner=WNDAILY)  
   
@@ -152,8 +155,8 @@ I.T. Dept
 541-474-1776  
 privacy@worldnetdaily.com  
 WorldNetDaily.com, Inc.  
-PO Box 1087  
-Grants Pass, OR 97528 
+PO Box 1627  
+Medford, OR 97501 
 
 _Privacy statement updated Aug. 5, 2004._   
 
@@ -162,42 +165,44 @@ _Privacy statement updated Aug. 5, 2004._
 
 |     |    
   
-  
+[](http://shop.wnd.com/store/item.asp?ITEM_ID=108)   
+[](http://shop.wnd.com/store/item.asp?ITEM_ID=343)[](http://shop.wnd.com/store/item.asp?ITEM_ID=983)   
 | Today's WND Highlights|    
 ---|---  
   
      News  
    
-[NBC affiliate solicits donations for illegals](https://web.archive.org/news/article.asp?ARTICLE_ID=53221)  
-[Iraqi Christians plead for help from White House](https://web.archive.org/news/article.asp?ARTICLE_ID=53234)  
-[Coroner says baby at abortion business was born alive](https://web.archive.org/news/article.asp?ARTICLE_ID=53236)  
-['Tens of thousands' lined Hanoi streets during Bush visit](https://web.archive.org/news/article.asp?ARTICLE_ID=53231)  
-[Gwyneth Paltrow declares: 'I'm proud to be American'](https://web.archive.org/news/article.asp?ARTICLE_ID=53230)  
-[Radioactive spy Islamic convert?](https://web.archive.org/news/article.asp?ARTICLE_ID=53208)  
-[John Bolton calls it quits](https://web.archive.org/news/article.asp?ARTICLE_ID=53218)  
-[Israel allowing attacks on Jews?](https://web.archive.org/news/article.asp?ARTICLE_ID=53219)  
+[Full Hillary 'smoking gun' video released](https://web.archive.org/news/article.asp?ARTICLE_ID=56305)  
+[Your doctor could put you on no-gun list](https://web.archive.org/news/article.asp?ARTICLE_ID=56311)  
+[Jailed Border Patrol agent in 'emaciated' condition](https://web.archive.org/news/article.asp?ARTICLE_ID=56308)  
+[Texas governor clears way for NAFTA superhighway](https://web.archive.org/news/article.asp?ARTICLE_ID=56309)  
+[Corsi to dissect North American Union plans](https://web.archive.org/news/article.asp?ARTICLE_ID=56306)  
+[Palestinian official: Women must martyr themselves](https://web.archive.org/news/article.asp?ARTICLE_ID=56295)  
+[Lawmaker convicted of battery facing lawsuit](https://web.archive.org/news/article.asp?ARTICLE_ID=56313)  
+[Teenagers document government harassment](https://web.archive.org/news/article.asp?ARTICLE_ID=56301)  
+[Sean Hannity inspires character in kids' book](https://web.archive.org/news/article.asp?ARTICLE_ID=56302)  
+[Did Osama charter flight out of U.S. after 9/11?](https://web.archive.org/news/article.asp?ARTICLE_ID=56289)  
+[Judge bans word 'rape' at rape trial](https://web.archive.org/news/article.asp?ARTICLE_ID=56296)  
   
      Commentary  
    
-[Learning from history  
-   \- By Joseph Farah](https://web.archive.org/news/article.asp?ARTICLE_ID=53223)  
-[Liberals are not a higher form of life  
-   \- By Jim Rutz](https://web.archive.org/news/article.asp?ARTICLE_ID=53227)  
-[Lights, camera ... Sharpton  
-   \- By Mychal Massie](https://web.archive.org/news/article.asp?ARTICLE_ID=53224)  
-[Ivy League: Flagellating females 101  
-   \- By Les Kinsolving](https://web.archive.org/news/article.asp?ARTICLE_ID=53232)  
-[Justice Breyer's dangerous jurisprudence  
-   \- By David Limbaugh](https://web.archive.org/news/article.asp?ARTICLE_ID=53237)  
-[A response to my critics – and a solution  
-   \- By Dennis Prager](https://web.archive.org/news/article.asp?ARTICLE_ID=53235)  
-[Doing the credit card shuffle  
-   \- By Dave Ramsey](https://web.archive.org/news/article.asp?ARTICLE_ID=53229)  
-[Why U.S. is now impotent in Middle East  
-   \- By Pat Buchanan](https://web.archive.org/news/article.asp?ARTICLE_ID=53228)  
-[Godless criminals  
-   \- By Vox Day](https://web.archive.org/news/article.asp?ARTICLE_ID=53220)  
-[Constitutional amendment for homeschoolers?  
-   \- By Samuel Blumenfeld](https://web.archive.org/news/article.asp?ARTICLE_ID=53225)  
+[Why it's not news when journalists support Dems  
+   \- By Joseph Farah](https://web.archive.org/news/article.asp?ARTICLE_ID=56314)  
+[The Palestinian appetite for destruction  
+   \- By Ilana Mercer](https://web.archive.org/news/article.asp?ARTICLE_ID=56310)  
+[A media temper tantrum, British style  
+   \- By Melanie Morgan](https://web.archive.org/news/article.asp?ARTICLE_ID=56298)  
+[The martyr of Mosul  
+   \- By Pat Buchanan](https://web.archive.org/news/article.asp?ARTICLE_ID=56316)  
+[America finally got her birthday party  
+   \- By Doug Phillips](https://web.archive.org/news/article.asp?ARTICLE_ID=56307)  
+[Bloomberg pays record bid for Oval Office  
+   \- By Bill Press](https://web.archive.org/news/article.asp?ARTICLE_ID=56303)  
+[The left's stranglehold on the donkey  
+   \- By David Limbaugh](https://web.archive.org/news/article.asp?ARTICLE_ID=56312)  
+[The tragedy of Anglo-Saxon self-hatred  
+   \- By Tristan Emmanuel](https://web.archive.org/news/article.asp?ARTICLE_ID=56300)  
+[NAFTA superhighway ready to roll  
+   \- By Jerome Corsi](https://web.archive.org/news/article.asp?ARTICLE_ID=56304)  
   
 
