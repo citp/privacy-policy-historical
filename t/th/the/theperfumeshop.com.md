@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theperfumeshop.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216103830id_/http%3A//www.theperfumeshop.com/main/static_pages/index.cfm%3Ffsa%3DdspPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theperfumeshop.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623064225id_/http%3A//www.theperfumeshop.com/main/static_pages/index.cfm%3Ffsa%3DdspPrivacyPolicy) for the most accurate reproduction.*
 
 # The Perfume Shop:
 
