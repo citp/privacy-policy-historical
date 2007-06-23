@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the shefinds.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616063252id_/http%3A//shefinds.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shefinds.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623132701id_/http%3A//shefinds.com/content/privacy) for the most accurate reproduction.*
 
-# SheFinds.com
+# SheFinds.com - Privacy Policy
 
-| 
-
-  
-**Personal Information**
-
-To provide you with our service, SheFinds requires your e-mail address. To provide you with the best possible service, we require some basic information. Those items are marked with an asterisk (*). Furthermore, we ask for some optional information on our sign-up page and in periodic opt-in surveys. We use this basic, and optional information, to further tailor our content to your interests. SheFinds does not collect any personal information that is not expressly provided to us. Additionally, SheFinds will not disclose your personal information to any third party without your consent, except when necessary to deliver a requested service. Upon request, we will provide you with the information that we maintain about you. 
+**Personal Information** To provide you with our service, SheFinds requires your e-mail address. To provide you with the best possible service, we also require some basic information. Those items are marked with an asterisk (*). Furthermore, we ask for some optional information on our sign-up page and in periodic opt-in surveys. We use this basic, and optional information, to further tailor our content to your interests. SheFinds does not collect any personal information that is not expressly provided to us. Additionally, SheFinds will not disclose your personal information to any third party without your consent, except when necessary to deliver a requested service. Upon request, we will provide you with the information that we maintain about you. 
 
 **Demographic Information**
 
@@ -23,7 +18,7 @@ Although SheFinds may provide links to third party sites, we are not responsible
 
 **Advertisers**
 
-To support our efforts we sell sponsorships of SheFinds mailings to advertisers who we think you'd like to know about. These advertisers will either be identified as a Friend of SheFinds, Custom Mail, Advertisement or Sponsor. 
+To support our efforts we sell sponsorships of SheFinds mailings and on the blog to advertisers who we think you'd like to know about. These advertisers will either be identified as a Friend of SheFinds, Custom Mail, Advertisement, Featured Link or Sponsor. 
 
 **Security**
 
@@ -39,6 +34,6 @@ SheFinds may change this privacy policy. Any changes will be reflected on this p
 
 **Contact**
 
-If you should have any questions about our privacy policy, please contact us at [Info@SheFinds.com](mailto:Info@SheFinds.com). 
+If you should have any questions about our privacy policy, please contact us at 
 
-| | 
+[Info@SheFinds.com](mailto:Info@SheFinds.com). 
