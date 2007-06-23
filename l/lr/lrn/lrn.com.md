@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lrn.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211203806id_/http%3A//www.lrn.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lrn.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623115552id_/http%3A//www.lrn.com/privacy_statement) for the most accurate reproduction.*
 
 # LRN | Governance, ethics and compliance applications and services. - Privacy Statement
 
