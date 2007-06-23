@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalenquirer.com privacy policy that was archived on 2006-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061115114837id_/http%3A//www.nationalenquirer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalenquirer.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623122337id_/http%3A//www.nationalenquirer.com/privacy) for the most accurate reproduction.*
 
 # National Enquirer
 
@@ -35,10 +35,12 @@ Here's how it works. When you are first served an ad through The National Enquir
 While we believe that cookies enhance your Web experience by limiting the repetitiveness of advertising and increasing the level of relevant content on the Web, they are not essential for us to continue our leadership position in Web advertising. 
 
 **Disclosure**  
-The National Enquirer makes available all of our information practices at http://www.nationalenquirer.com/neo/privacy.html including in-depth descriptions of our targeting capabilities, our privacy policy, and full disclosure on the use of cookies. In addition, we provide all users with the option to contact us at letters@nationalenquirer.com  with any further questions or concerns. 
+The National Enquirer makes available all of our information practices at http://www.nationalenquirer.com/privacy/ including in-depth descriptions of our targeting capabilities, our privacy policy, and full disclosure on the use of cookies. In addition, we provide all users with the option to contact us at letters@nationalenquirer.com  with any further questions or concerns. 
 
 **Security**  
 The National Enquirer will maintain the confidentiality of the information that it collects during the process of delivering an ad. The National Enquirer maintains internal practices that help to protect the security and confidentiality of this information by limiting employee access to and use of this information. 
 
 **Industry Efforts to Protect Consumer Privacy**  
 For more information about protecting your privacy online, we recommend that you visit [www.nai.org](http://www.networkadvertising.org/) , [www.netcoalition.com](http://www.netcoalition.com/) , and [www.privacyalliance.org](http://www.privacyalliance.org/) . We also recommend that you review this Privacy Statement periodically, as The National Enquirer may update it from time to time. 
+
+* * *
