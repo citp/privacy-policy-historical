@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4electronicwarehouse.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212100509id_/http%3A//www.4electronicwarehouse.com/service/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4electronicwarehouse.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623073854id_/http%3A//www.4electronicwarehouse.com/service/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -39,4 +39,6 @@ If you have any questions about this privacy statement, the practices of this si
 Questions? Call us toll-free 1-866-224-6171. 
 
   
-
+[](http://www.4electronicwarehouse.com/service/payment-options.html) |  [ ](http://www.bizrate.com/ratings_guide/cust_reviews__mid--30826.html) |  [](http://www.pricegrabber.com/rating_getreview.php/retid=469) |  [](http://www.nextag.com/Your+Electronic+Warehouse~153170zzzreviewsz1zmainz17-htm)   
+|  [](https://www.scanalert.com/RatingVerify?ref=www.4electronicwarehouse.com) |  [](http://www.bbbonline.org/cks.asp?id=1060307151215)  
+---|---|---|---|---|---
