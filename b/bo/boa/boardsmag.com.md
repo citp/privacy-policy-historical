@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the boardsmag.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110085532id_/http%3A//www.brunico.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boardsmag.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623221506id_/http%3A//www.brunico.com/privacy) for the most accurate reproduction.*
 
-# Brunico Communications Inc. / Brunico Marketing Inc.
+# Brunico Communications Ltd. / Brunico Marketing Inc.
 
-#### Privacy Policy of Brunico Communications Inc.  
+#### Privacy Policy of Brunico Communications Ltd.  
 and its subsidiary Brunico Marketing Inc.  
 (collectively referred to as "Brunico")
 
 Protecting personal information and respecting personal privacy are very important to Brunico. This policy applies to all of Brunico's information practices and to all of its business operations, products, and services, including:
 
-  * the print and electronic publications published by Brunico Communications Inc., including **Playback, Strategy, Media In Canada, KidScreen, RealScreen, and Boards** ("Our Publications");
-  * conferences and other events produced by **Brunico Communications Inc** , and by its wholly-owned subsidiary, **Brunico Marketing Inc**. (collectively "Our Events");
+  * the print and electronic publications published by Brunico Communications Ltd., including **Playback, Strategy, Media In Canada, KidScreen, RealScreen, and Boards** ("Our Publications");
+  * conferences and other events produced by **Brunico Communications Ltd** , and by its wholly-owned subsidiary, **Brunico Marketing Inc**. (collectively "Our Events");
   * websites related to Our Publications and Our Events ("Our Websites"); and
   * email newsletters related to Our Publications ("Our Email Newsletters").
 
