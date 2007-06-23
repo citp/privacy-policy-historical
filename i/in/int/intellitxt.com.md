@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intellitxt.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205221411id_/http%3A//www.vibrantmedia.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intellitxt.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623072907id_/http%3A//www.vibrantmedia.com/privacy.asp) for the most accurate reproduction.*
 
 # Vibrant Media - The In-Text Advertising Leader - Privacy Statement
 
@@ -69,7 +69,7 @@ Contact Information for Questions, Comments and Complaints: If you have any ques
 
 Via mail:  
 Vibrant Media, Inc.  
-2 Shaw Alley, 5th Floor  
+75 Hawthorne Street, Suite 2000  
 San Francisco, CA 94105
 
 Via email:  
@@ -88,4 +88,4 @@ If you have questions or concerns regarding this statement, you should first con
 
 Your Acceptance of These Terms: By using the Website, you accept the policies and restrictions set forth in this Online Privacy Policy. If you do not agree to this policy, please do not use the Website. If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage.
 
-Last updated November 29th, 2005
+Last updated March 28th, 2007
