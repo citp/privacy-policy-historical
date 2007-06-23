@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tabblo.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207000228id_/http%3A//www.tabblo.com/studio/doc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tabblo.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623114656id_/http%3A//www.tabblo.com/studio/doc/privacy) for the most accurate reproduction.*
 
 # Tabblo - Privacy Policy
 
