@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyperboards.com privacy policy that was archived on 2006-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061106073427id_/http%3A//hyperboards.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyperboards.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623082016id_/http%3A//www.hyperboards.com/privacy) for the most accurate reproduction.*
 
 # 
 
