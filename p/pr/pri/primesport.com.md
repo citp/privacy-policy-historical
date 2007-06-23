@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the primesport.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209205152id_/http%3A//www.primesport.com/inc/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primesport.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623072545id_/http%3A//www.primesport.com/inc/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - PrimeSport International
 
 Please read this page carefully and in its entirety as it details important information on our policies and the terms and conditions you are agreeing to when utilizing our website and services. 
 
-Main Contents
+**Main Contents**
 
 1.0 Agreement; Terms and Conditions  
 2.0 Changes in Terms and Conditions  
@@ -14,53 +14,33 @@ Main Contents
 6.0 Non-Affiliations  
 7.0 Contacting Us 
 
-**
-
-  1.0 Agreement; Terms and Conditions
-
-**
+**  1.0 Agreement; Terms and Conditions**
 
 By visiting, using or ordering from this website, you expressly agree to be bound by the following terms and conditions and to adhere to these Terms and Conditions and all applicable laws and regulations governing this website. 
 
-If you break these Terms and Conditions, **PrimeSport International** reserves the right to prevent your future use of this website, cancel your ticket order, and/or take appropriate legal action and remedies available against you. 
+If you break these Terms and Conditions, **PrimeSport** reserves the right to prevent your future use of this website, cancel your ticket order, and/or take appropriate legal action and remedies available against you. 
 
-**
+**  2.0 Changes in Terms and Conditions**
 
-  2.0 Changes in Terms and Conditions
+PrimeSport reserves the right to change these Terms and Conditions at any time. Posting updated Terms and Conditions on this site will make the new Terms and Conditions effective immediately and binding on all users of this website without exception. Therefore, please check this page of the website periodically for updates. 
 
-**
+**  3.0 Ticket Purchase Policy**
 
-PrimeSport International reserves the right to change these Terms and Conditions at any time. Posting updated Terms and Conditions on this site will make the new Terms and Conditions effective immediately and binding on all users of this website without exception. Therefore, please check this page of the website periodically for updates. 
+PrimeSport hereby discloses that the purchase price of the tickets contains a service charge or profit which has been added to the face value of the tickets, and that, as of the date of your purchase, PrimeSport may have no contract to obtain the tickets at a certain price from a person in possession of the tickets, or from a person who has a contractual right to obtain the tickets from the primary contractor, and may not be able to supply tickets at the price or range of prices identified or advertized on this website. 
 
-**
+PrimeSport agrees to use its best efforts to procure and to deliver, prior to the date of the event, the tickets described. 
 
-  3.0 Ticket Purchase Policy
+Should PrimeSport fail to deliver to a BUYER the full quantity of tickets contracted for, PrimeSport's sole obligation or liability shall be limited to the return to BUYER of any deposits and/or payments for undelivered tickets previously made by BUYER to PrimeSport under this Agreement. 
 
-**
+PrimeSport shall not be liable for any incidental, special, or consequential damages or for loss or expense directly or indirectly arising from PrimeSport's obligations under this Agreement, and BUYER agrees to waive any additional rights or remedies conferred upon it now or in the future under Georgia law. 
 
-PrimeSport International hereby discloses that the purchase price of the tickets contains a service charge or profit which has been added to the face value of the tickets, and that, as of the date of your purchase, PrimeSport International may have no contract to obtain the tickets at a certain price from a person in possession of the tickets, or from a person who has a contractual right to obtain the tickets from the primary contractor, and may not be able to supply tickets at the price or range of prices identified or advertized on this website. 
+Due to policies set forth by the organizers of the events for which tickets are sold on this website, PrimeSport cannot issue exchanges or refunds after BUYER has placed an order, unless PrimeSport is unable to fulfill the order. PrimeSport is not responsible for lost, stolen, damaged or destroyed tickets once tickets are certified as delivered or are in BUYER'S physical possession. Please note that direct sunlight or heat can damage certain types of tickets. 
 
-PrimeSport International agrees to use its best efforts to procure and to deliver, prior to the date of the event, the tickets described. 
+**  4.0 Indemnity**
 
-Should PrimeSport International fail to deliver to a BUYER the full quantity of tickets contracted for, PrimeSport International's sole obligation or liability shall be limited to the return to BUYER of any deposits and/or payments for undelivered tickets previously made by BUYER to PrimeSport International under this Agreement. 
+All users and visitors of this website agree to indemnify and hold PrimeSport, its subsidiaries, affiliates, officers, agents and other partners and employees, harmless from any loss, liability, claim or demand, including reasonable attorneys' fees, made by any third party due to or arising out of your use of this website, including your use of this website to provide a link to another website. 
 
-PrimeSport International shall not be liable for any incidental, special, or consequential damages or for loss or expense directly or indirectly arising from PrimeSport International's obligations under this Agreement, and BUYER agrees to waive any additional rights or remedies conferred upon it now or in the future under Georgia law. 
-
-Due to policies set forth by the organizers of the events for which tickets are sold on this website, PrimeSport International cannot issue exchanges or refunds after BUYER has placed an order, unless PrimeSport International is unable to fulfill the order. PrimeSport International is not responsible for lost, stolen, damaged or destroyed tickets once tickets are certified as delivered or are in BUYER'S physical possession. Please note that direct sunlight or heat can damage certain types of tickets. 
-
-**
-
-  4.0 Indemnity
-
-**
-
-All users and visitors of this website agree to indemnify and hold PrimeSport International, its subsidiaries, affiliates, officers, agents and other partners and employees, harmless from any loss, liability, claim or demand, including reasonable attorneys' fees, made by any third party due to or arising out of your use of this website, including your use of this website to provide a link to another website. 
-
-**
-
-  5.0 Privacy Policy
-
-**
+**  5.0 Privacy Policy**
 
 a. Overview  
 b. What information we gather and track and what we do with it  
@@ -71,13 +51,9 @@ e. Opt-out policy
 
 **a. Overview**
 
-PrimeSport International is firmly committed to protecting the privacy of our customers and visitors to our website. This page details how we collect information from customers and visitors, what we do with that information, how secure the information is kept and what alternatives you have available regarding our mailing lists. 
+PrimeSport is firmly committed to protecting the privacy of our customers and visitors to our website. This page details how we collect information from customers and visitors, what we do with that information, how secure the information is kept and what alternatives you have available regarding our mailing lists. 
 
-**
-
-b. What information we gather and track and what we do with it
-
-**
+**b. What information we gather and track and what we do with it**
 
 The IP (Internet protocol) address and browser type of each visitor is automatically recorded in our website site usage logs. This information helps us to administer our website and make it more efficient to give visitors an overall better experience when visiting our site. This information does not help to individually identify any single user or groups of users. Thus, users remain completely anonymous with the type of information gathered. 
 
@@ -129,7 +105,7 @@ e. Opt-out Policy
 
 **
 
-Members of our mailing list can refer to any copy of a mailing received from us for details on our easy 2-step opt-out procedure. For customers that do not wish to receive any further correspondence from us, please email us at: [sales@primesport.com](mailto:sales@primesport.com) and state your full name, email address and reason for wishing to opt-out. All opt-out requests will be honored promptly and courteously. 
+Members of our mailing list can refer to any copy of a mailing received from us for details on our easy 2-step opt-out procedure. For customers that do not wish to receive any further correspondence from us, please email us at: [sales@razorgatorexperiences.com](mailto:sales@razorgatorexperiences.com) and state your full name, email address and reason for wishing to opt-out. All opt-out requests will be honored promptly and courteously. 
 
 **
 
@@ -137,9 +113,9 @@ Members of our mailing list can refer to any copy of a mailing received from us 
 
 **
 
-PrimeSport International is an independent, privately owned company engaged in the business of buying and selling tickets at a premium for sporting events, concerts, and theatre. The amount charged over the face value of the tickets represents our fair compensation for the difficulty involved in obtaining premium seating to hard-to-get and sold-out events. 
+PrimeSport is an independent, privately owned company engaged in the business of buying and selling tickets at a premium for sporting events, concerts, and theatre. The amount charged over the face value of the tickets represents our fair compensation for the difficulty involved in obtaining premium seating to hard-to-get and sold-out events. 
 
-PrimeSport International is in **no way affiliated** with any box office or official organizers (e.g. FIFA, ATP, NBA, NCAA, etc) of the events for which we obtain tickets. 
+PrimeSport is in **no way affiliated** with any box office or official organizers (e.g. FIFA, ATP, NBA, NCAA, etc) of the events for which we obtain tickets. 
 
 **
 
@@ -149,7 +125,11 @@ PrimeSport International is in **no way affiliated** with any box office or offi
 
 If you have any questions about the above Terms and Conditions, please contact: 
 
-PrimeSport International   
-9464 Wilshire Boulevard  
-Beverly Hills, CA 90212  
+**Access to Personally Identifiable Information**
+
+If your personally identifiable information changes, or if you no longer desire our service, you may [correct, update, delete or deactivate it] by emailing our Customer Support at [sales@razorgatorexperiences.com](mailto:sales@razorgatorexperiences.com) or by contacting us by telephone or postal mail at the contact information listed below.
+
+PrimeSport   
+11150 Santa Monica Blvd. Suite 500   
+Los Angeles, CA, 90025   
 Tel : 1-800-591-9198 
