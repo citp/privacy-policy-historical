@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crainscleveland.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214111940id_/http%3A//www.crainscleveland.com/apps/pbcs.dll/qwikNavsearch%3FQwikNav%3Dprivacy_home) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crainscleveland.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623122359id_/http%3A//www.crainscleveland.com/apps/pbcs.dll/qwikNavsearch%3FQwikNav%3Dprivacy_home) for the most accurate reproduction.*
 
-# Crain's Cleveland Business
+# Crain's Cleveland Business:
 
 CrainsCleveland.com is the web site of _Crain’s Cleveland Business_ , a publication of Crain Communications Inc. Our postal address is 700 West St. Clair Ave., Suite 310, Cleveland, OH 44113 . We can be reached by e-mail at [clevelandweb@crain.com](mailto:clevelandweb@crain.com) or by telephone at 216-522-1383. Your use of our web site indicates to us that you have read and accepted our Privacy Policy and our Terms and Conditions. 
 
@@ -23,4 +23,4 @@ If you have any questions or concerns about the substance or implementation of t
 _[Policy Last Updated: January 1, 2005]_
 
   
-
+|    | 
