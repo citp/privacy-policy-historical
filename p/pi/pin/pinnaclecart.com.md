@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pinnaclecart.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206004426id_/http%3A//www.pinnaclecart.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinnaclecart.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623174204id_/http%3A//www.pinnaclecart.com/policy.htm) for the most accurate reproduction.*
 
-# Pinnacle Shopping Cart Software Privacy Policy
+# Pinnacle Shopping Cart Software - PINNACLE SHOPPING CART SOFTWARE SERVICE & LICENSE AGREEMENT
 
 **Our Commitment to Privacy**
 
@@ -9,16 +9,6 @@ Our Privacy Policy was developed as an extension of our commitment to combine th
 **What Information Do We Collect?**
 
 When you visit [www.pinnaclecart.com](http://www.pinnaclecart.com/) you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.
-
-**ADDITIONAL FEES**
-
-Based upon the Pinnacle Cart Software Service package, additional costs will be charged as follows: 
-
-  * **Pinnacle Cart Software** – Pinnacle Cart Software Service packages include a base amount of hard disk space (200 megabytes) and a base amount of bandwidth (5 gigabytes). The following costs are incurred for any overage beyond the Pinnacle Cart Software Service. 
-    * $10/month for each additional 1-100 megabytes over base amount.
-    * $4.50 for each additional gigabyte over base amount. 
-
-
 
 **1\. Personal Information You Choose to Provide**
 
