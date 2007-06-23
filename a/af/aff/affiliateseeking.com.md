@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the affiliateseeking.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212190324id_/http%3A//www.affiliateseeking.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliateseeking.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623202129id_/http%3A//www.affiliateseeking.com/privacy.html) for the most accurate reproduction.*
 
-# AffiliateSeeking.com Privacy Policy!
-
-## About Us
+# AffiliateSeeking.com - Privacy Policy
 
   
-**Privacy Policy Last Updated:** 18 February 2006
+**Privacy Policy Last Updated:** 14 February 2006
 
 **Why we collect and use your personal information**  
 AffiliateSeeking.com collects personal information from you so that we can reply to any site submissions that you do within different parts of our site. This could be anything from affiliate program submissions to link exchange submissions. The information that we collect from you also enables us to contact you from time to time about new offers, features and updates that we have on our site. The personal information that we collect from you may include, but is not limited to your name, email address and your websites details/information. 
@@ -30,4 +28,4 @@ AffiliateSeeking.com stores personal information behind selected security device
 By using AffiliateSeeking.com you agree on the way we collect and use your personal information as outlined in this Privacy Policy. 
 
 **Changes to this Privacy Policy**  
-Our privacy policy may occasionally be updated from time to time. When we do update our privacy policy we will also update the "Privacy Policy Lasted Updated" date at the top of this page. As our privacy policy may be updated from time to time, we encourage you to occasionally visit this page to check if our policy has been updated or not.
+Our privacy policy may occasionally be updated from time to time. When we do update our privacy policy we will also update the "Privacy Policy Lasted Updated" date at the top of this page. As our privacy policy may be updated from time to time, we encourage you to occasionally visit this page to check if our policy has been updated or not. 
