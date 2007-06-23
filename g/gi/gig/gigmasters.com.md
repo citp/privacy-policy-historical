@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gigmasters.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206010309id_/http%3A//www.gigmasters.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigmasters.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623055415id_/http%3A//www.gigmasters.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement for Gigmasters.com
 
@@ -9,7 +9,7 @@
 Gigmasters helps you hire live music and entertainment. Whether it's a wedding, corporate event, club, or private party, you'll easily find a quality band, DJ, string quartet, magician, Elvis impersonator, hypnotist, and much more!  | ** **  
 **Performers**  
 |    
-  
+[](https://web.archive.org/membership.asp)   
 [click here for details](https://web.archive.org/membership.asp) |    
 **Event Planners**  
 |    
@@ -26,9 +26,9 @@ Are you a professional [event planner](https://web.archive.org/bookings/eventpla
 |  |    
 Returning user? **[Login here](https://www.gigmasters.com/modify.asp)**. Don't know your password? **[Click here](https://web.archive.org/forgotpassword.asp)**. First time visitor? **[Take a tour!](https://web.archive.org/demo/)**
 
-[](http://www.truste.org/ivalidate.php?url=www.gigmasters.com&sealid=101)
+[](http://server.iad.liveperson.net/hc/59276654/?cmd=file&file=visitorWantsToChat&site=59276654&byhref=1&imageUrl=http://www.gigmasters.com/images)
 
-_Effective November 15th, 2005_
+[](http://www.truste.org/ivalidate.php?url=www.gigmasters.com&sealid=101) _Effective November 15th, 2005_
 
 Gigmasters.com, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices.  This privacy statement covers the site WWW.GIGMASTERS.COM.  Because we want to demonstrate our commitment to our users’ privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe. 
 
@@ -127,6 +127,4 @@ Michael Caldwell Gigmasters, Inc.  73 Redding Road - Suite 7  Redding, CT 06896
 
 <http://www.gigmasters.com/contact.asp>
 
-* First time here? View our demo for booking party entertainment and wedding music online.
-
-| 
+* First time here? View our demo for booking party entertainment and wedding music online. | 
