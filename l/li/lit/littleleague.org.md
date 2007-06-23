@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the littleleague.org privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215230013id_/http%3A//www.littleleague.org/common/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littleleague.org privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623121144id_/http%3A//www.littleleague.org/common/privacy.asp) for the most accurate reproduction.*
 
 # Little League Online
 
