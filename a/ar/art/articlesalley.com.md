@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the articlesalley.com privacy policy that was archived on 2006-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060831052344id_/http%3A//www.articlesalley.com//01privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesalley.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623215118id_/http%3A//www.articlesalley.com//01privacy.php) for the most accurate reproduction.*
 
-# Free Website Content - Articles Directory - Submit, Share, Distribute News And Articles. RSS and Javascript feeds.
+# Article Directory
 
 | **Articles Area**  
 ---  
@@ -8,7 +8,7 @@
 [ Home](http://www.articlesalley.com/index.php)  
   
   
-[**Member Login**](http://www.articlesalley.com/user.login.php)  
+[**Login / Register**](http://www.articlesalley.com/user.login.php)  
 [Browse Articles](http://www.articlesalley.com/index.php/browse)  
 [Search Articles](http://www.articlesalley.com/article.search.php)  
 [Submit/Edit an Article ](http://www.articlesalley.com/user.login.php)  
@@ -21,16 +21,12 @@
 **For Publishers**  
 [Free Email Alert](http://www.articlesalley.com/subscribe.php)  
 [Manage Subscriptions](http://www.articlesalley.com/subscribe.manage.php)  
-[Article **Ghost Writer** Service](http://ghostwriter.josh4info.com/)  
 **Guidelines**  
 [Authors](http://www.articlesalley.com/authorguideline.php)  
 [Publishers](http://www.articlesalley.com/publisherguideline.php)  
 **Partners**  
-  
-[Make Money Online](http://makemoneyonline.josh4info.com/)  
-  
-[Articles Directory](http://www.everyarticles.com/)  
-[Web Directory](http://www.zilladirectory.com/)  
+[ArticlesArea](http://www.articlesarea.com/)  
+[Articles4MeandU](http://www.articles4meandu.com/)  
   
 This privacy statement was written to make clear our firm commitment to privacy. The following document explains the practices employed by us to gather and disseminate information. 
 
