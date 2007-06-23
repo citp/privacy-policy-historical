@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rugby.com.au privacy policy that was archived on 2006-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061128190826id_/http%3A//www.rugby.com.au/home/footer/privacy%2C47.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rugby.com.au privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623064945id_/http%3A//www.rugby.com.au/home/footer/privacy%2C47.html) for the most accurate reproduction.*
 
 # rugby.com.au | Privacy
 
