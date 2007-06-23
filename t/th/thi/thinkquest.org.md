@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkquest.org privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212222959id_/http%3A//www.thinkquest.org/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkquest.org privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623082323id_/http%3A//thinkquest.org/privacy.shtml) for the most accurate reproduction.*
 
 # ThinkQuest Privacy Policy
 
@@ -8,7 +8,7 @@ This Privacy Policy **(Policy)** applies to your use of the website accessible v
 
 OTHER TERMS 
 
-Your use of our Site is subject to and contingent upon your agreement with the ThinkQuest Website [Terms of Use](https://web.archive.org/web/20061212222959id_/http%3A//www.thinkquest.org/termsofuse.shtml), which are hereby incorporated by reference. Participation in a ThinkQuest Competition **(Competition)** is governed by the applicable Evaluation Criteria and Rules as well as any other agreements required to be executed in order to participate in the Competition. The **Foundation** , we, or us refers to the Oracle Education Foundation, a California not-for-profit corporation. 
+Your use of our Site is subject to and contingent upon your agreement with the ThinkQuest Website [Terms of Use](https://web.archive.org/web/20070623082323id_/http%3A//thinkquest.org/termsofuse.shtml), which are hereby incorporated by reference. Participation in a ThinkQuest Competition **(Competition)** is governed by the applicable Evaluation Criteria and Rules as well as any other agreements required to be executed in order to participate in the Competition. The **Foundation** , we, or us refers to the Oracle Education Foundation, a California not-for-profit corporation. 
 
 CHILDREN AND MINORS 
 
