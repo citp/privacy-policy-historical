@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the urbanoutfitters.co.uk privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110081422id_/http%3A//www.urbanoutfitters.co.uk/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanoutfitters.co.uk privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623091315id_/http%3A//www.urbanoutfitters.co.uk/page/privacy) for the most accurate reproduction.*
 
 # Urban Outfitters - Privacy Policy
 
-Effective July 11, 2006 
+**Effective July 11, 2006**
 
 Urban Outfitters Ireland Limited collects customer information to communicate with our customers about our products, services and promotions. We collect information including your name, e-mail and postal address that you provide to us when you register. We also monitor site use and traffic patterns to improve our web site design and the products and services we offer. Urban Outfitters Ireland Limited recognizes that it must maintain and use customer information responsibly.
 
@@ -12,6 +12,6 @@ By registering your information with us, you consent to Urban Outfitters Ireland
 
 Urban Outfitters complies with the standards, procedures and requirements detailed in the Data Protection Act.
 
-Cookies
+ **Cookies**
 
 A cookie is a small data file that is temporarily stored by your browser on your computer’s hard drive. The Urban Outfitters website uses a number of cookies to operate. The website uses cookies to help Urban Outfitters gather marketing information on website usage.
