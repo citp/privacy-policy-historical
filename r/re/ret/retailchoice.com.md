@@ -1,33 +1,33 @@
-> *The following text is extracted and transformed from the retailchoice.com privacy policy that was archived on 2006-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061103085149id_/http%3A//www.retailchoice.com/Contents/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retailchoice.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623105916id_/http%3A//www.retailchoice.com/Contents/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Retailchoice.com
+# RetailChoice.com
 
-At Retailchoice.co.uk we make every effort to comply with our obligations under the 1998 Data Protection Act. Additionally, we understand the importance of maintaining the confidentiality of your CV and other information stored about you while using the site. 
+At RetailChoice.com we make every effort to comply with our obligations under the 1998 Data Protection Act. Additionally, we understand the importance of maintaining the confidentiality of your CV and other information stored about you while using the site. 
 
-You can remove any of the information that Retailchoice.co.uk stores about you, at any time, by logging in to your 'My Retailchoice' account and choosing to close the account. 
+You can remove any of the information that RetailChoice.com stores about you, at any time, by logging in to your 'My RetailChoice' account and choosing to close the account. 
 
-_Privacy policy update (1 August, 2006)_
+_Privacy policy update (1 February 2007)_
 
  **Registration details**   
 Contact and other details you supply as part of the registration process are stored by us and used to provide you with the information you have requested. 
 
 **Profile and CV information**   
-When you complete your Retailchoice.co.uk profile, including your CV, it can be made available for searching, viewing over the Internet and downloading by Retailchoice.co.uks' customers. Customers who request CVs matching your profile to be sent to them, will receive your CV and profile via email or CD Rom. These may be direct recruiters, employment consultants or other organisations. 
+When you complete your RetailChoice.com profile, including your CV, it can be made available for searching, viewing over the Internet and downloading by any direct recruiter, employment consultant or other person or organisation who requests CVs matching your profile to be sent to them. RetailChoice.com does not verify the identity or the nature of the business of such organisations. 
 
-**IMPORTANT:** Your current employer may be a customer of Retailchoice.com, or a client of one of our customers. Retailchoice.com cannot restrict the customers who access profiles on our database and cannot be held responsible for any eventuality. As part of the registration process Retailchoice.com offers you the option of remaining anonymous. 
+**IMPORTANT:** Your current employer may be a customer of RetailChoice.com, or a client of one of our customers. RetailChoice.com cannot restrict the customers who access profiles on our database and cannot be held responsible for any eventuality. As part of the registration process RetailChoice.com offers you the option of remaining anonymous. 
 
-Retailchoice.com will also use the aggregate data to identify employment trends across different sectors, such as salary averages. This information will not be capable of being linked to any personally identifying information about users. 
+RetailChoice.com will also use the aggregate data to identify employment trends across different sectors, such as salary averages. This information will not be capable of being linked to any personally identifying information about users. 
 
 Some of our customers may be located in countries outside the European Economic Area. 
 
-When you 'apply online', we store some information about you in your 'my Retailchoice' area, but it is protected by your password and may only be accessed by you. It does not form part of our Retailchoice.com candidate database and cannot be searched or accessed by Retailchoice.com customers. You can delete your 'my Retailchoice' account at any time. Your CV can only be viewed by a Retailchoice.com customer if you have consented to this within the profile section. 
+When you 'apply online', we store some information about you in your 'my RetailChoice' area, but it is protected by your password and may only be accessed by you. It does not form part of our RetailChoice.com candidate database and cannot be searched or accessed by RetailChoice.com customers. You can delete your 'my RetailChoice' account at any time. Your CV can only be viewed by a RetailChoice.com customer if you have consented to this within the profile section. 
 
 If you choose to create a profile and upload a CV to our database, we rely on you to ensure that your details are kept up to date. You should update your CV at least every six months, particularly if your contact details have changed.
 
-Please note that Retailchoice.co.uk reserves the right to remove from our database, CVs which include any content that we consider to be illegal or offensive.
+Please note that RetailChoice.com reserves the right to remove from our database, CVs which include any content that we consider to be illegal or offensive.
 
  **Cookies**   
-Cookies are small pieces of information stored by us on your computer which enable us to identify your computer when you access the Retailchoice.com web site and to provide you with a convenient means of access. The cookies we use also protect the integrity of registered user names and passwords and limit access to 'paid for' services. We also use cookies to collect aggregate statistical information about the use of our site (see Statistical information below). 
+Cookies are small pieces of information stored by us on your computer which enable us to identify your computer when you access the RetailChoice.com web site and to provide you with a convenient means of access. The cookies we use also protect the integrity of registered user names and passwords and limit access to 'paid for' services. We also use cookies to collect aggregate statistical information about the use of our site (see Statistical information below). 
 
 There is no personally identifiable information held on cookies. An example of a cookie is below. 
 
@@ -45,4 +45,4 @@ In addition, the third party companies who sell and provide advertisements to th
 We provide aggregate statistical information about site visitors and users to recruiters (such as the number of CVs on the database, or the number of visitors to the site) and for other lawful purposes. We provide this information to customers, advertisers, suppliers and other reputable third parties. This will not include any information that enables them to identify individuals. 
 
 **Security**   
-The site is protected against unauthorised access using the latest security devices and 'firewalls'. 
+The site is protected against unauthorised access using the latest security devices and 'firewalls'.
