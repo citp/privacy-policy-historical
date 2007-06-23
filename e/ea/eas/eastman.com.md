@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the eastman.com privacy policy that was archived on 2006-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060829150025id_/http%3A//www.eastman.com/PrivacyPolicy/Privacy_Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastman.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623065631id_/http%3A//www.eastman.com/Privacypolicy/privacy_policy.htm) for the most accurate reproduction.*
 
-# www.eastman.com - Privacy Policy - Privacy Policy
+# www.eastman.com - Privacy Policy
 
-Eastman respects the privacy of visitors to our website and is committed to maintaining all reasonable precautions to assure the privacy and security of this website. Please read the following policy carefully, because it explains what information we collect from website visitors, why we collect it, and where the information goes.
+Eastman respects the privacy of visitors to our website and is committed to maintaining all reasonable precautions to assure the privacy and security of this website. Please read the following policy carefully, because it explains what information we collect from website visitors, why we collect it, and where the information goes. 
 
 **Information Collection and Use**  
 Generally, you may visit our website without telling us any information about yourself, including your email address. Our web servers may collect the name of the domain that you used to access the Internet and the websites that you visited directly before and after visiting our website. If we collect this information, we aggregate it to learn measurements such as the most popular pages viewed at our website, the average number of visits to the website, and the average time spent at the site.
@@ -18,4 +18,4 @@ Our website may contain "links" to other sites, and we cannot and are not respon
 **Security**  
 Eastman takes reasonable precautions to keep all information obtained from our online visitors secure against unauthorized access and use and we periodically review our security measures in an effort to ensure your privacy. We will not, without your permission, give, sell or provide to others for a fee any information that you provide to us, except as set forth herein. We will always ask for and obtain your permission before sharing your information with anyone other than Eastman Chemical Company subsidiaries and affiliates, unless we believe in good faith that the law requires our Company to do so.
 
-If you wish to verify any voluntary information collected about you, or if you wish to be removed from our site database, please contact us at [ebushelp@eastman.com](mailto:ebushelp@eastman.com).
+If you wish to verify any voluntary information collected about you, or if you wish to be removed from our site database, please contact us at [ebushelp@eastman.com.](mailto:ebushelp@eastman.com.)
