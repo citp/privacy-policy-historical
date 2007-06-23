@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the immigration.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615034055id_/http%3A//www.immigration.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the immigration.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623231410id_/http%3A//www.immigration.com/privacy.html) for the most accurate reproduction.*
 
-# Immigration.com - Privacy Policy
+# Immigration.com -Immigration.com -Our Fees
 
 ### Privacy Policy
 
