@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azzcardfile.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017132537id_/http%3A//www.azzcardfile.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azzcardfile.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623043530id_/http%3A//www.azzcardfile.com/privacy.html) for the most accurate reproduction.*
 
 # AZZ Cardfile : Privacy and Security
 
@@ -6,9 +6,9 @@
 
 ### Personal Information
 
-**Orders.** To sell software we use third party order processing company at [SWREG](http://swreg.org/). Through the notification message that follows successful order we receive client's information which includes Name, Address, E-mail address and phone number.
+**Orders.** To sell software we use third party order processing company at [SWREG](http://www.swreg.org/). Through the notification message that follows successful order we receive client's information which includes Name, Address, E-mail address and phone number.
 
-**Mailing list.** We use third party service provided by [Yahoo.com](http://privacy.yahoo.com/). Only E-mail address is necessary to join.
+**Mailing list.** We use third party service provided by [Yahoo.com](http://info.yahoo.com/privacy/us/yahoo/details.html). Only E-mail address is necessary to join.
 
 **Support correspondence.** In the process clients disclose their contact details including names, E-mails, addresses, phone numbers.
 
@@ -16,8 +16,7 @@ We **guarantee the privacy** of all the above mentioned information. It is kept 
 
 ### Web site logs
 
-Like most standard Web site servers we use log files. This includes IP addresses, browser type, internet service provider (ISP), referring pages, operating system, date/time stamp, and number of clicks. This information is used for statistical analysis and technical improvements to the site. IP addresses, etc. are not linked to personally identifiable information. We do not share this information with third party advertisers.  
-AZZ Cardfile website does not use **cookies**.
+Like most standard Web site servers we use log files. This includes IP addresses, browser type, internet service provider (ISP), referring pages, operating system, date/time stamp, and number of clicks. This information is used for statistical analysis and technical improvements to the site. IP addresses, etc. are not linked to personally identifiable information. We do not share this information with third party advertisers. 
 
 ### Downloads
 
@@ -41,4 +40,4 @@ AZZ Cardfile Web site contains outbound links that we deem beneficial to our use
 
 [Ad-aware : multi spyware removal utility](http://www.lavasoftusa.com/)
 
-[Thiefware.com : Learn and protect yourself from ThiefWare technology and software.](http://www.azzcardfile.com/directory/thiefware.html)
+[Thiefware.com : Learn and protect yourself from ThiefWare technology and software.](http://www.azzcardfile.com/news/thiefware.html)
