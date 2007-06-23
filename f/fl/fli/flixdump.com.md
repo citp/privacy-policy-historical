@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flixdump.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216163430id_/http%3A//www.flixdump.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flixdump.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623045541id_/http%3A//www.flixdump.com/privacypolicy.php) for the most accurate reproduction.*
 
 # FlixDump Privacy Policy
 
@@ -6,7 +6,7 @@ Last Revised March 1, 2006
 
 In addition to reviewing this privacy policy, please read our User Agreement. Your use of FlixDump.com ("Website") constitutes agreement to its terms and conditions. 
 
-This Website is produced by Tatto, Inc. ("Service Provider"). This policy does not cover information collected on sites linked to from the Website. 
+This Website is produced by BUYER ("Service Provider"). This policy does not cover information collected on sites linked to from the Website. 
 
 This Privacy Policy may be modified from time to time; the date of the most recent revisions will appear on this page, so check back often. Continued access of the Website by you will constitute your acceptance of any changes or revisions to the Privacy Policy. 
 
