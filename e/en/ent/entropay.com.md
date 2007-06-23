@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the entropay.com privacy policy that was archived on 2006-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061116141907id_/http%3A//www.entropay.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entropay.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623051450id_/http%3A//www.entropay.com/privacy.shtml) for the most accurate reproduction.*
 
 # EntroPay Privacy Policy
 
-###### [Home](https://web.archive.org/web/20061116141907id_/http%3A//www.entropay.com/index.shtml) > Privacy Policy
+###### [Home](https://web.archive.org/web/20070623051450id_/http%3A//www.entropay.com/index.shtml) > Privacy Policy
 
 Effective date Fourteenth of December 2005 (14/12/2005 - UK date format)
 
