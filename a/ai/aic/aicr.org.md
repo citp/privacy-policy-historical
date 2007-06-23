@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aicr.org privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205202617id_/http%3A//www.aicr.org/site/PageServer%3Fpagename%3Dabt_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aicr.org privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623054251id_/http%3A//www.aicr.org/site/PageServer%3Fpagename%3Dabt_privacy) for the most accurate reproduction.*
 
 # AICR: Your Privacy Rights
 
