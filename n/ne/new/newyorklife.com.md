@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the newyorklife.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205222011id_/http%3A//newyorklife.com/cda/0%2C3254%2C10564%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyorklife.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623225251id_/http%3A//www.newyorklife.com/cda/0%2C3254%2C10564%2C00.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+  
+
 
 New York Life Online Privacy Policy   
 (Effective as of June, 2005) 
