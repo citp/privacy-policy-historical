@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the searchles.com privacy policy that was archived on 2006-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061228072448id_/http%3A//www.searchles.com/misc/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the searchles.com privacy policy that was archived on 2007-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070623143244id_/http%3A//www.searchles.com/misc/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	
@@ -8,6 +8,16 @@
 		<link rel="icon" href="/images/favicon.png" type="image/png">		
 		<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
 		<link rel="stylesheet" type="text/css" href="/common/style.css">
+		<script type="text/javascript" src="/common/scripts/bubbleTips.js"></script>
+				
+		<script type="text/javascript">
+		
+			window.onload=function(){
+			BubbleTips.activateTipOn("acronym");
+			BubbleTips.activateTipOn("dfn");
+			};
+		</script>
+        
 	    
 		<!--[if lt IE 6]>
 			<link rel="stylesheet" type="text/css" href="/common/style_ie5.css" />
@@ -27,6 +37,19 @@
 				
 				<div id="logo"><a name="top" id="pagetop"></a>
 					<h1><a href="/"><img src="/images/logo_searchles_notag.gif" alt="searchles - bookmark · tag · share"></a></h1>
+				</div>
+				
+				<!-- logged in bar -->
+				<div id="topuser">
+				
+			      
+    				   <span class="blue">	
+    						<a href="/misc/help">help</a> &nbsp;|&nbsp;
+    						<a href="/login"><span style="font-size: 1.2em"><b>login</b></span></a> &nbsp;|&nbsp;
+    						<a href="/register"><span style="font-size: 1.2em"><b>register</b></span></a>
+    					</span>
+					
+				
 				</div>
 				
 				<!--searchbox-->
@@ -52,7 +75,14 @@
 										
 										
 										<select name="scope" id="scope">
-											<option value="all">Everywhere</option>
+											<option value="all">All User Posts</option>
+										    
+											<option value="myposts">My Posts</option>
+											<option value="mychannels">My Channels</option>
+											<option value="myfriends">My Friends</option>
+											<option value="mygroups">My Groups</option>
+											<option value="myfoafs">My Friends' Friends</option>	
+											<option value="myfans">My Fans</option>
 										  
 										  
 										</select>	
@@ -72,27 +102,17 @@
 			
 				<!--navigation-->
 			
-				<div id="nav">
-					<table>                       	                            
-						<tbody><tr>
-							<td class="nl"><span id="user"><b>Welcome to Searchles!</b> </span></td>
-							<td class="nc">
-								<a href="/">Home</a> &nbsp;|&nbsp;
-								<a href="/groups">Groups</a> &nbsp;|&nbsp; 
-								<a href="/people">People</a> &nbsp;|&nbsp;
-								<a href="/stuff/addtags">Post a link</a> &nbsp;|&nbsp; 
-								<a href="/people/random">Random </a>  &nbsp;|&nbsp; 
-								<a href="/messages/inbox">Messages</a>&nbsp;
-							</td>
-							<td class="nr">
-								<a href="/login">login</a> &nbsp;|&nbsp;
-								<a href="/register">register</a>&nbsp;|&nbsp;
-								<!--<a href="/logout">logout</a> &nbsp;|&nbsp; -->
-								<a href="/misc/help">Help</a>
-							</td>
-						</tr>
-						  
-					</tbody></table>									
+				<div id="primenav">
+				    
+					<a href="/">Home</a> | 
+					<a href="/groups">Groups</a> |
+					<a href="/people">People</a> |
+					<a href="/links/add_link">Post a link</a> |
+					<a href="/misc/help/searchles.tv">Searchles TV</a> |
+					<a href="/highest_rated" class="newoption">Top Rated</a> | 
+					<a href="/misc/searchles_tv_contest" class="newoption">Searchles TV Contest</a> | 
+					<a href="/alerts/live" class="newoption">Searchles Live</a>
+								
 				</div>
 			
 			<!--/navigation-->
@@ -107,13 +127,16 @@
     			
 			</div>
 			
-			
-		    <!--splash!-->
-		
-			<div class="splash"><a href="/register/"><img src="/images/home_splash_final.png" alt="Searchles is the social search platform that showcases your expertise, enables collaboration with peers and instantly captures it in searchable knowledge indexes. Sign up now."></a></div>
-			    			    			
-			<!--splash!-->	
 				
+			
+			
+			<!-- top bar before main content (ex. homepage) -->
+    			<div class="homenewtop">
+    			     
+    			</div>
+    			
+			<!--/top bar-->
+    			
 			
 			
     		<!-- content wrapper -->
@@ -129,6 +152,7 @@
     			<!--left col-->
     			
     			<!--/left col-->
+    			
     			
     			<!--main col-->
     			
@@ -232,16 +256,19 @@ We receive and store any information you enter on our website or provide to us i
 				<a href="/misc/careers">Employment</a> &nbsp;|&nbsp; 
 				<a href="/misc/termsofuse">Terms Of Use</a> &nbsp;|&nbsp; 
 				<a href="/misc/privacy">Privacy</a> &nbsp;|&nbsp; 
-				<a href="/misc/contact">Contact Us</a>
+				<a href="/misc/contact">Contact Us</a> &nbsp;|&nbsp;
+				<a href="http://blog.searchles.com/">Official Blog</a> &nbsp;|&nbsp;
+				<a href="/misc/widget">Get the Widget!</a> &nbsp;|&nbsp;
+				<a href="/bookmarklet/help">Install the Bookmarklet!</a>
 			</div>
 			<div id="copyright">
-				Copyright ©2006 Dumbfind, Inc. All Rights Reserved
+				Copyright ©2007 Searchles, Inc. All Rights Reserved
 			</div>
+			<script>document.write("<img src='/images/1pix.gif?" + Math.random() + "&'>");</script><img src="/images/1pix.gif?0.31630844299453953&amp;">
 		
 		</div></div>
 			
 	
 	
 
-
-</body></html>
+<span style="position: absolute; z-index: 9;"></span><span style="position: absolute; z-index: 9;"></span></body></html>
