@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the websitepublisher.net privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228084513id_/http%3A//websitepublisher.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitepublisher.net privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623093137id_/http%3A//www.websitepublisher.net/privacy.php) for the most accurate reproduction.*
 
 # Website Publisher - Guides, Tutorials, and Advice for Internet Publishers.
-
-| 
 
 This site is owned and operated by Jalic LLC. Your privacy on the Internet is of the utmost importance to us. At Jalic LLC, we want to make your experience online satisfying and safe. 
 
