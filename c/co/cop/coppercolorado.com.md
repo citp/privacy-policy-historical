@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the coppercolorado.com privacy policy that was archived on 2006-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061023040636id_/http%3A//intrawest.com/privacy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coppercolorado.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623110955id_/http%3A//intrawest.com/privacy/index.asp) for the most accurate reproduction.*
 
 # Intrawest - Privacy Policy
 
-## INTRAWEST CORPORATION PRIVACY POLICY 
+## INTRAWEST ULC PRIVACY POLICY 
 
   * _Scope and Application_
   * _Definitions_
@@ -41,7 +41,7 @@ The scope and application of the Intrawest Privacy Policy are as follows:
 
  **Personal information** \- information about an identifiable individual, but does not include aggregated information that cannot be associated with a specific individual. Personal information also excludes certain information as is excluded pursuant to applicable legislation or other regulations, such as publicly available information or business contact information, as and when applicable.
 
- **Intrawest** \- Intrawest Corporation, and its subsidiaries and certain designated affiliates, as they may exist from time to time, including Blackcomb Skiing Enterprises Limited Partnership; Whistler Mountain Resort Limited Partnership; Intrawest/Lodestar Limited Partnership; IW Resorts Limited Partnership; Mont Tremblant Resorts and Company, Limited Partnership; Copper Mountain, Inc.; Intrawest California Holdings, Inc.; Intrawest Golf Holdings, Inc.; Intrawest Resort Ownership Corporation; Intrawest Retail Group, Inc.; Intrawest Sandestin Company, L.L.C.; Intrawest/Winter Park Holdings Corporation; Mountain Creek Resort, Inc.; Mt. Tremblant Reservations Inc.; Playground Real Estate Inc.; Resort Reservations Network Inc.; Snowshoe Mountain, Inc.; Intrawest Golf Management (Canada) Ltd.; The Stratton Corporation; Blue Mountain Resorts Ltd.
+ **Intrawest** \- Intrawest ULC, and its subsidiaries and certain designated affiliates, as they may exist from time to time, including Blackcomb Skiing Enterprises Limited Partnership; Whistler Mountain Resort Limited Partnership; Intrawest/Lodestar Limited Partnership; IW Resorts Limited Partnership; Mont Tremblant Resorts and Company, Limited Partnership; Copper Mountain, Inc.; Intrawest California Holdings, Inc.; Intrawest Golf Holdings, Inc.; Intrawest Resort Ownership Corporation; Intrawest Retail Group, Inc.; Intrawest Sandestin Company, L.L.C.; Intrawest/Winter Park Holdings Corporation; Mountain Creek Resort, Inc.; Mt. Tremblant Reservations Inc.; Playground Real Estate Inc.; Resort Reservations Network Inc.; Snowshoe Mountain, Inc.; Intrawest Golf Management (Canada) Ltd.; The Stratton Corporation; Blue Mountain Resorts Ltd.
 
  **Third party** \- an individual or organization outside Intrawest.
 
@@ -182,7 +182,7 @@ By email: | [_yourprivacy@intrawest.com_](mailto:yourprivacy@intrawest.com)
 ---|---  
 By phone: | 1 877 477 6777 (North American Toll Free Number)  
 00 800 6777 6777 (International Toll Free Number)  
-By mail: | Ross Meacher, Chief Privacy Officer, Intrawest Corporation  
+By mail: | Privacy Office, Intrawest ULC   
 #800 - 200 Burrard Street, Vancouver, BC Canada V6C 3L6  
   
-[**Politique De Confidentialité**](https://web.archive.org/politique.htm)
+[**Politique De Confidentialité**](https://web.archive.org/politique/index.htm)
