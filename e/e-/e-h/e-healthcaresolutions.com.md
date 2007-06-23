@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the e-healthcaresolutions.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209213753id_/http%3A//www.e-healthcaresolutions.com/main.php%3Fpid%3Dprivacy%26title%3De-HS%2520privacy%2520statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-healthcaresolutions.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623063112id_/http%3A//www.e-healthcaresolutions.com/main.php%3Fpid%3Dprivacy%26title%3De-HS%2520privacy%2520statement) for the most accurate reproduction.*
 
-# e-hs privacy statement
+# e-HS privacy statement
 
 * * *
 
@@ -88,6 +88,6 @@ e-HS will maintain the confidentiality of the information that it collects durin
 
 This Privacy Statement is governed by the internal substantive laws of the State of New Jersey, without respect to its conflict of laws principles. Jurisdiction for any claims arising under the terms and conditions of this Privacy Statement shall lie exclusively with the state and federal courts of the State of New Jersey. If any provision of this Privacy Statement is found to be invalid by a court having competent jurisdiction, the invalidity of such provision shall not affect the validity of the remaining provisions of this Privacy Statement, which shall remain in full force and effect. 
 
-If you would like to "opt-out" of receiving targeted information and advertising from the e-HS servers in the future. You may do so by clicking here: [Opt-me-out](http://ads.digitalhealthcare.com/RealMedia/dhn.cgi?opt_out=yes&redirect=http://www.e-healthcaresolutions.com/New_EHS/main.php?pid=optout). 
+If you would like to "opt-out" of receiving targeted information and advertising from the e-HS servers in the future. You may do so by clicking here: [Opt-me-out](http://admin2.digitalhealthcare.com/RealMedia/dhn.cgi?opt_out=yes&redirect=http://www.e-healthcaresolutions.com/optout.php). 
 
 Privacy Statement last updated, January 2005. 
