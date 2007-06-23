@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nvish.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215132713id_/http%3A//www.nvish.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nvish.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623055228id_/http%3A//www.nvish.com/privacy.html) for the most accurate reproduction.*
 
-# BPM Consulting And Training | Enterprise Solution | Java Development Chandigarh India
+# BPM | Workflow | BPM Solutions | Workflow Solutions | BPM Consulting | Workflow Training | BPM Solution India | Workflow Solution India | BPM Software | Workflow Software
 
 Terms And conditions  
 NVISH Solutions has created this Privacy Policy in order to demonstrate its firm commitment to your privacy on the any website directly related to NVISH Solutions Pvt. Ltd. The following discloses our information gathering, dissemination and protection practices. 
