@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whitehouseblackmarket.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206195541id_/http%3A//www.whitehouseblackmarket.com/store/page.asp%3Fid%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitehouseblackmarket.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623230642id_/http%3A//www.whitehouseblackmarket.com/store/page.asp%3Fid%3D5) for the most accurate reproduction.*
 
 # White House | Black Market - Privacy Policy
 
