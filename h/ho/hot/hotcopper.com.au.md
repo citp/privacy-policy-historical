@@ -1,8 +1,25 @@
-> *The following text is extracted and transformed from the hotcopper.com.au privacy policy that was archived on 2006-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061022093221id_/http%3A//hotcopper.com.au/forum_privacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotcopper.com.au privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623222943id_/http%3A//www.hotcopper.com.au/forum_privacyPolicy.asp) for the most accurate reproduction.*
 
-# HotCopper
+# 
 
-|  **Hotcopper Privacy Policy.**   
+|  Member Login  
+---  
+Username: |   
+Password: |   
+New User?  
+---  
+Join now for FREE!  
+Retrieve Password  
+Enter your username and email address and your password will be emailed to you.   
+Username: |   
+Email: |   
+724 Logins Today  
+  
+[All](https://web.archive.org/web/20070623222943id_/http%3A//www.hotcopper.com.au/posts_latestAll.asp)   
+|  |  |   
+---  
+  
+  
 Hotcopper takes your privacy seriously. Please read the following to learn more about our privacy policy. 
 
 **What This Privacy Policy Covers**
@@ -61,6 +78,7 @@ Hotcopper takes your privacy seriously. Please read the following to learn more 
 
 
 **Changes to this Privacy Policy**   
-Hotcopper may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Hotcopper account or by placing a prominent notice on our site. 
-
-| 
+Hotcopper may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Hotcopper account or by placing a prominent notice on our site.   
+  
+[](https://web.archive.org/web/20070623222943id_/http%3A//www.hotcopper.com.au/forum_termsOfUse.asp) | [](https://web.archive.org/web/20070623222943id_/http%3A//www.hotcopper.com.au/forum_privacyPolicy.asp) | [](https://web.archive.org/web/20070623222943id_/http%3A//www.hotcopper.com.au/forum_codeOfConduct.asp) | [](http://www.fido.gov.au/) | [](mailto:info@hotcopper.com.au) | [](https://web.archive.org/web/20070623222943id_/http%3A//www.hotcopper.com.au/site_advertise.asp)  
+Copyright © 2000 - 2007 HotCopper ALL RIGHTS RESERVED.
