@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the consumerbase.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207215120id_/http%3A//www.consumerbase.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerbase.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623130806id_/http%3A//www.consumerbase.com/privacy.asp) for the most accurate reproduction.*
 
 # ConsumerBase
 
 Last Updated: November 2003
 
-Organ Worldwide, LLC, ConsumerBase LLC, ConsumerBase (UK) Ltd., eShopFirst, ConsumerWireless, Offerz.com, DegreeLinks, Email Lookup, Reports 2006, Official Referral, Value Seekers, BehaviorBase and ResponderInfo as well as affiliates, divisions, contractors and all data sources and suppliers, all of which are referred to herein as "The Company” has a deep commitment to the privacy of every individual about whom it holds information. Since we gather individual consumer data, we want users to fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather, how we use it, and how we correct or change it. 
+Organ Worldwide, LLC, ConsumerBase LLC, ConsumerBase (UK) Ltd., eShopFirst, ConsumerWireless, Offerz.com, DegreeLinks, Email Lookup, Reports 2007, Official Referral, Value Seekers, BehaviorBase and ResponderInfo as well as affiliates, divisions, contractors and all data sources and suppliers, all of which are referred to herein as "The Company” has a deep commitment to the privacy of every individual about whom it holds information. Since we gather individual consumer data, we want users to fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather, how we use it, and how we correct or change it. 
 
 The Company and its employees assert that protecting consumer privacy is our greatest concern. We pledge to conduct our business according to the following principles: 
 
