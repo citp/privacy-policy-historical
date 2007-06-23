@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerone.com.au privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206014518id_/http%3A//www.careerone.com.au/jobs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerone.com.au privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623225442id_/http%3A//www.careerone.com.au/jobs/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -62,7 +62,7 @@ Please contact our Privacy Officer to ask for access to your information or if y
 
 Or write to:  
 The Privacy Officer  
-News Interactive  
+News Digital Media  
 02 9288 3000  
 Level 3  
 2 Holt Street  
