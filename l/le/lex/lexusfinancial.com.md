@@ -1,19 +1,16 @@
-> *The following text is extracted and transformed from the lexusfinancial.com privacy policy that was archived on 2006-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061101082303id_/http%3A//www.lexusfinancial.com/legal/lfs/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexusfinancial.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623084131id_/http%3A//www.lexusfinancial.com/legal/lfs/privacy.jsp) for the most accurate reproduction.*
 
 # Lexus Financial Services - Privacy
 
   
 | 
 
-  
-
-
-Effective as of April 29, 2004
+Effective as of February 12, 2007
 
 This page contains the online privacy policy and terms of use applicable to your usage of this website, lexusfinancial.com and lexusfinancialofsc.com.
 
-**Privacy Statement**  
-**Normal Website Usage  
+Privacy Statement  
+Normal Website Usage  
 Collection and Disclosure of Personally Identifiable Information  
 You May Request A Copy of Your Privacy Policy  
 Your Choices  
@@ -22,13 +19,11 @@ Accuracy of Your Information
 Confidentiality and Security  
 Assistance for Victims of Identity Theft  
 Terms of Use  
-Questions,Comments or Complaints** **
+Questions,Comments or Complaints
 
-Privacy Statement
+**Privacy Statement**
 
-**
-
-Lexus Financial Services,Toyota Motor Credit Corporation, Toyota Motor Insurance Services, Inc., and their subsidiaries (LFS, or we) respect your privacy and the confidential nature of the information that we gather during the course of our relationship with you. This Policy describes Lexus Financial Services' policy regarding information received about you during visits to our website.  
+Lexus Financial Services, Toyota Motor Credit Corporation, Toyota Motor Insurance Services, Inc., and their subsidiaries (LFS, or we) respect your privacy and the confidential nature of the information that we gather during the course of our relationship with you. This Policy describes Lexus Financial Services' policy regarding information received about you during visits to our website.  
 **  
 Normal Website Usage**
 
@@ -48,19 +43,25 @@ When you submit an online application to us or you are accessing your account on
   * Information we receive from you on applications for credit or other forms, such as your contact information, assets and income; and
   * Information we receive from you about your transactions with us, or affiliates (as permitted by law), or others such as account balances, payment history or account activity.
 
-Credit applications and consumer report information: We do not disclose personally identifiable information from your credit application to any third parties, including our affiliates, except as permitted by law. We also collect information from consumer reporting agencies, but we do not disclose personally identifiable consumer report information to any third parties, including our affiliates, except as permitted by law.
 
-If you are our customer, to the extent permitted by law and in accordance with our Privacy Policy, the personally identifiable information we collect about you may be shared with our affiliates and nonaffiliated third parties as follows: 
+
+TFS does not disclose personally identifiable information from your credit application nor from credit reporting agencies for non-customers, except as permitted by law.
+
+  
+If you are our customer, we may disclose all of the information that we collect on you and former customers, as described below.
+
+  
+To the extent permitted by law and in accordance with our Privacy Policy, the personally identifiable information we collect about you may be shared with our affiliates and nonaffiliated third parties as follows:
 
   * Financial products service providers, such as Toyota Motor Insurance Services, Inc. and Toyota Financial Savings Bank.
-  * Non-financial companies engaged in the distribution, marketing, and sales of Lexus and Toyota automobiles, such as Toyota Motor Sales U.S.A., Inc., authorized Lexus and Toyota dealerships and other dealerships with which we have a relationship, independent Lexus and Toyota dealerships' marketing associations, private Toyota distributors, nonaffiliated third parties calling us for information about your account with us, and nonaffiliated third parties who may sell your data for automotive marketing purposes. Companies that perform marketing services on our behalf or to other financial institutions with which we have joint marketing agreements.
+  * Non-financial companies engaged in the distribution, marketing, and sales of Lexus and Toyota automobiles, such as Toyota Motor Sales U.S.A., Inc., authorized Lexus and Toyota dealerships and other dealerships with which we have a business relationship, independent Lexus and Toyota dealerships' marketing associations, private Toyota distributors, nonaffiliated third parties calling us for information about your account with us, and nonaffiliated third parties who may sell your data in aggregate form for automotive marketing purposes.
+  * Companies that perform marketing services on our behalf or to other financial institutions with which we have joint marketing agreements.
 
 
 
-Former Customers: We do not disclose any nonpublic personal information about our former customers, except as permitted by law.  
 We do not sell the collected data, regardless of whether you are a TFS customer.  
 **  
-You May Request a Copy of Your Privacy Policy**
+You May Request A Copy of Your Privacy Policy**
 
 LFS continuously strives to comply with all applicable federal and state privacy laws. Some policies will vary by territory, based on the applicable laws of the region. If you are a customer of LFS, you may request a copy of your Financial Privacy Notice (if applicable) by calling us at 1-888-717-9248. LFS insurance customers may request a copy of their Insurance Privacy Notice (if applicable) by calling us at 1-800-448-1505.
 
