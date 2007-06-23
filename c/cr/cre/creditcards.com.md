@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditcards.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225133441id_/http%3A//www.creditcards.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditcards.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623082632id_/http%3A//www.creditcards.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy - CreditCards.com
 
