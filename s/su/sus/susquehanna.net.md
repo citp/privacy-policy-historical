@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the susquehanna.net privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216185555id_/http%3A//www.susquehanna.net/misc/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the susquehanna.net privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623043035id_/http%3A//www.susquehanna.net/misc/privacy.aspx) for the most accurate reproduction.*
 
 # Susquehanna Privacy Information
 
