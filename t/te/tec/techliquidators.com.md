@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techliquidators.com privacy policy that was archived on 2006-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061127075318id_/http%3A//www.bestbuy.com/site/olspage.jsp%3Fid%3Dcat12098%26entryURLType%3D%26categoryId%3Dcat10011%26type%3Dpage%26entryURLID%3D%26contentId%3D1043363533588) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techliquidators.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623074011id_/http%3A//www.bestbuy.com/site/olspage.jsp%3Fid%3Dcat12098%26entryURLType%3D%26categoryId%3Dcat10011%26type%3Dpage%26entryURLID%3D%26contentId%3D1043363533588) for the most accurate reproduction.*
 
 # BestBuy.com Help: <Topic>
 
@@ -269,7 +269,7 @@ HOW CAN I **UPDATE** MY INFORMATION?
 
 Best Buy wants your information and marketing preferences to be accurate and complete. We provide several different methods for you to update your personal information. To update your information:
 
-1) If you’ve created an account on [BestBuy.com](http://www.bestbuy.com/), you can update your information after logging into your account
+1) If you’ve created an account on BestBuy.com, you can update your information after logging into your account
 
 2) Call: 1-888-BEST BUY (1-888-237-8289)
 
