@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sac.edu privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231012106id_/http%3A//www.rsccd.org/apps/rpub.asp%3FQ%3D676%26T%3DPages) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sac.edu privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624082104id_/http%3A//www.rsccd.org/apps/rpub.asp%3FQ%3D676%26T%3DPages) for the most accurate reproduction.*
 
 # RSCCD Privacy Act Notice
 
