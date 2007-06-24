@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveyscout.com privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224121217id_/http%3A//surveyscout.com/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyscout.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624084358id_/http%3A//www.surveyscout.com/privacy.cgi) for the most accurate reproduction.*
 
 # SurveyScout.com :: Where your "2 cents" are worth more than you think!
 
@@ -47,9 +47,8 @@ This web site has security measures in place to protect against loss, misuse and
 SurveyScout.com provides every user with the opportunity to opt-out of receiving future communications from us, change and modify information previously provided, or remove their information from our databases altogether. You may do so in any of the following ways:
 
 1\. Email: [support@surveyscout.com](mailto:support@surveyscout.com)  
-2\. Website: [http://www.surveyscout.com/mcenter](https://web.archive.org/mcenter/index.cgi)  
-3\. Postal Mail: 6724 Perimeter Loop Rd, PMB 326 • Dublin OH 43017-3202 USA  
-4\. Facsimile: (937) 303-0005
+2\. Website: [http://surveyscout.helpserve.com](http://surveyscout.helpserve.com/)  
+3\. Postal Mail: #425 3210 E Chinden Blvd #115 Eagle ID 83616 USA
 
 **Contacting SurveyScout.com**
 
@@ -59,4 +58,4 @@ If you have any questions about this privacy statement, the practices of this we
 
 SurveyScout reserves the right to change this privacy policy at any time.
 
-  This Privacy Policy was last revised on October 6, 2004. 
+  This Privacy Policy was last revised on April 27, 2007. 
