@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walgreens.com privacy policy that was archived on 2006-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061227214930id_/http%3A//www.walgreens.com/help/privacyandsecurity.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walgreens.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624220236id_/http%3A//www.walgreens.com/help/privacyandsecurity.jsp) for the most accurate reproduction.*
 
 # Walgreens.com | Help | Walgreens.com Online Privacy & Security Policy
 
@@ -38,7 +38,7 @@ Does Walgreens.com share the information I've provided?
 We will not intentionally release your particular prescription information other than to you, Walgreen Co. and its subsidiaries, our **agents** (such as contracted fulfillment parties, if any) your authorized representative, or your prescriber or other authorized medical professional. We may forward your prescription information to your insurance plan, so that we can handle reimbursement of your prescription purchase for your convenience.   
 
 
-  * **Agents** : We may employ other companies and individuals to perform functions on our behalf. These functions may include fulfilling orders for the Health Info Card program, delivering packages, hosting sites from walgreens.com including the photo site, product reviews, developing pictures or photo products, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, or processing credit card payments. They have access to personal information needed to perform their functions, but may not use it for other purposes. 
+  * **Agents** : We may employ other companies and individuals to perform functions on our behalf. These functions may include fulfilling orders for the Health Info Card program, delivering packages, hosting sites from walgreens.com including the photo site and online rebate redemption site, product reviews, developing pictures or photo products, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, or processing credit card payments. They have access to personal information needed to perform their functions, but may not use it for other purposes. 
   * **Promotional Offers** : We may send offers to selected groups of Walgreens.com customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please notify us. 
   * **Disclosures:** As required by law we will disclose medical and other information which may relate to you. For example, in compliance with the Methamphetamine Control Act of 1996, Walgreens.com will provide the Drug Enforcement Administration with the name and address of each individual who purchases products on Walgreens.com which contain the ingredients ephedrine or pseudophedrine. We, or our photo site host, may also disclose information which we believe to be in violation of Title 18 of the United States Code, Sections 2251 et seq. to appropriate law enforcement agencies. 
   * **Invitees:** You may invite other parties to view the content in your Photo Albums. Photo.Walgreens.com will share such information as may be necessary for your invitees to view the albums you designate. 
@@ -49,11 +49,11 @@ Do I have choices regarding how my information is used?
 
   * You can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of such Walgreens.com features as listed above 
   * You can add or update certain information on pages such as those listed in the "What information can I access?" section above. 
-  * If you do not want to receive e-mail or other mail from us, you can log in to your account and click [Edit Your Registration Information](https://web.archive.org/pharmacy/register/viewpersonalinfo.jsp) to update your account. You can also contact us at customerservice@mail.walgreens.com.
+  * If you do not want to receive e-mail or other mail from us, you can log in to your account and click [Edit Your Registration Information](https://web.archive.org/pharmacy/register/viewpersonalinfo.jsp) to update your account. You can also contact us at customerservice@mail2.walgreens.com.
 
 It is your responsibility to review our Privacy Policy and Terms and Conditions for changes. 
 
-Any other communications should also be directed to customerservice@mail.walgreens.com or to our E-Commerce Customer Service Representatives at (877) 250-5823. 
+Any other communications should also be directed to customerservice@mail2.walgreens.com or to our E-Commerce Customer Service Representatives at (877) 250-5823. 
 
 The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, you will not be able to use some important features. 
 
@@ -96,7 +96,7 @@ As our business changes, we will continue to implement new technologies and impr
 It is your responsibility to review our privacy policy and Terms and Conditions for changes. 
 
 Whom can I contact if I have questions or concerns?    
-If you choose to visit Walgreens.com, your visit and any dispute over privacy is subject to this Notice and our [Terms of Use](https://web.archive.org/common/termsofuse.jsp), including limitations on damages and application of the law of the state of Illinois. If you have any concern about this privacy policy, please contact us at [customerservice@mail.walgreens.com](mailto:customerservice@mail.walgreens.com), and we will try to resolve it 
+If you choose to visit Walgreens.com, your visit and any dispute over privacy is subject to this Notice and our [Terms of Use](https://web.archive.org/common/termsofuse.jsp), including limitations on damages and application of the law of the state of Illinois. If you have any concern about this privacy policy, please contact us at [customerservice@mail2.walgreens.com](mailto:customerservice@mail2.walgreens.com), and we will try to resolve it 
 
 Related Practices and Information 
 
