@@ -1,19 +1,16 @@
-> *The following text is extracted and transformed from the 21publish.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017210723id_/http%3A//www.21publish.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 21publish.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624093820id_/http%3A//www.21publish.com/shop/privacy) for the most accurate reproduction.*
 
-# 21Publish Web Services: Home
-
-[](https://web.archive.org/)  
-
+# 21Publish – Multi-User Blogs for Business and Communities - Privacy policy
 
 ## 21Publish Privacy Policy
 
   * **1\. Privacy Policy**  
-Your privacy is important to 21Publish. This statement describes 21Publish’s privacy practices for its own Web site, as well as the Web sites 21Publish hosts for its customers, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared. This privacy statement does not disclose how 21Publish’s customers use data collected on Web sites that 21Publish hosts for them. 
+Your privacy is important to 21Publish. This statement describes 21Publish's privacy practices for its own Web site, as well as the Web sites 21Publish hosts for its customers, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared. This privacy statement does not disclose how 21Publish's customers use data collected on Web sites that 21Publish hosts for them.
   * **2\. Personal Information**  
 You can visit www.21publish.com or any 21Publish hosted Web site without telling us who you are and without revealing any information about yourself. However, to access certain portions of the Web site, you may have to submit information such as user-id and password, or to access some services we provide, you may have to give us personal information such as your name and address and e-mail.  
-To access our services, we may ask you for your address and/or credit card information. 
+To access our services, we may ask you for your address and/or credit card information.
   * **3\. Information security and quality**  
-We intend to protect the quality and integrity of your personally identifiable information. We have implemented appropriate physical, technical and organizational measures, such as using industry accepted encryption for transmission of credit card information, to help keep your information secure, accurate, current, and complete. 
+We intend to protect the quality and integrity of your personally identifiable information. We have implemented appropriate physical, technical and organizational measures, such as using industry accepted encryption for transmission of credit card information, to help keep your information secure, accurate, current, and complete.
   * **4\. Web site traffic information**  
 When you arrive at any 21Publish hosted Web site, we automatically receive the Web address of the site that you came from. We also collect information on which pages of our Web site you visit while you are on our hosted site, the type of browser you use and the times you access our hosted sites. We use this information only to try to better understand visitor preferences and to manage the load on our servers. 
   * **5\. Cookies**  
@@ -27,8 +24,4 @@ We will only share personally identifiable information with a third party if and
   * **9\. Links to Other Web Sites**  
 21Publish hosted sites contain links to other Web sites. 21Publish is not responsible for the privacy practices or the content of such Web sites. 
 
-  
-
-
-  
 
