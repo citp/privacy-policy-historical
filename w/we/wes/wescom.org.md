@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wescom.org privacy policy that was archived on 2006-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060923105201id_/http%3A//www.wescom.org/info/info_privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wescom.org privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624121400id_/http%3A//wescom.org/info/info_privacypolicy.asp) for the most accurate reproduction.*
 
 # Wescom Privacy Policy
 
@@ -27,8 +27,8 @@ Pursuant to the Fair Credit Reporting Act ("FCRA"), we may share information abo
 If you do not wish for us to share your information with our affiliates, you have the right to opt out at any time. If you wish to opt out, you may do so in any one of the following ways:
 
   * [Log in to eBranch by following this link](https://ebranch.wescom.org/?DestinationPage=/ebranch/options/HBPromotionalPref.aspx). It will take you directly to your Promotional Preferences page. Click on the Affiliate Opt-Out tab and make your choice. 
-  * Print the [opt-out form, available online](https://web.archive.org/web/20060923105201id_/http%3A//www.wescom.org/info/info_optout.asp), fill it out and return it to Wescom at 123 South Marengo Avenue, Pasadena , CA 91101. 
-  * Print the [opt-out form](https://web.archive.org/web/20060923105201id_/http%3A//www.wescom.org/info/info_optout.asp), fill it out and fax it to 1-866-793-7266. 
+  * Print the [opt-out form, available online](https://web.archive.org/web/20070624121400id_/http%3A//wescom.org/info/info_optout.asp), fill it out and return it to Wescom at 123 South Marengo Avenue, Pasadena , CA 91101. 
+  * Print the [opt-out form](https://web.archive.org/web/20070624121400id_/http%3A//wescom.org/info/info_optout.asp), fill it out and fax it to 1-866-793-7266. 
 
 
 
