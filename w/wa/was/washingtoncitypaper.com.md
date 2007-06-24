@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the washingtoncitypaper.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110034146id_/http%3A//www.washingtoncitypaper.com/etc/privacy.html%3FnavLeft) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the washingtoncitypaper.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624182126id_/http%3A//www.washingtoncitypaper.com/citypaper/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - Washington City Paper
-
-[](http://www.washingtoncitypaper.com/)
-
-Effective October 10, 2006
+# Washington City Paper: The City Paper: Privacy Policy
 
 Washington City Paper respects your privacy and will never release any personal information about you without your consent.
 
@@ -23,5 +19,3 @@ If you place a classified ad or make a purchase, we keep the information you giv
 Given the nature of Web publishing, our privacy policies may change from time to time; any changes will be posted here as soon as they go into effect.
 
 If you have any questions about our privacy policy, please write to [webmeister@washcp.com](mailto:webmeister@washcp.com).
-
-We welcome your comments and opinions; send us a [message](mailto:webmeister@washingtoncitypaper.com).
