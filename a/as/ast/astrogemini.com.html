@@ -1,194 +1,242 @@
-<!--The following is the downloaded HTML source of the astrogemini.com privacy policy that was archived on 2006-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061205222109id_/http%3A//astrogemini.com/policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the astrogemini.com privacy policy that was archived on 2007-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070624072549id_/http%3A//www.astrogemini.com/policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
-<title>Astro Gemini Software - Privacy Policy for Astro Gemini Software</title>
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-<meta http-equiv="content-language" content="en">
-<meta name="description" content="Astro Gemini Software - Privacy Policy for Astro Gemini Software">
-<meta name="keywords" content="3d screensaver, screensavers, download, screensaver, downloads, screen saver, free, holidays, seasons, holiday, season, space, nature, fantasy, freeware, software, shareware, new, star, 3d">
-<script type="text/javascript" src="/js/common.js"></script>
-
+	<title>Astro Gemini Software - Privacy Policy for Astro Gemini Software</title>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<meta http-equiv="content-language" content="en">
+	<meta name="description" content="Astro Gemini Software - Privacy Policy for Astro Gemini Software">
+	<meta name="keywords" content="3d screensaver, screensavers, download, screensaver, downloads, screen saver, free, holidays, seasons, holiday, season, space, nature, fantasy, freeware, software, shareware, new, star, 3d">
+	
+	
+		<script type="text/javascript" src="/js/common.js"></script>
+	
+	
 
 <link rel="stylesheet" type="text/css" href="/css/default.css">
 
 
-
+	
 <!--[if IE]>
 <link rel="stylesheet" type="text/css" href="/css/fixes/IEFixes.css" />
 <![endif]-->
 
-
+	
 <!--[if lt IE 6]>
 <link rel="stylesheet" type="text/css" href="/css/fixes/ie-lt-6.css" />
 <![endif]-->
 
+	<script type="text/javascript" src="/js/JsHttpRequest.js"></script>
+	<script type="text/javascript">//<![CDATA[
+		var clickHandler = function() {	}
+		hoverbg = new Array();
+		normalbg = new Array();
+		
+		
+		function bookmarkThisPage() {
+			
+            url = location.href;
+            link = '';
+            isparam = false;
+            copy = true;
+            for (i=0; i<url.length; i++) {
+              if (url.charAt(i)=='?') {
+                isparam = true;
+         	  }
+              if (url.charAt(i)=='#') {
+                copy = false;
+         	   }
+         	   if (copy) {
+         	    link += url.charAt(i);
+         	   }
+            }
+            if (isparam) {
+              link += '&';
+            } else {
+              link += '?';
+            }
+            link += 'bookmark';
+
+            title = document.title;
+
+             /* Gecko */   
+            if ((typeof window.sidebar == "object") && (typeof window.sidebar.addPanel == "function")) window.sidebar.addPanel (title, link, "");
+            /* IE4+ */
+            else if (typeof window.external == "object") window.external.AddFavorite(link, title);
+            /* Opera7+ */
+            else if (window.opera && document.createElement) {
+              var a = document.createElement('A');
+              if (!a) return false; //IF Opera 6
+              a.setAttribute('rel','sidebar');
+              a.setAttribute('href',link);
+              a.setAttribute('title',title);
+              a.click();
+            } else {
+              return false;
+            }
+            return true;
+		}
+	//]]></script>
+	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">//<![CDATA[
-var clickHandler = function() {	}
-hoverbg = new Array();
-normalbg = new Array();
+	function trackPage ()
+	{
+	    
+	    urchinTracker ("//policy.html");
+	    // img = new Image();
+	    // img.src = 'http://www.astrogemini.com/LimeStat/track-page.php?page_name=/policy.html';
+		var req = new JsHttpRequest();
+		req.open('GET', 'http://www.astrogemini.com/LimeStat/track-page.php', true);
+		req.send({ page_name: "/policy.html" });
+	}
 
+	visitedActions = new Array();
+		
+	function trackAction (action, is_cache)
+	{
+	    
+	    visitedActions[action] = true;
+	    urchinTracker("/" + "actions" + "/" + action);
+	    if (visitedActions[action] && is_cache) return true;
+	    
+		var req = new JsHttpRequest();
+		req.open('GET', 'http://www.astrogemini.com/LimeStat/track-action.php', true);
+		req.send({ page_name: "/policy.html", action_name: action });
+	}
+	
+	_uacct = "UA-839640-1";
+	_udn="none";
+	_ulink=1;
+	trackPage();
 
-function bookmarkThisPage() {
-
-if (window.external)
-{
-window.external.AddFavorite('http://www.astrogemini.com/policy.html','Astro Gemini Software - Privacy Policy for Astro Gemini Software') 
-}
-else
-{
-alert("Your browser does not support automatic addition to Favorites. Please resort to the standard procedure to add this page to Favorites."); 
-}
-}
-
-//]]></script>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-<script type="text/javascript">//<![CDATA[
-function trackPage ()
-{
-    img = new Image();
-    urchinTracker ("//policy.html");
-    img.src = 'http://www.astrogemini.com/stat/track-page.php?page_name=/policy.html';
-}
-
-visitedActions = new Array();
-
-function trackAction (action, is_cache)
-{
-    if (visitedActions[action] && is_cache) return true;
-    visitedActions[action] = true;
-    img = new Image();
-    var t = new Date()
-    urchinTracker("/actions/" + action);
-    img.src = 'http://www.astrogemini.com/stat/track-action.php?page_name=/policy.html&action_name=' + action + '&t=' + t.getTime();
-}
-
-_uacct = "UA-839640-1";
-_udn="none";
-_ulink=1;
-trackPage();
+	
 
 //]]></script>	
 </head>
-
-
 <body>
 <table summary="carcas" class="carcas">
 <tbody><tr class="top">
-<td colspan="2" id="top-add-to-cart">
-<div id="saving-report" style="position:relative; float:right; right:3px; top:5px; color: white; font-weight:bold; font-size:13px; display:none;">
-Saving...
-</div>
-&nbsp;</td>
+	<td colspan="2" id="top-add-to-cart">
+		
+
+		<div id="languages-list" style="clear:both;">
+			<a href="http://www.astrogemini.com/" class="language en" onclick="trackAction('default/click-english')">English</a>
+			<a href="http://www.astrogemini.de/" class="language de" onclick="trackAction('default/click-deutsch')">Deutsch</a>
+		</div>
+		
+		<div id="saving-report" style="position:absolute; float:right; right:30px; top:5px; color: black; font-weight:bold; font-size:13px; display:none;">
+			Saving...
+		</div>
+		&nbsp;</td>
 </tr>
 <tr class="subtop">
-<td style="width:178px;" id="top-left-legs">
-<div style="width:178px; height:44px;"></div></td>
-<td>
-
+	<td style="width:178px;" id="top-left-legs">
+		<div style="width:178px; height:44px;"></div></td>
+	<td>
+		
 <table style="width:622px;" class="buttonsMenuTop">
-<tbody><tr>
-
-
-
-<td>
-
-<div class="top-button-anchor2" id="button-home2">
-<a href="/" onclick="clickHandler(); trackAction('default/top-buttons/button-home');">
-
-HOME
-
-</a>
-</div>
-</td>
-
-
-<td class="separator" style="width:1px"><img src="/img/point.gif" alt="" width="1" height="1"></td>
+	<tbody><tr>
+		
 
 
 <td>
+	
+		<div class="top-button-anchor2" id="button-home2">
+			<a href="/" onclick="clickHandler(); trackAction('default/top-buttons/button-home');">
+			
+			HOME
+			
+			</a>
+		</div>
+	</td>
 
-<div class="top-button-anchor2" id="button-downloads2">
-<a href="/downloads.html" onclick="clickHandler(); trackAction('default/top-buttons/button-downloads');">
-
-DOWNLOADS
-
-</a>
-</div>
-</td>
-
-
-<td class="separator" style="width:1px"><img src="/img/point.gif" alt="" width="1" height="1"></td>
-
-
-<td>
-
-<div class="top-button-anchor2" id="button-cd2">
-<a href="/cds/" onclick="clickHandler(); trackAction('default/top-buttons/button-cd');">
-
-CDs
-
-</a>
-</div>
-</td>
-
-
-<td class="separator" style="width:1px"><img src="/img/point.gif" alt="" width="1" height="1"></td>
+		
+	<td class="separator" style="width:1px"><img src="/img/point.gif" alt="" width="1" height="1"></td>
 
 
 <td>
+	
+		<div class="top-button-anchor2" id="button-downloads2">
+			<a href="/downloads.html" onclick="clickHandler(); trackAction('default/top-buttons/button-downloads');">
+			
+			DOWNLOADS
+			
+			</a>
+		</div>
+	</td>
 
-<div class="top-button-anchor2" id="button-support2">
-<a href="/support/" onclick="clickHandler(); trackAction('default/top-buttons/button-support');">
-
-SUPPORT
-
-</a>
-</div>
-</td>
-
-
-<td class="separator" style="width:1px"><img src="/img/point.gif" alt="" width="1" height="1"></td>
+		
+	<td class="separator" style="width:1px"><img src="/img/point.gif" alt="" width="1" height="1"></td>
 
 
 <td>
+	
+		<div class="top-button-anchor2" id="button-cd2">
+			<a href="/cds/" onclick="clickHandler(); trackAction('default/top-buttons/button-cd');">
+			
+			CDs
+			
+			</a>
+		</div>
+	</td>
 
-<div class="top-button-anchor2" id="button-cart2">
-<a href="/cart.html" onclick="clickHandler(); trackAction('default/top-buttons/button-cart');">
-
-CART
+		
+	<td class="separator" style="width:1px"><img src="/img/point.gif" alt="" width="1" height="1"></td>
 
 
-<span class="cart-counter">
-(<span id="basket-counter">0</span> items)
-</span>
+<td>
+	
+		<div class="top-button-anchor2" id="button-support2">
+			<a href="/support/" onclick="clickHandler(); trackAction('default/top-buttons/button-support');">
+			
+			SUPPORT
+			
+			</a>
+		</div>
+	</td>
+
+		
+	<td class="separator" style="width:1px"><img src="/img/point.gif" alt="" width="1" height="1"></td>
 
 
-</a>
-</div>
-</td>
+<td>
+	
+		<div class="top-button-anchor2" id="button-cart2">
+			<a href="/cart.html" onclick="clickHandler(); trackAction('default/top-buttons/button-cart');">
+			
+			CART
+			
+				
+					<span class="cart-counter">
+						(<span id="basket-counter">0</span> items)
+					</span>
+				
+			
+			</a>
+		</div>
+	</td>
 
-<td style="width:3px;" class="separator">
-<img src="/img/point.gif" alt="" width="3" height="1"></td>
-</tr>
+		<td style="width:3px;" class="separator">
+			<img src="/img/point.gif" alt="" width="3" height="1"></td>
+	</tr>
 </tbody></table>
 
-
+		
 
 
 <table style="width:622px" class="breadGrid">
 <tbody><tr>
-<td id="breadGritLeft" style="width:34px">
-<img src="/img/point.gif" style="width:34px; height:1px;" alt="" width="1" height="1"></td>
-<td id="breadGrit" style="width:588px;">
-<a href="/" onclick="trackAction('default/bread-grits/_')">Home</a> <b>»</b> <b>Privacy Policy for Astro Gemini Software</b></td>
+	<td id="breadGritLeft" style="width:34px">
+		<img src="/img/point.gif" style="width:34px; height:1px;" alt=""></td>
+	<td id="breadGrit" style="width:588px;">
+		<a href="/" onclick="trackAction('default/bread-grits/_')">Home</a> <b>»</b> <b>Privacy Policy for Astro Gemini Software</b></td>
 </tr>
 </tbody></table>
 </td>
 </tr>
 <tr class="middle">
-<td colspan="2">
-
+	<td colspan="2">
+		
 
 
 
@@ -205,437 +253,450 @@ CART
 
 <table class="main-sublayout" style="width:800px;">
 <tbody><tr>
-<td class="carcas-left padding-bottom" style="width:186px;" rowspan="2">
-<div class="carcas-left padding-bottom" style="width:168px;">
-
+	<td class="carcas-left padding-bottom" style="width:186px;" rowspan="2">
+		<div class="carcas-left padding-bottom" style="width:168px;">
+		
 
 
 <div class="leftButtonsPanel" style="width:168px;">
+	
 
-
-<a href="/screensavers/nature/" class="catNature" onclick="trackAction('default/left-red-buttons/catNature');"><img src="/img/left-button/nature.gif" width="168" height="29" alt="Nature" title=""></a>
-
- 
-
-
-<a href="/screensavers/space/" class="catSpace" onclick="trackAction('default/left-red-buttons/catSpace');"><img src="/img/left-button/space.gif" width="168" height="29" alt="Space" title=""></a>
+	<a href="/screensavers/nature/" class="catNature" onclick="trackAction('default/left-red-buttons/catNature');"><img src="/img/left-button/nature.gif" width="168" height="29" alt="Nature" title=""></a>
 
  
+	
 
-
-<a href="/screensavers/fantasy/" class="catFantasy" onclick="trackAction('default/left-red-buttons/catFantasy');"><img src="/img/left-button/fantasy.gif" width="168" height="29" alt="Fantasy" title=""></a>
-
- 
-
-
-<a href="/screensavers/holidays/" class="catHolidays" onclick="trackAction('default/left-red-buttons/catHolidays');"><img src="/img/left-button/holidays.gif" width="168" height="29" alt="Holidays" title=""></a>
+	<a href="/screensavers/space/" class="catSpace" onclick="trackAction('default/left-red-buttons/catSpace');"><img src="/img/left-button/space.gif" width="168" height="29" alt="Space" title=""></a>
 
  
+	
 
+	<a href="/screensavers/holidays/" class="catHolidays" onclick="trackAction('default/left-red-buttons/catHolidays');"><img src="/img/left-button/holidays.gif" width="168" height="29" alt="Holidays" title=""></a>
 
-<a href="/screensavers/specialty/" class="catSpecialty last-left-link" onclick="trackAction('default/left-red-buttons/catSpecialty');"><img src="/img/left-button/specialty.gif" width="168" height="29" alt="Specialty" title=""></a>
+ 
+	
+
+	<a href="/screensavers/fantasy/" class="catFantasy" onclick="trackAction('default/left-red-buttons/catFantasy');"><img src="/img/left-button/fantasy.gif" width="168" height="29" alt="Fantasy" title=""></a>
+
+ 
+	
+
+	<a href="/screensavers/specialty/" class="catSpecialty last-left-link" onclick="trackAction('default/left-red-buttons/catSpecialty');"><img src="/img/left-button/specialty.gif" width="168" height="29" alt="Specialty" title=""></a>
 
  
 </div>
 
-
+		
 
 
 
 
 <div id="findScreensaver">
-<table id="find-a-screensaver-top1"><tbody><tr>
-<td class="left" style="width:8px"><div class="point"></div></td>
-<td class="center" style="width:152px"><div class="point"></div></td>
-<td class="right" style="width:8px"><div class="point"></div></td>
-</tr></tbody></table>
-<table id="find-a-screensaver-top2"><tbody><tr>
-<td class="left"><div class="point"></div></td>
-<td class="center">
+	<table id="find-a-screensaver-top1"><tbody><tr>
+		<td class="left" style="width:8px"><div class="point"></div></td>
+		<td class="center" style="width:152px"><div class="point"></div></td>
+		<td class="right" style="width:8px"><div class="point"></div></td>
+	</tr></tbody></table>
+	<table id="find-a-screensaver-top2"><tbody><tr>
+		<td class="left"><div class="point"></div></td>
+		<td class="center">
+			
+	<form class="find_a_screensaver" method="get" action="/redir.php">
+	<div>
+	<script type="text/javascript">
+		function ProcessSelection(eThis)
+		{
+			trackAction('default/find-a-screensaver' + eThis.options[eThis.selectedIndex].value);
+			document.location.href = eThis.options[eThis.selectedIndex].value
+		}
+	</script>
+	<select name="to" style="position: relative; float: left; width: 155px;" id="select-find-screensaver" onchange="ProcessSelection(this);">
+		<option value="/">Find a Screensaver:</option>
+		
+			<optgroup label="Nature">
 
-<form class="find_a_screensaver" method="get" action="/redir.php">
-<div>
-<script type="text/javascript">
-function ProcessSelection(eThis)
-{
-trackAction('default/find-a-screensaver' + eThis.options[eThis.selectedIndex].value);
-document.location.href = eThis.options[eThis.selectedIndex].value
-}
-</script>
-<select name="to" style="position: relative; float: left; width: 155px;" id="select-find-screensaver" onchange="ProcessSelection(this);">
-<option value="/">Find a Screensaver:</option>
-
-<optgroup label="Nature">
-
-
-<option value="/autumn-screensaver.html">
-Golden Autumn
-
-</option>
-
-<option value="/waterfall.html">
-Waterfall
-
-</option>
-
-<option value="/aquarium-screensaver.html">
-Fish Aquarium
-
-</option>
-
-<option value="/atlantis-screensaver.html">
-Atlantis
-
-</option>
-
-<option value="/lighthouse.html">
-Lighthouse
-
-</option>
-
-<option value="/dolphin-screensaver.html">
-Wild Dolphin
-
-</option>
-
-<option value="/lake-screensaver.html">
-Mountain Lake
-
-</option>
-
-<option value="/forest.html">
-Forest Life
-
-</option>
-
-<option value="/seastorm.html">
-Sea Storm
-
-</option>
-
-<option value="/nature-screensaver.html">
-Green Valley
-
-</option>
-
-<option value="/flower-clock.html">
-Flower Clock
-
-</option>
-
-<option value="/fish-screensaver.html">
-Bungalow Aquarium
-
-</option>
-
-
-</optgroup>
-<optgroup label="Space">
-
-
-<option value="/star-wars-screensaver.html">
-Star Wars
-
-</option>
-
-<option value="/solar-system.html">
-Solar System
-
-</option>
-
-<option value="/earth-3d.html">
-Planet Earth
-
-</option>
-
-<option value="/sun-screensaver.html">
-Sun
-
-</option>
-
+	
+		<option value="/atlantis-screensaver.html">
+			Atlantis
+			
+		</option>
+	
+		<option value="/aquarium-screensaver.html">
+			Fish Aquarium
+			
+		</option>
+	
+		<option value="/waterfall.html">
+			Waterfall
+			
+		</option>
+	
+		<option value="/lighthouse.html">
+			Lighthouse
+			
+		</option>
+	
+		<option value="/sea-voyage.html">
+			Sea Voyage
+			
+		</option>
+	
+		<option value="/japanese-garden.html">
+			Japanese Garden
+			
+		</option>
+	
+		<option value="/fish-screensaver.html">
+			Bungalow Aquarium
+			
+		</option>
+	
+		<option value="/dolphin-screensaver.html">
+			Wild Dolphin
+			
+		</option>
+	
+		<option value="/lake-screensaver.html">
+			Mountain Lake
+			
+		</option>
+	
+		<option value="/forest.html">
+			Forest Life
+			
+		</option>
+	
+		<option value="/autumn-screensaver.html">
+			Golden Autumn
+			
+		</option>
+	
+		<option value="/nature-screensaver.html">
+			Green Valley
+			
+		</option>
+	
+		<option value="/seastorm.html">
+			Sea Storm
+			
+		</option>
+	
+		<option value="/flower-clock.html">
+			Flower Clock
+			
+		</option>
+	
 
 </optgroup>
-<optgroup label="Fantasy">
+			<optgroup label="Space">
 
-
-<option value="/egyptian-pyramids.html">
-Egyptian Pyramids
-
-</option>
-
-<option value="/matrix-screensaver.html">
-3D Matrix
-
-</option>
-
-<option value="/pirate-ship.html">
-Pirate Ship
-
-</option>
-
-<option value="/magic-forest.html">
-Magic Forest
-
-</option>
-
-<option value="/magic-screensaver.html">
-School of Magic
-
-</option>
-
-<option value="/3d-matrix-screensaver.html">
-Matrix Corridors
-
-</option>
-
-<option value="/sword.html">
-Sword of Valor
-
-</option>
-
-<option value="/treasury.html">
-Treasure Vault
-
-</option>
-
-<option value="/armyofdarkness.html">
-Army of Darkness
-
-</option>
-
+	
+		<option value="/earth-3d.html">
+			Planet Earth
+			
+		</option>
+	
+		<option value="/solar-system.html">
+			Solar System
+			
+		</option>
+	
+		<option value="/space-tunnels.html">
+			Space Tunnels
+			
+		</option>
+	
+		<option value="/star-wars-screensaver.html">
+			Star Wars
+			
+		</option>
+	
+		<option value="/sun-screensaver.html">
+			Sun
+			
+		</option>
+	
 
 </optgroup>
-<optgroup label="Holidays &amp; Seasons">
+			<optgroup label="Fantasy">
 
-
-<option value="/christmas-eve.html">
-Christmas Eve
-
-</option>
-
-<option value="/winter-screensaver.html">
-Winter
-
-</option>
-
-<option value="/winter-night.html">
-Winter Night
-
-</option>
-
-<option value="/christmas.html">
-Merry Christmas
-
-</option>
-
-<option value="/christmas-screensaver.html">
-Christmas Time
-
-</option>
-
-<option value="/halloween-screensaver.html">
-Spooky Halloween
-
-</option>
-
-<option value="/haunted-halloween.html">
-Haunted Halloween
-
-</option>
-
-<option value="/valentine-day-screensaver.html">
-Valentine's Day
-
-</option>
-
-
-</optgroup>
-<optgroup label="Specialty">
-
-
-<option value="/night-city.html">
-Night City
-
-</option>
-
-<option value="/clock-screensaver.html">
-Grandfather Clock
-
-</option>
-
-<option value="/cathedral-screensaver.html">
-Cathedral
-
-</option>
-
-<option value="/livingcell.html">
-Living Cell
-
-</option>
-
-<option value="/formula.html">
-Formula 1
-
-</option>
-
+	
+		<option value="/pirate-ship.html">
+			Pirate Ship
+			
+		</option>
+	
+		<option value="/matrix-screensaver.html">
+			3D Matrix
+			
+		</option>
+	
+		<option value="/magic-forest.html">
+			Magic Forest
+			
+		</option>
+	
+		<option value="/3d-matrix-screensaver.html">
+			Matrix Corridors
+			
+		</option>
+	
+		<option value="/treasury.html">
+			Treasure Vault
+			
+		</option>
+	
+		<option value="/armyofdarkness.html">
+			Army of Darkness
+			
+		</option>
+	
+		<option value="/magic-screensaver.html">
+			School of Magic
+			
+		</option>
+	
+		<option value="/egyptian-pyramids.html">
+			Egyptian Pyramids
+			
+		</option>
+	
+		<option value="/sword.html">
+			Sword of Valor
+			
+		</option>
+	
 
 </optgroup>
+			<optgroup label="Holidays &amp; Seasons">
 
-</select>
-<input type="image" src="/img/go!.gif" class="button-arrow" style="position: relative; float: left; left: 3px; display: none;" alt="Go!" id="button-find-screensaver">
-<script type="text/javascript">
-document.getElementById('button-find-screensaver').style.display = "none";
-document.getElementById('select-find-screensaver').style.width = "155px";
-</script>
-</div>
-</form>
+	
+		<option value="/winter-night.html">
+			Winter Night
+			
+		</option>
+	
+		<option value="/halloween-screensaver.html">
+			Spooky Halloween
+			
+		</option>
+	
+		<option value="/winter-screensaver.html">
+			Winter
+			
+		</option>
+	
+		<option value="/christmas-eve.html">
+			Christmas Eve
+			
+		</option>
+	
+		<option value="/christmas-screensaver.html">
+			Christmas Time
+			
+		</option>
+	
+		<option value="/haunted-halloween.html">
+			Haunted Halloween
+			
+		</option>
+	
+		<option value="/christmas.html">
+			Merry Christmas
+			
+		</option>
+	
+		<option value="/valentine-day-screensaver.html">
+			Valentine's Day
+			
+		</option>
+	
+
+</optgroup>
+			<optgroup label="Specialty">
+
+	
+		<option value="/wild-west.html">
+			Wild West
+			
+		</option>
+	
+		<option value="/titanic.html">
+			3D Titanic
+			
+		</option>
+	
+		<option value="/night-city.html">
+			Night City
+			
+		</option>
+	
+		<option value="/formula.html">
+			Formula 1
+			
+		</option>
+	
+		<option value="/clock-screensaver.html">
+			Grandfather Clock
+			
+		</option>
+	
+		<option value="/livingcell.html">
+			Living Cell
+			
+		</option>
+	
+		<option value="/cathedral-screensaver.html">
+			Cathedral
+			
+		</option>
+	
+
+</optgroup>
+		
+	</select>
+	<input type="image" src="/img/go!.gif" class="button-arrow" style="position: relative; float: left; left: 3px; display: none;" alt="Go!" id="button-find-screensaver">
+	<script type="text/javascript">
+		document.getElementById('button-find-screensaver').style.display = "none";
+		document.getElementById('select-find-screensaver').style.width = "155px";
+	</script>
+	</div>
+	</form>
 </td>
-<td class="right"><div class="point"></div></td>
-</tr></tbody></table>
-<table id="find-a-screensaver-top3"><tbody><tr>
-<td class="left"><div class="point"></div></td>
-<td class="center"><div class="point"></div></td>
-<td class="right"><div class="point"></div></td>
-</tr></tbody></table>
-<table id="find-a-screensaver-body"><tbody><tr>
-<td class="left">
+		<td class="right"><div class="point"></div></td>
+	</tr></tbody></table>
+	<table id="find-a-screensaver-top3"><tbody><tr>
+		<td class="left"><div class="point"></div></td>
+		<td class="center"><div class="point"></div></td>
+		<td class="right"><div class="point"></div></td>
+	</tr></tbody></table>
+	<table id="find-a-screensaver-body"><tbody><tr>
+		<td class="left">
+			
 
-
-<img src="/img/top-10-title2.gif" alt="Top 10 Screensavers:" width="164" height="24" class="top10">
-<ul class="top10">
-
-<li>
-<a href="/christmas-screensaver.html" onclick="trackAction('default/top10-screensavers/christmas-screensaver');">Christmas Time 3D Screensaver</a>
-</li>
-
-<li>
-<a href="/winter-screensaver.html" onclick="trackAction('default/top10-screensavers/winter-screensaver');">Winter 3D Screensaver</a>
-</li>
-
-<li>
-<a href="/christmas-eve.html" onclick="trackAction('default/top10-screensavers/christmas-eve');">Christmas Eve 3D Screensaver</a>
-</li>
-
-<li>
-<a href="/solar-system.html" onclick="trackAction('default/top10-screensavers/solar-system');">Solar System 3D Screensaver</a>
-</li>
-
-<li>
-<a href="/aquarium-screensaver.html" onclick="trackAction('default/top10-screensavers/aquarium-screensaver');">Fish Aquarium 3D Screensaver</a>
-</li>
-
-<li>
-<a href="/winter-night.html" onclick="trackAction('default/top10-screensavers/winter-night');">Winter Night 3D Screensaver</a>
-</li>
-
-<li>
-<a href="/christmas.html" onclick="trackAction('default/top10-screensavers/christmas');">3D Merry Christmas Screensaver</a>
-</li>
-
-<li>
-<a href="/autumn-screensaver.html" onclick="trackAction('default/top10-screensavers/autumn-screensaver');">Golden Autumn 3D Screensaver</a>
-</li>
-
-<li>
-<a href="/earth-3d.html" onclick="trackAction('default/top10-screensavers/earth-3d');">Planet Earth 3D Screensaver</a>
-</li>
-
-<li>
-<a href="/waterfall.html" onclick="trackAction('default/top10-screensavers/waterfall');">3D Waterfall Screensaver</a>
-</li>
-
-</ul>
+	<img src="/img/top-10-title2.gif" alt="Top 10 Screensavers:" width="164" height="24" class="top10">
+	<ul class="top10">
+	
+	
+		<li>
+			<a href="/solar-system.html" onclick="trackAction('default/top10-screensavers/solar-system');">Solar System 3D Screensaver</a>
+		</li>
+	
+		<li>
+			<a href="/aquarium-screensaver.html" onclick="trackAction('default/top10-screensavers/aquarium-screensaver');">Fish Aquarium 3D Screensaver</a>
+		</li>
+	
+		<li>
+			<a href="/earth-3d.html" onclick="trackAction('default/top10-screensavers/earth-3d');">Planet Earth 3D Screensaver</a>
+		</li>
+	
+		<li>
+			<a href="/atlantis-screensaver.html" onclick="trackAction('default/top10-screensavers/atlantis-screensaver');">Atlantis 3D Screensaver</a>
+		</li>
+	
+		<li>
+			<a href="/space-tunnels.html" onclick="trackAction('default/top10-screensavers/space-tunnels');">Space Tunnels 3D Screensaver</a>
+		</li>
+	
+		<li>
+			<a href="/sea-voyage.html" onclick="trackAction('default/top10-screensavers/sea-voyage');">Sea Voyage 3D Screensaver</a>
+		</li>
+	
+		<li>
+			<a href="/waterfall.html" onclick="trackAction('default/top10-screensavers/waterfall');">3D Waterfall Screensaver</a>
+		</li>
+	
+		<li>
+			<a href="/lighthouse.html" onclick="trackAction('default/top10-screensavers/lighthouse');">Lighthouse 3D Screensaver</a>
+		</li>
+	
+		<li>
+			<a href="/titanic.html" onclick="trackAction('default/top10-screensavers/titanic');">3D Titanic Screensaver</a>
+		</li>
+	
+		<li>
+			<a href="/wild-west.html" onclick="trackAction('default/top10-screensavers/wild-west');">Wild West 3D Screensaver</a>
+		</li>
+	
+	</ul>
 
 </td>
-<td class="right"><div class="point"></div></td>
-</tr></tbody></table>
-<table id="find-a-screensaver-bottom"><tbody><tr>
-<td class="left"><div class="point"></div></td>
-<td class="center"><a href="/screensavers/" onclick="trackAction('default/top10-screensavers/all-screensavers');">All Screensavers &gt;&gt;</a></td>
-<td class="right"><div class="point"></div></td>
-</tr></tbody></table>
+		<td class="right"><div class="point"></div></td>
+	</tr></tbody></table>
+	<table id="find-a-screensaver-bottom"><tbody><tr>
+		<td class="left"><div class="point"></div></td>
+		<td class="center"><a href="/screensavers/" onclick="trackAction('default/top10-screensavers/all-screensavers');">All Screensavers &gt;&gt;</a></td>
+		<td class="right"><div class="point"></div></td>
+	</tr></tbody></table>
 </div>
+		
 
 
 
 
 
+	
 
 
-<div style="width:168px;" class="window">
 
-<div class="windowTop">
-<table style="width:168px;" class="window1a "><tbody><tr>
-<td class="left">
-<img src="/img/point.gif" alt="" width="10" height="1"></td>
+<div style="width:168px;" class="subwindow2-aggregate default-subwindow2">
+
+<table style="width:168px;" class="topwindow-aggregate topwindow-red"><tbody><tr>
+<td class="left"><div class="point" style="width:10px;"></div></td>
 <td style="width:148px;" class="title">
-Newsletter</td>
+	Stay&nbsp;&nbsp;Updated</td>
 
-
-<td class="right">
-<div style="width:10px; height:1px; line-height:1px;"></div></td>
+	<td class="right"><div class="point"></div></td>
 
 </tr></tbody></table>
+
+<div class="bodywindow-red bodywindow-aggregate" style="width:168px;">
+<div class="inner-bodywindow-aggregate">
+	
+	<div class="subscribe2">
+	Sign up for screensaver<br>
+	updates and special<br>
+	offers from Astro Gemini.<br>
+	<form action="/subscribe.html" method="post" onsubmit="trackAction('default/newsletter/subscribe');">
+			<input type="text" name="email" class="email" id="text-email" value="Enter e-mail"><br>
+			<input type="image" src="/img/buttons/signup.gif" class="button-arrow2">
+	</form>
+	<script type="text/javascript">subscribeInit()</script>
+	</div>
+
+</div>
 </div>
 
-<div class="windowCenter">
-<table style="width:168px;" class="window1a"><tbody><tr>
 
-<td style="width:166px;" class="center">
+	
 
-<div class="subscribe">
-Sign up for exclusive news, previews, updates and special offers.<br>
-<form action="/subscribe.html" method="post" onsubmit="trackAction('default/newsletter/subscribe');">
-<div style="vertical-align:middle;">
-<input type="text" name="email" class="email" style="position:relative; float:left;" id="text-email" value="">
-<input type="image" src="/img/point.gif" class="button-arrow">
-</div>
-</form>
-<script type="text/javascript">subscribeInit()</script>
-</div>
-</td>
-<td class="right">
-<div style="width:1px; height:1px; line-height:1px;"></div></td>
+
+<table style="width:168px;" class="bottomwindow-aggregate bottomwindow-red"><tbody><tr>
+<td class="left" style="width:158px">
+	<div class="bottom-container">
+	
+		
+  Your contact information is secure. See our <a href="/policy.html" class="policy" onclick="trackAction('default/newsletter/policy');">privacy policy</a> for details.
+
+	
+	</div></td>
+<td class="right"><div class="point"></div></td>
 </tr></tbody></table>
-</div>
-
-
-
-
-<div class="windowBottom">
-<table style="width:168px;" class="window1a"><tbody><tr>
-<td class="left">
-<img src="/img/point.gif" width="10" height="25" alt=""></td>
-<td style="width:148px;" class="center">
-
-
-<div id="mbenefits">
-<a href="/membership-benefits.html" onclick="trackAction('default/newsletter/click-link');">
-Membership benefits
-</a>
-</div>
-
-</td>
-<td class="right">
-<img src="/img/point.gif" width="10" height="25" alt=""></td>
-</tr></tbody></table>
-</div>
 
 </div>
+		</div></td>
 
-</div></td>
-
-<td class="carcas-right" style="width:614px;">
-
-<div style="width:614px;" class="top-line">
-
-
-
-</div>
-<div id="center_and_right" class="privacy-policy">
+	<td class="carcas-right" style="width:614px;">
+		
+		<div style="width:614px;" class="top-line">
+			
+			
+			
+		</div>
+		<div id="center_and_right" class="privacy-policy">
 <h1>Privacy Policy for Astro Gemini Software </h1>
 <p class="italic">
-Last modified: November  9, 2006
+	Last modified: January 10, 2007
 </p>
 <p>We have created this privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses our information gathering and dissemination practices.</p>
 <h2>Personal Information</h2>
@@ -658,35 +719,38 @@ Last modified: November  9, 2006
 </div></td>
 </tr>
 <tr>
-<td class="carcas-subright">
-<img src="/img/point.gif" width="1" height="49" alt=""></td>
+	<td class="carcas-subright">
+		<img src="/img/point.gif" width="1" height="49" alt=""></td>
 </tr>
 </tbody></table></td>
 </tr>
 
 <tr class="bottom">
-<td colspan="2">
-<div class="links">
-<span class="before">&gt;</span>
-<a href="/about.html" onclick="clickHandler(); trackAction('default/bottom-links/about-us');">About Us</a>
-<img src="/img/point.gif" width="20" height="1" alt="" class="inline">
-<span class="before">&gt;</span>
-<a href="/partnership.html" onclick="clickHandler(); trackAction('default/bottom-links/partnership');">Partnership</a>
-<img src="/img/point.gif" width="20" height="1" alt="" class="inline">
-<span class="before">&gt;</span>
-<a href="/links.html" onclick="clickHandler(); trackAction('default/bottom-links/links');">Links</a>
-<img src="/img/point.gif" width="20" height="1" alt="" class="inline">
-<span class="before">&gt;</span>
-<a href="/policy.html" onclick="clickHandler(); trackAction('default/bottom-links/privacy-policy');">Privacy Policy</a>
-<img src="/img/point.gif" width="20" height="1" alt="" class="inline">
-</div>
-<div class="copy">
-© 2001-2006 Astro Gemini Software (<a href="http://www.3d-screensaver-downloads.com/" target="_blank">3d screensavers</a>). All rights reserved.
-<br>
-"™" and "®" indicate trademarks or registered trademarks of their respective owners.
-</div></td>
+	<td colspan="2">
+		<div class="links">
+			<span class="before">&gt;</span>
+			<a href="/about.html" onclick="clickHandler(); trackAction('default/bottom-links/about-us');">About Us</a>
+			<img src="/img/point.gif" width="20" height="1" alt="" class="inline">
+			<span class="before">&gt;</span>
+			<a href="/partnership.html" onclick="clickHandler(); trackAction('default/bottom-links/partnership');">Partnership</a>
+			<img src="/img/point.gif" width="20" height="1" alt="" class="inline">
+			<span class="before">&gt;</span>
+			<a href="/links.html" onclick="clickHandler(); trackAction('default/bottom-links/links');">Links</a>
+			<img src="/img/point.gif" width="20" height="1" alt="" class="inline">
+			<span class="before">&gt;</span>
+			<a href="/policy.html" onclick="clickHandler(); trackAction('default/bottom-links/privacy-policy');">Privacy Policy</a>
+			<img src="/img/point.gif" width="20" height="1" alt="" class="inline">
+		</div>
+		<div class="copy">
+			© 2001-2007 Astro Gemini Software. All rights reserved.
+			<br>
+			"™" and "®" indicate trademarks or registered trademarks of their respective owners.
+		</div></td>
 </tr>
 </tbody></table>
+
+
+
 
 
 </body></html>
