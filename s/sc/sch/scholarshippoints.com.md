@@ -1,18 +1,8 @@
-> *The following text is extracted and transformed from the scholarshippoints.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117030606id_/http%3A//www.scholarshippoints.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarshippoints.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624190700id_/http%3A//www.scholarshippoints.com/privacy.php) for the most accurate reproduction.*
 
 # Scholarship Points.com - earn chances to win free scholarships!
 
-|   
----  
-  
-Sponsors:
-
-Scholarship Points  
-© Edvisors Network, Inc.  
-  
-## Privacy Policy
-
-This site, as a wholly owned and operated subsidiary of the Edvisors Network, Inc. is happy to provide and comply with the privacy policy for The Edvisors Network. Our corporate homepage on the Web is located at [ www.EdvisorsNetwork.com](http://www.edvisorsnetwork.com/). The full text of our privacy policy is available on the Web at [ EdvisorsNetwork.com/w3c/privacy.php](http://www.edvisorsnetwork.com/w3c/privacy.php). 
+This site, as a wholly owned and operated subsidiary of the Edvisors Network, Inc. is happy to provide and comply with the privacy policy for The Edvisors Network. Our corporate homepage on the Web is located at [www.EdvisorsNetwork.com](http://www.edvisorsnetwork.com/ "Edvisors Network"). The full text of our privacy policy is available on the Web at [EdvisorsNetwork.com/w3c/privacy.php](http://www.edvisorsnetwork.com/w3c/privacy.php). 
 
 ## Opt-Out and Contact
 
@@ -22,12 +12,12 @@ We invite you to contact us if you have questions about this policy. You may con
     
     
     The Edvisors Network
-    15 Cottage Avenue, Suite 501
+    1250 Hancock Street, Suite 703N
     Quincy, MA 02169 
     United States of America
     
 
-You may contact us by e-mail at [ privacy@edvisorsnetwork.com](mailto:privacy@edvisorsnetwork.com). You may call us at 617-328-1565. 
+You may contact us by e-mail at [privacy@edvisorsnetwork.com](mailto:privacy@edvisorsnetwork.com). You may call us at 617-328-1565. 
 
 ## Dispute Resolution and Privacy Seals
 
@@ -45,48 +35,48 @@ This policy is valid until 1 Sep, 2007 at 12:00:00 EST.
 
 P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 1 data group. 
 
-### Group "Customer Information"
+## Group "Customer Information"
 
 We collect the following information: 
 
-  * HTTP cookies
+  * HTTP cookies 
 
 
 
 At the user's option, we may also collect the following data: 
 
-  * Physical contact information
-  * Purchase information
-  * Financial information
+  * Physical contact information 
+  * Purchase information 
+  * Financial information 
 
 
 
-This data will be used for the following purposes:
+This data will be used for the following purposes: 
 
-  * Completion and support of the current activity.
-  * Web site and system administration. The user is allowed to **opt-out** of this usage.
-  * Research and development. The user is allowed to **opt-out** of this usage.
-  * One-time tailoring. The user is allowed to **opt-out** of this usage.
-  * Anonymous user analysis. The user is allowed to **opt-out** of this usage.
-  * Anonymous user profiling and decision-making. The user is allowed to **opt-out** of this usage.
-  * User analysis. The user is allowed to **opt-out** of this usage.
-  * User profiling and decision-making. The user is allowed to **opt-out** of this usage.
-  * Contacting visitors for marketing of services or products. The user is allowed to **opt-out** of this usage.
-  * Telemarketing. The user is allowed to **opt-out** of this usage.
-  * Historical preservation. The user is allowed to **opt-out** of this usage.
-  * Provided to select partners for sales and marketing. The user must **opt-out** to this usage.
+  * Completion and support of the current activity. 
+  * Web site and system administration. The user is allowed to **opt-out** of this usage. 
+  * Research and development. The user is allowed to **opt-out** of this usage. 
+  * One-time tailoring. The user is allowed to **opt-out** of this usage. 
+  * Anonymous user analysis. The user is allowed to **opt-out** of this usage. 
+  * Anonymous user profiling and decision-making. The user is allowed to **opt-out** of this usage. 
+  * User analysis. The user is allowed to **opt-out** of this usage. 
+  * User profiling and decision-making. The user is allowed to **opt-out** of this usage. 
+  * Contacting visitors for marketing of services or products. The user is allowed to **opt-out** of this usage. 
+  * Telemarketing. The user is allowed to **opt-out** of this usage. 
+  * Historical preservation. The user is allowed to **opt-out** of this usage. 
+  * Provided to select partners for sales and marketing. The user must **opt-out** to this usage. 
 
 
 
 This data will be used by ourselves and our agents. In addition, the following types of entities will receive this information: 
 
-  * Others following different practices. The user must **opt-in** to this data sharing.
+  * Others following different practices. The user must **opt-in** to this data sharing. 
 
 
 
-The following explanation is provided for why this data is collected:
+The following explanation is provided for why this data is collected: 
 
-> Used for purchases of services and products, as well as informational updates.
+> Used for purchases of services and products, as well as informational updates. 
 
 ## Cookies
 
@@ -117,9 +107,9 @@ CP="NON DSP COR CURa ADMo DEVo TAIo PSAo PSDo IVAi IVDi CONo HISo TELo OTPi OUR 
 
 The following table explains the meaning of each field in the compact policy. 
 
-| **Field**|  **Meaning**  
+Field  |  Meaning   
 ---|---  
-`CP=` | This is the compact policy header; it indicates that what follows is a P3P compact policy.  
+`CP=` |  This is the compact policy header; it indicates that what follows is a P3P compact policy.   
 `NON` |  No access is available to collected information.   
 `DSP` |  The policy contains at least one dispute-resolution mechanism.   
 `COR` |  Violations of this policy will be corrected.   
@@ -131,9 +121,9 @@ The following table explains the meaning of each field in the compact policy.
 `PSDo` |  The data is used for pseudononymous decision-making, unless the user chooses otherwise.   
 `IVAi` |  The data is used for analysis, including knowledge of the visitor's identity, if the user selects it.   
 `IVDi` |  The data is used for decision-making, including knowledge of the visitor's identity, if the user selects it.   
-`CONo` |  The data is used for contacting the user, unless the user chooses otherwise.  
+`CONo` |  The data is used for contacting the user, unless the user chooses otherwise.   
 `HISo` |  The data is used for historical archival purposes, unless the user chooses otherwise.   
-`TELo` |  The data is used for telemarketing, unless the user chooses otherwise.  
+`TELo` |  The data is used for telemarketing, unless the user chooses otherwise.   
 `OTPi` |  The data is used for other purposes, if the user selects it.   
 `OUR` |  The data is given to ourselves and our agents.   
 `OTRi` |  The data is given to other organizations with different privacy practices, if the user selects it.   
