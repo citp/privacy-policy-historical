@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solo-e.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205225634id_/http%3A//www.solo-e.com/mainfiles/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solo-e.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624164959id_/http%3A//www.solo-e.com/mainfiles/privacy.shtml) for the most accurate reproduction.*
 
 # Solo-E.com Privacy Policy
 
@@ -37,8 +37,14 @@ Our membership software, forums and other site areas may require members to supp
 
 The contact information you provide is used solely to validate your interest and to provide you with the information you require. None of the information you submit will ever be sold to or shared with a third party. 
 
-We reserve the right to share with or sell to third parties, aggregated information that does not include any personally identifiable data. We don't do this now.  
+We reserve the right to share with or sell to third parties, aggregated information that does not include any personally identifiable data. We don't do this now.
 
+  
+If we decide to makes changes to our privacy policy, we will post the changes to this privacy policy on this page and in other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If, at any time, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via e-mail.
+
+The privacy rights conferred by this Privacy Policy inure to the benefit of the individual users who contribute to Solo-E.com. Solo-Entrepreneur.com, Inc., reserves the right to modify this Privacy Policy from time to time, but in no event may this privacy policy be modified to reduce the scope of the rights conferred to the users of this site. This Privacy Policy shall be binding upon Solo-Entrepreneur.com, Inc., its successors and assigns, and upon any third party that may later come into possession or control of the assets of Solo-Entrepreneur.com, Inc.
 
 * * *
 
@@ -65,17 +71,7 @@ Solo-E does NOT share email addresses or any personally identifiable information
 
 Users who no longer wish to receive our announcements may opt-out of receiving these communications by clicking the unsubscribe link present in every email communication we send.
 
-  
-If we decide to change our privacy policy, we will post the changes to this privacy policy, the homepage, and in other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If, at any time, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via e-mail.
-
-The privacy rights conferred by this Privacy Policy inure to the benefit of the individual users who contribute to Solo-E.com. Solo-Entrepreneur.com, Inc., reserves the right to modify this Privacy Policy from time to time, but in no event may this privacy policy be modified to reduce the scope of the rights conferred to the users of this site. This Privacy Policy shall be binding upon Solo-Entrepreneur.com, Inc., its successors and assigns, and upon any third party that may later come into possession or control of the assets of Solo-Entrepreneur.com, Inc.
-
 * * *
-
-  
-All material on these pages is owned by and all rights are reserved by Solo-Entrepreneur.com, Inc., for our use and reproduction, unless as otherwise indicated. This includes all text, images, structure and format, and the processes employed on this Web site. No part of these pages, either text or image may be used for any purpose other than personal use. Therefore, reproduction, modification, storage in a retrieval system or retransmission, in any form or by any means, electronic, mechanical or otherwise, for reasons other than personal use, are strictly prohibited without prior written permission. 
 
   
 This Web site contains links to other sites. Please be aware that we, Solo-Entrepreneur.com, Inc. are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy policy of each and every Web site that collects personally identifiable information. This privacy policy applies solely to information collected by this Web site.
@@ -98,12 +94,6 @@ Members are solely responsible for maintaining the privacy of their personal inf
 This Web site takes every precaution to protect our users' information. When users submit sensitive information via the Web site, their information is protected both online and offline.
 
 If users have any questions about the security at our Web site, users can send an e-mail to [security@solo-e.com](mailto:security@solo-e.com) .
-
-  
-Solo-Entrepreneur.com reserves the right, at our discretion, to suspend or terminate membership and services immediately and without notice..
-
-  
-Solo-Entrepreneur.com may modify the site guidelines as deemed appropriate by the site and site staff. A member agrees to have accepted these guidelines and any changes by interacting on the site. Changes to guidelines will, when possible, be communicated in advance to site users.
 
   
 If users have any questions or suggestions regarding our privacy policy, please [contact us](http://www.solo-e.com/mainfiles/feedback.shtml).
