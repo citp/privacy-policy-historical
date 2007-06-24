@@ -1,75 +1,41 @@
-> *The following text is extracted and transformed from the dogzonline.com.au privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207015029id_/http%3A//dogzonline.com.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogzonline.com.au privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624194841id_/http%3A//www.dogzonline.com.au/privacy-policy.asp) for the most accurate reproduction.*
 
-# Dogz Online
+# Dogz Online - The Pure Breed Dog Community of Australia
 
-    
- [* Home Page](https://web.archive.org/web/20061207015029id_/http%3A//dogzonline.com.au/home.asp)  
- [* Breed Pages](https://web.archive.org/web/20061207015029id_/http%3A//dogzonline.com.au/breeds/list.asp)  
- [* Forums](http://forums.dogzonline.com.au/)  
- [* Rescue Dogs](https://web.archive.org/web/20061207015029id_/http%3A//dogzonline.com.au/breeds/rescue.asp)  
- [* Classifieds](https://web.archive.org/web/20061207015029id_/http%3A//dogzonline.com.au/classifieds/default.asp)   
- [* Market Place](https://web.archive.org/web/20061207015029id_/http%3A//dogzonline.com.au/links/products/default.htm)  
- [* Accommodation](https://web.archive.org/web/20061207015029id_/http%3A//dogzonline.com.au/accommodation/default.asp)  
- [* Info Links](https://web.archive.org/web/20061207015029id_/http%3A//dogzonline.com.au/links/default.htm)  
- [* Members Sign In](https://web.archive.org/web/20061207015029id_/http%3A//dogzonline.com.au/members/home.asp)    
- [* About Us](https://web.archive.org/web/20061207015029id_/http%3A//dogzonline.com.au/about_us.htm)  
- [* Site Advertising](https://web.archive.org/web/20061207015029id_/http%3A//dogzonline.com.au/advertising.htm)   
- [* Contact Us](https://web.archive.org/web/20061207015029id_/http%3A//dogzonline.com.au/contact.htm)
+**Navigation** >> [Home](https://web.archive.org/) >> Privacy Policy 
 
-|  |    
+  
 
 
-**Navigation** >> [Home](https://web.archive.org/web/20061207015029id_/http%3A//dogzonline.com.au/home.asp) >> Privacy Statement
+**Introduction**  
+At Dogz Online, we respect your privacy. We want to maintain your confidence in our handling of any data and information that is collected during your visit to our web site. We have developed and provided this Privacy Policy to inform you of our practices and policies regarding the collection, use, maintenance, and disclosure of your personal data and information. 
 
-With regards to your privacy, we have 3 commitments.
+We are committed to providing you with adequate information so you can make an informed decision whether to visit our web site and whether you wish to voluntarily provide any personal data or information, e.g., your name, e-mail address, telephone number, etc. Our Privacy Policy is described in the following sections.
 
-  * We will respect your privacy
+**Log Files**  
+We review data and information contained in log files located on our web server, which record the date and time of each visit to our web site, the user's IP (internet protocol) address, the referring IP address or domain (the prior web site visited), and the files viewed on our web site (including HTML pages, graphics, etc.). We use log file information to analyze data in the aggregate to determine the trends and usage of our site. We can not correlate the log data to identify specific users. 
 
-  * We will not ‘sell’ your private information to anyone.
+**Voluntarily Provided Information**  
+If you register for membership through our web site, make purchases from our on-line offerings, respond to a request for information or make any other on-line request of us (including email), you will be voluntarily providing personally identifiable information. If you do not agree with this Privacy Policy, we ask that you please do not provide the requested information. You may nevertheless continue to use most of our web site, subject however, to the collection of information through log files as discussed above. 
 
-  * We will only give your information to a third party if:   
+If you have previously provided personally identifiable information by registration through our web site, you may request to be removed from our systems. In the case of our forums, we will not remove any threads etc that you may have made but we will remove any identifying information contained in your profile.
 
+Voluntarily provided information is used to send you announcements of new features of our site, updates, and promotional information, as well as to provide the services or goods that you request and give you better customer service. We do not share your information with anyone outside our organisation (except if we are required to do so by law).
 
-    * the law requires us to do so 
-    * or, we believe it is necessary to prevent death or injury 
+**Links to Third-Party Web Sites**  
+Through our web pages, you may connect to third parties' web sites via hyperlinks, and the connections may or may not be obvious. We are not responsible for the collection, use, maintenance, sharing, or disclosure of data and information by such third parties. We encourage our users to be aware of the varied privacy policies of web sites that they visit.
 
+**Required Disclosures of Data & Information**  
+Regardless of anything in this Privacy Policy to the contrary, we may disclose personally identifiable information, with or without prior notice to you, when we believe that the law requires it, in response to subpoenas or at the demand of governmental agencies, to protect our systems or business, to protect other visitors to the web site, or to respond to an emergency. If you partake, or we reasonably suspect you of partaking in any illegal activity, we may also disclose your personally identifiable information, even without a subpoena, warrant or court order. We may also make disclosures of your personally identifiable information with your affirmative consent. 
 
+**Maintenance & Transmission of Data & Information**  
+Although we use reasonable efforts to maintain the privacy of your personally identifiable data and information, due to technological limitations, and the risk of unlawful interceptions and accessing of transmissions and/or data, we cannot completely assure you, and you should not expect, that your personally identifiable data and information, and any other electronically communicated information, will be absolutely confidential.
 
+For all e-commerce transactions, we use industry-standard commercial encryption technology to protect the data and information that you transmit to us via our web site. We never keep a record anywhere of your full credit card details. (All credit card payments to this site are either processed by paypal or a bank approved payment system). 
 
-**Types of Information We Collect**  
-Generally, you are free to browse the Dogz Online site without submitting any personal information. We do not collect any of your personal information (such as a name, address or e-mail address) when you visit the Dogz Online, unless you join up as a member, or otherwise agree to submit to us such information (eg via email). 
+**Changes to this Privacy Policy**  
+Due to changing technological and marketing demands, we reserve the right to change our policies regarding the privacy of your personally identifiable information in the future. If that happens, we will endeavor to promptly update this Privacy Policy. We may also attempt to provide a message to our members whose e-mail addresses we have, in conformity with this Privacy Policy, advising of any such change(s). Your continued use of the web site following changes to this policy will indicate that you accept the changes. 
 
-Please be aware that on the parts of the site that require membership, your computer's IP address will be recorded after you sign in and or/use the membership facilities (this includes the forums).
-
-**Cookies**  
-Dogz Online uses browser cookies to facilitate your experience with our site. These cookies are small sections of code that our server sends to your browser which it can then store on your hard drive. If you choose to accept these cookies, they enable us to recognize that your browser has previously visited and used our site, and, based on your browser's previous visits, assist us with tailoring the information and content you view. An example of the customization allowed by the use of such cookies is to retain your username and password as part of the Dogz Online membership system or forums on our site so you don't have to re-enter them each time you visit. You do not have to accept these cookies to visit or use the Dogz Online site or our products and services, and you can choose to refuse our cookie or delete our cookie from your hard drive.
-
-**Breeder / Exhibitor Membership of this site**  
-Membership of this site is open to all current members of Australia and New Zealand's Registered Canine Associations for the purpose of
-
-  * Displaying Breeder notices (including litter notices and mature dog notices)
-
-  * Allowing exhibitors the opportunity of displaying profiles of their dogs on the site
-
-  * Displaying rescue dogs
-
-
-
-
-Because the nature of this site is to 'advertise yourself' to the rest of the world, most of the information that you supply to us via the forms in the membership section will be readily available to all users of this site. If you are uncomfortable with this, then please do not become a member.
-
-Because we cannot control users of this site, we cannot guarantee that your information that is readily displayed on the site (eg email addresses) will not be harvested from this site and used for the purposes of spam or other uses.
-
-**Registration on the Dogz Online Forums**  
-Dogz Online requires users who want to participate in the [forums](http://forums.dogzonline.com.au/index.php) to register. In order to register, you must provide us with a username (which does not have to be your real name), password and a valid e-mail address. This allows us to protect our community from abusive postings and provides a verifiable point of contact should legal questions arise. At any time, you have the ability to keep your e-mail address hidden from other users by selecting that option within your user profile. When you register, you have the option of providing some additional information such as interests, and homepage URL. This optional information is made available to other forum users to foster a sense of community. If you have any concerns about providing this information, simply leave the fields blank and your registration will still be processed 
-
-**Children's privacy**  
-We will take all reasonable steps to protect the safety of children in their use of Dogz Online. We ask that children under the age of 18 have a parent or guardian verify their membership application with Dogz Online. Whilst Dogz Online will make every reasonable effort to ensure that children's privacy and other rights are not compromised, it is ultimately the responsibility of parents to monitor their children's Internet usage. 
-
-**Purchasing and/or Credit Card Information**  
-Dogz Online strives to maintain strict security for your credit card information. All credit card payments are made via a secure link through a third party gateway with a direct link to the National Australia Bank. All processing is done in 'real time' mode. We do not maintain any credit card information at Dogz Online, which means that you have to provide it each time you make a purchase, but also means that your information is controlled by you alone. 
-
-**Links to Other Sites**  
-Dogz Online includes many links to other websites operated by other people and organisations. When you link to another site, the privacy and protection policies of that site apply, not those of Dogz Online.
-
-| 
+All content copyright Dogz Online Pty Ltd © 2007  
+[Privacy Policy](https://web.archive.org/privacy-policy.asp) | [Disclaimer](https://web.archive.org/disclaimer.asp)  
+ 
