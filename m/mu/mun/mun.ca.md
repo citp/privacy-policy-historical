@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mun.ca privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212033605id_/http%3A//www.mun.ca/marcomm/web/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mun.ca privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624125431id_/http%3A//www.mun.ca/marcomm/web/privacy.php) for the most accurate reproduction.*
 
 # Marketing & Communications | Privacy
 
@@ -32,7 +32,7 @@ This statement may be amended from time to time. Refer to the version number and
 
 ## Contact Information
 
-Inquiries, comments, or complaints concerning this privacy statement may be directed to [webadmin@mun.ca](https://web.archive.org/web/20061212033605id_/http%3A//www.mun.ca/marcomm/web/%22mailto:webadmin@mun.ca%22) or
+Inquiries, comments, or complaints concerning this privacy statement may be directed to [webadmin@mun.ca](https://web.archive.org/web/20070624125431id_/http%3A//www.mun.ca/marcomm/web/%22mailto:webadmin@mun.ca%22) or
 
 Director, Computing and Communications  
 Memorial University of Newfoundland  
