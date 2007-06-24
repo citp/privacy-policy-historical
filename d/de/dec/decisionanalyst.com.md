@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the decisionanalyst.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207051549id_/http%3A//decisionanalyst.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decisionanalyst.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624133657id_/http%3A//www.decisionanalyst.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,7 +15,7 @@ We believe that consumers have an inalienable right to privacy. We protect your 
 We take your trust, and our responsibilities, very seriously. Here are our privacy practices regarding the information you entrust to us. 
 
 Who We Are  
-The site [www.DecisionAnalyst.com](https://web.archive.org/web/20061207051549id_/http%3A//decisionanalyst.com/index.asp) is owned and operated by [Decision Analyst, Inc](https://web.archive.org/web/20061207051549id_/http%3A//decisionanalyst.com/index.asp).  Tell me more.
+The site [www.DecisionAnalyst.com](https://web.archive.org/web/20070624133657id_/http%3A//www.decisionanalyst.com/index.asp) is owned and operated by [Decision Analyst, Inc](https://web.archive.org/web/20070624133657id_/http%3A//www.decisionanalyst.com/index.asp).  Tell me more.
 
   
 We only collect the personal identifying information (name, address, phone number, and email address, etc.) you voluntarily provide to us when downloading our marketing research data, white papers, and Stats™ Statistical Software.  Tell me more.
@@ -27,7 +27,7 @@ We use the information you provide us to measure our advertising efforts and for
 We don't share any information that personally identifies you with any business, client, or business partner. Decision Analyst does not sell or rent your personal information to anyone.  Tell me more.
 
   
-We do not use cookies for the [www.decisionanalyst.com](https://web.archive.org/web/20061207051549id_/http%3A//decisionanalyst.com/index.asp) corporate site. We may, however, use cookies to track our advertising efforts for our American Consumer Opinion® website. Some of this tracking is conducted through the site [www.decisionanalyst.com](https://web.archive.org/web/20061207051549id_/http%3A//decisionanalyst.com/index.asp). We do collect information in our log files.  Tell me more.
+We do not use cookies for the [www.decisionanalyst.com](https://web.archive.org/web/20070624133657id_/http%3A//www.decisionanalyst.com/index.asp) corporate site. We may, however, use cookies to track our advertising efforts for our American Consumer Opinion® website. Some of this tracking is conducted through the site [www.decisionanalyst.com](https://web.archive.org/web/20070624133657id_/http%3A//www.decisionanalyst.com/index.asp). We do collect information in our log files.  Tell me more.
 
   
 The www.decisionanalyst.com website contains links to other websites whose privacy policies may differ from ours.  Tell me more.
@@ -89,21 +89,21 @@ Though we make every effort to preserve user privacy, we may need to disclose pe
 
 Back to top
 
-The www.decisionanlyst.com website contains links to other websites. While these websites might be of interest to you, please note that their privacy policies may differ from ours. We encourage you to read the privacy statement of each site you visit. 
+The www.decisionanalyst.com website contains links to other websites. While these websites might be of interest to you, please note that their privacy policies may differ from ours. We encourage you to read the privacy statement of each site you visit. 
 
 Back to top
 
-For more information, questions or concerns regarding our data-protection practices and our Privacy Policy, please contact our Panel Administration Department at: 
+For more information, questions or concerns regarding our data-protection practices and our Privacy Policy, please contact: 
 
 > Information Systems Department  
->  Attn: Terri Howard  
+>  Attn: Information Security Officer  
 >  Decision Analyst, Inc.  
 >  604 Avenue H East  
 >  Arlington, Texas 76011  
 >  Phone numbers:  
 >  Toll-free, 1-800-262-5974  
 >  International, 1-817-640-6166  
->  Email: [thoward@decisionanalyst.com](mailto:thoward@decisionanalyst.com)
+>  Email: [dissupport@decisionanalyst.com](mailto:dissupport@decisionanalyst.com)
 
 For more information about Internet privacy and the privacy guidelines we follow: 
 
@@ -116,7 +116,7 @@ Back to top
 
 If you believe we have violated our stated Privacy Policy with respect to any personal information you have entrusted to us, you have options: 
 
-  * We urge you to contact our [Internet Systems Department](mailto:thoward@decisionanalyst.com) so we may investigate your complaint.
+  * We urge you to contact our [Internet Systems Department](mailto:dissupport@decisionanalyst.com) so we may investigate your complaint.
   
 
   * You may also file a complaint with the [ Council of American Survey Research Organizations (CASRO)](http://www.casro.org/), 3 Upper Devon, Port Jefferson, New York 11777.
