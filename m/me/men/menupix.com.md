@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the menupix.com privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114025205id_/http%3A//menupix.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menupix.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625005910id_/http%3A//menupix.com/privacy.php) for the most accurate reproduction.*
 
 # MenuPix.com - Privacy Policy
 
@@ -28,7 +28,7 @@ MenuPix.com uses cookies to track and enhance activity on the site. Some uses in
 Access to your personal information is limited to employees that have a reasonable and relevant need for that information in order to perform their duties. We have physical, electronic, and procedural safeguards in place to protect your personal information as well as our other information and data.
 
   
-Registered users can log into MenuPix.com at anytime and edit their personal information and/or opt out of promotional offers. To delete an account, users should email us at [delete@menupix.com](mailto:delete@menupix.com). While we will delete an account from our active database(s) upon request, this information may still exist in our data archives.
+Registered users can log into MenuPix.com at anytime and edit their personal information and/or opt out of promotional offers. To delete an account, users should email us at [support@menupix.com](mailto:support@menupix.com). While we will delete an account from our active database(s) upon request, this information may still exist in our data archives.
 
   
 MenuPix.com does not allow registration for users under 13 years old. For users under 18 years old, we ask that a parent or guardian create an account and monitor the account access. We will not contact children under 13 for marketing purposes or knowingly collect or maintain personal information for children under 13 years old. 
@@ -40,4 +40,4 @@ We reserve the right to send certain emails regarding new service offerings or o
 
   
 MenuPix.com reserves the right to makes changes to our Privacy Policy. In the event there is a significant change to our policy or the way we collect or treat your personal information, we will place a notification on our website. Links to our current Privacy Policy and Terms of Use can be found at the bottom of each webpage on MenuPix.com  
-Feel free to email us with questions about our Privacy Policy at [info@menupix.com](mailto:info@menupix.com)
+Feel free to email us with questions about our Privacy Policy at [support@menupix.com](mailto:support@menupix.com)
