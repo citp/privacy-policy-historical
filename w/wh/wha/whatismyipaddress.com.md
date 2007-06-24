@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatismyipaddress.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213043732id_/http%3A//whatismyipaddress.com/staticpages/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatismyipaddress.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624235340id_/http%3A//whatismyipaddress.com/staticpages/index.php/privacy-policy) for the most accurate reproduction.*
 
 # What Is My IP Address? - Our Commitment To Privacy
 
@@ -10,6 +10,8 @@ Your privacy is important to us. To better protect your privacy we provide this 
 We use email addresses to confirm registration upon the creation of a new account. 
 
 We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
+
+On occasion we may send email to addresses of registered users to inform them about changes or new features added to out site. 
 
 We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
 
@@ -32,4 +34,4 @@ Please be careful and responsible whenever you are online. Should you choose to 
 WhatIsMyIPAddress.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. 
 
   
-Last Updated Friday, May 05 2006 @ 03:52 pm PDT
+Last Updated Friday, February 16 2007 @ 09:22 am PST
