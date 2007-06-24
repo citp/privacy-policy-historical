@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blumentals.net privacy policy that was archived on 2006-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061202175312id_/http%3A//www.blumentals.net/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blumentals.net privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624041116id_/http%3A//www.blumentals.net/company/privacy.php) for the most accurate reproduction.*
 
 # Blumentals Software - Company
 
@@ -10,7 +10,7 @@ When you use Blumentals Software web site, our servers automatically record info
 
 When you submit feedback or support request via our online web forms, we may ask you for your name and email address.
 
-When you place an order online with us, we ask you for personal information (such as your name, email address and phone number). This information is used to record your ownership of a product license so that we can provide you with a replacement copy in case you loose your digital copy of the product.
+When you place an order online with us, we ask you for personal information (such as your name, email address and phone number). This information is used to record your ownership of a product license so that we can provide you with a replacement copy in case you loose your digital copy of the product. This information can be also used to inform you about an updated version of the product that you have purchased from us.
 
 We do not collect or store any credit card information.
 
