@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kmart.co.nz privacy policy that was archived on 2006-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060820095634id_/http%3A//kmart.co.nz/about/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kmart.co.nz privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624085136id_/http%3A//www.kmart.co.nz/about/privacypolicy) for the most accurate reproduction.*
 
-# Home > Privacy Policy
+# Kmart Home >
 
 Below is a privacy statement that applies to Kmart.
 
@@ -18,7 +18,7 @@ When a customer places an order and/or register their details with us, we store 
 
 ### What we collect
 
-The personal information we collect is in most cases supplied when customers register details, place an order or provide feedback to us. Generally, the information we collect includes customer name, address, delivery address, phone number and e-mail address. We will sometimes obtain other details, such as age. Through business partners such as FlyBuys and GE Capital Finance, who administer our store cards, we also have access to purchasing information.
+The personal information we collect is in most cases supplied when customers register details, place an order or provide feedback to us. Generally, the information we collect includes customer name, address, delivery address, phone number and e-mail address. We will sometimes obtain other details, such as age.
 
 ### Who we may share your information with
 
@@ -34,11 +34,11 @@ Kmart is not responsible for the privacy practices of sites that are linked to t
 
 ### Direct marketing
 
-If you do not wish to receive direct marketing offers from Kmart, please call our customer service centre on 1800 634 251
+If you do not wish to receive direct marketing offers from Kmart, please call our customer service centre on 0800 944 553
 
-### Kmart and Coles Myer Ltd Privacy Policies and Practices
+### Kmart and Coles Group Limited Privacy Policies and Practices
 
-From time to time and in line with customer expectations and legislative changes, our privacy policies and procedures will be reviewed and, if appropriate, updated. Please click [here](http://www.colesmyer.com/home/privacy.asp) if you wish to read the Coles Myer Ltd Privacy Policy. More information on privacy legislation is available from the Federal Privacy Commissioner at [www.privacy.gov.au](http://www.privacy.gov.au/).
+From time to time and in line with customer expectations and legislative changes, our privacy policies and procedures will be reviewed and, if appropriate, updated.
 
 ### About cookies and how they work
 
