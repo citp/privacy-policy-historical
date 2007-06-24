@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the linkdirectory.com privacy policy that was archived on 2006-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061116050125id_/http%3A//linkdirectory.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkdirectory.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624155100id_/http%3A//www.linkdirectory.com/privacy.php) for the most accurate reproduction.*
 
-# LinkDirectory.com | Search Engine- Privacy Policy
+# Link Directory | Free Link Directory- Privacy Policy
 
 Welcome to LinkDirectory.com (the "Site").
 
