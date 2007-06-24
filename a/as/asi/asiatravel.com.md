@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiatravel.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205201119id_/http%3A//www.asiatravel.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiatravel.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624205007id_/http%3A//asiatravel.com/policy.html) for the most accurate reproduction.*
 
 # Asia Travel Hotels Resorts Air Ticketing Tours Packages Reservation
 
