@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the nationaltheatre.org.uk privacy policy that was archived on 2006-11-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061114204044id_/http%3A//www.nationaltheatre.org.uk/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nationaltheatre.org.uk privacy policy that was archived on 2007-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070624031438id_/http%3A//www.nationaltheatre.org.uk/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-  <meta name="generator" content="webbler 3.1.1 - http://tincan.co.uk/webbler">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/transitional.dtd"><html><head>
+  <meta name="generator" content="webbler 3.1.3 - http://tincan.co.uk/webbler">
   <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
   <link rel="SHORTCUT ICON" href="/favicon.ico">
   <title>National Theatre : Website Help : Privacy</title>
@@ -30,227 +30,10 @@
      }
     }
     </script>
-<!-- dhtmlmenu_javascript -->
-
-<script type="text/javascript">
-
-function handleError(message, url , line){
-  return true;
-}
-
-window.onerror = handleError;
-
-var openNavs = new Array();
-var NavBars = setTimeout("tidy()", 100);
-var closeDelay=200;
-
-function reSetTimeout(id){
-//window.status +=  id + " ";
-  clearTimeout(NavBars);
-  NavBars = setTimeout("tidy()", closeDelay);
-}
-
-function tidy(){
- clearTimeout(NavBars);
-  for (var i=0; i < openNavs.length; i++ ){
-    if (document.layers){
-      document.layers[openNavs[i]].visibility = "hidden";
-    } else {
-      openNavs[i].style.visibility = "hidden";
-    }
-  }
-  openNavs.length=0;
-}
-
-
-function lowlight(href,divName){
-  highlight(href, divName, null, null)
-}
-
-function navbarhighlight(href,divName,fg,bg, color){
-  if (color && color.highfg && color.highbg){
-    highlight(href, divName, color.highfg, color.highbg);
-  } else {
-    highlight(href, divName, fg, bg);
-  }
-}
-
-function navbarlowlight(href, divName, fg, bg, color){
-  if (color && color.fg && color.bg){
-    highlight(href, divName, color.fg, color.bg)
-  } else {
-    highlight(href, divName, fg, bg);
-  }
-}
-
-function highlight(href, divName, fg, bg,color){
-  if (color && color.fg && color.bg && fg==color.fg  && bg==color.bg ){
-      bg=color.fg ; fg=color.bg;
-  }
-
-  if (color && color.fg && color.bg && fg=="zone" && bg=="zone"){
-      bg=color.fg ; fg=color.bg;
-  }
-  var div;
-  if (document.getElementById){
-    div = document.getElementById(divName);
-  } else if (document.all){
-    div = document.all[divName];
-  }
-
-  fg=fg?fg:null;
-  bg=bg?bg:null;
-  href.style.backgroundColor = bg;
-  href.style.color = fg;
-
-//  div.style.backgroundColor = bg;
-//  div.style.color = fg;
-}
-
-function reveal2(menu, myparent, closeOther,menuSize,defaultTop,defaultLeft) {
-  clearTimeout(NavBars);
- if (!document.layers && !document.all &&!document.getElementById ) return;
-  if (closeOther){ tidy(); } else { pad =100; }
-
-  if (!document.getElementById){
-    closeDelay=3000;
-  }
-
-  if (document.getElementById){
-    mymenu = document.getElementById(menu);
-  } else if (document.all) {
-    mymenu=document.all[menu];
-  } else if (document.layers){
-    document.layers[menu].visibility = "visible";
-    document.layers[menu].bgColor=nav1Color.bg;
-    openNavs[(openNavs.length)] = menu;
-  }
-  // fix strange mac-IE bug
-//  mymenu.style.top = "";
-  mymenu.style.visibility = "visible";
-  openNavs[(openNavs.length)] = mymenu;
-}
-
-function reveal(menu, myparent, closeOther,menuSize,defaultTop,defaultLeft) {
-
-  if (!document.layers && !document.all &&!document.getElementById ) return;
-  if (closeOther){ tidy(); } else { pad =100; }
-
-  if (!document.getElementById){
-    closeDelay=3000;
-  }
-
-  clearTimeout(NavBars);
-  var avaiableHeight =0;
-  var avaiableWidth =0;
-
-  if (document.height){
-    availableHeight = document.height;
-    availableWidth = document.width;
-  } else if (document.body.clientHeight){
-    availableHeight = document.body.clientHeight;
-    availableWidth = document.body.clientWidth;
-  } else if (window.innerHeight){
-    availableHeight =window.innerHeight;
-    availableWidth =window.innerWidth;
-  }
-
-  if (document.getElementById){
-    mymenu = document.getElementById(menu);
-  } else if (document.all) {
-    mymenu=document.all[menu];
-  } else if (document.layers){
-    document.layers[menu].visibility = "visible";
-    document.layers[menu].bgColor="red";
-    openNavs[(openNavs.length)] = menu;
-  }
-
-
- var agent = "" + navigator.userAgent.toLowerCase();
-  if (navigator.appName.toLowerCase() == "microsoft internet explorer"  && agent.indexOf("mac") != -1){
-  //if its a Mac - just use the hard-coded values (embedded in the page) and stop
-    mymenu.style.left = defaultLeft;
-    mymenu.style.top = defaultTop;
-//   if (!defaultTop)
-//      mymenu.style.top = "";
-//   if (!defaultLeft)
-//      mymenu.style.left = "";
-    mymenu.style.visibility = "visible";
-    openNavs[(openNavs.length)] = mymenu;
-    return;
-  }
-
-  pad = 0;
-  var elementWidth = 0;
-  var left = elementWidth;
-  var elementHeight = 19;
-  if (document.getElementById && !document.all){elementHeight +=1;}
-  var top = elementHeight;
-  element = myparent;
-  //window.status="";
-  if (element.nodeName){
-    while (element.nodeName != "BODY"){
-      if ((element.nodeName != "CENTER")&&(element.nodeName != "TR")) {
-        left += (  element.offsetLeft - 0);
-        top += ( element.offsetTop - 0);
-      }
-        element = element.parentNode;
-    }
-  } else if (element.tagName){
-     while (element.tagName != "BODY"){
-       if ((element.tagName != "CENTER")&&(element.tagName != "TBODY")) {
-         left += (  element.offsetLeft - 0);
-         top += ( element.offsetTop - 0);
-         //window.status += element.tagName +"->"+element.offsetLeft+ " ";
-       }
-       element = element.parentElement;
-     }
-   } else {
-     left += defaultLeft;
-     top += defaultTop;
-   }
-   var menuHeight = menuSize  * elementHeight;
-   if ((availableHeight < (top + menuHeight))  && ( top > menuHeight)){
-     top = top - menuHeight;
-   }
-   if ((availableWidth < (top + (menuSize  * elementWidth)))  && ( left > (menuSize  * elementWidth))){
-     left = left -(menuSize  * elementWidth);
-   }
-   if (document.layers){
-     document.layers[menu].left = left + pad;
-     document.layers[menu].top = top;
-   } else {
-//     window.status = " ("+left+":"+top+")";
-     // needs tweaking, but needs to stay for now.
-     mymenu.style.left = left;
-     mymenu.style.position = "absolute";
-     mymenu.style.top = top;
-     mymenu.style.visibility = "visible";
-    // alert(left+" "+mymenu.style.left+" "+mymenu+" "+mymenu.style.top);
-     openNavs[(openNavs.length)] = mymenu;
-  }
-}
-
-</script>
-<!-- flipmenu -->
-
-    <script language="Javascript" type="text/javascript">
-
-    function flipMenuBlock(item) {
-      var el = document.getElementById("trunkcontent"+item);
-//      var closeel = document.getElementById("closetrunk"+item);
-      if (el.style.display == "block") {
-//        closeel.style.display = "none";
-        el.style.display = "none";
-      } else {
-//        closeel.style.display = "block";
-        el.style.display = "block";
-      }
-    }
-
-    </script>
-
-    
+<!-- activateflash -->
+<script src="/codelib/js/activateflash.js" type="text/javascript" language="Javascript"></script>
+<!-- swfobject -->
+<script src="/codelib/js/swfobject-1_4_4.js" type="text/javascript" language="Javascript"></script>
 <!-- adminjs -->
 <script language="Javascript" type="text/javascript" src="/codelib/js/powered.js"></script>
 
@@ -265,9 +48,15 @@ function reveal(menu, myparent, closeOther,menuSize,defaultTop,defaultLeft) {
   @import url("/styles/visiting.css");
  </style>
 
-<!--[if gte IE 6]>
+<!--[if IE 6]>
 <link rel="stylesheet"
 href="/styles/ie6.css"
+type="text/css" />
+<![endif]-->
+
+<!--[if IE 7]>
+<link rel="stylesheet"
+href="/styles/ie7.css"
 type="text/css" />
 <![endif]-->
 
@@ -277,30 +66,16 @@ href="/styles/ie5win.css"
 type="text/css" />
 <![endif]-->
 
-<!--**************JAVAscript for popups*************-->
- <script language="Javascript" type="text/javascript" src="/codelib/js/jslib.js">
- </script>
- 
-<!--**************JAVAscript for styleswitcher*************-->
-<script type="text/javascript" src="/styles/styleswitcher.js">
-</script>
-
-<!--**************links to alternate CSS*************-->
-
-<link rel="alternate stylesheet" type="text/css" media="screen,print" href="/styles/wnLg.css" title="Large Text" disabled="">
-<link rel="alternate stylesheet" type="text/css" media="screen,print" href="/styles/wnLg2.css" title="Larger Text" disabled="">
-<link rel="alternate stylesheet" type="text/css" media="screen,print" href="/styles/backgrounds/bkwhite.css" title="Background White" disabled="">
-<link rel="alternate stylesheet" type="text/css" media="screen,print" href="/styles/backgrounds/bkpurple.css" title="Background Purple" disabled="">
-<link rel="alternate stylesheet" type="text/css" media="screen,print" href="/styles/backgrounds/bkred.css" title="Background Red" disabled="">
-<link rel="alternate stylesheet" type="text/css" media="screen,print" href="/styles/backgrounds/bkgrey.css" title="Background Grey" disabled="">
-<!--**************links to alternate CSS*************-->
-
-<link href="/rss.php" rel="alternate" type="application/rss+xml">
+<!--** js for toolkit **-->
+<script type="text/javascript" src="/codelib/js/styleswitcher.js"></script>
+<!--** js flash and IE **-->
+<script language="Javascript" type="text/javascript" src="/codelib/js/activateflash.js"></script>
+<!--** RSS **-->
+<!--link href="/rss.php" rel="alternate" type="application/rss+xml"-->
 </head>
 
 <body>
-
-<div align="center">
+<div id="wrapper">
 <a name="top"></a>
 <!-- start header table -->
 
@@ -308,24 +83,22 @@ type="text/css" />
 <script language="javascript">
 var host = new String(document.location.hostname);
 if (host.match("ajax") || host.match("nt-online")) {
-  document.location.hostname = 'www.nationaltheatre.org.uk';
+//  document.location.hostname = 'www.nationaltheatre.org.uk';
 }
 </script>
  
 
 <!--HEADER TABLE starts-->
 
-<table cellpadding="0" cellspacing="0" border="0" id="mainborder">
+<table id="mainborder" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr valign="top">
-<td class="whiteright"><a href="/"><img src="/images/ntlogo.jpg" width="147" height="104" alt="National Theatre" border="0"></a></td>
-<td width="100%" rowspan="3">
-<!-- Array, 12505, 227 --><img src="/files/NEWheaderhomeyyKHGd.jpg" width="590" height="148" border="0" title="NT at night" alt="Photo of the NT at night"></td>
+<td class="whiteright"><a href="/" title="National Theatre. South Bank, London SE1 9PX. Plays, Platform talks, events, music. Find out what's on. Buy tickets online."><img src="/images/ntlogo.jpg" alt="National Theatre. South Bank, London SE1 9PX. Plays, Platform talks, events, music. Find out what's on. Buy tickets online." border="0" height="104" width="147"></a></td>
+<td rowspan="2" width="100%">
+<img src="http://media.nt-online.org/files/Home-page_590x148DGLxKp.jpg" width="590" height="148" border="0" title="National Theatre building" alt="Photo of the National Theatre building"></td>
 </tr>
+
 <tr valign="middle">
-<td class="whitetopright"><div class="joinlogin"><a href="/tickets/account/login.aspx">REGISTER / LOGIN</a></div></td>
-</tr>
-<tr valign="middle">
-<td class="whitetopright"><div class="buytickets" id="buyticketsdiv"><a href="/buytickets" title="buy tickets">buy tickets</a></div></td>
+<td class="whitetopright"><div class="buytickets" id="buyticketsdiv"><a href="/buytickets" title="Buy tickets online for National Theatre shows and Platform talks">buy tickets</a></div></td>
 </tr>
 <!--MAIN MENU ROW-->
 <tr valign="middle">
@@ -333,80 +106,31 @@ if (host.match("ajax") || host.match("nt-online")) {
 
 
 <!--- start dhtmlmenu whatsonmenu-->
-
-    
-<!-- hide option 1 5-->
-
-    
-<script language="JavaScript" type="text/javascript">
-
-<!--
-
-if (document.layers){
-  left = Math.floor((window.innerWidth - 640) / 2);
-  document.write('<link rel="StyleSheet" href="styles/nn4.css" type="text/css">');
-  document.write('<style type="text/css">');
-  document.write('div#dhtmlmenu-5{left : ' + (left +20) + 'px;}');
-  document.write('<\/style>');
-} else {
-  document.write('<style type="text/css">');
-  //hide dhtmlmenu
-  document.write('div#dhtmlmenu-5{position : absolute;visibility : hidden;}');
-  document.write('<\/style>');
-}
-
-//-->
-
-</script><style type="text/css">div#dhtmlmenu-5{position : absolute;visibility : hidden;}</style>
-
-      <script type="text/javascript" language="Javascript">
-      if (!whatsonmenutop) var whatsonmenutop=0;
-      if (!whatsonmenuleft) var whatsonmenuleft=0;
-      if (!whatsonmenuColor) var whatsonmenuColor=0;
-      </script>
-      <div class="dhtmlmenuBar" onmouseover="reveal('dhtmlmenu-5', this, true,9,whatsonmenutop,whatsonmenuleft  );
-navbarhighlight(this, 'awhatsonmenu1','red','white', whatsonmenuColor);" onmouseout="reSetTimeout('mo bar');navbarlowlight(this, 'awhatsonmenu1','white','red', whatsonmenuColor);" onclick="window.location='/?lid=29';">
-<a class="dhtmlmenuBar" href="/?lid=29" id="awhatsonmenu1" onmouseover="if (!document.layers) return; reveal('dhtmlmenu-5', this, true,9,whatsonmenutop,whatsonmenuleft  );
-navbarhighlight(this, 'awhatsonmenu1','red','white', whatsonmenuColor);" onmouseout="if (!document.layers) return; reSetTimeout('a mo');navbarlowlight(this, 'awhatsonmenu1','white','red', whatsonmenuColor);" onblur="reSetTimeout('blur')">WHAT'S ON</a></div>
-<div id="dhtmlmenu-5" class="dhtmlmenu" onmouseover="clearTimeout(NavBars);" onmouseout="reSetTimeout('mo sub');">
-<div class="dhtdiv" onmouseover="highlight(this,
-      'awhatsonmenu2','zone','zone', whatsonmenuColor);" onmouseout="navbarlowlight(this, 'awhatsonmenu2','white','red', whatsonmenuColor);" onclick="window.location='/?lid=171';"><a id="awhatsonmenu2" href="/?lid=171" onblur="highlight(this, 'awhatsonmenu2','white','red', whatsonmenuColor);">Productions</a></div>
-<div class="dhtdiv" onmouseover="highlight(this,
-      'awhatsonmenu3','zone','zone', whatsonmenuColor);" onmouseout="navbarlowlight(this, 'awhatsonmenu3','white','red', whatsonmenuColor);" onclick="window.location='/?lid=1355';"><a id="awhatsonmenu3" href="/?lid=1355" onblur="highlight(this, 'awhatsonmenu3','white','red', whatsonmenuColor);">Platforms</a></div>
-<div class="dhtdiv" onmouseover="highlight(this,
-      'awhatsonmenu4','zone','zone', whatsonmenuColor);" onmouseout="navbarlowlight(this, 'awhatsonmenu4','white','red', whatsonmenuColor);" onclick="window.location='/?lid=1946';"><a id="awhatsonmenu4" href="/?lid=1946" onblur="highlight(this, 'awhatsonmenu4','white','red', whatsonmenuColor);">Exhibitions</a></div>
-<div class="dhtdiv" onmouseover="highlight(this,
-      'awhatsonmenu5','zone','zone', whatsonmenuColor);" onmouseout="navbarlowlight(this, 'awhatsonmenu5','white','red', whatsonmenuColor);" onclick="window.location='/?lid=1821';"><a id="awhatsonmenu5" href="/?lid=1821" onblur="highlight(this, 'awhatsonmenu5','white','red', whatsonmenuColor);">Free&nbsp;Foyer&nbsp;Music</a></div>
-<div class="dhtdiv" onmouseover="highlight(this,
-      'awhatsonmenu6','zone','zone', whatsonmenuColor);" onmouseout="navbarlowlight(this, 'awhatsonmenu6','white','red', whatsonmenuColor);" onclick="window.location='/?lid=18';"><a id="awhatsonmenu6" href="/?lid=18" onblur="highlight(this, 'awhatsonmenu6','white','red', whatsonmenuColor);">Backstage&nbsp;Tours</a></div>
-<div class="dhtdiv" onmouseover="highlight(this,
-      'awhatsonmenu7','zone','zone', whatsonmenuColor);" onmouseout="navbarlowlight(this, 'awhatsonmenu7','white','red', whatsonmenuColor);" onclick="window.location='/?lid=1950';"><a id="awhatsonmenu7" href="/?lid=1950" onblur="highlight(this, 'awhatsonmenu7','white','red', whatsonmenuColor);">On&nbsp;Tour&nbsp;&amp;&nbsp;West&nbsp;End</a></div>
-<div class="dhtdiv" onmouseover="highlight(this,
-      'awhatsonmenu8','zone','zone', whatsonmenuColor);" onmouseout="navbarlowlight(this, 'awhatsonmenu8','white','red', whatsonmenuColor);" onclick="window.location='/?lid=29';"><a id="awhatsonmenu8" href="/?lid=29" onblur="highlight(this, 'awhatsonmenu8','white','red', whatsonmenuColor);">What's&nbsp;On&nbsp;This&nbsp;Week</a></div>
-<div class="dhtdiv" onmouseover="highlight(this,
-      'awhatsonmenu9','zone','zone', whatsonmenuColor);" onmouseout="navbarlowlight(this, 'awhatsonmenu9','white','red', whatsonmenuColor);" onclick="window.location='/?lid=4099';"><a id="awhatsonmenu9" href="/?lid=4099" onblur="highlight(this, 'awhatsonmenu9','white','red', whatsonmenuColor);">Calendar</a></div>
-</div>
+<div class="menuwhatson">
+<a class="whatsonlink" href="/whatson" title="What's On">WHAT'S ON</a></div>
 <!--- end dhtmlmenu -->
 
 
 </td>
 <td>
-<table cellpadding="0" cellspacing="0" border="0" width="100%">
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tbody><tr valign="middle">
-<td><div class="menubutton_selected"><span class="visiting"><a href="/visiting">visiting</a></span></div></td>
-<td><div class="menubutton"><span class="education"><a href="/education">education</a></span></div></td>
-<td><div class="menubutton"><span class="backstage"><a href="/backstage">backstage</a></span></div></td>
-<td><div class="menubutton"><span class="supporters"><a href="/supporters">supporters</a></span></div></td>
-<td><div class="menubutton"><span class="bookshop"><a href="/bookshop">bookshop</a></span></div></td>
-<td width="100%"><div class="search"><form method="get" action="/?" name="search" id="search" onsubmit="return checkSearch(this,'Search NT');">
-       <input type="text" name="query" value="Search NT" maxlength="50" class="searchBoxinput" onfocus="clearBox(this.form,'Search NT');" onblur="fillBox(this.form,'Search NT');" size="30"><input type="hidden" name="lid" value="16254"><input type="submit" name="go" class="searchSubmit" value="GO"></form></div></td>
+<td><div class="menubutton_selected"><span class="visiting"><a href="/visiting" title="Visitor Information">visitor information</a></span></div></td>
+<td><div class="menubutton"><span class="backstage"><a href="/backstage" title="Go Backstage">go backstage</a></span></div></td>
+<td><div class="menubutton"><span class="education"><a href="/education" title="Education">education</a></span></div></td>
+<td><div class="menubutton"><span class="supporters"><a href="/supporters" title="Support Us">support us</a></span></div></td>
+<td><div class="menubutton"><span class="bookshop"><a href="/ntshop" title="NT Shop">nt shop</a></span></div></td>
+<td><div class="menubutton"><span class="menured"><a href="/tickets/account/login.aspx" title="Login / Join">login/join</a></span></div></td>
+
 </tr>
 </tbody></table>
+
 
 </td>
 </tr>
 
-</tbody></table>
+</tbody></table><!--HEADER TABLE ends-->
 
 
 <!-- end header table -->
@@ -415,51 +139,66 @@ navbarhighlight(this, 'awhatsonmenu1','red','white', whatsonmenuColor);" onmouse
 <!-- start main table -->
 <!--MAIN TABLE starts-->
 <table cellpadding="0" cellspacing="0" border="0" id="outertable">
-<tbody><tr valign="middle">
-<td height="35" width="149"><div class="date"><span class="zonewhatson">Tue 14 Nov</span></div></td>
-<td align="left" width="436"><h1>
+<tbody><tr valign="top">
 
-<a href="/?lid=1">NT</a>&nbsp;:&nbsp;<a href="/?bid=22">Visiting</a>&nbsp;:&nbsp;<a href="/?bid=3">Website Help</a>&nbsp;:&nbsp;<a href="/?lid=2595" class="crumbleaf">Privacy</a>
+<td height="35" width="149">
+<div class="datebar"><div class="date"><span class="zonewhatson">Sun 24 Jun</span></div></div>
+</td>
 
-</h1></td>
-<td width="155" align="right">
-<div class="functions">
-<a class="normal" title="normal text" href="#" onclick="setActiveStyleSheet('', 1);return false;"><img src="/images/textnorm.gif" width="15" height="14" alt="normal text" border="0"></a>
-<a class="large" title="large text" href="#" onclick="setActiveStyleSheet('Large Text', 1);return false;"><img src="/images/textbg.gif" width="15" height="14" alt="large text" border="0"></a>
-<a class="large" title="larger text" href="#" onclick="setActiveStyleSheet('Larger Text', 1);return false;"><img src="/images/textbg2.gif" width="15" height="14" alt="larger text" border="0"></a>
-<a href="/textonly" title="text only"><img src="/images/textonly.gif" width="15" height="14" alt="text only" border="0"></a>
-<a href="/?lid=2595&amp;tmpl=ntmainprint" title="printer friendly"><img src="/images/printpage.gif" width="15" height="14" alt="printer friendly" border="0"></a>
-<a class="mailafriendlink" href="#" onclick="window.open('/?lid=12506&amp;uri=%2Fprivacy','mailafriend','width=400,height=420,toolbar=no,location=no,directories=no,status=no,menubar=no;scrollbars=no,copyhistory=no,resizable=no,screenx=100,screeny=100,left=100,top=100')"><img src="/images/email.gif" width="15" height="14" alt="e-mail this page to a friend" border="0" title="e-mail this page to a friend"></a>
+<td align="left" width="591" colspan="2">
+<div id="contentbar">
+<div id="crumb"><h1>
+
+<a href="/Homepage%20of%20the%20National%20Theatre%2021993.twl">NT</a>&nbsp;:&nbsp;<a href="/Website%20Help/3.twb">Website Help</a>&nbsp;:&nbsp;<a href="/Privacy%202595.twl" class="crumbleaf">Privacy</a>
+
+</h1></div>
+<div id="searchbox"><form method="get" action="/?" name="search" id="search" onsubmit="return checkSearch(this,'');">
+       <input type="text" name="query" value="" maxlength="50" class="searchBoxinput" onfocus="clearBox(this.form,'');" onblur="fillBox(this.form,'');" size="30"><input type="hidden" name="lid" value="16254"><button type="submit" name="go" class="searchSubmit">search</button></form>
+</div>
+
+<div id="toolkit"><div class="toolitem txtdefault"><a href="#" title="default font size" onclick="setfont('maincontent','70%');setfont('homemaincontent','70%');return false;"><span>Default font size</span></a></div>
+<div class="toolitem txtinc"><a href="#" title="increase font size" onclick="increasefont('maincontent',20);increasefont('homemaincontent',20);return false;"><span>Increase font size</span></a></div>
+<div class="toolitem text" title="Text Only"><a href="#" onclick="textonly();return false;"><span>Graphic version</span></a></div>
+<div class="toolitem print" title="Print this page"><a href="http://www.nationaltheatre.org.uk/?lid=2595&amp;tmpl=ntmainprint"><span>Print this page</span></a></div>
+<div class="toolitem mail" title="Email this page"><a href="#" onclick="window.open('/?lid=12506&amp;uri=%2F','mailafriend','width=400,height=420,toolbar=no,location=no,directories=no,status=no,menubar=no;scrollbars=no,copyhistory=no,resizable=no,screenx=100,screeny=100,left=100,top=100')"><span>Mail a friend</span></a></div></div>
+
 </div>
 </td>
 </tr>
 
 <tr valign="top">
 <td class="leftmenu">
-<ul class="namedmenu"><!--22 3 --><li class="itemstyle"><a href="/?bid=22">National Theatre</a></li>
-<!--23 3 --><li class="itemstyle"><a href="/?bid=23">How to get here</a></li>
-<!--28 3 --><li class="itemstyle"><a href="/?bid=28">Disability Access</a></li>
-<!--30 3 --><li class="itemstyle"><a href="/?bid=30">Food &amp; Drink</a></li>
-<!--31 3 --><li class="itemstyle"><a href="/?bid=31">Backstage Tours</a></li>
-<!--29 3 --><li class="itemstyle"><a href="/?bid=29">Bookshop</a></li>
-<!--179 3 --><li class="itemstyle"><a href="/?bid=179">Functions &amp; Private Hire</a></li>
-<!--25 3 --><li class="itemstyle"><a href="/?bid=25">Contact Details</a></li>
-<!--218 3 --><li class="itemstyle"><a href="/?bid=218">Hire Department</a></li>
-<!--33 3 --><li class="itemstyle"><a href="/?bid=33">Three theatres</a></li>
-<!--34 3 --><li class="itemstyle"><a href="/?bid=34">Virtual Tours</a></li>
-<!--84 3 --><li class="itemstyle"><a href="/?bid=84">Press Office</a></li>
-<!--24 3 --><li class="itemstyle"><a href="/?bid=24">Links</a></li>
-<!--27 3 --><li class="itemstyle"><a href="/?bid=27">FAQs</a></li>
-<li class="selecteditemstyle"><a href="/?bid=3">Website Help</a></li>
-</ul></td>
+
+
+<ul class="namedmenu"><!--22 3 --><li class="itemstyle"><a href="/National%20Theatre/22.twb">National Theatre</a></li>
+<!--23 3 --><li class="itemstyle"><a href="/How%20to%20get%20here/23.twb">How to get here</a></li>
+<!--28 3 --><li class="itemstyle"><a href="/Disability%20Access/28.twb">Disability Access</a></li>
+<!--30 3 --><li class="itemstyle"><a href="/Food%20%26amp%3B%20Drink/30.twb">Food &amp; Drink</a></li>
+<!--31 3 --><li class="itemstyle"><a href="/Backstage%20Tours/31.twb">Backstage Tours</a></li>
+<!--29 3 --><li class="itemstyle"><a href="/Bookshop/29.twb">Bookshop</a></li>
+<!--179 3 --><li class="itemstyle"><a href="/Functions%20%26amp%3B%20Private%20Hire/179.twb">Functions &amp; Private Hire</a></li>
+<!--218 3 --><li class="itemstyle"><a href="/Hire%20Department/218.twb">Hire Department</a></li>
+<!--25 3 --><li class="itemstyle"><a href="/Contact%20Details/25.twb">Contact Details</a></li>
+<!--33 3 --><li class="itemstyle"><a href="/Three%20theatres/33.twb">Three theatres</a></li>
+<!--34 3 --><li class="itemstyle"><a href="/Virtual%20Tours/34.twb">Virtual Tours</a></li>
+<!--24 3 --><li class="itemstyle"><a href="/Links/24.twb">Links</a></li>
+<li class="selecteditemstyle"><a href="/Website%20Help/3.twb">Website Help</a>
+</li></ul>
+<!--podcastmenu-->
+
+
+
+</td>
 
 <td>
-<div class="maincontent">
+<div id="maincontent">
+
 
 
 The National Theatre - Privacy Policy
 
 <p></p>
+
 
 <b>1. Privacy commitment </b>
 <br>The nationaltheatre.org.uk website is owned and operated by The National Theatre. We are committed to safeguarding your privacy online and to this end have developed the following Privacy Policy to deal with issues which may concern you. Please read the Privacy Policy to understand how your personal information will be treated. This policy may change from time to time so please check it periodically. <p></p>
@@ -477,7 +216,7 @@ The Personal Information you supply when you join one of our e-mail lists will b
 3.3 We do not normally link IP addresses to anything personally identifiable, which means that you remain anonymous even though we include your IP address in our aggregate information. However, we can and will attempt to use IP addresses to identify a user when we feel it is necessary to enforce compliance with our terms and conditions, or to protect our services and other users.<p></p>
 
 <br><b>4. Cookies</b>
-<br>Cookies are small pieces of information that are stored by your browser on your computer's hard drive. They make it possible for us to provide our online ticketing service.  <p></p>
+<br>Cookies are small pieces of information that are stored by your browser on your computer's hard drive. They make it possible for us to provide our online ticketing service and track visitor statistics, such as returning visitors.  <p></p>
 For more information on cookies, please visit:
 <br><a href="http://www.google.co.uk/search?hl=en&amp;q=cookies" class="url" target="_blank">www.google.co.uk/search?hl=en&amp;q=cookies</a>
 <br><a href="http://www.cookiecentral.com/faq/" class="url" target="_blank">www.cookiecentral.com/faq/</a>
@@ -530,7 +269,9 @@ For more information on cookies, please visit:
 
 <!-- SITEMAP -->
 
-<!-- ASSETS FOR PODCASTING -->
+<!-- PODCAST LISTING -->
+
+
 
 <!-- ATTACHMENTS -->
 
@@ -553,7 +294,7 @@ For more information on cookies, please visit:
 
 
 
-<p></p><span class="listitemgryheader">IN THIS SECTION</span><ul class="leaflist"><!--title--><li class="listitemgry"><a href="/?lid=3361" class="listitemgrytitle"><span>Website help</span></a></li><!--title--><li class="listitemgry"><a href="/?lid=4" class="listitemgrytitle"><span>About this site</span></a></li><!--title--><li class="listitemgry"><a href="/?lid=19967" class="listitemgrytitle"><span>What is RSS</span></a></li><!--title--><li class="listitemgry"><a href="/?lid=7" class="listitemgrytitle"><span>Sitemap</span></a></li><!--title--><li class="listitemgry"><a href="/?lid=5" class="listitemgrytitle"><span>Terms and Conditions</span></a></li><!--title--><li class="selected"><a href="/?lid=2595" class="selectedtitle"><span>Privacy</span></a></li></ul><p></p>
+<p></p><span class="listitemgryheader">IN THIS SECTION</span><ul class="leaflist"><!--title--><li class="listitemgry"><a href="/Website%20help%203361.twl" class="listitemgrytitle"><span>Website help</span></a></li><!--title--><li class="listitemgry"><a href="/About%20this%20site%204.twl" class="listitemgrytitle"><span>About this site</span></a></li><!--title--><li class="listitemgry"><a href="/What%20is%20RSS%2019967.twl" class="listitemgrytitle"><span>What is RSS</span></a></li><!--title--><li class="listitemgry"><a href="/Sitemap%207.twl" class="listitemgrytitle"><span>Sitemap</span></a></li><!--title--><li class="listitemgry"><a href="/Terms%20and%20Conditions%205.twl" class="listitemgrytitle"><span>Terms and Conditions</span></a></li><!--title--><li class="selected"><a href="/Privacy%202595.twl" class="selectedtitle"><span>Privacy</span></a></li></ul><p></p>
 <!--?=$data['righthandlogin']?-->
 <div class="rightlogin">
       <!-- leaffield: righthandlogin -->
@@ -587,7 +328,7 @@ if (!navigator.cookieEnabled) {
 <!--footer-->
 <table cellpadding="0" cellspacing="0" border="0" width="740">
 <tbody><tr valign="middle" class="footer">
-<td class="footerleft" width="148"><div><a href="./">© National Theatre 2006</a></div></td>
+<td class="footerleft" width="148"><div><a href="./">© National Theatre 2007</a></div></td>
 <td class="footermain"><div>
 
 <ul class="footerlinks"><li><a href="/termsandconditions">T&amp;Cs</a>::</li>
@@ -608,7 +349,12 @@ if (!navigator.cookieEnabled) {
 <noscript><img src="https://tracking.summitmedia.co.uk/tracking/log.php?id=851398812&loc=LandPage&domain=nationaltheatre.org.uk" border="0" width="1" height="1"></noscript>
 <!-- ^^^ SUMMIT MEDIA LANDING PAGE CODE 3.0 ^^^ -->
 
-
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-709749-2";
+urchinTracker();
+</script>
 <!-- end footer table -->
 </div>
 
@@ -618,6 +364,10 @@ if (!navigator.cookieEnabled) {
 
 
 
-<!--<font style="{font-size:8;font-color:#cccccc}">
-PCE:0.001606
-270 db queries in 0.668049 seconds</font>--></body></html>
+<!--
+PCE:0.00161
+274 db queries in 0.699579 seconds-->
+
+<!--
+PCE:0.001717
+1 db queries in 0.01389 seconds--></body></html>
