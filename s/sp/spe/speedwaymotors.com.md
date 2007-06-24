@@ -1,19 +1,20 @@
-> *The following text is extracted and transformed from the speedwaymotors.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206014346id_/http%3A//www.speedwaymotors.com/smi_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedwaymotors.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624120110id_/http%3A//www.speedwaymotors.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Speedway Motors Privacy and Security Policy
+# Speedway Motors Privacy Policy
 
+  
   
 This statement discloses the privacy practices for www.speedwaymotors.com. The statement does not include the privacy practices for partnered sites. We encourage our users who visit external sites from links within speedwaynotors.com to read the privacy statements of those sites as their privacy practices may differ from ours.
 
 If you have questions or concerns regarding this statement you should first contact us via Customer Service 
 
-[_email_](http://www.speedwaymotors.com/smi_customerservice.aspx) or by calling 800.979.0122. If you prefer to write us our postal address is:
+[_email_](https://web.archive.org/ContactUs.aspx) or by calling 800.979.0122. If you prefer to write us our postal address is:
 
 Speedway Motors, Inc.  
 340 Victory Lane  
 Lincoln, NE 68528
 
-[ _email Customer Service_](http://www.speedwaymotors.com/smi_customerservice.aspx)
+[ _email Customer Service_](https://web.archive.org/ContactUs.aspx)
 
 Speedway Motors has taken numerous precautions to guard your security while making purchases online in order to make you feel comfortable and secure. Our goal is to make you feel as comfortable shopping here as you would from our catalog or retail showroom. 
 
@@ -49,7 +50,7 @@ Speedway Motors, Inc.
 340 Victory Lane  
 Lincoln, NE 68528
 
-[ _email Customer Service_](http://www.speedwaymotors.com/smi_customerservice.aspx)
+[ _email Customer Service_](https://web.archive.org/ContactUs.aspx)
 
 _**What information will be disclosed if required by law?**_  
 If required by law, we may provide any and all information we have about you to law enforcement or other government agencies, pursuant to a subpoena, warrant, or other order by a court of competent jurisdiction. In all cases, we will require written documentation of the request, proof of the identity of the law enforcement official making the request, and we will take steps to authenticate the validity of the request. Any law enforcement or government agency request submitted with less than a court-issued order will be evaluated on a case-by-case basis according to the need and urgency as well as the particular law enforcement agency making the request.
@@ -62,7 +63,7 @@ _
 **What choices are available to you regarding the collection, use and distribution of the information and how you can correct any inaccuracies in information?** _   
 If you do not want to receive email from us in the future, please let us know by calling, sending an email, or by writing to us at the above postal address and telling us that you do not want to receive email from our company.
 
-If you provide us with your email address, you may receive messages about your order status, issues regarding the operations of this website, and messages from subsidiaries of Speedway Motors and other companies with operational relationships to Speedway Motors. You may modify your email preferences by calling 800.979.0122 or if you are a registered member at speedwaymotors.com you may change them in the "My Account" section by clicking 
+If you provide us with your email address, you may receive messages about your order status, issues regarding the operations of this website, and messages from subsidiaries of Speedway Motors and other companies with operational relationships to Speedway Motors. You may modify your email preferences by calling 800.979.0122 or if you have an account at speedwaymotors.com you may change them in the "My Account" section by clicking 
 
 [_here_](http://www.speedwaymotors.com/login.aspx).
 
@@ -88,10 +89,8 @@ Lincoln, NE 68528
 
 If you have any further question regarding your online security, please contact us at 800.979.0122 or 
 
-[_email Customer Service_](http://www.speedwaymotors.com/smi_customerservice.aspx).
+[_email Customer Service_](https://web.archive.org/ContactUs.aspx).
 
 **Children**
 
 In accordance with federal law, we do not knowingly collect personally identifiable information from children under age 13 without the verifiable permission of a parent or guardian. If you are under age 13, you are welcome to browse our website. However you are not permitted to use any of the features of our site that require the collection of any personally identifiable information. If we determine that we have erroneously collected a child's information, we will immediately undertake to delete that data from our records. 
-
-| 
