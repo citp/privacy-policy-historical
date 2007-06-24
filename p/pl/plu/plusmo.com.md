@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the plusmo.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018192243id_/http%3A//plusmo.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plusmo.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624170554id_/http%3A//plusmo.com/about/privacy.shtml) for the most accurate reproduction.*
 
-# Plusmo - Privacy Policy
+# Plusmo Mobile Widget Gallery
 
-##  Privacy Policy 
+Privacy Policy 
 
-We take your privacy very seriously. Information you share with us is used for Plusmo's business purposes. Plusmo is not in the business of selling information about you. This notice tells you what information we collect, steps we take to protect and secure it, how we use and share the information, and finally, how you can contact us with questions or concerns. 
+We take your privacy very seriously. Information you share with   
+us is used for Plusmo's business purposes. Plusmo is not in   
+the business of selling information about you. This notice tells   
+you what information we collect, steps we take to protect and secure it, how we use and share the information, and finally, how you can contact us with questions or concerns. 
 
 #### Information We Collect
 
