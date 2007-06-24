@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the ugoto.com privacy policy that was archived on 2006-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060508185921id_/http%3A//www.ugoto.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ugoto.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624182915id_/http%3A//www.ugoto.com/privacy) for the most accurate reproduction.*
 
-# uGoto.com: Funny Videos, Flash Games, Cartoons, Jokes, Humor, Links, News
-
-### Privacy Policy 
-
-* * *
+# Privacy Policy
 
 We respect your privacy, and we want you to feel comfortable using the uGoto web site. Therefore, we are providing you with this privacy policy so you can better understand how we collect information about you, what we do with your information, and who, other than uGoto.com may also receive your information. 
 
-LogicStart, LLC. d/b/a uGoto.com does collect certain personally identifiable information that may be used to provide you with customized services, content, networking opportunities, industry information and/or advertisements. Personally identifiable information is collected when you register to receive certain uGoto.com services, products or offers. uGoto.com may also request personally identifiable information when the user elects to participate in other uGoto.com affiliated or sponsored programs, including, but not limited to, sweepstakes, contests, and/or other such promotions.
+uGoto LLC does collect certain personally identifiable information that may be used to provide you with customized services, content, networking opportunities, industry information and/or advertisements. Personally identifiable information is collected when you register to receive certain uGoto.com services, products or offers. uGoto.com may also request personally identifiable information when the user elects to participate in other uGoto.com affiliated or sponsored programs, including, but not limited to, sweepstakes, contests, and/or other such promotions.
 
 The uGoto.com site provides users the opportunity to opt out of receiving communications from us. Users may unsubscribe from our email newsletter if they wish to no longer receive communications. You may unsubscribe from newsletter mailings at anytime by following the directions on the bottom of the e-mail sent to you or by contacting us directly for help. 
 
@@ -20,8 +16,35 @@ Personally identifiable information also may be disclosed to the proper authorit
 
 We reserve the right to change our privacy policy at any time by posting revisions on the uGoto.com web site. This privacy policy is not intended to, and does not create any contractual or other legal rights in or on behalf of any party.
 
-[
+| 
 
-### _Sign Up for Our Daily Newsletter_
+## Today's Top Sites
 
-](http://mailinglist.ugoto.com/)
+|   
+  
+---  
+[Rate hot girls!](https://web.archive.org/promote/track.php?id=1534)  
+[Hot Sexy TV](https://web.archive.org/promote/track.php?id=1524)  
+[Shocking Videos](https://web.archive.org/friends/out/480/ "http://www.humoron.com")  
+[motata video](https://web.archive.org/friends/out/5250/ "http://www.motata.net")  
+[Video Search](https://web.archive.org/friends/out/356/ "http://www.flurl.com")  
+[Hot Sexy Videos](https://web.archive.org/friends/out/4987/ "http://www.lemonzoo.com")  
+[Crazy Videos](https://web.archive.org/friends/out/942/ "http://jokes-time.com/")  
+[Tons of Videos](https://web.archive.org/friends/out/569/ "http://www.yourfilehost.com")  
+[Naughty Videos](https://web.archive.org/friends/out/2282/ "http://needlaugh.com")  
+[Sexy Vids & Pic](https://web.archive.org/friends/out/3374/ "http://funnypictures.tv")  
+[Hot Video Links](https://web.archive.org/friends/out/5056/ "http://www.hotlinkspace.com")  
+[Yikers Videos](https://web.archive.org/friends/out/316/ "http://yikers.com/")  
+[ **add your site**](https://web.archive.org/friends/signup.php)  
+[ **more cool sites**](https://web.archive.org/friends/)  
+ [ **Submit**](https://web.archive.org/submit "Free Media Uploads")      [Vote on Media](https://web.archive.org/submitted/latest/ "Vote on Submitted Media")      Join Chat     **Did You Know**? Ostrich racing is a popular sport in South Africa \- [view more](https://web.archive.org/randomfacts)
+
+## Other Cool Videos
+
+[](https://web.archive.org/friends/out/1773/ "http://www.pagez.co.uk")[](https://web.archive.org/friends/out/4739/ "http://www.davesdaily.com")[](https://web.archive.org/friends/out/356/ "http://www.flurl.com")[](https://web.archive.org/friends/out/5250/ "http://www.motata.net")[](https://web.archive.org/friends/out/480/ "http://www.humoron.com")  
+Trade traffic? Sign up and start sending traffic. We will send 1:1 back via the random rotation plugs above. The more hits you send the more hits you will get back. [**Sign up**](https://web.archive.org/friends/signup.php) if you are interested in trading permanent plug.
+
+## User Statistics
+
+  
+[ **view more member rankings**](https://web.archive.org/members/)
