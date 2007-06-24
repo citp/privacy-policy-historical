@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adspeed.com privacy policy that was archived on 2006-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061201121050id_/http%3A//www.adspeed.com/index.php%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adspeed.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624164617id_/http%3A//www.adspeed.com/index.php%3Fprivacy) for the most accurate reproduction.*
 
-# AdSpeed.com | High Performance Ad Servers
+# AdSpeed.com - High Performance Ad Servers
 
 AdSpeed.com has created this privacy statement in order to demonstrate our commitment to privacy. The following discloses the information gathering and dissemination practices for AdSpeed.com   
 **  
