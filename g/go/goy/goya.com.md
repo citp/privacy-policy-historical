@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the goya.com privacy policy that was archived on 2006-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061029002205id_/http%3A//www.goya.com/english/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goya.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625013724id_/http%3A//www.goya.com/english/privacy.html) for the most accurate reproduction.*
 
 # Goya Foods - Privacy Policy
 
-|  | The largest Hispanic-owned food company in the United States, Goya employs more than 2,000 people worldwide. As evidence of the success of Goya Foods, Inc., today it operates more than 13 facilities throughout the U.S., Caribbean and Europe. Goya is dedicated to providing high-quality food and beverage products that meet and exceed the needs of its customers and their privacy on the Goya Foods website.
+The largest Hispanic-owned food company in the United States, Goya employs more than 2,000 people worldwide. As evidence of the success of Goya Foods, Inc., today it operates more than 13 facilities throughout the U.S., Caribbean and Europe. Goya is dedicated to providing high-quality food and beverage products that meet and exceed the needs of its customers and their privacy on the Goya Foods website.
 
 **INFORMATION COLLECTION**  
 Any information collected by Goya Foods Inc. will be used only by Goya Foods Inc. to improve our products, services, and our website. Goya Foods Inc. also may direct website visitors to websites operated by third parties, though Goya Foods Inc. does not guarantee the security of any personal information disclosed on those sites.
@@ -24,12 +24,10 @@ Goya Foods Inc. ensures data quality, such as the accuracy of information obtain
 Access to information is kept by Goya Foods Inc. and is strictly controlled.
 
 **CONTACT INFORMATION - QUESTIONS & COMPLAINTS**  
-Any questions or complaints about [www.goya.com](http://www.goya.com/) or this privacy statement can be resolved by contacting Goya Foods Inc. at [info@goya.com](mailto:info@goya.com) or [www.goya.com](http://www.goya.com/).
+Any questions or complaints about [www.goya.com](http://www.goya.com/) or this privacy statement can be resolved by contacting Goya Foods Inc. at [websupport@goya.com](mailto:websupport@goya.com) or [www.goya.com](http://www.goya.com/).
 
 You may call us at 201-348-4900.  
 Please address all mail to:  
 100 Seaview Drive  
 Secaucus, NJ 07096  
 
-
-| 
