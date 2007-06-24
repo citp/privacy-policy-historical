@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irantalent.com privacy policy that was archived on 2006-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061115190232id_/http%3A//www.irantalent.com/home/cntPrivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irantalent.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624100526id_/http%3A//www.irantalent.com/home/cntPrivacy.php) for the most accurate reproduction.*
 
 # Iran Talent.com: Middle East Jobs
 
