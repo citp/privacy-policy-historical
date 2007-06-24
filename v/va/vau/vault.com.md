@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vault.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230164816id_/http%3A//vault.com/admin2/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vault.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624022454id_/http%3A//www.vault.com/admin2/privacypolicy.jsp) for the most accurate reproduction.*
 
 # Vault, Inc: Privacy Policy
 
@@ -101,7 +101,7 @@ Users who utilize our 1-click job posting service must fill out billing informat
 9) Free product information  
 Users who request to receive information from the vendors listed in our free product information area are asked for contact information that is sent to the vendors, including e-mail and mailing address.
 
-**V. Surveys and Sweepstakes**  
+10) Throughout the web site, including message board postings, we collect your IP address. **V. Surveys and Sweepstakes**  
 Occasionally, Vault may conduct surveys in order to better deliver advertisements and content and to better understand your needs relating to the Services. We will not share your survey information with any third party, except in aggregate form. In addition, if and when we sponsor sweepstakes or other promotions, or third parties sponsor such promotions in conjunction with us, either we or the third party will post relevant privacy information in the official rules and/or registration area for the sweepstakes or promotion. That privacy information, to the extent it conflicts with this Policy, will govern that particular promotion or sweepstakes - please remember to read it carefully. These surveys and sweepstakes are always optional.
 
 **VI. Public Forums**  
