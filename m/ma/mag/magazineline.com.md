@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magazineline.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217223100id_/http%3A//www.magazineline.com/magazineline/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magazineline.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624044232id_/http%3A//www.magazineline.com/magazineline/privacypolicy.htm) for the most accurate reproduction.*
 
 # Magazineline - America's First Choice Magazine Store Since 1974
 
@@ -16,12 +16,12 @@
   [Duplicate Issue](http://server.iad.liveperson.net/hc/s-59889743/web/ticketpub/msgcontroller.jsp?surveyname=Duplicates%20ML)  
   [Magazine Request](http://server.iad.liveperson.net/hc/s-59889743/web/ticketpub/msgcontroller.jsp?surveyname=Magazine%20Request%20ML)  
   [Missing Issues](http://server.iad.liveperson.net/hc/s-59889743/web/ticketpub/msgcontroller.jsp?surveyname=Missing%20ML)  
-  [Submit a Payment](https://web.archive.org/web/20061217223100id_/http%3A//www.magazineline.com/magazineline/Search.asp?WCI=SecureRedirect&WCE=MyAccount/ACMMyAccount.asp)  
+  [Submit a Payment](https://web.archive.org/web/20070624044232id_/http%3A//www.magazineline.com/magazineline/Search.asp?WCI=SecureRedirect&WCE=MyAccount/ACMMyAccount.asp)  
   [Technical Problems](http://server.iad.liveperson.net/hc/s-59889743/web/ticketpub/msgcontroller.jsp?surveyname=Technical%20Problems%20ML)  
   [Temporary Suspension](http://server.iad.liveperson.net/hc/s-59889743/web/ticketpub/msgcontroller.jsp?surveyname=Temporary%20Suspension%20ML)  
   [Wrong Expiration Date](http://server.iad.liveperson.net/hc/s-59889743/web/ticketpub/msgcontroller.jsp?surveyname=Wrong%20Expiration%20Date%20ML)
 
- [Frequently Asked Questions](https://web.archive.org/web/20061217223100id_/http%3A//www.magazineline.com/magazineline/customerservice.htm)  
+ [Frequently Asked Questions](https://web.archive.org/web/20070624044232id_/http%3A//www.magazineline.com/magazineline/customerservice.htm)  
    
  Magazineline  
  4440 Hagadorn Road  
@@ -72,10 +72,10 @@
 
  To read more about our  
  Privacy and Security policies,  
- [click here](https://web.archive.org/web/20061217223100id_/http%3A//www.magazineline.com/magazineline/privacypolicy.htm).  
+ [click here](https://web.archive.org/web/20070624044232id_/http%3A//www.magazineline.com/magazineline/privacypolicy.htm).  
   
   
-[](https://web.archive.org/web/20061217223100id_/http%3A//www.magazineline.com/magazineline/specialoffers.htm)  
+[](https://web.archive.org/web/20070624044232id_/http%3A//www.magazineline.com/magazineline/specialoffers.htm)  
 [](https://web.archive.org/haupt/Category/GiftFinder.aspx?SiteID=26)  
   | 
 
@@ -92,7 +92,7 @@
 > 
 > When you place an order with us or enter contests or giveaways, you provide such personal information as: 
 >
->> · First and last name  
+>> · Full name  
 >  · Billing and/or shipping address  
 >  · Email Address  
 >  · Phone number(s)  
@@ -115,6 +115,8 @@
 >  When you place an order, your name and address, and the name and address of any gift recipients, is sent to each of the publishers of the magazines you ordered so that they can fulfill your subscriptions. We do not pass along your phone number or billing information, however we may pass along your email address. You can contact the publishers directly for information on how they use their data.
 > 
 > We never sell or rent your email address to anyone. From time to time we may make our customer phone and postal mailing list available to other reputable organizations whose products or services we think you might find interesting. All Magazineline.com customers are given the opportunity to opt-out of receiving these offers by calling our Customer Service department at (800) YOU-READ and requesting to opt-out of third party solicitations. 
+> 
+> In addition, we may present offers to you from third party partners and may share certain information about you with those partners, provided however, we will not share any personally identifiable information with our third party partners without your consent.
 > 
 >   
 >  **Our Commitment to Children's Privacy**  
@@ -144,6 +146,6 @@ Our Security Pledge
 >  **Prefer to Order Via Phone?  
 >  **Of course, it is no problem if you prefer to place your subscription order by phone, mail, or fax. To order by phone simply call our toll-free sales number: (800) 959-1676. Someone will be there to answer your call twenty-four hours a day, seven days a week. 
 > 
-> You may also contact us by mail or fax. [Click here](https://web.archive.org/web/20061217223100id_/http%3A//www.magazineline.com/magazineline/contactus.htm) to view our address and other relevant contact information.
+> You may also contact us by mail or fax. [Click here](https://web.archive.org/web/20070624044232id_/http%3A//www.magazineline.com/magazineline/contactus.htm) to view our address and other relevant contact information.
 > 
 > Back to Top
