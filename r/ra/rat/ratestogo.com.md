@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratestogo.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231204950id_/http%3A//ratestogo.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratestogo.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624202516id_/http%3A//www.ratestogo.com/privacy.asp) for the most accurate reproduction.*
 
 # RatesToGo.com - Privacy & Security
 
