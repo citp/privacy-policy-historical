@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the vbskinworks.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016221747id_/http%3A//vbskinworks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vbskinworks.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624025057id_/http%3A//vbskinworks.com/privacy.php) for the most accurate reproduction.*
 
-# :::vBSkinworks - Custom vBulletin Skins:::
+# vBSkinworks - Custom vBulletin Skins, Styles and more
 
+---  
   
-|  |   
+Warning!!! To view this title please enable JavaScript and Flash!   
   
+  
+|  | 
+
 **     Privacy Statement**  
   
 ---  
@@ -67,12 +71,14 @@ You are the best!!!! Thank you so so much! Boy, am I glad I went with VBSkinwork
 |   
 ---  
   
-  
-**[ October '06 ]**  
-All of our designs have been upgraded to the newest vBulletin versions, 3.6.2 and 3.5.5. You will receive both versions on most all styles with one purchase! 
+**[ May '07 ]**  
+vBSkinworks is pleased to announce the acquisition of [Uniquebee](http://www.uniquebee.com/), a a video and image sharing system. It is simple, yet powerful. It allows users to upload videos, submit video codes (like YouTube.com), upload images and share them. We will be looking into the feasibility of integrating it with vBulletin soon! 
+
+**[ May '07 ]**  
+All of our designs have been upgraded to the newest vBulletin version, 3.6.7. 
 
 **[ October '06 ]**  
-We are pleased to announce the opening of our **Premium Subscribers Area** on the forums. Those who own vBSkinworks licenses are eligible to subscribe to this area for **$20 a year** to gain access to styles, graphics and flash addons that will not be offered to the general public. This is a tremendous value on top of our outstanding public offers! 
+We are pleased to announce the opening of our **Premium Subscribers Area** on the forums. Those who own vBSkinworks licenses are eligible to subscribe to this area for **$50 a year** to gain access to styles, graphics and flash addons that will not be offered to the general public. This is a tremendous value on top of our outstanding public offers! 
 
 Custom Services  
 In order to provide you with a more "unique" product we are offering customization services for your purchase.
@@ -90,7 +96,7 @@ In order to provide you with a more "unique" product we are offering customizati
 | 
 
   
-Copyright© 2005-2006, Pixel Neck Geeks, LLC :: All Rights Reserved.
+Copyright© 2005-2007, Pixel Neck Geeks, LLC :: All Rights Reserved.
 
 |   
 ---|---
