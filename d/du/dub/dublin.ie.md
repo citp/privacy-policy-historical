@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dublin.ie privacy policy that was archived on 2006-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061126195225id_/http%3A//www.dublin.ie/default.aspx%3Fid%3D84) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dublin.ie privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624135826id_/http%3A//www.dublin.ie/privacy-policy.htm) for the most accurate reproduction.*
 
-# Dublin.ie
+# Privacy Policy - Dublin.ie
 
 dublin.ie has created this privacy statement to demonstrate our firm commitment to privacy.
 
