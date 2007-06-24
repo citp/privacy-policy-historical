@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the marchofdimes.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215092206id_/http%3A//www.marchofdimes.com/aboutus/about_4076.asp%3Flink%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marchofdimes.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624051832id_/http%3A//www.marchofdimes.com/aboutus/about_4076.asp%3Flink%3Dfooter) for the most accurate reproduction.*
 
 # About Us: March of Dimes Privacy Policy & Your Privacy Rights
 
   |  March of Dimes Privacy Policy & Your Privacy Rights  
   
-
-
 Effective December 5, 2005
 
-Privacy Policy Table of Contents
+Privacy Policy Table of Contents 
 
 Introduction  
 Contact Information, Accessing and Correcting Your Personal Information  
