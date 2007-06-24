@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the translatorsbase.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231173503id_/http%3A//translatorsbase.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the translatorsbase.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624133201id_/http%3A//translatorsbase.com/privacy.asp) for the most accurate reproduction.*
 
 # Translators, Translation Services, Translation Jobs - Translatorsbase.com
 
