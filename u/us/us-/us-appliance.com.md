@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the us-appliance.com privacy policy that was archived on 2006-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061123121221id_/http%3A//us-appliance.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the us-appliance.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624132020id_/http%3A//www.us-appliance.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering sys
 
 [](http://www.truste.org/ivalidate.php?url=www.us-appliance.com&sealid=101)
 
-**Privacy Statement for US Appliance** (last updated 10/24/2005)
+**Privacy Statement for US Appliance** (last updated 03/07/2007)
 
 US Appliance is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for www.us-appliance.com. TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of:  
 1\. What personally identifiable information of yours or third party personally identification is collected from you through the web site  
@@ -30,7 +30,11 @@ Our site uses an order form for customers to purchase products. We collect visit
 
 Your information will only be used to contact you regarding your order, payment and delivery. You will not receive any other solicitations from US-Appliance, or any other parties that have access to your information as outlined above. If you wish to change or update personal information previously provided to our site, please email us at [help@us-appliance.com](mailto:sales@us-appliance.com) with your changes and we will update our records. If our privacy practices change in the future you will be contacted via email for your replied consent prior to using it in a manner different than outlined in this statement. Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Order information is received via SSL encryption protected lines. Received information is stored on secure computers, or in paper invoice form, in locked locations. Your information is only available to user ID authorized employees with electronic access. Hard copy information such, as invoices, is only available to employees directly involved in processing your order. Our site under goes an annual security assessment, and all employees are routinely consoled to maintain strict information controls. We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our Web site.
+The ordering information you provide - including credit card information - is secured using Secure Sockets Layer (SSL) encryption technology via Yahoo! servers. Yahoo! uses SSL (Secure Socket Layer) encryption when transmitting certain kinds of information, such as financial services information or payment information. An icon resembling a padlock is displayed on the bottom of most browsers window during SSL transactions that involve credit cards and other forms of payment. Any time a Yahoo! asks for a credit card number during checkout for payment, it will be SSL encrypted. The information you provide will be stored securely on Yahoo!’s servers. This SSL technology is used to prevent such information from being intercepted and read as it is transmitted over the Internet.
+
+We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our Web site.
+
+This Web site contains links to other sites that are not owned or controlled by US-Appliance.com. Please be aware that we, US-Appliance are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies only to information collected by this Web site.
 
 A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. We use persistent cookies which remain on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. We set a persistent cookie to store your passwords, so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited. Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies.
 
@@ -43,4 +47,6 @@ Attn: General Manager
 Orion, MI 48359  
 help@us-appliance.com
 
-If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe through the [TRUSTe WatchDog Dispute Resolution Process](http://www.truste.org/consumers/watchdog_complaint.php).
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+We reserve the right to modify this privacy statement at any time. If we make material changes to this policy, we will notify you here and by email.
