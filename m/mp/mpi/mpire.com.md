@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mpire.com privacy policy that was archived on 2006-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060702113556id_/http%3A//www.mpire.com/buyer/privacyPolicy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpire.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625011757id_/http%3A//www.mpire.com/corporate/privacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[](http://www.truste.org/ivalidate.php?url=www.mpire.com&sealid=101)
 
 **Mpire Corporation - Privacy Policy**
 
@@ -54,7 +56,7 @@ Mpire does not guarantee error-free performance under this Privacy Policy. Mpire
 **Forums**  
 If you use a bulletin board or chat room on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
 
-Mpire is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build userÂ's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site mpire.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+Mpire is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build userÃ‚'s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site mpire.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
 If you have questions or concerns regarding this statement, you should first contact Gary Kamikawa at [info@mpire.com](mailto:info@mpire.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
 
