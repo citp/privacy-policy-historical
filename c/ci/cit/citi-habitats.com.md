@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citi-habitats.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205201357id_/http%3A//citi-habitats.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citi-habitats.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624095830id_/http%3A//www.citi-habitats.com/privacy.html) for the most accurate reproduction.*
 
 # Citi-Habitats Privacy Policy is designed to keep your information confidential
 
@@ -63,9 +63,9 @@ The security of all information associated with Our Users is an important concer
 
 By using Our Web Site, You signify Your agreement to Citi-Habitats’ Privacy Policy. **IF YOU DO NOT AGREE WITH THIS PRIVACY POLICY, PLEASE DO NOT USE THIS WEB SITE**. Your continued use of Citi-Habitats and/or Citi-Habitats-affiliates’ Web sites following the posting of changes to these terms will mean You accept those changes. 
 
-© 1994-2006 Citi Habitats. All Rights Reserved.   
+© 1994-2007 Citi Habitats. All Rights Reserved.   
 Headquarters: Phone 212.685.7777 - Fax 212.674.8501  
 [Other Offices](https://web.archive.org/offices.php) | [Site Map](https://web.archive.org/sitemap.html)  
-[Fair Housing Pledge](https://web.archive.org/media/doc/NRTFairHousingPledge.doc) | [Privacy Policy](https://web.archive.org/privacy.html) | [Terms and Conditions of Use](https://web.archive.org/termsofuse.html)
+[Fair Housing](https://web.archive.org/media/doc/NRTFairHousingPledge.doc) | [Privacy Policy](https://web.archive.org/privacy.html) | [Terms and Conditions of Use](https://web.archive.org/termsofuse.html)
 
 Owned and operated by NRT, Inc. 
