@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the funjet.com privacy policy that was archived on 2006-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061205232847id_/http%3A//www.funjet.com/cs/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the funjet.com privacy policy that was archived on 2007-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070624143545id_/http%3A//www.funjet.com/cs/privacy.asp) for the most accurate reproduction.-->
 
 <html><head><script language="javascript">
 <!--
@@ -7,7 +7,7 @@
 // apppends a query string to the href of a link
 //function appendQS_toLinks()
 function BodyLoadHandler()
-{
+{	
 	var OAC;
 	var plCode;	
 	
@@ -18,6 +18,7 @@ function BodyLoadHandler()
 
 	var i, workString
 	for (i = 0; i < document.forms.length; i++) {
+	
 		workString = document.forms[i].action;
 		if (workString.indexOf("?") != -1) {
 			if (workString.indexOf("plCode") == -1) {
@@ -38,50 +39,61 @@ function BodyLoadHandler()
 
 
 	for (ix = 0; ix < document.links.length; ix++) {
+	
 		workString = document.links[ix].href;
 		
-		//--SDA 7/29/05 - Added Logic to append plCode and OAC to Collage content pages
+				
+		// SDA 7/29/05 - Added Logic to append plCode and OAC to Collage content pages
 		//                Searching for xmlFile in the querystring to determine that we are on a blob page
-		if ((workString.toLowerCase().indexOf("javascript:") == -1)&&(workString.indexOf("mailto:") == -1)&&(workString.indexOf("hotdeals.asp?OAC=") == -1)&&(workString.indexOf("hotdeals_") == -1)&&(workString.indexOf("AirOnlyHotDeals.asp?OAC=") == -1)&&(workString.indexOf("www.vaxvacationaccess.com") == -1)&&(workString.indexOf("www.neugebauertravel.com") == -1)&&(workString.indexOf(".htm") == -1)&&(workString.indexOf(".html") == -1)&&(workString.indexOf("funjet") != -1)) {
+		if ((workString.toLowerCase().indexOf("javascript:") == -1)&&(workString.toLowerCase().indexOf("mailto:") == -1)&&(workString.indexOf("hotdeals.asp?OAC=") == -1)&&(workString.indexOf("hotdeals_") == -1)&&(workString.indexOf("AirOnlyHotDeals.asp?OAC=") == -1)&&(workString.indexOf("www.vaxvacationaccess.com") == -1)&&(workString.indexOf("www.neugebauertravel.com") == -1)&&(workString.indexOf(".htm") == -1)&&(workString.indexOf(".html") == -1)&&(workString.indexOf("IFJ_2.0_Content") != -1)||(workString.indexOf("funjet") != -1)) {
+			if (workString.toLowerCase().indexOf("mailto:") == -1){
 			
 			
+			}
 		}
 		
-		if ((workString.toLowerCase().indexOf("javascript:") == -1)&&(workString.indexOf("mailto:") == -1)&&(workString.indexOf("hotdeals.asp?OAC=") == -1)&&(workString.indexOf("hotdeals_") == -1)&&(workString.indexOf("AirOnlyHotDeals.asp?OAC=") == -1)&&(workString.indexOf("www.vaxvacationaccess.com") == -1)&&(workString.indexOf("www.neugebauertravel.com") == -1)&&(workString.indexOf("#") == -1)&&(workString.indexOf(".htm") == -1)&&(workString.indexOf(".html") == -1)&&(workString.indexOf("funjet") != -1)) {
-
-			if (workString.indexOf("?") != -1) {					
-				if (workString.indexOf("#") != -1) {
-					if (workString.indexOf("#") != 1) {
+		if ((workString.toLowerCase().indexOf("javascript:") == -1)&&(workString.indexOf("mailto:") == -1)&&(workString.indexOf("hotdeals.asp?OAC=") == -1)&&(workString.indexOf("hotdeals_") == -1)&&(workString.indexOf("AirOnlyHotDeals.asp?OAC=") == -1)&&(workString.indexOf("www.vaxvacationaccess.com") == -1)&&(workString.indexOf("www.neugebauertravel.com") == -1)&&(workString.indexOf("#") == -1)&&(workString.indexOf(".htm") == -1)&&(workString.indexOf(".html") == -1)&&(workString.indexOf("IFJ_2.0_Content") != -1)||(workString.indexOf("funjet") != -1)) {
+			if (workString.toLowerCase().indexOf("mailto:") == -1){
+				if (workString.indexOf("?") != -1) {					
+					if (workString.indexOf("#") != -1) {
+						if (workString.indexOf("#") != 1) {
+							end = workString.indexOf("#");
+							bgn = workString.indexOf("#");
+							end2 = workString.length;
+							workStringa = workString.substring(0,end);						
+							workStringb = workString.substring(bgn,end2);						
+							if (workString.indexOf("OAC") == -1) {
+								workStringa = workStringa + "&OAC=" + OAC.substring(0, 3);
+							}						
+							if (workString.indexOf("plCode") == -1) {
+								workStringa = workStringa + "&plCode=" + plCode;
+							}
+							workString = workStringa + workStringb;
+							document.links[ix].href = workString;
+						}					
+					}else{
+						if (workString.indexOf("OAC") == -1) {
+							document.links[ix].href = document.links[ix].href + "&OAC=" + OAC.substring(0, 3);
+						}
+						
+						if (workString.indexOf("plCode") == -1) {
+							document.links[ix].href = document.links[ix].href + "&plCode=" + plCode;
+						}
+						
+					}
+				} else {
+					if (workString.indexOf("#") != -1) {
 						end = workString.indexOf("#");
 						bgn = workString.indexOf("#");
 						end2 = workString.length;
 						workStringa = workString.substring(0,end);
 						workStringb = workString.substring(bgn,end2);
-						workString = workStringa + "&OAC=" + OAC.substring(0, 3) + "&plCode=" + plCode + workStringb;
+						
+						workString = workStringa + "?OAC=" + OAC.substring(0, 3) + "&plCode=" + plCode + workStringb;
 						document.links[ix].href = workString;
-					}					
-				}else{
-					if (workString.indexOf("OAC") == -1) {
-						document.links[ix].href = document.links[ix].href + "&OAC=" + OAC.substring(0, 3);
+					}else{																			
+						document.links[ix].href = document.links[ix].href + "?OAC=" + OAC.substring(0, 3) + "&plCode=" + plCode;	
 					}
-					
-					if (workString.indexOf("plCode") == -1) {
-						document.links[ix].href = document.links[ix].href + "&plCode=" + plCode;
-					}
-					
-				}
-			} else {
-				if (workString.indexOf("#") != -1) {
-					end = workString.indexOf("#");
-					bgn = workString.indexOf("#");
-					end2 = workString.length;
-					workStringa = workString.substring(0,end);
-					workStringb = workString.substring(bgn,end2);
-					
-					workString = workStringa + "?OAC=" + OAC.substring(0, 3) + "&plCode=" + plCode + workStringb;
-					document.links[ix].href = workString;
-				}else{																
-					document.links[ix].href = document.links[ix].href + "?OAC=" + OAC.substring(0, 3) + "&plCode=" + plCode;	
 				}
 			}
 		}
@@ -469,13 +481,10 @@ function insertPlCode(str, thePlCode)
 	return(returnStrHrefWithPlCode);
 }
 
-// END 06/28/06 - Kreis
-
-window.onload = BodyLoadHandler;
-window.onUnload = BodyLoadHandler;
-
 //-->
 </script>
+
+
 
 
 
@@ -486,70 +495,15 @@ window.onUnload = BodyLoadHandler;
 			<meta name="Description" content="At Funjet Vacations, we believe that it is important to protect the privacy of our customers. This privacy policy helps you understand the ways in which your personal information is gathered and used on the www.Funjet.com website.">
 			<meta name="KeyWords" content="privacy policy, information security, child privacy, opt-in, funjet privacy policy, funjet information security">
 		
+<script type="text/javascript" src="http://www.funjet.com/includes/ifj.js"></script>
 <link rel="shortcut icon" href="http://www.funjet.com/favicon.ico">
-<link rel="stylesheet" type="text/css" href="http://www.funjet.com/includes/IFJ_Prod.css">
 
-<!--WEBSIDESTORY CODE HBX1.0 (Universal)-->
-<!--COPYRIGHT 1997-2005 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
-<script language="javascript">
-var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
-var hbx=_hbEvent("pv");hbx.vpc="HBX0100u";hbx.gn="ehg-triseptsoultions.hitbox.com";
+	<link rel="stylesheet" type="text/css" href="http://www.funjet.com/includes/ifj_stylesold.css">
 
-//BEGIN EDITABLE SECTION
-//CONFIGURATION VARIABLES
-hbx.acct="DM5502246FSN98EN3";//ACCOUNT NUMBER(S)
-hbx.pn="privacy.asp";//PAGE NAME(S)
-hbx.mlc="cs";//MULTI-LEVEL CONTENT CATEGORY
-hbx.pndef="privacy.asp";//DEFAULT PAGE NAME
-hbx.ctdef="current";//DEFAULT CONTENT CATEGORY
+<link rel="stylesheet" type="text/css" href="http://www.funjet.com/includes/ifj_positions.css">
+<link rel="stylesheet" type="text/css" href="http://www.funjet.com/includes/ifj_text.css">
 
-//OPTIONAL PAGE VARIABLES
-//ACTION SETTINGS
-hbx.fv="";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
-hbx.lt="auto_pos";//LINK TRACKING
-hbx.dlf="n";//DOWNLOAD FILTER
-hbx.dft="n";//DOWNLOAD FILE NAMING
-hbx.elf="n";//EXIT LINK FILTER
 
-//SEGMENTS AND FUNNELS
-hbx.seg="";//VISITOR SEGMENTATION
-hbx.fnl="";//FUNNELS
-//hbx.lc="T" //lower case variable.
-//CAMPAIGNS
-hbx.cmp="";//CAMPAIGN ID
-hbx.cmpn="";//CAMPAIGN ID IN QUERY
-hbx.dcmp="";//DYNAMIC CAMPAIGN ID
-hbx.dcmpn="";//DYNAMIC CAMPAIGN ID IN QUERY
-hbx.dcmpe="";//DYNAMIC CAMPAIGN EXPIRATION
-hbx.dcmpre="";//DYNAMIC CAMPAIGN RESPONSE EXPIRATION
-hbx.hra="";//RESPONSE ATTRIBUTE
-hbx.hqsr="";//RESPONSE ATTRIBUTE IN REFERRAL QUERY
-hbx.hqsp="";//RESPONSE ATTRIBUTE IN QUERY
-hbx.hlt="";//LEAD TRACKING
-hbx.hla="";//LEAD ATTRIBUTE
-hbx.gp="";//CAMPAIGN GOAL
-hbx.gpn="";//CAMPAIGN GOAL IN QUERY
-hbx.hcn="";//CONVERSION ATTRIBUTE
-hbx.hcv="";//CONVERSION VALUE
-hbx.cp="null";//LEGACY CAMPAIGN
-hbx.cpd="";//CAMPAIGN DOMAIN
-
-//CUSTOM VARIABLES
-hbx.ci="";//CUSTOMER ID
-hbx.hc1="";//CUSTOM 1
-hbx.hc2="";//CUSTOM 2
-hbx.hc3="";//CUSTOM 3
-hbx.hc4="";//CUSTOM 4
-hbx.hrf="";//CUSTOM REFERRER
-hbx.pec="";//ERROR CODES
-
-//INSERT CUSTOM EVENTS
-
-//END EDITABLE SECTION
-
-//REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
-</script><script language="javascript1.1" defer="" src="http://www.funjet.com/webservices/hbx.js"></script>
-<!--END WEBSIDESTORY CODE-->
 
 <script language="JavaScript">
 <!-- Overture Services, Inc
@@ -561,23 +515,39 @@ var pm_customargs = "";
 var pm_querystr = "?" + "ver=" + pm_tagversion + "&aid=" + pm_accountid + pm_customargs;
 var pm_tag = "<SCR" + "IPT LANGUAGE='JavaScript' " + "SRC=//" + pm_scripthost + "/collweb/ScriptServlet" + pm_querystr + "></SCR" + "IPT>";
 document.write(pm_tag);
+
+	//FLASH MAP SETUP begin
+	
+	
+	var strDomain = "http://www.funjet.com/";
+	var address = "http://www.funjet.com/"
+	var Dest = ""
+	var section = ""
+	var strBrowser = navigator.appName;
+	var intHeightIE = 14;
+	var intHeightNetscape = 16;
+	//FLASH MAP SETUP end
+	
+	// check Request.ServerVariables("HTTP_USER_AGENT") to see if this is Firefox 1.0
+	var isFirefox_1_0 = "false";
+	var isFirefox_1_5 = "false";
+	var isIE = "false";
+	var isSafari = "false";
+	
+	
+	
+	// global setting for var used to populate dest dropdown
+	// in AMENITIES GRID
+	var g_aspDest = Dest;
+	var g_aspSiteCode = "IFJ";
+	var g_aspDynamicVendor = "FJV";
 // -->
 </script><script language="JavaScript" src="//srv.perf.overture.com/collweb/ScriptServlet?ver=1.4&amp;aid=C07AVPHD7ILLCM2B78CVG78KJ4"></script>
- 
-
-<script language="javascript">
-function submitpage(TEMPAgent2,zip, TEMPManager3)
-{
-urlname = "http://www.funjet.com/agents/agentprofile.asp?Agent" + '=' + escape(TEMPAgent2)+ '&' + 'zipcode=' + escape(zip) + '&' + 'Manager=' + escape(TEMPManager3);
-location.href = urlname;
-}
-</script> 
 <script language="JavaScript">
 <!--
 //configuration
 OAS_url = 'http://adserver.triseptsolutions.com/RealMedia/ads/';
-//OAS_url = 'http://10.10.6.96/RealMedia/ads/';
-//OAS_sitepage = window.location.hostname + window.location.pathname;
+
 	
 var environment = 'www.funjet.com'
 var url = "" + document.location.href + "";
@@ -627,7 +597,7 @@ if (OAS_version >= 11)
 
 
 //-->
-</script><script language="JavaScript1.1" src="http://adserver.triseptsolutions.com/RealMedia/ads/adstream_mjx.cgi/www.funjet.com/cs/privacy.asp/1560637818@Footer,?_RM_HTML_plCode_=&amp;_RM_HTML_Referrer_="></script><script language="JavaScript">
+</script><script language="JavaScript1.1" src="http://adserver.triseptsolutions.com/RealMedia/ads/adstream_mjx.cgi/www.funjet.com/cs/privacy.asp/1228062350@Footer,?_RM_HTML_plCode_=&amp;_RM_HTML_Referrer_="></script><script language="JavaScript">
 <!--
 document.write('');
 function OAS_AD(pos) {  
@@ -637,125 +607,152 @@ function OAS_AD(pos) {
     OAS_NORMAL(pos);
 }
 //-->
-</script><style media="screen">
-	#nav {
-		width: 407px;
-	 	height: 30px;
-	 	background: url(http://www.funjet.com/images/ifj_navigation.gif);
-	 	margin: 0px 0px 0px 0px;
-		padding: 0px 0px 0px 0px;
-	 	position: relative;
-	}
-	#nav li {margin: 0; padding: 0; list-style: none; position: absolute; top: 0;}
-	
-	#nav li, #nav a {height: 30px; display: block;}
-	#panel1nav {left: 0; width: 57px;}
-	#panel2nav {left: 57px; width: 100px;}
-	#panel3nav {left: 157px; width: 61px;}
-	#panel4nav {left: 218px; width: 79px;}
-	#panel5nav {left: 297px; width: 110px;}
-	
-	#panel1nav a:hover {background: transparent url(http://www.funjet.com/images/ifj_navigation.gif) 0 -30px no-repeat;}
-	#panel2nav a:hover {background: transparent url(http://www.funjet.com/images/ifj_navigation.gif) -57px -30px no-repeat;}
-	#panel3nav a:hover {background: transparent url(http://www.funjet.com/images/ifj_navigation.gif) -157px -30px no-repeat;}
-	#panel4nav a:hover {background: transparent url(http://www.funjet.com/images/ifj_navigation.gif) -218px -30px no-repeat;}
-	#panel5nav a:hover {background: transparent url(http://www.funjet.com/images/ifj_navigation.gif) -297px -30px no-repeat;}
-	
-	.panel1navSelected {background: transparent url(http://www.funjet.com/images/ifj_navigation.gif) 0 -30px no-repeat;}
-	.panel2navSelected {background: transparent url(http://www.funjet.com/images/ifj_navigation.gif) -57px -30px no-repeat;}
-	.panel3navSelected {background: transparent url(http://www.funjet.com/images/ifj_navigation.gif) -157px -30px no-repeat;}
-	.panel4navSelected {background: transparent url(http://www.funjet.com/images/ifj_navigation.gif) -218px -30px no-repeat;}
-	.panel5navSelected {background: transparent url(http://www.funjet.com/images/ifj_navigation.gif) -297px -30px no-repeat;}
-	
-	td {}
-	.header {
-		background: url(http://www.funjet.com/images/IFJ_header_circles.jpg) no-repeat top right;
-		width: 585px;
-		top: 0px;
-		color: #FFFFFF;
-		font-size: 89%;
-		text-decoration: none;
-		line-height: 20px;
-		padding-right: 12px;
-	}
-	.header a:link { color:#FFFFFF; text-decoration:underline; }
-	.header a:visited { color:#FFFFFF; text-decoration:underline; }
-	.header a:active { color:#FFCC33; text-decoration:underline; }
-	.header a:hover { color:#FFCC33; text-decoration:underline; }
-	/* 	The two classes below were necessary to trick out the headersecondarynav class to display the
-		orange profile text */
-	.header strong { color:#FFCC33; font-weight: bold; text-decoration:none; }
-	.header b { color:#FFCC33; font-weight: bold; text-decoration:underline; }
-	
-</style><script language="JavaScript">
+</script><script language="JavaScript">
 var TZpopup = true;
 </script></head>
+
 <!------ OAS SETUP begin ------>
 
 
 
 
-<!-- REFERENCE FOR CSS IMAGE ROLLOVERS: http://www.alistapart.com/articles/sprites/ -->
+<body bgcolor="#FFFFFF" onload="page_init()">
 
+<form name="amenitiesValuesStore" id="amenitiesValuesStore" style="margin:0px">
+	<input name="storeDest" id="storeDest" type="hidden" value="">
+	<input name="storeHotelRating" id="storeHotelRating" type="hidden" value="">
+	<input name="storeMealPlan" id="storeMealPlan" type="hidden" value="">
+	<input name="storeChoices" id="storeChoices" type="hidden" value="">
+	<input name="storeParentCode" id="storeParentCode" type="hidden" value="">
+	<input name="storeUPID" id="storeUPID" type="hidden" value="">
+	<input name="storeSiteCode" id="storeSiteCode" type="hidden" value="IFJ">
+	<input name="storeSBU" id="storeSBU" type="hidden" value="FJV">
+	<input name="storeTourOperator" id="storeTourOperator" type="hidden" value="TM">
+	<input name="storeVendor" id="storeVendor" type="hidden" value="IFJ">
+	<input name="storeDynamicVendor" id="storeDynamicVendor" type="hidden" value="FJV">
+	<input name="storePlCode" id="storePlCode" type="hidden" value="">
+</form>
 
-
-
-<body bgcolor="#077BB4">
 <!-- START REQUIRED FOR DHTML TOOL TIPS -->
 <div id="dhtmltooltip"></div>
 <!-- END REQUIRED FOR DHTML TOOL TIPS -->
 
-<script type="text/javascript" src="http://www.funjet.com/includes/ifj.js"></script>
 
-
-
-<table width="770" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td width="185">
+<a name="top"></a>
+<div class="siteContainer">
+	<a href="http://www.funjet.com/index.asp"><img src="http://www.funjet.com/images/logos/IFJ_logo_205x60.gif" width="205" height="60" class="margin_0_0_5_0" border="0" alt="Funjet Vacations"></a><br>
+	<span class="navigation ">
+		<a name="&amp;lid=Home_Tab" id="Home_Tab" href="http://www.funjet.com/index.asp" class="padding_0_5_0_10">Home</a>
+		<a name="&amp;lid=Destinations_Tab" id="Destinations_Tab" href="http://www.funjet.com/destinations/index.asp?pageMode=D" class="padding_0_5_0_10">Destinations</a>
+		<a name="&amp;lid=Hotels_Tab" id="Hotels_Tab" href="http://www.funjet.com/destinations/index.asp?pageMode=H" class="padding_0_5_0_10">Hotels</a>
+		<a name="&amp;lid=Hotdeals_Tab" id="Hotdeals_Tab" href="http://www.funjet.com/hotdeals/index.asp" class="padding_0_5_0_10">Hot Deals</a>
+		<a name="&amp;lid=VacationIdeas_Tab" id="VacationIdeas_Tab" href="http://www.funjet.com/vacationideas/index.asp" class="padding_0_5_0_10">Vacation Ideas</a>
+	</span>
+	<div id="signin">				
+	
+		<span class="fineprint textGray">
 			
-				<a href="http://www.funjet.com/index.asp" name="&amp;lid=HomeLogo" id="HomeLogo" onmouseover="window.status='Home';return true" onmouseout="window.status='';return true"><img src="http://www.funjet.com/images/IFJ_logo_header.gif" width="185" height="80" border="0" alt="Funjet Vacations"></a></td>
-			<td align="right" valign="bottom" class="header">
+						<a href="https://reservations.funjet.com/profiles/login.aspx">Sign Up</a>&nbsp;&nbsp;or&nbsp;
+					
+					<a href="https://reservations.funjet.com/profiles/login.aspx" onmouseover="window.status='Sign-In';return true" onmouseout="window.status='';return true">Sign In</a>
+				
+				&nbsp;|&nbsp;&nbsp;
+			
+			<b><a href="http://www.funjet.com/cs/cres.asp">My Vacations</a></b>
+		</span>
+	
+	</div>	
+	<div id="headerRight">
+		<span class="fineprint textGray">Need help? Call us anytime</span> <b class="textGray">1-888-558-6654</b><span class="fineprint textGray">
 		
-				
-						<strong style="color: #FFCC33">New Guest?</strong> <a href="http://reservations.funjet.com/profiles/login.aspx"><b>Start Here for Personalized Deals</b></a>&nbsp;&nbsp;|&nbsp;&nbsp;
-				
-					<!-- NWZ 08/16/08 Begin : Sign-in is not a secure link -->
-					<!--<a href="http://reservations.funjet.com/profiles/login.aspx" onMouseOver="window.status='Sign-In';return true" onMouseOut="window.status='';return true">Sign-In</a> -->
-					<a href="https://reservations.funjet.com/profiles/login.aspx" onmouseover="window.status='Sign-In';return true" onmouseout="window.status='';return true">Sign-In</a>
-				
-				<br><br><br>
-				<a href="http://www.funjet.com/cs/cres.asp" name="&amp;lid=My_Vacations" id="My_Vacations" onmouseover="window.status='My Vacations';return true" onmouseout="window.status='';return true">My Vacations</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.funjet.com/cs/FlightSchedule.asp" name="&amp;lid=Flight_Schedule" id="Flight_Schedule" onmouseover="window.status='Flight Schedule';return true" onmouseout="window.status='';return true">Flight Schedule</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.funjet.com/agents/index.asp" onmouseover="window.status='Recommended Agents';return true" onmouseout="window.status='';return true">Recommended Agents</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.funjet.com/cs/index.asp" name="&amp;lid=CustomerService" id="Customer_Service" onmouseover="window.status='Customer Service';return true" onmouseout="window.status='';return true">Help / Customer Service</a></td>
-			</tr>
-</tbody></table>
-<div style="display: inline;">
-<table width="770" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr bgcolor="#F0A607">
-		<td width="">
-			
-				<ul id="nav">
-					<li id="panel1nav" title="Home"><a href="http://www.funjet.com/index.asp" name="&amp;lid=Home_Tab" id="Home_Tab" onmouseover="window.status='Home';return true" onmouseout="window.status='';return true"></a></li>
-		    		<li id="panel2nav" title="Destinations"><a href="http://www.funjet.com/destinations/index.asp?pageMode=D" name="&amp;lid=Destinations_Tab" id="Destinations_Tab" onmouseover="window.status='Destinations';return true" onmouseout="window.status='';return true"></a></li>
-		    		<li id="panel3nav" title="Hotels"><a href="http://www.funjet.com/destinations/index.asp?pageMode=H" name="&amp;lid=Hotels_Tab" id="Hotels_Tab" onmouseover="window.status='Hotels';return true" onmouseout="window.status='';return true"></a></li>
-		   	 		<li id="panel4nav" title="Hot Deals"><a href="http://www.funjet.com/hotdeals/index.asp" name="&amp;lid=Hotdeals_Tab" id="Hotdeals_Tab" onmouseover="window.status='Hotdeals';return true" onmouseout="window.status='';return true"></a></li>
-		    		<li id="panel5nav" title="Vacation Ideas"><a href="http://www.funjet.com/vacationideas/index.asp" name="&amp;lid=VacationIdeas_Tab" id="VacationIdeas_Tab" onmouseover="window.status='Vacation Ideas';return true" onmouseout="window.status='';return true"></a></li>
-				</ul></td>
-			
-		<td align="right" width="64">
-			
-				<img src="http://www.funjet.com/images/navigation_quickfind.gif" width="64" height="30" border="0" alt="QuickFind"></td>
-			
-		<td align="right" width="100">
-			
-				<form style="display: inline; margin: 0;" action="http://www.funjet.com/google.asp" id="Form1">
-				<input class="quickfind" type="text" style="width:100px" name="q" value="" size="10" maxlength="30">
-			</form></td>
-		<td align="right" width="46">
-			
-				<input type="image" src="http://www.funjet.com/images/navigation_button_go.gif" border="0" width="34" height="30" value="" id="BookNow" name="GO" alt="GO"><img src="http://www.funjet.com/images/IFJ_navigation_rightcurve.gif" width="12" height="30" border="0" alt=""></td>
-			
-	</tr>
-</tbody></table>	
+			&nbsp;|&nbsp;&nbsp;<b class="textGray">SITE SEARCH</b></span>
+			<form style="display: inline; margin: 0;" action="http://www.funjet.com/google.asp" id="Form1">
+				<input class="quickfind" type="text" name="q" value="" size="10" maxlength="30" id="Text1">
+				<input type="image" src="http://www.funjet.com/images/btn_go.gif" border="0" width="24" height="24" id="" name="GO" alt="GO" align="absmiddle">
+			</form><br>
+			<!-- LivePerson - Begin base_configuration-no_button.js include -->
+			<div class="margin_10_0_0_0">
+			<!-- Begin Configuration Code -->
+
+<script type="text/javascript">
+if (typeof(lpUASunit)=="undefined")
+	var lpUASunit = "funjet-package";
+
+var lpUASimagesPath = "http://www.funjet.com/LivePerson/VAXWEBFJT/chat_deployment_local-VAXWEBFJT/images";
+
+
+//Optional Variables
+if (typeof(lpUASlanguage)=="undefined")
+	var lpUASlanguage = "english"; // Define the language, default value is english
+if (typeof(lpUASimagesFolder)=="undefined")
+	var lpUASimagesFolder = "funjet-package-english"; // Define images folder, default value is lpUASunit-lpUASlanguage
+//var lpUASbuttonType = "<Button Type>"; // Define button type, ex: top_right or left_nav
+
+// Define the invitation position from the left and top of the browser window
+if (typeof(lpUASinvitePositionX)=="undefined")
+	var lpUASinvitePositionX = 0;
+if (typeof(lpUASinvitePositionY)=="undefined")
+	var lpUASinvitePositionY = 0;
+
+// Define the invitation ALT properties
+var lpUASbuttonTitle = "Live Chat";
+var lpCustomInvitationTitle="Invitation popup window for live chat with a representative";
+var lpCustomInvitationCloseTitle="Close chat invitation";
+
+var lpUAScontext = document.title;
+
+/* 
+Optional - Define width and height for button image 
+In the code below you may provide configuration-specific button image height/width (in pixels)	
+*/
+if (typeof(lpdbButtonImageHeight)=="undefined" || lpdbButtonImageHeight.indexOf('<')>=0)
+	lpdbButtonImageHeight = "<configuration specific button image height>";
+if (typeof(lpdbButtonImageWidth)=="undefined" || lpdbButtonImageWidth.indexOf('<')>=0)
+	lpdbButtonImageWidth = "<configuration specific button image width>";
+</script>
+<noscript>
+<p>Script section containing code for Liveperson Chat Solution</p>
+</noscript>
+
+<script type="text/javascript" src="http://www.funjet.com/LivePerson/VAXWEBFJT/chat_deployment_global/lp/configuration_baseline.js"></script>
+
+<noscript>
+<p>Script section containing code for Liveperson Chat Solution</p>
+</noscript>
+<!-- End Configuration Code -->
+
+<script type="text/javascript" src="http://www.funjet.com/LivePerson/VAXWEBFJT/chat_deployment_global/VAXWEBFJT/generate-conversion-xml.js"></script>
+
+<!-- Begin Button Code -->
+<p>
+<a href="#" title="Live Chat" onclick="lpdbButtonAction();return false;" target="chat9134861">
+		<script type="text/javascript" src="http://www.funjet.com/LivePerson/VAXWEBFJT/chat_deployment_global/VAXWEBFJT/dynamic_button_image_code.js"></script>
+</a>
+</p>
+
+<noscript>
+<p>Script section containing code for Liveperson Chat Solution, This functionality requires JavaScript enabled to operate properly</p>
+</noscript>
+
+
+<script type="text/javascript" src="http://www.funjet.com/LivePerson/VAXWEBFJT/chat_deployment_global/VAXWEBFJT/button_parameters.js"></script>
+<noscript>
+<p>Script section containing code for Liveperson Chat Solution</p>
+</noscript>
+
+<script type="text/javascript" src="https://images.triseptsolutions.com/LivePerson/VAXWEBFJT/chat_deployment_global/lp/DynamicButtonScript2.js"></script>
+
+<noscript>
+<p>Script section containing code for Liveperson Chat Solution</p>
+</noscript>
+<!-- End Button Code -->
+			</div>
+			<!-- LivePerson - End base_configuration-no_button.js include -->
+			<!--img src="http://www.funjet.com/images/logos/powered_by_google.gif" width="112" height="21" class="margin_0_35_15_0" alt="Powered by Google" /-->
+		
+	</div>
 </div>
+<div class="siteContainer">
 
 <table width="770" border="0" cellspacing="0" cellpadding="0" class="white" id="Table1">
 	<tbody><tr>
@@ -849,93 +846,122 @@ var TZpopup = true;
 		</td>
 	</tr>
 </tbody></table>
-<table width="770" border="0" cellspacing="0" cellpadding="0" class="white">
-	<tbody><tr>
-		<td width="100%" bgcolor="#F0A607" height="5">
-			<img src="http://www.funjet.com/images/spacer.gif" width="" height="5" border="0" alt=""></td>
-	</tr>
-	
-		<tr align="center">
-			<td class="borderT">
-				<a href="http://www.funjet.com/destinations/partners_karisma.asp"><img src="http://www.funjet.com/images/new_featured_images/karisma_760x40.gif" width="760" height="40" border="0" alt="Karisma Resorts"></a>
-<!------ OAS AD 'Footer' begin ------>
-				<script language="JavaScript">
-					<!--OAS_AD('Footer');//-->
-				</script>
-				</td>
-		</tr>	
-</tbody></table>
-<table width="770" border="0" cellspacing="0" cellpadding="0" class="white">
-	<tbody><tr>
-		<td width="10">
-			<img src="http://www.funjet.com/images/spacer.gif" width="10" height="1" border="0" alt=""></td>
-		<td>
-			<br>
-			<table width="100%" border="0" cellspacing="0" cellpadding="0">
-				<!--tr>
-					<td>
-						 					
-						<div style="position:relative;top:-15;left:350">
-						<script type='text/javascript' src="http://www.funjet.com/includes/feedback.js"></script>					
-						<ul id="navDrop" class="navDrop">
-							<li id="navField" class="navDrop">Page Feedback</a>
-								<ul class="navDrop">
-									<li><!--Include File="../includes/mini_feedback.asp" </div></li>
-								</ul>
-							</li>
-						</ul>
-						</div>
-						</td>
-				</tr-->
-				<tbody><tr>	
-					<td width="120" valign="middle">
-						<a href="http://www.funjet.com/specials/mastercard.asp"><img src="http://www.funjet.com/images/logos/ifjprefers_mastercard.gif" width="112" height="21" border="0" alt="Funjet Prefers MasterCard®"></a></td>
-					<td width="100%" align="center" class="footernav">
-						 
-							<p><a href="javascript:;" onclick="window.open('http://www.funjet.com/includes/feedback.asp?url=www.funjet.com/cs/privacy.asp?', 'sendToFriendWin', 'menubar=no,scrollbars=no,height=515,width=345,titlebar=no,resizeable=yes');">Page Feedback</a></p>
-						
-						<a href="http://www.funjet.com/index.asp">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-						<a href="http://www.funjet.com/destinations/index.asp?pageMode=D">Destinations</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-						<a href="http://www.funjet.com/destinations/index.asp?pageMode=H">Hotels</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-						<a href="http://www.funjet.com/hotdeals/index.asp">Hot Deals</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-						<a href="http://www.funjet.com/vacationideas/index.asp">Vacation Ideas</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-						<a href="http://www.funjet.com/about/index.asp">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-						 
-							<a href="http://www.funjet.com/cs/affiliate.asp">Affiliate Programs</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-						 
-						<a href="https://www.secure02.com/ovm/giftcert/IFJ/giftcert.asp">Gift Certificates</a>
-						<br>
-						<a href="http://www.funjet.com/cs/privacy.asp">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-						<a href="http://www.funjet.com/cs/billofrights.pdf" target="_blank">Bill of Rights</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-						<a href="http://www.funjet.com/cs/useragreement.asp">Site User Agreement</a>&nbsp;&nbsp;|&nbsp;&nbsp;						
-						<a href="http://www.funjet.com/about/press.asp">Press Room</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-						<a href="http://www.funjet.com/cs/detail.asp?xmlfile=supportedBrowsers">Supported Browsers</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-						<a href="http://www.funjet.com/sitemap.asp">Site Map</a>
-						 
-						&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.funjet.com/agents/spanish.asp">en Español</a>
-						</td>
-					<td width="20">
-						<img src="http://www.funjet.com/images/spacer.gif" width="20" height="1" border="0" alt=""></td>
-				</tr>
-			</tbody></table>
-			<br>
-			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="footernav">
-				<tbody><tr valign="top">
-					<td width="50%">
-						<span class="dagger">†</span> Unless otherwise noted, fares do not include all applicable taxes, charges, and government-imposed fees.  MasterCard<sup>®</sup> and the MasterCard brand marks are registered trademarks of MasterCard International Incorporated.<br><a href="http://www.funjet.com/cs/disclaimer.asp">Air fees and tax information</a></td>
-					<td width="10">
-						<img src="http://www.funjet.com/images/spacer.gif" width="10" height="1" border="0" alt=""></td>
-					<td width="50%">
-						© 2006 Funjet Vacations, All Rights Reserved. Use of this Web site constitutes acceptance of the Funjet Vacations <a href="http://www.funjet.com/cs/useragreement.asp">Site User Agreement</a>.<br>CST# 2009218-20<br><br>
-						</td>
-				</tr>
-			</tbody></table>
-		</td>
-		<td valign="bottom">
-			<img src="http://www.funjet.com/images/footer_bluecurve.gif" width="10" height="15" border="0" alt=""></td>
-	</tr>
-	
-</tbody></table>
+</div>
+<!-- LivePerson - Begin Page tagging -->
+<script type="text/javascript">
+var lpUASsection = "Content";
+var lpUASplCode = "";
+</script>
+<!-- LivePerson - End Page tagging -->
+<div class="siteContainer">
+	<div id="footer">
+		<div class="rbtop">
+			<div></div>
+		</div>
+		<div id="footerRight">
+			
+				<img class="footerAgentImage" src="http://www.funjet.com/images/travel_agent.jpg" width="50" height="35" alt="Need the advice of a Travel Agent?"><b class="textGray">Want the advice of a Travel Agent?</b>
+				<form style="display: inline;" method="post" name="tasearch" id="tasearch" action="http://www.funjet.com/agents/REStasearch.asp">
+					<input type="text" class="zipFooter" name="ZipCode" value="Zip Code" maxlength="10" onfocus="if(this.value=='Zip Code')this.value='';" onblur="if(this.value=='')this.value='Zip Code';" id="Text1">
+					<input type="image" src="http://www.funjet.com/images/btn_go.gif" border="0" width="24" height="24" id="Image3" name="GO" alt="GO" align="absmiddle">
+				</form><br>
+			
+
+			<div class="margin_40_0_0_0">
+				<a href="javascript:;" onclick="window.open('http://citi.bridgetrack.com/usc/05/premierpass/family/default.htm?app=UNSOL&amp;sc=4WNIW3K6&amp;m=7MRKBAN000W&amp;langId=EN&amp;siteId=CB&amp;B=A');"><img src="http://www.funjet.com/images/logos/citi_cardart.gif" width="30" height="20" border="0" alt="The Citi PremierPass® Card" class="floatRight margin_0_0_0_5"></a>
+					<span class="fineprint"><a href="javascript:;" onclick="window.open('http://citi.bridgetrack.com/usc/05/premierpass/family/default.htm?app=UNSOL&amp;sc=4WNIW3K6&amp;m=7MRKBAN000W&amp;langId=EN&amp;siteId=CB&amp;B=A');">The Citi PremierPass® Card</a><br>
+					Up to 15,000 bonus points to start.</span>
+			</div>
+			<div class="margin_40_0_0_0">
+				<a onclick="window.open('https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;type=GOLD&amp;sealid=0&amp;dn=WWW.SECURE02.COM&amp;lang=en','VeriSign','menubar=no,scrollbars=yes,height=450,width=550,titlebar=no,resizeable=yes');" href="javascript:;"><img src="http://www.funjet.com/images/logos/seal_s_en.gif" width="75" height="54" border="0" alt="VeriSign Secured" class="floatRight margin_0_0_0_5"></a><br>
+				<span class="fineprint textGray">© 2007 Funjet Vacations&nbsp;|&nbsp;<br>CST# 2009218-20&nbsp;&nbsp;&nbsp;&nbsp;</span>
+			</div>
+		</div>
+		<div id="footerLeft">
+			
+				<b>Company Information</b>
+				<ul class="footerLinkList">
+					<li><a href="http://reservations.funjet.com/search/flexsearch.aspx" onclick="javascript:TackOnClientCapabilities();" id="fSched" class="fineprint">Flight Schedule</a></li>
+					<li><a href="http://www.funjet.com/about/index.asp" class="fineprint">About Us</a></li>
+					<li><a href="javascript:;" onclick="javascript:g_popup('http://www.resourcehire.com/clients/marktravel/publicjobs','name','toolbar=yes,location=yes,directories=no,status=yes,menubar=yes,resizable=yes,copyhistory=no,scrollbars=yes,width=800,height=600,left=0,top=0')" class="fineprint">Careers</a></li>
+					
+						<li><a href="http://www.funjet.com/cs/affiliate.asp" class="fineprint">Affiliate Programs</a></li>
+						<li><a href="http://www.funjet.com/agents/index.asp" class="fineprint">Recommended Agents</a></li>
+						<li><a href="https://www.secure02.com/ovm/giftcert/IFJ/giftcert.asp" class="fineprint">Gift Certificates</a></li>
+					
+					<li><a href="http://www.funjet.com/about/press.asp" class="fineprint">Press Room</a></li>
+				</ul>
+			
+		</div>
+		<div id="footerMiddle">
+			<div class="indent10 clear">
+				<b>Help</b>
+			</div>
+			<ul class="footerLinkList indent10">
+				<li><a href="http://www.funjet.com/sitemap.asp" class="fineprint">Site Map</a></li>
+				<li><a href="http://www.funjet.com/cs/index.asp" class="fineprint">Customer Service</a></li>
+				<li><a href="http://www.funjet.com/cs/privacy.asp" class="fineprint">Privacy Policy</a></li>
+				<li><a href="javascript:;" onclick="javascript:g_popup('http://www.funjet.com/cs/billofrights.pdf','name','toolbar=yes,location=yes,directories=no,status=yes,menubar=yes,resizable=yes,copyhistory=no,scrollbars=yes,width=800,height=600,left=0,top=0')" class="fineprint">Bill of Rights</a></li>
+				<li><a href="http://www.funjet.com/cs/useragreement.asp" class="fineprint">Site Usage Agreement</a></li>
+				<li><a href="http://www.funjet.com/cs/detail.asp?xmlfile=supportedBrowsers" class="fineprint">Supported Browsers</a></li>
+				<li><a href="http://www.funjet.com/cs/disclaimer.asp" class="fineprint">Air Fees and Tax Information</a></li>
+					
+					<li><a href="http://www.funjet.com/agents/spanish.asp" class="fineprint">en Español</a></li>
+				
+			</ul>
+			
+				<div id="footerFeedback">
+					<div align="center">
+						<a href="javascript:;" onclick="window.open('http://www.funjet.com/includes/feedback.asp?pageFrom=www.funjet.com/cs/privacy.asp?','name','toolbar=no,location=no,directories=no,status=no,menubar=no,resizable=yes,copyhistory=no,scrollbars=no,width=410,height=500,left=0,top=0')" class="fineprint"><img src="http://www.funjet.com/images/arrow_right.gif" width="4" height="7" class="margin_0_2_1_0"> What do you think about this page?</a><br>
+					</div>
+<!-- START CSS EXPANDING LOGIC FOR INTEGRATED FEEDBACK FORM -->
+					<!--div id="feedback_Window" align="center">
+						<a href="javascript:changeClass('changling_feedback','normal')" class="fineprint"><img src="http://www.funjet.com/images/arrow_down.gif" width="7" height="4" class="margin_0_2_1_0" /> What do you think about this page?</a><br />
+					</div>
+					<div id="changling_feedback" class="visibility_off">
+						<a href="javascript:changeClass('changling_feedback','visibility_off')" class="fineprint" id="footerFeedbackClose"><img src="http://www.funjet.com/images/arrow_up.gif" width="7" height="4" class="margin_0_2_1_0" /> What do you think about this page?</a><br />
+						<!-- Include File="feedback.asp" --
+
+					</div-->
+<!-- END CSS EXPANDING LOGIC FOR INTEGRATED FEEDBACK FORM -->
+				</div>
+			
+		</div>
+		<div class="rbbot">
+			<div></div>
+		</div>
+	</div>
+	<div class="fineprint textGray" align="center">
+		† Unless otherwise noted, fares do not include all applicable taxes, charges, and government-imposed fees.<br>
+	</div><br>
+	<div class="fineprint textGray">
+		 <div class="floatLeft">
+			<br><br>
+			©1999-2007 <a href="javascript:;" onclick="window.open('http://www.triseptsolutions.com','','toolbar=yes,location=yes,directories=no,status=yes,menubar=yes,resizable=yes,copyhistory=no,scrollbars=yes,width=900,height=600,left=0,top=0')">Trisept Solutions</a> <br>
+		</div>   
+	    <div class="floatRight">
+			<br><br>	
+			<a href="javascript:;" onclick="window.open('http://www.triseptsolutions.com','','toolbar=yes,location=yes,directories=no,status=yes,menubar=yes,resizable=yes,copyhistory=no,scrollbars=yes,width=900,height=600,left=0,top=0')"><img src="http://www.funjet.com/images/logos/tri_logosm.gif" width="166" height="18" border="0" class="margin_0_10_15_0" alt="created &amp; powered by Trisept Solutions"></a> 
+		</div>
+	</div>
+</div>	
+<script>
+	<!--
+	// Call BodyLoadHandler in plCodeCheck.asp once all content is loaded
+	// Must include plCodeCheck.asp or this call will cause JS error.
+	window.onLoad = BodyLoadHandler();
+	//-->
+</script>
+<!-- LivePerson - Begin base_monitor.js include -->
+	<script type="text/javascript" src="http://www.funjet.com/LivePerson/VAXWEBFJT/chat_deployment_global/lp/conversion_script.js"></script>
+
+<script type="text/javascript" src="https://images.triseptsolutions.com/LivePerson/VAXWEBFJT/chat_deployment_global/lp/x.js?cmd=file&amp;file=chatScript3&amp;site=9134861"></script>
+
+<noscript>
+<p>Script section containing code for Liveperson Chat Solution</p>
+</noscript>
+
+<!-- LivePerson - End base_monitor.js include -->
 
 
 </body></html>
