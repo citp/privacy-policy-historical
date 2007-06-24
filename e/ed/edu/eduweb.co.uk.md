@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eduweb.co.uk privacy policy that was archived on 2006-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061007231644id_/http%3A//www.eduweb.co.uk/p_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eduweb.co.uk privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624141909id_/http%3A//www.eduweb.co.uk/p_privacy.aspx) for the most accurate reproduction.*
 
 # Learning Alive - Primary - Privacy Policy
 
