@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodyeartires.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205050602id_/http%3A//www.goodyear.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodyeartires.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624090532id_/http%3A//www.goodyear.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Goodyear Tire U.S. || Privacy Policy
 
@@ -10,11 +10,11 @@ The Goodyear Tire & Rubber Company, hereafter "Goodyear", considers personal inf
 
 When you browse a Goodyear web site, you do so anonymously. Personal information is not collected. Some areas of our web sites, however, may request that you voluntarily supply us with personal information, including your name, email address, etc., for purposes such as correspondence, site registration, making a purchase, or participating in online surveys. 
 
-Goodyear may also retain electronic communications you send to our customer service representatives, webmaster or other associates. These may be shared only within Goodyear as a means to continually improve customer service. 
+Goodyear may also retain electronic communications you send to our customer service representatives, webmaster or other associates. These may be shared only within Goodyear as a means to continually improve customer service.
 
 Goodyear web sites track information about the visits to those sites. For example, statistics are compiled that show the daily number of visitors to a site, the daily requests received for particular files on a site, and what countries those requests come from. These aggregated statistics are used to customize our web site to better meet your needs and may also be provided to others, but the statistics contain no personal information and cannot be used to gather such information. 
 
-There is a technology called "cookies" which can be used to provide you with tailored information from a web site. A cookie is an element of data that a web site can send to your browser, which may then be stored on your system. Certain Goodyear sites may use cookies so that we can better serve site users. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. 
+Certain Goodyear sites may use "cookies" or "web beacons." A "cookie" is an element of data that a web site can send to your browser, which may then be stored on your system. Cookies allow us to better serve visitors to our website by offering a tailored experience. A "web beacon", also referred to as a spotlight tag or pixel tag, is used to recognize unique cookies and assists us in determining which advertisements bring users to a specific website. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. If you decline to accept the cookie, it will also disable the web beacon. With both cookies and web beacons, the information collected and used is anonymous and not personally identifiable. The information collected does not contain your name, address, telephone number, or email address.
 
 **Information Use**
 
@@ -28,7 +28,7 @@ Any information provided by users in the online tire registration form will not 
 
 **Disclosure**
 
-Because Goodyear considers the individual information we maintain to be confidential, our policy is to disclose no personal information gathered online to third parties unless release is required by law or is pertinent to judicial or government investigations or proceedings. Goodyear does not sell, rent or transmit personal information to other organizations. 
+Because Goodyear considers the individual information we maintain to be confidential, our policy is to disclose no personal information gathered online to third parties unless release is required by law or is pertinent to judicial or government investigations or proceedings or the personal information is required for Goodyear to provide requested services to users and visitors to the site. Goodyear does not sell or rent personal information to other organizations unless specifically disclosed at the point of collection. Goodyear does not share personal information with unauthorized parties. For example, Goodyear has authorized a company to transmit marketing emails on our behalf. That company is not permitted to use the personal information for any secondary purposes. 
 
 **Other Web Sites**
 
