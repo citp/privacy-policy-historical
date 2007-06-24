@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the discoveryeducation.com privacy policy that was archived on 2006-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061105030851id_/http%3A//www.discoveryeducation.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoveryeducation.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624064359id_/http%3A//www.discoveryeducation.com/site/about_privacyPolicy.cfm) for the most accurate reproduction.*
 
 # Welcome to Discovery Education
 
-|  | Discovery.com respects your privacy, and we want you to understand the ways in which we do and don't use the information that you transmit when you visit our Web site. This statement discloses the privacy practices for all United States-based Discovery.com Web sites, including Discovery Kids and the Students area of Discovery School. Our web site is intended for users in the United States. This statement does not pertain to our practices in the retail stores, catalog or in other parts of Discovery Communications, Inc. or its subsidiaries and affiliates.
+Discovery.com respects your privacy, and we want you to understand the ways in which we do and don't use the information that you transmit when you visit our Web site. This statement discloses the privacy practices for all United States-based Discovery.com Web sites, including Discovery Kids and the Students area of Discovery School. Our web site is intended for users in the United States. This statement does not pertain to our practices in the retail stores, catalog or in other parts of Discovery Communications, Inc. or its subsidiaries and affiliates.
 
 **General Privacy Notice**  
 This section of our Privacy Policy relates to all of Discovery's Web sites except Discovery Kids and the kids' section of Discovery School. To review our Kids Privacy Policy, please click here.
@@ -25,7 +25,7 @@ To help make our sites more responsive to the needs of our visitors, we invoke a
 We use cookies to help us tailor our site to your needs, to deliver a better, more personalized service. In addition, we may use cookies to track the pages on our sites visited by our users. We can build a better site if we know which pages our users are visiting and how often. Of course, you can set your browser not to accept cookies, but if you do, you may not be able to take advantage of the personalized features enjoyed by other visitors to our sites. For more about third-party ad servers, click here. 
 
 **IP Addresses**  
-Our Web servers automatically collect limited information about your computer's connection to the Internet, including your IP address, when you visit our sites. (Your IP address is a number that lets computers attached to the Internet know where to send you data \- such as the Web pages you view.) Your IP address does not identify you personally. We use this information to deliver our Web pages to you upon request, to tailor our sites to the interests of our users and to measure traffic within our sites. 
+Our Web servers automatically collect limited information about your computer's connection to the Internet, including your IP address, when you visit our sites. (Your IP address is a number that lets computers attached to the Internet know where to send you data - such as the Web pages you view.) Your IP address does not identify you personally. We use this information to deliver our Web pages to you upon request, to tailor our sites to the interests of our users and to measure traffic within our sites. 
 
 **How Information Collected On Our Sites Is Used and Shared**  
 From time to time, we may share personally identifiable information with third parties whose marketing products and services that we believe might be of interest to you, or who help us maintain our Web site. We also offer contests, sweepstakes and other promotions from time to time, sometimes in conjunction with a co-sponsor. We have administrators that help us with entry collection, winner selection and prize fulfillment. In these circumstances, the co-sponsor and/or the sweepstakes or contests administrators may have access to the personally identifiable information that you submit in your entry.
@@ -100,6 +100,4 @@ Legal Affairs
 Discovery Communications, Inc.   
 One Discovery Place   
 Silver Spring, MD 20910  
-privacy_policy@discovery.com  
-  
----|---
+[privacy_policy@discovery.com](mailto:privacy_policy@discovery.com)
