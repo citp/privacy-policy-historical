@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the newegg.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225115036id_/http%3A//www.newegg.com/CustomerService/PrivacySecurity.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newegg.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624021414id_/http%3A//www.newegg.com/Info/PrivacySecurity.aspx) for the most accurate reproduction.*
 
-# Newegg.com - Privacy Policy
+# Newegg.com - Buy Computer Parts, PC Components, Laptop Computers, Digital Cameras and more!
+
+##### PRIVACY POLICY
 
 **Newegg.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices.**
 
-[](http://www.truste.org/ivalidate.php?url=www.newegg.com&sealid=101) This privacy statement covers the site [http://www.newegg.com](http://www.newegg.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site. 
+[](http://www.truste.org/ivalidate.php?url=www.newegg.com&sealid=101) This privacy statement covers the site http://www.newegg.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site. 
 
 If you have questions or concerns regarding this statement, you should first contact Newegg.com Webmaster, at [webmaster@newegg.com](mailto:webmaster@newegg.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
@@ -21,7 +23,9 @@ If you have questions or concerns regarding this statement, you should first con
 
 
 **Information Collection and Use**  
-Newegg.com is the sole owner of information collected on this site. We will not sell, share, or rent this information to any outside parties, except as outlined in this policy. We collect information from our customers to process orders and better serve you with pertinent information, such as order confirmations and order status updates. Information collected includes your name, shipping address, billing address, telephone numbers, e-mail address, and payment information such as your credit card number. We also require you to submit a username and password of your choice for your future access to your account information. To safeguard that your user name and password remain confidential, DO NOT share this information with anyone. If you elect to receive our newsletter or special promotions, your contact information will be used for the delivery of these items. 
+Newegg.com is the sole owner of information collected on this site to purchase most products and services from Newegg.com (refer to the next paragraph for the limited exceptions to this). We will not sell, share, or rent this information to any outside parties, except as outlined in this policy. We collect information from our customers to process orders and better serve you with pertinent information, such as order confirmations and order status updates. Information collected includes your name, shipping address, billing address, telephone numbers, e-mail address, and payment information such as your credit card number. We also require you to submit a username and password of your choice for your future access to your account information. To safeguard that your user name and password remain confidential, DO NOT share this information with anyone. If you elect to receive our newsletter or special promotions, your contact information will be used for the delivery of these items. 
+
+For certain services, Newegg.com has agreements with select third party business partners in order to provide our customers with additional services that we otherwise do not offer. Such services include wireless communication services. In these cases, we collect certain information from you to send to the third party service provider in order to activate or upgrade your account with the service provider. We do not provide any of your information to the third party service provider unless you first consent. Any information that we provide to the third party service provider with your consent is owned by that service provider, and it may use your information for service approval, activation, upgrade and for other purposes that it requires. You should consult the privacy policies of the respective third party service providers, since this Newegg.com Privacy Policy does not cover the use of your information in these limited circumstances. 
 
 **Registration**  
 In order to process your orders placed on this website, you must first complete the registration form. During registration, you will be required to provide your contact information, which includes your name, e-mail address, telephone number and street address. This information is used to provide you with important Newegg.com services such as automated order status updates via e-mail. 
@@ -60,7 +64,9 @@ Washington DC
 [www.usps.com](http://www.usps.com/)  
 ---|---|---  
   
-We may frame or mask another web site so that the look, feel and interface simulate the experience of browsing a genuine Newegg.com web page. Extreme care and discretion is exercised when evaluating third party sites. We only brand third party sites if their organization applies stringent security and privacy practices which parallel our own commitment to safe online shopping. 
+Also, as set forth above in the "Information Collection and Use" section, for certain services Newegg.com has agreements with select third party business partners in order to provide our customers with additional services that we otherwise do not offer. Such services include wireless communication services. In these cases, and only with your advance consent, we will share information collected from you with the third party service provider in order to allow the service provider to activate or upgrade your account. The third party service providers¡¯ respective privacy policies, and not this Newegg.com Privacy Policy, will apply to the information shared in these circumstances. 
+
+In addition, we may frame or mask another web site so that the look, feel and interface simulate the experience of browsing a genuine Newegg.com web page. Extreme care and discretion is exercised when evaluating third party sites. We only brand third party sites if their organization applies stringent security and privacy practices which parallel our own commitment to safe online shopping. 
 
 As our business continues to evolve, we may acquire or sell business units or subsidiaries. Customer information is one of the business assets that would be transferred in these types of transactions. In such a situation, your personally identifiable information would only be used in a manner consistent with our pre-existing Privacy Notice. 
 
@@ -98,10 +104,10 @@ Our special offers are sent only to customers who grant Newegg.com permission to
 To honor the privacy of our users, we offer the option to not receive these types of communications. At the time of your order, you may opt to not receive special offers and news by clicking the appropriate field. Furthermore, all special offers are sent via e-mail and include an opt-out link if you no longer wish to receive special offers and news. Customers might still receive intermittent updates on products, services, specials or Newegg.com news. Please reference the Choice/Opt-out section below for further details on how to be removed from our mailing list should you choose to be removed. 
 
 **Correction/Updating/Reviewing Personal Information**  
-Customers may change or review their stored account information such as street address or e-mail address through our website by visiting our [Help](http://www.newegg.com/CustomerService/FaqHome.asp) section. You must have your username and password in order to access your account. In the event you forget both your username and password, please contact our customer service department for assistance. 
+Customers may change or review their stored account information such as street address or e-mail address through our website by visiting our [Help](http://www.newegg.com/Info/FAQHome.aspx) section. You must have your username and password in order to access your account. In the event you forget both your username and password, please contact our customer service department for assistance. 
 
 **Choice/Opt-out**  
-For customers who wish to opt-out and stop receiving Newegg.com special offers and related news, Newegg.com provides several ways to do so. Users who no longer wish to receive our newsletter or promotional materials may opt-out of receiving these communications by un-checking the "permission to send" field when processing their orders. They may also send e-mails to[webmaster@newegg.com](mailto:webmaster@newegg.com) with a request to be removed. Finally, they may use the link provided in all Newegg.com communications to automatically unsubscribe. 
+For customers who wish to opt-out and stop receiving Newegg.com special offers and related news, Newegg.com provides several ways to do so. Users who no longer wish to receive our newsletter or promotional materials may opt-out of receiving these communications by un-checking the "permission to send" field when processing their orders. They may also send e-mails to [webmaster@newegg.com](mailto:webmaster@newegg.com) with a request to be removed. Finally, they may use the link provided in all Newegg.com communications to automatically unsubscribe. 
 
 **Notification of Changes**  
 If we decide to change our Privacy Policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage. 
@@ -109,8 +115,10 @@ If we decide to change our Privacy Policy, we will post those changes to this pr
 If you have opted out of receiving communications from Newegg.com, you will still be able to view news of policy changes at [www.newegg.com](http://www.newegg.com/). Otherwise, you may e-mail us at [webmaster@newegg.com](mailto:webmaster@newegg.com) or call us toll free at (800) 390-1119 to ask our customer service department about changes and updates. 
 
 **Last Update**  
-The Privacy Policy contained herein became officially effective June 1, 2005. 
+The Privacy Policy contained herein became officially effective January 18, 2007. 
 
 Newegg.com  
 9997 E. Rose Hills Road,  
 Whittier, CA. 90601 
+
+(V4.01: 1-11-07)
