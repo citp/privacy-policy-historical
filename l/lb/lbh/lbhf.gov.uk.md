@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lbhf.gov.uk privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212233718id_/http%3A//www.lbhf.gov.uk/Directory/Links/40888_Privacy_Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lbhf.gov.uk privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624095650id_/http%3A//www.lbhf.gov.uk/Directory/Links/40888_Privacy_Policy.asp) for the most accurate reproduction.*
 
 # Privacy policy
 
