@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spicevod.com privacy policy that was archived on 2006-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060712120202id_/http%3A//spicevod.com/dispatcher/helpPrivacyPolicy%3FtheaterId%3D17846) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spicevod.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624024524id_/http%3A//www.spicevod.com/dispatcher/helpPrivacyPolicy%3FtheaterId%3D17982) for the most accurate reproduction.*
 
-# SPICE VOD PAY-PER-VIEW MOVIES
+# Spice Platinum Porn Pay Per View Videos on Demand
 
 **SpiceVOD.com Spice Platinum Theater Privacy Policy**
 
