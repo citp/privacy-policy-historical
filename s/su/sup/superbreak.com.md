@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superbreak.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210215326id_/http%3A//www.superbreak.com/info/privacyinfo.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superbreak.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625014328id_/http%3A//www.superbreak.com/info/privacyinfo.htm) for the most accurate reproduction.*
 
 # Superbreak > Hotel Bookings, Reservations & Short Break Holidays
 
