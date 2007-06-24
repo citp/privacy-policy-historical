@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the java-tips.org privacy policy that was archived on 2006-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060830003635id_/http%3A//www.java-tips.org/content/view/152/51) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the java-tips.org privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624094440id_/http%3A//www.java-tips.org/site-documentation/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Java Tips - Privacy Policy
 
@@ -8,26 +8,39 @@
 ---  
 | [Home](http://www.java-tips.org/index.html)  
 ---  
-[Java Tutorials](http://www.java-tips.org/java-tutorials/tutorials/2.html)  
-[Book Reviews](http://www.java-tips.org/java-book-reviews/books/2.html)  
-[Java SE Tips](http://www.java-tips.org/java-se-tips/2.html)  
+[Java Tutorials](http://www.java-tips.org/java-tutorials/tutorials/)  
+[Book Reviews](http://www.java-tips.org/java-book-reviews/books/)  
+[Java SE Tips](http://www.java-tips.org/java-se-tips/)  
 [Java ME Tips](http://www.java-tips.org/java-me-tips/)  
-[Java EE Tips](http://www.java-tips.org/java-ee-tips/2.html)  
-[Other API Tips](http://www.java-tips.org/other-api-tips/2.html)  
-[Java Applications](http://www.java-tips.org/java-applications/2.html)  
-[Java Libraries](http://www.java-tips.org/java-libraries/2.html)  
-[Java Games](http://www.java-tips.org/java-games/2.html)  
-[FAQ](http://www.java-tips.org/faqs/about-java-tips.org/2.html)  
-[Link to Us](http://www.java-tips.org/site-documentation/advertisement/link-to-java-tips.html)  
-[Advertising](http://www.java-tips.org/advertise-on-java-tips.html)  
+[Java EE Tips](http://www.java-tips.org/java-ee-tips/)  
+[Other API Tips](http://www.java-tips.org/other-api-tips/)  
+[Java Applications](http://www.java-tips.org/java-applications/)  
+[Java Libraries](http://www.java-tips.org/java-libraries/)  
+[Java Games](http://www.java-tips.org/java-games/)  
+[Sitemap](http://www.java-tips.org/sitemap/)  
+Java Network   
+---  
+|  [Java Forums](http://www.java-forums.org/)  
+  
+---  
+[Java Headlines](http://www.java-headlines.org/)  
+  
+[Java Planet](http://www.planet-java.org/)  
+  
+[Java Tips Blog](http://www.java-tips.org/blog/)  
+  
+[Eclipse Blog](http://www.eclipse-blog.org/)  
+  
+[NetBeans Blog](http://www.netbeans-blog.org/)  
+  
   
 Most Visited Tips   
 ---  
-| [Java SE Tips](http://www.java-tips.org/mostvisited/1-2.html)  
+| [Java SE Tips](http://www.java-tips.org/mostvisited/1.html)  
 ---  
-[Java ME Tips](http://www.java-tips.org/mostvisited/1-3.html)  
-[Java EE Tips](http://www.java-tips.org/mostvisited/1-4.html)  
-[Other API Tips](http://www.java-tips.org/mostvisited/1.html)  
+[Java ME Tips](http://www.java-tips.org/mostvisited/1-2.html)  
+[Java EE Tips](http://www.java-tips.org/mostvisited/1-3.html)  
+[Other API Tips](http://www.java-tips.org/mostvisited/1-4.html)  
 [Java Applications](http://www.java-tips.org/mostvisited/1-5.html)  
 [Java Libraries](http://www.java-tips.org/mostvisited/1-6.html)  
 [Java Games](http://www.java-tips.org/mostvisited/1-7.html)  
@@ -43,12 +56,17 @@ Top Rated Tips
 [Java Libraries](http://www.java-tips.org/mostvisited/2-6.html)  
 [Java Games](http://www.java-tips.org/mostvisited/2-7.html)  
 [Book Reviews](http://www.java-tips.org/mostvisited/2-8.html)  
+  
+  
+  
+
+
 Statistics   
 ---  
-| Registered Users: | 606  
+| Registered Users: | 768  
 ---|---  
 Java SE Tips:|  614  
-Java ME Tips:|  202  
+Java ME Tips:|  201  
 Java EE Tips:|  184  
 Other API Tips:|  779  
 Java Applications:|  298  
@@ -70,34 +88,11 @@ Tips Network
 [Unix Tips](http://www.unix-tips.org/)  
   
   
-Polls   
----  
-|  Which type of content do you prefer?   
----  
-|  |  Java SE Tips   
----|---  
-|  Java ME Tips   
-|  Java EE Tips   
-|  Other API Tips   
-|  Tutorials   
-Login Form   
----  
-|  Username    
-  
-Password    
-  
-Remember me    
-  
----  
-[ Lost Password?](http://www.java-tips.org/registration/lostpassword.html)  
-No account yet? [ Register](http://www.java-tips.org/registration/register.html)  
    
    
   |  |  Privacy Policy  |  [ ](http://www.java-tips.org/index2.php?option=com_content&task=emailform&id=152&itemid=99999999 "E-mail")  
 ---|---  
   
-
-
 This site is owned and operated by Java Tips Team. Your privacy on the internet is of the utmost importance to us. At java-tips.org, we want to make your experience satisfying and safe.
 
 Because we gather certain type of information about our users, we feel that you should understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
@@ -173,6 +168,17 @@ We give users options wherever necessary and practical. Such choices include:
 ### Your Consent
 
 By using this site, you consent to the collection and use of this information by java-tips.org. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+
+  
+
+
+### 
+
+**  _Related Tips_**
+
+  * [Link to Java Tips](http://www.java-tips.org/site-documentation/advertisement/link-to-java-tips-2.html)
+
+
 
  
 
