@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the circleid.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205233529id_/http%3A//www.circleid.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the circleid.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625013248id_/http%3A//www.circleid.com/about/privacy) for the most accurate reproduction.*
 
-# CircleID - About
+# CircleID - About CircleID
+
+|  | 
+
+#### Privacy Policy
 
 CircleID believes in your right to privacy and is committed to the use of fair information practices on the Internet. This CircleID Privacy Statement applies to CircleID's website at www.CircleID.com (the "CircleID Site") and the services offered via the CircleID Site (the "CircleID Services"). By using the CircleID Site and/or the CircleID Services (collectively, "CircleID Site/Services"), you agree to the terms of this Privacy Statement.
 
@@ -35,3 +39,6 @@ CircleID wants your personal information to remain as secure as reasonably possi
 **Changes to this Privacy Statement**
 
 The CircleID Privacy Statement is subject to change at any time. If any material changes are made to this Privacy Statement, it will be posted here. By using the site after any such announcement, you agree to the terms of the amended Privacy Statement.
+
+|   
+---|---|---
