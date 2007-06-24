@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onemorelevel.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214010051id_/http%3A//onemorelevel.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onemorelevel.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624083738id_/http%3A//www.onemorelevel.com/privacy.php) for the most accurate reproduction.*
 
 # OneMoreLevel.com - Privacy Policy
 
