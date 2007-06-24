@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartoonnetworkindia.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111224006id_/http%3A//www.cartoonnetworkindia.com/jsp/help/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoonnetworkindia.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625015126id_/http%3A//cartoonnetworkindia.com/jsp/help/privacy.jsp) for the most accurate reproduction.*
 
 # Cartoon Network - Parents Pages
 
