@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the vonage.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225174511id_/http%3A//vonage.com/help.php%3Flid%3Dfooter_privacy%26article%3D399) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vonage.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624074628id_/http%3A//www.vonage.com/help.php%3Flid%3Dfooter_privacy%26article%3D399) for the most accurate reproduction.*
 
-# Vonage - Leading the Internet Phone Revolution
+# Privacy Policy
+
+Privacy Policy
 
 Vonage Holdings Corp. ("Vonage") is committed to your privacy. We obey all laws and regulations in the United States applicable to our use and disclosure of your information. Except as set forth in this Privacy Policy, we will not trade, sell, or disclose to any third party any form of PII (as defined below) without your consent and we will not disclose or make available any PII to any third parties seeking to market third party products without your consent. We have set forth this Privacy Policy to explain to you how we collect and use information from our customers who use services and products from Vonage ("Customers") and from visitors to our web sites and from potential customers who have communicated, made contact or interacted with Vonage ("Visitors"), both in connection with online and offline services and products offered by Vonage.
 
@@ -48,7 +50,7 @@ Subject to certain security requirements, Vonage will do its best to honor reque
 
 ### Children's Privacy Policy
 
-Vonage does not sell products or services for purchase by children. Vonage does not knowingly solicit or collect PII from children or teenagers under the age of eighteen. If you believe that a minor has disclosed PII to Vonage, please [click here to report this to us](mailto:privacypolicy@vonage.com).
+Vonage does not sell products or services for purchase by children. Vonage does not knowingly solicit or collect PII from children or teenagers under the age of eighteen. If you believe that a minor has disclosed PII to Vonage, please [click here to report this to us](https://web.archive.org/web/20070624074628id_/http%3A//www.vonage.com/help.php?article=1217).
 
 ### Vonage Spam Policy
 
@@ -80,8 +82,11 @@ Our service is maintained in the United States of America. By using our services
 
 ### Questions
 
-For common questions and answers regarding our privacy policy or to contact us, [click here ](https://web.archive.org/web/20061225174511id_/http%3A//vonage.com/help.php?article=1217)
+For common questions and answers regarding our privacy policy or to contact us, [click here ](https://web.archive.org/web/20070624074628id_/http%3A//www.vonage.com/help.php?article=1217)
 
 ### Effective Date
 
 This Privacy Policy was last updated on November 8, 2006.
+
+  
+< Back 
