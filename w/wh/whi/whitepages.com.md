@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whitepages.com privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224185415id_/http%3A//www.whitepages.com/10001/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitepages.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624134716id_/http%3A//www.whitepages.com/10001/privacy) for the most accurate reproduction.*
 
 # WhitePages.com - Online Directory Assistance
 
@@ -6,9 +6,9 @@
 
 **Our Privacy Policy**
 
-LAST REVISION: October 19, 2006
+LAST REVISION: April 5, 2007
 
-This privacy policy governs our collection of information on [www.whitepages.com](http://www.whitepages.com/), [www.whitepages.ca](http://www.whitepages.com/10002), [www.whitepagesplus.com](http://www.whitepages.com/5160), [www.411.com](http://www.whitepages.com/10668), [www.phonenumber.com](http://www.whitepages.com/2321), [www.whitepages411.com](http://www.whitepages.com/5138), [www.whitepagesinc.com](http://www.whitepagesinc.com/) and [www.address.com](http://www.whitepages.com/5153) (each, a "Site" and together, the "Sites" or the "WhitePages.com Network"), whether actively (e.g., information that you submit in a form) or passively (i.e., information obtained through the use of cookies and other technology). This policy does not apply to information we may receive from other sources, whether or not it is posted on the Sites (e.g. directory information). By using any of our Sites, you agree to the terms in this policy. 
+This privacy policy governs our collection of information on [www.whitepages.com](http://www.whitepages.com/), [www.whitepages.ca](http://www.whitepages.com/10002), [m.411.com](http://m.411.com/), [m.whitepages.com](http://m.whitepages.com/), [www.411.com](http://www.whitepages.com/10668), [www.phonenumber.com](http://www.whitepages.com/2321), [www.whitepagesinc.com](http://www.whitepagesinc.com/) and [www.address.com](http://www.whitepages.com/5153) (each, a "Site" and together, the "Sites" or the "WhitePages.com Network"), whether actively (e.g., information that you submit in a form) or passively (i.e., information obtained through the use of cookies and other technology). This policy does not apply to information we may receive from other sources, whether or not it is posted on the Sites (e.g. directory information). By using any of our Sites, you agree to the terms in this policy. 
 
 * * *
 
