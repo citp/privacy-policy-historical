@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationaltheatre.org.uk privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114204044id_/http%3A//www.nationaltheatre.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationaltheatre.org.uk privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624031438id_/http%3A//www.nationaltheatre.org.uk/privacy) for the most accurate reproduction.*
 
 # National Theatre : Website Help : Privacy
 
@@ -26,7 +26,7 @@ The Personal Information you supply when you join one of our e-mail lists will b
 3.3 We do not normally link IP addresses to anything personally identifiable, which means that you remain anonymous even though we include your IP address in our aggregate information. However, we can and will attempt to use IP addresses to identify a user when we feel it is necessary to enforce compliance with our terms and conditions, or to protect our services and other users.
 
 **4\. Cookies**   
-Cookies are small pieces of information that are stored by your browser on your computer's hard drive. They make it possible for us to provide our online ticketing service. 
+Cookies are small pieces of information that are stored by your browser on your computer's hard drive. They make it possible for us to provide our online ticketing service and track visitor statistics, such as returning visitors. 
 
 For more information on cookies, please visit:   
 [www.google.co.uk/search?hl=en&q=cookies](http://www.google.co.uk/search?hl=en&q=cookies)   
