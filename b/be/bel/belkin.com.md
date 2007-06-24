@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the belkin.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204100630id_/http%3A//www.belkin.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belkin.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624220455id_/http%3A//www.belkin.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Welcome to Belkin
 
 **
 
-**BELKIN CORPORATION**
+**BELKIN INTERNATIONAL, INC.**
 
-**Belkin.Com Security and Privacy Statement**
+**Belkin.com Security and Privacy Statement**
 
 At belkin.com we protect your credit card information and privacy by using SSL (Secure Socket Layer) technology (the industry standard security protocol), hosting our site on secure servers, and maintaining Secure Site status from VeriSign, the security industry leader.
 
@@ -18,7 +18,7 @@ When you provide us with any personal information, such as your credit card numb
 
 To process your order, notify you of matters that may be of interest and improve your belkin.com shopping experience, we collect information, such as e-mail addresses, domain names, the number of visits each page receives, and other information you may volunteer. Any personal information that you submit to the site will remain as safe and secure as your credit card information. It has always been the policy of Belkin not to share or sell our customers' personal information with any third parties except where we are legally required to do so.
 
-**Removal From Belkin.Com Lists**
+**Removal From Belkin.com Lists**
 
 You may receive periodic emails or postal mailings from us with information on new products and services, or upcoming events. If you do not want to receive e-mail and/ or postal mail from us in the future, please let us know by sending us an email at [customerservice@belkin.com](mailto:customerservice@belkin.com). Belkin.com does not currently rent, sell or otherwise forward your name or other personal information to other companies.
 
