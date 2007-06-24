@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jobthread.com privacy policy that was archived on 2006-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061206013930id_/http%3A//www.jobthread.com/jt/home/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jobthread.com privacy policy that was archived on 2007-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070625013922id_/http%3A//www.jobthread.com/jt/home/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
 		<base href="http://www.jobthread.com/">
@@ -15,16 +15,20 @@
  * Global *
  **********/
 
-body#page {
-	background-image: url('partners/jobthread/images/background.gif');
+html {
+	background-image: url('partners/jobthread/images/home/background.gif');
 }
 
 /*********
  * Input *
  *********/
 
-.input_button, .input_button_default {
+.input_button {
 	background-image: url('partners/jobthread/images/button_background.gif');
+}
+
+.input_button_highlight {
+	background-image: url('partners/jobthread/images/button_highlight_background.gif');
 }
 
 .input_button_negative {
@@ -147,6 +151,10 @@ td.tab-area-active-bottom-right {
  * Welcome page *
  ****************/
 
+td.common-header {
+	background-image: url('partners/jobthread/images/home/header_background.gif');
+}
+
 td#welcome-top-left {
 	background-image: url('partners/jobthread/images/home/welcome_top_left.gif');
 }
@@ -168,10 +176,13 @@ td#welcome-middle {
 		<link rel="icon" type="image/vnd.microsoft.icon" href="partners/jobthread/images/favicon.ico">
 		<link rel="SHORTCUT ICON" href="partners/jobthread/images/favicon.ico">
 
-		<script language="Javascript" src="js/global.js"></script>
+		<script type="text/javascript" src="js/global.js"></script>
+		<script type="text/javascript" src="js/jquery/jquery.js"></script>
+		<script type="text/javascript" src="js/jquery/jquery.corner.js"></script>
+		<script type="text/javascript" src="js/jquery/jquery.local.js"></script>
 
-					<title>JobThread - Privacy/Legal</title>
-		
+									<title>JobThread - Privacy/Legal</title>
+					
 					<script language="JavaScript">
 			
 				function calcHeightFrame(frameid) {
@@ -191,11 +202,41 @@ td#welcome-middle {
 		
 			window.onload = onLoad;
 
-			function onLoad() {
+			function onLoad()
+			{
 				if (window.onLoadPage) {
 					onLoadPage();
 				}
 			}
+
+			var ready_list = new Array();
+
+			function addReady(func)
+			{
+				ready_list.push(func);
+			}
+
+			$(document).ready(function(){
+				for (i=0; i < ready_list.length; i++) {
+					ready_list[i]();
+				}
+			});
+
+			addReady(function(){
+				$("a.pop-link").toggle(function(){
+					$(this).blur();
+
+					box_id = $(this).attr("id") + "-box";
+
+					$("div#" + box_id).show('normal');
+				}, function(){
+					$(this).blur();
+
+					box_id = $(this).attr("id") + "-box";
+
+					$("div#" + box_id).hide('normal');
+				});
+			});
 		
 		</script>
 
@@ -203,19 +244,42 @@ td#welcome-middle {
 			</head>
 
 	<body id="page">
-		<table cellpadding="0" cellspacing="0" border="0" width="90%">
-<tbody><tr>
-	<td valign="top">
-		<a href="/?show_home=1" rel="nofollow">
-			<img src="partners/jobthread/images/logo.png" border="0"></a>
-	</td>
-	<td valign="top" align="right">
-					<a href="jt/users/login.php" rel="nofollow">Log In</a>
-			</td>
-</tr>
-</tbody></table>
+		<script type="text/javascript">
 
-<br>
+	addReady(function(){
+		$("div.normal-block").corner();
+		$("div.offset-block").corner();
+		$("div.block2:not(.block2-square)").corner();
+		$("div.block2-inner").corner();
+		$("div.step-active-block-inner").corner();
+
+		$("div.home-alt-box").each(function(){
+			coords = getCoords('page-container');
+
+			left = (coords.x + $("div#page-container").width()) - $(this).width() - 77;
+
+			$(this).css('left', left);
+			$(this).css('display', 'block');
+		});
+	});
+
+</script>
+
+	<table id="common-header" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+		<td class="common-header" style="width:205px;padding-left:7px;">
+			<a href="http://www.jobthread.com/?show_home=1" rel="nofollow">
+				<img src="partners/jobthread/images/home/logo_line.gif" class="tabled"></a>
+		</td>
+		<td class="common-header" style="vertical-align:top;text-align:right;padding-top:10px;padding-right:10px;">
+							<a href="http://www.jobthread.com/jt/users/login.php" rel="nofollow">Sign In</a>
+					</td>
+	</tr>
+	</tbody></table>
+
+<div id="page-container">
+
+
 	<div class="container-block">
 								
 <table cellspacing="0" cellpadding="0" border="0">
@@ -379,7 +443,9 @@ td#welcome-middle {
 	<a href="mailto:privacy@jobthread.com">privacy@jobthread.com</a>
 </div>
 
-		</div>
+</div>
+
+		
 
 								
 	</td>
@@ -394,26 +460,27 @@ td#welcome-middle {
 <br>
 
 	<div class="footer">
-		<table cellpadding="0" cellspacing="0" border="0" style="width:100%;">
-		<tbody><tr>
-			<td>
-				<a href="/">Home</a>
-				|
-				<a href="jt/home/about_us.php" rel="nofollow">About Us</a>
-				|
-				<a href="http://jobthread.blogspot.com/" rel="nofollow">JobThread Blog</a>
-				|
-				<a href="jt/home/privacy.php" rel="nofollow">Privacy</a>
-				|
-				<a href="jt/home/terms_of_service.php" rel="nofollow">Terms of Service</a>
-				|
-				<a href="jt/home/contact_us.php" rel="nofollow">Contact Us</a>
-			</td>
-			<td align="right">
-				©2005-2006 JobThread, Inc.  All rights reserved.
-			</td>
-		</tr>
-		</tbody></table>
+		<a href="http://www.jobthread.com/">Home</a>
+		|
+		<a href="http://www.jobthread.com/jt/home/about_us.php" rel="nofollow">About Us</a>
+		|
+		<a href="http://jobthread.blogspot.com/" rel="nofollow">Blog</a>
+		|
+		<a href="http://jobthread.jobthread.com/" rel="nofollow">Careers</a>
+		|
+		<a href="http://www.jobthread.com/jt/home/privacy.php" rel="nofollow">Privacy</a>
+		|
+		<a href="http://www.jobthread.com/jt/home/terms_of_service.php" rel="nofollow">Terms of Service</a>
+		|
+		<a href="http://www.jobthread.com/jt/home/contact_us.php" rel="nofollow">Contact Us</a>
+		|
+		<a href="http://www.jobthread.com/jt/home/tour_pro.php" rel="nofollow">JobThread Pro</a>
+		|
+		<a href="http://www.jobthread.com/job-board-software" rel="nofollow">Job Board Software</a>
+
+		<div style="padding-top:10px;">
+			© 2005-2007 JobThread, Inc.  All rights reserved.
+		</div>
 	</div>
 
 
@@ -425,4 +492,4 @@ urchinTracker();
 </script>
 
 
-</body></html>
+</div></body></html>
