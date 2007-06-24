@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taiwannews.com.tw privacy policy that was archived on 2006-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061127033307id_/http%3A//www.taiwannews.com.tw/etn/common_pagectl.php%3Fpg%3DPOLICY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taiwannews.com.tw privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624023631id_/http%3A//www.taiwannews.com.tw/etn/common_pagectl.php%3Fpg%3DPOLICY) for the most accurate reproduction.*
 
 # Taiwan News Online
 
