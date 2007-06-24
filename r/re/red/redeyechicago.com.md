@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redeyechicago.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209152947id_/http%3A//redeye.chicagotribune.com/services/site/red-privacy%2C0%2C2011041.story%3Fcoll%3Dred-footerlinks) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redeyechicago.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624140121id_/http%3A//redeye.chicagotribune.com/services/site/red-privacy%2C0%2C2011041.story%3Fcoll%3Dred-footerlinks) for the most accurate reproduction.*
 
 # Privacy Policy | Redeye | Services
 
@@ -43,10 +43,10 @@ Contacting us.
 We can be reached by contacting:
 
 redeyechicago.com  
-c/o Barbara Healy  
+c/o Christopher Shoup  
 435 Michigan Avenue  
 Chicago, IL 60611  
-Email: bahealy@tribune.com
+Email: cashoup@tribune.com
 
 **Changes to this policy.**
 
