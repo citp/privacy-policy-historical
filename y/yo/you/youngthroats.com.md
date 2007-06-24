@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youngthroats.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118150154id_/http%3A//youngthroats.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youngthroats.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624082215id_/http%3A//www.youngthroats.com/privacy.html) for the most accurate reproduction.*
 
 # The youngest internet deep throats
 
