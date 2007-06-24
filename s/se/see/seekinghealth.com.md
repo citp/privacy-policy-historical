@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the seekinghealth.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117105843id_/http%3A//www.seekinghealth.com/seeking_health/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seekinghealth.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624050540id_/http%3A//www.seekinghealth.com/seeking_health/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy -Seeking Health
 
-|   
-  
+|  | [](http://www.seekinghealth.com/seeking_health/index.php) |   
+---|---  
+| 
+
 |   
 ---  
 Privacy Policy  
