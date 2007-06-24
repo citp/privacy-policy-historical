@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inbox.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211111313id_/http%3A//www.inbox.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inbox.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624130752id_/http%3A//www.inbox.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Inbox.com - Privacy Policy
 
@@ -22,11 +22,11 @@ Visiting and using Inbox.com Services may result in Inbox.com receiving performa
 
 ## Personally Identifiable Information
 
-Some of Inbox.com services require registration in order to create an account. The registration information typically asked for includes your name, email address and account password. This information is necessary to initiate as well as continually use the account. Searches using alternate search engines such as MSN®, GoogleTM, and Yahoo!® through the Inbox Toolbar are relayed through our servers, however, we don't collect any search specific or user related information.
+Some of Inbox.com services require registration in order to create an account. The registration information typically asked for includes your name, email address and account password. This information is necessary to initiate as well as continually use the account. Searches using alternate search engines such as MSN®, GoogleTM, and Yahoo!® through the Inbox.com Toolbar are relayed through our servers, however, we don't collect any search specific or user related information.
 
 ## Cookies
 
-Cookies are small files that contain information that a website uses to store user preferences and settings. You can reset your browser to control cookies; however, some Inbox.com services may not function properly if cookies are refused. Searches using alternate search engines such as MSN®, GoogleTM, and Yahoo!® through the Inbox Toolbar are relayed through our servers, however, we don't collect any search specific or user related information.
+Cookies are small files that contain information that a website uses to store user preferences and settings. You can reset your browser to control cookies; however, some Inbox.com services may not function properly if cookies are refused. Searches using alternate search engines such as MSN®, GoogleTM, and Yahoo!® through the Inbox.com Toolbar are relayed through our servers, however, we don't collect any search specific or user related information.
 
 ## Sharing of Information
 
