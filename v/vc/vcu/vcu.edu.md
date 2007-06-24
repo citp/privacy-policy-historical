@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vcu.edu privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206044141id_/http%3A//www.vcu.edu/vcu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vcu.edu privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624105724id_/http%3A//www.vcu.edu/vcu/privacy.php) for the most accurate reproduction.*
 
 # Virginia Commonwealth University – Privacy statement
 
