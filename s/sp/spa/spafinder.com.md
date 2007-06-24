@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spafinder.com privacy policy that was archived on 2006-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061112041523id_/http%3A//www.spafinder.com/Company/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spafinder.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624031811id_/http%3A//www.spafinder.com/Company/privacy.jsp) for the most accurate reproduction.*
 
 # Spa Finder Privacy Policy
 
