@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the teachingstrategies.com privacy policy that was archived on 2006-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061119032935id_/http%3A//www.teachingstrategies.com/pages/page.cfm%3FpageID%3D76) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the teachingstrategies.com privacy policy that was archived on 2007-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070624082014id_/http%3A//www.teachingstrategies.com/page/privacyPolicy.cfm) for the most accurate reproduction.-->
 
 <html><head>
 	
@@ -46,26 +46,26 @@
 		if (document.images) {
 			
 			
-				TopMenu_home_over = newImage("/images/nav_inner/home_on.gif");
-				TopMenu_home_Selected = newImage("/images/nav_inner/home_sel.gif");
+				TopMenu_home_over = newImage("/images/nav2/home_on.gif");
+				TopMenu_home_Selected = newImage("/images/nav2/home_on.gif");
 			
-				TopMenu_about_over = newImage("/images/nav_inner/about_on.gif");
-				TopMenu_about_Selected = newImage("/images/nav_inner/about_sel.gif");
+				TopMenu_about_over = newImage("/images/nav2/about_on.gif");
+				TopMenu_about_Selected = newImage("/images/nav2/about_on.gif");
 			
-				TopMenu_book_over = newImage("/images/nav_inner/book_on.gif");
-				TopMenu_book_Selected = newImage("/images/nav_inner/book_sel.gif");
+				TopMenu_book_over = newImage("/images/nav2/book_on.gif");
+				TopMenu_book_Selected = newImage("/images/nav2/book_on.gif");
 			
-				TopMenu_train_over = newImage("/images/nav_inner/train_on.gif");
-				TopMenu_train_Selected = newImage("/images/nav_inner/train_sel.gif");
+				TopMenu_train_over = newImage("/images/nav2/train_on.gif");
+				TopMenu_train_Selected = newImage("/images/nav2/train_on.gif");
 			
-				TopMenu_events_over = newImage("/images/nav_inner/events_on.gif");
-				TopMenu_events_Selected = newImage("/images/nav_inner/events_sel.gif");
+				TopMenu_events_over = newImage("/images/nav2/events_on.gif");
+				TopMenu_events_Selected = newImage("/images/nav2/events_on.gif");
 			
-				TopMenu_curr_over = newImage("/images/nav_inner/curr_on.gif");
-				TopMenu_curr_Selected = newImage("/images/nav_inner/curr_sel.gif");
+				TopMenu_curr_over = newImage("/images/nav2/curr_on.gif");
+				TopMenu_curr_Selected = newImage("/images/nav2/curr_on.gif");
 			
-				TopMenu_res_over = newImage("/images/nav_inner/res_on.gif");
-				TopMenu_res_Selected = newImage("/images/nav_inner/res_sel.gif");
+				TopMenu_res_over = newImage("/images/nav2/res_on.gif");
+				TopMenu_res_Selected = newImage("/images/nav2/res_on.gif");
 			
 			
 			MainMenu_infant_over = newImage("/images/general/MainMenu_infant-over.gif");
@@ -84,16 +84,132 @@
 	}
 
 	// -->
+	
+function mmLoadMenus() {
+	if (window.mm_menu_train) return;
+
+	
+	window.mm_menu_book = new Menu("root",230,26,"",11,"#116BA8","#C7E0F5","#C7E0F5","#116BA8","left","middle",3,0,1000,-5,7,true,true,true,0,true,true);
+	mm_menu_book.addMenuItem("NOW ON SALE","location='http://www.teachingstrategies.com/bookshop/browse.cfm?productCatID=12'");
+	mm_menu_book.addMenuItem("NEW PRODUCTS","location='http://www.teachingstrategies.com/bookshop/browse.cfm?productCatID=10'");
+	mm_menu_book.addMenuItem("BROWSE BY CATEGORY","location='http://www.teachingstrategies.com/bookshop/categories.cfm'");
+	mm_menu_book.addMenuItem("BROWSE BY AUTHOR","location='http://www.teachingstrategies.com/bookshop/authors.cfm'");
+	mm_menu_book.addMenuItem("BROWSE ALL TITLES","location='http://www.teachingstrategies.com/bookshop/browse.cfm'");
+	mm_menu_book.addMenuItem("EXPRESS ORDERING","location='http://www.teachingstrategies.com/bookshop/express.cfm'");
+	mm_menu_book.hideOnMouseOut=true;
+	mm_menu_book.bgColor='#FFFFFF';
+	mm_menu_book.menuBorder=1;
+	mm_menu_book.menuLiteBgColor='#FFFFFF';
+	mm_menu_book.menuBorderBgColor='#FFFFFF';
+	
+		window.mm_menu_about = new Menu("root",230,26,"",11,"#116BA8","#C7E0F5","#C7E0F5","#116BA8","left","middle",3,0,1000,-5,7,true,true,true,0,true,true);
+		
+			mm_menu_about.addMenuItem("ABOUT US","location='http://www.teachingstrategies.com/page/about.cfm'");
+		
+			mm_menu_about.addMenuItem("WHO'S WHO AT TEACHING STRATEGIES?","location='http://www.teachingstrategies.com/page/AU_WhosWho.cfm'");
+		
+			mm_menu_about.addMenuItem("CONTACT US","location='http://www.teachingstrategies.com/page/contactUs.cfm'");
+		
+			mm_menu_about.addMenuItem("PRESS ROOM","location='http://www.teachingstrategies.com/page/AU_PressRoom.cfm'");
+		
+			mm_menu_about.addMenuItem("CAREERS AT TEACHING STRATEGIES","location='http://www.teachingstrategies.com/page/AU_Careers.cfm'");
+		
+			mm_menu_about.addMenuItem("HURRICANE RELIEF EFFORTS","location='http://www.teachingstrategies.com/page/AU_HurricianeRelief.cfm'");
+		
+			mm_menu_about.addMenuItem("ARTICLES","location='http://www.teachingstrategies.com/pages/articles.cfm?pg_SectionID=7'");
+		
+		mm_menu_about.hideOnMouseOut=true;
+		mm_menu_about.bgColor='#FFFFFF';
+		mm_menu_about.menuBorder=1;
+		mm_menu_about.menuLiteBgColor='#FFFFFF';
+		mm_menu_about.menuBorderBgColor='#FFFFFF';
+   
+		window.mm_menu_curr = new Menu("root",230,26,"",11,"#116BA8","#C7E0F5","#C7E0F5","#116BA8","left","middle",3,0,1000,-5,7,true,true,true,0,true,true);
+		
+			mm_menu_curr.addMenuItem("CURRICULUM AND ASSESSMENT","location='http://www.teachingstrategies.com/page/curr.cfm'");
+		
+			mm_menu_curr.addMenuItem("IMPLEMENTATION CHECKLIST","location='http://www.teachingstrategies.com/page/CA_ImplementationChecklist.cfm'");
+		
+			mm_menu_curr.addMenuItem("ASSESSMENT SOLUTIONS","location='http://www.teachingstrategies.com/page/CA_AssessmentSolutions.cfm'");
+		
+			mm_menu_curr.addMenuItem("ARTICLES","location='http://www.teachingstrategies.com/pages/articles.cfm?pg_SectionID=2'");
+		
+		mm_menu_curr.hideOnMouseOut=true;
+		mm_menu_curr.bgColor='#FFFFFF';
+		mm_menu_curr.menuBorder=1;
+		mm_menu_curr.menuLiteBgColor='#FFFFFF';
+		mm_menu_curr.menuBorderBgColor='#FFFFFF';
+   
+		window.mm_menu_events = new Menu("root",230,26,"",11,"#116BA8","#C7E0F5","#C7E0F5","#116BA8","left","middle",3,0,1000,-5,7,true,true,true,0,true,true);
+		
+			mm_menu_events.addMenuItem("EVENTS MAIN","location='http://www.teachingstrategies.com/page/events.cfm'");
+		
+			mm_menu_events.addMenuItem("WEBINARS","location='http://www.teachingstrategies.com/page/EV_Webinars.cfm'");
+		
+			mm_menu_events.addMenuItem("EXHIBITS","location='http://www.teachingstrategies.com/page/EV_Exhibits.cfm'");
+		
+		mm_menu_events.hideOnMouseOut=true;
+		mm_menu_events.bgColor='#FFFFFF';
+		mm_menu_events.menuBorder=1;
+		mm_menu_events.menuLiteBgColor='#FFFFFF';
+		mm_menu_events.menuBorderBgColor='#FFFFFF';
+   
+		window.mm_menu_res = new Menu("root",230,26,"",11,"#116BA8","#C7E0F5","#C7E0F5","#116BA8","left","middle",3,0,1000,-5,7,true,true,true,0,true,true);
+		
+			mm_menu_res.addMenuItem("RESEARCH OVERVIEW","location='http://www.teachingstrategies.com/page/res.cfm'");
+		
+			mm_menu_res.addMenuItem("PUBLIC POLICY OVERVIEW","location='http://www.teachingstrategies.com/page/RES_PublicPolicy.cfm'");
+		
+			mm_menu_res.addMenuItem("STATE ALIGNMENTS","location='http://www.teachingstrategies.com/page/RES_StateAlignments.cfm'");
+		
+			mm_menu_res.addMenuItem("EARLY READING FIRST GRANTS","location='http://www.teachingstrategies.com/page/279.cfm'");
+		
+			mm_menu_res.addMenuItem("ARTICLES","location='http://www.teachingstrategies.com/pages/articles.cfm?pg_SectionID=14'");
+		
+		mm_menu_res.hideOnMouseOut=true;
+		mm_menu_res.bgColor='#FFFFFF';
+		mm_menu_res.menuBorder=1;
+		mm_menu_res.menuLiteBgColor='#FFFFFF';
+		mm_menu_res.menuBorderBgColor='#FFFFFF';
+   
+		window.mm_menu_train = new Menu("root",230,26,"",11,"#116BA8","#C7E0F5","#C7E0F5","#116BA8","left","middle",3,0,1000,-5,7,true,true,true,0,true,true);
+		
+			mm_menu_train.addMenuItem("PROFESSIONAL DEVELOPMENT MAIN","location='http://www.teachingstrategies.com/page/train.cfm'");
+		
+			mm_menu_train.addMenuItem("CONFERENCES & SEMINARS","location='http://www.teachingstrategies.com/page/conf.cfm'");
+		
+			mm_menu_train.addMenuItem("ARRANGING ON-SITE SERVICES","location='http://www.teachingstrategies.com/page/PD_OnSiteServices.cfm'");
+		
+			mm_menu_train.addMenuItem("WORKSHOP TOPICS","location='http://www.teachingstrategies.com/page/PD_WorkshopTopics.cfm'");
+		
+			mm_menu_train.addMenuItem("TESTIMONIALS","location='http://www.teachingstrategies.com/page/PD_Testimonials.cfm'");
+		
+			mm_menu_train.addMenuItem("KEYNOTES","location='http://www.teachingstrategies.com/page/PD_Keynotes.cfm'");
+		
+			mm_menu_train.addMenuItem("ARTICLES","location='http://www.teachingstrategies.com/pages/articles.cfm?pg_SectionID=9'");
+		
+		mm_menu_train.hideOnMouseOut=true;
+		mm_menu_train.bgColor='#FFFFFF';
+		mm_menu_train.menuBorder=1;
+		mm_menu_train.menuLiteBgColor='#FFFFFF';
+		mm_menu_train.menuBorderBgColor='#FFFFFF';
+   
+
+mm_menu_train.writeMenus();
+} // mmLoadMenus()
+
+
 	</script>
+
 	
 	
-	
-	
+	<script language="JavaScript" src="/mm_menu.js"></script>
+	<script language="JavaScript" src="/scripts/roll.js"></script>
 	
 	</head>
 
 	<body onload="preloadImages();" bgcolor="White" text="Black" link="Navy" vlink="Navy" alink="Blue" leftmargin="0" topmargin="0" rightmargin="0" marginwidth="0" marginheight="0">
-	
+	<script language="JavaScript1.2">mmLoadMenus();</script>
 	<table width="100%" border="0" cellspacing="0" cellpadding="0">
 		<tbody><tr valign="top">
 			<!-- BEGIN LEFT NAV -->
@@ -103,7 +219,7 @@
 					<img src="/images/general/LeftSweepTop.jpg" width="80" height="71"><img src="/images/spacer.gif" width="16" height="1"><br>
 				
 				
-				<a onmouseover="changeImages('MainMenu_infant','/images/general/MainMenu_infant-over.gif'); return true;" onmouseout="changeImages('MainMenu_infant', '/images/general/MainMenu_infant.gif'); return true;" href="http://www.teachingstrategies.com/pages/page.cfm?pg_section=infant"><img height="26" name="MainMenu_infant" src="/images/general/MainMenu_infant.gif" width="130" border="0" alt="infant/toddler"></a><br><a onmouseover="changeImages('MainMenu_preschool','/images/general/MainMenu_preschool-over.gif'); return true;" onmouseout="changeImages('MainMenu_preschool', '/images/general/MainMenu_preschool.gif'); return true;" href="http://www.teachingstrategies.com/pages/page.cfm?pg_section=preschool"><img height="26" name="MainMenu_preschool" src="/images/general/MainMenu_preschool.gif" width="130" border="0" alt="preschool"></a><br><a onmouseover="changeImages('MainMenu_family','/images/general/MainMenu_family-over.gif'); return true;" onmouseout="changeImages('MainMenu_family', '/images/general/MainMenu_family.gif'); return true;" href="http://www.teachingstrategies.com/pages/page.cfm?pg_section=family"><img height="26" name="MainMenu_family" src="/images/general/MainMenu_family.gif" width="130" border="0" alt="family child care"></a><br><a onmouseover="changeImages('MainMenu_primary','/images/general/MainMenu_primary-over.gif'); return true;" onmouseout="changeImages('MainMenu_primary', '/images/general/MainMenu_primary.gif'); return true;" href="http://www.teachingstrategies.com/pages/page.cfm?pg_section=primary"><img height="26" name="MainMenu_primary" src="/images/general/MainMenu_primary.gif" width="130" border="0" alt="primary &amp; school-age"></a><br>
+				<a onmouseover="changeImages('MainMenu_infant','/images/general/MainMenu_infant-over.gif'); return true;" onmouseout="changeImages('MainMenu_infant', '/images/general/MainMenu_infant.gif'); return true;" href="http://www.teachingstrategies.com/page/infant.cfm"><img height="26" name="MainMenu_infant" src="/images/general/MainMenu_infant.gif" width="130" border="0" alt="infant/toddler"></a><br><a onmouseover="changeImages('MainMenu_preschool','/images/general/MainMenu_preschool-over.gif'); return true;" onmouseout="changeImages('MainMenu_preschool', '/images/general/MainMenu_preschool.gif'); return true;" href="http://www.teachingstrategies.com/page/preschool.cfm"><img height="26" name="MainMenu_preschool" src="/images/general/MainMenu_preschool.gif" width="130" border="0" alt="preschool"></a><br><a onmouseover="changeImages('MainMenu_family','/images/general/MainMenu_family-over.gif'); return true;" onmouseout="changeImages('MainMenu_family', '/images/general/MainMenu_family.gif'); return true;" href="http://www.teachingstrategies.com/page/family.cfm"><img height="26" name="MainMenu_family" src="/images/general/MainMenu_family.gif" width="130" border="0" alt="family child care"></a><br><a onmouseover="changeImages('MainMenu_primary','/images/general/MainMenu_primary-over.gif'); return true;" onmouseout="changeImages('MainMenu_primary', '/images/general/MainMenu_primary.gif'); return true;" href="http://www.teachingstrategies.com/page/primary.cfm"><img height="26" name="MainMenu_primary" src="/images/general/MainMenu_primary.gif" width="130" border="0" alt="primary &amp; school-age"></a><br>
 				<img src="/images/General/LeftSweepBottom.jpg" width="72" height="200" alt="" border="0">
 				
 				
@@ -142,7 +258,7 @@
 										<td width="4"><img src="/images/wedge.gif" alt="" width="4" height="53"></td>
 									
 									<td width="11" bgcolor="#99CC33">&nbsp;</td>
-									<td width="152" bgcolor="#99CC33" background="/images/general/99CC33.gif"><form action="http://www.teachingstrategies.com/search.cfm" method="post" style="margin-bottom: 0px;"><font face="Verdana,Geneva,Arial,Helvetica,sans-serif" size="1"><img src="/images/spacer.gif" width="15" height="4"><br>
+									<td width="152" bgcolor="#99CC33" background="/images/general/99CC33.gif"><form action="http://www.teachingstrategies.com/search.cfm" method="get" style="margin-bottom: 0px;"><font face="Verdana,Geneva,Arial,Helvetica,sans-serif" size="1"><img src="/images/spacer.gif" width="15" height="4"><br>
 										<input type="text" name="keywords" size="10" style="font-family: Courier; font-size: 10px;"><img src="/images/spacer.gif" align="absmiddle" width="5"><input type="image" src="/images/general/SearchButton.jpg" height="20" width="57" align="absmiddle" border="0" alt="Search"><img src="/images/spacer.gif" width="5" align="absmiddle"><br>
 										 <input type="radio" name="searchType" value="website" checked="" style="background-color: rgb(153, 204, 51);"><font style="font-size: 9px;" size="1">website</font>
 										 <input type="radio" name="searchType" value="bookshop" style="background-color: rgb(153, 204, 51);;"><font style="font-size: 9px;" size="1">bookshop</font></font>
@@ -157,7 +273,7 @@
 												<td>
 												
 													
-														<a href="http://www.teachingstrategies.com/myAccount/login.cfm?rurl=http%3A%2F%2Fwww%2Eteachingstrategies%2Ecom%2Fpages%2Fpage%2Ecfm%3FpageID%3D76" onmouseover="changeImages('TopButton_Login', '/images/GENERAL/TopButton-Login_over.gif'); return true;" onmouseout="changeImages('TopButton_Login', '/images/GENERAL/TopButton-Login.gif'); return true;">
+														<a href="http://www.teachingstrategies.com/myAccount/login.cfm?rurl=http%3A%2F%2Fwww%2Eteachingstrategies%2Ecom%2Fpage%2FprivacyPolicy%2Ecfm" onmouseover="changeImages('TopButton_Login', '/images/GENERAL/TopButton-Login_over.gif'); return true;" onmouseout="changeImages('TopButton_Login', '/images/GENERAL/TopButton-Login.gif'); return true;">
 															<img name="TopButton_Login" src="/images/GENERAL/TopButton-Login.gif" width="86" height="17" border="0" alt="LOG IN"></a></td>
 													
 												
@@ -190,13 +306,11 @@
 				<table width="100%" border="0" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						<td><img src="/images/white.gif" width="18" border="0"></td>
-						
-						
+
 						
 
-						<td valign="bottom" bgcolor="669934">
-							<a onmouseover="changeImages('TopMenu_home','/images/nav_inner/home_on.gif'); return true;" onmouseout="changeImages('TopMenu_home', '/images/nav_inner/home_off.gif'); return true;" href="http://www.teachingstrategies.com"><img border="0" name="TopMenu_home" src="/images/nav_inner/home_off.gif" alt="HOME"></a><a onmouseover="changeImages('TopMenu_about','/images/nav_inner/about_on.gif'); return true;" onmouseout="changeImages('TopMenu_about', '/images/nav_inner/about_off.gif'); return true;" href="http://www.teachingstrategies.com/pages/page.cfm?pg_section=about"><img border="0" src="/images/nav_inner/about_off.gif" alt="ABOUT US" name="TopMenu_about"></a><a onmouseover="changeImages('TopMenu_book','/images/nav_inner/book_on.gif'); return true;" onmouseout="changeImages('TopMenu_book', '/images/nav_inner/book_off.gif'); return true;" href="http://www.teachingstrategies.com/bookshop"><img border="0" name="TopMenu_book" src="/images/nav_inner/book_off.gif" alt="BOOKSHOP"></a><a onmouseover="changeImages('TopMenu_train','/images/nav_inner/train_on.gif'); return true;" onmouseout="changeImages('TopMenu_train', '/images/nav_inner/train_off.gif'); return true;" href="http://www.teachingstrategies.com/pages/page.cfm?pg_section=train"><img border="0" src="/images/nav_inner/train_off.gif" alt="TRAINING" name="TopMenu_train"></a><a onmouseover="changeImages('TopMenu_events','/images/nav_inner/events_on.gif'); return true;" onmouseout="changeImages('TopMenu_events', '/images/nav_inner/events_off.gif'); return true;" href="http://www.teachingstrategies.com/pages/page.cfm?pg_section=events"><img border="0" src="/images/nav_inner/events_off.gif" alt="EVENTS" name="TopMenu_events"></a><a onmouseover="changeImages('TopMenu_curr','/images/nav_inner/curr_on.gif'); return true;" onmouseout="changeImages('TopMenu_curr', '/images/nav_inner/curr_off.gif'); return true;" href="http://www.teachingstrategies.com/pages/page.cfm?pg_section=curr"><img border="0" src="/images/nav_inner/curr_off.gif" alt="CURRICULUM &amp; ASSESSMENT" name="TopMenu_curr"></a><a onmouseover="changeImages('TopMenu_res','/images/nav_inner/res_on.gif'); return true;" onmouseout="changeImages('TopMenu_res', '/images/nav_inner/res_off.gif'); return true;" href="http://www.teachingstrategies.com/pages/page.cfm?pg_section=res"><img border="0" src="/images/nav_inner/res_off.gif" alt="RESEARCH/PUBLIC POLICY" name="TopMenu_res"></a></td>
-
+						<td valign="bottom" style="background-color: #116BA8; border-bottom: solid 1px #FFFFFF;"><a href="/index.cfm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('home','','/images/nav2/home2_on.gif',1)"><img src="/images/nav2/home2_off.gif" alt="Home" name="home" width="48" height="25" border="0" id="home"></a><a href="http://www.teachingstrategies.com/page/about.cfm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('about','','/images/nav2/about_on.gif',1)"><img src="/images/nav2/about_off.gif" alt="About Us" name="about" width="75" height="25" border="0" id="about" onmouseover="MM_showMenu(window.mm_menu_about,0,25,null,'about')" onmouseout="MM_startTimeout();"></a><a href="http://www.teachingstrategies.com/bookshop" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('book','','/images/nav2/bookshop_on.gif',1)"><img src="/images/nav2/bookshop_off.gif" alt="Bookshop" name="book" width="81" height="25" border="0" id="book" onmouseover="MM_showMenu(window.mm_menu_book,0,25,null,'book')" onmouseout="MM_startTimeout();"></a><a href="http://www.teachingstrategies.com/page/train.cfm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('train','','/images/nav2/train_on.gif',1)"><img src="/images/nav2/train_off.gif" alt="Professional Development" name="train" width="180" height="25" border="0" id="train" onmouseover="MM_showMenu(window.mm_menu_train,0,25,null,'train')" onmouseout="MM_startTimeout();"></a><a href="http://www.teachingstrategies.com/page/events.cfm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('events','','/images/nav2/events_on.gif',1)"><img src="/images/nav2/events_off.gif" alt="Events" name="events" width="62" height="25" border="0" id="events" onmouseover="MM_showMenu(window.mm_menu_events,0,25,null,'events')" onmouseout="MM_startTimeout();"></a><a href="http://www.teachingstrategies.com/page/curr.cfm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('curr','','/images/nav2/curr_on.gif',1)"><img src="/images/nav2/curr_off.gif" alt="Curriculum" name="curr" width="171" height="25" border="0" id="curr" onmouseover="MM_showMenu(window.mm_menu_curr,0,25,null,'curr')" onmouseout="MM_startTimeout();"></a><a href="http://www.teachingstrategies.com/page/res.cfm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('res','','/images/nav2/res_on.gif',1)"><img src="/images/nav2/res_off.gif" alt="Research/Public Policy" name="res" width="161" height="25" border="0" id="res" onmouseover="MM_showMenu(window.mm_menu_res,-72,25,null,'res')" onmouseout="MM_startTimeout();"></a></td>
+						
 					</tr>
 				</tbody></table>
 				<!-- END TOP BUTTON ROW -->
@@ -208,7 +322,7 @@
 
 						
 						<td align="left" width="100%">
-							<p class="crumb"><a href="page.cfm?pg_section=service">Customer Relations</a></p>
+							<p class="crumb"><a href="http://www.teachingstrategies.com/page/service.cfm">Customer Relations</a></p>
 						</td>
 						
 
@@ -241,8 +355,9 @@
 			</p>
 
 			
-				
-				<span class="cont"><p align="left"><span style="font-size:10px"><font size="1"><span style="color:#666666;"><font color="#666666">Inside this page:</font></span>&nbsp;</font></span><a href="#Our_Security_Policy"><span style="font-size:10px"><font size="1">Security</font></span></a><a href="#Our_Security_Policy"><span style="font-size:10px"><font size="1">&nbsp;Policy</font></span></a><span style="font-size:10px"><font size="1"> | </font></span><a href="#Our_Privacy_Policy" target=""><span style="font-size:10px"><font size="1">Privacy Policy</font></span></a> 
+
+			
+			<span class="cont"><p align="left"><span style="font-size:10px"><font size="1"><span style="color:#666666;"><font color="#666666">Inside this page:</font></span>&nbsp;</font></span><a href="#Our_Security_Policy"><span style="font-size:10px"><font size="1">Security</font></span></a><a href="#Our_Security_Policy"><span style="font-size:10px"><font size="1">&nbsp;Policy</font></span></a><span style="font-size:10px"><font size="1"> | </font></span><a href="#Our_Privacy_Policy" target=""><span style="font-size:10px"><font size="1">Privacy Policy</font></span></a> 
 </p><p align="left">
 <table cellspacing="0" cellpadding="5" align="center" border="0">
 <tbody></tbody></table>
@@ -329,7 +444,6 @@ Your information is safe with Teaching Strategies. We know that you care how inf
 
 <p><a href="#top"><span style="font-size:10px"><font size="1">back to top</font></span></a></p>
 </span>
-			
 			<br clear="all">
 		
 
@@ -386,7 +500,7 @@ Your information is safe with Teaching Strategies. We know that you care how inf
 							
 								<td colspan="2">
 							
-								<a href="page.cfm?pageid=74" class="rightMenuLink"><img src="../images/spacer.gif" alt="" width="138" height="5" border="0"><br>CUSTOMER RELATIONS MAIN<br><img src="../images/spacer.gif" alt="" width="138" height="5" border="0"></a></td>
+								<a href="http://www.teachingstrategies.com/page/service.cfm" class="rightMenuLink"><img src="../images/spacer.gif" alt="" width="138" height="5" border="0"><br>CUSTOMER RELATIONS MAIN<br><img src="../images/spacer.gif" alt="" width="138" height="5" border="0"></a></td>
 							</tr>
 						
 							<tr><td bgcolor="FFF8C4" colspan="3"><img src="../images/spacer.gif" alt="" width="1" height="1"></td></tr>
@@ -397,7 +511,7 @@ Your information is safe with Teaching Strategies. We know that you care how inf
 							
 								<td colspan="2">
 							
-								<a href="page.cfm?pageid=75" class="rightMenuLink"><img src="../images/spacer.gif" alt="" width="138" height="5" border="0"><br>SHIPPING INFORMATION<br><img src="../images/spacer.gif" alt="" width="138" height="5" border="0"></a></td>
+								<a href="http://www.teachingstrategies.com/page/shippingInformation.cfm" class="rightMenuLink"><img src="../images/spacer.gif" alt="" width="138" height="5" border="0"><br>SHIPPING INFORMATION<br><img src="../images/spacer.gif" alt="" width="138" height="5" border="0"></a></td>
 							</tr>
 						
 							<tr><td bgcolor="FFF8C4" colspan="3"><img src="../images/spacer.gif" alt="" width="1" height="1"></td></tr>
@@ -408,7 +522,7 @@ Your information is safe with Teaching Strategies. We know that you care how inf
 							
 								<td colspan="2">
 							
-								<a href="page.cfm?pageid=77" class="rightMenuLink"><img src="../images/spacer.gif" alt="" width="138" height="5" border="0"><br>BOOKSHOP POLICIES<br><img src="../images/spacer.gif" alt="" width="138" height="5" border="0"></a></td>
+								<a href="http://www.teachingstrategies.com/page/bookshopPolicies.cfm" class="rightMenuLink"><img src="../images/spacer.gif" alt="" width="138" height="5" border="0"><br>BOOKSHOP POLICIES<br><img src="../images/spacer.gif" alt="" width="138" height="5" border="0"></a></td>
 							</tr>
 						
 							<tr><td bgcolor="FFF8C4" colspan="3"><img src="../images/spacer.gif" alt="" width="1" height="1"></td></tr>
@@ -419,7 +533,7 @@ Your information is safe with Teaching Strategies. We know that you care how inf
 							
 								<td colspan="2">
 							
-								<a href="page.cfm?pageid=76" class="rightMenuLink"><img src="../images/spacer.gif" alt="" width="138" height="5" border="0"><br>SECURITY AND PRIVACY<br><img src="../images/spacer.gif" alt="" width="138" height="5" border="0"></a></td>
+								<a href="http://www.teachingstrategies.com/page/privacyPolicy.cfm" class="rightMenuLink"><img src="../images/spacer.gif" alt="" width="138" height="5" border="0"><br>SECURITY AND PRIVACY<br><img src="../images/spacer.gif" alt="" width="138" height="5" border="0"></a></td>
 							</tr>
 						
 							<tr><td bgcolor="FFF8C4" colspan="3"><img src="../images/spacer.gif" alt="" width="1" height="1"></td></tr>
@@ -430,7 +544,7 @@ Your information is safe with Teaching Strategies. We know that you care how inf
 							
 								<td colspan="2">
 							
-								<a href="page.cfm?pageid=153" class="rightMenuLink"><img src="../images/spacer.gif" alt="" width="138" height="5" border="0"><br>E-MAIL NEWSLETTER &amp; DISCUSSION GROUP<br><img src="../images/spacer.gif" alt="" width="138" height="5" border="0"></a></td>
+								<a href="http://www.teachingstrategies.com/page/CR_ENewsDiscGroup.cfm" class="rightMenuLink"><img src="../images/spacer.gif" alt="" width="138" height="5" border="0"><br>E-MAIL NEWSLETTER &amp; DISCUSSION GROUP<br><img src="../images/spacer.gif" alt="" width="138" height="5" border="0"></a></td>
 							</tr>
 						
 							<tr><td bgcolor="FFF8C4" colspan="3"><img src="../images/spacer.gif" alt="" width="1" height="1"></td></tr>
@@ -441,7 +555,7 @@ Your information is safe with Teaching Strategies. We know that you care how inf
 							
 								<td colspan="2">
 							
-								<a href="page.cfm?pageid=137" class="rightMenuLink"><img src="../images/spacer.gif" alt="" width="138" height="5" border="0"><br>COPYRIGHT POLICIES<br><img src="../images/spacer.gif" alt="" width="138" height="5" border="0"></a></td>
+								<a href="http://www.teachingstrategies.com/page/CR_Copyright.cfm" class="rightMenuLink"><img src="../images/spacer.gif" alt="" width="138" height="5" border="0"><br>COPYRIGHT POLICIES<br><img src="../images/spacer.gif" alt="" width="138" height="5" border="0"></a></td>
 							</tr>
 						
 						<tr><td bgcolor="FFF8C4" colspan="3"><img src="../images/spacer.gif" alt="" width="1" height="1"></td></tr>
@@ -455,7 +569,7 @@ Your information is safe with Teaching Strategies. We know that you care how inf
 								
 									<tr valign="top" onmouseover="this.style.backgroundColor='FFDB71'" onmouseout="this.style.backgroundColor=''"><td></td>
 								
-									<td colspan="2"><a href="faqs.cfm?pg_sectionid=13" class="rightMenuLink"><img src="../images/spacer.gif" alt="" width="138" height="5" border="0"><br>FREQUENTLY ASKED QUESTIONS<br><img src="../images/spacer.gif" alt="" width="138" height="5" border="0"></a></td>
+									<td colspan="2"><a href="http://www.teachingstrategies.com/pages/faqs.cfm?pg_sectionid=13" class="rightMenuLink"><img src="../images/spacer.gif" alt="" width="138" height="5" border="0"><br>FREQUENTLY ASKED QUESTIONS<br><img src="../images/spacer.gif" alt="" width="138" height="5" border="0"></a></td>
 								</tr>
 								<tr><td bgcolor="FFF8C4" colspan="3"><img src="../images/spacer.gif" alt="" width="1" height="1"></td></tr>
 							
@@ -463,8 +577,8 @@ Your information is safe with Teaching Strategies. We know that you care how inf
 					
 					
 					
-					
 
+					
 				</tbody></table>
 				<p>&nbsp;</p><p>
 				<!-- END RIGHT NAV BUTTONS -->
@@ -504,7 +618,7 @@ Your information is safe with Teaching Strategies. We know that you care how inf
 					}
 					</script>
 					
-					<a href="http://www.teachingstrategies.com/emailPage.cfm?link=http%3A%2F%2Fwww%2Eteachingstrategies%2Ecom%2Fpages%2Fpage%2Ecfm%3FpageID%3D76" target="emailpage" onclick="popIt()"><img height="27" alt="e-mail this page" src="/images/general/ThisPage-Email.jpg" width="83" border="0"></a><p></p>
+					<a href="http://www.teachingstrategies.com/emailPage.cfm?link=http%3A%2F%2Fwww%2Eteachingstrategies%2Ecom%2Fpage%2FprivacyPolicy%2Ecfm" target="emailpage" onclick="popIt()"><img height="27" alt="e-mail this page" src="/images/general/ThisPage-Email.jpg" width="83" border="0"></a><p></p>
 					
 				
 				
@@ -512,7 +626,7 @@ Your information is safe with Teaching Strategies. We know that you care how inf
 						
 					
 					
-					<p align="right"><a href="http://www.teachingstrategies.com/pages/page.cfm?pageID=76&amp;PF=1"><img height="27" alt="print this page" src="/images/general/ThisPage-Print.jpg" width="83" border="0"></a></p>
+					<p align="right"><a href="http://www.teachingstrategies.com/page/privacyPolicy.cfm?PF=1"><img height="27" alt="print this page" src="/images/general/ThisPage-Print.jpg" width="83" border="0"></a></p>
 					
 				
 			</td>
@@ -520,13 +634,13 @@ Your information is safe with Teaching Strategies. We know that you care how inf
 			<td width="80%">
 				<span class="footernav">
 					
-					<a href="http://www.teachingstrategies.com/pages/page.cfm?pg_section=service" class="footernav">Customer Relations</a>  |
-	               	<a href="http://www.teachingstrategies.com/pages/page.cfm?pageid=60" class="footernav">College Instructors</a> |
-		            <a href="http://www.teachingstrategies.com/pages/page.cfm?pageid=62" class="footernav">Permission to Reprint</a> |
-					<a href="http://www.teachingstrategies.com/pages/page.cfm?pg_section=resources" class="footernav">Additional Resources</a>  |
-					<a href="http://www.teachingstrategies.com/pages/page.cfm?pageID=76" class="footernav">Privacy Policy</a>  |
+					<a href="http://www.teachingstrategies.com/page/service.cfm" class="footernav">Customer Relations</a>  |
+	               	<a href="http://www.teachingstrategies.com/page/collegeInstructors.cfm" class="footernav">College Instructors</a> |
+		            <a href="http://www.teachingstrategies.com/page/permissionToReprint.cfm" class="footernav">Permission to Reprint</a> |
+					<a href="http://www.teachingstrategies.com/page/resources.cfm" class="footernav">Additional Resources</a>  |
+					<a href="http://www.teachingstrategies.com/page/privacyPolicy.cfm" class="footernav">Privacy Policy</a>  |
 					<a href="http://www.teachingstrategies.com/sitemap.cfm" class="footernav">Site Map</a>  |
-					<a href="http://www.teachingstrategies.com/pages/page.cfm?pageID=58" class="footernav">Contact Us</a>
+					<a href="http://www.teachingstrategies.com/page/contactUs.cfm" class="footernav">Contact Us</a>
 					
 				</span>
 				<p>
@@ -552,4 +666,6 @@ Your information is safe with Teaching Strategies. We know that you care how inf
 
 
 
+
+		
 </body></html>
