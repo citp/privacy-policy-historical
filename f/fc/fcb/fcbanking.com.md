@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fcbanking.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118130503id_/http%3A//fcbanking.com/Footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fcbanking.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625014237id_/http%3A//www.fcbanking.com/Footer/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -126,6 +126,7 @@ The following is a list of the First Commonwealth companies that may receive or 
   * First Commonwealth Financial Advisors Inc.
   * First Commonwealth Financial Corporation
   * First Commonwealth Insurance Agency
+  * First Commonwealth Home Mortgage 
   * FraMal Holdings Corporation
 
 
