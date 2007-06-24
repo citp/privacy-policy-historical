@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wkrn.com privacy policy that was archived on 2006-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061130133826id_/http%3A//www.wkrn.com/node/2510) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wkrn.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624132932id_/http%3A//www.wkrn.com/node/2510) for the most accurate reproduction.*
 
 # PRIVACY POLICY | WKRN.COM
 
