@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the cloncom.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230040402id_/http%3A//cloncom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloncom.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624192757id_/http%3A//www.cloncom.com/privacy) for the most accurate reproduction.*
 
 # Calling Cards: Your Phone Card & International Calling Cards Source.
 
 |   
 ---  
 Privacy Policy  
-'Last Updated on January 30th, 2006'  
+'Last Updated on May 1st, 2007'  
   
   | 
 
@@ -28,12 +28,12 @@ USA | [](http://www.truste.org/ivalidate.php?url=www.cloncom.com&sealid=101)
 ● |  Tell-A-Friend  
 ● |  Choice/Opt-out  
 ● |  Surveys or Contests   
-● |  Online Chat Function  
-● |  Cookies  
-● |  Paying Via Paypal  
+● |  Sharing your PII   
 ● | Agents  
+● |  Cookies  
 ● | Log Files  
 ● |  Changes to this Policy  
+● |  Business Transitions  
 ● |  We use appropriate security safeguards  
 ● |  Cloncom's Web sites may be linked to other Web sites  
 ● |  What happens to your Personal Information when you terminate your Account with us?  
@@ -45,10 +45,11 @@ When we obtain personal information as part of our direct relationship with you,
 
 \- In accordance with this Privacy Policy  
 \- To comply with federal, state and local laws, including credit reporting laws and card association rules **  
-** \- To combat fraud ********Since your needs may change, and Cloncom continuously develops new products and services, we may contact you to determine if we can provide you with additional services. Most of our customers appreciate hearing about our new products and services and prefer that we continue to contact them. If you would prefer not to be contacted, you'll have the corresponding instructions in each email, and you can also contact us by email [here](https://web.archive.org/support/contact_us_email.jsp).   
-To modify your personal information stored in your account, you will have to log into your account normally (with your email and password) and go to "Edit your Account" under "My Account". You can also contact us by email [here](https://web.archive.org/support/contact_us_email.jsp) with your desired changes to your information.   
+** \- To combat fraud ********Since your needs may change, and Cloncom continuously develops new products and services, we may contact you to determine if we can provide you with additional services. Most of our customers appreciate hearing about our new products and services and prefer that we continue to contact them.   
+If you would prefer not to be contacted, you will have the corresponding instructions in each email and you can also go to your “My Account” page and select the “Email Preferences” link to turn off the promotional emails you receive.  
+To modify your personal information, you will have to login to your account and select the “Account Information” link to change the personally identifiable information or you can click [here](https://web.archive.org/my_account/account_information.jsp).   
   
-|  Back to top  
+| Back to top  
 |    
 |   Communications from the Site   
 | 
@@ -61,27 +62,27 @@ We will send you strictly service-related announcements on rare occasions when i
 
 Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account.   
   
-|  Back to top  
+| Back to top  
 |    
 |   Tell-A-Friend   
 | 
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend an email inviting him or her to visit the site. After this, no further communications will be sent to your friend unless he or she registers on our site.  
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend an email inviting him or her to visit the site. After this, no further communications will be sent to your friend unless he or she registers on our site. We store your friend’s name and email address for the sole purpose of monitoring the referral program.  Your friend may contact us [here](https://web.archive.org/contact_us.jsp) to have their information deleted from our database.  
   
-|  Back to top  
+| Back to top  
 |    
 |   Choice/Opt-out   
 | 
 
 If you register to our site, we will send your order information (calling card PIN number and dialing instructions) to your email address. We will also send periodic corporate announcements, and may send special promotions to this email. You will receive a Welcome email as soon as you signup. Unsubscribe instructions for all communications are included in this email. You may unsubscribe at any time.
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by contacting us [here](https://web.archive.org/support/contact_us_email.jsp). 
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by contacting us [here](https://web.archive.org/contact_us.jsp). 
 
 You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party. 
 
   
   
-|  Back to top  
+| Back to top  
 |    
 | **   Surveys or Contests **  
 | 
@@ -90,14 +91,23 @@ From time-to-time we may provide you the opportunity to participate in contests 
 
 We will use this information solely to notify winners and award prizes. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.   
   
-|  Back to top  
+| Back to top  
 |    
-|   Online Chat Function   
+|   Sharing your PII   
 | 
 
-We use an Online Chat as an alternative contact method. Chats are always one-on-one conversations. You will be asked for your name and email so that we can find your account with us. Chat software is hosted in our servers, and no information submitted through it will be disclosed to third parties.   
+We will not sell, rent, lease or disclose your personal information to any third parties in ways other than disclosed in this privacy statement. When making purchases through our website you will be presented with several payment options.  When paying through a third party service, you will be notified that you are being redirected to an outside website. Therefore, all information you enter, will be entered directly on that third party vendor’s website. Please be sure to read their Privacy Policy for more information. 
+
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.  
   
-|  Back to top  
+| Back to top  
+|    
+|   Agents   
+| 
+
+When choosing the credit card option to make your payment through our website, we will share your billing information with an outside credit card processing company to bill you for goods and services. These companies do not retain, share, store or use personally identifiable information for any other purposes.  
+  
+| Back to top  
 |    
 |   Cookies   
 | 
@@ -108,23 +118,11 @@ We use both session ID cookies and persistent cookies. We use session cookies to
 
 We use session ID cookies to manage shopping cart and other shopping procedures. Persistent cookies are used to customize our web, for example to remember if you want to show or not information pop-up windows. 
 
-If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as our shopping procedure, will be limited.   
-  
-|  Back to top  
-|    
-|   Paying Via Paypal   
-| 
+If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as our shopping procedure, will be limited. 
 
-When paying through PayPal Service, you will be notified that you are being redirected to PayPal's site. Therefore, all information you enter, will be entered directly in PayPal's website. Please be sure to read their Privacy Policy for more information.   
+Third parties use cookies on this site, which allow them to recognize a user's cookie when a user visits this site. The information that they collect and share through this technology is not personally identifiable.  
   
-|  Back to top  
-|    
-|   Agents   
-| 
-
-We use outside credit card processing companies to bill you for goods and services. These companies do not retain, share, store or use personally identifiable information for any other purposes.  
-  
-|  Back to top  
+| Back to top  
 |    
 |   Log Files   
 | 
@@ -135,33 +133,40 @@ We use this information, which does not identify individual users, to analyze tr
 
 We do not link this automatically-collected data to personally identifiable information. IP addresses will be used to customize the content of our homepage according to your country.   
   
-|  Back to top  
+| Back to top  
 |    
 |   Changes to this Policy   
 | 
 
 If we decide to change our Privacy Policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.   
   
-|  Back to top  
+| Back to top  
+|  |    
+|   Business Transitions   
+| 
+
+In the event we go through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred.  You will be notified via email and/or prominent notice on our Web site for 30 days of any such change in ownership or control of your personal information.  
+  
+| Back to top |    
 |    
 |   We use appropriate security safeguards   
 | 
 
-At **Cloncom** security is important. **Cloncom** employs appropriate measures, including advanced technology, to protect personal information collected against unauthorized access, disclosure, alteration or destruction. These measures may include, among others, encryption, physical access security and other appropriate technologies. **Cloncom** continually reviews and enhances its security systems, as necessary.   
+At **Cloncom** security is important. **Cloncom** employs appropriate measures, including advanced technology, to protect personal information collected, including sensitive information such as credit card numbers, against unauthorized access, disclosure, alteration or destruction. These measures may include, among others, SSL encryption, physical access security and other appropriate technologies. **Cloncom** continually reviews and enhances its security systems, as necessary.   
   
-|  Back to top  
+| Back to top  
 |    
 |   Cloncom's Web sites may be linked to other Web sites   
 | 
 
 **Cloncom** may create links to third-party Web sites. **Cloncom** is not responsible for the content or privacy practices employed by third-party Web sites that are linked to our Web site. Neither does **Cloncom** control or warrant the utility, merchantability or workmanship of the products or services offered at third-party Web sites.   
   
-|  Back to top  
+| Back to top  
 |    
 |   What happens to your Personal Information when you terminate your Account with us?   
 | 
 
 If you decide to cancel your account or become an inactive customer, our Privacy Policy will continue to apply. All of your personally identifiable information will be placed in a deactivated status in our database. However, you should know that this deactivation does not mean deletion. We will retain this information, only to be used to resolve dispute or enforce this Policy.   
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.   
   
-|  Back to top
+  
+| Back to top
