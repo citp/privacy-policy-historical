@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the us-mattress.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218054351id_/http%3A//us-mattress.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the us-mattress.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624025330id_/http%3A//www.us-mattress.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
