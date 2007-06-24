@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luggagepros.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205232758id_/http%3A//luggagepros.com/policies/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luggagepros.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625015805id_/http%3A//www.luggagepros.com/policies/privacy.shtml) for the most accurate reproduction.*
 
 # Luggage Pros - Samsonite, Hartmann, Travelpro, Victorinox, Briggs and Riley, Atlantic
 
