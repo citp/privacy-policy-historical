@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the opensolaris.org privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231022318id_/http%3A//www.sun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opensolaris.org privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624063132id_/http%3A//www.sun.com/privacy) for the most accurate reproduction.*
 
 # Sun Microsystems - Sun Online Privacy Policy
 
-As of January 1, 2005, Sun Microsystems updated its Privacy Policy to include information on the privacy rights of the citizens of the State of California. 
+Online Privacy is a constantly evolving landscape and Sun plans to take all reasonable efforts to maintain up to date and effective online privacy standards and practices. We have linked every page of our web site to this page for your convenience and you may also contact us at [privacy@sun.com](mailto:privacy@sun.com) with any questions or concerns that you may have.
 
    
    
