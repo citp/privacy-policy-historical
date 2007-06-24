@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centurynovelty.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209020358id_/http%3A//www.centurynovelty.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centurynovelty.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624231926id_/http%3A//www.centurynovelty.com/privacy.jsp) for the most accurate reproduction.*
 
 # Century Novelty - Privacy Policy
 
@@ -59,6 +59,9 @@ We use the latest technology in online security such as site identification and 
 
 The strict data encryption that we use hides sensitive information like your name, address, and credit card information. Our ordering process is protected by the Secure Sockets Layer (SSL) protocol, which encrypts your information and confirms the identity of the Century Novelty server before allowing your shopping cart to be checked out. Modern browsers support the SSL protocol. We recommend that you use the latest browsers to ensure that you are protected by advances in security technology. 
 
+[](https://www.scanalert.com/RatingVerify?ref=centurynovelty.com) |   
+---|---  
+  
 #### Our Commitment To Children's Privacy
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
