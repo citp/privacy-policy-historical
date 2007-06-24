@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designersimports.com privacy policy that was archived on 2006-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061129002339id_/http%3A//designersimports.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designersimports.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624043402id_/http%3A//www.designersimports.com/privacy.asp) for the most accurate reproduction.*
 
 # Designers-Imports - the Designer Handbag Source Burberry Fendi, Prada, Chloe Handbags, and shoes at discounted prices - designersimports.com
 
