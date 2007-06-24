@@ -1,41 +1,30 @@
-> *The following text is extracted and transformed from the americansuperstarmag.com privacy policy that was archived on 2006-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061009124612id_/http%3A//www.americansuperstarmag.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americansuperstarmag.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624095404id_/http%3A//www.americansuperstarmag.com/privacy.php) for the most accurate reproduction.*
 
-# American Superstar Magazine™ | Entertainment News, Celebrities, Up-and-Coming Talent
+# Privacy | American Superstar Magazine™ | Celebrity News, Gossip, Interviews, Up-and-Coming Talent
 
-| 
+[Sign up](http://www.americansuperstarmag.com/reg.php) for the _ASM_ Newsletter and get the latest celebrity news and gossip. You'll also be the first to know about the hottest up-and-coming actors, fashion designers, models, musicians and more. Plus, you'll receive special invites to our VIP events!
 
-American Superstar is searching for new faces and talent all across the country.
+Do you have the talent to appear on American Superstar TV? Not everyone's video will make it past the judges since  
+we only show the very best. 
 
-Please submit a profile so that we can learn a little more about you. [Click Here!](http://www.americansuperstarmag.com/reg.php)
+[Submit](http://www.americansuperstar.tv/upload_videos.php) your video now and you could be starring soon!
 
-Let the cat fighting begin! But next time the two blonde reality stars need to rip each other's extensions off and hit each other with their Marc Jacobs shoe before re-applying make-up and heading straight to the police station. Paris Hilton and Shanna Moakler, ex-wife of Blink 182 drummer Travis Barker, were recently involved in a fight during the early hours of Wednesday morning. 
+Want to write about up-and-coming talent? Do you have a spin on celebrity life that you want to get off your chest?
 
-Paris - who was recently spotted kissing Travis - filed a police report in the early hours alleging that Moakler punched her in the jaw at Los Angeles' Hyde nightclub. 
+We think everyone is capable of being a reporter at a cool entertainment pub. Email our publisher and include a writing sample if you have one.
 
-Meanwhile, Shanna gave a police statement claiming that Paris' ex-boyfriend, Stavros Niarchos, pushed her down some stairs. 
+[Email us](mailto:publisher@americansuperstarmag.com)
 
-The "Simple Life" star's publicist, Elliot Mintz, claims that at approximately 1:10 am his client was approached by Shanna who screamed obscenities at her and then punched her in the face. 
+**_Frank Sinatra_**
 
-Mintz added that Shanna had to be restrained by several people to allow Paris - who he insists never retaliated against her assailant - to leave the nightclub. 
-
-[More Hollywood Gossip](http://www.americansuperstarmag.com/hollywood_gossip.php)
-
-Which is your favorite reality show?   
-
-
-  
-
-
-_October 8, 2006_
-
-Entertainment reporter Rona Barrett is 70. Actor Paul Hogan is 67. Rhythm-and-blues singer Fred Cash (The Impressions) is 66. Rev. Jesse Jackson is 65. Comedian Chevy Chase is 63. Author R.L. Stine is 63. Country singer Susan Raye is 62. TV personality Sarah Purcell is 58. Actress Sigourney Weaver is 57. Rhythm-and-blues singer Robert “Kool” Bell (Kool & the Gang) is 56. Producer-director Edward Zwick is 54. Country singer-musician Ricky Lee Phelps is 53. Actor Michael Dudikoff is 52. Comedian Darrell Hammond is 51. Actress Stephanie Zimbalist is 50. Rock musician Mitch Marine is 45. Rock singer Steve Perry (Cherry Poppin’ Daddies) is 43. Gospel/rhythm-and-blues singer CeCe Winans is 42. Rock musician C.J. Ramone (The Ramones) is 41. Singer-producer Teddy Riley is 40. Actress Emily Procter is 38. Actor-screenwriter Matt Damon is 36. Actress Kristanna Loken is 27. Rhythm-and-blues singer Byron Reeder (Mista) is 27. Actor Nick Cannon is 26. Actor Angus T. Jones is 13. 
+Frank Sinatra is an icon of American musical cool. His official career was singing: he began as a rail-thin crooner during World War II, and matured into the most respected pop singer of his generation. He also took up acting, winning an Academy Award in 1953 for his performance in _From Here To Eternity_. Along the way Sinatra developed a reputation as a well-dressed, fast-living, fist-fighting swinger, with a top-dog swagger that earned him the nickname "The Chairman of the Board." He was the acknowledged leader of the Hollywood 'Rat Pack' of the early 1960s, which included Dean Martin, Sammy Davis Jr. and others. Musically he was beloved as a stylish, heartfelt singer of old-school standards like _Come Fly With Me_ , _New York, New York_ , _All the Way_ and _Strangers in the Night_. He ranks with Bing Crosby, Elvis Presley and The Beatles as among the most influential pop musicians of the 20th century. 
 
 | 
 
 **OUR COMMITMENT TO PRIVACY**  
 
 
-American Superstar is dedicated to protecting your privacy and handling any personal information that we obtain from you with care and respect. We strive to deliver outstanding products, services and experiences. We value your support, and most importantly, your loyalty. This Privacy Policy (“Policy”) is designed to answer your questions regarding our privacy policies and principles, and demonstrate our commitment to a strong and meaningful customer relationship.
+American Superstar is dedicated to protecting your privacy and handling any personal information that we obtain from you with care and respect. We strive to deliver outstanding products, services and experiences. We value your support, and most importantly, your loyalty. This Privacy Policy ("Policy") is designed to answer your questions regarding our privacy policies and principles, and demonstrate our commitment to a strong and meaningful customer relationship.
 
 **WHAT THIS PRIVACY POLICY COVERS**
 
@@ -57,7 +46,7 @@ American Superstar is dedicated to protecting your privacy and handling any pers
 
   * If a user elects to use our Invite feature to invite a friend to our site, we ask them for the friend's email address. American Superstar will automatically send the friend an email inviting them to join the Site. American Superstar stores this email address for the purpose of sending reminders of the invitation. American Superstar does not sell these email addresses or use them to send any other communication besides invitations and invitation reminders. The friend may contact American Superstar to request the removal of this information from our database. 
 
-  * American Superstar collects your credit card information if you purchase a product from the Site. Your credit card information is not collected or retained by American Superstar. It, along with the personal identifying information you submit, is transferred to and used by third party financial institutions to verify the credit card numbers and to authorize the processing of the transaction. Be sure to review all privacy policies published by our third-party service providers and contact them directly if you have questions as they may have privacy terms that differ from American Superstar’s Privacy Policy. 
+  * American Superstar collects your credit card information if you purchase a product from the Site. Your credit card information is not collected or retained by American Superstar. It, along with the personal identifying information you submit, is transferred to and used by third party financial institutions to verify the credit card numbers and to authorize the processing of the transaction. Be sure to review all privacy policies published by our third-party service providers and contact them directly if you have questions as they may have privacy terms that differ from American Superstar's Privacy Policy. 
 
   * American Superstar automatically receives and records information on our server logs from your browser, including your IP address, American Superstar cookie information, and the page you request. 
 
@@ -122,7 +111,7 @@ We may automatically track and collect your IP address, domain server, the type 
 
   * Visitors to the Site who accept cookies may be presented with targeted messages, offers and ads on the Site and via email that we believe would be of value, based on observed preferences. 
 
-  * If you have registered as a member of the Site and accept cookies, we can tailor your use to your personal preferences, and it is easier and faster to take advantage of the Site’s benefits. 
+  * If you have registered as a member of the Site and accept cookies, we can tailor your use to your personal preferences, and it is easier and faster to take advantage of the Site's benefits. 
 
   * If you have submitted your email address, you may receive targeted messages we believe you will find of value. Remember, you may request to be removed from your email subscription lists.
 
@@ -184,15 +173,5 @@ We may automatically track and collect your IP address, domain server, the type 
 
 
 Effective Date: August 1, 2005 
-
-| 
-
-[](http://www.americansuperstarclothing.com/)  
-  
----|---|---  
-[Home](http://www.americansuperstarmag.com/index.php) | [About Us](http://www.americansuperstarmag.com/about.php) | [Contact Us](http://www.americansuperstarmag.com/contact.php) | [Advertise With Us](http://www.americansuperstarmag.com/mediasales.php) | [Street Team](http://www.americansuperstarmag.com/street_team.php) | [American Superstar Store](http://www.americansuperstarclothing.com/)
-
-Use of this site signifies your acceptance of the [Privacy Policy](http://www.americansuperstarmag.com/privacy.php) and [Terms of Use.](http://www.americansuperstarmag.com/terms.php)   
-Copyright © 2006 American Superstar, Inc. All rights reserved.
 
 | 
