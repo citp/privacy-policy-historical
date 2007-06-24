@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the presidentialserviceawards.gov privacy policy that was archived on 2006-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060929114850id_/http%3A//www.presidentialserviceawards.gov/tg/siteinfo/dspPrivacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presidentialserviceawards.gov privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624153415id_/http%3A//www.presidentialserviceawards.gov/tg/siteinfo/dspPrivacy.cfm) for the most accurate reproduction.*
 
 # President's Volunteer Service Award
 
@@ -45,7 +45,7 @@ The PVSA WEB SITE respects the sensitive nature of children's privacy online. We
 ###### Can I opt out of allowing the PVSA WEB SITE to use my personally identifiable information?
 
   
-The PVSA WEB SITE allows you to remove your information from our database in order to stop receiving future communications from the PVSA WEB SITE or by contacting us at [privacy@presidentialserviceawards.gov](mailto:privacy@presidentialserviceawards.gov). 
+The PVSA WEB SITE allows you to remove your information from our database in order to stop receiving future communications from the PVSA WEB SITE or by contacting us at [privacy@presidentialserviceawards.gov](mailto:privacy@presidentialserviceawards.gov "Email here if you like to remove your information from PVSA database"). 
 
 ###### What type of security does the website employ?
 
@@ -54,10 +54,10 @@ The website uses encrypted authentication technology when you login to the websi
 
 ###### How can I update my information?
 
-The PVSA WEB SITE gives you the opportunity to change or modify information you have previously provided by sending an e-mail to [privacy@presidentialserviceawards.gov](mailto:privacy@presidentialserviceawards.gov) or calling (202) 729-8000. 
+The PVSA WEB SITE gives you the opportunity to change or modify information you have previously provided by sending an e-mail to [privacy@presidentialserviceawards.gov](mailto:privacy@presidentialserviceawards.gov "Email here to change/modify your information from PVSA database") or calling (202) 729-8000. 
 
 ###### How can I contact the PVSA WEB SITE?
 
-If you have any questions about this privacy your interaction with website, please feel free to contact us at [privacy@presidentialserviceawards.gov](mailto:privacy@presidentialserviceawards.gov). 
+If you have any questions about this privacy your interaction with website, please feel free to contact us at [privacy@presidentialserviceawards.gov](mailto:privacy@presidentialserviceawards.gov "Email here to ask about Privacy in PVSA web site"). 
 
 Any of the policies or procedures above may be changed at any time without prior notice. 
