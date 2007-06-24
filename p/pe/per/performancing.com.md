@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the performancing.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205210550id_/http%3A//performancing.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the performancing.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624083925id_/http%3A//performancing.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Performancing.com
 
-[](https://web.archive.org/firefox "Download Performancing for Firefox Now") [](https://web.archive.org/metrics/start "Sign up for Metrics Now") [](https://web.archive.org/partners "Join the blogosphere's #1 blog advertising network")
-
-[](https://web.archive.org/user/1)
-
-Submitted by [Nick Wilson](https://web.archive.org/user/1 "Performancing Points: 382") on November 12, 2005 - 12:21pm in 
+**Submitted by[Nick Wilson](https://web.archive.org/user/39226 "Performancing Points: 0") on November 12, 2005 - 12:21pm in **
 
 Thank you for visiting Performancing. This policy explains how we use personal information collected at this site. Please read this privacy policy before using the site. By using the site, you are accepting the practices described in this policy.
 
@@ -27,3 +23,6 @@ We may share information with government agencies or other companies helping us 
 ## Privacy Policies of Web Sites Hyperlinked to from Performancing
 
 We are not responsible for the policies of Web sites that we hyperlink to. If you visit other Web sites hyperlinked from this site, please review the privacy policies posted at those sites.
+
+  
+
