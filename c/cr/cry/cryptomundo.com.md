@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the cryptomundo.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213121553id_/http%3A//www.cryptomundo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cryptomundo.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624030131id_/http%3A//www.cryptomundo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy at Cryptomundo.com
+# Cryptomundo.com » Privacy Policy
 
-This Privacy Policy covers all of the Cryptomundo LLC ("Cryptomundo") domains,  subdomains, and the servers and networks which power them("Cryptomundo Site") and all content, which may be updated by Cryptomundo from time to time.  Cryptomundo will provide notice of any change to the Privacy Policy at: <http://www.cryptomundo.com/privacy-policy>  
+This Privacy Policy covers all of the Cryptomundo LLC (”Cryptomundo”) domains, subdomains, and the servers and networks which power them (”Cryptomundo Site”) and all content, which may be updated by Cryptomundo from time to time.  Cryptomundo will provide notice of any change to the Privacy Policy [here](http://www.cryptomundo.com/privacy-policy/ "Cryptomundo Privacy Policy").
 
-
-Please read this statement carefully before accessing the Cryptomundo Site. Your access to the Cryptomundo Site indicates your agreement to abide by the Privacy Policy.  If you do not agree to this Privacy Policy, please do not access or use the Cryptomundo Site.  
+Please read this statement carefully before accessing the Cryptomundo Site. Your access to the Cryptomundo Site indicates your agreement to abide by the Privacy Policy.  If you do not agree to this Privacy Policy, please do not access or use the Cryptomundo Site.
 
 **Information Collection**
 
@@ -25,7 +24,7 @@ Cryptomundo may launch a discussion board service on some or all of the Cryptomu
 
 The discussion board service may use cookies. A cookie is a piece of data stored on the user’s computer tied to information about the user. We may use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions.
 
-By accepting a cookie from the Cryptomundo Site, users will not have to log in a password more than once, thereby saving time while on the site’s discussion board. We store a cookie on each user’s machine that contains a username and encrypted password. You can configure your browser to accept all cookies, reject all cookies, or to notify you when a cookie is set. If you reject all cookies, you may not be able to use Cryptomundo products or services that require you to sign in, and you may not be able to take full advantage of all offerings. 
+By accepting a cookie from the Cryptomundo Site, users will not have to log in a password more than once, thereby saving time while on the site’s discussion board. We store a cookie on each user’s machine that contains a username and encrypted password. You can configure your browser to accept all cookies, reject all cookies, or to notify you when a cookie is set. If you reject all cookies, you may not be able to use Cryptomundo products or services that require you to sign in, and you may not be able to take full advantage of all offerings.
 
 **Links**
 
@@ -37,7 +36,7 @@ Some of our business partners may use cookies on our site (for example, advertis
 
 **Third Party Advertising**
 
-The ads appearing on this Web site are delivered by third party providers such as Google®.  Information about visits to this site, such as number of visits (but not username or any personal information), is used to select and display ads to users on this Cryptomundo Site. 
+The ads appearing on this Web site are delivered by third party providers such as Google®.  Information about visits to this site, such as number of visits (but not username or any personal information), is used to select and display ads to users on this Cryptomundo Site.
 
 **Log Files**
 
@@ -57,4 +56,4 @@ By visiting our web site and providing us with data, you acknowledge and agree t
 
 **Contact Information**
 
-If you have any questions or suggestions regarding our privacy policy, please contact the editor of the Cryptomundo Site in question, or send an email to CryptoInfo @ cryptomundo.com.
+If you have any questions or suggestions regarding our privacy policy, please contact the editor of the Cryptomundo Site in question, or send an email to us using the [contact form](http://www.cryptomundo.com/contact-us/ "Cryptomundo Contact Form"). 
