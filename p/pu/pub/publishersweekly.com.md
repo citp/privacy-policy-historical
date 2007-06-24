@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the publishersweekly.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205231149id_/http%3A//publishersweekly.com/info/CA337408.html%3Fchannel%3DaboutUs) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publishersweekly.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624183339id_/http%3A//publishersweekly.com/info/CA337408.html) for the most accurate reproduction.*
 
-# Privacy Policy on PublishersWeekly.com
+# Privacy Policy - publishers weekly
+
+## Privacy Policy
 
 Last Revised: May 2006
 
