@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the speech-topics-help.com privacy policy that was archived on 2006-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061127143831id_/http%3A//www.speech-topics-help.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speech-topics-help.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624062417id_/http%3A//www.speech-topics-help.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Speech Topics Help
 
 With this Privacy Policy page Speech Topics Help emphasizes the importance of privacy protection, and is committed to complying with the Privacy Act 1988. This page explains to you what information is collected, how it is being used, and what options you have to access or change that collected information. In other words, this page tries to show a certain level of trustworthiness. 
 
-**Speech Topics Help Respects Your Privacy.**  
+**Speech Topics Help Respects Your Privacy**  
 Any personal information you provide to me including and similar to your name, address, telephone number and e-mail address will not be released, sold, or rented to any entities or individuals outside of Speech Topics Help. When you visit this web site to read, browse or download information, my system will record the date of your visit to this site and the number of pages viewed. I will not record any personal information (personal information has the same meaning under the Privacy Act 1988 on privacy policy). 
 
 **E-Mail Privacy Policy**  
