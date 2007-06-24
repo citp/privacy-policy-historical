@@ -1,21 +1,40 @@
-<!--The following is the downloaded HTML source of the sparkpeople.com privacy policy that was archived on 2006-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061202163447id_/http%3A//sparkpeople.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sparkpeople.com privacy policy that was archived on 2007-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070624123522id_/http%3A//sparkpeople.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>SparkPeople: Privacy Policy</title>
+
 <meta name="keywords" content="keyword1, keyword2">
 <meta name="description" content="here is the meta description">
 <script language="JavaScript" type="text/javascript" src="/rollovers.js"></script>
 <script>var browserOK=false;</script>
 <script type="text/javascript">
+function IHGoTo(action)
+{
+	if (document.forms.navForm)
+	{
+		document.forms.navForm.action = action;
+		document.forms.navForm.submit();
+	}
+	else
+	{
+		location.href = action;
+	}
+	return false;
+}
+
 function header_DoSiteSearch()
 {
 	var search_type;
-	for (var i=0; i < document.site_search_form.site_search_type.length; i++)
+	search_type = "SITE";
+	if (document.site_search_form.site_search_type)
 	{
-		if (document.site_search_form.site_search_type[i].checked)
+		for (var i=0; i < document.site_search_form.site_search_type.length; i++)
 		{
-			var search_type = document.site_search_form.site_search_type[i].value;
+			if (document.site_search_form.site_search_type[i].checked)
+			{
+				search_type = document.site_search_form.site_search_type[i].value;
+			}
 		}
 	}
 	if (search_type == "SITE")
@@ -36,112 +55,325 @@ function header_DoSiteSearch()
 }
 </script>
 <style>
-BODY { font:12px arial, verdana, sans-serif; color:black; background: url(http://assets2.sparkpeople.com/assets/nav/nav_bg.jpg) repeat-y; background-color:white;  } 
-.nav_top_header_bg {background: url(http://assets2.sparkpeople.com/assets/nav/nav_top_header.jpg) no-repeat;}
+BODY { font:12px arial, verdana, sans-serif; color:black; background: url(/assets/nav/nav_bg.jpg) repeat-y; background-color:white;  }
+#nav_top_ad_bg {background: url(/assets/nav/nav_top_ad_bg2.jpg) repeat-y;}
+#nav_no_btns {background: url(/assets/nav/nav_btn_bg77.jpg) repeat-x; height:25px; width:775px;}
+#nav_top_ad_caption {font:10px arial,verdana,sans-serif; color:#7C7C7C; text-align:right; width:750px; padding:4px 0px 0px 0px;}
+#nav_ad_728 {text-align:left; padding:0px 0px 0px 20px; width:730px;}
+HTML>BODY #nav_ad_728 {text-align:left; padding:0px 0px 0px 20px; width:750px;}
+#nav_ad_728_top {background: url(/assets/nav/nav_ad_top_bg.jpg) no-repeat;  height:18px;}
+#nav_ad_728_mid {background: url(/assets/nav/nav_ad_mid_bg.jpg) repeat-y;}
+#nav_ad_728_btm {background: url(/assets/nav/nav_ad_btm_bg.jpg) no-repeat;  height:18px;}
+#nav_top_crn {background: url(/assets/nav/nav_top_crn_bg.jpg) no-repeat; height:19px;}
+#nav_logo_bg {background: url(/assets/nav/nav_logo_bg.jpg) no-repeat; padding:25px 0px 15px 0px;}
+
+/* Styles for Menu Items */
+
+#nav_w {width:775px; margin:0px; padding:0px; z-index:100; background-color:none;}
+
+
+#nav LI.n0 {float:left; width:16px; z-index:100;}
+#nav LI.n1 {float:left; width:172px; z-index:100;}
+#nav LI.n2 {float:left; width:172px; z-index:100;}
+#nav LI.n3 {float:left; width:172px; z-index:100;}
+#nav LI.n4 {float:left; width:172px; z-index:100;}
+#nav LI.n5 {float:left; width:71px; z-index:100;}
+
+#nav LI UL {position:absolute; left: -999em; z-index:100; margin:0px; padding:0px;}
+#nav LI UL LI { z-index:100; margin:0px; padding:0px;}
+#nav li:hover ul, #nav li.sfhover ul {left:auto; margin:0px; padding:0px;}
+#nav, #nav ul {padding:0px; margin:0px; list-style:none; line-height:25px;}
+#nav a {display:block; padding:0px; margin:0px; line-height:1px;}
+
+
+#sub_tools LI a {font:12px Arial,verdana; font-weight:bold; color:white; text-decoration: none; background-color:#ff7b08; border: 1px solid #AD2921; padding: 6px 8px 6px 8px; width: 172px; border-top:0px; z-index:100;}
+/* This is setting the width for mozilla browsers */
+html>Body #sub_tools LI a {width:155px; z-index:100;}
+
+#sub_tools LI a:hover {font:12px Arial,verdana; font-weight:bold;  color:white;  text-decoration: none; background-color:#EB5A00; border: 1px solid #AD2921; padding: 6px 8px 6px 8px; width: 172px;  border-top:0px; z-index:100;}
+html>Body #sub_tools LI a:hover {width:155px;  z-index:100;}
+
+#sub_res LI a {font:12px Arial,verdana; font-weight:bold;  color:white;  text-decoration: none; background-color:#6384bd; border: 1px solid #5A5AB5; padding: 6px 8px 6px 8px; width: 172px; border-top:0px; z-index:100;}
+html>Body #sub_res LI a {width:155px; z-index:100;}
+
+#sub_res LI a:hover {font:12px Arial,verdana; font-weight:bold;  color:white;  text-decoration: none; background-color:#5A5AB5; border: 1px solid #5A5AB5; padding: 6px 8px 6px 8px; width: 172px; border-top:0px;  z-index:100;}
+html>Body #sub_res LI a:hover {width:155px; z-index:100;}
+
+#sub_health LI a {font:12px Arial,verdana; font-weight:bold;  color:white;  text-decoration: none; background-color:#94a531; border: 1px solid #848429; padding: 6px 8px 6px 8px; width: 172px; border-top:0px; z-index:100;}
+html>Body #sub_health LI a {width:155px;  z-index:100;}
+
+#sub_health LI a:hover {font:12px Arial,verdana; font-weight:bold;  color:white;  text-decoration: none; background-color:#848429; border: 1px solid #848429; padding: 6px 8px 6px 8px; width: 172px;  border-top:0px; z-index:100;}
+html>Body #sub_health LI a:hover {width:155px;  z-index:100;}
+
+#sub_comm LI a {font:12px Arial,verdana; font-weight:bold;  color:white;  text-decoration: none; background-color:#EB2E2E; border: 1px solid #AD2921; padding: 6px 8px 6px 8px; width:172px; border-top:0px; z-index:100;}
+html>Body #sub_comm LI a {width:155px; z-index:100;}
+
+#sub_comm LI a:hover {font:12px Arial,verdana; font-weight:bold;  color:white;  text-decoration: none; background-color:#AD2921; border: 1px solid #AD2921; padding: 6px 8px 6px 8px; width:172px;  border-top:0px; z-index:100;}
+html>Body #sub_comm LI a:hover {width:155px; z-index:100;}
+
+
+
+#sub_nav {clear:left; width:775px; height:21px;}
+
+#sub_tools2 {list-style:none; margin:0px; padding:0px; vertical-align:bottom;}
+#sub_tools2 LI {float:left; width:auto; z-index:99;}
+#sub_tools2 LI a {font:11px Arial,verdana; font-weight:bold; color:white; text-decoration: none; background-color:#ff7b08; padding:6px 18px 6px 18px; margin:0px; height:23px; border-top:0px; z-index:99;}
+#sub_tools2 LI a:hover {font:11px Arial,verdana; font-weight:bold;  color:white;  text-decoration: none; background-color:#EB5A00; padding:6px 18px 6px 18px; margin:0px; height:23px; border-top:0px; z-index:99;}
+#sub_tools2 LI.sel a {font:11px Arial,verdana; font-weight:bold; color:white; text-decoration: none; background-color:#FAA139; padding:6px 18px 6px 18px; margin:0px; height:23px; border-top:0px; z-index:99;}
+#sub_tools2 LI.sel a:hover {font:11px Arial,verdana; font-weight:bold;  color:white;  text-decoration: none; background-color:#EB5A00; padding:6px 18px 6px 18px; margin:0px; height:23px; border-top:0px; z-index:99;}
+
+
+#sub_res2 {list-style:none; margin:0px; padding:0px; vertical-align:bottom;}
+#sub_res2 LI {float:left; width:auto; z-index:99;}
+#sub_res2 LI a {font:11px Arial,verdana; font-weight:bold; color:white; text-decoration: none; background-color:#6384bd; padding:6px 18px 6px 18px; margin:0px; height:23px; border-top:0px; z-index:99;}
+#sub_res2 LI a:hover {font:11px Arial,verdana; font-weight:bold;  color:white;  text-decoration: none; background-color:#5a5ab5; padding:6px 18px 6px 18px; margin:0px; height:23px; border-top:0px; z-index:99;}
+#sub_res2 LI.sel a {font:11px Arial,verdana; font-weight:bold; color:white; text-decoration: none; background-color:#7E9AC9; padding:6px 18px 6px 18px; margin:0px; height:23px; border-top:0px; z-index:99;}
+#sub_res2 LI.sel a:hover {font:11px Arial,verdana; font-weight:bold;  color:white;  text-decoration: none; background-color:#5a5ab5; padding:6px 18px 6px 18px; margin:0px; height:23px; border-top:0px; z-index:99;}
+
+
+#sub_health2 {list-style:none; margin:0px; padding:0px; vertical-align:bottom;}
+#sub_health2 LI {float:left; width:auto; z-index:99;}
+#sub_health2 LI a {font:11px Arial,verdana; font-weight:bold; color:white; text-decoration: none; background-color:#94a531; padding:6px 18px 6px 18px; margin:0px; height:23px; border-top:0px; z-index:99;}
+#sub_health2 LI a:hover {font:11px Arial,verdana; font-weight:bold;  color:white;  text-decoration: none; background-color:#848429; padding:6px 18px 6px 18px; margin:0px; height:23px; border-top:0px; z-index:99;}
+#sub_health2 LI.sel a {font:11px Arial,verdana; font-weight:bold; color:white; text-decoration: none; background-color:#A8BC38; padding:6px 18px 6px 18px; margin:0px; height:23px; border-top:0px; z-index:99;}
+#sub_health2 LI.sel a:hover {font:11px Arial,verdana; font-weight:bold;  color:white;  text-decoration: none; background-color:#848429; padding:6px 18px 6px 18px; margin:0px; height:23px; border-top:0px; z-index:99;}
+
+
+#sub_comm2 {list-style:none; margin:0px; padding:0px; vertical-align:bottom;}
+#sub_comm2 LI {float:left; width:auto; z-index:99;}
+#sub_comm2 LI a {font:11px Arial,verdana; font-weight:bold; color:white; text-decoration: none; background-color:#D7352D; padding:6px 18px 6px 18px; margin:0px; height:23px; border-top:0px; z-index:99;}
+#sub_comm2 LI a:hover {font:11px Arial,verdana; font-weight:bold;  color:white;  text-decoration: none; background-color:#AD2921; padding:6px 18px 6px 18px; margin:0px; height:23px; border-top:0px; z-index:99;}
+#sub_comm2 LI.sel a {font:11px Arial,verdana; font-weight:bold; color:white; text-decoration: none; background-color:#EF4A4A; padding:6px 18px 6px 18px; margin:0px; height:23px; border-top:0px; z-index:99;}
+#sub_comm2 LI.sel a:hover {font:11px Arial,verdana; font-weight:bold;  color:white;  text-decoration: none; background-color:#AD2921; padding:6px 18px 6px 18px; margin:0px; height:23px; border-top:0px; z-index:99;}
+
+#content {clear:left; display:block; height:0px; font-size:0px;}
 </style>
+<script type="text/javascript"><!--//--><![CDATA[//><!--
+
+sfHover = function() {
+
+	var sfEls = document.getElementById("nav").getElementsByTagName("LI");
+	var selectTagsNav = document.getElementsByTagName("SELECT");
+	var optionTagsNav = document.getElementsByTagName("OPTION");
+	var iframeTagsNav = document.getElementsByTagName("IFRAME");
+	var adTagsNav = document.getElementById("ad_hide_for_menu");
+	for (var i=0; i<sfEls.length; i++) {
+		sfEls[i].onmousemove=function() {
+		if (this.className.indexOf(" sfhover") == -1) {
+			this.className += " sfhover";
+		}
+			this.style.zIndex="100";
+			
+			
+			//hides the form elements when menu is rolled in IE
+			if (selectTagsNav) {
+			for (var x=0; x<selectTagsNav.length; x++) {
+			selectTagsNav[x].style.visibility = "hidden";
+			}
+			}
+			if (optionTagsNav) {
+			for (var x=0; x<optionTagsNav.length; x++) {
+			optionTagsNav[x].style.visibility = "hidden";
+			}
+			}
+			if (adTagsNav) {
+			adTagsNav.style.zIndex = "-1";
+			//adTagsNav.style.visibility = "hidden";
+			}
+
+		}
+		sfEls[i].onmouseout=function() {
+			this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
+			this.style.zIndex="100";
+			
+			//shows the form elements when menu is rolled in IE
+			if (selectTagsNav) {
+			for (var x=0; x<selectTagsNav.length; x++) {
+			selectTagsNav[x].style.visibility = "visible";
+			}
+			}
+			if (optionTagsNav) {
+			for (var x=0; x<optionTagsNav.length; x++) {
+			optionTagsNav[x].style.visibility = "visible";
+			}
+			}
+			if (adTagsNav) {
+			adTagsNav.style.zIndex = "-1";
+			//adTagsNav.style.visibility = "visible";
+			}
+	
+			
+		}
+	}
+
+}
+if (window.attachEvent) window.attachEvent("onload", sfHover);
+
+//--><!]]></script>
+
 
 </head>
-<!--sid=41-->
-<body bgcolor="#B7BECC" marginheight="0" topmargin="0" leftmargin="0" marginwidth="0">
+<!--sid=119-->
+<body marginheight="0" topmargin="0" leftmargin="0" marginwidth="0">
 
+	<style type="text/css">
+	#RegLogCallOutBar {
+		font: message-box;
+	}
 
+	#RegLogCallOutBar a, #RegLogCallOutBar a:link, #RegLogCallOutBar a:visited, #RegLogCallOutBar a:active {
+		display: block;
+		color: #000;
+		width:100%;
+		background:#FFFFE1 no-repeat fixed .3em .3em;
+		border-bottom: .16em outset;
+		text-decoration: none;
+		cursor: default;
+	}
 
-	<table width="100%" border="0" cellpadding="0" cellspacing="0">
+	#RegLogCallOutBar a:hover {
+		color: #FFF;	
+		background:#3169B6 no-repeat fixed .3em .3em;
+	}
+
+	#RegLogCallOutBar p{
+		margin:0px;
+		padding: .45em 0em .45em 22px;
+		font-size:11px;
+		font-family:Arial, verdana, sans-serif;
+	}
+	</style>
+<div id="RegLogCallOutBar"><a href="/myspark/register.asp?from=browser_bar"><p>It appears you have not yet registered for SparkPeople. To get a free nutrition and fitness plan and join our community click here....</p></a></div>
+	<div id="nav_top_ad_bg">
+	<div id="nav_ad_728_mid">
+	<div id="nav_ad_728_top"></div>
+	<div id="nav_ad_728">
+			<!-- begin DFP ad tag 728x90-->
+			<script language="JavaScript" src="http://ad.doubleclick.net/adj/sp.sparkpeople;sz=728x90;tile=1;ord=624200783129?" type="text/javascript"></script>
+			<noscript><a href="http://ad.doubleclick.net/jump/sp.sparkpeople;sz=728x90;tile=1;ord=624200783129?" target="_blank"><img src="http://ad.doubleclick.net/ad/sp.sparkpeople;sz=728x90;tile=1;ord=624200783129?" width="728" height="90" border="0" alt=""></a></noscript>
+			<!-- end ad tag -->
+		</div>
+	<div id="nav_top_ad_caption">SparkPeople Sponsors help keep the site free!</div>
+	<div id="nav_ad_728_btm"></div>
+	</div>
+	</div>
+
+	<div id="nav_logo_bg">
+	<table border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
-	<td height="140" style="background: url('http://assets2.sparkpeople.com/assets/nav/nav_top_ad_bg.jpg') no-repeat; padding-left:22px;">
-		<!-- begin DFP ad tag 728x90-->
-		<script language="JavaScript" src="http://ad.doubleclick.net/adj/sp.sparkpeople;sz=728x90;tile=1;ord=1222006113450?" type="text/javascript"></script>
-		<noscript><a href="http://ad.doubleclick.net/jump/sp.sparkpeople;sz=728x90;tile=1;ord=1222006113450?" target="_blank"><img src="http://ad.doubleclick.net/ad/sp.sparkpeople;sz=728x90;tile=1;ord=1222006113450?" width="728" height="90" border="0" alt=""></a></noscript>
-		<!-- end ad tag -->
-	
-	<br>
-	<table border="0" cellpadding="0" cellspacing="0" width="725">
-	<tbody><tr>
-	<td>&nbsp;</td>
-	<td align="right" style="font:10px arial,verdana,sans-serif; color:#7C7C7C;">SparkPeople Sponsors help keep the site free!</td>
-	</tr>
-	</tbody></table>
-	</td>
-	</tr>
-	</tbody></table>
-
-	<table width="100%" border="0" cellpadding="0" cellspacing="0" style="background: url('http://assets2.sparkpeople.com/assets/nav/nav_top_crn_bg.jpg') no-repeat;">
-	<tbody><tr>
-	<td height="19"></td>
-	<td height="19"><a href="#maincontent"><img src="http://assets2.sparkpeople.com/spacer.gif" border="0" width="1" height="1" alt="Skip Navigation"></a></td>
-	</tr>
-	</tbody></table>
-
-
-	<table width="775" border="0" cellpadding="0" cellspacing="0" bgcolor="#f3f3e9" height="24">
-	<tbody><tr>
-			<td align="left" valign="top" bgcolor="#f3f3e9" width="10"><script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+			<td width="20">
+			<a href="#maincontent"><img src="http://assets2.sparkpeople.com/spacer.gif" border="0" width="1" height="1" alt="Skip Navigation"></a>
+			<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
+__utmSetVar('reg_none');
 _uacct = "UA-89402-2";
 urchinTracker();
 _uff=0;
 _uacct = "UA-89402-3";
 urchinTracker();
 </script>
-<script language="javascript1.2" type="text/javascript" src="http://img.webmd.com/bi_common/bi_sparkpeople.js"></script>&nbsp;</td>
-			
-			
-			<td bgcolor="#f3f3e9" width="37" valign="top"><a href="/index.asp"><img src="http://assets2.sparkpeople.com/assets/nav/logo_spark.gif" alt="" border="0"></a><form name="site_search_form" method="POST" action="/myspark/search_results.asp" onsubmit="return header_DoSiteSearch();"></form></td>
-			<td bgcolor="#f3f3e9" valign="top"><a href="/index.asp"><img src="http://assets2.sparkpeople.com/assets/nav/logo.gif" alt="SparkPeople" border="0"></a>
+<script language="JavaScript">var tcdacmd="dt";</script>
+<script src="http://an.tacoda.net/an/14327/slf.js" language="JavaScript"></script>
+<!-- Start of StatCounter Code -->
+<script type="text/javascript" language="javascript">
+var sc_project=2414702; 
+var sc_invisible=0; 
+var sc_partition=22; 
+var sc_security="6cd8b816"; 
+var sc_remove_link=1; 
+</script>
+<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><img  src="http://c23.statcounter.com/counter.php?sc_project=2414702&java=0&security=6cd8b816&invisible=0" alt="free stats" border="0"> </noscript>
+<!-- End of StatCounter Code -->
 			</td>
-			<td valign="bottom" align="right">
-			<table border="0" cellpadding="0" cellspacing="0">
+	
+			
+			
+			<td width="37"><a href="/index.asp"><img src="http://assets2.sparkpeople.com/assets/nav/logo_spark_v2.gif" alt="" border="0"></a></td>
+			<form name="site_search_form" method="POST" action="/myspark/search_results.asp" onsubmit="return header_DoSiteSearch();"></form>
+			<td width="163"><a href="/index.asp"><img src="http://assets2.sparkpeople.com/assets/nav/nav_logo_v2.gif" alt="SparkPeople" border="0"></a></td>
+			<td width="60">&nbsp;</td>
+			<td width="210">
+			<table border="0" cellpadding="0" cellspacing="0" width="210">
            	<tbody><tr>   
-			<td><input name="site_search_type" type="radio" value="SITE" checked="">
-			</td>
-			<td><span style="font: 10px Arial, Verdana, Sans-serif; color:black;">SparkPeople &nbsp;</span>
-			</td>
-			<td><input name="site_search_type" type="radio" value="WEB">
-			</td>
-			<td><span style="font: 10px Arial, Verdana, Sans-serif; color:black;">Web &nbsp;</span>
-			</td>
-			<td><input name="site_search_term" type="text" style="font:11px Arial, Verdana, Sans-serif; width:100px;"></td>
+			<td><input name="site_search_term" type="text" style="font:11px Arial, Verdana, Sans-serif; width:150px; border:4px solid #BACC53;"></td>
 			 <td width="5">&nbsp;</td>
-			 <td><a href="javascript: void(0);" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('nav_search','','http://assets2.sparkpeople.com/assets/nav/nav_search_f2.gif',1);" onclick="return header_DoSiteSearch();"><img name="nav_search" src="http://assets2.sparkpeople.com/assets/nav/nav_search.gif" border="0"></a></td>
-			 <td width="12">&nbsp;</td>
-			 <td><a href="/myspark/tell_a_friend.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('nav_tell_friend','','http://assets2.sparkpeople.com/assets/nav/nav_tell_friend_f2.gif',1);"><img name="nav_tell_friend" src="http://assets2.sparkpeople.com/assets/nav/nav_tell_friend.gif" border="0"></a></td>
-   			 <td width="8">&nbsp;</td>
-   			 <td><a href="/myspark/register.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('nav_join_free','','http://assets2.sparkpeople.com/assets/nav/nav_join_free_f2.gif',1);"><img name="nav_join_free" src="http://assets2.sparkpeople.com/assets/nav/nav_join_free.gif" border="0"></a></td>
-			</tr></tbody></table>
-			<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><iframe src="http://assets2.sparkpeople.com/myspark/spacer.gif" name="header_inc_updater" width="1" height="1" frameborder="0" scrolling="no"></iframe><img src="http://assets2.sparkpeople.com/spacer.gif" height="8" width="100" border="0" alt=""></td></tr></tbody></table>
+			 <td><a href="javascript: void(0);" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('nav_search','','http://assets2.sparkpeople.com/assets/nav/nav_search_f2.gif',1);" onclick="return header_DoSiteSearch();"><img name="nav_search" src="http://assets2.sparkpeople.com/assets/nav/nav_search.gif" border="0" alt="Search"></a></td>
+			 </tr>
+			 </tbody></table>
+			 </td>
+			<td>
+			 </td><td width="30">&nbsp;</td>	
+			 <td><a href="/myspark/tell_a_friend.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('nav_tell_friend','','http://assets2.sparkpeople.com/assets/nav/nav_tell_friend_f2.gif',1);"><img name="nav_tell_friend" src="http://assets2.sparkpeople.com/assets/nav/nav_tell_friend.gif" border="0" alt="Tell A Friend"></a></td>
+   			<td width="15">&nbsp;</td>
+   			<td><a href="/myspark/register.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('nav_join_free','','http://assets2.sparkpeople.com/assets/nav/nav_join_free_f2.gif',1);"><img name="nav_join_free" src="http://assets2.sparkpeople.com/assets/nav/nav_join_free.gif" alt="Join Now For Free" border="0"></a></td>
 			
+			<td><iframe src="http://assets2.sparkpeople.com/myspark/spacer.gif" name="header_inc_updater" width="1" height="1" frameborder="0" scrolling="no"></iframe><img src="http://assets2.sparkpeople.com/spacer.gif" height="1" width="1" border="0" alt=""></td>
+
 			
 			
 			
 		
+			
+			
 
 			
-			<table border="0" cellpadding="0" cellspacing="0">
-           	<tbody><tr>   
-			<td><a href="/myspark/mysparkstart.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('pic5','','http://assets2.sparkpeople.com/assets/nav/nav-myhome_f2.gif',1);"><img src="http://assets2.sparkpeople.com/assets/nav/nav-myhome_f3.gif" alt="myHome Tab" width="76" height="19" name="pic5" border="0"></a></td>
-			<td><a href="/resource/main.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('pic2','','http://assets2.sparkpeople.com/assets/nav/nav-resource_f2.gif',1);"><img src="http://assets2.sparkpeople.com/assets/nav/nav-resource.gif" alt="Resource Tab" width="127" height="19" name="pic2" border="0"></a></td>
-			<td><a href="/myspark/mycommunity.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('pic3','','http://assets2.sparkpeople.com/assets/nav/nav-community_f2.gif',1);"><img src="http://assets2.sparkpeople.com/assets/nav/nav-community.gif" alt="Community Tab" width="88" height="19" name="pic3" border="0"></a></td>
-			<td><a href="/myspark/groups.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('pic6','','http://assets2.sparkpeople.com/assets/nav/nav-sparkteams_f2.gif',1);"><img src="http://assets2.sparkpeople.com/assets/nav/nav-sparkteams.gif" alt="SparkTeams" width="97" height="19" name="pic6" border="0"></a></td>
-			<td><a href="/mypage_home.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('pic4','','http://assets2.sparkpeople.com/assets/nav/nav-sparkpages_f2.gif',1);"><img src="http://assets2.sparkpeople.com/assets/nav/nav2-sparkpages.gif" alt="SparkPages" width="97" height="19" name="pic4" border="0"></a></td>
+			
+			<td></td>
+			<td width="10">&nbsp;</td>
 			</tr>
 			</tbody></table>
+		</div>
 			
 			
-			
-			</td>
-			<td width="10" align="right" valign="top" bgcolor="#f3f3e9">&nbsp;</td>
-			</tr>
-			</tbody></table>
-			
-			
-		<table width="775" border="0" cellspacing="0" cellpadding="0" bgcolor="#ff7b08" background="http://assets2.sparkpeople.com/assets/nav/mbg.gif">
-			<tbody><tr>
-				<td width="775" height="24"><img src="http://assets2.sparkpeople.com/spacer.gif" alt="" height="24" width="1" border="0"><a name="maincontent"></a></td>
-			</tr>
-		</tbody></table>
+			<div id="nav_w"><ul id="nav">
+<li class="n0"><img src="/assets/nav/nav_bar_spacer.jpg" border="0" alt=""></li>
+<li class="n1"><a href="/myspark/mysparkstart.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('nav_mytools','','/assets/nav/nav_mytools_f2.jpg',1);"><img name="nav_mytools" src="/assets/nav/nav_mytools_f2.jpg" border="0" alt="My Tools"></a>
+<ul id="sub_tools">
+<li><a href="Javascript:void(0);" onclick="return IHGoTo('/myspark/mysparkstart.asp');">Start</a></li>
+<li><a href="Javascript:void(0);" onclick="return IHGoTo('/myspark/nutrition.asp');">my Nutrition</a></li>
 
-	
+<li><a href="Javascript:void(0);" onclick="return IHGoTo('/myspark/fitness2.asp');">my Fitness</a></li>
+
+<li><a href="Javascript:void(0);" onclick="return IHGoTo('/myspark/other_goals.asp');">Other Goals</a></li>
+<li><a href="Javascript:void(0);" onclick="return IHGoTo('/myspark/myreport-overview.asp');">Reports</a></li>
+<li><a href="Javascript:void(0);" onclick="return IHGoTo('/myspark/planner.asp');">Planner</a></li>
+<li><a href="Javascript:void(0);" onclick="return IHGoTo('/myspark/sparkmail.asp');">SparkMail</a></li>
+<li><a href="/myspark/sparkpoints.asp">my SparkPoints</a></li></ul></li>
+<li class="n2"><a href="/resource/main.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('nav_healthy_living','','/assets/nav/nav_healthy_living_f2.jpg',1);"><img name="nav_healthy_living" src="/assets/nav/nav_healthy_living.jpg" border="0" alt="Healthy Lifestyle"></a>
+<ul id="sub_res">
+<li><a href="/resource/main.asp">Healthy Lifestyle Home</a></li>
+<li><a href="/resource/nutrition.asp">Nutrition</a></li>
+<li><a href="/resource/fitness.asp">Fitness</a></li>
+<li><a href="/resource/motivation.asp">Motivation</a></li>
+<li><a href="/resource/health-and-wellness.asp">Wellness</a></li>
+<li><a href="/resource/quizzes.asp">Quizzes</a></li>
+<li><a href="http://www.sparkrecipes.com" target="_blank">SparkRecipes.com</a></li></ul></li>
+<li class="n3"><a href="/resource/health_home.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('nav_health_conditions','','/assets/nav/nav_health_conditions_f2.jpg',1);"><img name="nav_health_conditions" src="/assets/nav/nav_health_conditions.jpg" border="0" alt="Your Health"></a>
+<ul id="sub_health">
+<li><a href="/resource/health_home.asp">Your Health Home</a></li>
+<li><a href="/resource/health_a-z.asp">Health A-Z</a></li>
+<li><a href="/resource/health_conditions_main.asp">Condition Centers</a></li>
+<!--<li><a href="/resource/health_more.asp">More Health Centers</a></li>-->
+<li><a href="/resource/health_news.asp">Health News</a></li>
+<li><a href="/resource/health_videos.asp">Health Videos</a></li></ul></li>
+<li class="n4"><a href="/myspark/community_home.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('nav_community','','/assets/nav/nav_community_f2.jpg',1);"><img name="nav_community" src="/assets/nav/nav_community.jpg" border="0" alt="Community"></a>
+<ul id="sub_comm">
+<li><a href="/myspark/community_home.asp">Community Home</a></li>
+<li><a href="/myspark/mycommunity.asp">Message Boards</a></li>
+<li><a href="/myspark/groups.asp">SparkTeams</a></li>
+<li><a href="/mypage_home.asp">SparkPages</a></li></ul></li>
+
+<li class="n5"><a href="/myspark/loginpage.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('nav_login','','/assets/nav/nav_login_f2.jpg',1);"><img name="nav_login" src="/assets/nav/nav_login.jpg" border="0" alt="Log In"></a></li>
+
+</ul>
+
+			
+
+
+</div>
+
+<div id="content"><a name="maincontent"></a></div>
 <table width="775" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr><td>
  <link href="http://assets2.sparkpeople.com/style.css" rel="stylesheet">
@@ -228,7 +460,7 @@ urchinTracker();
 <div id="footer" class="mouseOverFooter">
 
 <a href="/index.asp" target="_self">Home</a> 
-| <a href="/myspark/mysparkstart.asp">My Home</a>
+| <a href="/myspark/mysparkstart.asp">My Tools</a>
 | <a href="/resource/main.asp">Resources</a> 
 | <a href="/myspark/mycommunity.asp">Community</a> 
 | <a href="/about/index.asp">About Us</a>  
@@ -239,14 +471,17 @@ urchinTracker();
   <a href="javascript:void(0);" onclick="window.open('/myspark/faqs.asp','','width=620,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directories=no,location=no,status=no');">Help Desk</a>
 
 <br><br>
-© 1999-2006 SparkPeople, All Rights Reserved | <a href="/terms.asp">Terms and Conditions</a> | <a href="/privacy.asp"> Privacy Policy </a><br><br>
+© 1999-2007 SparkPeople, All Rights Reserved | <a href="/terms.asp">Terms and Conditions</a> | <a href="/privacy.asp"> Privacy Policy </a><br><br>
 <a href="http://www.sparkpeople.com">Free Diet</a> | <a href="/myspark/mysparkcal.asp">Calorie Counter</a> | <a href="http://www.babyfit.com">Pregnancy</a><br><br>
 SparkPages, SparkPoints, SparkDiet and other marks are trademarks of SparkPeople, Inc.  All Rights Reserved.
 
 </div>
 </td></tr></tbody></table><div id="today_position"><style>
 /*  positions the today on sparkpeople    */
-#today_position {width: 200px; padding:8px; margin: 0px;  position:absolute; left:778px; top: 180px;}
+
+#today_position {width: 200px; padding:8px; margin: 0px;  position:absolute; left:778px; top: 190px;}
+
+
 
 .today_favorites{color:black; font:11px arial, verdana, sans-serif; text-decoration:none; } 
 a.today_favorites{color:black; font:11px arial, verdana, sans-serif; text-decoration:none; } 
@@ -266,6 +501,18 @@ a.today_favorites:hover {color:#EF4A4A; font:11px arial, verdana, sans-serif; te
 #today_mb .links li a{color:black; font:11px arial, verdana, sans-serif; text-decoration:none; line-height: 9px; } 
 #today_mb .links li a:hover {color:#EF4A4A; font:11px arial, verdana, sans-serif; text-decoration: underline; line-height: 9px; } 
 
+#today_wfl_rebate {margin:8px; padding:0px} 
+#today_wfl_rebate ul.links {margin: 0px; padding:0px; margin-bottom:8px;} 
+#today_wfl_rebate .links li { list-style:none; background: url(http://assets2.sparkpeople.com/assets/nav/today_wfl_unchecked.gif) no-repeat 0px 4px; padding-top:3px; padding-bottom:3px; padding-left:20px; font-size:11px;} 
+#today_wfl_rebate .links li.checked { list-style:none; background: url(http://assets2.sparkpeople.com/assets/nav/today_wfl_checked.gif) no-repeat 0px 4px; padding-top:3px; padding-bottom:3px; padding-left:20px; font-size:11px;} 
+#today_wfl_rebate .links li a{color:#EF4A4A; font-size:11px; text-decoration:underline; } 
+#today_wfl_rebate .links li a:hover {color:black; font-size:11px; text-decoration: none;} 
+.today_wfl_title {background: url(/assets/nav/today_wfl_rebate_title.jpg) no-repeat; padding-left:20px; font-size:15px; font-weight:bold; letter-spacing:-1px;}
+.today_see_faqs {FONT: 11px arial, helvetica, sans-serif; font-weight:bold;}
+a.today_see_faqs { COLOR: #848429;  TEXT-DECORATION: underline; }
+a.today_see_faqs:hover { COLOR: #EF4A4A; font-weight:bold; TEXT-DECORATION: none; }
+
+
 #today_quick ul.links {margin: 8px; padding:0px} 
 #today_quick .links li { list-style:none; background: url(http://assets2.sparkpeople.com/assets/nav/today_bullet_blue.gif) no-repeat 0px 6px; padding-top:3px; padding-bottom:3px; padding-left:8px} 
 #today_quick .links li a{color:#000000; font:11px arial, verdana, sans-serif; text-decoration:none; line-height: 9px; } 
@@ -274,10 +521,10 @@ a.today_favorites:hover {color:#EF4A4A; font:11px arial, verdana, sans-serif; te
 /* end today on sparkpeople  */
 </style>
 
-<img src="http://assets2.sparkpeople.com/assets/nav/today_on_sp.gif" alt="Today On SparkPeople" vspace="6" border="0"><br>
+<img src="http://assets2.sparkpeople.com/assets/nav/today_on_sp.jpg" alt="Today On SparkPeople" vspace="4" border="0"><br>
 
-	<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><img src="http://assets2.sparkpeople.com/spacer.gif" height="8" width="1" border="0" alt=""></td></tr></tbody></table>
-	
+		<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><img src="http://assets2.sparkpeople.com/spacer.gif" height="8" width="1" border="0" alt=""></td></tr></tbody></table>
+		
 <table class="hide" width="200" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
   <tbody><tr>
     <td align="center"><img src="http://assets2.sparkpeople.com/assets/nav/today_feature_title.jpg" alt="Featured Article" border="0"></td>
@@ -287,10 +534,10 @@ a.today_favorites:hover {color:#EF4A4A; font:11px arial, verdana, sans-serif; te
 	  <table width="90%" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr>
 		
-          <td class="black11"><a href="/resource/motivation_articles.asp?id=88"><img src="../news/genericpictures/sunset_175.jpg" alt="" width="60" height="60" hspace="4" vspace="4" border="0" align="right"></a><br>
-		  <b>Start a Small Streak</b><br>
-            Consistency, in the form of a streak, can be motivating and empowering.  Get some pointers for starting your own streak--whether your goal is eliminating soda for one week, or exercising daily for a month.&nbsp;
-			<br> <span class="today_read_more"><a href="/resource/motivation_articles.asp?id=88">Read&nbsp;More</a></span> <br>
+          <td class="black11"><a href="http://www.sparkpeople.com/community/spread_the_spark.asp"><img src="../../news/genericpictures/workout_friends.jpg" alt="" width="60" height="60" hspace="4" vspace="4" border="0" align="right"></a><br>
+		  <b>Spread the Spark!</b><br>
+            Has SparkPeople helped you start making positive changes in your life? If so, Spread the Spark to someone you know. For every member who joins, you get 10 SparkPoints!&nbsp;
+			<br> <span class="today_read_more"><a href="http://www.sparkpeople.com/community/spread_the_spark.asp">Read&nbsp;More</a></span> <br>
             <br></td>
         </tr>
       </tbody></table>
@@ -298,8 +545,8 @@ a.today_favorites:hover {color:#EF4A4A; font:11px arial, verdana, sans-serif; te
   </tr>
 </tbody></table>
 
-	<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><img src="http://assets2.sparkpeople.com/spacer.gif" height="8" width="1" border="0" alt=""></td></tr></tbody></table>
-	
+		<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><img src="http://assets2.sparkpeople.com/spacer.gif" height="8" width="1" border="0" alt=""></td></tr></tbody></table>
+		
 
 
 <table class="hide" width="200" border="0" cellpadding="0" cellspacing="0" bgcolor="white">
@@ -310,15 +557,15 @@ a.today_favorites:hover {color:#EF4A4A; font:11px arial, verdana, sans-serif; te
     <td><div id="today_mb">
 		  <ul class="links">
 			  
-				<li><a href="/myspark/messageboard.asp?imboard=31&amp;imparent=4027250">"What have you done today to make you feel proud?"</a>
+				<li><a href="/myspark/messageboard.asp?imboard=7&amp;imparent=5717941">Your successful substitutions</a>
 			  
-				</li><li><a href="/myspark/messageboard.asp?imboard=1&amp;imparent=1224603">Hypothyroid?  Join the club</a>
+				</li><li><a href="/myspark/messageboard.asp?imboard=3&amp;imparent=6212923">SparkRecipes enhancements - advanced search &amp; more</a>
+			  
+				</li><li><a href="/myspark/messageboard.asp?imboard=1&amp;imparent=6117653">Healthy ways to deal with stress?!?!?!?</a>
 			  
 				</li><li><a href="/myspark/messageboard.asp?imboard=31&amp;imparent=1951733">Discuss SparkPeople Healthy Reflections Email</a>
 			  
-				</li><li><a href="/myspark/messageboard.asp?imboard=34&amp;imparent=4062112">what is the funnest way you found to loose weight</a>
-			  
-				</li><li><a href="/myspark/messageboard.asp?imboard=1&amp;imparent=4217085">Why are we fat?</a>
+				</li><li><a href="/myspark/messageboard.asp?imboard=6&amp;imparent=6243758">Creative Calorie Burning</a>
 			  
 			  </li></ul>
               </div>
@@ -326,8 +573,8 @@ a.today_favorites:hover {color:#EF4A4A; font:11px arial, verdana, sans-serif; te
   </tr>
   </tbody></table>
 
-	<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><img src="http://assets2.sparkpeople.com/spacer.gif" height="8" width="1" border="0" alt=""></td></tr></tbody></table>
-	
+		<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><img src="http://assets2.sparkpeople.com/spacer.gif" height="8" width="1" border="0" alt=""></td></tr></tbody></table>
+		
 <table class="hide" width="200" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
   <tbody><tr>
     <td align="center"><img src="http://assets2.sparkpeople.com/assets/nav/today_exercise_title.jpg" alt="Top Searches" name="today_searches" border="0"></td>
@@ -341,23 +588,23 @@ a.today_favorites:hover {color:#EF4A4A; font:11px arial, verdana, sans-serif; te
             <tbody><tr>
               <td><br><table border="0" cellspacing="0" cellpadding="2" class="table_border_gray">
                   <tbody><tr>
-                    <td><a href="javascript: void(0);" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('rfs_view_demo1','','http://assets2.sparkpeople.com/assets/nav/today_see_demo_f2.gif',1);" onclick="window.open('/myspark/ex/exercises.asp?ID=13','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directories=no,location=no,status=no');"><img src="/assets/exercises/SmFinals/25.jpg" alt="" border="0"></a></td>
+                    <td><a href="/resource/exercises.asp?exercise=136" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('rfs_view_demo1','','http://assets2.sparkpeople.com/assets/nav/today_see_demo_f2.gif',1);"><img src="/assets/exercises/SmFinals/99.jpg" alt="" border="0"></a></td>
                   </tr>
                 </tbody></table>
-                  <a href="javascript: void(0);" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('rfs_view_demo1','','http://assets2.sparkpeople.com/assets/nav/today_see_demo_f2.gif',1)" onclick="window.open('/myspark/ex/exercises.asp?ID=13','','width=675,height=490,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directories=no,location=no,status=no');"><img src="http://assets2.sparkpeople.com/assets/nav/today_see_demo.gif" name="rfs_view_demo1" border="0"></a><br><br></td>
+                  <a href="/resource/exercises.asp?exercise=136" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('rfs_view_demo1','','http://assets2.sparkpeople.com/assets/nav/today_see_demo_f2.gif',1)"> <img src="http://assets2.sparkpeople.com/assets/nav/today_see_demo.gif" name="rfs_view_demo1" border="0"></a><br><br></td>
             </tr>
           </tbody></table></td>
 		  <td width="12">&nbsp;</td>
-		  <td class="black11"><br><b>Elbow to Knee Crunch</b><br>
-Target your abs and "love handles" with this move.<br><br></td>
+		  <td class="black11"><br><b>Genie Sit</b><br>
+This small move is super effective for your entire lower body and abs too.<br><br></td>
         </tr>
       </tbody></table>
     </td>
   </tr> 
 </tbody></table>
 
-	<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><img src="http://assets2.sparkpeople.com/spacer.gif" height="8" width="1" border="0" alt=""></td></tr></tbody></table>		
-	
+		<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><img src="http://assets2.sparkpeople.com/spacer.gif" height="8" width="1" border="0" alt=""></td></tr></tbody></table>		
+		
 <table class="hide" width="200" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
   <tbody><tr>
     <td align="center"><img src="http://assets2.sparkpeople.com/assets/nav/today_recipe_title.jpg" alt="Featured Recipe" name="today_recipe" border="0"></td>
@@ -367,16 +614,16 @@ Target your abs and "love handles" with this move.<br><br></td>
 	
 	  <table width="90%" border="0" cellspacing="0" cellpadding="0">
 		<tbody><tr>
-          <td class="black11"><br><b>Grilled Salmon </b><br>Get your daily dose of omega-3 fatty acid with this grilled favorite.<br>
-		 <span class="today_see_recipe"><a href="/resource/recipes.asp?recipe=103">See This Recipe</a></span></td>
+          <td class="black11"><br><b>Whole Grain Turkey Enchiladas</b><br>A healthy twist on an old Mexican favorite!<br>
+		 <span class="today_see_recipe"><a href="/resource/recipes.asp?recipe=11555">See This Recipe</a></span></td>
         </tr>
 	  </tbody></table><br>
 	</td>
   </tr>
 </tbody></table>
 
-	<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><img src="http://assets2.sparkpeople.com/spacer.gif" height="8" width="1" border="0" alt=""></td></tr></tbody></table>
-	<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><img src="http://assets2.sparkpeople.com/spacer.gif" height="8" width="1" border="0" alt=""></td></tr></tbody></table>
+		<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><img src="http://assets2.sparkpeople.com/spacer.gif" height="8" width="1" border="0" alt=""></td></tr></tbody></table>
+		<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><img src="http://assets2.sparkpeople.com/spacer.gif" height="8" width="1" border="0" alt=""></td></tr></tbody></table>
 <table class="hide" width="200" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
   <tbody><tr>
     <td align="center"><img src="http://assets2.sparkpeople.com/assets/nav/today_join_free.jpg" alt="Join SparkPeople For Free!" border="0"></td>
@@ -393,11 +640,13 @@ Target your abs and "love handles" with this move.<br><br></td>
 	</td>
   </tr>
 </tbody></table>
-	<img src="http://assets2.sparkpeople.com/assets/nav/today_btm.gif" alt="" border="0">
+			<img src="http://assets2.sparkpeople.com/assets/nav/today_btm.gif" alt="" border="0">
+		
+<a href="javascript:void(0);" onclick="document.navForm.action='/today_customize.asp'; document.navForm.submit(); return false;" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tod_customize','','http://assets2.sparkpeople.com/assets/nav/today_customize_f2.jpg',1);"><img name="tod_customize" src="http://assets2.sparkpeople.com/assets/nav/today_customize.jpg" alt="Customize Today on SparkPeople" border="0"></a>
 
-
-<a href="javascript:void(0);" onclick="document.navForm.action='/today_customize.asp'; document.navForm.submit(); return false;" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tod_customize','','http://assets2.sparkpeople.com/assets/nav/today_customize_f2.gif',1);"><img name="tod_customize" src="http://assets2.sparkpeople.com/assets/nav/today_customize.gif" alt="Customize Today on SparkPeople" border="0" hspace="2" vspace="8"></a>
-</div><br><br><br><br>
+	<!---SP STORE:<a href="javascript:void(0);" onClick="document.navForm.action='/myspark/store.asp'; document.navForm.submit(); return false;" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('tod_store','','http://assets2.sparkpeople.com/assets/nav/today_store_f2.jpg',1);" ><img name="tod_store" src="http://assets2.sparkpeople.com/assets/nav/today_store.jpg" alt="Go to the SparkPeople Store" border="0"></a>
+	<br>--->
+	</div><br><br><br><br>
 			<!--FOOTER END-->
 	
 
