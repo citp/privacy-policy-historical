@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christianitytoday.com privacy policy that was archived on 2006-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061226195348id_/https%3A//www.christianitytoday.com/dispatch.html%3Fcode%3Dnavigation%26url%3D/help/features/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianitytoday.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624061404id_/http%3A//christianitytoday.com/dispatch.html%3Fcode%3Dnavigation%26url%3D/help/features/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Help & Info
 
@@ -51,9 +51,6 @@ Third Party Direct Marketing
 We occasionally rent our customer list (not including e-mail addresses) to other organizations to offer you products that may be of interest to you by direct mail.
 
 _Opting Out of Third Party Direct Marketing:_ After receiving the product or service requested, you may "opt-out" of receiving Third Party Direct Marketing offers by sending an e-mail stating your request to opt-out along with your complete name, mailing address, and the name of the CTI magazine, product, or service you have received. This information is necessary so we can accurately process your request.
-
-Chat and Message Boards  
-We collect the e-mail addresses of those who register for our chat and message boards to activate and manage their registrations. Subscribers' e-mail addresses automatically become accessible to message board visitors as a standard feature of the WebCrossing software. If you prefer not to have your e-mail publicly available, log-in as soon as you confirm your registration and click the "Preferences" button to change or delete your e-mail address.
 
 Surveys  
 CTI occasionally conducts reader surveys to better target content to our audience. We sometimes share the aggregated demographic information in these surveys with our advertisers and partners. We never share with any third party information collected via surveys about specific individuals.
@@ -110,7 +107,7 @@ Beginning on January 1, 2005, California Civil Code Section 1798.83 requires CTI
 Updates to Privacy Policy  
 From time to time, we may update this privacy notice. Please check this page periodically for changes. We will notify you about any changes in the way we treat personally identifiable information by placing a notice on our site.
 
-The Privacy Policy posted on this site was updated on or about April 4, 2006.
+The Privacy Policy posted on this site was updated on or about February 22, 2007.
 
 CTI welcomes your comments regarding this Privacy Policy. If you have any questions or comments, please feel free to [contact us](https://web.archive.org/help/features/webmaster.html).
 
