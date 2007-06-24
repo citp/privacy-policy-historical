@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachingstrategies.com privacy policy that was archived on 2006-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061119032935id_/http%3A//www.teachingstrategies.com/pages/page.cfm%3FpageID%3D76) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachingstrategies.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624082014id_/http%3A//www.teachingstrategies.com/page/privacyPolicy.cfm) for the most accurate reproduction.*
 
 # Teaching Strategies: Security and Privacy Policies
 
