@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the velonews.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218163741id_/http%3A//velonews.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the velonews.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624021334id_/http%3A//www.velonews.com/privacy.html) for the most accurate reproduction.*
 
 # Inside Communications Privacy Policy
 
@@ -34,17 +34,18 @@ Telephone numbers of Inside Communications customers will only be used by Inside
 Subscribers or applicants who do not want their names used in any of the above ways may write to us at:
 
 **Inside Communications, Inc.**  
+Circulation Department  
 1830 North 55th St.  
 Boulder, CO 80301-2730
 
-Or click [here](mailto:vn-subs@insideinc.com) to email us your request.
+Or click [here](mailto:vn-subscriptions@insideinc.com) to email us your request.
 
 This Privacy Policy may be modified from time to time; notice of changes will appear on this page, so check back often. Any such changes will be prospective, never retroactive. 
 
-If you have concerns or questions about any aspect of this policy, please email our Privacy Policy Coordinator at [privacy@insideinc.com](mailto:privacy@insideinc.com). We welcome your feedback. You can also send us regular mail at the following address: 
+We welcome your feedback. You can also send us regular mail at the following address: 
 
 **Inside Communications, Inc**  
-Attn: Privacy Policy Coordinator  
+Attn: Circulation  
 1830 N. 55th St.  
 Boulder CO, USA 80301 
 
