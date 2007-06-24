@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ready.gov privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205184118id_/http%3A//www.ready.gov/america/other/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ready.gov privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624041425id_/http%3A//www.ready.gov/america/other/privacy.html) for the most accurate reproduction.*
 
 # Ready.gov: Privacy Policy
 
