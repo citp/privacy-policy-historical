@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quotedb.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219110639id_/http%3A//quotedb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotedb.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624040349id_/http%3A//www.quotedb.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,11 +28,11 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-You can send email to [**privacy@quotedb.com**](mailto:privacy@quotedb.com)
+You can send email to **privacy[AT]quotedb.com**
 
 **Correct/Update**
 
-This site gives users the following options for changing and modifying information previously provided. email [**privacy@quotedb.com**](mailto:privacy@quotedb.com)
+This site gives users the following options for changing and modifying information previously provided. email **privacy[AT]quotedb.com**
 
 **Contacting the Web Site**
 
@@ -40,4 +40,4 @@ If you have any questions about this privacy statement, the practices of this si
 
 **Chris Bowyer - Owner  
 Quote DB  
-[privacy@quotedb.com](mailto:privacy@quotedb.com)**
+privacy[AT]quotedb.com**
