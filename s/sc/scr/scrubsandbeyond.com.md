@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scrubsandbeyond.com privacy policy that was archived on 2006-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061101062330id_/http%3A//www.scrubsandbeyond.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrubsandbeyond.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624074312id_/http%3A//www.scrubsandbeyond.com/privacy.aspx) for the most accurate reproduction.*
 
 # Scrubs & Beyond
 
@@ -16,7 +16,7 @@ E-mail: [customerservice@scrubsandbeyond.com](mailto:customerservice@scrubsandbe
 
 **INFORMATION WE COLLECT AND WHAT WE DO WITH IT.** For each visitor to our web site, our web server automatically recognizes only the visitor's domain name, but not the e-mail address (where possible) and we collect aggregate information on what pages visitors access or visit, and information volunteered by the visitor. The information we collect from visitors is used to improve the content of our web page and is not shared with other organizations for commercial purposes. 
 
-If you supply us with your e-mail address, postal address, or telephone number, you may receive periodic contact from us with information on new products and services or upcoming events. We will exchange your postal address (but not your e-mail address or telephone number) with other companies that we believe may offer products or services of interest to you. 
+If you supply us with your e-mail address, postal address, or telephone number, you may receive periodic contact from us with information on new products and services or upcoming events. We may exchange or rent your postal address (but not your e-mail address or telephone number) with other companies that we believe may offer products or services of interest to you.
 
 IF YOU DO NOT WANT TO RECEIVE E-MAIL, MAILINGS, OR TELEPHONE CALLS FROM US IN THE FUTURE, OR IF YOU DO NOT WANT US TO SHARE YOUR POSTAL ADDRESS WITH OTHER COMPANIES OR ORGANIZATIONS, PLEASE LET US KNOW BY SENDING US E-MAIL AT THE ABOVE ADDRESS, CALLING US AT THE ABOVE TELEPHONE NUMBER, OR WRITING TO US AT THE ABOVE ADDRESS. Please provide your exact name, mailing address, e-mail address, and telephone number. There is no charge for this service. Your request may take a few days to process and take effect but we will be sure to process your request promptly. 
 
