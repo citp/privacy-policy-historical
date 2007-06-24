@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the palmbeachpost.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016202957id_/http%3A//www.palmbeachpost.com/search/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palmbeachpost.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624085039id_/http%3A//www.palmbeachpost.com/search/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
 
 # Palm Beach Post: Palm Beach & Treasure Coast news, sports, entertainment, jobs, cars, homes
 
