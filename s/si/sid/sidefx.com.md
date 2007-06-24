@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sidefx.com privacy policy that was archived on 2006-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060315095403id_/http%3A//www.sidefx.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D350%26Itemid%3D128) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sidefx.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624075230id_/http%3A//www.sidefx.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D350) for the most accurate reproduction.*
 
-# Side Effects Software Inc. - Privacy Policy
+# Privacy Policy - Side Effects Software Inc.
 
 Privacy Policy
 
