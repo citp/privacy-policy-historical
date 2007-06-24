@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the elitefts.com privacy policy that was archived on 2006-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061013231712id_/http%3A//elitefts.com/privacy-policy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitefts.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624024640id_/http%3A//www.elitefts.com/privacy-policy/default.asp) for the most accurate reproduction.*
 
-# EliteFTS - Superior Products and Knowledge for Lifters, Athletes, Coaches, and Trainers
+# EliteFTS - Powerlifting and Strength Training Products and Knowledge for Lifters, Athletes, Coaches, and Trainers
 
 ## Overview
 
