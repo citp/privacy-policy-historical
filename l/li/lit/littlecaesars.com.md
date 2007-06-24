@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the littlecaesars.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206100708id_/http%3A//www.littlecaesars.com/includes/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littlecaesars.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624121753id_/http%3A//www.littlecaesars.com/includes/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Little Caesars Pizza
 
@@ -18,8 +18,6 @@ If you do not wish to receive a cookie, or if you wish to be notified when you d
 
 LINKS TO OTHER SITES  
 Little Caesars offers links to web sites not operated by Little Caesar Enterprises, Inc. If you visit one of these linked sites, you should review their privacy policies as we are not responsible for their policies and practices.
-
-The Little Caesars Pizza Kids page provides a direct link to [www.zoomrooms.com](http://www.zoomrooms.com/) site hosted by Lycos Zone. Lycos Zone was designed to provide a safe neighborhood on the Web for children 3 to 12 years old and their families. It is separate from the rest of the Lycos Network. We encourage parents to participate in their child's Internet experience. Children should never give away any information about themselves without getting permission from their parents. Lycos Zone is committed to the Children's Online Privacy Protection Act (COPPA) and children's safety on the Internet. They are a licensee of the TRUSTe Children's Privacy Program. Visit www.lycoszone.com to view their privacy policy.
 
 The Careers portion of this web site is powered by [www.monster.com](http://www.monster.com/). When you submit registration information and/or your resume, your information and your resume are hosted on a segregated area of Monster's servers but are not viewable or obtainable by any entity other than Little Caesar Enterprises, Inc. and Monster. In the future, if you attempt to register with or send a resume to either Monster or to the Careers area of another web site hosted by Monster, you may be invited to activate your resume on Monster and such other web site. If you allow Monster to activate your resume, Monster will retain your registration information and will put your resume into its general database for viewing and downloading by Monster's employer and agency clients, as if you had originally registered with and posted your resume on Monster. In such case, Monster's handling of your registration information and your resume will be subject to Monster's privacy commitment which can be found at <http://about.monster.com/privacy/>.
 
