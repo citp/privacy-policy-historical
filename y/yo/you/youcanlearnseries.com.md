@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youcanlearnseries.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214183531id_/http%3A//youcanlearnseries.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youcanlearnseries.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624044408id_/http%3A//www.youcanlearnseries.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # PrivacyPolicy
 
@@ -26,6 +26,6 @@ By using You Can Learn Series and our web site, you consent to the collection an
 
 **Additional questions?**
 
-If you still have questions feel free to contact us. Our email address is Support - kenbrown@youcanlearnseries.com 
+If you still have questions feel free to contact us. Our email address is webmaster [at] youcanlearnseries.com. 
 
 * * *
