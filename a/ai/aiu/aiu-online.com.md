@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aiu-online.com privacy policy that was archived on 2006-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061124143515id_/http%3A//aiuonline.edu/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aiu-online.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624104000id_/http%3A//www.aiuonline.edu/privacy.asp) for the most accurate reproduction.*
 
 # American InterContinental University Online
 
