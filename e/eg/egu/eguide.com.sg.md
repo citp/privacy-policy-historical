@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eguide.com.sg privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214154459id_/http%3A//www.eguide.com.sg/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eguide.com.sg privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624153804id_/http%3A//www.eguide.com.sg/privacy.asp) for the most accurate reproduction.*
 
 # eGuide Singapore (SG) - Asia's Leading Directory
 
