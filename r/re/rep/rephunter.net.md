@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rephunter.net privacy policy that was archived on 2006-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061201192729id_/http%3A//rephunter.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rephunter.net privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624080316id_/http%3A//www.rephunter.net/privacy.php) for the most accurate reproduction.*
 
-# Independent Sales Representatives, Manufacturers Reps, Pharmaceutical Sales Reps, New Lines
+# RepHunter Privacy Notice, Manufacturers Reps, Sales Agent, Independent Sales Rep, Sales Agency, Manufacturer Agent, Sales Job, Sales Careers
 
 ## What this Privacy Policy Covers
 
