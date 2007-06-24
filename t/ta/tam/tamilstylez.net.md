@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tamilstylez.net privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213080114id_/http%3A//www.tamilstylez.net/forum/page.php%3Ftsz%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamilstylez.net privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624164235id_/http%3A//tamilstylez.net/forum/page.php%3Ftsz%3Dprivacy) for the most accurate reproduction.*
 
 # TamilStyleZ.Net - Privacy Policy
 
-The time now is Wed Dec 13, 2006 8:01 am 
+The time now is Sun Jun 24, 2007 4:42 pm 
 
  
 
@@ -23,7 +23,7 @@ At TamilStyleZ.Net we recognize that privacy is important. This document outline
 
 * We may use personal information for auditing, research and analysis to operate and improve TamilStyleZ.Net technologies.  
 * We may share aggregated non-personal information with third parties outside of TamilStyleZ.Net.  
-* When we use third parties to assist us in processing your personal information, we require that they comply with our [Privacy Policy](https://web.archive.org/web/20061213080114id_/http%3A//www.tamilstylez.net/forum/page.php?tsz=privacy) and any other appropriate confidentiality and security measures.  
+* When we use third parties to assist us in processing your personal information, we require that they comply with our [Privacy Policy](https://web.archive.org/web/20070624164235id_/http%3A//tamilstylez.net/forum/page.php?tsz=privacy) and any other appropriate confidentiality and security measures.  
 * We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network.
 
 ### Your choices
@@ -33,4 +33,4 @@ At TamilStyleZ.Net we recognize that privacy is important. This document outline
 
 ### More information
 
-For more information about our privacy practices, please [contact us](https://web.archive.org/web/20061213080114id_/http%3A//www.tamilstylez.net/forum/page.php?tsz=support) any time. 
+For more information about our privacy practices, please [contact us](https://web.archive.org/web/20070624164235id_/http%3A//tamilstylez.net/forum/page.php?tsz=support) any time. 
