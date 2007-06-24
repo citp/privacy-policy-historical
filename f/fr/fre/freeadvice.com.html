@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the freeadvice.com privacy policy that was archived on 2006-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061223214641id_/http%3A//law.freeadvice.com/resources/privacypolicy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freeadvice.com privacy policy that was archived on 2007-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070624194227id_/http%3A//law.freeadvice.com/resources/privacypolicy.htm) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -12,41 +12,43 @@
 
 <!-- template_static -->
 
-<base href="http://www.freeadvice.com/">
+<base href="http://law.freeadvice.com/"><!-- <base href="http://www.freeadvice.com/"> -->
 
 <link rel="SHORTCUT ICON" href="http://www.freeadvice.com/favicon.ico"> 
 
 <link rel="stylesheet" href="styles/style.css" type="text/css">
 
-<!-- SUB NAV INCLUDES -->
+<!-- SUB NAV INCLUDES for IE -->
 <script language="javascript">
 <!--
 /** JavaScript **/
 ieHover = function() {
 var ieULs = document.getElementById('nav').getElementsByTagName('ul');
 /** IE script to cover <select> elements with <iframe>s **/
-for (j=0; j<ieULs.length; j++) {
-ieULs[j].innerHTML = ('<iframe src="about:blank" scrolling="no" frameborder="0"></iframe>' + ieULs[j].innerHTML);
-/*ieULs[j].innerHTML = ('<iframe id="iePad' + j + '" src="about:blank" scrolling="no" frameborder="0" style=""></iframe>' + ieULs[j].innerHTML);
-	var ieMat = document.getElementById('iePad' + j + '');*/
-//	var ieMat = ieULs[j].childNodes[0];  alert(ieMat.nodeName); // also works...
+for (j=0; j<ieULs.length; j++)
+	{
+	ieULs[j].innerHTML = ('<iframe src="about:blank" scrolling="no" frameborder="0"></iframe>' + ieULs[j].innerHTML);
 	var ieMat = ieULs[j].firstChild;
 		ieMat.style.width=ieULs[j].offsetWidth+"px";
 		ieMat.style.height=ieULs[j].offsetHeight+"px";	
 		ieULs[j].style.zIndex="99";
-}
+	}
 /** IE script to change class on mouseover **/
-	var ieLIs = document.getElementById('nav').getElementsByTagName('li');
-	for (var i=0; i<ieLIs.length; i++) if (ieLIs[i]) {
-		ieLIs[i].onmouseover=function() {this.className+=" sfhover";}
-		ieLIs[i].onmouseout=function() {this.className=this.className.replace(' sfhover', '');}
-	}}
+var ieLIs = document.getElementById('nav').getElementsByTagName('li');
+for (var i=0; i<ieLIs.length; i++)
+	{
+	if (ieLIs[i])
+		{
+		ieLIs[i].onmouseover=function() { this.className+=" sfhover"; }
+		ieLIs[i].onmouseout=function() { this.className=this.className.replace(' sfhover', ''); }
+		}
+	}
+}
 if (window.attachEvent) window.attachEvent('onload', ieHover);
 /** end **/
+function voidx() { }
 //-->
 </script>
-
-<link rel="STYLESHEET" type="text/css" href="styles/menus2.css">
 
 
 </head>
@@ -84,41 +86,41 @@ if (window.attachEvent) window.attachEvent('onload', ieHover);
 <!-- SubNAV -->
 		<table cellspacing="0" cellpadding="0" border="0" width="100%">
 <tbody><tr>
-<td style="background-color: #C4C4B8; color: #fff;">
+<td>
 <!-- menu1 -->
 <ul id="nav">
-<li class="sub"><a href="http://www.freeadvice.com/all_topics.htm">Legal Topics</a> 
+<li class="sub"><a href="all_topics.htm">Legal&nbsp;Topics</a>
  <ul>
- <li><a class="daddy" href="http://accident-law.freeadvice.com/">Accidents</a> 
+ <li><a class="daddy" href="http://accident-law.freeadvice.com/">Accidents</a>
 	<ul>
 	<li><a href="http://accident-law.freeadvice.com/auto/">Auto Accidents</a></li>
 	<li><a href="http://accident-law.freeadvice.com/bus_train/">Bus &amp; Train Accidents</a></li>
 	<li><a href="http://accident-law.freeadvice.com/slips_falls/">Slips &amp; Falls</a></li>
-	</ul></li>
-
- <li><a class="daddy" href="http://injury-law.freeadvice.com/">Injuries</a> 
+	</ul>
+ </li>
+ 
+ <li><a class="daddy" href="http://injury-law.freeadvice.com/">Injuries</a>
 	<ul>
-	<li><a href="http://injury-law.freeadvice.com/injury-law/most_common_birth_injuries.htm">Birth Injury</a></li>
+	<li><a href="http://injury-law.freeadvice.com/injury-law/1662/">Birth Injury</a></li>
 	<li><a href="http://law.freeadvice.com/admiralty_maritime/boating_injury/">Boating Injury</a></li>
-	<li><a href="http://accident-law.freeadvice.com/construction_accidents/construction_injury_who_is_at_fault.htm">Construction Injury</a></li>
+	<li><a href="http://accident-law.freeadvice.com/construction_accidents/1723/">Construction Injury</a></li>
 	<li><a href="http://injury-law.freeadvice.com/defective_products/">Defective Products</a></li>
 	<li><a href="http://injury-law.freeadvice.com/drug-toxic_chemicals/">Drug and Toxic Chemicals</a></li>
 	<li><a href="http://injury-law.freeadvice.com/libel_and_slander/">Libel and Slander</a></li>
 	<li><a href="http://injury-law.freeadvice.com/malpractice_law/">Medical Malpractice</a></li>
 	<li><a href="http://www.freeadvice.com/mesothelioma_advice/">Mesothelioma Injury / Asbestos Injury</a></li>
-	<li><a href="http://accident-law.freeadvice.com/auto/motorcycle_accident_statistics.htm">Motorcycle Injury</a></li>
-	<li><a href="http://injury-law.freeadvice.com/injury-law/neck_whiplash_injury.htm">Neck Injury / Whiplash</a></li>
-	<li><a href="http://injury-law.freeadvice.com/injury-law/pain_and_suffering_factors.htm">Pain, Suffering, Lost Wages</a></li>
+	<li><a href="http://accident-law.freeadvice.com/auto/1725/">Motorcycle Injury</a></li>
+	<li><a href="http://injury-law.freeadvice.com/injury-law/1666/">Neck Injury / Whiplash</a></li>
+	<li><a href="http://injury-law.freeadvice.com/injury-law/1730/">Pain, Suffering, Lost Wages</a></li>
 	<li><a href="http://injury-law.freeadvice.com/property_damage/">Property Damage</a></li>
 	<li><a href="http://accident-law.freeadvice.com/aquatic_water/">Swimming Pool Injury</a></li>
 	<li><a href="http://accident-law.freeadvice.com/traumatic_brain_injury/">Traumatic Brain Injury</a></li>
-	<li class="bottom"><a href="http://employment-law.freeadvice.com/workers_comp/">Work Related Injury</a></li>
-	</ul></li>
+	<li><a href="http://employment-law.freeadvice.com/workers_comp/">Work Related Injury</a></li>
+	</ul>
+ </li>
 	
- <li><a href="http://injury.freeadvice.com/">Damages</a></li>
-	
- <li><a class="daddy" href="http://criminal-law.freeadvice.com/">Criminal Law</a> 
-	<ul>
+ <li><a class="daddy" href="http://criminal-law.freeadvice.com/">Criminal Law</a>
+ 	<ul>
 	<li><a href="http://criminal-law.freeadvice.com/arrests_and_searches/">Arrests and Searches</a></li>
 	<li><a href="http://criminal-law.freeadvice.com/drug_crimes/">Drug Crimes</a></li>
 	<li><a href="http://criminal-law.freeadvice.com/juvenile_law/">Juvenile Law</a></li>
@@ -126,21 +128,23 @@ if (window.attachEvent) window.attachEvent('onload', ieHover);
 	<li><a href="http://criminal-law.freeadvice.com/parole_probation/">Parole, Probation, Pardons</a></li>
 	<li><a href="http://criminal-law.freeadvice.com/violent_crimes/">Violent Crimes</a></li>
 	<li><a href="http://criminal-law.freeadvice.com/white_collar_crimes/">White Collar Crimes</a></li>
-	<li class="bottom"><a href="http://law.freeadvice.com/government_law/military_law/">Military Law</a></li>
-	</ul></li>
-
- <li><a class="daddy" href="http://law.freeadvice.com/estate_planning/">Estate Planning</a>
-  	<ul>
+	<li><a href="http://law.freeadvice.com/government_law/military_law/">Military Law</a></li>
+	</ul>
+ </li>
+	
+ <li><a class="daddy" href="http://law.freeadvice.com/estate_planning/estate_planning/">Estate Planning</a>
+	<ul>
 	<li><a href="http://law.freeadvice.com/estate_planning/asset_protection/">Asset Protection</a></li>
 	<li><a href="http://law.freeadvice.com/estate_planning/elder_law/">Elder Law</a></li>
 	<li><a href="http://law.freeadvice.com/estate_planning/estates_legalese/">Estates Legalese</a></li>
 	<li><a href="http://law.freeadvice.com/estate_planning/probate/">Probate</a></li>
 	<li><a href="http://law.freeadvice.com/estate_planning/trusts/">Trusts and Living Trusts</a></li>
-	<li class="bottom"><a href="http://law.freeadvice.com/estate_planning/wills/">Wills</a></li>
-	</ul></li>
+	<li><a href="http://law.freeadvice.com/estate_planning/wills/">Wills</a></li>
+	</ul>
+ </li>
 
  <li><a class="daddy" href="http://family-law.freeadvice.com/">Family Law</a>
-	<ul>
+  	<ul>
 	<li><a href="http://family-law.freeadvice.com/adoption_law/">Adoption Law</a></li>
 	<li><a href="http://family-law.freeadvice.com/child_custody/">Child Custody</a></li>
 	<li><a href="http://family-law.freeadvice.com/child_support/">Child Support</a></li>
@@ -148,10 +152,11 @@ if (window.attachEvent) window.attachEvent('onload', ieHover);
 	<li><a href="http://family-law.freeadvice.com/domestic_violence/">Domestic Violence</a></li>
 	<li><a href="http://family-law.freeadvice.com/pre_marital_agreement/">Pre Marital Agreement</a></li>
 	<li><a href="http://family-law.freeadvice.com/spousal_support/">Spousal Support</a></li>
-	<li class="bottom"><a href="http://www.freeadvice.com/divorce/">Online Divorce</a></li>
-	</ul></li>
-
- <li><a class="daddy" href="http://employment-law.freeadvice.com/">Employment (Labor) Law</a> 
+	<li><a href="http://www.freeadvice.com/divorce/">Online Divorce</a></li>
+	</ul>
+ </li>
+	
+ <li><a class="daddy" href="http://employment-law.freeadvice.com/">Employment&nbsp;(Labor)&nbsp;Law&nbsp;</a>
 	<ul>
 	<li><a href="http://employment-law.freeadvice.com/hiring/">Hiring</a></li>
 	<li><a href="http://employment-law.freeadvice.com/firing/">Firing</a></li>
@@ -159,24 +164,26 @@ if (window.attachEvent) window.attachEvent('onload', ieHover);
 	<li><a href="http://employment-law.freeadvice.com/pensions_benefits/">Pensions &amp; Benefits</a></li>
 	<li><a href="http://employment-law.freeadvice.com/sexual_harassment/">Sexual Harassment</a></li>
 	<li><a href="http://employment-law.freeadvice.com/workers_comp/">Workers Compensation</a></li>
-	<li class="bottom"><a href="http://employment-law.freeadvice.com/">Whistleblower(False Claims Act)</a></li>
-	</ul></li>
+	<li><a href="http://employment-law.freeadvice.com/">Whistleblower(False Claims Act)</a></li>
+	</ul>
+ </li>
 
  <li><a class="daddy" href="http://real-estate-law.freeadvice.com/">Real Estate Law</a>
-  	<ul>
+	<ul>
 	<li><a href="http://real-estate-law.freeadvice.com/agricultural_law/">Agricultural Law</a></li>
 	<li><a href="http://real-estate-law.freeadvice.com/buy_sell_a_home/">Buying a Home &amp; Selling a Home</a></li>
 	<li><a href="http://real-estate-law.freeadvice.com/commercial_real_estate/">Commercial Real Estate</a></li>
 	<li><a href="http://real-estate-law.freeadvice.com/condemnation/">Condemnation</a></li>
 	<li><a href="http://real-estate-law.freeadvice.com/construction/">Construction</a></li>
-	<li><a href="http://accident-law.freeadvice.com/construction_accidents/construction_injury_who_is_at_fault.htm">Construction Injury</a></li>
+	<li><a href="http://accident-law.freeadvice.com/construction_accidents/1723/">Construction Injury</a></li>
 	<li><a href="http://real-estate-law.freeadvice.com/landlord_tenant/">Landlord &amp; Tenant Law</a></li>
 	<li><a href="http://real-estate-law.freeadvice.com/mortgage_matters/">Mortgage Matters</a></li>
-	<li class="bottom"><a href="http://real-estate-law.freeadvice.com/zoning/">Zoning</a></li>
-	</ul></li>
+	<li><a href="http://real-estate-law.freeadvice.com/zoning/">Zoning</a></li>
+	</ul>
+ </li>
 
- <li><a class="daddy" href="http://law.freeadvice.com/admiralty_maritime/">Admiralty &amp; Maritime</a> 
-	<ul>
+<li><a class="daddy" href="http://law.freeadvice.com/admiralty_maritime/admiralty_maritime/">Admiralty &amp; Maritime</a>
+  	<ul>
 	<li><a href="http://law.freeadvice.com/admiralty_maritime/boating_injury/">Boating Injury</a></li>
 	<li><a href="http://law.freeadvice.com/admiralty_maritime/cruise_line/">Cruise Line Injury</a></li>
 	<li><a href="http://law.freeadvice.com/admiralty_maritime/maritime_contracts/">Maritime Contracts</a></li>
@@ -184,19 +191,21 @@ if (window.attachEvent) window.attachEvent('onload', ieHover);
 	<li><a href="http://law.freeadvice.com/admiralty_maritime/salvage_and_treasure/">Salvage and Treasure</a></li>
 	<li><a href="http://law.freeadvice.com/aviation_law/commercial_airlines/">Commercial Airlines</a></li>
 	<li><a href="http://law.freeadvice.com/aviation_law/international/">International</a></li>
-	<li class="bottom"><a href="http://law.freeadvice.com/aviation_law/non_commercial_airlines/">Non Commercial Airlines</a></li>
-	</ul></li>
-
- <li><a class="daddy" href="http://bankruptcy-law.freeadvice.com/">Bankruptcy Law</a> 
+	<li><a href="http://law.freeadvice.com/aviation_law/non_commercial_airlines/">Non Commercial Airlines</a></li>
+	</ul>
+ </li>
+	
+<li><a class="daddy" href="http://bankruptcy-law.freeadvice.com/">Bankruptcy Law</a>
 	<ul>
-	<li><a href="http://bankruptcy-law.freeadvice.com/business_bankruptcy/">Business Bankruptcy and Chapter 11</a></li>
+	<li><a href="http://bankruptcy-law.freeadvice.com/business_bankruptcy/">Business&nbsp;Bankruptcy and Chapter&nbsp;11</a></li>
 	<li><a href="http://bankruptcy-law.freeadvice.com/collections/">Collections</a></li>
-	<li><a href="http://bankruptcy-law.freeadvice.com/consumer_bankruptcy/">Consumer Bankruptcy (Chapter 7 and Chapter 13 - Wage Earner Plans)</a></li>
+	<li><a href="http://bankruptcy-law.freeadvice.com/consumer_bankruptcy/">Consumer&nbsp;Bankruptcy (Chapter&nbsp;7&nbsp;and Chapter&nbsp;13&nbsp;Wage&nbsp;Earner&nbsp;Plans)</a></li>
 	<li><a href="http://bankruptcy-law.freeadvice.com/credit_problems/">Credit Problems</a></li>
-	<li class="bottom"><a href="http://bankruptcy-law.freeadvice.com/creditor_rights/">Creditor\'s Rights</a></li>
-	</ul></li>
+	<li><a href="http://bankruptcy-law.freeadvice.com/creditor_rights/">Creditor's Rights</a></li>
+	</ul>
+ </li>
 
- <li><a class="daddy" href="http://business-law.freeadvice.com/">Business Law</a> 
+<li><a class="daddy" href="http://business-law.freeadvice.com/">Business Law</a>
 	<ul>
 	<li><a href="http://business-law.freeadvice.com/corporations/">Corporations</a></li>
 	<li><a href="http://business-law.freeadvice.com/franchise_law/">Franchise Law</a></li>
@@ -205,10 +214,11 @@ if (window.attachEvent) window.attachEvent('onload', ieHover);
 	<li><a href="http://business-law.freeadvice.com/trade_regulation/">Trade Regulation</a></li>
 	<li><a href="http://www.edgar-online.com/brand/freeadvice/">Search SEC filings</a></li>
 	<li><a href="http://www.edgar-online.com/brand/freeadvice/ipoexpress/">IPO Express</a></li>
-	<li class="bottom"><a href="http://www.edgar-online.com/brand/freeadvice/search/">Today\'s SEC Filings</a></li>
-	</ul></li>
+	<li><a href="http://www.edgar-online.com/brand/freeadvice/search/">Today's SEC Filings</a></li>
+	</ul>
+ </li>
 
- <li><a class="daddy" href="http://law.freeadvice.com/financial_law/">Financial Law</a> 
+<li><a class="daddy" href="http://law.freeadvice.com/financial_law/financial_law/">Financial Law</a>
 	<ul>
 	<li><a href="http://law.freeadvice.com/financial_law/banking_law/">Banking Law</a></li>
 	<li><a href="http://law.freeadvice.com/financial_law/broker_disputes/">Broker Disputes</a></li>
@@ -217,10 +227,11 @@ if (window.attachEvent) window.attachEvent('onload', ieHover);
 	<li><a href="http://law.freeadvice.com/financial_law/securities_law/">Securities Law</a></li>
 	<li><a href="http://www.edgar-online.com/brand/freeadvice/">Search SEC filings</a></li>
 	<li><a href="http://www.edgar-online.com/brand/freeadvice/ipoexpress/">IPO Express</a></li>
-	<li class="bottom"><a href="http://www.edgar-online.com/brand/freeadvice/search/">Today\'s SEC Filings</a></li>
-	</ul></li>
+	<li><a href="http://www.edgar-online.com/brand/freeadvice/search/">Today's SEC Filings</a></li>
+	</ul>
+ </li>
 
- <li><a class="daddy" href="http://law.freeadvice.com/general_practice/">General Practice</a> 
+<li><a class="daddy" href="http://law.freeadvice.com/general_practice/general_practice/">General Practice</a>
 	<ul>
 	<li><a href="http://law.freeadvice.com/general_practice/contract_law/">Contract Law</a></li>
 	<li><a href="http://law.freeadvice.com/general_practice/guarantees/">Guarantees</a></li>
@@ -228,10 +239,11 @@ if (window.attachEvent) window.attachEvent('onload', ieHover);
 	<li><a href="http://law.freeadvice.com/general_practice/lemon_law/">Lemon Law</a></li>
 	<li><a href="http://law.freeadvice.com/general_practice/licenses/">Licenses</a></li>
 	<li><a href="http://law.freeadvice.com/general_practice/suing_being_sued/">Suing/Being Sued</a></li>
-	<li class="bottom"><a href="http://law.freeadvice.com/general_practice/traffic_law/">Traffic Law</a></li>
-	</ul></li>
+	<li><a href="http://law.freeadvice.com/general_practice/traffic_law/">Traffic Law</a></li>
+	</ul>
+ </li>
 
- <li><a class="daddy" href="http://law.freeadvice.com/government_law/">Government Law</a> 
+<li><a class="daddy" href="http://law.freeadvice.com/government_law/government_law/">Government Law</a>
 	<ul>
 	<li><a href="http://law.freeadvice.com/government_law/civil_rights_law_ada/">Civil Rights Law &amp; ADA-Disabilities Law</a></li>
 	<li><a href="http://law.freeadvice.com/government_law/education_law/">Education Law</a></li>
@@ -239,33 +251,36 @@ if (window.attachEvent) window.attachEvent('onload', ieHover);
 	<li><a href="http://law.freeadvice.com/government_law/military_law/">Military Law</a></li>
 	<li><a href="http://law.freeadvice.com/government_law/public_contracts/">Public Contracts</a></li>
 	<li><a href="http://law.freeadvice.com/government_law/social_security_law/">Social Security Law</a></li>
-	<li class="bottom"><a href="http://employment-law.freeadvice.com/">Whistleblower(False Claims Act)</a></li>
-	</ul></li>
+	<li><a href="http://employment-law.freeadvice.com/">Whistleblower(False Claims Act)</a></li>
+	</ul>
+ </li>
 
- <li><a class="daddy" href="http://immigration-law.freeadvice.com/">Immigration Law</a> 
+<li><a class="daddy" href="http://immigration-law.freeadvice.com/">Immigration Law</a>
 	<ul>
 	<li><a href="http://immigration-law.freeadvice.com/asylum/">Asylum</a></li>
 	<li><a href="http://immigration-law.freeadvice.com/citizenship/">Citizenship</a></li>
 	<li><a href="http://immigration-law.freeadvice.com/permanent_residents/">Permanent Residents</a></li>
 	<li><a href="http://immigration-law.freeadvice.com/student_visas/">Student Visas</a></li>
 	<li><a href="http://immigration-law.freeadvice.com/tourist_visas/">Tourist Visas</a></li>
-	<li class="bottom"><a href="http://immigration-law.freeadvice.com/work_visas/">Work Visas</a></li>
-	</ul></li>
+	<li><a href="http://immigration-law.freeadvice.com/work_visas/">Work Visas</a></li>
+	</ul>
+ </li>
 
- <li><a class="daddy" href="http://law.freeadvice.com/insurance_law/">Insurance Law</a></li>
+<li><a class="daddy" href="http://law.freeadvice.com/insurance_law/insurance_law/">Insurance Law</a>
 	<ul>
 	<li><a href="http://law.freeadvice.com/insurance_law/auto_insurance/">Auto Insurance</a></li>
 	<li><a href="http://law.freeadvice.com/insurance_law/business_insurance/">Business Insurance</a></li>
 	<li><a href="http://law.freeadvice.com/insurance_law/disability_insurance/">Disability Insurance</a></li>
 	<li><a href="http://law.freeadvice.com/insurance_law/health_insurance/">Health Insurance</a></li>
-	<li><a href="http://law.freeadvice.com/insurance_law/insurers_bad_faith/">Insurer\'s Bad Faith</a></li>
+	<li><a href="http://law.freeadvice.com/insurance_law/insurers_bad_faith/">Insurer's Bad Faith</a></li>
 	<li><a href="http://law.freeadvice.com/insurance_law/life_insurance_law/">Life Insurance Law</a></li>
 	<li><a href="http://law.freeadvice.com/insurance_law/property_insurance/">Property Insurance</a></li>
 	<li><a href="http://law.freeadvice.com/insurance_law/viaticals/">Viatical and Senior Settlements</a></li>
-	<li class="bottom"><a href="http://insurance.freeadvice.com/">Additional Topics</a></li>
+	<li><a href="http://insurance.freeadvice.com/">Additional Topics</a></li>
 	</ul>
+ </li>
 
- <li><a class="daddy" href="http://law.freeadvice.com/intellectual_property/">Intellectual Property</a> 
+<li><a class="daddy" href="http://law.freeadvice.com/intellectual_property/intellectual_property/">Intellectual Property</a>
 	<ul>
 	<li><a href="http://law.freeadvice.com/intellectual_property/communications_law/">Communications Law</a></li>
 	<li><a href="http://law.freeadvice.com/intellectual_property/computer_law/">Computer Law</a></li>
@@ -273,49 +288,50 @@ if (window.attachEvent) window.attachEvent('onload', ieHover);
 	<li><a href="http://law.freeadvice.com/intellectual_property/music_law/">Music Law</a></li>
 	<li><a href="http://law.freeadvice.com/intellectual_property/patent_law/">Patent Law</a></li>
 	<li><a href="http://law.freeadvice.com/intellectual_property/trade_secrets/">Trade Secrets</a></li>
-	<li class="bottom"><a href="http://law.freeadvice.com/intellectual_property/trademark_law/">Trademark Law</a></li>
-	</ul></li>
-
- <li><a class="daddy" href="http://law.freeadvice.com/litigation/">Litigation</a> 
+	<li><a href="http://law.freeadvice.com/intellectual_property/trademark_law/">Trademark Law</a></li>
+	</ul>
+ </li>
+ 
+<li><a class="daddy" href="http://law.freeadvice.com/litigation/litigation/">Litigation</a>
 	<ul>
 	<li><a href="http://law.freeadvice.com/litigation/appeals/">Appeals</a></li>
 	<li><a href="http://law.freeadvice.com/litigation/arbitration/">Arbitration</a></li>
 	<li><a href="http://law.freeadvice.com/litigation/civil_law_suits/">Civil Law Suits</a></li>
 	<li><a href="http://law.freeadvice.com/litigation/class_actions/">Class Actions</a></li>
-	<li class="bottom"><a href="http://law.freeadvice.com/litigation/mediation/">Mediation</a></li>
-	</ul></li>
-
- <li><a class="daddy" href="http://law.freeadvice.com/tax_law/">Tax Law</a> 
+	<li><a href="http://law.freeadvice.com/litigation/mediation/">Mediation</a></li>
+	</ul>
+ </li>
+ 
+<li><a class="daddy" href="http://law.freeadvice.com/tax_law/tax_law/">Tax Law</a>
 	<ul>
 	<li><a href="http://law.freeadvice.com/tax_law/corporate_tax_law/">Corporate Tax Law</a></li>
 	<li><a href="http://law.freeadvice.com/tax_law/estate_tax_law/">Estate Tax Law</a></li>
 	<li><a href="http://law.freeadvice.com/tax_law/gift_tax_law/">Gift Tax Law</a></li>
 	<li><a href="http://law.freeadvice.com/tax_law/income_tax_law/">Income Tax Law</a></li>
 	<li><a href="http://law.freeadvice.com/tax_law/property_tax_law/">Property Tax Law</a></li>
-	<li class="bottom"><a href="http://law.freeadvice.com/tax_law/tax_enforcement/">Tax Enforcement</a></li>
-	</ul></li> 
-	
-<li class="bottom"><a href="http://law.freeadvice.com/small_claims/">Small Claims</a></li>
+	<li><a href="http://law.freeadvice.com/tax_law/tax_enforcement/">Tax Enforcement</a></li>
+	</ul>
+ </li>
+
+<li class="bottom"><a href="http://law.freeadvice.com/small_claims/">Small Claims</a>
+ </li>
 </ul></li>
 <!-- end menu1 -->
 
 <!-- menu2 -->
-<li><a href="http://www.freeadvice.com/legalforms/index.php" class="divider">Legal Forms</a> 
-</li>
+<li><a href="http://www.freeadvice.com/legalforms/index.php" class="divider">Legal&nbsp;Forms</a>
 <!-- end menu2 -->
 
 <!-- menu3 -->
-<li><a href="http://www.freeadvice.com/pyc/link.php?topic=0&amp;id=0&amp;link=http://attorneypages.com/secure/post_your_case/index.php" class="divider">Post Your Case</a> 
-</li>
+</li><li><a href="https://secure.attorneypages.com/secure/post_your_case/index.php" class="divider">Post&nbsp;Your&nbsp;Case</a>
 <!-- end menu3 -->
 
 <!-- menu4 -->
-<li><a href="http://www.freeadvice.com/lawyers-state.htm" class="divider">Find A Lawyer</a>
- </li>
+</li><li><a href="http://www.freeadvice.com/lawyers-state.htm" class="divider">Find&nbsp;A&nbsp;Lawyer</a>
 <!-- end menu4 -->
 
 <!-- menu5 -->
-<li class="sub"><a href="http://forum.freeadvice.com/" class="divider">Law Forum</a>
+</li><li class="sub"><a href="http://forum.freeadvice.com/" class="divider">Law&nbsp;Forum</a>
  <ul>
  <li><a href="http://forum.freeadvice.com/forumdisplay.php?f=49">Accident&nbsp;and&nbsp;Injury&nbsp;Law</a></li>
  <li><a href="http://forum.freeadvice.com/forumdisplay.php?f=51">Business&nbsp;and&nbsp;Financial&nbsp;Law</a></li>
@@ -330,48 +346,97 @@ if (window.attachEvent) window.attachEvent('onload', ieHover);
  <li><a href="http://forum.freeadvice.com/forumdisplay.php?f=59">Intellectual&nbsp;Property&nbsp;and&nbsp;Internet&nbsp;Law</a></li>
  <li><a href="http://forum.freeadvice.com/forumdisplay.php?f=60">Real&nbsp;Estate&nbsp;Law</a></li>
  <li><a href="http://forum.freeadvice.com/forumdisplay.php?f=63">Tax&nbsp;Law</a></li>
- <li><a href="http://forum.freeadvice.com/forumdisplay.php?f=61">Traffic&nbsp;Law</a></li>
- <li class="bottom"><a href="http://forum.freeadvice.com/forumdisplay.php?f=56">Wills&nbsp;and&nbsp;Trusts</a></li>
+ <li><a href="http://forum.freeadvice.com/forumdisplay.php?f=61">Traffic&nbsp;Law</a></li> <li class="bottom"><a href="http://forum.freeadvice.com/forumdisplay.php?f=56">Wills&nbsp;and&nbsp;Trusts</a></li>
  </ul></li>
 </ul>
-<!-- end menu4 -->
+<!-- end menu5 -->
 </td></tr>
-</tbody></table><!-- End SubNAV -->
+</tbody></table>
+<!-- End SubNAV -->
 </td></tr>
 <!-- END NAV------->
 
 <tr bgcolor="white">
 <td align="center">
 <!--BEGIN LOGO/SEARCH------->
-	<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tbody><tr>
+<td align="left">
+<a href="http://www.freeadvice.com"><img src="http://images.freeadvice.com/images_fa_ins/logo.gif" width="217" height="59" hspace="0" vspace="0" border="0"></a></td>
+<td align="right">
+	<table cellspacing="10" cellpadding="0" border="0">
 	<tbody><tr valign="middle">
-	<td>
-	<a href="http://www.freeadvice.com"><img src="http://images.freeadvice.com/images_fa_2/logo.gif" width="217" height="59" hspace="0" vspace="0" border="0" align="left"></a></td>
-	<td align="right">
-		<table cellspacing="10" cellpadding="0" border="0">
-		<form method="get" action="http://search.freeadvice.com/cgi-bin/texis/webinator/search"></form>
-		<tbody><tr valign="middle">
-		<td><br>
-		<span style="font-family:Arial, Helvetica, sans-serif;color:#535353">Search:</span> 
-		<select name="cq" style="vertical-align:middle;color:#535353"> 
-        <option value="" selected="">Entire Site
-        </option><option value="1">Legal Q&amp;A
-        </option><option value="2">Law Forum Q&amp;A
-        </option><option>Insurance Q&amp;A
-        </option><option>Insurance Forums
-      	</option></select> 
-      <input type="hidden" name="pr" value="default"> 
-      <input type="hidden" name="prox" value="page"> 
-      <input type="hidden" name="rorder" value="500"> 
-      <input type="hidden" name="rprox" value="500"> 
-      <input type="hidden" name="rdfreq" value="500"> 
-      <input type="hidden" name="rwfreq" value="500"> 
-      <input type="hidden" name="rlead" value="500"> 
-      <input type="hidden" name="sufs" value="0"> 
-      <input name="query" type="text" style="vertical-align:middle" size="20" maxlength="100"> 
-&nbsp; <input name="submit" type="image" class="FormButton" value="Search" src="http://images.freeadvice.com/images_fa_2/h_button_search.gif" alt="Search" align="absmiddle"></td></tr>
-		</tbody></table>
-	  </td></tr></tbody></table><!--END LOGO/SEARCH------->
+	<td><br>
+	<span id="SearchEng">
+	<!-- Google CSE Search Box Begins -->
+<form id="searchbox_001649234035982236197:-raeayqioxs" action="http://www.freeadvice.com/search.php">
+<strong>Search</strong> &nbsp; <select onchange="showCSE(this.value);">
+	<option value="all" selected="">All FreeAdvice</option>
+	<option value="law">Legal Q&amp;As</option>
+	<option value="ins">Insurance Q&amp;As</option>
+	<option value="forum">Legal Forum</option>
+	<option value="soap">Legal News</option>
+	<option value="web">Entire Web</option>
+	</select> &nbsp; 
+<input type="hidden" name="cx" value="001649234035982236197:-raeayqioxs">
+<input name="q" type="text" size="30">
+ &nbsp; <input name="sa" type="image" value="Search" src="http://images.freeadvice.com/images_fa_2/h_button_search.gif" alt="Search" align="absmiddle">
+<input type="hidden" name="cof" value="FORID:9">
+</form>
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_001649234035982236197%3A-raeayqioxs"></script>
+<!-- Google CSE Search Box Ends -->	</span>
+    </td></tr>
+	</tbody></table></td></tr>
+</tbody></table>
+<script type="text/javascript">
+<!-- AJAX code -->
+var xmlHttp=null;
+
+function GetXmlHttpObject() {
+try
+	{
+	// Firefox, Opera 8.0+, Safari
+	xmlHttp=new XMLHttpRequest();
+	}
+catch (e)
+	{
+	// Internet Explorer 6+
+	try
+		{
+		xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+		}
+	catch (e)
+		{
+		// Internet Explorer 5.5+
+		xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+		}
+	}
+return xmlHttp;
+}
+
+function showCSE(st) {
+xmlHttp=GetXmlHttpObject();
+if (xmlHttp==null)
+	{
+	alert ("Your browser does not support AJAX!");
+	return;
+	}
+var url="includes/i_search.php";
+url=url+"?st="+st;
+url=url+"&sid="+Math.random();
+xmlHttp.onreadystatechange=stateChanged;
+xmlHttp.open("GET",url,true);
+xmlHttp.send(null);
+}
+
+function stateChanged() {
+if (xmlHttp.readyState==4)
+	{
+	document.getElementById("SearchEng").innerHTML=xmlHttp.responseText;
+	}
+}
+</script>
+<!--END LOGO/SEARCH------->
 	  
 <!-- CONSUMER ALERT GOES HERE IS THERE IS ONE. -->
 <!-- CONSUMER ALERT GOES HERE IS THERE IS ONE. -->
@@ -788,37 +853,29 @@ Arial">
 		<!-- Google Ads 2 -->
 		<table cellspacing="0" cellpadding="0" border="0" width="100%" align="left">
 <tbody><tr valign="top"><td align="left">
-<script type="text/javascript" language="JavaScript">
-<!--
-     google_ad_client = 'ca-advicecompany_fa_468x60';
-     google_ad_channel = 'fa250x250_general';
-     google_ad_width = 468;
-     google_ad_height = 60;
-     google_ad_format = '468x60_pas_abgc';
-     google_ad_type = 'text,image';
-     google_safe = 'high';
-	 google_color_bg = 'FFFFFF';
-	 google_color_text = '535353';
-	 google_color_link = '0070AA';
-	 google_color_url = '0070AA';
-	 google_color_border = 'FFFFFF';
-	 google_color_line = 'FFFFFF';
-//	 google_skip = '3'; // This code appears first on the page.
+<script type="text/javascript"><!--
+google_ad_client = "pub-3387887484387515";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text_image";
+//2007-03-20: fa_afc_banner_468
+google_ad_channel = "0446205965";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "0070AA";
+google_color_text = "000000";
+google_color_url = "0070AA";
 
-	 google_kw = ', , , attorneys';
-	 google_kw_type = 'broad';
-//	 google_hints = '';
+google_hints = "";
 
-	 google_adtest = 'off'; // use when live.
-//	 google_adtest = 'on'; // use when testing.
-// -->
+//-->
 </script>
-<script type="text/javascript" language="JavaScript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
-<noscript>
-<img height="1" width="1" border="0" src="http://pagead2.googlesyndication.com/pagead/imp.gif?client=ca-advicecompany_fa_468x60&event=noscript">
-</noscript>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
 </td></tr>
-</tbody></table>		<!-- END Google Ads 2 --></td></tr>
+</tbody></table>		<!-- END Google Ads 2 -->
+		</td></tr>
 		
 		<!-- END MAIN CONTENT AREA -->
 		</tbody></table></td>
@@ -832,22 +889,17 @@ Arial">
 		<table align="left" cellspacing="0" cellpadding="0">
 		<tbody><tr valign="top"><td align="left">
 		<!-- SPECIAL TOPICS 1 -->
-				<table cellspacing="0" cellpadding="0" border="0" width="100%">
-		<tbody><tr>
-		<td><img src="http://images.freeadvice.com/images_fa_2/yellow_top.gif" width="250" height="7" hspace="0" vspace="0" border="0"></td></tr>
-		<tr>
-		<td class="yellowwidget">
-			<table cellspacing="0" cellpadding="0" border="0" width="100%">
-			<!-- TOPIC A -->
-			<tbody><tr>
-			<td align="center" class="redheader"><!-- Free Case Review -->Free Case Review</td></tr>
-			<tr>
-			<td class="yellowtext">Post your case and have it reviewed by up to 5 qualified attorneys. <a href="http://www.freeadvice.com/pyc/link.php?topic=0&amp;id=0&amp;link=http://attorneypages.com/secure/post_your_case/index.php">Get started now »</a><br><br><div align="center"><strong>NO Cost, NO obligation!</strong></div></td></tr>
-			</tbody></table></td></tr>
-		<tr>
-		<td><img src="http://images.freeadvice.com/images_fa_2/yellow_bottom.gif" width="250" height="7" hspace="0" vspace="0" border="0"></td></tr>
-		</tbody></table>
-		<!-- END SPECIAL TOPICS 1 -->
+				<a href="https://secure.attorneypages.com/secure/post_your_case/index.php"><img src="http://www.freeadvice.com/pyc/images/postyourcase_wide_default.gif" width="250" height="119" hspace="0" vspace="0" border="0"></a>		<!-- END SPECIAL TOPICS 1 -->
+		</td></tr>
+		
+		<tr valign="top"><td align="left">
+		<!-- SPACING -->
+		<img src="http://images.freeadvice.com/images_fa_2/cleardot.gif" width="1" height="10" hspace="0" vspace="0" border="0"></td></tr>
+		
+		<tr valign="top"><td align="left">
+		<!-- SPECIAL TOPICS 2 -->
+		<a href="http://www.freeadvice.com/pyc/link3.php?campaign=DIY&amp;link=http://doityourself.com/"><img src="http://www.freeadvice.com/pyc/images/diy_wide.jpg" border="0"></a>
+		<!-- END SPECIAL TOPICS 2 -->
 		</td></tr>
 		
 		<tr valign="top"><td align="left">
@@ -856,35 +908,28 @@ Arial">
 			
 		<tr valign="top"><td align="left">
 		<!-- Google Ads -->
-		<table cellspacing="0" cellpadding="0" border="0" width="100%" align="left">			
+		<table cellspacing="0" cellpadding="0" border="0" width="100%" align="left">
 <tbody><tr valign="top"><td align="left">
-<script type="text/javascript" language="JavaScript">
-<!--
-     google_ad_client = 'ca-advicecompany_fa_250x250';
-     google_ad_channel = 'fa250x250_general';
-     google_ad_width = 250;
-     google_ad_height = 250;
-     google_ad_format = '250x250_pas_abgc';
-     google_ad_type = 'text,image';
-     google_safe = 'high';
-	 google_color_bg = 'FFFEEA';
-	 google_color_text = '535353';
-	 google_color_link = '0070AA';
-	 google_color_url = '0070AA';
-	 google_color_border = 'F2F1D7';
-	 google_color_line = 'FFFEEA';
-//	 google_skip = '2'; // This code appears second on the page.
-//	 google_kw = ''; // Family Law Section Only TEST
-//	 google_kw_type = 'broad';
-	 google_hints = ' attorneys  ';
-	 google_adtest = 'off'; // use when live.
-//	 google_adtest = 'on'; // use when testing.
-// -->
+<script type="text/javascript"><!--
+google_ad_client = "pub-3387887484387515";
+google_ad_width = 250;
+google_ad_height = 250;
+google_ad_format = "250x250_as";
+google_ad_type = "text_image";
+//2007-03-20: fa_afc_square_250
+google_ad_channel = "8695386721";
+google_color_border = "F2F1D7";
+google_color_bg = "FFFEEA";
+google_color_link = "0070AA";
+google_color_text = "000000";
+google_color_url = "0070AA";
+
+google_hints = "accident criminal bankruptcy legal advice";
+
+//-->
 </script>
-<script type="text/javascript" language="JavaScript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
-<noscript>
-<img height=1 width=1 border=0 src="http://pagead2.googlesyndication.com/pagead/imp.gif?client=ca-advicecompany_fa_250x250&event=noscript">
-</noscript>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
 </td></tr>
 </tbody></table>		<!-- END Google Ads --></td></tr>
 		
@@ -947,44 +992,27 @@ Arial">
 		<img src="http://images.freeadvice.com/images_fa_2/cleardot.gif" width="1" height="10" hspace="0" vspace="0" border="0"></td></tr>
 		
 		<tr valign="top"><td align="left">
-		<!-- FEATURED ARTICLES -->
-		<link rel="stylesheet" href="includes/style_apfeed.css" type="text/css">
-<table cellspacing="0" cellpadding="0" border="0" width="250" bgcolor="white">
-	<tbody><tr>
-	<td>
-	<img src="includes/white_top.gif" width="250" height="7" hspace="0" vspace="0" border="0"></td></tr>
-	<tr>
-	<td>
-		<table cellspacing="0" cellpadding="0" border="0" width="100%" align="left">
-		
-		<tbody><tr>
-		<td class="apwhitewidget" align="left">
-		<span class="apheadserifsmall"><strong>Law News at <a href="http://www.freeadvice.com/"><img src="includes/apfeed_logo.gif" width="77" height="12" border="0"></a></strong></span><strong>
-		<br>
-		<!-- begin code that displays AP News Headlines -->	
-		<span style="font-size:3px;"><br></span><span style="font-size:8px;">
-<span style="font-size:9px;"><a href="http://legalsoapbox.freeadvice.com/n37774_Iraqi_Civilians_File_Suit_Over_U.N._Oil-for-Food_Program.htm"><span style="color:#D97838;">War on Terror:</span> Iraqi Civilians File Suit Over U.N. Oil-for-Food Program</a></span><br>Sat, Dec 23 2006 08:30 AM EST<br><br><span style="font-size:9px;"><a href="http://legalsoapbox.freeadvice.com/n37766_Appeals_Court_Cuts_$2_Billion_Off_Of_Exxon_Valdezs_Damages.htm"><span style="color:#D97838;">Exxon Valdez:</span> Appeals Court Cuts $2 Billion Off Of Exxon Valdez's Damages</a></span><br>Fri, Dec 22 2006 03:39 PM EST<br><br><span style="font-size:9px;"><a href="http://legalsoapbox.freeadvice.com/n37763_SEC_Files_Suit_Against_Two_Former_Tyco_Executives;_Third_Officer_Settles.htm"><span style="color:#D97838;">SEC:</span> SEC Files Suit Against Two Former Tyco Executives; Third Officer Settles</a></span><br>Fri, Dec 22 2006 02:12 PM EST<br><br>		</span></strong></td></tr>
-		<tr>
-		<td class="apwhitebottom">
-		<a href="http://legalsoapbox.freeadvice.com/index.php">Read and Comment at LegalSoapbox.com »</a></td></tr>
-	</tbody></table></td></tr>
-</tbody></table>
-
-		<!-- END FEATURED ARTICLES -->
-		</td></tr>
-		
-		<tr valign="top"><td align="left">
-		<!-- SPACING -->
-		<img src="http://images.freeadvice.com/images_fa_2/cleardot.gif" width="1" height="10" hspace="0" vspace="0" border="0"></td></tr>
-		
-		<tr valign="top"><td align="left">
 		<!-- Related Ads - Google -->
 		<table cellspacing="0" cellpadding="0" border="0" width="100%" align="left">
 <tbody><tr valign="top">
 <td align="left">
 <!-- Rad Links -->
-<script language="JavaScript" type="text/javascript" src="http://www.freeadvice.com/ads/radlinks/rad_links_fa.js"></script>
-<script language="JavaScript" type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+<script type="text/javascript"><!--
+google_ad_client = "pub-3387887484387515";
+google_ad_width = 200;
+google_ad_height = 90;
+google_ad_format = "200x90_0ads_al_s";
+//2007-03-20: fa_rad_200
+google_ad_channel = "4274559445";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "0070AA";
+google_color_text = "000000";
+google_color_url = "0070AA";
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
 </td></tr>
 </tbody></table>		<!-- END Related Ads - Google -->
 		</td></tr>
@@ -1004,7 +1032,7 @@ Arial">
 	<tbody><tr valign="top"><td align="center">
 	<a href="http://www.bbbonline.org/cks.asp?id=1116000164" title="BBB On Line" target="_blank"><img src="http://www.freeadvice.com/images/ReliabilitySeal2.gif" border="0" align="left" vspace="0" hspace="5"></a><a href="http://law.freeadvice.com/resources/statelaws.htm" class="footer">State Law Center</a>&nbsp;|&nbsp;<a href="http://law.freeadvice.com/resources/linkbar.htm" class="footer">Legal Links</a>&nbsp;|&nbsp;<a href="http://legalsoapbox.freeadvice.com/index.php" class="footer">Legal Articles</a>&nbsp;|&nbsp;<a href="http://law.freeadvice.com/resources/sitemap.htm" class="footer">Site Map</a>&nbsp;|&nbsp;<a href="http://law.freeadvice.com/resources/privacypolicy.htm" class="footer">Privacy Policy</a>&nbsp;|&nbsp;<a href="http://law.freeadvice.com/resources/media.htm" class="footer">Media</a>&nbsp;|&nbsp;<a href="http://law.freeadvice.com/resources/aboutus.htm" class="footer">About Us</a>&nbsp;|&nbsp;<a href="http://law.freeadvice.com/resources/contact_us.htm" class="footer">Contact Us</a><br>
 	<br>
-	<b>FreeAdvice®</b> has been providing millions of consumers with outstanding advice, free, since 1995. While not a substitute for personal advice from a licensed professional, it is available AS IS, subject to our <a href="http://law.freeadvice.com/resources/conditionsnew.htm" class="footer">disclaimer and conditions of use</a>. FreeAdvice®, <a href="http://attorneypages.com/" class="footer">AttorneyPages®</a>, <a href="http://expertpages.com/" class="footer">ExpertPages®</a>, <a href="http://legalsoapbox.freeadvice.com/index.php" class="footer">LegalSoapbox™</a>, <a href="http://HardwareAndTools.com/" class="footer">HardwareAndTools.com</a> and <a href="http://doityourself.com/" class="footer">DoItYourself.com®</a> are units or affiliates of <a href="http://law.freeadvice.com/resources/aboutus.htm" class="footer">Advice Company</a>. All Rights Reserved © 1995-2006<br>
+	<b>FreeAdvice®</b> has been providing millions of consumers with outstanding advice, free, since 1995. While not a substitute for personal advice from a licensed professional, it is available AS IS, subject to our <a href="http://law.freeadvice.com/resources/conditionsnew.htm" class="footer">disclaimer and conditions of use</a>. FreeAdvice®, <a href="http://attorneypages.com/" class="footer">AttorneyPages®</a>, <a href="http://expertpages.com/" class="footer">ExpertPages®</a>, and <a href="http://legalsoapbox.freeadvice.com/" class="footer">LegalSoapbox™</a> are units or affiliates of <a href="http://law.freeadvice.com/resources/aboutus.htm" class="footer">Advice Company</a>. All Rights Reserved © 1995-2007<br>
 	<br>
 	<br></td></tr></tbody></table>
 <!--END FOOTER------->
@@ -1014,7 +1042,7 @@ Arial">
 <script type="text/javascript">
 _uacct="UA-30107-1";
 urchinTracker();
-</script> 
+</script>
 
 
 </body></html>
