@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollandsentinel.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205050015id_/http%3A//www.hollandsentinel.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollandsentinel.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624214126id_/http%3A//www.hollandsentinel.com/privacy.shtml) for the most accurate reproduction.*
 
 # HollandSentinel.com - Your local online source for news and information.
 
