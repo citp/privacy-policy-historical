@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landoflinks.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205212622id_/http%3A//www.landoflinks.com/docs/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landoflinks.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624091509id_/http%3A//www.landoflinks.com/docs/info/privacy.html) for the most accurate reproduction.*
 
 # Land of Links: Privacy Policy
 
@@ -19,4 +19,4 @@ When a web page is submitted to LandofLinks.com, contact information from the si
   
 ---|---|---  
   
-Copyright © 2000-2006 Landoflinks.com. All rights reserved. 
+Copyright © 2000-2007 Landoflinks.com. All rights reserved. 
