@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the nationalcreditreport.com privacy policy that was archived on 2006-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060830155352id_/http%3A//www.nationalcreditreport.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalcreditreport.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624233820id_/http%3A//www.nationalcreditreport.com/privacy.cfm) for the most accurate reproduction.*
 
-# Nationalcreditreport.com
+# Nationalcreditreport.com | Privacy
+
+### Privacy
 
 The opportunities you deserve, the privacy you expect  
 The purpose of this document is to explain how Nationalcreditreport.com uses your personal information when and after you obtain products or services from us. We want you to know that information given to us is safe, secure and used in a responsible manner.
@@ -10,7 +12,7 @@ Nationalcreditreport.com does not share credit report information except as perm
 To offer you all the greatest advantages as a Nationalcreditreport.com customer, we find that sharing limited amounts of your personal information, other than credit report information, within our Nationalcreditreport.com family of companies and with well-respected, carefully selected business partners enables us to offer you personalized products and services at lower costs and/or much greater convenience than otherwise would be possible.
 
 Your protection is our priority  
-We use advanced data-encryption and storage technology to protect your sensitive personal information. Also, we are proud members of recognized online privacy and security organizations such as VeriSign™, Inc. 
+We use advanced data-encryption and storage technology to protect your sensitive personal information. Also, we are proud members of recognized online privacy and security organizations such as VeriSign™, Inc.
 
 We have implemented extensive administrative, technical and physical safeguards and quality controls. These include:
 
@@ -52,7 +54,7 @@ Additionally, in order to provide you with valuable product and service offering
 You have choices  
 Because we respect your right to privacy, we give you the choice of how your nonpublic personal information, other than credit report information, may be shared. Remember, we do not share credit report information except as permitted by law.
 
-You may choose to :
+You may choose to:
 
   1. Allow Nationalcreditreport.com to share limited amounts of your nonpublic personal information, other than credit report information, outside Nationalcreditreport.com
   2. Limit such information sharing outside Nationalcreditreport.com
@@ -95,7 +97,7 @@ Key reasons to feel secure at Nationalcreditreport.com.
   * Responsible information-sharing within the Nationalcreditreport.com allows us to save you time and offer valuable financial products and services
   * Well-respected, carefully screened companies contract to maintain the confidentiality of your information when offering special benefits, discounts and conveniences that may otherwise be unavailable
   * Choice and control over information use
-  * A database to honor our customers' . Well-trained employees committed to keeping your personal information secure
+  * A database to honor our customers'. Well-trained employees committed to keeping your personal information secure
 
 
 
@@ -105,3 +107,7 @@ Do Not Call Registry Compliance
 By submitting personal contact and/or financial information through (Nationalcreditreport.com domain), the user hereby grants written permission to Nationalcreditreport.com, its affiliated sites, and its business partners for contact via telephone, mail, and/or e-mail. Further, by registering at Nationalcreditreport.com you are consenting to receive phone calls from Nationalcreditreport.com, its affiliated sites, and its business partners for contact via telephone, including but not limited to lenders that may contact you regarding credit counseling and thereby registrants waive their right to file a claim with the FTC or any other agency in reference to these calls or contacts.
 
 If you have further questions regarding Nationalcreditreport.com's privacy policy, please e-mail us at [customerservice@nationalcreditreport.com](mailto:customerservice@nationalcreditreport.com)
+
+Back To Top
+
+Last Updated January 2, 2005
