@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funjet.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205232847id_/http%3A//www.funjet.com/cs/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funjet.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624143545id_/http%3A//www.funjet.com/cs/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Funjet Vacations - Customer Information Privacy Protection
 
@@ -78,3 +78,9 @@ If at some future date, Funjet Vacations determines that it will change the mann
 If you have any questions or comments regarding the Funjet Vacations privacy policy, please contact Funjet Vacations via our online [Customer Service](http://www.funjet.com/cs/index.asp).
 
 Updated: August 16th, 2004
+
+† Unless otherwise noted, fares do not include all applicable taxes, charges, and government-imposed fees.  
+
+
+  
+
