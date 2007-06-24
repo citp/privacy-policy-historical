@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the centurynovelty.com privacy policy that was archived on 2006-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061209020358id_/http%3A//www.centurynovelty.com/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the centurynovelty.com privacy policy that was archived on 2007-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070624231926id_/http%3A//www.centurynovelty.com/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en"><head>
   <meta name="verify-v1" content="ZcLJy/lfK6qO60b73VhvKUFU1UevE4XUJfZmVD1z66k=">
@@ -74,6 +74,51 @@ function exit()
     document.getElementById('tooltip').style.display = 'none';
 }
 </script>
+<script language="javascript">
+function getShippingText(whichOption) {
+  var s = "";
+  switch (whichOption) {
+  
+    case "0":
+      s = "<p><b>Standard Shipping</b>: Select this option if your order does not require rush processing or delivery. Most in-stock orders placed before 5:00PM ET will ship the same business day. In-stock orders placed after 5:00PM ET or on weekends and holidays should ship the following business day. Standard shipping usually takes from 3 to 6 business days to arrive.</p>";
+      break;
+    
+    case "1":
+      s = "<p><b>3 Business Days Shipping</b>: Select this option to guarantee your merchandise's arrival by the end of the 3rd business day. All in-stock orders placed before 5:00PM ET will ship the same day and arrive 3 business days later. In-stock orders placed after 5:00PM ET or on weekends and holidays will ship the following business day.</p><p>For example: If you select this option before 5:00PM ET on Monday, your order will arrive Thursday. If you select this option after 5:00PM ET on Friday, your order will arrive Thursday.</p>";
+      break;
+        
+    case "2":
+      s = "<p><b>2 Business Days Shipping</b>: Select this option to guarantee your merchandise's arrival by the end of the 2nd business day. All in-stock orders placed before 5:00PM ET will ship the same day and arrive 2 business days later. In-stock orders placed after 5:00PM ET or on weekends and holidays will ship the following business day.</p><p>For example: If you select this option before 5:00PM ET on Monday, your order will arrive Wednesday. If you select this option after 5:00PM ET on Friday, your order will arrive Wednesday.</p>";
+      break;
+      
+    case "3":
+      s = "<p><b>Next Business Day Shipping</b>: Select this option to guarantee your merchandise's arrival by the end of the next business day. All in-stock orders placed before 5:00PM ET will ship the same day and arrive the following business day. In-stock orders placed after 5:00PM ET or on weekends and holidays will ship the following business day.</p><p>For example: If you select this option before 5:00PM ET on Monday, your order will arrive Tuesday. If you select this option after 5:00PM ET on Friday, your order will arrive Tuesday.</p>";
+      break;
+
+    case "4":
+      s = "<p><b>Alaska and Hawaii</b>: Orders shipped to Alaska and Hawaii should be delivered within 5-8 business days depending on location. To guarantee reliable and efficient deliveries, we exclusively utilize FedEx Standard/Ground service for these locations.</p>";
+      break;
+      
+    case "5":
+      s = "<p><b>APO/FPO</b>To guarantee reliable and efficient deliveries, as well as to comply with government restrictions, we exclusively utilize USPS Priority Mail service for these locations. Although we ship most in stock orders the same business day, we are unable to provide delivery time estimates as that depends on the final destination.</p><p>Please note that USPS Priority Mail to APO/FPO locations is uninsured and not trackable. Century Novelty is not responsible for lost or damaged shipments.</p>";
+      break;
+      
+    case "6":
+      s = "<p><b>Canada</b>: Orders shipped to Canada should be delivered within 4-8 business days depending on location. To guarantee reliable and efficient deliveries, we exclusively utilize FedEx International Ground to Canada.</p><p>*Please note these rates are only for shipping. All taxes, duties and brokerage fees incurred during transit will be collected at the time of delivery. Sadly, &quot;Free Trade&quot; isn't completely free. Please contact your local Customs office for details on how these charges are calculated in your locale.</p>";
+      break;
+      
+    case "7":
+      s = "<p><b>International Orders</b>: You can now ship internationally online at any time! But due to the high cost of international order processing, only orders greater than USD$200 can ship outside the US and Canada. For security reasons, we cannot ship to Nigeria or other countries with abnormal fraud rates.</p><p>To guarantee reliable and efficient deliveries, we utilize UPS and FedEx services for these locations. The following services are available to many locations around the world:</p><ul><li>Next business day</li><li>2 business days</li><li>Standard (3-6 business days depending on location)</li></ul><p>The rates for these services are based on the weight and distance shipped. The carrier will collect any duties, brokerage charges, local taxes, and any other charges incurred during transit at the time of delivery. Please contact your local Customs office for details on how these charges are calculated in your locale.</p><p>If you are ready to place your international order, you may do so through this website. After completing your order, please email <a href='mailto:info@centurynovelty.com'>Info@CenturyNovelty.com</a> your order number, the date by which you need the merchandise, and any preference on shipping carriers. We will use this information to email you a shipping estimate.</p><p>If you are not yet ready to place your international order, for more information or for a shipping estimate please email <a href='mailto:info@centurynovelty.com'>Info@CenturyNovelty.com</a>. Please be sure to include the item numbers of the products you are interested in, your complete shipping address information, and how quickly you need the order.</p><p>Please note all prices are in US Dollars and all customer service is conducted in English.</p>";
+      break;        
+                           
+    default:
+      s = "No Help Available.";
+      break;
+  }
+  tooltip(s);
+}
+</script>
+
 </head>
 <body class="test">
 
@@ -99,19 +144,13 @@ function exit()
 		</div>
 		</td>
 	</tr>
-	
-<!--	<tr>
-		<td colspan="2">
-		<a href="#" onclick="window.open('/free_shipping.html', 'OurShippingPolicy', 'toolbar=no,location=no,directories=no,status=no,menubar=yes,scrollbars=yes,resizable=yes,copyhistory=no,width=500,height=250')"><img src="/images/freeshipping.gif"></a>		</td>
-	</tr>
 
 <tr>
-		<td colspan="2">
-		<a href="shippingPolicy.jsp"><img src="/images/halo_shipping.jpg"></a>
+	<td colspan="2">
 		
-		</td>
-		</tr>
-	</!-->
+	<a href="shippingPolicy.jsp"> <img src="/images/main_4th.jpg" width="771" height="50" border="0"></a>
+	</td>
+</tr>	
 	
 	<!--header-->
 	<tr valign="top">
@@ -147,7 +186,7 @@ function exit()
                                                         
                               
                                                                          
-                                     <div class="navButton" onmouseover="this.className='navButtonhover';" onmouseout="this.className='navButton';"><a class="navButtonAnchor" href="EVENTS_121.html;jsessionid=r-FGji2AFHayE88K"><div class="navButtonWith" style="width: 100%;">Events</div></a></div>                                                                          
+                                     <div class="navButton" onmouseover="this.className='navButtonhover';" onmouseout="this.className='navButton';"><a class="navButtonAnchor" href="EVENTS_121.html;jsessionid=4EBACBD122D0870B3D0C880FA51EE86F"><div class="navButtonWith" style="width: 100%;">Events</div></a></div>                                                                          
                                        
                                     
                                   
@@ -166,7 +205,7 @@ function exit()
           
                                
                                                                          
-                                     <div class="navButton" onmouseover="this.className='navButtonhover';" onmouseout="this.className='navButton';"><a class="navButtonAnchor" href="HOLIDAYS_140.html;jsessionid=r-FGji2AFHayE88K"><div class="navButtonWith" style="width: 100%;">Holidays</div></a></div>                                                                          
+                                     <div class="navButton" onmouseover="this.className='navButtonhover';" onmouseout="this.className='navButton';"><a class="navButtonAnchor" href="HOLIDAYS_140.html;jsessionid=4EBACBD122D0870B3D0C880FA51EE86F"><div class="navButtonWith" style="width: 100%;">Holidays</div></a></div>                                                                          
                                        
                                     
                                   
@@ -185,7 +224,7 @@ function exit()
           
                                
                                                                          
-                                     <div class="navButton" onmouseover="this.className='navButtonhover';" onmouseout="this.className='navButton';"><a class="navButtonAnchor" href="PARTYTHEMES_220.html;jsessionid=r-FGji2AFHayE88K"><div class="navButtonWith" style="width: 100%;">Party Themes</div></a></div>                                                                          
+                                     <div class="navButton" onmouseover="this.className='navButtonhover';" onmouseout="this.className='navButton';"><a class="navButtonAnchor" href="PARTYTHEMES_220.html;jsessionid=4EBACBD122D0870B3D0C880FA51EE86F"><div class="navButtonWith" style="width: 100%;">Party Themes</div></a></div>                                                                          
                                        
                                     
                                   
@@ -226,7 +265,7 @@ function exit()
                                                         
                               
                                                                          
-                                     <div class="navButton" onmouseover="this.className='navButtonhover';" onmouseout="this.className='navButton';"><a class="navButtonAnchor" href="items_2.html;jsessionid=r-FGji2AFHayE88K"><div class="navButtonWith" style="width: 100%;">Candy</div></a></div>                                                                          
+                                     <div class="navButton" onmouseover="this.className='navButtonhover';" onmouseout="this.className='navButton';"><a class="navButtonAnchor" href="items_2.html;jsessionid=4EBACBD122D0870B3D0C880FA51EE86F"><div class="navButtonWith" style="width: 100%;">Candy</div></a></div>                                                                          
                                        
                                     
                                   
@@ -245,7 +284,7 @@ function exit()
           
                                
                                                                          
-                                     <div class="navButton" onmouseover="this.className='navButtonhover';" onmouseout="this.className='navButton';"><a class="navButtonAnchor" href="category_3.html;jsessionid=r-FGji2AFHayE88K"><div class="navButtonWith" style="width: 100%;">Costumes</div></a></div>                                                                          
+                                     <div class="navButton" onmouseover="this.className='navButtonhover';" onmouseout="this.className='navButton';"><a class="navButtonAnchor" href="category_3.html;jsessionid=4EBACBD122D0870B3D0C880FA51EE86F"><div class="navButtonWith" style="width: 100%;">Costumes</div></a></div>                                                                          
                                        
                                     
                                   
@@ -264,7 +303,7 @@ function exit()
           
                                
                                                                          
-                                     <div class="navButton" onmouseover="this.className='navButtonhover';" onmouseout="this.className='navButton';"><a class="navButtonAnchor" href="items_27.html;jsessionid=r-FGji2AFHayE88K"><div class="navButtonWith" style="width: 100%;">Crafts</div></a></div>                                                                          
+                                     <div class="navButton" onmouseover="this.className='navButtonhover';" onmouseout="this.className='navButton';"><a class="navButtonAnchor" href="items_27.html;jsessionid=4EBACBD122D0870B3D0C880FA51EE86F"><div class="navButtonWith" style="width: 100%;">Crafts</div></a></div>                                                                          
                                        
                                     
                                   
@@ -283,7 +322,7 @@ function exit()
           
                                
                                                                          
-                                     <div class="navButton" onmouseover="this.className='navButtonhover';" onmouseout="this.className='navButton';"><a class="navButtonAnchor" href="category_28.html;jsessionid=r-FGji2AFHayE88K"><div class="navButtonWith" style="width: 100%;">Decorations</div></a></div>                                                                          
+                                     <div class="navButton" onmouseover="this.className='navButtonhover';" onmouseout="this.className='navButton';"><a class="navButtonAnchor" href="category_28.html;jsessionid=4EBACBD122D0870B3D0C880FA51EE86F"><div class="navButtonWith" style="width: 100%;">Decorations</div></a></div>                                                                          
                                        
                                     
                                   
@@ -302,7 +341,7 @@ function exit()
           
                                
                                                                          
-                                     <div class="navButton" onmouseover="this.className='navButtonhover';" onmouseout="this.className='navButton';"><a class="navButtonAnchor" href="category_52.html;jsessionid=r-FGji2AFHayE88K"><div class="navButtonWith" style="width: 100%;">Favors, Toys, Gifts</div></a></div>                                                                          
+                                     <div class="navButton" onmouseover="this.className='navButtonhover';" onmouseout="this.className='navButton';"><a class="navButtonAnchor" href="category_52.html;jsessionid=4EBACBD122D0870B3D0C880FA51EE86F"><div class="navButtonWith" style="width: 100%;">Favors, Toys, Gifts</div></a></div>                                                                          
                                        
                                     
                                   
@@ -321,7 +360,7 @@ function exit()
           
                                
                                                                          
-                                     <div class="navButton" onmouseover="this.className='navButtonhover';" onmouseout="this.className='navButton';"><a class="navButtonAnchor" href="category_85.html;jsessionid=r-FGji2AFHayE88K"><div class="navButtonWith" style="width: 100%;">Stationery</div></a></div>                                                                          
+                                     <div class="navButton" onmouseover="this.className='navButtonhover';" onmouseout="this.className='navButton';"><a class="navButtonAnchor" href="category_85.html;jsessionid=4EBACBD122D0870B3D0C880FA51EE86F"><div class="navButtonWith" style="width: 100%;">Stationery</div></a></div>                                                                          
                                        
                                     
                                   
@@ -340,7 +379,7 @@ function exit()
           
                                
                                                                          
-                                     <div class="navButton" onmouseover="this.className='navButtonhover';" onmouseout="this.className='navButton';"><a class="navButtonAnchor" href="category_98.html;jsessionid=r-FGji2AFHayE88K"><div class="navButtonWith" style="width: 100%;">Supplies</div></a></div>                                                                          
+                                     <div class="navButton" onmouseover="this.className='navButtonhover';" onmouseout="this.className='navButton';"><a class="navButtonAnchor" href="category_98.html;jsessionid=4EBACBD122D0870B3D0C880FA51EE86F"><div class="navButtonWith" style="width: 100%;">Supplies</div></a></div>                                                                          
                                        
                                     
                                   
@@ -359,7 +398,7 @@ function exit()
           
                                
                                                                          
-                                     <div class="navButton" onmouseover="this.className='navButtonhover';" onmouseout="this.className='navButton';"><a class="navButtonAnchor" href="category_112.html;jsessionid=r-FGji2AFHayE88K"><div class="navButtonWith" style="width: 100%;">Tableware</div></a></div>                                                                          
+                                     <div class="navButton" onmouseover="this.className='navButtonhover';" onmouseout="this.className='navButton';"><a class="navButtonAnchor" href="category_112.html;jsessionid=4EBACBD122D0870B3D0C880FA51EE86F"><div class="navButtonWith" style="width: 100%;">Tableware</div></a></div>                                                                          
                                        
                                     
                                   
@@ -407,7 +446,7 @@ function exit()
   
   
       
-      <form method="post" action="/servlet/com.beantree.catalog.AccountAuthServlet;jsessionid=r-FGji2AFHayE88K">
+      <form method="post" action="/servlet/com.beantree.catalog.AccountAuthServlet;jsessionid=4EBACBD122D0870B3D0C880FA51EE86F">
       <input type="hidden" name="path" value="https://www.centurynovelty.com">
       <div style="background-color:#D0E2EC">
 			<div class="loginbox">
@@ -436,19 +475,23 @@ function exit()
       
       </form>
       
-	
+  	
 		</td>
 		<td align="left" width="609">
             
+		
+		
 
         
+
+
 
 
           
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tbody><tr><td>
 			<div id="search_greenbox"><img src="/_media/images/common/text_search.gif" alt="Search" width="150" height="15" align="absmiddle">
-				<form action="searchresults.jsp;jsessionid=r-FGji2AFHayE88K" method="post"><input type="text" name="searchTerm" id="searchbox" value="Search for party stuff" size="20" onfocus="if(this.value=='Search for party stuff')this.value='';" onblur="if(this.value=='')this.value='Search for party stuff';" align="absmiddle"><input type="image" src="/_media/images/common/btn_findit.gif" value="Submit" alt="Search" border="0" align="absmiddle" style="margin-top:0px;">
+				<form action="searchresults.jsp;jsessionid=4EBACBD122D0870B3D0C880FA51EE86F" method="post"><input type="text" name="searchTerm" id="searchbox" value="Search for party stuff" size="20" onfocus="if(this.value=='Search for party stuff')this.value='';" onblur="if(this.value=='')this.value='Search for party stuff';" align="absmiddle"><input type="image" src="/_media/images/common/btn_findit.gif" value="Submit" alt="Search" border="0" align="absmiddle" style="margin-top:0px;">
 				</form>
 			</div>
 			<div style="float: right;"><a href="/shippingPolicy.jsp"><img src="/_media/images/common/1-800-325-6232.gif" alt="1-800-325-6232" width="182" height="35" border="0"></a></div>
@@ -525,8 +568,19 @@ function exit()
 				The strict data encryption that we use hides sensitive information like your name, address, and credit card information. Our ordering process is protected by the Secure Sockets Layer (SSL) protocol, which encrypts your information and confirms the identity of the Century Novelty server before allowing your shopping cart to be checked out. Modern browsers support the SSL protocol. We recommend that you use the latest browsers to ensure that you are protected by advances in security technology.
 				</p>
 				<p style="text-align: center;">
-				<script src="”https://siteseal.thawte.com/cgi/server/thawte_seal_generator.exe”"></script> <script src="https://seal.verisign.com/getseal?host_name=www.centurynovelty.com&amp;size=M&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script>
-				</p>
+				</p><table align="center" border="0" cellspacing="5" cellpadding="0">
+	<tbody><tr>
+		<td align="center" valign="middle">
+			<!-- START SCANALERT CODE -->
+			<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=centurynovelty.com"><img width="94" height="54" border="0" src="//images.scanalert.com/meter/centurynovelty.com/13.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a>
+			<!-- END SCANALERT CODE -->
+		</td>
+		<td align="center" valign="middle">
+			<script src="https://seal.verisign.com/getseal?host_name=www.centurynovelty.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=YES&amp;lang=en"></script>
+		</td>
+	</tr>
+</tbody></table>
+				<p></p>
 				<br><br>
 				<a name="privacy5"></a><h4>Our Commitment To Children's Privacy</h4>
 				<p>
@@ -571,11 +625,11 @@ function exit()
 <table align="center">
 	<tbody><tr>
 		<td>
-			<p style="text-align: center;">Unless otherwise noted all contents copyright © 2006 Century Novelty Company, Inc. All Rights Reserved.</p>
+			<p style="text-align: center;">Unless otherwise noted all contents copyright © 2007 Century Novelty Company, Inc. All Rights Reserved.</p>
 		</td>
 	</tr>
 </tbody></table>
-<!-- <div style="float: right;"><script src=https://siteseal.thawte.com/cgi/server/thawte_seal_generator.exe></script></div> -->
+
 <!-- SiteCatalyst code version: H.2.
 Copyright 1997-2005 Omniture, Inc. More info available at
 http://www.omniture.com -->
@@ -594,6 +648,7 @@ s.purchaseID=""
 if(s.campaign||s.events){var s_code=s.t();if(s_code)document.write(s_code)}//--></script>
 <!-- End SiteCatalyst code version: H.2. -->
 
+
 <!--Mercent Tracking Code-->
 <script src="http://cdn.mercent.com/js/tracker.js" type="text/javascript"></script>
 <script type="text/javascript">
@@ -605,6 +660,10 @@ if(s.campaign||s.events){var s_code=s.t();if(s_code)document.write(s_code)}//-->
 <noscript>
 <img src="http://cdn.mercent.com/image.ashx?merchantID=CenturyNovelty" style="display: none;">
 </noscript>
+
+
+
+
 
 
 
