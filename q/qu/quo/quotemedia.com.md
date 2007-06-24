@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the quotemedia.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205211256id_/http%3A//www.quotemedia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotemedia.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624032600id_/http%3A//quotemedia.com/privacy.php) for the most accurate reproduction.*
 
 # QuoteMedia
 
   
 |  | 
 
-[Home](https://web.archive.org/web/20061205211256id_/http%3A//www.quotemedia.com/index.php) > Privacy Policy
+[Home](https://web.archive.org/web/20070624032600id_/http%3A//quotemedia.com/index.php) > Privacy Policy
 
 Privacy Policy
 
@@ -26,7 +26,7 @@ Privacy Policy
 
 **2\. USE OF COOKIES**
 
-A cookie is a very small text file placed on your hard drive by a Web Page server. It is essentially your identification card, and cannot be executed as code or deliver viruses. It is uniquely yours and can only be read by the server that gave it to you. Our service may place one or more cookies on your computer. These cookies may be used to remind us who you are and what features or premium services you have registered for or to estimate our audience size and target marketing based on user interest. Advertisers on Our Service may also use cookies. We use third-party advertising companies to serve ads on our website. These third-party advertising companies employ cookie and 1x1 pixel .gif technology to measure and improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our Web site and other Web sites. This information can include: date/time of banner ad shown, the banner ad that was shown, their cookie, the IP address. This information can also be used for online preference marketing purposes. If you want to prevent a third-party advertiser from setting and/or reading cookies on your computer, currently you may either visit each ad network's web site individually and opt out or visit the National Advertising Initiative ("NAI") gateway opt-out site to opt-out of all network-advertising cookies. Click here for the NAI gateway opt-out Click Here. This site will also allow you to review the third-party advertising companies' privacy policies. Contacting the Web Site if you have any questions regarding this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us Clicking Here. 
+A cookie is a very small text file placed on your hard drive by a Web Page server. It is essentially your identification card, and cannot be executed as code or deliver viruses. It is uniquely yours and can only be read by the server that gave it to you. Our service may place one or more cookies on your computer. These cookies may be used to remind us who you are and what features or premium services you have registered for or to estimate our audience size and target marketing based on user interest. Advertisers on Our Service may also use cookies. We use third-party advertising companies to serve ads on our website. These third-party advertising companies employ cookie and 1x1 pixel .gif technology to measure and improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our Web site and other Web sites. This information can include: date/time of banner ad shown, the banner ad that was shown, their cookie, the IP address. This information can also be used for online preference marketing purposes. If you want to prevent a third-party advertiser from setting and/or reading cookies on your computer, currently you may either visit each ad network's web site individually and opt out or visit the National Advertising Initiative ("NAI") gateway opt-out site to opt-out of all network-advertising cookies. Click here for the NAI gateway opt-out. This site will also allow you to review the third-party advertising companies' privacy policies. If you have any questions regarding this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us by clicking here. 
 
 **3\. LINKS TO OTHER SITES AND PRIVACY**
 
@@ -54,7 +54,7 @@ By using the QuoteMedia site you signify your acceptance of our Privacy Policy a
 
 Last revision date: Jan 15, 2003 
 
-If you would like to unsubscribe from our IR Mailing List... [Click Here](https://web.archive.org/web/20061205211256id_/http%3A//www.quotemedia.com/unsubscribe.php). 
+If you would like to unsubscribe from our IR Mailing List... [Click Here](https://web.archive.org/web/20070624032600id_/http%3A//quotemedia.com/unsubscribe.php). 
 
   
 
