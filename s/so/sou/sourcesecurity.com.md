@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sourcesecurity.com privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229012328id_/http%3A//sourcesecurity.com/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sourcesecurity.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625051754id_/http%3A//www.sourcesecurity.com/info/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - SourceSecurity.com, the complete industry guide
 
