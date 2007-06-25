@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the trafficwave.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615104944id_/http%3A//www.trafficwave.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficwave.net privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625025818id_/http%3A//www.trafficwave.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for TrafficWave.net LLC.
 
-TrafficWave.net LLC is the parent company for both the TrafficWave.net services and MyLeadBox. All policies and statements in this privacy policy are intended to apply to TrafficWave.net LLC and MyLeadBox services. 
+TrafficWave.net LLC operates multiple web sites including trafficwave.net, mysearchsite.net, and ews2.com. All policies and statements in this privacy policy are intended to apply to all TrafficWave.net LLC services. 
 
 TrafficWave.net LLC is committed to protecting your privacy. 
 
@@ -42,22 +42,21 @@ As a registered TrafficWave.net LLC member, you have easy access to your informa
 To change personal information: Log in to your Members Area: 
 
   * TrafficWave.net: http://www.trafficwave.net/login.html. From the menu on the left, click "Edit Profile". Make any changes you like to your member profile, and save them when you are done. 
-  * MyLeadBox.com: http://www.myleadbox.com/login. From the menu on the left, click "Edit Profile". Make any changes you like to your member profile, and save them when you are done. 
 
-To terminate your TrafficWave.net services: You may terminate all of your TrafficWave.net LLC subscriptions and your MyLeadBox account by clicking "Cancel Account" in the appropriate members area. 
+To terminate your TrafficWave.net services: You may terminate all of your TrafficWave.net LLC subscriptions by clicking "Cancel Account" in our back office located at http://www.trafficwave.net/login.html . 
 
 
   
-**I am not a member. I am receiving emails from your members. How can I unsubscribe from email lists at TrafficWave.net LLC or MyLeadBox?**   
-There are three ways to unsubscribe from TrafficWave.net LLC or MyLeadBox lists:   
+**I am not a member. I am receiving emails from your members. How can I unsubscribe from email lists at TrafficWave.net LLC?**   
+There are three ways to unsubscribe from TrafficWave.net LLC lists:   
 
 
   1. Use the unsubscribe link that appears at the bottom of every message you receive from any of our lists. Clicking the link automatically unsbuscribes you from the list your email came from AND provides the option to unsubscribe from any and all other lists on our network. Clicking this option will remove and ban your email address from future use in our network. 
-  2. Send an email message to admin@trafficwave.net with the words "UNSUBSCRIBE [youremail@email.com] from TRWV and MLB" in the subject line. Your address will be manually removed from our system within ten business days. 
+  2. Send an email message to admin@trafficwave.net with the words "UNSUBSCRIBE [youremail@email.com] from TrafficWave.net" in the subject line. Your address will be manually removed from our system within ten business days. 
   3. Mail your request to our offices at TrafficWave.net LLC, 330 Rayford Rd. PMB #312, Spring TX 77386. 
 
 **How does TrafficWave.net LLC protect the privacy of children?**   
-The TrafficWave.net LLC or MyLeadBox service is not intended for use by anyone under the age of 18. However, as with any Web site, children can access all parts of the site which are accessible to the general public. See the "What information does TrafficWave.net LLC collect?" section of this document for an explanation of what information is publicly accessible through the TrafficWave.net LLC sites. 
+The TrafficWave.net LLC services are not intended for use by anyone under the age of 18. However, as with any Web site, children can access all parts of the site which are accessible to the general public. See the "What information does TrafficWave.net LLC collect?" section of this document for an explanation of what information is publicly accessible through the TrafficWave.net LLC sites. 
 
 **Notification of Changes**   
 If TrafficWave.net LLC intends to use your personally identifiable information in a manner different from that stated at the time of collection, we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect visitor or member information already stored in our database, we will post a prominent notice on our web site notifying visitors of the change. In some cases when we post such a notice we will also email users who have opted to receive communications from us notifying them of the changes in our privacy practices. 
