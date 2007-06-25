@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the memorialcare.org privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209210046id_/http%3A//www.memorialcare.org/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memorialcare.org privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625100958id_/http%3A//www.memorialcare.org/about/privacy.cfm) for the most accurate reproduction.*
 
-# None
+# 
 
 |  | 
+
+MemorialCare Privacy Statement
 
 **In order for you to use our services and health information tools, we require certain registration information (as noted on the signup form). The registration information will be transmitted to our partners in part or in whole for the sole purpose of customizing information for your needs. We will keep your information confidential and secure and you can change or delete your registration information at any time. You may also unsubscribe at any time. Please read this privacy policy for more information.  
 **   
@@ -18,6 +20,8 @@ As a user of our web sites and other electronic media, you take on certain risks
   * Understand how we collect data and how it is used. It is our goal to protect your personal information from misuse. We do, however, offer programs that collect data for special reasons, such as research, scientific studies, and statistics, in which case you may be interested in participating.  
 
   * Be aware that use of our web site and other electronic media, services offered, programs, and health information cannot replace nor is it intended to serve as a health care provider-patient relationship. You must always consult with a professional for diagnosis and treatment for specific health problems.  
+
+
 
 
 **What you should expect from us  
@@ -44,6 +48,8 @@ As a user of our web sites and other electronic media, you take on certain risks
   * Where health professionals may interact with consumers, we will make every effort to tell you if this establishes a patient-provider relationship and make available the credentials and qualifications of professionals.  
 
   * We will not accept or show you health information content, advertising, sponsored programs, or services that we know to contain false or misleading information or that promote ineffective or dangerous products.  
+
+
 
 
 **Our Security Measures  
@@ -74,6 +80,8 @@ Some personal information and health-related personal information is needed to u
   * How to opt-out of data collection.  
 
 
+
+
 **Where this Information Is Collected  
 ** We collect information about you at several places throughout the site. You will be informed on how this information is collected at that time. You will also have the ability to opt-in to information collection when you enter the site or use a service. Most information is collected in the following instances:
 
@@ -82,9 +90,9 @@ Some personal information and health-related personal information is needed to u
 We may use your registration information to send you an e-mail confirming your registration with our site, to respond to questions from you, or to notify you if there is a problem with any order for goods or services that you placed. We may also, from time to time, send e-mails, on special promotions or newsletters we think may be of interest to you and your specific health care needs. You may also receive a Medical Information and Access Card (MIAC). MIAC members from time to time receive mailed information on health care topics of interest to them.
 
 **Interactive Services/Tools  
-** Some of the interactive tools on our site ask you for personal information and health-related personal information. Specifically, our MIAC program and health risk assessment tools may ask for information on your personal and/or family medical history including height, weight, blood pressure, history of certain conditions and/or diseases and medication history. Our health care professional directory may ask you for information on your insurance plan and geographic location in order to identify listed professionals in your area. Your personal health record is kept strictly confidential and can only be accessed by using your password and login ID. We will make every effort not to use or disclose your personal health record to any one without your express consent. In some cases, you can permit your physician, pharmacist or other health care-related professional to have access to your personal health record.
+** In all instances where a such a tool is used, you will have access to the organization's privacy policy and information on how the tool works and when it was last evaluated. Some of the interactive tools on our site ask you for personal information and health-related personal information. Specifically, our MIAC program and health risk assessment tools may ask for information on your personal and/or family medical history including height, weight, blood pressure, history of certain conditions and/or diseases and medication history. Our health care professional directory may ask you for information on your insurance plan and geographic location in order to identify listed professionals in your area. Your personal health record is kept strictly confidential and can only be accessed by using your password and login ID. We will make every effort not to use or disclose your personal health record to any one without your express consent. In some cases, you can permit your physician, pharmacist or other health care-related professional to have access to your personal health record.
 
-From time to time we may partner with other organizations to provide you with interactive health tools. In all instances where a such a tool is used, you will have access to the organization's privacy policy and information on how the tool works and when it was last evaluated.
+From time to time we may partner with other organizations to provide you with interactive health tools. 
 
 **Chat Rooms/Bulletin Boards  
 ** As a service to our users, we may feature chat rooms/bulletin boards where users with similar medical conditions can share information and support one another. In addition, we may also offer online discussions on a variety of topics moderated by medical experts. You should be aware that any information shared in a chat room/bulletin board is public information and you should think carefully before disclosing any personal and/or health-related personal information in any chat room/bulletin board.
@@ -92,7 +100,7 @@ From time to time we may partner with other organizations to provide you with in
 **Online Shopping  
 ** When this service is offered on this site and you purchase products and services from us, such as ordering flowers for delivery to a local hospital, we will request that you provide your name, e-mail address, credit card number and expiration date, phone number and billing and shipping addresses.
 
-If we make available the opportunity to prescription drugs or medical equipment, we will ask for all of the information above, as well as the information that you would ordinarily provide to your pharmacist, including your prescribing doctor's name, your residential address, your gender and birth date, any drug allergies and existing medical conditions. If applicable, we will also ask for your health insurance information including the name, address and telephone number of your insurer and your member identification number (which may be your social security number). We may also ask for additional information about your current prescriptions and medical history. This information will help us provide you with the necessary information to make the safest and most effective use of your prescription medication or equipment.
+If we make available the opportunity to purchase prescription drugs or medical equipment, we will ask for all of the information above, as well as the information that you would ordinarily provide to your pharmacist, including your prescribing doctor's name, your residential address, your gender and birth date, any drug allergies and existing medical conditions. If applicable, we will also ask for your health insurance information including the name, address and telephone number of your insurer and your member identification number (which may be your social security number). We may also ask for additional information about your current prescriptions and medical history. This information will help us provide you with the necessary information to make the safest and most effective use of your prescription medication or equipment.
 
 This information will be kept in the strictest confidence. We will make every effort to maintain the privacy and security of this information at all times.
 
@@ -110,6 +118,8 @@ We do not intend to use or disclose any personal information or health-related p
   * We may share registration data with business partners that maintain a co-branded service or content, only with your affirmative consent. For more information on co-branded sites, read the information below on our relationships with third parties.  
 
   * In certain limited circumstances, we may be legally compelled to release your personal information in response to a court order, subpoena, search warrant, law or regulation. In the event that we are compelled to disclose personal information and/or health-related personal information to a third party, we will notify you unless doing so would violate the law or court order. We also reserve the right to cooperate with law enforcement authorities in investigating and prosecuting users that violate our rules or engage in behavior that is harmful (or illegal) to other users.  
+
+
 
 
 **Our Relationship with Third Parties  
@@ -144,22 +154,26 @@ You should know that we might allow advertising to be coordinated with health in
 **Change/Update Personal Information  
 ** You may change or update your personal information and/or health-related personal information at any time using the following options:
 
-  * HealthLineLinks newsletter subscibers can click on their personal link provided in the HealthlineLinks newsletter to update their email, physical address and message format information or opt-out (unsubscribe) to the HealthLineLinks newsletter.  
+  * HealthLineLinks newsletter subscribers can click on their personal link provided in the HealthlineLinks newsletter to update their email, physical address and message format information or opt-out (unsubscribe) to the HealthLineLinks newsletter.  
 
   * MIAC subscribers can go to the MIAC registration form and change their information there.  
 
-  * You can contact us in writing using the address in our [Contact Us](https://web.archive.org/web/20061209210046id_/http%3A//www.memorialcare.org/apps/contact/contactus.cfm?site=X) link  
+  * You can contact us in writing using the address in our [Contact Us](https://www.ememcare.com/contact/ContactUs_form.cfm?option=c) link  
+
+
 
 
 **Remove or Delete Personal Information  
 ** You may remove previously provided personal and/or health-related personal information at any time using the following options:
 
-  * You can contact us in writing using the address in our [Contact Us](https://web.archive.org/web/20061209210046id_/http%3A//www.memorialcare.org/apps/contact/contactus.cfm?site=X) link  
+  * You can contact us in writing using the address in our [Contact Us](https://www.ememcare.com/contact/ContactUs_form.cfm?option=c) link  
+
+
 
 
 Users should be aware that it is not always technically possible to remove or delete the information you provide to us. We back-up our systems to protect information from inadvertent loss, and that means a copy of your personal information may exist in a non-erasable form that may be difficult or impossible for us to locate. Nevertheless, upon receiving your request we will try to remove or delete all personal information and/or health-related personal information stored in the databases that we use for research and daily business activities. We will not intentionally disclose any personal information stored in a non-erasable format after receiving your request for removal, except as required by law.
 
 To report any abuse or violations of this Email List Privacy Policy, please send an email to abuse@memorialcare.com and attach an unedited copy of the email message that you feel was sent to you in error or without your permission. Include all header information so that we can trace the origin of the message. Also include any notes or other information that you feel are pertinent.
 
-Last Update: August 25, 2002  
-Copyright 2002 MemorialCare
+Last Update: April 28, 2007  
+Copyright © 2007 Memorial Health Services.
