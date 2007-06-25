@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the epanorama.net privacy policy that was archived on 2006-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061201073432id_/http%3A//www.epanorama.net/index.php%3Findex%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epanorama.net privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625091811id_/http%3A//www.epanorama.net/index.php%3Findex%3Dprivacy) for the most accurate reproduction.*
 
 # ePanorama.net
 
+#### ePanorama.net - - Privacy Policy 
+
   
+
+
 The publisher of ePanorama.net is committed to a responsible management of consumer data. We comply with all rules, both ethical and legal, with respect to the use of consumer information obtained by us and we adhere strictly to all industry guidelines at all times. We undertake to continuously monitor our management of the use and security of consumer information to uphold your rights. 
 
 This statement outlines the type of information we collect and store, our usage policy, and whom to contact with questions or concerns. ELH Communications Ltd owns and operates this Website. 
