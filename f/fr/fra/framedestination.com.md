@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the framedestination.com privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630200900id_/http%3A//framedestination.com/infoPage.php%3Faction%3Ddisplay%26infoPageId%3D3%26PHPSESSID%3D3628781b1b16a8f817474e505352544b%26PHPSESSID%3D3628781b1b16a8f817474e505352544b) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the framedestination.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625023530id_/http%3A//www.framedestination.com/privacy.html) for the most accurate reproduction.*
 
-# Picture Frame Destination Quality Picture Frames Mats & Mounting Supplies
+# 
+
+Privacy Policy/Security
 
 We respect your right to privacy. This policy summarizes what personally identifiable information we may collect, and how we might use this information. This policy also describes other important topics relating to your privacy.
 
