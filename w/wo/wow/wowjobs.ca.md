@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wowjobs.ca privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217170920id_/http%3A//wowjobs.ca/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowjobs.ca privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625195320id_/http%3A//www.wowjobs.ca/Privacy.aspx) for the most accurate reproduction.*
 
-# Untitled Page
+# Privacy Policy - Wowjobs
 
 Privacy Policy   
 At Wowjobs.ca, we are committed to protecting online user privacy. This "Privacy Policy" discloses the privacy practices governing our knowing collection, use, and disclosure of information. In order to ensure your privacy, information we collect is used only in the manner and for the purposes described below.   
@@ -43,5 +43,5 @@ Changes to Privacy Policy
 We reserve the right to amend or revise this privacy policy from time to time. We will post these changes to this page. Use of information that we gather now is subject to the privacy policy in effect at the time the information is used.   
   
 Contact Us   
-Please [Contact Us ](https://web.archive.org/web/20061217170920id_/http%3A//wowjobs.ca/contact.aspx)if you have any questions, comments or concerns related to our privacy policy.   
+Please [Contact Us ](https://web.archive.org/web/20070625195320id_/http%3A//www.wowjobs.ca/contact.aspx)if you have any questions, comments or concerns related to our privacy policy.   
 
