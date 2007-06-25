@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1001fonts.com privacy policy that was archived on 2006-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061129100010id_/http%3A//www.1001fonts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1001fonts.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625123926id_/http%3A//www.1001fonts.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy @ 1001 Fonts .com
 
@@ -92,8 +92,6 @@ If you have any additional questions about 1001fonts.com's dedication to consume
 [PCfonts.com](http://www.pcfonts.com/in.php?id=giotto)  
 [TopFreeFonts.com](http://www.topfreefonts.com/cgi-bin/autorank/rankem.cgi?id=1001f2)  
 [Top20Free.com](http://1001font.top20free.com/)  
-[UrbanFonts.com](http://www.urbanfonts.com/)  
-[HighFonts.com](http://www.highfonts.com/in.asp?id=1001fonts)  
 [Best100Free.com](http://www.best100free.com/in.asp?id=1001fonts)
 
 **Font Designers**  
