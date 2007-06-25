@@ -1,51 +1,74 @@
-<!--The following is the downloaded HTML source of the dow.com privacy policy that was archived on 2006-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061207000244id_/http%3A//www.dow.com/homepage/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dow.com privacy policy that was archived on 2007-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070625101835id_/http%3A//www.dow.com/homepage/privacy.htm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="" xml:lang="" xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="keywords" content="Dow, Dow Chemical, The Dow Chemical Company, privacy, personal information">
     <meta name="description" content="We collect personal information from our visitors on a voluntary basis.">
-    <meta name="Dow_Business" content="Dow">
-
-<meta name="Language" content="ENGLISH">
-<meta name="Region" content="Europe,Global,Latin America,North America,Pacific">
-<meta name="Country" content="UNITED STATES">
-<meta name="Content_Type" content="Key Messages">
+    <meta name="Dow_Business" content="">
+    <meta name="Language" content="">
+    <meta name="Region" content="">
+    <meta name="Country" content="UNITED STATES">
+    <meta name="Content_Type" content="Key Messages">
 
     <title>Privacy Statement</title>
-    <link rel="stylesheet" href="/styles/2005/default.css" type="text/css">
-    <link rel="stylesheet" href="/styles/2005/compatibility.css" type="text/css">
-    <link rel="stylesheet" href="/styles/2005/corporate.css" type="text/css">
+   <link rel="stylesheet" href="/styles/huskin.css" type="text/css">
+  
 
-	
 
 <style type="text/css">
 #header-row-left { background-color: #969696; }
 #header-row-right { background-color: #969696; }
 </style>
-
 	<script language="Javascript" type="text/javascript" src="/scripts/default.js"></script>
+  <script language="Javascript" type="text/javascript">
+function getAllSheets() {
+	if (!window.ScriptEngine && navigator.__ice_version) {
+		return document.styleSheets;
+	}
+	if (document.getElementsByTagName) {
+		var Lt = document.getElementsByTagName('link'), St = document.getElementsByTagName('style');
+	} else if (document.styleSheets && document.all) {
+		var Lt = document.all.tags('LINK'), St = document.all.tags('STYLE');
+	} else {
+		return [];
+	}
+	for (var x = 0, os = []; Lt[x]; x++) {
+		var rel = Lt[x].rel ? Lt[x].rel : Lt[x].getAttribute ? Lt[x].getAttribute('rel') : '';
+		if (typeof( rel ) == 'string' && rel.toLowerCase().indexOf('style') + 1) {
+			os[os.length] = Lt[x];
+		}
+	}
+	for (var x = 0; St[x]; x++) {
+		os[os.length] = St[x];
+	}
+	return os;
+}
 
-  
-  
+function changeStyle() {
+	for (var x = 0, ss = getAllSheets(); ss[x]; x++) {
+		for (var y = 0; y < arguments.length; y++) {
+			if (ss[x].title == arguments[y]) {
+				if (ss[x].disabled == false) {
+					ss[x].disabled = true;
+				} else {
+					ss[x].disabled = false;
+				}
+			}
+		}
+	}
+}
 
+for (var x = 0, ss = getAllSheets(); ss[x]; x++) {
+	if (ss[x].title == 'print') {
+		ss[x].disabled = true;
+	}
+}
+</script>
   </head>
-
-
-  
- <body>  
-  
-
-  
-  
-
-  
-  
-    
-    
-  
-
-
+<body>
+<div class="container">
+<div class="main">
     
 
 <script language="JavaScript" type="text/javascript" src="/scripts/Search.js">
@@ -53,107 +76,185 @@
 <!--[CDATA[
 
 ]]-->
-<table width="100%" cellpadding="0" cellspacing="0" border="0" id="global-header">
-	<tbody><tr class="global-header-top-row">
-		<td rowspan="2" valign="bottom" style="padding-bottom:10px;" class="global-header-logo">
-	 <a href="http://www.dow.com/"> <img src="/images/global/dow_header_logo.gif" alt="" width="148" height="91" border="0"> </a> 
-	</td>
-	<td class="global-header-search">
-	<form action="javascript: PerformSearch(document.frmSearch.txtToSearch.value)" name="frmSearch" class="global-search-form">
-	<div align="right">&nbsp;&nbsp;
-	<label name="global-header-search">SEARCH</label>&nbsp;
-	<input type="text" size="15" name="txtToSearch">&nbsp;
-	<input type="image" src="/images/global/go.gif" width="17" height="17" alt="Go" border="0" class="search-go-button">
-	</div>
+	<div class="header-home">
+		<div class="header-logo">
+			<a href="http://www.dow.com/"><img src="/images/global/huskin/dow_logo.gif" alt="The Dow Chemical Company Diamond" border="0"></a>
+		</div>
+		<div>
+			<script src="/scripts/search.js"></script>
+<form action="javascript: PerformSearch(document.frmSearch.txtToSearch.value)" name="frmSearch" class="search-box">
+	<label>
+	<input type="search" size="15" name="txtToSearch" value="Search" id="search-box-text" onfocus="this.value='';">
+	<input type="image" src="/images/global/huskin/go_button.gif" width="18" height="19" alt="Go" border="0">
+	</label>
 </form>
-	</td></tr>
-	<tr class="global-header-bottom-row"><td class="global-header-variable">
-		
-	
-
-		</td>
-	</tr>
-</tbody></table>
+		</div>
+		<div class="clearfloats"></div>
+	</div>
 <!--[CDATA[  ]]-->
-
-    
-<table class="hnav-bar" cellspacing="0" cellpadding="0" border="0"><tbody><tr>
-<td class="hnav" width="15"><img src="/images/global/trans.gif" height="15" width="140" alt="" border="0"></td>
-<td class="hnav" nowrap="nowrap"><a href="/products_services/index.html">Products and Services</a></td>
-<td class="hnav" nowrap="nowrap"><a href="/financial/index.htm">Investor Relations</a></td>
-<td class="hnav" nowrap="nowrap"><a href="/about/index.htm">This is Dow</a></td>
-<td class="hnav" nowrap="nowrap"><a href="/commitments/index.htm">Our Commitments</a></td>
-<td class="hnav" nowrap="nowrap"><a href="/careers/index.htm">Careers</a></td>
-<td class="hnav" width="100%">&nbsp;</td>
-</tr></tbody></table>
-
-
-    <table cellspacing="0" cellpadding="0" id="main-table">
-
-      <tbody><tr id="header-row">
-        <td id="header-row-left"><img src="/images/global/trans.gif" height="30" width="149" alt="" border="0"></td>
-        <td id="header-row-right" colspan="2">
-          <div id="site-title">
-            
-          </div>
-
-          
-          
-          
-        </td>
-      </tr>
-
-      <tr id="content-row">
+<div class="main-nav">
+<ul>
+<li class="main-nav-unselected"><a href="/products_services/">PRODUCTS AND SERVICES</a></li>
+<li class="main-nav-unselected"><a href="/financial/">INVESTOR RELATIONS</a></li>
+<li class="main-nav-unselected"><a href="/about/">THIS IS DOW</a></li>
+<li class="main-nav-unselected"><a href="http://news.dow.com/">NEWS CENTER</a></li>
+<li class="main-nav-unselected"><a href="/commitments/">OUR COMMITMENTS</a></li>
+<li class="main-nav-unselected"><a href="/careers/">CAREERS</a></li>
+</ul>
+</div>
+<div class="left-column" id="content-row-navigation">
+<div class="primary-nav">
 
 
-	
+<ul>
+<li>
+<a href="/assistance/index.htm" class="navigation-alias">Help</a>
+</li>
+<li>
+<a href="/homepage/privacy.htm">Privacy Statement</a>
+</li>
+<li>
+<a href="/homepage/disclosure.htm">Internet Disclaimer</a>
+</li>
+<li>
+<a href="/homepage/accessibility.htm">Accessibility Statement</a>
+</li>
+<li>
+<a href="/webapps/search/basicsearch.aspx" class="navigation-alias">Search</a>
+</li>
+<li>
+<a href="/webapps/reg/OverviewRegistration.asp?caller=" class="navigation-alias">Register</a>
+</li>
+<li>
+<a href="/homepage/sitemap.htm">Site Map</a>
+</li>
+</ul>
 
-        <td id="content-row-navigation">
-          <div class="section-navigation">
-            
-          </div>
-          
-          
-          
-			
-          
-          <div class="secondary-navigation-home-link">
-          <div class="secondary-navigation">
-            
-          </div>
-          
-          <div class="section-navigation">
-            <ul>
-              
-                
-              
-            </ul>
-          </div>
-          </div>
-        </td>
 
-	
+</div>
+
+
+<!-- reg_cnt: 0 -->
 
 
 
-        <td id="content-row-body-wide">
+<!-- <li>
+<ul>
+</ul>
+</li>
+</ul>
+ -->
 
+<div class="secondary-nav">
+<script>
+  var thisHost = location.hostname;
+  var thisPage = location.pathname;
 
+  // First remove the host name.
+  var re = new RegExp('.*' + thisHost);
+  thisPage = thisPage.replace(re,'');
 
+  // Then remove TeamSite-specific path components.
+  re = new RegExp('.*(/STAGING|/WORKAREA/[^/]+)');
+  thisPage = thisPage.replace(re,'');
 
+  // Remove trailing "index.htm", if any.
+  re = new RegExp('/(index.html?)?$');
+  thisPage = thisPage.replace(re,'');
+  
+  var navCell = document.getElementById('content-row-navigation');
+  var links = navCell.getElementsByTagName('a');
+  var currentPageLink;
+	if (thisPage != '')
+		{
+		for (var i = 0; i < links.length; i++)
+			{
+			re = new RegExp(thisPage + '(/(index.html?)?)?$');
+			if (links[i].href.match(re))
+				{
+				currentPageLink = links[i];
+				}
+			}
+		}
+  
+  // Highlight the current page.
+  addClass(currentPageLink, 'current-page');
+  
+  // Collapse all ULs.
+  var uls = navCell.getElementsByTagName('ul');
+  for (var i = 0; i < uls.length; i++) {
+    addClass(uls[i], 'navigation-collapsed');
+  }
 
-          <div class="content-row-body-copy">
+	if (currentPageLink)
+	  	{
+		// Expand relevant navigation tree sections.
+		var currentNode = currentPageLink;
+		while (currentNode)
+			{
+			if (currentNode.nodeName.toUpperCase() == 'UL')
+				{
+				removeClass(currentNode, 'navigation-collapsed');
+				}
+			currentNode = currentNode.parentNode;
+			}
+		var siblingNodes = currentPageLink.parentNode.childNodes;
+		for (var i = 0; i < siblingNodes.length; i++)
+			{
+			var showCurrentLink = 'n';
+			if (siblingNodes[i].nodeName.toUpperCase() == 'UL')
+				{
+				var babyNodes = siblingNodes[i].childNodes;
+				for (var g = 0; g < babyNodes.length; g++)
+					{
+					if (babyNodes[g].nodeName.toUpperCase() == 'LI')
+						{
+						if (babyNodes[g].className != 'breadcrumb-only')
+							{
+							showCurrentLink = 'y'
+							}
+						}
+					}
+				if (showCurrentLink == 'y')
+					{
+					removeClass(siblingNodes[i], 'navigation-collapsed');
+					}
+				}
+			}
+		}
 
+/**
+* Determine if a DOM element has a given class.
+*/
 
-					
-						<div class="image-right"><a href="?view=print"></a></div>
-					
-					
-						<h2>Privacy Statement</h2>
-					
+function hasClass(element, value) {
+   if (!element || !element.className) {
+      return false;
+   }
+   else {
+      var classes = element.className.split(' ');
+      for (var i = 0; i < classes.length; i++) {
+         if (classes[i] == value) {
+            return true;
+         }
+      }
+   }
+   return false;
+}
 
-
-	<p>We collect personal information from our visitors on a voluntary basis. Personal information may include name, title, company, address, phone number, email address, and other relevant data. Questions or comments submitted by visitors may also include personal information. We do not require personal information to obtain access to most of our site. We do, however, require it to download product information, order products and take advantage of certain other features of our site.</p>
+</script>
+</div>
+<div class="alternate_nav" id="alternate_nav"></div>
+</div>
+<div class="right-column">
+<div class="right-column-title">
+<h2 class="right-column-title-color-this_is_dow"><a href="/homepage/index.htm">Dow.com</a></h2>
+</div>
+<div class="right-column-intro">
+<h3>Privacy Statement</h3></div>
+<div class="right-column-body">
+<div class="right-column-body-text" id="right-column-body-text">
+<p>We collect personal information from our visitors on a voluntary basis. Personal information may include name, title, company, address, phone number, email address, and other relevant data. Questions or comments submitted by visitors may also include personal information. We do not require personal information to obtain access to most of our site. We do, however, require it to download product information, order products and take advantage of certain other features of our site.</p>
 
 <p>We use the information that visitors provide for such purposes as processing and responding to requests, improving our operations, and communicating with visitors about our products, services and businesses. Subsidiaries and external service providers participate in some of these activities, but we do not sell or rent personal information to unrelated businesses for direct marketing purposes.Also, as our business evolves we may transfer or acquire businesses and related assets, and we may transfer information about customers and site visitors in connection with such transactions.</p>
 
@@ -182,72 +283,117 @@ U.S.A.</p>
 
 <p>We reserve the right to modify this privacy statement and related business practices at any time by posting updated text on this site.</p>
 
-<p><font size="2">LAST UPDATED: August 28, 2001</font></p>
+<p><font size="2">LAST UPDATED: August 28, 2001</font></p></div>
+<div class="right-column-body-right-hand" id="right-column-body-right-hand">
+</div>
+</div>
+</div>
+<div class="clearfloats"></div>
+<div class="breadcrumb">
+<div class="breadcrumb-data">
+<div class="breadcrumb-data-here"><img src="/images/huskin/youarehere.gif" alt="You are here"></div>
+<div class="breadcrumb-data-text" id="breadcrumb">
+<a href="/index.htm">Dow Home</a></div>
+</div>
+<script>
+
+    // Build breadcrumb trail.
+    var breadcrumbNodes = [];
+    var currentNode = currentPageLink;
+	if (currentNode)
+		{
+		var nav_type = '';
+		var find_nav_type = currentNode.parentNode;
+		while (nav_type == '')
+			{
+			if (find_nav_type.className != '')
+				{
+				nav_type = find_nav_type.className;
+				}
+			else
+				{
+				find_nav_type = find_nav_type.parentNode;
+				}
+			}
+		if (nav_type == 'secondary-nav')
+			{
+			currentNode.innerHTML='<span class="secondary-nav-selected">' + currentNode.innerHTML + '</span>';
+			}
+		else
+			{
+			if (currentNode.parentNode.parentNode.parentNode.nodeName == 'DIV')
+				{
+				currentNode.innerHTML='<span class="primary-nav-selected">' + currentNode.innerHTML + '</span>';
+				}
+			else
+				{
+				currentNode.innerHTML='<span class="primary-nav-sub-selected">' + currentNode.innerHTML + '</span>';
+				}
+			}
+		}
+	while (currentNode)
+		{
+		if (currentNode.nodeName.toUpperCase() == 'LI')
+			{
+			var childNodes = currentNode.childNodes;
+			for (var i = 0; i < childNodes.length; i++)
+				{
+				if (childNodes[i].nodeName.toUpperCase() == 'A')
+					{
+					breadcrumbNodes.push(childNodes[i].cloneNode(true));
+					}
+				}
+			}
+		currentNode = currentNode.parentNode;
+		}
+  
+    // Append breadcrumb trail to the starting sequence.
+	var BC_Counter = 0;
+	var breadcrumbTrail = document.getElementById('breadcrumb');
+	while (breadcrumbNodes.length)
+		{
+		BC_Counter++;
+		if (breadcrumbNodes.length == 1)
+			{
+			var breadcrumbNode = breadcrumbNodes.pop();
+			if (breadcrumbNode.childNodes[0].innerHTML)
+				{
+				cur_bc_Value = breadcrumbNode.childNodes[0].innerHTML;
+				}
+			else
+				{
+				cur_bc_Value = breadcrumbNode.innerHTML;
+				}
+			breadcrumbTrail.innerHTML = breadcrumbTrail.innerHTML + ' : <span class="breadcrumb-data-text-current-page">' + cur_bc_Value + '</span>';
+			}
+		else
+			{
+			var breadcrumbNode = breadcrumbNodes.pop();
+			var breadcrumbSeparator = document.createTextNode(' : ');
+			breadcrumbTrail.appendChild(breadcrumbSeparator);
+			breadcrumbTrail.appendChild(breadcrumbNode);
+			}
+		}
+
+	writeMailRecipientBlock ();
 	
+	var iFrames = document.getElementsByTagName('iframe');
+	for (var i = 0; i < iFrames.length; i++)
+		{
+		iFrames[i].width='100%';
+		iFrames[i].height='100%';
+		}
 	
+</script><form name="mailRecipientForm" action="https://web.archive.org/web/20030416003419/http://www.dow.com/" method="POST"><input name="recipient" type="hidden" value=""></form>
+</div>
 
-
-
-
-
-
-
-		
-		
-		
-
-
-	
-	
-          </div>
-				</td>
-				<td id="content-row-right">
-	
-	
-
-      
-
-	
-	
-
-
-
-
-
-				</td>
-
-			</tr>
-
-			<tr id="footer-row">
-
-	
-
-				<td id="footer-row-left">&nbsp;</td>
-
-	
-
-				<td id="footer-row-right" colspan="2">
-          
-					<div class="breadcrumb">
-							<a href="/homepage/index.html">Dow Home</a> : Privacy Statement
-          </div>
-					
-					<div class="footer-block">
-					  
-							<p><a href="http://www.dow.com/">Dow Home</a>&nbsp;&nbsp;<a href="http://www.dow.com/homepage/privacy.html">Privacy Statement</a>&nbsp;&nbsp;<a href="http://www.dow.com/homepage/disclosure.html">Internet Disclaimer</a>&nbsp;&nbsp;<a href="http://www.dow.com/homepage/accessibility.htm">Accessibility Statement</a>&nbsp;&nbsp;<a href="http://www.dow.com/homepage/sitemap.htm">Site Map</a></p>
-<p>Copyright © The Dow Chemical Company (1995-2006). All Rights Reserved.</p>
-						
-					</div>
-				</td>
-			</tr>
-
-		</tbody></table>
-		<script language="JavaScript" type="text/javascript">
-			writeMailRecipientBlock ();
-		</script><form name="mailRecipientForm" action="https://web.archive.org/web/20030416003419/http://www.dow.com/" method="POST"><input name="recipient" type="hidden" value=""></form>
-	
-
-
+<div class="footer">
+	<p><a href="http://www.dow.com/assistance/index.htm">Help</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.dow.com/homepage/privacy.htm">Privacy Statement</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.dow.com/homepage/disclosure.htm">Internet Disclaimer</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.dow.com/homepage/accessibility.htm">Accessibility Statement</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.dow.com/webapps/search/basicsearch.aspx">Search</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.dow.com/webapps/reg/OverviewRegistration.asp?caller=/homepage/privacy.htm">Register</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.dow.com/homepage/sitemap.htm">Site Map</a></p>
+	<p>Copyright © The Dow Chemical Company (1995-2007). All Rights Reserved.<br>
+	®™<sup>*</sup> Trademark of The Dow Chemical Company ("Dow") or an affiliated company of Dow</p>
+</div>
+</div>
+</div>
 
 
 
