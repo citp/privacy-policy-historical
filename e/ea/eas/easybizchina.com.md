@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easybizchina.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207201900id_/http%3A//www.easybizchina.com/HelpPrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easybizchina.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625072850id_/http%3A//www.easybizchina.com/HelpPrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,14 +23,18 @@ Certain other non-personal information of visitors is also recorded by the stand
 
 Also, please be aware that advertisers or Web sites that are linked to EasyBizChina.com may collect personally identifiable information about you. This Privacy Policy does not cover the information practices of those Web sites linked to EasyBizChina.com. 
 
-EasyBizChina contains links to other sites. EasyBizChina is not responsible for the privacy practices or the content of such Web sites. EasyBizChina makes or has future plans to make chat rooms, forums, message boards, and/or news groups available on the Site. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+EasyBizChina contains links to other sites. EasyBizChina is not responsible for the privacy practices or the content of such Web sites. EasyBizChina makes or has future plans to make chat rooms, forums, message boards, and/or news groups available on the Site. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+
+EasyBizChina may also use your personal information to (i) resolve disputes, collect fees, and troubleshoot problems; and (ii) prevent potentially prohibited or illegal activities and enforce the Terms and Conditions of our website and our Privacy Policy. 
 
 **3\. Disclosure of Information**   
 We reserve the right to disclose your Collected Information to relevant authorities where we have reason to believe that such disclosure is necessary to identify, contact or bring legal action against someone who may be infringing or threatening to infringe, or who may otherwise be causing injury to or interference with, the title, rights, interests or property of EasyBizChina.com, our Users, customers, partners, other web site users or anyone else who could be harmed by such activities. 
 
 We also reserve the right to disclose Collected Information in response to a subpoena or other judicial order or when we reasonably believe that such disclosure is required by law, regulation or administrative order of any court, governmental or regulatory authority. 
 
-If we have reason to believe that a User is in breach of the Terms of User Agreement or any other agreement with us, then we reserve the right to make public in order to pursue our claim or prevent further injury to EasyBizChina or others.
+If we have reason to believe that a User is in breach of the Terms of User Agreement or any other agreement with us, then we reserve the right to make public in order to pursue our claim or prevent further injury to EasyBizChina or others. 
+
+EasyBizChina may also disclose customer personal information to (i) service providers who help with business operation, (ii) EasyBizChina's affiliates, and (iii) other business entities in the event that EasyBizChina plans to merge with or be acquired by such business entity.
 
   
 **4\. Cookies**   
@@ -44,6 +48,8 @@ You can determine if and how a cookie will be accepted by configuring your brows
 If for any reason EasyBizChina does decide to collect and use personally identifiable information for any purpose not listed above, EasyBizChina will inform users about its use of personally identifiable information. Reasons for collecting personal information could include billing, provision of customer service, network management, customer surveys, subscriptions, provision of offers of related services and other exchanges of information at its Website. 
 
 As mentioned above, EasyBizChina may use customer contact information from the registration form to send the user information about our company. EasyBizChina communications will solicit Opt-in/Opt-out responses for future communications. 
+
+The opt-in means users agree to receive message through a confirmation message from EasyBizChina. The opt-out means users can leave or unsubscribe from the list at any time and not receive further mailings. 
 
 **6\. Security**   
 The integrity and the security of information pertaining to our Users is extremely important to EasyBizChina. We use our best efforts to use this information only to further the commercial objectives of the Users for which this Site was designed. All of your personal information is stored on our servers at a location designed specifically to ensure that no unauthorized individuals have access to the server or its data. Through the natural course of commercial activity facilitated by this Site industry professionals will access information that is covered by this Privacy Policy and may have retained a copy of your postings in their own files or databases. We are not responsible for the retention, use, or privacy of information in these instances. 
