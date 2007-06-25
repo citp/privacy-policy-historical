@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hairboutique.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205193811id_/http%3A//www.hairboutique.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hairboutique.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625062949id_/http%3A//hairboutique.com/privacy.asp) for the most accurate reproduction.*
 
 # HairBoutique.com - Privacy Policy
 
@@ -20,10 +20,8 @@ Our online surveys ask visitors for contact information (like their email addres
 
 We run contests on our site in which we ask visitors for contact information (like their email address) and demographic information (like their zip code, age, or income level). We use contact data from our contests to send users information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis.
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.  
-This site, The Hair Boutique, uses the services of BurstMedia  for the serving and/or targeting of ads, promotions and other marketing messages. To do this, BurstMedia collects anonymous data through the use of cookies. To learn more about BurstMedia, including your ability to opt out of the BurstMedia system, go to [http://www.BurstMedia.com/privacy.asp](http://www.burstmedia.com/privacy.asp)
+We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
 
-  
 Public Forums
 
 This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
@@ -54,4 +52,7 @@ HairBoutique.com
 651 N. Plano Rd., Suite 401  
 Richardson, TX 75081  
 webmaster@hairboutique.com  
+
+
+  
 
