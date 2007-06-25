@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fishbowlinventory.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208040702id_/http%3A//www.fishbowlinventory.com/about/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fishbowlinventory.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625063647id_/http%3A//www.fishbowlinventory.com/company/legal/privacy.php) for the most accurate reproduction.*
 
 # Fishbowl Inventory - Privacy Statement
 
@@ -80,11 +80,13 @@ _Rev. October 2005_
 Give us a ring  
 1.800.774.7085
 
-### [The Fireside Inc.](http://www.thefiresideinc.com/)  
+[](https://web.archive.org/community/customer_comments.php)
 
+Fishbowl Inventory is the perfect solution for inventory control at the right price. The integration with QuickBooks is easy to configure and will save you a lot time with no double entries. Great product and will recommended to anybody that's looking for a QuickBooks integrated inventory solution.  
+[ _Posted on the QuickBooks website_](https://web.archive.org/community/customer_comments.php#cust137)
 
-As a small business with multiple locations and thousands of inventory items we needed a complete inventory solution that didn't cost us Thousands of dollars. We spent months searching and trying out ... [(Read More)](https://web.archive.org/community/customers.php#cust30)
-
-[**\+ MORE Customer Quotes**](https://web.archive.org/community/customers.php)  
+Fishbowl Inventory software has changed the way we control inventory. Being able to give accurate estimates on product delivery is easily handled by Fishbowl. With Fishbowl I can create work orders for sub-assemblies and/or the finished product. Reorder points are tracked and auto purchase orders make reorder day a breeze!  
+[ _Micromedical Technologies_](https://web.archive.org/community/customer_comments.php#cust70)  
+[ _Joe Canella_](https://web.archive.org/community/customer_comments.php#cust70)  
   
 ---|---
