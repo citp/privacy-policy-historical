@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supermicro.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218223141id_/http%3A//supermicro.com/about/policies/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supermicro.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625071110id_/http%3A//supermicro.com/about/policies/privacy.cfm) for the most accurate reproduction.*
 
 # Supermicro, Inc. - About Supermicro | Privacy
 
@@ -42,8 +42,7 @@ When you access Supermicro WebSites, client information and the essential and no
 
   * Client information: the Internet domain and Internet address of the computer you are using.
   * Essential technical information: identification of the page or service you are requesting, type of browser and operating system you are using; and the date and time of access. 
-  * Nonessential technical information: the Internet address of the web site from which you linked directly to our WebSite, and 
-  * "cookie information" described below.
+  * Nonessential technical information: the Internet address of the web site from which you linked directly to our WebSite, and "cookie information" described below.
 
 **Optional Information**  
 When you send us an e-mail: your name, e-mail address, and content of your e-mail.  
