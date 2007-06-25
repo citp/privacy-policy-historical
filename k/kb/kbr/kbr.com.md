@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the kbr.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214122056id_/http%3A//www.kbr.com/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kbr.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625043936id_/http%3A//www.kbr.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # KBR - Privacy Policy
 
 ### Privacy Statement
 
-**Important:** Please read the following and the [Terms and Conditions of Use](https://web.archive.org/site_info/legal_statement.jsp) before accessing and using this Site.
+**Important:** Please read the following and the [Terms and Conditions of Use](https://web.archive.org/legal_statement.aspx) before accessing and using this Site.
 
 Thank you for visiting www.kbr.com. We hope that you will find this website ("Site") helpful and informative.
 
-KBR is strongly committed to respecting the privacy of all persons using this website ("Site"), and the protection of any personal information which we may collect and which you may choose to share with us. Such personal information will be used in accordance with the disclosures in this Privacy Statement, which is part of and incorporated into the Terms and Conditions of Use of this [Site](https://web.archive.org/site_info/legal_statement.jsp).
+KBR is strongly committed to respecting the privacy of all persons using this website ("Site"), and the protection of any personal information which we may collect and which you may choose to share with us. Such personal information will be used in accordance with the disclosures in this Privacy Statement, which is part of and incorporated into the Terms and Conditions of Use of this [Site](https://web.archive.org/legal_statement.aspx).
 
 **Exclusive Disclosures Pertaining to Use of Personal Information.** Please note that this Privacy Statement pertains exclusively to information which you provide to us in the course of your use and access of the Site, and does not alter or affect the terms and conditions of any other agreement that you may have or enter into with any KBR entity for any given product or service. The latter agreement will continue to govern that specific legal relationship with KBR. However, some pages on this Site or areas of this Site with restricted access ("Secured Sites", including project extranets or sites engaged in e-commerce) or in foreign locations may require the application of additional or special privacy disclosures, which will be posted on the home page of that Site.
 
