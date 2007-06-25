@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sermo.com privacy policy that was archived on 2006-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061030033029id_/http%3A//www.sermo.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sermo.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625052610id_/http%3A//www.sermo.com/about/privacy) for the most accurate reproduction.*
 
 # Sermo - Know more. Know earlier.
 
 ## General Statement
 
-This Privacy Policy ("Privacy Policy") discloses the privacy practices for Sermo, Inc. and www.americastopdoc.com (collectively "Sermo") with regard to your ("You" or "Your") use of the websites (www.sermo.com and www.americastopdoc.com) (the "Site" or "Sites"). Sermo is committed to Your privacy. Sermo hereby notifies You of the following:
+This Privacy Policy ("Privacy Policy") discloses the privacy practices for Sermo, Inc. (collectively "Sermo") with regard to your ("You" or "Your") use of the website (www.sermo.com) (the "Site" or "Sites"). Sermo is committed to Your privacy. Sermo hereby notifies You of the following:
 
   1. What personally identifiable information is collected from You through this Site.
   2. How the information is used.
@@ -25,21 +25,25 @@ Sermo is the sole owner of the information collected on this Site. We will not s
 
 During the collection of information at the Profile pages on the Site, You are required to give your contact information (such as name, address, birth date, physician license information, medical school, institutional affiliations, e-mail address and the like). An e-mail address and birth date is used to confirm Your identity. An email address is also used to contact You about the materials and information on the Site. When the Site requests Your identity, the Site will clearly indicate the purpose of the inquiry before the information is requested. All of your professional information will be authenticated against a third party provider.
 
-#### c. IP Addresses
+#### c. Personal Profile
+
+Once a registered participant, You may provide additional information in Your personal profile describing your credentials, professional experiences, academic background, biography and the like. Your personal profile shall be available for viewing by other registered participants of Sermo and will be considered non-confidential and non-proprietary. Providing additional information in Your personal profile beyond what is required at registration is entirely optional and can be altered or removed by You at any time.
+
+#### d. IP Addresses
 
 Every computer connected to the Internet is given a domain name and a set of numbers that serve as that computer's Internet Protocol or "IP" address. When You request a page from any page within the Site, our Web servers automatically recognize Your domain name and IP address. The domain name and IP address reveal nothing personal about You other than the IP address from which You have accessed the Site.
 
 For the purposes of inviting and introducing third parties to Sermo, You will be given the option to import or otherwise provide email addresses of third parties to Sermo. In so doing, Sermo will not store or disseminate your username or affiliated password nor solicit or spam any third party email addresses so provided.
 
-#### d. Third Party Email Addresses
+#### e. Third Party Email Addresses
 
-For the purposes of inviting and introducing third parties to Sermo, You will be given the option to import or otherwise provide email addreses of third parties to Sermo. On so doing, Sermo will not store your username or affiliated password.
+For the purposes of inviting and introducing third parties to Sermo, You will be given the option to import or otherwise provide email addresses of third parties to Sermo. On so doing, Sermo will not store your username or affiliated password.
 
-#### e. Children's and Minor's Privacy
+#### f. Children's and Minor's Privacy
 
 Sermo strongly encourages parents and guardians to supervise the online activities of their minor children and consider using parental control tools available from online services and software manufacturers to help provide a child-friendly online environment. These tools also can prevent minors from disclosing their name, address, and other personally identifiable information online without parental permission. Although the Site is not intended for use by minors, Sermo respects the privacy of minors who may inadvertently use the Internet.
 
-#### f. Opt Out Procedures
+#### g. Opt Out Procedures
 
 Upon initial communication from Sermo, You may opt-out of receiving further communications from Sermo. To be completely removed from the Sermo mailing list, You may contact admin@sermo.com. If You are using an e-mail forwarding service or other similar service please make sure to include the correct e-mail address or addresses.
 
@@ -67,7 +71,7 @@ Sermo may use IP addresses to analyze trends, administer the Site, track Your mo
 
 #### a. Sharing
 
-Sermo may share aggregated demographic information with Sermo's partners. This is notlinked to any personal information that can identify any individual person. Sermo shall not be liable for the transfer of any personal identification information resulting from loss or distribution of data, the delineation or corruption of storage media, power failures, natural phenomena, riots, acts of vandalism, sabotage, terrorism or any other event beyond Sermo's control.
+Sermo may share aggregated demographic information with Sermo's partners. This is not linked to any personal information that can identify any individual person. Sermo shall not be liable for the transfer of any personal identification information resulting from loss or distribution of data, the delineation or corruption of storage media, power failures, natural phenomena, riots, acts of vandalism, sabotage, terrorism or any other event beyond Sermo's control.
 
 #### b. Consulting
 
@@ -93,7 +97,7 @@ Sermo takes all necessary precautions to protect Your personal information both 
 
 #### b. Links
 
-The Sites, www.sermo.com and www.americastopdoc.com, may contain links to other sites. The linked sites are not necessarily under the control of Sermo. Please be aware that Sermo is not responsible for the privacy practices of such other sites. Sermo encourages You to be aware when You leave this Site and to read the privacy policies of each and every web site that collects personally identifiable information. If You decide to access any of the third-party sites linked to this Site, You do this entirely at Your own risk. Any links to any partner of the Site should be the responsibility of the linking party, and Sermo shall not be responsible for notification of any change in name or location of any information on the Site.
+The Sites, www.sermo.com, may contain links to other sites. The linked sites are not necessarily under the control of Sermo. Please be aware that Sermo is not responsible for the privacy practices of such other sites. Sermo encourages You to be aware when You leave this Site and to read the privacy policies of each and every web site that collects personally identifiable information. If You decide to access any of the third-party sites linked to this Site, You do this entirely at Your own risk. Any links to any partner of the Site should be the responsibility of the linking party, and Sermo shall not be responsible for notification of any change in name or location of any information on the Site.
 
 ### 5\. CORRECTING INACCURACIES
 
@@ -103,7 +107,7 @@ If Your personally identifiable information changes (such as address or payment 
 
 #### b. Notification of Changes
 
-If Sermo decides to change the Privacy Policy for this Site, Sermo will post those changes on www.sermo.com and www.americastopdoc.com so You are always aware of what information Sermo collects, how Sermo uses it, and under what circumstances, if any, Sermo discloses it. If at any point Sermo decides to use personally identifiable information in a manner different from that stated at the time it was collected, Sermo will notify users by way of an e-mail. If You have provided personally identifiable information before the changes in Sermo's Privacy Policy, You will have a choice as to whether or not Sermo uses Your information in this different manner. If You choose that Sermo not use Your personally identifiable information in accordance with the new privacy policy, Sermo will use information in accordance with the privacy policy under which the information was originally collected.
+If Sermo decides to change the Privacy Policy for this Site, Sermo will post those changes on www.sermo.com so You are always aware of what information Sermo collects, how Sermo uses it, and under what circumstances, if any, Sermo discloses it. If at any point Sermo decides to use personally identifiable information in a manner different from that stated at the time it was collected, Sermo will notify users by way of an e-mail. If You have provided personally identifiable information before the changes in Sermo's Privacy Policy, You will have a choice as to whether or not Sermo uses Your information in this different manner. If You choose that Sermo not use Your personally identifiable information in accordance with the new privacy policy, Sermo will use information in accordance with the privacy policy under which the information was originally collected.
 
 #### c. Site and Service Updates
 
