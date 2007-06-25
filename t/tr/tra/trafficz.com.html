@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the trafficz.com privacy policy that was archived on 2006-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061122052722id_/http%3A//trafficz.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trafficz.com privacy policy that was archived on 2007-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070626014523id_/http%3A//trafficz.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -68,11 +68,33 @@ function MM_swapImage() { //v3.0
   var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
    if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
 }
+
+function checkJavascript() {
+	document.getElementById("div_javascript_login").style.display="none";
+	document.getElementById("div_form_login").style.display="inline";
+	document.frmLogin.username.focus();
+}
+
+function submitEnter(myfield,e)
+{
+	var keycode;
+	if (window.event) keycode = window.event.keyCode;
+	else if (e) keycode = e.which;
+	else return true;
+	
+	if (keycode == 13)
+	   {
+	   myfield.form.submit();
+	   return false;
+	   }
+	else
+	   return true;
+}
 //-->
 </script>
 </head>
 
-<body onload="MM_preloadImages('./images/home_org.gif','./images/services_org.gif','./images/faqs_org.gif','./images/signup_org.gif','./images/aboutus_org.gif','./images/contact_org.gif')">
+<body onload="checkJavascript();MM_preloadImages('./images/home_org.gif','./images/services_org.gif','./images/faqs_org.gif','./images/signup_org.gif','./images/aboutus_org.gif','./images/contact_org.gif')">
 <table width="725" border="0" cellpadding="0" cellspacing="0" bgcolor="#666666" align="center">
   <tbody><tr>
     <td align="center"><table width="723" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
@@ -100,25 +122,45 @@ function MM_swapImage() { //v3.0
           <tbody><tr>
             <td height="16" colspan="2">&nbsp;<img src="./images/login.gif" width="41" height="16"></td>
           </tr>
-          <form method="post" action="https://manager.trafficz.com" <tr=""></form>
-            <tr><td height="10" colspan="2"><span class="style1">username</span></td>
-          </tr>
-          <tr>
-              <td><input type="text" name="username"></td>
-              <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td height="10" colspan="2"><span class="style1">password</span></td>
-          </tr>
-          <tr>
-              <td><input type="password" name="password"></td>
-              <td valign="middle"><input type="image" src="./images/go_button.gif"></td>
-          </tr>
-          <tr>
-              <td height="10" colspan="2"> <!--<input type="checkbox" name="checkbox" value="checkbox">
-                  <span class="style2">Stay Logged On</span> --></td>
-          </tr>
-        	
+          <tr><td>
+						         			<!--- Login form --->          		
+          		<div id="div_form_login" style="display: inline;">
+         			<form method="post" name="frmLogin" action="https://manager.trafficz.com/" style="display: inline; margin: 0;">
+          			<table width="100%" cellpadding="0" cellspacing="4">
+			          <tbody><tr>
+			            <td height="10" colspan="2"><span class="style1">username</span></td>
+			          </tr>
+			          <tr>
+			              <td><input type="text" name="username" size="19" onkeypress="return submitEnter(this,event)"></td>
+			              <td>&nbsp;</td>
+			          </tr>
+			          <tr>
+			            <td height="10" colspan="2"><span class="style1">password</span></td>
+			          </tr>
+			          <tr>
+			              <td><input type="password" name="password" size="19" onkeypress="return submitEnter(this,event)"></td>
+			              <td valign="middle"><input type="image" src="./images/go_button.gif"><input type="hidden" name="screen_width" id="screen_width" value="800"></td>
+			          </tr>
+						<script language="javascript">
+							document.getElementById("screen_width").value = screen.width;
+						</script>			          <tr>
+			              <td height="10" colspan="2"> <!--<input type="checkbox" name="checkbox" value="checkbox">
+			                  <span class="style2">Stay Logged On</span> --></td>
+			          </tr>
+			        	</tbody></table>
+        			</form>
+          		</div>
+          		<!--- End login form --->
+          		<!--- No javascript here --->
+          		<div id="div_javascript_login" style="display: none;">
+          			<table>
+			          <tbody><tr>
+			            <td align="center" colspan="2"><span class="style1"><br><font color="red">You need to enable javascript to login.</font><br><br><br></span></td>
+			          </tr>
+			        	</tbody></table>
+          		</div>
+          		<!--- End no javascript --->
+        	</td></tr>
           <tr>
             <td align="center" colspan="2"><span class="style1">Not yet a TrafficZ client?<br>
                   <a href="signup.php" style="color:#333333">Click here</a> to apply for<br>
@@ -169,7 +211,7 @@ function MM_swapImage() { //v3.0
     <tr>
      <td align="center"><table border="0" cellspacing="2" cellpadding="5">
        <tbody><tr>
-         <td align="center" class="style5">Copyright © 2006&nbsp;&nbsp;&nbsp;<a href="http://www.thoughtconvergence.com" target="new">Thought Convergence, Inc.</a>&nbsp;&nbsp;&nbsp;All Rights Reserved</td>
+         <td align="center" class="style5">Copyright © 2007&nbsp;&nbsp;&nbsp;<a href="http://www.thoughtconvergence.com" target="new">Thought Convergence, Inc.</a>&nbsp;&nbsp;&nbsp;All Rights Reserved</td>
        </tr>
        <tr>
          <td align="center" class="style5"><a href="tos.php" target="new">Terms of Service</a> <img src="./images/line_vert.gif" width="3" height="12"> <a href="privacy.php" target="new">Privacy Policy</a> <img src="./images/line_vert.gif" width="3" height="12"> <a href="contact.php">Contact</a></td>
