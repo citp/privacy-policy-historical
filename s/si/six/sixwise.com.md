@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sixwise.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212211056id_/http%3A//sixwise.com/html/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixwise.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625143401id_/http%3A//www.sixwise.com/html/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
