@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gossimer.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615044458id_/http%3A//www.gossimer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gossimer.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625050905id_/http%3A//gossimer.com/privacy.php) for the most accurate reproduction.*
 
 # Gossimer - Affordable Web Hosting and domain registration
 
