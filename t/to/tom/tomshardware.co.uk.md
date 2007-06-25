@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tomshardware.co.uk privacy policy that was archived on 2006-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061112215939id_/http%3A//tomshardware.co.uk/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomshardware.co.uk privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625061637id_/http%3A//tomshardware.co.uk/site/privacy.html) for the most accurate reproduction.*
 
 # Tom's Hardware Guide: TG Publishing, LLC Privacy Policy
 
