@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uswitch.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231125537id_/http%3A//www.uswitch.com/Popups/pref_/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uswitch.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625052419id_/http%3A//www.uswitch.com/CorporatePages/Information/Privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy on uSwitch.com – switch online with confidence
 
