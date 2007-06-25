@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the go-jamaica.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205015948id_/http%3A//www.go-jamaica.com/privacyp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go-jamaica.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625062638id_/http%3A//www.go-jamaica.com/privacyp.html) for the most accurate reproduction.*
 
 # Go-Jamaica :: PRIVACY POLICY
 
@@ -11,18 +11,7 @@ The information collected will not be used for any purpose other than the intend
 The accessibility of the internet globally means it does not recognize national boundaries. Therefore the collection and transmission of personal data is not confined to one country. By using the internet and our website your personal data may be processed and transferred to or via jurisdictions without our knowledge and or control. You therefore agree that your personal data may be processed or transmitted in these several jurisdictions. 
 
 **Third Party Advertising**  
-We use Maxonline/DoubleClick, Google, Burstmedia, Bidclicks,Fastclick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this web site in order to provide advertisements on this site about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies.
-
-Maxonline/DoubleClick  
-<http://maxonline.com/privacy_policy/index.php>  
-Google  
-<http://www.google.com/privacy.html>  
-Burstmedia  
-<http://www.burstmedia.com/release/privacy.asp>  
-Bidclix  
-<http://www.bidclix.com/PrivacyPolicy.html>[  
-](http://www.bidclix.com/PrivacyPolicy.html)Fastclick  
-[http://fastclick.com/co_privacy.html ](http://fastclick.com/co_privacy.html%20)
+We use Google, Burstmedia, Bidclicks,Fastclick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this web site in order to provide advertisements on this site about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies.
 
 **Third Party Cookies**  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
