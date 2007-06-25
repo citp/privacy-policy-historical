@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enquisite.com privacy policy that was archived on 2006-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061128224614id_/http%3A//www.enquisite.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enquisite.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625093944id_/http%3A//www.enquisite.com/privacy.html) for the most accurate reproduction.*
 
 # Enquisite Search Trends — Search Engine Position Reports — Privacy Policy
 
@@ -6,7 +6,7 @@
 
 ## Privacy Policy
 
-This Privacy Policy discloses the privacy practices of Enquisite Software Inc. (“Enquisite”). It is intended to inform our customers and visitors to our customers' websites, about Enquisite's data collection and usage relating to information we process through Enquisite Software and Enquisite Reports (collectively referred to as “Enquisite Products”). 
+This Privacy Policy discloses the privacy practices of Enquisite Reporting, a wholly owned property of RJ Research Inc. ("Enquisite"). It is intended to inform our customers and visitors to our customers' websites, about Enquisite's data collection and usage relating to information we process through Enquisite Software and Enquisite Reports (collectively referred to as "Enquisite Products").
 
 If you install or use Enquisite Products, you are subject to this Privacy Policy and Software License & Terms Of Service And Conditions Of Use, including, but not limited to the limitations on damages, and application of the law of the Province of British Columbia. 
 
@@ -49,7 +49,7 @@ Customers that provided contact information may contact Enquisite at our [Suppor
 If you have a concern about privacy at Enquisite, please contact us with a thorough description, and we will try to resolve it. You can contact us at our [Support Page](http://www.enquisite.com/support.html), or for written inquiries, address them to: 
 
 **Richard Zwicky  
-#207-3347 Oak Street  
+#205-3347 Oak Street  
 Victoria, B.C. V8X 1R2  
 Canada **
 
