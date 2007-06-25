@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the gapbuster.com privacy policy that was archived on 2006-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061015215641id_/http%3A//www.gapbuster.com/en-us/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gapbuster.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625050047id_/http%3A//www.gapbuster.com/en-us/privacy.asp) for the most accurate reproduction.*
 
-# GAPbuster Worldwide | Privacy Statement
+# Mystery Shopping Company - Part Time Jobs as Secret Shoppers conducting Mystery Shopping | GAPbuster Worldwide
+
+**Privacy Statement**
 
 **Disclaimer**  
 While GAPbuster Worldwide has endeavoured to insure that all information provided on GAPbuster Worldwide Internet websites is accurate and up to date, GAPbuster Worldwide takes no responsibility for any error or omission relating to this information. To the maximum extent permitted by law, GAPbuster Worldwide will not be liable for any cost, loss or damage suffered by you through your use of GAPbuster Worldwide Internet websites or GAPbuster Worldwide's failure to provide access to these Internet websites or information updates. 
