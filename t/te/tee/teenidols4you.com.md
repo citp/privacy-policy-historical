@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teenidols4you.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225134225id_/http%3A//www.teenidols4you.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenidols4you.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625062756id_/http%3A//www.teenidols4you.com/privacy.html) for the most accurate reproduction.*
 
-# TeenIdols4You.com | Feedback Form
+# Teen Idols 4 You Privacy Policy
 
 |  |  |   
 ---|---|---  
@@ -36,13 +36,16 @@ We use this information in order to analyze, manage and improve our Web site so 
 > 
 > Teen Idols 4 You may provide aggregate statistics about our guests, sales, traffic patterns and other site usage information to certain third parties, but none of this material would include any personally identifying information. Teen Idols 4 You may also release any information when we believe in good faith that we are required to do so under applicable law or that such a release is necessary or advisable in order to protect the rights, property or safety of Teen Idols 4 You , our guests and users, or others, or to enforce the terms and conditions applicable to this Web site. 
 > 
-> **Opting out / Updates**
-> 
-> If you do not wish to receive e-mail from us in the future regarding special offers, new products and services and the like, please let us know by sending us an e-mail to [support@teenidols4you.com](mailto:support@teenidols4you.com) . Please be sure that your e-mail includes your name and address. You can also let us know by mailing us c/o Teen Idols 4 You, Internet Sales, 1714 Teakwood Mnr STE E, Sherwood, AR 72120, or by calling us at 501-352-2092. 
-> 
 > **Third Party Sites**
 > 
-> Our Web site may contain links to other sites maintained by third parties unrelated to Teen Idols 4 You. While we of course attempt to link only to reputable sites, please be aware that we do not monitor and is in no way responsible for the content or privacy practices of any such third party sites.   
-  
+> Our Web site may contain links to other sites maintained by third parties unrelated to Teen Idols 4 You. While we of course attempt to link only to reputable sites, please be aware that we do not monitor and is in no way responsible for the content or privacy practices of any such third party sites. 
+> 
+> **TeenIdols4you.com  
+>  The Galactic Studio  
+>  1714 Teakwood Mnr. Suite E  
+>  Sherwood, AR 72120  
+>  501 436-4166**
+
+ ****  
   
 |  
