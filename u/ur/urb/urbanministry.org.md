@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbanministry.org privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230094716id_/http%3A//techmission.org/about/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanministry.org privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625053252id_/http%3A//techmission.org/about/privacypolicy.php) for the most accurate reproduction.*
 
 # TechMission: TechMission - About - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 #####   
   
-[home](https://web.archive.org/index.php) : [about](https://web.archive.org/web/20061230094716id_/http%3A//techmission.org/about/about.php) : **privacy policy**  
+[home](https://web.archive.org/index.php) : [about](https://web.archive.org/web/20070625053252id_/http%3A//techmission.org/about/about.php) : **privacy policy**  
 
 
 ## Privacy Policy Statement for TechMission, Inc.
@@ -27,7 +27,7 @@ We maintain several email lists to help our members build community. We will alw
 
 We reserve the right to make changes to this privacy policy without advance notice. Notice of these changes to this policy will be posted to the homepage for this website for a period of three days.
 
-If you have any questions about this privacy statement or the practices of TechMission, Inc. please [contact us](https://web.archive.org/web/20061230094716id_/http%3A//techmission.org/about/contact.php).
+If you have any questions about this privacy statement or the practices of TechMission, Inc. please [contact us](https://web.archive.org/web/20070625053252id_/http%3A//techmission.org/about/contact.php).
 
   
 [info@techmission.org](mailto:info@techmission.org)  
