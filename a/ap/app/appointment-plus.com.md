@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the appointment-plus.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017110741id_/http%3A//appointment-plus.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appointment-plus.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625175939id_/http%3A//www.appointment-plus.com/privacy_policy.php) for the most accurate reproduction.*
 
-# appointment software for your appointment scheduling software needs
+# Scheduling Software & Appointment Software From Appointment-Plus
 
 **How We Use and Protect Your Personal Information**  
 Contemporary Web Plus, Inc. shares your concerns about privacy. We understand that you want to know how we treat the personal information that we obtain from you or other sources in the course of providing you with products and services, including those of our Appointment-Plus Web site. 
