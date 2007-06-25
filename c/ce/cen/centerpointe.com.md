@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centerpointe.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206203247id_/http%3A//centerpointe.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centerpointe.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625135045id_/http%3A//www.centerpointe.com/about/privacy.php) for the most accurate reproduction.*
 
 # Centerpointe Research Institute: Privacy Policy
 
@@ -152,9 +152,3 @@ email:  webmaster@centerpointe.com
 By using this website, you accept the terms of this policy. If you do not accept the terms of this policy, you should refrain from using the Centerpointe Research Institute website. This statement may, in Centerpointe Research Institute’s sole discretion, be modified periodically, so you should review this privacy statement on a regular basis.  Your continued use of the Centerpointe Research Institute website signifies that you continue to accept the terms of this statement, as revised from time to time.
 
 This privacy policy does not apply to information that we may collect from you by other means (including offline) or from other sources.
-
-  
-
-
-###### [Home](https://web.archive.org/) | [Newsletter](https://web.archive.org/newsletter/) | [Free Demo](https://www.centerpointe.com/demo/?x=btmnav_about_privacy) | [Participants](https://www.centerpointe.com/participants) | [About Us](https://web.archive.org/about/) | [Retreats](https://web.archive.org/retreats/) | [Support](https://web.archive.org/support/) | [Products](https://www.centerpointe.com/products/?x=btmnav_about_privacy)   
-© 2006 Centerpointe Research Institute. All Rights Reserved. [Privacy Policy](https://web.archive.org/about/privacy.php) | [Contact Us](https://web.archive.org/about/contact.php)
