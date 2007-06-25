@@ -1,7 +1,12 @@
-<!--The following is the downloaded HTML source of the memorialcare.org privacy policy that was archived on 2006-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061209210046id_/http%3A//www.memorialcare.org/about/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the memorialcare.org privacy policy that was archived on 2007-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070625100958id_/http%3A//www.memorialcare.org/about/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+
+
+
+
+
 
 
 
@@ -20,28 +25,47 @@
 
 
 
+    <link rel="shortcut icon" href="http://www.memorialcare.org/favicon.ico" type="image/memorialcare.icon">
+    <link rel="icon" href="http://www.memorialcare.org/favicon.ico" type="image/memorialcare.icon"> 
 
 
-<script language="JAVASCRIPT" type="text/javascript">
-
+<script type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
+<script type="text/javascript" src="/CFIDE/scripts/masks.js"></script>
+<script type="text/javascript">
 <!--
-
-function  _CF_checksearch(_CF_this)
-
+    function  _CF_checksearch(_CF_this)
     {
+        //reset on submit
+        _CF_error_exists = false;
+        _CF_error_messages = new Array();
+        _CF_error_fields = new Object();
+        _CF_FirstErrorField = null;
 
-    return true;
 
+        //display error messages and return success
+        if( _CF_error_exists )
+        {
+            if( _CF_error_messages.length > 0 )
+            {
+                // show alert() message
+                _CF_onErrorAlert(_CF_error_messages);
+                // set focus to first form error, if the field supports js focus().
+                if( _CF_this[_CF_FirstErrorField].type == "text" )
+                { _CF_this[_CF_FirstErrorField].focus(); }
+
+            }
+            return false;
+        }else {
+            return true;
+        }
     }
-
-
 //-->
-
 </script>
-
 </head>
 
 <body bgcolor="#dddddd" style="margin-top: 15px;">
+
+
 
 
 
@@ -53,10 +77,10 @@ function  _CF_checksearch(_CF_this)
 
        <div id="toplinks">
        <a href="https://www.ememcare.com/mhsappl/update.cfm">Medical Card Login</a> |
-       <a href="http://www.memorialcare.org/navigation/sitemap.cfm">Site Map</a> |
+       <a href="http://www.memorialcare.org/sitemap.cfm">Site Map</a> |
        <a href="http://www.memorialcare.org/apps/contact/contactus.cfm?site=X">Contact Us</a><br>
 
-       <form name="search" action="http://www.memorialcare.org/navigation/searchresults.cfm" method="POST" onsubmit="return _CF_checksearch(this)" target="_top">
+       <form name="search" action="http://www.memorialcare.org/navigation/searchresults.cfm" method="post" target="_top" onsubmit="return _CF_checksearch(this)">
 
        <input type="hidden" name="scope" value="all">
        <input type="hidden" name="set" value="all">
@@ -64,6 +88,7 @@ function  _CF_checksearch(_CF_this)
        <input class="searchinput" type="text" name="searchstring" size="28" maxlength="200">&nbsp;<input type="submit" class="searchbutton" value="Search">
 
        </form>
+
        </div>
 
    </td></tr>
@@ -74,18 +99,34 @@ function  _CF_checksearch(_CF_this)
        
           <td width="68"><a href="http://www.memorialcare.org/default.cfm" onmouseover="document.home.src='http://www.memorialcare.org/navigation/home_hover.gif';" onmouseout="document.home.src='http://www.memorialcare.org/navigation/home_off.gif';"><img src="http://www.memorialcare.org/navigation/home_off.gif" width="68" height="30" border="0" alt="Home" hspace="0" name="home"></a></td>
        
+
+       
+          
              <td width="77"><a href="http://www.memorialcare.org/about/core.cfm" target="_top" onmouseover="document.about_us.src='http://www.memorialcare.org/navigation/about_us_on_hover.gif';" onmouseout="document.about_us.src='http://www.memorialcare.org/navigation/about_us_on.gif';"><img src="http://www.memorialcare.org/navigation/about_us_on.gif" width="77" height="30" border="0" alt="MemorialCare Medical Centers: About Us" name="about_us"></a></td>
           
        
+
+       
+       
           <td width="74"><a href="http://www.memorialcare.org/anaheim/about.cfm" target="_top" onmouseover="document.anaheim.src='http://www.memorialcare.org/navigation/anaheim_hover.gif';" onmouseout="document.anaheim.src='http://www.memorialcare.org/navigation/anaheim_off.gif';"><img src="http://www.memorialcare.org/navigation/anaheim_off.gif" width="74" height="30" border="0" alt="Anaheim Memorial Medical Center" name="anaheim"></a></td>
+       
+
        
           <td width="92"><a href="http://www.memorialcare.org/long_beach/about.cfm" target="_top" onmouseover="document.long_beach.src='http://www.memorialcare.org/navigation/long_beach_hover.gif';" onmouseout="document.long_beach.src='http://www.memorialcare.org/navigation/long_beach_off.gif';"><img src="http://www.memorialcare.org/navigation/long_beach_off.gif" width="92" height="30" border="0" alt="Long Beach Memorial Medical Center" name="long_beach"></a></td>
        
+
+       
           <td width="127"><a href="http://www.memorialcare.org/miller/about.cfm" target="_top" onmouseover="document.miller.src='http://www.memorialcare.org/navigation/miller_hover.gif';" onmouseout="document.miller.src='http://www.memorialcare.org/navigation/miller_off.gif';"><img src="http://www.memorialcare.org/navigation/miller_off.gif" width="127" height="30" border="0" alt="Miller Children's Hospital" name="miller"></a></td>
+       
+
        
           <td width="105"><a href="http://www.memorialcare.org/orange_coast/about.cfm" target="_top" onmouseover="document.orange_coast.src='http://www.memorialcare.org/navigation/orange_coast_hover.gif';" onmouseout="document.orange_coast.src='http://www.memorialcare.org/navigation/orange_coast_off.gif';"><img src="http://www.memorialcare.org/navigation/orange_coast_off.gif" width="105" height="30" border="0" alt="Orange Coast Memorial Medical Center" name="orange_coast"></a></td>
        
+
+       
           <td width="92"><a href="http://www.memorialcare.org/saddleback/about.cfm" target="_top" onmouseover="document.saddleback.src='http://www.memorialcare.org/navigation/saddleback_hover.gif';" onmouseout="document.saddleback.src='http://www.memorialcare.org/navigation/saddleback_off.gif';"><img src="http://www.memorialcare.org/navigation/saddleback_off.gif" width="92" height="30" border="0" alt="Saddleback Memorial - Laguna Hills" name="saddleback"></a></td>
+       
+
        
           <td width="120"><a href="http://www.memorialcare.org/san_clemente/about_sc.cfm" target="_top" onmouseover="document.san_clemente.src='http://www.memorialcare.org/navigation/san_clemente_hover.gif';" onmouseout="document.san_clemente.src='http://www.memorialcare.org/navigation/san_clemente_off.gif';"><img src="http://www.memorialcare.org/navigation/san_clemente_off.gif" width="120" height="30" border="0" alt="Saddleback Memorial San Clemente" name="san_clemente"></a></td>
        
@@ -110,6 +151,60 @@ function  _CF_checksearch(_CF_this)
    </td>
    </tr>
 
+  
+   
+   
+
+   
+   
+
+
+
+   
+
+
+   
+   
+      
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+   
+
+   
+   
+ 
+   
+   
+ 
+
+   
+
+ 
+
+ 
+   
+    
+   
+      
+   
+    
+ 
+
+ 
+ 
+
+   
 </tbody></table>
 
 
@@ -126,6 +221,8 @@ function  _CF_checksearch(_CF_this)
 
    
 
+
+
    
 
 
@@ -133,6 +230,12 @@ function  _CF_checksearch(_CF_this)
  <td valign="top" width="155" style="background-color:#EAEFF5; padding-top:25px;">
  
  <!-- hide
+    
+    
+    
+    
+    
+    
     
        <div id="column-head"><a href="http://www.memorialcare.org/about/core.cfm">About Us</a></div>
     
@@ -260,6 +363,44 @@ function  _CF_checksearch(_CF_this)
 
 
 
+    
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+
+
+    
+
+
+
+
 
 
 
@@ -285,12 +426,18 @@ function  _CF_checksearch(_CF_this)
 
    
    
-<!-- hide until banner ad is launched    
+  
    
--->	 
 
 	 
 	  
+   
+	 
+	  
+   
+
+  
+   
    
 
   
@@ -313,20 +460,36 @@ function  _CF_checksearch(_CF_this)
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <td valign="top" height="450" style="padding-top:15px;">
 
 <div id="contentbox">
 
-<h1>MemorialCare Privacy Statement</h1>
-
+<span class="arial_14">MemorialCare Privacy Statement</span>
+<p>
 <span class="reg12">
 <b>In order for you to use our services and health information tools, we require certain registration information (as noted on the signup form). The registration information will be transmitted to our partners in part or in whole for the sole purpose of customizing information for your needs. We will keep your information confidential and secure and you can change or delete your registration information at any time. You may also unsubscribe at any time. Please read this privacy policy for more information.<br></b>
 <br>
 As a user of our web sites and other electronic media, you take on certain risks and responsibilities. You also have the right to know how we protect your privacy and ensure your confidentiality and what you should expect from us. MemorialCare Medical Centers have partnered with several organizations to create a web site and other electronic communications. We are responsible for the editorial content, products and services offered.<br>
 <br>
 <b>Your role, responsibilities, and risks<br></b>
-<br>
-<ul>
+
+</span></p><ul>
 <li>You need to be an informed user of this site. Please read all our policies in full so you know how our site works and how you interact with the site.<br></li>
 <li>Pay special attention to your risks as a user. Web site users open themselves up to certain risks, such as data collection.<br></li>
 <li>Understand how we collect data and how it is used. It is our goal to protect your personal information from misuse. We do, however, offer programs that collect data for special reasons, such as research, scientific studies, and statistics, in which case you may be interested in participating.<br></li>
@@ -374,10 +537,11 @@ We collect information about you at several places throughout the site. You will
 In order to participate in our email messaging, you are required to complete a registration form that requests certain information, such as name, telephone number and e-mail address. In addition, you are asked during registration to tell us about health topics that you are interested in. We offer specialized registration for certain programs, events, and classes that may request some or all of the above information.<br>
 We may use your registration information to send you an e-mail confirming your registration with our site, to respond to questions from you, or to notify you if there is a problem with any order for goods or services that you placed. We may also, from time to time, send e-mails, on special promotions or newsletters we think may be of interest to you and your specific health care needs. You may also receive a Medical Information and Access Card (MIAC). MIAC members from time to time receive mailed information on health care topics of interest to them.<br>
 <br>
-<b>Interactive Services/Tools<br></b>
-Some of the interactive tools on our site ask you for personal information and health-related personal information. Specifically, our MIAC program and health risk assessment tools may ask for information on your personal and/or family medical history including height, weight, blood pressure, history of certain conditions and/or diseases and medication history. Our health care professional directory may ask you for information on your insurance plan and geographic location in order to identify listed professionals in your area. Your personal health record is kept strictly confidential and can only be accessed by using your password and login ID. We will make every effort not to use or disclose your personal health record to any one without your express consent. In some cases, you can permit your physician, pharmacist or other health care-related professional to have access to your personal health record.<br>
+<b>Interactive Services/Tools<br>
+</b>
+In all instances where a such a tool is used, you will have access to the organization's privacy policy and information on how the tool works and when it was last evaluated. Some of the interactive tools on our site ask you for personal information and health-related personal information. Specifically, our MIAC program and health risk assessment tools may ask for information on your personal and/or family medical history including height, weight, blood pressure, history of certain conditions and/or diseases and medication history. Our health care professional directory may ask you for information on your insurance plan and geographic location in order to identify listed professionals in your area. Your personal health record is kept strictly confidential and can only be accessed by using your password and login ID. We will make every effort not to use or disclose your personal health record to any one without your express consent. In some cases, you can permit your physician, pharmacist or other health care-related professional to have access to your personal health record.<br>
 <br>
-From time to time we may partner with other organizations to provide you with interactive health tools. In all instances where a such a tool is used, you will have access to the organization's privacy policy and information on how the tool works and when it was last evaluated.<br>
+From time to time we may partner with other organizations to provide you with interactive health tools. <br>
 <br>
 <b>Chat Rooms/Bulletin Boards<br></b>
 As a service to our users, we may feature chat rooms/bulletin boards where users with similar medical conditions can share information and support one another. In addition, we may also offer online discussions on a variety of topics moderated by medical experts. You should be aware that any information shared in a chat room/bulletin board is public information and you should think carefully before disclosing any personal and/or health-related personal information in any chat room/bulletin board.<br>
@@ -385,7 +549,7 @@ As a service to our users, we may feature chat rooms/bulletin boards where users
 <b>Online Shopping<br></b>
 When this service is offered on this site and you purchase products and services from us, such as ordering flowers for delivery to a local hospital, we will request that you provide your name, e-mail address, credit card number and expiration date, phone number and billing and shipping addresses.<br>
 <br>
-If we make available the opportunity to prescription drugs or medical equipment, we will ask for all of the information above, as well as the information that you would ordinarily provide to your pharmacist, including your prescribing doctor's name, your residential address, your gender and birth date, any drug allergies and existing medical conditions. If applicable, we will also ask for your health insurance information including the name, address and telephone number of your insurer and your member identification number (which may be your social security number). We may also ask for additional information about your current prescriptions and medical history. This information will help us provide you with the necessary information to make the safest and most effective use of your prescription medication or equipment.<br>
+If we make available the opportunity to purchase prescription drugs or medical equipment, we will ask for all of the information above, as well as the information that you would ordinarily provide to your pharmacist, including your prescribing doctor's name, your residential address, your gender and birth date, any drug allergies and existing medical conditions. If applicable, we will also ask for your health insurance information including the name, address and telephone number of your insurer and your member identification number (which may be your social security number). We may also ask for additional information about your current prescriptions and medical history. This information will help us provide you with the necessary information to make the safest and most effective use of your prescription medication or equipment.<br>
 <br>
 This information will be kept in the strictest confidence. We will make every effort to maintain the privacy and security of this information at all times.<br>
 <br>
@@ -393,7 +557,7 @@ This information will be kept in the strictest confidence. We will make every ef
 We continually seek new ways to maintain your trust as a user and improve our offerings. To provide new and better services, we tend to monitor user traffic patterns and try to analyze what our users like and do not like about our current offerings so we can design better services for you. One method we use is a cookie to collect anonymous traffic data. We may also use certain information for testing purposes, site development and planning, and during the normal course of maintaining the site. When you use our site, you automatically allow us to collect this information. In these cases, researchers, business analysts, system designers, and others may have access to the data we collect.<br>
 <br>
 We do not intend to use or disclose any personal information or health-related personal information you provide on our site to an unrelated third party without your express permission, except as explained in this section. You should know that there are circumstances when, in the ordinary course of business, we will share some information about you with a related third party.<br>
-<br>
+
 <ul>
 <li>We have relationships with different vendors and suppliers that ship products ordered on our site directly to our customers. In these cases, we provide to the vendor the information necessary to fulfill your order, such as the items ordered, your name, and shipping address. We require these partners to adhere to our privacy policy and have discussed with them that they are not to use our customer information for any other purpose.<br></li>
 <li>We may also share aggregate statistical information on our users, sales, traffic patterns and site usage with our business partners and sponsors. There is nothing in this information that could be used to identify or contact you.<br></li>
@@ -433,52 +597,62 @@ When you register with our site and the MIAC card, you are given the option of r
 <b>Change/Update Personal Information<br></b>
 You may change or update your personal information and/or health-related personal information at any time using the following options:<br>
 <ul>
-<li>HealthLineLinks newsletter subscibers can click on their personal link provided in the HealthlineLinks newsletter to update their email, physical address and message format information or opt-out (unsubscribe) to the HealthLineLinks newsletter.<br></li>
+<li>HealthLineLinks newsletter subscribers can click on their personal link provided in the HealthlineLinks newsletter to update their email, physical address and message format information or opt-out (unsubscribe) to the HealthLineLinks newsletter.<br>
+</li>
 <li>MIAC subscribers can go to the MIAC registration form and change their information there.<br></li>
-<li>You can contact us in writing using the address in our <a href="../apps/contact/contactus.cfm?site=X">Contact Us</a> link<br></li>
+<li>You can contact us in writing using the address in our <a href="https://www.ememcare.com/contact/ContactUs_form.cfm?option=c" target="_blank">Contact Us</a> link<br>
+</li>
 </ul>
 <b>Remove or Delete Personal Information<br></b>
 You may remove previously provided personal and/or health-related personal information at any time using the following options:<br>
 <br>
-<ul><li>You can contact us in writing using the address in our <a href="../apps/contact/contactus.cfm?site=X">Contact Us</a> link<br></li></ul>
+<ul><li>You can contact us in writing using the address in our <a href="https://www.ememcare.com/contact/ContactUs_form.cfm?option=c" target="_blank">Contact Us</a> link<br>
+</li></ul>
 Users should be aware that it is not always technically possible to remove or delete the information you provide to us. We back-up our systems to protect information from inadvertent loss, and that means a copy of your personal information may exist in a non-erasable form that may be difficult or impossible for us to locate. Nevertheless, upon receiving your request we will try to remove or delete all personal information and/or health-related personal information stored in the databases that we use for research and daily business activities. We will not intentionally disclose any personal information stored in a non-erasable format after receiving your request for removal, except as required by law.<br>
 <br>
 <br>
 To report any abuse or violations of this Email List Privacy Policy, please send an email to abuse@memorialcare.com and attach an unedited copy of the email message that you feel was sent to you in error or without your permission. Include all header information so that we can trace the origin of the message. Also include any notes or other information that you feel are pertinent.<br>
 <br>
-Last Update: August 25, 2002<br>
-Copyright 2002 MemorialCare<br><br>
+Last Update: April 28, 2007<br>
+Copyright © 2007 Memorial Health Services.<br>
+<br>
 
 
-</span></div>
+</div>
 
 <!-- Footer  -->	 
 
-  <div align="center" class="arial_8" style="padding-top:10px;">
-  MemorialCare Medical Centers are not-for-profit, community-based hospitals located in Southern California in both <br>Los Angeles County and Orange County.
-  Copyright © 1999 - 2006, Memorial Health Services. All rights reserved.<br>	
+  <div align="center" class="arial_8" style="padding-top:10px; padding-left:5px; padding-right:5px;">
+	
    <a href="http://www.memorialcare.org/apps/docfinder/searchform.cfm?site=X">Find a Doctor</a> | 
    <a href="http://www.memorialcare.org/apps/jobs/index.cfm">Jobs at MemorialCare</a> | 
 	 <a href="http://www.memorialcare.org/apps/contact/contactus.cfm?site=X" target="_top">Contact Us</a> | 
 	 <a href="http://www.memorialcare.org">Home</a> | 
-	 <a href="http://www.memorialcare.org/navigation/sitemap.cfm" target="_top">Site Map</a> |
-	  <a href="http://www.memorialcare.org/about/privacy.cfm" target="_top">Web Site Privacy Policy</a> | 
-   	<a href="http://www.memorialcare.org/about/legalnotice.cfm" target="_top">Legal Notice</a><br>
-   	<a href="http://www.hon.ch/HONcode/Conduct.html?HONConduct485229" target="_blank"><img src="http://www.memorialcare.org/images/hon_code.gif" vspace="3" border="0" align="absmiddle"></a> <a href="http://www.hon.ch/HONcode/Conduct.html?HONConduct485229" target="_blank">Compliant with HON Code</a>	</div>
+	 <a href="http://www.memorialcare.org/sitemap.cfm" target="_top">Site Map</a> |
+	  <a href="http://www.memorialcare.org/about/privacy.cfm" target="_top">Web Site Privacy Policy</a> <br>
+   	<a href="http://www.memorialcare.org/about/legalnotice.cfm" target="_top">Legal Notice</a> |
+   	<a href="http://www.hon.ch/HONcode/Conduct.html?HONConduct485229" target="_blank"><img src="http://www.memorialcare.org/images/hon_code.gif" vspace="3" border="0" align="absmiddle"></a> <a href="http://www.hon.ch/HONcode/Conduct.html?HONConduct485229" target="_blank">Compliant with HON Code</a>	| <a href="http://www.memorialcare.org/QnS/QualitySafety_acrdAndLic.cfm">Hospital Accreditation</a><br>
+	  MemorialCare Medical Centers are not-for-profit, community-based hospitals located in Southern California in both Los Angeles County and Orange County.
+  Copyright © 1999 - 2007, Memorial Health Services. All rights reserved.<br></div>
 	
+
 	<!-- End Table -->	
 	
 
 </td>
 </tr>
 
-<!-- tracker -->
+
+
+
+
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
 _uacct = "UA-487185-1";
 urchinTracker();
-</script>
+</script> 
+
 
 
 
