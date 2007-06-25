@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tvover.net privacy policy that was archived on 2006-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061005042813id_/http%3A//www.tvover.net/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvover.net privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625085142id_/http%3A//www.tvover.net/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | TVover.net
+# Privacy Policy - TVover.net
 
 TVover.net Privacy Policy
 
-This agreement was last updated on June 8, 2006. 
+This agreement was last updated on December 29, 2006. 
 
 TVover.net ("TVover.net" or "we") understands that your privacy is important to you. TVover.net is strongly committed to protecting your privacy and the personal information that you may provide as you access and use the materials on tvover.net (the "Site"). We are committed to making sure that your personal information is correct, that we use your information responsibly, and that we have strict standards of confidentiality and security for your information. 
 
@@ -58,9 +58,10 @@ We are serious in maintaining your privacy and creating a valuable resource for 
 
 Privacy and Security  
 TVover.net  
-Erzgiessereistr. 19   
-80335 Munich  
-Germany
+124 W. Lockwood  
+Suite 113   
+St. Louis, MO 63119  
+U.S.
 
   All brand, company, and product names are trademarks or registered trademarks of their   
-  respective owners. © 2006 TVover.net. All rights reserved. [Privacy Policy](http://www.tvover.net/PrivacyPolicy.aspx)  [Terms](http://www.tvover.net/Terms.aspx)
+  respective owners. © 2007 TVover.net. All rights reserved. [Privacy Policy](http://www.tvover.net/PrivacyPolicy.aspx)  [Terms](http://www.tvover.net/Terms.aspx)
