@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vizu.com privacy policy that was archived on 2006-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061213095449id_/http%3A//www.vizu.com/policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vizu.com privacy policy that was archived on 2007-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070625232417id_/http%3A//www.vizu.com/policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -30,74 +30,49 @@
     <script language="JavaScript" type="text/javascript" src="js/menu.js"></script>
 
 </head>
-<body><a name="top"></a>
-<div id="header">
-    <div id="logo"><a title="vizu" href="/index.html"><img src="img/logo.gif" alt="Vizu - See what the world thinks" title="Vizu - See what the world thinks" height="75" width="129"></a></div>
-    <div id="search"><h1>Take Polls. Make Polls. See What the World Thinks.<sup>TM</sup></h1>
-    <form id="searchForm" name="search_form" action="search.html" enctype="application/x-www-form-urlencoded; charset=ISO-8859-1">
-    
-        
-            <input onfocus="qEnter()" onblur="qExit()" name="q" style="width: 306px; background-color: #f7f7f7; height: 18px; font-size: 11px;" value="Topic search..." type="text">
-        
-        
-    
-    <select name="category" class="answers" style="background-color: #f7f7f7;" onchange="if(this.value=='') this.options[0].selected=true">
-        <option value="0">in All Categories</option>
-        
-            <option value="4">Current Events</option>
-        
-            <option value="3">Entertainment</option>
-        
-            <option value="1">Business</option>
-        
-            <option value="2">Sports</option>
-        
-            <option value="5">Grab-bag</option>
-        
-        <option value="" disabled="disabled">--------------------</option>
-        <option value="pollid:">by Poll ID</option>
-        <option value="author:">by Poll Author</option>
-        <option value="" disabled="disabled">--------------------</option>
-        <option value="privatepollid:">Private Polls</option>
-    </select>
-    <input src="img/but_search.gif" style="vertical-align: top; margin: 0 0 0 0" type="image">
-    </form>
-    </div>
-    <div id="register">&nbsp;&nbsp;&nbsp;<a href="registration.html" class="signUp" title="Sign Up - It's Free!"><b>Sign Up</b> - It's Free!</a> &nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;<a href="javascript:opacity('loginBox', 0, 100, 200);" title="Login" class="purple" onmouseover="window.status='Login'; return true;" onmouseout="window.status=''; return true;">Login</a> &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; <a href="vizu-help.html" title="Help" class="purple">Help</a>
-    </div>
-</div>
-
-    
-        
+<body>
+<div id="wrapper">
+		<div id="container">
+            <a name="top"></a>
+            <div id="header">
+                <div id="logo"><a title="Vizu Web Polls" href="/index.html"><img src="img/logo_WebPoll.gif" alt="Vizu Web Polls" title="Vizu Web Polls" height="75" width="129"></a></div>
+                <div id="register">&nbsp;&nbsp;&nbsp;<a href="registration.html" class="signUp" title="Sign Up - It's Free!"><b>Sign Up</b> - It's Free!</a> &nbsp; | &nbsp;<a href="javascript:opacity('loginBox', 0, 100, 200);" title="Login" class="purple" onmouseover="window.status='Login'; return true;" onmouseout="window.status=''; return true;">Sign In</a> &nbsp;&nbsp;&nbsp;&nbsp;
+            	</div>
+            </div>
+            
+                
+                    
 <!-- Login Box -->
 <div id="loginBox">
 <form name="small_login_form" action="login.html" method="post" style="margin: 0px; padding:0px;">
-    <input type="hidden" name="referrer" value="/policy.html">
-    <div><img src="img/box_login_top.gif" alt="" width="250" height="18" border="0" usemap="#closeLogin"><map name="closeLogin"><area alt="Close" coords="227,2,243,17" href="javascript:opacity('loginBox',100, 0, 200)" onmouseover="window.status='Close Login Box'; return true;" onmouseout="window.status=''; return true;"></map></div>
-    <div style="margin: -16px 0 0 10px; font-weight: bold; color: #fff; text-align: left;">Member Login</div>
-    <div id="loginContainer">
-     <div class="clearfix loginContainer">
-        <div style="float:left; padding: 5px 0 0 10px; height:35px;">
-          <div>Username: <input name="login" id="loginField" class="login" type="text" value="">
+    <input type="hidden" name="referrer" value="//policy.html">
+    <div><img src="/img/hdr_signin.gif" width="255" height="15" alt="Sign In" title="Sign In" usemap="#closeLogin"><map name="closeLogin"><area alt="Close" coords="227,2,243,17" href="javascript:opacity('loginBox',100, 0, 200)" onmouseover="window.status='Close Login Box'; return true;" onmouseout="window.status=''; return true;"></map></div>
+    <div id="loginContainer" class="loginBorder" style="border-bottom:0;background-color:#fff">
+        <div class="clearfix loginContainer">
+            <div style="float:left; padding: 5px 0 0 10px; height:35px;">
+                <div>Username: <input name="login" id="loginField" class="login" type="text" value="">
+                </div>
+                <div>Password: <input type="password" name="password" class="login" value="" style="margin: 0 0 0 -1px;" onkeydown="checkKey()"></div>
             </div>
-          <div>Password: <input type="password" name="password" class="login" value="" style="margin: 0 0 0 -1px;" onkeydown="checkKey()"></div>
+            <div style="float: right; padding: 15px 20px 0 0;">
+                <input type="image" img="" src="img/but_signin-sm.gif" alt="Sign In" width="70" height="21" border="0" title="Sign In">
+            </div>
         </div>
-         <div style="float: right; padding: 15px 20px 0 0;"><input type="image" img="" src="img/but_signIn.gif" alt="Sign In" width="59" height="21" border="0" title="Sign In"></div>
-     </div>
     </div>
-	<!--[if IE 7]>
-    <br clear="all" style="height:1px;">
-    <![endif]-->
-    <div><input name="remember" checked="" value="true" type="checkbox" style="vertical-align:middle; margin: 0 0 4px 0;"> Remember me | <a href="reminder.html" class="purple">Forgot Password</a></div>
-    <div><img src="img/box_login_btm.gif" alt="" width="250" height="4" border="0"></div>
+    <div class="loginBorder">
+        <!--[if IE 7]>
+            <br clear="all" style="height:0px;line-height:0px; />
+        <![endif]-->
+        <input name="remember" checked="" value="true" type="checkbox" style="vertical-align:middle; margin: 0 0 4px 0;"> Remember me | <a href="reminder.html" class="purple">Forgot Password</a>
+    </div>
 </form>
 </div>
 
  
-     
-        
-  
-<!-- Navigation -->
+                 
+                    
+              
+            <!-- Navigation -->
 
 		<!--[if IE 7]>
 			<STYLE type=text/css>
@@ -115,12 +90,6 @@
         document.write('<li><a id="tNav" onclick="window.location.href=\'http://www.vizu.com/index.html\'" style="cursor:pointer;" >Home</a>');
    }
 </script><li><a id="tNav" onclick="window.location.href='http://www.vizu.com/index.html'" style="cursor:pointer;">Home</a>
-		<ul>
-		   	<li><a href="http://www.vizu.com/why-signup.html" id="sNav" onfocus="if(this.blur)this.blur()">Why Sign Up?</a></li>
-			<li><a href="http://www.vizu.com/web-polls.html" id="sNav" onfocus="if(this.blur)this.blur()">Web Polls</a></li>
-			<li><a href="http://www.vizu.com/about.html" id="sNav" onfocus="if(this.blur)this.blur()">About Vizu</a></li>
-			<li><a href="http://www.vizu.com/contact-us.html;jsessionid=144C8B2C256F7B27C28B830681AB59F8?referrer=%2fpolicy.html" id="sNavBottom" onfocus="if(this.blur)this.blur()">Contact Vizu</a></li>
-		</ul>
 	</li>
 <!-- Create Polls -->
     <script language="JavaScript1.2" type="text/javascript">
@@ -133,7 +102,7 @@
 		<ul>
 			<li><a href="http://www.vizu.com/poll_creator/index.html" id="sNav" onfocus="if(this.blur)this.blur()">Create A Poll</a></li>
 			<li><a href="http://www.vizu.com/myvizu-mypolls.html?pageName=EditPolls" id="sNav" onfocus="if(this.blur)this.blur()">Edit Your Polls</a></li>
-			<li style="white-space:nowrap"><a href="http://answers.vizu.com" target="_blank" id="sNavBottom" onfocus="if(this.blur)this.blur()">Field Market Research</a></li>
+			<li style="white-space:nowrap"><a href="http://answers.vizu.com" target="_blank" id="sNav" onfocus="if(this.blur)this.blur()">Field Market Research</a></li>
 		</ul>
 	</li>
 	<!-- View Polls -->
@@ -146,126 +115,12 @@
     </script><li><a id="tNav" style="cursor:default">View Polls</a>
     
 		<ul>
-			<li><a href="http://www.vizu.com/all/polls/new-polls-list.html?sort=1&amp;voteStatus=0&amp;newest=1" id="sNav" onfocus="if(this.blur)this.blur()">Newest Polls</a>
-				<ul>
-					<li><a href="http://www.vizu.com/all/polls/new-polls-list.html?sort=1&amp;voteStatus=0&amp;newest=1" id="sNav" onfocus="if(this.blur)this.blur()">All Categories</a></li>
-					<li><a href="http://www.vizu.com/Current+Events/new-polls-list.html?c=4&amp;sort=1&amp;voteStatus=0&amp;newest=1" onfocus="if(this.blur)this.blur()" id="sNav">Current Events</a></li>
-					<li><a href="http://www.vizu.com/Entertainment/new-polls-list.html?c=3&amp;sort=1&amp;voteStatus=0&amp;newest=1" onfocus="if(this.blur)this.blur()" id="sNav">Entertainment</a></li>
-					<li><a href="http://www.vizu.com/Business/new-polls-list.html?c=1&amp;sort=1&amp;voteStatus=0&amp;newest=1" onfocus="if(this.blur)this.blur()" id="sNav">Business</a></li>
-					<li><a href="http://www.vizu.com/Sports/new-polls-list.html?c=2&amp;sort=1&amp;voteStatus=0&amp;newest=1" onfocus="if(this.blur)this.blur()" id="sNav">Sports</a></li>
-					<li><a href="http://www.vizu.com/Grab-bag/new-polls-list.html?c=5&amp;sort=1&amp;voteStatus=0&amp;newest=1" onfocus="if(this.blur)this.blur()" id="sNavBottom">Grab-bag</a></li>
-				</ul>
-			</li>
-			<li><a id="sNavSeperator">----------------------------</a></li>
-			<li><a href="http://www.vizu.com/all/polls/polls-list.html" id="sNav" onfocus="if(this.blur)this.blur()">Categories</a></li>
-            <li><a href="http://www.vizu.com/Current+Events/polls-list.html?c=4" id="sNav" onfocus="if(this.blur)this.blur()">&nbsp;Current Events</a>
-    				<ul>
-    					   <li><a href="http://www.vizu.com/Current+Events/Domestic+US/polls-list.html?c=4&amp;s=43" onfocus="if(this.blur)this.blur()" id="sNav">Domestic US</a></li>  
-    					   <li><a href="http://www.vizu.com/Current+Events/World/polls-list.html?c=4&amp;s=44" onfocus="if(this.blur)this.blur()" id="sNav">World</a></li>  
-    					   <li><a href="http://www.vizu.com/Current+Events/Legal/polls-list.html?c=4&amp;s=45" onfocus="if(this.blur)this.blur()" id="sNav">Legal</a></li>  
-    					   <li><a href="http://www.vizu.com/Current+Events/Environment/polls-list.html?c=4&amp;s=46" onfocus="if(this.blur)this.blur()" id="sNav">Environment</a></li>  
-    					   <li><a href="http://www.vizu.com/Current+Events/Politics+-+U.S./polls-list.html?c=4&amp;s=53" onfocus="if(this.blur)this.blur()" id="sNav">Politics - U.S.</a></li>  
-    					   <li><a href="http://www.vizu.com/Current+Events/Politics+-+Global/polls-list.html?c=4&amp;s=54" onfocus="if(this.blur)this.blur()" id="sNav">Politics - Global</a></li>  
-                          					
-    					<li><a href="http://www.vizu.com/Current+Events/Other/polls-list.html?c=4&amp;s=4" id="sNavBottom" onfocus="if(this.blur)this.blur()">Other...</a></li>
-    				</ul>
-    			</li>
-            
-                <li><a href="http://www.vizu.com/Entertainment/polls-list.html?c=3" id="sNav" onfocus="if(this.blur)this.blur()">&nbsp;Entertainment</a>
-    				<ul>
-						<li><a href="http://www.vizu.com/Entertainment/Movies/polls-list.html?c=3&amp;s=37" onfocus="if(this.blur)this.blur()" id="sNav">Movies</a></li>  
-						<li><a href="http://www.vizu.com/Entertainment/Music/polls-list.html?c=3&amp;s=38" onfocus="if(this.blur)this.blur()" id="sNav">Music</a></li>  
-						<li><a href="http://www.vizu.com/Entertainment/Television/polls-list.html?c=3&amp;s=39" onfocus="if(this.blur)this.blur()" id="sNav">Television</a></li>  
-						<li><a href="http://www.vizu.com/Entertainment/Arts/polls-list.html?c=3&amp;s=40" onfocus="if(this.blur)this.blur()" id="sNav">Arts</a></li>  
-						<li><a href="http://www.vizu.com/Entertainment/Celebrities/polls-list.html?c=3&amp;s=41" onfocus="if(this.blur)this.blur()" id="sNav">Celebrities</a></li>  
-						<li><a href="http://www.vizu.com/Entertainment/Awards/polls-list.html?c=3&amp;s=42" onfocus="if(this.blur)this.blur()" id="sNav">Awards</a></li>  
-						<li><a href="http://www.vizu.com/polls-list.html?c=3&amp;s=66" onfocus="if(this.blur)this.blur()" id="sNav">Books / Literature</a></li>  
-    					<li><a href="http://www.vizu.com/Entertainment/Other/polls-list.html?c=3&amp;s=3" id="sNavBottom" onfocus="if(this.blur)this.blur()">Other...</a></li>
-    				</ul>
-    			</li>
-            
-                <li><a href="http://www.vizu.com/Business/polls-list.html?c=1" id="sNav" onfocus="if(this.blur)this.blur()">&nbsp;Business</a>
-    				<ul>
-						<li><a href="http://www.vizu.com/Business/Markets/polls-list.html?c=1&amp;s=24" onfocus="if(this.blur)this.blur()" id="sNav">Markets</a></li>  
-						<li><a href="http://www.vizu.com/Business/Companies/polls-list.html?c=1&amp;s=25" onfocus="if(this.blur)this.blur()" id="sNav">Companies</a></li>  
-						<li><a href="http://www.vizu.com/Business/Economy/polls-list.html?c=1&amp;s=26" onfocus="if(this.blur)this.blur()" id="sNav">Economy</a></li>  
-						<li><a href="http://www.vizu.com/Business/Commodities/polls-list.html?c=1&amp;s=27" onfocus="if(this.blur)this.blur()" id="sNav">Commodities</a></li>  
-						<li><a href="http://www.vizu.com/Business/Technology/polls-list.html?c=1&amp;s=28" onfocus="if(this.blur)this.blur()" id="sNav">Technology</a></li>  
-						<li><a href="http://www.vizu.com/Business/Investing/polls-list.html?c=1&amp;s=62" onfocus="if(this.blur)this.blur()" id="sNav">Investing</a></li>  
-    					<li><a href="http://www.vizu.com/Business/Other/polls-list.html?c=1&amp;s=1" id="sNavBottom" onfocus="if(this.blur)this.blur()">Other...</a></li>
-    				</ul>
-    			</li>
-            
-                <li><a href="http://www.vizu.com/Sports/polls-list.html?c=2" id="sNav" onfocus="if(this.blur)this.blur()">&nbsp;Sports</a>
-    				<ul>
-						<li><a href="http://www.vizu.com/Sports/Athletes/polls-list.html?c=2&amp;s=29" onfocus="if(this.blur)this.blur()" id="sNav">Athletes</a></li>  
-						<li><a href="http://www.vizu.com/Sports/NBA/polls-list.html?c=2&amp;s=30" onfocus="if(this.blur)this.blur()" id="sNav">NBA</a></li>  
-						<li><a href="http://www.vizu.com/Sports/NFL/polls-list.html?c=2&amp;s=31" onfocus="if(this.blur)this.blur()" id="sNav">NFL</a></li>  
-						<li><a href="http://www.vizu.com/Sports/MLB/polls-list.html?c=2&amp;s=32" onfocus="if(this.blur)this.blur()" id="sNav">MLB</a></li>  
-						<li><a href="http://www.vizu.com/Sports/NHL/polls-list.html?c=2&amp;s=33" onfocus="if(this.blur)this.blur()" id="sNav">NHL</a></li>  
-						<li><a href="http://www.vizu.com/Sports/Golf/polls-list.html?c=2&amp;s=34" onfocus="if(this.blur)this.blur()" id="sNav">Golf</a></li>  
-						<li><a href="http://www.vizu.com/Sports/College/polls-list.html?c=2&amp;s=35" onfocus="if(this.blur)this.blur()" id="sNav">College</a></li>  
-						<li><a href="http://www.vizu.com/Sports/International/polls-list.html?c=2&amp;s=36" onfocus="if(this.blur)this.blur()" id="sNav">International</a></li>  
-						<li><a href="http://www.vizu.com/Sports/Soccer/polls-list.html?c=2&amp;s=241" onfocus="if(this.blur)this.blur()" id="sNav">Soccer</a></li>  
-						<li><a href="http://www.vizu.com/Sports/Cycling/polls-list.html?c=2&amp;s=281" onfocus="if(this.blur)this.blur()" id="sNav">Cycling</a></li>  
-    					<li><a href="http://www.vizu.com/Sports/Other/polls-list.html?c=2&amp;s=2" id="sNavBottom" onfocus="if(this.blur)this.blur()">Other...</a></li>
-    				</ul>
-    			</li>
-            
-                <li><a href="http://www.vizu.com/Grab-bag/polls-list.html?c=5" id="sNav" onfocus="if(this.blur)this.blur()">&nbsp;Grab-bag</a>
-    				<ul>
-						<li><a href="http://www.vizu.com/polls-list.html?c=5&amp;s=48" onfocus="if(this.blur)this.blur()" id="sNav">Shopping / Products</a></li>  
-						<li><a href="http://www.vizu.com/Grab-bag/Travel/polls-list.html?c=5&amp;s=49" onfocus="if(this.blur)this.blur()" id="sNav">Travel</a></li>  
-						<li><a href="http://www.vizu.com/Grab-bag/Food/polls-list.html?c=5&amp;s=50" onfocus="if(this.blur)this.blur()" id="sNav">Food</a></li>  
-						<li><a href="http://www.vizu.com/Grab-bag/Hot+or+not/polls-list.html?c=5&amp;s=51" onfocus="if(this.blur)this.blur()" id="sNav">Hot or not</a></li>  
-						<li><a href="http://www.vizu.com/Grab-bag/Fashion/polls-list.html?c=5&amp;s=65" onfocus="if(this.blur)this.blur()" id="sNav">Fashion</a></li>  
-						<li><a href="http://www.vizu.com/polls-list.html?c=5&amp;s=61" onfocus="if(this.blur)this.blur()" id="sNav">Health / Medicine</a></li>  
-						<li><a href="http://www.vizu.com/Grab-bag/Personal+Matters/polls-list.html?c=5&amp;s=63" onfocus="if(this.blur)this.blur()" id="sNav">Personal Matters</a></li>  
-						<li><a href="http://www.vizu.com/Grab-bag/Relationships/polls-list.html?c=5&amp;s=64" onfocus="if(this.blur)this.blur()" id="sNav">Relationships</a></li>  
-						<li><a href="http://www.vizu.com/Grab-bag/Education/polls-list.html?c=5&amp;s=68" onfocus="if(this.blur)this.blur()" id="sNav">Education</a></li>  
-						<li><a href="http://www.vizu.com/polls-list.html?c=5&amp;s=67" onfocus="if(this.blur)this.blur()" id="sNav">Family / Parenting</a></li>  
-						<li><a href="http://www.vizu.com/Grab-bag/Recreation/polls-list.html?c=5&amp;s=69" onfocus="if(this.blur)this.blur()" id="sNav">Recreation</a></li>  
-						<li><a href="http://www.vizu.com/Grab-bag/Hobbies/polls-list.html?c=5&amp;s=70" onfocus="if(this.blur)this.blur()" id="sNav">Hobbies</a></li>  
-						<li><a href="http://www.vizu.com/Grab-bag/Vizu+related/polls-list.html?c=5&amp;s=81" onfocus="if(this.blur)this.blur()" id="sNav">Vizu related</a></li>  
-						<li><a href="http://www.vizu.com/Grab-bag/Religion/polls-list.html?c=5&amp;s=101" onfocus="if(this.blur)this.blur()" id="sNav">Religion</a></li>  
-    					<li><a href="http://www.vizu.com/Grab-bag/Other/polls-list.html?c=5&amp;s=5" id="sNavBottom" onfocus="if(this.blur)this.blur()">Other...</a></li>
-    				</ul>
-    			</li>
-			<li><a id="sNavSeperator">----------------------------</a></li>
-			<li><a href="http://www.vizu.com/whats-hot.html?w=most-votes" id="sNavBottom" onfocus="if(this.blur)this.blur()">What's Hot</a>
-				<ul>
-					<li><a href="http://www.vizu.com/whats-hot.html?w=most-votes" id="sNav" onfocus="if(this.blur)this.blur()">Most Votes</a></li>
-					<li><a href="http://www.vizu.com/whats-hot.html?w=new-polls" id="sNav" onfocus="if(this.blur)this.blur()">New Polls</a></li>
-					<li><a href="http://www.vizu.com/whats-hot.html?w=growing" id="sNav" onfocus="if(this.blur)this.blur()">Fastest Growing</a></li>
-					<li><a href="http://www.vizu.com/whats-hot.html?w=emailed" id="sNavBottom" onfocus="if(this.blur)this.blur()">Most E-mailed</a></li>
-				</ul>
-			</li>
-		</ul>
-	</li>
-	<!-- Community -->
-     <script language="JavaScript1.2" type="text/javascript">
-    if (pageLocation == 'community') {
-        document.write('<li><a id="tNavOn" style="cursor:default">Community</a>');
-    } else {
-        document.write('<li><a id="tNav" style="cursor:default">Community</a>');
-   }
-    </script><li><a id="tNav" style="cursor:default">Community</a>
-		<ul>
-			<li><a href="http://www.vizu.com/leader-board.html?page=pollster" id="sNav" onfocus="if(this.blur)this.blur()">Leader Board</a></li>
-  	 		<li><a href="http://www.vizu.com/leader-board.html?page=pollster" id="sNav" onfocus="if(this.blur)this.blur()">&nbsp;Polling Leaders</a>
-    			<ul>
-     				<li><a href="http://www.vizu.com/leader-board.html?page=pollster" id="sNav" onfocus="if(this.blur)this.blur()">Best Pollster</a></li>
-     				<li><a href="http://www.vizu.com/leader-board.html?page=mostpopular" id="sNav" onfocus="if(this.blur)this.blur()">Most Popular</a></li>
-					<li><a href="http://www.vizu.com/leader-board.html?page=prolific" id="sNavBottom" onfocus="if(this.blur)this.blur()">Most Prolific</a></li>
-					<!-- li><a href="http://www.vizu.com/leader-board.html?page=quality" id="sNav">Best Quality</a></li >
-					<li><a href="http://www.vizu.com/leader-board.html?page=consistent" id="sNavBottom">Most Consistent</a></li-->
-   				 </ul>
-  			 </li>
-   			<li><a href="http://www.vizu.com/leader-board.html?page=active" id="sNav" onfocus="if(this.blur)this.blur()">&nbsp;Voting Leaders</a></li>
-			<li><a id="sNavSeperator">----------------------------</a></li>
-			<li><a href="http://www.vizu.com/content-partners.html" id="sNav" onfocus="if(this.blur)this.blur()">Content Partners</a></li>
-			<li><a href="http://vizu.typepad.com/vizuble" target="_blank" id="sNavBottom" onfocus="if(this.blur)this.blur()">Vizu Blog</a></li>
-   			
+			<li><a href="http://www.vizu.com/all/polls/new-polls-list.html?sort=1&amp;voteStatus=0&amp;newest=1" id="sNav" onfocus="if(this.blur)this.blur()">Newest Polls</a></li>
+            <li><a href="http://www.vizu.com/Current+Events/polls-list.html?c=4" id="sNav" onfocus="if(this.blur)this.blur()">&nbsp;Current Events</a></li>
+            <li><a href="http://www.vizu.com/Entertainment/polls-list.html?c=3" id="sNav" onfocus="if(this.blur)this.blur()">&nbsp;Entertainment</a></li>
+            <li><a href="http://www.vizu.com/Business/polls-list.html?c=1" id="sNav" onfocus="if(this.blur)this.blur()">&nbsp;Business</a></li>
+            <li><a href="http://www.vizu.com/Sports/polls-list.html?c=2" id="sNav" onfocus="if(this.blur)this.blur()">&nbsp;Sports</a></li>
+            <li><a href="http://www.vizu.com/Grab-bag/polls-list.html?c=5" id="sNav" onfocus="if(this.blur)this.blur()">&nbsp;Grab-bag</a></li>
 		</ul>
 	</li>
 	<!-- My Vizu -->
@@ -277,26 +132,17 @@
    }
     </script><li><a id="tNav" style="cursor:default">My Vizu</a>
 		<ul>
-			<li><a href="http://www.vizu.com/myvizu-history.html" id="sNav" onfocus="if(this.blur)this.blur()">History</a></li>
   	 		<li><a href="http://www.vizu.com/myvizu-mypolls.html" id="sNav" onfocus="if(this.blur)this.blur()">My Polls</a></li>
    			<li><a href="http://www.vizu.com/myvizu-profile-view.html" id="sNav" onfocus="if(this.blur)this.blur()">Profile</a></li>
-   			<li><a href="http://www.vizu.com/myvizu-favorites.html" id="sNav" onfocus="if(this.blur)this.blur()">My Favorites</a></li>
-            
-			<li><a href="http://www.vizu.com/myvizu-subscriptions.html?referrer=%2fpolicy.html" id="sNav" onfocus="if(this.blur)this.blur()">Subscriptions</a></li>
-			<li><a href="http://www.vizu.com/myvizu-email.html" id="sNav" onfocus="if(this.blur)this.blur()">Email Address Book</a></li>
-			<li><a href="http://www.vizu.com/myvizu-preferences.html" id="sNavBottom" onfocus="if(this.blur)this.blur()">Preferences</a></li>
+			<li><a href="http://www.vizu.com/myvizu-preferences.html" id="sNav" onfocus="if(this.blur)this.blur()">Preferences</a></li>
+            <li><a href="http://www.vizu.com/myvizu-email.html" id="sNav" onfocus="if(this.blur)this.blur()">Email Address Book</a></li>
 		</ul>
 	</li>
 </ul>
 
 </div>
-<script type="text/javascript" language="JavaScript1.2">
-// Fixes Firefox display 
- if (pageLocation != 'home'){
-    document.write("<table cellpadding='0' cellspacing='0' border='0' style='width: 100%; height: 100%'><tr><td valign='top'")
-}
-</script><table cellpadding="0" cellspacing="0" border="0" style="width: 100%; height: 100%"><tbody><tr><td valign="top" <!--="" start="" of="" page="" content="" --="">
-
+<br clear="all">
+            <!-- START OF PAGE CONTENT -->
 
 <table cellpadding="0" cellspacing="0" class="myvizu-table">
 <tbody><tr>
@@ -717,19 +563,15 @@ This policy was last updated on July 1, 2005.</p>
     </td>
 </tr>
 </tbody></table>
-<!-- END OF PAGE CONTENT -->
-<script type="text/javascript" language="JavaScript1.2">
-// Fixes Firefox display 
- if (pageLocation != 'home'){
-    document.write(" </td></tr></table>")
-}
-</script> </td></tr></tbody></table>         	
-<div id="footer">
-	<div id="footerContent"><a href="vizu-help.html" class="purple">Help</a> |  <a href="contact-us.html;jsessionid=144C8B2C256F7B27C28B830681AB59F8?referrer=%2fpolicy.html" class="purple">Contact Us</a> |  <a href="terms.html" class="purple">Terms of Service</a> |  <a href="policy.html" class="purple">Privacy Policy</a> |  <a href="feedback.html;jsessionid=144C8B2C256F7B27C28B830681AB59F8?referrer=%2fpolicy.html" class="purple">Feedback</a> |  <a href="about.html" class="purple">About Vizu</a> |  <a href="why-signup.html" class="purple">Why Sign Up?</a> |  <a href="http://answers.vizu.com" class="purple">Market Research</a><br>
-		<div style="margin: 10px 0 5px 0; text-align: center;"><span class="textBlk33">Copyright © 2006 Vizu Corp.</span></div>
-	</div>
+        <!-- END OF PAGE CONTENT -->        	
+        <div id="footer">
+                    <a href="contact-us.html?referrer=%2f%2fpolicy.html" class="purple">Contact Us</a> &nbsp;|&nbsp;  <a href="terms.html" class="purple">Terms of Service</a> &nbsp;|&nbsp;  <a href="policy.html" class="purple">Privacy Policy</a> &nbsp;|&nbsp; <a href="http://answers.vizu.com/market-research.htm" class="purple" target="_blank">Market Research</a><br>
+                    <div style="margin: 7px 0 0px 0; text-align: center;"><a href="http://www.vizuble.com" class="purple" target="_blank">Public Opinion Polls</a> &nbsp;|&nbsp; <a href="http://www.marketresearchdaily.com" class="purple" target="_blank">Market Research Daily</a> &nbsp;|&nbsp; <a href="http://www.facebookpolls.com" class="purple" target="_blank">Free Facebook Polls</a></div>
+        		<div style="margin: 10px 0 5px 0; text-align: center;"><span class="textBlk33">Copyright © 2007 Vizu Corp.</span></div>
+        </div>
+    </div>
 </div>
-	
+
 <script type="text/javascript">
             document.write('<'
                         + 'script type="text/javascript" src="'
@@ -739,10 +581,10 @@ This policy was last updated on July 1, 2005.</p>
                         + '&c='+escape(document.cookie)
                         + '&fp=.vizu.com'
                         + '"></'+'script>');
-</script><script type="text/javascript" src="https://stats4.clicktracks.com/cgi-bin/ctasp-server.cgi?i=zRReCDbjinJqZS&amp;c=WT_FPC%3Did%3D22a3cf44ad27e04126f1580412677727%3Alv%3D1580412677727%3Ass%3D1580412677727&amp;fp=.vizu.com"></script><noscript><img src="https://stats4.clicktracks.com/cgi-bin/ctasp-server.cgi?i=zRReCDbjinJqZS&g=1" alt="Web Analytics" border=0></noscript>
+</script><script type="text/javascript" src="https://stats4.clicktracks.com/cgi-bin/ctasp-server.cgi?i=zRReCDbjinJqZS&amp;c=WT_FPC%3Did%3D21f8b16577d176f06f81582115280572%3Alv%3D1582115280572%3Ass%3D1582115280572&amp;fp=.vizu.com"></script><noscript><img src="https://stats4.clicktracks.com/cgi-bin/ctasp-server.cgi?i=zRReCDbjinJqZS&g=1" alt="Web Analytics" border=0></noscript>
 
 
-    
+
 <!-- START OF SDC Advanced Tracking Code -->
 <!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
 <!-- V8.0 -->
@@ -1133,6 +975,13 @@ dcsTag();
 </noscript>
 <!-- END OF SmartSource Data Collector  TAG -->	
 
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-373323-5";
+urchinTracker();
+</script>
 
 	
 </body></html>
