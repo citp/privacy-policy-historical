@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deviantart.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231130213id_/http%3A//about.deviantart.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deviantart.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625071732id_/http%3A//about.deviantart.com/policy/privacy) for the most accurate reproduction.*
 
 # deviantART: Privacy Policy
 
