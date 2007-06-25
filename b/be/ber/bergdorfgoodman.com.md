@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bergdorfgoodman.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019173041id_/http%3A//www.bergdorfgoodman.com/category/assistance/service/security.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bergdorfgoodman.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625173740id_/http%3A//www.bergdorfgoodman.com/category/assistance/service/security.jhtml) for the most accurate reproduction.*
 
-# BergdorfGoodman.com
+# Bergdorf Goodman - World-renowned fashion, plus exclusive beauty brands
 
 **Security**   
 Personal information provided on the Web Site and online credit card transactions are transmitted through a secure server using Secure Socket Layering (SSL), encryption technology. When the letters "http" in the URL change to "https," the "s" indicates you are in a secure area employing SSL; also, your browser may give you a pop-up message that you're about to enter a secure area. 
@@ -16,7 +16,7 @@ We have posted this privacy policy in order to explain our information collectio
 
 As we continue to develop our Web site and take advantage of advances in technology to improve the services we offer, this privacy policy likely will change. We therefore encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. 
 
-If you have a Neiman Marcus or Bergdorf Goodman credit card, click to review Neiman Marcus or Bergdorf Goodman Credit Card privacy statement online. 
+If you have a Neiman Marcus or Bergdorf Goodman credit card, click to [review Neiman Marcus or Bergdorf Goodman Credit Card privacy statement](https://web.archive.org/category/co/catfilter/javascript:popUp\('/category/ccapplication/agreement/privacy_policy.html',555,450,'yes'\);jsessionid=3D1HPFFR2QRX2CQAAKMRPWA;) online. 
 
 This Privacy Policy was last updated on August 3, 2005. 
 
