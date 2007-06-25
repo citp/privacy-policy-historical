@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tunecore.com privacy policy that was archived on 2006-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061122204233id_/http%3A//www.tunecore.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tunecore.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625030621id_/http%3A//www.tunecore.com/index/privacy) for the most accurate reproduction.*
 
 # TuneCore: Privacy Policy
 
@@ -58,7 +58,7 @@ You can set your browser to notify you when a cookie is enabled, allowing you th
 
 Many Web sites gather certain information automatically and store it in log files, including things like your internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. TuneCore may also enable this technology for use in ways that are commonly accepted within the on-line community.
 
-In the event TuneCore launches community-based services such as message boards, blogs, instant messaging and other similar services, **you are solely responsible for any content you post there, including, but not limited to, any personal information you choose to reveal in these public forums. In using any of these services, you agree that you will not use the services for any purpose that is unlawful or in violation of our[Terms and Conditions](https://web.archive.org/index/t_and_c)**.
+In the event TuneCore launches community-based services such as message boards, blogs (we do have a blog now: [http://tunecore.typepad.com](http://tunecore.typepad.com/), come visit us!), instant messaging and other similar services, **you are solely responsible for any content you post there, including, but not limited to, any personal information you choose to reveal in these public forums. In using any of these services, you agree that you will not use the services for any purpose that is unlawful or in violation of our[Terms and Conditions](https://web.archive.org/index/t_and_c)**.
 
 It is possible that at some time TuneCore might link to other Sites. If we do, and you choose to go to these other site, **please be aware that site man not be affiliated with TuneCore and will not be subject to the TuneCore privacy policy**. We encourage you to carefully review their respective privacy policies and ask questions directly of them in this regard.
 
