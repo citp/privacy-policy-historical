@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timesnow.tv privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206000459id_/http%3A//timesnow.tv/corplisting/1349278.cms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesnow.tv privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625083837id_/http%3A//timesnow.tv/corplisting/1349278.cms) for the most accurate reproduction.*
 
 # TIMES NOW.tv
 
