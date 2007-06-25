@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the katu.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205231903id_/http%3A//www.katu.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the katu.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625150650id_/http%3A//www.katu.com/about/privacy) for the most accurate reproduction.*
 
-# KATU - Portland, Oregon - KATU Privacy Policy
+# KATU - Portland, Oregon | KATU Privacy Policy
 
-Story Published: Aug 25, 2006 at 1:22 PM PST 
+Story Published: Aug 25, 2006 at 1:22 PM PDT 
 
-Story Updated: Sep 8, 2006 at 6:09 PM PST 
+Story Updated: Sep 8, 2006 at 6:09 PM PDT 
 
 This Privacy Policy governs the use and collection of information that katutv.com its affiliates, partners, advertisers, agents, related companies and service providers (collectively, "we," "our" or the "website") obtain from you while you are visiting our web site (the "Site"). 
 
@@ -86,33 +86,36 @@ This Privacy Policy is effective as of August 1, 2006.
 
 | 
 
-Current Temp  46 °F 
+[ ](https://web.archive.org/younews "YouNewsTV - Submit Your Local News")
+
+Current Temp  52 °F 
 
 Mostly Cloudy 
 
-Wind : North at 
+Wind : South at 
 
-NA mph 
+3.45 mph 
 
-Humidity : 77 % 
+Humidity : 80 % 
 
-Pressure : 30.27 in 
+Pressure : 30.28 in 
 
 [More Weather](https://web.archive.org/weather)
 
 Portland to Interstate Bridge (I-5)  
-Travel Time: 13 Min
+Travel Time: 7 Min
 
-## TRAFFIC ALERTS
+## KATU NOTICE
 
-A fatal crash is affecting traffic at S.E. 82nd Avenue at Boyer. 
-
-Beaverton-Hillsdale Highway is closed between S.W. 30th and S.W. 45th due to a water main break. Crews estimate it will take six hours to repair the break.  
-[**Jet 2 video**](http://www.katu.com/home/video/4831726.html?video=YHI&t=a)
+Non-cable viewers in The Dalles can now watch KATU on Channel 18.
 
 [](https://web.archive.org/home/ondemand/video "Video")
 
-Latest news video and See It To Believe It clips.
+Latest news video from KATU.com.
+
+[](http://www.katu.com/home/ondemand/6223586.html "Watch ABC Shows")
+
+Watch ABC shows and ABC News online, free!
 
 [](http://www.katu.com/home/ondemand/3594851.html "KATU News Alerts")
 
@@ -121,10 +124,6 @@ News Alerts sent to your desktop or mobile device.
 [](http://www.katu.com/home/ondemand/3585846.html "Mobile")
 
 News on the go for your cell phones or PDA.
-
-[](http://www.katu.com/home/ondemand/3585451.html "Podcasts")
-
-Audio and Video Podcasts for your media player.
 
 [](http://www.katu.com/home/ondemand/3594581.html "RSS/XML")[](http://www.katu.com/home/ondemand/3594581.html)
 
