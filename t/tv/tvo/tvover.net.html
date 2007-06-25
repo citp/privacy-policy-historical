@@ -1,27 +1,34 @@
-<!--The following is the downloaded HTML source of the tvover.net privacy policy that was archived on 2006-10-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061005042813id_/http%3A//www.tvover.net/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tvover.net privacy policy that was archived on 2007-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070625085142id_/http%3A//www.tvover.net/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<title>Privacy Policy | TVover.net</title>
-<link rel="stylesheet" type="text/css" href="themes/boom/base.css">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>Privacy Policy - TVover.net</title>
+<link rel="stylesheet" type="text/css" href="/themes/boom/base.css" media="screen, print">
+<link rel="stylesheet" type="text/css" href="/themes/boom/lightbox.css" media="screen">
 <meta name="Description" content="IPTV news, business reports, forum, and Internet TV directory, by TVover.net. Core topics include IPTV software, hardware, service providers, set-top boxes, and events.">
 <meta name="Keywords" content="iptv forums,iptv message board,tvover.net,iptv service providers,ip tv,internet tv stations,IPTV,Internet TV,Internet Protocol TV,Microsoft TV,iptv news,television,mobile tv,broadband TV,digital tv, interactive tv">
 <link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/tvovernet">
 <link rel="shortcut icon" href="http://www.tvover.net/favicon.ico">
-<link rel="icon" href="http://www.tvover.net/favicon.ico"> 
+<link rel="icon" href="http://www.tvover.net/favicon.ico">
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
 _uacct = "UA-173017-1";
 urchinTracker();
 </script>
-</head>
+<script src="/js/prototype.js" type="text/javascript"></script>
+<script src="/js/scriptaculous.js?load=effects" type="text/javascript"></script>
+<script src="/js/lightbox.js" type="text/javascript"></script>
+<link rel="alternate" type="application/rss+xml" title="TVover.net" href="http://feeds.feedburner.com/tvovernet">
+<link rel="alternate" type="application/atom+xml" title="TVover.net" href="http://feeds.feedburner.com/tvovernet">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.tvover.net/EditService.asmx/GetRsd"><link rel="microsummary" type="application/x.microsummary+xml" href="http://www.tvover.net/Microsummary.ashx"></head>
 
 <body><form name="mainForm" method="post" action="/PrivacyPolicy.aspx" id="mainForm">
-<input type="hidden" name="__VIEWSTATE" value="dDwyMzg1MDkwODQ7dDw7bDxpPDA+Oz47bDx0PDtsPGk8Mz47PjtsPHQ8O2w8aTw1Pjs+O2w8dDw7bDxpPDE+Oz47bDx0PHA8bDx2YWx1ZTs+O2w8U2VhcmNoOz4+Ozs+Oz4+Oz4+Oz4+Oz4+Oz4Xe6oWvWMAafZVvC2x41KasomrWQ==">
-	<script type="text/javascript">
-var ct_img_expanded = 'images/outlinedown.gif';
-var ct_img_collapsed = 'images/outlinearrow.gif';
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMjcyNzcyNjQ3ZGRiGnVyDHrTJ9MYq/nTokPJlMgmRg==">
+
+<script type="text/javascript">
+var ct_img_expanded = 'http://www.tvover.net/images/outlinedown.gif';
+var ct_img_collapsed = 'http://www.tvover.net/images/outlinearrow.gif';
 (new Image(15,15)).src = ct_img_expanded; // caching
 (new Image(15,15)).src = ct_img_collapsed; // caching
 
@@ -53,9 +60,7 @@ function ct_toggleExpansionStatus(htmlNode,imgNode) {
 		ct_Collapse(htmlNode,imgNode);
 	}
 }
-</script>
-
-	<style type="text/css">
+</script><style type="text/css">
 /* Class for expanded nested outlines */
 .categoryListExpanded 
 {
@@ -72,117 +77,41 @@ function ct_toggleExpansionStatus(htmlNode,imgNode) {
 }
 </style>
 
-	<script type="text/javascript">
-/* http://www.kryogenix.org/code/browser/searchhi/ */
-/* Modified 20021006 to fix query string parsing and add case insensitivity */
-function highlightWord(node,word) {
-	// Iterate into this nodes childNodes
-	if (node.hasChildNodes) {
-		var hi_cn;
-		for (hi_cn=0;hi_cn<node.childNodes.length;hi_cn++) {
-			highlightWord(node.childNodes[hi_cn],word);
-		}
-	}
-	
-	// And do this node itself
-	if (node.nodeType == 3) { // text node
-		tempNodeVal = node.nodeValue.toLowerCase();
-		tempWordVal = word.toLowerCase();
-		if (tempNodeVal.indexOf(tempWordVal) != -1) {
-			pn = node.parentNode;
-			if (pn.className != "searchword") {
-				// word has not already been highlighted!
-				nv = node.nodeValue;
-				ni = tempNodeVal.indexOf(tempWordVal);
-				// Create a load of replacement nodes
-				before = document.createTextNode(nv.substr(0,ni));
-				docWordVal = nv.substr(ni,word.length);
-				after = document.createTextNode(nv.substr(ni+word.length));
-				hiwordtext = document.createTextNode(docWordVal);
-				hiword = document.createElement("span");
-				hiword.className = "searchword";
-				hiword.appendChild(hiwordtext);
-				pn.insertBefore(before,node);
-				pn.insertBefore(hiword,node);
-				pn.insertBefore(after,node);
-				pn.removeChild(node);
-			}
-		}
-	}
-}
-
-function googleSearchHighlight() {
-	if (!document.createElement) return;
-	ref = document.referrer;
-	if (ref.indexOf('?') == -1 || ref.indexOf('http://www.tvover.net/') != -1)
-	{
-		if (document.location.href.indexOf('PermaLink') != -1) {
-			if (ref.indexOf('SearchView.aspx') == -1) return;
-		}
-		else {
-		//Added by Scott Hanselman
-		ref = document.location.href;
-		if (ref.indexOf('?') == -1) return;
-		}
-	}
-	qs = ref.substr(ref.indexOf('?')+1);
-	qsa = qs.split('&');
-	for (i=0;i<qsa.length;i++) {
-		qsip = qsa[i].split('=');
-	        if (qsip.length == 1) continue;
-        	if (qsip[0] == 'q' || qsip[0] == 'p') { // q= for Google, p= for Yahoo
-			words = unescape(qsip[1].replace(/\+/g,' ')).split(/\s+/);
-	                for (w=0;w<words.length;w++) {
-				highlightWord(document.getElementsByTagName("body")[0],words[w]);
-                	}
-	        }
-	}
-}
-
-window.onload = googleSearchHighlight;
-</script>
-
-	<style type="text/css">.searchword {
-    background-color: yellow;
-}</style>
-
-
-
 <a name="#homeTop"></a>
 <div id="wrapper">
 <div id="header">
-
+ 
 	<div id="banner">
-		<a href="http://www.tvover.net/"><img src="/themes/boom/Images/NETTVHeader.gif" vspace="6" height="62" border="0" alt="IPTV news and business reports" title="IPTV news and business reports"></a></div>
+		<a href="http://www.tvover.net/"><img src="/themes/boom/Images/tvovernet_logo.gif" widthh="360" height="90" border="0" alt="IPTV news and business reports" title="IPTV news and business reports"></a></div>
 	<div id="search"><!-- google_ad_section_start(weight=ignore) -->
 <iframe src="http://www.tvover.net/AdServer/abmw.aspx?z=1&amp;isframe=true&amp;autorotate=true" width="468" height="60" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
 <!-- google_ad_section_end --></div>
 </div>
 <div id="navigation"><div class="navigatorLinksContainerStyle"><table class="navigatorLinksTableStyle" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr><td class="navigatorLinksCellStyle" onmouseover="this.style.backgroundColor='#339933'" ;="" onmouseout="this.style.backgroundColor='#006633'"><a class="navigatorLinksLinkStyle" href="default.aspx">IPTV News</a></td>
-<td class="navigatorLinksCellStyle" onmouseover="this.style.backgroundColor='#339933'" ;="" onmouseout="this.style.backgroundColor='#006633'"><a class="navigatorLinksLinkStyle" href="ServiceProvider.aspx">IPTV Service Providers</a></td>
-<td class="navigatorLinksCellStyle" onmouseover="this.style.backgroundColor='#339933'" ;="" onmouseout="this.style.backgroundColor='#006633'"><a class="navigatorLinksLinkStyle" href="TVStation.aspx">Internet&nbsp;TV</a></td>
-<td class="navigatorLinksCellStyle" onmouseover="this.style.backgroundColor='#339933'" ;="" onmouseout="this.style.backgroundColor='#006633'"><a class="navigatorLinksLinkStyle" href="http://www.tvover.net/IPTV+Events+Calendar.aspx">IPTV Events Calendar</a></td>
-<td class="navigatorLinksCellStyle" onmouseover="this.style.backgroundColor='#339933'" ;="" onmouseout="this.style.backgroundColor='#006633'"><a class="navigatorLinksLinkStyle" href="http://www.tvover.net/IPTV+Jobs.aspx">IPTV Jobs</a></td>
-<td class="navigatorFeedCellStyle" onmouseover="this.style.backgroundColor='#339933'" ;="" onmouseout="this.style.backgroundColor='#006633'"><a class="navigatorLinksLinkStyle" href="http://www.tvover.net/IPTV+Books+And+Related+Technologies.aspx">IPTV Books</a></td>
+<tbody><tr><td class="navigatorLinksCellStyle" onmouseover="this.style.backgroundColor='#339933'" ;="" onmouseout="this.style.backgroundColor='#006633'"><a class="navigatorLinksLinkStyle" href="/default.aspx">IPTV News</a></td>
+<td class="navigatorLinksCellStyle" onmouseover="this.style.backgroundColor='#339933'" ;="" onmouseout="this.style.backgroundColor='#006633'"><a class="navigatorLinksLinkStyle" href="/ServiceProvider.aspx">IPTV Service Providers</a></td>
+<td class="navigatorLinksCellStyle" onmouseover="this.style.backgroundColor='#339933'" ;="" onmouseout="this.style.backgroundColor='#006633'"><a class="navigatorLinksLinkStyle" href="/TVStation.aspx">Internet&nbsp;TV</a></td>
+<td class="navigatorLinksCellStyle" onmouseover="this.style.backgroundColor='#339933'" ;="" onmouseout="this.style.backgroundColor='#006633'"><a class="navigatorLinksLinkStyle" href="/IPTV+Events+Calendar.aspx">IPTV Events Calendar</a></td>
+<td class="navigatorLinksCellStyle" onmouseover="this.style.backgroundColor='#339933'" ;="" onmouseout="this.style.backgroundColor='#006633'"><a class="navigatorLinksLinkStyle" href="/IPTV+Products+Solutions.aspx">IPTV Products</a></td>
+<td class="navigatorLinksCellStyle" onmouseover="this.style.backgroundColor='#339933'" ;="" onmouseout="this.style.backgroundColor='#006633'"><a class="navigatorLinksLinkStyle" href="/IPTV+Jobs.aspx">IPTV Jobs</a></td>
+<td class="navigatorFeedCellStyle" onmouseover="this.style.backgroundColor='#339933'" ;="" onmouseout="this.style.backgroundColor='#006633'"><a class="navigatorLinksLinkStyle" href="/IPTV+Books+And+Related+Technologies.aspx">IPTV Books</a></td>
 </tr></tbody></table></div></div>
 <div id="subnavigation"><table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#339933">
-<tbody><tr><td align="right" style="line-height: 20px; color: white"><a class="navigatorLinksLinkStyle" href="contact.aspx">Contact</a>&nbsp;|&nbsp;<a class="navigatorLinksLinkStyle" href="Advertise.aspx">Advertise</a>&nbsp;|&nbsp;<a class="navigatorLinksLinkStyle" href="About.aspx">About</a>&nbsp;&nbsp;</td>
+<tbody><tr><td align="right" style="line-height: 20px; color: white"><a class="navigatorLinksLinkStyle" href="/contact.aspx">Contact</a>&nbsp;|&nbsp;<a class="navigatorLinksLinkStyle" href="/Advertise.aspx">Advertise</a>&nbsp;|&nbsp;<a class="navigatorLinksLinkStyle" href="/About.aspx">About</a>&nbsp;&nbsp;</td>
 </tr></tbody></table></div>
 <!-- BEGIN content -->
 <div id="content">
 <div id="ads">
 		<div class="column">
 			<div class="side">
-<div class="sideheader">Request for our Readers </div>
-Please take a moment to fill out a <b><a href="http://www.tvover.net/Survey/Readers.html">short poll</a></b> (only 8 questions) to help us at TVover.net better understand you, our readers.
+<script language="JavaScript" src="http://www.tvover.net/AdServer/abm.aspx?z=7"></script>
 <br><br>
 <script type="text/javascript"><!--
 google_ad_client = "pub-2802196279857342";
 google_ad_width = 160;
 google_ad_height = 600;
 google_ad_format = "160x600_as";
-google_ad_type = "text_image";
+google_ad_type = "text";
 google_ad_channel ="2702418522";
 google_color_border = "F2F5FC";
 google_color_bg = "F2F5FC";
@@ -192,18 +121,311 @@ google_color_text = "000000";
 //--></script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
-<br><br>
+<br>
+<script type="text/javascript"><!--
+google_ad_client = "pub-2802196279857342";
+google_ad_width = 160;
+google_ad_height = 600;
+google_ad_format = "160x600_as";
+google_ad_type = "text_image";
+//2007-05-23: TVON 2nd Skyscraper
+google_ad_channel = "5332507155";
+google_color_border = "F2F5FC";
+google_color_bg = "F2F5FC";
+google_color_link = "006633";
+google_color_url = "006633";
+google_color_text = "000000";
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
 </div>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 		</div>
 </div>
+   	<!-- BEGIN #right -->
+	<div id="right">
+		<div class="column">
+			<div align="center" style="padding: 3px"><a href="/Advertise.aspx"><img src="/images/advertise.jpg" border="0" width="174" height="153" alt="Advertise with TVover.net"></a><br></div>
+			<div class="side">
+				<script type="text/javascript">
+					<!--
+google_ad_client = "pub-2802196279857342";
+google_ad_width = 180;
+google_ad_height = 90;
+google_ad_format = "180x90_0ads_al_s";
+google_ad_channel ="5758805204";
+google_color_border = "F2F5FC";
+google_color_link = "006633";
+google_color_bg = "F2F5FC";
+google_color_text = "000000";
+google_color_url = "006633";
+//-->
+				</script>
+				<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+				</script>
+			</div>
+
+			<div class="sideheader">&nbsp;&nbsp;&nbsp;Stay Tuned </div>
+			<div class="side">
+				1. <a href="#">Subscribe to our newsletter</a>
+				<script language="JavaScript">
+					<!-- 
+function subscribe() {
+	window.location="http://www.feedblitz.com/f/?Sub=47754&Email=" + document.getElementById("txtNewsletterEmail").value;
+}
+// -->
+					</script>
+					&nbsp;&nbsp;&nbsp;&nbsp;Enter your Email<br>
+						&nbsp;&nbsp;&nbsp;&nbsp;<input name="txtNewsletterEmail" id="txtNewsletterEmail" maxlength="255" type="text" size="20" value="">
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="button" value="Subscribe me!" onclick="subscribe()">
+<br>
+2. <a href="http://feeds.feedburner.com/Tvovernet" title="Subscribe to TVover.net">Subscribe to our RSS feed</a>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://feeds.feedburner.com/Tvovernet"><img src="http://feeds.feedburner.com/~fc/Tvovernet?bg=339933&amp;fg=000000&amp;anim=0" height="26" width="88" style="border:0" alt=""></a><br>
+3. <a href="javascript:window.external.AddFavorite('http://www.tvover.net/','TVover.net - IPTV and Internet TV news and information')">Bookmark TVover.net</a>	</div>
+			<div class="sideheader">&nbsp;&nbsp;&nbsp;Search </div>
+			<div class="side">
+				
+<script language="javascript">
+<!--
+function escapeString(searchString)
+{
+	//var newString = searchString.replace(/\+/g,"%2B");
+	var newString = escape(searchString);
+	return newString;
+}
+
+function doSearch(searchString)
+{
+	if (searchString != "")
+	{
+          location.href='http://www.tvover.net/googleresults.html?domains=www.tvover.net&sa=Search&sitesearch=www.tvover.net&client=pub-2802196279857342&forid=1&channel=0665758041&ie=UTF-8&oe=UTF-8&safe=active&cof=GALT%3A%23006633%3BGL%3A1%3BDIV%3A%23FFFFFF%3BVLC%3A990000%3BAH%3Acenter%3BBGC%3AFFFFFF%3BLBGC%3A336699%3BALC%3A006633%3BLC%3A006633%3BT%3A000000%3BGFNT%3A990000%3BGIMP%3A990000%3BFORID%3A11&hl=en&q=' + escapeString(searchString);
+	}
+	
+	return false;
+}
+-->
+</script>
+<div class="searchContainerStyle">
+<input id="searchString" onkeypress="if (event.keyCode == 13) {doSearch(searchString.value);return false;}" type="text" class="searchTextBoxStyle">
+<input name="ctl00$googleSearchID" type="button" id="ctl00_googleSearchID" value="Search" language="javascript" onclick="doSearch(searchString.value)" class="searchButtonStyle">
+</div>
+
+					Search for <a href="/TVStation.aspx">Internet TV</a>
+				</div>
+				<div class="sideheader">&nbsp;&nbsp;&nbsp;Spread the Word </div>
+			<div class="side">
+Know others who would find this information useful? <a href="/LinkToUs.aspx">Add our headlines</a> or <a href="/LinkToUs.aspx">link to us</a>.<br></div>
+			<div class="sideheader">&nbsp;&nbsp;&nbsp;News Categories</div>
+			<div class="side">
+				<div class="categoryListContainerStyle"><table class="categoryListTableStyle" border="0">
+	<tbody><tr>
+		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,ATT%2BU-verse.aspx">ATT U-verse</a></td>
+	</tr><tr>
+		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,Broadband%2Bover%2BPowerline.aspx">Broadband over Powerline</a></td>
+	</tr><tr>
+		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,Digital%2BContent%2BCreation%2Band%2BDistribution.aspx">Digital Content Creation and Distribution</a></td>
+	</tr><tr>
+		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,DRM%2Band%2BCA.aspx">DRM and CA</a></td>
+	</tr><tr>
+		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,End-to-End%2BIPTV%2BSolutions.aspx">End-to-End IPTV Solutions</a></td>
+	</tr><tr>
+		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,Game%2Bon%2BDemand.aspx">Game on Demand</a></td>
+	</tr><tr>
+		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,General.aspx">General</a></td>
+	</tr><tr>
+		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,HomePNA.aspx">HomePNA</a></td>
+	</tr><tr>
+		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,Interactive%2BTV.aspx">Interactive TV</a></td>
+	</tr><tr>
+		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,Internet%2BTV.aspx">Internet TV</a></td>
+	</tr><tr>
+		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,Internet%2BTV%2BUpdates.aspx">Internet TV Updates</a></td>
+	</tr><tr>
+		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,Investments.aspx">Investments</a></td>
+	</tr><tr>
+		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,IP%2BEquipment.aspx">IP Equipment</a></td>
+	</tr><tr>
+		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,IP%2BNetworking.aspx">IP Networking</a></td>
+	</tr><tr>
+		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,IP%2BSolutions.aspx">IP Solutions</a></td>
+	</tr><tr>
+		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,IPTV%2BAdvertising%2BSolutions.aspx">IPTV Advertising Solutions</a></td>
+	</tr><tr>
+		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,IPTV%2BBooks.aspx">IPTV Books</a></td>
+	</tr><tr>
+		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,IPTV%2BEvents.aspx">IPTV Events</a></td>
+	</tr><tr>
+		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,IPTV%2BEvents%2BCalendar.aspx">IPTV Events Calendar</a></td>
+	</tr><tr>
+		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,IPTV%2BHeadends.aspx">IPTV Headends</a></td>
+	</tr><tr>
+		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,IPTV%2BHeadlines.aspx">IPTV Headlines</a></td>
+	</tr><tr>
+		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,IPTV%2BJobs.aspx">IPTV Jobs</a></td>
+	</tr><tr>
+		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,IPTV%2BManagement%2BSolutions.aspx">IPTV Management Solutions</a></td>
+	</tr><tr>
+		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,IPTV%2BMiddleware.aspx">IPTV Middleware</a></td>
+	</tr><tr>
+		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,IPTV%2BRegulation.aspx">IPTV Regulation</a></td>
+	</tr><tr>
+		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,IPTV%2BReports.aspx">IPTV Reports</a></td>
+	</tr><tr>
+		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,IPTV%2BService%2BQuality.aspx">IPTV Service Quality</a></td>
+	</tr><tr>
+		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,IPTV%2BSet-Top%2BBoxes.aspx">IPTV Set-Top Boxes</a></td>
+	</tr><tr>
+		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,IPTV%2BStandards.aspx">IPTV Standards</a></td>
+	</tr><tr>
+		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,Media%2BCenter%2BSolutions.aspx">Media Center Solutions</a></td>
+	</tr><tr>
+		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,Mergers%2Band%2BAcquisitions.aspx">Mergers and Acquisitions</a></td>
+	</tr><tr>
+		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,Microsoft%2BIPTV.aspx">Microsoft IPTV</a></td>
+	</tr><tr>
+		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,Mobile%2BTV.aspx">Mobile TV</a></td>
+	</tr><tr>
+		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,Offbeat%2BNews.aspx">Offbeat News</a></td>
+	</tr><tr>
+		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,PVR%2BHardware.aspx">PVR Hardware</a></td>
+	</tr><tr>
+		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,PVR%2BSoftware.aspx">PVR Software</a></td>
+	</tr><tr>
+		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,Satellite%2BIPTV.aspx">Satellite IPTV</a></td>
+	</tr><tr>
+		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,SBC%2BProject%2BLightspeed.aspx">SBC Project Lightspeed</a></td>
+	</tr><tr>
+		<td class="categoryListCellStyle"><div style="padding:0px;margin:0px;">
+			<table class="categoryListNestedOutlineHeaderTableStyle" cellspacing="0" cellpadding="0" border="0">
+				<tbody><tr>
+					<td class="categoryListNestedOutlineBadgeCellStyle"><a></a><a class="categoryListNestedOutlineBadgeStyle" href="javascript:ct_toggleExpansionStatus( 'ctl44_panel', 'ctl44_img' )"><img id="ctl44_img" title="Click to collapse or expand this item" src="http://www.tvover.net/images/outlinedown.gif" border="0"></a>&nbsp;</td><td class="categoryListNestedOutlineTitleCellStyle"><a class="categoryListNestedOutlineTitleStyle" href="http://www.tvover.net/CategoryView,category,Service%2BProviders.aspx">Service Providers</a></td>
+				</tr>
+			</tbody></table><div id="ctl44_panel" class="categoryListExpanded">
+				<div class="categoryListNestedOutlineContainer">
+					<table class="categoryListNestedOutlineBodyTableStyle" cellspacing="0" cellpadding="0" border="0">
+						<tbody><tr>
+							<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,Service%2BProviders%2cAsia%2BIPTV.aspx">Asia IPTV</a></td>
+						</tr><tr>
+							<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,Service%2BProviders%2cEurope%2BIPTV.aspx">Europe IPTV</a></td>
+						</tr><tr>
+							<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,Service%2BProviders%2cNorth%2BAmerica%2BIPTV.aspx">North America IPTV</a></td>
+						</tr><tr>
+							<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,Service%2BProviders%2cSouth%2BAmerica%2BIPTV.aspx">South America IPTV</a></td>
+						</tr>
+					</tbody></table>
+				</div>
+			</div>
+		</div></td>
+	</tr><tr>
+		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,Slingbox.aspx">Slingbox</a></td>
+	</tr><tr>
+		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,Ultra%2BWideband%2B(UWB).aspx">Ultra Wideband (UWB)</a></td>
+	</tr><tr>
+		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,Verizon%2BFiOS.aspx">Verizon FiOS</a></td>
+	</tr><tr>
+		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,Video%2Bon%2BDemand.aspx">Video on Demand</a></td>
+	</tr><tr>
+		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,What%2Bis%2BIPTV.aspx">What is IPTV</a></td>
+	</tr><tr>
+		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,White%2BPapers.aspx">White Papers</a></td>
+	</tr><tr>
+		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,Wi-Fi%2BIPTV.aspx">Wi-Fi IPTV</a></td>
+	</tr><tr>
+		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" rel="tag" href="http://www.tvover.net/CategoryView,category,WiMAX.aspx">WiMAX</a></td>
+	</tr>
+</tbody></table></div> </div>
+
+	<div class="sideheader">&nbsp;&nbsp;&nbsp;Other Sites</div>
+<div class="side">
+<a href="http://www.voipmonitor.net/CategoryView,category,VoIP%2BProviders.aspx" title="VoIP Provider">VoIP Providers</a>
+<br><a href="http://www.iptvinformation.net/">IPTV Information</a>
+<br><a href="http://www.iptvforums.net/">IPTV Forums</a>
+<br><a href="http://www.findinternettv.com/">Internet TV</a>
+</div>
+
+			<div class="sideheader">&nbsp;&nbsp;&nbsp;Archives </div>
+			<div class="side">
+			 	<div class="archiveLinksContainerStyle"><table class="archiveLinksTableStyle" border="0">
+	<tbody><tr>
+		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2007-06.aspx">June, 2007 (70)</a></td>
+	</tr><tr>
+		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2007-05.aspx">May, 2007 (62)</a></td>
+	</tr><tr>
+		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2007-04.aspx">April, 2007 (55)</a></td>
+	</tr><tr>
+		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2007-03.aspx">March, 2007 (86)</a></td>
+	</tr><tr>
+		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2007-02.aspx">February, 2007 (98)</a></td>
+	</tr><tr>
+		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2007-01.aspx">January, 2007 (97)</a></td>
+	</tr><tr>
+		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2006-12.aspx">December, 2006 (53)</a></td>
+	</tr><tr>
+		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2006-11.aspx">November, 2006 (100)</a></td>
+	</tr><tr>
+		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2006-10.aspx">October, 2006 (115)</a></td>
+	</tr><tr>
+		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2006-09.aspx">September, 2006 (167)</a></td>
+	</tr><tr>
+		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2006-08.aspx">August, 2006 (83)</a></td>
+	</tr><tr>
+		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2006-07.aspx">July, 2006 (97)</a></td>
+	</tr><tr>
+		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2006-06.aspx">June, 2006 (160)</a></td>
+	</tr><tr>
+		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2006-05.aspx">May, 2006 (148)</a></td>
+	</tr><tr>
+		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2006-04.aspx">April, 2006 (132)</a></td>
+	</tr><tr>
+		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2006-03.aspx">March, 2006 (162)</a></td>
+	</tr><tr>
+		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2006-02.aspx">February, 2006 (99)</a></td>
+	</tr><tr>
+		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2006-01.aspx">January, 2006 (95)</a></td>
+	</tr><tr>
+		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2005-12.aspx">December, 2005 (76)</a></td>
+	</tr><tr>
+		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2005-11.aspx">November, 2005 (122)</a></td>
+	</tr><tr>
+		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2005-10.aspx">October, 2005 (105)</a></td>
+	</tr><tr>
+		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2005-09.aspx">September, 2005 (122)</a></td>
+	</tr><tr>
+		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2005-08.aspx">August, 2005 (104)</a></td>
+	</tr><tr>
+		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2005-07.aspx">July, 2005 (61)</a></td>
+	</tr><tr>
+		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2005-06.aspx">June, 2005 (104)</a></td>
+	</tr><tr>
+		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2005-05.aspx">May, 2005 (93)</a></td>
+	</tr><tr>
+		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2005-04.aspx">April, 2005 (71)</a></td>
+	</tr><tr>
+		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2005-03.aspx">March, 2005 (50)</a></td>
+	</tr><tr>
+		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2005-02.aspx">February, 2005 (6)</a></td>
+	</tr><tr>
+		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2004-12.aspx">December, 2004 (1)</a></td>
+	</tr>
+</tbody></table></div><br>
+			</div>
+
+			<br><br><br><br><br><br><br><br><br><br><br><br>
+			
+		</div>
+	</div>
+	<!-- END #right -->
 	<!-- BEGIN #left -->
 	<div id="left">
 		<div class="column">
-			
+<div align="center" style="padding:4px"><script language="JavaScript" src="http://www.tvover.net/AdServer/abm.aspx?z=2"></script></div>
 			
 <div class="bodyContentStyle">
 	<p class="bodyTitleStyle">TVover.net Privacy Policy</p>
-	<p>This agreement was last updated on June 8, 2006.
+	<p>This agreement was last updated on December 29, 2006.
 </p><p>TVover.net ("TVover.net" or "we") understands that your privacy is important to you. TVover.net is strongly committed to protecting your privacy and the personal information that you may provide as you access and use the materials on tvover.net (the "Site"). We are committed to making sure that your personal information is correct, that we use your information responsibly, and that we have strict standards of confidentiality and security for your information.
 </p><p> This privacy policy only applies to transactions and activities in which you engage, and data is gathered, on the Site but does not apply to any other web site or offline point of contact between TVover.net, or any other company, and consumers. <b>By visiting this website you agree to be bound by the terms and conditions of this Privacy Statement. </b>If you do not agree please do not use or access our Site.</p>
 <p>
@@ -259,9 +481,10 @@ send us mail to: <br>
 <br>
 Privacy and Security<br>
 TVover.net<br>
-Erzgiessereistr. 19 <br>
-80335 Munich<br>
-Germany<br>
+124 W. Lockwood<br>
+Suite 113 <br>
+St. Louis, MO 63119<br>
+U.S.<br>
 </p></div>
 <br>
 <br>
@@ -271,267 +494,18 @@ Germany<br>
  
 <br><br><br><br><br><br>
 		&nbsp;&nbsp;All brand, company, and product names are trademarks or registered trademarks of their <br>
-		&nbsp;&nbsp;respective owners. © 2006 TVover.net. All rights reserved. <a href="http://www.tvover.net/PrivacyPolicy.aspx">Privacy Policy</a>&nbsp;&nbsp;<a href="http://www.tvover.net/Terms.aspx">Terms</a> 
+		&nbsp;&nbsp;respective owners. © 2007 TVover.net. All rights reserved. <a href="http://www.tvover.net/PrivacyPolicy.aspx">Privacy Policy</a>&nbsp;&nbsp;<a href="http://www.tvover.net/Terms.aspx">Terms</a> 
 		<br><br>
-		&nbsp;&nbsp;Affiliates: <a href="http://www.findinternettv.com/">Internet TV</a>&nbsp;|&nbsp;<a href="http://www.onlinetvvideo.com/">Online TV Video</a>&nbsp;|&nbsp;<a href="http://www.internetTVvideo.com/">Internet TV and Video</a>&nbsp;|&nbsp;<a href="http://www.gotthenerve.com/">Free Online Dating</a></div>
+		<br>
+</div>
 	</div>
 	<!-- END #left -->
-   	<!-- BEGIN #right -->
-	<div id="right">
-		<div class="column">
-			<div align="center" style="padding: 3px">
-				<a href="TVStation.aspx">
-					<img src="/images/Internet-TV-Ad.jpg" border="0" width="184" height="154" alt="Watch Free Internet TV">
-				</a>
-				<br>
-			</div>
-			<div class="side">
-				<script type="text/javascript">
-					<!--
-google_ad_client = "pub-2802196279857342";
-google_ad_width = 180;
-google_ad_height = 90;
-google_ad_format = "180x90_0ads_al_s";
-google_ad_channel ="5758805204";
-google_color_border = "F2F5FC";
-google_color_link = "006633";
-google_color_bg = "F2F5FC";
-google_color_text = "000000";
-google_color_url = "006633";
-//-->
-				</script>
-				<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-				</script>
-			</div>
 
-			<div class="sideheader">&nbsp;&nbsp;&nbsp;Stay Tuned </div>
-			<div class="side">
-				1. <a href="#">Subscribe to our newsletter</a>
-				<script language="JavaScript">
-					<!-- 
-function subscribe() {
-	window.location="http://www.feedblitz.com/f/?Sub=47754&Email=" + document.getElementById("txtNewsletterEmail").value;
-}
-// -->
-					</script>
-					&nbsp;&nbsp;&nbsp;&nbsp;Enter your Email<br>
-						&nbsp;&nbsp;&nbsp;&nbsp;<input name="txtNewsletterEmail" id="txtNewsletterEmail" maxlength="255" type="text" size="20" value="">
-							<br>
-								&nbsp;&nbsp;&nbsp;&nbsp;<input type="button" value="Subscribe me!" onclick="subscribe()">
-									<br>
-										<br>
-											2. <a href="http://feeds.feedburner.com/Tvovernet" title="Subscribe to TVover.net">Subscribe to our RSS feed</a>
-											<br>
-												3. <a href="javascript:window.external.AddFavorite('http://www.tvover.net/','TVover.net - IPTV and Internet TV news and information')">Bookmark TVover.net</a>
-											</div>
-			<div class="sideheader">&nbsp;&nbsp;&nbsp;Search </div>
-			<div class="side">
-				
-<script language="javascript">
-<!--
-function escapeString(searchString)
-{
-	var newString = searchString.replace(/\+/g,"%2B");
-	return newString;
-}
-
-function doSearch(searchString)
-{
-	if (searchString != "")
-	{
-		location.href='SearchView.aspx?q=' + escapeString(searchString);
-	}
-	
-	return false;
-}
--->
-</script>
-<div class="searchContainerStyle">
-<input id="searchString" onkeypress="if (event.keyCode == 13) {doSearch(searchString.value);return false;}" type="text" class="searchTextBoxStyle">
-<input name="_ctl1:Button1" id="_ctl1_Button1" type="button" language="javascript" onclick="doSearch(searchString.value)" class="searchButtonStyle" value="Search">
-</div>
-
-					Search for <a href="TVStation.aspx">Internet TV</a>
-				</div>
-				<div class="sideheader">&nbsp;&nbsp;&nbsp;Spread the Word </div>
-			<div class="side">
-Know others who would find this information useful? <a href="LinkToUs.aspx">Add our headlines</a> or <a href="LinkToUs.aspx">link to us</a>.<br></div>
-			<div class="sideheader">&nbsp;&nbsp;&nbsp;News Categories</div>
-			<div class="side">
-				<div class="categoryListContainerStyle"><table class="categoryListTableStyle" border="0">
-	<tbody><tr>
-		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" href="http://www.tvover.net/CategoryView,category,Broadband%20over%20Powerline.aspx">Broadband over Powerline</a></td>
-	</tr><tr>
-		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" href="http://www.tvover.net/CategoryView,category,Digital%20Content%20Creation%20and%20Distribution.aspx">Digital Content Creation and Distribution</a></td>
-	</tr><tr>
-		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" href="http://www.tvover.net/CategoryView,category,DRM%20and%20CA.aspx">DRM and CA</a></td>
-	</tr><tr>
-		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" href="http://www.tvover.net/CategoryView,category,End-to-End%20IPTV%20Solutions.aspx">End-to-End IPTV Solutions</a></td>
-	</tr><tr>
-		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" href="http://www.tvover.net/CategoryView,category,Game%20on%20Demand.aspx">Game on Demand</a></td>
-	</tr><tr>
-		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" href="http://www.tvover.net/CategoryView,category,General.aspx">General</a></td>
-	</tr><tr>
-		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" href="http://www.tvover.net/CategoryView,category,Interactive%20TV.aspx">Interactive TV</a></td>
-	</tr><tr>
-		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" href="http://www.tvover.net/CategoryView,category,Internet%20TV.aspx">Internet TV</a></td>
-	</tr><tr>
-		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" href="http://www.tvover.net/CategoryView,category,Internet%20TV%20Updates.aspx">Internet TV Updates</a></td>
-	</tr><tr>
-		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" href="http://www.tvover.net/CategoryView,category,IP%20Equipment.aspx">IP Equipment</a></td>
-	</tr><tr>
-		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" href="http://www.tvover.net/CategoryView,category,IP%20Networking.aspx">IP Networking</a></td>
-	</tr><tr>
-		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" href="http://www.tvover.net/CategoryView,category,IP%20Solutions.aspx">IP Solutions</a></td>
-	</tr><tr>
-		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" href="http://www.tvover.net/CategoryView,category,IPTV%20Advertising%20Solutions.aspx">IPTV Advertising Solutions</a></td>
-	</tr><tr>
-		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" href="http://www.tvover.net/CategoryView,category,IPTV%20Books.aspx">IPTV Books</a></td>
-	</tr><tr>
-		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" href="http://www.tvover.net/CategoryView,category,IPTV%20Events.aspx">IPTV Events</a></td>
-	</tr><tr>
-		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" href="http://www.tvover.net/CategoryView,category,IPTV%20Events%20Calendar.aspx">IPTV Events Calendar</a></td>
-	</tr><tr>
-		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" href="http://www.tvover.net/CategoryView,category,IPTV%20Headends.aspx">IPTV Headends</a></td>
-	</tr><tr>
-		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" href="http://www.tvover.net/CategoryView,category,IPTV%20Headlines.aspx">IPTV Headlines</a></td>
-	</tr><tr>
-		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" href="http://www.tvover.net/CategoryView,category,IPTV%20Jobs.aspx">IPTV Jobs</a></td>
-	</tr><tr>
-		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" href="http://www.tvover.net/CategoryView,category,IPTV%20Management%20Solutions.aspx">IPTV Management Solutions</a></td>
-	</tr><tr>
-		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" href="http://www.tvover.net/CategoryView,category,IPTV%20Middleware.aspx">IPTV Middleware</a></td>
-	</tr><tr>
-		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" href="http://www.tvover.net/CategoryView,category,IPTV%20Regulation.aspx">IPTV Regulation</a></td>
-	</tr><tr>
-		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" href="http://www.tvover.net/CategoryView,category,IPTV%20Reports.aspx">IPTV Reports</a></td>
-	</tr><tr>
-		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" href="http://www.tvover.net/CategoryView,category,IPTV%20Service%20Quality.aspx">IPTV Service Quality</a></td>
-	</tr><tr>
-		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" href="http://www.tvover.net/CategoryView,category,IPTV%20Set-Top%20Boxes.aspx">IPTV Set-Top Boxes</a></td>
-	</tr><tr>
-		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" href="http://www.tvover.net/CategoryView,category,IPTV%20Standards.aspx">IPTV Standards</a></td>
-	</tr><tr>
-		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" href="http://www.tvover.net/CategoryView,category,Media%20Center%20Solutions.aspx">Media Center Solutions</a></td>
-	</tr><tr>
-		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" href="http://www.tvover.net/CategoryView,category,Mergers%20and%20Acquisitions.aspx">Mergers and Acquisitions</a></td>
-	</tr><tr>
-		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" href="http://www.tvover.net/CategoryView,category,Microsoft%20TV.aspx">Microsoft TV</a></td>
-	</tr><tr>
-		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" href="http://www.tvover.net/CategoryView,category,Mobile%20TV.aspx">Mobile TV</a></td>
-	</tr><tr>
-		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" href="http://www.tvover.net/CategoryView,category,PVR%20Hardware.aspx">PVR Hardware</a></td>
-	</tr><tr>
-		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" href="http://www.tvover.net/CategoryView,category,PVR%20Software.aspx">PVR Software</a></td>
-	</tr><tr>
-		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" href="http://www.tvover.net/CategoryView,category,Satellite%20IPTV.aspx">Satellite IPTV</a></td>
-	</tr><tr>
-		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" href="http://www.tvover.net/CategoryView,category,SBC%20Project%20Lightspeed.aspx">SBC Project Lightspeed</a></td>
-	</tr><tr>
-		<td class="categoryListCellStyle"><table cellpadding="0" cellspacing="0" border="0" width="100%" style="padding:0px;margin:0px;"><tbody><tr><td>
-			<table class="categoryListNestedOutlineHeaderTableStyle" cellspacing="0" cellpadding="0" border="0">
-				<tbody><tr>
-					<td class="categoryListNestedOutlineBadgeCellStyle"><a class="categoryListNestedOutlineBadgeStyle" href="javascript:ct_toggleExpansionStatus( '_ctl41_panel', '_ctl41_img' )"><img id="_ctl41_img" title="Click to collapse or expand this item" src="images/outlinedown.gif" alt="" border="0"></a>&nbsp;</td><td class="categoryListNestedOutlineTitleCellStyle"><a class="categoryListNestedOutlineTitleStyle" href="http://www.tvover.net/CategoryView,category,Service%20Providers.aspx">Service Providers</a></td>
-				</tr>
-			</tbody></table><table id="_ctl41_panel" class="categoryListExpanded" cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td>
-				<table class="categoryListNestedOutlineContainer" cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td>
-					<table class="categoryListNestedOutlineBodyTableStyle" cellspacing="0" cellpadding="0" border="0">
-						<tbody><tr>
-							<td class="categoryListCellStyle"><a class="categoryListLinkStyle" href="http://www.tvover.net/CategoryView,category,Service%20Providers,Asia%20IPTV.aspx">Asia IPTV</a></td>
-						</tr><tr>
-							<td class="categoryListCellStyle"><a class="categoryListLinkStyle" href="http://www.tvover.net/CategoryView,category,Service%20Providers,Europe%20IPTV.aspx">Europe IPTV</a></td>
-						</tr><tr>
-							<td class="categoryListCellStyle"><a class="categoryListLinkStyle" href="http://www.tvover.net/CategoryView,category,Service%20Providers,North%20America%20IPTV.aspx">North America IPTV</a></td>
-						</tr><tr>
-							<td class="categoryListCellStyle"><a class="categoryListLinkStyle" href="http://www.tvover.net/CategoryView,category,Service%20Providers,South%20America%20IPTV.aspx">South America IPTV</a></td>
-						</tr>
-					</tbody></table>
-				</td></tr></tbody></table>
-			</td></tr></tbody></table>
-		</td></tr></tbody></table></td>
-	</tr><tr>
-		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" href="http://www.tvover.net/CategoryView,category,Slingbox.aspx">Slingbox</a></td>
-	</tr><tr>
-		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" href="http://www.tvover.net/CategoryView,category,Verizon%20FiOS.aspx">Verizon FiOS</a></td>
-	</tr><tr>
-		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" href="http://www.tvover.net/CategoryView,category,Video%20on%20Demand.aspx">Video on Demand</a></td>
-	</tr><tr>
-		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" href="http://www.tvover.net/CategoryView,category,What%20is%20IPTV.aspx">What is IPTV</a></td>
-	</tr><tr>
-		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" href="http://www.tvover.net/CategoryView,category,White%20Papers.aspx">White Papers</a></td>
-	</tr><tr>
-		<td class="categoryListCellStyle"><a class="categoryListLinkStyle" href="http://www.tvover.net/CategoryView,category,WiMAX.aspx">WiMAX</a></td>
-	</tr>
-</tbody></table></div> </div>
-
-	<div class="sideheader">&nbsp;&nbsp;&nbsp;Network Sites</div>
-<div class="side">
-<a href="http://www.voipmonitor.net/">VoIP Monitor</a>
-<br><a href="http://www.iptvinformation.net/">IPTV Information</a>
-<br><a href="http://www.iptvforums.net/">IPTV Forums</a>
-</div>
-
-			<div class="sideheader">&nbsp;&nbsp;&nbsp;Archives </div>
-			<div class="side">
-			 	<div class="archiveLinksContainerStyle"><table class="archiveLinksTableStyle" border="0">
-	<tbody><tr>
-		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2006-10.aspx">October, 2006</a></td>
-	</tr><tr>
-		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2006-09.aspx">September, 2006</a></td>
-	</tr><tr>
-		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2006-08.aspx">August, 2006</a></td>
-	</tr><tr>
-		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2006-07.aspx">July, 2006</a></td>
-	</tr><tr>
-		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2006-06.aspx">June, 2006</a></td>
-	</tr><tr>
-		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2006-05.aspx">May, 2006</a></td>
-	</tr><tr>
-		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2006-04.aspx">April, 2006</a></td>
-	</tr><tr>
-		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2006-03.aspx">March, 2006</a></td>
-	</tr><tr>
-		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2006-02.aspx">February, 2006</a></td>
-	</tr><tr>
-		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2006-01.aspx">January, 2006</a></td>
-	</tr><tr>
-		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2005-12.aspx">December, 2005</a></td>
-	</tr><tr>
-		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2005-11.aspx">November, 2005</a></td>
-	</tr><tr>
-		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2005-10.aspx">October, 2005</a></td>
-	</tr><tr>
-		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2005-09.aspx">September, 2005</a></td>
-	</tr><tr>
-		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2005-08.aspx">August, 2005</a></td>
-	</tr><tr>
-		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2005-07.aspx">July, 2005</a></td>
-	</tr><tr>
-		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2005-06.aspx">June, 2005</a></td>
-	</tr><tr>
-		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2005-05.aspx">May, 2005</a></td>
-	</tr><tr>
-		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2005-04.aspx">April, 2005</a></td>
-	</tr><tr>
-		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2005-03.aspx">March, 2005</a></td>
-	</tr><tr>
-		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2005-02.aspx">February, 2005</a></td>
-	</tr><tr>
-		<td class="archiveLinksCellStyle"><a class="archiveLinksLinkStyle" href="http://www.tvover.net/default,month,2004-12.aspx">December, 2004</a></td>
-	</tr>
-</tbody></table></div><br>
-			</div>
-				
-			<br><br><br><br><br><br><br><br><br><br><br><br>&nbsp;&nbsp;<a href="http://www.gotthenerve.com/">Free Online Dating</a>
-			
-		</div>
-	</div>
-	<!-- END #right -->
 <br style="clear: both;">
 </div>
 <!-- END #content-->
 </div>
-<script src="/astrack.js" type="text/javascript"></script>
-</form>
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgKXg+n9AQKOoN+NCjKvYqGy/6N6KBB2vB9yp8DEL91k"></form>
 
 </body></html>
