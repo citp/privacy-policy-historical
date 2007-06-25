@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the wnba.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205225318id_/http%3A//www.wnba.com/basics/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wnba.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625132241id_/http%3A//www.wnba.com/basics/privacy_policy.html) for the most accurate reproduction.*
 
 # WNBA.com: NBA.com Network Privacy Policy
-
-Please be advised that the NBA.com Privacy Policy has been updated.
-
-The new Privacy Policy, like the old one, outlines how we collect and use information from you based on your activities on the NBA.com Network and from other data sources. We have revised our Privacy Policy to better clarify some of our existing practices, including how we use “cookie” technology, such as combining aggregated and anonymous data with cookies; share personally identifiable information with third parties to perform services on our behalf; use data collected on the site; and collect user preferences and send emails based on those preferences. To update your user preferences at any time, you may visit the registration area at [www.nba.com/fancenter](http://www.nba.com/fancenter). 
-
-If you accept the new Privacy Policy, you don't need to take any action. If you do not wish to accept the new Privacy Policy, you may cancel your NBA.com registration by sending us an e-mail from the account you registered with to FanRelations@NBA.com and include the word 'Cancel' in the subject line or writing to us at 450 Harmon Meadow Boulevard, Secaucus, New Jersey, 07094, Attn: NBA.com Network Fan Relations. 
-
-* * *
 
 Here at the NBA.com network of web sites (NBA.com, WNBA.com and nbadleague.com and the official team sites of National Basketball Association ("NBA"), the Women's National Basketball Association ("WNBA") and the NBA Development League ("D-League"), collectively referred to hereinafter as the "NBA.com Network"), we are committed to safeguarding your privacy. This Privacy Policy ("Policy") describes the information we gather on the NBA.com Network, what we do with it, and the safeguards we have in place to protect it. 
 
