@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telecom.co.nz privacy policy that was archived on 2006-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061007080304id_/http%3A//www.telecom.co.nz/content/0%2C8748%2C101183-1545%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telecom.co.nz privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625064738id_/http%3A//www.telecom.co.nz/content/0%2C8748%2C101183-1545%2C00.html) for the most accurate reproduction.*
 
 # Our Privacy Policy : Telecom New Zealand Limited
 
@@ -46,7 +46,7 @@ Additionally, if you do provide us with personal information via your use of thi
 
 We may change this policy at any time by changing or removing existing terms or adding new ones. Changes may take the form of a completely new policy. We will tell you about any changes by posting an updated policy on our website. Any change we make applies from the date we post it on the website.
 
-If you have any questions about Telecom's online privacy policy [ask us](http://telecom.custhelp.com/cgi-bin/telecom.cfg/php/enduser/std_alp.php) your question anytime of the day or night. If we can't answer it online, then just send us an [e-mail](http://telecom.custhelp.com/cgi-bin/telecom.cfg/php/enduser/ask.php).
+If you have any questions about Telecom's online privacy policy ask us your question anytime of the day or night. If we can't answer it online, then just send us an e-mail.
 
 |    
   
