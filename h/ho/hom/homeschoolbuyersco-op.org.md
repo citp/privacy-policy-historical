@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the homeschoolbuyersco-op.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615022454id_/http%3A//www.homeschoolbuyersco-op.org/component/option%2Ccom_quickbase/Itemid%2C137) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeschoolbuyersco-op.org privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625184107id_/http%3A//www.homeschoolbuyersco-op.org/privacy-policy) for the most accurate reproduction.*
 
-# Homeschool Buyers Co-op. Homeschool Resources. Homeschool Organization.
+# Privacy Policy of the Homeschool Buyers Co-op - Homeschool Buyers Co-op
 
 The Homeschool Buyers Co-op (the "Co-op") will not sell, rent, or otherwise make your personal information available to other people or organizations without your permission, except as may be required by law.
 
@@ -11,7 +11,7 @@ The term "personally identifiable information" means any information that may be
 You provide your name and email address when you join the Co-op. We do not share this information with any third parties. 
 
 **Group Purchases**  
-If you have elected to receive special offers from Co-op suppliers, you may receive special time-limited offers to participate in group purchases. Other members will simultaneously receive the same time-limited offer so that, by purchasing as a group, the participatng members may receive volume discounts that are not avialable to members purchasing individually and separately. Should you choose to participate in one of these group pruchases, the Co-op will collect and temporarily maintain your order information on your behalf until the time limit for participating expires. At that time, the Co-op will forward your order information to the Supplier whose product you wish to purchase, and destroy any personally identifiable information associated with your order. The Co-op will not retain any record of any such purchases/
+If you have elected to receive special offers from Co-op suppliers, you may receive special time-limited offers to participate in group purchases. Other members will simultaneously receive the same time-limited offer so that, by purchasing as a group, the participating members may receive volume discounts that are not available to members purchasing individually and separately. Should you choose to participate in one of these group purchases, the Co-op will collect and temporarily maintain your order information on your behalf until the time limit for participating expires. At that time, the Co-op will forward your order information to the Supplier whose product you wish to purchase, and destroy any personally identifiable information associated with your order. The Co-op will not retain any record of any such purchases/
 
 **Cookies**  
 Cookies are small text files stored by your browser on your computer when you visit a website. We use cookies to improve our website and make it easier to use. Cookies permit us to recognize you and avoid repetitive requests for the same information. Most browsers will accept cookies until you change your browser settings to refuse them. You may change your browser's settings to refuse our cookies. However, if you do so, you may not be able access certain Co-op service. 
