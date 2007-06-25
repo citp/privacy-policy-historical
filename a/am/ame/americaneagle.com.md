@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the americaneagle.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218202629id_/http%3A//www.americaneagle.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americaneagle.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625122426id_/http%3A//www.americaneagle.com/legal/privacy.aspx) for the most accurate reproduction.*
 
 # Americaneagle.com, Inc. Web Site Privacy Statement
-
-"I have been absolutely overwhelmed by the enthusiasm of your staff. Their drive for perfection, their energy, the new ideas they've conceived, and their rapid response to concerns I've raised have all served to contribute to a finished product that I absolutely love."
-
-Bruce C. Friedman
-
-President  
-MyBrainTrainer.com
-
-[](http://www.mybraintrainer.com/)  
-
 
 ### Privacy Statement
 
