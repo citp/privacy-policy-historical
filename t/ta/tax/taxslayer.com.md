@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxslayer.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110184805id_/http%3A//www.taxslayer.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxslayer.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626005108id_/http%3A//www.taxslayer.com/privacy.aspx) for the most accurate reproduction.*
 
 # TaxSlayer.com Privacy Statement
 
@@ -80,3 +80,5 @@ Personal Information is accessible online through Oct. 15th 2006. Any return e-f
 The Privacy Policy applies to products and services of TaxSlayer.com, online. Please note that the BBOnLine Privacy Seal only covers information collected through our TaxSlayer website.  It does not cover personal information gathered through the TaxSlayer download software.  We reserve the right to change this Privacy Policy, and any of the policies described above, at any time. Any changes to our policy will be immediately posted and made available to consumers at our website and these changes will not take effect for 15 days after their initial posting.  We will also email users with this information.  The examples contained within this Privacy Policy are illustrations; they are not intended to be exclusive. 
 
 **Approved and Effective 1/1/2000**
+
+**[Back to TaxSlayer Home](https://web.archive.org/web/20070626005108id_/http%3A//www.taxslayer.com/default.aspx)**
