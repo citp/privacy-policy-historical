@@ -1,51 +1,7 @@
-> *The following text is extracted and transformed from the checkpoint.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018070723id_/http%3A//checkpoint.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkpoint.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625101339id_/http%3A//www.checkpoint.com/privacy.html) for the most accurate reproduction.*
 
 # Check Point Software: Check Point's Privacy Policy
 
-|  |  |  |  |   
----|---|---|---|---  
-  Search     
-  
-  | [COMPANY](https://web.archive.org/web/20061018070723id_/http%3A//checkpoint.com/corporate/index.html) |    
-| 
-
-| 
-
-[Company Information](https://web.archive.org/web/20061018070723id_/http%3A//checkpoint.com/corporate/company.html)
-
-|    
-| 
-
-| 
-
-[Investor Relations](https://web.archive.org/web/20061018070723id_/http%3A//checkpoint.com/corporate/ivestrel.html)
-
-|    
-| 
-
-| 
-
-[Public Relations](https://web.archive.org/web/20061018070723id_/http%3A//checkpoint.com/corporate/pr.html)
-
-|    
-| 
-
-| 
-
-[Events](https://web.archive.org/web/20061018070723id_/http%3A//checkpoint.com/corporate/events.html)
-
-|    
-|  |  |   
----|---  
-  | Check Point's Privacy Policy  
-  | 
-
-| 
-
-Check Point Online Privacy Policy   
-  
----  
-  
 This document sets forth the Check Point Online Privacy Policy ("Privacy Policy") for, [www.checkpoint.com](http://www.checkpoint.com/), [www.opsec.com](http://www.opsec.com/) and [www.usercenter.checkpoint.com](https://usercenter.checkpoint.com/) collectively referred to as the ("Site"). By accessing the Site, you are accepting the Privacy Policy as set forth herein. If you have objections to the Privacy Policy, you should not access or use this Site.
 
   
@@ -97,6 +53,4 @@ Protection of Personal Information:
 
 Disclaimer
 
-> 9. Check Point assumes no responsibility for the content or privacy practices of any other web site, company or organization, including web sites that may be accessed through a hyper link from this Site. Please review the privacy policy of such sites before providing information.  
-  
- 
+> 9. Check Point assumes no responsibility for the content or privacy practices of any other web site, company or organization, including web sites that may be accessed through a hyper link from this Site. Please review the privacy policy of such sites before providing information.
