@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wfmynews2.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206011054id_/http%3A//wfmynews2.com/insidewfmy/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wfmynews2.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625044805id_/http%3A//www.wfmynews2.com/insidewfmy/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - WFMY News 2
 
@@ -78,12 +78,8 @@ McLean, VA 22107
   
 
 
-Feature Section  
----  
 |  |   
+---|---|---  
   
-|   |   
-|   |   
-|   |   
 |   |   
 |   | 
