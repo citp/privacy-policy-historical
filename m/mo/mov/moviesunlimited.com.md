@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moviesunlimited.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213053814id_/http%3A//www.moviesunlimited.com/musite/security.asp%3Fmscssid%3DUJ6RV518472B9G75N28K53HN7980BV09) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviesunlimited.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625125443id_/http%3A//www.moviesunlimited.com/musite/security.asp) for the most accurate reproduction.*
 
-# Movies Unlimited - The Movie Collector's Website
+# Security and Privacy - Safe, Secure Shopping at Movies Unlimited
 
 **Safe, Secure Shopping at Movies Unlimited...**
 
