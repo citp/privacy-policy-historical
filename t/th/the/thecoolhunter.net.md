@@ -1,16 +1,7 @@
-> *The following text is extracted and transformed from the thecoolhunter.net privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217213529id_/http%3A//www.thecoolhunter.net/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecoolhunter.net privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625142353id_/http%3A//www.thecoolhunter.net/Privacy) for the most accurate reproduction.*
 
-# the cool hunter - Privacy Statement
+# thecoolhunter.net - Privacy Statement
 
-  | 
-
-| Sunday 17th December 2006 |  |   
----|---|---  
-  
-[home](http://www.thecoolhunter.net/index.php) Privacy 
-
-Privacy Statement   
----  
   
 **What personal information is collected?**  
 When you subscribe to the Cool Hunter mailing list you enter your name and email address.
@@ -31,8 +22,7 @@ Under the Privacy Act, you have a right to seek access to information that Cool 
 The Cool Hunter website often contains links to third party websites. We cannot be held responsible for the content or privacy policies of third party websites and suggest you read the privacy policy of each site you visit.  
 **  
 Additional privacy information and how to contact The Cool Hunter**  
-If you feel that The Cool Hunter is not complying with this Privacy Policy, or if you have other privacy concerns, please email using the contact page.  
-  
-© thecoolhunter.net. all rights reserved
+If you feel that The Cool Hunter is not complying with this Privacy Policy, or if you have other privacy concerns, please email using the contact page.
 
- 
+  
+
