@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juno.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207193602id_/http%3A//www.juno.com/legal/privacy.html%3Fcf%3Dwwwjn) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juno.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625031546id_/http%3A//www.juno.com/legal/privacy.html%3Fcf%3Dwwwjn) for the most accurate reproduction.*
 
 # Juno - Privacy and Security- Value-priced Internet Service Provider - ISP - Free, low-cost and fast Internet Access
 
@@ -48,17 +48,16 @@ Fort Lee, NJ 07024
 
 This Privacy Statement will explain the following regarding our Site and Service:
 
-  1. Juno is committed to protecting your privacy
-  2. We collect data to help us operate our Web site and services
-  3. We keep confidential any personal information that might identify
-  4. When we use third parties to perform business functions for us, we require them to treat your information confidentially
-  5. We take care to maintain the security of your information
-  6. Our Web site does not use cookie technology in ways that compromise your privacy
-  7. Please be aware that other companies may collect various types of information about you and have different privacy policies and practices
-  8. Your Member Profile helps us personalize your Internet experience
-  9. You can change your Member Profile at any time
-  10. When you are ready to share your personal information, you have several ways you can give your consent
-  11. We take special care with respect to the privacy of children
+  1. We collect data to help us operate our Web site and services
+  2. We keep confidential any personal information that might identify
+  3. When we use third parties to perform business functions for us, we require them to treat your information confidentially
+  4. We take care to maintain the security of your information
+  5. Our Web site does not use cookie technology in ways that compromise your privacy
+  6. Please be aware that other companies may collect various types of information about you and have different privacy policies and practices
+  7. Your Member Profile helps us personalize your Internet experience
+  8. You can change your Member Profile at any time
+  9. When you are ready to share your personal information, you have several ways you can give your consent
+  10. We take special care with respect to the privacy of children
 
   
 
@@ -96,15 +95,6 @@ Back to list
  **We take care to maintain the security of your information**.
 
 All information provided to us on the Site or by our subscribers is stored on secure computers, where it is made available only to Juno staff members or representatives who need it to do their jobs. (For example, it may be necessary for Juno staff members or representatives to examine system operational and accounting logs and other records to resolve service-related problems.) If we need to share any of your personal information with any company performing services for us, that company must agree to confidentiality restrictions and security measures to safeguard such information. 
-
-Back to list
-
-  
-
-
- **We take care to maintain the security of your information**.
-
-All information provided to us on the Site or by our subscribers is stored on secure computers, where it is made available only to Juno staff members or representatives who need it to do their jobs. (For example, it may be necessary for Juno staff members or representatives to examine system operational and accounting logs and other records to resolve service-related problems.) If we need to share any of your personal information with any company performing services for us, that company must agree to confidentiality restrictions and security measures to safeguard such information.
 
 Back to list
 
