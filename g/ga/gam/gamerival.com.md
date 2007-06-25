@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the gamerival.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205202315id_/http%3A//gamerival.grab.com/index.cfm%3Faction%3Dsite%26option%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamerival.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625225328id_/http%3A//www.gamerival.com/site_privacy-policy.html) for the most accurate reproduction.*
 
-# GameRival - Free Online Games!
+# Privacy Policy | GameRival.com
 
 **Effective as of June 3, 2005**
 
-**THIS PRIVACY POLICY MAY CHANGE FROM TIME TO TIME. PLEASE CHECK THIS PAGE FOR UPDATES OR REQUEST THE LATEST COPY BY[ **CONTACTING US ONLINE**](http://www.intermix.com/form_privacy.cfm?site_id=219).**
+**THIS PRIVACY POLICY MAY CHANGE FROM TIME TO TIME.**
 
-Intermix Network, LLC owns and/or operates a network of Web sites (referred to hereafter as the "Network") providing diversionary entertainment and topical news, information and editorial content to millions of users and subscribers daily. The information collection, use, maintenance and disposal practices of the Network are discussed in this privacy policy.
+Demand Media, INC owns and/or operates a network of Web sites (referred to hereafter as the "Network") providing diversionary entertainment and topical news, information and editorial content to millions of users and subscribers daily. The information collection, use, maintenance and disposal practices of the Network are discussed in this privacy policy.
 
 **1\. Collection of Information.**
 
@@ -86,8 +86,8 @@ The Network's websites and email messages may contain hypertext links to the web
 **4.3 Affiliated Companies.**  
 The Network may disclose, transfer and sell Individual Information to an entity which becomes affiliated with Network through formation, merger or acquisition, in the Network's discretion. 
 
-**5\. Unsubscribe from Intermix lists.**  
+**5\. Unsubscribe from Demand Media lists.**  
 The Network maintains multiple newsletter and email marketing lists. To unsubscribe from one or more of such lists, click the link included in the footer of any message delivered by the Network and follow the instructions provided. 
 
 **6\. More Information.**  
-For more information about protecting your privacy, you may wish to visit [www.privacylaw.net](http://www.privacylaw.net/) or [www.privacyalliance.org](http://www.privacyalliance.org/). If you have questions about this policy, please [contact us online](http://www.intermix.com/form_privacy.cfm?site_id=219). THE NETWORK RESERVES THE RIGHT TO UPDATE THIS POLICY FROM TIME TO TIME, SO YOU SHOULD REVIEW THIS WEB PAGE PERIODICALLY.
+For more information about protecting your privacy, you may wish to visit [www.privacylaw.net](http://www.privacylaw.net/) or [www.privacyalliance.org](http://www.privacyalliance.org/). THE NETWORK RESERVES THE RIGHT TO UPDATE THIS POLICY FROM TIME TO TIME, SO YOU SHOULD REVIEW THIS WEB PAGE PERIODICALLY.
