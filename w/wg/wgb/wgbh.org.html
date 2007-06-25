@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wgbh.org privacy policy that was archived on 2006-11-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061110184430id_/http%3A//www.wgbh.org/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wgbh.org privacy policy that was archived on 2007-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070625120846id_/http%3A//www.wgbh.org/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//w3c//dtd html 3.2//en"><html><head>
 <title>WGBH Privacy Policy</title>
@@ -178,9 +178,39 @@ function P7_rollCMenu1(ev,a,b) { //v2.06 by PVII
 
 
 <script language="Javascript">
-function openWindow( url, w, h, name ) {
+function openWindow( url, w, h, name, scroll, location, menubar, toolbar, directories, resizable, status ) {
 
-	optionStr = "scrollbars=no,location=no,toolbar=no,width=" + w + ",height=" + h;
+    if (scroll) {
+        scroll = "yes";
+    } else {
+        scroll = "no";
+    }
+    if (location) {
+        location = "yes";
+    } else {
+        location = "no";
+    }
+    if (toolbar) {
+        toolbar = "yes";
+    } else {
+        toolbar = "no";
+    }
+    if (directories) {
+        directories = "yes";
+    } else {
+        directories = "no";
+    }
+    if (resizable) {
+        resizable = "yes";
+    } else {
+        resizable = "no";
+    }
+    if (status) {
+        status = "yes";
+    } else {
+        status = "no";
+    }
+	optionStr = "scrollbars=" + scroll + ",location=" + location + ",menubar=" + menubar + ",toolbar=" + toolbar + ",directories=" + directories + ",resizable=" + resizable + ",status=" + status + ",width=" + w + ",height=" + h;
     if (name != "") {
     	helpWindow = window.open( url, name, optionStr );
     } else {
@@ -272,7 +302,7 @@ countfield.value = maxlimit - field.value.length;
       <td><a href="/playlists">Playlists</a></td>
     </tr>
     <tr> 
-      <td><a href="javascript:openWindow('http://streams.wgbh.org/wgbh/',386,452, '897_stream');">Listen Live</a></td>
+      <td><a href="http://streams.wgbh.org/online/play.php?xml=897.xml&amp;template=wgbh_audio" target="_blank" onclick="openWindow('http://streams.wgbh.org/online/play.php?xml=897.xml&amp;template=wgbh_audio',386, 452); return false;">Listen Live</a></td>
     </tr> 
   </tbody></table>
 </div>
@@ -282,10 +312,10 @@ countfield.value = maxlimit - field.value.length;
       <td><a href="/webcasts/">Web Media Home</a></td>
     </tr>
     <tr> 
-      <td><a href="javascript:openWindow('http://streams.wgbh.org/wgbh/',386,452, '897_stream');">Listen WGBH 89.7</a></td>
+      <td><a href="http://streams.wgbh.org/online/play.php?xml=897.xml&amp;template=wgbh_audio" target="_blank" onclick="openWindow('http://streams.wgbh.org/online/play.php?xml=897.xml&amp;template=wgbh_audio',386, 452); return false;">Listen WGBH 89.7</a></td>
     </tr>
     <tr> 
-      <td><a href="javascript:openWindow('http://streams.wgbh.org/cainan',386,452, 'cainan_stream');">Listen Cape &amp; Islands</a></td>
+      <td><a href="http://streams.wgbh.org/online/play.php?xml=cainan.xml&amp;template=cainan" target="_blank" onclick="openWindow('http://streams.wgbh.org/online/play.php?xml=cainan.xml&amp;template=cainan', 386, 452); return false;">Listen Cape &amp; Islands</a></td>
     </tr>
     <tr> 
       <td><a href="/forum/">WGBH Forum Lectures</a></td>
@@ -465,7 +495,7 @@ To administer these services we require a minimum of information from you. This 
 <b>Secure Credit Card Transactions</b><br>
 
 
-The wgbh.org, campaign.wgbh.org  Web sites and our "Shop WGBH" pages offer you the convenience of making membership contributions and product purchases via credit card. WGBH and our fulfillment agent, who supports "Shop WGBH" pages, utilize state-of-the-art measures to ensure credit card account information security and to secure any information from your computer to our server. Our Web financial transaction forms are stored and served from secure servers. This means that each page you view and any information you submit is encrypted on its way between computers (yours and ours, or yours and our fulfillment agentbThe wgbh.org Web site and our "Shop WGBH" pages offer you the convenience of making membership contributions and product purchases via credit card. WGBH and our fulfillment agent, who supports "Shop WGBH" pages, utilize state-of-the-art measures to ensure credit card account information security and to secure any information from your computer to our server. Our Web financial transaction forms are stored and served from secure servers. This means that each page you view and any information you submit is encrypted on its way between computers (yours and ours, or yours and our fulfillment agent's). Even in the highly unlikely event that your transmission is intercepted, it should not be usable. Your peace of mind and the safeguarding of your credit card information are top priorities for us. All online credit card transactions are done through a secure server using 128-bit SSL; you know you're on a secure page when the Web address starts with "https" (the "s" is for "secure"). Your credit card information is used only for your intended purpose -- that is, for the purchase or contribution you wish to make. 
+The wgbh.org, campaign.wgbh.org  Web sites and our "Shop WGBH" pages offer you the convenience of making membership contributions and product purchases via credit card. WGBH and our fulfillment agent, who supports "Shop WGBH" pages, utilize state-of-the-art measures to ensure credit card account information security and to secure any information from your computer to our server. Our Web financial transaction forms are stored and served from secure servers. This means that each page you view and any information you submit is encrypted on its way between computers (yours and ours, or yours and our fulfillment agent's). Even in the highly unlikely event that your transmission is intercepted, it should not be usable. Your peace of mind and the safeguarding of your credit card information are top priorities for us. All online credit card transactions are done through a secure server using 128-bit SSL; you know you're on a secure page when the Web address starts with "https" (the "s" is for "secure"). Your credit card information is used only for your intended purpose -- that is, for the purchase or contribution you wish to make. 
 
 <br><br>
 
@@ -474,7 +504,7 @@ WGBH and our fulfillment agent, who supports "Shop WGBH" pages, maintain custome
 
 <br><br>
 
-WGBH does not sell, exchange, or lend e-mail addresses to outside companies, organizations, or individuals except where required by law.  WGBH will always provide a clear and convenient method of unsubscribing to our e-mailings. You can unsubscribe at any time by following the unsubcribe directions included in every email, or by going to either wgbh.org's <a href="wgbh.org/contact">Contact Us page</a> and send us a message.  We will update our records as soon as possible. If you have already unsubscribed from WGBH e-mails, rest assured that we will continue to honor your request.
+WGBH does not sell, exchange, or lend e-mail addresses to outside companies, organizations, or individuals except where required by law.  WGBH will always provide a clear and convenient method of unsubscribing to our e-mailings. You can unsubscribe at any time by following the unsubscribe directions included in every email, or by going to either wgbh.org's <a href="wgbh.org/contact">Contact Us page</a> and send us a message.  We will update our records as soon as possible. If you have already unsubscribed from WGBH e-mails, rest assured that we will continue to honor your request.
 
 <br><br>
 
@@ -565,7 +595,7 @@ By using this site, you signify your agreement to the terms and conditions of th
 						</table -->
                         <a href="/about/privacy">Privacy Policy</a>&nbsp;|&nbsp;
                         <a href="/about/kidsprivacy">Kids Policy</a>&nbsp;|&nbsp;
-						<a href="/about/copyright">Copyright 2006</a>&nbsp;|&nbsp;
+						<a href="/about/copyright">Copyright 2007</a>&nbsp;|&nbsp;
                         <a href="/about/tos">Terms of Service</a>
 					</td>
 				</tr>
