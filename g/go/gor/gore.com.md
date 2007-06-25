@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gore.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208132034id_/http%3A//www.gore.com/en_xx/footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gore.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625033238id_/http%3A//www.gore.com/en_xx/footer/privacy.html) for the most accurate reproduction.*
 
 # Gore Privacy Policy and Legal Information
 
@@ -34,9 +34,9 @@ Where we refer to the Internet pages of third parties (links), GORE accepts no r
 GORE does not accept liability for ordinary neglect of duty in relation to service providers, especially when downloading files from GORE Internet pages, unless these relate to contractual obligations or affect life and limb or involve claims under the Product Liability Act. The same applies to neglect of duty on the part of our agents. 
 
 **Copyright information  
-** Copyright 2006 Gore. All rights reserved. The material and structure of GORE Internet pages are protected by Copyright. Reproduction of information or data in any way or form, and specifically the use of texts, sections of text or imagery, requires prior approval from GORE.
+**Copyright 2006 Gore. All rights reserved. The material and structure of GORE Internet pages are protected by Copyright. Reproduction of information or data in any way or form, and specifically the use of texts, sections of text or imagery, requires prior approval from GORE.
 
   
 **Trademark protection  
-** Gore trademarks are registered with trademark offices around the world. They may only be used in conjunction with the sale of top-quality goods produced by Gore or with the express permission of Gore. The Gore corporate logo can only be used by W. L. Gore & Associates, Inc. and its subsidiaries. It may only be used by customers or others as applied by Gore to promotional material or products supplied by us. The proper notation for our trademarks and other information about them can be obtained from our Corporate Legal Offices in the USA (Tel.: 800 / 441-9972) and Germany (Tel.: +49 / 89-4612-2501). Please contact us if you have any questions or suggestions.  
+**Gore trademarks are registered with trademark offices around the world. They may only be used in conjunction with the sale of top-quality goods produced by Gore or with the express permission of Gore. The Gore corporate logo can only be used by W. L. Gore & Associates, Inc. and its subsidiaries. It may only be used by customers or others as applied by Gore to promotional material or products supplied by us. The proper notation for our trademarks and other information about them can be obtained from our Corporate Legal Offices in the USA (Tel.: 800 / 441-9972) and Germany (Tel.: +49 / 89-4612-2501). Please contact us if you have any questions or suggestions.  
 
