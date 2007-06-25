@@ -1,0 +1,42 @@
+> *The following text is extracted and transformed from the profilactic.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625093703id_/http%3A//www.profilactic.com/privacy.jsp) for the most accurate reproduction.*
+
+# Profilactic.com - Privacy Policy
+
+Set forth below is a description of how Aggregated Media LLC ("Aggregated Media") collects and uses information that it receives through this Web site (the "Site"). 
+
+**Use of Site**  
+It is possible to use some services offered by the Site without registering and becoming a member. However, most of the Site’s services require membership registration and choosing a user name and password. If you become an Aggregated Media member, you will be required to provide some personal information as noted below. You are responsible for ensuring the accuracy of this information, and any inaccuracies may affect the information you receive when using the Site. 
+
+**Use of Information by Aggregated Media**  
+Aggregated Media may use your username and password to call up your information from our database to make using the Site faster and easier. Aggregated Media may record your preferences and use of the Site and analyze that information. We do so to keep abreast of your interests and to improve and better focus the Site and the advertisements contained on the Site on the specific topics in which our members show interest. 
+
+Like many Web sites, we use cookies on the Site. Cookies are small strings of data placed on a user’s personal computer hard drive during the exchange of data that happens when your browser points to this Site. Cookies enable a Web site to identify a user’s browser as a previous visitor by means of a unique string of numbers assigned on a previous visit. Aggregated Media’s cookies assist us in collecting information on the pages of the Site you access or visit and helps us improve the Site. Our cookies cannot and do not retrieve any other data from your hard drive or pass on computer viruses. Most Web browsers can be set to reject all cookies. Information about your specific browser can be found under your browser’s "Help" menu. If you reject the cookies used by our Site, certain functions of the Site may not work properly. If you would like to know more about cookies we encourage you to read the US Government Information Bulletin (I-034) regarding cookie technology. To read the bulletin, click: http://www.ciac.org/ciac/bulletins/i-034.shtml. 
+
+Aggregated Media may combine, in a non-identifiable format, the personal information you provide with information from other users to create aggregate data that may be disclosed to third parties. Aggregate data does not contain any information that could be used to contact or identify you. For example, Aggregated Media may use information to determine geographic dispersion of its members. 
+
+**Information Collected by Third Parties**  
+The Site may contain links to other Web sites. Once you enter another Web site through an advertisement, link or otherwise, please be aware that Aggregated Media is not responsible for the privacy practices of these other Web sites. Aggregated Media recommends that you review the privacy policies for these other Web sites before providing them with any personal or other information. Aggregated Media does not control the use of cookies or other technologies by these third parties, or how they manage the non-personal information they gather through them. 
+
+Aggregated Media uses third-party advertising companies to provide advertisements for the Site. These companies may collect "click-stream data" about your use of the Site through cookies and/or Web beacons. Click stream data is anonymous and includes information such as a Web user’s IP address, Web pages viewed, date and time of use, domain type and responses to an advertisement by a Web user. Third-party advertising companies will use this information for marketing and sales efforts to better target advertisements and other content to visitors to the Site and to help determine which ads perform best and which content is most effective for a particular Site visitor. 
+
+In some cases, you may have the opportunity to provide personally identifiable data to a third-party advertising company through an advertisement on the Site. If you elect to provide such data, that information may be combined with other information collected from other sources and used by such third-party advertising companies to target you with particular advertisements and other marketing efforts that are intended to reflect your preferences and behaviors. 
+
+**Information Disclosure**  
+Except as set forth in this Privacy Policy or as specifically agreed to by you, Aggregated Media will not disclose any of your personal information that it has obtained from you or through the Site. Aggregated Media may release personal information to others to comply with valid legal requirements such as a law, regulation or court order; or in other special cases, such as in response to a physical threat to you or others, or to protect property or defend or assert legal rights. If Aggregated Media is legally compelled to disclose your personal information, Aggregated Media will attempt to notify you unless doing so would violate the law or court order. 
+
+In the future, Aggregated Media may merge with another company, sell our assets or otherwise engage in a significant change in control or other similar transaction. To the extent we engage in such a transaction, we may transfer all information collected under this Privacy Policy to the buyer. Such buyer may use your information only in accordance with the terms and conditions under which it was collected. 
+
+**Security**  
+Aggregated Media employs several physical, electronic and procedural safeguards to protect the information you provide us. Your Aggregated Media account information can only be accessed using the correct password, and the servers holding that information are protected by a firewall. Also, access to your information is limited to authorized employees who need it to perform their jobs or to provide you with requested services and products. 
+
+**Changes to This Privacy Policy**  
+Aggregated Media reserves the right to alter this Privacy Policy. Any such revisions shall be posted to this Web address and shall be effective after notice of such change has been posted to this Site. Please review the Privacy Policy for the Site periodically to check for changes in our policies. Your continued use of the Site will indicate the acceptances of those changes. If you do not agree to the Privacy Policy, you may choose to stop using the Site at any time. 
+
+Please exit this Site immediately if you do not agree with the terms of this Privacy Policy or any revised policy. 
+
+**Contact Aggregated Media**  
+Aggregated Media takes your privacy seriously. If you have any questions, please contact us via e-mail at privacy@aggregatedmedia.com or use the contact information below: 
+
+Aggregated Media LLC  
+PO Box 22404  
+Louisville, KY 40252
