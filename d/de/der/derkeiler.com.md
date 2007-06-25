@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the derkeiler.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230074645id_/http%3A//www.derkeiler.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the derkeiler.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625150917id_/http%3A//www.derkeiler.com/privacy) for the most accurate reproduction.*
 
 # Der Keiler: Privacy Policy
 
@@ -35,3 +35,33 @@ As a result of your visit to our site, ad server companies may collect informati
 ### Contact
 
 If you have any questions about this policy feel free to contact us: [privacy@der-keiler.de](mailto:privacy@der-keiler.de)
+
+* * *
+
+## Featured Product
+
+[](http://www.gfi.com/adentry.asp?adv=833&loc=1)   
+**GFI LANguard Network Security Scanner**   
+#1 Windows commercial security scanner **(voted by Nmap users for two years running)** : 
+
+**Network security and vulnerability scanning just got better with GFI LANguard Network Security Scanner 8!**  
+GFI LANguard Network Security Scanner is a 3-in-1 solution that offers network vulnerability scanning, patch management and system information acquisition - all in one! [Try the No.1 voted commercial network security security scanner by NMAP users for 2 years running today.](http://www.gfi.com/adentry.asp?adv=833&loc=2 "Download GFI LANguard") **Free 30-day trial available**. 
+
+Why choose GFI LANguard Network Security Scanner? 
+
+  * Audit your network for security vulnerabilities (Windows and Linux)
+  * Detect unnecessary shares, open ports and unused user accounts on workstations
+  * Check for and deploy missing security patches and service packs in OS and Office
+  * Very affordable 3-in-1 security vulnerability solution
+
+
+
+For more information about the [GFI LANguard Network Security Scanner click here.](http://www.gfi.com/adentry.asp?adv=833&loc=1 "Network security & vulnerability scanner")
+
+  * [Home Security](http://www.safemart.com/)
+  * [Security Guards London UK](http://www.latinssecurity.com/)
+  * [Security](http://www.24-7cctvsecuritycameras.com/)
+  * [Security Systems](http://www.central-alarms.com/)
+  * [Security Camera System](http://www.123cctv.com/)
+
+
