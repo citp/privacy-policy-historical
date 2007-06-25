@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the okidata.com privacy policy that was archived on 2006-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061123121023id_/http%3A//www.okidata.com/mkt/html/nf/PrivacyStatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okidata.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625185635id_/http%3A//www.okidata.com/mkt/html/nf/PrivacyStatement.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -75,7 +75,7 @@ Like most standard Web sites, we use log files. This includes internet protocol 
 
 Further questions regarding our privacy policy may be sent to [ webmaster@okidata.com](mailto:webmaster@okidata.com). 
 
-© Copyright, 2006 Oki Data Americas, Inc., a subsidiary of Oki Data Corporation 
+© Copyright, 2007 Oki Data Americas, Inc., a subsidiary of Oki Data Corporation 
 
 Oki Data Americas, Inc.  
 2000 Bishops Gate Blvd.  
