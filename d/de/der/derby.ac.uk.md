@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the derby.ac.uk privacy policy that was archived on 2006-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061221074310id_/http%3A//www.derby.ac.uk/footer-menu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the derby.ac.uk privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625155105id_/http%3A//www.derby.ac.uk/footer-menu/privacy) for the most accurate reproduction.*
 
 # University of Derby - Privacy
 
