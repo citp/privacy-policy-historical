@@ -1,13 +1,6 @@
-> *The following text is extracted and transformed from the easypano.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212053047id_/http%3A//www.easypano.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easypano.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625085236id_/http%3A//www.easypano.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Virtual Tour Software, Panorama Software and Photo Stitching Software Developer: Easypano
-
-[Panoweaver 4.00](http://www.easypano.com/photo-stitching-software/gallery.html)  
-[Tourweaver 1.30](http://www.easypano.com/virtual-tour-software/gallery.html)  
-[Additional Products](http://www.easypano.com/panorama-gallery-300.html)  
-
-
-| 
 
 Easypano Commitment To Privacy
 
@@ -82,5 +75,3 @@ Users who no longer wish to receive our newsletter or promotional materials may 
 
 Notification of Changes  
 If we decide to change our privacy policy, we will post those changes on our home page so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we would notify users by way of an e-mail. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
-
-| 
