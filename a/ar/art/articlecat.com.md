@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the articlecat.com privacy policy that was archived on 2006-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060718012104id_/http%3A//www.articlecat.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlecat.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625054200id_/http%3A//www.articlecat.com/privacy.php) for the most accurate reproduction.*
 
-# Free Web Content Articles | Article Directory and Catalog .:. ArticleCat.com
+# Article Directory and Catalog | Free Web Content Articles | ArticleCat.com
 
 ArticleCat.com Privacy Policy
 
