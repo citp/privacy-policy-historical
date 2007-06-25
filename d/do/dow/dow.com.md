@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dow.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207000244id_/http%3A//www.dow.com/homepage/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dow.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625101835id_/http%3A//www.dow.com/homepage/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
-
-| 
 
 We collect personal information from our visitors on a voluntary basis. Personal information may include name, title, company, address, phone number, email address, and other relevant data. Questions or comments submitted by visitors may also include personal information. We do not require personal information to obtain access to most of our site. We do, however, require it to download product information, order products and take advantage of certain other features of our site.
 
@@ -10,7 +8,7 @@ We use the information that visitors provide for such purposes as processing and
 
 Visitors who complete our registration form have the option of receiving occasional email updates and surveys in their selected areas of interest. Those who elect to receive updates and surveys may change this election at any time by updating their registration information.
 
-If you have registered with our site and would like to update your registration information, please [click here](https://web.archive.org/web/20061207000301id_/http://www.dow.com/webapps/reg/OverviewRegistration.asp?caller=/homepage/index.html) or write us at:
+If you have registered with our site and would like to update your registration information, please [click here](https://web.archive.org/web/20070625101835id_/http%3A//www.dow.com/webapps/reg/OverviewRegistration.asp?caller=/homepage/index.html) or write us at:
 
 Dow Chemical Customer Information Group  
 Dow Ashman Center  
@@ -34,5 +32,3 @@ Our site contains links to other web sites. These sites are not covered by this 
 We reserve the right to modify this privacy statement and related business practices at any time by posting updated text on this site.
 
 LAST UPDATED: August 28, 2001
-
-| 
