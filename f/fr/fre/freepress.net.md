@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freepress.net privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208024819id_/http%3A//freepress.net/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepress.net privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625153009id_/http%3A//www.freepress.net/content/privacy) for the most accurate reproduction.*
 
 # Free Press : Privacy Policy
 
@@ -8,7 +8,11 @@ In this policy, “Free Press” refers to both Free Press and Free Press Action
 
 In general, Free Press (and our software partners) treats your contact information as private and confidential. Free Press will not typically give, sell, rent, exchange or otherwise provide your information with anyone else without your prior consent.
 
-_This policy was last amended February 14, 2006._
+We will notify users of updates to this policy by noting the date of new changes directly below this statement.  
+
+_This policy was last amended March 16, 2007._
+
+_Policy effective May 1, 2003.  _
 
 ## Web Site Policy
 
@@ -26,7 +30,7 @@ Free Press offers several electronic mailing lists. If you choose to subscribe t
 
 There are a number of ways to subscribe to Free Press electronic mailing lists, including submitting a form at our Web site, opting in when you engage in online activism, or mailing a sign-up form from a brochure or flier. When you subscribe, you will typically receive a confirmation message welcoming you.
 
-You can unsubscribe from any of our lists at any time. E-Activist subscribers can manually remove themselves from that list [here](http://www.freepress.net/action/unsub.php). Likewise, headlines subscribers can do so [here](http://www.freepress.net/mailman/listinfo/freepress_headlines). In the event you wish to update, delete or otherwise make changes to your relationship with us, or otherwise make changes to your relationship with us, visit .<http://action.freepress.net/freepress/smp.html>.
+You can unsubscribe from any of our lists at any time. E-Activist subscribers can manually remove themselves from that list [here](https://freepress.net/action/unsub.php). Likewise, headlines subscribers can do so [here](https://freepress.net/mailman/listinfo/freepress_headlines). In the event you wish to update, delete or otherwise make changes to your relationship with us, or otherwise make changes to your relationship with us, visit .<http://action.freepress.net/freepress/smp.html>.
 
 Lists maintained by Free Press for electronic mailings are exclusively “opt-in” lists. We do not purchase information from third-party sources or gather personal data from the web (known as spidering) for inclusion in our ongoing e-mail lists.
 
@@ -54,14 +58,27 @@ If we are required by law to disclose any information that you have provided us,
 
 ## Questions?
 
-For any other information about our privacy practices and/or this policy, please contact [info(AT)freepress.net](http://www.freepress.net/mailconvert.php?addr=info).
+For any other information about our privacy practices and/or this policy, please contact [info(AT)freepress.net](https://freepress.net/mailconvert.php?addr=info).
 
 ## Copyright
 
-All text, images and other materials on freepress.net are Copyright © 2005 Free Press, unless otherwise noted. 
+All text, images and other materials on freepress.net are Copyright © 2007 Free Press, unless otherwise noted (e.g embedded YouTube content, and news articles). 
 
 We encourage reproduction and distribution of original materials on this site for educational and personal use. All content on this site from Free Press (unless otherwise noted) is available to you under a [Creative Commons Attribution-NonCommercial-ShareAlike license](http://creativecommons.org/licenses/by-nc-sa/2.5/). 
 
 In short, this license allows you to copy, distribute, display, or make derivative works provided that you a) **credit Free Press** , b) do not use it for commercial purposes, and c) release any derivative works under this same license. 
 
 [](http://creativecommons.org/)
+
+  
+
+
+## Copyright Infringement Notification
+
+If you have a copyright complaint please follow the procedures set forth in the [Digital Millennium Copyright Act](http://www.copyright.gov/legislation/dmca.pdf). Our agent for notice is Kimberly Longey, Managing Director. She can be reached by phone at 413.585.1533, fax at 413.585.8904, or by email at [ copyright(at)freepress.net](https://freepress.net/mailconvert.php?addr=copyright). Please direct your written correspondence to her at:
+
+Free Press
+
+100 Main St, P.O. Box 28
+
+Northampton, MA 01061
