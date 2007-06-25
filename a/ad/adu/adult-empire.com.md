@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adult-empire.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215040931id_/http%3A//www.adult-empire.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adult-empire.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625100803id_/http%3A//www.adult-empire.com/privacy.htm) for the most accurate reproduction.*
 
 # Adult-Empire.com NEWS
 
