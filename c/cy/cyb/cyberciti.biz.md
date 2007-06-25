@@ -1,8 +1,17 @@
-> *The following text is extracted and transformed from the cyberciti.biz privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207081744id_/http%3A//www.cyberciti.biz/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberciti.biz privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625134829id_/http%3A//www.cyberciti.biz/privacy.php) for the most accurate reproduction.*
 
 # nixCraft :: Privacy policy
 
 We are committed to your privacy.
+
+  
+
+
+### Short Version
+
+This site keeps all your personal information secret. Your personal information is not shared with anyone else. 
+
+### Long Version
 
 This site hosts the project, documents, and tutorials related to open source software's, Linux, FreeBSD and UNIX (Solaris) etc., largely compiled and maintained by nixCraft or by project contributors. We do not ask for any registration except registration is compulsory only if:
 
