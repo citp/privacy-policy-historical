@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photoworks.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016142530id_/http%3A//www.photoworks.com/util/knowledgeBaseTemplate.jsp%3FhelpFile%3Dprivacy.html%26subject%3DPrivacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoworks.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625054056id_/http%3A//www.photoworks.com/util/knowledgeBaseTemplate.jsp%3FhelpFile%3Dprivacy.html%26subject%3DPrivacy%2520Policy) for the most accurate reproduction.*
 
 # PhotoWorks: Help with your PhotoWorks account
 
@@ -20,6 +20,7 @@ If you have questions or concerns regarding this statement, you should first con
   * Registration Forms: Email Updates and Promotions
   * Ability for Customers to "Opt Out"
   * Tell A Friend
+  * Sharing and Community Features
 
 
 
@@ -45,7 +46,7 @@ If you have questions or concerns regarding this statement, you should first con
 
 #### Contact Information
 
-#### Protecting the Information You Explicitly Provide
+### Protecting the Information You Explicitly Provide
 
 Keeping your personal and financial information secure is vitally important to us.  We urge you not to disclose your personal information or password to anyone. The PhotoWorks site has security measures in place to protect against the loss, misuse and alteration of the information under our control. When you enter sensitive information (such as credit card number or password) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).  Financial information is transferred between client and PhotoWorks Web server using a public/private key encryption method using a certificate authority (VeriSign). We have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Access to data is limited to authorized PhotoWorks staff members on a need-to-know basis. Web security and security procedures are reviewed and updated to ensure data protection.
 
@@ -60,8 +61,6 @@ PhotoWorks reserves the right to disclose your personally identifiable informati
 When you sign up with PhotoWorks, you establish a password-protected personal account for using our services.  In order to establish the account, we will need your name and email address. This personal information is used to conduct business with you, to verify your identity as a registered PhotoWorks customer, for access to the customer images and for the delivery of prizes or other materials.
 
 The password you create will allow you to access your account and therefore, should be as secure as possible.  A good password includes seemingly random letters and numbers.  It should not be obvious, such as the name of your child, pet or birthplace. You can update your account information and change your password at any time. You can do this on the ‘Account Info’ page from your personal ‘My PhotoWorks’ page.  If you have forgotten your password, please request a new password by sending an e-mail message to [customercare@photoworks.com](mailto:customercare@photoworks.com).  Your PhotoWorks account can be deactivated, but doing so will result in not being able to access any password-protected area of the PhotoWorks site. Please contact [customercare@photoworks.com](mailto:customercare@photoworks.com) for further instructions about deactivating your PhotoWorks account.
-
-By emailing an invitation (email link) to share your photos or posting your photos to a community viewing page on PhotoWorks, you give users the opportunity to view as well as buy prints from images you explicitly designate for sharing. Be aware that those who have received your invitation can then forward links to your images to others for viewing.
 
 #### Order Forms
 
@@ -84,9 +83,15 @@ Users who no longer wish to receive our newsletter or promotional materials from
 
 If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. PhotoWorks will automatically send the friend a one-time email inviting them to visit the site. PhotoWorks stores this information for the sole purpose of sending this one-time email. The friend may contact PhotoWorks at [privacy@photoworks.com](mailto:privacy@photoworks.com) to request the removal of this information from our database.
 
+#### Sharing and Community Features
+
+By emailing an invitation (email link) to share your photos or posting your photos to a community viewing page on PhotoWorks, you give users the opportunity to view as well as buy prints from images you explicitly designate for sharing. Be aware that those who have received your invitation can then forward links to your images to others for viewing and purchasing. 
+
+If you post a comment on any PhotoWorks site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of the website, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in your comments. In addition, we reserve the right to terminate the accounts of members if they use our services in a manner inconsistent with these terms and conditions.
+
 ### Providing Services Through a Third Party
 
-PhotoWorks uses third-party vendors to fulfill orders for certain products and services sold on the PhotoWorks Web site. In the event the product or service you purchase is fulfilled by a third party, personal information such as your name, mailing and email addresses and financial information such as a credit card number and expiration date will be shared with the third-party provider to process your order and to notify you of your order status. The third-party provider may not use this information for any purpose other than to process your order. It will not be used for additional sales or solicitation by the third party, nor rented or sold to any other third party unless you explicitly give us permission to do so, or unless required to do so to satisfy any law, regulation, governmental request, or judicial order.
+PhotoWorks uses third-party vendors to fulfill orders for certain products and services sold on the PhotoWorks Web site. In the event the product or service you purchase is fulfilled by a third party, personal information such as your name, mailing and email addresses and financial information such as a credit card number and expiration date will be shared with the third-party provider to process your order and to notify you of your order status. The third-party provider may not use this information for any purpose other than to process your order. It will not be used for additional sales or solicitation by the third party, nor rented or sold to any other third party unless you explicitly give us permission to do so, or unless required to do so to satisfy any law, regulation, governmental request, or judicial order. Kana Software, Inc. provides the Knowledge Base and Email Contact Services on our site. When you use our Knowledge Base or contact us through forms provided on our site, the information is shared as necessary with Kana Software, Inc. to provide those services. Kana Software, Inc. is prohibited from using your personally identifiable information for any other purpose.
 
 #### Supplementation of Information
 
