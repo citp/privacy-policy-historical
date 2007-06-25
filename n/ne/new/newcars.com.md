@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the newcars.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218192445id_/http%3A//newcars.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newcars.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625024417id_/http%3A//www.newcars.com/privacy.php) for the most accurate reproduction.*
 
 # NewCars.com Privacy Policy
 
 Introduction
 
-Welcome to NewCars.com (the “Site”). Your privacy is important to us. By participating in the Better Business Bureau's [BBBOnLine Privacy Program](https://web.archive.org/rd.php?http://www.bbbonline.org/cks.asp?id=103012218215929215!!m_id=800&l_id=105&zip=&model_id=0&detid=1001), we have made a commitment to meet the program's strict requirements regarding how we treat your information.
+Welcome to NewCars.com (the “Site”), a member of the Better Business Bureau of the Southland, Inc.
 
-In connection with this commitment, we provide this statement explaining our online information practices, To make this notice easy to find, we make it available through a link on all of our pages.
+We provide this statement explaining our online information practices, To make this notice easy to find, we make it available through a link on all of our pages.
 
 Collection of Information 
 
@@ -50,7 +50,7 @@ Although we take steps to help prevent the misuse of your information, after any
 
 Accessing or Changing Information
 
-If you wish to access, verify the accuracy of, correct, or change the personally identifiable information you have submitted via the Site, please contact us via [e-mail](https://web.archive.org/mailer.php). To protect your privacy, we may take reasonable steps to verify your identity before granting access or making corrections.
+If you wish to access, verify the accuracy of, correct, or change the personally identifiable information you have submitted via the Site, please contact us via [e-mail](https://web.archive.org/web/20070625024417id_/http%3A//www.newcars.com/mailer.php). To protect your privacy, we may take reasonable steps to verify your identity before granting access or making corrections.
 
 Security
 
@@ -70,4 +70,4 @@ If this privacy statement materially changes, the new privacy statement will be 
 
 Questions
 
-If you have any questions about this privacy statement, please [e-mail us](https://web.archive.org/mailer.php).
+If you have any questions about this privacy statement, please [e-mail us](https://web.archive.org/web/20070625024417id_/http%3A//www.newcars.com/mailer.php).
