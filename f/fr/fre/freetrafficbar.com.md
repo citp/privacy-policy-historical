@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the freetrafficbar.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615035328id_/http%3A//freetrafficbar.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freetrafficbar.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625031930id_/http%3A//freetrafficbar.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
 
-# Free Traffic and Search Bar for Internet Explorer and Firefox
+# Free Traffic Bar for Internet Explorer and FireFox
 
 **THIS PRIVACY STATEMENT DISCLOSES THE PRIVACY PRACTICES FOR Free Traffic Bar**
 
 **Information Collection and Use of Information**  
-In order to use this website, a user must first complete the registration form. During registration a user is required to give his contact information (email address). This information is used to contact the user about the service and products we provide or wish to provide. We will not sell, share, or rent personal information to others.  The Free Traffic Bar may place a user in the down line of other members at our discretion.  If this is done, the up line member will see only your name, not your email address.
+In order to use this website, a user must first complete the registration form. During registration a user is required to give his contact information (email address). This information is used to contact the user about the service and products we provide or wish to provide. We will not sell, share, or rent personal information to others.
 
 **Security**  
 This website takes every precaution to protect our users personal information. When a user submits sensitive information via our site, the information is protected both online and off-line. Only the administrator of this site can access personal information of the users. 
