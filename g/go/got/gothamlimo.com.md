@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gothamlimo.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206004247id_/http%3A//gothamlimo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gothamlimo.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626004618id_/http%3A//gothamlimo.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
