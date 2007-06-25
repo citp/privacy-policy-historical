@@ -1,0 +1,391 @@
+<!--The following is the downloaded HTML source of the familyoven.com privacy policy that was archived on 2007-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070625173012id_/http%3A//www.familyoven.com/privacy_policy.jsp) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
+<title>Family Oven -  - Reverse Recipe Search Results - FamilyOven.com</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="Free Recipes: food and drink recipes from top sites on the internet. From an all American apple pie for your memorial day BBQ to delicious red wine sangria complementing a savory vegetarian chili.">
+<meta name="keywords" content=""><link rel="stylesheet" type="text/css" href="/static/css/common_styles.css">
+
+<script type="text/javascript" src="/static/js/jquery.js"></script>
+<script type="text/javascript" src="/static/js/autocomplete.js"></script>	
+
+
+<script type="text/javascript">
+/*
+function selectItem(li) {
+	if (li.extra) {
+		alert("That's '" + li.extra[0] + "' you picked.")
+	}
+}
+*/
+function formatItem(row) {
+	return row[0];
+	
+}
+$(document).ready(function() {
+	$("#searchbar").get(0).select();
+	$("#searchbar").autocomplete("/ingredient_lookup.jsp", { minChars:3, matchSubset:1, matchContains:1, cacheLength:10, /*onItemSelect:selectItem,*/ formatItem:formatItem, selectOnly:1 });
+	#toggler.onclick(function(){filter.toggleCheckboxes()});
+});
+
+
+</script>
+
+<style>
+.searchbar{
+height:17px;
+width:370px;
+}
+</style>
+
+</head>
+<body>
+
+<div id="main" class="pm0" align="center">
+<script>
+function checkEnter(e){ 
+	var characterCode;
+	if(e && e.which){
+		e = e
+		characterCode = e.which
+	} else {
+		e = event
+		characterCode = e.keyCode;
+	}
+	if(characterCode == 13){ 
+		checkHeaderForm(document.headerSearchForm);
+		return false;
+	} else {
+		return true;
+	}
+}
+var defaultNameText = "Recipe Name";
+var defaultIngText = "Ingredients";
+
+function checkHeaderForm(x){
+	var sn = x.search_name.value;
+	var si = x.search_ings.value;
+	if ( sn == defaultNameText ){
+		x.search_name.value = "";
+	}
+	if ( si == defaultIngText ){
+		x.search_ings.value = "";
+	}
+	return true;
+}
+function searchInputSelected(obj){
+	if( obj.value == defaultNameText || obj.value == defaultIngText ) {
+		obj.value = "";
+	}
+	obj.style.color="black";
+}
+</script>
+<div id="header">
+	<div class="inner-cont1 w765">
+			<div id="inner-cont1-left">
+				<a href="/"><img src="/static/images/logo-150.gif" border="0"></a>
+			</div>
+			<div id="inner-cont1-right">
+				<form action="/search.jsp" name="headerSearchForm" onsubmit="checkHeaderForm(this);" id="headerSearchForm">	
+					<span style="margin-right:10px;">
+						<input type="text" name="search_name" class="header-search" value="Recipe Name" onfocus="searchInputSelected(this)" onkeypress="checkEnter(event)">
+						+/or
+						<input type="text" name="search_ings" class="header-search" value="Ingredients" onfocus="searchInputSelected(this)" onkeypress="checkEnter(event)">
+						<input type="image" style="vertical-align:middle;" src="/static/images/search_button.gif" border="0">			
+					</span>
+					<span id="log-out" style="display:none;"><a href="/accounts/Logout">Log Out</a></span>
+					<span id="log-in">
+						<a href="/accounts/login">Login</a>
+					</span>
+				</form>
+			</div>
+
+		<div class="clearer"></div>
+	</div>
+	<div id="main-menu-container">
+		<div id="main-menu">
+			<div class="menu-right">
+				Add:&nbsp;
+				<a href="/members/recipes/editRecipe">Recipe</a>
+				 &nbsp;&nbsp;|&nbsp;&nbsp; 
+				<a href="/members/videos/editVideo">Video</a>
+			</div>
+			<div class="menu-left">
+				<ul>
+					<li class="cap"><a href="/">Home</a></li>
+					<li class="cap"><a href="/members/myStuff">My Stuff</a></li>
+					<li><a href="/browse/recipes">Recipes</a></li>
+					<li><a href="/browse/videos">Videos</a></li>
+					<li><a href="/browse">Browse</a></li>
+					<li class="cap"><a href="/members/messaging" rel="nofollow">Messages</a></li>
+				</ul>
+			</div>
+	
+		</div>
+	    <div id="sub-main-menu-container">
+					Save recipes from your favorite cooking sites, make friends and share family creations.
+					<a href="/accounts/register"><img src="/static/images/join_now_button.gif" border="0" style="vertical-align:middle;"></a>
+			</div>
+		<div class="clearer"></div>
+	
+	</div>
+</div>
+
+
+<div id="inner-main">
+	<div id="left-col" class="fleft">
+		<div class="main-item" style="width:440px;">
+<h1>FamilyOven Privacy Policy</h1> 
+<p>
+Janurary 15, 2007
+</p>
+
+<p>
+At FamilyOven we recognize that privacy is important. This document outlines the types of personal information we receive and collect when you use FamilyOven's services, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us. 
+</p>
+<h2>Scope</h2>
+<p>
+This notice offers highlights of the full FamilyOven Privacy Policy, which describes in detail the privacy practices that apply to FamilyOven's products, services and websites worldwide (collectively, FamilyOven's "services"). You can also get more information about the privacy practices for specific FamilyOven services in the navigation bar to the left of this notice. 
+Personal information and other data we collect 
+</p><ul style="list-style: square inside;">
+<li>FamilyOven collects personal information when you register for a FamilyOven service or otherwise voluntarily provide such information. </li>
+<li>FamilyOven uses cookies and other technologies to enhance your online experience and save information like search history and saved links. </li>
+<li>FamilyOven's servers automatically record information when you visit our website or use some of our products, including the URL, IP address, browser type and language, and the date and time of your request. </li>
+</ul>
+<p></p>
+
+<h2>Uses </h2>
+<p>
+</p><ul style="list-style: square inside;">
+<li>We may use personal information to provide the services you've requested, including services that display customized content and advertising. </li>
+<li>We may also use personal information for auditing, research and analysis to operate and improve FamilyOven technologies and services. </li>
+<li>We may share aggregated non-personal information with third parties outside of FamilyOven. </li>
+<li>When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. </li>
+<li>We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. </li>
+<li>FamilyOven processes personal information on our servers in the United States of America and in other countries </li>
+</ul>
+<p>
+
+</p><h2>Your choices </h2>
+<p>
+</p><ul style="list-style: square inside;">
+<li>We offer you choices when we ask for personal information, whenever reasonably possible. You can find more information about your choices in the privacy notices or FAQs for specific services. </li>
+<li>You may decline to provide personal information to us and/or refuse cookies in your browser, although some of our features or services may not function properly as a result. </li>
+<li>We make good faith efforts to provide you access to your personal information upon request and to let you correct such data if it is inaccurate and delete it, when reasonably possible. </li>
+</ul>
+<p></p>
+
+<h2>More information </h2>
+<p>
+For information about specific FamilyOven services, please check the relevant privacy notice in the navigation bar to the left. FamilyOven is a member of the EU/US Safe Harbor Program. 
+If you have additional questions, please contact us any time.
+</p>
+
+					
+		</div> <!-- main -->
+	</div>
+	<div id="right-col" class="fleft">
+
+		<div class="right-mpu m6" style="height:80px;">
+			<p class="ad-header">:advertisement/module</p>
+		</div>
+		
+		<div class="right-mpu m6">
+			<p class="ad-header">:advertisement/module</p>
+		</div>
+		<div class="right-mpu m6">
+			<p class="ad-header">:advertisement/module</p>
+		</div>
+	</div>
+	<div class="clearer">&nbsp;</div>
+</div>
+<div class="ad-lead-cont">
+<!--<p class="advert-text pm0">advertisement</p>-->
+<div class="leaderboard">
+<!--	<img src="/static/images/leaderboard.gif" width="728" height="90" border="0" alt="" /> -->
+</div></div>
+<div id="footer">
+<div class="clearer"></div>
+<div id="footer-info" align="center">
+<p>Holidays: <a href="/recipes/search/memorial-day?&amp;filters=-pic:(empty)&amp;tags=barbeque">Memorial Day Recipes</a> | <a href="/recipes/search/easter?&amp;filters=-pic:(empty)">Easter Recipes</a> | 
+	<a href="/recipes/search/thanksgiving?&amp;filters=-pic:(empty)">Thanksgiving Recipes</a> | <a href="/recipes/search/xmas">XMas Recipes</a> | <a href="/recipes/search/christmas?&amp;filters=-pic:(empty)">Christmas Recipes</a> |
+	<a href="/recipes/search/passover?&amp;filters=-pic:(empty)">Passover Recipes</a> | <a href="http://www.familyoven.com/recipes/search/july 4th bbq?search_ings=&amp;tags=chicken">4th of July Recipes</a> | <a href="/recipes/search/Holloween">Holloween Recipes</a>
+</p>
+<p>Top Searches: <a href="/recipes/search/chicken-satay?&amp;filters=-pic:(empty)">Chicken Satay Recipe</a> | <a href="/recipes/search/bbq-chicken?&amp;filters=-pic:(empty)">BBQ Chicken</a> | <a href="/recipes/search/chili?&amp;filters=-pic:(empty)">Chili</a> | <a href="/recipes/search/bbq?&amp;filters=-pic:(empty)">BBQ</a> | <a href="/recipes/search/easy-chicken-recipes?&amp;filters=-pic:(empty)">Easy Chicken</a> | <a href="/recipes/search/simple-chicken-recipes?&amp;filters=-pic:(empty)">Simple Chicken</a> | <a href="/recipes/search/cake?&amp;filters=-pic:(empty)">Cake</a> |
+   <a href="/recipes/search/lime-rice?&amp;filters=-pic:(empty)">Lime Rice Recipe</a> | <a href="/recipes/search/hummus">Hummus</a> | <a href="/recipes/search/burger">Burger Recipe</a> |
+   <a href="/recipes/search/oatmeal-rasin-cookie?&amp;filters=-pic:(empty)">Oatmeal Rasin Cookie</a> | <a href="/recipes/search/enchiladas?&amp;filters=-pic:(empty)">Enchilada</a> | <a href="/recipes/search/pizza?&amp;filters=-pic:(empty)">Pizza Recipe</a>
+</p>
+<p>© 2007 familyoven LLC. <a href="/privacy_policy.jsp">privacy policy</a> | <a href="/terms_of_service.jsp">terms of service</a> | <a href="/Browse">Browse Recipes</a> | <a href="mailto:info@familyoven.com">Contact Us</a></p>
+<br>
+</div>
+</div></div>
+<br>
+<div id="familycomments">
+	<form name="commentsForm" action="/submitComments">
+	<p class="field-title">Comments:</p>
+	<textarea id="commentsbox" class="text-field w300"></textarea>
+	<p class="field-title">E-mail: (not required)</p>
+	<input id="emailbox" type="text" class="text-field email w300">
+	<div class="text-button-container">
+		<input type="button" onclick="submitComments();" class="submit-button" value="Let Me In!">
+		<input type="button" onclick="closeComments();" class="submit-button" value="Cancel">
+	</div>
+	<div class="clearer"></div>
+</form>
+</div>
+<div id="accounts-mod">
+	<div id="mod-container">
+		<div id="register-mod">
+	<div class="mod-head">Register with FamilyOven.com</div>
+	<div class="prompt-content">
+		<div class="prompt-content-left">
+			<form name="register_modal" action="#" onsubmit="submitRegistration();return false;">
+				<p class="error-text"></p>
+				<p class="field-title">Email:</p><input type="text" name="email" value="" class="text-field email first-field w200 jTip" alt="?a=&amp;width=275&amp;side=right" id="email_address" title="Email Address">
+				<div class="email_address" style="display:none;">
+					<p>Be sure its a real address you use, we will be sending you verification code to it. BTW, we dont spam and we wont share you email with anyone. Were nice like that :)</p>
+				</div>
+
+				<p class="field-title">Zip:</p><input type="text" name="zip_code" maxlength="5" class="text-field w150 num jTip" alt="?a=&amp;width=275&amp;side=right" id="zip_code" title="Your Zip">
+				<div class="zip_code" style="display:none;">
+					<p>
+						5 digits. No more no less. This will help as we add features that give you information based on your locale.
+					</p>
+				</div>
+				
+				<p class="field-title">Gender:<input type="radio" name="gender" value="f" checked=""> Female <input type="radio" name="gender" value="m"> Male </p>
+				
+				<p class="field-title">Birth Year:</p><input type="text" name="birth_year" class="text-field w150 num jTip" maxlength="4" alt="?a=&amp;width=275&amp;side=right" id="birth_year" title="Your Gender">
+				<div class="birth_year" style="display:none;">
+					<p>
+						Just your year is fine in 4 digit format. i.e 1979. We wont tell anyone, promise.
+					</p>
+				</div>				
+				
+				<p class="field-title">Password:</p><input type="password" name="p" class="text-field pw w200 jTip" alt="?a=&amp;width=275&amp;side=right" id="password" title="Your Password">
+				<div class="password" style="display:none;">
+					<p>
+						Your password must be at least 6 characters in length. Its a good idea to use numbers as well as characters to make it harder for others to crack. Make you you right it down or its one you'll remember! ;)
+					</p>
+				</div>
+				
+				<input type="hidden" value="" name="forward">
+				<div class="text-button-container">
+					<input type="submit" class="submit-button" value="Done!">
+				</div>
+			</form>
+		</div>
+		<div class="prompt-content-right">
+			<span class="h3">Registration is Easy!</span>
+			<p>
+				Just fill in your email address and pick a password.  You will then get access to all of familyoven.com's features!
+				<br>Don't worry we won't sell or distribute your e-mail to anybody.
+			</p>
+			<a href="javascript:void(0);" onclick="showMod('login');">I am already registered</a>
+		</div>
+		<div class="clearer"></div>
+	</div>
+</div><div id="login-mod">
+	<div class="mod-head">Login to FamilyOven.com</div>
+	<div class="prompt-content">
+		<div class="prompt-content-left">
+			<form action="#" onsubmit="submitLogin();return false;">
+				<p class="error-text"></p>
+
+				<p class="field-title">Email:</p><input type="text" name="email" value="" class="text-field email w200">
+				
+				<p class="field-title">Password:</p><input type="password" name="p" class="text-field pw w200">
+				
+				<input type="hidden" value="" name="forward">						
+
+				<div class="text-button-container">				
+					<input type="submit" class="submit-button" value="Let Me In!">
+					<input type="button" onclick="cancelAccountsMods();" class="submit-button" value="Cancel">
+				</div>
+			</form>
+		</div>
+		<div class="prompt-content-right">
+			<span class="h3">Login to use these great features!</span>
+			<p>
+				Enter your email and password to get access to our always growing feature list.
+				<br>If you can't remember your password, just click "Forgot Password" below.
+				<br>If have not registered yet, then you're missing out on FREE features, so register below!
+			</p>
+			<a href="javascript:void(0);" onclick="showMod('register')">I need to Register first!</a><br>
+			<a href="javascript:void(0);" onclick="showMod('forgot-pw')">Forgot Password</a>
+		</div>
+		<div class="clearer"></div>
+	</div>
+</div><div id="verification-mod">
+	<div class="mod-head">Please verify your registration</div>
+	<div class="prompt-content">
+		<div class="prompt-content-left">
+			<form action="#" onsubmit="submitVerification();return false;">
+				<p class="error-text"></p>
+				<p class="field-title">Verification Code:</p><input type="text" name="m" class="text-field v-code w200">
+				<input type="hidden" value="" name="forward">						
+
+				<div class="text-button-container">
+					<input type="submit" class="submit-button" value="Let Me In!">
+				</div>
+			</form>
+		</div>
+		<div class="prompt-content-right">
+			<span class="h3">Please verify your email account.</span>
+			<p>
+				To prevent spammers and email fraud we have sent an email to the address you provided when you registered.
+				Check your inbox for your verification code and enter it in the field provided.
+				<br>Make sure you check your mail filter or junk box in case we didnt get through. Thanks!
+			</p>
+			<a href="javascript:void(0);" onclick="cancelAccountsMods();">Thanks, but I will verify my account later</a>
+			<br><a href="javascript:void(0);" onclick="resendVerification();">Please resend my verification email</a>
+		</div>
+		<div class="clearer"></div>
+	</div>
+</div><div id="forgot-pw-mod">
+	<div class="mod-head">Forgot Password</div>
+	<div class="prompt-content">
+		<div class="prompt-content-left">
+			<form>
+				<p class="error-text"></p>
+				<p class="field-title">Email:</p><input type="text" value="" name="email" class="text-field email w200">
+			</form>
+			<div class="text-button-container">				
+				<input type="button" onclick="submitForgotPW();" class="submit-button" value="Send">
+				<input type="button" onclick="cancelAccountsMods();" class="submit-button" value="Cancel">
+			</div>				
+		</div>
+		<div class="prompt-content-right">
+			<span class="h3">Forgot your password? No Problem!</span>
+			<p>
+			Simply enter your email address and we will send you password to you.
+			<br>If you remember your password give it another shot by clicking "login" below.
+			<br>If you havent registered yet then your crazy, so register below!
+			</p>
+			<a href="javascript:void(0);" onclick="showMod('login')">Login</a>
+			|
+			<a href="javascript:void(0);" onclick="showMod('register')">Register</a>
+		</div>
+		<div class="clearer"></div>
+	</div>
+</div>
+<div id="confirm-mod">
+	<p>
+		<span class="b"></span>
+		<br><br><a href="javascript:void(0);" onclick="cancelAccountsMods();">Click here to return to what you were doing.</a><br>
+	</p>
+</div><div id="waiting-mod">
+	<p>
+		<span class="b">Processing your request. This should only take a sec.</span>
+		<br><br><img style="text-align:center;" src="/static/images/loader.gif"><br>
+	</p>
+</div></div>
+</div>
+<div id="cover" onclick="cancelAccountsMods();" class="cover"></div><script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+	_uacct = "UA-1051395-1";
+	urchinTracker();
+</script>
+
+</body></html>
