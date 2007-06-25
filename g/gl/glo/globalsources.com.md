@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the globalsources.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211191802id_/http%3A//www.globalsources.com/HELP/PRIVACY.HTM) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalsources.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625072825id_/http%3A//www.globalsources.com/HELP/PRIVACY.HTM) for the most accurate reproduction.*
 
-# Global Sources - Help & FAQ - Privacy Policy
+# Global Sources - Help & FAQ
 
-[](http://www.globalsources.com/)
+|  | 
 
-  
+Help & FAQ
+
 **Privacy Policy** **Collection of information**   
 When you visit our website, we do not collect personally identifiable information about you, except when you specifically and knowingly provide it. For instance, while many areas of our website are free to all users, we do require registration for some services such as Product Alert. If you decide to register for these services, or if you request information from us, you will be asked to provide certain information and details, including your name, company, title, country and e-mail address. The information you provide helps us create customized content like Product Alert. You will receive information only for the products that interest you. To see how this works, view a sample of Product Alert in html format or text format. 
 
@@ -67,7 +68,7 @@ Two types of cookies are used on our website:
 
 **How and why we use cookies on our website and what information we collect**
 
-**Session Cookies:** •  | To allow you to access stored information within a registration process.  
+**Session Cookies:** | •  | To allow you to access stored information within a registration process.  
 ---|---  
 •  | To allow you to carry information across pages of our website and avoid you having to re-enter information. For example, to help automatically fill in your inquiry or other forms with your contact and other applicable details.  
 •  | To save or record your user ID and/or password (at your option), so that you do not have to repeatedly log-in when you visit our website.  
@@ -140,4 +141,5 @@ If you are using Netscape version 6:
 If you are using other versions or other browser software, then you can select "cookies" from the "Help" function in your browser for information on where to find your cookie folder to delete your cookies. 
 
 **Our Contact Information**   
-If you have any queries, comments or concerns, or require any help on cookie-related matters, please feel free to contact us at: [service@globalsources.com](mailto:service@globalsources.com) or Customer Services, 1 Sims Lane #08-01, Singapore 387355. 
+If you have any queries, comments or concerns, or require any help on cookie-related matters, please feel free to contact us at: [service@globalsources.com](mailto:service@globalsources.com) or Customer Services, 1 Sims Lane #08-01, Singapore 387355.   
+Copyright Trade Media Holdings Ltd. Copyright Trade Media Ltd. All rights reserved. Any unauthorized reproduction of any content herein is strictly prohibited.
