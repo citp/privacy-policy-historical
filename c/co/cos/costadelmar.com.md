@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costadelmar.com privacy policy that was archived on 2006-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061121104609id_/http%3A//www.costadelmar.com/aidStation/privacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costadelmar.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625060001id_/http%3A//www.costadelmar.com/aidStation/privacyPolicy.cfm) for the most accurate reproduction.*
 
 # Aid Station: FAQ, Costa Repairs, Costa Dealers, Pro Qualifications
 
