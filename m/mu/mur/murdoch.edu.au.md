@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the murdoch.edu.au privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205211016id_/http%3A//www.murdoch.edu.au/goto/PrivacyNotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the murdoch.edu.au privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625050000id_/http%3A//www.murdoch.edu.au/goto/PrivacyNotice) for the most accurate reproduction.*
 
 # Murdoch University University Web Sites Privacy Notice
 
-The following sets out how Murdoch University will deal with personal information related to the Content and use of its Web sites.
+Many of Murdoch University's Web sites have been developed to assist in the delivery of a range of services. In operating these sites, the University may need to collect, store and use information about users of the Web sites. The University recognises the importance of protecting any personal information collected and respects the privacy of its Web site users. This notice sets out how the University will deal with personal information related to the Content and use of its Web sites.
 
   1. Information Collected
   2. Use of Personal Information
@@ -65,6 +65,12 @@ Unique identifiers (such as login username and password) are collected when it i
 
 Unique identifiers may also be used to access stored information about a user's preferences to enable the dynamic display of a Web site according to your preferences when you return to that site. 
 
+#### Completion of Web Site Forms
+
+Some University Web sites may request that you provide personal identifying information such as your name, e-mail address, phone number etc. While you do not have to provide this information to the University, failure to do so may mean that we are unable to provide services to you. 
+
+Where you do provide this information, it is voluntarily submitted by you to the University. The information will only be used for the purposes explained to you when you provide it. 
+
 ####  Online Surveys
 
 All research surveys conducted online by University staff and / or students which involve the collection of personal information, will have received approval from the University's [Human Research Ethics Committee](http://www.research.murdoch.edu.au/ethics/hrec/hrec.asp). A survey may ask a user to enter a unique identifier (such as login information). 
@@ -88,13 +94,19 @@ Content hosted on University Web sites may contain links to other Internet-acces
 
 ### 2\. Use of Personal Information
 
-Personal information you supply online will be used by University staff in conducting the business of the University. Such uses include matters related to student administration, provision of services and the dissemination of information to staff, prospective and current students and remaining in contact with graduates. The University may use your IP address to help diagnose problems with a Web Server. Your IP address may also be used to set up an individual session to provide a secure login. 
+Personal information you supply online may be used by University staff in conducting the business of the University. Such uses include matters related to student administration, provision of services and the dissemination of information (including information about services the University offers) to staff, prospective and current students and remaining in contact with graduates. 
+
+The University may use your IP address to help diagnose problems with a Web Server. Your IP address may also be used to set up an individual session to provide a secure login. 
 
 ### 3\. Disclosure of Personal Information
 
 Staff email addresses, room numbers and phone numbers are made available within the Campus Directory. Staff may elect to not have their email address or phone number displayed via the Directory. 
 
-Personal information about students will not be made publically available on University Web sites without the written consent of individual students. 
+Personal information about students will not be made publicly available on University Web sites without the written consent of individual students. 
+
+The information provided by users completing any forms on University Web sites will not be disclosed to others except where disclosure is consistent with the purpose for which it was collected and is otherwise in accordance with applicable privacy law requirements. 
+
+For more information on how the University may use or disclose personal information, please see the University's [Privacy Policy](https://web.archive.org/admin/policies/privacy.html). 
 
 #### Public Forums
 
