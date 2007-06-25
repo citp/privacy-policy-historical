@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ausearchengine.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205204840id_/http%3A//www.ausearchengine.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ausearchengine.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625092538id_/http%3A//www.ausearchengine.com/privacy.html) for the most accurate reproduction.*
 
 # Australia Search Engine - Privacy
 
