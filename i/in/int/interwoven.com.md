@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interwoven.com privacy policy that was archived on 2006-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061115001406id_/http%3A//interwoven.com/company/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interwoven.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625101854id_/http%3A//www.interwoven.com/company/privacy_statement.html) for the most accurate reproduction.*
 
 # Interwoven Corporate - Privacy Statement
 
@@ -6,10 +6,29 @@
 |  |  |   
 ---|---|---  
 [](https://web.archive.org/index.html) |  |  |  |  |  |   
-|   
-  
+|  |   
 ---  
-| 
+| [Company](https://web.archive.org/company/) |   
+|  |   
+| [Branding](https://web.archive.org/company/brand/index.html) |   
+|  |   
+| [Careers](https://web.archive.org/careers/) |   
+|  |   
+| [Contact](https://web.archive.org/company/contact.html) |   
+|  |   
+| [ECM Overview](https://web.archive.org/company/about.html) |   
+|  |   
+| [Investors](http://phx.corporate-ir.net/phoenix.zhtml?c=115270&p=irol-irhome) |   
+|  |   
+| [Management](https://web.archive.org/company/management/bios.html) |   
+|  |   
+| [News](https://web.archive.org/news/press/index.html) |   
+|  |   
+  
+  
+[](https://web.archive.org/cgi-bin/iwov_contact.cgi)
+
+|  |  | 
 
 Interwoven considers your privacy important. This policy explains our policies and practices regarding how we intend to use and disclose your personal information that you provide to us. You should review this policy periodically to make sure that you are aware of how we collect and use personal information because we will update this policy from time to time without notice. By using our web site, you consent to the collection and use of your personal information by us. 
 
