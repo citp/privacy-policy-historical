@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the weichertrents.com privacy policy that was archived on 2006-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061130002825id_/http%3A//weichertrents.com/aboutus/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weichertrents.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625025705id_/http%3A//www.weichertrents.com/aboutus/Privacy.html) for the most accurate reproduction.*
 
 # Weichert Rental Network
-
-  | 
 
 **Weichert, Realtors and the affiliated companies of Weichert (“Weichert” or “we”)** recognize the importance of protecting the privacy of certain information collected about our customers and potential customers. This Privacy Policy was created in order to demonstrate our commitment to protecting our customers' privacy.
 
@@ -34,8 +32,6 @@ Morris Plains, New Jersey 07950
 Attention: Systems Administrator  
 
 
-**ACCEPTANCE OF THESE TERMS.** By using this site, you signify your agreement to Weichert 's Privacy Policy. IF YOU DO NOT AGREE WITH THIS POLICY, PLEASE DO NOT USE THIS SITE. Your continued use of Weichert's and/or its affiliates' sites following the posting of changes to these terms will mean you accept those changes.
+**ACCEPTANCE OF THESE TERMS.** By using this site, you signify your agreement to Weichert's Privacy Policy. IF YOU DO NOT AGREE WITH THIS POLICY, PLEASE DO NOT USE THIS SITE. Your continued use of Weichert's and/or its affiliates' sites following the posting of changes to these terms will mean you accept those changes.
 
-EffectiveMarch [01], 2004  
-  
----|---
+EffectiveMarch [01], 2004
