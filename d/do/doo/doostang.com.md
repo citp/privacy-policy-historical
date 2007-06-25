@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the doostang.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231093934id_/http%3A//doostang.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doostang.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625042323id_/http%3A//www.doostang.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Doostang.com - Privacy policy
 
-|  |  |  |   |  [](https://web.archive.org/web/20061231093934id_/http%3A//doostang.com/about_.asp) [](https://web.archive.org/web/20061231093934id_/http%3A//doostang.com/howdoyoudoo_.asp) [](https://web.archive.org/web/20061231093934id_/http%3A//doostang.com/success_stories6.asp) [](http://blog.doostang.com/)  
+|  |  |  |   |  [](https://web.archive.org/web/20070625042323id_/http%3A//www.doostang.com/about_.asp) [](https://web.archive.org/web/20070625042323id_/http%3A//www.doostang.com/howdoyoudoo_.asp) [](https://web.archive.org/web/20070625042323id_/http%3A//www.doostang.com/success_stories6.asp)  
 ---|---  
    
 |  Privacy policy  
@@ -89,11 +89,11 @@ Palo Alto, CA 94301
 
 8\. **Acceptance of Privacy Policy**
 
-  * Your use of the Company Sites, including any dispute concerning privacy, is subject to this Privacy Policy and Company's [Terms and Conditions](https://web.archive.org/web/20061231093934id_/http%3A//doostang.com/termsandconditions.asp) of Use. By using the Company Sites, you are accepting the practices set out in this Privacy Statement and those Terms and Conditions of Use. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date at the bottom of this page to determine if the statement has been modified since you last reviewed it. Your continued use of any portion of the Company Sites following posting of the updated Privacy Policy will constitute your acceptance of the changes. 
+  * Your use of the Company Sites, including any dispute concerning privacy, is subject to this Privacy Policy and Company's [Terms and Conditions](https://web.archive.org/web/20070625042323id_/http%3A//www.doostang.com/termsandconditions.asp) of Use. By using the Company Sites, you are accepting the practices set out in this Privacy Statement and those Terms and Conditions of Use. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date at the bottom of this page to determine if the statement has been modified since you last reviewed it. Your continued use of any portion of the Company Sites following posting of the updated Privacy Policy will constitute your acceptance of the changes. 
 
   
   
 |   
 ---  
-Copyright © 2006 Doostang, Inc.   All rights reserved. [Terms of service](https://web.archive.org/web/20061231093934id_/http%3A//doostang.com/termsandconditions.asp), [Privacy Policy](https://web.archive.org/web/20061231093934id_/http%3A//doostang.com/privacypolicy.asp)  
+Copyright © 2007 Doostang, Inc.   All rights reserved. [Terms of service](https://web.archive.org/web/20070625042323id_/http%3A//www.doostang.com/termsandconditions.asp), [Privacy Policy](https://web.archive.org/web/20070625042323id_/http%3A//www.doostang.com/privacypolicy.asp)  
 |  | 
