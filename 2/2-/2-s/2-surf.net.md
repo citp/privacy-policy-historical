@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2-surf.net privacy policy that was archived on 2006-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061220102904id_/http%3A//www.2-surf.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2-surf.net privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625220600id_/http%3A//www.2-surf.net/privacy.php) for the most accurate reproduction.*
 
 # Cosmetics,Fragrance,Handbags,Jewelry,Shoes,Music,Art,Music,Automotive,WebTools
 
@@ -11,41 +11,45 @@
 ---|---  
 |    
   
-[   
-](http://www.2-surf.net/out.php?ID=190&type=banner2)   
   
 |  Recent Listings  
 ---  
   
-  [ ** _Sarah Ogren Mixed Media Artist_**](http://www.2-surf.net/ArtPhotoMusic/Art/2-4-0-15910-0-0.html) \- USA, Illinois 
+  [ ** _Rettie Property Scotland_**](http://www.2-surf.net/Home-&-Garden/Real-Estate/18-84-0-18747-0-0.html) \- United Kingdom, Alabama 
 
-  Sarah Ogren is a mixed media and collage artist. Her work combines her love of vintage images and de
+  Rettie is a leading property agency in Scotland, covering traditional properties
 
-  (11-01-2006)
+  (12-15-2006)
 
-  [ ** _DreamJob.com.au_**](http://www.2-surf.net/Business/Business-To-Business/5-18-0-18021-0-0.html) \- Australia, Alabama 
+  [ ** _Strictlyballin.net - 2Pac | Tupac Amaru Shakur | Makaveli | Unsigned Hype_**](http://www.2-surf.net/ArtPhotoMusic/Music/2-5-0-5281-0-0.html) \- USA, 
 
-  Find your dream job in Australia. Thousands of jobs to choose from.
+  2Pac Fansite dedicated to the Late Tupac Shakur. The Latest Makaveli/Outlawz New
 
-  (12-05-2006)
+  (10-20-2006)
 
-  [ ** _ACORN-ACTIVITIES_**](http://www.2-surf.net/Gifts-&-Flowers/Gifts/16-67-0-10605-0-0.html) \- United Kingdom, 
+  [ ** _Dubrovnik Old Town Accommodations_**](http://www.2-surf.net/Travel/Hotel/27-109-0-23674-0-0.html) \- Other, Other 
 
-  "Unique birthday gifts - motoring and extreme adventure activity vouchers, relaxing spa break v
+  If you are planning your holidays in the beautful city of Dubrovnik, then stay i
 
-  (10-19-2006)
+  (03-06-2007)
 
-  [ ** _Babies Online_**](http://www.2-surf.net/Family/Babies/12-45-0-112-0-0.html) \- USA, 
+  [ ** _Ships of Paradise & Mericyacht_**](http://www.2-surf.net/Business/Travel/5-22-0-7023-0-0.html) \- USA, 
 
-  Bubbles - Free web page for baby, info for parents, cute baby contest. 
+  (since:1979) A-Marin yachting licance:126/ We are a specialist yacht charter com
 
-  (10-19-2006)
+  (10-20-2006)
 
-  [ ** _Texas Traffic School_**](http://www.2-surf.net/Automotive/Cars-&-Trucks/3-7-0-5717-0-0.html) \- USA, 
+  [ ** _Estreetloans.com_**](http://www.2-surf.net/Financial-services/Loans/13-54-0-22404-0-0.html) \- USA, Connecticut 
 
-  TicketRelief.com offer online traffic school to California, Florida, and Texas residents. Clear your
+  Refinance home loans, apply for mortgages, consolidate student loans, auto loans
 
-  (10-20-2006)  
+  (02-19-2007)
+
+  [ ** _Buy Access Doors & Panels_**](http://www.2-surf.net/Business/Business-To-Business/5-18-0-18053-0-0.html) \- USA, Alabama 
+
+  For all your access door needs. Flush access doors, Recessed access doors, Fire 
+
+  (12-05-2006)  
   
   
   
@@ -159,75 +163,85 @@ Though we make every effort to preserve user privacy, we may need to disclose pe
   
     Welcome! Use this window to get help and other useful notes on how to achieve the best results while working with the system.  
   
-[   
-](http://www.2-surf.net/out.php?ID=469&type=banner2)   
+  
 Featured Listings  
 ---  
   
-  [ ** _LyricsQwest.net_**](http://www.2-surf.net/Web-Services/Scripts-and-software/28-125-0-11954-0-0.html) \- USA, North Carolina 
+  [ ** _Photographer Erik Hagman_**](http://www.2-surf.net/ArtPhotoMusic/Photo/2-6-0-29529-0-0.html) \- USA, New York 
 
-  Muisc lyrics script with over 140,000 lyrics included in the database.
+  Photographer Erik Hagman, Cars, Still-Life and Landscape Photography.
 
-Hurry while this scrip
+  [ ** _SafeGuard World International Managed Payroll_**](http://www.2-surf.net/Business/Business-To-Business/5-18-0-29510-0-0.html) \- United Kingdom, Alabama 
 
-  [ ** _Felix-Enterprises_**](http://www.2-surf.net/ClothingApparel/Women's/7-28-0-15764-0-0.html) \- USA, Oregon 
+  SafeGuard World provide managed payroll and HR solutions to a range of industrie
 
-  welcome to Felix-Enterprises, we carry a large selection of hot lingerie, sexy intimate apparel,stoc
+  [ ** _Employment Agents UK_**](http://www.2-surf.net/Careers/CV-Help/6-144-0-29331-0-0.html) \- United Kingdom, Other 
 
-  [ ** _SubmitEaze - Directory Submission Software_**](http://www.2-surf.net/Business/Business-To-Business/5-18-0-16288-0-0.html) \- Other, Other 
+  This website provides a full directory of all UK employment agents, you can sear
 
-  Submit your Website to Hundreds of Web Directories Quickly & Effortlessly
+  [ ** _Cariboo Blades Fine Art,Traditional Tools and Knives_**](http://www.2-surf.net/ArtPhotoMusic/Art/2-4-0-11594-0-0.html) \- Canada, Washington 
 
-SubmitEaze is a
+   Aki's holiday card catalogue is ready on the site.
 
-  [ ** _StubHub.com_**](http://www.2-surf.net/ArtPhotoMusic/Music/2-5-0-16177-0-0.html) \- USA, California 
+Traditional to
 
-  StubHub is the fan's ticket marketplace, enabling customers to buy and sell tickets at fair mar
+  [ ** _UK Guest Houses_**](http://www.2-surf.net/Travel/Accommodation/27-127-0-29503-0-0.html) \- United Kingdom, Alabama 
 
-  [ ** _The Cellular One_**](http://www.2-surf.net/Commerce/Telephone-Services/8-33-0-14132-0-0.html) \- USA, Kansas 
+  This website provides a full directory of all UK guest houses, you can browse fo
 
-  Compare Cell Phones, Research Cellular phones, Free cell phones, Compare Cell Phone plans, cell phon  
+  [ ** _Online Casino_**](http://www.2-surf.net/Recreation-&-Leisure/BettingGaming/24-94-0-29513-0-0.html) \- Australia, Alabama 
+
+  Everything you need to know about choosing the best online casinos and playing b  
   
   
 Top Listings  
 ---  
   
-  [ ** _Hot Topic_**](http://www.2-surf.net/ArtPhotoMusic/Music/2-5-0-466-0-0.html) \- USA, 
+  [ ** _Cariboo Blades Fine Art,Traditional Tools and Knives_**](http://www.2-surf.net/ArtPhotoMusic/Art/2-4-0-11594-0-0.html) \- Canada, Washington 
 
-  Hottopic.com brings fashion and music together with the latest styles in punk, rock, gothic, club, r
+   Aki's holiday card catalogue is ready on the site.
 
-  ( **1978** Hits since 10-19-2006)
+Traditional to
 
-  [ ** _Barbecues.com_**](http://www.2-surf.net/Family/Entertainment/12-47-0-121-0-0.html) \- USA, 
+  ( **1789** Hits since 10-20-2006)
 
-  Your backyard barbecue source.
+  [ ** _BestgenericPharmacy_**](http://www.2-surf.net/Health-&-Beauty/Pharmaceuticals/17-73-0-9799-0-0.html) \- USA, 
 
-  ( **1875** Hits since 10-19-2006)
+  generic pharmacy online offers you the finest quality generic drugs for a very c
 
-  [ ** _CareerBuilder.com_**](http://www.2-surf.net/Careers/Employment/6-23-0-190-0-0.html) \- USA, 
+  ( **1785** Hits since 10-20-2006)
 
-  Search & Apply to New Jobs 
+  [ ** _The Cellular One_**](http://www.2-surf.net/Commerce/Telephone-Services/8-33-0-14132-0-0.html) \- USA, Kansas 
 
-  ( **1770** Hits since 10-19-2006)
+  Compare Cell Phones, Research Cellular phones, Free cell phones, Compare Cell Ph
 
-  [ ** _CallWave Software...because some calls really matter!_**](http://www.2-surf.net/Computer-&-Electronics/Computer-Software/9-37-0-181-0-0.html) \- USA, 
+  ( **1611** Hits since 10-20-2006)
 
-  Surf the Internet without missing important calls. Downloads in minutes. Try CallWave Risk-Free for 
+  [ ** _active gear 4 active people_**](http://www.2-surf.net/ArtPhotoMusic/Art/2-4-0-6758-0-0.html) \- USA, 
 
-  ( **1687** Hits since 10-19-2006)
+  gear, liturarure and tools for outdoor enthusiasts. 
 
-  [ ** _AmericanSingles.com_**](http://www.2-surf.net/Recreation-&-Leisure/Matchmaking/24-97-0-82-0-0.html) \- USA, 
+  ( **1098** Hits since 10-20-2006)
 
-  americansingles.com - Free personals, dating, chat, millions of members
+  [ ** _Felix-Enterprises_**](http://www.2-surf.net/ClothingApparel/Women's/7-28-0-15764-0-0.html) \- USA, Oregon 
 
-  ( **1599** Hits since 10-19-2006)  
+  We carry hot lingerie and sexy intimate. FREE shipping on all orders over $50.00
+
+  ( **1018** Hits since 10-28-2006)
+
+  [ ** _A & N Buy'n Save Satellite_**](http://www.2-surf.net/Business/Business-To-Business/5-18-0-1338-0-0.html) \- USA, 
+
+  Up to 4 Free Satellite TV Systems  
+Monthly rates from $19.99 per month for 3 m
+
+  ( **1006** Hits since 10-19-2006)  
   
   
   
   
   
   
-© 2001-2006 [ 2-surf.net ](http://www.2-surf.net/) (v. 10.1.4-rel) All Rights Reserved. 
+© 2001-2007 [ 2-surf.net ](http://www.2-surf.net/) All Rights Reserved. 
 
 All logos and trademarks in this site are property of their respective owners. 
 
