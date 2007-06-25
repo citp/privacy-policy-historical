@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalstrategyconsulting.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208091328id_/http%3A//digitalstrategyconsulting.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalstrategyconsulting.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625051005id_/http%3A//www.digitalstrategyconsulting.com/privacy) for the most accurate reproduction.*
 
 # Digital Strategy Consulting
 
