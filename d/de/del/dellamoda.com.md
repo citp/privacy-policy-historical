@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dellamoda.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217205330id_/http%3A//dellamoda.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dellamoda.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625070517id_/http%3A//www.dellamoda.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ At Dellamoda.com we respect our customers and understand that you are concerned 
 
 We take the privacy of your personal information very seriously and will use your information only in accordance with the terms of this Privacy Policy. We will not sell or rent your personally identifiable information or a list of our customers to third parties. 
 
-Your privacy is important to us. By participating in the Council of Better Business Bureau's BBBOnLine® Privacy Program we have made a commitment to meet the program's strict requirements regarding how we treat your information and have it verified by BBBOnLine. Further information about this program is available at [http://www.bbbonline.org ](http://www.bbbonline.org/)
+Your privacy is important to us. By participating in the Council of Better Business Bureau's BBBOnLine® Privacy Program we have made a commitment to meet the program's strict requirements regarding how we treat your information and have it verified by BBBOnLine. Dellamoda.com is an active member of BBB, further information about Dellamoda.com and this program is available at [ www.labbb.org](http://www.labbb.org/BBBWeb/Forms/Business/CompanyReportPage_Expository.aspx?CompanyID=13209855&sm=).
 
 Additionally, in order to enhance the protection of your privacy and our compliance with this Privacy Policy, DellaModa Inc has agreed to disclose our information practices and to have our practices reviewed for compliance by squaretrade. SquareTrade is the leading provider of online shopping services addressing the "trust deficit" in ecommerce. Established in 1999, SquareTrade delivers industry-leading merchant verification, post-purchase protections and its pioneering online dispute resolution service. SquareTrade SideBar-a smarter, safer online shopping assistant-is the latest in the company's growing portfolio of services helping consumers shop more confidently and safely online. 
 
