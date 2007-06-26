@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the abcte.org privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214070903id_/http%3A//www.abcte.org/about_us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcte.org privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626171317id_/http%3A//www.abcte.org/about_us/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | American Board for Certification of Teacher Excellence
+# Privacy Policy | American Board for Certification of Teacher Excellence :: left
 
 ABCTE collects personal information that you provide in the course of registering for and taking _Passport to Teaching_ examinations. By "personal information", we mean information that identifies you as a specific individual, such as your name or email address. We do this so that we can maintain records of who has registered for and taken one of our tests, whether they have achieved ABCTE certification, and the like. We never sell or rent your personal information to any third parties under any circumstances.
 
