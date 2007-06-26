@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberlink.com privacy policy that was archived on 2006-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061223151012id_/http%3A//www.cyberlink.com/english/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberlink.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626203925id_/http%3A//www.cyberlink.com/english/privacy.jsp) for the most accurate reproduction.*
 
 # CyberLink Corp. Privacy Statement
 
