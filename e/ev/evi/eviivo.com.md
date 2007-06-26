@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the eviivo.com privacy policy that was archived on 2006-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061128172449id_/http%3A//eviivo.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eviivo.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627003811id_/http%3A//www.eviivo.co.uk/Privacy.aspx) for the most accurate reproduction.*
 
 # EVIIVO - Open up your world
 
-** EVIIVO Limited **
+** eviivo Limited **
 
-Level 5, Horatio House  
+Level 4, Horatio House  
 77 Fulham Palace Road  
 Hammersmith, W6 8JA  
 E-mail: info@eviivo.com  
 Telephone: +44 (0)20 8576 5600  
 Fax: +44 (0)20 8576 5601
 
-##  _ EVIIVO Privacy Policy _
+##  _ eviivo Privacy Policy _
 
 We are committed to ensuring that your privacy is protected and understand the need for appropriate protection of all personal information provided by you to us. This Privacy Policy has been created in order that you understand the importance that we attach to this issue and our commitment to ensure that we comply with UK legislation in this area.
 
@@ -47,6 +47,6 @@ All of our processes and data storage methods have been approved by the Informat
 
 ##  _ Complaints Procedure _
 
-If You wish to make a complaint about EVIIVO, our services or any associated matter, You may contact us by telephone, email, letter or fax. We do not require complaints to be in writing. Wherever possible, complaints will be dealt with promptly, and You will receive a response within 7 working days.
+If You wish to make a complaint about eviivo, our services or any associated matter, You may contact us by telephone, email, letter or fax. We do not require complaints to be in writing. Wherever possible, complaints will be dealt with promptly, and You will receive a response within 7 working days.
 
-If You are dissatisfied with the outcome of Your complaint, You may choose to escalate the complaint internally by contacting our Product Support Manager, info@eviivo.com. A response to an escalated complaint will also be made within 7 working days.
+If You are dissatisfied with the outcome of Your complaint, You may choose to escalate the complaint internally by contacting our Customer Support Manager, info@eviivo.com. A response to an escalated complaint will also be made within 7 working days.
