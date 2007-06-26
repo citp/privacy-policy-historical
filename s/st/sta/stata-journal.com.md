@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stata-journal.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117195432id_/http%3A//stata-journal.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stata-journal.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626153526id_/http%3A//www.stata-journal.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy notice
 
@@ -13,7 +13,7 @@ This privacy notice is provided by [StataCorp LP](http://www.stata.com/). Orders
   * We do not sell or give to any third party (except for our distributors) any customer information. The information that you give us is entered into a customer database system (written in Stata, of course), and this information is only accessible by StataCorp employees. 
   * Sometimes we receive a request from a customer who wants to be told of other Stata users at their institution. We do not give out this information without first getting your permission, and we seek permission for each instance. 
   * When you order from us, we send email to confirm that we received the order, another email to confirm that the order was processed, and a third to provide you with tracking information and to confirm that the items were shipped. We do not send unsolicited email to our customers. 
-  * Purchase information is transferred to Stata using a secure connection. 
+  * Purchase information is transferred to StataCorp using a secure connection. 
 
 
 
@@ -23,4 +23,4 @@ This privacy notice is provided by [StataCorp LP](http://www.stata.com/). Orders
 
 Contact [service@stata-journal.com](mailto:service@stata-journal.com) if you have questions about the Stata Journal. 
 
-© Copyright 2001–2006 StataCorp LP.   [Terms of use.](https://web.archive.org/terms.html)   [Privacy notice.](https://web.archive.org/privacy.html)
+© Copyright 2001–2007 StataCorp LP.   [Terms of use.](https://web.archive.org/terms.html)   [Privacy notice.](https://web.archive.org/privacy.html)
