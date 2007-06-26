@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the revostock.com privacy policy that was archived on 2006-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061103115853id_/http%3A//www.revostock.com/privacy/Content.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revostock.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626212044id_/http%3A//www.revostock.com/privacy/Content.html) for the most accurate reproduction.*
 
-# Revolution Stock Media: A Revolution in Royalty-Free Stock Footage, Music and Sound Effects
+# RevoStock: A Revolution in Royalty-Free Stock Footage and Audio
 
 **REVOSTOCK.COM PRIVACY POLICY**
 
