@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamiyausa.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118104122id_/http%3A//www.tamiyausa.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamiyausa.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626142404id_/http%3A//www.tamiyausa.com/privacy.php) for the most accurate reproduction.*
 
 # TamiyaUSA.com Privacy Statement
 
@@ -6,11 +6,11 @@
 
 |   
 ---  
-| 11/2 [Builders Showcase #14](https://web.archive.org/articles/feature.php?article-id=248) |   
-| 11/2 [Tamiya Halloween Enduro results!](https://web.archive.org/web/20061118104122id_/http%3A//www.tamiyausa.com/articles/feature.php?article-id=247) |   
-| 10/27 [RC 30th Anniversary](https://web.archive.org/articles/feature.php?article-id=246) |   
-| 10/26 [November Tamiya Calendars](https://web.archive.org/product/stuff.php) |   
-| 9/1 [F-350 High-Lift Ultimate Build Contest](https://web.archive.org/web/20061118104122id_/http%3A//www.tamiyausa.com/articles/feature.php?article-id=237) |   
+| 6/11 [TCS Regional results from Hobbytown USA Fremont, CA](http://www.tamiyausa.com/tcs_races/race.php?tcs_race-id=68) |   
+| 6/6 [Builders Showcase #21](https://web.archive.org/articles/feature.php?article-id=317) |   
+| 6/4 [June Calendars](https://web.archive.org/product/stuff.php) |   
+| 6/4 [We're on "YouTube"](https://web.archive.org/articles/feature.php?article-id=316) |   
+| 4/19 [TCS 07 Series regional and Finals locations announced](https://web.archive.org/articles/feature.php?article-id=311) |   
 [More News...](https://web.archive.org/news/index.php) |   
 |  |   
 ---|---  
