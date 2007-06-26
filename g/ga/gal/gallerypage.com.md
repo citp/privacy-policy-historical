@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gallerypage.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218192737id_/http%3A//gallerypage.com/help_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gallerypage.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626085531id_/http%3A//www.gallerypage.com/help_privacy.html) for the most accurate reproduction.*
 
-# Gallerypage.com - The Online Gallery
+# G Squared Gallery - The Online Gallery
 
 Our Privacy Statement
 
