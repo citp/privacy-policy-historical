@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the abcsearch.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021004410id_/http%3A//www.abcsearch.com/w4/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcsearch.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626020154id_/http%3A//www.abcsearch.com/privacy.php) for the most accurate reproduction.*
 
-# ABCSearch - Privacy Policy
-
-|  | 
+# ABCSearch - Building e-Business
 
 (ABC SEARCH) EFFECTIVE DATE: The most recent version of this Privacy Policy, as revised, is effective as of March 5th, 2005. 
 
@@ -52,7 +50,7 @@ By using the Web Site, you agree to the terms of this Privacy Policy. Sponsor re
 **Contact Us**   
 If you have any questions, comments or concerns about our Privacy Policy, please contact us at the address provided on the Web Site from which you “clicked” via an authorized link to arrive at this Privacy Policy. 
 
-© 2005 ABC SEARCH. All rights reserved. 
+© 2007 ABC SEARCH. All rights reserved. 
 
-|  |   
----|---|---|---|---
+  
+
