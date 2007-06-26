@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the three.co.uk privacy policy that was archived on 2006-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061107174148id_/http%3A//www.three.co.uk/customer/terms/privacy.omp%3Fcid%3D1124179743355) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the three.co.uk privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626062026id_/http%3A//www.three.co.uk/personal/customer_/privacy_policy.omp%3Fcid%3D1124179743355) for the most accurate reproduction.*
 
-# Welcome to 3
+# 3 - Privacy Policy
 
-This policy statement relates to our privacy practices in connection with this website and is intended to inform you about the kinds of information we may obtain about you as a visitor to our website, how we may use that information and who we may share that information with. We are not responsible for the content or privacy practices of other websites. 
+This policy statement relates to our privacy practices in connection with this website and is intended to inform you about the kinds of information we may obtain about you as a visitor to our website, how we may use that information and who we may share that information with. We are not responsible for the content or privacy practices of other websites.
 
 Each time you access, browse and/or use our website you agree to the following terms. If you do not agree you must cease to use our website. 
 
@@ -23,10 +23,12 @@ You agree that any data you provide to us will be true, complete and accurate in
   * contact you for market research purposes;
   * keep you up to date by post, telephone, email, and direct to your handset by text, picture, video and audio message with information about 3, 3 services, and offers and promotions subject to any marketing preferences indicated by you. It's your choice and you're in control - you can contact us at any time to update your preferences by sending an email to preferences@3mail.com or by writing to or calling customer services.
 
-If you are aged 16 or under, you must get your parent or guardian's consent to provide your personal information to 3's website, otherwise you are not allowed to provide any of your personal information to us. 
+
+
+If you are aged 16 or under, you must get your parent or guardian's consent to provide your personal information to 3's website, otherwise you are not allowed to provide any of your personal information to us.
 
 **Retention of data**  
-We will keep your personal information for as long as necessary for the purposes for which it was collected, to provide you with services and to conduct our legitimate business interests or where otherwise required by law. If you use '3 Services', we may hold your Communications Data for 12 months for legitimate business purposes (or longer in connection with any legal proceedings or disputes). 
+We will keep your personal information for as long as necessary for the purposes for which it was collected, to provide you with services and to conduct our legitimate business interests or where otherwise required by law. If you use '3 Services', we may hold your Communications Data for 12 months for legitimate business purposes (or longer in connection with any legal proceedings or disputes).
 
 **Disclosure**  
 Your personal information may also be processed by other organisations on our behalf for the purpose of processing applications, and providing information or services to you. The use of personal data for these purposes will remain under our control at all times. 
@@ -48,13 +50,15 @@ We may collect and store certain 'technical information' about your visit to thi
   * clickstream data which which reveals the activities of visitors around this website (for example the pages you access and products browsed) and 
   * the website address of the website from which you accessed this site. 
 
-None of the technical information we collect could be used by us to identify visitors to this website. Such data are used only to analyse trends, administer and improve our website, track movement through our website and gather statistical information about visits to the website. 
+
+
+None of the technical information we collect could be used by us to identify visitors to this website. Such data are used only to analyse trends, administer and improve our website, track movement through our website and gather statistical information about visits to the website.
 
 **Notification of changes**  
 If we change this Privacy Policy we will post the amended Policy on our website so that you are always aware of how we collect, use and disclose your personal information. 
 
 **Access to your personal information**  
-You have the right to request a copy of any personal information we hold about you and to have any inaccuracies corrected. We will charge an administrative fee of ý10 to provide a copy of any data held. Please write by sending an email to [dpa.officer@three.co.uk](mailto:dpa.officer@three.co.uk) or the Data Protection and Privacy Officer, Hutchison 3G UK Limited, Star House, 20 Grenfell Road, Maidenhead, Berks SL6 1EH 
+You have the right to request a copy of any personal information we hold about you and to have any inaccuracies corrected. We will charge an administrative fee of £10 to provide a copy of any data held. Please write by sending an email to [dpa.officer@three.co.uk](mailto:dpa.officer@three.co.uk) or the Data Protection and Privacy Officer, Hutchison 3G UK Limited, Star House, 20 Grenfell Road, Maidenhead, Berks SL6 1EH 
 
 **Monitoring of Your Communications**  
 We may monitor and/or record communications between you and 3 for quality control and training purposes. 
@@ -63,8 +67,8 @@ We may monitor and/or record communications between you and 3 for quality contro
 You should read this Policy in conjunction with our website terms and conditions (which apply to your use of this website), our Terms of Sale/Supply of Products (which apply to the purchase of products by you via this website) and the Terms for 3 Services (which apply to your use of 3 Services). Our customer privacy statement concerning your use of 3 Services is contained within the 'Privacy Notice' found in Section 13 of our Terms for 3 Services. Click the link below to download this document. 
 
 **Glossary of technical terms used**  
-web browser - The software you use to read web pages such as Microsoft Internet Explorer, Netscape Navigator and Opera. 
+web browser - The software you use to read web pages such as Microsoft Internet Explorer, Netscape Navigator and Opera.
 
 IP address - The identifying details for your computer (or your internet company's computer), expressed in "internet protocol" code (for example 192.168.72.34). Every computer connected to the web has a unique IP address (which may be permanent or change each time you access the internet) 
 
-cookies - Small pieces of information, stored in simple text files, placed on your computer by a web site. Cookies can be read by the web site on your subsequent visits. The information stored in a cookie may relate to your browsing habits on the web page, or a unique identification number so that the web site can "remember" you on your return visit. Generally speaking, cookies do not contain personal information from which you can be identified, unless you have furnished such information to the web site. 
+cookies - Small pieces of information, stored in simple text files, placed on your computer by a web site. Cookies can be read by the web site on your subsequent visits. The information stored in a cookie may relate to your browsing habits on the web page, or a unique identification number so that the web site can "remember" you on your return visit. Generally speaking, cookies do not contain personal information from which you can be identified, unless you have furnished such information to the web site.
