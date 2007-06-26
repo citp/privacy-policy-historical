@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyweek.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219201555id_/http%3A//www.moneyweek.com/file/32/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyweek.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626121459id_/http%3A//www.moneyweek.com/file/32/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement - Money Week
 
@@ -12,7 +12,7 @@ In general, we use the personal information that we collect from you to process 
 
 You signify your consent to us collecting and using this information by your use of this web site. Should for any reason we elect to change our Policy, we will notify you of those changes here, so that you are always kept informed of how we collect and use the information, and when we would disclose it.
 
-Your data may sometimes be used by us and our associated companies to inform you about changes to our web site, new services and offers that you might find interesting. If you do not wish to receive this information, please send an email to [moneyweek@cisubs.co.uk](mailto:moneyweek@cisubs.co.uk).
+Your data may sometimes be used by us and our associated companies to inform you about changes to our web site, new services and offers that you might find interesting. If you do not wish to receive this information, please send an email to [cs@moneyweek.com](mailto:cs@moneyweek.com).
 
 Please note that we **will not** rent or sell your email address to outside companies.
 
@@ -22,7 +22,7 @@ We use the information provided to permit access to the **Registered User** and 
 
 We may use information collected about you to personalise your visits to our web site and recommend goods or services to you. We also use the information to help us develop the design and layout of our web site to ensure that our sites are as useful and enjoyable as possible.
 
-In addition we may use the information to let you know about functionality changes to our website, new goods, services or offers that you might find interesting. If you do not wish to receive this information, please send an e-mail to [moneyweek@cisubs.co.uk](mailto:moneyweek@cisubs.co.uk).
+In addition we may use the information to let you know about functionality changes to our website, new goods, services or offers that you might find interesting. If you do not wish to receive this information, please send an e-mail to [cs@moneyweek.com](mailto:cs@moneyweek.com).
 
 By disclosing your personal information to MoneyWeek Ltd, you agree to the collection, storage and processing of your personal information in the manner set out here.
 
@@ -52,7 +52,7 @@ MoneyWeek Ltd reserves the right to access and disclose individually identifiabl
 
 ## Customer Feedback and Complaints
 
-We welcome your questions and comments about privacy issues and the design of our web site. Should you have such comments or have a complaint about how we are using your personal data, please send an e-mail to [moneyweek@cisubs.co.uk](mailto:moneyweek@cisubs.co.uk). 
+We welcome your questions and comments about privacy issues and the design of our web site. Should you have such comments or have a complaint about how we are using your personal data, please send an e-mail to [cs@moneyweek.com](mailto:cs@moneyweek.com). 
 
 MoneyWeek and Money Morning are published by:
 
@@ -60,7 +60,7 @@ MoneyWeek Ltd,
 7th Floor, Sea Containers House,  
 20 Upper Ground, London SE1 9JD.
 
-Tel: 0870 442 0960  
+Tel: 0207 6333 3780  
 Fax: 01458 271 146
 
-Email: [moneyweek@cisubs.co.uk](http://)
+Email: [cs@moneyweek.com](mailto:cs@moneyweek.com)
