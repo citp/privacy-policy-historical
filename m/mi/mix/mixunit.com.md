@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mixunit.com privacy policy that was archived on 2006-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061220073449id_/http%3A//www.mixunit.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixunit.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626193112id_/http%3A//www.mixunit.com/index.asp%3FPageAction%3DCustom%26ID%3D2) for the most accurate reproduction.*
 
-# The Mix Unit Privacy Policy
+# Privacy -- The Mix Unit Privacy Policy
 
 At The Mix Unit, we want you to have the best shopping experience possible. And while it is necessary for us to collect certain personal information, we respect and protect your right to privacy. The following policy is designed to answer any questions and concerns you may have regarding your privacy and the security of your information. If you have any additional questions or concerns, please contact us at [sales@mixunit.com](mailto:%20sales@mixunit.com)
 
@@ -12,5 +12,4 @@ At The Mix Unit, we want you to have the best shopping experience possible. And 
 
 **Your Comments** \-- Occasionally our customers will e-mail us to let us know of their experience shopping with The Mix Unit. We encourage this, as we like to hear from you, and your comments help us improve our service. We occasionally share comments we receive via our website; rest assured, we do not publish any last names or specific address information that may identify the author.
 
-**Cookies --** A cookie is a small amount of data sent to, or requested from, your computer. Cookies are used in order to keep track of your shopping cart. Without cookies, the online ordering system would not be able to associate your shopping cart with you, and you would not be able to carry more than one item in your cart at a time.  
-
+**Cookies --** A cookie is a small amount of data sent to, or requested from, your computer. Cookies are used in order to keep track of your shopping cart. Without cookies, the online ordering system would not be able to associate your shopping cart with you, and you would not be able to carry more than one item in your cart at a time.
