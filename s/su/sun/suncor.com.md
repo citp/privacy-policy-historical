@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suncor.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110054708id_/http%3A//www.suncor.com/default.aspx%3FID%3D517) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suncor.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626114250id_/http%3A//www.suncor.com/default.aspx%3FID%3D517) for the most accurate reproduction.*
 
 # Suncor.com :: Legal Notice
 
@@ -8,11 +8,11 @@ Legal Notices
 
 **
 
-The following are the disclaimers, terms and conditions for use of the Suncor Energy Inc. and Sunoco web sites and, by using these web sites you are accepting that you are bound by the disclaimers, terms and conditions set forth below. 
+The following are the disclaimers, terms and conditions for use of the Suncor Energy Inc. and Sunoco web sites and, by using these web sites, you are accepting that you are bound by the disclaimers, terms and conditions set forth below. 
 
-References to "Suncor Energy Inc.", "Suncor" and "the company" shall include Suncor Energy Inc., Suncor Energy Foundation and our subsidiaries, including Suncor Energy Products Inc., and Suncor Energy Marketing Inc., and Suncor Energy (U.S.A.) Inc. 
+References to "Suncor Energy Inc.," "Suncor" and "the company" shall include Suncor Energy Inc., Suncor Energy Foundation and our subsidiaries, including Suncor Energy Products Inc., Suncor Energy Marketing Inc., and Suncor Energy (U.S.A.) Inc. 
 
-Please note that Suncor Energy Inc.'s subsidiary, Suncor Energy Products Inc., is an Ontario, Canada, corporation that uses the Sunoco brand and is a separate and unrelated company from Sunoco, Inc., Philadelphia, U.S.A., corporation. Any references to "Sunoco" refer only to the Ontario downstream brand, which is part of Suncor Energy Products Inc. 
+Please note that Suncor Energy Inc.'s subsidiary, Suncor Energy Products Inc., is an Ontario, Canada, corporation that uses the Sunoco brand and is a separate and unrelated company from Sunoco, Inc., a Philadelphia, U.S.A., corporation. Any references to "Sunoco" refer only to the Ontario downstream brand, which is part of Suncor Energy Products Inc. 
 
 Suncor Energy (U.S.A.) Inc. is an authorized licensee of the Phillips 66 brand and marks in the state of Colorado.
 
@@ -28,7 +28,7 @@ The content in Suncor web sites may not always be the most current source of the
 
 When downloaded or displayed on a user's computer, Internet software transmission problems could produce inaccurate or incomplete copies of documents. Suncor takes no responsibility for the accuracy or completeness of documents or material downloaded or displayed from its web sites. 
 
-Suncor takes reasonable precautions to ensure its web sites are free from computer viruses, however, it is recommended that the user install and use appropriate antivirus or other protective software. Suncor disclaims liability for any computer viruses or other destructive programs that may be inadvertently downloaded from its web sites.
+Suncor takes reasonable precautions to ensure its web sites are free from computer viruses; however, it is recommended that the user install and use appropriate antivirus or other protective software. Suncor disclaims liability for any computer viruses or other destructive programs that may be inadvertently downloaded from its web sites.
 
 Suncor's web sites may contain certain forward-looking statements that are based on Suncor's current expectations, estimates, projections and assumptions and are made by the company in light of its current experience and its perception of historical trends. 
 
@@ -109,9 +109,9 @@ We may collect personal information about an individual from other parties:
   
 **Access to Information**
 
-Individuals may request access to the information that Suncor has about them, may discuss Suncor's business practices regarding the use of the information, and may address concerns about how Suncor handles personal information, by contacting Suncor's Privacy Officer (see contact information below). 
+Individuals may request access to the information that Suncor has about them, may discuss Suncor's business practices regarding the use of the information, and may address concerns about how Suncor handles personal information by contacting Suncor's Privacy Officer (see contact information below). 
 
-We respect the concerns of individuals regarding information about them, and will respond to their concerns or complaints within a reasonable timeframe and within the timeframe required by law. 
+We respect the concerns of individuals regarding information about them, and will respond to their concerns or complaints within a reasonable time frame and within the time frame required by law. 
 
 **
 
@@ -119,7 +119,7 @@ What is Personal Information?
 
 **
 
-Personal information is any factual or subjective information about an "identifiable individual". It can include: 
+Personal information is any factual or subjective information about an "identifiable individual." It can include: 
 
   * name 
   * home address 
@@ -140,7 +140,7 @@ Personal information does not include anything that might appear on business car
 
 **
 
-Privacy while Using Suncor's Internet Sites 
+Privacy While Using Suncor's Internet Sites 
 
 **
 
@@ -150,9 +150,12 @@ If web site users provide Suncor with personal information through Internet use 
 
 Suncor also scans Internet communications for system management and security purposes in order to detect malicious software and unauthorized access. Privacy and confidentiality are not guaranteed when using unencrypted Internet communications. 
 
-In some cases, Suncor uses third parties to process transactions that may include personal information. In such cases, we rely on contract terms and conditions with third parties to ensure they apply the same or higher standards concerning collection, use and disclosure, as were identified in Suncor's privacy policy statement above. We may also pass relevant personal information to others where we are legally entitled or required to do so. 
+In some cases, Suncor uses third parties to process transactions that may include personal information. In such cases, we rely on contract terms and conditions with third parties to ensure they apply the same or higher standards concerning collection, use and disclosure as were identified in Suncor's privacy policy statement above. We may also pass relevant personal information to others where we are legally entitled or required to do so. 
 
-****
+**
 
-**To Find Out More  
-** If you would like more information about Suncor's privacy practices, or to request access to your personal information, please contact: Chief Privacy Officer Janice Odegaard at (403) 269-8151 or by e-mailing [Suncor Information ](mailto:info@suncormail.com)
+To Find Out More 
+
+**
+
+****If you would like more information about Suncor's privacy practices, or to request access to your personal information, please contact: Chief Privacy Officer Janice Odegaard at (403) 269-8151 or by e-mailing[Suncor Information.](mailto:info@suncormail.com)
