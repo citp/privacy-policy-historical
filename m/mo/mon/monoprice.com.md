@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the monoprice.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218165851id_/http%3A//www.monoprice.com/home/home.asp%3Fpn%3Dprivacy%26style%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monoprice.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626124258id_/http%3A//www.monoprice.com/home/home.asp%3Fpn%3Dprivacy%26style%3D) for the most accurate reproduction.*
 
-# monoPrice.com - best quality products at the lowest price
+# MonoPrice.com - Best quality products at the lowest price
 
 **Monoprice.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices.** | [](http://www.truste.org/ivalidate.php?url=www.monoprice.com&sealid=101%20) | This privacy statement covers the site [http://www.monoprice.com](http://www.monoprice.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.   
 ---|---  
