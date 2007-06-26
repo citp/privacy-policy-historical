@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rabble.ca privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602211020id_/http%3A//www.rabble.ca/about_us/about_us.shtml%3Fx%3D743) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rabble.ca privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626180134id_/http%3A//www.rabble.ca/about_us/about_us.shtml%3Fx%3D743) for the most accurate reproduction.*
 
 # about us
 
-### Privacy Policy
+### Privacy policy
 
 _rabble.ca_ is committed to protecting the privacy of its members who visit and participate in the _rabble.ca_ Website and other users of the _rabble.ca_ Website. This Privacy Policy describes the practices of _rabble.ca_ in respect to the collection, use, disclosure and storage of information. This Privacy Policy can also be found online at _[_rabble.ca_](https://web.archive.org/)_. 
 
