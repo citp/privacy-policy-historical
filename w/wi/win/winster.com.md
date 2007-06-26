@@ -1,16 +1,19 @@
-> *The following text is extracted and transformed from the winster.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205204208id_/http%3A//www.winster.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winster.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626064038id_/http%3A//www.winster.com/privacy.jsp) for the most accurate reproduction.*
 
 # Winster - Privacy Policy
 
-[](https://web.archive.org/web/20061205204208id_/http%3A//www.winster.com/home.jsp "Winster Home")  
-[Home](https://web.archive.org/web/20061205204208id_/http%3A//www.winster.com/home.jsp "Winster Home")  
-[About Us](https://web.archive.org/web/20061205204208id_/http%3A//www.winster.com/about.jsp "About Us")  
-[Club Winnie](https://web.archive.org/web/20061205204208id_/http%3A//www.winster.com/club_winnie.jsp "Club Winnie")  
-[Terms & Conditions](https://web.archive.org/web/20061205204208id_/http%3A//www.winster.com/terms.jsp "Terms & Conditions")  
-[Privacy Policy](https://web.archive.org/web/20061205204208id_/http%3A//www.winster.com/privacy.jsp "Privacy Policy")  
-[Play for Free](https://web.archive.org/web/20061205204208id_/http%3A//www.winster.com/nopurchase.jsp "No Purchase Necessary")
+[](https://web.archive.org/web/20070626064038id_/http%3A//www.winster.com/home.jsp "Winster Home")  
+[Home](https://web.archive.org/web/20070626064038id_/http%3A//www.winster.com/home.jsp "Winster Home")  
+[About Us](https://web.archive.org/web/20070626064038id_/http%3A//www.winster.com/about.jsp "About Us")  
+[Club Winnie](https://web.archive.org/web/20070626064038id_/http%3A//www.winster.com/club_winnie.jsp "Club Winnie")  
+[Winster News](https://web.archive.org/web/20070626064038id_/http%3A//www.winster.com/news.jsp "Winster News")  
+[Winster Toolbar](https://web.archive.org/web/20070626064038id_/http%3A//www.winster.com/toolbar.jsp "Winster Toolbar")  
+[Testimonials](https://web.archive.org/web/20070626064038id_/http%3A//www.winster.com/testimonials.jsp "Testimonials")  
+[Terms & Conditions](https://web.archive.org/web/20070626064038id_/http%3A//www.winster.com/terms.jsp "Terms & Conditions")  
+[Privacy Policy](https://web.archive.org/web/20070626064038id_/http%3A//www.winster.com/privacy.jsp "Privacy Policy")  
+[Play for Free](https://web.archive.org/web/20070626064038id_/http%3A//www.winster.com/nopurchase.jsp "No Purchase Necessary")
 
-####  [Play Now](https://www.winster.com/secure/playit.jsp?game=PictureMagic "Play Now")
+####  [Play Now](https://www.winster.com/secure/playit.jsp?game=LongestChain "Play Now")
 
   
 [](https://seal.verisign.com/splash?form_file=fdf/splash.fdf&dn=WWW.WINSTER.COM&lang=en) |       | 
