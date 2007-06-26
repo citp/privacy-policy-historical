@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themilwaukeechannel.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213043726id_/http%3A//www.themilwaukeechannel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themilwaukeechannel.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626204140id_/http%3A//www.themilwaukeechannel.com/privacy) for the most accurate reproduction.*
 
 # TheMilwaukeeChannel.com - Privacy
 
