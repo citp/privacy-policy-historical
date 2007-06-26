@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the asdk12.org privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206061418id_/http%3A//www.asdk12.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asdk12.org privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626050335id_/http%3A//www.asdk12.org/privacy.asp) for the most accurate reproduction.*
 
 # Anchorage School District General Information
 
 Information Collected and How it is Used | Personal Information |  How Personal Information is Used |  Rules for Sending Comments | Security | Cookies | Notification of Changes | Links | Contact Us | Definitions
 
-#### [PDF version](https://web.archive.org/web/20061206061418id_/http%3A//www.asdk12.org/privacy.pdf) [ ](http://www.adobe.com/products/acrobat/readstep.html) | [Text version](https://web.archive.org/web/20061206061418id_/http%3A//www.asdk12.org/privacy.txt)
+#### [PDF version](https://web.archive.org/web/20070626050335id_/http%3A//www.asdk12.org/privacy.pdf) [ ](http://www.adobe.com/products/acrobat/readstep.html) | [Text version](https://web.archive.org/web/20070626050335id_/http%3A//www.asdk12.org/privacy.txt)
 
 ## Information Collected and How it is Used
 
@@ -101,9 +101,8 @@ back to top
 > You may contact the Anchorage School District as follows:
 >
 >> > Anchorage School District  
->  4600 DeBarr Road  
->  PO Box 196614  
->  Anchorage, AK 99519-6614  
+>  5530 E Northern Lights Blvd  
+>  Anchorage, AK 99504-3135  
 >  Telephone: 907-742-4000
 > 
 > [Contact information for members of Anchorage School Board ](https://web.archive.org/School_Board/Members.asp) can be found on our web site.
@@ -116,14 +115,13 @@ back to top
 >
 >> > Webmaster  
 >  Anchorage School District  
->  4600 DeBarr Road  
->  PO Box 196614  
->  Anchorage, AK 99519-6614  
+>  5530 E Northern Lights Blvd  
+>  Anchorage, AK 99504-3135   
 >  Telephone: 907-742-4193  
 >  Fax: 907-742-4175  
 >  [webmaster@asdk12.org](mailto:webmaster@asdk12.org)
 > 
-> _This section was updated February 14, 2003._
+> _This section was updated May 7, 2007._
 
 back to top
 
@@ -141,14 +139,14 @@ back to top
 
 _This privacy statement was:  
   Implemented March 23, 2001  
-  "Cookies" section updated August 16, 2001  
-  "Contact Us" section updated February 14, 2003_
+  "Cookies" section updated August 16, 2001_  
+_  "Contact Us" section updated May 7, 2007 _
 
 * * *
 
-[Privacy Policy](http://www.asdk12.org/privacy.asp) | Copyright © 2000-2006  
+[Privacy Policy](http://www.asdk12.org/privacy.asp) | Copyright © 2000-2007  
 | [](http://www.asdk12.org/) | Anchorage School District   
-4600 DeBarr Road   
-PO Box 196614   
-Anchorage, Alaska 99519-6614  
+5530 E Northern Lights Blvd   
+Anchorage, Alaska 99504-3135  
+907-742-4000  
 ---|---|---
