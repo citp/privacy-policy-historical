@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the tradingmarkets.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209141002id_/http%3A//tradingmarkets.com/.site/page/%3Floc%3Dlegal/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradingmarkets.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627003154id_/http%3A//www.tradingmarkets.com/.site/page/%3Floc%3Dlegal/privacy.cfm%26hcode%3Dfooter) for the most accurate reproduction.*
 
 # Daytrading, Eminis, Forex trading, Swing Trading
 
-**TRADINGMARKETS PRIVACY POLICY STATEMENT**  
+TRADINGMARKETS PRIVACY POLICY STATEMENT
+
 TradingMarkets is committed to protecting the private sensitive information of our customers. We have revised our Privacy Policy to reflect our commitment, and we strongly urge our customers to take some time to review the new version below. 
 
 **_Information Collection_**
