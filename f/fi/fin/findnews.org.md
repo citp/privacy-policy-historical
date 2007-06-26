@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findnews.org privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207112602id_/http%3A//findnews.org/Home/tabid/154/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findnews.org privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626133509id_/http%3A//www.findnews.org/Home/tabid/154/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Findnews.org: News Feeds, XML and Rss News Feeds
 
@@ -44,4 +44,4 @@ Findnews.org will occasionally update this Statement of Privacy to reflect compa
 
 Contact Information
 
-Findnews.org welcomes your comments regarding this Statement of Privacy. If you believe that Findnews.org has not adhered to this Statement, please contact Findnews.org at [support@venexus.com](mailto:support@venexus.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+Findnews.org welcomes your comments regarding this Statement of Privacy. If you believe that Findnews.org has not adhered to this Statement, please contact Findnews.org at [support@ryanalm.com](mailto:support@ryanalm.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
