@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americasbest.com privacy policy that was archived on 2006-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061120054215id_/http%3A//www.americasbest.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americasbest.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626064733id_/http%3A//www.americasbest.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,10 +22,10 @@ AmericasBest.com does not specifically collect information about children. If yo
 
 What about privacy commitment changes?
 
-If AmericasBest.com decides to change our privacy commitment, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If, at any time, you have questions or concerns about our privacy commitment, please feel free to [contact us](https://web.archive.org/web/20061120054215id_/http%3A//www.americasbest.com/contact_information.htm) .
+If AmericasBest.com decides to change our privacy commitment, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If, at any time, you have questions or concerns about our privacy commitment, please feel free to [contact us](https://web.archive.org/web/20070626064733id_/http%3A//www.americasbest.com/contact_information.htm) .
 
 What else should I know about my privacy? 
 
 Please keep in mind that whenever you voluntarily disclose personal information that information can be collected and used by others. You are solely responsible for maintaining the secrecy of your online information. Please be careful and responsible whenever you're online. 
 
-Thank you for using AmericasBest.com.
+Thank you for using AmericasBest.com
