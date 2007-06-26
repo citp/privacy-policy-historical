@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the weichert.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205221743id_/http%3A//www.weichert.com/aboutus/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weichert.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626122825id_/http%3A//www.weichert.com/aboutus/Privacy.html) for the most accurate reproduction.*
 
 # Weichert.com : About Us : Privacy Policy
-
-  | 
 
 **Weichert, Realtors and the affiliated companies of Weichert (“Weichert” or “we”)** recognize the importance of protecting the privacy of certain information collected about our customers and potential customers. This Privacy Policy was created in order to demonstrate our commitment to protecting our customers' privacy.
 
@@ -34,8 +32,6 @@ Morris Plains, New Jersey 07950
 Attention: Systems Administrator  
 
 
-**ACCEPTANCE OF THESE TERMS.** By using this site, you signify your agreement to Weichert 's Privacy Policy. IF YOU DO NOT AGREE WITH THIS POLICY, PLEASE DO NOT USE THIS SITE. Your continued use of Weichert's and/or its affiliates' sites following the posting of changes to these terms will mean you accept those changes.
+**ACCEPTANCE OF THESE TERMS.** By using this site, you signify your agreement to Weichert's Privacy Policy. IF YOU DO NOT AGREE WITH THIS POLICY, PLEASE DO NOT USE THIS SITE. Your continued use of Weichert's and/or its affiliates' sites following the posting of changes to these terms will mean you accept those changes.
 
-EffectiveMarch [01], 2004  
-  
----|---
+EffectiveMarch [01], 2004
