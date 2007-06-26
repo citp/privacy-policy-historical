@@ -1,41 +1,37 @@
-> *The following text is extracted and transformed from the aopa.org privacy policy that was archived on 2006-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060927042216id_/http%3A//www.aopa.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aopa.org privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626132432id_/http%3A//www.aopa.org/privacy_policy.html) for the most accurate reproduction.*
 
 # AOPA Online - Privacy Policy Statement
 
-This is the Web site of the **Aircraft Owners and Pilots Association**.  
+**The Aircraft Owners and Pilots Association (AOPA) recognizes how important privacy is to our members and other site visitors.** We are committed to protecting your privacy and want to make sure that you understand how your information is used. We also want to make you aware of the options you have regarding how we use this information. Our intent is that this privacy policy will enhance your experience on the AOPA Web sites and reinforce the trust that you place in AOPA's services and products.
 
+**Non-personal data collection:** AOPA uses cookies and other technologies to understand how our visitors use our Web site, to improve our services, and to provide the most relevant information to you. We do not attempt to identify and track by name (or other specific personal information) individual visitors. We do collect aggregate data (e.g., number of visitors to a page), and we may share that information with third parties.
 
-Our postal address is  
-**421 Aviation Way  
-Frederick, MD 21701**
+You do not have to accept cookies to visit this site, but some sections won't work for you if you turn off cookies.
 
-We can be reached via e-mail at [aopahq@aopa.org](mailto:aopahq@aopa.org) or you can reach us by telephone at (301) 695-2000.
+**Personal data collection:** We do not collect any personal information on our Web sites unless you submit it. We won't ask for it unless we need it to provide information or a service to you. If you give us personal information, we will store it in a secure database, and we may use that information to improve our Web site, for marketing and product development, or to contact you.
 
-For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name (where possible), but not the e-mail address.
+We may also share that information with trusted AOPA partners that we have selected to deliver AOPA member services or products. We will not give or sell your personal data — including your e-mail address — to other third parties.
 
-We collect the domain name of visitors to our Web page (where possible). We also collect aggregate information on what pages consumers access or visit, and information volunteered by the consumer, such as survey information and/or site registrations.
+If at any time you don't want to receive information from AOPA partners or AOPA itself, you may "opt out" or request your name, address, phone number, or e-mail address be excluded from any type of communications by e-mailing us at [memberassistance@aopa.org](mailto:memberassistance@aopa.org) or calling 800/872-2672. You may choose to receive as much or as little information as you wish.
 
-The information we collect is used to improve the content of our Web page, and is not shared with other organizations for commercial purposes.
+**Third-party data policies:** AOPA may contract with third-party companies to utilize non-personally identifiable information from our members and visitors to administer our Web site. All data collected by third parties on behalf of AOPA is owned and used by AOPA.
 
-If you supply us with your e-mail address, you may receive periodic messages from AOPA and AOPA's Member Products providers with information on important legislative activities, your membership status and benefits, or upcoming events. AOPA does not trade or sell e-mail addresses. If at any time you do not want to receive e-mails from AOPA, please let us know by e-mailing us at [memberassistance@aopa.org](mailto:memberassistance@aopa.org).
+**External links:** AOPA's Web sites include links and advertising to other Internet sites. Please check with the sites that we link to for their privacy policies.
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by sending us e-mail at the above address.
+**Scope:** This privacy policy applies to the following sites: aopa.org, flighttraining.aopa.org, asf.org, projectpilot.org, gaservingamerica.org ,and their sub-domains.
 
-If you supply us with your telephone numbers on-line you may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending us e-mail at the above address.
+**Data security:** To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place physical, electronic, and managerial procedures to protect the information we collect online.
 
-From time to time, we may use consumer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
+AOPA can be reached in the following ways:
 
-Consumers may prevent their information from being used for purposes other than those for which it was originally collected by sending us e-mail at the above address.
-
-Consumers can have their information corrected by sending us e-mail at the above address.
-
-With respect to cookies: We use cookies within the members area to enable access to the conference area and regulate access to the aircraft valuation service.
-
-With respect to ad servers: We do not partner with or have special relationships with any ad server companies.
-
-With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site.
-
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+| **Postal address:**  
+421 Aviation Way  
+Frederick, MD 21701 | **E-mail:**  
+[aopahq@aopa.org](mailto:aopahq@aopa.org) | **Telephone:**  
+301/695-2000  
+---|---|---  
+  
+**This policy is effective October 25, 2006.** If our privacy practices change at any time in the future, we will post the policy changes to this page to notify you of these changes and provide you with the ability to opt out of these new uses of collected personal data.
 
   
 
