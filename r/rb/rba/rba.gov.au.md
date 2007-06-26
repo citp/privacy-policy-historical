@@ -1,17 +1,8 @@
-> *The following text is extracted and transformed from the rba.gov.au privacy policy that was archived on 2006-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061102123233id_/http%3A//www.rba.gov.au/PrivacyStatement/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rba.gov.au privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626113258id_/http%3A//www.rba.gov.au/PrivacyStatement/index.html) for the most accurate reproduction.*
 
 # RBA: Privacy Statement
 
 The Reserve Bank of Australia (RBA) is committed to respecting the privacy of visitors to its website. This statement sets out the Bank's current practices concerning information collection and dissemination through this website.
-
-  * Collection of Information
-  * Security of Information
-  * Access to Information
-  * Amendment of Personal Information
-  * Use and Disclosure of Information
-  * Complaints and Enquiries
-
-
 
 ### Collection of Information
 
@@ -116,6 +107,7 @@ Fax** |
 Post** |   
 The Manager  
 Staff Resourcing  
+Personnel Department   
 Reserve Bank of Australia  
 GPO Box 3947  
 SYDNEY NSW 2001  
