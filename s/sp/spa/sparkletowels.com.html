@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the sparkletowels.com privacy policy that was archived on 2004-02-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040202013028id_/http%3A//www.gp.com/privacy/index.asp%3Fpk%3D11%26mk%3D0%26mo%3D0) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sparkletowels.com privacy policy that was archived on 2007-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070626032759id_/http%3A//www.gp.com/privacy/index.asp%3Fpk%3D11%26mk%3D0%26mo%3D0) for the most accurate reproduction.-->
 
 <html><head>
 
 
-
 <title>Georgia-Pacific Products - Products</title>
 
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <link rel="stylesheet" href="/navincludes/style.css" type="text/css">
 <link rel="stylesheet" type="text/css" href="/paper/css/paper_local.css">
 <link rel="stylesheet" type="text/css" href="/paper/css/gp_global.css">
@@ -101,8 +101,8 @@ function sendmail(){
 	{
 		alert("Please select how Georgia-Pacific may use the information entered on this form.");
 		return ;
-	}		
 
+	}		
 	document.form2.submit();
 }
 
@@ -148,13 +148,87 @@ popUp = HM_f_PopUp;
 popDown = HM_f_PopDown;
 
 //-->
-</script><script>
+</script><script type="text/javascript">
 function launchWnd(page, title, width, height) {
 var n=open(page, title,'width='+width+',height='+height+',status=yes,scrollbars=yes,menubar=no,resizable=yes');
 }
-</script></head>
+</script><script language="JavaScript" type="text/JavaScript">
+
+function mmLoadMenus() {
+  if (window.m1) return;
+	window.m1 = new Menu("root",200,19,"Verdana, Arial, Helvetica, sans-serif",11,"#000000","#ffffff","#e7e7e7","#003399","left","middle",4,0,100,-5,7,true,true,true,0,true,true);
+	m1.addMenuItem("Careers","location='/careers/index.html'");
+	m1.addMenuItem("Community Involvement","location='/center/community/index.html'");
+	m1.addMenuItem("Corporate Social Responsibility","location='/csrr/'");
+	m1.addMenuItem("Environment","location='/enviro/index.html'");
+	m1.addMenuItem("Investor Information","location='/center/financials/index.html'");
+	m1.addMenuItem("News Room","location='/center/mediacenter/index.html'");
+	m1.addMenuItem("Supplier Diversity","location='/supplierdiversity/index.asp'");
+    m1.addMenuItem("Sustainable Forestry","location='/forestry/sustain.html'");
+	m1.hideOnMouseOut=true;
+	m1.bgColor="#999999";
+	m1.menuBorder=1;
+	m1.menuItemBorder=1;
+	m1.menuItemBgColor="#e7e7e7";
+	m1.border=1;
+	m1.menuLiteBgColor="#ffffff";
+	m1.menuBorderBgColor="#d0d0d0";
+
+	window.m2 = new Menu("root",200,19,"Verdana, Arial, Helvetica, sans-serif",11,"#000000","#ffffff","#e7e7e7","#003399","left","middle",4,0,100,-5,7,true,true,true,0,true,true);
+	m2.addMenuItem("Away-From-Home Products","location='/awayfromhome/index.html'");
+	m2.addMenuItem("Bleached Board and Kraft","location='/bbkp.html'");
+	m2.addMenuItem("Building Products","location='/build/index.aspx'");
+	m2.addMenuItem("Cellulose and Pulp","location='http://www.gpcellulose.com/index.html'");
+	m2.addMenuItem("Chemicals","location='/chemical/index.html'");
+	m2.addMenuItem("Consumer Products","location='/consumerproducts/index.html'");
+	m2.addMenuItem("Dixie","location='/dixie'");
+	m2.addMenuItem("Gypsum","location='/build/ProductGroup.aspx?hierarchy=pc&pid=1064&cat=Gypsum%20Products'");
+	m2.addMenuItem("Packaging","location='/packaging.html'");
+	m2.addMenuItem("Paper","location='/papers/index.html'");
+	m2.addMenuItem("Wood & Fiber Supply","location='/forestry/woodfiber.html'");
+	m2.hideOnMouseOut=true;
+	m2.bgColor="#999999";
+	m2.menuBorder=1;
+	m2.menuItemBorder=1;
+	m2.menuItemBgColor="#e7e7e7";
+	m2.border=1;
+	m2.menuLiteBgColor="#ffffff";
+	m2.menuBorderBgColor="#d0d0d0";
+	
+	window.m3 = new Menu("root",1,1,"Verdana, Arial, Helvetica, sans-serif",11,"#fffff","#ffffff","#e7e7e7","#fffff","left","middle",4,0,100,-5,7,true,true,true,0,true,true);
+
+   	m2.writeMenus();
+
+} // mmLoadMenus()
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script><script language="JavaScript" src="/navincludes/js/mm_menu.js" type="text/javascript"></script></head>
 
 <!-- Begin Javascript -->
+
+
 
 
 
@@ -165,33 +239,116 @@ var n=open(page, title,'width='+width+',height='+height+',status=yes,scrollbars=
 <body bgcolor="#ffffff" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0">
 
 <!-- Header Begins -->
+<!-- Google Analytics -->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-548988-3";
+urchinTracker();
+</script>
+<!-- Google Analytics -->
+
+
+<!-- Websitestory -->
+<!-- WEBSIDESTORY CODE HBX2.0 (Universal) -->
+<!-- COPYRIGHT 1997-2005 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy -->
+<script language="javascript" type="text/javascript">
+var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
+var hbx=_hbEvent("pv");hbx.vpc="HBX0200u";hbx.gn="ehg-georgiapacific.hitbox.com";
+
+//BEGIN EDITABLE SECTION
+//CONFIGURATION VARIABLES
+hbx.acct="DM5611286HAB27EN3";//ACCOUNT NUMBER(S)
+hbx.pn="PUT+PAGE+NAME+HERE";//PAGE NAME(S)
+hbx.mlc="CONTENT+CATEGORY";//MULTI-LEVEL CONTENT CATEGORY
+hbx.pndef="title";//DEFAULT PAGE NAME
+hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
+
+//OPTIONAL PAGE VARIABLES
+//ACTION SETTINGS
+hbx.fv="";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
+hbx.lt="auto";//LINK TRACKING
+hbx.dlf="n";//DOWNLOAD FILTER
+hbx.dft="n";//DOWNLOAD FILE NAMING
+hbx.elf="n";//EXIT LINK FILTER
+
+//SEGMENTS AND FUNNELS
+hbx.seg="";//VISITOR SEGMENTATION
+hbx.fnl="";//FUNNELS
+
+//CAMPAIGNS
+hbx.cmp="";//CAMPAIGN ID
+hbx.cmpn="";//CAMPAIGN ID IN QUERY
+hbx.dcmp="";//DYNAMIC CAMPAIGN ID
+hbx.dcmpn="";//DYNAMIC CAMPAIGN ID IN QUERY
+hbx.dcmpe="";//DYNAMIC CAMPAIGN EXPIRATION
+hbx.dcmpre="";//DYNAMIC CAMPAIGN RESPONSE EXPIRATION
+hbx.hra="";//RESPONSE ATTRIBUTE
+hbx.hqsr="";//RESPONSE ATTRIBUTE IN REFERRAL QUERY
+hbx.hqsp="";//RESPONSE ATTRIBUTE IN QUERY
+hbx.hlt="";//LEAD TRACKING
+hbx.hla="";//LEAD ATTRIBUTE
+hbx.gp="";//CAMPAIGN GOAL
+hbx.gpn="";//CAMPAIGN GOAL IN QUERY
+hbx.hcn="";//CONVERSION ATTRIBUTE
+hbx.hcv="";//CONVERSION VALUE
+hbx.cp="null";//LEGACY CAMPAIGN
+hbx.cpd="";//CAMPAIGN DOMAIN
+
+//CUSTOM VARIABLES
+hbx.ci="";//CUSTOMER ID
+hbx.hc1="";//CUSTOM 1
+hbx.hc2="";//CUSTOM 2
+hbx.hc3="";//CUSTOM 3
+hbx.hc4="";//CUSTOM 4
+hbx.hrf="";//CUSTOM REFERRER
+hbx.pec="";//ERROR CODES
+
+//INSERT CUSTOM EVENTS
+
+//END EDITABLE SECTION
+
+//REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
+</script><script language="javascript1.1" src="http://www.gp.com/hbx.js" type="text/javascript"></script>
+<!-- END WEBSIDESTORY CODE -->
+
 <table cellpadding="0" cellspacing="0" border="0" width="100%">
 <tbody><tr><td colspan="2"><img src="/images/blank.gif" alt="" height="10" width="10" border="0"></td></tr>
 <tr>
 <td><a href="/"><img src="/navimages/logo_gp.gif" width="221" height="40" border="0" alt="Georgia-Pacific" hspace="9"></a></td>
 <td align="right">
 
-	<script language="JavaScript">
+
+	<script language="JavaScript" type="text/javascript">
 	// <!--
+
+	
 	function goSearch(){
 		document.search.submit();
 	}
 	// -->
 	</script>	
 	
-	<table cellpadding="0" cellspacing="3" border="0">
-	<form method="get" name="search" id="search" action="/search/searchresults.asp"></form>
-	<tbody><tr>
+	<form method="get" id="search" name="search" action="/search/searchresults.asp" style="margin:0px;">
+	<table cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr><td colspan="4"><img src="/images/blank.gif" alt="" height="2" width="10" border="0"></td></tr>
+	
+	<tr>
 	<td rowspan="2">
-<map name="nav">
-<area alt="About Us" coords="1,0,68,27" href="/center/index.html">
-<area alt="GP's Products" coords="67,0,166,27" href="/products/index.html">
-<area alt="Contact Us" coords="166,0,245,27" href="/contactus/index.asp?pk=11&amp;mk=0&amp;mo=0">
-</map>
-<img src="/navimages/gpnav_head.gif" width="245" height="27" border="0" hspace="18" usemap="#nav"></td>
-	<td>
+
+
+
+<div style="background-color:#cccccc; width:241; height:23;" id="nav">
+	<a href="/center/index.html" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('about','','/navimages/navbtn_aboutUs_2.gif',1)"><img src="/navimages/navbtn_aboutUs_1.gif" width="69" height="23" border="0" alt="" name="about"></a><a href="/products/index.html" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('products','','/navimages/navbtn_products_2.gif',1)"><img src="/navimages/navbtn_products_1.gif" width="88" height="23" border="0" alt="" name="products" hspace="1"></a><a href="/contactus/index.asp?pk=11&amp;mk=0&amp;mo=0" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('contact','','/navimages/navbtn_contact_2.gif',1);"><img src="/navimages/navbtn_contact_1.gif" width="82" height="23" alt="" border="0" name="contact"></a></div>
+
+
+
+	</td>
+	
+	<td rowspan="2"><img src="/images/blank.gif" height="1" width="36" alt=""></td>
+	<td align="left">
 	<input type="text" name="q1" size="10"><a href="javascript:goSearch();"><img src="/navimages/btn_search.gif" width="58" height="14" border="0" alt="Search"></a></td>
-	<td rowspan="2"><img src="/images/blank.gif" height="1" width="9"></td>
+	<td rowspan="2"><img src="/images/blank.gif" height="1" width="9" alt=""></td>
 	</tr>
 	<tr>
 	<td>
@@ -211,11 +368,9 @@ var n=open(page, title,'width='+width+',height='+height+',status=yes,scrollbars=
 
 		<option value="/dixie">Dixie</option>
 
-		<option value="/center">Environment</option>
+		<option value="/enviro">Environment</option>
 
-		<option value="/center">Forestry</option>
-
-		<option value="/gypsum">Gypsum</option>
+		<option value="/build">Gypsum</option>
 
 		<option value="/officeproducts">Office Products</option>
 
@@ -223,11 +378,14 @@ var n=open(page, title,'width='+width+',height='+height+',status=yes,scrollbars=
 
 		<option value="/ppb">Pulp/Paperboard</option>
 
+		<option value="/center">Sustainable Forestry</option>
+
 		</select>
 
 		</td>
 	</tr>
-	</tbody></table></td>
+	<tr><td colspan="4"><img src="/images/blank.gif" alt="" height="6" width="10" border="0"></td></tr>
+	</tbody></table></form></td>
 </tr>
 </tbody></table>
 <!-- Header Ends -->
@@ -235,11 +393,11 @@ var n=open(page, title,'width='+width+',height='+height+',status=yes,scrollbars=
 <!-- Begin Navbar -->
 <table cellpadding="0" cellspacing="0" width="100%" border="0">
 <tbody><tr><td valign="top" align="left" width="45"><img src="/navimages/headerhp/l1.gif" width="45" height="4" alt="" border="0"></td>
-<td valign="bottom" align="right" colspan="1" background="/navimages/headerhp/sliver.gif"><img src="/images/blank.gif" width="1" height="4" border="0" alt=""></td></tr>
+<td valign="bottom" align="right" colspan="1" class="headersliverbg"><img src="/images/blank.gif" width="1" height="4" border="0" alt=""></td></tr>
 <tr><td valign="top" align="left" width="45"><img src="/navimages/headerhp/l2all.gif" width="45" height="11" alt="" border="0"></td>
-<td valign="bottom" align="right" width="100%" bgcolor="E5E5E5"><img src="/images/blank.gif" width="1" height="1" border="0" alt=""></td></tr>
+<td valign="bottom" align="right" width="100%" class="headergraybg1"><img src="/images/blank.gif" width="1" height="1" border="0" alt=""></td></tr>
 <tr><td valign="top" align="left" width="45"><img src="/navimages/headerhp/l3.gif" width="45" height="4" alt="" border="0"></td>
-<td valign="bottom" align="right" colspan="1" background="/navimages/headerhp/sliver1.gif"><img src="/images/blank.gif" width="1" height="4" border="0" alt=""></td></tr>
+<td valign="bottom" align="right" colspan="1" class="headersliverbg1"><img src="/images/blank.gif" width="1" height="4" border="0" alt=""></td></tr>
 </tbody></table>
 <!-- End Navbar -->
 
@@ -273,38 +431,56 @@ var n=open(page, title,'width='+width+',height='+height+',status=yes,scrollbars=
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr><td><img src="/images/blank.gif" alt="" width="130" height="10" border="0"></td></tr>
 
-<tr><td><p class="lmenutop"><a class="lmenutoplink" href="/products/index.html">Our Products</a></p></td></tr>
+<tr><td class="lmenutop"><a class="lmenutoplink" href="/products/index.html">Our Products</a></td></tr>
 <tr><td><img src="/images/blank.gif" alt="" width="130" height="3" border="0"></td></tr>
+<tr><td class="lmenulg"><a class="lmenulink" href="/products/index.html">Home</a></td></tr>
 
-	<tr><td><p class="lmenulg"><a class="lmenulink" href="/products/index.html">Home</a></p></td></tr>
 	<tr><td><img src="/navimages/lmenuline.gif" alt="" width="130" height="7" border="0"></td></tr>
 
-	<tr><td><p class="lmenulg"><a class="lmenulink" href="/awayfromhome/index.html">Away-From-Home Products</a></p></td></tr>
+<tr><td class="lmenulg"><a class="lmenulink" href="/awayfromhome/index.html">Away-From-Home Products</a></td></tr>
+
 	<tr><td><img src="/navimages/lmenuline.gif" alt="" width="130" height="7" border="0"></td></tr>
 
-	<tr><td><p class="lmenulg"><a class="lmenulink" href="/build/index.aspx">Building Products</a></p></td></tr>
+<tr><td class="lmenulg"><a class="lmenulink" href="/bbkp.html">Bleached Board and Kraft</a></td></tr>
+
 	<tr><td><img src="/navimages/lmenuline.gif" alt="" width="130" height="7" border="0"></td></tr>
 
-	<tr><td><p class="lmenulg"><a class="lmenulink" href="/chemical/index.html">Chemicals</a></p></td></tr>
+<tr><td class="lmenulg"><a class="lmenulink" href="/build/index.aspx">Building Products</a></td></tr>
+
 	<tr><td><img src="/navimages/lmenuline.gif" alt="" width="130" height="7" border="0"></td></tr>
 
-	<tr><td><p class="lmenulg"><a class="lmenulink" href="/consumerproducts/index.html">Consumer Products</a></p></td></tr>
+<tr><td class="lmenulg"><a class="lmenulink" href="http://www.gpcellulose.com/index.html">Cellulose and Pulp</a></td></tr>
+
 	<tr><td><img src="/navimages/lmenuline.gif" alt="" width="130" height="7" border="0"></td></tr>
 
-	<tr><td><p class="lmenulg"><a class="lmenulink" href="/dixie/index.html">Dixie</a></p></td></tr>
+<tr><td class="lmenulg"><a class="lmenulink" href="/chemical/index.html">Chemicals</a></td></tr>
+
 	<tr><td><img src="/navimages/lmenuline.gif" alt="" width="130" height="7" border="0"></td></tr>
 
-	<tr><td><p class="lmenulg"><a class="lmenulink" href="/build/ProductGroup.aspx?hierarchy=pc&amp;pid=1064&amp;cat=Gypsum%20Products">Gypsum</a></p></td></tr>
+<tr><td class="lmenulg"><a class="lmenulink" href="/consumerproducts/index.html">Consumer Products</a></td></tr>
+
 	<tr><td><img src="/navimages/lmenuline.gif" alt="" width="130" height="7" border="0"></td></tr>
 
-	<tr><td><p class="lmenulg"><a class="lmenulink" href="/officeproducts/index.html">Papers - Home and Office</a></p></td></tr>
+<tr><td class="lmenulg"><a class="lmenulink" href="http://www.dixie.com">Dixie</a></td></tr>
+
 	<tr><td><img src="/navimages/lmenuline.gif" alt="" width="130" height="7" border="0"></td></tr>
 
-	<tr><td><p class="lmenulg"><a class="lmenulink" href="/paper/index.html">Papers - Printing and Imaging</a></p></td></tr>
+<tr><td class="lmenulg"><a class="lmenulink" href="/build/ProductGroup.aspx?hierarchy=pc&amp;pid=1064&amp;cat=Gypsum%20Products">Gypsum</a></td></tr>
+
 	<tr><td><img src="/navimages/lmenuline.gif" alt="" width="130" height="7" border="0"></td></tr>
 
-	<tr><td><p class="lmenulg"><a class="lmenulink" href="/ppb/index.html">Pulp, Paperboard and Packaging</a></p></td></tr>
+<tr><td class="lmenulg"><a class="lmenulink" href="/packaging.html">Packaging</a></td></tr>
+
 	<tr><td><img src="/navimages/lmenuline.gif" alt="" width="130" height="7" border="0"></td></tr>
+
+<tr><td class="lmenulg"><a class="lmenulink" href="/papers/">Paper</a></td></tr>
+
+	<tr><td><img src="/navimages/lmenuline.gif" alt="" width="130" height="7" border="0"></td></tr>
+
+<tr><td class="lmenulg"><a class="lmenulink" href="/forestry/woodfiber.html">Wood &amp; Fiber Supply</a></td></tr>
+
+	<tr><td><img src="/navimages/lmenuline.gif" alt="" width="130" height="7" border="0"></td></tr>
+
 
 </tbody></table>
 </td></tr>
@@ -339,6 +515,91 @@ var n=open(page, title,'width='+width+',height='+height+',status=yes,scrollbars=
 
 <!-- End Bread Crumb -->
 
+<!-- Begin Analytics  -->
+<!-- Google Analytics -->
+<!--  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-548988-3";
+urchinTracker();
+</script> -->
+<!-- Google Analytics -->
+
+
+<!-- Websitestory -->
+<!-- WEBSIDESTORY CODE HBX2.0 (Universal) -->
+<!-- COPYRIGHT 1997-2005 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy -->
+<script language="javascript" type="text/javascript">
+var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
+var hbx=_hbEvent("pv");hbx.vpc="HBX0200u";hbx.gn="ehg-georgiapacific.hitbox.com";
+
+//BEGIN EDITABLE SECTION
+//CONFIGURATION VARIABLES
+hbx.acct="DM5611286HAB27EN3";//ACCOUNT NUMBER(S)
+hbx.pn="PUT+PAGE+NAME+HERE";//PAGE NAME(S)
+hbx.mlc="CONTENT+CATEGORY";//MULTI-LEVEL CONTENT CATEGORY
+hbx.pndef="title";//DEFAULT PAGE NAME
+hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
+
+//OPTIONAL PAGE VARIABLES
+//ACTION SETTINGS
+hbx.fv="";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
+hbx.lt="auto";//LINK TRACKING
+hbx.dlf="n";//DOWNLOAD FILTER
+hbx.dft="n";//DOWNLOAD FILE NAMING
+hbx.elf="n";//EXIT LINK FILTER
+
+//SEGMENTS AND FUNNELS
+hbx.seg="";//VISITOR SEGMENTATION
+hbx.fnl="";//FUNNELS
+
+//CAMPAIGNS
+hbx.cmp="";//CAMPAIGN ID
+hbx.cmpn="";//CAMPAIGN ID IN QUERY
+hbx.dcmp="";//DYNAMIC CAMPAIGN ID
+hbx.dcmpn="";//DYNAMIC CAMPAIGN ID IN QUERY
+hbx.dcmpe="";//DYNAMIC CAMPAIGN EXPIRATION
+hbx.dcmpre="";//DYNAMIC CAMPAIGN RESPONSE EXPIRATION
+hbx.hra="";//RESPONSE ATTRIBUTE
+hbx.hqsr="";//RESPONSE ATTRIBUTE IN REFERRAL QUERY
+hbx.hqsp="";//RESPONSE ATTRIBUTE IN QUERY
+hbx.hlt="";//LEAD TRACKING
+hbx.hla="";//LEAD ATTRIBUTE
+hbx.gp="";//CAMPAIGN GOAL
+hbx.gpn="";//CAMPAIGN GOAL IN QUERY
+hbx.hcn="";//CONVERSION ATTRIBUTE
+hbx.hcv="";//CONVERSION VALUE
+hbx.cp="null";//LEGACY CAMPAIGN
+hbx.cpd="";//CAMPAIGN DOMAIN
+
+//CUSTOM VARIABLES
+hbx.ci="";//CUSTOMER ID
+hbx.hc1="";//CUSTOM 1
+hbx.hc2="";//CUSTOM 2
+hbx.hc3="";//CUSTOM 3
+hbx.hc4="";//CUSTOM 4
+hbx.hrf="";//CUSTOM REFERRER
+hbx.pec="";//ERROR CODES
+
+//INSERT CUSTOM EVENTS
+
+//END EDITABLE SECTION
+
+//REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
+</script><script language="javascript1.1" src="http://www.gp.com/hbx.js" type="text/javascript"></script>
+<!-- END WEBSIDESTORY CODE -->
+<!-- End Analytics -->
+
+<script language="JavaScript" type="text/javascript">
+//opens in a different window of a given size
+function opendef(str,xW,xH) {
+        defWin1 = window.open("" + str,"defWin1","resizable=yes,WIDTH=" + xW + ",HEIGHT=" + xH + ",status=no,location=no,menubar=no,scrollbars=no,top=20,left=330");
+           self.name = "main1";
+		   defWin1.focus(); 
+		   
+}
+</script>
+
 <table cellpadding="0" cellspacing="0" width="100%" border="0">
 <tbody><tr><td class="Pageheader">Privacy Policy</td></tr>
 <tr><td><img src="/images/blank.gif" alt="" width="1" height="8" border="0"></td></tr>
@@ -347,145 +608,57 @@ var n=open(page, title,'width='+width+',height='+height+',status=yes,scrollbars=
 <!-- Begin Content Table -->
 <table cellpadding="0" border="0" width="500" cellspacing="0">
   <tbody><tr>
-    <td valign="top" align="left" width="100%" class="bc1"><nobr>Georgia-Pacific</nobr> takes
-    the privacy of your personal information seriously. This Internet Privacy Policy describes
-    the measures we take to help ensure the security of information collected through our Web
-    sites. <br>
-    <br>
-	<div class="sh1">How Personal Information is Collected and Used</div>
-    <nobr>Georgia-Pacific</nobr> only collects personal information that you voluntarily
-    submit through our Web sites. This may include information such as your name, street and
-    e-mail addresses, and telephone number. We do not automatically collect personal
-    information without your knowledge. <br>
-    <br>
-	<div class="sh1">Uses of Personal Information</div>
-    When you submit personal information to <nobr>Georgia-Pacific</nobr>, you will be asked to
-    decide how we may use your information. Unless we specifically tell you otherwise before
-    you submit personal information, we will only use it to: </td>
-  </tr>
-  <tr>
-    <td valign="top" align="left" width="100%" class="bc1"><br>
-    <table cellpadding="0" border="0" width="100%" cellspacing="0">
-      <tbody><tr>
-        <td valign="top" align="left" class="bc1list">•&nbsp;</td>
-        <td valign="top" align="left" class="bc1" width="100%">Respond to your questions or
-        comments</td>
-      </tr>
-      <tr>
-        <td valign="top" align="left" class="bc1list">•&nbsp;</td>
-        <td valign="top" align="left" class="bc1" width="100%">Better understand your purchasing
-        habits and needs</td>
-      </tr>
-      <tr>
-        <td valign="top" align="left" class="bc1list">•&nbsp;</td>
-        <td valign="top" align="left" class="bc1" width="100%">Help us understand how we can
-        improve our products, services, and Web site</td>
-      </tr>
-      <tr>
-        <td valign="top" align="left" class="bc1list">•&nbsp;</td>
-        <td valign="top" align="left" class="bc1" width="100%">Inform you about special promotions</td>
-      </tr>
-      <tr>
-        <td valign="top" align="left" class="bc1list">•&nbsp;</td>
-        <td valign="top" align="left" class="bc1" width="100%">Contact you to ask for your opinion
-        or willingness to participate in certain events </td>
-      </tr>
-    </tbody></table>
+    <td valign="top" align="left" width="100%" class="bc1">
+	
+	Georgia-Pacific takes the privacy of your personal information seriously. This Internet Privacy Policy describes the measures we take to help ensure the security of information collected through our Internet Web sites ("Web Sites"). <br><br>
+	<b>How Personal Information is Collected and Used</b><br>
+	Georgia-Pacific only collects personal information that you voluntarily submit through our Internet Web Sites. This may include information such as your name, street and e-mail addresses, and telephone number. We do not automatically collect personal information without your knowledge. <br><br>
+	<b>Uses of Personal Information</b><br>
+	When you submit personal information to Georgia-Pacific, you will be asked to decide how we may use your information. Unless we specifically tell you otherwise before you submit personal information, we will only use it to: <br><br>
+	<ul>
+	<li>Respond to your questions or comments</li>
+	<li>Better understand your purchasing habits and needs</li>
+	<li>Help us understand how we can improve our products, services, and Web Site</li>
+	<li>Inform you about special promotions</li>
+	<li>Contact you to ask for your opinion or willingness to participate in certain events </li>	
+	</ul>
+	<b>Limiting the Use of Your Information</b><br>
+	If you submit personal information to Georgia-Pacific, you have two options: <br>
+	<ul>
+	<li>You may choose to allow us to use the personal information for any of the purposes described under the "Uses of Personal Information" section of our Privacy Policy. This is called the "Opt-In" choice.</li>
+	<li>You may choose to restrict our use of your information to a specific application, such as answering your question about a product. This is called the "Opt-Out" choice. </li>
+	</ul>
+	These options give you the opportunity to control the usage of your personal information by "opting out" of our systems. <br><br>
+	<b>Use of Cookies</b><br>
+	To improve your visit to our Web Sites, we may use "cookies" to obtain non-personal information (cookies are text information files that your browser places on your computer when you visit a Web site). We may aggregate this data to analyze the viewing habits of our site visitors, but it will not be associated with any personally identifiable data. <br><br>
+	<b>Sharing Your Personal Information With Others</b><br>
+	Georgia-Pacific will not use or share your personal information in ways unrelated to the uses described above unless we provide you with prior notice and give you an opportunity to change your usage preferences. <br><br>
+	Unless you give us prior consent, Georgia-Pacific will not trade, sell, or share your personal information with any person or entity other than Georgia-Pacific LLC and its subsidiaries, affiliates and representatives, unless required by law or as disclosed to you before the information is collected. <br><br>
+	For certain promotions or product requests, we may share your information with an outside company for the sole purpose of fulfilling your order. These companies are carefully selected by Georgia-Pacific and also take the protection of your personal information seriously. <br><br>
+	<b>Access to Your Information</b><br>
+	To modify your personal information, contact us at <a href="contactus.asp?pk=11&amp;mk=0&amp;mo=0">privacy@gapac.com</a>. We will make every effort to respond to your requests in a timely manner. <br><br>
+	If you have already submitted personal information to Georgia-Pacific, you may opt-out of the Company's future use of that information by sending an e-mail to <a href="remove.asp?pk=11&amp;mk=0&amp;mo=0">remove@gapac.com</a>. Upon receiving your request, we will delete your personal information from our records. <br><br>	
+	<b>Security of Your Information</b><br>
+	The security of your personal information is very important to us. We use appropriate technical and managerial procedures to protect your personal information and prevent its disclosure outside Georgia-Pacific. Only those authorized by Georgia-Pacific will be granted access to your personal information. <br><br>
+	In addition to careful consideration about what information you share and who you share it with, we recommend that everyone develop good security habits. These include protecting and regularly changing your password, using computer virus protection, logging off when you finish using your computer, and considering the use of file or email encryption programs. <br><br>
+	<b>Children's Privacy</b><br>
+	We operate our Web Sites in compliance with the Children's Online Privacy Protection Act (COPPA). While some of our Web Sites contain information designed specifically for children, Georgia-Pacific will not ask for, collect, or use any personal information from anyone identified as being under the age of 13. <br><br>
+	<b>Enforcement of Policies or Consumer Concerns</b><br>
+	If you believe Georgia-Pacific has not adhered to these practices or have any concerns related to the privacy of your personal information, please notify us by e-mail at <a href="contactus.asp?pk=11&amp;mk=0&amp;mo=0">privacy@gapac.com</a>, or write us at: <br><br>
+	Georgia-Pacific IT Privacy &amp; Security<br>
+	55 Park Place (30303)<br>
+	P.O. Box 740075<br>
+	GA029-13<br>
+	Atlanta, GA<br>
+	30374-0075<br><br>
+We will make every effort to investigate and correct the problem promptly. <br><br>
+<b>Changes to This Privacy Policy</b><br>
+Georgia-Pacific may amend this Internet Privacy Policy from time to time. Please check back for updates. <br><br>
+
     </td>
   </tr>
-  <tr>
-    <td valign="top" align="left" width="100%" class="bc1"><br>
-	<div class="sh1">Limiting the Use of Your Information</div>
-    If you submit personal information to <nobr>Georgia-Pacific</nobr>, you have two options: <table cellpadding="0" border="0" width="100%" cellspacing="0">
-      <tbody><tr>
-        <td valign="top" align="left" class="bc1list">•&nbsp;</td>
-        <td valign="top" align="left" class="bc1" width="100%">You may choose to allow us to use
-        the personal information for any of the purposes described under the "Uses of
-        Personal Information" section of our Privacy Policy. This is called the
-        "Opt-In" choice.</td>
-      </tr>
-      <tr>
-        <td valign="top" align="left" class="bc1list">•&nbsp;</td>
-        <td valign="top" align="left" class="bc1" width="100%">You may choose to restrict our use
-        of your information to a specific application, such as answering your question about a
-        product. This is called the "Opt-Out" choice. </td>
-      </tr>
-    </tbody></table>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" align="left" width="100%" class="bc1"><br>
-    These options give you the opportunity to control the usage of your personal information
-    by "opting out" of our systems. </td>
-  </tr>
-  <tr>
-    <td valign="top" align="left" width="100%" class="bc1"><br>
-	<div class="sh1">Use of Cookies</div>
-    To improve your visit to our sites, we may use "cookies" to obtain non-personal
-    information (cookies are text information files that your browser places on your computer
-    when you visit a Web site). We may aggregate this data to analyze the viewing habits of
-    our site visitors, but it will not be associated with any personally identifiable data. <br>
-    <br>
-	<div class="sh1">Sharing Your Personal Information With Others</div>
-    <nobr>Georgia-Pacific</nobr> will not use or share your personal information in ways
-    unrelated to the uses described above unless we provide you with prior notice and give you
-    an opportunity to change your usage preferences. <br>
-    <br>
-    Unless you give us prior consent, <nobr>Georgia-Pacific</nobr> will not trade, sell, or
-    share your personal information with any person or entity other than <nobr>Georgia-Pacific</nobr>
-    Corporation and its subsidiaries, affiliates and representatives, unless required by law
-    or as disclosed to you before the information is collected. <br>
-    <br>
-    For certain promotions or product requests, we may share your information with an outside
-    company for the sole purpose of fulfilling your order. These companies are carefully
-    selected by <nobr>Georgia-Pacific</nobr> and also take the protection of your personal
-    information seriously. <br>
-    <br>
-	<div class="sh1">Access to Your Information</div>
-    To modify your personal information, contact us at <a href="contactus.asp?pk=11&amp;mk=0&amp;mo=0">privacy@gapac.com</a>.
-    We will make every effort to respond to your requests in a timely manner. <br>
-    <br>
-    If you have already submitted personal information to <nobr>Georgia-Pacific</nobr>, you
-    may opt-out of the company's future use of that information by sending an e-mail to <a href="remove.asp?pk=11&amp;mk=0&amp;mo=0">remove@gapac.com</a>. Upon receiving your request, we will delete your
-    personal information from our records. <br>
-    <br>
-	<div class="sh1">Security of Your Information</div>	
-    The security of your personal information is very important to us. We use appropriate
-    technical and managerial procedures to protect your personal information and prevent its
-    disclosure outside <nobr>Georgia-Pacific</nobr>. Only those authorized by <nobr>Georgia-Pacific</nobr>
-    will be granted access to your personal information. <br>
-    <br>
-    In addition to careful consideration about what information you share and who you share it
-    with, we recommend that everyone develop good security habits. These include protecting
-    and regularly changing your password, using computer virus protection, logging off when
-    you finish using your computer, and considering the use of file or email encryption
-    programs. <br>
-    <br>
-    <a name="children"></a> 
-	<div class="sh1">Children's Privacy</div>		
-    We operate our sites in compliance with the Children's Online Privacy Protection Act
-    (COPPA). While some of our sites contain information designed specifically for children, <nobr>Georgia-Pacific</nobr>
-    will not ask for, collect, or use any personal information from anyone identified as being
-    under the age of 13. <br>
-    <br>
-	<div class="sh1">Enforcement of Policies or Consumer Concerns</div>		
-    If you believe <nobr>Georgia-Pacific</nobr> has not adhered to these practices or have any
-    concerns related to the privacy of your personal information, please notify us by e-mail
-    at <a href="contactus.asp?pk=11&amp;mk=0&amp;mo=0">privacy@gapac.com</a>, or write us at: <br>
-    <br>
-    Corporate IT Privacy &amp; Security<br>
-    55 Park Place (30303)<br>
-    P.O. Box 740075<br>
-    GA029-13<br>
-    Atlanta, GA<br>
-    30374-0075<br>
-    <br>
-    We will make every effort to investigate and correct the problem promptly. <br>
-    <br>
-	<div class="sh1">Changes to This Privacy Policy</div>		
-    <nobr>Georgia-Pacific</nobr> may amend this Internet Privacy Policy from time to time.
-    Please check back for updates. </td>
-  </tr>
+
+
 </tbody></table>
 <!-- End Content Table -->
 
@@ -505,14 +678,19 @@ var n=open(page, title,'width='+width+',height='+height+',status=yes,scrollbars=
 <!-- End Spacer Table -->
 
 <!-- Begin Footer -->
+
 <table cellpadding="0" cellspacing="0" width="96%" border="0" align="center">
 <tbody><tr><td valign="top" align="left" width="100%" class="footerline"><img src="/images/blank.gif" width="6" height="3" alt="" border="0"></td></tr>
 <tr><td><img src="/images/blank.gif" alt="" width="130" height="13" border="0"></td></tr>
-<tr><td valign="top" align="right" width="100%" class="footer"><a href="/legal/index.asp?pk=11&amp;mk=0&amp;mo=0" class="footer">terms of use</a> / <a href="/privacy/index.asp?pk=11&amp;mk=0&amp;mo=0" class="footer">privacy policy</a><br><br></td></tr>
+<tr><td valign="top" align="right" width="100%" class="footer"><a href="http://www.gp.com"><img src="/images/blank.gif" alt="" width="12" height="3" border="0" title="www.gp.com"></a><a href="/legal/index.asp?pk=11&amp;mk=0&amp;mo=0" class="footer">terms of use</a> / <a href="/privacy/index.asp?pk=11&amp;mk=0&amp;mo=0" class="footer">privacy policy</a><br><br></td></tr>
 </tbody></table>
 
 
 <!-- End Footer -->
+
+<!-- Google Analytics -->
+
+<!-- Google Analytics -->
 
 
 
