@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findsomeone.co.nz privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205224714id_/http%3A//www.findsomeone.co.nz/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findsomeone.co.nz privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626025443id_/http%3A//www.findsomeone.co.nz/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # findsomeone.co.nz | Privacy Policy
 
@@ -19,7 +19,7 @@ We have designed a thorough privacy policy with these things in mind.
 
 If you have any questions regarding our privacy policy, we encourage you to contact our privacy officer through our [contact form.](https://web.archive.org/ContactForm.aspx)
 
-This privacy policy was last updated on 4th February 2005.
+This privacy policy was last updated on 20th February 2007.
 
 **Collection and use of your information**
 
@@ -29,7 +29,7 @@ There are five types of information we collect about you:
 You are required to provide us certain personal information, such as your name and email address, so we can provide a safe service and, if required, verify your identity when you contact us. Your private information will never be disclosed or sold to any other party and will never be disclosed on the FindSomeone website without your explicit permission.  
 ---|---  
 **2** | **Public information that you enter for your profile.**  
-You are encouraged to provide a lot of information about yourself to help find people to meet. All information you provide for your profile should be considered public ? as any Internet user can conceivably find this information. Information collected is designed to minimise the ability for someone to identify you. It is your responsibility to control the extent of information you provide on your FindSomeone profile to help us to ensure your privacy is protected.
+You are encouraged to provide a lot of information about yourself to help find people to meet. All information you provide for your profile should be considered public as any Internet user can conceivably find this information. If you select "show my photos to anyone" your profile or photo may also appear in the Personals section of Trade Me and the FindSomeone newsletter in addition to the FindSomeone site. Information collected is designed to minimise the ability for someone to identify you. It is your responsibility to control the extent of information you provide on your FindSomeone profile to help us to ensure your privacy is protected.
 
 We provide options to allow you to restrict visibility of your profile and visibility of any photos you upload.  
   
@@ -64,7 +64,7 @@ FindSomeone mostly uses "session cookies", which are removed from your computer 
 FindSomeone also uses persistent cookies to personalise the user experience, to help protect our members and to provide us with research information (such as how often members visit). Persistent cookies allow us to track users on FindSomeone and helps us identify users abusing the FindSomeone services.
 
 **Advertisers**  
-We may at times promote 3rd-party advertisers on FindSomeone. Clicking advertisements may redirect you to websites where the privacy policy is beyond our control. We will never pass personally identifying information about you to advertisers ? even when you are logged in and click an advertisement.
+We may at times promote 3rd-party advertisers on FindSomeone. Clicking advertisements may redirect you to websites where the privacy policy is beyond our control. We will never pass personally identifying information about you to advertisers - even when you are logged in and click an advertisement.
 
 Different sites have very different privacy practices and policies. We recommend you locate and read the privacy policy of any site you are redirected to.
 
