@@ -1,54 +1,45 @@
-> *The following text is extracted and transformed from the websecurityguard.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230201833id_/http%3A//www.websecurityguard.com/wsg/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websecurityguard.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626205909id_/http%3A//www.websecurityguard.com/privacy.aspx) for the most accurate reproduction.*
 
 # Web Security Guard
 
 |   
-PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY USING ANY OF THE SERVICES, YOU REPRESENT THAT YOU HAVE READ AND UNDERSTAND THE AGREEMENT, WHICH INCLUDES THIS PRIVACY POLICY, AND YOU AGREE TO BE BOUND BY ALL ITS TERMS. TERMS NOT DEFINED IN THIS PRIVACY POLICY HAVE THE MEANING DESCRIBED IN THE TERMS OF USE. 
+**The Privacy Policy will address the following points:**
 
-#### The Privacy Policy will address the following points:
-
-  * Information Collection
-  * Personally Identifiable Information
-  * Cookies
-  * Sharing of Information
-  * Advanced Site Rank Feature
-  * Policy Changes Making Changes
+  * What information, if any, is collected as a result of your visit?
+  * Whether information is shared?
+  * Whether Cookies are placed on your hard drive?
   * Contact Information
 
+**Introduction**
 
+Protecting personal information is a core Crawler, LLC value. This privacy statement describes how we collect and use the personal information you provide on our website. It also describes the choices available to you regarding the use of your personal information and the steps you can take to access this information and to request that we correct or delete it.
 
-#### Information Collection
+Crawler, LLC abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.
 
-Visiting and using Crawler Services may result in Crawler receiving performance and usage information (such as search term, time of day, browser type, default language setting, IP address, an anonymous identifier). This information will not be used to personally identify you.
+**Information Collection**
 
-#### Personally Identifiable Information
+As is true of most websites, we gather information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and click-stream data. We use this information, which does not identify individual visitors, to analyze trends, to administer the website, to track visitors’ movements around the site and to gather information about the geographic location of our visitors as a whole. We do not collect Personally Identifiable Information (“PII”) about our visitors at this website. No further information regarding our visitors, other than the browser-level information described above, is collected at this website in any manner whatsoever or for any purpose.
 
-Some of Crawler services require registration in order to create an account. The registration information typically asked for includes your name, email address and account password. This information is necessary to initiate as well as continually use the account. Searches using alternate search engines such as MSN, Google, and Yahoo through the Crawler toolbar are relayed through our servers, however, we don't collect any search specific or user related information.
+**Cookies**
 
-#### Cookies
+A "cookie" is a small file containing a string of characters that is sent to your computer when you visit a website. When you visit the website again, the cookie allows that site to recognize your browser. Cookies may store user preferences and other information. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies.
 
-Cookies are small files that contain information that a website uses to store user preferences and settings. You can reset your browser to control cookies; however, some Crawler services may not function properly if cookies are refused. Searches using alternate search engines such as MSN, Google, and Yahoo through the Crawler toolbar are relayed through our servers, however, we don't collect any search specific or user related information.
+We use cookies to enhance your online experience and to learn about how you use our services in order to improve the quality of our services. Our servers automatically record information when you visit our website, including the URL, IP address, browser type and language, and the date and time of your request.
 
-#### Sharing of Information
+**Sharing of Information**
 
-Crawler does not collect any personally identifiable information unless provided by you, and we will not share, rent or sell any of your personally identifiable information provided by you. We may share aggregated non-personally identifiable information with third parties outside of Crawler. Aggregate non-personally identifiable information is recorded about users and collected into groups so that it no longer reflects or references an individually identifiable user. We may disclose some information in response to subpoenas, court orders, or other legal requirements.
+As described above, no information other than the browser-level information, and the information recorded by the cookie (IP address, browser type and language, and the date and time of your request for information) is captured by visiting our website. The browser-level information and information recorded by the cookie is not shared with any third party.
 
-#### Advanced SiteRank Feature
+**Policy Changes**
 
-View [privacy policy](http://www.websecurityguard.com/wsg/Privacy_adv.aspx) on the SiteRank feature.
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes in a conspicuous manner to this Privacy Policy, and other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-#### Policy Changes
+**Contact Information**
 
-Crawler may change this Privacy Policy at any time at its sole discretion. Notice of material changes to this Policy will be posted on Crawler's Website. We will not reduce your rights under our Privacy Policy without your explicit consent, and we expect most future changes to be minor.
+If you have any questions or suggestions regarding our Privacy Policy, please contact us at:
 
-#### Contact Information
-
-CRAWLER, LLC, 999 YAMATO RD STE 100, Boca Raton, Florida 33431 Telephone: 1-561-989-7400,  
-Fax: 1-561-989-7401,  
-E-mail: [contact@crawler.com](mailto:contact@crawler.com)
-
-© 2003-2006 Crawler, LLC.
-
+© Crawler, LLC  
 All trademarks are the property of their respective owners. All Rights Reserved.
 
+  
 | 
