@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chargers.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207225058id_/http%3A//www.chargers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chargers.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626192516id_/http%3A//www.chargers.com/privacy-policy) for the most accurate reproduction.*
 
 # Chargers.com - Privacy Policy
 
@@ -29,7 +29,7 @@ Please read the information below to learn more about our data collection polici
 
   1. Types Of Information That May Be Collected
   2. How Information May Be Collected
-  3. [How We Use The Information Collected](https://web.archive.org/web/20061207225058id_/http://www.chargers.com/privacy-policy/03)
+  3. How We Use The Information Collected
   4. With Whom The Information May Be Shared
   5. Security
   6. Chat Rooms, Forums, And Message Boards
