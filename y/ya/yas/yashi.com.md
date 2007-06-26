@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yashi.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205231825id_/http%3A//www.bolt.com/siteinfo/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yashi.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626132452id_/http%3A//www.bolt.com/siteinfo/privacy.jsp) for the most accurate reproduction.*
 
 # Members
 
