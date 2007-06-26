@@ -1,13 +1,9 @@
-> *The following text is extracted and transformed from the affiliatesdirectory.com privacy policy that was archived on 2006-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061106103342id_/http%3A//www.affiliatesdirectory.com/contact-us/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatesdirectory.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626045908id_/http%3A//www.affiliatesdirectory.com/information/privacy.shtml) for the most accurate reproduction.*
 
-# We repect your privacy at AffiliatesDirectory.com
+# AffiliatesDirectory.com - The Affiliate Programs Directory: Your Privacy
 
-## Privacy Statement 
+## Is important to us!
 
-##   
-Your privacy is important to us!
-
-  
 We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: - 
 
 **AffiliatesDirectory.com.**
@@ -32,7 +28,7 @@ This site makes forums, message boards, and/or news groups available to its user
 
 ## Our Directory of Affiliate Programs
 
-If you submit an Affiliate Program for inclusion into our directory, we collect your name and Email address for the purpose of verifying the information, if required. Further, your real name and email details **are not** included in that listing. Your registered 'Username' is however published with your affiliate program listing (however no other details are published).
+If you submit an Affiliate Program for inclusion into our directory, we collect your name and Email address for the purpose of verifying the information, if required. Further, your real name and email details **are not** included in that listing by ourselves, however you are free to add these details to your listing (but we caution you against this). Your registered 'Username' is however published with your affiliate program listing (however no other details are published).
 
 By submitting your program, you may also receive an occasional Email message from us. We guarantee that this is **only limited** to occasions where changes have been made to our Directory which may impact upon your listing.
 
@@ -48,7 +44,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their personal information (or information about any affiliate program) from our database and/or to not receive future communications from AffiliatesDirectory.com. 
 
-  1. You can send email to the webmaster by [using the following form.](https://web.archive.org/faq/contact.shtml)
+  1. You can send email to the webmaster by [using the following form.](https://web.archive.org/information/contact-us.shtml)
 
 
 
@@ -64,12 +60,12 @@ To further protect your privacy and ensure that no one unlawfully or maliciously
 
 This site gives users the following options for changing and modifying information previously provided. 
 
-  1. Please send an email by [using the following form.](https://web.archive.org/faq/contact.shtml)
+  1. Please send an email by [using the following form.](https://web.archive.org/information/contact-us.shtml)
 
 
 
 If it is in relation to updating information contained in our Directory of Affiliate Programs, including your contact details, username and affiliate program listings, please visit our [Modify an Affiliate Program](https://web.archive.org/links/modify.cgi) page.
 
-## Contacting the Web Site
+## Contacting Us 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, we urge you to [contact us](https://web.archive.org/faq/contact.shtml).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, we urge you to [contact us](https://web.archive.org/information/contact-us.shtml).
