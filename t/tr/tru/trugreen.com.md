@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trugreen.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230132316id_/http%3A//trugreen.com/tg/Privacy.dsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trugreen.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627004214id_/http%3A//www.trugreen.com/tg/Privacy.dsp) for the most accurate reproduction.*
 
-# Privacy Policy - TruGreen Lawn Care & Landscaping - TruGreen ChemLawn
+# Privacy Policy - TruGreen Lawn Care & Landscaping - TruGreen
 
 The TruGreen Companies is committed to protecting the privacy of our users' personal information. To better protect your privacy, we have instituted the security and privacy practices outlined in this policy. We provide this notice explaining our information practices and the choices you can make about the way your information is used. Our privacy policy contains the following information:
 
