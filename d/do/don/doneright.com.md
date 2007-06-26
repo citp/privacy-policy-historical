@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doneright.com privacy policy that was archived on 2006-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061107010533id_/http%3A//www.doneright.com/PrivacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doneright.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626103412id_/http%3A//www.doneright.com/PrivacyPolicy.cfm) for the most accurate reproduction.*
 
 # DoneRight.com - Privacy Policy
 
@@ -68,7 +68,7 @@ Our website uses cookies (small files that reside on your computer) and other te
 RECORDING OF CALLS   
 | 
 
-We may, occasionally, record the calls placed to our approved service providers to ensure that calls are answered in a prompt and professional manner and for other quality control purposes. Whenever there is a chance that a call may be recorded, the caller hears a message advising that "this call may be recorded for quality purposes." The calls are used by us and our approved research vendors and are never made available to the public, but an anonymous transcript or summary may be shared with our approved service providers in an effort to help them improve their business practices.   
+We may, occasionally, record the calls placed to our approved Service Providers to ensure that calls are answered in a prompt and professional manner and for other quality control purposes. Whenever there is a chance that a call may be recorded, the caller hears a message advising that "this call may be recorded for quality purposes." The calls are used by us and our approved research vendors and are never made available to the public, but an anonymous transcript or summary may be shared with our approved Service Providers in an effort to help them improve their business practices.   
   
 CHILDREN   
 | 
