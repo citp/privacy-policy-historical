@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liquidation.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216144956id_/http%3A//www.liquidation.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liquidation.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626121753id_/http%3A//www.liquidation.com/privacy.html) for the most accurate reproduction.*
 
 # Surplus items auction, discount surplus inventories marketplace, wholesale closeouts
 
@@ -12,7 +12,7 @@
 
 
 
-If you have questions or concerns regarding this policy, you should first contact the Buyer Relations Department via phone at (800) 310-4604 or via e-mail at [support@liquidation.com](mailto:support@liquidation.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe [http://www.truste.org/users/users_watchdog.html](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with Liquidity Services, Inc. to resolve your concerns. 
+If you have questions or concerns regarding this policy, you should first contact the Buyer Relations Department via phone at (800) 498-1909 or via e-mail at [support@liquidation.com](mailto:support@liquidation.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe [http://www.truste.org/users/users_watchdog.html](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with Liquidity Services, Inc. to resolve your concerns. 
 
 Liquidity Services, Inc. has created this privacy policy in order to demonstrate our firm commitment to privacy. 
 
@@ -60,7 +60,7 @@ This site gives users the following options for changing and modifying informati
 
   1. Email [support@liquidation.com](mailto:support@liquidation.com). 
   2. Log in to My Account at [http://web.liquidation.com/account/main](https://web.liquidation.com/account/main). 
-  3. Call our Buyer Relations Team at (800) 310-4604 
+  3. Call our Buyer Relations Team at (800) 498-1909 
 
 **Notification of Changes**
 
