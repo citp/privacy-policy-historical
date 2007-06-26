@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the williamhillcasino.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207195359id_/http%3A//www.willhill.com/iibs/EN/static/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the williamhillcasino.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626174306id_/http%3A//www.willhill.com/iibs/EN/static/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
