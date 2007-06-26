@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sydneyairport.com.au privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218174120id_/http%3A//www.sydneyairport.com.au/SACL/legal/privacy%2Bpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sydneyairport.com.au privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626230346id_/http%3A//www.sydneyairport.com.au/SACL/legal/privacy%2Bpolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
