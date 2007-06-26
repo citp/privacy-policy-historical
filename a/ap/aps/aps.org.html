@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the aps.org privacy policy that was archived on 2006-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061223013829id_/http%3A//www.aps.org/about/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aps.org privacy policy that was archived on 2007-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070627015914id_/http%3A//www.aps.org/about/privacy.cfm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- Content Copyright American Physical Society --><!-- Page generated 2006-12-18 17:56:50 by CommonSpot CommonSpot v4.6.2.50 (2006-06-15 18:07:05) --><!-- JavaScript & DHTML Code Copyright 1998-2005 PaperThin, Inc.  All rights reserved --><head> <title>Privacy Policy</title> <meta name="keywords" value="">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- Content Copyright American Physical Society --><!-- Page generated 2007-06-25 14:20:15 by CommonSpot CommonSpot v4.6.2.50 (2006-06-15 18:07:05) --><!-- JavaScript & DHTML Code Copyright 1998-2005 PaperThin, Inc.  All rights reserved --><head> <title>Privacy Policy</title> <meta name="keywords" value="">
 		<meta name="description" value="Privacy Policy">
 		<link rel="stylesheet" href="/style/navigation.css" type="text/css"><link rel="stylesheet" href="/style/styles.css" type="text/css"><link rel="stylesheet" href="/style/subpage.css" type="text/css"><style type="text/css">
 	.mw { color:#000000;font-family:Verdana,Arial,Helvetica;font-weight:bold;font-size:xx-small;text-decoration:none; }
@@ -31,6 +31,52 @@
 		var intLeft=200;
 		var intHeight=290;
 		var intWidth=480;
+			var cookieStr = document.cookie;
+			var cookieWinRegEx = /CSOFFSCREENPOPUPSALLOWED=\d/i;
+			var rxVal = /\d+/;
+			try
+			{
+				if (cookieStr && cookieStr.match(cookieWinRegEx))
+				{
+					var strVal=cookieStr.match(cookieWinRegEx);
+					if (strVal)
+						blnPopUpsOffScreen=strVal.toString().match(rxVal);
+					else
+						blnPopUpsOffScreen = 0;
+				}
+				else
+					blnPopUpsOffScreen=0;
+			}
+			catch (oErr)
+			{
+				blnPopUpsOffScreen=0;
+			}
+			if(blnPopUpsOffScreen==1)
+			{
+				intTop=window.screen.height - 9;
+				intLeft=window.screen.width - 9;
+				intHeight=1;
+				intWidth=1;
+			}
+			else
+			{
+				intTop=(window.screen.height / 2) - 109;
+				intLeft=(window.screen.width / 2) - 210;
+				intHeight=218;
+				intWidth=421;
+			}
+			if(!url.match(externalLinkRegEx) && url.indexOf('kurrentPageID') == -1)
+			{
+				try
+				{
+					if( url.indexOf ('?') == -1 )
+						url = url + '?kurrentPageID=' + kurrentPageID;
+					else
+						url = url + '&kurrentPageID=' + kurrentPageID;
+				}
+				catch (oErr)
+				{ /* Do Nothing */ }
+			}
 		var re = new RegExp();
 		re = /&amp;/gi;
 		url = url.replace(re,"&");
@@ -70,7 +116,7 @@
 			var strWinOptions = strOptions;
 		}
 		strWinOptions = strWinOptions + ',top='+ intTop + ',left=' + intLeft + ',height=' + intHeight + ',width=' + intWidth;
-			var winWindow=window.open(url,name);
+			var winWindow=window.open(url,name,strWinOptions);
 		if (!winWindow)
 			alert('Unable to open window - please make sure the pop-up blocker is disabled for this site');
 		if(arguments.length==4 && arguments[3]==1 && winWindow)
@@ -80,7 +126,12 @@
 </script>
 <!-- --> 
 	<link rel="stylesheet" href="/style/styles_pages.css" type="text/css">
+	
+	
+	
 	<script type="text/javascript" src="/templates/js/scripts.js"></script>
+	
+	
 	<!-- <script type="text/javascript" src="/templates/js/iehover-fix.js"></script> -->
 	<!--[if lt IE 7]><script type="text/javascript" src="/templates/js/iehover-fix.js"></script><![endif]-->
 	
@@ -91,24 +142,184 @@
 		_uacct = "UA-324916-7";
 		urchinTracker();
 	</script>
-<link rel="stylesheet" href="/commonspot/commonspot.css" type="text/css"> 
-
-<script type="text/javascript">
-<!--
-
-var gShowKeywords = 0;
-var gHaveKeywords = 0;
-
-var js_userID=0;
-
-// -->
-</script>
-<!-- --> </head><body onload="onLoadFinished();" lang="en" class="CS_Document"><script type="text/javascript">
+<link rel="stylesheet" href="/commonspot/commonspot.css" type="text/css"> </head><body lang="en" class="CS_Document"><script type="text/javascript">
 <!--
 document.CS_StaticURL = "http://www.aps.org/";
 document.CS_DynamicURL = "http://www.aps.org/";
 // -->
-</script><a name="__topdoc__"></a><script src="/commonspot/ns-resize.js" type="text/javascript"></script><!-- --><script src="/commonspot/pagemode/always-include-common.js" type="text/javascript"></script><script src="/commonspot/pagemode/always-include-ns.js" type="text/javascript"></script>
+</script><a name="__topdoc__"></a><!-- --><script src="/commonspot/pagemode/always-include-common.js" type="text/javascript"></script>
+<script type="text/javascript">
+<!--
+		// always-include-ie.js  Copyright 1998-2005 PaperThin, Inc. All rights reserved.
+bName = navigator.appName;
+bVer = parseInt(navigator.appVersion);
+var bCanRollover=0
+if (bName == "Netscape")
+{
+	if(bVer >= 3)
+		bCanRollover=1;
+}
+else if (bName == "Microsoft Internet Explorer")
+{
+	if(bVer >= 4)
+		bCanRollover=1;
+}
+function ImageSet(imgID,newTarget)
+{
+	if (bCanRollover)
+		document[imgID].src=newTarget;
+}
+function clearStatus()
+{
+	window.status = "";
+}
+function setStatbar(statbar)
+{
+	var strStatbar=unescape(statbar);
+	window.status=strStatbar;
+}
+function onLoadComplete()
+{
+	if( menus_included == 1 )
+		document.onmouseover = document_mouseover;	// defined in menu_ie.js
+}
+function HandleLink(parentID,link,displaylink) 
+{
+	// links are in one of the following formats:
+	// 		cpe_60_0,CP___PAGEID=100
+	// 		CPNEWWIN:WindowName^params@CP___
+	// 			CPNEWWIN:child^top=110:left=130:ww=140:hh=150:tb=1:loc=1:dir=0:stat=1:mb=1:sb=1:rs=1@CP___PAGEID=3811,Adv-Search-2.cfm,1
+	// displaylink is the server relative URL or fully qualified URL
+	if( jsPageAuthorMode == 0 )
+	{
+		windowname = "";
+		windowparams = "";
+		// "CPNEWWIN:" & NewWindowName & "^" & params & "@" & linkStruct.LinkURL; 
+		pos = link.indexOf("CPNEWWIN:");
+		if (pos != -1)
+		{
+			pos1 = link.indexOf ("^");
+			windowname = link.substring (pos+9, pos1);
+			pos2 = link.indexOf ("@");
+			windowparams = link.substring (pos1 + 1, pos2);
+			link = link.substring (pos2 + 1, link.length);
+		}
+		
+		if( displaylink && displaylink != "" )
+		{		
+			if (windowname == "")
+				window.location = displaylink;
+			else
+			{
+				windowparams = FormatWindowParams(windowparams);
+				window.open (displaylink, windowname, windowparams);
+			}
+		}
+		else
+		{
+			targetLink = link;
+			if (link.indexOf ("CP___") != -1)
+			{
+				httpPos = -1;
+				commaPos = link.indexOf(",");
+				if (commaPos != -1)
+				{
+					targetUrl = link.substr(commaPos + 1);
+					if (targetUrl.indexOf("://") != -1 || targetUrl.indexOf("/") == 0)
+					{
+							httpPos = commaPos + 1;
+					}		
+				}
+					
+				if (httpPos != -1)
+				{
+					targetLink = link.substr(httpPos);
+					commaPos = targetLink.indexOf(",");
+					if (commaPos != -1)
+						targetLink = targetLink.substr(0, commaPos);
+				}
+				else
+					targetLink = jsDlgLoader + "?url=/commonspot/utilities/handle-link.cfm&thelink=" + link;
+				
+				if (windowname == "")
+					window.location = targetLink;
+				else
+				{
+					windowparams = FormatWindowParams(windowparams);
+					window.open (targetLink, windowname, windowparams);
+				}
+			}
+			else
+			{
+				//commaPos = link.indexOf(",");
+				//if (commaPos != -1)
+				//	link = link.substr(0, commaPos);
+				if (windowname == "")
+					window.location = link;
+				else
+				{
+					windowparams = FormatWindowParams(windowparams);
+					window.open (link, windowname, windowparams);
+				}
+			}
+		}
+	}
+	else if( jsSessionPreviewON == 1 )
+	{
+		previewLink(link);
+	}
+	else
+	{
+		if( document.all[parentID] )
+			document.all[parentID].click();
+	}
+}
+function doWindowOpen(href,name,params)
+{
+	if (params != '')
+		window.open (href, name, params);
+	else
+		window.open (href, name);	
+}
+// 	CPNEWWIN:child^top=110:left=130:ww=140:hh=150:tb=1:loc=1:dir=0:stat=1:mb=1:sb=1:rs=1@CP___PAGEID=3811,Adv-Search-2.cfm,1
+function FormatWindowParams(windowparams)
+{
+	if( windowparams.indexOf(":loc=") != -1 || windowparams.indexOf(":ww=") != -1 || windowparams.indexOf(":hh=") != -1 || 
+	    windowparams.indexOf(":left=") != -1 || windowparams.indexOf(":top=") != -1 )
+	{
+		windowparams = substringReplace(windowparams,':left=',',left=');
+		windowparams = substringReplace(windowparams,'left=','left=');
+		windowparams = substringReplace(windowparams,':ww=',',width=');
+		windowparams = substringReplace(windowparams,'ww=','width=');		
+		windowparams = substringReplace(windowparams,':hh=',',height=');
+		windowparams = substringReplace(windowparams,'hh=','height=');
+		windowparams = substringReplace(windowparams,':loc=',',location=');
+		windowparams = substringReplace(windowparams,'loc=','location=');
+		windowparams = substringReplace(windowparams,':dir=',',directories=');
+		windowparams = substringReplace(windowparams,'dir=','directories=');
+		windowparams = substringReplace(windowparams,':tb=',',toolbar=');
+		windowparams = substringReplace(windowparams,'tb=','toolbar=');
+		windowparams = substringReplace(windowparams,':stat=',',status=');
+		windowparams = substringReplace(windowparams,':mb=',',menubar=');
+		windowparams = substringReplace(windowparams,':sb=',',scrollbars=');
+		windowparams = substringReplace(windowparams,':rs=',',resizable=');
+	}
+	return windowparams;
+}
+function substringReplace(source,pattern,replacement)
+{
+	var pos = 0;
+	var target="";
+	while ((pos = source.indexOf(pattern)) != (-1))
+	{
+		target = target + source.substring(0,pos) + replacement;
+		source = source.substring(pos+pattern.length);
+		pos = source.indexOf(pattern);
+	}
+	return (target + source);
+}
+// -->
+		</script>
 <script type="text/javascript">
 <!--
 	function glblLinkHandler(lobj, attr, val)
@@ -174,12 +385,12 @@ function ImageSet(imgID,newTarget)
 					<a href="/membership/join.cfm">Become a Member</a> | <a href="/about/contact/index.cfm">Contact Us</a>
 				</div>
 			</div><!-- googleon: index --><!-- googleon: snippet --><!-- end header -->
-			<div id="topMenu"><ul id="nav"><li id="publications" class="publications"><a href="/publications/index.cfm"><img src="/templates/images/nav-publications_off.gif" alt="Publications" name="nav-publications"></a><ul><li><a href="/publications/journals/index.cfm">APS Journals</a></li><li><a href="/publications/apsnews/index.cfm">APS News</a></li><li><a href="/publications/physics-today.cfm">Physics Today</a></li><li><a href="/publications/focus.cfm">Physical Review Focus</a></li><li><a href="/publications/capitolhillquarterly/index.cfm">Capitol Hill Quarterly</a></li><li><a href="/publications/other.cfm">Other APS Publications</a></li></ul></li><li id="meetings" class="meetings"><a href="/meetings/index.cfm"><img src="/templates/images/nav-meetings_off.gif" alt="Meetings &amp; Events" name="nav-meetings"></a><ul><li><a href="/meetings/march/index.cfm">March Meeting</a></li><li><a href="/meetings/april/index.cfm">April Meeting</a></li><li><a href="/meetings/unit/index.cfm">Other APS Meetings</a></li><li><a href="/meetings/calendar.cfm">Meeting Calendar</a></li><li><a href="/meetings/abstract/index.cfm">Abstract Submission</a></li><li><a href="/meetings/baps/index.cfm">Archives of the Bulletin of the American Physical Society</a></li><li><a href="/meetings/policies/index.cfm">Policies &amp; Guidelines</a></li><li><a href="/meetings/multimedia/index.cfm">Archived Multimedia Presentations</a></li></ul></li><li id="programs" class="programs"><a href="/programs/index.cfm"><img src="/templates/images/nav-programs_off.gif" alt="Programs" name="nav-programs"></a><ul><li><a href="/programs/education/index.cfm">Education</a></li><li><a href="/programs/international/index.cfm">International Affairs</a></li><li><a href="/programs/outreach/index.cfm">Physics for All</a></li><li><a href="/programs/women/index.cfm">Women in Physics</a></li><li><a href="/programs/minorities/index.cfm">Minorities in Physics</a></li><li><a href="/programs/honors/index.cfm">Prizes, Awards &amp; Fellowships</a></li></ul></li><li id="membership" class="membership"><a href="/membership/index.cfm"><img src="/templates/images/nav-membership_off.gif" alt="Membership" name="nav-membership"></a><ul><li><a href="/membership/renewal/index.cfm">Renew Membership</a></li><li><a href="/membership/directory.cfm">Member Directory</a></li><li><a href="/membership/profile/index.cfm">My Member Profile</a></li><li><a href="/membership/services/index.cfm">Member Services</a></li><li><a href="/membership/units/index.cfm">APS Units</a></li><li><a href="/membership/join.cfm">Become a Member</a></li></ul></li><li id="policy" class="policy"><a href="/policy/index.cfm"><img src="/templates/images/nav-policy_off.gif" alt="Policy &amp; Advocacy" name="nav-policy"></a><ul><li><a href="/policy/issues/index.cfm">Issues</a></li><li><a href="/policy/reports/index.cfm">Reports &amp; Studies</a></li><li><a href="/policy/statements/index.cfm">Statements</a></li><li><a href="/policy/tools/index.cfm">Advocacy Tools</a></li><li><a href="/policy/resources.cfm">Resources</a></li><li><a href="/policy/opa/index.cfm">Inside Public Affairs</a></li></ul></li><li id="careers" class="careers"><a href="/careers/index.cfm"><img src="/templates/images/nav-careers_off.gif" alt="Careers In Physics" name="nav-careers"></a><ul><li><a href="/careers/employment/index.cfm">Employment Opportunities</a></li><li><a href="/careers/student/index.cfm">Student Guidance</a></li><li><a href="/careers/educator/index.cfm">Educator Guidance</a></li><li><a href="/careers/guidance/index.cfm">Career Guidance</a></li></ul></li><li id="about" class="about"><a href="/about/index.cfm"><img src="/templates/images/nav-about_on.gif" alt="About APS" name="nav-about"></a><ul><li><a href="/about/history/index.cfm">History &amp; Vision</a></li><li><a href="/about/governance/index.cfm">Society Governance</a></li><li><a href="/about/support/index.cfm">Support APS</a></li><li><a href="/about/jobs/index.cfm">APS Jobs</a></li><li><a href="/about/contact/index.cfm">Contact Us</a></li></ul></li></ul></div><!-- --> 
+			<div id="topMenu"><ul id="nav"><li id="publications" class="publications"><a href="/publications/index.cfm"><img src="/templates/images/nav-publications_off.gif" alt="Publications" name="nav-publications"></a><ul><li><a href="/publications/journals/index.cfm">APS Journals</a></li><li><a href="/publications/apsnews/index.cfm">APS News</a></li><li><a href="/publications/physics-today.cfm">Physics Today</a></li><li><a href="/publications/focus.cfm">Physical Review Focus</a></li><li><a href="/publications/capitolhillquarterly/index.cfm">Capitol Hill Quarterly</a></li><li><a href="/publications/other.cfm">Other APS Publications</a></li></ul></li><li id="meetings" class="meetings"><a href="/meetings/index.cfm"><img src="/templates/images/nav-meetings_off.gif" alt="Meetings &amp; Events" name="nav-meetings"></a><ul><li><a href="/meetings/march/index.cfm">March Meeting</a></li><li><a href="/meetings/april/index.cfm">April Meeting</a></li><li><a href="/meetings/unit/index.cfm">Other APS Meetings</a></li><li><a href="/meetings/calendar.cfm">Meeting Calendar</a></li><li><a href="/meetings/abstract/index.cfm">Abstract Submission</a></li><li><a href="/meetings/baps/index.cfm">Archives of the Bulletin of the American Physical Society</a></li><li><a href="/meetings/policies/index.cfm">Policies &amp; Guidelines</a></li><li><a href="/meetings/multimedia/index.cfm">Archived Multimedia Presentations</a></li></ul></li><li id="programs" class="programs"><a href="/programs/index.cfm"><img src="/templates/images/nav-programs_off.gif" alt="Programs" name="nav-programs"></a><ul><li><a href="/programs/education/index.cfm">Education</a></li><li><a href="/programs/international/index.cfm">International Affairs</a></li><li><a href="/programs/outreach/index.cfm">Physics for All</a></li><li><a href="/programs/women/index.cfm">Women in Physics</a></li><li><a href="/programs/minorities/index.cfm">Minorities in Physics</a></li><li><a href="/programs/honors/index.cfm">Prizes, Awards &amp; Fellowships</a></li></ul></li><li id="membership" class="membership"><a href="/membership/index.cfm"><img src="/templates/images/nav-membership_off.gif" alt="Membership" name="nav-membership"></a><ul><li><a href="/membership/renewal/index.cfm">Renew Membership</a></li><li><a href="/membership/directory.cfm">Member Directory</a></li><li><a href="/membership/profile/index.cfm">My Member Profile</a></li><li><a href="/membership/services/index.cfm">Member Services</a></li><li><a href="/membership/units/index.cfm">APS Units</a></li><li><a href="/membership/join.cfm">Become a Member</a></li></ul></li><li id="policy" class="policy"><a href="/policy/index.cfm"><img src="/templates/images/nav-policy_off.gif" alt="Policy &amp; Advocacy" name="nav-policy"></a><ul><li><a href="/policy/issues/index.cfm">Issues</a></li><li><a href="/policy/reports/index.cfm">Reports &amp; Studies</a></li><li><a href="/policy/statements/index.cfm">APS Statements</a></li><li><a href="/policy/tools/index.cfm">Advocacy Tools</a></li><li><a href="/policy/resources/index.cfm">Resources</a></li><li><a href="/policy/opa/index.cfm">Inside APS Public Affairs</a></li></ul></li><li id="careers" class="careers"><a href="/careers/index.cfm"><img src="/templates/images/nav-careers_off.gif" alt="Careers In Physics" name="nav-careers"></a><ul><li><a href="/careers/employment/index.cfm">Employment Opportunities</a></li><li><a href="/careers/student/index.cfm">Student Guidance</a></li><li><a href="/careers/educator/index.cfm">Educator Guidance</a></li><li><a href="/careers/guidance/index.cfm">Career Guidance</a></li></ul></li><li id="about" class="about"><a href="/about/index.cfm"><img src="/templates/images/nav-about_on.gif" alt="About APS" name="nav-about"></a><ul><li><a href="/about/history/index.cfm">History &amp; Vision</a></li><li><a href="/about/governance/index.cfm">Society Governance</a></li><li><a href="/about/support/index.cfm">Support APS</a></li><li><a href="/about/jobs/index.cfm">APS Jobs</a></li><li><a href="/about/contact/index.cfm">Contact Us</a></li></ul></li></ul></div><!-- --> 
 <div id="navAndBranding">
 	<div id="leftHolder">
 <div id="leftNav"><div class="header"><a href="/about"><img src="/templates/images/nav-about_on.gif" alt="About APS"></a></div><ul><li><a href="/about/history/index.cfm">History &amp; Vision</a></li><li><a href="/about/governance/index.cfm">Society Governance</a></li><li><a href="/about/support/index.cfm">Support APS</a></li><li><a href="/about/jobs/index.cfm">APS Jobs</a></li><li><a href="/about/contact/index.cfm">Contact Us</a></li></ul></div><br><!-- -->
 		<div id="pagesfor">
-			<img src="/templates/images/pagesfor-header.gif" width="142" height="21" alt="">
+			<img src="/templates/images/pagesfor-header.gif" width="192" height="21" alt="">
 			<form id="pagesfor_form">
 <div class="CS_Element_LinkBar"><select name="pagesfor_linkbar" id="pagesfor_linkbar"><option value="/physicists/index.cfm">Physicists/Scientists </option><option value="/enthusiasts/index.cfm">Physics Enthusiasts </option><option value="/policymakers/index.cfm">Policy Makers </option><option value="/media/index.cfm">Media </option><option value="/studentsandeducators/index.cfm">Students &amp; Educators </option><option value="/librarians/index.cfm">Librarians </option></select></div>&nbsp; <input type="image" src="/templates/images/button-go1.gif" alt="Search" onclick="return(APS_jumpLink());">
 			</form>
@@ -206,15 +417,15 @@ function ImageSet(imgID,newTarget)
 					
 				</div>
 				
-				
 <div class="right">
-	<a href="javascript: document.emailJumpForm.submit();">Email</a> | <a href="/about/privacy.cfm?renderforprint=1">Print</a>
+	<a href="javascript: document.emailJumpForm.submit();">Email</a> | <a href="privacy.cfm?renderforprint=1">Print</a>
 	<form name="emailJumpForm" id="emailJumpForm" action="/emailThisPage.cfm" method="post">
 		<input type="hidden" name="articleURL" value="http://www.aps.org/about/privacy.cfm">
         <input type="hidden" name="articleHeadline" value="Privacy%20Policy">
         <input type="hidden" name="articleShortDesc" value="Privacy%20Policy">
 	</form>
 </div>				
+<!-- -->
 				<div class="storyContent"><div class="CS_Element_Schedule" title="" id="CS_Element_maincontent"><div class="CS_Element_Textblock"><a name="textblocknohdr665" id="textblocknohdr665"></a><a name="CP_JUMP_665" id="CP_JUMP_665"></a><div class="CS_Textblock_Text"><p>APS respects the privacy of members, users of its services, and visitors to its various websites and operates according to the following policies.</p> <h2>Personal Information</h2> <p>Some personal information including addresses, phone numbers, e-mail addresses, and other demographic information is collected for membership, subscriptions and publications, meeting registrations, submission of articles, and other similar transactions. APS takes precautions to protect your individual information from unauthorized use. APS may make internal use of your contact information to inform you of situations or services that may interest you.</p> <p>The APS online Membership Directory is a service restricted to use by members. It contains basic contact information and membership data. E-mail addresses are not released to outside organizations, except when a vendor performs a service for APS under its supervision. Member postal mailing lists are sold on a carefully screened basis, and only when the mailed material is thought to be of significant interest or benefit. Members may suppress the publication of their personal information in the Membership Directory, decline to receive APS-generated email messages, or request to be excluded from externally sold mailing lists by contacting the Membership Department at <a href="mailto:membership@aps.org">membership@aps.org</a>. Unpublished author or referee information is never sold, and is only used for purposes related to APS, its journals, and/or manuscripts which have been submitted to them.</p> <p>When you submit credit card transaction information to our site online, we use a secure server with commercial encryption software. When APS utilizes the services of the American Institute of Physics for certain credit card transactions to purchase APS products or services, those transactions are covered by AIP's similar <a href="http://www.aip.org/privacy.html">privacy policy</a>.</p> <h2>Cookies</h2> <p>A “cookie” is a file a Web site places in your computer for future reference. APS uses cookies to improve some of its services, such as the Meeting Scheduler and the Referee Server. Information supplied through an APS cookie is used only by APS and is not shared with others.</p> <h2>Server Logs</h2> <p>As you travel through the APS websites, our servers log information about your session. Information logged includes items such as your IP address, what browser you are using, the time and date you visited, how long your session lasted, and what pages you visited. We use this information from our server logs primarily to learn about our visitors as a group. It helps us to improve services on the site and plan for future needs so that we can assure continuity of service. Systematic (“robotic”) downloads of journal material are not permitted, and an individual log may be examined and/or access terminated when this activity is observed. Or, we may check an individual log for editorial purposes or when an individual has reported trouble accessing an APS system.</p> <h2>Future Changes</h2> <p>APS reserves the right to change this policy in any manner at any time without prior notice. If we make material changes to our privacy policy, these changes will be posted on this page.</p> <h2>Disclaimer</h2> <p>This privacy policy applies to all American Physical Society websites, but not to websites of any APS Division, Forum, Topical Group or Section. It does not apply to websites operated by organizations or groups who associate themselves in any way with the APS. It does not apply to any other Internet websites, including those that have hypertext links to any APS website.</p> <p>It is our intent to provide accurate information; however, changes in circumstances after the time of publication may affect the accuracy of information on this site. APS gives no assurance as to the accuracy of any information or advice contained.</p> <p>We take measures to protect our website but there is no warranty that the APS website will be free of infection by viruses or any other contaminating or destructive properties. The user accepts sole responsibility and risk associated with the use and results of APS website materials, irrespective of the purpose to which such use or results are applied.</p> <p>APS encourages you to exercise discretion while browsing the Internet. The APS website provides links to other websites which are not controlled by APS. A link from the APS website is not an APS endorsement for any company or organization. APS is not responsible for the accuracy, copyright compliance, legality or decency of material contained on any other website. We encourage you to be aware when you leave our website and to read the privacy statements of each website that collects personally identifiable information.</p></div></div></div></div>
 				
 				</div> <!--End Story-->
@@ -222,10 +433,10 @@ function ImageSet(imgID,newTarget)
 			
 		</div><!-- end navAndBranding -->
 <!-- googleoff: snippet --><!-- googleoff: index --><div class="clear"></div><div id="footer">
-				<div class="CS_Element_LinkBar"><a href="/" class="CS_LinkBar_Item" onmouseout=" setStatbar('');return true;" onmouseover="setStatbar('/');return true;">Home</a><span class="CS_LinkBar_Separator">&nbsp;|&nbsp;</span><a href="/about/jobs/index.cfm" class="CS_LinkBar_Item" onmouseout=" setStatbar('');return true;" onmouseover="setStatbar('/about/jobs/index.cfm');return true;">APS Jobs</a><span class="CS_LinkBar_Separator">&nbsp;|&nbsp;</span><a href="/media/index.cfm" class="CS_LinkBar_Item" onmouseout=" setStatbar('');return true;" onmouseover="setStatbar('/media/index.cfm');return true;">Media Center</a><span class="CS_LinkBar_Separator">&nbsp;|&nbsp;</span><a href="/about/privacy.cfm" class="CS_LinkBar_Item" onmouseout=" setStatbar('');return true;" onmouseover="setStatbar('/about/privacy.cfm');return true;">Privacy</a><span class="CS_LinkBar_Separator">&nbsp;|&nbsp;</span><a href="/about/sitemap.cfm" class="CS_LinkBar_Item" onmouseout=" setStatbar('');return true;" onmouseover="setStatbar('/about/sitemap.cfm');return true;">Site Map</a></div>&nbsp;&nbsp;&nbsp; © 2006 American Physical Society
+				<div class="CS_Element_LinkBar"><a href="/" class="CS_LinkBar_Item" onmouseout=" setStatbar('');return true;" onmouseover="setStatbar('/');return true;">Home</a><span class="CS_LinkBar_Separator">&nbsp;|&nbsp;</span><a href="/about/jobs/index.cfm" class="CS_LinkBar_Item" onmouseout=" setStatbar('');return true;" onmouseover="setStatbar('/about/jobs/index.cfm');return true;">APS Jobs</a><span class="CS_LinkBar_Separator">&nbsp;|&nbsp;</span><a href="/media/index.cfm" class="CS_LinkBar_Item" onmouseout=" setStatbar('');return true;" onmouseover="setStatbar('/media/index.cfm');return true;">Media Center</a><span class="CS_LinkBar_Separator">&nbsp;|&nbsp;</span><a href="/about/privacy.cfm" class="CS_LinkBar_Item" onmouseout=" setStatbar('');return true;" onmouseover="setStatbar('/about/privacy.cfm');return true;">Privacy</a><span class="CS_LinkBar_Separator">&nbsp;|&nbsp;</span><a href="/about/sitemap.cfm" class="CS_LinkBar_Item" onmouseout=" setStatbar('');return true;" onmouseover="setStatbar('/about/sitemap.cfm');return true;">Site Map</a></div>&nbsp;&nbsp;&nbsp; © 2007 American Physical Society
 			
 			</div>
 			</div><!-- end innerHolder -->
 			<img src="/templates/images/footer.jpg" id="footer-image" width="901" height="29" alt=""><br><!-- googleon: index --><!-- googleon: snippet --></div><!-- close mainHolder -->
 </div><!-- close homepage -->
-<!-- --><div style="display:block; clear:left; padding:0px; font-family:Verdana,Arial; font-size:10px; color:gray;"></div></body></html>
+<div style="display:block; clear:left; padding:0px; font-family:Verdana,Arial; font-size:10px; color:gray;"></div></body></html>
