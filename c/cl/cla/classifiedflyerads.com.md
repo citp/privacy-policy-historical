@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the classifiedflyerads.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213003251id_/http%3A//www.classifiedflyerads.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classifiedflyerads.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626080611id_/http%3A//www.classifiedflyerads.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Terms and Conditions - Email Flyer Ads
+# Privacy Policy - Classified Flyer Ads
 
-### [Email Flyers for Realtors/Brokers/Builders/Doctors](http://www.emailflyerads.com/)
+### [Classified Ad Syndication](http://www.classifiedflyerads.com/)
 
 Member Login
 
