@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunbingo.co.uk privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118064102id_/http%3A//www.sunbingo.co.uk/privpol.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunbingo.co.uk privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626070202id_/http%3A//www.sunbingo.co.uk/privpol.asp) for the most accurate reproduction.*
 
 # Sun Bingo - Privacy Policy
 
