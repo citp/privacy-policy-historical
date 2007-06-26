@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the everythingfurniture.com privacy policy that was archived on 2006-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061128124250id_/http%3A//www.everythingfurniture.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everythingfurniture.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626023424id_/http%3A//www.everythingfurniture.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Everything Furniture Privacy Policy
-
-**Please Note:** You are viewing the non-styled version of EverythingFurniture.com. You may only need to refresh this page to correct this issue. Another possiblity is your browser does not support Cascading Style Sheets (CSS) or it is disabled. Skip to the content of this page
 
 This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the [Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information.
 
@@ -19,5 +17,3 @@ Information obtained at our site is encrypted to ensure your security. Our Yahoo
 **Privacy**
 
 Because we value you as a customer we will not rent, sell, or make available in any other way e-mail addresses outside of Everything Furniture. As a valued customer we will use e-mail from time to time to notify you of specials and closeouts, follow-up information on your order, etc.
-
-Source Code: NA
