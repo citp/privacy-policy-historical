@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the cash4offers.com privacy policy that was archived on 2006-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061023183142id_/http%3A//www.cash4offers.com/ppolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cash4offers.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626170830id_/http%3A//www.cash4offers.com/ppolicy.php) for the most accurate reproduction.*
 
 # The Cash4Offers.com Privacy Policy
 
 **The Cash4Offers.com Privacy Policy  
-_(Last updated December 20, 2005)_**
+_(Last updated May 30, 2007)_**
 
 The Cash4Offers.com has developed the web technology to enable businesses to interact with consumers in highly personalized ways without forfeiting the privacy of the consumer. Privacy is a critical element of The Cash4Offers.com. Our Privacy Policy is an evolving document and as such will be updated periodically. We welcome feedback about the guidelines outlined in our policy. 
 
@@ -46,13 +46,6 @@ The Cash4Offers.com has developed the web technology to enable businesses to int
 
 **Contacting the Web Site**
 
-If you have any questions about our policy, you can contact us or send mail to: 
-
-Cash4Offers  
-Ateities 1-40  
-Vilnius, LT-08206  
-Lithuania 
-
-Phone: +370-600-09470 
+If you have any questions about our policy, you can [contact us](http://www.cash4offers.com/contact.html). 
 
 Close Window 
