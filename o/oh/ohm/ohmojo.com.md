@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ohmojo.com privacy policy that was archived on 2006-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061221044817id_/http%3A//www.ohmojo.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohmojo.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626223741id_/http%3A//www.ohmojo.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # OhMojo.com Privacy Policy
 
