@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rugbyworld.com privacy policy that was archived on 2006-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061201232131id_/http%3A//www.rugbyworld.com/Features/story_27813.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rugbyworld.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626101131id_/http%3A//www.rugbyworld.com/Terms/0%2C18997%2C10664_1849826%2C00.html) for the most accurate reproduction.*
 
 # Rugby World Magazine Online
 
-IPC Privacy Policy
+## IPC Privacy Policy
 
 IPC Media Limited will use the information provided by you in the course of our dealing with you to process your requests and orders and in order to provide a more personalised web-surfing and shopping experience.
 
