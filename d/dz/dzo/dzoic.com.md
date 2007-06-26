@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dzoic.com privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228040954id_/http%3A//www.dzoic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dzoic.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626070221id_/http%3A//www.dzoic.com/privacy.php) for the most accurate reproduction.*
 
 # DZOIC Handshakes Professional :: The Best Social Networking Script / Software in PHP
 
@@ -20,4 +20,4 @@
 | What else you should know about your online privacy  
  | Please keep in mind that whenever you voluntarily disclose personal information online through the use of our software demos. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you're online.  
 [Features](http://www.dzoic.com/features.php) | [Demo](http://www.dzoic.com/demo.php) | [Community](http://www.dzoic.com/community.php) | [Contact Us](http://www.dzoic.com/contact.php) | [Jobs](http://www.dzoic.com/jobs.php) | [Order](http://www.dzoic.com/order.php) | [System Requirements](http://www.dzoic.com/requirements.php) | [License](http://www.dzoic.com/license.php) | [Privacy](http://www.dzoic.com/privacy.php)  
-Copyright © DZOIC Limited, 2005-2006. All Rights Reserved. 
+Copyright © DZOIC Limited, 2005-2007. All Rights Reserved. 
