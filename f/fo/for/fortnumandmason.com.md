@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fortnumandmason.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212174356id_/http%3A//www.fortnumandmason.com/about/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortnumandmason.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626181616id_/http%3A//www.fortnumandmason.com/about/terms/privacy) for the most accurate reproduction.*
 
 # Fortnum & Mason Privacy Policy - Fortnum & Mason UK
 
