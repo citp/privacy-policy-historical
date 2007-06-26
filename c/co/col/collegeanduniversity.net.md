@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the collegeanduniversity.net privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211001732id_/http%3A//www.collegeanduniversity.net/index.cfm%3Fevent%3Dp.pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegeanduniversity.net privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626065058id_/http%3A//collegeanduniversity.net/index.cfm%3Fevent%3Dp.pp) for the most accurate reproduction.*
 
-# CollegeAndUniversity.net © 2006
+# CollegeAndUniversity.net © 2007
 
 CUnet, LLC Privacy Policy
 
@@ -62,4 +62,4 @@ You must be at least 18 years old to have our permission to use our Sites. Our p
 
 If you have any questions about this Privacy Policy, the practices of a Site, or your dealings with this Site, please email us at privacy@cunetcorp.com, or by sending a letter to:
 
-CUnet, LLC, 445 West Main Street, Wyckoff, NJ, 07481
+CUnet, LLC, 461 From Road, Suite 200, Paramus, NJ, 07652
