@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the gasbuddy.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217073755id_/http%3A//www.gasbuddy.com/gb_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gasbuddy.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626092821id_/http%3A//www.gasbuddy.com/gb_privacy.aspx) for the most accurate reproduction.*
 
-# 
+# GasBuddy Privacy
 
-|  |  [](https://web.archive.org/web/20061217073755id_/http%3A//www.gasbuddy.com/gb_index.aspx) |  |   
+|  |  [](http://www.gasbuddy.com/) |  |   
 ---  
-New! [Gas price temperature maps](https://web.archive.org/web/20061217073755id_/http%3A//www.gasbuddy.com/gb_gastemperaturemap.aspx)  
-[Free classified ads at SuperAds.com](http://www.superads.com/) | [](https://web.archive.org/web/20061217073755id_/http%3A//www.gasbuddy.com/gb_gastemperaturemap.aspx)  
-| [](https://web.archive.org/web/20061217073755id_/http%3A//www.gasbuddy.com/gb_index.aspx)| [](https://web.archive.org/web/20061217073755id_/http%3A//www.gasbuddy.com/gb_retail_price_chart.aspx?time=24)| [](https://web.archive.org/web/20061217073755id_/http%3A//www.gasbuddy.com/gb_fuel_save.aspx)| [](https://web.archive.org/web/20061217073755id_/http%3A//www.gasbuddy.com/gb_contact.aspx)| [](https://web.archive.org/web/20061217073755id_/http%3A//www.gasbuddy.com/gb_media_ideas.aspx)| [](https://web.archive.org/web/20061217073755id_/http%3A//www.gasbuddy.com/gb_contest_info.aspx?cntry=gb)  
----|---|---|---|---|---  
+New! [Gas Price Maps](https://web.archive.org/web/20070626092821id_/http%3A//www.gasbuddy.com/gb_map_gas_prices.aspx)  |  New! [Get gas prices on your phone!](https://web.archive.org/web/20070626092821id_/http%3A//www.gasbuddy.com/gb_mobile_instructions.aspx)  
+[Free Classifieds at SuperAds.com](http://www.superads.com/) |    
+| [](http://www.gasbuddy.com/)| [](https://web.archive.org/web/20070626092821id_/http%3A//www.gasbuddy.com/gb_retail_price_chart.aspx?time=24)| [](https://web.archive.org/web/20070626092821id_/http%3A//www.gasbuddy.com/GB_Map_Gas_Prices.aspx)| [](https://web.archive.org/web/20070626092821id_/http%3A//www.gasbuddy.com/gb_gastemperaturemap.aspx)| [](https://web.archive.org/web/20070626092821id_/http%3A//www.gasbuddy.com/GB_Mobile_Instructions.aspx)| [](https://web.archive.org/web/20070626092821id_/http%3A//www.gasbuddy.com/gb_fuel_save.aspx)| [](https://web.archive.org/web/20070626092821id_/http%3A//www.gasbuddy.com/gb_contact.aspx)| [](https://web.archive.org/web/20070626092821id_/http%3A//www.gasbuddy.com/gb_media_ideas.aspx)  
+---|---|---|---|---|---|---|---  
   
   
 |  Privacy Policy  
