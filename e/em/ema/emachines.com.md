@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emachines.com privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228114722id_/http%3A//emachines.com/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emachines.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626142504id_/http%3A//emachines.com/corporate/privacy.html) for the most accurate reproduction.*
 
 # eMachines Privacy Policy
 
@@ -25,12 +25,6 @@ We gather personal information from our customers so we can better develop our r
 We will proactively communicate with customers via e-mail or other online delivery devices to provide offers and information we believe will be of interest. Customers who no longer wish to receive these communications should inform us and we will remove their names from our mailing lists. Gateway will be judicious in the use of e-mail and paper mail to communicate with customer, putting ourselves in the place of the recipients of our mail and treating our customers as we ourselves would like to be treated. 
 
 Our Website shares usage information about site visitors with reputable third-party companies for targeting our Internet banner advertisements on this site and other sites, as well as for gathering aggregate information about site traffic and usage. For these purposes, we and our third-party companies note some of the pages you visit on our Website using pixel tags (also called clear gifs). The information collected by our third-party advertiser using these pixel tags is not personally identifiable. Some of the information collected by our third-party analytics provider may be personally identifiable; however, our provider is contractually precluded from selling, licensing or conveying any such information to any third party or from using that information in any way outside Gateway.s own privacy policy. [View more information](http://www.privacychoices.org/) about our third-party advertiser, or [opt out](http://www.privacychoices.org/optout.htm) of the targeting program. [View more information](http://www.omniture.com/global/privacy) about our third-party analytics provider, including how to opt out of the data collection. 
-
-Gateway is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site [www.gateway.com](http://www.gateway.com/). Because we want to demonstrate Gateway.s commitment to our users. privacy related to the Website, we have agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
-
-If users have questions or concerns regarding this statement, they should call 1-800-846-2000. If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process](http://www.truste.org/watchdog.html). TRUSTe will serve as a liaison with the Website to resolve users concerns. 
-
-The TRUSTe program covers only information that is collected through this Website, and does not cover information that may be collected through software downloaded from the site. 
 
 Notification of Changes
 
