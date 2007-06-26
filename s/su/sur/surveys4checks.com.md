@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveys4checks.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213002220id_/http%3A//www.surveys4checks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveys4checks.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626073158id_/http%3A//www.surveys4checks.com/privacy.html) for the most accurate reproduction.*
 
 # Surveys4Checks.com - Get Paid To Take Surveys Today. Work From Home and make $500-$3500 Per Month.
 
