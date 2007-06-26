@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newsfactor.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205200116id_/http%3A//www.newsfactor.com/privacy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsfactor.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626222959id_/http%3A//www.newsfactor.com/privacy.xhtml) for the most accurate reproduction.*
 
-# NewsFactor Network | NewsFactor Network
+# NewsFactor Network
 
 NewsFactor Statement of Privacy, Terms of Service, Use, Conditions, Notices and Limitations   
 **Last Updated: May 18, 2005**
