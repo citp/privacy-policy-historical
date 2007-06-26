@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the calacademy.org privacy policy that was archived on 2006-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060719041454id_/http%3A//www.calacademy.org/ccount/click.php%3Fid%3D70) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calacademy.org privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626153831id_/http%3A//www.calacademy.org/ccount/click.php%3Fid%3D70) for the most accurate reproduction.*
 
-# California Academy of Sciences - General Information
+# California Academy of Sciences - Plan Your Visit - General Information
 
-**PRIVACY POLICY**
+## PRIVACY POLICY
 
 This is the official privacy policy ("Privacy Policy") of the California Academy of Sciences ("Academy" or "we", "us" or "our") and describes how we handle Personal Information (as defined below) you provide to us or that we collect from you through the use of our Website which is located at (www.calacademy.org) and any replacement, substitute or backup websites and web pages that are associated with our website. 
 
