@@ -1,8 +1,19 @@
-> *The following text is extracted and transformed from the ednet.ns.ca privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205202524id_/http%3A//www.gov.ns.ca/govt/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ednet.ns.ca privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627010127id_/http%3A//www.gov.ns.ca/govt/privacy) for the most accurate reproduction.*
 
 # Nova Scotia Government Website Privacy Policy Statement
 
-  
+[About Nova Scotia](http://www.gov.ns.ca/about.htm)  
+[Government Directory](http://www.gov.ns.ca/gov_index.asp)  
+[Online Services](http://www.gov.ns.ca/snsmr/onlineservices/citizen/)  
+[How Do I Find...](http://www.gov.ns.ca/howdoifind/default.asp)  
+[Travel and Vacation](http://www.gov.ns.ca/tourism.htm)  
+[Special Reports](http://www.gov.ns.ca/specialreports.htm)  
+[News Releases](http://www.gov.ns.ca/news/)  
+[Business Links](http://www.gov.ns.ca/snsmr/business/)  
+[Science and Nature](http://www.gov.ns.ca/science_nature.htm)  
+[Other Government Resources](http://www.gov.ns.ca/links.htm)
+
+|    
 
 
 ## Basic Statement
@@ -39,7 +50,18 @@ Government web servers automatically collect some information about a visitor's 
 
 ## Further Information
 
-[Nova Scotia Government Website Privacy Policy](https://web.archive.org/web/20061205202524id_/http://gov.ns.ca/govt/privacy/privacypolicy.htm)
+[Nova Scotia Government Website Privacy Policy](https://web.archive.org/web/20070627010127id_/http://www.gov.ns.ca/govt/privacy/privacypolicy.htm)
 
 [Contact the Office of Economic Development](https://www.gov.ns.ca/govt/privacy/privacycontact.asp)  
 
+
+|   
+  
+| 
+
+Back to top of page
+
+This page and all contents Crown copyright © 2004, [Province of Nova Scotia](http://www.gov.ns.ca/), all rights reserved.   
+[Comments](https://www.gov.ns.ca/govt/privacy/privacycontact.asp) / 2004-May-26.
+
+[Note on accessibility](http://www.gov.ns.ca/accessibility/accessibilitymethod.htm).
