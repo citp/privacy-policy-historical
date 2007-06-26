@@ -1,55 +1,77 @@
-> *The following text is extracted and transformed from the tie-a-tie.net privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214121350id_/http%3A//tie-a-tie.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tie-a-tie.net privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626082633id_/http%3A//www.tie-a-tie.net/privacy.html) for the most accurate reproduction.*
 
 # Tie-a-Tie.net | Privacy Policy
 
-[](https://web.archive.org/web/20061214121350id_/http%3A//tie-a-tie.net/video.html)[](https://web.archive.org/web/20061214121350id_/http%3A//tie-a-tie.net/print/privacy-policy.pdf "Print version")
+[](https://web.archive.org/web/20070626082633id_/http%3A//www.tie-a-tie.net/video.html)
 
 ### Privacy Policy
 
-"Tie-a-Tie.net strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, eMail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your eMail address to any unauthorized third party. Period."
+At Tie-a-Tie.net, I place the highest importance on respecting and protecting the privacy of my visitors and customers. My most important asset is my relationship with you. I want you to feel comfortable and confident when using my Web site. Therefore, I would like to share with you the following principles that govern my information practices and other privacy aspects of my Web site. Throughout this policy, I refer to information that personally identifies you as "personal information".
 
-**How we gather information from users**
+**Information Collection and Use**
 
-How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters. You may provide information when you participate in sweepstakes and contests, and other interactive areas of our site. Like most Web sites, Tie-a-Tie.net also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or we may not be able to customize the site's features according to your preferences.
+I collect information from you as my user at several different points on my website. I am the sole owner of the information collected on this site. I will not sell or rent this information to others in ways different from what is disclosed in this statement.
 
-**What we do with the information we collect**
+**Contact Form**
 
-Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone.
+I use a contact form on my Website to allow you to contact me directly with any questions or comments you may have. I read every message sent in and try to reply promptly to everyone.
 
-Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually.
+I use the information you provide me to respond directly to your questions or comments. I may also retain your comments to improve the site and program, or I may review and discard the information.
 
-We may use Personally Identifiable Information collected on Tie-a-Tie.net to communicate with you about your customization preferences; our Terms of Service and privacy policy; services and products offered by Tie-a-Tie.net and other topics we think you might find of interest.
+**Tell a Friend**
 
-Personally Identifiable Information collected by Tie-a-Tie.net may also be used for other purposes, including but not limited to site administration, troubleshooting, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service, for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, e.g., to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
+If you choose to use my referral service to tell a friend about my site, I will ask you for your friend's first name and eMail address, as well as your first name and eMail address. I will automatically send your friend a one-time eMail inviting him or her to visit the site; I will also automatically send you a one-time eMail with a Thank You note. I do not store either piece of information.
 
-**Linked sites and advertisements**
+**Cookies**
 
-Tie-a-Tie.net expects its partners and advertisers to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a Tie-a-Tie.net page, certain content that is actually created or hosted by a third party. Also, through Tie-a-Tie.net you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. Tie-a-Tie.net is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
+Cookies are a mechanism to remember information about a visitor from one page to another. Web browsers store cookies so that the browser itself can remember some information and then, on request, pass all that information up to the server at one time. I do not currently use cookies.
 
-While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. Tie-a-Tie.net does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.
+**Log Files**
+
+I use IP addresses to analyze trends, administer the site, track users' movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. I keep this information for my internal use. In detail, I do not share it with others.
+
+In aggregated form only, I may at their request share data such as the number of site visitors in a single month or the number of site visitors in a given year with my advertisers, e.g. Google AdSense and Commission Junction.
+
+**Links to Other Sites**
+
+My site contains links to other Websites over which I have no control. I am not responsible for the privacy policies or practices of other Websites to which you choose to follow a link from my website.
+
+I encourage you to review the privacy policies of those other Websites so you can understand how they collect, use and share your information. This Privacy Statement applies solely to the information I collect on the Tie-a-Tie.net website.
+
+**Data Security**
+
+The security of your personal information is important to me. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, I have put in place appropriate physical, electronic, and managerial procedures to protect the personal information submitted to me, both during transmission and once I receive it.
+
+No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while I strive to use commercially acceptable means to protect your personal information, I cannot guarantee its absolute security.
 
 **Children**
 
-Tie-a-Tie.net does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe Tie-a-Tie.net has any information from or about anyone under 13, please contact us at the address listed below.
+I do not knowingly collect or solicit personal information from or about children under 13 except as permitted by law. If I discover that I have received any information from a child under 13 in violation of this policy, I will delete that information immediately. Also, I do not sell my Tie Knot Video Series to a child under the age of 13.
 
-**Contacting us**
+**Placing an Order with Tie-a-Tie.net**
 
-We can be reached by contacting:
+If you purchase my Tie Knot Video Series, I require you to set up a Members Area account where I collect your first name, last name, city, state, ZIP code, country, a password and - for verification purposes in case you forget your password later on - your birth date. This information is used to fulfill your order and to set up your Members Area account. I will use your contact information to contact you if I have trouble processing your order, if I have questions regarding your order, or if I wish to notify you of the status of your order.
 
-Internet: Tie-a-Tie.net
+**Choice/Opt-out**
 
-eMail: Please use the [Feedback](https://web.archive.org/web/20061214121350id_/http%3A//tie-a-tie.net/feedback.html "Feedback") form.
+If you purchase my Tie Knot Video Series, I offer you the choice that I keep you updated on changes I make to the videos. I give you the opportunity to 'opt-out' of receiving those updates. The Members Area has an 'opt-out' mechanism at the bottom of the screen so if you create an account with me, but don't want any updates, you can keep your eMail address off of my notification list. Also, at the bottom of all Members-only communication, there is a link that allows you to 'opt-out'.
 
-**Changes to this Policy**
+**Correcting/Updating Personal Information**
 
-Tie-a-Tie.net reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
+If you purchase my Tie Knot Video Series, and you need to correct or update your personal information (such as your eMail address), or you no longer desire my service you can let me know by [sending me a message](https://web.archive.org/web/20070626082633id_/http%3A//www.tie-a-tie.net/contact.html "Contact Me").
 
-**Governing law**
+**Changes to Privacy Statement**
 
-This policy and the use of this Site are governed by State of Hessen law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Wiesbaden, Hessen. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.
+If I decide to change my privacy policy, I will post those changes to this privacy statement, the homepage, and other places I deem appropriate so that you are aware of what information I collect, how I use it, and under what circumstances, if any, I disclose it. I reserve the right to modify this privacy statement at any time, so please review it frequently. If I make material changes to this policy, I will notify you here, by email, or by means of a notice on my homepage.
 
-If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Wiesbaden, Hessen, under the rules of the German Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
+In the event Tie-a-Tie.net goes through a business transition, such as a merger, an acquisition by another company, or a sale of a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. You as my user will be notified via prominent notice on my Website for 30 days after a change of ownership or control of your personal information.
 
-Tie-a-Tie.net is controlled, operated and administered entirely within Tie-a-Tie.net. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+**Legal Disclaimer**
+
+I may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or to comply with a legal process served on my Web site.
+
+**Contact Me**
+
+If you have any questions about this Privacy Policy, the practices of Tie-a-Tie.net with respect to personal information or your dealings with this Website, you can [contact me here](https://web.archive.org/web/20070626082633id_/http%3A//www.tie-a-tie.net/contact.html "Contact Me") or write to:
 
 * * *
