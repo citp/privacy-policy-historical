@@ -1,17 +1,18 @@
-> *The following text is extracted and transformed from the hometownquotes.com privacy policy that was archived on 2006-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061227010547id_/http%3A//www.hometownquotes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometownquotes.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626143835id_/http%3A//www.hometownquotes.com/privacy.html) for the most accurate reproduction.*
 
 # HometownQuotes.Com :: Free Online Quotes for All of Your Insurance Needs - Auto, Home, Life, Health and More!
 
-| At HometownQuotes.Com, we value your privacy. You trust us and our members to serve your insurance needs and we take this responsibility very seriously. Our privacy policy is simple: HometownQuotes.Com and its affiliates respect your right to confidentiality and do not share your personally identifiable information unless it is at your request to carry out a transaction or provide a service, with your authorization, or as permitted by law. Even in that case, when you submit information to HometownQuotes.Com, you authorize us to share this information only with the qualified network of HometownQuotes.Com agents to provide you with your quotes. Accordingly, we will continue to do everything we can to ensure that your personally identifiable information remains private. |   
-  
----|---  
-  
+| At HometownQuotes.Com, we value your privacy. You trust us and our members to serve your insurance needs and we take this responsibility very seriously. Our privacy policy is simple: HometownQuotes.Com and its affiliates respect your right to confidentiality and do not share your personally identifiable information unless it is at your request to carry out a transaction or provide a service, with your authorization, or as permitted by law. Even in that case, when you submit information to HometownQuotes.Com, you authorize us to share this information only with the qualified network of HometownQuotes.Com agents to provide you with your quotes. Accordingly, we will continue to do everything we can to ensure that your personally identifiable information remains private. 
+
 By submitting the information you are asked for, you are authorizing the recipients of your information (the agents) to use it in a manner deemed necessary to provide you with an accurate [quote on your insurance](http://www.hometownquotes.com/). 
 
 By submitting a form with your telephone number you are consenting for HometownQuotes.Com and all authorized agents to contact you even if your name is on a Federal or State "Do not call List".
 
 HometownQuotes.Com may notify you of special promotions offered by the insurance agents and underwriters in our network or related service providers. No personal information about you will be supplied to the promotion sponsors unless you express an interest in the offer by e-mail or by phone. You have the option to decline such offers and be removed from e-mail promotion lists at any time. 
 
+|   
+---|---  
+  
 **Confidentiality and Security**
 
 Since specific information is required in order to utilize HometownQuotes.Com's search capabilities, securing your privacy is our first priority. That's why HometownQuotes.Com is designed with the most advanced technology and security measures. HometownQuotes.Com has established safeguards to ensure the security and confidentiality of your information. Furthermore, we will honor this commitment with respect to information we have in our possession even after you have been placed in contact with a member of our network.
