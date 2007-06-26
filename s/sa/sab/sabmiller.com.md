@@ -1,29 +1,33 @@
-> *The following text is extracted and transformed from the sabmiller.com privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628100726id_/http%3A//www.sabmiller.com/sabmiller/site%2Btools/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sabmiller.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626024820id_/http%3A//www.sabmiller.com/sabmiller.com/en_gb/Global%2BTools/legal/Privacy.htm) for the most accurate reproduction.*
 
-# SABMiller plc Privacy
+# Privacy
 
-### Privacy 
+## 1\. General 
 
-**Use of information**  
-SABMiller plc (“we”) will not collect any information about individuals, except where it is specifically and knowingly provided by them. Examples of such information are:
+SABMiller plc respects your privacy.  This policy outlines the type of information we may collect from our website and how we may use that information.  We may update this policy from time to time, so please check it occasionally.  By using this site and/or providing personal information, you agree to the terms of this policy. 
 
-Your name  
-Your mobile telephone number  
-Your email address  
-Your occupation
+## 2\. Collection and use of personal information 
 
-The information collected will be used to send you the information you have requested and to provide information that may be useful to you.
+Personal information includes information such as your name, address, telephone number, date of birth and e-mail address.  Generally, you may visit our website without providing us with any personal information.  However, from time to time we may need to collect your personal information for a specific purpose, for example providing you with information that you have requested.  If there are other purposes for which we will use your personal information, we will tell you at the time of collection.  By providing this information, you consent to the use and disclosure of your personal information for the purposes notified.
 
-We may share non-personal aggregate statistics (group) data about our site visitors’ traffic patterns with partners or other parties. However, we do not sell or share any information about individual users.
+Access to certain pages on our website is limited to individuals over 18 or the legal age for lawfully purchasing alcohol and consuming in the country, state, province or territory from which they view the website.  In those cases, we do not intend to collect the personal information of any individual who is under 18 years or age or below the minimum legal age (if higher than 18).  If we become aware that the personal information of any individual under this age is provided to us, we shall delete that information. 
 
-**‘Cookies’**  
-We do not use cookies on the site.
+## 3\. Disclosure 
 
-**Your rights**  
-In addition to the company’s safeguards, your personal data is protected in the UK by the Data Protection Act. This provides amongst other things that the data we hold about you should be processed lawfully and fairly. It should be accurate, relevant and not excessive. The information should be kept up to date, where necessary, and not retained for longer than is necessary. It should be kept securely to prevent unauthorised access by other people. You have the right to see what is held about you and correct any inaccuracies online. You can do this by using the “login” link at the beginning of the Alerting Service page.
+We may disclose your personal information to our associated companies and to third parties for our own business, marketing and website-related purposes.  We will not sell, transfer or disclose your personal information to third parties unless we have your express consent or if we need to do so to fulfil your request or for other related purposes and we will never sell, transfer or disclose your personal data to third parties for their marketing use. 
 
-**Policy changes**  
-Any changes to this policy will be posted here.
+## 4\. Cookies and other non-identifying information 
 
-**Security**  
-SABMiller plc treats all the data held with the utmost care and security. Any details you give will remain completely confidential.
+We may automatically collect some non-personal information when you visit our website.  Examples include the type of Internet browser used, the type of computer operating system used, the connection speed used and the domain name of the website from which you linked to our site.  We may also store some information on your computer, in the form of a “cookie” or similar file.  We may use this to collect other information during your visit to our websites, such as the particular site areas you visit and the activities in which you participate at our web sites.  Most Internet browsers allow you to erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored.  You can obtain information about how to manage cookies at: [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).  We may use this information to tailor our websites to better match your interests and preferences and to improve our products, services and marketing programs. 
+
+## 5\. Security and accuracy 
+
+The accuracy and security of your personal data is important to us and we have put in place physical and electronic procedures to maintain the security of your personal information.  Only authorised administrative staff will have access to that information.  If you have submitted personal information to us and would like that information deleted from our records, or updated, please use our "[Alerts](http://www.sabmiller.com/sabmiller.com/en_gb/Global+Tools/Alerts.htm)" web page.  Please allow us time to update your records. 
+
+## 6\. Transfers 
+
+Any personal information we collect will be stored in the country in which it is collected and may also be transferred to the UK.  Personal information collected within the European Union (“EU”) will not be transferred outside the EU without your consent. 
+
+## 7\. Contact Us 
+
+Further questions?  See our "[United Kingdom](http://www.sabmiller.com/sabmiller.com/en_gb/Global+Tools/Contacts/SABMiller+plc/United+Kingdom.htm)" web page for details of how to submit questions and suggestions regarding this privacy policy.
