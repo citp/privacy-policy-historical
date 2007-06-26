@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getty.edu privacy policy that was archived on 2006-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061227143634id_/http%3A//www.getty.edu/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getty.edu privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626131020id_/http%3A//www.getty.edu/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement (Getty About Us)
 
@@ -15,17 +15,22 @@ We will never share your e-mail address with anyone.
 
 Our Web server automatically records the IP addresses of visitors to our site. This information is used in aggregate form to helps us understand how visitors use the Getty online environment. The servers at this site also collect connection-related technical data. The data entries in these logs are used for server and network operation and maintenance and to help us understand general usage patterns.
 
+**Blogs**  
+The Getty provides blogs on this site. You are welcome to post comments to these blogs. You may post comments anonymously or under your name or alias. Names and aliases are publicly displayed. We do not save, use, or sell commenters' names or e-mail addresses.
+
 **E-Cards**  
 Some pages on this site allow you to send free e-cards to a friend. E-cards are sent as links to a Getty.edu Web page. We do not save, use, or sell senders' or recipients' names or e-mail addresses.
 
-**E-Getty Newsletter**  
-The e-Getty newsletter is a free monthly events bulletin sent via e-mail.
+**E-Newsletters**  
+The Getty offers free electronic newsletters sent via e-mail.
 
-To receive the e-Getty newsletter by e-mail, you need to submit your e-mail address. Your e-mail address is stored on secure Getty servers and will not be shared with anyone. When you sign up, you can choose to receive e-Getty in HTML, which includes graphics, or as text only, which does not include graphics.
+To receive an e-newsletter by e-mail, you need to submit your e-mail address. Your e-mail address is stored on secure Getty servers and will not be shared with anyone. When you sign up, you can choose to receive the e-newsletters in HTML, which includes graphics, or as text only, which does not include graphics.
 
-You can also view the e-Getty newsletter online, without submitting your e-mail address, at http://www.getty.edu/egetty/e-getty.html.
+You can view the e-Getty newsletter online, without submitting your e-mail address, at [http://www.getty.edu/egetty/e-getty.html](https://web.archive.org/egetty/e-getty.html).
 
-You may stop receiving the e-Getty newsletter at any time. Follow the "unsubscribe" link in the footer of any newsletter.
+You can view the Getty Teacher Update newsletter online, without submitting your e-mail address, at [http://www.getty.edu/egetty/getty_teacher_update/getty_teacher_update.html](https://web.archive.org/egetty/getty_teacher_update/getty_teacher_update.html).
+
+You may stop receiving e-newsletters at any time. Follow the "unsubscribe" link in the footer of any newsletter.
 
 **Getty Bookmarks**  
 To use the Getty Bookmark feature, you need to create an online account. Your e-mail address is used to identify your account and the associated bookmarks. The e-mail address tied to your account is stored on secure Getty servers and will not be used for marketing purposes or shared with anyone. We may occasionally use your e-mail address for purposes related to administration of your online account, such as sending service notices or password reminders.
@@ -50,7 +55,7 @@ The TeacherArtExchange listserv takes place primarily over e-mail. Messages are 
 
 We may occasionally send you e-mail for purposes related to administration of your online account, such as sending service notices or password reminders.
 
-Please note that information you submit to the TeacherArtExchange listserv is nonconfidential and nonproprietary. TeacherArtExchange is also an unmoderated list. This means that no one reads or edits the e-mail messages sent to TeacherArtExchange before they are distributed to subscribers and archived to our Web site. To protect your privacy, do not send any message to the TeacherArtExchange listserv that contains personally identifiable information such as your name, mailing address, or phone number.
+Please note that information you submit to the TeacherArtExchange listserv is nonconfidential and nonproprietary. TeacherArtExchange is also an unmoderated list. This means that no one reads or edits the e-mail messages sent to TeacherArtExchange before they are distributed to subscribers and archived to our Web site. To protect your privacy, do not send any message to the TeacherArtExchange listserv that contains personally identifiable information such as your name, mailing address, or phone number. Please be advised that your e-mail client may send your username to our list along with your e-mail address. If you wish to remain anonymous, please make sure your e-mail username is not your actual name.
 
 You can [unsubscribe](https://web.archive.org/education/teacherartexchange/unsubscribe.html) from TeacherArtExchange at any time.
 
