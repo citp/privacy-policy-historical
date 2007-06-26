@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eonline.com privacy policy that was archived on 2006-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061126164123id_/http%3A//www.eonline.com/Member/privacy.html%3Ffdprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eonline.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626025523id_/http%3A//www.eonline.com/about/privacy/index.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -73,7 +73,7 @@ With respect to unsolicited telephone calls made to E!, if you make a call to an
 
 
 
-For instructions on how to opt out from such disclosures, please [click here](https://web.archive.org/account/signin/index.jsp).
+For instructions on how to opt out from such disclosures, please [click here](https://web.archive.org/account/opt/index.jsp).
 
 Due to the existing regulatory environment, E! cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), third parties may unlawfully intercept or access transmissions or private communications.
 
