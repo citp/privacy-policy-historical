@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ufodigest.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118041539id_/http%3A//www.ufodigest.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ufodigest.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626234357id_/http%3A//www.ufodigest.com/privacy.html) for the most accurate reproduction.*
 
 # UFO Digest presents Privacy Policy Statement
 
