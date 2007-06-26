@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalgrid.com privacy policy that was archived on 2006-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061227134037id_/http%3A//nationalgrid.com/corporate/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalgrid.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626221211id_/http%3A//www.nationalgrid.com/corporate/legal/privacy.htm) for the most accurate reproduction.*
 
 # National Grid: Privacy Policy
 
@@ -30,9 +30,9 @@ in support of the intended purposes stated at the time at which it was collected
 
 Your information may, for the Purposes, be disclosed for processing to:
 
-  * Other National Grid companies and our and their employees
-  * Third party service providers who use your personal information to provide services to us ("Service Providers")
-  * Auditors or contractors or other advisers auditing any of our business processes, ("Third Parties")
+  * Other National Grid companies and our and their employees 
+  * Third party service providers who use your personal information to provide services to us ("Service Providers") 
+  * Auditors or contractors or other advisers auditing any of our business processes, ("Third Parties") 
   * In any jurisdiction where National Grid operates.
 
 
