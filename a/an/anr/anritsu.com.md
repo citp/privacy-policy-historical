@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anritsu.com privacy policy that was archived on 2006-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061201021725id_/http%3A//www.anritsu.com/Policy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anritsu.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626174106id_/http%3A//www.anritsu.com/Policy/privacy.asp) for the most accurate reproduction.*
 
 # Anritsu Group Privacy Policy:Anritsu Corporation
 
@@ -7,7 +7,7 @@
 ---|---|---|---|---|---|---  
 | 
 
-[HOME](https://web.archive.org/J/) > Privacy Policy  
+[HOME](https://web.archive.org/) > Privacy Policy  
   
 ---  
   
@@ -260,4 +260,4 @@ All requests regarding personal information should be made in writing. Depending
 
 Page Top  
   
-[Privacy Policy](https://web.archive.org/Policy/privacy.asp) & [Copyright ©2003-2006](https://web.archive.org/Policy/SiteUse.asp)
+[Privacy Policy](https://web.archive.org/Policy/privacy.asp) & [Copyright ©2003-2007](https://web.archive.org/Policy/SiteUse.asp)
