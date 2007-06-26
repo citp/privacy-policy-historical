@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the fleshbot.com privacy policy that was archived on 2006-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061012125011id_/http%3A//www.gawker.com/advertising/privacy-policy.php%3FFB%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fleshbot.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626215813id_/http%3A//www.gawker.com/advertising/privacy-policy.php%3FFB%3Dtrue) for the most accurate reproduction.*
 
-# Gawker Media: Privacy Policy
+# Gawker Media
+
+**Legal Nav:** [← Terms of Use](https://web.archive.org/advertising/legal/) | [← Disclaimer](https://web.archive.org/advertising/legal/disclaimer/) | Privacy Policy | [Standard Contest Rules →](https://web.archive.org/advertising/legal/contest-rules/)
 
 This privacy statement covers all of the Gawker Media sites ("GM Sites"). Please read this statement carefully before using proceeding to access GM Sites. Your use of GM Sites indicates your agreement to abide by the Terms in effect.
 
@@ -49,3 +51,5 @@ Whenever Gawker Media changes its privacy policy, we will post those changes to 
 
 **Contact Information**  
 If you have any questions or suggestions regarding our privacy policy, please contact the editor of the GM site in question, or send an email to questions AT gawker.com, or by mail to Gawker Media, 76 Crosby St, New York, NY 10012
+
+**Legal Nav:** [← Terms of Use](https://web.archive.org/web/20070626215813id_/http://gawker.com/advertising/legal/) | [← Disclaimer](https://web.archive.org/web/20070626215813id_/http://gawker.com/advertising/legal/disclaimer/) | Privacy Policy | [Standard Contest Rules →](https://web.archive.org/web/20070626215813id_/http://gawker.com/advertising/legal/contest-rules/)
