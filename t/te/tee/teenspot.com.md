@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the teenspot.com privacy policy that was archived on 2006-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061221070935id_/http%3A//www.teenspot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenspot.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626180939id_/http%3A//www.teenspot.com/privacy.html) for the most accurate reproduction.*
 
 # TeenSpot.com - Privacy Policy
-
-  
-
 
 We may use Personally Identifiable Information subject to the terms of this privacy policy. We will never sell, trade, or lease your email address to any unauthorized third party. From time to time you may receive email sent by us that details special offers or other valuable information about our partners or business colleagues. 
 
@@ -43,4 +40,4 @@ This policy and any interpretation thereof is subject to the laws of the State o
 
 If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration to be held at our offices or at any location mutually agreed upon by all parties under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so. You must be present at all mediation meetings. We will mutually agree to a mediator, and if we cannot do so, then you agree that the American Arbitration Association may appoint a mediator. 
 
-This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
+This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
