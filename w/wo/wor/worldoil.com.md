@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldoil.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205205312id_/http%3A//www.worldoil.com/Commerce/legal/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldoil.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627013953id_/http%3A//www.worldoil.com/Commerce/legal/privacy_policy.asp) for the most accurate reproduction.*
 
 # WorldOil.com - World Oil: Our Privacy Policy
 
@@ -74,7 +74,7 @@ Euromoney gives you the opportunity to opt-out of receiving marketing communicat
 
 • Trading in Personal Data, i.e. parts of your personal data may be collected and processed with the intention of selling it to other organisations, but only after consent has been given by you. 
 
-Euromoney may also use your information to measure what area users visit most frequently and what information users access the most. We use this data in connection with the design of our website. This information also helps us determine what is most beneficial for our users and how we can continually create a better overall service for you. Employees or contractors of Euromoney who are given access to your usage information will be required to keep the information confidential and not use it for any other purpose than to carry out the services they are performing for Euromoney. 
+Euromoney may also use your information to measure what area users visit most frequently and what information users access the most. We use this data in connection with the design of our website. This information also helps us determine what is most beneficial for our users and how we can continually create a better overall service for you. Employees or contractors of Euromoney who are given access to your usage information will be required to keep the information confidential and not use it for any other purpose than to carry out the services they are performing for Euromoney.
 
 Any other purposes for which Euromoney wishes to use your personal data will be notified to you and your personal data will not be used for any such purpose without obtaining your prior consent. 
 
@@ -176,7 +176,7 @@ airfinancejournal.net corporatefinancefx.com euromoneyinstitutionalinvestorplc.c
 airtrafficmanagement.net cruiseandferryreview.com euromoneyinvestorshows.com  
 allaboutports.com dcgardner.com euromoneyleasetraining.com  
 alphk.com dcgardnertraining.co.uk euromoneylegaltraining.com  
-americahedge.com dcgardnertraining.com euromoney-magazine.com  
+americahedge.com dcgardnertraining.com euromoney-magazine.com  amm.com  
 anenglishsummer.com dcgcredittraining.com euromoneypharmaevents.com  
 asiahedge.biz dcgtraining.co.uk euromoneyplc.co.uk  
 asiahedge.co.uk dutyfreenews.co.uk euromoneyplc.com  
@@ -187,21 +187,20 @@ asiahedge.org emergingmarkets.org Euromoneypropinvest.com
 asialaw.com emwebtraining.com euromoney-propinvest.com  
 asialawandpractice.com equitycongress.com euromoneysecure.com  
 asiamoney.com euroconferences.co.uk euromoneyseminars.com  
-asiamoney.com.hk eurohedge.biz euromoneytraining.co.uk  
+asiamoney.com.hk asianceramics.co.uk asianglass.com  eurohedge.biz euromoneytraining.co.uk  
 assetfinance.co.uk eurohedge.co.uk euromoneytransport.com  
 assetfinance.com eurohedge.com euromoney-yearbooks.co.uk  
 assetfinanceconferences.com eurohedge.info euromoney-yearbooks.net  
 atmevents.com eurohedge.net euroweek.co.uk  
 batteriesint.com eurohedge.org euroweek.com  
 batteriesinternational.co.uk euroinvestmagazine.com euroweekhk.com  
-batteriesinternational.com euromoney.co.uk ew-sfi.com  
+batteriesinternational.com euromoney.co.uk ew-sfi.com  bcaresearch.com  
 bondcongress.com euromoneyasia.com   
 business-meetings.co.uk euromoneybooks.co.uk   
-
-
 expertguides.co.uk internal-audit.org peoplemoves.co.uk  
 expertguides.com internationalglassreview.com peoplemoves.com  
-forexforum.co.uk investhedge.biz perrypublications.co.uk  
+forexforum.co.uk forensyx.com fow.com  fowtradedata.com   
+investhedge.biz  investmentcalendar.co.uk  perrypublications.co.uk  
 gimagazine.com investhedge.co.uk perrypublications.com  
 globalagendamagazine.com investhedge.com petroleumeconomist.co.uk  
 globalborrower.co.uk investhedge.info petroleum-economist.co.uk  
@@ -245,9 +244,9 @@ inssecuritization.com outsourcing-assetmanagers.com telecomsmoney.com
 insurancebooks.com outsourcingcongress.com telecoms-online.com  
 insuranceconferences.com outsourcing-congress.com tradefinanceconferences.com  
 insurancemoves.com outsourcinginvestmentbanks.com tradefinancemagazine.co.uk  
-insurancesecuritisation.com outsourcing-investmentbanks.com transportmagazines.com  
-
-
+insurancesecuritisation.com outsourcing-investmentbanks.com   
+mbmarketwatch.com  metalbulletin.com mineralnet.co.uk plasticsbulletin.com  
+statix.co.uk totalderivatives.com tradefees.com  transportmagazines.com  
 travelretailer.co.uk travelretailerworld.com usinsurer.com  
 travelretailer.com travelretailworld.com vinisud.com  
 travelretailerinternational.com Ushedge.com 
