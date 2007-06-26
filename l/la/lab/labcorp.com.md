@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the labcorp.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623145917id_/http%3A//labcorp.com/legal/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the labcorp.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626213123id_/http%3A//labcorp.com/legal/privacy_statement.html) for the most accurate reproduction.*
 
 # LabCorp Privacy Statement
 
@@ -10,7 +10,7 @@ Laboratory Corporation of America Holdings and its subsidiaries, including Labor
 
 **What personal information does LabCorp collect?**
 
-LabCorp does not ask you to provide personal health care information to us through our web site. We obtain personally identifying information about you only if you voluntarily choose to provide such information via e-mail comment to LabCorp. Our LabCorp e-mail correspondence link specifically requests that you not include personal medical information.[ The LabCorp bill payment link](https://web.archive.org/web/20060623145917id_/http%3A//billing), which allows you to make electronic payments, requests that you provide personal financial data for the payment of invoices. Information from the bill payment link does not display or transmit any personal health care information about you or from your account.
+LabCorp does not ask you to provide personal health care information to us through our web site. We obtain personally identifying information about you only if you voluntarily choose to provide such information via e-mail comment to LabCorp. Our LabCorp e-mail correspondence link specifically requests that you not include personal medical information.[ The LabCorp bill payment link](https://web.archive.org/web/20070626213123id_/http%3A//billing), which allows you to make electronic payments, requests that you provide personal financial data for the payment of invoices. Information from the bill payment link does not display or transmit any personal health care information about you or from your account.
 
 **How does LabCorp protect the security of your information?**
 
@@ -18,7 +18,7 @@ Financial information and payment data, including credit card numbers, that you 
 
 **Cookies **
 
-LabCorp tracks visitors to our web site by collecting data elements called "cookies." Cookies collected from LabCorp web site are used to: 1) identify which computer you are using, 2) assist in the navigation of the web site, and 3) remember computer settings. Cookies are not permanently maintained within our tracking system. You may prevent your computer from accepting cookies by modifying the properties on your web browser, however, stopping your computer from accepting cookies may limit your web browser's functionality on the LabCorp web site. 
+LabCorp tracks visitors to our web site by collecting data elements called "cookies." Cookies collected from the LabCorp web site are used to: 1) identify which computer you are using, 2) assist in the navigation of the web site, and 3) remember computer settings. Cookies are not permanently maintained within our tracking system. You may prevent your computer from accepting cookies by modifying the properties on your web browser, however, stopping your computer from accepting cookies may limit your web browser's functionality on the LabCorp web site. 
 
 **Internet Links**
 
