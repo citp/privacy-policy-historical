@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justia.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205202736id_/http%3A//marketing.justia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justia.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626040749id_/http%3A//marketing.justia.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Justia :: Privacy Policy - Search Engine Optimized Web Site Design for Law Firms
 
