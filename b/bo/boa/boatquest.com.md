@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boatquest.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214171134id_/http%3A//www.boatquest.com/MorePages/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boatquest.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626090923id_/http%3A//www.boatquest.com/MorePages/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - BoatQuest
 
@@ -11,7 +11,7 @@ We use cookies, which are small text files that are stored on the site visitor's
   * Log Files:  
 We use IP addresses to analyze trends, administer the site, track site visitors' movements, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
   * Links To Other Web Sites:  
-The Web site contains links to other sites. Please be aware that Boats is not responsible for the privacy practices of such other sites. We encourage site visitors to be alert when they leave the Web site and to review the privacy statements of each and every Web site that they visit before disclosing personal information. This privacy statement applies solely to information collected on this Web site.  
+The Web site contains links to other sites. Please be aware that BoatQuest is not responsible for the privacy practices of such other sites. We encourage site visitors to be alert when they leave the Web site and to review the privacy statements of each and every Web site that they visit before disclosing personal information. This privacy statement applies solely to information collected on this Web site.  
   * Forums:  
 Forums are very popular informative discussion opportunities for our site visitors, and for our members. Please note, however, any information a forum visitor posts in a forum session becomes public information. Exercise caution when you decide to disclose personal information in forum sessions because all site visitors will have access to this information. 
 
@@ -62,7 +62,7 @@ We do not knowingly acknowledge or accept orders, registrations or requests for 
   * Personal Information  
 To protect the member's account information, BoatQuest asks each member with either a unique user name or password or a unique ad ID number. These unique identifiers are disclosed to the user via email immediately upon joining the BoatQuest network. Only members have the ability to modify their personal information and delete their ads as needed.
   * Credit Card Transactions  
-BoatQuest uses GeoTrust Certification and secure servers to transmit all online credit card transactions in an encrypted format.   
+BoatQuest uses GoDaddy Certification and secure servers to transmit all online credit card transactions in an encrypted format.   
 
 
 
@@ -76,6 +76,6 @@ BoatQuest uses GeoTrust Certification and secure servers to transmit all online 
 
 **VIII. Questions**
 
-  * If you have further questions that were not addressed in the above privacy policy, please contact BoatQuest.com Legal Department at 866-823-BOAT or email [ ](https://web.archive.org/web/20061214171134id_/http%3A//www.boatquest.com/sendmessage.aspx). 
+  * If you have further questions that were not addressed in the above privacy policy, please contact BoatQuest.com Legal Department at 1-888-377-BOAT or email [ ](https://web.archive.org/web/20070626090923id_/http%3A//www.boatquest.com/sendmessage.aspx). 
 
 
