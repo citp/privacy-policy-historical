@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxgxl.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118073930id_/http%3A//www.maxgxl.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxgxl.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626175858id_/http%3A//www.maxgxl.com/privacypolicy.php) for the most accurate reproduction.*
 
 # MaxGxl
 
