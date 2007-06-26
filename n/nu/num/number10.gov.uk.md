@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the number10.gov.uk privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205193705id_/http%3A//www.number10.gov.uk/output/Page52.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the number10.gov.uk privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626155328id_/http%3A//www.number10.gov.uk/output/Page52.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,9 +46,10 @@ If you send an enquiry by e-mail it may not always be possible for the No 10 Web
 
 If you wish to e-mail the Prime Minister you will need to provide certain personal details including your name and email address. This material will be used to verify the email address and confirm the mailer is content with us to proceed with processing the email. While all reasonable precautions have been taken to ensure the security of this website and the transmission of these emails, this website assumes no responsibility for the timeliness, deletion, mis-delivery or interception when emails are transmitted from this website to the Prime Minister's email system.
 
-### E-mail alert services sign up
+### E-mail alerts and newsletters 
 
-If you sign up to receive e-mail alerts we will use the information you give us to provide the service(s) you have requested. We may occasionally contact e-mail alert subscribers to help us evaluate and improve the service that we offer.  
+If you sign up to receive e-mail alerts we will use the information you give us to provide the service(s) you have requested. We may occasionally contact e-mail alert subscribers to help us evaluate and improve the service that we offer.
+
 If you have used an on-line form on the No 10 website to sign up for an e-mail alert service, you can correct, update or remove any personally identifiable information directly, via our Internet pages.
 
 If you sign up for a subscription e-mail service, we will hold the information you have provided for as long as you require access to the service requested. If you inform us that you wish to cancel a subscription we will remove you from our mailing list and your details will be deleted from our records.
@@ -69,6 +70,8 @@ Ned Stat, an independent measurement and research company gathers non-personal d
 
 Log files allow us to record visitors' use of the site. The No 10 Web Team puts together log file information from all our visitors, which we use to make improvements to the layout of the site and to the information in it, based on the way that visitors move around it. Log files do not contain any personal information about you.
 
+If you receive the HTML-formatted version of a newsletter, your opening of the newsletter email is notified to us and saved. Your clicks on links in the newsletter are also saved. These and the open statistics are used in aggregate form to give us an indication of the popularity of the content and to help us make decisions about future content and formatting.
+
 ### Linking to another site from the No 10 website
 
 Our website contains links to other sites, mainly those of other government departments, but also to those of other third parties. The Prime Minister's Office is not responsible for the privacy practices within any of these other sites. You should be aware of this when you leave the No 10 website and we encourage you to read the privacy statements on other websites you visit.
@@ -77,4 +80,4 @@ Our website contains links to other sites, mainly those of other government depa
 
 If this privacy policy changes in any way, we will place an updated version on this page. Regularly reviewing this page ensures that you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties.
 
-Last updated November 2005
+Last updated February 2007
