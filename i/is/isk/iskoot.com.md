@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iskoot.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118062226id_/http%3A//www.iskoot.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iskoot.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626051009id_/http%3A//www.iskoot.com/privacy.htm) for the most accurate reproduction.*
 
 # Welcome to iSkoot
 
@@ -82,7 +82,7 @@ Any and all information which is voluntarily submitted in feedback forms on the 
 Passive Information is automatically generated and is not stored centrally. iSkoot will only use this Passive Information, on an aggregated level, to provide You with better service or for statistical information.
 
 • _E-mail addresses_  
-iSkoot respects the privacy of personal e-mail accounts and stores Your e-mail addresses just as securely as other Personal Data. iSkoot will not send You unsolicited e-mail messages or junk mail, and Your details will not be passed to third parties without Your explicit permission. However, iSkoot will use e-mail to send You messages about faults and service issues. iSkoot may also use e-mail to keep You up to date with news about the iSkoot Software and internet telephony and data services. If You do not want to be kept informed in this way by e-mail, please contact iSkoot at [support@iskoot.com](mailto:support@iskoot.com).
+iSkoot respects the privacy of personal e-mail accounts and stores Your e-mail addresses just as securely as other Personal Data. iSkoot will not send You unsolicited e-mail messages or junk mail, and Your details will not be passed to third parties without Your explicit permission. However, iSkoot will use e-mail to send You messages about faults and service issues. iSkoot may also use e-mail to keep You up to date with news about the iSkoot Software and internet telephony and data services. If You do not want to be kept informed in this way by e-mail, please contact iSkoot at [remove@iskoot.com](mailto:remove@iskoot.com).
 
 • _Subscriber Information_  
 iSkoot asks for Subscriber Information in order to verify Your identity and to provide internet telephony and data services. We use a third party banking organizations and other providers of payment services to bill You for internet telephony and data services and we will, therefore, provide this billing provider with the necessary billing data. This Subscriber Information is securely stored on a server of iSkoot or iSkoot's third party billing provider and is used by iSkoot, as well as by any such third party billing provider, in accordance with relevant legislation.
@@ -126,4 +126,4 @@ iSkoot shall take appropriate technical measures to protect the confidentiality 
 iSkoot reserves the right to modify the provisions of this Privacy Statement if deemed necessary. We will inform You of these changes on the Website. You agree that by continuing to use the iSkoot Software or internet telephony and data services following the publishing of the revised Privacy Statement You indicate your acceptance of the Privacy Statement.
 
 **9\. What rights do You have and how can You contact iSkoot?**  
-If You would like to exercise your right to view, correct, complete or remove Your Personal Data, please contact iSkoot at [support@iskoot.com](mailto:support@iskoot.com). Within a reasonable period of time and upon verification of your identity, iSkoot will fulfill Your request, provided iSkoot will not act contrary to applicable legislation by fulfilling Your request.
+If You would like to exercise your right to view, correct, complete or remove Your Personal Data, please contact iSkoot at [remove@iskoot.com](mailto:remove@iskoot.com). Within a reasonable period of time and upon verification of your identity, iSkoot will fulfill Your request, provided iSkoot will not act contrary to applicable legislation by fulfilling Your request.
