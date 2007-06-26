@@ -1,51 +1,18 @@
-> *The following text is extracted and transformed from the chicagobears.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615105427id_/http%3A//www.chicagobears.com/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicagobears.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626112809id_/http%3A//www.chicagobears.com/about/privacy.asp) for the most accurate reproduction.*
 
-# Chicago Bears
+# Privacy Policy - Chicago Bears
 
-  
+## Chicago Bears Website Privacy Policy 
 
+**_Last updated on July 19, 2005._**
 
-|  |  |    
-  
-| PreSeason  
----  
-8/11 | @  | 9 pm  
-8/18 | vs.  | 7 pm  
-8/25 | vs.  | 7 pm  
-8/31 | @  | 7 pm  
-Regular Season  
-9/10 | @  | 3:15 pm  
-9/17 | vs.  | Noon  
-9/24 | @  | Noon  
-10/1 | vs.  | 7:15 pm  
-10/8 | vs.  | Noon  
-10/16 | @  | 7:30 pm  
-10/29 | vs.  | Noon  
-11/5 | vs.  | Noon  
-11/12 | @  | Noon*  
-11/19 | @  | Noon*  
-11/26 | @  | Noon*  
-12/3 | vs.  | Noon*  
-12/11 | @  | 7:30 pm  
-12/17 | vs.  | Noon*  
-12/24 | @  | Noon  
-12/31 | vs.  | Noon*  
-* - Game time subject to flexible schedule  
-  
-|    
-
-
-**Chicago Bears Website Privacy Policy**
-
- ** _Last updated on July 19, 2005._**
-
-**_[](http://www.truste.org/ivalidate.php?url=www.chicagobears.com&sealid=102)_**This privacy policy applies to the Chicago Bears website located at[www.ChicagoBears.com](http://www.chicagobears.com/). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
+**_[](http://www.truste.org/ivalidate.php?url=www.chicagobears.com&sealid=102)_**This privacy policy applies to the Chicago Bears website located at[ www.ChicagoBears.com](https://web.archive.org/). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
 
 The Website is operated by the Chicago Bears
 
-The Chicago Bears Football Club is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [www.ChicagoBears.com](http://www.chicagobears.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+The Chicago Bears Football Club is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [www.ChicagoBears.com](https://web.archive.org/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact Trevor Frederickson at Chicago Bears Football Club, 1000 Football Drive, Lake Forest, IL 60045. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact Dan Gadd at Chicago Bears Football Club, 1000 Football Drive, Lake Forest, IL 60045. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 This site complies with EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union.
 
@@ -55,8 +22,7 @@ When this privacy policy uses the term "personally identifiable information" or 
 
 Please read the information below to learn more about our data collection policies and practices.
 
-**Types of Information That May Be Collected**
-
+**Types of Information That May Be Collected**   
 1\. How Information May Be Collected  
 2\. How We Use The Information Collected  
 3\. With Whom The Information May Be Shared  
@@ -67,7 +33,7 @@ Please read the information below to learn more about our data collection polici
 8\. Notification Of Changes And Your Acceptance Of The Privacy Policy  
 9\. Correcting/Updating Personal Information  
 10\. Your California Privacy Rights  
-11\. Questions About This Privacy Policy
+11\. Questions About This Privacy Policy 
 
 **Information You Provide Us:** In the course of using the website, we may ask you to provide us with certain information, including contact information, such as your name, mailing address, email address, phone number, unique identifiers, such as your user ID, user password, demographic information, such as your date of birth, age, gender, ticket holder status, game attendance, financial information, such as your credit card number or similar information.
 
@@ -99,7 +65,7 @@ Cookies automatically identify your browser to the Website whenever your compute
 
 Some of our business partners, sponsors or advertisers, use cookies on our site. We have no access to or control over these cookies.
 
-This privacy statement covers the use of cookies by [www.ChicagoBears.com](http://www.chicagobears.com/) only and does not cover the use of cookies by any third parties.
+This privacy statement covers the use of cookies by [www.ChicagoBears.com](https://web.archive.org/) only and does not cover the use of cookies by any third parties.
 
 **Web Beacons and Other Tracking Technology:** Our Website uses a variety of technical methods for tracking purposes, including Web beacons. Web beacons are small pieces of data that are embedded in images on the pages of Web sites. We also use these technical methods to analyze the traffic patterns on our Web sites, such as the frequency with which our users visit various parts of our Web sites. These technical methods may involve the transmission of information either directly to us or to another party authorized by us to collect information on our behalf. We also use these technical methods in HTML e-mails that we send our guests to determine whether our guests have opened those e-mails and/or clicked on links in those e-mails. The information from use of these technical methods may be collected in a form that is personally identifiable.
 
@@ -117,13 +83,18 @@ As applicable, the information you provide to us may be used to:
 >  inform you of a prize you have won;  
 >  monitor or improve the use of the Website;  
 >  customize the advertising and content you see;  
->  monitor compliance with our terms and conditions of use of the Website; and send you promotional material or special offers on behalf of our marketing partners and/or their respective affiliates and subsidiaries and other third parties.
+>  monitor compliance with our terms and conditions of use of the Website; and send you promotional material or special offers on behalf of our marketing partners and/or their respective affiliates and subsidiaries and other third parties. 
 
 **WITH WHOM THE INFORMATION MAY BE SHARED**
 
 At times, we may share your personal information with others for various purposes. The following outlines the ways in which your information may be shared with others and the ways in which you may opt-out of having your information shared:
 
 **Agents:** We employ other businesses, certain services and individuals to perform functions on our behalf. Examples include fulfilling orders, sending e-mail, removing repetitive information from customer lists, Website analysis, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. They may have access to personally identifiable information needed to perform their functions, but may not use it for their own purposes, like sending you marketing offers about their products.
+
+These sites include:  
+* Chicago Bears Message Boards (http://bears.hosttown.com/)  
+* Club Seat Season Ticket Holders My Club Connection ([https://oss.ticketmaster.com/html/home.htmI?team=bears&l=EN&STAGE=1](https://oss.ticketmaster.com/html/home.htmI?team=bears&l=EN&STAGE=1)  
+* Chicago Bears Store (<http://store.chicagobears.com/>)
 
 **Aggregate Information:** We may share aggregate information, such as demographics and Website usage statistics, with advertisers, sponsors or other organizations. When this type of information is shared, the other parties do not have access to your personally identifiable information.
 
@@ -149,7 +120,7 @@ The Website is a general audience Website. We do not currently collect any perso
 
 The Internet offers children wonderful educational and entertainment resources. Your guidance and involvement are essential to help ensure that children have a safe and rewarding online experience. We encourage you to visit the Direct Marketing Association's Web Website ([www.the-dma.org](http://www.the-dma.org/)) and explore the Get CyberSavvy! Program as well as the GetNetWise Website ([www.getnetwise.org](http://www.getnetwise.org/)) to learn more about parental control tools.
 
-If you have any questions please contact the Chicago Bears Football Club. Please direct all inquiries to Trevor Frederickson, 1000 Football Drive, Lake Forest, IL 60045, (847) 295-6600 or email [fanservices@chicagobears.com](mailto:fanservices@chicagobears.com).
+If you have any questions please contact the Chicago Bears Football Club. Please direct all inquiries to Dan Gadd, 1000 Football Drive, Lake Forest, IL 60045, (847) 295-6600 or email [fanservices@chicagobears.com](mailto:fanservices@chicagobears.com).
 
 **YOUR ACCEPTANCE OF THE PRIVACY POLICY AND NOTIFICATION OF CHANGES TO THE POLICY**
 
@@ -174,7 +145,7 @@ If you are a California resident and have questions about our compliance with th
 CA Privacy Rights  
 Chicago Bears  
 1000 Football Drive  
-Lake Forest, IL 60045
+Lake Forest, IL 60045 
 
 **QUESTIONS ABOUT THIS PRIVACY POLICY**
 
@@ -183,10 +154,7 @@ If you have any questions about this privacy policy or the privacy practices of 
 Questions regarding this statement should be directed to:
 
 Chicago Bears Football Club  
-Attn: Trevor Frederickson  
+Attn: Dan Gadd  
 Website Privacy Policy  
 1000 Football Drive  
-Lake Forest, IL 60045  
-  
-  
-
+Lake Forest, IL 60045
