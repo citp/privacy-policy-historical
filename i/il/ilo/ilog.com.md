@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilog.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205215118id_/http%3A//www.ilog.com/corporate/legal/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilog.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627002703id_/http%3A//www.ilog.com/corporate/legal/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy policy
 
