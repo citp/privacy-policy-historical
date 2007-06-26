@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the storynory.com privacy policy that was archived on 2006-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061125215653id_/http%3A//storynory.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storynory.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626164108id_/http%3A//storynory.com/privacy) for the most accurate reproduction.*
 
-# Storynory: Free Audio Stories for Kids » Privacy
+# Privacy | Free Audio Stories for Kids | Storynory
+
+## Privacy
 
 We try to make our site as enjoyable for you and your children as possible. To give you the best possible service, it is necessary for us to collect certain information about you. This policy tells you how we collect information about you and how we protect it. 
 
@@ -58,4 +60,4 @@ We will take reasonable precaution to protect any information we receive such th
 
 **Future change of Privacy Policy** This Policy was last updated on 8th March 2006. If we need to change this policy in future, we will draw attention to the change on our site in a way that is clearly noticable.
 
-This policy was last updated to take account of financial transactions with us. 
+This policy was last updated to take account of financial transactions with us.
