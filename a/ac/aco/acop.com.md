@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acop.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207214755id_/http%3A//www.acop.com/PrivacyPolicy.aspx%3FL%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acop.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626165919id_/http%3A//www.acop.com/PrivacyPolicy.aspx%3FL%3D1) for the most accurate reproduction.*
 
 # Paid online surveys for money and free online paid opinion surveys - American Consumer Opinion
 
