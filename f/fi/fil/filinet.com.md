@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filinet.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207071733id_/http%3A//www.filinet.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filinet.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626090200id_/http%3A//www.filinet.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Filinet - The Complete Affiliate Marketing Solution
 
@@ -46,7 +46,7 @@
 > 
 > **Choices/Opt Out**
 > 
-> If you prefer not to receive marketing information or wish to fully deactivate your account information from us, simply let us know by sending a letter via certified mail to FILINET, Inc., 8360 West Oakland Park Blvd, Suite 300, Sunrise, FL 33351 or an e-mail to Customer Relations. Please note that even if you chose to opt out of FILINET's marketing, we will continue to send you important service-related communications (e.g., order confirmation or product safety information). However, these are not promotional in nature. 
+> If you prefer not to receive marketing information or wish to fully deactivate your account information from us, simply let us know by sending a letter via certified mail to FILINET, 150 S Pine Island Rd, Suite 520, Plantation, FL 33324 or an e-mail to Customer Relations. Please note that even if you chose to opt out of FILINET's marketing, we will continue to send you important service-related communications (e.g., order confirmation or product safety information). However, these are not promotional in nature. 
 > 
 > **Cookies**
 > 
