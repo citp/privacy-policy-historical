@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zeenews.com privacy policy that was archived on 2006-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060821082319id_/http%3A//www.zeenews.com/privatepolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeenews.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626095019id_/http%3A//www.zeenews.com/privatepolicy.asp) for the most accurate reproduction.*
 
 # Untitled Document
 
