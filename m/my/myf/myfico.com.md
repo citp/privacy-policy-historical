@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the myfico.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211165348id_/http%3A//www.myfico.com/Policy/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfico.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626174455id_/http%3A//www.myfico.com/Policy/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # myFICO - Privacy Policy
 
-Effective Date: July 23, 2006
+Effective Date: June, 2007
 
 [](http://www.truste.org/ivalidate.php?url=www.myfico.com&sealid=101)
 
 ### Applicability
 
-This Privacy Policy (the “Policy”) applies to the following web sites: [myFICO.com](http://www.myfico.com/), [fico.org](http://www.fico.org/), and [InsuranceScore.com](http://www.insurancescore.com/) (collectively, the “Web Sites”). Where a portion of this Policy does not apply to all of the Web Sites, that will be indicated in the Policy.
+This Privacy Policy (the “Policy”) applies to the following web sites: [myFICO.com](http://www.myfico.com/), [fico.org](http://www.fico.org/), and [InsuranceScore.com](http://www.insurancescore.com/) (collectively, the “Web Sites”). Where a portion of this Policy does not apply to all of the Web Sites, that will be indicated in the Policy. Information posted on FICO Forums is public information and is not covered by this Privacy Policy. 
 
 ### General
 
@@ -105,7 +105,19 @@ You will be able to change the personal information you have provided to us by l
 
 ### Keeping Your Information Secure
 
-Except for the disclosures and uses described above, we restrict access to nonpublic personal information about you to those employees and companies that need to know that information to provide the Products to you. Those employees and companies are contractually required to maintain the confidentiality of information provided to them and not use it except as required to provide the Products to you or as you specifically consent. We maintain physical, electronic, and procedural safeguards to guard your nonpublic personal information. Information you provide to us when you register for and order the Products is transmitted to us through a secure sockets layer (SSL) transmission. In addition, information we collect is subject to numerous measures designed to help protect it from unauthorized access or alteration, including for example, internal and external firewalls, physical security measures, and encryption of certain information. Of course, you must do your part to ensure the security of your information. For example, you must guard your password and not permit unauthorized use of your account. No security measures can provide absolute protection of data, but we will strive to provide a superior level of protection for your information.
+Except for the disclosures and uses described above, we restrict access to nonpublic personal information about you to those employees and companies that need to know that information to provide the Products to you. Those employees and companies are contractually required to maintain the confidentiality of information provided to them and not use it except as required to provide the Products to you or as you specifically consent. We maintain physical, electronic, and procedural safeguards to guard your nonpublic personal information. Information you provide to us when you register for and order the Products is transmitted to us through a secure sockets layer (SSL) transmission. In addition, information we collect is subject to numerous measures designed to help protect it from unauthorized access or alteration, including for example, internal and external firewalls, physical security measures, and encryption of certain information. Of course, you must do your part to ensure the security of your information. For example, you must guard your logon ID and password and not permit unauthorized use of your account. No security measures can provide absolute protection of data, but we will strive to provide a superior level of protection for your information.
+
+### InfoVault and EZ Error Correct
+
+Information in the InfoVault feature of the Suze Orman FICO Kit and information you include in a dispute letter in EZ Error Correct is treated differently from other information we may collect from you.
+
+The InfoVault is intended for you to store private information, including personally identifiable data regarding your accounts, contact information, social security number, medical records, and other sensitive information that you decide to store there. That information will be available to you on our site as long as your Suze Orman FICO Kit is active.
+
+The information you put into an EZ Error Correct dispute letter will be stored for 90 days on our servers to allow you to come back and make changes to and reprint the letter. All of that information is kept separate from any other information covered by this Privacy Policy.
+
+Information stored in the InfoVault and put into EZ Error Correct dispute letters is your personal information and, notwithstanding anything to the contrary in this Privacy Policy, Fair Isaac will not use this information in any way or intentionally disclose it to any third party without your consent or as required by law.
+
+However, we recommend that you be extremely careful about the information you decide to store in the InfoVault and include in an EZ Error Correct dispute letter. No amount of security can provide absolute protection. For example, if you were to allow your logon information to fall into the wrong hands, someone might be able to access your information in the InfoVault or the dispute letter.
 
 ### Collection of Information by Third-Party Sites and Sponsors
 
