@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bandai.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230223940id_/http%3A//www.bandai.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bandai.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626204123id_/http%3A//www.bandai.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Bandai.com - Privacy Policy
 
