@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commbank.com.au privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205210553id_/http%3A//www.commbank.com.au/SecurityandPrivacy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commbank.com.au privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626194401id_/http%3A//www.commbank.com.au/SecurityandPrivacy/default.asp) for the most accurate reproduction.*
 
 # Commonwealth Bank Group - Security and Privacy
 
@@ -9,7 +9,7 @@ The Commonwealth Bank is committed to protecting the financial security of its c
   
 **Commonwealth Bank Group Privacy Policy Statement**  
   
-The Commonwealth Bank Group's ("the Group") Privacy Policy Statement provides information on the Group's privacy and information handling practices. [Click here to read the statement](https://web.archive.org/privacy/).
+The Commonwealth Bank Group's ("the Group") Privacy Policy Statement provides information on the Group's privacy and information handling practices. [Click here to read the statement](https://web.archive.org/privacy/) or [download the pdf (120kb)](https://web.archive.org/privacy/Privacy_Policy_stat_ADB2441_060307.pdf).
 
 **Commonwealth Bank Group Online Privacy Statement**
 
