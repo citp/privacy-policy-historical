@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uwe.ac.uk privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205231031id_/http%3A//www.uwe.ac.uk/info/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwe.ac.uk privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626154539id_/http%3A//www.uwe.ac.uk/info/privacy.shtml) for the most accurate reproduction.*
 
 # Bristol UWE - Privacy Policy
 
@@ -16,7 +16,7 @@ You are not personally identifiable as an individual from such information alone
 
 ## Cookies
 
-Please see the University's [Cookie Policy](https://web.archive.org/web/20061205231031id_/http%3A//www.uwe.ac.uk/info/cookiePolicy.shtml). Also, the information (below) on tracking in **UWEonline** , which depends on use of cookies. 
+Please see the University's [Cookie Policy](https://web.archive.org/web/20070626154539id_/http%3A//www.uwe.ac.uk/info/cookiePolicy.shtml). Also, the information (below) on tracking in **UWEonline** , which depends on use of cookies. 
 
 ## Personal disclosures 
 
@@ -44,3 +44,7 @@ Participation in a UWEonline course or organisation may require you to send and 
 
 You should not use the email facility within UWEonline to email _en masse_ to your fellow students, unless this has been expressly authorised by the tutor. You are reminded that the sending of email via UWEonline is governed by the University's Email Policy.   
 
+
+## Web Beacons
+
+We use web beacons to gather information about how our web site is used. We do not gather personal information from their use.
