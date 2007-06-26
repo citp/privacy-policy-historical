@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the cynthiasays.com privacy policy that was archived on 2006-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061115011343id_/http%3A//www.hisoftware.com/co/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cynthiasays.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626023355id_/http%3A//www.hisoftware.com/co/privacy.htm) for the most accurate reproduction.*
 
 # HiSoftware: Privacy Statement
 
 HiSoftware Global Web Site Data, Web Site Transaction and Personal Privacy Statement
 
-Hiawatha Island Software practice a strong privacy policy and enforces it with any partners. This statement discloses the privacy practices for the HiSoftware.Com, AccessibilityWATCH.COM, hisoftware.biz, hisoftware.info, taggen.net, and taggen.com, Content Quality.Com, cynthiasays.com. When you visit a Web site that is part of the HiSoftware Network of sites, you can expect to be notified of: What personally identifiable information of yours is collected; What organization is collecting the information; How the information is used; With whom the information may be shared; What choices are available to you regarding collection, use and distribution of the information; What kind of security procedures are in place to protect the loss, misuse or alteration of information under the company’s control; and How you can correct any inaccuracies in the information.
+HiSoftware Inc. practice a strong privacy policy and enforces it with any partners. This statement discloses the privacy practices for the HiSoftware.Com, AccessibilityWATCH.COM, hisoftware.biz, hisoftware.info, taggen.net, and taggen.com, Content Quality.Com, cynthiasays.com. When you visit a Web site that is part of the HiSoftware Network of sites, you can expect to be notified of: What personally identifiable information of yours is collected; What organization is collecting the information; How the information is used; With whom the information may be shared; What choices are available to you regarding collection, use and distribution of the information; What kind of security procedures are in place to protect the loss, misuse or alteration of information under the company’s control; and How you can correct any inaccuracies in the information.
 
 In accordance with [COPPA](http://www.ftc.gov/bcp/conline/edcams/coppa/index.html), HiSoftware.com does not, at any time, knowingly collect information from customers or channel partners of children under the age of 13, in addition we do not market our products to children under the age of 13.
 
-Questions regarding this statement should be directed to HiSoftware's Corporate office, attention Privacy Office or to [privacy@hisoftware.com](mailto:privacy@hisoftware.com)  . or to Hiawatha Island Software Company, 9 Trafalgar Square Nashua NH 03063. If the Web site has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact [ privacyofficer@hisoftware.com](mailto:privacyofficer@hisoftware.com) .
+Questions regarding this statement should be directed to HiSoftware's Corporate office, attention Privacy Office or to [privacy@hisoftware.com](mailto:privacy@hisoftware.com). or to HiSoftware Inc., 9 Trafalgar Square Nashua NH 03063. If the Web site has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact [ privacyofficer@hisoftware.com](mailto:privacyofficer@hisoftware.com).
 
 To return to the Web site, please use the "Back" button on your browser.
 
-Hiawatha Island Software Company, INC and Hiawatha Island Software Company (collectively referred to as HiSoftware) has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices at our HiSoftware and network web sites.
+HiSoftware Inc. (referred to as HiSoftware) has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices at our HiSoftware and network web sites.
 
 * * *
 
@@ -22,9 +22,9 @@ Frequently Asked Questions
 
 What does HiSoftware do?
 
-  * Hiawatha Island Software Company, INC develops software for the personal computer, most notably, the award-winning produces TagGen, AccVerify, AccMonitor, Metadata Server and others.
+  * HiSoftware Inc., INC develops software for the personal computer, most notably, the award-winning produces TagGen, AccVerify, AccMonitor, Metadata Server and others.
 
-  * Hiawatha Island Software Company specializes in technology-based software solutions and professional services.
+  * HiSoftware Inc. specializes in technology-based software solutions and professional services.
 
 
 
@@ -84,12 +84,12 @@ How do I remove myself from any mailing lists?
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-  1. You can send email to privacy@hisoftware.com
+  1. You can send email to [privacy@hisoftware.com](mailto:privacy@hisoftware.com)
 
   2. You can send mail to the following postal address:  
-Hiawatha Island Software, 9 Trafalgar Square Nashua NH 03063 USA
+HiSoftware Inc., 9 Trafalgar Square Nashua NH 03063 USA
 
-  3. You can call the following telephone number: (888) 272-2484
+  3. You can call the following telephone number: (888) 272-2484, +1.603.578.1870
 
 
 
@@ -105,9 +105,9 @@ This site gives users the following options for changing and modifying informati
   1. email [ privacy@hisoftware.com](mailto:privacy@hisoftware.com)
 
   2. send mail to the following postal address:  
-Hiawatha Island Software, 9 Trafalgar Square Nashua NH 03063 USA
+HiSoftware Inc., 9 Trafalgar Square Nashua NH 03063 USA
 
-  3. call the following telephone number: (888) 272-2484
+  3. call the following telephone number: (888) 272-2484, +1.603.578.1870
 
 
 
@@ -121,9 +121,9 @@ How do I contact HiSoftware?
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact
 
 > Privacy Officer  
->  Hiawatha Island Software  
+>  HiSoftware Inc.  
 >  9 Trafalgar Square  
->  Nashua NH 03063  
+>  Nashua, NH 03063 USA  
 >  [ privacy@hisoftware.com](mailto:privacy@hisoftware.com)  
 
 Back to top
