@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wheatgrasskits.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225105146id_/http%3A//www.wheatgrasskits.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wheatgrasskits.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626165222id_/http%3A//www.wheatgrasskits.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # WheatgrassKits.com Privacy Policy
 
@@ -33,7 +33,7 @@ Contacting the Web Site
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
 Wheatgrasskits.com  
-64 West 600 North #2  
+64 West 600 North #10  
 Springville, UT 84663  
 webmaster@wheatgrasskits.com  
 
