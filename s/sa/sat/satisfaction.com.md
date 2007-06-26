@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the satisfaction.com privacy policy that was archived on 2006-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061024074223id_/http%3A//www.satisfaction.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satisfaction.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626120227id_/http%3A//www.satisfaction.com/pp.php) for the most accurate reproduction.*
 
-# Satisfaction Auction - Free Auctions - Online Auction - Internet Auctions - eBay Alternative
+# Satisfaction - MySpace Comments - Free MySpace Layouts - Funny MySpace Comments Codes - Free Online Auctions
 
 Satisfaction.com strongly believes in the privacy of all information collected through this site and we do not sell, rent or otherwise transfer any personally identifiable information about our users to any third party without the prior consent of the individual user.
 
@@ -42,7 +42,7 @@ We use the information you provide about someone else when buying or selling onl
 
 We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
 
-You can register with our website if you would like to receive our newsletter as well as updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form. Newletter subsciptions are on a user opt-in basis. Members may opt-out of newsletter subscriptions at any time. 
+You can register with our website if you would like to receive our newsletter as well as updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form. Newsletter subsciptions are on a user opt-in basis. Members may opt-out of newsletter subscriptions at any time. Critical site service-related or system-related notices affecting site functionality or security will be emailed to all active members regardless of newsletter preference.
 
 We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
 
