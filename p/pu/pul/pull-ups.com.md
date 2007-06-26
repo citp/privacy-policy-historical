@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pull-ups.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117051125id_/http%3A//www.pull-ups.com/na/utility/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pull-ups.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626044130id_/http%3A//www.pull-ups.com/na/utility/privacypolicy.asp) for the most accurate reproduction.*
 
 # PULL-UPS® Training Pants presents the Way to Go!™ Potty Training Success Guide - No One Helps Make Potty Training Easier!
 
