@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pennfoster.edu privacy policy that was archived on 2006-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061209113419id_/http%3A//www.pennfoster.edu/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pennfoster.edu privacy policy that was archived on 2007-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070626205419id_/http%3A//www.pennfoster.edu/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -14,6 +14,7 @@
 </head>
 
 <body>
+<a name="top"></a>
 <table width="760" border="0" align="center" cellpadding="0" cellspacing="0" class="bkgtable">
   <tbody><tr>
     <td><table width="100%" cellpadding="0" cellspacing="0" class="topheadertable">
@@ -22,19 +23,18 @@
             <tbody><tr>
               <td width="150"><div id="studentlogin">
                   <ul id="navlist">
-                    <li id="active"> <a href="http://my.pennfoster.com/StudentPortal/anonymous/login/loginForm.jsp?D=pf" id="current">STUDENT LOGIN</a></li>
+                    <li id="active"> <a href="http://login.pennfoster.edu" id="current">STUDENT LOGIN</a></li>
                   </ul>
               </div></td>
               <td width="3" bgcolor="#FFFFFF"></td>
               <td width="50" class="flagusa">&nbsp;&nbsp;</td>
               <td width="55" class="usasite">USA SITE</td>
-              <form name="formSony" action="/cgi-bin/search.cgi" method="POST" onclick="exit=false"></form>
-                <td><select name="select2" onchange="MM_jumpMenu('parent',this,0)" style="font-size:9px;">
+              <form name="myform" action="/cgi-bin/search.cgi" method="POST" onclick="exit=false"></form>
+                <td><select name="dir" onchange="openDir(this.form);" style="font-size:9px;">
                     <option selected="">Choose Your Country</option>
 					<option>---------------------------</option>
 					<option>USA</option>
-					<option value="http://www.icslearn.co.uk">United Kingdom</option>
-                    <option value="http://www.thomsoneducationdirect.com.au">Australia</option>
+					
                     <option value="http://www.icslearn.ca/index.html">Canada</option>
                     <option value="http://www.pennfosterglobal.com/index.html">All Other Countries</option>
 					<option>---------------------------</option>
@@ -71,21 +71,19 @@
         </tbody></table></td>
       </tr>
       <tr>
-        <td><table width="100%" border="0" cellpadding="0" cellspacing="0">
-            <tbody><tr>
-              <td><div id="topnav">
-                  <ul id="navlist">
-                    <li id="active"> <a href="index.html" id="current">HOME</a></li>
-                    <li><a href="chiefs_message.html">ABOUT US</a></li>
-                    <li><a href="contact_us.html">CONTACT US</a></li>
-                    <li><a href="javascript:redirectCollege('1','http://www.pennfostercollege.edu')">ASSOCIATE DEGREES</a></li>
-                    <li><a href="programs_diplomas.html">CAREER DIPLOMAS</a></li>
-                    <li><a href="diploma/index.html">HIGH SCHOOL</a></li>
-                    <li><a href="programs_alpha.html">ALL PROGRAMS</a></li>
-                    <li><a href="accreditation.html">ACCREDITATION</a></li>
-                  </ul>
-              </div></td>
-            </tr>
+        <td><table width="100%" border="0" cellpadding="0" cellspacing="0" class="topnavpfc">
+          <tbody><tr>
+            <td><div align="center"><a href="index.html" class="topnav">HOME</a></div></td>
+            <td style="border-left:1px solid #ffffff"><div align="center"><a href="chiefs_message.html" class="topnav">ABOUT US</a></div></td>
+            <td style="border-left:1px solid #ffffff"><div align="center"><a href="contact_us.html" class="topnav">CONTACT US</a></div></td>
+            <td style="border-left:1px solid #ffffff"><div align="center"><a href="javascript:redirectCollege('1','http://www.pennfostercollege.edu')" class="topnav">ASSOCIATE DEGREES<br>
+                      <span style="font-size:9px">FROM PENN FOSTER COLLEGE (AZ)</span></a> </div></td>
+            <td style="border-left:1px solid #ffffff"><div align="center"><a href="programs_diplomas.html" class="topnav">CAREER<br>
+                DIPLOMAS</a></div></td>
+            <td style="border-left:1px solid #ffffff"><div align="center"><a href="diploma/index.html" class="topnav">HIGH SCHOOL<br>
+        DIPLOMA</a></div></td>
+            <td style="border-left:1px solid #ffffff"><div align="center"><a href="accreditation.html" class="topnav">ACCREDITATION</a></div></td>
+          </tr>
         </tbody></table></td>
       </tr>
     </tbody></table>
@@ -94,9 +92,11 @@
           <input type="hidden" name="courseid" value="032">
           <input type="hidden" name="adkey" value=" ">
           <input type="hidden" name="type" value=" ">
-          <input type="hidden" name="folder" value=" ">
-          <input type="hidden" name="omni" value=" ">
-          <input type="hidden" name="country" value="USA">
+          <input type="hidden" name="folder" value=" ">                <input type="hidden" name="omni" value=" ">
+                <input type="hidden" name="country" value="USA">
+	<input type="hidden" name="LevelID" value="5">
+                <input type="hidden" name="skinid" value="3">
+
           <tbody><tr>
             <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
                 <tbody><tr>
@@ -111,15 +111,15 @@
 <tbody><tr>
 <td width="80"></td>
 <td class="bodycopy"><h1>Privacy Policy </h1>
-<p>At Education Direct, Inc., we want your visit to be both satisfying and comfortable. Our privacy policy reflects a concern for you as a valued student and customer, so please read the information below if you want to learn about the personal information we collect and store, how Education Direct, Inc. might use that information, and your rights to review, correct or delete the information specifically concerning you.</p>
+<p>At Penn Foster, we want your visit to be both satisfying and comfortable. Our privacy policy reflects a concern for you as a valued student and customer, so please read the information below if you want to learn about the personal information we collect and store, how Penn Foster might use that information, and your rights to review, correct or delete the information specifically concerning you.</p>
 <p><b>Collection and Storage of Information</b></p>
-<p>When you communicate with Education Direct, Inc. we will collect and store certain personal information in our customer database. This information could include any of the contact or demographic information you provide us, including your name, address, phone number, e-mail address, or your zip code or your age. In addition, we may collect certain financial information such as your credit card number, or your mother's maiden name, in order to process your order and collect payment. "Cookies" may also be used to recognize you and give you access to our site. And if you enroll in one or more of our programs, your student records and correspondence with our company are maintained by us as required by law and good business practices.</p>
+<p>When you communicate with Penn Foster we will collect and store certain personal information in our customer database. This information could include any of the contact or demographic information you provide us, including your name, address, phone number, e-mail address, or your zip code or your age. In addition, we may collect certain financial information such as your credit card number, or your mother's maiden name, in order to process your order and collect payment. "Cookies" may also be used to recognize you and give you access to our site. And if you enroll in one or more of our programs, your student records and correspondence with our company are maintained by us as required by law and good business practices.</p>
 <p><b>Use of Information</b></p>
-<p>We will not disclose your credit card number and other personal financial information except as necessary to collect payment. Education Direct, Inc. will use the information you provide us to help us better provide our services to you, and to tell you about other products and services that may be of interest. In addition, Education Direct, Inc. may share personal contact information and demographic information about our students and inquirers with reputable business partners such as advertisers and other third parties. We do not share your private student records or your grades, except as may be required by law.</p>
+<p>We will not disclose your credit card number and other personal financial information except as necessary to collect payment. Penn Foster will use the information you provide us to help us better provide our services to you, and to tell you about other products and services that may be of interest. In addition, Penn Foster may share personal contact information and demographic information about our students and inquirers with reputable business partners such as advertisers and other third parties. We do not share your private student records or your grades, except as may be required by law.</p>
 <p><b>Your Rights</b></p>
-<p>You may review and approve the information about you collected upon your enrollment in one or more of our programs. Upon request, we will change or correct personal information that is erroneous. You may also request that Education Direct, Inc. not disclose your personal contact information to third parties. However, you should understand that information about you in our database may come from a number of sources, including previous contacts or orders made by you and third party mailing lists.</p>
+<p>You may review and approve the information about you collected upon your enrollment in one or more of our programs. Upon request, we will change or correct personal information that is erroneous. You may also request that Penn Foster not disclose your personal contact information to third parties. However, you should understand that information about you in our database may come from a number of sources, including previous contacts or orders made by you and third party mailing lists.</p>
 <p><b>Questions?</b></p>
-<p>Questions regarding Education Direct, Inc. privacy policy should be directed to <a href="mailto:webmaster@pennfoster.com">webmaster@pennfoster.com</a>. We cannot be responsible for the privacy policies of web sites to which this site may link. Education Direct, Inc. reserves the right to change the terms of this policy to reflect our current and future practices with regard to personal information.</p></td>
+<p>Questions regarding Penn Foster privacy policy should be directed to <a href="mailto:webmaster@pennfoster.com">webmaster@pennfoster.com</a>. We cannot be responsible for the privacy policies of web sites to which this site may link. Penn Foster reserves the right to change the terms of this policy to reflect our current and future practices with regard to personal information.</p></td>
 <td width="80" valign="top" class="rightnavbkg">&nbsp;</td>
 </tr>
 </tbody></table></td>
