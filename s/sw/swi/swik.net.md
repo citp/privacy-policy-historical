@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the swik.net privacy policy that was archived on 2006-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061013141909id_/http%3A//swik.net/%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swik.net privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626193828id_/http%3A//swik.net/%3Fprivacy) for the most accurate reproduction.*
 
-# SWiK Privacy Policy - SWiK
+# Privacy Policy - SWiK
 
 At SourceLabs, Inc., we respect your right to privacy and we understand that visitors to our home page [http://www.sourcelabs.com](http://www.sourcelabs.com/) or to our Swik web site at [http://swik.net](http://swik.net/) need to control the uses of their personal information. Our SourceLabs site allows individuals to learn about our company and product and services offerings. Our Swik site provides a wide range of interactive services and offerings. The privacy policy below describes the measures taken by us to protect your privacy in connection with your use of our web sites. 
 
@@ -74,6 +74,3 @@ Seattle, Washington 98104
 Acceptance of privacy policy 
 
 Your use of our sites is subject to this Privacy Policy. BY USING OUR SITE, YOU ARE ACCEPTING THE PRACTICES SET OUT IN THIS PRIVACY POLICY. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date at the bottom of this page to determine if the policy has been modified since you last reviewed it. Your continued use of any portion of our sites following posting of the updated Privacy Policy will constitute your acceptance of the changes.
-
-  
-
