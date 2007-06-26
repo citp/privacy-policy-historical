@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the farebuzz.com privacy policy that was archived on 2006-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060626120107id_/http%3A//farebuzz.com/Portals/97/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farebuzz.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626093851id_/http%3A//www.farebuzz.com/Portals/97/privacy.htm) for the most accurate reproduction.*
 
 # Fare Buzz - Privacy Policy
 
