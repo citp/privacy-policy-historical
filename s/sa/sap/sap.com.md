@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sap.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231212412id_/http%3A//www.sap.com/company/legal/privacy.epx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sap.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626112226id_/http%3A//www.sap.com/company/legal/privacy.epx) for the most accurate reproduction.*
 
 # SAP - SAP Privacy Statement
 
@@ -42,7 +42,7 @@ If you choose to register, we can send you requested information or products, ot
 
 Depending on how your e-mail application is set up, information about you may be transmitted automatically when you send e-mail to SAP.
 
-If you choose to register for third-party services, we may need to send some information from your SAP.com registration to the service provider, possibly including your e-mail address -- but only if your requested service cannot be provided otherwise.
+If you choose to register for third-party services, we may need to send some information from your SAP.com registration to the service provider, possibly including your e-mail address – but only if your requested service cannot be provided otherwise.
 
 **Shopping or Event Registration**   
 Our site includes order forms that you fill out to request information, products, and services. These forms collect your financial information, such as your banking details or credit card numbers. SAP promises to use any financial information that you submit solely for billing and payment purposes for that special transaction.
@@ -56,11 +56,11 @@ This site contains links to other sites. SAP is not responsible for the privacy 
 
 ### 3\. Choice/Opt-Out
 
-You can opt out of receiving e-mail communications from us whenever you like. You only need to e-mail us to have your name and details removed from SAP's e-mail list or registration database. Registered users may opt out at any time in the [SAP.com Profile Center](http://www.sap.com/profile/).
+You can opt out of receiving e-mail communications from us whenever you like. You only need to e-mail us to have your name and details removed from SAP's e-mail list or registration database. Registered users may opt out at any time in the [SAP.com Profile Center](https://web.archive.org/profile/).
 
 ### 4\. Inquiries
 
-If you have any questions about this privacy statement -- if, for example, you wish to inspect or update the information we hold about you -- feel free to contact:
+If you have any questions about this privacy statement – if, for example, you wish to inspect or update the information we hold about you – feel free to contact:
 
 Webmaster  
 SAP AG  
@@ -69,5 +69,3 @@ Dietmar-Hopp-Allee 16
 Germany
 
 Or e-mail: [webmaster@sap.com](mailto:webmaster@sap.com)
-
-**Want to learn more?**  [Contact SAP](https://web.archive.org/contactsap/) for more information.
