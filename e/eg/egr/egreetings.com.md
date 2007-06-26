@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egreetings.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205235924id_/http%3A//www.egreetings.com/new_warrants.pd) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egreetings.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626173927id_/http%3A//www.egreetings.com/new_warrants.pd) for the most accurate reproduction.*
 
 # Find out more about Egreetings.com!
 
