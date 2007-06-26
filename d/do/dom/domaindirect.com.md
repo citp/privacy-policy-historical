@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domaindirect.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217112731id_/https%3A//www.domaindirect.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domaindirect.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626103018id_/https%3A//www.domaindirect.com/policy.html) for the most accurate reproduction.*
 
 # Domain Name Registration and Web Hosting from Domain Direct
 
@@ -20,7 +20,7 @@ Domain Direct actively works with international banking institutions and law enf
 
 We appreciate that many users do not feel comfortable providing their real address, due to the the high incidence of junk mail we all suffer from. Our privacy guarantee specifically states that we will **NOT** share, barter, sell, or trade your confidential information with ANYONE, under ANY circumstances (except in the case of legal proceedings). From time to time, Domain Direct may use your personal information to contact you by electronic mail concerning our services. These communications are intended to inform you of important information regarding your account, or about general services provided by Domain Direct. If you do not want to receive email from us regarding new services, please click the "unsubscribe" link which is included at the bottom of any email you receive from Domain Direct. However, in order to fulfill our service obligations to you, we will continue to send you emails regarding your account administration, as well as any necessary information, such as renewal instructions. Also, ICANN regulations require that your contact information be included in the publicly-accessible WhoIs database; if it is not included, you can lose your domain. Note that this will not include your credit card information, the contents or location of your Website, or any email address other than your direct contact address. An example of the information which will be displayed is as follows:
 
-**[whois.opensrs.net]**
+**[whois.tucows.com]**
 
 **Registrant:**  
 Tucows, Inc.  
@@ -52,17 +52,16 @@ This company may be contacted for domain login/passwords,
 DNS/Nameserver changes, and general domain support questions.
 
 **Registrar of Record:** TUCOWS, INC.  
-Record last updated on 08-Oct-2006.  
-Record expires on 01-Jun-2007.  
+Record last updated on 22-Jun-2007.  
+Record expires on 01-Jun-2008.  
 Record created on 02-Jun-1998.
 
 **Domain servers in listed order:**  
-NS1.DOMAINDIRECT.COM _**216.40.47.70**_  
-NS2.DOMAINDIRECT.COM _**64.97.159.12**_  
-NS3.DOMAINDIRECT.COM _**65.22.7.12**_
+NS1.DOMAINDIRECT.COM   
+NS2.DOMAINDIRECT.COM   
+NS3.DOMAINDIRECT.COM 
 
-**Domain status:** clientDeleteProhibited  
-clientTransferProhibited  
+**Domain status:** clientTransferProhibited  
 clientUpdateProhibited
 
 The Data in the Tucows Registrar WHOIS database is provided to you by Tucows  
