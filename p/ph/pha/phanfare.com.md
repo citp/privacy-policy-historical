@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the phanfare.com privacy policy that was archived on 2006-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061108042133id_/http%3A//www.phanfare.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phanfare.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626133545id_/http%3A//www.phanfare.com/page/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Phanfare Photo and Video Sharing
+# Privacy Policy | Phanfare - The fastest, easiest way to protect and share all your photos and videos. For life.
 
 | 
 
@@ -103,13 +103,12 @@ We use browser cookies. Cookies are a technology which can be used to provide yo
 
 The compact policy is sent by the Web server along with the cookies it describes. For more information, see the P3P deployment guide at [ http://www.w3.org/TR/p3pdeployment](http://www.w3.org/TR/p3pdeployment).
 
-This is a privacy policy for Phanfare, Inc. Our homepage on the Web is located at [http://www.phanfare.com](http://www.phanfare.com/). The full text of our privacy policy is available on the Web at [ http://www.phanfare.com/privacy.aspx](http://www.phanfare.com/privacy.aspx)
+This is a privacy policy for Phanfare, Inc. Our homepage on the Web is located at [http://www.phanfare.com](http://www.phanfare.com/). The full text of our privacy policy is available on the Web at [ http://www.phanfare.com/page/privacy.html](http://www.phanfare.com/page/privacy.html)
 
 We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
 
 Phanfare, Inc.  
-402 Main Street  
-Suite 100-304  
+11 New Street  
 Metuchen, NJ 08840  
 United States of America 
 
