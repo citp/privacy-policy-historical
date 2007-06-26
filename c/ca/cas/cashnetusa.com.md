@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashnetusa.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206001327id_/http%3A//www.cashnetusa.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashnetusa.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626130727id_/http%3A//www.cashnetusa.com/privacy_policy.html) for the most accurate reproduction.*
 
 # CashNetUsa - Fast Payday Loans
 
@@ -48,5 +48,8 @@ We reserve the right to change this policy at any time by notifying you of the e
 
 The information and services provided by us or by our affiliates, sponsors, and advertisers, are not intended to be viewed by children (under 18 years old). No information collected from children is knowingly used for any marketing or promotional purposes whatsoever, either inside or outside **CashNetUSA**.
 
-Copyright CashNetUSA.com 2004, 2005, 2006  
-All rights reserved. CashNetUSA is a licensed or registered loan company under the statutes of the states where we operate. More details are in the "About Us" page.
+Customer Notice: Payday advances should be used for short-term financial needs only, not as a long-term financial solution. Customers with credit difficulties should seek credit counseling.
+
+CashNetUSA's affiliates only offer payday advance in those states where permitted by the state banking authority. More details are in the "About Us" page.
+
+CashNetUSA is a registered trademark with the U.S. Patent and Trademark Office. (3,210,970) All rights reserved. 
