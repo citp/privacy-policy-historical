@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tpub.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206064855id_/http%3A//www.tpub.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tpub.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626073726id_/http%3A//www.tpub.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
