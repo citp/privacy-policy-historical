@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the usagc.org privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206014147id_/http%3A//www.usagc.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usagc.org privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626125532id_/http%3A//www.usagc.org/privacy.aspx) for the most accurate reproduction.*
 
 # Green Card lottery Information and Registration Service
 
 GREEN CARD LOTTERY  
 **Live, Work and Study in UNITED STATES OF AMERICA**
 
-[Click Here to Register Online !](https://web.archive.org/web/20061206014147id_/http%3A//www.usagc.org/step1.aspx)  
+[Click Here to Register Online !](https://web.archive.org/web/20070626125532id_/http%3A//www.usagc.org/step1.aspx)  
 WINNERS will get FREE Air Line Ticket to USA*
 
 PRIVACY POLICY AND STATEMENT OF www.usagc.org   
