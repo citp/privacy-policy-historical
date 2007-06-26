@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 2betdsi.com privacy policy that was archived on 2006-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061109232619id_/http%3A//www.2betdsi.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2betdsi.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626160919id_/http%3A//2betdsi.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# DSI Sportsbook - NFL Football Betting Odds and Sports Betting
+# DSI Sportsbook - NFL Season and Preseason Football Betting and Online Sports Betting Odds
 
  Diamond Sportsbook Intl respects the privacy of visitors to our site. Please read this Online Privacy Policy carefully so that you understand our privacy practices relating to information we gather through this Web site. 
 
