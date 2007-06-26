@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vbuzzer.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615120818id_/http%3A//www.vbuzzer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vbuzzer.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626103442id_/http%3A//www.vbuzzer.com/privacy.php) for the most accurate reproduction.*
 
 # Softroute Corporation Privacy Policy
 
