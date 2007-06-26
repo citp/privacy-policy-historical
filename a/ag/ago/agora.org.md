@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agora.org privacy policy that was archived on 2006-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060820134538id_/http%3A//www.agora.org/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agora.org privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626230544id_/http%3A//www.agora.org/misc/privacy.html) for the most accurate reproduction.*
 
 # Agora Cyber Charter School: Privacy Policy - K12 Inc. Pennsylvania, PA, Distance Learning, Child Activities, Afterschool Programs, Charter Schools
 
