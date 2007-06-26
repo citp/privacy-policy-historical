@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytscstore.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113131504id_/http%3A//mytscstore.com/about_TSC.asp%3FpageID%3Dpolicies%26%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytscstore.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626145253id_/http%3A//www.mytscstore.com/about_TSC.asp%3FpageID%3Dpolicies%26%23privacy) for the most accurate reproduction.*
 
 # Tractor Supply Company - About TSC
 
