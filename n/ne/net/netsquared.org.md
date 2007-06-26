@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the netsquared.org privacy policy that was archived on 2006-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061009224944id_/http%3A//www.netsquared.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netsquared.org privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626070838id_/http%3A//www.netsquared.org/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | NetSquared
+# Privacy Policy | NetSquared, a project of TechSoup.org
 
 ### NETSQUARED PRIVACY STATEMENT
 
@@ -10,21 +10,21 @@ Version 1.1, December 15, 2005
 **This statement discloses the privacy practices for NetSquared, a project of The CompuMentor Project (“CompuMentor”), as related to the netsquared.org Internet domain (the “WebSite”).**  
 
 
-#####  [VISITOR CONSENT AND LAWS GOVERNING PRIVACY](http://www.netsquared.org/about/privacy-policy#C1)  
-[GENERAL SECURITY](http://www.netsquared.org/about/privacy-policy#C2)  
-[COOKIES](http://www.netsquared.org/about/privacy-policy#C3)   
-[PERSONAL INFORMATION WE COLLECT](http://www.netsquared.org/about/privacy-policy#C4)   
-[WEBSITE USER ACCOUNTS](http://www.netsquared.org/about/privacy-policy#C5)   
-[USE OF IDENTIFICATION INFORMATION](http://www.netsquared.org/about/privacy-policy#C6)   
-[USE OF FINANCIAL INFORMATION](http://www.netsquared.org/about/privacy-policy#C7)   
-[USE OF OTHER ENTERED OR POSTED INFORMATION](http://www.netsquared.org/about/privacy-policy#C8)   
-[USE OF OTHER COLLECTED INFORMATION](http://www.netsquared.org/about/privacy-policy#C9)   
-[DISCLOSURE FOR LEGAL PROCEEDINGS](http://www.netsquared.org/about/privacy-policy#C10)   
-[ THIRD PARTIES](http://www.netsquared.org/about/privacy-policy#C11)   
-[LINKS TO OUTSIDE WEB SITES](http://www.netsquared.org/about/privacy-policy#C12)   
+#####  [VISITOR CONSENT AND LAWS GOVERNING PRIVACY](https://web.archive.org/web/20070626070838id_/http%3A//about/privacy-policy#C1)  
+[GENERAL SECURITY](https://web.archive.org/web/20070626070838id_/http%3A//about/privacy-policy#C2)  
+[COOKIES](https://web.archive.org/web/20070626070838id_/http%3A//about/privacy-policy#C3)   
+[PERSONAL INFORMATION WE COLLECT](https://web.archive.org/web/20070626070838id_/http%3A//about/privacy-policy#C4)   
+[WEBSITE USER ACCOUNTS](https://web.archive.org/web/20070626070838id_/http%3A//about/privacy-policy#C5)   
+[USE OF IDENTIFICATION INFORMATION](https://web.archive.org/web/20070626070838id_/http%3A//about/privacy-policy#C6)   
+[USE OF FINANCIAL INFORMATION](https://web.archive.org/web/20070626070838id_/http%3A//about/privacy-policy#C7)   
+[USE OF OTHER ENTERED OR POSTED INFORMATION](https://web.archive.org/web/20070626070838id_/http%3A//about/privacy-policy#C8)   
+[USE OF OTHER COLLECTED INFORMATION](https://web.archive.org/web/20070626070838id_/http%3A//about/privacy-policy#C9)   
+[DISCLOSURE FOR LEGAL PROCEEDINGS](https://web.archive.org/web/20070626070838id_/http%3A//about/privacy-policy#C10)   
+[ THIRD PARTIES](https://web.archive.org/web/20070626070838id_/http%3A//about/privacy-policy#C11)   
+[LINKS TO OUTSIDE WEB SITES](https://web.archive.org/web/20070626070838id_/http%3A//about/privacy-policy#C12)   
 [REGARDING MINORS   
-](http://www.netsquared.org/about/privacy-policy#C13)[QUESTIONS AND COMMENTS](http://www.netsquared.org/about/privacy-policy#C14)   
-[PRIVACY STATEMENT UPDATES](http://www.netsquared.org/about/privacy-policy#C15)
+](https://web.archive.org/web/20070626070838id_/http%3A//about/privacy-policy#C13)[QUESTIONS AND COMMENTS](https://web.archive.org/web/20070626070838id_/http%3A//about/privacy-policy#C14)   
+[PRIVACY STATEMENT UPDATES](https://web.archive.org/web/20070626070838id_/http%3A//about/privacy-policy#C15)
 
 #### VISITOR CONSENT AND LAWS GOVERNING PRIVACY
 
@@ -150,7 +150,3 @@ Version 1.1, with additional information in Use of Financial Information. Dec 15
 
 
 Version 1.0 was written in December 2005.
-
-How to be NetSquared
-
-Questions & Answers
