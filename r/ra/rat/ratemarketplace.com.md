@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratemarketplace.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216014619id_/http%3A//www.ratemarketplace.com/rateMarketplace/privacy-20125.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratemarketplace.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626232501id_/http%3A//www.ratemarketplace.com/rateMarketplace/privacy-20125.html) for the most accurate reproduction.*
 
 # RateMarketplace - Privacy Policy
 
