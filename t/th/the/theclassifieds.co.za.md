@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theclassifieds.co.za privacy policy that was archived on 2006-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061128040826id_/http%3A//theclassifieds.co.za/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theclassifieds.co.za privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626202036id_/http%3A//www.theclassifieds.co.za/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Free online classifieds in South Africa | TheClassifieds.co.za
+# Privacy Policy
 
 **Last updated on: 3 November 2005**
 
@@ -78,10 +78,12 @@ It is possible that TheClassifieds and/or any of our assets may be acquired in a
 
 ## 11\. Contact Information
 
-If the User has any questions about this Privacy Statement or about TheClassifieds's information collection practices, please contact us at [info@theclassifieds.co.za](https://web.archive.org/web/20061128040826id_/http%3A//theclassifieds.co.za/info@theclassifieds.co.za?Subject=Privacy%20Policy)
+If the User has any questions about this Privacy Statement or about TheClassifieds's information collection practices, please contact us at [info@theclassifieds.co.za](https://web.archive.org/web/20070626202036id_/http%3A//www.theclassifieds.co.za/info@theclassifieds.co.za?Subject=Privacy%20Policy)
 
 ## 12\. Terms
 
 12.1 The terms "The User" and "User" are used interchangeably and refer to all individuals and/or entities accessing this web site for any reason whatsoever.
 
 12.2 The terms "we" and "TheClassifieds" are used interchangeably and refer to TheClassifieds itself and all individuals and/or entities acting directly on behalf of TheClassifieds.
+
+Copyright ©2006, 2007 TheClassifieds, All rights reserved Last updated: 20 Mar 2007
