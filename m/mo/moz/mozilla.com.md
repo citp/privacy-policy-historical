@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mozilla.com privacy policy that was archived on 2006-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060915085635id_/http%3A//www.mozilla.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mozilla.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626111359id_/http%3A//www.mozilla.com/en-US/privacy-policy.html) for the most accurate reproduction.*
 
 # Mozilla Privacy Policy
+
+_Note: This privacy policy applies to our Web sites and services. We have a separate privacy policy for our products. Please see:[Mozilla Firefox Privacy Policy](https://web.archive.org/en-US/legal/privacy/firefox-en.html)._
 
 ### Website Visitors
 
