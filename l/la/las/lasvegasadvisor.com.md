@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the lasvegasadvisor.com privacy policy that was archived on 2006-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061026000424id_/http%3A//lasvegasadvisor.com/privacy.cfm%3Fs%3DH%26w%3DPrivacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lasvegasadvisor.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626234353id_/http%3A//www.lasvegasadvisor.com/privacy.cfm) for the most accurate reproduction.*
 
 # Las Vegas Advisor - Anthony Curtis - Privacy Policy
 
 | 
 
-[](http://www.lasvegasadvisor.com/absolutebmxe/abmc.asp?b=330&z=2)
-
-  
-
+[](http://www.lasvegasadvisor.com/absolutebmxe/abmc.asp?b=329&z=2)
 
 Huntington Press is committed to protecting your privacy. The following discloses our information collection and use practices for our Website. 
 
