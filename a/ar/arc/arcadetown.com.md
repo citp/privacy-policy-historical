@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadetown.com privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224171645id_/http%3A//www.arcadetown.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadetown.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626142754id_/http%3A//www.arcadetown.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - ArcadeTown.com
 
@@ -29,4 +29,4 @@ When placing an order, our e-commerce provider will handle your personal informa
 **This site contains links to other sites. We are not responsible for the privacy practices or the content of such Web sites.
 
 **CONTACTING OUR WEB SITE  
-**If you have any comments or questions about this privacy statement or any other issues you can [contact us](https://web.archive.org/web/20061224171645id_/http%3A//www.arcadetown.com/contact.asp).
+**If you have any comments or questions about this privacy statement or any other issues you can [contact us](https://web.archive.org/web/20070626142754id_/http%3A//www.arcadetown.com/contact.asp).
