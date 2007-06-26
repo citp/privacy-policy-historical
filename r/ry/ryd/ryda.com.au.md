@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ryda.com.au privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118043537id_/http%3A//www.ryda.com.au/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryda.com.au privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626032926id_/http%3A//www.ryda.com.au/terms_privacy.asp) for the most accurate reproduction.*
 
 # RYDA.com.au - Great Prices on Car Audio, Mobile Phones and GPS Navigation
 
@@ -65,7 +65,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20061118043537id_/http%3A//www.ryda.com.au/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20070626032926id_/http%3A//www.ryda.com.au/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
