@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the fivestaralliance.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210135341id_/http%3A//www.fivestaralliance.com/luxury_hotel_experts/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fivestaralliance.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626054856id_/http%3A//www.fivestaralliance.com/luxury_hotel_experts/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Five Star Alliance
 
-Last Updated 10/19/05
+Last Updated 2/7/07
 
 [ ](http://www.truste.org/ivalidate.php?url=www.fivestaralliance.com&sealid=101)
 
 Five Star Alliance is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.FiveStarAlliance.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-If you have questions or concerns regarding this statement, you should first contact Five Star Alliance's privacy policy administrator, by phone at (703) 836-0692. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact Five Star Alliance's privacy policy administrator, by phone at (703) 836-0692. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
 
 ### Overview
 
@@ -26,13 +26,23 @@ We use your information only for the explicit purposes for which you provide it.
 
 When you book a hotel reservation with us, we deliver your information directly to the relevant hotel, and not to any other party. We store a copy of your booking information on our computers so that you can retrieve that information when you return to our site. However, for security purposes, we do not store your entire credit card number on our servers. Instead, we only store only the last four digits of the number.
 
+When you use our "Email a Friend" feature, we use the names and email addresses provided by you for the sole purpose of sending an email from you to the recipient. We will automatically send your friend a one-time email inviting him or her to visit the site. We do not store any names or email addresses collected for this site feature.
+
 ### Legal Disclaimer
 
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.
 
+### A note on our blog
+
+Five Star Alliance publishes a blog at <http://traveler.fivestaralliance.com/>. If you use a bulletin board, blog, or chat room on our site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
+
 ### How we protect your information
 
-Five Star Alliance uses the leading security technology available to protect and secure your information. We are certified by the industry-leading Verisign. For more information on our security certification, please click the Verisign logo.
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
+
+The security of your personal information is important to us. When you enter sensitive information (such as your credit card number) on our reservation form, we encrypt that information using secure socket layer technology (SSL). 
+
+Five Star Alliance uses the leading security technology available, including SSL, to protect and secure your information. We are certified by the industry-leading Verisign. To learn more about SSL, and for more information on our security certification, please click the Verisign logo.
 
 ### How we use cookies
 
@@ -44,19 +54,25 @@ We also use a third-party tracking service called SearchIgnite that uses cookies
 
 ### How we share information
 
+We do not share your profile with other third parties, other than the instances detailed in the following two paragraphs. 
+
 The information you provide to us when you book a hotel reservation is delivered directly to the relevant hotel, and is not shared with any other party. This information includes your name, address, contact information, and credit card details.
 
 The information you provide when you sign up for our newsletter, including email address and optional demographic information (such as zip code, gender, and year of birth), is not shared with other parties unless you explicitly allow us to do so. All explicit agreements will be "opt-in", rather than "opt-out". This means that by default we will not share your information, unless you take an action that allows us to do so. 
 
 ### Updating your information
 
-We strive to give you full control over the information you provide to us. To unsubscribe from our newsletter, we provide clear instructions on our web site (via the newsletter link found on every page) and at the bottom of all emails delivered to you.
+We strive to give you full control over the information you provide to us. To unsubscribe from our newsletter and all promotional communications, we provide clear instructions on our web site (via the newsletter link found on every page). You may also unsubscribe via the link at the bottom of all emails delivered to you, or you may unsubscribe by sending us [by email](https://web.archive.org/luxury_hotel_experts/contact_us.html).
 
 Due to the nature of the hotel industry's Global Distribution System (GDS), it is not currently feasible to automatically update the details of a reservation over our web site. Thus, should you need to make an update to your booking information, we ask that you [contact us](https://web.archive.org/luxury_hotel_experts/contact_us.html). We will be happy to assist you. You may reach us by phone at (703) 836-0692, and links to our [our contact information](https://web.archive.org/luxury_hotel_experts/contact_us.html), are provided on every page of our site.
 
 ### Changes to this policy
 
-This privacy policy is subject to change at any time. We expect most changes to be minor, however from time to time significant changes in this policy may occur. Changes will be published here at this location. In the event of a transfer of ownership of Five Star Alliance, LLC, we will provide notice before any personally identifiable information is transferred or becomes subject to a different privacy policy.
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
+
+In the event of a transfer of ownership of Five Star Alliance, LLC, we will provide notice before any personally identifiable information is transferred or becomes subject to a different privacy policy.
 
 If you have any questions or suggestions regarding our privacy policy, please contact us at: 
 
