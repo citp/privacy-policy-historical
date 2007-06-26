@@ -1,17 +1,33 @@
-> *The following text is extracted and transformed from the pocketpcthoughts.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208120314id_/http%3A//www.pocketpcthoughts.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pocketpcthoughts.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626173732id_/http%3A//www.thoughtsmedia.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy
+# Thoughts Media Inc
 
-Thoughts Media* respects your privacy. You will never have to register or provide any personal information in order to browse our website and read the Thoughts Media discussion boards (however, registration is required for posting on the discussion boards and for entering our contests).
+**Thoughts Media Inc. Privacy Policy**
 
-### Information About You
+This is the web site of Thoughts Media Incorporated.
 
-Thoughts Media may from time to time ask you to provide information about yourself to us on a voluntary basis, through surveys, polls, and as a requirement for entry into Thoughts Media contests. This information may include your name, address, telephone number, Zip Code, e-mail address, sex, age range, the types of devices you use, planned purchases, and what kinds of features you prefer in a PDA.
+Our postal address is:
 
-Thoughts Media aggregates this information to determine trends, preferences, and demographics about the handheld community in general. We will use this aggregated information to study the trends of our user community. Occasionally we may provide this aggregate data to the sponsors of Thoughts Media. Specific information such as name, email address, or other contact information will never be shared with sponsors.
+Thoughts Media Inc.  
+45 Tuscany Springs Circle NW  
+Calgary, Alberta, Canada, T3L 2R8
 
-### Your E-mail Address
+Our phone number is: 1-403-720-6954
 
-No one enjoys unsolicited e-mail, or spam. However, Thoughts Media may use your e-mail address to send you information about Thoughts Media that we think you might be interested in. You can opt-out from Thoughts Media by letting us know. Thoughts Media will never sell or share your e-mail address with any outside source without your permission.
+For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
-_*Thoughts Media is the parent company of Pocket PC Thoughts._
+We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
+
+The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor.
+
+With respect to cookies: We use cookies to store visitors preferences, record user-specific information on what pages users access or visit, record past activity at a site in order to provide better service when visitors return to our site , ensure that visitors are not repeatedly sent the same banner ads, customize Web page content based on visitors' browser type or other information that the visitor sends.
+
+If you do not want to receive e-mail from us in the future, please let us know by or Use our email unsubscribe tool..
+
+We allow advertisers and other third parties to place cookies onto your computer when you visit this Website. These cookies are placed to keep track of the web searches you make while visiting this Website, as well as your web surfing behavior on this Website and other websites you may visit later on. That information is used to anonymously customize ads to you on other websites you visit, and/or to keep track of your response to each ad. None of these third parties are able to use this information to identify you personally. One such company is AlmondNet. If you'd like to know more about AlmondNet's privacy practices, please [click here](http://www.almondnet.com/privacy.aspx?miid=7&artid=49).
+
+Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them.
+
+Upon request we offer visitors the ability to have inaccuracies corrected in contact information.
+
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
