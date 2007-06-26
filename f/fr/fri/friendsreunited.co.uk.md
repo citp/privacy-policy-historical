@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the friendsreunited.co.uk privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627113327id_/http%3A//friendsreunited.co.uk/FriendsReunited.ASP%3FWCI%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendsreunited.co.uk privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626122723id_/http%3A//www.friendsreunited.co.uk/FriendsReunited.ASP%3FWCI%3DPrivacy) for the most accurate reproduction.*
 
 # Friends Reunited - Privacy Policy
 
-At FriendsReunited, we believe strongly in protecting the privacy of our Members' personal information. This is a legal document that sets out how FriendsReunited handles data which identifies you. You should read it in conjunction with the [FriendsReunited Terms and Conditions](http://www.friendsreunited.co.uk/friendsreunited.asp?wci=terms), of which this Privacy Policy forms part. 
+« Back 
+
+At FriendsReunited, we believe strongly in protecting the privacy of our Members' personal information. This is a legal document that sets out how FriendsReunited handles data which identifies you. You should read it in conjunction with the [FriendsReunited Terms and Conditions](https://web.archive.org/web/20070626122723id_/http%3A//www.friendsreunited.co.uk/friendsreunited.asp?wci=terms), of which this Privacy Policy forms part. 
 
 **1\. Emails from Friends Reunited.**
 
@@ -11,6 +13,7 @@ You are probably most interested in how we will use your email address to commun
 **Service Emails.** The team at Friends Reunited hate spam and will never ever send you unsolicited emails. But there are some emails that we will need to send you to provide you with a good Friends Reunited service. These include notifications that you have a message from an old friend, reminders about your membership expiring and guides on how to use the site. A full list of the types of emails you will receive to help you use the service most effectively (which we call Service Emails) are shown below: 
 
   * Validation email – the email we use to verify your email address when you first register 
+  * Welcome emails - emails which explain how to use the site when you first join
   * Payment receipt – this is sent if you upgrade to Full Membership 
   * Renewal notices – these remind you to renew your Full Membership 
   * Automatic Full Membership renewal alerts – if you have selected automatic renewal of your Full Membership, we will alert before this happens 
@@ -86,7 +89,7 @@ We have security measures in place to protect our customer database and access t
 
 **5\. Removing yourself from the Friends Reunited Service**
 
-You may have your registration details removed at any time. To remove yourself please click [here ](http://www.friendsreunited.co.uk/friendsreunited.asp?wci=unregister)and we will remove all Your Details. 
+You may have your registration details removed at any time. To remove yourself please click [here](http://www.friendsreunited.co.uk/friendsreunited.asp?wci=unregister) and we will remove all Your Details. 
 
 **6\. Disclosure for legal reasons**
 
@@ -94,11 +97,11 @@ We reserve the right to communicate such of a Member's personal information as w
 
 **7\. Data Retention Period.**
 
-We will retain your personal data only as long as is necessary for the purposes to which you consent under the [Friends Reunited Terms and Conditions ](http://www.friendsreunited.co.uk/friendsreunited.asp?wci=terms) and this Privacy Policy, or as is required by applicable law, and then we will delete it. 
+We will retain your personal data only as long as is necessary for the purposes to which you consent under the [Friends Reunited Terms and Conditions ](https://web.archive.org/web/20070626122723id_/http%3A//www.friendsreunited.co.uk/friendsreunited.asp?wci=terms) and this Privacy Policy, or as is required by applicable law, and then we will delete it. 
 
 **8\. Contacting FriendsReunited**
 
-If you have any questions about this Privacy Policy, the practices of the FriendsReunited Service, or your dealings with FriendsReunited, you can contact us [here ](http://admin1.friendsreunited.co.uk/FriendsReunited.ASP?WCI=contactus&email=info&subject=Privacy). You can also use this address if you wish to request from FriendsReunited a copy of the personal data we hold about you or a description of that data. Please note that by law we are entitled to charge you a small sum for providing this information 
+If you have any questions about this Privacy Policy, the practices of the FriendsReunited Service, or your dealings with FriendsReunited, you can contact us [here ](https://web.archive.org/web/20070626122723id_/http%3A//www.friendsreunited.co.uk/FriendsReunited.ASP?WCI=contactus&email=info&subject=Privacy). You can also use this address if you wish to request from FriendsReunited a copy of the personal data we hold about you or a description of that data. Please note that by law we are entitled to charge you a small sum for providing this information 
 
 **9\. Links to third party sites**
 
