@@ -1,45 +1,45 @@
-> *The following text is extracted and transformed from the greatarticles.co.uk privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616034834id_/http%3A//www.greatarticles.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatarticles.co.uk privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626160248id_/http%3A//www.greatarticles.co.uk/privacy.php) for the most accurate reproduction.*
 
-# GreatArticles.co.uk Article Directory
+# GreatArticles.co.uk | Privacy Statement
 
-GreatMoneyArticles.com  Privacy Policy  
-[Effective 17th. October, 2005]
+**How we gather information from users**
 
-**Subscription Forms**  
-GreatMoneyArticles.com uses subscription forms for individuals to request information by subscribing to Email Newsletters based on their categories of interest. We collect visitor's contact information (like your email address) to provide you with the information that you request. We will periodically send you email referring to news and updates to GreatMoneyArticles.com.
+How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, GreatArticles.co.uk also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site's features according to your preferences. 
 
-**Choice / OPT-IN**  
-We provide opt-in opportunities for all email lists that you choose to receive. We use your email addresses to confirm your subscription and validity of the provided email address. Your reply to this email is necessary for completing your subscription to any email list.
+**What we do with the information we collect**
 
-**IP address**  
-We use your IP address, browser type, domain names, and access times, operating system, country of origin, page views, and users sessions to help diagnose problems with our servers, and to administer our Web site. Your IP, etc. address is used to gather broad demographic information.
+Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone. 
 
-**Cookies**  
-A cookie is a piece of data stored on the user's computer. Our site only uses session ID cookies so our advertisement server can deliver proper ad rotation sequences. For example, if three banners are in rotation, the individual gets the proper rotation without duplicates. Usage of a cookie is in no way linked to personally identifiable information while on our site. Further, once a user closes their browser the cookie simply terminates.
+Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually. 
 
-**Links**  
-This site contains links to other sites. GreatMoneyArticles.com is not responsible for the privacy practices or the content of such Web sites. GreatMoneyArticles.com recommends you refer to each Network Member's Privacy Statements.
+We may use Personally Identifiable Information collected on www.GreatArticles.co.uk to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by www.GreatArticles.co.uk and other topics we think you might find of interest. 
 
-**Sharing Information**  
-GreatMoneyArticles.com does not share, sell or rent your email addresses to outside third parties. Personally identifiable information will only be disclosed due to law or court demands (see our legal disclaimer below for more information)..
+Personally Identifiable Information collected by GreatArticles.co.uk may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases. 
 
-**Supplementation of Information**  
-We do not supplement your personally identifiable information with any outside third parties information.
+**Affiliated sites, linked sites and advertisements**
 
-**Correct / Update**  
-Change the email address that you have subscribed with by first unsubscribing with your current email address. Then, resubscribe with your new email address. All email list welcome messages contain the information necessary for subscription and removal from their appropriate list.
+GreatArticles.co.uk expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a www.GreatArticles.co.uk page, certain content that is actually created or hosted by a third party. Also, through GreatArticles.co.uk you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. GreatArticles.co.uk is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party. 
 
-**Unsubscribe**  
-We provide unsubscribe/opt-out opportunities for all email lists that you choose to receive. All email list welcome messages contain the information necessary for removal from the list. Removal from all lists is instant and automated by our servers.
+While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. GreatArticles.co.uk does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties. 
 
-**Surveys**  
-The email addresses and contact information collected via publisher surveys are used solely to compile general statistical data. The users' personally identifiable information is never sold or given out to parties outside GreatMoneyArticles.com. All information is collected via the online form provided.
+You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of GreatArticles.co.uk and this policy. 
 
-**Notification of Changes**  
-GreatMoneyArticles.com will occasionally update our Privacy Policy based on our and users' feedback. If there are any material changes to how we use your personal information, we will notify via email and provide you the opportunity to opt-out prior to any substantial change that has been taken. However, if you have opted out of all communication from GreatMoneyArticles.com you will not be contacted, nor will your personal information be used in this new manner. GreatMoneyArticles.com encourages you to periodically review our privacy policy to be informed of how we are committed to protecting your privacy.
+**Children**
 
-**Legal Disclaimer**  
-Though we make every effort to preserve your privacy, we may need to disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our Web site.
+GreatArticles.co.uk does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe GreatArticles.co.uk has any information from or about anyone under 13, please contact us at the address listed below. 
 
-**Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact us [here](http://www.greatmoneyarticles.com/contacts.php).
+**Contacting Us**
+
+We can be reached by [emailing us](mailto:info@greatarticles.co.uk). 
+
+**Changes to this Policy**
+
+GreatArticles.co.uk reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. 
+
+**Governing law**
+
+This policy and the use of this Site are governed by Washington State law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Seattle. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us. 
+
+If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Seattle, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so. 
+
+This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
