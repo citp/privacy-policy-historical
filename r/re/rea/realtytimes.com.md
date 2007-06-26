@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtytimes.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206005621id_/http%3A//realtytimes.com/rtcpages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtytimes.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626200120id_/http%3A//realtytimes.com/rtcpages/privacy.htm) for the most accurate reproduction.*
 
 # Realty Times - Real Estate News and Advice
 
@@ -70,5 +70,5 @@ From time to time, we may update this privacy notice. We will notify you about m
 
 The Privacy Notice posted on this site was updated on or about August 1, 2006. 
 
-Copyright © 2006 [Realty Times](http://realtytimes.com/rtcpages/contactus4.htm)®. All Rights Reserved.   
+Copyright © 2007 [Realty Times](http://realtytimes.com/rtcpages/contactus4.htm)®. All Rights Reserved.   
 
