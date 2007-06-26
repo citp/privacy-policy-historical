@@ -1,9 +1,16 @@
-> *The following text is extracted and transformed from the planetrecruit.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209091424id_/http%3A//www.planetrecruit.com/static.cgi%3Fm%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetrecruit.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626075917id_/http%3A//www.planetrecruit.com/static.cgi%3Fm%3Dprivacy) for the most accurate reproduction.*
 
 # IT, Telecoms and Engineering job search site - PlanetRecruit
 
 **At PlanetRecruit we are committed to protecting your privacy**  
-PlanetRecruit endeavours to ensure that the information that you submit to us remains private, and that it is used only for the purposes described below. We aim to provide a safe and secure experience for all of our users. 
+PlanetRecruit endeavours to ensure that the information that you submit to us remains private, and that it is used only for the purposes described below. We aim to provide a safe and secure experience for all of our users.
+
+**Disclosure of personal information**  
+Information may be gathered from your registration form(s) and your use of the Sites and/or the Interactive Services including through "cookies". Cookies are blocks of text placed in files on your computer's hard drive when you visit a web site which contain information to identify you. A cookie does not contain any personal information you have provided us with, except your user name, unless the cookie attached to personal information collected another way, such as by means of your on-line registration form.
+
+The information gathered may be used by Hotonline limited and companies in the same group as Hotonline limited (ie companies which share the same ultimate parent company) internally, for purposes relating to your use of the Sites and the Interactive Services and for marketing activities, and may be passed to carefully selected third parties to use for marketing activities. By marketing activities, we mean the communication directly to particular individuals (by e-mail, post or telephone) of any advertising or marketing material. If you do not wish to receive marketing material from Hotonline limited, from companies in the same group as Hotonline limited or from carefully selected third parties you should tick the appropriate box on the registration form(s) or notify us by e-mail. If you subsequently decide you no longer wish to receive direct marketing/information from Hotonline limited or companies in the same group as Hotonline limited or no longer wish us to pass your information to third parties you should again notify us by e-mail. 
+
+Other than as set out elsewhere in this clause 5 your information shall not be disclosed or used by us. You hereby agree to these terms in this clause 5 by your agreement to the terms and conditions of this Agreement.
 
 **What this Privacy Policy covers**   
 This Privacy Policy covers treatment of personally identifiable information that we collect when you are on the PlanetRecruit website, register with PlanetRecruit, set up a job alert with PlanetRecruit or apply for a job via the PlanetRecruit site. This policy does not apply to companies that PlanetRecruit does not own or control, or to people that PlanetRecruit does not employ.
