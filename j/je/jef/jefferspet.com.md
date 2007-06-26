@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jefferspet.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208225632id_/http%3A//www.jefferspet.com/ssc/about_privacy.asp%3FCID%3D0%26mscssid%3DDVCR35P27FPR9NL6HP116753AD4T73P3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jefferspet.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626122841id_/http%3A//www.jefferspet.com/ssc/about_privacy.asp%3FCID%3D0) for the most accurate reproduction.*
 
-# Privacy Policy - Pet Supplies at Jeffers Pet: Online Pet Supplies, Wholesale Pet Supplies, Pet Supply Stores, Discount Pet Supplies
+# Privacy Policy - Discount Pet Supplies, Pet Supply, Online Pet Supplies
 
 Jeffers respects the privacy of every person who visits our websites. This Privacy Statement outlines the information Jeffers will collect and how we will use that information. This Statement will also tell you how you can verify the accuracy of your personal information submitted to Jeffers through our websites and how you can request that we delete or update your personal information. 
 
