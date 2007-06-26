@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackbookmag.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020135324id_/http%3A//www.blackbookmag.com/Legal/Privacy.aqf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackbookmag.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626114152id_/http%3A//www.blackbookmag.com/Legal/Privacy.aqf) for the most accurate reproduction.*
 
 # Privacy Policy
 
