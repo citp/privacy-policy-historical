@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pewinternet.org privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210093132id_/http%3A//www.pewinternet.org/about_policies.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pewinternet.org privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626070455id_/http%3A//www.pewinternet.org/about_policies.asp) for the most accurate reproduction.*
 
 # Pew Internet & American Life Project
 
@@ -16,14 +16,14 @@ All researchers wishing to access the Pew Internet Project data sets will be req
 
 This site contains links to other sites. Pew Internet Project is not responsible for the privacy practices or the content of such Web sites. 
 
-If you have any questions or comments about our website or privacy policy, please contact the [Webmaster](mailto:webmaster@pewinternet.org). 
+If you have any questions or comments about our website or privacy policy, please contact the [Webmaster](mailto:webmaster@;pewinternet.org). 
 
 Permissions/Reprint Policies:  
-_Reprint, Redistribution and Web-posting Guidelines:_ Our reports are free and available to all who download or request them for personal use. 
+_Reprint, Redistribution and Web-posting Guidelines:_ Our reports and slide sets are free and available to all who download or request them for personal use. 
 
-If you wish to reproduce them either on paper or on the Web, please follow the guidelines below: 
+If you wish to reproduce them either on paper or online, please follow the guidelines below: 
 
-It is okay to reproduce a whole document, though we prefer that you link to it on our website. We are a non-profit, non-partisan organization and as such we do not endorse people, products, businesses or positions on issues. Therefore, none of our material may be reproduced in a manner that suggests that we are endorsing anything. It must be obvious that the information/data/report was produced by us. Please credit the Pew Internet & American Life Project, and include the author and title of the document and its release date, and the URL (web address) from which you accessed the document and the date on which you did so. If you'd like to use anything other than our report in its entirety, we ask that you email us at webmaster@pewinternet.org with the selection that you wish to use and how you wish to use it. We respond to all requests promptly. 
+It is okay to reproduce a whole document, though we prefer that you link to it on our website. We are a non-profit, non-partisan organization and as such we do not endorse people, products, businesses or positions on issues. Therefore, none of our material may be reproduced in a manner that suggests that we are endorsing anything. It must be obvious that the information/data/report was produced by us. Please credit the Pew Internet & American Life Project, and include the author and title of the document and its release date, and the URL (web address) from which you accessed the document and the date on which you did so. If you'd like to use anything other than a report in its entirety, we ask that you email us at webmaster@pewinternet.org with the selection that you wish to use and how you wish to use it. We respond to all requests promptly. 
 
 _Citation Guidelines:_ If you intend to cite a Pew Internet & American Life Project report, report excerpt, chart or data point, we suggest that you cite us in your bibliography, endnotes or footnote in the following manner: 
 
@@ -35,4 +35,4 @@ Report Author(s), "Chart or Chapter or section title," Report Title, Pew Interne
 
 An example: 
 
-Fox, Susannah. Older Americans and the Internet: Just 22% go online, but their enthusiasm for email and search may inspire their peers to take the leap. Pew Internet & American Life Project, March 25, 2004, http://www.pewinternet.org/PPF/r/117/report_display.asp, accessed on May 4, 2004. 
+Horrigan, John. A Typology of Information and Communication Technology Users. Pew Internet & American Life Project, May 6, 2007, http://www.pewinternet.org/PPF/r/213/report_display.asp, accessed on May 10, 2007. 
