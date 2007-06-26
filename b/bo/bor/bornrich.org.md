@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bornrich.org privacy policy that was archived on 2006-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061011090319id_/http%3A//www.bornrich.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bornrich.org privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626152817id_/http%3A//www.bornrich.org/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - BornRich - Luxury Blog - Your ultimate guide to the most expensive things in the world including gadgets, wheels, wings, estates, apparel.
 
