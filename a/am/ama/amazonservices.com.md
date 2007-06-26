@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amazonservices.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215222833id_/http%3A//www.amazonservices.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazonservices.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626094015id_/http%3A//www.amazonservices.com/privacy) for the most accurate reproduction.*
 
 # Amazon Business Solutions - Privacy Policy
 
@@ -41,7 +41,7 @@ Information about our customers is an important part of our business, and we are
   * **Use of Third Party Service Providers:** We may, from time to time, employ other companies and individuals to perform functions on our behalf. Examples include sending postal mail and e-mail. They have access to personal information needed to perform their functions, but may not use it for other purposes. 
   * **Promotional Offers:** Sometimes we send offers to selected groups of Amazon Services customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, [please click here](https://web.archive.org/unsubscribe). 
   * **Business Transfers:** As we continue to develop our business, we might sell or buy subsidiaries, or business units. In such transactions, user information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the user consents otherwise). Also, in the unlikely event that Amazon Services, Inc., or substantially all of its assets are acquired, user information will of course be one of the transferred assets. 
-  * **Protection of Amazon Services and Others:** We release personal information when we believe release is appropriate to comply with the law; enforce or apply our [Conditions of Use](https://web.archive.org/web/20061215222833id_/http%3A//terms) and other agreements; or protect the rights, property, or safety of Amazon Services, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice. 
+  * **Protection of Amazon Services and Others:** We release personal information when we believe release is appropriate to comply with the law; enforce or apply our [Conditions of Use](https://web.archive.org/web/20070626094015id_/http%3A//terms) and other agreements; or protect the rights, property, or safety of Amazon Services, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice. 
   * **With Your Consent:** Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information. 
 
 
@@ -51,7 +51,7 @@ Information about our customers is an important part of our business, and we are
 #### What Choices and Access Do I Have?
 
   * As discussed above, you can always choose not to provide information, even though it might be needed to request information about Amazon Services or take advantage of a feature on this site.
-  * If you do not want to receive e-mail or other mail from us, please [click here](https://web.archive.org/unsubscribe). (If you do not want to receive [Conditions of Use](https://web.archive.org/web/20061215222833id_/http%3A//terms) and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of www.amazonservices.com, and it is your responsibility to review them for changes.)
+  * If you do not want to receive e-mail or other mail from us, please [click here](https://web.archive.org/unsubscribe). (If you do not want to receive [Conditions of Use](https://web.archive.org/web/20070626094015id_/http%3A//terms) and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of www.amazonservices.com, and it is your responsibility to review them for changes.)
   * If you do not want to accept cookies, please use the Help portion of the toolbar on your browser to disable cookies. Please see "What About Cookies?" above for more information.
   * [Click here](http://www.amazon.com/exec/obidos/tg/browse/-/501098/002-0524907-7464825) to explore products that offer anonymous browsing. In addition, the Federal Trade Commission provides useful information about online privacy on its own Web site, [Site Seeing on the Internet](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.html). 
 
@@ -67,28 +67,28 @@ Our site may include third-party advertising and links to other Web sites. These
 
 #### Children
 
-Amazon Services, and its Web site www.amazonservices.com, is not intended for use by children under the age of 18.� If you are under 18, you may not submit information about yourself to www.amazonservices.com.
+Amazon Services, and its Web site www.amazonservices.com, is not intended for use by children under the age of 18.? If you are under 18, you may not submit information about yourself to www.amazonservices.com.
 
 * * *
 
 #### Safe Harbor
 
-Amazon Services is an Amazon.com company.� Amazon.com is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and the E.U. For more information about the Safe Harbor and to view our certification, visit the [U.S. Department of Commerce's Safe Harbor](http://www.export.gov/safeharbor/) Web site. If you would like to contact Amazon.com directly about the Safe Harbor program, please send an e-mail to [safeharbor@amazon.com](mailto:safeharbor@amazon.com).
+Amazon Services is an Amazon.com company.? Amazon.com is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and the E.U. For more information about the Safe Harbor and to view our certification, visit the [U.S. Department of Commerce's Safe Harbor](http://www.export.gov/safeharbor/) Web site. If you would like to contact Amazon.com directly about the Safe Harbor program, please send an e-mail to [safeharbor@amazon.com](mailto:safeharbor@amazon.com).
 
 * * *
 
 #### Conditions of Use, Notices, and Revisions
 
-If you choose to visit www.amazonservices.com, your visit and any dispute over privacy is subject to this Privacy Notice and our [Conditions of Use](https://web.archive.org/web/20061215222833id_/http%3A//terms), including limitations on damages, arbitration of disputes, and application of the law of the State of Washington. If you have any concern about privacy at Amazon Services, please [contact us](mailto:info@amazonservices.com) with a thorough description, and we will try to resolve it. 
+If you choose to visit www.amazonservices.com, your visit and any dispute over privacy is subject to this Privacy Notice and our [Conditions of Use](https://web.archive.org/web/20070626094015id_/http%3A//terms), including limitations on damages, arbitration of disputes, and application of the law of the State of Washington. If you have any concern about privacy at Amazon Services, please [contact us](mailto:info@amazonservices.com) with a thorough description, and we will try to resolve it. 
 
-Our business changes constantly, and our Privacy Notice and the [Conditions of Use](https://web.archive.org/web/20061215222833id_/http%3A//terms) will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected users. 
+Our business changes constantly, and our Privacy Notice and the [Conditions of Use](https://web.archive.org/web/20070626094015id_/http%3A//terms) will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected users. 
 
 * * *
 
 #### Related Practices and Information 
 
-  * [Terms of Use](https://web.archive.org/web/20061215222833id_/http%3A//terms)
-  * **Amazon.com Privacy Policy and Conditions of Use:** � If you choose to sell through the Amazon.com platform, your visits to the Amazon.com site, including any disputes over privacy arising out of that activity, will be governed by the Amazon.com Conditions of Use, and the Amazon.com Privacy Policy.
+  * [Terms of Use](https://web.archive.org/web/20070626094015id_/http%3A//terms)
+  * **Amazon.com Privacy Policy and Conditions of Use:**? If you choose to sell through the Amazon.com platform, your visits to the Amazon.com site, including any disputes over privacy arising out of that activity, will be governed by the Amazon.com Conditions of Use, and the Amazon.com Privacy Policy.
 
 
 
@@ -102,7 +102,7 @@ You provide most such information when you use www.amazonservices.com to request
 
 **Automatic Information**
 
-Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; the full Uniform Resource Locator (URL) clickstream to, through, and from our Web site, including date and time; cookie number; pages you viewed or searched for, and the phone number you used to call us.� During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
+Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; the full Uniform Resource Locator (URL) clickstream to, through, and from our Web site, including date and time; cookie number; pages you viewed or searched for, and the phone number you used to call us.? During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
 
 **Information from Other Sources**
 
