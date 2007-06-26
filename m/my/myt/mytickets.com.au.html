@@ -1,0 +1,564 @@
+<!--The following is the downloaded HTML source of the mytickets.com.au privacy policy that was archived on 2007-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070626205234id_/http%3A//www.mytickets.com.au/static/privacy.aspx) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
+	Privacy - MyTickets
+</title><meta name="copyright" content="Copyright (c) 2007 MyTickets"><meta name="description" content="My Tickets.com.au"><link rel="Shortcut Icon" type="image/x-icon">
+	<base href="http://www.mytickets.com.au/static/privacy.aspx">
+
+<!--
+    NOTEZ:
+    Since all HTML referenced files (css, scripts, etc) are in sub-dirs, then all Site.master slave files
+    must be in sub-dirs also to maintain the ../scripts/something.js path reference convention.
+
+-->
+	
+	<!-- stylezzz -->
+	<link rel="stylesheet" type="text/css" href="../style_details.css"><link rel="stylesheet" type="text/css" href="../style_main2.css"><link rel="stylesheet" type="text/css" href="../style_provider.css"><link rel="stylesheet" type="text/css" href="../style_calendar.css"><link rel="stylesheet" type="text/css" href="../style_main_new.css"><link rel="stylesheet" type="text/css" href="../style_static_pages.css">
+    <!--[if lte IE 6]>
+		<link rel="stylesheet" type="text/css" href="../style_ie_new.css" />
+    <![endif]-->
+    <!--[if IE 7]>
+		<link rel="stylesheet" type="text/css" href="../style_ie7.css" />
+    <![endif]-->
+
+    <!-- IE conditional comment for png24 fix removed from here -->
+
+    <!-- other external scripts -->
+    <script language="javascript" type="text/javascript" src="../scripts/framework.js"></script>
+    <script language="javascript" type="text/javascript" src="../scripts/range.js"></script>
+    <script language="javascript" type="text/javascript" src="../scripts/help.js"></script>
+    <script language="javascript" type="text/javascript" src="../scripts/refine.js"></script>
+    <script language="javascript" type="text/javascript" src="../scripts/search.js"></script>
+    <script language="javascript" type="text/javascript" src="../scripts/alerts.js"></script>
+    <script language="javascript" type="text/javascript" src="../scripts/getSessionId.aspx"></script>
+    <script language="javascript" type="text/javascript" src="../scripts/bookmarks.js"></script>
+    <script language="javascript" type="text/javascript" src="../scripts/selector.js"></script>
+    <script language="javascript" type="text/javascript" src="../scripts/cookies.js"></script>
+    <script language="javascript" type="text/javascript" src="../scripts/performancepopup.js"></script>
+    <script language="javascript" type="text/javascript" src="../scripts/searchmanagement.js"></script>
+    <script language="javascript" type="text/javascript" src="../scripts/validation.js"></script>
+    <script language="javascript" type="text/javascript" src="../scripts/action.js"></script>
+    <script language="javascript" type="text/javascript" src="../scripts/venuepopup.js"></script>
+    <script language="javascript" type="text/javascript" src="../scripts/buynowpopup.js"></script>
+    <script language="javascript" type="text/javascript" src="../scripts/calendar.js"></script>
+    <script language="javascript" type="text/javascript" src="../scripts/login.js"></script>
+    <script language="javascript" type="text/javascript" src="../scripts/when.js"></script>
+    <script language="javascript" type="text/javascript" src="../scripts/message.js"></script>
+   
+    <!-- GOOGLE ANALYTICS -->
+    <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+    
+	<script type="text/javascript">
+		_uacct = "UA-683089-2";
+		urchinTracker();
+	</script>
+
+	<script type="text/javascript">
+
+        function init() {
+           // quit if this function has already been called
+           if (arguments.callee.done) return;
+           // flag this function so we don't do the same thing twice
+           arguments.callee.done = true;
+           
+           onDetailsPage = true;
+        };
+
+        /* for Mozilla */
+        if (document.addEventListener) {
+           document.addEventListener("DOMContentLoaded", init, false);
+        }else {
+            /* for other browsers */
+            window.onload = init;
+        }
+
+
+		var cal1;
+		var cal2;
+		var calendarDest;
+		
+        function showHeaderCalendar() {
+			var node = $('calendarDiv');
+			if(node.style.display != "none") {
+    			node.style.display = "none";
+    			return;
+			}
+			node.style.display = "";
+			
+            hideSuggestions();
+            
+            var yesterday = new Date();
+            yesterday.setDate(yesterday.getDate() - 1);
+            
+            cal1 = new CalendarPopup("startCalDiv", false);	//adding false disables autoHide
+            cal1.setReturnFunction("showStartDate");
+            cal1.addDisabledDates(null, formatDate(yesterday,"MM-dd-yyyy"));
+			
+            cal2 = new CalendarPopup("endCalDiv", false);
+			cal2.setReturnFunction("showEndDate");
+			cal2.addDisabledDates(null, formatDate(yesterday,"MM-dd-yyyy"));
+
+            $('startDate').innerHTML = "";
+            var today = new Date();
+			$('startDate').appendChild(document.createTextNode(today.getDate() + " " + getMonthAbbrev(today.getMonth()) + " " +today.getFullYear()));
+
+			cal1.showCalendar('startCalDiv');
+			cal2.showCalendar('endCalDiv');
+            calendarDest = $('when');
+
+			node.parentNode.removeChild(node);
+			document.body.appendChild(node);
+			var attachNode = $('calendar_icon');
+			var popupPos = findPos(attachNode);
+			node.style.top = (popupPos[1]+attachNode.offsetHeight-3)+'px';
+			node.style.left = (popupPos[0]+attachNode.offsetWidth-node.offsetWidth+5)+'px';
+
+			// auto close handlers
+            $addHandler(node,'mouseover',enterCalendarPopup);
+            $addHandler(node,'mouseout',leaveCalendarPopup);
+            $addHandler(document,'mousedown',hideCalendarPopup);
+            hideCalendarFunc = hideCalendars;
+
+			return false;
+        }
+        
+		function showStartDate(y,m,d) {
+			removeAllChildNodes($('startDate'));
+			$('startDate').appendChild(document.createTextNode(d + " " + getMonthAbbrev(m-1) + " " +y));
+			
+			removeAllChildNodes($('endDate'));
+			$('endDate').appendChild(document.createTextNode(d + " " + getMonthAbbrev(m-1) + " " +y));
+			
+			// create a date object
+		    var date = new Date(y,m-1,d);
+		    date.setDate(date.getDate()-1);
+					
+		    cal2.clearDisabledDates();
+		    cal2.addDisabledDates(null,formatDate(date,"MM-dd-yyyy"));
+			
+			cal2.showCalendar('endCalDiv', y + "-" + m + "-" + d);
+			cal1.showCalendar('startCalDiv', y + "-" + m + "-" + d);
+		}
+		
+		function showEndDate(y,m,d) {
+			removeAllChildNodes($('endDate'));
+			$('endDate').appendChild(document.createTextNode(d + " " + getMonthAbbrev(m-1) + " " +y));
+			cal2.showCalendar('endCalDiv', y + "-" + m + "-" + d);
+		}			
+
+		function selectCalDate(){
+			//copy date to when field
+			var dateString = $('startDate').childNodes[0].data;
+			var dateSplit = dateString.split(' ');
+			dateString = dateSplit[0]+"/"+getMonthAbbrevIdx(dateSplit[1])+"/"+dateSplit[2];
+			
+			if($('endDate').childNodes.length > 0) {
+			    dateSplit = $('endDate').childNodes[0].data.split(' ');
+				dateString += " to " + dateSplit[0]+"/"+getMonthAbbrevIdx(dateSplit[1])+"/"+dateSplit[2];
+			}
+			
+			calendarDest.value = dateString;
+			calendarDest.className = normalClass;			
+			
+			hideCalendars();
+			
+			if (calendarDest.id.indexOf("browse")!=-1) {
+			    submitBrowseForm(calendarDest.form);
+			}
+			
+        }
+
+        function hideCalendars() {
+			cal1.hideCalendar();
+			cal2.hideCalendar();
+			$('calendarDiv').style.display = "none";
+        }
+
+        function removeAllChildNodes(node) {
+			for(var i = node.childNodes.length - 1; i > -1; i--) {
+				node.removeChild(node.childNodes[i]);
+			}
+        }
+        
+        /* ##################### AUTO CLOSE CALENDAR FUNCTIONS ######################## */
+
+        var outsideCalendar = false;
+        var hideCalendarFunc = null;
+
+        function enterCalendarPopup() {
+            outsideCalendar = false;
+            return true;
+        }
+
+        function leaveCalendarPopup() {
+            outsideCalendar = true;
+            return true;
+        }
+
+        function hideCalendarPopup(ev) {
+            var caldiv = $('calendarDiv');
+            
+            if(caldiv != null && outsideCalendar) {
+                if (hideCalendarFunc!=null) {
+                    hideCalendarFunc();
+                    $removeHandler(document,'mousedown',hideCalendarPopup);
+                }
+            }
+            return true;
+        }
+        
+    </script>
+
+	<!--[if lt IE 7]>
+	<script language="JavaScript">
+	function correctPNG() // correctly handle PNG transparency in Win IE 5.5 & 6.
+	{
+	   var arVersion = navigator.appVersion.split("MSIE")
+	   var version = parseFloat(arVersion[1])
+	   if ((version >= 5.5) && (document.body.filters)) 
+	   {
+		  for(var i=0; i<document.images.length; i++)
+		  {
+			 var img = document.images[i]
+			 var imgName = img.src.toUpperCase()
+			 if (imgName.substring(imgName.length-3, imgName.length) == "PNG")
+			 {
+				var imgID = (img.id) ? "id='" + img.id + "' " : ""
+				var imgClass = (img.className) ? "class='" + img.className + "' " : ""
+				var imgTitle = (img.title) ? "title='" + img.title + "' " : "title='" + img.alt + "' "
+				var imgStyle = "display:inline-block;" + img.style.cssText 
+				if (img.align == "left") imgStyle = "float:left;" + imgStyle
+				if (img.align == "right") imgStyle = "float:right;" + imgStyle
+				if (img.parentElement.href) imgStyle = "cursor:hand;" + imgStyle
+				var strNewHTML = "<span " + imgID + imgClass + imgTitle
+				+ " style=\"" + "width:" + img.width + "px; height:" + img.height + "px;" + imgStyle + ";"
+				+ "filter:progid:DXImageTransform.Microsoft.AlphaImageLoader"
+				+ "(src=\'" + img.src + "\', sizingMethod='scale');\"></span>" 
+				img.outerHTML = strNewHTML
+				i = i-1
+			 }
+		  }
+	   }    
+	}
+	window.attachEvent("onload", correctPNG);
+	</script>
+	<![endif]-->
+
+    <!--[if IE 5]>
+        <style type="text/css" media="screen, projection">
+            #outer_wrapper {width:expression(document.body.clientWidth < 990 ? "990px" : "auto" )}
+            #wrapper {height:0}
+        </style>
+        <![endif]-->
+    <!--[if IE 6]>
+        <style type="text/css" media="screen, projection">
+            body {width:expression(documentElement.clientWidth < 990 ? "990px" : "auto" )}
+        </style>
+    <![endif]-->
+	
+	<script type="text/javascript">
+        function detailsMasterLoaded() {
+           // init search forms and tracking services
+           initializeSearchFields(document.forms["head_search"]);
+           preloadImages(new Array('../images/shadow_ie.gif'));
+           TrackingAggregateServices.addTrackingAggregateDetails("http://www.mytickets.com.au/static/privacy.aspx",null);
+           autoLogin();
+        };	
+        
+	</script>
+     <script type="text/xml-script">
+        <page xmlns:script="http://schemas.microsoft.com/xml-script/2005">
+            <components>
+                <application load="detailsMasterLoaded">
+                </application>
+            </components>
+        </page>
+    </script>
+
+</head>
+
+<body>
+<div id="container">
+
+<!-------------------- TICKETS LOGO & MASTHEAD SEARCH ### NEED TO ADD 'ADVANCED SEARCH' LINK -------------------->
+	<div id="header">
+
+        <div id="head_top">
+
+            <!-------------------- USER ACCESS-------------------->
+
+		    <div id="user_access">
+	            <div id="login_unauthorized">
+                    <a href="javascript:;" onclick="javascript:showLogin(this,false)">LOGIN</a> · 
+		            <a href="../user/myprofile.aspx" title="Register for a User account">SIGN UP</a> · 
+		            <a href="../static/faq.aspx">HELP</a>
+		            <img alt="PRINT" class="print" src="../images/print.gif" onclick="window.print();">
+		        </div>
+                <div id="login_member" style="display:none">
+                    <a id="login_member_label" href="../user/mytickets.aspx">'S ACCOUNT</a> · 
+                    <a href="javascript:logout()">LOG OUT</a> · 
+                    <a href="../static/faq.aspx">HELP</a>
+		            <img alt="PRINT" class="print" src="../images/print.gif" onclick="window.print();">
+	            </div>
+	            <div id="postit">
+	                <a href="../static/contactus.aspx"><img src="../images/post-it_1.gif" alt="We are new... help us improve" border="0"></a>
+	            </div>
+            </div> <!-- END USER_ACCESS -->
+            
+            <div class="spacer"><!-- empty div --></div>
+        </div>
+
+        <div id="head_bottom">
+
+<!-------------------- MYTICKETS LOGO -------------------->
+
+	        <div id="logo">
+	            <h1>Tickets<span><a href="../Default.aspx" title="mytickets.com.au homepage"><img src="../images/final_logo_master.gif" alt="Tickets" border="0"></a></span></h1>
+	        </div>
+            <h2 id="tagline">Helping you find tickets faster</h2>
+
+<!-------------------- SEARCH HEADER -------------------->
+
+            <div id="head_search_pane">
+		        <form id="head_search" action="../search/search.aspx" method="get" onsubmit="return checkSearchForm(this);">
+
+			        <div class="box">
+			            <a class="field_label" href="javascript:showHelp('what');">what</a>
+			            <div class="spacer"></div>
+			            <input class="watermarked" name="what" tabindex="1" id="what" type="text" autocomplete="off" onkeyup="javascript:autocompUp(event, 'SearchService.WhatWithType');" onkeydown="javascript:if(event.keyCode == 13 &amp;&amp; ($('autocompleteLayer') == null || $('autocompleteLayer').style.visibility=='hidden')){return true;};if(event.keyCode == 13 &amp;&amp; ($('autocompleteLayer') == null || $('autocompleteLayer').style.visibility=='hidden')){return true;};return autocompDown(event, 'what',true);" onblur="javascript:searchFieldBlur(event,true);" onfocus="javascript:searchFieldFocus(event,true);">
+			        </div>
+			        <div class="box">
+			            <a class="field_label" href="javascript:showHelp('where');">where</a>
+			            <div class="spacer"></div>
+			            <input class="watermarked" name="where" tabindex="2" id="where" type="text" autocomplete="off" value="" onkeyup="javascript:autocompUp(event, 'SearchService.WhereWithDetail');" onkeydown="javascript:if(event.keyCode == 13 &amp;&amp; ($('autocompleteLayer') == null || $('autocompleteLayer').style.visibility=='hidden')){return true;};return autocompDown(event, 'where',true);" onblur="javascript:searchFieldBlur(event,true);" onfocus="javascript:searchFieldFocus(event,true);">
+			        </div>
+			        <div class="box">
+			            <a class="field_label" href="javascript:showHelp('when');">when</a>
+			            <div class="spacer"></div>
+			            <input class="watermarked" name="when" tabindex="3" id="when" type="text" autocomplete="off" onkeyup="javascript:autocompUpWhen(event);" onkeydown="javascript:if(event.keyCode == 13 &amp;&amp; ($('autocompleteLayer') == null || $('autocompleteLayer').style.visibility=='hidden')){return true;};return autocompDown(event, 'when');" onblur="javascript:searchFieldBlur(event,true);" onfocus="javascript:searchFieldFocus(event,true);">
+                        <!-- CALENDAR -->
+			            <div class="cal_wrap" style="margin-left: 3px;">
+				            <img id="calendar_icon" src="../images/icon_cal_new_header.gif" onclick="javascript:showHeaderCalendar();" title="open the calendar" border="0" alt="calendar" class="icon_calendar">
+
+				            <!-- calendar divs -->
+                            <div class="popup_shadow" style="display:none;" id="calendarDiv">
+			                    <div class="cal_popup">
+			                        <div class="closeWrap"><img class="close" onclick="javascript:hideCalendars();" src="../images/button_cross.gif"></div>
+			                        <div id="heading_from">From</div>
+			                        <div id="heading_until">Until</div>
+			                        <div class="spacer"><!-- empty div --></div>
+
+				                    <div class="cal" id="startCalDiv"></div>
+				                    <div class="cal" id="endCalDiv" style="margin-left:10px;"></div>
+			                        <div class="spacer"><!-- empty div --></div>
+
+                                    <div id="date_from"><span id="startDate"></span></div>
+                                    <div id="date_until"><span id="endDate"></span></div>
+			                        <div class="spacer"><!-- empty div --></div>
+
+				                    <div id="cal_submit">
+				                        <input type="image" src="../images/button_ok_noarrow.gif" value="OK" onclick="javascript:selectCalDate();">
+				                        <!--
+				                        <input type="image" src="../images/button_cancel.gif" value="Cancel" onclick="javascript:hideCalendars();" />
+				                        -->
+				                    </div>
+			                    </div>
+			                </div>
+			            </div>
+                        <!-- END CALENDAR -->
+			        </div>
+
+			        <div class="box"><input name="submit_search" src="../images/button_search.gif" type="image" tabindex="4" value="search" class="button"></div>
+
+			        <input type="hidden" id="head_when_start" name="whenStart" value="">
+			        <input type="hidden" id="head_when_end" name="whenEnd" value="">
+		        </form>
+		        
+
+            </div>
+
+<!-------------------- LOADING ANIMATION -------------------->
+
+	        <div id="ajax_wait_div" style="display:none;">
+	            <img src="../images/ajaxwait.gif" alt="Waiting for request to complete..">
+	        </div>
+
+        </div><!-- end head_bottom -->        
+        <div class="spacer"><!-- empty div --></div>
+    </div><!-- end header -->
+       
+	<div id="tabsGlobal">
+    	<div id="tabsCorner">
+    	    <img src="../images/tabs_global_corner1.gif" alt="corner" height="2" width="2" style="float:left;">
+    	</div>
+	    <ul>
+		    <li><a href="../explore/explorecategory.aspx" title="Browse">Browse</a></li>
+		    <li><a href="../user/alertshub.aspx" title="Alerts">Alerts</a></li>
+		    <li><a href="../user/requestshub.aspx" title="Request It!">Request It!</a></li>
+		    <li><a href="../user/mytickets.aspx" title="MyAccount">Sign In</a></li>
+	    </ul>
+		<div id="adCentreMenu">
+			<a href="../admin/login.aspx" title="Advertiser Centre">Advertiser Centre</a>
+			<!-- content to be added here pending mockups -->
+		</div>
+        <div class="spacer"></div>
+	</div>       
+        
+	<div id="breadcrumbArea">
+	    <div id="breadcrumb">
+    	    
+	    
+	    </div>
+
+	    <div id="savedSearches">
+	        <a id="savedSearchesLink" class="inactive" href="javascript:;" onclick="savedSearchDropDown(this);" title="My Searches">My Searches</a>
+	        <div id="savedSearchesList" style="display:none"></div>
+	    </div>
+
+        <div class="spacer"></div>
+	    
+	</div>
+
+
+    <!-- MyTickets Content -->
+    <form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjhkZMVFYZW93IDsByv2R5YEfDt8mRL+">
+
+
+<script src="/ScriptResource.axd?d=uknK7v_F1CVpM6FOBAlUkULg2wwdJ1V8cLyhjDaV_m2qNkxEHdHBf6d2fo7--wLDHLBFSqHjgwQHKqi411H39bGjunn_iF2ATPkV3Ef8QwgbvRJuotuHr6DziB-CgllB0&amp;t=633167361818108847" type="text/javascript"></script>
+<script src="../SearchService.asmx/js" type="text/javascript"></script>
+<script src="../TicketsServices.asmx/js" type="text/javascript"></script>
+<script src="../TrackingAggregateServices.asmx/js" type="text/javascript"></script>
+	          
+    
+    	<div id="content">
+            
+
+	<div id="privacyContent">
+	
+	    <h1>Privacy Policy</h1>
+
+        <h2>Maintaining  your privacy</h2>
+        <p>Tickets Pty Ltd owns and operates this site 'MyTickets'. We have created this Privacy Policy to  demonstrate our commitment to maintaining the privacy and accuracy of your  personal information. We take all reasonable precautions to ensure the personal  information we collect, use and disclose is accurate and current. However, the  accuracy of that information depends largely on the information you provide.</p>
+
+        <h2>Collecting  personal information </h2>
+        <p>MyTickets collects aggregated, non-personal statistical information on site visitors such as:</p>
+        <ul>
+          <li>your server's address;</li>
+          <li>your top level domain name;</li>
+          <li>the date and time of your visit to the  site; </li>
+          <li>the pages you accessed and the  documents downloaded; </li>
+          <li>the duration of your visit to the site;</li>
+          <li>the previous site you have visited; and</li>
+          <li>the type of web browser you are using. </li>
+        </ul>
+
+        <h2>Cookies</h2>
+        <p>Cookies are small pieces of  information sent to your browser to authenticate, track, and maintain specific information about your  interactions with a site. MyTickets uses cookies to allow you to use  specific services such as Ticket Alerts (a service which sends you event  information by email or SMS) to remember who you are if you choose Auto Login  and to remember your saved search criteria for My Searches. The type of  information we collect depends on what services you sign up for. </p>
+        <p>You can instruct your browser  to refuse cookies, although this may prevent access to or limit some of our  services.</p>
+
+        <h2>Registration</h2>
+        <p>Registration for MyTickets  services is completely optional. All information provided when registering for MyTickets  services including name, address, email address, telephone numbers, and  entertainment preferences can be viewed, modified or deleted at any time by  going to the 'My Account' area of the site.</p>
+
+        <h2>Using personal information</h2>
+        <p>My Tickets does not use or  disclose your personal information for a purpose other than that for which it  was collected, unless such use or disclosure would be reasonably expected or  you give us your consent.</p>
+        <p>We may also collect personal information about you when you purchase tickets, vouchers, merchandise  or other products from us or our partners. This information would usually be  collected for the purpose of giving effect to the transaction.</p>
+        <p>Your personal information may also be used to:</p>
+        <ul>
+          <li>market products, services and special offers to you;</li>
+          <li>verify your identity;</li>
+          <li>assist you to subscribe to any newsletter or other promotions we offer or may in the future offer and to manage and administer those services;</li>
+          <li>make changes to your profile;</li>
+          <li>respond to any queries or feedback you may have;</li>
+          <li>inform you of ways the services provided to you could be improved;</li>
+          <li>research and develop our services;</li>
+          <li>maintain and develop our business systems; </li>
+          <li>gain a better understanding of your information service requirements; and</li>
+          <li>conduct appropriate checks for credit-worthiness or fraud.</li>
+        </ul>
+
+        <h2>Disclosing personal information</h2>
+        <p>We may use third-party advertising companies (such as DoubleClick and Accipiter) to serve ads on our web site. These companies may  use information (not personal or contact details) about your visits to this web  site to measure advertising effectiveness and to provide advertisements about  goods and services of interest to you.</p>
+
+        <h2>Links to third party sites</h2>
+        <p>My Tickets contains links to third party sites. These linked sites are not under our control. We are not responsible for the privacy  practices of those sites and do not know whether cookies or other tracking  devices are used on linked sites. We recommend that you review the privacy  policies of each site you visit before disclosing your personal information.</p>
+
+        <h2>Securing your personal information</h2>
+        <p>All personal information held by MyTickets is stored on secure servers that are protected in a controlled environment. You should be aware however that due to  the open nature of the Internet, information exchanged via the Internet may be  accessed and used by people other than those for whom the data is intended. If  you provide or send us any personal information, it is sent at your own risk. Although  we endeavour to keep your personal information secure, MyTickets will not be  held responsible for any unauthorised access and use of your personal  information.</p>
+        <p>To help us keep your personal information secure, you should at all times keep  your password and accounts used on the MyTickets site confidential. If you  become aware of unauthorised usage of your account you should contact us  immediately.</p>
+
+        <h2>Privacy changes</h2>
+        <p>To keep this information current and accurate, MyTickets will review and update this Privacy Policy and  post the changes here.</p>
+
+        <h2>Contact us</h2>
+        <p>Please contact us to find out more about our procedures and policies in relation to the collection, use, disclosure, storage and handling of personal information.</p>
+        <p>If at any time you wish to know what information we are holding about you, think we may hold information about you which is incorrect / out of date, you request we delete your personal information, or   link(s);  &nbsp;you have any questions about  our Privacy Policy, you can contact us on: </p>
+        <p>Email: <a href="mailto:support@tickets.com.au">support@tickets.com.au</a><br>
+        Phone: +61 02 9251 2353<br>
+        Post: User Help Desk<br>
+        MyTickets<br>
+        Level 8, 35 Pitt Street Sydney NSW 2000<br>
+        Australia</p>
+        <p>If you still require further information then you  should contact the Office of the Federal Privacy Commissioner whose details  follow: <br>
+        Phone: Privacy  Hotline on 1300-363-992; or <br>
+        Web: <a href="http://www.privacy.gov.au" title="Privacy Hotline Website">www.privacy.gov.au</a> <br>
+        Post: The  Federal Privacy Commissioner<br>
+        GPO Box 5218<br>
+        Sydney NSW 1042.</p>
+
+	</div><!-- END privacyContent -->
+
+
+        </div>
+    
+
+<script type="text/javascript">
+<!--
+Sys.Application.queueScriptReference('/ScriptResource.axd?d=pJY2ZaVg12hroPWWadBxx_PKR0plBbJFpLv5b70k6AxtVAuAgYN52FuVqQ7E-KW4B5mfPcbW2ZWxX15W-We3-0e-bOfrLIqzy7KQFdTuwEc1&t=633167362283315706');
+Sys.Application.queueScriptReference('/ScriptResource.axd?d=pJY2ZaVg12hroPWWadBxx_PKR0plBbJFpLv5b70k6AxtVAuAgYN52FuVqQ7E-KW4B5mfPcbW2ZWxX15W-We3-3sw1yslf8J_nljGUe4bhRU1&t=633167362283315706');
+Sys.Application.initialize();
+// -->
+</script>
+</form>
+
+    <div class="spacer"><!-- empty div --></div>
+
+    <!-------------------- FOOTER -------------------->
+	
+        <div id="footer">
+	        <div id="footerBoxWrap">	
+			    <div class="footerBox">
+				    <div class="top"></div>
+				    <div class="body">
+					    <p><a style="color:Black;" href="../user/mytickets.aspx">MY ACCOUNT</a></p>
+					    <div class="links"><a href="../user/alertshub.aspx">ALERTS</a> | <a href="../user/requestshub.aspx">&nbsp;REQUESTS</a> | <a href="../user/mytickets.aspx">&nbsp;MORE</a></div>
+				    </div>
+				    <div class="bottom"></div>
+			    </div>
+			    <div class="footerBox">
+				    <div class="top"></div>
+				    <div class="body">
+					    <p><a style="color:Black;" href="../static/faq.aspx">HELP &amp; INFO</a></p>
+					    <div class="links"><a href="../static/faq.aspx">FAQ</a> | <a href="../static/sitemap.aspx">&nbsp;SITE MAP</a> | <a href="../static/sitetour.aspx">&nbsp;SITE TOUR</a> | <a href="../admin/login.aspx">&nbsp;ADVERTISE</a></div>
+				    </div>
+				    <div class="bottom"></div>
+			    </div>
+			    <div class="footerBox">
+				    <div class="top"></div>
+				    <div class="body">
+					    <p><a style="color:Black;" href="../static/aboutus.aspx">MY TICKETS</a></p>
+					    <div class="links"><a href="../static/aboutus.aspx">ABOUT US</a> | <a href="../static/privacy.aspx">&nbsp;PRIVACY</a> | <a href="../static/termsofuse.aspx">&nbsp;TERMS OF USE</a></div>
+				    </div>
+				    <div class="bottom"></div>
+			    </div>
+			    <div class="spacer"></div>
+		    </div>
+		    <div class="copyright"><br><p>© Copyright 2007 Tickets PTY LTD</p></div>
+        </div>
+
+    
+    </div><!-- END CONTAINER -->
+
+
+</body></html>
