@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asiaregistry.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207085125id_/http%3A//www.asiaregistry.com/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiaregistry.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626072120id_/http%3A//www.asiaregistry.com/policies/privacy.html) for the most accurate reproduction.*
 
-# Italy Domain Names | Asia Registry
+# Asia Registry Privacy and Policy | Asia Registry
 
 ## Introduction
 
