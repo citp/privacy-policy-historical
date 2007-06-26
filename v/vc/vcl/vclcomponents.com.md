@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vclcomponents.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217230539id_/http%3A//www.vclcomponents.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vclcomponents.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626043827id_/http%3A//www.vclcomponents.com/privacy_policy) for the most accurate reproduction.*
 
-# VCL Components - ASP, ASP.NET, Assembler, Basic, C#, C/C++, CFML, CGI/PERL, Delphi, Flash, HTML, Java, JavaScript, LISP, Pascal, PHP, Python, SQL, Visual Basic & VB.NET, XML Components
+# VCL Components - Components, Scripts, Source Code
 
 VCL Components values Your privacy.
 
