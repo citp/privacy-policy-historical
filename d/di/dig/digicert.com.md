@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digicert.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018030821id_/http%3A//www.digicert.com/digicert-privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digicert.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626181357id_/http%3A//www.digicert.com/digicert-privacy-policy.htm) for the most accurate reproduction.*
 
 # SSL Certificate Security - DigiCert Privacy Policy
 
@@ -30,7 +30,7 @@ Unsolicited Bulk Email, or "Spam"
 digicert.com retains an opt-in subscription list for its newsletter. Only addresses that have been voluntarily and individually subscribed are on this list, and they may be unsubscribed at any time. DigiCert does not send unsolicited bulk-email/spam.
 
 Spam Abuse (Notice to DigiCert Partners)  
-DigiCert does not allow spamming in association with our site, brand, or products. If you have received spam from a reseller advertising DigiCert products or services, please report it immediately to [abuse@digicert.com](mailto:abuse@digicert.com). Forward the entire message with all headers intact; resellers that send unsolicited bulk email are in direct violation of the reseller agreement, and will be prosecuted.
+DigiCert does not allow spamming in association with our site, brand, or products. If you have received spam from a reseller advertising DigiCert products or services, please report it immediately to [legal@digicert.com](mailto:legal@digicert.com). Forward the entire message with all headers intact; resellers that send unsolicited bulk email are in direct violation of the reseller agreement, and will be prosecuted.
 
 Newsletter (Unsubscribe/Opt-Out)  
 DigiCert provides a simple tool from within your customer account to subscribe or unsubscribe to our monthly newsletter. To unsubscribe from the DigiCert Newsletter you will follow the instructions provided within the newsletter or send an email to support@digicert.com requesting to be removed from our opt-in mail list.
@@ -45,9 +45,12 @@ Step 3 - Under the [Receive Emails?] column select the No radial option to unsub
 
 
 Information automatically collected by DigiCert Sites  
-As is true of most Web sites; we gather certain information automatically and store it in log files on our servers. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. Such information is used to better understand how visitors navigate through our Sites, to enhance your experience while using our Sites, and to make the materials as valuable to visitors as possible. We do not link this information to personally identifiable information.
+As is true of most Web sites, we gather certain information automatically and store it in log files on our servers. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. Such information is used to better understand how visitors navigate through our Sites, to enhance your experience while using our Sites, and to make the materials as valuable to visitors as possible. We do not link this information to personally identifiable information.
 
 Note: In addition we may from time-to-time utilize a third-party tracking service to assist in the collection and analysis of such data/information. Cookies are used to track non-personally identifiable information about our visitors, similar to the information collected and stored in our server log files.
+
+Live Chat Sales/Support  
+DigiCert utilizes an internal live chat tool for assisting our customers with sales questions and technical support needs; in addition to the customer's name and email address (for purposes of communication), this tool collects information in accordance with "Information automatically collected by DigiCert Sites" above.
 
 Agents  
 We use an outside payment gateway and credit card processing company to bill you for goods and services. These companies do not retain, share, store or use personally identifiable information for any other purposes.
@@ -90,10 +93,11 @@ Our Sites include links to other Web sites whose privacy practices may differ fr
 Legal Disclaimer  
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
 
-If we make material changes to this policy, we will notify you here in our Privacy Policy and a prominent notice will be posted on our website.
+Material Changes to Privacy Policy  
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
 TRUSTe Licensee Statement  
-DigiCert, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user�s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site http://www.digicert.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+DigiCert, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site http://www.digicert.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
 If you have questions or concerns regarding this statement, you should first contact DigiCert's Privacy Department at privacy@digicert.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php.
 
@@ -115,15 +119,14 @@ Email: support@digicert.com
 
 Web: www.digicert.com
 
-Last Updated on 08/15/2005  
-
+Effective Date of Privacy Policy  
+Effective Date: 08/15/2005  
+Last Updated: 06/21/2007 
 
 ## DigiCert Legal Repository
 
   
 You can view the DigiCert Legal Repository by clicking here: [DigiCert Legal Repository](http://www.digicert.com/ssl-cps-repository.htm)
 
-To purchase a DigiCert SSL Certificate click the Buy Now button ...  
-  
 [](https://www.digicert.com/order/orderform.php?hProdID=1)  
 
