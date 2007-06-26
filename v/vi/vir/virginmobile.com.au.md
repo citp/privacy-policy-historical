@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the virginmobile.com.au privacy policy that was archived on 2006-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060821215806id_/http%3A//virginmobile.com.au/privacy_security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginmobile.com.au privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626044551id_/http%3A//www.virginmobile.com.au/privacy_security.html) for the most accurate reproduction.*
 
-# Virgin Mobile Australia - mobile phones, cheap calls, free voicemail and no long-term contracts
+# Mobile phones, great rates, free voicemail in Oz: that's Virgin Mobile Australia!
 
-A little matter of privacy 
+A little matter of privacy
 
 This Privacy Policy explains how your personal information will be treated when you use the web site at "www.virginmobile.com" (“web site”) or when any goods or services are offered to you by or on behalf of Virgin Mobile (Australia) Pty Ltd (ABN 67 092 726 442) (“Virgin Mobile”). 
 
@@ -12,7 +12,7 @@ In addition to this Privacy Policy, there may also be additional privacy provisi
 
   
 **1\. What is this policy about?**  
-This policy explains the key measures we have taken to implement the requirements of the Telecommunications Act 1997 and the Privacy Act 1998, which implements the National Privacy Principles. It aims to answer the questions you might have about how we collect, use and disclose your personal information. If you have any further questions about Virgin Mobile’s privacy practices, please contact the Virgin Mobile team on 1300 555 100 and ask for the Privacy Officer or email us at privacy@virginmobile.com.au. Media enquiries should be made to The Press Office on (02) 9338 6000.
+This policy explains the key measures we have taken to implement the requirements of the Telecommunications Act 1997 and the Privacy Act 1998, which implements the National Privacy Principles. It aims to answer the questions you might have about how we collect, use and disclose your personal information. If you have any further questions about Virgin Mobile’s privacy practices, please contact the Virgin Mobile team on 1300 555 100 and ask for the Privacy Officer or email us at privacy@virginmobile.com.au. Media enquiries should be made to The Press Office on (02) 9028 1600.
 
 **2\. What information have you collected about me?**  
 We hold information that you have provided to us about yourself, and information about your use of our services such as billing and calling information. The information that we collect will depend on how you use the facilities offered by Virgin Mobile. Information that you might have provided to us includes:
