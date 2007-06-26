@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the bjs.com privacy policy that was archived on 2006-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061101143534id_/http%3A//www.bjs.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bjs.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627000836id_/http%3A//www.bjs.com/about/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - BJ's Wholesale Club
 
 ## Privacy Policy
 
 **Effective Date: September 20, 2001  
-Last Updated: October 17, 2006**
+Last Updated: March 22, 2007**
 
 This Privacy Policy describes our privacy practices with respect to information we collect about our Members and other customers and visitors who (1) shop in our warehouse clubs or purchase products through our web site(s) or (2) register to use our web site(s).
 
@@ -90,7 +90,7 @@ If you do not want to receive Promotional Material from us and you prefer that w
 **To change your e-mail preferences** to indicate that you do not want to receive Promotional Materials via e-mail, you can modify your e-mail marketing preferences right now [online](https://web.archive.org/member/update/update.start.display).
 
   * **To change all other marketing preferences** either:
-  * Call BJ’s Member Care at 1-800-BJS-CLUB any day from 7:00 A.M. to 11:00 P.M. ET.
+  * Call BJ’s Member Care at 1-800-BJS-CLUB (1-800-257-2582) Monday – Friday, 8:00 A.M. – 6:00 P.M. ET. and Saturday – Sunday, 9:00 A.M. – 6:00 P.M. ET.
   * Write us at the following address: BJ’s Wholesale Club, Inc., One Mercer Road, Natick, MA 01760, Attn: BJ’s Member Care
 
 
@@ -102,7 +102,7 @@ Please be advised that even if you choose to opt-out of all forms of communicati
 You may update, review or correct your account information, including your marketing preferences, at any time by:
 
   * Accessing your [Online Profile](https://web.archive.org/member/login.start) via the "Login" link on the _BJs.com_ Home Page
-  * Calling BJ’s Member Care at 1-800-BJS-CLUB any day from 7:00 A.M. to 11:00 P.M. ET.
+  * Calling BJ’s Member Care at 1-800-BJS-CLUB (1-800-257-2582) Monday – Friday, 8:00 A.M. – 6:00 P.M. ET. and Saturday – Sunday, 9:00 A.M. – 6:00 P.M. ET.
   * Writing us at the following address: BJ’s Wholesale Club, Inc., One Mercer Road, Natick, MA 01760, Attn: BJ’s Member Care
 
 
@@ -145,4 +145,4 @@ We encourage parents to take an active interest in their children's use of the I
 
 **If you feel that BJ’s is not abiding by its posted Privacy Policy, please notify BJ’s[online](https://web.archive.org/member/service/service.enter.display) or by writing to BJ’s Wholesale Club, Inc., One Mercer Road, Natick, MA 01760, Attn: Member Care.**
 
-©2006 BJ's Wholesale Club, Inc.
+©2007 BJ's Wholesale Club, Inc.
