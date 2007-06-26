@@ -1,11 +1,60 @@
-<!--The following is the downloaded HTML source of the indiewire.com privacy policy that was archived on 2006-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061205215655id_/http%3A//www.indiewire.com/legal/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the indiewire.com privacy policy that was archived on 2007-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070626105215id_/http%3A//www.indiewire.com/legal/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>indieWIRE &gt; Privacy</title>
 <link rel="stylesheet" href="/style.css" type="text/css">
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+
+<script src="/indepth/main_content/inDepth.js" type="text/javascript" language="javascript"></script>
+
+<!-- SCRIPT TO SET COOKIE FOR SITE MAP TOGGLE -->
+<script language="JavaScript">
+<!--
+function setMyCookie(name, value, expires, path, domain, secure) {
+  var curCookie = name + "=" + escape(value) +
+      ((expires) ? "; expires=" + expires.toGMTString() : "") +
+      ((path) ? "; path=" + path : "") +
+      ((domain) ? "; domain=" + domain : "") +
+      ((secure) ? "; secure" : "");
+  document.cookie = curCookie;
+}
+
+function getMyCookie(name) {
+  var dc = document.cookie;
+  var prefix = name + "=";
+  var begin = dc.indexOf("; " + prefix);
+  if (begin == -1) {
+    begin = dc.indexOf(prefix);
+    if (begin != 0) return null;
+  } else
+    begin += 2;
+  var end = document.cookie.indexOf(";", begin);
+  if (end == -1)
+    end = dc.length;
+  return unescape(dc.substring(begin + prefix.length, end));
+}
+
+function deleteCookie(name, path, domain) {
+  if (getMyCookie(name)) {
+    document.cookie = name + "=" +
+    ((path) ? "; path=" + path : "") +
+    ((domain) ? "; domain=" + domain : "") +
+    "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+  }
+}
+
+function fixDate(date) {
+  var base = new Date(0);
+  var skew = base.getTime();
+  if (skew > 0)
+    date.setTime(date.getTime() - skew);
+}
+
+// -->
+</script>
+
 <script language="JavaScript">
 <!--
 function makePCWindow(URL){
@@ -88,7 +137,7 @@ function getCookie(cname) {
 </script><nobr>You are not logged in: <a href="/edit.cgi">login</a> or <a href="/signup.cgi">join</a></nobr><br>
 
 
-<a href="/online.cgi">3 members and 139 visitors</a> online</div>
+<a href="/online.cgi">1 member and 61 visitors</a> online</div>
 <img src="/img/spacer.gif" alt="" width="1" height="12" border="0"><br>
 
 
@@ -103,22 +152,217 @@ function getCookie(cname) {
 
 <div id="topnav">
 <ul class="nav">
-<li><a href="/leadstories/">lead stories</a></li>
-<li><a href="/ots/">on the scene</a></li>
-<li><a href="/movies/">movies</a></li>
-<li><a href="/calendar/">calendar</a></li>
-<li><a href="/insider/">insider</a></li>
-<li><a href="/indepth/">in depth</a></li>
-<li><a href="http://social.indiewire.com/">community</a></li>
-<li><a href="/community/blogs/">blogs</a></li>
+	<li><a href="/leadstories/">lead stories</a></li>
+	<li><a href="/ots/">on the scene</a></li>
+	<li><a href="/insider/">insider</a></li>
+	<li><a href="/movies/">movies</a></li>
+	<li><a href="/buzz/">buzz</a></li>
+	<li><a href="/ipop/">ipop</a></li>
+	<li><a href="/video/">video</a></li>
+	<li><a href="/indepth/">in depth</a></li>
+	<li><a href="http://social.indiewire.com/">indieLOOP</a></li>
+	<li><a href="/community/blogs/">blogs</a></li>
+	<li><a href="javascript:toggleSiteMap('sitemap');"><font color="#ffff99">site map</font></a></li>
 </ul>
+</div>
+
+<style type="text/css" media="screen">
+	#sitemap {
+		width:724px;
+		margin:0px;
+		padding:0px 0px 0px 6px;
+		background-color: #ffff99;
+		z-index: -1px;
+		}
+	
+	#sitemap .sitemap_title a:link {color:blue; text-decoration:underline; font-style:bold;}
+	#sitemap .sitemap_title a:visited {color:blue; text-decoration:underline;}
+	#sitemap .sitemap_title a:active {color:blue; text-decoration:underline;}
+	#sitemap .sitemap_title a:hover{color:white; text-decoration:underline; background-color:#0000DD;}
+		
+	#sitemap blockquote a:link {color:blue; text-decoration:none; font-style:bold;}
+	#sitemap blockquote a:visited {color:blue; text-decoration:none;}
+	#sitemap blockquote a:active {color:blue; text-decoration:none;}
+	#sitemap blockquote a:hover{color:white; text-decoration:underline; background-color:#0000DD;}
+
+	#sitemap blockquote {
+		margin:0px 3px 0px 0px;
+		font: 11px Verdana, Arial, sans-serif;
+		line-height:150%;
+	}
+
+	.sitemap_title {
+		font: bold 11px Verdana, Arial, sans-serif;
+		color: red;
+		margin:0px 3px 6px 0px;
+	}
+</style>
+
+<script language="JavaScript">
+<!--
+/* CODE FOR INITIAL PAGE LOAD */
+
+var cookie_expire_date = new Date("December 31, 2023");
+var cookiepath = "/";
+
+var cookievalue = getMyCookie("sitemapCookie");
+
+if (!cookievalue) {
+	cookievalue = 1;
+	setMyCookie("sitemapCookie", cookievalue, cookie_expire_date, cookiepath);
+	document.write("<div id='sitemap' style='display:block; height:193px; overflow:hidden;'>");
+}
+
+else {
+	if (cookievalue == 1)
+		document.write("<div id='sitemap' style='display:block; height:193px; overflow:hidden;'>");
+	
+	if (cookievalue == 0)
+		document.write("<div id='sitemap' style='display:none; height:193px; overflow:hidden;'>");
+}
+
+
+/* CODE TO HANDLE A "site map" OR "[X] close" LINK CLICK */
+
+function toggleSiteMap(objname){
+  if(document.getElementById(objname).style.display == "none"){
+	// set cookievalue to 1
+	cookievalue = 1;
+	setMyCookie("sitemapCookie", cookievalue, cookie_expire_date, cookiepath);
+	
+    // div is hidden, so let's slide down
+    slidedown(objname);
+  }else{
+	// set cookievalue to 0
+	cookievalue = 0;
+	setMyCookie("sitemapCookie", cookievalue, cookie_expire_date, cookiepath);
+	
+    // div is not hidden, so slide up
+    slideup(objname);
+  }
+}
+// -->
+</script><div id="sitemap" style="display:block; height:193px; overflow:hidden;">
+
+
+	<table border="0" cellspacing="3" cellpadding="3" style="text-align:left;">
+		<tbody><tr>
+			<td valign="top" style="border-right:dashed 1px #dede85;">
+				<div class="sitemap_title"><a href="/ots/">on the scene</a></div>
+				<blockquote>
+					<a href="/afifest/">afi</a><br>
+					<a href="/berlin/">berlinale</a><br>
+					<a href="/cannes/">cannes</a><br>
+					<a href="/laff/">los angeles</a><br>
+					<a href="/parkcity/">park city</a><br>
+					<a href="/sfiff/">san francisco</a><br>
+					<a href="/sxsw/">sxsw</a><br>
+					<a href="/toronto/">toronto</a><br>
+					<a href="/tribeca/">tribeca</a><br>
+				</blockquote>
+			</td>
+			
+
+			<td valign="top" style="border-right:dashed 1px #dede85;">
+				<div class="sitemap_title"><a href="/insider/">insider</a></div>
+				<blockquote>
+					<a href="/biz/">biz</a><br>
+					<a href="/people/">people</a><br>
+					<a href="/boxoffice/">box office</a><br>
+				</blockquote>
+				
+				<br>
+				<div class="sitemap_title"><a href="/movies/">movies</a></div>
+				<blockquote>
+					<a href="/movies/reviews/">reviews</a><br>
+				</blockquote>
+			</td>
+			<td valign="top" style="border-right:dashed 1px #dede85;">
+				<div class="sitemap_title"><a href="/buzz/">buzz</a></div>
+				<blockquote>
+					<a href="/buzz/acquisitions.html">acquisitions</a><br>
+					<a href="/buzz/awards.html">awards</a><br>
+					<a href="/buzz/events.html">events</a><br>
+					<a href="/buzz/festivals.html">festivals</a><br>
+					<a href="/buzz/honors.html">honors</a><br>
+					<a href="/buzz/industry_moves.html">industry moves</a><br>
+					<a href="/buzz/people.html">people</a><br>
+					<a href="/buzz/">more ...</a><br>
+				</blockquote>
+			</td>
+			<td valign="top" style="border-right:dashed 1px #dede85;">
+				<div class="sitemap_title"><a href="/ipop/">ipop</a></div>
+				<blockquote>
+					<a href="/ipop/afi_los_angeles_international_film_festival/">afi</a><br>
+					<a href="/ipop/berlin_international_film_festival/">berlinale</a><br>
+					<a href="/ipop/cannes_on_the_scene/">cannes</a><br>
+					<a href="/ipop/sundance_film_festival/">sundance</a><br>
+					<a href="/ipop/">more ...</a><br>
+				</blockquote>
+				
+				<br>
+				<div class="sitemap_title"><a href="/video/">video</a></div>
+			</td>
+			<td valign="top" style="border-right:dashed 1px #dede85;">
+				<div class="sitemap_title"><a href="/indepth/">in depth</a></div>
+				<blockquote>
+					<a href="/awards/">awards watch</a><br>
+					<a href="/boxoffice/">box office</a><br>
+					<a href="/documentary/">documentary</a><br>
+					<a href="/queercinema/">queer cinema</a><br>
+					<a href="/shorts/">shorts</a><br>
+					<a href="/gems/">undiscovered gems</a><br>
+					<a href="/worldcinema/">world cinema</a><br>
+				</blockquote>
+			</td>
+			<td valign="top" style="border-right:dashed 1px #dede85;">
+				<div class="sitemap_title"><a href="http://social.indiewire.com/">indieLOOP</a></div>
+				<blockquote>
+					<a href="http://social.indiewire.com/group_forum/forums.php">forum</a><br>
+					<a href="http://social.indiewire.com/events_list.php">events</a><br>
+					<a href="http://social.indiewire.com/browse_listing.php">classifieds</a><br>
+				</blockquote>
+				
+				<br>
+				<div class="sitemap_title"><a href="/community/blogs/">blogs</a></div>
+				<blockquote>
+					<a href="/community/blogs/blogs_we_house.html">blogs we house</a><br>
+					<a href="/community/blogs/blogs_we_love.html">blogs we love</a><br>
+				</blockquote>
+			</td>
+			<td valign="top" style="border-right:dashed 1px #dede85;">
+				<div class="sitemap_title"><a href="/about/">about</a></div>
+				<blockquote>
+					<a href="/about/team.html">the team</a><br>
+					<a href="/contact/">contact</a><br>
+					<a href="/legal">legal</a><br>
+					<a href="/legal/privacy.html">privacy</a><br>
+				</blockquote>
+			</td>
+			<td valign="top">
+				<div class="sitemap_title"><a href="/advertise/">advertise</a></div>
+				<blockquote>
+					<a href="/advertise/indieWIRE_RateSheet.pdf">rates (PDF)</a><br>
+					<a href="/advertise/press.html">press &amp; quotes</a><br>
+					<a href="/advertise/blogads.html">blog ads</a><br>
+					<a href="/advertise/sponsorship.html">sponsorship</a>
+				</blockquote>
+				
+				<blockquote style="margin-top:60px;">
+					<a href="javascript:toggleSiteMap('sitemap');"><b>[X]</b> close</a>
+				</blockquote>
+			</td>
+		</tr>
+	</tbody></table>
 </div>
 
 
   <table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr>
   <td class="main-content" valign="top"><div id="blog">
   
-<div style="background:#FDE8D2; padding:12px; margin-bottom:6px;"><a href="/legal/">legal</a> | <a href="/legal/privacy.html">privacy</a></div>
+<a href="/about/"><img src="/ads/internal/about_top.gif" alt="ABOUT" width="550" height="50" border="0"></a>
+
+<div style="background:#FDE8D2; padding:12px; margin-bottom:6px;"><a href="/about/">about</a> | <a href="/about/team.html">the team</a> | <a href="/contact/">contact</a> | <a href="/legal/">legal</a> | <a href="/legal/privacy.html">privacy</a> | <a href="/advertise/"><font color="#006b00">advertise</font></a></div>
 
 <h1>indieWIRE Privacy Statement</h1>
 
@@ -180,10 +424,150 @@ For questions or for any further information, please contact us at: <a href="mai
 
 </td>
 
-<td bgcolor="#FFCC9A" valign="top" width="48"><img src="http://v9.indiewire.com/img/spacer.gif" alt="" border="0" height="10" width="48"><br></td>
-
+<td bgcolor="#66ccff" background="/ads/internal/about_bg.gif" valign="top" width="48"><a href="/about/"><img src="/ads/internal/about_side.gif" alt="ABOUT" width="48" height="853" border="0"></a><br></td>
 <td background="/img/border_right.gif" valign="top" width="16"><img src="/img/border_topright.jpg" alt="" border="0" height="132" width="16"><br><img src="/img/spacer.gif" alt="" border="0" height="100" width="16"><br></td>
 </tr></tbody></table>
+<center><img src="/img/bottom_ds.gif" width="810" height="16" alt=""></center>
+
+<style type="text/css" media="screen">
+	#sitemap2 {
+		/* background: #5996c5 url(/img/sitemap2_bg.gif); */
+		margin:0px;
+		}
+	
+	#sitemap2 .sitemap2_title a:link {color:#ffffff; text-decoration:underline; font-style:bold;}
+	#sitemap2 .sitemap2_title a:visited {color:#ffffff; text-decoration:underline;}
+	#sitemap2 .sitemap2_title a:active {color:#ffffff; text-decoration:underline;}
+	#sitemap2 .sitemap2_title a:hover{color:#ffffff; text-decoration:underline;}
+	
+	#sitemap2 blockquote a:link {color:#ffffff; text-decoration:none; font-style:bold;}
+	#sitemap2 blockquote a:visited {color:#ffffff; text-decoration:none;}
+	#sitemap2 blockquote a:active {color:#ffffff; text-decoration:none;}
+	#sitemap2 blockquote a:hover{color:#ffffff; text-decoration:underline;}
+	
+	#sitemap2 blockquote {
+		margin:0px 3px 0px 0px;
+		font: 10px Verdana, Arial, sans-serif;
+		line-height:150%;
+	}
+	
+	.sitemap2_title {
+		font: bold 10px Verdana, Arial, sans-serif;
+		margin:0px 3px 10px 0px;
+	}
+</style>
+
+<div id="sitemap2">
+	<center>
+	<table border="0" cellspacing="3" cellpadding="3" style="text-align:left;">
+		<tbody><tr>
+			<td valign="top" style="border-right:dashed 1px #106DB4;">
+				<div class="sitemap2_title"><a href="/ots/">on the scene</a></div>
+				<blockquote>
+					<a href="/afifest/">afi</a><br>
+					<a href="/berlin/">berlinale</a><br>
+					<a href="/cannes/">cannes</a><br>
+					<a href="/laff/">los angeles</a><br>
+					<a href="/parkcity/">park city</a><br>
+					<a href="/sfiff/">san francisco</a><br>
+					<a href="/sxsw/">sxsw</a><br>
+					<a href="/toronto/">toronto</a><br>
+					<a href="/tribeca/">tribeca</a><br>
+				</blockquote>
+			</td>
+			
+
+			<td valign="top" style="border-right:dashed 1px #106DB4;">
+				<div class="sitemap2_title"><a href="/insider/">insider</a></div>
+				<blockquote>
+					<a href="/biz/">biz</a><br>
+					<a href="/people/">people</a><br>
+					<a href="/boxoffice/">box office</a><br>
+				</blockquote>
+				
+				<br>
+				<div class="sitemap2_title"><a href="/movies/">movies</a></div>
+				<blockquote>
+					<a href="/movies/reviews/">reviews</a><br>
+				</blockquote>
+			</td>
+			<td valign="top" style="border-right:dashed 1px #106DB4;">
+				<div class="sitemap2_title"><a href="/buzz/">buzz</a></div>
+				<blockquote>
+					<a href="/buzz/acquisitions.html">acquisitions</a><br>
+					<a href="/buzz/awards.html">awards</a><br>
+					<a href="/buzz/events.html">events</a><br>
+					<a href="/buzz/festivals.html">festivals</a><br>
+					<a href="/buzz/honors.html">honors</a><br>
+					<a href="/buzz/industry_moves.html">industry moves</a><br>
+					<a href="/buzz/people.html">people</a><br>
+					<a href="/buzz/">more ...</a><br>
+				</blockquote>
+			</td>
+			<td valign="top" style="border-right:dashed 1px #106DB4;">
+				<div class="sitemap2_title"><a href="/ipop/">ipop</a></div>
+				<blockquote>
+					<a href="/ipop/afi_los_angeles_international_film_festival/">afi</a><br>
+					<a href="/ipop/berlin_international_film_festival/">berlinale</a><br>
+					<a href="/ipop/cannes_on_the_scene/">cannes</a><br>
+					<a href="/ipop/sundance_film_festival/">sundance</a><br>
+					<a href="/ipop/">more ...</a><br>
+				</blockquote>
+				
+				<br>
+				<div class="sitemap2_title"><a href="/video/">video</a></div>
+			</td>
+			<td valign="top" style="border-right:dashed 1px #106DB4;">
+				<div class="sitemap2_title"><a href="/indepth/">in depth</a></div>
+				<blockquote>
+					<a href="/awards/">awards watch</a><br>
+					<a href="/boxoffice/">box office</a><br>
+					<a href="/documentary/">documentary</a><br>
+					<a href="/queercinema/">queer cinema</a><br>
+					<a href="/shorts/">shorts</a><br>
+					<a href="/gems/">undiscovered gems</a><br>
+					<a href="/worldcinema/">world cinema</a><br>
+				</blockquote>
+			</td>
+			<td valign="top" style="border-right:dashed 1px #106DB4;">
+				<div class="sitemap2_title"><a href="http://social.indiewire.com/">indieLOOP</a></div>
+				<blockquote>
+					<a href="http://social.indiewire.com/group_forum/forums.php">forum</a><br>
+					<a href="http://social.indiewire.com/events_list.php">events</a><br>
+					<a href="http://social.indiewire.com/browse_listing.php">classifieds</a><br>
+				</blockquote>
+				
+				<br>
+				<div class="sitemap2_title"><a href="/community/blogs/">blogs</a></div>
+				<blockquote>
+					<a href="/community/blogs/blogs_we_house.html">blogs we house</a><br>
+					<a href="/community/blogs/blogs_we_love.html">blogs we love</a><br>
+				</blockquote>
+			</td>
+			<td valign="top" style="border-right:dashed 1px #106DB4;">
+				<div class="sitemap2_title"><a href="/about/">about</a></div>
+				<blockquote>
+					<a href="/about/team.html">the team</a><br>
+					<a href="/contact/">contact</a><br>
+					<a href="/legal">legal</a><br>
+					<a href="/legal/privacy.html">privacy</a><br>
+				</blockquote>
+			</td>
+			<td valign="top">
+				<div class="sitemap2_title"><a href="/advertise/">advertise</a></div>
+				<blockquote>
+					<a href="/advertise/indieWIRE_RateSheet.pdf">rates (PDF)</a><br>
+					<a href="/advertise/press.html">press &amp; quotes</a><br>
+					<a href="/advertise/blogads.html">blog ads</a><br>
+					<a href="/advertise/sponsorship.html">sponsorship</a>
+				</blockquote>
+			</td>
+		</tr>
+	</tbody></table>
+	</center>
+</div>
+
+<br><br>
 
 
 
