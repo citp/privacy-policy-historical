@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recipezaar.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017075841id_/http%3A//www.recipezaar.com/about/privacy.zsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipezaar.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626124145id_/http%3A//www.recipezaar.com/about/privacy.zsp) for the most accurate reproduction.*
 
 # Recipezaar Privacy Policy
 
@@ -14,7 +14,7 @@ At Recipezaar, we are very concerned about protecting your privacy. We only gath
 
 **When you send a recipe to a friend** on our site, we never disclose that e-mail address to advertisers or partners, but we may use that address to send them a one-time e-mail message of other information about Recipezaar.
 
-**Posting information:** There are places on the site where you can post, e.g. a recipe, commenting on a recipe, in bulletin boards, etc. We allow this ability only for registered users so that we can hold people responsible for their postings or verify changes as necessary. We are not responsible for what you post, but will operate in good faith and in as timely a manner as possible to correct or withdraw information as deemed appropriate in our [Terms of Service Agreement](https://web.archive.org/web/20061017075841id_/http%3A//www.recipezaar.com/about/tos.zsp). Please review it.
+**Posting information:** There are places on the site where you can post, e.g. a recipe, commenting on a recipe, in bulletin boards, etc. We allow this ability only for registered users so that we can hold people responsible for their postings or verify changes as necessary. We are not responsible for what you post, but will operate in good faith and in as timely a manner as possible to correct or withdraw information as deemed appropriate in our [Terms of Service Agreement](https://web.archive.org/web/20070626124145id_/http%3A//www.recipezaar.com/about/tos.zsp). Please review it.
 
 **Premium Membership:** When a user decides to become a Premium Member of our site we will ask for billing information. This information will only be used to bill the customer for the service. This information will in no way be used for marketing purposes by Recipezaar, nor will it be shared with any third parties, including our partners. 
 
@@ -32,6 +32,6 @@ At Recipezaar, we are very concerned about protecting your privacy. We only gath
 
 **Your consent:** By using Recipezaar, you consent to the collection and use of this information by Recipezaar. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose. We retain the right to change these policies at any time.
 
-**Tell us what you think:** Recipezaar welcomes your questions and comments about privacy, and what we do, please feel free to e-mail us [feedback@Recipezaar](mailto:feedback@Recipezaar) or use our [comments page](https://web.archive.org/web/20061017075841id_/http%3A//www.recipezaar.com/about/comments.zsp).
+**Tell us what you think:** Recipezaar welcomes your questions and comments about privacy, and what we do, please feel free to e-mail us [feedback@Recipezaar](mailto:feedback@Recipezaar) or use our [comments page](https://web.archive.org/web/20070626124145id_/http%3A//www.recipezaar.com/about/comments.zsp).
 
 **Thanks for using Recipezaar!**
