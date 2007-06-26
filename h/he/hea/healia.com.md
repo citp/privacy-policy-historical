@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the healia.com privacy policy that was archived on 2006-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061125190842id_/http%3A//www.healia.com/healia/en/healia_privacypolicy.jsp%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healia.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626082028id_/http%3A//www.healia.com/healia/en/healia_privacypolicy.jsp%3F) for the most accurate reproduction.*
 
 # Healia - health search engine
+
+Awards:  
+[](http://www.interactivemediaawards.com/winners/certificate.asp?param=41899&cat=1)
+
+[](http://www.seomoz.org/web2.0)
 
 | 
 
