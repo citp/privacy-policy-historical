@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the indiewire.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205215655id_/http%3A//www.indiewire.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiewire.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626105215id_/http%3A//www.indiewire.com/legal/privacy.html) for the most accurate reproduction.*
 
 # indieWIRE > Privacy
+
+[](https://web.archive.org/about/)
 
 indieWIRE recognizes the importance of protecting the privacy of all our subscribers. We have instituted, therefore, the guidelines set forth below with a fundamental respect for our user's right to privacy guidelines and to establish the basis for our customer and advertiser relationships. Due to the evolving nature of both the Internet and our business, it may be necessary to change these guidelines in the future. If we do so, however, we will post such changes on this page. In no circumstances, however, will we ever release your personal information without your consent, unless required to do so by law.
 
