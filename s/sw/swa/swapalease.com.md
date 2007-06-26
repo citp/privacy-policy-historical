@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the swapalease.com privacy policy that was archived on 2006-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061109221444id_/http%3A//www.swapalease.com/help_files/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swapalease.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626120509id_/http%3A//swapalease.com/help_files/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
 **SWAPALEASE INC. PRIVACY STATEMENT  
-**EFFECTIVE ON: 11/15/2005** **  
+LAST UPDATED: 01/31/2007**  
 ---  
 | [](http://www.truste.org/ivalidate.php?url=www.swapalease.com&sealid=101) |  Swapalease Inc. is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for [www.swapalease.com](http://www.swapalease.com/) of Swapalease Inc.'s Website.  
 ---|---  
@@ -88,6 +88,14 @@ For example, to determine if our customers qualify (meet generally accepted leas
 **Our users are notified of having their information used for purposes not directly related to our site at the point where we ask for the information. Users who no longer wish to receive our memorandums or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at [support@swapalease.com](mailto:support@swapalease.com).
 
 Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not.  
+  
+**Tell-A-Friend  
+**If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Swapalease Inc. stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
+
+Your friend may contact us at  [support@swapalease.com](mailto:support@swapalease.com) to request that we remove this information from our database.   
+  
+**Swapalease Inc. Blog  
+**If you use the Swapalease Inc. Blog on this Web site, you should be aware than any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.  
   
 **Notification of Changes  
 **If we decide to change our privacy policy, we will post those changes on our Homepage 30 days prior to making the changes so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.  
