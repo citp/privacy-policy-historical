@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the texasmonthly.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231155407id_/http%3A//www.texasmonthly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texasmonthly.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626104826id_/http%3A//www.texasmonthly.com/privacy) for the most accurate reproduction.*
 
-# Texas Monthly: Privacy Statement
+# Texas Monthly: the National Magazine of Texas
 
 This privacy policy (“Privacy Policy”) describes TEXAS MONTHLY's privacy practices for our Web site located at www.texasmonthly.com (our “Site”), including what types of information we gather and track, how we use the information, and with whom we share the information. By using the Site, you agree to be bound by the terms of this Privacy Policy and by the Terms of Use. We may change this Privacy Policy at any time by posting revisions to the Site, and your continued use of the Site indicates your agreement to the revised terms. Accordingly, we urge you to frequently review this Privacy Policy, and, if you do not agree to the terms of this or any revised policy, please exit the Site immediately.
 
@@ -52,12 +52,13 @@ The Site offers "auto login" which allows users to enter member areas of the Sit
 
 If you have any concerns about privacy procedures at our Web site or wish to access or modify your Personally Identifiable Information collected at the Site:
 
-  * Email us your privacy concerns [by clicking here](https://web.archive.org/misc/mailform.php?id=Charlie%20Llewellin).
-  * Write us at: Attn: Privacy/TEXAS MONTHLY, PO Box 1569, Austin, TX 78767-1569.
-  * Call us at: 512-320-6990.
-  * Fax us at: 512-476-9007.
+Email us your privacy concerns [by clicking here](https://web.archive.org/misc/mailform.php?id=Charlie%20Llewellin).
 
+Write us at: Attn: Privacy/TEXAS MONTHLY, PO Box 1569, Austin, TX 78767-1569.
 
+Call us at: 512-320-6990.
+
+Fax us at: 512-476-9007.
 
 Please make any communications as complete and descriptive as possible, and we will attempt to respond promptly to your concerns.
 
