@@ -1,98 +1,259 @@
-<!--The following is the downloaded HTML source of the calacademy.org privacy policy that was archived on 2006-07-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060719041454id_/http%3A//www.calacademy.org/ccount/click.php%3Fid%3D70) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the calacademy.org privacy policy that was archived on 2007-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070626153831id_/http%3A//www.calacademy.org/ccount/click.php%3Fid%3D70) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>California Academy of Sciences - General Information</title>
+<title>California Academy of Sciences - Plan Your Visit - General Information</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link rel="stylesheet" href="/styles.css" type="text/css">
-</head>
-<body bgcolor="#999999" marginwidth="0" marginheight="0" leftmargin="0" topmargin="0">
 
-<div class="shadow">
+<link rel="stylesheet" href="/styles_basic.css" type="text/css">
+<link rel="stylesheet" href="/styles_custom.css" type="text/css">
 
-<table width="940" border="0" align="center" cellpadding="0" cellspacing="2" bgcolor="#FFFFFF">
-<tbody><tr>
-<td colspan="2" bgcolor="#0E2B8D">
 
-<div class="headergraphic">
-<img src="/geninfo/images/cas_general_information_header.gif" width="740" height="90" border="0" usemap="#Map">
-<map name="Map">
-<area shape="rect" coords="15,16,354,37" href="/" alt="California Academy of Sciences">
-<area shape="rect" coords="15,45,374,76" href="/geninfo/" alt="General Information">
+<script>
+function killErrors() {
+     return true; 
+}
+window.onerror = killErrors;
+</script>
+
+<!--[if lt IE 7]>
+<script language="JavaScript">
+function correctPNG() // correctly handle PNG transparency in Win IE 5.5 & 6.
+{
+   var arVersion = navigator.appVersion.split("MSIE")
+   var version = parseFloat(arVersion[1])
+   if ((version >= 5.5) && (document.body.filters)) 
+   {
+      for(var i=0; i<document.images.length; i++)
+      {
+         var img = document.images[i]
+         var imgName = img.src.toUpperCase()
+         if (imgName.substring(imgName.length-3, imgName.length) == "PNG")
+         {
+            var imgID = (img.id) ? "id='" + img.id + "' " : ""
+            var imgClass = (img.className) ? "class='" + img.className + "' " : ""
+            var imgTitle = (img.title) ? "title='" + img.title + "' " : "title='" + img.alt + "' "
+            var imgStyle = "display:inline-block;" + img.style.cssText 
+            if (img.align == "left") imgStyle = "float:left;" + imgStyle
+            if (img.align == "right") imgStyle = "float:right;" + imgStyle
+            if (img.parentElement.href) imgStyle = "cursor:hand;" + imgStyle
+            var strNewHTML = "<span " + imgID + imgClass + imgTitle
+            + " style=\"" + "width:" + img.width + "px; height:" + img.height + "px;" + imgStyle + ";"
+            + "filter:progid:DXImageTransform.Microsoft.AlphaImageLoader"
+            + "(src=\'" + img.src + "\', sizingMethod='scale');\"></span>" 
+            img.outerHTML = strNewHTML
+            i = i-1
+         }
+      }
+   }    
+}
+window.attachEvent("onload", correctPNG);
+</script>
+<![endif]-->
+
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="/includes/pngfix.js"></script>
+<![endif]-->
+
+
+<style type="text/css">
+
+#dhtmltooltip{
+position: absolute;
+left: -300px;
+width: 200px;
+border: 0px solid black;
+padding: 5px;
+font: normal 11px Lucida Grande, Arial, Helvetica, sans-serif;
+background-color: #000000;
+color: #FFF;
+visibility: hidden;
+z-index: 100;
+/*Remove below line to remove shadow. Below line should always appear last within this CSS*/
+filter: progid:DXImageTransform.Microsoft.Shadow(color=gray,direction=135);
+}
+
+#dhtmlpointer{
+position:absolute;
+left: -300px;
+z-index: 101;
+visibility: hidden;
+}
+
+</style>
+
+<script type="text/javascript">
+
+/***********************************************
+* Cool DHTML tooltip script II- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+var offsetfromcursorX=18 //Customize x offset of tooltip
+var offsetfromcursorY=18 //Customize y offset of tooltip
+
+var offsetdivfrompointerX=7 //Customize x offset of tooltip DIV relative to pointer image
+var offsetdivfrompointerY=14 //Customize y offset of tooltip DIV relative to pointer image. Tip: Set it to (height_of_pointer_image-1).
+
+document.write('<div id="dhtmltooltip"></div>') //write out tooltip DIV
+document.write('<img id="dhtmlpointer" src="/images/arrow2.gif">') //write out pointer image
+
+var ie=document.all
+var ns6=document.getElementById && !document.all
+var enabletip=false
+if (ie||ns6)
+var tipobj=document.all? document.all["dhtmltooltip"] : document.getElementById? document.getElementById("dhtmltooltip") : ""
+
+var pointerobj=document.all? document.all["dhtmlpointer"] : document.getElementById? document.getElementById("dhtmlpointer") : ""
+
+function ietruebody(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+function ddrivetip(thetext, thewidth, thecolor){
+if (ns6||ie){
+if (typeof thewidth!="undefined") tipobj.style.width=thewidth+"px"
+if (typeof thecolor!="undefined" && thecolor!="") tipobj.style.backgroundColor=thecolor
+tipobj.innerHTML=thetext
+enabletip=true
+return false
+}
+}
+
+function positiontip(e){
+if (enabletip){
+var nondefaultpos=false
+var curX=(ns6)?e.pageX : event.clientX+ietruebody().scrollLeft;
+var curY=(ns6)?e.pageY : event.clientY+ietruebody().scrollTop;
+//Find out how close the mouse is to the corner of the window
+var winwidth=ie&&!window.opera? ietruebody().clientWidth : window.innerWidth-20
+var winheight=ie&&!window.opera? ietruebody().clientHeight : window.innerHeight-20
+
+var rightedge=ie&&!window.opera? winwidth-event.clientX-offsetfromcursorX : winwidth-e.clientX-offsetfromcursorX
+var bottomedge=ie&&!window.opera? winheight-event.clientY-offsetfromcursorY : winheight-e.clientY-offsetfromcursorY
+
+var leftedge=(offsetfromcursorX<0)? offsetfromcursorX*(-1) : -1000
+
+//if the horizontal distance isn't enough to accomodate the width of the context menu
+if (rightedge<tipobj.offsetWidth){
+//move the horizontal position of the menu to the left by it's width
+tipobj.style.left=curX-tipobj.offsetWidth+"px"
+nondefaultpos=true
+}
+else if (curX<leftedge)
+tipobj.style.left="5px"
+else{
+//position the horizontal position of the menu where the mouse is positioned
+tipobj.style.left=curX+offsetfromcursorX-offsetdivfrompointerX+"px"
+pointerobj.style.left=curX+offsetfromcursorX+"px"
+}
+
+//same concept with the vertical position
+if (bottomedge<tipobj.offsetHeight){
+tipobj.style.top=curY-tipobj.offsetHeight-offsetfromcursorY+"px"
+nondefaultpos=true
+}
+else{
+tipobj.style.top=curY+offsetfromcursorY+offsetdivfrompointerY+"px"
+pointerobj.style.top=curY+offsetfromcursorY+"px"
+}
+tipobj.style.visibility="visible"
+if (!nondefaultpos)
+pointerobj.style.visibility="visible"
+else
+pointerobj.style.visibility="hidden"
+}
+}
+
+function hideddrivetip(){
+if (ns6||ie){
+enabletip=false
+tipobj.style.visibility="hidden"
+pointerobj.style.visibility="hidden"
+tipobj.style.left="-1000px"
+tipobj.style.backgroundColor=''
+tipobj.style.width=''
+}
+}
+
+document.onmousemove=positiontip
+
+</script></head><body><div id="dhtmltooltip"></div><img id="dhtmlpointer" src="/images/arrow2.gif">
+
+
+
+
+<div id="wrapper">
+
+<table width="940" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr><td colspan="2">
+
+<div id="header">
+
+<img src="/images/hdr_plan_visit.gif" width="740" height="90" border="0" usemap="#Map"><map name="Map">
+  <area shape="rect" coords="15,16,354,37" href="/" alt="California Academy of Sciences"><area shape="rect" coords="15,45,288,74" href="/geninfo/" alt="Plan Your Visit">
 </map>
-</div>
 
-<div class="headeraddress">
-(415) 321-8000<br>875 Howard Street<br>San Francisco, CA 94103
-</div>
-</td>
-</tr>
-<tr bgcolor="#CCCCCC">
-<td colspan="2"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td width="90%" nowrap="">
-
-<div class="breadcrumb">
-
-<a href="/">Home</a> » <a href="/geninfo/">General Information</a> » Privacy Policy
-</div>
-
-<div class="search">
-
-<table border="0" cellspacing="0" cellpadding="0">
-<form method="GET" action="http://search.Blossom.com/query/213"></form>
-<tbody><tr>
-<td align="center"><input name="key" type="text" size="15"></td>
-<td align="center"><input name="Search" type="submit" value="Search"></td>
-</tr>
-
-</tbody></table>
+<div id="casaddress">(415) 321-8000<br>
+875 Howard Street<br>
+San Francisco, CA 94103</div>
 
 </div>
 
-</td>
-</tr>
-</tbody></table></td>
-</tr>
-<tr>
-<td width="170" valign="top" background="/components/images/left_column_bg.jpg" bgcolor="#ACACAC">
+</td></tr>
+<tr><td colspan="2">
 
+<div id="topnav">
 
-<ul id="nav">
-
-<li><a href="/geninfo/">Visitor Information</a></li>
-
-<li><a href="/geninfo/group_discounts.php">Group Discounts</a></li>
-
-<li><a href="/geninfo/department_directory.php">Department Directory</a></li>
-
-<li><a href="/geninfo/facility_rental.php">Facility Rental</a></li>
-
-<li><a href="/geninfo/travel/">Travel Program</a></li>
-
-<li><a href="/geninfo/newsroom/">Newsroom</a></li>
-
-<li><a href="http://calacademy.snaphire.com/">Employment</a></li>
-
-<li><a href="/geninfo/birthday_parties.php">Children's Parties</a></li>
-
+<ul>
+<li id="generalinfo"><a href="http://www.calacademy.org/geninfo">PLAN A VISIT </a></li>
+<li id="events"><a href="http://www.calacademy.org/events/calendar">EVENTS</a></li>
+<li id="lectures"><a href="http://www.calacademy.org/lectures">LECTURES</a></li>
+<li id="exhibits"><a href="http://www.calacademy.org/exhibits">EXHIBITS</a></li>
+<li id="aquarium"><a href="http://www.calacademy.org/aquarium">STEINHART AQUARIUM</a></li>
+<li id="planetarium"><a href="http://www.calacademy.org/science_now">SCIENCE IN ACTION</a></li>
+<li id="education"><a href="http://www.calacademy.org/education">EDUCATION</a></li>
+<li id="research"><a href="http://www.calacademy.org/research">RESEARCH</a></li>
+<li id="membership"><a href="http://www.calacademy.org/membership">MEMBERSHIP</a></li>
+<li id="newacademy"><a href="http://www.calacademy.org/newacademy" style="border-right: 0;">NEW ACADEMY</a></li>
 </ul>
 
-<div style=" font:verdana;font-size:10px;padding-left:5px;padding-right:5px;background:#cccccc;">
-Your valuable feedback helps us create a better site.
+</div>
+</td></tr>
+<tr valign="top"><td width="160">
+
+<div id="leftnav">
+
+<ul class="buttonmenu">
+<li><a href="/">Home</a></li><!--<li><a href="/geninfo/birthday_parties.php">Birthday Parties</a></li>--><li><a href="http://calacademy.snaphire.com/">Employment</a></li><li><a href="/geninfo/facility_rental.php">Facility Rental</a></li><li><a href="/geninfo/group_discounts.php">Group Discounts</a></li><li><a href="/education/docent/">Guided Tours</a></li><li><a href="http://www.calacademy.org/geninfo/mission.php">Mission</a></li><li><a href="/geninfo/newsroom/">Newsroom</a></li><li><a href="http://www.enssc.com/?store=532" target="_blank">Online Store</a></li><li><a href="/geninfo/department_directory.php">Phone Directory</a></li><li><a href="http://www.calacademy.org/site_map">Site Map</a></li><li><a href="/geninfo/travel/">Travel Program</a></li><li><a href="/volunteer/">Volunteer</a></li>
+</ul>
+
 </div>
 
-<script language="JavaScript" src="/polls/embedjr.php?pid=4&amp;w=170&amp;h=200">
-</script><iframe width="170" height="200" frameborder="0" src="/polls/poll.php?pid=4&amp;url=https%3A//web.archive.org/web/20060718055322id_/http%3A//www.calacademy.org/geninfo/privacy_policy.php" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no"></iframe>
 </td>
-<td width="770" valign="top">
+<td>
 
-<div class="geninfocontent">
+<div id="content">
+
+<div id="breadcrumbsearchcontainer">
+
+<div id="breadcrumb"><a href="/">Home</a> » <a href="/geninfo/">Plan Your Visit</a> » Privacy Policy</div>
+
+<div id="search">
+
+<form method="GET" action="http://search.Blossom.com/query/213">
+<input name="key" type="text" size="11" style="padding: 1px;"><input name="Search" type="submit" id="Search" value="Search" style="border:1px solid #999;background:#DDD;margin:0 0 0 2px;">
+</form>
+
+</div>
+
+</div>
 
 
 <div class="Section1">
-        <p><strong>PRIVACY POLICY</strong>
-        </p><p>This is the official privacy policy ("Privacy Policy") of the California Academy of Sciences ("Academy" or "we", "us" or "our") and describes how we handle Personal Information (as defined below) you provide to us or that we collect from you through the use of our Website which is located at (www.calacademy.org) and any replacement, substitute or backup websites and web pages that are associated with our website.
+        <h2>PRIVACY POLICY</h2>
+        <p>This is the official privacy policy ("Privacy Policy") of the California Academy of Sciences ("Academy" or "we", "us" or "our") and describes how we handle Personal Information (as defined below) you provide to us or that we collect from you through the use of our Website which is located at (www.calacademy.org) and any replacement, substitute or backup websites and web pages that are associated with our website.
         </p><p>When we use the term "<u>Personal Information</u>" in this Privacy Policy, we mean information such as your first/middle initial or name, last name, e-mail address, street address, town or city, state, zip code, telephone number, date of birth and any other information that would allow someone to identify you or contact you. Personal Information also includes information collected and maintained through the use of our Website about your personal preferences, survey responses and your relationship with us (for example, if you are a subscriber to Academy eNews).  While the Academy may use the Personal Information that you provide in order to send you Academy eNews, provide you with information regarding the Academy or to administer and maintain our Website and, if applicable, your subscription to Academy eNews, the Academy does not share, sell, rent or lease any Personal Information that you provide with any unaffiliated third parties.  The term "unaffiliated third parties" or "third parties" does not include any subsidiaries or affiliates of the Academy. 
         </p><p>We are committed to protecting the Personal Information you share with us through use of our Website and we maintains reasonable physical, electronic and procedural safeguards to protect your Personal Information. While no data transmission over the Internet is completely secure, we have used and will continue to use commercially reasonable efforts to ensure the protection of your Personal Information. If, for any reason, you do not agree with this Privacy Policy, please do not use or attempt to take advantage of any of the information, services, features or functions of the Website that might require you to provide your Personal Information (e.g., subscribing to Academy eNews).
         </p><p>We reserve the right to revise this Privacy Policy at any time and from time to time without advance notice, by posting an updated and revised version of this Privacy Policy on the Academy Website. The revisions are effective immediately upon posting and we encourage you to check this Privacy Policy often so you are aware of the most current terms and conditions that apply to you. 
@@ -133,9 +294,9 @@ Your valuable feedback helps us create a better site.
 <tr bgcolor="#666666">
 <td colspan="2">
 <div class="footer">
-<a href="http://www.calacademy.org/ccount/click.php?id=54">General Information</a>|<a href="http://www.calacademy.org/ccount/click.php?id=55">Steinhart Aquarium</a>|<a href="http://www.calacademy.org/ccount/click.php?id=56">Natural History Museum</a>|<a href="http://www.calacademy.org/ccount/click.php?id=57">Research</a>|<a href="http://www.calacademy.org/ccount/click.php?id=58">Education</a>|<a href="http://www.calacademy.org/ccount/click.php?id=59">Events</a>|<a href="http://www.calacademy.org/ccount/click.php?id=60">Library</a><br>
-<a href="http://www.calacademy.org/ccount/click.php?id=61">Publications</a>|<a href="http://www.calacademy.org/ccount/click.php?id=62">Membership</a>|<a href="http://www.calacademy.org/ccount/click.php?id=63">Support</a>|<a href="http://www.calacademy.org/ccount/click.php?id=64">Volunteer</a>|<a href="http://www.calacademy.org/ccount/click.php?id=65">Morrison Planetarium</a>|<a href="http://www.calacademy.org/ccount/click.php?id=66">Employment</a>|<a href="http://www.calacademy.org/ccount/click.php?id=67">Site Map</a>|<a href="http://www.calacademy.org/ccount/click.php?id=68">Search</a>|<a href="http://www.calacademy.org/ccount/click.php?id=69">Contact Us</a>|<a href="http://www.calacademy.org/ccount/click.php?id=70">Privacy Policy</a><br>
-© 2006 <a href="http://www.calacademy.org/ccount/click.php?id=71">California Academy of Sciences</a>
+<a href="http://www.calacademy.org/ccount/click.php?id=80">Photo Gallery</a> | <a href="http://www.calacademy.org/ccount/click.php?id=66">Employment</a> |
+<a href="http://www.calacademy.org/ccount/click.php?id=61">Publications</a> | <a href="http://www.calacademy.org/ccount/click.php?id=63">Support the Academy</a> | <a href="http://www.calacademy.org/ccount/click.php?id=64">Volunteer</a> |  <a href="http://www.calacademy.org/ccount/click.php?id=60">Library</a> | <a href="http://www.calacademy.org/ccount/click.php?id=67">Site Map</a> | <a href="http://www.calacademy.org/geninfo/department_directory.php">Contact Us</a> | <a href="http://www.calacademy.org/ccount/click.php?id=70">Privacy Policy</a><br>
+© 2007 <a href="http://www.calacademy.org/ccount/click.php?id=71">California Academy of Sciences</a>
 </div>
 </td>
 </tr>
