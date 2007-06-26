@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bennetts.co.uk privacy policy that was archived on 2006-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061202103119id_/http%3A//www.bennetts.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bennetts.co.uk privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626053908id_/http%3A//www.bennetts.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # Cheap Motorcycle Insurance & Motorbike Insurance with UK Bike Insurers
 
@@ -11,18 +11,19 @@
   5. Motor Insurance Database
   6. Insurance Administration, Renewal and Claims Handling
   7. Marketing and Market Research
-  8. Credit Searches
-  9. Sensitive Personal Data
-  10. Use of Cookies
-  11. How can I stop cookies and what effect will this have?
-  12. How secure is the information I give to you?
-  13. Who will process my credit/debit card information?
-  14. UK Residents Only
-  15. Responsibility for Content
-  16. Third Party Websites
-  17. Use of the Website
-  18. Termination
-  19. Law
+  8. Send to a Friend Option
+  9. Credit Searches
+  10. Sensitive Personal Data
+  11. Use of Cookies
+  12. How can I stop cookies and what effect will this have?
+  13. How secure is the information I give to you?
+  14. Who will process my credit/debit card information?
+  15. UK Residents Only
+  16. Responsibility for Content
+  17. Third Party Websites
+  18. Use of the Website
+  19. Termination
+  20. Law
 
   
 
@@ -34,8 +35,6 @@ Bennetts is a trading name of BISL Limited, part of the Budget Group of Companie
 ### 2\. Your Rights
 
 We comply with and are registered under the data protection laws in the United Kingdom and take all reasonable steps to prevent any unauthorised access to your personal data.
-
-We are a member of the Direct Marketing Association ("DMA") and comply with the DMA's Code of Practice. For more information about the DMA go to [www.dma.org.uk](http://www.dma.org.uk/).
 
 You are entitled, on payment of the fee of £10, made payable to BISL Limited to see details of the information we hold about you. If any of the information held is inaccurate we will also make any necessary amendments and confirm to you that these have been made.
 
@@ -69,15 +68,26 @@ Information you supply may be used for the purpose of insurance administration, 
 
 BISL Limited, part of the Budget Group of Companies, which also trades as Dial Direct and Budget and other carefully selected companies may use your information to keep you informed by post, telephone, e-mail or other means of products and services which may be of interest to you. They may also contact you to conduct market research.
 
-### 8\. Credit Searches
+### 8\. Send to a Friend Option
+
+If you provide details of a friend to whom an e-mail is to be sent about Bennetts you confirm the following:- 
+
+  * That you have obtained the consent of your friend to pass your friend’s details to us and for your friend to receive the e-mail from us.
+  * That you are happy for us to disclose your details as the person who asked that we send the e-mail to your friend.
+
+
+
+We will not use that person’s details for any marketing purposes. 
+
+### 9\. Credit Searches
 
 In assessing your application/renewal, we may search files made available to us by Credit Reference Agencies. They may keep a record of that search. We may also pass to Credit Reference Agencies information we hold about you and your payment record with us. Credit Reference Agencies share information with other organisations, enabling applications for financial products to be assessed or to assist the tracing of debtors, or to prevent fraud. We may ask Credit Reference Agencies to provide a credit scoring computation. Credit scoring uses a number of factors to work out risks involved in any application. A score is given to each factor and a total score obtained and this together with other factors will be used to accept or reject your application.
 
-### 9\. Sensitive Personal Data
+### 10\. Sensitive Personal Data
 
 In order to assess the terms of the insurance contract or administer claims, we will need to collect personal data which the Data Protection Act 1998 defines as sensitive, such as medical history or criminal convictions. By proceeding with this contract, you will signify your explicit consent to such information being processed by the insurer or its agents.
 
-### 10\. Use of Cookies
+### 11\. Use of Cookies
 
 A cookie identifies your computer to a server that then enables information to be stored on the hard drive of your computer. Cookies allow a computer to be identified as corresponding to one that has accessed another website or visited a Site previously. Cookies are commonly used on the Internet and do not harm your computer system. We may, from time to time use and serve cookies, pixel tags or action tags. Any information that is collected via cookies, pixels and action tags is completely anonymous.
 
@@ -90,7 +100,7 @@ We use cookies, pixel tags or action tags for various purposes, including:
 
 We are continually looking to adopt and implement certain practices and technologies in order that we may improve your user experience.
 
-### 11\. How can I stop cookies and what effect will this have?
+### 12\. How can I stop cookies and what effect will this have?
 
 You can stop cookies from being deployed on your computer by configuring your browser not to accept them or opt-out. Please refer to your browser's 'help' facility.
 
@@ -98,19 +108,19 @@ If cookies are already on your system, you can delete them - For more informatio
 
 Please be aware that deleting certain cookies can result in difficulties when navigating around sites.
 
-### 12\. How secure is the information I give to you?
+### 13\. How secure is the information I give to you?
 
 The payment site employs enhanced encryption techniques which seek to ensure that all of your confidential data (such as credit card number, name, address and other information) cannot be intercepted, unscrambled or copied when being transmitted between our sever and yourself.
 
-### 13\. Who will process my credit/debit card information?
+### 14\. Who will process my credit/debit card information?
 
 This will be done by our partners at Cardnet.
 
-### 14\. UK Residents Only
+### 15\. UK Residents Only
 
 The products and services described on this website are only available to residents of the United Kingdom insuring private motorcycles within Great Britain, Northern Ireland and the Isle of Man (excluding the Channel Islands). By requesting a quote, you confirm that all drivers on your policy are UK residents and that if there is any change to this status then you would immediately notify the insurance provider.
 
-### 15\. Responsibility for content
+### 16\. Responsibility for content
 
 15.1
 
@@ -124,15 +134,15 @@ We make no warranty that the Website or any linked website is free from viruses 
 
 Notwithstanding the foregoing, none of the exclusions and limitations under the clause are intended to limit any rights You may have as a consumer under local law or other statutory rights which may not be excluded or in any way to exclude or limit Our liability to You for death or personal injury resulting from Our negligence or that of Our employees or agents.
 
-### 16\. Third Party Websites
+### 17\. Third Party Websites
 
 This Website may also contain hyper text links to websites operated by third parties. The operation and content of those websites shall be determined by the organisation which controls the website and this will be governed by separate terms and conditions. Links are provided for convenience only and inclusion of any links should not be taken to imply endorsement in any way of the site to which it links. We accept no responsibility or liability for the contents of any other website.
 
-### 17\. Use of the Website
+### 18\. Use of the Website
 
 You agree that Your use of the Website will in no way affect the integrity or security of the Website or cause unreasonable inconvenience to any of Our staff.
 
-### 18\. Termination
+### 19\. Termination
 
 We have in Our sole discretion the right to issue a warning, temporary suspension, or an indefinite suspension and termination of Your rights to use the website if You:-
 
@@ -142,6 +152,6 @@ We have in Our sole discretion the right to issue a warning, temporary suspensio
 
 
 
-### 19\. Law
+### 20\. Law
 
 This Privacy Policy is subject to English Law and to the exclusive jurisdiction of the English Courts.
