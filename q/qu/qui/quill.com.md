@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quill.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206010733id_/http%3A//www03.quillcorp.com/Content/Quill/Policy/C_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quill.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627074822id_/http%3A//www10.quillcorp.com/Content/Quill/Policy/C_privacy.asp) for the most accurate reproduction.*
 
 # Quill.com | Quill Respects Your Privacy
 
@@ -50,9 +50,9 @@ Quill provides customers with marketing and promotional materials via e-mail, ma
 Q. How can I contact Quill?  
 A. You may contact us using any of the following options: 
 
-  * Send an e-mail to us at [support@quill.com](mailto:support@quill.com)
-  * Call us toll-free at 1-800-634-4809 
-  * Fax us toll-free at 1-800-634-1650 
+  * Send us an [e-mail](https://web.archive.org/support/contact/CommentsFeedbackSelection.asp)
+  * Call us toll-free at 1-800-789-1331 
+  * Fax us toll-free at 1-800-789-8955 
   * Write us directly at Quill Marketing Services, 100 Schelter Rd., Lincolnshire, IL 60069 
 
 
