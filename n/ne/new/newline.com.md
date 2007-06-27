@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newline.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230040443id_/http%3A//www.newline.com/privacy/privacy1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newline.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627113858id_/http%3A//www.newline.com/privacy/privacy1.html) for the most accurate reproduction.*
 
 # New Line Cinema Privacy Policy
 
@@ -60,17 +60,17 @@ We use cookies to understand site usage and to improve the content and offerings
 
 To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
 
-**_Special Note for Parents_  
-**The site you are visiting is one of the Time Warner general audience sites. For more information about our online privacy practices for children's sites, consult the privacy notice at the children's site in which you are interested. 
+**_Special Note for Parents_**  
+The site you are visiting is one of the Time Warner general audience sites. For more information about our online privacy practices for children's sites, please [click here](http://www.newline.com/privacy/privacy_child.html).
 
 **_Notification of Updates_**  
 From time to time, we may update this privacy notice. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this notice so that you always will know what information we collect, how we use it, and to whom we disclose it.
 
 **_How to Contact Us_  
-**If you have any questions or concerns about the Time Warner online policy for this site or its implementation you may [contact us](https://web.archive.org/web/20061230040443id_/http%3A//www.newline.com/contactus.shtml).  
+**If you have any questions or concerns about the Time Warner online policy for this site or its implementation you may [contact us](https://web.archive.org/web/20070627113858id_/http%3A//www.newline.com/contactus.shtml).  
 
 
-The privacy notice posted on this site was updated on or about August 17th, 2004.
+The privacy notice posted on this site was updated on or about February 27, 2007.
 
   
-™ & © MMVI New Line Productions, Inc. All rights reserved. [Terms of Use](http://www.newline.com/termsofuse/index.html)
+™ & © MMVII New Line Productions, Inc. All rights reserved. [Terms of Use](http://www.newline.com/termsofuse/index.html)
