@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the cpcc.edu privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205191110id_/http%3A//www.cpcc.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpcc.edu privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627182134id_/http%3A//www1.cpcc.edu/privacy) for the most accurate reproduction.*
 
 # Privacy — Central Piedmont Community College
+
+##### Document Actions
+
+  * 
+
 
 This document describes Central Piedmont Community College's (hereafter referred to as CPCC) policy regarding information received about you during visits to our web site. The amount and type of information received depends on how you use the site. 
 
