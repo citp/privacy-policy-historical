@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ssww.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231153343id_/http%3A//www.ssww.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ssww.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627030903id_/http%3A//www.ssww.com/privacy) for the most accurate reproduction.*
 
 # Your Privacy & Security : S&S Worldwide
 
@@ -6,9 +6,9 @@ Web Favorites
 
 Shop By Category
 
-About Us
+Help and Info
 
-[](https://web.archive.org/raf/)
+[](https://web.archive.org/pages/?page_id=560)
 
 Refer-A-Friend
 
@@ -108,8 +108,5 @@ S&S Worldwide fundamental commitment to protecting customer privacy will not cha
 
 If you would like to submit questions or concerns regarding this Security and Privacy Statement, you should e-mail privacy@ssww.com, or write S&S Worldwide, Security and Privacy Policy, 75 Mill Street, P.O. Box 513, Colchester, CT 06415-0513. 
 
-| 
-
-[](https://web.archive.org/pages/?page_id=355)  
-  
+|   
 ---|---|---
