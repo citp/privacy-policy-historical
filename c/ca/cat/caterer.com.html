@@ -1,707 +1,251 @@
-<!--The following is the downloaded HTML source of the caterer.com privacy policy that was archived on 2006-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061205213418id_/http%3A//www.caterer.com/help/PPolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the caterer.com privacy policy that was archived on 2007-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070627131238id_/http%3A//www.caterer.com/Contents/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
-<html><head><script language="JavaScript">
-var gsSelected =',,';
-var gsExclusive=',,';
-var gsControl  ='';
-var gbEmptySelected=false;
-var gbClosing=true;
-
-function SelectionChange(TheForm) {
-	var loSelList = TheForm;
-	for(var i=0; i<loSelList.options.length; i++) {
-		if(loSelList.options[i].selected) {
-			if(gsExclusive.indexOf(',' + loSelList.options[i].value + ',') != -1 && !gbEmptySelected) {
-				for(var j=0; j<loSelList.options.length; j++) {
-					if(j != i) loSelList.options[j].selected = false;
-				}
-				gbEmptySelected = true;
-				return;
-			}
-			else {
-				for(var j=0; j<loSelList.options.length; j++) {
-					if(gsExclusive.indexOf(',' + loSelList.options[i].value + ',') != -1)
-						loSelList.options[j].selected = false;
-				}
-				gbEmptySelected = false;
-			}
-		}
-	}
-}
-
-
-function SubmitForm(TheForm)
-{
-	//alert("Submitting details...");
-	return true
-}
-/*
-function ValidateForm(TheForm)
-{
-	//alert("validating details...");
-	document.JobSearch.submit();
-}
-*/
-function TipsPop()
-{
-	window.open('../HELP/tips.asp','', 'width=400px,height=350px,scrollbars=yes');
-}
-
-function ValidateForm(TheForm){
-	var jtSelList = TheForm.JobType1;
-	var loSelList = TheForm.Locations;
-	var lsIds1 = '';
-	var lsIds2 = '';
-	var liCount1 = 0;
-	var liCount2 = 0;
-	
-	for (var liIdx1 = 0; liIdx1 != jtSelList.length; liIdx1++) {
-		if (jtSelList.options[liIdx1].selected) {
-			lsIds1 = lsIds1 + ',' + jtSelList.options[liIdx1].value;
-			liCount1++;
-		}
-		//if more than 10 job types selected return alrert message
-		if (liCount1 > 10) {
-			alert('You have selected too many job types. The maximum is 10.\nEither select fewer job types, or choose "All" from the menu.');
-			return false;
-		}
-	}
-	
-	for (var liIdx2 = 0; liIdx2 != loSelList.length; liIdx2++) {
-		if (loSelList.options[liIdx2].selected) {
-			lsIds2 = lsIds2 + ',' + loSelList.options[liIdx2].value;
-			liCount2++;
-		}
-		//if more than 35 locations selected return alert message
-		if (liCount2 > 35) {
-			alert('You have selected too many locations. The maximum is 35.\nEither select fewer locations, or choose "All Regions" from the menu.');
-			return false;
-		}
-	}
-	
-	document.JobSearch.submit();
-}
-</script>
-
-
-<title>Caterer.com - Privacy policy</title>
-
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-
-<meta name="description" content="Caterer.com - Privacy policy">
-<meta name="keywords" content="The Caterer, Caterer, Caterer.com, bar job, bar jobs, bar manager, bar staff, bar work, catering job, catering jobs, catering recruitment, catering vacancies, chef job, chef jobs, chefs jobs, hospitality job, hospitality recruitment, hotel employment, hotel job, hotel jobs, hotel recruitment, international jobs, jobs in catering, jobs in hotel,
-jobs in hotels, leisure job, London employment, London job, London jobs, London recruitment, London staff, London vacancies, London work, overseas job, overseas jobs, overseas work, part time job, part time jobs, part time vacancies, pub jobs, pub recruitment, receptionist jobs, Scotland job, Scotland jobs, summer job, summer jobs, Wales jobs, Yorkshire jobs">
-
-<meta name="robots" content="ALL">
-<meta name="revisit-after" content="15 days">
-<script language="javascript" src="/inc/optin.js"></script>
-
-<link rel="stylesheet" type="text/css" href="/CSS/Caterer.css">
-<style type="text/css">
-.btn{font-family:arial;font-size:12;color:#ffffff;font-weight:bold;background-color:#9e9ecf;}
-</style>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+ <title>Caterer.com - Privacy Policy</title>
+ <meta description="">
+ <meta keywords="">
+ <link href="/css/template.css" type="text/css" rel="stylesheet">    
+ <link href="/css/editorial.css" type="text/css" rel="stylesheet">
+ <link rel="stylesheet" type="text/css" href="/css/RC-content.css">
 </head>
+<body>
+ <form name="frmMain" method="post" action="PrivacyPolicy.aspx" id="frmMain">
+<input type="hidden" name="__VIEWSTATE" value="dDwxMDYyMjMwMzA2Ozs+">
+	<script language="javascript" src="/pjb_ui/JobSeekers/CookieOption.js"></script>
 
-<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+	<script language="javascript" src="/pjb_ui/JobSeekers/JobBasketManager.js"></script>
 
-<table width="768" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-	<td colspan="6">
+	<script language="javascript" src="/pjb_ui/Common.js"></script>
+
+
+  
+<a name="top"></a>
+<div id="header">
+ <div id="imgDiv"><a href="/"><img src="/img/Logo.gif" id="HeaderLHS" border="0" alt="Caterer.com" width="335" height="91"></a><img src="/img/headerFork.gif" border="0" id="HeaderRHS" alt="The place for jobs in hospitality" width="355" height="91"></div>
+ 
+<!--[if IE]>
+ <style type="text/css">
+   #Header #imgDiv {height:auto!important;}
+ </style>
+<![endif]-->
+<script type="text/javascript" language="javascript">
+function rollOver(element) {
+		var x = document.getElementById(element);
+		x.className = 'ShowSubMenu';
+	}
+
+function rollOff(element) {
+		var x = document.getElementById(element);
+		x.className = 'HideSubMenu';
+	}
 	
-<table width="768" border="0" cellspacing="0" cellpadding="0" class="tbg1">
-<tbody><tr>
-<td width="341" height="52" align="center"><a href="/jobs/jobsearch.asp"><img src="/IMG/337x47_js_logo.gif" width="337" height="47" border="0" alt="Caterer.com - the best place to find catering jobs"></a></td>
-<td width="412" align="right" height="52">
-<!--Write RZ and CCP link-->
-<table width="220" height="20" cellspacing="0" cellpadding="0" class="tnb" border="0">
-<tbody><tr>
-<td id="frd" align="center" class="tnv1" width="110" onmouseover="MouseOver('frd');" onmouseout="MouseOut('frd');" onclick="RedirectURL('frd');">
-<a id="fra" href="http://recruiter.caterer.com" class="tnv4">
+function TopMenuOn(element) {
+		var x = document.getElementById(element);
+		x.style.backgroundColor= '#d4d4c2';
+	}
 
-For recruiters
-
-</a>
-</td>
-
-<td width="1" class="tbg3"><img alt="*" src="/IMG/_.gif" width="1"></td>
-
-<td id="pjd" align="center" class="tnv1" width="110" onmouseover="MouseOver('pjd');" onmouseout="MouseOut('pjd');" onclick="RedirectURL('pjd');">
-<a id="pja" href="http://recruiter.caterer.com" class="tnv4">
-
-Post a job now
-
-</a>
-</td>
-
-</tr>
-</tbody></table>
-</td>
-<td width="15">&nbsp;</td>
-</tr>
-</tbody></table>
-<table width="768" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td width="768" height="1" colspan="4"><img alt="*" src="/IMG/_.gif" width="768" height="1"></td>
-</tr>
-<tr>
-<td colspan="4">
-<table width="100%" height="20" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<!--Write job search link-->
-<td id="jsd" align="center" class="tnv1" width="103" onmouseover="MouseOver('jsd');" onmouseout="MouseOut('jsd');" onclick="RedirectURL('jsd');">
-<a id="jsa" href="/jobs/JobSearch.asp" class="tnv4">
-
-Jobs search
-
-</a>
-</td>
-<td width="1" class="tbg3"><img alt="*" src="/IMG/_.gif" width="1"></td>
-<!--Write jbe link-->
-<td id="jed" align="center" class="tnv1" width="111" onmouseover="MouseOver('jed');" onmouseout="MouseOut('jed');" onclick="RedirectURL('jed');">
-<a id="jea" href="/jbe/jobsbyemail.asp" class="tnv4">
-
-Jobs by email
-
-</a>
-</td>
-<td width="1" class="tbg3"><img alt="*" src="/IMG/_.gif" width="1"></td>
-<!--Write ie link-->
-<td id="eid" align="center" class="tnv2" width="129" onmouseover="MouseOver('eid');" onmouseout="MouseOut('eid');" onclick="RedirectURL('eid');">
-<a id="eia" href="/ie/whoshiring.asp" class="tnv4">
-
-Employers index
-
-</a>
-</td>
-<td width="1" class="tbg3"><img alt="*" src="/IMG/_.gif" width="1"></td>
-<!--Write my caterer link-->
-<td id="mcd" align="center" class="tnv2" width="98" onmouseover="MouseOver('mcd');" onmouseout="MouseOut('mcd');" onclick="RedirectURL('mcd');">
-<a id="mca" href="/asp/caterer/personalised/mycaterer.asp" class="tnv4">
-
-My Caterer
-
-</a>
-</td>
-<td width="1" class="tbg3"><img alt="*" src="/IMG/_.gif" width="1"></td>
-<!--Write register your cv link-->
-<td id="ryd" align="center" class="tnv2" width="131" onmouseover="MouseOver('ryd');" onmouseout="MouseOut('ryd');" onclick="RedirectURL('ryd');">
-<a id="rya" href="/formslogin.asp?/Authenticated/Profile.aspx" class="tnv4">
-
-Register your CV
-
-</a>
-</td>
-<td width="1" class="tbg3"><img alt="*" src="/IMG/_.gif" width="1"></td>
-<!--Write salary checker link-->
-<td id="scd" align="center" class="tnv2" width="118" onmouseover="MouseOver('scd');" onmouseout="MouseOut('scd');" onclick="RedirectURL('scd');">
-<a id="sca" href="/SAL/salarychecker.asp" class="tnv4">
-
-Salary checker
-
-</a>
-</td>
-
-<td width="1" class="tbg3"><img alt="*" src="/IMG/_.gif" width="1"></td>
-
-<!--Write advice link-->
-<td id="avd" align="center" class="tnv2" width="72" onmouseover="MouseOver('avd');" onmouseout="MouseOut('avd');" onclick="RedirectURL('avd');">
-<a id="ava" href="/advice/index.asp" class="tnv4">
-
-Advice
-
-</a>
-</td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-<tr><td width="768" height="1" colspan="4"><img alt="*" src="/IMG/_.gif" width="768" height="1"></td></tr>
-<tr><td width="768" height="2" colspan="4" class="tbg2"><img alt="*" src="/IMG/_.gif" width="768" height="2"></td></tr>
-</tbody></table>
-<!--Write date status bar...-->
-<table width="768" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td width="5" height="26"><img src="/IMG/_.gif" width="5" height="26" alt="*"></td>
-<td align="right" class="date">Tuesday&nbsp;05 December 2006</td>
-</tr>
-</tbody></table>
-
-<script language="javascript">
-<!--
-function MouseOver(cell)
-{
-//alert('in set buttons');
-
-if (cell == 'jsd')
-{
-jsd.className = "tnv3";
-jsa.className = "tnv3";
-}
-
-if (cell == 'jed')
-{
-jed.className = "tnv3";
-jea.className = "tnv3";
-}
-
-if (cell == 'eid')
-{
-eid.className = "tnv3";
-eia.className = "tnv3";
-}
-if (cell == 'mcd')
-{
-mcd.className = "tnv3";
-mca.className = "tnv3";
-}
-if (cell == 'ryd')
-{
-ryd.className = "tnv3";
-rya.className = "tnv3";
-}
-if (cell == 'scd')
-{
-scd.className = "tnv3";
-sca.className = "tnv3";
-}
-if (cell == 'avd')
-{
-avd.className = "tnv3";
-ava.className = "tnv3";
-}
-if (cell == 'frd')
-{
-frd.className = "tnv3";
-fra.className = "tnv3";
-}
-if (cell == 'pjd')
-{
-pjd.className = "tnv3";
-pja.className = "tnv3";
-}
-}
-
-function MouseOut(cell)
-{
-//alert('in set buttons');
-if (cell == 'jsd')
-{
-jsd.className = "tnv2";
-jsa.className = "tnv2";
-}
-if (cell == 'jed')
-{
-jed.className = "tnv2";
-jea.className = "tnv2";
-}
-
-if (cell == 'eid')
-{
-eid.className = "tnv2";
-eia.className = "tnv2";
-}
-if (cell == 'mcd')
-{
-mcd.className = "tnv2";
-mca.className = "tnv2";
-}
-if (cell == 'ryd')
-{
-ryd.className = "tnv2";
-rya.className = "tnv2";
-}
-if (cell == 'scd')
-{
-scd.className = "tnv2";
-sca.className = "tnv2";
-}
-if (cell == 'avd')
-{
-avd.className = "tnv2";
-ava.className = "tnv2";
-}
-if (cell == 'frd')
-{
-frd.className = "tnv2";
-fra.className = "tnv2";
-}
-if (cell == 'pjd')
-{
-pjd.className = "tnv2";
-pja.className = "tnv2";
-}
-}
-
-function RedirectURL(cell)
-{
-var url;
-if (cell == 'jsd'){url = '/jobs/JobSearch.asp';}
-if (cell == 'jed'){url = '/jbe/jobsbyemail.asp';}
-if (cell == 'eid'){url = '/ie/whoshiring.asp';}
-if (cell == 'mcd'){url = '/asp/caterer/personalised/mycaterer.asp';}
-if (cell == 'ryd'){url = '/formslogin.asp?/Authenticated/Profile.aspx';}
-if (cell == 'scd'){url = '/jobs/JobSearch.asp';}
-if (cell == 'avd'){url = '/advice/index.asp';}
-if (cell == 'frd'){url = '/jobs/JobSearch.asp';}
-if (cell == 'pjd'){url = 'http://recruiter.caterer.com';}
-window.navigate(url);
-}
--->
+function TopMenuOff(element) {
+		var x = document.getElementById(element);
+		x.style.backgroundColor = '#ecece1';
+	}
 </script>
+<div>
+ <ul id="NavBar">
+  <li class="NavItem"><a href="/" id="header_Navigation_A1">Home</a></li><li class="NavItem"><a href="/Authenticated/Default.aspx" id="header_Navigation_A2" class="BdrLft">My Caterer</a></li><li class="NavItem"><a href="/JobSearch/JobsByEmailSetup.aspx" id="header_Navigation_A3" class="BdrLft">Jobs By Email</a></li><li class="NavItem"><a href="/SearchBySpecialism.aspx" id="header_Navigation_A4" class="BdrLft">Search by specialism</a></li><li class="NavItem"><a href="/Authenticated/Profile.aspx" id="header_Navigation_A5" class="BdrLft">Upload your CV</a></li>
+  <li class="NavItem"><a href="/SalaryChecker/SalaryCheckerSearch.aspx" class="BdrLft">Salary Checker</a></li>
+  <li class="NavItem"><a href="/CompanySearch/CompanyIndex.aspx?Directory=6" id="header_Navigation_A6" class="BdrLft">Employer A-Z</a></li>
+  <li class="NavItem"><a href="/Content/Advice.html" id="header_Navigation_A8" class="BdrLft">Advice</a></li>
+  <li class="NavItem"><a href="http://recruiter.caterer.com" class="BdrLft NavEnd">Recruiter</a></li>
+ </ul>
+ <ul id="SubNav">
+  
+  <li class="SubNavItem"><a href="/JobSearch/JobBasket.aspx" id="header_Navigation_A7" class="SubNavLnk"><img src="/img/basket.gif" alt="Job Basket" border="0" class="navIcon"><span class="SubNavLkPos">&nbsp;&nbsp;<span id="header_Navigation_jbStatus">Job Basket <strong>[0]</strong></span></span></a></li>
+ </ul>
+</div>
+</div>
+   <div id="Main">
+    <div class="pd15">
+     <h1>Privacy Policy</h1>
+     <div id="maincontent" class="mrTp10">
+      
+      
+  
 
-	</td>
-  </tr>
-  <tr>
-    <!--<td width="5"></td>-->
-    <td width="126" valign="top">
-    
-
-<script language="javascript">
-function openSurvey(){
-    var windowprops = 'left=0,top=0,width=700,height=600,location=no,toolbar=no,menubar=no,scrollbars=yes,resizable=yes';
-    var page = 'http://b2bresearchonline.com/Surveys/Survey.aspx?SurveyID=5bd79d32-8584-41c2-966c-1a98399619a4';
-	window.open(page, "", windowprops);
-}
-</script>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="2" class="lnt">
-<tbody><tr><td>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="2" class="lnt">
-  <tbody><tr>
-    <td class="lnh" width="2px"></td>
-    <td class="lnh">Job seekers</td>
-  </tr>
-  <tr>
-    <td colspan="2" class="lbg3" height="2px"></td>
-  </tr>
-</tbody></table>
-
-<table width="100%" cellspacing="0" cellpadding="0" border="1" bordercolor="#FF9933" style="border-style: none" class="lnt">
-<tbody><tr><td>
-  <table width="100%" cellspacing="0" cellpadding="2" class="lnt">
-    <tbody><tr>
-      <td class="lbg4" width="2px"></td>
-      <td class="lnh2"><a href="/formslogin.asp?/Authenticated/Profile.aspx" class="wlt">Register your CV</a></td>
-    </tr>
-  </tbody></table>
-</td></tr>
-<tr><td colspan="2" class="lbg3" height="2px"></td></tr>
-</tbody></table>
-
-<table width="100%" cellspacing="0" cellpadding="0" border="1" bordercolor="#FF9933" style="border-style: none" class="lnt">
-<tbody><tr><td>
-  <table width="100%" cellspacing="0" cellpadding="2" class="lnt">
-    <tbody><tr>
-      <td class="lbg4" width="2px"></td>
-      <td class="lnh2"><a href="/Graduates/gradDefault.asp" class="wlt">Graduate jobs</a></td>
-    </tr>
-  </tbody></table>
-</td></tr>
-<tr><td colspan="2" class="lbg3" height="2px"></td></tr>
-</tbody></table>
-
-<table width="100%" cellspacing="0" cellpadding="0" border="1" bordercolor="#FF9933" style="border-style: none" class="lnt">
-<tbody><tr><td>
-  <table width="100%" cellspacing="0" cellpadding="2" class="lnt">
-    <tbody><tr>
-      <td class="lbg4" width="2px"></td>
-      <td class="lnh2"><a href="/jobseeking/csearches.asp?jobtypeid=464" class="wlt">Bartenders &amp; bar assistants!</a></td>
-    </tr>
-  </tbody></table>
-</td></tr>
-<tr><td colspan="2" class="lbg3" height="2px"></td></tr>
-</tbody></table>
-
-<table width="100%" cellspacing="0" cellpadding="0" border="1" bordercolor="#FF9933" style="border-style: none" class="lnt">
-<tbody><tr><td>
-  <table width="100%" cellspacing="0" cellpadding="2" class="lnt">
-    <tbody><tr>
-      <td class="lbg4" width="2px"></td>
-      <td class="lnh2"><a href="/jobseeking/csearches.asp?jobtypeid=460" class="wlt">Housekeeping jobs</a></td>
-    </tr>
-  </tbody></table>
-</td></tr>
-<tr><td colspan="2" class="lbg3" height="2px"></td></tr>
-</tbody></table>
-
-<table width="100%" cellspacing="0" cellpadding="0" border="1" bordercolor="#FF9933" style="border-style: none" class="lnt">
-<tbody><tr><td>
-  <table width="100%" cellspacing="0" cellpadding="2" class="lnt">
-    <tbody><tr>
-      <td class="lbg4" width="2px"></td>
-      <td class="lnh2"><a href="/jobseeking/csearches.asp?jobtypeid=473" class="wlt">Catering staff jobs</a></td>
-    </tr>
-  </tbody></table>
-</td></tr>
-<tr><td colspan="2" class="lbg3" height="2px"></td></tr>
-</tbody></table>
-
-<table width="100%" cellspacing="0" cellpadding="0" border="1" bordercolor="#FF9933" style="border-style: none" class="lnt">
-<tbody><tr><td>
-  <table width="100%" cellspacing="0" cellpadding="2" class="lnt">
-    <tbody><tr>
-      <td class="lbg4" width="2px"></td>
-      <td class="lnh2"><a href="/advice/csearches.asp" class="wlt">Get cooking!</a></td>
-    </tr>
-  </tbody></table>
-</td></tr>
-<tr><td colspan="2" class="lbg3" height="2px"></td></tr>
-</tbody></table>
-
-<table width="100%" cellspacing="0" cellpadding="0" border="1" bordercolor="#FF9933" style="border-style: none" class="lnt">
-<tbody><tr><td>
-  <table width="100%" cellspacing="0" cellpadding="2" class="lnt">
-    <tbody><tr>
-      <td class="lbg4" width="2px"></td>
-      <td class="lnh2">Jobs of the day</td>
-    </tr>
-    <tr>
-      <td class="lbg5" width="2px"></td>
-      <td class="lbg5">
-        <table width="100%" height="100%" cellpadding="0" cellspacing="0">
-        <tbody><tr><td height="4px"></td></tr><tr><td class="cjd"><a href="/jobs/JobDetails.asp?JobID=26238832" class="mlt1">1st Commis - The Ritz, London</a><br>Central London / West End (Competitive)</td></tr><tr><td height="4px"></td></tr><tr><td class="cjd"><a href="/jobs/JobDetails.asp?JobID=26238796" class="mlt1">Chef de Partie - The Ritz, London</a><br>Central London / West End (Competitive)</td></tr><tr><td height="4px"></td></tr><tr><td class="cjd"><a href="/jobs/JobDetails.asp?JobID=26112598" class="mlt1">Pub Managers and Deputy Managers</a><br>North West (£30,000 and £45,000)</td></tr><tr><td height="4px"></td></tr><tr><td class="cjd"><a href="/jobs/JobDetails.asp?JobID=26112615" class="mlt1">Pub Managers and Deputy Managers</a><br>Wales (£30,000 and £45,000)
-        </td></tr></tbody></table>
-      </td>
-    </tr>
-    <tr><td colspan="2" class="lbg5" height="2px"></td></tr>
-  </tbody></table>
-</td></tr>
-<tr><td colspan="2" class="lbg3" height="2px"></td></tr>
-</tbody></table>
-<!--
-<table width="100%" cellspacing="0" cellpadding="0" border="1" bordercolor="#FF9933" style="border-style: none" class="lnt">
-<tr><td>
-  <table width="100%" cellspacing="0" cellpadding="2" class="lnt">
-    <tr>
-      <td class="lbg4" width="2px"></td>
-      <td class="lnh2">See the latest Video from Urbium Plc</td>
-    </tr>
-    <tr>
-      <td class="lbg5" width="2px"></td>
-      <td class="lbg5"><a href="/urbium_rd.asp" class="lnl2">Hiring for: Tiger Tiger, Digress, SugarReef, Abacus and more...</a></td>
-    </tr>
-    <tr><td colspan="2" class="lbg5" height="2px"></td></tr>
-  </table>
-</td></tr>
-<tr><td colspan="2" class="lbg3" height="2px"></td></tr>
-</table>
--->
-<table width="100%" border="0" cellspacing="0" cellpadding="2" class="lnt">
-  <tbody><tr>
-    <td class="lnh" width="2px"></td>
-    <td class="lnh">Recruiters</td>
-  </tr>
-  <tr>
-    <td colspan="2" class="lbg3" height="2px"></td>
-  </tr>
-</tbody></table>
-
-<table width="100%" cellspacing="0" cellpadding="0" border="1" bordercolor="#FF9933" style="border-style: none" class="lnt">
-<tbody><tr><td>
-  <table width="100%" cellspacing="0" cellpadding="2" class="lnt">
-    <tbody><tr>
-      <td class="lbg4" width="2px"></td>
-      <td class="lnh2">Instant job posting</td>
-    </tr>
-    <tr>
-      <td class="lbg5" width="2px"></td>
-      <td class="lbg5"><a href="/inc/links_rd.asp?page=http://recruiter.caterer.com" class="lnl2">Post a job now and pay by credit card or invoice</a></td>
-    </tr>
-    <tr><td colspan="2" class="lbg5" align="center"><img src="/IMG/120x35_ccard2.gif"></td></tr>
-  </tbody></table>
-</td></tr>
-<tr><td colspan="2" class="lbg3" height="2px"></td></tr>
-</tbody></table>
-
-</td></tr></tbody></table>
-
-
-    </td>
-    <td width="10"><img src="/IMG/_.gif" width="10" height="1" alt="*"></td>
-    <td width="498" valign="top">
-
-
-	<table width="100%" border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr>
-          <td class="mh1">Privacy Policy</td>
-        </tr>
-        <tr>
-          <td colspan="3"><img src="/IMG/_.gif" height="5"></td>
-        </tr>
-		<tr class="mlb1">
-          <td colspan="3"><img src="/IMG/_.gif" height="2"></td>
-        </tr>
-		<tr>
-		  <td valign="top" height="2"><img src="/IMG/_.gif" width="1" height="2"></td>
-	  	</tr>
-	  	<tr>
-		  <td><br>
-At Caterer.com we make every effort to comply with our obligations under the 1998 Data Protection Act. Additionally, we understand the importance of maintaining the confidentiality of your CV and other information stored about you while using the site.<br><br>
-
-You can remove any of the information that Caterer.com stores about you, at any time, by logging in to your 'My Caterer' account and choosing to close the account.<br><br>
-
-<i>Privacy policy update (1 August, 2006)</i><br><br>
-
-<b>Registration details</b><br>
-Contact and other details you supply as part of the registration process are stored by us and used to provide you with the information you have requested.<br><br>
-
-<b>Profile and CV information</b><br>
-When you complete your Caterer.com profile, including your CV, it can be made available for searching, viewing over the Internet and downloading by Caterer.coms' customers. Customers who request CVs matching your profile to be sent to them, will receive your CV and profile via email or CD Rom. These may be direct recruiters, employment consultants or other organisations.<br><br>
-<b>IMPORTANT:</b> Your current employer may be a customer of Caterer.com, or a client of one of our customers. Caterer.com cannot restrict the customers who access profiles on our database and cannot be held responsible for any eventuality. As part of the registration process Caterer.com offers you the option of remaining anonymous.
-Caterer.com will also use the aggregate data to identify employment trends across different industries, such as salary averages. This information will not be capable of being linked to any personally identifying information about users.<br><br>
-
-Some of our customers may be located in countries outside the European Economic Area.<br><br>
-
-When you ‘apply online’, we store some information about you in your 'My Caterer' area, but it is protected by your password and may only be accessed by you. It does not form part of our Caterer.com candidate database and cannot be searched or accessed by Caterer.com customers. You can delete your 'My Caterer' account at any time. Your CV can only be viewed by a Caterer.com customer if you have consented to this within the profile section.<br><br>
-If you choose to create a profile and upload a CV to our database, we rely on you to ensure that your details are kept up to date. You should update your CV at least every six months, particularly if your contact details have changed.<br><br>
-Please note that Caterer.com reserves the right to remove from our database, CVs which include any content that we consider to be illegal or offensive.
+At Caterer.com we make every effort to comply with our obligations under the 1998 Data Protection Act. Additionally, we understand the importance of maintaining the confidentiality of your CV and other information stored about you while using the site.
 <br><br>
+You can remove any of the information that Caterer.com stores about you, at any time, by logging in to your 'My Caterer' account and choosing to close the account.
+<br><br>
+Privacy policy update (1 August, 2006)
+<br><br>
+<h3>Registration details</h3>
+Contact and other details you supply as part of the registration process are stored by us and used to provide you with the information you have requested.
+<br><br>
+<h3>Profile and CV information</h3>
+When you complete your Caterer.com profile, including your CV, it can be made available for searching, viewing over the Internet and downloading by Caterer.coms' customers. Customers who request CVs matching your profile to be sent to them, will receive your CV and profile via email or CD Rom. These may be direct recruiters, employment consultants or other organisations.
+<br><br>
+<strong>IMPORTANT:</strong> Your current employer may be a customer of Caterer.com, or a client of one of our customers. Caterer.com cannot restrict the customers who access profiles on our database and cannot be held responsible for any eventuality. As part of the registration process Caterer.com offers you the option of remaining anonymous. Caterer.com will also use the aggregate data to identify employment trends across different industries, such as salary averages. This information will not be capable of being linked to any personally identifying information about users.
+<br><br>
+Some of our customers may be located in countries outside the European Economic Area.
+<br><br>
+When you ‘apply online’, we store some information about you in your 'My Caterer' area, but it is protected by your password and may only be accessed by you. It does not form part of our Caterer.com candidate database and cannot be searched or accessed by Caterer.com customers. You can delete your 'My Caterer' account at any time. Your CV can only be viewed by a Caterer.com customer if you have consented to this within the profile section.
+<br><br>
+If you choose to create a profile and upload a CV to our database, we rely on you to ensure that your details are kept up to date. You should update your CV at least every six months, particularly if your contact details have changed.
+<br><br>
+Please note that Caterer.com reserves the right to remove from our database, CVs which include any content that we consider to be illegal or offensive. 
+<br><br><a name="cookiepolicy"></a>
+<h3>Cookies</h3>
+Cookies are small pieces of information stored by us on your computer which enable us to identify your computer when you access the Caterer.com web site and to provide you with a convenient means of access. The cookies we use also protect the integrity of registered user names and passwords and limit access to 'paid for' services. We also use cookies to collect aggregate statistical information about the use of our site (see <strong>Statistical information</strong> below).
+<br><br>
+There is no personally identifiable information held on cookies. An example of a cookie is below.
+<br><br>
+<div class="alC">10.20.25.21- 2020212848.29592612::413EA8A33A38AC8CCE09CC624E8B4758</div>
+<br><br>
+You have the option to decline or accept these cookies, but if you decline you will not be able to access the personalised areas of the site. This means you will not be able to access your candidate profile, register your CV or set up any jobs by emails.
+<br><br>
+<strong>We strongly recommend you accept cookies.</strong>
+<br><br>
+<strong><a id="lnkAccept" class="A12B" href="javascript:acceptCookies(true);">Accept cookie</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a id="lnkDecline" class="A12" href="javascript:declineCookies();">Decline cookie</a></strong>
+<br><br>
+In addition, the third party companies who sell and provide advertisements to the site, and host our contacts database, make use of cookies for the purpose of serving and targeting advertisements more effectively. For more information about these cookies, how you can opt out of receiving them and how this will affect your use of web sites in general, please visit the websites of our third party suppliers: <a href="http://www.adtech.info/en/cookie_opt-out.html" target="_blank">Adtech</a>, <a href="http://www.emediate.dk/privacy.html" target="_blank">Emediate</a> and <a href="http://www.doubleclick.com/us/about_doubleclick/privacy/" target="_blank">DoubleClick</a>.
+<br><br>
+<h3>Statistical information</h3>
+We provide aggregate statistical information about site visitors and users to recruiters (such as the number of CVs on the database, or the number of visitors to the site) and for other lawful purposes. We provide this information to customers, advertisers, suppliers and other reputable third parties. This will not include any information that enables them to identify individuals.
+<br><br>
+<h3>Security</h3>
+The site is protected against unauthorised access using the latest security devices and 'firewalls'.
+<br><br>
+ 
 
-<b>Cookies</b><br>
-Cookies are small pieces of information stored by us on your computer which enable us to identify your computer when you access the Caterer.com web site and to provide you with a convenient means of access. The cookies we use also protect the integrity of registered user names and passwords and limit access to 'paid for' services. We also use cookies to collect aggregate statistical information about the use of our site (see <b>Statistical information</b> below).<br><br>
+      
+      
+     </div>
+     
+<br class="BTTClr">
+<div id="BTTLHS">
+ <a href="javascript:history.back()" title="back" class="BTTLnk">Back</a>
+</div>
+<div id="BTTRHS">
+ <a href="#top" title="Top" class="BTTLnk">To top</a>
+</div>
+<br class="BTTClr">
+    </div>
+   </div>
+   
+<div id="Ftr">
+ <div id="FtrLft">
+  <img id="LHS" src="/img/footerLogo1.gif" alt="British Hospitality Association">
+  <img id="RHS" src="/img/footerLogo2.gif" alt="Springboard UK Limited">
+ </div>
+ <div id="FtrRgt">
+  Cookie warning:This site uses cookies. <a id="footer_CookieOption_glbMoreInfo" href="/Contents/PrivacyPolicy.aspx#CookiePolicy">More information...</a>
+<img src="/img/_.gif" alt="*" border="0" width="20" height="1"><a id="footer_CookieOption_lnkAccept" href="javascript:acceptCookies(true);" target="_parent">Accept cookies</a><img src="/img/_.gif" alt="*" border="0" width="20" height="1"><a id="footer_CookieOption_lnkDecline" href="javascript:declineCookies();" target="_parent">Decline cookies</a>
+<br><br>    
+  Caterer.com is a trademark of Totaljobs Group Ltd
+  <br>© Copyright and database rights Totaljobs Group Ltd 2007
+  <br><br>     
+  <a href="/accessible" title="text only version">Text only</a>&nbsp;|&nbsp;
+  <a href="/Contents/Content/Help.html">Help</a>&nbsp;|&nbsp;
+  <a href="/Contents/Content/TermsAndConditions.html">Terms and conditions</a>&nbsp;|&nbsp;
+  <a href="/Contents/PrivacyPolicy.aspx">Privacy policy</a>&nbsp;|&nbsp;
+  <a href="/JobSeeking/Sitemap.html">Site map</a>&nbsp;|&nbsp;
+  <a href="/Contents/Content/TermsAndConditions.html#BPTable">Browser policy</a>&nbsp;|&nbsp;
+  <a href="/Contents/Content/Disclaimer.html">Disclaimer</a>&nbsp;|&nbsp;
+  <a href="/Contents/Content/Affiliates.html">Affiliates</a>
+  <br>              
 
-There is no personally identifiable information held on cookies. An example of a cookie is below.<br><br>
+  <a href="/JobSeeking/Search_by_employer_type.html">Browse by employer type</a>&nbsp;|&nbsp;
+  <a href="/JobSeeking/Search_by_job_type.html">Browse by job type</a>&nbsp;|&nbsp;
+  <a href="/JobSeeking/Search_by_location.html">Browse by location</a>&nbsp;|&nbsp;
+  <a href="http://www.goyocal.com/" target="_blank">Local jobs</a>&nbsp;|&nbsp;
+  <a href="/Contents/Content/AboutUs.html">About us</a>&nbsp;|&nbsp;
+  <a href="/Contents/Content/ContactUs.html">Contact us</a>
+  <br>
+  
+  Press Ctrl+D to bookmark Caterer.com
+  
+ </div>
+</div>
+ 
+<script language="javascript" type="text/javascript">
+<!--
+	var JobBasketManager_Properties =  new Array("JBM_COOKIE", "In order to use the job basket feature, you need to be able to receive cookies. You have either turned cookies off on your browser, or chosen to decline cookies from this site. Please see our privacy policy for more information.", 20, "add to basket", "<img src='/img/addbasket.gif' alt='Click to add to basket' border='0' align='absmiddle' />", "added", "<img src='/img/addedBasket.gif' alt='Click to remove from basket' border='0' align='absmiddle' />", "added", "<img src='/img/addedBasket.gif' alt='You have applied for this job' border='0' align='absmiddle' />", "Job Basket <strong>[{0}]</strong>", "", "Job Basket <strong>[{0}]</strong>", "", "You can have a maximum of 20 jobs in your job basket. Do you want to view your job basket now? ", "<img src='../img/mediumBasket.gif' alt='' width='24' height='27' border='0' align='absmiddle' hspace='4' vspace='4' />", "PJBOPTIN", "/Jobsearch/JobBasket.aspx");
+	var JobBasketManager_StatusControls =  new Array("header_Navigation_jbStatus");
+	var cookieOptionParams =  new Array('PJBOPTIN', 'You have chosen to accept cookies.', 'You have chosen to decline cookies. You will not be able to log in or use personalised areas of this site.');
+		// -->
+</script>
 
-10.20.25.21- 2020212848.29592612::413EA8A33A38AC8CCE09CC624E8B4758<br><br>
-
-You have the option to decline or accept these cookies, but if you decline you will not be able to access the personalised areas of the site. This means you will not be able to access your candidate profile, register your CV or set up any jobs by emails.<br><br>
-<b>We strongly recommend you accept cookies.</b><br><br>
-
-<input type="button" value=" ACCEPT COOKIES " class="btn" onclick="javascript:acceptcookies(true);" title="accept cookeies">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="javascript:declinecookies()" class="fl">Decline cookies</a><br><br>
-
-In addition, the third party companies who sell and provide advertisements to the site, and host our contacts database, make use of cookies for the purpose of serving and targeting advertisements more effectively. For more information about these cookies, how you can opt out of receiving them and how this will affect your use of web sites in general, please visit the websites of our third party suppliers: <a href="http://www.adtech.info/en/cookie_opt-out.html" class="fl" target="_blank"><b>Adtech</b></a>, <a href="http://www.emediate.dk/privacy.html" class="fl" target="_blank"><b>Emediate</b></a> and <a href="http://www.doubleclick.com/us/about_doubleclick/privacy/" class="fl" target="_blank"><b>DoubleClick</b></a>.<br><br>
-
-<b>Statistical information</b><br>
-We provide aggregate statistical information about site visitors and users to recruiters (such as the number of CVs on the database, or the number of visitors to the site) and for other lawful purposes. We provide this information to customers, advertisers, suppliers and other reputable third parties. This will not include any information that enables them to identify individuals.<br><br <b="">Security<br>
-The site is protected against unauthorised access using the latest security devices and 'firewalls'.<br><br>
-			</td>
-		</tr>
-		<tr class="msh1"><td><img src="/IMG/_.gif" border="0" width="1" height="1" alt="*"></td></tr>
-	</tbody></table>
-
-    </td>
-    <td width="10"><img src="/IMG/_.gif" width="10" height="1" alt="*"></td>
-    <td width="124" valign="top">
-    
-    </td>
-  </tr>
-  <tr align="center">
-    <td colspan="6">
-    <script language="javascript" src="/inc/optin.js"></script>
-<style type="text/css">
-.btn{font-family:arial;font-size:12;color:#ffffff;font-weight:bold;background-color:#9e9ecf;}
-</style>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr><td align="center">
-<script language="javascript">
-<!-- 
-var cookieOptIn = GetCookieByName ('PJBOPTIN');
-	if ((cookieOptIn == null) && (location.pathname.substring(0,4)!='/ASP')){
-		document.write ('<tr><td><br><br><table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#ffffff"><tr><td align="center">\n');
-		document.write ('<b>Cookie warning:</b> This site uses cookies. <a href="/help/PPolicy.asp#cookiepolicy"); class="fl">More information...</a>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<a href="javascript:acceptcookies(true);" class="fl">Accept cookies</a>&#160;&#160;&#160;&#160;&#160;<a href="javascript:declinecookies()" class="fl">Decline cookies</a>\n');
-		document.write ('</td></tr></table><br></td></tr>\n');
+			<script language="javascript">
+	<!--
+	function Page_Init() {
+		JobBasketManager_Init("header_Navigation_JBM");
+		
 	}
-	else {
-		document.write('<tr><td><br><br></td></tr>');
+	function Page_Load() {
+		
 	}
+	Page_Init();
+	Page_Load();
+	// -->
+
+</script>
+
+		</form>
+<script language="Javascript">
+var gDomain="statse.webtrendslive.com";
+var gDcsId="dcsk4mhwo00000cxxxixuivux_8n4i";
+var gImages=new Array;
+var gIndex=0;
+var DCS=new Object();
+var WT=new Object();
+var DCSext=new Object();
+var gQP=new Array();
+var bUseFPC=true;
+</script><script language="Javascript">SDCPathNameOverride='/Contents/PrivacyPolicy.aspx';WT.sv='P104';</script><script language="Javascript"><!--
+gVersion="1.0";
 //-->
-</script></td></tr><tr><td><br><br><table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#ffffff"><tbody><tr><td align="center">
-<b>Cookie warning:</b> This site uses cookies. <a href="/help/PPolicy.asp#cookiepolicy" );="" class="fl">More information...</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="javascript:acceptcookies(true);" class="fl">Accept cookies</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="javascript:declinecookies()" class="fl">Decline cookies</a>
-</td></tr></tbody></table><br></td></tr>
-
-
-<tr align="center">
-<td colspan="7" class="ft">
-<a href="/accessible" class="fl" title="text only version">Text only</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="/graduates/gradDefault.asp" class="fl">Graduate Jobs</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="http://recruiter.caterer.com" class="fl">Post Catering Jobs</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="/jbe/jobsbyemail.asp" class="fl">Jobs by email</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="/asp/caterer/personalised/mycaterer.asp" class="fl">My Caterer</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="/ie/whoshiring.asp" class="fl">Employers index</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="/advice/index.asp" class="fl">Advice</a><br>
-<a href="/JobSeeking/Search_by_job_type.html" class="fl">Browse jobs by job type</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="/JobSeeking/Search_by_employer_type.html" class="fl">Browse jobs by employer type</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="/JobSeeking/Search_by_location.html" class="fl">Browse jobs by location</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="/JobSeeking/Sitemap.html" class="fl">Site map</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="/SAL/salarychecker.asp" class="fl">Salary checker</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a target="_blank" href="http://www.goyocal.com" class="fl">Local jobs</a>
-<br>
-<a href="http://recruiter.caterer.com" class="fl">For recruiters</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="/help/affiliates.asp" class="fl">Affiliates</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="/help/disclaimer.asp" class="fl">Disclaimer</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="/help/PPolicy.asp" class="fl">Privacy policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="/help/T_C.asp" class="fl">Terms and conditions</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="/help/T_C.asp#BPTable" class="fl">Browser policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="/help/about_us.asp" class="fl">About us</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="/help/contact_us.asp" class="fl">Contact us</a>
-<br>© copyright and database rights Totaljobs Group Ltd 2006<br><br></td>
-</tr>
-</tbody></table>
-<!--WebTrends include-->
-
-	<script language="Javascript">
-	var gDomain="statse.webtrendslive.com";
-	var gDcsId="dcsk4mhwo00000cxxxixuivux_8n4i";
-	var gImages=new Array;
-	var gIndex=0;
-	var DCS=new Object();
-	var WT=new Object();
-	var DCSext=new Object();
-	var gQP=new Array();
-	var bUseFPC=true;
-	
-	</script>
-	<script language="Javascript"><!--
-	gVersion="1.0";
-	//-->
-	</script>
-	<script language="Javascript1.1"><!--
-	gVersion="1.1";
-	//-->
-	</script>
-	<script language="Javascript1.2"><!--
-	gVersion="1.2";
-	var RE={"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
-	//-->
-	</script>
-	<script language="Javascript1.3"><!--
-	gVersion="1.3";
-	if (window.ActiveXObject){
-		var gFV="";
-		for (var gVer=2;gVer<=10;gVer++){
-			try{
-				var gFlash = eval("new ActiveXObject('ShockwaveFlash.ShockwaveFlash."+gVer+"');");
-				if (gFlash){
-					gFV=gVer+".0";
-					break;
-				}
-			}
-			catch(e){
+</script>
+<script language="Javascript1.1"><!--
+gVersion="1.1";
+//-->
+</script>
+<script language="Javascript1.2"><!--
+gVersion="1.2";
+var RE={"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
+//-->
+</script>
+<script language="Javascript1.3"><!--
+gVersion="1.3";
+if (window.ActiveXObject){
+	var gFV="";
+	for (var gVer=2;gVer<=10;gVer++){
+		try{
+			var gFlash = eval("new ActiveXObject('ShockwaveFlash.ShockwaveFlash."+gVer+"');");
+			if (gFlash){
+				gFV=gVer+".0";
+				break;
 			}
 		}
+		catch(e){
+		}
 	}
-	//-->
-	</script>
-	<script language="Javascript1.4"><!--
-	gVersion="1.4";
-	//-->
-	</script>
-	<script language="Javascript1.5"><!--
-	gVersion="1.5";
-	//-->
-	</script>
+}
+//-->
+</script>
+<script language="Javascript1.4"><!--
+gVersion="1.4";
+//-->
+</script>
+<script language="Javascript1.5"><!--
+gVersion="1.5";
+//-->
+</script>
 
 
-	<script language="javascript" src="/pjb_ui/Controls/WebTrends/SDC.js"></script>
-	<noscript>
-	<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/dcsk4mhwo00000cxxxixuivux_8n4i/njs.gif?dcsuri=/nojavascript&amp;WT.js=No">
-	</noscript>
-
-    </td>
-  </tr>
-  </tbody></table>
+<script language="javascript" src="/pjb_ui/Controls/WebTrends/SDC.js"></script>
+<noscript>
+<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/dcsk4mhwo00000cxxxixuivux_8n4i/njs.gif?dcsuri=/nojavascript&amp;WT.js=No">
+</noscript>
 
 
 </body></html>
