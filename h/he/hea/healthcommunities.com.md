@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthcommunities.com privacy policy that was archived on 2006-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061029162345id_/http%3A//healthcommunities.com/common/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthcommunities.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627113845id_/http%3A//www.healthcommunities.com/common/privacystatement.html) for the most accurate reproduction.*
 
 # Privacy Statement - Healthcommunities.com
 
