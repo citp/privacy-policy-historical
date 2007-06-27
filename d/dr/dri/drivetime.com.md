@@ -1,34 +1,34 @@
-> *The following text is extracted and transformed from the drivetime.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206010021id_/http%3A//www.drivetime.com/en-US/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivetime.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627034801id_/http%3A//drivetime.com/privacy.aspx) for the most accurate reproduction.*
 
 # Contact Us
 
   * [Get Approved
 
-](http://www.drivetime.com/en-US/getapproved/default.aspx)
+](http://www.drivetime.com/en-US/getapproved/default.aspx "DriveTime Credit Application")
   * [Find a Dealership
 
-](http://www.drivetime.com/en-US/findadealership/default.aspx)
+](http://www.drivetime.com/en-US/findadealership/default.aspx "DriveTime Used Car and Truck Dealerships")
   * [Find a Vehicle
 
-](http://www.drivetime.com/en-US/findavehicle/default.aspx)
+](http://www.drivetime.com/en-US/findavehicle/default.aspx "Find a used car or truck at DriveTime")
   * [DT Difference
 
-](http://www.drivetime.com/en-US/dtdifference/default.aspx)
+](http://www.drivetime.com/en-US/dtdifference/default.aspx "DriveTime Used Car and Truck Financing")
   * [Earn a Free Gift
 
-](http://www.drivetime.com/en-US/earnafreegift/default.aspx)
+](http://www.drivetime.com/en-US/earnafreegift/default.aspx "DriveTime DT Rewards Programs")
   * [Press Room
 
-](http://www.drivetime.com/en-US/pressroom/default.aspx)
+](http://www.drivetime.com/en-US/pressroom/default.aspx "DriveTime - Press Room")
   * [Careers
 
-](http://www.drivetime.com/en-US/careers/default.aspx)
+](http://www.drivetime.com/en-US/careers/default.aspx "DriveTime - Careers")
   * [Contact Us
 
-](http://www.drivetime.com/en-US/contactus/default.aspx)
+](http://www.drivetime.com/en-US/contactus/default.aspx "Contact Us for Car Loans")
   * [Make a Payment
 
-](https://www.paybyinternet.com/drivetime/)
+](https://www.paybyinternet.com/drivetime/ "DriveTime Web Payment")
 
 | 
 
@@ -90,7 +90,7 @@ These practices and policies are subject to change, but we will communicate any 
 **Receiving E-mail from DriveTime**  
 DriveTime does not send unsolicited e-mail. When you provide your e-mail address to us, it is under the explicit understanding that you want to receive information from DriveTime. Every time you submit a request for information, DriveTime will send you an automatic response confirming your submission. In addition, we may contact you from time to time (or have our partners or vendors contact you in our behalf) for the purpose of informing you about DriveTime products, services and programs. 
 
-Each e-mail sent by DriveTime contains a link that provides access to a simple automated facility to opt out of future e-mails from us. If you wish to opt out of additional e-mail communications, and no longer have the e-mail with the link, you can opt yourself out at [www.drivetime.com/optout/](http://www.drivetime.com/en-US/optout/default.aspx). If you have received an unwanted e-mail sent from DriveTime, please forward a copy of the e-mail and your comments to [customerservice@DriveTime.com](mailto:customerservice@DriveTime.com) and we will immediately add you to our "do not e-mail" list. 
+Each e-mail sent by DriveTime contains a link that provides access to a simple automated facility to opt out of future e-mails from us. If you wish to opt out of additional e-mail communications, and no longer have the e-mail with the link, you can opt yourself out at [www.drivetime.com/optout/](http://www.drivetime.com/en-US/optout/default.aspx). If you have received an unwanted e-mail sent from DriveTime, please forward a copy of the e-mail and your comments to [ApprovalTeam@DriveTime.com](mailto:ApprovalTeam@DriveTime.com) and we will immediately add you to our "do not e-mail" list. 
 
 **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site or your dealings with this Web site, please contact us at [privacy@drivetime.com](mailto:privacy@drivetime.com).   
