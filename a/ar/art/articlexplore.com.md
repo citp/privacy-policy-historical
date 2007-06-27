@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the articlexplore.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020233007id_/http%3A//articlexplore.com/index.php%3Fpagedb%3Dprivacy%26PHPSESSID%3D0a953db368aa666362ad5cd54af5a33f) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlexplore.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627095337id_/http%3A//www.articlexplore.com/index.php%3Fpagedb%3Dprivacy%26PHPSESSID%3Df02197a8991a75d1e9384fbf89fdfa80) for the most accurate reproduction.*
 
-# privacy ArticleXplore.com - explore, read, collect and submit articles you like
+# privacy ArticleXplore.com - Article directory. Submit articles and get free traffic.
 
-|    
-[ ](http://www.fidensfelix.com/indonesia)
+| 
 
 **Information Collection and Use**  
 ArticleXplore collects minimal personal information when you request or submit an article.  
