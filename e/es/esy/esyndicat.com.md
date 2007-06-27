@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esyndicat.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225113730id_/http%3A//www.esyndicat.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esyndicat.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627125051id_/http%3A//www.esyndicat.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: eSyndiCat Directory Software
 
@@ -20,4 +20,8 @@ While we do our best to protect your personal information, we cannot guarantee t
 
 Please contact those vendors and others directly if you have any questions about their privacy policies.
 
-For any other information email [webmaster](mailto:sgooffin@esyndicat.com)
+## Report Piracy URL
+
+Please send an email to **sgooffin@esyndicat.com** if you suspect a site is not using a valid license of eSyndiCat or if they are breaking the [license agreement](http://www.esyndicat.com/license.html). We take piracy very seriously, and appreciate your help in our efforts to reduce any piracy or illegal distribution of our software.
+
+Alternatively you can report piracy using our [contact form](http://www.esyndicat.com/contact-us.html?piracy=true).
