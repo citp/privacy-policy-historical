@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accenture.com privacy policy that was archived on 2006-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061223091514id_/https%3A//www.accenture.com/Global/AccenturePrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accenture.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627021405id_/http%3A//www.accenture.com/Global/AccenturePrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Accenture Privacy Policy
 
