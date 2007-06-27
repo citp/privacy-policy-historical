@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sqaforums.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216021234id_/http%3A//www.sqaforums.com/viewprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqaforums.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627021210id_/http%3A//www.sqaforums.com/viewprivacy.php) for the most accurate reproduction.*
 
 # Software Quality Assurance Forums: Privacy statement
 
