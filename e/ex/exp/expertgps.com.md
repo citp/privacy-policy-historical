@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expertgps.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113174951id_/http%3A//www.expertgps.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expertgps.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627073023id_/http%3A//www.expertgps.com/privacy.asp) for the most accurate reproduction.*
 
 # ExpertGPS Privacy Policy
 
