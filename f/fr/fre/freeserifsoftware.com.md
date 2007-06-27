@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the freeserifsoftware.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225072855id_/http%3A//freeserifsoftware.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeserifsoftware.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627214941id_/http%3A//www.freeserifsoftware.com/info/privacy.asp) for the most accurate reproduction.*
 
 # FreeSerifSoftware.com - Privacy Statement
 
-**Introduction**  
-Last Updated: February 1st 2005
+Last Updated: February 1st 2005 
 
 **FreeSerifSoftware.com** knows how much you care about the way your personal information is used. We are committed to protecting the integrity and confidentiality of your information and appreciate the trust you place in us. We have drawn up this privacy policy to inform you how we collect and use your information in a careful, sensible manner in compliance with the Data Protection Act 1998. By visiting **FreeSerifSoftware.com** , you are consenting to the procedures outlined in this statement.
 
-  
-Who Controls The Personal Information Collected? 
+>  
+
+
+## Who Controls The Personal Information Collected? 
 
 All personal information collected is in the control of **FreeSerifSoftware.com** which is a registered trading name of Serif ( Europe ) Ltd of 12 Wilford Industrial Estate, Nottingham , NG11 7EP .
 
-  
-How Do We Collect Your Personal Information?
+## How Do We Collect Your Personal Information?
 
 The information we gain from you is essential in helping us continually improve the download experience of **FreeSerifSoftware.com** There are 5 types of visitor information we collect:
 
@@ -25,8 +25,7 @@ The information we gain from you is essential in helping us continually improve 
 
 
 
-  
-What Is Your Personal Information Used For? 
+## What Is Your Personal Information Used For? 
 
 We use your personal information for three primary purposes: 
 
@@ -36,16 +35,14 @@ We use your personal information for three primary purposes:
 
 
 
-  
-We also use the information for internal analysis to: 
+## We also use the information for internal analysis to:
 
   * Identify areas of the Website in need of improvement. 
   * Build visitor profiles to improve the relevancy of the Website. 
 
 
 
-  
-Do We Share Your Information? 
+## Do We Share Your Information? 
 
 **FreeSerifSoftware.com** will not share personal information with third parties without your permission, other than for the limited exceptions listed below.
 
@@ -53,8 +50,7 @@ Do We Share Your Information?
 
 **FreeSerifSoftware.com** will not share personal information with third parties without your permission, other than for the limited exceptions listed above. Occasionally, we will send email offers in association with other businesses to specially selected customers of FreeSerifSoftware.com. In these instances, we do not share any details with the associated business. 
 
-  
-How Do We Use Cookies? 
+## How Do We Use Cookies? 
 
 We place a cookie, which is a small text file, on to your computer’s hard drive through your web browser. This file enables us to enhance your future visits to the site through personalized greetings, the showing of relevant content and the storage of previously found items of interest. All we can do to the cookie is write data to it. We can’t make anything run on your PC. 
 
@@ -64,8 +60,7 @@ If you choose to delete FreeSerifSoftware.com cookies or do not have your browse
 
 For further information about cookies please click here.
 
-  
-How Can You Gain Access To Your Personal Information? 
+## How Can You Gain Access To Your Personal Information? 
 
 We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time by writing to us. You can: 
 
@@ -81,8 +76,7 @@ For the protection of all our customers, we will take all reasonable steps to co
 
 We will respond to such requests within 20 working days. 
 
-  
-How Secure Is Your Personal Information?
+## How Secure Is Your Personal Information?
 
 **FreeSerifSoftware.com** recognizes that you are increasingly concerned about the protection of personal information from misuse and abuse, and about privacy in general. We constantly review and enhance our technical, physical and managerial procedures in connection with the collection, storage and disclosure personal data in order to protect it from unauthorized access, accidental loss and/or destruction.
 
@@ -90,18 +84,15 @@ We use industry standard 128 bit secure sockets layer (SSL) technology to encryp
 
 It is important to remember to protect yourself against unauthorized access to your password if you use a shared PC. Make sure you sign off or close your browser when you have finished using it.
 
-  
-Do We Transfer Personal Data Overseas?
+## Do We Transfer Personal Data Overseas?
 
 The Internet is a global environment. Using the Internet to collect and process personal data involves the transmission of data on an international basis. By browsing **FreeSerifSoftware.com** and communicating electronically with us, you acknowledge and agree to our processing your personal data in this way. 
 
-  
-What Happens If We Change This Statement? 
+## What Happens If We Change This Statement? 
 
 **FreeSerifSoftware.com** will occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this statement, **FreeSerifSoftware.com** will notify you by placing a notice on the site’s home page for at least 7 days.
 
-  
-Contact Information 
+## Contact Information 
 
 **FreeSerifSoftware.com** welcomes your comments regarding this Statement of Privacy, please [contact us](https://web.archive.org/info/contact_us.asp) or send your request by postal mail.
 
@@ -110,6 +101,3 @@ Data Protection Manager, **FreeSerifSoftware.com** , 12 Wilford Industrial Estat
 Thank you for your trust.
 
 **FreeSerifSoftware.com**
-
-  
-
