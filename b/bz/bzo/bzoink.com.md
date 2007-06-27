@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bzoink.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205213900id_/http%3A//bzoink.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bzoink.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627153956id_/http%3A//www.bzoink.com/privacy.php) for the most accurate reproduction.*
 
 # Bzoink - Privacy Policy
 
@@ -6,7 +6,6 @@
 
   * We never sell, or share, your personal information.
   * Nothing is displayed unless you want it to be.
-  * Want out? You can delete your account at any time. Free and fast.
   * We protect you as though you were us.
 
 
@@ -17,7 +16,7 @@ The only pieces of required information that we collect directly from you are bi
 
 We are prohibited by law, according to the [Children's Online Privacy Protection Act of 1998](http://www.ftc.gov/ogc/coppa1.htm "Children's Online Privacy Protection Act of 1998") (COPPA), to collect personal information from individuals age 12 years and under without parental consent. Therefore, we collect your birthdate at registration to confirm that you are of legal age to use the site, and to prove that you said you were of a certain age should any legalities arise.
 
-We collect your email address to restrict any one person from creating dozens of accounts on the site, and to send you notification and update emails if you have selected to receive such mailings.
+We collect your email address to restrict any one person from creating dozens of accounts on the site, and to send you notification and update emails if you have selected to receive such mailings. We do not sell or share your email address, period.
 
 We do sometimes log your IP address as well as the date and time of access. This is to prevent abuse of the service and allows us to ban certain individuals from the site. Logging such information also assists in any police or higher authority cases that sometimes are brought to the internet.
 
@@ -39,4 +38,4 @@ On our end, your personal data is stored on private servers that serve only our 
 
 Of course, our privacy policy is subject to change at any time. Usually just adding something in to your benefit, or adding issues related to a new feature. Please know that we will always be looking out for your best interest and privacy.
 
-Last modified: August 18, 2005
+Last modified: April 25, 2007
