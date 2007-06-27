@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thatsmelbourne.com.au privacy policy that was archived on 2006-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060820013913id_/http%3A//www.thatsmelbourne.com.au/info.cfm%3Fpg%3D2194) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatsmelbourne.com.au privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627084528id_/http%3A//www.thatsmelbourne.com.au/info.cfm%3Fpg%3D2194) for the most accurate reproduction.*
 
 # That's Melbourne
 
@@ -26,9 +26,9 @@ Please contact the Council’s Privacy Officer on 9658 9173 if you have any othe
 
 ## Further information
 
-[  City of Melbourne's Privacy Policy statement (26kb) ](http://www.melbourne.vic.gov.au/rsrc/PDFs/Governance/Privacy.pdf)
+[  City of Melbourne's Privacy Policy statement (124kb) ](http://www.melbourne.vic.gov.au/rsrc/PDFs/Governance/CITYOFMELBOURNEPRIVACYPOLICYSTATEMENT.pdf)
 
-[  City of Melbourne's Privacy Policy statement (74kb) ](http://www.melbourne.vic.gov.au/rsrc/PDFs/Governance/Privacy.rtf)
+[  City of Melbourne's Privacy Policy statement (77kb) ](http://www.melbourne.vic.gov.au/rsrc/PDFs/Governance/CITYOFMELBOURNEPRIVACYPOLICYSTATEMENT.DOC)
 
 Victorian Privacy Commissioner [_http://www.privacy.vic.gov.au  _](http://www.privacy.vic.gov.au/)
 
