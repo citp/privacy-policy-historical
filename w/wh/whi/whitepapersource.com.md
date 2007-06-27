@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the whitepapersource.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213210303id_/http%3A//whitepapersource.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitepapersource.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627041808id_/http%3A//www.whitepapersource.com/privacy.html) for the most accurate reproduction.*
 
 # WhitePaperSource™ - Privacy and Spam Policy
 
-**Last Updated on** : January 20, 2006
+**Last Updated on** : May 9, 2007
 
-WhitePaperSource is committed to protecting the privacy of visitors to our website, subscribers to our newsletters, members of our forum and those providing contact information. In addition, WhitePaperSource is opposed to unauthorized commercial e-mail delivery, otherwise known as spam. Please read the following Privacy and Spam Policy to understand how your personal information is treated. From time to time WhitePaperSource may offer new information or services that may affect this policy. If you have any questions or concerns regarding this Privacy and Spam Policy, please send an e-mail to [admin@whitepapersource.com](mailto:admin@whitepapersource.com). Spam abuses can notified at [abuse@whitepapersource.com](mailto:abuse@whitepapersource.com).
+WhitePaperSource Publishing (herein referred to as WhitePaperSource) is committed to protecting the privacy of visitors to our website, subscribers to our newsletters, members of our forum and those providing contact information. In addition, WhitePaperSource is opposed to unauthorized commercial e-mail delivery, otherwise known as spam. Please read the following Privacy and Spam Policy to understand how your personal information is treated. From time to time WhitePaperSource may offer new information or services that may affect this policy. If you have any questions or concerns regarding this Privacy and Spam Policy, please send an e-mail to [admin@whitepapersource.com](mailto:admin@whitepapersource.com). Spam abuses can notified at [abuse@whitepapersource.com](mailto:abuse@whitepapersource.com).
 
 **WHAT INFORMATION DO WE COLLECT?** WhitePaperSource only collects user-provided personally identifiable information. This information is provided when website visitors complete one of our online forms (examples include newsletter subscriptions or contact forms). The following list includes ways we collect personal information from our website visitors and the type of information collected: 
 
-    **ELECTRONIC NEWSLETTER** : To register online for our electronic newsletter "[WhitePaperSource Newsletter](https://web.archive.org/web/20061213210303id_/http%3A//whitepapersource.com/newsletter.html)," we request the following required information: (i) full name, (ii) e-mail address and (iii) phone number via an online form. The provision of this information is mandatory in order to receive our newsletter. The provision of the remaining information requested on the registration form is optional. WhitePaperSource relies on a third-party service to collect and distribute our newsletter. [Click here for their Privacy Policy](http://www.cooleremail.com/aboutus_privacy.shtml).
+    **ELECTRONIC NEWSLETTER** : To register online for our electronic newsletter "[WhitePaperSource Newsletter](https://web.archive.org/web/20070627041808id_/http%3A//www.whitepapersource.com/newsletter.html)," we request the following required information: (i) full name, (ii) e-mail address and (iii) phone number via an online form. The provision of this information is mandatory in order to receive our newsletter. The provision of the remaining information requested on the registration form is optional. WhitePaperSource relies on a third-party service to collect contact information and distribute our newsletter. [Click here for their Anti-Spam Policy](http://www.cooleremail.com/aboutus_spam.shtml).
 
 **FORUM MEMBERSHIP** : To register online for full access to the "[WhitePaperSource Forum](http://www.whitepapersource.com/forum/)," we request the following required information: (i) username and (ii) e-mail address via an online form. The provision of this information is mandatory in order to receive the document. The provision of the remaining information requested on the registration form is optional.
 
@@ -32,7 +32,7 @@ WhitePaperSource is committed to protecting the privacy of visitors to our websi
 
 **WHAT IF THERE ARE CHANGES TO THIS PRIVACY AND SPAM POLICY?** If we change our Privacy and Spam Policy, we will post those changes on our privacy page at [www.whitepapersource.com/privacy.html](http://www.whitepapersource.com/privacy.html). If at any point we decide to use personal information in a manner different from that stated at the time it was collected, we will notify users by way of an e-mail. Users will have a choice whether or not we use their information in this new manner. By default we will use information in accordance with the Privacy and Spam Policy under which the information was collected.
 
-**HOW CAN I OPT OUT?** If you have opted in and later desire to opt-out from further receiving the WhitePaperSource Newsletter, you can make this change at any time by clicking on the unsubscribe URL embedded in our newsletter or [visiting this page and completing the online form](https://web.archive.org/web/20061213210303id_/http%3A//whitepapersource.com/newsletter-unsubscribe.html).
+**HOW CAN I OPT OUT?** If you have opted in and later desire to opt-out from further receiving the WhitePaperSource Newsletter, you can make this change at any time by clicking on the unsubscribe URL embedded in our newsletter.
 
 **SPAM POLICY** : WhitePaperSource is strongly opposed to spam. We will only send e-mail to users that have explicitly requested to receive an e-mail from WhitePaperSource. Examples may include:
 
@@ -46,7 +46,7 @@ WhitePaperSource is committed to protecting the privacy of visitors to our websi
 
 
 
-WhitePaperSource relies on a third-party service to collect and distribute our newsletter. [Click here for their spam policy](http://www.cooleremail.com/aboutus_spam.shtml).
+WhitePaperSource relies on a third-party service to collect and distribute our newsletter. [Click here for their Anti-Spam Policy](http://www.cooleremail.com/aboutus_spam.shtml).
 
 **WEB LINKS** : This web site contains links to other sites. Please be aware that WhitePaperSource is not responsible for the privacy practices or the content of such other sites. We encourage our users to be aware when they leave our site to read the privacy and spam policies of each and every web site that collects personally identifiable information. This Privacy and Spam Policy applies solely to information collected by this web site.
 
