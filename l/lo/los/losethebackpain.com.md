@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the losethebackpain.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206221725id_/http%3A//www.losethebackpain.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the losethebackpain.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627121402id_/http%3A//www.losethebackpain.com/privacy.html) for the most accurate reproduction.*
 
 # Back Pain & Sciatica Exercises, Stretches and Treatments for Pain Relief
 
