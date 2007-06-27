@@ -1,134 +1,70 @@
-<!--The following is the downloaded HTML source of the wyndham.com privacy policy that was archived on 2006-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061205200618id_/http%3A//www.wyndham.com/privacystatement/info.wnt) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wyndham.com privacy policy that was archived on 2007-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070627082919id_/http%3A//www.wyndham.com/privacystatement/info.wnt) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-<title>
+<html><head><title>
 Wyndham Hotels &amp; Resorts - Privacy Policy
 </title>
 
+<script type="text/javascript" src="/resources/javascript/w/common_reskin.js"></script>
+<script type="text/javascript" src="/resources/javascript/nav_interior.js"></script>
 
-
-
-<link href="/resources/css/wyndham.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="/resources/css/header.css">
+<link rel="stylesheet" type="text/css" href="/resources/css/footer.css">
+<link rel="stylesheet" type="text/css" href="/resources/css/leftNavWBR.css">
+<link rel="stylesheet" type="text/css" href="/resources/css/wyndham.css">
 <script language="JavaScript" src="/resources/javascript/common.js">
 </script>
 <script language="JavaScript" src="/resources/javascript/error.js">
+</script>
+<script type="text/javascript">
+	wynd_resv_widget = {
+		items : new Array(),
+		current : 0,
+		add_nav_item : function(mainnav,subnav) {
+			var index = this.items.length;
+			this.items[index] = new Array(mainnav,subnav);
+			addEvent($(mainnav),'click',function() { wynd_resv_widget.show_nav(index); });
+		},
+		show_nav : function(index) {
+			$(this.items[this.current][0]).className="";
+			$(this.items[this.current][1]).style.display='none';
+			this.current=index;
+			$(this.items[this.current][0]).className="active";
+			$(this.items[this.current][1]).style.display='block';
+		},
+		init : function() {
+			if(this.items.length>0) {
+				this.show_nav(this.current);
+			}
+		}
+	}
+	
+	
+	var init = function() {
+		wynd_nav.add_nav_item('mainnav_reservations','subnav_reservations');
+		wynd_nav.add_nav_item('mainnav_findlocations','subnav_findlocations');
+		wynd_nav.add_nav_item('mainnav_experiencewynd','subnav_experiencewynd');
+		wynd_nav.add_nav_item('mainnav_specialdeals','subnav_specialdeals');
+		wynd_nav.init();
+	}
+	addLoadEvent(init);
+
 </script>
 
 </head>
 
 
-<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" alink="#FF6600">
-
-<table width="740" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td>
+<body>
 
 
+<div id="skip_nav"><a href="#main_content">Skip to Main Content</a></div>
+<div id="container">
 
 
 
-<script language="JavaScript" type="text/javascript">
-<!--
-// setting focus on the first item that was invalid on the form
-var focusItemGS = "";
-var bgColorArrayGS = new Array(); // array for changing background color of invalid items
-var arrayCounterGS = 0;
-var helpPath = this.window.location.pathname; //variable for help feature
-
-function setFocusGS(itemGS) {
-    if (focusItemGS == "") focusItemGS = itemGS;
-}
-// Begin form validation
-function validateSearchForm(form)   {
-    if ((document.getElementById) || (document.all)) {
-        for (var loop=0; loop < bgColorArrayGS.length; loop++) {
-            var path = eval("document.headerSearch." + bgColorArrayGS[loop] + ".style");
-            path.backgroundColor = '#FFFFFF';
-        }
-        for (var loop=0; loop < bgColorArrayGS.length; loop++) {
-            bgColorArrayGS[loop] = "";
-        }
-    }
 
 
-        var output = "";
 
-        if (!validateAlphaNum(form.searchWord.value,1,30)) {
-                output += "* Search word or phrase\n";
-                setFocusGS(form.searchWord);
-                if ((document.getElementById) || (document.all)) {
-                    bgColorArrayGS[arrayCounterGS] = "searchWord";
-                    arrayCounterGS += 1;
-                }
-            }
-
-        //final validation error message
-        if (output != "")
-            {
-                alert("The following information was missing or incorrect:\n\n"+output);
-                focusItemGS.focus();
-                focusItemGS = "";
-                if ((document.getElementById) || (document.all)) {
-                    bgColorArrayGS.length = arrayCounterGS;
-                    arrayCounterGS = 0;
-
-                    //loop through to change background color of incorrect items
-                    for (var loop=0; loop < bgColorArrayGS.length; loop++) {
-                        var path = eval("document.headerSearch." + bgColorArrayGS[loop] + ".style");
-                        path.backgroundColor = '#FFFFCC';
-                    }
-                }
-                return false;
-            }
-
-        return true;
-    }
-//  End form validation
-
-//Begin function for setting default option in dropdown context sensitive
-function dropDownDefault() {
-
-  var path = this.window.location.pathname;
-  var arrpath=path.split("/");
-  var cur=arrpath[1];
-//  window.alert("inside selectit and cur is : " + cur);
-  switch (cur){
-
-     case "locator": cur="site";break;
-     case "wbr": cur="wbr";break;
-     case "meetingsandweddings": cur="meetings";break;
-     case "destinationsandinterests": cur="destinationsandinterests";break;
-     case "wotw": cur = "wotw";break;
-     //case "hotels": cur = "thishotel"; break;
-     case "corporate": cur = "corporate";break;
-     //case "help": cur = "help";  break;
-     default: cur="site";
- }
-
-
-// window.alert("cur after switching is :  " + cur);
- for (i=0;i < document.headerSearch.searchContext.length;i++) {
-
-//   window.alert(document.headerSearch.searchContext.options[i].value);
-
-   if (cur == document.headerSearch.searchContext.options[i].value) {
-//      window.alert("matched");
-        document.headerSearch.searchContext.options[i].defaultSelected = true;
-
-   } else {
-        document.headerSearch.searchContext.options[i].defaultSelected = false;
-   }
-
- }
- document.headerSearch.reset();
-
-}
-
-// end of context sensitive dropdown
-
-// -->
-</script>
 
 <!--%@ taglib uri="sitesearch.tld" prefix="search" %-->
 <!--%@ taglib uri="wbr.tld" prefix="wbr" %-->
@@ -137,158 +73,99 @@ function dropDownDefault() {
 
 
 
-<table width="740" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
 
-<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%% begin %%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+<div id="int_header_top">
+ 		
+			 
 
-<form name="headerSearch" action="/search/main.wnt" method="post"></form>
-<input type="hidden" name="searchContext" value="site">
-</tr></tbody></table><table id="header0001" width="740" border="0" cellpadding="0" cellspacing="0">
-    <tbody><tr bgcolor="#E9EEF6">
-<!-- wbr login -->
+<script type="text/javascript" src="/resources/javascript/common.js"></script>
+<script type="text/javascript" src="/resources/javascript/error.js"></script>
+<ul id="top_nav">
+	<li>Reservations : 877-999-3223</li>
+
+<li> <a href="/contact/contactus.wnt" tabindex="1">Contact Us</a></li><li> <a href="https://wyndham.custhelp.com/cgi-bin/wyndham.cfg/php/enduser/std_alp.php" tabindex="2">Help</a></li><li class="last"> <a href="/emailsubscriptions/main.wnt" tabindex="3">E-mail Offers</a></li>
+
+</ul>
+	
+
+		
+		
+
+	<!--WBR Login-->
+	<!--For Anonymous User-->
+
+		    
+		    <div id="int_wbr">
+    			<div id="int_wbr_header">WYNDHAM BYREQUEST</div>
+			<div id="int_wbr_nav"><a href="/wbr/signin.wnt?event=globalSignIn" class="arrow" title="WYNDHAM BYREQUEST" tabindex="3">Sign in</a> | <a href="/wbr/join.wnt" title="WYNDHAM BYREQUEST" tabindex="4">Join</a>	</div>
+			<p>Join our preferred guest program and customize your stay.</p>			
+			</div>
+		
+	
+	<!--Registered and signed User-->		
+	
+	 		
+   	</div>
        
-        <td class="hdrxsmall" width="350">&nbsp;&nbsp;</td>
-        <td align="right"><img src="/resources/images/wbr0000.gif" width="116" height="16" alt="" border="0">
-        <a href="/wbr/signin.wnt?event=globalSignIn">
-        <img src="/resources/images/wbr0002.gif" width="36" height="16" alt="Sign In" border="0"></a>
-        <img src="/resources/images/wbr0001.gif" width="7" height="16" alt="" border="0">
-        <a href="/wbr/join.wnt"><img src="/resources/images/wbr0003.gif" width="130" height="16" alt="Join Wyndham ByRequest" border="0"></a>
-        <img src="/resources/images/spacer.gif" width="5" height="16" alt="" border="0"></td>
-       
-     
-<!-- /wbr login -->
-    </tr>
-    <tr>
-<!-- logo_search -->
-        <td colspan="2">
-
-        <table id="header0002" width="740" height="53" border="0" cellpadding="0" cellspacing="0" bordercolor="red">
-        <tbody><tr>
-            <td rowspan="2" valign="middle" align="left"><a href="/main.wnt"><img border="0" name="logo" src="/resources/images/logo_wyndham.gif" width="172" height="48" alt="Wyndham Hotels &amp; Resorts"></a></td>
-<!-- tile_banners -->
-                <td align="right" valign="middle">
-                
-                    <a href="http://www.wyndhampromotions.com/tiles/tile001.asp"><img src="/resources/images/tile001.gif" width="128" height="26" alt="" border="0"></a>
-                    <a href="http://www.wyndhampromotions.com/tiles/tile002.asp"><img src="/resources/images/tile002.gif" width="128" height="26" alt="" border="0"></a>
-                    <a href="http://www.wyndhampromotions.com/tiles/tile003.asp"><img src="/resources/images/tile003.gif" width="128" height="26" alt="" border="0"></a>
-                
-                </td>
-<!-- /tile_banners -->
-                </tr>
 
 
-<!-- /logo_search -->
+	<div id="int_header_main">
+		<div id="int_logo"><a href="/main.wnt" tabindex="30"><img src="/resources/images/home_logo.gif" alt="Wyndham Hotels And Resorts" width="159" height="40"></a></div>
+		
 
 
-<tr>
-     <td align="right">
-     <table border="0" cellpadding="0" cellspacing="0">
-     <tbody><tr>
-        <td valign="middle">
-        
+			<div id="int_nav">
+				<ul id="wynd_mainnav">
+					<li><a id="mainnav_reservations" class="mainnav_on" href="/rates/main.wnt" tabindex="30"><span>Check Rates &amp; Reservations</span></a></li>
+					<li><a id="mainnav_findlocations" class="mainnav_off" href="/locator/main.wnt" tabindex="40"><span>Find Locations</span></a></li>
 
-                         
-                         <a href="/emailsubscriptions/main.wnt">
-                        
-                         
+					<li><a id="mainnav_experiencewynd" class="mainnav_off" href="/landing/experience.wnt" tabindex="50"><span>Experience Wyndham</span></a></li>
+					<li><a id="mainnav_specialdeals" class="mainnav_off" href="/landing/specials.wnt" tabindex="60"><span>Special Deals &amp; Packages</span></a></li>									
+				</ul>
+				<ul id="subnav_reservations" class="subnav" style="display: block;">
+					<li><a href="/rates/main.wnt" tabindex="31">Book a room</a></li>
+					<li class="last"><a href="http://wynres.wyndham.com/pls/wss/html_ui_search.resv?ref=12345&amp;cha=CANCEL&amp;usr=&amp;gue=" tabindex="33">View or cancel a reservation</a></li>
+				</ul>
+				<ul id="subnav_findlocations" class="subnav">
+					<li><a href="/locator/main.wnt" tabindex="41">Find by destination</a></li>
+					<li class="last"><a href="/hoteldir/main.wnt" tabindex="42">Find by property</a></li>
+				</ul>		
+				<ul id="subnav_experiencewynd" class="subnav">
+					<li class="last" tabindex="56"><a href="/destinationsandinterests/wvo/main.wnt">Wyndham Vacation Ownership</a></li>
 
-                        <img src="/resources/images/sub0010.gif" width="117" height="20" alt="" border="0"></a>
-                        <img src="/resources/images/header0003_02.gif" width="9" height="20" alt="" border="0">
-                        <a href="/contact/contact.wnt"><img src="/resources/images/contact0010.gif" width="58" height="20" alt="" border="0"></a>
-                        <img src="/resources/images/header0003_02.gif" width="9" height="20" alt="" border="0">
-                        <a href="javascript:openWindow('http://www.wyndham.com/help/main.jsp?url='+helpPath);">
-                        <img src="/resources/images/help0010.gif" width="27" height="20" alt="" border="0"></a>
-                        <img src="/resources/images/header0003_02.gif" width="9" height="20" alt="" border="0">
-                        <img src="/resources/images/search0010.gif" width="39" height="20" alt="" border="0"></td>
-                        <td><input type="text" value="" name="searchWord" size="20" maxlength="30" class="formcaption"></td>
-                        <td valign="middle"><a href="javascript:if (validateSearchForm(document.headerSearch)) document.headerSearch.submit();"><img src="/resources/images/go0010.gif" width="41" height="20" alt="" border="0"></a></td>
-                    </tr>
-                </tbody></table></td>
+					<li><a href="/destinationsandinterests/main.wnt" tabindex="55">Destinations &amp; Interests</a></li>
+					<li><a href="http://www.wyndhamsmallmeetings.com" tabindex="54">Reunions &amp; Social Events</a></li>
+					<li><a href="/meetingsandweddings/weddingsbywyndham/main.wnt" tabindex="53">Weddings</a></li>
+					<li><a href="/meetingsandweddings/meetings/main.wnt" tabindex="52">Meeting Professional</a></li>
 
+					<li><a href="/wbr/member_page.wnt" tabindex="51">Wyndham ByRequest</a></li>
+				</ul>
+				<ul id="subnav_specialdeals" class="subnav">
+					<li class="last" tabindex="63"><a href="/specialoffers/category/specialrates.wnt" tabindex="63">Member Discounts</a></li>
+					<li><a href="http://www.WyndhamVacations.com" tabindex="62">Hotel + Air</a></li>
+					<li><a href="/specialoffers/programs/specialsandpackages/main.wnt" tabindex="61">Our best deals</a></li>
+				</ul>			
+			</div>	
+
+	</div>
+	<div id="legacy_main">
+		<div id="wynd_sidenav">
+		<ul>
+        <ul>
+ <li><a href="">Privacy Policy</a></li>
+<br>
+
+</ul></ul>
 
         
-
-
-
-    
-    </tr>
-    </tbody></table>
-    </td></tr>
-</tbody></table>
-</td></tr>
-
-
-</tbody></table>
-<!-- /HEADER TABLE -->
-
-
-
-
-
-
-
-
-
-
-
-    <!-- GLOBAL NAV TABLE -->
-<table width="750" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-    <td><a href="/rates/main.wnt" onmouseover="setImg('nav_rr',IMGOVER)" onmouseout="setImg('nav_rr',IMGOFF)" onclick="setImg('nav_rr',IMGON);"><img name="nav_rr" src="/resources/images/nav_rr_off.gif" width="107" height="32" alt="Rates and Reservations" title="Rates and Reservations" border="0"></a><a href="/locator/main.wnt" onmouseover="setImg('nav_locate',IMGOVER)" onmouseout="setImg('nav_locate',IMGOFF)" onclick="setImg('nav_locate',IMGON);"><img name="nav_locate" src="/resources/images/nav_locate_off.gif" width="105" height="32" alt="Hotel and Resort Locator" title="Hotel and Resort Locator" border="0"></a><a href="/wbr/member_page.wnt" onmouseover="setImg('nav_byr',IMGOVER)" onmouseout="setImg('nav_byr',IMGOFF)" onclick="setImg('nav_byr',IMGON);"><img name="nav_byr" src="/resources/images/nav_byr_off.gif" width="106" height="32" alt="Wyndham ByRequest" title="Wyndham ByRequest" border="0"></a><a href="/specialoffers/main.wnt" onmouseover="setImg('nav_so',IMGOVER)" onmouseout="setImg('nav_so',IMGOFF)" onclick="setImg('nav_so',IMGON);"><img name="nav_so" src="/resources/images/nav_so_off.gif" width="105" height="32" alt="Special Offers" title="Special Offers" border="0"></a><a href="/meetingsandweddings/main.wnt" onmouseover="setImg('nav_mw',IMGOVER)" onmouseout="setImg('nav_mw',IMGOFF)" onclick="setImg('nav_mw',IMGON);"><img name="nav_mw" src="/resources/images/nav_mw_off.gif" width="106" height="32" alt="Meetings and Weddings" title="Meetings and Weddings" border="0"></a><a href="/destinationsandinterests/main.wnt" onmouseover="setImg('nav_di',IMGOVER)" onmouseout="setImg('nav_di',IMGOFF)" onclick="setImg('nav_di',IMGON);"><img name="nav_di" src="/resources/images/nav_di_off.gif" width="106" height="32" alt="Destinations and Interests" title="Destinations and Interests" border="0"></a><a href="/wotw/main.wnt" onmouseover="setImg('nav_wotw',IMGOVER)" onmouseout="setImg('nav_wotw',IMGOFF)" onclick="setImg('nav_wotw',IMGON);"><img name="nav_wotw" src="/resources/images/nav_wotw_off.gif" width="105" height="32" alt="Women On Their Way" title="Women On Their Way" border="0"></a></td>
-</tr>
-</tbody></table>
-<!-- /GLOBAL NAV TABLE -->
-
-  
-
-
-
-
-
-
-
-
-
-
-<!-- BODY TABLE -->
-<!-- Add logic for home page -->
-<table width="740" border="0" cellspacing="0" cellpadding="0">
-
-    <tbody><tr>
-
-         <td valign="top" width="145" bgcolor="#E9EDF6">
-<!-- left nav nested table -->
-<table width="145" border="0" cellspacing="0" cellpadding="0" bgcolor="#E9EDF6">
-<tbody><tr>
-<td width="10"><img src="/resources/images/spacer.gif" width="10" height="10"></td>
-<td width="5"><img src="/resources/images/spacer.gif" width="5" height="1"></td>
-<td width="5"><img src="/resources/images/spacer.gif" width="5" height="1"></td>
-<td width="125"><img src="/resources/images/spacer.gif" width="125" height="1"></td>
-</tr>
-<tr>
-    <td><img src="/resources/images/spacer.gif" width="10" height="1"></td>
-    <td colspan="3" valign="top" class="leftnavhdr">Privacy Policy</td>
-</tr>
-
-</tbody></table>
-
-<!-- /left nav nested table -->
-</td>
-
-        <!-- GUTTER -->
-        <td width="10"><img src="/resources/images/spacer.gif" width="10" height="1"></td>
-    <!-- /GUTTER -->
-
-            <!-- page content -->
-
-            <td>
+       </div>
+        	 <div id="wynd_maincontent"> 
             
 
 
 
 <!-- INNER CONTENT -->
-	</td><td valign="top" width="585">
+	
 	<!-- inner content nested one-column body table -->
 	<table width="100%" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
@@ -817,229 +694,57 @@ Our office is open from 9 a.m. - 5 p.m. Central Time, Monday through Friday. Ple
 	
 	</tbody></table>
 	<!-- /inner content nested table -->
-</td>
+
 <!-- /INNER CONTENT -->
 
  
 
 
-            
-            <!-- /page content -->
-    </tr>
-
-</tbody></table>
-
-
-
-<!-- /BODY TABLE -->
+		</div>
+	</div>
+	<div id="legacy_ftr" class="footer">
+		
 
 
 
 
 
-
-
-
-<!-- This file will need some logic so that the Text for the current page
-will be be a link -->
 <!-- FOOTER TABLE -->
-<table width="740" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-    <td><img src="/resources/images/spacer.gif" width="1" height="30"></td>
-</tr>
-<tr>
-    <td bgcolor="#000000"><img src="/resources/images/spacer.gif" width="740" height="4"></td>
-</tr>
-<tr>
-    <td><img src="/resources/images/spacer.gif" width="1" height="5"></td>
-</tr>
-<tr>
-    <td class="copysmall" align="center" style="text-align: center; line-height:20px">
-    <a href="http://www.wyndhampromotions.com/store">Wyndham Store</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="/corporate/main.wnt">Corporate Information</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.wyndham-recruiting.com/">Employment Opportunities</a><br>
-<a href="/travelagents/main.wnt">Travel Agent Services</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.connectcommerce.com/secure/partner_app.html?ccmid=K36637">Become an Affiliate</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="/corporate/franchise/main.wnt">Franchise Opportunities</a><br>
-©2006 Wyndham Worldwide&nbsp;&nbsp;&nbsp;&nbsp;<a href="/hoteldir/main.wnt">Wyndham Hotels &amp; Resorts®</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="/privacystatement/info.wnt">Privacy Policy</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="/terms/info.wnt">Terms of Use</a><a href="/hotels/hotels_for_indexing.jsp"></a></td>
-</tr>
-</tbody></table>
+ 
 
-<!--wcomap02-->
-
-
-<!-- DCS code -->
-
-
-
-<!-- Begin DCS server tag -->
-
-<!-- START OF SmartSource Data Collector TAG -->
-<!-- Copyright 2002 NetIQ Corporation -->
-<!-- V6.1 -->
-<!-- $DateTime: 2003/07/15 11:52:11 $ -->
-<!-- $Revision: #3 $ -->
-<script language="Javascript"><!--
-gVersion="1.0";
-//-->
-</script>
-<script language="Javascript1.1"><!--
-gVersion="1.1";
-//-->
-</script>
-<script language="Javascript1.2"><!--
-gVersion="1.2";
-var RE={"%09":/\t/g, "%20":/ /g, "%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
-//-->
-</script>
-<script language="Javascript1.3"><!--
-gVersion="1.3";
-//-->
-</script>
-<script language="Javascript1.4"><!--
-gVersion="1.4";
-//-->
-</script>
-<script language="Javascript1.5"><!--
-gVersion="1.5";
-//-->
-</script>
-<script language="JavaScript"><!--
-var gImages=new Array;
-var gIndex=0;
-var DCS=new Object();
-var WT=new Object();
-var DCSext=new Object();
-
-var gDomain="dcs.wyndham.com";
-var gDcsId="";
-// Add customizations here
-//WT.sp="@@SPLITVALUE@@";
-
-function dcsVar(){
-    var dCurrent=new Date();
-    WT.tz=dCurrent.getTimezoneOffset()/60*-1;
-    WT.bh=dCurrent.getHours();
-    WT.ul=navigator.appName=="Netscape"?navigator.language:navigator.userLanguage;
-    if (typeof(screen)=="object"){
-        WT.cd=screen.colorDepth;
-        WT.sr=screen.width+"x"+screen.height;
-    }
-    if (typeof(navigator.javaEnabled())=="boolean"){
-        WT.jo=navigator.javaEnabled()?"Yes":"No";
-    }
-    if (document.title){
-        WT.ti=document.title;
-    }
-    WT.js="Yes";
-    if (typeof(gVersion)!="undefined"){
-        WT.jv=gVersion;
-    }
-    DCS.dcsdat=dCurrent.getTime();
-    DCS.dcssip=window.location.hostname;
-    DCS.dcsuri=window.location.pathname;
-    if (window.location.search){
-        DCS.dcsqry=window.location.search;
-    }
-    if ((window.document.referrer!="")&&(window.document.referrer!="-")){
-        if (!(navigator.appName=="Microsoft Internet Explorer"&&parseInt(navigator.appVersion)<4)){
-            DCS.dcsref=window.document.referrer;
-        }
-    }
-}
-
-function A(N,V){
-    return "&"+N+"="+dcsEscape(V);
-}
-
-function dcsEscape(S){
-    if (typeof(RE)!="undefined"){
-        var retStr = new String(S);
-        for (R in RE){
-            retStr = retStr.replace(RE[R],R);
-        }
-        return retStr;
-    }
-    else{
-        return escape(S);
-    }
-}
-
-function dcsCreateImage(dcsSrc){
-    if (document.images){
-        gImages[gIndex]=new Image;
-        gImages[gIndex].src=dcsSrc;
-        gIndex++;
-    }
-    else{
-        document.write('<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="'+dcsSrc+'">');
-    }
-}
-
-function dcsMeta(){
-    var myDocumentElements;
-    if (document.all){
-        myDocumentElements=document.all.tags("meta");
-    }
-    else if (document.documentElement){
-        myDocumentElements=document.getElementsByTagName("meta");
-    }
-    if (typeof(myDocumentElements)!="undefined"){
-        for (var i=1;i<=myDocumentElements.length;i++){
-            myMeta=myDocumentElements.item(i-1);
-            if (myMeta.name){
-                if (myMeta.name.indexOf('WT.')==0){
-                    WT[myMeta.name.substring(3)]=myMeta.content;
-                }
-                else if (myMeta.name.indexOf('DCSext.')==0){
-                    DCSext[myMeta.name.substring(7)]=myMeta.content;
-                }
-                else if (myMeta.name.indexOf('DCS.')==0){
-                    DCS[myMeta.name.substring(4)]=myMeta.content;
-                }
-            }
-        }
-    }
-}
-
-function dcsTag(){
-    var P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+(gDcsId==""?'':'/'+gDcsId)+"/dcs.gif?";
-    for (N in DCS){
-        if (DCS[N]) {
-            P+=A(N,DCS[N]);
-        }
-    }
-    for (N in WT){
-        if (WT[N]) {
-            P+=A("WT."+N,WT[N]);
-        }
-    }
-    for (N in DCSext){
-        if (DCSext[N]) {
-            P+=A(N,DCSext[N]);
-        }
-    }
-    if (P.length>2048&&navigator.userAgent.indexOf('MSIE')>=0){
-        P=P.substring(0,2040)+"&WT.tu=1";
-    }
-    dcsCreateImage(P);
-}
-
-dcsVar();
-dcsMeta();
-dcsTag();
-//-->
-</script>
-
-<noscript>
-<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://dcs.wyndham.com/njs.gif?dcsuri=/nojavascript&WT.js=No">
-</noscript>
-<!-- END OF Data Collection Server TAG -->
-<!-- End DCS server tag -->
+<!-- CMS Content -->
+<div id="footer_links">
+	<ul class="footer_nav">
+		<li><a href="/corporate/sitemap/main.wnt" tabindex="500">Site Map</a></li>
+		<li><a href="/corporate/main.wnt" tabindex="501">About Wyndham Hotels and Resorts, LLC</a></li>
+		<li class="last"><a href="http://www.wyndhamworldwide.com/" tabindex="702">Wyndham Worldwide Corporation</a></li></ul>
+			
+	<ul class="footer_nav">
+		<li><a href="/corporate/franchise/main.wnt" tabindex="502">Franchise Opportunities</a></li>
+		<li><a href="/destinationsandinterests/wvo/main.wnt" tabindex="503">Wyndham Vacation Ownership</a></li>
+		<li class="last"><a href="/corporate/recruiting/main.wnt" tabindex="705">Employment Opportunities</a></li></ul>
+			
+	<ul class="footer_nav">
+		<li><a href="http://www.wyndham-hotelsathome.com/" tabindex="505">Wyndham Store</a></li>
+		<li><a href="/travelagents/main.wnt" tabindex="505">Travel Agent Services</a></li>
+		<li class="last"><a href="https://www.connectcommerce.com/secure/partner_app_alt.html?ccmid=K36637" tabindex="506">Join Affiliate Program</a></li></ul>
+		
+	<ul class="footer_nav">
+		<li><a href="/privacystatement/info.wnt" tabindex="507">Privacy Policy</a></li>
+		<li class="last"><a href="/terms/info.wnt" tabindex="508">Terms of Use</a></li></ul>
+	
+	<ul class="footer_nav">
+		<li class="last">©2007 Wyndham Hotels and Resorts, LLC</li></ul>
+</div>
+		<div id="wynd_footer_signup">
+			E-mail me exclusive Wyndham offers. | <a href="/emailsubscriptions/main.wnt" tabindex="600" title="E-mail me exclusive Wyndham offers">Sign Up Now</a>
+</div>
+<!-- /CMS Content -->
 
 
-<!-- /DCS code -->
+<!--wcomap03-->
 
 
-
-    
-    
 
 
 
@@ -1050,9 +755,9 @@ Copyright 1997-2006 Omniture, Inc. More info available at
 
 http://www.omniture.com -->
 
-<script language="JavaScript" src="/resources/includes/s_code.js"></script><img name="s_i_chgwyndham" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/chgwyndham/1/H.7-pdv-2/s0148064590460?[AQB]&amp;ndh=1&amp;t=31/0/2020%2014%3A14%3A6%205%200&amp;ce=ISO-8859-1&amp;g=https%3A//web.archive.org/web/20061205200618id_/http%253A//www.wyndham.com/privacystatement/info.wnt&amp;cc=USD&amp;ch=Other&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+<script type="text/javascript" src="/resources/includes/s_code.js"></script><img name="s_i_chgwyndham" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/chgwyndham/1/H.7-pdv-2/s07021539493737?[AQB]&amp;ndh=1&amp;t=31/0/2020%2014%3A14%3A9%205%200&amp;ce=ISO-8859-1&amp;g=https%3A//web.archive.org/web/20070627082919id_/http%253A//www.wyndham.com/privacystatement/info.wnt&amp;cc=USD&amp;ch=Other&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
 
-<script language="JavaScript"><!--
+<script type="text/javascript"><!--
 
 /* You may give each page an identifying name, server, and channel on
 
@@ -1104,26 +809,23 @@ s.eVar5=""
 
 var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 
-<script language="JavaScript"><!--
+<script type="text/javascript"><!--
 
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 
-//--></script><noscript><img
-
-src="http://chgwyndham.112.2O7.net/b/ss/chgwyndham/1/H.7--NS/0"
-
-height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+//--></script>
+<noscript>
+<p>
+<img src="http://chgwyndham.112.2O7.net/b/ss/chgwyndham/1/H.7--NS/0" height="1" width="1" alt="" />
+</p>
+</noscript><!--/DO NOT REMOVE/-->
 
 <!-- End SiteCatalyst code version: H.7. -->
 
 
 
-<!-- /FOOTER TABLE -->
-
-
-
-
-
+   	</div>
+  </div>
 
 
 
