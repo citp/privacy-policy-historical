@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ncld.org privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212074408id_/http%3A//www.ncld.org/content/view/530/401) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncld.org privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627024239id_/http%3A//www.ncld.org/content/view/530/401) for the most accurate reproduction.*
 
 # NCLD - Privacy Policy
 
-Here at NCLD your privacy is extremely important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to view our site as a source you can trust. We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how NCLD collects information from all end users of our organization sites, including [www.ld.org](http://www.ncld.org/); [www.keepkidslearning.org](http://www.keepkidslearning.org/); and [www.getreadytoread.org](http://www.getreadytoread.org/). NCLD requests that you read this Privacy Policy carefully. 
+Here at NCLD your privacy is extremely important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to view our site as a source you can trust. We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how NCLD collects information from all end users of our organization sites, including [www.ld.org](http://www.ld.org/); [www.getreadytoread.org](http://www.getreadytoread.org/); and [www.recognitionandresponse.org](http://www.recognitionandresponse.org/). NCLD requests that you read this Privacy Policy carefully. 
 
 **How NCLD Collects and Uses Visitor Information**  
 NCLD collects information in different ways from visitors who access our sites. We use this information to helps us to provide you with important, relevant and timely information. NCLD does not share this information with third parties. We also utilitize e-mails collected via the sites to provide you with newsletters, advocacy and fundraising information. You will receive an e-mail confirming that you wish to receive this information. Should you not wish to receive it, do not respond to the e-mail.
@@ -40,8 +40,7 @@ Please remember that any information you may disclose in our other public areas,
 Services and Web sites we sponsor have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information. 
 
 **Where to Direct Questions About NCLD's Privacy Policy**  
-If you have any questions about this Privacy Policy or the practices described herein, you may contact [help@ncld.org](mailto:help@ncld.org) .
+If you have any questions about this Privacy Policy or the practices described herein, or have any questions about the use of your contact information, you may contact [help@ncld.org](mailto:help@ncld.org)  or 212-545-7510.
 
  **Revisions to This Policy**  
-NCLD reserves the right to revise, amend, or modify this policy and our other policies and agreements at any time and in any manner.  
-Rev. 4/11/03 
+NCLD reserves the right to revise, amend, or modify this policy and our other policies and agreements at any time and in any manner.
