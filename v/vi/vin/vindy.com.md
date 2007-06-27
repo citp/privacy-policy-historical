@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vindy.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205212552id_/http%3A//www.vindy.com/legal/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vindy.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627092447id_/http%3A//www.vindy.com/legal/privacy/index.php) for the most accurate reproduction.*
 
 # Vindy.com - Privacy Statement
 
@@ -20,7 +20,7 @@ While visiting the Sites, you can be assured that no personal information is col
 
 #### **b. **Interactive Areas.****
 
-(1) Participation in the Sites’ interactive forums and subscriptions to premium content requires that you register for an account.  The registration process requests that you voluntarily supply us with personal information, including your name, postal address, daytime and evening telephone numbers and e-mail address. 
+(1) Subscriptions to premium content and other sections of the site(s) require that you register for an account. The registration process requests that you voluntarily supply us with personal information, including your name, postal address, daytime and evening telephone numbers and e-mail address.
 
 (2) If you choose to engage in other interactive activities via the Sites, for example by making submissions, answering surveys, entering contests, or obtaining copies of articles and the like via e-mail, you may be asked for the same personal information as in the account registration process and/or may be assigned a unique identifier through the use of a cookie (see Section II about “cookies”).
 
