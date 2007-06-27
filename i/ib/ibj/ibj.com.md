@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ibj.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019083403id_/http%3A//www.ibj.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibj.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627155718id_/http%3A//www.ibj.com/html/privacy_policy.html) for the most accurate reproduction.*
 
-# IBJ Story
+# Privacy Policy
 
 Indianapolis Business Journal will never share your private information (e-mail address, etc.) with anyone unless you expressly request IBJ to do so. 
 
@@ -18,13 +18,16 @@ Third parties provide some of the content provided on this Website. These partie
 
 Our site uses cookies to track visitors to our site. 
 
-**Security**   
+Security   
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. You can send email to [thofherr@ibj.com](mailto:thofherr@ibj.com). 
+This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. You can send email to [webmaster@ibj.com](mailto:webmaster@ibj.com). 
 
-**Correct/Update**   
-This site gives users the following options for changing and modifying information previously provided. Send email to: [thofherr@ibj.com](mailto:thofherr@ibj.com). 
+Correct/Update   
+This site gives users the following options for changing and modifying information previously provided. Send email to: [webmaster@ibj.com](mailto:webmaster@ibj.com). 
 
-**Contacting the Web Site**   
+Contacting the Web Site   
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: IBJ Corp., 41 E. Washington St., Indianapolis, IN 46204, 317.634.6200 
+
+  
+ 
