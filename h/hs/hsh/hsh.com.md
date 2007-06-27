@@ -1,15 +1,13 @@
-> *The following text is extracted and transformed from the hsh.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205195308id_/http%3A//www.hsh.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsh.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627043349id_/http%3A//www.hsh.com/privacy.html) for the most accurate reproduction.*
 
 # HSH Associates: Disclaimers and our Privacy Policy
 
-The websites _HSH.com_ , _Homeplans.HSH.com_ , _BestRates.com_ and _Bankrates.com_ , as well as other domains registered by us (the "websites") are subsidiaries of [HSH Associates, Financial Publishers](http://www.hsh.com/abouthsh.html). We are totally committed to protecting your privacy. This is a summary of the various ways we treat the information you provide us while visiting our Web site.
-
-(If you believe that you were spammed by our Bestrates.com site, please [click here](http://www.hsh.com/spamalert.html) to discover how the real spammer fooled you.)
+The websites www.HSH.com, HomePlans.HSH.com, BestRates.com, BankRates.com, www.ArmIndexes.com, and/or HSH mirror sites, co-branded sites, and/or derivative sites (collectively "HSH.com" or "HSH") are subsidiaries of [HSH Associates, Financial Publishers](http://www.hsh.com/abouthsh.html). We are totally committed to protecting your privacy. This is a summary of the various ways we treat the information you provide us while visiting our Web site.
 
 It has been our policy, since the company was founded in 1979, to never sell personally identifying information about our customers.
 
   * HSH does not collect personally identifying information, except with your specific knowledge and consent.
-  * We _never_ sell or offer contact information about our visitors to others. There's no need to send us an "opt out" message to prevent your name from appearing on a million mailing lists.
+  * We _never_ sell or offer contact information about our visitors to others, including ['trigger leads'](https://web.archive.org/news/privacy_aggregators.html). There's no need to send us an "opt out" message to prevent your name from appearing on a million mailing lists.
 
 
 
@@ -34,3 +32,11 @@ Finally, while your individual information is protected as outlined above, we do
 Our privacy policy may be modified from time to time; the last update was on July 22, 2004.
 
 If you ever have any concerns or questions about our privacy policy, please [send us e-mail](http://www.hsh.com/bnbform.html). We welcome your feedback. You can also write to us at the following address:
+
+#### HSH® Associates, Financial Publishers   
+237 West Parkway   
+Pompton Plains NJ 07444   
+800-873-2837 | 973-617-6700 | [E-mail](http://www.hsh.com/bnbform.html)
+
+  
+
