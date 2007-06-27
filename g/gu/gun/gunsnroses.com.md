@@ -1,113 +1,60 @@
-> *The following text is extracted and transformed from the gunsnroses.com privacy policy that was archived on 2006-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060719050254id_/http%3A//www.gunsnroses.com/nad/misc/policy/0%2C%2C%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunsnroses.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628015943id_/http%3A//web.gunsnroses.com/about/privacy.jsp) for the most accurate reproduction.*
 
-# Free Music Download, MP3 Music, Music Chat, Music Video, Music CD, ARTISTdirect Network
+# Guns N' Roses: About: Privacy Policy
 
-**ARTISTdirect NETWORK - PRIVACY POLICY**
+GunsNRoses.com Privacy Statement
 
-**Privacy Policy Overview**  
-We understand your need to maintain your privacy when using the Internet for your communication, shopping, exploration, and play. To make sure you understand our approach to online privacy issues, you MUST read this Privacy Policy and our Terms of Use as a condition to using the ARTISTdirect Network.
+**Black Frog Entities, Inc. ("Black Frog"), W. Axl Rose et al. p/k/a Guns N' Roses ("Guns N' Roses"), in association with MLB Advanced Media, L.P., ("MLBAM") produces GunsNRoses.com, the Official Website of Guns N' Roses (the "Website"). We are committed to safeguarding your privacy online. This Privacy Policy is applicable to this Website only.**
 
-We ask you for your personal information when you sign up for our mailing list, when you make a purchase, download music, participate in any community features, access ticket pre-sales or enter a contest or sweepstakes. We also may ask you various questions about your interests or preferences. We use this information to personalize the Site for you, to inform you about or offer you new features or services customized to your preferences, for marketing purposes, to contact you about your purchases, or to notify you if you have won a prize or contest. 
+**General**  
+You can visit and enjoy the Website without disclosing any personal information about yourself. However, we offer some special services, and for these services to work properly we will need you to share with us certain personal information about yourself. The personal information we collect may include, but is not limited to, first and last name, street address, e-mail address, telephone number (e.g., home, work, mobile and/or fax), and birthdate. We may also collect other personal information that will be identified on the applicable page(s) of the Website. If you submit any personal information to us, or to our third party service providers acting on our behalf, you can be assured that we will not sell, lease, or share your personal information with or to anyone else, except as follows: (1) to our third party service providers, and only so that they may help us provide the services you've requested and in certain circumstances to provide you with ticket related offers; (2) upon notice posted on an applicable location of our Website where we collect your personal information for an economic transaction and notify you that we will be sharing such information with a third party, where such third party is clearly identified; and (3) on occasion, we may offer a special promotion (such as a sweepstakes, contest or a free subscription to goods and services) on the Website in conjunction with a third party service provider, sponsor, or promotional partner, and share your information with that third party service provider, sponsor, or promotional partner so that it can send you other special promotions it offers, but only if you give us permission to do so.
 
-We'll give you the choice whether to receive email or other contact from us and from any of the companies we work with, and we give you the opportunity to unsubscribe from receiving unwanted communications (click here for instructions.) Also, we provide the opportunity for you to update and/or correct information we have about you (click here for instructions.) 
+**Special Offers and Promotions.**  
+With your permission, we may also send you e-mails and text messages with special offers and promotions. If you don't want to receive these, you may change your preferences.
 
-We do not sell your personally identifiable information. We may, however, share it with companies that help us operate the Site, such as our credit card companies and the company that packages and ships our merchandise for delivery to you. We might also share it with prize providers for our sweepstakes and contests. If you've given us your permission, we may share your personal information with other companies that provide products or services we think will be of interest to you, and we may send you information in connection with the musical preferences you have selected. We use industry-standard efforts to safeguard any personal information, and any financial information we receive from you is encrypted. However, we may be required to release personal information about you as a result of a law suit or subpoena or as immediately necessary to protect our rights or the rights and safety of other users. Remember though, "perfect security" doesn't exist on the Internet. 
+**Cookies.**  
+To help us serve you better, we collect information that does not identify you personally, but rather identifies your computer or browser. This is done by using little files called "cookies" and by tracking IP addresses. A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a Website's computers and stored on your computer's hard drive. Cookies operate in the background, and you can turn them off if you wish, but doing so may impair your ability to use some of the features on the Website. We may use cookies to make the Website work better by, for example, keeping track of your login name, password and, if you want to buy things while on the Website, the "shopping cart." We may also allow other companies that are presenting advertisements or providing services on our pages to set and access cookies on your computer. Those companies' use of cookies will be covered by their own privacy policies, not ours. Specifically, we use a third-party advertising company to serve ads when you visit certain pages of the Website. This company may use aggregated information (not including your name, address, e-mail address or telephone number) about your visits to the Website in order to provide advertisements about goods and services of interest to you. If you would like more information about the information collection practices of this third-party advertising company, click here. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the user to accept or reject cookies. If you set your browser not to accept cookies, you may not be able to take advantage of certain services on the Website. We may also use IP addresses to analyze trends, help us administer the Website, track the movement of visitors, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
 
-For a complete discussion of the terms of our Privacy Policy, please see the FAQ below. This Privacy Policy is incorporated into and subject to our Terms of Use. ARTISTdirect may modify this Privacy Policy at any time. You are responsible for reviewing our Privacy Policy before using the Sites or providing any information. If you believe we have violated these policies, please notify us, and we will promptly investigate and try to remedy the problem (click here for instructions.)
+**Aggregated Demographic Information.**  
+We may share aggregated demographic information with third parties, but this information is not linked to any personal information that can identify you or another individual person. Therefore, no personal information is disclosed in this manner.
 
-**Frequently Asked Questions**
+**Business Transfers.**  
+As time passes, EJ may be sold along with its assets, or other transactions may occur in which customer information is one of the business assets transferred. In such a case, the customer information which we have gathered may be one of the business assets we transfer.
 
-What information do we collect?  
-How do we use the personal information we collect?  
-Is the Site secure so that other people can not obtain your information from the site without your consent?  
-Limits on our abilities  
-What about the privacy of users who are 13 and under?  
-How can you change or correct the personal information you provided to us?  
-What about cookies?
+**Disclosure for Legal Purposes.**  
+The law requires that we may be required to share your personal information and non-personal information (see "Cookies" section above for examples of non-personal information) pursuant to judicial or governmental subpoenas, warrants or orders. If we are required to do so, we will, of course, obey the law. In addition, notwithstanding any term to the contrary in this Privacy Policy, we reserve the right to use and disclose share your personal and non-personal information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of this Website's Terms of Service, or as otherwise required by law.
 
-**What information do we collect?**  
-The information we collect that falls into one of two categories - personally identifiable information and aggregated information. Personally identifiable information is information that can be used to identify you. Aggregated information is information that is not associated with a specific user, but instead anonymous information on many users, such as the number of visitors to the Site in a month's time. We collect personally identifiable information (such as name, email, residence address, and credit card information) whenever you voluntarily submit it to the Site. Examples of information that you submit voluntarily include: when you make a purchase, answer our polls, enter sweepstakes or contests, fill out the registration page, send us feedback, download music, or post in our chat rooms or to our message boards. If you register, we might also ask you about your musical preferences or other information to customize the Site for you. You always have the option of choosing not to reveal this personally identifiable information to us, although certain services may be unavailable if you do not. In the event of a complaint, we may also receive and collect personally identifiable information about you from other users or third parties who may communicate information to us about you in relation to such a complaint. In addition, we collect and store statistics and other information about the online activities of our visitors on an aggregated (collective) basis. For example, we track the number of people who view each page, the order in which pages are viewed, and other information to learn which features are the most popular and to refine our design and marketing efforts. 
+**Our Security Practices**  
+Your preferences are password protected for your privacy and security. In certain areas, we use industry-standard SSL encryption to protect data transmissions.
 
-**Third Party Advertising**   
-In addition to what we have explained above, we use DoubleClick and other third-party advertising companies to serve ads when you visit our Site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Sites in order to provide advertisements on the Site about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.doubleclick.net/naiprivacy). 
+**How You Can Review Your Personal Information**  
+If you want to review your personal information, you can revise your preferences. Your preferences include your shipping, payment and account information, as well as whether you want to receive communications from us. If you want to close your account with us and have us delete the personal information in it (except for information that we keep for record-keeping purposes), you should contact our Privacy Administrator.
 
-back to FAQ
+**Choice**  
+Our registration and order forms contain a box for you to indicate whether or not you consent to receive special offers and promotions from us. Unless you give us your consent to use your personal information for these purposes, we and our partners will only use it to complete the transaction or provide the service or product you have requested. If you indicate that you consent to receive communications or solicitations, but you later change your mind, you can revise your preferences.
 
-**How do we use the personal information we collect?**  
-ARTISTdirect uses both aggregated and personally identifiable information to operate and enhance our Sites and to enhance your experience by displaying content and marketing messages that we believe will be of interest to you. 
+**Links**  
+The Website may contain links to other sites produced by MLBAM and websites operated by unrelated third parties. Please note that we are not responsible for the privacy practices of third party websites. We encourage you to be aware of this when your leave the Website and to read the privacy policies of every website that collects personally identifiable information from you. The Privacy Policy applies only to this Website.
 
-We do not sell your personally identifiable information to third parties. However, if you give us your permission, we may share your personally identifiable information with third parties. 
+**Special Rules For Children**  
+Because of federal law, we cannot collect any personal information from a child under the age of thirteen without the consent of that child's parent. The statements in this Privacy Policy generally about our collection and use of personal information also apply to our treatment of personal information from children under the age of thirteen, with the added protection of the special rules that follow.
 
-We also may share your personally identifiable information with third parties who provide services to us in order to enhance the functionality available to you as part of the Sites. 
+**Parental Consent**  
+Some services on the Website require the submission of a credit card number along with personal information, and are therefore not available to children. Other services on the Website may not be available to children under the age of thirteen. For services that are available to children under the age of thirteen, if a child under the age of thirteen attempts to complete any registration form on the Website a screen will appear that says "Get Your Mom or Dad." We will then instruct the child to have a parent complete the registration form, either in person or by e-mail. We will provide the parent with a notice describing the Privacy Policy and will ask for the parent's consent to our collection and use of personal information from or about their child. The parent will also be asked to submit a credit card number (the card will not be charged) for verification purposes only. If the registration form is not completed with a credit card number to verify parental consent, the child will not be able to access those of our activities requiring registration and we will not collect any personal information from that child. Failure to complete the registration form will also prevent the child from entering chat rooms or otherwise making personal information available to the public on the Website. A parent has the option to consent to the collection and use of their child's personal information without consenting to the disclosure of that information to third parties, but if such disclosure is necessary to make available a service which has been requested, then the child will not have access to such service.
 
-We use the personal information we collect to communicate with you purchases, to deliver purchases, to notify you if you've won a prize for a contest that you've entered, or to be able to personalize a part of the site with the services and information you choose. If you choose to subscribe to our newsletter, we use your personal information to select and deliver messages to you. 
+**Information Collected**  
+Depending on the special service requested, personal information collected may include a name, e-mail address, telephone number (e.g., home, mobile and/or fax), address or age of a child. We will not condition a child's participation in any activity on the Website on the child's disclosing more information than is reasonably necessary to participate in that activity. A parent can review his or her child's personal information by accessing the child's preferences. A parent can instruct us to delete the child's personal information or to stop collecting or using the child's personal information by contacting the Privacy Administrator.
 
-We may use the personal information that you supply to us and work with other third party businesses to bring selected retail opportunities to our members via direct mail, email and telemarketing. These businesses may include providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation and email marketing. 
+**Information Use**  
+We may use the personal information to provide the child with the special services for which he or she has registered, as well as for fulfilling a requested transaction, record keeping, marketing back to the child or making it publicly available through a chat room. (Please note that when anyone, including a child, uses a message board or chat room on the Website, the communications are publicly available to the other participants.)
 
-ARTISTdirect uses aggregated information to sell and deliver advertising. We disclose aggregated information about our Site to third parties, including information regarding the effectiveness of our advertisers' advertisements. Some online activities necessarily lead to disclosure of your personally identifiable information to third parties, such as when you include your name and email address in an email to a third party or when you order merchandise in our Site's shopping areas. Remember, information you provide as part of your community Profile of preferences ([User Profiles](http://bbs.artistdirect.com/memberlist.php?s=)) is not confidential, and is accessible by the public. Similarly, any information you provide in chat rooms, message boards, or other public forums is not confidential and we may not remind you, so please keep this in mind if you're going to use these parts of our Site. Your choice to disclose personally identifiable information in such cases is up to you. 
+**Information Disclosure**  
+After obtaining the consent of the parent, we, and our service providers will maintain the confidentiality, security, and integrity of the personal information collected about their child. A child's information will only be disclosed to our third party service providers as described in this Privacy Policy. They cannot use your child's personal information without your consent for any purpose other than the service you have requested on behalf of your child.
 
-In addition, if ARTISTdirect is acquired by or merges with another company, we may transfer your information to such a company. 
+**Contact Us**  
+If you have questions or concerns about this Privacy Policy, you can contact us at: GunsNRoses.com Privacy Administrator c/o MLBAM, 75 Ninth Avenue, New York, New York 10011; Fax: (212) 485-8111; or send an e-mail to [Privacy Administrator](mailto:customerservice@website.gunsnroses.com).
 
-back to FAQ
+**Notification of Changes**  
+If we decide to make an important change to our Privacy Policy, we will post a notification and link on our homepage so that you can review the updated policy. If at any point we wish to use your personal information in a manner different from that stated at the time it was collected, we will notify you by means of an e-mail and give you the opportunity to indicate whether you consent to the proposed use.
 
-**Is the Site secure so that other people can not obtain your information from the site without your consent?**  
-Personal information that we collect is stored in secure operating environments that are not available to the public. Credit card information is encrypted. All the information we collect and store is protected by our firewall. Also, any information that we store at our business is kept secure, and only designated employees may obtain access to it. However, "perfect security" does not exist on the Internet. 
-
-back to FAQ
-
-**Limits on our abilities**  
-We'll do everything we can to protect you and your personal information, but we cannot fully ensure that your private communications and other personally identifiable information will not be disclosed to third parties. We may be forced to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. If we need to investigate or resolve possible problems or inquiries, we may use any information about you to help private entities, law enforcement, or other government officials as we believe necessary. 
-
-back to FAQ
-
-**What about the privacy of users who are 13 and under?**  
-We're committed to protecting the safety and privacy of all our users, especially those who are under 13. To this end, we comply with the Children's Online Privacy Protection Act (16 C.F.R. Part 312). We do not collect or display the individually identifying information of users who are under the age of 13. Except for the community areas of the ARTISTdirect Network, if you're under 13, you will be able to create a user name and passcode, but we won't keep any information that's personal to you. In addition, because we do not collect your individually identifying information if you are under 13, you will not receive any direct communications from ARTISTdirect. If you would like to learn more about the Children's Online Privacy Protection Act, please visit the Federal Trade Commission's website at <http://www.ftc.gov/bcp/conline/pubs/online/kidsprivacy.htm>. 
-
-back to FAQ
-
-**How can you change or correct the personal information you provided to us?**  
-You can click here or call us here to request changes to your basic user information. If you would like to know what personal information you have given us, click here for instructions for instructions. We will have to verify your identity before we confirm the information we have and before you can make any changes. 
-
-back to FAQ
-
-**What about cookies?**  
-Cookies are pieces of information that a website transfers to your computer's hard drive for record-keeping purposes. Cookies can make the Web more useful by storing information about your preferences on a particular site. The use of cookies is an industry standard, and many major websites use them to provide useful features for their users. Cookies in and of themselves do not personally identify users, although they do identify a user's computer. Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies. However, you may not be able to take full advantage of a website if you do so. For more information on cookies, see [www.cookiecentral.com](http://www.cookiecentral.com/). 
-
-We use cookies or IP addresses for a number of uses, including helping us to tailor a website or a marketing message to better match your needs and interests, and to allow us to better understand how users use our Site. You are always free to instruct your web browser to decline our cookies if it has the capability to do so, but some parts of our Site may not work properly if you do. 
-
-Third Party Cookies  
-In the course of serving advertisements to the Site, our third-party advertiser may place or recognize a unique "cookie" on your browser. Even though these advertisements are embedded in our Sites, cookies may be assigned by the advertisers themselves. ARTISTdirect does not control these cookies. To find out more about these "cookies," [click here](http://www.doubleclick.net/naiprivacy). 
-
-back to FAQ
-
-Choice/Opt-Out  
-Our Site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. 
-
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
-
-> send email to [marketfirstin@artistdirect.com](mailto:marketfirstin@artistdirect.com)  
-> 
-
-****
-
-**Reviews/Correct/Update**
-
-ARTISTdirect.com gives users the following options for reviewing and modifying information previously provided. 
-
-> email us _[here](http://westwood.artistdirect.com/emailus/)_
-
-****
-
-**Contacting the Web Site**
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:  
-_Customer Service  
-ARTISTdirect, Inc.  
-1601 Cloverfield Blvd.  
-Suite 400 South  
-Santa Monica, CA 90404  
-USA
-
-revised as of 5/19/2005 
-
-_
+**LAST UPATED:** September 28, 2006
