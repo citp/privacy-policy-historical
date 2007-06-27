@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toggl.com privacy policy that was archived on 2006-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060823224058id_/http%3A//www.toggl.com/toggl_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toggl.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627063404id_/http%3A//www.toggl.com/toggl_privacy.html) for the most accurate reproduction.*
 
 # Toggl - online timetracker
 
@@ -26,4 +26,4 @@ Consumers can have this information corrected by visiting the Account Settings p
 
 With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
-If you feel that this site is not following its stated information policy, you may contact us through our forum at www.toggl.com/support.
+If you feel that this site is not following its stated information policy, you may contact us via the application's feedback feature. (Toggl aims to respond within 24 business hours, but is under no obligation to do so).
