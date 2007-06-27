@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysupermarket.co.uk privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212162604id_/http%3A//www.mysupermarket.co.uk/Administration/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysupermarket.co.uk privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627034845id_/http%3A//www.mysupermarket.co.uk/Administration/Privacy.aspx) for the most accurate reproduction.*
 
 # mySupermarket - Privacy policy
 
@@ -20,7 +20,7 @@ Here are some examples of the data we collect and reasons why:
   * We keep a record of the contents of your trolley between shopping sessions. This allows you to continue shopping sessions that you may have stopped midway with no need to add again all the items that you already placed in your trolley. 
   * We keep a record of your preferences such as sorting order of items and last shelf you bought in, so you don't need to reset these preferences every time you start shopping. 
   * We keep track of your emails and contacts with customer support, so that we can provide you with a responsive and efficient service. 
-  * If you import favourites from one of the Supermarkets or when you place an order with them (using the Service), we ask you to enter your login details for that Supermarket (usually email and password). Password details are never saved on our system and are not used for any other purpose. Please note that we keep details of your favourites from Supermarkets and details of previous trolleys you have ordered so that we can better display your favourite items to you as part of the Service. 
+  * If you import favourites from one of the Supermarkets or if you book a delivery slot from one of the Supermarkets or when you place an order with the Supermarkets (using the Service), we ask you to enter your login details for that Supermarket (usually email and password). Supermarket password access details are never saved (other than for the duration of one browsing session) and are not used for any other purposes. (Please note that we do keep details of your favourites from Supermarkets and details of previous trolleys you have ordered so that we can better display your favourite items to you as part of the Service.) 
 
 
 
@@ -39,7 +39,7 @@ Please note that we may e-mail for the following purposes:
 
 **Security**
 
-The personal information which we hold will be held securely in accordance with our internal security policy and the law. For example, we hold your Service password (which is allocated as part of the registration process and as may be later changed) using secure encryption. **And we do not save or keep a record in any form of any password you may use when using websites of Supermarkets** \- that is why you must key that password in each time you go to a Supermarket website to which you may be linked as part of the Service. See our [Security section](https://web.archive.org/Administration/Security.aspx) for more details.
+The personal information which we hold will be held securely in accordance with our internal security policy and the law. For example, we hold your Service password (which is allocated as part of the registration process and as may be later changed) using secure encryption. **And we do not save or keep a record in any form of any password you may use when using websites of Supermarkets** ( **other than during your existing browser session** )- that is why you must key that password in, each time you re-access our Website through a different browser session when you want to go to a Supermarket website to which you may be linked as part of the Service. See our [Security section](https://web.archive.org/Administration/Security.aspx) for more details.
 
 **Technology**
 
