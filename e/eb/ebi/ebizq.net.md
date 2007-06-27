@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ebizq.net privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205190140id_/http%3A//www.ebizq.net/membership/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebizq.net privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627041557id_/http%3A//www.ebizq.net/membership/privacy.html) for the most accurate reproduction.*
 
-# the Insider's Guide to Business Integration - ebizQ
+# The Insider's Guide to Business and IT Agility - ebizQ
 
 ebizQ manages the [ebizQ.net](https://web.archive.org/) Web site and the [ebizQ Integration Conference](https://web.archive.org/). ebizQ is committed to maximizing your experience and respecting your privacy while using these information resources.
 
@@ -14,7 +14,7 @@ ebizQ clearly delineates its Gold Club Content from other content with a gold co
 
 **Live Events**
 
-ebizQ produces free live webinars on important topics in business integration. Attendance to live events and access to recent event archives is available only to Gold Club members. ebizQ will notify you about the availability of this content on the ebizQ.net Web site, the ebizQ Integration Conference, and in e-mail messages. These events are often sponsored. By registering for an event, attending an event, or accessing an archived event, you are agreeing to allow ebizQ to share the personal information you supply in your Gold Club registration with the event sponsor.
+ebizQ produces free live webinars on important topics in business integration. Attendance to live events and access to recent event archives is available only to Gold Club members. ebizQ will notify you about the availability of this content on the ebizQ.net Web site, the ebizQ Integration Conference, and in e-mail messages. These events are often sponsored. By registering for an event, attending an event, or accessing an archived event, you are consenting to ebizQ providing your personal information to the event sponsor. If you register for an event, the event sponsor may send you, or phone you with, information about their products and services.
 
 **Vendor Showcase**
 
