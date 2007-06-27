@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puzzlepirates.com privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224034549id_/http%3A//www.puzzlepirates.com/Privacy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puzzlepirates.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627130627id_/http%3A//www.puzzlepirates.com/Privacy.xhtml) for the most accurate reproduction.*
 
 # Yohoho! Puzzle Pirates: Three Rings Privacy Policy
 
@@ -56,4 +56,4 @@ Three Rings may update this policy. We will notify you about significant changes
 
 ## Questions and Suggestions
 
-If you have questions or suggestions, please email us at [privacy@threerings.net](mailto:privacy@threerings.net "mailto:privacy@threerings.net"). 
+If you have questions or suggestions, please email us at [support@threerings.net](mailto:support@threerings.net "mailto:support@threerings.net"). 
