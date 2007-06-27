@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oemstrade.com privacy policy that was archived on 2006-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061220231209id_/http%3A//oemstrade.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oemstrade.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627073418id_/http%3A//www.oemstrade.com/pages/privacy) for the most accurate reproduction.*
 
 # OEMsTrade - Electronics Part Search
 
