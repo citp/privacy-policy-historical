@@ -1,19 +1,24 @@
-> *The following text is extracted and transformed from the redweek.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231023759id_/http%3A//www.redweek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redweek.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627121659id_/http%3A//www.redweek.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - RedWeek.com
 
-[](http://www.redweek.com/login)   
-[Register for free](http://www.redweek.com/login)
+Our NEW full-service exchange program is now available.  
+[Get info »](https://web.archive.org/exchange)
 
-|  Version 1 (Posted March 8, 2003) 
+  
+
+
+|  Version 2 (Posted April 20, 2007) 
 
 We have created this privacy policy to demonstrate our commitment to the privacy of our users. The following discloses our information gathering and usage practices. 
 
   1. **Privacy of user information**
 
-We do not sell, rent, or give away user information except in cases where you specifically request it. Occasionally we may run promotions in partnership with resort developers where you will be given the option to receive more information. In this case, we will provide your contact information to the resort to follow through on your request. You will never be tricked into signing up for anything. Options to receive more information will always be clearly explained to you and your participation in any promotion is strictly optional. 
+We do not sell, rent, or give away user information except in cases where you specifically request it. If you participate in the RedWeek Exchange Program, critical information required to process the deposit of your week and your exchange reservation will be shared with our partner company to complete the transaction. By depositing your week or reserving an exchange with RedWeek.com, you agree to allow RedWeek or our partner to communicate with the resort and/or management company to exchange necessary information. Your information will only be used to complete this transaction, and will otherwise be held private and confidential. 
 
-The information you see posted on the Web site is all anyone outside of our company sees. Other RedWeek.com members will contact you via the form on your posting page, which will deliver the correspondence to the e-mail address you have provided us with. 
+Occasionally we may run promotions in partnership with resort developers where you will be given the option to receive more information. In this case, we will provide your contact information to the resort to follow through on your request. You will never be tricked into signing up for anything. Options to receive more information will always be clearly explained to you and your participation in any promotion is strictly optional. 
+
+If you add a posting to RedWeek.com, your contact information will not be made public, unless you choose to enter additional contact information into the Details section. Otherwise, RedWeek.com members will contact you via the form on your posting page, which will deliver the correspondence to the e-mail address you have provided us with. Your e-mail address will not be exposed to the member who contacted you until you reply. If you send an inquiry through RedWeek.com, the person you contacted will have your e-mail address for further direct correspondence. 
 
   2. **How your information is used for internal purposes and secured**
 
@@ -23,7 +28,7 @@ We use Secure Sockets Layer (SSL) software to secure the transmission of your cr
 
   3. **Conditions of contact by RedWeek.com**
 
-As a registered RedWeek.com user, you'll receive our monthly e-mail newsletter and any other subscriptions you request. Additionally, you may receive e-mails associated with your activities on the site (password requests, posting expiration notices, renewal notices, etc.). 
+As a registered RedWeek.com user, you'll receive our monthly e-mail newsletter and any other subscriptions you request. Additionally, you may receive e-mails associated with your activities on the site (password requests, posting expiration notices, renewal notices, etc.). If you participate in the RedWeek Exchange Program, e-mails associated with your exchange activity may come from our partner company. You will not receive non-activity related e-mails from this partner. 
 
   4. **Advertising and third party links**
 
