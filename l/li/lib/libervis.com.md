@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the libervis.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117100257id_/http%3A//www.libervis.com/%3Fq%3Dnode/1575) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libervis.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627141058id_/http%3A//www.libervis.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Libervis.com
-
-Submitted by libervisco on Sun, 2006-07-30 14:57.
+# 
 
 Libervis.com privacy policy
 
