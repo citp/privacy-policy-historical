@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the samash.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208141801id_/http%3A//www.samash.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samash.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627120346id_/http%3A//www.samash.com/legal/privacy.asp) for the most accurate reproduction.*
 
-# Sam Ash - 1-800-4-SAMASH
+# Sam Ash Music 1-800-4-SAMASH
 
 We appreciate your visit to our website. We fully respect your right to privacy and the need for you to have control of your personal information. It is our goal to make this site function at a level that best serves the needs of our visitors.If you visit certain areas of this site you may be asked to provide personal information in order to receive a catalog, make a purchase, enter a contest, or subscribe to a newsletter.
 
