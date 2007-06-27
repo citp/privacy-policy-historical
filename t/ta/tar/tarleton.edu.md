@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tarleton.edu privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231185132id_/http%3A//www.tarleton.edu/main/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tarleton.edu privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627083646id_/http%3A//www.tarleton.edu/main/privacy.html) for the most accurate reproduction.*
 
 # WWW Privacy Policy--Tarleton State University
 
