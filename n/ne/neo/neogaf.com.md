@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the neogaf.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212054519id_/http%3A//www.neogaf.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D14%26Itemid%3D36) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neogaf.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627100141id_/http%3A//www.neogaf.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D14%26Itemid%3D36) for the most accurate reproduction.*
 
 # NeoGAF - Privacy Policy
 
 ### Welcome to the NeoGAF Community  
   
-Welcome to NeoGAF, the preeminent video game industry discussion community.  If you're new here, please take the time to [register](https://web.archive.org/web/20061212054519id_/http%3A//www.neogaf.com/forum/register.php) for the forum as this will grant you posting access and is of course free.  If you'd like to look around first, feel free to [browse the forum](https://web.archive.org/web/20061212054519id_/http%3A//www.neogaf.com/forum/) at your leisure.  Have fun.
+Welcome to NeoGAF, the preeminent video game industry discussion community.  If you're new here, please take the time to [register](https://web.archive.org/web/20070627100141id_/http%3A//www.neogaf.com/forum/register.php) for the forum as this will grant you posting access and is of course free.  If you'd like to look around first, feel free to [browse the forum](https://web.archive.org/web/20070627100141id_/http%3A//www.neogaf.com/forum/) at your leisure.  Have fun.
 
-|  | 
+| 
 
 |  Written by Tyler Malka      
 ---  
