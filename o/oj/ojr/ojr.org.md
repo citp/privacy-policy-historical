@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ojr.org privacy policy that was archived on 2006-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061204011041id_/http%3A//www.ojr.org/ojr/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ojr.org privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627093542id_/http%3A//www.ojr.org/ojr/privacy) for the most accurate reproduction.*
 
 # OJR.org Privacy Policy
 
@@ -38,22 +38,27 @@ Phone: 213-740-0948
 
 [Log-In](http://www.ojr.org/ojr/people/login.cfm)  
 [Register](http://www.ojr.org/ojr/people/register.cfm)  
-[Submit Story](http://www.ojr.org/ojr/submit/)  
 
 
-### [OJR Delivered](http://www.ojr.org/ojr/people/subscribe.cfm)
+### [OJR Delivered](http://www.ojr.org/ojr/people/newsub.cfm)
 
-[Get OJR by E-mail](http://www.ojr.org/ojr/people/subscribe.cfm)  
+[Get OJR by E-mail](http://www.ojr.org/ojr/people/newsub.cfm)  
 [ Article Feed](http://www.ojr.org/ojr/stories/rss.xml)  
 [](http://add.my.yahoo.com/content?.intl=us&url=http%3A//www.ojr.org/ojr/stories/rss.xml)  
 [ Save This Page](http://del.icio.us/post)  
+[ OJR on Facebook](http://usc.facebook.com/group.php?gid=2351478831)  
+
+
+### [Discussion](http://www.ojr.org/ojr/discussion/)
+
+[ Topic Feed](http://www.ojr.org/ojr/discussion/rss.xml)  
 
 
 ### [How-to Guides](http://www.ojr.org/ojr/wiki/)
 
 [Earning Revenue](http://www.ojr.org/ojr/wiki/make_money/)  
 [Ethics](http://www.ojr.org/ojr/wiki/ethics/)  
-[Events Calendar](http://www.ojr.org/ojr/wiki/calendar/)  
+[Glossary of Terms](http://www.ojr.org/ojr/wiki/glossary/)  
 [Publishing Tools](http://www.ojr.org/ojr/wiki/tools/)  
 [Reporting](http://www.ojr.org/ojr/wiki/reporting/)  
 [Shooting Video](http://www.ojr.org/ojr/wiki/video/)  
@@ -62,51 +67,49 @@ Phone: 213-740-0948
 
 ### [OJR Archives](https://web.archive.org/ojr/stories/)
 
-[grassroots journalism](https://web.archive.org/archive.cfm?topic=grassroots%20journalism)  
 [entrepreneurial journalism](https://web.archive.org/archive.cfm?topic=entrepreneurial%20journalism)  
+[grassroots journalism](https://web.archive.org/archive.cfm?topic=grassroots%20journalism)  
 [tools](https://web.archive.org/archive.cfm?topic=tools)  
-[newspaper blogs](https://web.archive.org/archive.cfm?topic=newspaper%20blogs)  
 [revenue](https://web.archive.org/archive.cfm?topic=revenue)  
+[newspaper blogs](https://web.archive.org/archive.cfm?topic=newspaper%20blogs)  
+[journalism education](https://web.archive.org/archive.cfm?topic=journalism%20education)  
 [website design](https://web.archive.org/archive.cfm?topic=website%20design)  
 [discussion boards](https://web.archive.org/archive.cfm?topic=discussion%20boards)  
-[journalism education](https://web.archive.org/archive.cfm?topic=journalism%20education)  
-[political blogs](https://web.archive.org/archive.cfm?topic=political%20blogs)  
-[news aggregators](https://web.archive.org/archive.cfm?topic=news%20aggregators)  
+[ethics](https://web.archive.org/archive.cfm?topic=ethics)  
 [OJR conference](https://web.archive.org/archive.cfm?topic=OJR%20conference)  
+[political blogs](https://web.archive.org/archive.cfm?topic=political%20blogs)  
+[press freedom](https://web.archive.org/archive.cfm?topic=press%20freedom)  
+[news aggregators](https://web.archive.org/archive.cfm?topic=news%20aggregators)  
 [The Los Angeles Times](https://web.archive.org/archive.cfm?topic=The%20Los%20Angeles%20Times)  
-[blog networks](https://web.archive.org/archive.cfm?topic=blog%20networks)  
-[Bob Cauthorn](https://web.archive.org/archive.cfm?topic=Bob%20Cauthorn)  
 [censorship](https://web.archive.org/archive.cfm?topic=censorship)  
 [content management systems](https://web.archive.org/archive.cfm?topic=content%20management%20systems)  
-[mergers and acquisitions](https://web.archive.org/archive.cfm?topic=mergers%20and%20acquisitions)  
-[NorthwestVoice.com](https://web.archive.org/archive.cfm?topic=NorthwestVoice%2Ecom)  
-[online video](https://web.archive.org/archive.cfm?topic=online%20video)  
+[Flash](https://web.archive.org/archive.cfm?topic=Flash)  
 [photojournalism](https://web.archive.org/archive.cfm?topic=photojournalism)  
-[press freedom](https://web.archive.org/archive.cfm?topic=press%20freedom)  
-[search engine optimization](https://web.archive.org/archive.cfm?topic=search%20engine%20optimization)  
+[newsroom convergence](https://web.archive.org/archive.cfm?topic=newsroom%20convergence)  
+[online video](https://web.archive.org/archive.cfm?topic=online%20video)  
 [student spotlight](https://web.archive.org/archive.cfm?topic=student%20spotlight)  
+[copyright law](https://web.archive.org/archive.cfm?topic=copyright%20law)  
+[Google](https://web.archive.org/archive.cfm?topic=Google)  
+[Iraq](https://web.archive.org/archive.cfm?topic=Iraq)  
+[multimedia](https://web.archive.org/archive.cfm?topic=multimedia)  
+[NorthwestVoice.com](https://web.archive.org/archive.cfm?topic=NorthwestVoice%2Ecom)  
+[search engine optimization](https://web.archive.org/archive.cfm?topic=search%20engine%20optimization)  
+[social media](https://web.archive.org/archive.cfm?topic=social%20media)  
+[The New York Times on the Web](https://web.archive.org/archive.cfm?topic=The%20New%20York%20Times%20on%20the%20Web)  
+[YourHub](https://web.archive.org/archive.cfm?topic=YourHub)  
+[Backfence](https://web.archive.org/archive.cfm?topic=Backfence)  
+[blog networks](https://web.archive.org/archive.cfm?topic=blog%20networks)  
+[Bluffton Today](https://web.archive.org/archive.cfm?topic=Bluffton%20Today)  
+[Bob Cauthorn](https://web.archive.org/archive.cfm?topic=Bob%20Cauthorn)  
+[China](https://web.archive.org/archive.cfm?topic=China)  
+[India](https://web.archive.org/archive.cfm?topic=India)  
+[infographics](https://web.archive.org/archive.cfm?topic=infographics)  
+[media law](https://web.archive.org/archive.cfm?topic=media%20law)  
+[mergers and acquisitions](https://web.archive.org/archive.cfm?topic=mergers%20and%20acquisitions)  
+[Poynter Institute](https://web.archive.org/archive.cfm?topic=Poynter%20Institute)  
+[Rocky Mountain News](https://web.archive.org/archive.cfm?topic=Rocky%20Mountain%20News)  
 [Washingtonpost.com](https://web.archive.org/archive.cfm?topic=Washingtonpost%2Ecom)  
 [wikis](https://web.archive.org/archive.cfm?topic=wikis)  
-[YourHub](https://web.archive.org/archive.cfm?topic=YourHub)  
-[Anthony Moor](https://web.archive.org/archive.cfm?topic=Anthony%20Moor)  
-[Bakersfield Californian](https://web.archive.org/archive.cfm?topic=Bakersfield%20Californian)  
-[blog syndication](https://web.archive.org/archive.cfm?topic=blog%20syndication)  
-[Bluffton Today](https://web.archive.org/archive.cfm?topic=Bluffton%20Today)  
-[China](https://web.archive.org/archive.cfm?topic=China)  
-[Chris Nolan](https://web.archive.org/archive.cfm?topic=Chris%20Nolan)  
-[copyright law](https://web.archive.org/archive.cfm?topic=copyright%20law)  
-[Flash](https://web.archive.org/archive.cfm?topic=Flash)  
-[Google](https://web.archive.org/archive.cfm?topic=Google)  
-[Great Britain](https://web.archive.org/archive.cfm?topic=Great%20Britain)  
-[Len Apcar](https://web.archive.org/archive.cfm?topic=Len%20Apcar)  
-[Lisa Stone](https://web.archive.org/archive.cfm?topic=Lisa%20Stone)  
-[New West](https://web.archive.org/archive.cfm?topic=New%20West)  
-[Nick Denton](https://web.archive.org/archive.cfm?topic=Nick%20Denton)  
-[obscenity](https://web.archive.org/archive.cfm?topic=obscenity)  
-[Rocky Mountain News](https://web.archive.org/archive.cfm?topic=Rocky%20Mountain%20News)  
-[The New York Times on the Web](https://web.archive.org/archive.cfm?topic=The%20New%20York%20Times%20on%20the%20Web)  
-[women bloggers](https://web.archive.org/archive.cfm?topic=women%20bloggers)  
-[Yahoo News](https://web.archive.org/archive.cfm?topic=Yahoo%20News)  
 
 
 ### [Staff](http://www.ojr.org/ojr/wiki/)
@@ -117,5 +120,12 @@ Editor:
 Contributing writers:  
 [Sarah Colombo](http://www.ojr.org/ojr/people/secolombo/)  
 [Sandeep Junnarkar](http://www.ojr.org/ojr/people/sandeepjunnarkar/)  
-[Jonathan Morgan](http://www.ojr.org/ojr/people/nateboy007/)  
 [Kim Pearson](http://www.ojr.org/ojr/people/KimPearson/)
+
+Advisory board:  
+[Michael Parks](http://annenberg.usc.edu/Faculty/Journalism/ParksM.aspx)  
+[Xeni Jardin](http://xeni.net/)  
+[Chris Jennewein](http://www.signonsandiego.com/)  
+[Robin Miller](http://www.roblimo.com/)  
+[Anthony Moor](http://www.orlandosentinel.com/)  
+[Lisa Stone](http://surfette.typepad.com/)
