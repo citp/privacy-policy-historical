@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the turtlebeach.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603130032id_/http%3A//www.voyetra-turtle-beach.com/site/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turtlebeach.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627051309id_/http%3A//www.turtlebeach.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Welcome to the Voyetra Web Store - Privacy Statement
+# Privacy Statement
 
 We here at Voyetra Turtle Beach know how important your privacy is to you. We have created this Privacy Statement in order to demonstrate our firm commitment to preserving the confidentiality of your personal information. The disclosure that follows explains our information gathering and dissemination practices for the website: www.voyetra-turtle-beach.com.
 
@@ -34,7 +34,7 @@ This site gives users the following options for changing and modifying informati
 
 **Webmaster**  
 Voyetra Turtle Beach  
-5 Odell Plaza  
-Yonkers, NY 10701  
+150 Clearbrook Rd. Suite 162  
+Elmsford, NY 10523  
 [webmaster@voyetra.com](mailto:webmaster@voyetra.com) or  
 [webmaster@tbeach.com](mailto:webmaster@tbeach.com)
