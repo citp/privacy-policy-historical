@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbs5.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206105550id_/http%3A//cbs5.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbs5.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627071230id_/http%3A//cbs5.com/privacy) for the most accurate reproduction.*
 
 # cbs5.com - Privacy
 
