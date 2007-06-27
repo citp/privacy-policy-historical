@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the umw.edu privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404211823id_/http%3A//www.umw.edu/policies/web/privacy/default.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umw.edu privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627224557id_/http%3A//www.umw.edu/policies/web/privacy/default.php) for the most accurate reproduction.*
 
-# UMW - Internet Privacy Policy
+# University of Mary Washington | Internet Privacy Policy
 
 The following information explains the Internet Privacy Policy that the University of Mary Washington has adopted for our Web site. The following is intended to explain our current Internet privacy practices, but shall not be construed as a contractual promise. We reserve the right to amend our Internet Privacy Policy Statement at any time without notice. 
 
