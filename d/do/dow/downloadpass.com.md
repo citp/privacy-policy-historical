@@ -1,16 +1,20 @@
-> *The following text is extracted and transformed from the downloadpass.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209063233id_/http%3A//www.mdmbill.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadpass.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627071431id_/http%3A//www.downloadpass.com/privacy.html) for the most accurate reproduction.*
 
 # HOH Limited Privacy Policy Statement
 
 **PRIVACY POLICY STATEMENT**
 
-This website (the "Site") is operated by **HOH Limited**
+This website (the "Site") is operated by **HOH Limited and PV Empowerm S.L., Spain**
 
 Our postal address is:  
 12 Dervis Street,  
 Palais D'Ivoir Building,  
 1066 -Nicosia,  
 Cyprus
+
+Empowerm:  
+C/ San Miguel, 30 3ºL  
+07002 Palma de Mallorca (España) 
 
 We can be reached via e-mail at [privacy@hohsupport.com](mailto:privacy@hohsupport.com)
 
@@ -25,7 +29,7 @@ CAREFULLY READ THIS PRIVACY POLICY STATEMENT BECAUSE BY YOUR SUBSCRIPTION TO AND
 IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATEMENT YOU SHOULD NOT SUBSCRIBE TO OR USE THIS SITE. ** __**
 
 **_What Information About Subscribers is Collected?  
-_**When any adult consumer signs-on as a member or subscriber of this Site that consumer will be required to provide certain personal as well as demographic information which may include, but is not necessarily limited to, the subscriber's name, address, e-mail address, credit card number and expiration date of the credit card, username and password, and special interests or affiliations. This Site collects any and all such information and includes it in its customer database.
+_**When any adult consumer signs-on as a member or subscriber of this Site that consumer will be required to provide certain personal as well as demographic information which may include, but is not necessarily limited to, the subscriber's name, address, e-mail address, username and password, and special interests or affiliations. This Site collects any and all such information and includes it in its customer database.
 
 If the Site features or conducts any special events, special promotions or offers, contests or polls, a subscriber of the Site may be asked to provide information in order to participate, if the subscriber voluntarily provides that information, all such information may be collected by the Site and included in its customer database. 
 
