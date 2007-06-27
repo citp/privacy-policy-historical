@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the digitaleditor.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207185243id_/http%3A//digitaleditor.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaleditor.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627225047id_/http%3A//www.digitaleditor.com/Privacy) for the most accurate reproduction.*
 
 # Statement of Privacy
 
 |  |    
-
-
-[](http://www.digitaleditor.com/eu.aspx?url=http%3a%2f%2fservice.bfast.com%2fbfast%2fclick%3fbfmid%3d37628499%26siteid%3d41638097%26bfpage%3d1788510)
-
-[](http://www.digitaleditor.com/eu.aspx?url=http%3a%2f%2fservice.bfast.com%2fbfast%2fclick%3fbfmid%3d37628499%26siteid%3d41638097%26bfpage%3dworkstation_330)
-
 |  |  |  | 
 
 Last updated October 2004
@@ -94,82 +88,70 @@ Digital Editor welcomes your comments regarding this Statement of Privacy. If yo
 
 ### This site looks much better in a browser that supports current web standards, but it is accessible to any browser. [ Download one now ](http://www.digitaleditor.com/eu.aspx?url=http://www.webstandards.org/upgrade/ "This link is to a third party web site which will open in a new window")
 
-### Some parts of this site will not work effectively on this older browser.  
-Please consider [ updating your browser ](http://www.digitaleditor.com/eu.aspx?url=http://www.webstandards.org/upgrade/ "This link is to a third party web site which will open in a new window")
-
 |  |  |  |    
+
+
+[](http://www.digitaleditor.com/newsletter.html)
+
+[](http://www.digitaleditor.com/eu.aspx?url=http%3a%2f%2fclick.linksynergy.com%2ffs-bin%2fclick%3fid%3dvUQ%2flIPjEpM%26offerid%3d91613%26subid%3d0)
+
+  
+
+
 |   
 ---  
   
-Today, December 7th 
+Today, June 27th 
 
-Hurry! This great deal is good now until December 12th, get $10 back when you order $65 or more. 
-
-* * *
-
-Walmart.com has the Canon 6 MP PowerShot A540 Digital Camera for only $169.54 with .97 shipping. The lowest price we could find. 
+registery cleaner coupon, Performance Scan coupon, Improve your Windows XP computer's performance and stability, FREE Process Scan Coupon Code 
 
 * * *
 
-The NASCAR.Com Superstore offers the broadest selection of officially licensed NASCAR/driver merchandise available on the internet. 
+Yesterday, June 26th 
+
+Onlineshoes.com hasover 60 brands, expert customer service and a deep selection of sizes and widths. 
 
 * * *
 
-Web only: all home theater systems on sale—save up to 20%* 
+Exclusive! Free Shipping on all orders! Last Call Sales! Up to Extra 75% off, Bag Bang! Save on the finest Designer Bags 
 
 * * *
 
-Laptops starting at $599.00 Plus not interest until June 2007 
+ICE.com offers beautiful, quality jewelry at everyday prices. Save on a wide selection of diamonds, pearls, gemstones and more. 
 
 * * *
 
-Save up to $500 on Unadvertised TVs 
+Find the best prices for thousands of cookware, kitchenware and houseware products Cooking.com coupon codes and promotional codes for great discounts 
 
 * * *
 
-Yesterday, December 6th 
-
-Until October 31st get 3 Months for $59.85 at eHarmony.com! 
+Save 60% on Dining Certificates. Restaurant.com serves as the community matchmaker, introducing great restaurants to great people. 
 
 * * *
 
-Samsung BDP-1000 HDMI Hi-Def Blu-Ray DVD Disc Player/Card Reader Only $599.99 (US) "The Lowest Price On The Web Today" and more... 
+Save money with our Smart Bargain Coupon Code, Promotional Code and Discount Code 
 
 * * *
 
-Ashford, Avon, BabyUniverse, Blinds, Bombay Company, Brookstone, Chadwicks, eHarmony, Linens-N-Things, Macys, Office Depot, Sharper Image and more... 
+J & R Friday Sale! 
 
 * * *
 
-$300 off Select Inspiron purchases of $1499 or above, Save 20% on Select Inspiron purchases of $999 and more... 
+Disney Shopping's Semi-Annual Sale - Save up to 75%! 
 
 * * *
 
-We have four exclusive coupons but you must hurry they expire 12/08/06. WD Caviar RE2 Hard Drive, Fantom Titanium External Hard Drive and more... 
+Save 25% off select Dimension purchases over $999, Save 25% on SELECT Dimension™ desktop purchases $999 or more 
 
 * * *
 
-Hurry sale ends 12/08/06 
+Last Monday, June 25th 
+
+At TigerDirect.com, you'll choose from brand name computers—the industry's top names—at prices simply not possible anywhere else. 
 
 * * *
 
-Take $10 off your order of $100 or more $20 off your order of $200 or more $50 off your order of $500 or more $100 off your order of $1,000 
-
-* * *
-
-Get $5 off any order over $25, Get $2 off any order over $10, FREE SHIPPING on up to 25 4x6 prints, $0.99 off shipping and more... 
-
-* * *
-
-20 free 4x6" prints at Sony ImageStation, 20% OFF Photo Calendars, 30% OFF Color Photo Crystals, Save up to 40% off on Photo Greeting Cards 
-
-* * *
-
-32" Widescreen HD LCD TV only $599, Memorex 7" Portable DVD Player only $54.95, Fuji FinePix V10 ONLY $179.95 Hurry Supplies Limited on all three 
-
-* * *
-
-Customize a Toshiba Satellite® laptop get FREE upgrades to meet Windows® Vista™ Premium Ready requirements, Toshiba Financing. 6 Months Same As Cash 
+Second Act offers customers great deals on brand name consumer electronics. All of our deals are of limited quantities. 
 
 * * *
 
@@ -177,155 +159,31 @@ Office Depot - Taking Care of Business. Office Depot, Inc. Founded in 1986, is o
 
 * * *
 
-Last Tuesday, December 5th 
-
-20% Off Women's Designer Boots, 20% Off Women's Designer Handbags, 30% Off Women's Outerwear, Diamonds Studs .25cttw-2.0cttw from $79.99! 
+Save up to 50% during the ½ Price Days Sale! Lamps Plus is the largest supplier of home lighting in the nation, with factory direct pricing. 
 
 * * *
 
-SANDISK Sansa C150 2GB MP3 Player - $59.99, CANON PowerShot SD800-IS 7 Mp $354.88, HARMONY REMOTE 880 Advance Universal Remote - $134.99 and more... 
+Time Life take the very best songs, the very best TV programs, and the very best entertainment products 
 
 * * *
 
-97 cent Shipping on Top Toys, Cool Toy Vehicles, Dolls and Plush Toys, Action Figures, Kids Electronics and more... 
+Save money with our Coupon codes, Promo codes and Discount Codes for Bare Necessities 
 
 * * *
 
-Eddie Bauer's One Week Only Sweater Sale Buy any Sweater, get another at 50% Off Expires 12/10/06 
+Save a bundle at Brylane Home with our Coupon Codes, Promo Codes and Discounts 
 
 * * *
 
-YOOX offers a unique mix that ranges from off-season products, to exclusive Internet collections by leading designers 
+HP is the largest consumer IT company in the world. 
 
 * * *
 
-Tiger Direct has 12 hot lapops for under $600, Computers like: Intel Pentium 4-M 1.8GHz, AMD Turion 64 3400+ and more Hurry Supplies Limited... 
+Save money using out eBags Coupon Code, eBags Promotional Code, and eBags Discount Code 
 
 * * *
 
-At TigerDirect.com, you'll choose from brand name computers—the industry's top names—at prices simply not possible anywhere else. 
-
-* * *
-
-Web Only Save up to 20% on all Home Audio, up to 25% on select Monitors, up to $125 Satellite Radios and more... 
-
-* * *
-
-Last Monday, December 4th 
-
-Payless ShoeSource is the largest specialty family footwear retailer in the Western Hemisphere. 
-
-* * *
-
-Linens 'n Things, Inc. is one of the leading, national large-format retailers of home textiles, housewares and decorative home accessories. 
-
-* * *
-
-40% off any purchase (Friends & Family) Expires 12/10/06 - Timberland is a global leader of premium-quality footwear, apparel and accessories. 
-
-* * *
-
-Kodak EasyShare Gallery (www.kodakgallery.com), formerly known as "Ofoto", is the leading online digital photo developing service. 
-
-* * *
-
-Apple iPod 30GB Video $219.99, Axion AXN-9700 7" Digital Picture Frame $84.99, Panasonic RP-HC300 Noise Canceling Headphones $83.99 and more... 
-
-* * *
-
-For one week only, Jos. A. Bank is offering a doorbuster Holiday exclusive sale, with 60% off many items! The sale runs through Sunday, 12/10/06 
-
-* * *
-
-Find coupons, online coupons, browse stores, search, shopping directory, deals, discounts, Coupon Codes, Promo Codes 
-
-* * *
-
-Trend Micro - 15% off site-wide coupon - Enter coupon code TMPROTECT. Expires Dec. 31, 2006 
-
-* * *
-
-MacMall has more than 100,000 different products from companies such as Compaq, Microsoft, Apple, IBM, Hewlett-Packard, Toshiba, Cisco, and others. 
-
-* * *
-
-Calvin Klein has 25% off your entire order and Free Shipping on orders of $50 or more. Both Expire 12/31/06 
-
-* * *
-
-Last Sunday, December 3rd 
-
-The "R" Us family of brands offers a broad assortment of toys, games, sporting goodsing destination toy and baby specialty , 
-
-* * *
-
-ACD Systems is recognized as the leader in image management and technical illustration software, including ACDSee and Canvas. 
-
-* * *
-
-Allume Systems develops software solutions for Windows, Macintosh include StuffIt, Internet Cleanup, Spring Cleaning, and icSpyware Suite. 
-
-* * *
-
-Nuance is the leading provider of speech and imaging solutions for businesses and consumers around the world. 
-
-* * *
-
-Save up to $200 instantly on select notebooks, 15% on select DVD players, recorders, digital cameras, camcorders, free shipping and more... 
-
-* * *
-
-CompUSA weekly Internet Sale 12/03.06, Save up to $300 on NOTEBOOKS, up to $50 on CAMERAS and more... 
-
-* * *
-
-Last Saturday, December 2nd 
-
-Walmart still has a good selection of the hottest GPS' at the lowest price and great toy sale Dora's Talking Dollhouse Bundle 
-
-* * *
-
-SmartBargains makes it easy for brand-oriented, value-conscious consumers to find wonderful bargains on the products they love. 
-
-* * *
-
-Radio Shack is the nation's most trusted consumer electronics specialty retailer and a provider of business-to-business retail support services. 
-
-* * *
-
-HP Small and Medium Business Online Store - Get more expertise, reliability and value for your business. 
-
-* * *
-
-Find the coupons you need, when you need them, right here. Print them out now and save on your favorite brands at supermarkets and drugstores! 
-
-* * *
-
-Overstock.com sells discount, brand-name merchandise up to 80% off the suggested retail price and ships every product, big or small, for only $2.95! 
-
-* * *
-
-Sharper Image is a specialty retailer renowned as a leading source of new, innovative, high-quality products that make life better and more enjoyable. 
-
-* * *
-
-Save at Amazon using coupon codes 
-
-* * *
-
-Save up to 20% on Onkyo and Sony Home Theater Systems and Receivers, Save up to 20% on select Projectors, Save up to 30% on PDA Accessories and more.. 
-
-* * *
-
-Garmin StreetPilot c320 GPS Only $268.82, Garmin StreetPilot c330 GPS Only $379.77, Qarmin Nuvi 350 Only $549.78 and more... 
-
-* * *
-
-Walmart has the Garmin StreetPilot c330 GPS for only $328.00 Rollback Price, Was: $449.87 
-
-* * *
-
-ToyRUS has some great deals as well as free shipping on orders over $49 and $10 off of $30 using Google Checkout 
+Get complete protection from the two most dangerous threats on the Internet -- spyware and viruses - in a single, easy-to-use solution. 
 
 * * *
 
@@ -333,44 +191,190 @@ Buy.com is the Internet retailer of choice. With categories ranging from compute
 
 * * *
 
-Last Friday, December 1st 
-
-Brookstone's Hard-To-Find Tools Store; Do it all with Hard to find Tools. Tools that provide new and innovative ways to ... 
+Free Delivery on Orders over $50 OfficeMax offers an array of services and products. 
 
 * * *
 
-Music123 now has over 125,000 products available. The depth of product information is unequaled, and new products and services are added daily. 
+Last Sunday, June 24th 
+
+Use our coupon to save money on ZIRH, the leader in men's skin care products. 
 
 * * *
 
-Larger Discount on Women's Outerwear Now Extra 30% Off Entire Stock! Extra 30% Off Men's Cold Weather Accessories 
+TurboTax Free Edition - number 1 trusted tax software. Get Turbo Tax promotion code coupon, also web promotion code 
 
 * * *
 
-Sierra Trading Post has $10 off $30 Code: wdgb8 using Google Checkout 
+Save money on everything you need for bath, blinds, shades, furniture, home decor, lighting and more with Coupon Codes and Promo Codes 
 
 * * *
 
-JC Penney is one of America's largest department store, catalog, and e-commerce retailers. 
+Best Buy Co., Inc is North America's number-one specialty retailer of consumer electronics, personal computers, entertainment software and appliances. 
 
 * * *
 
-Portable Folding Speaker System for iPod $12.95, Fuji Labs 1GB MP3 Player with FM Tuner $51.99, Canon PowerShot 5.0MP $149.99 and more... 
+Memorial 2-Day Sale: CompUSA provides computers, electronics, and accessories at huge savings! 
 
 * * *
 
-Sateen 400 Thread Count Solid Sheet Set $29.99, Egyptian Cotton 800 Thread Count Sheet Set $69.99, White Feather and Down Comforter $19.99 and more... 
+Web Only: Save up to 25% on select LCD Monitors, and up to 30% on select Projectors, up to 25% on select Notebooks and more... 
 
 * * *
 
-Garmin eTrex Vista Cx $249.00 before $50 rebate, Akai 50" Widescreen Plasma HDTV Monitor $1,598.00, PS2 Kid's Play Bundle $148.00 and Tons of others.. 
+Buy 1 get 1 50% off on select Activision Titles, Save $30 on Nintendo DS Value Pack 149.97 and 38 more... 
 
 * * *
 
-Take 15% Off Your Entire Purchase At Childrensplace.com During Our Holiday Sale! 
+Last Saturday, June 23rd 
+
+Save 20% on KODAK Fashion Accessories, Save 25% on all 1GB, 1GB High Performance, and 2GB High Performance Memory Cards 
 
 * * *
 
-20% Off plus, Save $20 on orders of $50 or more w/ Google Checkout Enter Coupon Code: "EMHOLIDAY" Expires 12/3/06 
+Save on fathead, fathead poster, fathead poster wall, fathead star war, fathead gordon jeff, fathead manning peyton and fathead nascar 
+
+* * *
+
+OnSale offers more options and lower prices for everything from digital cameras and iPods to computer systems and peripherals. 
+
+* * *
+
+Quicken/TurboTax Bundle Save $20! Save 20% on Quicken Deluxe, 17% on Quicken Basic, 20% on Quicken Premier, 36% on Quicken 2007 and Free Shipping 
+
+* * *
+
+10% off All adidas NBA Gear, Winter Sale and Spring Gear. adidas lives and breathes sport, creating high-performance footwear and apparel designed. 
+
+* * *
+
+Save money with these Cingular Wireless cell phone promotional code, Cingular Wireless phone coupon code and Cingular Wireless Prepaid 
+
+* * *
+
+Up to 50% off select Motorola Phones! Free Samsung u340 Camera Phone! New flavor available only online. Get the LG Pink Chocolate for Only $99.99 
+
+* * *
+
+Book a Hawaii trip, get a free night, Flight + 4 nights from $565, Florida trip save up to 25%, Mexico trip save up to 20%, Caribbean save up to 25%! 
+
+* * *
+
+Last Friday, June 22nd 
+
+McAfee offers a proven combination of hardware, software, and services to protect homes, businesses and government agencies from all threats. 
+
+* * *
+
+Old Navy's mission is to offer affordable, fashionable clothing and accessories for adults, kids, baby, and Moms-to-be. 
+
+* * *
+
+Print Sale! Get 10 cent and Save five cents on 4x6 prints. Save 25% off select Kodak Gallery gift items. New Customers Get 20 Free Kodak Prints! 
+
+* * *
+
+The Bombay Company offers furnishings with elegant designs, warm colors and luxurious textures. 
+
+* * *
+
+American Eagle Outfitters is a leading retailer that designs, markets and sells its own brand of laidback, current clothing for 15 to 25 year-olds 
+
+* * *
+
+Save with our Macy's Coupon Code, Promotional Code, and Discount. Looking for Free Shipping? 
+
+* * *
+
+Dell coupons and coupon codes for computers from Dell. Save on discount desktop computers, laptops, notebooks, servers, and more... 
+
+* * *
+
+Linens 'n Things Free Shipping on LNT.com's Deal of the Day, $10 off $10 purchase 
+
+* * *
+
+Babies"R"Us kicks off the Baby Fair Sale with 28 Hot Deals. 
+
+* * *
+
+Pre-Spring Sale Save An Additional 5% Abt Electronics is the nation's leading independent retailer of quality consumer electronics and appliances. 
+
+* * *
+
+MacMall has more than 100,000 different products. Get our exclusive coupon and save 3% OFF all Anti virus/Security 
+
+* * *
+
+Last Thursday, June 21st 
+
+Save money on the most recent coupon and promotional codes, discounts and bargains from New York & Company. 
+
+* * *
+
+Save up to 20% at La Redoute Shop for the season’s essential trends. From Downtown to Urban & Country. 
+
+* * *
+
+Save on all your Pool needs at In The Swim with our Coupon Codes, Promo Codes and Discount Codes 
+
+* * *
+
+Wednesday, June 20th 
+
+Shutterfly is an online photo service designed to help you get photo-quality prints from your digital camera delivered right to your door. 
+
+* * *
+
+Orbitz offers a wide selection of low airfares, as well as deals on lodging, car rentals, cruises, vacation packages and other travel. 
+
+* * *
+
+Target is America’s second largest general merchandise retailer. With a mix of trend-right style, high quality, affordability and attractive stores 
+
+* * *
+
+Billion Dollar Jewelry Sale: Take an EXTRA 15% off! Save on Hot Looks for Prom: 20-30% off prom attire! 
+
+* * *
+
+Save with Aeropostale coupons. Find the latest Aeropostale coupon codes, Aeropostale discounts 
+
+* * *
+
+15% off on all purchases when using your using Kohl's Credit Card 
+
+* * *
+
+20% off Satellite A130 Notebooks and 6 Months Same As Cash, Free Ground Shipping 
+
+* * *
+
+Save up to 50% on diamond rings, up to 70% on diamond necklaces, up to 75% on bracelets, and up to 60% on diamond earrings 
+
+* * *
+
+Get Free Shipping on NCAA Jerseys and Apparel, Dick's Sporting Goods is a full-line sporting goods offering brand name sporting goods. 
+
+* * *
+
+The NASCAR.Com Superstore offers the broadest selection of officially licensed NASCAR/driver merchandise available on the internet. 
+
+* * *
+
+Save up to 20% off entire order. Smarthome offers homeowners and contractors the widest selection of affordable home products. 
+
+* * *
+
+Free shipping over $75, 20% off ALL Swim Wear, New for spring! Find your best dress at Alloy Denim starting at $29.50 
+
+* * *
+
+15% off Site Wide, $20 off PDF Converter Professional, 20% on Dragon NaturallySpeaking 9, and 10% on all Nuance Products!! 
+
+* * *
+
+Tuesday, June 19th 
+
+One Step Ahead carries Baby Gate, Pool Safety, Crib Safety, Appliance Safety, Kitchen Safety, Drawer Locks, Cabinet Lock, Window Safety, and more... 
 
 * * *
