@@ -1,46 +1,97 @@
-> *The following text is extracted and transformed from the nakido.com privacy policy that was archived on 2006-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060516054517id_/http%3A//www.nakido.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nakido.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627093300id_/http%3A//www.nakido.com/pv) for the most accurate reproduction.*
 
-# Nakido Privacy Policy
+# Privacy Policy
 
-[](http://www.nakido.com/)
+|  |  |   
+---  
+  
+Nakido Privacy Policy
 
-**_Privacy Policy_**
+**Nakido** ("Nakido") recognizes that its customers, visitors, users, and others who use [www.nakido.com](http://www.nakido.com/) or other web sites owned or operated by Nakido (the " Nakido Sites") (collectively or individually "Users") value their privacy. This Privacy Policy details important information regarding the use and disclosure of User information collected on the Nakido Sites. Nakido provides this Privacy Policy to help you make an informed decision about whether to use or continue using the Nakido Sites.
 
-**Information We Collect**   
-Nakido.com collects your information from different part of our web site. At the time you use our services, we will automatically track certain information about you, which includes your IP address, what browser you are using, the URL that you just came from, and which URL you go to next. This information is collected for administrative use only. We do not rent, sell, or share personal information about you with nonaffiliated companies.
+This Privacy Policy is incorporated into and is subject to the [Nakido Terms of Use](http://www.nakido.com/ts). Your use of the Nakido Sites and any personal information you provide on the Nakido Sites remains subject to the terms of this Privacy Policy and our [Terms of Use](http://www.nakido.com/ts).
 
-**Use of Information**   
-Our primary goal in collecting user information is to enhance your experience on our Web site.
+Please note that any file, document, video, image, or other content posted at the direction of Users onto the Nakido Sites becomes published content and is not considered personally identifiable information subject to this Privacy Policy.
 
-**Cookies**   
-Cookies are small pieces of data stored on your computer's hard drive containing information about the user. Usage of a cookie is in NO WAY linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. However, we do not have control over cookies placed by advertisers. 
+The Information Nakido Collects  
+**User Provided Information:** You provide certain personally identifiable information (such as your name and email address) to Nakido when choosing to participate in various activities on the Nakido Sites such as uploading files, posting messages in our community or in the file comments section, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists. 
 
-Like other majoy websites, we use cookies to improve your experience when visiting our website and viewing our online contents. You need not have cookies turned on to visit our site, though cookies may be required in order for you to participate in certain areas.
+  * **Cookies Information:** When you visit the Nakido Sites, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. Nakido uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Nakido Sites may not function properly if the ability to accept cookies is disabled.
+  * **Log File Information:** When you use the Nakido Sites, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.
+  *  **Clear GIFs Information:** When you use the Nakido Sites, we may employ "clear GIFs" (a.k.a. Web Beacons) which are used to track the online usage patterns of our Users anonymously (i.e., in a non-personally-identifiable manner). In addition, we may also use clear GIFs in HTML-based emails sent to our users to track which emails are opened by recipients.
 
-**Third Party Cookies**   
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
+  
+The Way Nakido Uses Information  
+If you submit personally identifiable information to us through the Nakido Sites, then we use your personal information to operate, maintain, and provide to you the features and functionality of the Nakido Sites.  
 
-**Log Files**   
-We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
 
-**Third-Party Advertisers and Links**   
-Our site includes third-party advertising and links to other websites. We do not provide any personally identifiable customer information to these advertisers or third-party websites. We do not have access to or control over cookies or other features that they may use, and the information practices of these advertisers and third-party websites are not covered by this Privacy Notice.
+  * Any personal information or file content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other Users when you upload files or send messages through the Nakido Sites and other Users can contact you through messages and comments. Any files that you submit to the Nakido Sites may be redistributed through the internet and other media channels, and may be viewed by the general public.
+  
 
-**File Transfer Security**   
-We have appropriate security measures to protect against the loss, misuse or alteration of files that we have collected from you at our site. Files stored for delivery are only accessible by Megaupload and through the clickable link generated for your recipient. All files stored for delivery are deleted when they expire.
+  * We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major Nakido Site changes or for customer service purposes).
+  
 
-**Security**   
-We use reasonable precautions to keep the personal information you disclose to our websites secure and to only release this information to third parties we believe share our commitment to privacy. However, we are not responsible for any breach of security or for the actions of these parties.
+  * We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous User usage data, cookies, IP addresses, browser type, etc.) to improve the quality and design of the Nakido Sites and to create new features, promotions, functionality, and services by storing, tracking, and analyzing User preferences and trends.
+  
 
-**As Required By Law**   
-Nakido.com may disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to conform to the edicts of the law or comply with legal process served on Nakido.com or to protect and defend the rights or property of Nakido.com.
+  * We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the Nakido Sites; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests.
 
-**Notification of Changes**   
-This privacy policy was put in effect on November 25, 2005. 
+  
+When Nakido Discloses Information  
+We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.  
 
-If we change our Privacy Policy, we will post those changes on www.nakido.com. If we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users via email. Users will be able to opt out of any new use of their personal information.
 
-**Comments and Questions**   
-If you have any questions, comments or concerns about our Privacy Policy, you may contact us at [contact@nakido.com](mailto:contact@nakido.com).
+  * We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
+  
 
-This policy was last updated on November 25, 2005
+  * We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the Nakido Sites.
+  
+
+  * We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant.
+  
+
+  * Nakido also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that Nakido believes, in good faith, is appropriate or necessary to enforce our [Terms of Use](http://www.nakido.com/ts), take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of Nakido, our Users or others.
+
+  
+Your Choices  
+You may, of course, decline to submit personally identifiable information through the Nakido Sites, in which case Nakido may not be able to provide certain services to you. You may update or correct your personal profile information and email preferences at any time by logging in to your [My Account page](http://www.nakido.com/account). Please note that files uploaded by Users to the Nakido Sites cannot be removed and remain subject to our [Terms of Use](http://www.nakido.com/ts).
+
+To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.
+
+Please [contact Nakido](http://www.nakido.com/contact) with any questions or comments about this Privacy Policy, your personal information, your consent, or your opt-in or opt-out.
+
+Third-party Advertisers, Links to Other Sites  
+Nakido allows other companies, called third-party ad servers or ad networks, to serve advertisements within the Nakido Sites. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Nakido Sites. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see.
+
+Nakido does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. However, please note that if an advertiser asks Nakido to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. The advertiser may also use information regarding your use of the Nakido Sites, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you.
+
+You should consult the respective privacy policies of these third-party ad servers or ad networks (see links below) for more information on their practices and for instructions on how to opt-out of certain practices. Nakido's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+Our Commitment To Data Security  
+Nakido uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Nakido and you do so at your own risk. Once we receive your transmission of information, Nakido makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+
+If Nakido learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Nakido may post a notice on the Nakido Sites if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using this [contact form](http://www.nakido.com/contact).
+
+**  
+Our Commitment To Childrens' Privacy**  
+Protecting the privacy of young children is especially important. For that reason, Nakido does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the Nakido Sites from persons under 13 years of age, and no part of our website is directed to persons under 13. If you are under 13 years of age, then please do not use or access the Nakido Sites at any time or in any manner. If Nakido learns that personally identifiable information of persons under 13 years of age has been collected on the Nakido Sites without verified parental consent, then Nakido will take the appropriate steps to delete this information.
+
+Special Note to International Users  
+The Nakido Sites are hosted in the United States and are intended for and directed to Users in the United States. If you are a User accessing the Nakido Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Nakido Sites, which are governed by U.S. law, this Privacy Policy, and our Terms of Use, you are transferring your personal information to the United States and you consent to that transfer.
+
+**In the Event of Merger, Sale, or Bankruptcy**  
+In the event that Nakido is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our Users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.
+
+Changes and updates to this Privacy Policy  
+This Privacy Policy may be revised periodically and this will be reflected by the "effective date" below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Policy in effect when we received the personal information you provided. Your continued use of the Nakido Sites constitutes your agreement to this Privacy Policy and any future revisions.
+
+For revisions to this Privacy Policy that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information.
+
+Date Last Modified  
+This Privacy Policy was last modified January 5, 2007.
+
+Contact Information  
+Please [contact Nakido](http://www.nakido.com/contact) with any questions or comments about this Privacy.
+
+  
+
