@@ -1,12 +1,7 @@
-<!--The following is the downloaded HTML source of the ncld.org privacy policy that was archived on 2006-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061212074408id_/http%3A//www.ncld.org/content/view/530/401) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ncld.org privacy policy that was archived on 2007-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070627024239id_/http%3A//www.ncld.org/content/view/530/401) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-
-<!-- START OF SDC Advanced Tracking Code -->
-<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
-<!-- $DateTime: 2005/12/15 15:37:36 $ -->
-<script type="text/javascript"><!--
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script type="text/javascript"><!--
 var gService = true;
 var gTimeZone = -5;
 // Code section for Enable First-Party Cookie Tracking
@@ -67,6 +62,7 @@ function dcsFPC(offset){
 	dCur.setTime(dCur.getTime()+adj);
 	var dExp=new Date(dCur.getTime()+315360000000);
 	var dSes=new Date(dCur.getTime());
+	WT.co_f=WT.vt_sid=WT.vt_f=WT.vt_f_a=WT.vt_f_s=WT.vt_f_d=WT.vt_f_tlh=WT.vt_f_tlv="";
 	if (document.cookie.indexOf(name+"=")==-1){
 		if ((typeof(gWtId)!="undefined")&&(gWtId!="")){
 			WT.co_f=gWtId;
@@ -87,8 +83,8 @@ function dcsFPC(offset){
 		if (typeof(gWtAccountRollup)=="undefined"){
 			WT.vt_f_a="1";
 		}
-		WT.vt_f_s="1";
-		WT.vt_f_d="1";
+		WT.vt_f_s=WT.vt_f_d="1";
+		WT.vt_f_tlh=WT.vt_f_tlv="0";
 	}
 	else{
 		var id=dcsGetIdCrumb(name,"id");
@@ -99,8 +95,10 @@ function dcsFPC(offset){
 		}
 		WT.co_f=id;
 		var dLst=new Date(lv);
+		WT.vt_f_tlh=Math.floor((dLst.getTime()-adj)/1000);
 		dSes.setTime(ss);
 		if ((dCur.getTime()>(dLst.getTime()+1800000))||(dCur.getTime()>(dSes.getTime()+28800000))){
+			WT.vt_f_tlv=Math.floor((dSes.getTime()-adj)/1000);
 			dSes.setTime(dCur.getTime());
 			WT.vt_f_s="1";
 		}
@@ -113,7 +111,7 @@ function dcsFPC(offset){
 	var expiry="; expires="+dExp.toGMTString();
 	document.cookie=name+"="+"id="+WT.co_f+":lv="+dCur.getTime().toString()+":ss="+dSes.getTime().toString()+expiry+"; path=/"+(((typeof(gFpcDom)!="undefined")&&(gFpcDom!=""))?("; domain="+gFpcDom):(""));
 	if (document.cookie.indexOf(name+"=")==-1){
-		WT.co_f=WT.vt_sid=WT.vt_f_s=WT.vt_f_d="";
+		WT.co_f=WT.vt_sid=WT.vt_f_s=WT.vt_f_d=WT.vt_f_tlh=WT.vt_f_tlv="";
 		WT.vt_f=WT.vt_f_a="2";
 	}
 }
@@ -134,11 +132,13 @@ function dcsAdv(){
 <!-- END OF SDC Advanced Tracking Code -->
 
 <!-- START OF SmartSource Data Collector TAG -->
-<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
-<!-- $DateTime: 2005/12/16 12:16:18 $ -->
+<!-- Copyright (c) 1996-2007 WebTrends Inc.  All rights reserved. -->
+<!-- V8.0 -->
+<!-- $DateTime: 2006/11/30 16:52:27 $ -->
 <script type="text/javascript"><!--
 var gDomain="statse.webtrendslive.com";
 var gDcsId="dcs5fczm621e5hqlv3v5gidoe_2w4j";
+
 
 if ((typeof(gConvert)!="undefined")&&gConvert&&(document.cookie.indexOf(gFpc+"=")==-1)&&(document.cookie.indexOf("WTLOPTOUT=")==-1)){
 	document.write("<SCR"+"IPT TYPE='text/javascript' SRC='"+"http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+"/"+gDcsId+"/wtid.js"+"'><\/SCR"+"IPT>");
@@ -154,11 +154,33 @@ var DCSext=new Object();
 var gQP=new Array();
 var gI18n=false;
 if (window.RegExp){
-	var RE={"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
+	var RE={"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g,"%22":/\"/g,"%7F":/\x7F/g,"%A0":/\xA0/g};
 	var I18NRE={"%25":/\%/g};
 }
 
 // Add customizations here
+function dcsMultiTrack(){
+	if (arguments.length%2==0){
+		for (var i=0;i<arguments.length;i+=2){
+			if (arguments[i].indexOf('WT.')==0){
+				WT[arguments[i].substring(3)]=
+				arguments[i+1];
+		}
+	else if (arguments[i].indexOf('DCS.')==0){
+		DCS[arguments[i].substring(4)]=
+		arguments[i+1];
+	}
+	else if (arguments[i].indexOf('DCSext.')==0){
+		DCSext[arguments[i].substring(7)]=
+		arguments[i+1];
+		}
+	}
+		var dCurrent=new Date();
+		DCS.dcsdat=dCurrent.getTime();
+		dcsTag();
+	}
+}
+// End dcsMultiTrack Function
 
 function dcsVar(){
 	var dCurrent=new Date();
@@ -182,11 +204,12 @@ function dcsVar(){
 	WT.jv=dcsJV();
 	if (document.body&&document.body.addBehavior){
 		document.body.addBehavior("#default#clientCaps");
-		if (document.body.connectionType){
-			WT.ct=document.body.connectionType;
-		}
+		WT.ct=document.body.connectionType||"unknown";
 		document.body.addBehavior("#default#homePage");
 		WT.hp=document.body.isHomePage(location.href)?"1":"0";
+	}
+	else{
+		WT.ct="unknown";
 	}
 	if (parseInt(navigator.appVersion)>3){
 		if ((navigator.appName=="Microsoft Internet Explorer")&&document.body){
@@ -227,6 +250,7 @@ function dcsVar(){
 			WT.le=document.characterSet;
 		}
 	}
+	WT.tv="8.0.2";
 	WT.sp="@@SPLITVALUE@@";
 	DCS.dcsdat=dCurrent.getTime();
 	DCS.dcssip=window.location.hostname;
@@ -258,7 +282,7 @@ function dcsA(N,V){
 function dcsEscape(S, REL){
 	if (typeof(REL)!="undefined"){
 		var retStr = new String(S);
-		for (R in REL){
+		for (var R in REL){
 			retStr = retStr.replace(REL[R],R);
 		}
 		return retStr;
@@ -275,9 +299,6 @@ function dcsEncode(S){
 function dcsCreateImage(dcsSrc){
 	if (document.images){
 		gImages[gIndex]=new Image;
-		if ((typeof(gHref)!="undefined")&&(gHref.length>0)){
-			gImages[gIndex].onload=gImages[gIndex].onerror=dcsLoadHref;
-		}
 		gImages[gIndex].src=dcsSrc;
 		gIndex++;
 	}
@@ -317,7 +338,7 @@ function dcsTag(){
 		return;
 	}
 	var P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+(gDcsId==""?'':'/'+gDcsId)+"/dcs.gif?";
-	for (N in DCS){
+	for (var N in DCS){
 		if (DCS[N]) {
 			P+=dcsA(N,DCS[N]);
 		}
@@ -342,7 +363,12 @@ function dcsJV(){
 	var agt=navigator.userAgent.toLowerCase();
 	var major=parseInt(navigator.appVersion);
 	var mac=(agt.indexOf("mac")!=-1);
-	var nn=((agt.indexOf("mozilla")!=-1)&&(agt.indexOf("compatible")==-1));
+	var ff=(agt.indexOf("firefox")!=-1);
+	var ff0=(agt.indexOf("firefox/0.")!=-1);
+	var ff10=(agt.indexOf("firefox/1.0")!=-1);
+	var ff15=(agt.indexOf("firefox/1.5")!=-1);
+	var ff2up=(ff&&!ff0&&!ff10&!ff15);
+	var nn=(!ff&&(agt.indexOf("mozilla")!=-1)&&(agt.indexOf("compatible")==-1));
 	var nn4=(nn&&(major==4));
 	var nn6up=(nn&&(major>=5));
 	var ie=((agt.indexOf("msie")!=-1)&&(agt.indexOf("opera")==-1));
@@ -353,7 +379,13 @@ function dcsJV(){
 	var op6=(agt.indexOf("opera 6")!=-1||agt.indexOf("opera/6")!=-1);
 	var op7up=(op&&!op5&&!op6);
 	var jv="1.1";
-	if (nn6up||op7up){
+	if (ff2up){
+		jv="1.7";
+	}
+	else if (ff15){
+		jv="1.6";
+	}
+	else if (ff0||ff10||nn6up||op7up){
 		jv="1.5";
 	}
 	else if ((mac&&ie5up)||op6){
@@ -382,15 +414,22 @@ dcsTag();
 </script>
 
 <noscript>
-<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/dcs5fczm621e5hqlv3v5gidoe_2w4j/njs.gif?dcsuri=/nojavascript&amp;WT.js=No">
+<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/dcs5fczm621e5hqlv3v5gidoe_2w4j/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.0.2">
 </noscript>
 <!-- END OF SmartSource Data Collector  TAG -->
+
+
+<!--- 111111111111  -->
+<!--?xml version="1.0" encoding="iso-8859-1"?-->
+
+
+
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <title>NCLD - Privacy Policy</title>
 <meta name="title" content="Privacy Policy">
 <meta name="author" content="Administrator">
-<meta name="description" content="National Center for Learning Disabilities">
-<meta name="keywords" content="National Center for Learning Disabilities">
+<meta name="description" content="The National Center for Learning Disabilities (NCLD) works to ensure that the nation's 15 million children, adolescents and adults with learning disabilities have every opportunity to succeed in school, work and life.">
+<meta name="keywords" content="national center for learning disabilities, ncld,ncld,ncld,learing disabilities,ld,ldtalk,reading disabilities">
 <meta name="Generator" content="Mambo - Copyright 2000 - 2005 Miro International Pty Ltd.  All rights reserved.">
 <meta name="robots" content="index, follow">
 <base href="http://www.ncld.org/">
@@ -460,7 +499,7 @@ dcsTag();
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr align="left"><td><a href="/content/view/827/527/" class="mainlevel">Parent Center</a></td></tr>
 <tr align="left"><td><a href="/content/view/264/314/" class="mainlevel">Advocacy Center</a></td></tr>
-<tr align="left"><td><a href="http://www.getreadytoread.org" class="mainlevel">Preschoolers</a></td></tr>
+<tr align="left"><td><a href="/content/view/1120/456151/" class="mainlevel">Early Literacy &amp; Learning</a></td></tr>
 <tr align="left"><td><a href="/content/view/302/326/" class="mainlevel">Grades K-8</a></td></tr>
 <tr align="left"><td><a href="/content/view/382/339/" class="mainlevel">High School &amp; Adulthood</a></td></tr>
 </tbody></table>				</td>
@@ -476,8 +515,9 @@ dcsTag();
 				
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr align="left"><td><a href="/content/view/752/456/" class="mainlevel-ncld">About Us</a></td></tr>
-<tr align="left"><td><a href="/ldtalk/Itemid,529/" class="mainlevel-ncld">LD Talk</a></td></tr>
+<tr align="left"><td><a href="/content/view/1155/456163/" class="mainlevel-ncld">LD Talk</a></td></tr>
 <tr align="left"><td><a href="/content/view/445/389/" class="mainlevel-ncld">LD InfoZone</a></td></tr>
+<tr align="left"><td><a href="/locator/Itemid,390/" class="mainlevel-ncld">Resource Locator</a></td></tr>
 <tr align="left"><td><a href="/content/view/754/480/" class="mainlevel-ncld">Online Publications</a></td></tr>
 <tr align="left"><td><a href="/content/view/725/508/" class="mainlevel-ncld">Scholarship/Awards</a></td></tr>
 <tr align="left"><td><a href="/content/view/759/517/" class="mainlevel-ncld">Press Room</a></td></tr>
@@ -531,22 +571,22 @@ dcsTag();
 		<table class="contentpaneopen">
 				<tbody><tr>
 			<td valign="top" colspan="2">
-			<div>Here at NCLD your privacy is extremely important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to view our site as a source you can trust. We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how NCLD collects information from all end users of our organization sites, including <a href="/">www.ld.org</a>; <a href="http://www.keepkidslearning.org/" target="_blank">www.keepkidslearning.org</a>; and <a href="http://www.getreadytoread.org/" target="_blank">www.getreadytoread.org</a>. NCLD requests that you read this Privacy Policy carefully. </div><br><div><strong>How NCLD Collects and Uses Visitor Information</strong><br>NCLD collects information in different ways from visitors who access our sites. We use this information to helps us to provide you with important, relevant and timely information. NCLD does not share this information with third parties. We also utilitize e-mails collected via the sites to provide you with newsletters, advocacy and fundraising information. You will receive an e-mail confirming that you wish to receive this information. Should you not wish to receive it, do not respond to the e-mail.</div><br><div><strong>Registration </strong><br>Visitors are asked to provide certain personal information when they join our community or subscribe to our newsletter(s), such as name, address, telephone number, and e-mail. The information collected from visitors during the registration process is used to help NCLD develop better content for the Web sites, collect audience information and to develop our Web community, particularly for advocacy and fundraising purposes. This information is not shared with third parties.</div><br><div><strong>Online Shopping </strong><br>At some Web sites linked to our sites, you can purchase products and services or register to receive materials, such as a catalog or new product and service updates. In many cases, you may be asked to provide contact information, such as your name, address, email address, phone number, and credit/debit card information. If you complete an order for someone else, such as an online gift order sent directly to a recipient, you may be asked to provide information about the recipient, such as the recipient's name, address, and phone number. NCLD has no control over the third parties' use of any personal information you provide when placing such an order. Please exercise care when doing so. </div><br><div><strong>Responses to Email Inquiries </strong><br>When visitors send email inquiries to our sites, they will receive an automatic response and an e-mail allowing them to sign up for our newsletters and other e-bulletins. Due to the heavy volume of inquiries, it is not possible for NCLD to respond to every individual e-mail. Visitors are encouraged to browse the site for answers to their questions, and the auto response explains and links to specific site sections. There is also an additional e-mail contact, in case the automatic response and Web guidance does not provide the needed information. NCLD does not use the return email address for any other purpose and does not share the return email address with any third party. </div><br><div><strong>Disclaimer </strong><br>Please note: The contents of NCLD's Web sites are intended for informational use only and do not necessarily reflect the views of NCLD, its officers, or directors.<br><br>Information contained on these pages is intended to increase understanding of learning disabilities; it does not recommend or endorse specific products, programs, or courses of action.</div><br><div><strong>Voluntary Customer Surveys </strong><br>We may periodically conduct both business and individual customer surveys. We encourage our customers to participate in these surveys because they provide us with important information that helps us to improve the types of services, programs and content we offer and how we provide them to you. Your personal information and responses will remain strictly confidential, even if the survey is conducted by a third party. Participation in our customer surveys is voluntary. We take the information we receive from individuals responding to our surveys and combine (or aggregate) it with the responses of other visitors to create broader, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). We then use the aggregated information to improve the quality of our services and information to you, and to develop new services and products. </div><br><div><strong>"Cookies" and How NCLD Uses Them </strong><br>A "cookie" is a small data file that can be placed on your hard drive when you visit certain Web sites. NCLD may use cookies only to collect, store, and sometimes track information for statistical purposes to improve the information and services we provide and to manage our telecommunications networks. These cookies do not enable third parties to access any of your customer information. Advertisers, linked sites, and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them. </div><br><div><strong>NCLD's Commitment to Children's Privacy </strong><br>Protecting children's privacy is especially important to us. We have Web pages designed especially for our younger users. While we make every effort to ensure that these Web sites are fun and age-appropriate for our younger audience, we believe that there is no substitute for proper parental supervision. For further information about tips, tools, age-appropriate or kid-friendly Web sites and how to report online trouble, please visit <a href="http://www.getnetwise.org/" target="_blank">www.getnetwise.org</a>. Finally, NCLD recommends that children ask a parent for permission before sending personal information to NCLD or to anyone else online.</div><br><div><strong>Public Forums </strong><br>Please remember that any information you may disclose in our other public areas, such as a bulletin board, of our Web sites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas. </div><br><div><strong>NCLD's Commitment to Data Security </strong><br>Services and Web sites we sponsor have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information. </div><br><div><strong>Where to Direct Questions About NCLD's Privacy Policy </strong><br>If you have any questions about this Privacy Policy or the practices described herein, you may contact 
+			<div>Here at NCLD your privacy is extremely important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to view our site as a source you can trust. We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how NCLD collects information from all end users of our organization sites, including <a href="http://www.ld.org">www.ld.org</a>; <a href="http://www.getreadytoread.org" target="_blank">www.getreadytoread.org</a>; and <a href="http://www.recognitionandresponse.org" target="_blank">www.recognitionandresponse.org</a>. NCLD requests that you read this Privacy Policy carefully. </div><br><div><strong>How NCLD Collects and Uses Visitor Information</strong><br>NCLD collects information in different ways from visitors who access our sites. We use this information to helps us to provide you with important, relevant and timely information. NCLD does not share this information with third parties. We also utilitize e-mails collected via the sites to provide you with newsletters, advocacy and fundraising information. You will receive an e-mail confirming that you wish to receive this information. Should you not wish to receive it, do not respond to the e-mail.</div><br><div><strong>Registration </strong><br>Visitors are asked to provide certain personal information when they join our community or subscribe to our newsletter(s), such as name, address, telephone number, and e-mail. The information collected from visitors during the registration process is used to help NCLD develop better content for the Web sites, collect audience information and to develop our Web community, particularly for advocacy and fundraising purposes. This information is not shared with third parties.</div><br><div><strong>Online Shopping </strong><br>At some Web sites linked to our sites, you can purchase products and services or register to receive materials, such as a catalog or new product and service updates. In many cases, you may be asked to provide contact information, such as your name, address, email address, phone number, and credit/debit card information. If you complete an order for someone else, such as an online gift order sent directly to a recipient, you may be asked to provide information about the recipient, such as the recipient's name, address, and phone number. NCLD has no control over the third parties' use of any personal information you provide when placing such an order. Please exercise care when doing so. </div><br><div><strong>Responses to Email Inquiries </strong><br>When visitors send email inquiries to our sites, they will receive an automatic response and an e-mail allowing them to sign up for our newsletters and other e-bulletins. Due to the heavy volume of inquiries, it is not possible for NCLD to respond to every individual e-mail. Visitors are encouraged to browse the site for answers to their questions, and the auto response explains and links to specific site sections. There is also an additional e-mail contact, in case the automatic response and Web guidance does not provide the needed information. NCLD does not use the return email address for any other purpose and does not share the return email address with any third party. </div><br><div><strong>Disclaimer </strong><br>Please note: The contents of NCLD's Web sites are intended for informational use only and do not necessarily reflect the views of NCLD, its officers, or directors.<br><br>Information contained on these pages is intended to increase understanding of learning disabilities; it does not recommend or endorse specific products, programs, or courses of action.</div><br><div><strong>Voluntary Customer Surveys </strong><br>We may periodically conduct both business and individual customer surveys. We encourage our customers to participate in these surveys because they provide us with important information that helps us to improve the types of services, programs and content we offer and how we provide them to you. Your personal information and responses will remain strictly confidential, even if the survey is conducted by a third party. Participation in our customer surveys is voluntary. We take the information we receive from individuals responding to our surveys and combine (or aggregate) it with the responses of other visitors to create broader, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). We then use the aggregated information to improve the quality of our services and information to you, and to develop new services and products. </div><br><div><strong>"Cookies" and How NCLD Uses Them </strong><br>A "cookie" is a small data file that can be placed on your hard drive when you visit certain Web sites. NCLD may use cookies only to collect, store, and sometimes track information for statistical purposes to improve the information and services we provide and to manage our telecommunications networks. These cookies do not enable third parties to access any of your customer information. Advertisers, linked sites, and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them. </div><br><div><strong>NCLD's Commitment to Children's Privacy </strong><br>Protecting children's privacy is especially important to us. We have Web pages designed especially for our younger users. While we make every effort to ensure that these Web sites are fun and age-appropriate for our younger audience, we believe that there is no substitute for proper parental supervision. For further information about tips, tools, age-appropriate or kid-friendly Web sites and how to report online trouble, please visit <a href="http://www.getnetwise.org/" target="_blank">www.getnetwise.org</a>. Finally, NCLD recommends that children ask a parent for permission before sending personal information to NCLD or to anyone else online.</div><br><div><strong>Public Forums </strong><br>Please remember that any information you may disclose in our other public areas, such as a bulletin board, of our Web sites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas. </div><br><div><strong>NCLD's Commitment to Data Security </strong><br>Services and Web sites we sponsor have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information. </div><br><div><strong>Where to Direct Questions About NCLD's Privacy Policy </strong><br>If you have any questions about this Privacy Policy or the practices described herein, or have any questions about the use of your contact information, you may contact 
 <script language="JavaScript" type="text/javascript"> 
 <!-- 
 var prefix = '&#109;a' + 'i&#108;' + '&#116;o'; 
 var path = 'hr' + 'ef' + '='; 
-var addy68331 = 'h&#101;lp' + '&#64;' + 'ncld' + '&#46;' + '&#111;rg'; 
-var addy_text68331 = 'h&#101;lp' + '&#64;' + 'ncld' + '&#46;' + '&#111;rg'; 
-document.write( '<a ' + path + '\'' + prefix + ':' + addy68331 + '\'>' ); 
-document.write( addy_text68331 ); 
+var addy98356 = 'h&#101;lp' + '&#64;' + 'ncld' + '&#46;' + '&#111;rg'; 
+var addy_text98356 = 'h&#101;lp' + '&#64;' + 'ncld' + '&#46;' + '&#111;rg'; 
+document.write( '<a ' + path + '\'' + prefix + ':' + addy98356 + '\'>' ); 
+document.write( addy_text98356 ); 
 document.write( '<\/a>' ); 
 //--> 
 </script><a href="mailto:help@ncld.org">help@ncld.org</a> 
 <noscript> 
 This email address is being protected from spam bots, you need Javascript enabled to view it
 </noscript> 
-.</div><br><div><strong>Revisions to This Policy </strong><br>NCLD reserves the right to revise, amend, or modify this policy and our other policies and agreements at any time and in any manner.<br>Rev. 4/11/03 </div><br>&nbsp;<br>
+&nbsp;or 212-545-7510.</div><br><div><strong>Revisions to This Policy </strong><br>NCLD reserves the right to revise, amend, or modify this policy and our other policies and agreements at any time and in any manner.</div>
 
 			</td>
 		</tr>
@@ -565,7 +605,7 @@ This email address is being protected from spam bots, you need Javascript enable
 
 						  <tr>
                                 <td height="65">
-                                  <div align="left">Copyright © 1999-2006 National Center for Learning Disabilities, Inc.<br>All Rights Reserved. <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Site powered by <a href="http://www.neact.com/" target="_blank"><img src="templates/ncld/images/neact-logo.gif" border="0" align="absbottom"></a>
+                                  <div align="left">Copyright © 1999-2007 National Center for Learning Disabilities, Inc.<br>All Rights Reserved. <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Site powered by <a href="http://www.neact.com/" target="_blank"><img src="templates/ncld/images/neact-logo.gif" border="0" align="absbottom"></a>
 
                                   </div>
                                </td></tr>
@@ -582,14 +622,16 @@ This email address is being protected from spam bots, you need Javascript enable
                       <td width="188" height="42" valign="top" bgcolor="#ddebeb">
                         <table width="188" border="0" cellspacing="0" cellpadding="0">
                           <tbody><tr>
-                            <td height="25" valign="bottom" src="http://www.ncld.org/templates/ncld/images/rightNavTitle4Bg.gif">			<table cellpadding="0" cellspacing="0" class="moduletable-vld">
+                            <td height="25" valign="bottom" src="http://www.ncld.org/templates/ncld/images/rightNavTitle4Bg.gif">
+												
+										<table cellpadding="0" cellspacing="0" class="moduletable-vld">
 							<tbody><tr>
 					<th valign="top">
-					<a href="http://www.ncld.org/content/view/957/456117/" class="bluelink">Voices of LD					</a></th>
+					<a href="http://www.ncld.org/content/view/1104/456150/" class="bluelink">Voices of LD					</a></th>
 				</tr>
 								<tr>
 					<td>
-					<a href="/index.php?option=content&amp;task=view&amp;id=997"></a><p>From New York to Colorado and from Georgia to Indiana, <a href="/content/view/957/456117/">Parent Perspectives</a> brings you tips, insights and inspiration from around the country. Read and listen to parents tell their stories about their children's learning disabilities.</p><p></p><p>					</p></td>
+					<div class="text"><br><a href="/content/view/1104/456150/"><img height="98" hspace="5" src="/images/stories/images/VLD/30voicesofld/george_art.jpg" width="75" align="right" border="0"></a>In honor of our 30th Anniversary, NCLD solicited works of art that express what life is like for individuals with LD. Artists were asked to show us what their world looks like or tell us about how having LD has shaped their life and goals. <a href="/content/view/1104/456150/">Click here&nbsp;to view&nbsp;the winning submissions</a>.</div><br>					</td>
 				</tr>
 						</tbody></table>
 					<table cellpadding="0" cellspacing="0" class="moduletable-parent">
@@ -612,7 +654,7 @@ This email address is being protected from spam bots, you need Javascript enable
 					<p><img height="73" hspace="0" src="/images/stories/images/homepage/teacher_two_kids.gif" width="70" align="right" border="0">Get suggestions and strategies for kindergarten through eighth-grade teachers who have students with learning disabilities in their classrooms...<a href="content/view/828/456071/">more</a></p><p>					</p></td>
 				</tr>
 						</tbody></table>
-		</td>
+									</td>
                           </tr>
 
                         </tbody></table>
@@ -642,7 +684,7 @@ This email address is being protected from spam bots, you need Javascript enable
               </tr>
             </tbody></table>
             <map name="MapMap">
-              <area shape="rect" coords="38,3,100,32" href="http://www.getreadytoread.org/">
+              <area shape="rect" coords="38,3,100,32" href="/content/view/1120/456151/">
               <area shape="rect" coords="146,3,219,33" href="/content/view/302/326/">
               <area shape="rect" coords="234,5,331,31" href="/content/view/382/339/">
               <area shape="rect" coords="344,5,432,30" href="/content/view/264/314/">
@@ -655,5 +697,7 @@ This email address is being protected from spam bots, you need Javascript enable
     </td>
   </tr>
 </tbody></table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script> 
+<script type="text/javascript">_uacct = "UA-1659553-1"; urchinTracker(); </script>
 
 </body></html>
