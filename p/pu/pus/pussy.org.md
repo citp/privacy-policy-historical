@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the pussy.org privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224170314id_/http%3A//www.pussy.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pussy.org privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627105656id_/http%3A//www.pussy.org/privacy.html) for the most accurate reproduction.*
 
 # Pussy.org - Free Porn Free Pussy Pictures and Free Pussy Movies Porn!
+
+## Privacy Policy
 
 ### Privacy:
 
@@ -20,4 +22,4 @@ If you would like to see the information we hold about you or would like to be r
 
 ### Cookies:
 
-We may use cookies. A cookie is a small amount of data which is stored on your computer hard drive which makes it easier to identify you and which is revealed to us when you use this website. We also use cookies to track the interest of our users so that we can subsequently enhance their experience on our website. You can configure your web browser not to accept cookies, although this may affect how you see and are able to use this website. We would be grateful if you would also let us know (at [admin@pussy.org](mailto:admin@pussy.org)) if you have any comments on this site or have spotted any errors or non-functioning parts of the site.
+We may use cookies. A cookie is a small amount of data which is stored on your computer hard drive which makes it easier to identify you and which is revealed to us when you use this website. We also use cookies to track the interest of our users so that we can subsequently enhance their experience on our website. You can configure your web browser not to accept cookies, although this may affect how you see and are able to use this website. We would be grateful if you would also let us know (at [admin@pussy.org](mailto:admin@pussy.org)) if you have any comments on this site or have spotted any errors or non-functioning parts of the site. 
