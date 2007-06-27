@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the resellerratings.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205233552id_/http%3A//www.resellerratings.com/statement.pl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resellerratings.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627202504id_/http%3A//www.resellerratings.com/statement.pl) for the most accurate reproduction.*
 
-# ResellerRatings Customer Ratings and Reviews and Price Comparison Shopping
+# Compare Prices and Read Customer Reviews at ResellerRatings.com
 
 **All Enthusiast, Inc.'s Privacy Policy**
 
@@ -50,9 +50,9 @@ When you are at the ResellerRatings.com site and asked for personal information,
 
 **Third Party Advertising:**
 
-We use DoubleClick, Rydium, FastClick, and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp).
+We use [DoubleClick](http://www.doubleclick.com/us/about_doubleclick/privacy/dart_adserving.asp "http://www.doubleclick.com/us/about_doubleclick/privacy/dart_adserving.asp"), [Rydium](http://www.rydium.com/privacy.html "http://www.rydium.com/privacy.html"), [ValueClick](http://admin.valueclickmedia.com/optout/index.html "http://admin.valueclickmedia.com/optout/index.html"), [AlmondNet](http://www.almondnet.com/privacy.aspx?miid=7&artid=49 "http://www.almondnet.com/privacy.aspx?miid=7&artid=49") and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like to obtain an opt-out cookie from one or more of these third-party advertising companies, please click on their name, above. You may _[click here](http://www.networkadvertising.org/consumer/opt_out.asp "http://www.networkadvertising.org/consumer/opt_out.asp")_ to obtain an opt-out cookie for other third-party advertising companies, and to learn more about third-party ad serving in general.  Having an opt-out cookie means that the information collected from your website visits will not be used to target ads to you.
 
- **How to Correct Inaccuracies**
+**How to Correct Inaccuracies**
 
 If you use another All Enthusiast, Inc. service, we may send you a confirmation e-mail confirming your new account and/or service. The message will be sent to the address that you supplied us and will describe ways for you to change or delete the account information provided. Remember to keep the confirmation e-mail as it will also contain information that will help you in case you run into problems accessing our services. 
 
