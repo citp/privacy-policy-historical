@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the programmableweb.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215174812id_/http%3A//www.programmableweb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the programmableweb.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627064216id_/http%3A//programmableweb.com/privacy) for the most accurate reproduction.*
 
-# ProgrammableWeb: Privacy Policy
+# ProgrammableWeb: Privacy
 
   
 ProgrammableWeb is committed to preserving your privacy and safeguarding your information. The following statement describes the general information-gathering and usage practices of our sites. 
@@ -19,5 +19,8 @@ ProgrammableWeb is committed to preserving your privacy and safeguarding your in
 
 7\. If you have questions about this Privacy Policy please send email to service@programmableweb.com. 
 
-  
+
+
+
+   
 
