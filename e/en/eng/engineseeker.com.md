@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the engineseeker.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215143522id_/http%3A//engineseeker.com/engine_seeker_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engineseeker.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627033820id_/http%3A//www.engineseeker.com/engine_seeker_privacy.htm) for the most accurate reproduction.*
 
 # EngineSeeker.com - Online Search Engine Promotion and Submission
 
@@ -32,4 +32,4 @@ EVISIONS and all owned and operated sites of EVISIONS uses our centrally located
 **Modifications**  
 EVISIONS reserves the right to modify this privacy page from time to time without notice in EVISIONS sole discretion. Such modifications shall be effective when posted.
 
-12/16/04 
+1/1/07 
