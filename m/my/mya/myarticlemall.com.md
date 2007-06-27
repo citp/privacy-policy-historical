@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myarticlemall.com privacy policy that was archived on 2006-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061227194116id_/http%3A//www.myarticlemall.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myarticlemall.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627063016id_/http%3A//www.myarticlemall.com/privacy.php) for the most accurate reproduction.*
 
-# MyArticleMall.com
+# Free Articles
 
 My Article Mall.com Privacy Policy
 
