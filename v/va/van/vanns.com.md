@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vanns.com privacy policy that was archived on 2006-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061129033613id_/http%3A//www.vanns.com/shop/servlet/content/info/1057022777629/1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vanns.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627044153id_/http%3A//www.vanns.com/shop/servlet/content/info/1057022777629/1) for the most accurate reproduction.*
 
 # Privacy Statement
 
