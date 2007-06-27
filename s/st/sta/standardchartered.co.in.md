@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the standardchartered.co.in privacy policy that was archived on 2006-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061109235751id_/http%3A//www.standardchartered.com/in/home/datapp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standardchartered.co.in privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627073956id_/http%3A//www.standardchartered.com/in/home/datapp.html) for the most accurate reproduction.*
 
 # Standard Chartered Bank
 
