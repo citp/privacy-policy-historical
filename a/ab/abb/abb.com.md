@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abb.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230225102id_/http%3A//www.abb.com/Copyright.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abb.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627064957id_/http%3A//www.abb.com/Copyright.aspx) for the most accurate reproduction.*
 
 # The ABB Group
 
@@ -26,6 +26,8 @@ We do not rent or sell your personally identifying information to other companie
   * We have your expressed consent. 
   * We provide such information to trusted businesses or persons for the sole purpose of processing your request on our behalf. When this is done, it is subject to agreements that oblige those parties to process such information only on our instructions and in compliance with this Privacy Policy and appropriate confidentiality and security measures. 
   * We conclude that we are required by law or have a good faith belief that access, preservation or disclosure of such information is reasonably necessary to protect the rights, property or safety of ABB, its users or the public. 
+
+
 
 If you have an account, we may share the information submitted under your account among all of our services as well as distributors and channel partners to the extent necessary to provide you with a seamless experience and to improve the quality of our services. We will not disclose your account information to other people or non-affiliated companies, except in the limited circumstances described in this Policy or with your consent.
 
