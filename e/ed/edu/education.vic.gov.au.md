@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the education.vic.gov.au privacy policy that was archived on 2006-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061008110004id_/http%3A//www.education.vic.gov.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the education.vic.gov.au privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627051906id_/http%3A//www.education.vic.gov.au/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Statement - Department of Education and Training
+# Privacy Statement - Department of Education
 
 The Department of Education & Training (DE&T) is committed to protecting the privacy of your personal information. This DE&T Online Privacy Statement governs the collection, storage, use, access and disposal of data including all personal information obtained on DE&T web sites. Please take some time to read through this statement and understand our position on privacy. 
 
