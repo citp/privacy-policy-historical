@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the merchantcircle.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620045544id_/http%3A//www.merchantcircle.com/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merchantcircle.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627080518id_/http%3A//www.merchantcircle.com/corporate/privacy.html) for the most accurate reproduction.*
 
 # MerchantCircle.com | Privacy Policy
-
-### MerchantCircle Privacy and Security Policy
 
 At MerchantCircle we provide the intelligent connection of customers with neighborhood businesses. Whether you are a consumer seeking a deal or a merchant trying to acquire or keep customers, we want to keep offering you outstanding value so that you continue to use our services. We believe you should be able to share and collaborate on our platform in a secure, hosted environment.
 
