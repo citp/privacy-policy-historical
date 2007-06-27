@@ -1,14 +1,9 @@
-> *The following text is extracted and transformed from the mercedsunstar.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212215414id_/http%3A//www.mercedsunstar.com/standing/story/10176530p-10993438c.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercedsunstar.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627122810id_/http%3A//www.mercedsunstar.com/standing/story/10176530p-10993438c.html) for the most accurate reproduction.*
 
 # mercedsunstar.com :: The Merced Sun Star's Privacy Policy
 
-The Merced Sun Star's Privacy Policy
-
-  
-
-
 [  
-](mailto:jescoto@modbee.com?subject=The%20Merced%20Sun%20Star%27s%20Privacy%20Policy)
+](mailto:editor@mercedsun-star.com?subject=The%20Merced%20Sun%20Star%27s%20Privacy%20Policy)
 
 _Last Updated: March 22, 2005, 04:19:00 PM PST_
 
