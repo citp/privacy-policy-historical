@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlebliss.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021100026id_/http%3A//articlebliss.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlebliss.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627103952id_/http%3A//articlebliss.com/privacy.php) for the most accurate reproduction.*
 
 # www.articlebliss.com..Article Directory
 
