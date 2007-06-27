@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the krem.com privacy policy that was archived on 2006-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061106073813id_/http%3A//www.krem.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krem.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627024810id_/http%3A//www.krem.com/registration/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | About Us | KREM.com | News for Spokane, Washington
 
