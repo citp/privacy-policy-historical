@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xbox360cheats.com privacy policy that was archived on 2006-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060318034010id_/http%3A//xbox360cheats.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xbox360cheats.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627211723id_/http%3A//www.xbox360cheats.com/privacy_policy) for the most accurate reproduction.*
 
-# Xbox 360 Cheats – Privacy policy
+# - Xbox360Cheats.com - The #1 Source for Xbox 360 Cheats -
 
 ## xbox 360 news
 
