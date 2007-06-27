@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bellsouth.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621094955id_/http%3A//www.bellsouth.com/privacydoc.html%3Fft%3Dpol) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellsouth.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627095535id_/http%3A//www.bellsouth.com/privacydoc.html%3Fft%3Dpol) for the most accurate reproduction.*
 
 # BellSouth - Legal Notices and Privacy Statement
 
