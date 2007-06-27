@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alawar.com privacy policy that was archived on 2006-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061101030917id_/http%3A//www.alawar.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alawar.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627192000id_/http%3A//www.alawar.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Alawar Online Privacy Policy - Alawar.com
 
@@ -150,7 +150,7 @@ You may set your browser to block cookies (consult the instructions for your par
   
 **D. PRIVACY-RELATED INQUIRIES AND COMPLAINTS**
 
-Alawar takes and addresses its users' privacy concerns with utmost respect and attention. If you believe that there was an instance of non-compliance with this Online Privacy Policy with regard to your personal information or you have other related inquiries or concerns, you may write or contact Alawar at [privacy@alawar.com] or [Alawar Entertainment, Inc 901 N. Pitt Street Suite 325 Alexandria, VA 22314]. 
+Alawar takes and addresses its users' privacy concerns with utmost respect and attention. If you believe that there was an instance of non-compliance with this Online Privacy Policy with regard to your personal information or you have other related inquiries or concerns, you may write or contact Alawar at [law@alawar.com] or [Alawar Entertainment, Inc 901 N. Pitt Street Suite 325 Alexandria, VA 22314]. 
 
 In your message, please describe in as much detail as possible the nature of your inquiry or the ways in which you believe that the Alawar Online Privacy Policy has not been complied with. We will investigate your inquiry or complaint promptly. 
 
