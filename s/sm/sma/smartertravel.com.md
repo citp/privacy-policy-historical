@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the smartertravel.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206014523id_/http%3A//www.smartertravel.com/us/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartertravel.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627191539id_/http%3A//www.smartertravel.com/us/policy.html) for the most accurate reproduction.*
 
-# SmarterTravel.com Privacy Policy
+# Privacy Policy - SmarterTravel.com
 
-###### SmarterTravel.com Privacy Policy
-
- _This Privacy Policy was last changed March 3, 2006._
+This Privacy Policy was last changed February 15, 2007.
 
 **Overview**
 
@@ -26,9 +24,9 @@ If you enter SmarterTravel.com via a reward or incentive program, SmarterTravel.
 
 You may also register for SmarterTravel.com and/or specific SmarterTravel.com newsletters at web sites operated by third parties. These third parties may share contact, demographic, or profile data that you voluntarily provide during the registration process with SmarterTravel.com. You also may provide personal information to third parties when you register at a third party web site and specifically request that your information be forwarded to us so that we can send you information about our product and service offerings. SmarterTravel.com does or may in the future use this information in the same manner as information collected directly by SmarterTravel.com. This Privacy Policy does not bind sites that collect information on behalf of SmarterTravel.com, and SmarterTravel.com is not responsible for the privacy practices or the content of such websites.
 
-To better serve you, we may also store information you present to us via email or telephone communications with SmarterTravel.com’s Customer Service Department. This information is or may be used in the same manner as information directly collected using SmarterTravel.com's registration form. We may also use information you provide us via email or telephone to pursue the matter for which you contacted us. SmarterTravel.com also may obtain information from you in our online forums. This information may not be disclosed except as consistent with Terms of Use.
+To better serve you, we may also store information you present to us via email or telephone communications with SmarterTravel.coms Customer Service Department. This information is or may be used in the same manner as information directly collected using SmarterTravel.com's registration form. We may also use information you provide us via email or telephone to pursue the matter for which you contacted us. SmarterTravel.com also may obtain information from you in our online forums. This information may not be disclosed except as consistent with Terms of Use.
 
-In order to better communicate with registered users about their registration status, SmarterTravel.com may acquire information about users from third-party sources, including but not limited to a user’s mailing address. The information collected will only be shared, if at all, on an aggregate basis only with third parties.
+In order to better communicate with registered users about their registration status, SmarterTravel.com may acquire information about users from third-party sources, including but not limited to a users mailing address. The information collected will only be shared, if at all, on an aggregate basis only with third parties.
 
 Email Communications: To help us make emails more useful and interesting, we often receive a confirmation when you open email from SmarterTravel.com if your computer supports such capabilities.
 
@@ -46,7 +44,7 @@ Occasionally, SmarterTravel.com participates in reward programs. In order to pro
 
 **SmarterTravel.com Product**
 
-SmarterTravel.com is a product managed by Smarter Living, Inc. Smarter Living, Inc., from time to time may compare, merge, or append information collected on SmarterTravel.com with data from one or more other sites managed by Smarter Living, Inc. Similarly, information you provide on other Smarter Living, Inc., managed sites may be compared, merged, or appended to information you provide via SmarterTravel.com.
+SmarterTravel.com is a product managed by Smarter Travel Media LLC. Smarter Travel Media LLC, from time to time may compare, merge, or append information collected on SmarterTravel.com with data from one or more other sites managed by Smarter Travel Media LLC. Similarly, information you provide on other Smarter Travel Media LLC, managed sites may be compared, merged, or appended to information you provide via SmarterTravel.com.
 
 **Sweepstakes, Online Surveys, and Order Forms**
 
@@ -60,7 +58,7 @@ SmarterTravel.com offers services to allow our users to send information about o
 
 **Children Under 13 Years Old**
 
-SmarterTravel.com and its affiliated sites do not knowingly collect, maintain or use personal information from our websites about children under age 13. Children under the age of 13 may not participate in any online activites on Smarter Living, Inc.'s web sites. If a child whom we know to be under age 13 sends personal information to us online, we will only use that information to respond directly to that child, notify parents, or seek parental consent.
+SmarterTravel.com and its affiliated sites do not knowingly collect, maintain or use personal information from our websites about children under age 13. Children under the age of 13 may not participate in any online activites on Smarter Travel Media LLC's web sites. If a child whom we know to be under age 13 sends personal information to us online, we will only use that information to respond directly to that child, notify parents, or seek parental consent.
 
 **IP Addresses**
 
@@ -101,11 +99,11 @@ SmarterTravel.com subscribers may opt out of receiving future SmarterTravel.com 
   * Website: [http://www.smartertravel.com/sub/changesubscriptions.php](https://web.archive.org/sub/changesubscriptions.php).
   * Email: [unsubscribe@smartertravel.com](mailto:unsubscribe@smartertravel.com) or [fraud@smartertravel.com](mailto:fraud@smartertravel.com).
   * Fax: 617-886-5501
-  * Mail: Smarter Living, Inc., 465 Medford Street, Suite 400, Boston, MA 02129 attn: SmarterTravel.com Customer Service
+  * Mail: Smarter Travel Media LLC, 465 Medford Street, Suite 400, Boston, MA 02129 attn: SmarterTravel.com Customer Service
 
 
 
-To opt out of future communications from SmarterTravel.com’s partners, please contact the partner directly. For assistance with this, please contact SmarterTravel.com Customer Service: [feedback@smartertravel.com](mailto:feedback@smartertravel.com)
+To opt out of future communications from SmarterTravel.coms partners, please contact the partner directly. For assistance with this, please contact SmarterTravel.com Customer Service: [feedback@smartertravel.com](mailto:feedback@smartertravel.com)
 
 **Notification of Changes**
 
@@ -113,13 +111,13 @@ If at any point we decide to share personally identifiable information to third 
 
 **Business Assets**
 
-As part of operations, SmarterTravel.com may sell, transfer, or merge particular businesses, newsletters, and/or other assets to a third party. As part of such a transaction, personal information users’ have provided to SmarterTravel.com may be given to a third party.
+As part of operations, SmarterTravel.com may sell, transfer, or merge particular businesses, newsletters, and/or other assets to a third party. As part of such a transaction, personal information users have provided to SmarterTravel.com may be given to a third party.
 
 SmarterTravel.com attempts to comply with all legislative and judicial orders. These orders will take precedence over the details stated in the policy above.
 
 If you have any questions about this Privacy Policy or your dealings with SmarterTravel.com, please contact:
 
-Smarter Living, Inc.  
+Smarter Travel Media LLC  
 Attn: SmarterTravel.com  
 465 Medford Street   
 Suite 400   
