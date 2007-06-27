@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slideroll.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216114842id_/http%3A//www.slideroll.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slideroll.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627084410id_/http%3A//www.slideroll.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Flash Slideshow Creator, Photo Slideshows for MySpace, YouTube, and Everywhere!
 
