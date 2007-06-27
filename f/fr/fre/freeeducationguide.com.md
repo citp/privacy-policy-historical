@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeeducationguide.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231094639id_/http%3A//freeeducationguide.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeeducationguide.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627173644id_/http%3A//www.freeeducationguide.com/privacy.cfm) for the most accurate reproduction.*
 
 # login_template.jpg
 
