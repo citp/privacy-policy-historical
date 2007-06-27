@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldenpages.ie privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206220945id_/http%3A//www.goldenpages.ie/static/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenpages.ie privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628012217id_/http%3A//www.goldenpages.ie/static/privacy.html) for the most accurate reproduction.*
 
 # Golden Pages: product, business and service search directory for Ireland - Privacy Policy
 
