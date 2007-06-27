@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eteamz.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225005036id_/http%3A//eteamz.active.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eteamz.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627185701id_/http%3A//eteamz.active.com/company/privacy) for the most accurate reproduction.*
 
 # eteamz.com - The Team Sports Web Site Leader
 
