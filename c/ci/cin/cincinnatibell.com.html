@@ -1,9 +1,12 @@
-<!--The following is the downloaded HTML source of the cincinnatibell.com privacy policy that was archived on 2006-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061211190931id_/http%3A//www.cincinnatibell.com/customer_support/policies/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cincinnatibell.com privacy policy that was archived on 2007-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070627045548id_/http%3A//cincinnatibell.com/customer_support/policies/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<title>Cincinnati Bell Privacy Policy &nbsp;</title>
+<title>Cincinnati Bell Privacy Policy </title>
+
+<!-- cincinnatibell.com -->
+
 <script src="/js/libraries/prototype.js" type="text/javascript"></script>
 <script src="/js/libraries/scriptaculous.js" type="text/javascript"></script><script type="text/javascript" src="https://web.archive.org/js/libraries/builder.js"></script><script type="text/javascript" src="https://web.archive.org/js/libraries/effects.js"></script>
 <script src="/js/libraries/behaviour.js" type="text/javascript"></script>
@@ -20,17 +23,17 @@ var nl3_id = "nl3policies";
 </script>
 
 
-<link rel="stylesheet" type="text/css" href="/css/main.css">
-<link rel="stylesheet" type="text/css" href="/css/nav.css">
-
-<link rel="stylesheet" type="text/css" href="/css/tabs.css">
-
+<link rel="stylesheet" type="text/css" href="/css/main.css" media="all">
+<link rel="stylesheet" type="text/css" href="/css/nav.css" media="all">
+<link rel="stylesheet" type="text/css" href="/css/tabs.css" media="all">
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print">
 
 
 </head>
 <body bgcolor="#ffffff" class="gradient">
 <div id="blueWrapContainer">
 <p id="upgradeMessage"><strong>NOTE:</strong> <a href="http://www.cincinnatibell.com/upgrade/">Read why this site appears to be in plain text.</a></p>
+
 
 
 <!-- top row nav -->
@@ -40,8 +43,10 @@ var nl3_id = "nl3policies";
 			<li><a href="/consumer/" class="active">Consumer</a></li>
 			<li>|</li>
 			<li><a href="/business/">Small &amp; Medium Business</a></li>
+			
 			<li>|</li>
 			<li><a href="/business/enterprise/">Enterprise</a></li>
+			
 		</ul>
 		
 		<ul id="right">
@@ -54,58 +59,63 @@ var nl3_id = "nl3policies";
 
 
 
-<!-- bengals clock -->
-
-<!-- end bengals bar -->
-
-
-
-
-
 <div class="genContainer">
 	<div id="navLevel2">
+	<div id="hpsiteIdRegion">
 	<div id="hpsiteId"></div>
+	<div id="regionId">Region: Cincinnati<a href="#" onclick="setupRegionDropDown(); new Effect.toggle('regionNav','blind', { duration: .2}); return false;">Edit</a></div>
+	</div>
 	<ul>
 		<li><a href="/consumer/">Home</a></li>
 <li><a href="http://webmail.fuse.net/">WebMail</a></li>
 <li><a href="/customer_support/locations/">Find A Store</a></li>
+<li><a href="https://my.cincinnatibell.com/SelfCare/UI/Root/Unauthenticated/login.aspx?ReturnUrl=/selfcare/UI/MessageCenter/Default.aspx&amp;MCTab=order">Order Status</a></li>
 <li><a href="/customer_support/contact_us/">Contact Us</a></li>
 <li><a href="/aboutus/">About Us</a></li>
 <li><a href="/customer_support/" class="orangeNl2">Customer Support</a></li>
-<li><span id="nl2search">Search :</span><form id="searchBox" method="get" action="/search/default.asp"><input type="text" class="searchBox" name="query" value=""><input type="submit" value="" class="searchButton"></form></li>
+<li style="padding: 0;"><span id="nl2search">Search :</span><form id="searchBox" method="get" action="/search/default.asp"><input type="text" class="searchBox" name="query" value=""><input type="submit" value="" class="searchButton"></form></li>
 	</ul>
 	</div>
-</div>
-
-<div id="navLevel3">
-	<div class="genContainer">
-	<ul>
-		<li id="nl3main"><a href="/customer_support/">Main</a></li>
-<li id="nl3product_support"><a href="/customer_support/product_support/">Product Support</a></li>
-<li id="nl3my_account_help"><a href="/customer_support/my_account/">My Account Help</a></li>
-<li id="nl3billing_help"><a href="/customer_support/billing_help/">Billing Help</a></li>
-<li id="nl3policies"><a href="/customer_support/policies/">Policies</a></li>
-<li id="nl3store_locations"><a href="/customer_support/locations/">Store Locations</a></li>
-<li id="nl3contact_us"><a href="/customer_support/contact_us/">Contact Us</a></li>
-<li id="nl3consumer_information"><a href="/customer_support/consumer_information/">Consumer Info</a></li>
-
-	</ul>
 	
-	</div>
+	<div id="regionNav" style="display: none;">
+<a href="#" onclick="new Effect.BlindUp('regionNav', { duration: .2}); return false;">cancel</a>
+<p>To see pricing and promotions specific to your area, select a region from this list.</p>
+<form name="regionForm" onsubmit="return false">
+<select name="region" onchange="changeRegionDD(this);">
+<option value="Cincinnati">Cincinnati</option>
+<option value="Northern%20Kentucky">Northern Kentucky</option>
+
+<option value="Dayton">Dayton</option>
+<option value="Beavercreek">Beavercreek</option>
+<option value="Franklin">Franklin</option>
+<option value="Huber%20Heights">Huber Heights</option>
+<option value="Kettering">Kettering</option>
+
+<option value="Miamisburg">Miamisburg</option>
+<option value="Middletown">Middletown</option>
+<option value="Monroe">Monroe</option>
+<option value="Oakwood">Oakwood</option>
+<option value="Springboro">Springboro</option>
+<option value="Springfield">Springfield</option>
+<option value="Spring%20Valley">Spring Valley</option>
+<option value="Trenton">Trenton</option>
+<option value="Vandalia">Vandalia</option>
+<option value="West%20Carrollton">West Carrollton</option>
+</select>
+</form>
 </div>
 
-<div id="navLevel4">
-<ul>
-<li><a href="/customer_support/policies/">Overview</a></li>
-<li><a href="/customer_support/policies/legal_notice/">Legal Notice</a></li>
-<li class="active"><a href="/customer_support/policies/privacy_policy/">Privacy Policy</a></li>
-<li><a href="/customer_support/policies/do_not_call_policy/">Do Not Call Policy</a></li>
-<li><a href="https://my.cincinnatibell.com/SelfCare/UI/Root/Unauthenticated/CPNI.aspx">Customer Proprietary Network Information</a></li>
-<li><a href="/customer_support/policies/zoomtown/">ZoomTown</a></li>
-<li><a href="/customer_support/policies/dmca/">DMCA</a></li>
-</ul>
-
+<br class="clear">
 </div>
+<!-- take these 2 lines out when Lebanon's full customer support goes live, more below -->
+<!-- take these 3 lines out when Lebanon's full customer support goes live, more below -->
+<!-- take this out when Lebanon's full customer support goes live -->
+
+
+	
+
+
+<!-- region-specific code - for pages that should not show up at all in other regions -->
 
 
 
@@ -250,7 +260,7 @@ records. <a href="/customer_support/policies/customer_proprietary_network_inform
 			<ul>
 				<li><a href="/consumer/wireless/phones_and_devices/">Phones &amp; Devices</a></li>
 				<li><a href="/consumer/wireless/rate_plans/">Rate Plans</a></li>
-				<li><a href="http://accessories.cincinnatibell.com/store/index.asp">Accessories</a></li>
+				<li><a href="/consumer/wireless/accessories/">Accessories</a></li>
 				<li><a href="/consumer/wireless/coverage/">Coverage Maps</a></li>
 				<li><a href="/consumer/wireless/calling_services/">Features &amp; Services</a></li>
 				<li><a href="/consumer/wireless/rate_plans/?anchor=individual">No Contracts</a></li>
@@ -260,11 +270,12 @@ records. <a href="/customer_support/policies/customer_proprietary_network_inform
 	<div class="linkSet">
 		<h5>Home Phone &amp; LD</h5>
 			<ul>
-				<li><a href="/consumer/home_phone/">New Phone Service</a></li>
+				<li><a href="/consumer/home_phone/new_phone_service/">New Phone Service</a></li>
 				<li><a href="/consumer/home_phone/moving/">Moving?</a></li>
 				<li><a href="/consumer/home_phone/calling_services/">Add-On Services</a></li>
 				<li><a href="/consumer/long_distance/">Long Distance</a></li>
 				<li><a href="/consumer/bundles/">Savings Packages</a></li>
+				<li><a href="/customer_support/product_support/home_phone/calling_services/voice_messaging/howto/">Voice Messaging Help</a></li>
 			</ul>
 	</div>
 
@@ -280,13 +291,14 @@ records. <a href="/customer_support/policies/customer_proprietary_network_inform
 			</ul>
 	</div>
 
-	
 	<div class="linkSet">
+	
 		<h5>Home Security</h5>
 			<ul>	
 				<li><a href="/consumer/security/packages/">Equipment Packages</a></li>
 				<li><a href="/consumer/security/">Pricing &amp; Promotions</a></li>
 			</ul>
+	
 		<h5>TV</h5>
 			<ul>
 				<li><a href="/consumer/tv/directv/programming/">Premium Packages</a></li>
@@ -294,7 +306,6 @@ records. <a href="/customer_support/policies/customer_proprietary_network_inform
 			</ul>
 	</div>
 	
-
 	<div class="linkSet">
 		<h5>View, Pay &amp; Manage</h5>
 			<ul>
@@ -320,7 +331,7 @@ function feedback()
 </script>
 
 <ul id="copyrightFooter">
-<li id="first">Copyright 2006 Cincinnati Bell Inc.</li>
+<li id="first">Copyright 2007 Cincinnati Bell Inc.</li>
 <li><a href="/customer_support/policies/legal_notice/">Legal Notice</a></li>
 <li><a href="/customer_support/policies/privacy_policy/">Privacy Policy</a></li>
 <li><a href="/customer_support/policies/do_not_call_policy/">Do Not Call Policy</a></li>
@@ -419,7 +430,7 @@ hbx.pec="";//ERROR CODES
 <script language="javascript1.1" defer="" src="/js/hbx.js"></script>
 <!--END WEBSIDESTORY CODE-->
 
-
+<br><br>
 </div>
 
 </body></html>
