@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womenontheirway.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205200618id_/http%3A//www.wyndham.com/privacystatement/info.wnt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womenontheirway.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627082919id_/http%3A//www.wyndham.com/privacystatement/info.wnt) for the most accurate reproduction.*
 
 # Wyndham Hotels & Resorts - Privacy Policy
 
