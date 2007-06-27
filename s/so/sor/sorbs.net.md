@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sorbs.net privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213045750id_/http%3A//www.us.sorbs.net/w3c/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sorbs.net privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627123840id_/http%3A//www.au.sorbs.net/w3c/privacy.shtml) for the most accurate reproduction.*
 
-# Privacy Policy [Doc Id: privacy.shtml 1.3 2005/12/07 11:37:22]
+# Privacy Policy [Doc Id: privacy.shtml 1.1.1.1 2007/02/24 09:50:29]
 
 **Follows is the lawyer approved privacy statement that applies to all websites of:**
 
