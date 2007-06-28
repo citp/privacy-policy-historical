@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the splitreason.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205225058id_/http%3A//www.splitreason.com/index.php%3Fdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splitreason.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628081946id_/http%3A//www.splitreason.com/index.php%3Fdisplay%3Dprivacy) for the most accurate reproduction.*
 
-# SPLITREASON.COM - It pwnz0rz!
+# SPLITREASON.COM - Gear for Geeks and Gamers
 
 We hate spammers just as much as you do... 
 
