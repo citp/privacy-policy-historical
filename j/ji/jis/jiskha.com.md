@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jiskha.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208085616id_/http%3A//www.jiskha.com/legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jiskha.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628162914id_/http%3A//www.jiskha.com/legal/privacy_policy.html) for the most accurate reproduction.*
 
 # Jiskha Homework Help - Legal: Privacy Policy
 
@@ -38,4 +38,4 @@ Thank you for taking the time to read this privacy policy. Jiskha Homework Help 
 
 [hip hop vinyl](http://www.irismika.com/english/)
 
-[**download hip hop vinyl**](http://www.irismika.com/english/)
+[**download mp3 free instrumental remix**](http://www.jiskha.com/download/)
