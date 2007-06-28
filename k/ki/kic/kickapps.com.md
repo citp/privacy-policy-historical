@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kickapps.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213083149id_/http%3A//www.kickapps.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kickapps.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628044105id_/http%3A//www.kickapps.com/privacy.php) for the most accurate reproduction.*
 
-# KickApps — Terms of Service
+# KickApps — Privacy Policy — User-Generated Video & Social Networking at Your Website
 
 (This Privacy Policy was last updated on June 12, 2006.)
 
