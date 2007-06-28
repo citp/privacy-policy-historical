@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webyog.com privacy policy that was archived on 2006-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061109161706id_/http%3A//www.webyog.com/en/webyog_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webyog.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629004320id_/http%3A//www.webyog.com/en/webyog_privacy_policy.php) for the most accurate reproduction.*
 
-# Free MySQL GUI Windows Manager Management Client Tool, MySQLFront, MySQL FrontEnd, MySQL Admin Tool, MySQL Manager, MySQL Query Browser, MySQL Migration, MySQL Administrator, MySQL Editor, MySQL Software, MySQL Front End
+# MySQL Monitor and Advisor, MySQL Performance Tuning and Optimization, Open Source MySQL GUI Management Tools
 
 Privacy Policy
 
