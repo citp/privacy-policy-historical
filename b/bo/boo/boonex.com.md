@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the boonex.com privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224204944id_/http%3A//www.boonex.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boonex.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628210847id_/http%3A//www.boonex.com/privacy) for the most accurate reproduction.*
 
 # BoonEx Group :: Privacy Policy
-
-BoonEx Privacy Policy 
 
 The passage below is aimed to listing and explaining BoonEx privacy policy. Using BoonEx site and services, including but not limited to forums and chats, you thus agree to this privacy policy terms and conditions.
 
