@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wsaz.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205225802id_/http%3A//www.wsaz.com/unclassified/647.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsaz.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628190140id_/http%3A//www.wsaz.com/unclassified/647.html) for the most accurate reproduction.*
 
-# WSAZ | GRAY TELEVISION GROUP, INC. PRIVACY POLICY AND YOUR PRIVACY RIGHTS
+# WSAZ - HomePage The Online leader for Severe Weather and Breaking News
 
-GRAY TELEVISION GROUP, INC. PRIVACY POLICY AND YOUR PRIVACY RIGHTS 
+GRAY TELEVISION GROUP, INC. PRIVACY POLICY AND YOUR PRIVACY RIGHTS
 
 This Privacy Policy does not cover the “Ask the Experts” advertising feature that may be included on this website.  Please see the separate privacy policy on the [Ask the Experts homepage](http://www.asktheexperts.org/).
 
@@ -141,6 +141,6 @@ We will use reasonable efforts to promptly investigate any complaint you may hav
 
 
 
-This Privacy Policy was last updated on Jan. 1, 2006 and is effective immediately.
+This Privacy Policy was last updated on Jan. 1, 2007 and is effective immediately.
 
-Copyright © 2006 Gray Television Group, Inc. All rights reserved.
+Copyright © 2007 Gray Television Group, Inc. All rights reserved.
