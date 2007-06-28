@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classicmature.com privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229193338id_/http%3A//www2.classicmature.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classicmature.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629004819id_/http%3A//www.classicmature.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -104,4 +104,4 @@ In the event of any conflicts between the Membership Terms the Conditions and th
 
 [ 18 U.S.C. 2257 Record Keeping Requirements Compliance Statement](http://www2.classicmature.com/guests/legal.shtml)
 
-Copyright © 2006 Level Ventures, Ltd. All rights reserved.
+Copyright © 2007 Level Ventures, Ltd. All rights reserved.
