@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the memorysuppliers.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217171702id_/http%3A//www.memorysuppliers.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memorysuppliers.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628131312id_/http%3A//www.memorysuppliers.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -71,14 +71,6 @@ Way to a Memory Upgrade.
 
 
 
-  
-
-
-[](http://www.scanalert.com/RatingVerify?ref=www.memorysuppliers.com)
-
-  
-
- 
-
-Copyright 1999-2006 and beyond. All rights reserved.  
+          
+Copyright 1999-2007 and beyond. All rights reserved.  
 All brand names are registered trademarks of their respective owners.
