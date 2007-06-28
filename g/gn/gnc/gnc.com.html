@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gnc.com privacy policy that was archived on 2006-11-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061129053509id_/http%3A//www.gnc.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gnc.com privacy policy that was archived on 2007-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070628212658id_/http%3A//www.gnc.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.-->
 
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 
@@ -84,6 +84,45 @@ function jump(url)
 	</head>
 <body bgcolor="#F8F7F3" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" rightmargin="0" onload="javascript:findcenter();" onresize="javascript:findcenter();">
 
+<div style="display:none">Thank you for visiting GNC. If you need 
+                assistance with shopping on our 
+				site, please call us at 877-462-4700 and a customer care representative will be happy 		
+				to assist you. Please inform the Customer Service representative that you require 
+				assistance.</div>
+	<script type="text/javascript" src="http://GNC.imageg.net/js/DF_DFT_main.js"></script>
+	<script type="text/javascript" src="http://GNC.imageg.net/js/WIZ_DFT_topNav.js"></script>
+	<script type="text/javascript" src="http://GNC.imageg.net/js/LIB_eventObserve.js"></script>
+	
+	<link href="/css/WIZ_GNC_topNav.css" rel="stylesheet" type="text/css">
+	<style type="text/css">body {behavior:url(../css/LIB_csshover.htc) !important;}</style>
+	<script type="text/javascript">
+		//Eliminates multiple onload events stomping each other, needs LIB_eventObserve.js include above.
+		Event.observe(window,"load",function(){Dom.father(['ul'])});
+		Event.observe(window,"load",function(){findcenter()});
+	</script>
+<script language="javascript" type="text/javascript">
+
+
+
+var d = document;
+ 
+function getHeightTop(divNames){
+	var box = divNames.split(",");
+	//new Array("reg_info_box","div_line_box","opt_info_box"); //list of DIV ids
+	for(x=0;x<box.length;x++){ //determine the tallest div
+		h = d.getElementById(box[x]).offsetHeight;
+		for(y=0;y<box.length;y++){
+			test_h = d.getElementById(box[y]).offsetHeight;
+			if(h<test_h) h = test_h;
+		}  
+	}
+	for(x=0;x<box.length;x++) d.getElementById(box[x]).style.height = h +"px"; //set the height of all divs to the tallest
+}
+ 
+</script>
+
+
+
 
 
 
@@ -92,100 +131,6 @@ function jump(url)
 
 
 <script language="JavaScript1.1">
-//variables for timeouts for divs
-var timer1;
-var timer2;
-var timer3;
-var timer4;
-var timer5;
-var timer6;
-
-function clearAllTimers()
-{
- 	for (i=1;i<7;i++)
- 	{
- 		clearTimeout(eval("timer"+i));
- 	}
-	document.navVitamins.src='http://GNC.imageg.net/images/vitamins.gif';
-	document.navSports.src='http://GNC.imageg.net/images/sports.gif';
-	document.navWeight.src='http://GNC.imageg.net/images/weight.gif';
-	document.navHerbs.src='http://GNC.imageg.net/images/herbs.gif';
-	document.navHealth.src='http://GNC.imageg.net/images/health.gif';
-	document.navHealth_conditions.src='http://GNC.imageg.net/images/giftcenter.gif';
-}
-
-
-
-function startTimer1 ()
-	{
-	document.navVitamins.src='http://GNC.imageg.net/images/vitamins.gif';
-	document.getElementById("topNav0").style.display = 'none';
-	showCorrectDiv ();
-	}
-function startTimer2 ()
-	{
-	document.navSports.src='http://GNC.imageg.net/images/sports.gif';
-	document.getElementById("topNav1").style.display = 'none';
-	showCorrectDiv ();
-	}
-function startTimer3 ()
-	{
-	document.navWeight.src='http://GNC.imageg.net/images/weight.gif';
-	document.getElementById("topNav2").style.display = 'none';
-	showCorrectDiv ();
-	}
-function startTimer4 ()
-	{
-	document.navHerbs.src='http://GNC.imageg.net/images/herbs.gif';
-	document.getElementById("topNav3").style.display = 'none';
-	showCorrectDiv ();
-	}
-function startTimer5 ()
-	{
-	document.navHealth.src='http://GNC.imageg.net/images/health.gif';
-	document.getElementById("topNav4").style.display = 'none';
-	showCorrectDiv ();
-	}
-function startTimer6 ()
-	{
-	document.navHealth_conditions.src='http://GNC.imageg.net/images/giftcenter.gif';
-	document.getElementById("topNav5").style.display = 'none';
-	showCorrectDiv ();
-	}
-
-// on mouseover, turn off all other on images and divs
-function hideOtherDivs ()
-	{
-	 document.getElementById("topNav0").style.display = 'none';
-	  document.navVitamins.src='http://GNC.imageg.net/images/vitamins.gif';document.getElementById("topNav1").style.display = 'none';
-	  document.navSports.src='http://GNC.imageg.net/images/sports.gif';document.getElementById("topNav2").style.display = 'none';
-	  document.navWeight.src='http://GNC.imageg.net/images/weight.gif';document.getElementById("topNav3").style.display = 'none';
-	  document.navHerbs.src='http://GNC.imageg.net/images/herbs.gif';document.getElementById("topNav4").style.display = 'none';
-	  document.navHealth.src='http://GNC.imageg.net/images/health.gif';document.getElementById("topNav5").style.display = 'none';
-	  document.navHealth_conditions.src='http://GNC.imageg.net/images/giftcenter.gif';
-	}
-function showCorrectDiv ()
-	{
-	
-	}
-
-function toggleMenuVisibility(showThisDiv, hideDiv1, hideDiv2, hideDiv3, hideDiv4, hideDiv5)
-{
-	var elem1 = document.getElementById(showThisDiv);
-	
-	var elem2 = document.getElementById(hideDiv1);
-	var elem3 = document.getElementById(hideDiv2);
-	var elem4 = document.getElementById(hideDiv3);
-	var elem5 = document.getElementById(hideDiv4);
-	var elem6 = document.getElementById(hideDiv5);
-	
-	elem1.style.display = "";
-	elem2.style.display = "none";
-	elem3.style.display = "none";
-	elem4.style.display = "none";
-	elem5.style.display = "none";
-	elem6.style.display = "none";
-}
 
 
 function Hilite(name,over)
@@ -199,22 +144,19 @@ function Hilite(name,over)
   }
 }
 function showDiv() {
+   findcenter();
    document.getElementById("email_inner").style.display = '';
 }
 function hideDiv() {
   document.getElementById("email_inner").style.display = 'none';
 }
-function findcenter() {
-var pagewidth = document.body.clientWidth/2 + 45;
-document.getElementById('email_inner').style.left = pagewidth;
 
+function findcenter() {
+//397
+var pagewidth = document.body.clientWidth/2 + 20;
 var pagewidth2 = document.body.clientWidth/2 - 392;
-document.getElementById('topNav0').style.left = pagewidth2;
-document.getElementById('topNav1').style.left = pagewidth2;
-document.getElementById('topNav2').style.left = pagewidth2;
-document.getElementById('topNav3').style.left = pagewidth2;
-document.getElementById('topNav4').style.left = pagewidth2;
-document.getElementById('topNav5').style.left = pagewidth2;
+document.getElementById('email_inner').style.marginLeft = pagewidth;
+
 }
 
 function jumpTo ()
@@ -238,15 +180,9 @@ var hideThisInputField = document.getElementById("gncLibraryInput");
 showThisInputField.style.display="";
 hideThisInputField.style.display="none"
 }
-
-
-function turnOff(whatTimer)
-{ 
-var setTimer = setTimeout(whatTimer,2000);
-}
 </script>
 
-<div id="email_inner" name="email_inner" style="display: none; left: 728px;">
+<div id="email_inner" name="email_inner" style="display: none; margin-left: 703px;">
 <table cellpadding="1" cellspacing="0" border="0">
 <tbody><tr>
 	<td bgcolor="#CCCCCC">
@@ -297,13 +233,13 @@ var setTimer = setTimeout(whatTimer,2000);
 	<td rowspan="2" width="16"><img src="http://GNC.imageg.net/images/line_rt.gif" height="67" width="16"></td>
 	<td height="47" width="758" bgcolor="#FFFFFF"><table cellpadding="0" cellspacing="0" border="0" width="100%">
 	<tbody><tr>
-		<td width="157"><a href="/home/index.jsp"><img src="http://GNC.imageg.net/images/logo.gif" height="47" width="157" border="0"></a></td>
+		<td width="157"><a href="/home/index.jsp"><img src="http://GNC.imageg.net/images/logo.gif" alt="GNC Live Well" height="47" width="157" border="0"></a></td>
 		<td valign="top" align="right" width="407"><table cellpadding="0" cellspacing="0" border="0">
 			<tbody><tr>
-				<td><a href="../requestCat/index.jsp"><img src="http://GNC.imageg.net/images/head_catalogOver.gif" border="0" height="35" width="78"></a></td>
+				<td><a href="../requestCat/index.jsp"><img src="http://GNC.imageg.net/images/head_catalogOver.gif" alt="request a catalog" border="0" height="35" width="78"></a></td>
 				<td><img src="http://GNC.imageg.net/images/pixel.gif" height="1" width="5"></td>
 				<td width="1"><img src="http://GNC.imageg.net/images/pixel.gif" height="1" width="5"></td>
-				<td width="78"><img src="http://GNC.imageg.net/images/head_emailOver.gif" border="0" height="33" width="78" name="head_email" onclick="javascript:showDiv('email_inner');"></td>
+				<td width="78"><a href="javascript:void(0);" onclick="javascript:showDiv('email_inner');"><img src="http://GNC.imageg.net/images/head_emailOver.gif" alt="signup for email" border="0" height="33" width="78" name="head_email"></a></td>
 				<td width="15"><img src="http://GNC.imageg.net/images/pixel.gif" height="1" width="15"></td>
 				<td width="1"><img src="http://GNC.imageg.net/images/line.gif" height="35" width="1"></td>
 				<td width="26"><img src="http://GNC.imageg.net/images/pixel.gif" height="33" width="26"></td>
@@ -316,8 +252,8 @@ var setTimer = setTimeout(whatTimer,2000);
 			<tbody><tr>
 				<td><div id="gncProductInput" name="gncProductInput">
 				
-				<input type="text" name="kw" align="middle" style="font-size:11px;width:165px;"></div><div id="gncLibraryInput" name="gncLibraryInput" style="display:none;"><input type="text" name="query" align="middle" style="font-size:11px;width:165px;"></div></td>
-				<td><input type="image" src="http://GNC.imageg.net/images/search_header.gif" height="17" width="68" border="0"></td>
+				<input type="text" name="kw" align="middle" value="Enter keyword or item number" onfocus="if (this.value == 'Enter keyword or item number') { this.value = ''; }" style="font-size:11px;width:165px;"></div><div id="gncLibraryInput" name="gncLibraryInput" style="display:none;"><input type="text" name="query" align="middle" style="font-size:11px;width:165px;"></div></td>
+				<td><input type="image" src="http://GNC.imageg.net/images/search_header.gif" height="17" alt="Search" width="68" border="0"></td>
 			</tr>
 			<tr>
 				<td colspan="2"><table cellpadding="0" cellspacing="0" border="0">
@@ -337,143 +273,197 @@ var setTimer = setTimeout(whatTimer,2000);
 	<td rowspan="2" width="20"><img src="http://GNC.imageg.net/images/line_left.gif" height="67" width="20"></td>
 </tr>
 <tr>
-	<td height="20"><!-- start nav -->
-	<table cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>
-		<td>
-			<a href="/shop/index.jsp?categoryId=2167069"><img src="http://GNC.imageg.net/images/vitamins.gif" height="20" width="126" onmouseover="clearAllTimers();document.getElementById('topNav0').style.zIndex='3000';document.navVitamins.src='http://GNC.imageg.net/images/vitamins_on.gif';toggleMenuVisibility('topNav0','topNav1','topNav2','topNav3','topNav4','topNav5');" onmouseout="timer1=setTimeout(&quot;startTimer1()&quot;,2000);document.getElementById(&quot;topNav0&quot;).style.zIndex=&quot;1&quot;;" border="0" id="navVitamins" name="navVitamins"></a></td>
-		<td width="1">
-			<img src="http://GNC.imageg.net/images/pixel.gif" height="1" width="1"></td>
-		<td>
-			<a href="/shop/index.jsp?categoryId=2167077"><img src="http://GNC.imageg.net/images/sports.gif" onmouseover="clearAllTimers();document.getElementById('topNav1').style.zIndex='3000';document.navSports.src='http://GNC.imageg.net/images/sports_on.gif';toggleMenuVisibility('topNav1','topNav0','topNav2','topNav3','topNav4','topNav5');" onmouseout="timer2=setTimeout(&quot;startTimer2()&quot;,2000);document.getElementById(&quot;topNav1&quot;).style.zIndex=&quot;1&quot;;" id="navSports" name="navSports" height="20" width="125" border="0"></a></td>
-		<td width="1">
-			<img src="http://GNC.imageg.net/images/pixel.gif" height="1" width="1"></td>
-		<td>
-			<a href="/shop/index.jsp?categoryId=2167100"><img src="http://GNC.imageg.net/images/weight.gif" height="20" width="125" border="0" onmouseover="clearAllTimers();document.getElementById('topNav2').style.zIndex='3000';document.navWeight.src='http://GNC.imageg.net/images/weight_on.gif';toggleMenuVisibility('topNav2','topNav0','topNav1','topNav3','topNav4','topNav5');" onmouseout="timer3=setTimeout(&quot;startTimer3()&quot;,2000);document.getElementById(&quot;topNav2&quot;).style.zIndex=&quot;1&quot;;" id="navWeight" name="navWeight"></a></td>
-		<td width="1">
-			<img src="http://GNC.imageg.net/images/pixel.gif" height="1" width="1"></td>
-		<td>
-			<a href="/shop/index.jsp?categoryId=2167112"><img src="http://GNC.imageg.net/images/herbs.gif" height="20" width="126" border="0" onmouseover="clearAllTimers();document.getElementById('topNav3').style.zIndex='3000';document.navHerbs.src='http://GNC.imageg.net/images/herbs_on.gif';toggleMenuVisibility('topNav3','topNav0','topNav1','topNav2','topNav4','topNav5');" onmouseout="timer4=setTimeout(&quot;startTimer4()&quot;,2000);document.getElementById(&quot;topNav3&quot;).style.zIndex=&quot;1&quot;;" id="navHerbs" name="navHerbs"></a></td>
-		<td width="1">
-			<img src="http://GNC.imageg.net/images/pixel.gif" height="1" width="1"></td>
-		<td>
-			<a href="/shop/index.jsp?categoryId=2167369"><img src="http://GNC.imageg.net/images/health.gif" height="20" width="126" border="0" onmouseover="clearAllTimers();document.getElementById('topNav4').style.zIndex='3000';document.navHealth.src='http://GNC.imageg.net/images/health_on.gif';toggleMenuVisibility('topNav4','topNav0','topNav1','topNav2','topNav3','topNav5');" onmouseout="timer5=setTimeout(&quot;startTimer5()&quot;,2000);document.getElementById(&quot;topNav4&quot;).style.zIndex=&quot;1&quot;;" id="navHealth" name="navHealth"></a></td>
-		<td width="1">
-			<img src="http://GNC.imageg.net/images/pixel.gif" height="1" width="1"></td>
-		<td>
-			<a href="/shop/index.jsp?categoryId=2504408"><img src="http://GNC.imageg.net/images/giftcenter.gif" height="20" width="125" border="0" onmouseover="clearAllTimers();document.getElementById('topNav5').style.zIndex='3000';document.navHealth_conditions.src='http://GNC.imageg.net/images/giftcenter_on.gif';toggleMenuVisibility('topNav5','topNav0','topNav1','topNav2','topNav3','topNav4');" onmouseout="timer6=setTimeout(&quot;startTimer6()&quot;,2000);document.getElementById(&quot;topNav5&quot;).style.zIndex=&quot;1&quot;;" id="navHealth_conditions" name="navHealth_conditions"></a></td>
-	</tr>
-	</tbody></table> 
-	<!-- end nav --></td>
-</tr>
-</tbody></table>
-<table cellpadding="0" cellspacing="0" border="0" align="center" width="794">
-<tbody><tr>
-	<td width="5" style="background-image: url(http://GNC.imageg.net/images/left.gif); background-repeat: repeat-y;"><img src="http://GNC.imageg.net/images/pixel.gif" height="1" width="5"></td>
-	<td width="780">
-
-<div id="topNav0" onmouseover="clearTimeout(timer1);" onmouseout="timer1=setTimeout(&quot;startTimer1()&quot;,2000);" style="display: none; position: absolute; top: 112px; margin-left: auto; margin-right: auto; text-align: center; width: 781px; left: 291px;">
-<table cellpadding="0" cellspacing="0" border="0" width="781">
-<tbody><tr>
-	<td colspan="3" height="11"><img src="http://GNC.imageg.net/images/bar_0.gif" height="11" width="780"></td>
-</tr>
-<tr> 
-	<td width="11"><img src="http://GNC.imageg.net/images/pixel.gif" height="1" width="11"></td>
-	<td><a href="/family/index.jsp?categoryId=2325071&amp;cp=2167069" style="color:#ffffff;font-weight:bold;text-decoration:none;">Best Sellers</a> <span style="font-weight:normal;color:#fff;">|</span> <a href="/shop/index.jsp?categoryId=2522443&amp;cp=2167069" style="color:#ffffff;font-weight:bold;text-decoration:none;">Multivitamins</a> <span style="font-weight:normal;color:#fff;">|</span> <a href="/category/index.jsp?categoryId=2108494&amp;cp=2167069" style="color:#ffffff;font-weight:bold;text-decoration:none;">Vitamins A-Z</a> <span style="font-weight:normal;color:#fff;">|</span> <a href="/category/index.jsp?categoryId=2108498&amp;cp=2167069" style="color:#ffffff;font-weight:bold;text-decoration:none;">Specialty Supplements</a> <span style="font-weight:normal;color:#fff;">|</span> <a href="/category/index.jsp?categoryId=2108496&amp;cp=2167069" style="color:#ffffff;font-weight:bold;text-decoration:none;">Antioxidants</a> <span style="font-weight:normal;color:#fff;">|</span> <a href="/shop/index.jsp?categoryId=2167069" style="color:#ffffff;font-weight:bold;text-decoration:none;">More</a></td>
-	<td width="11"><img src="http://GNC.imageg.net/images/pixel.gif" height="1" width="11"></td>
-</tr>
-<tr>
-	<td colspan="3" height="5"><img src="http://GNC.imageg.net/images/pixel.gif" height="5" width="1"></td>
-</tr>
-</tbody></table>
-</div>
+	<td height="20" align="center" style="background-color:#fff;">
+		<!-- start nav -->
+<!-- style overrides on landing pages -->
+<style type="text/css">
 
 
-<div id="topNav1" onmouseover="clearTimeout(timer2);" onmouseout="timer2=setTimeout(&quot;startTimer2()&quot;,2000);" style="display: none; position: absolute; top: 112px; margin-left: auto; margin-right: auto; text-align: center; width: 781px; left: 291px;">
-<table cellpadding="0" cellspacing="0" border="0" width="781">
-<tbody><tr>
-	<td colspan="3" height="11"><img src="http://GNC.imageg.net/images/bar_1.gif" height="11" width="780"></td>
-</tr>
-<tr> 
-	<td width="11"><img src="http://GNC.imageg.net/images/pixel.gif" height="1" width="11"></td>
-	<td><a href="/family/index.jsp?categoryId=2325087&amp;cp=2167077" style="color:#ffffff;font-weight:bold;text-decoration:none;">Best Sellers</a> <span style="font-weight:normal;color:#fff;">|</span> <a href="/shop/index.jsp?categoryId=2522433&amp;cp=2167077" style="color:#ffffff;font-weight:bold;text-decoration:none;">Pro Performance®</a> <span style="font-weight:normal;color:#fff;">|</span> <a href="/family/index.jsp?categoryId=2276135&amp;cp=2167077" style="color:#ffffff;font-weight:bold;text-decoration:none;">MUSCLETECH®</a> <span style="font-weight:normal;color:#fff;">|</span> <a href="/family/index.jsp?categoryId=2276157&amp;cp=2167077" style="color:#ffffff;font-weight:bold;text-decoration:none;">BSN</a> <span style="font-weight:normal;color:#fff;">|</span> <a href="/family/index.jsp?categoryId=2363627&amp;cp=2167077" style="color:#ffffff;font-weight:bold;text-decoration:none;">NO2® &amp; CE2™</a> <span style="font-weight:normal;color:#fff;">|</span> <a href="/shop/index.jsp?categoryId=2167077" style="color:#ffffff;font-weight:bold;text-decoration:none;">More</a></td>
-	<td width="11"><img src="http://GNC.imageg.net/images/pixel.gif" height="1" width="11"></td>
-</tr>
-<tr>
-	<td colspan="3" height="5"><img src="http://GNC.imageg.net/images/pixel.gif" height="5" width="1"></td>
-</tr>
-</tbody></table>
-</div>
 
 
-<div id="topNav2" onmouseover="clearTimeout(timer3);" onmouseout="timer3=setTimeout(&quot;startTimer3()&quot;,2000);" style="display: none; position: absolute; top: 112px; margin-left: auto; margin-right: auto; text-align: center; width: 781px; left: 291px;">
-<table cellpadding="0" cellspacing="0" border="0" width="781">
-<tbody><tr>
-	<td colspan="3" height="11"><img src="http://GNC.imageg.net/images/bar_2.gif" height="11" width="780"></td>
-</tr>
-<tr> 
-	<td width="11"><img src="http://GNC.imageg.net/images/pixel.gif" height="1" width="11"></td>
-	<td><a href="/family/index.jsp?categoryId=2325114&amp;cp=2167100" style="color:#ffffff;font-weight:bold;text-decoration:none;">Best Sellers</a> <span style="font-weight:normal;color:#fff;">|</span> <a href="/family/index.jsp?categoryId=2173983&amp;cp=2167100" style="color:#ffffff;font-weight:bold;text-decoration:none;">Diet Support Formulas</a> <span style="font-weight:normal;color:#fff;">|</span> <a href="/family/index.jsp?categoryId=2173984&amp;cp=2167100" style="color:#ffffff;font-weight:bold;text-decoration:none;">Thermogenics</a> <span style="font-weight:normal;color:#fff;">|</span> <a href="/family/index.jsp?categoryId=2108253&amp;cp=2167100" style="color:#ffffff;font-weight:bold;text-decoration:none;">Meal Replacements</a> <span style="font-weight:normal;color:#fff;">|</span> <a href="/family/index.jsp?categoryId=2108311&amp;cp=2167100" style="color:#ffffff;font-weight:bold;text-decoration:none;">Energy Formulas</a> </td>
-	<td width="11"><img src="http://GNC.imageg.net/images/pixel.gif" height="1" width="11"></td>
-</tr>
-<tr>
-	<td colspan="3" height="5"><img src="http://GNC.imageg.net/images/pixel.gif" height="5" width="1"></td>
-</tr>
-</tbody></table>
-</div>
 
 
-<div id="topNav3" onmouseover="clearTimeout(timer4);" onmouseout="timer4=setTimeout(&quot;startTimer4()&quot;,2000);" style="display: none; position: absolute; top: 112px; margin-left: auto; margin-right: auto; text-align: center; width: 781px; left: 291px;">
-<table cellpadding="0" cellspacing="0" border="0" width="781">
-<tbody><tr>
-	<td colspan="3" height="11"><img src="http://GNC.imageg.net/images/bar_3.gif" height="11" width="780"></td>
-</tr>
-<tr> 
-	<td width="11"><img src="http://GNC.imageg.net/images/pixel.gif" height="1" width="11"></td>
-	<td><a href="/family/index.jsp?categoryId=2325173&amp;cp=2167112" style="color:#ffffff;font-weight:bold;text-decoration:none;">Best Sellers</a> <span style="font-weight:normal;color:#fff;">|</span> <a href="/category/index.jsp?categoryId=2259787&amp;cp=2167112" style="color:#ffffff;font-weight:bold;text-decoration:none;">Herbs A-Z</a> <span style="font-weight:normal;color:#fff;">|</span> <a href="/category/index.jsp?categoryId=2109067&amp;cp=2167112" style="color:#ffffff;font-weight:bold;text-decoration:none;">Super Foods</a> <span style="font-weight:normal;color:#fff;">|</span> <a href="/category/index.jsp?categoryId=2109066&amp;cp=2167112" style="color:#ffffff;font-weight:bold;text-decoration:none;">Digestion</a> <span style="font-weight:normal;color:#fff;">|</span> <a href="/category/index.jsp?categoryId=2109070&amp;cp=2167112" style="color:#ffffff;font-weight:bold;text-decoration:none;">Natural Remedies</a> <span style="font-weight:normal;color:#fff;">|</span> <a href="/shop/index.jsp?categoryId=2167112" style="color:#ffffff;font-weight:bold;text-decoration:none;">More</a></td>
-	<td width="11"><img src="http://GNC.imageg.net/images/pixel.gif" height="1" width="11"></td>
-</tr>
-<tr>
-	<td colspan="3" height="5"><img src="http://GNC.imageg.net/images/pixel.gif" height="5" width="1"></td>
-</tr>
-</tbody></table>
-</div>
 
 
-<div id="topNav4" onmouseover="clearTimeout(timer5);" onmouseout="timer5=setTimeout(&quot;startTimer5()&quot;,2000);" style="display: none; position: absolute; top: 112px; margin-left: auto; margin-right: auto; text-align: center; width: 781px; left: 291px;">
-<table cellpadding="0" cellspacing="0" border="0" width="781">
-<tbody><tr>
-	<td colspan="3" height="11"><img src="http://GNC.imageg.net/images/bar_4.gif" height="11" width="780"></td>
-</tr>
-<tr> 
-	<td width="11"><img src="http://GNC.imageg.net/images/pixel.gif" height="1" width="11"></td>
-	<td><a href="/category/index.jsp?categoryId=2109115&amp;cp=2167369" style="color:#ffffff;font-weight:bold;text-decoration:none;">Face</a> <span style="font-weight:normal;color:#fff;">|</span> <a href="/category/index.jsp?categoryId=2109117&amp;cp=2167369" style="color:#ffffff;font-weight:bold;text-decoration:none;">Body</a> <span style="font-weight:normal;color:#fff;">|</span> <a href="/category/index.jsp?categoryId=2109118&amp;cp=2167369" style="color:#ffffff;font-weight:bold;text-decoration:none;">Bath</a> <span style="font-weight:normal;color:#fff;">|</span> <a href="/category/index.jsp?categoryId=2109116&amp;cp=2167369" style="color:#ffffff;font-weight:bold;text-decoration:none;">Hair</a> <span style="font-weight:normal;color:#fff;">|</span> <a href="/family/index.jsp?categoryId=2259764&amp;cp=2167369" style="color:#ffffff;font-weight:bold;text-decoration:none;">Complete Beauty Kits</a> <span style="font-weight:normal;color:#fff;">|</span> <a href="/shop/index.jsp?categoryId=2167369" style="color:#ffffff;font-weight:bold;text-decoration:none;">More</a></td>
-	<td width="11"><img src="http://GNC.imageg.net/images/pixel.gif" height="1" width="11"></td>
-</tr>
-<tr>
-	<td colspan="3" height="5"><img src="http://GNC.imageg.net/images/pixel.gif" height="5" width="1"></td>
-</tr>
-</tbody></table>
-</div>
 
 
-<div id="topNav5" onmouseover="clearTimeout(timer6);" onmouseout="timer6=setTimeout(&quot;startTimer6()&quot;,2000);" style="display: none; position: absolute; top: 112px; margin-left: auto; margin-right: auto; text-align: center; width: 781px; left: 291px;">
-<table cellpadding="0" cellspacing="0" border="0" width="781">
-<tbody><tr>
-	<td colspan="3" height="11"><img src="http://GNC.imageg.net/images/bar_5.gif" height="11" width="780"></td>
-</tr>
-<tr> 
-	<td width="11"><img src="http://GNC.imageg.net/images/pixel.gif" height="1" width="11"></td>
-	<td><a href="/family/index.jsp?categoryId=2504409&amp;cp=2504408" style="color:#ffffff;font-weight:bold;text-decoration:none;">Gifts of Relaxation</a> <span style="font-weight:normal;color:#fff;">|</span> <a href="/family/index.jsp?categoryId=2504410&amp;cp=2504408" style="color:#ffffff;font-weight:bold;text-decoration:none;">Gifts of Fitness</a> <span style="font-weight:normal;color:#fff;">|</span> <a href="/family/index.jsp?categoryId=2504413&amp;cp=2504408" style="color:#ffffff;font-weight:bold;text-decoration:none;">Gifts of Beauty</a> <span style="font-weight:normal;color:#fff;">|</span> <a href="/family/index.jsp?categoryId=2504411&amp;cp=2504408" style="color:#ffffff;font-weight:bold;text-decoration:none;">Healthy Kitchen</a> <span style="font-weight:normal;color:#fff;">|</span> <a href="/family/index.jsp?categoryId=2537432&amp;cp=2504408" style="color:#ffffff;font-weight:bold;text-decoration:none;">For Her</a> <span style="font-weight:normal;color:#fff;">|</span> <a href="/shop/index.jsp?categoryId=2504408" style="color:#ffffff;font-weight:bold;text-decoration:none;">More</a></td>
-	<td width="11"><img src="http://GNC.imageg.net/images/pixel.gif" height="1" width="11"></td>
-</tr>
-<tr>
-	<td colspan="3" height="5"><img src="http://GNC.imageg.net/images/pixel.gif" height="5" width="1"></td>
-</tr>
-</tbody></table>
-</div>
-</td>
-	<td width="9" style="background-image: url(http://GNC.imageg.net/images/right.gif); background-repeat: repeat-y;"><img src="http://GNC.imageg.net/images/pixel.gif" height="1" width="9"></td>
+
+
+</style>
+
+		<div class="mainNav">
+			<ul hotness="{actions:[{Wizzle:'dropNav'}]}">
+
+				<li id="mainNav1"><a href="/shop/index.jsp?categoryId=2167069&amp;clickid=topnav_img_1"></a>
+					<ul>
+	<li id="doublewide" class="doublewide">
+		<div id="drop1col1" class="col1" style="height: 0px;">
+			<ul>
+				<li class="first"></li>
+				<li><a href="/family/index.jsp?categoryId=2325071&amp;cp=2167069" title="Vitamins &amp; Minerals - Best Sellers" class="leftnavlink">Best Sellers</a></li>
+				<li><a href="/shop/index.jsp?categoryId=2713498&amp;cp=2167069" title="Vitamins &amp; Minerals - Healthy Aging" class="leftnavlink">Healthy Aging</a></li>
+				<li><a href="/shop/index.jsp?categoryId=2522443&amp;cp=2167069" title="Vitamins &amp; Minerals - Multivitamins" class="leftnavlink">Multivitamins</a></li>
+				<li><a href="/shop/index.jsp?categoryId=2626023&amp;cp=2167069" title="Vitamins &amp; Minerals - Vitamins A-Z" class="leftnavlink">Vitamins A-Z</a></li>
+				<li><a href="/shop/index.jsp?categoryId=2562356&amp;cp=2167069" title="Vitamins &amp; Minerals - Men's Health" class="leftnavlink">Men's Health</a></li>
+				<li><a href="/shop/index.jsp?categoryId=2618597&amp;cp=2167069" title="Vitamins &amp; Minerals - Women's Health" class="leftnavlink">Women's Health</a></li>
+				<li><a href="/category/index.jsp?categoryId=2146535&amp;cp=2167069" title="Vitamins &amp; Minerals - Vitality" class="leftnavlink">Vitality</a></li>
+				<li><a href="/shop/index.jsp?categoryId=2626017&amp;cp=2167069" title="Vitamins &amp; Minerals - Fish Oil, Flax &amp; EFAs" class="leftnavlink">Fish Oil, Flax &amp; EFAs</a></li>
+				<li><a href="/shop/index.jsp?categoryId=2563255&amp;cp=2167069" title="Vitamins &amp; Minerals - Antioxidants" class="leftnavlink">Antioxidants</a></li>
+				<li><a href="/shop/index.jsp?categoryId=2626025&amp;cp=2167069" title="Vitamins &amp; Minerals - Joint Support" class="leftnavlink">Joint Support</a></li>
+				<li><a href="/category/index.jsp?categoryId=2108077&amp;cp=2167069" title="Vitamins &amp; Minerals - Heart Health" class="leftnavlink">Heart Health</a></li>
+				<li><a href="/shop/index.jsp?categoryId=2618598&amp;cp=2167069" title="Vitamins &amp; Minerals - Digestion" class="leftnavlink">Digestion</a></li>
+				<li><a href="/category/index.jsp?categoryId=2462805&amp;cp=2167069" title="Vitamins &amp; Minerals - Amino Acids" class="leftnavlink">Amino Acids</a></li>
+				<li><a href="/family/index.jsp?categoryId=2671057&amp;cp=2167069" title="Vitamins &amp; Minerals - Calcium" class="leftnavlink">Calcium</a></li>
+				<li><a href="/category/index.jsp?categoryId=2108499&amp;cp=2167069" title="Vitamins &amp; Minerals - Minerals" class="leftnavlink">Minerals</a></li>
+				<li class="last"></li>
+			</ul>
+		</div>
+		<div id="drop1col2" class="col2" style="height: 0px;">
+			<ul>
+				<li class="first"></li>
+				<li><a href="/family/index.jsp?categoryId=2108456&amp;cp=2167069" title="Vitamins &amp; Minerals - Lecithin" class="leftnavlink">Lecithin</a></li>
+				<li><a href="/category/index.jsp?categoryId=2108498&amp;cp=2167069" title="Vitamins &amp; Minerals - Specialty Supplements" class="leftnavlink">Specialty Supplements</a></li>
+				<li><a href="/category/index.jsp?categoryId=2108080&amp;cp=2167069" title="Vitamins &amp; Minerals - Well-Being" class="leftnavlink">Well-Being</a></li>
+				<li><a href="/category/index.jsp?categoryId=2179083&amp;cp=2167069" title="Vitamins &amp; Minerals - Accessories" class="leftnavlink">Accessories</a></li>
+				<li><a href="/category/index.jsp?categoryId=2272238&amp;cp=2167069" title="Vitamins &amp; Minerals - BOGO 50% Off Sale" class="leftnavlink">BOGO 50% Off Sale</a></li>
+				<li class="last"></li>
+			</ul>
+		</div>
+<script type="text/javascript">getHeightTop("drop1col1,drop1col2");</script>	</li>
+</ul>
+
+				</li>
+
+				<li id="mainNav2"><a href="/shop/index.jsp?categoryId=2167077&amp;clickid=topnav_img_2"></a>
+					<ul>
+<li class="first"></li>
+	<li><a href="/family/index.jsp?categoryId=2325087&amp;cp=2167077" title="Sports Nutrition - Best Sellers" class="leftnavlink">Best Sellers</a></li>
+	<li><a href="/shop/index.jsp?categoryId=2522433&amp;cp=2167077" title="Sports Nutrition - Pro Performance®" class="leftnavlink">Pro Performance®</a></li>
+	<li><a href="/shop/index.jsp?categoryId=2551210&amp;cp=2167077" title="Sports Nutrition - MuscleTech®" class="leftnavlink">MuscleTech®</a></li>
+	<li><a href="/family/index.jsp?categoryId=2276157&amp;cp=2167077" title="Sports Nutrition - BSN" class="leftnavlink">BSN</a></li>
+	<li><a href="/family/index.jsp?categoryId=2363627&amp;cp=2167077" title="Sports Nutrition - MRI™" class="leftnavlink">MRI™</a></li>
+	<li><a href="/shop/index.jsp?categoryId=2475610&amp;cp=2167077" title="Sports Nutrition - Muscle Milk®" class="leftnavlink">Muscle Milk®</a></li>
+	<li><a href="/category/index.jsp?categoryId=2712284&amp;cp=2167077" title="Sports Nutrition - Shop For All Brands" class="leftnavlink">Shop For All Brands</a></li>
+	<li><a href="/shop/index.jsp?categoryId=2665513&amp;cp=2167077" title="Sports Nutrition - Protein" class="leftnavlink">Protein</a></li>
+	<li><a href="/category/index.jsp?categoryId=2108320&amp;cp=2167077" title="Sports Nutrition - Creatine" class="leftnavlink">Creatine</a></li>
+	<li><a href="/category/index.jsp?categoryId=2501630&amp;cp=2167077" title="Sports Nutrition - Bars &amp; Drinks" class="leftnavlink">Bars &amp; Drinks</a></li>
+	<li><a href="/family/index.jsp?categoryId=2109099&amp;cp=2167077" title="Sports Nutrition - Apparel" class="leftnavlink">Apparel</a></li>
+	<li><a href="/category/index.jsp?categoryId=2474584&amp;cp=2167077" title="Sports Nutrition - Shop For All Categories" class="leftnavlink">Shop For All Categories</a></li>
+	<li><a href="/family/index.jsp?categoryId=2766222&amp;cp=2167077" title="Sports Nutrition - Scientifically Researched Products" class="leftnavlink">Scientifically Researched Products</a></li>
+	<li><a href="/family/index.jsp?categoryId=2522418&amp;cp=2167077" title="Sports Nutrition - Suitable for Collegiate Athletes" class="leftnavlink">Suitable for Collegiate Athletes</a></li>
+	<li><a href="/category/index.jsp?categoryId=2179083&amp;cp=2167077" title="Sports Nutrition - Accessories" class="leftnavlink">Accessories</a></li>
+<li class="last"></li>
+</ul>
+
+				</li>
+
+				<li id="mainNav3"><a href="/shop/index.jsp?categoryId=2167100&amp;clickid=topnav_img_3"></a>
+					<ul>
+<li class="first"></li>
+	<li><a href="/family/index.jsp?categoryId=2325114&amp;cp=2167100" title="Diet &amp; Energy - Best Sellers" class="leftnavlink">Best Sellers</a></li>
+	<li><a href="/family/index.jsp?categoryId=2721839&amp;cp=2167100" title="Diet &amp; Energy - alli™" class="leftnavlink">alli™</a></li>
+	<li><a href="/family/index.jsp?categoryId=2173983&amp;cp=2167100" title="Diet &amp; Energy - Diet Support Formulas" class="leftnavlink">Diet Support Formulas</a></li>
+	<li><a href="/family/index.jsp?categoryId=2173984&amp;cp=2167100" title="Diet &amp; Energy - Thermogenics" class="leftnavlink">Thermogenics</a></li>
+	<li><a href="/family/index.jsp?categoryId=2108253&amp;cp=2167100" title="Diet &amp; Energy - Meal Replacements" class="leftnavlink">Meal Replacements</a></li>
+	<li><a href="/category/index.jsp?categoryId=2501630&amp;cp=2167100" title="Diet &amp; Energy - Bars &amp; Drinks" class="leftnavlink">Bars &amp; Drinks</a></li>
+	<li><a href="/family/index.jsp?categoryId=2571501&amp;cp=2167100" title="Diet &amp; Energy - Energy Formulas" class="leftnavlink">Energy Formulas</a></li>
+	<li><a href="/family/index.jsp?categoryId=2108325&amp;cp=2167100" title="Diet &amp; Energy - Endurance Athlete" class="leftnavlink">Endurance Athlete</a></li>
+	<li><a href="/family/index.jsp?categoryId=2594012&amp;cp=2167100" title="Diet &amp; Energy - Products Designed For Women" class="leftnavlink">Products Designed For Women</a></li>
+	<li><a href="/family/index.jsp?categoryId=2171552&amp;cp=2167100" title="Diet &amp; Energy - GNC Weight Management" class="leftnavlink">GNC Weight Management</a></li>
+	<li><a href="/family/index.jsp?categoryId=2291610&amp;cp=2167100" title="Diet &amp; Energy - Hydroxycut®" class="leftnavlink">Hydroxycut®</a></li>
+	<li><a href="/family/index.jsp?categoryId=2212581&amp;cp=2167100" title="Diet &amp; Energy - Hoodia" class="leftnavlink">Hoodia</a></li>
+	<li><a href="/category/index.jsp?categoryId=2179083&amp;cp=2167100" title="Diet &amp; Energy - Accessories" class="leftnavlink">Accessories</a></li>
+<li class="last"></li>
+</ul>
+
+				</li>
+
+				<li id="mainNav4"><a href="/shop/index.jsp?categoryId=2167112&amp;clickid=topnav_img_4"></a>
+					<ul>
+<li class="first"></li>
+	<li><a href="/family/index.jsp?categoryId=2325173&amp;cp=2167112" title="Herbal Supplements - Best Sellers" class="leftnavlink">Best Sellers</a></li>
+	<li><a href="/shop/index.jsp?categoryId=2626024&amp;cp=2167112" title="Herbal Supplements - Herbs A-Z" class="leftnavlink">Herbs A-Z</a></li>
+	<li><a href="/category/index.jsp?categoryId=2109067&amp;cp=2167112" title="Herbal Supplements - Super Foods" class="leftnavlink">Super Foods</a></li>
+	<li><a href="/shop/index.jsp?categoryId=2618598&amp;cp=2167112" title="Herbal Supplements - Digestion" class="leftnavlink">Digestion</a></li>
+	<li><a href="/category/index.jsp?categoryId=2109070&amp;cp=2167112" title="Herbal Supplements - Natural Remedies" class="leftnavlink">Natural Remedies</a></li>
+	<li><a href="/family/index.jsp?categoryId=2293676&amp;cp=2167112" title="Herbal Supplements - Natural Cleansing &amp; Detox" class="leftnavlink">Natural Cleansing &amp; Detox</a></li>
+	<li><a href="/family/index.jsp?categoryId=2109055&amp;cp=2167112" title="Herbal Supplements - Condition-Specific Formulas" class="leftnavlink">Condition-Specific Formulas</a></li>
+	<li><a href="/family/index.jsp?categoryId=2173957&amp;cp=2167112" title="Herbal Supplements - Soy" class="leftnavlink">Soy</a></li>
+	<li><a href="/shop/index.jsp?categoryId=2626017&amp;cp=2167112" title="Herbal Supplements - Fish Oil, Flax &amp; EFAs" class="leftnavlink">Fish Oil, Flax &amp; EFAs</a></li>
+	<li><a href="/shop/index.jsp?categoryId=2563255&amp;cp=2167112" title="Herbal Supplements - Antioxidants" class="leftnavlink">Antioxidants</a></li>
+	<li><a href="/category/index.jsp?categoryId=2146534&amp;cp=2167112" title="Herbal Supplements - Seasonal Support" class="leftnavlink">Seasonal Support</a></li>
+	<li><a href="/category/index.jsp?categoryId=2109069&amp;cp=2167112" title="Herbal Supplements - Teas" class="leftnavlink">Teas</a></li>
+	<li><a href="/category/index.jsp?categoryId=2179083&amp;cp=2167112" title="Herbal Supplements - Accessories" class="leftnavlink">Accessories</a></li>
+	<li><a href="/category/index.jsp?categoryId=2272238&amp;cp=2167112" title="Herbal Supplements - BOGO 50% Off Sale" class="leftnavlink">BOGO 50% Off Sale</a></li>
+<li class="last"></li>
+</ul>
+
+				</li>
+
+				<li id="mainNav5"><a href="/shop/index.jsp?categoryId=2167369&amp;clickid=topnav_img_5"></a>
+					<ul>
+<li class="first"></li>
+	<li><a href="/category/index.jsp?categoryId=2109115&amp;cp=2167369" title="Health &amp; Beauty - Face" class="leftnavlink">Face</a></li>
+	<li><a href="/category/index.jsp?categoryId=2109117&amp;cp=2167369" title="Health &amp; Beauty - Body" class="leftnavlink">Body</a></li>
+	<li><a href="/category/index.jsp?categoryId=2109118&amp;cp=2167369" title="Health &amp; Beauty - Bath" class="leftnavlink">Bath</a></li>
+	<li><a href="/category/index.jsp?categoryId=2109116&amp;cp=2167369" title="Health &amp; Beauty - Hair" class="leftnavlink">Hair</a></li>
+	<li><a href="/family/index.jsp?categoryId=2259764&amp;cp=2167369" title="Health &amp; Beauty - Complete Beauty Kits" class="leftnavlink">Complete Beauty Kits</a></li>
+	<li><a href="/category/index.jsp?categoryId=2591523&amp;cp=2167369" title="Health &amp; Beauty - Personal Care" class="leftnavlink">Personal Care</a></li>
+	<li><a href="/family/index.jsp?categoryId=2166461&amp;cp=2167369" title="Health &amp; Beauty - Cosmeceuticals" class="leftnavlink">Cosmeceuticals</a></li>
+	<li><a href="/family/index.jsp?categoryId=2146523&amp;cp=2167369" title="Health &amp; Beauty - Oral Care" class="leftnavlink">Oral Care</a></li>
+	<li><a href="/family/index.jsp?categoryId=2109097&amp;cp=2167369" title="Health &amp; Beauty - Ear Care" class="leftnavlink">Ear Care</a></li>
+	<li><a href="/category/index.jsp?categoryId=2109119&amp;cp=2167369" title="Health &amp; Beauty - Relaxation" class="leftnavlink">Relaxation</a></li>
+	<li><a href="/category/index.jsp?categoryId=2622782&amp;cp=2167369" title="Health &amp; Beauty - Aromatherapy" class="leftnavlink">Aromatherapy</a></li>
+	<li><a href="/family/index.jsp?categoryId=2420533&amp;cp=2167369" title="Health &amp; Beauty - Supplements" class="leftnavlink">Supplements</a></li>
+	<li><a href="/category/index.jsp?categoryId=2179083&amp;cp=2167369" title="Health &amp; Beauty - Accessories" class="leftnavlink">Accessories</a></li>
+	<li><a href="/family/index.jsp?categoryId=2615903&amp;cp=2167369" title="Health &amp; Beauty - Clearance" class="leftnavlink">Clearance</a></li>
+<li class="last"></li>
+</ul>
+
+				</li>
+
+				<li id="mainNav6"><a href="/shop/index.jsp?categoryId=2566600&amp;clickid=topnav_img_6"></a>
+					<ul>
+	<li id="doublewide" class="doublewide">
+		<div id="drop6col1" class="col1" style="height: 0px;">
+			<ul>
+				<li class="first"></li>
+				<li><a href="/family/index.jsp?categoryId=2591594&amp;cp=2566600" title="Home &amp; Fitness - Home Gym Equipment" class="leftnavlink">Home Gym Equipment</a></li>
+				<li><a href="/family/index.jsp?categoryId=2591593&amp;cp=2566600" title="Home &amp; Fitness - Weight Training" class="leftnavlink">Weight Training</a></li>
+				<li><a href="/family/index.jsp?categoryId=2596365&amp;cp=2566600" title="Home &amp; Fitness - Cardio Equipment" class="leftnavlink">Cardio Equipment</a></li>
+				<li><a href="/category/index.jsp?categoryId=2592277&amp;cp=2566600" title="Home &amp; Fitness - Pilates &amp; Yoga" class="leftnavlink">Pilates &amp; Yoga</a></li>
+				<li><a href="/category/index.jsp?categoryId=2591595&amp;cp=2566600" title="Home &amp; Fitness - Toning Tools" class="leftnavlink">Toning Tools</a></li>
+				<li><a href="/family/index.jsp?categoryId=2592278&amp;cp=2566600" title="Home &amp; Fitness - Workout Kits" class="leftnavlink">Workout Kits</a></li>
+				<li><a href="/family/index.jsp?categoryId=2596367&amp;cp=2566600" title="Home &amp; Fitness - As Seen On TV" class="leftnavlink">As Seen On TV</a></li>
+				<li><a href="/family/index.jsp?categoryId=2596368&amp;cp=2566600" title="Home &amp; Fitness - REEBOK" class="leftnavlink">REEBOK</a></li>
+				<li><a href="/category/index.jsp?categoryId=2765465&amp;cp=2566600" title="Home &amp; Fitness - Fitness Accessories" class="leftnavlink">Fitness Accessories</a></li>
+				<li><a href="/category/index.jsp?categoryId=2666777&amp;cp=2566600" title="Home &amp; Fitness - Kitchen" class="leftnavlink">Kitchen</a></li>
+				<li><a href="/family/index.jsp?categoryId=2765949&amp;cp=2566600" title="Home &amp; Fitness - Bath" class="leftnavlink">Bath</a></li>
+				<li><a href="/category/index.jsp?categoryId=2622782&amp;cp=2566600" title="Home &amp; Fitness - Aromatherapy" class="leftnavlink">Aromatherapy</a></li>
+				<li><a href="/category/index.jsp?categoryId=2109119&amp;cp=2566600" title="Home &amp; Fitness - Relaxation" class="leftnavlink">Relaxation</a></li>
+				<li><a href="/category/index.jsp?categoryId=2662738&amp;cp=2566600" title="Home &amp; Fitness - Books, CDs &amp; DVDs" class="leftnavlink">Books, CDs &amp; DVDs</a></li>
+				<li><a href="/category/index.jsp?categoryId=2591523&amp;cp=2566600" title="Home &amp; Fitness - Personal Care" class="leftnavlink">Personal Care</a></li>
+				<li class="last"></li>
+			</ul>
+		</div>
+		<div id="drop6col2" class="col2" style="height: 0px;">
+			<ul>
+				<li class="first"></li>
+				<li><a href="/family/index.jsp?categoryId=2146489&amp;cp=2566600" title="Home &amp; Fitness - Health Monitors" class="leftnavlink">Health Monitors</a></li>
+				<li><a href="/family/index.jsp?categoryId=2765921&amp;cp=2566600" title="Home &amp; Fitness - Clearance" class="leftnavlink">Clearance</a></li>
+				<li class="last"></li>
+			</ul>
+		</div>
+<script type="text/javascript">getHeightTop("drop6col1,drop6col2");</script>	</li>
+</ul>
+
+				</li>
+
+			</ul>
+		</div>
+				
+		<!-- end nav -->
+	</td>
 </tr>
 </tbody></table>
 
@@ -495,7 +485,7 @@ var setTimer = setTimeout(whatTimer,2000);
 <table cellpadding="0" cellspacing="0" border="0" align="center" width="794" bgcolor="#FFFFFF">
 <tbody><tr>
 	<td width="5" style="background-image: url(http://GNC.imageg.net/images/left.gif); background-repeat: repeat-y;"><img src="http://GNC.imageg.net/images/pixel.gif" height="1" width="5"></td>
-	<td valign="top"><br><br>
+	<td valign="top">
 		<a name="pageTop()"><!-- --></a>
 		<table border="0" bgcolor="#ffffff" width="768" cellpadding="0" cellspacing="0" align="center">
 			<tbody><tr>
@@ -636,6 +626,7 @@ var setTimer = setTimeout(whatTimer,2000);
 				<tr>
 					<td>
 						<!-- panel -->
+				
 						<!--here is panelId::2144770-->
 <!--here is pd::null-->
 <!--STOREMAN GENERATION - 1 panel(s) found for slot: HelpSlot entryId: 2144770 with pd:null-->
@@ -801,13 +792,41 @@ Tracer Tags: Our Sites may also use a technology called "tracer tags". These may
 	</tr>
 	</tbody></table>
 	<div class="footerlink" align="center" style="margin-top:14px;">
-	©1997-2006&nbsp;&nbsp;General Nutrition Centers, Inc.
+	©1997-2007&nbsp;&nbsp;General Nutrition Centers, Inc.
 	</div>
 	<div align="right" style="margin-top:-18px;"><a target="_blank" href="http://www.scanalert.com/RatingVerify?ref=www.gnc.com"><img width="65" height="38" border="0" src="https://images.scanalert.com/meter/www.gnc.com/31.gif" align="absmiddle" alt="HACKER SAFE certified sites prevent over 99% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE  is a Trademark of ScanAlert'); return false;"></a></div>
 	</td>
 </tr>
 </tbody></table>
 <br>
+
+
+
+
+
+<!--You are running on ashprd_ws_19_8-->
+
+
+
+
+	
+	<!-- No Tracking Pixel defined via allTrackingPixelFile -->
+	
+	
+
+	
+	
+
+
+
+
+
+<!--You are running on ashprd_ws_19_8-->
+
+
+
+
+<!-- // End of code of PMO 52759 -->
 <script language="JavaScript">
 
 /* Non-commerce Variables */
@@ -818,7 +837,7 @@ var s_eVar20 = '';
 var s_hier1 = '';
 var s_events = '';
 var s_channel = 'Home';
-var s_eVar19 = '26652383672';
+var s_eVar19 = '29955147694';
 </script>
 
 
