@@ -1,40 +1,23 @@
-> *The following text is extracted and transformed from the ncleg.net privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228162318id_/http%3A//www.ncleg.net/Etc/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncleg.net privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628131324id_/http%3A//www.ncleg.net/Etc/Privacy.html) for the most accurate reproduction.*
 
 # North Carolina General Assembly - Privacy Statement
 
-| Site Navigation  
+| SITE NAVIGATION  
 ---  
- | [Home](https://web.archive.org/homePage.pl)|    
- | [House](https://web.archive.org/House/House.html)|    
- | [Senate](https://web.archive.org/Senate/Senate.html)|    
- | [Committees](https://web.archive.org/CommitteeInfo/CommitteeInfo.html)|    
- | [Legislation/Bills](https://web.archive.org/Legislation/Legislation.html)|    
- | [Representation](https://web.archive.org/GIS/Representation)|    
- | [Legislative Library](https://web.archive.org/LegLibrary)|    
- | [NCGA Information](https://web.archive.org/NCGAInfo/NCGAInfo.html)|    
- | [Audio](https://web.archive.org/Audio/Audio.html)|    
- | [Citizen Guide](https://web.archive.org/CitizenGuide/CitizenGuide.html)|    
- | [Help](https://web.archive.org/gascripts/Help/Help.pl)|    
-Quick Links  
-  
-[NCGA Job Vacancies](https://web.archive.org/NCGAInfo/Directories/Jobs.html)
-
-  * [NC Statutes](https://web.archive.org/gascripts/Statutes/Statutes.asp)
-  * [Redistricting](https://web.archive.org/GIS/Redistricting/index.html)
-  * [NC Constitution](https://web.archive.org/Legislation/constitution/ncconstitution.html)
-  * [NC Session Laws](https://web.archive.org/gascripts/EnactedLegislation/ELTOC.pl?sType=Law)
-  * [Legislative Publications](https://web.archive.org/gascripts/DocumentSites/browseDocSite.asp?nID=1)
-  * [NCGA Stormwater Water Collection Project](https://web.archive.org/ncgainfo/cistern/cisternhome.html)
-  * [State Government Site](https://web.archive.org/gascripts/redirects/ExitDisclaimer.pl?http://www.ncgov.com)
-  * [Lobbyist Info](https://web.archive.org/gascripts/redirects/ExitDisclaimer.pl?http://www.secretary.state.nc.us/lobbyists/)
-  * [Other Government Sites](https://web.archive.org/NCGAInfo/NCGAInfo.html#govtLinks)
-
-  
-Site Information  
- | [Disclaimer](https://web.archive.org/Etc/Disclaimer.html)|    
- | [Privacy Statement](https://web.archive.org/Etc/Privacy.html)|    
- | [Policies](https://web.archive.org/Etc/Policies.html)|    
- | [Contact Us](https://web.archive.org/gascripts/Help/KnowledgeBase/viewItem.pl?nID=42)|    
+[Home](https://web.archive.org/homePage.pl)  
+[House](https://web.archive.org/House/House.html)  
+[Senate](https://web.archive.org/Senate/Senate.html)  
+[Calendars](https://web.archive.org/Calendars/Calendars.html)  
+[Committees](https://web.archive.org/gascripts/Committees/Committees.asp)  
+[Legislation/Bills](https://web.archive.org/Legislation/Legislation.html)  
+[Representation](https://web.archive.org/GIS/Representation/)  
+[Legislative Library](https://web.archive.org/LegLibrary/)  
+[Fiscal Research  
+Division](https://web.archive.org/FiscalResearch/)  
+[NCGA Information](https://web.archive.org/NCGAInfo/NCGAInfo.html)  
+[Audio](https://web.archive.org/Audio/Audio.html)  
+[Citizen Guide](https://web.archive.org/CitizenGuide/CitizenGuide.html)  
+[Help](https://web.archive.org/gascripts/Help/Help.pl)  
   
 Privacy Statement
 
@@ -79,23 +62,25 @@ If you send us e-mail with a question or comment, we will use your e-mail addres
 **Length of Time Data Will Be Stored:**  
 Unless you request that we delete any of the information you submitted when you registered for any electronic updates and/or newsletters we may offer, we will store such information indefinitely. 
 
-|  | Calendars  
+|  | Shortcuts  
 ---  
-[House](https://web.archive.org/Calendars/CurrentCalendars/CurrentHouseCalendar.pdf)| [[archive]](https://web.archive.org/gascripts/DocumentSites/browseDocSite.asp?nID=2&sFolderName=/House)  
-[Senate](https://web.archive.org/Calendars/CurrentCalendars/CurrentSenateCalendar.pdf)| [[archive]](https://web.archive.org/gascripts/DocumentSites/browseDocSite.asp?nID=2&sFolderName=/Senate)  
-[Legislative](https://web.archive.org/LegislativeCalendar/)| [[archive]](https://web.archive.org/LegislativeCalendar/LegislativeCalendar.pl?view=TOC)  
-Site Searches  
-[Bill Look-Up](https://web.archive.org/gascripts/BillLookUp/BillLookUp.pl)  
   
- Example: S456   
-[S.L. Look-Up](https://web.archive.org/gascripts/EnactedLegislation/ELTOC.pl?sType=Law)  
+  * [General Statutes](https://web.archive.org/gascripts/statutes/Statutes.asp)
+  * [Session Laws](https://web.archive.org/gascripts/EnactedLegislation/ELTOC.pl?sType=Law)
+  * [Legislative Publications](https://web.archive.org/gascripts/DocumentSites/browseDocSite.asp?nID=1)
+  * [NCGA Job Vacancies](https://web.archive.org/NCGAInfo/Directories/Jobs.html)
+
   
- Example: 46   
-[Statute Look-Up](https://web.archive.org/gascripts/Statutes/Statutes.asp)  
+Search NCGA Web Site  
+Member Look Up  
+[Find Bills By Number](https://web.archive.org/gascripts/BillLookUp/BillLookUp.pl)  
   
- Example: 17D-4   
-[Bill Text](https://web.archive.org/gascripts/BillSearch/BillSearch.asp)  
-[](https://web.archive.org/LegLibrary/)  
-[](https://web.archive.org/gascripts/Redirects/ExitDisclaimer.pl?http://www.ncgov.com)  
-[](https://web.archive.org/ncgainfo/educational/educational.html)  
-[](https://web.archive.org/ncgainfo/cistern/cisternhome.html)
+Session:   
+  
+[Search Bill Text](https://web.archive.org/gascripts/BillSearch/BillSearch.asp)  
+  
+Session:   
+  
+Who Represents Me?  
+  
+Find your full 9 digit zip code
