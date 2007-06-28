@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the chevrolet.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231031821id_/http%3A//www.gm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chevrolet.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629013348id_/http%3A//www.gm.com/privacy) for the most accurate reproduction.*
 
 # GM - Privacy Statement
 
-**I. _About Privacy (effective December 15, 2006)_**
+**I. _About Privacy (effective April 1, 2007)_**
 
 Your privacy is important to General Motors Corporation (GM), as is your trust in GM products and services. We want you to know that the information you share with us will be treated with care.
 
@@ -51,9 +51,10 @@ _GM businesses covered by this Privacy Statement include:_
  [Saab](http://www.saabusa.com/) |  [GM Cardmember Services](http://www.gmcardmemberservices.com/)  
  [Certified Used Vehicles](http://www.gmcertified.com/) |  [Cadillac Certified Pre-Owned](http://www.cadillac.com/cuv/cadillac/index.jhtml)  
  [GM Family First](http://www.gmfamilyfirst.com/) |  [GM Supplier Discount](http://www.gmsupplierdiscount.com/)  
+ [GM Fleet](http://www.gmfleet.com/) |    
   
 [_GM.com_](http://www.gm.com/)  
-U.S. Automotive and Credit Card consumer pages on gm.com are covered by this Privacy Statement. The Education pages of GMability at gm.com have their own privacy statements that address the pages of the web site directed at children. The Careers and Retiree Information sections of gm.com are not consumer sites and are not covered by this Privacy Statement. Any commercial sites, or sites related to fleet vehicles, are not included in this scope.
+U.S. Automotive and Credit Card consumer pages on gm.com are covered by this Privacy Statement. The Education pages of GMability at gm.com have their own privacy statements that address the pages of the web site directed at children. The Careers and Retiree Information sections of gm.com are not consumer sites and are not covered by this Privacy Statement.
 
 _Other GM web sites and business units_  
 To provide services, some GM consumer web sites may request additional information or provide services not covered under this general statement. Please click on the links listed below to view the supplemental privacy information that should be read together with this Privacy Statement.
@@ -103,7 +104,7 @@ If you have concerns or questions regarding GM's consumer privacy practices, ple
 **Changes**  
 We retain the right to change this Privacy Statement. We will post changes to this page in a timely manner.
 
-This statement is effective as of 12/15/2006.
+This statement is effective as of 4/1/2007.
 
 **Supplemental Privacy Information**  
 This information supplements the information provided in the GM Privacy Statement for U.S. Consumers.
@@ -123,7 +124,7 @@ _[Investor Information](https://web.archive.org/company/investor_information/)_ 
 
 __Uses__ \- This personal information may be used for providing you information you have requested. We may share this personal information with suppliers for the purpose of providing the services you request and to provide services for GM. We may also share your information with GM affiliates to provide you with information about GM products and services. **GM will not share your personal information with other third parties for their independent use.** We may disclose your personal information as required by law, in conjunction with a government inquiry, or in litigation or dispute resolution.
 
-__Choice and Updating Information__ \- Stockholders wishing to update information with GM´s stock transfer agent or their own stockbrokers should contact those parties directly. Opt-outs from GM marketing communications will not affect communications sent on or by or on behalf of GM’s stock transfer agent or stockholders.
+__Choice and Updating Information__ \- Stockholders wishing to update information with GM´s stock transfer agent or their own stockbrokers should contact those parties directly. Opt-outs from GM marketing communications will not affect communications sent on or by or on behalf of GMs stock transfer agent or stockholders.
 
 __Privacy Inquiries__ \- For inquiries about how the information you submit to the Investor Information portion of the site or to GM Stockholder Services is handled, please call 313-667-1432.  
   
@@ -150,7 +151,7 @@ __Privacy Inquiries__ \- If you have a question or concern about the privacy pra
 _[GM Family First](http://www.gmfamilyfirst.com/)_ |    
   | This Supplemental Privacy Information explains how we handle personally identifiable information you share with GM through the GM Family First website (gmfamilyfirst.com), and through our customer call centers. It also applies to personal information GM obtains for marketing purposes from GM Dealers and other sources for use in the Family First program. 
 
-__Personal Information Collection__ \- You may use the GM Family First website to learn about our products and services without disclosing any personal information. We may ask you to provide us with personal information to verify your eligibility for access to the website or for participation in the vehicle purchase program. Information that may be requested on the GM Family First website or at the call center includes: contact information, such as name, email address, and telephone number; website eligibility verification information, including the last four digits of your Social Security number; and purchase verification information, including birth date, and last four digits of the purchaser’s Social Security number. If you are requesting product information, you may be asked to provide information regarding your vehicle purchase plans, and other household information.
+__Personal Information Collection__ \- You may use the GM Family First website to learn about our products and services without disclosing any personal information. We may ask you to provide us with personal information to verify your eligibility for access to the website or for participation in the vehicle purchase program. Information that may be requested on the GM Family First website or at the call center includes: contact information, such as name, email address, and telephone number; website eligibility verification information, including the last four digits of your Social Security number; and purchase verification information, including birth date, and last four digits of the purchasers Social Security number. If you are requesting product information, you may be asked to provide information regarding your vehicle purchase plans, and other household information.
 
 __Uses__ \- Personal information about you may be used to respond to your requests for information; to verify your identity for access to the GM Family First website and redemption of purchase authorization numbers; to customize and improve communication content; or for marketing research. It may also be used for providing you with helpful offers and information on GM products and services.
 
@@ -173,7 +174,7 @@ __Correcting Your Information and Privacy Inquiries__ \- If you would like to co
   
 **III. _Your California Privacy Rights_
 
-2005 Disclosure
+2006 Disclosure
 
 **
 
