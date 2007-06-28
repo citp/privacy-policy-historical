@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mhprofessional.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217010923id_/http%3A//www.mhprofessional.com/%3Fpage%3D/mhp/content/help/new_customers/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mhprofessional.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628232121id_/http%3A//www.mhprofessional.com/%3Fpage%3D/mhp/content/help/new_customers/privacy_statement.html) for the most accurate reproduction.*
 
 # McGraw-Hill Professional - McGraw-Hill Professional Customer Privacy Statement
 
@@ -12,7 +12,7 @@ Occasionally, and subject to applicable laws, McGraw-Hill Professional also make
 
 On rare occasions, and subject to applicable laws, McGraw-Hill Professional may also share your information with outside "3rd Party" vendors who will be authorized to use this information solely to perform services (such as a "mailing" house) on our behalf.
 
-If at any time you would like your name removed from lists that are used for any of these purposes, simply access the [Opt-Out form](), and follow the simple instructions for prompt removal of your name.
+If at any time you would like your name removed from lists that are used for any of these purposes, simply access the [Opt-Out form](https://www.mhprofessional.com/account/?mode=preferences), and follow the simple instructions for prompt removal of your name.
 
 If you contact us in regard to technical support, questions about your order, or any general inquiry, your email address will only be used in response to your inquiry. Your email address will not be added to our database.
 
