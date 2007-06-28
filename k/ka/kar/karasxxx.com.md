@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the karasxxx.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206015431id_/http%3A//www.karasxxx.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karasxxx.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628044935id_/http%3A//www.karasxxx.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -73,7 +73,7 @@ The Site also offers all subscribers a procedure for "Opting-Out" if the subscri
 
 **_Data Controller._**
 
-The Data Controller for all personal information collected about subscribers of the site is: Brian K. Yuen, and can be reached by e-mail at [admin@lvent3.com](mailto:admin@lvent3.com). The Data Controller has the authority to resolve all issues regarding the collection, modification, correction, deletion and use of the personal information that has been collected by the Site. 
+The Data Controller for all personal information collected about subscribers of the site can be reached by e-mail at [admin@lvent3.com](mailto:admin@lvent3.com). The Data Controller has the authority to resolve all issues regarding the collection, modification, correction, deletion and use of the personal information that has been collected by the Site. 
 
 **_Review of Personal Information by Subscriber/Means of Challenging Data._**
 
@@ -104,4 +104,4 @@ In the event of any conflicts between the Membership Terms the Conditions and th
 
 [ 18 U.S.C. 2257 Record Keeping Requirements Compliance Statement](http://www.karasxxx.com/guests/legal.shtml)
 
-Copyright © 2006 Level Ventures, Ltd. All rights reserved.
+Copyright © 2007 Level Ventures, Ltd. All rights reserved.
