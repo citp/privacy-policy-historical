@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smilebox.com privacy policy that was archived on 2006-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060819162024id_/http%3A//www.smilebox.com/privacy.jsp%3Fpartner%3Dsmilebox%26campaign%3Dnone%26page%3Dhomepage-a%26origin%3Dhomepage-a) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smilebox.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629012311id_/http%3A//www.smilebox.com/privacy.jsp%3Fpartner%3Dsmilebox%26campaign%3Dnone%26page%3DHomePage%26origin%3DHomePage) for the most accurate reproduction.*
 
-# Smilebox : Privacy Policy
+# Privacy Policy
 
 Smilebox, Inc's Privacy Policy
 
@@ -8,13 +8,13 @@ Smilebox, Inc. is committed to protecting your privacy. The following privacy po
 
 Personal Information
 
-Personal information is information that is unique to you (such as your name, address, e-mail address, telephone number and credit card number). We may collect such personal information from you via our website. Because protecting your information is important to us, we do not sell any personal information to third parties.
+Personal information is information that is unique to you (such as your name, address, e-mail address, telephone number and credit card number). We may collect such personal information from you via our service. Because protecting your information is important to us, we do not sell any personal information to third parties.
 
 We may use independent contractors to provide services on our behalf. For example, we may use an e-commerce provider to handle your order. Such third parties may have access to your personal information in the course of providing services on our behalf. Any personal information that we provide to such third parties is protected under a confidentiality agreement. Such third parties will take commercially reasonable measures to keep your personal information safe, private and secure.
 
 Information Automatically Logged
 
-Our systems may automatically log certain non-personal information such as your IP address to help diagnose problems with our servers and to help administer our website.
+Our systems may automatically log certain non-personal information such as your IP address to help diagnose problems with our servers, to help administer our service or to perform analysis in order to maintain, protect and improve our services
 
 Cookies
 
@@ -22,7 +22,7 @@ Our services may involve the use of cookies to store information about your visi
 
 Email Newsletter
 
-You will be required to submit your e-mail address during the registration process. This information is used solely by Smilebox, Inc. and will not be sold to any third party. We will use this information to send weekly newsletters about product updates and new releases. You may always opt-out of receiving our newsletters.
+You will be required to submit your e-mail address during the registration process. This information is used solely by Smilebox, Inc. and will not be sold to any third party. We will use this information to send weekly newsletters about product updates and new releases. You may always [opt-out](http://secure.smilebox.com/ecom/requestOptOut.jsp) of receiving our newsletters.
 
 Security
 
@@ -44,4 +44,4 @@ We respect the privacy of parents and children and are committed to complying wi
 
 Contacting Smilebox, Inc.
 
-If, for any reason, you are concerned with the way that we may be using your personal information, you would like to request that we cease using your personal information altogether, or you wish to file a complaint, you may contact Smilebox, Inc. at 8201 164th Ave NE, Suite 305, Redmond, WA 98052. You may also contact us by e-mail [via our webpage](https://web.archive.org/about/contact.jsp?partner=smilebox&campaign=none&page=privacy&origin=homepage-a).
+If, for any reason, you are concerned with the way that we may be using your personal information, you would like to request that we cease using your personal information altogether, or you wish to file a complaint, you may contact Smilebox, Inc. at 8201 164th Ave NE, Suite 305, Redmond, WA 98052. You may also contact us [via our webpage](https://web.archive.org/about/contact.jsp?partner=smilebox&campaign=none&page=privacy&origin=HomePage).
