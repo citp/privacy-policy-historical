@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidehighered.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211085243id_/http%3A//insidehighered.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidehighered.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628041333id_/http%3A//insidehighered.com/privacy_statement) for the most accurate reproduction.*
 
 # Jobs, News and Views for All of Higher Education - Inside Higher Ed :: Privacy statement
 
