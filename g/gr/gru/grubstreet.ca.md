@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the grubstreet.ca privacy policy that was archived on 2006-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061124121517id_/http%3A//www.grubstreet.ca/articles/adminstuff/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grubstreet.ca privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628180134id_/http%3A//www.grubstreet.ca/articles/adminstuff/privacy.htm) for the most accurate reproduction.*
 
 # Grub Street: Privacy Statement
 
 **Privacy  
 ****  
-g** **rubstreet.ca** visitors aren't required to register to use the site nor is personal information about users stored. The term "personal information" means data, such as user name, IP address, browser type and so forth. The sole exception is general information used to determine number and legitimacy of visitors, primarily, but not exclusively, for advertising-related purposes, such as enumerations. 
+g** **rubstreet.ca** values your privacy.
+
+Visitors aren't required to register to use the site nor is personal information about users stored. The term "personal information" means data, such as user name, IP address, browser type and so forth. The sole exception is general information used to determine number and legitimacy of visitors, primarily, but not exclusively, for advertising-related purposes, such as enumerations. 
 
 [ StatCounter](http://www.statcounter.com/), which tracks visitors to ** grubstreet.ca** for advertising-related purposes, is a reputable, third-party source of statistics about site visitors. [ StatCounter](http://www.statcounter.com/) may place a cookie on your site. This cookie allows us to know if you're a new visitor to ** grubstreet.ca** or a returnee. The sole effect of the cookie is to record visitor status -- new or returning \-- each time somebody enters the site. 
 
