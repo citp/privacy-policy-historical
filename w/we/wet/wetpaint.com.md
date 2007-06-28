@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the wetpaint.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205225124id_/http%3A//www.wetpaint.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wetpaint.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628135337id_/http%3A//www.wetpaint.com/static/privacy) for the most accurate reproduction.*
 
-# Privacy Policy for Wet Paint - Start a free website in 3 easy steps - Wetpaint
+# Privacy Policy for Wet Paint - Create a free wiki - Wetpaint
 
-## Privacy Policy
+* * *
 
-Date of Last Revision: 3/3/2006 
+Last Updated: 3/27/2007
 
-At Wetpaint, we are committed to ensuring the privacy of our users. This privacy policy explains Wetpaint's privacy practices for this Web site ("Site"), [http://www.wetpaint.com](http://www.wetpaint.com/), and any Wetpaint based Web site ("Sites"), for users of our services. By using the Site, you consent to the terms of this privacy policy.
+At Wetpaint, we are committed to ensuring the privacy of our users. This privacy policy explains Wetpaint's privacy practices for this Web site ("Site"), [http://www.wetpaint.com](https://web.archive.org/web/20070628135337id_/http%3A//www.wetpaint.com/static/$%7BactiveSession.cyoServer%7D), and any Wetpaint based Web site ("Sites"), for users of our services. By using the Site, you consent to the terms of this privacy policy.
 
 ## What is Personal Information?
 
@@ -14,7 +14,7 @@ Personal information is information that specifically identifies an individual, 
 
 ## Personal Information We Collect
 
-You may provide personal information to us in a number of ways when you visit. For example, depending on the specific web site, you may provide us with personal information when you:
+You may provide personal information to us in a number of ways when you visit our Sites. For example, depending on the specific web site, you may provide us with personal information when you:
 
   1. Register as a member and set up an account;
   2. Subscribe to email notification of certain changes in Site functionality or content (e.g., page changes); or
@@ -22,7 +22,11 @@ You may provide personal information to us in a number of ways when you visit. F
 
 
 
-Please note that we are not responsible for any personal information that you voluntarily provide as part of any edits or similar submissions to the Sites and we discourage you from doing so, as such information is publicly available.
+Your use of the Wetpaint sites and services described above indicates your consent to these uses of personal information. To operate these services, this information is stored on Wetpaint servers.
+
+Please note that we are not responsible for any personal information that you voluntarily provide as part of any edits or similar submissions to the Sites, including, if you register as a member, in your user name, your private messages, or your user profile. We discourage you from including personal information in any such edits or submissions, as such information may be publicly available.
+
+We may, in accordance with our Sites' Terms of Use, try to prevent minors from accessing Sites that display adult content or certain other types of content for which we have received user complaints or which we believe is objectionable.
 
 When you visit our Sites, some information is also automatically collected, such as your computer's Internet Protocol (IP) address, your computer's operating system, the browser type, the address of a referring web site, and the time and date of your visit and Site pages visited. This information is collected through the use of "cookies." Cookies are small files that are stored on your computer by a web site to give you a unique identification. We use cookies on our Sites to help optimize your online experience. For example, we use cookies to track your editing of, and submissions to, our Sites. We treat this information as personal information if we combine it with or link it to any of the personally identifying information mentioned above. Otherwise, it is used in the aggregate only.
 
@@ -30,7 +34,7 @@ Wetpaint does not require that you accept cookies, however, some functionality o
 
 ## How We Use Personal Information
 
-In general, we may use personal information to process your requests or transactions and provide you with high-quality services or to inform you about other products or services we think will be of interest. For example, we use your information to provide online editing and publishing services to you, and to display customized content and advertising. We may also use personal information for certain auditing, research and analysis to operate and improve Wetpaint technologies and services. Your personal information may also be used to set up or contact you regarding your account. When we use your personal information, it may be processed on our services in the United States of America and in other countries, and your information may be processed on a server that lies outside your own country.
+In general, we may use personal information to process your requests or transactions and provide you with high-quality services or to inform you about other products or services we think will be of interest. For example, we use your information to provide online editing and publishing services to you, and to display customized content and advertising. We may also use personal information for certain auditing, research and analysis to operate and improve Wetpaint technologies and services. Your personal information may also be used to set up or contact you regarding your account. When we use your personal information, it may be processed on our servers in the United States of America and in other countries, and your information may be processed on a server that lies outside your own country.
 
 When we use personal information in our internal marketing efforts, we provide you with choices (see Choice below) and do not disclose the information to third parties except as described in this privacy policy.
 
@@ -42,7 +46,7 @@ Personal information does not include “aggregate” information. Aggregate inf
 
 ## Sharing of Personal Information
 
-We do not sell, rent or share personal information with third parties without your prior consent except in the limited circumstances described in this privacy policy. We share personal information with third-party vendors and contractors who assist us in performing internal functions necessary to operate our business. These functions may include, for example, analyzing data and providing marketing assistance. We require our third party vendors to only use the information for the purpose it was provided. We are not responsible for any additional information you provide directly to third parties, and we encourage you to become familiar with their practices before disclosing information directly to them.
+We do not sell, rent or share personal information with third parties without your prior consent, except in the limited circumstances described in this privacy policy. We share personal information with third-party vendors and contractors who assist us in performing internal functions necessary to operate our business. These functions may include, for example, analyzing data and providing marketing assistance. We require our third party vendors to only use the information for the purpose it was provided. We are not responsible for any additional information you provide directly to third parties, and we encourage you to become familiar with their practices before disclosing information directly to them.
 
 We also reserve the right to disclose personal information when we believe it is appropriate to comply with the law (e.g., a lawful subpoena, warrant or court order); to enforce or apply this privacy policy or our other policies or agreements; to initiate, render, bill, and collect for amounts owed to us; to protect our or our users' rights, property or safety; to prevent or protect our users from fraudulent, abusive, or unlawful use of our Sites; to ensure the security of our network and services; or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of records without delay.
 
@@ -54,15 +58,15 @@ Our Sites contain links to other web sites. Any personal information you provide
 
 ## Use of the Sites by Children
 
-We encourage parents to take an active interest in their children's use of the Internet. We do not intend to collect information from children who are under 13 years of age. If you are under 13, you will not be allowed to register for our service and you should not provide information on our Sites.
+We encourage parents to take an active interest in their children's use of the Internet. We do not intend to collect information from children who are under 13 years of age. If you are under 13, you may not register for our service and you should not provide personal information on our Sites.
 
 ## Security
 
-We have put into place reasonable security measures in an effort to protect personal information while it is under our control. For example, your account information is accessible online only through the use of a password. To protect the confidentiality of personal information on such sites, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of our Sites by any person using your password. Please [contact us](https://web.archive.org/static/contact) immediately if you believe your password has been misused.
+We have put into place reasonable security measures in an effort to protect personal information while it is under our control. For example, your account information is accessible online only through the use of a password. To protect the confidentiality of personal information on such sites, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of our Sites by any person using your password. Please [contact us](https://web.archive.org/static/contact) immediately if you believe your password has been misused.
 
 ## Choice
 
-To opt-out of receiving communications from us or to request that we correct or delete your personal information, please [contact us](https://web.archive.org/static/contact), or edit your online profile settings on this website.
+To opt-out of receiving communications from us or to request that we correct or delete your personal information, please [contact us](https://web.archive.org/static/contact), or edit your online profile settings on this website.
 
 ## Policy Changes
 
@@ -70,4 +74,4 @@ We will modify this privacy policy from time to time as our privacy practices ke
 
 ## Your Comments or Concerns
 
-We welcome your feedback. If you have any comments or concerns about this privacy policy, please [contact us](https://web.archive.org/static/contact).
+We welcome your feedback. If you have any comments or concerns about this privacy policy, please [contact us](https://web.archive.org/static/contact).
