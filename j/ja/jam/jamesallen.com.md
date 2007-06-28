@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jamesallen.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217113253id_/http%3A//www.jamesallen.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamesallen.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629010030id_/http%3A//www.jamesallen.com/privacy_policy.asp) for the most accurate reproduction.*
 
-# Engagement Rings, Loose diamonds and fine diamond jewelry at JamesAllen.com
+# Engagement Rings, Diamond Engagement Rings, Loose Diamonds,Ideal Cut Diamonds, Wedding Rings
 
 Thank you for visiting JamesAllen.com. James Allen respects your privacy and we understand and share your concern about the privacy of your personal information. This notice describes our privacy policies. By visiting JamesAllen.com, you are confirming your agreement to the privacy policies described in this Privacy Policy.
 
