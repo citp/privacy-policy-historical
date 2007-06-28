@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the trainorders.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205184800id_/http%3A//www.trainorders.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trainorders.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629000458id_/http%3A//www.trainorders.com/privacy) for the most accurate reproduction.*
 
 # About Trainorders.com
 
 **Trainorders.com Inc. PRIVACY STATEMENT**
 
-Trainorders.com Inc. recognizes the importance of protecting the privacy of all information provided by users of Trainorders.com. We created the following policy guidelines with a fundamental respect for our users¹ right to privacy to guide our relationships with our users. 
+Trainorders.com Inc. recognizes the importance of protecting the privacy of all information provided by users of Trainorders.com. We created the following policy guidelines with a fundamental respect for our users� right to privacy to guide our relationships with our users. 
 
 _Information Collected by Trainorders.com Inc_
 
