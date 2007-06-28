@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bruceclay.com.au privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205221529id_/http%3A//www.bruceclay.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bruceclay.com.au privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628045252id_/http%3A//www.bruceclay.com.au/privacy.htm) for the most accurate reproduction.*
 
-# bruceclay.com - Privacy Statement
+# bruceclay.com.au - Privacy Statement
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practises and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
 
 * * *
 
@@ -15,7 +15,7 @@ This notice applies to all information collected or submitted on the [company na
 >  Email address   
 >  Phone number   
 >  Credit/Debit Card Information ONLY if you are subscribing / purchasing online   
->  Additional info appropriate to projects being managed or serviced by Bruce Clay, Inc. or international region offices.
+>  Additional info appropriate to projects being managed or serviced by Bruce Clay, Australia - Pty. Ltd. or international region offices.
 
 * * *
 
@@ -33,7 +33,7 @@ Finally, we never use or share the personally identifiable information provided 
 
 ## Our Commitment To Data Security
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+To prevent unauthorised access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
 * * *
 
@@ -55,4 +55,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 ## How To Contact Us
 
-**Should you have other questions or concerns about these privacy policies, please call us at 1-805-517-1900 or send an email to[our support team](https://web.archive.org/contactform.htm). Additional information can be found below.**
+**Should you have other questions or concerns about these privacy policies, please call us at +61 (2) 9279 0384 or send an email to[our support team](https://web.archive.org/contactform.htm). Additional information can be found below.**
