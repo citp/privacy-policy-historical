@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dreamhost.com privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224113122id_/http%3A//www.dreamhost.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamhost.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628081220id_/http%3A//www.dreamhost.com/privacy.html) for the most accurate reproduction.*
 
-# DreamHost
+# Web Hosting by DreamHost Web Hosting: Web Sites, Domain Registration, WordPress, Ruby on Rails, all on Debian Linux!
 
-[](https://web.archive.org/web/20061224113122id_/http%3A//www.dreamhost.com/hosting.html)
+[](https://web.archive.org/web/20070628081220id_/http%3A//www.dreamhost.com/hosting.html)
 
 [](https://dreamhost.com/signup)
 
