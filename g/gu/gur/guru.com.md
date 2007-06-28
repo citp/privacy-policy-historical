@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guru.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118133159id_/http%3A//www.guru.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guru.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628232320id_/http%3A//www.guru.com/privacy.cfm) for the most accurate reproduction.*
 
 # Guru.com - Privacy Policy
 
