@@ -1,20 +1,21 @@
-> *The following text is extracted and transformed from the connextra.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217223128id_/http%3A//www.connextra.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connextra.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628211822id_/http%3A//www.connextra.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Connextra | Privacy Policy
 
 ### ****
 
-#### About Us
+#### Privacy Policy 
 
 This is a privacy policy for Connextra Limited . Our homepage on the Web is located at [ http://www.connextra.com](http://www.connextra.com/).
 
 We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address:
     
     
-    Scott Button
-    Studio 312, Highgate Studios
-    53-79 Highgate Road
-    London, NW5 1TL
+    Connextra Client Services
+    Betgenius Limited
+    2nd floor, Melbourne House
+    46 Aldwych
+    London WC2B 4LL
     UK
     
 
@@ -29,11 +30,12 @@ We have the following privacy seals and/or dispute resolution mechanisms. If you
 
 #### Additional Information
 
-This policy is valid until 1 Jan, 2005 at 12:00:00 GMT. 
+This policy is effective from 1 Jan, 2005 at 12:00:00 GMT. 
 
 #### Data Collection
 
-P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 2 data groups. The data practices of each group will be explained seperately.
+P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 2 data groups. The data practices of each group will be explained separately.  
+
 
 * * *
 
@@ -122,4 +124,4 @@ Cookies are used for the following purposes:
 
 top^
 
-Whatever you need your online marketing system to do, we can build it [more](https://web.archive.org/web/20061217223128id_/http%3A//www.connextra.com/services/builds.htm)
+Whatever you need your online marketing system to do, we can build it [more](https://web.archive.org/web/20070628211822id_/http%3A//www.connextra.com/services/builds.htm)
