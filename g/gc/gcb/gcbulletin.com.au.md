@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gcbulletin.com.au privacy policy that was archived on 2006-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060923100815id_/http%3A//gcbulletin.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gcbulletin.com.au privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628231217id_/http%3A//www.gcbulletin.com.au/privacy) for the most accurate reproduction.*
 
 # The Gold Coast Bulletin | News from the Gold Coast and around Australia
 
