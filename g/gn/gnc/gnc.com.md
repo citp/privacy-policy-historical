@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gnc.com privacy policy that was archived on 2006-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061129053509id_/http%3A//www.gnc.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gnc.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628212658id_/http%3A//www.gnc.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.*
 
 # GNC Helpdesk
 
