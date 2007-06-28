@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindtouch.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118072955id_/http%3A//www.mindtouch.com/company/privacy_policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindtouch.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628233358id_/http%3A//www.mindtouch.com/node/3) for the most accurate reproduction.*
 
 # Privacy Policies | MindTouch
 
@@ -59,7 +59,7 @@ If you would like to have your personally identifiable information changed or re
 
 ### Questions?
 
-Questions regarding this Privacy Policy should be directed to us through [the MindTouch contact page](https://web.archive.org/company/contact).
+Questions regarding this Privacy Policy should be directed to us through [the MindTouch contact page](https://web.archive.org/contact).
 
   
 
