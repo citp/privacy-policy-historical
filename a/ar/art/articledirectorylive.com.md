@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the articledirectorylive.com privacy policy that was archived on 2006-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061108034715id_/http%3A//www.articledirectorylive.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articledirectorylive.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628131522id_/http%3A//www.articledirectorylive.com/privacy.php) for the most accurate reproduction.*
 
-# ArticleDirectoryLive.com
+# Submit articles - Free articles for your website
 
 Article Directory Privacy Policy
 
