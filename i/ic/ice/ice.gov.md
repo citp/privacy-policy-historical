@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ice.gov privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228052705id_/http%3A//www.ice.gov/about/legal.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ice.gov privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628061038id_/http%3A//www.ice.gov/about/legal.htm) for the most accurate reproduction.*
 
 # ICE Website Legal Information
 
@@ -63,14 +63,12 @@ U.S. Immigration and Customs Enforcement (ICE) records are investigatory records
 ## Freedom of Information Act (FOIA) Contact:
 
 [DHS FOIA webpage](http://www.dhs.gov/xfoia/editorial_0579.shtm)  
-FOIA/PA Section  
-Information Disclosure Unit   
-Mission Support Division  
-Office of Investigations  
-U.S. Immigrations and Customs Enforcement  
-425 I Street, NW - Room 4038  
-Washington, D.C. 20536  
-Phone: (202) 353-8906  Facsimile (202) 616-7612 
+FOIA Office  
+U.S. Immigration and Customs Enforcement  
+800 North Capitol St., NW  
+5th Floor, Suite 585   
+Washington, DC 20536  
+Phone: (202) 732-0300  Facsimile (202) 732-0310 
 
 **NOTE: All requests for Alien Files, including all records therein, should be requested from U. S. Citizenship and Immigration Services, The National Records Center, FOIA Division, P.O. Box 648010, Lee's Summit, MO 64064-5570. Alien Files are under the control of U.S. Citizenship and Immigration Services. Please refer any questions about Alien File record requests to Director, Freedom of Information/Privacy Act Program at (202) 272-8269.**
 
@@ -89,29 +87,93 @@ Follow these steps to make a request:
   3. Verification of Identity, Verification of Guardianship, Accompanying Persons, and Amendment Request are requirements for making a PA request. PA requests should be marked "Privacy Act Request."
   4. Mail your request to: 
 
-> FOIA/PA Section  
->  Information Disclosure Unit   
->  Mission Support Division  
->  Office of Investigations  
->  U.S. Immigrations and Customs Enforcement  
->  425 I Street, NW - Room 4038  
->  Washington, D.C. 20536 
+> FOIA Office  
+>  U.S. Immigration and Customs Enforcement  
+>  800 North Capitol St., NW  
+>  5th Floor, Suite 585   
+>  Washington, DC 20536 
 
-  5. Requests can also be faxed to (202) 616-7612.
-  6. Requests are deemed to constitute an agreement to pay any applicable fees that may be chargeable up to $25 without notice. Most requests do not require any fees; however, if fees exceed $25, we will notify you beforehand. 
+  5. Requests can also be faxed to (202) 732-0310
+  6. Requests or questions may also be e-mailed to the following address: [ice-foia@dhs.gov](mailto:ice-foia@dhs.gov)
+  7. Requests are deemed to constitute an agreement to pay any applicable fees that may be chargeable up to $25 without notice. Most requests do not require any fees; however, if fees exceed $25, we will notify you beforehand. 
 
 
 
 An "[AFFIRMATION/DECLARATION](https://web.archive.org/doclib/affirmation_declaration.pdf)" form indicating your name, date of birth, name of the person you want your records disclosed to (where applicable) and their address and a statement indicating that **you understand that knowingly or willingly seeking or obtaining access to records about another person under false pretenses and or without their consent is punishable by a fine of up to $5,000**. 
 
-## Multi-Track Processing:
+**When should I expect to see a response to my request?** ****
+
+You should receive an acknowledgement letter within 3-5 business days after we receive your request.  This letter will contain a tracking number we have assigned to your request.  If you contact us by phone, mail or e-mail please have this number available if you wish to check the status of your request. 
+
+ICE uses a multi-track system to process requests on a first-in, first-out basis. We are able to answer simple requests more quickly and such inquiries will be placed on the fast track of our multi-track processing.  More complex requests may require significant processing time. Although ICE's goal is to respond within 20 business days of receipt of your request, the FOIA does permit a 10-day extension of this time period.  If your request involves a significant volume of records, requires that we collect records from separate offices or requires that we consult with another agency, ICE will invoke the 10-day extension for the completion of your request.    **  **
+
+## Multi-Track Processing: 
 
 FOIA requests are placed on one of three (3) tracks. Requests are entered into tracks based upon the complexity of the request:
 
-Track 1: Track one is for those requests which seek and receive expedited processing pursuant to subsection (a)(6)(E) of the FOIA.
+Track 1: Track one is for those requests that seek and receive expedited processing pursuant to subsection (a)(6)(E) of the FOIA. 
 
-Track 2: Track two is for those requests which do not involve voluminous records or lengthy consultations with entities.
+Track 2: Track two is for those requests that do not involve a significant volume of records or lengthy consultations with other entities. 
 
-Track 3: Track three is for those requests which involve voluminous records and for which lengthy or numerous consultations are required, or those requests which may involve sensitive records. 
+Track 3: Track three is for those requests that do involve a significant volume of records and for which lengthy or numerous consultations are required, or those requests which may involve sensitive records.
+
+**Fees:**
+
+There is no initial fee to make a FOIA request, and in many cases no fees are charged. However, agencies are authorized by law to recover the direct costs of providing information in response to a FOIA request. For purposes of fees only, the FOIA divides requests into three categories: 
+
+  * commercial use requests 
+  * news media, educational, or scientific requests 
+  * all other requests 
+
+
+
+Those initiating a commercial use request are charged for search time, document review, and duplication. News media, educational, and scientific requests are charged for duplication only, and only after the first 100 pages. All other requests are charged for search time (after two hours) and duplication (after 100 pages).  In all cases, if the total fee does not exceed $14.00, ICE will not charge any fee.
+
+You may make a specific statement in your request letter limiting the amount of fees you are willing to pay. If you do not, ICE will assume that you are willing to pay fees of up to $25.00.  If your estimated fees exceed $25.00, you will be given the opportunity to narrow your request in order to reduce the fees or you will be asked to express your commitment to pay the estimated amount. Ordinarily, you will not be required to actually pay the fees until the records have been processed and are ready to be sent to you. 
+
+**Fee Waivers:**
+
+If you expect or are advised that a fee will be charged, you may request a waiver of those fees. However, fee waivers are limited to situations in which a requester can show that the disclosure of the requested information is in the public interest because it is likely to contribute significantly to public understanding of the operations and activities of the government and is not primarily in the commercial interest of the requester.  A requester's inability to pay fees is not a legal basis for granting a fee waiver.
+
+**Expedited Processing:**
+
+Under certain conditions you may be entitled to have your request processed on an expedited basis. However, you should realize that whenever a FOIA request is expedited for a particular requester, taking that action results in an additional delay for previous requesters who have been waiting for a response. Therefore, in an effort to treat all requesters equitably, ICE ordinarily will process an initial FOIA request or an administrative appeal of a request's denial ahead of others only in cases in which there will be a threat to someone's life or physical safety, or where an individual will suffer the loss of substantial due process rights if the records are not processed on an expedited bases. In most cases, a request will not be expedited merely on the basis that the requester is facing a court deadline in a judicial proceeding.
+
+A statement setting forth the reasons why your request should be expedited must accompany a request for expedited processing. You should certify that the reasons you have given are true and correct.  If ICE denies your request for expedited processing, you will be advised of your right to submit an administrative appeal of that denial. **  **
+
+**Administrative Appeals:**
+
+You may file an administrative appeal for any of the following reasons.
+
+  * If you are not satisfied with ICE's initial response to your request. 
+  * If you disagree with the withholding of information, or if you believe that there are additional records responsive to your request that ICE failed to locate. 
+  * A determination has been made that your request was not reasonably described. 
+  * A determination has been made that a record does not exist or cannot be located. 
+  * A determination has been made that a record is not readily reproducible in the form or format requested. 
+  * A determination has been made that the requested information is not a record subject to the FOIA. 
+  * You disagree with a determination regarding the charging of a fee. 
+  * You believe your request was not responded to in the time stipulated by the FOIA regulations. 
+  * You also may file an administrative appeal if you have requested expedited processing or a fee waiver and been denied. 
+
+
+
+You should be advised of your right to file an appeal in the initial determination letter sent by ICE or in a letter denying your request for expedited processing or a fee waiver. Your appeal must be received within 60 days of the date of ICE's determination letter.
+
+All appeals must be made in writing and addressed to:
+
+Associate General Counsel (General Law)  
+Department of Homeland Security  
+FOIA Appeals  
+Washington, D.C. 20528
+
+Both the front of the envelope and the appeal letter should contain the notation "Freedom of Information Act Appeal."
+
+**Judicial Review:**
+
+If you still believe that ICE has not handled your FOIA request properly under the law after your administrative appeal has been decided, you have the right to challenge the agency's action in a lawsuit filed in federal court.  Before doing so, you ordinarily will be required first to have filed an administrative appeal and to have received a response.
+
+If you do bring a court action, you may file your lawsuit in a federal district court in any of the following places: (1) where you reside, (2) where you have your principal place of business (if any), (3) in the District of Columbia, or (4) where the records are located, if they are not located in the District of Columbia.  If you have received an administrative appeal determination, that final administrative response letter will advise you of your right to seek judicial review and will specify where you can do so.
 
 Back to the Top
+
+  Last Modified: Wednesday, February 19, 2020
