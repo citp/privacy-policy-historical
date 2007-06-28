@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripadvisor.ie privacy policy that was archived on 2006-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061128041948id_/http%3A//www.tripadvisor.ie/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripadvisor.ie privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628062221id_/http%3A//www.tripadvisor.ie/pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -6,7 +6,7 @@ This Web site (the "Site") is operated by TripAdvisor LLC, 464 Hillside Ave., Su
 
 TripAdvisor has provided this privacy policy because we value your right to privacy. This policy is effective as of 30 September 2005 and governs the collection and use of personal information through this Site on or after this date.
 
-This policy describes the types of information TripAdvisor collects from its users and how that information is used. Please read this policy carefully before providing us with any personal information. By using this Site, you agree to TripAdvisor's use of your personal information in accordance with this policy. If you do not agree with the terms of this policy, please do not use this Site. If you have questions about this policy, e-mail us at [privacy-ie@tripadvisor.com](mailto:privacy-ie@tripadvisor.com).
+This policy describes the types of information TripAdvisor collects from its users and how that information is used. Please read this policy carefully before providing us with any personal information. By using this Site, you agree to TripAdvisor's use of your personal information in accordance with this policy. If you do not agree with the terms of this policy, please do not use this Site. If you have questions about this policy, e-mail us at [privacy@tripadvisor.ie](mailto:privacy@tripadvisor.ie).
 
 ### Information we collect.
 
@@ -38,7 +38,7 @@ You may opt-out of any or all marketing communications from TripAdvisor in any c
 
 We may also use certain information that you provide in order to present you with advertising that you may find interesting. This benefits both of us. It benefits us because advertising helps pay the bills, and we can charge our advertisers more if they know that their ads will be seen by somebody more likely to find it useful. It benefits you because you see advertising that may actually be interesting to you, rather than annoying.
 
-You can cancel your registration with us by e-mailing [cancel-ie@tripadvisor.com](mailto:cancel-ie@tripadvisor.com), and placing your email address in the subject of the e-mail. We will send you an e-mail to confirm your request. After we receive confirmation, we will remove your information from our active database, but some information may remain in our archives. We may not be able to remove your information from our partners' databases, if we have transmitted any information to them.
+You can cancel your registration with us by e-mailing [cancel@tripadvisor.ie](mailto:cancel@tripadvisor.ie), and placing your email address in the subject of the e-mail. We will send you an e-mail to confirm your request. After we receive confirmation, we will remove your information from our active database, but some information may remain in our archives. We may not be able to remove your information from our partners' databases, if we have transmitted any information to them.
 
 ### Disclosure of your personal information.
 
