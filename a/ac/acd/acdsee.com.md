@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acdsee.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231100759id_/http%3A//www.acdsee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acdsee.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628200341id_/http%3A//www.acdsee.com/privacy) for the most accurate reproduction.*
 
 # ACD Systems
 
@@ -56,20 +56,16 @@ At any time you may review, alter or remove any personal information, including 
 
 ACD Systems Ltd.  
 Privacy/Customer Service  
-PO Box 36  
-Saanichton,  
-British Columbia, V8M 2C3  
+200 - 1312 Blanshard Street  
+Victoria,  
+British Columbia, V8W 2J1  
 Canada 
 
 If you have any questions or concerns regarding our online privacy policy or should you wish to withdraw your consent, contact us by e-mail at [privacy@acdsystems.com](mailto:privacy@acdsystems.com)
 
-Phone: Toll free in North America 1-866-544-6700
+Phone: 1-250-419-6700
 
-International 1-250-544-6700
-
-Fax: Toll free North America 1-866-544-0291
-
-International 1-250-544-0291
+Fax: 1-250-419-6745
 
 ## About Your Optional InTouch Connection Via ACD Software
 
