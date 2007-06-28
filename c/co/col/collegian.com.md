@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegian.com privacy policy that was archived on 2006-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061027132504id_/http%3A//www.collegian.com/user/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegian.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628151815id_/http%3A//www.collegian.com/user/privacypolicy) for the most accurate reproduction.*
 
 # Rocky Mountain Collegian
 
