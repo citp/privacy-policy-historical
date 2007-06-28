@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kmart.com.au privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216203821id_/http%3A//kmart.com.au/about/privacypolicy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kmart.com.au privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628175733id_/http%3A//kmart.com.au/about/privacypolicy/default.asp) for the most accurate reproduction.*
 
 # Kmart Home > Privacy Policy
 
@@ -36,9 +36,9 @@ Kmart is not responsible for the privacy practices of sites that are linked to t
 
 If you do not wish to receive direct marketing offers from Kmart, please call our customer service centre on 1800 634 251
 
-### Kmart and Coles Myer Ltd Privacy Policies and Practices
+### Kmart and Coles Group Limited Privacy Policies and Practices
 
-From time to time and in line with customer expectations and legislative changes, our privacy policies and procedures will be reviewed and, if appropriate, updated. Please click [here](http://www.colesmyer.com/home/privacy.asp) if you wish to read the Coles Myer Ltd Privacy Policy. More information on privacy legislation is available from the Federal Privacy Commissioner at [www.privacy.gov.au](http://www.privacy.gov.au/).
+From time to time and in line with customer expectations and legislative changes, our privacy policies and procedures will be reviewed and, if appropriate, updated. Please click [here](http://www.colesgroup.com.au/home/privacy.asp) if you wish to read the Coles Group Limited Privacy Policy. More information on privacy legislation is available from the Federal Privacy Commissioner at [www.privacy.gov.au](http://www.privacy.gov.au/).
 
 ### About cookies and how they work
 
