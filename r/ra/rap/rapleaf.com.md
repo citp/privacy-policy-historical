@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rapleaf.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214032523id_/http%3A//blog.rapleaf.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapleaf.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629000726id_/http%3A//blog.rapleaf.com/privacy) for the most accurate reproduction.*
 
 # Rapleaf Blog » Privacy Policy
 
-Effective date: November 26, 2006  
+Effective date: April 10, 2007  
 
 
 **Introduction**
@@ -20,8 +20,10 @@ This privacy policy covers how, when, and why we collect, use, and share informa
   * -We collect volunteered information from members towards other members and nonmembers in the form of a rating.
   * -We obtain publicly available information that may contribute to the overall reputation of a person or email. 
   * -We also use automatic means like [cookies](http://blog.rapleaf.com/drafts/glossary/) and log files to collect user information.
-  * -Aggregate information that is gathered up across all member accounts is not shared together with personally identifiable information.
-  * -We do not use or share personally identifiable information other than as described in this privacy statement. We may disclose such information as required by law or to protect the rights of third parties.
+  * -We collect, compile, and may display historical, statistical, and aggregate information about our members’ use of our system.  
+
+  * -We do not sell, rent, or lease email addresses to third parties. We may disclose such information as required by law or to protect the rights of third parties.  
+
   * -We communicate with our members mainly by email. We do not give or sell email addresses to anyone for their marketing purposes.
   * -Children under the age of 13 are not permitted to use our system nor are they to be rated.
 
@@ -81,21 +83,26 @@ _Cookies_
 
 We use session ID cookies to make it easier for users to navigate our system. This cookie expires when a user closes their browser. We may also use persistent cookies to store members’ email and other information so it does not have to be re-entered when returning to the site. This cookie remains on a user’s hard drive for an extended period of time and can be removed by following directions provided by their Internet browser
 
-Persistent cookies also enable us to track and target the interests of our users to enhance the experience and functionality on our site.
+Persistent cookies also enable us to track and target the interests of our users to enhance the experience and functionality on our site. 
 
-Note, if users reject cookies they may still use our system, but their ability to use some areas of our site may be limited.
+Note, if users reject cookies they may still use our system, but their ability to use some areas of our site may be limited.  
+
 
 _Log Files_
 
 We gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information to analyze trends, to administer the site, to track users’ movements around the site, to control fraud, and to gather demographic information about our user base as a whole.
 
-**Sharing Aggregate Information**
+**Collection of Aggregate Information**
 
-We aggregate statistical, historical and other similar information about our members and non-members and their use of our system. Aggregate information is not shared together with an email address, phone number, or name that is associated with an account unless that information is already known to the inquirer.
+We aggregate statistical, historical and other similar information about our members and non-members and their use of our system.  
+
 
 **Sharing Personally Identifiable Information**
 
-We do not share personally identifiable information about our members except as follows: 
+We do not sell, rent, or lease email addresses to partners, clients, third-party marketers, or other third parties.  
+
+
+If need be, we will share personally identifiable information about our members as follows: 
 
 _Service Providers_
 
@@ -107,7 +114,7 @@ Even though members are relatively anonymous while using our system, the imprope
 
 **Communicating with our Members**
 
-We will typically communicate with our members using their registered email address. We do not share or sell email addresses to anyone for their marketing purposes. If we cannot reach our members by email, we may use other contact information such as their telephone number. We will communicate with members in accordance with their preferences and in response to inquiries, to provide requested services, and to manage their accounts. 
+We will typically communicate with our members using their registered email address. If we cannot reach our members by email, we may use other contact information such as their telephone number. We will communicate with members in accordance with their preferences and in response to inquiries, to provide requested services, and to manage their accounts. 
 
 _Ratings Emails_
 
