@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the cedarpoint.com privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228101858id_/http%3A//www.cedarpoint.com/public/news/general/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cedarpoint.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628212954id_/http%3A//www.cedarpoint.com/public/news/general/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy, Cedar Point
 
-## Privacy Policy 
-
-Cedarpoint.com is committed to protecting your privacy and helping you make the most of your experience on the Internet.  This policy explains how we collect, protect, use and share information gathered about you on this website. 
+##### Cedarpoint.com is committed to protecting your privacy and helping you make the most of your experience on the Internet.  This policy explains how we collect, protect, use and share information gathered about you on this website. 
 
 The majority of features on our site are offered without collecting any personally identifiable information from you.  You can surf cedarpoint.com and view much of our content anonymously.
 
@@ -28,11 +26,11 @@ Cedarpoint.com uses personally identifiable information in a limited number of w
 
 ### Will the collected information be disclosed to outside parties? 
 
-We do not obtain personal information about you other than that which you choose to provide, and we will not sell, rent, trade or otherwise disclose the personal information you provide to anyone outside of Cedar Fair, L.P. and its family of parks and their advertising and promotional agencies and consultants.
+We do not obtain personal information about you other than that which you choose to provide, and we will not sell, rent, trade or otherwise disclose the personal information you provide to anyone outside of Cedar Fair and its family of parks and their advertising and promotional agencies and consultants.
 
 ### Your Consent 
 
-By using our website, you consent to the collection and use of this information by Cedar Fair, L.P. and its family of parks and their advertising and promotional agencies and consultants.  If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+By using our website, you consent to the collection and use of this information by Cedar Fair and its family of parks and their advertising and promotional agencies and consultants.  If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
 
 By using this site, you signify your assent to our Privacy Policy.  If you do not agree to our Privacy Policy, please do not use this site.  We reserve the right, at our complete discretion, to change, modify, add, or remove portions of this policy at any time. 
 
