@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lfconline.com privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114032931id_/http%3A//www.lfconline.com/feedback/loadpriv.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lfconline.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628060929id_/http%3A//www.lfconline.com/feedback/loadpriv.asp) for the most accurate reproduction.*
 
-# Liverpool FC - LFC Online - the definitive Liverpool website. Independent news and stats from footymad.net
+# LFC Online - the definitive Liverpool website. Independent news and stats from footymad.net
 
 **_Entertainment & Sports Agency Privacy Policy_**
 
@@ -8,7 +8,7 @@
 
 Your privacy is of the utmost importance to us. We gather certain types of information about our users, therefore we feel you should fully understand the terms and conditions surrounding the capture and use of that information. Please find below our privacy policy. 
 
-We are Entertainment & Sports Agency Limited and we own and operate this website ('Liverpool FC - LFC Online', at www.lfconline.com). Our registered address is 4th Floor, Ashworth House, Manchester Road, Burnley, Lancs BB11 1TT. Please read the following policy to understand how we will deal with your personal data after it has been collected by us through your use of one of our platforms. Those platforms include our website, and any other channels as they evolve. 
+We are Entertainment & Sports Agency Limited and we own and operate this website ('LFC Online', at www.lfconline.com). Our registered address is 4th Floor, Ashworth House, Manchester Road, Burnley, Lancs BB11 1TT. Please read the following policy to understand how we will deal with your personal data after it has been collected by us through your use of one of our platforms. Those platforms include our website, and any other channels as they evolve. 
 
 **_Compliance with legislation_**
 
@@ -66,6 +66,6 @@ We may amend this policy from time to time however we assure you that we only us
 
 Some information and e-mails sent to us may be used as testimonials but no e-mail address or contact details will be displayed. 
 
-**_Contacting Us_** If you have any questions or concerns about the information we hold about you, you can contact us by e-mailing us at 
+**_Contacting Us_** If you have any questions or concerns about the information we hold about you, you can get in touch by filling in a short contact form, which can be reached by 
 
-[privacy@esagroup.co.uk.](mailto:privacy@esagroup.co.uk)
+[_clicking here_.](http://www.footymad.net/feedback/loadcont.asp?CID=EMFM&type=gen)
