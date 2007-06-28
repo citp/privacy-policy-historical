@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pollingpoint.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617125128id_/http%3A//pollingpoint.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pollingpoint.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628093829id_/http%3A//www.pollingpoint.com/privacy) for the most accurate reproduction.*
 
 # PollingPoint | A Nationwide Network of Millions of People Inspiring Public Debate
 
@@ -38,7 +38,7 @@ This Privacy Policy does not protect you when you send content, business informa
 
 ##### C. Children
 
-We are committed to protecting the privacy of children. PollingPoint is not designed or intended to attract children under the age of 18. We do not collect Personally Identifiable Information from any person we actually know is under the age of 18.
+We are committed to protecting the privacy of children. PollingPoint is not designed or intended to attract children under the age of 18. We do not collect Personally Identifiable Information from any person we actually know is under the age of 14.
 
 ##### D. Surveys – Personally Identifiable Information
 
