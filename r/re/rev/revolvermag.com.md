@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the revolvermag.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018050946id_/http%3A//revolvermag.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revolvermag.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628172240id_/http%3A//www.revolvermag.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Revolver Magazine | Privacy Policy
 
-[](https://web.archive.org/web/20061018050946id_/http%3A//features/index.html) |   
+[](https://web.archive.org/web/20070628172240id_/http%3A//features/index.html) |   
 ---|---  
   
 Future US, Inc. ("Future") believes that you should control the dissemination of the personally identifiable information that you provide when using the REVOLVERmag.com web site ("the Site"). Please review this policy carefully to understand how we will treat the personally identifiable information that you give to us.
