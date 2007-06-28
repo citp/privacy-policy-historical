@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maritz.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207091655id_/http%3A//www.maritz.com/maritz-privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maritz.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628154403id_/http%3A//www.maritz.com/maritz-privacy-statement.html) for the most accurate reproduction.*
 
 # Maritz Inc. - Privacy Statement
 
@@ -50,7 +50,7 @@ Maritz Inc. is not responsible for the privacy practices or the content of any o
 Use of Cookies and Other Technologies   
 A cookie is a small string of text that a web site can send to your browser. Cookies were designed to assist in distinguishing a user's browser from a previous visitor by saving and remembering any preferences that may have been set while browsing the particular site. We may use "cookie" or other technologies now or in the future to tailor our website to your interests based on the items you review while visiting our site; such technologies may also be used by us for other purposes related to your visit to our site or to further our business purposes. 
 
-Top of Page
+## Top of Page
 
 ##  Maritz Inc. Privacy Statement (European Union & Canadian Data Privacy)
 
@@ -106,4 +106,4 @@ Maritz may modify or amend this Statement from time to time by posting a revised
 Other Maritz Policies   
 This Statement is subject to other policies and procedures implemented by Maritz. For instance, if another Maritz policy or procedure grants broader rights to the Company relating to the collection, handling or disclosure of personal data, the Company may exercise those broader rights. 
 
-Top of Page
+## Top of Page
