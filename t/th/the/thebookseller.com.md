@@ -1,43 +1,27 @@
-> *The following text is extracted and transformed from the thebookseller.com privacy policy that was archived on 2006-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060501231500id_/http%3A//www.thebookseller.com%3Fpid%3D70) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebookseller.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628044920id_/http%3A//www.thebookseller.com/privacy.html) for the most accurate reproduction.*
 
-# theBookseller.com - Privacy Policy
+# theBookseller.com
 
-|  |  | Privacy policy  
----  
-  
-Bookseller Publications is a part of VNU Entertainment Media UK Ltd, which is owned by VNU Business Media Inc, a VNU company.
+### Introduction
 
-VNU Business Media Inc (VNUBM) works to develop useful internet services and websites that are safe, easy, and respectful of our customers. This website is maintained by VNU Entertainment Media UK. Our offices are located at 5th Floor, Endeavour House, Shaftesbury Avenue, London, WC2H 8TJ, UK. You can also reach us by telephone on +44 (0)20 7420 6006.
+Respecting the privacy of our customers and ensuring the confidentiality of customer information is critical to The Bookseller, Nielsen Business Media, and The Nielsen Company. The purpose of this Privacy Policy is to ensure that we interact with all of our customers in line with current legislation such as the Data Protection Act 1998 and in accordance with their wishes.
 
-VNUBM defines its customers as follows:   
-* Subscribers and readers  
-* End users of products and services  
-* Advertisers and sponsors of our products  
-* Inquiries  
-* Journalists and editorial contributors  
-* Press  
-* Other individuals with whom VNUBM maintains business relationships or communications
+### The policy
 
-Types of information gathered
+  * (1) The Bookseller will use your contact details (postal address, email address, telephone, mobile and fax numbers) to contact you regarding the product and/or services you have requested. This includes re-registration/renewal notifications, surveys on improving our service to you and/or invitations to exhibitions, seminars and shows.
+  * (2) From time to time The Bookseller may invite you to register in order to receive magazines, email newsletters, enter competitions, and receive services from Nielsen Business Media websites. This will require you to confirm personal information such as your name, email address, home and work postcodes. This information is mandatory and is required by The Bookseller for security purposes and enable The Bookseller to supply a reasonable level of services to users and our advertisers. We will ask for information such as job function, company sector, company/ name and date of birth. During registration, you will also be asked to choose a password for future access to the relevant site(s).
+  * (3) The Bookseller offers you the chance to opt in to receive additional information from The Bookseller and its associated companies by email, telephone and/or SMS. This includes other products/services that The Bookseller and its associated companies offer and that The Bookseller feels will be of interest to you.
+  * (4) The Bookseller offers you the chance to opt in to receive marketing information from other carefully selected organisations by email, telephone and/or SMS. The Bookseller will only pass on these details if you opt in. The Bookseller takes all measures possible to ensure that the contact you receive will be from reputable organisations. The Bookseller however cannot accept any responsibility for use of the data once it has been passed on.
+  * (5) The Bookseller offers you the chance to opt out of receiving additional information from The Bookseller and its associated companies by post. This includes all other products/services that The Bookseller and its associated companies offer.
+  * (6) The Bookseller offers you the chance to opt out of receiving marketing information from other carefully selected organisations by post. The Bookseller takes all measures possible to ensure that the contact you receive will be from reputable organisations. The Bookseller cannot however accept any responsibility for use of the data once it has been passed on.
+  * (7) Aggregate statistical information gathered from The Bookseller registration forms may be passed on to advertisers or others regarding sales or website usage. At no point will this include personal identifying information.
+  * (8) At all times a recipient of a The Bookseller product and/or service will have the opportunity to amend their contact details and/or to opt in or out of any of the options listed above in points 3, 4, 5 and 6. You can also request, at any time, to have your personal details flagged on the The Bookseller databases to ensure you do not continue to receive such information. We will not actually delete your record from the The Bookseller databases as we would no longer be able to identify you, which could lead to you receiving information from us in the future. To action any of these requests please contact the relevant customer care department of the product/service you subscribe to.
+  * (9) You have the right to be told what personal information we hold about you on our databases. You should write to Stepanie McNamara, The Bookseller, Endeavour House, 189 Shaftesbury Avenue, London WC2H 8TJ. In your letter you must state your full name, your address and all publications and/or services from The Bookseller to which you know you subscribe. A small administration charge of £5.00 will be made for fulfilling this request.
+  * (10) The Bookseller may make anonymous use of information to help diagnose faults, manage the system and gather broad demographic information about our users in general. This information will be stripped of all details that could identify you personally. For example, we may use IP addresses to help fix performance problems with our server.
+  * (11) The Bookseller uses all reasonable precautions to keep the personal information disclosed to it secure.
+  * (12) This statement does not extend to sites that are linked to The Bookseller site but which are not part of the Nielsen Business Media network. You should refer to those sites for further details about their use of your personal information. The Bookseller is not responsible for the content or the privacy policies of third party web sites linked to this site.
+  * (13) If you use a The Bookseller website certain information is automatically collected so that delivery can be made of the service. Cookies may be stored on your machine by your browser. You can set your browser to disable cookies, but then you might find some website features will not work.
+  * (14) When you request a page from the site's web server, the server automatically collects some information about your system, including your IP address. The Bookseller collects the minimum information necessary to make the service work - this information is essential to send the pages back across the Internet to the right computer.
+  * (15) The Bookseller uses "SiteCensus" to analyse traffic to the The Bookseller site. SiteCensus does not create individual profiles for visitors. If you wish to obtain more information about SiteCensus contact [webeditor@bookseller.co.uk](mailto:webeditor@bookseller.co.uk "Email the web editor")
 
-There are two primary types of information provided by our customers. The definitions and treatments of these types are as follows:  
- _Financial Information_  
-Payment information gathered during the registration process - including but not limited to, credit card numbers, financial institutions, and expiration dates - is considered Financial. This information is not distributed under any circumstance.
 
- _Professional Information_  
-Data that customers provide to Bookseller Publications through various methods of communication with Bookseller Publications is considered professional information that is stored and managed for VNUBM's internal use. Professional data includes, but is not limited to, name, address, company name, company address, phone number, fax number, email address, as well as questions answered on survey or subscription forms. Data captured when customer registers for or purchases products on a VNUBM website, as well as during a visit with another VNUBM customer, is also considered professional information and may also be stored for VNUBM's internal use. Professional information may be, upon the consent of VNUBM, shared with other organisations or VNUBM customers for the purpose of facilitating business relationships in our customers’ best interests.
-
-VNUBM will accept, acknowledge and maintain any customer's request to opt out of either future communication from VNUBM or communication from a third party to whom VNUBM provided the customer's information.
-
-We will accept opt-out requests as follows:   
-* By Sender: VNUBM or 3rd party  
-* By Product: i.e. TheBookseller.com  
-* By Medium: Mail, Phone, Fax, Email (or All)
-
-Some VNUBM websites use Cookies. Cookies are nothing more than a simple text file. They are not executable programs, and consequently it is impossible for a cookie to contain a virus, or any other application. Cookies are also very small, and you run no risk of filling your hard drive with too many cookies.  
-Any queries/questions:  
-If you have any questions or concerns about your customer information or your request to opt out of communications from VNUBM or its third party partners, please contact our office via [e-mail](mailto:listproblems@bookseller.co.uk), telephone +44 (0)20 7420 6006, or FAX +44 (0)20 7420 6177.
-
-This site recognises the home servers of visitors, but not their e-mail addresses. Individually identifiable e-mail addresses are not captured or stored unless they are provided. Persons who communicate with Bookseller Publications, and supply us with an e-mail address, may receive future communications by e-mail or telephone. Persons who do not wish to receive e-mail messages may contact Bookseller Publications and ask to be removed; to do so, send an [e-mail](mailto:listproblems@bookseller.co.uk) and specify your name, company name and e-mail address. As such, Bookseller Publications supports the customer's right to opt out. Persons who request information about Bookseller Publications, and who supply us with their name and address will be added to our database to receive the requested information.
-
-| 
