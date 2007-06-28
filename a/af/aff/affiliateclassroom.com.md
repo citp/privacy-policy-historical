@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the affiliateclassroom.com privacy policy that was archived on 2006-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061227021817id_/http%3A//affiliateclassroom.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliateclassroom.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628234932id_/http%3A//www.affiliateclassroom.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Affiliate Classroom - www.affiliateclassroom.com
 
-**Affiliate Classroom, Inc. Privacy Policy**
+## **Affiliate Classroom, Inc. Privacy Policy**
 
 Thank you for visiting Affiliate Classroom, Inc.'s ("Affiliate Classroom") personal data management and e-commerce Internet web site ("Site") located at the URL www.affiliateclassroom.com. This Privacy Policy details certain policies implemented throughout Affiliate Classroom governing Affiliate Classroom's use of personally identifiable information provided to Affiliate Classroom via this Site.
 
@@ -42,8 +42,14 @@ We may employ procedural and technological measures, consistent with industry pr
 
 **Correction/Updating Personally Identifiable Information**
 
-Affiliate Classroom provides you with the ability to review, correct and delete any of the personally identifiable information that you have provided to us.  If you wish to review or correct any information you have provided to us, **[you may access your account and review, correct and delete your personally identifiable information]** **[or you may contact us by email at: privacy@affiliateclassroom.com.]**  
-If you have any questions regarding this Privacy Policy please contact us by the **[link- contact us page]** or via email at: privacy@affiliateclassroom.com.
+Affiliate Classroom provides you with the ability to review, correct and delete any of the personally identifiable information that you have provided to us.  If you wish to review or correct any information you have provided to us,
+
+  * you may [access your account](https://web.archive.org/memberships/) and review, correct and delete your personally identifiable information
+  * or you may contact us by email at: [privacy@affiliateclassroom.com](mailto:privacy@affiliateclassroom.com).
+
+
+
+If you have any questions regarding this Privacy Policy please [contact us](https://web.archive.org/web/20070628234932id_/http%3A//www.affiliateclassroom.com/contactus.php) or via email at: privacy@affiliateclassroom.com.
 
 This Privacy Policy was last updated: April 1, 2006  
 This Privacy Policy is effective as of: April 1, 2006
