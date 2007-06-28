@@ -1,23 +1,56 @@
-> *The following text is extracted and transformed from the xpert4u.co.uk privacy policy that was archived on 2006-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060929193129id_/http%3A//www.xpert4u.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xpert4u.co.uk privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629015802id_/http%3A//www.xpert4u.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policies of Nokia Samsung Motorola on 3 Mobile T Mobile Orange Mobile Phone Shop
+# Privacy Policies - Xpert4u.co.uk
 
-Privacy Policy  
-  
-By using this Web site and submitting any personal information, you consent to the collection and use of this information by **Xpert4u.co.uk** , its partners, subsidiaries and affiliates consistent with this privacy policy. 
+The concept of privacy holds a paramount place in today's scenario henceforth; the Company envisages certain privacy policy, so that the personal and other information of the customers can be preserved. The Company endeavours to take all efforts which are required for maintaining online privacy norms on up-to-date basis which shows you the way towards safe and secured transactions. **We are registered under Data Protection Act, 1998, DPR No: Z9657804.**
 
-**Xpert4u.co.uk** wants to give you the comfort and confidence so that we can serve your needs better. In that effort, we respect and protect the privacy of those who visit or use our Website. 
+**1\. Purpose of this policy:**
 
-You agree that any information you provide to us will be true, accurate, current and correct. You authorise **Xpert4u.co.uk** to retain, and use information about you collected at several different points on our websites. Such information includes your name (either your name, company, or organisation's name), address, phone number, e-mail address, and other information gathered through the applicable process. 
+> • to assure you that we recognise and fully respect the privacy and personal data of the visitors to this website and   
+>  • to explain what personal information we collect from this website and how we ensure its' best protection.
 
-**Xpert4u.co.uk** believes that knowing more about you will enable us to serve you better. It permits us to personalise the content and services we offer to you. It also permits us to target advertising for products and services of your interests and tastes. 
+By your access to and use of this website you agree to our processing, storing and using that information in accordance with the principles set out in this Privacy Policy.  
+**  
+2\. Collection of Information:**
 
-We will not disclose any of your above collected information outside of the **Xpert4u.co.uk** except for fraud prevention purposes and/or if required/obliged by law or Governmental or judicial bodies or agencies or to our regulators under proper authority, or under a strict code of secrecy to sub-contractors or persons or companies acting as our business partners or in any way related to **Xpert4u.co.uk** or where we have your consent or we have previously informed you. 
+We collect personal information when you register for any of our services or otherwise voluntarily provide such information. We may use cookies and other technologies to enhance your online experience and to learn about how you use our services in order to improve the quality of our services.
 
-Like most websites, we use small bits of data called cookies, stored on users' computers to simulate a continuous connection. Cookies let us "remember" information about your preferences and allow us to serve you better. 
+We offer you choices when we ask for personal information, whenever reasonably possible. We will limit the collection and use of your information to a minimum. We will only collect such information as is required to help you avail the services or keeping you informed about the products and services offered by the Company or its associates. The information you provide may also be used for analytical and statistical purposes. 
 
-We use cookie technology to track which pages on the site our visitors view and which web browsers our visitors use. We may also use cookies to help you perform searches on the Xpert4u site more efficiently and more effectively. 
+**3\. Uses of Information:**
 
-This independently owned website acts solely as an advertising and marketing vehicle for third party service provider and, as such, the owners, webmasters and marketing professionals of this website are unable to offer any kind of advice related to the products or services advertised on the website. 
+We may use personal information to provide the services you've requested, including services that display customized content and advertising. We may also use personal information for auditing, research and analysis to operate and improve our technologies and services. We may also share information with third parties, subject to your prior consent and without consent in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. 
 
-Protecting your personal information is important to us. We handle all your personal information, if any, strictly in accordance with the Data Protection Act 1998. 
+**4\. Disclosure of Information:**
+
+We do not share, sell or rent your e-mail, postal address, or any other data we hold about you to any third party, unless a prior consent is obtained from you. We may however disclose your personal information as and when required under law, in cases where it is obligatory to do so. The transaction information of the registered users is saved to pay you the cashback and keep you updated about the new policies and best deals on our web site.
+
+We make good faith efforts to provide you access to your personal information upon request and to let you correct such data if it is inaccurate and delete it, when reasonably possible. 
+
+**5\. Security of Information:**
+
+We will take all reasonable steps to safeguard the security and confidentiality of any information you provide to us. We cannot however guarantee the security of any information you disclose online. You accept the inherent security implications of providing information over the Internet and will not hold us responsible for any breach of security or disclosure of information unless we have been negligent. Your personal information will be preserved within the Company or on its behalf wherever it is mandatory to do so and for this purpose adequate steps will be pursued to shield the personal information from unlawful access.
+
+**6\. Access to collected information:**
+
+We provide site members with access to all information that we maintain about them, including transaction and contact information upon proper verification. The same can be provided to you on request, in case the members experience any doubts.
+
+**7\. Cookies**
+
+To facilitate your use of our website and to collect aggregate information, we may use “cookies”. Cookies are merely text files, used to identify individual users. They are placed in computer’s browser to store preferences. Cookies, are not plug ins nor are they programs. They are stored on the computer's hard drive and can be deleted at any time. When you visit the website again, the cookie allows that site to recognize your browser.
+
+Cookies, by themselves, do not tell us email address or other personal information unless a person choose to provide this information to us by, for example, registering at our site. They do not contain any personal information about you. Cookies do not act maliciously on computer systems. 
+
+**To view our Cookie Policy, please** [click here](https://web.archive.org/web/20070629015802id_/http%3A//www.xpert4u.co.uk/cookies_notice.html).
+
+**8\. Changes to Privacy Policy** :
+
+We reserve the right to revise this policy at any time. If this privacy policy changes in any way, we will place an updated version on this page. Regularly reviewing this page ensures you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with others. 
+
+**9\. Consent** :
+
+By using this website you consent to the collection and use of your personal information in the manner set out above.
+
+**10\. More Information**
+
+If you have any questions regarding the privacy policy of the Company or require any further information please send your request by email to [info@ukonlinemarket.co.uk](mailto:info@ukonlinemarket.co.uk).
