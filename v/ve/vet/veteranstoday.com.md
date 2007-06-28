@@ -1,19 +1,25 @@
-> *The following text is extracted and transformed from the veteranstoday.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215112624id_/http%3A//www.veteranstoday.com/gate.html%3Fname%3DMission) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veteranstoday.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628161339id_/http%3A//www.veteranstoday.com/gate.html%3Fname%3DMission) for the most accurate reproduction.*
 
-# Veterans Today - U.S. Military Veterans - VA Home Loans, Vet Jobs, VA Benefits, VA Hospitals, VA Administration - Mission
+# : Veterans Today - News for U.S. Military Veterans - VA Home Loans, Vet Jobs, VA Benefits, VA Hospitals, VA Administration
+
+[Login to Forum.](http://www.veteranstoday.com/modules.php?name=Your_Account&stop=1) Not a Member? [Join Now!](http://www.veteranstoday.com/gate.html?name=Your_Account&op=new_user) \-------------------------------------------------------------------------00000000000000000000000-[](http://visitor.constantcontact.com/email.jsp?m=1101630135805)[](http://visitor.constantcontact.com/email.jsp?m=1101630135805)[](http://visitor.constantcontact.com/email.jsp?m=1101630135805)
 
 |    
+  
+
+
+  
+[](https://web.archive.org/web/20070628161339id_/http%3A//www.veteranstoday.com/banners.php?op=click&bid=65)
+
+  
 | | 
 
-Military Veterans News - Miission, Privacy, Code of Ethics
-
-| 
-
-**\--** **Our Mission -** Code of Ethics - Privacy - Terms of Use **-** Veterans Today \- Hire Veterans 
+Mission for Veterans Today
 
 |   
----|---  
-|   
+  
+---  
+|   |   
   
 Veterans Today aspires to unite the U.S. Veterans Community by providing an empowering place whereby it can gather, commune, and lift up one another in the service of each other.
 
@@ -95,21 +101,13 @@ Veterans Today aspires to unite the U.S. Veterans Community by providing an empo
 > **Changes to Privacy Policy**  
 >  If we decide to change our Privacy Policy, we will post those changes here so that you will always know what information we gather, how we might use that information, and to whom we will disclose it. If at any time, you have questions or concerns about our Privacy Policy, please feel free to email us at gm@veteranstoday.com
 > 
-> Effective March 25, 2006
+> Effective March 25, 2007
 
->  
-
-|   | [](http://www.veteranstoday.com/gate.html?name=VA_Home_Loan2) |   |  |   
+>    
   
-* * *
-
-|   
+* * *  
   
   [   
-Please visit our sponsor: Pioneer military veterans Lending](http://www.veteranstoday.com/gate.html?name=Pioneer_Military_Loans)
+Please visit our sponsor: Pioneer Military Lending](http://www.veteranstoday.com/gate.html?name=Pioneer_Military_Loans)
 
-military veterans veterans of war veterans military veterans veterans administration affairs hospitals soldiers iraq war
-
-|   
-|  |  |  |  |   
-|  |  |  |  | 
+military veterans of war veterans military veterans administration affairs hospitals soldiers iraq war
