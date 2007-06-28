@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ospreyobituaries.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214163155id_/http%3A//www.ospreyobituaries.com/sitepages/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ospreyobituaries.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628154048id_/http%3A//ospreyobituaries.com/sitepages/privacy.asp) for the most accurate reproduction.*
 
 # Osprey Obituaries
 
@@ -73,4 +73,4 @@ E: [ privacy@ospreymedialp.com](mailto:privacy@ospreymedialp.com)
 
 Any rights not expressly granted herein are reserved. 
 
-© 2006 Osprey Media LP, All rights reserved. Unauthorized duplication or publication of any materials from this Site is expressly prohibited. 
+© 2007 Osprey Media LP, All rights reserved. Unauthorized duplication or publication of any materials from this Site is expressly prohibited. 
