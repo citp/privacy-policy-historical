@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the ospreyobituaries.com privacy policy that was archived on 2006-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061214163155id_/http%3A//www.ospreyobituaries.com/sitepages/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ospreyobituaries.com privacy policy that was archived on 2007-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070628154048id_/http%3A//ospreyobituaries.com/sitepages/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="GENERATOR" content="Microsoft FrontPage 6.0">
 <meta name="ProgId" content="FrontPage.Editor.Document">
 <title>Osprey Obituaries</title>
 
@@ -65,7 +65,8 @@ if (bName == "Netscape") {
 }
 
 function 
-formHandler(a) {
+formHandler() {
+	var a = document.forms.site_browser.site;
 	document.location.href = a[a.selectedIndex].value;
 }
 
@@ -80,13 +81,17 @@ formHandler(a) {
 <table width="750" border="0" cellpadding="3" cellspacing="0" bgcolor="#000000">
 	<tbody><tr>
 		<td align="left"><img src="/images/osprey_logo.gif" border="0"></td>
-		
+		<form name="site_browser"></form>
 		<td align="right">
-		<select name="site" size="1" onchange="javascript:formHandler(this)" style="font-size: 8pt; padding-left:4px; padding-right:4px; padding-top:1px; padding-bottom:1px; ">
-  <option>Select An Osprey Newspaper</option>
-  <option value="http://www.bancroftthisweek.com">Bancroft - Bancroft this Week</option>
+
+<select name="site" size="1" onchange="javascript:if ( this[this.selectedIndex].value != '' ) { formHandler() }" style="font-size: 8pt; padding-left:4px; padding-right:4px; padding-top:1px; padding-bottom:1px; ">
+  <option value="">Select an Osprey Publication:</option>
+  <option value="">&nbsp;</option>
+  <option value="">N E W S P A P E R S ----------------------------------------------</option>
+
+  <option value="http://www.bancroftthisweek.com/webapp/sitepages/">Bancroft - Bancroft this Week</option>
   <option value="http://www.thebarrieexaminer.com/webapp/sitepages/">Barrie - Barrie Examiner</option>
-  <option value="http://www.barrysbaythisweek.com">Barry's Bay - Barry's Bay this Week</option>
+  <option value="http://www.barrysbaythisweek.com/webapp/sitepages/">Barry's Bay - Barry's Bay this Week</option>
   <option value="http://www.intelligencer.ca/webapp/sitepages/">Belleville - Intelligencer</option>
   <option value="http://www.brantfordexpositor.ca/webapp/sitepages/">Brantford - Expositor</option>
   <option value="http://www.chathamdailynews.ca/webapp/sitepages/">Chatham - Chatham Daily News</option>
@@ -94,71 +99,74 @@ formHandler(a) {
   <option value="http://www.northumberlandtoday.com/webapp/sitepages/">Colborne - Colborne Chronicle</option>
   <option value="http://www.theenterprisebulletin.com/webapp/sitepages/">Collingwood - Enterprise Bulletin</option>
   <option value="http://www.standard-freeholder.com/webapp/sitepages/">Cornwall - Standard Freeholder</option>
-  <option value="http://www.voiceofthefarmer.com">Dresden - Voice of the Farmer</option>
+  <option value="http://www.voiceofthefarmer.com/webapp/sitepages/">Dresden - Voice of the Farmer</option>
   <option value="http://www.dunnvillechronicle.com/webapp/sitepages/">Dunnville - Dunnville Chronicle</option>
   <option value="http://www.elliotlakestandard.ca/webapp/sitepages/">Elliot Lake - Standard</option>
   <option value="http://www.midnorthmonitor.com/webapp/sitepages/">Espanola - Mid-North Monitor</option>
-  <option value="http://times.niagaracommunitynewspapers.com/webapp/sitepages/">Fort Erie - Times</option>
+  <option value="http://www.forterietimes.ca/webapp/sitepages/">Fort Erie - Times</option>
   <option value="http://www.gananoquereporter.com/webapp/sitepages/">Gananoque - Gananoque Reporter</option>
-<!--  <option value="http://www.haldimandreview.com/webapp/sitepages/">Haldimand - Haldimand Review</option> -->
   <option value="http://www.haliburtonecho.ca/webapp/sitepages/">Haliburton - Haliburton Echo</option>
   <option value="http://www.thepost.on.ca/webapp/sitepages/">Hanover - The Post</option>
+  <option value="http://www.innisfilexaminer.ca/webapp/sitepages/">Innisfil - Innisfil Examiner</option>
   <option value="http://www.kingstonthisweek.com/webapp/sitepages/">Kingston - Kingston This Week</option>
   <option value="http://www.thewhig.com/webapp/sitepages/">Kingston - Kingston Whig Standard</option>
   <option value="http://www.northernnews.ca/webapp/sitepages/">Kirkland Lake - Northern News</option>
-  <option value="http://www.thepost.ca/webapp/sitepages/">Lindsay - Daily Post</option>
+  <option value="http://www.thepost.ca/webapp/sitepages/">Lindsay - The Lindsay Post</option>
   <option value="http://www.markdalestandard.com/webapp/sitepages/">Markdale - Markdale Standard</option>
   <option value="http://www.midlandfreepress.com/webapp/sitepages/">Midland - Free Press</option>
-  <option value="http://www.mindentimes.ca/">Minden - Minden Times</option>
+  <option value="http://www.mindentimes.ca/webapp/sitepages/">Minden - Minden Times</option>
   <option value="http://www.napaneeguide.com/webapp/sitepages/">Napanee - Napanee Guide</option>
   <option value="http://advance.niagaracommunitynewspapers.com/webapp/sitepages/">Niagara-on-the-Lake - Niagara Advance</option>
-  <option value="http://falls.niagaracommunitynewspapers.com/webapp/sitepages/">Niagara Falls - Niagara News</option>
   <option value="http://www.niagarafallsreview.ca/webapp/sitepages/">Niagara Falls - Review</option>
   <option value="http://west.niagaracommunitynewspapers.com/webapp/sitepages/">Niagara Falls- W. Niagara Community Newspapers</option>
   <option value="http://www.nugget.ca/webapp/sitepages/">North Bay - North Bay Nugget</option>
-  <option value="http://www.northkentleader.com">North Kent - North Kent Leader</option>
+  <option value="http://www.northkentleader.com/webapp/sitepages/">North Kent - North Kent Leader</option>
   <option value="http://www.orilliapacket.com/webapp/sitepages/">Orillia - Packet and Times</option>
   <option value="http://www.owensoundsuntimes.com/webapp/sitepages/">Owen Sound - Sun Times</option>
   <option value="http://www.thedailyobserver.ca/webapp/sitepages/">Pembroke - Daily Observer</option>
   <option value="http://www.thepeterboroughexaminer.com/webapp/sitepages/">Peterborough - Peterborough Examiner</option>
-  <option value="http://www.petroliatopic.com">Petrolia - Petrolia Topic</option>
+  <option value="http://www.petroliatopic.com/webapp/sitepages/">Petrolia - Petrolia Topic</option>
+  <option value="http://www.countyweeklynews.ca/webapp/sitepages/">Picton - County Weekly News</option>
   <option value="http://www.northumberlandtoday.com/webapp/sitepages/">Port Hope - Port Hope Evening Guide</option>
   <option value="http://www.theobserver.ca/webapp/sitepages/">Sarnia - Observer</option>
   <option value="http://www.saultstar.com/webapp/sitepages/">Sault Ste Marie - Sault Star</option>
   <option value="http://www.saultthisweek.com/webapp/sitepages/">Sault Ste Marie - Sault This Week</option>
-  <option value="http://stkitts.niagaracommunitynewspapers.com/webapp/sitepages/">St. Catharines - St. Catharines News</option>
+  <option value="http://stkitts.niagaracommunitynewspapers.com/webapp/sitepages/">St. Catharines - St. Catharines Shopping News</option>
   <option value="http://www.stcatharinesstandard.ca/webapp/sitepages/">St. Catharines - Standard</option>
   <option value="http://www.communitypress.ca/webapp/sitepages/">Stirling - Community Press</option>
   <option value="http://www.thesudburystar.com/webapp/sitepages/">Sudbury - Sudbury Star</option>
   <option value="http://thorold.niagaracommunitynewspapers.com/webapp/sitepages/">Thorold - Thorold News</option>
-  <option value="http://www.tilburymarketplace.com">Tilbury - Tilbury Market Place</option>
   <option value="http://www.timminspress.com/webapp/sitepages/">Timmins - Daily Press</option>
   <option value="http://www.trentonian.ca/webapp/sitepages/">Trenton - Trentonian</option>
-  <option value="http://www.thewallaceburgnews.ca/">Wallaceburg - Wallaceburg News</option>
+  <option value="http://www.thewallaceburgnews.ca/webapp/sitepages/">Wallaceburg - Wallaceburg News</option>
   <option value="http://www.wellandtribune.ca/webapp/sitepages/">Welland - Tribune</option>
   <option value="http://welland.niagaracommunitynewspapers.com/webapp/sitepages/">Welland - Welland News</option>
-</select>
-		
+  
+  <option value="">&nbsp;</option>
+  <option value="">M A G A Z I N E S ---------------------------------------------------</option>
+  <option value="http://www.golfontario.ca">Ontario Golf</option>
+  <option value="http://www.hamiltonmagazine.com">Hamilton Magazine</option>
+  <option value="http://www.muskokamagazine.com">Muskoka Magazine</option>
+  <option value="http://www.niagaramag.ca">Niagara Magazine</option>
+  <option value="http://www.saultgoodlife.com">Sault Good Life</option>
+  <option value="http://www.simcoelife.ca">Simcoe Life</option>
+
+ </select>&nbsp;
+
+
 		</td>
+		
 	</tr>
 </tbody></table>
 
-<table width="750" border="0" cellpadding="0" cellspacing="0" bgcolor="#ff0000">
+<table width="750" height="25" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
-		<td width="25%" align="center"><a href="http://ospreynewsnetwork.com/lp/firstlogin.asp"><img src="/images/h_digitaledition.gif" alt="Digital Edition" border="0"></a></td>
-		<td width="1"><img src="/images/top_seperator.gif" border="0"></td>
-
-
-		<td width="25%" align="center"><a href="http://driving.canada.com/?branding=sudbury">
-        <img src="/images/h_ospreywheels.gif" alt="Osprey Wheels" border="0"></a></td>
-		<td width="1"><img src="/images/top_seperator.gif" border="0"></td>
-
-		<td width="25%" align="center"><a href="http://www.ospreyclassifiednetwork.com/classifieds/">
-        <img src="/images/h_ospreyclassifieds.gif" alt="Osprey Classifieds" border="0"></a></td>
-			<td width="1"><img src="/images/top_seperator.gif" border="0"></td>
-			
-       <td width="25%" align="center"><a href="http://www.ospreycareers.com/">
-       <img src="/images/h_ospreycareers.gif" width="150" height="25" alt="Osprey Careers" border="0"></a></td> 
+		<td><a href="http://ospreynewsnetwork.ca"><img src="http://library.ospreymedialp.com/omlpbar/750/images/bar_01.gif" width="123" height="25" border="0"></a></td>
+		<td><a href="http://www.ospreymedialp.com/subscriptions"><img src="http://library.ospreymedialp.com/omlpbar/750/images/bar_02.gif" width="126" height="25" border="0"></a></td>
+		<td><a href="http://ospreyobituaries.com"><img src="http://library.ospreymedialp.com/omlpbar/750/images/bar_03.gif" width="127" height="25" border="0"></a></td>
+		<td><a href="http://ospreywheels.com"><img src="http://library.ospreymedialp.com/omlpbar/750/images/bar_04.gif" width="126" height="25" border="0"></a></td>
+		<td><a href="http://www.ospreyclassifiednetwork.com"><img src="http://library.ospreymedialp.com/omlpbar/750/images/bar_05.gif" width="123" height="25" border="0"></a></td>
+		<td><a href="http://ospreycareers.com"><img src="http://library.ospreymedialp.com/omlpbar/750/images/bar_06.gif" width="125" height="25" border="0"></a></td>
 	</tr>
 </tbody></table>
 <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="750">
@@ -173,11 +181,11 @@ formHandler(a) {
 		
 
 		<td><img src="/images/tabs_01.gif" width="8" height="30" alt=""></td>
-		<td class="topTabOn" nowrap=""><a href="/sitepages/?sr=1&amp;new=1" class="tab">Obituaries - Past 7 Days</a></td>
+		<td class="topTabOn" nowrap=""><a href="/sitepages/static/results_35_1.asp" class="tab">Obituaries - Past 7 Days</a></td>
 		<td><img src="/images/tabs_02.gif" width="10" height="30" alt=""></td>
 
 		<td><img src="/images/tabs_01.gif" width="8" height="30" alt=""></td>
-		<td class="topTabOn" nowrap=""><a href="/sitepages/?sr=1&amp;new=1" class="tab">Memoriams - Past 7 Days</a></td>
+		<td class="topTabOn" nowrap=""><a href="/sitepages/static/mresults_35_1.asp" class="tab">Memoriams - Past 7 Days</a></td>
 		<td><img src="/images/tabs_02.gif" width="10" height="30" alt=""></td>
 
 
@@ -220,7 +228,7 @@ formHandler(a) {
 		<table border="0" width="100%" cellpadding="0" cellspacing="0">
 		<tbody><tr>
 			<td align="left">
-				Thursday, December 14, 2006
+				Thursday, June 28, 2007
     		</td>
 			<td align="right">
 			
@@ -416,7 +424,7 @@ privacy@ospreymedialp.com</a>  <br>
 <br>
 Any rights not expressly granted herein are reserved. <br>
 <br>
-© 2006 Osprey Media LP, All rights reserved. Unauthorized duplication or 
+© 2007 Osprey Media LP, All rights reserved. Unauthorized duplication or 
 publication of any materials from this Site is expressly prohibited. <br>
 &nbsp;
 
@@ -429,7 +437,7 @@ publication of any materials from this Site is expressly prohibited. <br>
 if (typeof OAS_rns == "undefined") OAS_rns = new String (Math.random()).substring(2, 11);
 document.write('<scr'+'ipt LANGUAGE="JavaScript1.1" SRC="http://network-ca.247realmedia.com/RealMedia/ads/adstream_jx.ads/Osprey-Obituaries.com/1'+OAS_rns+'@Top1,x10,x15,Position3!x10?JX"></scr'+'ipt>');
 // -->
-</script><script language="JavaScript1.1" src="http://network-ca.247realmedia.com/RealMedia/ads/adstream_jx.ads/Osprey-Obituaries.com/1521287397@Top1,x10,x15,Position3!x10?JX"></script>
+</script><script language="JavaScript1.1" src="http://network-ca.247realmedia.com/RealMedia/ads/adstream_jx.ads/Osprey-Obituaries.com/1343011181@Top1,x10,x15,Position3!x10?JX"></script>
 
 
 <br><br>
@@ -470,7 +478,7 @@ google_color_url = "216500";
 
 		
 
-    	<a href="/sitepages/?sr=1&amp;new=1">Obituaries</a> | 
+    	<a href="/sitepages/static/results_35_1.asp">Obituaries</a> | 
     	<a href="/sitepages/search.asp">Search</a> |
     	<a href="/sitepages/addobit.asp">Submit</a> | 
     	<a href="/sitepages/?sr=1&amp;dir=1">Directory</a> |
@@ -478,7 +486,7 @@ google_color_url = "216500";
     
     </td>
     <td align="right" style="padding-top: 5px">
-    	<a href="/sitepages/email.asp" class="black">©2006 OspreyObituaries.com</a> |
+    	<a href="/sitepages/email.asp" class="black">©2007 OspreyObituaries.com</a> |
     	<a href="/sitepages/privacy.asp">Privacy</a> | 
     	<a href="/sitepages/terms.asp">Terms</a> | 
     	<a href="#top">Top</a>
