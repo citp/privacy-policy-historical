@@ -1,0 +1,48 @@
+> *The following text is extracted and transformed from the aim.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629011650id_/http%3A//www.aim.com/tos/privacy_policy.adp) for the most accurate reproduction.*
+
+# AIM Privacy Policy
+
+Thank you for registering with AOL Instant Messenger ("AIM"). 
+
+This privacy policy governs your use of the AIM software, the AIM service, the AIM websites, (including AIM.com and AIMToday.com) and all other software, features, tools, websites, and services offered by or through AIM ("AIM Products") from AOL LLC and its business divisions, such as Netscape (collectively "AOL"). 
+
+When you register with AIM, and use AIM Products, you provide AIM and AOL with personally identifiable information (your "AIM information"). This Policy explains the information practices that apply to your AIM information. This Policy does not apply to information collected by third party Web sites linked to or otherwise accessible from offerings presented through AIM Products and by AOL. The information collected or received by third party Web sites is subject to their own privacy policies. 
+
+If you have registered with the AOL Network, please review the AOL Network's [Privacy Policy](http://about.aol.com/aolnetwork/aol_pp.html), which explains the information practices that apply to you as a registered AOL Network user. Additionally, if you were an existing AIM user who registered with the Netscape Network, this Privacy Policy supersedes the Netscape Network's Privacy Policy with respect to your continuing use of AIM. 
+
+Your AIM information consists of personally identifiable information collected or received about you when you register to use AIM or log in to AIM as a registered user and interact with AIM Products. Depending on how you use AIM Products, your AIM information may include registration-related information (such as name, home or work addresses, e-mail addresses, telephone and fax numbers, birth date or gender); transaction-related information (such as credit card or other preferred means of payment, or a history of products purchased through AIM); information about your visits to AIM or AOL Web sites and pages, and your responses to the offerings and advertisements presented on these sites and pages; information about the features or offerings from AIM or AOL that you use, and how frequently you use them); your billing and shipping information; customer service information about you as an AIM user or subscriber; and other information specifically related to your use of a particular AIM feature or offering. Your AIM information may be supplemented with additional information from other companies. 
+
+Your AIM information may also include certain technical information gathered by AIM and AOL when you use AIM Products. Some of the technical information that may be collected or received includes: the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using (e.g., Windows XP or Mac OS), CPU type (e.g. Pentium), your manner of connecting to the Internet (e.g, connection speed through narrowband or broadband access); Internet protocol address; other information about your geographic location; and the domain name of your Internet service provider. 
+
+When you register with AIM and use AIM Products, your AIM information may be collected and stored in the United States by AOL LLC as the operator of AIM. Additionally, AIM will use the Screen Name Service or other similar technology, to authenticate you on AIM, help store your registration and transaction-related information, and enable you to take advantage of offerings from AIM and AOL. 
+
+Your AIM information is used to operate and improve the features, offerings and content presented to you by AIM and AOL; to personalize the content and advertisements provided to you; to fulfill your requests for products, programs, and services; to communicate with you and respond to your inquiries; to conduct research about your use of AIM Products; and to help offer you other products, programs, or services that may be of interest. 
+
+Your AIM information may be shared within AOL and its business divisions. Your AIM information will not be shared with third parties unless it is necessary to fulfill a transaction you have requested, or in other circumstances in which you have consented to the sharing of your AIM information. AIM or AOL may use your AIM information to present offers to you on behalf of business partners and advertisers. These business partners and advertisers receive aggregate data about groups of AIM users, but do not receive information that personally identifies you. 
+
+AOL does not read your private online communications when you use any of the communication tools offered as AIM Products. If, however, you use these tools to disclose information about yourself publicly (for example, in chat rooms or online message boards made available by AIM), other online users may obtain access to any information you provide. 
+
+Your AIM information, including the contents of your online communications, may be accessed and disclosed in response to legal process (for example, a court order, search warrant or subpoena), or in other circumstances in which AOL has a good faith belief that AIM or AOL are being used for unlawful purposes. AOL may also access or disclose your AIM information when necessary to protect the rights or property of AIM or AOL, or in special cases such as a threat to your safety or that of others. 
+
+AOL may use agents and contractors in order to help operate AIM Products. If such agents and contractors have access to personally identifiable information, they are required to protect this information in a manner that is consistent with this Privacy Policy by, for example, not using the information for any purpose other than to carry out the services they are performing for AOL. 
+
+In the unlikely event that ownership of AIM was to change as a result of a merger or acquisition by another company, your AIM information may be transferred. AOL will provide you notice prior to any such transfer of your AIM information. If such a transfer results in a material change in the use of your AIM information, AOL will also provide you notice about the choices you have to decline to permit such a transfer. 
+
+AIM may use [cookies, web beacons, or similar technologies](http://about.aol.com/aolnetwork/beacons.html) to enhance and personalize your experience on AIM or AOL, including to operate and improve offerings through AIM; to help authenticate your identity when you visit and transact with AIM or AOL; to remember your preferences and registration information; enable a shopping cart; to present and help measure and research the effectiveness of AIM offerings, advertisements, and e-mail communications (by determining which AIM e-mails you open and act upon); and to customize the content and advertisements provide to you by AIM or AOL. 
+
+AIM and its advertisers may also use ad network providers, including AOL subsidiaries such as Advertising.com, to help present advertisements on AIM and other Web sites. These ad network providers may use cookies, web beacons, or similar technologies on your computer to help present, better target, and measure the effectiveness of their advertisements using data gathered over time and across their networks of Web pages to determine or predict the characteristics and preferences of their audience. AIM may share certain non-personally identifiable information about you as an AIM registered user (such as age or zip code) with certain ad network providers, including Advertising.com, to help them deliver more relevant advertisements through their ad networks. The use of cookies, web beacons, or similar technologies by Advertising.com and other ad network providers is subject to their own privacy policies, not AIM's. Find out [more](http://about.aol.com/aolnetwork/beacons.html) about ad network providers and the choices you have about these technologies. 
+
+AOL has established safeguards to help prevent unauthorized access to or misuse of your AIM information, but cannot guarantee that your personally identifiable information will never be disclosed in a manner inconsistent with this Privacy Policy (for example, in the event of unauthorized acts by third parties that violate applicable law or the policies of AIM or AOL. To protect your privacy and security, AOL uses passwords to help verify your identity before granting access or making corrections to any of your AIM information. 
+
+AIM is intended for a general audience, and children under the age of thirteen are not permitted to register with AIM. 
+
+If you have any questions or concerns about the AIM Privacy Policy or its implementation, you may contact us by clicking [here](mailto:AIMPrvcyPolicy@aol.com), or by sending mail to the following address:
+
+22000 AOL Way  
+Dulles, VA 20166
+
+The AIM Privacy Policy may be updated from time to time, and so you should review this Policy periodically. If there are significant changes to AIM's information practices, you will be provided with appropriate online notice. 
+
+AIM may in the future offer other special features and services, and if these features and services are not described in this Policy, you will be provided with additional privacy-related information. If you are a user of Enterprise AIM or a privately-labeled AIM service, additional privacy conditions may apply to your use of AIM. 
+
+Last updated December 15, 2006 
