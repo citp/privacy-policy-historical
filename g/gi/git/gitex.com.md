@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the gitex.com privacy policy that was archived on 2006-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060815115137id_/http%3A//www.gitex.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gitex.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628231021id_/http%3A//www.gitex.com/Privacy_en_gb.aspx) for the most accurate reproduction.*
 
 # GITEX | Privacy Policy
 
 Dubai World Trade Centre L.L.C. respects your privacy and is committed to protecting it. We provide this Privacy Statement to inform you of our Privacy Policy and practices, and of the choices you can make about what information is collected, the manner in which that information is collected and how that information is used.
 
-The dwtc.com website and its sub-domains are owned by Dubai World Trade Centre L.L.C., trading as Dubai World Trade Centre, a limited liability company incorporated in Dubai, United Arab Emirates, and having its principal office at Dubai International Convention and Exhibition Centre, Sheik Zayed Road, Convention Gate, P.O. Box 9292, Dubai, UAE. Telephone: +971-4-3321000, Fax: +971-4-3312173.
+The gitex.com website and its sub-domains are owned by Dubai World Trade Centre L.L.C., trading as Dubai World Trade Centre, a limited liability company incorporated in Dubai, United Arab Emirates, and having its principal office at Dubai International Convention and Exhibition Centre, Sheik Zayed Road, Convention Gate, P.O. Box 9292, Dubai, UAE. Telephone: +971-4-3321000, Fax: +971-4-3312173.
 
-For the purposes of this Privacy Statement "we", "our" and "us" refer to Dubai World Trade Centre L.L.C., "this website" collectively refers to the dwtc.com website and its sub-domains, and "you" and "your" refer to a specific individual or program accessing this website.
+For the purposes of this Privacy Statement "we", "our" and "us" refer to Dubai World Trade Centre L.L.C., "this website" collectively refers to the gitex.com website and its sub-domains, and "you" and "your" refer to a specific individual or program accessing this website.
 
   1. Governance  
 This website is governed in accordance with the federal laws of the United Arab Emirates and the laws of the Emirate of Dubai in the United Arab Emirates. The federal courts of the United Arab Emirates and the courts of the Emirate of Dubai in the United Arab Emirates shall have exclusive jurisdiction over any dispute arising out of your use of this website.
@@ -18,8 +18,7 @@ This information is used to help us better understand this website's usage, so t
   3. Cookies  
 Cookies are small pieces of information that your browser stores on your computer when requested by a website. They do not compromise your privacy or security, as each cookie can only be read by the same website that requested your browser to store the cookie. 
 
-We request your browser to store a cookie when you access this website and may request your browser to store one or more cookies when you make purchases, request or personalise information, or register yourself for certain services. Unless you explicitly opt to store additional information, our cookies only contain one or more sequential computer-generated identifiers. The cookies this website requests your browser to store are suffixed with "dwtc.com" and expire at the very latest after 365 days from the date on which they were last updated. This information is used to help us better understand this website's usage, so that we can improve our service to you and may also be used to provide content on this website based on your previous visits, including, but not limited to advertisements and promotions. Unless you explicitly opt to store additional information, we do not link information automatically collected by such means with personal information about you. Accepting to store the cookies requested by this website does not give us access to your personal information, but we may use the cookies to identify your computer. Most browsers automatically store cookies by default, but you can choose to refuse or selectively accept to store certain cookies by adjusting the preferences in your browser. However, if your browser refuses to store cookies, some features of this website may not be available to you and some pages on this website may not display properly. You can find information on popular browsers and how to adjust your cookie preferences at the following websites: Microsoft Internet Explorer: http://www.microsoft.com/...  
-Netscape Navigator: http://www.netscape.com/...  
+We request your browser to store a cookie when you access this website and may request your browser to store one or more cookies when you make purchases, request or personalise information, or register yourself for certain services. Unless you explicitly opt to store additional information, our cookies only contain one or more sequential computer-generated identifiers. The cookies this website requests your browser to store are suffixed with "gitex.com" and expire at the very latest after 365 days from the date on which they were last updated. This information is used to help us better understand this website's usage, so that we can improve our service to you and may also be used to provide content on this website based on your previous visits, including, but not limited to advertisements and promotions. Unless you explicitly opt to store additional information, we do not link information automatically collected by such means with personal information about you. Accepting to store the cookies requested by this website does not give us access to your personal information, but we may use the cookies to identify your computer. Most browsers automatically store cookies by default, but you can choose to refuse or selectively accept to store certain cookies by adjusting the preferences in your browser. However, if your browser refuses to store cookies, some features of this website may not be available to you and some pages on this website may not display properly. You can find information on popular browsers and how to adjust your cookie preferences at the following websites: Microsoft Internet Explorer:  http://www.microsoft.com/...  
 Mozilla Firefox: http://www.mozilla.org/...  
 Opera: http://www.opera.com/... Additionally, browsers such as Microsoft Internet Explorer 6 and Netscape 7.0 feature The Platform for Privacy Preferences (P3P) technology, which gives you the ability to make informed choices about the use of your personal information online. P3P-enabled browsers can be configured to automatically accept or refuse to store cookies, based on whether a website's P3P compact policy file meets your privacy preferences. We will make every effort to provide a P3P compact policy file for each cookie that this website requests your browser to store.
 
@@ -33,15 +32,15 @@ If we look to use your personal data for a new purpose, beyond what it was origi
 Your data may be held for up to 2 years after the termination of your relationship with us for the purposes of improving our services offered, after which time it is depersonalised and non-identifiable. We do not collect any additional information about you other than that outlined above.
   6. Access to your personal data  
 You have the right to see personal information we keep about you upon payment of a fee. To enquire about accessing your personal information please send an email to [data@dwtc.com](mailto:data@dwtc.com), or send postal mail to the following address:   
-DWTC World Trade Centre L.L.C.  
+Dubai World Trade Centre L.L.C.  
 P.O. Box 9292, Dubai, UAE 
 
 We will provide you with a readable copy of the personal data that we keep about you, within 40 days; subject to the provision of proof of your identity.
 
   7. Disclosure and Visitor choice  
-You may unsubscribe or opt-out of our services at any time. Where we disclose your personal data for those purposes stated, we provide you with the means to opt-out of disclosure by either indicating in a box at the point of the website where personal data is collected, by sending an email to [data@dwtc.com](mailto:data@dwtc.com) or by sending postal mail to the following address: 
+You may unsubscribe or opt-out of our services at any time. Where we disclose your personal data for those purposes stated, we provide you with the means to opt-out of disclosure by either indicating in a box at the point of the website where personal data is collected, by sending an email to [ data@dwtc.com](mailto:data@dwtc.com) or by sending postal mail to the following address: 
 
-DWTC World Trade Centre L.L.C.  
+Dubai World Trade Centre L.L.C.  
 P.O. Box 9292, Dubai, UAE   
 Where we disclose your personal data for purposes, which are different to those, stated we offer you the opportunity to consent prior to disclosure.
 
@@ -61,7 +60,7 @@ We reserve the right to change our Privacy Policy at any time without prior noti
   13. Contacting us  
 This privacy policy sets out n broad terms how we handle your personal information and safeguard our privacy. If you have any questions relating to our Privacy Policy send postal mail to the following address:   
 The Data Officer,  
-DWTC World Trade Centre L.L.C.  
+Dubai World Trade Centre L.L.C.  
 P.O. Box 9292, Dubai, UAE 
 
 
