@@ -1,21 +1,10 @@
-> *The following text is extracted and transformed from the yuku.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018052839id_/http%3A//www.yuku.com/homepage/privacy/t/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yuku.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628071830id_/http%3A//www.yuku.com/homepage/privacy/t/Yuku-Privacy.html) for the most accurate reproduction.*
 
-# Yuku - Yuku
-
-  * [About](http://www.yuku.com/homepage/about/t/About-Yuku.html)
-  * [Jobs](http://www.yuku.com/homepage/jobs/t/Yuku-Jobs.html)
-  * [Contact Us](http://www.yuku.com/homepage/contact/t/Contact-Yuku.html)
-  * [Privacy Policy](http://www.yuku.com/homepage/privacy/t/Yuku-Privacy.html)
-  * [Terms of Use](http://www.yuku.com/homepage/terms/t/Yuku-Terms.html)
-  * [FAQs](http://www.yuku.com/homepage/faq/t/Yuku-FAQ.html)
-
-
-
-## Privacy Policy
+# About Us - Privacy Policy
 
 ## Introduction
 
-Your privacy is of the utmost importance to Yuku. Our basic principles are: 
+Your privacy is of the utmost importance to Yuku. Our basic principles are:
 
   * We respect your privacy at Yuku
   * You control your personal information,
@@ -135,7 +124,6 @@ If you have any questions about this privacy policy still unanswered after revie
 564 Market Street, Suite 705  
 San Francisco, CA 94104  
 Attn: Privacy Officer  
-(415) 773-0400  
-
+(415) 773-0400 
 
 Effective: January 4, 2006.
