@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fullhentaimovies.com privacy policy that was archived on 2006-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061014062329id_/http%3A//fullhentaimovies.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullhentaimovies.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629013131id_/http%3A//www.fullhentaimovies.com/pp.html) for the most accurate reproduction.*
 
 # Full Hentai Movies: Hentai Movies Hentai Manga Hentai Games CGs
 
@@ -9,20 +9,12 @@ We do not collect any customer information. Please see your selected payment pro
 For more info [**email us**](mailto:support@fulhentaimovies.com). 
 
 |    
-[](https://web.archive.org/web/20061014062329id_/http%3A//fullhentaimovies.com/Movie_Notice.html)  
-[](https://web.archive.org/web/20061014062329id_/http%3A//fullhentaimovies.com/index.php?q=Doujinshi)  
-[](https://web.archive.org/web/20061014062329id_/http%3A//fullhentaimovies.com/Anime_Notice.html)  
-[](https://web.archive.org/web/20061014062329id_/http%3A//fullhentaimovies.com/Interactive_Notice.html)  
-[](https://web.archive.org/web/20061014062329id_/http%3A//fullhentaimovies.com/index.php?q=H-CG)  
-[](https://web.archive.org/web/20061014062329id_/http%3A//fullhentaimovies.com/Cosplay_Notice.html)  
-[](https://web.archive.org/web/20061014062329id_/http%3A//fullhentaimovies.com/index.php?q=Request)  
-[](https://web.archive.org/web/20061014062329id_/http%3A//fullhentaimovies.com/Contact_Us.html)  
-[](https://web.archive.org/web/20061014062329id_/http%3A//fullhentaimovies.com/faq.html)  
-[](https://web.archive.org/members)  
-[](https://web.archive.org/web/20061014062329id_/http%3A//fullhentaimovies.com/signup.html)  
-[  
-  
-  
-  
-  
-](https://web.archive.org/web/20061014062329id_/http%3A//fullhentaimovies.com/index.php?q=H-Game) | 
+[](https://web.archive.org/index.php?q=Movie&sub=1)  
+[](https://web.archive.org/index.php?q=H-CG&sub=1)  
+[](https://web.archive.org/index.php?q=H-Game&sub=1)  
+[](https://web.archive.org/index.php?q=rq)  
+[](https://web.archive.org/Contact_Us.html)  
+[](https://web.archive.org/faq.html)  
+[](https://web.archive.org/members/)  
+[](https://web.archive.org/signup.html)  
+| 
