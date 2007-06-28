@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moneybookers.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205212845id_/http%3A//www.moneybookers.com/app/help.pl%3Fs%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneybookers.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628213903id_/http%3A//www.moneybookers.com/app/help.pl%3Fs%3Dprivacy) for the most accurate reproduction.*
 
-# moneybookers.com - and money moves
+# moneybookers.com
 
 ### Privacy Statement
 
@@ -13,14 +13,16 @@ Any information you provide us with will only be disclosed in accordance with th
 **TRUSTe Certification**   
 Moneybookers Ltd. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This covers the site www.moneybookers.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, Moneybookers has agreed to notify you of: 
 
-* | What personally identifiable information of yours or third party personally identifiable information that is collected from you through the web site. | [](http://www.truste.org/ivalidate.php?url=www.moneybookers.com&sealid=101)  
----|---|---  
-* | The organization collecting the information.  
-* | How the information is used.  
-* | With whom the information may be shared.  
-* | What choices are available to you regarding collection, use and distribution of the information.  
-* | The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Moneybookers' control.  
-* | How you can correct any inaccuracies in the information.  
+  * What personally identifiable information of yours or third party personally identifiable information that is collected from you through the web site.
+  * The organization collecting the information.
+  * How the information is used.
+  * With whom the information may be shared.
+  * What choices are available to you regarding collection, use and distribution of the information.
+  * The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Moneybookers' control.
+  * How you can correct any inaccuracies in the information.
+
+| [](http://www.truste.org/ivalidate.php?url=www.moneybookers.com&sealid=101)  
+---|---  
   
 If you have questions or concerns regarding this statement, you should first contact [info@moneybookers.com](mailto:info@moneybookers.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe through the [TRUSTe WatchDog Dispute Resolution Process](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
@@ -47,7 +49,7 @@ Changes to this privacy statement are posted here so you know what use is made o
 
 **Contact Information**  
 If you have any questions or suggestions regarding our privacy policy, please contact us at:  
-Customer support: [Messaging Centre](http://www.moneybookers.com/app/faqmessaging.pl)  
+Customer support: [Messaging Centre](https://www.moneybookers.com/app/faqmessaging.pl)  
 Telephone: +44 870 383 0232  
 Fax: 0709 204 2001  
 Postal Address: C3 Cairngorm House, Meridian Gate, 203 Marsh Wall, London E14 9YT, UK
