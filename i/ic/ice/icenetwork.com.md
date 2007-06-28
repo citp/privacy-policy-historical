@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the icenetwork.com privacy policy that was archived on 2006-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061202201847id_/http%3A//www.icenetwork.com/help/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icenetwork.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628224040id_/http%3A//www.icenetwork.com/help/privacy.jsp) for the most accurate reproduction.*
 
 # icenetwork.com: Help: Privacy Policy
 
-Ice Network Privacy Statement
+Icenetwork.com Privacy Statement
 
 We are committed to protecting the privacy and security of the users of our sites. This privacy policy will advise you about how we protect your personal information, and about what choices you have concerning our use of such information. Please read this policy carefully. This policy may be revised from time to time in order to address new issues and reflect changes on our sites. We will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose that information to anyone. Please refer back to this policy regularly. 
 
