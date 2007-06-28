@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookcloseouts.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118083409id_/http%3A//www.bookcloseouts.com/static/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookcloseouts.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628152352id_/http%3A//www.bookcloseouts.com/static/privacy.asp) for the most accurate reproduction.*
 
 # BookCloseouts.com Bargain Books - Privacy Policies - Book Sale
 
@@ -29,7 +29,7 @@ Our commitment to you:
 
 Security
 
-BookCloseouts.com has been selling online for over four years and has never encountered a security issue. 
+BookCloseouts.com has been selling online for over six years and has never encountered a security issue. 
 
 Our commitment to you: 
 
