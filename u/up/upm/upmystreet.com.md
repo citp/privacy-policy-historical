@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the upmystreet.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212093500id_/http%3A//www.upmystreet.com/about-us/privacy-policy/l) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upmystreet.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629014542id_/http%3A//www.upmystreet.com/about-us/privacy-policy/l) for the most accurate reproduction.*
 
 # UpMyStreet - Privacy policy
 
 ## Your privacy is important to us
 
-This privacy policy forms part of UpMyStreet’s terms and conditions. Once you have registered on this website you will be deemed to have read and accepted this privacy policy. 
+This privacy policy forms part of UpMyStreet's terms and conditions. Once you have registered on this website you will be deemed to have read and accepted this privacy policy. 
 
 UpMyStreet believes your right to privacy is important. To run an efficient, effective service, however, we need to collect and use certain information about our users. 
 
@@ -31,15 +31,13 @@ When you register you will be asked to submit personal information about yoursel
 
 By entering your details in the fields requested, you enable us to provide you with the services you select. Whenever you provide such personal information, we will treat that information in accordance with this policy.
 
-By registering with us you’ll be opting in to receive:
+When you register with UpMyStreet, you will be able to log in and access house prices for England, Scotland and Wales on an ongoing basis. Data is updated monthly and our figures go back to April 2000.
 
-The UpMyStreet newsletter. You can opt-out of receiving the newsletter through the Edit your profile option or by unsubscribing through the newsletter.
-
-USwitch.com’s Insight newsletter. uSwitch.com is UpMyStreet’s parent company, and is the UK’s leading home services and personal finance comparison and switching service. It’s free to use and impartial.
+You will also receive advice for your property, and up-to-date information about your local and home services, from UpMyStreet and our parent company uSwitch. You can unsubscribe from these email communications at any time.
 
 [About uSwitch](http://www.uswitch.com/Popups/about_uswitch.asp)
 
-[uSwitch’s privacy and cookie policy](http://www.uswitch.com/Popups/privacy_policy.asp?ref=)
+[uSwitch's privacy and cookie policy](http://www.uswitch.com/Popups/privacy_policy.asp?ref=)
 
 You can opt-out of receiving the uSwitch newsletter by unsubscribing via the newsletter or by contacting help@uswitch.com.
 
@@ -53,7 +51,7 @@ Back to top
 
 #### Access to your personal information
 
-You have the right to request a copy of the personal information UpMyStreet holds about you and to have any inaccuracies corrected. (Please note that we charge £10 for information requests.) Please address requests to the Data Protection Officer, UpMyStreet, 10th Floor, Portland House, Stag Place, London, SW1E 5BH.
+You have the right to request a copy of the personal information UpMyStreet holds about you and to have any inaccuracies corrected. (Please note that we charge £10 for information requests.) Please address requests to the Data Protection Officer, UpMyStreet.com Limited, 10th floor, Portland House, Bressenden Place, London SW1E 5BH.
 
 Back to top
 
@@ -65,7 +63,7 @@ We will not rent, trade or sell your data to others.
 
 If you enter a contest or another promotion, we will use the data so that we can administer the contest and notify winners.
 
-If you have opted to receive our newsletter and/or uSwitch.com's Insight newsletter, we will use your personal information to send these newsletters to you.
+If you have opted to receive UpMyStreet and/or uSwitch communications, we will use your personal information to send these newsletters to you.
 
 If you have requested to be kept informed of services that we offer, we will contact you with these details.
 
@@ -89,11 +87,11 @@ During the course of any visit to UpMyStreet, the pages you see, along with a co
 
 Any information that is supplied by cookies can help us to provide you with a better service and assists us in analysing the profile of our visitors.
 
-Sage Metrics, an independent measurement and research company, gathers non-personal data regarding the visits to our site on our behalf using cookies and code which is contained in the site. Both the cookies and the code provide non-personal statistical information about visits to pages on the site, the duration of individual page view, paths taken by visitors through the site, data on visitors’ screen settings and other general information. UpMyStreet uses this type of information to help it improve services to its users.
+Sage Metrics, an independent measurement and research company, gathers non-personal data regarding the visits to our site on our behalf using cookies and code which is contained in the site. Both the cookies and the code provide non-personal statistical information about visits to pages on the site, the duration of individual page view, paths taken by visitors through the site, data on visitors screen settings and other general information. UpMyStreet uses this type of information to help it improve services to its users.
 
 To disable the code contained in the site, you will need to send requests directly to <http://www.sagemetrics.com/popup-dynamic.asp?pagename=privacy_main>.
 
-Further information regarding Sage Metrics’ privacy statement can be found at <http://www.sagemetrics.com/popup-dynamic.asp?pagename=privacy_main>.
+Further information regarding Sage Metrics privacy statement can be found at <http://www.sagemetrics.com/popup-dynamic.asp?pagename=privacy_main>.
 
 If your email address and password are correct, but you still can't log in, you may need to set your Internet Browser to accept cookies.
 
@@ -181,7 +179,7 @@ Back to top
 
 #### How to see your cookie code
 
-Just click on a cookie to open it. You’ll see a short string of text and numbers. The numbers are your identification card, which can only be seen by the server that gave you the cookie.
+Just click on a cookie to open it. Youll see a short string of text and numbers. The numbers are your identification card, which can only be seen by the server that gave you the cookie.
 
 Back to top
 
