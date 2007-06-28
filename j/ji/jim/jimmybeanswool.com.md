@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the jimmybeanswool.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209053306id_/http%3A//www.jimmybeanswool.com/secure-html/onlineec/privacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jimmybeanswool.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628235424id_/http%3A//www.jimmybeanswool.com/secure-html/onlineec/privacyPolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Jimmy Beans Wool
 
+|   
+  
 | jimmy beans wool privacy policy  
 ---  
 Jimmy Beans Wool takes your privacy seriously. Please read the following to learn about our privacy policy.  
    
-What this privacy policy covers   
+What this Privacy Policy Covers   
 :: This policy covers how Jimmy Beans Wool treats personal information that we collect and receive, including information related to your past use of Jimmy Beans Wool products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
 
 :: This policy does not apply to the practices of companies that Jimmy Beans Wool does not own or control, or to people that Jimmy Beans Wool does not employ or manage.   
@@ -30,6 +32,7 @@ Information Sharing and Disclosure
     :: We transfer information about you if Jimmy Beans Wool is acquired by or merged with another company. In this event, Jimmy Beans Wool will notify you before information about you is transferred and becomes subject to a different privacy policy.   
   
 Your Ability to Edit and Delete Your Account Information and Preferences   
+:: You can edit your personal information any time by making updates to your account profile. These changes are effective on the site immediately.   
 :: You can request that we delete your personal information by sending us an email request to [info@jimmybeanswool.com](mailto:info@jimmybeanswool.com). Please include your name and order number, if the order number is available.   
 Confidentiality and Security   
 :: We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
@@ -39,4 +42,19 @@ Confidentiality and Security
 Changes to this Privacy Policy   
 :: Jimmy Beans Wool may update this policy. We will notify you about significant changes in the way we treat personal information by placing a notice on our site.   
 Questions and Suggestions   
-:: If you have questions or suggestions, please email us at [info@jimmybeanswool.com](mailto:info@jimmybeanswool.com)
+:: If you have questions or suggestions, please email us at [info@jimmybeanswool.com](mailto:info@jimmybeanswool.com)  
+  
+[](https://seal.verisign.com/splash?form_file=fdf/splash.fdf&dn=WWW.JIMMYBEANSWOOL.COM&lang=en) [](http://www.bbbonline.org/cks.asp?id=10501261120744794)  [](http://usa.visa.com/)  [](http://www.mastercardmerchant.com/)   
+---  
+   
+reno store  
+5000 smithridge drive #A11 :: reno, nv 89502  
+phone :: 775.827.yarn (9276)  
+toll free :: 877.532.3891  
+fax :: 801.740.7563  
+   
+knitting yarn, patterns, kits, projects, needles, [sale yarn](http://www.jimmybeanswool.com/secure-html/onlineec/saleHome.asp), [free knitting patterns](http://www.jimmybeanswool.com/freeknittingpatternpondemonium.asp) and more!  
+[Knitting Manufacturers A - E](http://www.jimmybeanswool.com/siteMapAE.htm) | [Knitting Manufacturers F - J](http://www.jimmybeanswool.com/siteMapFJ.htm) | [Knitting Manufacturers K - O](http://www.jimmybeanswool.com/siteMapKO.htm)  
+[Knitting Manufacturers P - T](http://www.jimmybeanswool.com/siteMapPT.htm) | [Knitting Manufacturers U - Z](http://www.jimmybeanswool.com/siteMapUZ.htm) | [Knitting and Crochet Kits](http://www.jimmybeanswool.com/siteMapKits.htm)  
+  
+copyright 2003 - 2007 jimmy beans wool
