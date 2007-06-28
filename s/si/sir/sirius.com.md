@@ -1,47 +1,27 @@
-> *The following text is extracted and transformed from the sirius.com privacy policy that was archived on 2004-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040407150047id_/http%3A//www.sirius.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sirius.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628144559id_/http%3A//www.sirius.com/privacypolicy) for the most accurate reproduction.*
 
 # SIRIUS Satellite Radio - Privacy Policy
 
----  
-|  |   
-|  | [ ](https://web.archive.org/ "SIRIUS Satellite Radio - Over 100 Streams of Satellite Radio")  
----  
-|  | [](https://web.archive.org/GetSirius/Activate "Activate") |  [ ](https://web.archive.org/WhatIsSirius "What Is SIRIUS") |  [ ](https://web.archive.org/WhatsOnSirius "What's On SIRIUS") |  [ ](https://web.archive.org/GetSirius "Get SIRIUS")  
-|  |  |  |   
----|---|---  
-|  [Company Info](https://web.archive.org/CompanyInfo) |   
-|  |   
-|  [Events](https://web.archive.org/Events) |   
-|  |   
-|  [Partners](https://web.archive.org/Partners) |   
-|  |   
-|  [Become A Retailer](https://web.archive.org/BecomeRetailer) |   
-|  |   
-|  [Careers](https://web.archive.org/Careers) |   
-|  |   
-|  [FAQs](https://web.archive.org/FAQs) |   
-|  |   
-|  [Contact Us](https://web.archive.org/ContactUs) |   
-   
-|  |  |  |  |   
----|---  
-  
-This privacy policy is for the Web Site only and does not apply to the personal information provided to us for the Sirius Service. 
-* We will not disclose individual user information unless compelled to do so by law. 
-* We will not sell or rent your name or personal information unless we obtain your permission to do so in advance. 
-* We may set cookies on your computer:   
-        * In order to view Web Site trends on an aggregate basis   
-        * In order to personalize our Web Site 
-* Cookies will not be used to track and collect personally identifiable information about individual users. 
-* You may configure your browser to prevent cookies from being set on your computer. If you do so, most of the Web Site will still function properly, however you may not be able to use all of our services. 
-* Your account information is password protected for your privacy and security. 
-* In certain areas we use SSL-encryption in order to provide you with secure data transfers. 
-* Our Web Site contains links to other Web Sites. We are not responsible for the content or privacy practices of those Web Sites, including the use of personally identifiable information about you collected by those Web Sites. 
-* We do not knowingly solicit information from or market to children under the age of 13. If you are a parent of a child under the age of 13, and your child has used our Web Site, you may contact us at [ legal@siriusradio.com](mailto:legal@siriusradio.com) and we will delete any personally identifiable information about your child as soon as reasonably possible. 
-* We may change this Privacy Policy at any time without any notice. We will post any changes on this page to keep you informed of what information we collect and how we use that information. 
-* If you have any questions about this Privacy Policy please contact Sirius at [ legal@siriusradio.com](mailto:legal@siriusradio.com). 
-* This Privacy Policy is not a contract and does not create any legal rights or obligations.   
-  
-|  |  [ Home](https://web.archive.org/servlet/ContentServer?pagename=Sirius/CachedPage&c=Page&cid=1018209032790 "Homepage") | [ Company Info](https://web.archive.org/servlet/ContentServer?pagename=Sirius/CachedPage&c=Page&cid=1065475754271 "Company Info") | [ Events](https://web.archive.org/servlet/ContentServer?pagename=Sirius/CachedPage&c=Page&cid=1019257316857 "Events") | [ Partners](https://web.archive.org/servlet/ContentServer?pagename=Sirius/CachedPage&c=Page&cid=1019257316842 "Partners") | [ Become A Retailer](https://web.archive.org/servlet/ContentServer?pagename=Sirius/CachedPage&c=Page&cid=1019257316875 "Become A Retailer") | [ Careers](https://web.archive.org/servlet/ContentServer?pagename=Sirius/CachedPage&c=Page&cid=1051050374016 "Careers") | [ FAQs](https://web.archive.org/servlet/ContentServer?pagename=Sirius/CachedPage&c=Page&cid=1018209032792 "FAQs") | [ Contact Us](https://web.archive.org/servlet/ContentServer?pagename=Sirius/CachedPage&c=Page&cid=1019257316790 "Contact Us")  
----  
-[Site Map](https://web.archive.org/SiteMap "Site Map") | [ Terms and Conditions](https://web.archive.org/serviceterms "Terms and Conditions") |  [ Privacy Policy](https://web.archive.org/privacypolicy "Privacy Policy")
+Last updated: September 9, 2004 
+
+This Privacy Policy governs Sirius Satellite Radio Inc.’s (“we” or "SIRIUS") treatment of personally identifiable information that SIRIUS collects when you use the sirius.com website (the "Website"). This Privacy Policy is for the Website only and does not apply to the personal information provided to us for the SIRIUS satellite radio service (the “SIRIUS Service”). By visiting the Website, you accept this Privacy Policy. We may change this Privacy Policy at any time without any notice. We will post any changes here. 
+
+1\. _Information You Provide to SIRIUS_. We receive and store information that you provide on the Website. It is your choice whether to provide us with such information. If you choose not to provide us with certain information, you may not be able to use certain features of the Website, including ordering hardware, subscribing for the SIRIUS Service, listening to music online, suggesting songs or entering contests. We use the information provided by you to fulfill orders, respond to you, communicate with you and to conduct internal evaluations. If you provide us with information to request a song or other content be played on the SIRIUS Service, we may use your information to announce your name and request on the air. If you enter a contest, the applicable rules of the contest will contain information regarding how we may use your information. 
+
+2\. _Information Collected Automatically_. We automatically receive and store certain types of information whenever you use the Website in the form of cookies. Cookies are files that are set on your computer through your web browser which enable the Website to recognize you. You may configure your web browser to not accept cookies. If you configure your web browser to not accept cookies, you may not be able to use certain parts of the Website. 
+
+3\. _Sharing Your Information_. We do not sell, rent, share, or otherwise disclose your personally identifiable information to third parties for commercial purposes. However, we do utilize third parties to perform functions on our behalf, such as fulfilling orders, fulfilling rebates and promotional offers, delivering packages and mail, sending e-mail messages, analyzing data, providing marketing assistance, processing credit card payments, providing customer service and administering contests. These third parties have access to your personal information to the extent necessary to perform their functions and are not permitted to use it for other purposes. We may also release your personal information when appropriate to comply with the requirements of law or legal process. Such release may include exchanging information with third parties for fraud protection and reduction of credit risks. 
+
+4\. _Encryption of Information_. We protect the security of information you provide to make purchases and to activate subscriptions online by using Secure Sockets Layer software, which encrypts the transmission of such information to our servers. We do not encrypt any other information. 
+
+5\. _Information You Can Access_. You may contact us to access your account information and make appropriate changes by calling Customer Care at (888) 539-7474. 
+
+6\. _Children_. We do not sell or market, knowingly solicit information from, or sell products or services for purchase to people under 18. If you are a parent of a child under the age of 18, and your child has used the Website, you may contact us at [legal@sirius-radio.com](mailto:legal@sirius-radio.com) and we will delete any personally identifiable information about your child as soon as reasonably possible. 
+
+7\. _Other Sites_. The Website contains hyperlinks to other websites. We are not responsible for the content or privacy practices of those websites, including without limitation, the use of personally identifiable information about you collected by those websites. 
+
+8\. 
+
+_Contact Us_
+
+. If you have any concerns about privacy at SIRIUS or have questions about this Privacy Policy, please contact the our legal department at [legal@sirius-radio.com](mailto:legal@sirius-radio.com) with a thorough description of your concerns or questions. 
