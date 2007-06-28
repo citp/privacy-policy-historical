@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the nationwide.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214061337id_/http%3A//www.nationwide.com/nw/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationwide.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628031829id_/http%3A//www.nationwide.com/nw/privacy/index.htm) for the most accurate reproduction.*
 
 # privacy | Nationwide.com
 
-[ ](http://www.truste.org/ivalidate.php?url=www.nationwide.com&sealid=101?WT.svl=Image)Thanks for choosing Nationwide. We know that protecting your privacy is important.  **Our privacy statement explains how we collect, use, share, and protect your information. It's for Nationwide customers and visitors of nationwide.com.** If we change our privacy policy, we’ll post the changes right here. This way you can always check back to learn what information we collect, how we use it, how we protect it, and when we might disclose it.
+[ ](http://www.truste.org/ivalidate.php?url=www.nationwide.com&sealid=101)
+
+Thanks for choosing Nationwide. We know that protecting your privacy is important.  **Our privacy statement explains how we collect, use, share, and protect your information. It's for Nationwide customers and visitors of nationwide.com.** If we change our privacy policy, we’ll post the changes right here. This way you can always check back to learn what information we collect, how we use it, how we protect it, and when we might disclose it.
 
 So just how do we protect your privacy? In a nutshell, we promise to treat your personal information responsibly and provide you with choices. It’s as simple as that. Here’s how.
 
@@ -114,7 +116,7 @@ Nationwide is part of the TRUSTe Privacy Program. TRUSTe will help you resolve 
 
 ### Nationwide Companies
 
-Nationwide is one of the largest insurance and financial services companies in the world, focusing on domestic property and casualty insurance, life insurance and retirement savings, asset management, and strategic investments. For a list of Nationwide subsidiaries and affiliates, please visit [http://www.nationwide.com/nw/about-us/our-companies](https://web.archive.org/nw/about-us/our-companies?WT.svl=http://www.nationwide.com/nw/about-us/our-companies).
+Nationwide is one of the largest insurance and financial services companies in the world, focusing on domestic property and casualty insurance, life insurance and retirement savings, asset management, and strategic investments. For a list of Nationwide subsidiaries and affiliates, please visit [http://www.nationwide.com/nw/about-us/our-companies](https://web.archive.org/nw/about-us/our-companies).
 
 ### The Nationwide Family of Companies does include:
 
@@ -145,8 +147,6 @@ Nationwide Investment Services Corporation
 Nationwide Securities, Inc.
 
 Allied Property and Casualty Insurance Company
-
-Gartmore Group
 
 GatesMcDonald
 
