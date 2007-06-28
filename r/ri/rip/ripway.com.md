@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ripway.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213082225id_/http%3A//www.ripway.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ripway.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629001509id_/http%3A//ripway.com/privacy.asp) for the most accurate reproduction.*
 
 # Ripway Web Hosting and Online File Storage - upload pictures, videos, MP3 and music files and share your files with the world
 
@@ -10,4 +10,4 @@ From time to time, as a courtesy, we may send photo hosting service or system up
 
 For privacy information obtained from our partners that provide sponsorship or member offers, please visit their respective websites. 
 
-Riway.com is a wholly owned division of Ripside, Interactive, Inc. 
+Ripway.com is a wholly owned division of Ripside, Interactive, Inc. 
