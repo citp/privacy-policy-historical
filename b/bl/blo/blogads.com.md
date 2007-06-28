@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogads.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208104719id_/http%3A//web.blogads.com/Documents/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogads.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629003232id_/http%3A//web.blogads.com/Documents/privacy_policy) for the most accurate reproduction.*
 
 # Blog advertising makes opinions - Privacy Policy
 
@@ -62,7 +62,7 @@ If you have any questions about anything in this Privacy Policy, or about collec
 Pressflex LLC  
 Attn: Miklos Gaspar  
 Phone: (646) 827 9320  
-Fax: (919) 869 1474
+Fax: (646) 607 2644
 
 You may also use the above contact information if you think any information about you is inaccurate, incomplete, or if you want to change the sort of information about you that Blogads.com may have collected.
 
