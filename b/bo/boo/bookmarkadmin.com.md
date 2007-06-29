@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmarkadmin.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208055755id_/http%3A//www.bookmarkadmin.com/site_information/legal/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarkadmin.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629222143id_/http%3A//www.bookmarkadmin.com/site_information/legal/privacy_policy.php) for the most accurate reproduction.*
 
 # Our Privacy Policy.
 
@@ -60,4 +60,4 @@ Browser Cookies is a technology used to personalize a web users experience on a 
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please send us an email at [_BookmarkAdmin_Support@Intertainia.com_](mailto:bookmarkadmin_support@intertainia.com)
+Should you have other questions or concerns about these privacy policies, please [Contact Us](https://web.archive.org/site_information/contact-us.php). 
