@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plugim.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231002045id_/http%3A//www.plugim.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plugim.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629141930id_/http%3A//www.plugim.com/privacy) for the most accurate reproduction.*
 
 # PlugIM
 
@@ -32,7 +32,7 @@ We receive and store any information you enter on our website or provide to us i
   2. Automatic Information: 
     * We receive and store certain types of information whenever you interact with us. PlugIM automatically receives and records certain "traffic data" on our server logs from your browser including your IP address, PlugIM cookie information, and the page you requested. PlugIM uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.
     * PlugIM may also add on any page display the total counts that page has been viewed. This includes member profile pages.
-    * Social sharing of data: PlugIM allows other users to browse stories that you have dugg, submitted, blogged, or commented on. This information is made available via your member profile (http://www.plugim.com/user/<username>), on the PlugIM spy page (http://www.plugim.com/sneak) or within the permalink URL of the story in which you performed the action on. PlugIM may choose to post this data on other site features in the future.
+    * Social sharing of data: PlugIM allows other users to browse stories that you have dugg, submitted, blogged, or commented on. This information is made available via your member profile (http://www.plugim.com/user/<username>), on the PlugIM spy page (http://www.plugim.com/spy) or within the permalink URL of the story in which you performed the action on. PlugIM may choose to post this data on other site features in the future.
     * Profile information: PlugIM allows other users to browse your full name, location, and instant messaging URL, within your member profile should you provide this optional information.
     * Syndication: PlugIM allows for the RSS syndication of all of its public content within the website.
     * Friends Data: Much like other social services PlugIM allows non-friends to browse through your friends activities (http://www.plugim.com/user/<usersname>/friends).
