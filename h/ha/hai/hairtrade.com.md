@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hairtrade.com privacy policy that was archived on 2006-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061108074543id_/http%3A//www.hairtrade.com/info_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hairtrade.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629214826id_/http%3A//www.hairtrade.com/info_privacy.php) for the most accurate reproduction.*
 
 # 100% Human Hair extensions: Hair Weave, Pre-Bonded, and Clip in Hair Extensions online shop
 
@@ -36,10 +36,10 @@ We are always pleased to hear frcom our customers (even if it is a complaint!). 
 
 Contacting us
 
-You can either contact [_customer care_](https://www.hairtrade.com/contact_us.php)  
+You can either contact [_customer care_](http://www.hairtrade.com/contact_us.php)  
 or, write to us at:  
-Unit 15 Imex Enterprise Centre  
-St Omers Road,Dunston  
+Unit 381B Jedburgh Court  
+Team Valley Trading Estate  
 Gateshead, Tyne & Wear  
-NE11 9DW  
-UK
+NE11 0BQ  
+United Kingdom
