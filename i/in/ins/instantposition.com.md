@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantposition.com privacy policy that was archived on 2006-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061102054056id_/http%3A//www.instantposition.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantposition.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629112222id_/http%3A//www.instantposition.com/privacy.html) for the most accurate reproduction.*
 
 # Instant Position Privacy Policy
 
