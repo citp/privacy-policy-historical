@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the besteveralbums.com privacy policy that was archived on 2006-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060828225307id_/http%3A//besteveralbums.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the besteveralbums.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629023016id_/http%3A//www.besteveralbums.com/privacy.php) for the most accurate reproduction.*
 
 # Best Ever Albums - The Greatest Music Albums of All Time
+
+We have [378](https://web.archive.org/web/20070629023016id_/http%3A//www.besteveralbums.com/phpBB2/memberlist.php) members. Welcome to our newest member, DaffyJgkj!
 
 ## Privacy Policy
 
