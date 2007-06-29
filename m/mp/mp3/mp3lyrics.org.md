@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mp3lyrics.org privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218053800id_/http%3A//www.mp3lyrics.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3lyrics.org privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629052255id_/http%3A//www.mp3lyrics.org/privacy.html) for the most accurate reproduction.*
 
 # Mp3 Lyrics Organized : Privacy Policy
 
