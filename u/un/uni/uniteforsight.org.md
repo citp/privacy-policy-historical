@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uniteforsight.org privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206001031id_/http%3A//www.uniteforsight.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniteforsight.org privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629144955id_/http%3A//www.uniteforsight.org/privacy.php) for the most accurate reproduction.*
 
 # Unite For Sight, Inc. - Privacy Policy
 
