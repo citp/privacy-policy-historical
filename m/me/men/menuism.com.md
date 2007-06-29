@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the menuism.com privacy policy that was archived on 2006-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061128144410id_/http%3A//www.menuism.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menuism.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629135045id_/http%3A//www.menuism.com/about/privacy) for the most accurate reproduction.*
 
 # menuism - Privacy
 
@@ -78,7 +78,7 @@ We also use personally-identifiable information about you to improve our website
 
 
 
-Your screenname, gravatar (personal icon), and any reviews or comments you submit will also be displayed on your personal profile page, and individual restaurant review pages. If you include personally-identifiable information in your screenname, gravatar, reviews or comments, or other information displayed on your personal profile page, then you are consenting to allow that information to be displayed on the website.
+Your screenname, personal icon, and any reviews or comments you submit will also be displayed on your personal profile page, and individual restaurant review pages. If you include personally-identifiable information in your screenname, personal icon, reviews or comments, or other information displayed on your personal profile page, then you are consenting to allow that information to be displayed on the website.
 
 
 
