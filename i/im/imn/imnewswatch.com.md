@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imnewswatch.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217154153id_/http%3A//www.imnewswatch.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imnewswatch.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629232744id_/http%3A//imnewswatch.com/Privacy.html) for the most accurate reproduction.*
 
 # Internet Marketing NewsWatch - PRIVACY POLICY
 
@@ -12,54 +12,138 @@
   
 |  | 
 
-Last Updated: May 2006
+**\-- IMPORTANT -- PLEASE READ**
 
-Executive Marketing & Communications, Inc. strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy.  "We will never sell, barter, or rent your email address to any unauthorized third party. Period." 
+This Privacy Policy describes the terms of our commitment to your privacy.
 
-**How we gather information from users**
+**PERSONS OR PARTIES COVERED    **This Privacy Policy is intended to cover all visitors to this website, all subscribers to lists or newsletters whether paid or unpaid, all members or affiliates whether paid or unpaid, and all customers.  Persons who visit or view this website, whether intentionally or unintentionally, whether solicited or unsolicited, are described herein as "Visitors" and are parties to this Privacy Policy.  Subscribers to lists or Newsletters are referred to herein as "Subscribers" and are parties to the Privacy Policy.  Persons who join an organization or marketing endeavor (e.g. "affiliates") promoted by this website are called "Members" herein and are covered by this Privacy Policy.  Finally, anyone who orders, attempts to order, or receives a product sold (recipients) or advertised on or delivered from this website, even at no cost, is called a "Customer" herein and is subject to this Privacy Policy not only by passive acceptance, but by virtue of the Purchase Agreement contract.  The website, its agents, owners, operators, and employees are referred to collectively herein as "Website," "Site," and/or "Seller".
 
-How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Executive Marketing & Communications, Inc. Web sites also collect information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site's features according to your preferences. 
+**PERSONS EXCLUDED FROM THIS WEBSITE ARE STILL COVERED**
 
-**What we do with the information we collect**
+In the event that a person excluded from this website because of the Terms of Use or from denial of service by the website, who nonetheless unlawfully views this site, that person remains subject to the terms of this Privacy Policy and is in violation of the Terms of Use.
 
-Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone. 
+**PERSONS UNDER 18 YEARS OF AGE ARE EXCLUDED FROM THIS WEBSITE**
 
-Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually. 
+_This website is not lawfully accessible to persons under the age of 18 or who are otherwise covered by the provisions of the Child Online Privacy Act of 1998 (COPA).   If you are under the age of 18 you must leave this site immediately.  Fraudulent use of this website may make you subject to civil or criminal sanctions._
 
-We may use Personally Identifiable Information collected on Executive Marketing & Communications, Inc. websites to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by Executive Marketing & Communications, Inc. websites and other topics we think you might find of interest. 
+**VIEWING AND/OR USE AND/OR COMMUNICATION IS CONSTRUED AS ACCEPTANCE OF THE TERMS OF THIS POLICY**
 
-Personally Identifiable Information collected by Executive Marketing & Communications, Inc. Web sites may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases. 
+Acceptance of the terms of this Privacy Policy is a portion of the consideration required for your right to visit the website.  If you do not accept these terms, you have no right to visit this site and you are fraudulently using this site.
 
-**Affiliated sites, linked sites and advertisements**
+**A NOTE TO CALIFORNIA RESIDENTS (ONLINE PRIVACY PROTECTION ACT OF 2003 --OPPA)**
 
-Executive Marketing & Communications, Inc. expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a Executive Marketing & Communications, Inc. Web site page, certain content that is actually created or hosted by a third party. Also, through a Executive Marketing & Communications, Inc. web site page you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. Executive Marketing & Communications, Inc. is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party. 
+It is the intent of the Privacy Policy to comply with the California Act.  Various provisions throughout this Privacy Policy address requirements of the act.  In summary, you must presume that we collect electronic information from all visitors.  This is not usually personally identifiable.  If you purchase a product or service via this website (and thereby become covered by the Act), the purchase agreement you electronically sign prior to purchase allows the website to collect and archive all the personal information you provide and to transmit and/or transfer that personal information to third parties.  There is no way you can modify this information and you have no right to do so.  Under the terms of the purchase agreement, you have no right to view or receive any information about our database.  In the event that the website, under advice of counsel agrees to divulge information, the requesting party must submit whatever information is demanded by the website in order to insure that the website is releasing information to the correct party.  Other provisions of the OPPA may exempt this website from complying.  While we take measures to ensure that outside parties do not have access to any information we have about you, we do not warranty that outside parties will not breach our system and thus have access to your information.  (You should know that merchant service providers do not allow us access to your credit card information.)  This Privacy Policy also is subject to change without notice.  You are required to read it prior to using the website.  By interacting with the website you agree to the terms and conditions of the Privacy Policy.  By using the website or purchasing a product through this website, you waive the right to use state or federal court systems to address complaints and, instead, agree to use the American Arbitration Association located in a city and county specified herein.
 
-While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. Executive Marketing & Communications, Inc. does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties. 
+**ABOUT THE PERSONAL INFORMATION THIS WEBSITE COLLECTS AND HOW IT IS USED**
 
-You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of Executive Marketing & Communications, Inc. and this policy. 
+This website routinely collects information about its visitors, subscribers, members, and customers.  This information is obtained in various ways, such as:
 
-**Children**
+**VISITOR, SUBSCRIBER, MEMBER, OR CUSTOMER INFORMATION OBTAINED FROM 'REGISTRATION'**
 
-Executive Marketing & Communications, Inc. does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe Executive Marketing & Communications, Inc. has any information from or about anyone under 13, please contact us at the address listed below. 
+Registration means that the Visitor, Subscriber, Member or Customer takes active, positive steps to communicate information to this website.  This can include pages or 'pop ups' where you register for a newsletter or subscribe to a mailing list; it can include your participation in visitor surveys; it can include requesting information from the website via email, mail, or courier; it may be from joining an affiliate program or other membership organization, paid or unpaid; it may be from ordering a product.
 
-Contacting Us. 
+Occasionally complete credit card information may be provided to the website via fax or a fill-in form rather than regular secure merchant service processing.  This information is kept at the highest level of security and is never divulged to anyone except the merchant service provider or for the purpose of communication with the customer.
 
-We can be reached by contacting us via the form provided on the following page:
+**ONLINE ORDERING**
 
-[ http://www.imnewswatch.com/contact.html](http://www.imnewswatch.com/contact.html)
+Online ordering via SSL encrypted communication provided by shopping cart services supporting merchant service companies like Visa and Master Card provides information to the website but does not provide complete credit card numbers.  In the process of online ordering, the customer provides, name, address, city, state, email address, phone number, CVV2 (back of card) number, and, occasionally a member password.  You should consider all this information available to the website.  This information is used to deliver the product, but under the Purchase Agreement you also approve its use for general solicitation purposes.
 
-Changes to this Policy 
+**VISITOR EMAIL INQUIRIES**
 
-Executive Marketing & Communications, Inc. reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. 
+Website visitors who wish to communicate with the website do so under two conditions:  one, they give their permission for contact by the website; two, they are subject to any ‘submission’ provisions of the Terms of Use, Purchase Agreement, or this Privacy Policy.  While your email address may or may not be used to solicit you, it is added to the website's general solicitation database.
 
-**Governing law**
+**CUSTOMER EMAIL OR TESTIMONIALS**
 
-This policy and the use of this Site are governed by Florida, U.S.A. law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: TN, U.S.A. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us. 
+If you are a customer and send an email to the website, or if you communicate with the site by phone or mail, the website collects information about your communication and by communicating with the site you give your permission to collect, archive, retrieve, and otherwise use any information collected as the site sees fit.
 
-If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: TN, U.S.A., under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so. 
+Any communication which, in its sole discretion, the site deems to be a testimonial, may be publicized for commercial purposes.
 
-This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
+**INFORMATION OBTAINED FROM VISITOR INTERACTION WITH BANNERS, POPUPS, OR SITE ADVERTISERS**
 
-May 2006 Executive Marketing & Communications, Inc.  
+Visitors clicking on banners or pop-ups or hyperlinked advertising, appearing on this website must assume that information is being collected about them.  This site is not responsible for the use of information collected in such a fashion.  Visitors must assume that (1) information will be collected, (2) that ‘cookies’ will usually be placed on their hard drive, (3) that website does not have any control over what happens with this information, (4) that website takes no responsibility over the accuracy or content of advertisers, (5) that website is not responsible for downloads from third party advertisers that contain viruses or worms or other computer code that causes their computer or software harm, and (6) that website assumes no responsibility for the data that is garnered from the click itself or that the advertiser collects. 
+
+**INFORMATION OBTAINED FROM REFERRING EMAIL OR REFERRING URLS**
+
+If you send a friend an email from this site or if you send the url or one of our web pages to a friend, you must assume that some data is collected about your IP address or your email address and that of your friend.  You must assume that referred emails or web pages may appear to come from your email.  You must accept fully responsibility for referring pages or email to a friend and agree to indemnify this site for any damage, intentional or unintentional that results from said referrals.
+
+**INFORMATION OBTAINED FROM VOLUNTARY VISITOR, SUBSCRIBER, MEMBER OR CUSTOMER SURVEYS**
+
+Unless otherwise specified in the survey, you must assume that any information provided to the website as part of a survey in which you participate may be used for general solicitation for commercial purposes and that such information will be shared with joint venture partners, affiliates, marketing organization or used by the site itself for product design or solicitation purposes.
+
+**INFORMATION OBTAINED FROM ELECTRONIC MEANS AND 'COOKIES'**
+
+Many websites, including this one, collect information about your computer, your email address, your IP address.  You must assume that your web-viewing or web-use activity is monitored, tracked, and information collected.  This information is not usually of a personal nature, but it may help define your viewing habits and product preferences even though the website may or may not have any idea who you are.
+
+"Cookies" is web jargon for bits of computer code placed on your hard drive.  Websites use this to keep you 'logged in', to keep track of search criteria, to monitor use, to password protect use of the site or use of products sold by the site.  Cookies can also be used to obtain information about your computer configuration or your use of your computer.
+
+Cookies can be used to electronically gather information about you.  Again, it may or may not be personal information, but it is information and by using this site you are expressly giving permission to use 'cookies' and to use the information gathered from their use to benefit you.  You also give permission to collect, archive, retrieve, and use any information collected for product design, product offers to you, and general commercial solicitation purposes by this site or joint venture partners, affiliates, and marketing organizations.
+
+**HOW INFORMATION MAY BE USED**
+
+The use of information as described below may or may not be how information that is collected is customarily used by this site.  While actual use of any information collected may be used quite conservatively, you must assume that it is not.  You must assume that information collected is shared with other persons or entities for commercial purposes.  While this is uncommon in practice, you must assume that it is as you make your decision whether or not to view or interact with this website.  This type of shared information may include your name, address, phone number, email address and buying habits, as well as other information.  This information may be used for general commercial solicitation by this website or other persons it is sold to, rented to, or shared with.
+
+**INFORMATION THAT IS NOT SHARED**
+
+Credit card information or other financial information is not usually known to the website.  However, in the event that it is made known, that information is never revealed to anyone except to processing authorities or law enforcement agencies.  However, the provider of such information gives express permission to use it in fraud investigation or for litigation.
+
+**BULLETIN BOARDS AND PUBLIC FORUMS**
+
+Visitors, subscribers, members, or customers who use any site provided bulletin boards or other public forums, such as chat rooms, do so at their own risk.  You may not assume that the site monitors these services or protects you in any manner from information you post publicly or share with anyone else via these services.
+
+**SPAM   **
+
+By providing to this website information that forms the basis of communication with you, such as an email address, you waive all rights to file complaints concerning unsolicited email or spam from this website since, by providing such information, you agree to receive communication from us or other marketing organizations.  However, all email communication with you shall contain an 'unsubscribe' link where you may notify the website that you no longer wish to receive solicitations or information from the website and your name will be removed from the general solicitation database.
+
+**DATA SECURITY**
+
+This website takes measures to protect its data that contains information related to you.  However, as a consideration for viewing this site or interacting with this site in any manner, you waive all claims of any nature against this site concerning the loss, alteration, or misuse of information.  You must assume that it is possible for your personal data to be obtained by others, such as "hackers," and used in an inappropriate manner that may cause you harm and that you agree that the site is not responsible for damages to you.
+
+**QUESTIONS, COMMENTS, OR REPORT OF INCIDENTS**
+
+You may direct questions, comments or reports to: support @ IMNewswatch DOT com (replace “AT” with @ and replace DOT with “.”)
+
+**REVISIONS TO THIS PRIVACY POLICY WITHOUT NOTICE**
+
+This Privacy Policy is dynamic.  It will continually change.  You may not assume that it remains the same and you agree to check the policy each time you visit the site for changes.  Unless, in the sole opinion of the website, this policy changes so drastically as to suggest a posted notification on the site or via email, you will receive no notification of changes to this Privacy Policy nor, under any circumstances, does this site promise notification.  Your continued use of this site always evidences your acceptance of the terms this Privacy Policy or any modifications.
+
+**LATEST UPDATE**
+
+This Privacy Policy was last updated on: June 2007
+
+**COPYRIGHT**
+
+This Privacy Policy is used under license.  The copyright is owned by Mining Gold Corporation and Nevada Processing Center, Inc.
+
+**DISPUTES**
+
+As part of the consideration that the Website requires of the Visitor to view, use, or interact with this site, Visitor agrees to use binding arbitration for any claim, dispute, or controversy ("CLAIM") of any kind (whether in contract, tort or otherwise) arising out of or relating to this purchase, this product, including solicitation issues, privacy issues, and terms of use issues.
+
+Arbitration shall be conducted pursuant to the rules of the American Arbitration Association, which are in effect on the date a dispute is submitted to the American Arbitration Association.  Information about the American Arbitration Association, its rules, and its forms are available from the American Arbitration Association, 335 Madison Avenue, Floor 10, New York, New York, 10017-4605.  Hearing will take place in the city or county of the Seller. 
+
+In no case shall the Visitor have the right to go to court or have a jury trial.  Visitor will not have the right to engage in pre-trial discovery except as provided in the rules; you will not have the right to participate as a representative or member of any class of claimants pertaining to any claim subject to arbitration; the arbitrator's decision will be final and binding with limited rights of appeal. 
+
+The prevailing party shall be reimbursed by the other party for any and all costs associated with the dispute arbitration, including attorney fees, collection fees, investigation fees, and travel expenses.
+
+**JURISDICTION AND VENUE**
+
+If any matter concerning this purchase shall be brought before a court of law, pre- or post-arbitration, Visitor agrees to that the sole and proper jurisdiction to be the state and city declared in the contact information of the web owner given below.  In the event that litigation is in a federal court, the proper court shall be the closest federal court to the Seller's address.
+
+**APPLICABLE LAW**
+
+Visitor agrees that the applicable law to be applied shall, in all cases, be that of the state of the Website owner(s).
+
+**CONTACT INFORMATION**
+
+support AT imnewswatch DOT com  (replace “AT” with @ and replace DOT with “.”)  
+**Executive Marketing & Communications, Inc.**   
+doing business as [www.imnewswatch.com](http://www.imnewswatch.com/)    
+P.O. Box 632  
+Jamestown, TN 38556 
+
+**COPYRIGHT AND LICENSE  **  
+This "Privacy Policy" is © 2003-2007 by Mining Gold Corporation and Nevada Processing Center, Inc.  (888) 214-3349, and is fully licensed for use by this website.  If you wish to lawfully use this Terms of Use on your website, contact[ support@internetlawcompliance.com](mailto:support@npcinfo.com) for licensing information.
+
+  
+  
   
 ---|---|---
