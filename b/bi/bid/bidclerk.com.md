@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bidclerk.com privacy policy that was archived on 2006-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061006083327id_/http%3A//www.bidclerk.com/content/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidclerk.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630004509id_/http%3A//www.bidclerk.com/content/privacy.jsp) for the most accurate reproduction.*
 
 # Construction Leads for 1000's of U.S. Projects - Updated Daily
 
@@ -35,11 +35,26 @@ Profile
 
 We store information that we collect through cookies, log files, clear gifs to create a profile of our users. A profile is stored information that we keep on individual users that details their viewing preferences. Consequently, collected information is tied to the user's personally identifiable information to provide offers and improve the content of the site for the user. This profile is used to tailor a user's visit to our Web site and to direct pertinent BidClerk.com marketing promotions to them. We do not share your profile with other third parties.
 
-Cookies
+Cookie Disclosure
 
-A cookie is a piece of data stored on the user's computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions.
+What's a cookie?
 
-By setting a cookie on our site, users would not have to log in a password more than once, thereby saving time while on our site. If users reject the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our site. See the "Profile" section.
+A cookie is a piece of data stored on the user's computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time.
+
+Using BidClerk.com
+
+In order to access BidClerk successfully, your browser must be set to "accept all cookies." If you set your browser to "not accept" any cookies, you will not be able to use BidClerk.com. A subscriber is limited to (2) two cookies per user account and thus may use BidClerk.com on two (2) devices such as a home computer and a computer at the office. This feature is not for sharing your account but is for your convenience. Please see the Intellectual Property section in our Terms of Service for policies concerning the sharing of account information.
+
+Why do we use cookies?
+
+BidClerk uses cookies to check our database to verify your subscription so you can gain access. By setting a cookie on our site, users would not have to log in a password more than once, thereby saving time while on our site. We also use cookies to save your preferences. Without cookie technology, we would not be able to offer you convenient features such as your saved preferences and searches.
+
+Deleting cookies
+
+Deleting cookies means that you may be locked out of your account and lose your preferences. There are a number of software and shareware programs available that are designed to periodically purge cookie files from your hard disk. We do not recommend these applications and, as such, cannot address any resulting support issues that may be related to the use of these programs.
+
+  
+
 
 Log Files
 
