@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the profitfuel.net privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207213130id_/http%3A//www.clicksmart.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profitfuel.net privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629075832id_/http%3A//www.clicksmart.com/Privacy) for the most accurate reproduction.*
 
 # Clcksmart -- Don't just click. Connect. -- Privacy Policy
 
 1\. Acceptance of Policy
 
-Clicksmart and its parent, subsidiary, and affiliated companies ("Clicksmart", "We", or "Us") are committed to protecting your privacy. Accordingly, we have adopted this Privacy Policy to demonstrate our commitment to your privacy and explain how we may and may not use the information you provide us. In consideration of the information and services Clicksmart provides to you on the Clicksmart Web site (the "Site"), you agree to Clicksmart’s collection and use of your personal information as described in this Privacy Policy, which may be updated by us from time to time without notice. You can review the most current version of the Privacy Policy at any time at http://www.clicksmart.com/privacy. Please read the Privacy Policy in its entirety. By using and continuing to use this Site, you agree to and accept the Privacy Policy, as it may be revised from time to time. If you do not agree with the Privacy Policy, you must immediately stop using the Site.
+Clicksmart and its parent, subsidiary, and affiliated companies ("Clicksmart", "We", or "Us") are committed to protecting your privacy. Accordingly, we have adopted this Privacy Policy to demonstrate our commitment to your privacy and explain how we may and may not use the information you provide us. In consideration of the information and services Clicksmart provides to you on the Clicksmart Web site (the "Site"), you agree to Clicksmart’s collection and use of your personal information as described in this Privacy Policy, which may be updated by us from time to time without notice. You can review the most current version of the Privacy Policy at any time at http://www.Clicksmart.com/privacy. Please read the Privacy Policy in its entirety. By using and continuing to use this Site, you agree to and accept the Privacy Policy, as it may be revised from time to time. If you do not agree with the Privacy Policy, you must immediately stop using the Site.
 
 2\. What This Policy Covers
 
@@ -50,5 +50,5 @@ Protecting the privacy of the very young is especially important. Clicksmart web
 
 Your Clicksmart account information is password-protected for your privacy and security. Please do not share your password with anyone. Clicksmart will never ask you for your password. As an additional security measure, certain areas of the Site may be protected using industry-standard SSL-encryption to protect data as it is being transmitted.
 
-Clicksmart. © 2006 Clicksmart. All Rights Reserved. Various trademarks held by their respective owners.  
+© 2006-2007 Clicksmart. All Rights Reserved. Various trademarks held by their respective owners.  
 [Privacy Policy](http://www.clicksmart.com/Privacy)
