@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the overclockersclub.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205203500id_/http%3A//www.overclockersclub.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overclockersclub.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629175850id_/http%3A//www.overclockersclub.com/pages/privacy) for the most accurate reproduction.*
 
-# Overclockers Club Privacy Statement
+# Privacy Policy - Overclockers Club
 
 **Our Commitment To Privacy**  
 Your privacy is important to us. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect in our forum and when you signup for a contest. Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
@@ -30,8 +30,14 @@ This web site takes every precaution to protect our users' information. When use
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. 
 
 **Contact Information**  
-If you have any questions or suggestions regarding our privacy policy, please go to our [contact page](https://web.archive.org/web/20061205203500id_/http%3A//www.overclockersclub.com/contact.php).
+If you have any questions or suggestions regarding our privacy policy, please go to our [contact page](http://www.overclockersclub.com/pages/contact/).
 
--
+\- Overclockers Club Staff
 
-Overclockers Club Staff
+[About OCC](http://www.overclockersclub.com/pages/about_us/)  
+[Contact Staff](http://www.overclockersclub.com/pages/contact/)  
+[In the News](http://www.overclockersclub.com/pages/occinthenews/)  
+[Sponsorship](http://www.overclockersclub.com/pages/sponsorship/)  
+[Advertising](http://www.overclockersclub.com/pages/advertise/)  
+[Links & Logos](http://www.overclockersclub.com/pages/logos/)  
+[Privacy Statement](http://www.overclockersclub.com/pages/privacy/)
