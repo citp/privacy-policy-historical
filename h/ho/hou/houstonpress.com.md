@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the houstonpress.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214221136id_/http%3A//www.houstonpress.com/about/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houstonpress.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629024545id_/http%3A//www.houstonpress.com/about/policy.php) for the most accurate reproduction.*
 
-# 
+# Houston -
 
 Parent of _Houston Press_ and houstonpress.com 
 
@@ -39,24 +39,3 @@ Our Site is published in the United States. U.S. law shall govern in any and all
 In the event of a sale of Houston Press or a sale of substantially all Houston Press's assets, the email database and all user information shall accrue to the new owners. Your personally identifiable information will continue to be governed by this Privacy Policy, as it may be amended from time to time. 
 
 If you have any questions about this privacy policy, e-mail them to [privacyadministrator@villagevoicemedia.com](mailto:privacyadministrator@villagevoicemedia.com), and be sure to indicate the specific site you're visiting and the nature of your question or concern. If your personally identifiable information changes, you may correct and/or update it by sending us an email at [web@houstonpress.com](mailto:web@houstonpress.com). 
-
-| 
-
-[ ](https://web.archive.org/community/registration/login.php)
-
-[ ](http://houston.backpage.com/)  
-
-
-[**community (554)**](http://houston.backpage.com/community/classifieds/Results?adLanguage=All&section=4382)  
-[**automotive (2,562)**](http://houston.backpage.com/automotive/classifieds/Results?adLanguage=All&section=141307)  
-[**buy, sell, trade (6,272)**](http://houston.backpage.com/buyselltrade/classifieds/Results?adLanguage=All&section=4378)  
-[**musician (703)**](http://houston.backpage.com/musician/classifieds/Results?adLanguage=All&section=4380)  
-[**rentals (4,452)**](http://houston.backpage.com/rentals/classifieds/Results?adLanguage=All&section=4376)  
-[**real estate for sale (2,759)**](http://houston.backpage.com/realestate/classifieds/Results?adLanguage=All&section=4375)  
-[**jobs (6,173)**](http://houston.backpage.com/employment/classifieds/Results?adLanguage=All&section=4373)  
-[**personals (1,189)**](http://houston.backpage.com/personals/classifieds/Disclaimer?adLanguage=All&section=4383)  
-[**adult entertainment (1,035)**](http://houston.backpage.com/adult/classifieds/Disclaimer?adLanguage=All&section=4381)  
-[**services (2,853)**](http://houston.backpage.com/services/classifieds/Results?adLanguage=All&section=4374)  
-
-
-[](https://web.archive.org/blogs/)
