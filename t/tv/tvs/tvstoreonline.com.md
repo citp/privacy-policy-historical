@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvstoreonline.com privacy policy that was archived on 2006-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061122224541id_/http%3A//tvstoreonline.com/about.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvstoreonline.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629042803id_/http%3A//tvstoreonline.com/about.htm) for the most accurate reproduction.*
 
 # About Our Company
 
