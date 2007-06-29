@@ -1,17 +1,11 @@
-> *The following text is extracted and transformed from the thestreet.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210192023id_/http%3A//www.thestreet.com/tsc/commerce/privacy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestreet.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629163939id_/http%3A//www.thestreet.com/tsc/commerce/privacy/privacy_policy.html) for the most accurate reproduction.*
 
-# Terms of Use
+# TheStreet.com Privacy Policy
 
   
 
 
 Market Overview
-
-  
-
-
-[  
-](http://ad.doubleclick.net/clk;52307527;4639705;m?http://clk.atdmt.com/OY6/go/thstrtam0010000284oy6/direct;at.Q107_TheStreetcomFIN_AV_Market_Data_Bo_Button_12030td_pri_fee_2_q406_12030_3gifthstrtam0010000284oy6/01/)
 
   
   
@@ -20,11 +14,11 @@ Market Overview
 
 [](http://www.thestreet.com/_tscleftnav/tsc/landingpages/goodlife/index.html)
 
-[RSS FEED](http://www.thestreet.com/_tscleftnav/tsc/rss)
+[RSS FEED](http://www.thestreet.com/_tscleftnav/tsc/rss/)
 
   
 |  |  **TheStreet.com, Inc. Privacy Policy**  
-**Last revised: August 25, 2005**
+**Last revised: January 12, 2007**
 
 TheStreet.com, Inc. shares your concern about the protection of your personal information online. This is our policy regarding the privacy of information we collect on our web sites. We have recently revised our policy. Please take some time to review the new version below. This Privacy Policy includes examples of the types of personal information we collect and the kinds of companies with whom we share such information. These examples are illustrative and should not be considered a complete inventory of our information collection, use and sharing practices. We will comply with applicable state laws that may restrict the types of information we may disclose about you or require us to provide you with additional notices. 
 
@@ -45,8 +39,8 @@ If you'd like access to one or more of our premium subscription-based services, 
 You may, at your option, subscribe to a real-time, streaming Real-Time Portfolio Tracker, which is provided to us as a result of a partnership with B4Utrade.com Corp. Use of the B4Utrade.com Real-Time Portfolio Tracker is completely voluntary and is the privacy or your portfolio information is governed by B4Utrade.com's [Privacy Policy](http://www.b4utrade.com/b4utrade/jsp/common/PrivacyPolicy.jsp). 
   * **MyStockWatch**  
 We provide a free service called MyStockWatch, which you can use to stay current on _TheStreet.com_ or _RealMoney_ coverage of stocks in your portfolio. Registered members of TheStreet.com may create up to five lists with a maximum of 50 tickers each. You must therefore enter in tickers of stocks you are interested in following. This information is kept confidential and is not utilized for marketing purposes by TheStreet.com. 
-  * **Chats, Reader's Forum and Moderator**  
-We provide chat events for discussion of various topics and we allow readers to submit questions to _RealMoney's_ Reader's Forum and _Street Insight's_ Moderator . No additional personal information is required to submit questions, but participants are asked in the interests of accountability, honesty and informed dialogue to include their full names, as well as any positions they have in stocks mentioned in the question submitted. Please note that information you submit to the Reader's Forum, the Moderator, or during a chat will be available for any user of that service to read, and is no longer private. 
+  * **Blogs and Chats**  
+We provide blogs featuring running commentary throughout the trading day by _RealMoney_ 's most popular contributors, including Jim Cramer. This exciting feature allows subscribers to respond to a blogger's commentary or to another subscriber's post. The blogs are provided subject to their own terms of use, which can be found [here](http://www.thestreet.com/tsc/commerce/terms/tou-sb-1_blogs.html). Only paid subscribers of our _RealMoney_ service may use the blogs. We urge and encourage participants posting comments on the blogs to include their full name in any comment and to disclose any positions held in securities they discuss in any comment. We also host chat events for discussion of various topics. Please note that information you submit to the blogs or during a chat will be available for any user of that service to read, and is no longer private. 
   * **Surveys/Polls**  
 At certain times, you may be asked to participate in surveys, which are generally aimed at obtaining general information, for example, your investment experience or your reactions to a particular article. Because information obtained in these surveys is connected with individual subscribers and is used internally to better market our services, participation is voluntary. In addition, some columnists will on occasion take polls of their readers. Such polls are solely for the editorial use of the individual columnists, and participation is voluntary. 
   * **Contests and Sweepstakes**  
@@ -76,6 +70,10 @@ If you would like to opt-out from such tracking, click [here](http://www.atlasso
 **Coremetrics**
 
 [Coremetrics](http://www.coremetrics.com/), an online marketing analysis company, is used by TheStreet.com to collect data as to what pages our customers are visiting and what, if any, pattern of page viewing exists. We utilize Coremetrics to analyze such customer activity data solely to better serve the interests of our customers. Only non-personally identifiable information is collected by Coremetrics for analysis, using anonymous cookies, and all such data belongs to TheStreet.com. If you would like to opt-out of this collection of tracking data, click [here](http://www.coremetrics.com/company/privacy.html#optout) and follow the instructions to select one of the two available options for opting out. We also use Coremetrics to analyze anonymous commerce data to determine the performance of our marketing campaigns. To view the privacy policy of Coremetrics, click [here](http://www.coremetrics.com/company/privacy.html).
+
+**Omniture**
+
+TheStreet.com uses [Omniture, Inc.](http://www.omniture.com/), a provider of online business optimization software, to assist us in the capture and analysis of customer usage and tracking information. Omniture acts as a limited agent to TheStreet.com only for the purpose of providing such services. Only Any information obtained by Omniture from TheStreet.com is and will remain TheStreet.com's property, and will be treated by Omniture as proprietary and confidential information of TheStreet.com. As such, Omniture will not disclose such information to any third party, unless specifically and rightfully instructed to do so by TheStreet.com. Omniture will not review, share, distribute, print, or reference any session data of visitors to TheStreet.com websites except as requested by TheStreet.com or as may be required by law. To view the privacy policy of Omniture, [click here](http://www.omniture.com/privacy/policy). If you do not wish to allow your session visitation information to be aggregated and analyzed by Omniture, you may utilize the opt out mechanism found under the heading "OPT OUT METHOD" [here](http://www.omniture.com/privacy/product).
 
   *  **Tracking by our Advertisers**  
 TheStreet.com's advertisers include financial services companies (such as brokerage firms, banks, and mortgage companies) and non-financial services companies (such as computer manufacturers, software companies, automobile makers and retail stores). TheStreet.com's advertisers and advertising vendors display targeted advertisements. Although TheStreet.com does not provide any personal information to the advertiser or advertising vendor, by interacting with or clicking on an ad you consent to the possibility that the advertiser will assume you meet the targeting criteria used.
