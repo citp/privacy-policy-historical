@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the totaljobs.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205223844id_/http%3A//www.totaljobs.com/Contents/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totaljobs.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629170517id_/http%3A//www.totaljobs.com/Contents/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy policy
+# 
 
 At totaljobs.com we make every effort to comply with our obligations under the 1998 Data Protection Act. Additionally, we understand the importance of maintaining the confidentiality of your CV and other information stored about you while using the site. 
 
 You can remove any of the information that totaljobs.com stores about you, at any time, by logging in to your 'My totaljobs' account and choosing to close the account. 
 
-_Privacy policy update (1 August, 2006)_
+_Privacy policy update (1 February 2007)_
 
 **Registration details**   
 Contact and other details you supply as part of the registration process are stored by us and used to provide you with the information you have requested. 
 
 **Profile and CV information**   
-When you complete your totaljobs.com profile, including your CV, it can be made available for searching, viewing over the Internet and downloading by totaljobs.coms' customers. Customers who request CVs matching your profile to be sent to them, will receive your CV and profile via email or CD Rom. These may be direct recruiters, employment consultants or other organisations.
+When you complete your totaljobs.com profile, including your CV, it can be made available for searching, viewing over the Internet and downloading by any direct recruiter, employment consultant or other person or organisation who requests CVs matching your profile to be sent to them. Totaljobs.com does not verify the identity or the nature of the business of such organisations.
 
 **IMPORTANT:** Your current employer may be a customer of totaljobs.com, or a client of one of our customers. Totaljobs.com cannot restrict the customers who access profiles on our database and cannot be held responsible for any eventuality. As part of the registration process totaljobs.com offers you the option of remaining anonymous. 
 
