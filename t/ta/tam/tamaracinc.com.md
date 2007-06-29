@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the tamaracinc.com privacy policy that was archived on 2003-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030806115603id_/http%3A//www.tamaracinc.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamaracinc.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629044750id_/http%3A//www.tamaracinc.com/Public/privacy.htm) for the most accurate reproduction.*
 
-# Tamarac Inc. - Privacy Policy
+# Tamarac Inc.
 
+|   
 Tamarac Inc. (“Tamarac”) has created this privacy policy to demonstrate our commitment to privacy. 
 
 As a general proposition, we do not sell, rent or otherwise disclose any personally identifiable information about you to any third party. We do aggregate personally identifiable information and disclose such information in the aggregate to advertisers and for other marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to personally identify you, your clients, or your client’s investments. 
@@ -16,4 +17,7 @@ Tamarac uses security measures on this Web site to protect the loss, misuse and 
 
 Tamarac reserves the right to change or update this privacy policy at any time without notice by updating this page. All updates to this privacy policy will be posted at this location. You should visit this page from time to time to review the then-current terms because they are binding on you. 
 
-If you have any questions about this privacy policy, the practices of this Web site, or your dealings with this Web site, you may contact us at: [info@TamaracInc.com](mailto:info@tamaracinc.com). 
+If you have any questions about this privacy policy, the practices of this Web site, or your dealings with this Web site, you may contact us at: [info@tamaracinc.com](mailto:info@tamarcinc.com).   
+  
+  
+---|---
