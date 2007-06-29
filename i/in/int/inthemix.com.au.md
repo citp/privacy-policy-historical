@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inthemix.com.au privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216085740id_/http%3A//www.inthemix.com.au/pages/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inthemix.com.au privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629034615id_/http%3A//www.inthemix.com.au/pages/help/privacy) for the most accurate reproduction.*
 
 # inthemix | Privacy Statement
 
@@ -28,7 +28,8 @@ If you make a purchase through our website, we process your credit card details 
 Sometimes our website contains links to third party websites, for your convenience and information. When you access a non-inthemix.com.au website, please understand that inthemix.com.au is not responsible for the privacy practices of that site. We suggest that you review the privacy policies of each site you visit. 
   12. **Additional privacy information and how to contact inthemix**  
 inthemix.com.au may change its Privacy Policy at any time. inthemix.com.au will make available this policy to anyone who requests it. For further information about privacy issues and the protection of privacy visit the Australian Federal Privacy Commissioner's website at www.privacy.gov.au. If you feel that inthemix.com.au is not complying with this Privacy Policy, or if you have other privacy concerns, please contact our Privacy Officer (using the following contact details): 
-    * by email you can use [this form](https://web.archive.org/pages/help/contactus).
+    *  
+    * [**by submitting a Support Request**](http://ticketing-support.thesoundalliance.net/)
     * by facsimile on +61 (0) 2 9475 4167 
     * by letter to PO Box 1964, Strawberry Hills NSW 2012 AUSTRALIA
 
