@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ieee.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615211305id_/http%3A//www.ieee.org/web/publications/rights/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ieee.org privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629162841id_/http%3A//www.ieee.org/web/publications/rights/privacy.html) for the most accurate reproduction.*
 
-# About your Security and Privacy
+# IEEE - About your Security and Privacy
 
 In certain transactions you are given the option of running in a secure (SSL) mode or unsecure mode. In cases where a firewall is causing a situation that cannot be corrected, the use of the unsecure mode is given. The unsecure mode is used by you at your own risk.
 
