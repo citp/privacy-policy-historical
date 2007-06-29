@@ -1,13 +1,16 @@
-<!--The following is the downloaded HTML source of the foxybingo.com privacy policy that was archived on 2006-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061225170555id_/http%3A//foxybingo.com/site/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the foxybingo.com privacy policy that was archived on 2007-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070629081701id_/http%3A//www.foxybingo.com/site/general/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <title>Foxy Bingo - Play Online Bingo Chat and Win</title>
+<!--<base href="http://www.foxybingo.ie/site/" />-->
 <base href="http://www.foxybingo.com/site/">
-<meta name="KeyWords" content="Foxybingo, bingo, online bingo, free bingo, bingo game, free online bingo, free bingo game, uk bingo, play bingo, jackpot bingo, bingo card, internet bingo, uk online bingo, online bingo game, bingo site, play bingo online">
+<!--<base href="http://www.bluenunbingo.com/site/" />-->
+<meta name="KeyWords" content="bingo, online bingo, free bingo, bingo game, free online bingo, free bingo game, uk bingo, play bingo, jackpot bingo, bingo card, internet bingo, uk online bingo, online bingo game, bingo site, play bingo online">
 <meta name="description" content="Foxybingo - Play bingo, chat online, big bingo jackpots and fun games.">
 <link rel="stylesheet" type="text/css" href="css/fb2stylesheet.css" title="Standard">
+<meta name="verify-v1" content="KLxVjt23uxQaolsqjHDRpTtPn3am1kK74X3zjGbNbS0=">
 <!--START NEW AQUAPAYCASHIER-->
 </head><body><form name="CashierForm" method="POST" action="https://secure2.aquapay.com/AquapayCashier/" target="AquaPayCashier">
 	<input type="hidden" name="oid" value="2">
@@ -20,7 +23,9 @@
 <!--END NEW AQUAPAYCASHIER-->
 
 
+<!--
 <script src="embed.js"></script>
+-->
 <script>
 
 
@@ -398,7 +403,7 @@ window.status = 'u=' + u + ' s=' + s;
 		// new foxy
 		if (gu != null && g == null) {g = gu;gu=null;};
 		
-
+		
 		if (gu == null) gu = u;
 	
 		if (gs == null) gs = s;
@@ -457,8 +462,13 @@ window.status = 'u=' + u + ' s=' + s;
 			  biWH = "width=620,height=455,top="+sh+",left=0";
 			}
 		} else {
+
+		//	alert("Sorry... This game is currently unavialable");
+		//	return;
+
 			sh = screen.height-600;
-			biGame = "http://info.thejoyofbingo.com/BIk/kaave.php?uid="+u+"&guid="+s+"&gameid="+g;
+			biGame = "https://www.kaave.com/games/mac/en/mgames.jsp?uid="+u+"&guid="+s+"&gameid="+g+"&from=foxy";
+			//biGame = "http://info.thejoyofbingo.com/BIk/kaave.php?uid="+u+"&guid="+s+"&gameid="+g;
 		  biWH = "width=600,height=520,top="+sh+",left=0";
 		}
 
@@ -546,17 +556,87 @@ function getCookie(name)
 	return "";
 	}
 
-</script>
+	
+	
+	
+	
+<!--//				PLAY THE GAME																																																											   -->
+function play_test(iRoom,loc) {
+	var bGameOpen = false;
+	
+	if(navigator.appName.indexOf("Microsoft") == -1 && document.getElementsByTagName("base").length > 0){
+		loc = document.getElementsByTagName("base")[0].href + "game/play.php";
+	}
+	if(!loc) loc="game_test/play.php";
+	if(!iRoom) iRoom="";
+	loc += "?room=" + iRoom;
 
+
+	// check if game window already open
+	try
+		{
+		var oTest = playWin.document;
+		if (oTest != null)	bGameOpen = true;
+		}
+	catch(ee)
+		{
+		bGameOpen = false;
+		}
+
+	if (!bGameOpen)
+		{
+		h=(screen.height*.9)-54
+		w=(screen.width*.9)
+
+		if (navigator.appName.indexOf("Microsoft") != -1) {
+		  playWin = window.open(loc, "playWin", "height="+h+",width="+w+",top=1,left=1,resizable");
+			}
+		else {
+		  playWin = window.open(loc, "playWin", "height="+screen.height-2+",width="+screen.width-2+",screenY=1,screenX=1,resizable");
+			}
+		playWin.focus();
+		}
+  else
+		{
+		playWin.focus();
+		}
+	}
+	
+</script><base href="http://www.foxybingo.com">
+<script language="javascript">
+	
+	function howtoplay(){
+window.open('/site/howtoplay.html',"game","toolbar=0,location=0,left=0,top=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=1,width=720,height=520"); 
+}
+		function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+function expand() {
+styleObj = document.getElementById('playertop').style;
+   styleObj.display = 'inline';
+   }
+</script>
+<!--<base href="http://www.foxybingo.ie/site/" />-->
+<base href="http://www.foxybingo.com/site/">
+<!--<base href="http://www.bluenunbingo.com/site/" />-->
+
+
+
+
+<!-- 77 TRACKING - DON NOT REMOVE -->
+<script language="javascript" src="http://77tracking.com/77Tracking.js"></script>
+<script language="javascript">fn77TPageHit('3cec7d50');</script>
+<!-- END 77 TRACKING -->
 
 <table cellpadding="0" cellspacing="0" style="margin:0px auto 0px auto"><tbody><tr><td>
-<a href="http://www.foxyflutter.co.uk" target="_blank"><img src="fb2images/FoxyHomepage-New-bar_03.gif"></a>
+<!--<a href="http://www.foxyflutter.co.uk" target="_blank"><img src="fb2images/FoxyHomepage-New-bar_03.gif" /></a>-->
 <table id="tblfoxy" cellspacing="0" cellpadding="0">
 	<tbody><tr>
 		<td><a href="http://www.foxybingo.com"><img src="fb2images/fb2_logo.gif" alt="Play Foxy and Win!" border="0"></a></td>
 		<td style="background-color:#FE8004">
-			<img src="fb2images/fb2_login.gif"><br>
-			<form name="topForm" action="members.php" method="POST">
+			<img src="fb2images/fb2_login_new.gif">
+			<div>
+            <form name="topForm" action="members.php" method="POST">
 			<input name="form_action" id="form_action" type="hidden" value="LOGIN">				
 			<input name="u" type="hidden" value="">
 			<input name="s" type="hidden" value="">
@@ -564,15 +644,20 @@ function getCookie(name)
 			<input name="c" type="hidden" value="">
 						<div class="loginbox"> 
 				<table cellpadding="0" cellspacing="0">
-					<tbody><tr><td>Username</td><td><input type="text" name="Alias" class="loginform" size="8" tabindex="1" value="">	</td><td rowspan="2"><input type="image" src="fb2images/fb2_btn_go.gif" name="Login" value="Login" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Login','','fb2images/fb2_btn_go_over',1)" style="margin-left:5px"></td></tr>
-					<tr><td>Password</td><td><input type="password" name="Password" class="loginform" size="8" id="Password" tabindex="2"><br> <span id="forgotten"><a href="forgot.php">Forgotten login</a></span></td></tr>
+					<tbody><tr><td style="padding-top:5px">
+                    <table cellpadding="0" cellspacing="0">
+                    	<tbody><tr><td>Username:</td><td><input type="text" name="Alias" class="loginform" size="8" tabindex="1" value=""></td></tr>
+                        <tr><td>Password:</td><td><input type="password" name="Password" class="loginform" size="8" id="Password" tabindex="2" value=""></td></tr></tbody></table>
+                    </td><td>	</td><td rowspan="2" valign="top"><input type="image" src="fb2images/fb2_btn_go_new.gif" name="Login" value="Login" style="margin-left:5px"></td></tr>
+					<!--onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Login','','fb2images/fb2_btn_go_over.gif',1)"-->
+                    <tr><td> <div id="forgotten" align="right"><a href="forgot.php">Forgotten login</a></div></td><td></td></tr>
 				</tbody></table>
+               
 			</div>
 														
-			</form>		</td>
-		<td><a href="javascript: play(null,'http://www.foxybingo.com/site/game/play.php');"><img src="fb2images/fb2_playnow.gif" border="0"></a></td>
-		<td>
-		  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="185" height="107">
+			</form>		</div></td>
+		<td><a href="javascript: play(null,'http://www.foxybingo.com/site/game/play.php');"><img src="fb2images/fb2_playnow_new.gif" border="0"></a></td>
+		<td><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="185" height="107">
             <param name="movie" value="flash/Site_TC_ball.swf">
             <param name="quality" value="high">
             <embed src="flash/Site_TC_ball.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="185" height="107">
@@ -580,39 +665,45 @@ function getCookie(name)
 	    <td><img src="fb2images/fb2_rightcurvedheader.gif"></td>
 	</tr>
 	<tr>
-		<td><img src="fb2images/fb2_maintl.gif"></td>
-		<td colspan="4" bgcolor="#9232cf">
+		<td bgcolor="#9232cf"><img src="fb2images/fb2_maintl.gif">
+                </td>
+		<td colspan="4" bgcolor="#9232cf"> 
 			<table cellspacing="0" cellpadding="0"><tbody><tr><td><img src="fb2images/fb2_navleft.gif"></td>
-			<td id="nav" background="fb2images/fb2_navsliver.gif"><a href="http://www.foxybingo.com">Home</a> | <a href="https://www.foxybingo.com/site/register.php">Join Now</a> | <a href="games.php">Bingo Games</a> | <a href="chatgames.php">Coverall Jackpots</a> | <a href="funhouse/index.php">Funhouse </a>| <a href="promotions.php">Promotions</a> | <a href="help.php">Help</a> </td>
+			<td id="nav" background="fb2images/fb2_navsliver.gif"><a href="http://www.foxybingo.com">Home</a> | <a href="register.php">Join Now</a> | <a href="/site/promotions/index.php">Promotions</a> | <a href="/site/games/index.php">Our Games</a> | <a href="/site/radio/index.php">Foxy Radio</a> | <a href="http://forum.foxybingo.com" target="_blank">Forum</a> | <a href="/site/funhouse/index.php">The Funhouse</a> | <a href="/site/help/index.php">Help</a></td>
 			<td><img src="fb2images/fb2_maintr.gif"></td></tr></tbody></table>
 		<!--<div style="width:536px; height:9px; background-color:#9232cf"></div>	<img src="fb2images/mainspacer.gif" />-->	</td>
 	</tr>
 </tbody></table>
 <table cellpadding="0" cellspacing="0" id="main"><!--style="border:#333333 1px solid"-->
 	<tbody><tr>
-		<td style="padding-left:17px;width:190px"><div id="content_topleft" class="orangecontentarea">
-<table cellpadding="0" cellspacing="0">
-				<tbody><tr><td><img src="fb2images/fb2_hdg_winners.gif" id="hdg_winners"></td><td rowspan="2"><div>“I've scooped £1,000 on Foxy Bingo just in time for Christmas.”<br><a href="funhouse/winners.php">Read More »</a></div></td></tr>
-				<tr><td><img src="fb2images/fb2_player.jpg"></td></tr>
-			</tbody></table>
-</div><img src="fb2images/fb2_contentbottom.gif"><br><br>
+		<td style="padding-left:17px;width:190px"><div id="content_left"><div class="top"><img src="fb2images/fb2_hdg_main.gif" alt="Today's Feature" style="margin:10px 0px 10px 0px"><br><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="153" height="111">
+              <param name="movie" value="flash/topleft.swf">
+              <param name="quality" value="high">
+              <embed src="flash/topleft.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="153" height="111">
+  </object></div>
+<div class="orangecontentarea"><img src="fb2images/fb2_hdg_promo.gif" style="margin-top:22px"><a href="/site/promotions/monthly/index.php"><img src="/site/fb2images/home/seaside_promo.jpg" style="margin-top:5px" border="0"></a>
 
-<img src="fb2images/fb2_content_top.gif"><div id="content_left" class="orangecontentarea">
-		<table>
-			<tbody><tr><td><img src="fb2images/fb2_hdg_promo.gif" id="hdg_promo"></td><td><img src="fb2images/fb2_hollyleaf.gif" style="margin:0px 0px 0px 4px"></td></tr>
-			<tr><td colspan="2"><map name="advent"><area shape="rect" coords="1,120,151,222" href="advent.php"></map><a href="promotions.php"><img src="fb2images/FB_promo_main_dec.jpg" alt="Visit Santa in Lapland" border="0" style="margin-left:7px; margin-bottom:21px" usemap="advent"></a></td>
-			</tr>
-			<tr><td colspan="2" align="center"><a href="promotions.php"><img src="fb2images/fb2_morepromo.gif"></a></td>
-			</tr>
-		</tbody></table>
-		
-		</div>
-<img src="fb2images/fb2_contentbottom.gif">
-</td> <!--end of left col -->	
 
+<img src="fb2images/fb2_hdg_more.gif" alt="Offers at Foxybingo" style="margin-top:5px">
+
+<ul>
+	
+	<li>» <a href="/site/promotions/monthly/index.php">Win a Holiday</a></li>
+	<li>» <a href="/site/promotions/teambingo/index.php">Team Bingo</a></li>
+	<li>» <a href="/site/promotions/weekly/index.php">Win a Tent</a></li>
+	<li>» <a href="/site/games/chat/tourneys.php">Foxy Fab Fives</a></li>
+	<li>» <a href="/site/promotions/winbps.php#snakes">Weekly Specials</a></li>
+	<li>» <a href="/site/promotions/referfriend.php">Refer a Friend</a></li>
+</ul>	
+	<br><a href="/site/promotions/index.php">Click here for more great promotions &gt;&gt;</a>
+	<br>
+	<br>
+	
+	
+</div></div><img src="fb2images/fb_left_btm.gif"></td> <!--end of left col -->
 					<td>
 													
-					<form name="mainForm" action="/site/privacypolicy.php" method="POST" id="mainForm">
+					<form name="mainForm" action="/site/general/privacy.php" method="POST" id="mainForm">
 					<input name="form_action" id="form_action" type="hidden" value="LOGIN">
 			<table width="520" cellspacing="0" cellpadding="0" border="0" bgcolor="#9232CF" id="Table1">	
 	
@@ -621,33 +712,25 @@ function getCookie(name)
 <tr>
 <td width="520" colspan="3"><img src="http://www.foxybingo.com/site/images/textarea_top.gif"></td>
 </tr>
-
-
-
 <tr>
 <td width="10" bgcolor="#DE75D6"></td>
 <td width="502" bgcolor="#DE75D6" valign="top">
-<div id="pinkcontent">	<h1 class="big">PRIVACY POLICY</h1>		
-	<table cellspacing="5" cellpadding="5" width="100%" border="0" align="center">
-	
-		<tbody><tr>
+<div id="pinkcontent" style="padding:0px 10px;">
+<h1>Privacy Policy</h1>
 
-			<td align="center">
-			
 IMPORTANT: BY USING THIS WEBSITE YOU GIVE YOUR CONSENT THAT ALL PERSONAL DATA SUBMITTED BY YOU MAY BE PROCESSED BY US FOR THE PURPOSES SET OUT BELOW
-
-			</td>
-		</tr>
 			
-		<tr>
-
-			<td>			
+<br><br>				
 
 <b>1.	Introduction</b><br>
-1.1	“foxybingo.com” and “foxybingo” are brands of and owned by Cashcade Limited.  This website and the services offered on it are operated by Globalcom Limited and Cytech Limited. As such, all personal data and customer funds are transferred to Globalcom Limited and Cytech Limited to provide such services. Cytech Limited and Globalcom Limited hold an interactive gaming licence issued by the Kahnawake Gaming Commission.<br> 
+
+1.1	"foxybingo.com" and "foxybingo" are brands of and owned by Cashcade Limited.  This website and the services offered on it are operated by Globalcom Limited and Cytech Limited. As such, all personal data and customer funds are transferred to Globalcom Limited and Cytech Limited to provide such services. Cytech Limited and Globalcom Limited hold an interactive gaming licence issued by the Kahnawake Gaming Commission.<br> 
+
 1.2	Cashcade Limited is committed to preserving the privacy of all visitors to foxybingo.com. Please read the following privacy policy to understand how we collect, use and protect the information that you provide to us. By registering and using this website, you consent to the collection, use and transfer of your information under the terms of this policy.<br><br>
+
 <b>2.	Information that we collect from you</b><br>
 2.1	Personal information is collated and stored primarily during the registration process, but is also monitored when there is activity on your account and when you use this website. The personal information that we collect may include information such as: contact information (including name, address, age, gender, telephone number and email address), billing information, transaction history, web site usage preferences, and feedback regarding the Service. This information is held by us on servers based in Canada and elsewhere from time to time. As with many other websites, we may use software known as 'cookies' to store information relating to your preferences to enable us to improve our service to you.<br><br>
+
 <b>3.	Use of your information</b><br>
 3.1	Personal data submitted by you to us will only be used to the extent that it is strictly necessary for one of the following purposes: <br>
 (a)	assisting us in setting up and managing your account; <br>
@@ -657,7 +740,7 @@ IMPORTANT: BY USING THIS WEBSITE YOU GIVE YOUR CONSENT THAT ALL PERSONAL DATA SU
 3.2	We reserve the right to conduct a security review at any time to validate your identity, age, the registration data provided by you and to verify your use of this website and your financial transactions for potential breach of our terms and conditions and of applicable law. By accepting this Privacy Policy, you authorise us, our staff, affiliates, subsidiaries, agents and suppliers to use your personal data and to disclose your personal data to third parties for the purposes of validating the information you provide to us in the course of using this website, including where necessary the transfer of information outside of your country. Security reviews may include but are not limited to ordering a credit report and/or otherwise verifying the information you provide against third party databases. In addition, to facilitate these security reviews, you agree to provide such information or documentation as we may request.<br>
 <b>4.	Disclosure of your information</b><br>
 4.1	Please note that information that you provide will be disclosed to the following parties:-<br>
-(a)	Cashcade Limited, Cytech Limited, Globalcom Limited and the Kahnawake Gaming Commission (“KGC”) have access to your account information for use in accordance with the rules and guidelines that govern this website. <br>
+(a)	Cashcade Limited, Cytech Limited, Globalcom Limited and the Kahnawake Gaming Commission ("KGC") have access to your account information for use in accordance with the rules and guidelines that govern this website. <br>
 (b)	reputable marketing partners selected by us. If you do not wish to receive promotional or other information then please check the appropriate box during the registration process; <br>
 (c)	any company or other entity to whom we may sell all or part of our business; <br>
 (d)	any competent legal, regulatory or law enforcement authority including the KGC;<br>
@@ -673,8 +756,8 @@ IMPORTANT: BY USING THIS WEBSITE YOU GIVE YOUR CONSENT THAT ALL PERSONAL DATA SU
 6.1	To make data corrections or to obtain access to the data we have about you, you must send us a written request that should be addressed to the Director of Customer Services for Cashcade Limited. We will disclose to you your personal data held by us, we shall correct or delete inaccurate details, and notify any third party recipients of the necessary changes. Changes to certain parts of your account information can also be made by accessing 'My Account' on this website. <br>
 6.2	We regularly delete data that is no longer required. For further information on what data is held about you can be obtained by contacting us as follows:-<br><br>
 Address:<br>
-Cashcade Limited t/a “foxybingo.com”<br>
-4 Valentine Place<br>
+Cashcade Limited t/a "foxybingo.com"<br>
+10, Valentine Place<br>
 London<br>
 SE1 8QH<br><br>
 
@@ -686,7 +769,7 @@ tech@getminted.com - For help with any technical related questions<br>
 games@getminted.com - For questions relating to any of our games<br>
 info@getminted.com - For anything else you need to know.<br><br>
 
-6.3	You may also “opt-out” of receiving any promotional communications either by choosing to opt-out where such option is made available on this website or by contacting us at the details set out above.<br>
+6.3	You may also "opt-out" of receiving any promotional communications either by choosing to opt-out where such option is made available on this website or by contacting us at the details set out above.<br>
 <b>7.	Cookies</b><br>
 Cookies are small amounts of information which we store on your computer. Unless you have indicated your objection when disclosing your details to us, our system will issue cookies to your computer when you log on to the site. Cookies make it easier for you to log on to and use the site during future visits. They also allow us to monitor website traffic and to personalise the content of the site for you. You may set up your computer to reject cookies although, in that case, you may not be able to use certain features on our site. If you do not wish to receive cookies in the future, please let us know.<br><br>
 <b>8.	Changes to this Privacy Policy</b><br>
@@ -696,7 +779,7 @@ With the exception of your personal details, all other information, including, b
 <b>10.	Third-Party Practices </b><br>
 We cannot ensure the protection of any information or images that you provide to a third-party online site that links to or from this website or any information collected by any third party administering our affiliate program or any other program, since these third-party online sites are owned and operated independently of us. Any information collected by these third parties is not governed by this Privacy Policy but by the privacy policy, if any, of such third party. If you have questions about a third party’s information practices, please read its privacy policy. We assume no responsibility or liability whatsoever for the practices, actions or policies of such third parties, and is not responsible for the content or privacy practices of such online sites.<br><br>
 <b>11.	Legal Disclaimer</b><br>
-The services offered from this website operate “AS-IS” and “AS-AVAILABLE,” without liability of any kind. We are not responsible for events beyond our direct control. Because of the complex and constantly changing nature of our technology and business, we cannot guarantee nor do we represent that there will be error-free performance regarding the privacy of your personal information, and we will not be liable for any indirect, incidental, consequential or punitive damages relating to the use or release of personal information.<br><br>
+The services offered from this website operate "AS-IS" and "AS-AVAILABLE," without liability of any kind. We are not responsible for events beyond our direct control. Because of the complex and constantly changing nature of our technology and business, we cannot guarantee nor do we represent that there will be error-free performance regarding the privacy of your personal information, and we will not be liable for any indirect, incidental, consequential or punitive damages relating to the use or release of personal information.<br><br>
 <b>12.	Protection of Children</b><br>
 The Service is not intended for or directed to persons under the age of 18. Any person who provides their information to us through any part of the Service represents to us that they are 18 years of age or older. If we become aware that a minor has attempted to or has submitted personal information via the online site, we will not accept this information and will take steps to remove such information from our records. This may involve us having to access and verify your Personal Information.<br><br>
 <b>13.	Legal Compliance, Governing Laws and Disputes</b><br>
@@ -707,55 +790,73 @@ The Service is not intended for or directed to persons under the age of 18. Any 
 
 [Last amended: 21 February 2006]<br><br><br>
 
-							
-			</td>
-		</tr>
+<br><br>
 
-		
-	</tbody></table>
-	<br><br>
-	<a href="#top" class="back2top">back to top »</a>
-	<hr>
-	<br></div>
+
+
+</div>
 </td>
-
 <td width="8" bgcolor="#391494"></td>
 </tr>
-
-
 <tr>
-<td width="520" colspan="4"><img src="http://www.foxybingo.com/site/images/textarea_bottom.gif"></td>
+<td width="520" colspan="4" valign="top"><img src="http://www.foxybingo.com/site/images/textarea_bottom.gif"></td>
 </tr>
-
 </tbody></table>
 </form>
 </td>
 </tr> 
 </tbody></table>
-<table id="tbl_edges" cellpadding="0" cellspacing="0"><tbody><tr><td align="left"><a href="http://www.foxyflutter.co.uk" target="_blank"><img src="fb2images/foxy_footerMock_03.jpg"></a></td></tr></tbody></table>
+<table id="tbl_edges" cellpadding="0" cellspacing="0"><tbody><tr><td align="left"><!--<a href="http://www.foxyflutter.co.uk" target="_blank"><img src="fb2images/foxy_footerMock_03.jpg" /></a>-->
+<table cellpadding="0" cellspacing="0" border="0">
 
-<table id="tbl_footerlinks"><tbody><tr><td align="left"><a href="loyalty.php">Loyalty Progam</a> | <a href="faq.php">FAQs</a> | <a href="contact.php">Support</a></td>
-<td align="right"><a href="aboutus.php">About Us</a> | <a href="terms.php">Terms &amp; Conditions</a> | <a href="privacypolicy.php">Privacy Policy</a> | <a href="http://affiliate.foxybingo.com">Affiliates</a> | <a href="links.php">Links</a></td>
+	<tbody><tr>
+		<td width="331"><br></td>
+		<td width="316"></td>
+		<td width="90"></td>
+	</tr>
+
+	<tr>
+		<td width="331" rowspan="2"><img src="http://www.foxybingo.com/site/fb2images/fb_bottom_main_left.jpg"></td><td width="316"><img src="http://www.foxybingo.com/site/images/fb_bottom_main_play.gif"></td><td width="90" rowspan="2"><a href="http://www.foxybingo.com/site/katies_charity.php"><img src="http://www.foxybingo.com/site/images/fb_bottom_main_right.gif" border="0"></a></td>
+	</tr>
+
+	<tr>
+		<td width="316"><a href="http://www.foxybingo.com/site/katies_charity.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('link','','http://www.foxybingo.com/site/images/fb_bottom_main_click_over.gif',1)"><img src="http://www.foxybingo.com/site/images/fb_bottom_main_click.gif" name="link" border="0"></a></td>
+	</tr>
+	
+</tbody></table>
+
+</td></tr></tbody></table>
+
+
+<table id="tbl_footerlinks"><tbody><tr><td align="left"><a href="/site/help/faqs.php">FAQs</a> | <a href="/site/aboutus/fairgaming.php">Fair Gaming</a> | <a href="/site/help/index.php">Contact Us</a> | <a href="/site/aboutus/index.php">About Us</a></td>
+<td align="right"><a href="/site/general/terms/index.php">Terms &amp; Conditions</a> | <a href="/site/general/privacy.php">Privacy Policy</a> | <a href="http://affiliate.foxybingo.com" target="_blank">Affiliates</a><!--| <a href="/site/general/links.php">Links</a>--></td>
 </tr></tbody></table>
+
 
 <div class="rbroundbox">
 	<div class="rbtop"><div></div></div>
 		<div class="rbcontent" align="left">
-			<img src="fb2images/fb2_cards.gif" id="cards">
-			<img src="fb2images/fb2_kahnawake.gif" id="kahnawake">
+			<img src="fb2images/fb2_cards.gif" id="cards"><img src="fb2images/spacer.gif" width="180" height="1">
 			<a href="http://www.cashcade.co.uk" target="_blank"><img src="fb2images/fb2_cashcade.gif" name="cashcade" border="0" id="cashcade"></a>
-			<a href="javascript:window.open('https://secure.liquidpayments.com/gmtest3/spg/general/images/cert.html','sb','toolbar=0,location=0,directories=0,status=1,menubar=0,scrollbars=1,resizable=0,width=490,height=400'); void(0);"><img src="fb2images/fb2_thawte.gif" name="thawte" border="0" id="thawte"></a> </div>
+			<a href="javascript:window.open('https://secure.liquidpayments.com/gmtest3/spg/general/images/certfoxy.html','sb','toolbar=0,location=0,directories=0,status=1,menubar=0,scrollbars=1,resizable=0,width=490,height=400'); void(0);"><img src="fb2images/fb2_thawte.gif" name="thawte" border="0" id="thawte"></a> </div>
 		<!-- /rbcontent -->
 	<div class="rbbot"><div></div></div>
-</div><!-- /rbroundbox -->
+</div><!-- /rbroundbox --><div class="footsubnav"><a href="http://www.foxybingo.com/free-bingo.php">Free Bingo</a> | <a href="http://www.foxybingo.com/lottery-results.php">Lottery Results</a> | <a href="http://www.foxybingo.com/play-bingo-online.php">Play Bingo Online</a> | <a href="http://www.foxybingo.com/katie-price.php">Katie Price Bingo</a> | <a href="http://www.foxybingo.com/chat-bingo.php">Chat Bingo</a> | <a href="http://www.foxybingo.com/site/promotions/welcome.php">Bingo Bonus</a> | <a href="http://www.foxybingo.com/site/gallery/">Bingo Gallery</a></div>
+<p class="rbcontent" align="center" style="width:710px;font-size:11px; color:#63228c;padding:5px;">Foxybingo.com (wholly owned and marketed by Cashcade Ltd) is licensed and regulated to offer online gaming services under the laws of Gibraltar through Cassava Enterprises (Gibraltar) which makes no representation as to legality of such services in other jurisdictions.
+</p>
 </td></tr></tbody></table>
 <!-- Burst Tag Starts -->
 <img src="http://www.burstnet.com/enlightn/356//9279/" width="0" height="0" border="0">
 <!-- Burst Tag Ends -->
-<!-- Boxtonic Action Tag Starts -->
-<img width="1" height="1" src="http://media.ccsaint.net/displayimage/00001270/85/0/375" border="0">
-<img height="1" width="1" src="http://switch.atdmt.com/action/mbpfp_foxybingo_home">
-<!-- Boxtonic Action Tag Ends -->
+
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1424557-8";
+urchinTracker();
+</script>
 
 
+ 
+	
 </body></html>
