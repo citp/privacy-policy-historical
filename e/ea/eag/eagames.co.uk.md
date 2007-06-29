@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eagames.co.uk privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205213850id_/http%3A//www.ea.com/global/legal/privacy_noseal.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eagames.co.uk privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629023004id_/http%3A//www.ea.com/global/legal/privacy_noseal.jsp) for the most accurate reproduction.*
 
 # EA.com Privacy Policy
 
