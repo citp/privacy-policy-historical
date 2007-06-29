@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the schooloutfitters.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205212849id_/http%3A//www.schooloutfitters.com/catalog/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schooloutfitters.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629050203id_/http%3A//www.schooloutfitters.com/catalog/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy at School Outfitters
 
-|  | 
+School Outfitters is a leading retailer of school furniture and equipment, with our headquarters located at 4950 Franklin Avenue, Norwood, OH 45212. We want you to be comfortable shopping with us, so we go to great lengths to protect your privacy and ensure the security of the information you provide us. And we want you to understand and feel comfortable with the information we collect, how we keep it safe and the circumstances under which we might share it.
 
-## Our Privacy Policy
-
-| School Outfitters is a leading retailer of school furniture and equipment, with our headquarters located at 4950 Franklin Avenue, Norwood, OH 45212. We want you to be comfortable shopping with us, so we go to great lengths to protect your privacy and ensure the security of the information you provide us. And we want you to understand and feel comfortable with the information we collect, how we keep it safe and the circumstances under which we might share it. | [](http://www.truste.org/ivalidate.php?url=www.schooloutfitters.com&sealid=101)  
+| [](http://www.truste.org/ivalidate.php?url=www.schooloutfitters.com&sealid=101)  
 ---|---  
   
 ## What information do we collect?
