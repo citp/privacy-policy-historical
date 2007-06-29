@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smarthomeusa.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219010612id_/http%3A//www.smarthomeusa.com/info/privacy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarthomeusa.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629194909id_/http%3A//www.smarthomeusa.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Statement for SmartHomeUSA.com - SmartHomeUSA.com
 
