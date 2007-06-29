@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the klienwachter.com privacy policy that was archived on 2006-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061031200439id_/http%3A//klienwachter.com/privacy_policy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klienwachter.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629114808id_/http%3A//klienwachter.com/privacy_policy_statement.htm) for the most accurate reproduction.*
 
-# Privacy Statement
+# Spiritual New Age Wisdom Privacy Policy
 
  
 
@@ -13,8 +13,7 @@ Port Coquitlam, British Columbia
 Canada  
 V3C 6N3**
 
-We can be reached via e-mail at [ http://klienwachter.com/feedback.htm](http://www.klienwachter.com/contact.htm)  
-or you can reach us by telephone at [ http://klienwachter.com/feedback.htm](http://www.klienwachter.com/contact.htm)  
+We can be reached via e-mail at [ http://klienwachter.com/contact.htm](http://www.klienwachter.com/contact.htm)  
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
 
