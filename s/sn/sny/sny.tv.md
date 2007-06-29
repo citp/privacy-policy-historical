@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sny.tv privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229230858id_/http%3A//www.sny.tv/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sny.tv privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629144048id_/http%3A//www.sny.tv/about/privacy.jsp) for the most accurate reproduction.*
 
 # SNY.tv: About: Privacy Policy
 
