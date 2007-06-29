@@ -1,57 +1,55 @@
-> *The following text is extracted and transformed from the nai.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603034326id_/http%3A//www.nai.com/us/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nai.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629170129id_/http%3A//mcafee.com/us/about/privacy.html) for the most accurate reproduction.*
 
-# Network Associates Inc.- Privacy Policy Statement
+# McAfee® - about - Privacy policy
 
-## Privacy Policy Statement
+### Privacy policy
 
-##### OUR POSTAL ADDRESS IS:
+#### Our mailing address:
 
-**Network Associates, Inc.  
-Attn: Corporate Marketing Department  
+**McAfee, Inc.  
+Attn: Privacy Officer - 3rd Floor  
 3965 Freedom Circle  
 Santa Clara, CA 95054**
 
-##### YOU CAN REACH US BY:
+#### Reach us by:
 
-**TEL: 972.308.9960  
-E-mail: [subscribe@nai.com](mailto:subscribe@nai.com)**
+**E-mail:  ** [**privacy@mcafee.com**](mailto:privacy@mcafee.com)
 
-##### Network Associates Statement of Privacy:
+**This statement discloses the privacy practices for McAfee, Inc.** ® **Please note that because we are very sensitive to the privacy concerns of our home users, we have additional precautions in place to protect the personal information that consumers provide.  If you are a home user, please review our Consumer Privacy Policy.**
 
-At Network Associates, and our Affiliates ("NAI"), we recognize the increased importance of electronic commerce and the growth of the Internet as a part of everyday business transactions. As a world leader in network security and network management solutions, we understand and appreciate your need to control your personal data as you take advantage of the Internet. That's why we maintain strict internal policies that exceed industry standards concerning your privacy.
+[Consumer privacy policy](http://us.mcafee.com/root/aboutUs.asp?id=privacy)
 
-Questions regarding this statement should be directed to [customer_service_na@nai.com](mailto:customer_service_na@nai.com). 
+#### What information we collect
 
-##### Network Associates and Your Privacy:
+McAfee asks you for information when you register as a customer, purchase one of our products; download free evaluation software, upgrades, or white papers; order e-mail newsletters, respond to a marketing campaign, or place orders on the www.mcafeesecurity.com site. We use the information we gather to improve the user experience on our site, identify frequent visitors and for the following purposes:
 
-NAI may ask you to register and provide information that personally identifies you, including when you register as a customer or purchase a product from NAI, download free evaluation software, upgrades, or white papers, order email newsletters, respond to a marketing campaign, or to place orders on the www.nai.com site. The information gathered is used to enhance the user experience on our site and to identify frequent visitors. We use your personal information for three primary purposes:
-
-  * To improve the content of our web site, products and services
-  * To alert you to product upgrades, updates and renewal information regarding your product
-  * To share special offers, product announcements and updated information, and other new services from NAI.
+  * To provide product, fulfill an order, or complete a transaction
+  * To ensure that the products you purchase are up to date and operating correctly, and to provide the appropriate level of support
 
 
 
-You may receive periodic mailings from us with information on new products and services or upcoming events. We may also carefully select other companies to send you information about their products and services. If you do not wish to receive such mailings, please let us know by sending email to us at the above address, calling us at the above telephone number, or writing to us at the above address. Please provide us with your name and information you want on our do-not-share list. We will be sure your name is removed from the list we share with other organizations.
+In addition, we may use your information to improve the content of our Web site, products, and services; to alert you to product upgrades, updates, and renewal information regarding your product; and to share special offers, product announcements, and other new services from McAfee, Inc. When you register or make a purchase, we offer you the opportunity to opt into or out of these uses of your information. If you do not choose to opt out initially, you may still block future contact of this type by simply following the unsubscribe instructions that accompany all such communications, or by contacting us at the above address.
 
-Additionally, if you do not want NAI to contact you for marketing purposes by email, postal mail, fax and/or phone, you may opt out by sending email to us at the above address, calling us at the above telephone number, or writing to us at the above address. Please provide us with your name and the information you wish to unsubscribe. Place the word UNSUBSCRIBE in the subject.
+We e-mail service notifications inform you about the status of your service orders or accounts, and to provide updates and technical notices. These messages are essential to maintain your subscription and the functionality of our services, so there is no opt-out available for service notifications, and these messages cannot be blocked.
 
-NAI will take appropriate steps to protect the information you share with us. When you provide us with a Credit Card number (and other sensitive information), NAI will take commercially reasonable steps to protect this information through a secure connection with your web browser. Credit card numbers are only used for payment processing and are not retained for marketing purposes.
+We follow strict best practices for e-mail marketing and customer contact, and we urge our business partners to do so as well. For more information on our practices, [please click here](http://us.mcafee.com/root/marketerTips.asp)
 
-If you have questions or comments regarding NAI privacy practices you can contact us at [customer_service_na@nai.com](mailto:customer_service_na@nai.com) and we will be sure to address your needs. 
+#### Who we share it with
 
-##### Cookies
+We may share the information you provide with our business partners who act on our behalf for the uses described above.   
 
-NAI uses software tags called "cookies" to identify customers when they visit our site. Among other things Cookies help us identify returning users so that we don't ask them to register with every visit. They help us understand your buying preferences and customize our service to your needs. By understanding which areas of the site you visit, cookies allow us to present information, products and specials that are of personal interest. 
 
-##### Suppression Procedures
+#### How we offer our customers a choice
 
-To be suppressed from future marketing announcements, send an email to subscribe@nai.com. In the subject, type UNSUBSCRIBE. In the body of the email, please include the information you would like us to suppress from future mailings or information you do not want us to share with other reputable organizations. (Name, Company, Address, PO Box/Suite/Department, City, State, Zip, Email, Phone, Fax)
+If you do not want McAfee to contact you or your company for marketing purposes by e-mail, postal mail, fax and/or phone, you may opt out by contacting our customer service, by sending e-mail, or writing to us at the above address.
 
-##### Consumer Privacy Policy
+Please note that we do not allow our customers to opt out of contact that is required for the functionality of our products and services.
 
-McAfee Security is vigilant about protecting your privacy as a consumer. As a data security company, we understand better than most the need for you to maintain control over your personal data when using the Internet. We maintain your privacy through the enforcement of strict internal polices that exceed industry standards.
+#### Security of your information
 
-[Consumer Privacy Policy](http://us.mcafee.com/root/genericURL_genericLeftNav.asp?genericURL=/common/en-us/html_files/pr_privacy.asp&genericLeftNav=/common/en-us/html_files/aboutUs_nav.asp)
+McAfee uses state-of-the-art security technology to protect our customer data. Access to customer information is restricted to authorized personnel only. Credit card numbers are only used for payment processing and automatic renewals, where applicable, and are never retained for marketing or other purposes.  
 
-back to top 
+
+#### Access to your information
+
+If you are a home user or consumer and you wish to view or correct McAfee's information about you or your company, please click the "My Account" link. Enterprise customers who wish to change or view information should contact their sales representative or contact us at the above address. 
