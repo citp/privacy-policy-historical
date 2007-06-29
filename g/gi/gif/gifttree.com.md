@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gifttree.com privacy policy that was archived on 2006-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061129194050id_/http%3A//www.gifttree.com/helppgs/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gifttree.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629172713id_/http%3A//www.gifttree.com/helppgs/privacy.php) for the most accurate reproduction.*
 
 # GiftTree's Privacy, Security Statement
 
@@ -41,4 +41,4 @@ With respect to security: When we transfer and receive certain types of sensitiv
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
 
-Please see our [Terms of Use](https://web.archive.org/web/20061129194050id_/http%3A//www.gifttree.com/helppgs/termsofuse.php) for further information.
+Please see our [Terms of Use](https://web.archive.org/web/20070629172713id_/http%3A//www.gifttree.com/helppgs/termsofuse.php) for further information.
