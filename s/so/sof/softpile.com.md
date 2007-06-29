@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softpile.com privacy policy that was archived on 2006-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061220072504id_/http%3A//softpile.com/docs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softpile.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629232822id_/http%3A//www.softpile.com/docs/privacy.html) for the most accurate reproduction.*
 
 # Softpile.com | Privacy Policy
 
@@ -10,9 +10,8 @@ From time to time, we may ask users to provide an e-mail address or mailing addr
 
 We do not use cookies on this site. But we use an outside ad company to display ads on our site. These ads may contain cookies. Cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
 
-**Email-Newsletter List Privacy Policy**
+## Email-Newsletter List Privacy Policy
 
 Softpile Software maintains a strict "no-spam" policy. If you sign up for our free newsletter, your e-mail address will "not" be sold or given to any third party. 
 
-If you have any questions or concerns, please contact us via email at:  
-  [master@softpile.com](mailto:%20master@softpile.com)
+If you have any questions or concerns, please contact us via email at: [master@softpile.com](mailto:%20master@softpile.com)
