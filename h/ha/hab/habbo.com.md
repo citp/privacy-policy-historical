@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the habbo.com privacy policy that was archived on 2006-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061227015601id_/http%3A//www.habbo.com/footer_pages/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the habbo.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629123121id_/http%3A//www.habbo.com/footer_pages/privacy_policy.html) for the most accurate reproduction.*
 
 # Habbo ~
 
 **Privacy Policy**
 
 Habbo Hotel™  
-Habbo Hotel™ is a place where people can create their own Habbos, have fun, hang out, play games, and make friends. Because of its interactive content, Habbo Hotel™ is for users who are 13 years of age or older. We urge everyone, especially teens and their parents to use and enjoy our web site responsibly. At Sulake, Inc. ("Sulake"), we respect your privacy concerns and we understand that visitors to the Hotel need to understand the uses of their personal information. The privacy policy below details the measures taken by Sulake to protect your privacy in connection with your use of www.habbohotel.com and other sites owned and operated by Sulake ("Sulake Sites"). Sulake does not intend to collect any personal information from children under 13, unless Sulake believes such collection to be permitted by law; please read below for Sulake’s policy with respect to children under 13. 
+Habbo Hotel™ is a place where people can create their own Habbos, have fun, hang out, play games, and make friends. Because of its interactive content, Habbo Hotel™ is for users who are 13 years of age or older. We urge everyone, especially teens and their parents to use and enjoy our web site responsibly. At Sulake, Inc. ("Sulake"), we respect your privacy concerns and we understand that visitors to the Hotel need to understand the uses of their personal information. The privacy policy below details the measures taken by Sulake to protect your privacy in connection with your use of www.habbo.com and other sites owned and operated by Sulake ("Sulake Sites"). Sulake does not intend to collect any personal information from children under 13, unless Sulake believes such collection to be permitted by law; please read below for Sulake’s policy with respect to children under 13. 
 
 Privacy Policy Overview  
 At Sulake, we explicitly ask when we want you to give us information that personally identifies you. By personal information we mean individually identifiable information about an individual collected online, including, but not limited to, first and last name, physical or email address, telephone number, instant messenger screen names etc., that is associated with individually identifiable information (“Personal Information”). For example, we ask you for your name and email address if you wish to register as a user of services found on Habbo Hotel™, including, chat areas, games, contests, communities, and/or other message or communication facilities designed to enable you to communicate with Sulake, the online public or with a group (“Service”).
@@ -14,7 +14,7 @@ We may place a text file called a “cookie” in the browser files of your comp
 
 We reserve the right to collect and disclose (to our affiliates and to non-affiliate third parties) user behavior and Personal Information to the extent permitted by applicable law, as specifically restricted below or in the Terms of Use (click to link). Notwithstanding anything to the contrary in this Privacy Policy or elsewhere, we reserve the right at all times to disclose any information as necessary to satisfy any applicable law (including, without limitation, the Children's Online Privacy Protection Act), regulation, legal process, law enforcement requests, demands by parties claiming your infringement of their rights or governmental request, to edit, refuse to post or remove any information or materials, in whole or in part, in our sole discretion; or to act in an emergency to protect someone’s safety or legal rights.
 
-We encourage you to use caution and common sense in giving out Personal Information when using [ Community Services](http://www.habbohotel.com/habbo/en/help/safety/habboway/) or otherwise. We have no control over third parties to whom you may give Personal Information through the use of our Services. 
+We encourage you to use caution and common sense in giving out Personal Information when using [ Community Services](http://www.habbo.com/habbo/en/help/safety/habboway/) or otherwise. We have no control over third parties to whom you may give Personal Information through the use of our Services. 
 
 A Special Note about Children, Children’s Privacy and Our Compliance with the Children’s Online Privacy Protection Act:  
 In compliance with the Children’s Online Privacy Protection Act (COPPA), we do not intend to collect any Personal Information from children under 13 years of age unless we believe such collection to be permitted by law. Our Services target an audience that is over the age of 13 and some content may not be appropriate for all ages. Parental supervision is recommended. If you are the parent or guardian of a child under 13 and believe that he or she is using the site please contact us at privacy.us@sulake.com. Upon request, the parent or guardian of a child under 13 may review and request the deletion of such child’s Personal Information, as well as refuse to permit the further collection or use of such Personal Information. 
@@ -63,9 +63,10 @@ From time to time we may ask our site visitors to answer survey questions. Surve
 
 Contacting Us about Privacy Questions or Concerns:  
 If you have questions or comments regarding this Privacy Policy please contact us at privacy.us@sulake.com or send a letter to:  
-Privacy Manager - habbohotel.com  
+Privacy Manager - habbo.com  
 1460 4th St. Suite #302  
-Santa Monica, CA 90401 
+Santa Monica, CA 90401  
+1-888-515-4540 
 
 Effective Date This privacy policy is effective as of September 1, 2004 
 
