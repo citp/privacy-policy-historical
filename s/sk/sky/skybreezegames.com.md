@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skybreezegames.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214200906id_/http%3A//skybreezegames.com/siteInfo/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skybreezegames.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629211425id_/http%3A//www.skybreezegames.com/siteInfo/privacyPolicy.html) for the most accurate reproduction.*
 
 # Dress up games online.
 
@@ -53,6 +53,6 @@ Please be sure to include your e-mail address and a telephone number where we ca
 
 **Contact Us** :  
 Sky Breeze Games  
-1163 County Road 800 E.   
-Carmi, IL 62821  
+1833 County Road 1980 E.   
+Crossville, IL 62827  
 Email: [play@skybreezegames.com](mailto:play@skybreezegames.com?Subject=Sky%20Breeze%20Games)
