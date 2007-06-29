@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegehumor.com privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224020402id_/http%3A//www.collegehumor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegehumor.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629212625id_/http%3A//www.collegehumor.com/privacy) for the most accurate reproduction.*
 
 # Privacy / CollegeHumor
 
@@ -123,9 +123,9 @@ Connected Ventures has a Terms and Conditions of Use Agreement that sets forth t
 This Website is operated by Connected Ventures, LLC. Our office address is: 
 
 Connected Ventures LLC  
-349 Broadway  
-9th Floor  
-New York , New York 10013  
+225 Park Avenue South  
+17th Floor  
+New York , New York 10003  
 United States of America 
 
 We may be reached via email at [content@collegehumor.com](mailto:content@collegehumor.com) or you may call us at 212-625-3567 ****
