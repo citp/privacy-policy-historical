@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the shopping-bargains.com privacy policy that was archived on 2006-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061130032356id_/http%3A//www.shopping-bargains.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopping-bargains.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629101001id_/http%3A//www.shopping-bargains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Shopping-Bargains.com Privacy Policy Statement
 
- Shop By Department
+Shop By Department
 
-  » [View All Departments](https://web.archive.org/departments/)
+[ALL Departments](https://web.archive.org/departments/)  
+[ALL Stores](https://web.archive.org/stores/)
 
-  » [View All Stores](https://web.archive.org/stores/)  
-  » [International Stores](https://web.archive.org/stores/nonusstores.cfm) |  |  |  |  This is the Web site of **Shopping-Bargains.com, LLC**.  
+|  |  |  |  This is the Web site of **Shopping-Bargains.com, LLC**.  
 
 
   * Our postal address is as follows:
