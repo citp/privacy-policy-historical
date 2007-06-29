@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iwebtrack.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209072908id_/http%3A//iwebtrack.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwebtrack.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629070243id_/http%3A//www.iwebtrack.com/privacy.asp) for the most accurate reproduction.*
 
 # IWEBTRACK: Privacy Policy
 
@@ -37,10 +37,10 @@ For questions regarding the above policy, contact privacy@iwebtrack.com.
 ---|---|---  
 |  | Try it on your site free  
 ---  
-[](https://web.archive.org/trial_signup.asp)Try our web analytics service **free** for 15 days with no obligation, no credit card required to sign up, and no limit to the number of websites you manage.
+[](https://web.archive.org/trial_signup.asp)Try our web analytics service **free** for 30 days with no obligation, and no limit to the number of websites you manage.
 
 [Try It Free](https://web.archive.org/trial_signup.asp)
 
-[View the Live Demo](http://www.iwebtrack.com/login/summary.asp?login=true&email=demo&password=demo)  
+[View the Live Demo](http://login.iwebtrack.com/summary.asp?autologin=true&email=demo&password=demo)  
   
 |  | 
