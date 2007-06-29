@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the icrossing.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209075112id_/http%3A//www.icrossinginc.com/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icrossing.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629214727id_/http%3A//www.icrossing.com/privacy) for the most accurate reproduction.*
 
-# Privacy Agreement: iCrossing, we´re for finding.
+# Privacy Policy - User Agreement - iCrossing: we’re for finding
 
 iCrossing, Inc. ("IC" or "we") takes your privacy seriously and we want you to understand the ways in which we do and do not use the information that you transmit when you visit our websites. This statement discloses the privacy practices for our [www.iCrossing.com](http://www.icrossing.com/), [http://i2a.icrossing.com](http://i2a.icrossing.com/Interest2Action), and [www.IC-Live.com](http://www.ic-live.com/) sites. 
 
@@ -14,17 +14,17 @@ We use non-personal information such as demographic data to analyze and develop 
 
 Cookies. Cookies are a technology which can be used to provide you with tailored information from a website. A cookie is an element of data that a website can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. Our site makes use of cookies. Cookies are used to track visitors to our site so we may better understand what portions of our site best serve you. 
 
-Cookies are used by IC for the purposes of user targeting and research and development. Additionally, at the user's option, we will collect HTTP cookies, which will be used for research and development and one-time tailoring. This data will only be used by IC and our agents. 
+Cookies are used by IC for the purposes of user targeting and research and development. Additionally, at the user’s option, we will collect HTTP cookies, which will be used for research and development and one-time tailoring. This data will only be used by IC and our agents. 
 
 Our Web server automatically collects some information about you when you request pages from our server, including your IP address. Your IP address is a number that is used by computers connected to the Internet to identify your computer so that data (such as the Web pages you request) can be sent to you. This information does not identify you personally. 
 
-Log Files. We also collect IP addresses to analyze trends, administer the website, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personal information. 
+Log Files. We also collect IP addresses to analyze trends, administer the website, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personal information. 
 
 Legal Disclaimer. We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the requirements of law or comply with legal process served on the website. 
 
 Minors. No portion of our services is directed towards minors (individuals below the age of 18) and we do not knowingly solicit any information about minors or market to minors. 
 
-Security. Privacy is very important to iCrossing. We take every precaution to protect our users' information. All information gathered on our [www.iCrossing.com](http://www.icrossing.com/) and [www.IC-Live.com](http://www.ic-live.com/) websites are protected for storage within a controlled database. However, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information will not be intercepted while being transmitted to us over the Internet. 
+Security. Privacy is very important to iCrossing. We take every precaution to protect our users’ information. All information gathered on our [www.iCrossing.com](http://www.icrossing.com/) and [www.IC-Live.com](http://www.ic-live.com/) websites are protected for storage within a controlled database. However, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information will not be intercepted while being transmitted to us over the Internet. 
 
 If you have any questions about the security of this website, please e-mail policy@iCrossing.com.
 
