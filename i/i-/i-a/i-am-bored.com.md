@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the i-am-bored.com privacy policy that was archived on 2006-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061223032823id_/http%3A//www.i-am-bored.com/im_bored_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-am-bored.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629155236id_/http%3A//i-am-bored.com/im_bored_privacy.asp) for the most accurate reproduction.*
 
 # I Am Bored - Sites for when you're bored.
+
+privacy policy
+
+* * *
 
 I-Am-Bored.com Online Privacy Policy 
 
@@ -91,3 +95,5 @@ We use MaxOnline and other third-party advertising companies to serve ads when y
 Third Party Cookies 
 
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
+
+< [**Back to I Am Bored Home**](https://web.archive.org/web/20070629155236id_/http%3A//i-am-bored.com/im_bored_latest_1.htm)
