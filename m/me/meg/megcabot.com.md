@@ -1,92 +1,65 @@
-> *The following text is extracted and transformed from the megcabot.com privacy policy that was archived on 2006-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060704110701id_/http%3A//www.harpercollins.com/templates.asp%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megcabot.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629022539id_/http%3A//www.megcabot.com/privacy.php) for the most accurate reproduction.*
 
-# HarperCollins Publishers Company Profile
+# Welcome to MegCabot.com
 
-  
- Privacy Policy  
+## Privacy Policy
+
+This Privacy Policy describes how MegCabot.com collects, uses and shares personally identifiable information ("PII") we obtain from and about individuals located in the U.S. both online and off-line. Our "General Privacy Information" applies to adults and all children (except where noted) and our section entitled "Children's Privacy Policy" applies solely to children who have not yet reached their 13th birthday. The effective date of this policy is May 30, 2004, and it was most recently revised on November 17, 2006. Except as explicitly stated below, we will not affirmatively notify users of changes in our policy; but we will of course abide by the policy in effect at the time we collect PII from any user of this website, respecting uses of that PII. 
+
+The Operators of MegCabot.com are Meggin Cabot and Hanee Designs, LLC. You can inquire about our Privacy Policy by contacting The Meg Cabot Book Club at 532 LaGuardia Place #359, New York, NY 10012, or at privacy@MegCabot.com. 
+
+##  GENERAL PRIVACY INFORMATION 
+
+###  COLLECTION, USE, DISCLOSURE AND SECURITY OF PERSONALLY IDENTIFIABLE INFORMATION AT MegCabot.com 
+
+**Direct Collection of PII:** MegCabot.com collects personally identifiable information ("PII"), such as your full name, e-mail address, mailing address or telephone number, only in order to create or enhance our relationship with you. We collect PII from you directly when you voluntarily submit information to us in order to participate in activities at our website. 
+
+**Indirect Collection of PII:** We may also collect information from you passively through the use of cookies. Cookies are small bits of information that the operators of Internet sites place on the hard drive of your computer. Cookies remember information about your activities on the site and enable the operator of the site to make your visits to our website more enjoyable. At this time, MegCabot.com employs cookies to identify each user as a unique visitor, so that we can determine if you are a new or returning user. Users may also optionally store a cookie that contains a username and password for easy logon. These cookies are not currently associated with any PII. Also, you can program your computer to warn you each time a cookie is being sent or to refuse cookies completely.  
+MegCabot.com also records your PC's IP address when you complete a form or when you post a message on the message boards. 
+
+**Use by MegCabot.com of PII:** We use PII only for notification of contest winners; in connection with submissions of suggestions and content and requests for information; registrations for subscriptions, contests, sweepstakes and games; administration of the message boards; sign-ups for emails from Meg (which may contain marketing messages for recipients aged 13 or older); and for the purpose of allowing access to our message boards (for which children under age 13 will need parental approval). When you give us information for a specific purpose, we will use that information solely for that purpose unless we tell you otherwise and give you an opportunity to "opt out." 
+
+**Linked Websites:** MegCabot.com's website may contain links to other Internet sites operated by other companies. MegCabot.com is not responsible for the privacy practices of websites operated by third parties that are linked to our website. Once you've left MegCabot.com via such a link, you should check the applicable privacy policy of the third party to determine how they will handle any PII they collect from you. 
+
+**Internal Security:** MegCabot.com uses reasonable administrative, technical, personnel and physical measures to safeguard PII in its possession against loss, theft and unauthorized use, disclosure or modification. 
+
+**Third Party Access to PII at MegCabot.com:** MegCabot.com will not share PII with any third party except to a person or entity who provides support for the internal operations of the website and who does not disclose or use that information for any other purpose. When we give third parties access to PII, they must first agree to maintain security and confidentiality consistent with this Privacy Policy. 
+
+**Your Access to Your PII at MegCabot.com:** (See further information below regarding children under age 13.)If you would like to know the types of information that MegCabot.com collects from visitors to its website, please contact us. If you would like to know whether MegCabot.com has collected PII about you, please send us the activities that you participated in on our website which requested PII; after reviewing the relevant databases, we will confirm whether we have collected such information about you. You may review PII about you in our records at any time provided you first give us proof of your identity via postal mail or by fax, such as a copy of a valid driver's license with your name and address. You may request changes into the PII we have that pertains to you, and/or end any direct communications with you, or even delete your PII altogether. 
+
+**Notification of Changes in this Policy:** We may change this Privacy Policy from time to time. When we do, we will give notice of changes in this space so you can be kept abreast by visiting this site from time to time. Despite any changes in policy, however, we only will use information in accordance with the privacy policy in effect when the information was collected. 
+
+##  CHILDREN'S PRIVACY POLICY 
+
+###  COLLECTION, USE, DISCLOSURE AND SECURITY OF PERSONALLY IDENTIFIABLE INFORMATION ("PII") AT MegCabot.com FOR CHILDREN UNDER AGE 13 
+
+**Kids and Internet Safety:** We at MegCabot.com understand that the Internet presents an opportunity for us to reach the public in new and exciting ways with information about our programming, fun games, exciting sweepstakes and contests, email, chat rooms, message boards, and other forms of interactivity. MegCabot.com also recognizes the privacy concerns of parents and the importance of protecting the privacy of the information we collect from children on our website. Parents of children can be confident that any personal information that may be provided to our website will be collected, used and maintained in accordance with the Children's Online Privacy Protection Act ("COPPA"). MegCabot.com encourages parents to supervise their children's activities online and to participate with their children's online activities whenever possible. However, we understand that parents may not always be able to supervise their children's activities on the Internet. That's why we have developed a website that parents can feel are safe for their children and kids will find cool, informative, educational, and fun! Because there's always room for improvement, we welcome any suggestions on how to make the website a better, safer place to hang out. 
+
+**Collection of PII from Children Under 13:** When a visitor to our website is under the age of 13, we do not require the disclosure of more PII than is reasonably necessary for her or him to participate in an activity as a condition of such participation. We collect from children under age 13 no more than names, and email addresses, depending on reasonable need. We do this in connection with submissions of suggestions and content and requests for information; and for the purpose of posting to our message boards (for which children under age 13 will need parental approval). With very few exceptions—described further below—we do not store PII from a child below the age of 13 without first providing notice to the child's parent or guardian and obtaining the parent or guardian's consent. (For simplicity, our further references to "parents" are intended to include "legal guardians" as well.) These procedures are discussed further below. 
+
+**Our General Practice Regarding Parental Consent:** Before we collect, use or disclose PII of a child younger than 13, we will initially collect only the child's email address. Before using this information for any purpose, we require permission from the parent. We will ask the parent to provide consent by returning via postal mail or by fax a consent form that will be attached to the notification. If parental consent is not obtained by one of these methods within two weeks, MegCabot.com will delete all of the child's PII from its records. Once consent is obtained, if there is any material change in the collection, use and/or disclosure practices to which the parent has previously consented, we will give the parent further notice by the same means as before. 
+
+###  Our General Practice Regarding Parental Consent: 
+
+  * We may collect the child's email address in order to respond to a message. After the response, the email message and email address will be deleted and no record will be kept. 
+  * We may collect a child's name and email address to the extent reasonably necessary to protect the safety of the child participant, in which case it will not be used to recontact the child or for any other purpose, and will not be disclosed on the website. Furthermore, in such instances, we will use reasonable efforts to notify the parent that we have collected the child's name and email address to protect the child's safety, that the parent may refuse to permit the use of the information and require the deletion of the information, and how the parent may do so. We will provide the parent with a link to access this Privacy Policy if we communicate by email; and with a copy of this Privacy Policy if we communicate by other means. We will ask the parent to provide consent by returning via postal mail or by fax a consent form that will be included in the notification. We will also notify the parent that if the parent fails to respond to the notice within two weeks, we may use the information for the purpose stated in the notice. 
+  * **EXCEPTIONS TO Our General Practice Regarding Parental Consent** : We may collect a child's name and email address to the extent reasonably necessary to protect the security or integrity of the website; to take precautions against liability; to respond to judicial process; or, to the extent permitted under law, to provide information to law enforcement agencies or for an investigation on a matter related to public safety. In each of these cases, the information will not be used to recontact the child or for any other purpose, and will not be disclosed on the website. 
 
 
-  
-  
-**Welcome to HarperCollins!**  
-Effective as of March 9, 2006
 
-HarperCollins Publishers L.L.C. ("HarperCollins") is part of the News America Group, which has adopted a set of [Privacy Principles](http://www.newscorp.com/privacy.html) applicable to all its U.S.-based companies. HarperCollins has implemented those Principles in this Privacy Policy, which describes how we collect, use and share personally identifiable information ("PII") we obtain from and about individuals located in the United States both online and off-line.   
-  
-**Children's Privacy Policy**  
-Some of our online activities are directed to children under 13. When those activities involve the collection of PII, we provide additional privacy protections. To read about our protections that relate to the online collection of PII from children under 13 [click here](https://web.archive.org/web/20060704110701id_/http%3A//www.harpercollins.com/templates.asp%3Fpage%3Dprivacypolicy?page=coppa).
+###  Means for Parents to Review PII of their Children and Revoke Consent 
 
-From time to time HarperCollins may revise this Privacy Policy to reflect industry initiatives or changes in the law, our PII collection and use practices, the features of our Web sites, or technology. Therefore, you should review it periodically so that you are up to date on our most current policies and practices. If HarperCollins materially changes its practices regarding the collection or use of your PII, your PII will continue to be governed by the Policy under which it was collected unless you have been provided notice of and have not objected to the change.
+Parents may request at any time to review their child's personal information, to delete it, to refuse to permit further collection or use of the child's information, and/or to revoke any consent. Parents should direct their requests to Hanee Designs at 835 Riverside Drive, Suite 5J, New York, NY 10032, telephone number 212-781-8651, fax number 212-372-3182, or at privacy@MegCabot.com. 
 
-**COLLECTION: COLLECTION OF PERSONALLY IDENTIFIABLE INFORMATION ("PII") BY HARPERCOLLINS**
+###  Upon request from a parent: 
 
-General. HarperCollins collects personally identifiable information ("PII" -- that is, information such as your full name, e-mail address, mailing address or telephone number) only in order to create or enhance our relationship with you. When we collect PII from you it is because you are voluntarily submitting the information to us in order to participate in activities like sweepstakes, contests, games, surveys, forums, subscription registrations, in connection with content or suggestions you submit to us, chats or bulletin boards, or because you want us to furnish you with products, services or information. We may also obtain PII from reputable third parties. 
+  * We will give the parent the opportunity to review the PII provided by his or her child if the parent is able to show that he or she is the parent of that child, by sending reasonable proof via postal mail or by fax. 
+  * We will give the parent a description of the general types or categories of personal information collected from children by us. 
+  * We will give the parent the opportunity to refuse to permit our further use or future online collection of PII from the parent's child and to request our deletion of the child's personal information. 
 
-Cookies. Cookies are small bits of information that the HarperCollins Web sites place on the hard drive of your computer. Cookies remember information about your activities on the site and enable the operator of the site to make your visits to our Web sites more enjoyable.
 
-If you have subscribed to be a "member" of HarperCollins and log on to one of our Web sites under your "password", we will employ cookies to identify you as a unique visitor. We also may use cookies in a variety of ways, such as allowing for easier logon and relating your use of our Web sites to non-personally identifiable information you have provided to us, so that we can limit the online ads we display to you to those we believe are consistent with your interests.
 
-We may also use cookies or similar tools to relate your use of our Web sites to PII obtained from you or a reputable third party. For example, if you ask us to send you information about our upcoming products or promotions, cookie and/or click stream data about your activities on HarperCollins Web sites may allow us to limit the material we send you to the types of items we believe you will find interesting, based upon your activities on our sites and your preferences. However, if we wish to coordinate your personal and Web site activity information in this manner, we will obtain your express affirmative consent. Also, our cookies will not contain PII.
+If a parent refuses to permit further collection or use of the child's information, and/or revoke consent, then we will immediately comply and delete all information relating to that child in our database. However, we will continue to permit the child to participate in activities at the website that do not require personal information, and we will only terminate a service provided to the child if the information in question is reasonably necessary for the child's participation. 
 
-You can program your computer to warn you each time a cookie is being sent or to refuse cookies completely.
+Last Updated November 17, 2006.  
 
-**NOTICE: HARPERCOLLINS WILL PROVIDE YOU WITH NOTICE ABOUT ITS PII COLLECTION PRACTICES**
-
-When you voluntarily provide PII to HarperCollins, we will make sure you are informed about who is collecting the information, how and why the information is being collected and the types of uses we will make of the information. 
-
-At the time you provide your PII, HarperCollins will notify you of your options regarding our use of your PII, including whether we will share it with outside companies (See "Choice" below). This Policy describes the types of other companies that may want to send you information about their products and services and therefore may want to share your personal information, provided you have given HarperCollins permission to do so (See "Use" below). 
-
-Sometimes we collect personally identifiable information from consumers in manual format or off-line, such as a post card or subscription form. Providing detailed notice in those situations often proves impractical, so consumers will instead be provided with a short notice that describes how to obtain the full text of this Policy and other relevant information from us.
-
-HarperCollins's Web sites may be linked to Internet sites operated by other companies. Some of these third party sites may be co-branded with a HarperCollins logo, even though they are not operated or maintained by HarperCollins, such as Web sites owned and operated by our authors. HarperCollins's Web sites may also carry advertisements from other companies. HarperCollins is not responsible for the privacy practices of Web sites operated by third parties that are linked to our sites or for the privacy practices of third party or national Internet advertising companies. Once you've left a HarperCollins Web site via such a link or by clicking on an advertisement, you should check the applicable privacy policy of the third party or advertiser site to determine how they will handle any PII they collect from you.
-
-HarperCollins's Web sites may also be linked to sites operated by companies affiliated with HarperCollins (i.e., that are part of the News America Group). Although all News America Group entities adhere to the group's [Privacy Principles](http://www.newscorp.com/privacy.html), visitors to those affiliated sites should still refer to their separate privacy policies and practices, which may differ in some respects from this Policy.
-
-**CHOICE: HARPERCOLLINS WILL PROVIDE YOU WITH CHOICES ABOUT THE USE OF YOUR PII**
-
-HarperCollins will not use the PII you provide to us for purposes different from the purpose for which it was submitted, or share your PII with third parties that are not affiliated with HarperCollins (i.e., not part of the News America Group), unless we obtain your permission. 
-
-**USE: HARPERCOLLINS'S USE OF PII**
-
-HarperCollins will use your PII provided under this Policy in a manner that is consistent with this Policy. If HarperCollins obtains PII from a third party, such as a business partner, our use of that information is governed by this Policy.
-
-HarperCollins may share your PII with companies that are affiliated with us, that is are part of the News America Group of companies. Provided you have given us permission, we may also share your PII with advertisers and business partners that are not affiliated with HarperCollins but would like to send you information about their products and services. For example, HarperCollins may offer a sweepstakes or contest in conjunction with a co-sponsor that may have special offers or promotions that might be of interest to HarperCollins customers. However, you will always have the opportunity to instruct us not to share your information with third parties when PII is collected. Moreover, we will never share your credit card information with third parties except those HarperCollins uses to perform tasks (such as order fulfillment and payment processing) required to complete purchases you make through HarperCollins's Web sites.
-
-HarperCollins's employees, agents and contractors must have a legitimate business reason to obtain access to your PII. HarperCollins may share your PII with outside contractors or agents who help us manage our information activities (i.e., sweepstakes administration, order fulfillment, statistical analyses), but they may only use your PII to provide HarperCollins with a specific service and not for any other purpose.
-
-HarperCollins may also enter into agreements with outside companies that possess the technology that allows HarperCollins to customize the advertising and marketing messages you receive on our Web sites. Your non-PII and click stream data about your activities on our sites may be shared with these companies so this customization can be accomplished. These companies will not share your information with any third party or use it for any other purpose. Anonymous click stream and demographic information may also be shared with HarperCollins's advertisers and business partners.
-
-There may be instances when HarperCollins may disclose PII without providing you with a choice in order to protect the legal rights of HarperCollins, other companies within the News America Group or their employees, agents and contractors; to protect the safety and security of visitors to our Web sites; to protect against fraud or for risk management purposes; or to comply with the law or legal process. In addition, if HarperCollins sells all or part of its business or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, HarperCollins may transfer your PII to a third party as part of that transaction. 
-
-**SECURITY: HARPERCOLLINS PROTECTS THE SECURITY OF PII**
-
-HarperCollins uses reasonable administrative, technical, personnel and physical measures to safeguard PII in its possession against loss, theft and unauthorized use, disclosure or modification. In addition, we use reasonable methods to make sure that PII is accurate, up-to-date and appropriately complete. Passwords and PII are stored by HarperCollins behind firewalls. Credit card information is encrypted both in transit and when stored within HarperCollins's online databases.
-
-**ACCESS: HOW TO ACCESS, OR CORRECT YOUR PII OR STOP ALL FUTURE COMMUNICATIONS FROM HARPERCOLLINS**
-
-HarperCollins has implemented a procedure for you to access, correct or delete your PII, and, if you are a member of HarperCollins, review your user preferences. If you would like to know the types of information that HarperCollins collects from visitors to its Web sites, please send your request to [privacypolicy@harpercollins.com](mailto:privacypolicy@harpercollins.com) or write to Legal Department, HarperCollins Publishers, 10 East 53rd Street, New York, NY 10022. 
-
-If you would like to know whether HarperCollins has collected PII about you and what PII we have collected, please send us the activities that you participated in on our Web sites which requested PII. After reviewing the relevant databases, we will confirm whether we have collected such information about you and provide a list of your PII on file.
-
-In the event your PII on file is incorrect, you may correct the PII by sending a written request for correction to [privacypolicy@harpercollins.com](mailto:privacypolicy@harpercollins.com) that includes (1) all of the incorrect PII that you wish to change, (2) the corrected PII and (3) your signature authorizing such changes. HarperCollins will then correct the PII in our database and send a written confirmation to you.
-
-You may access and change your user preferences for HarperCollins Web site. 
-
-  * To login, users can enter their [username and password here](https://web.archive.org/survey.net/members_signup.aspx?programId=HM&siteId=1&orgId=5)
-  * Logged-in users can enter here to [view and set preferences](https://web.archive.org/members/members.asp?ACT=subscriptions).
-
-If you wish to stop all future communications from HarperCollins, please contact [privacypolicy@harpercollins.com](mailto:privacypolicy@harpercollins.com) requesting that your PII be permanently removed from any HarperCollins database. We will send you a written confirmation of such removal.
-
-However, there may be residual information that will remain within our databases that may or may not contain PII. This residual information will not be given to any third party or used for any commercial purpose.
-
-**REMEDIES AND COMPLIANCE: HOW TO CONTACT HARPERCOLLINS ABOUT PRIVACY CONCERNS**
-
-If you have concerns regarding the collection and use of your PII or any other privacy issues, please contact: 
-
-Legal Department  
-HarperCollins Publishers  
-10 East 53rd Street  
-New York, NY 10022  
-[privacypolicy@harpercollins.com](mailto:privacypolicy@harpercollins.com)
-
-© 2006 HarperCollins Publishers Inc. All Rights Reserved.
