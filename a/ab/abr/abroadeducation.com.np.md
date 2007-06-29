@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the abroadeducation.com.np privacy policy that was archived on 2006-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061012141945id_/http%3A//abroadeducation.com.np/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abroadeducation.com.np privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629160347id_/http%3A//www.abroadeducation.com.np/privacy-policy.html) for the most accurate reproduction.*
 
-# AbroadEducation Privacy Policy
+# Abroad Education Privacy Policy
 
 **WEBNETWORKS WEBSITE PRIVACY POLICY**
 
-Protecting your privacy online is a main concern at WebNetworks. The following AbroadEducation privacy policy informs how we respect your privacy and protect any information you may provide us while visiting our site or utilizing any of our services.
+Protecting your privacy online is a main concern at WebNetworks. The following Abroad Education privacy policy informs how we respect your privacy and protect any information you may provide us while visiting our site or utilizing any of our services.
 
-AbroadEducation allows full access to our online information free of charge and without requiring any registration. Users may opt to register with AbroadEducation. We don't collect any personal information when someone simply visits our websites.  This information is kept confidential and will never be passed to a third party, unless this is required (1) to enforce our Terms and Conditions, (2) by law, (3) to defend us in any legal action, (4) to protect our property. The WebNetworks websites may also contain elements provided by third party advertisers.
+Abroad Education allows full access to our online information free of charge and without requiring any registration. Users may opt to register with Abroad Education. We don't collect any personal information when someone simply visits our websites.  This information is kept confidential and will never be passed to a third party, unless this is required (1) to enforce our Terms and Conditions, (2) by law, (3) to defend us in any legal action, (4) to protect our property. The WebNetworks websites may also contain elements provided by third party advertisers.
 
 **What information is collected**
 
@@ -14,7 +14,7 @@ Information collected may include, among other things, your name, physical addre
 
 **How information is collected**
 
-All personal information is gathered directly from users through online registration forms and signup sections. Only you can modify your profile once it has been created. In case of sign up for the subscription of free newsletters published by AbroadEducation only email addresses of users interested in subscription of newsletters is collected and user can change their email address or unsubscribe the newsletter if they are no longer interested in it.
+All personal information is gathered directly from users through online registration forms and signup sections. Only you can modify your profile once it has been created. In case of sign up for the subscription of free newsletters published by Abroad Education only email addresses of users interested in subscription of newsletters is collected and user can change their email address or unsubscribe the newsletter if they are no longer interested in it.
 
 Personal information collected about you may be utilized for the following purposes:
 
@@ -40,9 +40,9 @@ Due to the nature of this technology, there is always a remote danger of informa
 
 Our system does provide for profiles to be sent via un-encrypted email, and may be susceptible to intercept at this point.
 
-Employees within AbroadEducation. with access to your information provided are instructed to utilize such information only in adherence to this Privacy Policy. Employees who utilize information for any reason other than the reasons stated within this policy may be subject to reprimand or even legal proceedings.
+Employees within Abroad Education. with access to your information provided are instructed to utilize such information only in adherence to this Privacy Policy. Employees who utilize information for any reason other than the reasons stated within this policy may be subject to reprimand or even legal proceedings.
 
-Our web sites also contain links to other sites. The privacy policies of linked sites may differ from those of AbroadEducation.
+Our web sites also contain links to other sites. The privacy policies of linked sites may differ from those of Abroad Education.
 
 **Contact details**
 
