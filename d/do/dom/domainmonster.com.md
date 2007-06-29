@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the domainmonster.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205224927id_/http%3A//www.domainmonster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainmonster.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629120208id_/http%3A//www.domainmonster.com/privacy) for the most accurate reproduction.*
 
-# Domain Name Registration, Cheap UK Bulk Domain Name Registration Services
+# Domain Name Registration, Cheap UK Bulk Domain Names & Registration Services
 
 ## Mesh Digital Ltd - Privacy Policy
 
 Mesh Digital Ltd. (“we” or Mesh”) have created this privacy policy to demonstrate our commitment in protecting personal information/data and providing you with information about how we handle it.
 
-This privacy policy applies to activities and transactions in which you engage, and data gathered, on the meshdigital.net, meshcards.com websites, and all email communications between Mesh Digital Ltd (collectively, the "Site"). Please review this privacy policy regularly as we may modify it from time to time. This privacy policy was last revised on 4th May, 2004. Each time you visit the Site or provide us with information, by doing so you are accepting the practices described in this privacy policy at that time.
+This privacy policy applies to activities and transactions in which you engage, and data gathered, on the domainmonster.com websites, and all email communications between Mesh Digital Ltd (collectively, the "Site"). Please review this privacy policy regularly as we may modify it from time to time. This privacy policy was last revised on 4th May, 2005. Each time you visit the Site or provide us with information, by doing so you are accepting the practices described in this privacy policy at that time.
 
 **Your IP address and demographic information**
 
@@ -49,3 +49,5 @@ The Site is also protected against unauthorised access using the latest security
 If at any point we decide to use particular personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email or by providing 14 days notice on the Site. Please note that we will continue to have the right to change our privacy policy and practices, and how we use your personally identifiable information, without notice, as described in the first paragraph of this Privacy Policy, provided that such changes shall only apply to information gathered on or after the date of the change.
 
 If you have any questions or concerns about this privacy policy, the practices of the Site, or your dealings with the Site, you can contact us at [legal@meshdigital.com](mailto:legal@meshdigital.com). You can also send us postal email to: Privacy Officer, Legal Department, Mesh Digital Ltd, Quarry Court, Lime Quarry Mews, Guildford, Surrey, GU1 2RD
+
+* price excludes VAT & based on maximum bulk discounts. †subject to registry imposed fees. Telephone orders charged at small premium. Please refer to price list.
