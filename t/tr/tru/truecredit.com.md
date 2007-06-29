@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the truecredit.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208013409id_/http%3A//www.truecredit.com/policy/privacy.jsp%3Ffc_se%3DfooterTab) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truecredit.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629043634id_/http%3A//www.truecredit.com/policy/privacy.jsp%3Ffc_se%3DfooterTab) for the most accurate reproduction.*
 
 # Online Personal Credit Reports & Credit Scores - TrueCredit
 
-|  |  | 
+|  | 
 
 |   
 ---  
 |  | TrueCredit Privacy Statement  
 ---  
 TrueCredit is firmly committed to respecting the consumer's right to privacy and has created this privacy statement to demonstrate our commitment.  
-Last updated September 22, 2004.  
+Last updated March 27, 2007.  
   
 **The Information We Collect from You**  
 TrueCredit allows you to access your credit report and related information conveniently and affordably through our Web site. We collect your personal information only if you decide to purchase one of our products or services, participate in our affiliate program, subscribe to our newsletter, participate in one of our contests or surveys or transact other business with us. In order to process your transactions and provide you with quality customer service, we need your full name and current and/or billing address, your email address (so we can contact you) and, if you purchase one of our products or services, a valid credit card number, your Social Security number and certain other personal information, such as your date of birth, address information, employment information, and certain credit card and loan account information. We use personal information to authenticate the credit card number and to confirm that the person requesting your credit report really is you and not an impostor or other person improperly seeking to access your information. 
 
 **What Security Measures We Take**  
-TrueCredit takes precautions to secure your personal information. If and when we ask you to provide your personal information, we will do so through a Web page that uses the Secure Sockets Layer (SSL) protocol. This protocol provides security for your information by encrypting it as it travels from your computer to our computer. We then move all of the personal information that we collect or obtain about you, including your credit report, to a special computer for security purposes by means of a one-way transfer on our proprietary network. This special computer is not connected to the Internet, and TrueCredit has controls in place to limit access to and secure the data maintained therein. For more information about our security practices, please review our Security Policy at <http://www.truecredit.com/policy/security.jsp>
+TrueCredit takes precautions to secure your personal information. If and when we ask you to provide your personal information, we will do so through a Web page that uses the Secure Sockets Layer (SSL) protocol. This protocol provides security for your information by encrypting it as it travels from your computer to our computer. We then move all of the personal information that we collect or obtain about you, including your credit report, to a special computer for security purposes by means of a one-way transfer on our proprietary network. This special computer is not connected to the Internet, and TrueCredit has controls in place to limit access to and secure the data maintained therein. For more information about our security practices, please review our Security Policy at <http://www.truecredit.com/policy/security.jsp>. 
 
 **How We Use and Share Your Personal Information**  
 If you indicate to us that you are interested in receiving information regarding other products and services your name and e-mail address may be shared with a third party in order to present these offers to you. Personal information that is shared with these entities will be monitored in accordance with our security and confidentiality policies. If you prefer not to receive such information, you may indicate your preference by marking the appropriate box when you register, place an order or update your account information, and TrueCredit will not send you any promotional materials. 
@@ -26,7 +26,7 @@ If you indicate to us that you are interested in receiving information regarding
   
 ---  
   
-When you order an online credit report, it will be available for your review for a period of 30 days. As a service to you, we will email you a receipt of your purchase. If you purchase a credit report (rather than a subscription), then we will also send you a second email alerting you that the 30-day viewing of your report will soon expire. Some of our membership products, such as Credit Monitoring, may also include alert emails that are sent on a daily, weekly or monthly basis. These emails are part of the membership benefits and cannot be disabled for persons who are members of these products.   
+When you order an online credit report, it will be available for your review for a period of up to two years or until you update your report. As a service to you, we will email you a receipt of your purchase. Some of our membership products, such as Credit Monitoring, may also include alert emails that are sent on a daily, weekly or monthly basis. These emails are part of the membership benefits and cannot be disabled for persons who are members of these products.   
   
 **Ordering**  
   
@@ -34,7 +34,7 @@ When you order a credit report or other product or service, TrueCredit must shar
   
 **Third Parties**  
   
-If you indicated to us when you registered, placed an order or updated your account that you were interested in receiving information about products and services provided by TrueCredit, your name and email address may be shared with a third party in order to present these offers to you. These entities are only allowed to use shared information for the intended purpose only and will be monitored in accordance with our security and confidentiality policies. TrueCredit also may disclose your personal information to third parties in the good faith belief that such action is necessary in order to comply with, or be responsive to, legal process served on us (such as a subpoena), or if we believe such disclosure is necessary to protect and defend the rights, property or safety of TrueCredit, our users or others. In addition, we may disclose your personal information to consultants, agents and advisors, such as attorneys and accountants, in the good faith belief that such disclosure is within the scope of their professional duties to TrueCredit and with the understanding that such professionals will abide by our security and confidentiality policies.   
+If you indicated to us when you registered, placed an order or updated your account that you were interested in receiving information about products and services provided by TrueCredit, your name and email address may be shared with a third party in order to present these offers to you. These entities are only allowed to use shared information for the intended purpose only and will be monitored in accordance with our security and confidentiality policies. In the event you indicate that you want to receive offers from TrueCredit, your information may be used to serve relevant ads to you when you visit the site. TrueCredit also may disclose your personal information to third parties in the good faith belief that such action is necessary in order to comply with, or be responsive to, legal process served on us (such as a subpoena), or if we believe such disclosure is necessary to protect and defend the rights, property or safety of TrueCredit, our users or others. In addition, we may disclose your personal information to consultants, agents and advisors, such as attorneys and accountants, in the good faith belief that such disclosure is within the scope of their professional duties to TrueCredit and with the understanding that such professionals will abide by our security and confidentiality policies.   
   
 **The Collection of Anonymous Data**  
 In order to enhance the usefulness of our Web site and our products and services, TrueCredit will collect data about our customers' use of our Web site, in a manner that does not include any personally identifiable information. While you browse the TrueCredit Web site, we note which pages of our site you visit and note the IP address of your computer (as all Web sites do automatically), but we do not link that address information to your personal information. The general information we gather enables us to serve our customers better by continually enhancing our site based on up-to-date use patterns. 
@@ -58,15 +58,18 @@ If you would like at any time to review our then-current Privacy Statement, plea
 **The Use of Cookies**  
 TrueCredit uses "cookies," which are pieces of information that a Web site transfers to your computer's hard disk for record keeping purposes, to facilitate your access to our products and services. TrueCredit uses cookies in accordance with industry-standard protocols, and does not use cookies, either directly or in conjunction with other Web sites, to track your movement to Web sites other than TrueCredit. If you would like more information about cookies, you can visit <http://www.cookiecentral.com/n_cookie_faq.htm>. TrueCredit uses two different types of cookies. One type of cookie is used so that our site "recognizes" you each time you return using the same computer, and you do not have to re-enter all your personal information on each visit. You can set your Web browser to refuse to accept this cookie, or delete this type of cookie from your hard drive, and still access our products and services, as long as you re-enter information each time you visit. The second type of cookie is needed so that we can process each step of your transactions with us. If you refuse to accept this type of cookie, you will not be able to access our products and services. Most Web browsers automatically delete this type of cookie when you terminate your session.
 
-We may use third-party advertising companies to serve ads on our site. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, [click here](http://www.networkadvertising.org/). 
+We may use third-party advertising companies to serve ads on our site or on other sites which we use for advertising. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness; and they are not authorized to use the information we share with them for any other purpose. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, [click here](http://www.networkadvertising.org/). 
 
 **Links to Other Web Sites**  
 Some pages on the TrueCredit Web site may contain links to other web sites. Please note that when you click on one of these links, you are moving to another Web site. We encourage you to read the privacy statements of these linked sites as their privacy policy may differ from ours. 
 
 **Tell-A-Friend**  
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. TrueCredit will automatically send the friend a one-time email inviting them to visit the site. TrueCredit does not store this information, it is used for the sole purpose of sending this one-time email. 
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. TrueCredit will automatically send the friend a one-time email inviting them to visit the site. TrueCredit does not store this information; it is used for the sole purpose of sending this one-time email. 
+
+**Policy Regarding Children**  
+We define children as individuals under the age of 16. Our Web Site is not intended for the use of children and we do not intend to collect information about children through our Web Site. You must be at least 18 to access any products through this website or to join TrueCredit as a member entitled to membership benefits. 
 
 **TrueCredit**  
-TrueCredit is a trade name of TrueLink, Inc., a Delaware corporation based in San Luis Obispo, California.   
+TrueCredit is a trade name of TransUnion Interactive, Inc., a Delaware corporation based in San Luis Obispo, California.   
   
-|  | 
+|  |  | 
