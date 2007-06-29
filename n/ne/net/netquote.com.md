@@ -1,129 +1,203 @@
-> *The following text is extracted and transformed from the netquote.com privacy policy that was archived on 2006-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061022221859id_/http%3A//www.netquote.com/about/about-PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netquote.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629085533id_/http%3A//www.netquote.com/about/netquote-privacy-policy.aspx) for the most accurate reproduction.*
 
 # NetQuote.com: Protecting your Privacy and Security
 
-Privacy Policy for Publicly Available Websites  
-Last revised: October 12, 2005
+  
+The following privacy statement discloses the privacy practices for NetQuote.  
+Last revised: _May 8, 2007_
 
-NetQuote Inc and its corporate subsidiaries and parent companies (collectively, “NetQuote”), takes your privacy seriously. Our company, including our Web site www.netquote.com, is committed to data security and the protection of your personally identifiable information, such as your name, address, social security number, e-mail address and phone number. We understand your privacy is of concern to you and the purpose of this Privacy Policy is to help you make informed choices about how your information is collected and treated.
+NetQuote, Inc.   
+1860 Blake Street   
+Suite 900   
+Denver, CO 80202   
+Customer Service: 1-800-795-2886   
+Fax: 303-291-1934   
+Email: [customerservice@netquote.com](mailto:customerservice@netquote.com)
 
-This Policy covers the privacy and information sharing practices of NetQuote, including: 
+Whether it’s auto, home, renter’s, life, health or business insurance, NetQuote offers you the complete choice advantage.
 
-• what information of yours is collected; 
+Since 1989, NetQuote has provided millions of consumers with a free, simple, and effective way to shop for insurance. As a leading online marketplace for insurance, NetQuote works with a combination of local agents, regional and national carriers to ensure that you are provided with a wide variety of responses to your request for a quote.
 
-• who is collecting the information; 
+Helping you save money is important but so is your privacy.  This policy outlines our commitment to protecting your information.
 
-• how the information will be used; 
+At NetQuote, your privacy is our chief concern. We understand that you entrust us with your private information to help us match you with an insurance agent (we refer to all of these as "Agents") who can meet your needs. In exchange for your trust, you expect and deserve our commitment to treat your information with respect.  Rest assured that we protect your privacy. Under no circumstances will NetQuote sell or share any personal information about you to or with any person or organization except: as authorized by you, to participating agents or other parties involved in your transaction, or as may be required by law or court order. The Privacy Policy below describes the standards we adhere to in handling information about you and your insurance quote request.
 
-• with whom the information may be shared; 
+1\. Who we are and what we do   
+2\. Information collected   
+3\. How your information is used   
+4\. Communications you can expect   
+5\. Altering or deleting the information you submit through the NetQuote Web site   
+6\. Policies applicable to restricted areas within the site   
+7\. Notification of changes to this privacy policy
 
-• what your choices are regarding collection, use and distribution of the  
-information; and 
+1\.  Who We Are and What We Do
 
-• the security procedures used to protect against the loss, misuse or alteration of your information under NetQuote’s control.
+NetQuote is the leading online marketplace connecting consumers with insurance agents to compete for their business across a variety of insurance policy types.  NetQuote has been in business since 1989.  NetQuote is not an insurance agency and does not provide quotes directly to consumers.  Rather, NetQuote is a free matching service that instantly connects you with our nationwide network of quality insurance agents. 
 
-You may contact us at any address or number that we have provided to you, or, as a general matter, at the following:
+After you submit your quote request via our web site, NetQuote immediately matches you to local and national agents who can meet your insurance needs.  We create this connection by emailing you the list of matching agents and their contact information as well as passing your information to the agents.  Your matching agents will use the information you provided in your quote request to run your quote and contact you with the details.  Sometimes, NetQuote does not have a matching agent based on your location and insurance needs.  In this event, your information may be passed to one of our partner copmanies to ensure that you receive as many competitive quotes as possible. 
 
-NetQuote Inc  
-1860 Blake Street, 9th Floor  
-Denver, CO 80202  
-800-795-2886
+NetQuote does not charge a fee to use our service.  NetQuote is paid a fee by the insurance agents who purchase leads through our service. 
 
-Questions regarding this Policy can be directed to our Customer Service department. If we have not responded to your inquiry regarding our privacy policy within five business days, or you are not satisfied with the answer you received, you may contact the Vice President of Operations and Sales, at 1-800-795-2886. 
+2\.  Information Collected
 
-3\. COLLECTION OF INFORMATION
+**Personal Information**
 
-Personal Information Collection 
+NetQuote collects the following personal information in each of our quote requests.  We pass this information on to your matching agents so they can generate accurate quotes for you.
 
-We collect personal information that you provide to us over the Internet (especially via our websites, generally located within our addresses under the domain www.netquote.com) (collectively, our “Sites”), by email, regular mail, use of the “Contact Us” function on our Sites, your responses to surveys, or by phone, from third parties that give your information to us and through other legal means. This is often called personally identifiable information if it identifies you and is not generally available to the public, and it may include information about your family as well as your own information. For the purposes set forth in greater detail below, we may collect information in any of the following categories: your first and last names, physical and e-mail addresses, phone number, driver’s license number, Social Security number, date of birth, gender, marital status, type of vehicle, information about your driving habits and record, certain health-related information and personally identifiable information about other drivers who may be included on your insurance policy. Depending on the nature of your relationship with us, we may collect financial information from you, such as credit card numbers, billing addresses and expiration dates, in order to facilitate the billing and payment of your accounts. If a third party provides us your information, then we take reasonable steps to establish that the third party had the authority to provide such information to us.
+| Auto | Home | Health | Group Health  
+---|---|---|---  
+First and Last Name  | First and Last Name | First and Last Name | First and Last Name  
+Postal Address | Postal Address | Postal Address | Postal Address  
+Email Address | Email Address | Email Address | Email Address  
+Phone Number | Phone Number | Phone Number | Phone Number  
+Driver's License Number * | Date of Birth | Date of Birth | Gender  
+Social Security Number* | Gender | Marital Status |    
+Date of Birth | Social Security Number* | Level of Education |    
+Gender  |   | Occupation  |    
+Marital Status |   |   |    
+Type of Vehicle Driven |   |   |    
+Driving Habits and Record |   |   |    
+Occupation |   |   |    
+Level of Education |   |   |    
+  
+Life | Renter's | Business  
+---|---|---  
+First and Last Name | First and Last Name | First and Last Name  
+Postal Address | Postal Address | Postal Address  
+Email Address | Email Address | Email Address  
+Phone Number | Phone Number | Phone Number  
+Date of Birth  | Date of Birth |    
+Gender | Gender |    
+  | Social Security Number* |    
+  |   |    
+  
+_* This information is not required, but is helpful in generating your quotes._
 
-For information you submit to us, we attempt to notify you which categories of information are required and which are optional. If you do not wish to provide us personal information that we request, then you should not provide such personal information – you are not required to do so. However, if you do not provide us with certain information that we require, then we may not be able to respond to your requests, process your applications, provide you complete services or otherwise carry out the business contemplated between you and NetQuote. If you have any concerns about the nature of the information we collect, you may contact us at the above address.
+Technical information
 
-Certain Other Forms of Information Collected on the Internet 
+We collect and track certain technical information to ensure that your consumer experience is a beneficial one.  We may also use technical information to store your preferences and make future visits to our site quicker for you. 
 
-If you use our Sites, we may collect non-personal information about your use of the Sites (such as IP addresses, domains, browser type and version, and operating system) (“Use Data”). Use Data may include aggregated information about you that does not identify you personally (for example, information about users from zip codes, or the average age of certain users, etc.). Use Data may also include the following types of information:
+  * Cookies – a cookie is a small file stored on a user’s computer that contains information about the user.  We use either session ID cookies (which terminate once a browser is closed) or persistent cookies (which are small text files stored on a user’s hard drive for an extended period of time).  Cookies allow us to see how and when you use our sites, but they cannot be used to track personal information such as email address or phone number.  Cookies also allow us to store the personal preferences that you set during each visit to our sites which can speed up your future visits.
+  
 
-Cookies  
-A cookie is a small file stored on a user’s computer that contains information about the user. We may use either session ID cookies and/or persistent cookies. For the session ID cookie, once a user closes the browser, the cookie simply terminates. A persistent cookie is a small text file stored on a user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. By showing how and when you use our Sites, cookies help us see which areas are popular and which are not and help in targeting information based on your interests. Cookies also allow us to store the personal preferences that you set during each visit to our Sites, which in turn allows us to speed up your future activities at our Sites. Most browsers are initially set to accept cookies. You can set your browser to notify you when you have received a cookie, giving you the opportunity to decide whether to accept it. You have the option to reject our cookies and still use our Sites, but you may not be able to access or use some of the features we offer on our Sites, including submitting information to receive insurance quotes. 
+  * Log files – NetQuote uses log files to track how our sites are being accesses and used.  Log files track anonymous user information such as IP addresses, browser types, Internet service providers, referring and exit pages, platform type, date and time stamps, and number of clicks to, from, and within our sites.  Web logs are tracked only on NetQuote’s servers and do not place anything on your computer.
+  
 
-Log Files  
-Like most standard website servers, we use log files, which are files that track how our Sites are accessed and used and what requests are made of our servers. This may include keeping track of internet protocol (IP) addresses, browser types, internet service providers (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to, from and within our Sites.
+  * Information from Banner Ads – if you arrive at NetQuote.com through a banner ad, NetQuote can track where you arrived from, as well as clicks that might have impacted our servers.  This information is anonymous and cannot be used to gather personal information about you.
+  
 
-Other Forms of Information Collected by Other Means
 
-We may collect non-personal information from you via sources other than the Internet. Such information may include, for example, your responses to surveys we send to you, and other information or questions about your experience with, or questions about, us that you may submit or ask in anonymous form or that we dissociate from any of your personal information. 
 
-4\. USE OF INFORMATION
+Survey information
 
-Use of Your Personal Information by NetQuote
+NetQuote uses survey information to gather feedback from consumers who have filled out insurance quote requests on our web site.  We use this information to track our customer satisfaction and make improvements to our service. This survey, which will arrive approximately one week after a quote request has been filled out, is completely voluntary and anonymous.  No personal information will be asked of you.
 
-We use your personal information to provide you with any information you request from us and to address any communications that you may have initiated or authorized. We will also use your information to fulfill our obligations to you pursuant to any contracts or agreements that you may enter into with us, or in connection with your use of our Sites. For example, if you are a consumer and you submit personal information in order to receive insurance information, we will use your personal information to process your request, including by providing your personal information to third parties as discussed in more detail below. 
+Information from the "Contact Us" section of the web site
 
-We may also use your information to provide assistance or support with respect to your use of our services or Sites (including surveys and the like), to troubleshoot problems and to resolve disputes that may arise. Further, we may use your information to improve our content, advertising or services, or to analyze trends or to customize the display or format of our marketing content or Sites. 
+If you decide to communicate with us through the “Contact Us” section on our web site, we may ask you for personal information such as your name, email address, or phone number.   This information is not sold to any third parties.  Your information may, however, be shared with outside sources in order to resolve any problems you may have.
 
-From time to time, we may use your information to send you information about our services and offerings, and about certain products and services of selected third parties, in which we think you may be interested. It is our policy to send you such information only with your consent. 
+Information gathered from agents
 
-We will not use your information or send you information if you have notified us of your preference not to have your information so used, or not to receive such information, or when we are prohibited by law from doing so.
+Our agent web site contains preliminary information for insurance agents who might like to join our network.  If you are an agent and submit information through the “Request More Information” page, your email address and phone number will be used for contact purposes but not shared with any outside parties.
 
-NetQuote stores your information in order to fulfill its obligations to you and otherwise in connection with the uses and practices described in this Policy. It is our policy not to keep records of your personal information other than for as long as is reasonably necessary in connection with such uses and practices.
+Information gathered from affiliates
 
-Use of Your Personal Information by Insurance Providers
+The affiliate section of our web site contains preliminary information for people who might like to join our affiliate network.  If you sign up as an affiliate we will gather personal information such as name, postal address, and phone number.  This information is used to contact you with information such as payment delivery notifications and a monthly affiliate newsletter.  This information is never shared with any outside parties.
 
-By submitting your personal information to us as part of a request for information about insurance quotes and policies, you authorize us to provide that information to various insurance agents, insurance companies and related third parties that participate in our insurance quote distribution network and operations (“Insurance Providers”). If you submit your personal information to us in order to receive quotes and information about insurance and insurance products, we will provide that information to Insurance Providers, based on the specific criteria established by individual Insurance Providers. The Insurance Providers may provide your personal information to their vendors, suppliers and insurance carriers in order to generate price and other information relevant to insurance policies that you have requested, and the Insurance Providers may use the information to contact you directly about your inquiries regarding insurance products. Furthermore, Insurance Providers may use your personal information to obtain additional information about you related to your inquiry, which may include the receipt of “insurance score” or similar information about you. 
+3\.  How Your Information is Used
 
-We use reasonable efforts – such as contractual obligations – to ensure that the Insurance Providers are bound to protect your personal information to at least the degree established in this Policy. Additionally, it is our policy to require Insurance Providers to use reasonably secure means of receiving and processing your personal information. 
+How we share information with agents
 
-IMPORTANT: You should be aware that after an Insurance Provider contacts you directly, any information you provide to the Insurance Provider – which may be duplicative of the personal information you initially submitted through NetQuote – will no longer be covered by this Policy, and you should verify the individual Insurance Provider’s privacy policies and practices. NetQuote has no control over these policies and practices. Also be aware that the Insurance Providers may use the personal information they acquire about you from NetQuote in connection with other information they acquire about you (from credit reporting companies, etc.) as well as information you provide them. NetQuote cannot and will not be responsible or liable for any of your personal information that you provide directly to Insurance Providers after the Insurance Provider contacts you or that they acquire from sources other than NetQuote.
+When you submit a quote request with NetQuote, your information is used to match you with an average of three to four qualified, licensed agents who can best serve your insurance needs.  In the event that we cannot match you with an agent, your information may be passed on to one of our partner companies in an effort to ensure you receive as many competitive quotes as possible.
 
-Other Uses of Your Personal Information by Third Parties 
+How we internally use technical information to improve marketing
 
-In addition to the foregoing uses by Insurance Providers, to the extent permitted by law and regulations, we may share your personal identification information with the following categories of entities and/or under the following circumstances:
+NetQuote uses technical information such as cookies and web logs to study how our sites are being used.  We can also use cookies to track your preferences so that when you return to our web site, you can navigate more easily without having to re-enter certain information.  By analyzing the data that cookies and web logs provide, we can determine how to improve our web sites and banner ad campaigns to better serve our customers.
 
-\- Third parties that perform information processing on our behalf, such as companies that manage our email systems, that conduct surveys for customer satisfaction, that help us send information regarding companies, products or services in which we believe you may be interested, or that provide analyses of use of our services or Sites.  
-\- Our corporate affiliates and other entities that operate websites for NetQuote.  
-\- In response to a request by law enforcement or other governmental personnel or court order or subpoena; in order to comply with a legal obligation; to protect the integrity of our company if we believe that a user has committed unlawful or otherwise harmful acts; or to protect our interests in connection with a legal proceeding.  
-\- In emergency situations to protect health or safety; or if we believe such disclosure is in your vital interest.  
-\- If we obtained your information from public sources.  
-\- Third parties with whom we have advertising or promotional relationships (provided that we are not otherwise restricted from making such disclosures).  
-\- In connection with any merger or consolidation with, or sale of substantially all of our assets to an affiliated entity or third party, provided that such party agrees to comply with our Policy or you are given a choice if such party would like to use such information in a manner materially different from that disclosed in our Policy. 
+How we use survey data to measure satisfaction
 
-NetQuote does not sell, rent or disclose your personal information to third parties for their own marketing purposes except as authorized by and as set forth in this Policy. 
+NetQuote uses information from our consumer satisfaction survey to better understand the consumer experience and improve our services.  Personal information is not visible to anyone as this survey is completely anonymous.
 
-Use of Use Data and other Internet-Based Information
+Other uses of your information by third parties
 
-We use aggregated (i.e., non-personal) Use Data for purposes of site administration and to compile information about usage of our Sites and services. For example, we use cookie information to track from what computers applications have been submitted in order to track and prevent potentially fraudulent submissions. We may share aggregated information (which does not contain your personal information) with third parties, such as advertisers and marketing partners.
+  * Partner companies – in the event that no NetQuote agents can serve your insurance needs, the information from your quote request may be passed to one of our partner companies.  We feel it would be poor customer service to fail to provide a quote merely because no matching agents are available.  In these circumstances, we pass your quote request only to partner companies that we have an existing contractual relationship.  NetQuote only enters into relationships with reputable companies and our contract requires they follow applicable laws and not misuse the data provided to them.  Any contact from partner companies is not covered under this policy, nor are any further communications you may have with agents from those partner companies.
+  
 
-We may combine personal information with Use Data to help us serve you better in connection with your use of our services or Sites, and to respond to your requests for technical assistance (e.g., we may record which web browser you use in order to help respond to your questions with difficulties using our Sites).
+  * Companies that perform information processing on our behalf – NetQuote partners with companies who manage our email systems and conduct surveys on our behalf.  Your personal information is shared with these companies on a limited basis so that we can create and target our marketing campaigns.
+  
 
-5\. SECURITY
+  * Law Enforcement – NetQuote will share your personal information in response to law enforcement officers, government personnel, court order or subpoena.  This information will only be shared in order to comply with a legal obligation.
+  
 
-We have taken appropriate technical and organizational measures to help prevent unauthorized access, maintain data security, and to make proper use of the information that we collect – for example, we collect personal information from you only through secured connections (which you can verify on certain Internet browsers by looking for a closed lock symbol on the lower status bars on the browser window). Additionally, it is our policy to comply with all laws that govern our collection and use of your personal information. However, no transmission of data over the Internet is guaranteed to be completely secure and we cannot guarantee the security of any information you provide to us. For example, third parties may unlawfully intercept or access transmissions or private communications. Therefore, although we use industry standard practices to protect your privacy, we do not promise or guarantee, and you should not expect, that your personal information or communications with us will always remain private.
 
-6\. MODIFYING OR DELETING PERSONAL INFORMATION
 
-We intend to keep your information accurate and up to date. You have the opportunity to review and correct any of your information that we may have, or to restrict the uses we make of your information. 
+4\. Communications You Can Expect
 
-In order to review or correct your information that we have on file, please take the following steps: 
+Confirmation email
 
-\- Contact us via <http://extranet.netquote.com/MarketingMedia/optout.html>.  
-\- Give us your name and email address, together with any information that might help us more effectively serve or communicate with you  
-\- Let us know how we can help you – if you would like to review your information, etc.  
-\- Let us know the most convenient way for us to communicate with you (email, phone, etc.)
+Minutes after you submit a quote request through NetQuote, you will receive a confirmation email.  This email will include your unique quote request ID, a link to your list of matching agents and helpful information to aid you in making your insurance choices.  Note that the agents contained in your matching list will be those responding to you with your customized quote(s).
 
-After reviewing your information, if you request that certain information be amended or deleted, we will use reasonable efforts to respond to your request in a timely manner. Please be aware that even if you request that your information be removed from our systems, such information may never be completely removed due to technical and legal constraints, including backup and disaster recovery systems, as well as the need to keep some information to track and record your requests. For example, if you provided us with information or made requests that we must by law maintain records of, there is certain information that we must maintain in order to properly service your account and to comply with law. We may retain certain information in our sole discretion that we need to process your information in order to fulfill your requests, to maintain our records in accordance with industry practices, to resolve disputes, to troubleshoot problems, to enforce this Policy, or for other valid business reasons; however, it is not our policy to retain more information for longer than is necessary. We will not remove your non-personal Use Data from our aggregated files, and you will not be able to review or amend your non-personally identifiable Use Data. 
+In the event that a match cannot be made, you will receive an email informing you that no agents meet your quote request requirements.  This email will be sent within a matter of hours after you complete a quote request. 
 
-7\. MINORS
+Follow up calls and emails from agents
 
-Our Sites and services are not directed toward individuals under sixteen years old (“Minors”) nor do we knowingly collect information from Minors. 
+After submitting a quote request through NetQuote, your quote request is matched with qualified, licensed agents.  These agents may contact you via the information that you provided in your quote request.
 
-8\. LINKS TO THIRD PARTY SITES
+Customer satisfaction surveys
 
-Our Sites may contain links to other sites. Be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our Site and to read the privacy statements of each and every website that collects personal information. 
+Approximately one week after you submit a quote request through NetQuote, you will receive an anonymous customer service satisfaction survey.  This survey is short and completely voluntary.  Also, we may, from time-to-time, send additional surveys to better understand your customer experience so we can enhance our service.  Again, participation is voluntary and you can unsubscribe from this communication at any time.
 
-9\. POLICIES APPLICABLE TO RESTRICTED AREAS WITHIN THE SITES
+Customer Communications
 
-Certain restricted areas within the Sites (as defined below), such as areas available only to registered insurance agents or marketing partners of NetQuote, may have additional or different terms and conditions with respect to matters addressed in this Policy. If you are granted access to any such restricted areas, you should consult the privacy policies posted on those areas. 
+After submitting a quote request with NetQuote, you’ll receive monthly customer tip emails with helpful tips and information to help you continue to make informed insurance decisions.  In addition, NetQuote provides expiration alert emails that notify consumers about their policy renewal dates.  If you wish to no longer receive these communications, you can opt-out using the unsubscribe link available in every email communication.  This will ensure you will be removed from future NetQuote communications.
 
-10\. NOTIFICATION OF CHANGES TO THIS PRIVACY POLICY
+Newsletter
 
-We may, at our sole discretion, revise this Policy at any time in a manner consistent with applicable law and regulations. When we revise this Policy, including changes to NetQuote’s use of your personal information, we will incorporate the revisions into this Policy and will revise the “last revised” date at the top of this web page. We recommend that you regularly visit this Policy in order to remain informed about any changes that we may implement.
+You have the opportunity to sign up for NetQuote’s monthly newsletter on the last page of each quote request, within the newsletter center within NetQuote.com, or on the designated areas located throughout the site.  After signing up to receive this newsletter, you will receive a welcome email to confirm your subscription and provide you an opportunity to unsubscribe for any reason.  You will receive the NetQuote e-newsletter once a month to your email inbox.  You can opt out of this newsletter at any time by clicking the Unsubscribe link in the email.
+
+Newsletter Disclaimer
+
+NetQuote provides this site and the information provided herein as a service to its customers. The information and materials provided on this site are provided for general information purposes and may not be relied on as a substitute for professional or legal advice. The views or opinions expressed by the authors included herein do not necessarily reflect the views or opinions of NetQuote or its affiliates. This information is not intended to create any legal relationship between NetQuote and the user. Neither the transmission nor receipt of these materials will constitute a legal relationship between the sender and the receiver.  The information is not guaranteed to be correct, complete, or current. NetQuote makes no warranty, expressed or implied, about the accuracy or reliability of the information expressed herein, or at any other website to which this site is linked.  NetQuote also assumes no responsibility for the content and accuracy of materials contained in external sites to which links are provided on this website.
+
+5\.  Altering or Deleting the Information You Submit Through the NetQuote Web Site
+
+Email preferences
+
+NetQuote email communications consist of our customer satisfaction surveys, our e-newsletter, customer tips, and expiration notices.  If you do not wish to receive these communications, please take one of the following actions: 
+
+  * Click the unsubscribe link at the bottom of any email communication. (This is the fastest and most effective way to unsubscribe.)
+
+In certain situations, our system will be unable to process your unsubscribe request. The most likely reason for this is that you are subscribed with a different email address. At the bottom of the original email you received, you will see a line that says "you are subscribed as." This is the email address we have on file for you.
+
+In order to find your exact record and unsubscribe you, please send an e-mail to [nqtalks@netquote.com](mailto:nqtalks@netquote.com) that contains the "subscribed as" email address. This will ensure your prompt removal from our mailing lists. 
+
+  * Send an email to [nqtalks@netquote.com](mailto:nqtalks@netquote.com) with the subject line “Unsubscribe.” ****
+  * Submit a written request for removal to our mailing address:
+
+NetQuote, Inc.  
+Attn:  Email Marketing Department  
+1860 Blake Street, Suite 900   
+Denver, Colorado 80202
+
+
+Agent communications
+
+By submitting a quote request with NetQuote, insurance agents will contact you using the phone number and email address provided.  In order stop these communications, you must contact the agents directly and request that they stop contacting you. ****
+
+If you decide to purchase insurance from one of the insurance agents matched to you through NetQuote, all further contact with that agent is not covered under this policy.   You should thoroughly read the Privacy Policy of the agent you select in order to make sure that you are comfortable with their policy. 
+
+Quote requests
+
+NetQuote is not an insurance agency.  We are a free matching service that instantly connects you with our nationwide network of quality insurance agents.  After you submit your quote request via our web site, NetQuote immediately matches you to local agents and sends your information to them.  This process happens instantly; therefore, there is not an opportunity for you to edit your original information after it’s been submitted.  We recommend that you communicate the needed changes directly to the agents with whom you were matched.  You can find your agent(s) contact information in the email we sent you to confirm your quote request.  This will ensure your updates are made and that the agent uses the most accurate information available to process your quote.
+
+System records
+
+All personal information provided to NetQuote in a quote request will be removed from our production database after 60 days.
+
+6\.  Policies applicable to restricted areas within the site
+
+Certain areas of NetQuote.com, such as areas only available to our agent network, may have additional or different terms and conditions than those addressed in this policy.  If you access any of these areas, you should consult the privacy policies posted in those areas.
+
+7\.  Notification of Changes to this Privacy Policy
+
+We may, at our sole discretion, revise this policy at any time in a manner consistent with applicable laws and regulations.  When we revise this policy, including changes to NetQuote’s use of your personal information, we will incorporate the revisions into this policy and will revise the “last revised” date at the top of this web page.  We recommend that you regularly visit this policy in order to remain informed about any changes that we may implement.
