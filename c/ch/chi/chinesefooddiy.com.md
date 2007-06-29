@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinesefooddiy.com privacy policy that was archived on 2006-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061105030953id_/http%3A//chinesefooddiy.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinesefooddiy.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629053718id_/http%3A//www.chinesefooddiy.com/privacy.htm) for the most accurate reproduction.*
 
 # ChineseFoodDIY.com Online Privacy Policy
 
@@ -22,7 +22,7 @@ Your use of the ChineseFoodDIY.com site and/or your registration for ChineseFood
 
 ChineseFoodDIY.com may occasionally update this Privacy Policy.  When it does, ChineseFoodDIY.com will also revise the “last update” date at the top of this Privacy Policy.  In addition, ChineseFoodDIY.com will seek a customer’s prior consent, by email, for any new uses or proposed disclosures of information collected from the customer prior to the change. **  **ChineseFoodDIY.com will notify customers by email **** of changes to this policy that will affect information collected from them in the future.  In certain circumstances, however, ChineseFoodDIY.com will not inform and obtain the consent of the customer, such as in connection with an investigation of a breach of an agreement, contravention of laws, an emergency where the life, health or security of an individual is threatened, the collection of a debt or in compliance with the request of a law enforcement agency or a court order.
 
-A customer may withdraw his or her consent for collection, use and disclosure at any time by sending an email to [ contact@chinesefooddiy.com](mailto:contact@chinesefooddiy.com) .  Please note that, if you do, ChineseFoodDIY.com may suspend its provision of products and services to you.  When you unsubscribe, if you fall within the guarantee period for any ChineseFoodDIY.com product and you request a refund, the guarantee will be honored. 
+A customer may withdraw his or her consent for collection, use and disclosure at any time by sending an email to  .  Please note that, if you do, ChineseFoodDIY.com may suspend its provision of products and services to you.  When you unsubscribe, if you fall within the guarantee period for any ChineseFoodDIY.com product and you request a refund, the guarantee will be honored. 
 
 ChineseFoodDIY.com collects, at the time of your registration and your sign-on to its web site, certain “personal information” (information that personally identifies you) including but not limited to your name, email address, home or work address, telephone number, and information about your computer hardware and software ( _e.g._ , IP address, operating system, browser type, domain name, URL, access times, and referring web site addresses). 
 
@@ -192,7 +192,7 @@ After your account becomes inactive (that is, if you request to be removed from 
   
 ---|---  
   
-ChineseFoodDIY.com will use reasonable efforts to keep customer personal information accurate for the Identified Purposes, and for minimizing the possibility of making inappropriate customer decisions based on such information.  Customers are responsible for informing ChineseFoodDIY.com about changes to their personal information.  You can do this by sending an email to [ contact@chinesefooddiy.com](mailto:contact@chinesefooddiy.com). ChineseFoodDIY.com will use new or updated personal information it receives from customers to update its own records. 
+ChineseFoodDIY.com will use reasonable efforts to keep customer personal information accurate for the Identified Purposes, and for minimizing the possibility of making inappropriate customer decisions based on such information.  Customers are responsible for informing ChineseFoodDIY.com about changes to their personal information.  You can do this by sending an email to  . ChineseFoodDIY.com will use new or updated personal information it receives from customers to update its own records. 
 
 ChineseFoodDIY.com will use reasonable efforts to protect customers’ personal information.
 
@@ -204,12 +204,7 @@ ChineseFoodDIY.com will use reasonable efforts to protect customers’ personal 
   
 ---|---  
   
-ChineseFoodDIY.com will afford you a reasonable opportunity to review the personal information in your file, if you so request by  sending email to  [ contact@chinesefooddiy.com](mailto:contact@chinesefooddiy.com),  writing to: 
-
-ChineseFoodDIY.com  
-600 Stinchcomb Dr. #1  
-Columbus OH, 43202  
-USA
+ChineseFoodDIY.com will afford you a reasonable opportunity to review the personal information in your file, if you so request by  sending email to  .
 
 If ChineseFoodDIY.com is not able to provide access to some aspect of a customer’s personal information, it will provide reasons for denying access such as; that by doing so would likely reveal personal information about a third party, or that it is confidential commercial information or attorney–client privileged communications, or that the information relates to a breach of an agreement or a contravention of law, or that its disclosure could reasonably be expected to threaten the life or security of another individual.
 
