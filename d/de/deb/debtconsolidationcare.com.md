@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the debtconsolidationcare.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020235418id_/http%3A//www.debtconsolidationcare.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debtconsolidationcare.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629062007id_/http%3A//www.debtconsolidationcare.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - BBB Member
+# Privacy Policy
 
 **Remember, any information you enter will not be sold or given to any outside organization for its use in its marketing or solicitations.**
 
