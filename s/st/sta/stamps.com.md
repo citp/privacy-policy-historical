@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the stamps.com privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228023435id_/http%3A//www.stamps.com/support/general/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stamps.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629222257id_/http%3A//www.stamps.com/innerspace/privacy_policy) for the most accurate reproduction.*
 
-# Stamps.com: Customer Support:
+# Stamps.com - Privacy Policy
 
-|   
-Our Privacy Policy
+PRIVACY POLICY
 
 [](http://www.truste.org/ivalidate.php?url=www.stamps.com&sealid=101)
 
@@ -95,8 +94,3 @@ TRUSTe Privacy Program
   * If you have questions or concerns regarding this statement, you should first contact Customer Care as set forth above. If you do not receive acknowledgment of your inquiry or your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process ([http://www.truste.org/consumers/watchdog_complaint.php](https://web.archive.org/go?http://www.truste.org/consumers/watchdog_complaint.php)). TRUSTe will serve as a liaison with the Web site to resolve your concerns.
 
 
-
-  
-
-
-| 
