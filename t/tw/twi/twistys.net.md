@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the twistys.net privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225080612id_/http%3A//www.twistys.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twistys.net privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629095439id_/http%3A//www.twistys.com/privacy.html) for the most accurate reproduction.*
 
-# EENT, Inc. Privacy Policy
+# Twistys LLC Privacy Policy
 
 This privacy policy is applicable to Twistys.com, 
 
