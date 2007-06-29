@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hsamuel.co.uk privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215003817id_/http%3A//www.hsamuel.co.uk/webstore/static/legal/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsamuel.co.uk privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629200837id_/http%3A//www.hsamuel.co.uk/webstore/static/legal/privacy.do) for the most accurate reproduction.*
 
-# H.Samuel the Jeweller: Security & Privacy
+# Security & Privacy: H.Samuel the Jeweller
 
   * Privacy policy
   * Security guarantee
@@ -74,7 +74,7 @@ At H.Samuel we are committed to protecting you against unauthorised transactions
 
 ### Security Code
 
-We will ask for your security code when you enter your card details. This is the last three digits on the signature strip on the back of your credit or switch card. It guarantees that you physically have the card when you order and ensures that fraudulent orders cannot be placed with your card number alone.
+We will ask for your security code when you enter your card details. This is the last three digits on the signature strip on the back of your credit or Maestro card. American Express card holders this is the four digit number found on the front of the card. It guarantees that you physically have the card when you order and ensures that fraudulent orders cannot be placed with your card number alone.
 
 ### MasterCard SecureCode (for MasterCard and Maestro cards) and Verified by Visa (for Visa cards)
 
