@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the statravel.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113072337id_/http%3A//www.statravel.com/cps/rde/xchg/us_division_web_live/hs.xsl/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statravel.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629110514id_/http%3A//www.statravel.com/cps/rde/xchg/us_division_web_live/hs.xsl/privacypolicy.htm) for the most accurate reproduction.*
 
-# STA TRAVEL | Privacy Policy
+# STA TRAVEL | Privacy
 
 ## Your Privacy Is Very Important to Us
 
@@ -54,7 +54,7 @@ You may receive emails from us about special promotions, surveys, contests, swee
 
 ## Questions, Comments, or Concerns
 
-If you have questions or comments about this privacy policy, or if you are concerned that we have not followed the principles set forth in this privacy policy, please send an email to us at info@statravel.com or write us at: STA Travel, Inc, Attention: Online Coordinator, 5900 Wilshire Blvd., Ste. 900, Los Angeles, CA  90036.  We are receptive to your comments or questions.
+If you have questions or comments about this privacy policy, or if you are concerned that we have not followed the principles set forth in this privacy policy, please send an email to us at [feedback@statravel.com](mailto:feedback@statravel.com) or write us at: STA Travel, Inc, Attention: Online Coordinator, 750 State Highway 121, Suite 250, Lewisville, Texas  75067.  We are receptive to your comments or questions.
 
 ## Other Information You Should Know
 
