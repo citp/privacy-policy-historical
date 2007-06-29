@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the grisoft.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205195506id_/http%3A//www.grisoft.com/doc/PrivacyPolicy/lng/us/tpl/tpl01) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grisoft.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629232237id_/http%3A//www.grisoft.com/doc/privacy/us/crp/0) for the most accurate reproduction.*
 
-# AVG Anti Virus: Privacy Policy
+# AVG Anti-Virus and Internet Security - Privacy Policy
 
-Privacy Policy
-
-* * *
+## Protection of Personal Information
 
 Some information provided while using this server or the products and services of GRISOFT, s.r.o., head office in Brno, Lidická 956/31, IČ 44017774, and recorded in the commercial register at the Regional Court in Brno, section C, insert 3681 (hereinafter "GRISOFT, s.r.o."), may be considered personal pursuant to Statute No. 101/2000 of the Czech Republic Code - the Protection of Personal Information Act, as amended (hereinafter the "Act"). GRISOFT, s.r.o. fully complies with this Act and expends the maximum effort to protect such personal information.
 
- **Using registration information:**
+**Using registration information:**
 
-  * Registration requires some pertinent information to be entered in order to facilitate communication with our customers. 
+  * Registration requires some pertinent information to be entered in order to facilitate communication with our customers.
   * With the exception of information willingly disclosed during registration, GRISOFT, s.r.o. does not process any other information about customers, such as visits to the company's web pages, the use of its program, updating it, etc.
   * All information furnished by users (customers) during registration will be stored on a secure server. 
   * Information provided by users is available only to authorized employees of GRISOFT, s.r.o. and is not disclosed to third parties. 
@@ -23,3 +21,9 @@ Some information provided while using this server or the products and services o
 **Rights of users of this server and of the products and services of GRISOFT, s.r.o.**
 
 The law states that every user (customer) who has provided personal information to GRISOFT, s.r.o. may ask GRISOFT, s.r.o. in writing to advise of any and all information processed about him or her by the same.
+
+## Pricing in e-shop
+
+Products price on this website are displayed without VAT taxes. VAT taxes will be added to your order where applicable.
+
+* * *
