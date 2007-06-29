@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legalzoom.com privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229091529id_/http%3A//www.legalzoom.com/universal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legalzoom.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629144259id_/http%3A//www.legalzoom.com/universal/privacy.html) for the most accurate reproduction.*
 
 # Privacy - We incorporate strict privacy policies to keep your personal and financial information secure.
 
