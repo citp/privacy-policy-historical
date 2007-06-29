@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trustedopinion.com privacy policy that was archived on 2006-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061124022838id_/http%3A//www.trustedopinion.com/privacypolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustedopinion.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630015641id_/http%3A//www.trustedopinion.com/pub/policy.do) for the most accurate reproduction.*
 
-# Trusted Opinion Privacy Policy
+# Trusted Opinion
 
 Effective date: July 17, 2006 
 
