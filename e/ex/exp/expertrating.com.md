@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the expertrating.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207100811id_/http%3A//www.expertrating.com/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expertrating.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629094716id_/http%3A//www.expertrating.com/privacy/privacy.html) for the most accurate reproduction.*
 
 # ExpertRating - Online Certification and Employment Testing
-
-  
-**Effective from August 13th/2005**
 
 Your privacy is important to us. By participating in the Council of Better Business Bureau's BBBOnLine Privacy Program we have made a commitment to meet the programs' strict requirements regarding how we treat your information and have it verified by BBBOnLine. Further information about this program is available at [http://www.bbbonline.org](http://www.bbbonline.org/). 
 
@@ -27,7 +24,7 @@ Location of employer (optional)
 
 Credit card or PayPal account information (only collected at the time of purchase) 
 
-Information collection while recommending ExpertRating - When you recommend ExpertRating to anyone using the 'Suggest a Friend' page at [ www.expertrating.com/suggestmore.asp](https://web.archive.org/suggestmore.asp), the website collects the following information from you: 
+A. Information collection while recommending ExpertRating - When you recommend ExpertRating to anyone using the 'Suggest a Friend' page at [ www.expertrating.com/suggestmore.asp](https://web.archive.org/suggestmore.asp) , the website collects the following information from you: 
 
 Suggestor's name
 
@@ -43,6 +40,24 @@ The Suggestor may furnish information on one, two or three friends. ExpertRating
 
 ExpertRating also collects technical information related to your user session such as your IP address, browser type and operating system. This information is essential in giving you a personalized and user friendly interaction with the site. 
 
+B. Information collection while using the LiveProctor feature on ExpertRating - When you take a proctored test using the Liveproctor feature on ExpertRating, the website collects the following information about your computer and you: 
+
+IP address
+
+Photo id (using a webcam)
+
+Your photo (captured at periodic intervals during the test)
+
+Screenshots (captured at periodic intervals to display what appears on the screen while the test is running)
+
+List of applications running on your computer while the test is running
+
+Your geographical location
+
+The information collected through the LiveProctor feature is solely utilized for the purpose of verifying whether any unfair means were used during the testing process. The information gathered by the LiveProctor is destroyed once the verification has been established.
+
+C. Information collection during re-certification on ExpertRating - When you apply for re-certification, the website collects information related to your current employment. This information is solely used for determining whether you are eligible for re-certification without re-taking the test.
+
 **How does ExpertRating use my information?**
 
 The personal information collected by ExpertRating is only used to complete that order and no information is shared with outside parties. Personal information is not used for any marketing or commercial sale or exchange with third parties. We may use the information you supply us to contact you with matters related to your registration, purchase of exams, about your account status or to inform you about new ExpertRating offers. We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
@@ -55,7 +70,7 @@ Your personal information is kept strictly confidential through a well organized
 
 **Our commitment to payment information (credit card number) security**
 
-ExpertRating services can be purchased online through a secure credit card transaction using any major credit card or PayPal. The ecommerce functionality on the site has been provided by [2Checkout](http://www.2checkout.com/) which is a trusted name in online transaction processing. When you supply your credit card information it is not retained on file by us. Moreover, the transaction takes place on the 2Checkout secure server which is 100% safe. When you buy any of our services, it is treated as a one time sale and your credit card will not be charged again in the future as is the case in subscription sales. [PayPal](http://www.paypal.com/) transactions take place on the PayPal server which is a trusted name in online transaction processing. 
+ExpertRating services can be purchased online through a secure credit card transaction using any major credit card or PayPal. The ecommerce functionality on the site has been provided by [WorldPay](http://www.worldpay.com/) which is a trusted name in online transaction processing. When you supply your credit card information it is not retained on file by us. Moreover, the transaction takes place on the worldpay secure server which is 100% safe. When you buy any of our services, it is treated as a one time sale and your credit card will not be charged again in the future as is the case in subscription sales. [PayPal](http://www.paypal.com/) transactions take place on the PayPal server which is a trusted name in online transaction processing. 
 
 **How you can access or correct your personal information**
 
