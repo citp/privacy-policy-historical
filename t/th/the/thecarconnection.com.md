@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the thecarconnection.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212015642id_/http%3A//www.thecarconnection.com/Extras/Inside_TCC/Privacy_Policy/Privacy_Statement_for_TheCarConnection_com.S228.A164.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecarconnection.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629224143id_/http%3A//www.thecarconnection.com/Extras/Inside_TCC/Privacy_Policy/Privacy_Statement_for_TheCarConnection_com.S228.A164.html) for the most accurate reproduction.*
 
 # Privacy Statement for TheCarConnection.com - The Car Connection
 
-  
   
 
 
@@ -53,3 +52,7 @@ As noted, you have the right to opt out of any services or update any data colle
 Other requests, comments or questions may be addressed to us by e-mail at [Letters@TheCarConnection.com](mailto:Letters@TheCarConnection.com). You may also correspond by standard post at Privacy Policy, TheCarConnection.com, 22 Cambridge Blvd., Pleasant Ridge, MI 48069.
 
 [Contact Information ](https://web.archive.org/index.asp?article=166)
+
+|   
+---  
+[](http://del.icio.us/post "Post this story to del.icio.us") |  | 
