@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cheapflights.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212061510id_/http%3A//www.cheapflights.com/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapflights.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629153838id_/http%3A//www.cheapflights.com/misc/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
-Cheapflights.com, which is owned by Cheapflights (USA) Inc has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for Cheapflights’ web site (“Cheapflights.com”) as well as e-mail newsletters. It is important for you to understand what information we collect about you during your visit and what we do with that information.
+Cheapflights (USA) Inc, which publishes Cheapflights.com, has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for Cheapflights.com as well as e-mail newsletters. It is important for you to understand what information we collect about you during your visit and what we do with that information.
 
 This Privacy Policy only applies to information collected on Cheapflights.com and not to information that is collected by Cheapflights through any other means. Your visit to Cheapflights.com is subject to this Privacy Policy and our [Terms of Use](https://web.archive.org/misc/terms-and-conditions.html)
 
@@ -57,7 +57,6 @@ In addition to this standard Privacy Policy, Cheapflights.com uses an electronic
 We have taken great measures to ensure that your visit to Cheapflights.com is an excellent one and that your privacy is respected. If you have any questions, comments or concerns about our privacy practices, please contact us by e-mail via our [Feedback](https://web.archive.org/contact-us/) link or by writing to the following address: 
 
 Content Editor  
-Cheapflights ( USA) Inc.  
-The Pilot House  
-Lewis Wharf  
-Boston Massachusetts 02110
+Cheapflights (USA) Inc.  
+24 School Street  
+Boston MA 02108
