@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ifreelance.com privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224145220id_/http%3A//www.ifreelance.com/help/inline/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifreelance.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629171549id_/http%3A//www.ifreelance.com/help/inline/privacypolicy.aspx) for the most accurate reproduction.*
 
-# iFreelance.com • Help: Privacy Policy
+# Help: Privacy Policy - iFreelance.com
 
 Your privacy is very important to us.  Please read this Privacy Policy to learn about the ways in which we use and protect your personal information.  iFreelance does not sell or rent your personal information to third parties for their marketing purposes without your explicit consent.   In the unlikely event that we choose to do so in the future with trustworthy third parties, you will be notified by email, 30 days in advance, and given the opportunity to tell us not to share your personal information with those third parties. 
 
@@ -20,7 +20,7 @@ iFreelance takes every precaution to protect your personal information. When you
 
 **3.      ****SERVER LOGS**
 
-iFreelance may log IP addresses for system administration purposes. This information is used to diagnose server problems, monitor traffic patterns, analyze trends, administer the website, track member user patterns, and identify the most popular areas of the website to deliver content most relevant to registered members. IP addresses are not linked to personally identifiable information and are only used to gather broad demographic information for aggregate use, except in the case of fraud. 
+iFreelance may log IP addresses for system administration purposes. This information is used to diagnose server problems, monitor traffic patterns, analyze trends, administer the website, track member user patterns, and identify the most popular areas of the website to deliver content most relevant to registered members.
 
 **4.      ****EXTERNAL LINKS**
 
