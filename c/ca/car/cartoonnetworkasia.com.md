@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartoonnetworkasia.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214185814id_/http%3A//www.cartoonnetworkasia.com/jsp/help/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoonnetworkasia.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629031606id_/http%3A//www.cartoonnetworkasia.com/jsp/help/privacy.jsp) for the most accurate reproduction.*
 
 # Cartoon Network - Privacy Policy
 
@@ -34,4 +34,4 @@ Safeguards - Monitor Your Child's Internet Usage
 
 As we have taken special precautions to aid in the safety of your child's World Wide Web experience, we ask parents to monitor closely the Internet activities of their children and become educated on the various Internet and software tools available so as to ensure that their child has a fun and satisfying on-line experience. 
 
-© 2006 Turner Entertainment Networks Asia, Inc.
+© 2007 Turner Entertainment Networks Asia, Inc.
