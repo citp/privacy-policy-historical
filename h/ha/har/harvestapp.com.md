@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the harvestapp.com privacy policy that was archived on 2006-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060816063137id_/http%3A//getharvest.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harvestapp.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629142334id_/http%3A//www.getharvest.com/privacy.html) for the most accurate reproduction.*
 
 # HARVEST Privacy Policy
 
-HARVEST is a product of Iridesco, Inc. Iridesco, Inc. is committed to protect the privacy of our customers. This Privacy Policy outlines what information we collect and how we may use it. 
+HARVEST is a product of Iridesco, LLC. Iridesco, LLC. is committed to protect the privacy of our customers. This Privacy Policy outlines what information we collect and how we may use it. 
 
   1. When you register with HARVEST, we need to ask for information such as your name, company name, email address. We may also need your billing address and credit card information if you have chosen a paid account.
   2. Iridesco uses the collected information for the following general purposes: to process and fulfill your order, billing, service improvement, and research.
