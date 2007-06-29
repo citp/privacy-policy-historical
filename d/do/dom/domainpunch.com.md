@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domainpunch.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206010604id_/http%3A//domainpunch.com/icenter/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainpunch.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629152923id_/http%3A//www.domainpunch.com/icenter/privacy.php) for the most accurate reproduction.*
 
 # DomainPunch.Com & Softnik Technologies: Privacy Policy
 
@@ -30,6 +30,12 @@ Softnik is committed to taking reasonable steps to protect the individual identi
 
 Softnik some times uses cookies to allow us to provide you with tailored information from our Web. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. These cookies do not track individual information. Softnik may also use cookies when you register for one of our products or services. In this case, a cookie will store useful information that enables our Web site to remember you when you return to visit, but only Softnik web sites can read that information. While using our websites, you may receive cookies from our advertisers or sponsors. Softnik does not control such cookies.
 
+## Private membership sites
+
+Software products that include access to one or more private membership sites may contain a _**quick access**_ button. Clicking the button will open the default Internet browser and automatically log you in to the private membership area. A valid authentication is required for this purpose. This is done by using a simple signature containing the current time-stamp and the status of your product registration. No other information is sent to our servers. This is applicable only if you have **purchased a software product** that includes access to one or more private membership sites and have successfully **registered the software** on your computer using the registration keycode provided by us.
+
 ## Oversight or Questions
 
 Softnik welcomes comments and questions on this policy. As stated above, we are dedicated to protecting your privacy and will make every reasonable effort to keep your information secure. Due to the rapidly evolving changes on the Internet, we may update this policy. All revisions will be posted to this site. Please [contact us](https://web.archive.org/icenter/contact.php) if you have any questions regarding our policy.
+
+This policy was last updated on February 15 2007
