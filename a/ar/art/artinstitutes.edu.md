@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artinstitutes.edu privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206135250id_/http%3A//www.artinstitutes.edu/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artinstitutes.edu privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629175430id_/http%3A//www.artinstitutes.edu/privacy.asp) for the most accurate reproduction.*
 
 # Art Institutes - The Art Institutes
 
