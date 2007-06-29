@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxim-ic.com privacy policy that was archived on 2006-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061015000111id_/http%3A//www.maxim-ic.com/legal/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxim-ic.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629042733id_/http%3A//www.maxim-ic.com/legal/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Statement - Maxim/Dallas
 
@@ -79,6 +79,6 @@ Most browsers accept cookies by default, but you can turn off cookies using your
 
 Microsoft Internet Explorer: [www.microsoft.com/info/cookies.htm](http://www.microsoft.com/info/cookies.htm)
 
-Netscape Navigator: [www.netscape.com/legal_notices/cookies.html](http://www.netscape.com/legal_notices/cookies.html)
+Netscape Navigator: [www.netscape.com/legal_notices/cookies.html](http://browser.netscape.com/ns8/help/popups.jsp#cookies:preferencesIDX)
 
 If you turn cookies off, certain site features may no longer work or work differently. Please note that when you accept a cookie from our website, we do not gain access to your hard drive or personal information other than the information you have provided us. We do not provide cookie information to any third party. 
