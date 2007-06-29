@@ -1,12 +1,19 @@
-> *The following text is extracted and transformed from the totalbankruptcy.com privacy policy that was archived on 2006-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061129224824id_/http%3A//www.totalbankruptcy.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalbankruptcy.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629170149id_/http%3A//www.totalbankruptcy.com/privacy_policy.htm) for the most accurate reproduction.*
 
-# Total Bankruptcy - Privacy Policy
+# Total Bankruptcy Privacy Policy on Your Personal Information
 
 ## Privacy Policy 
 
-### Last Updated: March 2005
+### Last Updated: October 2006
 
-TotalBankruptcy.com is committed to safeguarding the privacy of everyone who uses this website. Accordingly, we have developed this privacy policy to explain to you what information we collect about you, the steps we take to keep this information private and secure, and what we do with this information. This privacy statement is part of our Terms and Conditions, which can be viewed in full by [clicking here](https://web.archive.org/web/20061129224824id_/http%3A//www.totalbankruptcy.com/terms_conditions.asp). By visiting this website, you agree to be bound by the terms of this policy. If you do not agree with the terms of this policy, please do not use this website.
+All of the information we obtain about you is stored securely on our website, and we use it only to evaluate your situation and provide the services described in our [Terms and Conditions](https://web.archive.org/web/20070629170149id_/http%3A//www.totalbankruptcy.com/terms_conditions.htm) to you, to allow unaffiliated sponsoring lawyers or law firms to evaluate your case and provide legal services to you, to provide ongoing communications to you in furtherance of these legal services, and as set forth below. Except as set forth below, we do not sell or share your personal information with anyone other than our own internal personnel and the unaffiliated sponsoring lawyers and law firms, and certain authorized third parties (such as expert witnesses) who may be retained to assist in your bankruptcy case. As part of this process, those third parties agree to keep your information confidential and agree not to share it with any third party without your express permission. 
+
+Note that we may contact you directly from time to time with offers and/or promotions which we believe may be of interest to you. You are free to opt-out of receiving these communications at any time by sending an e-mail to [privacy@TotalBankruptcy.com](mailto:privacy@TotalBankruptcy.com). 
+
+Please also note that we may, from time to time, “lease” or “rent” lists to third party marketers (and/or brokers who work with such third party marketers) which contain your personal information to allow such marketers to contact the individuals included on the list with offers and/or information which they believe may be of interest to you and such other individuals. We make no representations or warranties whatsoever regarding these marketers and/or the products or services they are offering. Please note that you may have your name removed from any such lists by either sending an e-mail to [privacy@TotalBankruptcy.com](mailto:privacy@TotalBankruptcy.com) with **“Please remove me from all Third Party Marketer Lists”** in the subject line or checking the box below.
+
+Please remove me from all Third Party Marketer Lists   
+
 
 ### What types of information about you do we collect through this website?
 
