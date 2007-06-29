@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the carouselchecks.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016115531id_/http%3A//carouselchecks.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carouselchecks.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629054913id_/http%3A//www.carouselchecks.com/privacy.htm) for the most accurate reproduction.*
 
-# Carousel Checks
+# Privacy Policy of Carousel Checks
 
 Carousel Checks Inc. is committed to your privacy and has created this policy in order to demonstrate our commitment to privacy. The following discloses our information gathering and usage practices. 
 
