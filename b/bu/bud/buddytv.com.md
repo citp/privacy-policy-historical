@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buddytv.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206000028id_/http%3A//www.buddytv.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buddytv.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629130003id_/http%3A//www.buddytv.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # 
 
