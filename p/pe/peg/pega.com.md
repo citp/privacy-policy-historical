@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pega.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018170411id_/http%3A//www.pega.com/Tools/PrivacySecurity/privacySecurity.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pega.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629115730id_/http%3A//www.pega.com/Tools/PrivacySecurity/privacySecurity.asp) for the most accurate reproduction.*
 
-# Pegasystems » Privacy & Security — Business Process Management for Business Agility —
+# Pegasystems Inc. » Privacy & Security » Build For Change ®
 
 |  |  | 
 
