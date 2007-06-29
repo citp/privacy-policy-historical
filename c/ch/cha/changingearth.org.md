@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the changingearth.org privacy policy that was archived on 2006-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060721181708id_/http%3A//www.changingearth.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the changingearth.org privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629113954id_/http%3A//www.changingearth.org/privacy.php) for the most accurate reproduction.*
 
 # Changing Earth
-
-Privacy Policy
 
 This Privacy & Data Policy is valid as of 24 May 2006.
 
