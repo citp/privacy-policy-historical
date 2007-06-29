@@ -1,394 +1,518 @@
-<!--The following is the downloaded HTML source of the upmc.com privacy policy that was archived on 2005-07-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050730080617id_/http%3A//community.healthgate.com/getcontent.asp%3FSiteID%3Dupmc%26DocID%3D/choice/copyright/privacy%26DocType%3D4) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the upmc.com privacy policy that was archived on 2007-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070629044055id_/http%3A//www.upmc.com/HealthManagement/ManagingYourHealth/HealthReference/Privacy/default.htm) for the most accurate reproduction.-->
 
-<html><head>
-<title>HealthGate's Privacy Policy CHOICE For UPMC Health</title>
-<meta name="description" content="Health and wellness services, medical information, and interactive health features for our user community.">
-<meta http-equiv="Content-Type" content="text/html;charset=windows-1251">
-<meta name="keywords" content="Healthcare, Wellness">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head id="Head1"><title>
+	EBSCO Publishing Privacy Policy for Health Library
+</title><link href="/MCMSweb/Styles/MainBanner.css" rel="stylesheet" type="text/css">
+
+<meta name="Description" content="Centers for diseases, conditions and injuries in depth">
+<meta name="Keywords" content="AIDS Center, Alcoholism Center, Allergy Center, Alzheimer's Disease Center, Anxiety Disorders Center, Arthritis Center, Asthma Center, Avian Influenza Center, Back Center, Bioterrorism Center, Birth Control Center, Breast Cancer Center, Cancer Center, Chronic Fatigue Syndrome Center, Cold and Flu Center, Colorectal Cancer Center, Congenital Heart Defects Center, Depression Center, Diabetes Center, Disaster Preparedness Center, Drug Addiction Center, Eating Disorders Center, Fibromyalgia Center, Food Safety Center, Foot Center, Headache Center, Heartburn and GERD Center, Heart Disease Center, Hepatitis Center, Huntington's Disease Center, Hypertension Center, Immunization Center, Incontinence Center, Inflammatory Bowel Disease Center, Kidney Disease Center, Leukemia Center, Lung Cancer Center, Lupus Center, Lymphoma Center, Menopause Center, Multiple Sclerosis Center, Oral Health Center, Osteoporosis Center, Pain Center, Pregnancy Center, Prostate Cancer Center, Sexually Transmitted Diseases (STD) Center, Skin Cancer Center, Skin Disorders Center, Sleep Center, Smoking Center, Stress Center, Stroke Center, Trauma Center, Weight Management Center, Women's Self-care Center">
+<meta name="Server" content="PRD2">
+<meta name="Company" content="UPMC | University of Pittsburgh Medical Center, Pittsburgh, PA, USA">
+<meta name="LastEdit" content="11/3/2006 3:14:09 PM">
+
+
+<!-- START: Add Tracking script if production server -->
+
+<script src="/MCMSweb/scripts/__utm.js" type="text/javascript"></script><script language="JavaScript1.5">_ujv='1.5';</script>
+   
+<!-- END: Add Tracking script if production server -->
+<!-- START: DropDownList jump menu -->
 <script language="JavaScript">
 <!--
-									
-					function MakeArray(n) {
-						this.length = n;
-						return this;
-					}
-					
-					monthNames = new MakeArray(12);
-					monthNames[1] = "January";
-					monthNames[2] = "February";
-					monthNames[3] = "March";
-					monthNames[4] = "April";
-					monthNames[5] = "May";
-					monthNames[6] = "June";
-					monthNames[7] = "July";
-					monthNames[8] = "August";
-					monthNames[9] = "September";
-					monthNames[10] = "October";
-					monthNames[11] = "November";
-					monthNames[12] = "December";
-					dayNames = new MakeArray(7);
-					dayNames[1] = "Sunday";
-					dayNames[2] = "Monday";
-					dayNames[3] = "Tuesday";
-					dayNames[4] = "Wednesday";
-					dayNames[5] = "Thursday";
-					dayNames[6] = "Friday";
-					dayNames[7] = "Saturday";
-					
-					function customDateString(oneDate) {
-						var theDay = dayNames[oneDate.getDay() + 1];
-						var theMonth = monthNames[oneDate.getMonth() + 1];
-						var theYear = oneDate.getYear();
-						return theDay + ", " + theMonth + " " + oneDate.getDate() +", " + theYear;
-					}
-					
-					function togglemenu(menuid) {
-					
-						var intStartPos = 0;
-						var intEndPos = 0;
-						var strSiteID = "";
-						
-						strSiteID = window.location.href.toLowerCase();
-						intStartPos = strSiteID.search("siteid=");
-						intEndPos = strSiteID.search("&");
-						
-						if (intEndPos > intStartPos) {
-							strSiteID = strSiteID.substring(intStartPos+7,intEndPos);
-						}
-						else {
-							strSiteID = strSiteID.substring(intStartPos+7,strSiteID.length);
-						}
-
-						if (intStartPos > 0) {
-							window.location.href="/getcontent.asp?siteid=" + strSiteID + 
-									 "&docid=/choice/" + strSiteID +
-									 "/" + menuid + "&doctype=4";
-						}
-					}
-
-					function togglemenu_original(menuid) {
-
-						// disable on 9/30/00
-						return;
-					
-						var intStartPos = 0;
-						var intEndPos = 0;
-						var strSiteID = "";
-						
-						strSiteID = window.location.href.toLowerCase();
-						intStartPos = strSiteID.search("siteid=");
-						intEndPos = strSiteID.search("&docid=");
-						
-						if (intEndPos > intStartPos) {
-							strSiteID = strSiteID.substring(intStartPos+7,intEndPos);
-						}
-						else {
-							strSiteID = strSiteID.substring(intStartPos+7,strSiteID.length);
-						}
-
-						if (menuid.style.display == "none"){
-							menuid.style.display = "list-item";
-							updateMenuDisplayValues(menuid.name,"list-item");
-							
-							if (intStartPos > 0) {
-								window.location.href="/getcontent.asp?siteid=" + strSiteID + 
-												 "&docid=/choice/" + strSiteID +
-												 "/" + menuid.name + "&doctype=4";
-							}
-						}
-						else {
-							menuid.style.display = "none";
-							updateMenuDisplayValues(menuid.name,"none");
-						}
-					}
-
-					function updateMenuDisplayValues(strMenuName,strDisplayOption){
-					
-						// disable on 9/30/00
-						return;
-					
-						var strSearchFor="MenuDisplayValues";
-						var strMenuDisplayValues;
-						var intFrom, intTo, strOld, strNew;
-
-						if ((intFrom = document.cookie.search(strSearchFor)) >= 0){
-							if ((intTo=document.cookie.indexOf(';',intFrom + strSearchFor.length)) >= 0){
-								strMenuDisplayValues=unescape(document.cookie.substring(intFrom,intTo));
-							}
-							else{
-								strMenuDisplayValues=unescape(document.cookie.substring(intFrom));
-							}
-							strNew = strMenuName + "=" + strDisplayOption;
-							if (strDisplayOption == "none") {
-								strOld = strMenuName + "=list-item";
-							}
-							else {
-								strOld = strMenuName + "=none";
-							}
-							strMenuDisplayValues = strMenuDisplayValues.replace(strOld,strNew);
-							document.cookie=escape(strMenuDisplayValues);
-						}
-					}
-					
-					function loadMenuDisplayValues(intMaxContentGroups,strMaxContentGroups){
-					
-						// disable on 9/30/00
-						return;
-					
-						var strSearchFor="MenuDisplayValues";
-						var strMenuDisplayValues=strSearchFor + '=';
-						var strMenu;
-						var intFrom, intTo;
-						var intPos;
-						
-						if ((intFrom = document.cookie.search(strSearchFor)) >= 0){
-							if ((intTo=document.cookie.indexOf(';',intFrom + strSearchFor.length)) >= 0){
-								strMenuDisplayValues=unescape(document.cookie.substring(intFrom,intTo));
-							}
-							else{
-								strMenuDisplayValues=unescape(document.cookie.substring(intFrom));
-							}
-							for (var i = 1; i <= intMaxContentGroups; i++) { 
-
-								intPos = strMaxContentGroups.search(";");
-								strMenu = strMaxContentGroups.substring(0,intPos);
-								strMaxContentGroups = strMaxContentGroups.substring(intPos+1,strMaxContentGroups.length);
-										
-								if (strMenuDisplayValues.search(strMenu + "=list-item") >= 0 ) {
-									eval(strMenu+".style.display = 'list-item'");
-								}
-								else {
-									eval(strMenu+".style.display = 'none'");
-								}
-							}
-						}
-						else{ // found no cookie named 'MenuDisplayValues', so make one
-							for (var i = 1; i <= intMaxContentGroups; i++) {
-
-								intPos = strMaxContentGroups.search(";");
-								strMenu = strMaxContentGroups.substring(0,intPos);
-								strMaxContentGroups = strMaxContentGroups.substring(intPos+1,strMaxContentGroups.length);
-
-								if (eval(strMenu+".style.display == 'list-item'")){
-									strMenu = strMenu + "=list-item";
-								}
-								else{
-									strMenu = strMenu + "=none";
-								}
-								strMenuDisplayValues += strMenu;
-								if (i < intMaxContentGroups){
-									strMenuDisplayValues += ';';
-								}		
-							}
-							document.cookie=escape(strMenuDisplayValues);
-						}
-					}
-
-					function OpenPopupWindow(winURL,winTitle) {
-						if ((winTitle=="HealthCalculator") 
-							|| (winTitle=="AnatomyExplorer")){
-							window.open(winURL,winTitle,
-								'width=668,height=587,left=0,top=0,scrollbars=yes,toolbar=no,location=no,resizable=no');
-								// extra 8 pixels for HC on NN
-						}
-						else{ // default
-							window.open(winURL,winTitle,
-								'width=660,height=524,left=0,top=0,scrollbars=yes,toolbar=yes,location=no,resizable=yes');
-						}
-					}					
-					
-				//-->
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+//-->
 </script>
-<link rel="stylesheet" type="text/css" href="/style/arial.css">
-<style>
-				.signature  {font-size:12pt;font-family:Arial;color:000000;}
-				.navigation {font-size:12pt;line-height:10pt;font-family:Arial;color:18009C;}
-				.navheader  {font-size:12pt;line-height:10pt;font-family:Arial;color:18009C;}
-				.modules    {font-size:12pt;font-family:Arial;font-weight:;color:000000;}
-				.grpheader  {font-size:15pt;font-family:Arial;color:000000;}
-				A			{text-decoration:none;color:}
-				A.signature {font-size:12pt;font-family:Arial;color:000000;}
-			</style>
-</head>
-<body marginwidth="40" marginheight="0" leftmargin="40" topmargin="0" onload="loadMenuDisplayValues(4,'BeWell;TakeControl;GetAnswers;ComplementaryTherapies;')" bgcolor="FFFFFF">
-<table border="0" cellpadding="0" cellspacing="0" width="550" valign="top">
-<tbody><tr>
-<td bgcolor="ffffff">
-</td><td bgcolor="ffffff" height="20">
-<div class="modules" align="center">
-<nobr>
-<a class="modules" href="/print/nurse.asp?SiteID=upmc&amp;DocID=/choice/copyright/privacy&amp;doctype=4" target="_blank">
-</a></nobr><a class="modules" href="/print/nurse.asp?SiteID=upmc&amp;DocID=/choice/copyright/privacy&amp;doctype=4" target="_blank"><nobr>Community Advisor</nobr></a> | 
-<nobr>
-<a class="modules" href="/print/print.asp?SiteID=upmc&amp;DocID=/choice/copyright/privacy&amp;doctype=4" target="_blank">
-</a></nobr><a class="modules" href="/print/print.asp?SiteID=upmc&amp;DocID=/choice/copyright/privacy&amp;doctype=4" target="_blank"><nobr>Print</nobr></a> | 
-<nobr>
-<a class="modules" href="/getcontent.asp?SiteID=upmc&amp;DocID=/search-forms/sitesearch_form&amp;DocType=4">
-</a></nobr><a class="modules" href="/getcontent.asp?SiteID=upmc&amp;DocID=/search-forms/sitesearch_form&amp;DocType=4"><nobr>Search</nobr></a> | 
-<nobr>
-<a class="modules" href="/send2friend/send2friend.asp?SiteID=upmc">
-</a></nobr><a class="modules" href="/send2friend/send2friend.asp?SiteID=upmc"><nobr>Send to a friend</nobr></a>
-</div>
-</td>
-<td bgcolor="ffffff">
-</td></tr>
-</tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="550" valign="top">
-<tbody><tr>
-<td valign="top" width="550" bgcolor="FFFFFF">
-<table width="100%" cellpadding="12" cellspacing="0" border="0">
-<tbody><tr>
-<td valign="top" class="HGContent">
-<!-- Center Name -->
-							<div>
-<div style="margin-left:30;"><!--Intellect Article chunkIID is 29284-->
-<h1 style="font-size:136%;font-weight:bold;margin-top:0.6em;margin-bottom:0.8em;">HealthGate's Privacy Policy</h1>
-<p style="margin-top:1em;margin-bottom:0.4em;"><a href="#A">Introduction
-			</a><br><a href="#B">Registration
-			</a><br><a href="#C">Personal Information
-			</a><br><a href="#D">Aggregate Data
-			</a><br><a href="#E">Medical Information and Minors
-			</a><br><a href="#F">Use of IP Addresses
-			</a><br><a href="#G">Use of Cookies
-			</a><br><a href="#H">Links to Other Sites
-			</a><br><a href="#I">E-mail Addresses
-			</a><br><a href="#J">Security
-			</a><br><a href="#K">Effect of Legal Obligations Upon HealthGate's Privacy Policy
-			</a><br><a href="#L">Changes in HealthGate's Privacy Policy
-			</a><br><a href="#M">Removal of Information
-			</a><br><a href="#N">Effect of Privacy Policy
-		</a></p>
-<div style="display:block;">
-<h2 style="font-size:118%;font-weight:bold;margin-left:-30;margin-top:1.25em;margin-bottom:0.75em;">Purpose</h2>
-<p style="margin-top:1em;margin-bottom:0.4em;">The purpose of this policy is to clearly state how HealthGate operates its Web sites and how information (if any) is collected from users and used HealthGate.</p>
-</div>
-<div style="display:block;">
-<h2 style="font-size:118%;font-weight:bold;margin-left:-30;margin-top:1.25em;margin-bottom:0.75em;">The Policy</h2>
-<div style="display:block;"><a name="A"></a><h3 style="font-size:108%;font-weight:bold;margin-top:1.25em;margin-bottom:0.85em;">Introduction</h3>
-<p style="margin-top:1em;margin-bottom:0.4em;">HealthGate is a leader in setting ethical standards for Internet consumer health Web sites and our policy is to respect and protect the privacy of our users. We present this policy to give you a clear understanding of how we operate our Web site and how we collect information from you and how it is used by us. </p>
-<p style="margin-top:1em;margin-bottom:0.4em;">The information you provide, whether it is when you research a topic of interest or elect to register for certain services, is personal to you.  HealthGate will not disclose your personal health information or the subjects that you search while visiting HealthGate (or a member of the HealthGate Network) to third parties without your consent.</p>
-</div>
-<div style="display:block;"><a name="B"></a><h3 style="font-size:108%;font-weight:bold;margin-top:1.25em;margin-bottom:0.85em;">Registration</h3>
-<p style="margin-top:1em;margin-bottom:0.4em;">HealthGate may require users to register in order to access some content resources that may be made available to you on the site of a member of the HealthGate Network.  You may be asked to provide your name and email address, and you may also have to choose a password. HealthGate stores this information only for the purpose of sending you a reminder if you forget your password or aggregating and reporting usage statistics (see Aggregate Data and Personal Information sections).  HealthGate does not share any personally identifiable information with any third party. </p>
-<p style="margin-top:1em;margin-bottom:0.4em;">You are required to register for the WellMed Health Risk Assessment or Personal Health Manager (if it is available to you on the site of a member of the HealthGate Network). When you use this feature, it is hosted on the WellMed site and this site will clearly disclose what information is required, what information is optional and how that information may be used. WellMed is an online health company and when you use the Health Risk Assessment or Personal Health Manager, any personal health information you submit will be sent to WellMed via a secure method. WellMed uses the information you submit to generate a report for you. We strongly suggest that you read WellMed's privacy policy at <a target="_blank" href="http://www.wellmed.com/wellmed/e/e0200.asp">http://www.wellmed.com/wellmed/e/e0200.asp</a> before using this tool.</p>
-<p style="margin-top:1em;margin-bottom:0.4em;">Health information you supply for the Health Risk Assessment or Personal Health Manager may be anonymously pooled into a database to be used by WellMed and HealthGate for the purpose of assessing general trends and outcomes and improving services. WellMed has agreed with HealthGate to remove all personal identifiers from any pooled data. HealthGate cannot access individual health information submitted to WellMed. WellMed has agreed not to disclose to third parties any personal health information or any identifying data (including name, mailing address, e-mail address and telephone number) unless (1) you expressly direct HealthGate or WellMed to disclose such information or (2) HealthGate or WellMed is required to disclose such information by any applicable law or legal process (such as a subpoena or court order).</p>
-</div>
-<div style="display:block;"><a name="C"></a><h3 style="font-size:108%;font-weight:bold;margin-top:1.25em;margin-bottom:0.85em;">Personal Information</h3>
-<p style="margin-top:1em;margin-bottom:0.4em;">HealthGate may collect personal information supplied by you when you choose to use the HealthGate Clinical Guidelines.  The information collected may include your full name, a username and password that you select, and your email address.  In addition, we associate your personal information with the member of the HealthGate Network (our customer) that provided you access to this resource. </p>
-<p style="margin-top:1em;margin-bottom:0.4em;">The information is stored to remind you what password you selected when you request that information from us.  We may also use this information to determine registration date and last login date and report this information on an aggregate basis to third parties or applicable members of the HealthGate Network (see Aggregate Information).  HealthGate does not share any personally identifiable information with any third party. </p>
-<p style="margin-top:1em;margin-bottom:0.4em;">HealthGate stores this information indefinitely, unless you request that we delete this information (see Remove Information) or if we delete this information in conjunction with terminating our services to the member of the HealthGate Network (our customer) with which you are associated.  </p>
-<p style="margin-top:1em;margin-bottom:0.4em;">HealthGate does not store any personal health information.  </p>
-<p style="margin-top:1em;margin-bottom:0.4em;">Personal information submitted by you when you are using WellMed's Health Risk Assessment or Personal Health Manager is transmitted to WellMed and not stored by or made available to HealthGate.  We strongly suggest that you read WellMed's privacy policy at <a target="_blank" href="http://www.wellmed.com/wellmed/e/e0200.asp">http://www.wellmed.com/wellmed/e/e0200.asp</a> before using this tool.</p>
-</div>
-<div style="display:block;"><a name="D"></a><h3 style="font-size:108%;font-weight:bold;margin-top:1.25em;margin-bottom:0.85em;">Aggregate Data</h3>
-<p style="margin-top:1em;margin-bottom:0.4em;">HealthGate collects data from the Web logs of the servers -- the computers that "serve up" Web pages -- delivering the HealthGate-copyright-owned content sources. This includes information about what you view and, along with information gathered from our other users, we create "aggregate data" reports that we may disclose to third parties. The third parties with whom we share aggregate data with may include our "Information Partners," or the companies, organizations and professional societies that supply us the medical information that you access, and applicable members of the HealthGate Network. The HealthGate Network consists of those hospitals and other Web sites with which HealthGate has an agreement to provide content. For example, if you visit us from one of the hospitals to which we supply content, we will aggregate the data about what information you used while on the site with other visitors from that site and supply it to the sponsoring hospital. HealthGate may also study aggregate data from the entire HealthGate Network in order to enhance existing services or develop new services.  HealthGate will not disclose any individually identifiable information to a third party without your express prior written authorization.</p>
-</div>
-<div style="display:block;"><a name="E"></a><h3 style="font-size:108%;font-weight:bold;margin-top:1.25em;margin-bottom:0.85em;">Medical Information and Minors</h3>
-<p style="margin-top:1em;margin-bottom:0.4em;">HealthGate does not operate a commercial Web site or an online service directed to children under 13 years of age. The Company does not collect personal information from children, nor operate a general audience Web site that collects personal information. To ensure that the Company stays in compliance with the Children's Online Privacy Protection Act (COPPA), HealthGate reviews the details of COPPA on an annual basis.</p>
-<p style="margin-top:1em;margin-bottom:0.4em;">HealthGate's content and other services are not written, intended, or designed for children under the age of 13. </p>
-</div>
-<div style="display:block;"><a name="F"></a><h3 style="font-size:108%;font-weight:bold;margin-top:1.25em;margin-bottom:0.85em;">Use of IP Addresses</h3>
-<p style="margin-top:1em;margin-bottom:0.4em;">An IP address is a number that is automatically assigned to your computer whenever you are surfing the Web. Many Web servers automatically identify your computer by its IP address.</p>
-<p style="margin-top:1em;margin-bottom:0.4em;">HealthGate collects IP addresses from the Web server logs for the purposes of system administration, to report aggregate information to our clients through whose Web sites you access HealthGate's content, and to audit the use of our site. When users request pages from HealthGate, our servers log the users' IP addresses. We do not normally link IP addresses to anything personally identifiable, which means that a user's session will be logged, but the user remains anonymous to us. We can and will use IP addresses to identify a user when we feel it is necessary to enforce compliance with our house rules or terms of service or to protect our service, site, customers, or others.</p>
-</div>
-<div style="display:block;"><a name="G"></a><h3 style="font-size:108%;font-weight:bold;margin-top:1.25em;margin-bottom:0.85em;">Use of Cookies</h3>
-<p style="margin-top:1em;margin-bottom:0.4em;">Cookies are used for record keeping and to track your movements when you visit a Web site. The use of cookies is an industry standard - you'll find them used at most Web sites, including health-related ones.</p>
-<p style="margin-top:1em;margin-bottom:0.4em;">There are two types of cookies: persistent and session. Persistent cookies are pieces of information that a Web site transfers to an individual's hard drive for record-keeping purposes. HealthGate does not use persistent cookies and, therefore, does not place bits of computer code found with cookies on your computer. HealthGate does utilize session cookies that enable you to navigate the content that you use during your visit. Session cookies do not give us access to any personally identifiable information about you.</p>
-<p style="margin-top:1em;margin-bottom:0.4em;">HealthGate uses session cookies with one single purpose in mind: to help you better understand and navigate areas of the HealthGate service that our users find valuable. While this activity depends on the use of a session cookie, visitors to HealthGate always have the option of disabling cookies via their browser settings.</p>
-<p style="margin-top:1em;margin-bottom:0.4em;">We do not control cookies from the other sites that you may link to from HealthGate.</p>
-</div>
-<div style="display:block;"><a name="H"></a><h3 style="font-size:108%;font-weight:bold;margin-top:1.25em;margin-bottom:0.85em;">Links to Other Sites</h3>
-<p style="margin-top:1em;margin-bottom:0.4em;">HealthGate may provide links to an external Web site; these links are for information purposes only.  When you click on such a link, another window will open, signifying that you are leaving HealthGate content.  The privacy policy of the external Web site is in effect, not HealthGate's.  Although HealthGate endeavors to make sure that the site you are linking to is a source of accurate, relevant, and balanced information, HealthGate neither controls nor makes an endorsement of any kind regarding the external site.</p>
-<p style="margin-top:1em;margin-bottom:0.4em;">Links to external Web sites are selected based on an individual author's assessment of: (1) source, (2) accuracy, (3) relevance, and (4) balance.  The Medical Director has final discretion as to whether an embedded link meets these criteria.  All content links undergo editorial review for content and functionality on the same schedule as the content in which they are embedded.</p>
-<p style="margin-top:1em;margin-bottom:0.4em;">HealthGate's policy does not extend to anything that is inherent in the operation of the Internet, and therefore beyond HealthGate's control, and is not to be applied in any manner contrary to applicable law or governmental regulation.</p>
-</div>
-<div style="display:block;"><a name="I"></a><h3 style="font-size:108%;font-weight:bold;margin-top:1.25em;margin-bottom:0.85em;">E-mail addresses</h3>
-<p style="margin-top:1em;margin-bottom:0.4em;">When you send e-mails to "Support", we reasonably expect to receive the e-mails. However, due to the volume of questions we receive, we are unable to answer them all. The senders' e-mail addresses sent are not stored any longer than 30 days and we do not use identifying personal information for any other purpose although it may be included in anonymous, aggregated statistical information.  (See Aggregate Data section of Privacy Policy.)</p>
-<p style="margin-top:1em;margin-bottom:0.4em;">When you click on "Send to a friend" at the top of some of our pages, we will ask for your e-mail address and the address of the person receiving the page URL and you also may add personal comments. The e-mail address of the receiver of the page URL will not be used for any other purpose than to send the page URL and any personal comments you added. HealthGate does not store either your e-mail address or the address of the person receiving the page URL.</p>
-</div>
-<div style="display:block;"><a name="J"></a><h3 style="font-size:108%;font-weight:bold;margin-top:1.25em;margin-bottom:0.85em;">Security</h3>
-<p style="margin-top:1em;margin-bottom:0.4em;">The importance of security for all personally identifiable information associated with our users is of utmost concern to us. The level of security is established by the member of the HealthGate Network.  You can determine the security status of the site by looking at the url: urls that start with "https: " are secure sites.</p>
-<p style="margin-top:1em;margin-bottom:0.4em;">Personal information submitted by you when you are using WellMed's Health Risk Assessment or Personal Health Manager is transmitted to WellMed via a secure method that uses Secure Socket Layer (SSL) encryption. At WellMed, the information is stored in a secure database behind an electronic firewall and is password-protected. Once you have registered for access to secure area hosted WellMed, you would have been assigned a username and password. You are the only person who has access to this information. We recommend that you do not divulge your password to anyone. HealthGate will never ask you for your password in an unsolicited phone call or e-mail. Ultimately, you are responsible for maintaining the secrecy of your passwords and any account information.</p>
-<p style="margin-top:1em;margin-bottom:0.4em;">If you access HealthGate from a public workstation in a library or hospital, remember to sign out and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if your computer is accessible to others.</p>
-<p style="margin-top:1em;margin-bottom:0.4em;">HealthGate cannot completely ensure the privacy of e-mail communications to and from our site because they are not encrypted and, therefore, not secure. These communications, like most Internet e-mail, could be intercepted without your knowledge and permission, while in transit to or from our site. This includes e-mail you send to us through our various mailboxes, and URL information e-mailed from our site to others using the "Send to a friend" feature. If you are concerned about your privacy, we suggest that you do not use e-mail to communicate information to us that you consider sensitive.</p>
-<p style="margin-top:1em;margin-bottom:0.4em;">Once we have information that we may have obtained while you have visited a site on the HealthGate Network, we store this information on database servers at the HealthGate Data Center, that we house at a SAVVIS Inc. secure facility in Waltham, Massachusetts. SAVVIS Inc. maintains both onsite guards, pass code locked doors access, and pass code authority.</p>
-<p style="margin-top:1em;margin-bottom:0.4em;">Although HealthGate will make every effort to safeguard your personal information, you should know that no site could warrant that it is 100% secure from "hackers" who might learn how to evade security systems or intercept transmissions over the Internet.</p>
-</div>
-<div style="display:block;"><a name="K"></a><h3 style="font-size:108%;font-weight:bold;margin-top:1.25em;margin-bottom:0.85em;">Effect of Legal Obligations Upon HealthGate's Privacy Policy</h3>
-<p style="margin-top:1em;margin-bottom:0.4em;">HealthGate may disclose user information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) HealthGate's rights or property, other HealthGate users, or anyone else that could be harmed by such activities. HealthGate may disclose user information when we believe in good faith that the law requires it. In the event that we are compelled to disclose personal and/or health-related personal information, we will notify affected users, if the law allows, before making the required disclosure.</p>
-</div>
-<div style="display:block;"><a name="L"></a><h3 style="font-size:108%;font-weight:bold;margin-top:1.25em;margin-bottom:0.85em;">Changes in HealthGate's Privacy Policy</h3>
-<p style="margin-top:1em;margin-bottom:0.4em;">HealthGate will only use the information we learn about you in the manner described in the Privacy Policy in effect when the information was collected from you. However, we reserve the right to change the terms of this Privacy Policy at any time by posting revisions to our site. If, at any time, we wish to use personal information about you in a manner drastically different than what we've described here, we will make every effort to contact you if you have given us your e-mail address or to make sufficient public announcements that, in our sole discretion, give you ample opportunity to ask that we delete any personal information we have about you in our files. We encourage you to visit our site occasionally to learn about any changes in our Privacy Policy.</p>
-</div>
-<div style="display:block;"><a name="M"></a><h3 style="font-size:108%;font-weight:bold;margin-top:1.25em;margin-bottom:0.85em;">Removal of Information</h3>
-<p style="margin-top:1em;margin-bottom:0.4em;">You may request that we delete any personal information we may have collected about you (such as e-mail address) from our computers by contacting us directly using any of the following:</p>
-<p style="margin-top:1em;margin-bottom:0.4em;">1.	E-mail your request to guidelinesupport@healthgate.com</p>
-<p style="margin-top:1em;margin-bottom:0.4em;">2.	Call 781-685-4041 and asking for Client Services</p>
-<p style="margin-top:1em;margin-bottom:0.4em;">3.	Send regular mail to:<br>
-	
-					&nbsp; &nbsp; &nbsp; <b>Client Services</b><br>
-	
-					&nbsp; &nbsp; &nbsp; HealthGate Data Corp.<br>
-	
-					&nbsp; &nbsp; &nbsp; 25 Corporate Drive, Suite 310<br>
-	
-					&nbsp; &nbsp; &nbsp; Burlington, MA 01803</p>
-<p style="margin-top:1em;margin-bottom:0.4em;">Due to our regular schedule for creating back-ups for our active databases and the need to retain accurate business records, it is impossible for us to remove each and every occurrence of any information that you have provided to us or that we may have learned about your searching habits. However, we will remove such information from our active files immediately upon receipt from you of any such request.</p>
-</div>
-<div style="display:block;"><a name="N"></a><h3 style="font-size:108%;font-weight:bold;margin-top:1.25em;margin-bottom:0.85em;">Effect of Privacy Policy</h3>
-<p style="margin-top:1em;margin-bottom:0.4em;">This privacy policy is not intended to and does not create any contractual or legal rights in or on behalf of any party. This privacy policy may be revised periodically.</p>
-</div>
-</div>
-<div style="display:block;">
-<p style="margin-top:1em;margin-bottom:0.4em;">Last Reviewed by HealthGate Executive Management July 2004.</p>
-</div><br><hr size="1" noshade="" style="color:#ccc;">
-<p style="margin-bottom:1em;">Last reviewed July 30, 2004 by HealthGate Executive Management</p>
-<p>All EBSCO Publishing consumer health and medical information found on this site is <a id="urac" href="javascript:u=window.open('http://webapps.urac.org/healthwebsiteaccreditation/default.asp?id=87684632','URAC','width=600,height=540, toolbar=0,location=0,directories=0,status=0,menuBar=0,scrollBars=0,resizable=0');u.focus();void(null);">accredited by URAC</a>. URAC's Health Web Site Accreditation Program requires compliance with 53 rigorous standards of quality and accountability, verified by independent audits.</p><script><!--
-urac.removeAttribute("target");urac.setAttribute("href","javascript:u=window.open('http://webapps.urac.org/healthwebsiteaccreditation/default.asp?id=87684632','URAC','width=600,height=540, toolbar=0,location=0,directories=0,status=0,menuBar=0,scrollBars=0,resizable=0');u.focus();void(null);");
-//--></script></div>
-</div>
+<script type="text/JavaScript">
+<!--
+function MM_openBrWindow(theURL,winName,features) { //v2.0
 
-						</td>
-<td valign="top">
-<!-- SideBarAd -->
-<br>
-<!-- SideBarAd2 -->
-</td>
-</tr>
-</tbody></table>
-<img src="/images/unitx.gif" width="550" height="1">
-</td>
-</tr>
-</tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="550" valign="top">
-<tbody><tr>
-<td colspan="3" bgcolor="FFFFFF">
-<table cellpadding="6" cellspacing="0" border="0" width="100%" height="100%">
-<tbody><tr><td>
-<div align="center">
-<p class="signature">
-Please be aware that this information is provided to supplement the care provided by your physician. It is neither intended nor implied to be a substitute for professional medical advice.  CALL YOUR HEALTHCARE PROVIDER IMMEDIATELY IF YOU THINK YOU MAY HAVE A MEDICAL EMERGENCY.  Always seek the advice of your physician or other qualified health provider prior to starting any new treatment or with any questions you may have regarding a medical condition.
-</p>
-<a class="signature" href="http://www.epnet.com/biomedical/editorialpolicy_healthlibrary.asp">Editorial Policy</a> | <a class="signature" href="http://www.epnet.com/biomedical/privacypolicy_healthlibrary.asp">
-Privacy</a> |
-						<a class="signature" href="http://www.epnet.com/biomedical/terms&amp;conditions.asp">
-Terms &amp; Conditions</a> |
-						<a class="signature" href="choicesupport.asp?siteid=upmc" target="_blank">
-Support</a><br>
-<p class="signature"><nobr>
-<a class="signature" href="http://www.epnet.com/biomedical/copyrightstatement_healthlibrary.asp">
-Copyright © 
-									2005</a>
-<a class="signature" href="http://www.epnet.com" target="_blank">EBSCO Publishing.</a> All rights reserved.
-							</nobr>
-</p>
-</div>
-</td></tr>
-</tbody></table>
-</td>
-</tr>
-</tbody></table>
+  window.open(theURL,winName,features);
+}
+//-->
+
+</script>
+
+<!-- END: DropDownList jump menu --><link href="/MCMSweb/Styles/MainBanner.css" rel="stylesheet" type="text/css"><link href="/MCMSweb/Styles/MainBanner.css" rel="stylesheet" type="text/css"><link href="/mcmsweb/App_Themes/ManagingYourHealth/ManagingYourHealth.css" type="text/css" rel="stylesheet"></head>
+
+<body>
+
+<form name="ManagingYourHealth" method="post" action="DisplayWebServcieContent.aspx?NRMODE=Published&amp;NRNODEGUID=%7b8D4C26FB-A7C3-4D0F-96B7-67EE98EE2B93%7d&amp;NRORIGINALURL=%2fHealthManagement%2fManagingYourHealth%2fHealthReference%2fPrivacy%2fdefault.htm&amp;NRCACHEHINT=NoModifyGuest" id="ManagingYourHealth">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE0ODg1Nzg1NTRkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBQlUcmVlVmlldzGL/WZXw3pih1PtSp/rcrFGQZf43w==">
 
 
-</body></html>
+<script language="javascript" type="text/javascript">
+<!--
+   var __CMS_PostbackForm = document.forms['ManagingYourHealth'];
+   var __CMS_CurrentUrl = "/MCMSweb/Templates/ManagingYourHealth/DisplayWebServcieContent.aspx?NRMODE=Published&NRNODEGUID=%7b8D4C26FB-A7C3-4D0F-96B7-67EE98EE2B93%7d&NRORIGINALURL=%2fHealthManagement%2fManagingYourHealth%2fHealthReference%2fPrivacy%2fdefault%2ehtm&NRCACHEHINT=NoModifyGuest";
+// -->
+</script>
+
+
+<!-- BEGIN #container -->
+<div id="container">
+<!--googleoff: snippet-->
+<!-- BEGIN #header -->
+
+
+<link href="/MCMSweb/Styles/MainBanner.css" rel="stylesheet" type="text/css">
+<link href="/MCMSweb/Styles/Footer.css" rel="stylesheet" type="text/css">
+
+    <div id="header">
+        <div id="logo">
+			<a id="Header1_HyperLink1" title="UPMC | University of Pittsburgh Medical Center" href="http://www.upmc.com"></a>
+        </div><a name="Top" id="Top"></a>
+        <div id="searchForm">
+            <div class="searchForm">
+                <input id="Text1" type="text" style="display:none">
+            <a id="Header1_HomeLink" title="UPMC Home" href="/home.htm">Home</a> | 
+            <a id="Header1_sitemap" title="Site Map" href="/sitemap">Site Map</a> | 
+            <a id="Header1_ContactLink" title="UPMC News" href="/Communications/NewsBureau">News</a>
+            </div>
+            <div>
+            <input name="Header1:txt_Search" type="text" maxlength="75" id="Header1_txt_Search" title="Enter search keywords here" class="text">
+            <input type="submit" name="Header1:SearchButton" value="Search" id="Header1_SearchButton" title="Click to search" class="searchButton">
+        </div>
+        </div>
+    </div>
+
+ 
+
+	<!-- BEGIN #navigation -->
+	<ul id="navList" class="navList">
+
+        <li>
+            <a id="Header1_siteMapAsBulletedList__ctl0_HyperLink2" title="UPMC’s Mission, Vision, and Governance" href="/AboutUPMC">About UPMC</a>
+        </li>
+    
+        <li> | </li>
+    
+        <li>
+            <a id="Header1_siteMapAsBulletedList__ctl2_HyperLink2" title="Where to Find Care" href="/hospitalsfacilities/HFHome">Hospitals &amp; Facilities</a>
+        </li>
+    
+        <li> | </li>
+    
+        <li>
+            <a id="Header1_siteMapAsBulletedList__ctl4_HyperLink2" title="Ways We Care For You" href="/services/.">Our Services</a>
+        </li>
+    
+        <li> | </li>
+    
+        <li>
+            <a id="Header1_siteMapAsBulletedList__ctl6_HyperLink2" title="Find the Doctor You Need" href="http://findadoc.upmc.com/">Find A Doctor</a>
+        </li>
+    
+        <li> | </li>
+    
+        <li>
+            <a id="Header1_siteMapAsBulletedList__ctl8_HyperLink2" title="Helpful Visitor Information" href="/yourvisit">Your Visit</a>
+        </li>
+    
+        <li> | </li>
+    
+        <li>
+            <a id="Header1_siteMapAsBulletedList__ctl10_HyperLink2" title="Ways to Get and Stay Healthy" href="/HealthManagement/">Health Library</a>
+        </li>
+    
+        <li> | </li>
+    
+        <li>
+            <a id="Header1_siteMapAsBulletedList__ctl12_HyperLink2" title="Careers at UPMC" href="/careers">Careers at UPMC</a>
+        </li>
+    
+ </ul>
+
+
+
+
+
+<script language="javascript" src="/MCMSweb/Scripts/FloatingConsole.js"></script>
+
+	
+		
+
+	
+	
+	<!-- BEGIN #midContainer -->
+	<div id="midContainer">
+		
+		<!-- BEGIN #leftNav -->
+	  <div id="leftNav">
+	  <h1>&nbsp;</h1>
+       
+          
+            <div id="leftMenu">
+                &nbsp;<a href="#TreeView1_SkipLink"><img alt="Skip Navigation Links." src="/mcmsweb/WebResource.axd?d=prrwt3qcYwyaQgTWHVUe1Q2&amp;t=632963129794115455" width="0" height="0" border="0"></a><div id="TreeView1">
+	<table cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td><a href="javascript:__doPostBack('TreeView1','tHealth Library')"><img src="/mcmsweb/WebResource.axd?d=MRK5pkY6quWGFdyaMNeHynMqQS7swl93UsEYNdE2ug41&amp;t=632963129794115455" alt="Collapse Health Library" border="0"></a></td><td><a href="http://www.upmc.com/HealthManagement/" id="TreeView1t0">Health Library</a></td>
+		</tr><tr>
+			<td></td>
+		</tr>
+	</tbody></table><table cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td></td>
+		</tr><tr>
+			<td><table width="20">
+				<tbody><tr>
+					<td></td>
+				</tr>
+			</tbody></table></td><td><a href="javascript:__doPostBack('TreeView1','tHealth Library\\Personal Health')"><img src="/mcmsweb/WebResource.axd?d=MRK5pkY6quWGFdyaMNeHypOrHdaZPBzqKWctmvbrFp01&amp;t=632963129794115455" alt="Expand Personal Health" border="0"></a></td><td><a href="http://www.upmc.com/HealthManagement/" id="TreeView1t1">Personal Health</a></td>
+		</tr><tr>
+			<td></td>
+		</tr>
+	</tbody></table><table cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td></td>
+		</tr><tr>
+			<td><table width="20">
+				<tbody><tr>
+					<td></td>
+				</tr>
+			</tbody></table></td><td><a href="javascript:__doPostBack('TreeView1','tHealth Library\\Health Reference')"><img src="/mcmsweb/WebResource.axd?d=MRK5pkY6quWGFdyaMNeHypOrHdaZPBzqKWctmvbrFp01&amp;t=632963129794115455" alt="Expand Health Reference" border="0"></a></td><td><a href="http://www.upmc.com/HealthManagement/" id="TreeView1t6">Health Reference</a></td>
+		</tr><tr>
+			<td></td>
+		</tr>
+	</tbody></table><table cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td></td>
+		</tr><tr>
+			<td><table width="20">
+				<tbody><tr>
+					<td></td>
+				</tr>
+			</tbody></table></td><td><img src="/mcmsweb/WebResource.axd?d=MRK5pkY6quWGFdyaMNeHysiUjI3rYrZXJQ7Z6RrWVHg1&amp;t=632963129794115455" alt=""></td><td><a href="http://www.upmc.com/HealthManagement/ManagingYourHealth/HealthReference/HealthTools/" id="TreeView1t12">Health Tools</a></td>
+		</tr><tr>
+			<td></td>
+		</tr>
+	</tbody></table><table cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td></td>
+		</tr><tr>
+			<td><table width="20">
+				<tbody><tr>
+					<td></td>
+				</tr>
+			</tbody></table></td><td><a href="javascript:__doPostBack('TreeView1','tHealth Library\\Diseases &amp; Conditions')"><img src="/mcmsweb/WebResource.axd?d=MRK5pkY6quWGFdyaMNeHypOrHdaZPBzqKWctmvbrFp01&amp;t=632963129794115455" alt="Expand Diseases &amp; Conditions" border="0"></a></td><td><a href="http://www.upmc.com/HealthManagement/ManagingYourHealth/HealthReference/Diseases/" id="TreeView1t13">Diseases &amp; Conditions</a></td>
+		</tr><tr>
+			<td></td>
+		</tr>
+	</tbody></table><table cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td></td>
+		</tr><tr>
+			<td><table width="20">
+				<tbody><tr>
+					<td></td>
+				</tr>
+			</tbody></table></td><td><a href="javascript:__doPostBack('TreeView1','tHealth Library\\Procedures')"><img src="/mcmsweb/WebResource.axd?d=MRK5pkY6quWGFdyaMNeHypOrHdaZPBzqKWctmvbrFp01&amp;t=632963129794115455" alt="Expand Procedures" border="0"></a></td><td><a href="http://www.upmc.com/HealthManagement/ManagingYourHealth/HealthReference/Procedures/" id="TreeView1t17">Procedures</a></td>
+		</tr><tr>
+			<td></td>
+		</tr>
+	</tbody></table><table cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td></td>
+		</tr><tr>
+			<td><table width="20">
+				<tbody><tr>
+					<td></td>
+				</tr>
+			</tbody></table></td><td><img src="/mcmsweb/WebResource.axd?d=MRK5pkY6quWGFdyaMNeHysiUjI3rYrZXJQ7Z6RrWVHg1&amp;t=632963129794115455" alt=""></td><td><a href="http://www.upmc.com/HealthManagement/ManagingYourHealth/HealthReference/PatientEducation/" id="TreeView1t21">UPMC Patient Education Materials</a></td>
+		</tr><tr>
+			<td></td>
+		</tr>
+	</tbody></table><table cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td></td>
+		</tr><tr>
+			<td><table width="20">
+				<tbody><tr>
+					<td></td>
+				</tr>
+			</tbody></table></td><td><img src="/mcmsweb/WebResource.axd?d=MRK5pkY6quWGFdyaMNeHysiUjI3rYrZXJQ7Z6RrWVHg1&amp;t=632963129794115455" alt=""></td><td><a href="http://www.upmc.com/HealthManagement/ManagingYourHealth/HealthReference/MedicineCabinet/DrugDatabase" id="TreeView1t22">Medicine Cabinet</a></td>
+		</tr><tr>
+			<td></td>
+		</tr>
+	</tbody></table><table cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td></td>
+		</tr><tr>
+			<td><table width="20">
+				<tbody><tr>
+					<td></td>
+				</tr>
+			</tbody></table></td><td><img src="/mcmsweb/WebResource.axd?d=MRK5pkY6quWGFdyaMNeHysiUjI3rYrZXJQ7Z6RrWVHg1&amp;t=632963129794115455" alt=""></td><td><a href="http://www.upmc.com/HealthManagement/ManagingYourHealth/HealthReference/MedicalDictionary/" id="TreeView1t23">Medical Dictionary</a></td>
+		</tr><tr>
+			<td></td>
+		</tr>
+	</tbody></table>
+</div><a id="TreeView1_SkipLink"></a>
+         
+                
+         
+		           <div id="topleft" style="display:inline-block;"></div>
+                </div>
+          
+
+         
+          
+         
+          </div>
+        
+<!--googleon: snippet-->
+		<!-- BEGIN #mainContent -->
+	  <div id="homeContent">
+	  <!-- END EXCLUDE -->
+	  	<h1>Privacy</h1>
+		       <div id="MainImage" style="display:inline-block;"></div> 
+
+        <span id="Label1"></span>
+
+<br><p>
+        <!-- START EXCLUDE -->
+        <script language="JavaScript">
+ 	var ppb = "<a href=http://printfriendly.upmc.com/printCMS.asp?ref=";
+	var ppe = " target=_blank title=Print Page><img src=http://printfriendly.upmc.com/Images/PrintThisPage.gif border=0 alt=Print></a>";
+	document.write(ppb + window.location.href + ppe);
+	</script><a href="http://printfriendly.upmc.com/printCMS.asp?ref=https://web.archive.org/web/20070629044055id_/http%3A//www.upmc.com/HealthManagement/ManagingYourHealth/HealthReference/Privacy/default.htm" target="_blank" title="Print" page=""><img src="http://printfriendly.upmc.com/Images/PrintThisPage.gif" border="0" alt="Print"></a> 
+        <!-- END EXCLUDE -->
+        </p>
+
+
+        <div id="HLContent"><div class="FrontMatter"><h2 class="Title">EBSCO Publishing Privacy Policy for Health Library&nbsp;
+					</h2>&nbsp;</div><div class="ArticleBody"><div class="Section"><h2 class="SectionHeader">Purpose&nbsp;</h2><p>The purpose of this policy is to clearly state how EBSCO Publishing operates its Health Library
+Web sites and how information (if any) is collected from users and used EBSCO Publishing.</p></div><div class="Section"><h2 class="SectionHeader">The Policy&nbsp;</h2><div class="Section"><a name="A"> </a><h2 class="SectionHeader">Introduction&nbsp;</h2><p>EBSCO Publishing is a leader in setting ethical standards for Internet consumer health Web sites
+and our policy is to respect and protect the privacy of our users. We present this policy to give
+you a clear understanding of how we operate our Web site and how we collect information from
+you and how it is used by us.</p><p>The information you provide, whether it is when you research a topic of interest or elect to register
+for certain services, is personal to you. EBSCO Publishing will not disclose your personal health
+information or the subjects that you search while visiting EBSCO Publishing (or a member of the
+EBSCO Publishing Network) to third parties without your consent.</p></div><div class="Section"><a name="B"> </a><h2 class="SectionHeader">Registration&nbsp;</h2><p>EBSCO Publishing does not require users to register in order to gain access to the Health
+Library.</p><p>There are some services that EBSCO Publishing does license that require registration. As of
+March 2006, EBSCO Publishing licensed the HealthStatus Personal Health Manager.</p><p>When you use this feature, it is hosted on the HealthStatus site and this site will clearly disclose
+what information is required, what information is optional and how that information may be used.
+HealthStatus is not affiliated with EBSCO Publishing.</p></div><div class="Section"><a name="C"> </a><h2 class="SectionHeader">Personal Information&nbsp;</h2><p>EBSCO Publishing does not store any personal health information..</p><p>Personal information submitted by you when you are using HealthStatus’s Personal Health
+Manager is transmitted to HealthStatus and not stored by or made available to EBSCO
+Publishing.</p></div><div class="Section"><a name="D"> </a><h2 class="SectionHeader">Aggregate Data&nbsp;</h2><p>EBSCO Publishing collects data from the Web logs of the servers -- the computers that “serve
+up” Web pages -- delivering the EBSCO Publishing -copyright-owned content sources. This
+includes information about what you view and, along with information gathered from our other
+users, we create “aggregate data” reports that we may disclose to third parties. The third parties
+with whom we share aggregate data with may include our “Information Partners,” or the
+companies, organizations and professional societies that supply us the medical information that
+you access, and applicable members of the EBSCO Publishing Network. The EBSCO Publishing
+Network consists of those hospitals and other Web sites with which EBSCO Publishing has an
+agreement to provide content. For example, if you visit us from one of the hospitals to which we
+supply content, we will aggregate the data about what information you used while on the site with
+other visitors from that site and supply it to the sponsoring hospital. EBSCO Publishing may also
+study aggregate data from the entire EBSCO Publishing Network in order to enhance existing
+services or develop new services. EBSCO Publishing will not disclose any individually
+identifiable information to a third party without your express prior written authorization.</p></div><div class="Section"><a name="E"> </a><h2 class="SectionHeader">Medical Information and Minors&nbsp;</h2><p>EBSCO Publishing does not operate a commercial Web site or an online service directed to
+children under 13 years of age. The Company does not collect personal information from
+children, nor operate a general audience Web site that collects personal information. To ensure
+that the Company stays in compliance with the Children’s Online Privacy Protection Act
+(COPPA), EBSCO Publishing reviews the details of COPPA on an annual basis.</p><p>EBSCO Publishing’s content and other services are not written, intended, or designed for children
+under the age of 13.</p></div><div class="Section"><a name="F"> </a><h2 class="SectionHeader">Use of IP Addresses&nbsp;</h2><p>An IP address is a number that is automatically assigned to your computer whenever you are
+surfing the Web. Many Web servers automatically identify your computer by its IP address.</p><p>EBSCO Publishing collects IP addresses from the Web server logs for the purposes of system
+administration, to report aggregate information to our clients through whose Web sites you
+access EBSCO Publishing’s content, and to audit the use of our site. When users request pages
+from EBSCO Publishing, our servers log the users’ IP addresses. We do not normally link IP
+addresses to anything personally identifiable, which means that a user’s session will be logged,
+but the user remains anonymous to us. We can and will use IP addresses to identify a user when
+we feel it is necessary to enforce compliance with our house rules or terms of service or to protect
+our service, site, customers, or others.</p></div><div class="Section"><a name="G"> </a><h2 class="SectionHeader">Use of Cookies&nbsp;</h2><p>Cookies are used for record keeping and to track your movements when you visit a Web site. The
+use of cookies is an industry standard - you’ll find them used at most Web sites, including healthrelated
+ones.</p><p>There are two types of cookies: persistent and session. Persistent cookies are pieces of
+information that a Web site transfers to an individual’s hard drive for record-keeping purposes.
+EBSCO Publishing’s Health Library platform does not use persistent cookies and, therefore, does
+not place bits of computer code found with cookies on your computer. EBSCO Publishing does
+utilize session cookies that enable you to navigate the content that you use during your visit.
+Session cookies do not give us access to any personally identifiable information about you.</p><p>EBSCO Publishing’s Health Library platform uses session cookies with one single purpose in
+mind: to help you better understand and navigate areas of the EBSCO Publishing service that our
+users find valuable. While this activity depends on the use of a session cookie, visitors to EBSCO
+Publishing always have the option of disabling cookies via their browser settings.</p><p>We do not control cookies from the other sites that you may link to from EBSCO Publishing.</p></div><div class="Section"><a name="H"> </a><h2 class="SectionHeader">Links to Other Sites&nbsp;</h2><p>EBSCO Publishing may provide links to an external Web site; these links are for information
+purposes only. When you click on such a link, another window will open, signifying that you are
+leaving EBSCO Publishing content. The privacy policy of the external Web site is in effect, not
+EBSCO Publishing’s. Although EBSCO Publishing endeavors to make sure that the site you are
+linking to is a source of accurate, relevant, and balanced information, EBSCO Publishing neither
+controls nor makes an endorsement of any kind regarding the external site.</p><p>Links to external Web sites are selected based on an individual author’s assessment of: (1)
+source, (2) accuracy, (3) relevance, and (4) balance. The Medical Director has final discretion as
+to whether an embedded link meets these criteria. All content links undergo editorial review for
+content and functionality on the same schedule as the content in which they are embedded.</p><p>EBSCO Publishing’s policy does not extend to anything that is inherent in the operation of the
+Internet, and therefore beyond EBSCO Publishing’s control, and is not to be applied in any
+manner contrary to applicable law or governmental regulation.</p></div><div class="Section"><a name="I"> </a><h2 class="SectionHeader">E-mail addresses&nbsp;</h2><p>When you send e-mails to "Support", we reasonably expect to receive the e-mails. However, due
+to the volume of questions we receive, we are unable to answer them all. The senders' e-mail
+addresses sent are not stored any longer than 30 days and we do not use identifying personal
+information for any other purpose although it may be included in anonymous, aggregated
+statistical information. (See Aggregate Data section of Privacy Policy.)</p><p>WWhen you click on "Send to a friend" at the top of some of our pages, we will ask for your e-mail
+address and the address of the person receiving the page URL and you also may add personal
+comments. The e-mail address of the receiver of the page URL will not be used for any other
+purpose than to send the page URL and any personal comments you added. EBSCO Publishing
+does not store either your e-mail address or the address of the person receiving the page URL.</p></div><div class="Section"><a name="J"> </a><h2 class="SectionHeader">Security&nbsp;</h2><p>The importance of security for all personally identifiable information associated with our users is
+of utmost concern to us. The level of security is established by the member of the EBSCO
+Publishing Network. You can determine the security status of the site by looking at the url: urls
+that start with “https: “ are secure sites.</p><p>Personal information submitted by you when you are using WellMed’s Health Risk Assessment or
+Personal Health Manager is transmitted to WellMed via a secure method that uses Secure
+Socket Layer (SSL) encryption. At WellMed, the information is stored in a secure database
+behind an electronic firewall and is password-protected. Once you have registered for access to
+secure area hosted WellMed, you would have been assigned a username and password. You are
+the only person who has access to this information. We recommend that you do not divulge your
+password to anyone. EBSCO Publishing will never ask you for your password in an unsolicited
+phone call or e-mail. Ultimately, you are responsible for maintaining the secrecy of your
+passwords and any account information.</p><p>If you access EBSCO Publishing from a public workstation in a library or hospital, remember to
+sign out and close your browser window when you have finished your work. This is to ensure that
+others cannot access your personal information and correspondence if your computer is
+accessible to others.</p><p>EBSCO Publishing cannot completely ensure the privacy of e-mail communications to and from
+our site because they are not encrypted and, therefore, not secure. These communications, like
+most Internet e-mail, could be intercepted without your knowledge and permission, while in transit
+to or from our site. This includes e-mail you send to us through our various mailboxes, and URL
+information e-mailed from our site to others using the "Send to a friend" feature. If you are
+concerned about your privacy, we suggest that you do not use e-mail to communicate information
+to us that you consider sensitive.</p><p>Once we have information that we may have obtained while you have visited a site on the
+EBSCO Publishing Network, we store this information on database servers at the EBSCO
+Publishing facilities, that are housed in Ipswich, Massachusetts. EBSCO Publishing maintains a
+security presence, pass code locked doors access, and pass code authority.</p><p>Although EBSCO Publishing will make every effort to safeguard your personal information, you
+should know that no site could warrant that it is 100% secure from “hackers” who might learn how
+to evade security systems or intercept transmissions over the Internet.</p></div><div class="Section"><a name="K"> </a><h2 class="SectionHeader">Effect of Legal Obligations Upon EBSCO Publishing 's Privacy Policy&nbsp;</h2><p>EBSCO Publishing may disclose user information in special cases when we have reason to
+believe that disclosing this information is necessary to identify, contact or bring legal action
+against someone who may be causing injury to or interference with (either intentionally or
+unintentionally) EBSCO Publishing’s rights or property, other EBSCO Publishing users, or anyone
+else that could be harmed by such activities. EBSCO Publishing may disclose user information
+when we believe in good faith that the law requires it. In the event that we are compelled to
+disclose personal and/or health-related personal information, we will notify affected users, if the
+law allows, before making the required disclosure.</p></div><div class="Section"><a name="L"> </a><h2 class="SectionHeader">Changes in EBSCO Publishing’s Privacy Policy&nbsp;</h2><p>EBSCO Publishing will only use the information we learn about you in the manner described in
+the Privacy Policy in effect when the information was collected from you. However, we reserve
+the right to change the terms of this Privacy Policy at any time by posting revisions to our site. If,
+at any time, we wish to use personal information about you in a manner drastically different than
+what we’ve described here, we will make every effort to contact you if you have given us your email
+address or to make sufficient public announcements that, in our sole discretion, give you
+ample opportunity to ask that we delete any personal information we have about you in our files.
+We encourage you to visit our site occasionally to learn about any changes in our Privacy Policy.</p></div><div class="Section"><a name="M"> </a><h2 class="SectionHeader">Removal of Information&nbsp;</h2><p>You may request that we delete any personal information we may have collected about you (such
+as e-mail address) from our computers by contacting us directly using any of the following:</p><p>1.	E-mail your request to information@epnet.com</p><p>2.	Call 800-653-2726 or 978-356-6500 and ask for Customer Support</p><p>
+          3.	Send regular mail to:
+          <br>
+          &nbsp; &nbsp; &nbsp;
+          <br>
+          &nbsp; &nbsp; &nbsp; EBSCO Publishing
+          <br>
+          &nbsp; &nbsp; &nbsp; Attn: Customer Support
+          <br>
+          &nbsp; &nbsp; &nbsp; 10 Estes St.
+          <br>
+          &nbsp; &nbsp; &nbsp; Ipswich, MA 01938
+        </p><p>Due to our regular schedule for creating back-ups for our active databases and the need to retain
+accurate business records, it is impossible for us to remove each and every occurrence of any
+information that you have provided to us or that we may have learned about your searching
+habits. However, we will remove such information from our active files immediately upon receipt
+from you of any such request.</p></div><div class="Section"><a name="N"> </a><h2 class="SectionHeader">Effect of Privacy Policy&nbsp;</h2><p>This privacy policy is not intended to and does not create any contractual or legal rights in or on
+behalf of any party. This privacy policy may be revised periodically.</p></div></div><div class="Section"><p>Last Reviewed by EBSCO Publishing Executive Management August 2006.</p></div></div><div class="BackMatter"><p class="LastReview">Last reviewed August 30, 2006</p><p class="Disclaimer">Please be aware that this information is provided to supplement the care provided by your physician. It is neither intended nor implied to be a substitute for professional medical advice. CALL YOUR HEALTHCARE PROVIDER IMMEDIATELY IF YOU THINK YOU MAY HAVE A MEDICAL EMERGENCY. Always seek the advice of your physician or other qualified health provider prior to starting any new treatment or with any questions you may have regarding a medical condition.</p><p class="Copyright"><a href="http://www.epnet.com/uploads/thisTopic-dbTopic-473.pdf">
+              Copyright © <script type="text/javascript"><!--
+			theYear = (new Date()).getYear();
+			if (theYear < 1900) theYear += 1900;
+			document.write(theYear);
+		--></script>2020</a> <a href="http://www.epnet.com">EBSCO Publishing. All rights reserved.</a></p><ul class="EBSCOLinks"><li><a href="?chunkiid=29309">Editorial Policy</a></li><li><a href="?chunkiid=29284">Privacy Policy</a></li><li><a href="?chunkiid=29310">Terms and Conditions</a></li><li><a href="mailto:healthlibrarysupport@epnet.com">Support</a></li></ul></div><script type="text/javascript"><!--              
+		function hlInit() {
+			var links = document.getElementsByTagName('a');
+			for(var i=0;i<links.length;i++) {
+				var a = links[i];
+				var c = a.className;
+				if(c && c.indexOf('ExLink')>-1)
+				a.href = "javascript:void window.open('"+a.href+"')";
+			}
+		}
+		//--></script><script type="text/javascript">hlInit();</script><div style="clear:both"></div></div>
+		<!-- START EXCLUDE -->
+        <p><br></p>
+        <p><a class="topOfPage" title="Return to the top of this page." href="#Top">Top of Page </a></p>
+            <p><br></p>
+        </div>
+		
+		<br class="clear">
+		
+	</div>
+	
+	<!-- BEGIN #footer -->
+	<div id="footer">
+	  
+<div id="footer"> 
+<p><a href="/contact/">Contact UPMC</a> | <a href="/TermsofUse/#website">Website Terms of Use</a> | <a href="/TermsofUse/#email">E-mail Terms of Use</a> | 
+<a href="/TermsofUse/#medical">Medical Advice Disclaimer</a> | <a href="http://www.upmc.com/NoticeOfPrivacyPractice.htm">UPMC Notice of Privacy Practices</a></p>
+    <p>© Copyright 2007 <a href="http://www.upmc.com">UPMC</a> | 
+    <a href="http://www.health.pitt.edu/">Affiliated with the University of Pittsburgh Schools of the Health Sciences</a></p>
+    <p>Supplemental content provided by <a href="http://www.epnet.com" title="Use this link to visit EBSCO Publishing's web site in a new window" target="_blank">EBSCO Publishing</a>. 
+    <a href="http://www.ebsco.com" title="Use this link to visit EBSCO Publishing's web site in a new window" target="_blank">
+    </a> All rights reserved.</p>
+
+
+</div>
+
+ 
+<div id="postingSummary"></div>
+<div style="background-color:#FFFFFF"><!-- MetaData Control --><span id="Footer1_MetaDataPH1"></span></div>
+<span id="Footer1_lbl_FlashScript"><script src="/MCMSweb/scripts/FlashFix.js" language="javascript" type="text/javascript"></script></span>
+ 
+	</div>
+
+</div>
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCAKa+Z3wDgKF6YLXBQKO5oGYDgL9xI7eBwLZjrnBAwLinc6OBwLvteGgDgKH4fGfB1+F1caVsEA6cbMFHnAIi1gfO0zw">
+
+<!-- Generated by Microsoft.ContentManagement.WebControls.Console to reset form.action -->
+<script type="text/javascript">
+<!--
+
+    var __CMS_PostbackFormBeenReset = false;
+
+    function __cmsRestFormAction()
+    {
+        if ( !__CMS_PostbackFormBeenReset )
+        {
+            // set form postback Url to be current translated CMS Url
+            __CMS_PostbackForm.action = __CMS_CurrentUrl;
+        }
+    }
+
+    var __cmsResetFormCachedPostBack = null;
+    if( typeof window.__doPostBack != "undefined" )
+    {
+        __cmsResetFormCachedPostBack = __doPostBack;
+        __doPostBack = __cmsResetFormOverridePostBack;
+    }
+
+    var __cmsResetFormCachedOnSubmit = null;
+    if( typeof __CMS_PostbackForm.onsubmit != "undefined" )
+    {
+        __cmsResetFormCachedOnSubmit = __CMS_PostbackForm.onsubmit;
+        __CMS_PostbackForm.onsubmit = __cmsResetFormOverrideOnSubmit;
+    }
+    else
+    {
+        __cmsResetFormCachedOnSubmit = null;
+        __CMS_PostbackForm.onsubmit = __cmsResetFormOverrideOnSubmit;
+    }
+
+    function __cmsResetFormOverridePostBack( eventTarget, eventArgument )
+    {
+        __cmsRestFormAction();
+        __cmsResetFormCachedPostBack( eventTarget, eventArgument );
+    }
+
+    function __cmsResetFormOverrideOnSubmit()
+    {
+        __cmsRestFormAction();
+        if (__cmsResetFormCachedOnSubmit != null)
+            return __cmsResetFormCachedOnSubmit();
+        else
+            return true;
+    }
+// -->
+</script>
+
+
+</form>
+ 
+
+<!-- END EXCLUDE --></body></html>
