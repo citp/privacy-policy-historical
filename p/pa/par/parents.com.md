@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parents.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016173019id_/http%3A//www.parents.com/parents/file.jhtml%3Fitem%3D/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parents.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629133031id_/http%3A//www.parents.com/parents/file.jhtml%3Fitem%3D/legal/privacy) for the most accurate reproduction.*
 
 # Parents.com
 
