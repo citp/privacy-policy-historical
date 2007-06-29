@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activecommunities.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207194748id_/http%3A//www.theactivenetwork.com/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activecommunities.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629175458id_/http%3A//www.theactivenetwork.com/privacystatement) for the most accurate reproduction.*
 
 # The Active Network - Privacy Statement
 
