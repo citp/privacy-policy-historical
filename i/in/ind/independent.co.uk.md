@@ -1,26 +1,28 @@
-> *The following text is extracted and transformed from the independent.co.uk privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205185624id_/http%3A//news.independent.co.uk/article294422.ece) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independent.co.uk privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629092753id_/http%3A//news.independent.co.uk/article294422.ece) for the most accurate reproduction.*
 
-# Independent Online Edition > News
+# Privacy Policy - Independent Online Edition > News
 
-Before using the Website (that is, any site operated by Independent News & Media plc companies) it is your responsibility to read the Privacy Policy. You can notify us in the manner set out below if you do not want us to share information about you with third parties. 
+Before using the Website (that is, any site operated by a company in the Independent News & Media group) it is your responsibility to read the Privacy Policy. You can notify us in the manner set out below if you do not want us to share information about you with third parties. 
+
+Independent News and Media Limited (together with its holding and associated companies where relevant), is hereinafter referred to as INM. 
 
 **The basic principles**
 
-By accessing and using the Website you are agreeing to be legally bound by the Terms of Use and this Privacy Policy. You should therefore also read the Terms of Use before using the Website. 
+By accessing and using the Website you are agreeing to be legally bound by the Terms of Use and this Privacy Policy. You should therefore also read the Terms of Use before using the Website.
 
-ID is determined to protect your privacy. It is very important to us that you should be able to use and enjoy the Website without having to compromise your privacy unacceptably. 
+IINM is determined to protect your privacy. It is very important to us that you should be able to use and enjoy the Website without having to compromise your privacy unacceptably.
 
-Knowing something about our users is, however, necessary to ensure that our service is continually improved. We need to build an accurate picture of the needs and wishes of our users, and to be able to communicate with you. That enables us to offer a service that is relevant and truly interactive, which is what our users expect. It also helps us to maintain free-to-user access to much of the Website. 
+Knowing something about our users is, however, necessary to ensure that our service is continually improved. We need to build an accurate picture of the needs and wishes of our users, and to be able to communicate with you. That enables us to offer a service that is relevant and truly interactive, which is what our users expect. It also helps us to maintain the greatest possible free-to-user access to the Website. 
 
 **We answer your important questions**
 
-_"What information do you collect about me?"_
+ _"What information do you collect about me?"_
 
 We automatically collect some data about our users' browsing actions and patterns. This is aggregate data and does not identify any individual. 
 
 We may also ask you to provide personal information on a voluntary basis in order to get a clearer picture of our users. It is then entirely up to you whether you are happy to give us this information. 
 
-In the course of entering competitions, promotions and other online offers you will be asked to give some details about yourself. You may also choose to e-mail us or make contact with us in other ways. Such contact gives us information about you. 
+In the course of entering competitions, promotions and other offers you will be asked to give some details about yourself. You may also choose to e-mail us or make contact with us in other ways. Such contact gives us information about you. 
 
 If you have any financial dealings or make purchases with our trading partners on co-branded sites, they will ask for certain information. This information may be shared with us. 
 
@@ -34,23 +36,23 @@ We use aggregate audience details (where no individual is identifiable) to help 
 
 * to create and draw to your attention editorial material and commercial opportunities that may be of interest to you. 
 
-* to be shared with advertisers, trading partners and other commercial entities with whom we have or might have an association. We may also share the information that they obtain about their users, which may include you. 
+* to be shared with advertisers, trading partners and other commercial entities with whom we have or might have an association. We may also be able to share the information that they obtain about their users, which may include you. 
 
 _"How private are my details?_
 
-Apart from other companies in the Independent News & Media group, we only share personal information about you with third parties whom we have selected carefully and with whom we have, or may have, a commercial relationship. ID complies with the relevant legal requirements and takes all reasonable care to ensure that your information is secure and private and is only seen by responsible third parties. However we cannot be held responsible for the actions of any third party who receives or obtains access to the information, nor for any breach of security. 
+Apart from other companies in the INM group, we only share personal information about you with third parties whom we have selected carefully and with whom we have, or may have, a commercial relationship. INM complies with the relevant legal requirements and takes all reasonable care to ensure that your information is secure and private and is only seen by responsible third parties. However we cannot be held responsible for the actions of any third party who receives or obtains access to the information, or for any breach of security. 
 
-If you tell us that you do not want us to use your details, then data about your use of the Web Site would then only form part of aggregated statistics and would not be related to you as an individual. 
+If you tell us that you do not want us to use your details, then data about your use of the Website would then only form part of aggregated statistics and would not be related to you as an individual. 
 
 You can ask to see the information we have about you by e-mailing a request to [ customerservices@ independent.co.uk](mailto:customerservices@independent.co.uk). 
 
 _"What do I do if I am not happy for you to share information about me with others?"_
 
-You may not wish us to share personal details about you with third parties outside the Group, or to use your information in the other ways we have described in this Privacy Policy. You can e-mail [ customerservices@ independent.co.uk](mailto:customerservices@independent.co.uk) at any time to let us know of any objections you may have to how we use or disclose your data in the ways set out in this Privacy Policy. Your personal details may in any event be shared with third party organisations we have contracted to provide services to us, on an agency basis, which include processing data. We may also have to release information (which could include the contents of e-mail communications between any persons) because of a legal requirement on us or pursuant to a court order. 
+You may not wish us to share personal details about you with third parties outside the INM group, or to use your information in the other ways we have described in this Privacy Policy. You can e-mail [ customerservices@ independent.co.uk](mailto:customerservices@independent.co.uk) at any time to let us know of any objections you may have to how we use or disclose your data in the ways set out in this Privacy Policy. Your personal details may in any event be shared with third party organisations we have contracted to provide services to us, on an agency basis, which include processing data. We may also have to release information (which could include the contents of e-mail communications between any persons) because of a legal requirement on us or pursuant to a court order. 
 
 **Use of cookies on a website**
 
-_The basic principles_
+ _The basic principles_
 
 A cookie is a text-only string of information that a website transfers to the cookie file of the browser of your computer's hard disk so that the website can remember who you are. A cookie will typically contain the name of the domain from which the cookie has come, the "lifetime" of the cookie, and a value, usually a randomly generated unique number. 
 
@@ -58,7 +60,7 @@ Two types of cookies are used on the Website: **Session Cookies** which are temp
 
 _How we collect cookies on the Website and what information we collect_
 
-**Session Cookies:** To allow you to carry information across pages of the Website and avoid having to re-enter information. **Persistent Cookies:** To help us recognise you as a unique visitor (just a number) when you return to the Website and to allow us to tailor content, advertisements and the presentation of the Website to match your preferences. To compile anonymous, aggregated statistics that allow us to understand how users use the Website and to help us improve the structure of the Website. We cannot identify you personally in this way. 
+ **Session Cookies:** To allow you to carry information across pages of the Website and avoid having to re-enter information. **Persistent Cookies:** To help us recognise you as a unique visitor (just a number) when you return to the Website and to allow us to tailor content, advertisements and the presentation of the Website to match your preferences. To compile anonymous, aggregated statistics that allow us to understand how users use the Website and to help us improve the structure of the Website. We cannot identify you personally in this way. 
 
 _Third Party Cookies._
 
@@ -74,10 +76,12 @@ You have the ability to accept or decline cookies by modifying the settings in y
 
 **International transfer of personal data**
 
-As you will know, the Internet does not recognise national boundaries. Services on the net are accessible globally so collection and transmission of personal data is not always confined to one country. You should be aware that by using the Website and those of our partners or any site we link through to, your personal data may be processed in or transferred to other countries, the USA for example, and you agree to your personal data being transferred or processed in this way. 
+As you will know, the internet does not recognise national boundaries. Services on the net are accessible globally so collection and transmission of personal data is not always confined to one country. You should be aware that by using the Website and those of our partners or any site we link through to, your personal data may be processed in or transferred to other countries, the USA for example, and you agree to your personal data being transferred or processed in this way. 
 
-**Further information** If you want further information, or wish to communicate with us about this Privacy Policy and your wishes about your personal information, please e-mail [ customerservices@ independent.co.uk](mailto:customerservices@independent.co.uk). 
+**Further information**
 
-**Company information**
+If you want further information, or wish to communicate with us about this Privacy Policy and your wishes about your personal information, please e-mail us at [ customerservice@ independent.co.uk](mailto:customerservice@independent.co.uk).
 
-Independent Digital (UK) Limited is a company in the [ Independent News & Media](http://www.independentnewsmedia.com/) group, registered in England and Wales under company number 3761191, whose registered office is at Independent House, 191 Marsh Wall, London E14 9RS, UK. 
+ **Company and data protection information**
+
+The data controller of data on the Website is Independent News and Media Limited, which is a company in the Independent News & Media group, registered in England and Wales under company number 1908967, whose registered office is at Independent House, 191 Marsh Wall, London E14 9RS, UK. VAT number GB 248 1845 43. Any queries or notices under the Data Protection Act should be addressed to the IT Director at the above address. 
