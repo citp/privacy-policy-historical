@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfreepaysite.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231161825id_/http%3A//www.myfreepaysite.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfreepaysite.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629223921id_/http%3A//myfreepaysite.com/privacy.html) for the most accurate reproduction.*
 
 # MYFREEPAYSITE.COM - PRIVACY POLICY
 
@@ -16,7 +16,7 @@ We take your privacy seriously. Please read this page to learn about our privacy
   
 MyFreePaysite.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site http://www.myfreepaysite.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact our Privacy Department at the contact information  below. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at their Watch Dog page located at: http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact our Privacy Department at the contact information  below. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at their Watch Dog page located at: <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 **What This Privacy Policy Covers**
 
