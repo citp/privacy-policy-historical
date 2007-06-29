@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acm.org privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206000057id_/http%3A//acm.org/serving/acm-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acm.org privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629212355id_/http%3A//www.acm.org/serving/acm-privacy.html) for the most accurate reproduction.*
 
 # ACM: Privacy Policy
 
