@@ -1,0 +1,509 @@
+<!--The following is the downloaded HTML source of the friendseat.com privacy policy that was archived on 2007-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070629154353id_/http%3A//friendseat.com/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Privacy Policy</title>
+<link href="stylesheet/screen.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="popup_style.css">
+<link rel="stylesheet" type="text/css" href="subModal.css">
+<script type="text/javascript" src="common.js"></script>
+<script type="text/javascript" src="subModal.js"></script>
+<script language="JavaScript">
+/*##########FOR DHTML POP UP FORGOT PASSWORD###########*/
+
+function lost_password()
+{
+	showPopWin('lost_password.php', 600, 200, null);
+}
+
+/*##########FOR DHTML POP UP PRINT RESTAURANT DETAILS##########*/
+function print_page(restaurant_id)
+{
+	showPopWin('print_preview.php?restautant_id='+restaurant_id, 725, 570, null);
+}
+/*##########FOR DHTML POP UP LOGIN MESSAGE###########*/
+function login_msg()
+{
+	//if(document.getElementById('slideshow') !=null)
+	 // document.getElementById('slideshow').style.display="none";
+	 showPopWin('login_msg.php', 550, 350, null);
+   //else
+   //window.location.reload() ;
+	
+}
+
+/*##########FOR DHTML POP UP FOR EDIT PROFILE###########*/
+function edit_profile()
+{
+	showPopWin('myfoodie_editprofile.php', 550, 500, null);
+}
+
+/*##########FOR DHTML POP UP FOR BACK GROUND IMAGE PROFILE###########*/
+function edit_back_image()
+{
+	showPopWin('myfoodie_back_pic_upload.php', 550, 450, null);
+}
+
+/*##########FOR DHTML POP UP FOR BACK GROUND IMAGE PROFILE###########*/
+function edit_avatar_image()
+{
+	showPopWin('myfoodie_avatar_pic_upload.php', 550, 300, null);
+}
+
+/*##########FOR DHTML POP UP PIC UPLOAD FOR BLOG###########*/
+function pic_upload(fck_cont)
+{
+	showPopWin('blog_pic_upload.php?fckContent='+fck_cont, 500, 200, null);
+}
+
+/*##########FOR DHTML POP UP VIDEO UPLOAD FOR BLOG##########*/
+/*function video_upload_blog()
+{
+	showPopWin('blog_video_upload.php', 600, 250, null);
+}*/
+/*##########FOR DHTML POP UP PHOTO UPLOAD BY USER FOR RESTAURANT##########*/
+function rest_user_pic_upload(resid)
+{
+	showPopWin('rest_user_pic_upload.php?restaurant_id='+resid, 500, 200, null);
+}
+/*##########FOR DHTML POP UP PHOTO DELETE BY USER FOR RESTAURANT##########*/
+function rest_user_pic_delete(resid)
+{
+	showPopWin('rest_user_pic_delete.php?restaurant_id='+resid, 630, 430, null);
+}
+/*##########FOR DHTML POP UP PHOTO UPLOAD BY USER FOR RECIPE##########*/
+function rest_recipe_pic_upload(recipes_id)
+{
+	showPopWin('rest_recipe_pic_upload.php?recipes_id='+recipes_id, 500, 200, null);
+}
+/*##########FOR DHTML POP UP PHOTO DELETE BY USER FOR RECIPE##########*/
+function rest_recipe_pic_delete(recipes_id)
+{
+	showPopWin('rest_recipe_pic_delete.php?recipes_id='+recipes_id, 630, 430, null);
+}
+/*##########FOR DHTML POP UP PHOTO UPLOAD BY USER FOR OWN##########*/
+function user_own_pic_upload()
+{
+	showPopWin('user_own_pic_upload.php', 500, 400, null);
+}
+/*function publish_pic_upload()
+{
+	showPopWin('publish_pic_upload.php', 500, 200, null);
+}
+function publish_pic_upload(fck_cont)
+{
+	showPopWin('publish_pic_upload.php?fckContent='+fck_cont, 500, 200, null);
+}*/
+/*##########FOR DHTML POP UP PHOTO DELETE BY USER FOR OWN##########*/
+function user_own_pic_delete()
+{
+	showPopWin('user_own_pic_delete.php', 630, 430, null);
+}
+/*function view_pic_ov(res_id)
+{
+  	showPopWin('view_picture_ov.php?picture='+res_id, 400, 250, null);
+}*/
+/*##########FOR DHTML POP UP REPORT A PROBLEM##########*/
+function report_problem(rest_id)
+{
+	showPopWin('report_problem.php?restaurant_id='+rest_id, 615, 330, null);
+}
+/*##########FOR DHTML POP UP FORWARD TO FRIEND RESTAURENT DETAILS##########*/
+function forward_friend(res_id)
+{
+	showPopWin('forward_to_friend.php?restaurant_id='+res_id, 630, 510, null);
+}
+
+/*##########FOR DHTML POP UP FOR MAIL TO FRIEND RECIPES##########*/
+function forward_friend_recipes(recipe_id)
+{
+	showPopWin('email_recipes.php?recipe_id='+recipe_id, 650, 530, null);
+}
+/*##########FOR DHTML POP UP FOR SMS RESTAURENT LINKS##########*/
+function sms_friend(res_id)
+{
+	showPopWin('sms_restaurant.php?restaurant_id='+res_id, 615, 300, null);
+}
+
+/*##########FOR DHTML POP UP FOR SMS RECIPE##########*/
+function sms_recipes_to_friend(recipe_id)
+{
+	showPopWin('sms_recipe.php?recipe_id='+recipe_id, 615, 300, null);
+}
+
+/*##########FOR DHTML POP UP FOR RECIPE BOX##########*/
+function show_recipe_box()
+{
+	showPopWin('recipe_search_box.php', 700, 500, null);
+}
+/*##########FOR DHTML POP UP SEND MESSAGE TO USER##########*/
+function send_message(mailuser_id)
+{
+	showPopWin('myfoodie_mailCompose_user.php?mailuser_id='+mailuser_id, 620, 330, null);
+}
+/*##########FOR DHTML POP UP FOR INVITING USERS##########*/
+function invite_friends()
+{
+	showPopWin('invite_friends.php',610,500, null);
+}
+/*##########FOR DHTML POP UP FOR NEW USER SIGNUP##########*/
+
+function invite_friends_network()
+{
+	showPopWin('invite_friends_network.php',610,500, null);
+}
+/*##########FOR DHTML POP UP FOR SAVE LOCATION##########*/
+function user_save_location()
+{
+	showPopWin('user_save_location.php', 600, 400, null);
+}
+
+/*######## FOR PHOTO COMMENT ########*/
+function show_photo_comment_box(pic_id,userid)
+{
+	showPopWin('photo_comment_box.php?pic_id='+pic_id+'&userid='+userid, 602, 502, null);
+}
+
+/*##########FOR DHTML POP UP CLOSING##########*/
+function close_openwindow()
+{
+	var redirect="privacy.php?";
+	window.top.OpenWin(redirect);
+}
+
+
+
+</script>
+
+
+
+
+
+<!--[if lte IE 6]><link rel="stylesheet" href="stylesheet/default.ie.css" type="text/css"  media="screen, projection" /><![endif]-->
+</head>
+<body>
+<ul id="accessibility">
+  <li><a href="#content">Jump to content</a></li>
+  <li><a href="#navigation">Jump to navigation</a></li>
+</ul>
+<hr>
+<!-- / END ACCESSIBILITY NAVIGATION -->
+<div id="container">
+	<div id="header">
+    <div id="header_inner">
+      <div class="wrapper"> 
+        <div id="header_top"> 
+          <h1 id="logo"><a title="FriendsEat.com Homepage" href="/"></a>FriendsEat.com</h1>
+          <!-- / END LOGO -->
+          <div id="user"> 
+            <form name="frm_header" action="logged_user.php?mode=login" method="post" onsubmit="return login_check()">
+              <fieldset>
+              <div class="log_in"> 
+                <label>Email ID</label>
+                <div class="field_column"> 
+                  <input type="text" name="uname" class="textfield" id="uname" value="">
+                  <!--<a href="#" onClick="user_signup()">--><a href="user_signup.php">Join for Free »</a> </div>
+                <label>Password</label>
+                <div class="field_column"> 
+                  <input type="password" name="upass" class="textfield" id="upass" value="">
+                  <a href="#" onclick="lost_password();">Forgot your password? »</a> </div>
+                <input name="Login" type="image" value="Login" src="images/btn_login.jpg" alt="Login">
+              </div>
+              </fieldset>
+            </form>
+          </div>
+          <!-- / END USER AREA -->
+        </div>
+        <div id="navigation"> 
+          <ul class="nav_bar">
+            <li class="home"><a href="index.php"><em title="Home"></em>Home</a></li>
+			<li class="blog"><a href="blog_home.php"><em title="Blog"></em>Blog</a></li>
+            <li class="recipes"><a href="recipes_home.php"><em title="Recipes"></em>Recipes</a></li>
+		    <li class="shop"><a href="shop.php"><em title="Shop"></em>Shop</a></li>
+           	<li class="talk"><a href="foodietalk.php"><em title="Talk"></em>Talk</a></li>
+           <!-- <li class="tv"><a href="#" onClick="login_msg()"><em title="TV"></em>TV</a></li> -->
+            <li class="events"><a href="event.php"><em title="Events"></em>Events</a></li>
+            <!--<li class="top_food"><a href="topfood.php"><em title="Top Food"></em>Top Food</a></li> -->
+            <li class="foodie_search"><a href="foodiesearch.php"><em title="Foodie Search"></em>Foodie 
+              Search</a></li>
+          </ul>
+        </div>
+        <!-- / END NAVIGATION -->
+		
+        <div id="search_box"> 
+          <div class="tabs"> 
+            <ul>
+              <li><a href="#">Restaurants</a></li>
+              <li><a href="javascript:showdiv('search_box_recipe','search_box')" class="current">Recipes</a></li>
+            </ul>
+          </div>
+          <form name="frmSearch" action="restaurant_search.php" method="get" onsubmit="return search_box_check()">
+            <fieldset>
+            <div class="field_column search_for"> 
+              <label class="label_search_for replace"><em title="Search For"></em>Search For</label>
+              <input type="text" name="txtName" class="textfield" value="">
+            </div>
+            <div class="field_column location"> 
+              <label class="label_location1 replace"><em title="Location"></em>Location</label>
+              <input type="text" name="txtLocation" class="textfield" value="">
+            </div>
+            <input type="image" value="Go" src="images/btn_search_go.jpg" alt="Go" class="button">
+            <input type="hidden" name="search_upon">
+			</fieldset>
+          </form>
+        </div>
+        <!-- / END RESTAURANT SEARCH BOX -->
+		
+				<div id="search_box_recipe" style="display:none">
+					
+			<div class="tabouter">
+			  <div class="tabs">
+				<ul>
+				 <li><a href="javascript:showdiv('search_box','search_box_recipe')">Restaurants</a></li>
+				  </ul>
+			  </div>
+			  <div class="tabs_1">
+				<ul>
+				  <li><a href="#">Recipes</a></li>
+				</ul>
+			  </div>
+			</div>
+		
+         <!-- <div class="tabs">
+            <ul>
+              <li><a href="javascript:showdiv('search_box','search_box_recipe')" >Restaurants</a></li>
+              <li><a href="#" class="current">Recipes</a></li>
+            </ul>
+          </div> -->
+          <form name="frmRecipeSearch" action="recipe_search_detail.php" method="get" onsubmit="return recipe_search_box_check()">
+            <fieldset>
+            <div class="field_column search_for">
+              <label class="label_search_for1 replace"><em title="Search For"></em>Search For</label>
+              <input type="text" name="txtRecipe" class="textfield" value="">
+            </div>
+            <input name="" type="image" value="Go" src="images/btn_search_go2.jpg" alt="Go" class="button">
+            </fieldset>
+          </form>
+        </div>
+        
+		<!-- / END RECIPE SEARCH BOX -->
+		
+ 
+		
+		
+      </div>
+    </div>
+  </div>
+  
+
+<script language="javascript">
+
+function login_check()
+{
+	if(document.frm_header.uname.value == "")
+	{
+		alert("please enter your login ID");
+		document.frm_header.uname.focus();
+		return false;
+	}
+	else if(document.frm_header.upass.value == "")
+	{
+		alert("please enter your password");
+		document.frm_header.upass.focus();
+		return false;
+	}
+ }
+
+function search_box_check()
+{
+	
+	
+	if((document.frmSearch.txtName.value == "") && (document.frmSearch.txtLocation.value == ""))
+	{
+		alert("please enter your searching criteria");
+		document.frmSearch.txtName.focus();
+		return false;
+	}
+  document.frmSearch.search_upon.value="restaurants";
+}
+
+function recipe_search_box_check()
+{
+	if(document.frmRecipeSearch.txtRecipe.value == "")
+	{
+		alert("please enter your searching criteria");
+		document.frmRecipeSearch.txtRecipe.focus();
+		return false;
+	}
+}
+
+function showdiv(showValue,hideValue)
+{
+	document.getElementById(showValue).style.display = 'block';
+	document.getElementById(hideValue).style.display = 'none';
+}
+
+</script>
+  <!-- / END HEADER -->
+  <div id="content">
+    <div id="middle_content">
+      <div class="wrapper">
+        <table width="600" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td align="left" valign="middle"><img src="images/aboutus_top.gif" alt="" width="939" height="8"></td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" class="tblenew4"><table width="95%" border="0" cellpadding="0" cellspacing="0">
+              <tbody><tr>
+                <td align="left" valign="middle"><h1><span>Privacy Policy</span></h1></td>
+              </tr>
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top">Our Commitment To Privacy<br><br>Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on all of our pages and at every point where personally identifiable information may be requested.<br><br>The Information We Collect:<br><br>This notice applies to all information collected or submitted on friendsEAT.com website. On some pages, you can order products or services, register for a My friendsEAT.com or Affiliated Restaurant account, and register to receive materials. The types of personal information collected at these pages are:<br><br>Name<br>Address<br>Phone number<br>Credit/Debit Card Information<br>Email address<br>Gender<br>Date of Birth<br><br>Cookies<br><br>Like most websites, friendsEAT.com Site uses cookies for various purposes. For registered users, we use cookies to store user id and password information. For non-registered users, we use a cookie only to identify whether you are a return visitor. Third party advertisers on the site may also place cookies on your browser. If you want disable cookies, you can usually find this information in “help” section of your browser. Please note that if you set your browser to disable cookies, you may not be able to use certain areas or features of the Site.<br><br>The Way We Use Information:<br><br>We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.<br><br>We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.<br><br>You can register with our website if you would like a personal My friendsEAT.com account or an affiliated restaurant account. Information you submit on our website will not be used for this purpose unless you fill out the registration form.<br><br>We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.<br><br>Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.<br><br>Our Commitment To Data Security<br><br>To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.<br><br>Our Commitment To Children's Privacy:<br><br>Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.<br><br>How You Can Access Or Correct Your Information<br><br>You can access all your personally identifiable information that we collect online by viewing your profile for your respective account.<br><br>To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.<br>&nbsp;<br><br>How To Contact Us<br><br>Should you have other questions or concerns about these privacy policies, please send us an email at us@friendsEAT.com.comIt is the Privacy policy section of the site...<!---->
+				
+
+</td>
+              </tr>
+            </tbody></table></td>
+          </tr>
+          
+
+          <tr>
+            <td align="left" valign="middle"><img src="images/aboutus_bottom.gif" alt="" width="939" height="8"></td>
+          </tr>
+        </tbody></table>
+      </div>
+    </div>
+    <!-- / END MIDDLE CONTENT -->
+  </div>
+  <!-- / END CONTENT -->
+    <div id="footer1">
+    <div class="wrapper"><div class="adbox">
+<literal>
+<script language="JavaScript" type="text/javascript" src="http://69.64.79.17/adserver/adx.js"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://69.64.79.17/adserver/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:1");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><script language="JavaScript" type="text/javascript" src="http://69.64.79.17/adserver/adjs.php?n=259212982&amp;what=zone:1&amp;exclude=,"></script><noscript><a href='http://69.64.79.17/adserver/adclick.php?n=a073eeeb' target='_blank'><img src='http://69.64.79.17/adserver/adview.php?what=zone:1&amp;n=a073eeeb' border='0' alt=''></a></noscript>
+</literal>
+</div>
+	 </div>
+       <div class="wrapper1">
+    <div class="before">
+	<p>Site Links</p>
+	<ul>
+<li>
+	<a href="index.php">Home</a>
+	</li>
+<li><a href="blog_home.php">Blog</a></li>
+<li><a href="recipes_home.php">Recipes</a></li>
+<li><a href="terms.php">Terms of Use</a>, <a href="privacy.php">Privacy </a></li>
+<li>
+	<a href="#" onclick="login_msg()">Change your location</a>
+	</li>
+	
+	</ul>
+	
+	</div>
+	<div class="before">
+	<p>About FriendsEAT</p>
+	<ul>
+<li><a href="aboutus.php">About US</a> &amp; <a href="contactus.php">Contact</a></li>
+<li><a href="journalist.php">For Journalist</a></li>
+<li><a href="faq.php">FAQs</a></li>
+<li><a href="contactus.php">Report a Website Bug </a></li>
+	</ul>
+	</div>
+	
+	<div class="before">
+	<p>FriendsEat Tools</p>
+	<ul>
+<li><a href="user_invitefriend.php">Invite Friends</a></li>
+
+	</ul>
+	
+	</div>
+	<div class="before">
+	<p>Suggested Links</p>
+	<ul>
+<li><a href="http://en.wikipedia.org/wiki/Food" target="_blank">Wikipedia.org</a></li>
+	
+	</ul>
+	</div>
+	
+	<div class="before">
+	
+	<p>Advertise</p>
+	<span>You can advertise on</span> <span>FriendsEAT</span><br>
+	
+	
+	
+    	<a href="https://adwords.google.com/select/OnsiteSignupLandingPage?client=ca-pub-4580658692353634&amp;referringUrl=http://www.FriendsEAT.com">Restaurants</a>	| <a href="contactus.php">Advertisers</a>
+	
+ </div>
+	<div class="last">
+	
+	<p>FriendsEat Store</p>
+	<ul>
+<li><a href="shop.php">Find amazing culinary and
+home products to enhance your
+kitchen.</a></li>
+
+	</ul>
+	
+	</div>
+	
+    </div>
+	<div class="wrapper"><div class="wrappercopyright"><strong>Copyright 2007.</strong> All rights reserved. </div></div>
+  </div>
+  <hr>
+   
+   		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+
+</script>
+
+<script type="text/javascript">
+
+_uacct = "UA-372540-5";
+
+urchinTracker();
+
+</script>
+<!-- Start of StatCounter Code -->
+<script type="text/javascript" language="javascript">
+var sc_project=2448802; 
+var sc_invisible=0; 
+var sc_partition=23; 
+var sc_security="50460347"; 
+</script>
+
+<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="http://c24.statcounter.com/counter.php?sc_project=2448802&java=0&security=50460347&invisible=0" alt="blog counter" border="0"></a> </noscript>
+<!-- End of StatCounter Code -->
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">
+_qacct="p-a6UQfgu6B5e66";quantserve();</script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-a6UQfgu6B5e66.gif" style="display: none" height="1" width="1" alt="Quantcast"/></noscript>
+<!-- End Quantcast tag -->
+
+
+     <hr>
+  <!-- / END FOOTER -->
+</div>
+
+<div id="popupMask"></div><div id="popupContainer"><div id="popupInner"><div id="popupTitleBar"><div id="popupTitle"></div><div id="popupControls"><img src="cross.gif" onclick="close_openwindow();"></div></div><iframe src="loading.html" style="width:100%;height:100%;background-color:transparent;" scrolling="auto" frameborder="0" allowtransparency="true" id="popupFrame" name="popupFrame" width="100%" height="100%"></iframe></div></div></body></html>
