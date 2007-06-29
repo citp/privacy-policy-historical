@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vldpersonals.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225174348id_/http%3A//www.vldpersonals.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vldpersonals.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629213015id_/http%3A//www.vldpersonals.com/contact/privacy) for the most accurate reproduction.*
 
-# Online Dating Software / Privacy policy
+# Online Dating Software - Contact Us - Privacy Policy
 
 ## Gathering and Use of Information
 
@@ -22,4 +22,4 @@ As a member of our Web site you may occasionally receive an email newsletter inf
 
 ## Commitment
 
-We are committed to privacy and support industry initiatives to preserve individual privacy rights on the Internet. If you have questions regarding this policy you may [contact](http://www.vldpersonals.com/contact/) us.
+We are committed to privacy and support industry initiatives to preserve individual privacy rights on the Internet. If you have questions regarding this policy you may [contact](https://web.archive.org/web/20070629213015id_/http://www.vldpersonals.com/contact/privacy/contact/) us.
