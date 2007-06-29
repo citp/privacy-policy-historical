@@ -1,0 +1,328 @@
+<!--The following is the downloaded HTML source of the hockeybuzz.com privacy policy that was archived on 2007-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070629021104id_/http%3A//www.hockeybuzz.com/privacy_policy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>HockeyBuzz.com</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="shortcut icon" href="http://www.hockeybuzz.com/images/favicon.ico" type="image/x-icon">
+<link rel="icon" href="http://www.hockeybuzz.com/images/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://www.hockeybuzz.com/images/favicon.ico" type="image/x-icon">
+<link href="http://www.hockeybuzz.com/includes/styles2.css" rel="stylesheet" type="text/css">
+<link href="http://www.hockeybuzz.com/chat/room/fluxchat/styles/structure.css" rel="stylesheet" type="text/css">
+<link href="http://www.hockeybuzz.com/chat/room/fluxchat/styles/style.css" rel="stylesheet" type="text/css">
+<link rel="alternate" type="application/rss+xml" title="HockeyBuzz.com" href="http://www.hockeybuzz.com/rss/main.rss">
+<script type="text/javascript">
+
+var enablepersist="on" //Enable saving state of content structure using session cookies? (on/off)
+var collapseprevious="yes" //Collapse previously open content when opening present? (yes/no)
+
+if (document.getElementById){
+document.write('<style type="text/css">')
+document.write('.switchcontent{display:none;}')
+document.write('</style>')
+}
+
+function getElementbyClass(classname){
+ccollect=new Array()
+var inc=0
+var alltags=document.all? document.all : document.getElementsByTagName("*")
+for (i=0; i<alltags.length; i++){
+if (alltags[i].className==classname)
+ccollect[inc++]=alltags[i]
+}
+}
+
+function contractcontent(omit){
+var inc=0
+while (ccollect[inc]){
+if (ccollect[inc].id!=omit)
+ccollect[inc].style.display="none"
+inc++
+}
+}
+
+function expandcontent(cid){
+if (typeof ccollect!="undefined"){
+if (collapseprevious=="yes")
+contractcontent(cid)
+document.getElementById(cid).style.display=(document.getElementById(cid).style.display!="block")? "block" : "none"
+}
+}
+
+function revivecontent(){
+contractcontent("omitnothing")
+selectedItem=getselectedItem()
+selectedComponents=selectedItem.split("|")
+for (i=0; i<selectedComponents.length-1; i++)
+document.getElementById(selectedComponents[i]).style.display="block"
+}
+
+function get_cookie(Name) {
+var search = Name + "="
+var returnvalue = "";
+if (document.cookie.length > 0) {
+offset = document.cookie.indexOf(search)
+if (offset != -1) {
+offset += search.length
+end = document.cookie.indexOf(";", offset);
+if (end == -1) end = document.cookie.length;
+returnvalue=unescape(document.cookie.substring(offset, end))
+}
+}
+return returnvalue;
+}
+
+function getselectedItem(){
+if (get_cookie(window.location.pathname) != ""){
+selectedItem=get_cookie(window.location.pathname)
+return selectedItem
+}
+else
+return ""
+}
+
+function saveswitchstate(){
+var inc=0, selectedItem=""
+while (ccollect[inc]){
+if (ccollect[inc].style.display=="block")
+selectedItem+=ccollect[inc].id+"|"
+inc++
+}
+
+document.cookie=window.location.pathname+"="+selectedItem
+}
+
+function do_onload(){
+getElementbyClass("switchcontent")
+if (enablepersist=="on" && typeof ccollect!="undefined")
+revivecontent()
+}
+
+
+if (window.addEventListener)
+window.addEventListener("load", do_onload, false)
+else if (window.attachEvent)
+window.attachEvent("onload", do_onload)
+else if (document.getElementById)
+window.onload=do_onload
+
+if (enablepersist=="on" && document.getElementById)
+        window.onunload=saveswitchstate
+</script><style type="text/css">.switchcontent{display:none;}</style>
+</head>
+<body><bod>
+<div id="fullsite" style="width:1028px;">
+
+
+<!-- HEADER -->
+<div id="header" style="width:1028px; height:100px; background: url(/images/header.jpg); position:relative;">
+	<div id="bloggerpulldown" style="position:absolute; top:68px; left:10px; background-color:#036; padding:4px; border:1px #194775 solid; color:#CCC; font-weight:bold; font-size:10px;">
+		<form method="get" style="margin:0px;" action="/blog.php">
+		&nbsp;&nbsp;BLOGS&nbsp;&nbsp;
+		<select name="blogger_id">
+		<option value="1"> Eklund</option>
+<option value="3">Howard Berger</option>
+<option value="60">Cassie Campbell</option>
+<option value="52">Al Cimaglia</option>
+<option value="86">Scoop Cooper</option>
+<option value="82">Eric Engels</option>
+<option value="4">Stan Fischler</option>
+<option value="85">B.D. Gallof</option>
+<option value="59">Ryan Garner</option>
+<option value="6"> GARTH</option>
+<option value="67">Shawn Gates</option>
+<option value="16">Kevin Gibson</option>
+<option value="50">Boomer Gordon</option>
+<option value="19">Kevin Greenstein</option>
+<option value="33">Celebrity Guests</option>
+<option value="81">Stan Hauseman</option>
+<option value="57">Ryan Henderson</option>
+<option value="68"> HockeyBuzz Podcasts</option>
+<option value="53">Patrick Hoffman</option>
+<option value="75">Matt Kalman</option>
+<option value="56">Matt Karash</option>
+<option value="70">Gus Katsaros</option>
+<option value="76">Rob Kerr</option>
+<option value="84">Adam Kirshenblatt</option>
+<option value="14">Kevin Lee</option>
+<option value="24">Paul McCann</option>
+<option value="73">Michael McDonald</option>
+<option value="45">Bill Meltzer</option>
+<option value="54">Brian Metzer</option>
+<option value="74">Brittany Morgenstern</option>
+<option value="2">Tim Panaccio</option>
+<option value="62">Josh Plummer</option>
+<option value="21">Adam Poirier</option>
+<option value="55">Paul Provenzano</option>
+<option value="78">Brad Ratgen</option>
+<option value="38">Mike Ross</option>
+<option value="23">Dan Russell</option>
+<option value="26">Rick Sadowski</option>
+<option value="47">Anthony SanFilippo</option>
+<option value="30">Sunaya Sapurji</option>
+<option value="77">Mark Spizzirri</option>
+<option value="40">Kat Stein</option>
+<option value="49">Mark Stepneski</option>
+<option value="83">Doug Stolhand</option>
+<option value="5">Andy Strickland</option>
+<option value="46">Dan Tencer</option>
+<option value="32"> The Fan Blog</option>
+<option value="72"> The Hockey Dad Blog</option>
+<option value="39">Joe Thistel</option>
+<option value="51">Daniel Tolensky</option>
+<option value="61">Shaune Vetter</option>
+<option value="79">Katie Villeneuve</option>
+<option value="20">Dan Wallace</option>
+<option value="42">HockeyBuzz Wire</option>
+<option value="80">Sam Woo</option>
+<option value="64"> XM Home Ice Hot Topic</option>
+	
+		</select>
+
+		<input type="submit" value="GO">
+		</form>
+	</div>
+
+	
+	<div id="textad" style="color:#FFF; font-weight:bold; font-size:11px; position:absolute; top:4px; left:290px;">
+		<table cellpadding="0" cellspacing="0" align="center"><tbody><tr><td>
+					<a style="color:#FFF; text-decoration:none;" href="/fantasy/game_fa/signup.php" target="_blank"><img src="/images/fa_mini.gif" border="0" style="float:left; padding-right:5px;">Win a Nintendo Wii just by predicting where free agents land... <span style="color:#F90;">Sign Up Now!</span></a>
+					</td></tr></tbody></table>
+		
+	</div>
+	
+	<div id="account" style="color:#FFF; font-weight:bold; font-size:11px; position:absolute; top:72px; left:300px; width:700px;">
+				<div id="login" style="float:right;">
+                        <form method="post" action="http://www.hockeybuzz.com/login.php" style="margin:0px; padding-top:2px; text-align:center;">
+				<table>
+					<tbody><tr>
+                                		<td>USERNAME:</td> 
+						<td><input type="text" name="username" size="15"></td>
+						<td>PASSWORD:</td>
+						<td><input type="password" name="password" size="15"></td>
+						<td><input type="submit" value="GO"></td>
+						<td><a href="http://www.hockeybuzz.com/register.php">Sign up for free!</a></td>
+						<td><a href="http://www.hockeybuzz.com/forgot_password.php">Forgot Password?</a></td>
+					</tr>
+				</tbody></table>
+                                <input type="hidden" name="forward" value="http://www.hockeybuzz.com/privacy_policy.php">
+                        </form>
+			</div>
+                        	</div>
+
+</div>
+<!-- END HEADER -->
+
+<!-- NAVIGATION BAR -->
+<div id="navigation" style="background: url(/images/navbg.jpg) repeat-x; height:24px; width:1028px; border-right:#E0E5FB 1px solid; position:relative;">
+	<table cellpadding="0" cellspacing="0" width="100%">	
+		<tbody><tr>
+			<td width="" nowrap=""><a href="http://www.hockeybuzz.com/index.php">Home</a></td>
+			<td width="" nowrap=""><a href="http://www.hockeybuzz.com/chart.php">Rumor Chart</a></td>
+			<td width="" nowrap=""><a href="http://www.hockeybuzz.com/fantasy">Fantasy</a></td>
+			<td width="" nowrap=""><a href="http://www.hockeybuzz.com/boards">Forums</a></td>
+			<td width="" nowrap=""><a href="http://www.hockeybuzz.com/chat">Chat Room</a></td>
+			<td width="" nowrap=""><a href="http://www.hockeybuzz.com/seasonticket.php">Season Ticket</a></td>
+			<td width="" nowrap=""><a href="http://www.hockeybuzz.com/rss.php">RSS</a></td>
+			<td width="" nowrap=""><a href="http://www.hockeybuzz.com/faq.php">FAQ</a></td>
+			<td width="" nowrap="" style="background:url(/images/navbgblue.gif);"><a href="http://my.hockeybuzz.com">My HockeyBuzz</a></td>
+			<td width="80%" nowrap=""></td>
+		</tr>
+	</tbody></table>
+</div>
+<!-- END NAVIGATION BAR -->
+
+<div id="main" style="width:1045px; float:left; background: url(/images/standardbg.gif) repeat-y; padding-bottom:10px;">
+<div style="padding:50px;">
+<h1>Privacy Policy</h1>
+<b>General </b>
+<br><br>
+HockeyBuzz respects the privacy of every individual who visits hockeybuzz.com (the "Website") or responds to our guestbook, contests, or interactive advertisements. HockeyBuzz' Privacy Policy outlines the information HockeyBuzz will collect and how we will use that information. This Policy will also inform you what to do if you do not want your Personal Information to be shared or divulged when you visit our Website or respond to our advertising. 
+<br><br>
+We do not attempt to collect excessive or irrelevant information, whether that information personally identifies you or not. We collect information solely for the purposes stated below. We will take reasonable steps to delete or de-identify information about you that we collect when it is no longer needed to interact with you. You agree that until you notify us by following the instructions under "Opt-out" below or we determine that the information is no longer needed, we may retain the information indefinitely. 
+<br><br>
+By using our Website you are agreeing to the terms of this Privacy Policy. If you do not agree with any terms or practices described in this Privacy Policy please do not use our Website.   
+<br><br>
+<b>Personally Identifiable Information </b>
+<br><br>
+HockeyBuzz will not collect any Personal Information about you (that is your name, address, telephone number, or email address) unless you provide it voluntarily. If you do not want your Personal Information collected do not submit it to us. 
+<br><br>
+If you do submit Personal Information we will store and process that information to better understand your needs, offer certain products and services in connection with our Website; communicate to you; provide customer service; provide a personalized shopping experience; prevent fraud; fulfill your orders, including delivery and billing; complete payment method processing and improve our products and services. 
+<br><br>
+We will not distribute or sell your Personal Information to any outside company for marketing or solicitation of any product not affiliated with HockeyBuzz and your Personal Information will only be used to support your relationship with HockeyBuzz and its partners. 
+<br><br>
+There are certain limited instances where we may disclose or transfer Personal Information other than as described above. For example, we may provide such information to appropriate authorities if we believe in good faith that the law requires it or to protect our legal rights or property. Additionally, as we continue to develop our business, we may buy or sell business assets. In such transactions, customer information is generally one of the transferred business assets. However, we are not in the business of selling customer information to others, and aside from certain exceptional circumstances, we will take appropriate measures to ensure the protection of the information you provide to us.   
+<br><br>
+<b>Aggregating Third Party Information with Personal Information </b>
+<br><br>
+We may, either through our own searches or by contact with third party providers, add publicly available information to the Personal Information you elect to provide to us. For example, if you provide your name or address, we may add your telephone number and email address to your Personal Information. We will treat any information that personally identifies you, including any such information that we add to your Personal Information as your Personal Information and subject to the terms of this Privacy Policy.   
+<br><br>
+<b>Changing my Personal Information </b>
+<br><br>
+We take reasonable steps to ensure that all of your Personal Information we collect, use or disclose is accurate, complete, up to date, stored in a secure environment and accessed only be authorized personnel for permitted purposes. If your Personal Information changes, you may update your information on the Web page titled "Edit Profile". You may also contact us using the information in "Contact Us" below to review the Personal Information you provided, update your Personal Information or request that we remove your Personal Information from our records. If you request, we will use all reasonable efforts to delete your Personal Information from our existing records.   
+<br><br>
+<b>Non-Personally, Identifiable Information Collected Automatically </b>
+<br><br>
+In general, you can visit our Website and view its content while remaining anonymous by not providing any Personal Information. In some cases, we may collect information about you that is not Personal Information. Examples of this type of information include the Internet browser you are using, the type of operating system, the domain name of the website which linked you to our site, the pages you visited while you were using our Website, the domain name of the website you next go to, and your Internet Protocol address. When collected, we use non-personally identifiable information to determine the overall reaction to various sections of our Website(the length and frequency of stays at our Website and the variety of searches of our Website's database), measure the effectiveness and usefulness of various pages (how our Website is navigated, how many visitors arrive at specific pages), and to improve the flow and interconnectivity of the site. 
+<br><br>
+When you view our Website we may also store information from time to time on your computer. This information is stored in the form of "Cookies". "Cookies" allow us to tailor our Website or advertisement to better match your interests and preferences. With most Internet browsers you can block, receive a warning or erase all "Cookies" from your hard drive. Please refer to your browser instructions or help screen to learn more about these functions. If you choose not to accept "Cookies", you should be aware that you might not be able to experience the full functionality of our Website. The data on your use of our Website may be linked to the Personal Information you have chosen to share with us when you register.   
+<br><br>
+<b>Links and Privacy </b>
+<br><br>
+We may provide links to websites outside of our Website. These linked sites are outside of our control, and we are not responsible for the conduct of companies linked to our Website.   
+<br><br>
+<b>How We Protect the Security of Your Financial Information </b>
+<br><br>
+The security of your financial information is very important to us. In our efforts to protect your online transactions, we use a technology called Secure Sockets Layer (SSL). If your browser is capable of (SSL) (and most are), your financial information will be automatically encrypted, or encoded, before it is sent over the Internet.
+<br><br>
+Our Website has also obtained a digital certificate from Go Daddy, Inc., a leading provider of Internet trust services. When you enter a secure portion of our site (which is any page containing any of your financial information), an image of a closed lock or a solid key should appear in the bottom bar of your browser window. If you click on this image, a small popup window displaying site-security information will appear. The certificate guarantees that your financial information is being transmitted in secure (encrypted) form to our Website Web server, not to some unknown or unauthorized server.
+<br><br>
+Ultimately, your financial information is protected by the password you created when you created an account at HockeyBuzz.com (or another password you chose after changing a previous password). Please keep this password confidential. No Customer Service Associate or any other representative of HockeyBuzz will ever ask you for your password. The confidentiality of your password is yours to protect. You may change it anytime within the control panel. 
+<br><br>
+<b>Changes to the Policy </b>
+<br><br>
+Please check this privacy policy periodically to inform yourself of any changes. Although we reserve the right to modify or supplement this privacy policy, we will provide notice to you on this Website of any major changes for at least 30 days following the change.
+</div>
+</div>
+<div id="footer" style="float:left; width:1028px; padding:10px; color:#FFF;">
+	<table width="1020">
+		<tbody><tr>
+			<td width="1%">
+			<img src="/images/blacklogo.jpg" style="float:left; padding-right:15px;">
+			</td>
+			<td>
+			<b><a style="color:#FFF;" href="http://www.hockeybuzz.com/contact.php">Contact Us</a> | <a style="color:#FFF;" href="http://www.hockeybuzz.com/privacy_policy.php">Privacy Policy</a> | <a style="color:#FFF;" href="http://www.hockeybuzz.com/terms_of_use.php">Terms of Use</a></b><br>
+			Copyright © 2005-2007 Eklund's Hockey, LCC. All rights reserved. This material may not be published, broadcast, rewritten or redistributed in any form. Please click above for legal restrictions and terms of use applicable to this site. Use of this site signifies your agreement to the Terms of Service.
+			</td>
+		</tr>
+	</tbody></table>
+	</div>
+</div>
+
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-137388-4";
+urchinTracker();
+</script>
+
+
+
+<script language="JavaScript" type="text/javascript">
+<!--function phpads_deliverActiveX(content) {document.write(content);}
+if (!document.phpAds_used) document.phpAds_used = ',';
+phpAds_random = new String (Math.random());
+phpAds_random = phpAds_random.substring(2,11);
+document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+document.write ("http://dynamic.fmpub.net/adserver/adjs.php?n=" + phpAds_random);
+document.write ("&amp;what=zone:738");
+document.write ("&amp;exclude=" + document.phpAds_used);
+if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+document.write ("'><" + "/script>");
+//-->
+</script><script language="JavaScript" type="text/javascript" src="http://dynamic.fmpub.net/adserver/adjs.php?n=916849582&amp;what=zone:738&amp;exclude=,"></script><noscript><a href='http://dynamic.fmpub.net/adserver/adclick.php?n=af00d8c7' target='_blank'><img src='http://dynamic.fmpub.net/adserver/adview.php?what=zone:738&amp;n=af00d8c7' border='0' alt=''></a></noscript>
+
+
+
+</bod></body></html>
