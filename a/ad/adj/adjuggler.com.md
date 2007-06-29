@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adjuggler.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018205308id_/http%3A//www.adjuggler.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adjuggler.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629134103id_/http%3A//www.adjuggler.com/privacy.php) for the most accurate reproduction.*
 
-# Thruport AdJuggler : : Privacy Policy
+# Thruport AdJuggler
 
-| 
+Privacy Statement « home
 
 Thruport Technologies, Inc. ("Thruport") is an application service and managed hosting provider, based in Alexandria, VA. The Company currently provides two primary application services. Its ad serving services deliver Internet advertisements to end-users on behalf of Internet portals and publishers, while its collaborative intranet service provides consumers and enterprise employees with email, calendaring, discussion threads, and remote document management.
 
@@ -23,7 +23,3 @@ Thruport Technologies, Inc.
 5440 Cherokee Avenue  
 Alexandria, VA 22312  
 [privacy@thruport.com](mailto:privacy@thruport.com)
-
-[**sales@thruport.com**](mailto:sales@thruport.com) | (888) 358 3400
-
-| 
