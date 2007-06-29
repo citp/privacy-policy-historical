@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pearsonassessments.com privacy policy that was archived on 2006-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061101004010id_/http%3A//pearsonassessments.com/pa-legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearsonassessments.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629121006id_/http%3A//www.pearsonassessments.com/pa-legal/privacy.htm) for the most accurate reproduction.*
 
 # Pearson Assessments: Privacy Policy
 
