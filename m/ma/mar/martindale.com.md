@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the martindale.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216113536id_/http%3A//www.martindale.com/xp/Martindale/Site_Info/privacy.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the martindale.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629023331id_/http%3A//www.martindale.com/xp/Martindale/Site_Info/privacy.xml) for the most accurate reproduction.*
 
 # LexisNexis® Martindale-Hubbell®
-
-Privacy Policy - martindale.com
 
 ## Martindale-Hubbell Privacy Notice
 
@@ -37,7 +35,7 @@ Our Web site is not set up to automatically collect personally-identifiable info
 
 Our Web site does track certain information about the visits to our Web site. For example, we compile statistics that show the numbers and frequency of visitors to our Web site and its individual pages. These aggregated statistics are used internally to improve our Web site and for product development and marketing purposes generally. Those aggregated statistics may also be provided to advertisers and other third parties, but again, the statistics contain no personal information and cannot be used to gather such information.
 
-In a few areas on our Web site, we may ask you to provide information that will enable us to verify whether you are entitled to access and use certain information, materials and services available from our Web site, or to enable us to enhance your site visit, to assist you with customer service or technical support issues, or to follow up with you after your visit, or to otherwise support your customer relationship with Martindale. It is completely optional for you to participate. However, failure to participate may mean that you cannot access and use certain information, materials and services.
+In a few areas on our Web site, we may ask you to provide information that will enable us to verify whether you are entitled to access and use certain information, materials and services available from our Web site, or to enable us to enhance your site visit, to assist you with customer service or technical support issues, or to follow up with you after your visit, or to otherwise support your customer relationship with Martindale. We may also collect information as a part of receiving from you certain feedback and evaluations (such as feedback and evaluations regarding quality of representation, quality of service, and service value) with respect to our customers from whom you may have received legal services. It is completely optional for you to participate. However, failure to participate may mean that you cannot access and use certain information, materials and services.
 
 For example, we may request information from you when you:
 
@@ -60,7 +58,7 @@ Martindale only uses your personal information for specific purposes
 
 **
 
-The personal information you provide to us when using our Web site -- such as your name, postal or e-mail address or telephone number -- will be kept confidential and used to support your customer relationship with Martindale. It also may be used to notify you of special offers, updated information and new products and services from Martindale, or offers from third parties that we think may be of interest to you. Agents or contractors of Martindale who are given access to your personal information will be required to keep the information confidential and not use it for any other purpose than to carry out the services they are performing for Martindale. 
+The personal information you provide to us when using our Web site -- such as your name, postal or e-mail address or telephone number -- will be kept confidential and used to support your customer relationship with Martindale. It also may be used to notify you of special offers, updated information and new products and services from Martindale, or offers from third parties that we think may be of interest to you. We may also use information collected from you (as a part of receiving certain feedback and evaluations with respect to our customers from whom you may have received legal services) as may be necessary for offering such feedback and evaluation services at this web site. Agents or contractors of Martindale who are given access to your personal information will be required to keep the information confidential and not use it for any other purpose than to carry out the services they are performing for Martindale.
 
 Martindale may enhance or merge your information collected at its site with data from third parties for purposes of marketing products or services to you. 
 
