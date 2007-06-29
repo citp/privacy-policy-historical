@@ -1,58 +1,80 @@
-> *The following text is extracted and transformed from the mypivots.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217130341id_/http%3A//www.mypivots.com/w3c/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypivots.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629221944id_/http%3A//www.mypivots.com/page.aspx%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# DeltaT1 Privacy Policy
+# Privacy
+
+### General Principles
+
+MyPivots respects the privacy of our customers, visitors to our web site and those who e-mail us. MyPivots never sells or shares customer details (including e-mail addresses) with third parties. 
+
+### Maintaining of Customer Database
+
+MyPivots maintains a database of email addresses of users who have:
+
+  * Added their address via our subscribe page or when downloading software.
+  * Contacted us and shown an interest in our software.
+  * Leased software from us.
+  * Added their names to our Mailing List
+
+
 
 The contents of this database (including e-mail and postal addresses) are treated as confidential and are never published or shared with any other party (in part or as whole). 
 
-You can remove yourself from the database at any time by e-mailing us at **info at deltat1 dot com** or clicking the unsubscribe link at the bottom of any email.
+You can remove yourself from the database at any time by e-mailing us at **info at mypivots dot com** or clicking the unsubscribe link at the bottom of any email. 
 
 ### Sending of Email Messages
 
-DeltaT1 will sometimes send out emails which we feel will be of value to you
+MyPivots will sometimes send out emails which we feel will be of value to you 
 
 In all cases:
 
+  * By clicking on the unsubscribe link at the bottom of any email you will be removed from our database 
+  * Users who request removal are ALWAYS removed
+  * A genuine reply address is used
+  * Addresses which continually bounce are automatically removed
+
+
+
 ### Use of Cookies
 
-The DeltaT1 web site made no use of cookies up to May 2005. During June 2005 cookies were introduced on 1 page to enhance user experience and it is anticipated that cookies will be used on other pages.
+The MyPivots web site made no use of cookies up to May 2005. During June 2005 cookies were introduced on 1 page to enhance user experience and it is anticipated that cookies will be used on other pages. 
 
-The [Emini Futures Forum](http://emini.deltat1.com/forum/default.asp) has used cookies since its implementation in February 2005.
+The [Day Trading Forum](https://web.archive.org/forum/) has used cookies since its implementation in February 2005. 
 
 ### Contact us
 
-Please email us at **info at deltat1 dot com** if you have any concerns, or if you wish to have any information that you have provided removed from our files.
+Please email us at **info at mypivots dot com** if you have any concerns, or if you wish to have any information that you have provided removed from our files. 
+
+* * *
 
 ### Auto Generated Privacy Policy Follows
 
 ### Privacy Policy
 
-This is a privacy policy for **http://www.deltat1.com**
+This is a privacy policy for **http://www.mypivots.com**
 
 ### Contact Information
 
-Our homepage on the Internet is located at [http://www.deltat1.com](http://www.deltat1.com/)
+Our homepage on the Internet is located at [http://www.mypivots.com](https://web.archive.org/)
 
-**Chris Ellis @ DeltaT1  
-18 Phipson Road  
-Pietermaritzburg, KwaZulu-Natal 3201  
-South Africa**
-
-You may contact us by e-mail at **info at deltat1 dot com**  
-You may contact us by phone on +27 82 730 2465 
+* * *
 
 ### Dispute Resolution
 
 Disputes will be handled by our customer service representative.  
-Our customer service will promptly correct any errors.
+Our customer service will promptly correct any errors. 
+
+* * *
 
 ### Data Collection
 
-When visiting Web sites certain information about you and your computer can sometimes be collected. This section explains what information DeltaT1 collect, and how it is used
+When visiting Web sites certain information about you and your computer can sometimes be collected. This section explains what information MyPivots collect, and how it is used 
 
 We do not collect any identifiable data about our visitors.
 
-### [Cookies](https://web.archive.org/web/20061217130341id_/http%3A//www.mypivots.com/w3c/cookies.htm)
+* * *
 
-Cookies are used to enhance your browsing experience by remember previously used settings.
+### [Cookies](https://web.archive.org/web/20070629221944id_/http%3A//www.mypivots.com/page.aspx%3Fpage%3Dprivacy?page=cookies)
+
+Cookies are used to enhance your browsing experience by remember previously used settings. 
 
 Cookies are used to remember you on our forums.
