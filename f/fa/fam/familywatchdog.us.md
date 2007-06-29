@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familywatchdog.us privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207164325id_/http%3A//www.familywatchdog.us/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familywatchdog.us privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629071518id_/http%3A//www.familywatchdog.us/privacy.asp) for the most accurate reproduction.*
 
 # Family WatchdogTerms of Service
 
@@ -43,10 +43,3 @@ We will only contact you under the following circumstances:
 
 
 If you have questions or believe this policy has been breached, contact us at c.s@familywatchdog.us. We will investigate every report of suspected violation of this privacy policy. 
-
-**[Neighbors Connecting](https://web.archive.org/web/20061207164325id_/http%3A//www.familywatchdog.us/redirector.asp?page=http://www.NeighborsConnecting.com)**  
-Neighborhood Watch management software
-
-* * *
-
-Paid Advertisement
