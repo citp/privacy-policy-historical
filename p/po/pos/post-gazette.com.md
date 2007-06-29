@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the post-gazette.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207211634id_/http%3A//www.post-gazette.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the post-gazette.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629043853id_/http%3A//www.post-gazette.com/privacy.asp) for the most accurate reproduction.*
 
 # Pittsburgh Post-Gazette - Privacy Policy
 
@@ -16,11 +16,6 @@
 [    Make Us Home](https://web.archive.org/help/makehome.asp)  
 [    Privacy Policy](https://web.archive.org/privacy.asp)  
 [    Terms of Use](https://web.archive.org/termsofuse.asp)  
-[](https://ssl.post-gazette.com/placead)  
-[](https://web.archive.org/newslinks/genealogy.asp)  
-[](https://web.archive.org/weather/)  
-[](http://classified.post-gazette.com/displayads/)  
-[](https://web.archive.org/aboutpg/emailheadlines/)  
   
 **Privacy and copyright expectations for messages, email and chat session participation**
 
