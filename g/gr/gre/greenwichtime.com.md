@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenwichtime.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205193206id_/http%3A//www.greenwichtime.com/go/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenwichtime.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629022351id_/http%3A//www.greenwichtime.com/go/services/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Greenwich Time
 
@@ -46,12 +46,12 @@ We can be reached by contacting:
 
 **Greenwichtime.com**
 
-**c/o John Dunster, Website General Manager**
+**c/o Vincent Yade, Website General Manager**
 
 **20 East Elm Street  
 Greenwich, CT 06830**
 
-**Email:** [**jdunster@scni.com**](mailto:jdunster@scni.com)
+**Email:** [**vincent.yade@scni.com**](mailto:vincent.yade@scni.com)
 
 **Changes to this policy.**
 
@@ -61,4 +61,4 @@ Greenwich, CT 06830**
 
 This policy and the use of this Site are governed by Illinois law. Any claim related to the Site or this policy shall be brought in a federal or state court in Chicago, Illinois, within one year after the claim arises. Users of **Greenwichtime.com** consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this policy. **Greenwichtime.com** is controlled, operated and administered entirely within the United States. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
 
-Copyright © 2006, Southern Connecticut Newspapers, Inc.
+Copyright © 2007, Southern Connecticut Newspapers, Inc.
