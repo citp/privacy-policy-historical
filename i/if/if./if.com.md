@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the if.com privacy policy that was archived on 2006-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061028103137id_/http%3A//if.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the if.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630000120id_/http%3A//www.if.com/info/privacy.asp) for the most accurate reproduction.*
 
-# Intelligent Finance - Privacy policy
+# Privacy policy - Intelligent Finance
 
 |  The Data Protection Act
 
@@ -8,13 +8,14 @@ The Data Protection Act puts obligations on users of personal information and la
 
 To provide the highest level of customer service we need accurate customer information. You can help by informing us whenever your circumstances change, either by phone, post or while you are logged into your plan on our website. 
 
-Organisations must lodge a notification with the Information Commissioner, describing the purposes for which they process personal information. The details are publicly available from the Commissioner's Office at:  
+Organisations must lodge a notification with the Information Commissioner, describing the purposes for which they process personal information. The details are publicly available from the Commissioner's Office at:
+
 **Wycliffe House,  
 Water Lane,   
 Wilmslow,   
 Cheshire SK9 5AF.   
 Tel: 01625 545 745   
-Fax: 01625 524 510. **
+Fax: 01625 524 510**
 
 Alternatively, see the Commissioner's website at [http://www.informationcommissioner.gov.uk](http://www.informationcommissioner.gov.uk/ "www.informationcommissioner.gov.uk").
 
@@ -26,18 +27,27 @@ The way in which you can set your browser to accept or disable cookies varies sl
 
 Below are full instructions for changing your browser settings to accept or disable cookies
 
-  * From the menu bar select **Tools** ( **View** in IE4), and then **Internet Options**. 
-  * On the **Security tab** , select **Internet Zone** at the top. 
-  * Click **Custom Level** at the bottom of the dialog box. 
-  * From the list that appears you can choose **Enable** or **Disable Cookies**. 
-  * Click **OK**. 
+  1. From the menu bar select **Tools** and then **Internet Options**.
+  2. Select the **Privacy** tab.
+  3. Under **Settings** , click **Advanced** button. 
+  4. Check the box **Override automatic cookie handling** under **Cookies** section in **Advanced Privacy Settings** window.
+  5. Under **First-party Cookies** , select **Accept**.
+  6. Under **Third-party Cookies** , select **Accept**
+  7. Check the box **Always allow session cookies**. 
+  8. Click **OK**
+  9. Click **OK** to exit
 
 
 
-  * From the menu bar select **Edit** , and then **Preferences**. 
-  * In the list on the left select **Advanced**. 
-  * In the cookies section at the lower right you can choose to **Accept all cookies** or **Disable all cookies**. 
-  * Click OK. 
+  1. Click **Edit** on the Toolbar.
+  2. Click **Preferences**
+  3. Click the **Privacy and Security** category; expand the list to show the subcategories. 
+  4. Click **Cookies**
+  5. 5\. Three options are displayed. Click the appropriate choice: 
+    * Disable cookies 
+    * Enable cookies for the originating web site only 
+    * Enable all cookies
+    * If you want to be notified when a web site tries to set a cookie, select "Warn me before accepting a cookie." 
 
 
 
@@ -100,16 +110,18 @@ Back to top
 
 Our systems protect customers and ourselves against fraud and other crime. Customer information can be used to prevent crime and trace those responsible. We may check your details with fraud prevention agencies. 
 
-If you give us false or misleading information and we suspect fraud, we will record this. We and other organisations may use and search these records to help us: 
+  * If false or inaccurate information is provided and fraud is identified, details will be passed to fraud prevention agencies.
+  * Law enforcement agencies may access and use this information. 
+  * We and other organisations may also access and use this information to prevent fraud and money laundering, for example, when:
+  
+• Checking details on applications for credit and credit related or other   facilities   
+• Managing credit and credit related accounts or facilities   
+• Recovering debt   
+• Checking details on proposals and claims for all types of insurance   
+• Checking details of job applicants and employees 
+  * Please contact us on **0845 609 4343** if you want to receive details of the relevant fraud prevention agencies.
 
-  * make decisions about credit and related services for you and members of your household
-  * make decisions on household, life and other insurance proposals and insurance claims for you and members of your household
-  * trace debtors, recover debt, prevent fraud and to manage your accounts or insurance policies
-  * check your identity to prevent money laundering unless you provide us with other satisfactory proof of identity
-
-
-
-If you want to receive details of those fraud prevention agencies from whom we obtain and with whom we record information about you, contact us on **0845 609 4343**. You have a legal right to these details.
+We and other organisations may access and use from other countries the information recorded by fraud prevention agencies. 
 
 If your relationship with us was 'introduced' by a third party, we will provide them with sufficient information about you to help with their accounting and administration. The introducer may, with your consent, use your details to contact you about his own products and services.
 
@@ -126,7 +138,5 @@ The Data Protection Act defines information about the following as 'sensitive': 
 If you apply for insurance or life assurance through us, we may ask you for some 'sensitive' details. We'll only use this information to provide the service you require and we will ask for your explicit consent. 
 
 The Intelligent Finance website contains links to sites operated by persons outside the HBOS Group. We are not responsible for the privacy practices, content, or the product and services provided through those sites.
-
-Back to top
 
 | 
