@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the assuranthealth.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206014539id_/http%3A//www.assuranthealth.com/corp/ah/aboutassuranthealth/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the assuranthealth.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629214534id_/http%3A//www.assuranthealth.com/corp/ah/aboutassuranthealth/privacypolicy) for the most accurate reproduction.*
 
-# legal
+# Assurant Health Privacy Policy
 
 [Individual Rights and Forms](http://www.hipaa.assuranthealth.com/) 
 
@@ -87,5 +87,3 @@ We reserve the right to make changes to this notice and to make the revised or c
 **Women’s Health and Cancer Rights Act Notice**
 
 Effective October 21, 1998, the Federal Women’s Health and Cancer Rights Act requires all health insurance plans that provide coverage for a mastectomy must also provide coverage for the following medical care: reconstruction of the breast on which the mastectomy has been performed; surgery and reconstruction of the other breast to produce a symmetrical appearance; and prostheses and physical complications at all stages of the mastectomy, including lymphedemas. Covered benefits are subject to all provisions described in your plan, including but not limited to: deductible, copayment, rate of payment, exclusions and limitations.
-
-[back to top ^](http://www.assuranthealth.com/about/privacy.shtml#top)
