@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the levitra.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016072838id_/http%3A//www.levitra.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the levitra.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629215447id_/http%3A//www.levitra.com/privacy.html) for the most accurate reproduction.*
 
 # LEVITRA information at LEVITRA
 
@@ -18,7 +18,7 @@ BAYER, GSK, and Schering-Plough and/or the companies we hire will use this infor
 
 **Opt Out**
 
-You may stop receiving future communications about LEVITRA that are initiated by BAYER, GSK, or Schering-Plough, at any time. To cancel these further communications, please complete the following form: **[LEVITRA.com Opt-out](https://web.archive.org/optout/opt_out.jsp)**. From time to time, this site may allow visitors to the site to send "e-card" communications or messages that refer friends to the site. Because the site does not collect or retain the e-mail addresses of the recipients of these types of messages, opt-out from these communications is not possible. If you have any concerns or questions regarding these messages, please contact the Customer Response Center at 1-888-825-5249. 
+You may stop receiving future communications about LEVITRA that are initiated by BAYER, GSK, or Schering-Plough, at any time. To cancel these further communications, please complete the following form: **[LEVITRA.com Opt-out](https://www.levitra.com/optout/opt_out.jsp)**. From time to time, this site may allow visitors to the site to send "e-card" communications or messages that refer friends to the site. Because the site does not collect or retain the e-mail addresses of the recipients of these types of messages, opt-out from these communications is not possible. If you have any concerns or questions regarding these messages, please contact the Customer Response Center at 1-888-825-5249. 
 
 **Cookies and Internet Tags**
 
