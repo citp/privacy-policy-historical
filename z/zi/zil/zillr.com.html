@@ -1,0 +1,346 @@
+<!--The following is the downloaded HTML source of the zillr.com privacy policy that was archived on 2007-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070630014232id_/http%3A//www.zillr.com/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>ZillR :: Privacy Policy</title>
+<meta name="KEYWORDS" content="privacy, zillr, privacy policy">
+<meta name="DESCRIPTION" content="Privacy policy of ZillR">
+<meta name="ROBOTS" content="INDEX,FOLLOW">
+<meta name="resource-type" content="document">
+<meta http-equiv="expires" content="0">
+<meta name="author" content="www.netpowersoft.com">
+<meta name="copyright" content="Copyright (c) 2005 by http://netpowersoft.com">
+<meta name="revisit-after" content="1 days">
+<meta name="distribution" content="Global">
+<meta name="generator" content="Microsoft FrontPage 5.0">
+<meta name="rating" content="General">
+<link rel="icon" href="images/icon.png" type="image/png">
+<link rel="shortcut icon" href="http://www.zillr.com/templates/def/images/zillr_icon.png">
+
+<link rel="stylesheet" type="text/css" href="http://www.zillr.com/templates/def//stylesheet.css">
+
+</head>
+<body>
+<table border="0" cellpadding="0" cellspacing="0" width="776" align="center">
+  <tbody><tr>
+    <td valign="top" width="100%" height="57"><table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" width="100%" height="27">
+    <tbody><tr>
+      <td valign="top">
+      <img src="http://www.zillr.com/templates/def/images/zillr_03.jpg"></td>
+       <td width="100%" style="BACKGROUND-REPEAT:repeat-x; BACKGROUND-IMAGE: url('http://www.zillr.com/templates/def/images/zillr_05.jpg')">
+	   
+	   </td><td valign="top">
+      <a href="http://www.zillr.com/" title="Home"><img src="http://www.zillr.com/templates/def/images/zillr_06.jpg" border="0"></a></td>
+    </tr>
+  </tbody></table>
+
+  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" width="100%">
+    <tbody><tr>
+      <td height="18" width="8" valign="top">
+      <img src="http://www.zillr.com/templates/def/images/zillr_10.jpg">
+       </td>
+      <td style="BACKGROUND-REPEAT:repeat-x; BACKGROUND-IMAGE: url('http://www.zillr.com/templates/def/images/zillr_12.jpg')">
+	  <style>
+	#layer1 {
+
+		background-image: url("http://zillr.com/templates/def/images/dot2.png");
+	   layer-background-color : #99CCCC;	   
+	   border-width : 1px; 
+	   border-style : solid; 
+	   border-color : #000000; 
+	   width : 210px; 
+	   top : 60px; 
+	   left : 200px; 
+	   position : absolute; 
+	   z-index : 90; 
+	   visibility : hidden; 
+	}
+	</style>
+	<script>
+	var activeSub=0;
+	var SubNum=0;
+
+	function reDo(){ window.location.reload() }
+	    window.onresize = reDo;
+	
+	
+	    //Define global variables
+		var timerID = null;
+		var timerOn = false;
+		var timecount = 1000;
+		var what = null;
+		var newbrowser = true;
+		var check = false;
+
+	    	function init(){
+	    	//  alert (Running Init);
+	          if (document.layers) {
+	                      //  alert ("Running Netscape 4");
+	                        layerRef="document.layers";
+	                        styleSwitch="";
+	                        visibleVar="show";
+				screenSize = window.innerWidth;
+				what ="ns4";
+	          }else if(document.all){
+	                      //  alert ("Running IE");
+	                        layerRef="document.all";
+	                        styleSwitch=".style";
+	                        visibleVar="visible";
+				screenSize = document.body.clientWidth + 18;
+				what ="ie";
+		  }else if(document.getElementById){
+	                      //  alert ("Running Netscape 6");
+	                        layerRef="document.getElementByID";
+	                        styleSwitch=".style";
+	                        visibleVar="visible";
+				what="moz";
+		  }else{
+			  	//alert("Older than 4.0 browser.");
+				what="none";
+				newbrowser = false;
+		  }
+		window.status='status bar text to go here';
+		check = true;
+  	 	}
+
+	// Turns the layers on and off
+        function showLayer(layerName){
+        	if(check){
+        		if (what =="none"){
+        			return;
+        			}
+	        	else if (what == "moz"){
+        			document.getElementById(layerName).style.visibility="visible";
+        			}
+        		else{
+                  eval(layerRef+'["'+layerName+'"]'+styleSwitch+'.visibility="visible"');
+                  }
+		 }
+        	else {// alert ("Please wait for the page to finish loading.");
+        		return;}
+		}
+
+        function hideLayer(layerName){
+        	if(check){
+        		if (what =="none"){
+        			return;
+        			}
+        		else if (what == "moz"){
+        			document.getElementById(layerName).style.visibility="hidden";
+        			}
+        		else{
+                  eval(layerRef+'["'+layerName+'"]'+styleSwitch+'.visibility="hidden"');
+				}
+        
+        	}
+        	else {// alert ("Please wait for the page to finish loading.");
+        		return;}
+        }
+
+
+		function hideAll(){
+				hideLayer('layer1');
+				}
+
+
+		function startTime() {
+	        if (timerOn == false) {
+                timerID=setTimeout( "hideAll()" , timecount);
+                timerOn = true;
+
+	        }
+
+		}
+
+
+		function stopTime() {
+		        if (timerOn) {
+    			        clearTimeout(timerID);
+        		        timerID = null;
+        		        timerOn = false;
+		        }
+		}
+		
+		function onLoad(){
+			init();
+		}
+	init();
+	</script>
+	<div id="layer1">
+	
+	<form style="display:inline;" method="post" action="/includes/logincheck.php" onmouseover="stopTime();">
+	
+	<table cellspacing="0" cellpadding="2" border="0" width="100%" height="100%">
+	<tbody><tr><td valign="top" height="100%">
+	<div class="divbg"></div>
+	<div class="divfront">
+	
+	<table>
+	<tbody><tr>
+	  <td colspan="2" align="right"><a href="#" onclick="hideAll();"><b>Close</b></a>
+</td>
+	</tr>
+	<tr>
+	  <td><b>Email:</b></td>
+	  <td>
+	  	<input type="hidden" name="redirect_page" value="http://www.zillr.com/privacy.php">
+		<input class="textinput" type="text" value="" name="email" size="20">
+	  </td>
+	</tr>
+	<tr>
+	  <td><b>Password:</b></td>
+	  <td><input class="textinput" type="password" name="password" size="20"></td>
+	</tr>
+	<tr>
+	  <td>&nbsp;</td>
+	  <td>
+	  		<input class="button" type="submit" value="Login">
+	  		<input class="button" type="button" value="Register" onclick="javascript:window.location='http://www.zillr.com/register.php'">
+			&nbsp;&nbsp;
+	  </td>
+	</tr>
+	</tbody></table>
+	
+		</div>
+	</td></tr>
+	</tbody></table>
+	
+	</form>
+	</div>
+	<a href="http://www.zillr.com/" class="style1">Home</a>&nbsp;&nbsp;
+	<a href="javascript:void(0);" class="style1" onclick="hideAll(); showLayer('layer1'); stopTime()">Login</a>&nbsp;&nbsp;
+	<a href="http://www.zillr.com/register.php" class="style1">Join</a>&nbsp;&nbsp;
+	<a href="http://www.zillr.com/search.php" class="style1">Find</a>&nbsp;&nbsp;
+	<a href="http://www.zillr.com/groups.php" class="style1">Groups</a>&nbsp;&nbsp;
+	<a href="http://www.zillr.com/faq.php" class="style1">Faq</a>
+	  </td>
+	  <td height="18" width="286" valign="top" style="BACKGROUND-REPEAT:repeat-x; BACKGROUND-IMAGE: url('http://www.zillr.com/templates/def/images/zillr_13.jpg')">
+   	  
+	  </td>
+    </tr>
+  </tbody></table></td>
+	<td rowspan="2" width="2"><img src="http://www.zillr.com//images/spacer.gif" width="2"></td>
+	<td rowspan="2" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tbody><tr>
+		<td>
+		<img src="http://www.zillr.com/templates/def/images/zillr_08.jpg" alt="">
+		</td>
+	</tr>
+</tbody></table>
+
+	
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tbody><tr>
+		
+		<td style="BORDER-LEFT: #D9DFEB 1px solid; BORDER-BOTTOM: #D9DFEB 1px solid; BORDER-RIGHT: #D9DFEB 1px solid" valign="top">
+		
+		
+<!-- ############################################################################-->				
+
+<form method="post" action="http://www.zillr.com/includes/logincheck.php">
+		<table cellspacing="0" cellpadding="2" border="0" width="100%">
+		
+		<tbody><tr>
+			<td colspan="2"> Email <br>
+				<input type="hidden" name="redirect_page" value="http://www.zillr.com/privacy.php">
+				<input type="text" name="email" size="20" value="" class="textinput"></td>
+		</tr>
+		<tr>
+			<td colspan="2"> Password <br>
+			<input type="password" name="password" size="20" class="textinput"></td>
+		</tr>
+		
+		<tr>
+			<td colspan="2"> <input type="checkbox" name="remember" value="1" align="left"> Remember Me </td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			
+			<input type="submit" value="Login" class="button">
+			<input type="button" value="Register" class="button" onclick="javascript:window.location='http://www.zillr.com/register.php'">
+			</td>
+		</tr>
+		
+		
+		</tbody></table>
+
+<!-- ############################################################################-->				
+		
+		</form></td>			
+	</tr>
+</tbody></table>
+
+<table cellspacing="0" cellpadding="0" bgcolor="#f6f8f8" border="0"><tbody><tr><td height="3"></td></tr></tbody></table></td>
+    
+  </tr>
+  <tr>
+  	<td valign="top">
+			<table cellspacing="0" cellpadding="0" width="100%" border="0">
+<tbody><tr style="BACKGROUND-IMAGE: url('http://www.zillr.com/templates/def/images/dot.jpg')">
+	<td valign="middle" align="left" height="20" colspan="2">
+		<p class="title">&nbsp;&nbsp;Privacy Policy</p>
+	</td>
+</tr>
+<tr>
+	<td class="cover" valign="top" align="left" colspan="2">
+		<table cellspacing="0" cellpadding="2" border="0" width="100%"><tbody><tr><td valign="top" height="200"><table cellspacing="3" cellpadding="2" border="0" width="100%"><tbody><tr><td><p>ZillR is a website which deals in social networking .it helps people in developing relationships of healthy friendship worldwide by sharing ideas,emotions ,information, photographs etc. To establish this one has to create one's profile on ZillR which includes the personal information which user chooses to give.
+
+</p><p><b>Personal Detail</b><br>
+As a member, one can create a society that includes personal information, such as one's gender, age, occupation, hobbies, and interests, plus other content, such as photos. This information may be accessed and viewed by other Zillr members members.
+
+</p><p>while you select new members into your network or send messages through zillr we gather  relevant details regarding message such as email addresses and content of messages.
+
+if  you choose new members into your network or send messages through Zillr, we  keep track of  information associated  with those  messages, including email addresses and content.
+
+</p><p>ZillR also  provides non-personally-identifiable information including IP address, profile information, aggregate user data, and browser type, from members and users of  the site .This data is   utilized to maintain website,keep record of usage  and  for making website services better. This non-personally-identifiable information may be shared with third-parties to provide more reliable services and advertisements to  visitors. User IP addresses are collected for  purpose of safety and security.
+
+</p><p><b>Uses</b><br>
+ZillR gather  information  provide by user such as name, email address, and age to verify users and to send messages to those users relating to the ZillR services. ZillR also collects other information related to once profile which is not confined to: personal interests, gender, age, education and employment in order to help members in finding and communicating with each other.
+</p><p>The visitor Profile information including members' pictures and first names are made available to people in order to facilitate user interaction in the ZillR social networking society. Email addresses are utilized  for many  purposes such as for inviting new friends to join Zillr, to include users in members' friends' networks, and to send  information related to the service. A user's email address is not  conveyed to people within a user's personal network Users within a personal network communicate on ZillR with each other through the ZillR service, without disclosing their email addresses. Users' full names are never directly conveyed  to other members.
+</p><p>To  search for friends and acquaintances on the service, ZillR permits users to search for other members using first and last name, email address, and schools and companies where users may have gone or served.
+</p><p>From time to time, ZillR or a partner, can  sponsor a promotion or contest on ZillR. Users may be asked to give personal information including name, email address or home address or to answer questions in order to participate. We may forward personal information to various ad partners that you have directly requested to receive information from. It will be clear at the time of gathering of information who is collecting the personal information and whose privacy statement will  be applicable.
+</p><p><b>Options for you</b><br>
+ZillR provide you option to restrict your profile and personal information. When you  create your account you can go to 'settings' option which allows you  to limit viewing certain part of information to yourself, your friends, friends of friends, or to make the information available to all ZillR members. 
+</p><ul>
+<li>You can make minor or major changes in  your profile information at any time by using  the "edit" button in your profile setting. </li>
+<li>Messages you get from ZillR can be sent to your primary email address or  ZillR Inbox, if you don't want to receive message alerts from ZillR then you need not to click the option 'new ZillR notification email in settings.</li>
+</ul></td></tr></tbody></table><br></td></tr></tbody></table>
+	</td>
+</tr>
+</tbody></table>
+	
+			
+	</td>
+	
+  </tr>
+  <tr>
+    <td colspan="4" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tbody><tr>
+		
+		<td colspan="3" style="BACKGROUND-IMAGE: url('http://www.zillr.com/templates/def/images/zillr_05.jpg')" height="25" align="center">
+		
+		
+<!-- ############################################################################-->				
+
+<a href="http://www.zillr.com/" class="style1">Home</a>&nbsp;&nbsp;<a href="http://www.zillr.com/about.php" class="style1">About</a>&nbsp;&nbsp;<a href="http://www.zillr.com/contact.php" class="style1">Contact</a>&nbsp;&nbsp;<a href="http://www.zillr.com/faq.php" class="style1">Faq</a>&nbsp;&nbsp;<a href="http://www.zillr.com/terms.php" class="style1">Terms</a>&nbsp;&nbsp;<a href="http://www.zillr.com/privacy.php" class="style1">Privacy</a>
+
+<!-- ############################################################################-->				
+		
+		</td>			
+	</tr>
+</tbody></table>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1056783-8";
+urchinTracker();
+</script></td>
+  </tr>
+</tbody></table>
+
+
+
+</body></html>
