@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcdmusic.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231210302id_/http%3A//privacypolicy.umusic.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcdmusic.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629233614id_/http%3A//privacypolicy.umusic.com) for the most accurate reproduction.*
 
 # UNIVERSAL MUSIC GROUP PRIVACY POLICY
 
@@ -78,5 +78,3 @@ If you have any questions about our privacy practices, please feel free to conta
 **UMG Privacy Officer**  
 2220 Colorado Avenue, Santa Monica , CA 90404  
 (310) 865-5000 or email us by [ clicking here](http://privacypolicy.umusic.com/email/default.asp).
-
-(2) 
