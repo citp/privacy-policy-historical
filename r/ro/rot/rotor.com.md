@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rotor.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017084126id_/http%3A//rotor.com/tabid/510/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rotor.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629223504id_/http%3A//www.rotor.com/tabid/510/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # HAI Website > Home ::
 
@@ -44,4 +44,4 @@ HAI Website will occasionally update this Statement of Privacy to reflect compan
 
 Contact Information
 
-HAI Website welcomes your comments regarding this Statement of Privacy. If you believe that HAI Website has not adhered to this Statement, please contact HAI Website at [eddicampli@yahoo.com](mailto:eddicampli@yahoo.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+HAI Website welcomes your comments regarding this Statement of Privacy. If you believe that HAI Website has not adhered to this Statement, please contact HAI Website at [ed.dicampli@rotor.com](mailto:ed.dicampli@rotor.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
