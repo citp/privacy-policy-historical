@@ -1,31 +1,42 @@
-> *The following text is extracted and transformed from the fleshlight.com privacy policy that was archived on 2006-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060504082050id_/http%3A//www.fleshlight.com/main/privacy.php%3FosCsid%3Da538fd33831ed239e196bd1ea0daa2d7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fleshlight.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629210446id_/http%3A//www.fleshlight.com/main/privacy.php) for the most accurate reproduction.*
 
-# Fleshlight Privacy Policy
+# Official Fleshlight Website - The #1 Selling Male Sex Toy in the World
 
-|  [ Fleshlight ](https://web.archive.org/web/20060504082050id_/http%3A//www.fleshlight.com/main/build_your_own_1.php) [ Lady ](https://web.archive.org/web/20060504082050id_/http%3A//www.fleshlight.com/main/index.php?cPath=33) [ Mouth ](https://web.archive.org/web/20060504082050id_/http%3A//www.fleshlight.com/main/index.php?cPath=34) [ Butt ](https://web.archive.org/web/20060504082050id_/http%3A//www.fleshlight.com/main/index.php?cPath=35) [ Non-Descript ](https://web.archive.org/web/20060504082050id_/http%3A//www.fleshlight.com/main/index.php?cPath=36) [ Enhanced  
-Sensations ](https://web.archive.org/web/20060504082050id_/http%3A//www.fleshlight.com/main/index.php?cPath=22) [ Super Ribbed ](https://web.archive.org/web/20060504082050id_/http%3A//www.fleshlight.com/main/product_info.php?products_id=43) [ Speed Bump ](https://web.archive.org/web/20060504082050id_/http%3A//www.fleshlight.com/main/product_info.php?products_id=45) [ Super Tight ](https://web.archive.org/web/20060504082050id_/http%3A//www.fleshlight.com/main/product_info.php?products_id=41) [ Ultra Tight ](https://web.archive.org/web/20060504082050id_/http%3A//www.fleshlight.com/main/product_info.php?products_id=44) [ Wonder Wave ](https://web.archive.org/web/20060504082050id_/http%3A//www.fleshlight.com/main/product_info.php?products_id=42) [ Empty Case ](https://web.archive.org/web/20060504082050id_/http%3A//www.fleshlight.com/main/product_info.php?products_id=81) [ Package Deals](https://web.archive.org/web/20060504082050id_/http%3A//www.fleshlight.com/main/index.php?cPath=23) [ Legend's Gym ](https://web.archive.org/web/20060504082050id_/http%3A//www.fleshlight.com/main/index.php?cPath=26) [ Great Lubes](https://web.archive.org/web/20060504082050id_/http%3A//www.fleshlight.com/main/index.php?cPath=24) [ Vibrators ](https://web.archive.org/web/20060504082050id_/http%3A//www.fleshlight.com/main/index.php?cPath=27) [ Sex In A Can ](https://web.archive.org/web/20060504082050id_/http%3A//www.fleshlight.com/main/index.php?cPath=32) [ Discussion  
-Board](http://forums.fleshlight.com/) [ Testimonials](https://web.archive.org/web/20060504082050id_/http%3A//www.fleshlight.com/main/testimonials.php) [ Privacy Policy](https://web.archive.org/web/20060504082050id_/http%3A//www.fleshlight.com/main/privacy.php) [ Ordering Info](https://web.archive.org/web/20060504082050id_/http%3A//www.fleshlight.com/main/order_info.php) [ FAQ](https://web.archive.org/web/20060504082050id_/http%3A//www.fleshlight.com/main/faq.php) |  | Privacy Policy  
+|    
+| 
+
+  
+| Fleshlight.com Privacy Policy  
 ---  
   
-* * *  
-  
-Interactive Life Forms, Inc. is committed to ensuring your privacy:
-
-  * Is my online information secure?  
-All online orders are processed over a secure Internet connection. Your personal information will be protected by the world�s most advanced encryption technologies. The yellow padlock in the bottom of your browser�s status bar ensures your order will be securely processed.
-  * How will my order be presented on my statements?  
-Purchases made by credit card or online check will read on your statement as "ILF Inc."
-  * What does the package look like?  
-All orders are shipped in a plain, cardboard box. The shipping label will identify the shipper as "ILF, Inc." and will not reference "Fleshlight.com", "Sex Toy" or any other identifying description related to products designed for adults.  
-
-  * What is my personal information used for?  
-We use your personal information only for billing and shipping. Information is never sold, rented or shared with any other service or company. Besides your order, you will **not receive any additional catalogs, mailings, or emails** from ILF Inc.
-  * How long is my information kept for?  
-Credit card numbers and personal information is destroyed after product is successfully shipped.
 
 
+  * Our Guarantee  
+Maintaining your privacy and providing a hassle-free, enjoyable, and discreet shopping experience is of utmost importance to us.
 
-  
-My shipping question has still not be answered, who can I contact?  
-Many questions have already been answered on our [Discussion Board](http://fleshlight.com/forums).  
-Otherwise, [contact us](https://web.archive.org/web/20060504082050id_/http%3A//www.fleshlight.com/main/contact_information.php)
+**We will never sell, rent, or share any information about you or your order to anyone for any reason.** The information you supply for your order is used to discreetly deliver the items you've purchased. Once you've received your order, you may occasionally hear from us via email unless you've requested otherwise.
+
+We may periodically make changes to this Privacy Policy. It is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it.
+
+  * Billing Information  
+Once your order is shipped, your credit card or online check information is removed from our database and can not be accessed by anyone for any reason. If you are paying by credit card, the charges on your statement will read as originating from " **ILF, Inc.** " and will include a toll-free number, as required.
+  * Shipping Information  
+All orders are shipped discreetly in a plain, cardboard box. The shipping label will identify the shipper as "ILF, Inc." and will not reference "Fleshlight.com", "Sex Toy" or any other identifying description related to products designed for adults. For International shipments which require a declarations page identifying the contents of the package, the following generic descriptions will be used.
+
+Fleshlight Inserts = Gel Sleeves  
+Fleshlight Cases = Plastic Housing  
+Lubricant = Water Based Liquid  
+Vibrators = Massagers  
+Mr. Limpys = Gel Molds  
+Tickler = Rubber Massager
+
+  * Contact Methods  
+Once you've placed an order at www.fleshlight.com, you will receive two emails if you choose to include a valid email address: one confirms your order for future reference, the other includes important shipping information, including your FedEx or USPS tracking number. If we have difficulty processing your order or there are complications related to shipping and delivering your package, you may also receive email contact or attempts to reach you by phone. HOWEVER, all customer service representatives are trained to identify themselves as representatives of "ILF, Inc." and to disclose the reason for contact only to the person whose name appears on the order. Furthermore, representatives will never leave voice messages (unless verbal or written consent is given by the customer during a prior point of contact). From time to time we may send out promotions to existing customers. If you ever receive any unwanted contact from us that is unsolicited, please [Contact Us](https://web.archive.org/web/20070629210446id_/http%3A//www.fleshlight.com/main/contact_information.php) so that we can promptly make the necessary correction.
+  * Cookies  
+Cookies are very tiny text files that are stored on your computer when you visit certain web pages that record your preferences. We use cookies to keep track of what you have in your shopping cart and to learn more about how our visitors navigate our website. They cannot harm your computer and they do not contain any personal or private information. You must accept cookies to shop at www.Fleshlight.com. For customers concerned about maintaining the confidentiality of credit card purchases over the Internet, we recommend placing your order by phone: call toll-free (888) 804-4453.
+  * IMPORTANT NOTE:  
+By registering with www.Fleshlight.com, purchasing products from www.Fleshlight.com or providing www.Fleshlight.com with any information, you represent to www.Fleshlight.com that you are 18 years of age or older and that any information you provide to us about a third party is for a third party that is 18 years of age or older.
+
+
+
+If you have a privacy question about our website, please submit a Ticket here: [http://support.fleshlight.com/index.php?_m=tickets&_a=submit](http://support.fleshlight.com/index.php?_m=tickets&_a=submit)
