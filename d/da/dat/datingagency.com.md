@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the datingagency.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207104414id_/http%3A//www.datingagency.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datingagency.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629141944id_/http%3A//www.datingagency.com/privacy) for the most accurate reproduction.*
 
-# Dating agency from datingagency.com: the friendliest local dating service around!
+# Privacy policy
 
 This privacy policy is a complete statement of what information we collect and what we use it for.
 
