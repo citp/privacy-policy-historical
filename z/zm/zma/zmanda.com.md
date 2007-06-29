@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zmanda.com privacy policy that was archived on 2006-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061027043043id_/http%3A//zmanda.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zmanda.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629232024id_/http%3A//zmanda.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Zmanda, Inc. - Privacy Policy
 
@@ -125,5 +125,3 @@ Zmanda will work with you to resolve any concerns you may have about this Privac
 Zmanda reserves the right to change this policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to our privacy policy, we will notify you by posting an announcement on our web site so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.
 
 The Effective Date of this Privacy Policy is December 5, 2005.
-
-© 2006 Zmanda, Inc.  All rights reserved. 
