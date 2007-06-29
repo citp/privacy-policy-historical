@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the evitamins.com privacy policy that was archived on 2006-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061218204933id_/http%3A//www.evitamins.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the evitamins.com privacy policy that was archived on 2007-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070629022959id_/http%3A//www.evitamins.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>eVitamins - Privacy Policy</title>
@@ -10,14 +10,65 @@
 	<meta name="msnbot" content="index,follow">
 	<meta name="slurp" content="index,follow">
 <link href="style.css" rel="stylesheet" type="text/css">
-<script language="JavaScript" type="text/JavaScript">
-<!--
-function MM_jumpMenu(targ,selObj,restore){ //v3.0
-  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
-  if (restore) selObj.selectedIndex=0;
+<!-- ############# BEGIN header category dropdowns ##############-->
+<script type="text/javascript"><!--//--><![CDATA[//><!--
+function h_s(){
+	document.all.infoType.style.visibility = 'hidden';
 }
-//-->
+function s_s(){
+	document.all.infoType.style.visibility = 'visible';
+}
+		
+	jsHover = function() {
+		var hEls = document.getElementById("navigation_menu").getElementsByTagName("LI");
+		for (var i=0, len=hEls.length; i<len; i++) {
+			hEls[i].onmouseover=function() { this.className+=" jshover"; }
+			hEls[i].onmouseout=function() { this.className=this.className.replace(" jshover", ""); }
+		}
+	}
+	if (window.attachEvent && navigator.userAgent.indexOf("Opera")==-1) window.attachEvent("onload", jsHover);
+//--><!]]></script>
+<!-- ############# END header category dropdowns ##############-->
+<!-- ############# BEGIN review POP ##############-->
+<script type="text/javascript">
+
+function getposOffset(overlay, offsettype){
+var totaloffset=(offsettype=="left")? overlay.offsetLeft : overlay.offsetTop;
+var parentEl=overlay.offsetParent;
+while (parentEl!=null){
+totaloffset=(offsettype=="left")? totaloffset+parentEl.offsetLeft : totaloffset+parentEl.offsetTop;
+parentEl=parentEl.offsetParent;
+}
+return totaloffset;
+}
+
+function overlay(curobj, subobjstr, opt_position){
+
+if (document.getElementById){
+var subobj=document.getElementById(subobjstr)
+subobj.style.display=(subobj.style.display!="block")? "block" : "none"
+var xpos=getposOffset(curobj, "left")+((typeof opt_position!="undefined" && opt_position.indexOf("right")!=-1)? -(subobj.offsetWidth-curobj.offsetWidth) : 0) 
+var ypos=getposOffset(curobj, "top")+((typeof opt_position!="undefined" && opt_position.indexOf("bottom")!=-1)? curobj.offsetHeight : 0)
+LeftPosition = (screen.width) ? (screen.width-400)/2 : 0;
+/*TopPosition = (screen.height) ? (screen.height-700)/2 : 0;*/
+TopPosition = document.body.scrollTop + 30;
+
+
+subobj.style.left=LeftPosition
+subobj.style.top=TopPosition
+return false
+}
+else
+return true
+}
+
+function overlayclose(subobj){
+document.getElementById(subobj).style.display="none"
+}
+
 </script>
+<!-- ############# END review POP ##############-->
+<!-- ############# BEGIN general window ##############-->
 <script language="javascript">
 <!--
 function createWindow(URL,windowName) 
@@ -26,6 +77,311 @@ function createWindow(URL,windowName)
 }
 //-->
 </script>
+<!-- ############# END general window ##############-->
+<!-- ############# Begin cart functionality ########-->
+<script language="javascript">
+<!--
+var delay=300;
+
+var uri_cart="http://www.evitamins.com/cart.asp";
+var uri_clrc="http://www.evitamins.com/featured_item.asp";
+
+
+var ajax_cart;
+var ajax_clrc;
+
+var poperup_cart;
+var popedup_cart;
+var popedup_b1_cart;
+var popedup_b2ad_cart;
+var popedup_b2bd_cart;
+var popedup_b5_cart;
+var poperup_a_cart;
+var wait_cart;
+
+var poperup_clrc;
+var popedup_clrc;
+var popedup_b1_clrc;
+var popedup_b2ad_clrc;
+var popedup_b2bd_clrc;
+var popedup_b5_clrc;
+var poperup_a_clrc;
+var wait_clrc;
+
+var poperup_sgin;
+var popedup_sgin;
+var popedup_b1_sgin;
+var popedup_b2ad_sgin;
+var popedup_b2bd_sgin;
+var popedup_b5_sgin;
+var poperup_a_sgin;
+var wait_sgin;
+
+function createXmlHttpRequestObject(){ 
+	var xmlHttp; 
+	// this should work for all browsers except IE6 and older 
+	try { 
+		xmlHttp = new XMLHttpRequest(); 
+	} catch(e) { 
+		// assume IE6 or older 
+		var XmlHttpVersions = new Array(
+			"MSXML2.XMLHTTP.6.0", 
+			"MSXML2.XMLHTTP.5.0", 
+			"MSXML2.XMLHTTP.4.0", 
+			"MSXML2.XMLHTTP.3.0", 
+			"MSXML2.XMLHTTP", 
+			"Microsoft.XMLHTTP" 
+		); 
+		// try every prog id until one works 
+		for (var i=0; i<XmlHttpVersions.length && !xmlHttp; i++){ 
+			try { 
+				// try to create XMLHttpRequest object 
+				xmlHttp = new ActiveXObject(XmlHttpVersions[i]); 
+			} catch (e) {} 
+		} 
+	} 
+	// return the created object or display an error message 
+	return xmlHttp;
+} 
+
+function rw(o){ 
+	return o.offsetWidth?o.offsetWidth:o.clientWidth; 
+} 
+function rh(o){ 
+	return o.offsetHeight?o.offsetHeight:o.clientHeight; 
+} 
+
+function registerIds(arg){ 
+	for(each in arg) 
+		eval(arg[each]+"=document.getElementById('"+arg[each]+"');");
+}
+
+function popup_init(){
+	ajax_cart=createXmlHttpRequestObject();
+	if (!ajax_cart) return;
+	ajax_clrc=createXmlHttpRequestObject();
+	if (!ajax_clrc) return;
+	registerIds([
+		"popedup_cart",
+		"poperup_cart",
+		"popedup_b1_cart",
+		"popedup_b2ad_cart",
+		"popedup_b2bd_cart",
+		"popedup_b5_cart",
+		"poperup_a_cart",
+
+		"popedup_clrc",
+		"poperup_clrc",
+		"popedup_b1_clrc",
+		"popedup_b2ad_clrc",
+		"popedup_b2bd_clrc",
+		"popedup_b5_clrc",
+		"poperup_a_clrc",
+		
+		"popedup_sgin",
+		"poperup_sgin",
+		"popedup_b1_sgin",
+		"popedup_b2ad_sgin",
+		"popedup_b2bd_sgin",
+		"popedup_b5_sgin",
+		"poperup_a_sgin",
+	]);
+	if(poperup_cart) {
+		poperup_cart.onmouseover=show_cart;
+		poperup_a_cart.onmouseover=show_cart;
+	}
+	if(poperup_clrc) {
+		poperup_clrc.onmouseover=show_clrc;
+		poperup_a_clrc.onmouseover=show_clrc;
+	}
+	if(poperup_sgin) {
+		poperup_sgin.onmouseover=show_sgin;
+		poperup_a_sgin.onmouseover=show_sgin;
+	}
+}
+
+function ajax_handle_cart() {
+	// if the process is completed, decide what to do with the returned data
+	if (ajax_cart.readyState == 4) {
+		// only if HTTP status is "OK"
+		if (ajax_cart.status == 200) {
+			popedup_b5_cart.innerHTML=ajax_cart.responseText;
+			aw=rw(popedup_b2a_cart);
+			bw=rw(popedup_b2b_cart);
+			popedup_b2ad_cart.style.width=rw(poperup_cart)-2+"px";
+			popedup_b2bd_cart.style.width=aw+bw-rw(poperup_cart)+2+"px";
+		} else {
+			hide_cart();
+		}
+	}
+}
+
+function ajax_handle_clrc() {
+	// if the process is completed, decide what to do with the returned data
+	if (ajax_clrc.readyState == 4) {
+		// only if HTTP status is "OK"
+		if (ajax_clrc.status == 200) {
+			popedup_b5_clrc.innerHTML=ajax_clrc.responseText;
+			aw=rw(popedup_b2a_clrc);
+			bw=rw(popedup_b2b_clrc);
+			popedup_b2ad_clrc.style.width=rw(poperup_clrc)-2+"px";
+			popedup_b2bd_clrc.style.width=aw+bw-rw(poperup_clrc)+2+"px";
+		} else {
+			hide_clrc();
+		}
+	}
+}
+
+function show_cart(){
+	try { 
+		if (ajax_cart.readyState == 4 || ajax_cart.readyState == 0){
+			ajax_cart.open("GET",uri_cart+"?"+Math.random(), true);
+			ajax_cart.onreadystatechange = ajax_handle_cart; 
+			ajax_cart.send(null); 
+		}
+	} catch(err) { 
+		return;
+	}
+	popedup_cart.style.visibility="visible";
+	aw=rw(popedup_b2a_cart);
+	bw=rw(popedup_b2b_cart);
+	popedup_b2ad_cart.style.width=rw(poperup_cart)-2+"px";
+	popedup_b2bd_cart.style.width=aw+bw-rw(poperup_cart)+2+"px";
+	poperup_cart.style.borderWidth="1px 1px 0 1px";
+	poperup_cart.style.padding="0";
+	wait_cart=0;
+	popedup_cart.onmouseout=timer_cart;
+	poperup_cart.onmouseout=timer_cart;
+	poperup_a_cart.onmouseout=timer_cart;
+	popedup_cart.onmouseover=timer1_cart;
+	poperup_cart.onmouseover=timer1_cart;
+	poperup_a_cart.onmouseover=timer1_cart;
+}
+
+function show_clrc(){
+	try { 
+		if (ajax_clrc.readyState == 4 || ajax_clrc.readyState == 0){
+			ajax_clrc.open("GET",uri_clrc+"?"+Math.random(), true);
+			ajax_clrc.onreadystatechange = ajax_handle_clrc; 
+			ajax_clrc.send(null); 
+		}
+	} catch(err) { 
+		return;
+	}
+	popedup_clrc.style.visibility="visible";
+	aw=rw(popedup_b2a_clrc);
+	bw=rw(popedup_b2b_clrc);
+	popedup_b2ad_clrc.style.width=rw(poperup_clrc)-2+"px";
+	popedup_b2bd_clrc.style.width=aw+bw-rw(poperup_clrc)+2+"px";
+	poperup_clrc.style.borderWidth="1px 1px 0 1px";
+	poperup_clrc.style.padding="0";
+	poperup_clrc.style.backgroundColor="#FFFFFF";
+	wait_clrc=0;
+	popedup_clrc.onmouseout=timer_clrc;
+	poperup_clrc.onmouseout=timer_clrc;
+	poperup_a_clrc.onmouseout=timer_clrc;
+	popedup_clrc.onmouseover=timer1_clrc;
+	poperup_clrc.onmouseover=timer1_clrc;
+	poperup_a_clrc.onmouseover=timer1_clrc;
+}
+
+function show_sgin(){
+	popedup_sgin.style.visibility="visible";
+	aw=rw(popedup_b2a_sgin);
+	bw=rw(popedup_b2b_sgin);
+	popedup_b2ad_sgin.style.width=rw(poperup_sgin)-2+"px";
+	popedup_b2bd_sgin.style.width=aw+bw-rw(poperup_sgin)+2+"px";
+	poperup_sgin.style.borderWidth="1px 1px 0 1px";
+	poperup_sgin.style.padding="0";
+	poperup_sgin.style.backgroundColor="#FFFFFF";
+	wait_sgin=0;
+	popedup_sgin.onmouseout=timer_sgin;
+	poperup_sgin.onmouseout=timer_sgin;
+	poperup_a_sgin.onmouseout=timer_sgin;
+	popedup_sgin.onmouseover=timer1_sgin;
+	poperup_sgin.onmouseover=timer1_sgin;
+	poperup_a_sgin.onmouseover=timer1_sgin;
+}
+
+function hide_cart(){
+	poperup_cart.style.borderWidth="0";
+	poperup_cart.style.padding="1px 1px 0 1px";
+	popedup_cart.style.visibility="hidden";
+	popedup_cart.onmouseout=null;
+	poperup_cart.onmouseout=show_cart;
+	popedup_cart.onmouseover=null;
+	poperup_cart.onmouseover=null;
+	poperup_a_cart.onmouseout=null;
+	poperup_a_cart.onmouseover=show_cart;
+}
+
+function hide_clrc(){
+	poperup_clrc.style.borderWidth="0";
+	poperup_clrc.style.padding="1px 1px 0 1px";
+	poperup_clrc.style.background="none";
+	popedup_clrc.style.visibility="hidden";
+	popedup_clrc.onmouseout=null;
+	poperup_clrc.onmouseout=show_clrc;
+	popedup_clrc.onmouseover=null;
+	poperup_clrc.onmouseover=null;
+	poperup_a_clrc.onmouseout=null;
+	poperup_a_clrc.onmouseover=show_clrc;
+}
+
+function hide_sgin(){
+	poperup_sgin.style.borderWidth="0";
+	poperup_sgin.style.padding="1px 1px 0 1px";
+	poperup_sgin.style.background="none";
+	popedup_sgin.style.visibility="hidden";
+	popedup_sgin.onmouseout=null;
+	poperup_sgin.onmouseout=show_sgin;
+	popedup_sgin.onmouseover=null;
+	poperup_sgin.onmouseover=null;
+	poperup_a_sgin.onmouseout=null;
+	poperup_a_sgin.onmouseover=show_sgin;
+}
+
+function timer_cart(){
+	setTimeout("timer2_cart("+wait_cart+");",delay)
+}
+
+function timer1_cart(){
+	wait_cart++;
+}
+
+function timer2_cart(old_wait){
+	if (old_wait==wait_cart) hide_cart();
+}
+
+function timer_clrc(){
+	setTimeout("timer2_clrc("+wait_clrc+");",delay)
+}
+
+function timer1_clrc(){
+	wait_clrc++;
+}
+
+function timer2_clrc(old_wait){
+	if (old_wait==wait_clrc) hide_clrc();
+}
+
+function timer_sgin(){
+	setTimeout("timer2_sgin("+wait_sgin+");",delay)
+}
+
+function timer1_sgin(){
+	wait_sgin++;
+}
+
+function timer2_sgin(old_wait){
+	if (old_wait==wait_sgin) hide_sgin();
+}
+
+
+window.onload=popup_init;
+//-->
+</script>
+
 </head>
 
 <body leftmargin="0" topmargin="0" marginwidth="0">
@@ -36,173 +392,322 @@ function createWindow(URL,windowName)
 		<td height="70">
 			<table width="100%" height="70" border="0" cellpadding="0" cellspacing="0">
   				<tbody><tr>
-  					<td width="185" height="70" rowspan="2"><a href="/"><img src="/images/logosolo.gif" width="185" height="40" border="0" alt="Discount vitamins, minerals and supplements"></a></td>
-  					<td rowspan="2">&nbsp;</td>
+  					<td width="185" height="70" rowspan="2"><a href="http://www.evitamins.com"><img src="/images/logosolo.gif" width="185" height="40" border="0" alt="Buy vitamins, supplements, weight loss pills and more!"></a></td>
+  					<td align="right"><table cellpadding="0" cellspacing="5" border="0">
+   								<tbody><tr>
+   									<td class="headernavbox" valign="middle" align="right">
+   										<div align="left">
+											<div id="poperup_cart">
+												<table cellpadding="4" cellspacing="0" border="0">
+													<tbody><tr>
+														<td>
+															<img src="/images/header/icons/new/shoppingcartlogo.gif" id="poperup_a_cart">
+														</td>
+														<td valign="top">
+															<a href="http://www.evitamins.com/add2cart.asp" id="poperup_a_cart">Cart</a>
+														</td>
+													</tr>
+												</tbody></table>
+											</div>
+											<div id="popedup_cart">
+												<table cellpadding="0" cellspacing="0" border="0" id="popedup_b_cart">
+													<tbody><tr>
+														<td id="popedup_b1_cart"><div></div></td>
+														<td id="popedup_b2a_cart"><div id="popedup_b2ad_cart"></div></td>
+														<td id="popedup_b2b_cart"><div id="popedup_b2bd_cart"></div></td>
+														<td id="popedup_b3_cart"><div></div></td>
+													</tr>
+													<tr>
+														<td id="popedup_b4_cart"><div></div></td>
+														<td id="popedup_b5_cart" colspan="2"><img src="/images/body/buttons/loading.gif">&nbsp;Loading ...</td>
+														<td id="popedup_b6_cart"><div></div></td>
+													</tr>
+													<tr>
+														<td id="popedup_b7_cart"><div></div></td>
+														<td id="popedup_b8_cart" colspan="2"></td>
+														<td id="popedup_b9_cart"><div></div></td>
+													</tr>
+												</tbody></table>
+											</div>
+										</div>
+   									</td>
+   									<td class="headernavbox">|</td>
+   									<td class="headernavbox">
+   									 Item(s):&nbsp;
+   										<b>$0.00</b>
+   									</td>
+   									<td class="headernavbox">|</td>
+   									<td class="headernavbox">
+   										<a href="https://www.evitamins.com/checkout/" rel="nofollow">Checkout</a>
+   									</td>
+   								</tr>
+   							</tbody></table></td>
   					<td align="right">
-  					<table border="0" cellpadding="0" cellspacing="0">
+  					<table border="0" cellpadding="0" cellspacing="7">
     				<tbody><tr>
-   						<td height="15"><img src="/images/clear_pix.gif" width="1" height="1"></td>
-   						<td><a href="faq.asp" rel="nofollow"><img src="/images/header/icons/new/customerservice.gif" border="0"></a><img src="/images/header/icons/new/spacer.gif"></td>
-   						<td><a href="account.asp" rel="nofollow"><img src="/images/header/icons/new/myaccount.gif" border="0"></a><img src="/images/header/icons/new/spacer.gif"></td>
-   						<td><a href="add2cart.asp" rel="nofollow"><img src="/images/header/icons/new/viewcart.gif" border="0"></a><img src="/images/header/icons/new/spacer.gif"></td>
-   						<td><a href="shipping1.asp" rel="nofollow"><img src="/images/header/icons/new/checkout.gif" border="0"></a></td>
+   						<td height="15">
+   							<img src="/images/clear_pix.gif" width="1" height="1">
+   						</td>
+   						<td class="headernavboxmyaccount">
+   							<a href="https://www.evitamins.com/myaccount/" rel="nofollow">My Account</a>
+   						</td>
+   						<td class="headernavbox">|</td>
+   						<td class="headernavboxcoupon" style="padding-left: 1px; padding-right: 1px;">
+							<div id="poperup_clrc">
+								<div style="padding-left:2px; padding-right:2px">
+									<a href="http://www.evitamins.com/sale_items.asp" id="poperup_a_clrc" rel="nofollow">Clearance</a>
+								</div>
+							</div>
+							<div id="popedup_clrc">
+								<table cellpadding="0" cellspacing="0" border="0" id="popedup_b_clrc">
+									<tbody><tr>
+										<td id="popedup_b1_clrc"><div></div></td>
+										<td id="popedup_b2a_clrc"><div id="popedup_b2ad_clrc"></div></td>
+										<td id="popedup_b2b_clrc"><div id="popedup_b2bd_clrc"></div></td>
+										<td id="popedup_b3_clrc"><div></div></td>
+									</tr>
+									<tr>
+										<td id="popedup_b4_clrc"><div></div></td>
+										<td id="popedup_b5_clrc" colspan="2"><img src="/images/body/buttons/loading.gif">&nbsp;Loading ...</td>
+										<td id="popedup_b6_clrc"><div></div></td>
+									</tr>
+									<tr>
+										<td id="popedup_b7_clrc"><div></div></td>
+										<td id="popedup_b8_clrc" colspan="2"></td>
+										<td id="popedup_b9_clrc"><div></div></td>
+									</tr>
+								</tbody></table>
+							</div>
+   						</td>
+   						<td class="headernavbox">|</td>
+   						<td class="headernavbox">
+   							<a href="https://www.evitamins.com/myaccount/shoplist.asp" rel="nofollow">Re-Order</a>
+   						</td>
+   						<td class="headernavbox">|</td>
+   						<td class="headernavbox">
+   							<a href="http://www.evitamins.com/faq.asp" rel="nofollow">Help</a>
+   						</td>
+   					</tr>
+   					<tr>
+   						<td colspan="8">
+   							<table border="0" cellspacing="0" cellpadding="1" width="100%">
+								<tbody><tr>
+									<td bgcolor="#CFD0D1">
+										<table border="0" cellpadding="0" cellspacing="0" width="100%">
+											<tbody><tr>
+												<td class="headernavboxbg" width="100%">
+													<table width="100%" cellpadding="4" cellspacing="0" border="0">
+														
+															<tbody><tr>
+																<td class="headernavbox">
+																	<div id="poperup_sgin">&nbsp;
+																	<a id="poperup_a_sgin" href="https://www.evitamins.com/myaccount/login.asp" rel="nofollow">Sign In</a>
+																</div>
+																<div id="popedup_sgin">
+																	<table cellpadding="0" cellspacing="0" border="0" id="popedup_b_sgin">
+																		<tbody><tr>
+																			<td id="popedup_b1_sgin"><div></div></td>
+																			<td id="popedup_b2a_sgin"><div id="popedup_b2ad_sgin"></div></td>
+																			<td id="popedup_b2b_sgin"><div id="popedup_b2bd_sgin"></div></td>
+																			<td id="popedup_b3_sgin"><div></div></td>
+																		</tr>
+																		<tr>
+																			<td id="popedup_b4_sgin"><div></div></td>
+																			<td id="popedup_b5_sgin" colspan="2">
+																				<form action="https://www.evitamins.com/myaccount/loginheader.asp?page=/privacy.asp?" method="post">
+																					E-mail address:<br><input name="email"><br><br>
+																					Password:<br><input name="password" type="password">
+																					<input type="hidden" value="old" name="custype"><input type="hidden" value="yes" name="action"><input type="hidden" value="off" name="http"><br><br>
+																					<table cellpadding="2" cellspacing="0" border="0" width="200">
+																						<tbody><tr>
+																							<td><input type="image" src="/images/body/buttons/logintoaccount.gif" name="submit"></td>
+																							<td class="lctext"><a href="forgot_psswrd.asp">Forgot Password</a></td>
+																						</tr>
+																					</tbody></table>
+																				</form>
+																			</td>
+																			<td id="popedup_b6_sgin"><div></div></td>
+																		</tr>
+																		<tr>
+																			<td id="popedup_b7_sgin"><div></div></td>
+																			<td id="popedup_b8_sgin" colspan="2"></td>
+																			<td id="popedup_b9_sgin"><div></div></td>
+																		</tr>
+																	</tbody></table>
+																</div>
+																</td>
+																<td class="headernavbox" align="right">New User? <a href="https://www.evitamins.com/shopping.asp" rel="nofollow"><span class="headernavboxmyaccount">Start Here</span></a></td>
+															</tr>
+														
+													</tbody></table>
+												</td>
+											</tr>
+										</tbody></table>
+									</td>
+								</tr>
+   							</tbody></table>
+   						</td>
    					</tr>
    					
    				</tbody></table>
   		</td>
   		</tr>
-  	</tbody></table></td>
+  	</tbody></table><br></td>
 	</tr>
-	<tr>
-	<td><div id="topbuttons">
-<table border="0" align="left" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td class="offleft">&nbsp;</td>
-		<td class="offmid"><span class="defaultnav"><a href="/">Home</a></span></td>
-		<td class="offright">&nbsp;</td>
+	</tbody></table>
+<!--######### BEGIN TABS #################################-->
+<div id="container">
+<table width="98%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td>
+<div id="container">
+<ul id="navigation_menu">
+	<li><a href="http://www.evitamins.com/personalcare_main.asp" class="l1" onmouseover="h_s()" onmouseout="s_s()">&nbsp;&nbsp;<img src="/images/nav/headerbluedown.gif" border="0">&nbsp;Bath &amp; Beauty&nbsp;&nbsp;</a>
+		<ul>
+			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid_sub.asp?catID=78&amp;subID=38">&nbsp;&nbsp;Batherapy</a></li>
+			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid2.asp?catID=144">&nbsp;&nbsp;Conditioner</a></li>
+			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid_sub.asp?catID=78&amp;subID=607">&nbsp;&nbsp;Cosmetics</a></li>
+			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid2.asp?catID=142">&nbsp;&nbsp;Deodorant</a></li>
+			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid2.asp?catID=74">&nbsp;&nbsp;Hair Products</a></li>
+			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid2.asp?catID=101">&nbsp;&nbsp;Mouth Care</a></li>
+			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid2.asp?catID=85">&nbsp;&nbsp;Pain Relief</a></li>
+			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid2.asp?catID=131">&nbsp;&nbsp;Soap</a></li>
+			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid2.asp?catID=143">&nbsp;&nbsp;Shampoo</a></li>
+			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid_sub.asp?catID=78&amp;subID=686">&nbsp;&nbsp;Shaving Cream</a></li>
+			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/skincare_main.asp">&nbsp;&nbsp;Skin Care</a></li>
+			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid2.asp?catID=133">&nbsp;&nbsp;Toothpaste</a></li>
+			<li><a onmouseover="h_s()" onmouseout="s_s()" style="border-bottom:1px solid #4C83C8" href="http://www.evitamins.com/product_grid2.asp?catID=150">&nbsp;&nbsp;Travel Products</a></li>
+		</ul>
+	</li>
+	<li><a href="http://www.evitamins.com/sportsnutrition_main.asp" class="l2" onmouseover="h_s()" onmouseout="s_s()">&nbsp;&nbsp;<img src="/images/nav/headerbluedown.gif" border="0">&nbsp;Bodybuilding&nbsp;&nbsp;</a>
+		<ul>
+			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid2.asp?catID=49">&nbsp;&nbsp;Amino Acids</a></li>
+			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid_sub.asp?catID=32&amp;subID=248">&nbsp;&nbsp;Anabolic</a></li>
+			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid2.asp?catID=103">&nbsp;&nbsp;Bars</a></li>
+			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid_sub.asp?catID=32&amp;subID=250">&nbsp;&nbsp;Cell Volumizers</a></li>
+			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid2.asp?catID=122">&nbsp;&nbsp;Creatine Supplements</a></li>
+			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid2.asp?catID=96">&nbsp;&nbsp;Growth Hormones (HGH) </a></li>
+			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid_sub.asp?catID=32&amp;subID=251">&nbsp;&nbsp;Hardcore Supplements</a></li>
+			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid2.asp?catID=123">&nbsp;&nbsp;Meal Replacements</a></li>
+			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid_sub.asp?catID=32&amp;subID=95">&nbsp;&nbsp;Muscle Recovery</a></li>
+			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid2.asp?catID=121">&nbsp;&nbsp;NO2 Supplements</a></li>
+			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid_sub.asp?catID=32&amp;subID=388">&nbsp;&nbsp;Posing - Tanning Gels</a></li>
+			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid2.asp?catID=102">&nbsp;&nbsp;Protein</a></li>
+			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid_sub.asp?catID=32&amp;subID=98">&nbsp;&nbsp;Runner's Care</a></li>
+			<li><a onmouseover="h_s()" onmouseout="s_s()" style="border-bottom:1px solid #4C83C8" href="http://www.evitamins.com/product_grid2.asp?catID=124">&nbsp;&nbsp;Weight Gainers</a></li>
+		</ul>
+	</li>
+	<li><a href="http://www.evitamins.com/herbs_main.asp" class="l3">&nbsp;&nbsp;<img src="/images/nav/headerbluedown.gif" border="0">&nbsp;Herbs&nbsp;&nbsp;</a>
+		<ul>
+			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=62&amp;subID=139">&nbsp;&nbsp;Alfalfa</a></li>
+			<li><a href="http://www.evitamins.com/product_grid2.asp?catID=151">&nbsp;&nbsp;Aloe Vera</a></li>
+			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=62&amp;subID=175">&nbsp;&nbsp;Dandelion</a></li>
+			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=62&amp;subID=179">&nbsp;&nbsp;Echinacea</a></li>
+			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=62&amp;subID=455">&nbsp;&nbsp;Ginger</a></li>
+			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=62&amp;subID=140">&nbsp;&nbsp;Ginseng</a></li>
+			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=62&amp;subID=199">&nbsp;&nbsp;Kelp</a></li>
+			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=62&amp;subID=420">&nbsp;&nbsp;Olive Leaf </a></li>
+			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=62&amp;subID=419">&nbsp;&nbsp;Oregano</a></li>
+			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=62&amp;subID=411">&nbsp;&nbsp;Mushroom</a></li>
+			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=62&amp;subID=543">&nbsp;&nbsp;Saw Palmetto</a></li>
+			<li><a style="border-bottom:1px solid #4C83C8" href="http://www.evitamins.com/herbs_main.asp">&nbsp;&nbsp;MORE HERBS...</a></li>
+		</ul>
+	</li>
+	<li><a href="http://www.evitamins.com/pets_main.asp" class="l4">&nbsp;&nbsp;<img src="images/nav/headerbluedown.gif" border="0">&nbsp;Pets&nbsp;&nbsp;</a>
+		<ul>
+			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=100&amp;subID=688">&nbsp;&nbsp;Accessories</a></li>
+			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=100&amp;subID=374">&nbsp;&nbsp;Anxiety</a></li>
+			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=100&amp;subID=441">&nbsp;&nbsp;Appetite Control</a></li>
+			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=100&amp;subID=441">&nbsp;&nbsp;Bites/Cuts/Wounds</a></li>
+			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=100&amp;subID=370">&nbsp;&nbsp;Cat Vitamins</a></li>
+			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=100&amp;subID=442">&nbsp;&nbsp;Digestion</a></li>
+			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=100&amp;subID=369">&nbsp;&nbsp;Dog Vitamins</a></li>
+			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=100&amp;subID=368">&nbsp;&nbsp;Fresh Breath</a></li>
+			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=100&amp;subID=372">&nbsp;&nbsp;General Pet Formulas</a></li>
+			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=100&amp;subID=371">&nbsp;&nbsp;Joint Formulas</a></li>
+			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=100&amp;subID=375">&nbsp;&nbsp;Separation Formulas</a></li>
+			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=100&amp;subID=444">&nbsp;&nbsp;Skin &amp; Coat Formulas</a></li>
+			<li><a style="border-bottom:1px solid #4C83C8" href="http://www.evitamins.com/product_grid_sub.asp?catID=100&amp;subID=689">&nbsp;&nbsp;Treats</a></li>
+		</ul>
+	</li>
+	<li><a href="http://www.evitamins.com/sexual_main.asp" class="l5">&nbsp;&nbsp;<img src="/images/nav/headerbluedown.gif" border="0">&nbsp;Sexual&nbsp;&nbsp;</a>
+		<ul>
+			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=51&amp;subID=134">&nbsp;&nbsp;Condoms</a></li>
+			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=51&amp;subID=665">&nbsp;&nbsp;Erectile Dysfunction</a></li>
+			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=51&amp;subID=131">&nbsp;&nbsp;Female Performance</a></li>
+			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=51&amp;subID=132">&nbsp;&nbsp;Lubricants</a></li>
+			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=51&amp;subID=133">&nbsp;&nbsp;Male Enhancement</a></li>
+			<li><a style="border-bottom:1px solid #4C83C8" href="http://www.evitamins.com/product_grid_sub.asp?catID=51&amp;subID=130">&nbsp;&nbsp;Male Performance</a></li>
+		</ul>
+	</li>
+	<li><a href="http://www.evitamins.com/vitamins_main.asp" class="l6">&nbsp;&nbsp;<img src="/images/nav/headerbluedown.gif" border="0">&nbsp;Vitamins&nbsp;&nbsp;</a>
+		<ul>
+			<li><a href="http://www.evitamins.com/product_grid2.asp?catID=3">&nbsp;&nbsp;Antioxidants</a></li>
+			<li><a href="http://www.evitamins.com/liquid_vitamins.asp">&nbsp;&nbsp;Liquid Vitamins</a></li>
+			<li><a href="http://www.evitamins.com/minerals_main.asp">&nbsp;&nbsp;Minerals</a></li>
+			<li><a href="http://www.evitamins.com/product_grid2.asp?catID=57">&nbsp;&nbsp;Multiple Vitamins</a></li>
+			<li><a href="http://www.evitamins.com/product_grid2.asp?catID=113">&nbsp;&nbsp;Prenatal Vitamins</a></li>
+			<li><a href="http://www.evitamins.com/product_grid2.asp?catID=52">&nbsp;&nbsp;Vitamin A</a></li>
+			<li><a href="http://www.evitamins.com/product_grid2.asp?catID=53">&nbsp;&nbsp;Vitamin B</a></li>
+			<li><a href="http://www.evitamins.com/product_grid2.asp?catID=54">&nbsp;&nbsp;Vitamin C</a></li>
+			<li><a href="http://www.evitamins.com/product_grid2.asp?catID=55">&nbsp;&nbsp;Vitamin D</a></li>
+			<li><a href="http://www.evitamins.com/product_grid2.asp?catID=56">&nbsp;&nbsp;Vitamin E</a></li>
+			<li><a style="border-bottom:1px solid #4C83C8" href="http://www.evitamins.com/product_grid2.asp?catID=89">&nbsp;&nbsp;Vitamin K</a></li>
+		</ul>
+	</li>
+	<li><a href="http://www.evitamins.com/weightloss_main.asp" class="l7">&nbsp;&nbsp;<img src="/images/nav/headerbluedown.gif" border="0">&nbsp;Weight Loss&nbsp;&nbsp;</a>
+		<ul>
+			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=27&amp;subID=114">&nbsp;&nbsp;Appetite Suppressants</a></li>
+			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=27&amp;subID=115">&nbsp;&nbsp;Apple Cider Vinegar</a></li>
+			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=27&amp;subID=116">&nbsp;&nbsp;Body Fat Calculators</a></li>
+			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=27&amp;subID=94">&nbsp;&nbsp;Carb Blockers</a></li>
+			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=27&amp;subID=119">&nbsp;&nbsp;Cellulite Treatment</a></li>
+			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=27&amp;subID=87">&nbsp;&nbsp;Diuretics</a></li>
+			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=27&amp;subID=118">&nbsp;&nbsp;Fat Blockers</a></li>
+			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=27&amp;subID=86">&nbsp;&nbsp;Fat Burners</a></li>
+			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=3&amp;subID=137">&nbsp;&nbsp;Green Tea</a></li>
+			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=27&amp;subID=89">&nbsp;&nbsp;Hoodia Diet Pills</a></li>
+			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=27&amp;subID=91">&nbsp;&nbsp;Metabolism Booster</a></li>
+			<li><a style="border-bottom:1px solid #4C83C8" href="http://www.evitamins.com/product_grid_sub.asp?catID=27&amp;subID=519">&nbsp;&nbsp;Thyroid Balance</a></li>
+		</ul>
+	</li>
+	<li><a href="http://www.evitamins.com/viewallcategories.asp" class="l8">&nbsp;&nbsp;<img src="/images/nav/headerbluedown.gif" border="0">&nbsp;Other Categories&nbsp;&nbsp;</a>
+		<ul>
+			<li><a href="http://www.evitamins.com/product_grid2.asp?catID=92">&nbsp;&nbsp;Anxiety</a></li>
+			<li><a href="http://www.evitamins.com/product_grid2.asp?catID=4">&nbsp;&nbsp;Arthritis</a></li>
+			<li><a href="http://www.evitamins.com/child_main.asp">&nbsp;&nbsp;Baby</a></li>
+			<li><a href="http://www.evitamins.com/child_main.asp">&nbsp;&nbsp;Children</a></li>
+			<li><a href="http://www.evitamins.com/cholesterol_main.asp">&nbsp;&nbsp;Cholesterol</a></li>
+			<li><a href="http://www.evitamins.com/cold_flu_main.asp">&nbsp;&nbsp;Cold &amp; Flu</a></li>
+			<li><a href="http://www.evitamins.com/product_grid2.asp?catID=13">&nbsp;&nbsp;Detox</a></li>
+			<li><a href="http://www.evitamins.com/digestion_main.asp">&nbsp;&nbsp;Digestion</a></li>
+			<li><a href="http://www.evitamins.com/product_grid2.asp?catID=15">&nbsp;&nbsp;Energy</a></li>
+			<li><a href="http://www.evitamins.com/product_grid2.asp?catID=17">&nbsp;&nbsp;Heart Support</a></li>
+			<li><a href="http://www.evitamins.com/product_grid2.asp?catID=149">&nbsp;&nbsp;Household Items</a></li>
+			<li><a href="http://www.evitamins.com/product_grid2.asp?catID=112">&nbsp;&nbsp;Inflammation</a></li>
+			<li><a href="http://www.evitamins.com/mens_main.asp">&nbsp;&nbsp;Men's Health</a></li>
+			<li><a href="http://www.evitamins.com/product_grid2.asp?catID=24">&nbsp;&nbsp;Stress</a></li>
+			<li><a href="http://www.evitamins.com/womans_main.asp">&nbsp;&nbsp;Women's Health</a></li>
+			<li><a style="border-bottom:1px solid #4C83C8" href="http://www.evitamins.com/viewallcategories.asp">&nbsp;&nbsp;MORE CATEGORIES...</a></li>
+		</ul>
+	</li>
+</ul>
+</div><!--/container-->
+</td></tr>
+<tr>
+<td>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+	 <tbody><tr>
+		<td class="bluebar">
+			<table cellpadding="0" cellspacing="0" width="100%">
+				<tbody><tr>
+					<td class="bluebar">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.evitamins.com/viewallproducts.asp">Shop By Product</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.evitamins.com/viewallbrands.asp">Shop By Brand</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.evitamins.com/shopbygender.asp">Shop By Gender</a></td>
+					<td width="240" align="right" class="bluebar">Order Toll-Free 1-888-222-6056&nbsp;</td>
+				</tr>
+			</tbody></table>
+		</td>
 	</tr>
 </tbody></table>
-<table border="0" align="left" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td class="offleft">&nbsp;</td>
-		<td class="offmid"><span class="defaultnav"><a href="vitamins_main.asp">Vitamins</a></span></td>
-		<td class="offright">&nbsp;</td>
-	</tr>
-</tbody></table>
-<table border="0" align="left" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td class="offleft">&nbsp;</td>
-		<td class="offmid"><span class="defaultnav"><a href="minerals_main.asp">Minerals</a></span></td>
-		<td class="offright">&nbsp;</td>
-	</tr>
-</tbody></table>
-<table border="0" align="left" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td class="offleft">&nbsp;</td>
-		<td class="offmid"><span class="defaultnav"><a href="herbs_main.asp">Herbs</a></span></td>
-		<td class="offright">&nbsp;</td>
-	</tr>
-</tbody></table>
-<table border="0" align="left" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td class="offleft">&nbsp;</td>
-		<td class="offmid"><span class="defaultnav"><a href="weightloss_main.asp">Weight Loss</a></span></td>
-		<td class="offright">&nbsp;</td>
-	</tr>
-</tbody></table>
-<table border="0" align="left" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td class="offleft">&nbsp;</td>
-		<td class="offmid"><span class="defaultnav"><a href="skincare_main.asp">Skin Care</a></span></td>
-		<td class="offright">&nbsp;</td>
-	</tr>
-</tbody></table>
-<table border="0" align="left" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td class="offleft">&nbsp;</td>
-		<td class="offmid"><span class="defaultnav"><a href="sportsnutrition_main.asp">Sports Nutrition</a></span></td>
-		<td class="offright">&nbsp;</td>
-	</tr>
-</tbody></table>
-<table border="0" align="left" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td class="offleft">&nbsp;</td>
-		<td class="offmid"><span class="defaultnav"><a href="personalcare_main.asp">Personal Care</a></span></td>
-		<td class="offright">&nbsp;</td>
-	</tr>
-</tbody></table>
-<table border="0" align="left" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td class="offleft">&nbsp;</td>
-		<td class="offmid"><span class="defaultnav"><a href="pets_main.asp">Pets</a></span></td>
-		<td class="offright">&nbsp;</td>
-	</tr>
-</tbody></table>
-<table border="0" align="left" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td class="offleft">&nbsp;</td>
-		<td class="offmid"><span class="defaultnav"><a href="sale_items.asp">Sale Items</a></span></td>
-		<td class="offright">&nbsp;</td>
-	</tr>
-</tbody></table>
-</div>
-<div id="btmbuttons">
-<table border="0" align="left" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td class="offleft">&nbsp;</td>
-		<td class="offmid"><span class="defaultnav"><a href="child_main.asp">Child &amp; Baby</a></span></td>
-		<td class="offright">&nbsp;</td>
-	</tr>
-</tbody></table>
-<table border="0" align="left" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td class="offleft">&nbsp;</td>
-		<td class="offmid"><span class="defaultnav"><a href="mens_main.asp">Men's Health</a></span></td>
-		<td class="offright">&nbsp;</td>
-	</tr>
-</tbody></table>
-<table border="0" align="left" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td class="offleft">&nbsp;</td>
-		<td class="offmid"><span class="defaultnav"><a href="womans_main.asp">Women's Health</a></span></td>
-		<td class="offright">&nbsp;</td>
-	</tr>
-</tbody></table>
-<table border="0" align="left" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td class="offleft">&nbsp;</td>
-		<td class="offmid"><span class="defaultnav"><a href="cholesterol_main.asp">Cholesterol</a></span></td>
-		<td class="offright">&nbsp;</td>
-	</tr>
-</tbody></table>
-<table border="0" align="left" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td class="offleft">&nbsp;</td>
-		<td class="offmid"><span class="defaultnav"><a href="cold_flu_main.asp">Cold &amp; Flu</a></span></td>
-		<td class="offright">&nbsp;</td>
-	</tr>
-</tbody></table>
-<table border="0" align="left" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td class="offleft">&nbsp;</td>
-		<td class="offmid"><span class="defaultnav"><a href="stress_main.asp">Stress</a></span></td>
-		<td class="offright">&nbsp;</td>
-	</tr>
-</tbody></table>
-<table border="0" align="left" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td class="offleft">&nbsp;</td>
-		<td class="offmid"><span class="defaultnav"><a href="digestion_main.asp">Digestion</a></span></td>
-		<td class="offright">&nbsp;</td>
-	</tr>
-</tbody></table>
-<table border="0" align="left" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td class="offleft">&nbsp;</td>
-		<td class="offmid"><span class="defaultnav"><a href="sexual_main.asp">Sexual</a></span></td>
-		<td class="offright">&nbsp;</td>
-	</tr>
-</tbody></table>
-<table border="0" align="left" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td class="orangeleft">&nbsp;</td>
-		<td class="orangemid"><span class="defaultnav"><a href="viewallcategories.asp">More Categories</a></span></td>
-		<td class="orangeright">&nbsp;</td>
-	</tr>
-</tbody></table>
-</div></td>
-	</tr>
-	<tr>
-	<td bgcolor="#495595">
-	<table class="topmenu" cellpadding="0" cellspacing="0" width="100%">
-	<tbody><tr>
-  		<td height="25" style="padding-left:5px; padding-right:5px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="viewallproducts.asp">SHOP BY PRODUCT</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="viewallbrands.asp">SHOP BY BRAND</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="myshoppinglist.asp">Need To Re-Order?</a></td>
-  		<td width="240" align="right">Order Toll-Free 1-888-222-6056&nbsp;</td>
-  	</tr></tbody></table>
-  	</td>
-  	</tr>
-</tbody></table>
-<!--######### END HEADER #################################--><!--######### BEGIN PROMO HEADER #################################-->
+<!--######### END HEADER #################################-->
+</td></tr></tbody></table><!--######### BEGIN PROMO HEADER #################################-->
 <!--<table width="98%"  border="0" cellpadding="0" cellspacing="0" bgcolor="#D6E7F7">
 	<tr>
 		<td height="35">
@@ -215,14 +720,12 @@ function createWindow(URL,windowName)
 	</tr>
 </table>-->
 <!--######### END PROMO HEADER #################################-->
-<table width="98%" border="0" cellpadding="0" cellspacing="0" bgcolor="#E0FFCE">
+<table width="98%" border="0" cellpadding="0" cellspacing="0" class="promobar">
 <tbody><tr>
 		<td>
-			<table width="100%" border="0" cellspacing="0" cellpadding="2">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
   				<tbody><tr>
-  					<td align="center">
-  					<font size="2" face="Verdana,Arial,Helvetica,sans-serif"><b><font color="#990000">WELCOME!</font></b>&nbsp;<b>New to eVitamins?</b> <a href="login_new.asp">Start here</a>.&nbsp;<b>Returning customer?</b> <a href="reorderinfo.asp">Re-Order</a></font></td>
-  					
+  					<td align="center"><img src="/images/nav/promobar/summer.gif"></td>
   				</tr>
   			</tbody></table>
   		</td>
@@ -232,160 +735,131 @@ function createWindow(URL,windowName)
 <table width="98%" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
 	<!--########## BEGIN Side Bar ###################################-->
-<td width="190" valign="top" bgcolor="#ffffff"><br>
-			<!--########## BEGIN Search Box ###################################-->
-			<table border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr valign="bottom" align="center">
-					<td><table width="190" border="0" cellspacing="0" cellpadding="0"><tbody><tr valign="top" bgcolor="#1D6249"><td width="5"><img src="/images/searchbox/eyebrow-upper-left-corner.gif" width="5" height="5" border="0"></td>
-								<td><table width="99%" border="0" cellspacing="3" cellpadding="0"><tbody><tr><td align="left" valign="bottom" class="eyebrow"><font face="verdana" size="1" color="#ffffff"><b>SEARCH</b><font></font></font></td>
-										</tr>
-									</tbody></table></td>
-								<td width="5" align="right"><img src="/images/searchbox/eyebrow-upper-right-corner.gif" width="5" height="5" border="0"></td>
-							</tr>
-						</tbody></table></td>
-				</tr>
-				<tr valign="top" align="center">
-					<td>
-			<table border="0" width="190" cellpadding="1" cellspacing="0" bgcolor="#708090">
-				<tbody><tr>
-					<td width="100%">
-						<table width="100%" border="0" cellpadding="4" cellspacing="0" bgcolor="#708090">
-							<tbody><tr>
-								<form method="get" action="searchpage.asp" name="searchform"></form>
-								<td bgcolor="#FFF0B4" valign="top" width="100%">
-										<select name="infoType">
-											<option value="">Select a Category</option>
-     										<option value="products">Products</option>
-     										<option value="ingredients">Ingredients</option>
-     										<option value="encyclopedia">Encyclopedia</option>
-     										<option value="health recipes">Health Recipes</option>
-     									</select>
-										<input type="text" name="keyword" size="15">
-										<input type="image" height="21" width="21" border="0" value="Go" name="Go" src="/images/searchbox/go-button-books.gif" align="absmiddle">
-								</td>
-								<input type="hidden" name="action" value="yes">
-								
-							</tr>
-						</tbody></table>
-					</td>
-				</tr>
-			</tbody></table>
-		</td></tr>
-	</tbody></table>
+<td width="190" valign="top" bgcolor="#ffffff">
+<br>
+<div id="leftCol">
+	<div class="title"><img src="/images/nav/searchsitehead.gif"></div>
+	<div class="boxed">
+		<div class="search">
+			<form method="get" action="http://www.evitamins.com/searchpage.asp" name="searchform">
+				<select name="infoType" class="searchboxmain">
+					<option value="">Select a Category</option>
+     				<option value="products">Products</option>
+     				<option value="ingredients">Ingredients</option>
+     				<option value="encyclopedia">Encyclopedia</option>
+     				<option value="health recipes">Health Recipes</option>
+     			</select>
+     			<input type="text" name="keyword" size="15" class="form-input">
+				<input type="image" border="0" value="Go" name="Go" src="/images/searchbox/go-button-gateway.gif" align="absmiddle">
+				<input type="hidden" name="action" value="yes">
+			</form>
+			<img src="/images/clear.gif" width="1" height="4" border="0"><div><img src="/images/nav/bottom_box.gif" width="190"></div>
+	</div></div></div>			
 	<!--########## END Search Box ###################################-->
 	<!--########## BEGIN NEWSLETTER ###################################-->
 	<br>
-	<table width="190" border="0" cellspacing="0" cellpadding="0" bgcolor="#EBEBFA">
-  		<tbody><tr>
-  			<td height="20" align="center"><img src="/images/left_column/newsletters.gif"></td>
-  		</tr>
-  		<tr>
-  			<td style="padding:5px;" class="default">
-  				<table width="180" border="0" cellpadding="0" cellspacing="0" class="default">
-    				<tbody><tr>
-    					<td>
-    						<a href="catalogsignup.asp"><img border="0" src="/images/temporary%20graphics/temporary_image.jpg" width="59" height="74" align="left"></a>
-    						<font color="#C61212"><b>Free!</b></font>&nbsp;&nbsp;Product catalog delivered direct.<br><a href="catalogsignup.asp"><img src="/images/left_column/buttons/get_it.gif" width="68" height="20" border="0"></a><br><a href="catalog_online.asp"><img src="/images/left_column/buttons/download.gif" width="68" height="20" border="0"></a>
-    					</td>
-    				</tr>
-    			</tbody></table>
-    		</td>
-  		</tr>
-  	</tbody></table>
+			<table border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr valign="top" align="center">
+				<td>
+					<table border="0" cellpadding="0" cellspacing="1" bgcolor="#ffffff">
+						<tbody><tr>
+							<td width="100%">
+								<table width="100%" border="0" cellpadding="0" cellspacing="0">
+									<tbody><tr>
+										<td valign="top" width="100%" bgcolor="#ffffff">
+											<table width="100%" border="0" cellspacing="0" cellpadding="0">
+												<tbody><tr>
+													<td align="center"><img src="/images/nav/catalogmain.gif"></td>
+												</tr>
+												<tr class="catalogback">
+													<td height="25" align="center"><a href="http://www.evitamins.com/catalogsignup.asp"><img src="/images/body/buttons/but_catalog_mail.gif" width="72" height="22" border="0"></a>&nbsp;&nbsp;<a href="http://www.evitamins.com/catalog_online.asp"><img src="/images/body/buttons/but_catalog_online.gif" width="73" height="22" border="0"></a></td>
+												</tr>
+												<tr>
+													<td><img src="/images/nav/bottom_box.gif" width="190"></td>
+												</tr>
+											</tbody></table>
+										</td>
+									</tr>
+								</tbody></table>
+							</td>
+						</tr>
+					</tbody></table>
+				</td></tr>
+			</tbody></table>
   	<br>
   	<!--########## END NEWSLETTER ###################################-->
-  	 <!--########## BEGIN OTHER WAYS TO SHOP SELECTION ###################################-->
-	<table width="190" border="0" cellspacing="0" cellpadding="0" bgcolor="#EBEBFA">
-  		<tbody><tr>
-  			<td height="20" align="center"><img src="/images/left_column/moreways.gif"></td>
-  		</tr>
-  		<tr>
-  			<td style="padding:5px;">
-  				<table width="180" border="0" cellspacing="0" cellpadding="0">
-     				<tbody><tr>
-     					<td class="menuitems">
-     					<ul>
-     						<li><a href="viewallcategories.asp">Shop by Category</a></li>
-							<li><a href="viewallbrands.asp">Shop by Brand</a></li>
-							<li><a href="viewallproducts.asp">Shop by Product</a></li>
-						</ul>
-						</td>
-     				</tr>
-     			</tbody></table>
-    	       </td>
-  			</tr>
-  		</tbody></table>
-  		<!--########## END OTHER SHOPPING SELECTION ###################################-->
-  		<!--########## BEGIN MY VITAMINS SELECTION ###################################-->
-		<table width="190" border="0" cellspacing="0" cellpadding="0" bgcolor="#EBEBFA">
-  			<tbody><tr>
-  				<td height="20" align="center"><img src="/images/left_column/myvitamins.gif"></td>
-  			</tr>
-  			<tr>
-  				<td style="padding:5px;">
-  					<table width="180" border="0" cellspacing="0" cellpadding="0">
-  						<tbody><tr>
-  							<td class="menuitems">
-  								<ul>
-  									<li><a href="faq.asp" rel="nofollow">Help Center</a></li>
-  									<li><a href="cantfindit.asp" rel="nofollow">Can't Find It? </a></li>
-  									<li><a href="whyshophere.asp" rel="nofollow">Satisfaction Guaranteed</a></li>
-  									<li><a href="shippingpol.asp" rel="nofollow">Shipping Information</a></li>
-  									<li><a href="refunds.asp" rel="nofollow">Returns</a></li>
-  									<li><a href="privacy.asp" rel="nofollow">Privacy &amp; Security</a></li>
-  									<li><a href="aboutus.asp" rel="nofollow">About eVitamins</a></li>
-  									<li><a href="affiliates.asp" rel="nofollow">Affiliate Programs</a></li>
-  								</ul>
-  							</td>
-  						</tr>
-  					</tbody></table>
-  				</td>
-  			</tr>
-  		</tbody></table>
-  		<!--########## END MY VITAMINS SELECTION ###################################-->
+	<!--########## BEGIN Shopping Methods SELECTION ###################################-->
+  	<div id="leftCol">
+	<div class="title"><img src="/images/nav/shoppingmethodshead.gif"></div>
+	<div id="browse" class="boxed">
+	<ul>
+		<li><a href="http://www.evitamins.com/viewallcategories.asp">Shop by Category</a></li>
+		<li><a href="http://www.evitamins.com/viewallbrands.asp">Shop by Brand</a></li>
+		<li><a href="http://www.evitamins.com/shopbygender.asp">Shop by Gender</a></li>
+		<li><a href="http://www.evitamins.com/viewallproducts.asp">Shop by Product</a></li>
+	</ul>
+	<img src="/images/clear.gif" width="1" height="4" border="0"><br>
+	<div><img src="/images/nav/bottom_box.gif" width="190"></div>
+</div></div>
+  		<br>
+  		<!--########## END Shopping Methods SELECTION ###################################-->
+  		<!--########## BEGIN Customer Service SELECTION ###################################-->
+  		<div id="leftCol">
+	<div class="title"><img src="/images/nav/customerservicehead.gif"></div>
+	<div id="browse" class="boxed">
+	<ul>
+		<li><a href="http://www.evitamins.com/aboutus.asp" rel="nofollow">About eVitamins</a></li>
+		<li><a href="http://www.evitamins.com/affiliates.asp" rel="nofollow">Affiliate Programs</a></li>
+		<li><a href="http://www.evitamins.com/cantfindit.asp" rel="nofollow">Can't Find It? </a></li>
+		<li><a href="http://www.evitamins.com/privacy.asp" rel="nofollow">Privacy &amp; Security</a></li>
+		<li><a href="http://www.evitamins.com/refunds.asp" rel="nofollow">Returns</a></li>
+		<li><a href="http://www.evitamins.com/whyshophere.asp" rel="nofollow">Satisfaction Guarantee</a></li>
+		<li><a href="http://www.evitamins.com/shippingpol.asp" rel="nofollow">Shipping Information</a></li>
+	</ul>
+	<img src="/images/clear.gif" width="1" height="4" border="0"><br>
+	<div class="spacer"></div>
+	<ul><li><a href="http://www.evitamins.com/faq.asp" rel="nofollow">More Help...</a></li></ul>
+	<div><img src="/images/nav/bottom_box.gif" width="190"></div>
+</div></div>
+  		<br>
+  		<!--########## END Customer Service SELECTION ###################################-->
   		<!--########## BEGIN HEALTH RESOURCES SELECTION ###################################-->
-		<table width="190" border="0" cellspacing="0" cellpadding="0" bgcolor="#EBEBFA">
-  			<tbody><tr>
-  				<td height="20" align="center"><img src="/images/left_column/healthresources.gif"></td>
-  			</tr>
-  			<tr>
-  				<td style="padding:5px;">
-  					<table width="180" border="0" cellspacing="0" cellpadding="0">
-  						<tbody><tr>
-  							<td class="menuitems">
-  								<ul>
-  									<li><a href="encyclopedia.asp">Health Encyclopedia</a></li>
-  									<li><a href="healthnotes.asp?ContentID=3822002">Wellness Centers</a></li>
-  									<li><a href="topstory_index.asp">Health News</a></li>
-  									<li><a href="recipeguide.asp">Healthy Recipes</a></li>
-  								</ul>
-  							</td>
-  						</tr>
-  					</tbody></table>
-  				</td>
-  			</tr>
-  		</tbody></table>
+	<div id="leftCol">
+	<div class="title"><img src="/images/nav/1-top-browse.gif"></div>
+	<div id="browse" class="boxed">
+	<ul><li><a href="http://www.evitamins.com/encyclopedia.asp">Health Encyclopedia</a></li></ul>
+	<div class="spacer"></div>
+	<ul>
+		<li><a href="http://www.evitamins.com/healthnotes.asp?ContentID=3822002">Wellness Centers</a></li>
+		<li><a href="http://www.evitamins.com/topstory_index.asp">Health News</a></li>
+		<li><a href="http://www.evitamins.com/recipeguide.asp">Healthy Recipes</a></li>
+		<li><a href="http://www.evitamins.com/encyclopedia.asp">Health Encyclopedia</a></li>
+	</ul>
+	<img src="/images/clear.gif" width="1" height="4" border="0"><br>
+	<div><img src="/images/nav/bottom_box.gif" width="190"></div>
+</div></div>
+  		<br>
   		<!--########## END HEALTH RESOURCES SELECTION ###################################-->
   		<!--########## BEGIN HEALTH NEWS SELECTION ###################################-->
   		
-		<table width="190" border="0" cellspacing="0" cellpadding="0" bgcolor="#EBEBFA">
-  			<tbody><tr>
-  				<td height="20" align="center"><img src="/images/left_column/healthnews.gif"></td>
-  			</tr>
-  			<tr>
-  				<td style="padding:5px;">
-  					<table width="180" border="0" cellspacing="0" cellpadding="0">
-  						<tbody><tr>
-  							<td class="menuitems">
-  								<ul>
-  										<li><a href="news.asp?id=536522" rel="nofollow">Doctors' Judgment Still Trumps Mammography Advances</a></li><li><a href="news.asp?id=536440" rel="nofollow">Antibiotics Mostly Useless for Sinusitis</a></li><li><a href="news.asp?id=600246" rel="nofollow">Health Highlights:  Dec. 18, 2006</a></li><li><a href="news.asp?id=600212" rel="nofollow">Human Sense of Smell Nothing to Sniff At</a></li>
-  								</ul>
-  							</td>
-  						</tr>
-  					</tbody></table>
-  				</td>
-  			</tr>
-  		</tbody></table>
+	<div id="leftCol">
+	<div class="title"><img src="/images/nav/healthnewshead.gif"></div>
+	<div id="browse" class="boxed">
+	<ul>
+		
+												<li><a href="http://www.evitamins.com/news.asp?id=606011" rel="" nofollow""="">Cats, Humans Share Ancient Bond</a></li>
+										
+												<li><a href="http://www.evitamins.com/news.asp?id=605799" rel="" nofollow""="">Moms, Dads With MS Equal Transmitters of Disease</a></li>
+										
+												<li><a href="http://www.evitamins.com/news.asp?id=606021" rel="" nofollow""="">Clinical Trials Update: June 28, 2007</a></li>
+										
+												<li><a href="http://www.evitamins.com/news.asp?id=605927" rel="" nofollow""="">School Nurses Key to Preventing Heart Disease</a></li>
+										
+	</ul>
+	<img src="/images/clear.gif" width="1" height="4" border="0"><br>
+	<div><img src="/images/nav/bottom_box.gif" width="190"></div>
+</div></div>
+  		<br>
   		
   		<!--########## END HEALTH NEWS SELECTION ###################################-->
   	</td>
@@ -397,31 +871,31 @@ function createWindow(URL,windowName)
   				<td colspan="2"><img src="images/body/headers/privacyheader.gif"></td>
   			</tr>
   			<tr>
-  				<td>
-  				<p><font size="2" face="Verdana,Arial,Helvetica,sans-serif"><a href="javascript:createWindow('http://www.truste.org/ivalidate.php?url=www.evitamins.com&amp;sealid=104','xWindow')"><img src="images/body/buttons/clickseal.gif" alt="Trust E Logo" border="0" hspace="5" align="left" vspace="5" valign="top"></a>This privacy statement covers the site www.evitamins.com.  eVitamins is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices.  <b>Because eVitamins wants to demonstrate its commitment to our users’ privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe</b>.   If users have questions or concerns regarding this statement, they should first contact the eVitamins privacy department by one of the following ways:<br><br><b>EMAIL:</b> privacy@eVitamins.com<br><b>PHONE:</b> (586) 786-0405 Ext. 407<br><b>POSTAL MAIL:</b><br></font></p><center><font size="2" face="Verdana,Arial,Helvetica,sans-serif"><img src="images/body/buttons/logomini.gif"><br>Attn: Privacy Dept.<br>6060 Collection Drive<br>Suite 101<br>Shelby Twp., MI<br>48316</font></center><font size="2" face="Verdana,Arial,Helvetica,sans-serif"><br><br>If you do not receive acknowledgment of your inquiry or your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process (<a href="http://www.truste.org/consumers/watchdog_complaint.php"><u>http://www.truste.org/consumers/watchdog_complaint.php</u></a>). TRUSTe will serve as a liaison with the Web site to resolve users concerns.<br><br>eVitamins respects and is committed to protecting your privacy. We use the information we collect on the site to make shopping at eVitamins possible and to enhance your overall shopping and health experience. <b>We do not sell, trade, rent or loan your personal information to others, unless instructed by a court of law.</b>  We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site. If you do not want to receive any announcements or special offers from us, email us at <a href="mailto:promotions@evitamins.com?subject=Remove Me">promotions@evitamins.com</a> and tell us to remove you.</font><p></p>
+  				<td class="generaldeafult">
+  				<p><a href="javascript:createWindow('http://www.truste.org/ivalidate.php?url=www.evitamins.com&amp;sealid=101','xWindow')"><img src="images/body/buttons/clickseal.gif" alt="Trust E Logo" border="0" hspace="5" align="left" vspace="5" valign="top"></a>This privacy statement covers the site www.evitamins.com.  eVitamins is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices.  <b>Because eVitamins wants to demonstrate its commitment to our users’ privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe</b>.   If users have questions or concerns regarding this statement, they should first contact the eVitamins privacy department by one of the following ways:<br><br><b>EMAIL:</b> privacy@eVitamins.com<br><b>PHONE:</b> (586) 786-0405 Ext. 407<br><b>POSTAL MAIL:</b><br></p><center><img src="images/body/buttons/logomini.gif"><br>Attn: Privacy Dept.<br>6060 Collection Drive<br>Suite 101<br>Shelby Twp., MI<br>48316</center><br><br>If you do not receive acknowledgment of your inquiry or your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process (<a href="http://www.truste.org/consumers/watchdog_complaint.php"><u>http://www.truste.org/consumers/watchdog_complaint.php</u></a>). TRUSTe will serve as a liaison with the Web site to resolve users concerns.<br><br>eVitamins respects and is committed to protecting your privacy. We use the information we collect on the site to make shopping at eVitamins possible and to enhance your overall shopping and health experience. <b>We do not sell, trade, rent or loan your personal information to others, unless instructed by a court of law.</b>  We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site. If you do not want to receive any announcements or special offers from us, contact us by <a href="https://www.evitamins.com/email.asp" ref="nofollow">clicking here</a> and tell us to remove you.<p></p>
 								<ul>
-									<li><a href="#what"><font face="Verdana,Arial,Helvetica" size="2">What information do we collect?</font></a>
-									</li><li><a href="#how"><font face="Verdana,Arial,Helvetica" size="2">How do we use it?</font></a>
-									</li><li><a href="#howdoes"><font face="Verdana,Arial,Helvetica" size="2">How does eVitamins services protect customer information?</font></a>
-									</li><li><a href="#whatabout"><font face="Verdana,Arial,Helvetica" size="2">What about "cookies"?</font></a>
-									</li><li><a href="#will"><font face="Verdana,Arial,Helvetica" size="2">Will eVitamins disclose the information it collects to outside parties?</font></a>
-									</li><li><a href="#whatyou"><font face="Verdana,Arial,Helvetica" size="2">What you should know!</font></a>
-									</li><li><a href="#email"><font face="Verdana,Arial,Helvetica" size="2">What about email?</font></a>
+									<li><a href="#what">What information do we collect?</a>
+									</li><li><a href="#how">How do we use it?</a>
+									</li><li><a href="#howdoes">How does eVitamins services protect customer information?</a>
+									</li><li><a href="#whatabout">What about "cookies"?</a>
+									</li><li><a href="#will">Will eVitamins disclose the information it collects to outside parties?</a>
+									</li><li><a href="#whatyou">What you should know!</a>
+									</li><li><a href="#email">What about email?</a>
 								</li></ul>
-								<p><font size="2" face="Verdana,Arial,Helvetica,sans-serif"><b><a name="what"></a>What information do we collect?</b></font></p>
-								<p><font size="2" face="Verdana,Arial,Helvetica,sans-serif">To order a product, you will need to set up an account. To set up an account, we will need to know your name, email address, billing and shipping address, credit card number, and expiration date. This allows us to process and fulfill your order and to notify you of your order status. You will also be asked to create a special username and password so that you may access your account in the future (and so you don't have to re-enter all your information again). When you enter a contest or other promotional feature, we may ask for your name, address, and email address so we can administer the contest and notify winners. When you submit a "Contact" request or a "Nutritional Support" request via our website, we will need to know your name, email address and question, however we DO NOT store any of this information on file. We simply need this information so that we may respond to you and answer your question. After a response is given to you, your request information is destroyed.  If a user elects to use our referral service for informing a friend about a product offered on our site, we ask them for their friend’s name and email address.  eVitamins will automatically send the friend a one-time email inviting them to visit the site.  eVitamins does not store this information.  It is only used for the sole purpose of sending this one-time email. If a user chooses to submit a product review, we will need to know your name, email, review description and location so that we may store it to display with your review.  You can choose not to have your name, email or location posted to your review, although we will still need to collect the information to keep on file with your review for internal records.  Like most standard Web site servers we use log files.  This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use.  IP addresses, etc. are not linked to personally identifiable information.</font></p>
-								<p><font size="2" face="Verdana,Arial,Helvetica,sans-serif"><b><a name="how"></a>How do we use it?</b></font></p>
-								<p><font size="2" face="Verdana,Arial,Helvetica,sans-serif">We may also use the information we collect to occasionally notify you about new eVitamins services, important functionality changes to the Web site, special offers we think you'll find valuable and most importantly just to see how you are doing. If you never want to receive any announcements or special offers from us, email us at promotions@evitamins.com and tell us to remove your name.  Or simply log into your account manager and update your communication preferences.</font></p>
-								<p><font size="2" face="Verdana,Arial,Helvetica,sans-serif"><b><a name="howdoes"></a>How does eVitamins services protect customer information?</b></font></p>
-								<p><font size="2" face="Verdana,Arial,Helvetica,sans-serif">To place an order on our site, your browser must except SSL. We use some of the strongest encrypting technology available to safely secure your information.  We also protect customer information simply by <b>never</b> <b>selling,</b> <b>trading, loaning or renting your personal information to others (EVER!).</b> eVitamins is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access, that are located in controlled facilities. We also run proactive server, network and facility security audits, proprietary encryption algorithms for database storage, redundant systems, and data backup.  For more information on our security procedures, please <a href="security.asp">click here</a></font></p>
-								<p><font size="2" face="Verdana,Arial,Helvetica,sans-serif"><b><a name="whatabout"></a>What about "cookies"?</b></font></p>
-								<p><font size="2" face="Verdana,Arial,Helvetica,sans-serif">"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies may contain personally identifying information. Most Web browsers automatically accept cookies. You will need to enable cookies on your web browser in order to complete the checkout process.  Cookies on our site also allow us to maintain login information and session state.  Cookies can help us track you across our website to show you the most relevent information to help enhance your shopping experience.  Cookies are small pieces of information, limited to 4K that are stored as text files.  Cookies are not stored as a script thus, there is no chance of a cookie causing a virus (a common myth about cookies).  If you still do not wish to accept cookies, you can always complete your order by calling our toll-free number at 1-888-222-6056 between 9:00 a.m. - 5:00 p.m. Mon-Fri.</font></p>
-								<p><font size="2" face="Verdana,Arial,Helvetica,sans-serif"><b><a name="will"></a>Will eVitamins disclose the information it collects to outside parties?</b></font></p>
-								<p><font size="2" face="Verdana,Arial,Helvetica,sans-serif">eVitamins does not sell, trade, or rent your personal information to others (EVER!). eVitamins may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will never include any personally identifying information.  We use an outside shipping company to ship orders (FedEx, DHL, USPS, or UPS), and a credit card processing company to bill users for goods and services. These companies may receive personally identifiable information to help us process your order.  These companies will not retain, share, store or use personally identifiable information for any secondary purposes.  Your personal data will be stored on file for as long as your account is active.  An account will become inactive if an order is not placed within 24 months using that account.  If your account is inactive it will automatically be deleted from our records.  To have your account deleted earlier then the required expiration period, simply email us at privacy@evitamins.com and tell us to delete your personal information. If a user’s personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users’ personally identifiable information. This can usually be done at the account manager or by emailing our Customer Support Department at support@evitamins.com.  Or, contact us by telephone or postal mail at the contact information listed at the bottom of this page. </font>
-								</p><p><font size="2" face="Verdana,Arial,Helvetica,sans-serif"><b><a name="whatyou"></a>What you should know!</b></font></p>
-								<p><font size="2" face="Verdana,Arial,Helvetica,sans-serif">If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.   If, however, we are going to use users’ personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days and send all users email notification to have the option to have their information deleted.  At eVitamins, we take great pride in serving you and helping you with ALL your health needs. We value the trust you place in us and we would never do anything to compromise this. If you have any questions, concerns, problems or whatever it may be, we want to know. You may call our toll-free number at 1-888-222-6056 if you live in the United States.  If you live outside the United States, you may call (586)786-0405. Or you may email us at <a href="mailto:support@evitamins.com">support@evitamins.com</a>.  If you wish to write us, our address is:</font></p><p></p><center><font size="2" face="Verdana,Arial,Helvetica,sans-serif"><img src="images/body/buttons/logomini.gif"><br>6060 Collection Drive<br>Ste. 101<br>Shelby Township, MI<br>48316</font></center><font size="2" face="Verdana,Arial,Helvetica,sans-serif"><br></font>
-  								<p><font size="2" face="Verdana,Arial,Helvetica,sans-serif"><b><a name="email"></a>What about email?</b></font></p>
-								<p><font size="2" face="Verdana,Arial,Helvetica,sans-serif">eVitamins sends out order confirmation and order tracking emails to our customers when you place an order. These order related emails are vital to making sure your order is delivered correctly therefore, you do not have the opportunity to opt out or unsubscribe from these order emails.   You may also sign up for one of our newsletter emails during the checkout process when placing an order.  You may unsubscribe to these newsletters emails at anytime by logging into your account and changing your communication preferences.  In addition, you may also unsubscribe to any newsletter email by following the "unsubscribe" link at the bottom of each newsletter.<br><br><b>Last Updated:</b> 4/14/2006</font></p><p>
+								<p><b><a name="what"></a>What information do we collect?</b></p>
+								<p>To order a product, you will need to set up an account. To set up an account, we will need to know your name, email address, billing and shipping address, credit card number, and expiration date. This allows us to process and fulfill your order and to notify you of your order status. You will also be asked to create a special username and password so that you may access your account in the future (and so you don't have to re-enter all your information again). When you enter a contest or other promotional feature, we may ask for your name, address, and email address so we can administer the contest and notify winners. When you submit a "Contact" request or a "Nutritional Support" request via our website, we will need to know your name, email address and question, however we DO NOT store any of this information on file. We simply need this information so that we may respond to you and answer your question. After a response is given to you, your request information is destroyed.  If a user elects to use our referral service for informing a friend about a product offered on our site, we ask them for their friend’s name and email address.  eVitamins will automatically send the friend a one-time email inviting them to visit the site.  eVitamins does not store this information.  It is only used for the sole purpose of sending this one-time email. If a user chooses to submit a product review, we will need to know your name, email, review description and location so that we may store it to display with your review.  You can choose not to have your name, email or location posted to your review, although we will still need to collect the information to keep on file with your review for internal records.  Like most standard Web site servers we use log files.  This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use.  IP addresses, etc. are not linked to personally identifiable information.</p>
+								<p><b><a name="how"></a>How do we use it?</b></p>
+								<p>We may also use the information we collect to occasionally notify you about new eVitamins services, important functionality changes to the Web site, special offers we think you'll find valuable and most importantly just to see how you are doing. If you never want to receive any announcements or special offers from us, <a href="https://www.evitamins.com/email.asp">contact us</a> and tell us to remove your name.  Or simply log into your account manager and update your communication preferences. </p>
+								<p><b><a name="howdoes"></a>How does eVitamins services protect customer information?</b></p>
+								<p>To place an order on our site, your browser must except SSL. We use some of the strongest encrypting technology available to safely secure your information.  We also protect customer information simply by <b>never</b> <b>selling,</b> <b>trading, loaning or renting your personal information to others (EVER!).</b> eVitamins is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access, that are located in controlled facilities. We also run proactive server, network and facility security audits, proprietary encryption algorithms for database storage, redundant systems, and data backup.  For more information on our security procedures, please <a href="http://www.evitamins.com/security.asp">click here</a></p>
+								<p><b><a name="whatabout"></a>What about "cookies"?</b></p>
+								<p>"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies may contain personally identifying information. Most Web browsers automatically accept cookies. You will need to enable cookies on your web browser in order to complete the checkout process.  Cookies on our site also allow us to maintain login information and session state.  Cookies can help us track you across our website to show you the most relevent information to help enhance your shopping experience.  Cookies are small pieces of information, limited to 4K that are stored as text files.  Cookies are not stored as a script thus, there is no chance of a cookie causing a virus (a common myth about cookies).  If you still do not wish to accept cookies, you can always complete your order by calling our toll-free number at 1-888-222-6056 between 9:00 a.m. - 5:00 p.m. Mon-Fri.</p>
+								<p><b><a name="will"></a>Will eVitamins disclose the information it collects to outside parties?</b></p>
+								<p>eVitamins does not sell, trade, or rent your personal information to others (EVER!). eVitamins may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will never include any personally identifying information.  We use an outside shipping company to ship orders (FedEx, DHL, USPS, or UPS), and a credit card processing company to bill users for goods and services. These companies may receive personally identifiable information to help us process your order.  These companies will not retain, share, store or use personally identifiable information for any secondary purposes.  Your personal data will be stored on file for as long as your account is active.  An account will become inactive if an order is not placed within 24 months using that account.  If your account is inactive it will automatically be deleted from our records.  To have your account deleted earlier then the required expiration period, simply <a href="https://www.evitamins.com/email.asp">contact us</a> and tell us to delete your personal information. If a user’s personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users’ personally identifiable information. This can usually be done at the account manager or by <a ref="nofollow" href="https://www.evitamins.com/email.asp">contacting</a> our Customer Support Department.  Or, contact us by telephone or postal mail at the contact information listed at the bottom of this page.  We may share your non-identifiable information such as your zip code with our business partners for demographic purposes. They are not able to personally identify you with this information. 
+								</p><p><b><a name="whatyou"></a>What you should know!</b></p>
+								<p>If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.   If, however, we are going to use users’ personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days and send all users email notification to have the option to have their information deleted.  At eVitamins, we take great pride in serving you and helping you with ALL your health needs. We value the trust you place in us and we would never do anything to compromise this. If you have any questions, concerns, problems or whatever it may be, we want to know. You may call our toll-free number at 1-888-222-6056 if you live in the United States.  If you live outside the United States, you may call (586)786-0405. Or you may contact us by <a ref="nofollow" href="https://www.evitamins.com/email.asp">clicking here</a>.  If you wish to write us, our address is:</p><p></p><center><img src="images/body/buttons/logomini.gif"><br>6060 Collection Drive<br>Ste. 101<br>Shelby Township, MI<br>48316</center><br>
+  								<p><b><a name="email"></a>What about email?</b></p>
+								<p>eVitamins sends out order confirmation and order tracking emails to our customers when you place an order. These order related emails are vital to making sure your order is delivered correctly therefore, you do not have the opportunity to opt out or unsubscribe from these order emails.   You may also sign up for one of our newsletter emails during the checkout process when placing an order.  You may unsubscribe to these newsletters emails at anytime by logging into your account and changing your communication preferences.  In addition, you may also unsubscribe to any newsletter email by following the "unsubscribe" link at the bottom of each newsletter.<br><br><b>eVitamins last updated our privacy policy on:</b> 2/14/2006</p><p>
   				</p></td>
   			</tr>
   		</tbody></table>
@@ -431,56 +905,107 @@ function createWindow(URL,windowName)
    	<td width="5">&nbsp;</td>
    	<!--####### END SPACER COLUMN #############-->
    	<!--########### BEGIN RIGHT SIDE COLUMN ####################################-->
-   	<td valign="top"><br>
-   	<table border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr valign="bottom" align="center">
-					<td><table width="190" border="0" cellspacing="0" cellpadding="0"><tbody><tr valign="top" bgcolor="#990000"><td width="5"><img src="/images/searchbox/eyebrow-upper-left-corner.gif" width="5" height="5" border="0"></td>
-								<td><table width="99%" border="0" cellspacing="3" cellpadding="0"><tbody><tr><td align="left" valign="bottom" class="eyebrow"><font face="verdana" size="1" color="#ffffff"><b>WHAT'S NEW</b><font></font></font></td>
-										</tr>
-									</tbody></table></td>
-								<td width="5" align="right"><img src="/images/searchbox/eyebrow-upper-right-corner.gif" width="5" height="5" border="0"></td>
-							</tr>
-						</tbody></table></td>
-				</tr>
-				<tr valign="top" align="center">
-					<td>
-			<table border="0" width="190" cellpadding="1" cellspacing="0" bgcolor="#708090">
-				<tbody><tr>
-					<td width="100%">
-						<table width="100%" border="0" cellpadding="4" cellspacing="0" bgcolor="#708090">
-							<tbody><tr>
-								<td bgcolor="#FFFFFF" valign="top" width="100%">
-									<table width="100%"><tbody><tr><td align="center"><font face="verdana,arial,helvetica" size="2"> - <a href="product.asp?pid=6977"><u>Ostivone (Ipriflavone) by Enzymatic Therapy</u></a><br><br><table cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td align="center"><a href="product.asp?pid=6977"><img border="0" src="send_binary.asp?imagepro=enzyostivone.jpg&amp;Width=74&amp;Height=135&amp;Interpolation=1&amp;sharpen=0&amp;sharpenvalue=&amp;Rotate=0"></a></td><td align="right"><font size="2" face="Verdana,Arial,Helvetica,sans-serif"><b>MSRP:</b> <strike>$29.95</strike><br><nobr><b>Our Price:</b> $23.96</nobr><br><b>Save:</b> <font color="green">$5.99</font></font></td></tr></tbody></table></font></td></tr><tr><td><hr width="100%" color="#006699"></td></tr><tr><td align="center"><font face="verdana,arial,helvetica" size="2"> - <a href="product.asp?pid=6976"><u>Ginkgo Biloba 60 mg by Natrol</u></a><br><br><table cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td align="center"><a href="product.asp?pid=6976"><img border="0" src="send_binary.asp?imagepro=natrolgink60.jpg&amp;Width=72&amp;Height=135&amp;Interpolation=1&amp;sharpen=0&amp;sharpenvalue=&amp;Rotate=0"></a></td><td align="right"><font size="2" face="Verdana,Arial,Helvetica,sans-serif"><b>MSRP:</b> <strike>$11.99</strike><br><nobr><b>Our Price:</b> $9.59</nobr><br><b>Save:</b> <font color="green">$2.40</font></font></td></tr></tbody></table></font></td></tr><tr><td><hr width="100%" color="#006699"></td></tr><tr><td align="center"><font face="verdana,arial,helvetica" size="2"> - <a href="product.asp?pid=6975"><u>St. John's Wort 300 mg by Natrol</u></a><br><br><table cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td align="center"><a href="product.asp?pid=6975"><img border="0" src="send_binary.asp?imagepro=natrolSJW120.jpg&amp;Width=73&amp;Height=135&amp;Interpolation=1&amp;sharpen=0&amp;sharpenvalue=&amp;Rotate=0"></a></td><td align="right"><font size="2" face="Verdana,Arial,Helvetica,sans-serif"><b>MSRP:</b> <strike>$20.00</strike><br><nobr><b>Our Price:</b> $16.00</nobr><br><b>Save:</b> <font color="green">$4.00</font></font></td></tr></tbody></table></font></td></tr><tr><td><hr width="100%" color="#006699"></td></tr><tr><td align="center"><font face="verdana,arial,helvetica" size="2"> - <a href="product.asp?pid=6974"><u>Pycnogenol Gel by Derma E</u></a><br><br><table cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td align="center"><a href="product.asp?pid=6974"><img border="0" src="send_binary.asp?imagepro=PycGel.jpg&amp;Width=160&amp;Height=110&amp;Interpolation=1&amp;sharpen=0&amp;sharpenvalue=&amp;Rotate=0"></a></td><td align="right"><font size="2" face="Verdana,Arial,Helvetica,sans-serif"><b>MSRP:</b> <strike>$29.95</strike><br><nobr><b>Our Price:</b> $23.96</nobr><br><b>Save:</b> <font color="green">$5.99</font></font></td></tr></tbody></table></font></td></tr><tr><td><hr width="100%" color="#006699"></td></tr><tr><td align="center"><font face="verdana,arial,helvetica" size="2"> - <a href="product.asp?pid=6973"><u>Pycnogenol Redness Reducing Serum by Derma E</u></a><br><br><table cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td align="center"><a href="product.asp?pid=6973"><img border="0" src="send_binary.asp?imagepro=PycRed.jpg&amp;Width=46&amp;Height=145&amp;Interpolation=1&amp;sharpen=0&amp;sharpenvalue=&amp;Rotate=0"></a></td><td align="right"><font size="2" face="Verdana,Arial,Helvetica,sans-serif"><b>MSRP:</b> <strike>$29.95</strike><br><nobr><b>Our Price:</b> $23.96</nobr><br><b>Save:</b> <font color="green">$5.99</font></font></td></tr></tbody></table></font></td></tr><tr><td><hr width="100%" color="#006699"></td></tr></tbody></table>
-								</td>
-							</tr>
-						</tbody></table>
-					</td>
-				</tr>
-			</tbody></table>
-		</td></tr>
-	</tbody></table>
+   	<td width="190" valign="top" bgcolor="#ffffff"><!--<br><img src=/images/body/buttons/betaminicircle.gif>&nbsp;<FONT face=verdana,arial,helvetica size=2>Try the new <a href=askexpert.asp>Fitness Network</a>.</font><br>-->
+   	<br><br><!--########## BEGIN Whatsnew ###################################-->
+<div id="lccontainer">
+			<div id="lcheader"></div>
+			
+			<div id="lcproductname" class="lctext"><a href="http://www.evitamins.com/product.asp?pid=12017">Radiance Night Creme by Burt's Bees</a></div>
+			<div id="lcproductinfo" class="lctext">
+			<table cellpadding="3" cellspacing="0" border="0" class="tiny">
+			<tbody><tr><td class="tiny">
+			<b>MSRP:</b> $14.99<br>
+							<b>Our Price:</b> $11.99<br>
+							<b>Save:</b> $3.00</td><td>
+			<a href="http://www.evitamins.com/product.asp?pid=12017"><img border="0" src="/images/products/thumbnails/BBnightcream.jpg" id="lcproductimage">
+			</a></td></tr></tbody></table></div>
+		
+			<div id="lcproductname" class="lctext"><a href="http://www.evitamins.com/product.asp?pid=12016">Radiance Eye Creme by Burt's Bees</a></div>
+			<div id="lcproductinfo" class="lctext">
+			<table cellpadding="3" cellspacing="0" border="0" class="tiny">
+			<tbody><tr><td class="tiny">
+			<b>MSRP:</b> $14.99<br>
+							<b>Our Price:</b> $11.99<br>
+							<b>Save:</b> $3.00</td><td>
+			<a href="http://www.evitamins.com/product.asp?pid=12016"><img border="0" src="/images/products/thumbnails/BBeyecream.jpg" id="lcproductimage">
+			</a></td></tr></tbody></table></div>
+		
+			<div id="lcproductname" class="lctext"><a href="http://www.evitamins.com/product.asp?pid=12015">Radiance Day Creme by Burt's Bees</a></div>
+			<div id="lcproductinfo" class="lctext">
+			<table cellpadding="3" cellspacing="0" border="0" class="tiny">
+			<tbody><tr><td class="tiny">
+			<b>MSRP:</b> $14.99<br>
+							<b>Our Price:</b> $11.99<br>
+							<b>Save:</b> $3.00</td><td>
+			<a href="http://www.evitamins.com/product.asp?pid=12015"><img border="0" src="/images/products/thumbnails/BBradianceday.jpg" id="lcproductimage">
+			</a></td></tr></tbody></table></div>
+		
+			<div id="lcproductname" class="lctext"><a href="http://www.evitamins.com/product.asp?pid=12014">Peach &amp; Willowbark Deep Pore Scrub by Burt's Bees</a></div>
+			<div id="lcproductinfo" class="lctext">
+			<table cellpadding="3" cellspacing="0" border="0" class="tiny">
+			<tbody><tr><td class="tiny">
+			<b>MSRP:</b> $7.99<br>
+							<b>Our Price:</b> $6.39<br>
+							<b>Save:</b> $1.60</td><td>
+			<a href="http://www.evitamins.com/product.asp?pid=12014"><img border="0" src="/images/products/thumbnails/BBdeepporescrub.jpg" id="lcproductimage">
+			</a></td></tr></tbody></table></div>
+		
+			<div id="lcproductname" class="lctext"><a href="http://www.evitamins.com/product.asp?pid=12013">Orange Essence Facial Cleanser by Burt's Bees</a></div>
+			<div id="lcproductinfo" class="lctext">
+			<table cellpadding="3" cellspacing="0" border="0" class="tiny">
+			<tbody><tr><td class="tiny">
+			<b>MSRP:</b> $7.99<br>
+							<b>Our Price:</b> $6.39<br>
+							<b>Save:</b> $1.60</td><td>
+			<a href="http://www.evitamins.com/product.asp?pid=12013"><img border="0" src="/images/products/thumbnails/BBorangecleanser.jpg" id="lcproductimage">
+			</a></td></tr></tbody></table></div>
+		
+			<div id="lcproductname" class="lctext"><a href="http://www.evitamins.com/product.asp?pid=12012">Wild Lettuce Complexion Soap by Burt's Bees</a></div>
+			<div id="lcproductinfo" class="lctext">
+			<table cellpadding="3" cellspacing="0" border="0" class="tiny">
+			<tbody><tr><td class="tiny">
+			<b>MSRP:</b> $7.99<br>
+							<b>Our Price:</b> $6.39<br>
+							<b>Save:</b> $1.60</td><td>
+			<a href="http://www.evitamins.com/product.asp?pid=12012"><img border="0" src="/images/products/thumbnails/BBwildlettuce.jpg" id="lcproductimage">
+			</a></td></tr></tbody></table></div>
+		
+			<div id="lcproductname" class="lctext"><a href="http://www.evitamins.com/product.asp?pid=12011">Lemon Poppy Seed Facial Cleanser by Burt's Bees</a></div>
+			<div id="lcproductinfo" class="lctext">
+			<table cellpadding="3" cellspacing="0" border="0" class="tiny">
+			<tbody><tr><td class="tiny">
+			<b>MSRP:</b> $7.99<br>
+							<b>Our Price:</b> $6.39<br>
+							<b>Save:</b> $1.60</td><td>
+			<a href="http://www.evitamins.com/product.asp?pid=12011"><img border="0" src="/images/products/thumbnails/BBlemonpoppy.jpg" id="lcproductimage">
+			</a></td></tr></tbody></table></div>
+		
+			<div id="lcfooter"></div>
+</div>
+	<!--########## END Whats new ###################################-->
    	</td>
    	<!--################################### END RIGHT SIDE COLUMN ###################-->	
 	</tr>
 	</tbody></table>
-	 		<!--###################### BEGIN FOOTER SECTION ########################################-->
+	 <br>
+		<!--###################### BEGIN FOOTER SECTION ########################################-->
 	<table width="98%" border="0" cellspacing="0" cellpadding="0">
 		<tbody><tr>
-			<td height="1" bgcolor="#B2C1E0"><img src="/images/clear_pix.gif" width="1" height="1"></td>
+			<td height="1" bgcolor="#ffffff"><img src="/images/clear_pix.gif" width="1" height="1"></td>
 		</tr>
 		<tr>
 			<td height="20">
 				<table width="100%" border="0" cellspacing="0" cellpadding="0">
   					<tbody><tr>
-  						<td height="20" align="center" class="default">
-  							<a href="/">Vitamins</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="aboutus.asp" rel="nofollow">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="shopping.asp">Start Shopping</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="topstory_index.asp">Health News</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="encyclopedia.asp">Health Encyclopedia</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="faq.asp" rel="nofollow">Customer Service</a>
+  						<td align="center" class="footer">
+  							<a href="http://www.evitamins.com">Vitamins</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.evitamins.com/aboutus.asp" rel="nofollow">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.evitamins.com/shopping.asp">Start Shopping</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.evitamins.com/topstory_index.asp">Health News</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.evitamins.com/encyclopedia.asp">Health Encyclopedia</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.evitamins.com/faq.asp" rel="nofollow">Customer Service</a>
   						</td>
   					</tr>
   				</tbody></table>
   			</td>
 		</tr>
 		<tr>
-			<td height="1" bgcolor="#B2C1E0"><img src="/images/clear_pix.gif" width="1" height="1"></td>
+			<td height="1" bgcolor="#AFAFB0"><img src="/images/clear_pix.gif" width="1" height="1"></td>
 		</tr>
 	</tbody></table>
 	<!--###################### END FOOTER SECTION ########################################-->
@@ -523,43 +1048,35 @@ function createWindow(URL,windowName)
 <!--###################### BEGIN BOTTOM STAGE SECTION ########################################-->
 	<table width="98%" border="0" cellspacing="0" cellpadding="0">
 		<tbody><tr>
-			<td height="90" align="center">
-				<a href="privacy.asp" rel="nofollow"><img border="0" src="/images/footer/seals/healthfinalmark.gif" width="116" height="41"></a>&nbsp;<a href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--29250.html" rel="nofollow"><img src="/images/footer/seals/bizratemedal.gif" width="123" height="50" border="0"></a>&nbsp;<a href="http://www.bbbonline.org/cks.asp?id=10209051214426024" rel="nofollow"><img src="/images/footer/seals/ReliabilitySeal3.gif" width="135" height="48" border="0"></a>&nbsp;<a href="javascript:createWindow('https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;type=GOLD&amp;sealid=1&amp;dn=WWW.EVITAMINS.COM&amp;lang=en','xWindow')" rel="nofollow"><img src="/images/body/buttons/verisignmini1.gif" border="0"></a>&nbsp;<a target="_blank" ref="nofollow" href="https://www.scanalert.com/RatingVerify?ref=www.evitamins.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/www.evitamins.com/12.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a>
-			</td>
-		</tr>
-		<tr>
-			<td height="1" bgcolor="#B2C1E0"><img src="/images/clear_pix.gif" width="1" height="1"></td>
-		</tr>
-		<tr>
-			<td height="100" bgcolor="#EBEDFA">
-				<table width="520" border="0" align="center" cellpadding="0" cellspacing="0" class="smalltext">
+			<td class="bottomstage" align="center" valign="bottom"><br>
+				<table width="98%" border="0" align="center" cellpadding="0" cellspacing="0">
   					<tbody><tr>
-  						<td width="180" class="generaldeafult"><b>My Vitamins </b></td>
-  						<td width="160" class="generaldeafult"><b>Need Help? </b></td>
-  						<td width="180" class="generaldeafult"><b>Shipping and Returns </b></td>
+  						<td width="33%" class="generaldeafult"><b>My Vitamins</b></td>
+  						<td width="33%" class="generaldeafult"><b>Help Desk</b></td>
+  						<td width="33%" class="generaldeafult"><b>Shipping and Returns</b></td>
   					</tr>
   					<tr>
-  						<td valign="top">
+  						<td valign="top" class="generaldeafult">
   							<ul>
-  								<li><a href="account.asp" rel="nofollow">View My Account </a></li>
-  								<li><a href="account.asp" rel="nofollow">Track Your Recent Orders </a></li>
-  								<li><a href="affiliates.asp" rel="nofollow">Affiliate Programs </a></li>
-  								<li><a href="add2cart.asp" rel="nofollow">View My Shopping Cart</a></li>
+  								<li><a href="https://www.evitamins.com/myaccount/" rel="nofollow">View My Account </a></li>
+  								<li><a href="https://www.evitamins.com/myaccount/" rel="nofollow">Track Your Recent Orders </a></li>
+  								<li><a href="http://www.evitamins.com/affiliates.asp" rel="nofollow">Affiliate Programs </a></li>
+  								<li><a href="http://www.evitamins.com/add2cart.asp" rel="nofollow">View My Shopping Cart</a></li>
  							</ul>
  						</td>
-  						<td valign="top">
+  						<td valign="top" class="generaldeafult">
   							<ul>
-  								<li><a href="faq.asp" rel="nofollow">View Our Help Desk </a></li>
-  								<li><a href="privacy.asp" rel="nofollow">Privacy Policy</a></li>
-  								<li><a href="coupons.asp" rel="nofollow">Have a Coupon?</a></li>
-  								<li><a href="email.asp" rel="nofollow">Contact Us</a></li>
+  								<li><a href="http://www.evitamins.com/faq.asp" rel="nofollow">View Our Help Desk </a></li>
+  								<li><a href="http://www.evitamins.com/privacy.asp" rel="nofollow">Privacy Policy</a></li>
+  								<li><a href="http://www.evitamins.com/coupons.asp" rel="nofollow">Have a Coupon?</a></li>
+  								<li><a href="http://www.evitamins.com/email.asp" rel="nofollow">Contact Us</a></li>
  							</ul>
  						</td>
-  						<td valign="top">
+  						<td valign="top" class="generaldeafult">
   							<ul>
-  								<li><a href="shippingpol.asp" rel="nofollow">Shipping Information</a></li>
-  								<li><a href="refunds.asp" rel="nofollow">Return &amp; Refunds</a></li>
-  								<li><a href="faq.asp" rel="nofollow">Help Desk</a></li>
+  								<li><a href="http://www.evitamins.com/shippingpol.asp" rel="nofollow">Shipping Information</a></li>
+  								<li><a href="http://www.evitamins.com/refunds.asp" rel="nofollow">Return &amp; Refunds</a></li>
+  								<li><a href="http://www.evitamins.com/faq.asp" rel="nofollow">Help Desk</a></li>
  							</ul>
  						</td>
   					</tr>
@@ -567,7 +1084,12 @@ function createWindow(URL,windowName)
   			</td>
 		</tr>
 		<tr>
-			<td height="1" bgcolor="#B2C1E0"><img src="/images/clear_pix.gif" width="1" height="1"></td>
+			<td height="1" bgcolor="#AFAFB0"><img src="/images/clear_pix.gif" width="1" height="1"></td>
+		</tr>
+		<tr>
+			<td height="90" align="center">
+				<a href="privacy.asp" rel="nofollow"><img border="0" src="/images/footer/seals/healthfinalmark.gif"></a>&nbsp;<a href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--29250.html" rel="nofollow"><img src="/images/footer/seals/bizratemedal.gif" width="123" height="50" border="0"></a>&nbsp;<a href="http://www.bbbonline.org/cks.asp?id=10209051214426024" rel="nofollow"><img src="/images/footer/seals/ReliabilitySeal3.gif" width="135" height="48" border="0"></a>&nbsp;<a href="javascript:createWindow('https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;type=GOLD&amp;sealid=1&amp;dn=WWW.EVITAMINS.COM&amp;lang=en','xWindow')" rel="nofollow"><img src="/images/body/buttons/verisignmini1.gif" border="0"></a>&nbsp;<a target="_blank" ref="nofollow" href="https://www.scanalert.com/RatingVerify?ref=www.evitamins.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/www.evitamins.com/12.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a>
+			</td>
 		</tr>
 		<tr>
 			<td align="center" valign="middle">
@@ -575,14 +1097,20 @@ function createWindow(URL,windowName)
 			</td>
 		</tr>
 		<tr>
-			<td height="120" align="center" class="smalltext">The products and the claims made about specific vitamins, supplements or other items or procedures on or through this website have not been evaluated by eVitamins or the United States Food and Drug Administration and are not approved to diagnose, treat, cure or prevent disease. The information provided on this site is for informational purposes only and is not intended as a substitute for advice from your physician or doctor or any information contained on or in any product label or packaging. As always, please consult with a licensed doctor or physician before starting any diet, exercise or supplementation program, before taking any medication, or if you have or suspect you might have a problem. Please click here to read our full <a href="termsconditons.asp" rel="nofollow"><u>terms and conditions</u></a>. <br>
-			<br>Copyright © 1999-2006</td>
+			<td height="120" align="center" class="smalltext">The products and the claims made about specific vitamins, supplements or other items or procedures on or through this website have not been evaluated by eVitamins or the United States Food and Drug Administration and are not approved to diagnose, treat, cure or prevent disease. The information provided on this site is for informational purposes only and is not intended as a substitute for advice from your physician or doctor or any information contained on or in any product label or packaging. As always, please consult with a licensed doctor or physician before starting any diet, exercise or supplementation program, before taking any medication, or if you have or suspect you might have a problem. Please click here to read our full <a href="http://www.evitamins.com/termsconditons.asp" rel="nofollow"><u>terms and conditions</u></a>. <br>
+			<br>Copyright © 1999-2007<br></td>
 		</tr>
 		</tbody></table>
 	<!--###################### END BOTTM STAGE SECTION ########################################-->
 
-	
-		</center>
+
+		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1767666-1";
+urchinTracker();
+</script>	
+		</div></center>
 	
 
 </body></html>
