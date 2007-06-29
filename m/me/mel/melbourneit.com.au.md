@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the melbourneit.com.au privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214015647id_/https%3A//www.melbourneit.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melbourneit.com.au privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629151802id_/http%3A//www.melbourneit.com.au/privacy) for the most accurate reproduction.*
 
 # Melbourne IT
 
@@ -14,7 +14,6 @@ This privacy policy explains why and when we collect your personal information, 
   * Accuracy
   * Security
   * Changes
-  * Further information or comments
 
 
 
@@ -113,8 +112,3 @@ You can also use simple precautions to help protect your security, such as prote
 Back to Top
 
 Melbourne IT may make changes to its privacy policy from time to time. You should check our privacy policy from time to time to see if we have made any changes to it. 
-
-**Further information or queries**  
-Back to Top
-
-If you have any queries or comments, or would like more information concerning Melbourne IT's privacy policy, please contact us by using this [web form](https://web.archive.org/privacy/comment.php). 
