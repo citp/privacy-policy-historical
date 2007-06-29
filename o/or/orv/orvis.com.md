@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orvis.com privacy policy that was archived on 2006-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060206063012id_/http%3A//www.orvis.com/intro.asp%3Fsubject%3D107) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orvis.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629174846id_/http%3A//www.orvis.com/intro.asp%3Fsubject%3D107) for the most accurate reproduction.*
 
 # Orvis Privacy Policy
 
@@ -15,7 +15,7 @@
 >
 >> a. Personally Identifiable Information
 > 
-> We may collect personally Identifiable Information (including name, address, telephone number, email address and, when necessary, credit card information) when you:
+> We may collect personally Identifiable Information (including name, address, telephone number, e-mail address and, when necessary, credit card information) when you:
 > 
 >   * Place an order from our catalogs or on our Web site
 >   * Make a purchase at one of our retail stores
@@ -24,7 +24,7 @@
 >   * Request a catalog
 >   * Receive a gift package
 >   * Create an account at Orvis.com
->   * Subscribe to our Email Newsletter
+>   * Subscribe to our E-mail Newsletter
 >   * Enter a contest or sweepstakes
 >   * Participate in a marketing survey, promotion or event either online or offline.
 > 
@@ -48,7 +48,7 @@
 >   * Provide the services you request
 >   * Contact you about the status of an order
 >   * Send you catalogs or promotional offers we believe will be of interest to you
->   * Send you the Orvis Email Newsletter, if you specifically request it
+>   * Send you the Orvis E-mail Newsletter, if you specifically request it
 >   * Identify your product and service preferences
 >   * Customize our communications to you
 >   * Provide information concerning product recalls or products you have purchased
@@ -57,7 +57,7 @@
 > 
 
 > 
-> Your email address will be used only for the Orvis Email Newsletter and will not be shared with any third parties. Instructions for unsubscribing are included in every email. 
+> Your e-mail address will be used only for the Orvis E-mail Newsletter and will not be shared with any third parties. Instructions for unsubscribing are included in every e-mail. 
 >
 >> b. Aggregate Information
 > 
@@ -83,7 +83,7 @@
 >  Attn: Customer Service: 1711 Blue Hills Drive, Roanoke, VA 24012  
 >  888-235-9763
 > 
-> Your email address is never shared with any third party (except as described above to our contractors who use it ONLY to carry out Orvis business.)
+> Your e-mail address is never shared with any third party (except as described above to our contractors who use it ONLY to carry out Orvis business.)
 > 
 > **Disclosure Exceptions**
 > 
@@ -99,7 +99,7 @@
 > 
 > **Your Choices**
 > 
-> We offer choices about the types of information you receive from us. If you prefer not to receive catalogs or other communications from Orvis or if you prefer to receive them less frequently, please contact us at the address shown below. If you no longer wish to receive our Email Newsletter you also may contact us at the address below or unsubscribe using the link provided in each edition of the email.
+> We offer choices about the types of information you receive from us. If you prefer not to receive catalogs or other communications from Orvis or if you prefer to receive them less frequently, please contact us at the address shown below. If you no longer wish to receive our E-mail Newsletter you also may contact us at the address below or unsubscribe using the link provided in each edition of the e-mail.
 > 
 > The Orvis Company  
 >  Attn: Customer Service: 1711 Blue Hills Drive, Roanoke, VA 24012  
@@ -108,17 +108,25 @@
 > 
 > Please be sure to provide us your _exact name and address, or the mailing label from your catalog_ , so that we can be sure to identify you correctly. Because mailings are planned in advance, it may take several weeks for your request to become effective. If, due to human error, you continue to receive unwanted communications, please contact us again and we will make every effort to correct the situation.
 > 
-> **Email Use**
+> **E-mail Use**
 > 
-> When you provide us your email address, we may send you emails necessary to process your order or respond to a request, or, if you agree to it, to receive or Email Newsletter. For example, after you place an order at orvis.com, you will receive an email confirmation and, in most cases, an email with package tracking information. Recipients of our Electronic Gift Certificates will receive an email notifying them of the gift and instructing them how to redeem it.
+> When you provide us your e-mail address, we may send you e-mails necessary to process your order or respond to a request, or, if you agree to it, to receive or E-mail Newsletter. For example, after you place an order at orvis.com, you will receive an e-mail confirmation and, in most cases, an e-mail with package tracking information. Recipients of our Electronic Gift Certificates will receive an e-mail notifying them of the gift and instructing them how to redeem it.
 > 
-> It is our intent to send you promotional email (our Email Newsletter) only if you have agreed to receive it. Instructions on how to unsubscribe are included in each edition of the newsletter.
+> It is our intent to send you promotional e-mail (our E-mail Newsletter) only if you have agreed to receive it. Instructions on how to unsubscribe are included in each edition of the newsletter.
 > 
-> Your email address will be used only for the Orvis Email Newsletter, respond to your request or to process your order, and will not be shared with any third parties. Instructions for unsubscribing are included in every email containing promotional material.
+> Your e-mail address will be used only for the Orvis E-mail Newsletter, respond to your request or to process your order, and will not be shared with any third parties. Instructions for unsubscribing are included in every e-mail containing promotional material.
 > 
 > **Links to Other Sites**
 > 
 > Occasionally we provide links on our web site to other sites we think you will enjoy. These sites operate independently of Orvis and have established their own privacy and security policies. Orvis does not have any control over these sites’ privacy practices. For the best online experience, we strongly encourage you to review these policies at any site you visit.
+> 
+> **Internet Advertisements**
+> 
+> We use third-party service providers to serve ads on our behalf across the Internet and to analyze the visits those ads bring to our website. They may collect anonymous information about your visits to our Web site, and your interaction with our ads, but this information cannot identify you as an individual. These companies may use technologies similar to those outlined above to measure the effectiveness of ads and e-mails. They may also use information about visits you or others made to this and other Web sites so that we can provide the most effective advertisements about our goods and services.
+> 
+> No personally identifiable information about you is collected in this process. We may share anonymous information with this service provider in an aggregate form, for purposes of analysis of and improvement to our site.
+> 
+> If you would like more information about the practices of such third party providers and to know your choices about not having this information used by our third-party advertiser, visit <http://www.nextaction.net/Privacy/>.
 > 
 > **Security**
 > 
