@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comerica.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016154718id_/http%3A//www.comerica.com/vgn-ext-templating/v/index.jsp%3Fvgnextoid%3Dd6b393471c015010VgnVCM1000004502a8c0RCRD) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comerica.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629064603id_/http%3A//comerica.com/vgn-ext-templating/v/index.jsp%3Fvgnextoid%3Dd6b393471c015010VgnVCM1000004502a8c0RCRD) for the most accurate reproduction.*
 
 # Privacy - Comerica
 
