@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashionbug.com privacy policy that was archived on 2006-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061109125936id_/http%3A//fashionbug.charmingshoppes.com/pagebuilder/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionbug.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629232223id_/http%3A//fashionbug.charmingshoppes.com/pagebuilder/privacy_policy) for the most accurate reproduction.*
 
 # Fashion Bug - Fun and affordable clothing for women in plus, misses, juniors, maternity and girls sizes
 
@@ -77,14 +77,14 @@ Finally, if some or all of the business assets of any Charming Shoppes company a
 top
 
 what if my information changes?  
-You may update your registered personal information at any time. This includes your name, password, e-mail, and postal address. You may also manage your mailing preferences and e-mail formats. [Update your information or change your mailing preferences.](https://web.archive.org/web/20061109125936id_/http%3A//fashionbug.charmingshoppes.com/pagebuilder/InputHandler/my_account_update)  
+You may update your registered personal information at any time. This includes your name, password, e-mail, and postal address. You may also manage your mailing preferences and e-mail formats. [Update your information or change your mailing preferences.](https://web.archive.org/web/20070629232223id_/http%3A//fashionbug.charmingshoppes.com/pagebuilder/InputHandler/my_account_update)  
   
-If at any time you would like us to update your personal information or remove you from our e-mail or postal mailing lists, or if you need assistance with the modification of your information, [send us an e-mail](https://web.archive.org/web/20061109125936id_/http%3A//fashionbug.charmingshoppes.com/pagebuilder/customer_service_email_us) with your request or write to us at Charming Shoppes, Inc., Legal Department, 450 Winks Lane, Bensalem, PA 19020 USA.  
+If at any time you would like us to update your personal information or remove you from our e-mail or postal mailing lists, or if you need assistance with the modification of your information, [send us an e-mail](https://web.archive.org/web/20070629232223id_/http%3A//fashionbug.charmingshoppes.com/pagebuilder/customer_service_email_us) with your request or write to us at Charming Shoppes, Inc., Legal Department, 450 Winks Lane, Bensalem, PA 19020 USA.  
   
 top
 
 how do I opt out of sharing of my information?  
-You may [opt out of future unaffiliated third-party disclosures](https://web.archive.org/web/20061109125936id_/http%3A//fashionbug.charmingshoppes.com/pagebuilder/login_register_account?loginclear=Y) of your information. Such opt-out will not affect disclosures otherwise permitted by law including but not limited to: (i) disclosures to affiliates, (ii) disclosures to third-party service providers who provide certain services for our business, such as credit card processing, computer system services, shipping, data management, or promotional services, (iii) disclosures to third parties as necessary to fulfill your requests, (iv) disclosures to governmental agencies or law enforcement departments or otherwise required to be made under applicable law, (v) previously completed disclosures to third parties, or (vi) disclosures to third parties in connection with subsequent contests or promotions you may choose to enter.  
+You may [opt out of future unaffiliated third-party disclosures](https://web.archive.org/web/20070629232223id_/http%3A//fashionbug.charmingshoppes.com/pagebuilder/login_register_account?loginclear=Y) of your information. Such opt-out will not affect disclosures otherwise permitted by law including but not limited to: (i) disclosures to affiliates, (ii) disclosures to third-party service providers who provide certain services for our business, such as credit card processing, computer system services, shipping, data management, or promotional services, (iii) disclosures to third parties as necessary to fulfill your requests, (iv) disclosures to governmental agencies or law enforcement departments or otherwise required to be made under applicable law, (v) previously completed disclosures to third parties, or (vi) disclosures to third parties in connection with subsequent contests or promotions you may choose to enter.  
   
 top
 
@@ -118,7 +118,7 @@ From time to time, our privacy and security practices may change. If we modify o
 top
 
 how can I contact you with my suggestions or questions?  
-To help us improve our privacy and security policies and practices, please send us your questions and feedback. [Send us an e-mail.](https://web.archive.org/web/20061109125936id_/http%3A//fashionbug.charmingshoppes.com/pagebuilder/customer_service_email_us)  
+To help us improve our privacy and security policies and practices, please send us your questions and feedback. [Send us an e-mail.](https://web.archive.org/web/20070629232223id_/http%3A//fashionbug.charmingshoppes.com/pagebuilder/customer_service_email_us)  
   
 top
 
