@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the asaptickets.com privacy policy that was archived on 2006-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061201140415id_/http%3A//www.asaptickets.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the asaptickets.com privacy policy that was archived on 2007-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070629122040id_/http%3A//www.asaptickets.com/privacy) for the most accurate reproduction.-->
 
 <html><head>
 	<title>ASAP Tickets Econom - cheap airfare, airline tickets, discount airfare</title>
@@ -20,7 +20,7 @@
 	<script language="JavaScript" type="text/javascript">
 		var selectFrom = '';
 		var selectTo = '';
-		var selectDate = ['1','15'];
+		var selectDate = ['29','13'];
 		var showReturnCalendar = true;
 		var travelersCount = [1,0,0];
 		var phone = "(800) 677-2943";
@@ -34,12 +34,22 @@
 <body style="background-image: url(phone_ref_image.php?class=economic);">
 <table width="800" height="100%" align="center" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" style="border-left: 1px solid #B3B9C7; border-right: 1px solid #B3B9C7;">
 	<tbody><tr>
-		<td width="100%" align="center" valign="top">
+		<td width="100%" align="center" valign="top" style="padding-top: 20px;">
 								
-			<table width="100%" bgcolor="white" cellspacing="0" cellpadding="0" border="0">
+			<table width="100%" bgcolor="" cellspacing="0" cellpadding="0" border="0">
 				<tbody><tr>
-					<td style="padding-left: 25px;"><a href="http://www.asaptickets.com/"><img src="img/cheap-airfare-logo-new.gif" alt="ASAP tickets - cheap airfare, airline tickets, discount airfare"></a></td>
-					<td align="right" style="padding-top: 20px;"><img src="img/cheap-airfare-airplan-677.gif" border="0" alt="(800) 677-2943 - travel cheap. smart."></td>
+					<td valign="middle" style="padding-left: 25px;"><a href="http://www.asaptickets.com/"><img src="img/cheap-airfare-logo-new.gif" alt="ASAP tickets - cheap airfare, airline tickets, discount airfare"></a></td>
+					<!--<td align="right" style="padding-top: 20px;"><img src="img/cheap-airfare-airplan.gif" border="0" alt="travel cheap. smart."></td>-->
+					<!--td align="right" style="padding-top: 20px;"><img src="phone_on_airplane.php" border="0" alt="(800) 677-2943 - travel cheap. smart."></td-->
+					<td align="right" valign="middle" style="padding-right: 20px;">
+						<table width="1" cellspacing="0" cellpadding="5">
+							<tbody><tr>
+								<td><a href="http://www.itncorp.com/" target="_blank"><img src="img/itn_logo.gif" border="0" alt="ITN Logo"></a></td>
+								<!--<td><a href="http://www.arccorp.com/participants/part_TA.html" target="_blank"><img src="img/arc_logo.gif" border="0" alt="ARC Logo"></a></td>-->
+								<td><a href="http://www.checkacode.com/industry_code_validate.asp?industry_number=05-561415" target="_blank"><img src="img/iatan_logo.gif" border="0" alt="IATAN Logo"></a></td>
+							</tr>
+						</tbody></table>
+					</td>
 				</tr>
 			</tbody></table>
 			<table width="100%" cellspacing="0" cellpadding="0" border="0">
@@ -49,10 +59,11 @@
 							<a href="http://www.asaptickets.com/"><font color="#0257A7">Home</font></a> |
 							<a href="http://www.asaptickets.com/about/"><font color="#0257A7">About Us</font></a> |
 							<a href="http://www.asaptickets.com/support/"><font color="#0257A7">Customer Service</font></a> |
-							<a href="http://www.asaptickets.com/region.php"><font color="#0257A7">Our destinations</font></a> |
+							<a href="http://www.asaptickets.com/region.php"><font color="#0257A7">Our Destinations</font></a> |
+							
 							<a href="http://www.asaptickets.com/business-class-tickets/"><font color="#CC0000">Discounted Business Class</font><!--/a> |
 							<a href="http://www.asaptickets.com/travel-club/"><font color="#CC0000">Travel Club</font--></a> |
-							<a href="javascript:addBookmark ('ASAP Tickets - cheap airfare', 'http://www.asaptickets.com/')"><font color="#0257A7">Bookmark us</font></a>
+							<a href="javascript:addBookmark ('ASAP Tickets - cheap airfare', 'http://www.asaptickets.com/')"><font color="#0257A7">Bookmark Us</font></a>
 							
 						</font>
 					</td>
@@ -65,25 +76,44 @@
 				</tr>
 			</tbody></table>
 										
-<form name="frmSearch" action="http://www.asaptickets.com/search.php" method="post">
+<form name="frmSearch" action="http://www.asaptickets.com/pleasewait.php" method="post">
 <input type="hidden" name="class" value="economic">
 <table width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td class="smallSearchForm">
 <table width="100%" cellpadding="0">
 	<tbody><tr>
 		<td id="formFromList"></td>
-		<td id="formCalendar1" style="padding-right: 40px;"></td>
+		<td id="formCalendar1"></td>
 		<td id="formToList"></td>
 		<td id="formCalendar2"></td>
 		<td><input type="image" src="img/economic-search.gif" name="search" value="Search"></td>
 	</tr>
 </tbody></table>
 <script language="JavaScript">
-	drawFromList ();
-	drawToList ();
+
+	function addLoadEvent(func) {
+		var oldonload = window.onload;
+		if (typeof window.onload != 'function') {
+			window.onload = func;
+		} else {
+			window.onload = function() {
+				oldonload();
+				func();
+			}
+		}
+	}
+
 	var noCalendars = true;
 	var noText = true;
-	drawCalendar (1,getYearFromVal ('2006-12'),getMonthFromVal ('2006-12'),1);
-	drawCalendar (2,getYearFromVal ('2006-12'),getMonthFromVal ('2006-12'),1);
+	function initForm() {
+		selectTo="";
+		drawFromList ();
+		drawToList ();
+		drawCalendar (1,getYearFromVal ('2007-6'),getMonthFromVal ('2007-6'),1);
+		drawCalendar (2,getYearFromVal ('2007-7'),getMonthFromVal ('2007-7'),1);
+	}
+	
+	addLoadEvent(initForm);
+
 </script>
 <input type="hidden" name="adult" value="1">
 <input type="hidden" name="child" value="0">
@@ -280,15 +310,29 @@
 				</p></td></tr></table><br />
 				Speak to an experienced travel agent live by calling toll-free at (800) 677-2943 and start planning your trip ASAP.
 			</p-->
-			<p align="center">
-				<a href="http://www.asaptickets.com/"><font color="#0257A7">Home</font></a> |
-				<a href="http://www.asaptickets.com/about/"><font color="#0257A7">About us</font></a> |
-				<a href="http://www.asaptickets.com/support/"><font color="#0257A7">Customer Service</font></a> |
-				<a href="http://www.asaptickets.com/privacy/"><font color="#0257A7">Privacy Policy</font></a> |
-				<a href="http://www.asaptickets.com/links/"><font color="#0257A7">Links</font></a><br><br>
-				© 1995—2006 ITN Corp.<br>
-				Last modified:Fri, 01 Dec 2006 07:04; Users Online: 2
-			</p>
+			<table width="100%" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td width="20%" valign="bottom">&nbsp;</td>
+					<td width="60%" valign="bottom">			
+						<p align="center">
+										<a href="http://www.asaptickets.com/"><font color="#0257A7">Home</font></a> |
+										<a href="http://www.asaptickets.com/about/"><font color="#0257A7">About Us</font></a> |
+										<!--a href="http://www.asaptickets.com/contacts/"><font color="#0257A7">Contact Us</font></a> |-->
+										<a href="http://www.asaptickets.com/support/"><font color="#0257A7">Customer Service</font></a> |
+										<a href="http://www.asaptickets.com/privacy/"><font color="#0257A7">Privacy Policy</font></a> |
+										<a href="http://www.asaptickets.com/links/"><font color="#0257A7">Links</font></a> |
+										
+										
+										<br><br>
+										© 2007 ITN Corp.<br>
+										Last modified:Fri, 29 Jun 2007 05:20; Users Online: 3
+						</p>
+					</td>
+					<td width="20%" valign="bottom" style="padding-bottom:2px">
+						<!--img src="img/bottom_logos.gif" align="right" width="113px" height="38px"-->
+					</td>
+				</tr>
+			</tbody></table>
 									
 		</td>
 	</tr>
