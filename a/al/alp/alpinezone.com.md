@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alpinezone.com privacy policy that was archived on 2006-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061023123451id_/http%3A//www.alpinezone.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alpinezone.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629060122id_/http%3A//www.alpinezone.com/privacy.htm) for the most accurate reproduction.*
 
 # AlpineZone.com Privacy Policy
 
@@ -7,89 +7,89 @@
 **[ Latest Headlines](http://news.alpinezone.com/) **[](http://rss.alpinezone.com/news.php)  
   
 ---  
- [Killington Resort Announces Lift Ticket Specials for 2006-07 Ski and Snowboard Season...](http://news.alpinezone.com/10616/)  
-   10:35 AM \- Oct 21, 2006   
+ [Killington Resort Announces 2007-08 Ski and Snowboard Season Pass Products, Prices...](http://news.alpinezone.com/16890/)  
+   2:01 PM \- Jun 18, 2007   
   
- [Freeskier Magazine Ranks Okemo's Terrain Parks Among Best in North America...](http://news.alpinezone.com/10615/)  
-    10:34 AM \- Oct 21, 2006   
+ [Jiminy Peak Names Its Turbine Zephyr...](http://news.alpinezone.com/16861/)  
+    1:45 PM \- Jun 14, 2007   
   
- [Mount Snow Terrain Park Rated Best in the East by Freeskier Magazine...](http://news.alpinezone.com/10614/)  
-    10:34 AM \- Oct 21, 2006   
+ [Mad River Glen Joins Jay Peak &amp; Bolton Valley Offering Affordable Student Passes...](http://news.alpinezone.com/16857/)  
+    7:34 PM \- Jun 13, 2007   
   
- [Eastern Mountain Sports Announces Retail Expansion Into Newark, DE and Nanuet, NY...](http://news.alpinezone.com/10555/)  
-    1:42 PM \- Oct 19, 2006   
+ [Pats Peak Ski Area To Host 6th Annual Mountain Bike Festival...](http://news.alpinezone.com/16851/)  
+    1:07 PM \- Jun 13, 2007   
   
- [New Improvements at Gore on the Way for 2006-07 Ski Season...](http://news.alpinezone.com/10548/)  
-    9:17 AM \- Oct 19, 2006   
+ [Family BBQ, Fireworks and Concerts Headline 4th of July Weekend at Waterville Valley...](http://news.alpinezone.com/16839/)  
+    2:21 PM \- Jun 11, 2007   
   
- [Mountain Creek Teams With Harvest House To Host Book And Bake Sale November 4th...](http://news.alpinezone.com/10533/)  
-    2:18 PM \- Oct 18, 2006   
+ [Loon Mountain Opens for Summer Adventure Friday, June 15...](http://news.alpinezone.com/16838/)  
+    2:19 PM \- Jun 11, 2007   
   
- [Burke Mountain Enhances Discounted Lift Ticket Offer to Vermonters...](http://news.alpinezone.com/10532/)  
-    2:17 PM \- Oct 18, 2006   
+ [International Ski and Ride Events Return to Whiteface / Lake Placid...](http://news.alpinezone.com/16837/)  
+    2:18 PM \- Jun 11, 2007   
   
- [N'east Mag Issue 6 on Newsstands...](http://news.alpinezone.com/10531/)  
-    2:17 PM \- Oct 18, 2006   
+ [Vermont Ski Areas Association Announces Skier Visits and Awards at Annual Meeting...](http://news.alpinezone.com/16803/)  
+    1:39 PM \- Jun 7, 2007   
   
- [Mountain Creek Invests Another $500,000 in On-Hill Improvements...](http://news.alpinezone.com/10523/)  
-    9:23 AM \- Oct 18, 2006   
+ [American Skiing Company Announces Sale of Sunday River and Sugarloaf Resorts...](http://news.alpinezone.com/16773/)  
+    8:26 PM \- Jun 5, 2007   
   
- [Seven Springs Mountain Resort Withdraws Category 3 Limited Gaming License Application...](http://news.alpinezone.com/10522/)  
-    9:23 AM \- Oct 18, 2006   
+ [Peak Resorts Announces New Management at Attitash...](http://news.alpinezone.com/16739/)  
+    10:42 AM \- Jun 4, 2007   
   
   
   
 **[ Recent Discussions](http://forums.alpinezone.com/) **[](http://rss.alpinezone.com/forums.php)  
   
 ---  
- [killington to start...](http://forums.alpinezone.com/showthread.php?t=10650&goto=newpost)  
-   6:55 AM \- Oct 23, 2006   
-    by Bob R  
+ [Female Climber neede...](http://forums.alpinezone.com/showthread.php?t=16994&goto=newpost)  
+   1:07 AM \- Jun 29, 2007   
+    by climbingforspinabifida  
   
   
- [Haystack article tod...](http://forums.alpinezone.com/showthread.php?t=10647&goto=newpost)  
-    12:42 AM \- Oct 23, 2006   
-    by ski_resort_observer  
+ [I want a Stowe pass....](http://forums.alpinezone.com/showthread.php?t=16993&goto=newpost)  
+    11:35 PM \- Jun 28, 2007   
+    by awf170  
   
   
- [2006-2007 outings...](http://forums.alpinezone.com/showthread.php?t=9426&goto=newpost)  
-    8:52 AM \- Aug 9, 2006   
-    by Bob R  
+ [Sugarbush AlpineZone...](http://forums.alpinezone.com/showthread.php?t=16986&goto=newpost)  
+    10:41 PM \- Jun 27, 2007   
+    by win  
   
   
- [Anyone planning some...](http://forums.alpinezone.com/showthread.php?t=10599&goto=newpost)  
-    6:31 PM \- Oct 20, 2006   
-    by uphillklimber  
+ [FS: Asolo 520 Men's...](http://forums.alpinezone.com/showthread.php?t=16991&goto=newpost)  
+    9:17 PM \- Jun 28, 2007   
+    by thetrailboss  
   
   
- [Whiteface...](http://forums.alpinezone.com/showthread.php?t=10645&goto=newpost)  
-    8:58 PM \- Oct 22, 2006   
-    by Sparky  
+ [Need advice: Preside...](http://forums.alpinezone.com/showthread.php?t=16938&goto=newpost)  
+    7:08 PM \- Jun 23, 2007   
+    by MAD777  
   
   
- [Electric 9-Volt Sung...](http://forums.alpinezone.com/showthread.php?t=10649&goto=newpost)  
-    3:38 AM \- Oct 23, 2006   
-    by Steepandcheap.com  
+ [What Lifts Have You...](http://forums.alpinezone.com/showthread.php?t=16978&goto=newpost)  
+    7:24 PM \- Jun 27, 2007   
+    by Zand  
   
   
- [Arc'teryx Blaze Zip...](http://forums.alpinezone.com/showthread.php?t=10648&goto=newpost)  
-    2:04 AM \- Oct 23, 2006   
-    by Steepandcheap.com  
+ [Vermont Life Winter...](http://forums.alpinezone.com/showthread.php?t=16992&goto=newpost)  
+    10:21 PM \- Jun 28, 2007   
+    by thetrailboss  
   
   
- [Impressions of Catsk...](http://forums.alpinezone.com/showthread.php?t=10474&goto=newpost)  
-    10:19 AM \- Oct 15, 2006   
-    by highpeaksdrifter  
+ [Who wants to buy a s...](http://forums.alpinezone.com/showthread.php?t=16912&goto=newpost)  
+    10:17 AM \- Jun 21, 2007   
+    by nycskier  
   
   
- [Finally Switched to...](http://forums.alpinezone.com/showthread.php?t=10637&goto=newpost)  
-    10:19 AM \- Oct 22, 2006   
-    by riverc0il  
+ [Vermont Life Photos...](http://forums.alpinezone.com/showthread.php?t=16981&goto=newpost)  
+    9:09 PM \- Jun 27, 2007   
+    by thetrailboss  
   
   
- [Info for Sint Maarte...](http://forums.alpinezone.com/showthread.php?t=10552&goto=newpost)  
-    12:44 PM \- Oct 19, 2006   
-    by NHpowderhound  
+ [bvibert: 6K+...](http://forums.alpinezone.com/showthread.php?t=16988&goto=newpost)  
+    1:30 PM \- Jun 28, 2007   
+    by Greg  
   
   
    
