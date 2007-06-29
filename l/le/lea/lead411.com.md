@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the lead411.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213101730id_/http%3A//www.lead411.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lead411.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629145516id_/http%3A//www.lead411.com/privacy.html) for the most accurate reproduction.*
 
-# Lead411: Privacy Policy
+# Lead411 Privacy Policy
 
-| 
-
-****Privacy Policy:****
-
-* * *
-
-**General Statement**
+|   |  | **Privacy Policy:**  
+---  
+| | **General Statement**
 
 Lead411 holds the privacy and security of our site visitors and members as one of it its highest priorities. This Privacy Policy clearly explains what infomation is gathered and what happens with that information. 
 
@@ -61,8 +57,7 @@ Lead411 reserves the right to change or update this Privacy Policy, or any other
 
 We use Manticore Technology hosted software to provide us with data collection, email, and reporting information regarding our customers' activities on our site. When you visit our website, Manticore may set cookies on our behalf and may receive information about your browsing activity. Additionally, using the Manticore service, we may store personally identifying information that you have provided to us, such as your name and email address. Manticore Technology will not sell or make available any of your personal information to a third party, or use it themselves to market products and services not related to this website. For more information about Manticore Technology software, consumer privacy, and how to opt-out of tracking, please visit http://www.ManticoreTechnology.com/ConsumerPrivacy.asp. 
 
-  
-
-
-
-
+|   
+---|---|---  
+   
+ 
