@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the discoverychannel.co.uk privacy policy that was archived on 2006-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061011061043id_/http%3A//www.discoverychannel.co.uk/_includes/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoverychannel.co.uk privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629053303id_/http%3A//www.discoverychannel.co.uk/_includes/privacy) for the most accurate reproduction.*
 
-# Discovery Channel
+# Privacy Policy - Discovery Channel
 
-The following sets out the privacy policy of Discovery Communications Europe ("us/we") part of the Discovery Communications Inc. group of companies. This policy explains how we use any personal information that you might provide to us on any of our web-sites, including discoverychannel.co.uk, animalplanettv.co.uk, discoveryhealth.co.uk, discovery-kids.co.uk, homeandleisure.co.uk, discoverycivilisation.co.uk, discoveryscience.co.uk, discoverytravelandadventure.co.uk and discoverywings.co.uk (the "Discovery Sites"). This policy does not however apply to Discovery's US sites and we recommend that you review the privacy policies and terms and conditions on any such US sites that you visit.
+The following sets out the privacy policy of Discovery Communications Europe Limited ("us/we") part of the Discovery Communications, LLC group of companies. This policy explains how we use any personal information that you might provide to us on any of our websites, including:  
+www.animalplanet.co.uk; www.discoverycivilisation.co.uk; www.discoveryhd.co.uk; www.discoveryscience.co.uk; www.discoveryturbo.co.uk; www.homeandhealthtv.co.uk; www.realtimetv.co.uk; and www.travelandliving.co.uk (together with www.discoverychannel.co.uk, the "Discovery Sites"). 
+
+This policy does not however apply to Discovery's US sites and we recommend that you review the privacy policies and terms and conditions on any such US sites that you visit.
 
 Personal information means any information that personally identifies you (such as your name, address or email address). 
 
@@ -10,7 +13,7 @@ We may collect and use personal information about you through your use of the Di
 
 As set out below in more detail, your information may sometimes be used by us and our associated companies and trusted third parties to inform you about changes to the Discovery Sites, new services and offers that you might find interesting. By using the Discovery Sites you agree to our use of your personal information in accordance with this policy.
 
- **What and How Do We Collect Information about you and How Is It Used?**
+**What and How Do We Collect Information about you and How Is It Used?**
 
 We may collect and use your information in the following ways. In general, when you submit information, we will ask for your explicit consent to use your information in these ways. 
 
@@ -29,13 +32,13 @@ Additionally we reserve the right to access and disclose your personal informati
 
 **Will We Disclose the Information We Collect to Third Parties?**
 
-We may choose to transfer your personal information to trustworthy third parties a list of whom can be seen at so that they can also send you information, offers or other material that you may find interesting. You may instruct us not to do so at any time by sending an e-mail message to [mail_us@discovery-europe.com](mailto:mail_us@discovery-europe.com).
+We may choose to transfer your personal information to trustworthy third parties so that they can also send you information, offers or other material that you may find interesting. You may instruct us not to do so at any time by sending an e-mail message to [mail_us@discovery-europe.com](mailto:mail_us@discovery-europe.com).
 
 Your personal data may be transferred outside of the European Economic Area for processing. Any transfer of your data is done in circumstances ensuring that your data is processed only in accordance with this privacy policy and the UK's data protection legislation. By registering on a Discovery Site and consenting to these terms, you are consenting to this transfer.
 
 In the event that we sell or otherwise dispose of some or all of our business to another party, we reserve the right to transfer your information as part of any assets sold or disposed of.
 
- **How Do We Protect Your Information?**
+**How Do We Protect Your Information?**
 
 When you review your information, we offer the use of a secure server. The secure server software encrypts the information that you input before it is transmitted to us. In addition, we have security procedures covering the storage and disclosure of your information in order to prevent unauthorised access and to comply with the UK data protection legislation. This means that sometimes we may ask for proof of your identity before we disclose personal information to you. 
 
@@ -45,20 +48,18 @@ A cookie is a piece of information that is stored on your computer's hard drive 
 
 **How Do I Un-subscribe or Amend my Personal Information?**
 
-You can amend or delete from our databases the information that you have given via the Discovery Sites at any time. If you do not wish to receive any particular information, or if you would like to amend the personal data that we hold about you, please send an e-mail to [mail_us@discovery-europe.com](mailto:mail_us@discovery-europe.com) or write to Viewer Relations at Discovery Communications Europe, PO Box 4424, London W1A 7Qu. Alternatively you can call us on 0870 600 5646 on weekdays between the hours of 9am and 6pm.
+You can amend or delete from our databases the information that you have given via the Discovery Sites at any time. If you do not wish to receive any particular information, or if you would like to amend the personal data that we hold about you, please send an e-mail to [mail_us@discovery-europe.com](mailto:mail_us@discovery-europe.com). Alternatively you can call us on 0870 050 6939 on weekdays between the hours of 9am and 5.30pm. We may also use a "Personal Profile Page", which enables you to update your personal information at any time and/or request that we delete your information from our records. This allows us to maintain accurate and up-to-date personal data about you.
 
-We may also use a "Personal Profile Page", which enables you to update your personal information at any time and/or request that we delete your information from our records. This allows us to maintain accurate and up-to-date personal data about you.
-
- **Changes to our Privacy Policy**
+**Changes to our Privacy Policy**
 
 We will try to inform you if there are any changes to this policy that materially affect how we use your information. However, we encourage users to be responsible about their privacy and to check this policy from time to time and to update their preferences.
 
- **Discovery Health**
+**Discovery Home & Health**
 
-You should remember that all information that is disclosed in the chat rooms, forums and/or other public-posting areas on the Discovery Sites becomes public information and you should exercise caution when deciding to share any of your personal information. If you post any sensitive personal information you are expressly consenting to our processing and use of such data in connection with our operation of the Discovery Health website.
+You should remember that all information that is disclosed in the chat rooms, forums and/or other public-posting areas on the Discovery Sites becomes public information and you should exercise caution when deciding to share any of your personal information. If you post any sensitive personal information you are expressly consenting to our processing and use of such data in connection with our operation of the Discovery Home & Health website.
 
-Additional terms and conditions apply to the use of the Discovery Health Forum. In the event of any inconsistency between these Terms and the additional terms and conditions on the Discovery Health Forum, the latter will prevail.
+Additional terms and conditions apply to the use of the Discovery Home & Health Forum. In the event of any inconsistency between these Terms and the additional terms and conditions on the [Discovery Home & Health Forum](http://community.homeandhealthtv.co.uk/eve/forums/a/cfrm/f/136101191), the latter will prevail.
 
- **Customer Feedback and Complaints**
+**Customer Feedback and Complaints**
 
 We welcome your questions and comments about privacy issues and the design of our web site. Should you have such comments or have a complaint about how we are using your personal data, please e-mail us at [mail_us@discovery-europe.com](mailto:mail_us@discovery-europe.com). 
