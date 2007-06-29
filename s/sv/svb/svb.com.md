@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the svb.com privacy policy that was archived on 2006-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061109211941id_/http%3A//www.svb.com/corp/legal.asp%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the svb.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629180748id_/http%3A//www.svb.com/corp/legal.asp%3Fprivacy) for the most accurate reproduction.*
 
 # SVB Financial Group :: Legal Notices
 
@@ -7,7 +7,6 @@
 Legal Notices
 
 |  |  Privacy Policy  
-Privacy Statement  
 At Silicon Valley Bank1, we are committed to protecting the privacy and security of your non-public personal information. Our goal is to help you understand how we collect and use the information you provide to us. Whether you are a current or former customer, our practices are the same.
 
 **Highlights**
