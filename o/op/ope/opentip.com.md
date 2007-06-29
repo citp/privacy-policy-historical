@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opentip.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209184133id_/http%3A//www.opentip.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opentip.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629145445id_/http%3A//www.opentip.com/privacy.php) for the most accurate reproduction.*
 
 # Opentip.com Best buy for promotional items, sporting goods, office products, home and garden, and apparel. Opentip.com offers discount coupons, overstock, clearance, wholesale, or factory price.
 
