@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the blink182.com privacy policy that was archived on 2005-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050603233745id_/http%3A//www.blink182.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blink182.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629214141id_/http%3A//www.blink182.com/privacy.asp) for the most accurate reproduction.*
 
-# blink-182 : Official Site
+# UNIVERSAL MUSIC GROUP PRIVACY POLICY
 
 December 1, 2004
-
-## UNIVERSAL MUSIC GROUP PRIVACY POLICY
 
 [ Universal Music Group](http://www.universalmusicgroup.com/) and this site care about your privacy. Universal Music Group consists of: [ Interscope Records, A&M Records](http://www.interscope.com/), [ Geffen Records](http://www.geffen.com/), [Dreamworks Records](http://www.dreamworksrecords.com/), [ Island](http://www.islandrecords.com/) [ Def Jam Music Group](http://www.defjam.com/), [ Lost Highway Records](http://www.losthighwayrecords.com/), [ MCA Nashville](http://www.mca-nashville.com/), [ Mercury Records](http://www.mercurynashville.com/), [ Motown Records](http://www.motown.com/), [ Universal Records](http://www.universalrecords.com/), [ Verve Music Group](http://www.vervemusicgroup.com/), [ Universal Classics](http://www.iclassics.com/) and [ Universal Music Enterprises](http://www.universalmusicenterprises.com/) as well as a multitude of record labels owned or distributed by its record company subsidiaries around the world. This privacy policy tells you what information we collect at our web sites and how we use it. If you choose to visit any of the Universal Music Group web sites, your visit is subject to this privacy policy, and you agree to the terms of it.
 
