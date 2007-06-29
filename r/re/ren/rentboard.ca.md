@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rentboard.ca privacy policy that was archived on 2006-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060923110648id_/http%3A//rentboard.ca/company/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentboard.ca privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629130533id_/http%3A//www.rentboard.ca/company/privacy_policy.aspx) for the most accurate reproduction.*
 
-# RentBoard.ca Privacy Policy apartments and houses for rent
+# Privacy Policy - RentBoard.ca
 
 RentBoard.ca respects the privacy of its users. In this document we explain how we use information you supply us via the RentBoard.ca Web site. This privacy policy may be modified in the future. If it is, a new policy will be posted on this web site. 
 
