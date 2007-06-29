@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizplus.ie privacy policy that was archived on 2006-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061024221946id_/http%3A//www.bizplus.ie/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizplus.ie privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629175423id_/http%3A//www.bizplus.ie/privacy_policy) for the most accurate reproduction.*
 
 # Business Plus Online : Privacy Policy : Ireland's leading business magazine
 
