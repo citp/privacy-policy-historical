@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virginholidays.co.uk privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206002522id_/http%3A//www.virginholidays.co.uk/info/important/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginholidays.co.uk privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629223433id_/http%3A//www.virginholidays.co.uk/info/important/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Policy - Important - Virgin Holidays
 
@@ -18,7 +18,7 @@ By using our website, you consent to the collection and use of this information 
 
 ## 2\. What we collect and why
 
-We ask for information about you in 3 areas of our website.
+We ask for information about you in 4 areas of our website.
 
   1. ### When making an on line booking
 
@@ -32,8 +32,16 @@ We need your name and address so we can send you the brochure. If you have given
 
 This information will not be given to any third party, except to the extent and for the purpose we may be required to do so by any law. With Virginholidays.com YOU are always in control of your personal information, if at any time you wish us to stop contacting you then simply email us at [update.customer@virginholidays.co.uk](mailto:update.customer@virginholidays.co.uk)
 
+  4. ### When applying for a job using the online application form
+
+When applying for a job we will ask for personal information. The purpose for which your personal data will be processed is in respect of your application for potential employment. By registering your details, you are hereby granting your consent in respect of the above. Where you have provided your email address, it is required so that we can send to you by email relevant career opportunity information. Your email address will only be used by Virgin Atlantic for the purpose described above and will not be given to any third party. Your information may also be used for internal statistical and reporting purposes, but no information which may identify you will be used for this purpose.
 
 
+
+
+### Third Parties
+
+We may occasionally use third party companies to manage collation, processing and storage of your personal data on your behalf. These companies are carefully selected and screened to ensure maximum protection of your security and privacy and are permitted to use the data only in accordance with our instructions. 
 
 ## 3\. What are cookies and do we use them?
 
