@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the johnlscott.com privacy policy that was archived on 2006-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061115223723id_/http%3A//www.johnlscott.com/SiteContent.aspx%3FLanding%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johnlscott.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629065624id_/http%3A//www.johnlscott.com/SiteContent.aspx%3FLanding%3DPrivacy) for the most accurate reproduction.*
 
-# John L. Scott Real Estate
+# John L Scott Privacy Policy
 
 John L. Scott Real Estate (BROKERAGE) promises to protect the personal information given to us by visitors to our website and information included on our electronic mail lists. Any information that you give to John L. Scott Real Estate will be held with the utmost care, and will not be used in any way to which you have not consented. A more detailed explanation follows.
 
