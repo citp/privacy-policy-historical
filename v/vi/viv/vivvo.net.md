@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vivvo.net privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212232031id_/http%3A//www.vivvo.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivvo.net privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629215756id_/http%3A//vivvo.net/privacy.php) for the most accurate reproduction.*
 
 # PHP News and Article Manager
 
