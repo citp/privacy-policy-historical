@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the st-patricks-day.com privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114134521id_/http%3A//www.st-patricks-day.com/about.asp%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the st-patricks-day.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629163348id_/http%3A//www.st-patricks-day.com/about.asp%23privacy) for the most accurate reproduction.*
 
 # www.St-Patricks-Day.com
 
@@ -10,7 +10,7 @@ Now in its 9th year, St-Patricks-Day.com, the number one ranking information web
 
 The objective of St-Patricks-Day.com is to become the world's largest online resource for Irish nationals and Irish diaspora with the bulk of the audience being Irish Americans, Irish Diaspora and people interested in Ireland.
 
-Email Us re. Advertising, Marketing, PR & Sales promotion opportunities at [info@st-patricks-day.com](mailto:info@st-patricks-day.com)
+[Email Us](https://web.archive.org/web/20070629163348id_/http%3A//www.st-patricks-day.com/contact_us.asp) re. Advertising, Marketing, PR & Sales promotion opportunities.
 
   
   
@@ -31,4 +31,4 @@ We collect this, and other information, as disclosed in this policy, in order to
 
 We have taken steps to ensure that personally identifiable information collected is secure, including limiting the number of people who have physical access to its database servers, as well as electronic security systems and password protections which guard against unauthorized access.
 
-St-Patricks-Day.com Internet Promotions would like to take this opportunity to encourage users to be smart about choosing when, and to whom to release information online. All queries should be sent to [info@st-patricks-day.com](mailto:info@st-patricks-day.com)
+St-Patricks-Day.com Internet Promotions would like to take this opportunity to encourage users to be smart about choosing when, and to whom to release information online.
