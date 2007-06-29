@@ -1,86 +1,38 @@
-> *The following text is extracted and transformed from the netnanny.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207215002id_/http%3A//www.netnanny.com/p/page%3Fsb%3Daboutus%26pg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netnanny.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629202114id_/http%3A//www.netnanny.com/support/privacy_policy) for the most accurate reproduction.*
 
-# NetNanny - Keeping your kids safe on the Internet
+# Privacy Policy :: Net Nanny Parental Controls
 
-NetNanny, a service of LookSmart, Ltd., has created this privacy statement in order to demonstrate our firm commitment to protecting your privacy. The following discloses our information gathering and dissemination practices for the www.NetNanny.com site.
+Your privacy is important to ContentWatch Inc. To better protect your privacy, we have provided this statement which explains our online information practices, and the choices regarding the way your personal information is collected and used. We hope this statement will increase your confidence in our Web site and enhance your experience on the Internet with ContentWatch Inc.
 
-If you have any questions about this privacy statement, the practices of this site or your dealings with this site, email [copyright@looksmart.net](mailto:copyright@looksmart.net).
+**Important note:** In order to receive important product updates, notification of product error fixes, or other relevant ContentWatch information, you must choose to receive email messages from us. Please keep in mind that if you choose not to receive email messages, we will be unable to communicate with you via email.
 
-* **What information does NetNanny collect?**
+**1\. INFORMATION YOU PROVIDE.** There are several activities on our Web site where the collection of personally identifiable information is necessary, such as when you enter a contest or sweepstakes, make a purchase, subscribe to a service or contact us. You will know when personally identifiable information is collected because you will be asked to complete a form. Generally, we collect only your name, email address, gender, physical address and telephone and facsimile number(s). When you make a purchase, we will also collect your credit card information.
 
-At different times, NetNanny may collect several types of information about you. Except as otherwise stated in this privacy policy, we do not provide this information to third parties, except in aggregate form.
+**2\. INFORMATION WE COLLECT.** In addition to the information you provide, when you visit our Web site, we may collect information regarding the type of browser you are using (e.g., Netscape, Internet Explorer, etc.), the type of operating system you are using (e.g., Windows, Mac OS, etc.) and the domain name of your Internet service provider (e.g., America Online, Earthlink, etc.). This non-personally identifiable information is used to make our Web site as highly usable as possible for the widest variety of users. We also maintain a count of the files detected with ContentAudit, along with a count of the files cleaned with ContentCleanup. Actual file names and personally identifiable information is not tracked or recorded by ContentWatch.
 
-First, we or our partners or advertisers may use a feature of your browser called a cookie to assign identification to your computer. The unique user ID contained within your cookie automatically identifies your computer — but not you — to our servers every time you visit our site. Cookies by themselves cannot be used to find out the identity of any user. You can turn the cookies feature off by using your browser's preference options, but you may not be able to utilize some services properly.
+We may also receive and store certain types of information automatically through the use of "cookies." Cookies are pieces of information that a Web site sends to your computer while you are viewing the Web site. We use cookies to track important information (e.g., to track items you order) and to tell us whether you have visited our Web site before. We do not use cookies to obtain personal information about you from your computer. You may set your computer to warn you each time a cookie is sent, or you may set your computer to turn off all cookies, but this will limit some functionality of our Web site.
 
-Second, we keep track of your IP address to help diagnose problems with our servers and to administer our site. Your IP address is a number that identifies a computer which accesses the Internet. This address is used to gather broad demographic information about you, such as your Internet service provider and the geographic location of your IP address. NetNanny may also collect aggregate information on how our users are utilizing the site. This might include information regarding traffic patterns through the site and search queries.
+We may also use email links located on our Web site to allow you to contact us directly with any questions or comments you may have. The information you provide in such emails is used to respond directly to your questions or comments, but may also be used to improve our Web site and its content. We may also review and discard the information provided in such emails.
 
-Third, we log browser types, access times, URLs from which visitors came to our site and URLs viewed by visitors while on our site. Again, NetNanny uses this information on an aggregate basis, in this case making sure we can support overall visitor traffic and service performance.
+**3\. HOW WE USE THE INFORMATION.** We may use the personally identifiable information that you provide, as well as the non-personally identifiable information that we otherwise collect about you, to fulfill your requests for our products, programs and services (e.g., billing, shipping, etc.), to respond to your inquiries about our offerings, to offer you other products, programs or services that we believe may be of interest to you, and to otherwise contact you. These products, programs and services may be ours or those of our trusted subsidiaries, affiliates, business partners or sponsors. Our desire is to only market to our opted in users, those products, programs and services that may be of interest. You will have an opportunity to opt out or block such marketing at any time.
 
-Fourth, at specific times we may ask you to provide us with personal information in order for you to register for a service or to enter a sweepstakes. Also, you may also provide personal information if you write us feedback email. This information may include but is not limited to your name and email address. You may always choose not to provide us with this information; however, this may limit our ability to provide you with a specific service, offer you personalized content, or respond to your feedback.
+We will never disclose your credit card information or your personal identity information for marketing purposes. However, we may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena or a law enforcement agency's request. We may disclose personally identifiable information in connection with the sale of some or all of our assets or our business.
 
-Fifth, we contract with 24/7 Real Media, a service partner, to provide us with a data collection and reporting service to better understand overall use of our site. 24/7 Real Media may store certain legacy data that we received from visitors to our site prior to our relationship with them, so that we may access this information via their reporting service. 24/7 Real Media may collect information on our behalf about our users' visiting behaviors in several ways, including through the use of cookies or pixel tags. We use 24/7 Real Media to understand what's popular and useful for visitors.
+We may use or allow reputable third parties to present or serve the advertisements that you may see on our Web pages. In addition, some business advertisements are managed and placed on our Web pages by third party companies. This Privacy Statement does not cover any use of information that a third party ad server or network advertiser may collect from you.
 
-* **What organization is collecting the information?**
+**4\. OPT OUT POLICY.** You may request at any time that ContentWatch Inc. not send any future email to you by unsubscribing from the communication within [My Account](https://web.archive.org/account/unsubscribe).
 
-NetNanny usually collects the requested information. However, NetNanny has chosen select partners in order to provide certain services. In order to use certain services on the site, it may be necessary to enter information that then goes to our partner and is not kept by NetNanny. The areas of our site in which partners are collecting information may be cobranded with our partners' logos. If you have questions regarding the privacy policy or data collection practices of one of our content partners, please contact that partner directly.
+**5\. SECURITY WE PROVIDE.** We have attempted to place appropriate physical, electronic and managerial procedures to safeguard and help protect against unauthorized access, maintain data security and correctly use the information we collect. Agents and contractors of ContentWatch Inc. who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Statement. Although we take appropriate measures to safeguard against unauthorized disclosures of personally identifiable information, we cannot assure you that your personally identifiable information will never be disclosed in a manner that is inconsistent with this Privacy Statement. We protect the security of your credit card information using secure socket layer (SSL) encryption.
 
-We use third-party advertising companies and advertising networks to collect information and serve ads to you when you visit our site. These companies may use cookies, pixel tags, or otherwise independently collect information (not including your name, address email address or telephone number) from you and use this information about your visits to this and other sites in order to provide advertisements about goods and services of interest to you. We do not control their collection and use of information. Please note that if an advertiser or advertising network asks us to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 13-24 who have viewed sports content) and you respond to that ad, the advertiser or advertising network may conclude that you fit the description of the audience they are trying to reach.
+Our Web site may contain links to other Web sites. We are not responsible for the privacy practices or the content of any such Web sites.
 
-To learn more about the collection of information by these third party advertising networks, including how to opt out of such collection, see the links below.
+This Privacy Statement is subject to change at any time, at the discretion of ContentWatch Inc. However, if we determine to change this Privacy Statement in any material aspect, we will notify you of such changes by email.
 
-To opt out of collection by AlmondNet, please visit: http://www.almondnet.com/privacy.aspx?miid=7&artid=52
+**6\. HOW WE HANDLE CHILDREN'S PRIVACY.** We do not target or sell products, programs or services to children. Children under 13 years of age may not submit personally identifiable information without the consent of a parent. We do not provide any personally identifiable information about children under 13 years of age to any third party for any purpose whatsoever.
 
-To opt out of collection by Revenue Science, Inc., please visit: http://www.networkadvertising.org/optout_nonppii.asp
+**7\. HOW YOU CONTACT US.** If you need further assistance, if you have any questions or concerns, or if you would like to modify your personally identifiable information in any way, you may send an email to [info@contentwatch.com](mailto:info@contentwatch.com).  You may also send mail to the following address:
 
-To opt out of collection by 24/7 Real Media, please visit: http://www.247realmedia.com/opt-out.html
+ContentWatch Corporate Office:  
+2369 West Orton Circle  
+Salt Lake City, Utah 84119 USA  
 
-* **What does NetNanny do with the data it collects?**
-
-Whenever NetNanny collects data, the data is intended to tailor or improve the experience of visitors to our site. From the data collected we can customize content and advertising based on the user's preferences. We may use information from cookies to differentiate between unique users, personalize the site for each unique user, to control the frequency of individual advertisements directed to individual computers, and other purposes. In all cases, personally identifiable information is not shared with our advertisers, except as otherwise stated in this privacy policy.
-
-We use IP addresses to help diagnose problems with our server and to administer our site. It's the way we can make sure our service is available 24/7 to you.
-
-If you register for a service or to enter a sweepstakes, we may use the information we collect to provide the service to you or send communications regarding the sweepstakes. We may also send a newsletter by email to our users who opt to receive such emails. It is our policy to send these emails only to users who give us permission to do so. In every such email, we will also have instructions on how to unsubscribe and avoid receiving any future emails from us. NetNanny also may contact you by email to respond to feedback you have submitted.
-
-* **With whom does NetNanny share data?**
-
-NetNanny may disclose your personal information to our business partners in order to provide you with the services you have requested, or to companies that offer a cobranded version of our site. If you have questions regarding the privacy policy or data-collection practices of one of our business partners, please contact that partner directly. NetNanny does not have control over and is not responsible for the data collection and use practices of our business partners. NetNanny may also disclose your personal information to other members of the LookSmart family of businesses.
-
-We also may disclose your personal information (including without limitation IP addresses) to a third party if we believe in good faith that the law or legal process requires it, to protect the rights or property of NetNanny or others, or as otherwise described in this privacy policy.
-
-We may disclose certain non-personally identifiable information about you to advertisers or other third parties in order to present you with targeted advertisements. We may share aggregate demographic information with our advertisers or information collection companies, but will not reveal any personally identifiable information in these instances.
-
-* **What choices are available regarding collection, use and distribution of the information (Opt Out Policy)?**
-
-As previously noted, you may always choose to not provide us with any of the information we request; however, this may limit our ability to provide you with a specific service or limit our ability to offer personalized content.
-
-To learn more about the collection of information by third party advertising networks, including how to opt out of such collection, see the links below.
-
-To opt out of collection by AlmondNet, please visit: http://www.almondnet.com/privacy.aspx?miid=7&artid=52
-
-To opt out of collection by Revenue Science, Inc., please visit: http://www.networkadvertising.org/optout_nonppii.asp
-
-To opt out of collection by 24/7 Real Media, please visit: http://www.247realmedia.com/opt-out.html 
-* **How can I update or correct my information?**
-
-NetNanny does not currently have a method for users to change their user information. In the case of personalized services, you will be able to modify your user information through personalization links on those pages.
-
-* **How can I delete my information?**
-
-NetNanny currently does not have a method for completely deleting user information from our database. However, deleting the cookie stored on your computer will cause you to be perceived as a new user with no known user data. You may also change a setting in your browser, instructing it not to accept cookies, but this could prevent you from receiving some NetNanny services.
-
-* **What procedures have been designed to protect the loss, misuse or alteration of information under NetNanny's control?**
-
-Except as otherwise stated in this privacy policy, NetNanny has taken measures to ensure that information that is not publicly available through its site is accessible only to the user who initially entered the information or to authorized personnel at NetNanny or its partners, and only after a password has been entered. In the unlikely event of a security breach for which we provide notice under Cal. Civ. Code § 1798.82, LookSmart will send a notification to the email address on file (if any) for each relevant user informing him or her of the security breach.
-
-* **What about privacy policies for sites to which NetNanny links?**
-
-NetNanny contains many links to Web sites not controlled by NetNanny. These sites have their own policies and practices with respect to online privacy, and NetNanny cannot be responsible for the privacy practices or the content of these Web sites. In addition, in certain instances a NetNanny advertiser may ask you for personal information. NetNanny cannot be responsible for the privacy practices of its advertisers.
-
-* **What happens to my information if NetNanny merges with or its assets are sold to another company?**
-
-It is possible that NetNanny and/or any of our assets may be acquired. In such a transaction, user information may be transferred to the acquiring entity. While we will endeavor to require the successor company to maintain this privacy policy, we cannot guarantee that our policy will remain in effect.
-
-This policy may be revised over time as new features are added to the site. We will post our new privacy policy, along with the date of its last revision, prominently so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. Please check this page for information about revisions to our privacy policy.
-
-If you have any questions about this privacy policy or about NetNanny information collection practices, please contact us at [copyright@looksmart.net](mailto:copyright@looksmart.net).
