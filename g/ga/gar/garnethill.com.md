@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the garnethill.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018201013id_/http%3A//www.garnethill.com/jump.jsp%3FitemID%3D2344%26itemType%3DCATEGORY%26path%3D1%252C2%252C2333%252C2344) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garnethill.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629230547id_/http%3A//www.garnethill.com/jump.jsp%3FitemID%3D2344%26itemType%3DCATEGORY%26path%3D1%252C2%252C2333%252C2344) for the most accurate reproduction.*
 
-# Garnet Hill
+# Customer Service - Your Privacy Rights - Garnet Hill
 
 Updated: January 27, 2005
 
