@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the bitzipper.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214053835id_/http%3A//www.bitzipper.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitzipper.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629210657id_/http%3A//www.bitzipper.com/privacy.html) for the most accurate reproduction.*
 
 # Bitberry Software Privacy Policy
-
-  
-
 
 Updated August 22, 2004
 
@@ -70,4 +67,9 @@ We use cookies on the Sites to store information about the site you visited us t
 
 ### Enforcement of this Privacy Statement
 
-If you have questions regarding this statement, you should contact us at support@bitberry.com
+If you have questions regarding this statement, you should [contact us](https://web.archive.org/web/20070629210657id_/http%3A//www.bitzipper.com/contact.html)
+
+  
+  
+  
+
