@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quizyourfriends.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230115441id_/http%3A//www03.quizyourfriends.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizyourfriends.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629232044id_/http%3A//www02.quizyourfriends.com/privacy.html) for the most accurate reproduction.*
 
 # QuizYourFriends - Privacy Policy
 
@@ -7,7 +7,7 @@ QuizYourFriends.com is an Internet service owned and operated by QuizYourFriends
 If you feel that QuizYourFriends is not abiding by its posted Privacy Policy, please contact QuizYourFriends via registered mail to:
 
       QuizYourFriends.com Policy Dept.  
-      QuizYourFriends, Inc.  
+      QuizYourFriends, LLC  
       PO Box 62666  
       Cincinnati, OH 45262
 
