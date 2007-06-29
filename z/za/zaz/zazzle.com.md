@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zazzle.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213013938id_/http%3A//www.zazzle.com/policy/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zazzle.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629171411id_/http%3A//www.zazzle.com/mk/policy/privacy_policy) for the most accurate reproduction.*
 
-# Zazzle.com
+# Zazzle Privacy Policy
 
 Thanks for using [www.zazzle.com](http://www.zazzle.com/) (the "Zazzle Website"). At Zazzle.com, Inc. ("Zazzle"), we are committed to protecting your privacy. We have created this privacy policy to make sure you know what information we collect and how we use it. By using our web site, you consent to the collection and use of your information as we have outlined in this policy. From time to time, we may update this privacy policy. We will notify you about material changes in the way we treat personally identifiable information by emailing you and/or placing a notice on our Website. We encourage you to check back and review this privacy policy so that you always will know what personally identifiable information we collect, how we use it, and to whom we disclose it. Your continued use of the Zazzle Website will be subject to the then current privacy policy.
 
@@ -86,12 +86,12 @@ Parents can review any information Zazzle has received from a child and the pare
 
 Zazzle.Com, Inc.  
 Attn: Privacy  
-849 High St.  
-Palo Alto, CA 94301  
+1900 Seaport Blvd  
+Redwood City, CA 94063  
 [COPPA@zazzle.com](mailto:COPPA@zazzle.com)  
-650-853-0100
+1(800)980-9890
 
 **How can I change, delete, or update my information?**  
-Most of your account information can be changed in the MyZazzle section of the Zazzle Website. If you have any questions about what information is stored or would like to obtain a copy of such information, please contact us at [privacy@zazzle.com](mailto:privacy@zazzle.com) or Privacy c/o Zazzle.com, Inc., 849 High St., Palo Alto, CA 94301. After receiving proof of your identity, we will provide the information to you, and you may request that we delete or change any or all of the information.
+Most of your account information can be changed in the MyZazzle section of the Zazzle Website. If you have any questions about what information is stored or would like to obtain a copy of such information, please contact us at [privacy@zazzle.com](mailto:privacy@zazzle.com) or Privacy c/o Zazzle.com, Inc., 1900 Seaport Blvd, Redwood City, CA 94063. After receiving proof of your identity, we will provide the information to you, and you may request that we delete or change any or all of the information.
 
 The current version of the Zazzle Privacy Policy was adopted effective as of 10/30/2006.
