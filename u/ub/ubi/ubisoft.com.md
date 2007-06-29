@@ -1,24 +1,12 @@
-> *The following text is extracted and transformed from the ubisoft.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205193333id_/http%3A//www.ubi.com/US/Info/Info.aspx%3Ftagname%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubisoft.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629183652id_/http%3A//www.ubi.com/US/Info/Info.aspx%3Ftagname%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Ubisoft - Privacy Policy
 
 | 
 
-|   
----  
-|  | 
-
-[ ](https://web.archive.org/US/Games/OnlineGames.aspx)
-
-|  | 
-
-|  |  |   
----|---|---  
-| 
-
 **UBISOFT ONLINE PRIVACY STATEMENT**
 
-Last updated September 19, 2006 
+Last updated February 6, 2007
 
 Welcome to Ubisoft! 
 
@@ -85,8 +73,9 @@ Additionally, we may also collect other types of non-personal information (known
 **Information Collected Through Technology**
 
 We collect information through technology to make our websites more interesting and useful to you. For example, when you come to one of our websites, we collect your IP address. An IP address is often associated with the portal through which you enter the Internet, like your ISP (Internet service provider), your company, or your university. Standing alone, your IP address is not personally identifiable. At times, we also use IP addresses to collect information regarding the frequency with which our guests visit various parts of our websites. We may combine this information with personally identifiable information.  
->Ubisoft may collect information regarding the user's behavior, and his/her use of Ubisoft's demos and games to better adapt our products and services to users.  
->
+
+
+Ubisoft may collect information regarding the user’s behaviour, and his/her use of Ubisoft’s demos and games to better adapt our products and services to users.
 
 **Cookies**
 
@@ -102,6 +91,8 @@ back to top
 We don’t sell or rent your personal information to third parties without your consent. We don’t require personal information to access our website. However, if you prefer not to disclose personal information, you will not be able to enjoy certain features of our website. 
 
 Information collected from those who create a ubi.com account is used to provide services like subscription to our general newsletter, email announcements relating to your account, free online gameplaying, access to the latest game news and exclusive store promotions, and participation in community forums and contests and sweepstakes. In some instances, however, you may also be given the option to have your information used for an activity or service different from the activity or service that you are requesting (e.g., have your name entered into a contest when subscribing to a game-specific newsletter and vice versa). If you choose to receive these additional services, we will use your information to provide you those services. 
+
+Should you decide to link your Ubisoft Account to your console manufacturer gaming account Ubisoft will only exchange information regarding your age, country, date of birth and email with such parties.  No other personal information such as your credit card information or address will be exchanged with such parties.
 
 **Ubisoft Updates**
 
@@ -141,10 +132,10 @@ As mentioned above, you have control over the personal information you submit to
 Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of Ubisoft who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [privacy@ubisoft.com](mailto:privacy@ubisoft.com) or write us: 
 
 > Ubisoft, Inc.  
-> >Attn: Privacy Rights Administrator  
-> >3200 Gateway Centre Blvd, Suite 100  
-> >Morrisville, NC 27560  
-> >
+> Attn: Privacy Rights Administrator  
+> 3200 Gateway Centre Blvd, Suite 100  
+> Morrisville, NC 27560  
+> 
 
 back to top  
   
@@ -170,21 +161,21 @@ back to top
 If you have questions or wish to send us comments about this Privacy Policy, please send an e-mail with your questions or comments to [privacy@ubisoft.com](mailto:privacy@ubisoft.com) or write us: 
 
 > Ubisoft, Inc.  
-> >Attn: Privacy Rights Administrator  
-> >3200 Gateway Centre Blvd, Suite 100  
-> >Morrisville, NC 27560  
-> >
+> Attn: Privacy Rights Administrator  
+> 3200 Gateway Centre Blvd, Suite 100  
+> Morrisville, NC 27560  
+>  
 
 Please be assured that any personal information that you provide in communications to the above email and postal mail addresses will not be used to send you promotional materials, unless you request it. 
 
 Ubisoft is a licensee of the ESRB’s Privacy Online Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at <http://www.esrb.org/privacy/contact.jsp>. 
 
 > ESRB  
-> >Attn.: Privacy Online Program  
-> >317 Madison Avenue, 22nd Floor  
-> >New York, NY 10017  
-> >212-759-0700  
-> >[privacy@esrb.org](mailto:privacy@esrb.org)
+> Attn.: Privacy Online Program  
+> 317 Madison Avenue, 22nd Floor  
+> New York, NY 10017  
+> 212-759-0700  
+> [privacy@esrb.org](mailto:privacy@esrb.org)
 
 back to top  
   
@@ -197,9 +188,208 @@ Please note that, at all times, you are responsible for updating your personal i
 
 back to top  
   
-[**Privacy Policy and Parental Consent Form for Children under 13**](http://supportfr.ubi.com/US/consentform.htm)  
+**UBISOFT’S KIDS PRIVACY POLICY**
+
+Last updated August 28, 2006
+
+Welcome to Ubisoft!
+
+**OUR PRIVACY COMMITMENT**
+
+Ubisoft has developed its websites with the goal of creating an enjoyable experience for all users.  This Kids Privacy Policy is designed to answer your questions regarding our privacy policies concerning children under the age of 13.
+
+Building on our general Privacy Policy, we recognize the need to provide additional privacy protections when children visit sites on which we post this Kids Privacy Policy.  We explain those additional protections in this Kids Privacy Policy.
+
+The Children's Online Privacy Protection Act (“COPPA”) requires that we inform parents and legal guardians about how we collect, use, and disclose personal information from kids under 13 years of age.  COPPA also requires us to obtain the consent of parents and guardians for children under 13 years of age to use certain features of our Web sites.  Below we explain how we do that for kids.  Also, when we use the term “parent” below, we mean to include legal guardians.
+
+This certification seal shown on this page confirms that Ubisoft is a member in good standing of [ESRB’s Privacy Online Program](http://www.esrb.org/privacy/index.jsp).  ESRB’s Privacy Online Program is designed to ensure that our website’s information disclosure practices are responsible and appropriate.  To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices.  As part of this privacy program, ESRB independently audits our websites, and administers other enforcement and accountability mechanisms. ** _  
+_**
+
+##  TABLE OF CONTENTS
+
+**Q1. What types of information do we collect about kids?  
+Q2. How do we use and share the personally identifiable information that we collect from kids?   
+Q3. How do we notify and obtain consent from parents for the collection of personal information from their kids?   
+Q4. How can parents access, change or delete personally identifiable information about their kids?   
+Q5. What kinds of security measures do we take to safeguard kids’ personally identifiable information?   
+Q6. How will we notify parents if our Kids Privacy Policy changes?   
+Q7. Who do guests contact with questions or concerns about our Kids’ Privacy Policy?**
+
+**Q1**
+
+|   
+---|---  
   
-|    
-Print friendly version  |   
+**A1**
+
+| 
+
+Kids can surf Ubisoft’s sites, view content, and enjoy many features without having to disclose any personal information.  We don’t collect personal information from kids while they use our sites unless they register on Ubisoft’s sites. 
+
+For those who choose to register and participate in certain areas of our website, we collect personal information directly from kids to:
+
+1\. Create a Ubi.com account   
+2\. Subscribe to our newsletters   
+3\. Shop at one of our online stores   
+4\. Receive customer or technical support   
+5\. Participate in contests, events, or promotions   
+6\. Register product online for warranty protection   
+7\. Polls, surveys, or questionnaires 
+
+We may collect personal information from parents to allow kids to participate in certain activities offered on our websites and within our kids' subscription products.  These activities may include purchasing product in one of our online stores, participating in games, reward programs, contests, sweepstakes, events or other promotions.
+
+Typically, this information includes:
+
+1\. name   
+2\. email address   
+3\. shipping and billing address, and   
+4\. for those purchasing products online, credit card information. 
+
+We may collect demographic information (e.g., date of birth, gender, and game preferences) and combine it with the child’s personal information.  Ubisoft will only collect this information if it is voluntarily and properly submitted to us by either the child or parent.
+
+Note that all commercial sites directed to children under 13 are prohibited by U.S. law from conditioning a kid’s participation in an online activity on the kid's providing more personal information than is reasonably necessary.
+
+Some areas of our website may offer features like electronic postcards that allow kids to submit personal information (e.g., email address) without first disclosing their age or obtaining verifiable parental consent.  These areas provide services in a way that doesn’t require prior verifiable parental consent.
+
+Finally, we may collect demographic information about kids.  For example, if a kid participates in a survey, we may collect those responses.  Among them, we may collect age, gender, hobbies, and interests or other demographic information about gaming and preferences.  We also use some passive technologies, including cookies and web beacons, to monitor traffic on our websites.  This demographic information may be associated with a child’s personal information.
+
+back to top  
   
-|  | 
+**Q2**
+
+| 
+
+**How do we use and share the personally identifiable information that we collect from kids?**  
+  
+---|---  
+  
+**A2**
+
+| 
+
+We may use your child’s information to allow your child to send questions or request customer support.  We may also use your child’s information to participate in polls, surveys or questionnaires.  We may also use that information to send your child email and messages with promotional information about new products and features, special offers, and other interesting events concerning new products, events and other information about Ubisoft.
+
+If a parent allows us to collect personal information about their kid, we may link certain information collected through technology (see the "Information Collected Through Technology" section of A2 of our General Privacy Policy) to that personal information.
+
+We may use the information that we collect from and about kids for our business purposes, including record-keeping, transaction fulfillment, and marketing.  The contact information gathered from a kid is used to obtain consent to our information collection from their parents.
+
+After registration, contact information may also be used to notify users of promotional activities such as contests, sweepstakes, newsletters or new products, or functional changes to our website or privacy policy.  Finally, we may use personal and demographic information for our internal marketing to study ways to enhance our services.
+
+If a kid wins a sweepstakes, contest, or other promotional event, and we haven’t already collected the parent’s consent, we notify the parent at the email address provided to us during the registration process, and request that the parent provide his or her postal address for purposes of delivering the prize.  We may publish a winner’s first name, city, and state of residence on our web site. 
+
+Ubisoft may share kids’ personal information with outside entities hired to assist with internal website support operations (e.g., online product fulfillment, email services, or technical support).  These entities have agreed to maintain confidentiality, security, and integrity of all the personal information they obtain from us.
+
+We do not share any information about a child with any third parties unless the disclosure is reasonably necessary to:
+
+  * comply with law, including, for example, to comply with a court order or subpoena; 
+  * enforce our Terms of Service, or site or game/promotion rules; 
+  * in connection  with the purchase or sale of assets, a merger, reorganization, bankruptcy or similar corporate transaction; or 
+  * protect the safety and security of our Guests and our Web sites. 
+
+back to top
+
+
+  
+  
+**Q3**
+
+| 
+
+**How do we notify and obtain consent from parents for the collection of personal information from their kids?**  
+  
+---|---  
+  
+**A3**
+
+| 
+
+When a child under 13 attempts to register at our website, the child can download and print a parental consent form.  Then, you, as the parent, can fill out and sign the parental consent form and mail or fax it back to us.  If the parent ignores or refuses to register the child, we will delete all contact information from our database.  If the parent permits the registration, the child will be granted access to the features described in the notification message.
+
+back to top  
+  
+**Q4**
+
+| 
+
+**How can parents access, change or delete personally identifiable information about their kids?**  
+  
+---|---  
+  
+**A4**
+
+| 
+
+At any time, a parent can contact our customer service department to access, change, or delete personal information we collected from his or her child by contacting us at: 
+
+Ubisoft, Inc.   
+Attn.: Privacy Policy Administrator   
+3200 Gateway Centre Blvd.   
+Suite 100   
+Morrisville, NC 27560   
+1-800-984-2445   
+[privacy@ubisoft.com](mailto:privacy@ubisoft.com)
+
+Our representatives will take reasonable steps to verify your identity before disclosing your child’s information.
+
+back to top  
+  
+|   
+  
+**Q5**
+
+|   
+---|---  
+  
+**A5**
+
+| 
+
+We take the security and confidentiality of kids’ information very seriously.  We have implemented technical, administrative, and physical security measures to protect kids’ personal information from unauthorized access and improper use.  From time to time, we review our security procedures to consider appropriate new technology and methods.  But please understand that, despite our best efforts, no security measure is perfect or impenetrable.
+
+back to top  
+  
+**Q6**
+
+|   
+---|---  
+  
+**A6**
+
+| 
+
+At any time, we may amend our Kids Privacy Policy.  We will send e-mail notice to parents of any material changes in the way we intend to collect, use, or share kids' personal information.  At all times, parents should update their personal information to provide us current e-mail addresses.  We will apply material changes in our Kids Privacy Policy only in conformance with applicable law, including any applicable provisions of COPPA that require parental consent.
+
+back to top  
+  
+**Q7**
+
+| 
+
+**Who do guests contact with questions or concerns about our Kids Privacy Policy?**  
+  
+---|---  
+  
+**A7**
+
+| 
+
+If you have questions or wish to send us comments about a Privacy Policy posted on one of our sites, you can contact us as follows:
+
+Ubisoft, Inc.  
+Attn.: Privacy Policy Administrator  
+3200 Gateway Centre Blvd.   
+Suite 100  
+Morrisville, NC 27560  
+1-800-984-2445  
+[privacy@ubisoft.com](mailto:privacy@ubisoft.com)
+
+Ubisoft is a licensee of the ESRB’s Privacy Online Program.  If you believe that we have not properly responded to your inquiry, you may also contact ESRB Privacy Online at <http://www.esrb.org/privacy/contact.jsp>:
+
+ESRB  
+Attn.: Director, Privacy Online  
+317 Madison Avenue, 22nd Floor  
+New York, NY 10017  
+212-759-0700  
+[privacy@esrb.org](mailto:privacy@esrb.org)
+
+back to top
