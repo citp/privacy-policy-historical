@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the familywatchdog.us privacy policy that was archived on 2006-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061207164325id_/http%3A//www.familywatchdog.us/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the familywatchdog.us privacy policy that was archived on 2007-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070629071518id_/http%3A//www.familywatchdog.us/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
     <title>Family WatchdogTerms of Service</title>
@@ -13,44 +13,58 @@
 <!--  Browser detect -->
 <script type="text/javascript">
 	var winW = 0, winH = 0; smResolution = false;
+	var app, appver;
 
+	
+	app = navigator.appName;
+	appver = navigator.appVersion;
 	winW = screen.width;
 	winH = screen.height;
-
+	
 	if (winW <= 800) {
 	  smResolution = true;
 	}
-
+			  
+	document.write('<link href="/style/main.css" rel="stylesheet" type="text/css" />');
+	document.write('<link href="/style/gutter.css" rel="stylesheet" type="text/css" />');
+	document.write('<link href="/style/header.css" rel="stylesheet" type="text/css" />');
+	document.write('<link href="/style/footer.css" rel="stylesheet" type="text/css" />');
+	document.write('<link href="/style/tab.css" rel="stylesheet" type="text/css" />');
 	
-	if(!smResolution)
+	
+	
+	if(smResolution)
 	{
-		document.write('<link href="/style/main.css" rel="stylesheet" type="text/css" />');
-		document.write('<link href="/style/header.css" rel="stylesheet" type="text/css" />');
-		document.write('<link href="/style/frontpage.css" rel="stylesheet" type="text/css" />');
-		document.write('<link href="/style/footer.css" rel="stylesheet" type="text/css" />');
-		document.write('<link href="/style/tab.css" rel="stylesheet" type="text/css" />');
-		document.write('<link href="/style/gutter.css" rel="stylesheet" type="text/css" />');
-
-		
-		
-	}
-	else
-	{
-		document.write('<link href="/style/main_smres.css" rel="stylesheet" type="text/css" />');
+	    document.write('<link href="/style/main_smres.css" rel="stylesheet" type="text/css" />');
 		document.write('<link href="/style/header_smres.css" rel="stylesheet" type="text/css" />');
-		document.write('<link href="/style/frontpage_smres.css" rel="stylesheet" type="text/css" />');
 		document.write('<link href="/style/footer_smres.css" rel="stylesheet" type="text/css" />');
-		document.write('<link href="/style/gutter.css" rel="stylesheet" type="text/css" />');
 		document.write('<link href="/style/tab_smres.css" rel="stylesheet" type="text/css" />');
 
 
 		
+		document.write('<link href="/style/gutter.css" rel="stylesheet" type="text/css" />');
 	}
 
-
+    /* netscape or IE 7.0*/
+    
+	if ((app == "Netscape")  || ((app == "Microsoft Internet Explorer") && (appver.indexOf("MSIE 7.0") != -1)))
+	{
+		if(!smResolution)
+		{
+			document.write('<link href="/style/netscape/main.css" rel="stylesheet" type="text/css" />');
+				
+			document.write('<link href="/style/netscape/gutter.css" rel="stylesheet" type="text/css" />');
+		}
+		else
+		{
+			document.write('<link href="/style/netscape/main_smres.css" rel="stylesheet" type="text/css" />');
+				
+			document.write('<link href="/style/netscape/gutter.css" rel="stylesheet" type="text/css" />');
+		}
+	}
 	
-
-</script><link href="/style/main_smres.css" rel="stylesheet" type="text/css"><link href="/style/header_smres.css" rel="stylesheet" type="text/css"><link href="/style/frontpage_smres.css" rel="stylesheet" type="text/css"><link href="/style/footer_smres.css" rel="stylesheet" type="text/css"><link href="/style/gutter.css" rel="stylesheet" type="text/css"><link href="/style/tab_smres.css" rel="stylesheet" type="text/css">
+	
+</script><link href="/style/main.css" rel="stylesheet" type="text/css"><link href="/style/gutter.css" rel="stylesheet" type="text/css"><link href="/style/header.css" rel="stylesheet" type="text/css"><link href="/style/footer.css" rel="stylesheet" type="text/css"><link href="/style/tab.css" rel="stylesheet" type="text/css"><link href="/style/main_smres.css" rel="stylesheet" type="text/css"><link href="/style/header_smres.css" rel="stylesheet" type="text/css"><link href="/style/footer_smres.css" rel="stylesheet" type="text/css"><link href="/style/tab_smres.css" rel="stylesheet" type="text/css"><link href="/style/gutter.css" rel="stylesheet" type="text/css"><link href="/style/netscape/main_smres.css" rel="stylesheet" type="text/css"><link href="/style/netscape/gutter.css" rel="stylesheet" type="text/css">
 
 
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
@@ -82,49 +96,44 @@
 <div id="UberWrapper">
 	<!-- Start Head -->
 	<div id="UberHead">
-		
 			<div id="LogoMain">
+			<br>
 			</div>
-		<div id="TopNavigation">
 
-		 <!-- Top Navigation /  Image backgrounds fulll css rollover -->
-			<div id="Link01"><a href="facts.asp"></a></div>
-			<div id="Link02"><a href="Search.asp"></a></div>
-		 	<div id="Link03"><a href="Notifications.asp"></a></div>
-			<div id="Link04"><a href="ShareSite.asp"></a></div>
-			<div id="aboutus"><a href="aboutus.asp"></a></div>
-			<div id="Link05"><a href="Notifications.asp"></a></div>
+         <ul class="TopNavigation">
 			
-		</div>
+				<li><a href="/search.asp">find offenders</a></li>
+				
+		    <li><a href="/notifications.asp">get free alerts</a></li>
+		    <li><a href="/ShareSite.asp">tell a friend</a></li>
+		    
+		    
+				<li><a href="News.asp">press room</a></li>
+			
+			
+		    <li><a href="/aboutus.asp">about us</a></li>
+		</ul>
 		<!-- Sub Navigation -->
 		<div id="SubNaviagtion">
-			<a href="/">home</a>
-			   
-		
-			|<a href="donate.asp">donate</a> 
-			|<a href="OffenderCountByState.asp">statistics</a>
-			|<a href="testimonial.asp">testimonials</a>
-			|<a href="staysafe.asp">safety tips</a>
-			|<a href="feedback.asp">contact us</a>
-			|<a href="news.asp">
 			
-				press room
-			
-			</a>      
-			|<a href="LinkToUs.asp">link to us</a> 
-			|<a href="faq.asp">help</a>
-			
-			|<a href="https://secure.familywatchdog.us/loginpost.asp">login</a>
+				<a href="/">home</a>
 				
+			|<a href="/OffenderCountByState.asp">statistics</a>
+			|<a href="/testimonial.asp">testimonials</a>
+			|<a href="/staysafe.asp">safety tips</a>
+			|<a href="/feedback.asp">contact us</a>
+			|<a href="/LinkToUs.asp">link to us</a> 
+			|<a href="/faq.asp">faq</a>
+			|<a href="/loginpost.asp">login</a>
+	
 		</div>
 		
 		<div id="WordMark">
 		</div>
 		<div id="BannerAd">
-			<div id="ChangeLanguage">
-			<br>
-		       </div>
-			<a href="redirector.asp?page=http://www.familychristian.com/shop/search.asp?N=0&amp;Ntk=All&amp;Ntt=Stranger+Safety" target="_blank"><img src="http://www.familywatchdog.us/images/SafeSide/468x60_safesideDVD_FCS.gif" border="0"></a>
+		    <div class="contents">
+			<a href="/redirector.asp?page=http://www.thesafeside.com/familywatchdog/default.asp?CartSourceID=13&amp;LocationID=1" target="_blank"><img src="http://www.familywatchdog.us/images/SafeSide/TheSafeSide_FamilyGuide.bmp" border="0"></a>
+			</div>
 		</div>
 	
 	</div>
@@ -132,54 +141,64 @@
 	<!-- /END Head -->
 	<!-- START Content -->
 	<div id="UberContentWrapper">
-
-			<div id="LeftGutterTop"></div>
-                                <div id="ContentLt">				
-				<div class="Content">
+	
+		<div id="ContentGutterLeft">
+			<div class="rgroundbox">
+				<div class="rbtop"><div class="rbtopb"></div></div><div class="rbtopbb"></div>
+					<div class="lgutterboxcontent">
+						<div class="rgtitle">partners</div>
+						<div class="lgscontent">
 						
-				   
-			            <table width="120px" align="center">
+							<table width="120px" align="center">
+								<tbody><tr>
+									<td> 
+										<a href="redirector.asp?page=http://www.thesafeside.com/familywatchdog/default.asp?CartSourceID=13&amp;LocationID=2" target="_blank">
+			                    				<img src="http://www.familywatchdog.us/images/TheSafeSideStopSign.gif" border="0" width="44" height="106"></a>
+									</td>
+									<td>
+										<a href="redirector.asp?page=http://www.thesafeside.com/familywatchdog/default.asp?CartSourceID=13&amp;LocationID=2" target="_blank">Click here to download our FamilyStudy Guide!</a>
+									</td>
+								</tr>
+							</tbody></table>
+							<hr>
+							<table width="120px" align="center">
 							<tbody><tr>
-								<td> 
-									<a href="redirector.asp?page=http://www.thesafeside.com/familywatchdog/default.asp?CartSourceID=13&amp;LocationID=2" target="_blank">
-			                    			<img src="http://images.familywatchdog.us/TheSafeSideStopSign.gif" border="0" width="44" height="106"></a>
-			                    </td>
-			                    <td>
-									<a href="redirector.asp?page=http://www.thesafeside.com/familywatchdog/default.asp?CartSourceID=13&amp;LocationID=2" target="_blank">Click for information to protect your children</a>
-			                    </td>
-			                </tr>
-			            </tbody></table>
-						<hr>
-						<!-- <table width="120px">
-							<tr>
-								<td> 
-								    <iframe src="/images/AmberWatch/amberwatch_150x150.html" width="150" height="150" scrolling="no" frameborder="0" style="width:150px; height:150px; overflow:hidden; border:0px; margin:0px; padding:0px;">
-									<a href="/redirector.asp?page=http://ads.infomercial.tv/trackLink.asp?linkId=1235">
-									<img src="/images/AmberWatch/active_150x150.gif" style="border:0px;" />
-									</a>
-									</iframe> 
-			                    </td>
-			                </tr>
-			            </table>
-						<hr /> -->
-						<table width="120px">
-							<tbody><tr>
-								<td> 
-									<a href="redirector.asp?page=http://kindervision.org/quiz_portal.html" target="_blank">
-						                     <img src="/images/TGS_Logo.gif" border="0" width="55" height="85"></a>
-						            
-			                    </td>
-			                    <td> 
-									<a href="redirector.asp?page=http://kindervision.org/quiz_portal.html" target="_blank">Take the "Greatest Save" safety test online</a>
-			                    </td>
-			                </tr>
-			            </tbody></table>
-			            
-				</div>
-				
-			<div id="LeftGutterBottom"></div>
-			</div>
-		
+								<td><a href="redirector.asp?page=http://www.PlatinumStudios.com" target="_blank"><img src="http://www.familywatchdog.us/images/Platinum/ps_120x120_01_zP.gif" border="0" width="120" height="120"></a>
+								</td>
+							</tr>
+							</tbody></table>
+							<hr>
+							<!-- <table width="120px">
+								<tr>
+									<td> 
+										<iframe src="/images/AmberWatch/amberwatch_150x150.html" width="150" height="150" scrolling="no" frameborder="0" style="width:150px; height:150px; overflow:hidden; border:0px; margin:0px; padding:0px;">
+										<a href="/redirector.asp?page=http://ads.infomercial.tv/trackLink.asp?linkId=1235">
+										<img src="/images/AmberWatch/active_150x150.gif" style="border:0px;" />
+										</a>
+										</iframe> 
+									</td>
+								</tr>
+							</table>
+							<hr /> -->
+							<table width="120px">
+								<tbody><tr>
+									<td> 
+										<a href="redirector.asp?page=http://kindervision.org/quiz_portal.html" target="_blank">
+												<img src="/images/TGS_Logo.gif" border="0" width="55" height="85"></a>
+								        
+									</td>
+									<td> 
+										<a href="redirector.asp?page=http://kindervision.org/quiz_portal.html" target="_blank">Take the "Greatest Save" safety test online</a>
+									</td>
+								</tr>
+							</tbody></table>
+						
+						</div> <!--lgscontent-->
+					</div><!-- /lgutterboxcontent -->
+				<div class="rgbot"><div class="btm"></div></div><div class="rgbtmb"></div>
+			</div>  <!-- /rbroundbox -->    
+		</div> 
+	
 	<div id="ContentWhole">
 		<h3>Privacy Statement</h3>
 		Your privacy is important to us. We want you to be absolutely certain that we will not misuse any of the personal information that you provide in order to use this service. To that end, this is a full disclosure on how we will, and will not, use your personal information:
@@ -210,41 +229,42 @@
     If you have questions or believe this policy has been breached, contact us at c.s@familywatchdog.us. We will investigate every report of suspected violation of this privacy policy.
 		</div>
 
-				<div id="RightGutterTop"></div>
-					<div id="ContentVAD">
-					<div class="Content"> 
-					
-						<strong><a target="_blank" href="redirector.asp?page=http://www.NeighborsConnecting.com">Neighbors Connecting</a></strong><br>
-						Neighborhood Watch management software<br>
-					
-						<hr>
-						Paid Advertisement<br>
-						<!-- BEGIN RICH-MEDIA NETWORK CODE -->
-						<script language="JavaScript">
-						rnum=Math.round(Math.random() * 100000);
-						document.write('<scr'+'ipt src="http://www.burstnet.com/cgi-bin/ads/sk12488a.cgi/v=2.0S/sz=120x600A|160x600A/'+rnum+'/RETURN-CODE/JS/"></scr'+'ipt>');
-						</script><script src="http://www.burstnet.com/cgi-bin/ads/sk12488a.cgi/v=2.0S/sz=120x600A|160x600A/48254/RETURN-CODE/JS/"></script>
-						<noscript>
-						<a href="http://www.burstnet.com/ads/sk12488a-map.cgi/ns/v=2.0S/sz=120x600A|160x600A/" target="_top">
-						<img src="http://www.burstnet.com/cgi-bin/ads/sk12488a.cgi/ns/v=2.0S/sz=120x600A|160x600A/" border="0" alt="Click Here" /></a></noscript>
-						<!-- END BURST CODE -->
-					
-					</div>
-					<div id="RightGutterBottom"></div>
-					
-				</div>
-				
-		</div>			
+				<div id="ContentGutterRight">
+				    <div class="rgroundbox">
+	                    <div class="rbtop"><div class="rbtopb"></div></div><div class="rbtopbb"></div>
+							
+		                    <div class="rgutterboxcontent">
+		                        <div class="rgtitle">site sponsors</div>
+		                        <div class="rgscontent">
+		                    
+						            <!-- BEGIN RICH-MEDIA NETWORK CODE -->
+						            <script language="JavaScript">
+						            
+						                rnum=Math.round(Math.random() * 100000);
+						                document.write('<scr'+'ipt src="http://www.burstnet.com/cgi-bin/ads/sk12488a.cgi/v=2.0S/sz=120x600A|160x600A/'+rnum+'/RETURN-CODE/JS/"></scr'+'ipt>');
+						            
+									</script><script src="http://www.burstnet.com/cgi-bin/ads/sk12488a.cgi/v=2.0S/sz=120x600A|160x600A/89607/RETURN-CODE/JS/"></script>
+						            <noscript>
+						            <a href="http://www.burstnet.com/ads/sk12488a-map.cgi/ns/v=2.0S/sz=120x600A|160x600A/" target="_top">
+						            <img src="http://www.burstnet.com/cgi-bin/ads/sk12488a.cgi/ns/v=2.0S/sz=120x600A|160x600A/" border="0" alt="Click Here" /></a></noscript>
+						            <!-- END BURST CODE -->
 
+					            
+							</div><!-- /lgscontent -->
+		                </div><!-- /rbcontent -->
+	                <div class="rgbot"><div class="btm"></div></div><div class="rgbtmb"></div>
+	            </div>  <!-- /rbroundbox -->    
+		    </div> 
+		    
 			<div id="UberFooter">
 				
-					<p>© Copyright 2005-2006, Family Watchdog LLC All rights reserved. <a href="feedback.asp">Contact Us</a><br>
+					<p>© Copyright 2005-2006, Family Watchdog LLC All rights reserved.&nbsp;•&nbsp;<a href="feedback.asp">Contact Us</a><br>
 			        	<a href="privacy.asp">Privacy Statement</a> • <a href="tos.asp">Terms of Service</a> • (949) 209-8768</p>
-					<p>Site version: 1.03</p>
+					<p>Site version: 1.06</p>
 				
 			</div>	
 	
 
 </div>
 
-</body></html>
+</div></body></html>
