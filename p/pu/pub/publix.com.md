@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publix.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205235904id_/http%3A//publix.com/PrivacyPolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publix.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629120922id_/http%3A//www.publix.com/PrivacyPolicy.do) for the most accurate reproduction.*
 
 # Publix Privacy Policy
 
@@ -153,11 +153,11 @@ Publix Preschool Pals section:
 
 
 
-The required information in the registration form is necessary for membership into our Preschool Pals program. By filling out the registration form, you are consenting to receive e-mail or telephone calls from us or our agents.
+The required information in the registration form is necessary for membership into our Publix Preschool Pals program. By filling out the registration form, you are consenting to receive e-mail or telephone calls from us or our agents.
 
 Prescription Refill section:
 
-  * Pharmacy number - to associate your prescription with the pharmacy where your orders are on file  
+  * Publix Pharmacy number - to associate your prescription with the pharmacy where your orders are on file  
 
   * Prescription number - for us to know which medication you need refilled  
 
@@ -167,7 +167,7 @@ Prescription Refill section:
 
 
 
-All information in the refill form is required in order to fulfill your prescription request. By filling out the refill form, you are consenting to receive e-mail or telephone calls from us or our agents. For more detail on our Pharmacy privacy practices, see the Publix Pharmacy Notice of Privacy Practices.  
+All information in the refill form is required in order to fulfill your prescription request. By filling out the refill form, you are consenting to receive e-mail or telephone calls from us or our agents. For more detail on our Publix Pharmacy privacy practices, see the Publix Pharmacy Notice of Privacy Practices.  
 
 [Wine Guide](https://web.archive.org/clubs/wine/Home.do) section:
 
