@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the franchisehelp.com privacy policy that was archived on 2006-10-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061016185657id_/http%3A//franchisehelp.com/execfb/public.privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the franchisehelp.com privacy policy that was archived on 2007-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070629101409id_/http%3A//franchisehelp.com/execfb/public.privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 		<link rel="stylesheet" type="text/css" href="/inc/ss.css">
@@ -14,7 +14,7 @@
 		
 		<script language="javascript" type="text/javascript">
 		<!--
-		document.cookie = "test={ts '2006-10-16 14:56:57'}";
+		document.cookie = "test={ts '2007-06-29 06:14:09'}";
 		function checkJS()
 		// Change the hidden field's value (will only work if js is enabled)
 		{
@@ -26,29 +26,45 @@
 		}
 		//-->
 		</script>
-	
-<script language="JavaScript" type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
-
-<script language="JavaScript" type="text/javascript">
+	<script type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
+<script type="text/javascript" src="/CFIDE/scripts/masks.js"></script>
+<script type="text/javascript">
 <!--
+    function  _CF_checkformsignup(_CF_this)
+    {
+        //reset on submit
+        _CF_error_exists = false;
+        _CF_error_messages = new Array();
+        _CF_error_fields = new Object();
+        _CF_FirstErrorField = null;
 
-function  _CF_checkformsignup(_CF_this)
-{
-	if  (!_CF_hasValue(_CF_this.emailaddr, "TEXT" ))
-	{
-		if  (!_CF_onError(_CF_this, _CF_this.emailaddr, _CF_this.emailaddr.value, "Please enter your Email Address"))
-		{
-			return false;
-		}
-	}
-
-	return true;
-}
+        //form element emailaddr required check
+        if( !_CF_hasValue(_CF_this['emailaddr'], "TEXT", false ) )
+        {
+            _CF_onError(_CF_this, "emailaddr", _CF_this['emailaddr'].value, "Please enter your Email Address");
+            _CF_error_exists = true;
+        }
 
 
+        //display error messages and return success
+        if( _CF_error_exists )
+        {
+            if( _CF_error_messages.length > 0 )
+            {
+                // show alert() message
+                _CF_onErrorAlert(_CF_error_messages);
+                // set focus to first form error, if the field supports js focus().
+                if( _CF_this[_CF_FirstErrorField].type == "text" )
+                { _CF_this[_CF_FirstErrorField].focus(); }
+
+            }
+            return false;
+        }else {
+            return true;
+        }
+    }
 //-->
 </script>
-
 </head>
 	<body marginwidth="0" marginheight="0" onload="checkJS();">
 	<table border="0" cellpadding="0" cellspacing="0" width="764" align="center" bgcolor="#FFFFFF">
@@ -63,7 +79,7 @@ function  _CF_checkformsignup(_CF_this)
 						
 					
 					
-						<td align="right"><a href="http://www.franchisehelp.com/execfb/public.currentnews" target="_self"><img src="/advertimg/octoberbanner1.jpg" width="468" height="60" vspace="5" hspace="5" border="0"></a></td>
+						<td align="right"><a href="http://www.franchisehelp.com/execfb/public.content-cid-145." target="_self"><img src="/advertimg/franchiseofficer1.gif" width="468" height="60" vspace="5" hspace="5" border="0"></a></td>
 					
 				</tr>
 			</tbody></table>
@@ -127,6 +143,8 @@ function  _CF_checkformsignup(_CF_this)
 							
 							
 					<td width="82" rowspan="2"><a href="/execfb/public.content-cid-9." onmouseover="roll('IndustrySupplier',1);" onmouseout="roll('IndustrySupplier',0);"><img src="/img/IndustrySupplier_0.gif" width="82" height="39" name="IndustrySupplier" border="0"></a></td>
+						
+					
 						
 					
 						
@@ -211,63 +229,13 @@ function  _CF_checkformsignup(_CF_this)
 			</tbody></table>
 			
 			<table border="0" cellpadding="0" cellspacing="0" width="730" id="row1">
-			
-
-
-
-
-	
-	
-	<form name="formsignup" action="http://www.franchisehelp.com/index.cfm?fa=pacct.showaccount&amp;pagetype=new&amp;mode=newsletter" method="POST" onsubmit="return _CF_checkformsignup(this)" id="formsignup"></form>
-
-
-
-
-
-
-
+			<form name="formsignup" id="formsignup" action="http://www.franchisehelp.com/index.cfm?fa=pacct.showaccount&amp;pagetype=new&amp;mode=newsletter" method="POST" onsubmit="return _CF_checkformsignup(this)"></form>
 				<tbody><tr>
-					<td style="background-image:url(/img/bg_form.gif)">&nbsp;<span style="font-size:12px;">Free Newsletter Sign Up</span>&nbsp;
-
-
-
-
-	
-	
-	
-	
-	<input type="Text" name="emailaddr" onclick="document.formsignup.emailaddr.value='';" style="width:100px;" size="15" maxlength="50" value="enter your e-mail">
-	
-
-
-&nbsp;&nbsp;<input type="Submit" value="SIGN UP" class="buttonsm"></td>
+					<td style="background-image:url(/img/bg_form.gif)">&nbsp;<span style="font-size:12px;">Free Newsletter Sign Up</span>&nbsp;<input name="emailaddr" id="emailaddr" type="text" value="enter your e-mail" maxlength="50" style="width:100px;" size="15" onclick="document.formsignup.emailaddr.value='';">&nbsp;&nbsp;<input type="Submit" value="SIGN UP" class="buttonsm"></td>
 					<td width="31" style="background-image:url(/img/bg_form2.gif)"><img src="/img/form_end.gif" width="31" height="32"></td>
 					<td align="right"><a href="/execfb/public.home" class="nav">HOME</a> | <a href="/execfb/public.aboutus" class="nav">ABOUT  US</a> | <a href="/execfb/public.contactus" class="nav">CONTACT</a> | <a href="/sitemap.html" class="nav">SITE MAP</a> | <a href="/execfb/public.showcart" class="nav">MY SHOPPING CART</a>&nbsp;<img src="/img/cart.gif" width="20" height="16">&nbsp;&nbsp;&nbsp;</td>
 				</tr>
 				
-
-
-
-
-	
-
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-
-
-
 
 			</tbody></table>			
 			<table border="0" cellpadding="0" cellspacing="0" width="730" id="row2">
@@ -645,18 +613,6 @@ function  _CF_checkformsignup(_CF_this)
 										
 									
 										
-											
-										
-									
-										
-									
-										
-									
-										
-											
-										
-									
-										
 									
 										
 											
@@ -667,6 +623,20 @@ function  _CF_checkformsignup(_CF_this)
 										
 									
 										
+									
+										
+									
+										
+											
+										
+									
+										
+									
+										
+											
+										
+									
+										
 											
 										
 									
@@ -674,6 +644,24 @@ function  _CF_checkformsignup(_CF_this)
 											
 										
 									
+										
+											
+										
+									
+										
+											
+										
+									
+										
+											
+										
+									
+										
+											
+										
+									
+										
+											
 										
 									
 										
@@ -805,7 +793,7 @@ function  _CF_checkformsignup(_CF_this)
 		<table border="0" cellpadding="0" cellspacing="0" width="730" id="publicfooter">
 				<tbody><tr>
 					<td valign="top">&nbsp;&nbsp;<a href="/execfb/public.privacy" class="navon">PRIVACY POLICY</a>&nbsp;|&nbsp;<a href="/execfb/public.disclaimer" class="nav">DISCLAIMER</a></td>
-					<td align="right" valign="top">©2004 - 2006 Franchise Help. All Rights Reserved.&nbsp;&nbsp;</td>
+					<td align="right" valign="top">©2004 - 2007 Franchise Help. All Rights Reserved.&nbsp;&nbsp;</td>
 				</tr>
 		</tbody></table>
 		</td>
