@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iatn.net privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205211241id_/http%3A//www.iatn.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iatn.net privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629035040id_/http%3A//www.iatn.net/privacy.html) for the most accurate reproduction.*
 
 # iATN - Privacy Policy
 
@@ -65,7 +65,7 @@ There may be situations where iATN collects data through a survey, web form, or 
 
 Information about our members is an important part of our business, and we take great pains not to reveal the following private personal information to others: email address, username, password, phone number, street address (not including city, state, country, zipcode), and credit card information. Only authorized iATN staff, agents, and credit card processors have access to private member information, and even then only in a tightly controlled manner. 
 
-  * **Agents of iATN** : We currently employ one outside agency, [L-Soft](http://www.lsoft.com/), which only has access to iATN member names and email addresses, for the express purpose of delivering portions of iATN email to them. In the normal course of the day, no one at L-Soft directly interacts with your information. We have your name and email address securely stored in their "email list server," and only if a problem occurs would any L-Soft staff see your address. Both iATN and L-Soft work hard to ensure the privacy of your information. For information on the email iATN sends, please see [this page](http://www.iatn.net/nospam.html).
+  * **Agents of iATN** : From time to time we may need to use third party agencies to carry out our normal business operations, such as sending email, delivering content over the internet, or providing services to you. When we do this, we will ensure these agencies agree to adhere to our privacy policy when working with our data.
   * **Credit Card Processing** : If you purchase something from the [iATN Store](http://members.iatn.net/store/), or [upgrade your iATN account](http://members.iatn.net/upgrade/) to sponsoring member status, your name, billing & shipping addresses, purchase information, and credit card information is necessarily shared with our credit card processing companies to complete the transaction. We are currently using Authorize.Net and VeriSign for credit card processing services. All communication between our servers and theirs is encrypted with SSL 128-bit security to protect your information while in transit.
   * **Aggregate and Anonymous Information** : iATN may share aggregate and/or anonymous statistics and related information with third parties. At no time will any personally-identifiable information be included. Most of this information will be in the form of network growth, usage statistics and demographics of registered members. 
   * **Corporate Sponsors** : iATN has several [corporate sponsors](http://www.iatn.net/atn/) which subsidize the network and provide great support to our members. At no time have we ever shared your personal information with these companies, nor will we in the future without your express consent.
@@ -150,6 +150,7 @@ This policy and the [Terms of Use](http://www.iatn.net/disclaim.html) will most 
 
 ### **Privacy Policy - History**
 
+  * **Revision 1.0.5 (May 21, 2007)** Clarified "Agents of iATN" section.
   * **Revision 1.0.4 (July 22, 2006)** Updated our mailing address.
   * **Revision 1.0.3 (March 8, 2004)** Removed our FAX number from the contact information to avoid FAX harvesting by spammers. (Please email []() if you need our FAX number.)
   * **Revision 1.0.2 (December 29, 2003)** We added this revision history section to track changes to our privacy policy. We added links to [our page discussing the email we send](http://www.iatn.net/nospam.html) to this privacy policy.
