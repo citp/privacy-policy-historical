@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qualiteam.biz privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215075258id_/http%3A//qualiteam.biz/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualiteam.biz privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629021721id_/http%3A//www.qualiteam.biz/privacy_statement.html) for the most accurate reproduction.*
 
 # Internet business solutions & b2c e-commerce development - QUALITEAM
 
@@ -18,4 +18,5 @@ This website may contain links to other sites. We do not endorse or otherwise ac
 
 It may be necessary, if required by law or if pertinent to judicial or governmental investigations, to release your personally identifiable information. 
 
-We are reserving the right to modify this privacy policy at any time. We will promptly reflect any such modifications in these Web pages.
+We are reserving the right to modify this privacy policy at any time. We will promptly reflect any such modifications in these Web pages.  
+
