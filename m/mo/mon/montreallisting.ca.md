@@ -1,0 +1,10 @@
+> *The following text is extracted and transformed from the montreallisting.ca privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629085815id_/http%3A//www.montreallisting.ca/PrivacyPolicy.html) for the most accurate reproduction.*
+
+# Privacy Policy
+
+**Privacy Policy** **Personal Information**  
+Personal information about visitors to our sites is collected only when knowingly and voluntarily submitted. For example, we may need to collect such information to provide you with further services or to answer or forward any requests or enquiries. It is our intention that this policy will protect your personal information from being dealt with in any way that is inconsistent with applicable privacy laws Canada. **Use of Information**  
+Personal information that visitors submit to our sites is used only for the purpose for which it is submitted unless we disclose other uses at the time of collection. **Access to Information**  
+We will endeavor to take all reasonable steps to keep secure any information which we hold about you, and to keep this information accurate and up to date. If, at any time, you discover that information held about you is incorrect, you may contact us to have the information corrected. **Links to other sites**  
+We provide links to Web sites outside of our web sites, as well as to third party Web sites. These linked sites are not under our control, and we cannot accept responsibility for the conduct of companies linked to our website. Before disclosing your personal information on any other website, we advise you to examine the terms and conditions of using that Web sites and its privacy statement. **Problems or questions**  
+If we become aware of any ongoing concerns or problems with our web sites, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our privacy policy, or you have a problem or complaint, please contact us. 
