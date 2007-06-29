@@ -1,9 +1,18 @@
-> *The following text is extracted and transformed from the elementool.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230083019id_/http%3A//www.elementool.com/newaccount/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elementool.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629153356id_/http%3A//www.elementool.com/newaccount/privacy.html) for the most accurate reproduction.*
 
-# elementool - Privacy Policy
+# Elementool.com- Privacy Policy
 
-| **Elementool Inc. Privacy Policy**  
+|  |   
 ---  
+| [](http://www.elementool.com/) |   
+  
+|   
+---  
+|    | 
+
+Elementool Inc. Subscriber Agreement   
+  
+---|---  
 This page explains Elementool Inc.'s policy (the "Privacy Policy") regarding the collection and use of information that can personally identify you whether you are a first-time or repeat visitor to our website and bug tracking service (the "Service"). Unless different terms and conditions are specified in a form or contract provided to you by Elementool Inc., the terms and conditions of this Privacy Policy apply to Elementool Inc.'s collection and use of personally-identifying information collected and stored on our website.  |  [](http://www.truste.org/ivalidate.php?url=www.elementool.com&sealid=101)  
 Elementool Inc. is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for http://www.elementool.com.  | Effective date: 6/1/2006  
 TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of:  |    
@@ -50,4 +59,8 @@ Users of our site are always notified when their information is being collected 
 **Notification of Changes** |    
 If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.  |    
 **Limitation** |    
-It is Elementool Inc.'s policy to respect the privacy of its customers. Therefore, Elementool Inc. will not monitor, edit or disclose the contents of your personal account unless required to do so by law, in accordance with a judicial or other governmental subpoena, warrant or order. Or unless elementool, Inc, believes that such action is necessary to; (1) conform to the law or comply with legal process served on Elementool Inc.; (2) protect and defend the rights or property of Elementool Inc.; or (3) act under exigent circumstances to protect the personal safety of its customers or the public.  |  
+It is Elementool Inc.'s policy to respect the privacy of its customers. Therefore, Elementool Inc. will not monitor, edit or disclose the contents of your personal account unless required to do so by law, in accordance with a judicial or other governmental subpoena, warrant or order. Or unless elementool, Inc, believes that such action is necessary to; (1) conform to the law or comply with legal process served on Elementool Inc.; (2) protect and defend the rights or property of Elementool Inc.; or (3) act under exigent circumstances to protect the personal safety of its customers or the public.  |    
+**Contact Us:** |    
+For any questions you can contact us at: Elementool Inc. 666 Fifth Ave. #372 New York, NY 10103  |    
+  
+**Back** [**Home**](http://elementool.com/)    [ **Subscriber Agreement**](https://web.archive.org/newaccount/terms.html)
