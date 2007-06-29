@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautyheaven.com.au privacy policy that was archived on 2006-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060927070145id_/http%3A//beautyheaven.com.au/reference_catalog/lookupObject%3Fuuid%3D264402a1fe9e995bbd8405ea39b82b60) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautyheaven.com.au privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629054626id_/http%3A//www.beautyheaven.com.au/reference_catalog/lookupObject%3Fuuid%3D264402a1fe9e995bbd8405ea39b82b60) for the most accurate reproduction.*
 
 # Beauty Heaven - Privacy Policy
 
