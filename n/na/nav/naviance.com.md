@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naviance.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212165854id_/http%3A//naviance.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naviance.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629114614id_/http%3A//www.naviance.com/privacy.html) for the most accurate reproduction.*
 
 # Naviance | Manage. Communicate. Analyze. | CONTACT
 
