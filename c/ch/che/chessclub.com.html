@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the chessclub.com privacy policy that was archived on 2006-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061205224134id_/http%3A//www.chessclub.com/help/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chessclub.com privacy policy that was archived on 2007-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070629114606id_/http%3A//www.chessclub.com/help/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <meta name="description" content="The Internet Chess Club, where beginners to grandmasters play online. Serious chess. Serious fun!">
-<meta name="Keywords" content="chess, ICC, online chess, International Chess Club, international chessclub, download, master, Internet, blitz, ajedrez, schach, play chess, free, java, tournament, chess games, games, software, net, Fischer, Kasparov, club, chessclub, chess master, Grandmaster, chessmaster, Blitzin, computer, fun, learn, GM, bughouse, Anand, Polgar, Kramnik, Karpov, Leko, Svidler, Bobby, FIDE, USCF, online, correspondence chess, strategy, chess training, chess club, kriegspiel, Linares, international, simultaneous exhibition, simul, checkmate, game, play, Blitzen, chess rules, chess set, instant chess">
+<meta name="Keywords" content="chess, ICC, free chess, free online chess, online chess, International Chess Club, international chessclub, download, master, Internet, blitz, ajedrez, schach, play chess, free, java, tournament, chess games, games, software, net, Fischer, Kasparov, club, chessclub, chess master, Grandmaster, chessmaster, Blitzin, computer, fun, learn, GM, bughouse, Anand, Polgar, Kramnik, Karpov, Leko, Svidler, Bobby, FIDE, USCF, online, correspondence chess, strategy, chess training, chess club, kriegspiel, Linares, international, simultaneous exhibition, simul, checkmate, game, play, Blitzen, chess rules, chess set, instant chess">
 <meta name="Robots" content="All">
 <meta name="robots" content="index,follow">
 <meta name="revisit-after" content="1days">
@@ -26,6 +26,8 @@ location.reload();		} else if (document.headerform.LANGUAGE.options[i].text == "
 			setNormalCookie("ICCLANG", ".de");
 			window.location.href = "/";		} else if (document.headerform.LANGUAGE.options[i].text == "Français") {
 			setNormalCookie("ICCLANG", ".fr");
+			window.location.href = "/";		} else if (document.headerform.LANGUAGE.options[i].text == "Português") {
+			setNormalCookie("ICCLANG", ".pt");
 			window.location.href = "/";/*
 		} else if (document.headerform.LANGUAGE.options[i].text == "Italiano") {
 			setNormalCookie("ICCLANG", ".it");
@@ -41,12 +43,12 @@ function doquicklinks() {
 	if (i >= 0) {
 		if (document.headerform.QUICKLINKS.options[i].text == "Buy or extend a Membership")
 			window.location.href = "/tryicc/purchase.html";
-		else if (document.headerform.QUICKLINKS.options[i].text == "LIVE: Kramnik vs Fritz")
-			window.location.href = "/finger/Bonn06";
-		else if (document.headerform.QUICKLINKS.options[i].text == "ICC Webcast Schedule")
+		else if (document.headerform.QUICKLINKS.options[i].text == "ChessFM Schedule")
 			window.location.href = "/chessfm/";			
-		else if (document.headerform.QUICKLINKS.options[i].text == "ChessWatch")
-			window.location.href = "/chessfm/chesswatch/";
+		else if (document.headerform.QUICKLINKS.options[i].text == "LIVE: Aerosvit 2007")
+			window.location.href = "/finger/Foros07";
+		else if (document.headerform.QUICKLINKS.options[i].text == "LIVE: Dortmund 2007")
+			window.location.href = "/finger/Dortmund07";
 		else if (document.headerform.QUICKLINKS.options[i].text == "ICC News Items")
 			window.location.href = "/activities/news/";
 		else if (document.headerform.QUICKLINKS.options[i].text == "ICC Weekly Newsletters")
@@ -55,10 +57,10 @@ function doquicklinks() {
 			window.location.href = "/activities/relays.html";
 		else if (document.headerform.QUICKLINKS.options[i].text == "Weekly Events")
 			window.location.href = "/activities/events.html";
+		else if (document.headerform.QUICKLINKS.options[i].text == "Download ICC Dasher")
+			window.location.href = "/helpcenter/interface/Dasher.html";
 		else if (document.headerform.QUICKLINKS.options[i].text == "Download BlitzIn")
 			window.location.href = "/helpcenter/interface/blitzin_download.php";
-		else if (document.headerform.QUICKLINKS.options[i].text == "Dasher, the new ICC interface")
-			window.location.href = "/helpcenter/interface/Dasher.html";
 	}
 }
 function LoadTop() {
@@ -179,6 +181,7 @@ font-family: Arial, Helvetica, Verdana, sans-serif;}
                   <option selected="">English</option>
                   <option>Español</option>
                   <option>Français</option>
+                  <option>Português</option>
                   <!-- <option  >Italiano</option> -->
                   <option>Svenska</option>
               </select>
@@ -190,15 +193,15 @@ font-family: Arial, Helvetica, Verdana, sans-serif;}
             <select name="QUICKLINKS" onchange="doquicklinks();" class="input" size="1">
                <option>QUICK LINKS</option>
                <option>Buy or extend a Membership</option>
-               <option>LIVE: Kramnik vs Fritz</option>
-               <option>ICC Webcast Schedule</option>			   
-               <option>ChessWatch</option>
+               <option>ChessFM Schedule</option>			   
+               <option>LIVE: Aerosvit 2007</option>
+               <option>LIVE: Dortmund 2007</option>
                <option>ICC News Items</option>
                <option>ICC Weekly Newsletters</option>
                <option>Relay Schedule</option>
                <option>Weekly Events</option>
+               <option>Download ICC Dasher</option>			   
                <option>Download BlitzIn</option>
-			   <option>Dasher, the new ICC interface</option>			   
             </select>
          </td>
       </tr>
@@ -215,7 +218,7 @@ font-family: Arial, Helvetica, Verdana, sans-serif;}
             <span style="font-family : Verdana, Geneva, Arial, Helvetica, sans-serif ;
                 color : blue ;
                 font-size: 10px ; ">
-               Currently online: <b>2579</b> players, including <b>26 Grandmasters</b> and <b>41 International Masters</b>.            </span>
+               Currently online: <b>1258</b> players, including <b>19 Grandmasters</b> and <b>35 International Masters</b>.            </span>
          </td>
       </tr>
       <tr>
@@ -242,7 +245,7 @@ font-family: Arial, Helvetica, Verdana, sans-serif;}
 <table width="95%" border="0">
   <tbody><tr> 
     <td> 
-<table class="navbg" width="100%" border="0" cellpadding="3"><tbody><tr class="navheadinglink" onmouseover="this.className='navheadinglinkover'" onmouseout="this.className='navheadinglink'" onclick="location.href='/helpcenter/lookup/'"><td><br><center><b class="navheading">HELP FILES</b></center></td></tr><tr><td>&nbsp;<a href="/help/help-list" class="nav">ICC Commands</a></td></tr><tr><td>&nbsp;<a href="/help/info-list" class="nav">ICC Information</a></td></tr></tbody></table><table width="100%" border="0"><tbody><tr><td valign="middle"><a href="/helpcenter/"><img src="/images/arrowtop.gif" alt="up" border="0"> HELP Top</a></td></tr></tbody></table><font size="2"><br><i>Tune in to live relays of world chess events, including the World Championships, the US Championships, special Grandmaster vs. Grandmaster matches, and Grandmaster vs. Computer matches.
+<table class="navbg" width="100%" border="0" cellpadding="3"><tbody><tr class="navheadinglink" onmouseover="this.className='navheadinglinkover'" onmouseout="this.className='navheadinglink'" onclick="location.href='/helpcenter/lookup/'"><td><br><center><b class="navheading">HELP FILES</b></center></td></tr><tr><td>&nbsp;<a href="/help/help-list" class="nav">ICC Commands</a></td></tr><tr><td>&nbsp;<a href="/help/info-list" class="nav">ICC Information</a></td></tr></tbody></table><table width="100%" border="0"><tbody><tr><td valign="middle"><a href="/helpcenter/"><img src="/images/arrowtop.gif" alt="up" border="0"> HELP Top</a></td></tr></tbody></table><font size="2"><br><i>Chat, kibitz, find people you know, leave messages for friends, and explore hundreds of specialized chat channels.
 </i></font><br><br><a href="/tryicc/register/">Get a seven day FREE trial of ICC!</a>    </td>
   </tr>
 </tbody></table>
@@ -253,7 +256,8 @@ font-family: Arial, Helvetica, Verdana, sans-serif;}
 </td>
    <td background="/images/pg_dev.gif" width="1" height="100%"><img src="/images/spacer.gif" alt="" width="1" height="100%" border="0"></td>
 
-<!-- END OF left SECTION -->		<td height="100%" width="600" align="center" valign="top">
+<!-- END OF left SECTION -->
+		<td height="100%" width="600" align="center" valign="top">
 			<table width="100%" border="0" cellpadding="6" cellspacing="0">
 		<tbody><tr>
 		<td valign="top">
@@ -369,7 +373,7 @@ ICC Help: privacy</h1>
    <td background="/images/pg_dev.gif" width="1" height="100%"><img src="/images/spacer.gif" alt="" width="1" height="100%" border="0"></td>
    <td>&nbsp;</td>
 
-   <!-- START OF footer SECTION: end content -->
+	<!-- START OF footer SECTION: end content -->
 	</tr><tr>
 		<td colspan="5"><img src="/images/spacer.gif" alt="" width="30" height="15"></td>
 	</tr>
@@ -389,8 +393,9 @@ ICC Help: privacy</h1>
         | <a href="http://www.chessclub.com/help/privacy">Privacy Policy</a>
         | <a href="http://www.chessclub.com/help/agreement">Terms of Service</a>
 	<br></font></p>
-	<p><font size="1" color="#000000">© Copyright 1995-2006 Internet Chess Club, Inc.
+	<p><font size="1" color="#000000">© Copyright 1995-2007 Internet&nbsp;Chess Club, Inc.
 	All Rights Reserved.
+ 
 	</font></p>
   </td>
 </tr>
@@ -398,6 +403,16 @@ ICC Help: privacy</h1>
 </tbody></table>
 
 </div>
+
+<!-- Google metrics -->
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-584640-1";
+urchinTracker();
+</script>
+
+
 
 
 </body></html>
