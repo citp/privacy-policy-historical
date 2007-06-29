@@ -1,44 +1,97 @@
-> *The following text is extracted and transformed from the brilliantstore.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110103803id_/http%3A//brilliantstore.com/serprivacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brilliantstore.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/service/serprivacypolicy.html) for the most accurate reproduction.*
 
-# Brilliantstore.com
+# Brilliantstore.com Privacy Policy
 
 | 
 
+[Acer](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_batteries_acer.html), [Apple](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_batteries_apple.html), [Compaq](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_batteries_compaq.html), [Dell](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_batteries_dell.html), [Fujitsu](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_batteries_fujitsu.html), [Gateway](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_batteries_gateway.html), [HP](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_batteries_hp.html), [IBM](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_batteries_ibm.html), [Panasonic](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_batteries_panasonic.html), [Sony](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_batteries_sony.html), [Toshiba](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_batteries_toshiba.html), [Uniwill](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_batteries_uniwill.html), [Winbook](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_batteries_winbook.html) & [More](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_batteries.html)
+
+[Acer](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_ac_adapters_acer.html), [Apple](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_ac_adapters_apple.html), [Compaq](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_ac_adapters_compaq.html), [Dell](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_ac_adapters_dell.html), [Fujitsu](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_ac_adapters_fujitsu.html), [HP](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_ac_adapters_hp.html), [IBM](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_ac_adapters_ibm.html), [Panasonic](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_ac_adapters_panasonic.html), [Sony](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_ac_adapters_sony.html), [Toshiba](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_ac_adapters_toshiba.html), [Uniwill](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_ac_adapters_uniwill.html), [Winbook](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_ac_adapters_winbook.html) & [More](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_ac_adapters.html)
+
+|  | 
+
+Brilliant Store Service Desk
+
+Brilliant Store Privacy Policy
+
 Brilliant store does not collect personally identifiable information from individuals unless they provide it to us voluntarily and knowingly. This means we don't require visitors to register or provide information to us in order to view our site. Whether we gather your personal or corporate information on the Internet, or by other means, we pledge:
 
+  
+
+
   * We ship your order with plain packages, no indication of contents will be shown on the packages;
-
   * Not to sell, giveaway, or otherwise communicate your personal or corporate information to any other persons or companies;
-
   * To use your personal information to provide you with information or materials only if you requested;
-
   * To provide you, the customer, with the opportunity to remove your information from our database, at your request.
-
 
 
 
 Brilliant store does not and will not engage in the following activities:
 
+  
+
+
   * unsolicited email or postal mail,
-
   * unsolicited phone call or Fax.
-
 
 
 
 We contact you via email only for the following purposes:
 
+  
+
+
   * Order confirmation and delivery notice,
-
   * Other order-related issues, if any, and
-
-
-
   * Answer to your inquiry
 
+  
 
 
+If you have any question or concern about brilliant store's privacy policy, please 
 
-If you have any question or concern about brilliant store's privacy policy, please [click here](mailto:kent@brilliantstore.com) to let us help you.
+[_click here_](mailto:Customercare@brilliantstore.com)
 
-| 
+to let us help you.
+
+|  | 
+
+How to Contact
+
+Get answer to your questions within 3 hours or less! 
+
+_**E-mail**_
+
+General Information:
+
+Customer Service Department:
+
+Purchasing Department:
+
+Business development Department:
+
+IT Department:
+
+_**Phone**_
+
+877-383-5641
+
+510-668-0398
+
+(M - F 8:30 AM - 5:30 PM PDT)
+
+_**Fax**_
+
+510-751-5309
+
+_**By Mail**_
+
+Brilliant Store 933 Corporate Way, Fremont, CA 94539
+
+If you want to pick up your order at Brilliant Store, 
+
+[_click here_](http://maps.yahoo.com/maps_result?addr=933+Corporate+Way&csz=94539&country=us&new=1&name=&qty=)
+
+to get driving directions.
+
+Featured Stores
