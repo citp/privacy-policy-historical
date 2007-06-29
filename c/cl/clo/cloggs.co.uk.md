@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloggs.co.uk privacy policy that was archived on 2006-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061005111832id_/http%3A//www.cloggs.co.uk/page/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloggs.co.uk privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629173421id_/http%3A//www.cloggs.co.uk/page/security) for the most accurate reproduction.*
 
 # Security and Privacy
 
@@ -11,7 +11,6 @@
 | 
 
 [Main Help Desk](http://www.cloggs.co.uk/page/helpdeskwelcome)  
-[International Orders](http://www.cloggs.co.uk/page/internationalorders)  
 [Your Account](http://www.cloggs.co.uk/page/myaccount)  
 [Order Status Explained](http://www.cloggs.co.uk/page/orderstatusexplained)  
 [Size Help](http://www.cloggs.co.uk/page/sizehelp2)  
@@ -26,7 +25,7 @@
 | 
 
 [  
-**Promo Code: TOPTEN5**](https://web.archive.org/icat/toptensellers&source=cloggs_leftpromobox)
+****](http://www.cloggs.co.uk/icat/brndftwrnewrockcats)
 
 |   
 |  |   
@@ -38,8 +37,11 @@
 |  |   
 | 
 
-STANDARD UK DELIVERY IS FREE!  
-[Click here for more info](http://www.cloggs.co.uk/page/prices)
+Know what you want? use our 'FREE DELIVERY' option
+
+Want to try for size? use our 'FREE RETURNS' option
+
+[Click here for more info](http://www.cloggs.co.uk/page/types)
 
 |   
   
@@ -52,14 +54,16 @@ STANDARD UK DELIVERY IS FREE!
 
 |   
   
-[](http://www.cloggs.co.uk/page/sizehelp2)  
+[](http://www.cloggs.co.uk/page/sizehelp)  
   
 ---  
 | 
 
 **Welcome to Cloggs.co.uk** , the UK's number one online supplier of niche fashion footwear and clothing including boots, shoes, trainers, jeans, jackets, bags and sunglasses.
 
-We are the UK's only officially appointed online retailers of Levi's® Jeans and supply many more top brands like Dr Martens, New Rock Boots, Converse, Skechers, Wrangler, Lee amongst others...
+We are officially appointed online retailers of [Levi's® Jeans](http://www.cloggs.co.uk/icat/brdjnslevis), [Crocs Shoes](http://www.cloggs.co.uk/page/crocs_shoes), [Doc Martens](http://www.cloggs.co.uk/page/doc_martens), [Merrell Shoes](http://www.cloggs.co.uk/icat/brdftwrmerrell), [New Rock Boots](http://www.cloggs.co.uk/icat/brndftwrnewrockcats), [Converse](http://www.cloggs.co.uk/icat/brdftwrconverse), [Skechers](http://www.cloggs.co.uk/icat/brdftwrskecherscats), [Ugg Boots](http://www.cloggs.co.uk/page/uggboots), [Oakley Sunglasses](http://www.cloggs.co.uk/icat/brdsunoakley), [Timberland Boots](http://www.cloggs.co.uk/page/timberland_boots), [Kicker Shoes](http://www.cloggs.co.uk/page/kicker_shoes), [Wrangler Jeans](http://www.cloggs.co.uk/icat/brdjnswrangler), [Lee Jeans](http://www.cloggs.co.uk/icat/brdjnslee) and [many more...](http://www.cloggs.co.uk/icat/brd)!
+
+Please check out the best in high-end fashion at our sister-site [RivetOnline.co.uk](http://www.rivetonline.co.uk/), also with Free UK Delivery on orders over £50 and Free Returns.
 
 |   
 |  |   
@@ -104,10 +108,6 @@ Cloggs.co.uk uses the industry standard secure server software (Secure Socket La
 
 Cloggs are focussed on minimising fraudulent transactions over the net. As a further precaution, we have a designated customer service team that will contact you for voice recognition and authorisation if our security matches are not met or if we suspect any improper use.
 
-**Alternative Methods of Payment**
-
-Unfortunately we are not set up appropriately to handle the administration of alternative methods of payment. You can call 07000 256 447 or +44 121 237 5510 (for International customers) or [e-mail](mailto:info@cloggs.co.uk) our customer services for further information.
-
 **Privacy**
 
 **Customer Protection**
@@ -125,7 +125,7 @@ We collect information about you for two main reasons:
 
 The type of information we will collect about you includes:- Your name, your address, your phone number, your size, your e-mail address, your age, your phone number and your sex. Please note that some of these fields are optional and the information is only used as so that we may provide our customers with the products they like as effectively as possible. We will never collect sensitive information about you without your explicit consent.
 
-The information collected will be used to personally keep in touch and let you know of any offers, sales or promotions that Cloggs.co.uk are carrying out. We never aim to send emails to a customer unless first receiving their consent. Customers can be removed from our mailing list by sending an email - please [click here](mailto:info@cloggs.co.uk?subject=CLOGGS%20NEWSLETTER%20REMOVAL)
+The information collected will be used to personally keep in touch and let you know of any offers, sales or promotions that Cloggs.co.uk are carrying out. We never aim to send emails to a customer unless first receiving their consent. Customers can be removed from our mailing list automatically by sending an email - please [click here](mailto:remove@cloggs.co.uk?subject=UNSUBSCRIBE) to remove your email address from future mailouts. NB - the automated process removes the primary 'sending' email address. If you still receive emails from us, please contact customer services to manually remove any aliases that may be receiving emails from us.
 
 **Controlling Your Personal Information**
 
@@ -137,7 +137,7 @@ We use technology to track the patterns of behaviour of our visitors to our site
 
 This will include using a "cookie" which would be stored on your browser. A "cookie" is a small text file stored on your machine which helps us recognise who you are. This information helps us retrieve information about you so you don't need to re-enter your details. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings.
 
-If you have any questions/comments about privacy, please [e-mail us.](mailto:info@cloggs.co.uk)
+If you have any questions/comments about privacy, please feel free to contac us.
 
 [Back to Helpdesk Main Menu](http://www.cloggs.co.uk/page/helpdeskwelcome)
 
@@ -145,5 +145,5 @@ If you have any questions/comments about privacy, please [e-mail us.](mailto:inf
 
 |   
 ---  
-| [](https://web.archive.org/icat/brd) |   
+| [](http://www.cloggs.co.uk/icat/toptensellers&source=cloggs_leftpromobox) |   
 |  | 
