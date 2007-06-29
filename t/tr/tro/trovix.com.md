@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the trovix.com privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114084335id_/http%3A//trovix.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trovix.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630002756id_/http%3A//trovix.com/privacy.htm) for the most accurate reproduction.*
 
 # Trovix, Inc. - Privacy Policy
 
-Trovix respects the privacy of our customers. As part of this commitment the following privacy statement highlights our policies as they pertain to protecting our customer's information. If you object to any or all of this Privacy Statement you should not use the site.
+Trovix respects the privacy of our customers. As part of this commitment the following privacy statement highlights our policies as they pertain to protecting our customers' information. If you object to any or all of this Privacy Statement you should not use the site.
 
 **Definitions**
 
