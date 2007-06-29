@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irishjobs.ie privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118080629id_/http%3A//www.irishjobs.ie/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishjobs.ie privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629175526id_/http%3A//www.irishjobs.ie/about/privacy.asp) for the most accurate reproduction.*
 
 # Irish Jobs - Irish Jobs Privacy Policy
 
@@ -112,11 +112,24 @@ My Career Manager is a facility on IrishJobs.ie for jobseekers to set up their i
   * **CVs  
 **Jobseekers may decide to register their CV in our database, through My Career Manager. Users can choose to make their CV searchable for inclusion in our CV database product. This product allows your CV to be viewed by recruiters who have subscribed to this service. It also means that you can attach your CV to your online job application(s). 
 
-To store your CV in the database you **must** remove confidential details such as your contact information and references. Recruiters will contact you via IrishJobs.ie if they have a position that matches your experience and requirements. They will provide their company name, contact details and a job description enabling you to follow up with them **directly**. We endeavour to grant access to the CV database only to recruiters who agree to abide by our Terms and Conditions. However, should a third party gain access to your CV by evading our security measures, we cannot be held responsible. 
+We endeaver to grant access to the CV database only to recruiters who agree to abide by our[ terms and conditions](http://www.irishjobs.ie/about/terms.asp). However should third party gain access to your CV by evading our security measures, we cannot be held responsible.
+
+It is up to the jobseeker to determine status of their CV.   
+3 options are available 
+
+**1\. Keep CV private**. Select this option if you want to hide your CV from all employers performing CV searches on Jobs.ie.
+
+**2\. Allow recruiters to search CV (Hide details)** Select this option if you want recruiters to find your CV but wish to keep your contact details private. Recruiters can contact you via IrishJobs.ie if they have a position that matches your selected criteria. It is up to the jobseeker to remove any confidential details from the CV they attach. 
+
+**3\. Allow recruiters to search CV (Show details)** Select this option if you want recruiters to find your CV and relevant contact details. Recruiters will be able to contact you by phone or by email should a position arise that matches your experience and requirements. 
 
 You may remove your CV from our database at any time. However, recruiters who have already accessed your CV may have kept a copy of it in their own files. Please note that we cannot be held responsible for the retention, use, or privacy of your CV in these instances. 
 
-In the interest of your privacy and the maintenance of an up-to-date CV database, CVs are removed from recruiters' access if they have not been updated for a period of 90 days. If you wish your CV to remain in the searchable database, you must update your details at least once every 90 days. 
+In the interest of your privacy and the maintenance of an up-to-date CV database, CVs are removed from recruiters' access if they have not been updated for a period of 120 days. If you wish your CV to remain in the searchable database, you must update your details at least once every 120 days. 
+
+You may review, correct, update or change your IrishJobs.ie account profile information or CV at any time. Simply log into you’re My Career Manager account and edit where necessary. You can also delete your CV through this method.
+
+If you wish to delete your My Career Manager account you can do so by logging into your account and selecting the option ‘Delete My Account’
 
   * **Career Update Service  
 **The Career Update service within My Career Manager offers users the ability to register their personal details to receive a monthly email detailing career information and site service information. 
