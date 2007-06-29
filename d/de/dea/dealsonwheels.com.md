@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealsonwheels.com privacy policy that was archived on 2006-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061128004141id_/http%3A//www.dealsonwheels.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsonwheels.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629054032id_/http%3A//www.dealsonwheels.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,8 +8,8 @@
 [Home](http://www.dealsonwheels.com/)  
 [Sell Your Vehicle](https://secure2.dealsonwheels.com/sellit/sell-step-1.aspx)  
 [Subscriptions](http://www.dealsonwheels.com/subscriptions/)  
-[Search New Listings](https://web.archive.org/web/20061128004141id_/http%3A//www.dealsonwheels.com/new/)  
-[Auctions and Events](https://web.archive.org/web/20061128004141id_/http%3A//www.dealsonwheels.com/events/)  
+[Search New Listings](https://web.archive.org/web/20070629054032id_/http%3A//www.dealsonwheels.com/new/)  
+[Auctions and Events](https://web.archive.org/web/20070629054032id_/http%3A//www.dealsonwheels.com/events/)  
 [Contact Us](http://www.dealsonwheels.com/contactus/)  
 [About Us](http://www.dealsonwheels.com/aboutus/)  
    
@@ -19,8 +19,8 @@ SEARCH BY DEALERS
 [Repairable Dealers](http://www.dealsonwheels.com/repairable/)  
 [Motorcycle / ATV / Watercraft](http://www.dealsonwheels.com/motorcycles/)  
 [Trailer Dealers](http://www.dealsonwheels.com/trailers/)  
-[Parts and Services Providers](http://www.dealsonwheels.com/parts/)  
-[Catalog](http://www.dealsonwheels.com/catalog/)  
+[Parts Dealers](http://www.dealsonwheels.com/parts/)  
+[Catalogs](http://www.dealsonwheels.com/catalog/)  
   
 * * *  
   
@@ -55,37 +55,33 @@ SEARCH BY CATEGORY
 [Miscellaneous](http://www.dealsonwheels.com/category/Default.aspx?cat=15)  
    
 POPULAR SEARCHES  
-**[Chevrolet Camaro](http://www.dealsonwheels.com/popular/Default.aspx?make=Chevrolet&model=Camaro)**  
-**[Ford Mustang](http://www.dealsonwheels.com/popular/Default.aspx?make=Ford&model=Mustang)**  
-**[Chevrolet Corvette](http://www.dealsonwheels.com/popular/Default.aspx?make=Chevrolet&model=Corvette)**  
-**[Chevrolet Chevelle](http://www.dealsonwheels.com/popular/Default.aspx?make=Chevrolet&model=Chevelle)**  
-**[Chevrolet Impala](http://www.dealsonwheels.com/popular/Default.aspx?make=Chevrolet&model=Impala)**  
-**[Pontiac GTO](http://www.dealsonwheels.com/popular/Default.aspx?make=Pontiac&model=GTO)**  
-**[Dodge Challenger](http://www.dealsonwheels.com/popular/Default.aspx?make=Dodge&model=Challenger)**  
-**[Dodge Charger](http://www.dealsonwheels.com/popular/Default.aspx?make=Dodge&model=Charger)**  
-**[Chevrolet Nova](http://www.dealsonwheels.com/popular/Default.aspx?make=Chevrolet&model=Nova)**  
-**[Plymouth Barracuda](http://www.dealsonwheels.com/popular/Default.aspx?model=Cuda)**  
-**[Pontiac Firebird](http://www.dealsonwheels.com/popular/Default.aspx?make=Pontiac&model=Firebird)**  
-**[Chevrolet El Camino](http://www.dealsonwheels.com/popular/Default.aspx?model=El%20Camino)**  
-**[Pontiac Trans Am](http://www.dealsonwheels.com/popular/Default.aspx?make=Pontiac&model=Trans%20Am)**  
-**[Ford Thunderbird](http://www.dealsonwheels.com/popular/Ford-Thunderbird)**  
-**[Chevrolet Monte Carlo](http://www.dealsonwheels.com/popular/Chevrolet-Monte%20Carlo.html)**  
+**[Chevrolet Camaro](http://www.dealsonwheels.com/browse/Chevrolet_Camaro.aspx)**  
+**[Ford Mustang](http://www.dealsonwheels.com/browse/Ford_Mustang.aspx)**  
+**[Chevrolet Corvette](http://www.dealsonwheels.com/browse/Chevrolet_Corvette.aspx)**  
+**[Chevrolet Chevelle](http://www.dealsonwheels.com/browse/Chevrolet_Chevelle.aspx)**  
+**[Dodge Charger](http://www.dealsonwheels.com/browse/Dodge_Charger.aspx)**  
+**[Dodge Challenger](http://www.dealsonwheels.com/browse/Dodge_Challenger.aspx)**  
+**[Chevrolet Impala](http://www.dealsonwheels.com/browse/Chevrolet_Impala.aspx)**  
+**[Pontiac Trans Am](http://www.dealsonwheels.com/browse/Pontiac_Trans_Am.aspx)**  
+**[Pontiac GTO](http://www.dealsonwheels.com/browse/Pontiac_GTO.aspx)**  
+**[Pontiac Firebird](http://www.dealsonwheels.com/browse/Pontiac_Firebird.aspx)**  
+**[Chevrolet Nova](http://www.dealsonwheels.com/browse/Chevrolet_Nova.aspx)**  
+**[Plymouth Barracuda](http://www.dealsonwheels.com/browse/Plymouth_Barracuda.aspx)**  
+**[Chevrolet El Camino](http://www.dealsonwheels.com/browse/Chevrolet_El_Camino.aspx)**  
+**[Chevrolet Monte Carlo](http://www.dealsonwheels.com/browse/Chevrolet_Monte_Carlo.aspx)**  
+**[Ford Thunderbird](http://www.dealsonwheels.com/browse/Ford_Thunderbird.aspx)**  
    
 BUYING RESOURCES  
 [Financing](http://www.dealsonwheels.com/financing/)  
 [Inspections](http://www.dealsonwheels.com/inspections/)  
 [Insurance](http://www.dealsonwheels.com/insurance/)  
-[Parts and Services](http://www.dealsonwheels.com/parts/)  
+[Parts Dealers](http://www.dealsonwheels.com/parts/)  
 [Transport](http://www.dealsonwheels.com/transport/)  
-[Warranty](http://www.dealsonwheels.com/warranty/)  
+[Tires and Wheels](http://www.dealsonwheels.com/wheels/)  
   
  
 
-[](http://www.dealsonwheels.com/common/url.aspx?cd=1545)
-
-* * *
-
-**Privacy Policy for DealsOnWheels.com, a division of Trader Publishing Company**
+**Privacy Policy for DealsOnWheels.com, a division of Cox Auto Trader, Inc.**
 
   1. What information is collected?
   2. How is the information collected?
@@ -117,7 +113,7 @@ back to the top
 **III. How information will be used?**
 
   * Resale and Disclosure of Information  
-Trader Publishing Company reserves the right to sell or disclose some personal information collected on our site to third parties. We may provide third parties with non-exclusive, limited use of Trader Publishing Company's collected information in order for the third party to promote and market the third party's service. Any right of the third party to distribute, transfer, transmit, or re-sell Trader Publishing Company's information is prohibited.
+Cox Auto Trader, Inc. reserves the right to sell or disclose some personal information collected on our site to third parties. We may provide third parties with non-exclusive, limited use of Cox Auto Trader, Inc.'s collected information in order for the third party to promote and market the third party's service. Any right of the third party to distribute, transfer, transmit, or re-sell Cox Auto Trader, Inc.'s information is prohibited.
   * Privacy of DealsOnWheels.com Email Lists  
 We collect and record personal information in order to maintain email lists. We utilize the emails to keep members informed of the site services, site performance, promotions, and offer information regarding industry related services and products.   
 back to the top
@@ -127,9 +123,9 @@ back to the top
 **IV. User choices in receiving and distribution of information**
 
   * DealsOnWheels.com Email Lists  
-Dealer members receive monthly emails informing them of special promotions and advertising tips. Dealers wishing not to receive the mailer can send a request via email to be removed from the mailing list. Private party members automatically receive an email to confirm their placement on our site and to give them the necessary information to edit and delete their classified ads. Private parties also receive notification of ad renewal opportunities. Trader Publishing Company reserves the right to include third party advertisements that provide additional services to members in the confirmation emails.
+Dealer members receive monthly emails informing them of special promotions and advertising tips. Dealers wishing not to receive the mailer can send a request via email to be removed from the mailing list. Private party members automatically receive an email to confirm their placement on our site and to give them the necessary information to edit and delete their classified ads. Private parties also receive notification of ad renewal opportunities. Cox Auto Trader, Inc. reserves the right to include third party advertisements that provide additional services to members in the confirmation emails.
   * Third Party Distribution  
-Private party members may receive information directly from third parties that have related services. Private parties that do not wish to receive the third party information can opt-out of the service at the time they place an ad with DealsOnWheels.com. Third parties receive only the needed personal information in order to effectively target members' needs and interests. Third parties have non-exclusive, limited use of the information provided by Trader Publishing Company. Any right of the third party to distribute, transfer, transmit, or re-sell Trader Publishing Company's information is prohibited.   
+Private party members may receive information directly from third parties that have related services. Private parties that do not wish to receive the third party information can opt-out of the service at the time they place an ad with DealsOnWheels.com. Third parties receive only the needed personal information in order to effectively target members' needs and interests. Third parties have non-exclusive, limited use of the information provided by Cox Auto Trader, Inc. Any right of the third party to distribute, transfer, transmit, or re-sell Cox Auto Trader, Inc.'s information is prohibited.   
 back to the top
 
 
@@ -153,20 +149,16 @@ back to the top
 
 **VIII. Questions**
 
-  * If you have further questions that were not addressed in the above privacy policy, please contact Trader Publishing Company Legal Department at 757-640-4000 or email [support@DealsOnWheels.com](mailto:support@DealsOnWheels.com).   
+  * If you have further questions that were not addressed in the above privacy policy, please contact Cox Auto Trader, Inc. Legal Department at 757-640-4000 or email [support@DealsOnWheels.com](mailto:support@DealsOnWheels.com).   
 back to the top
 
 
 
 |    
-[](http://www.dealsonwheels.com/common/url.aspx?cd=1581)
+[](http://www.dealsonwheels.com/common/url.aspx?cd=3257)
 
-[](http://www.dealsonwheels.com/common/url.aspx?cd=1697)
+[](http://www.dealsonwheels.com/common/url.aspx?cd=3183)
 
-[](http://www.dealsonwheels.com/common/url.aspx?cd=1607)
+[](http://www.dealsonwheels.com/common/url.aspx?cd=3258)
 
-[](http://www.dealsonwheels.com/common/url.aspx?cd=1540)
-
-[](http://www.dealsonwheels.com/common/url.aspx?cd=1543)
-
-[](https://web.archive.org/web/20061128004141id_/http%3A//www.dealsonwheels.com/)
+[](https://web.archive.org/web/20070629054032id_/http%3A//www.dealsonwheels.com/partsandaccessories/performance.aspx)
