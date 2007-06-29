@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the robbreport.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231204527id_/http%3A//robbreport.com/Misc/Privacy-Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robbreport.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629082130id_/http%3A//www.robbreport.com/Misc/Privacy-Policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Robb Report
 
@@ -20,7 +20,7 @@ Postal address:
       Malibu, CA 90265
 
 Email:  
-      [privacypolicy@robbreport.com](mailto:privacypolicy@robbreport.com)
+      [privacypolicy@curtco.com](mailto:privacypolicy@curtco.com?subject=Robb%20Report "Click to open your email program.")
 
 Or Telephone:  
       (310) 589-7700
