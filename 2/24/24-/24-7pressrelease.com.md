@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 24-7pressrelease.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215194506id_/http%3A//www.24-7pressrelease.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 24-7pressrelease.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629162803id_/http%3A//www.24-7pressrelease.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Press Release Distribution from 24-7PressRelease.com
 
