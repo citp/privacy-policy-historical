@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rakeback.com privacy policy that was archived on 2006-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061101214155id_/http%3A//www.rakeback.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rakeback.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629173238id_/http%3A//www.rakeback.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Rakeback.com
+# Privacy Policy of Rakeback.com | Rakeback.com
 
 At Rakeback.com we respect your privacy. Please read the following to learn more about our privacy policy.
 
