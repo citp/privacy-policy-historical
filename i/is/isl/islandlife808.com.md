@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the islandlife808.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205225821id_/http%3A//blogher.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the islandlife808.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629151720id_/http%3A//blogher.org/privacy-policy) for the most accurate reproduction.*
 
 # What is your privacy policy? | BlogHer
-
-## Shortcuts
-
-### Welcome
-
-[log in](http://blogher.org/user/login) | **Join us and[list your blog](http://blogher.org/user/register) (it's free!)**
-
-Enclose phrases in double quotes ("").
 
 ## Syndicate
 
@@ -56,27 +48,33 @@ Updated 3:19 pm, Sun 29 Jan 2006
   
 | 
 
+## You're Invited to BlogHer Conferences
+
 _
 
 ## 247 right 125x125 & 120x240
 
-### Advertisement
-
-  
-  
-
-
 _
 
 _
 
-## 247 right 120x240
+## BlogHer Conference '07 Sponsors
 
-_
+Platinum Sponsors
 
-_
+[](http://body.aol.com/?ncid=AOLHTH00050000000011/)
 
-## 247 right 120x480
+[](http://gm.com/)
+
+Gold Sponsors
+
+[](http://sleevelessready.com/)
+
+[](http://yahoo.com/)
+
+[](http://www.google.com/)
+
+### [MORE SPONSORS](http://blogher.org/node/18374)
 
 _
 
