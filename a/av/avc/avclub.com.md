@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the avclub.com privacy policy that was archived on 2006-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061226194140id_/http%3A//www.theonion.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avclub.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629150903id_/http%3A//www.theonion.com/content/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | The Onion - America's Finest News Source
+# privacy | The Onion - America's Finest News Source
+
+## Privacy Policy
 
 Onion, Inc., producer of _The Onion_ and its related content and service sites, believes that electronic privacy is crucial for the ongoing success of the Internet as a service, commercial, and entertainment medium. We know you're concerned about protecting your privacy online. At _The Onion_ , we treat your personal information (especially payment information) with the highest standards of safety, security, and confidentiality.
 
@@ -52,10 +54,10 @@ _The Onion_ never shares, sells, or rents any personal information without your 
 
 ### Copyright
 
-**_The Onion_ ®** is a satirical newspaper published by Onion, Inc.
+**_The Onion_** is a satirical newspaper published by Onion, Inc.
 
-**_The Onion_ ®** uses invented names in all its stories, except in cases when public figures are being satirized. Any other use of real names is accidental and coincidental.
+**_The Onion_** uses invented names in all its stories, except in cases when public figures are being satirized. Any other use of real names is accidental and coincidental.
 
-The content of this web-site—graphics, text and other elements—is © Copyright 2004 by Onion, Inc., and may not be reprinted or retransmitted in whole or in part without the expressed written consent of the publisher.
+The content of this web-site—graphics, text and other elements—is © Copyright 2007 by Onion, Inc., and may not be reprinted or retransmitted in whole or in part without the expressed written consent of the publisher.
 
-**_The Onion_ ®** is not intended for readers under 18 years of age.
+**_The Onion_** is not intended for readers under 18 years of age.
