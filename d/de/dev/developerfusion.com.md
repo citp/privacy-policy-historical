@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the developerfusion.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205205030id_/http%3A//www.developerfusion.co.uk/Extra/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the developerfusion.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629232541id_/http%3A//www.developerfusion.co.uk/Extra/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Developer Fusion: Connecting Developers Worldwide. C#, .NET, VB, Java, PHP and XML tutorials & source code
+# Privacy Policy - Developer Fusion - Visual Basic, C# Programming, ASP.NET, .NET Framework and Java Tutorials
 
 Developer Fusion Ltd is strongly committed to protecting the privacy of its user community.
 
