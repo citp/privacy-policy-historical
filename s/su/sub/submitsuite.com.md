@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the submitsuite.com privacy policy that was archived on 2006-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061124233538id_/http%3A//www.submitsuite.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submitsuite.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629095219id_/http%3A//www.submitsuite.com/privacy.htm) for the most accurate reproduction.*
 
 # Submit Suite - Privacy Policy
 
@@ -11,7 +11,7 @@ We use cookies to save your password so you don't have to re-enter it each time 
 We do not use advertising companies ads on our site.
 
   ◊ Registration Forms  
-Our site's registration form requires users to give us contact information (like name, email and address) and demographic information (like zip code, age, or income level). This information will be used for creating internal reports for following the market tends. Contact information from the registration forms is used to get in touch with the customer when necessary.
+Our site's registration form requires users to give us contact information (like name, email and address) and demographic information (like zip code, age or income level). This information will be used for creating internal reports for following the market trends. Contact information from the registration forms is used to get in touch with the customer when necessary.
 
   ◊ External Links  
 This site contains links to other sites. Fastlink2 has no responsibility for the privacy policy on these sites.
@@ -20,4 +20,4 @@ This site contains links to other sites. Fastlink2 has no responsibility for the
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
 
   ◊ Contacting the Web Site  
-If you have any concerns about our privacy policy or the manner in which we protect your privacy, please contact us immediately at [support@submitsuite.com](mailto:support@submitsuite.com) or use the [contact page](https://web.archive.org/web/20061124233538id_/http%3A//www.submitsuite.com/contact.htm).
+If you have any concerns about our privacy policy or the manner in which we protect your privacy, please contact us immediately at [support@submitsuite.com](mailto:support@submitsuite.com) or use the [contact page](https://web.archive.org/web/20070629095219id_/http%3A//www.submitsuite.com/contact.htm).
