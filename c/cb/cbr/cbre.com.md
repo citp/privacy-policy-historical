@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbre.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206092338id_/http%3A//cbre.com/Global/About%2BUs/Privacy%2BPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbre.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629084626id_/http%3A//www.cbre.com/Global/About%2BUs/Privacy%2BPolicy.htm) for the most accurate reproduction.*
 
 # CB Richard Ellis - Privacy Policy
 
@@ -59,9 +59,10 @@ Although we will take (and require our third-party providers to take) commercial
 
   **Modification of your choices and preferences**
 
-**Opt-out right:**   If you would like to opt out of any of our marketing programs, or wish to withdraw your consent to us contacting you via your e-mail, fax or phone number, or if your personal details change, please contact us through one of the following: (i) by telephone, at (206) 292-6090 and ask for our Director of Web Marketing; (ii) by facsimile, at (206) 292-6033; (iii) by email, by following the Opt-Out instruction contained in the body of any marketing e-mail from us or by sending us an e-mail at [WebMarketing@cbre.com](mailto:wWebMarketing@cbre.com) by including a copy of the e-mail you have received and by typing “Remove” in the subject line of your e-mail; or (iv) by mail, care of Director of Web Marketing, CB Richard Ellis, Inc., 1420 Fifth Avenue, Suite 1700, Seattle, WA  98101.  
+**Opt-out right:**   If you would like to opt out of any of our marketing programs, or wish to withdraw your consent to us contacting you via your e-mail, fax or phone number, or if your personal details change, please contact us through one of the following: (i) by telephone, at (206) 328-6135 and ask for our Director of Web Marketing; (ii) by facsimile, at (206) 292-6033; (iii) by email, by following the Opt-Out instruction contained in the body of any marketing e-mail from us or by sending us an e-mail at [WebMarketing@cbre.com](mailto:wWebMarketing@cbre.com) by including a copy of the e-mail you have received and by typing “Remove” in the subject line of your e-mail; or (iv) by mail, care of Director of Web Marketing, CB Richard Ellis, Inc., 1420 Fifth Avenue, Suite 1700, Seattle, WA  98101.
+
 Your election not to receive newsletters or promotional and marketing correspondence from us will not: (a) preclude us from corresponding with you, by email or otherwise, regarding your existing or past relationship with us, and (b) preclude us, including our employees, contractors, agents and other representatives, from accessing and viewing your personal information in the course of maintaining and improving the Site. 
 
 **Your Acceptance of this Privacy Policy:**   By using this Site, you signify your acceptance of our Privacy Policy.  If you do not agree to this Privacy Policy, please do not use our Site.  We reserve the right, at our discretion, to change, modify, add, or remove portions from this Privacy Policy at any time so visitors are encouraged to review this Privacy Policy from time to time. Your continued use of our Site following the posting of changes to these terms means you accept these changes.
 
-© 2006 CB Richard Ellis, Inc. 
+© 2007 CB Richard Ellis, Inc. 
