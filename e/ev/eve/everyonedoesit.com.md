@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everyonedoesit.com privacy policy that was archived on 2006-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061022131611id_/http%3A//everyonedoesit.com/about_EDIT/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everyonedoesit.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629075633id_/http%3A//everyonedoesit.com/about_EDIT/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -50,5 +50,4 @@ Member Login
 
 About EveryoneDoesIT
 
-[](https://web.archive.org/about_EDIT/shipping_information/packaging.cfm) [](https://web.archive.org/online_headshop/productCategory.cfm?sC=Legal_Highs&iProductCategoryID=85) [](https://web.archive.org/online_headshop/productCategory.cfm?iProductCategoryID=710) [](https://web.archive.org/cannabis_videos/)  
-[](http://www.bodyjewelleryshop.com/)
+[](https://web.archive.org/about_EDIT/shipping_information/) [](https://web.archive.org/about_EDIT/shipping_information/packaging.cfm) [](https://web.archive.org/about_EDIT/free_gift/) [](https://web.archive.org/online_headshop/productCategory.cfm?sC=Legal_Highs&iProductCategoryID=85) [](https://web.archive.org/online_headshop/productCategory.cfm?sC=Vaporisers&iProductCategoryID=12) [](http://www.bodyjewelleryshop.com/)
