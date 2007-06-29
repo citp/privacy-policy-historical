@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scrapbookflair.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209002458id_/http%3A//www.scrapbookflair.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrapbookflair.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629192401id_/http%3A//www.scrapbookflair.com/privacy.aspx) for the most accurate reproduction.*
 
 # Scrapbook Flair Privacy - Scrapbook Sharing, Free Scrapbook Software, Templates, Backgrounds & Embellishments
 
@@ -9,7 +9,7 @@ We respect your privacy. Scrapbook Flair will never sell, rent, lease or even di
   
 **2.** | **Internet privacy**
 
-Scrapbook Flair does not share any personal information about you, or about your Internet usage with anyone, unless required to do so by law.   
+Scrapbook Flair does not share any personal information about you, or about your Internet usage with third parties, unless required to do so by law.   
   
 **3.** | **When you order from us**
 
@@ -17,7 +17,7 @@ We collect information necessary to complete your order, including your name and
   
 **4.** | **Unsubscribe from our mailings at any time**
 
-Occasionally - in order to offer products and services that may be of interest to you - we will communicate by email. If at any time you no longer want to receive our newsletters or product updates, just let us know and we will remove you from our email list.  
+If at any time you no longer want to receive our newsletters or product updates, just click the unsubscribe link in the email or go to the link <http://www.scrapbookflair.com/unsubscribenews.aspx> to remove yourself from our our email list.  
   
 ** ** | ** **
 
