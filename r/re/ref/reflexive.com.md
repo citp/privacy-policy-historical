@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reflexive.com privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229234003id_/http%3A//reflexive.com/index.php%3FPAGE%3DPrivacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reflexive.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629172133id_/http%3A//www.reflexive.com/index.php%3FPAGE%3DPrivacy_Policy) for the most accurate reproduction.*
 
 # Reflexive Arcade Privacy Policy
 
@@ -22,7 +22,7 @@ Reflexive Entertainment, Inc. ("Reflexive") takes your privacy very seriously. P
 
 **o** Other Registration: Reflexive may collect personal information when you register for other Reflexive services. Reflexive may also receive personally identifiable information from our business partners. 
 
-**o** When you use our Tell a Friend feature: The e-mail address information you provide to us when you use the 'Tell a Friend feature' is used only to customize your greeting with your name and your recipient's name, and to deliver email notifications to you and your recipient. Reflexive will not this e-mail address information to any mailing lists.
+**o** When you use our Tell a Friend feature: The email address information you provide to us when you use the 'Tell a Friend feature' is used only to customize your greeting with your name and your recipient's name, and to deliver email notifications to you and your recipient. Reflexive will not add this email address information to any mailing lists.
 
 **Information Sharing and Disclosure**
 
@@ -48,7 +48,7 @@ Reflexive Entertainment, Inc. ("Reflexive") takes your privacy very seriously. P
 
 **�** In certain areas of our web site Reflexive uses industry-standard SSL-encryption to protect data transmissions. 
 
-**�** All in-game transmission of purchasing information including name, e-mail and credit card number and expiration uses industry-standard SSL-encryption to protect data transmissions. If SSL is not present or cannot be accessed within the game the option to purchase the product within the game is not accessible. 
+**�** All in-game transmission of purchasing information including name, email and credit card number and expiration uses industry-standard SSL-encryption to protect data transmissions. If SSL is not present or cannot be accessed within the game the option to purchase the product within the game is not accessible. 
 
 **�** Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, Reflexive cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. 
 
