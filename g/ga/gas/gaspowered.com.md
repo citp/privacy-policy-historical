@@ -1,10 +1,15 @@
-> *The following text is extracted and transformed from the gaspowered.com privacy policy that was archived on 2006-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061223093555id_/http%3A//www.gaspowered.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaspowered.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629043846id_/http%3A//www.gaspowered.com/privacy.php) for the most accurate reproduction.*
 
-# Gas Powered Games -- Privacy Policy
+# Gas Powered Games: Privacy Policy
 
-GAS POWERED GAMES PRIVACY STATEMENT
+| 
 
-Last updated: March 17, 2005
+|  | | 
+
+| |   
+
+
+Last updated: May 30th, 2007
 
 **OUR PRIVACY COMMITMENT**
 
@@ -215,7 +220,7 @@ Redmond, WA 98073-0428
 
 Please be assured that any personal information that you provide in communications to the above email and postal mail addresses will not be used to send you promotional materials, unless you request it.
 
-Gas Powered Games is a licensee of the ESRB's Privacy Online Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at <http://www.esrb.org/privacy_wc_hotline.asp>
+Gas Powered Games is a licensee of the ESRB's Privacy Online Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at <http://www.esrb.org/privacy/contact.jsp>
 
 ESRB  
 Attn.: Privacy Online Program  
@@ -223,7 +228,7 @@ Attn.: Privacy Online Program
 New York, NY 10017  
 212-759-0700
 
-privacyinfo@esrb.org
+privacy@esrb.org
 
 top  
   
@@ -243,4 +248,11 @@ We may amend this Privacy Policy at any time. If we make any material changes in
 
 Please note that, at all times, you are responsible for updating your personal information to provide us your current email address. If the last email address that you have provided us is not valid, or for any other reason is not capable of delivering to you the notice described above, our dispatch of the email containing such notice will nonetheless constitute effective notice of the changes described in the notice.
 
-top
+top  
+  
+ 
+
+  
+  
+  
+| 
