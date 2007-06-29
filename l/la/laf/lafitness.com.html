@@ -1,17 +1,18 @@
-<!--The following is the downloaded HTML source of the lafitness.com privacy policy that was archived on 2006-11-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061115202349id_/http%3A//www.lafitness.com/Pages/privacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lafitness.com privacy policy that was archived on 2007-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070629223004id_/http%3A//www.lafitness.com/Pages/privacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
-		<title>LA Fitness</title>
-		<link href="Styles/style.css" type="text/css" rel="stylesheet">
-			<link href="Styles/navigation.css" type="text/css" rel="stylesheet">
-	</head>
-	<body class="bodyWithBar">
-		<form name="Form1" method="post" action="privacyPolicy.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTQzODc1NTM3OA9kFgICAQ9kFgICAQ9kFhoCAQ8PFgIeB1Zpc2libGVoZGQCAw8PFgIfAGhkZAIFDxYCHwBoZAIKDxYCHwBoZAIMDxYCHwBoZAITDxYCHgVjbGFzcwUDdGFiZAIVDxYCHwEFA3RhYmQCFw8WAh8BBQN0YWJkAhkPFgIfAQUDdGFiZAIbDxYCHwEFA3RhYmQCHQ8WAh8BBQt0YWJTZWxlY3RlZGQCHw8WAh8BBQN0YWJkAiEPFgIfAGcWDgIBDxYCHwBoZAIDDxYCHwBoZAIFDxYCHwBoFgQCAw8WAh8AaGQCBw8WAh8AaGQCBw8WAh8AaGQCCQ8WAh8AaGQCCw8WAh8AZ2QCDQ8WAh8AaGRkcFhf2bxh30JZzMzee998Nd0k7FM=">
+    <title>LA Fitness</title>
+    <link href="Styles/style.css" type="text/css" rel="stylesheet">
+    <link href="Styles/navigation.css" type="text/css" rel="stylesheet">
+   
+</head>
+<body class="bodyWithBar">
+    <form name="Form1" method="post" action="privacyPolicy.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE2NDQ3MTk1NzQPZBYCAgEPZBYEAgEPZBYaAgEPDxYCHgdWaXNpYmxlaGRkAgMPDxYCHwBoZGQCBQ8WAh8AaGQCCg8WAh8AaGQCDA8WAh8AaGQCEw8WAh4FY2xhc3MFA3RhYmQCFQ8WAh8BBQN0YWJkAhcPFgIfAQUDdGFiZAIZDxYCHwEFA3RhYmQCGw8WAh8BBQN0YWJkAh0PFgIfAQULdGFiU2VsZWN0ZWRkAh8PFgIfAQUDdGFiZAIhDxYCHwBnFg4CAQ8WAh8AaGQCAw8WAh8AaGQCBQ8WAh8AaBYEAgMPFgIfAGhkAgcPFgIfAGhkAgcPFgIfAGhkAgkPFgIfAGhkAgsPFgIfAGdkAg0PFgIfAGhkAgMPDxYCHwBoZGRk5J0DbaEMsWEOCwVnFE7Gs7sUA14=">
 
-		    <div id="divMain" class="divMainClass">
-			    
+        <div id="divMain" class="divMainClass">
+            
 <script language="javascript" type="text/javascript">
 
     function clearText()
@@ -22,22 +23,53 @@
     }
     
     function validateZipCode()
-    {
-        var txtZipCode = document.getElementById("Menu_txtZipCode");
+    {   
+            
+			
+        var objValue = document.getElementById("Menu_txtZipCode");
         var result = true;
-
-        if(txtZipCode.value == "" || txtZipCode.value == "-enter zip-" )
-        {
-            alert("Please enter your ZIP code.");
-            txtZipCode.focus();
-            result = false;
-        }
-        else if (txtZipCode.value.length != 5 || isNaN(txtZipCode.value))
-        {
-            alert("Please provide a valid 5 digit ZIP code.");
-            txtZipCode.focus();
-            result = false;
-        }        
+        
+//        if(txtZipCode.value == "" || txtZipCode.value == "-enter zip-" )
+//        {
+//            alert("Please enter your ZIP code.");
+//            txtZipCode.focus();
+//            result = false;
+//        }
+//        else if((txtZipCode.value.length == 5 && isNaN(txtZipCode.value)) || (txtZipCode.value.length < 5 || txtZipCode.value.length >10))
+//        {
+//            alert("Please provide a valid 5-10 character ZIP code.");
+//            txtZipCode.focus();
+//            result = false;
+//        }        
+        
+        var numWithNoDash = objValue.value.replace(/-/, "")
+		    
+		    if(objValue.value.length < 5 || objValue.value.length >10 ) //CANADA
+			{
+			    strError =  "Please provide a valid 5-10 character zipcode.";
+			    alert(strError);
+			    result = false;
+			}
+		    //USA - xxxxx-xxx
+		    if(objValue.value.length >= 5 && !isNaN(numWithNoDash))
+			{ 
+			    if( !objValue.value.match(/^(\d{5}-\d{4}|\d{5}$)/i))
+			    {
+				    strError =  "Please provide a valid 5-10 character zipcode.";
+				    alert(strError );
+				    result = false;
+				}
+			}
+			//CAN - LNL NLN
+			else if(objValue.value.length >= 5 && isNaN(numWithNoDash) )	
+			{	
+			    if( !objValue.value.match( /^(\D{1}\d{1}\D{1}[\s{0}|\-]\d{1}\D{1}\d{1}$)|(\D{1}\d{1}\D{1}\d{1}\D{1}\d{1}$)/i)  )
+			    {
+			        strError =  "Please provide a valid 5-10 character zipcode.";
+				    alert(strError );
+				    result = false;
+				}
+			}
         
         return result;
     }
@@ -136,42 +168,83 @@
 	</div>
 </div>
 
-    			
-			    <div id="divLeftBar" class="leftContent">
-			        <embed src="../FlashFiles/sideBar_v.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="78" height="591">
-			    </div>
-			    
-			    <div id="divCenterContent" class="centerContent">
-			    	<h1>Privacy Policy</h1>
-            <p style="text-align:justify">
-                LAF is committed to providing users of its Site with an understanding of how LAF gathers and uses information, as well as the precautions taken by LAF to protect information concerning its Users. This Privacy Policy is incorporated into and is a part of the Terms and Conditions of Use; it describes LAF's policies and procedures for the collection and use of personal information provided by the User as well as non-personally identifiable information. 
-            </p>
-            <p style="text-align:justify; font-weight:bold">
-                Personally identifiable information.
-            </p>
-            <p style="text-align:justify">
-                LAF collects personally identifiable information directly from the User only when the User voluntarily enters information, or when the User requests or agrees that LAF send the User information or materials. The types of personally and mobile identifiable information LAF collects include e-mail address, full name, full address, work phone numbers, age, gender and viewing preferences. LAF currently uses the information for the purposes of providing the User with information requested by the User, and service information, and to allow the User to voluntarily participate in promotions, contests or sweepstakes. LAF may also use personally identifiable information to process user requests and/or to send the User communications from LAF such as news, information and promotional offers. If the User requests information for certain offers, promotions, contests or sweepstakes, LAF may forward the User's personal information to a third party for the purposes of supporting LAF in these services. In the interest of enhancing our service, LAF has business relationships with third parties. Certain of these relationships include the sharing of your personal information with such third parties. 
-            </p>
-            <p style="text-align:justify">
-                LAF may disclose your personal and account information to respond to court subpoenas, court orders, or other legal processes, as required by law, or to establish or exercise LAF legal rights or defend against legal claims. Your personal and account information may also be disclosed in connection with a sale of some or all of the LAF business or a merger with another entity. As an added protection to the User's privacy concerning personally identifiable information collected by LAF, the User may request that his or her information be changed, corrected or deleted from our databases by writing us at: Consumer Web Site Officer, L.A. Fitness International, LLC, 8105 Irvine Center Drive, Suite 200, Irvine, CA 92618, or by accessing the "contact us" link on our homepage. 
-            </p>
-            <p style="text-align:justify; font-weight:bold">
-                Use of Cookies and non-personally identifiable information. 
-            </p>
-            <p style="text-align:justify">
-                By using the Site, the User makes available to LAF certain non-personally identifiable information (such as the domain name and type of the User's internet server and browser, which pages of the Site the User accesses, and the length of access). This statement explains how LAF uses such information, and how the User can restrict the use and collection of non-personally identifiable information from "cookies." 
-            </p>
-            <p style="text-align:justify">
-                A "cookie" is a bit of text information stored on the hard drive of your computer by an internet web server when you visit the Site. The User can choose not to accept cookies, but in so doing, the User may not be able to access the LAF Site. Refer to the Help information in your browser or internet provider site or software for instructions on how to disable cookies, or to be notified when a cookie is set. LAF may use "cookies" to track usage of the Site, User interactions with the Site, and to customize the Site. 
-            </p>
-            <p style="text-align:justify">
-                LAF may use the non-personally identifiable information that is collected by LAF to improve the design and content of LAF's site and to enable LAF to personalize your Internet experience. Also, LAF may use this information in the aggregate to analyze site usage, as well as to offer user products, programs, or services. 
-            </p>
-			    </div>
-    			<div id="rightContent" class="rightContent">
-			     </div>
-			 </div>
-			 
+            <div id="divLeftBar" class="leftContent">
+                <embed src="../FlashFiles/sideBar_v.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="78" height="591">
+            </div>
+            
+            <div id="divCenterContent" class="centerContent">
+                <h1>
+                    Privacy Policy</h1>
+                <p style="text-align: justify">
+                    LAF is committed to providing users of its Site with an understanding of how LAF
+                    gathers and uses information, as well as the precautions taken by LAF to protect
+                    information concerning its Users. This Privacy Policy is incorporated into and is
+                    a part of the Terms and Conditions of Use; it describes LAF's policies and procedures
+                    for the collection and use of personal information provided by the User as well
+                    as non-personally identifiable information.
+                </p>
+                <p style="text-align: justify; font-weight: bold">
+                    Personally identifiable information.
+                </p>
+                <p style="text-align: justify">
+                    LAF collects personally identifiable information directly from the User only when
+                    the User voluntarily enters information, or when the User requests or agrees that
+                    LAF send the User information or materials. The types of personally and mobile identifiable
+                    information LAF collects include e-mail address, full name, full address, work phone
+                    numbers, age, gender and viewing preferences. LAF currently uses the information
+                    for the purposes of providing the User with information requested by the User, and
+                    service information, and to allow the User to voluntarily participate in promotions,
+                    contests or sweepstakes. LAF may also use personally identifiable information to
+                    process user requests and/or to send the User communications from LAF such as news,
+                    information and promotional offers. If the User requests information for certain
+                    offers, promotions, contests or sweepstakes, LAF may forward the User's personal
+                    information to a third party for the purposes of supporting LAF in these services.
+                    In the interest of enhancing our service, LAF has business relationships with third
+                    parties. Certain of these relationships include the sharing of your personal information
+                    with such third parties.
+                </p>
+                <p style="text-align: justify">
+                    LAF may disclose your personal and account information to respond to court subpoenas,
+                    court orders, or other legal processes, as required by law, or to establish or exercise
+                    LAF legal rights or defend against legal claims. Your personal and account information
+                    may also be disclosed in connection with a sale of some or all of the LAF business
+                    or a merger with another entity. As an added protection to the User's privacy concerning
+                    personally identifiable information collected by LAF, the User may request that
+                    his or her information be changed, corrected or deleted from our databases by writing
+                    us at: Chief Privacy Officer, P.O. Box 54107 Irvine, CA 92619-4107, or by accessing
+                    the "contact us" link on our homepage.
+                </p>
+                <p style="text-align: justify; font-weight: bold">
+                    Use of Cookies and non-personally identifiable information.
+                </p>
+                <p style="text-align: justify">
+                    By using the Site, the User makes available to LAF certain non-personally identifiable
+                    information (such as the domain name and type of the User's internet server and
+                    browser, which pages of the Site the User accesses, and the length of access). This
+                    statement explains how LAF uses such information, and how the User can restrict
+                    the use and collection of non-personally identifiable information from "cookies."
+                </p>
+                <p style="text-align: justify">
+                    A "cookie" is a bit of text information stored on the hard drive of your computer
+                    by an internet web server when you visit the Site. The User can choose not to accept
+                    cookies, but in so doing, the User may not be able to access the LAF Site. Refer
+                    to the Help information in your browser or internet provider site or software for
+                    instructions on how to disable cookies, or to be notified when a cookie is set.
+                    LAF may use "cookies" to track usage of the Site, User interactions with the Site,
+                    and to customize the Site.
+                </p>
+                <p style="text-align: justify">
+                    LAF may use the non-personally identifiable information that is collected by LAF
+                    to improve the design and content of LAF's site and to enable LAF to personalize
+                    your Internet experience. Also, LAF may use this information in the aggregate to
+                    analyze site usage, as well as to offer user products, programs, or services.
+                </p>
+            </div>
+            <div id="rightContent" class="rightContent">
+                
+            </div>
+        </div>
+        
 <div class="footer">
 	<p class="pFooter">
 	    <a href="privacyPolicy.aspx" class="footer_links">Privacy Policy</a> | 
@@ -180,12 +253,15 @@
 	    <a href="ContactUs.aspx" class="footer_links">Contact Us</a>
 	</p>
 	<p class="copyright_text">
-	    © 2006 L.A. Fitness International, LLC. All rights reserved.
+	    © 2007 L.A. Fitness International, LLC. All rights reserved.
 	</p>
 </div>
 
 
-        </form>
-    
+    </form>
+
+  
+
+
 
 </body></html>
