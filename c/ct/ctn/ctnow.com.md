@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the ctnow.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204152328id_/http%3A//www.ctnow.com/about/hc-privacy.story) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctnow.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629235118id_/http%3A//www.ctnow.com/go/privacy) for the most accurate reproduction.*
 
-# ctnow.com - ABOUT US
+# Connecticut Entertainment - Dining, Music, Movie News from ctnow.com - ABOUT
 
-|    
-ctnow.com Privacy Policy  
-Last Updated: July 2003   
+**Last Updated: May 2006**
+
+The Hartford Courant 
+
+  
 CTNOW.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. Please note this policy applies only to information collected by CTNOW.com online and does not impact information collected or used by CTNOW.com or its affiliates through other means. 
 
 **How we gather information from users**. 
@@ -17,7 +19,7 @@ Like most Web sites, CTNOW.com also collects information automatically and throu
 
 We will use your information only as permitted by law. Aggregated Information (information that does not personally identify you) may be used in many ways. As one example, we may combine information about your usage patterns with similar information obtained from other users to learn which pages are visited most or what features are most attractive. Aggregated Information may occasionally be shared with our advertisers and business partners, but cannot be used to contact you individually. 
 
-We also collect information to enhance your visit and deliver more individualized content and advertising. For example, we may use Personally Identifiable Information collected on CTNOW.com to communicate with you regarding our [Terms of Service](http://www.ctnow.com/about/hc-terms.story) and privacy policy, products and services offered by CTNOW.com and other Tribune Company affiliates and partners, administration of sweepstakes and contests, processing e-commerce transactions and other topics we think you might find of interest. We reserve the right to share this information with other Tribune Company business units and affiliates, including for example our affiliated newspapers and entities in which Tribune Company has an ownership interest (collectively, "Affiliates"). This policy does not apply to any Affiliate's use of such information. 
+We also collect information to enhance your visit and deliver more individualized content and advertising. For example, we may use Personally Identifiable Information collected on CTNOW.com to communicate with you regarding our [Terms of Service](https://web.archive.org/about/hce-terms,0,2510617.htmlstory) and privacy policy, products and services offered by CTNOW.com and other Tribune Company affiliates and partners, administration of sweepstakes and contests, processing e-commerce transactions and other topics we think you might find of interest. We reserve the right to share this information with other Tribune Company business units and affiliates, including for example our affiliated newspapers and entities in which Tribune Company has an ownership interest (collectively, "Affiliates"). This policy does not apply to any Affiliate's use of such information. 
 
 Personally Identifiable Information collected by CTNOW.com may also be used for other purposes including but not limited to site administration and troubleshooting. Certain third parties who provide technical support for the operation of our site (our Web hosting service and our newsletter provider, for example) may access such information. 
 
@@ -33,6 +35,8 @@ CTNOW.com expects its partners, advertisers and third-party affiliates to respec
 
 While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Through features available on our site, third parties may use cookies or other technology to gather information. CTNOW.com does not control the use of this technology or the resulting information and is not responsible for any actions or policies of such third parties. 
 
+A cookie gets entered by your Web browser into the "Cookies" folder on your hard drive after you close your browser, and may be used by your browser on subsequent visits to the Site. We use persistent and session cookies to analyze and enhance your experience on the Site, and use third party ad technology to serve ads. The data that is collected is the property of CTNOW.com, not the third party. We also allow third parties called ad networks or ad servers to serve ads to you on CTNOW.com. Cookies enable them to compile information about where you, or others who have used your computer, saw their advertisements and determine which ads are clicked on. This information makes it possible for the ad technology, ad servers and ad networks to deliver targeted advertisements to you on CTNOW.com. CTNOW.com does not have access to the cookies that may be placed on your computer by third-party ad technology, ad servers or ad networks. CTNOW.com maintains relationships with a number of third-party networks, including Doubleclick, Unicast, and Pointroll. Those parties that use cookies may offer you a way to opt out of ad targeting. You may find more information at the Web site of the individual ad network or the [ Network Advertising Initiative.](http://www.networkadvertising.org/consumer/opt_out.asp)
+
 Please be careful and responsible whenever you are online. Should you choose to voluntarily disclose Personally Identifiable Information on our site, such as in message boards, chat areas or in advertising or notices you post, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of CTNOW.com and this policy. 
 
 **Children.**
@@ -47,7 +51,7 @@ We can be reached by contacting:
 c/o The Hartford Courant   
 285 Broad Street   
 Hartford, CT 06115   
-[Online feedback form](http://www.ctnow.com/about/hc-comments-cf.customform)**
+[Online feedback form](https://web.archive.org/about/hc-comments-cf,0,7930813.customform)**
 
 **Changes to this policy.**
 
@@ -59,4 +63,8 @@ This policy and the use of this Site are governed by Illinois law. Any claim rel
 
 In the event case of any conflict between the terms of this policy and the terms of any electronic or machine readable privacy policy (for example, a P3P electronic privacy policy), the terms of this written policy shall control. 
 
-| 
+* * *
+
+[](http://www.courant.com/offer) to the Hartford Courant today and receive up to 50% off! 
+
+* * *
