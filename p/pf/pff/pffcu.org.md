@@ -1,17 +1,16 @@
-> *The following text is extracted and transformed from the pffcu.org privacy policy that was archived on 2006-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060923114340id_/http%3A//www.pffcu.org/disclosures/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pffcu.org privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629192125id_/http%3A//www.pffcu.org/disclosures/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Privacy Policy**   
-Police and Fire Federal Credit Union is committed to making available financial products and services that will enable you to meet your financial needs and reach your financial goals. We strive to earn your TRUST by providing quality financial products, at attractive prices, delivered with superior service, value and convenience!  Part of this trust is protecting your personal information and using it in a manner consistent with your expectations. This is a high priority for everyone associated with PFFCU.
+Police and Fire Federal Credit Union is committed to making available financial products and services that will enable you to meet your financial needs and reach your financial goals. We strive to earn your TRUST by providing quality financial products, at attractive prices, delivered with superior service, value and convenience!  Part of this trust is protecting your personal information and using it in a manner consistent with your expectations. This is a high priority for everyone associated with PFFCU. 
 
 As a member of PFFCU, you also have a responsibility to safeguard your financial information. To ensure that you can rely upon the quality of products and services we make available, PFFCU stands behind the following privacy policy
 
   * **PFFCU will only collect the personal information that is necessary to conduct its business.** This means just what is necessary to provide competitive financial products and services—and no more.  We may collect nonpublic information about you from the following sources:
     * Information we receive from you on applications and other forms 
-    * Information about your transactions with us, our affiliates, or others; and 
+    * Information about your transactions with us, our affiliates, or others
     * Information we receive from a consumer reporting agency. 
-    * Information obtained when verifying the information you provide on an application or other forms (this may be obtained from your current or past employers, or from other institutions where you conduct financial transactions); and
+    * Information obtained when verifying the information you provide on an application or other forms (this may be obtained from your current or past employers, or from other institutions where you conduct financial transactions)
     * Information we may obtain from consumer purchasing and census data providers to develop competitive marketing programs for our members. 
 
 
