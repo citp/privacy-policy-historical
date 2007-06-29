@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogger.com privacy policy that was archived on 2006-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061227225255id_/http%3A//www.blogger.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogger.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629233236id_/http%3A//www.blogger.com/privacy) for the most accurate reproduction.*
 
 # Blogger: Blogger Privacy Notice
 
@@ -10,6 +10,7 @@ The [Google Privacy Policy](http://www.google.com/privacy.html) describes how we
 
   * Google asks for some personal information when you sign up to use Blogger, including your email address and a password, which is used to protect your account from unauthorized access.
   * In addition to publishing your weblog posts, you may also provide additional profile information, such as a photo, birthday, location, etc. and can edit your profile at any time on our [profile administration page.](https://web.archive.org/edit-profile.g)
+  * If you choose to use our [ transliteration feature](http://help.blogger.com/bin/answer.py?answer=58226), we will save your transliteration corrections, so that we can improve the service. 
   * Google servers automatically record information about your use of the service, such as when you use Blogger and the frequency and size of data transfers. Information displayed or clicked in the Blogger interface (including UI elements, settings, and other information) is also recorded.
 
 
