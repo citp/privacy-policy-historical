@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the best-price.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207010718id_/http%3A//best-price.com/procFoot%2CshowDatenschutz%2C%2C0.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-price.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629234142id_/http%3A//www.best-price.com/procFoot%2CshowDatenschutz%2C%2C1.html) for the most accurate reproduction.*
 
 # Price Comparison and Test on www.Best-Price.com
 
@@ -65,16 +65,13 @@ Notification of Changes
 This Privacy Policy may be revised over time as our business grows and evolves. We will post any new privacy policy, along with the date of its last revision, prominently so that you will always know what information we gather, how we use that information, and whether we will disclose it to anyone. Please check the Sites regularly for information about revisions to our privacy policy. If you would like to receive email notification of any such changes, please contact Customer Support requesting the same.   
 Anti-Spam Policy   
 Best-price.com is 100% opposed to unsolicited commercial email or spam. We do not send emails to anyone without permission and we do not sell or provide email addresses to any unauthorized third party. If you receive any unsolicited emails from spammers, please be assured that Best-price.com did not provide your email addresses to such parties. This does not mean that we can prevent spam from happening on the Internet. If you believe that you have received an unsolicited email from us, please contact our Privacy Department and we will investigate.   
+Your Trademark Item   
+Should you notice the usage of a trademark term within our search engine campaigns please contact us briefly via email: [campaigns@best-price.com](mailto:campaigns@best-price.com)   
+We will immediately cease inadvertent bidding.   
 Contact Us   
 If you have any questions about this Privacy Policy, the practices of the Sites or Best-price.com, you may contact:  
 Best-Price.com Ltd.  
 Barfussgaesschen 11  
 04109 Leipzig  
 Germany  
-or our Privacy Department  
-  
-#### Welcome at Best-Price.com
-
-Our free Internet Service helps You to always find the right Product and the Best Price!
-
-Make Best-Price.com your homepage!
+or our Privacy Department
