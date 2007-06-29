@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makeavoice.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225011518id_/http%3A//makeavoice.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makeavoice.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629133424id_/http%3A//makeavoice.com/privacy.php) for the most accurate reproduction.*
 
 # Make A Voice
 
@@ -41,18 +41,5 @@ In the event the issue relates to private information, BBServers Inc. will not u
 **Opt out / Correct / Update:  
 **This site gives Customers the following options for removing their information from our database to cancel future communications, to no longer receive our service, or to change their information on our database: 
 
-1\. send email to [sales@bbgameservers.com](mailto:sales@bbgameservers.com)   
-2\. call the following home telephone number (long distance charges apply): 1-613-521-6555.  
-
-
-**  
-Contacting BBServers:  
-**If you have questions about this privacy statement, the practices of this site or your dealings with this web site, you may contact: 
-
-**BBServers**  
-1837 Rosebella Ave.  
-Gloucester ON  
-K1T 1G4  
-Phone: (613) 521-6555  
-Email: [webmaster@bbgameservers.com](mailto:webmaster@bbgameservers.com)  
+1\. send email to [webmaster@makeavoice.com](mailto:webmaster@makeavoice.com)   
 
