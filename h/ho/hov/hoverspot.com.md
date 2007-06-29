@@ -1,25 +1,25 @@
-> *The following text is extracted and transformed from the hoverspot.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210200054id_/http%3A//www.hoverspot.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoverspot.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629113946id_/http%3A//www.hoverspot.com/privacy.php) for the most accurate reproduction.*
 
 # HoverSpot.com Privacy Policy
 
 ---  
   
-|  |  [](https://web.archive.org/web/20061210200054id_/http%3A//www.hoverspot.com/index.php) |  |   
+|  |  [](https://web.archive.org/web/20070629113946id_/http%3A//www.hoverspot.com/index.php) |  |   
 ---|---|---|---  
 ---  
 | 
 
-**[My Hover Home](https://web.archive.org/web/20061210200054id_/http%3A//www.hoverspot.com/home.php)**   
+**[My Hover Home](https://web.archive.org/web/20070629113946id_/http%3A//www.hoverspot.com/home.php)**   
 
 |  | 
 
-[Search Members](https://web.archive.org/web/20061210200054id_/http%3A//www.hoverspot.com/search.php)
+[Search Members](https://web.archive.org/web/20070629113946id_/http%3A//www.hoverspot.com/search.php)
 
 | 
 
 | 
 
-[Invite](https://web.archive.org/web/20061210200054id_/http%3A//www.hoverspot.com/invite-manual.php)
+[Invite](https://web.archive.org/web/20070629113946id_/http%3A//www.hoverspot.com/invite-manual.php)
 
 | 
 
@@ -31,37 +31,37 @@
 
 | 
 
-[Rate](https://web.archive.org/web/20061210200054id_/http%3A//www.hoverspot.com/rateme.php)
+[Rate](https://web.archive.org/web/20070629113946id_/http%3A//www.hoverspot.com/rateme.php)
 
 | 
 
 | 
 
-[Blog](https://web.archive.org/web/20061210200054id_/http%3A//www.hoverspot.com/blog.php?userId=)
+[Blog](https://web.archive.org/web/20070629113946id_/http%3A//www.hoverspot.com/blog.php?userId=)
 
 | 
 
 | 
 
-[Games](https://web.archive.org/web/20061210200054id_/http%3A//www.hoverspot.com/games.php)
+[Games](https://web.archive.org/web/20070629113946id_/http%3A//www.hoverspot.com/games.php)
 
 | 
 
 | 
 
-[Points](https://web.archive.org/web/20061210200054id_/http%3A//www.hoverspot.com/points.php)
+[Points](https://web.archive.org/web/20070629113946id_/http%3A//www.hoverspot.com/points.php)
 
 | 
 
 | 
 
-[Music](https://web.archive.org/web/20061210200054id_/http%3A//www.hoverspot.com/music.php)
+[Music](https://web.archive.org/web/20070629113946id_/http%3A//www.hoverspot.com/music.php)
 
 | 
 
 | 
 
-[Sign Up](https://web.archive.org/web/20061210200054id_/http%3A//www.hoverspot.com/signup.php)
+[Sign Up](https://web.archive.org/web/20070629113946id_/http%3A//www.hoverspot.com/signup.php)
 
 |  |   
   
@@ -72,7 +72,7 @@
 
 **Effective December 21, 2005:**
 
-**About HoverSpot.** HoverSpot (we or our) is an online network (the "Site") that allows members to express themselves by publishing (hereinafter "posting" ) a personal profile web page, photos, blogs, and by posting comments on the web pages, photos and blogs of other members. The HoverSpot ("HoverSpot") service (the "Service") is operated by Centrya, Inc. The Privacy of our members is extremely important to us. If you have any questions about this policy please contact us at [http://www.hoverspot.com/contact.php.](https://web.archive.org/web/20061210200054id_/http%3A//www.hoverspot.com/contact.php) HoverSpot welcomes feedback on this document and policy.
+**About HoverSpot.** HoverSpot (we or our) is an online network (the "Site") that allows members to express themselves by publishing (hereinafter "posting" ) a personal profile web page, photos, blogs, and by posting comments on the web pages, photos and blogs of other members. The HoverSpot ("HoverSpot") service (the "Service") is operated by Centrya, Inc. The Privacy of our members is extremely important to us. If you have any questions about this policy please contact us at [http://www.hoverspot.com/contact.php.](https://web.archive.org/web/20070629113946id_/http%3A//www.hoverspot.com/contact.php) HoverSpot welcomes feedback on this document and policy.
 
 The Service allows our members to link their personal profiles to those of members that they have accepted as buddies. Through the network of buddies our members can view each others' profiles and communicate with buddies on the service. The service allows members to share photos, post blogs and comments, and describe their interests. Based on elections made on their Hover Home Page(the Home Page), Members determine which personal information is displayed on their web page. 
 
@@ -86,7 +86,7 @@ By using the Service, you agree to the collection and use of your personal infor
 
 To comply with the Children's Online Privacy Protection Act, HoverSpot is only available to users who are at least 14 years old. If you are under 14, please do not use the Service. 
 
-**Personal Information Collected by HoverSpot.** HoverSpot uses your personal information primarily to customize your experience using the Web site. The more information you volunteer, the better we can personalize HoverSpot�s products and services to match your needs and interests. To continue to provide our services, HoverSpot may display advertisements or other promotional information based on the information you have provided. HoverSpot may share general demographic information with advertisers and business partners (such as aggregated statistics about members' interests and occupations). But HoverSpot will never give advertisers access to your individual personal account information. Except as otherwise described in this privacy statement, HoverSpot will not disclose personal information to any third party unless we believe that disclosure is necessary: 
+**Personal Information Collected by HoverSpot.** HoverSpot uses your personal information primarily to customize your experience using the Web site. The more information you volunteer, the better we can personalize HoverSpot's products and services to match your needs and interests. To continue to provide our services, HoverSpot may display advertisements or other promotional information based on the information you have provided. HoverSpot may share general demographic information with advertisers and business partners (such as aggregated statistics about members' interests and occupations). But HoverSpot will never give advertisers access to your individual personal account information. Except as otherwise described in this privacy statement, HoverSpot will not disclose personal information to any third party unless we believe that disclosure is necessary: 
 
   1. to conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by HoverSpot.com, whether or not a response is required by applicable law; 
   2. to enforce the HoverSpot.com Terms of Use Agreement or to protect our rights; or 
@@ -136,13 +136,13 @@ You may prevent HoverSpot email invitations and other messages from being sent t
 
 **Third Party Cookies.** In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
 
-**Security.** HoverSpot member accounts are secured by member-created passwords HoverSpot takes precautions to insure that member account information is kept private. We use reasonable measures to protect member information that is stored within our database, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time For any additional information about the security measures we use on HoverSpot, please contact us at [http://www.hoverspot.com/contact.php.](https://web.archive.org/web/20061210200054id_/http%3A//www.hoverspot.com/contact.php)
+**Security.** HoverSpot member accounts are secured by member-created passwords HoverSpot takes precautions to insure that member account information is kept private. We use reasonable measures to protect member information that is stored within our database, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time For any additional information about the security measures we use on HoverSpot, please contact us at [http://www.hoverspot.com/contact.php.](https://web.archive.org/web/20070629113946id_/http%3A//www.hoverspot.com/contact.php)
 
 **Children's Privacy.** HoverSpot is intended for use by people who are at least 14 years old, and we will not knowingly collect personal information from children under 14. 
 
 We have designed our registration process to make it clear that you must be at least 14 years old to participate in the HoverSpot community (including activities such as creating a HoverSpot site, leaving comments on other HoverSpot sites, and emailing HoverSpot members through the HoverSpot.com website). 
 
-**Note to Parents.** If you are the Parent or Legal Guardian of a child under 14 who has become a HoverSpot member and you would like his or her account deleted, please [click here to send us an email.](https://web.archive.org/web/20061210200054id_/http%3A//www.hoverspot.com/contact.php?ct=3)
+**Note to Parents.** If you are the Parent or Legal Guardian of a child under 14 who has become a HoverSpot member and you would like his or her account deleted, please [click here to send us an email.](https://web.archive.org/web/20070629113946id_/http%3A//www.hoverspot.com/contact.php?ct=3)
 
 As soon as we are able to verify your identity (and status as parent or legal guardian) we will immediately delete your child's account. You may also request to see a copy of any information that has been submitted by your child, prior to the account being deleted from our systems. 
 
@@ -156,6 +156,6 @@ For more information about protecting your child's privacy online, please visit 
 
 **HoverSpot.com employees will never ask you for your password.**
 
-**Contacting Us.** If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site,[ please click here to contact us](https://web.archive.org/web/20061210200054id_/http%3A//www.hoverspot.com/contact.php).   
+**Contacting Us.** If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site,[ please click here to contact us](https://web.archive.org/web/20070629113946id_/http%3A//www.hoverspot.com/contact.php).   
   
 ---
