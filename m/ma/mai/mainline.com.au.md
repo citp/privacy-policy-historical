@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mainline.com.au privacy policy that was archived on 2006-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060824063154id_/http%3A//mainline.com.au/index.php%3Fmod%3Dpages%26idp%3D2%26PHPSESSID%3Djth6i21vnqrfumau8k3p896pemgos4d6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mainline.com.au privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629081947id_/http%3A//www.mainline.com.au/index.php%3Fmod%3Dpages%26idp%3D2) for the most accurate reproduction.*
 
 # Pages
 
