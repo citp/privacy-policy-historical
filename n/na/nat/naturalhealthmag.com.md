@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the naturalhealthmag.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209073006id_/http%3A//www.naturalhealthmag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalhealthmag.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629083649id_/http%3A//www.naturalhealthmag.com/privacy_policy) for the most accurate reproduction.*
 
 # Natural Health
-
-Privacy Policy
 
 Thank you for visiting NaturalHealth1.com, a Weider Interactive Networks, Inc. ("WIN") site. WIN is committed to providing our visitors with content and services characterized by outstanding quality and customer service. Our Online Privacy Policy continues our commitment to serve you and to protect your privacy online.
 
