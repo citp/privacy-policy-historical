@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the mylot.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225032654id_/http%3A//www.mylot.com/o/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylot.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629124803id_/http%3A//www.mylot.com/o/privacy.aspx) for the most accurate reproduction.*
 
 # myLot - Privacy Policy
 
   
 **myLot.com takes your privacy seriously. Please read the following to learn more about our privacy policy.**
 
- **About myLot Privacy**
+**About myLot Privacy**
 
 This policy explains how myLot treats personal information that myLot collects and receives when an individual becomes a myLot member. Personal information is information that is personally identifiable like your name, address, birth date, email address, or phone number, and that is not otherwise publicly available. 
 
@@ -25,7 +25,7 @@ User Profile information such as user id is displayed to myLot members in order 
 
 From time to time, myLot or a partner of myLot, may sponsor a promotion, sweepstakes, or contest on myLot.com. Users may be asked to provide personal information including name, email address, home address, and/or answer certain questions in order to participate. We may transfer personal information to certain ad partners that you have explicitly requested to receive information from. It will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply. 
 
-As otherwise described in this privacy statement, myLot will not disclose any personal information to a third party, except if any situation arises and myLot believes disclosure is necessary. The following are exceptions:
+As otherwise described in this privacy statement, myLot will not disclose any personal information to a third party, except if any situation arises and myLot believes disclosure is necessary. The following are exceptions: 
 
   * myLot will conform to any legal requirements, respond to a subpoena, search warrant or any other legal process received, whether or not a response is required by applicable law
   * myLot also reserves the right to exchange any personal information to any related companies. 
@@ -37,7 +37,7 @@ If you have any concern about your personal information, please feel free to con
 
 **Communication between Members and Non-members**
 
- **myLot Mail**  
+**myLot Mail**  
 Members  
 myLot Mail is used for the purpose of inviting friends to discuss topics of interest in a private and safe environment. When an individual signs up for a myLot account, that member automatically is signed up for myLot Mail. Your user id name will be your myLot Mail address. myLot Mail can only be used within the myLot network. When a member receives a myLot message from another member, the user will need to Allow or Disallow this person from sending future myLot Mail to them. This is how we help to prevent spam. You only get approved mail after the initial contact. Members can easily view and edit their Allow/ Disallow list at any time. 
 
@@ -83,7 +83,7 @@ Information security
   * Any information sent to myLot will be maintained in accordance with the myLot Privacy Policy
 
   
- **Changes in Our Privacy Policy**
+**Changes in Our Privacy Policy**
 
 myLot reserves the right to make changes to our privacy policy. If we make changes, we will post them on our site to make users aware of the changes that have been made. myLot members are bound by any minor changes to the policy when she or he uses the site after those changes have been posted. 
 
