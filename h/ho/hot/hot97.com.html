@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hot97.com privacy policy that was archived on 2006-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061212221019id_/http%3A//www.hot97.com/info/privacystatement.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hot97.com privacy policy that was archived on 2007-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070629215517id_/http%3A//hot97.com/info/privacystatement.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd"><html lang="en"><head>
 	<title>Hot97: Legal Info</title>
@@ -84,54 +84,131 @@ hbx.pec="";//ERROR CODES
 <div align="center">	
 <!-- !!  masthead --> <table width="773" border="0" cellpadding="0" cellspacing="0"> 
   <tbody><tr> 
-    <td height="150" background="../images/masthead/loading.gif"><script language="JavaScript">
-		<!--
-			images = new Array(4);
-			images[0] = "<a href='http://www.hot97.com'><img src='http://www.hot97.com/images/masthead/winter_mastheads_1.jpg' width='773' height='150' border='0' usemap='#masthead'></a>";
-			images[1] = "<a href='http://www.hot97.com'><img src='http://www.hot97.com/images/masthead/winter_mastheads_2.jpg' width='773' height='150' border='0' usemap='#masthead'></a>";
-			images[2] = "<a href='http://www.hot97.com'><img src='http://www.hot97.com/images/masthead/winter_mastheads_3.jpg' width='773' height='150' border='0'usemap='#masthead'></a>";
-			images[3] = "<a href='http://www.hot97.com'><img src='http://www.hot97.com/images/masthead/winter_mastheads_4.jpg' width='773' height='150' border='0' usemap='#masthead'></a>";
-			images[4] = "<a href='http://www.hot97.com'><img src='http://www.hot97.com/images/masthead/winter_mastheads_5.jpg' width='773' height='150' border='0' usemap='#masthead'></a>";
-			index = Math.floor(Math.random() * images.length);
-			document.write("\n" + images[index] + "\n");
-		// -->
-		</script>
-<a href="http://www.hot97.com"><img src="http://www.hot97.com/images/masthead/winter_mastheads_3.jpg" width="773" height="150" border="0" usemap="#masthead"></a>
-</td> 
+    <td height="150" background="../images/masthead/loading.gif"><a href="http://www.hot97.com/summerjam"><img src="../images/masthead/whhl.jpg" width="773" height="150" border="0" usemap="#masthead"></a>
+      <map name="masthead">
+        <area shape="rect" coords="644,109,756,143" href="../station/hd_technology.aspx">
+        <area shape="circle" coords="88,74,60" href="http://www.hot97.com">
+        <area shape="rect" coords="9,37,89,74" href="http://www.hot97.com">
+      </map></td> 
   </tr> 
 </tbody></table>
-   <map name="masthead">
-        <area shape="rect" coords="644,109,756,143" href="../station/hd_technology.aspx">
-        <area shape="circle" coords="99,75,70" href="http://www.hot97.com">
-        <area shape="rect" coords="9,32,89,74" href="http://www.hot97.com">
-      </map>
-<!-- XX  structure02 --><table width="773" border="0" cellpadding="0" cellspacing="0">
+   
+<!-- XX  structure02 --><table width="812" border="0" cellpadding="0" cellspacing="0" style="background-color:#ffffff; background-image:url(../images/bg/back.jpg); background-repeat:no-repeat;">
 	<tbody><tr valign="top">
-		<td background="/images/frame/bg/nav.gif">
+		<td>
 			<table border="0" width="145" cellspacing="0" cellpadding="0">
 				<tbody><tr>
-					<td width="145" valign="top" bgcolor="#ffffff"></td>
+					<td width="145" valign="top"></td>
 				</tr>
 			</tbody></table>
-<!-- !!  nav --><style>
-body {
-background-color:#ffffff!important;
+<!-- !!  nav --><style type="text/css">
+.menutitle{
+cursor:pointer;
 }
 
-
-.style99 {font-size: 11px}
+.submenu{
+margin-bottom: 0.5em;
+font-size:11px;
+margin-top:3px;
+margin-left:0px;
+padding-left:10px;
+background-color:#EFEFEF;
+border-top:1px solid #999999;
+border-bottom:1px solid #999999;
+}
 </style>
 
-<table border="0" width="145" cellspacing="0" style="background:#ffffff!Important;" cellpadding="0">
-	<tbody><tr>
-		<td valign="top">
-			<table border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr>
-					<td colspan="3">
-						<span id="_ctrl_0_lblDisplayTime"><!--as of 05:10 pm--></span><table border="0" cellpadding="0" cellspacing="0" width="100%">
-							<!-- mod -->
-							
-<tbody><tr><td colspan="3"><img src="/images/nav/onairnow.gif" width="145" height="33"></td></tr><tr><td><img src="/images/s.gif" width="8" height="1"></td><td>
+<script type="text/javascript">
+
+/***********************************************
+* Switch Menu script- by Martial B of http://getElementById.com/
+* Modified by Dynamic Drive for format & NS4/IE4 compatibility
+* Visit http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+var persistmenu="yes" //"yes" or "no". Make sure each SPAN content contains an incrementing ID starting at 1 (id="sub1", id="sub2", etc)
+var persisttype="sitewide" //enter "sitewide" for menu to persist across site, "local" for this page only
+
+if (document.getElementById){ //DynamicDrive.com change
+document.write('<style type="text/css">\n')
+document.write('.submenu{display: none;}\n')
+document.write('</style>\n')
+}
+
+function SwitchMenu(obj){
+	if(document.getElementById){
+	var el = document.getElementById(obj);
+	var ar = document.getElementById("masterdiv").getElementsByTagName("span"); //DynamicDrive.com change
+		if(el.style.display != "block"){ //DynamicDrive.com change
+			for (var i=0; i<ar.length; i++){
+				if (ar[i].className=="submenu") //DynamicDrive.com change
+				ar[i].style.display = "none";
+			}
+			el.style.display = "block";
+		}else{
+			el.style.display = "none";
+		}
+	}
+}
+
+function get_cookie(Name) { 
+var search = Name + "="
+var returnvalue = "";
+if (document.cookie.length > 0) {
+offset = document.cookie.indexOf(search)
+if (offset != -1) { 
+offset += search.length
+end = document.cookie.indexOf(";", offset);
+if (end == -1) end = document.cookie.length;
+returnvalue=unescape(document.cookie.substring(offset, end))
+}
+}
+return returnvalue;
+}
+
+function onloadfunction(){
+if (persistmenu=="yes"){
+var cookiename=(persisttype=="sitewide")? "switchmenu" : window.location.pathname
+var cookievalue=get_cookie(cookiename)
+if (cookievalue!="")
+document.getElementById(cookievalue).style.display="block"
+}
+}
+
+function savemenustate(){
+var inc=1, blockid=""
+while (document.getElementById("sub"+inc)){
+if (document.getElementById("sub"+inc).style.display=="block"){
+blockid="sub"+inc
+break
+}
+inc++
+}
+var cookiename=(persisttype=="sitewide")? "switchmenu" : window.location.pathname
+var cookievalue=(persisttype=="sitewide")? blockid+";path=/" : blockid
+document.cookie=cookiename+"="+cookievalue
+}
+
+if (window.addEventListener)
+window.addEventListener("load", onloadfunction, false)
+else if (window.attachEvent)
+window.attachEvent("onload", onloadfunction)
+else if (document.getElementById)
+window.onload=onloadfunction
+
+if (persistmenu=="yes" && document.getElementById)
+window.onunload=savemenustate
+
+</script><style type="text/css">
+.submenu{display: none;}
+</style>
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="150" style="margin-left:20px; margin-top:0px; background:#ffffff;">
+							<tbody><tr><td valign="top"><span id="_ctrl_0_lblDisplayTime"><!--as of 05:55 pm--></span>
+</td></tr><tr><td colspan="3"><img src="/images/nav/onairnow.gif" width="145" height="33"></td></tr><tr><td><img src="/images/s.gif" width="8" height="1"></td><td>
 						<table border="0" width="100%" cellspacing="0" cellpadding="0">
 							<tbody><tr valign="top"><!--s7.i243-->
 								<td align="center"><a href="/airstaff/djenuff.aspx"><img src="/pics/smalljockphotos/enuff_new05.jpg" height="75" width="75" border="0"></a></td>
@@ -146,117 +223,117 @@ Extended Rush Hour-Friday
 						</tbody></table>
 	</td><td><img src="/images/s.gif" width="7" height="1"></td></tr><tr><td colspan="3" height="2"><img src="/images/s.gif" width="1" height="12"></td></tr>
 
-						</tbody></table></td>
-				</tr>
-				<tr valign="top">
-					<td height="32" colspan="3"><img src="/images/nav/station.gif" width="145" height="27"></td>
-				</tr>
-				<tr>
-					
-          <td colspan="3">&nbsp;&nbsp;<span class="style99"><a class="navigationlink" href="http://www.hot97.com/">Home</a><br>
-&nbsp;&nbsp;<a class="navigationlink" href="/airstaff/index.aspx">Our 
+							
+							
+</tbody></table>
+						
+
+
+
+<table border="0" cellspacing="0" cellpadding="0" width="150" style="margin-left:20px; background:#ffffff;">
+	<tbody><tr>
+		<td valign="top">
+		 <table width="140" style="padding-bottom:10px;" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr valign="middle">
+    <td align="right">
+	<form action="http://search.hot97.com/search/" name="frmSMSearch">
+        <div align="right"><strong><span style="color:#000000; font-family:trebuchet ms, verdana; font-size:10px;">Search HOT97.COM</span></strong>
+          <input size="5" type="hidden" name="config" value="hot97.com">
+          <input size="23" id="q" name="q" style="font-size:9px; font-family:verdana;">
+          <input id="cmdSMSearch" type="submit" value="Search" name="Submit">
+        </div>
+      </form></td>
+  </tr>
+</tbody></table>
+
+		<!-- Keep all menus within masterdiv-->
+        <div id="masterdiv" style="padding-left:0px; position:relative; top:6px;">	
+<div class="menutitle" onclick="SwitchMenu('sub1')" style="padding-bottom:3px;"><img src="/images/nav/hotshit.jpg" alt="HOT $#!t" width="150" title="HOT $#!t"></div>
+
+
+	<div class="submenu" id="sub1" style="display:block; padding-top:3px;">		
+		<a href="http://www.hot97.com/playlist">Playlist</a><br>
+		<a href="http://www.hot97.com/videos">Videos</a><br>
+				<a href="http://www.hot97.com/podcasts">Podcasts</a><br>
+		<a href="/airstaff/index.aspx">Our 
             Jocks</a><br>
-&nbsp;&nbsp;<a class="navigationlink" href="/airstaff/mixers.aspx">Mix 
+			• &nbsp;<a href="http://www.hot97.com/funkmasterflex" target="_blank">Funkmaster Flex</a><br>
+<a href="/airstaff/mixers.aspx">Mix 
             Show DJs</a><br>
-&nbsp;&nbsp;<a class="navigationlink" href="/airstaff/weekends.aspx">Weekends</a><br>
-&nbsp;&nbsp;<a class="navigationlink" href="/events/index.aspx">HOT 97 Events</a><br>
-&nbsp;&nbsp;<a class="navigationlink" href="/contests/index.aspx">HOT 97 Contests</a><br>
-&nbsp;&nbsp;<a class="navigationlink" href="/411/index.aspx">HOT411</a><br>
-&nbsp;&nbsp;<a class="navigationlink" href="/gallery/index.aspx">Photo Gallery</a><br>
-&nbsp;&nbsp;<a href="/thankyounewyork/index.aspx" class="navigationlink"><strong>Thank You New York</strong></a><br>
-&nbsp;&nbsp;<a href="/trivia/index.aspx" target="_blank" class="navigationlink">HOT 97 Trivia</a><br>
-&nbsp;&nbsp;<a class="navigationlink" href="/database/newsignup.aspx">Join 
-            the E-mail Click</a><br>
-&nbsp;&nbsp;<a class="navigationlink" href="/info/contact.aspx">Contact Us</a><br>
-&nbsp;&nbsp;<a class="navigationlink" href="http://www.bmilem.com/m/?s=wqht-fm&amp;q=wqht-fm20041129a14280">Jobs</a></span></td>
-				</tr>
-				<tr>
-					<td colspan="3"><img src="/images/s.gif" width="1" height="12"></td>
-				</tr>
-				<tr valign="top">
-					<td height="32" colspan="3"><img src="/images/nav/music.gif" width="145" height="27"></td>
-				</tr>
-				<tr>
-					<td colspan="3">
-					<span class="style99">&nbsp;&nbsp;<a class="navigationlink" href="http://www.hot97.com/itms" target="_blank">HOT 97 iTunes Store</a><br>
-&nbsp;&nbsp;<a href="http://www.hot97.com/playlist" class="navigationlink">HOT 97 Playlist</a><br>
-&nbsp;&nbsp;<a class="navigationlink" href="/cdreviews/home.aspx">CD Reviews</a><br>
-<!-- &nbsp;&nbsp;<a  class="navigationlink" href="/multimedia/musicVideos.aspx">HOT Videos</a><br>-->
-&nbsp;&nbsp;<a class="navigationlink" href="http://www.bmilem.com/m/?s=wqht-fm&amp;q=wqht-fm20041129a143515">Concerts</a><br>
-&nbsp;&nbsp;<a class="navigationlink" href="/station/hd_technology.aspx">What is 
-            HD Radio?</a></span></td>
-				</tr>
-				<tr>
-					<td colspan="3"><img src="/images/s.gif" width="1" height="12"></td>
-				</tr>
-				<tr valign="top">
-					<td height="32" colspan="3"><img src="/images/nav/multimedia.gif" width="145" height="27"></td>
-				</tr>
-				<tr>
-					<td colspan="3">
-					  <span class="style99">
-					  <strong>&nbsp;&nbsp;<a class="navigationlink" href="/videos/index.aspx">HOT Videos</a></strong><br>
-&nbsp;&nbsp;<a href="/podcasts/index.aspx" class="navigationlink">HOT 97 Podcasts</a><br>
+<a href="/airstaff/weekends.aspx">Weekends</a><br>
+<a href="http://www.hot97.com/itms">iTunes Store</a><br>
+<a href="http://www.hot97.com/music/todaysnews.aspx">Music News</a><br>
+<a href="http://www.hot97.com/profiles/browse.aspx">HOT Hook-up</a>	</div>
 
-&nbsp;&nbsp;<a class="navigationlink" href="http://www.bmilem.com/m/?s=wqht-fm&amp;q=wqht-fm20041129a143932">Free Downloads</a><br>
-						<!-- &nbsp;&nbsp;<a  class="navigationlink" href="http://gaming.hot97.com/home.php">play HOT games</a><br> -->
-&nbsp;&nbsp;<a class="navigationlink" href="http://www.bmilem.com/m/?s=wqht-fm&amp;q=wqht-fm20041129a144011">HOT Archive</a><img src="/images/s.gif" width="7" height="1"></span></td>
-				</tr>
-				<tr>
-					<td colspan="3"><img src="/images/s.gif" width="1" height="12"></td>
-				</tr>
-				<tr valign="top">
-					<td height="32" colspan="3"><img src="/images/nav/lifestyle.gif" width="145" height="27"></td>
-				</tr>
-				<tr>
-					<td colspan="3">					<span class="style99">&nbsp;&nbsp;<a href="http://www.myspace.com/hot97official" target="_blank" class="navigationlink">HOT 97 on MySpace!</a><br>
-&nbsp;&nbsp;<a class="navigationlink" href="http://www.hot97.com/manandwife"><strong>Man and Wife</strong></a><br>
-&nbsp;&nbsp;<a class="navigationlink" href="http://www.hot97.com/gaming">HOT 97's Resident Gamer</a><br>
-&nbsp;&nbsp;<a class="navigationlink" href="http://www.hot97.com/tvdiva">TV Diva</a><br>
-&nbsp;&nbsp;<a class="navigationlink" href="http://www.bmilem.com/m/?s=wqht-fm&amp;q=wqht-fm20041129a14415">HOT Hookup</a><br>
-&nbsp;&nbsp;<a class="navigationlink" href="http://www.bmilem.com/m/?s=wqht-fm&amp;q=wqht-fm20041129a144329">Clubs &amp; Nightlife</a><br>
-&nbsp;&nbsp;<a class="navigationlink" href="http://www.bmilem.com/m/?s=wqht-fm&amp;q=wqht-fm20041129a144418">Career Connection</a><br>
-&nbsp;&nbsp;<a class="navigationlink" href="http://www.bmilem.com/m/?s=wqht-fm&amp;q=wqht-fm20041129a144639">Autoworld</a></span><br>
-          
-				  <!--&nbsp;&nbsp;&nbsp;<a  class="navigationlink" href="http://www.hot97.com/celebrity/profile.aspx">celebrity profile</a>--><img src="/images/s.gif" width="7" height="1"></td>
-				</tr>
-				<tr>
-					<td colspan="3"><img src="/images/s.gif" width="1" height="12"></td>
-				</tr>
-				<tr valign="top">
-					<td height="32" colspan="3"><img src="/images/nav/community.gif" width="145" height="27"></td>
-				</tr>
-				<tr>
-					<td colspan="3"><span class="style99">
-					
-					&nbsp;&nbsp;<a href="http://www.hot97.com/community" class="navigationlink"><strong>HOT 97 in the Community</strong></a><br>
-					&nbsp;&nbsp;<a class="navigationlink" href="/airstaff/streetsoldiers.aspx">Street 
-            Soldiers</a><br>
-&nbsp;&nbsp;<a class="navigationlink" href="http://www.hot97.com/community/cool_to_be_smart.aspx">Cool To Be Smart</a><br>
-&nbsp;&nbsp;<a class="navigationlink" href="http://www.bmilem.com/m/?s=wqht-fm&amp;q=wqht-fm20041129a144756">Hip Hop Has Heart</a><br>
 
-&nbsp;&nbsp;<a class="navigationlink" href="http://www.bmilem.com/m/?s=wqht-fm&amp;q=wqht-fm20041129a145044">Education Tips</a></span><br>
-<img src="/images/s.gif" width="7" height="1"></td>
-				</tr>
-				<tr>
-					<td colspan="3"><img src="/images/s.gif" width="1" height="12"></td>
-				</tr>
-				<tr valign="top">
-					<td height="32" colspan="3"><img src="/images/nav/news.gif" width="145" height="27"></td>
-				</tr>
-				<tr>
-					<td colspan="3"><span class="style99">&nbsp;&nbsp;<a class="navigationlink" href="http://www.amny.com/" target="_blank">New York News</a><br>
-&nbsp;&nbsp;<a class="navigationlink" href="http://www.amny.com/sports/" target="_blank">New York Sports</a><br>
-&nbsp;&nbsp;<a class="navigationlink" href="http://www.bmilem.com/m/?s=wqht-fm&amp;q=wqht-fm20041129a145421" target="_blank">Traffic</a><br>
-&nbsp;&nbsp;<a class="navigationlink" href="http://www.bmilem.com/m/?s=wqht-fm&amp;q=wqht-fm20041129a145456">Weather</a></span><br>				</td></tr>
-				<tr>
-					<td colspan="3"><img src="/images/s.gif" width="1" height="12"></td>
-				</tr>
-				<tr>
-					<td colspan="3"></td>
-				</tr>
-			</tbody></table></td>
+	<div class="menutitle" onclick="SwitchMenu('sub2')" style="padding-bottom:3px;"><img src="../images/nav/winstuff.jpg" alt="Win $#!t" width="150" title="Win $#!t"></div>
+
+	<div class="submenu" id="sub2">
+<a href="http://www.hot97.com/database/newsignup.aspx">The Click</a><br>
+<a href="http://www.hot97.com/contests">Win Stuff</a><br>
+	</div>
+
+
+	<div class="menutitle" onclick="SwitchMenu('sub3')" style="padding-bottom:3px;"><img src="../images/nav/checkthisout.jpg" alt="Check This Out" width="150" title="Check This Out"></div>
+
+	<div class="submenu" id="sub3">		
+	<a href="http://www.hot97.com/events/caribanafest2007.aspx">Caribana Festival</a><br>
+	<a href="http://www.hot97.com/quitsmoking">Quit Smoking Video Contest</a><br>
+	<a href="http://www.hot97.com/events">Events</a><br>
+		<a href="http://www.hot97.com/gallery">Photo Gallery</a><br>
+<a href="http://www.hot97.com/gaming">Resident Gamer</a><br>
+<a href="http://www.hot97.com/pumafrench77">Hot Picks of the Week</a><br>
+<a href="http://www.hot97.com/TVDiva">TV Diva</a><br>
+<a href="http://www.hot97.com/nightlife">Clubs, Nightlife &amp; Concerts</a>	</div>
+	
+	<div class="menutitle" onclick="SwitchMenu('sub4')" style="padding-bottom:3px;"><img src="../images/nav/givingback.jpg" alt="Giving Back" width="150" title="Giving Back"></div>
+	<div class="submenu" id="sub4">
+<a href="http://www.hot97.com/community">In The Community</a><br>
+<a href="http://www.hot97.com/education">Education Tips</a><br>
+	</div>
+
+
+<div class="menutitle" style="padding-bottom:3px;" onclick="SwitchMenu('sub5')"><img src="../images/nav/othershit.jpg" width="150" title="Other $#!t" alt="Other $#!t"></div>
+	<div class="submenu" id="sub5">
+<a href="http://www.myspace.com/hot97official">HOT 97 on MySpace</a><br>
+<a href="http://www.hot97.com/jobs/">Jobs</a><br>
+<a href="http://hot97.com/info/contact.aspx">Contact Us</a><br>
+<a href="http://www.hot97.com/trivia">Trivia</a>
+</div>
+
+
+
+
+<div class="menutitle" onclick="SwitchMenu('sub6')" style="padding-bottom:3px;"><img src="../images/nav/news.jpg" width="150" title="News" alt="News"></div>
+	<div class="submenu" id="sub6">
+<a href="http://www.amny.com/" target="_blank">New York News</a><br>
+<a href="http://www.amny.com/sports/" target="_blank">New York Sports</a><br>
+<a href="http://www.traffic.com/New-York-Traffic/New-York-Traffic-Reports.html?AWOPARTNER=WQHT-FM" target="_blank">Traffic</a><br>
+<a href="http://www.bmilem.com/m/?s=wqht-fm&amp;q=wqht-fm20041129a145456">Weather</a><br>				
+</div></div></td>
 	</tr>
+	<tr>
+	<td valign="top">  <br>
+<div style="margin:7px; margin-bottom:20px;"><table width="120" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr valign="top">
+    <td><a href="../../database/newsignup.aspx" border="0"><img src="../../images/brand/eclick/clickrm.gif" border="0" width="120" height="110"></a></td>
+</tr>
+<tr>
+<td><img src="/images/spacer.gif" width="1" height="10"></td>
+</tr>
+</tbody></table></div>
+
+
+<div class="menutitle"><a href="http://www.hot97.com/community"><img src="../pics/home/crimestoppers.jpg" width="150" border="0"></a><br>
+
+<a href="http://www.hot97.com/funkmasterflex"><img src="/images/nav/flexhead.jpg" alt="Funkmaster Flex" width="150" height="85" border="0" title="Funkmaster Flex"></a></div>
+
+<div id="flexsub" style="display: none;"><a href="http://www.hot97.com/funkmasterflex/airitout.aspx"><img src="../images/nav/flex_7pm.jpg" width="150" height="104" border="0" style="padding-bottom:2px;"></a><br>
+<a href="http://www.hot97.com/funkmasterflex/top8at8.aspx"><img src="../images/nav/flex_8pm.jpg" width="150" height="104" border="0" style="padding-bottom:2px;"></a><br>
+<a href="http://www.hot97.com/funkmasterflex/confess.aspx"><img src="../images/nav/flex_9pm.jpg" width="150" height="104" border="0" style="padding-bottom:2px;"></a><br>
+<a href="http://www.hot97.com/funkmasterflex/takeover.aspx"><img src="../images/nav/flex_10pm.jpg" width="150" height="104" border="0" style="padding-bottom:2px;"></a></div>
+
+<div class="menutitle" onclick="SwitchMenu('flexsub')" style="padding-bottom:3px;"><img src="/images/nav/tab.jpg" alt="Click Here" width="150" height="29" title="HOT $#!t"></div></td></tr>
 </tbody></table>
 
 <!-- XX  structure03 -->
@@ -266,11 +343,10 @@ Extended Rush Hour-Friday
 			<table width="100%" border="0" cellpadding="0" cellspacing="0" align="left">
 				<tbody><tr valign="top">
 					
-    <td colspan="3" align="left">&nbsp; 
-    </td>
+    <td colspan="3" align="left">&nbsp;</td>
 				</tr>
-				<tr valign="top">
-					<td>
+				<tr>
+					<td valign="top">
 <!-- !!  header --><!--<table width="468" border="0" cellpadding="0" cellspacing="0">	
   <tr> 
  <td> --> <!-- Begin AdButler Code v6.03 (HTML 4.01 Transitional) -->
@@ -426,32 +502,11 @@ Extended Rush Hour-Friday
 
 					</td>
 					<td>&nbsp;</td>
-					<td>
+					<td valign="top">
 
 <!-- (( begin right modules -->
 <!-- place global, upper right mods here -->
-<table width="110" style="padding-bottom:10px;" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr valign="middle">
-    <td align="right">
-	<form action="http://search.hot97.com/search/" name="frmSMSearch">
-        <div align="right"><strong><span style="color:#000000; font-family:trebuchet ms, verdana; font-size:10px;">Search HOT97.COM</span></strong>
-          <input size="5" type="hidden" name="config" value="hot97.com">
-          <input size="18" id="q" name="q" style="font-size:9px; font-family:verdana;">
-          <input id="cmdSMSearch" type="submit" value="Search" name="Submit">
-        </div>
-      </form></td>
-  </tr>
-  <tr>
-<td><img src="/images/spacer.gif" width="1" height="10"></td>
-</tr>
-</tbody></table><table width="120" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr valign="top">
-    <td><a href="../../database/newsignup.aspx" border="0"><img src="../../images/brand/eclick/clickrm.gif" border="0" width="120" height="110"></a></td>
-</tr>
-<tr>
-<td><img src="/images/spacer.gif" width="1" height="10"></td>
-</tr>
-</tbody></table>
+
 
 <!--<br>
 <iframe src="http://servedbyadbutler.com/adserve/;ID=149918;size=120x240;setID=90925;type=iframe" allowtransparency="true" background-color="transparent" style="margin: 0px; padding: 0px; border-width: 0px" width="120" height="240" frameborder="0" marginwidth="0" marginheight="0" scrolling="no">
@@ -478,7 +533,23 @@ Extended Rush Hour-Friday
 </iframe>
 <!-- End AdButler Code  --><br>
 <br>
-<!-- Begin AdButler Code v6.03 (HTML 4.01 Transitional) -->
+
+ <!-- Begin AdButler Code v6.03 (HTML 4.01 Transitional) -->
+<iframe src="http://servedbyadbutler.com/adserve/;ID=149918;size=120x240;setID=90925;type=iframe" allowtransparency="true" background-color="transparent" style="margin: 0px; padding: 0px; border-width: 0px" width="120" height="240" frameborder="0" marginwidth="0" marginheight="0" scrolling="no">
+<![if lt IE 4]>
+<script src="http://servedbyadbutler.com/adserve/;ID=149918;size=120x240;setID=90925;type=js" type="text/javascript">
+</script>
+<noscript>
+<a href="http://servedbyadbutler.com/go2/;ID=149918;size=120x240;setID=90925">
+<img src="http://servedbyadbutler.com/adserve.ibs/;ID=149918;size=120x240;setID=90925;type=img" border="0" height="240" width="120" alt=""></a>
+</noscript><![endif]>
+</iframe>
+<!-- End AdButler Code  -->
+<br><br>
+<table width="120" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr valign="top">
+    <td>
+	<!-- Begin AdButler Code v6.03 (HTML 4.01 Transitional) -->
 <iframe src="http://servedbyadbutler.com/adserve/;ID=149918;size=120x90;setID=90923;type=iframe" allowtransparency="true" background-color="transparent" style="margin: 0px; padding: 0px; border-width: 0px" width="120" height="90" frameborder="0" marginwidth="0" marginheight="0" scrolling="no">
 <![if lt IE 4]>
 <script src="http://servedbyadbutler.com/adserve/;ID=149918;size=120x90;setID=90923;type=js" type="text/javascript">
@@ -489,15 +560,19 @@ Extended Rush Hour-Friday
 </noscript><![endif]>
 </iframe>
 <!-- End AdButler Code  -->
-<br><br>
 
+	</td>
+</tr>
 
-<link rel="stylesheet" href="/Styles/Base.css" type="text/css"><table width="120" border="0" cellpadding="0" cellspacing="0"><tbody><tr bgcolor="#0099ff"><td colspan="2"><img src="/Images/Frame/rm-tl.gif" width="5" height="5"></td><td align="right"><img src="/Images/Frame/rm-tr.gif" width="5" height="5"></td></tr><tr bgcolor="#0099ff"><td colspan="3"><img src="/Images/Label/RM/Weather.gif" width="120" height="16" border="0"></td></tr><tr bgcolor="#0099ff"><td colspan="3"><table border="0" width="120" cellspacing="0" cellpadding="6"><tbody><tr><td class="rmtext">
+</tbody></table><br>
 
-<table id="_ctrl_1_NormalMode" cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td>
+<!-- 
+<link rel="stylesheet" href="/Styles/Base.css" type="text/css"><table width="120" border="0" cellpadding="0" cellspacing="0"><tr bgcolor="#0099ff"><td colspan="2"><img src="/Images/Frame/rm-tl.gif" width="5" height="5"></td><td align="right"><img src="/Images/Frame/rm-tr.gif" width="5" height="5"></td></tr><tr bgcolor="#0099ff"><td colspan="3"><img src="/Images/Label/RM/Weather.gif" width="120" height="16" border="0"></td></tr><tr bgcolor="#0099ff"><td colspan="3"><table border="0" width="120" cellspacing="0" cellpadding="6"><tr><td class="rmtext">
+
+<table id="_ctrl_1_NormalMode" cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td>
 	
 												<table width="100%" cellpadding="0" cellspacing="0" border="0">
-													<tbody><tr>
+													<tr>
 														<td colspan="3" class="rmheader"><b>New York,  NY</b></td>
 													</tr>
 													<tr>
@@ -506,28 +581,28 @@ Extended Rush Hour-Friday
 													<tr valign="top">
 														<td>
 															<table width="100%" cellpadding="0" cellspacing="0" border="1" bgcolor="#FFFFFF">
-																<tbody><tr>
-																	<td><a href="/Weather/Index.aspx"><img src="/Images/Weather/7.gif" width="30" height="30" border="0" hspace="2" vspace="2" alt="Overcast"></a></td>
+																<tr>
+																	<td><a href="/Weather/Index.aspx"><img src="/Images/Weather/2.gif" width="30" height="30" border="0" hspace="2" vspace="2" alt="Scattered clouds"></a></td>
 																</tr>
-															</tbody></table>
+															</table>
 														</td>
 														<td><img src="/Images/S.gif" width="4" height="1"></td>
 														<td width="65" class="rmtext">
-															 Overcast
-															<br><b>46°F</b>
-															<br><a href="/Weather/Index.aspx" class="rmjumperlink">MORE<b>→</b></a>
+															 Scattered clouds
+															<br><b>75&deg;F</b>
+															<br><a href="/Weather/Index.aspx" class="rmjumperlink">MORE<b>&rarr;</b></a>
 														</td>
 													</tr>
-												</tbody></table>
+												</table>
 
-</td></tr></tbody></table>
-
-
-
-</td></tr></tbody></table></td></tr><tr bgcolor="#0099ff"><td colspan="2"><img src="/Images/Frame/rm-bl.gif" width="5" height="5"></td><td align="right"><img src="/Images/Frame/rm-br.gif" width="5" height="5"></td></tr><tr><td colspan="3"><img src="/Images/S.gif" width="1" height="10"></td></tr></tbody></table>
+</td></tr></table>
 
 
-<!-- place global, lower right mods here -->
+
+</td></tr></table></td></tr><tr bgcolor="#0099ff"><td colspan="2"><img src="/Images/Frame/rm-bl.gif" width="5" height="5"></td><td align="right"><img src="/Images/Frame/rm-br.gif" width="5" height="5"></td></tr><tr><td colspan="3"><img src="/Images/S.gif" width="1" height="10"></td></tr></table>
+
+
+ --><!-- place global, lower right mods here -->
 
 <!-- )) end right modules -->
 
@@ -565,7 +640,7 @@ padding-right:3px;
 
 </style>
 
- <table border="0" width="468" cellspacing="0" cellpadding="0"> 
+ <table border="0" width="468" cellspacing="0" cellpadding="0" align="center"> 
 
   <tbody><tr> 
     <td class="revminidim" align="center">
@@ -585,9 +660,9 @@ padding-right:3px;
 
 <br>
 	<br>
-     <span style="color:#666666;">Copyright © Emmis Communications 2001-2006</span><br> 
+     <span style="color:#666666;">Copyright © Emmis Communications 2001-2007</span><br> 
       <a href="/index.aspx" class="bottom">Home</a> <a href="/info/contact.aspx" class="bottom">Contact Us</a> <a href="/info/advertise.aspx" class="bottom">Advertise With Us</a> <a href="/info/privacystatement.aspx" class="bottom">Privacy Policy</a> <a href="http://www.hot97.com/contests/rules.aspx" class="bottom">Contest Rules</a> <br> 
-      <a href="/info/termsofuse.aspx" class="bottom">Terms of Use</a> <a href="/info/copyright.aspx" class="bottom">Copyright Policy</a> <a href="/info/faq.aspx" class="bottom">FAQs</a> <a href="/jobs/" class="bottom">Jobs</a> <a href="http://www.hot97.com/av/pdf/hot97eeo.pdf" class="bottom">EEO</a> <a href="javascript:megaPopup('/station/recruitment.aspx','frozen','bare','420','480','center','screenVertPosition','top','loading');" class="bottom">Recruitment Source</a><br> 
+      <a href="/info/termsofuse.aspx" class="bottom">Terms of Use</a> <a href="/info/copyright.aspx" class="bottom">Copyright Policy</a> <a href="/info/faq.aspx" class="bottom">FAQs</a> <a href="/jobs/" class="bottom">Jobs</a> <a href="/PDF/Emmis%20NY%2006-07%20EEO%20Report%20Apprv.pdf" target="_blank" class="bottom">EEO</a> <a href="javascript:megaPopup('/station/recruitment.aspx','frozen','bare','420','480','center','screenVertPosition','top','loading');" class="bottom">Recruitment Source</a><br> 
       <br> 
       <img src="/images/frame/powered.gif" width="114" height="15"></td> 
   </tr> 
