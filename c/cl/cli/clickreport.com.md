@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickreport.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216022316id_/http%3A//www.clickreport.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickreport.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629045339id_/http%3A//www.clickreport.com/privacy.aspx) for the most accurate reproduction.*
 
 # ClickReport
 
@@ -26,4 +26,4 @@ This website takes every precaution to protect our users information. When users
 
 If a user's personally identifiable information changes (such as your post code / zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This is usually done within the registered user’s area of ClickReport or by emailing our Customer Support department. 
 
-**NOTIFICATION OF CHANGES** If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what our policy is at any moment in time. If at any time we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
+**NOTIFICATION OF CHANGES** If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what our policy is at any moment in time. If at any time we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
