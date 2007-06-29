@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the inc.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205220133id_/http%3A//www.inc.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inc.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629161235id_/http%3A//www.inc.com/about/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement, - Inc. Article
 
   * About us: 
-  * [ About Inc.com ](https://web.archive.org/web/20061205220133id_/http%3A//www.inc.com/about/index.html)
-  * [ Contact us ](https://web.archive.org/web/20061205220133id_/http%3A//www.inc.com/about/contact_us.html)
-  * [ Advertise ](https://web.archive.org/web/20061205220133id_/http%3A//www.inc.com/advertise/index.html)
-  * [ Business Relationships ](https://web.archive.org/web/20061205220133id_/http%3A//www.inc.com/about/biz_rel.html)
-  * [ Privacy Policy ](https://web.archive.org/web/20061205220133id_/http%3A//www.inc.com/about/privacy.html)
+  * [About Inc.com ](http://www.inc.com/about/index.html)
+  * [Contact us ](http://www.inc.com/about/contact_us.html)
+  * [Advertise](http://www.inc.com/advertise/index.html)
+  * [Business Relationships](http://www.inc.com/about/biz_rel.html)
+  * [Privacy Policy](http://www.inc.com/about/privacy.html)
 
 
 
@@ -49,10 +49,14 @@ Internet-based commerce is dynamic and changing. We may revise our privacy polic
 
 ### Third Party Advertising
 
-The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal in-formation), is used to serve ads to you. For more information about DoubleClick, cookies, and how to "opt-out", please [click here](http://www.doubleclick.net/us/corporate/privacy). 
+The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal in-formation), is used to serve ads to you. For more information about DoubleClick, cookies, and how to "opt-out", please [click here](http://www.doubleclick.net/us/corporate/privacy).
 
 ### Third Party Cookies
 
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
 
 If you have questions or comments on this Privacy Statement, please [contact us](https://web.archive.org/about/contact_us.html).
+
+[](http://trax.inc.com/k/w/sub/subbox/cover)
+
+## Select Services
