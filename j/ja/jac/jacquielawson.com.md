@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jacquielawson.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231001350id_/http%3A//www.jacquielawson.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacquielawson.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629054344id_/http%3A//www.jacquielawson.com/privacy.asp) for the most accurate reproduction.*
 
 # Jacquie Lawson privacy policy, cookies, history & data information collected
 
@@ -26,7 +26,7 @@ The following are the circumstances in which we will send you e-mails.
 
 
 
-You can opt not to receive from Member Newsletters and Card Notifications using the _My Details_ page of our website (you have to log on first). You can also cancel your membership at any time, in which case you will not hear from us again. We do not send email to expired or cancelled members.
+You can opt not to receive from Member Newsletters and Card Notifications using the _My Details_ page of our website (you have to log on first). You can also cancel your membership at any time.
 
 ### Cookies
 
