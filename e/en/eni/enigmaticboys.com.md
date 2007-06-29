@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enigmaticboys.com privacy policy that was archived on 2006-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061007123914id_/http%3A//enigmaticboys.com/legal.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enigmaticboys.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629173025id_/http%3A//www.enigmaticboys.com/legal.htm) for the most accurate reproduction.*
 
 # EnigmaticBoys: Exclusive Teen Boys Models from Russia,Europe & Mediterrenian
 
