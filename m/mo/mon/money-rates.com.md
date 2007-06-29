@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the money-rates.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113092552id_/http%3A//money-rates.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the money-rates.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629220630id_/http%3A//www.money-rates.com/privacy.htm) for the most accurate reproduction.*
 
-# Highest rates on bank certificates of deposit (CDs), money markets, checking accounts, and savings accounts listed daily by money-rates.com.
+# money-rates.com privacy policy
 
 Protecting your privacy is important to money-rates.com and our employees. At money-rates.com, we are committed to safeguarding customer information. Since your privacy is a priority to us, money-rates.com will not share nonpublic information about you with third parties outside of money-rates.com, except as explained in our Privacy Policy, nor do we sell customer information to third party vendors for marketing purposes. We want you to understand what information we collect and how we use it. In order to provide our customers with a broad range of financial information and services as effectively and conveniently as possible, we use technology to manage and maintain customer information. The following policy serves as a standard for all money-rates.com employees for collections, use, retention, and security of nonpublic personal information. 
 
@@ -15,3 +15,5 @@ We are permitted under law to disclose nonpublic personal information about you 
 Our Security Procedures 
 
 We also take steps to safeguard customer information. We restrict access to your personal and account information to those employees who need to know that information to provide products or services to you. Employees who violate these standards will be subject to disciplinary measures. We maintain physical, electronic, and procedural safeguards that comply with federal standards to guard your nonpublic personal information.
+
+###### Posted 4/27/07
