@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ciol.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205225534id_/http%3A//www.ciol.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ciol.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629131045id_/http%3A//www.ciol.com/company/privacy) for the most accurate reproduction.*
 
 # CIOL - MAKING IT YOUR ADVANTAGE
 
@@ -40,7 +40,12 @@ Bangalore 560 042, India.
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted. The Privacy Notice posted on this site was updated on or about July 6, 2006
 
-|    
+| 
+
+  
+[](http://www.ciol.com/track/clicks3.asp?client=Cisco_POTW_1836&clickUrl=http://www.linksys.com/servlet/Satellite?c=L_Product_C2&childpagename=US%2FLayout&cid=1166859512401&packedargs=site%3DUS&pagename=Linksys%2FCommon%2FVisitorWrapper&lid=1240199542B01)
+
+  
 Advertisement  
   
 ---|---
