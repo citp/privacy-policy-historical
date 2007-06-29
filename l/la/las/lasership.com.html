@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lasership.com privacy policy that was archived on 2006-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061214074811id_/http%3A//www.lasership.com/LaserShip/privacyPolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lasership.com privacy policy that was archived on 2007-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070629204546id_/http%3A//www.lasership.com/LaserShip/privacyPolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.lasership.com/loose.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -11,14 +11,20 @@
 <script language="javascript">
 // Browser Detector
  var isIE, notIE;
+ var isIE7;
  var userAgent=navigator.userAgent, version=0;
+  
  // IE
  if (userAgent.indexOf('MSIE') != -1) {
 	 isIE = true;
+	 if(userAgent.indexOf('MSIE 7') != -1) { 
+	 	isIE7 = true;
+	 }
  }
  // Netscape or Safari
  else {
 	 isIE = false;
+	 isIE7 = false;
  } 
  // Opera
  if (userAgent.indexOf('Opera') != -1) {
@@ -31,14 +37,18 @@
 // Setting CSS for rollover links base n browser
 //alert(userAgent);
 if (isIE == true) {
+	if(isIE7 == true) {
+	document.write('<link href="../css/Rollover_IE7.css" rel="stylesheet" type="text/css">');
+	} else {
 	document.write('<link href="../css/Rollover_IE.css" rel="stylesheet" type="text/css">');
 	}
+}
 else if  (isIE == "Mac") {
 	document.write('<link href="../css/Rollover_Mac.css" rel="stylesheet" type="text/css">');
-	}
+}
 else {
 	document.write('<link href="../css/Rollover_NET.css" rel="stylesheet" type="text/css">');
-	}
+}
 </script><link href="../css/Rollover_Mac.css" rel="stylesheet" type="text/css">
 <!--- Navigatorbar Script selector --->
 <script language="javascript" src="../scripts/LaserShipV7PublicMenu.js"></script><!--- Java Script Loader/ --->
@@ -47,7 +57,7 @@ else {
 
 <!--- Style Selector --->
 <link href="../css/LaserShip_V7_2C.css" rel="stylesheet" type="text/css"><!--- Style Selector/ --->
-
+<link rel="shortcut icon" href="../favicon.ico" type="image/x-icon">
 </head>
 
 <body topmargin="0" bottommargin="0" onmouseout="closesubnav(event)">
@@ -195,133 +205,184 @@ else {
 <div id="Right">
 	<div id="Container_Link">
 	<div id="Rollover_Link">
+	<a href="mailto:shippingconsultant@lasership.com"><img src="../images/shippingConsultant.gif" border="0" alt="Click here to speak with a shipping consultant."></a>
 
-
-<a href="mailto:shippingconsultant@lasership.com"><img src="../images/shippingConsultant.gif" border="0" alt="Click here to speak with a shipping consultant."></a>
-
-<!--- Add to list all local branches as a static page. By Sharon 11/11/04 --->
-<span>LaserShip Locations</span>
-
-<a href="#" onclick="SwitchMenu(&quot;sub1&quot;)">Alexandria</a>	
-	<div class="submenu" id="sub1">
-		<div class="S10 Black_50">801 N. Fairfax St.</div>
-		<div class="S10 Black_50">Alexandria, VA 22314</div>
-		<div class="S10 Black_50">703-684-5444</div>
-		<div class="S10 Non"><a href="mailto:manager04@lasership.com">manager04@lasership.com</a></div>
-	</div>
-
-<a href="#" onclick="SwitchMenu(&quot;sub2&quot;)">Atlanta - Downtown</a>	
-	<div class="submenu" id="sub2">
-	<div class="S10 Black_50">730 Peachtree St. NE</div>
-	<div class="S10 Black_50">Atlanta, GA 30308</div>
-	<div class="S10 Black_50">404-876-8650</div>
-	<div class="S10 Non"><a href="mailto:manager09@lasership.com">manager09@lasership.com</a></div>
-	</div>
-
-<a href="#" onclick="SwitchMenu(&quot;sub3&quot;)">Atlanta - Smyrna</a>	
-	<div class="submenu" id="sub3">
-	<div class="S10 Black_50">1600 Wilson Way SE Suite 6</div>
-	<div class="S10 Black_50">Smyrna, GA 30082</div>
-	<div class="S10 Black_50">678-556-1111</div>
-	<div class="S10 Non"><a href="mailto:manager29@lasership.com">manager29@lasership.com</a></div>
-	</div>
-
-<a href="#" onclick="SwitchMenu(&quot;sub4&quot;)">Baltimore</a>	
-	<div class="submenu" id="sub4">
-	<div class="S10 Black_50">1600 Bush St.</div>
-	<div class="S10 Black_50">Baltimore, MD 21230</div>
-	<div class="S10 Black_50">410-685-1070</div>
-	<div class="S10 Non"><a href="mailto:manager08@lasership.com">manager08@lasership.com</a></div>
-	</div>
-
-<a href="#" onclick="SwitchMenu(&quot;sub5&quot;)">Beltsville</a>	
-	<div class="submenu" id="sub5">
-	<div class="S10 Black_50">7030 Virginia Manor Rd.</div>
-	<div class="S10 Black_50">Beltsville, MD 20705</div>
-	<div class="S10 Black_50">301-419-2626</div>
-	<div class="S10 Non"><a href="mailto:manager05@lasership.com">manager05@lasership.com</a></div>
-	</div>
-
-<a href="#" onclick="SwitchMenu(&quot;sub6&quot;)">Bethesda</a>	
-	<div class="submenu" id="sub6">
-	<div class="S10 Black_50">4330 East West Hwy.</div>
-	<div class="S10 Black_50">Bethesda, MD 20814</div>
-	<div class="S10 Black_50">301-656-6960</div>
-	<div class="S10 Non"><a href="mailto:manager03@lasership.com">manager03@lasership.com</a></div>
-	</div>
-
-<a href="#" onclick="SwitchMenu(&quot;sub7&quot;)">Boston</a>	
-	<div class="submenu" id="sub7">
-	<div class="S10 Black_50">21 Drydock Ave.</div>
-	<div class="S10 Black_50">Boston, MA 02210</div>
-	<div class="S10 Black_50">617-850-0020</div>
-	<div class="S10 Non"><a href="mailto:manager14@lasership.com">manager14@lasership.com</a></div>
-	</div>
-	
-<a href="#" onclick="SwitchMenu(&quot;sub15&quot;)">Charlotte</a>	
-	<div class="submenu" id="sub15">
-	<div class="S10 Black_50">1515 S Mint St</div>
-	<div class="S10 Black_50">Charlotte, NC 28203</div>
-	<div class="S10 Black_50">704-333-0733</div>
-	<div class="S10 Non"><a href="mailto:manager16@lasership.com">manager16@lasership.com</a></div>
-	</div>
-	
-<a href="#" onclick="SwitchMenu(&quot;sub8&quot;)">DC</a>	
-	<div class="submenu" id="sub8">
-	<div class="S10 Black_50">1522 K St. NW</div>
-	<div class="S10 Black_50">Washington, DC 20005</div>
-	<div class="S10 Black_50">202-347-7663</div>
-	<div class="S10 Non"><a href="mailto:manager06@lasership.com">manager06@lasership.com</a></div>
-	</div>
-
-<a href="#" onclick="SwitchMenu(&quot;sub9&quot;)">Dulles</a>	
-	<div class="submenu" id="sub9">
-	<div class="S10 Black_50">22930 Quicksilver Dr. #115</div>
-	<div class="S10 Black_50">Sterling, VA 20166</div>
-	<div class="S10 Black_50">703-662-2200</div>
-	<div class="S10 Non"><a href="mailto:manager02@lasership.com">manager02@lasership.com</a></div>
-	</div>
-
-<a href="#" onclick="SwitchMenu(&quot;sub10&quot;)">New York On-Demand</a>	
-	<div class="submenu" id="sub10">
-	<div class="S10 Black_50">334 W 39th St</div>
-	<div class="S10 Black_50">New York, NY 10018</div>
-	<div class="S10 Black_50">212-594-5009</div>
-	<div class="S10 Non"><a href="mailto:manager10@lasership.com">manager10@lasership.com</a></div>
-	</div>
-	
-<a href="#" onclick="SwitchMenu(&quot;sub11&quot;)">New York Distribution</a>	
-	<div class="submenu" id="sub11">
-	<div class="S10 Black_50">334 W 39th St</div>
-	<div class="S10 Black_50">New York, NY 10018</div>
-	<div class="S10 Black_50">212-478-1144</div>
-	<div class="S10 Non"><a href="mailto:manager12@lasership.com">manager12@lasership.com</a></div>
-	</div>
-
-<a href="#" onclick="SwitchMenu(&quot;sub12&quot;)">Philadelphia</a>	
-	<div class="submenu" id="sub12">
-	<div class="S10 Black_50">444 N 3rd St.</div>
-	<div class="S10 Black_50">Philadelphia, PA 19123</div>
-	<div class="S10 Black_50">215-446-6390</div>
-	<div class="S10 Non"><a href="mailto:manager15@lasership.com">manager15@lasership.com</a></div>
-	</div>
-
-<a href="#" onclick="SwitchMenu(&quot;sub13&quot;)">Richmond</a>	
-	<div class="submenu" id="sub13">
-	<div class="S10 Black_50">951 East Byrd St.</div>
-	<div class="S10 Black_50">Richmond, VA 23219</div>
-	<div class="S10 Black_50">804-648-4888</div>
-	<div class="S10 Non"><a href="mailto:manager07@lasership.com">manager07@lasership.com</a></div>
-	</div>
-	
-<a href="#" onclick="SwitchMenu(&quot;sub14&quot;)">Tysons</a>	
-	<div class="submenu" id="sub14">
-	<div class="S10 Black_50">7927 Jones Branch Dr.</div>
-	<div class="S10 Black_50">McLean, VA 22102</div>
-	<div class="S10 Black_50">703-847-0550</div>
-	<div class="S10 Non"><a href="mailto:manager01@lasership.com">manager01@lasership.com</a></div>
-	</div>
-
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<branchinfo> 
+ 	<span>LaserShip Locations</span> 
+	 
+	<a href="#" onclick="SwitchMenu('sub1')">Hartford <span class="S10">(CT)</span></a> 
+	   <div class="submenu" id="sub1"> 
+		 <div class="S10 Black_50">60 CHURCH ST</div> 
+		 <div class="S10 Black_50">YALESVILLE, CT 06492</div> 
+		 <div class="S10 Black_50">Phone No. 203-269-7757</div> 
+		 <div class="S10 Black_50"><a href="mailto:manager17@lasership.com">manager17@lasership.com</a></div> 
+	   </div> 
+   	 
+ 	 
+	<a href="#" onclick="SwitchMenu('sub2')">Washington DC <span class="S10">(DC)</span></a> 
+	   <div class="submenu" id="sub2"> 
+		 <div class="S10 Black_50">1522 K ST NW</div> 
+		 <div class="S10 Black_50">WASHINGTON, DC 20005</div> 
+		 <div class="S10 Black_50">Phone No. 202-347-7663</div> 
+		 <div class="S10 Black_50"><a href="mailto:manager06@lasership.com">manager06@lasership.com</a></div> 
+	   </div> 
+   	 
+ 	 
+	<a href="#" onclick="SwitchMenu('sub3')">Miami <span class="S10">(FL)</span></a> 
+	   <div class="submenu" id="sub3"> 
+		 <div class="S10 Black_50">7916 NW 66TH ST</div> 
+		 <div class="S10 Black_50">MIAMI, FL 33166</div> 
+		 <div class="S10 Black_50">Phone No. 305-599-1151</div> 
+		 <div class="S10 Black_50"><a href="mailto:manager18@lasership.com">manager18@lasership.com</a></div> 
+	   </div> 
+   	 
+ 	 
+	<a href="#" onclick="SwitchMenu('sub4')">Atlanta - Downtown <span class="S10">(GA)</span></a> 
+	   <div class="submenu" id="sub4"> 
+		 <div class="S10 Black_50">730 PEACHTREE ST NE</div> 
+		 <div class="S10 Black_50">ATLANTA, GA 30308</div> 
+		 <div class="S10 Black_50">Phone No. 404-876-8650</div> 
+		 <div class="S10 Black_50"><a href="mailto:manager09@lasership.com">manager09@lasership.com</a></div> 
+	   </div> 
+   	 
+ 	 
+	<a href="#" onclick="SwitchMenu('sub5')">Atlanta - Smyrna <span class="S10">(GA)</span></a> 
+	   <div class="submenu" id="sub5"> 
+		 <div class="S10 Black_50">1600 WILSON WAY SE</div> 
+		 <div class="S10 Black_50">SMYRNA, GA 30082</div> 
+		 <div class="S10 Black_50">Phone No. 678-556-1111</div> 
+		 <div class="S10 Black_50"><a href="mailto:manager29@lasership.com">manager29@lasership.com</a></div> 
+	   </div> 
+   	 
+ 	 
+	<a href="#" onclick="SwitchMenu('sub6')">Boston <span class="S10">(MA)</span></a> 
+	   <div class="submenu" id="sub6"> 
+		 <div class="S10 Black_50">21 DRY DOCK AVE</div> 
+		 <div class="S10 Black_50">BOSTON, MA 02210</div> 
+		 <div class="S10 Black_50">Phone No. 617-850-0020</div> 
+		 <div class="S10 Black_50"><a href="mailto:manager14@lasership.com">manager14@lasership.com</a></div> 
+	   </div> 
+   	 
+ 	 
+	<a href="#" onclick="SwitchMenu('sub7')">Baltimore <span class="S10">(MD)</span></a> 
+	   <div class="submenu" id="sub7"> 
+		 <div class="S10 Black_50">1600 BUSH ST</div> 
+		 <div class="S10 Black_50">BALTIMORE, MD 21230</div> 
+		 <div class="S10 Black_50">Phone No. 410-685-1070</div> 
+		 <div class="S10 Black_50"><a href="mailto:manager08@lasership.com">manager08@lasership.com</a></div> 
+	   </div> 
+   	 
+ 	 
+	<a href="#" onclick="SwitchMenu('sub8')">Beltsville <span class="S10">(MD)</span></a> 
+	   <div class="submenu" id="sub8"> 
+		 <div class="S10 Black_50">7030 VIRGINIA MANOR RD</div> 
+		 <div class="S10 Black_50">BELTSVILLE, MD 20705</div> 
+		 <div class="S10 Black_50">Phone No. 301-419-2626</div> 
+		 <div class="S10 Black_50"><a href="mailto:manager05@lasership.com">manager05@lasership.com</a></div> 
+	   </div> 
+   	 
+ 	 
+	<a href="#" onclick="SwitchMenu('sub9')">Beltsville Trucking <span class="S10">(MD)</span></a> 
+	   <div class="submenu" id="sub9"> 
+		 <div class="S10 Black_50">6626 VIRGINIA MANOR RD</div> 
+		 <div class="S10 Black_50">BELTSVILLE, MD 20705</div> 
+		 <div class="S10 Black_50">Phone No. 240-264-3041</div> 
+		 <div class="S10 Black_50"><a href="mailto:manager35@lasership.com">manager35@lasership.com</a></div> 
+	   </div> 
+   	 
+ 	 
+	<a href="#" onclick="SwitchMenu('sub10')">Bethesda <span class="S10">(MD)</span></a> 
+	   <div class="submenu" id="sub10"> 
+		 <div class="S10 Black_50">4330 EAST WEST HWY</div> 
+		 <div class="S10 Black_50">BETHESDA, MD 20814</div> 
+		 <div class="S10 Black_50">Phone No. 301-656-6960</div> 
+		 <div class="S10 Black_50"><a href="mailto:manager03@lasership.com">manager03@lasership.com</a></div> 
+	   </div> 
+   	 
+ 	 
+	<a href="#" onclick="SwitchMenu('sub11')">Charlotte <span class="S10">(NC)</span></a> 
+	   <div class="submenu" id="sub11"> 
+		 <div class="S10 Black_50">1515 S MINT ST</div> 
+		 <div class="S10 Black_50">CHARLOTTE, NC 28202</div> 
+		 <div class="S10 Black_50">Phone No. 704-333-0733</div> 
+		 <div class="S10 Black_50"><a href="mailto:manager16@lasership.com">manager16@lasership.com</a></div> 
+	   </div> 
+   	 
+ 	 
+	<a href="#" onclick="SwitchMenu('sub12')">New York <span class="S10">(NY)</span></a> 
+	   <div class="submenu" id="sub12"> 
+		 <div class="S10 Black_50">334 W 39TH ST</div> 
+		 <div class="S10 Black_50">NEW YORK, NY 10018</div> 
+		 <div class="S10 Black_50">Phone No. 212-594-5009</div> 
+		 <div class="S10 Black_50"><a href="mailto:manager10@lasership.com">manager10@lasership.com</a></div> 
+	   </div> 
+   	 
+ 	 
+	<a href="#" onclick="SwitchMenu('sub13')">New York Routes <span class="S10">(NY)</span></a> 
+	   <div class="submenu" id="sub13"> 
+		 <div class="S10 Black_50">334 W 39TH ST</div> 
+		 <div class="S10 Black_50">NEW YORK, NY 10018</div> 
+		 <div class="S10 Black_50">Phone No. 212-478-1144</div> 
+		 <div class="S10 Black_50"><a href="mailto:manager12@lasership.com">manager12@lasership.com</a></div> 
+	   </div> 
+   	 
+ 	 
+	<a href="#" onclick="SwitchMenu('sub14')">Philadelphia <span class="S10">(PA)</span></a> 
+	   <div class="submenu" id="sub14"> 
+		 <div class="S10 Black_50">444 N 3RD ST</div> 
+		 <div class="S10 Black_50">PHILADELPHIA, PA 19123</div> 
+		 <div class="S10 Black_50">Phone No. 215-446-6390</div> 
+		 <div class="S10 Black_50"><a href="mailto:manager15@lasership.com">manager15@lasership.com</a></div> 
+	   </div> 
+   	 
+ 	 
+	<a href="#" onclick="SwitchMenu('sub15')">Alexandria <span class="S10">(VA)</span></a> 
+	   <div class="submenu" id="sub15"> 
+		 <div class="S10 Black_50">801 N FAIRFAX ST</div> 
+		 <div class="S10 Black_50">ALEXANDRIA, VA 22314</div> 
+		 <div class="S10 Black_50">Phone No. 703-684-5444</div> 
+		 <div class="S10 Black_50"><a href="mailto:manager04@lasership.com">manager04@lasership.com</a></div> 
+	   </div> 
+   	 
+ 	 
+	<a href="#" onclick="SwitchMenu('sub16')">Tysons <span class="S10">(VA)</span></a> 
+	   <div class="submenu" id="sub16"> 
+		 <div class="S10 Black_50">7927 JONES BRANCH DR</div> 
+		 <div class="S10 Black_50">MCLEAN, VA 22102</div> 
+		 <div class="S10 Black_50">Phone No. 703-847-0550</div> 
+		 <div class="S10 Black_50"><a href="mailto:manager01@lasership.com">manager01@lasership.com</a></div> 
+	   </div> 
+   	 
+ 	 
+	<a href="#" onclick="SwitchMenu('sub17')">Richmond <span class="S10">(VA)</span></a> 
+	   <div class="submenu" id="sub17"> 
+		 <div class="S10 Black_50">951 E BYRD ST</div> 
+		 <div class="S10 Black_50">RICHMOND, VA 23219</div> 
+		 <div class="S10 Black_50">Phone No. 804-648-4888</div> 
+		 <div class="S10 Black_50"><a href="mailto:manager07@lasership.com">manager07@lasership.com</a></div> 
+	   </div> 
+   	 
+ 	 
+	<a href="#" onclick="SwitchMenu('sub18')">Dulles <span class="S10">(VA)</span></a> 
+	   <div class="submenu" id="sub18"> 
+		 <div class="S10 Black_50">22930 QUICKSILVER DR</div> 
+		 <div class="S10 Black_50">STERLING, VA 20166</div> 
+		 <div class="S10 Black_50">Phone No. 703-662-2200</div> 
+		 <div class="S10 Black_50"><a href="mailto:manager02@lasership.com">manager02@lasership.com</a></div> 
+	   </div> 
+   	 
+ 	 
+	<a href="#" onclick="SwitchMenu('sub19')">Virginia Beach <span class="S10">(VA)</span></a> 
+	   <div class="submenu" id="sub19"> 
+		 <div class="S10 Black_50">468 S INDEPENDENCE BLVD</div> 
+		 <div class="S10 Black_50">VIRGINIA BEACH, VA 23452</div> 
+		 <div class="S10 Black_50">Phone No. 757-490-4684</div> 
+		 <div class="S10 Black_50"><a href="mailto:manager49@lasership.com">manager49@lasership.com</a></div> 
+	   </div> 
+   	 
+ 	 
+ </branchinfo>
 
 	</div>
 </div>
