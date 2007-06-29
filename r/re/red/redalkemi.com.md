@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redalkemi.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218080752id_/http%3A//redalkemi.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redalkemi.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629151416id_/http%3A//www.redalkemi.com/privacy-policy.php) for the most accurate reproduction.*
 
 # RedAlkemi : Privacy Policy : Trademarks & Copyrights Redalkemi : Terms amd services
 
