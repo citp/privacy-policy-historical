@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the mileskimball.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118185256id_/http%3A//www.mileskimball.com/mileskimball/CustomerService/Shop.aspx%3FSiteNum%3D0%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mileskimball.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629044507id_/http%3A//www.mileskimball.com/mileskimball/CustomerService/Shop.aspx%3FSiteNum%3D0%23privacy) for the most accurate reproduction.*
 
 # Miles Kimball
 
-|  |  |  [](https://web.archive.org/web/20061118185256id_/http%3A//www.mileskimball.com/mileskimball/Browsing/Category.aspx?CID=Sale&SiteNum=0) |  [](https://web.archive.org/web/20061118185256id_/http%3A//www.mileskimball.com/mileskimball/Browsing/Category.aspx?CID=Web+Exclusives&SiteNum=0) |  [](https://web.archive.org/web/20061118185256id_/http%3A//www.mileskimball.com/mileskimball/Browsing/Category.aspx?CID=New+Arrivals&SiteNum=0) |  [](https://web.archive.org/web/20061118185256id_/http%3A//www.mileskimball.com/mileskimball/Browsing/Category.aspx?CID=As+Seen+On+TV&SiteNum=0) |  [](https://web.archive.org/web/20061118185256id_/http%3A//www.mileskimball.com/mileskimball/Browsing/Category.aspx?CID=Kimball+Klearance&SiteNum=0)  
+|  |  |  [](http://www.mileskimball.com/MilesKimball/Browsing/Category.aspx?CID=Sale&SiteNum=0) |  [](http://www.mileskimball.com/MilesKimball/Browsing/Category.aspx?CID=Web+Exclusives&SiteNum=0) |  [](http://www.mileskimball.com/MilesKimball/Browsing/Category.aspx?CID=New+Arrivals&SiteNum=0) |  [](http://www.mileskimball.com/MilesKimball/Browsing/Category.aspx?CID=As+Seen+On+TV&SiteNum=0) |  [](http://www.mileskimball.com/MilesKimball/Browsing/Category.aspx?CID=Kimball+Klearance&SiteNum=0)  
 ---|---|---|---|---  
   
-| [Home](https://web.archive.org/web/20061118185256id_/http%3A//www.mileskimball.com/mileskimball/Default.aspx) :: [Customer Service](https://web.archive.org/web/20061118185256id_/http%3A//www.mileskimball.com/mileskimball/CustomerService/Default.aspx) :: [Shop With Confidence](https://web.archive.org/web/20061118185256id_/http%3A//www.mileskimball.com/mileskimball/CustomerService/Shop.aspx)  
+| [Home](https://web.archive.org/web/20070629044507id_/http%3A//www.mileskimball.com/mileskimball/Default.aspx) :: [Customer Service](https://web.archive.org/web/20070629044507id_/http%3A//www.mileskimball.com/mileskimball/CustomerService/Default.aspx) :: [Shop With Confidence](https://web.archive.org/web/20070629044507id_/http%3A//www.mileskimball.com/mileskimball/CustomerService/Shop.aspx)  
 ---  
    
 Shop With Confidence |  **Call us at** 1-800-546-2255  
@@ -13,10 +13,10 @@ Shop With Confidence |  **Call us at** 1-800-546-2255
 * * *  
   
    
-|  Quibble-Free Guarantee  
+|  _Quibble-Free Guarantee_  
 ---  
-Privacy and Security Policy  
-Terms of Use  
+_Privacy and Security Policy_  
+_Terms of Use_  
    
 **_Quibble-Free Guarantee_**  
 Miles Kimball understands that returning an item needs to be as easy and convenient as possible. With that in mind we created our Quibble-Free Guarantee® just for you. Whether an item is too big, too small, too short, or too tall, simply exchange it for a new item, or return it for a complete refund. No questions, no hassles. 
@@ -25,15 +25,15 @@ Your complete satisfaction is guaranteed. If you change your mind about a purcha
 
 If you have any questions on how to return an item that you are not completely satisfied with, just click here to view our 
 
-[Returns & Exchanges](https://web.archive.org/web/20061118185256id_/http%3A//www.mileskimball.com/mileskimball/CustomerService/Ordering.aspx#returns) information.   
-Back to top of page  
+[_Returns & Exchanges_](https://web.archive.org/web/20070629044507id_/http%3A//www.mileskimball.com/mileskimball/CustomerService/Ordering.aspx#returns) information.   
+_Back to top of page_  
    
 **_Privacy and Security Policy_**  
 At MilesKimball.com, we respect your privacy and have established diligent procedures to ensure that your personal information is handled in a safe, secure, responsible manner. Below we describe why we gather information from our customers, what information we collect, how we collect it, what we use the information for and how you can instruct us if you prefer to limit the use of that information. 
 
 Comments about our Privacy Policy may be sent by e-mail to 
 
-[ csr@mileskimball.com](mailto:csr@mileskimball.com). We can also be reached by telephone at 1-800-255-4590. 
+[_csr@mileskimball.com_](mailto:csr@mileskimball.com). We can also be reached by telephone at 1-800-255-4590. 
 
 Our privacy policy addresses the following questions: 
 
@@ -51,7 +51,7 @@ When you shop with Miles Kimball, online or through our catalogs, we collect the
 
 In addition when you visit online, our website automatically recognizes the address of your Internet Service Provider (ISP) and, in some cases, your domain name. We cannot identify you individually from your screen name if you are using America Online or one of the other major online services. Our website also identifies information such as your browser, your browser version, the operating system you are using, the pages you visit at MilesKimball.com and the uniform resource locator (URL) of where you were on the Internet if you clicked a link to 
 
-[ www.MilesKimball.com](http://www.mileskimball.com/). 
+[_www.MilesKimball.com_](http://www.mileskimball.com/). 
 
 How do we use the information we collect?   
 We use the information collected for various purposes, including:   
@@ -74,7 +74,7 @@ We may disclose any information you provide to MilesKimball.com (i) when we beli
 **_How do you access or correct information collected?_**   
 You may limit our use of your personal information including phone number, mailing address, and e-mail address, or instruct us not to share the personal information you have provided to us with third parties by emailing us at 
 
-[ csr@mileskimball.com](mailto:csr@mileskimball.com) or by contacting customer service at 1-800-255-4590. 
+[_csr@mileskimball.com_](mailto:csr@mileskimball.com) or by contacting customer service at 1-800-255-4590. 
 
 You may easily modify My Account personal information, including phone number and address, online anytime by simply logging into your account. Log in to My Account to review stored information. Always remember to save your updated preferences. 
 
@@ -91,7 +91,7 @@ Other companies: We do not rent or sell your e-mail address to anyone.
 
 On occasion, we may share a portion of our catalog mailing lists with other reputable companies. If you prefer not to receive these catalog mailings, e-mail your request to 
 
-[csr@mileskimball.com](mailto:csr@mileskimball.com) with your name and address exactly as it appears on the back cover of the catalog, or mail the back cover to: 
+[_csr@mileskimball.com_](mailto:csr@mileskimball.com) with your name and address exactly as it appears on the back cover of the catalog, or mail the back cover to: 
 
 Miles Kimball Mail Preference   
 250 City Center  
@@ -111,7 +111,7 @@ From time to time, Miles Kimball will send out an email announcing special sales
 * You may e-mail, call, or fax Customer Service:   
 Customer Service: 
 
-[csr@mileskimball.com](mailto:csr@mileskimball.com)   
+[ _csr@mileskimball.com_](mailto:csr@mileskimball.com)   
 1-800-255-4590, 6 am to 2 am Central Time, 7 days a week
 
 **_Links To Other Sites_**   
@@ -129,13 +129,13 @@ We may change our Privacy Policy at any time. Please return to this page every s
 
 Enjoy your visit to MilesKimball.com. We hope you find what you are looking for.   
   
-Back to top of page  
+_Back to top of page_  
    
 **_Miles Kimball Terms of Use_**
 
 Click here to view the Miles Kimball 
 
-Privacy Policy 
+_Privacy Policy_ 
 
 MilesKimball.com website ("Site") is currently being provided to you free-of-charge, subject to your acceptance of our Terms and Conditions. We reserve the right to change and revise these Terms and Conditions without prior notice as we see fit. If you violate the terms of this Agreement you will have your access canceled and you may be permanently banned from using the Site and any interactive services. You should check these terms and conditions periodically. By using MilesKimball.com after we post changes to these Terms and Conditions, you agree to accept those changes, whether or not you actually reviewed them. 
 
@@ -146,7 +146,9 @@ We do not discriminate on the basis of age, race, national origin, gender, sexua
 **_Privacy_**   
 Please review our 
 
-Privacy Policy, which goes into further detail on how we at Miles Kimball protect your privacy while using our site or ordering from us. 
+_Privacy Policy_
+
+, which goes into further detail on how we at Miles Kimball protect your privacy while using our site or ordering from us. 
 
 **_Copyright_**   
 By accessing MilesKimball.com, you acknowledge that the Site contains graphics, code, information, data, software, photographs, videos, typefaces, music, sounds, and/or other material that are protected by copyrights, trademarks, trade secrets, or other proprietary rights, and that rights are valid and protected in all forms existing now or yet to be developed. Permission is granted to electronically copy and print hard copies of pages from this Web site solely for personal, non-commercial purposes related to the placement of an order or shopping with MilesKimball.com. Except as provided in the preceding sentence or as permitted by the fair use privilege under the U.S. copyright laws (see, e.g., 17 U.S.C. Section 107), you may not upload, post, reproduce, or distribute in any way content protected by copyright, or other proprietary right, without obtaining written permission from MilesKimball.com. 
@@ -175,7 +177,9 @@ We may suspend your right to access, or terminate access to all or part of Miles
 **_Usage by children under 18_**   
 Click 
 
-Here to review our policy concerning children using MilesKimball.com. 
+_Here_
+
+to review our policy concerning children using MilesKimball.com. 
 
 **_Enforcement_**   
 By accessing MilesKimball.com, you agree that your access and use of this Website is subject to the Terms and Conditions, and all applicable laws, as governed by the laws of the State of Wisconsin. 
@@ -186,4 +190,4 @@ Any suggestions, ideas, messages or data submitted by you to Miles Kimball throu
 **_Miscellaneous_**   
 The Terms and Conditions constitute the entire agreement between you and Miles Kimball with respect to this Website. The Terms and Conditions you are reviewing supercede all prior communications and proposals, whether electronic, oral or written between you and Miles Kimball with respect to this Website. No modification of the Terms and Conditions shall be effective unless done so by Miles Kimball or its representative.   
   
-Back to top of page
+_Back to top of page_
