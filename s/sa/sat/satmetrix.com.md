@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the satmetrix.com privacy policy that was archived on 2006-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061119140858id_/http%3A//www.satmetrix.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satmetrix.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629042957id_/http%3A//www.satmetrix.com/company/privacy.htm) for the most accurate reproduction.*
 
 # Satmetrix Systems - Customer Experience Management Solutions
 
+| 
+
 ###  Effective Date: August 26, 2005
 
-This Privacy Statement explains the data practices of Satmetrix Systems, Inc. ("Satmetrix" or "Us"). Part I describes our data practices with respect to Personal Data (as defined below) that Satmetrix processes on behalf of its clients; and Part II describes our data practices with respect to information we collect about our business contacts and other visitors to the Satmetrix website. The general provisions in Part III apply to our data practices in both Part I and Part II.
+This Privacy Statement explains the data practices of Satmetrix Systems, Inc. ("Satmetrix" or "Us"). This privacy statement covers the sites [www.satmetrix.com](https://web.archive.org/web/20070629042957id_/http%3A//www.satmetrix.com/company/www.satmetrix.com) and [www.ccsurvey.com](https://web.archive.org/web/20070629042957id_/http%3A//www.satmetrix.com/company/www.ccsorveu.com). Part I describes our data practices with respect to Personal Data (as defined below) that Satmetrix processes on behalf of its clients; and Part II describes our data practices with respect to information we collect about our business contacts and other visitors to the Satmetrix website. The general provisions in Part III apply to our data practices in both Part I and Part II.
 
-[](http://www.truste.org/ivalidate.php?url=www.satmetrix.com&sealid=103)Satmetrix is a licensee of the TRUSTe Privacy Program and the TRUSTe EU Safe Harbor Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. Satmetrix has agreed to disclose its information practices in this Privacy Statement and have its privacy practices reviewed for compliance by TRUSTe.
+[](http://www.truste.org/ivalidate.php?url=www.satmetrix.com&sealid=103)Satmetrix is a licensee of the TRUSTe Privacy Program and the TRUSTe EU Safe Harbor Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. Satmetrix has agreed to disclose its information practices in this Privacy Statement and have its privacy practices reviewed for compliance by TRUSTe. We participate in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. As part of our participation in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. 
 
-If you have questions or concerns regarding this statement, you should first contact the Satmetrix Operations Department via [privacy form](https://web.archive.org/company/privacyform.htm) If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [Truste](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Satmetrix Systems to resolve your concerns. 
+If you have any complaints regarding our compliance with the Safe Harbor you should first contact us via our [privacy form](https://web.archive.org/company/privacyform.htm). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at <http://www.truste.org/consumers/watchdog_complaint.php>, fax at 415-618-3421, or mail at Watchdog Complaints, TRUSTe, 685 Market Street, Suite 270, San Francisco, CA, USA 94105. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: our name, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint to be shared with us. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see [ http://www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
 
 **PART I  
 PERSONAL DATA PROCESSED ON BEHALF OF SATMETRIX CLIENTS**
@@ -50,7 +52,7 @@ In addition to the data we process on behalf of our Clients, Satmetrix also proc
 
 **1.** COLLECTION AND USE OF BUSINESS CONTACT DATA
 
-The individuals who represent Satmetrix's Clients or potential Clients ("Business Contacts") may voluntarily provide their contact information and related data (collectively "Business Contact Data") to Satmetrix by various means, including telephone, email, postal mail, the "contact us" or "download" page on the Satmetrix site, or other means.The Business Contact Data submitted to Satmetrix is used to communicate with and provide services for Clients and potential Clients. Satmetrix corrects or updates Business Contact Data when a request by the applicable Business Contact is requested. To send a request please fill out the [privacy form](https://web.archive.org/company/privacyform.htm) or mail to Satmetrix Systems, Inc.; 950 Tower Lane, Suite 500, Foster City, CA 94404 USA. We will respond to your request for access within 30 days. 
+The individuals who represent Satmetrix's Clients or potential Clients ("Business Contacts") may voluntarily provide their contact information and related data (collectively "Business Contact Data") to Satmetrix by various means, including telephone, email, postal mail, the "contact us" or "download" page on the Satmetrix site, or other means.The Business Contact Data submitted to Satmetrix is used to communicate with and provide services for Clients and potential Clients. Satmetrix will change, update or delete Business Contact Data when a request by the applicable Business Contact is requested. To send a request please fill out the [privacy form](https://web.archive.org/company/privacyform.htm) or mail to Satmetrix Systems, Inc.; 950 Tower Lane, Suite 500, Foster City, CA 94404 USA. We will respond to your request for access within 30 days. 
 
 When a Business Contact accesses reports through Satmetrix's servers, or otherwise uses the Satmetrix site, our servers may place persistent cookies on the Business Contact's computer in order to keep track of the Business Contact's personalized settings. 
 
@@ -85,7 +87,7 @@ Any questions, comments, or complaints about the data practices (including witho
 
 **4.** **Notification of Changes**
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a prominent notice on our Web site. 
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a prominent notice on our Web site. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage. 
 
 **5.** **Choice / Opt-out**
 
@@ -96,3 +98,13 @@ We provide you the opportunity to 'opt-out' of having your personally identifiab
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site. 
 
 top
+
+| 
+
+Increase your Net Promoter® score Learn what metrics are involved in Net Promoter assessments, and how you can improve long-term growth.  
+» [Learn how](https://web.archive.org/technology/netPromoter.htm)  
+
+
+[](https://web.archive.org/company/contactform.htm)
+
+[](https://web.archive.org/services/bcs-optimize-cem.htm)
