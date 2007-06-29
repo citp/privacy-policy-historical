@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bbtoystore.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207140315id_/http%3A//www.bbtoystore.com/CS_privacy-collectibles-gift-sale.html%23privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbtoystore.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629222305id_/http%3A//www.bbtoystore.com/store/CS_privacy.html%23privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy: BBToyStore.com - TY Beanie Babies, Yu-Gi-Oh Cards, Beanie Baby, Yugioh cards, for sale, buy & sell
+# Privacy Policy: BBToyStore.com - Ty Beanie Babies, Webkinz, Yugioh Yu-gi-oh trading cards for sale buy sell plush
 
 * * *
 
@@ -50,7 +50,7 @@ Thorofare, NJ 08086
 **_Warehouse Address:_**  
 BB Novelties, LLC  
 1301 Metropolitan Ave, Suite #5  
-Paulsboro, NJ 08066
+West Deptford, NJ 08066
 
 Email Address [sales@bbtoystore.com](mailto:sales@bbtoystore.com)   
 
