@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the electronicsinfoline.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210034845id_/http%3A//www.electronicsinfoline.com/cgi-bin/Redirect/go.cgi%3Fl%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electronicsinfoline.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629021232id_/http%3A//www.electronicsinfoline.com/cgi-bin/Redirect/go.cgi%3Fl%3Dprivacy) for the most accurate reproduction.*
 
 # ElectronicsInfoline.com | Privacy Policy
 
-| 
-
 ### Introduction
 
-We take your right to privacy seriously and want you to feel comfortable using our web site. This Privacy Policy deals with personally identifiable information (referred to as "Data" below) that may be collected by us on our site. This Policy does not apply to other entities that we do not own or control or persons that are not our employees, agents or within our control. Please take time to read our [Terms of Use](http://www.electronicsinfoline.com/corporate/conditions.php). 
+We take your right to privacy seriously and want you to feel comfortable using our web site. This Privacy Policy deals with personally identifiable information (referred to as "Data" below) that may be collected by us on our site. This Policy does not apply to other entities that we do not own or control or persons that are not our employees, agents or within our control. Please take time to read our [Terms of Use](https://web.archive.org/corporate/conditions.shtml). 
 
 ### Collection of Data.
 
-Our registration process requires only a valid e-mail address and a unique user ID and password. Providing us with other information is at your option. The only personally identifiable information collected on this site is submitted to us freely and deliberately by site users. Please take note that your user name, e-mail address, or other submissions that you make on this site may contain your real name or other personally identifiable information and, as a result, may appear on this site. 
+Right at this moment, you only need to register in our site, if you want to buy a kit from us. At minimum, our registration process requires your full name, shipping address, date of birth, and a valid e-mail address. Providing us with other information is at your option. 
 
 ### Use of Data.
 
-We may use Data to customize and improve your user experience on this site. We will make efforts so that your Data will not be provided to third parties unless (i) provided for otherwise in this Privacy Policy; (ii) we obtain your consent, such as when you choose to opt-in or opt-out to the sharing of Data; (iii) a service provided on our site requires the interaction with or is provided by a third party, by way of example an Application Service Provider; (iv) pursuant to legal process or law enforcement; (v) we find that your use of this site violates our this Policy, Terms of Service, other usage guidelines or as deemed reasonably necessary by us to protect our legal rights and/or property; (vi) or (vi) this site is purchased by a third party whereby that third party will be able to use the Data in the same manner as we can as set forth in this Policy. In the event you choose to use links that appear on our site to visit other web sites, you are advised to read the privacy policies that appear on those sites. 
+We may use Data to customize and improve your user experience on this site. We always take extreme care so that your personal Data will not be provided to third parties unless pursuant to legal process or law enforcement; (v) we find that your use of this site violates our this Policy, Terms of Service, other usage guidelines or as deemed reasonably necessary by us to protect our legal rights and/or property. 
 
 ### Credit Card Information.
 
@@ -30,7 +28,7 @@ Server logs capture certain non-personally identifying data, such as the time an
 
 ### Children.
 
-We do not allow persons who are ages thirteen or younger to become members of this site. For more information, please contact [our webmaster](http://www.electronicsinfoline.com/rcl/contact_us.php). 
+We do not allow persons who are ages thirteen or younger to become members of this site. For more information, please contact [our webmaster](https://web.archive.org/rcl/contact_us.php). 
 
 ### Changes to this Privacy Policy.
 
@@ -42,4 +40,4 @@ While this Privacy Policy states our standards for maintenance of Data and we wi
 
 ### Contact Information.
 
-If you have any questions about this Policy or our web site, please feel free to contact [our webmaster](http://www.electronicsinfoline.com/rcl/contact_us.php).  | 
+If you have any questions about this Policy or our web site, please feel free to contact [our webmaster](https://web.archive.org/rcl/contact_us.php).  |  | 
