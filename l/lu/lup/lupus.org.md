@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the lupus.org privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208235105id_/http%3A//www.lupus.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lupus.org privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630223308id_/http%3A//www.lupus.org/webmodules/webarticlesnet/templates/new_empty.aspx%3Farticleid%3D283%26zoneid%3D76) for the most accurate reproduction.*
 
-# Privacy Policy Statement - Lupus Foundation of America, Inc.
+# LUPUS FOUNDATION OF AMERICA
 
-_Privacy Policy Statement_
-
-* * *
+## Privacy
 
 The Lupus Foundation of America is committed to protecting the privacy of its visitors. Information gathered through the LFA web site is used to monitor our site's effectiveness and to respond to your questions and requests. 
 
@@ -20,12 +18,15 @@ E-mail addresses provided to us through the "E-advocates," "Mailing List," “LF
 
 When you order products or services from the "LFA Store" or make a donation online, we need to know your name, e-mail address, mailing address, credit card number, and expiration date. This allows us to process, fulfill, and acknowledge your order or donation. Secure server software encrypts all information you input before it is sent to us. 
 
-The LFA periodically exchanges only the names and mailing addresses of our donors and store customers with other organizations. We do not provide information about the amount donated or its purpose, or the products you purchased through our store. You may request that we not sell or exchange your name and mailing information by sending an email message to [info@lupus.org ](mailto:info@lupus.org) that includes your full name, mailing address and a request that we not exchange your information with other organizations. 
+The LFA periodically exchanges only the names and mailing addresses of our donors, subscribers, and store customers with other organizations. We do not provide information about the amount donated or its purpose, or the products or publications that you purchased from us or one of our cause-related marketing partners. You may request that we not sell or exchange your name and mailing information by sending an email message to [info@lupus.org ](mailto:info@lupus.org)that includes your full name, mailing address and a request that we not exchange your information with other organizations. 
 
-You may receive periodic mailings from the Lupus Foundation of America via the U.S. mail. If you do not wish to receive such mailings please provide your full name, mailing address, and a sentence requesting deletion of your postal information from our files, and E-mail it to [info@lupus.org ](mailto:info@lupus.org), or you can write to us at LFA, 2000 L Street, N.W., Suite 710 , Washington , DC , 20036 . 
+You may receive periodic mailings from the Lupus Foundation of America via the U.S. mail. If you do not wish to receive such mailings please provide your full name, mailing address, and a sentence requesting deletion of your postal information from our files, and E-mail it to [info@lupus.org ](mailto:info@lupus.org), or you can write to us at LFA, 2000 L Street, N.W., Suite 710 , Washington , DC  20036 - USA. 
 
 When you use the "E-mail This Article to A Friend" function available in the articles posted on the LFA Home page, your e-mail address is used only to let the recipient know who sent the link to the article, and in case of a transmission error. Your address and the recipient's address is not recorded and will not be used for any other purpose. 
 
-By using the Lupus Foundation of America Web site, you consent to the collection and use of the information described above. Any changes to this policy will be posted prior to their implementation. 
+By using the Lupus Foundation of America Web site, you consent to the collection and use of the information described above. Any changes to this policy will be posted. 
 
-Revised June 20, 2005 
+_Revised  September 20, 2006 \- Subject to change without notice._
+
+  
+
