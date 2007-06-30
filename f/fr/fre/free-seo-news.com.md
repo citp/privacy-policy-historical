@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-seo-news.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205184210id_/http%3A//www.axandra.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-seo-news.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630101335id_/http%3A//www.axandra.com/privacy.htm) for the most accurate reproduction.*
 
 # Axandra privacy policy
 
@@ -67,7 +67,7 @@ Axandra GmbH wants you to be aware that when you click on links that take you to
 
 We welcome comments and questions. Please contact us at [support@Axandra.com.](mailto:support@Axandra.com)
 
-[Click here to go to our home page.](https://web.archive.org/web/20061205184210id_/http://www.axandra.com/company/index.htm)
+[Click here to go to our home page.](https://web.archive.org/web/20070630101824id_/http://www.axandra.com/company/index.htm)
 
 **Our 100% guarantee**
 
