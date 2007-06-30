@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the micron.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230145421id_/http%3A//www.micron.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micron.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630201448id_/http%3A//www.micron.com/privacy) for the most accurate reproduction.*
 
 # Micron Privacy Policy
 
@@ -39,7 +39,7 @@ We may use your IP address to help diagnose problems with our servers, administe
 **Cookies**  
 Our Web servers may place small bits of text or "cookies" onto your computer's hard drive and memory. Cookies enable us to identify you so you do not have to re-enter certain information each time you visit our sites and allow us to keep track of your shopping choices.
 
-Often we use third-party services to help us measure the effectiveness of our Web site. Specifically, we use WebSideStory. This company may place third-party cookies on your hard drive to help us analyze the traffic on our Web site and better meet our customers' needs. This does not give Micron or any other company access to your personal information or other information on your computer. We do not track or store any personally identifiable information. If you are concerned, you can set your browser to decline third-party cookies, or you can delete these cookies from your hard drive. To learn more about our partnership and their privacy policies, or to opt out of receiving cookies from them, go to <http://websidestory.com/privacy>
+Often we use third-party services to help us measure the effectiveness of our Web site. Using the site may place cookies on your hard drive to help us analyze the traffic on our Web site and better meet our customers' needs. This does not give Micron or any other company access to your personal information or other information on your computer. We do not track or store any personally identifiable information.
 
 **Agents**  
 We may employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), and providing customer service. 
