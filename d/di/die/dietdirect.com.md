@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dietdirect.com privacy policy that was archived on 2006-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060904021951id_/http%3A//dietdirect.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dietdirect.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630170658id_/http%3A//www.dietdirect.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# DietDirect.com - Privacy Policy
 
-Privacy Policy
+## Privacy Policy
 
 DietDirect.com understands that you are concerned about how your information is used and shared, and we appreciate your trust that we will do so responsibly. Our privacy policy is explained below, and by visiting DietDirect.com you accept our Privacy Notice.
 
