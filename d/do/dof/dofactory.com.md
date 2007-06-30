@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the dofactory.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211183003id_/http%3A//dofactory.com/Terms/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dofactory.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630155517id_/http%3A//www.dofactory.com/Terms/Privacy.aspx) for the most accurate reproduction.*
 
-# Design Patterns and .NET training for professional developers
-
-training and education for professional developers
-
-| 
+# Design Patterns, AJAX, and .NET training for professional developers| Privacy
 
 Data & Object Factory is committed to protecting your privacy. This Statement of Privacy applies to the Data & Object Factory Web site (dofactory.com) and governs information collection and usage of this information. 
 
@@ -18,7 +14,7 @@ Data & Object Factory also gathers anonymous information which can include: your
 
 Data & Object Factory does not sell, rent or lease its customer list to third parties. Data & Object Factory keeps track of the pages our customers visit in order to determine what courses and services are of interest to your customers. This data may be used to deliver customized content within the Data & Object Factory Web site to users whose navigational patterns indicate that they are interested in a particular subject area. 
 
-Data & Object Factory Web may disclose your personal information, without notice, only when (a) responding to subpoenas, court orders or legal process, or when (b) your actions on the Data & Object Factory Web site violate the [_terms of use_](https://web.archive.org/web/20061211183003id_/http%3A//dofactory.com/Terms/terms.aspx). 
+Data & Object Factory Web may disclose your personal information, without notice, only when (a) responding to subpoenas, court orders or legal process, or when (b) your actions on the Data & Object Factory Web site violate the [_terms of use_](https://web.archive.org/web/20070630155517id_/http%3A//www.dofactory.com/Terms/terms.aspx). 
 
 ## Cookies
 
@@ -31,5 +27,3 @@ Data & Object Factory customer information is password-protected for your privac
 ## Changes to this Statement
 
 Data & Object Factory may amend this policy from time to time. If we make any substantial changes in the way we use your information you will see the word "updated" next to the Privacy Statement link on the front page of the Data & Object Factory Web site. Data & Object Factory encourages you to periodically review this Statement so as to be aware of any changes. 
-
-| 
