@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crea.ca privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206221701id_/http%3A//www.crea.ca/public/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crea.ca privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630140008id_/http%3A//crea.ca/public/legal/privacy.htm) for the most accurate reproduction.*
 
 # CREA
 
@@ -134,10 +134,9 @@ William D. Harrington
 
 The Chief Privacy Compliance Officer (CPCO),  
 The Canadian Real Estate Association  
-344 Slater Street, Suite 1600  
-Canada Building  
-Ottawa, Ontario  
-K1R 7Y3  
+200 Catherine Street, 6th Floor  
+Ottawa, ON  
+K2P 2K9  
 Phone: (613) 237-7111  
 Fax: (613) 234-2567  
 Email: [**privacy@crea.ca**](mailto:privacy@crea.ca)
