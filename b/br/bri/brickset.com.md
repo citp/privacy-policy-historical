@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the brickset.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206231303id_/http%3A//brickset.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brickset.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630041829id_/http%3A//www.brickset.com/misc/privacy.aspx) for the most accurate reproduction.*
 
-# Brickset
-
-[Home](https://web.archive.org/web/20061206231303id_/http%3A//brickset.com/default.aspx) >
+# Brickset: LEGO set reference | Privacy policy
 
 Brickset is an online LEGO set database which welcomes LEGO enthusiasts of all ages. In order to comply with United States regulations limiting online danger to children under 13 years of age, we hereby post this privacy policy.
 
@@ -14,14 +12,16 @@ This site is owned and operated by three administrators. These three individuals
 
   * Huw Millington
   * Grahame Reid
-  * Matthew Chiles
 
 
 
-Official communication to Brickset can be sent to:  
-Brickset, 40 Farm Close, East Grinstead, W. Sussex. RH19 3QG, United Kingdom.
+Official communication to Brickset can be sent to:
 
-[info@Brickset.com](mailto:info@Brickset.com?subject=\[Brickset%20privacy%20policy\])
+Brickset  
+50 Maple Rise  
+Whiteley  
+PO15 7GT  
+United Kingdom.
 
 ### Information Collected
 
@@ -37,4 +37,4 @@ We only collect and keep the minimum amount of information necessary to perform 
 
 Parents of a child who has joined Brickset can ask us for access to, or to remove, the information pertaining to the child upon reasonable proof that the requestor is in fact the parent or guardian of that user.
 
-Maintaining online safety and privacy is a prime concern of Brickset administrators. If you have a concern about the privacy of you or your child, please contact us at [info@Brickset.com](mailto:info@Brickset.com?subject=\[Brickset%20privacy%20policy\]).
+Maintaining online safety and privacy is a prime concern of Brickset administrators. If you have a concern about the privacy of you or your child, please [contact us](https://web.archive.org/web/20070630041829id_/http%3A//www.brickset.com/misc/contact.aspx "Contact us by email")
