@@ -1,69 +1,66 @@
-> *The following text is extracted and transformed from the smallnetbuilder.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206084255id_/http%3A//www.smallnetbuilder.com/Sections-article9.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallnetbuilder.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630061504id_/http%3A//www.smallnetbuilder.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Small Net Builder Privacy Policy : Small Net Builder : Real Help for Your Small Network from Tim Higgins
+# SmallNetBuilder - Privacy Policy
 
-Small Net Builder Privacy Policy  [](https://web.archive.org/web/20031206084255id_/http%3A//www.smallnetbuilder.com/Sections-print-article9.php)  
+### SmallNetBuilder Privacy Policy
 
-Although Small Net Builder is not a member of **[TRUSTe](https://www.truste.org/)** , we abide by their general principles and therefore make the following information available to you.
+SmallNetBuilder (hereinafter referred to as "SNB") is committed to ensuring the privacy of its readers and registered members and wants you to fully understand our terms and conditions This privacy statement describes how any personal, and anonymous, information is collected and managed and how you can request changes to any sharing of this information that may occur.
 
-Questions on this topic can be sent to **[feedback@smallnetbuilder.com](mailto:feedback@smallnetbuilder.com)**.
+### Statistical Reports
 
-**1) What information this site gathers/tracks about you.**
+SNB's servers automatically recognize a visitor's IP address and domain name. These items do not reveal any personal information about the visitor. The information is used solely to compile statistics that enable us to examine page impression levels and numbers of unique users visiting our Web sites. This information helps us to understand the areas of our sites that people visit in order to deliver more effective content.
 
-  * We gather tracking information derived mainly by tallying page views throughout our site. This information enables us to better tailor our content to readers' needs. 
+### Cookies
 
-  * **Polls** allow users to register their opinion on various topics. Date, time, and User IP address are logged along with the poll information. 
+Like most other Web sites, SNB uses cookies. Cookies are small data files that some Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited. Cookies do not tell us who you are unless you've specifically given us personally identifiable information. A cookie can't read data off your hard drive or read cookie files created by other sites.
 
-  * Contact forms are used to request further information from us. 
+SNB uses cookies to allow automatic logins to improve your experience with our sites. For example, we may use a cookie to identify our logged-in members so they don't have to re-enter a user id and password when they return to the site. Cookies can also be used to help us to better understand how visitors interact with our sites leading to the delivery of more relevant content, or they can be used to control the number of times an advertisement is served to the same visitor. 
 
-  * We use "cookies" on the site to see whether a visitor is logged in or not, and to identify a logged-in user so that the site's personalization features work. 
+Cookies may be created directly by our sites for these purposes, or by third-party companies operating on our behalf. Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. 
 
-    * A cookie is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited. _But the only personal information a cookie can contain is information you supply yourself_. A cookie can't read data off your hard disk or read cookie files created by other sites. 
+Most web browsers automatically accept cookies but allow you to modify security settings so you can approve or reject cookies on a case-by-case basis.
 
-If you've set your browser to warn you before accepting cookies, you may receive the warning message with each cookie. 
+### Pixel Tags
 
-You can refuse cookies by turning them off in your browser. 
+SNB may also use pixel tags, also known as beacons, web bugs or clear gifs, to improve our understanding of site traffic, visitor behavior, and response to promotional campaigns, as a supplement to our server logs and other methods of traffic and response measurement. Pixel tags are sometimes used in conjunction with small Javascript-based applications, also for the purpose of traffic measurement. We may also implement pixel tags provided by other companies, for the same purpose.
 
+### Online Ad Serving
 
+SNB uses third-party advertising service companies to serve some of the advertisements on our sites, and, in some cases, in our newsletters. Often, these third-party advertising companies employ cookie and pixel tag technologies to measure the effectiveness of Web and e-mail advertisements. These companies may use information about your visits to our and other web sites in order to provide advertisements about goods and services of interest to you. We do not give any personally identifiable information to them as part of this relationship. Use of their tracking technology is subject to their own privacy policies. For more information about the privacy policies of leading third-party advertising providers including information on how to opt out of their tracking methods go to [networkadvertising.org](http://www.networkadvertising.org/).
 
+### Newsletters / Mailing Lists
 
-**2) What this site does with the information it gathers/tracks**
+Through the registration process for various services or features, we may request personal information such as your e-mail address, company information, your name, job title, etc. We will never give your personal information to any third party vendor without your prior consent. We do, however, make our email and postal lists available, on a rental basis, to carefully screened providers of related goods and services. These activities help us to pay for the daily information we provide on SNB. If you do not wish to receive information from third party vendors, please use the unsubscribe link provided in the email. If you do not wish to receive our newsletter, please use the unsubscribe link provided in the newsletter.
 
-  * Tracking information is used to improve site content and to provide advertisers with aggregate page view information.  No information is provided on individual users. 
+### SNB Email Announcements
 
-  * Poll information is also used to improve site content and to allow users to share their opinions with others.  Tallied poll results are available to all site visitors. 
+In addition, we may, from time to time, send you e-mails announcing new SNB site features and initiatives. If you do not wish to receive messages of this nature from SNB, please use the unsubscribe link provided in the email. Finally, if we run a contest or promotion, we may ask you for your full name and address in order to properly manage the promotion contests and to deliver notification to winners.
 
-  * Contact information is used only by us to respond to visitor requests. 
+##### Necessary Disclosure
 
+The necessary disclosure of any of the above information to third parties will be governed by the following principles:
 
+1\. Where SNB is required to do so by law and any order of the court.  
+2\. Where it is necessary to identify anyone who may be violating the rights of others or the law in general.  
+3\. Where SNB intends to co-operate with the investigation of any alleged unlawful activities without being required to by virtue of any court order or other legal requirement.  
+4\. Where it is necessary to protect the rights of SNB. 
 
+##### Surveys
 
-**3) With whom this site shares the information it gathers/tracks**
+Occasionally, SNB conducts user surveys to better understand the needs of our audience in order to improve our features. We sometimes share the aggregated demographic information in these surveys with our advertisers and partners. We never share any information about specific individuals with any third party without the user's consent.
 
-  * We use the above-described information to tailor our content to suit your needs and help our advertisers decide whether to support us. This is essential to keeping our service free. 
+##### Security
 
-  * We do not share or sell information about individual users with any third party. 
+We use all reasonable precautions to securely maintain all information given to us by our registered members and we are not responsible for any breach of the reasonable security measures installed to protect the said information. We are not responsible for the private policies of any site linked to, or from, SNB.
 
+##### Opt Out Policy
 
+SNB gives users options whenever necessary, and practical. Such choices include: Opting not to receive our electronic messages, opting not to provide certain optional personal information when registering for an account.
 
+##### Transfer of Information
 
-**4) This site's opt-out policy**
+SNB reserves the right to transfer any information accumulated as described above in the event of the sale of part or all of SNB assets and/or stock. By visiting our Web sites you consent to the collection and use of information in the manner herein described.
 
-  * We don't require registration for any of our services or content, so there isn't anything to "opt-out" of. 
+##### Privacy Policy Changes
 
-
-
-
-**5) This site's policy on correcting and updating personally identifiable information**
-
-  * We don't require registration for any of our services, so there is no information to correct. 
-
-
-
-
-**6) This site's policy on deleting or deactivating your name from its database**
-
-  * We don't require registration for any of our services, so there is no user database 
-
-
-
+This Privacy Policy may be modified from time to time. Any modifications to our Privacy Policy will be reflected on this page. If there is a significant change, we will indicate it on our sites and provide a link to the new policy.
