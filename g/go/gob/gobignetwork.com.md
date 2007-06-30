@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gobignetwork.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208202224id_/http%3A//www.gobignetwork.com/HelpFiles/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gobignetwork.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630104124id_/http%3A//www.gobignetwork.com/HelpFiles/privacy.aspx) for the most accurate reproduction.*
 
 # Go BIG Network : The BIGGEST network for STARTUP opportunities!
-
-**Privacy Policy**
 
 The privacy of Go Big Network users and their information is extremely important to Go Big Media and we take this matter very seriously. All users of the Go Big Network are covered by the following Privacy Policy. The Go Big Network reserves the right to update this Privacy Policy. If required to do so, or it is in our best interest, Go Big Media may release user information in compliance with law enforcement agencies. 
 
