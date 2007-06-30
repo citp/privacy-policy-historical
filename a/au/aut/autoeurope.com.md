@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoeurope.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021013559id_/http%3A//www.autoeurope.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoeurope.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630073232id_/http%3A//www.autoeurope.com/privacy.cfm) for the most accurate reproduction.*
 
 # Auto Europe Privacy Policy Description
 
@@ -25,6 +25,9 @@ Please note that this site is operated on servers controlled by Auto Europe, LLC
 **Affiliates**  
 If you have communicated with one of our affiliates with respect to your request or booking, you will have been informed that those services are provided by us and you agree and recognize that personal data which you will have provided to our affiliates will be used by us in accordance with the terms of this Privacy Policy.
 
+**Prohibited Uses**  
+It is prohibited to use any device, software or routine, directly or indirectly, to interfere or attempt to interfere with the proper working of this web site, any activity being conducted on this site or to place any undo load or stress upon our systems. We monitor access to the site for data scrapers and automated access of information and we will block processes engaging in these activities.
+
 |  |  **Privacy Tools**  
 ---  
 [**Delete Cookies**](https://web.archive.org/cookiecutter.html)  
@@ -43,6 +46,10 @@ If you are having trouble reading our email travel newsletter, this will allow y
 * * *
 
 [**Opt-In/Opt-Out**](https://web.archive.org/opt_out.cfm)  
-You can use this form to specify whether we may share your personal information with others.   
+You can use this form to specify whether we may share your personal information with others. 
+
+* * *
+
+[**Web Site Terms & Conditions**](https://web.archive.org/web/20070630073232id_/http%3A//www.autoeurope.com/site-terms.cfm)  
   
 [About SSL Certificates](http://www.verisign.com/ssl/ssl-information-center/)
