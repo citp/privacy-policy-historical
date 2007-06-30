@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alfresco.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206065646id_/http%3A//www.alfresco.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alfresco.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630033756id_/http%3A//www.alfresco.com/privacy) for the most accurate reproduction.*
 
-# Alfresco Privacy Policy
+# Alfresco Open Source Enterprise Content Management - Privacy Policy
 
 Alfresco Software, Inc. ("Alfresco") respects your privacy and is committed to protecting your personal information that you provide to us. This statement explains our policies and practices regarding the use and disclosure of your personal information by Alfresco. Please note that, Alfresco reviews and updates this Privacy Policy from time to time as needed without notice. Therefore, you should review the terms of this policy periodically to make sure that you are aware of how Alfresco collects and uses personal information. By using our web site, you consent to the collection and use of your personal information by Alfresco as explained below. 
 
@@ -38,4 +38,4 @@ Please also see our Legal Information, which describes the restrictions, disclai
 
 ## 9\. General.
 
-If you have questions regarding our Privacy Statement, please contact us at [info at alfresco](mailto:info@alfresco.com) . For other general questions, please go to our [Contacts](https://web.archive.org/web/20061206065646id_/http://www.alfresco.com/contact/) page. 
+If you have questions regarding our Privacy Statement, please contact us at [info at alfresco](mailto:info@alfresco.com) . For other general questions, please go to our [Contacts](http://www.alfresco.com/contact/) page. 
