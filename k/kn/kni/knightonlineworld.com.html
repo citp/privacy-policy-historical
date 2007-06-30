@@ -1,567 +1,449 @@
-<!--The following is the downloaded HTML source of the knightonlineworld.com privacy policy that was archived on 2006-10-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061025183915id_/http%3A//www.knightonlineworld.com/index.php%3Fpg%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the knightonlineworld.com privacy policy that was archived on 2007-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070630180233id_/http%3A//knightonlineworld.com/privacy_policy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Strict//EN"><html><head>
- 
- 
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
- 
- 
-<title>Official&nbsp; Knight&nbsp; Online&nbsp; World</title>
- 
-<link href="kol.css" rel="stylesheet" type="text/css">
- 
-<script type="text/JavaScript">
- 
-<!--
- 
-function MM_swapImgRestore() { //v3.0
- 
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
- 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+<title>Official Knight Online World Website - Privacy Policy</title>
+<meta name="keywords" content="K2, K2 Network, Knight Online World">
+<meta name="description" content="Official Knight Online World Website -- Privacy Policy">
+<meta name="Owner" content="K2Network, Inc.">
+<meta http-equiv="imagetoolbar" content="false">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-9">
+<link rel="stylesheet" type="text/css" href="_inc/style.css">
+<script language="text/javascript" type="text/javascript" src="_inc/scripts.js"></script>
+<script defer="" type="text/javascript" src="_inc/pngfix.js"></script>
+<script type="text/javascript">
+function toggleNav (){
+toggleMe('106');
 }
- 
- 
- 
-function MM_preloadImages() { //v3.0
- 
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
- 
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
- 
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
- 
+
+function loadHeight(height) {
+swapHeight(height, false);
 }
- 
- 
- 
-function MM_findObj(n, d) { //v4.01
- 
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
- 
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
- 
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
- 
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
- 
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
- 
+
+function getChapter() {
+    pageSize = new Array('','825','700','750','600','700','600','500','750','700','825','500')
+	document.getElementById('chapter1').className = 'selected';
+	loadHeight(pageSize[1]);
 }
- 
- 
- 
-function MM_swapImage() { //v3.0
- 
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
- 
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
- 
+
+function addLoadEvent(func) {
+  var oldonload = window.onload;
+  if (typeof window.onload != 'function') {
+  window.onload = func;
+  } else {
+  window.onload = function() {
+  oldonload();
+  func();
+  }
+ }
 }
- 
- 
- 
-function MM_validateForm() { //v4.0
- 
-  var i,p,q,nm,test,num,min,max,errors='',args=MM_validateForm.arguments;
- 
-  for (i=0; i<(args.length-2); i+=3) { test=args[i+2]; val=MM_findObj(args[i]);
- 
-    if (val) { nm=val.name; if ((val=val.value)!="") {
- 
-      if (test.indexOf('isEmail')!=-1) { p=val.indexOf('@');
- 
-        if (p<1 || p==(val.length-1)) errors+='- '+nm+' must contain an e-mail address.\n';
- 
-      } else if (test!='R') { num = parseFloat(val);
- 
-        if (isNaN(val)) errors+='- '+nm+' must contain a number.\n';
- 
-        if (test.indexOf('inRange') != -1) { p=test.indexOf(':');
- 
-          min=test.substring(8,p); max=test.substring(p+1);
- 
-          if (num<min || max<num) errors+='- '+nm+' must contain a number between '+min+' and '+max+'.\n';
- 
-    } } } else if (test.charAt(0) == 'R') errors += '- '+nm+' is required.\n'; }
- 
-  } if (errors) alert('The following error(s) occurred:\n'+errors);
- 
-  document.MM_returnValue = (errors == '');
- 
-}
- 
- 
- 
-function logout()
- 
-{
- 
-  var URL = 'http://www.knightonlineworld.com/logout.php';
- 
-  var params = 'top=20,left=80,width=300,height=200,minimized=yes,resizable=no,scrollbars=no,titlebar=no,menubar=no,status=no';
- 
-  newWin = window.open(URL,"",params);
- 
-}
- 
- 
- 
-//-->
- 
+
+
+   addLoadEvent(toggleNav);
+    var url=location.href;
+   if(url.match("story")) { addLoadEvent(getChapter); }
 </script>
- 
-<script language="Javascript">
- 
-<!-- 
- 
-var x = 10;
- 
-var y = 1;
- 
- 
- 
-function startClock()
- 
-{
- 
-   x = x-y;
- 
-   document.blah.clock.value = x;
- 
-   setTimeout("startClock()", 500);
- 
-   if(x==0)
- 
-   {
- 
-      document.location='index.php';
- 
-      x=3; 
- 
-   } 
- 
-}
- 
-//-->
- 
-</script>
- 
-<script language="JavaScript">
- 
-function popUp(URL) {
- 
-day = new Date();
- 
-id = day.getTime();
- 
-eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=400,height=600,left = 415,top = 177');");
- 
-}
- 
-// End -->
- 
-</script>
- 
-<script language="JavaScript">
- 
-   window.name = "main";
- 
-// End -->
- 
-</script>
- 
-<script type="text/JavaScript" src="lib/formFunctions.js"></script>
- 
-<script type="text/JavaScript" src="lib/passwordvalidator.js"></script>          
- 
+<noscript>
+<META HTTP-EQUIV="Refresh" CONTENT="0;URL=javascript_disabled.php">
+</noscript>
 </head>
- 
-<body onunload="if (screenTop > 9999) logout();" oncontextmenu="return false" onload="MM_preloadImages('images/navbar/nav_01_dn.jpg','images/navbar/nav_02_dn.jpg','images/navbar/nav_03_dn.jpg','images/navbar/nav_04_dn.jpg','images/navbar/nav_05_dn.jpg','images/navbar/nav_06_dn.jpg','images/navbar/nav_07_dn.jpg','images/server_status_on.jpg','images/download_ke_on.jpg','images/mirror1_on.jpg','images/mirror2_on.jpg','images/no_boxes.jpg')">
- 
- 
-<div id="sStatus" class="serverStatus" style="visibility: hidden; position: absolute; background-color:#FFFFFF; top: 180px; left: 80px; width: 185px; height: 196px; opacity: .85; filter: alpha(opacity=85); padding: 10px; padding-left: 13px; z-index: 30; text-align: center; background:url(images/sStatus_bg.gif);">
- 
-   <table width="185" border="0">
- 
-      <tbody><tr>
- 
-         <td width="80" style="font-size: 14px;" align="left">Zone</td>
- 
-         <td width="35"><div align="center">1</div></td>
- 
-         <td width="35"><div align="center">2</div></td>
- 
-         <td width="35"><div align="center">3</div></td>
- 
-      </tr>
- 
-   </tbody></table>
- 
-   <hr>
- 
-   <table width="185" border="0">
- 
-      <tbody><tr>
- 
-         <td width="80" align="left">Ares</td>
- 
-         <td width="35" align="center"><div class="sBox_red"></div></td>
- 
-         <td width="35" align="center"><div class="sBox_yellow"></div></td>
- 
-         <td width="35" align="center"><div class="sBox_red"></div></td>
- 
-      </tr>
- 
-      <tr>
- 
-         <td align="left">Diez</td>
- 
-         <td width="35" align="center"><div class="sBox_yellow"></div></td>
- 
-         <td width="35" align="center"><div class="sBox_yellow"></div></td>
- 
-         <td width="35" align="center"><div class="sBox_yellow"></div></td>
- 
-      </tr>
- 
-      <tr>
- 
-         <td align="left">Xigenon</td>
- 
-         <td width="35" align="center"><div class="sBox_yellow"></div></td>
- 
-         <td width="35" align="center"><div class="sBox_yellow"></div></td>
- 
-         <td width="35" align="center"><div class="sBox_yellow"></div></td>
- 
-      </tr>
- 
-      <tr>
- 
-         <td align="left">Beramus</td>
- 
-         <td width="35" align="center"><div class="sBox_yellow"></div></td>
- 
-         <td width="35" align="center"><div class="sBox_yellow"></div></td>
- 
-         <td width="35" align="center"><div class="sBox_yellow"></div></td>
- 
-      </tr>
- 
-      <tr>
- 
-         <td align="left">Cypher</td>
- 
-         <td width="35" align="center"><div class="sBox_yellow"></div></td>
- 
-         <td width="35" align="center"><div class="sBox_yellow"></div></td>
- 
-         <td width="35" align="center"><div class="sBox_yellow"></div></td>
- 
-      </tr>
- 
-      <tr>
- 
-         <td align="left">Olympia</td>
- 
-         <td width="35" align="center"><div class="sBox_yellow"></div></td>
- 
-         <td width="35" align="center"><div class="sBox_yellow"></div></td>
- 
-         <td width="35" align="center"><div class="sBox_green"></div></td>
- 
-      </tr>
- 
-      <tr>
- 
-         <td align="left">Edana</td>
- 
-         <td width="35" align="center"><div class="sBox_yellow"></div></td>
- 
-         <td width="35" align="center"><div class="sBox_green"></div></td>
- 
-         <td width="35" align="center"><div class="sBox_green"></div></td>
- 
-      </tr>
- 
-      <tr>
- 
-         <td align="left" colspan="10">
- 
-            <table width="100%" border="0">
- 
-               <tbody><tr>
- 
-                  <td><div class="sBox_red" style="float: left;"></div> high</td>
- 
-                  <td><div class="sBox_yellow" style="float: left;"></div> med</td>
- 
-                  <td><div class="sBox_green" style="float: left;"></div> low</td>
- 
-               </tr>
- 
+
+<body style="margin:0;background-image:url(_img/bck.jpg);">
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0" align="center">
+<tbody><tr>
+    <td width="50%" style="background-image:url(_img/bck_left.gif);background-position:right;background-repeat:repeat-y;"></td>
+    <td width="990">
+<table width="990" cellpadding="0" cellspacing="0" border="0" align="center">
+<tbody><tr>
+    <td width="264" height="234">
+        <table width="264" cellpadding="0" cellspacing="0" border="0">
+        <tbody><tr>
+            <td width="264" height="111"><script language="javascript">showflash('LOGO','264','111');</script><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="264" height="111" id="LOGO" align="middle"><param name="allowScriptAccess" value="sameDomain"><param name="movie" value="LOGO.swf"><param name="loop" value="false"><param name="menu" value="false"><param name="quality" value="high"><param name="wmode" value="transparent"><param name="bgcolor" value="#ffffff"><embed src="LOGO.swf" loop="false" menu="false" quality="high" wmode="transparent" bgcolor="#ffffff" width="264" height="111" name="LOGO" align="middle" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></object></td>
+        </tr>
+        <tr>
+            <td width="264" height="123" style="background-image:url(_img/login_bck.gif)" align="center" valign="top">
+                <table cellpadding="0" cellspacing="0" border="0">
+                <tbody><tr><td height="22"></td></tr>
+                <tr><form action="login_process.php" method="post" autocomplete="off"></form>
+                    <td>
+                        <table cellpadding="0" cellspacing="0" border="0">
+                        <tbody><tr>
+                            <td>
+                                <table cellpadding="0" cellspacing="0" border="0">
+                                <tbody><tr>
+                                    <td height="19"><img src="_img/label_userid_en.gif" width="55" height="19" alt="Userd Id" border="0" hspace="7"></td>
+                                    <td><input type="text" name="uname" maxlength="21" style="font-size:9px;width:103px;height:15px;border:1px;border-color:#000000;background-color:#cccccc;"></td>
+                                </tr>
+                                <tr><td colspan="2" height="7"></td></tr>
+                                <tr>
+                                    <td height="19"><img src="_img/label_pass_en.gif" width="55" height="19" alt="Password" border="0" hspace="7"></td>
+                                    <td><input type="password" name="pass" maxlength="21" style="font-size:11px;width:103px;height:15px;border:1px;border-color:#000000;background-color:#cccccc;"></td>
+                                </tr>
+                                </tbody></table>                            </td>
+                            <td width="44"><input type="image" src="_img/button_login_en.gif" width="44" height="27" alt="Login" hspace="7"></td>
+                        </tr>
+                        </tbody></table>
+                    </td>
+                
+                </tr><tr><td height="16"></td></tr>
+                <tr>
+                    <td>
+                        <table cellpadding="0" cellspacing="0" border="0">
+                        <tbody><tr>
+                            <td><a href="register.php"><img src="_img/button_register_en.gif" alt="Register" width="102" height="34" hspace="1" border="0"></a></td>
+                            <td><a href="forgot_password.php"><img src="_img/button_forgotpass_en.gif" alt="Forgot password" width="122" height="34" border="0"></a></td>
+                        </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+                </tbody></table>            </td>
+        </tr>
+        </tbody></table>    </td>
+    <td width="726" height="232">
+   <script language="JavaScript">
+
+// Generate a Random Number
+var randomnumber = Math.round(Math.random()*3);
+
+// Select a movie and execute the corresponding function
+if (randomnumber == 1)
+
+{movie1();}
+
+else if (randomnumber == 2)
+
+{movie2();}
+
+else {movie3();}
+
+//Functions to write out the correct flash movie resource.
+
+function movie1(){
+document.write("<object classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\" codebase=\"https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,2,0\" width=\"726\" height=\"232\"><param name=movie value=\"main-head-2.swf\"><param name=quality value=high><embed src=\"main-head-2.swf\" quality=high pluginspage=\"https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash\" type=\"application/x-shockwave-flash\" width=\"726\" height=\"232\"></embed></object>")
+}
+
+function movie2(){
+document.write("<object classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\" codebase=\"https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,2,0\" width=\"726\" height=\"232\"><param name=movie value=\"main-head-3.swf\"><param name=quality value=high><embed src=\"main-head-3.swf\" quality=high pluginspage=\"https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash\" type=\"application/x-shockwave-flash\" width=\"726\" height=\"232\"></embed></object>")
+}
+
+function movie3(){
+document.write("<object classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\" codebase=\"https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,2,0\" width=\"726\" height=\"232\"><param name=movie value=\"main-head-4.swf\"><param name=quality value=high><embed src=\"main-head-4.swf\" quality=high pluginspage=\"https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash\" type=\"application/x-shockwave-flash\" width=\"726\" height=\"232\"></embed></object>")
+}
+
+</script><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,2,0" width="726" height="232"><param name="movie" value="main-head-2.swf"><param name="quality" value="high"><embed src="main-head-2.swf" quality="high" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="726" height="232"></object>
+   </td>
+</tr>
+<tr>
+    <td width="264" height="49"><img src="_img/header_rule1a.gif" width="264" height="49" alt="" border="0"></td>
+    <td width="726" height="49" style="background-image:url(_img/header_rule2.gif);background-repeat:no-repeat;">
+   <!-- <div id="sword"><img src="_img/sword.png" width="391" height="42" alt="" border="0" /></div> -->
+   </td>
+</tr>
+<tr>
+    <td width="264" valign="top" style="background-image:url(_img/nav_bck.gif);background-repeat:repeat-y;">
+        <table width="264" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td><img src="_img/nav_top.gif" width="264" height="57"></td>
+          </tr>
+          <tr>
+            <td background="_img/nav_tbl_bck.gif">
+         <div id="nav"><a href="#" onclick="return toggleMe('106');"><img src="_img/nav_01_en_up.gif" width="141" height="34" alt="Game Info" border="0"></a></div>
+         <div id="106" style="display: block;">
+            <table width="141" border="0" align="center" cellpadding="0" cellspacing="0" id="sys_table" style="display: block;">
+              <tbody><tr>
+                <td height="24" width="141" background="_img/nav_cell_bkgrd.gif">&nbsp;&nbsp;&nbsp;&nbsp;<a href="getting_started.php">Getting Started</a></td>
+              </tr>
+              <tr>
+                <td height="24" width="141" background="_img/nav_cell_bkgrd.gif">&nbsp;&nbsp;&nbsp;&nbsp;<a href="requirements.php">Requirements</a></td>
+              </tr>
+              <tr>
+                <td height="24" width="141" background="_img/nav_cell_bkgrd.gif">&nbsp;&nbsp;&nbsp;&nbsp;<a href="features.php">Features</a></td>
+              </tr>
+              <tr>
+                <td height="24" width="141" background="_img/nav_cell_bkgrd.gif">&nbsp;&nbsp;&nbsp;&nbsp;<a href="story.php">Story</a></td>
+              </tr>
+            </tbody></table></div>
+         <div id="nav2"><a href="#" onclick="return toggleMe('107');"><img src="_img/nav_02_en_up.gif" width="141" height="34" alt="Guide" border="0"></a></div>
+         <div id="107" style="display:none;">
+            <table width="141" border="0" align="center" cellpadding="0" cellspacing="0" id="sys_table2" style="display:none;">
+              <tbody><tr>
+                <td height="24" width="141" background="_img/nav_cell_bkgrd.gif">&nbsp;&nbsp;&nbsp;&nbsp;<a href="new_players.php">New Players</a></td>
+              </tr>
+              <tr>
+                <td height="24" width="141" background="_img/nav_cell_bkgrd.gif">&nbsp;&nbsp;&nbsp;&nbsp;<a href="advanced_play.php">Advanced Play</a></td>
+              </tr>
+              <tr>
+                <td height="24" width="141" background="_img/nav_cell_bkgrd.gif">&nbsp;&nbsp;&nbsp;&nbsp;<a href="items.php">Items</a></td>
+              </tr>
+              <tr>
+                <td height="24" width="141" background="_img/nav_cell_bkgrd.gif">&nbsp;&nbsp;&nbsp;&nbsp;<a href="crafting.php">Crafting</a></td>
+              </tr>
+            <tr>
+                <td height="24" width="141" background="_img/nav_cell_bkgrd.gif">&nbsp;&nbsp;&nbsp;&nbsp;<a href="bosses.php">Bosses</a></td>
+              </tr>
+            <tr>
+                <td height="24" width="141" background="_img/nav_cell_bkgrd.gif">&nbsp;&nbsp;&nbsp;&nbsp;<a href="battle_modes.php">Battle Modes</a></td>
+              </tr>
+              <tr>
+                <td height="24" width="141" background="_img/nav_cell_bkgrd.gif">&nbsp;&nbsp;&nbsp;&nbsp;<a href="glossary.php">Glossary</a></td>
+              </tr>
+            </tbody></table></div>
+         <div id="nav3"><a href="#" onclick="return toggleMe('108');"><img src="_img/nav_03_en_up.gif" width="141" height="34" alt="News" border="0"></a></div>
+            <div id="108" style="display:none;">
+            <table width="141" border="0" align="center" cellpadding="0" cellspacing="0" id="sys_table3" style="display:none;">
+              <tbody><tr>
+                <td height="24" width="141" background="_img/nav_cell_bkgrd.gif">&nbsp;&nbsp;&nbsp;&nbsp;<a href="news_archive.php">All News</a></td>
+              </tr>
+              <tr>
+                <td height="24" width="141" background="_img/nav_cell_bkgrd.gif">&nbsp;&nbsp;&nbsp;&nbsp;<a href="news_archive.php?n=2">Community News</a></td>
+              </tr>
+              <tr>
+                <td height="24" width="141" background="_img/nav_cell_bkgrd.gif">&nbsp;&nbsp;&nbsp;&nbsp;<a href="news_archive.php?n=1">Game News</a></td>
+              </tr>
+              <tr>
+                <td height="24" width="141" background="_img/nav_cell_bkgrd.gif">&nbsp;&nbsp;&nbsp;&nbsp;<a href="news_archive.php?n=3">Tech Update</a></td>
+              </tr>
+            </tbody></table></div>
+         <div id="nav4"><a href="#" onclick="return toggleMe('109');"><img src="_img/nav_04_en_up.gif" width="141" height="34" alt="Support" border="0"></a></div>
+         <div id="109" style="display:none;">
+            <table width="141" border="0" align="center" cellpadding="0" cellspacing="0" id="sys_table4" style="display:none;">
+              <tbody><tr>
+                <td height="24" width="141" background="_img/nav_cell_bkgrd.gif">&nbsp;&nbsp;&nbsp;&nbsp;<a href="system_faqs.php">FAQs</a></td>
+              </tr>
+              <tr>
+                <td height="24" width="141" background="_img/nav_cell_bkgrd.gif">&nbsp;&nbsp;&nbsp;&nbsp;<a href="my_kol.php">My KOL</a></td>
+              </tr>
+              <tr>
+                <td height="24" width="141" background="_img/nav_cell_bkgrd.gif">&nbsp;&nbsp;&nbsp;&nbsp;<a href="policies.php">Policies</a></td>
+              </tr>
+			  <tr>
+                <td height="24" width="141" background="_img/nav_cell_bkgrd.gif">&nbsp;&nbsp;&nbsp;&nbsp;<a href="account_protection.php">Account Protection</a></td>
+              </tr>
+			  <tr>
+                <td height="24" width="141" background="_img/nav_cell_bkgrd.gif">&nbsp;&nbsp;&nbsp;&nbsp;<a href="cheat_reporting.php">Cheat Reporting</a></td>
+              </tr>
+            </tbody></table></div>
+         <div id="nav5"><a href="#" onclick="return toggleMe('111');"><img src="_img/nav_07_en_up.gif" width="141" height="34" alt="Gallery" border="0"></a></div>
+         <div id="111" style="display:none;">
+            <table width="141" border="0" align="center" cellpadding="0" cellspacing="0" id="sys_table6" style="display:none;">
+              <tbody><tr>
+                <td height="24" width="141" background="_img/nav_cell_bkgrd.gif">&nbsp;&nbsp;&nbsp;&nbsp;<a href="screenshots.php">Screenshots</a></td>
+              </tr>
+              <tr>
+                <td height="24" width="141" background="_img/nav_cell_bkgrd.gif">&nbsp;&nbsp;&nbsp;&nbsp;<a href="movies.php">Movies</a></td>
+              </tr>
+              <tr>
+                <td height="24" width="141" background="_img/nav_cell_bkgrd.gif">&nbsp;&nbsp;&nbsp;&nbsp;<a href="wallpapers.php">Wallpaper</a></td>
+              </tr>
+              <tr>
+                <td height="24" width="141" background="_img/nav_cell_bkgrd.gif">&nbsp;&nbsp;&nbsp;&nbsp;<a href="concept_art.php">Concept Art</a></td>
+              </tr>
             </tbody></table>
- 
- 
- 
-           </td>
- 
-      </tr>
- 
-   </tbody></table>
- 
-   <a href="#" onclick="hideAll2()" style="color: black;">close</a> </div>
- 
-   <div style="position: absolute; width: 100%; height: 1px; top: 19px; left: 0px; background-image:url(images/top_bar_slice.gif); z-index: 0; overflow: hidden;"></div>
- 
-<div class="BG">
- 
-<div style="position: absolute;"><div style="position: relative; left: 166px; top: 53px; width: 819px; height: 88px;; overflow: hidden; z-index: 50;">
- 
-<script language="JavaScript" type="text/javascript" src="flash_content3.js"></script>
- 
-      <script type="text/javascript">main_movie3();</script><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="819" height="88"><param name="movie" value="banner5.swf"><param name="loop" value="true"><param name="quality" value="high"><param name="window" value="transparent"><param name="wmode" value="transparent"><embed src="banner5.swf" quality="high" loop="true" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" width="819" height="88"></object>
- 
-</div></div>
- 
- 
-   <div style="z-index: 20;position: relative; left: 702px; top: 3px; z-index: 5;"><a href="index.php" class="k2Menu">HOME</a><a href="index.php?pg=sitemap" class="k2Menu">SITEMAP</a><a href="index.php?pg=support" class="k2Menu">MY KOL</a> </div>
- 
-   <div style="z-index: 20; position: relative; top: 131px; left: 230px;"> <a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('info','','images/navbar/nav_01_dn.jpg',1); switchDiv('subNav_GameInfo')" style="cursor: default;"><img src="images/navbar/nav_01.jpg" alt="Game Info" name="info" width="113" height="27" border="0" id="info"></a><a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('guide','','images/navbar/nav_02_dn.jpg',1); switchDiv('subNav_Guide')" style="cursor: default;"><img src="images/navbar/nav_02.jpg" alt="Guide" name="guide" width="81" height="27" border="0" id="guide"></a><a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('News','','images/navbar/nav_03_dn.jpg',1); switchDiv('subNav_News')" style="cursor: default;"><img src="images/navbar/nav_03.jpg" alt="News" name="News" width="72" height="27" border="0" id="News"></a><a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Support','','images/navbar/nav_04_dn.jpg',1); switchDiv('subNav_Support')" style="cursor: default;"><img src="images/navbar/nav_04.jpg" alt="Support" name="Support" width="89" height="27" border="0" id="Support"></a><a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Gallery','','images/navbar/nav_05_dn.jpg',1); switchDiv('subNav_Gallery')" style="cursor: default;"><img src="images/navbar/nav_05.jpg" alt="Gallery" name="Gallery" width="85" height="27" border="0" id="Gallery"></a><a href="http://forum.knightonlineworld.com/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Forum','','images/navbar/nav_06_dn.jpg',1); hideAll()"><img src="images/navbar/nav_06.jpg" alt="Forum" name="Forum" width="84" height="27" border="0" id="Forum"></a><a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Events','','images/navbar/nav_07_dn.jpg',1); switchDiv('subNav_Events');" style="cursor: default;"><img src="images/navbar/nav_07.jpg" alt="Events" name="Events" width="67" height="27" border="0" id="Events"></a> </div>
- 
-   <div style="position: relative; top: 155px; left: 345px; height: 355px; width: 455px; overflow: auto; z-index: 100;">
- 
-      
-<table width="95%" border="0" cellspacing="0" cellpadding="0" height="376" class="text">
+         </div>
+         <div id="nav7"><a href="#" onclick="return toggleMe('112');"><img src="_img/nav_06_en_up.gif" width="141" height="34" alt="Forum" border="0"></a></div>
+		 <div id="112" style="display:none;">
+            <table width="141" border="0" align="center" cellpadding="0" cellspacing="0" id="sys_table7" style="display:none;">
+              <tbody><tr>
+                <td height="24" width="141" background="_img/nav_cell_bkgrd.gif">&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://forum.knightonlineworld.com/forum_en/index.php" target="_blank">English Forum</a></td>
+              </tr>
+              <tr>
+                <td height="24" width="141" background="_img/nav_cell_bkgrd.gif">&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://forum.knightonlineworld.com/forum_tr/index.php" target="_blank">Turkish Forum</a></td>
+              </tr>
+			  <tr>
+                <td height="24" width="141" background="_img/nav_cell_bkgrd.gif">&nbsp;&nbsp;&nbsp;&nbsp;<a href="fan_sites.php">Fan Sites</a></td>
+              </tr>
+			  </tbody></table>
+         </div>
+         <div id="nav6"><a href="#" onclick="return toggleMe('110');"><img src="_img/nav_05_en_up.gif" width="141" height="34" alt="Events" border="0"></a></div>
+         <div id="110" style="display:none;">
+            <table width="141" border="0" align="center" cellpadding="0" cellspacing="0" id="sys_table5" style="display:none;">
+              <tbody><tr>
+                <td height="24" width="141" background="_img/nav_cell_bkgrd.gif">&nbsp;&nbsp;&nbsp;&nbsp;<a href="lunar_war.php">Lunar War</a></td>
+              </tr>
+              <tr>
+                <td height="24" width="141" background="_img/nav_cell_bkgrd.gif">&nbsp;&nbsp;&nbsp;&nbsp;<a href="dark_lunar_war.php">Dark Lunar War</a></td>
+              </tr>
+              <tr>
+                <td height="24" width="141" background="_img/nav_cell_bkgrd.gif">&nbsp;&nbsp;&nbsp;&nbsp;<a href="castle_siege.php">Castle Siege</a></td>
+              </tr>
+              <tr>
+                <td height="24" width="141" background="_img/nav_cell_bkgrd.gif">&nbsp;&nbsp;&nbsp;&nbsp;<a href="forgotten_temple.php">Forgotten Temple</a></td>
+              </tr>
+            <tr>
+                <td height="24" width="141" background="_img/nav_cell_bkgrd.gif">&nbsp;&nbsp;&nbsp;&nbsp;<a href="special_events.php">Special Events</a></td>
+              </tr>
+            </tbody></table>
+         </div></td>
+          </tr>
+          <tr>
+            <td><img src="_img/nav_bottom.gif" width="264" height="59"></td>
+          </tr>
+        </tbody></table>    </td>
+    <td width="726" height="300" valign="top" background="_img/content_bkgrd.gif"><img src="_img/content_top.gif" width="726" height="71">
+      <table width="560" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+          <td id="page-content" valign="top"><div id="contenttitle" style="top:-49px;"><img src="_img/privacy_support_en.jpg" width="558" height="84" border="0"></div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" height="376" class="text">
 	<tbody><tr>
 		<td valign="top">
-			<p align="center"><span class="text"><strong>PRIVACY POLICY</strong></span></p>
-			<p>The personal information you provide us during registration is used for our internal purposes only. We use the information we collect to learn what you like and to improve the Service. Except as otherwise expressly permitted by this Agreement or as otherwise authorized by you, we will not give any of your personal information to any third party without your express approval.</p>
-			<p> </p>
-			<p>We do not guarantee the security of any of your private transmissions against unauthorized or unlawful interception or access by third parties.</p>
-			<p>We can (and you authorize us to) disclose any information about you to private entities(i.e. credit bureaus and other entities/organizations legally entitled to this information), law enforcement agencies or government officials, as we, in our sole discretion, believe necessary or appropriate to investigate or resolve possible problems or inquiries, or as otherwise required by law.</p>
-			<p> </p>
-			<p>You agree that we may communicate with you via email and any similar technology for any purpose relating to the Service, the Software and any services or software which may in the future be provided by us or on our behalf.<br>
-			</p></td>
+Updated: May 10, 2007
+<br>
+<p><strong>K2 NETWORK PRIVACY POLICY</strong> <br>
+    <br>
+  Protecting the privacy of all of our  users and particularly children who may visit our site is an ongoing commitment  of K2 Network, Inc. (hereinafter "K2 Network"). This Privacy  Policy discloses to you the kinds of information K2 Network may gather about  you when you visit our websites, how and when we may disclose this information  to others and how you can control the use of this information.<br>
+  <br>
+  Please take a few moments to read this Policy. By accessing the K2 Network  website, you agree to accept the terms and conditions of this Privacy Policy  and are aware that our policies may evolve in the future as indicated below.</p>
+<ul type="disc">
+  <li><a name="L1" id="L1"></a><a href="privacy_policy.php#L1" class="bodytext">What web sites and services are covered?</a> </li>
+  <li><a href="privacy_policy.php#L2" class="bodytext">What information do we collect and who is collecting it?</a> </li>
+  <li><a href="privacy_policy.php#L3" class="bodytext">What about cookies?</a> </li>
+  <li><a href="privacy_policy.php#L4" class="bodytext">How do we use the information we collect?</a> </li>
+  <li><a href="privacy_policy.php#L5" class="bodytext">Is the information secure?</a> </li>
+  <li><a href="privacy_policy.php#L6" class="bodytext">How do I edit my personal information?</a> </li>
+  <li><a href="privacy_policy.php#L7" class="bodytext">Do you share information with co-publishers of game developers?</a> </li>
+  <li><a href="privacy_policy.php#L8" class="bodytext">Our Commitment to Children's Privacy.</a> </li>
+  <li><a href="privacy_policy.php#L9" class="bodytext">Our Commitment to Data Security.</a> </li>
+  <li><a href="privacy_policy.php#L10" class="bodytext">Conditions of Use, Notices, and Revisions.</a> </li>
+  <li><a href="privacy_policy.php#L11" class="bodytext">Privacy of Information for the Merchant Center and Affiliate Center.</a> </li>
+  <li><a href="privacy_policy.php#L12" class="bodytext">Contacting K2 Network.</a> </li>
+</ul>
+<p><strong>What web sites and services are covered?</strong> <br>
+    <br>
+  The following websites, game services and related game forums are covered by  this Policy: <br>
+  <br>
+  <a href="http://www.k2network.net" class="bodytext">www.k2network.net</a><br>
+  <a href="http://www.knightonlineworld.com" class="bodytext">www.knightonlineworld.com</a><br>
+  <a href="http://www.globalmuonline.com" class="bodytext">www.globalmuonline.com</a><br>
+  <a href="http://www.warrock.net/" class="bodytext">www.warrock.net<br>
+  </a><a href="http://www.swordofthenewworld.com/" class="bodytext">www.swordofthenewworld.com</a><br>
+  <a href="http://affiliates.k2network.net" class="bodytext">http://affiliates.k2network.net</a><br>
+  <a href="http://merchants.k2network.net" class="bodytext">http://merchants.k2network.net</a><br>
+  <br>
+  From time to time, this list may change.&nbsp;  All new sites, game services, and related forums will be governed by the  terms of this policy.  <br>
+   <br>
+   <a name="L2" id="L2"></a><strong>
+   What information do we collect and who is collecting it?     </strong> <br>
+     <br>
+     When you join a K2 Network website, game service or related forum, you are  asked to provide some personal information to become a member of a K2 Network  website. This type of information can include your name, home or other address,  e-mail addresses, telephone numbers. We may also collect other personal information  from you in the event that you contribute information, data, text, software,  artwork, character art, images, music, sounds, photographs, graphics, video,  messages, or other materials (collectively, the "Content") to the K2  Network website. We also collect information about each member's use of K2  Network's features and any survey responses or other information regarding our  users' interests and preferences. <strong>K2 Network will not distribute, sell or  rent any of the personal information that you provide to us without providing  to you prior notice of our intention to do so and a clear opportunity for you  to prevent any such disclosure</strong>. Wherever possible, there will be a link to  this privacy policy on every website page where personal information might be  displayed, collected, or stored. You should also be aware that some websites  that link to our site may also collect personal information about you (see  "Cookies" section below). We cannot make any representations  regarding the information privacy practices of those websites.     <br>
+     <br>
+     <a name="L3" id="L3"></a><strong>
+     What about cookies?     </strong><br>
+     <br>
+     Cookies are used to store and track various types of information about K2  Network users. A cookie is a small piece of data that our web service sends to  your browser and that is stored on your computer's hard drive. Cookies help us  gather useful information such as estimates about the size of our audience,  what features of our website are visited most etc. K2 Network never shares or  provides any personal identifiable information based upon the use of cookies to  any other party.     <br>
+     <br>
+     <a name="L4" id="L4"></a><strong>
+     How do we use the information we collect?     </strong> <br>
+     <br>
+     We may use the e-mail address that you provide to us to send notices to you  about new features, products, or other information that might interest you. You  can choose to opt out of receiving these types of messages when you sign-on as  a member, or at any later time. We may also use geographic or other personal  information to create better products to serve your interests.&nbsp; Though K2 Network shall make every effort to  preserve user privacy, we may need to disclose personal information when  required by law wherein we have a good-faith belief that such action is  necessary to comply with a judicial proceeding in any applicable jurisdiction,  a court order or legal process served on any of the K2 Network sites.<br>
+     <br>
+     <a name="L5" id="L5"></a><strong>
+     Is the information secure?     </strong><br>
+     <br>
+  You are asked to choose a member ID and password when you join our website.  Your password is known only to you unless you disclose it to others. We highly  recommend that you do not disclose your password to any third party. Also, if  there are others who use your computer, you should always sign-out/log out of  the K2 Network site and close your browser when you are done using the  Internet. K2 Network, uses the security hardware, software and operating  procedures, designed to protect the privacy of your personal information stored  in the K2 Network computer systems. However, no data that is transmitted over  the Internet can be guaranteed 100% secure in transmission nor safe from theft  or illegal acquisition even from K2 Network computers. <br>
+  <br>
+  <a name="L6" id="L6"></a><strong>
+  How do I edit my personal information?    </strong> <br>
+    <br>
+    Your personal information is located in your personal K2 Network profile. Your  profile can be edited at any time once you have signed in with your ID and  password. Simply click on the "<a href="myaccount.php" class="bodytext">My Account</a>" link and  make your desired changes. <br>
+    <br>
+    <a name="L7" id="L7"></a><strong>
+    Do you share information with co-publishers of game developers?    </strong> <br>
+    <br>
+    Certain K2 Network games may be provided to you in conjunction with a third  party publisher or developer. A third party's use of the shared personal  information will be governed by this Privacy Policy and K2 Network's use of  such information shall, of course, be governed by the terms of this Privacy  Policy. K2 will not share any personally identifiable information with any co-publisher or  developer that does not agree to abide by the terms of this Privacy  Policy.&nbsp; <strong>Again, K2  Network will not share any such information with any co-publisher or developer  without providing to you prior notice of our intention to do so and a clear  opportunity for you to prevent any such disclosure.</strong> <br>
+    <br>
+    <a name="L8" id="L8"></a><strong>
+    Our Commitment to Children's Privacy.    </strong> <br>
+    <br>
+    We at K2 Network take the online safety of children very seriously. The K2  Network website is designed and maintained for an audience 18 years old and  above. For this reason, our member registration asks each applicant to provide  his or her date of birth to insure compliance with our minimum age policy. 
+    <br>
+    <br>
+    The Children's Online Privacy Protection Act ("COPPA") requires that  we inform parents and legal guardians about how we collect, use, and disclose  personal information from children under 13 years of age. Although the K2  Network website is not directed at children under 13 years of age, we recognize  that with proper adult supervision some parents might permit their children to  visit and utilize the site. COPPA requires that we obtain the consent of  parents and guardians in order for children under 13 years of age to use  certain features of the K2 Network website. 
+    <br>
+    <br>
+    When your child attempts to register and/or provide personal information to K2 Network (including on the K2 Network website), we  require a parent or legal guardian to: 
+</p>
+<ul type="disc">
+  <li>complete the registration;</li>
+  <li>review our privacy policy and to submit a valid credit card number to verify that the child's parent or guardian knows about and authorizes our information practices related to children protected by COPPA.</li>
+</ul>
+<p>Once parental notice and consent have been verified, the information we collect will  be treated the same way as information collected from any other user of the K2  Network website. Without verified parental notice and consent, we will not  knowingly collect personal information of children under 13 years of age, and  if we learn that we have inadvertently collected such information, we will  promptly delete it.<br>
+    <br>
+  In compliance with COPPA, parents and legal guardians may request us to review,  delete or stop the collection of their child’s personally identifiable  information. You may do so online by visiting “My Account”, by contacting us via  e-mail at <a href="mailto:privacy@k2network.net" class="bodytext">privacy@k2network.net</a> or by sending a written communication to:</p>
+<p>K2  Network, Inc.<br>
+  14252 Culver Dr. #A355<br>
+  Irvine, 92604<br>
+  Attention:  COPPA Administrator <br>
+  <br>
+  If you request that no further information about your child be collected or  used, we will be required to terminate your child's ability to use the K2  Network webpages that require a user to "sign in." <br>
+  <br>
+  <a name="L9" id="L9"></a><strong>Our Commitment to Data Security.</strong> <br>
+  <br>
+  During sessions in which you give us information such as credit card numbers,  we encrypt your transmissions using SSL ("Secure Sockets Layer")  technology. We keep any personally identifiable information you provide us on  servers that are protected by firewalls and other technological means against  intrusion or unauthorized access. They are located in a physically secure  facility, and only our employees and agents with a need to know the information  are given access. While no amount of security can give a perfect guarantee, you  can have a high degree of confidence that the personally identifiable information  you give us is protected from unauthorized access and use. We rely on you to  select passwords that cannot be easily guessed and to safeguard those passwords  from disclosure.<br>
+  <br>
+  <a name="L10" id="L10"></a><strong>Conditions of Use, Notices, and Revisions.</strong> <br>
+  <br>
+  We will notify our members, by e-mail or by posting a notice on our website,  when we make any significant changes to our Privacy Policy that affect the use  of any personally identifiable information we collect. Your continued use of  our website will constitute acceptance of the changes and the existing privacy  policy. In instances where we ask for your personally identifiable information  and we tell you the data we are collecting on that page will be shared with  unaffiliated third parties, and in cases where a member of the K2 Network community  opts-in to share his/her information with third parties, those disclosures and  opt-ins will override anything to the contrary in this Privacy Policy. In  addition, K2 Network reserves the right to make minor changes to our Privacy  Policy at any time without any notice to you other than posting any such  changes in a revised Privacy Policy on the K2 Network website. We encourage you  to periodically review our Privacy Policy to be sure you are familiar with the  most current version. The Policy will include the most recent date in which any  revision has been made. Please note that this Privacy Policy is also  incorporated, by reference, into K2 Network's Terms of Use. <br>
+  <br>
+  <a name="L11" id="L11"></a><strong>Privacy of Information for the Merchant Center and Affiliate Center.</strong> <br>
+  <br>
+  K2 Network is committed to the privacy of information collected by these programs as much as it is committed to the privacy of information related to game customers.  The policies in this document apply to both the Merchant Center and Affiliate Center.  We may request additional information to confirm the identity of you, your banking institution, or your business.  To further protect you, we may also have additional confirmatory requirements for changing your information stored at the Merchant Center and Affiliate Center. <br>
+  <br>
+  <a name="L12" id="L12"></a><strong>Contacting K2 Network.</strong> <br>
+  <br>
+  If you have a privacy concern regarding the K2 Network website or this policy,  and if you cannot satisfactorily resolve it through the use of the website, you  can write to us by email at <a href="mailto:privacy@k2network.net" class="bodytext">privacy@k2network.net</a>. Alternatively, we can  be reached by our postal mail address: <br>
+  <br>
+  K2  Network, Inc.<br>
+  14252 Culver Dr. #A355<br>
+  Irvine, 92604<br>
+  Attention: Director, Privacy <br>
+  <br>
+  If you object to any sharing of your personal information that may be permitted  under this policy, you may do so by writing us at the above address. We will  take reasonable steps to accommodate your requests as they relate to our  commercial practices. In some instances, honoring your requests may interfere  with or preclude your ability to use the K2 Network website or may require us  to terminate our relationship with you.</p>
+	  </td>
 	</tr>
 </tbody></table>
 
- 
-   </div>
- 
-   <div style="position: relative; top: 200px; left: 575px; color: #FFFFFF; z-index: 100;"><a href="index.php?pg=eula" class="k2Menu">end user agreement</a> | <a href="index.php?pg=sla" class="k2Menu">service level agreement</a> | <a href="index.php?pg=privacy" class="k2Menu">privacy policy</a></div>
- 
-   <div id="server_status" style="position: relative; top: -85px; left: 20px; width: 85px;"><a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Server Status','','images/server_status_on.jpg',1)" onclick="switchDiv2('sStatus')"><img src="images/server_status.jpg" alt="Server Status" name="Server Status" width="86" height="33" border="0" id="Server Status"></a></div>
- 
-   <div id="download" style="position: relative; top: -122px; left: 192px; width: 95px;"><a href="index.php?pg=download" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Download KE','','images/download_ke_on.jpg',1)"><img src="images/download_ke.jpg" alt="Download KE" name="Download KE" width="78" height="33" border="0" id="Download KE"></a></div>
- 
-   <!--<div id="mirror1" style="position: relative; top: -125px; left: 193px; width: 15px;"><a href="http://www.download.com/3000-7541_4-10437633.html" target="_blank" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Mirror1','','images/mirror1_on.jpg',1)"><img src="images/mirror1.jpg" alt="Mirror1" name="Mirror1" width="37" height="13" border="0" id="Mirror1" /></a></div>
- 
-   <div id="mirror2" style="position: relative; top: -139px; left: 233px; width: 15px;"><a href="http://www.k2downloads.com/software/knightonlinesetup_1299.exe" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Mirror2','','images/mirror2_on.jpg',1)"><img src="images/mirror2.jpg" alt="Mirror2" name="Mirror2" width="38" height="10" border="0" id="Mirror2" /></a></div>//-->
- 
- 
- 
-   <div id="subNav_GameInfo" style="top: -309px; left: 260px;" class="subNav">
- 
-      <div class="subNavBG" style="height: 19px; width: 285px;">
- 
-         <a href="?pg=gettingStarted" class="subMenu">Getting Started</a><a href="?pg=requirements" class="subMenu">Requirements</a><a href="index.php?pg=features" class="subMenu">Features</a><a href="?pg=ch1" class="subMenu">Story</a>
- 
-      </div>
- 
-      <img src="images/submenu-left.gif" style="left: -15px;">
- 
-      <img src="images/submenu-right.gif" style="left: 285px;">
- 
-   </div>
- 
- 
- 
-   <div id="subNav_Guide" style="top: -330px; left: 380px;" class="subNav">
- 
-      <div class="subNavBG" style="width: 375px;">
- 
-         <a href="?pg=newplayers" class="subMenu">New Players</a><a href="?pg=advanced" class="subMenu">Advanced Play</a><a href="index.php?pg=items" class="subMenu">Items</a><a href="?pg=crafting" class="subMenu">Crafting</a><a href="?pg=boss" class="subMenu">Bosses</a><a href="?pg=glossary" class="subMenu">Glossary</a>
- 
-      </div>
- 
-      <img src="images/submenu-left.gif" style="left: -15px;">
- 
-      <img src="images/submenu-right.gif" style="left: 375px;">
- 
-   </div>
- 
- 
- 
-   <div id="subNav_News" style="top: -351px; left: 460px;" class="subNav">
- 
-      <div class="subNavBG" style="width: 310px;">
- 
-         <a href="index.php?pg=anews" class="subMenu">All News</a><a href="index.php?pg=anews&amp;n=2" class="subMenu">Community News</a><a href="index.php?pg=anews&amp;n=1" class="subMenu">Game News</a><a href="index.php?pg=anews&amp;n=3" class="subMenu">Tech Updates</a>
- 
-      </div>
- 
-      <img src="images/submenu-left.gif" style="left: -15px;">
- 
-      <img src="images/submenu-right.gif" style="left: 310px;">
- 
-   </div>
- 
- 
- 
-   <div id="subNav_Support" style="top: -372px; left: 525px;" class="subNav">
- 
-      <div class="subNavBG" style="width: 155px;">
- 
-      <a href="?pg=faq" class="subMenu">FAQ</a><a href="?pg=support" class="subMenu">My KOL</a><a href="?pg=policies" class="subMenu">Policies</a>
- 
-   </div>
- 
-      <img src="images/submenu-left.gif" style="left: -15px;">
- 
-      <img src="images/submenu-right.gif" style="left: 155px;">
- 
-   </div>
- 
- 
- 
-   <div id="subNav_Gallery" style="top: -393px; left: 290px;" class="subNav">
- 
-      <div class="subNavBG" style="width: 355px;">
- 
-         <a href="index.php?pg=ss1" class="subMenu">Screenshots</a><a href="index.php?pg=movies" class="subMenu">Movies</a><a href="index.php?pg=wallpapers" class="subMenu">Wallpaper</a><a href="index.php?pg=concept1" class="subMenu">Concept Art</a><a href="index.php?pg=battle" class="subMenu">Battle Modes</a>
- 
-      </div>
- 
-      <img src="images/submenu-left.gif" style="left: -15px;">
- 
-      <img src="images/submenu-right.gif" style="left: 355px;">
- 
-   </div>
- 
-      
- 
-   <div id="subNav_Events" name="subNav_Events" style="top: -414px; left: 370px;" class="subNav">
- 
-      <div class="subNavBG" style="width: 440px;">
- 
-         <a href="index.php?pg=lw" class="subMenu">Lunar War</a><a href="index.php?pg=dlw" class="subMenu">Dark Lunar War</a><a href="index.php?pg=csw" class="subMenu">Castle Siege</a><a href="index.php?pg=temple" class="subMenu">Forgotten Temple</a><a href="index.php?pg=special" class="subMenu">Special Events</a>
- 
-      </div>
- 
-      <img src="images/submenu-left.gif" style="left: -15px;">
- 
-      <img src="images/submenu-right.gif" style="left: 440px;">
- 
-   </div>
- 
- 
- 
-   <div style="position: relative; top: -243px; left: 25px; width: 248px; height: 145px; background-image:url(images/bg_logged_in.jpg); text-align: center; visibility: hidden">
- 
-      <div style="position: absolute; top: 22px; width: 175px; left: 30px;"> <span class="tsmy"><span style="font-size: 11px; color: white;">Welcome </span><br><br>
- 
-          
-      
- 
-         <!--[  ] Premium Days<br>-->
- 
-         [  ] Knight Cash<br>
- 
-         <br>
- 
-         </span>
- 
-         <div style="text-align: right;"><span class="tsmy"> <a href="index.php?pg=ticket" class="tsmy">Submit Support Ticket</a><br>
- 
-            <a href="?pg=support" class="tsmy">My KOL</a><br>
- 
-            <a href="index.php?logout=true" class="tsmy">logout</a></span></div>
- 
-      </div>
- 
-   </div>
- 
-   <div class="tsmc" align="center" style="text-align: center; width: 155px; position: relative; top: -366px; left: 70px; visibility: visible">
- 
-      <div>
- 
-         <form name="login_form" method="post" action="index.php?login=1&amp;pg=privacy" autocomplete="off">
- 
-            <div align="center"><img src="images/login/top.gif"></div>
- 
-            <input name="image" type="image" style="float: right; left: -10px; position: relative;" value="Submit" src="images/login/login_button.gif" border="0">
- 
-            ID
- 
-            <input name="uname" type="text" size="25" maxlength="21" style="height: 10px; width: 75px; font-size: 10px;">
- 
-            <br>
- 
-            PW
- 
-            <input name="pass" type="password" size="25" maxlength="12" style="height: 10px; width: 75px; font-size: 10px;">
- 
-            <br>
- 
-            <br>
- 
-            <a href="?pg=register"><img src="images/login/register.gif" border="0"></a><a href="?pg=lpass&amp;blah=3818"><img src="images/login/forgot_pass.gif" border="0"></a>
- 
-         </form>
- 
-      </div>
- 
-   </div>
- 
-   
- 
-   <div onclick="document.location='index.php?pg=newplayers'" style="cursor: pointer; width: 130px; height: 80px; position: relative; top: -680px; left: 840px;"></div>
- 
-   <div onclick="document.location='index.php?pg=rankings'" style="cursor: pointer; width: 130px; height: 80px; position: relative; top: -660px; left: 830px;"></div>
- 
-   <div onclick="document.location='index.php?pg=protect'" style="cursor: pointer; width: 130px; height: 80px; position: relative; top: -640px; left: 830px;"></div>
- 
-   <div onclick="document.location='index.php?pg=premium'" style="cursor: pointer; width: 130px; height: 80px; position: relative; top: -610px; left: 820px;"></div>
- 
-   <div onclick="document.location='index.php'" style="cursor: pointer; width: 260px; height: 90px; position: relative; top: -660px; left: 15px;"></div>
-   
-   
-   
-   <div onclick="window.open('http://www.esrb.org/ratings/ratings_guide.jsp')" style="cursor: pointer; width: 37px; height: 56px; position: relative; top: -623px; left: 218px;"></div>
- 
-   <div onclick="window.open('http://www.k2network.net')" style="position: absolute; top: 0px; height: 18px; width: 150px; cursor: pointer; z-index: 5;"></div>
- 
-</div>
- 
- 
- 
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
- 
- 
- 
+<br>
+          <p></p>
+          </td>
+        </tr>
+      </tbody></table></td>
+</tr>
+<tr>
+  <td height="57" colspan="2" style="background-image:url(_img/content_bottom.gif);background-repeat:no-repeat;"></td>
+</tr>
+<tr>
+    <td width="990" height="90" colspan="2" style="background-image:url(_img/footer_bck.gif);background-repeat:no-repeat;"></td>
+</tr>
+<tr>
+    <td width="990" height="90" colspan="2" bgcolor="#000000" style="background-image:url(_img/footer.gif);background-repeat:no-repeat;" class="footer">
+    <div style="position:absolute;width:105px;height:90px;cursor: pointer;" onclick="window.open('http://www.k2network.net')"><!--- Link To K2 //---></div>
+    <div id="footer" class="footer" style="position:relative;left:125px;height:90px;top: -14px;">
+<br><br>
+<a href="download_client.php" class="footer">Download Client</a> |
+<a href="register.php" class="footer">Register</a> |
+
+<a href="index.php" class="footer">Home</a> <br>
+<a href="http://affiliates.k2network.net/" target="_blank" class="footer">Become an Affiliate</a> |
+<a href="legal_documents.php" class="footer">Legal Documents</a>
+
+
+<span class="footer"><br>© K2Network Inc., Noahsystem Inc., &amp; MGame, Inc.<br>
+All Rights Reserved.
+</span>
+<div onclick="window.open('http://www.k2network.net/careers.php')" style="cursor: pointer; width: 66px; height: 29px; position:relative; top: -39px; left: 325px;"></div>
+<div onclick="window.open('http://www.esrb.org/ratings/ratings_guide.jsp')" style="cursor: pointer; width: 127px; height: 86px; position:relative; top: -95px; left: 495px;"></div>
+</div></td>
+</tr>
+</tbody></table>
+</td>
+<td width="50%" style="background-image:url(_img/bck_right.gif);background-repeat:repeat-y;"></td>
+</tr>
+</tbody></table>
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
 </script>
- 
- 
- 
 <script type="text/javascript">
- 
- 
- 
-_uacct = "UA-475901-1";
- 
- 
- 
+_uacct = "UA-475901-3";
 urchinTracker();
- 
- 
- 
 </script>
- 
-
- 
-
- 
- </body></html>
+</body></html>
