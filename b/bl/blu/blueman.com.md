@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the blueman.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205220647id_/http%3A//www.blueman.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueman.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630110812id_/http%3A//www.blueman.com/privacy.shtml) for the most accurate reproduction.*
 
 # Las Vegas Show Tickets - The Venetian Hotel - Additional Information
 
 Blue Man Group understands and respects the importance of individual privacy. We are committed to protecting your privacy and safeguarding your personal information. The following document outlines our policy on collecting personal information from our website visitors at www.blueman.com and how we utilize that data. 
 
 **Children:**  
-Blue Man Group has no intention of collecting any personal data from individuals twelve years old and younger. Where appropriate, Blue Man Group will specifically instruct children not to submit such information on our websites and/or will take reasonable steps to ensure parental consent to such submission. If we know that a child under 13 has sent us personal information, we will automatically delete the information from our system. If you would like to grant your child permission to receive e-mail updates or to allow him or her to use our chat rooms or message board, please fill out our [permission slip](https://web.archive.org/web/20061205220647id_/http%3A//www.blueman.com/community/parental.shtml). 
+Blue Man Group has no intention of collecting any personal data from individuals twelve years old and younger. Where appropriate, Blue Man Group will specifically instruct children not to submit such information on our websites and/or will take reasonable steps to ensure parental consent to such submission. If we know that a child under 13 has sent us personal information, we will automatically delete the information from our system. If you would like to grant your child permission to receive e-mail updates or to allow him or her to use our chat rooms or message board, please fill out our [permission slip](https://web.archive.org/web/20070630110812id_/http%3A//www.blueman.com/community/parental.shtml). 
 
 Parents should be aware that Blue Man Group's Privacy Policy will govern our use of personal data, but that information which is voluntarily given by anyone (including children) in chat sessions, email exchanges, bulletin boards or the like may be used by other parties to generate unsolicited mail.
 
@@ -31,6 +31,8 @@ Blue Man Group uses state of the art software to protect the information we rece
 Please be aware that anytime you voluntarily post information in a chat room or on a message board, a third party may collect this information and use it for their own purposes. 
 
 In certain situations, Blue Man Group may be required by law to disclose information to the authorities. We may also turn over information to law enforcement or government officials if we determine that the disclosure of such information is necessary and appropriate. 
+
+The gallery feature of our Create Your Own Artwork game is currently available to any visitor of the site and as such may be used in ways that do not comply with our privacy policy or the standards set forth on blueman.com.  Blue Man Productions has the right to remove any gallery posting.  We monitor the gallery periodically to remove any material we deem offensive and will take action to evaluate any submission brought to our attention via [management@blueman.com](mailto:management@blueman.com "mailto:management@blueman.com").
 
 **Changes in Our Policy:**  
 We reserve the right to change this Privacy Policy at our discretion. If we decide to change our Privacy Policy we will post those changes here. 
