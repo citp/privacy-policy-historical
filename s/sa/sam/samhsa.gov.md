@@ -1,6 +1,85 @@
-> *The following text is extracted and transformed from the samhsa.gov privacy policy that was archived on 2006-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060922190801id_/http%3A//www.samhsa.gov/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samhsa.gov privacy policy that was archived on 2007-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070706001647id_/http%3A//www.samhsa.gov/privacy.aspx) for the most accurate reproduction.*
 
 # SAMHSA Privacy Policy
+
+Thank you for visiting our SAMHSA (HHS) web site and for reviewing our Privacy Policy. This is a privacy policy for [**http://www.samhsa.gov**](http://www.samhsa.gov/)and the following SAMHSA funded sites: 
+
+**allmentalhealth.samhsa.gov**  
+---  
+**ars.samhsa.gov**  
+**asyouage.samhsa.gov**  
+**atr.samhsa.gov**  
+**bblocks.samhsa.gov**  
+**buprenorphine.samhsa.gov**  
+**coce.samhsa.gov / coocurring.samhsa.gov**  
+**csap-data.samhsa.gov**  
+**Csapdcc.samhsa.gov  **  
+**csapdccc-csams.samhsa.gov  **  
+**csat.samhsa.gov**  
+**datm.samhsa.gov**  
+**dawninfo.samhsa.gov**  
+**dfc.samhsa.gov**  
+**dpt.samhsa.gov  **  
+**drugabusestatistics.samhsa.gov / oas.samhsa.gov**  
+**drugfreeworkplace.samhsa.gov / workplace.samhsa.gov**  
+**dwp.samhsa.gov**  
+**Epidcc.samhsa.gov**  
+**family.samhsa.gov / parentingispreveniton.samhsa.gov**  
+**fascenter.samhsa.gov / fasdcenter.samhsa.gov**  
+**findtreatment.samhsa.gov**  
+**gainscenter.samhsa.gov**  
+**getfit.samhsa.gov**  
+**GrantsTraining.samhsa.gov / grantsplanning.samhsa.gov**  
+**hablemos.samhsa.gov**  
+**hipaa.samhsa.gov**  
+**international.samhsa.gov   **  
+**kap.samhsa.gov**  
+**mentalhealth.samhsa.gov   mentalhealth.org**  
+**mentalhealthaids.samhsa.gov**  
+**mentalhealthcommission.gov**  
+**methprevention.samhsa.gov  **  
+**mhbg.samhsa.gov**  
+**modelprograms.samhsa.gov**  
+**nac.samhsa.gov**  
+**NationalOutcomeMeasures.samhsa.gov**  
+**ncadi.samhsa.gov  **  
+**ncadistore.samhsa.gov**  
+**ncsacw.samhsa.gov**  
+**nmhicstore.samhsa.gov**  
+**nrchmi.samhsa.gov**  
+**nrepp.samhsa.gov / nationalregistry.samhsa.gov**  
+**nuestrasaludmental.samhsa.gov**  
+**PartnersForRecovery.samhsa.gov / pfr.samsha.gov**  
+**pathprogram.samhsa.gov**  
+**pathwayscourses.samhsa.gov**  
+**prevention.samhsa.gov  / csap.samhsa.gov**  
+**preventionpathways.samhsa.gov**  
+**preventionplatform.samhsa.gov / preventiondss.samhsa.gov / prevtech.samhsa.gov / preventiondss.org**  
+**preventiontraining.samhsa.gov**  
+**rcsp.samhsa.gov**  
+**recoverymonth.gov**  
+**refugeewellbeing.samhsa.gov**  
+**rhti.samhsa.gov**  
+**riskcommunication.samhsa.gov**  
+**rx.samhsa.gov**  
+**samhsa.gov**  
+**samhsa-gpratrn.samhsa.gov**  
+**sbirt.samhsa.gov**  
+**sims.samhsa.gov**  
+**sshs.samhsa.gov**  
+**stopalcoholabuse.gov**  
+**StopStigma.samhsa.gov**  
+**strategicplan.samhsa.gov**  
+**systemsofcare.samhsa.gov**  
+**teachin.samhsa.gov**  
+**thecoolspot.gov**  
+**tie.samhsa.gov**  
+**toosmarttostart.samhsa.gov**  
+**whatadifference.samhsa.gov**  
+**workplace.samhsa.gov / drugfeeworkplace.samhsa.gov**  
+**wwwdasis.samhsa.gov**  
+  
+
 
 ## Contact Information
 
@@ -52,11 +131,11 @@ We do not use persistent cookies on our Web sites.
 
 We collect no information about you, other than information automatically collected and stored (see below), when you visit our web site unless you choose to provide that information to us. 
 
-## Data Retention Policy:
+## Data Retention Policy
 
 Any information that is automatically collected and stored by SAMHSA is retained for business purposes only. For a list of the information we collect, please see read the next section.
 
-##  Information Automatically Collected and Stored: 
+##  Information Automatically Collected and Stored
 
   
 When you browse through any web site, certain personal information about you can be collected. We automatically collect and temporarily store the following information about your visit: 
@@ -70,7 +149,7 @@ When you browse through any web site, certain personal information about you can
 
 We use this information for statistical purposes only and to help us make our site more useful to visitors. Unless it is specifically stated otherwise, no additional information will be collected about you. 
 
-## Personally Provided Information: 
+## Personally Provided Information
 
 You do not have to give us personal information to visit our web sites. 
 
@@ -78,16 +157,29 @@ If you choose to provide us with additional information about yourself through a
 
 However, all communications addressed to the HHS Secretary or the HHS Webmaster are maintained, as required by law, for historical purposes. These communications are archived on a monthly basis, but are also protected by the Privacy Act which restricts our use of them, yet permits certain disclosures. 
 
-## Disclosure: 
+## Disclosure
 
 SAMHSA does not disclose, give, sell or transfer any personal information about our visitors, unless required for law enforcement or statute. 
 
-##  Intrusion Detection:
+##  Intrusion Detection
 
 This site is maintained by the U.S. Government. It is protected by various provisions of Title 18, U.S. Code. Violations of Title 18 are subject to criminal prosecution in federal court. 
 
 For site security purposes and to ensure that this service remains available to all users, we employ software programs to monitor traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. In the event of authorized law enforcement investigations, and pursuant to any required legal process, information from these sources may be used to help identify an individual. 
 
-## Systems of Records:
+## Systems of Records
 
 Information originally collected in traditional paper systems can be submitted electronically, i.e., electronic commerce transactions and information updates about eligibility benefits. Electronically submitted information is maintained and destroyed pursuant to the Federal Records Act, and in some cases may be subject to the Privacy Act. If information that you submit is to be used in a Privacy Act system of records, there will be a Privacy Act Notice provided.
+
+[**See Also:**](http://aspe.hhs.gov/datacncl/privacy/#act)
+
+  * [Privacy Impact Assessment (PIA)](https://web.archive.org/About/pia/pia.aspx)
+  * [U.S. Federal Government related policies, including Privacy Act of 1974](http://aspe.hhs.gov/datacncl/privacy/#act)
+  * [SAMHSA Privacy Act System of Records Notices ](https://web.archive.org/About/systemrecords/index.aspx)
+  * [HHS Privacy Contacts](http://www.hhs.gov/contacts/privacy.html)  
+
+
+
+
+  
+This site has been P3P validated 
