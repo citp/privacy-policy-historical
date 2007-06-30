@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wri.org privacy policy that was archived on 2006-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061129194630id_/http%3A//www.wri.org/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wri.org privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630053227id_/http%3A//www.wri.org/about/privacy.cfm) for the most accurate reproduction.*
 
 # WRI Privacy Policy
 
