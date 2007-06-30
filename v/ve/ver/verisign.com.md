@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verisign.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231163723id_/http%3A//www.verisign.com/Privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verisign.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630180042id_/http%3A//www.verisign.com/Privacy/index.html) for the most accurate reproduction.*
 
 # About VeriSign - Privacy Statement from VeriSign, Inc.
 
@@ -7,7 +7,7 @@
   
 ## Privacy Statement
 
-Version 2.14 - Effective May 18, 2006   
+Version 2.15 - Effective May 31, 2007   
 [](https://www.truste.org/ivalidate.php?url=www.verisign.com)VeriSign is committed to providing you with excellent service for all of our products and services. Because we respect your right to privacy, we have developed this Privacy Statement to inform you about our privacy practices for the entire VeriSign.com site and about special privacy practices related to our Safe Harbor Participation (see below section on “EU Safe Harbor Participation”).  This Privacy Statement is not applicable to any of our other privacy practices, including, without limitation, data collected from other VeriSign sites or offline. VeriSign services may be hosted on partner sites on behalf of VeriSign, and if this VeriSign Privacy Statement is listed on that site, then it will also apply.   
 
 
@@ -113,7 +113,7 @@ If you would like to change your preferences online, please visit [http://www.ve
 
 ### Our Security Procedures
 
-We consider the protection of all personal information we receive from our Web site visitors and subscribers as critical to our corporate mission. Please be assured that we have security measures in place to protect against the loss, misuse, and alteration of any personal information we receive from you. As with any transmission over the Internet, however, there is always some element of risk involved in sending personal information. In order to try to minimize this risk, we encrypt all information that you submit in ordering one of our products or services using the [Secure Sockets Layer](https://web.archive.org/web/20061231163723id_/http%3A//www.verisign.com/ssl/ssl-information-center/how-ssl-security-works/index.html) (SSL) protocol. Our security procedures are also subject to at least an annual SAS-70 Type II audit by an internationally-recognized accounting firm.
+We consider the protection of all personal information we receive from our Web site visitors and subscribers as critical to our corporate mission. Please be assured that we have security measures in place to protect against the loss, misuse, and alteration of any personal information we receive from you. As with any transmission over the Internet, however, there is always some element of risk involved in sending personal information. In order to try to minimize this risk, we encrypt all information that you submit in ordering one of our products or services using the [Secure Sockets Layer](https://web.archive.org/web/20070630180042id_/http%3A//www.verisign.com/ssl/ssl-information-center/how-ssl-security-works/index.html) (SSL) protocol. Our security procedures are also subject to at least an annual SAS-70 Type II audit by an internationally-recognized accounting firm.
 
 ### How You Can Update or Correct Your Personal Information
 
@@ -123,7 +123,7 @@ If you would like to update or correct any personal information in our records t
 
 ### How You Can Revoke (Deactivate) Your Digital ID
 
-When a third party wants to rely on a Digital ID, it is important for the third party to know its status (for example, whether it is valid, suspended (where available) or revoked). The third party may do this by accessing our repository and querying for the status of the Digital ID. We do not generally delete Digital IDs (and their content) from our on-line repository because a third party might not then be able to check its status. You may, however, revoke (deactivate) your Digital ID. A revoked Digital ID will still appear in our repository with an indication that it has been revoked. If you are a Digital ID subscriber and would like to have your Digital ID revoked (deactivated) from our database, please visit our site at [http://www.verisign.com/ssl/revoke.html](https://web.archive.org/web/20061231163723id_/http%3A//www.verisign.com/ssl/revoke.html) and follow the listed instructions or contact us via e-mail at [id-support@verisign.com](mailto:id-support@verisign.com) (for Class 1 and Class 2 Digital IDs) or at [support@verisign.com](mailto:support@verisign.com) (for Class 3 Digital IDs) or at the address given at the end of this Privacy Statement.
+When a third party wants to rely on a Digital ID, it is important for the third party to know its status (for example, whether it is valid, suspended (where available) or revoked). The third party may do this by accessing our repository and querying for the status of the Digital ID. We do not generally delete Digital IDs (and their content) from our on-line repository because a third party might not then be able to check its status. You may, however, revoke (deactivate) your Digital ID. A revoked Digital ID will still appear in our repository with an indication that it has been revoked. If you are a Digital ID subscriber and would like to have your Digital ID revoked (deactivated) from our database, please visit our site at [http://www.verisign.com/ssl/revoke.html](https://web.archive.org/web/20070630180042id_/http%3A//www.verisign.com/ssl/revoke.html) and follow the listed instructions or contact us via e-mail at [id-support@verisign.com](mailto:id-support@verisign.com) (for Class 1 and Class 2 Digital IDs) or at [support@verisign.com](mailto:support@verisign.com) (for Class 3 Digital IDs) or at the address given at the end of this Privacy Statement.
 
 ### Email this Page
 
@@ -146,7 +146,7 @@ Mountain View, California 94043
   
 ### EU Safe Harbor Participation
 
-This Section of the Privacy Statement describes how VeriSign, Inc. (“VeriSign”) handles personal data of representatives of, and event data related to, certain customers from the European Union in connection with the following Managed Security Services:  Firewall Management Services (formerly known as Managed Firewall and VPN Services), Firewall Monitoring Services, Intrusion Prevention Management Services (formerly known as Managed Intrusion Prevention Services), Intrusion Prevention Monitoring Services, Intrusion Detection Management Services (formerly known as Managed Intrusion Detection Services), Intrusion Detection Monitoring Services, Vulnerability Management Services (formerly known as Managed Vulnerability Protection Services), Vulnerability Alerting Services (formerly known as Managed Vulnerability Alerting Services), PCI Quarterly Scanning Services, and Incident Response and Forensics Services (formerly known as Managed Incident Response and Forensics Services) (the “Covered Services”).  Specifically, VeriSign adheres to the US-EU Safe Harbor Privacy Principles (“EU Safe Harbor”) with respect to certain personally identifiable information that it receives from customers in the European Union related to the Covered Services (“EU Personal Data”).  VeriSign has various other business units, service offerings, and data collections which are not covered by this Section of the Privacy Statement, nor by VeriSign’s participation in the EU Safe Harbor and VeriSign makes no EU Safe Harbor representations with respect to any data collected or used in these business units, service offerings or data collections.  For further background about the EU Safe Harbor, please refer to the U.S. Department of Commerce’s website at [http://www.export.gov/safeharbor](http://www.export.gov/safeharbor).
+This Section of the Privacy Statement describes how VeriSign, Inc. (“VeriSign”) handles personal data of representatives of, and event data related to, certain customers from the European Union in connection with the following Managed Security Services:  Firewall Management Services, Firewall Monitoring Services, Intrusion Prevention Management Services, Intrusion Prevention Monitoring Services, Intrusion Detection Management Services, Intrusion Detection Monitoring Services, Vulnerability Management Services, Vulnerability Alerting Services, PCI Scanning Services (formerly known as PCI Quarterly Scanning Services), Incident Response and Forensics Services, Log Management Services, and Wireless Intrusion Prevention Services (the “Covered Services”).  Specifically, VeriSign adheres to the US-EU Safe Harbor Privacy Principles (“EU Safe Harbor”) with respect to certain personally identifiable information that it receives from customers in the European Union related to the Covered Services (“EU Personal Data”).  VeriSign has various other business units, service offerings, and data collections which are not covered by this Section of the Privacy Statement, nor by VeriSign’s participation in the EU Safe Harbor and VeriSign makes no EU Safe Harbor representations with respect to any data collected or used in these business units, service offerings or data collections.  For further background about the EU Safe Harbor, please refer to the U.S. Department of Commerce’s website at [http://www.export.gov/safeharbor](http://www.export.gov/safeharbor).
 
 Collection and Use of EU Personal Data
 
@@ -169,14 +169,14 @@ Questions
 If you have any questions about this EU Safe Harbor Privacy Statement, or if you would like to request access to EU Personal Data that VeriSign may maintain about you, please contact us as follows:
 
 Rebecca Matthias   
-Senior Corporate Counsel, Legal Department   
+Director, Legal   
 VeriSign, Inc.   
 487 East Middlefield Road   
 Mountain View, California 94043   
 Email:  [EUsafeharbor@verisign.com](mailto:EUsafeharbor@verisign.com)   
 Telephone:  1-650-426-5555 (specify Safe Harbor)
 
-Any questions regarding VeriSign’s EU Safe Harbor Participation should first be directed to the VeriSign contact above. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you may then contact [TRUSTe](https://www.truste.org/pvr.php?page=complaint) for further information.
+Any questions regarding VeriSign’s EU Safe Harbor Participation should first be directed to the VeriSign contact above. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you may then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php) for further information.
 
 Failed to load XML file with Content ID '002866'.   
 
