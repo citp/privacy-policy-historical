@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sage.co.uk privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205203610id_/http%3A//www.sage.co.uk/legal/home.aspx%3Ftid%3D141648) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sage.co.uk privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630072636id_/http%3A//www.sage.co.uk/legal/home.aspx%3Ftid%3D141648) for the most accurate reproduction.*
 
 # Sage (UK) Limited - Legal
 
@@ -27,7 +27,7 @@ Cookies
 
 3.2. A cookie is a small text file which is transferred from a website and stored on your computer’s hard drive. It enables a website to “remember” who you are.
 
-3.3. Most browsers are automatically set to accept cookies but if you are using Microsoft’s Internet Explorer or Netscape Navigator, you should be able to configure your browser to restrict cookies or block all cookies if you wish. This will however, affect your ability to log into and use our shopping channel, community areas and other restricted areas of our website. Browser-specific instructions on how to restrict or block cookies may be found on the Interactive Advertising Bureau’s website at [http://www.allaboutcookies.org.uk](http://www.allaboutcookies.org.uk/).
+3.3. Most browsers are automatically set to accept cookies but if you are using Microsoft’s Internet Explorer or Netscape Navigator, you should be able to configure your browser to restrict cookies or block all cookies if you wish. This will however, affect your ability to log into and use our shopping channel, community areas and other restricted areas of our website. Browser-specific instructions on how to restrict or block cookies may be found on the Interactive Advertising Bureau’s website at [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
 3.4. We use session cookies (which are temporary cookies) in the products and services and communities sections of our website to verify your identity when you log in, to keep track of which pages you visit and what is in your shopping basket, to personalise our service to you, including sending you or your business any marketing information you have indicated you would be happy to receive and to improve our website. Our session cookies currently contain your customer account number and company name. From approximately March 2004, our session cookies will contain your email address. Session cookies are deleted when you close your browser (i.e. the software program you use for searching and viewing various kinds of Internet resources such as information on a web site).
 
