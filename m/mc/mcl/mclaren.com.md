@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mclaren.com privacy policy that was archived on 2006-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061128134327id_/http%3A//www.mclaren.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mclaren.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630220358id_/http%3A//www.mclaren.com/privacy.php) for the most accurate reproduction.*
 
-# Team McLaren Mercedes -
+# Vodafone McLaren Mercedes -
 
 McLaren Marketing shall only use personal data collected during your use of this website in accordance with all relevant United Kingdom data protection legislation. 
 
