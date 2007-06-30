@@ -1,8 +1,14 @@
-> *The following text is extracted and transformed from the geebo.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213201329id_/http%3A//geebo.com/atl.cgi%3Ffilter%3DPrivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geebo.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630112306id_/http%3A//www.geebo.com/Privacy.html) for the most accurate reproduction.*
 
-# geebo
+# Privacy Policy
+
+  | 
+
+## ****
 
 ## **Privacy Policy**
+
+* * *
 
 Geebo takes your privacy seriously.  Please read the following to learn more about our privacy policy.
 
@@ -64,6 +70,6 @@ Customer Care - Privacy Policy Issues
 McLean, VA 22101  
 (888) 235-3134**
 
->  
-
-__
+>    
+  
+---|---
