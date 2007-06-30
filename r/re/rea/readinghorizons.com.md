@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readinghorizons.com privacy policy that was archived on 2006-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061103040722id_/http%3A//www.readinghorizons.com/company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readinghorizons.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630233636id_/http%3A//www.readinghorizons.com/company/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - HEC Reading Horizons
 
