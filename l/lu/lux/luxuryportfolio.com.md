@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the luxuryportfolio.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217021902id_/http%3A//luxuryportfolio.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxuryportfolio.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630102444id_/http%3A//www.luxuryportfolio.com/privacy-policy.cfm) for the most accurate reproduction.*
 
-# Luxury Portfolio - Privacy Policy
-
-  
-|  | 
+# Privacy Policy | Luxury Portfolio
 
 Leading Real Estate Companies of the World (referred to herein as "the Partnership," "we" or "us" or "our") is committed to protecting the privacy of the users of this Website.
 
@@ -41,11 +38,3 @@ Information about our customers is important to our business, and we are not in 
 
 **DATA SECURITY**  
 Data security is critical to us and thus all Personal Information is held in a secured database. While it is impossible to guarantee the complete security of any computer system and the data contained therein, we maintain and implement robust security policies and procedures that combine with available technologies in accordance with prevailing industry standards, all of which are designed to protect the confidentiality, integrity, and availability of your Personal Information.
-
-  
-
-
-* * *
-
-The Luxury Portfolio™ Fine Property Collection is comprised of the very best independent luxury real estate brokerages from all over the world, including North and South America, Europe, Australia and islands of the Caribbean, Mediterranean and Pacific. The firms of the Collection offer a network of knowledgeable professionals accustomed to delivering the premium level of service required by sophisticated buyers and sellers.  
-| 
