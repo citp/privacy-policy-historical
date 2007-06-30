@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidssoup.com privacy policy that was archived on 2006-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060822004853id_/http%3A//kidssoup.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidssoup.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630042714id_/http%3A//www.kidssoup.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Christmas craft ideas- Easy Holiday Crafts - Christmas Activities - Holiday Coloring Pages
 
