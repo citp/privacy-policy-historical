@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metacafe.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214112505id_/http%3A//www.metacafe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metacafe.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630223516id_/http%3A//www.metacafe.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,7 +44,7 @@ Metacafe has implemented security policies, rules and technical measures to prot
 **California Privacy Policy**
 
 Metacafe's Privacy Policy is to share personal information only with the owner's informed consent. With your consent, from time-to-time, Metacafe may provide its business partners with contact details for direct marketing purposes of relevant services, products, and programs. If you no longer wish your information to be shared, please let us know. If you have further inquires regarding Metacafe's information sharing practices, please let us know.   
-The designated contact for these queries is [ metacafe@bradypr.com](mailto:metacafe@bradypr.com).
+The designated contact for these queries is Shev Rush Public Relations - 1.760.567.4321, 1.408.398.6987.
 
 **Special Note for Parents**
 
