@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the idealware.org privacy policy that was archived on 2006-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061024212956id_/http%3A//www.idealware.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idealware.org privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630213338id_/http%3A//www.idealware.org/privacy.php) for the most accurate reproduction.*
 
 # Idealware: Privacy Policy
 
 Idealware Privacy Policy  
 
 
-Last updated Jan 15th, 2005   
+Last updated Jan 15th, 2006  
 
 
 Idealware takes privacy issues very seriously. This privacy policy identifies the ways we collect, use and protect personally identifiable information as well as your options for accessing and correcting that information. 
