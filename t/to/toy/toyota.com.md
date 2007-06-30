@@ -1,16 +1,24 @@
-> *The following text is extracted and transformed from the toyota.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111174738id_/http%3A//www.toyota.com/html/privacy/index.html%3Fs_van%3DGM_BTN_PRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toyota.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630120642id_/http%3A//www.toyota.com/html/privacy/index.html%3Fs_van%3DGM_BTN_PRIVACY) for the most accurate reproduction.*
 
 # Toyota.com : Help : Privacy
 
-Your Privacy Rights
+Your Privacy Rights  
+Effective as of 01/01/07  
+(Continental United States Only.) 
 
-During 2005 Toyota only shared personal information about our customers with our authorized Toyota dealers and Toyota Financial Services where the information was used for the recipient's own marketing. Click here to see a list of authorized Toyota dealers. Toyota Financial Services is located at:
+During 2006 Toyota only shared personal information about our customers with our authorized Toyota dealers, Toyota Financial Services and XM Satellite Radio where the information was used for the recipient's own marketing. Click here to see a list of authorized Toyota dealers. Toyota Financial Services is located at:
 
 Toyota Financial Services - Mailstop EF10  
 19001 S. Western Ave.  
 Torrance, CA 90501
 
-We shared the following types of information with Toyota Financial Services and our authorized dealers:
+XM Satellite Radio is located at:
+
+XM Satellite Radio  
+1500 Eckington Place NE  
+Washington DC 20002-2194 
+
+We shared the following types of information with XM Satellite Radio, Toyota Financial Services and our authorized dealers:
 
   * Name
   * Address
@@ -27,8 +35,7 @@ Toyota Customer Relations - Mailstop WC11
 Torrance, CA 90501 
 
 Online Privacy Policy  
-Effective as of 6/01/06  
-(Continental United States Only.)
+Effective as of 01/02/07
 
 To learn about our privacy policies and practices with respect to this website, read our online privacy policy below.
 
@@ -90,6 +97,6 @@ Third-Party Advertising Companies
 Toyota shares Web site usage information about visitors to our Web site with one or more reputable third-party advertising companies for the purpose of measuring the effectiveness of our online advertising initiatives. For this purpose, we and our third-party advertising companies note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). We may also utilize Web beacons to determine the correlation between Toyota purchasers and the online sites they visit. The information collected by our third-party advertising companies through the use of these pixel tags and Web beacons is not personally identifiable. For more information about Web beacons or opting out, please [click here](http://www.networkadvertising.org/).
 
 Links to Other Websites  
-This site includes links to other websites, such as the site for Toyota Financial Services and to sites for Toyota dealers. These sites have their own privacy and information security policies and terms and conditions. Please review the privacy policy and terms and conditions sections of these websites for additional details. To reach the privacy policy for Toyota Financial Services, please [click here](http://www.toyotafinancial.com/legal/privacy.html).
+This site includes links to other websites, such as the site for Toyota Financial Services and to sites for Toyota dealers. These sites are not under our control, even though they may use the Toyota name or logo on their site through an agreement with us. Such other sites do not necessarily follow our privacy policies, and may place their own cookies on your computer. This practice is standard on the Web, and we do not control cookies placed on your computer by third parties whose advertising or links appear on our site. These sites have their own privacy and information security policy and terms and conditions. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties. To reach the privacy policy for Toyota Financial Services, please click here.
 
 Back to top
