@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the theesa.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207123106id_/http%3A//theesa.com/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theesa.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630045804id_/http%3A//www.theesa.com/privacy/index.php) for the most accurate reproduction.*
 
 # ESA
 
 ESA Privacy Policy
 
-_[](https://www.esrb.org/confirm/esa-confirmation.htm)  
+_[](https://www.esrb.org/confirm/esa-confirmation.jsp)  
 _
 
 _  
