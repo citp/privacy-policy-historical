@@ -1,34 +1,9 @@
-> *The following text is extracted and transformed from the nysed.gov privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214193441id_/http%3A//usny.nysed.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nysed.gov privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630130110id_/http%3A//usny.nysed.gov/privacy.html) for the most accurate reproduction.*
 
 # Internet Privacy and Security Policy
 
-| 
-
-Resources for:  
   
----  
-- [Citizens](https://web.archive.org/web/20061214193441id_/http%3A//citizens/)  
-- [Individuals with Disabilities](https://web.archive.org/web/20061214193441id_/http%3A//disa/)  
-- [Licensed Professionals](https://web.archive.org/web/20061214193441id_/http%3A//professionals/)  
-- [Parents](https://web.archive.org/web/20061214193441id_/http%3A//parents/)  
-- [School Administrators](https://web.archive.org/web/20061214193441id_/http%3A//schooladmin/)  
-- [Students](https://web.archive.org/web/20061214193441id_/http%3A//students/)  
-- [Teachers](https://web.archive.org/web/20061214193441id_/http%3A//teachers/)  
-   
-  
-Information about:  
-  
-- [Grants & Finance](https://web.archive.org/web/20061214193441id_/http%3A//grants/)  
-- [Higher Education](https://web.archive.org/web/20061214193441id_/http%3A//highered/)  
-- [ Latest News on ELA & Math: Grades PreK-8 & Commencement](http://www.emsc.nysed.gov/3-8/)  
-- [Laws & Regulations](https://web.archive.org/web/20061214193441id_/http%3A//lawsregs/)  
-- [Licensing & Certification](https://web.archive.org/web/20061214193441id_/http%3A//licensing/)  
-- [Museum, Library & Archives](https://web.archive.org/web/20061214193441id_/http%3A//museum/)  
-- [PreK-Adult Education](https://web.archive.org/web/20061214193441id_/http%3A//prekadult/)  
-- [SED Online Services](http://portal.nysed.gov/) \- A link to NYSED Portal  applications and more.  
-   
-[RSS News Feeds](https://web.archive.org/web/20061214193441id_/http%3A//newsfeed/)  
-|  |  |  [SED Home](http://www.nysed.gov/) > [Disclaimers and Notices](https://web.archive.org/web/20061214193441id_/http%3A//usny.nysed.gov/notice.html) > **Internet Privacy and Security Policy**   
+|  |  |  |  [SED Home](http://www.nysed.gov/) > [Disclaimers and Notices](https://web.archive.org/web/20070630130110id_/http%3A//usny.nysed.gov/notice.html) > **Internet Privacy and Security Policy**   
 
 
 Internet Privacy and Security Policy
