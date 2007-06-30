@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corpedia.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208105714id_/http%3A//welcome.corpedia.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corpedia.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630112434id_/http%3A//welcome.corpedia.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Corpedia, Inc. | Ethics & Compliance Solutions: Privacy Policy
 
@@ -6,17 +6,15 @@
 
 ## OUR COMMITMENT TO YOUR PRIVACY
 
-Corpedia has created this privacy policy in order to demonstrate our firm commitment to protecting your privacy. The following discloses our information gathering and dissemination practices for this Web site, www.corpedia.com. This Privacy Policy explains and summarizes how we collect, use and protect your personal information as you interact with us online and through our customer and technical supports services, if any. If you are visiting from outside the United States, there may be special rules or limitations on your use of this Web site. 
+Corpedia has created this privacy policy in order to demonstrate our firm commitment to protecting your privacy. This Privacy Policy explains and summarizes how we collect, use and protect your personal information as you interact with us online and through our customer and technical supports services, if any. If you are visiting from outside the United States, there may be special rules or limitations on your use of this Web site. 
 
 Corpedia is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [www.corpedia.com](http://www.corpedia.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact Corpedia Customer Support at (877) 629-8724. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact Corpedia Customer Support at (877) 629-8724. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>, fax at 415-520-3420, or mail to Watchdog Complaints, TRUSTe, 685 Market Street, Suite 270, San Francisco, CA, USA 94105. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. The resolution process shall be conducted in English. . TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 Corpedia abides by the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. As part of our participation in Safe Harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. 
 
-If you have any complaints regarding our compliance with Safe Harbor, you should first contact us. If contacting us does not resolve your issue, you may raise your complaint with TRUSTe by Internet at <http://www.truste.org/consumers/watchdog_complaint.php>, fax at 415-520-3420, or mail to Watchdog Complaints, TRUSTe, 685 Market Street, Suite 270, San Francisco, CA, USA 94105. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of the company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, please visit <http://www.truste.org/consumers/watchdog_complaint.php> or request this information from TRUSTe at the addresses listed above. Please note: The TRUSTe dispute resolution process shall be conducted in English. 
-
-This Privacy Policy is effective upon acceptance for new users and is otherwise effective on April 5th, 2006.
+This Privacy Policy is effective upon acceptance for new users and is otherwise effective on June 6th, 2007.
 
 ## INFORMATION COLLECTION AND USE
 
@@ -32,7 +30,7 @@ In terms of demographic/profile data that is collected at our site, we use this 
 
 ### Web Site Usage
 
-Corpedia, or Corpedia authorized service providers, may observe your activities, preferences, and transactional data (such as your IP address and browser type) relating to your use of this Web site. While we may collect or log this information, we do not identify you or match this information with your other personal information except as set forth herein or with your prior consent. We may use this collected or logged information to diagnose Web site technical problems, or to facilitate your use of the site. Corpedia, or one of our authorized service providers, or we may use this information to track aggregate traffic patterns throughout this Web site. European Union (“EU”) visitors should refer to Corpedia’s European Union Privacy Notice.
+Corpedia, or Corpedia authorized service providers, may observe your activities, preferences, and transactional data (such as your IP address and browser type) relating to your use of this Web site. While we may collect or log this information, we do not identify you or match this information with your other personal information except as set forth herein or with your prior consent. We may use this collected or logged information to diagnose Web site technical problems, or to facilitate your use of the site. Corpedia, or one of our authorized service providers, or we may use this information to track aggregate traffic patterns throughout this Web site. 
 
 ### Log Files
 
@@ -60,13 +58,23 @@ We use this information to create broad demographic profiles as well as to conta
 
 We use a third party service provider to conduct these surveys; that company is prohibited from using our users’ personally identifiable information for any other purpose.
 
+### Testimonials
+
+We post customer testimonials on our web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial.
+
 ## USE OF COLLECTED INFORMATION
 
-**Corpedia Partners/Suppliers** \- Corpedia may work with some authorized service providers to provide technical and customer support, shipping, credit card processing, product fulfillment or other services. Corpedia’s policy is to require these service providers to safeguard any personal information you provide to us. To the extent it is necessary for these service providers to complete their contractual obligations to Corpedia; these third parties may have access to or process your personal information. Except as otherwise authorized by you, Corpedia limits its use of your personal information to the purpose for which it was shared. 
+### Corpedia Partners/Suppliers
 
-**Mergers, Acquisitions and Bankruptcy** \- If Corpedia should ever file for bankruptcy or merge with another company, or if Corpedia should decide to buy, sell or reorganize some part or all of its business, Corpedia may be required to disclose your personal information to prospective or actual purchasers or receive personal information from sellers. It is Corpedia’s practice to seek appropriate protection for information disclosed or received in these types of transactions. 
+Corpedia may work with some authorized service providers to provide technical and customer support, shipping, credit card processing, product fulfillment or other services. Corpedia’s policy is to require these service providers to safeguard any personal information you provide to us. To the extent it is necessary for these service providers to complete their contractual obligations to Corpedia; these third parties may have access to or process your personal information. Except as otherwise authorized by you, Corpedia limits its use of your personal information to the purpose for which it was shared. 
 
-**As Required by Law and Other Extraordinary Disclosures** \- Corpedia may be required to disclose your personal information if it: (i) believes it is reasonably necessary to comply with legal process (such as a court order, subpoena, search warrant, etc.) or other legal requirements of any governmental authority; (ii) would potentially mitigate our liability in an actual or potential lawsuit; (iii) is otherwise necessary to protect our rights or property; or (iv) is necessary protect the interest of other users of our Web site. 
+### Mergers, Acquisitions and Bankruptcy
+
+If Corpedia should ever file for bankruptcy or merge with another company, or if Corpedia should decide to buy, sell or reorganize some part or all of its business, Corpedia may be required to disclose your personal information to prospective or actual purchasers or receive personal information from sellers. It is Corpedia’s practice to seek appropriate protection for information disclosed or received in these types of transactions. 
+
+### As Required by Law and Other Extraordinary Disclosures 
+
+Corpedia may be required to disclose your personal information if it: (i) believes it is reasonably necessary to comply with legal process (such as a court order, subpoena, search warrant, etc.) or other legal requirements of any governmental authority; (ii) would potentially mitigate our liability in an actual or potential lawsuit; (iii) is otherwise necessary to protect our rights or property; or (iv) is necessary protect the interest of other users of our Web site. 
 
 ## COMMUNICATIONS FROM THE WEB SITE
 
@@ -84,9 +92,13 @@ Based on the personally identifiable information you provide us, we will communi
 
 ## INTERNATIONAL VISITORS AND CUSTOMERS 
 
-**Corpedia Worldwide** \- Corpedia operates globally and privacy laws differ across the globe. To help visitors from countries outside the United States understand our privacy practices we provide special information on our privacy policies that may be applicable to these visitors. This Web site is hosted in the United States and is intended for United States visitors. If you are visiting from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personal data to the United States and by providing your personal data you consent to that transfer. EU residents should refer to Corpedia’s European Union Privacy Notice for details on Corpedia’s data protection practices as they relate to EU consumers. 
+### Corpedia Worldwide
 
-**EU Safe Harbor Adherence** \- Corpedia adheres to the Safe Harbor principles agreed to by the United States and EU relating to data protection. For more information about Safe Harbor, please visit the [U.S. Department of Commerce Web site](http://www.export.gov/safeharbor/). 
+Corpedia operates globally and privacy laws differ across the globe. To help visitors from countries outside the United States understand our privacy practices we provide special information on our privacy policies that may be applicable to these visitors. This Web site is hosted in the United States and is intended for United States visitors. If you are visiting from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personal data to the United States and by providing your personal data you consent to that transfer.
+
+### EU Safe Harbor Adherence
+
+Corpedia adheres to the Safe Harbor principles agreed to by the United States and EU relating to data protection. For more information about Safe Harbor, please visit the [U.S. Department of Commerce Web site](http://www.export.gov/safeharbor/). 
 
 ## SECURITY
 
@@ -102,19 +114,17 @@ This Web site contains links to other Web sites that are not owned or controlled
 
 This privacy policy applies only to information collected by this Web site.
 
-## CHANGES TO THIS PRIVACY POLICY
-
-If we decide to change our privacy policy, we will post those changes to this privacy policy, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
-
 ## CHANGING YOUR PRIVACY PREFERENCES WITH CORPEDIA
 
-By using our Web site, you consent to the collection and use of your personal information by Corpedia. If, in the future, we change the Privacy Policy, we will post the updated policy on this Web site. If this policy is somehow materially less restrictive or protective of your privacy than the current policy, we will not apply the less protective aspects of the revised policy to information you have previously provided to us without first obtaining your consent. If we have a way of contacting you electronically, we will do so in the way you have instructed us to obtain your consent. Should you wish to change your privacy preferences with Corpedia, you may send an email to [support@corpedia.com](mailto:support@corpedia.com) or call (877) 629-8724.
+By using our Web site, you consent to the collection and use of your personal information by Corpedia. If, in the future, we change the Privacy Policy, we will post the updated policy on this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
 
 We reserve the right to change this policy in the future. Your continued use of this Web site following a change in the privacy policy represents consent to the new policy. We encourage you to periodically review this Privacy Policy.
 
 ## ACCESSING AND/OR UPDATING YOUR PERSONAL INFORMATION
 
-If your personally identifiable information changes, you may update this information by emailing our Customer Support at [support@corpedia.com](mailto:support@corpedia.com), or by contacting us by telephone toll-free at (877) 629-8724 or if you are a user of our eLearning courseware, you may log into the application and change your profile information. 
+If your personally identifiable information changes, you may update or delete this information by emailing our Customer Support at [support@corpedia.com](mailto:support@corpedia.com), or by contacting us by telephone toll-free at (877) 629-8724 or if you are a user of our eLearning courseware, you may log into the application and change your profile information. 
 
 A user may request access to his/her personal identifiable information at any time. If a user contacts Corpedia either by email or telephone, they can expect to receive a response to their request for access to their personal identifiable information within 5 business days.
 
@@ -136,58 +146,4 @@ Suite 1050
 Phoenix, Arizona 85004  
 Phone: (877) 629-8724  
 Fax: (602) 712-0019  
-E-mail: [info0307@corpedia.com](mailto:info0307@corpedia.com)
-
-Corpedia believes it is important to protect and respect the privacy of our EU customers and Web site visitors from whom we receive personal data. To help you understand the Corpedia Privacy Policy and to educate you about EU specific components of our policy, Corpedia provides this supplemental EU Privacy Notice. This Notice further explains how the Corpedia Privacy Policy applies to EU customers and EU Web site visitors. 
-
-This Notice does not apply to non-EU customers and non-EU Web site visitors. 
-
-## USE OF U.S. WEB SITE AND U.S. DATA PROCESSING 
-
-Any personal data collected from EU visitors to this Web site or when you contact Corpedia’s customer or technical support will be processed in the United States by Corpedia or an authorized party acting on its behalf. 
-
-Corpedia is the responsible party for the processing of your personal data although the goal of our policy is to give you control over your personal data. 
-
-When you provide personal data to Corpedia, you consent to the processing of your data in the United States as this Web site is operated in the United States. 
-
-## SAFE HARBOR CERTIFICATION 
-
-Corpedia adheres to the Safe Harbor principles negotiated between the United States and the EU regarding data protection with regard to customer data and personal data Corpedia receives from a user of Corpedia software as well as when Corpedia provides technical and customer support. Accordingly, when visiting this Web site or providing personal data to Corpedia through our technical or customer support, Corpedia has taken steps to ensure the adequate protection of the processing of your personal data. 
-
-## EU COOKIE POLICY 
-
-**Web Site Usage** \- Corpedia, or Corpedia authorized service providers, may observe your activities, preferences, and transactional data relating to your use of this Web site. While we may collect or log this information, we do not identify you or match this information with your other personal information (such as your IP address). We may use this collected or logged information to diagnose Web site technical problems. Corpedia, or one of our authorized service providers, also may use this information to track aggregate traffic patterns throughout this Web site. 
-
-**Cookies** \- To the extent Web site usage information is developed in connection with your IP address through session cookies, we will only use this information to facilitate your use of the Corpedia Web site. 
-
-Cookies are data files that are written onto your computer by a Web site. At the end of your visit, the session cookies are removed.
-
-We also set a persistent cookie to store your username, so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. A persistent cookie remains on your hard drive for an extended period of time. 
-
-You may set your browser to notify you when you receive a cookie or to refuse receiving it. Be aware that this may interfere with or make you unable to use certain functionality on Web sites using cookies. For example, many Web sites will ask your permission to use a cookie that will enable you to automatically log on to the Web site. Disabling or removing cookies may require you to manually log on each time you wish to visit that Web site. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
-
-## COLLECTION AND USE OF PERSONAL DATA 
-
-Corpedia does collect personal data from its European customers and Web site visitors as part of its business operation. 
-
-### Registration
-
-Our Web site registration form(s) for online courseware products may require customers to give us specific contact information (such as name and e-mail address), unique company information (such as employee ID, department name, business unit, etc) and demographic information (such as gender, ethnicity, zip code, etc). The extent of information collected depends on unique contractual agreements with our client organizations. We use this information to register client organization employees for online courseware programs, enable users to participate in risk assessment surveys and/or contact customers about the services offered by Corpedia. 
-
-### Marketing Surveys
-
-Corpedia can and does accept personal data from European customers who participate in online surveys. These surveys are conducted as part of Corpedia’s software applications pursuant to our agreements with our organizational customers.
-
-If you participate in these surveys, we will request certain personally identifiable information from you. The requested information typically includes contact information (such as name and email address), and demographic information (such as country or region). Participation in these surveys is completely voluntary and you therefore will be given a choice whether or not to disclose this information.
-
-### Customer/Technical Support
-
-Corpedia can and does accept personal data from European customers who contact it for customer and technical support purposes. Corpedia limits its use of personal data provided by you for these purposes. At the point of personal data collection Corpedia attempts to provide clear notice to you of the purpose for collection and obtain your consent to use your personal data. When asked for personal data you should look for links to the Corpedia Privacy Policy and this EU Privacy Notice.
-
-When you contact Corpedia to obtain customer support, you may be asked for certain personal data. Corpedia does not use the personal data you provide to market directly to you without your permission. We do not share your personal data with third parties for their direct marketing purposes. Please refer to our global Privacy Policy for detailed information on data protection. 
-
-## CHANGING YOUR DATA PREFERENCES AND OBJECTING TO DATA USE OR COLLECTION 
-
-You may at all times request access to, correction of or deletion of personal data. For help with changing your privacy preferences, accessing your information or for any privacy or data protection related question or concern [click here](mailto:support@corpedia.com) to contact our Customer Support team.
-
-Questions, concerns or complaints regarding Corpedia’s Privacy Policy may be sent to: [support@corpedia.com](mailto:support@corpedia.com). 
+E-mail: [privacy@corpedia.com](mailto:privacy@corpedia.com)
