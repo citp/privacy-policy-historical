@@ -1,34 +1,86 @@
-> *The following text is extracted and transformed from the biblio.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209115810id_/http%3A//www.biblio.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biblio.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630174628id_/http%3A//www.biblio.com/privacy.php) for the most accurate reproduction.*
 
 # Biblio: privacy and security
 
+[](http://www.truste.org/ivalidate.php?url=www.biblio.com&sealid=101)   
   
-Biblio.com Inc., including its partners and affiliates, is dedicated to protecting the privacy of its Web site visitors. In order to show this commitment, Biblio.com Inc. follows certain procedures designed to safeguard the information entrusted to it. These procedures are set forth in the following paragraphs. 
+Biblio Inc., including its partners and affiliates, is dedicated to protecting the privacy of its Web site visitors. In order to show this commitment, Biblio Inc. follows certain procedures designed to safeguard the information you entrust to it. These procedures are set forth in the following paragraphs. 
 
-Biblio.com Inc. uses the information provided by its Web site visitors only for the services described in the site. Biblio.com Inc. provides this access to this information to such persons only when they identify themselves and/or the institution they represent, and give the proper user password. Biblio.com Inc. does not sell, share or otherwise provide information about its Web site visitors to others for any purpose. 
+Biblio Inc. is the sole owner of the information collected on Biblio.com. Biblio, Inc. collects personally identifiable information from our users at several different points on our Web site. Biblio Inc. does not materially alter the information provided by its Web site visitors, nor does it supplement the information from its own or third party sources. 
 
-Biblio.com Inc. uses its Subscriber's Internet Protocol (IP) addresses to administer the Biblio.com Inc. web site and to help diagnose computer hardware and software problems. Biblio.com Inc. does not use Subscriber IP addresses for any other purpose. 
+**Registration:**  
+When using Biblio.com, you have the option to create a user name and password by completing a registration form. During registration you are required to give contact information (such as name and email address). We use this information to contact you about the services on our site in which you have expressed interest. 
 
-With respect to cookies: Biblio.com Inc. uses cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site, customize Web page content based on visitors' browser type or other information that the visitor sends. 
+**Orders:**  
+If you place an order on Biblio.com, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and shipping address) and, depending on the payment method you choose, you may be asked to provide financial information (such as credit card number, expiration date). 
 
-If specifically requested by the site visitor, Biblio.com Inc. may use the contact information (e.g. name and e-mail address) provided by its Web site visitors to send selected promotional material and information about Biblio.com Inc. to its Web site visitors and customers. **We will not SPAM you**. 
+We use this information for billing purposes and to fill your orders. We will also use this information to notify you when your order has been shipped and to contact you if we have trouble processing your order.
 
-Biblio.com Inc. uses the individual identifiers provided by its Web site visitors for internal business tracking, and identifying Web site visitors. Biblio.com Inc. does not sell, share or otherwise provide the individual identifiers of its Web site visitors to others for any purpose. 
+**Email to a friend:**  
+If you choose to use our 'email to a friend' service to tell a friend about a book you found on Biblio.com, we will ask you for your friends name and email address. We will automatically send your friend a one-time email with a link to the item on Biblio.com. Biblio Inc. does not store this information and uses it for the sole purpose of sending this one-time email and tracking the success of our 'email to a friend' program. 
 
-Biblio.com Inc. uses the demographic information (e.g. age and zip code) provided by its Web site visitors for internal Biblio.com Inc. marketing purposes only. Biblio.com Inc. does not sell, share or otherwise provide demographic information about its Web site visitors to others for any purpose. 
+**Agents:**  
+We use a credit card processing company to bill you for orders placed on Biblio.com. This company does not retain, share, store or use personally identifiable information for any other purposes.
 
-Biblio.com Inc. has certain security measures in place to protect the loss, misuse or alteration of the information under its control. This includes the use of secure servers, passwords and data encryption. Although Biblio.com Inc. uses reasonable efforts to prevent the unauthorized access, transfer or communication of information provided by its Web site visitors, Biblio.com Inc. does not make any assurances regarding the control or security of such information. It is the user's sole responsibility to keep their passwords secure. Since each user maintains control over the confidential passwords needed to access information, it is important that the passwords are not revealed to anyone else. In addition, since passwords are under each user's exclusive control, Biblio.com Inc. must presume that anyone accessing user information is authorized to do so. 
+**Service Providers:**  
+As a marketplace site, we rely of the services of our Bookseller Members to process and ship your order. To make it possible for our Bookseller Members to process and ship your order, we share your personally identifiable information, such as your name, address, phone number and email address, and financial information such as your credit card number. Your financial information is always securely provided to the Bookseller member using SSL encryption.
 
-Biblio.com Inc. does not materially alter the information provided by its Web site visitors, nor does it supplement the information from its own or third party sources. 
+Our Bookseller Members are prohibited from using your personally identifiable information and financial information for any other purpose.  
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
 
-Biblio.com Inc. does not solicit or request information from children or individuals under the age of eighteen. Information about visitors who are under the age of eighteen is to be provided by a parent or legal guardian. 
+If you use a bulletin board, blog, or post book reviews or comments on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
 
-If you feel that this site is not following its stated information policy, you may contact us at the below address or phone number. 
+We do not sell, rent or share your Personally Identifiable Information with Third Parties. Except as disclosed in this privacy policy.
 
-Our postal address is: 
+**Choice/Opt-out:**  
+When you register for an account on Biblio.com you are asked if you would like to receive the Biblio.com monthly newsletter.  
+We provide you the opportunity to opt-out of having your email address used for this purpose when we ask for this information. For example, if you create an account but do not wish to receive our newsletter, you can indicate your preference on our registration form. 
 
-Biblio.com Inc.   
-PO Box 1211   
-Asheville, NC 28802-1211 
+If you no longer wish to receive our newsletter, you may opt-out of receiving it by following the instructions included in each newsletter or you may contact us at [support@biblio.com](mailto:support@biblio.com), 800-813-9432 or P.O. Box 1211 Asheville, NC 28802 to opt-out.
 
-We can be reached via e-mail at support@biblio.com or you can reach us by telephone at (828) 350-0744 
+You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
+
+**Access to Personally Identifiable Information:**  
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, or update it by making the change on our account information page ([http://www.biblio.com/account_menu.php](http://www.biblio.com/)) or by emailing our Customer Support at [support@biblio.com](mailto:support@biblio.com) or by contacting us by telephone or postal mail at the contact information listed below.
+
+**Tracking Technologies:**  
+A cookie is a small text file that is stored on a users computer for record-keeping purposes. We use cookies on biblio.com. We do link the information we store in cookies to any personally identifiable information you submit while on our site.
+
+We use both session ID cookies and persistent cookies. [We use session cookies to make it easier for you to navigate our site.] A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browsers help file. 
+
+Cookies are used on our site to keep track of items you have placed in your shopping cart for purchase, to retain your session login so that you do not have to re-enter your password to perform actions such as adding items to your cart and completing the checkout steps. Cookies are also used to help our site remember certain preferences, such as your ship to country and preferred shipping speed, and to associate qualifying purchases with Biblio's affiliate partners, in order to ensure that they are paid accurately for the referral services they perform.
+
+If you reject cookies, you may still use our site, but you will not be able to place orders. In order to purchase online using our secure checkout, cookies must be enabled. This is so that our system can associate your purchase with your account and shopping cart. You have the option to remove this information at the completion of your purchase, or to request that our system remember your information for future purchases.
+
+Some of our business partners (e.g., web analytics providers and affiliate management providers) use cookies on our site. We have no access to or control over these cookies. 
+
+This privacy statement covers the use of cookies by Biblio.com only and does not cover the use of cookies by any business partners. 
+
+**Security Practices:**  
+The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). 
+
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+
+If you have any questions about security on our Web site, you can send email us at [support@biblio.com](mailto:support@biblio.com).
+
+**Changes in this Privacy Statement:**  
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+
+Biblio, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.biblio.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+
+If you have questions or concerns regarding this statement, you should first contact Biblio Customer Service at [support@biblio.com](mailto:support@biblio.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
+
+**Contact Information:**  
+**Mailing address:**  
+Biblio Inc.   
+2002 Riverside Drive  
+Suite 42G  
+Asheville, NC 28804
+
+**Email:** [support@biblio.com](mailto:support@biblio.com)
+
+**Telephone:** 800-813-9432
+
+Last Updated on 1/5/2007
