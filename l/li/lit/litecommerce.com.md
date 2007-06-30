@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the litecommerce.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209033225id_/http%3A//litecommerce.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the litecommerce.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630210814id_/http%3A//www.litecommerce.com/privacy_statement.html) for the most accurate reproduction.*
 
 # Ecommerce software & online store builder: LiteCommerce
 
