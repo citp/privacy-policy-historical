@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lockergnome.net privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205220344id_/http%3A//www.lockergnome.com/about/privacy-policy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lockergnome.net privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630133425id_/http%3A//www.lockergnome.com/about/privacy-policy.phtml) for the most accurate reproduction.*
 
 # Lockergnome's Privacy Policy - Your Top Technology Resource
 
@@ -68,4 +68,4 @@ Lockergnome
 Seattle, WA 98122-3813   
 1.888.472.0604 
 
-Fly High with Publicity in the In-Flight Magazines: Almost three-quarters of the Frequent Flyers read an in-flight magazine during every flight. And the average pass-along rate for in-flight magazines is 5.5. This often overlooked media can be a goldmine to your publicity campaign if you can match your needs with what their editors want. [ Expert Advice for $9 / Download ]... [[Click Here to Download](http://tutorials.lockergnome.com/library/20021202_fly_high_with_publicity_in_the_inflight_magazines.phtml)] 
+Direct Folders: Enhance your Windows Explorer experience with some great feature enhancements built into Direct Folders. Make any window Always-On-Top. You can "pin" any window to the desktop and prevent it from being covered by another windows. Automatically resize all the normal file dialogs. Direct Folders expands Open and Save dialogs on a large desktops, to make finding the files you need faster. Find recently used and favorite folders quickly. Direct Folder's popup menus track folders you've... [[Click Here to Download](http://windows.fileoftheday.com/archives/user_interface_direct_folders.html)] 
