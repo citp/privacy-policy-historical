@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squarespace.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205204130id_/http%3A//www.squarespace.com/do/display/external/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squarespace.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630061328id_/http%3A//www.squarespace.com/do/display/external/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Squarespace
 
@@ -18,7 +18,7 @@ If we are unable to process your subscription for a given month, this informatio
 
 ### Tell-A-Friend Tools
 
-Squarespace provides a number of tools that will allow you to promote your website over email. Email addresses entered into these forms are not stored in our database, but may be stored in our system logs in text format to assist us in tracking down abusive users (users flooding the system), or using these tools for spamming. We will never contact addresses logged in this manner.
+Squarespace provides a number of tools that will allow you to promote your website (or articles on your website) over email. Email addresses entered into these forms are not stored in our database, but may be stored in our system logs in text format to assist us in tracking down abusive users (users flooding the system), or using these tools for spamming. We will never contact addresses logged in this manner. The email sent through any of these mechanisms is a one time email only.
 
 ### Hosted websites
 
@@ -100,6 +100,8 @@ These cookies can be tied back to personally identifiable information only in th
 
 This privacy statement covers the use of cookies by Squarespace, Inc. only and does not cover the use of cookies by any advertisers. See the 'Third Party Advertisers' section for more details.
 
+Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. See Third Party Advertisers.
+
 * ## Third Party Advertisers
 
 The ads appearing on this website are delivered to users by Google, our advertising partner. We do not share your personally identifiable information with Google to deploy these advertisements.
@@ -140,15 +142,14 @@ If you have any questions or suggestions regarding our privacy policy, please co
 
 Squarespace is located at:
 
-Squarespace, Inc.  
-South Campus Commons #2  
-Suite 2101  
-University of Maryland  
-College Park, MD 20742 
+Squarespace Inc.  
+250 W. Broadway  
+4th Floor  
+New York, NY 10013 
 
 **All correspondence** should be sent to:
 
-Squarespace, Inc.  
+Squarespace Inc.  
 RE: Privacy Concern  
 P.O. Box 1875  
-New York, NY 10001 
+New York, NY 10113 
