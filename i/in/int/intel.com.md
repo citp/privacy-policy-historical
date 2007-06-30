@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intel.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210144248id_/http%3A//www.intel.com/sites/corporate/privacy.htm%3Fiid%3Dhomepage%2Bftr_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intel.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630051247id_/http%3A//www.intel.com/sites/corporate/privacy.htm%3Fiid%3Dhomepage%2Bftr_privacy) for the most accurate reproduction.*
 
 # Intel Privacy Policy
 
@@ -49,7 +49,7 @@ We will only use your personal information in the way we specified when it was c
   * To provide customer feedback and support. 
   * To provide contests, sweepstakes or other marketing promotional activities on the intel.com or affiliate websites. Personal information may be collected to administer those programs 
   * To conduct questionnaires and surveys in order to provide better products and services to our customers and end users. Your completion of any questionnaires is voluntary. 
-  * To support recruitment enquiries. For more information, please see the worldwide [Candidate Privacy Policy](https://web.archive.org/web/20061210144248id_/http%3A//www.intel.com/sites/corporate/privacy3.htm)
+  * To support recruitment inquiries. For more information, please see the worldwide [Candidate Privacy Policy](https://web.archive.org/web/20070630051247id_/http%3A//www.intel.com/sites/corporate/privacy3.htm)
   * To understand more about you, so we can personalize newsletters and websites to your preferences. For example, allow you the opportunity to request specific information on products and services that may be of interest. 
   * To allow you to forward information to another individual such as a friend or co-worker. Intel does not store the personal information of the third party. We collect the information for the sole purpose of sending a one-time email. If you choose to use our referral service to inform a colleague or friend, we will only ask for a contact name and email address. 
   * To meet contract obligations. 
@@ -206,7 +206,7 @@ Please contact us by using [this form](https://web.archive.org/intel/writeusp.ht
 Supplement for Intel® Viiv™ Technology  
 ---  
 ---  
-We have a supplement which describes our privacy-related information handling practices for the Windows* Media* Digital Rights Management (WM-DRM) Software Premium Content Module (SPCM) for Intel® Viiv™ technology. We encourage you to review the information contained in [this supplement](https://web.archive.org/web/20061210144248id_/http%3A//www.intel.com/sites/corporate/privacy4.htm) to ensure you understand how the SPCM operates to help you enjoy specific types of premium content with your Intel® Viiv™ technology-based home network.   
+We have a supplement which describes our privacy-related information handling practices for the Windows* Media* Digital Rights Management (WM-DRM) Software Premium Content Module (SPCM) for Intel® Viiv™ technology. We encourage you to review the information contained in [this supplement](https://web.archive.org/web/20070630051247id_/http%3A//www.intel.com/sites/corporate/privacy4.htm) to ensure you understand how the SPCM operates to help you enjoy specific types of premium content with your Intel® Viiv™ technology-based home network.   
 ---  
 Questions or Comments?  
 ---  
