@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxbrain.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218060644id_/http%3A//www.taxbrain.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxbrain.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630221721id_/http%3A//www.taxbrain.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Tax Brain Privacy Policy
 
@@ -12,7 +12,7 @@ Petz Enterprises, Inc. has created a web-based tax product designed to quickly a
 
 Because of the financial nature of our business, our Web sites are not designed to appeal to children under the age of 13. Therefore, we do not knowingly attempt to solicit or receive any information from children. Petz Enterprises, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site http://www.taxbrain.com/ (TaxBrain, TaxBrain.com). Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-Questions regarding the TaxBrain Web sites' privacy statement, our online privacy policy, our information practices or other aspects of privacy on our Web sites should be directed to us at [support@TaxBrain.com](mailto:support@TaxBrain.com) . If you do not receive acknowledgment of your inquiry or your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process](http://truste.org/consumers/watchdog_complaint.php) . TRUSTe will serve as a liaison with the Web site to resolve users concerns.
+Questions regarding the TaxBrain Web sites' privacy statement, our online privacy policy, our information practices or other aspects of privacy on our Web sites should be directed to us at [support@TaxBrain.com](mailto:support@TaxBrain.com) . If you do not receive acknowledgment of your inquiry or your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process](http://www.truste.org/consumers/watchdog_complaint.php) . TRUSTe will serve as a liaison with the Web site to resolve users concerns.
 
   * What personally identifiable information TaxBrain collects. 
   * What organization collects the information. 
