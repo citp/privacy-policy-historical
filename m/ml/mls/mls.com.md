@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mls.com privacy policy that was archived on 2006-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061030185438id_/http%3A//www.mls.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mls.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630234213id_/http%3A//www.mls.com/privacy.html) for the most accurate reproduction.*
 
 # MLS.com - Search for homes on MLS nationwide
 
