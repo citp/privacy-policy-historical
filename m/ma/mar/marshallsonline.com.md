@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the marshallsonline.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209034958id_/http%3A//marshallsonline.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marshallsonline.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630082208id_/http%3A//www.marshallsonline.com/privacy.asp) for the most accurate reproduction.*
 
 # Marshalls - Privacy and Security Policy
 
-|  | 
-
-Welcome to **marshallsonline.com** (the “Website”), the website for **Marshalls** , a division of The TJX Companies, Inc. (“TJX”). Marshalls, TJX and its affiliates are the “TJX Businesses.” This Privacy and Security Policy applies to and is a part of the Website which is also governed by the Website's [_Terms of Use_](https://web.archive.org/web/20061209034958id_/http%3A//marshallsonline.com/legal.asp). If any of the terms of this Privacy and Security Policy directly conflict with the Website Terms of Use, the terms of this Privacy and Security Policy shall apply and control. 
+Welcome to **marshallsonline.com** (the “Website”), the website for **Marshalls** , a division of The TJX Companies, Inc. (“TJX”). Marshalls, TJX and its affiliates are the “TJX Businesses.” This Privacy and Security Policy applies to and is a part of the Website which is also governed by the Website's [_Terms of Use_](https://web.archive.org/web/20070630082208id_/http%3A//www.marshallsonline.com/legal.asp). If any of the terms of this Privacy and Security Policy directly conflict with the Website Terms of Use, the terms of this Privacy and Security Policy shall apply and control. 
 
 Marshalls wants to make your experience online convenient and safe. We want you to know what information we collect, how we may use that information, how we protect that information, and how we share that information. Personal information is information about an identifiable individual, which includes name, address, e-mail address, telephone number, and other information that is identifiable to you, as more particularly defined by privacy legislation. By using the Website, or by providing us with your personal information at our stores, in our promotions and in other ways when you interact with us, you signify your assent to the conditions stated in this Privacy and Security Policy and the Terms of Use. This Privacy and Security Policy does not apply to information about our employees or to information provided to us in connection with employment opportunities. 
 
@@ -24,21 +22,38 @@ We and some of our third-party service providers use cookies. A cookie is a smal
 
 **How We Use the Information We Collect**
 
-When we do collect information from you, we may use it for a number of purposes, including to : 
+When we do collect information from you, we may use it for a number of purposes, including to :
 
-           • process and complete your purchase transactions and keep you informed about the status of your  
-             orders;   
-           • identify your product and service preferences, so that we can notify you of new or additional products,   
-             services and promotions relating to the TJX Businesses that might be of interest to you;  
-           • improve merchandise selections and customer service;   
-           • notify you about new services, features, promotions and special offers relating to the TJX  
-             Businesses we think you will find valuable;  
-           • respond to your inquiries;  
-           • administer your participation in promotions, contests and sweepstakes in which you have chosen to   
-             participate;   
-           • measure the advertising effectiveness of our online and other advertisements and offers;   
-           • help us understand Website activity and improve your use of our Website; and   
-           • help us prevent fraud, and minimize credit risk. 
+  * process and complete your purchase transactions and keep you informed about the status of your  
+orders 
+  
+
+  * identify your product and service preferences, so that we can notify you of new or additional products,   
+services and promotions relating to the TJX Businesses that might be of interest to you 
+  
+
+  * improve merchandise selections and customer service 
+  
+
+  * notify you about new services, features, promotions and special offers relating to the TJX  
+Businesses we think you will find valuable  
+
+  * respond to your inquiries
+  
+
+  * administer your participation in promotions, contests and sweepstakes in which you have chosen to   
+participate
+  
+
+  * measure the advertising effectiveness of our online and other advertisements and offers>
+  
+
+  * help us understand Website activity and improve your use of our Website
+  
+
+  * help us prevent fraud, and minimize credit risk. 
+
+
 
 In order for us to maintain the accuracy of your personal information and improve our communication with you, we may also combine the information we collect with other public demographic information. On rare occasions we may also be required to disclose your information as is required by law pursuant to lawful requests such as subpoenas, court or agency orders, or as we may reasonably determine to be necessary to protect our rights or the rights of others, to avert harm to persons or property, or to enforce our Website Terms of Use or this Privacy and Security Policy. 
 
@@ -70,7 +85,10 @@ We employ various security measures designed to help protect the personal inform
 
 You can opt-out of receiving promotional e-mail from us by doing one of the following: 
 
-  * If you originally signed up on the marshallsonline.com e-mail sign-up page, please return to that page, and click on the “unsubscribe” link. Then enter your e-mail address and **click the** **“Submit” button**. Please be sure to use the same e-mail address as that which you used to sign up with. Otherwise it may not be possible to comply with your request; or 
+  * If you originally signed up on the marshallsonline.com e-mail sign-up page, please return to that page, and click on the “unsubscribe” link. Then enter your e-mail address and **click the** **“Submit” button**. Please be sure to use the same e-mail address as that which you used to sign up with. Otherwise it may not be possible to comply with your request 
+
+or
+
   * If you have received an e-mail from marshallsonline.com, you can **follow the opt-out or “unsubscribe” instructions provided in your marshallsonline.com e-mail **. (We may need to continue to contact you relating to orders you have placed with us and certain other operational uses and your opt-out selection will not apply to these operational uses.) 
 
 
@@ -111,7 +129,4 @@ We reserve the right to modify our Privacy and Security Policy by updating this 
 
 This statement was last updated as of March 28, 2005. 
 
-©2006 Marshalls. All rights reserved. 
-
-|   
----|---|---
+©2007 Marshalls. All rights reserved. 
