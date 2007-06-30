@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldcat.org privacy policy that was archived on 2006-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061201162219id_/http%3A//www.oclc.org/worldcat/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldcat.org privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630095041id_/http%3A//www.oclc.org/worldcat/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy [WorldCat]
 
@@ -105,5 +105,5 @@ If you have any questions regarding our policies, please contact [privacy@oclc.o
 
 > > OCLC Online Computer Library Center, Incorporated  
 >  Customer Service, ATTN: Privacy  
->  6565 Frantz Road  
+>  6565 Kilgour Place  
 >  Dublin, Ohio 43017-3395 
