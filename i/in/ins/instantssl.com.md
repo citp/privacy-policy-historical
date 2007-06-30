@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantssl.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205203340id_/http%3A//www.instantssl.com/ssl-certificate-legal/ssl-certificate-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantssl.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630100033id_/http%3A//www.instantssl.com/ssl-certificate-legal/ssl-certificate-privacy.html) for the most accurate reproduction.*
 
 # SSL Certificate Free SSL Secure Server Certificate Branded SSL
 
@@ -9,7 +9,7 @@ Questions relating to this policy statement should be directed towards the Comod
 **CPS and Associated Agreements**  
 This Privacy Policy statement supplements the practices and policies stated within the Subscriber Agreement (and associated product Schedules), Relying Party Agreement and Comodo Certification Practice Statement (CPS). Please refer to these documents for the practices employed by Comodo for the issuing, management and revocation of certificate based products. 
 
-[http://www.comodogroup.com/repository/index.html ](http://www.comodogroup.com/repository/index.html)
+[http://www.comodo.com/repository/index.html ](http://www.comodo.com/repository/index.html)
 
 **Anti-Spam Policy**  
 Comodo does not employ the use of spam for propagating its product awareness or special offers. 
