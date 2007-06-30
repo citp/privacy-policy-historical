@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greenhousemegastore.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213130332id_/http%3A//www.greenhousemegastore.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenhousemegastore.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630072227id_/http%3A//www.greenhousemegastore.com/privacy.asp) for the most accurate reproduction.*
 
-# Greenhouses, Greenhouse Supplies, Commercial Greenhouses, Green Houses Plan, Green House Supply at the Greenhouse Mega Store
+# International Greenhouse Company Greenhouse Mega Store has everything you need to build, equip, and maintain a commercial, hobby, school or institutional greenhouse.
 
 (Effective Date 2/3/04)
 
