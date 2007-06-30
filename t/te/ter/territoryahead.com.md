@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the territoryahead.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111184015id_/http%3A//www.territoryahead.com/jump.jsp%3FitemType%3DCATEGORY%26itemID%3D237%26path%3D1%252C2%252C195%252C237) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the territoryahead.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630090707id_/http%3A//www.territoryahead.com/jump.jsp%3FitemType%3DCATEGORY%26itemID%3D237%26path%3D1%252C2%252C195%252C237) for the most accurate reproduction.*
 
 # The Territory Ahead - Privacy & Security
 
@@ -16,7 +16,7 @@ If you do not wish to receive mailings from these other companies with whom we s
 Transaction information and email addresses We collect only the minimum information necessary to complete your order online; this is the same information required to complete telephone orders — name, billing and shipping address, telephone number, and payment information. We require customer email address for online orders so that we may notify you of your order status or merchandise return status. Additionally, we may send you emails promoting our products, announcing periodic sales, and offering other special limited-time discounts such as free shipping that may be used by online customers.
 
   
-We do not share customer email addresses with other companies for direct marketing purposes. However, if you do not wish to receive promotional mailings from territoryahead.com or isabellabird.com, you will have the option to opt out upon receipt of your next promotional email, or [you can unsubscribe here.](https://web.archive.org/subscribemain.jsp?action=0)
+We do not share customer email addresses with other companies for direct marketing purposes. However, if you do not wish to receive promotional mailings from territoryahead.com or isabellabird.com, you will have the option to opt out upon receipt of your next promotional email, or [you can unsubscribe here](https://web.archive.org/subscribemain.jsp?action=0)
 
 **Our company contact points:  
 Toll Free: 1-800-737-5754  
