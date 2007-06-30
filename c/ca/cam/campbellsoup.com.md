@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campbellsoup.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230103139id_/http%3A//www.campbellsoupcompany.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campbellsoup.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630213559id_/http%3A//www.campbellsoupcompany.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # The Campbell Soup Company - Privacy Policy
 
@@ -20,7 +20,7 @@ Attention: Legal Department
 or Global Advertising Department  
 1-800-257-8443 
 
-Our offices are open from 9 a.m. - 7 p.m. Eastern Time, Monday through Friday. Please feel free to email us anytime by visiting our [Consumer Response Center](http://www.campbellsoupcompany.com/contact_campbell.asp?cpovisq=2ZD0AEoC%2Fb3zJGJQvOs7%2FFWGzaF%2F42BJ). We'll be happy to answer your questions or hear your concerns. 
+Our offices are open from 9 a.m. - 7 p.m. Eastern Time, Monday through Friday. Please feel free to email us anytime by visiting our [Consumer Response Center](http://www.campbellsoupcompany.com/contact_campbell.asp). We'll be happy to answer your questions or hear your concerns. 
 
 **Our Policy**  
 At our sites, we do not collect personally-identifiable information from individuals unless they provide it to us voluntarily and knowingly. This means we do not require you to register or provide information to us in order to view any of our sites. If you register in order to use one or more of the many features of our sites, in addition to other purposes described in this Privacy Policy, we use the information you supply for the purpose of providing the services you've requested. These features may include: 
