@@ -1,26 +1,9 @@
-> *The following text is extracted and transformed from the dvo.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018162951id_/http%3A//www.dvo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvo.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630114346id_/http%3A//dvo.com/privacy.html) for the most accurate reproduction.*
 
 # DVO Enterprises Privacy Policy
 
-TOP SELLERS
-
-[](https://web.archive.org/cookn_with_bettycrocker.html)   
-[Cook'n with Betty Crocker™ ](https://web.archive.org/cookn_with_bettycrocker.html)
-
-$29.95  
-[ ](http://www.dvo.com/ss-bin/sc/order.cgi?storeid=*12a8805b1a6a1e7fd7f025&dbname=products&sku=2139&function=add)
-
-[](https://web.archive.org/cookn.html)
-
   
-[Cook'n Software Download](https://web.archive.org/cookn.html)
-
-$39.95  
-[ ](http://www.dvo.com/ss-bin/sc/order.cgi?storeid=*12a8805b1a6a1e7fd7f025&dbname=products&sku=1210&function=add)
-
-[ ](http://www.dvo.com/ss-bin/sc/order.cgi?storeid=*12a8805b1a6a1e7fd7f025&dbname=products&sku=5103&function=show)
-
-  
+**TOP SELLERS**   
 
 
 _Dan, Wow. This is a note to thank you for the nice welcome email. And to tell you I've been in the computer business for 20 years as programmer and network administrator. This is the first time I've seen such a sincere sounding CEO of a computer related business. The content was warm and very sincere. And I'd like to compliment you on the quality of your product. I only have Taste of Home right now, but I love the way you've put the software together. It's laid out very intuitively. Well, just wanted to thank you for the welcome and your products and your sincerity. Much good fortune with your venture. I support you._
@@ -30,14 +13,9 @@ Steve Van Wie
 
 NEWSLETTER
 
-[• Current Issue](https://web.archive.org/web/20061018162951id_/http%3A//www.dvo.com/homecookn)  
-[• Newsletter Archive](https://web.archive.org/web/20061018162951id_/http%3A//www.dvo.com/newsletterarchive.html)   
-[• Contact Info](https://web.archive.org/web/20061018162951id_/http%3A//www.dvo.com/contact.html)
-
-**DAILY SPECIAL**  
-Order today and receive a FREE   
-Breakfast Recipes CD!  
-[Find out how.](https://web.archive.org/web/20061018162951id_/http%3A//www.dvo.com/dailyspecial.html)
+[• Current Issue](https://web.archive.org/web/20070630114346id_/http%3A//dvo.com/homecookn)  
+[• Newsletter Archive](https://web.archive.org/web/20070630114346id_/http%3A//dvo.com/newsletterarchive.html)   
+[• Contact Info](https://web.archive.org/web/20070630114346id_/http%3A//dvo.com/contact.html)
 
   
 
