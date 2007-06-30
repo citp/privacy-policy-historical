@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classzone.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205041814id_/http%3A//www.hmco.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classzone.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630045848id_/http%3A//www.hmco.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Houghton Mifflin Privacy Policy
 
@@ -8,7 +8,7 @@ You should be aware that personal information, such as your name or e-mail addre
 
 Occasionally, we use "cookies" to store pertinent user information during a session. Cookies are small pieces of information that are stored in a designated file on your computer. Houghton Mifflin uses cookies for the purpose of holding information during online sessions (for example, to hold answers to online quizzes for short-term storage and to create an ID for use in a multiple-session assessment), and to store user information that helps us to customize our content to enhance your use of our websites. We may also use cookies to track links from an affiliate's websites to our websites. This information is used only for the purpose of tracking commissions that may become due to an affiliate if you purchase a product or service from one of our sites. 
 
-In most cases, users can review and update or request changes to their information by logging into their account or e-mailing the divisional administrator listed at the end of our Children's Privacy Policy. If you have any questions about the Houghton Mifflin privacy policy, please contact Collin Earnst at 617-351-5020. This privacy policy was last updated on June 8, 2005. Houghton Mifflin Company reserves the right to change this privacy policy without notice to users of or visitors to our websites. 
+In most cases, users can review and update or request changes to their information by logging into their account or e-mailing the divisional administrator listed at the end of our Children's Privacy Policy. If you have any questions about the Houghton Mifflin privacy policy, please contact Cheryl Cramer Toto at 617-351-5199. This privacy policy was last updated on June 8, 2005. Houghton Mifflin Company reserves the right to change this privacy policy without notice to users of or visitors to our websites. 
 
 Children's Privacy Policy 
 
@@ -23,12 +23,12 @@ Involvement of parents: In accordance with the provisions of the Children's Onli
 How to get in touch with Houghton Mifflin: The following list has the names, addresses, and phone numbers of the individuals operating websites for the various divisions and subsidiaries of Houghton Mifflin Company.
 
 Division: Corporate  
-Name: Collin Earnst  
-Title: Vice President, Corporate Communications  
+Name: Cheryl Cramer Toto  
+Title: Vice President, Market Strategy  
 Address: 222 Berkeley Street, 5th Floor  
 Boston, MA 02116-3764  
-Telephone Number: 617-351-5020  
-E-mail Address: [collin_earnst@hmco.com](mailto:collin_earnst@hmco.com)
+Telephone Number: 617-351-5199  
+E-mail Address: [cheryl_cramer@hmco.com](mailto:cheryl_cramer@hmco.com)
 
 Division: School  
 Name: Richard Lena  
@@ -47,12 +47,12 @@ Telephone Number: 847-869-2300 ext. 3929
 E-mail Address: [annmarie_mcnamara@hmco.com](mailto:annmarie_mcnamara@hmco.com)
 
 Division: Riverside Publishing Company  
-Name: John Malley  
-Title: Director, Marketing Communications  
+Name: Tracey Barrett  
+Title: Senior Director, Strategic Marketing  
 Address: 425 Spring Lake Drive  
 Itasca, IL 60143  
-Telephone Number: 630-467-6061  
-E-mail Address: [john_malley@hmco.com](mailto:john_malley@hmco.com)
+Telephone Number: 630-467-7130  
+E-mail Address: [tracey_barrett@hmco.com](mailto:tracey_barrett@hmco.com)
 
 Division: Great Source Education Group  
 Name: Lauren McDonough  
