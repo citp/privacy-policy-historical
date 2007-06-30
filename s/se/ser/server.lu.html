@@ -1,0 +1,515 @@
+<!--The following is the downloaded HTML source of the server.lu privacy policy that was archived on 2007-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070630112054id_/http%3A//www.server.lu/about-privacy) for the most accurate reproduction.-->
+
+<html><head><script language="Javascript">
+var IE = document.all?true:false;
+var mouseX = 0
+var mouseY = 0
+
+function getMouseXY(e)
+   {
+    if (IE)
+        {
+        mouseX = event.clientX + document.body.scrollLeft
+        mouseY = event.clientY + document.body.scrollTop
+        }
+    else
+        {
+        mouseX = e.pageX
+        mouseY = e.pageY
+        }
+    if (mouseX < 0){mouseX = self.innerWidth / 2}
+    if (mouseY < 0){mouseY = self.innerHeight / 2}
+		return true;
+	}
+
+function darkenPage()
+{
+	document.body.scroll		=	"no";
+	document.getElementById('darker').style.visibility 	= 'visible';
+	document.getElementById('darker').style.width				= 3000;
+	document.getElementById('darker').style.height			= 2000;
+	document.getElementById('darker').style.top			= document.body.scrollTop;
+	document.getElementById('darkinfobox').style.visibility = 'visible';
+	document.getElementById('darkinfobox').style.left = (document.body.offsetWidth/2)-225;
+	document.getElementById('darkinfobox').style.top = document.body.scrollTop+(document.body.offsetHeight/2)-150;
+	document.getElementById('darkinfoboxcontent').innerHTML = document.getElementById('infobox').innerHTML;
+}
+
+function undarkenPage()
+{
+	document.body.scroll		=	"yes";
+	document.getElementById('darker').style.visibility 	= 'hidden';
+	document.getElementById('darker').style.width				= '0px';
+	document.getElementById('darker').style.height			= '0px';
+	document.getElementById('darkinfobox').style.visibility = 'hidden';
+}
+
+
+document.onmousemove = getMouseXY;
+</script>
+
+
+
+<title>www.server.lu</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="title" content="server.lu - Affordable Servers">
+<meta name="description" content="server in luxembourg, Server Hosting, Dedicated Server, Managed Server, Dedicated Server Luxembourg, Managed Server Luxembourg, Colocation, Rackspace Luxembourg, Server Housing Luxembourg, Professional housing, webhosting, Internet Service Provider, Hosting Provider, Housing Provider">
+<meta name="keywords" content="root eSolutions, Server Luxembourg, Housing Luxembourg, Dedicated Server uxembourg, Managed Server Luxembourg, Virtual Server Luxembourg, Rackspace Luxembourg, ISP, Internet Service Provider, Luxembourg, Hosting, Webhosting, Backup, Backup Online, eSolutions, Network Solutions, Internet Solutions, Network Security, Solutions, Hosting Solutions, Firewall, Antivirus, Authentication, Redundancy, Monitoring, High Speed Internet, Internet Redundancy, Wireless Internet, IP Addresses, DNS Services, Email, E-mail, Webmail, Web-Mail, PHP Mirror, Apache, Webspace, Managed Hosting, Dedicated Hosting, Racks, Managed Services, Domain registration, LU Domain">
+<meta name="copyright" content="root eSolutions">
+<meta name="author" content="root eSolutions">
+<meta name="robots" content="index,follow">
+<meta name="Publisher" content="root eSolutions - Server.lu">
+<link href="style.css" rel="STYLESHEET" type="text/css"></head>
+
+
+<body bgcolor="#FFFFFF" bottommargin="0" leftmargin="0" rightmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+
+<div id="darker" onclick="undarkenPage()" style="position:absolute;top:0px;left:0px;visibility:hidden;background: url('images/semiopaque.png');z-index:2;">
+</div>
+<div id="darkinfobox" class="darkinfobox" onclick="undarkenPage()" style="position:absolute;width:450px;height:300px;visibility:hidden;background-color:#FFFFFF;z-index:3;">
+	<table height="300">
+		<tbody><tr>
+			<td align="right" height="16">
+				<img src="images/close.gif">
+			</td>
+		</tr>
+		<tr>
+			<td valign="center">
+				<div id="darkinfoboxcontent" class="darkinfoboxcontent">
+				</div>
+			</td>
+		</tr>
+	</tbody></table>
+</div>
+
+<table width="100%" height="100%" cellpadding="0" cellspacing="0">
+	<tbody><tr height="100%">
+		<td valign="top" bgcolor="d7dee7">
+			<table width="100%" height="100%" cellpadding="0" cellspacing="0">
+				<tbody><tr height="73">
+					<td background="images/top.jpg">
+						&nbsp;
+					</td>
+				</tr>
+				<tr>
+					<td bgcolor="#d7dee7">
+						&nbsp;
+					</td>
+				</tr>				
+			</tbody></table>
+		</td>
+		<td width="950" valign="top" bgcolor="d7dee7">
+			<table width="950" border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td>
+						<table cellpadding="0" cellspacing="0">
+							<tbody><tr><td><img src="images/index_01.jpg"></td>
+							<td><a href="home-offers"><img src="images/index_02.jpg" border="0" onmouseover="this.src = 'images/index_02-hover.jpg';" onmouseout="this.src = 'images/index_02.jpg';"></a></td>
+							<td><a href="dedicated-overview"><img src="images/index_03.jpg" border="0" onmouseover="this.src = 'images/index_03-hover.jpg';" onmouseout="this.src = 'images/index_03.jpg';"></a></td>
+							<td><a href="rackspace-hu"><img src="images/index_04.jpg" border="0" onmouseover="this.src = 'images/index_04-hover.jpg';" onmouseout="this.src = 'images/index_04.jpg';"></a></td>
+							<td><a href="about-support"><img src="images/index_05.jpg" border="0" onmouseover="this.src = 'images/index_05-hover.jpg';" onmouseout="this.src = 'images/index_05.jpg';"></a></td>
+							<td><img src="images/index_06.jpg"></td>
+						</tr></tbody></table>
+					</td>
+				</tr>
+				<tr>
+					<td background="images/index_07.jpg" width="950" height="48"><div style="position:relative;left:70px;"><font face="Verdana" size="1" color="#3c3c3c"><b>About &gt;&gt; Privacy</b></font></div></td>
+				</tr>
+				<tr>
+					<td>
+						<table cellpadding="0" cellspacing="0">
+							<tbody><tr>
+								<td width="226" background="images/index_08.jpg" valign="top">
+									<div style="position:relative;left:40px;">
+										<script language="Javascript">
+
+	oldSubmenu = '';
+
+	function openSubmenu(id)	
+	{
+		if (oldSubmenu != '')
+		{
+			temp = document.getElementById(oldSubmenu).style.height;
+			temp = temp.replace('px','');
+			openMove(oldSubmenu,parseFloat(temp),-6,1);
+			oldSubmenu = '';
+		}
+		sub	=	document.getElementById(id);
+		if (sub.style.display == 'none')
+		{
+			oldSubmenu = id;
+			height	=	parseInt(document.getElementById(id+'size').innerHTML);
+			sub.style.height =	'0px';
+			sub.style.display = 'block';
+			openMove(id,1,6,height)
+		}
+	}
+	
+	function openMove(id,actual,movement,max)
+	{
+		sub	=	document.getElementById(id);
+		if (actual < 0)
+		  return;
+		sub.style.height =	actual+'px';
+		if ((actual < max && max !=1) || (max == 1 && actual > 1))
+		{
+			actual = actual + movement;
+			setTimeout("openMove('"+id+"',"+actual+","+movement+","+max+")",20);
+		}
+		if (actual <= 1)
+			sub.style.display = 'none';
+	}
+	
+	function openDirect(id,height)
+	{
+		sub	=	document.getElementById(id);
+		if (sub.style.display == 'none')
+		{
+			oldSubmenu = id;
+			height	=	parseInt(document.getElementById(id+'size').innerHTML);
+			sub.style.display = 'block';
+			sub.style.height =	height+'px';
+		}
+		
+	}	
+
+var actual = 0;
+
+</script>
+
+<br>
+&nbsp;<a href="home-order"><img src="images/order.jpg" border="0"></a>
+<br>
+<table class="menu" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td class="menumain" onclick="openSubmenu('home')" style="cursor:pointer;">
+			<img src="images/menumain.gif"> &nbsp;Home
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<div id="home" class="menusub" style="display:none;height:1px;overflow:hidden;">
+				<a href="home-offers">Offers</a><br>
+				<a href="home-order">Order</a><br>
+			</div>
+			<div id="homesize" style="display:none;height:0px;overflow:hidden;">
+				30
+			</div>			
+		</td>
+	</tr>		
+	
+
+	<tr>
+		<td class="menumain" onclick="openSubmenu('dedicated')" style="cursor:pointer;">
+			<img src="images/menumain.gif"> &nbsp;Dedicated Server
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<div id="dedicated" class="menusub" style="display:none;height:1px;overflow:hidden;">
+				<a href="dedicated-overview">Overview</a><br>
+				<a href="dedicated-ds2000">DServer DS2000</a><br>
+				<a href="dedicated-ds4000">DServer DS4000</a><br>
+				<a href="dedicated-ds7000">DServer DS7000</a><br>
+				<a href="dedicated-ds9000">DServer DS9000</a><br>
+				<a href="dedicated-order">Order DServer</a><br>
+			</div>
+			<div id="dedicatedsize" style="display:none;height:0px;overflow:hidden;">
+				75
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td class="menumain" onclick="openSubmenu('managed')" style="cursor:pointer;">
+			<img src="images/menumain.gif"> &nbsp;Managed Server
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<div id="managed" class="menusub" style="display:none;height:1px;overflow:hidden;">
+				<a href="managed-overview">Overview</a><br>
+				<a href="managed-ms2000">MServer MS2000</a><br>
+				<a href="managed-ms4000">MServer MS4000</a><br>
+				<a href="managed-ms7000">MServer MS7000</a><br>
+				<a href="managed-ms9000">MServer MS9000</a><br>
+				<a href="managed-order">Order MServer</a><br>
+			</div>
+			<div id="managedsize" style="display:none;height:0px;overflow:hidden;">
+				75
+			</div>			
+		</td>
+	</tr>	
+	
+	<tr>
+		<td class="menumain" onclick="openSubmenu('vserver')" style="cursor:pointer;">
+			<img src="images/menumain.gif"> &nbsp;Virtual Server
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<div id="vserver" class="menusub" style="display:none;height:1px;overflow:hidden;">
+				<a href="vserver-overview">Overview</a><br>
+				<a href="vserver-vs1000">VServer V 1000</a><br>
+				<a href="vserver-vs2000">VServer V 2000</a><br>
+				<a href="vserver-vs3000">VServer V 3000</a><br>
+				<a href="vserver-vs4000">VServer V 4000</a><br>
+				<a href="vserver-order">Order VServer</a><br>				
+			</div>
+			<div id="vserversize" style="display:none;height:0px;overflow:hidden;">
+				75
+			</div>			
+		</td>
+	</tr>		
+	
+	<tr>
+		<td class="menumain" onclick="openSubmenu('rackspace')" style="cursor:pointer;">
+			<img src="images/menumain.gif"> &nbsp;Rackspace
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<div id="rackspace" class="menusub" style="display:none;height:1px;overflow:hidden;">
+				<a href="rackspace-hu">Height Units</a><br>
+				<a href="rackspace-full">Full Rack</a><br>
+				<a href="rackspace-order">Order Rackspace</a><br>
+			</div>
+			<div id="rackspacesize" style="display:none;height:0px;overflow:hidden;">
+				40
+			</div>			
+		</td>
+	</tr>					
+
+	<!--<tr>
+		<td class="menumain" onclick="openSubmenu('support')" style="cursor:pointer;">
+			<img src="images/menumain.gif"> &nbsp;Support
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<div id="support" class="menusub" style="display:none;height:1px;overflow:hidden;">
+				<a href="support-general">General Support</a><br>
+				<a href="support-faq">FAQ</a><br>
+				<a href="support-wiki">Howtos</a><br>
+			</div>
+			<div id="supportsize" style="display:none;height:0px;overflow:hidden;">
+				50
+			</div>			
+		</td>
+	</tr>-->
+
+	<tr>
+		<td class="menumain" onclick="openSubmenu('about')" style="cursor:pointer;">
+			<img src="images/menumain.gif"> &nbsp;About
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<div id="about" class="menusub" style="display: block; height: 70px; overflow: hidden;">
+				<a href="about-about">About</a><br>
+				<a href="about-support">Support</a><br>
+				<a href="about-tac">General Terms &amp; Conditions</a><br>
+				<a href="about-aup">Acceptable Use Policy</a><br>
+				<a href="about-privacy">Privacy Statement</a>
+			</div>
+			<div id="aboutsize" style="display:none;height:0px;overflow:hidden;">
+				70
+			</div>			
+		</td>
+	</tr>			
+	
+	
+</tbody></table>
+
+
+
+<script language="Javascript">openDirect('about',70);</script>										<br><br>
+									</div>
+								</td>
+								<td width="724" background="images/index_09.jpg" valign="top">
+									<div style="position:relative;left:20px;">
+										
+<table class="content">
+	<tbody><tr>
+		<td width="500" valign="top" align="center">
+			 <center>
+ 	<h3>§ Privacy Statement §</h3>
+</center>
+ 
+<table>
+	<tbody><tr>
+		<td>
+			<img src="images/icon-pdf.gif">
+		</td>
+		<td>
+			<a href="downloads/privacy-english.pdf" target="_blank">Get the privacy statement in PDF format</a>
+		</td>
+	</tr>
+</tbody></table>
+<br><br>
+	
+ 
+ <div align="justify">
+root eSolutions is committed to developing long-lasting relationships based on trust. In furtherance of this goal, root eSolutions will do everything in its power to ensure that your right to privacy is maintained and protected. This website is not directed at children under 13 years of age.
+<br><br>
+<b>Information We Collect</b>
+<br><br>
+root eSolutions may request or collect personal information from online users in a variety of ways, including through online forms for ordering products and services, and other instances where users are invited to volunteer such information.
+<br><br>
+The data we collect is information that identifies you personally, such as:<br>
+•	Your name <br>
+•	E-mail address<br> 
+•	Postal address <br>
+•	Telephone and telefax numbers <br>
+•	URL <br>
+•	Credit card information <br>
+•	Other billing information<br>
+<br><br>
+root eSolutions may also collect information about how users access the website using a tracking ID unique to each user through the use of cookies.
+<br><br>
+<br><br>
+<b>What are Cookies?</b>
+<br><br>
+A cookie is a piece of data stored on the user's computer tied to information about the user. We may use both session ID cookies and persistent cookies. For session ID cookies, once you close your browser or log out, the cookie terminates and is erased. A persistent cookie is a small text file stored on your computer’s hard drive for an extended period of time. Your browser’s help file contains information and instructions for removing persistent cookies. Session ID cookies may be used by root eSolutions to track user preferences while the user is visiting the website. They also help to minimize load times and save on server processing. Persistent cookies may be used by root eSolutions to store whether, for example, you want your password remembered or not, and other information. Cookies used on the root eSolutions website do not contain personally identifiable information.
+<br><br>
+<br><br>
+<b>Log Files</b>
+<br><br>
+Like most standard websites, we use log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. However, none of the information stored in our log files, including but not limited to IP addresses, is linked to personally identifiable information.
+<br><br>
+<br><br>
+<b>How we use this information</b>
+<br><br>
+root eSolutions may use the personally identifiable information collected by root eSolutions to contact customers regarding products and services offered by root eSolutions and, to the extent the user has agreed to it, by its trusted affiliates, independent contractors and business partners. We may also use this information for research purposes regarding the effectiveness of our website services, marketing, advertising and sales efforts. root eSolutions will not in any way share this information with a third party either for free or by selling it, unless you specifically authorize such disclosures.
+<br><br>
+<br><br>
+<b>Disclosure of Information</b>
+<br><br>
+root eSolutions may also disclose aggregate, anonymous data based on information collected from users to investors and potential partners. In such cases, only statistical information will be disclosed and personally identifiable data will be kept strictly confidential. In case root eSolutions is sold, the information collected from users may be transferred to the new owners. 
+<br><br>
+<br><br>
+
+root eSolutions may from time to time engage third parties, including its own subsidiaries and affiliated companies, to preserve, analyze or otherwise store or manipulate data received by root eSolutions from its customers. In all such cases, third party service providers will be required to treat all such data with the same degree of care as root eSolutions and they will be prohibited from disclosing such data to any other person or party, except as otherwise provided for in this Privacy Policy. 
+<br><br>
+<br><br>
+<b>Special Offers and Updates</b>
+<br><br>
+Our customers and users will occasionally receive newsletters or e-mails with information on products, services, or special offers. Out of respect for the privacy of our users, root eSolutions gives them the opportunity to opt-out from receiving these types of communications. 
+<br><br>
+<br><br>
+<b>Service Announcements</b>
+<br><br>
+On rare occasions, it is necessary to send out a strictly service-related announcement, if, for instance, our service is temporarily suspended for maintenance. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature. 
+<br><br>
+<br><br>
+<b>Legal Disclaimer</b>
+<br><br>
+Though we make every effort to preserve your privacy, we may need to disclose personal information when required by law, if we have a good-faith belief that such action is necessary and required to comply with a current judicial proceeding, a court order, subpoena or other legal process served on root eSolutions. 
+<br><br>
+
+The root eSolutions website contains links to other sites. Please be aware that root eSolutions is not responsible for the privacy practices of such other sites. We encourage you to read the privacy statements of each and every website that collects personally identifiable information. The root eSolutions Privacy Policy as described herein applies solely to information collected by root eSolutions. 
+<br><br>
+<br><br>
+<b>Maintenance of Information</b>
+<br><br>
+The information provided to root eSolutions is saved indefinitely and may be stored on one or more databases directly or indirectly maintained by root eSolutions. root eSolutions employs industry-standard security measures to protect the confidentiality of the information. While we cannot guarantee that loss, misuse or alteration of data will not occur; we make every effort to prevent such occurrences. Any other particularly sensitive information, such as credit card numbers collected for commercial transactions, is encrypted prior to transmission by you to root eSolutions. 
+<br><br>
+<br><br>
+<b>Your Responsibility</b>
+<br><br>
+You are responsible for the security of your Customer ID and passwords. Make sure you keep them in a safe place and do not share them with others. Always remember to log out after your session ends to ensure that others cannot access your private personal information. You should take this precaution even if you are not using a public computer, such as at a library or internet café, but even when using your private computer in your home. 
+<br><br>
+<br><br>
+<b>Questions</b>
+<br><br>
+Any questions concerning this Privacy Policy may be directed by e-mail to privacy@server.lu. To report abuse, please send an e-mail to abuse@server.lu.
+<br><br>
+<br><br>
+
+Last updated: 01.03.2007
+
+</div>
+
+			<div id="info-default" style="position:absolute;top:0px;left:0xp;visibility:hidden;">
+				<br><br><br>
+				<img src="images/flag-lu.gif"><br><br>
+				Maer schwätzen Lëtzebuergesch
+				<br><br><br>
+				<img src="images/flag-fr.gif"><br><br>
+				Nous parlons Français				
+				<br><br><br>
+				<img src="images/flag-de.gif"><br><br>
+				Wir sprechen Deutsch
+				<br><br><br>
+				<img src="images/flag-en.gif"><br><br>
+				We speak English												
+			</div>		</td>
+		<td width="167" valign="top">
+			<div style="position:relative;top:-8px;">
+			<table cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td width="167" height="600" valign="top" background="images/newsbox.jpg">
+						<div id="infobox" style="position:relative;top:30px;left:15px;width:135px;height:500px;" class="infobox" align="center">
+				<br><br><br>
+				<img src="images/flag-lu.gif"><br><br>
+				Maer schwätzen Lëtzebuergesch
+				<br><br><br>
+				<img src="images/flag-fr.gif"><br><br>
+				Nous parlons Français				
+				<br><br><br>
+				<img src="images/flag-de.gif"><br><br>
+				Wir sprechen Deutsch
+				<br><br><br>
+				<img src="images/flag-en.gif"><br><br>
+				We speak English												
+			</div>
+					</td>
+				</tr>
+			</tbody></table>
+		</div>
+		</td>
+	</tr>
+</tbody></table>
+									</div>
+								</td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>			
+				<tr>
+					<td background="images/index_11.jpg" width="949" height="79" align="center">
+						<div onclick="window.open('print-about-privacy','','scrollbars=yes,menubar=no,location=no,status=no');" style="z-index:20;position:relative;top:35px;left:380px;width:100px;height:30px;cursor:pointer;" class="footer">
+						</div>
+						<div style="position:relative;top:10px;display:block;" class="footer">
+							<a href="about-about">About</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a href="about-privacy">Privacy</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a href="about-support">Support</a>
+<br>
+© 2007 root eSolutions						</div>
+					</td>
+				</tr>												
+			</tbody></table>
+		</td>
+		<td valign="top" height="100%" bgcolor="d7dee7">
+			<table width="100%" height="100%" cellpadding="0" cellspacing="0">
+				<tbody><tr height="73">
+					<td background="images/top.jpg">
+						&nbsp;
+					</td>
+				</tr>
+				<tr>
+					<td bgcolor="d7dee7">
+						&nbsp;
+					</td>
+				</tr>				
+			</tbody></table>
+		</td>		
+	</tr>
+</tbody></table>
+
+<script language="Javascript">
+	document.getElementById('infobox').innerHTML = document.getElementById('info-default').innerHTML;
+</script>
+<script src="infobox.js" type="text/javascript"></script>
+
+
+
+</body></html>
