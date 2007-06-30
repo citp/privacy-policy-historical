@@ -1,473 +1,1230 @@
-<!--The following is the downloaded HTML source of the wdrake.com privacy policy that was archived on 2006-11-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061111001520id_/http%3A//www.wdrake.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wdrake.com privacy policy that was archived on 2007-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070630061123id_/http%3A//www.wdrake.com/WalterDrake/CustomerService/Shop.aspx%23privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-<title>Walter Drake - Satisfying Customers for Over 50 Years!</title>
-<link href="styles.css" rel="stylesheet" type="text/css">
-</head>
-<body leftmargin="0" topmargin="0" marginheight="0" marginwidth="0">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
+	Walter Drake
+</title><link href="../App_Themes/WalterDrake/Style.css" rel="stylesheet" type="text/css">
+
+    <script type="text/javascript" language="javascript">
+     function openWin(pageName)
+    {
+        window.open(pageName,null,"width=660, height=480,scrollbars=yes, menubar=no, resizable=yes");
+    }
+    
+    //SCOTT- 9/13/2006 Javascript does not support method overloading so I had to create a function of a different name.
+    function openWinWithProperties(pageName, winProperties)
+    {
+        window.open(pageName,null,winProperties);
+    }
+    
+    function OpenVeriSign()
+    {
+        window.open('https://seal.verisign.com/splash?form_file=fdf/splash.fdf&dn=www.wdrake.com&lang=en');
+    }
+    
+    //SCOTT - 11/21/2006 Added email signup submission handler.
+    function emailSignup(ctl)
+    {
+        //The control names in .Net are random, so peel off the prefix name and use it
+        var sId = ctl.id;
+        var iUnderscore = sId.indexOf('_');
+        var sCtl = sId.substring(0,iUnderscore + 1);
+        //alert(sCtl);
+        var sEmailSignup = document.getElementById(sCtl + "tbEmailSignup").value; 
+        //alert(sEmailSignup);
+        if(sEmailSignup=='' || sEmailSignup=="Enter Email Address")
+        {
+            alert("Please enter an email address.")
+            return false;
+        }
+        
+        return true;
+        
+    }
 
 
-			<map name="top1">
-	<area shape="rect" coords="0,0,47,19" href="http://www.wdrake.com/default.aspx">
-	<area shape="rect" coords="59,0,139,19" href="https://www.wdrake.com/my_account.aspx">
-	<area shape="rect" coords="151,0,245,19" href="http://www.wdrake.com/email_signup.aspx">
-	<area shape="rect" coords="0,21,62,38" href="http://www.wdrake.com/site_map.aspx">
-	<area shape="rect" coords="77,21,192,38" href="http://www.wdrake.com/customer_service.aspx">
-	<area shape="rect" coords="208,21,306,38" href="https://www.wdrake.com/my_account.aspx">
-	</map><table width="760" height="100" border="0" cellpadding="0" cellspacing="0" bgcolor="#0001CD">
-				<tbody><tr>
-					<td width="260" align="center"><a href="http://www.wdrake.com/default.aspx"><img src="images/wd_logo1.gif" width="231" height="62" border="0"></a></td>
-					<td width="500">
-						<table border="0" align="center" cellpadding="0" cellspacing="0">
-									
-							<tbody><tr>
-								<td colspan="2" height="30"><img src="images/spacer.gif" height="30" width="1"></td>
-							</tr>
-							
-							<tr>
-								<td rowspan="2"><img src="images/topnav1.gif" width="361" height="38" border="0" usemap="#top1"></td>
-								<td><a href="http://www.wdrake.com/cart.aspx"><img src="images/scart_top.gif" width="125" height="21" border="0"></a></td>
-							</tr>
-							<tr>
-								
-								<td align="right" bgcolor="#FFFFFF" class="t12">Total: $0.00&nbsp;&nbsp; </td>
-							</tr>
-						</tbody></table>
-					</td>
-				</tr>
-				<tr bgcolor="#99CCFF">
-					<td colspan="2" align="center" bgcolor="#99CCFF" class="t12">
-					
+    </script>
 
-					</td>
-				</tr>
-	
-	
+<link href="../App_Themes/WalterDrake/Style.css" type="text/css" rel="stylesheet"><style type="text/css">
+	.ctl00_VerticalNavigation1_Menu1_0 { background-color:white;visibility:hidden;display:none;position:absolute;left:0px;top:0px; }
+	.ctl00_VerticalNavigation1_Menu1_1 { font-family:Verdana;font-size:10pt;text-decoration:none; }
+	.ctl00_VerticalNavigation1_Menu1_2 { background-color:#CCCCCC;border-color:#CCCCCC;border-width:0px;border-style:None;font-family:Verdana;font-size:10pt; }
+	.ctl00_VerticalNavigation1_Menu1_3 { color:#000066; }
+	.ctl00_VerticalNavigation1_Menu1_4 { padding:1px 10px 1px 10px; }
+	.ctl00_VerticalNavigation1_Menu1_5 { background-color:#CCCCCC;border-color:#CCCCCC;border-style:None;padding:2px 0px 2px 0px; }
+	.ctl00_VerticalNavigation1_Menu1_6 { color:#CCCCCC; }
+	.ctl00_VerticalNavigation1_Menu1_7 { padding:0px 5px 0px 5px; }
+	.ctl00_VerticalNavigation1_Menu1_8 { background-color:#000066;border-color:#CCCCCC;border-width:0px;border-style:None; }
+	.ctl00_VerticalNavigation1_Menu2_0 { background-color:white;visibility:hidden;display:none;position:absolute;left:0px;top:0px; }
+	.ctl00_VerticalNavigation1_Menu2_1 { font-family:Verdana;font-size:10pt;text-decoration:none; }
+	.ctl00_VerticalNavigation1_Menu2_2 { background-color:#CCCCCC;border-color:#CCCCCC;border-width:0px;border-style:None;font-family:Verdana;font-size:10pt; }
+	.ctl00_VerticalNavigation1_Menu2_3 { color:#000066; }
+	.ctl00_VerticalNavigation1_Menu2_4 { padding:1px 10px 1px 10px; }
+	.ctl00_VerticalNavigation1_Menu2_5 { background-color:#CCCCCC;border-color:#CCCCCC;border-style:None;padding:2px 0px 2px 0px; }
+	.ctl00_VerticalNavigation1_Menu2_6 { color:#CCCCCC; }
+	.ctl00_VerticalNavigation1_Menu2_7 { padding:0px 5px 0px 5px; }
+	.ctl00_VerticalNavigation1_Menu2_8 { background-color:#000066;border-color:#CCCCCC;border-width:0px;border-style:None; }
+
+</style></head>
+<body>
+    <form name="aspnetForm" method="post" action="/WalterDrake/CustomerService/Shop.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTIwMDYxNTcyOQ9kFgJmD2QWAgIDD2QWKgIBD2QWAmYPDxYCHgRUZXh0BRlUaGlzIGlzIGEgc3BlY2lhbCBEZWFsISEhZGQCAw8PFgIeC05hdmlnYXRlVXJsBS5odHRwOi8vd3d3LndkcmFrZS5jb20vV2FsdGVyRHJha2UvRGVmYXVsdC5hc3B4ZGQCEQ8PFgIfAQU5aHR0cHM6Ly93d3cud2RyYWtlLmNvbS9XYWx0ZXJEcmFrZS9NeUFjY291bnQvRGVmYXVsdC5hc3B4ZGQCEw8PFgIfAQU+aHR0cDovL3d3dy53ZHJha2UuY29tL1dhbHRlckRyYWtlL0N1c3RvbWVyU2VydmljZS9EZWZhdWx0LmFzcHhkZAIdD2QWAmYPZBYCAgIPZBYEZg9kFgJmDw9kFgIeCW9ua2V5ZG93bgW5AWphdmFzY3JpcHQ6aWYoKGV2ZW50LndoaWNoICYmIGV2ZW50LndoaWNoID09IDEzKSB8fCAoZXZlbnQua2V5Q29kZSAmJiBldmVudC5rZXlDb2RlID09IDEzKSl7ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2N0bDAwX1F1aWNrT3JkZXIxX0dvQnV0dG9uJykuY2xpY2soKTtyZXR1cm4gZmFsc2U7fWVsc2UgcmV0dXJuIHRydWU7ZAIBD2QWAmYPD2QWAh8CBbkBamF2YXNjcmlwdDppZigoZXZlbnQud2hpY2ggJiYgZXZlbnQud2hpY2ggPT0gMTMpIHx8IChldmVudC5rZXlDb2RlICYmIGV2ZW50LmtleUNvZGUgPT0gMTMpKXtkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnY3RsMDBfUXVpY2tPcmRlcjFfR29CdXR0b24nKS5jbGljaygpO3JldHVybiBmYWxzZTt9ZWxzZSByZXR1cm4gdHJ1ZTtkAikPDxYCHwEFVGh0dHA6Ly93d3cud2RyYWtlLmNvbS9XYWx0ZXJEcmFrZS9Ccm93c2luZy9HYXRld2F5LmFzcHg/Q0lEPU91dGRvb3IlMmMrUGV0cyslMjYrQXV0b2RkAisPDxYCHwEFTmh0dHA6Ly93d3cud2RyYWtlLmNvbS9XYWx0ZXJEcmFrZS9Ccm93c2luZy9HYXRld2F5LmFzcHg/Q0lEPVBlcnNvbmFsaXplZCtJdGVtc2RkAi0PDxYCHwEFQGh0dHA6Ly93d3cud2RyYWtlLmNvbS9XYWx0ZXJEcmFrZS9Ccm93c2luZy9DYXRlZ29yeS5hc3B4P0NJRD1OZXdkZAIvDw8WAh8BBU9odHRwOi8vd3d3LndkcmFrZS5jb20vV2FsdGVyRHJha2UvQnJvd3NpbmcvQ2F0ZWdvcnkuYXNweD9DSUQ9Q3VzdG9tZXIrRmF2b3JpdGVzZGQCMQ8PFgIfAQVKaHR0cDovL3d3dy53ZHJha2UuY29tL1dhbHRlckRyYWtlL0Jyb3dzaW5nL0NhdGVnb3J5LmFzcHg/Q0lEPUFzK1NlZW4rT24rVFZkZAIzDw8WAh8BBUFodHRwOi8vd3d3LndkcmFrZS5jb20vV2FsdGVyRHJha2UvQnJvd3NpbmcvQ2F0ZWdvcnkuYXNweD9DSUQ9U2FsZWRkAjUPDxYCHwEFRmh0dHA6Ly93d3cud2RyYWtlLmNvbS9XYWx0ZXJEcmFrZS9Ccm93c2luZy9DYXRlZ29yeS5hc3B4P0NJRD1DbGVhcmFuY2VkZAI9Dw8WAh8BBUJodHRwczovL3d3dy53ZHJha2UuY29tL1dhbHRlckRyYWtlL0N1c3RvbWVyU2VydmljZS9DYXRSZXF1ZXN0LmFzcHhkZAJBDw8WAh8BBUVodHRwOi8vd3d3LndkcmFrZS5jb20vV2FsdGVyRHJha2UvQ3VzdG9tZXJTZXJ2aWNlL1Nob3AuYXNweCNndWFyYW50ZWVkZAJDDw8WAh8BBUJodHRwczovL3d3dy53ZHJha2UuY29tL1dhbHRlckRyYWtlL015QWNjb3VudC9Vc2VyL09yZGVyU3RhdHVzLmFzcHhkZAJFDw8WAh8BBUhodHRwOi8vd3d3LndkcmFrZS5jb20vV2FsdGVyRHJha2UvQ3VzdG9tZXJTZXJ2aWNlL09yZGVyaW5nLmFzcHgjc2hpcHBpbmdkZAJLDw8WAh8BBT5odHRwOi8vd3d3LndkcmFrZS5jb20vV2FsdGVyRHJha2UvQ3VzdG9tZXJTZXJ2aWNlL0Fib3V0VXMuYXNweGRkAk0PDxYCHwEFQWh0dHBzOi8vd3d3LndkcmFrZS5jb20vV2FsdGVyRHJha2UvQ3VzdG9tZXJTZXJ2aWNlL0NvbnRhY3RVcy5hc3B4ZGQCTw8PFgIfAQVDaHR0cDovL3d3dy53ZHJha2UuY29tL1dhbHRlckRyYWtlL0N1c3RvbWVyU2VydmljZS9TaG9wLmFzcHgjcHJpdmFjeWRkAlUPDxYCHwEFQ2h0dHBzOi8vd3d3LndkcmFrZS5jb20vV2FsdGVyRHJha2UvQ3VzdG9tZXJTZXJ2aWNlL0VtYWlsU2lnblVwLmFzcHhkZAJjDw8WAh8ABRzCqTIwMDcgV2FsdGVyIERyYWtlwqkgT25saW5lZGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgMFD2N0bDAwJGJ0blNlYXJjaAUUY3RsMDAkYnRuRW1haWxTaWdudXAFDmN0bDAwJFZlcmlTaWdu7js/ACyz6nujTZ//M2FkrSttbXg=">
+
+
+<script src="/WalterDrake/WebResource.axd?d=V-SGkZI4_yq166BUllJHuA2&amp;t=632972484994216250" type="text/javascript"></script>
+        <table width="825px" border="0" cellpadding="0" cellspacing="0">
+            <!-- page table -->
+            <tbody><tr>
+                <td colspan="2">
+                    <table border="0" width="100%" cellpadding="0" cellspacing="0" style="border-bottom: #000066 thick solid">
+                        <!-- main header table -->
+                        <tbody><tr>
+                            <td style="height: 1px">
+                                <!-- <span id="ctl00_CampaignInformation1_CampaignLabel"><font face="Verdana" color="#C20202" size="3">This is a special Deal!!!</font></span>
+-->
+                            </td>
+                        </tr>
+                        <tr>
+                            <td rowspan="3">
+                                <a id="ctl00_hlLogo" href="http://www.wdrake.com/WalterDrake/Default.aspx"><font face="Verdana" color="Black" size="2"><img src="../images/WDLogo.jpg" border="0"></font></a>          
+                            </td>
+                            <td rowspan="3" valign="top" style="padding-top: 12px;">
+                                &nbsp;</td>
+                            <td align="right">
+                                <table cellpadding="2" cellspacing="0" style="border-right: #000066 thin solid; border-top: #000066 thin solid;
+                                    border-left: #000066 thin solid; border-bottom: #000066 thin solid;">
+                                    <!-- shopping cart table -->
+                                    <tbody><tr style="background-color: #CCCCCC;">
+                                        <td colspan="3">
+                                            
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <table border="0" cellpadding="0" cellspacing="3">
+                                                <tbody><tr>
+                                                    <td>
+                                                        
+                                                        
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="right">
+                                                        <table border="0" cellpadding="0" cellspacing="0">
+                                                            <tbody><tr>
+                                                                <td>
+                                                                    
+<table>
+    <tbody><tr>
+        <td align="center" valign="bottom">
+            <a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.wdrake.com">
+                <img width="115" height="32" style="border:0" src="//images.scanalert.com/meter/www.wdrake.com/12.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a>
+        </td>
+    </tr>                         
 </tbody></table>
-<table width="760" border="0" cellpadding="0" cellspacing="0">
+                                                                </td>
+                                                                <td>
+                                                                    <img id="ctl00_imgCart" src="../images/Cart.jpg" border="0">
+                                                                </td>
+                                                                <td>
+                                                                    <div id="ctl00_ShoppingCart" nowrap="nowrap"><b><font face="Verdana" color="Black" size="2">
+	<a href="http://www.wdrake.com/WalterDrake/Cart.aspx" class="xSmall"><font size="2">Shopping Cart
+	</font></a>
+
+</font></b></div>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody></table>
+                                                    </td>
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="right" style="height: 15px" colspan="1">
+                                <a id="ctl00_hlMyAccount" href="https://www.wdrake.com/WalterDrake/MyAccount/Default.aspx"><b><font face="Verdana" color="Black" size="1">My Account</font></b></a>&nbsp;|
+                                <a id="ctl00_hlCusService" href="http://www.wdrake.com/WalterDrake/CustomerService/Default.aspx"><b><font face="Verdana" color="Black" size="1">Customer Service</font></b></a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="MasterRowBuffer" colspan="1">
+                            </td>
+                        </tr>
+                    </tbody></table>
+                    <!-- end main header table -->
+                </td>
+            </tr>
+            <tr>
+                <td valign="top" style="border-right: #000066 thick solid; background-color: #cccccc;">
+                    <table width="100px" border="0" cellpadding="0" cellspacing="0" frame="void">
+                        <!-- start side nav table -->
+                        <tbody><tr>
+                            <td valign="top">
+                                <table cellpadding="0" cellspacing="0" border="0">
+                                    <tbody><tr>
+                                        <td colspan="3">
+                                            <img id="ctl00_imgSearch" src="../images/Search.jpg" border="0">
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="SearchBoxBuffer" valign="top">
+                                        </td>
+                                        <td valign="top">
+                                            <input name="ctl00$keyword" type="text" id="ctl00_keyword" value="Keyword or item#" maxlength="30" size="16" onfocus="if(this.value=='Keyword or item#')this.value='';" onfocusout="if(this.value=='')this.value='Keyword or item#';" class="SearchBox">
+                                        </td>
+                                        <td>
+                                            <input type="image" name="ctl00$btnSearch" id="ctl00_btnSearch" src="../images/Go.jpg" alt="Go" border="0">
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                        </td>
+                                        <td colspan="2">
+                                            
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                        </td>
+                                        <td colspan="2">
+                                            &nbsp;</td>
+                                    </tr>
+                                </tbody></table><hr style="color: #000066">
+                                <span id="ctl00_QuickOrder1" style="display:inline-block;"><b><font size="3"><table border="0" height="75" width="125">
 	<tbody><tr>
-		<td width="150" valign="top" align="center" bgcolor="#0001CD">
-			<table width="148" border="0" cellspacing="0" cellpadding="0">
+		<td align="left" colspan="3"><font size="3"><b>Quick Order</b></font></td>
+	</tr><tr>
+		<td align="left" valign="bottom"><font size="1">Item No.</font></td><td align="left" valign="bottom"><font size="1">Qty.</font></td>
+	</tr><tr>
+		<td align="left" valign="top"><input name="ctl00$QuickOrder1$ctl01" type="text" onkeydown="javascript:if((event.which &amp;&amp; event.which == 13) || (event.keyCode &amp;&amp; event.keyCode == 13)){document.getElementById('ctl00_QuickOrder1_GoButton').click();return false;}else return true;" border="1"></td><td align="left" valign="top"><input name="ctl00$QuickOrder1$ctl02" type="text" onkeydown="javascript:if((event.which &amp;&amp; event.which == 13) || (event.keyCode &amp;&amp; event.keyCode == 13)){document.getElementById('ctl00_QuickOrder1_GoButton').click();return false;}else return true;" border="1"></td><td align="left" valign="top"><input type="submit" name="ctl00$QuickOrder1$GoButton" value="GO" id="ctl00_QuickOrder1_GoButton" onmouseover="this.style.cursor='hand'" border="1"></td>
+	</tr><tr>
+		<td align="center" colspan="3"></td>
+	</tr>
+</tbody></table></font></b></span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <hr style="color: #000066">
+                            </td>
+                        </tr>
+                        <!-- <tr>
+            <td>
+                <img id="ctl00_imgQuickOrder" src="../images/QuickOrder.jpg" border="0" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <input name="ctl00$tbQuickOrder" type="text" value="Item#" id="ctl00_tbQuickOrder" border="1" />
+                <img id="ctl00_imgGo2" src="../images/Go.jpg" border="0" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <hr style="color:#000066" />
+            </td>
+        </tr> -->
+                        <tr>
+                            <td>
+                                <table cellpadding="0" cellspacing="0" border="0">
+                                    <tbody><tr>
+                                        <td>
+                                            <img id="ctl00_imgShopByCat" src="../images/ShopByCategory.jpg" border="0">
+                                            
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="MenuTopBuffer"></td></tr></tbody></table>
+<div id="ctl00_VerticalNavigation1_VerticalNavPanel"><font face="Verdana" size="2">
+	<span id="ctl00_VerticalNavigation1_CategoryLabel"><b><font face="Verdana" color="Black" size="3"></font></b></span><br>
+<a href="#ctl00_VerticalNavigation1_Menu2_SkipLink"><img alt="Skip Navigation Links" src="/WalterDrake/WebResource.axd?d=2twwaRe-1Va3cSV68be_Yw2&amp;t=632972484994216250" width="0" height="0" border="0"></a><table id="ctl00_VerticalNavigation1_Menu2" class="ctl00_VerticalNavigation1_Menu2_5 ctl00_VerticalNavigation1_Menu2_2" cellpadding="0" cellspacing="0" border="0">
+		<tbody><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n0">
+			<td><table class="ctl00_VerticalNavigation1_Menu2_4" cellpadding="0" cellspacing="0" border="0" width="100%">
 				<tbody><tr>
-					<td align="center">
-						<table width="138" border="0" align="center" cellpadding="0" cellspacing="0">
-							<tbody><tr>
-								<td><img src="images/spacer.gif" height="6"></td>
-							</tr>
-							<tr>
-								<td><img src="images/qof_top.gif"></td>
-							</tr>
-							<tr>
-								<td align="center" class="qof_box">
-									<table border="0" cellspacing="0" cellpadding="1">
-									<form action="http://www.wdrake.com/quick_order.aspx" method="get"></form>
-										<tbody><tr>
-											<td align="center"><input name="item_no" type="text" size="7" maxlength="20"></td>
-											<td align="center"><input name="qty" type="text" size="1" maxlength="3"></td>
-										</tr>
-										<tr align="center">
-											<td align="center" class="t9b">Item #</td>
-											<td align="center" class="t9b">Qty.</td>
-										</tr>
-										<tr align="center">
-											<td colspan="2"><input name="imageField" type="image" src="images/btn_buynow1.gif" border="0"></td>
-										</tr>
-										
-									</tbody></table>
-								<hr width="130" noshade="">
-									<table border="0" cellspacing="0" cellpadding="1">
-									<!-- <form name="search" method="post" action="http://www.wdrake.com/search.aspx">
-										<tr>
-											<td align="center"><img src="images/hdr_prodsearch.gif" width="85" height="13"></td>
-										</tr>
-										<tr align="center">
-											<td align="center"><input name="keyword" type="text" size="13"></td>
-										</tr>
-										<tr align="center">
-											<td><input name="imageField" type="image" src="images/btn_finditems.gif" border="0"></td>
-										</tr>
-									</form> -->
-										<form action="http://wdrake.resultspage.com/search" method="GET"></form>
-										<input type="hidden" name="p" value="Q">
-										<input type="hidden" name="ts" value="custom">
-										<input type="hidden" name="CartAmount" value="0.00">
-										<input type="hidden" name="CustomerName" value="">
-										<tbody><tr>
-											<td align="center"><img src="images/hdr_prodsearch.gif" width="85" height="13"></td>
-										</tr>
-										<tr align="center">
-											<td align="center"><input type="text" name="w" value=""></td>
-										</tr>
-										<tr align="center">
-											<td><input name="imageField" type="image" src="images/btn_finditems.gif" border="0"></td>
-										</tr>
-										<!-- <input type="submit" name="submit" value="Submit" /> -->
-										 
-									</tbody></table>
-								</td>
-							</tr>
-							<tr>
-								<td><img src="images/qof_btm.gif"></td>
-							</tr>
-						</tbody></table>
-					</td>
+					<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_3" href="http://www.wdrake.com/WalterDrake/browsing/gateway.aspx?CID=Kitchen&amp;SiteNum=0">Kitchen</a></td>
 				</tr>
-				
-				<!-- Begin HackerSafe Code. -->
-				<tr>
-					<td><img src="images/spacer.gif" width="1" height="7" alt="" border="0"></td>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n1">
+			<td><table class="ctl00_VerticalNavigation1_Menu2_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_3" href="http://www.wdrake.com/WalterDrake/browsing/gateway.aspx?CID=Home&amp;SiteNum=0">Home</a></td>
 				</tr>
-				<tr>
-					<td><img src="images/spacer.gif" width="1" height="7" alt="" border="0"></td>
-				</tr>				
-				<tr>
-					<td align="center">
-						<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.wdrake.com">
-							<img width="115" height="32" border="0" src="//images.scanalert.com/meter/www.wdrake.com/12.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a>
-					</td>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n2">
+			<td><table class="ctl00_VerticalNavigation1_Menu2_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_3" href="http://www.wdrake.com/WalterDrake/browsing/gateway.aspx?CID=Outdoor%2c+Pets+%26+Auto&amp;SiteNum=0">Outdoor, Pets &amp; Auto</a></td>
 				</tr>
-				<!-- End hackerSafe Code. -->
-				
-				<tr>
-					<td>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n3">
+			<td><table class="ctl00_VerticalNavigation1_Menu2_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_3" href="http://www.wdrake.com/WalterDrake/browsing/gateway.aspx?CID=Personal+Care+%26+Apparel&amp;SiteNum=0">Personal Care &amp; Apparel</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n4">
+			<td><table class="ctl00_VerticalNavigation1_Menu2_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_3" href="http://www.wdrake.com/WalterDrake/browsing/gateway.aspx?CID=Holiday+%26+Gifts&amp;SiteNum=0">Holiday &amp; Gifts</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n5">
+			<td><table class="ctl00_VerticalNavigation1_Menu2_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_3" href="http://www.wdrake.com/WalterDrake/browsing/gateway.aspx?CID=Labels%2c+Calendars+%26+Stationery&amp;SiteNum=0">Labels, Calendars &amp; Stationery</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n6">
+			<td><table class="ctl00_VerticalNavigation1_Menu2_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_3" href="http://www.wdrake.com/WalterDrake/browsing/gateway.aspx?CID=Christmas+Cards&amp;SiteNum=0">Christmas Cards</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n7">
+			<td><table class="ctl00_VerticalNavigation1_Menu2_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_3" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Web+Exclusives&amp;SiteNum=0">Web Exclusives</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr>
+	</tbody></table><div id="ctl00_VerticalNavigation1_Menu2n0Items" class="ctl00_VerticalNavigation1_Menu2_0 ctl00_VerticalNavigation1_Menu2_8">
+		<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n8">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Kitchen&amp;SCID=Bakeware+%26+Cookware&amp;SiteNum=0">Bakeware &amp; Cookware</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n9">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Kitchen&amp;SCID=Cleaning+%26+Safety&amp;SiteNum=0">Cleaning &amp; Safety</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n10">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Kitchen&amp;SCID=Decorative+Kitchen&amp;SiteNum=0">Decorative Kitchen</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n11">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Kitchen&amp;SCID=Drinkware&amp;SiteNum=0">Drinkware</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n12">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Kitchen&amp;SCID=Food+Preparation&amp;SiteNum=0">Food Preparation</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n13">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Kitchen&amp;SCID=Food+Storage&amp;SiteNum=0">Food Storage</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n14">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Kitchen&amp;SCID=Handy+Helpers&amp;SiteNum=0">Handy Helpers</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n15">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Kitchen&amp;SCID=Microwave&amp;SiteNum=0">Microwave</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n16">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Kitchen&amp;SCID=Refrigerator+%26+Freezer&amp;SiteNum=0">Refrigerator &amp; Freezer</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n17">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Kitchen&amp;SCID=Sink%2c+Disposal+%26+Dishwasher&amp;SiteNum=0">Sink, Disposal &amp; Dishwasher</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n18">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Kitchen&amp;SCID=Small+Appliances&amp;SiteNum=0">Small Appliances</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n19">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Kitchen&amp;SCID=Stove+Repair+%26+Maintenance&amp;SiteNum=0">Stove Repair &amp; Maintenance</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n20">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Kitchen&amp;SCID=Table+Top&amp;SiteNum=0">Table Top</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr>
+		</tbody></table><div class="ctl00_VerticalNavigation1_Menu2_7 ctl00_VerticalNavigation1_Menu2_0" id="ctl00_VerticalNavigation1_Menu2n0ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center">
+			<img src="/WalterDrake/WebResource.axd?d=iW2ygady7MO857_BDZYqLMnhL47QQ3EqavQo3YxnAUA1&amp;t=632972484994216250" alt="Scroll up">
+		</div><div class="ctl00_VerticalNavigation1_Menu2_7 ctl00_VerticalNavigation1_Menu2_0" id="ctl00_VerticalNavigation1_Menu2n0ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center">
+			<img src="/WalterDrake/WebResource.axd?d=4ihfuWz5vLPGmgwSt4mDVc8ev84E_eRs1fHS3IFUQtQ1&amp;t=632972484994216250" alt="Scroll down">
+		</div>
+	</div><div id="ctl00_VerticalNavigation1_Menu2n1Items" class="ctl00_VerticalNavigation1_Menu2_0 ctl00_VerticalNavigation1_Menu2_8">
+		<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n21">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Home&amp;SCID=Bath&amp;SiteNum=0">Bath</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n22">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Home&amp;SCID=Bed&amp;SiteNum=0">Bed</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n23">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Home&amp;SCID=Cleaning+%26+Repair&amp;SiteNum=0">Cleaning &amp; Repair</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n24">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Home&amp;SCID=Clothes+Care&amp;SiteNum=0">Clothes Care</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n25">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Home&amp;SCID=Decorations+%26+Accents&amp;SiteNum=0">Decorations &amp; Accents</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n26">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Home&amp;SCID=Household+Items&amp;SiteNum=0">Household Items</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n27">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Home&amp;SCID=Lighting%2c+Climate+%26+Adapters&amp;SiteNum=0">Lighting, Climate &amp; Adapters</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n28">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Home&amp;SCID=Safety+%26+Security&amp;SiteNum=0">Safety &amp; Security</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n29">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Home&amp;SCID=Storage+%26+Organizers&amp;SiteNum=0">Storage &amp; Organizers</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n30">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Home&amp;SCID=Tools+%26+Maintenance&amp;SiteNum=0">Tools &amp; Maintenance</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n31">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Home&amp;SCID=TV+%26+Stereo&amp;SiteNum=0">TV &amp; Stereo</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr>
+		</tbody></table><div class="ctl00_VerticalNavigation1_Menu2_7 ctl00_VerticalNavigation1_Menu2_0" id="ctl00_VerticalNavigation1_Menu2n1ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center">
+			<img src="/WalterDrake/WebResource.axd?d=iW2ygady7MO857_BDZYqLMnhL47QQ3EqavQo3YxnAUA1&amp;t=632972484994216250" alt="Scroll up">
+		</div><div class="ctl00_VerticalNavigation1_Menu2_7 ctl00_VerticalNavigation1_Menu2_0" id="ctl00_VerticalNavigation1_Menu2n1ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center">
+			<img src="/WalterDrake/WebResource.axd?d=4ihfuWz5vLPGmgwSt4mDVc8ev84E_eRs1fHS3IFUQtQ1&amp;t=632972484994216250" alt="Scroll down">
+		</div>
+	</div><div id="ctl00_VerticalNavigation1_Menu2n2Items" class="ctl00_VerticalNavigation1_Menu2_0 ctl00_VerticalNavigation1_Menu2_8">
+		<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n32">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Outdoor%2c+Pets+%26+Auto&amp;SCID=Auto+%26+Travel&amp;SiteNum=0">Auto &amp; Travel</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n33">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Outdoor%2c+Pets+%26+Auto&amp;SCID=Decorative&amp;SiteNum=0">Decorative</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n34">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Outdoor%2c+Pets+%26+Auto&amp;SCID=Lawn+%26+Garden&amp;SiteNum=0">Lawn &amp; Garden</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n35">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Outdoor%2c+Pets+%26+Auto&amp;SCID=Maintenance+%26+Repair&amp;SiteNum=0">Maintenance &amp; Repair</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n36">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Outdoor%2c+Pets+%26+Auto&amp;SCID=Pest+Control&amp;SiteNum=0">Pest Control</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n37">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Outdoor%2c+Pets+%26+Auto&amp;SCID=Pets&amp;SiteNum=0">Pets</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr>
+		</tbody></table><div class="ctl00_VerticalNavigation1_Menu2_7 ctl00_VerticalNavigation1_Menu2_0" id="ctl00_VerticalNavigation1_Menu2n2ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center">
+			<img src="/WalterDrake/WebResource.axd?d=iW2ygady7MO857_BDZYqLMnhL47QQ3EqavQo3YxnAUA1&amp;t=632972484994216250" alt="Scroll up">
+		</div><div class="ctl00_VerticalNavigation1_Menu2_7 ctl00_VerticalNavigation1_Menu2_0" id="ctl00_VerticalNavigation1_Menu2n2ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center">
+			<img src="/WalterDrake/WebResource.axd?d=4ihfuWz5vLPGmgwSt4mDVc8ev84E_eRs1fHS3IFUQtQ1&amp;t=632972484994216250" alt="Scroll down">
+		</div>
+	</div><div id="ctl00_VerticalNavigation1_Menu2n3Items" class="ctl00_VerticalNavigation1_Menu2_0 ctl00_VerticalNavigation1_Menu2_8">
+		<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n38">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Personal+Care+%26+Apparel&amp;SCID=Aids+for+Daily+Living&amp;SiteNum=0">Aids for Daily Living</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n39">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Personal+Care+%26+Apparel&amp;SCID=Braces+%26+Supports&amp;SiteNum=0">Braces &amp; Supports</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n40">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Personal+Care+%26+Apparel&amp;SCID=Comfort+Clothing&amp;SiteNum=0">Comfort Clothing</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n41">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Personal+Care+%26+Apparel&amp;SCID=Dietary+Supplements&amp;SiteNum=0">Dietary Supplements</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n42">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Personal+Care+%26+Apparel&amp;SCID=Eye%2c+Ear+%26+Throat+Relief&amp;SiteNum=0">Eye, Ear &amp; Throat Relief</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n43">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Personal+Care+%26+Apparel&amp;SCID=Footcare&amp;SiteNum=0">Footcare</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n44">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Personal+Care+%26+Apparel&amp;SCID=Hair%2c+Nail+%26+Skincare&amp;SiteNum=0">Hair, Nail &amp; Skincare</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n45">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Personal+Care+%26+Apparel&amp;SCID=Incontinence&amp;SiteNum=0">Incontinence</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n46">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Personal+Care+%26+Apparel&amp;SCID=Jewelry+%26+Accessories&amp;SiteNum=0">Jewelry &amp; Accessories</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n47">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Personal+Care+%26+Apparel&amp;SCID=Mobility+%26+Cushions&amp;SiteNum=0">Mobility &amp; Cushions</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n48">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Personal+Care+%26+Apparel&amp;SCID=Purses%2c+Wallets+%26+Totes&amp;SiteNum=0">Purses, Wallets &amp; Totes</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n49">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Personal+Care+%26+Apparel&amp;SCID=Shoes%2c+Slippers+%26+Hosiery&amp;SiteNum=0">Shoes, Slippers &amp; Hosiery</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n50">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Personal+Care+%26+Apparel&amp;SCID=Under+Your+Garments&amp;SiteNum=0">Under Your Garments</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n51">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Personal+Care+%26+Apparel&amp;SCID=Vision+Aids&amp;SiteNum=0">Vision Aids</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n52">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Personal+Care+%26+Apparel&amp;SCID=Weight+Loss+%26+Exercise&amp;SiteNum=0">Weight Loss &amp; Exercise</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr>
+		</tbody></table><div class="ctl00_VerticalNavigation1_Menu2_7 ctl00_VerticalNavigation1_Menu2_0" id="ctl00_VerticalNavigation1_Menu2n3ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center">
+			<img src="/WalterDrake/WebResource.axd?d=iW2ygady7MO857_BDZYqLMnhL47QQ3EqavQo3YxnAUA1&amp;t=632972484994216250" alt="Scroll up">
+		</div><div class="ctl00_VerticalNavigation1_Menu2_7 ctl00_VerticalNavigation1_Menu2_0" id="ctl00_VerticalNavigation1_Menu2n3ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center">
+			<img src="/WalterDrake/WebResource.axd?d=4ihfuWz5vLPGmgwSt4mDVc8ev84E_eRs1fHS3IFUQtQ1&amp;t=632972484994216250" alt="Scroll down">
+		</div>
+	</div><div id="ctl00_VerticalNavigation1_Menu2n4Items" class="ctl00_VerticalNavigation1_Menu2_0 ctl00_VerticalNavigation1_Menu2_8">
+		<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n53">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Holiday+%26+Gifts&amp;SCID=Books+%26+Videos&amp;SiteNum=0">Books &amp; Videos</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n54">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Holiday+%26+Gifts&amp;SCID=Decorations+%26+Storage&amp;SiteNum=0">Decorations &amp; Storage</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n55">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Holiday+%26+Gifts&amp;SCID=Gifts&amp;SiteNum=0">Gifts</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n56">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Holiday+%26+Gifts&amp;SCID=Labels+%26+Stationery&amp;SiteNum=0">Labels &amp; Stationery</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n57">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Holiday+%26+Gifts&amp;SCID=Memorial+%26+Religious&amp;SiteNum=0">Memorial &amp; Religious</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n58">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Holiday+%26+Gifts&amp;SCID=Toys+%26+Games&amp;SiteNum=0">Toys &amp; Games</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr>
+		</tbody></table><div class="ctl00_VerticalNavigation1_Menu2_7 ctl00_VerticalNavigation1_Menu2_0" id="ctl00_VerticalNavigation1_Menu2n4ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center">
+			<img src="/WalterDrake/WebResource.axd?d=iW2ygady7MO857_BDZYqLMnhL47QQ3EqavQo3YxnAUA1&amp;t=632972484994216250" alt="Scroll up">
+		</div><div class="ctl00_VerticalNavigation1_Menu2_7 ctl00_VerticalNavigation1_Menu2_0" id="ctl00_VerticalNavigation1_Menu2n4ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center">
+			<img src="/WalterDrake/WebResource.axd?d=4ihfuWz5vLPGmgwSt4mDVc8ev84E_eRs1fHS3IFUQtQ1&amp;t=632972484994216250" alt="Scroll down">
+		</div>
+	</div><div id="ctl00_VerticalNavigation1_Menu2n5Items" class="ctl00_VerticalNavigation1_Menu2_0 ctl00_VerticalNavigation1_Menu2_8">
+		<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n59">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Labels%2c+Calendars+%26+Stationery&amp;SCID=Business+Cards&amp;SiteNum=0">Business Cards</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n60">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Labels%2c+Calendars+%26+Stationery&amp;SCID=Calendars&amp;SiteNum=0">Calendars</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n61">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Labels%2c+Calendars+%26+Stationery&amp;SCID=Greeting+%26+Note+Cards&amp;SiteNum=0">Greeting &amp; Note Cards</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n62">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Labels%2c+Calendars+%26+Stationery&amp;SCID=Memos+%26+Notepads&amp;SiteNum=0">Memos &amp; Notepads</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n63">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Labels%2c+Calendars+%26+Stationery&amp;SCID=Personalized+Labels&amp;SiteNum=0">Personalized Labels</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n64">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Labels%2c+Calendars+%26+Stationery&amp;SCID=Stationery+%26+Accessories&amp;SiteNum=0">Stationery &amp; Accessories</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr>
+		</tbody></table><div class="ctl00_VerticalNavigation1_Menu2_7 ctl00_VerticalNavigation1_Menu2_0" id="ctl00_VerticalNavigation1_Menu2n5ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center">
+			<img src="/WalterDrake/WebResource.axd?d=iW2ygady7MO857_BDZYqLMnhL47QQ3EqavQo3YxnAUA1&amp;t=632972484994216250" alt="Scroll up">
+		</div><div class="ctl00_VerticalNavigation1_Menu2_7 ctl00_VerticalNavigation1_Menu2_0" id="ctl00_VerticalNavigation1_Menu2n5ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center">
+			<img src="/WalterDrake/WebResource.axd?d=4ihfuWz5vLPGmgwSt4mDVc8ev84E_eRs1fHS3IFUQtQ1&amp;t=632972484994216250" alt="Scroll down">
+		</div>
+	</div><div id="ctl00_VerticalNavigation1_Menu2n6Items" class="ctl00_VerticalNavigation1_Menu2_0 ctl00_VerticalNavigation1_Menu2_8">
+		<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n65">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Christmas+Cards&amp;SCID=Gift+Cards&amp;SiteNum=0">Gift Cards</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n66">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Christmas+Cards&amp;SCID=Holiday+Favorites&amp;SiteNum=0">Holiday Favorites</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_VerticalNavigation1_Menu2n67">
+				<td><table class="ctl00_VerticalNavigation1_Menu2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="ctl00_VerticalNavigation1_Menu2_1 ctl00_VerticalNavigation1_Menu2_6" href="http://www.wdrake.com/WalterDrake/browsing/category.aspx?CID=Christmas+Cards&amp;SCID=Religious&amp;SiteNum=0">Religious</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr>
+		</tbody></table><div class="ctl00_VerticalNavigation1_Menu2_7 ctl00_VerticalNavigation1_Menu2_0" id="ctl00_VerticalNavigation1_Menu2n6ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center">
+			<img src="/WalterDrake/WebResource.axd?d=iW2ygady7MO857_BDZYqLMnhL47QQ3EqavQo3YxnAUA1&amp;t=632972484994216250" alt="Scroll up">
+		</div><div class="ctl00_VerticalNavigation1_Menu2_7 ctl00_VerticalNavigation1_Menu2_0" id="ctl00_VerticalNavigation1_Menu2n6ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center">
+			<img src="/WalterDrake/WebResource.axd?d=4ihfuWz5vLPGmgwSt4mDVc8ev84E_eRs1fHS3IFUQtQ1&amp;t=632972484994216250" alt="Scroll down">
+		</div>
+	</div><a id="ctl00_VerticalNavigation1_Menu2_SkipLink"></a>
 
-<br>
-<table border="0" cellspacing="0" cellpadding="0" width="137" bgcolor="#ffffff">
+</font></div>
 
-
-<!------------------------------------------------------>
-</table><table width="140" border="0" align="center" cellpadding="0" cellspacing="0">
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                        </tr>
+                        <!--
+                        <tr>
+                            <td>
+                                <a id="ctl00_hlCandy" href="http://www.wdrake.com/WalterDrake/Browsing/Gateway.aspx?CID=Outdoor%2c+Pets+%26+Auto"><font face="Verdana" color="Black" size="2"><img src="../images/SundialLogoWeb.jpg" border="0" /></font></a>
+                            </td>
+                        </tr>
+                        -->
+                        <tr>
+                            <td>
+                                <a id="ctl00_hlPers" href="http://www.wdrake.com/WalterDrake/Browsing/Gateway.aspx?CID=Personalized+Items"><font face="Verdana" color="Black" size="2"><img src="../images/Personalization.jpg" border="0"></font></a>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                    <!-- end side nav table -->
+                </td>
+                <td valign="top" align="left" style="border-right: #000066 thick solid">
+                    <table width="605px" border="0" cellpadding="0" cellspacing="0" frame="void">
+                        <!-- start main content table -->
+                        <tbody><tr>
+                            <td>
+                                <table border="0" cellpadding="0" cellspacing="0" frame="void">
+                                    <!-- start main content table -->
+                                    <tbody><tr>
+                                        <td style="white-space: nowrap;">
+                                            <a id="ctl00_hlTopNav1" href="http://www.wdrake.com/WalterDrake/Browsing/Category.aspx?CID=New"><font face="Verdana" color="Black" size="2"><img src="../images/TopNav1.jpg" border="0"></font></a>
+                                        </td>
+                                        <td style="white-space: nowrap;">
+                                            <a id="ctl00_hlTopNav2" href="http://www.wdrake.com/WalterDrake/Browsing/Category.aspx?CID=Customer+Favorites"><font face="Verdana" color="Black" size="2"><img src="../images/TopNav2.jpg" border="0"></font></a>
+                                        </td>
+                                        <td style="white-space: nowrap;">
+                                            <a id="ctl00_hlTopNav3" href="http://www.wdrake.com/WalterDrake/Browsing/Category.aspx?CID=As+Seen+On+TV"><font face="Verdana" color="Black" size="2"><img src="../images/TopNav3.jpg" border="0"></font></a>
+                                        </td>
+                                        <td style="white-space: nowrap;">
+                                            <a id="ctl00_hlTopNav4" href="http://www.wdrake.com/WalterDrake/Browsing/Category.aspx?CID=Sale"><font face="Verdana" color="Black" size="2"><img src="../images/TopNav4.jpg" border="0"></font></a>
+                                        </td>
+                                        <td style="white-space: nowrap;">
+                                            <a id="ctl00_hlTopNav5" href="http://www.wdrake.com/WalterDrake/Browsing/Category.aspx?CID=Clearance"><font face="Verdana" color="Black" size="2"><img src="../images/TopNav5.jpg" border="0"></font></a>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="5" align="left">
+                                
+<table class="ContentArea" border="0">
+<tbody><tr>
+    <td align="center">
+        <table border="0">
         <tbody><tr>
-          <td><img src="images/side_top.gif" width="140" height="3"></td>
+            <td align="left">
+                <table border="0">
+                    <tbody><tr>
+                        <td colspan="2"><a name="top"></a><a id="ctl00_ContentPlaceHolder1_HyperLink1" href="../Default.aspx"><font face="Verdana" color="Black" size="2">Home</font></a> :: <a id="ctl00_ContentPlaceHolder1_HyperLink2" href="Default.aspx"><font face="Verdana" color="Black" size="2">Customer Service</font></a> :: <a id="ctl00_ContentPlaceHolder1_HyperLink3" href="Shop.aspx"><font face="Verdana" color="Black" size="2">Shop With Confidence</font></a></td>
+                    </tr>
+                    <tr>
+                        <td>&nbsp;</td>
+                    </tr>
+                    <tr>
+                        <td><span id="ctl00_ContentPlaceHolder1_Label1"><font face="Verdana" color="#194993" size="4">Shop With Confidence</font></span></td>
+                        <td align="right">
+                            <span id="ctl00_ContentPlaceHolder1_Label2"><b><font face="Verdana" color="#194993" size="3">Call us at</font></b></span>
+                            <span id="ctl00_ContentPlaceHolder1_Label27"><font face="Verdana" color="#194993" size="4">1-800-525-9291</font></span></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2"><hr></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">&nbsp;</td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <table border="0"><!-- START -->
+                            <tbody><tr>
+                                <td>
+                    <a id="ctl00_ContentPlaceHolder1_hlGuarantee" href="#guarantee"><u><font face="Verdana" color="Blue" size="2">100% Satisfaction Guarantee</font></u></a></td>
+            </tr>
+            <tr>
+                <td>
+                    <a id="ctl00_ContentPlaceHolder1_hlPrivacy" href="#privacy"><u><font face="Verdana" color="Blue" size="2">Privacy and Security Policy</font></u></a></td>
+            </tr>
+            <tr>
+                <td>
+                    <a id="ctl00_ContentPlaceHolder1_hlTerms" href="#terms"><u><font face="Verdana" color="Blue" size="2">Terms of Use</font></u></a></td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td><a name="guarantee"></a><span id="ctl00_ContentPlaceHolder1_Label3"><b><u><font face="Verdana" color="#194993" size="3">100% Satisfaction Guarantee</font></u></b></span></td>
+            </tr>
+            <tr>
+                <td>
+                    If there is anything that does not please you about your order, let us know. We'll make it right! Since 1947 Walter Drake has provided customers with top service and quality merchandise backed by our famous no-nonsense guarantee: "If not fully satisfied in every way, your money will be cheerfully refunded—on all of our products including personalized."<br><br>
+                    To return or exchange an item, please follow the instructions on the packing slip enclosed with your order, or call Customer Service at 1-800-858-4979, 6:00 am to 2:00 am Central - 7 Days a Week. If you are asked to return an item, please send via U.S. mail to:<br><br>
+                    Walter Drake<br>
+Drake Building, Returns Dept.<br>
+2155 S Oakwood Road<br>
+Oshkosh, WI 54904<br><br>
+
+Please include the following information with all returned items:
+<ul>
+    <li>Your full name</li><li>Order number</li><li>Reason for return</li><li>Desired action (replacement or credit*)</li></ul>
+* For credit card orders please allow approximately 4 weeks for the credit to appear.<br><br>
+                    If you have any questions on how to return an item that you are not completely satisfied with, just click here to view our <a id="ctl00_ContentPlaceHolder1_hlReturns" href="Ordering.aspx#returns"><u><font face="Verdana" color="Blue" size="2">Returns &amp; Exchanges</font></u></a> information. 
+                    <br><br>
+               </td>
+            </tr>
+            <tr>
+                <td>
+                    <a id="ctl00_ContentPlaceHolder1_HyperLink4" href="#top"><u><font face="Verdana" color="Blue" size="2">Back to top of page</font></u></a></td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td> 
+            </tr>
+            <tr>
+                <td><a name="privacy"></a><span id="ctl00_ContentPlaceHolder1_Label4"><b><u><font face="Verdana" color="#194993" size="3">Privacy and Security Policy</font></u></b></span></td>
+            </tr>
+            <tr>
+                <td>At wdrake.com, we respect your privacy and have established diligent procedures to ensure that your personal information is handled in a safe, secure, responsible manner. Below we describe why we gather information from our customers, what information we collect, how we collect it, what we use the information for and how you can instruct us if you prefer to limit the use of that information.
+                    <br><br>
+                    Comments about our Privacy Policy may be sent by e-mail to <a id="ctl00_ContentPlaceHolder1_hlCustServiceEmail" href="mailto:help@wdrake.com"><u><font face="Verdana" color="Blue" size="2">help@wdrake.com</font></u></a>. We can also be reached by telephone at 1-800-858-4979.
+                    <br><br>
+                    Our privacy policy addresses the following questions:
+                    <br><br>
+                    <span id="ctl00_ContentPlaceHolder1_Label5"><b><u><font face="Verdana" color="#194993" size="3">Who are we?</font></u></b></span>
+                    <br>
+                    Walter Drake is a leading direct marketing company in the United States, providing quality products to millions of customers through our catalogs and online.
+                    <br><br>
+                    The Walter Drake business mailing address is: 
+                    <br><br>
+                    Walter Drake<br>
+                    250 City Center<br>
+                    Oshkosh, WI 54906<br>
+                    <br><br>
+                    <span id="ctl00_ContentPlaceHolder1_Label6"><b><u><font face="Verdana" color="#194993" size="3">What information do we collect?</font></u></b></span>
+                    <br>
+                    When you shop with Walter Drake, online or through our catalogs, we collect the information necessary to process your transaction. This may include item, quantity ordered, name, address, city, state, zip code, telephone number, email address, and billing information (credit card or check account number, expiration date and billing address). When orders are shipped to an address different from the billing address, we will also ask for the name(s), full address(es) and phone number(s) of order recipients. Information you enter is collected even if you cancel or do not complete an order.<br>
+                    <br>
+                    In addition when you visit online, our website automatically recognizes the address of your Internet Service Provider (ISP) and, in some cases, your domain name. We cannot identify you individually from your screen name if you are using America Online or one of the other major online services. Our website also identifies information
+                    such as your browser, your browser version, the operating system you are using, the pages you visit at wdrake.com and the uniform resource locator (URL) of where you were on the Internet if you clicked a link to 
+                    <a id="ctl00_ContentPlaceHolder1_hlMilesKimball" href="http://www.wdrake.com"><u><font face="Verdana" color="Blue" size="2">
+                                        www.wdrake.com</font></u></a>.
+                    <br>
+                    <br>
+                    How do we use the information we collect? 
+                    <br>
+                    We use the information collected for various purposes, including: 
+                    <br>
+                    * To process your transaction 
+                    <br>
+                    * To provide services as you request
+                    <br>
+                    * To provide an enhanced and more personalized shopping experience 
+                    <br>
+                    * To mail our catalogs and other offerings. 
+                    <br>
+                    * To inform you of important information about your order 
+                    <br>
+                    * To identify products and services you prefer so that we can inform you of products, services, and promotions that may be of interest to you 
+                    <br>
+                    * To improve the merchandise selection available to you 
+                    <br>
+                    * To improve our customer service
+                    <br>
+                    *To assure billing accuracy. 
+                    <br>
+                    <br>
+                    We intend to continue improving the content and function of wdrake.com. For this reason, we gather the information mentioned above so that we can provide content of interest to you and a site that functions correctly on your computer system. 
+                    <br>
+                    <br>
+                    In the event of a merger, consolidation, sale, or transfer of all or substantially all of the assets or business of wdrake.com (a "Successor"), one of the assets which would generally be transferred is the information we collect from our customers. However, the use of this information by any Successor would still be governed by the terms of this privacy policy, as amended from time to time, including any amendment after such transaction, and you will continue to have the right to opt-out of sharing your information with third parties.
+                    <br>
+                    <br>
+                    We may disclose any information you provide to wdrake.com (i) when we believe disclosure to be appropriate to comply with any law, regulation, or governmental request, or to comply with judicial process; or (ii) if such disclosure is necessary or appropriate to operate this web site or to process any purchases you make or conduct any promotions you participate in; (iii) to protect the rights or property of wdrake.com, its users, Sponsors, Providers, Licensors, or Merchants.
+                    <br>
+                    <br>
+                    <span id="ctl00_ContentPlaceHolder1_Label7"><b><u><font face="Verdana" color="#194993" size="3">How do you access or correct information collected?</font></u></b></span>
+                    <br>
+                    You may limit our use of your personal information including phone number, mailing address, and e-mail address, or instruct us not to share the personal information you have provided to us with third parties by emailing us at <a id="ctl00_ContentPlaceHolder1_HyperLink7" href="mailto:help@wdrake.com"><u><font face="Verdana" color="Blue" size="2">help@wdrake.com</font></u></a> or by contacting customer service at 1-800-858-4979.
+                    <br><br>
+                    You may easily modify My Account personal information, including phone number and address, online anytime by simply logging into your account. Log in to My Account to review stored information. Always remember to save your updated preferences.
+                    <br><br>
+                    You may also email, write, fax or call Customer Service at Walter Drake to have any changes made to your information.
+                    <br><br>
+                    <span id="ctl00_ContentPlaceHolder1_Label8"><b><u><font face="Verdana" color="#194993" size="3">What information do we share with others?</font></u></b></span>
+                    <br>
+                    Walter Drake is a subsidiary of Blyth, Inc. and as such we may share the information we collect with corporate affiliates.
+                    <br><br>
+                    Service providers: To provide you the best possible service and products, we provide information to outside companies that help us deliver the products and services offered. For example, we may work with an outside company to manage a database of customer information or to distribute our emails.
+                    <br><br>
+                    At times we may partner with outside vendors to provide additional services or products outside those offered by wdrake.com. Should you choose to accept or subscribe to offers from third parties, we may pass your relevant personal information, including name and credit card number, to the third party whose offer you have accepted. Your information will be transferred securely, and as a convenience, you will not need to re-enter your personal information. Your acceptance of a third party offer gives wdrake.com implied permission to share your personal information. Your personal information will not be released with out your permission, as evidenced by your acceptance or subscription to an outside third party offer.
+                    <br><br>
+                    Other companies: We do not rent or sell your e-mail address to anyone.
+                    <br><br>
+                    On occasion, we may share a portion of our catalog mailing lists with other reputable companies. If you prefer not to receive these catalog mailings, e-mail your request to 
+                    <a id="ctl00_ContentPlaceHolder1_HyperLink8" href="mailto:help@wdrake.com"><u><font face="Verdana" color="Blue" size="2">help@wdrake.com</font></u></a> with your name and address exactly as it appears on the back cover of the catalog, or mail the back cover to:
+                    <br><br>
+                    Walter Drake Mail Preference <br>
+                    250 City Center<br>
+                    Oshkosh, WI 54906
+                    <br><br>
+                    <span id="ctl00_ContentPlaceHolder1_Label9"><b><u><font face="Verdana" color="#194993" size="3">How do we use Cookies?</font></u></b></span>
+                    <br>
+                    A "cookie" is a small file stored on your computer by a web site that gathers certain information about your activity on the site. We use cookies only to provide a mechanism that allows us to maintain your shopping cart. Our cookies do not store any personal or financial information about you. Most web browsers automatically accept cookies and allow you to disable the use of cookies. However, if you disable this feature, certain aspects of the Walter Drake web site, such as the shopping basket and "My Account" will not function properly.
+                    <br><br>
+                    <span id="ctl00_ContentPlaceHolder1_Label10"><b><u><font face="Verdana" color="#194993" size="3">Web (tracking) Bugs or Beacons</font></u></b></span>
+                    <br>
+                    "Web bugs" or "Web beacons" are devices placed inside emails that allow us to track certain activity. Tracked activity includes being able to tell if the email was opened, how many times a recipient opened the email, whether or not they clicked a link and how many links were clicked. We do not use these devices for any other tracking activity.
+                    <br><br>
+                    <span id="ctl00_ContentPlaceHolder1_Label11"><b><u><font face="Verdana" color="#194993" size="3">How do you opt out of wdrake.com email promotions?</font></u></b></span>
+                    <br>
+                    From time to time, Walter Drake will send out an email announcing special sales and promotions. Email promotions are sent to customers that have voluntarily given us their email address and agreed to receive our emails. We will never share, rent or sell your email address. If you do not wish to receive email from us, you may unsubscribe at any time by any of the following methods:
+                    <br><br> 
+                    * If you receive a promotional e-mail from us, click on the link "Click Here to Unsubscribe" found at the bottom of every e-mail letter we send out. <br>
+                    * You may unsubscribe in the "Email Signup" section of our web site. <br>
+                    * You may e-mail, call, or fax Customer Service: <br>
+                    Customer Service:&nbsp;<a id="ctl00_ContentPlaceHolder1_HyperLink9" href="mailto:help@wdrake.com"><u><font face="Verdana" color="Blue" size="2">help@wdrake.com</font></u></a> <br>
+                    Phone: 1-800-858-4979, 6 am to 2 am Central Time, 7 days a week<br>
+                    Fax: 1-888-252-8462<br>
+                    <br><br>
+                    <span id="ctl00_ContentPlaceHolder1_Label12"><b><u><font face="Verdana" color="#194993" size="3">Links To Other Sites</font></u></b></span>
+                    <br>
+                    While visiting wdrake.com, you may link to web sites operated by our partners or other third parties. This does not mean we endorse these web sites. We do not make any representations or warranties about any web site you may access through this web site. They are independent from Walter Drake, and we have no control over, or responsibility for, their information or activities. You need to make your own independent decision regarding your interactions or communications with any other web site.
+                    <br><br>
+                    If you provide personal information at one of those other sites, you are subject to the privacy policy of that site, not Walter Drake's privacy policy. We encourage you to read that privacy policy before submitting any personal information to any other web site.
+                    <br><br>
+                    <span id="ctl00_ContentPlaceHolder1_Label13"><b><u><font face="Verdana" color="#194993" size="3">Security Concerns</font></u></b></span>
+                    <br>
+                    We are committed to data security and the accuracy of our information (see Our Security Policy) received from domestic and foreign visitors to our site. Likewise, your recipient(s)' information is never shared with third parties. In addition, none of your information is merged with outside data for marketing purposes.
+                    <br><br>
+                    We do ask that you please review the acknowledgment of your request that you will receive to insure the accuracy of the information submitted to us. As noted earlier, your information is never shared with any third party when you let us know by email, letter, phone or the do not solicit option on each location where we are collecting information. The only exception is response to your specific request for merchandise or information. It should be noted that if you do allow us to share information, the other companies may be governed by different privacy policies.
+                    <br><br>
+                    <span id="ctl00_ContentPlaceHolder1_Label14"><b><u><font face="Verdana" color="#194993" size="3">Changes to Privacy Policy</font></u></b></span>                                  
+                    <br>
+                    We may change our Privacy Policy at any time. Please return to this page every so often and let us know if you would like us to make changes in the way our Privacy Policy applies to you.
+                    <br><br>
+                    Enjoy your visit to wdrake.com. We hope you find what you are looking for.
+                    <br><br>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <a id="ctl00_ContentPlaceHolder1_HyperLink5" href="#top"><u><font face="Verdana" color="Blue" size="2">Back to top of page</font></u></a></td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td> 
+            </tr>
+            <tr>
+                <td><a name="terms"></a><span id="ctl00_ContentPlaceHolder1_Label15"><b><u><font face="Verdana" color="#194993" size="3">Walter Drake Terms of Use</font></u></b></span>
+                    <br><br>
+                    Click here to view the Walter Drake <a id="ctl00_ContentPlaceHolder1_HyperLink10" href="#privacy"><u><font face="Verdana" color="Blue" size="2">Privacy Policy</font></u></a>&nbsp;<br><br>
+                    <div>
+                        wdrake.com website ("Site") is currently being provided to you free-of-charge,
+                        subject to your acceptance of our Terms and Conditions. We reserve the right to change and revise these Terms and Conditions without prior notice as we see fit.
+                        If you violate the terms of this Agreement you will have your access canceled and you may be permanently banned from using the Site and any interactive services. You should check these terms and conditions periodically. By using wdrake.com
+                        after we post changes to these Terms and Conditions, you agree to accept those changes, whether or not you actually reviewed them.
+                    </div>
+                    <div>
+                        &nbsp;</div>
+                    <div>
+                    Entering the Site will constitute your acceptance of both the Privacy Policy and Terms and Conditions, whether you have read them or not. If you do not agree to abide by these terms, please do not enter the Site.
+                    </div>
+                    <div>
+                        &nbsp;</div>
+                    <div>
+                    We do not discriminate on the basis of age, race, national origin, gender, sexual orientation or religion.<br>
+                        <br>
+                    <span id="ctl00_ContentPlaceHolder1_Label16"><b><u><font face="Verdana" color="#194993" size="3">Privacy</font></u></b></span>
+                    <br>
+                    Please review our <a id="ctl00_ContentPlaceHolder1_HyperLink11" href="#privacy"><u><font face="Verdana" color="Blue" size="2">Privacy Policy</font></u></a>, which goes into further detail on how we at Walter Drake protect your privacy while using our site or ordering from us.
+                    <br><br>
+                    <span id="ctl00_ContentPlaceHolder1_Label17"><b><u><font face="Verdana" color="#194993" size="3">Copyright</font></u></b></span>
+                    <br>
+                    By accessing wdrake.com, you acknowledge that the Site contains graphics, code, information, data, software, photographs, videos, typefaces, music, sounds, and/or other material that are protected by copyrights, trademarks, trade secrets, or other proprietary rights, and that rights are valid and protected in all forms existing now or yet to be developed. Permission is granted to electronically copy and print hard copies of pages from this Web site solely for personal, non-commercial purposes related to the placement of an order or shopping with wdrake.com. Except as provided in the preceding sentence or as permitted by the fair use privilege under the U.S. copyright laws (see, e.g., 17 U.S.C. Section 107), you may not upload, post, reproduce, or distribute in any way content protected by copyright, or other proprietary right, without obtaining written permission from wdrake.com.
+                    <br><br>
+                    This Web site may contain errors or inaccuracies and may not be complete or current. wdrake.com reserves the right to correct any errors, inaccuracies or omissions (including after an order has been submitted) and to change or update information, including pricing, at any time without prior notice. Further, wdrake.com reserves the right to refuse or cancel any orders containing any error, inaccuracy or omission, whether or not the order has been submitted, confirmed and/or your credit card has been charged. If your credit card has been charged for the purchase and your order is canceled, wdrake.com shall promptly issue a credit to your credit card. We apologize for any inconvenience.
+                    <br><br>
+                    <span id="ctl00_ContentPlaceHolder1_Label18"><b><u><font face="Verdana" color="#194993" size="3">Trademarks</font></u></b></span>
+                    <br>
+                    wdrake.com and other marks found on the Site are registered trademarks or registered service marks of wdrake.com, in the United States and other countries. wdrake.com, as well as page headers, custom graphics, buttons, images and other content on this Web site, are subject to trademark, service mark, trade dress, copyright and or other proprietary or intellectual property rights or licenses held by Walter Drake. Except as expressly authorized, the use or misuse of any trademarks, trade names, logos, images, graphics or content from this Web site is strictly prohibited. 
+                    <br><br>
+                    <span id="ctl00_ContentPlaceHolder1_Label19"><b><u><font face="Verdana" color="#194993" size="3">Accessing wdrake.com</font></u></b></span>
+                    <br>
+                    You may not download or modify any portion of wdrake.com without our expressed written consent. This includes, but is not limited to, any commercial use of wdrake.com or its contents by you or for a third party, any collection and use of our product images, listings, descriptions, and/or prices, or any use of data gathering and extraction tools, including data mining and robots. The Site or any portion of the Site may not be reproduced, duplicated, copied, or otherwise used for any commercial purpose without our expressed written consent.
+                    <br><br>
+                    <span id="ctl00_ContentPlaceHolder1_Label20"><b><u><font face="Verdana" color="#194993" size="3">Your Account and Password</font></u></b></span>
+                    <br>
+                    By using wdrake.com you agree that you alone are responsible for maintaining the confidentiality of your account information and password and that you alone are responsible for anyone accessing your computer. Further, you agree that you alone accept responsibility for all activities that occur under your account or password. We reserve that the right to refuse service, terminate accounts, remove or edit content, or cancel orders will be at sole discretion.
+                    <br><br>
+                    <span id="ctl00_ContentPlaceHolder1_Label21"><b><u><font face="Verdana" color="#194993" size="3">Disclaimers and limitations of liability</font></u></b></span>
+                    <br>
+                    ALL CONTENT ON THIS WEBSITE, INCLUDING, BUT NOT LIMITED TO, ANY ADVICE THAT MAY BE GIVEN TO YOU OVER THIS WEBSITE, ARE PROVIDED "AS IS" AND ALL USE OF THIS WEBSITE IS AT YOUR OWN RISK. Neither wdrake.com, nor its Associates warrant the accuracy, integrity, or completeness of the Content provided on the Site. Further, the Content provided on the Site is applicable for use in the United States.
+                    <br><br>
+                    Under no circumstances shall wdrake.com or its Associates be liable for any damages that result from the use of or inability to use wdrake.com, including but not limited to mistakes, omissions, interruptions, deletion of files or email, errors, defects, viruses, delays in operation or transmission, any failure of performance, communications failure, theft, destruction or unauthorized access to wdrake.com records, programs or services. You hereby acknowledge that this paragraph shall apply to all content, merchandise and services available through wdrake.com.
+                    <br><br>
+                    IF YOU ARE DISSATISFIED WITH THIS WEBSITE AND THE CONTENT THEREON, OR THE TERMS AND CONDITIONS, OR OF THE PRIVACY POLICY, YOUR SOLE AND EXCLUSIVE REMEDY IS TO DISCONTINUE USE OF THIS WEBSITE. Prices and availability of products on the Site are subject to change without notice. Errors will be corrected when discovered, and we reserve the right to revoke any stated offer and to correct any errors, inaccuracies, or omissions (including after an order has been submitted).
+                    <br><br>
+                    <span id="ctl00_ContentPlaceHolder1_Label22"><b><u><font face="Verdana" color="#194993" size="3">Termination of Account</font></u></b></span>
+                    <br>
+                    We may suspend your right to access, or terminate access to all or part of wdrake.com, without notice, for any conduct that we believe is in violation of any applicable law or is harmful to the interests of another user, Associates, or wdrake.com.
+                    <br><br>
+                    <span id="ctl00_ContentPlaceHolder1_Label23"><b><u><font face="Verdana" color="#194993" size="3">Usage by children under 18</font></u></b></span>
+                    <br>
+                    Click <a id="ctl00_ContentPlaceHolder1_hlChildrenPrivacy" href="#privacy"><u><font face="Verdana" color="Blue" size="2">Here</font></u></a> to review our policy concerning children using wdrake.com.
+                    <br><br>
+                    <span id="ctl00_ContentPlaceHolder1_Label24"><b><u><font face="Verdana" color="#194993" size="3">Enforcement</font></u></b></span>
+                    <br>
+                    By accessing wdrake.com, you agree that your access and use of this Website is subject to the Terms and Conditions, and all applicable laws, as governed by the laws of the State of Wisconsin.
+                    <br><br>
+                    <span id="ctl00_ContentPlaceHolder1_Label25"><b><u><font face="Verdana" color="#194993" size="3">Submissions</font></u></b></span>
+                    <br>
+                    Any suggestions, ideas, messages or data submitted by you to Walter Drake through this Website or other affiliated websites shall be and remain the exclusive property of Walter Drake. Therefore, we discourage you from submitting information that you do not want Walter Drake to have, including confidential information or original creative materials such as product ideas. Your submission of such information shall constitute an agreement that Walter Drake has all worldwide right, title and interest in and to all copyrights and other intellectual property rights in the information. Walter Drake is entitled to use, copy, modify, disclose and distribute any of the information for any purpose without restriction or compensation in any way to you.
+                    <br><br>
+                    <span id="ctl00_ContentPlaceHolder1_Label26"><b><u><font face="Verdana" color="#194993" size="3">Miscellaneous</font></u></b></span>
+                    <br>
+                    The Terms and Conditions constitute the entire agreement between you and Walter Drake with respect to this Website. The Terms and Conditions you are reviewing supercede all prior communications and proposals, whether electronic, oral or written between you and Walter Drake with respect to this Website. No modification of the Terms and Conditions shall be effective unless done so by Walter Drake or its representative.
+                    <br><br>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <a id="ctl00_ContentPlaceHolder1_HyperLink6" href="#top"><u><font face="Verdana" color="Blue" size="2">Back to top of page</font></u></a></td>
+            </tr>
+            </tbody></table><!-- END -->
+        </td>
+    </tr>
+</tbody></table>
+            </td>
         </tr>
-        <tr>
-          <td class="side-hdr">Categories</td>
-        </tr>
-        <tr>
-			<td class="side-cat">
+        </tbody></table>
+    </td>
+</tr>
+</tbody></table>
 
-			<a href="http://www.wdrake.com/category.aspx?cid=355" class="t12b">Kitchen</a><br>
-
-			<a href="http://www.wdrake.com/category.aspx?cid=391" class="t12b">Home</a><br>
-
-			<a href="http://www.wdrake.com/category.aspx?cid=335" class="t12b">Labels, Calendars &amp; Stationery</a><br>
-
-			<a href="http://www.wdrake.com/category.aspx?cid=381" class="t12b">Outdoor, Pets &amp; Auto</a><br>
-
-			<a href="http://www.wdrake.com/category.aspx?cid=405" class="t12b">Personal Care &amp; Apparel</a><br>
-
-			<a href="http://www.wdrake.com/category.aspx?cid=367" class="t12b">Personalized Items</a><br>
-
-			<a href="http://www.wdrake.com/category.aspx?cid=439" class="t12b">As Seen on TV</a><br>
-
-			<a href="http://www.wdrake.com/category.aspx?cid=419" class="t12b">Holiday &amp; Gifts</a><br>
-
-			<a href="http://www.wdrake.com/category.aspx?cid=427" class="t12b">Christmas Cards</a><br>
-
-			<a href="http://www.wdrake.com/category.aspx?cid=441" class="t12b">Clearance</a><br>
-
-			<a href="http://www.wdrake.com/category.aspx?cid=437" class="t12b">Customer Favorites</a><br>
-
-			<a href="http://www.wdrake.com/category.aspx?cid=4856" class="t12b">New</a><br>
-
-			<a href="http://www.wdrake.com/category.aspx?cid=440" class="t12b">Sale</a><br>
-
-			<a href="http://www.wdrake.com/category.aspx?cid=5356" class="t12b">Web Exclusives</a><br>
-
-			</td>
-        </tr>
-        <tr>
-          <td><img src="images/side_btm.gif" width="140" height="3"></td>
-        </tr>
-</tbody></table><br>
-<table width="140" border="0" align="center" cellpadding="0" cellspacing="0">
-        <tbody><tr>
-          <td><img src="images/side_top.gif" width="140" height="3"></td>
-        </tr>
-        <tr>
-          <td class="side-hdr">Need Help? </td>
-        </tr>
-        <tr>
-          <td class="side-cat"><a href="http://www.wdrake.com/catalog_request.aspx" class="t12">Catalog Request</a><br>
-		  <a href="http://www.wdrake.com/hto.aspx" class="t12">How to Order</a><br>
-		  <a href="http://www.wdrake.com/customer_service.aspx" class="t12">Customer Service</a><br>
-            <a href="http://www.wdrake.com/faq.aspx" class="t12">FAQ</a><br>
-            <a href="http://www.wdrake.com/contact_us.aspx" class="t12">Contact Us</a><br>
-            <a href="http://www.wdrake.com/privacy.aspx" class="t12">Privacy Policy</a><br>
-            <a href="http://www.wdrake.com/security.aspx" class="t12">Security Policy</a><br>
-            <a href="http://www.wdrake.com/terms.aspx" class="t12">Terms of Use</a><br>
-            <a href="http://www.wdrake.com/affiliate.aspx" class="t12">Become an Affiliate</a> </td>
-        </tr>
-        <tr>
-          <td><img src="images/side_btm.gif" width="140" height="3"></td>
-        </tr>
-</tbody></table><br>
-<table width="140" border="0" align="center" cellpadding="0" cellspacing="0">
-        <tbody><tr>
-			<td align="center"><img src="images/hdr_youcanshop.gif" width="116" height="39" vspace="5"><br>
-			<img src="images/wd_directions.gif" width="129" height="42" border="0"><br>
-			<!--<A HREF="http://www.birthdayalmanac.com/fogentry/walterdrake"><img src="images/histbday.gif" width="108" height="91" vspace="5" border=0></A><hr>-->
-			<a href="http://www.bbbonline.org/cks.asp?id=10110011522319008"><img src="images/ReliabilitySeal1.gif" border="0"></a></td>
-        </tr>
-</tbody></table></td>
-				</tr>
-			</tbody></table>
-		</td>
-		<td valign="top" bgcolor="#ffffff"><br>
-		<script language="JavaScript">
- <!-- Overture Services, Inc
-var pm_tagname    = "universalTag.txt"; 
-var pm_tagversion = "1.4";
-var pm_accountid  = "TF3084QNM9QJ6M2B78CVG78KJ4";
-var pm_scripthost = "srv.perf.overture.com";
-var pm_customargs = "";
-var pm_querystr = "?" + "ver=" + pm_tagversion + "&aid=" + pm_accountid + pm_customargs;
-var pm_tag = "<SCR" + "IPT LANGUAGE='JavaScript' " + "SRC=//" + pm_scripthost + "/collweb/ScriptServlet" + pm_querystr + "></SCR" + "IPT>";
-document.write(pm_tag);
-// -->
-</script><script language="JavaScript" src="//srv.perf.overture.com/collweb/ScriptServlet?ver=1.4&amp;aid=TF3084QNM9QJ6M2B78CVG78KJ4"></script>
-<!-- SiteCatalyst code version: G.9. Copyright 1997-2004 Omniture, Inc. More info available at http://www.omniture.com --><script language="JavaScript"><!--/* You may give each page an identifying name, server, and channel on the next lines. */ 
+                            </td>
+                        </tr>
+                    </tbody></table>
+                    <!-- end main content table -->
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <!-- start footer table -->
+                    <table width="100%" border="0" cellpadding="-1" cellspacing="-1" frame="void">
+                        <tbody><tr>
+                            <td style="border-top: #000066 10px solid">
+                                <table border="0" cellpadding="0" cellspacing="0">
+                                    <!-- start footer links table -->
+                                    <tbody><tr>
+                                        <td class="FooterLinksBuffer">
+                                        </td>
+                                        <td>
+                                            <span id="ctl00_lblCatCustomers"><b><font face="Verdana" color="Black" size="1">Catalog Customers:</font></b></span>
+                                            
+                                            <!-- &nbsp;| -->
+                                            <a id="ctl00_hlCatRequest" href="https://www.wdrake.com/WalterDrake/CustomerService/CatRequest.aspx"><font face="Verdana" color="Black" size="1">Catalog Request</font></a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="FooterLinksBuffer">
+                                        </td>
+                                        <td>
+                                            <span id="ctl00_Label1"><b><font face="Verdana" color="Black" size="1">Shopping Services:</font></b></span>
+                                            <a id="ctl00_hlGuarantee" href="http://www.wdrake.com/WalterDrake/CustomerService/Shop.aspx#guarantee"><font face="Verdana" color="Black" size="1">100% Satisfaction Guaranteed</font></a>&nbsp;|
+                                            <a id="ctl00_hlOrderStatus" href="https://www.wdrake.com/WalterDrake/MyAccount/User/OrderStatus.aspx"><font face="Verdana" color="Black" size="1">Order Status</font></a>&nbsp;|
+                                            <a id="ctl00_hlShipping" href="http://www.wdrake.com/WalterDrake/CustomerService/Ordering.aspx#shipping"><font face="Verdana" color="Black" size="1">Shipping</font></a>&nbsp;
+                                            <!-- |
+                    <a id="ctl00_HyperLink10" href="../MyAccount/WishList/Default.aspx?SiteNum=0"><font face="Verdana" color="Black" size="1">Wish List</font></a>&nbsp;| -->
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="FooterLinksBuffer">
+                                        </td>
+                                        <td style="height: 18px">
+                                            <span id="ctl00_Label2"><b><font face="Verdana" color="Black" size="1">Company Information:</font></b></span>
+                                            <a id="ctl00_hlAboutUs" href="http://www.wdrake.com/WalterDrake/CustomerService/AboutUs.aspx"><font face="Verdana" color="Black" size="1">About Us</font></a>&nbsp;|
+                                            <a id="ctl00_hlContactUs" href="https://www.wdrake.com/WalterDrake/CustomerService/ContactUs.aspx"><font face="Verdana" color="Black" size="1">Contact Us</font></a>&nbsp;|
+                                            <a id="ctl00_hlPrivacy" href="http://www.wdrake.com/WalterDrake/CustomerService/Shop.aspx#privacy"><font face="Verdana" color="Black" size="1">Privacy &amp; Security</font></a>&nbsp;
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="FooterLinksBuffer">
+                                        </td>
+                                        <td>
+                                            <span id="ctl00_Label3"><b><font face="Verdana" color="Black" size="1">Order by Phone:</font></b></span>
+                                            <span id="ctl00_lblPhoneOrder"><font face="Verdana" color="Black" size="1">1-800-525-9291</font></span>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                                <!-- end footer links table -->
+                            </td>
+                            <td align="right">
+                                <table border="0" cellpadding="-1" cellspacing="-1" width="100%">
+                                    <!-- start email signup table -->
+                                    <tbody><tr>
+                                        <td colspan="2">
+                                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                <tbody><tr>
+                                                    <td style="border-top: #000066 10px solid; width: 100%;">
+                                                        &nbsp;
+                                                    </td>
+                                                    <td>
+                                                        <a id="ctl00_hlEmailSignUp" title="Sign Up For Our Email List" href="https://www.wdrake.com/WalterDrake/CustomerService/EmailSignUp.aspx"><font face="Verdana" color="Black" size="2"><img title="Sign Up For Our Email List" src="../images/EmailSignup1.jpg" border="0"></font></a>
+                                                    </td>
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <!-- <td>
+                                            <a id="ctl00_imgEmailSignup1" title="Sign Up For Our Email List" href="EmailSignUp.aspx"><font face="Verdana" color="Black" size="2"><img title="Sign Up For Our Email List" src="../images/EmailSignup1.jpg" border="0" /></font></a>
+                                        </td> -->
+                                        <td>
+                                            <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                                                <tbody><tr>
+                                                    <td colspan="2">
+                                                        <img id="ctl00_imgEmailSignup2" src="../images/EmailSignup2.jpg" border="0"><br>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <input name="ctl00$tbEmailSignup" type="text" value="Enter Email Address" id="ctl00_tbEmailSignup" onfocus="if(this.value=='Enter Email Address')this.value='';" onfocusout="if(this.value=='')this.value='Enter Email Address';" onkeydown="javascript:if((event.which &amp;&amp; event.which == 13) || (event.keyCode &amp;&amp; event.keyCode == 13)){document.getElementById('ctl00_btnEmailSignup').click();return false;}else return true;" border="1">
+                                                    </td>
+                                                    <td>
+                                                        <input type="image" name="ctl00$btnEmailSignup" id="ctl00_btnEmailSignup" src="../images/Send.jpg" onclick="javascript:return emailSignup(this);" border="0">
+                                                    </td>
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                    <!-- end email signup table -->
+                </td>
+            </tr>
+            <tr>
+                <td>
+                <table>
+                        <tbody><tr>
+                            <td><input type="image" name="ctl00$VeriSign" id="ctl00_VeriSign" src="../images/VeriSign.jpg" alt="This Web site has chosen one or more VeriSign SSL Certificate or online payment solutions to improve the security of e-commerce and other confidential communication" onclick="javascript:OpenVeriSign();" border="0"></td>
+                            <td>
+<table width="135" border="0" cellpadding="1" cellspacing="1">
+    <tbody><tr>
+        <td width="135" align="center">
+            <script src="https://sealserver.trustkeeper.net/compliance/seal_js.php?code=w6ozAYiUhpqO4gUyxZMpiNc3Q66qDb"></script>
+            <noscript>
+                <a href="https://sealserver.trustkeeper.net/compliance/cert.php?code=w6ozAYiUhpqO4gUyxZMpiNc3Q66qDb" target="hATW">
+                    <img src="https://sealserver.trustkeeper.net/compliance/seal.php?code=w6ozAYiUhpqO4gUyxZMpiNc3Q66qDb" border="0" alt="Trusted Commerce" />
+                </a>
+            </noscript>
+        </td>
+    </tr>
+</tbody></table>
+</td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+            <tr>
+                <td align="right" colspan="2">
+                    <a id="ctl00_CopyrightLink" href="http://www.wdrake.com/products/c-00000.asp"><font face="Verdana" color="Black" size="1">©2007 Walter Drake© Online</font></a>
+                </td>
+            </tr>
+        </tbody></table>
+        <!-- end footer table -->
+        <!-- SiteCatalyst code version: G.9. Copyright 1997-2004 Omniture, Inc. More info available at http://www.omniture.com --><script language="JavaScript"><!--/* You may give each page an identifying name, server, and channel on the next lines. */ 
 var s_products='' 
 var s_events='' 
 var s_zip='' 
 var s_state='' 
 var s_purchaseID='' 
-var s_campaign='' 
-var s_pageName='Privacy Policy'
-var s_server=''
-var s_channel=''
-var s_pageType=''
-var s_prop1=''
-var s_prop2=''
-var s_prop3=''
-var s_eVar1=''
-var s_eVar2=''
-var s_eVar3=''
-var s_eVar4=''
-var s_eVar5=''
-var s_eVar6=''
-var s_eVar50=''
-var s_hier1=''
-/********* INSERT THE DOMAIN AND PATH TO YOUR CODE BELOW ************/
-//--></script><script language="JavaScript" src="//www.wdrake.com/s_code_remote.js"></script>
-<!-- End SiteCatalyst code version: G.9. -->
+var s_campaign='W079F' 
+var s_pageName='Shop' 
+var s_server='' 
+var s_channel='' 
+var s_pageType='' 
+var s_prop1='' 
+var s_prop2='' 
+var s_prop3='' 
+var s_eVar1='' 
+var s_eVar2='' 
+var s_eVar3='' 
+var s_eVar4='' 
+var s_eVar5='' 
+var s_eVar6='' 
+var s_eVar50='' 
+var s_hier1='' 
+/********* INSERT THE DOMAIN AND PATH TO YOUR CODE BELOW ************/ 
+//--></script><script language="JavaScript" src="/WalterDrake/s_code_remote.js"></script><img name="s_i_mkcwdrake" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/mkcwdrake/1/G.9-Pd-R/s94250186993673?[AQB]&amp;ndh=1&amp;t=30/0/2020%203%3A35%3A43%204%200&amp;pageName=Shop&amp;g=https%3A//web.archive.org/web/20070630061123id_/http%253A//www.wdrake.com/WalterDrake/CustomerService/Shop.aspx%2523privacy&amp;v0=W079F&amp;cc=USD&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]"> 
+<!-- End SiteCatalyst code version: G.9. --> 
 
+        <!-- used to measure the page<hr style="width:851px;text-align:left" /> -->
+    
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCgLrxLmIBAKMqufqBgL9n+COAgLBtv+ADQLcn52WBwL6zMX9BQKr4JGTBwKGxd+4CQLZsJDuBALRuejVDbb2XBmrUC5b5e6K70Mzuld9+ON7">
 
-<table width="590" border="0" cellspacing="0" cellpadding="0" align="center">
-			<tbody><tr>
-				<td width="590" colspan="3" align="CENTER" valign="MIDDLE"><img src="/images/hd_privacy.gif" width="585" height="18" alt="Privacy Statement" border="0"></td>
-			</tr>
-			<tr>
-				<td width="590" align="left" valign="top" class="t12"><br><br>At wdrake.com, we respect your privacy and have established diligent procedures to ensure that your personal information is handled in a safe, secure, responsible manner. Below we describe why we gather information from our customers, what information we collect, how we collect it, what we use the information for and how you can instruct us if you prefer to limit the use of that information.<br><br>
-			    Comments about our Privacy Policy may be sent by e-mail to <a href="mailto:help@wdrake.com">help@wdrake.com </a>. We can also be reached by telephone at 1-800-858-4979.<br><br>
-				Our privacy policy addresses the following questions:<br><br>
-				</td>
-			</tr>
-			<tr>
-			  <td align="left" valign="top"><table cellpadding="1" cellspacing="0" class="t12">
-                <tbody><tr>
-                  <td width="392"><p><a href="#who">Who are we? </a></p></td>
-                </tr>
-                <tr>
-                  <td width="392"><p><a href="#info">What information do we collect? </a></p></td>
-                </tr>
-                <tr>
-                  <td width="392"><p><a href="#use">How do we use the information we collect?</a> </p></td>
-                </tr>
-                <tr>
-                  <td width="392"><p><a href="#access">How do you access or correct information collected?</a> </p></td>
-                </tr>
-                <tr>
-                  <td width="392"><p><a href="#share">What information do we share with others?</a> </p></td>
-                </tr>
-                <tr>
-                  <td width="392"><p><a href="#cookies">How do we use Cookies?</a> </p></td>
-                </tr>
-                <tr>
-                  <td width="392"><p><a href="#bugs">What are Web (tracking) Bugs or Beacons?</a> </p></td>
-                </tr>
-                <tr>
-                  <td width="392"><p><a href="#optout">How do you opt out of wdrake.com e-mail promotions?</a> </p></td>
-                </tr>
-                <tr>
-                  <td width="392"><p><a href="#links">Links to other sites </a></p></td>
-                </tr>
-                <tr>
-                  <td width="392"><p><a href="#security">Security concerns</a> </p></td>
-                </tr>
-                <tr>
-                  <td width="392"><p><a href="#changes">Changes to privacy policy</a> </p></td>
-                </tr>
-              </tbody></table></td>
-			</tr>
-			<tr>
-			  <td width="590" align="left" valign="top" class="t12">					<p>
-					</p><div align="center">					</div>	
-					<p>
-				<font face="Arial,Helvetica" size="2">
-					<a name="who"></a>
-					<b><font face="Arial, Helvetica" size="2" color="#0000FF">Who are we? </font></b><br>
-				</font>Walter Drake is a leading direct marketing company in the United States, providing quality products and services to millions of customers by direct mail, catalog, online stores, publications and other media. 
-				</p><p>The Walter Drake business mailing address is: </p>
-				<blockquote>
-				  <p>Walter Drake<br>
- 4630 Forge  Rd. Suite A<br>
-  Colorado Springs, CO 80907</p>
-			    </blockquote>				<p>Comments about our Privacy Policy may be sent by <a href="mailto:help@wdrake.com">e-mail</a>. We can also be reached by telephone at 1-800-858-4979.</p>
-				<a name="info" id="info"></a>
-			<b><font color="#0000FF">What information do we collect? </font></b><br>
-			Whenever you shop with Walter Drake, online or through our catalogs, we collect the information necessary to process your transaction. This may include item, quantity ordered, name, address, city, state, zip code, telephone number, e-mail address, and billing information (credit card or check account number, expiration date and billing address). When orders are shipped to an address different from the billing address, we will also ask for the name(s), full address(es) and phone number(s) of order recipients. Information you enter is collected even if you cancel or do not complete an order. 
-				<p>In addition when you visit online, our server automatically recognizes the address of your Internet Service Provider (ISP) and, in some cases, your domain name. We cannot identify you individually from your screen name if you are using America Online or one of the other major online services. Our server also identifies your browser, your browser version, the operating system you are using, the pages you visit in The Walter Drake Store and the uniform resource locator (URL) of where you were on the Internet if you clicked a link to www.wdrake.com. </p>
-				<p> <font size="2" face="Arial,Helvetica"><a name="use" id="use"></a> <b><font color="#0000FF"><strong>How do we use the information we collect?</strong></font></b><br>
-</font>We use the information collected for various purposes, including: </p>
-				<ul>
-				  <li> To process your transaction </li>
-				  <li> To provide services as you request </li>
-				  <li> To provide an enhanced more personalized shopping experience </li>
-				  <li> To mail you our catalogs and other offerings. </li>
-				  <li> To inform you of important information about your order </li>
-				  <li> To identify products and services you prefer so that we can inform you of products, services, and promotions that may be of interest to you </li>
-				  <li> To improve the merchandise selection available to you </li>
-				  <li> To improve our customer service </li>
-			    </ul>				<p>We intend to continue improving the content and function of the Walter Drake Online Store. For this reason, we gather the information mentioned above so that we can provide content of interest to you and a site that functions correctly on your computer system. </p>
-				<p>In the event of a merger, consolidation, or sale or transfer of all or substantially all of the assets or business of wdrake.com (a "Successor"), one of the assets which would generally be transferred is the information we collect from our customers. However, the use of this information by any Successor would still be governed by the terms of this privacy policy, as amended from time to time, including any amendment after such transaction, and you will continue to have the right to opt-out of sharing your information with third parties. </p>
-				<p>We may disclose any information you provide to wdrake.com(i) when we believe disclosure to be appropriate to comply with any law, regulation, or governmental request, or to comply with judicial process; or (ii) if such disclosure is necessary or appropriate to operate this web site or to process any purchases you make or conduct any promotions you participate in; (iii) to protect the rights or property of wdrake.com, its users, Sponsors, Providers, Licensors, or Merchants.</p>
-				<p><font><a name="access" id="access"></a> <b><font color="#0000FF" size="2" face="Arial,Helvetica"><strong>How do you access or correct information collected?</strong></font></b><br>
-				You may limit our use of your personal information including phone number, mailing address, and e-mail address, or instruct us not to share the personal information you have provided to us with third parties by emailing us at <a href="mailto:help@wdrake.com">help@wdrake.com </a> or by contacting customer service at 1-800-858-4979. </font></p><font>				
-				<p>You may easily modify <a href="https://www.wdrake.com/login.aspx?redirect_url=my_account.aspx">My Account</a> personal information, including phone number and address, online anytime by simply logging into your account. Log in to <a href="https://www.wdrake.com/login.aspx?redirect_url=my_account.aspx">My Account</a> to review stored information. You may also change your e-mail promotion options. Always remember to save your updated preferences.</p>
-				<p>You may also e-mail, write, fax or call Customer Service at Walter Drake to have any changes made to your information.</p>
-				<p><font size="2" face="Arial,Helvetica"><a name="share" id="share"></a> <b><font color="#0000FF"><strong><strong>What information do we share with others?</strong></strong></font></b><br>
-</font>Walter Drake is a subsidiary of Blyth, Inc. and as such we may share the information we collect with corporate affiliates. </p>
-				<p>Service providers: To provide you the best possible service and products, we provide information to outside companies that help us deliver the products and services offered. For example, we may work with an outside company to manage a database of customer information or to distribute our e-mails. </p>
-				<p>At times we may partner with outside vendors to provide additional services or products outside those offered by wdrake.com. Should you choose to accept or subscribe to offers from third parties, such as Web Loyalty (Travel Values Plus &amp; Reservation Rewards), we may pass your relevant personal information, including name and credit card number, to the third party whose offer you have accepted. Your information will be transferred securely, and as a convenience, you will not need to re-enter your personal information. Your acceptance of a third party offer gives wdrake.com explicit permission to share your personal information. Your personal information will not be released with out your permission, as evidenced by your acceptance or subscription to an outside third party offer. </p>
-				<p>Other companies: We do not rent or sell your e-mail address to anyone. </p>
-				<p>On occasion, we may share a portion of our catalog mailing lists with other reputable companies. If you prefer not to receive these catalog mailings, e-mail your request to <a href="mailto:help@wdrake.com">help@wdrake.com </a> with your name and address exactly as it appears on the back cover of the catalog, or mail the back cover to: </p>
-				<blockquote>
-				  <p>Walter Drake Mail Preference <br>
-			      PO Box 3680 <br>
-			      Oshkosh, WI 54903-3680 </p>
-			    </blockquote>				
-				</font><p><font>
-			<a name="cookies"></a>
-			<b><font size="2" face="Arial,Helvetica" color="#0000FF"><strong>How do we use Cookies?</strong></font></b><br>
-			</font>A "cookie" is a small file stored on your computer by a web site and gathers certain information about your activity on the site. We use cookies only to provide a mechanism that allows us to maintain your shopping cart. Our cookies do not store any personal or financial information about you. 
-				Most web browsers automatically accept cookies and allow you to disable the use of cookies. However, if you disable this feature, certain aspects of the Walter Drake web site, such as the shopping basket and "My Account" will not function properly.
-		  </p><p>
-			<a name="bugs"></a>
-			<b><font face="Arial, Helvetica" size="2" color="#0000FF">Web (tracking) Bugs or Beacons</font></b><br>
-"Web bugs" or "Web beacons" are devices placed inside emails that allow us to track certain activity. Tracked activity includes being able to tell if the email was opened, how many times a recipient opened the email, whether or not they clicked a link and how many links were clicked. We do not use these devices for any other tracking activity.          
-		  </p><p>
-		  <a name="optout" id="optout"></a> <b><font face="Arial, Helvetica" size="2" color="#0000FF"><strong>How do you opt out of wdrake.com e-mail promotions?</strong></font></b><br>
-
-			From time to time, Walter Drake will send out an email announcing special sales and promotions. Email promotions are sent to customers that have voluntarily given us their email address. We will never share, rent or sell your email address. If you do not wish to receive e-mail from us, you may unsubscribe at any time by any of the following methods:
-				</p><ul>
-				  <li> If you receive a promotional e-mail from us, click on the link "Click Here to Unsubscribe" found at the bottom of every e-mail letter we send out. </li>
-				  <li> You may unsubscribe in the <a href="https://www.wdrake.com/login.aspx?redirect_url=my_account.aspx">My Account</a> section on our web site by changing your "Mailing preferences". </li>
-				  <li> You may e-mail, call, or fax Customer Service: </li>
-			    </ul>
-				<blockquote>Customer Service: <br>
-                  <a href="mailto:help@wdrake.com">help@wdrake.com </a><br>
-1-800-858-4979, 6:00 am to 2:00 am Central - 7 Days a Week</blockquote>
-				<p><font face="Arial,Helvetica" size="2"> <a name="links"></a> <b><font face="Arial, Helvetica" size="2" color="#0000FF">Links To Other Sites</font></b><br>
-</font>While visiting wdrake.com, you may link to web sites operated by our partners or other third parties. This does not mean we endorse these web sites. We do not make any representations or warranties about any web site you may access through this web site. They are independent from Walter Drake, and we have no control over, or responsibility for, their information or activities. You need to make your own independent decision regarding your interactions or communications with any other web site. </p>
-				<p>If you provide personal information at one of those other sites, you are subject to the privacy policy of that site, not Walter Drake's privacy policy. We encourage you to read that privacy policy before submitting any personal information to any other web site. </p>
-				<p> <font size="2" face="Arial,Helvetica"><a name="security"></a> <b><font color="#0000FF">Security Concerns</font></b><br>
-</font>We are committed to data security and the accuracy of our information (see Our <a href="security.aspx">Security Policy </a>) received from domestic and foreign visitors to our site. Likewise, your recipient(s)' information is never shared with third parties. In addition, none of your information is merged with outside data for marketing purposes. </p>
-				We do ask that you please review the acknowledgment of your request that you will receive to insure the accuracy of the information submitted to us. As noted earlier, your information is never shared with any third party when you let us know by <a href="mailto:help@wdrake.com">e-mail</a> , letter, phone or the do not solicit option on each location where we are collecting information. The only exception is response to your specific request for merchandise or information. It should be noted that if you do allow us to share information, the other companies may be governed by different privacy policies.
-<p>
-		<a name="change"></a>
-		<b><font face="Arial, Helvetica" size="2" color="#0000FF">Changes to Privacy Policy</font></b><br>
-		We may change our Privacy Policy at any time. Please return to this page every so often and let us know if you would like us to make changes in the way our Privacy Policy applies to you.
-				</p><p>Enjoy your visit to <a href="http://www.wdrake.com">The Walter Drake Online Store </a>. We hope you find what you are looking for. </p>
-			  </td>
-  </tr>
-</tbody></table>
-<br>
-<center><hr width="460" size="1" noshade=""><table border="0">
-		<tbody><tr>
-			<td align="left" valign="top">
-			<script src="https://seal.verisign.com/getseal?host_name=www.wdrake.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO"></script></td>						
-			<td>
-				<table>
-					<tbody><tr>
-						<td align="center" valign="top" class="t12"><b>Shop Securely Online<br>
-						<a href="security.aspx">Find Out Why</a></b>
-						</td>
-					</tr>
-					<tr>
-						<td><img src="/images/spacer.gif" width="1" height="2" alt="" border="0"></td>
-					</tr>
-					<tr>
-						<td align="center" valign="top" class="t10">
-									or Call Toll Free 1-800-525-9291<br>
-
- 4630 Forge  Rd. Suite A<br>
-									Colorado Springs, CO  80907</td>
-					</tr>
-				</tbody></table>
-			</td>
-			<td align="left"><img src="/images/securelock.gif" width="37" height="56" alt="" border="0"></td>
-		</tr>
-	</tbody></table>
-	<hr width="300" size="1" noshade="noshade">
-			 <span class="t11">If you are having problems placing an order on<br>
-			this site, please call our toll free number above.
-
-		<hr width="300" size="1" noshade="noshade">
-
-		<br>
-		<font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">	
-			<a href="hto.aspx">How To Order</a> |
-			<a href="customer_service.aspx">Customer Service</a> | 
-			<a href="contact_us.aspx">Contact Us</a> | 
-			<a href="site_map.aspx">Site Map</a>
-			<br>
-
-			<a href="faq.aspx">FAQs</a> | 
-			<a href="customer_service.aspx#delivery">Delivery Information</a> |
-			<a href="security.aspx">Security Policy</a>
-			<br>
-			<a href="privacy.aspx">Privacy Policy</a> |
-			
-			<a href="http://www.qksrv.net/click-764292-3750771?url=https%3A%2F%2Fsignup.cj.com%2Fsignup%2FbrandedPublisherSignUp.do%3Fair_refmerchantid%3D730826" target="_top">Become an Affiliate</a>
-
-			<br>
-			
-				<a href='javascript:window.open("tell_a_friend.aspx?address=http://www.wdrake.com","tellafriendPopup","width=400,height=450,scrollbars=yes");void(0);'>Send This Site To A Friend</a>
-			
-		
-		<p>
-			<i>©Walter Drake, 1998-2006
-			<br>
-			<a href="copyright.aspx">Copyright Notice</a></i>
-
-		</p><br></font></span></center><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">
-	
-</font></td>
-</tr>
-</tbody></table>
-<table width="760" border="0" cellspacing="0" cellpadding="3">
-  <tbody><tr>
-    <td colspan="5" align="center" bgcolor="#99CCFF"><span class="t12">
-<b>Customer Comments:</b> Of all the on-line shopping experiences I have had, shopping at Walter Drake’s website was BY FAR the most convenient, enjoyable, and quickest I’ve ever experienced. It was GREAT!!!&nbsp;--&nbsp;D. C. Tekulve
-</span></td>
-  </tr>
-  <tr align="center">
-    <td bgcolor="#0000CC"><a href="http://www.the-dma.org/dmalogotext.html"><img src="images/DMAmember.gif" width="74" height="45" border="0"></a></td>
-    <td bgcolor="#0000CC"><a href="http://www.wdrake.com/security.aspx"><img src="images/shopsecurely.gif" width="129" height="33" border="0"></a></td>
-    <td bgcolor="#0000CC" width="170" class="t10-B">Walter Drake, Inc.<br>
-	4630 Forge  Rd. Suite A<br>
-	Colorado Springs, CO 80907<br>
-	1-800-525-9291</td>
-    <td bgcolor="#0000CC"><img src="images/lock.gif" width="39" height="57"></td>
-  </tr>
-  <tr align="center">
-    <td colspan="5" bgcolor="#0000CC">&nbsp;</td>
-  </tr>
-</tbody></table>
-
-
+<script type="text/javascript">
+<!--
+var ctl00_VerticalNavigation1_Menu1_Data = new Object();
+ctl00_VerticalNavigation1_Menu1_Data.disappearAfter = 500;
+ctl00_VerticalNavigation1_Menu1_Data.horizontalOffset = -100;
+ctl00_VerticalNavigation1_Menu1_Data.verticalOffset = 10;
+var ctl00_VerticalNavigation1_Menu2_Data = new Object();
+ctl00_VerticalNavigation1_Menu2_Data.disappearAfter = 500;
+ctl00_VerticalNavigation1_Menu2_Data.horizontalOffset = -100;
+ctl00_VerticalNavigation1_Menu2_Data.verticalOffset = 10;
+// -->
+</script>
+</form>
 
 
 </body></html>
