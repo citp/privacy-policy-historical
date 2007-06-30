@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bea.gov privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205200326id_/https%3A//www.bea.gov/bea/about/Privacy_Statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bea.gov privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630044536id_/http%3A//www.bea.gov/about/Privacy_Statement.htm) for the most accurate reproduction.*
 
-# Web Privacy Policy
+# BEA : Web Privacy Policy
 
 ## Information that is collected when you visit this site
 
@@ -20,8 +20,7 @@ Any information that we collect for the purpose of purchasing products will be h
 
 If you choose not to enter your e-mail address, you cannot complete your Regional Input-Output Multipliers (RIMS II) order online.  However, you can call our RIMS II staff at (202) 606-5343 and place an order without providing an e-mail address.  
 
-The BEA does not capture credit card numbers on our servers; credit card, debit card, and check transactions are processed through to the U.S. Government's [PAY.GOV](https://www.pay.gov/paygov/ "https://www.pay.gov/paygov/") system.   
-
+The BEA does not capture credit card numbers on our servers; credit card, debit card, and check transactions are processed through to the U.S. Government's [PAY.GOV](https://www.pay.gov/paygov/ "https://www.pay.gov/paygov/") system. 
 
 ## Session cookies and BEA's Web satisfaction survey 
 
@@ -44,4 +43,10 @@ You have rights under the Privacy Act and the Freedom of Information Act. The Le
 
 Questions concerning our privacy policy may be addressed to [webmaster@bea.gov](mailto:webmaster@bea.gov). If you believe this site has not adhered to these principles, please notify us by e-mail at [webmaster@bea.gov](mailto:webmaster@bea.gov). 
 
-Date last updated: November 16, 2004
+Last updated: Monday, February 05, 2007 
+
+| 
+
+[Sign up](http://www.govdocs.com/service/multi_subscribe.html?code=USBEA "This link will take you to another Web site.") for e-mail notifications.
+
+[Download](https://web.archive.org/exit_site.asp?link=/exit_site.asp?link=http://www.adobe.com/products/acrobat/readstep2.html "This link will take you to another Web site.") the Acrobat Reader.
