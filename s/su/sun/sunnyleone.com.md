@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunnyleone.com privacy policy that was archived on 2006-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061130220137id_/http%3A//www.sunnyleone.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunnyleone.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630090658id_/http%3A//www.sunnyleone.com/privacy.html) for the most accurate reproduction.*
 
 # Welcome to Sunny Leone’s Site | Privacy Policy
 
