@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 123inkjets.com privacy policy that was archived on 2006-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061120194706id_/http%3A//www.123inkjets.com/cs/policies_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123inkjets.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630104652id_/http%3A//www.123inkjets.com/cs/policies_privacy.html) for the most accurate reproduction.*
 
-# Printer Ink Cartridges, Laser Toners, Ribbons and Inkjet Printer Cartridges - 123InkJets
+# 123inkjets.com - Your Privacy Rights
 
 **Version: July 26, 2006**
 
