@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freetranslation.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016225940id_/http%3A//www.freetranslation.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freetranslation.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630161006id_/http%3A//www.freetranslation.com/privacy.htm) for the most accurate reproduction.*
 
 # FreeTranslation.com - Privacy Policy
 
@@ -56,5 +56,3 @@ We may use your personal information to contact you. For example, we may send yo
 We also use personal information about you to improve our marketing and promotional efforts; to statistically analyze site usage; to improve our content and product offerings; and to customize our sites' content, layout and services. We may also use your information to deliver information to you that, in some cases, is targeted to your interests, such as targeted banners, new services and promotions. We believe these uses allow us to improve our site and better tailor it to meet our visitors' needs. SDL plc does not collect personal information automatically, but we may combine non-personal information collected automatically (e.g., through cookies) with your previously submitted personal information.
 
 SDL plc occasionally sends visitors emails describing new products, promotions or events. These services are optional and you may request to opt-out of these services completely, at any time. We will only store your personal information for a reasonable period of time.
-
-[webmaster@sdl.com](mailto:webmaster@sdl.com)
