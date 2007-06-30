@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nelson.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205194801id_/http%3A//www.nelson.com/nelson/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nelson.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630061112id_/http%3A//www.nelson.com/nelson/privacy.html) for the most accurate reproduction.*
 
 # Nelson, A Division of Thomson Canada Limited - Privacy Policy
 
@@ -35,6 +35,10 @@ As examples of the above:
 > ii) if a Person indicated that he/she was interested in receiving offers or information from Nelson or one or more Nelson Companies or certain of our selected sponsors or advertisers, Nelson may send the Person materials about products and services that Nelson feels may be of interest to the Person; and
 > 
 > iii) if a Person enters a contest or other promotion offered on a Nelson Companies website, Nelson may, under the rules of the promotion, use the Person’s name and certain other information to administer the promotion, such as contacting, announcing and promoting the winners of the promotion.
+
+### Transfer of Information
+
+At times Nelson may use Nelson Companies and/or Third Parties outside of Canada, including in the United States, to perform services for Nelson involving some or all of a Person's Personal Information. This may require transfer of information to those Nelson Companies and/or Third Parties. This information is subject to the laws of the Nelson Companies' and/or Third Parties' jurisdiction, including laws with respect to disclosure of such information.
 
 ### Obtaining Consent:
 
@@ -257,4 +261,4 @@ _A Person shall be able to address a challenge concerning compliance with the ab
 
 _1_ _The inclusion of independent contractors, including freelancers, within the definition of “Employee” is for convenience of reference only, and does in no manner imply that such individuals are employees of the company within the meaning of employment legislation or are in an employee-employer relationship with the company._
 
-**_Most recently amended January 1, 2004._**
+**_Most recently amended February 16, 2007._**
