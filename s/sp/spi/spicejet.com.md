@@ -1,29 +1,38 @@
-> *The following text is extracted and transformed from the spicejet.com privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219060930id_/http%3A//www.spicejet.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spicejet.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630224424id_/http%3A//www.spicejet.com/privacy.asp) for the most accurate reproduction.*
 
 # SpiceJet - Privacy Policy
 
-[ ](http://www.spicejet.com/)  
+| [  faqs](https://web.archive.org/web/20070630224424id_/http%3A//www.spicejet.com/general-air-travel-faq.asp)  
+---  
+[  citizen's charter](https://web.archive.org/web/20070630224424id_/http%3A//www.spicejet.com/charter.asp)  
+[  terms of carriage](https://web.archive.org/web/20070630224424id_/http%3A//www.spicejet.com/tnc.asp)  
+  
+[  spice sbi card](https://web.archive.org/web/20070630224424id_/http%3A//www.spicejet.com/ads.asp)  
+---  
+[  spiceJethotels](http://hotels.spicejet.com/)  
+[  Domestic TravInsure](https://web.archive.org/web/20070630224424id_/http%3A//www.spicejet.com/tata_aig_productdescription.asp)  
+  
+[  corporate overview](https://web.archive.org/web/20070630224424id_/http%3A//www.spicejet.com/CorporateOverview.asp)  
+---  
+[  fleet](https://web.archive.org/web/20070630224424id_/http%3A//www.spicejet.com/fleet.asp)  
+[  our airports](https://web.archive.org/web/20070630224424id_/http%3A//www.spicejet.com/airports.asp)  
+[  spiceJet shops](https://web.archive.org/web/20070630224424id_/http%3A//www.spicejet.com/SpiceJetShops.asp)  
+  investors>>  
+  
+[  shareholding pattern](https://web.archive.org/web/20070630224424id_/http%3A//www.spicejet.com/sharePattern.asp)  
+---  
+[  code of conduct](https://web.archive.org/web/20070630224424id_/http%3A//www.spicejet.com/code-of-conduct.asp)  
+[  contact information](https://web.archive.org/web/20070630224424id_/http%3A//www.spicejet.com/contactus.asp)  
+[  Annual Accounts](https://web.archive.org/web/20070630224424id_/http%3A//www.spicejet.com/Annual%20Accounts%20-%20FY%2006-07.pdf)  
+[  BSE - FY 06-07](https://web.archive.org/web/20070630224424id_/http%3A//www.spicejet.com/BSE%20-%20FY%2006-07.pdf)  
   
 ---  
+  | [home](http://www.spicejet.com/) | | | [book a flight](http://book.spicejet.com/skylights/cgi-bin/skylights.cgi?module=SB) | | | [pnr lookup](http://book.spicejet.com/skylights/cgi-bin/skylights.cgi?module=C3) | | | [web check-in](http://www.spicejet.com/web-checkin-india.asp) | | | [flight status](http://book.spicejet.com/skylights/cgi-bin/skylights.cgi?module=FL) | | | [spice destinations](https://web.archive.org/web/20070630224424id_/http%3A//www.spicejet.com/tourism.asp) | | | travel tips  | | | spice offers  | | | about us  |    
+   
 |   
 ---  
-|  | [home](http://www.spicejet.com/)  
-|  | [guest login](http://book.spicejet.com/skylights/cgi-bin/skylights.cgi?module=MP&sid=)  
-|  | [my profile](http://book.spicejet.com/skylights/cgi-bin/skylights.cgi?module=MP&page=MEMBER_PROFILE&sid=)  
-|  | [book a flight](http://book.spicejet.com/skylights/cgi-bin/skylights.cgi?module=SB&sid=)  
-|  | [check/change booking](http://book.spicejet.com/skylights/cgi-bin/skylights.cgi?module=C3&sid=)  
-|  | [flight status](http://book.spicejet.com/skylights/cgi-bin/skylights.cgi?module=FL&sid=)  
-|  | [destination guide](http://www.spicejet.com/tourism.asp)  
-|  | [careers](http://www.spicejet.com/careers.asp)  
-|  | [travel agencies](http://book.spicejet.com/skylights/cgi-bin/skylights.cgi?module=AG&sid=)  
-|  | about us    
-|  | travel tips  
-|  | investors   
-|  | spice offers  
-|  |   
----  
-|   
----  
+   spicejet privacy policy  
+  
 |   
 ---  
 We, at SpiceJet, value the relationship we have with our customers and web site visitors, and are committed to responsible information handling practices. We take the privacy of our customers very seriously and want you to feel comfortable whenever you visit our web site.  
@@ -41,11 +50,16 @@ We employ common web technologies that help to manage our web site, among them:
 | **Links to External Sites** – Our privacy policy only applies to the SpiceJet.com network. It does not apply to non-network sites that you connect to from our site. We recommend that you read their privacy policy to understand how they manage personal information. We choose our partners and sponsors carefully. However, we are not responsible for the content or practices of web sites operated by third parties that are linked to our sites. These links are provided as a service to our users. Unless otherwise stated, they do not constitute our endorsement, sponsorship or approval of their content, policies or practices.  
 **General**  
 If we change our information handling practices or other privacy aspects, we will give you as much notice as possible prior to implementation. In rare cases, just like with any company or person, we may need to disclose certain information to comply with a valid legal process, such as a court order, subpoena or search. We also may choose to establish or exercise our legal rights or defend against legal claims.  
-[home](http://www.spicejet.com/) [privacy policy](http://www.spicejet.com/privacy.asp) [terms & conditions](http://www.spicejet.com/tnc.asp) [contact us](http://www.spicejet.com/contactus.asp) [feedback](http://www.spicejet.com/feedback.asp) [sitemap](http://www.spicejet.com/sitemap.asp) [spiceJethotels](http://hotels.spicejet.com/) [spicesoup](http://www.spicesoup.com/)  
+  
+|  |  |    
+---  
+   
+[home](http://www.spicejet.com/) [privacy policy](https://web.archive.org/web/20070630224424id_/http%3A//www.spicejet.com/privacy.asp) [terms & conditions](https://web.archive.org/web/20070630224424id_/http%3A//www.spicejet.com/tnc.asp) [contact us](https://web.archive.org/web/20070630224424id_/http%3A//www.spicejet.com/contactus.asp) [advertise with us](mailto:sanjoy.banerjee@spicejet.com)   
+[travel agencies](http://book.spicejet.com/skylights/cgi-bin/skylights.cgi?module=AG) [spiceJethotels](http://hotels.spicejet.com/) [spiceSoup](http://www.spicesoup.com/) [careers](https://web.archive.org/web/20070630224424id_/http%3A//www.spicejet.com/careers.asp) [feedback](https://web.archive.org/web/20070630224424id_/http%3A//www.spicejet.com/feedback.asp) [sitemap](https://web.archive.org/web/20070630224424id_/http%3A//www.spicejet.com/sitemap.asp)  
+   
 This site is best viewed with Internet Explorer 5.5 or higher.  
 LINKING, FRAMING, MIRRORING, SCRAPING OR DATA-MINING STRICTLY PROHIBITED.  
 **Notification: We are currently recording IP addresses of the visitors on our website  
 for security purpose.Your IP is : 64.208.172.174 **  
-© Copyright SpiceJet 2005.  
-© 2004 Navitaire Inc. All Rights Reserved.   
-Site developed and maintained by [ValueLabs](http://www.valuelabs.com/)
+© Copyright SpiceJet 2007.  
+© 2004 Navitaire Inc. All Rights Reserved. 
