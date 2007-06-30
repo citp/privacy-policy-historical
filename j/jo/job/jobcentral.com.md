@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobcentral.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231182350id_/http%3A//www.jobcentral.com/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobcentral.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630210301id_/http%3A//www.jobcentral.com/privacystatement.asp) for the most accurate reproduction.*
 
 # Privacy Policy | JobCentral
 
@@ -16,7 +16,7 @@ There are several opportunities on our web site for you to provide us with perso
 
 Resume Database
 
-JobCentral provides a resume database for the convenience of job seekers and member companies as well as non-member companies and individuals who are charged a nominal fee to access the resumes. Neither JobCentral nor any other career site on the Internet can assure you that the information on your resume will not be collected and shared with others. JobCentral has a standard "[Terms and Conditions of Service](https://web.archive.org/web/20061231182350id_/http%3A//www.jobcentral.com/terms.asp)" policy which governs the use of information, including resumes, obtained from the JobCentral site. Be aware that such "terms and conditions of use", although valid and enforceable, do not protect your resume from being collected and distributed in a manner you may not desire.
+JobCentral provides a resume database for the convenience of job seekers and member companies as well as non-member companies and individuals who are charged a nominal fee to access the resumes. Neither JobCentral nor any other career site on the Internet can assure you that the information on your resume will not be collected and shared with others. JobCentral has a standard "[Terms and Conditions of Service](https://web.archive.org/web/20070630210301id_/http%3A//www.jobcentral.com/terms.asp)" policy which governs the use of information, including resumes, obtained from the JobCentral site. Be aware that such "terms and conditions of use", although valid and enforceable, do not protect your resume from being collected and distributed in a manner you may not desire.
 
 Non-Personal Information
 
@@ -46,6 +46,6 @@ JobCentral is a wholly owned and operated service of [DirectEmployers Associatio
 
 NACElink is a wholly owned and operated service of the [ National Association of Colleges and Employers (NACE)](http://www.naceweb.org/). If you have questions, comments, or need additional information about NACE or NACElink privacy policies or practices, please contact NACE at: [privacy@nacelink.com](mailto:privacy@nacelink.com). You may also call NACE at 1-800-544-5272, or send U.S. mail to: National Association of Colleges and Employers, 62 Highland Avenue, Bethlehem, PA 18017-9085
 
-© 2006 DirectEmployers Association, Inc., a non-profit organization
+© 2007 DirectEmployers Association, Inc., a non-profit organization
 
 powered by [](http://directemployers.jobcentral.com/)
