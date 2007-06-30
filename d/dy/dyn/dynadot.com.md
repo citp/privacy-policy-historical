@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the dynadot.com privacy policy that was archived on 2006-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061124180604id_/http%3A//www.dynadot.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynadot.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630173336id_/http%3A//www.dynadot.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Dynadot LLC
 
 **_Privacy Policy_**
+
+v. 3.2  
+February 26, 2007
 
 Welcome to the Dynadot web design, web hosting, and domain name registration service ("Service").  The Service is made available subject to this Privacy Policy.  By using the Service, you agree, without limitation or qualification, to be bound by this Privacy Policy.  This policy may be updated from time to time, so please check back here periodically.
 
@@ -22,17 +25,21 @@ If you submit a complaint to us about our Service or about any one of our custom
 
 The Service does not share your information with any external third parties except when absolutely necessary, as listed here in this Privacy Policy, or when authorized by you. We do not sell information to mailing lists, or send advertisements on behalf of other companies.
 
-If you are registering a domain name, your contact information will be listed on the public Whois service.  This listing is required by ICANN. When placing an order, we submit your billing information to the payment processor. 
+If you are registering a domain name, your contact information will be listed on the public Whois service.  This listing is required by ICANN.  In addition, the central registries require the Service to submit to them your contact information and personal data associated with your domain registration.
 
-If you are purchasing a digital (SSL) certificate, all information that you provide us that forms the content of a digital certificate will be "published" on the internet.  Publication of digital certificates in an accessible location (a repository) is an integral part of enabling the widespread use of digital certificates.  Your digital certificate will be published in our repository, or that of the providing vendor, so that a third party may access, review, and rely upon your digital certificate.  You should have no expectation of privacy regarding the content of your digital certificate.  The exact information that appears in a digital certificate varies depending on the type of certificate you purchase.  Generally, this information includes your name or company name, the subject domain name, country, status of certificate validity, and dates of certificate validity.
+When placing any order, we submit your billing information to the payment processor. 
+
+If you are purchasing a digital (SSL) certificate, all information that you provide us that forms the content of a digital certificate will be "published" on the internet.  Publication of digital certificates in an accessible location (a repository) is an integral part of enabling the widespread use of digital certificates.  Your digital certificate will be published in our repository, or that of the providing vendor, so that a third party may access, review, and rely upon your digital certificate.  You should have no expectation of privacy regarding the content of your digital certificate.  The exact information that appears in a digital certificate varies depending on the type of certificate you purchase.  Generally, this information includes your name or company name, the subject domain name, country, status of certificate validity, and dates of certificate validity.
 
 If you use a forum or bulletin board tool on our website, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages.  The Service generates a user ID to be associated with your account that is unique and different from your account username, for the specific purpose of allowing you to use these forums without disclosing your account information.  The user ID may contain information related to your physical location or name initials.  You have the option of changing your forum user ID in your account settings.  The Service is not responsible for the personally identifiable information you submit in these forums.
 
 If you purchase websites, website templates, site building software, web hosting, or other such website services, you should be aware that any personally identifiable information you submit on any such web pages can be read, collected, or used by third parties, and could be used to send you unsolicited messages.  The Service is not responsible for the personally identifiable information you disclose using any of these services.
 
+The Service is a reseller of the site building software offered on its website.  If you purchase site building software through the Service, you should be aware that we are required to share your name and contact information with the vendor for whom we are a reseller.
+
 If you submit a complaint to us about our Service or about any one of our customers, the Service reserves the right to share your name and contact information with the party against whom you are lodging the complaint, or with a law enforcement agency, as we deem necessary in our sole discretion.
 
-Though the Service makes every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on us. (Please see our _Subpoena Policy_.)
+Though the Service makes every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on us. (Please see our _[Subpoena Policy](http://www.dynadot.com/subpoena_policy.html)_.)
 
 **What emails and postal mails will you send me?**
 
