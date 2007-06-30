@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reversephonedetective.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231131244id_/http%3A//www.reversephonedetective.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reversephonedetective.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630133734id_/http%3A//reversephonedetective.com/privacypolicy.php) for the most accurate reproduction.*
 
 # "Reverse Phone Detective" - Privacy Policy
 
@@ -13,7 +13,7 @@ This policy does not apply to the practices of companies that ReversePhoneDetect
 **Information Collection and Use**
 
   * ReversePhoneDetective.com collects personal information when you register with ReversePhoneDetective.com, when you use ReversePhoneDetective.com products or services, when you visit ReversePhoneDetective.com pages or the pages of certain ReversePhoneDetective.com partners, and when you conduct certain searches. ReversePhoneDetective.com may combine information about you that we have with information we obtain from business partners or other companies. 
-  * When you register we ask for information such as your name, email address, birth date, gender, zip code, phone search, and additional information. Once you register with ReversePhoneDetective.com and sign in to our services, you are not anonymous to us. 
+  * When you register we may ask for information such as your name, email address, birth date, gender, zip code, phone search, and additional information. Once you register with ReversePhoneDetective.com and sign in to our services, you are not anonymous to us. 
   * By submitting your email address you agree that you're opting into our no-cost newsletter and email alerts service. You understand that you will receive messages that are commercial in nature. An opt-out "unsubscribe" link will be provided for your convenience in each message. 
   * ReversePhoneDetective.com collects information about your transactions with us and with some of our business partners, including information about your use of search products and information we offer.
   * ReversePhoneDetective.com automatically receives and records information on our server logs from your browser, including your IP address, ReversePhoneDetective.com’s cookie information, and the page you request. 
