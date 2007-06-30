@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jstor.org privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205195554id_/http%3A//www.jstor.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jstor.org privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630132140id_/http%3A//www.jstor.org/about/privacy.html) for the most accurate reproduction.*
 
 # JSTOR: Privacy Policy
 
@@ -6,7 +6,7 @@ JSTOR is committed to protecting the privacy of the users of its website, includ
 
 #### The Information JSTOR Collects
 
-The information JSTOR collects will depend on how you are using the JSTOR website. To enable your access to the JSTOR website through your library or institution, we may collect information concerning the institution's internet protocol address as well as collect certain non-personally identifiable information, such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows 2000 or Mac OS), and the domain name of your Internet service provider. To facilitate your order through the Publisher Sales Service, we collect your name, postal address, email address, credit card details, and transactional information. In addition, may we collect personally identifiable information through correspondence you send to us and through optional surveys we may post on our website. However, unless you provide us with personally identifiable information, you remain anonymous to us other than by association with an internet protocol address. 
+The information JSTOR collects will depend on how you are using the JSTOR website. To enable your access to the JSTOR website through your library or institution, we may collect information concerning the institution's internet protocol address as well as collect certain non-personally identifiable information, such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows 2000 or Mac OS), and the domain name of your Internet service provider. To facilitate your order through the Publisher Sales Service, we collect your name, postal address, email address, credit card details, and transactional information. In addition, we may collect personally identifiable information through correspondence you send to us and through optional surveys we may post on our website. However, unless you provide us with personally identifiable information, you remain anonymous to us other than by association with an internet protocol address. 
 
 #### Use of the Information
 
