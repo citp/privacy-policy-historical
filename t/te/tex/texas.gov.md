@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the texas.gov privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610070545id_/http%3A//www.texas.gov/page.jsp%3Flanguage%3Deng%26pageId%3Dpolicies%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texas.gov privacy policy that was archived on 2007-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070701015140id_/http%3A//www.texas.gov/page.jsp%3Flanguage%3Deng%26pageId%3Dpolicies%23privacy) for the most accurate reproduction.*
 
 # TexasOnline : TexasOnline Accessibility & Site Policies
 
