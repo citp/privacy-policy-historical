@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the pluck.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016091949id_/http%3A//www.pluck.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pluck.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630165105id_/http%3A//www.pluck.com/site/privacy.html) for the most accurate reproduction.*
 
-# Pluck: Privacy Policy
+# Pluck : Privacy Policy
+
+##### Main Content
 
 Pluck is committed to protecting your privacy and respects the privacy of individuals who use Pluck's software and services. This Privacy Statement covers how Pluck treats personal information that is either collected or received. This includes, but is not limited to email addresses, phone numbers, names, addresses, age, gender, and interests.
 
