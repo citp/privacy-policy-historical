@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reservations.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231094134id_/http%3A//svc.travelocity.com/info/info_window/0%2C2766%2CTRAVELOCITY%257CPRIVACY_WINDOW%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reservations.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630070731id_/http%3A//svc.travelocity.com/info/info_window/0%2C2766%2CTRAVELOCITY%257CPRIVACY_WINDOW%2C00.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -85,7 +85,7 @@ At any time, you can view and/or update your Real Deals or other newsletter or o
 What safeguards are in place to protect the loss, misuse or alteration of your information?  
 
 
-All personal information you provide to Travelocity is transmitted using SSL (Secure Socket Layer) encryption. SSL is a proven coding system that lets your browser automatically encrypt, or scramble, data before you send it to us. In addition, when you make travel purchases on Travelocity, you are protected by [Travelocity's Shop Safe Guarantee](http://www.travelocity.com/info/info_popup/0,,TRAVELOCITY%7CGUARANTEE_WINDOW,00.html). 
+All personal information you provide to Travelocity is transmitted using SSL (Secure Socket Layer) encryption. SSL is a proven coding system that lets your browser automatically encrypt, or scramble, data before you send it to us. In addition, when you make travel purchases on Travelocity, you are protected by [Travelocity's Shop Safe Guarantee](http://www.travelocity.com/info/info_popup/0,,travelocity%7CGUARANTEE_WINDOW,00.html). 
 
 What other information should I know about my privacy?  
 
