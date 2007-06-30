@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalcamerareview.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212191601id_/http%3A//www.digitalcamerareview.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalcamerareview.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630092631id_/http%3A//www.digitalcamerareview.com/privacy) for the most accurate reproduction.*
 
 # DigitalCameraReview.com privacy statement
 
