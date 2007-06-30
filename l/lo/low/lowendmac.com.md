@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowendmac.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205195739id_/http%3A//www.lowendmac.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowendmac.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630065825id_/http%3A//lowendmac.com/privacy.html) for the most accurate reproduction.*
 
 # Low End Mac Privacy Policy
 
@@ -30,27 +30,27 @@ We do not use any type of cookies on Low End Mac, although BackBeat Media (which
 
 ### Low End Mac Reader Specials
 
-[ **Memory To Go Special:**](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/935/clickHTML?ajkey=8A8711C7CF3A96D740D0ACAC00002496000026FB00000CEA00001B6AFFFFFF91FFFFFF91FFFFFFFF85AD1382) MacPro Memory With Apple Spec Heat Sink 2GB kit $366, 4GB Kit $756. MacBookPro / MacMini / iMac IntelCore DDR2-667 SODIMM 1GB $110, 512MB $55. G5 Dual/Quad Core DDR2 PC4200 1GB Kit $116, 2GB Kit $220. PowerBook G4 DDR2/4200 SODIMM 1GB $110. G5/iMac/MacMini DDR/ PC3200 1GB $124. PowerBook/iBook 1GB SODIMM PC2700 $130. Flash Cards & Hard Drives AVAILABLE.
+[ **Memory To Go Special:**](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/200/clickHTML?ajkey=B19D390DCF3A96D7D0461A7100002496000026FB00000CEA00001B6AFFFFFF91FFFFFF91FFFFFFFF0FDE2F58) MacPro Memory With Apple Spec Heat Sink 2GB kit $163, 4GB Kit $326. MacBookPro / MacMini / iMac IntelCore DDR2-667 SODIMM 1GB $43, 2GB $124 We have the lowest prices on every kind of computer memory & hard drive.
 
-[ **Download Typestyler,**](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/67/clickHTML?ajkey=190F4219CF3A96D740D0ACAC00001BAC00001B2200000CEB00001B6AFFFFFF91FFFFFF91FFFFFFFF614D1A1C) still the Ultimate Styling Tool for Internet, Print and Video Graphics. Works great in Classic with a Native OS X Version on the way. [Free Tryout: www.typestyler.com](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/67/clickHTML?ajkey=190F4219CF3A96D740D0ACAC00001BAC00001B2200000CEB00001B6AFFFFFF91FFFFFF91FFFFFFFF614D1A1C)
+[ **Download Typestyler,**](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/339/clickHTML?ajkey=C453E512CF3A96D7D0461A7100001BAC00001B2200000CEB00001B6AFFFFFF91FFFFFF91FFFFFFFF12AF8536) still the Ultimate Styling Tool for Internet, Print and Video Graphics. Works great in Classic with a Native OS X Version on the way. [Free Tryout: www.typestyler.com](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/339/clickHTML?ajkey=C453E512CF3A96D7D0461A7100001BAC00001B2200000CEB00001B6AFFFFFF91FFFFFF91FFFFFFFF12AF8536)
 
- **[LA Computer Company:](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/471/clickHTML?ajkey=3AD7001CCF3A96D740D0ACAC000021150000288200001A5700001B6AFFFFFF91FFFFFF91FFFFFFFF69B92AB1)** Specials on iMac's, MacBooks, MacBook Pros, iPod accessories, and AppleCare. Apple Original Airport Cards in stock. iPod batteries starting at $8. Call 1-800-941-7654 or [Click Here. ](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/471/clickHTML?ajkey=3AD7001CCF3A96D740D0ACAC000021150000288200001A5700001B6AFFFFFF91FFFFFF91FFFFFFFF69B92AB1)
+ **[LA Computer Company:](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/613/clickHTML?ajkey=C41A4704CF3A96D7D0461A71000021150000288200001A5700001B6AFFFFFF91FFFFFF91FFFFFFFF12BFCD9F)** Specials on iMac's, MacBooks, MacBook Pros, iPod accessories, and AppleCare. Apple Original Airport Cards in stock. iPod batteries starting at $8. Call 1-800-941-7654 or [Click Here. ](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/613/clickHTML?ajkey=C41A4704CF3A96D7D0461A71000021150000288200001A5700001B6AFFFFFF91FFFFFF91FFFFFFFF12BFCD9F)
 
-[**Other World Computing:**](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/656/clickHTML?ajkey=53D1D91CCF3A96D740D0ACAC00002F9F00001EC400001A5800001B6AFFFFFF91FFFFFF91FFFFFFFF73F9C66E) Adding the Right Memory = a Faster Mac. Quality memory from OWC is easy to install, economical + backed by a Lifetime Advance Replacement Warranty. G3/G4/G5 Memory Upgrades from $28; New Intel Mac 1GB / 2GB / 4GB as low as $112 per 1 Gig.
+[**Other World Computing:**](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/66/clickHTML?ajkey=E14053D0CF3A96D7D0461A7100002F9F00001EC400001A5800001B6AFFFFFF91FFFFFF91FFFFFFFF1BE81235) Save on Quality Mac Memory Upgrades! The right Mac Memory provides better performance and fewer spinning beach balls. Fast, Fully Insured/Guaranteed Delivery from $2.95. Online Guide makes selecting memory Easy.
 
 Mac users can finally play [Party Poker for Mac](http://www.imaconlinepoker.com/mac/online/poker/party-poker/). Not only that, they can also learn how to play [PokerStars for Mac](http://www.imaconlinepoker.com/mac/online/poker/pokerstars/).
 
-[](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/9/clickHTML?ajkey=CDA15BA6CF3A96D740D0ACAC000018CF00002F0D00001EC800001B6AFFFFFF91FFFFFF91FFFFFFFF94671918) **Sale!** MacBook/Pro: 1Gig-$125, 2Gig-$249! PowerMac G5 DDR2: 1Gig-$129, 2Gigs-$249! [ Click here](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/9/clickHTML?ajkey=CDA15BA6CF3A96D740D0ACAC000018CF00002F0D00001EC800001B6AFFFFFF91FFFFFF91FFFFFFFF94671918)
+[](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/738/clickHTML?ajkey=C3B55086CF3A96D7D0461A71000035DF000035DC00001EC800001B6AFFFFFF91FFFFFF91FFFFFFFF1355AAB0) Laptop Hardware Provided by [TechRestore](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/738/clickHTML?ajkey=C3B55086CF3A96D7D0461A71000035DF000035DC00001EC800001B6AFFFFFF91FFFFFF91FFFFFFFF1355AAB0) \- Overnight Mac & iPod Repairs.
 
- **[Laptops](http://www.ciao.co.uk/Laptops_5220890_2)** , Games and PC Games, iPod, Digital Camera, Computer, PDA, Software, LCD TV, Mobile Phone, anything you are searching for can be found here at the [shopping and price comparison](http://www.ciao.co.uk/) portal Ciao
+[Laptops](http://www.ciao.co.uk/Laptops_5220890_2), Games and PC Games, [iPod](http://www.ciao.co.uk/Portable_MP3_Players_5266512_3-apple), Digital Camera, Computer, [PDA](http://www.ciao.co.uk/PDAs_5220892_2), Software, LCD TV, Mobile Phone, anything you are searching for can be found here at the [shopping and price comparison](http://www.ciao.co.uk/) portal Ciao
 
-Entire [Low End Mac](https://web.archive.org/index.shtml) site copyright ©1997-2006 by [Cobweb Publishing, Inc.](http://cobwebpublishing.com/), unless otherwise noted. All rights reserved. Advice presented in good faith, but what works for one may not work for all. Please report errors to [webmaster](mailto:low_end_mac@yahoo.com) .  
+Entire [Low End Mac](https://web.archive.org/index.shtml) website copyright ©1997-2007 by [Cobweb Publishing, Inc.](https://web.archive.org/cobweb/index.html), unless otherwise noted. All rights reserved. Advice presented in good faith, but what works for one may not work for all. Please report errors to [webmaster](mailto:low_end_mac@yahoo.com) .  
   [LINKS](https://web.archive.org/link.shtml): We allow and encourage links to any public page as long as the linked page does not appear within a frame that prevents bookmarking it.  
   Access our RSS news feed at <http://lowendmac.com/feed.xml>.  
   Email may be published at our discretion; email addresses will not be published without permission. If you prefer your message not be published, mark it "not for publication." Letters may be edited for length, context, and to match [house style](https://web.archive.org/styleguide/index.shtml).  
   [PRIVACY](https://web.archive.org/privacy.html): We don't collect personal information unless you explicitly provide it. For more details, see our [Terms of Use.](https://web.archive.org/terms.html)  
-  [Low End Mac](https://web.archive.org/index.shtml) is an independent publication and has not been authorized, sponsored, or otherwise approved by Apple Computer. Apple, the Apple logo, Macintosh, iBook, iMac, eMac, iPod, PowerBook, and MacBook are [registered trademarks of Apple Computer, Inc.](http://www.apple.com/legal/trademark/) Additional company and product names may be trademarks or registered trademarks and are hereby acknowledged.  | 
-* Mac of the Day: [Quadra 800](https://web.archive.org/quadra/q800.html) (2/93-3/94), minitower ran 33 MHz 68040, outpaced Quadra 950.
+  [Low End Mac](https://web.archive.org/index.shtml) is an independent publication and has not been authorized, sponsored, or otherwise approved by Apple Inc. Apple, the Apple logo, Macintosh, iBook, iMac, eMac, iPod, PowerBook, MacBook, Mac Pro, Apple TV, and AirPort are [registered trademarks of Apple Inc.](http://www.apple.com/legal/trademark/) Additional company and product names may be trademarks or registered trademarks and are hereby acknowledged.  | 
+* Mac of the Day: [Performa 575](https://web.archive.org/500/lc575.shtml) (2/94-3/96), the first all-in-one with Quadra power.
 * List of the Day: [Mac Network](http://lowendmac.com/lists/macnet.html) deals with all aspects of Mac networking.  
 
  **Channels**  
@@ -65,7 +65,7 @@ Entire [Low End Mac](https://web.archive.org/index.shtml) site copyright ©1997-
  [Performas](https://web.archive.org/performa.shtml)  
  [Mac Clones](https://web.archive.org/clones/index.shtml)  
  [Older Macs](https://web.archive.org/early-macs.html)  
- [Lisa](https://web.archive.org/lisa/index.shtml) ï [NeXT](https://web.archive.org/next/index.html)  
+ [Lisa](https://web.archive.org/lisa/index.shtml) • [NeXT](https://web.archive.org/next/index.html)  
 [**Editorial Archive**](https://web.archive.org/editorials.html)  
 [**Mac Daniel's Advice**](https://web.archive.org/macdan/index.shtml)  
 [**Email Lists**](https://web.archive.org/lists/index.shtml)  
@@ -108,7 +108,6 @@ Entire [Low End Mac](https://web.archive.org/index.shtml) site copyright ©1997-
 [PCMall](http://www.tkqlhce.com/click-272632-54502)  
 [PC Zone](http://clickserve.cc-dt.com/link/click?lid=41000000000587906)  
 [Crucial Memory](http://www.qksrv.net/click-272632-5032657)  
-[ 123Inkjets.com](http://www.commission-junction.com/track/track.dll?AID=512018&PID=272632&URL=http%3A%2F%2Fwww%2E123Inkjets%2Ecom)  
-[Roxio.com](http://www.tkqlhce.com/click-272632-10367206)
+[ 123Inkjets.com](http://www.commission-junction.com/track/track.dll?AID=512018&PID=272632&URL=http%3A%2F%2Fwww%2E123Inkjets%2Ecom)
 
-Our advertising is handled by [BackBeat Media](http://www.backbeatmedia.com/). For detailed price quotes and advertising information, please contact[Greg Snyder](mailto:lem@backbeatmedia.com)at BackBeat Media (512-441-1852). This number is for advertising only. 
+Our advertising is handled by [BackBeat Media](http://www.backbeatmedia.com/). For detailed price quotes and advertising information, please contact[Greg Snyder](mailto:lem@backbeatmedia.com)at BackBeat Media (646-546-5194). This number is for advertising only. 
