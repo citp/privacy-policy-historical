@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ichapters.com privacy policy that was archived on 2006-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061025192004id_/http%3A//www.ichapters.com/coms2/page_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ichapters.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630221555id_/http%3A//www.ichapters.com/coms2/page_privacy) for the most accurate reproduction.*
 
 # Privacy Policy - iChapters.com
 
