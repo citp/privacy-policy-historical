@@ -1,8 +1,10 @@
-<!--The following is the downloaded HTML source of the mbtrading.com privacy policy that was archived on 2006-11-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061108114503id_/http%3A//mbtrading.com/disc0.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mbtrading.com privacy policy that was archived on 2007-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070630175828id_/http%3A//www.mbtrading.com/disc0.asp) for the most accurate reproduction.-->
 
 <html><head>
-<title>MB Trading -- Direct Access Stocks, Options, and Futures Trading</title>
+<title>MB Trading Direct Access Brokerage Firm | MBTrading.com</title><meta name="description" content="We develop and market sophisticated yet simple direct access trading technology to online investors. Visit us online for more information.">
+
+<meta name="keywords" content="Futures broker, Stocks, Stock trading, Online trading, Day trading, Day trader, Online brokerage, Active trader, Active trading, Tradestation, Commission, Cheap commission, Interactive broker, E mini, E signal, Options, Futures, Option trading, Futures trading, Mb trading, Broker dealer, Hedge fund, Direct access, Order routing, Access stocks, Trading-direct access, Mb trading-direct, Trading home, Fund trading, Customizable trading, Technical analysis, Stock trader, Rt quotes, Momentum trader, Fundamental analysis, Advanced charting, Trading platforms, Trading community, Electronic trading, Market news">
 <link rel="STYLESHEET" type="text/css" href="frr2.css">
 <script language="javascript" src="sniffer.js">
 //Top Navigational Bar III v3.4.1.1b (By BrotherCake @ cake@brothercake.net)
@@ -70,7 +72,7 @@ function openOLA() {
 			<td width="10"></td>
 			<td nowrap="" class="b1Header2" width="80">Password<br><input type="password" name="password" size="13" maxlength="15" class="L1"></td>
 			<td width="8"></td>
-			<td width="25" valign="bottom"><input type="submit" value="Go" class="L1" onclick="tryLogin(); return false;"></td>
+			<td width="25" valign="bottom"><input type="submit" value="Go" class="L1" onclick="tryLogin('https://www.mbtrading.com/secure/'); return false;"></td>
 				<input type="hidden" name="mnu" value="">
 				<input type="hidden" name="cDest" value="">
 				<input type="hidden" name="cAction" value="">
@@ -79,7 +81,7 @@ function openOLA() {
 		</tr></tbody></table>
 
 <script language="javascript">
-function tryLogin() {
+function tryLogin(loginPath) {
 	var ers = 0
 	var xx = document.fl.username.value
 	var yy = document.fl.password.value
@@ -93,7 +95,11 @@ function tryLogin() {
 	if (ers == 1) {
 		return false
 	}
-	document.fl.action = 'https://www.mbtrading.com/secure/scripts/x_login.asp'
+	if ( loginPath.length < 2 ) {
+		document.fl.action = 'https://www.mbtrading.com/secure/scripts/x_login.asp'
+		} else {
+				document.fl.action = loginPath + 'scripts/x_login.asp'
+		}
 	document.fl.submit()
 	return true
 }
@@ -110,7 +116,7 @@ function fgtPwd() {
 	document.fl.submit()
 }
 function issl() {
-	var MyWindow = window.open('http://www.instantssl.com/support/siteseal/trusttoolbar/index.html','MyWindow','location,menubar,scrollbars,resizable,width=350,height=400,left=120,top=120')
+	var MyWindow = window.open('https://secure.comodo.net/ttb_searcher/trustlogo?v_querytype=W&v_shortname=SC&v_search=https://www.mbtrading.com/secure/comodo.html&x=6&y=5','MyWindow','location,menubar,scrollbars,resizable,width=425,height=560,left=100,top=10')
 }
 </script>
 
@@ -135,45 +141,45 @@ function issl() {
 			<td class="plr8">&nbsp;<strong>Disclaimers</strong><br><img src="i/dotgray.gif" width="140" height="1"></td>
 		</tr><tr>
 			<td class="plr8">
-				<a href="disc0.asp">
+				<a href="disc0.asp" title="MB Trading Privacy Policy">
 				<font color="blue"><img src="i/arroBlack.gif" border="0">Privacy Policy</font></a><font color="blue">
 		</font></td></tr><tr>		
 			<td class="plr8">
-				<a href="disc1.asp">
+				<a href="disc1.asp" title="Risk Disclosures">
 				Risk Disclosures</a>
 		</td></tr><tr>		
 			<td class="plr8">
-				<a href="disc2.asp">
+				<a href="disc2.asp" title="Investor Protection Sites">
 				Investor Protection</a>
 		</td></tr><tr>
 			<td class="plr8">
-				<a href="disc3.asp">
+				<a href="disc3.asp" title="Third Party Disclosure">
 				Third Party Disclosure</a>
 			</td>
 		</tr><tr>
 			<td class="plr8">
-				<a href="disc4.asp">
+				<a href="disc4.asp" title="Understanding Your Risks">
 				Understanding Risks</a>
 			</td>
 		</tr><tr>
 			<td class="plr8">
-				<a href="disc5.asp">
+				<a href="disc5.asp" title="SEC Rule 606">
 				SEC Rule 606</a>
 			</td>
 		</tr><tr>
 			<td class="plr8">
-				<a href="disc6.asp">
+				<a href="disc6.asp" title="Business Continuity and Disaster Recovery Plan Disclosure Statement">
 				Continuity Plan</a>
 			</td>
 		</tr><tr>
 			<td class="plr8">
-				<a href="disc7.asp">
+				<a href="disc7.asp" title="USA Patriot Act">
 				USA Patriot Act</a>
 			</td>
 		</tr><tr>									
-			<td><br><a href="/javascriptNeeded.asp" onclick="openOLA(); return false;" target="OLA"><img src="i/oa3.gif" border="0"></a></td>			
+			<td><br><a href="/javascriptNeeded.asp" title="Open An Account or Call (866) 628-3001" onclick="openOLA(); return false;" target="OLA"><img src="i/oa3.gif" border="0"></a></td>			
 		</tr><tr>
-			<td><br><img src="i/dotclear.gif" height="5" width="1"><br><a href="#" onclick="window.open('/chat.asp','custclient','resizable,width=600,height=171'); return false;"><img src="i/liveagent.gif" border="0"></a><br><br><br></td>
+			<td><br><img src="i/dotclear.gif" height="5" width="1"><br><a href="#" title="Chat with a Live Agent" onclick="window.open('/chat.asp','custclient','resizable,width=600,height=171'); return false;"><img src="i/liveagent.gif" border="0"></a><br><br><br></td>
 	</tr></tbody></table>
 
 
@@ -185,7 +191,7 @@ function issl() {
 		</tr><tr>
 			<td><img src="/i/dotclear.gif" width="20" height="0" border="0"></td>
 			<td>
-				<img src="/i/dotclear.gif" width="1" height="12" border="0"><br><font face="verdana" size="4"><strong>Our Privacy Policy</strong></font><br><br>
+				<h1>Our Privacy Policy</h1><br>
 	
 <!--################################# Major per-page content variations are below this line ##########################################-->
 				Please read this carefully. It provides information about the privacy policy of MB Trading, MB Trading Futures, Inc., and 3DForex, LLC, (collectively referred to as "we," "us," and "our" throughout this policy), which are affiliates under common control.  This privacy policy concerns nonpublic personal information about current and former accountholders. <br><br>
@@ -267,7 +273,7 @@ Effective date: June 16, 2005
 <table border="0" cellspacing="0" cellpadding="0" width="843"><tbody><tr>
 	<td valign="top"><table border="0" cellspacing="0" cellpadding="0" width="843"><tbody><tr>
 	<td align="center" nowrap="" class="c42">
-		<a href="/history.asp">About Us</a> &nbsp;<span class="c3a2">|</span>&nbsp;
+		<a href="/history.asp" title="About MB Trading">About Us</a> &nbsp;<span class="c3a2">|</span>&nbsp;
 		<script language="javascript">
 var gotInRef = ''
 var dv9 = null
@@ -282,15 +288,15 @@ if (vStart != -1) {
 	vEnd = (vEnd != -1) ? vEnd : dc9.length
 	gotInRef = unescape(dc9.substring(vStart, vEnd)) // should be inBroker cookie value
 }
-		if (gotInRef != 'TradeGuider') document.write('<a href="/fees.asp">Fees</a> &nbsp;<span class=c3a2>|</span>&nbsp;')
-		</script><a href="/fees.asp">Fees</a> &nbsp;<span class="c3a2">|</span>&nbsp;
-		<a href="/navigator.asp">Trading System</a> &nbsp;<span class="c3a2">|</span>&nbsp;
-		<a href="/GlobalOneAccount.asp">Brokerage</a> &nbsp;<span class="c3a2">|</span>&nbsp; 
-		<a href="/sdk.asp">Developers</a> &nbsp;<span class="c3a2">|</span>&nbsp;
-		<a href="/contact.asp">Contact Us</a> &nbsp;<span class="c3a2">|</span>&nbsp;
-		<a href="https://www.mbtrading.com/secure/default.asp">My Account</a> &nbsp;<span class="c3a2">|</span>&nbsp;
-		<a href="/demo.asp">Demo</a> &nbsp;<span class="c3a2">|</span>&nbsp;
-		<a href="/sitemap.asp">Site Map</a>
+		if (gotInRef != 'TradeGuider') document.write('<a href="/fees.asp" title="Choose the Commission Plan That Best Fits Your Trading Style">Fees</a> &nbsp;<span class=c3a2>|</span>&nbsp;')
+		</script><a href="/fees.asp" title="Choose the Commission Plan That Best Fits Your Trading Style">Fees</a> &nbsp;<span class="c3a2">|</span>&nbsp;
+		<a href="/navigator.asp" title="MBT Navigator - The premier direct access trading platform for Equities, Futures, &amp; Options">Trading System</a> &nbsp;<span class="c3a2">|</span>&nbsp;
+		<a href="/GlobalOneAccount.asp" title="Trade Stocks, Futures, and Options from a Single Account!">Brokerage</a> &nbsp;<span class="c3a2">|</span>&nbsp; 
+		<a href="/sdk.asp" title="Have your own trading strategy? Need a reliable order entry conduit and a powerful SDK to take advantage of it? - MbtSDK - Software Developers Kit (SDK/API)">Developers</a> &nbsp;<span class="c3a2">|</span>&nbsp;
+		<a href="/contact.asp" title="Contact MB Trading">Contact Us</a> &nbsp;<span class="c3a2">|</span>&nbsp;
+		<a href="https://www.mbtrading.com/secure/default.asp" title="Login to your Account">My Account</a> &nbsp;<span class="c3a2">|</span>&nbsp;
+		<a href="/demo.asp" title="Equities, Options, Futures Demo - Sign Up Now!">Demo</a> &nbsp;<span class="c3a2">|</span>&nbsp;
+		<a href="/sitemap.asp" title="MB Trading Site Map">Site Map</a>
 	</td>
 </tr></tbody></table>
 
@@ -302,22 +308,29 @@ if (vStart != -1) {
 	<td width="10"></td>
 	<td align="center">
 		<img src="/i/dotclear.gif" height="1" width="15"><br>
-		<!--
-		MB Trading, member NASD, SIPC. Futures offered through MB Trading Futures, member NFA. MBT Technologies, LLC (MBTT) is a registered FCM with the CFTC and is a member of the NFA. MBTT provides retail off-exchange foreign currency execution services through MB Trading. Futures trading and option trading is speculative in nature and not appropriate for all investors. Off-exchange foreign currency trading is highly leveraged and speculative in nature and not appropriate for all investors. Investors should only use risk capital when trading futures, options and retail off-exchange foreign currencies because there is always risk of substantial loss. Account access, trade executions and system response may be adversely affected by market conditions, quote delays, system performance and other factors. ©2006, All Rights Reserved.
-		-->
-		Securities products are offered through MB Trading, member NASD, SIPC. MB Trading Futures, Inc. (MBTF) and 3DForex, LLC are CFTC registered FCMs and members of NFA. MBTF offers execution and settlement services for futures based products, as well as offer off-exchange foreign currency (forex) products through MB Trading. 3DForex, LLC offers forex products only to institutional customers. Trading in futures, options and forex is speculative in nature and not appropriate for all investors. Investors should only use risk capital when trading futures, options and forex because there is always the risk of substantial loss. Account access, trade executions and system response may be adversely affected by market conditions, quote delays, system performance and other factors. ©2006, All Rights Reserved.
-		<br><br>
+		Securities products are offered through MB Trading, member <a href="http://www.nasd.com/" title="MB Trading is a member of NASD" target="nasd">NASD</a>, <a href="http://sipc.org/" title="MB Trading is a member of SIPC" target="sipc">SIPC</a>, MB Trading Futures, Inc. (MBTF) and 3DForex, LLC are CFTC registered FCMs and members of NFA. MBTF offers execution and settlement services for futures based products, as well as offer off-exchange foreign currency (forex) products through MB Trading. 3DForex, LLC offers forex products only to institutional customers. Trading in futures, options and forex is speculative in nature and not appropriate for all investors. Investors should only use risk capital when trading futures, options and forex because there is always the risk of substantial loss. Account access, trade executions and system response may be adversely affected by market conditions, quote delays, system performance and other factors. ©2006, All Rights Reserved.
+		<br>
+		<br>
 		
-		<a href="/disc0.asp"><span class="c3a">Privacy Policy</span></a> &nbsp;|&nbsp;
-		<a href="/disc1.asp"><span class="c3a">Risk Disclosures</span></a> &nbsp;|&nbsp;
-		<a href="/disc2.asp"><span class="c3a">Investor Protection Sites</span></a> &nbsp;|&nbsp;
-		<a href="/disc3.asp"><span class="c3a">Third Party Disclosure</span></a> &nbsp;|&nbsp;
-		<a href="/disc4.asp"><span class="c3a">Understanding&nbsp;Risks</span></a> &nbsp;|&nbsp; 
-		<a href="/disc5.asp"><span class="c3a">SEC Rule 606</span></a> &nbsp;|&nbsp; 
-		<a href="/disc6.asp"><span class="c3a">Continuity&nbsp;Plan</span></a> &nbsp;|&nbsp; 
-		<a href="/disc7.asp"><span class="c3a">USA&nbsp;Patriot&nbsp;Act</span></a> 
+		<a href="/disc0.asp" title="MB Trading Privacy Policy"><span class="c3a">Privacy Policy</span></a> &nbsp;|&nbsp;
+		<a href="/disc1.asp" title="MB Trading Day Trading Risk Disclosure"><span class="c3a">Risk Disclosures</span></a> &nbsp;|&nbsp;
+		<a href="/disc2.asp" title="Investor Protection Sites"><span class="c3a">Investor Protection Sites</span></a> &nbsp;|&nbsp;
+		<a href="/disc3.asp" title="Third Party Disclosure"><span class="c3a">Third Party Disclosure</span></a> &nbsp;|&nbsp;
+		<a href="/disc4.asp" title="
+Understanding Your Risks"><span class="c3a">Understanding&nbsp;Risks</span></a> &nbsp;|&nbsp; 
+		<a href="/disc5.asp" title="SEC Rule 606"><span class="c3a">SEC Rule 606</span></a> &nbsp;|&nbsp; 
+		<a href="/disc6.asp" title="Business Continuity and Disaster Recovery Plan Disclosure Statement"><span class="c3a">Continuity&nbsp;Plan</span></a> &nbsp;|&nbsp; 
+		<a href="/disc7.asp" title="USA Patriot Act"><span class="c3a">USA&nbsp;Patriot&nbsp;Act</span></a> 
 	</td>
 </tr></tbody></table><br><br>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1981906-1";
+urchinTracker();
+</script>
+
 
 	
 </td>
