@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internet-success-system.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230085146id_/http%3A//www.hunteridge.com/disclosure/privacy.txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internet-success-system.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630115100id_/http%3A//www.hunteridge.com/disclosure/privacy.txt) for the most accurate reproduction.*
 
 # 
 
@@ -9,17 +9,7 @@
     
     Hunteridge, Inc.
     
-    For websites: 
-    
-    Hunteridge.com
-    Market-Soft.com
-    JVdealmaker.com
-    TopMarketingExpertsTellAll.com
-    SpecialsAndDeals.com
-    SwiftKickInTheButt.com
-    FreeResaleRightsVault.com
-    Internet-Success-System.com
-    
+    For all website properties of Hunteridge, Inc.
     
     Hunteridge, Inc. strives to offer its website visitors the many
     advantages of Internet technology and to
