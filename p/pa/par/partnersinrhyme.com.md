@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the partnersinrhyme.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212233211id_/http%3A//www.partnersinrhyme.com/pir/Privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partnersinrhyme.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630173756id_/http%3A//www.partnersinrhyme.com/pir/Privacy.shtml) for the most accurate reproduction.*
 
-# Privacy Policy Statement
+# Privacy Policy Statement : Royalty Free Classical Music : Free Background Music
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
