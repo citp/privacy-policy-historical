@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sfopera.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019213454id_/http%3A//www.sfopera.com/p%3FmID%3D125) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfopera.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630102354id_/http%3A//www.sfopera.com/p%3FmID%3D125) for the most accurate reproduction.*
 
-# San Francisco Opera :: San Francisco Opera Privacy Policy
+# San Francisco Opera :: San Francisco Opera Policies
+
+**Privacy**
 
 San Francisco Opera Association has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site: sfopera.com. 
 
@@ -13,3 +15,7 @@ We collect patrons’ contact information (like their e-mail address), unique id
 **Choice/Opt-Out:** This site gives users the following option for removing their information from our database to not receive future communications or to no longer receive our service: send e-mail to [webmaster@sfopera.com](mailto:webmaster@sfopera.com)
 
 **Contacting the Web site:** If you have any questions about this privacy statement, the practices of this site or your dealings with this Web site, you can contact: [webmaster@sfopera.com](mailto:webmaster@sfopera.com) 
+
+**Disclaimers**
+
+The San Francisco Opera does not control, monitor or guarantee the information contained in linked external web sites, and does not endorse any views expressed or products or services offered therein. In no event shall the San Francisco Opera be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, goods, or services available on or through any such site or resource. 
