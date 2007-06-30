@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the geekvillage.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019013833id_/http%3A//geekvillage.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekvillage.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630083152id_/http%3A//www.geekvillage.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy For GeekVillage.com
-
-**Privacy Policy For GeekVillage.com**
+# Webmaster Forums - Online Marketing Talk at Geek Village
 
 **We respect your privacy. Your Email address and any other data you provide us will never be released to a third party. All our Email lists and Membership forms use the Opt-In model. These Emails always include a procedure and instructions to remove yourself from our lists. We do use "cookies" on this site. We use "cookies" to retain your user name and password for our geek/talk Bulletin Board and in our Contests, Polls, Quizzes, and Surveys.**
 
