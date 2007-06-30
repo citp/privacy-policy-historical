@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the openwave.com privacy policy that was archived on 2006-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061104181919id_/http%3A//www.openwave.com/us/legal/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openwave.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630044109id_/http%3A//www.openwave.com/us/legal/privacy_policy.htm) for the most accurate reproduction.*
 
 # Openwave - Legal - Openwave Privacy Policy
 
-This Privacy Policy statement describes our practices regarding how personal information we collect on the Openwave web site is used and shared with third parties. By visiting the Openwave web site or otherwise submitting your personal information to us, you accept the practices described in this statement. The information that we receive through our web site depends on what you do during your visit, and what service(s) you request. 
+  |  This Privacy Policy statement describes our practices regarding how personal information we collect on the Openwave web site is used and shared with third parties. By visiting the Openwave web site or otherwise submitting your personal information to us, you accept the practices described in this statement. The information that we receive through our web site depends on what you do during your visit, and what service(s) you request. 
 
   
    
@@ -58,11 +58,4 @@ The materials on this site are provided by Openwave Systems Inc. ("Openwave") fo
 
 Last modified July 15, 2004
 
-|  |  | |   
-Related Links  
----|---  
-   
-| | [Contact Us](https://web.archive.org/us/about_openwave/contact_us/index.htm)  
-  
-   
-
+|  
