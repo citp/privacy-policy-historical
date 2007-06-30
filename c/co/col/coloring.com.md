@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the coloring.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207005726id_/http%3A//www.coloring.com/about/privacy.cdc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coloring.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630075313id_/http%3A//coloring.com/about/privacy.cdc) for the most accurate reproduction.*
 
 # Coloring.com: Privacy Policy
 
 ## Privacy Policy and Terms of Use
 
 This is the web site of **Coloring.com**.   
-We can be reached via e-mail at [hello3@coloring.com](mailto:hello4@coloring.com)
+We can be reached via e-mail at [hello5@coloring.com](mailto:hello5@coloring.com)
 
 The operation of Coloring.com is very straightforward and simple. When you first visit the site, the web server automatically assigns you a unique cookie, so that in the log files we can try to distinguish one user from another. The log file also records your IP address, so that at the end of the day we can determine roughly where my visitors are coming from. Note I say "your" IP address. I don't mean you personally, just you as a visitor. With just the unique cookie and your current IP address, we can't determine who you are. But it does provide us with aggregate information that we use to promote and describe the site to advertisers. 
 
@@ -21,7 +21,7 @@ Another new site feature will be the ability to sign up for newsletters. A visit
 
 With this basic registration information we can improve and customize the look and behavior of the site to your liking. To accomplish this, we will use cookies to store simple preference information, such as the size of the pictures you wish to color or what color scheme you prefer for the pages. At no time will any cookies contain sensitive information, personal or otherwise, that would be a considered a security risk. 
 
-With respect to advertisements, to try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of [24/7 Media](http://www.247media.com/privacy.html). 
+With respect to advertisements, to try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of [ValueClick Media](http://www.valueclickmedia.com/privacy.shtml) and [Google](http://www.google.com/privacy.html). 
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our web site periodically. 
 
