@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iuniverse.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208151617id_/http%3A//www.iuniverse.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iuniverse.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630165519id_/http%3A//www.iuniverse.com/privacy.htm) for the most accurate reproduction.*
 
-# iUniverse - Privacy Policy
+# Privacy Policy
 
 _Updated: March 4, 2004_
 
