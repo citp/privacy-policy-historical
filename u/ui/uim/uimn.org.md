@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the uimn.org privacy policy that was archived on 2006-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061227023406id_/http%3A//www.deed.state.mn.us/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uimn.org privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630150141id_/http%3A//www.deed.state.mn.us/privacy.htm) for the most accurate reproduction.*
 
 # DEED Privacy Statement
 
 ##### Close Window
 
 ## Privacy Statement for the  
-Minnesota Department of  
-Employment and Economic  
-Development Websites *
+Minnesota Department of Employment and Economic Development Websites *
 
 The Minnesota Department of Employment and Economic Development (DEED) websites provide an electronic means for accessing information about the programs and services available through DEED. Web pages are continually under development as we attempt to keep our content as current as possible. 
 
@@ -57,7 +55,7 @@ Minnesota Department of Employment and Economic Development
 1st National Bank Building   
 332 Minnesota Street, Suite E200  
 Saint Paul, MN 55101-1351  
-Voice: (651) 296-3716  
+Voice: (651) 259-7193  
 TTY/TTD: (651) 296-3900  
 E-mail: [Deb.Serum@state.mn.us](mailto:deb.serum@state.mn.us)
 
