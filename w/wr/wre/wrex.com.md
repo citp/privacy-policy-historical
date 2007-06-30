@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrex.com privacy policy that was archived on 2006-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061126052344id_/http%3A//www.wrex.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrex.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630185618id_/http%3A//www.wrex.com/privacy.php) for the most accurate reproduction.*
 
 # WREX TV :: Rockford, IL
 
