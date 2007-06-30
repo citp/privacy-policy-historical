@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smileytraffic.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206014342id_/http%3A//www.smileytraffic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smileytraffic.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630161320id_/http%3A//www.smileytraffic.com/privacy.php) for the most accurate reproduction.*
 
 # SmileyTraffic
 
@@ -10,11 +10,11 @@
 
 Members Earnings  
 Since 03-22-04  
-Last Updated 12-03-06  
- **$8831.07 13,824 Total Members  
-38 Pro Members  
-25 Premium Members  
-28 Ultimate Members  
+Last Updated 06-27-07  
+ **$10,945.43 20,926 Total Members  
+21 Pro Members  
+16 Premium Members  
+29 Ultimate Members  
 **  
 
 
@@ -22,10 +22,15 @@ Last Updated 12-03-06
 **TOP 50 MANUAL SURFERS TODAY:** | ****  
 ---  
   
-[](https://www.paypal.com/us/verified/pal=chumbley%40mchsi.com)
-
 We Are Proudly  
-Hosted At  
+Running Off A  
+Dedicated Server  
+"The Whole Computer/Server  
+Is OURS!"
+
+Hosted At
+
+  
 [**Ljscripts.com**](http://www.ljscripts.com/hosting/)
 
 Personal Information  
