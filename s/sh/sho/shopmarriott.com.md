@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shopmarriott.com privacy policy that was archived on 2006-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061030073054id_/http%3A//www.shopmarriott.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopmarriott.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630203053id_/http%3A//www.shopmarriott.com/privacy.aspx) for the most accurate reproduction.*
 
-# Marriott Online Store
+# Marriott Store
 
 | 
 
@@ -68,7 +68,7 @@ Cookies
   
 Our Website uses "cookie" technology. "Cookies" are encrypted strings of text that a Web site stores on a user's computer. Our Web site requires the use of a Cookie throughout the online order process. Without cookies we will not be able to keep information you enter on multiple pages together. In addition, Cookies are used to: * Measure usage of various pages on our Web site to help us make our information more pertinent to your needs and easy for you to access * Provide functionality that we believe would be of interest and value to you. The types of Cookies that we use are referred to as "session" Cookies and "persistent" Cookies. Session Cookies are temporary and are automatically deleted once you close your internet browser. Persistent Cookies remain on your computer hard drive until you delete them or are otherwise removed upon expiration. We do not use Cookies to ascertain any personally identifiable information about you apart from what you voluntarily provide us in your dealings with Marriott. Cookies do not corrupt or damage your computer, programs, or computer files.
 
-You must set your browser to accept Cookies in order to use Marriott Online store.  
+You must set your browser to accept Cookies in order to use Marriott store.  
   
 Back to top  
 Emails about Special Offers and Promotions and Opt-Out  
