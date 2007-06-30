@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailytexanonline.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207164045id_/http%3A//www.dailytexanonline.com/user/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailytexanonline.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630193506id_/http%3A//www.dailytexanonline.com/user/privacypolicy) for the most accurate reproduction.*
 
 # The Daily Texan
 
@@ -102,3 +102,7 @@ Phone: (617) 248-9880
 Fax: (617) 248-8747
 
 | 
+
+#### Advertisement
+
+#### Advertisement
