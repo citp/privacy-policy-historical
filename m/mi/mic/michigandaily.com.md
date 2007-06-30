@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the michigandaily.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018062123id_/http%3A//www.michigandaily.com/user/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michigandaily.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630214402id_/http%3A//www.michigandaily.com/user/privacypolicy) for the most accurate reproduction.*
 
 # Michigan Daily
 
-  * [News](http://www.michigandaily.com/news/2006/10/13/News/ "View the recent News articles")
-  * [Opinion](http://www.michigandaily.com/news/2006/10/13/Opinion/ "View the recent Opinion articles")
-  * [Sports](http://www.michigandaily.com/news/2006/10/13/Sports/ "View the recent Sports articles")
-  * [Arts](http://www.michigandaily.com/news/2006/10/13/Arts/ "View the recent Arts articles")
+  * [News](http://www.michigandaily.com/news/2007/06/18/News/ "View the recent News articles")
+  * [Opinion](http://www.michigandaily.com/news/2007/06/18/Opinion/ "View the recent Opinion articles")
+  * [Sports](http://www.michigandaily.com/news/2007/06/18/Sports/ "View the recent Sports articles")
+  * [Arts](http://www.michigandaily.com/news/2007/06/18/Arts/ "View the recent Arts articles")
 
 
 
