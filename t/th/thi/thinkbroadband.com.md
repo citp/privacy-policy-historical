@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thinkbroadband.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208191422id_/http%3A//www.thinkbroadband.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkbroadband.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630230940id_/http%3A//www.thinkbroadband.com/privacy_policy.html) for the most accurate reproduction.*
 
-# thinkbroadband: The UK's largest independent ADSL review site - Your guide to UK broadband Internet.
+# thinkbroadband :: The UK's largest independent Broadband / ADSL review site - Your guide to UK broadband Internet.
 
 ## General Policy 
 
