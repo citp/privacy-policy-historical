@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the expertlaw.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205233449id_/http%3A//www.expertlaw.com/terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expertlaw.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630113924id_/http%3A//www.expertlaw.com/terms.html) for the most accurate reproduction.*
 
 # ExpertLaw - Terms of Use and Privacy Policy - Expert Witness, Expert Witnesses.
 
-|    
-
+### Terms of Use 
 
 We believe ExpertLaw to be the best, largest, and most comprehensive free expert witness directory available online, and our directories of investigators and litigation support services continues to grow. This site is offered as a free service to the general public. Due to the nature of our service, all content provided by **ExpertLaw is provided for use "as is"**. We provide no guaranties or warranties, express or implied, with regard to listings or content provided on this site. 
 
@@ -13,7 +12,7 @@ Although ExpertLaw may have modified or edited the submissions or parts thereof,
 
 Nothing on this website constitutes legal advice, and no attorney-client relationship, or other professional relationship, can be formed through the use of this website. Articles and information provided by ExpertLaw is for informational purposes only. Due to the nature of the law, it is possible that the information provided on ExpertLaw will not apply in your state or jurisdiction. Users rely upon any articles or information provided by ExpertLaw at their own risk. If you require legal assistance, please consult with a qualified attorney, licensed to practice in the jurisdiction where your legal needs have arisen. **Please note that you should take legal advice only from a qualified, licensed attorney.**
 
-#### **Forum Terms of Use**
+### Forum Terms of Use
 
 Registration to the forum is free. We do insist that you abide by the rules and policies detailed below. You agreed to these terms when you checked the 'I agree' checkbox and pressed the 'Register' button for the forum.
 
@@ -37,6 +36,8 @@ The owners of this forum reserve the right to remove, edit, move or close any th
 
 By using these forums you agree to be bound by these conditions.
 
+### Privacy Policy
+
 We respect our users' privacy, and except in the forums do not track the activity of specific users, nor do we use cookies to track user activity. We do not ask listed experts and services for information, feedback or statistics about users who contact or retain them. 
 
 The forum system uses cookies to store information on your local computer. These cookies do not contain any of the information you have entered, and are meant to serve only to improve your viewing pleasure. The e-mail address you provide upon registration is used only for confirming your registration details and password (and for sending new passwords should you forget your current one). The IP address of all posts is recorded to aid in enforcing forum terms and conditions. 
@@ -48,6 +49,3 @@ We reserve the right to modify this policy at any time. However, this policy wil
 This privacy policy is limited to its express terms, and does not create any contractual or legal duty by ExpertLaw to any site visitor. This privacy policy applies only to users who use this website in accord with our "Terms of Use", and does not apply to protect the privacy of individuals who use this site in violation of those terms, or for illegal or abusive purposes.
 
 ExpertLaw is not responsible for the acts of third persons which may affect your privacy, including the conduct of advertisers on remotely hosted websites. We are not responsible for the conduct of websites linked to or from ExpertLaw. 
-
-|    
-
