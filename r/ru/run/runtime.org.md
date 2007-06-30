@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runtime.org privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217191621id_/http%3A//runtime.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runtime.org privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630224357id_/http%3A//www.runtime.org/privacy.htm) for the most accurate reproduction.*
 
 # Data Recovery Software - File System Utilities
 
