@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the stumbleupon.com privacy policy that was archived on 2006-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060930013957id_/http%3A//www.stumbleupon.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stumbleupon.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630195304id_/http%3A//www.stumbleupon.com/privacy.html) for the most accurate reproduction.*
 
-# StumbleUpon Privacy Policy
+# StumbleUpon » Privacy Policy
 
-**Privacy Policy**
+**Updated 5/9/07**
 
-StumbleUpon respects and protects the privacy of the individuals that use StumbleUpon's toolbar ("StumbleUpon Toolbar"). Individually identifiable information about you is not willfully disclosed to anyone without first receiving your permission, as explained in this privacy policy ("Privacy Policy").
+StumbleUpon respects and protects the privacy of the individuals that use StumbleUpon's toolbar and website ("StumbleUpon Toolbar"). Individually identifiable information about you is not willfully disclosed to anyone without first receiving your permission, as explained in this privacy policy ("Privacy Policy").
 
 **StumbleUpon and Cookies**
 
@@ -14,7 +14,7 @@ Most browsers are initially set up to accept cookies. You can reset your browser
 
 **What Information Do We Collect?**
 
-StumbleUpon does not collect any unique information about you (such as your name, email address, etc.) except when you specifically and knowingly provide such information, as in our interests survey just after the install process. This unique information is associated with a user identifier for the purpose of improving your Stumble experience. Information you provide, with the exception of your email address, will also be displayed on your profile page which is viewable by other users of StumbleUpon. Note that providing personal information is not necessary to use the StumbleUpon toolbar.
+StumbleUpon does not collect any unique information about you (such as your name, email address, age, preferences, etc.) except when you specifically and knowingly provide such information, as in our interests survey just after the install process. We also record which pages you view when you visit another member's profile page, click 'stumble', or watch a video. This information is associated with a user identifier for the purpose of improving your Stumble experience, for example to recommend websites that correspond to your profile and interests, including the websites of our advertisers. Information you provide, with the exception of your email address, will also be displayed on your profile page which is viewable by other users of StumbleUpon. Note that providing personal information is not necessary to use the StumbleUpon toolbar.
 
 StumbleUpon also notes and saves information such as time of day, browser type, browser language, and IP address with each visit to our website. This information is collected automatically by almost all major web servers. StumbleUpon uses this information only in aggregate to determine the composition of our userbase, and the load on our servers, so that we can serve you better.
 
@@ -30,12 +30,16 @@ When you click on the rating buttons in the StumbleUpon Toolbar, you are explici
 
 **Does StumbleUpon Share Personal Information?**
 
-No. We do not share any personally identifiable information that is not already available on your profile page with anyone without your express written consent. However, we may share some aggregate information about our userbase with sponsors and business partners. For example, we may disclose how frequently the average StumbleUpon user clicks "Stumble", or how many users are signed up for a given interest. Please be aware, however, that we will release specific personal information about you if required to do so in order to comply with any valid legal process such as a search warrant, subpoena, statute, or court order.
+No. We do not share any personally identifiable information that is not available on your profile page with anyone without your express written consent, except as set forth in this privacy policy. However, we may share some aggregate information about our userbase with sponsors and business partners. For example, we may disclose how frequently the average StumbleUpon user clicks 'Stumble', or how many users are signed up for a given interest. Please be aware, however, that we will release specific personal information about you if required to do so in order to comply with any valid legal process such as a search warrant, subpoena, statute, or court order. We may also transfer your specific personal information in connection with a merger, acquisition, or sale of assets. If the acquiring entity's processing of your information will materially differ from that set forth in this Privacy Policy, we will notify you via posting on our web site.
 
 **Your consent and changes to the Privacy Policy**
 
-By using the StumbleUpon Toolbar and our web site, you consent to the collection and use of your information as we have outlined in this policy and to our [Terms & Conditions](https://web.archive.org/web/20060930013957id_/http%3A//www.stumbleupon.com/terms.html). StumbleUpon may decide to change this Privacy Policy from time to time. When we do, we will post those changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it.
+By using the StumbleUpon Toolbar and our web site, you consent to the collection and use of your information as we have outlined in this policy and to our [Terms & Conditions](http://www.stumbleupon.com/terms.html). StumbleUpon may decide to change this Privacy Policy from time to time. When we do, we will post those changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. If you do not wish your information to be used under the new policy, you can request that your account and all associated data be deleted at any time. You can also uninstall the toolbar at any time using standard uninstall methods. 
 
 **Who can I ask if I have additional questions?**
 
-Feel free to contact us any time and we'll answer any additional questions you may have. You can contact us [**here**](https://web.archive.org/feedback.php). 
+Feel free to contact us any time and we'll answer any additional questions you may have. You can contact us [**here**](http://www.stumbleupon.com/feedback.php).
+
+StumbleUpon, Inc.  
+privacystumbleupon·com  
+
