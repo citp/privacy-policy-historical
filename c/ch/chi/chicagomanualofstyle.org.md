@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chicagomanualofstyle.org privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211164505id_/http%3A//www.chicagomanualofstyle.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicagomanualofstyle.org privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630212231id_/http%3A//www.chicagomanualofstyle.org/privacy.html) for the most accurate reproduction.*
 
 # The Chicago Manual of Style Online: Privacy Policy
 
