@@ -1,9 +1,13 @@
-> *The following text is extracted and transformed from the jimtrade.com privacy policy that was archived on 2006-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061120011136id_/http%3A//www.jimtrade.com/corporate/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jimtrade.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630062242id_/http%3A//www.jimtrade.com/corporate/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
+| [](http://www.jimtrade.com/) |   
+---|---  
+  
 * * *  
   
+---  
 | Privacy Policy  
 ---  
   
@@ -157,4 +161,9 @@ _If you are using Netscape version 6:_
 If you are using other versions or other browser software, then you can select "cookies" from the "Help" function in your browser for information on where to find your cookie folder to delete your cookies.  
 Our Contact Information  
 If you have any queries, comments or concerns, or require any help on cookie-related matters, please feel free to contact us at: [support@jimtrade.com](mailto:support@jimtrade.com?Subject=Mail%20from%20JimTrade%20-%20Privacy%20Policy) or Customer Services, 336, Laxmi Plaza, Laxmi Industrial estate, New Link Road, Andheri (W), Mumbai - 400 053. India.  
-
+  
+  
+* * *  
+  
+[About JimTrade](http://www.jimtrade.com/corporate/aboutus.htm) \- [Sign In](http://www.jimtrade.com/login/) \- [Join Free](http://www.jimtrade.com/corporate/joinfree.htm) \- [Help & FAQ](http://www.jimtrade.com/corporate/help.htm) \- [Contact Us](http://www.jimtrade.com/corporate/contactus.htm) \- [Site Map](http://www.jimtrade.com/corporate/sitemap.htm) \- [Safe Trading Tips](http://www.jimtrade.com/corporate/tradingtips.htm)  
+Copyright © 2005 Jupiter Infomedia Pvt. Ltd. All rights reserved including the right to reproduce the contents in whole or in part in any form or medium without the express written permission of Jupiter Infomedia Pvt. Ltd. is prohibited. Your use of this website is subject to and constitutes acknowledgement and acceptance of our [Terms of Use](http://www.jimtrade.com/corporate/terms.htm). Refer our [Privacy Policy](http://www.jimtrade.com/corporate/privacypolicy.htm) and our [Security measures](http://www.jimtrade.com/corporate/security.htm)
