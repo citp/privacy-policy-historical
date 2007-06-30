@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediasite.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021223206id_/http%3A//www.mediasite.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediasite.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630220311id_/http%3A//www.mediasite.com/privacy.aspx) for the most accurate reproduction.*
 
 # Mediasite.com | Privacy Policy
 
@@ -28,11 +28,11 @@ The foregoing policies are effective as of October 27, 2003. Sonic Foundry reser
 
 ###  How do I prevent my Mediasite content from being indexed by Mediasite.com and other search engines? 
 
-The mediasite.com search engine (MiteBot) obeys the [Robot Exclusion Standard](http://www.robotstxt.org/wc/exclusion.html). MiteBot will obey all entries in the robots.txt file located at a website's root directory with a User-agent containing "MiteBot" or "*". 
+The mediasite.com search engine (MiteBot) obeys the [Robot Exclusion Standard](http://www.robotstxt.org/wc/exclusion.html). MiteBot will obey all entries in the robots.txt file located at a website's root directory with a User-agent containing "MiteBot" or "*".
 
 Disallowed documents, including slash (the home page of the site), are not indexed. If a page has robots.txt entries disallowing it to be crawled, mediasite.com will not use the contents of that page. 
 
-Example robots.txt: 
+Example robots.txt:
 
 # Disallow the mediasite.com search engine   
 User-agent: MiteBot  
