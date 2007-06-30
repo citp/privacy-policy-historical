@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the noaa.gov privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218064626id_/http%3A//www.noaa.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noaa.gov privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630051319id_/http%3A//www.noaa.gov/privacy.html) for the most accurate reproduction.*
 
-# NOAA Home Page - Privacy & Security Notice
+# NOAA Home Page - NOAA Privacy Policy
 
 We use this information to help us make our site more useful to visitors—to learn about the number of visitors to our site and the types of technology our visitors use. **Information Protection**  
 For site security purposes and to ensure that this service remains available to all users, this government computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. If such monitoring reveals evidence of possible abuse or criminal activity, such evidence may be provided to appropriate law enforcement officials. Unauthorized attempts to upload or change information on this server are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act or other law. 
