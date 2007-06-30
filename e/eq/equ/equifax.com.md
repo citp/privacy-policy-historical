@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the equifax.com privacy policy that was archived on 2006-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061123100046id_/https%3A//www.econsumer.equifax.com/consumer/sitepage.ehtml%3Fforward%3Dprivacy_policy%26partner_cd%3DPPSS1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equifax.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630093432id_/http%3A//www.equifax.com/universal/privacy.shtml) for the most accurate reproduction.*
 
-# Equifax Personal Solutions: Credit Reports, Credit Scores, Protection Against Identity Theft and more
+# Equifax Business Solutions
 
 **(U.S. Only)**
 
 For more than 100 years, Equifax has been a catalyst for commerce by bringing businesses and consumers together. Equifax also provides products and services that bring businesses together with other businesses. We have built our reputation on our commitment to deliver reliable information to our customers (both businesses and consumers) and to protect the privacy and confidentiality of personal information about consumers. We also protect the sensitive information about businesses. Safeguarding the privacy and security of information, both online and offline is a top priority for Equifax.
 
-This privacy policy applies Equifax's commitment to privacy in an online setting. This privacy policy applies to the following Equifax U.S. web sites: [www.equifax.com](http://www.equifax.com/ "equifax.com"), [www.econsumer.equifax.com](http://www.econsumer.equifax.com/ "econsumer.equifax.com"), [www.mycrediteducation.com](http://www.mycrediteducation.com/ "mycrediteducation.com"), [http://fact.econsumer.equifax.com](https://fact.econsumer.equifax.com/fact/landing.ehtml "fact.econsumer.equifax.com") and [www.equifax.com/CoolOnCredit](http://www.equifax.com/CoolOnCredit/ "cooloncredit"). This privacy policy applies to both individual consumers and certain business organizations that use these web sites. 
+This privacy policy applies Equifax's commitment to privacy in an online setting. This privacy policy applies to the following Equifax U.S. web sites: [www.equifax.com](http://www.equifax.com/ "equifax.com"), [www.econsumer.equifax.com](http://www.econsumer.equifax.com/ "econsumer.equifax.com"), [www.mycrediteducation.com](http://www.mycrediteducation.com/ "mycrediteducation.com"), [http://fact.econsumer.equifax.com](https://fact.econsumer.equifax.com/fact/landing.ehtml "fact.econsumer.equifax.com"), [www.equifax.com/CoolOnCredit](http://www.equifax.com/CoolOnCredit/ "cooloncredit"), [www.equifax.com/fcra](http://www.equifax.com/fcra "equifax.com/fcra"), <https://aa.econsumer.equifax.com/> and [www.af.equifax.com](http://www.af.equifax.com/ "www.af.equifax.com"). This privacy policy applies to both individual consumers and certain business organizations that use these web sites. 
 
 We take reasonable steps to:
 
@@ -41,7 +41,7 @@ _"Personally identifiable information"_ is information that we collect from _you
   * E-mail address;
   * Current and former mailing address;
   * Credit card number and expiration date; and 
-  * Driver’s license number, state of issue, and address on license.
+  * Driver's license number, state of issue, and address on license.
 
 
 
@@ -58,55 +58,55 @@ _"Business organization identifiable information"_ is information we collect fro
 
 
 
-### EQUIFAX FAIR INFORMATION PRINCIPLES
+### [EQUIFAX FAIR INFORMATION PRINCIPLES](http://www.equifax.com/universal/privacy.shtml#principles1)
 
-  * ### NOTICE  \- We provide information to you about:
+  * ### [NOTICE](http://www.equifax.com/universal/privacy.shtml#notice)  \- We provide information to you about:
 
-    * ### The Information We Collect About You
+    * ### [The Information We Collect About You](http://www.equifax.com/universal/privacy.shtml#about_you)
 
-    * ### The Information We Ask You To Provide
+    * ### [The Information We Ask You To Provide](http://www.equifax.com/universal/privacy.shtml#from_you)
 
-    * ### The Information We Receive From Others
+    * ### [The Information We Receive From Others](http://www.equifax.com/universal/privacy.shtml#from_others)
 
-    * ### How We Use The Information We Collect About You
+    * ### [How We Use The Information We Collect About You](http://www.equifax.com/universal/privacy.shtml#collect)
 
-    * ### To Whom We Disclose The Information We Collect About You
+    * ### [To Whom We Disclose The Information We Collect About You](http://www.equifax.com/universal/privacy.shtml#disclose)
 
-  * ### CHOICE  \- You can make decisions about the information we collect:
+  * ### [CHOICE](http://www.equifax.com/universal/privacy.shtml#choice)  \- You can make decisions about the information we collect:
 
-    * ### Opting Out of Our Providing Information About You To Third Parties
+    * ### [Opting Out of Our Providing Information About You To Third Parties](http://www.equifax.com/universal/privacy.shtml#third_parties)
 
-    * ### Opting Out at Our Personal Solutions Web Page
+    * ### [Opting Out at Our Personal Solutions Web Page](http://www.equifax.com/universal/privacy.shtml#web_page)
 
-    * ### Opting Out of Our Personal Solutions Promotional Offers
+    * ### [Opting Out of Our Personal Solutions Promotional Offers](http://www.equifax.com/universal/privacy.shtml#offers)
 
-  * ### ACCESS
+  * ### [ACCESS](http://www.equifax.com/universal/privacy.shtml#access)
 
-  * ### SECURITY AND CONFIDENTIALITY
+  * ### [SECURITY AND CONFIDENTIALITY](http://www.equifax.com/universal/privacy.shtml#confidentiality)
 
-  * ### ACCOUNTABILITY
-
-
-
-
-### USE OF COOKIES TECHNOLOGY
-
-  * ### WHAT IS A COOKIE?
-
-  * ### HOW WE USE COOKIES?
-
-  * ### HOW YOU CAN ACCEPT OF REJECT COOKIES?
+  * ### [ACCOUNTABILITY](http://www.equifax.com/universal/privacy.shtml#accountability)
 
 
 
 
-### CHILDREN'S PRIVACY
+### [USE OF COOKIES TECHNOLOGY](http://www.equifax.com/universal/privacy.shtml#cookies)
 
-### NON-APPLICABILITY OF PRIVACY POLICY TO COMMERCIAL USE
+  * ### [WHAT IS A COOKIE?](http://www.equifax.com/universal/privacy.shtml#whatCookie)
 
-### KEEPING UP-TO -DATE ON CHANGES TO THE EQUIFAX PRIVACY POLICY
+  * ### [HOW WE USE COOKIES?](http://www.equifax.com/universal/privacy.shtml#howCookies)
 
-### HOW TO CONTACT US WITH QUESTIONS OR COMMENTS
+  * ### [HOW YOU CAN ACCEPT OF REJECT COOKIES?](http://www.equifax.com/universal/privacy.shtml#acceptCookies)
+
+
+
+
+### [CHILDREN'S PRIVACY](http://www.equifax.com/universal/privacy.shtml#children)
+
+### [NON-APPLICABILITY OF PRIVACY POLICY TO COMMERCIAL USE](http://www.equifax.com/universal/privacy.shtml#commercial)
+
+### [KEEPING UP-TO-DATE ON CHANGES TO THE EQUIFAX PRIVACY POLICY](http://www.equifax.com/universal/privacy.shtml#changes)
+
+### [HOW TO CONTACT US WITH QUESTIONS OR COMMENTS](http://www.equifax.com/universal/privacy.shtml#questions)
 
 * * *
 
@@ -124,10 +124,10 @@ Specifically, we receive information from you online when you: 1) register or fi
 
 We also receive information from you online when you send us e-mail, applications and other forms, or register at our web sites.
 
-Return to Top
+[Return to Top](http://www.equifax.com/universal/privacy.shtml#top)
 
 **Information From Others**  
-We may also collect information about your transactions with us, our affiliates, or others, such as the products and services you ordered. In connection with requests for Personal Solutions products, for example, we access your Equifax individual credit file information or your Equifax business organization credit file. In connection with verifying your identity as an individual we may also collect from outside sources _personally identifiable information_ about you, such as name, address, driver’s license information, and e-mail addresses. When you request your free annual Equifax individual credit report through [www.annualcreditreport.com](http://www.annualcreditreport.com/), the information you provide at that web site is provided to us to process your request. Also, in connection with verifying the identity of _you as a business organization_ we may collect from outside sources _business organization identifiable information_ , such as name, address, and e-mail address.
+We may also collect information about your transactions with us, our affiliates, or others, such as the products and services you ordered. In connection with requests for Personal Solutions products, for example, we access your Equifax individual credit file information or your Equifax business organization credit file. In connection with verifying your identity as an individual we may also collect from outside sources _personally identifiable information_ about you, such as name, address, driver's license information, and e-mail addresses. When you request your free annual Equifax individual credit report through [www.annualcreditreport.com](http://www.annualcreditreport.com/), the information you provide at that web site is provided to us to process your request. Also, in connection with verifying the identity of _you as a business organization_ we may collect from outside sources _business organization identifiable information_ , such as name, address, and e-mail address.
 
 **How We Use The Information We Collect**  
 We use the information we collect about you to handle the requests you make to us. If _you as an individual_ request an individual credit file disclosure or an individual credit score disclosure, either directly from us or through [www.annualcreditreport.com](http://www.annualcreditreport.com/), or initiate an online dispute reinvestigation, the information we collect from you is only used to handle those requests and possibly update your Equifax individual credit file.
@@ -168,7 +168,7 @@ We may also disclose any of the information we collect, as described above, to a
 
 We may disclose any of the information, as described above, to the types of affiliates and non-affiliated third parties, described above, whether _you as an individual_ or _you as a business organization_ make a one-time purchase of a Personal Solutions product or _you as an individual_ or _you as a business organization_ have an ongoing or prior Member relationship with Personal Solutions.
 
-Return to Top
+[Return to Top](http://www.equifax.com/universal/privacy.shtml#top)
 
 ### CHOICE
 
@@ -181,7 +181,7 @@ If _you as an individual_ have become a Member of Personal Solutions or filled o
 **Opting Out of Our Personal Solutions Promotional Offers**  
 As stated in the "Notice" section of this privacy policy, as legally permitted, Personal Solutions may send you promotional offers by e-mail. You may opt out of further promotional offers electronically by clicking on the "unsubscribe" button in the e-mail. 
 
-Return to Top
+[Return to Top](http://www.equifax.com/universal/privacy.shtml#top)
 
 ### ACCESS
 
@@ -195,7 +195,7 @@ Equifax recognizes the importance of secure online transactions, and we maintain
 
 We safeguard the privacy of information you provide us through online forms. For online requests and Personal Solutions product orders and service requests, we use programs that encrypt the information you provide on the form before transmission to Equifax. Information you provide to us online, including _personally identifiable information_ and _business organization identifiable information_ , is transmitted to us through a secured socket layer (SSL) transmission. The information is decrypted only upon receipt by Equifax. 
 
-Except as stated in the "To Whom We Disclose The Information We Collect" section above, we restrict access to _personally identifiable information_ and _business organization identifiable information_ that is collected about you to only those who have a need to know that information in connection with the purposes for which it is collected and used. 
+Except as stated in the ["To Whom We Disclose The Information We Collect"](http://www.equifax.com/universal/privacy.shtml#disclose) section above, we restrict access to _personally identifiable information_ and _business organization identifiable information_ that is collected about you to only those who have a need to know that information in connection with the purposes for which it is collected and used. 
 
 Additionally, we have security protocols and measures in place to protect the _personally identifiable information, business organization identifiable information_ and other information we maintain about you from unauthorized access or alteration. These measures include internal and external firewalls, physical security and technological security measures, and encryption of certain data. 
 
@@ -207,9 +207,9 @@ You also have a role in protecting the security of information about you. For ex
 
 Equifax is not, however, responsible for the privacy practices or content of link sites listed on our web pages. The owners of these pages are responsible for them.
 
-If you have questions or comments about Equifax’s online privacy policy and fair information practices, please e-mail us at [privacy@Equifax.com](mailto:privacy@Equifax.com) or write to Chief Privacy Officer, Equifax Inc., 1550 Peachtree Street, NW, Atlanta, GA 30309. If you have specific questions about your Equifax individual credit file you may e-mail us at [individual.custserv@Equifax.com](mailto:individual.custserv@Equifax.com). If you have specific questions about your Equifax business organization credit file you may go to the "Product Information Disclaimer" link located at the bottom of your business credit product page for contact information. 
+If you have questions or comments about Equifax's online privacy policy and fair information practices, please e-mail us at [privacy@Equifax.com](mailto:privacy@Equifax.com) or write to Chief Privacy Officer, Equifax Inc., 1550 Peachtree Street, NW, Atlanta, GA 30309. If you have specific questions about your Equifax individual credit file you may e-mail us at [individual.custserv@Equifax.com](mailto:individual.custserv@Equifax.com). If you have specific questions about your Equifax business organization credit file you may go to the "Product Information Disclaimer" link located at the bottom of your business credit product page for contact information. 
 
-Return to Top
+[Return to Top](http://www.equifax.com/universal/privacy.shtml#top)
 
 ### **USE OF COOKIES TECHNOLOGY**
 
@@ -248,6 +248,6 @@ We want you to be fully informed about how we protect your privacy. We may chang
 
 ### HOW TO CONTACT US WITH QUESTIONS OR COMMENTS
 
-If you have questions or comments about Equifax’s online privacy policy and fair information practices, please e-mail us at [privacy@Equifax.com](mailto:privacy@Equifax.com) or write to Chief Privacy Officer, Equifax Inc., 1550 Peachtree Street, NW, Atlanta, GA 30309. If you have specific questions about your individual credit file you may e-mail us at [individual.custserv@Equifax.com](mailto:individual.custserv@Equifax.com). If you have specific questions about your Equifax business organization credit file you may go to the "Product Information Disclaimer" link located at the bottom of your business credit product page for contact information.
+If you have questions or comments about Equifax's online privacy policy and fair information practices, please e-mail us at [privacy@Equifax.com](mailto:privacy@Equifax.com) or write to Chief Privacy Officer, Equifax Inc., 1550 Peachtree Street, NW, Atlanta, GA 30309. If you have specific questions about your individual credit file you may e-mail us at [individual.custserv@Equifax.com](mailto:individual.custserv@Equifax.com). If you have specific questions about your Equifax business organization credit file you may go to the "Product Information Disclaimer" link located at the bottom of your business credit product page for contact information.
 
-Revised March 9, 2006.
+Revised December 19, 2006.
