@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the intellichoice.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205222125id_/http%3A//www.intellichoice.com/info/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intellichoice.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630130907id_/http%3A//www.intellichoice.com/info/privacy_statement) for the most accurate reproduction.*
 
-# Privacy Statement - IntelliChoice
+# 
 
 Your privacy on the Internet is of the utmost importance to us at [IntelliChoice.com](http://www.intellichoice.com/). We want you to know that we gather certain types of information about those who subscribe online to publications that are a part of the Primedia family of products and services so that we can better serve your needs. It is important that you fully understand the terms and conditions surrounding the collection and use of this information. This privacy statement discloses what information we gather, how we use it, how to correct or change it, and what steps we take to safeguard personal information. 
 
