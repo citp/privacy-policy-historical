@@ -1,15 +1,9 @@
-> *The following text is extracted and transformed from the ebookers.com privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208233838id_/http%3A//www.ebookers.com/about_us/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebookers.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630124306id_/http%3A//ebookers.com/about_us/privacy_policy.html) for the most accurate reproduction.*
 
 # ebookers.com : Privacy Policy
 
    
-|   
----  
-   
-   
-   
-   
-  |  |  Privacy policy  
+|   |  |  Privacy policy  
 ---  
    
 Privacy Statement for ebookers.com  
@@ -62,7 +56,7 @@ There is a section of the website where you can [apply for a job](https://web.ar
   
 Top  
 Our Opt Out Policy  
-You can un-subscribe from travel offers by email at any time by following the instructions at the bottom of the newsletter, or by sending a blank e-mail to [uk_users-off@lists.ebookers.com](mailto:uk_users-off@lists.ebookers.com) To change information in your user profile visit [myebookers.](https://web.archive.org/user/signin.html)  
+You can un-subscribe from travel offers by email at any time by following the instructions at the bottom of the newsletter, or by sending a blank e-mail to [customercare@ebookers.com](mailto:customercare@ebookers.com)  
   
 Top  
 Sharing the information our Site gathers/tracks  
@@ -94,7 +88,7 @@ Top
 Changes to our Privacy Statement   
 If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we would notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our website notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
 
-If you have questions or concerns regarding this statement, you should first contact [webmaster@ebookers.com.](mailto:webmaster@ebookers.com)  
+If you have questions or concerns regarding this statement, you should first contact [customercare@ebookers.com](mailto:customercare@ebookers.com)  
   
   
 Top  
