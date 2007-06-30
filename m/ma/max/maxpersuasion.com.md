@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxpersuasion.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020140518id_/http%3A//www.maxpersuasion.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxpersuasion.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630223439id_/http%3A//maxpersuasion.com/privacy.php) for the most accurate reproduction.*
 
 # Influence and Persuasion Techniques :: MaxPersuasion.com
 
@@ -8,7 +8,7 @@
   * [Forums](http://persuasionmasterminding.com/forum)
   * [Articles](http://kcpersuasionarticles.com/)
   * [Downloads](http://persuasiondownloads.com/)
-  * [Trainings](http://maxpersuasion.com/orlando.php)
+  * [Trainings](http://maxpersuasion.com/trainings.php)
 
   
 
