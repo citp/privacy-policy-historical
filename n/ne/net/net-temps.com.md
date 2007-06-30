@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the net-temps.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113103534id_/http%3A//www.net-temps.com/about/index.htm%3Ftype%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the net-temps.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630064623id_/http%3A//www.net-temps.com/about/index.htm%3Ftype%3Dprivacy) for the most accurate reproduction.*
 
 # About Net-Temps
 
 About Net-Temps
 
 **Privacy Statement**  
-Effective November 14, 2005 
+Effective December, 2006 
 
 [](http://www.truste.org/ivalidate.php?url=www.net-temps.com&sealid=101) Net-Temps is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users. trust and confidence in the Internet by promoting the use of fair information practices. Because Net-Temps wants to demonstrate its commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, Net-Temps ([www.net-temps.com](http://www.net-temps.com/)) has agreed to notify you of: 
 
@@ -17,12 +17,14 @@ Effective November 14, 2005
   6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Net-Temps' control
   7. How you can correct any inaccuracies in the information.
 
-If you have questions or concerns regarding this statement, you should first contact Net-Temps at (978) 251-7272 or by email at [ pr@net-temps.com](mailto:pr@net-temps.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the website to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact Net-Temps at (978) 251-7272 or by email at [ pr@net-temps.com](mailto:pr@net-temps.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the website to resolve your concerns.
 
 **Thawte SSL Web Server Certificate**  
 The Net-Temps server is secured through the Thawte SSL (secure sockets layer) Web Server Certificate which ensures that any information sent to the Net-Temps server is encrypted, making it virtually impossible to intercept or steal online communications during transmittal. Personal information and credit card details cannot be viewed by outside parties and once such information has been submitted, the data cannot be tampered with while it is being transmitted.
 
 **Privacy Policy**  
+This privacy statement covers the site [www.net-temps.com](http://www.net-temps.com/) and [www.nettemps.com](http://www.nettemps.com/)
+
 We understand the power that the Internet holds for changing your life and making things easier for you. These benefits are at risk if people are concerned about their personal privacy. We are committed to providing you with an Internet experience that respects and protects your personal privacy choices and concerns.
 
 In general, we gather information about all of our users collectively. We only use such information anonymously and in the aggregate. This information helps us determine what is most beneficial for our users, and how we can continually create a better overall experience for you. We may share this information with our partners, but only in the aggregate, so that they too may understand how Net-Temps' visitors use our site, so they may create a better overall experience for you, as well.
@@ -54,7 +56,15 @@ Net-Temps' resume functionality requires/requests users to give us contact infor
 
 Demographic data that are collected at our site are not required, and are shared with clients only on an aggregate basis, primarily to aid employers with their own EEO compliance and affirmative action policies. We do not disclose information about your individual visits to Net-Temps, or personal information that you provide, such as your name, address, email address, telephone number, credit card number, personal references, etc., to any outside parties, except when we believe the law requires it. But, we may record and share aggregated information with our partners.
 
-Net-Temps offers the ability to send newsletter and article content found on the website to a friend via email. Net-Temps requires both the senders' and recipients' email addresses in order for the newsletter/article be sent. This information is stored on Net-Temps but is not shared or sold to third parties. 
+If you choose to use our referral service to tell a friend about our site or share content, we will ask you for your friend.s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site or read the content. Net-Temps stores this information for the sole purpose of sending this one-time email. 
+
+Your friend may contact us at service@net-temps.com to request that we remove this information from our database. 
+
+Net-Temps offers the ability to send newsletter and article content found on the website to a friend via email. Net-Temps requires both the senders' and recipients' email addresses in order for the newsletter/article be sent. This information is stored on Net-Temps but is not shared or sold to third parties.
+
+Visitors may also sign up for our free jobseeker or recruiter weekly newsletters. The only information required is an email address. This information will not be shared with our partners and subscribers may opt-out at any time by following the remove procedures provided in each newsletter.
+
+We post customer and jobseeker testimonials on our web site which may contain personally identifiable information such as the customer's or jobseeker.s name. We do obtain their consent prior posting the testimonial to post their name along with their testimonial. 
 
 **Legal Disclaimer**  
 We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process serviced on our website.
@@ -80,7 +90,7 @@ We use your IP address to help diagnose problems with our server and to administ
 **Cookies**  
 A cookie is a piece of data stored on the user's computer tied to information about the user. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is one stored as a file on your computer, and it remains there when you close Internet Explorer. The cookie can be read by the Web site that created it when you visit that site again. Persistent cookies can be removed by following Internet browser help file directions. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. Each browser is different so check the "Help" menu of your browser to learn how to change your cookie preferences. 
 
-By setting a cookie on our site, users do not have to log in a password more than once, thereby saving time while on our site. This information is stored and used to create a custom account for the user and make available information tailored to their requests (such as career-specific information like hot jobs, job search agents and news). If users reject the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. For example, the user will not be able to have career-specific information automatically available upon sign in (hot jobs, search agents and news). 
+We do link the information we store in cookies to personally identifiable information you submit while on our site. By setting a cookie on our site, users do not have to log in a password more than once, thereby saving time while on our site. This information is stored and used to create a custom account for the user and make available information tailored to their requests (such as career-specific information like hot jobs, job search agents and news). If users reject the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. For example, the user will not be able to have career-specific information automatically available upon sign in (hot jobs, search agents and news). 
 
 Some of our business partners and advertisers use cookies on our site. However, we have no access to or control over these cookies once we have given permission for them to set cookies for advertising. 
 
