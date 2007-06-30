@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the textdrive.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205200030id_/http%3A//textdrive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textdrive.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630104409id_/http%3A//textdrive.com/privacy) for the most accurate reproduction.*
 
 # TextDrive Privacy Policy
 
@@ -48,17 +48,12 @@ We don’t without either your explicit permissions or under court order.
 
 Complaints and compliance issues can be directed to:
 
-**TextDrive Inc**  
-7770 Regents Road   
-Suite 113-562   
-San Diego   
-California 92122  
+TextDrive Inc   
+14 Kientz Lane   
+San Anselmo   
+California 94109  
 Attention: Privacy Office
 
-1-858-964-0724 (La Jolla, California, USA)  
-1-617-395-8798 (Cambridge, Massachusetts, USA)  
-1-604-628-0267 (Vancouver, British Columbia, Canada)  
-+2 (0) 7078 7518 (London, United Kingdom)  
-1-866-294-6577 (Toll Free)
+415-226-1076
 
 legal@textdrive.com
