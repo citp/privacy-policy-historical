@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the mbtrading.com privacy policy that was archived on 2006-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061108114503id_/http%3A//mbtrading.com/disc0.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbtrading.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630175828id_/http%3A//www.mbtrading.com/disc0.asp) for the most accurate reproduction.*
 
-# MB Trading -- Direct Access Stocks, Options, and Futures Trading
+# MB Trading Direct Access Brokerage Firm | MBTrading.com
 
 |    
-**Our Privacy Policy** Please read this carefully. It provides information about the privacy policy of MB Trading, MB Trading Futures, Inc., and 3DForex, LLC, (collectively referred to as "we," "us," and "our" throughout this policy), which are affiliates under common control. This privacy policy concerns nonpublic personal information about current and former accountholders. 
+Please read this carefully. It provides information about the privacy policy of MB Trading, MB Trading Futures, Inc., and 3DForex, LLC, (collectively referred to as "we," "us," and "our" throughout this policy), which are affiliates under common control. This privacy policy concerns nonpublic personal information about current and former accountholders. 
 
 **PRIVACY POLICY CONFIDENTIAL TREATMENT OF CUSTOMER INFORMATION**  
 Did you know a federal law exists that regulates the collection, use and safeguarding of your nonpublic personal financial information by: (1) banks; (2) securities, futures and forex industry members; (3) insurance companies; and (4) other financial institutions. "Nonpublic personal financial information" is defined as specific information that is not available to the general public.
