@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the go4wallpapers.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217021033id_/http%3A//go4wallpapers.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go4wallpapers.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630061004id_/http%3A//www.go4wallpapers.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Go4wallpapers.com Privacy Policy
+# Go4wallpapers,Get latest Wallpapers Privacy Policy
 
 **Go4wallpapers.com \- An Overview**  
 go4wallpapers.com has created this privacy statement in order to demonstrate our firm commitment to privacy. Throughout the cyberspace we want to contribute towards  providing a safe and secure environment, safe  information gathering and dissemination practices for all our sites. This policy applies only to go4wallpapers.com which carry the go4wallpapers.com brand and not to other companies or organisations' websites to which we link.
