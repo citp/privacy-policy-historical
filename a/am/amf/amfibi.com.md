@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amfibi.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206082527id_/http%3A//amfibi.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amfibi.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630204058id_/http%3A//www.amfibi.com/info/privacy.html) for the most accurate reproduction.*
 
 # Amfibi: Privacy Policy
 
@@ -18,7 +18,7 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 You can contact us at: 
 
-Barcelona Internet Telecom  
+BCN Telecom  
 Telègraf, 42  
 08041 Barcelona (SPAIN)  
 (+34) 93 5381851 
