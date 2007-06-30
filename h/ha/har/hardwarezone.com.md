@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardwarezone.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230114827id_/http%3A//www.hardwarezone.com/core/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardwarezone.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630094630id_/http%3A//www.hardwarezone.com/core/privacy.php) for the most accurate reproduction.*
 
 # www.hardwarezone.com® :: Privacy Policy
 
@@ -79,7 +79,11 @@ This site does not allow the parent to obtain the information collected from the
 
 **10\. Choice/Opt-Out**
 
-Our site provides users the opportunity to opt-out of receiving promotional/marketing information from us. You can visit the following URL: <http://www.hardwarezone.com/member/mynewsletter.php>
+Our site provides users the opportunity to opt-out of receiving promotional/marketing information from us. You can visit the following URLs:   
+[Singapore members](http://forums.hardwarezone.com/profile.php?do=editprofile)  
+[Malaysia members](http://forums.hardwarezone.com.my/profile.php?do=editprofile)  
+[Australia members](http://www.hardwarezone.com.au/forums/profile.php?do=editprofile)  
+_Note: You will need to have your username and password ready._
 
 **11\. Contacting the Web Site**
 
