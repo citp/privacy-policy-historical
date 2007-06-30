@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the agfg.com.au privacy policy that was archived on 2006-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061004070217id_/http%3A//www.agfg.com.au/Company.aspx%3FOption%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agfg.com.au privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630100908id_/http%3A//www.agfg.com.au/support/privacy.htm) for the most accurate reproduction.*
 
-# Australian Good Food & Accomodation Guide
-
-### Privacy Statement
-
-By using this Site, you agree to the Privacy Policy of the Australian Good Food & Accommodation Guide.
+# AGFG - Privacy
 
 The Australian Good Food & Accommodation Guide periodically reviews its Privacy Policy and reserves the right, at its discretion, to modify or remove portions of this policy at any time. The Australian Good Food & Accommodation Guide considers the responsible use of personal information to be of vital importance. The Australian Good Food & Accommodation Guide is committed to ensuring that to the best of our ability we meet all the requirements of the National Privacy Principals and the Privacy Act.
 
@@ -20,7 +16,7 @@ In general on The Australian Good Food & Accommodation Guide websites, IP addres
 
 When The Australian Good Food & Accommodation Guide receives information about your session or about you, we may also use it for research or to improve our site and the services we offer you.
 
-### Cookies
+## Cookies
 
 Some The Australian Good Food & Accommodation Guide web pages use "cookies".
 
@@ -28,7 +24,7 @@ Cookies can make your subsequent visits to the web page simpler and more seamles
 
 Once The Australian Good Food & Accommodation Guide receives information from you via e-mail or any other means, the information is in a secure environment. Your personal information will not be released unless The Australian Good Food & Accommodation Guide believes in good faith that the law requires it or your permission is granted.
 
-### Security
+## Security
 
 The Australian Good Food & Accommodation Guide strives to ensure the security, integrity and privacy of personal information submitted to our sites, and periodically updates its security measures in light of current technologies. You need to be aware of inherent risks associated with the transmission of information via the Internet. The Australian Good Food & Accommodation Guide cannot guarantee or warrant the security of any personal information you submit to our sites. If you have concerns in this regard, The Australian Good Food & Accommodation Guide has other ways of obtaining and providing information. Normal mail, telephone and fax facilities are available.
 
