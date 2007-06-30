@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecopy.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209233942id_/http%3A//ecopy.com/company_privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecopy.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630172426id_/http%3A//www.ecopy.com/company_privacy_policy.asp) for the most accurate reproduction.*
 
 # eCopy, Inc. - Document Imaging Software - Privacy Policy
 
