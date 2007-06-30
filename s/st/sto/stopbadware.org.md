@@ -1,12 +1,18 @@
-> *The following text is extracted and transformed from the stopbadware.org privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228015656id_/http%3A//stopbadware.org/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stopbadware.org privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630214422id_/http%3A//stopbadware.org/home/privacy) for the most accurate reproduction.*
 
 # StopBadware.org
 
 **PRIVACY STATEMENT**
 
-The Berkman Center and its researchers (“we” or “us”) are conducting an academic research project that examines problems raised by “adware,” “spyware,” and other kinds of potentially harmful, downloadable computer programs.  As part of this project, this website, www.stopbadware.org (the “Site”), collects information submitted by users through the online “Technical Data Report” form, the “Tell Us Your Badware Horror Story” form, the mailing list sign-up form or check-boxes and any information you post to our online discussion groups.  Some additional information is automatically collected when you visit the Site.  We use this information for research, and we may share some of this information with other researchers.
+The Berkman Center and its researchers (“we” or “us”) are conducting an academic research project that examines problems raised by “adware,” “spyware,” and other kinds of potentially harmful, downloadable computer programs.  As part of this project, this website, www.stopbadware.org (the “Site”), collects information submitted by users through the online “Request for Review” form, “Technical Data Report” form, the “Tell Us Your Badware Horror Story” form, the mailing list sign-up form or check-boxes and any information you post to our online discussion groups.  Some additional information is automatically collected when you visit the Site.  We use this information for research, and we may share some of this information with other researchers. In addition, information from the Request for Review form may be shared with third parties as described below.
 
 We are committed to respecting and protecting your personal privacy.  This Privacy Statement describes what information the Site collects, how this information is used, and with whom we may share the information.  Your submission of data to the Site indicates your agreement with the terms of the Privacy Statement.  
+
+**Request for Review Responses**
+
+The information that you submit in the Request for Review form may be used by us for research into the problems of adware, spyware, and other kinds of potentially harmful computer programs, and for other purposes. We may share all information entered into this form - including your name and email address - with any third parties that have submitted your site to the Badware Website Clearinghouse. We may also publicly display on our website or share with other researchers any information submitted in fields other than the Name and Email Address fields in the Request for Review form.
+
+Should you include additional personally identifying information within your responses, this information may be included in the information that is shared with third parties, other researchers, or posted on our site. We are not asking you for any such personally identifying information and we strongly encourage you not to submit such information as part of your Request for Review form or other communications with us if you do not wish to have it shared with other researchers.
 
 **Technical Data Report Responses**
 
