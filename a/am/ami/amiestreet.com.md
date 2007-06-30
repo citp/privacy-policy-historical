@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the amiestreet.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213170611id_/http%3A//amiestreet.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amiestreet.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630023038id_/http%3A//amiestreet.com/privacyPolicy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Amie St
+# Privacy Policy - Amie Street, Independent Music Download Website
 
-Our privacy policy is designed to let you know what information we collect from you, how that information is used, and how can you tailor your Amie Street experience to your personal preferences. For complete details, please see the Terms Of Agreement <http://amie.st/userAgreement.php>.
+Our privacy policy is designed to let you know what information we collect from you, how that information is used, and how can you tailor your Amie Street experience to your personal preferences. For complete details, please see the Terms Of Agreement <http://amiestreet.com/userAgreement.php>.
 
 ## What Information We Collect
 
@@ -12,7 +12,7 @@ We store information that we collect through cookies, log files, and clear gifs 
 
 For Amie Street users, it is necessary to share billing information with a payment processing company to bill you for your purchases. These companies do not retain, share, store or use personally identifiable information for any other purposes. We will NEVER charge you for any goods or services without your explicit consent. 
 
-For artists, royalties will be paid either through Paypal. Only the information necessary to complete these transactions will be shared.
+For artists, royalties will be paid through Paypal. Only the information necessary to complete these transactions will be shared.
 
 Amie Street will comply with demands made by law enforcement or other governmental officials, in response to a verified request relating to a criminal investigation.
 
