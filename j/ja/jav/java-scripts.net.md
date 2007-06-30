@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the java-scripts.net privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205193450id_/http%3A//www.java-scripts.net/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the java-scripts.net privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630101842id_/http%3A//www.java-scripts.net/privacy.phtml) for the most accurate reproduction.*
 
 # Javascripts by Java-Scripts.net: Free javascripts, tutorials, examples, and resources.
 
@@ -24,6 +24,6 @@ From time to time some of our advertising partners may prompt you to enter your 
 
 From time to time we may need to use your IP address to help diagnose problems with our server, and to administer our Web site. 
 
-© 2006 [Javascripts](http://www.java-scripts.net/)   
+© 2007 [Javascripts](http://www.java-scripts.net/)   
 Proudly Hosted by [HostDeparment](http://www.hostdepartment.com/)  
 Now Viewing **[](http://www.java-scripts.net/privacy.phtml)**
