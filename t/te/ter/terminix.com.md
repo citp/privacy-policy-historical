@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the terminix.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231062400id_/http%3A//www.terminix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terminix.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630210341id_/http%3A//www.terminix.com/privacy) for the most accurate reproduction.*
 
 # Privacy Information
 
@@ -9,7 +9,6 @@ At ServiceMaster, we are committed to protecting your privacy. We use the inform
   * [www.AmeriSpec.com](http://www.amerispec.com/)
   * [www.FurnitureMedic.com](http://www.furnituremedic.com/)
   * [www.MerryMaids.com](http://www.merrymaids.com/)
-  * [www.RescueRooter.com](http://www.rescuerooter.com/)
   * [www.ServiceMaster.com](http://www.servicemaster.com/)
   * [www.Terminix.com](http://www.terminix.com/)
   * [www.TruGreen.com](http://www.trugreen.com/)
