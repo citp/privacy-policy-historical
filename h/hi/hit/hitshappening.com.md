@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitshappening.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016061353id_/http%3A//www.info-pack.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitshappening.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630164104id_/http%3A//www.info-pack.com/privacy.htm) for the most accurate reproduction.*
 
 # Information Packaging - Privacy Policy
 
