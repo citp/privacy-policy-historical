@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stpwebhosting.com privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229213202id_/http%3A//stpwebhosting.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stpwebhosting.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630110953id_/http%3A//www.stpwebhosting.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # STP Web Hosting: Privacy Policy
 
@@ -56,7 +56,7 @@ To enable STPWebhosting.com to use the information supplied such that we are not
 
 **Security of client information that we maintain :**
 
-We take every best possible measure to provide the highest protection to our client information on our system. However, we can not guarantee that the information submitted, maintained on and transmitted from our system will be completely secured.
+We take every best possible measure to provide the highest protection to our client information on our system. However, we can not guarantee that the information submitted, maintained on and transmitted from our system will be completely secured. In spite of all our security measures we can not rule out the possibility that such information/data could be illegally obtained / destroyed / damaged by some intruder/hacker. In any such event STPWebhosting.com will not hold any liability thereof.
 
 **Changes in Privacy Policy :**
 
