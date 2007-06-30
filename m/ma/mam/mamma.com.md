@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mamma.com privacy policy that was archived on 2006-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061228044505id_/http%3A//www.mamma.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamma.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630210044id_/http%3A//www.mamma.com/info/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Mamma.com - The Mother Of All Search Engines
 
