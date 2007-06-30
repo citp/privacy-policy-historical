@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roadandtrack.com privacy policy that was archived on 2006-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061222155656id_/http%3A//aboutus.hfmus.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadandtrack.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630224524id_/http%3A//aboutus.hfmus.com/Privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -101,9 +101,9 @@ In the unlikely event that we believe that the security of your Personal Informa
   
 Hachette Filipacchi Media U.S., Inc.  
 Attention: Legal Department  
-1633 Broadway, 40th Floor  
+1633 Broadway, 45th Floor  
 New York, NY 10019  
-Phone: 212-767-5322  
+Phone: 212-767-6921  
 **[privacy@hfmus.com](mailto:privacy@hfmus.com)**
 
 **Effective Date: November 1, 2006**  
