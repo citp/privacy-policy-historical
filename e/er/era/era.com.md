@@ -1,6 +1,186 @@
-> *The following text is extracted and transformed from the era.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205213139id_/http%3A//www.era.com/era/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the era.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630080506id_/http%3A//www.era.com/era/privacy.html) for the most accurate reproduction.*
 
 # Real Estate, ERA Real Estate - Properties for Sale
+
+Find a Sales Associate
+
+Find a Sales Associate
+
+Find an Office
+
+Find an Office
+
+Join MyERA.com
+
+Join MyERA.com
+
+ERA Answers
+
+ERA Answers
+
+Find a Relocation Specialist
+
+Find a Relocation Specialist
+
+Sellers Security Plan
+
+Sellers Security Plan
+
+Select Consumer Services
+
+Select Consumer Services
+
+ERA Home Protection Plan
+
+ERA Home Protection Plan
+
+International Office Search
+
+International Office Search
+
+Calculators
+
+Calculators
+
+Resource Center
+
+Resource Center
+
+Tips - Selling by Owner
+
+Tips - Selling by Owner
+
+Looking to Rent
+
+Looking to Rent
+
+Military Specialist
+
+Military Specialist
+
+Commercial Specialist
+
+Commercial Specialist
+
+Resort.ERA.com
+
+Resort.ERA.com
+
+Mature Market
+
+Mature Market
+
+TXT ERA
+
+TXT ERA
+
+ERA.com Mobile
+
+ERA.com Mobile
+
+Historic Specialist
+
+Historic Specialist
+
+ERA Gold Star Property
+
+ERA Gold Star Property
+
+A Technology Brand
+
+A Technology Brand
+
+Acerca de ERA en Español
+
+Acerca de ERA en Español
+
+Buy & Sell the ERA Way
+
+Buy & Sell the ERA Way
+
+A World of Opportunities
+
+A World of Opportunities
+
+ERA Vision Statement
+
+ERA Vision Statement
+
+Technology Advantage
+
+Technology Advantage
+
+ERA Commitment to Service
+
+ERA Commitment to Service
+
+Advertising
+
+Advertising
+
+Niche Marketing Opportunities
+
+Niche Marketing Opportunities
+
+Joining the ERA Family
+
+Joining the ERA Family
+
+Customer Service
+
+Customer Service
+
+Newsroom & Corporate   Information
+
+Newsroom & Corporate   Information
+
+ERA History
+
+ERA History
+
+Corporate Sponsorship:   Muscular Dystrophy Association
+
+Corporate Sponsorship:   Muscular Dystrophy Association
+
+Resource Center
+
+Resource Center
+
+Find a Sales Associate
+
+Find a Sales Associate
+
+Find an Office
+
+Find an Office
+
+Find a Relocation   Specialist
+
+Find a Relocation   Specialist
+
+Become an ERA Sales   Associate
+
+Become an ERA Sales   Associate
+
+Become an ERA Franchise
+
+Become an ERA Franchise
+
+Contact ERA.com
+
+Contact ERA.com
+
+Join MyERA.com
+
+Join MyERA.com
+
+Resource Center
+
+Resource Center
+
+Member's Area - Login to   TeamERA.com
+
+Member's Area - Login to   TeamERA.com
 
 Introduction  
 We at **ERA Franchise Systems, Inc.** and the family of companies at Realogy Corporation, our owner, (referred to as " **ERA** " "we," "us," or "our") recognize the importance of protecting the privacy of certain information ("Information") collected about our customers and prospective customers (referred to as "Customers," "you" or "your"). This privacy statement discloses what information we gather, how we use it, and how to correct or change it. At **ERA** it is our intention to give you an understanding about how we collect your Information and the use we make of it in the course of our business. 
