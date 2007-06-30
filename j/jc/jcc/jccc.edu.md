@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jccc.edu privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206044503id_/http%3A//www.jccc.edu/home/depts/003100/site/website/tocindex/siteprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jccc.edu privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630231719id_/http%3A//www.jccc.edu/home/depts/003100/site/website/tocindex/siteprivacy) for the most accurate reproduction.*
 
 # JCCC::Web Site Privacy Policy
 
@@ -11,8 +11,6 @@ Overland Park, KS 66210-1299
 | 
 
 Web Site Privacy Policy 
-
-JCCC Web site privacy policy information 
 
 **B. PRIVACY POLICY**
 
