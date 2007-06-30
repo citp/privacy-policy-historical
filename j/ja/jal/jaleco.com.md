@@ -1,79 +1,149 @@
-> *The following text is extracted and transformed from the jaleco.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206055156id_/http%3A//jaleco.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaleco.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630182742id_/http%3A//customersupport.networksolutions.com/article.php%3Fid%3D306) for the most accurate reproduction.*
 
-# Site Privacy Policy - Jaleco Entertainment
+# Privacy Policy
 
-Jaleco Entertainment respects the privacy rights of our online visitors and is committed to protecting the information collected from you. To further this commitment, we have adopted an Online Privacy Policy that guides how we collect, use, and disclose the information you provide to Jaleco Entertainment online.
+#### Find Answers To Your Questions:
 
-This Privacy Policy currently applies to the following websites operated by Jaleco Entertainment:
+Search by keyword or browse by category for immediate answers to frequently asked questions: 
 
-[http://www.jaleco.com](http://www.jaleco.com/)
+### Privacy Policy
 
-[http://www.jaleco.co.uk](http://www.jaleco.co.uk/)
+**Why A Privacy Policy?**  
 
-[http://www.goblincommander.com](http://www.goblincommander.com/)
+  
+Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
 
-[http://fighterace.jaleco.com](http://fighterace.jaleco.com/)
+ **This Privacy Policy protects your privacy by:**
 
-[http://www.gobmail.com](http://www.gobmail.com/)
+ **Informing you about:**
 
-<http://lostcontinents.vr1.com/>
+  * The types of personal information Network Solutions collects about you through its Web sites; 
+  * How it collects that information; 
+  * The general purposes for which it collects such information; 
+  * The types of organizations to which it discloses the information; 
+  * The choices and means by which individuals may limit its use and disclosure. 
 
-<http://evernight.vr1.com/>
 
-In addition, Jaleco Entertainment may own several other domain names that point to the website listed above. From time to time, we may add new sites. 
 
-Please note that this Privacy Policy applies only to information submitted and collected online through the websites listed above, and does not apply to information that may be collected by Jaleco Entertainment offline. In addition, this Privacy Policy applies only to sites maintained by Jaleco Entertainment and not to websites maintained by our international affiliates or by other companies or organizations to which we link. When you link to these websites or to any other sites from a website operated by Jaleco Entertainment this Privacy Policy no longer applies. Jaleco Entertainment is therefore not responsible for the content or activities provided on such sites. 
+**Empowering you to choose:**
 
-_By using and submitting personal information to our website, you signify your assent to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use our website. We reserve the right to make changes to this Privacy Policy. Please check back from time to time to ensure that you are aware of these changes. Your continued use of our websites signifies your acceptance of these changes._
+  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and 
+  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it). 
 
-In order to give you the best experience on our site, Jaleco Entertainment may collect information about you. 
 
-To register on our site, we may ask you to provide personal information and/or to create a user name and password. We may also collect demographic information including your date of birth, occupation and interests, and the city in which you live. The information that you submit during registration will: (i) allow you to participate in other activities on our site (e.g., contests and sweepstakes, or game-specific events); and, (ii) allow us to send you, via email, news about products, features and enhancements, special offers, upgrade opportunities, and contents and events of interest. 
 
-The types of personal information collected in conjunction with the activities listed above will vary depending on the activity. The requested information may include: (i) your name, (ii) mailing address, (iii) telephone number, (iv) email address, and, for those purchasing products or services online, (v) credit card and billing information. 
+**Assuring you that Network Solutions:**
 
-For some activities, we may also ask you to provide other information such as: (i) your age or date of birth; (ii) your gender; (iii) your game and platform preferences; (iv) information about the hardware you may own and/or the game you may have recently purchased; (v) your favorite quotes, websites, and fan pages; and, (vi) other game-related information (collectively referred to as demographic information). If demographic information is collected for an activity that also requires personal information, we may combine your demographic information with your personal information. 
+  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction; 
+  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered; 
+  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and 
+  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate. 
 
-_Cookies_
 
-Jaleco Entertainment may use cookies to improve the use of our websites. A cookie is a small file or record-keeping device that websites often store on a user's computer. Storage of cookies on your system provides an easy and convenient method for us to personalize your experience on our websites. For example, cookies allow us to remember your screen name, tell us that you have visited our website before, and may contain information that will make your next visit to our website more enjoyable. However, we do not use cookies to store personal information. In addition, Jaleco Entertainment will not use cookies to retrieve information from your computer that was not originally sent in a cookie. You can always disable cookies or set your browser to alert you when cookies are being sent to your computer, but doing so may cause some features of our web sites not to function. 
 
-_IP Addresses_
+**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles. 
 
-Jaleco Entertainment may also collect your IP address for safety and security purposes. An IP address is a number that is used by computers on the network to identify your computer every time you log on to the Internet.
+  
+**Third Party Advertising and Cookies**
 
-_Log Files_
+We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit 
 
-Jaleco Entertainment also collects information in the form of logs ë files that record Web site activity, including how many "hits" a particular Web page is getting (a.k.a. "click-through data"). For example, log file entries are generated every time a visitor clicks an image on our site. These entries are generated anonymously, and enable Jaleco Entertainment to assess overall site activity, track interest in particular portions of our site, troubleshoot technical concerns, and identify the type of browser you are using. We may also use the log file entries for our internal marketing and demographic studies, so we can constantly improve the products and services we provide you. Log files are used internally only, and are not associated with any particular user or with any personal information.
+[http://www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy) and <http://www.accipiter.com/company/privacy.php>. 
 
-**How does Jaleco Entertainment use the information it collects?**
+Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click 
 
-In some instances, you may also be given the option to have your information used for an activity or service different from the activity or service that you are requesting (e.g., have your email address added to our newsletter mailing list when entering a contest). If you choose to receive these additional services, we will use your information to provide them to you. 
+[here](http://www.privacychoices.org/).   
+**Information Corrections or Changes**  
+You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at <https://www.networksolutions.com/en_US/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com). 
 
-We may use your email address to send you service announcements that tell you about updates to our Privacy Policy, changes in pricing, changes to our online service or customer service policies, and other related service changes. 
+**How We Put Information to Good Use**  
+We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
 
-In addition, information collected through one of the activities set forth above may be used for our internal marketing and demographic studies, so we can constantly improve the products and services we provide you and to better meet your needs. 
+We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
 
-Please be advised that information submitted by individuals acting solely in a business capacity (e.g., resume from job applicant) is not subject to this Privacy Policy. Jaleco Entertainment provides on its website an email address that visitors can use to send us their resumes. Personal information collected from resumes will be used for the purpose of accepting and evaluating candidate submissions for job postings and may be shared within our company. 
+Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
 
-No matter what method we use to collect information and no matter how we use that information, we will only collect the information reasonably related to fulfilling your online requests and our legitimate business objectives. 
+If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
 
-If you choose not to submit personal information when requested, you may not be able to participate in certain activities on our site and it may considerably limit the services we can provide you. To simply visit our site, however, you do not need to give us any personal information.
+Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
 
-The information that you disclose while visiting any of our websites is collected by Jaleco Entertainment, and is used in the manner specified above.
+ **Getting to Know Our Customers**
 
-Jaleco Entertainment may share your personal information with our parent, subsidiary, or affiliate companies for purposes of internal marketing and demographic studies, which help us improve and tailor the products and services we provide you. 
+Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
 
-Your personal information may also be shared with third parties so that they can either assist us in notifying you about special promotions or co-sponsor a promotion being offered on our site. We will inform you at the time of collection whether or not we will share the personal information collected as a result of your participation in a promotion.; We require all such third parties to maintain the information in accordance with this policy. If you do not want us to share your information, do not participate in the promotion or sweepstakes. 
+We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at 
 
-We may disclose personal information in the good faith belief that we are required to do so by law, or that doing so is reasonably necessary to comply with legal processes; respond to any claims; or, to protect the rights, property, or personal safety of Jaleco Entertainment, our customers, or the public. 
+[www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
 
-While you are on a website operated by Jaleco Entertainment, you may be directed to other sites that are beyond our control and for which we are not responsible. Because we cannot guarantee that the privacy policies of these websites meet our standards, we recommend that you read the privacy policy of the website to which you link before you submit any personal information to them.
+After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
 
-If you do not want Jaleco Entertainment or any third party with which we share information in accordance with this Privacy Policy to send you product updates and other company information, and/or if you prefer not to have Jaleco Entertainment share your personal information with third parties, please opt-out from these services at the time of registration or information collection. If you have opted-in and, at a later time, you wish to opt-out, please contact us, at any time, via e-mail at _[web-info@jaleco.com](mailto:web-info@Jaleco.com%00)_ , or by regular mail at Jaleco Entertainment, Attention: Website Administrator, 119 W. Tupper Street, Buffalo, NY 14202. We will be happy to honor your request. If you wish to update or delete any other personal information that we may have collected about you, please contact us via e-mail at _[web-info@jaleco.com](mailto:web-info@jaleco.com%00)_ , or by regular mail at Jaleco Entertainment, Attention: Website Administrator, 119 W. Tupper Street, Buffalo, NY 14202.
+For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
 
-Jaleco Entertainment maintains appropriate safeguards that ensure the security, integrity and privacy of the personal information we collect from all users. Personal information collected by Jaleco Entertainment is stored in secure operating environments that are not available to the public and are only accessible by authorized employees. We also have security measures in place to protect the loss, misuse and alteration of the information under our control (i.e., maintain data quality). 
+The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates. 
 
-**How do I ask a question?**
+**With Whom We May Share Information**  
+Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
 
-If you have any questions or comments regarding our Privacy Policy Statement or practices, please contact us via email at _[web-info@jaleco.com](mailto:web-info@jaleco.com)_ , or by regular mail at Jaleco Entertainment, Attention: Website Administrator, 119 W. Tupper Street, Buffalo, NY 14202. 
+When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. 
+
+We may share certain information about you with our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors when necessary and appropriate, we will not share such information with any other third parties unless directed by you or except in response to formal requests in the form of a subpoena or court order issued in connection with civil or criminal proceedings related to a domain name registration or other services we provide, or in response to requests by law enforcement agencies when we suspect that you or your agent is using our services to cause harm or damage to us or others or adversely affect our ability to provide services to our customers
+
+Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
+
+a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/manage-it/);
+
+b. Click “Edit User Info” in the left menu;
+
+c. Scroll to the bottom of the page;
+
+d. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and
+
+e. Click “SAVE.”
+
+  
+Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
+
+ **How Do I Get My Name Removed from Bulk Access**  
+As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
+
+a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com);
+
+b. Click “Edit User Info” in the left menu;
+
+c. Scroll to the bottom of the page;
+
+d. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and
+
+e. Click “SAVE.” 
+
+**Our Accountability to You**  
+By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
+
+In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below. 
+
+**Employee Accountability**  
+Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
+
+Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access. 
+
+**The Accountability of Network Solutions' Agents and Business Partners**  
+Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
+
+If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at 
+
+[privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
+
+Network Solutions, LLC  
+Attention: General Counsel  
+13861 Sunrise Valley Dr   
+Suite 300   
+Herndon VA 20171   
+United States  
+(703) 668-4600 
+
+**Notification of Changes**  
+We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to 
+
+[privacy@networksolutions.com](mailto:privacy@networksolutions.com).
+
+ **If you have any questions regarding this Privacy Policy, please contact[ privacy@networksolutions.com](mailto:privacy@networksolutions.com).**
