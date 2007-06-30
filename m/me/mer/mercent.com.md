@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercent.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214075419id_/http%3A//www.mercent.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercent.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630213316id_/http%3A//www.mercent.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Mercent Corporation - Privacy Policy
 
@@ -79,4 +79,4 @@ Mercent reserves the right to change the provisions of this privacy policy at an
   
 **Contact Us**
 
-If you have any questions about the Mercent software, our Web site, company or service, you should first consult our Web site <http://www.mercent.com/>. This site includes links to company information, answers to frequently asked questions, and all of Mercent's current policies. If you have further questions or concerns, please contact us at <http://www.mercent.com/contactus.aspx>, or write to Mercent Support, 83 S. King Street, Suite 415 Seattle, WA 98104. 
+If you have any questions about the Mercent software, our Web site, company or service, you should first consult our Web site <http://www.mercent.com/>. This site includes links to company information, answers to frequently asked questions, and all of Mercent's current policies. If you have further questions or concerns, please contact us at <http://www.mercent.com/contactus.aspx>, or write to Mercent Support, 2505 2nd Avenue, Suite 405 Seattle, WA 98121. 
