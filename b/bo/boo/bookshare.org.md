@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookshare.org privacy policy that was archived on 2006-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061101020351id_/http%3A//www.bookshare.org/web/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookshare.org privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630232212id_/http%3A//www.bookshare.org/web/Privacy.html) for the most accurate reproduction.*
 
 # Bookshare.org - Privacy Policy
 
@@ -96,36 +96,38 @@ If we change our Privacy Policy, we will post those changes on our website so ou
 
 |   |  |   |   |   |   |    
 ---|---|---|---|---  
-| | Books  
+|  | Books  
 | [Simple Search](http://www.bookshare.org/web/BooksBySimpleSearch.html)  
 | [Advanced Search](http://www.bookshare.org/web/BooksByAdvancedSearch.html)  
+| [International Searching](http://www.bookshare.org/web/AboutInternationalMembership.html)  
 | [Browse Books](http://www.bookshare.org/web/BrowseBooks.html)  
 | [Embossed Braille](http://www.bookshare.org/web/AboutBrailleBooks.html)  
 | [Submit a Book](http://www.bookshare.org/web/MembersSubmit.html?display=1)  
-   
-| | Periodicals  
 | [Newspapers and Magazines](http://www.bookshare.org/web/MembersPeriodicals.html)  
    
-| | Members  
+|  | Members  
 | [About Membership](http://www.bookshare.org/web/AboutMembership.html)  
 | [Individual Subscriptions](http://www.bookshare.org/web/AboutIndividualSubscriptions.html)  
-| [School and Group Accounts](http://www.bookshare.org/web/AboutGroupAccounts.html)  
 | [Join](http://www.bookshare.org/web/AboutMembership.html)  
-| [Log In](https://www.bookshare.org/web/MembersLogin.html)  
    
-|  | Volunteers  
+|  | Schools and Groups  
+| [About](http://www.bookshare.org/web/SupportOrgSignUpInfo.html)  
+| [Create a School or Group account](http://www.bookshare.org/web/MembersOrganizationJoinForm.html?join=Create+a+School+or+Group+Account)  
+| [School and Group Resources](http://www.bookshare.org/web/OrgResources.html)  
+| [Membership Costs](http://www.bookshare.org/web/AboutOrganizations.html)  
+| [Contact for School and Group Accounts](http://www.bookshare.org/web/OrgContact.html)  
+   
+|   | Volunteers  
 | [About Volunteering](http://www.bookshare.org/web/AboutVolunteering.html)  
    
-| | Support  
+|  | Support  
 | [Help](http://www.bookshare.org/web/MembersSupport.html)  
 | [Frequently Asked Questions](http://www.bookshare.org/web/SupportFAQ.html)  
 | [Download Tools](http://www.bookshare.org/web/MembersDownloads.html)  
-| [For Schools](http://www.bookshare.org/web/MembersSchools.html)  
 | [For Authors and Publishers](http://www.bookshare.org/web/SupportAuthorsPublishers.html)  
-| [For International Visitors](http://www.bookshare.org/web/AboutInternationalMembership.html)  
 | [Resources](http://www.bookshare.org/web/Resources.html)  
    
-| | About Bookshare.org  
+|  | About Bookshare.org  
 | [About Us](http://www.bookshare.org/web/SupportAboutUs.html)  
 | [Demo](http://www.bookshare.org/web/BookshareInfo.html)  
 | [Press Room](http://www.bookshare.org/web/PressRoom.html)  
@@ -135,4 +137,14 @@ If we change our Privacy Policy, we will post those changes on our website so ou
 | [Contact Us](http://www.bookshare.org/web/SupportContactUs.html)  
    
 | [Home](http://www.bookshare.org/web/index.html)  
- 
+   
+  
+  | 
+
+Bookshare.org was created and is maintained by Benetech, a nonprofit organization, and is [Bobby-approved](http://www.cast.org/bobby/).  
+Copyright © 2001-2007, Beneficent Technology, Inc. (The Benetech Initiative)  
+All other product names are the trademarks of their respective manufacturers. 
+
+The Bookshare trademark is used under license from its registered owner, Follett Library Resources division of Follett Corporation. 
+
+|   | [](http://www.benetech.org/)
