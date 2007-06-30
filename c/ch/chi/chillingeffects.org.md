@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chillingeffects.org privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205230226id_/http%3A//chillingeffects.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chillingeffects.org privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630044755id_/http%3A//chillingeffects.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : Chilling Effects Clearinghouse
 
@@ -13,6 +13,8 @@ We collect only two kinds of information on the Chilling Effects website: (1) An
 > Our server may record the numerical Internet protocol (IP) address of the computer you are using; the browser software you use and your operating system; the date and time you access our site; and the Internet address of the web site from which you linked directly to our site. 
 > 
 > We use this information to measure the number of visitors to different sections of the site, to diagnose and correct system errors, and to improve the site. We delete this information after one month. We do not connect this information to your name or identity. 
+> 
+> If your browser sends referer information to our site, we may use that information to provide you with further viewing options and may aggregate that anonymous data for research purposes. We will not link referer information to your IP address.
 > 
 > We do _not_ use "cookies" on this site. 
 
@@ -44,7 +46,7 @@ We collect only two kinds of information on the Chilling Effects website: (1) An
 > 
 > _If you send us an email asking for further information:_
 >
->> If you use the email contact addresses for the clinics that are identified on the web site (as listed on the ["about us" page](https://web.archive.org/web/20061205230226id_/http%3A//chillingeffects.org/about.cgi)), your email will go directly to an attorney at the clinic. If this email seeks legal advice, we believe that it will be protected by the confidentiality provisions of the attorney-client privilege in the states where the clinics are located. We will not use or disclose this information for any other purpose unless compelled by law. (see below) 
+>> If you use the email contact addresses for the clinics that are identified on the web site (as listed on the ["about us" page](https://web.archive.org/web/20070630044755id_/http%3A//chillingeffects.org/about.cgi)), your email will go directly to an attorney at the clinic. If this email seeks legal advice, we believe that it will be protected by the confidentiality provisions of the attorney-client privilege in the states where the clinics are located. We will not use or disclose this information for any other purpose unless compelled by law. (see below) 
 > 
 > _If you want to get information about you that may be in our records, or if you want us to correct or remove such information_ : 
 >
@@ -68,11 +70,13 @@ We collect only two kinds of information on the Chilling Effects website: (1) An
 >  [University of Maine School of Law](http://tlc.usm.maine.edu/)  
 >  [USF Law School - IIP Justice Project](http://www.internetjustice.org/)
 > 
-> Contact information for the individual clinics is listed on the ["about us" page](https://web.archive.org/web/20061205230226id_/http%3A//chillingeffects.org/about.cgi). 
+> Contact information for the individual clinics is listed on the ["about us" page](https://web.archive.org/web/20070630044755id_/http%3A//chillingeffects.org/about.cgi). 
 > 
 > If you experience technical problems with the operation of this web site, please contact [webmaster@chillingeffects.org](mailto:webmaster@chillingeffects.org). 
 
 This web site links to documents located on web sites maintained by other organizations. We do not control the content of those sites. When you access a document on another web site, you are subject to the privacy policy of that web site. 
+
+Last updated: March 21, 2007
 
 |   
 
