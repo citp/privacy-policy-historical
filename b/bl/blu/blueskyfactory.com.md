@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blueskyfactory.com privacy policy that was archived on 2006-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061107094951id_/http%3A//blueskyfactory.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueskyfactory.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630231625id_/http%3A//www.blueskyfactory.com/privacy.asp) for the most accurate reproduction.*
 
 # Blue Sky Factory :: Premium Email Service Providers
 
