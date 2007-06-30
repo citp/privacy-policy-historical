@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsite.co.uk privacy policy that was archived on 2006-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061203015031id_/http%3A//www.jobsite.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsite.co.uk privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630025322id_/http%3A//www.jobsite.co.uk/privacy) for the most accurate reproduction.*
 
 # Jobsite UK Privacy statement
 
