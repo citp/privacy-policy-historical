@@ -1,23 +1,8 @@
-> *The following text is extracted and transformed from the awm.gov.au privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207232157id_/http%3A//www.awm.gov.au/website/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awm.gov.au privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630234627id_/http%3A//www.awm.gov.au/website/privacy.htm) for the most accurate reproduction.*
 
 # Australian War Memorial
 
-[](https://web.archive.org/aboutus/index.htm)  
-[](https://web.archive.org/commemoration/index.htm)  
-[](https://web.archive.org/atwar/index.htm)  
-[](https://web.archive.org/research/index.htm)  
-[](https://web.archive.org/database/biographical.asp)  
-[](https://web.archive.org/database/collection.asp)  
-[](https://web.archive.org/education/index.htm)  
-[](https://web.archive.org/events/index.htm)  
-[](https://web.archive.org/services/index.htm)  
-[](https://web.archive.org/corporate/index.htm)  
-[](https://web.archive.org/friends/index.htm)  
-[](https://web.archive.org/shop/index.asp)
-
-| 
-
-In accordance with the [Guidelines for Federal and ACT Government World Wide Websites](http://www.privacy.gov.au/issues/p7_2.html) issued by the Australian Privacy Commissioner, the Australian War Memorial provides the following privacy statements.
+In accordance with the [Guidelines for Federal and ACT Government World Wide Websites](http://www.privacy.gov.au/internet/web/index.html) issued by the Australian Privacy Commissioner, the Australian War Memorial provides the following privacy statements.
 
 ### Site visit data
 
@@ -59,8 +44,4 @@ We will not use your personal details for any other purpose, and will not disclo
 
 ### Security
 
-The Memorial wants to ensure that you can purchase online with complete confidence. The Memorial's online purchasing technology uses the National Australia Bank's Secure Internet Payment Service. This employs SSL technology with 128 bit encryption and ensures that your card details are only accessible by NAB, not by the Memorial, and are stored behind their security firewall. For more information go to <http://www.national.com.au/Business_Solutions/0,,23513,00.html>
-
-### Red Sheriff
-
-The Memorial has contracted RedSheriff to collect statistics about website usage. For more information about Red Sheriff , the RedSheriff auditing system and RedSheriff's privacy policy see the [RedSheriff website](http://www.redsheriff.com/au/%20).
+The Memorial wants to ensure that you can purchase online with complete confidence. The Memorial's online purchasing technology uses the National Australia Bank's Secure Internet Payment Service. This employs SSL technology with 128 bit encryption and ensures that your card details are only accessible by NAB, not by the Memorial, and are stored behind their security firewall. For more information go to [NAB Credit Card Security](http://www.nab.com.au/Personal_Finance/0,,29254,00.html).
