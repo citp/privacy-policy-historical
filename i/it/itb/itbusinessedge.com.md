@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itbusinessedge.com privacy policy that was archived on 2006-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061227133526id_/http%3A//www.itbusinessedge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itbusinessedge.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630033525id_/http%3A//www.itbusinessedge.com/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy | IT Business Edge
 
@@ -12,6 +12,9 @@ When you register with IT Business Edge you supply some personal information, in
 2\. How is Collected Information Used?  
 We use the personal information you supply to provide you with valuable information that is relevant to your professional interests. The information you receive via e-mail in our weekly reports is customized according to what you tell us about your top IT priorities. Based on information you share with us, we will also send you updates about white papers, research, training materials, templates and software tools available to our members. Many of these resources are free, and some are offered at special discounts for IT Business Edge subscribers.
 
+|   
+---|---  
+  
 3\. Protecting Your Information  
 IT Business Edge never shares your personal information with anyone without your permission. For example, some free content available to our subscribers, such as white papers and research reports, requires that you share specific personal information with the publisher or sponsor of that content. In such instances, you are notified before you download or view the content of the specific information required and of exactly whom will receive it. Some premium products we offer for sale, such as printed books or CD-ROMS, are actually delivered by their publishers. By purchasing such a product, you give us permission to share your address and other required information with the publisher, with whom you begin a separate business relationship. If you elect to receive them, IT Business Edge will also send you special offers of various types from select partners. Each offer is screened by the IT Business Edge staff to ensure its relevance and is physically sent by us, not by the offering partner. The only way the partner will receive any of your information is if you provide it while responding to the offer. Finally, by subscribing to IT Business Edge you implicitly give us permission to share your information with vendors who are essential in the delivery of services and features included in your subscription. For example, our Web-hosting and e-mail delivery vendors may need to store your information on their servers while helping us send you your weekly reports. However, these essential vendors will use your personal information only as needed to deliver products and services which you have requested or purchased from IT Business Edge.
 
