@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cheaptickets.com privacy policy that was archived on 2006-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061226035911id_/http%3A//www.cheaptickets.com/pagedef/content/legal/privacy05.jsp%3FpopupsDisabled%3Dfalse) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheaptickets.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630123646id_/http%3A//www.cheaptickets.com/pagedef/content/legal/privacy05.jsp%3FpopupsDisabled%3Dfalse) for the most accurate reproduction.*
 
 # CheapTickets: Privacy Policy
 
 [](http://www.truste.org/ivalidate.php?url=www.cheaptickets.com&sealid=101)
 
-Effective May 20, 2006
+Effective December 04, 2006
 
 ## CheapTickets® Privacy Policy
 
