@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poi-factory.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213215906id_/http%3A//www.poi-factory.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poi-factory.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630191158id_/http%3A//www.poi-factory.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | POI Factory
 
@@ -15,6 +15,3 @@ Like many web sites, we sometimes work with Google, Amazon, or other third parti
 **Children's Online Policy**
 
 POI Factory does not knowingly collect information about children or sell products to children. In accordance with the Children's Online Privacy Protection Act, we will not knowingly collect any information from children under the age of 13. If you are under the age of 13, you must ask your parent or guardian to assist you in using this web site.
-
-  
-
