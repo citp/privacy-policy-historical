@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickability.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214163845id_/http%3A//www.clickability.com/misc/317.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickability.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630142051id_/http%3A//www.clickability.com/misc/317.html) for the most accurate reproduction.*
 
 # Clickability -- web content management software-as-a-service
 
@@ -35,8 +35,7 @@ IP addresses may be logged to track a user's session. An IP address is the uniqu
 
 Clickability uses links throughout its Web Site to provide a visitor with the opportunity to contact us via email for a variety of purposes (including business development, general inquiries and human resource inquires). Clickability may file information from emails, review and discard the information, and share this information with third parties. Human resource information will not be shared with a third party without the express consent of the individual. 
 
-Finally, Clickability also collects and uses information in the context of the Internet infrastructure services it provides to its clients. The following is a link to the Clickability privacy statement that applies to all Clickability Services:   
-www.savethis.com/st/displayPrivacyPolicy 
+Finally, Clickability also collects and uses information in the context of the Internet infrastructure services it provides to its clients. The Clickability [Privacy Policy](http://www.savethis.clickability.com/st/displayPrivacyPolicy) applies to all Clickability Services.
 
 Clickability employs industry standard physical and computer security practices in order to protect the information it collects and stores. Clickability will disclose information (both personally identifiable and in the aggregate form) if legally required by subpoena, warrant or other legal process that Clickability finds, in its sole discretion, to be valid and enforceable. 
 
