@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the doc.gov privacy policy that was archived on 2006-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061227094505id_/http%3A//www.commerce.gov/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doc.gov privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630161758id_/http%3A//www.commerce.gov/privacystatement.html) for the most accurate reproduction.*
 
-# Department of Commerce Home Page -
+# Department of Commerce Privacy Policy
 
 Thank you for visiting the Department of Commerce Web site, a service of the U.S. Department of Commerce. This policy establishes how we will handle information we learn about you from your visit to our site. Please be assured that the privacy of our visitors is of utmost importance to us. **We collect no personally identifiable information about you when you visit our site unless you choose to provide that information to us.**
 
