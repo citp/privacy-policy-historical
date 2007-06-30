@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northwesternmutual.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206005734id_/http%3A//www.nmfn.com/tn/global--privacy_statement_pg) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northwesternmutual.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630134541id_/http%3A//www.nmfn.com/tn/global--privacy_statement_pg) for the most accurate reproduction.*
 
 # NMFN: Online Privacy Statement
 
