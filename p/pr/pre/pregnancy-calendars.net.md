@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pregnancy-calendars.net privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216075352id_/http%3A//www.pregnancy-calendars.net/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pregnancy-calendars.net privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630033549id_/http%3A//www.pregnancy-calendars.net/policy.html) for the most accurate reproduction.*
 
 # Pregnancy Calendar Privacy Policy
 
 **OVERVIEW**
 
-This privacy policy describes the information we collect through the Pregnancy-Calendars.Net website, and how we use and protect it. Our privacy policy may be updated to meet the needs of consumers and Partners. We will always post our most current privacy policy on the Web Site. Any changes to our privacy policy will be effective upon posting pursuant to our notification of changes section. By using the Web Site, you are agreeing to accept the terms of our privacy policy as currently posted on the Web Site. If you have any questions about our privacy policy, please [**contact us**](https://web.archive.org/web/20061216075352id_/http%3A//www.pregnancy-calendars.net/about.html). 
+This privacy policy describes the information we collect through the Pregnancy-Calendars.Net website, and how we use and protect it. Our privacy policy may be updated to meet the needs of consumers and Partners. We will always post our most current privacy policy on the Web Site. Any changes to our privacy policy will be effective upon posting pursuant to our notification of changes section. By using the Web Site, you are agreeing to accept the terms of our privacy policy as currently posted on the Web Site. If you have any questions about our privacy policy, please [**contact us**](https://web.archive.org/web/20070630033549id_/http%3A//www.pregnancy-calendars.net/about.html). 
 
 **GENERAL PROVISIONS**
 
@@ -28,7 +28,7 @@ The personally identifiable information we receive from Pregnancy-Calendars.Net 
 
 Contact Us and Feedback Forms.
 
-Pregnancy.org collects contact information, like your email address, on [**About Us**](https://web.archive.org/web/20061216075352id_/http%3A//www.pregnancy-calendars.net/about.html). The personally identifiable information that we collect from these forms is used to better understand your needs and provide you with the type of services and information that you may be interested in. We may store such information to be used for future mailings or to otherwise contact you.
+Pregnancy-Calendars.Net collects contact information, like your email address, on [**About Us**](https://web.archive.org/web/20070630033549id_/http%3A//www.pregnancy-calendars.net/about.html). The personally identifiable information that we collect from these forms is used to better understand your needs and provide you with the type of services and information that you may be interested in. We may store such information to be used for future mailings or to otherwise contact you.
 
 **OTHER PROVISIONS**
 
