@@ -1,40 +1,6 @@
-> *The following text is extracted and transformed from the media-match.com privacy policy that was archived on 2006-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061014211320id_/http%3A//www.media-match.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the media-match.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630220654id_/http%3A//www.media-match.com/privacy.php) for the most accurate reproduction.*
 
 # media-match | directory of film and tv jobs in us
-
-|  
-
-[](http://www.media-match.com/welcome.php)
-
-| [AV Installation Engineer](http://www.media-match.com/jobsboard_detail.php?job_uid=567371&)  
----  
-[AV Technology Manager](http://www.media-match.com/jobsboard_detail.php?job_uid=567370&)  
-[Director of Acquisitions](http://www.media-match.com/jobsboard_detail.php?job_uid=567369&)  
-[Director, Online Data ...](http://www.media-match.com/jobsboard_detail.php?job_uid=567368&)  
-[Production Associate](http://www.media-match.com/jobsboard_detail.php?job_uid=567367&)  
-[Cinema 4D and After Ef...](http://www.media-match.com/jobsboard_detail.php?job_uid=567366&)  
-[Production Mgr, Spec. ...](http://www.media-match.com/jobsboard_detail.php?job_uid=567365&)  
-[Casting Field Producer...](http://www.media-match.com/jobsboard_detail.php?job_uid=567364&)  
-[1st A.C. and Camera Op...](http://www.media-match.com/jobsboard_detail.php?job_uid=567363&)  
-[Director of Photography](http://www.media-match.com/jobsboard_detail.php?job_uid=567362&)  
-[...297 on jobsboard now!](http://www.media-match.com/jobsboard.php "view jobs")  
-[370 posted in last 30 days](http://www.media-match.com/jobsboard.php "view jobs")  
-  
-Manning Productions  
----  
-Bruce Parks on Line  
-[A Pig and Duck Go Shop...](http://www.media-match.com/edirectory_view.php?uid=647622)  
-Panoram Technologies  
-Current TV  
-Voom HD/Rainbow Media  
-The Montel Williams Show  
-RDF USA  
-Smart Productions  
-Half Yard Productions  
-[companies registered: 14,406](http://www.media-match.com/edirectory_search.php)  
- 
-
-|  
 
 Privacy Policy
 
@@ -51,13 +17,8 @@ In addition to the options made available to you, if any, when we collect inform
 Attention : Privacy Manager  
 Address : media-match, 714 Nth La Brea, Los Angeles, CA 90038  
 
+
+
 Registered users of the media-match site who choose to opt out will have their details remove from all media-match lists and access correspondingly terminated.
 
-We will update the specific records related to your request as promptly as practical. Note, however, that you may receive additional communications from third parties after you submit your request while we process the request. Additionally, your information may exist in multiple lists within the company and our technology limits the processing of opt out requests to the specific list source. We will continuously assess our responsiveness to opt out requests against new technologies, business practices and our customers' needs.  
-
-If you have any difficulties using this site please [contact us](mailto:info@media-match.com) on 323 932 7885
-
-Media-Match US Ltd, all use subject to [Terms](http://www.media-match.com/disclaimer.php). [Privacy Policy](http://www.media-match.com/privacy.php).  
-| [film & tv](http://www.media-match.com/) | [music](http://www.music-jobs.com/) | [journalism](http://www.journalistusa.com/) | [marketing](http://www.marketing-match.com/) | [photography](http://www.photography-match.com/) | [interactive entertainment](http://www.games-match.com/) |
-
-|  |   [](http://www.media-match.com/gadvert_link.php?uid=163) [](http://www.media-match.com/gadvert_link.php?uid=160) [](http://www.media-match.com/gadvert_link.php?uid=162) | 
+We will update the specific records related to your request as promptly as practical. Note, however, that you may receive additional communications from third parties after you submit your request while we process the request. Additionally, your information may exist in multiple lists within the company and our technology limits the processing of opt out requests to the specific list source. We will continuously assess our responsiveness to opt out requests against new technologies, business practices and our customers' needs.
