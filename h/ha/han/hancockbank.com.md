@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hancockbank.com privacy policy that was archived on 2006-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061029050921id_/http%3A//hancockbank.com/home/home_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hancockbank.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630200541id_/http%3A//www.hancockbank.com/home/home_privacy.asp) for the most accurate reproduction.*
 
 # Hancock Bank
 
@@ -10,7 +10,7 @@
   
 **PRIVACY POLICY NOTICE**
 
-For over a century, we have forged customer relationships built on strength, stability, integrity, and service. Hancock Holding Company is made up of a number of affiliated companies including Hancock Bank, Hancock Bank of Louisiana, Hancock Bank of Florida, Hancock Investment Services, Inc., Hancock Insurance Agency (including, Ross-King-Walker and J. Everett Eaves, Inc.), Harrison Life Insurance Company, Harrison Finance Company, and Magna Insurance Company (an "Affiliate" or the "Affiliates" or "we", "our" and "us", which will refer to all Affiliates or to a particular Affiliate as is appropriate in the context), that work together in bringing you products and services to meet your financial needs. In choosing our financial products and services, you entrust us with financial information that is personally identifiable to you and not otherwise publicly available ("Confidential Information"). We honor your trust by protecting the privacy and security of Confidential Information that you and others share with us. We believe you should know how we collect, use and safeguard such personal information and what your options are as a valued customer of one of America's strongest, safest full-service financial institutions. This Privacy Policy shall replace and supersede any of our previous privacy notices or policies or other provisions relating to privacy matters. 
+For over a century, we have forged customer relationships built on strength, stability, integrity, and service. Hancock Holding Company is made up of a number of affiliated companies including Hancock Bank (Mississippi), Hancock Bank of Louisiana, Hancock Bank of Florida, Hancock Bank of Alabama, Hancock Investment Services, Inc., Hancock Insurance Agency (including, J. Everett Eaves, Inc.), Harrison Finance Company, and Magna Insurance Company (an "Affiliate" or the "Affiliates" or "we", "our" and "us", which will refer to all Affiliates or to a particular Affiliate as is appropriate in the context), that work together in bringing you products and services to meet your financial needs. In choosing our financial products and services, you entrust us with financial information that is personally identifiable to you and not otherwise publicly available ("Confidential Information"). We honor your trust by protecting the privacy and security of Confidential Information that you and others share with us. We believe you should know how we collect, use and safeguard such personal information and what your options are as a valued customer of one of America's strongest, safest full-service financial institutions. This Privacy Policy shall replace and supersede any of our previous privacy notices or policies or other conflicting provisions relating to privacy matters. 
 
 **Collecting And Using Confidential Information To Serve Your Needs  
 **We gather Confidential Information from a variety of sources and use such information in order to: (i) administer our relationships with you; (ii) provide you with efficient customer service; and (iii) help us identify and determine your eligibility for other financial products and services that may be of value to you. We may collect the following Confidential Information about you from the following sources:
@@ -32,7 +32,7 @@ We continually strive to maintain complete and accurate information on you and y
 We primarily share Confidential Information about you so that we may provide you with the financial products and services that you want and expect. In order to protect your privacy, we carefully control our sharing of any such information. We will not disclose any Confidential Information to anyone, except as outlined below or as permitted or required by law. Furthermore, when serving you in a fiduciary capacity, such as a trustee, we often observe limitations on sharing Confidential Information that are stricter than those set forth below. 
 
 **_Sharing Information Within Hancock_**  
-In order to provide you with greater access to financial products and services, we share Confidential Information between the Affiliates within our corporate family, which includes financial service providers such as Hancock Bank and Hancock Bank of Louisiana, Hancock Bank of Florida, Hancock Investment Services, Inc., Hancock Insurance Agency (including, Ross-King-Walker and J.Everett Eaves, Inc.), Harrison Life Insurance Company, Harrison Finance Company, and Magna Insurance Company. To this end, we may share amongst these Affiliates all the Confidential Information that we collect as more fully explained in that section titled "Collecting and Using Confidential Information To Service Your Needs." However, you can opt out of our sharing Confidential Information with our Affiliates as discussed in greater detail later in this notice. 
+In order to provide you with greater access to financial products and services, we share Confidential Information between the Affiliates within our corporate family, which includes financial service providers such as Hancock Bank (Mississippi), Hancock Bank of Louisiana, Hancock Bank of Florida, Hancock Bank of Alabama, Hancock Investment Services, Inc., Hancock Insurance Agency (including, J.Everett Eaves, Inc.), Harrison Finance Company, and Magna Insurance Company. To this end, we may share amongst these Affiliates all the Confidential Information that we collect as more fully explained in that section titled "Collecting and Using Confidential Information To Service Your Needs." However, you can opt out of our sharing Confidential Information with our Affiliates as discussed in greater detail later in this notice. 
 
 **_Sharing Information Outside Hancock_**  
 We do not sell Confidential Information about you to nonaffiliated third parties. 
@@ -59,13 +59,13 @@ Programs Under The Fair Credit Reporting Act**
 
 
 
-and these other Affiliates may market their financial products and services to you.
+and these other Affiliates may use this information in marketing their financial products and services to you.
 
 **Shared With Whom**  
 Affiliates within our corporate family that may receive this information include financial service providers such as banks, securities broker-dealers and insurance companies. 
 
 **How To Tell Us Not To Share This Information With Our Affiliates  
-**If you prefer that we do not share this information with our Affiliates, you may opt out of this sharing, that is, you may direct us not to share this information by calling us toll free at 1-888-416-4502. Also, you may write us at Hancock Bank, Attn: Privacy Officer, Post Office Box 4019, Gulfport, MS 39502 and provide us with your name, address and social security number.
+**If you prefer that we do not share this information with our Affiliates, you may opt out of this sharing, that is, you may direct us not to share this information by calling us toll free at **1-888-416-4502**. Also, you may write us at **Hancock Bank, Attn: Privacy Officer, Post Office Box 4019, Gulfport, MS 39502** and provide us with your name, address and social security number.
 
 **Impact of An Opt-Out On Direct Marketing**  
 Your decision to opt-out is also a request not to receive future marketing offers from us by direct mail, telephone, and/or e-mail. Even if you opt-out, you will continue to be contacted as necessary to service your account, be contacted by your account representative, and receive marketing information included with your regular account mailings and statements.
@@ -96,12 +96,12 @@ This Privacy Policy applies to all affiliated companies within the Hancock Holdi
 
 
 **Hancock Holding Company Family  
-**Hancock Bank  
+**Hancock Bank (Mississippi)  
 Hancock Bank of Louisiana  
 Hancock Bank of Florida  
+Hancock Bank of Alabama  
 Hancock Investment Services, Inc.  
-Hancock Insurance Agency (Including, Ross-King-Walker and J. Everett Eaves, Inc.)  
-Harrison Life Insurance Company  
+Hancock Insurance Agency (Including, J. Everett Eaves, Inc.)  
 Harrison Finance Company  
 Magna Insurance Company
 
@@ -112,7 +112,7 @@ Magna Insurance Company
 
 At Hancock Bank, we take the issue of privacy very seriously. We want to assure visitors to our Web site the security, privacy and confidentiality that they expect from a premier financial services institution. You can be sure that our commitment to protect your financial information will continue under the principles and online guidelines described below. 
 
-**Information Collected General**  
+**Information Collected Generally**  
 Hancock Bank does not collect any personal information from anyone who is merely visiting or browsing its Web site. Personal information may be requested if the visitor chooses to respond to online surveys, send Hancock Bank an e-mail message, apply for products and services online, or use Hancock Bank's on-line banking product. 
 
 **E-mail and Product Inquiry**  
@@ -143,7 +143,7 @@ A cookie is a small piece of information about an Internet session that may be c
 
 
 
-* **Except for Online Banking-HandyNet.** Please refer to [Online Banking FAQ](https://web.archive.org/web/20061029050921id_/http%3A//hancockbank.com/banking/faq_online.html) for more information regarding the use of Cookies with Online Banking. 
+* **Except for Online Banking-HandyNet.** Please refer to [Online Banking FAQ](https://web.archive.org/web/20070630200541id_/http%3A//www.hancockbank.com/banking/faq_online.html) for more information regarding the use of Cookies with Online Banking. 
 
 ** Use of Information Collected **  
 Hancock Bank uses the information collected from visitors to its Web sites to address the specific needs of those visitors and to provide better customer service, including the provision of the latest information regarding Hancock Bank products. The information collected also is used to provide a record of communications between Hancock Bank and its Web site visitors and to comply with any applicable legal and/or regulatory requirements. 
@@ -186,4 +186,4 @@ Visitors having specific questions regarding any information may e-mail Hancock 
   
   
   
-[Click Here](https://web.archive.org/home/ob_poll.asp)
+[Click Here](https://web.archive.org/web/20070630200541id_/http%3A//www.hancockbank.com/home/ob_poll.asp)
