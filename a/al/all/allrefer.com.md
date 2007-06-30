@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allrefer.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019132717id_/http%3A//www.allrefer.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allrefer.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630185756id_/http%3A//www.allrefer.com/privacy.html) for the most accurate reproduction.*
 
 # AllRefer.com - Privacy Statement
 
@@ -15,7 +15,7 @@ However, we may collect and store certain information automatically. This inform
 • [](http://www.adam.com/home/editorialexcellence/contentreview.asp)Web address of the site from which you linked directly to our site.   
 • [](http://www.adam.com/home/editorialexcellence/contentreview.asp)Browser version and operating system of the computer you are using. 
 
-We may use the summary statistics to help us make our site more useful to visitors, such as assessing what information is of most and least interest to visitors, and for other purposes such as determining the site’s technical design specifications and identifying system performance or problem areas. 
+We may use the summary statistics to help us make our site more useful to visitors, such as assessing what information is of most and least interest to visitors, and for other purposes such as determining the site�s technical design specifications and identifying system performance or problem areas. 
 
 ##### Cookies
 
