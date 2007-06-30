@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hebcal.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205222814id_/http%3A//www.hebcal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hebcal.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630194941id_/http%3A//www.hebcal.com/privacy) for the most accurate reproduction.*
 
 # hebcal.com Privacy Policy
 
@@ -18,7 +18,7 @@ We collect aggregate information on what pages consumers access or visit.
 
 The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, not shared with other organizations for commercial purposes.
 
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.
+With respect to Ad Servers: We use Google AdSense to display advertisements on some pages on this website.
 
 This site contains links to other sites containing information about holidays and Torah/Haftarah readings. **hebcal.com** is not responsible for the privacy practices or the content of such Web sites.
 
@@ -113,5 +113,5 @@ The following explanation is provided for why this data is collected:
 
 * * *
 
-Copyright © 2006 Michael J. Radwin. All rights reserved. [Help](http://www.hebcal.com/help/) \- [Contact](http://www.hebcal.com/contact/) \- [News](http://www.hebcal.com/news/) \- [Donate](http://www.hebcal.com/donations/)   
-Last modified: Tue Nov 21 13:34:47 PST 2006  ($Revision: 1.23 $) 
+Copyright © 2007 Michael J. Radwin. All rights reserved. [Help](http://www.hebcal.com/help/) \- [Contact](http://www.hebcal.com/contact/) \- [News](http://www.hebcal.com/news/) \- [Donate](http://www.hebcal.com/donations/)   
+Last modified: Sun May 20 19:26:02 PDT 2007  ($Revision: 1.27 $) 
