@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the softwareag.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212181322id_/http%3A//www.softwareag.com/Corporate/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwareag.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630134225id_/http%3A//www.softwareag.com/Corporate/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
+
+### Declaration on Data Protection
 
 Software AG appreciate your visit to our website and thank you for your interest in our company, our products and our services. Protection of your privacy and personal data is an important matter for us. In order to guarantee you a high level of transparency and security, our declaration on data protection as set forth below will inform you as to the nature, scope and purpose of any collection, use and processing of information and data recorded by us. 
 
@@ -82,3 +84,27 @@ H.C. Höpker
 Uhlandstrasse 12  
 64297 Darmstadt  
 E-mail: hans-christoph.hoepker (at) softwareag.com
+
+## SOA Value Assessment
+
+A unique tool that helps enterprises calculate the benefits of SOA and Business Process Management (BPM). 
+
+Specify the value of an SOA for your organization.
+
+[SOA Value Assessment](https://web.archive.org/Corporate/Company/latestnews/20070502_SOA_Value_Assessment_short_page.asp)
+
+## Bright Ideas
+
+Software AG's business magazine.
+
+This first edition is all about innovation and inspiration: Two fundamental drivers of today’s IT and business success.
+
+[Number one issue available now](https://web.archive.org/Corporate/Company/latestnews/Magazine/default.asp)
+
+## Your Career at Software AG
+
+We are searching for the most talented people - this has been the key to our success. 
+
+Please search our current job openings to learn more about our exciting career opportunities around the world.
+
+[Search for your new Job](https://web.archive.org/Corporate/Company/jobs/jobs/default.asp)
