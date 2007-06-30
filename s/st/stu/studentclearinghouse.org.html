@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the studentclearinghouse.org privacy policy that was archived on 2006-10-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061028135638id_/http%3A//www.studentclearinghouse.org//privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the studentclearinghouse.org privacy policy that was archived on 2007-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070630113759id_/http%3A//www.studentclearinghouse.org//privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 	<title>National Student Clearinghouse: Privacy Policy</title>
@@ -17,29 +17,26 @@
 
 <body text="#666666" link="#000000" vlink="#999999" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" onload="initDrill()">
 <!--webbot bot="Include" U-Include="inc/about_banner.htm" TAG="BODY" startspan -->
-
 <!-- banner -->
+  <table cellpadding="0" cellspacing="0" border="0" width="759" bgcolor="#ffffff">
+    <tbody><tr>
+      <td rowspan="2" valign="top" id="homeLogin" width="109"><table cellpadding="0" cellspacing="0" width="100%" border="0">
+          <tbody><tr>
+            <td colspan="2"><img src="colleges/images/tile_login_colluniv.gif" height="33" width="109" alt="Member Login" title="Member Login"></td>
+          </tr>
+          <tr>
+            <td background="images/bg_login.gif">
+            <img src="images/spacer.gif" width="8" height="78" alt="" border="0"></td>
+            <td background="images/bg_login.gif" valign="top">
+			<!-- User Login -->
+			
+
+
+<!-- User login form -->
 <form action="https://www.studentclearinghouse.org/secure_area/syserror.asp" method="post" name="login_form" id="login_form" onsubmit="return uf_validate_login_form(this)">
-<table cellpadding="0" cellspacing="0" border="0" width="759" bgcolor="#ffffff">
-<tbody><tr>
-	<td rowspan="2" valign="top" id="homeLogin" width="109">
-		<table cellpadding="0" cellspacing="0" width="100%" border="0">
-		<tbody><tr><td colspan="2"><img src="colleges/images/tile_login_colluniv.gif" height="33" width="109" alt="Member Login" title="Member Login"></td></tr>
-		<tr><td background="images/bg_login.gif"><img src="images/spacer.gif" width="8" height="78" alt="" border="0"></td>
-			<!-- form/ -->
-			<td background="images/bg_login.gif" valign="top"><img vspace="3" src="images/lbl_user.gif" width="52" height="11" alt="Username" title="Username" border="0"><br>
-			<input type="text" name="user_name" id="inputUser" size="10" maxlength="9" title="Please enter username"><br>
-			<img vspace="3" src="images/lbl_pass.gif" width="49" height="11" alt="Password" title="Password" border="0"><br>
-			<input type="password" name="user_pass" id="inputPass" size="10" maxlength="20" title="Please enter password"><input alt="Go" title="Go" align="absmiddle" id="inputGo" type="Image" name="go" src="images/btn_login.gif" width="14" height="15" border="0"></td></tr></tbody></table></td>
-	<td valign="bottom" colspan="3" width="650"><img src="images/spacer.gif" height="8" width="1" alt=""><br>
-		<img src="images/tile_green.gif" alt="" width="111" height="12" border="0"><img src="images/tile_blue.gif" alt="" width="111" height="12" border="0"><img src="images/tile_brown.gif" alt="" width="111" height="12" border="0"><img src="images/tile_end.gif" alt="" width="317" height="12" border="0" name="top"></td>
-</tr>
-<tr>
-	<td width="400"><a href="default.asp"><img src="images/bnr_general.jpg" alt="National Student Clearinghouse" border="0" title="National Student Clearinghouse" width="400" height="91"></a></td>
-	<td align="right" valign="top" background="images/bnr_drill_bg.gif" width="249"><img align="left" src="images/spacer.gif" height="91" width="243" alt=""></td>
-		<td bgcolor="#D2CFCF" width="1"><img src="images/spacer.gif" height="1" width="1" alt="" border="0"></td>
-</tr>
-</tbody></table>
+
+
+
 
 
 <script language="JavaScript"><!--
@@ -49,10 +46,9 @@ var marker = '!#$$#!'
 function JavaScript_Cookies_Check()
 {
 	var strplatform = window.navigator.platform.toLowerCase();
-
  	/* flag use to check for JavaScript */  		
   	document.login_form.js_exists.value = "true";
-  	
+
    	// mac	
 	if (strplatform.indexOf("mac", 0) >= 0)
 	{
@@ -63,15 +59,14 @@ function JavaScript_Cookies_Check()
   	if ((document.cookie.indexOf(marker, 0)) == -1)
 		{
     		document.login_form.cookie_exists.value = "false"; 
-    		alert("It appears that your browser does not support Cookies, or you have Cookies disabled.  This site requires Cookies to be enabled.");
-    		return false;
+    		alert("It appears that your browser does not support Cookies, or you have Cookies disabled.  This site requires Cookies to be enabled.");    		
+    		return false;    		
   		} 
   	else 
   		{
     		document.login_form.cookie_exists.value = "true";
     		return true;
   		}
-
 }
 
 document.cookie = marker;
@@ -81,18 +76,17 @@ document.cookie = marker;
 <script language="JavaScript"><!--
 function uf_validate_login_form(theForm)
 {
-	
 	if (!JavaScript_Cookies_Check())
 		{
 			return (false);
 		}
 	
   	if (theForm.user_name.value == "")
-  		{
-    		alert("Please enter a value for the \"User Name\" field.");
-    		theForm.user_name.focus();
-    		return (false);
-  		}
+  	{
+   		alert("Please enter a value for the \"User Name\" field.");
+   		theForm.user_name.focus();
+   		return (false);
+  	}
 
   	if (theForm.user_name.value.length > 9)
   		{
@@ -114,7 +108,7 @@ function uf_validate_login_form(theForm)
     		theForm.user_pass.focus();
     		return (false);
   		}
-  		
+  		  		
 	uf_set_action(theForm);  		
   	  	
   	return (true);
@@ -125,6 +119,27 @@ function uf_validate_login_form(theForm)
 function uf_set_action(theForm) 
 {	
 	var action_url;
+
+	action_url = "/secure_area/process_login.asp";
+	action_url = 	uf_set_hostname(action_url, true); 	
+	theForm.action = action_url;  		
+	
+	return;
+}
+//--></script>
+
+<script language="JavaScript"><!--
+/*********************************************
+* MC - 10/19/2006 - #1188 - Separated this function out 
+*	from uf_set_action()
+*	
+*	This function will determine the host name 
+* and append the actionURL.
+* 
+***********************************************/
+function uf_set_hostname(actionURL, bEnableSSL) 
+{	
+	var url;
 	var href;
 	var hostname;
 	var subdir;
@@ -132,7 +147,6 @@ function uf_set_action(theForm)
 	
 	href = window.location.href;
 	
-	action_url = "/secure_area/process_login.asp";
 	hostname = window.location.hostname;
 
 	if ((href.indexOf("/nslcweb/", 0) >= 0))
@@ -155,36 +169,95 @@ function uf_set_action(theForm)
 	}
 
     // must be https	
+    
+    http = "http://";
 	if (hostname == "localhost")
 	{
-		http = "http://";
+		// do nothing
 	}
 	else
 	{
-		http = "https://";
+		if(bEnableSSL == true)
+		{
+			http = "https://";
+		}		
 	}
 	
-	action_url = http + hostname + subdir + action_url;
-		
-	theForm.action = action_url;  		
-	
-	return;
+	url = http + hostname + subdir + actionURL;		
+
+	return url;
 }
 //--></script>
 
 
-    	<input type="hidden" name="js_exists" value="false">
-   	   <input type="hidden" name="cookie_exists" value="false">
+<script language="JavaScript"><!--
+/*********************************************
+* MC - 10/19/2006 - #1188 
+*
+* This will call uf_set_hostname() and set the form
+* action to the search page.
+***********************************************/
+function uf_setFormActionToSearch(theForm) 
+{
+	var actionUrl;	
+
+	actionUrl = "/search/search.asp";	
+	actionUrl = uf_set_hostname(actionUrl, false); 		
+	
+	theForm.action = actionUrl;
+	return (true);
+
+}
+//--></script>
+
    	   
 
 
-</form>
-<!-- /banner -->
+<!-- Hidden fields for user login form -->
+<input type="hidden" name="js_exists" value="false">
+<input type="hidden" name="cookie_exists" value="false">
+<!-- /Hidden fields for user login form -->
 
-<!--webbot bot="Include" endspan i-checksum="44732" -->
+
+
+
+  <table border="0" cellpadding="0" cellspacing="0" background="images/bg_login.gif">
+    <tbody><tr>
+      <td><img src="images/spacer.gif" width="2" height="1" alt="" border="0"><img vspace="3" src="images/lbl_user.gif" width="52" height="11" alt="Username" title="Username" border="0"><br>
+        <input title="Please enter username" type="Text" name="user_name" size="10" id="inputUser"></td>
+    </tr>
+	 <tr>
+      <td nowrap="">
+        <img vspace="3" src="images/lbl_pass.gif" width="49" height="11" alt="Password" title="Password" border="0"><br>
+        <input title="Please enter password" type="Password" name="user_pass" size="10" id="inputPass">
+        <input alt="Go" title="Go" align="absmiddle" id="inputGo" type="Image" name="go" src="images/btn_login.gif" width="14" height="15" border="0">
+      </td>
+    </tr>
+  </tbody></table>
+</form>
+<!-- /User login form -->
+
+			<!-- /User Login -->
+            </td>
+          </tr>
+        </tbody></table></td>
+      <td valign="bottom" colspan="3" width="650">
+      <img src="images/spacer.gif" height="8" width="1" alt=""><br>
+		<img src="images/tile_green.gif" alt="" width="111" height="12" border="0"><img src="images/tile_blue.gif" alt="" width="111" height="12" border="0"><img src="images/tile_brown.gif" alt="" width="111" height="12" border="0"><img src="images/tile_end.gif" alt="" width="317" height="12" border="0" name="top"></td>
+</tr>
+    <tr>
+      <td width="400"><a href="default.asp">
+      <img src="images/bnr_general.jpg" alt="National Student Clearinghouse" border="0" title="National Student Clearinghouse" width="400" height="91"></a></td>
+      <td align="right" valign="top" background="images/bnr_drill_bg.gif" width="249">
+      <img align="left" src="images/spacer.gif" height="91" width="243" alt=""></td>
+      <td bgcolor="#D2CFCF" width="1"><img src="images/spacer.gif" height="1" width="1" alt="" border="0"></td>
+    </tr>
+  </tbody></table>
+<!-- /banner -->
+<!--webbot bot="Include" endspan i-checksum="58753" -->
 
 <!-- greybar navigation -->
-<!--webbot bot="Include" U-Include="inc/graybar_nav_nosch.htm" TAG="BODY" startspan -->
+<!--webbot bot="Include" U-Include="inc/graybar_nav_main.htm" TAG="BODY" startspan -->
 <!-- greybar navigation -->
 <table width="758" cellspacing="0" cellpadding="0" border="0">
   <tbody><tr><td bgcolor="#cccccc"><img src="images/spacer.gif" height="1" width="1" border="0" alt=""></td></tr>
@@ -193,12 +266,28 @@ function uf_set_action(theForm)
     <td bgcolor="#666666">
 	  <table width="100%" cellspacing="0" cellpadding="5" border="0">
 	     <tbody><tr>
-		   <td width="95%" align="left" class="greybarID">&nbsp;</td>
-		   <td width="1%" align="right" class="greybarNav"></td>
+		   <td width="94%" align="left" class="greybarID">&nbsp;</td>
+		   <td width="1%" align="right" class="greybarNav"><a href="audit/default.htm"><img border="0" src="images/btn_AuditResourceCenter.jpg" width="125" height="14"></a></td>
+		   <td width="1%" align="right" class="greybarNav"><a href="https://ftps.nslc.org/"><img border="0" src="images/topnav_ftplogin.gif" width="60" height="14"></a></td>
 		   <td width="1%" align="right" class="greybarNav"><a href="about/default.htm"><img src="images/topnav_aboutus.gif" alt="About Us" name="topnavAboutUs" id="topnavAboutUs" border="0" width="62" height="19"></a></td>
-		   <td width="1%" align="right" class="greybarNav"><a href="sitemap.htm"><img src="images/topnav_sitemap.gif" alt="Sitemap" name="topnavSitemap" id="topnavSitemap" border="0" width="60" height="19"></a></td>
 		   <td width="1%" align="right" class="greybarNav"><a href="contactus.htm"><img src="images/topnav_contact.gif" alt="Contact Us" name="topnavContactUs" id="topnavContactUs" border="0" width="65" height="19"></a></td>
 		   <td width="1%" align="right" class="greybarNav"><a href="default.asp"><img src="images/topnav_home.gif" alt="Home" name="topnavHome" id="topnavHome" border="0" width="49" height="19"></a></td>
+		   <td width="1%" align="right" class="greybarNav">
+
+<form name="search" method="get" onsubmit="return uf_setFormActionToSearch(this)">
+<table width="100%">
+  <tbody><tr>
+    <td valign="top" nowrap="">
+      <input type="text" name="q" size="15">&nbsp;<input type="Submit" name="btn_search" value="Search">
+    </td>
+  </tr>
+</tbody></table>
+</form>
+
+<!-- Remove &nbsp; Frontpage tends to add a space after this line -->
+
+
+           </td>		   
 		 </tr>
 	  </tbody></table>
 	</td>
@@ -206,7 +295,7 @@ function uf_set_action(theForm)
   <tr><td bgcolor="#000000"><img src="images/spacer.gif" height="1" width="1" border="0" alt=""></td></tr>
 </tbody></table>
 <!-- /greybar navigation -->
-<!--webbot bot="Include" endspan i-checksum="56323" -->
+<!--webbot bot="Include" endspan i-checksum="5429" -->
 <!-- /greybar navigation -->
 
 <!-- main content -->
@@ -282,11 +371,13 @@ year+=1900
 document.write("<font id='globalFooter'>"+year+"</font>")
 </script><font id="globalFooter">2020</font>
 
+
 	by National Student Clearinghouse. All Rights Reserved
-	<br><a href="termsofuse.htm" class="globalFooterLink">Terms of Use</a> | <a href="privacy.htm" class="globalFooterLink">Privacy Policy</a> | <a href="about/problems.htm" class="sitemap">Problems Using This Web Site?</a><br> 
+	<br><a href="termsofuse.htm" class="globalFooterLink">Terms of Use</a> | <a href="privacy.htm" class="globalFooterLink">Privacy Policy</a> |
+      <a href="sitemap.htm" class="globalFooterLink">Site Map</a> | <a href="about/problems.htm" class="sitemap">Problems Using This Web Site?</a><br> 
 	<a href="mailto:web-master@studentclearinghouse.org" class="globalFooterLink">web-master@studentclearinghouse.org</a></div>
 	<!-- /globalFooter -->
-<!--webbot bot="Include" endspan i-checksum="54101" -->
+<!--webbot bot="Include" endspan i-checksum="38381" -->
 	<!-- /globalFooter -->
 
 	</div>
