@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taylormadegolf.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213054059id_/http%3A//taylormadegolf.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taylormadegolf.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630140843id_/http%3A//www.taylormadegolf.com/privacy.asp) for the most accurate reproduction.*
 
 # TaylorMade Golf - Privacy Statement
 
@@ -34,7 +34,7 @@ TMaG may always use personal information in the following ways:
 
   * to enable us to respond to you generally, or to process, validate and verify requests and/or purchase orders
   * to perform any services requested by you
-  * to compile and/or distribute aggregate - never individual \- information about our website users and aggregate usage patterns
+  * to compile and/or distribute aggregate - never individual - information about our website users and aggregate usage patterns
   * to provide our own website designers with useful information for developing new features and services that meet your needs
   * to tailor your experience on our websites, showing you content we think might interest you or altering the content according to your personal preferences
   * as part of an online employment application to evaluate your qualifications only
@@ -100,7 +100,7 @@ Unfortunately, no data transmission over the Internet or any wireless network ca
 
 Children's Online Privacy Protection
 
-The TMaG Websites comply with the Children's Online Privacy Protection Act of 1998, which protects the privacy of children using the Internet. TMaG does not knowingly collect contact or personal information from children under 13\. The TMaG Websites are not intended to solicit information of any kind from children under 13, and are designed to block our knowing acceptance of any such information. It is possible that by fraud or deception we may receive information pertaining to children under 13. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of information by children under 13, please do so by emailing us at [consumer.feedback@tmag.com](mailto:consumer.feedback@tmag.com).
+The TMaG Websites comply with the Children's Online Privacy Protection Act of 1998, which protects the privacy of children using the Internet. TMaG does not knowingly collect contact or personal information from children under 13. The TMaG Websites are not intended to solicit information of any kind from children under 13, and are designed to block our knowing acceptance of any such information. It is possible that by fraud or deception we may receive information pertaining to children under 13. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of information by children under 13, please do so by emailing us at [consumer.feedback@tmag.com](mailto:consumer.feedback@tmag.com).
 
 Contact Information
 
