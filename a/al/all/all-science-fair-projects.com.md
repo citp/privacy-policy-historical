@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the all-science-fair-projects.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206064258id_/http%3A//www.all-science-fair-projects.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all-science-fair-projects.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630043938id_/http%3A//www.all-science-fair-projects.com/help/privacy.html) for the most accurate reproduction.*
 
 # Science Fair Projects Help Page
 
