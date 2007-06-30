@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expomarkets.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111102846id_/http%3A//expomarkets.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expomarkets.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630141218id_/http%3A//www.expomarkets.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Disclaimer :: Indian Exporters Directory,India
 
