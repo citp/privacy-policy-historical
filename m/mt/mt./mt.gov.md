@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mt.gov privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214001041id_/http%3A//mt.gov/itsd/policy/policies/ENTINT030.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mt.gov privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630081656id_/http%3A//mt.gov/itsd/policy/policies/ENTINT030.asp) for the most accurate reproduction.*
 
 # Enterprise Policy - Internet Privacy and Security
 
