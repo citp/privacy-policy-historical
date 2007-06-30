@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genius.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205235427id_/http%3A//genius.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genius.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630233904id_/http%3A//www.genius.com/privacy.html) for the most accurate reproduction.*
 
 # Genius.com Incorporated™ : Privacy
 
@@ -12,7 +12,7 @@ If you have questions or concerns regarding this statement, you should first con
 
 We require customers who register to use the services offered on our Sites (collectively, the "Service") to give us contact information, such as their name, company name, address, phone number, and e-mail address, and financial qualification and billing information, such as billing name and address, and credit card number. When you register for the Service, or when you ask for additional information from Genius about the Service, we may also ask you for additional personal information, such as title, department name, fax number, or additional company information, such as annual revenues, number of employees, or industry. Customers can opt out of providing this additional information by not providing it when asked to do so. 
 
-Genius uses the information that we collect to set up the Service for customers and their organizations. We may also use the information to contact customers to discuss customer interest in our company, the Service that we provide, and to send information regarding our company or partners, such as promotions and events. Customers can opt out of being contacted by us, or receiving such information from us, at any time by sending an e-mail to [support@genius.com](mailto:support@genius.com).
+Genius uses the information that we collect to set up the Service for customers and their organizations. We may also use the information to contact customers to discuss customer interest in our company, the Service that we provide, and to send information regarding our company or partners, such as promotions and events. Customers can opt out of being contacted by us, or receiving such information from us, at any time by [clicking here](http://www.genius.com/email-opt-out.html) and submitting their email.
 
 All financial and billing information that we collect through the Site is used solely to check the qualifications of prospective customers and to bill for the Service. This billing information is not used by Genius for marketing or promotional purposes. Genius uses a third-party intermediary to manage the credit card processing. This intermediary is solely a link in the distribution chain, and is not permitted to store, retain, or use the information provided, except for the sole purpose of credit card processing. 
 
@@ -22,7 +22,7 @@ Genius may also collect certain information from visitors to and customers of th
 
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site and register for a free trial account. Genius stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. 
 
-Your friend may contact us at [support@genius.com](mailto:support@genius.com) to request that we remove this information from our database.
+Your friend may contact us at to request that we remove this information from our database.
 
 We post customer testimonials on our web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial.
 
@@ -38,7 +38,7 @@ We may also provide Aggregated Information to third parties. Such information wi
 
 #### Opt-Out Policy
 
-If, at any time after registering for information or ordering the Service, you change your mind about receiving promotional information from us or about our sharing information with third parties for promotional purposes, send us a request specifying your new choice. Simply send your request to [support@genius.com](mailto:support@genius.com). 
+If, at any time after registering for information or ordering the Service, you change your mind about receiving promotional information from us or about our sharing information with third parties for promotional purposes, send us a request specifying your new choice. Send us an email at . 
 
 Genius reserves the right to send customers certain communications from relating to the Service, such as service announcements and administrative messages, that are considered part of your account, without offering you the opportunity to opt-out of receiving them.
 
@@ -74,7 +74,7 @@ Genius may update this Statement at any time, so please review it frequently. If
 
 #### Questions?
 
-If you have any questions about this Statement or the practices of this Site, please contact us at support@genius.com. You may also write to us at Genius.com Incorporated, 1 Waters Park Drive, suite 250, San Mateo, CA 94403. 
+If you have any questions about this Statement or the practices of this Site, please contact us at support@genius.com. You may also write to us at Genius.com Incorporated, 1400 Fashion Island Boulevard, Suite 500, San Mateo, CA 94404. 
 
 The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from this site.
 
