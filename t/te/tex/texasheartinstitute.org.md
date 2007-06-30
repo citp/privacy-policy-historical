@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the texasheartinstitute.org privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215233647id_/http%3A//www.texasheartinstitute.org/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texasheartinstitute.org privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630141349id_/http%3A//www.texasheartinstitute.org/privacy.cfm) for the most accurate reproduction.*
 
 # Website Terms of Use and Privacy Policy
 
@@ -32,4 +32,4 @@ All text, graphic, and multimedia content on this website © Copyright Texas Hea
 
 Contact Information
 
-You may contact the Texas Heart Institute with any questions or comments concerning this website by sending e-mail to [khoge@heart.thi.tmc.edu](mailto:khoge@heart.thi.tmc.edu).
+You may contact the Texas Heart Institute with any questions or comments concerning this website by sending e-mail to [webmaster@heart.thi.tmc.edu](mailto:webmaster@heart.thi.tmc.edu).
