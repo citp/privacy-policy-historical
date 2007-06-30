@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techsmith.com privacy policy that was archived on 2006-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061128035527id_/http%3A//www.techsmith.com/company/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsmith.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630104817id_/http%3A//techsmith.com/company/privacy_policy.asp) for the most accurate reproduction.*
 
 # TechSmith Corporation - Privacy Policy
 
@@ -45,7 +45,7 @@ Customers may access their contact information through e-mail or customer servic
 
 ### **Forums**
 
-Membership into our forums is voluntary. When you provide your username, password and e-mail address, you can receive online support from TechSmith and from other TechSmith software users. The forum membership policy is stated at [forums.techsmith.com/policy.asp](http://forums.techsmith.com/policy.asp),  Please refer to the policy before registering to join our forums.
+Membership into our forums is voluntary. When you provide your username, password and e-mail address, you can receive online support from TechSmith and from other TechSmith software users.  Please refer to the policy before registering to join our forums.
 
 * * *
 
@@ -65,4 +65,4 @@ When you download a TechSmith product, TechSmith asks you to provide your e-mail
 
 As our Web site evolves over time or our data handling policies change, we will update this privacy policy. Changes made to this policy will be effective ten days following the posting of the new policy on the Web site. If we make significant changes to our data handling practices, we will make efforts to notify our active customers in other reasonable ways that may include an administrative email or other notice. This privacy policy will be governed by the laws of the United States and the State of Michigan. 
 
-Last Updated: 
+Last Updated: 01/31/2020 11:48:20 
