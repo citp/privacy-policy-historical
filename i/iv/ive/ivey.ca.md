@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ivey.ca privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210033404id_/http%3A//www.ivey.ca/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivey.ca privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630150125id_/http%3A//www.ivey.ca/privacy.htm) for the most accurate reproduction.*
 
 # 
 
