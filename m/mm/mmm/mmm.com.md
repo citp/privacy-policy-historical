@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mmm.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205193356id_/http%3A//www3.3m.com/metrics/redirect.jsp%3Fpnum%3D100%26referrer%3Dprivacy%26target%3Dhttp%3A//www.3m.com/privacy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmm.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630154718id_/http%3A//solutions.3m.com/wps/portal/3M/en_WW/Worldwide/WW/3M/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# 3M Worldwide: Privacy Policy
 
 3M Global Internet Privacy Policy  
 
@@ -32,7 +32,7 @@ Return to Top
 
 By using a 3M Internet Site or providing personal information to us, you are consenting to the collection, use and disclosure of your personal information as described in this Policy and any applicable Country or Web Site Privacy Statements.
 
-If you do not consent to the collection, use and disclosure of your personal information as described in this Policy (and any applicable Country or Web Site Privacy Statements), do not use 3M Internet Sites.
+If you do not consent to the collection, use and disclosure of your personal information as described in this Policy (and any applicable Country or Web Site Privacy Statements), do not use 3M Internet Sites or Contact 3M/Contact Us forms.
 
 **Limitations on the Collection, Use and Disclosure of Personal Information**
 
