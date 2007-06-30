@@ -1,7 +1,39 @@
-> *The following text is extracted and transformed from the indiabook.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205204838id_/http%3A//www.indiabook.com/temp/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiabook.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630213221id_/http%3A//indiabook.com/temp/disclaimer.html) for the most accurate reproduction.*
 
-# Indiabook - Disclaimer - by MegriSoft
+# Indiabook - Disclaimer - Privacy Policy
 
+| India Search  
+---  
+Search Options:  
+  
+---  
+Search Keyword  
+  
+  
+  
+Browse Resources  
+---  
+| ****  
+---|---  
+| **»»[Women World](https://web.archive.org/web/20070630213221id_/http%3A//indiabook.com/women/)**  
+  
+| **»»[Travel](https://web.archive.org/web/20070630213221id_/http%3A//indiabook.com/travel/)**  
+| **»»[Kids](https://web.archive.org/web/20070630213221id_/http%3A//indiabook.com/kids/)**  
+| **»»[Health](https://web.archive.org/web/20070630213221id_/http%3A//indiabook.com/health/)**  
+| **»»[Dating](https://web.archive.org/web/20070630213221id_/http%3A//indiabook.com/dating/)**  
+| **»»[Matrimonials](https://web.archive.org/web/20070630213221id_/http%3A//indiabook.com/matrimonial/)**  
+| **»»[Home Pages](https://web.archive.org/web/20070630213221id_/http%3A//indiabook.com/homepages/)**  
+| **»»[Greetings](https://web.archive.org/web/20070630213221id_/http%3A//indiabook.com/greetings/)**  
+| **»»[Web Master](https://web.archive.org/web/20070630213221id_/http%3A//indiabook.com/webmaster/)**  
+| **»»[Shopping](https://web.archive.org/web/20070630213221id_/http%3A//indiabook.com/shopping/)**  
+| 
+
+|    **IndiaBook Disclaimer and Privacy Policy**|   
+---|---  
+  
+  
+---  
+  
 MegriSoft, which owns the indiabook.com is responible for maintaining the privacy of its users.MegriSoft's information gathering and dissemination policy is common to all its sites and is disclosed below:   
 The Contents of User Email Communications. indiabook.com, will not monitor the contents of User email communications unless a) required to do so by law; or b) in the good faith belief that such action is necessary to protect and defend indiabook.com's rights or property; or c) when necessary to protect the personal safety of Users or the public. indiabook.com will not disclose the contents of User email communications to any party unless required to do so by law. User email accounts are password protected and Users are responsible for maintaining the confidentiality of the passwords.   
 Personally Identifiable Information - When visiting indiabook.com's or any Partner's web site and signing up for or using indiabook.com services through a web page hosted by us, you may choose to supply indiabook.com with information that identifies you personally. For end-users, this information may include your name and contact information, gender, age group, occupation and industry, and user-comments and opt-in preference; we intend to collect shipping and billing information, which may, in the future, include credit card numbers, and other payment types of information. We also intend to collect behavior patterns, which may include recording frequency of use of our services, which and when items were purchased, at which site and page, and other information related to behavior patterns. We collect prospect information, which may include name, and contact information of individual(s) you think would be interested in our services. For Partners, the information we collect may include your name and contact information, your site's category, your web site information (URL, visitors per day,description of services offered at web site), and user- comments.   
@@ -23,5 +55,5 @@ In addition to directly providing information to indiabook.com, you might also p
 To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures reasonably designed to safeguard and secure the information we collect online. 
 
 **How to Contact Us**   
-Should you have other questions or concerns about these privacy policies, send us an email at [feedback@indiabook.com](mailto:feedback@indiabook.com)   
-© 2001-2002 Megrisoft. All rights reserved. Terms of Service Privacy Statement
+Should you have other questions or concerns about these privacy policies, send us an email at [support@megrisoft.com](mailto:support@megrisoft.com)   
+© 2006-2007 Megrisoft. All rights reserved. Terms of Service Privacy Statement 
