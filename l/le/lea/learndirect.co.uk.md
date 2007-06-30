@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learndirect.co.uk privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230101734id_/http%3A//www.learndirect.co.uk/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learndirect.co.uk privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630154541id_/http%3A//www.learndirect.co.uk/privacystatement) for the most accurate reproduction.*
 
 # learndirect - Privacy Statement
 
@@ -52,7 +52,7 @@ If government funding is available for any of our courses, you need to answer so
 
 
 
-Following registration and/or enrolment via the website, we, or our approved learning providers, may require additional information from you in order to support an application for funding. If you do not want to provide us with this information, we will not be able to offer you the course at the reduced price.
+We, or our approved learning providers, may require additional information from you in order to support an application for funding. If you do not want to provide us with this information, we will not be able to offer you the course at the reduced price.
 
 ### The information we collect when you access course materials
 
@@ -154,7 +154,7 @@ We will never use your sensitive data for marketing purposes or to target you fo
 
 ### Funding
 
-We, and our approved learning providers, may use your personal data to process or to support any application made for funding associated with your learning. For these purposes we, or our approved learning providers, will share the information you supply with the [Learning and Skills Council (LSC)](http://www.lsc.gov.uk/) in England. The LSC may in turn share it with the European Social Fund, or other government agencies that may provide funding for your course, including the [Department for Employment and Learning](http://www.delni.gov.uk/) in Northern Ireland and the [National Council for Education and Learning Wales](http://www.elwa.ac.uk/). We, or our approved learning providers, may also share it with the [Adult Learning Inspectorate](http://www.ali.gov.uk/) so that it can check our use of public monies. If you do not want us to use your personal data for these purposes, we will not be able to offer you the course at the reduced price.
+We, and our approved learning providers, may use your personal data to process or to support any application made for funding associated with your learning. For these purposes we, or our approved learning providers, will share the information you supply with the [Learning and Skills Council (LSC)](http://www.lsc.gov.uk/) in England. The LSC may in turn share it with the European Social Fund, or other government agencies that may provide funding for your course, including the [National Council for Education and Learning Wales](http://www.elwa.ac.uk/). We, or our approved learning providers, may also share it with the [Adult Learning Inspectorate](http://www.ali.gov.uk/) so that it can check our use of public monies. If you do not want us to use your personal data for these purposes, we will not be able to offer you the course at the reduced price.
 
 At the point this information is collected you will be asked to indicate if you do not wish to be contacted by the LSC or its partners in respect of courses, surveys and research. Please read the [LSC Data Protection Statement](https://web.archive.org/home/ilr/lscdpa/)
 
@@ -163,6 +163,8 @@ We, or the government agency providing funding for your course, may use your per
 ### Statistics
 
 We and/or the approved learning providers delivering and supporting your learning are also required to provide statistics to all of the government agencies mentioned under the heading 'Funding' and to the [Department for Education and Skills](http://www.dfes.gov.uk/), in order that they can carry out checks on our funding arrangements and our performance and for research and statistical purposes. This helps us, and our approved learning providers, to maintain our funding. Where such information is supplied, it is provided in an aggregated manner so that whilst such authorities may be aware of, for example, the number, geographic location and sex of persons using **learndirect,** you cannot be personally identified from this information.
+
+However, we may provide information that identifies you (your name, date of birth, address and postcode) to the Department of Work and Pensions so that they can check whether **learndirect** learners have progressed into employment and compile statistical information about such progression. You will not be identifiable from the statistical information compiled.
 
 ### Requests for information
 
@@ -226,6 +228,6 @@ You have the right to ask for a copy of all the information we hold about you (w
 
 Our website contains links to other websites. We are not responsible for the privacy policies of other sites and we advise you to read the privacy statement of every website that collects personal information from you.
 
-### Last updated : 27th June 2006
+### Last updated : 23rd February 2007
 
 Back to top
