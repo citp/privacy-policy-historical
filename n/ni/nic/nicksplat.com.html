@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nicksplat.com privacy policy that was archived on 2006-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061210015013id_/http%3A//www.nicksplat.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nicksplat.com privacy policy that was archived on 2007-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070630235400id_/http%3A//nicksplat.com/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>Nicksplat.com</title>
@@ -12,7 +12,7 @@
 <link href="Common/Inc/style.css" rel="stylesheet" type="text/css">
 </head>
 <body bgcolor="#f37021">
-<table width="760" border="0" cellspacing="0" cellpadding="0">
+<table width="930" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
 		<td width="162" align="left" valign="top">
 <table width="162" border="0" cellspacing="0" cellpadding="0">
@@ -62,6 +62,16 @@
 		
     <td height="26" align="left" valign="top"> 
       <script>
+function focusHere(element) {
+//element.focus();
+if(element=="uid"){
+//document.toploginForm.uid.value="dsadsadsadsads";
+document.toploginForm.uid.focus();
+}else if(element=="upwd"){
+document.toploginForm.upwd.focus();
+}
+}
+
 function topLoginsubmit(){
 	if(document.toploginForm.uid.value==""){
 		alert("Please type in your username!");
@@ -88,6 +98,10 @@ function checkTopsubmit(){
 				topLoginsubmit();
 		}
 }
+
+var bnNum=Math.floor(Math.random()*11);
+var bnLeft='bnLeft_'+bnNum+'.gif';
+var bnRight='bnRight_'+bnNum+'.gif';
 //-->
 </script>
 
@@ -96,7 +110,9 @@ function checkTopsubmit(){
   <tbody><tr height="79"> 
     <td align="left" valign="top" bgcolor="#f37021"><table width="598" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr> 
-          <td width="66" align="left" valign="top"><img src="/images/banner_side1.gif" width="66" height="79"></td>
+<script>
+   		document.write(' <td width="66" align="left" valign="top"><img src="/images/' + bnLeft + '" width="66" height="79"></td>');
+</script> <td width="66" align="left" valign="top"><img src="/images/bnLeft_1.gif" width="66" height="79"></td>
           <td width="468" align="left" valign="middle"><script src="/Common/Banner/banner468x60.js"></script><table border="0" cellpadding="0" cellspacing="0" width="468">
 <tbody><tr>
 <td>
@@ -106,7 +122,9 @@ function checkTopsubmit(){
 </tr>
 </tbody></table>
 </td>
-          <td><img src="/images/banner_side2.gif" width="64" height="79"></td>
+<script>
+   		document.write(' <td><img src="/images/' + bnRight + '" width="64" height="79"></td>');
+</script> <td><img src="/images/bnRight_1.gif" width="64" height="79"></td>
         </tr>
       </tbody></table> </td>
   </tr>
@@ -114,8 +132,6 @@ function checkTopsubmit(){
     <td align="left" valign="top"> 
 
 <script>
-
-
 	var userID;
 	userID=getCookie("User_ID");
 	if(userID!="null" && userID!="" && userID!=null){
@@ -145,6 +161,21 @@ function checkTopsubmit(){
 }else{
 		
 		MM_preloadImages('/images/but_signup_ro.gif','/images/but_fpw_ro.gif');
+		
+		/** raymond's code starts..can delete after problematic banner is removed..remember to remove the javascript function as well....rockz!!!!!! */
+		
+		/** this is the textbox version of the solutions */
+		//document.write("<div style=\"position: absolute; left: 263px; top: 72px; height: 400px; width: 100px; padding: 1em;\"><input type=\"text\" size=\"11\" value=\"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\" onClick=\"javascript:void(focusHere('uid'))\" style=\"border-style:none; color:none; background:none\" readonly=\"true\"></div> ");
+		//document.write("<div style=\"position: absolute; left: 438px; top: 72px; height: 400px; width: 100px; padding: 1em;\"><input type=\"text\" size=\"9\" value=\"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\" onClick=\"javascript:void(focusHere('upwd'))\" style=\"border-style:none; color:none; background:none\" readonly=\"true\"></div> ");
+		/** */
+		
+		/** this is the image version of the solutions	*/
+		document.write("<div style=\"position: absolute; left: 271px; top: 81px; height: 20px; width: 100px; padding: 0em;border-width: 0px; border-style: solid; \"><img src='/Common/Inc/trans1.gif' border=0 width='100' height='20' onClick=\"javascript:void(focusHere('uid'))\"></img></div> ");
+		document.write("<div style=\"position: absolute; left: 448px; top: 81px; height: 20px; width: 90px; padding: 0em;border-width: 0px; border-style: solid; \"><img src='/Common/Inc/trans2.gif' border=0 width='90' height='20' onClick=\"javascript:void(focusHere('upwd'))\"></img></div> ");
+		/** */
+		
+		/**raymond's code ends here */
+		
 		document.write("<table width=\"598\" height=\"28\" border=\"0\" align=\"left\" cellpadding=\"0\" cellspacing=\"0\" background=\"/images/top_login_bg.gif\" bgcolor=\"#FFFFFF\" class=\"normal\">");
 		document.write("  <form name=\"toploginForm\" method=\"post\" action=\"/Myworld/Login/login_end.php\">");
 		document.write("    <tr align=\"left\" valign=\"top\"> ");
@@ -165,7 +196,7 @@ function checkTopsubmit(){
 	 	
 	}
 
-</script><table width="598" height="28" border="0" align="left" cellpadding="0" cellspacing="0" background="/images/top_login_bg.gif" bgcolor="#FFFFFF" class="normal">  <form name="toploginForm" method="post" action="/Myworld/Login/login_end.php"></form>    <tbody><tr align="left" valign="top">       <td width="110"><img src="/images/top_login_txtlogin.gif" width="110" height="28"></td>      <td valign="middle"><input type="text" name="uid" value="" class="box" size="15" maxlength="30"></td>      <td width="64" align="center" valign="middle"><img src="/images/top_login_txtpw.gif" width="64" height="16"></td>      <td valign="middle"><input type="password" name="upwd" class="box" size="13" maxlength="20" onkeypress="javascript:void(checkTopsubmit())"></td>      <td width="27" valign="middle"><a href="javascript:void(topLoginsubmit())"><img src="/images/but_go.gif" name="but_go" width="27" height="19" id="but_go" border="0"></a></td>      <td width="3" align="center" valign="middle"><img src="/images/dots.gif" width="1" height="16"></td>      <td width="106" valign="middle"><a href="/Myworld/Login/forgot.php" onmouseover="MM_swapImage('but_fpw','','/images/but_fpw_ro.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/images/but_fpw.gif" name="but_fpw" width="106" height="21" border="0" id="but_fpw"></a></td>      <td width="3" align="center" valign="middle"><img src="/images/dots.gif" width="1" height="16"></td>      <td width="69" valign="middle"><a href="/Myworld/Join/join.php" onmouseover="MM_swapImage('but_signup','','/images/but_signup_ro.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/images/but_signup.gif" name="but_signup" width="69" height="21" border="0" id="but_signup"></a></td>      <td width="6" align="right" valign="middle"><img src="/images/top_login_c2.gif" width="6" height="28"></td>    </tr>  </tbody></table>     
+</script><div style="position: absolute; left: 271px; top: 81px; height: 20px; width: 100px; padding: 0em;border-width: 0px; border-style: solid; "><img src="/Common/Inc/trans1.gif" border="0" width="100" height="20" onclick="javascript:void(focusHere('uid'))"></div> <div style="position: absolute; left: 448px; top: 81px; height: 20px; width: 90px; padding: 0em;border-width: 0px; border-style: solid; "><img src="/Common/Inc/trans2.gif" border="0" width="90" height="20" onclick="javascript:void(focusHere('upwd'))"></div> <table width="598" height="28" border="0" align="left" cellpadding="0" cellspacing="0" background="/images/top_login_bg.gif" bgcolor="#FFFFFF" class="normal">  <form name="toploginForm" method="post" action="/Myworld/Login/login_end.php"></form>    <tbody><tr align="left" valign="top">       <td width="110"><img src="/images/top_login_txtlogin.gif" width="110" height="28"></td>      <td valign="middle"><input type="text" name="uid" value="" class="box" size="15" maxlength="30"></td>      <td width="64" align="center" valign="middle"><img src="/images/top_login_txtpw.gif" width="64" height="16"></td>      <td valign="middle"><input type="password" name="upwd" class="box" size="13" maxlength="20" onkeypress="javascript:void(checkTopsubmit())"></td>      <td width="27" valign="middle"><a href="javascript:void(topLoginsubmit())"><img src="/images/but_go.gif" name="but_go" width="27" height="19" id="but_go" border="0"></a></td>      <td width="3" align="center" valign="middle"><img src="/images/dots.gif" width="1" height="16"></td>      <td width="106" valign="middle"><a href="/Myworld/Login/forgot.php" onmouseover="MM_swapImage('but_fpw','','/images/but_fpw_ro.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/images/but_fpw.gif" name="but_fpw" width="106" height="21" border="0" id="but_fpw"></a></td>      <td width="3" align="center" valign="middle"><img src="/images/dots.gif" width="1" height="16"></td>      <td width="69" valign="middle"><a href="/Myworld/Join/join.php" onmouseover="MM_swapImage('but_signup','','/images/but_signup_ro.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/images/but_signup.gif" name="but_signup" width="69" height="21" border="0" id="but_signup"></a></td>      <td width="6" align="right" valign="middle"><img src="/images/top_login_c2.gif" width="6" height="28"></td>    </tr>  </tbody></table>     
     </td>
   </tr>
 </tbody></table>
@@ -404,31 +435,64 @@ function checkTopsubmit(){
         </tr>
       </tbody></table>
       <style type="text/css">
+
 <!--
+
 .style88 {font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #FFFF00}
+
 -->
+
 </style>
+
 <table width="598" border="0" cellspacing="0" cellpadding="0">		
+
 	<tbody><tr>
+
 		
+
     <td align="center" valign="top" class="white"> <p> 
+
         <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="595" height="48">
+
           <param name="movie" value="/images/bot_1.swf">
+
           <param name="quality" value="high">
+
           <param name="wmode" value="transparent">
-        <embed src="/images/bot_1.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="48" height="595"></object>
+
+        <embed src="/images/bot_1.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="595" height="48"></object>
+
         <br>
-        <b> <a href="/Tvshows/Showsinfo/nicktoons.html">TV Shows</a> | <a href="/Events/">Ooze News </a>| <a href="/Contests/"> Contests </a>| <a href="/Whatsup/">What's 
+
+        <b> <a href="/sites/thebighelp/">The Big Help</a> | <a href="/Tvshows/Showsinfo/nicktoons.html">TV Shows</a> | <a href="/Events/">Ooze News </a>| <a href="/Contests/"> Contests </a>| <a href="/Whatsup/">What's 
+
         Up </a>| <a href="/Myworld/Blog/">Nick Blogs </a>| <a href="/Myworld/MyPick/list.php">My Pick </a>| <a href="/Myworld/Message/">Message 
+
         Boards </a>| <a href="/Myworld/Polls/">Polls</a> | <a href="/Myworld/Message/"></a><a href="/Myworld/Ecard/">Ecards</a> | <a href="/Myworld/BirthdayWrap/list.php">Birthday Wrap!</a> | <a href="/Download/">Downloads</a> | <a href="/Game/">Games</a> |        <a href="/faq.html">FAQ</a> | <a href="/abtus.html"></a><a href="/contact.html">Contact 
+
         Us </a>| <a href="/abtus.html">About Nickelodeon </a>| <a href="/sitemap.html">SiteMap 
+
         </a>| <a href="/privacy.html">Privacy Policy </a>| <a href="/tnc.html">Terms 
+
         &amp; Conditions</a><br>
-        <span class="style88">© 2006 Nickelodeon Asia. All Rights Reserved. </span></b></p>
+
+        <span class="style88">© 2007 Nickelodeon Asia. All Rights Reserved. </span></b></p>
+
       <br>      </td>
+
 	</tr>
+
 </tbody></table>
     </td>
+	  <td width="10"></td>
+      <td width="160" align="left" valign="top"><table border="0" cellpadding="0" cellspacing="0">
+		  <tbody><tr>
+		    <td align="center"><script src="/Common/Banner/sky120x600.js"></script></td>
+		  </tr>
+		  <tr>
+		    <td align="center"><img src="/images/ad_sky_hdr.gif" width="120" height="15"></td>
+		  </tr>
+		</tbody></table></td>
 	</tr>
 </tbody></table>
 
