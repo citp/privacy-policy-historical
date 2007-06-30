@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-junkie.com privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114143301id_/http%3A//www.e-junkie.com/ej/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-junkie.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630061732id_/http%3A//www.e-junkie.com/ej/privacy.php) for the most accurate reproduction.*
 
 # E-junkie - Privacy Policy
 
