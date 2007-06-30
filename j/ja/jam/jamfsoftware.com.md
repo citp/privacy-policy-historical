@@ -1,36 +1,16 @@
-> *The following text is extracted and transformed from the jamfsoftware.com privacy policy that was archived on 2003-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030801123131id_/http%3A//www.jamfsoftware.com/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamfsoftware.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630031606id_/http%3A//www.jamfsoftware.com/company/privacy.php) for the most accurate reproduction.*
 
-# JAMF Software - Zen and the Art of Macintosh Maintenance
+# JAMF Privacy Policy
 
-|  | 
+JAMF Software is committed to respecting and protecting your privacy. In order to provide certain services, opportunities, and downloads to you on jamfsoftware.com (the Site), we require that you submit some of your personal information. Please read the following to learn more about our Privacy Policy.
 
-[](https://web.archive.org/web/20030801123131id_/http%3A//www.jamfsoftware.com/%3Fpage%3Dprivacy?page=news)
+NOTICE  
+JAMF Software (We) may collect domain names and aggregate information on what pages you access or view to improve the Site and to determine which pages are being accessed and used. We may also collect information volunteered by you including, but not limited to, e-mail addresses to obtain downloads or requests for services, opportunities, or additional information. This Site contains links to other websites. Please be aware that JAMF Software is not responsible for the privacy practices of such other sites. This privacy statement applies solely to information collected by this Site.
 
-[](https://web.archive.org/web/20030801123131id_/http%3A//www.jamfsoftware.com/%3Fpage%3Dprivacy?page=products)
+None of the information volunteered by visitors on the Site will be released outside of our company except to JAMF Software Business Partners, Authorized Resellers, or other JAMF Software Distributors in order to follow-up with you regarding downloads, services, opportunities, or additional requested information.
 
-[](https://web.archive.org/web/20030801123131id_/http%3A//www.jamfsoftware.com/%3Fpage%3Dprivacy?page=support)
+Also, entities into which our company may be merged, or entities to which any of our assets, products, sites or operations may be transferred, will be able to use personal information. We will also disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena or other legal obligation, in response to a law enforcement agency's request, or in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property. Please also be aware that courts of equity, such as U.S. Bankruptcy Courts, might have the authority under certain circumstances to permit personal information to be shared or transferred to third parties without your permission.
 
-[](https://web.archive.org/web/20030801123131id_/http%3A//www.jamfsoftware.com/%3Fpage%3Dprivacy?page=contact)
+JAMF Software may amend this policy. If we change our Privacy Policy, we will post those changes on this page so you are aware of what information we collect, how we use it and under which circumstances, if any, we disclose it. We recommend you check this policy frequently to keep abreast of any changes.
 
-|    
-
-
-> **Privacy Statement**  
->  JAMF Software has posted this privacy statement to assure you of our firm commitment to your privacy.
-> 
-> | **IP Address** |   |   | Our web tracking system tracks IP address in order to prevent any malicous activity.   
-> ---|---|---|---  
-> **Ordering** |   |   | We use a secure order form for customers to request software. Any information collected by JAMF Software during the order process is used only to contact about the order or product.  
-> **Security** |   |   | Our site has security measures in place to protect the loss, misuse and alteration of the information under our control. We use an authenticated digitial SSL certificate from GEOTRUST, and all credit card information is destroyed after the payment has been approved.  
-> **Email Address** |   |   | Your email address is not sold or made available to any third parties.  
-> **Personal Information** |   |   | Any personal information is used for internal purposes only. It will never be sold or made available to third parties.  
-  
-  
-
-
-* * *
-
-  
-[Contact US](https://web.archive.org/web/20030801123131id_/http%3A//www.jamfsoftware.com/%3Fpage%3Dprivacy?page=contact) | [Privacy Policy](https://web.archive.org/web/20030801123131id_/http%3A//www.jamfsoftware.com/%3Fpage%3Dprivacy?page=privacy)
-
-© 2002-2003 JAMF Software, LLC 
+If you have questions regarding our Privacy Policy, please contact us at: [ privacy@jamfsoftware.com.](mailto:privacy@jamfsoftware.com)
