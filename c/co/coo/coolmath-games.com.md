@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the coolmath-games.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018222427id_/http%3A//www.coolmath.com/privacyp.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolmath-games.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630190755id_/http%3A//www.coolmath.com/privacyp.htm) for the most accurate reproduction.*
 
-# Cool math .com - math lessons, math games, math puzzles - About Us
+# Cool math - Privacy Policy
 
 **We at Coolmath.com, Inc. want everyone's visit here to be enjoyable and safe. This privacy policy tells you what information we collect from the Coolmath family of sites (Coolmath.com, Coolmath4kids.com, ScienceMonster.com, Coolmath4parents.com, Coolmath4teachers.com), and how we maintain and use such information. If we make any changes to this Policy, they will be posted on this page and will be effective when posted. Your continued use of the Coolmath family of sites following the posting of any change shows your acceptance of the changes.**
 
 **For each visitor to our websites, our server automatically recognizes the visitor's IP address only - not the e-mail address.**
 
-**We collect only the IP address, but not the e-mail address, of visitors to our Web site, and the e-mail addresses of those who choose to communicate with us via e-mail.**
+**We collect only the IP address, but not the e-mail address, of visitors to our Web site, and the e-mail addresses of those who choose to communicate with us via e-mail.    We never give your email address to anyone else!**
 
 **We do not use cookies to collect information from our visitors.**
 
-**Coolmath uses second and third party advertisers for all of the advertising that appears on our sites.   These advertisers do NOT automatically collect any personal information from you...  Any information collected is anonymous -- like what country you are from, what U.S. state you are from, etc.  You can always opt out by going to [ http://www.networkadvertising.org/](http://www.networkadvertising.org/).**
+**Coolmath uses second and third party advertisers for all of the advertising that appears on our sites.   These advertisers do NOT automatically collect any personal information from you...  Any information collected is anonymous -- like what country you are from, what U.S. state you are from, etc.  **
 
 **KIDS!!
 
@@ -20,7 +20,7 @@ Remember, always check with your parent or guardian when surfing the net!
 
 **
 
-**Be sure to check out our tips for[safe surfing](https://web.archive.org/web/20061018222427id_/http%3A//www.coolmath.com/safesurf.htm)!PARENTS NOTICE
+**Be sure to check out our tips for[safe surfing](https://web.archive.org/web/20070630190755id_/http%3A//www.coolmath.com/safesurf.htm)!PARENTS NOTICE
 
 It is important for you to talk with your child about using the Internet safely. Here are just a few things to keep in mind when talking to your kids about the Internet:  
 * Remind your child to never give out his or her full name, address, or phone number without your permission.  
@@ -29,7 +29,7 @@ It is important for you to talk with your child about using the Internet safely.
 
 **
 
-**Be sure to visit our tips for[safe surfing](https://web.archive.org/web/20061018222427id_/http%3A//www.coolmath.com/safesurf.htm) with your child and discuss the importance of this with your child.**
+**Be sure to visit our tips for[safe surfing](https://web.archive.org/web/20070630190755id_/http%3A//www.coolmath.com/safesurf.htm) with your child and discuss the importance of this with your child.**
 
 **We will not condition a child's participation in a certain activity on the site on the child's providing more personal information than is necessary in order to allow such participation.**
 
