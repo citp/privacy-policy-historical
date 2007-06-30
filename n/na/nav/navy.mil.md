@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the navy.mil privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208081726id_/http%3A//www.navy.mil/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the navy.mil privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630143557id_/http%3A//www.navy.mil/privacy.asp) for the most accurate reproduction.*
 
 # The US Navy
 
@@ -9,7 +9,7 @@ Privacy Policy
 > Notice:  
 >  This is a U.S. Government Web Site
 > 
-> This is a World Wide Web site for official information about the United States Navy. It is provided as a public service by the [U.S. Navy's Office of Information, Washington, D.C.](http://www.chinfo.navy.mil/navpalib/chinfo/chinfo.html). The purpose of this Web site is to provide information about the United States Navy to the general public. All information on this site is considered public information and may be distributed or copied unless otherwise specified. Use of appropriate byline/photo/image credits is requested. 
+> This is a World Wide Web site for official information about the United States Navy. It is provided as a public service by the [U.S. Navy's Office of Information, Washington, D.C.](http://www.chinfo.navy.mil/chinfo.html). The purpose of this Web site is to provide information about the United States Navy to the general public. All information on this site is considered public information and may be distributed or copied unless otherwise specified. Use of appropriate byline/photo/image credits is requested. 
 > 
 > Unauthorized attempts to **upload** information or **change** information on this web site are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act. 
 > 
