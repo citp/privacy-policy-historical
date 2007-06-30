@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dvd-photo-slideshow.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017172530id_/http%3A//dvd-photo-slideshow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvd-photo-slideshow.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630152422id_/http%3A//www.dvd-photo-slideshow.com/privacy.html) for the most accurate reproduction.*
 
-# DVD Photo Slideshow - Digital photo album software which converts photo or picture to DVD, Flash, 3GP, MPEG, MPEG-4, MP4, FLV for YouTube.
+# Photo to DVD Slideshow Software - Slideshow DVD, Photo to DVD, DVD Slide Show
 
 ## Privacy Policy:
 
