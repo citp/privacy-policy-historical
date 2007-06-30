@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joomlart.com privacy policy that was archived on 2006-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061031065704id_/http%3A//www.joomlart.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlart.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630052644id_/http%3A//www.joomlart.com/privacy.html) for the most accurate reproduction.*
 
 # Joomla Templates Club - Professional - High quality Joomla template - Privacy Policy
 
@@ -63,7 +63,7 @@ You are free to update your information at any time directly through our Site. A
 
 To change your information, or request that your information be changed, please use one of the following options:
 
-  * Log in at http://www.joomlart.com and click on "Your Deatails" link
+  * Log in at http://www.joomlart.com and click on "Your Details" link
   * Send email to us at privacy@joomlart.com. Please note that this email address will reject messages with attachments of any kind. 
 
 
