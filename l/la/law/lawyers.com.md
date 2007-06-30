@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lawyers.com privacy policy that was archived on 2006-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060425052454id_/http%3A//lawyers.com/utility/privacy/index.php%3FLDC_userId%3D259129902%26LDC_sessionId%3D320800220) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawyers.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630123108id_/http%3A//www.lawyers.com/utility/privacy/index.php) for the most accurate reproduction.*
 
-# 
+# None
 
 **Martindale-Hubbell Privacy Policy**
 
@@ -43,7 +43,7 @@ In each of the instances above, we typically ask for some or all of the followin
 
 Martindale may merge your information collected at our Web site with similar data from third parties for purposes of marketing products or services to you.
 
-The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address or other personal information), is used to serve ads to you on this site. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique ‘cookie’ on your browser. For more information about DoubleClick, cookies, and how to ‘opt-out’ of this service, please [click here](http://www.doubleclick.com/us/corporate/privacy/privacy/default.asp?asp_object_1=&).
+The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address or other personal information), is used to serve ads to you on this site. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. For more information about DoubleClick, cookies, and how to opt-out of this service, please [click here](http://www.doubleclick.com/us/corporate/privacy/privacy/default.asp?asp_object_1=&).
 
 Other unique circumstances may arise where we are required to disclose your personal information to third parties, such as in connection with a corporate divestiture or dissolution where all or a portion of our business or assets (including our associated customer lists containing your personal information) are sold, or if disclosure is required by law or is pertinent to judicial or governmental investigations or proceedings.
 
