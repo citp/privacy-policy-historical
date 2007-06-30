@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pfizer.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231115254id_/http%3A//www.pfizer.com/pfizer/privacy/mn_privacy_truste.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pfizer.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630183540id_/http%3A//www.pfizer.com/pfizer/privacy/mn_privacy_truste.jsp) for the most accurate reproduction.*
 
 # Pfizer | Privacy Policy
 
@@ -59,7 +59,7 @@ Important Information
 |  |  |   
 ---  
   
-Copyright © 2002-2006 Pfizer Inc. All rights reserved | [Terms of Use](https://web.archive.org/pfizer/mn_terms.jsp)
+Copyright © 2002-2007 Pfizer Inc. All rights reserved | [Terms of Use](https://web.archive.org/pfizer/mn_terms.jsp)
 
 The product information provided in this site is intended only for residents of the United States. The products discussed herein may have different product labeling in different countries.
 
