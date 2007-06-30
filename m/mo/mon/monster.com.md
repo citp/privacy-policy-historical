@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monster.com privacy policy that was archived on 2006-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061227174148id_/http%3A//about.monster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monster.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630181830id_/http%3A//about.monster.com/privacy) for the most accurate reproduction.*
 
 # Monster - Privacy Statement
 
@@ -21,7 +21,7 @@ We also gather or may gather certain information about your use of Monster and M
 
 We may sometimes afford you the opportunity to provide descriptive, cultural, behavioral, preferential and/or life style information about yourself, but it is solely up to you whether you furnish such information. If you do provide such information, you are thereby consenting to the use of that information in accordance with the policies and practices described in this Privacy Statement. For example, such information may be used for the purpose of determining your potential interest in receiving e-mail or other communications about particular products or services. 
 
-If you choose to use our referral service to tell a friend about the Monster Sites or refer a job posting to a friend, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Monster Sites or view the job posting. We do not store this information. 
+If you choose to use our referral service to tell a friend about the Monster Sites or refer a job posting to a friend, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Monster Sites or view the job posting. We do not store this information.
 
 **Our Use of Your Information**
 
@@ -40,14 +40,8 @@ We have areas on the Monster Sites where you can submit feedback. Any feedback y
 We do not disclose your personal information to third parties, or your combined personal and demographic information or information about your use of Monster or Monster Networking (such as the areas you visit or the services you access), except as set forth below.
 
   1. We disclose information to third parties if you consent to such disclosure. For example, if you indicate that you would like to receive information about the opportunities, products or services of third parties at the time you register for a MyMonster account, we supply your contact information to third parties such as employers, recruiters, data aggregators, marketers or others for the purpose of sending you e-mail or otherwise communicating with you. We use data we have about you (such as the interests and preferences you have expressed) to determine whether you might be interested in the opportunities, products or services of a particular third-party.
-  
-
-  2. We disclose information to companies and individuals we employ to perform functions on our behalf. Examples include hosting our Web servers, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. These companies and individuals will have access to your personal information as necessary to perform their functions, but they may not share that information with any other third party.
-  
-
+  2. We disclose information to companies and individuals we employ to perform functions on our behalf. Examples include hosting our Web servers, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. These companies and individuals will have access to your personal information as necessary to perform their functions, but they may not share that information with any other third party. 
   3. We disclose information if legally required to do so, if requested to do so by a governmental entity or if we believe in good faith that such action is necessary to: (a) conform to legal requirements or comply with legal process; (b) protect our rights or property or our affiliated companies; (c) prevent a crime or protect national security; or (d) protect the personal safety of users or the public.
-  
-
   4. We disclose and transfer information to a third party who acquires all or a substantial portion of our business, whether such acquisition is by way of merger, consolidation or purchase of all or a substantial portion of our assets. In addition, in the event we become the subject of a bankruptcy proceeding, whether voluntary or involuntary, we or our trustee in bankruptcy may sell, license or otherwise dispose of such information in a transaction approved by the bankruptcy court. You will be notified of sale of all or a substantial portion of our business to a third party via email or through a prominent notice posted on the Monster Sites.
 
 
@@ -68,9 +62,7 @@ If you apply for a position on Monster or through a Hosted Career Site, you may 
 
 Since Monster is a career site, we give you three options regarding the accessibility of your resume:
 
-  1. You can store your resume in our database, but not allow it to be searchable by potential employers. Not allowing your resume to be searchable means that you can use it to apply for a job online, but employers and recruiters will not have access to search it through our resume database product.
-  
-
+  1. You can store your resume in our database, but not allow it to be searchable by potential employers. Not allowing your resume to be searchable means that you can use it to apply for a job online, but employers and recruiters will not have access to search it through our resume database product. 
   2. If you allow your resume to be searchable without making it confidential and hiding your contact information, then all parties with access to our searchable resume database (or copies thereof) will have access to your resume.
   
 
@@ -84,15 +76,11 @@ We attempt to limit access to our searchable resume database (or copies thereof)
 
 **Posting to Public Areas of Monster**
 
-Please remember that if you post any of your personal information in public areas of Monster or Monster Networking, such as in online forums or chat rooms, or in the Monster searchable resume database, such information may be collected and used by others over whom we have no control. We are not responsible for the use made by third parties of information you post or otherwise make available in public areas of Monster or Monster Networking.
+Please remember that if you post any of your personal information in public areas of Monster or Monster Networking, such as in online forums or chat rooms, or in the Monster searchable resume database, such information may be collected and used by others over whom we have no control. We are not responsible for the use made by third parties of information you post or otherwise make available in public areas of Monster or Monster Networking. 
 
 **Use of Cookies**
 
-We use "cookies" to help personalize and maximize your online experience and time online. A cookie is a text file that is placed on your hard drive by a Web page server. Cookies are not used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to your computer, and can only be read by a Web server in the domain that issued the cookie to you.
-
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Monster pages, or register for services, a cookie helps us to recall your specific information (such as user name, password and preferences). Because of our use of cookies, we can deliver faster and more accurate results and a more personalized site experience. When you return to Monster, the information you previously provided can be retrieved, so you can easily use the features that you customized. We also use cookies to track click streams and for load balancing.
-
-You may have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline all cookies if you prefer. Alternatively, you may be able to modify your browser setting to notify you each time a cookie is tendered and permit you to accept or decline cookies on an individual basis. If you choose to decline cookies, however, that may hinder performance and negatively impact your experience on Monster and Monster Networking.
+We use "cookies" to help personalize and maximize your online experience and time online. A cookie is a text file that is placed on your hard drive by a Web page server. Cookies are not used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to your computer, and can only be read by a Web server in the domain that issued the cookie to you. One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Monster pages, or register for services, a cookie helps us to recall your specific information (such as user name, password and preferences). Because of our use of cookies, we can deliver faster and more accurate results and a more personalized site experience. When you return to Monster, the information you previously provided can be retrieved, so you can easily use the features that you customized. We also use cookies to track click streams and for load balancing. You may have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline all cookies if you prefer. Alternatively, you may be able to modify your browser setting to notify you each time a cookie is tendered and permit you to accept or decline cookies on an individual basis. If you choose to decline cookies, however, that may hinder performance and negatively impact your experience on Monster and Monster Networking. 
 
 **Use of Web Beacons**
 
@@ -100,15 +88,14 @@ Monster and Monster Networking Web pages may contain electronic images known as 
 
 You may not decline web beacons, however, they can be rendered ineffective by declining all cookies or modifying your browser setting to notify you each time a cookie is tendered and permit you to accept or decline cookies on an individual basis.
 
-Third parties are not permitted to use Web beacons on the Monster Sites.
-
 **Access to and Modification of Your Information**
 
 You may review, correct, update or change your MyMonster account, Monster Networking profile or Monster Networking account information at any time. From your MyMonster account you may also opt out of receiving newsletters and certain other information from Monster.
 
-To change your MyMonster account information, simply log into your MyMonster account, go to your Account Profile, review your account information and, if you wish, edit it with the options provided. [Click here](http://my.monster.com/updateacct.asp) to access your MyMonster Account Profile page.
+To change your MyMonster account information, simply log into your MyMonster account, go to your Account Profile, review your account information and, if you wish, edit it with the options provided. [Click here](http://my.monster.com/account/accountedit.aspx) to access your MyMonster Account Profile page.
 
-To change your Monster Networking profile, simply log into your My Network account, click edit inside your Profile or choose a link under Manage Your Profile. [Click here](http://my.monster.com/updateacct.asp) to access your Monster Network Profile page. To change your Monster Networking billing account information, simply log into your Monster Networking account and choose a link under Manage Your Account. [Click here](http://my.monster.com/updateacct.asp) to access your Monster Network Profile page. If you opted to receive newsletters, commercial e-mails or other communications from Monster or third parties at the time you created a MyMonster account, but subsequently change your mind, you may opt-out by editing your MyMonster Account Profile as described above. If you previously opted not to receive such communications, you may later opt-in by editing your MyMonster Account Profile as well.   
+To change your Monster Networking profile, simply log into your My Network account, click edit inside your Profile or choose a link under Manage Your Profile. [Click here](http://my.monster.com/account/accountedit.aspx) to access your Monster Network Profile page. To change your Monster Networking billing account information, simply log into your Monster Networking account and choose a link under Manage Your Account. [Click here](http://my.monster.com/account/accountedit.aspx) to access your Monster Network Profile page. If you opted to receive newsletters, commercial e-mails or other communications from Monster or third parties at the time you created a MyMonster account, but subsequently change your mind, you may opt-out by editing your MyMonster Account Profile as described above. If you previously opted not to receive such communications, you may later opt-in by editing your MyMonster Account Profile as well. 
+
 We retain indefinitely all the information we gather about you in an effort to make your repeat use of Monster or Monster Networking more efficient, practical, and relevant. Of course, you can delete your resume from Monster's online database, close your MyMonster account at any time delete your Monster Networking profile and close your Monster Networking account, in which event we will remove all our copies of your resume from Monster, your MyMonster account information and remove your Monster Networking profile and Monster Networking account information, except for an archival copy which is not accessible on the Internet.
 
 **Security of the Personal Information**
@@ -119,15 +106,15 @@ When you place an order online at Monster or Monster Networking, your credit car
 
 **Children**
 
-The Monster Sites are not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13.
+The Monster Sites are not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13. 
 
 **Safe Harbor**
 
-We participate in the Department of Commerce's Safe Harbor Framework arising out of the U.S. implementation of the European Union Data Protection Directive. We have certified adherence to the Safe Harbor Privacy Principles for each of the Monster Sites. For more information about the Safe Harbor Privacy Principles and to view our certification, visit the [U.S. Department of Commerce's Safe Harbor](http://www.export.gov/safeharbor/) Web site. If you would like to contact us directly about the Safe Harbor program, please send an e-mail to safeharbor@monster.com.
+We participate in the Department of Commerce's Safe Harbor Framework arising out of the U.S. implementation of the European Union Data Protection Directive. We have certified adherence to the Safe Harbor Privacy Principles for each of the Monster Sites. For more information about the Safe Harbor Privacy Principles and to view our certification, visit the [U.S. Department of Commerce's Safe Harbor Web site](http://www.export.gov/safeharbor/). If you would like to contact us directly about the Safe Harbor program, please send an e-mail to [safeharbor@monster.com](mailto:safeharbor@monster.com).
 
 **Third Party Seal and Dispute Resolution**
 
-Monster Worldwide, Inc. Monster, Inc. and Monster Technologies, Inc. are members of the TRUSTe privacy seal program, the TRUSTe E.U. Safe harbor seal program and the TRUSTe dispute resolution program. TRUSTe has certified the practices of Monster and Monster Networking. Please consult the TRUSTe Web site [http://www.truste.com](http://www.truste.com/) for more information concerning TRUSTe's privacy programs and dispute resolution procedures. The TRUSTe programs cover only information collected through Monster and Monster Networking, and does not cover information that may be collected through software downloaded from the Monster Sites.
+Monster Worldwide, Inc. Monster, Inc. and Monster Technologies, Inc. are members of the TRUSTe privacy seal program, the TRUSTe E.U. Safe harbor seal program and the TRUSTe dispute resolution program. TRUSTe has certified the practices of Monster and Monster Networking. Please consult the TRUSTe Web site http://www.truste.com for more information concerning TRUSTe's privacy programs and dispute resolution procedures. The TRUSTe programs cover only information collected through Monster and Monster Networking, and does not cover information that may be collected through software downloaded from the Monster Sites.
 
 **Changes to Privacy Statement**
 
