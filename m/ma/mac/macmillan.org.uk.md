@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macmillan.org.uk privacy policy that was archived on 2006-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061012221519id_/http%3A//www.macmillan.org.uk/Privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macmillan.org.uk privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630154742id_/http%3A//www.macmillan.org.uk/Privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -43,6 +43,26 @@ Unfortunately, the transmission of information via the internet is not completel
 **Cookies**
 
 We use alphanumeric identifiers (“ **cookies** ”) which are transferred to your computer’s hard drive through your web browser to enable our system to recognise your browser when you return to this Site and to monitor traffic patterns. You may modify your web browser to prevent it from accepting new cookies, to notify you when a cookie is received or to disable cookies entirely. Doing so, however, may prevent you from enjoying certain features of this Site. Find out more about Cookies by visiting [www.cookiecentral.com](http://www.cookiecentral.com/). 
+
+We use a type of cookie known as a "persistent" cookie. If you tick the 'Remember Me' box your email address and password will be saved in a cookie on this computer. This means that the next time you log on you will not need to re-enter these details. This cookie allows us to: 
+
+  * welcome you as an individual when you log on to our website; 
+
+
+
+In the future this cookie may: 
+
+  * track where you have come from if you have come to our website from another website; and 
+
+
+
+track how many times you visit a page. 
+
+  * If you delete the cookie or your browser is set to not accept cookies this function will not work. For removing the 'Remember Me' cookie, just untick the 'Remember Me' box when you sign in. 
+
+
+
+**Warning: we suggest you do not select the "Remember Me" function if you are using a shared computer or non-secure access.**
 
 **What do we do with your Personal Information?**
 
