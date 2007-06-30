@@ -1,124 +1,149 @@
-> *The following text is extracted and transformed from the incrediblethings.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001204920id_/http%3A//www.qwest.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incrediblethings.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630182742id_/http%3A//customersupport.networksolutions.com/article.php%3Fid%3D306) for the most accurate reproduction.*
 
-# Qwest | Legal Notices
+# Privacy Policy
 
-**Customer Privacy Policy**
+#### Find Answers To Your Questions:
 
-**REVISED October 10, 2001**
+Search by keyword or browse by category for immediate answers to frequently asked questions: 
 
-Like you, we at Qwest are concerned about customer privacy. We have a long history of maintaining the privacy of information we obtain in the normal course of providing our services. We work hard to serve you through new and exciting products and services. In the process, we remain sensitive to privacy issues.
+### Privacy Policy
 
-**The Information We Obtain and How We Use It**
+**Why A Privacy Policy?**  
 
-The information we obtain from you is generally necessary for us to provide your services and design new services for your future use. For example, we need to know your name, address and the services you buy from us to properly provide and bill for those services. When you call us, our representatives pull up account records and may refer to your bill, your calling patterns, and other information we have to answer questions you may have or recommend how we can best serve you.
+  
+Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
 
-We may also use information in our records to protect our customers, employees or property — for instance, to investigate fraud, harassment or other types of unlawful service activities involving Qwest or other carriers that we do business with. In some cases, it may be necessary to provide this information to the government or third parties who make a lawful demand for it.
+ **This Privacy Policy protects your privacy by:**
 
-We share information within our Qwest companies to enable us to better understand our customers' product and service needs, and to learn how to best design, develop, and package products and services to meet those needs. Like any large business, we may structure our company to include a number of smaller companies. Currently, our primary lines of business include local and long distance services, wireless services, cable services, dedicated web hosting, Internet access for businesses and consumers, on-line services, and directory publishing. We also offer other products and services, for example, Frame Relay, Asynchronous Transfer Mode (ATM), telephone equipment, voice mail services, and directory advertising.
+ **Informing you about:**
 
-**Accuracy of the Information We Hold**
+  * The types of personal information Network Solutions collects about you through its Web sites; 
+  * How it collects that information; 
+  * The general purposes for which it collects such information; 
+  * The types of organizations to which it discloses the information; 
+  * The choices and means by which individuals may limit its use and disclosure. 
 
-We want the information we obtain and use about customers to be accurate. If your service information or your personal contact information changes or you see an inaccuracy on your Qwest bill, let us know so we can correct it.
 
-**Security and Accountability**
 
-We have information systems that collect and store customer information in addition to systems that store our own business records. These systems have different types of security as appropriate for the information stored. Qwest requires employees to keep customer information confidential and we hold them accountable for their actions.
+**Empowering you to choose:**
 
-**Providing Services to Enhance Your Privacy**
+  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and 
+  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it). 
 
-Non-published numbers, Caller ID and Caller ID blocking services, Anonymous Call Rejection, and No Solicitation are among the privacy services Qwest offers to enhance your privacy.
 
-**Disclosure of Information Outside Qwest**
 
-As a general rule, Qwest does not release customer account information to unaffiliated third parties without your permission unless we have a business relationship with those companies where the disclosure is appropriate. For example, we may hire outside companies as contractors or agents; or we might be engaged in a joint venture or partnership with a company. Upon occasion, Qwest may decide to stop providing a service or may decide to sell or transfer parts of our business to unaffiliated companies. When this happens, we may provide confidential customer information to these companies so that they can offer you the same or similar services. In all of these situations, we provide information to these other companies only as needed to accomplish our business objectives and the companies are bound by requirements to keep Qwest customers' information confidential.
+**Assuring you that Network Solutions:**
 
-There are exceptions to the general rule. For example, we might provide information to regulatory or administrative agencies so that they can accomplish their regulatory tasks (for example, responding to a customer complaint) or to maximize the efficiencies of our own processes (such as getting mailing addresses correct, for example). Other disclosures will be driven by legal requirements imposed on Qwest. Qwest complies with "legal process," such as a subpoena or court order or other similar demand, associated with either criminal or civil proceedings.
+  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction; 
+  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered; 
+  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and 
+  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate. 
 
-> **Disclosure of Account Information**
-> 
-> If you tell us in writing to release your account information to someone, we will honor your request and provide that information.
-> 
-> Your account information is released to other carriers when you give us your permission or when they advise us they have your approval to access the information. This most often occurs with respect to a sale of service they want to make or have made to you. Unless we are advised that permission from you has been granted, we do not release the information.
-> 
-> We may provide account information to collection agencies when customers do not pay their bills. We restrict the use that can be made of this information to collection activities only for our charges and for the charges we bill for others.
-> 
-> Other carriers use Qwest to bill for their charges. In this case, they provide us with information about you, including your calling patterns, and we bill you on their behalf. In turn, we provide them with non-sensitive information about your service, such as the date your service was established or disconnected; whether you have toll or 900 blocking services, whether you have a calling card or not and when it was issued, how you pay your bills and if they are paid on time.
-> 
-> **Disclosure of Customer Telephone Numbers, Names and Addresses**
-> 
-> Telephone number, name and sometimes address information is "released" by Qwest in different ways. It is sometimes released as "lists" to entities that are entitled by law to receive the information or which have entered into contracts with Qwest to receive it. The information is sometimes released through the network "transactionally," such as when your phone number and name are released through a Caller ID mechanism. Sometimes the information is provided in reports to those persons who are being called by you and want to know more about who is calling them and when. Whether a number is recognized as "published" or not will generally depend on the medium by which the number is captured and released.
-> 
-> For example, a person can ask Qwest to include them in directories (that is "publish" their number) or not. Persons can ask to not be published in directories but included in Directory Assistance (non-listed numbers). Or persons can ask not to be either in directories or Directory Assistance (non-published). All of these terms refer to a "listing" status.
-> 
-> However, the telephone **network** does not recognize a number as published/listed or non-listed or non-published. Thus, the network will "pass" that number to interconnecting carriers (local, long distance, wireless) and to called parties. Only if the network (a) has the capability to block the number; and (b) you have invoked a blocking mechanism will the called party (but not the carriers in between) be unable to see the calling number. And, where both the calling number and name are "carried" as part of the network call, generally both will be displayed or both will be blocked.
-> 
-> In some cases, such as on some party- or coin-operated lines, as well as calls to pay-per-call (900) or toll-free numbers (such as 800/888/877 numbers), the network does not have the capability to block your underlying phone number even if you invoke Caller ID blocking. And there may be other services that rely on this type of automatic number identification (ANI) technology, such as cable companies that offer movies keyed to the automatic delivery of your phone number or pizza companies that route your calls to the closest stores based on your number. There are a variety of businesses that subscribe to these types of services. By federal regulation, however, businesses that utilize this technology can only use it to provide you the service in question or one directly related to it. And, because federal law requires phone numbers associated with facsimile transmissions to be released as part of the facsimile, these phone numbers are not blocked either.
-> 
-> When you order services from us to connect to an Internet Service Provider (ISP) or choose a carrier, we may need to advise them of your telephone number in order that they may provide your requested service. This includes non-listed and non-published telephone numbers.
-> 
-> In addition to the above types of disclosures, Qwest is required, by law, to make disclosures of customer telephone number, name and address information in certain circumstances, including those described below.
-> 
->   * We are required to provide **listed** customer names, addresses and telephone numbers to directory publishers - our own and others. Qwest and other directory publishers may publish this information in alphabetical or reverse directories that take the form of paper directories, electronic directories over the Internet, or on CDs. We also provide customer name and addresses for all customers (including non-listed and non-published customers) to directory publishers to allow for directory deliveries, but only for that purpose.
->   * We are required to provide customer names, addresses and telephone numbers to directory assistance and operator services providers. This information includes non-listed information, as well as the name and address of non-published customers. By contract, Qwest requests these companies to honor the privacy indicators that may be included in their purchased lists and such indicators are included for nonlisted and nonpublished numbers. Some of these providers offer Internet or online directory assistance services.
->   * In some cases, when you dial 911, your name, address and telephone number information is provided to the emergency service provider. And, by law, we are required to provide this information, including non-listed and non-published information, to emergency service providers and emergency support services providers upon request in a more comprehensive format.
->   * If you place a long distance call using a provider other than the one you use on your home phone -- for example, if you place a calling card or third number billed call from a pay phone - Qwest is required by law to provide billing name and address information to the service provider. This includes names and addresses associated with non-published and non-listed information where the individual has not objected. This information cannot be used for marketing purposes. Similar information is provided with respect to the provision of services by non-Qwest carriers.
-> 
 
-> 
-> We might provide your name and address to administrative agencies where we are working with them to minimize costs and maximize accuracy. For example, we might share this information with the Post Office so that we continue to get reduced postage rates and you get your bills and other information from us in a cost-efficient, reliable and timely fashion.
-> 
-> We also compile lists of customer names, addresses and telephone numbers of the type printed in the White Pages directories and provide these lists to qualified companies that are conducting product promotions. Non-published and non-listed numbers are not included in these lists and we remove other customers from these lists by request.
 
-**Your Control Over the Disclosure of Information**
+**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles. 
 
-You tell us the telephone listings you want to include in our directories and in directory assistance. You also may choose to have a non-published or non-listed number, or to exclude your address from your listing.
+  
+**Third Party Advertising and Cookies**
 
-As we addressed above, in certain cases you can block the transmission of your telephone number (and name) to those persons you call.
+We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit 
 
-Our Qwest divisions may provide you with information about new products and services or special promotions. However, Qwest does maintain an internal "Do Not Call" list in line with federal law. If you ask not to be contacted, the business or division that is calling you will put your telephone number on a list. Other Qwest business divisions will still be able to call you unless you make it clear that you do not want to be contacted by any Qwest business unit. Some states have adopted their own "Do Not Call" laws, which are usually managed by a third party database administer. Often those laws permit continued contact with persons whose numbers are on the list when there is an existing business relationship, so you might get a call from us even if you are on these kinds of lists.
+[http://www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy) and <http://www.accipiter.com/company/privacy.php>. 
 
-It is Qwest's practice to stop sending direct mail materials to individuals that request it not be sent. There are no laws that control this accommodation but we respect the desire of individuals to be free of such communications if they wish.
+Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click 
 
-Qwest or its business partners may use e-mail to communicate with customers about events or new products and services or to respond to visitor's e-mails. Our residential local telephone service customers may visit our qwest.com web site, [E-mail Contact Preferences](https://web.archive.org/residential/products/newsletter.html) page to add or remove themselves from our email list. If you receive unwanted email from us you may also remove yourself from our email list by simply following the "unsubscribe" instructions in the email. We will not send commercial solicitations to customers who request it not be sent. Please note that if you do go through this process, some e-mail messages may still come to you, although not those dealing with commercial solicitations. For example, we may e-mail you about viruses, or changes to your service, or other types of product advisories.
+[here](http://www.privacychoices.org/).   
+**Information Corrections or Changes**  
+You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at <https://www.networksolutions.com/en_US/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com). 
 
-We honor customer requests to have their names removed from lists that Qwest might provide to firms desiring to do product promotions. Customers with non-listed and non-published numbers are not included on the lists. For individuals with listed information, if you do not wish to have your name included on such lists, just tell us and we will remove your name at no charge.
+**How We Put Information to Good Use**  
+We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
 
-**Qwest Choice TV & OnLine ServicesTM**
+We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
 
-For more information on our Customer Privacy Policy related to Qwest Choice TV & OnLine Services [click here](https://web.archive.org/legal/choice_privacy.html).
+Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
 
-**Privacy Over the Internet**
+If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
 
-Qwest appreciates that some individuals believe that special privacy concerns arise around information transmitted or collected over the Internet or through web sites. Below we describe our practices to address those concerns.
+Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
 
- **Cookies:** Some of Qwest's Web sites may use "cookies" to improve our level of service and speed up the delivery of information to our visitors. Cookies are lines of text that are transmitted to your Web browser when you click on a site. They provide a way for a server to recall a previous request or previous registration, or to keep track of a transaction as it progresses, so that information does not have to be repeated. Your browser stores the information on your hard drive and when you return to that site later, the cookie is transmitted back only to the servers that originally sent it to you. To be notified when you are about to receive a cookie you can configure your browser to alert you when a site is attempting to send you a cookie and at that time you will have the option of refusing the cookie. You can check your hard drive for cookie files in a "cookies" folder for Internet Explorer, a "cookies.txt" file for Netscape, and under "magic cookies" on a Macintosh.
+ **Getting to Know Our Customers**
 
-Advertisers that serve ads on our Web sites may also use their own cookies. These cookies collect their own information independent of Qwest. You can disable this cookie capability as described above.
+Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
 
-**How online information Qwest collects is used:** Generic Information -- To gauge the effectiveness of our Web sites, we do collect some non-individually-identifiable generic information about our visitors. Our Web servers automatically recognize a visitor's Internet service provider, the IP address, the domain name, the type of browser, and the operating system. And, also which pages are viewed on our sites, the Web page you were on when you link to our sites, how much time a visitor spends on each page and other information related to the operation and interaction of Qwest Web sites. This information does not reveal a visitor's identity. We aggregate this information and use it to evaluate and improve our Web sites.
+We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at 
 
-Identifiable Information -- You can choose to provide individually-identifiable information to Qwest in a number of ways through our Web sites - by ordering a service from us, sending us email, registering to receive news or information, applying for a job, or entering a contest. When visitors supply information about themselves for a specific purpose, Qwest uses the information for that purpose (such as to provide the information the visitor has requested or to consider a visitor for a particular job). In addition, when visitors use our Web sites to order services, or to request information about our services, we may use the individually-identifiable information as we would use the same information obtained off-line - for example, to evaluate your service needs and contact you regarding additional services you may find useful.
+[www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
 
-Sometimes Qwest co-sponsors events with another company, such as contests or features. In that case, if you provide individually-identifiable information it most likely will be used by both Qwest and the co-sponsor.
+After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
 
-A user may choose to provide us individually-identifiable information to customize a personal home page. We use this information to better understand and serve our customers, but we do not share that information outside of Qwest. This information may be compiled on an aggregated basis and shared with our advertisers or business partners but the user will be anonymous.
+For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
 
-For our Qwest.net and Choice Online customers - as part of our ongoing efforts to improve our service, we or someone acting on our behalf may monitor Internet activity. This means that a user's session may be tracked, but the user will be anonymous. This process does not capture or transmit any personally identifiable information and the anonymous or aggregated information may be provided to third parties for other purposes.
+The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates. 
 
-When you order services from us to connect to an Internet Service Provider (ISP) we generally make information available to the ISP necessary to establish the connection.
+**With Whom We May Share Information**  
+Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
 
-We treat information we collect on line similarly to that we collect off-line. We do not sell or disclose individually-identifiable information obtained on-line to non-Qwest entities except as described above (when Qwest is in a business relationship with an unaffiliated party and then under confidentiality restrictions) unless you specifically authorize it, it is required by law (including the service of subpoenas or court orders in either civil or criminal lawsuits), or disclosure is necessary to protect the safety of customers, employees or property.
+When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. 
 
-The Qwest Web sites may contain links to other sites. We are not responsible for the content or privacy practices employed by other sites. Other Web sites may have different privacy policies or no policy. Users should review the privacy policies of any Web site before providing personal information.
+We may share certain information about you with our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors when necessary and appropriate, we will not share such information with any other third parties unless directed by you or except in response to formal requests in the form of a subpoena or court order issued in connection with civil or criminal proceedings related to a domain name registration or other services we provide, or in response to requests by law enforcement agencies when we suspect that you or your agent is using our services to cause harm or damage to us or others or adversely affect our ability to provide services to our customers
 
-Qwest places banner ads on others' web sites. When we do this, we collect non-personally identifiable information through the aid of third parties with whom we contract, using the most current browsing technology. This activity allows us to recognize a browser's cookie when a browser visits the site and helps us target our Internet advertisements. The information collected is anonymous and does not contain any information that would personally identify you. The information is shared among our contracting agents and our business operations in order to assess the results of a promotion or event.
+Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
 
-**Security of Your Information:** Qwest has databases and systems that are maintained to reasonably secure all of Qwest's commercial information, including information about customers. All credit card and bank account information you submit is encrypted through Secure Sockets Layer (SSL) software. We transmit the entire credit card number or bank information to the appropriate financial institution during processing.
+a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/manage-it/);
 
-**E-Mail Communications:** Qwest or its business partners may use email to communicate with customers about events or new products and services or to respond to visitors' emails. Qwest will not send commercial solicitations via email to customers who request it not be sent through the process outlined earlier.
+b. Click “Edit User Info” in the left menu;
 
-**Children:** Qwest does not currently target its online services to children under 13 years of age; and Qwest has no intention of collecting any information from children under 13 years old. However, some of our sites do contain links to content providers that collect such information. These companies are expected to comply with all laws pertaining to the collection of information from children. Because the Internet offers open access to a wide range of information, it is important that parents supervise and prevent access to inappropriate content, email or chat sessions.
+c. Scroll to the bottom of the page;
 
-* * *
+d. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and
 
-To improve the services it can offer you, Qwest may opt to expand its capabilities for obtaining information about users in the future. Qwest will update this privacy policy continually to ensure that you are aware of developments in this area.
+e. Click “SAVE.”
+
+  
+Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
+
+ **How Do I Get My Name Removed from Bulk Access**  
+As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
+
+a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com);
+
+b. Click “Edit User Info” in the left menu;
+
+c. Scroll to the bottom of the page;
+
+d. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and
+
+e. Click “SAVE.” 
+
+**Our Accountability to You**  
+By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
+
+In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below. 
+
+**Employee Accountability**  
+Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
+
+Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access. 
+
+**The Accountability of Network Solutions' Agents and Business Partners**  
+Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
+
+If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at 
+
+[privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
+
+Network Solutions, LLC  
+Attention: General Counsel  
+13861 Sunrise Valley Dr   
+Suite 300   
+Herndon VA 20171   
+United States  
+(703) 668-4600 
+
+**Notification of Changes**  
+We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to 
+
+[privacy@networksolutions.com](mailto:privacy@networksolutions.com).
+
+ **If you have any questions regarding this Privacy Policy, please contact[ privacy@networksolutions.com](mailto:privacy@networksolutions.com).**
