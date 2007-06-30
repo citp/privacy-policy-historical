@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationwide.co.uk privacy policy that was archived on 2006-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060925203747id_/http%3A//www.nationwide.co.uk/about_nationwide/membership_matters/cookie_and_privacy_policy/cookie_and_privacy_policy.htm%3FSource%3Dnationwide%26campaign%3Dfootlinks%26execution%3Dhomepage_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationwide.co.uk privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630210443id_/http%3A//www.nationwide.co.uk/about_nationwide/membership_matters/cookie_and_privacy_policy/cookie_and_privacy_policy.htm%3FSource%3Dnationwide%26campaign%3Dfootlinks%26execution%3Dhomepage_privacypolicy) for the most accurate reproduction.*
 
 # About Nationwide - Membership matters - Cookie and privacy policy
 
@@ -24,7 +24,7 @@ If you use standard e-mail for communication with Nationwide, information will n
 
 All e-mail sent to Nationwide will be monitored and checked to ensure our systems operate effectively.
 
-_This privacy policy only covers the Nationwide branded web sites. Links within this site to external web sites are not covered by this policy. Please note that any changes that Nationwide makes to this policy will be communicated electronically on the home-page of this site and not by individual written communication._
+_This privacy policy only covers the Nationwide branded web sites. Links within this site to external web sites are not covered by this policy. Please note that any changes that Nationwide makes to this policy will be communicated electronically on the home page of this site and not by individual written communication._
 
 [ How Nationwide uses your information.](https://web.archive.org/about_nationwide/membership_matters/cookie_and_privacy_policy/personal_information.htm)
 
@@ -36,6 +36,7 @@ A cookie is stored by your web browser in a text file on your computer with the 
 
 Nationwide uses cookies in the following ways:
 
+  * one of our security measures to ensure your Internet Banking session is secure. This is a non-persistent cookie while you are signed on to the Internet Bank 
   * to store your Customer Number so that you don't have to type it in each time you sign on to the Internet Bank
 
 
@@ -58,7 +59,7 @@ _Again no information will be recorded that uniquely identifies you._
 
 
 
-You may choose to set your browser to not accept any cookies - click on the link below to see how. Please be aware that in doing this certain websites (excluding Nationwide) may not operate correctly.
+You may choose to set your browser to not accept any cookies. Please be aware that in doing this, our Internet Bank will not operate correctly.
 
 Find out more about how Nationwide keeps your account secure on our [Security site](https://web.archive.org/security/default.htm).
 
@@ -66,13 +67,13 @@ Find out more about how Nationwide keeps your account secure on our [Security si
 
 **Browser or Web Browser**
 
-There are many web browsers but the most common ones are Netscape Navigator and Microsoft Internet Explorer.
+There are many web browsers but the most common ones are Microsoft Internet Explorer and Mozilla Firefox. 
 
-Web browsers are used to locate and display web pages.
+Web browsers are used to locate and display web pages. 
 
 **IP (Internet Protocol)**
 
-All networks connected to the internet speak IP, the technical standard which allows data to be transmitted between two devices. TCP/IP (Transmission Control Protocol/Internet Protocol) is responsible for making sure messages get from one computer to another and that the messages are understood.
+All networks connected to the Internet speak IP, the technical standard which allows data to be transmitted between two devices. TCP/IP (Transmission Control Protocol/Internet Protocol) is responsible for making sure messages get from one computer to another and that the messages are understood.
 
 **IP Address**
 
