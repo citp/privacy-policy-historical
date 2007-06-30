@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secondlife.com privacy policy that was archived on 2006-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061223152422id_/http%3A//secondlife.com/corporate/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secondlife.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630171540id_/http%3A//secondlife.com/corporate/privacy.php) for the most accurate reproduction.*
 
 # Second Life | Privacy Policy
 
@@ -48,7 +48,7 @@ Information about your account is displayed to other users in your Second Life p
 You may choose to disclose personal information in our online forums, via your Second Life profile, directly to other users in chat or otherwise while using the Second Life service. Please be aware that such information is public information and you should not expect privacy or confidentiality in these settings. 
 
   
-We employ industry-standard encryption technologies when transferring, receiving and storing consumer data. Access to your personal information is limited to those Linden Lab employees who require the information in order to provide products or services to you or perform their jobs. 
+We comply with applicable laws and industry standards when transferring, receiving and storing consumer data. Access to your personal information is limited to those Linden Lab employees who require the information in order to provide products or services to you or perform their jobs. 
 
   
 Linden Lab does not collect information from children ages 12 or younger because only those individuals who are 13 years of age or older are permitted to register. Registration for our mailing list, website and/or Second Life service requires entry of a valid and eligible Date of Birth. 
