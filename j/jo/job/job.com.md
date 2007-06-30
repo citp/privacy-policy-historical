@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the job.com privacy policy that was archived on 2006-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061105013941id_/http%3A//www.job.com/my.job/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the job.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630224411id_/http%3A//www.job.com/my.job/privacy) for the most accurate reproduction.*
 
 # Job.com - Search jobs and find your next career here!
 
@@ -14,7 +14,7 @@
 
 **Information About You Specifically**
 
-> In some instances, such as when you sign up to use a service, enter into a contest, or purchase a product, we may need more specific information about you, such as name, address, e-mail address, telephone number, credit card number, etc. We may use that information to make you aware of additional products and services which may be of interest to you, or to contact you regarding site changes. We may also ask you for other information, such as feedback regarding the site, the types of jobs you are interested in, etc., Again, in an effort to develop for you deliver to you the best possible career website. 
+> In some instances, such as when you sign up to use a service, enter into a contest, or purchase a product, we may need more specific information about you, such as name, address, e-mail address, telephone number, credit card number, etc. We may use that information to make you aware of additional products and services which may be of interest to you, or to contact you regarding site changes. We may also ask you for other information, such as feedback regarding the site, the types of jobs you are interested in, etc., Again, in an effort to develop for you and deliver to you the best possible career website. 
 
 **General Information Disclosure**
 
