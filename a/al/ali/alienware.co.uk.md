@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alienware.co.uk privacy policy that was archived on 2006-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061222181706id_/http%3A//www.alienware.co.uk/sub_pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alienware.co.uk privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630060111id_/http%3A//www.alienware.co.uk/sub_pages/privacy.aspx) for the most accurate reproduction.*
 
-# Alienware : The Best Custom Built Gaming PC for the Ultimate PC Gamer!
+# Privacy Statement - Alienware
 
 The Alienware Website ([www.alienware.co.uk](http://www.alienware.co.uk/)) is maintained by Alienware Limited. Protecting your privacy is important to Alienware, and this statement is intended to make you aware of our commitments to you as an important visitor to our website. This policy may change from time to time, so please check back periodically.
 
