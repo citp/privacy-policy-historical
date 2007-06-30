@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loyaltepays.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216151444id_/http%3A//www.loyaltepays.com/Default.aspx%3Ftabid%3D1%26def%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loyaltepays.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630164812id_/http%3A//www.loyaltepays.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # LoyaltePays > Home
 
@@ -44,4 +44,4 @@ LoyaltePays will occasionally update this Statement of Privacy to reflect compan
 
 Contact Information
 
-LoyaltePays welcomes your comments regarding this Statement of Privacy. If you believe that LoyaltePays has not adhered to this Statement, please contact LoyaltePays at [admin@loyaltepays.net](mailto:admin@loyaltepays.net). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+LoyaltePays welcomes your comments regarding this Statement of Privacy. If you believe that LoyaltePays has not adhered to this Statement, please contact LoyaltePays at [heide_holtz@mac.com](mailto:heide_holtz@mac.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
