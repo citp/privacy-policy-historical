@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discountgolfworld.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206080748id_/http%3A//www.discountgolfworld.com/service/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountgolfworld.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630223804id_/http%3A//www.discountgolfworld.com/service/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement: Discount Golf World
 
@@ -34,7 +34,8 @@ This site gives users the following options for removing their information from 
 
 ## Contacting the Web Site
 
- If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:  Customer Service Discount Golf World 2802 Broadway Quincy, IL 62301 (217) 222-8000 [customerservice@DiscountGolfWorld.com](mailto:customerservice@DiscountGolfWorld.com)
+ If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:  Customer Service Discount Golf World 2802 Broadway Quincy, IL 62301 (217) 222-8000 [customerservice@DiscountGolfWorld.com](mailto:customerservice@DiscountGolfWorld.com)  
+
 
 Questions? Call us toll-free 1-866-411-4349. 
 
