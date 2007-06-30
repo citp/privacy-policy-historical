@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freelayouts.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210054207id_/http%3A//www.freelayouts.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelayouts.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630133821id_/http%3A//www.freelayouts.com/privacy.php) for the most accurate reproduction.*
 
 # Free Layouts.com: Privacy Policy
 
@@ -29,6 +29,3 @@ This site contains links to other sites. Free Layouts.com is not responsible for
 ### **Contacting this Web Site**
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can use this form: [contact form](https://web.archive.org/contact.php).
-
-  
-
