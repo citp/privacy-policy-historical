@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eff.org privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207200944id_/http%3A//www.eff.org/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eff.org privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630175048id_/http%3A//www.eff.org/policy) for the most accurate reproduction.*
 
 # EFF: EFF Privacy Policy
 
@@ -9,9 +9,9 @@ In this policy, "EFF" refers to EFF staff, board members, cooperating attorneys,
 EFF does not sell or rent donor information under any circumstances, and we do not share information without prior consent except as compelled by law. (See discussion below.) 
 
 **Information Gathered by EFF's Site**  
-For visitors to our website, we may, but generally do not, log standard technical information, such as the numerical Internet protocol (IP) address of the computer you are using; the browser software you use and your operating system; and the Internet address of the website from which you linked directly to our site. Circumstances in which we temporarily log standard technical information include conducting site testing, diagnosis of technical problems, and defending against attacks on the site. We generally do log the date and time users access our site on an anonymous basis. For more information on EFF's position on data logging, see our [Best Practices for Online Service Providers](https://web.archive.org/web/20061207200944id_/https://www.eff.org/policy/%C3%93http://www.eff.org/osp/%C3%93). 
+For visitors to our website, we may, but generally do not, log standard technical information, such as the numerical Internet protocol (IP) address of the computer you are using; the browser software you use and your operating system; and the Internet address of the website from which you linked directly to our site. Circumstances in which we temporarily log standard technical information include conducting site testing, diagnosis of technical problems, and defending against attacks on the site. We generally do log the date and time users access our site on an anonymous basis. For more information on EFF's position on data logging, see our [Best Practices for Online Service Providers](http://www.eff.org/osp/). 
 
-We do not use persistent cookies on this site unless you log into the Action Center or use "Remember Me" or other similar functionality. We may use session cookies from time to time. Session cookies expire when you close your browser. You can set your browser to refuse cookies, and use [Tor](https://web.archive.org/web/20061207200944id_/https://www.eff.org/policy/%C3%93http://tor.eff.org%C3%93) if you wish to keep your IP number and other technical information anonymous. 
+We do not use persistent cookies on this site unless you log into the Action Center or use "Remember Me" or other similar functionality. We may use session cookies from time to time. Session cookies expire when you close your browser. You can set your browser to refuse cookies, and use [Tor](http://tor.eff.org/) if you wish to keep your IP number and other technical information anonymous. 
 
 In addition, EFF collects and retains information you submit to us. It is up to you whether to submit information to us, and how much information to provide. If you choose to become an EFF member or register for the EFF Action Center, we ask for your name, title, email address, city, state, postal code, country of residence, and phone number, and we may invite you to select a password. For online donors and shoppers, we also ask for your credit card number. We also maintain records of our members' use of the Action Center, and you may wish to indicate your particular interests in your Action Center profile. If you use the EFF Shop, you are asked to provide personal information, such as a shipping address, necessary to complete your transaction. 
 
@@ -102,7 +102,7 @@ Topics & Areas
 [Intellectual Property](https://web.archive.org/IP/)  
 [Fair Use and DRM](https://web.archive.org/IP/fairuse/)  
 [Innovation](https://web.archive.org/innovate/)  
-[FLAG Project](https://web.archive.org/flag)  
+[FLAG Project (FOIA)](https://web.archive.org/flag)  
 [File Sharing](https://web.archive.org/share/)  
 [Free Speech](https://web.archive.org/Censorship/)  
 [Bloggers' Rights](https://web.archive.org/bloggers/)  
@@ -112,8 +112,9 @@ Topics & Areas
 [EFF Victories](https://web.archive.org/legal/victories/)  
 [EFF White Papers](https://web.archive.org/wp/)
 
-[EFF en Español](https://web.archive.org/spanish/)
+Languages
 
-» [Recursos e información de EFF en Español.](https://web.archive.org/spanish/)  
+» [EFF en Español](https://web.archive.org/lang/spanish/)  
+» [EFF em Português](https://web.archive.org/lang/portuguese/)  
   
 ---|---
