@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the organize.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217022923id_/http%3A//organize.com/faqcompany.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organize.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630212450id_/http%3A//www.organize.com/faqcompany.html%23privacy) for the most accurate reproduction.*
 
 # Company Information - Frequently Asked Questions
 
@@ -43,7 +43,7 @@ Yes, we have a registry for gifts of all types where you can share your gift req
   
   
 ****Do you have a guarantee?  
-Yes, we guarantee all of our products for 30 days and you can return those products at any time within this period ([click here for return information](https://web.archive.org/web/20061217022923id_/http%3A//organize.com/faqreturns.html#top)). Some manufacturers warrant their products beyond this 30 day period, if you have a question and would like to contact them directly beyond our 30 day period we'd be happy to help, just call us at 1-800-600-9817 or [email](mailto:info@organize-everything.com) us. 
+Yes, we guarantee all of our products for 30 days and you can return those products at any time within this period ([click here for return information](https://web.archive.org/web/20070630212450id_/http%3A//www.organize.com/faqreturns.html#top)). Some manufacturers warrant their products beyond this 30 day period, if you have a question and would like to contact them directly beyond our 30 day period we'd be happy to help, just call us at 1-800-600-9817 or [email](mailto:info@organize-everything.com) us. 
 
   
   
