@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the contractors.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209034949id_/http%3A//www.contractors.com/h/info/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contractors.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630184941id_/http%3A//www.contractors.com/h/info/privacy_policy.html) for the most accurate reproduction.*
 
-# Contractors.com » Where Homeowners Find Contractors
+# Contractors.com » Find Home Improvement Contractors
 
 ### Privacy Policy
 
@@ -15,6 +15,6 @@ Contractors.com may provide marketing statistics to reputable third parties with
 If you have concerns about our privacy practices, please contact us at:
 
 Privacy Administrator  
-Contractor.com, Inc.  
+Contractors.com, Inc.  
 240 S. Broadway, Suite 207  
 Denver, CO 80209
