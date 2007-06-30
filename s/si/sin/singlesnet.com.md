@@ -1,16 +1,26 @@
-> *The following text is extracted and transformed from the singlesnet.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231115215id_/http%3A//www.singlesnet.com/%3Fsetlocation%3Dhelp%26setarea%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singlesnet.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630124300id_/http%3A//www.singlesnet.com/%3Fsetlocation%3Dhelp%26setarea%3Dprivacy) for the most accurate reproduction.*
 
 # singlesnet.com - privacy policy
 
-Singlesnet.com is a confidential service, and although it is necessary for us to collect accurate personal information in order to provide a meaningful product, receive payment and ensure good customer service, we will not sell or otherwise convey personal information about you to third parties with whom you have no relationship. We do provide, in aggregate form only, some demographic information about our membership to advertisers and for other marketing and promotional purposes. We do not disclose any information that could be used to personally identify you and, certain information such as name, password, address, credit card and banking information are never disclosed. However, as a part of our service we sometimes post and feature photographs provided by our members in print and online, accompanied by the member's profile. 
+In order to use the Singlesnet.com service, we require that you provide your e-mail address, zip code, age and gender. We also collect your IP address and related information from your browser, and we use cookies to remember your computer when you return to the site. If you choose to upgrade your Singlesnet.com membership for a fee, we require your name, credit card information and billing address in order to process the transaction. No other personally identifiable information is required for the site, although your personal profile may include additional information about yourself, including photographs. 
+
+All personally identifiable information collected by us is only used in connection with the services offered at Singlesnet.com. As a part of our service we sometimes post and feature photographs provided by our members in print and online, accompanied by the member's profile. Singlesnet. com does not share your personally identifiable information with any unaffiliated third parties for marketing purposes. We may share your information with our affiliates, which are companies controlled by, controlling or under common control with Singlesnet.com. 
+
+We may engage unaffiliated third parties to assist with services related to the website, including but not limited to hosting, marketing and promotional activities, technical support and credit card processing services. These third parties are obligated to keep the information secure and confidential and must use the information only in connection with providing services to Singlesnet.com. 
 
 Singlesnet.com may, from time to time, communicate with you regarding customer service or to inform you of special offers that we believe you may be interested in. At that time we will provide you with an opportunity to opt-out and not to receive further information about that special offer, or other similar offers. 
 
-We cooperate with law enforcement. By joining Singlesnet.com you authorize us to disclose information to law enforcement or other government officials as we, in our sole discretion, deem necessary and appropriate. 
+The information collected by Singlesnet.com may be transferred in connection with the sale or merger of the company, or a sale of substantially all the assets, or in connection with a bankruptcy. We may also disclose personally identifiable information to third parties in order to comply with court orders or with requests by law enforcement agencies, to enforce our Terms of Use, or to protect the rights, property, safety of our website and other users of the site. 
+
+This Privacy Policy was last updated on 2/7/2007. We reserve the right to change this policy at any time, and will post any changes to this policy as soon as they go into effect on this site. 
 
 If you have any questions about this statement, please contact us via the contact form or direct your mail to: 
 
-Privacy   
+**Privacy**   
 Singlesnet.com   
-13 A Highland Circle   
+13a Highland Circle   
 Needham, MA 02494. USA 
+
+|  **This site has 128bit secure encyption**  
+All credit card and billing information is transferred under 128bit SSL. This means your information is secure and private.   
+---|---
