@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promgirl.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225093915id_/http%3A//www.promgirl.com/info/policies%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promgirl.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630035958id_/http%3A//www.promgirl.com/info/policies%23privacy) for the most accurate reproduction.*
 
 # Policies
 
@@ -21,7 +21,7 @@
 
 If for any reason you are not completely satisfied with your purchase, you may return or exchange your merchandise within **5 days of receipt for a refund** , less shipping costs and restocking fees, based on the original form of payment.  Exchanges are subject to item availability.  Sale items and orders paid for by paypal or money order can be exchanged only. _Please Note:_ Any returns or exchanges postmarked after 5 days of your receipt date and/or missing a return authorization number will be returned to you at your shipping expense.  
 
-**Important note: There are no returns, exchanges or cancellations on custom made, final sales, or  sale merchandise.  Sale items may be exchanged for size only based on availability.  Stay up tape, lingerie, cosmetics, and visors will not be accepted for return.**
+**Important note: There are no returns, exchanges or cancellations on custom made, final sales, or  sale merchandise.    Stay up tape, lingerie, cosmetics, and visors will not be accepted for return.**
 
 The goods must be returned in original condition. We have 100% inspection on merchandise leaving the warehouse. Returns are inspected upon receipt. Items must not have been worn, washed, altered and have all originals tags attached and in original packaging. Items with snags, rips, make-up stains, odors (i.e. cigarette smoke) or other damages will result in the item being returned to you. _Please Note:_ If you do not accept the item being returned to you, we will charge you 50% of the value of the item, plus shipping charges, as a restocking fee.
 
@@ -48,7 +48,7 @@ For customers not wishing to place their order online you may email your phone n
 
 **Fax orders**
 
-Customers may fax their order information by printing the [form linked here](http://promgirl.com/pdfs/fax_form.pdf) and faxing to 302-449-1490. We will enter your information and you will receive an email confirmation of your order. 
+Customers may fax their order information by printing the [form linked here](http://promgirl.com/pdfs/fax_form.pdf) and faxing to 302-279-1075. We will enter your information and you will receive an email confirmation of your order. 
 
 [\- top of page -](http://www.promgirl.com/info/policies#top)
 
@@ -58,7 +58,7 @@ Customers using money orders must fill out this [form linked here](http://promgi
 
 Promgirl   
 c/o Kimberly Broomall   
-7 Crenshaw Ct.   
+733 North Broad Street   
 Middletown, DE 19709    
 
 
@@ -86,7 +86,7 @@ We accept Visa, Mastercard, Discover, American Express, Money Order and Paypal. 
 
 Promgirl   
 c/o Kimberly Broomall   
-7 Crenshaw Ct.   
+733 North Broad Street   
 Middletown, DE 19709 
 
 Please include your name, phone number, email address, shipping address, style number, size and color.
