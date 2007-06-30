@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mscd.edu privacy policy that was archived on 2006-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061208050553id_/http%3A//www.mscd.edu/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mscd.edu privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630054431id_/http%3A//www.mscd.edu/privacy.htm) for the most accurate reproduction.*
 
 # PRIVACY STATEMENT
 
@@ -31,7 +31,7 @@ The Metro State Web site contains links to hundreds of external Web sites. The C
 
 ·         NID (unique person identifier for SIS services only) 
 
-The log data is used by system administrators and web content managers to tune the web site for efficiency and is not ordinarily associated with specific individuals. See _Responsible Use of Information Technology Resources Policy_ for further information ([http://www.mscd.edu/~infotech/policies/](http://www.mscd.edu/~infotech/policies/))
+The log data is used by system administrators and web content managers to tune the web site for efficiency and is not ordinarily associated with specific individuals. See _Responsible Use of Information Technology Resources Policy_ for further information ([http://www.mscd.edu/~infotech/services/policies/](http://www.mscd.edu/~infotech/services/policies/))
 
 Summary reports produced from the logs help web publishers determine what pages are most popular. For example, the aggregate reports can show each page accessed and how many times it was viewed. The reports can also show what times of the day and what days of the week are most popular and from where the web users are accessing the Internet.
 
