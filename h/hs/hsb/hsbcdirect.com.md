@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsbcdirect.com privacy policy that was archived on 2006-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061201212139id_/http%3A//www.us.hsbc.com/1/2/3/personal/inside/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsbcdirect.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630095322id_/http%3A//www.us.hsbc.com/1/2/3/personal/inside/privacy) for the most accurate reproduction.*
 
 # Privacy, Inside, HSBC Personal
 
@@ -89,7 +89,7 @@ _Special Notice For Residents Of California_
 
 Revised: October, 2006
 
-#### [](https://web.archive.org/web/20061201212139id_/http%3A//www.us.hsbc.com/1/2/3/personal/inside/%E2%80%9D%E2%80%9D "creditcard"")HSBC Bank Nevada, N.A. - Privacy Statement
+#### [](https://web.archive.org/web/20070630095322id_/http%3A//www.us.hsbc.com/1/2/3/personal/inside/%E2%80%9D%E2%80%9D "creditcard"")HSBC Bank Nevada, N.A. - Privacy Statement
 
 _Our Commitment to You_
 
