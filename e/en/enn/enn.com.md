@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the enn.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211101200id_/http%3A//enn.com/about_enn_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enn.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630221558id_/http%3A//www.enn.com/about_enn_privacy_policy.html) for the most accurate reproduction.*
 
-# ENN: Environmental News Network [[ ENN Privacy Policy ]]
+# ENN Privacy Policy - Environmental News Network
 
-### **Privacy Policy**
+## Privacy Policy
 
 Read ENN.com in complete confidence that your privacy will be protected. If you have any questions or concerns, please do not hesitate to [contact us](http://www.enn.com/ennmediaservices.html).
 
