@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the swaptree.com privacy policy that was archived on 2006-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060819145306id_/http%3A//www.swaptree.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swaptree.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630171338id_/http%3A//www.swaptree.com/WebFrmBetaPrivacy.aspx) for the most accurate reproduction.*
 
-# Swaptree beta
+# Swaptree - Privacy Policy
 
 Your privacy is very important to us.  We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent.  Please read this privacy policy to learn more about the ways in which we use and protect your personal information.  We want you to fully understand our privacy practices and help you fully evaluate our practices and answer privacy questions.  
 
