@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hsbcdirect.com privacy policy that was archived on 2006-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061201212139id_/http%3A//www.us.hsbc.com/1/2/3/personal/inside/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hsbcdirect.com privacy policy that was archived on 2007-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070630095322id_/http%3A//www.us.hsbc.com/1/2/3/personal/inside/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -71,6 +71,7 @@ Privacy, Inside, HSBC Personal
 <link href="/1/themes/html/hbus_left_main_right_sb/../hbus_common/hsbc.css" rel="stylesheet" type="text/css" media="all">
 <link href="/1/themes/html/hbus_left_main_right_sb/../hbus_common/status_bar.css" rel="stylesheet" type="text/css" media="all">
 <link href="/1/themes/html/hbus_left_main_right_sb/../hbus_common/print.css" rel="stylesheet" type="text/css" media="print">
+<link href="/1/themes/html/hbus_left_main_right_sb/../hbus_common/branch.css" rel="stylesheet" type="text/css" media="all">
 
 <script src="/1/themes/html/hbus_left_main_right_sb/../hbus_common/hsbc_corp_functions.js" type="text/javascript"></script>
 </head>
@@ -120,6 +121,14 @@ Privacy, Inside, HSBC Personal
 
 
 
+
+	
+
+	
+
+	
+
+	
 
 	
 
@@ -222,6 +231,13 @@ Privacy, Inside, HSBC Personal
 		
 		
 		
+			
+		
+		
+		
+			
+				 <li> <a href="/1/2/3/personal/hsbcpremier"> HSBC Premier</a></li>
+				
 			
 		
 		
@@ -406,6 +422,15 @@ Privacy, Inside, HSBC Personal
 
 			
 
+			
+
+				
+
+				 | 
+
+				<a href="/1/2/3/personal/inside/locator"> HSBC Locator</a>
+
+				
 			
 		
 
@@ -1081,63 +1106,262 @@ Privacy Statement for Customers with Insurance</p>
 
 
 
-
-
-		<div id="sub_cont"><div class="hsbcContent">
+	<script language="javascript">
 		
-				<h4><a title="Contact HSBC" onclick="window.open('https://www.banking.us.hsbc.com/HICServlet?cmd_GeneralContactUsCaller=&amp;accept-language=en-us', '_blank', 'status=yes,location=yes,menubar=yes,resizable=yes,scrollbars=yes,toolbar=yes,width=550,height=350'); return false;" href="https://www.banking.us.hsbc.com/HICServlet?cmd_GeneralContactUsCaller=&amp;accept-language=en-us" target="_blank">Email Us</a>
-</h4>
+		function submitATM(option_text)
+		{
 			
-		
-
-		<ul>
-		
-			<li>
+			var option = option_text;
 			
-					1.800.975.HSBC (4722)
+			if(option.toLowerCase() == "branch"){
+				document.branch_locator.action = "/1/2/3/personal/inside/locator";
+				document.getElementById('form').style.display = "block";	
+			}else{
+				document.getElementById('form').style.display = "none";
 				
-			
-			
-			</li>
+				if(option.toLowerCase() == "atm"){
+					document.branch_locator.action = "/1/2/3/personal/inside/locator";
+					document.branch_locator.event_name.value ="cmd_ATM";
+					document.branch_locator.submit();
+				}
+				else if(option == "find"){
+										
+				}
+				else{
+					var option_array = new Array();
+					option_array = option_text.split(',');
+					
+					var option = option_array[0];
+					var url_text = option_array[1];
+					var target_window = option_array[2];
+							
+					if(option.toLowerCase() == "relationship manager"){
+						window.open('http://www.banking.us.hsbc.com/HICServlet?cmd_SBRMSearch=cmd_SBRMSearch', '_blank', 'resizable=yes,scrollbars=yes,width=800,height=600');
+					}
+					else{
+						window.open(url_text,target_window); 
+					}
+					
+				}
+			}
+		}
 		
-			<li>
+		function submitAdvancedFeaturesLink()
+		{
+			document.branch_locator.event_name.value ="cmd_newsearch";
+			document.branch_locator.submit();
+		}
+		
+	</script>						
+
+
+
+
+
+
+
+		
+		<div id="sub_cont">
+			<div class="hsbcContent">
+				
+						<h4><a title="Contact HSBC" onclick="window.open('https://www.banking.us.hsbc.com/HICServlet?cmd_GeneralContactUsCaller=&amp;accept-language=en-us', '_blank', 'status=yes,location=yes,menubar=yes,resizable=yes,scrollbars=yes,toolbar=yes,width=550,height=350'); return false;" href="https://www.banking.us.hsbc.com/HICServlet?cmd_GeneralContactUsCaller=&amp;accept-language=en-us" target="_blank">Email Us</a>
+</h4>
+					
+				
+				
+				<ul>
+				
+				
+						
+						
+							<li style="width:170px;">
+          							<form method="post" name="branch_locator" action="" target="_self">
+									<select name="accountType" onchange="submitATM(document.branch_locator.accountType.value);"> 
+										<option value="find">Find a...</option>
+										
+											 
+													
+													<option value="Branch">Branch</option>
+													
+							
+											 
+													
+													<option value="ATM">Offsite ATMs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</option>
+												
+					
+											
+												
+										
+											
+									</select>
+				
+									<input name="accept-language" type="hidden" value="en-US">
+									<input type="hidden" name="cmd_BranchLocationSearch">
+						
+									<div id="form" style="display:none; width:160px; padding-top:10px;">
+										<div id="searchOpt" style="width:160px;margin-right:0px;">
+											<h5>Optional Search Features</h5>
+											<div id="optBox" style="padding-top:4px; width:158px;">
+												<input type="checkbox" name="ATM" value="ATM" class="input">
+												<label for="ATM" class="check">ATM</label>
+												<br>
+												<input type="checkbox" name="extended_hours" value="extended_hours" id="extended_hours" class="input">
+												<label for="extended_hours" class="check">Extended Hours </label>
+												<br>
+												<input type="checkbox" name="wheel_chair_accessible" value="wheel_chair_accessible" id="wheel_chair_accessible" class="input">
+												<label for="wheel_chair_accessible" class="check"><nobr>Wheelchair Accessible</nobr></label>
+												<br>
+												<em>Distance (in miles):<br></em>
+												<input type="radio" name="bl_distance" value="5">&nbsp;5 &nbsp;&nbsp;&nbsp;
+												<input type="radio" name="bl_distance" value="10" checked="">10 &nbsp;&nbsp;&nbsp; 
+												<input type="radio" name="bl_distance" value="25">25
+											</div>
+											<br>
+											<table summary="Location description" style="border: 1px solid rgb(238, 238, 238); width: 158px;" cellspacing="0">												<colgroup>
+													<col>
+													<col>
+												</colgroup>
+												<tbody>
+													<tr>
+														<td class="first"><label for="bl_location_city">City</label></td>
+														<td class="first"><input name="city" size="11" maxlength="25" type="text"></td>
+													</tr>
+													<tr>
+														<td class="first"><label for="bl_location_state">State</label></td>
+														<td class="first"><select name="state">
+																<option value="" selected="selected">Select&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</option>
+																													<option value="AL">AL</option>
+																													<option value="AK">AK</option>
+																													<option value="AZ">AZ</option>
+																													<option value="AR">AR</option>
+																													<option value="CA">CA</option>
+																													<option value="CO">CO</option>
+																													<option value="CT">CT</option>
+																													<option value="DE">DE</option>
+																													<option value="FL">FL</option>
+																													<option value="GA">GA</option>
+																													<option value="HI">HI</option>
+																													<option value="ID">ID</option>
+																													<option value="IL">IL</option>
+																													<option value="IN">IN</option>
+																													<option value="IA">IA</option>
+																													<option value="KS">KS</option>
+																													<option value="KY">KY</option>
+																													<option value="LA">LA</option>
+																													<option value="ME">ME</option>
+																													<option value="MD">MD</option>
+																													<option value="MA">MA</option>
+																													<option value="MI">MI</option>
+																													<option value="MN">MN</option>
+																													<option value="MS">MS</option>
+																													<option value="MO">MO</option>
+																													<option value="MT">MT</option>
+																													<option value="NE">NE</option>
+																													<option value="NV">NV</option>
+																													<option value="NH">NH</option>
+																													<option value="NJ">NJ</option>
+																													<option value="NM">NM</option>
+																													<option value="NY">NY</option>
+																													<option value="NC">NC</option>
+																													<option value="ND">ND</option>
+																													<option value="OH">OH</option>
+																													<option value="OK">OK</option>
+																													<option value="OR">OR</option>
+																													<option value="PA">PA</option>
+																													<option value="RI">RI</option>
+																													<option value="SC">SC</option>
+																													<option value="SD">SD</option>
+																													<option value="TN">TN</option>
+																													<option value="TX">TX</option>
+																													<option value="UT">UT</option>
+																													<option value="VT">VT</option>
+																													<option value="VA">VA</option>
+																													<option value="WA">WA</option>
+																													<option value="DC">DC</option>
+																													<option value="WV">WV</option>
+																													<option value="WI">WI</option>
+													<option value="WY">WY</option></select></td>
+													</tr>
+													<tr>
+													<td class="first" style="padding-top:0; padding-bottom:0;">&nbsp;</td>
+													<td class="first" style="padding-top:0; padding-bottom:0;"><center>OR</center></td>
+													</tr>
+													<tr>
+														<td class="first"><label for="bl_location_zip">Zip Code</label></td>
+														<td class="first"><input name="zipcode" size="11" maxlength="10" type="text"></td>
+													</tr>
+												</tbody>
+											</table>
+									
+											<input type="hidden" name="event_name" value="cmd_BLPortlet">
+											<input type="submit" class="button" style="float:right; margin:5px 2px 5px 0;" name="Search" value="Search">
+										</div>
+										
+										<fieldset id="homeAdvSearch" style="width:160px;">
+											<ul style="border-bottom:0;">
+												<li style="border-top:0;">
+													<a onclick="javascript:submitAdvancedFeaturesLink()" href="#">Advanced Search</a>
+												</li>
+											</ul>
+										</fieldset>
+									</div>
+								</form>
+    							</li>
+						 
+					
+		
 			
-					For hearing impaired<br>
+					
+						
+						<li>
+							
+									
+									1.800.975.HSBC (4722)
+									
+								
+							
+							
+							
+							
+						
+						</li>
+					
+						
+						<li>
+							
+									
+									For hearing impaired<br>
 - TTY/TTD:&nbsp; 1.800.898.5999
 
-				
-			
-			
-			</li>
-		
-			<li>
-			
-					Outside the United States<br>
+									
+								
+							
+							
+							
+							
+						
+						</li>
+					
+						
+						<li>
+							
+									
+									Outside the United States<br>
 + 1.716.841.7212
-				
-			
-			
-			</li>
-		
-			<li>
-			
-				
-			
+									
+								
+							
+							
+							
+							
+						
+						</li>
 					
-					<a title="Find a Branch or ATM" onclick="window.open('http://www.banking.us.hsbc.com/HICServlet?cmd_GetUSMap=&amp;accept-language=en-US', '_blank', 'resizable=yes,scrollbars=yes,width=800,height=600'); return false;" target="_blank" href="http://www.banking.us.hsbc.com/HICServlet?cmd_GetUSMap=&amp;accept-language=en-US">Find a Branch or ATM</a><br>
-					<form method="get" id="frmBranchSearch" name="frmBranchSearch" action="http://www.banking.us.hsbc.com/HICServlet" target="_blank" onsubmit="if(document.frmBranchSearch.txtBranchSearch.value.length<3){alert('Search requires at least 3 characters. Please correct.');document.frmBranchSearch.txtBranchSearch.focus();return(false);}{return(true);}">
-						<input name="accept-language" type="hidden" value="en-US">
-						<input id="txtBranchSearch" name="txtBranchSearch" size="18" maxlength="30" value=" - City, Street or Zip - " onfocus="javascript:txtBranchSearch.value=''">
-						<input type="hidden" name="TN" value="gbl_hsbcus">
-						<button class="button" type="submit" value="submit" align="right">Go</button>
-						<input type="hidden" name="cmd_BranchLocationSearch">
-					</form>
-					
+					</ul>
 				
-			
-			</li>
-		
-		</ul></div></div>
+				
+			</div>
+		</div>
 	
 
 
@@ -1252,9 +1476,9 @@ Privacy Statement for Customers with Insurance</p>
 
 
 		<div class="hsbcContent">
-		<p>HSBC Bank USA, N.A. and HSBC National Bank USA - Member FDIC<br>
-<a title="About HSBC" href="/1/2/3/personal/inside/about">About HSBC</a>&nbsp; |&nbsp; <a title="Careers" onclick="window.open('http://www.hsbcusa.com/careers', '_blank', ''); return false;" href="http://www.hsbcusa.com/careers" target="_blank">Careers</a>&nbsp; |&nbsp; <a title="Locations" onclick="window.open('http://www.banking.us.hsbc.com/HICServlet?cmd_GetUSMap=&amp;accept-language=en-US', '_blank', ''); return false;" href="http://www.banking.us.hsbc.com/HICServlet?cmd_GetUSMap=&amp;accept-language=en-US" target="_blank">Locations</a>&nbsp; |&nbsp; <a title="Privacy" href="/1/2/3/personal/inside/privacy">Privacy</a>&nbsp; |&nbsp; <a title="Security" href="/1/2/3/personal/inside/securitysite/overview">Security</a>&nbsp; |&nbsp;&nbsp;<a title="Contact HSBC" onclick="window.open('https://www.banking.us.hsbc.com/HICServlet?cmd_GeneralContactUsCaller=&amp;accept-language=en-us', '_blank', ''); return false;" href="https://www.banking.us.hsbc.com/HICServlet?cmd_GeneralContactUsCaller=&amp;accept-language=en-us" target="_blank">Contact HSBC</a>&nbsp; |&nbsp; <a title="Related Websites" href="http://www.hsbcusa.com/hsbcsites">Related Websites</a>&nbsp; |&nbsp;&nbsp;<a title="Terms &amp; Conditions" href="/1/2/3/personal/inside/terms-conditions">Terms &amp; Conditions</a>&nbsp;&nbsp; |&nbsp;<a title="Site Map" href="/1/2/3/personal/inside/site-map">Site Map</a><br>
-<span align="right">© HSBC Bank USA, N.A. 2006. All Rights Reserved.</span></p>
+		<p><span style="FLOAT: right">© HSBC Bank USA, N.A. 2007. All Rights Reserved.</span>HSBC Bank USA, N.A. and HSBC National Bank USA - Member FDIC<br>
+<a title="About HSBC" href="/1/2/3/personal/inside/about">About HSBC</a>&nbsp; |&nbsp; <a title="Careers" onclick="window.open('http://www.hsbcusa.com/careers', '_blank', ''); return false;" href="http://www.hsbcusa.com/careers" target="_blank">Careers</a>&nbsp; |&nbsp; <a title="Locations" href="/1/2/3/personal/inside/locator">Locations</a>&nbsp; |&nbsp; <a title="Privacy" href="/1/2/3/personal/inside/privacy">Privacy</a>&nbsp; |&nbsp; <a title="Security" href="/1/2/3/personal/inside/securitysite/overview">Security</a>&nbsp; |&nbsp;&nbsp;<a title="Contact HSBC" onclick="window.open('https://www.banking.us.hsbc.com/HICServlet?cmd_GeneralContactUsCaller=&amp;accept-language=en-us', '_blank', ''); return false;" href="https://www.banking.us.hsbc.com/HICServlet?cmd_GeneralContactUsCaller=&amp;accept-language=en-us" target="_blank">Contact HSBC</a>&nbsp; |&nbsp; <a title="Related Websites" href="http://www.hsbcusa.com/hsbcsites">Related Websites</a>&nbsp; |<br>
+<a title="Terms &amp; Conditions" href="/1/2/3/personal/inside/terms-conditions">Terms &amp; Conditions</a>&nbsp;&nbsp; |&nbsp;<a title="Site Map" href="/1/2/3/personal/inside/site-map">Site Map</a></p>
 
 		</div>
 	
