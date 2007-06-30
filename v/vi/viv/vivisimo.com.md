@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vivisimo.com privacy policy that was archived on 2006-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061128191235id_/http%3A//vivisimo.com/html/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivisimo.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630103102id_/http%3A//vivisimo.com/html/privacy) for the most accurate reproduction.*
 
-# Vivísimo // Vivísimo, Inc. Web Search Services Privacy Policy
+# Vivísimo, Inc. Web Search Services Privacy Policy - Vivísimo, Inc.
 
 At Vivísimo, Inc. (" **Vivísimo** "), we recognize that privacy is important. The Vivísimo Privacy Policy (" **Policy** ") document outlines information collection and use practices for Vivisimo's web search services offered on Clusty.com and Vivisimo.com which are owned and operated by Vivísimo (" **Vivísimo Web Search Services** ").
 
