@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the ilovejackdaniels.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210055139id_/http%3A//www.ilovejackdaniels.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilovejackdaniels.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630115910id_/http%3A//www.ilovejackdaniels.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ILoveJackDaniels.com
-
-   
-
 
 Please direct all contact or enquiries to [dave@ilovejackdaniels.com](http://www.ilovejackdaniels.com/dave@ilovejackdaniels.com)
 
