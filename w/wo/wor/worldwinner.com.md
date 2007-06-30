@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worldwinner.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230105340id_/http%3A//www.worldwinner.com/cgi/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwinner.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630112203id_/http%3A//www.worldwinner.com/cgi/legal/privacy.html) for the most accurate reproduction.*
 
-# WorldWinner Tournament Games
+# WorldWinner Cash Competitions
 
 [](http://www.truste.org/ivalidate.php?url=www.worldwinner.com&sealid=102)**WorldWinner Privacy Commitment**
 
@@ -29,8 +29,8 @@ If you have questions or concerns regarding this statement, you should first con
   * WorldWinner works with other companies to offer its content and services to users of their Web sites ("Partner Sites"). Even if you enter WorldWinner from a Partner Site, you will register through WorldWinner, and this privacy policy applies to WorldWinner's collection of your information. 
   * When you submit a bug, suggestion, complaint, question, request, or any other e-mail correspondence, WorldWinner asks for your e-mail address so that you can receive a response. This information will only be used to notify you of receipt of your submission and of a resolution to the inquiry. 
   * If you win a prize or other promotional feature, WorldWinner may ask for your real name, mailing address, and e-mail address so that you can be notified and arrange for delivery. 
-  * By signing up for an account, you agree that WorldWinner may display your username and competition results. From time to time, (and usually when you win a prize), WorldWinner may ask you to voluntarily provide general demographic and other personal information for inclusion on the WorldWinner "Winners" page. See section 2.5 of the [Terms and Conditions](https://web.archive.org/cgi/legal/terms.html#2.5) for details about this. 
-  * In addition, WorldWinner also reserves the right to use the information collected to occasionally notify you about important functionality changes to the Web site, as well as new services and special offers you may find valuable. Users that do not want to receive these notifications may opt-out during the registration progress. If you have opted to receive these notifications but no longer wish to receive this information, you can unsubscribe from promotional e-mails by modifying your e-mail preferences on the "Manage Account" page. 
+  * By signing up for an account, you agree that WorldWinner may display your username and competition results. From time to time, (and usually when you win a prize), WorldWinner may ask you to voluntarily provide general demographic and other personal information for inclusion on the WorldWinner "Winners" page. See section 2.5 of the [Terms and Conditions](http://www.worldwinner.com/cgi/legal/terms.html#2.5) for details about this. 
+  * In addition, WorldWinner also reserves the right to use the information collected to occasionally notify you about important functionality changes to the Web site, as well as new services and special offers you may find valuable. Users that do not want to receive these notifications may opt-out during the registration progress. If you have opted to receive these notifications but no longer wish to receive this information, you can unsubscribe from promotional e-mails by modifying your e-mail preferences on the "My Account" page. 
   * If you are a USA taxpayer and your total winnings on WorldWinner in any given calendar year reach a total of $600, WorldWinner will request that you submit your social security number in order to send you a Form 1099, as required by Internal Revenue Service regulations. Failure to provide your social security number at that time will prevent you from participating in game tournaments. 
   * We also collect non-personal information that we use to customize your experience on WorldWinner, including: IP address, Internet service provider, geographic location, browser type, operating system, pages viewed on WorldWinner, player rating information, cash and prize winnings and game statistics. Although this information is related to your preferences and activity, it is not associated with your personally identifiable information and cannot be linked to you personally. 
   * We collect and use account and other personal information to: comply with law; enforce or apply our Terms and Conditions and other agreements; and/or protect the rights or property of WorldWinner, our users, or others. 
@@ -57,7 +57,7 @@ If you have questions or concerns regarding this statement, you should first con
 
 **Q: How can I review and update my personal information?**
 
-**A:** You may review your personal information at your "Manage Account" page. There you can modify information that is incorrect or delete information. Information that can be modified includes your password, email address, and credit card. You can also delete your credit card information.
+**A:** You may review your personal information at your "My Account" page. There you can modify information that is incorrect or delete information. Information that can be modified includes your password, email address, and credit card. You can also delete your credit card information.
 
 **Q: How long will it take if I request WorldWinner to forward me all of my personal information?**
 
@@ -65,7 +65,7 @@ If you have questions or concerns regarding this statement, you should first con
 
 **Q: What types of E-mails will I receive from WorldWinner?**
 
-**A:** WorldWinner utilizes e-mails to notify you when you win tournaments, and to let you know of special promotions, events and policy changes. You have the choice to opt-in or opt-out of receiving certain e-mails at any time by modifying your preferences under the "Manage Account" section of the website or during the registration process. The types of e-mails you could receive from WorldWinner are as follows:
+**A:** WorldWinner utilizes e-mails to notify you when you win tournaments, and to let you know of special promotions, events and policy changes. You have the choice to opt-in or opt-out of receiving certain e-mails at any time by modifying your preferences under the "My Account" section of the website or during the registration process. The types of e-mails you could receive from WorldWinner are as follows:
 
   * _Tournament Messages:_ These e-mails are related to tournament play on the site, and will inform you if you are entitled to an entry fee refund, or if you have been outscored in a tournament.
   * _Win Notifications:_ These e-mails will inform you every time you were declared the winner of a tournament in which you entered.
@@ -73,7 +73,7 @@ If you have questions or concerns regarding this statement, you should first con
 
 
 
-If you would like to modify your email options, click the "Change Email" option in your Account settings..
+If you would like to modify your email options, [click here](http://www.worldwinner.com/cgi/finance/change_email.html). 
 
 **Q: Will this policy ever change?**
 
@@ -93,7 +93,7 @@ When you open a Member account, you are given the option of depositing money int
 
 **Q: Does WorldWinner collect Personal information about children?**
 
-**A:** No. The WorldWinner Web site may only be used by persons 18 years of age or older. Please refer to our Terms and Conditions. 
+**A:** No. The WorldWinner Web site may only be used by persons 18 years of age or older. Please refer to our Terms and Conditions.
 
 **Q: What should I do if I have other questions?**
 
