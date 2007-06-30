@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pioneerthinking.com privacy policy that was archived on 2004-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041223183313id_/http%3A//www.pioneerthinking.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pioneerthinking.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630135359id_/http%3A//www.pioneerthinking.com/privacy.html) for the most accurate reproduction.*
 
-# Pioneer Thinking - Start Page - Welcome Home
+# Pioneer Thinking - Privacy
 
 Dear Friend,
 
@@ -26,9 +26,9 @@ Pioneer Thinking will automatically send your friend a one-time email inviting t
 
 **Newsletter**
 
-When **subscribing to our newsletter** , we request your email address. We do not sell, trade, lend or otherwise share our newsletter subscriber list with anyone, ever! Our subscriber list is used for the sole pupose of delivering our newsletter and site updates to you.
+When **subscribing to our newsletter** , we request your name and email address. We do not sell, trade, lend or otherwise share our newsletter subscriber list with anyone, ever! Our subscriber list is used for the sole pupose of delivering our newsletter and site updates to you.
 
-Readers who no longer wish to receive our newsletter can send us an email, with "Unsubscribe" in the subject. [newsletter@pioneerthinking.com](mailto:newsletter@pioneerthinking.com) **** or ****[click here](http://www.pioneerthinking.com/newsletter.html) **** to use our automated system.
+Readers who no longer wish to receive our newsletter can send us an email, with "Unsubscribe" in the subject. [newsletter@pioneerthinking.com](mailto:newsletter@pioneerthinking.com) **or** by clicking the link provided at the bottom of your copy of the newsletter.
 
 **Surveys or Contests**
 
@@ -51,10 +51,10 @@ _
 _ If you have any questions about this privacy statement, please contact:
 _  
 _**Pioneer Thinking**  
-P.O Box 27048  
+P.O Box 46081  
 Ottawa, Ontario
 Canada
-K1J 9L9
+K1J 9M7
 
 We can be reached via e-mail at [admin@pioneerthinking.com](mailto:admin@pioneerthinking.com)
 
@@ -64,7 +64,7 @@ Please see our Online Agreement for other [terms and conditions](http://www.pion
 
 **Please Select** [Mind and Body](http://www.pioneerthinking.com/mbs.html) / [Lifestyle](http://www.pioneerthinking.com/lifestyle.html) / [Discussion Boards](http://www.pioneerthinking.com/cgi-bin/mb/YaBB.pl)
 
-© Copyright 1999 - 2004 Pioneer Thinking Company. All Right Reserved
+© Copyright 1999 - 2007 Pioneer Thinking Company. All Right Reserved
  
 No part of this website may be reproduced or transmitted in any form or by any means
 without the expressed permission of Pioneer Thinking
