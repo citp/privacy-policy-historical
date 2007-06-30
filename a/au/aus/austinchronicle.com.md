@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the austinchronicle.com privacy policy that was archived on 2006-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061022145106id_/http%3A//www.austinchronicle.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the austinchronicle.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630165019id_/http%3A//www.austinchronicle.com/gyrobase/Info/privacy) for the most accurate reproduction.*
 
 # The Austin Chronicle: Privacy
-
-  
-
 
 ## Privacy Statement for austinchronicle.com
 
@@ -19,5 +16,4 @@ Simple identifying cookies are set by our ad banner software, and our servers do
 
 * * *
 
-Send any questions or concerns regarding our policy to [webmaster@auschron.com](mailto:webmaster@auschron.com)   
-
+Send any questions or concerns regarding our policy to [webmaster@austinchronicle.com](mailto:webmaster@austinchronicle.com)
