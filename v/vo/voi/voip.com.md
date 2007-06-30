@@ -1,24 +1,20 @@
-> *The following text is extracted and transformed from the voip.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016220256id_/http%3A//www.voip.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voip.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630213458id_/http%3A//www.voip.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[voip](https://web.archive.org/) > Privacy Policy
+[Voip](https://web.archive.org/) > Privacy Policy
 
 ## Privacy Policy
 
 Voip.com respects the privacy of its customers and takes its obligations to protect the privacy of its customers seriously. This policy briefly describes the personally identifiable information that voip.com collects from its customers and prospective customers and the steps that it takes to safeguard such information.
 
-[](http://www.truste.org/ivalidate.php?url=www.voip.com&sealid=101)
+If you have questions or concerns regarding this statement, you should contact our Privacy Team at privacy@voip.com.
 
-Voip.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.voip.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact our Privacy Team at privacy@voip.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with us to resolve your concerns.
-
-Voip.com will not trade, sell, disclose, or otherwise provide to any third party any form of customer identifiable information without the consent of the customer (except as required by subpoena, search warrant, legal process, or when compelled by a lawful body). This includes information obtained from order forms, customer subscription, and from the utilization of the voip.com service. 
+Voip.com will not trade, sell, disclose, or otherwise provide to any third party any form of Residential customer identifiable information without the consent of the customer (except as required by subpoena, search warrant, legal process, or when compelled by a lawful body). This includes information obtained from order forms, customer subscription, and from the utilization of the voip.com service. Business customer information may be shared with a third party in order to provide the information or service requested.
 
 ## Collection / Use of Information
 
-Voip.com collects and uses customer identifiable information for billing, provisioning of service, troubleshoot service errors, and to inform customers of changes to the voip.com service. Voip.com uses third parties, such as VISA, MasterCard, and American Express, to process payment information (if necessary). We will only disclose information necessary to complete a transaction. Voip.com prohibits any third party from using your personally identifiable information for any other purpose.
+Voip.com collects and uses identifiable information for billing, provisioning of service, service information, troubleshoot service errors, and to inform customers of changes to the voip.com service. Voip.com uses third parties, such as VISA, MasterCard, and American Express, to process payment information (if necessary). We may disclose the information we collect from you to companies for the specific purpose of marketing voip.com products and services on our behalf. When you request information from voip.com, we may transfer that information within voip.com or redirect your information to the most suitable supplier(s) so that they may provide the information that you requested.
 
 If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or deactivate it by making the change on our member information page. When a member signs up for service, they can enter the account number of an existing member so that the existing member may be credited with a referral.
 
@@ -40,7 +36,7 @@ Voip.com will not read, listen to or disclose to any third parties private commu
 
 ## Unlawful Activity
 
-Voip.com may use customer identifiable information to investigate and help prevent potentially unlawful activity or activities that threaten the integrity of service or network integrity or otherwise violate voip.com's Usage Agreement. 
+Voip.com may use customer identifiable information to investigate and help prevent potentially unlawful activity or activities that threaten the integrity of service or network integrity or otherwise violate voip.com's Terms of Service. 
 
 ## Account Information
 
