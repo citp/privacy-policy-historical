@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaspersky.co.uk privacy policy that was archived on 2006-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061012104720id_/http%3A//www.kaspersky.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaspersky.co.uk privacy policy that was archived on 2007-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070701002146id_/http%3A//www.kaspersky.co.uk/privacy) for the most accurate reproduction.*
 
 # Kaspersky Lab: Antivirus software
 
@@ -48,7 +48,7 @@ Please be advised that we may disclose your personal information if legally requ
 
 ### Opt-out
 
-If you do not wish to continue receiving our e-mail newsletters or bulletins you can opt-out of receiving these communications by replying to the unsubscribe in the subject line in the email.
+If you do not wish to continue receiving our e-mail newsletters or bulletins you can opt-out of receiving these communications by replying and typing 'unsubscribe' in the subject line in the email.
 
 ### Security
 
@@ -76,12 +76,4 @@ Please remember that information you submit in a news discussion or forum is pub
 
 ### Contact information
 
-If you have any questions or comments, please contact us:
-
-10, Geroev Panfilovtsev str,   
-Moscow 125363   
-Russian Federation
-
-Telephone: +7 (095) 797-8700
-
-Email: [support@kaspersky.com](mailto:support@kaspersky.com)
+This information can be found on our [Contact Information](http://www.kaspersky.com/contact) page. 
