@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quest.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205204951id_/http%3A//www.quest.com/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quest.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630130830id_/http%3A//www.quest.com/company/privacy.asp) for the most accurate reproduction.*
 
 # Quest : Privacy
 
@@ -8,15 +8,15 @@ We at Quest Software recognize the importance of protecting your personal inform
 
 Because Quest Software respects its customers and understands that you are concerned about privacy, we have instituted policies and security measures intended to ensure that your personal information is handled in a safe and responsible manner. We also post this privacy policy so that you can agree to the kind of information we collect, how it is handled, and with whom it may be shared.
 
-By accessing or using the Quest Software Web site, you agree to the terms of this Quest Software Privacy Statement. If you do not agree to these terms, you must not access or use this site. Quest Software is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.quest.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+By accessing or using the Quest Software Web site, you agree to the terms of this Quest Software Privacy Statement. If you do not agree to these terms, you must not access or use this site. Quest Software is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-If you have questions or concerns regarding this statement, you can email us at [webmaster@quest.com ](mailto:webmaster@quest.com). If you do not receive acknowledgment of your inquiry, or if your inquiry is not satisfactorily addressed, you can then contact TRUSTe through the TRUSTe Dispute Resolution Process at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will serve as a liaison with the Web site to resolve your concerns. The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
+If you have questions or concerns regarding this statement, you can email us at [webmaster@quest.com ](mailto:o:webmaster@quest.com). If you do not receive acknowledgment of your inquiry, or if your inquiry is not satisfactorily addressed, you can then contact TRUSTe through the TRUSTe Dispute Resolution Process at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will serve as a liaison with the Web site to resolve your concerns. The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
 
 ### Collection of Personal Information
 
 When you engage in certain activities on this site, such as ordering products, downloading software, obtaining technical support or entering contests, Quest Software may ask you to provide certain information about yourself by filling out and submitting an online form. It is completely optional for you to engage in these activities. If you elect to engage in these activities, however, Quest Software may require that you provide us with personal information, such as your name, title, company, mailing or billing or shipping address, work e-mail address, work phone number and other personal identifying information. When ordering products on the site, you may be asked to provide credit card information.
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Quest Software does not store this information.
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Quest Software does not store this information.
 
 ### Use of Personal Information 
 
@@ -30,7 +30,7 @@ Quest Software recognizes and appreciates the importance of responsible use of t
 
 As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. 
 
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personally identifiable information. 
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personally identifiable information. 
 
 ### Use of Cookies 
 
@@ -50,7 +50,7 @@ The security of your personal information is important to us. When you enter sen
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Web site, you can send email us at [webmaster@quest.com ](mailto:webmaster@quest.com).
+If you have any questions about security on our Web site, you can send email us at [webmaster@quest.com ](mailto:o:webmaster@quest.com).
 
 ### Links to Other Web Sites 
 
@@ -58,14 +58,14 @@ The Quest Software site may contain links to other Web sites. Please be aware th
 
 ### Changes to this Privacy Statement
 
-As we continue to develop our Web site and take advantage of technologies to improve the service we provide, this policy may change. If this policy does change, we will post the changes here. In addition, if we materially change any of our practices related to the collection and use of personal information, we will either notify users via e-mail or post a prominent notice on our website. After any change, we will also revise the “Page last updated” date at the bottom of the privacy statement. We therefore encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy and how we are protecting the personal information we collect. 
+As we continue to develop our Web site and take advantage of technologies to improve the service we provide, this policy may change. If this policy does change, we will post the changes here. In addition, if we materially change any of our practices related to the collection and use of personal information, we will either notify users via e-mail or post a prominent notice on our website. After any change, we will also revise the "Page last updated" date at the bottom of the privacy statement. We therefore encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy and how we are protecting the personal information we collect. 
 
 ### Choice/Opt-Out or Correct/Update 
 
-If you would like to remove your information from our database or not receive future communications, or wish to change or modify information previously provided please contact us at [listmaster@quest.com ](mailto:listmaster@quest.com). Upon receipt of your request, your information will be removed or updated as soon as possible, but no later than ten (10) days after our receipt of your request.
+If you would like to remove your information from our database or not receive future communications, or wish to change or modify information previously provided please contact us at [listmaster@quest.com ](mailto:o:listmaster@quest.com). Upon receipt of your request, your information will be removed or updated as soon as possible, but no later than ten (10) days after our receipt of your request.
 
 ### Contacting our Web Site 
 
-If you have any questions about this privacy statement, the practices of this site, Quest Software’s adherence to this privacy statement, or your dealings with this Web site, you can contact Quest Software, Inc. at [webmaster@quest.com](mailto:webmaster@quest.com); 5 Polaris Way, Aliso Viejo, CA 92656.
+If you have any questions about this privacy statement, the practices of this site, Quest Software's adherence to this privacy statement, or your dealings with this Web site, you can contact Quest Software, Inc. at [webmaster@quest.com](mailto:o:webmaster@quest.com); 5 Polaris Way, Aliso Viejo, CA 92656.
 
 Page last updated: March 30, 2006 
