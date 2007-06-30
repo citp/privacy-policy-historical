@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mts.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113230727id_/http%3A//www.mts.com/en/cm3_001760) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mts.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630142402id_/http%3A//www.mts.com/en/cm3_001760) for the most accurate reproduction.*
 
-# 
+# MTS Systems Corporation
 
 |  | 
 
@@ -49,6 +49,6 @@ MTS offers users the ability to correct or change information during the registr
 SITE SECURITY
 
 **  
-The MTS Site uses a variety of security measures to prevent the loss, misuse, or alteration of information you send to MTS. MTS uses Secure Sockets Lay (SSL) technology to assure the privacy and security of credit card and other personal data when making an order. SSL uses encryption technology to create a secure connection between your computer and ours. While MTS has put procedures in place to safeguard the information it collects from you, MTS cannot guarantee the security of any information you provide online; you provide it at your own risk.  
+The MTS Site uses a variety of security measures to prevent the loss, misuse, or alteration of information you send to MTS. MTS uses Secure Sockets Lay (SSL) technology to assure the privacy and security of credit card and other personal data when making an order. SSL uses encryption technology to create a secure connection between your computer and ours. While MTS has put procedures in place to safeguard the information it collects from you, MTS cannot guarantee the security of any information you provide online; you provide it at your own risk!  
   
 ---|---
