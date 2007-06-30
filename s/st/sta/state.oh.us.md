@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the state.oh.us privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627021007id_/http%3A//ohio.gov/privacy.stm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.oh.us privacy policy that was archived on 2007-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070701003201id_/http%3A//ohio.gov/privacy.stm) for the most accurate reproduction.*
 
 # State of Ohio Government Info and Services
 
