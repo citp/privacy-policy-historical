@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seatguru.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230052835id_/http%3A//seatguru.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seatguru.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630125834id_/http%3A//www.seatguru.com/privacy.php) for the most accurate reproduction.*
 
 # SeatGuru Privacy Policy
 
@@ -24,6 +24,6 @@ We have third-party advertisers on our site. Third-party advertisers may use coo
 
 ### Modifications of this Privacy Policy
 
-SeatGuru.com Inc. reserves the right to change the terms, conditions, and notices in this privacy policy. 
+TripAdvisor LLC reserves the right to change the terms, conditions, and notices in this privacy policy. 
 
 If you have questions about this privacy policy, please contact us at [info@seatguru.com](mailto:info@seatguru.com)
