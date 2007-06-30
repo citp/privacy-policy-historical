@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uaex.edu privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205212903id_/http%3A//division.uaex.edu/statements.htm%23Privacy%2520Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uaex.edu privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630122535id_/http%3A//division.uaex.edu/statements.htm%23Privacy%2520Statement) for the most accurate reproduction.*
 
 # Statements, Disclaimers and Freedome of Information for the U of A Division of Agriculture
 
@@ -16,7 +16,7 @@ University of Arkansas, United States Department of Agriculture and County Gover
 
 #### EEO
 
-The Division of Agriculture offers its programs to all eligible persons regardless of race, color, national origin, religion, gender, age, disability, marital or veteran status, or any other legally protected status, and is an Equal Opportunity Employer. 
+The Division of Agriculture offers its programs to all eligible persons regardless of race, color, national origin, religion, gender, age, disability, marital or veteran status, or any other legally protected status, and is an Affirmative Action/Equal Opportunity Employer.
 
 ####  Disclaimer
 
@@ -70,14 +70,25 @@ Voice: 501-671-2219
 Fax: 501-671-2251   
 E-mail: [drothberg@uaex.edu](mailto:drothberg@uaex.edu)   
 ---|---  
-**Agricultural Experiment Station  
-Dr. Gregory J. Weidemann**  
-Associate Vice-President  
-for Agriculture-Research   
+  
+**  
+Dr. Mark J. Cochran**  
+Associate Vice-President   
+for Agriculture - Research  
 AFLS E-108  
 University of Arkansas  
 Fayetteville, AR 72701   
-[gweidema@uark.edu](mailto:gweidema@uark.edu)  
-  
-  
+479-575-8703  
+E-mail: [mcochran@uark.edu](mailto:mcochran@uark.edu)
 
+| 
+
+**  
+Dr. Gregory J. Weidemann**  
+Associate Vice-President  
+for Agriculture - Academic Programs   
+AFLS E-108  
+University of Arkansas  
+Fayetteville, AR 72701  
+479-575-2034   
+E-mail: [gweidema@uark.edu](mailto:gweidema@uark.edu)
