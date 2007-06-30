@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the foxsports.com privacy policy that was archived on 2006-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061023103203id_/http%3A//msn.foxsports.com/name/Legal/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxsports.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630181611id_/http%3A//msn.foxsports.com/name/Legal/privacyPolicy) for the most accurate reproduction.*
 
-# FOX Sports - - Privacy Policy
+# FOX Sports on MSN - - Privacy Policy
 
 | 
 
