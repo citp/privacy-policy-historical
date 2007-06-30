@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ogj.com privacy policy that was archived on 2007-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070529214808id_/http%3A//www.ogj.com/aboutus/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ogj.com privacy policy that was archived on 2007-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070701001920id_/http%3A//www.ogj.com/aboutus/privacy.cfm) for the most accurate reproduction.*
 
 # PennWell Corporation Online Privacy Policy
 
