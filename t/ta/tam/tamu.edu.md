@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamu.edu privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216033925id_/http%3A//www.tamu.edu/home/statements/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamu.edu privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630140825id_/http%3A//www.tamu.edu/home/statements/privacy.html) for the most accurate reproduction.*
 
 # Texas A&M University - Privacy Statement
 
@@ -174,9 +174,9 @@
 
 ](http://www.tamu.edu/home/academics/calendars.html "University Calendars")
 
-[University Relations
+[Marketing & Communications
 
-](http://www.tamu.edu/univrel "University Relations")
+](http://www.tamu.edu/marcomm/ "Marketing")
 
 [more
 
@@ -230,13 +230,13 @@
 
 ](http://www.tamu.edu/home/amservices/computing.html "Computing")
 
+[Employee Services
+
+](http://employees.tamu.edu/ "Employee Services")
+
 [Food
 
 ](http://food.tamu.edu/ "Food")
-
-[Human Resources
-
-](http://hr.tamu.edu/ "Human Resources")
 
 [Texas A&M Employment
 
@@ -307,8 +307,8 @@ Some web pages at Texas A&M University may collect personal information about vi
 If you have any questions about this privacy statement, the practices of this site, or your use of this Web site, please contact the Webmaster or through regular mail at:
 
 Texas A&M University  
-Office of University Relations  
-Attention: [Webmaster](mailto:www@tamu.edu "Webmaster")  
+Division of Marketing & Communications  
+Attention: [Webmaster](mailto:webmaster@tamu.edu "Webmaster")  
 202 Bizzell Hall East, MS 1372  
 College Station, TX 77843-1372
 
