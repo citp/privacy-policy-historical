@@ -1,125 +1,91 @@
-> *The following text is extracted and transformed from the furl.net privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230054235id_/http%3A//furl.net/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furl.net privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630054313id_/http%3A//www.furl.net/privacy.jsp) for the most accurate reproduction.*
 
 # LookSmart's Furl - Privacy Policy
 
-Your privacy is very important to us. Furl and its parent company, LookSmart, Ltd. (referred to in this Privacy Policy as "Furl") have created this Privacy Policy in order to demonstrate our firm commitment to protecting your privacy. The following discloses our information gathering and dissemination practices for the www.furl.net site (the "Site"). 
+If you have any questions about this privacy statement, the practices of this site or your dealings with this site, email [copyright@looksmart.net](mailto:copyright@looksmart.net).
 
-Who is collecting my information?
+* **What information does LookSmart collect?**
 
-Furl usually collects the requested information. However, Furl has chosen select partners in order to provide certain services. In order to use certain services on the Site, it may be necessary to enter information that then goes to our partner and is not kept by Furl. 
+At different times, LookSmart may collect several types of information about you. Except as otherwise stated in this privacy policy, we do not provide this information to third parties, except in aggregate form. 
 
-We contract with Coremetrics, a service partner, to provide us with a data collection and reporting service for our Site. If you access the Site, Coremetrics may collect information about you on our behalf. For further information, including how to opt out of such data gathering, please see: <http://www.coremetrics.com/info_eluminate2.html>. 
+First, LookSmart collects personal information when you register for the Furl.net service. During registration, LookSmart requires a unique public member identity, private password, valid email address, first name and last name. No other personal information is required for users to register for the Furl service. Once you register, you are no longer anonymous to LookSmart. Your member name and first and last name (which are of your choosing) are made public to the Furl community and general public. Other registration information is not displayed publicly unless you opt to display it publicly. You may provide additional personal information at other times, including but not limited to, when you provide opinions or ratings, enter a sweepstakes, contest or promotion, or when you report a problem with one of our features or services. 
 
-Please be aware that advertisers or sites that have links on the Site may collect personally identifiable information about you once you have clicked through to their sites. This privacy statement does not cover the information practices of those sites linked to or from Furl. 
+Second, we or our partners or advertisers may use a feature of your browser called a cookie to assign identification to your computer. The unique user ID contained within your cookie automatically identifies your computer  but not you  to our servers every time you visit our site. Cookies by themselves cannot be used to find out the identity of any user. You can turn the cookies feature off by using your browser's preference options, but if you do so you may not be able to utilize some services properly. 
 
-Back to top
+Third, we keep track of your IP address to help diagnose problems with our servers and to administer our site. Your IP address is a number that identifies a computer which accesses the Internet. This address is used to gather broad demographic information about you, such as your Internet service provider and the geographic location of your IP address. LookSmart may also collect aggregate information on how our users are utilizing the site. This might include information regarding traffic patterns through the site and search queries. 
 
-How does Furl use my information?
+Fourth, we log browser types, access times, URLs from which visitors came to our site and URLs viewed by visitors while on our site. Again, LookSmart uses this information on an aggregate basis, in this case making sure we can support overall visitor traffic and service performance. 
 
-Furl's primary goal in collecting personal information is to provide you, the user, with a customized experience on our service. This includes, or may include in the future, personalization services, interactive communications, online shopping, and many other types of services. In order to provide services free of charge, we will serve ads using content-targeting technologies, based on the content of your archived items. Except where required to resolve technical problems or as set forth herein, no human will review your archived items or information related to you. By knowing a little about you, Furl is able to deliver more relevant advertisements and content, and hence better service, to you. 
+Fifth, we contract with service partners 24/7 Real Media and WebSideStory, to provide us with data collection and reporting services to better understand overall use of our site. These service partners may store certain legacy data that we received from visitors to our site prior to our relationship with them, so that we may access this information via their reporting service. These service partners may collect information on our behalf about our users visiting behaviors in several ways, including through the use of cookies or pixel tags. We use these service partners to understand whats popular and useful for visitors. Our service partners are contractually prohibited from disclosing this information to any third party. 
 
-Back to top
+* **What organization is collecting the information?**
 
-With whom does Furl share my information?
+LookSmart usually collects the requested information. However, LookSmart has chosen select partners to provide certain services. To use certain services on the site, it may be necessary to enter information that then goes to our partner and is not kept by LookSmart. The areas of our site in which partners are collecting information may be cobranded with our partners' logos. If you have questions regarding the privacy policy or data collection practices of one of our content partners, please contact that partner directly. 
 
-The following describes some of the ways that your information may be disclosed. Please note that this is not a complete list. The ways your information may be disclosed will change from time to time. 
+* **Does LookSmart permit third parties to collect information and does LookSmart control their collection and use of information?**
 
-Member Name: Your member name is the one part of your member profile that always remains public. Because many Furl services are interactive and community driven, it is important for other users to know who has submitted content, ratings, and comments. 
+We use third-party advertising companies and advertising networks to collect information and serve ads to you when you visit our site. These companies may use cookies, pixel tags, or otherwise independently collect information (not including your name, address email address or telephone number) from you and use this information about your visits to this and other sites to provide advertisements about goods and services of interest to you. We do not control their collection and use of information. Please note that if an advertiser or advertising network asks us to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 13-24 who have viewed sports content) and you respond to that ad, the advertiser or advertising network may conclude that you fit the description of the audience they are trying to reach.
 
-Coremetrics: Coremetrics may store certain data that we received from visitors to Furl (which may include email addresses), so that we may access this information via their reporting service. Furl will only use information shared with Coremetrics for proprietary Furl purposes. Coremetrics does not have the right to transfer your information to any party other than LookSmart. 
+To learn more about the collection of information by these third party advertising networks, including how to opt out of such collection, see the links below.
 
-Business Partners: LookSmart may disclose your personal information to our business partners in order to provide you with the services on the Site. If you have questions regarding the privacy policy or data-collection practices of one of our business partners, please contact that partner directly. 
+To opt out of collection by our service partner WebSideStory, please visit: <http://www.websidestory.com/privacy/cookie-opt-out.html>
 
-Promotions: Many promotions offer opportunities to request additional information from sponsors. If you request more information from a sponsor, Furl will transfer your personal information to the sponsor so they can fulfill your request. 
+To opt out of collection by our service partner 24/7 Real Media, please visit: <http://www.247realmedia.com/opt-out.html>
 
-Special Offers: From time to time, you may be offered the opportunity to receive materials or special offers from third parties. If you opt-in to receive information from these third parties, Furl will share your name and email address with those parties. 
+* **What does LookSmart do with the data it collects?**
 
-Data in the Aggregate: Furl discloses aggregated user statistics (for example, 45% of our users have visited the Site more than once this month) in order to describe our services to prospective partners, advertisers, and other third parties, and for other lawful purposes. 
+Whenever LookSmart collects data, the data is intended to tailor or improve the experience of visitors to our site. From the data collected we can customize content and advertising based on the user's preferences. We may use information from cookies to differentiate between unique users, personalize the site for each unique user, to control the frequency of individual advertisements directed to individual computers, and other purposes. In all cases, personally identifiable information is not shared with our advertisers, except as otherwise stated in this privacy policy. 
 
-Other: We also may access or disclose your personal information to a third party if we believe in good faith that the law or legal process (e.g., a subpoena or warrant) requires it, to protect the rights or property of Furl or others, to respond to claims that any content on the Service or use thereof violates the rights of third parties, to enforce our Terms of Service, or as otherwise described in this privacy policy. 
+We use IP addresses to help diagnose problems with our server and to administer our site. It's the way we can make sure our service is consistently available to you. 
 
-Back to top
+If you register for a service or to enter a sweepstakes, we may use the information we collect to provide the service to you or send communications regarding the sweepstakes. We may also send a newsletter by email to our users who opt to receive such emails. It is our policy to send these emails only to users who give us permission to do so. In every such email, we will also have instructions on how to unsubscribe to avoid receiving any future emails from us. LookSmart also may contact you by email to respond to feedback you have submitted. 
 
-What personally identifiable information does Furl collect?
+* **With whom does LookSmart share data?**
 
-Furl collects personal information when you register. During registration, Furl requires a unique public member identity (not necessarily your real name), private password, valid email address, first name, and last name. No other personal information is required for users to register for the Furl service. Once you register, you are no longer anonymous to Furl. Your member name and first and last name are made public to the Furl community and general public. Other registration information is not displayed publicly unless you opt for it to be displayed publicly. 
+LookSmart shares your member name with other Furl users. Your member name is the one part of your member profile that always remains public. Because many Furl services are interactive and community driven, it is important for other users to know who has submitted content, ratings, and comments. LookSmart may also disclose your personal information to it other owned and operated businesses. 
 
-You may provide additional personal information at other times, including (but not limited to) when you create a Member Profile, provide opinions or ratings, enter a sweepstakes, contest, or promotion sponsored by Furl and/or our partners, or when you report a problem with one of our features or services. If you contact Furl we may keep a record of that correspondence. Furl also occasionally asks users to complete surveys that we use for research purposes. Furl may at times also collect IP addresses and login records for system administration and to report aggregate information to our advertisers. 
+We also may disclose your personal information (including without limitation IP addresses) to a third party if the law or legal process requires it, to protect the rights or property of LookSmart or others, or as otherwise described in this privacy policy. 
 
-We may also collect information through the use of "pixel tags" included in email messages we may send to you. Pixel tags are tiny graphic files, not visible to the human eye, that are included in HTML-encoded email messages. When such a message is opened in an HTML-capable email program, the recipient's computer will access our server to retrieve the pixel tag file, allowing us to record and store, along with the recipient's email address, the date and time the recipient viewed the email message, that the recipient's email program is capable of receiving HTML-encoded email, and other standard logging information. The pixel tag also may see or read cookies. 
+We may disclose certain non-personally identifiable information about you to advertisers or other third parties to present you with targeted advertisements. We may share aggregate demographic information with our advertisers or information collection companies, but will not reveal any personally identifiable information in these instances. 
 
-Back to top
+* **What choices are available regarding collection, use and distribution of the information (Opt Out Policy)?**
 
-What are my choices regarding collection, use, and distribution of my information?
+As previously noted, you may always choose to not provide us with any of the information we request; however, this may limit our ability to provide you with a specific service or limit our ability to offer personalized content. 
 
-You can browse the Site without creating an account (by logging in under the username "demo" and using the password "demo"), but you will need to create an account in order to take full advantage of the Site. 
+To learn more about the collection of information by third party advertising networks, including how to opt out of such collection, see the links below. 
 
-Furl may, from time to time, send you email regarding our products and services. In most cases, you will be given the opportunity to choose not to receive these messages. In some instances, emails are a necessary component of Furl's service. In addition, if you indicated upon registration that you are interested in receiving offers or information from Furl and our partners, we may occasionally send you email about products and services that we feel may be of interest to you. 
+To opt out of collection by our service partner WebSideStory, please visit: <http://www.websidestory.com/privacy/cookie-opt-out.html>
 
-By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies you will be unable to use Furl because Furl's services require cookies in order to participate. Persistent cookies are used for the auto-login feature and session cookies are used to provide all other Furl services. Coremetrics also uses cookies as part of its service for Furl. For further information, including how to opt out of such data gathering, please see: <http://www.coremetrics.com/info_eluminate2.html>. 
+To opt out of collection by our service partner 24/7 Real Media, please visit: <http://www.247realmedia.com/opt-out.html>
 
-Back to top
+* **How can I update or correct my information?**
 
-What security precautions are in place to protect the loss, misuse, or alteration of my information?
+You may edit your account at any time by selecting "[My Settings](http://www.furl.net/settings.jsp)" and then using your account name and password. 
 
-Your Furl Account Information and Member Profile are password-protected so that you and only you have access to entering and editing personal information make certain information publicly displayed. You may edit your Account Information or Member Profile using your member name and password. 
+* **How can I delete my information?**
 
-We recommend that you do not divulge your password to anyone. Furl will never ask you for your password in an unsolicited phone call or in an unsolicited email. Please remember to log out of your Furl account and close your browser window when you have finished your work. This helps ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe. 
+Your Furl account can be deactivated and personally identifiable information deleted, but doing so will result in not being able to access Furl services outside of using a non-registered account. Please contact [Furl@furl.net](mailto:furl@furl.net) if you wish to deactivate your account, clearly indicating the nature of your request. 
 
-Unfortunately, no data transmission over the Internet can be guaranteed to be secure. As a result, while we strive to protect your personal information, Furl cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. 
+* **What procedures have been designed to protect the loss, misuse or alteration of information under LookSmart's control?**
 
-Back to top
+Your Furl account is password protected so that you and only you have access to entering and editing your personal information and personal preferences. We recommend that you do not divulge your password to anyone. LookSmart will never ask you for your password in an unsolicited call or unsolicited email. Please remember to log out of your Furl account and close your browser window when you have finished your work. This helps ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet café. Except as otherwise stated in this privacy policy, LookSmart has taken measures to ensure that information that is not publicly available through its site is accessible only to the user who initially entered the information or to authorized personnel at LookSmart or its partners, and only after a password has been entered. In the unlikely event of a security breach for which we provide notice under Cal. Civ. Code § 1798.82, LookSmart will send a notification to the email address on file (if any) for each relevant user informing him or her of the security breach. 
 
-What else should I know about my privacy?
+* **What about privacy policies for sites to which Furl links?**
 
-Please keep in mind that whenever you voluntarily disclose personal information online - for example on message boards, through email, or in chat areas - that information can be collected and used by others. Thus, if you post personal information online that is accessible to the public, you may receive unsolicited and unwanted communications from other parties. 
+Furl contains many links to Web sites not controlled by LookSmart. These sites have their own policies and practices with respect to online privacy, and LookSmart cannot be responsible for the privacy practices or the content of these Web sites. 
 
-Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you're online. 
+* **What happens to my information if Furl or LookSmart merges with or is sold to another company?**
 
-Back to top
+It is possible that Furl and/or any of LookSmart's assets may be acquired. In such a transaction, user information may be transferred to the acquiring entity. While we will endeavor to require the successor company to maintain this privacy policy, we cannot guarantee that our policy will remain in effect. 
 
-What is Furl's policy on allowing me to update, correct, or delete my personally identifiable information?
+* **What policies does LookSmart have in place to protect the privacy of children?**
 
-You may edit your Member Profile at any time by selecting Profile within the Site and then using your member name and password. 
+LookSmart does not intentionally collect personal information about children under the age of thirteen (13). Children under the age of thirteen (13) may not register for Furl or use the site. 
 
-Your Furl account can be deactivated and personally identifiable information deleted, but doing so will result in not being able to access Furl services outside of using the demo account. Please contact [Furl@furl.net](mailto:Furl@furl.net) if you wish to deactivate your account, clearly indicating the nature of your request. 
+* **Notification of Changes**
 
-Back to top
+This policy may be revised over time as new features are added to the site. We will post our new privacy policy, along with the date of its last revision, prominently so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. Please check this page for information about revisions to our privacy policy. 
 
-What are cookies and how does Furl use them?
+* **Contact Information**
 
-As part of offering and providing customizable and personalized services, Furl uses cookies to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. All web pages on Furl require that you accept cookies. (See "What are my choices regarding collection, use and distribution of my information?" for more information on cookies.) 
-
-Generally, we use cookies to: 
-
-Remind us of who you are and to access your account information (stored on our computers) in order to deliver to you a better and more personalized service. This cookie is set when you register or "log in" and is modified when you "log out" of our services. 
-
-Estimate our audience size. Each browser accessing Furl is given a unique cookie which is then used to determine the extent of repeat usage, usage by a registered user versus by an unregistered user, and to help target advertisements based on user interests and behavior. 
-
-Assist Furl partners or affiliates to track visits to and business with their companies, and potentially to process the items in your shopping basket. This information collected by cookies is sometimes called "clickstream" or "click trail" and may also describe which pages you have seen in each merchant's store. 
-
-Track your progress and number of entries in some of our promotions, sweepstakes, and contests. 
-
-Measure certain traffic patterns, which areas of Furl you have visited, and your visiting patterns in the aggregate. We use this research to understand how our users' habits are similar to or different from one another so that we can make each new experience on Furl a better one. We may use this information to better personalize the content, advertisements, and promotions that you and other users will see on our Site. 
-
-Advertising networks that serve ads onto Furl may also use their own cookies. The content of such cookies and the use of the information they contain is controlled by the third party advertising network placing them, not by Furl. 
-
-Back to top
-
-What about children's privacy?
-
-Furl does not intentionally collect personal information about children under the age of 18. Children under the age of 18 may not use the Site. 
-
-Back to top
-
-What if Furl modifies the Privacy Policy?
-
-Furl may need to modify the privacy policy due to updates and changes in its services. Modifications will continue to respect and safeguard your privacy. You should check this page periodically to review the latest version of the privacy policy. 
-
-Back to top
-
-I can't find the answer to my question about privacy.
-
-Any other questions regarding our privacy policy should be directed to [Furl@furl.net](mailto:Furl@furl.net). 
-
-Back to top
+If you have any questions about this privacy policy or about LookSmart's information collection practices, please contact us at [copyright@looksmart.net](mailto:copyright@looksmart.net). 
