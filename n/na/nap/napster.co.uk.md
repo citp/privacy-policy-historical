@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the napster.co.uk privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206193603id_/http%3A//www.napster.co.uk/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the napster.co.uk privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630220853id_/http%3A//www.napster.co.uk/privacy_policy.html) for the most accurate reproduction.*
 
 # Napster.co.uk - Privacy Policy
 
@@ -7,6 +7,8 @@
 **NAPSTER PRIVACY POLICY**
 
 Effective March 31, 2006 
+
+If you need Napster Customer Support assistance, please [click here](http://www.napster.co.uk/support). Sending an email to Napster's privacy officer will cause a delay in response and assistance.
 
 Welcome to Napster's online music services available at [www.napster.co.uk](http://www.napster.co.uk/) (the "Service"). We value your privacy, and we want you to know what information we collect and what we do with it. 
 
