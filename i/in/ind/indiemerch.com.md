@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiemerch.com privacy policy that was archived on 2006-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061116043930id_/http%3A//www.indiemerchstore.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiemerch.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630141350id_/http%3A//www.indiemerchstore.com/privacy) for the most accurate reproduction.*
 
 # indiemerchstore.com - Privacy Policy
 
@@ -12,7 +12,7 @@ INDIEMERCHSTORE
 CLEVELAND OH 44114-4616  
 
 
-We can be reached via email at [info@indiemerchstore.com](mailto:info@indiemerchstore.com "Email Us") or you can reach us by telephone at +1 (216) 357-2769
+We can be reached via email at [info@indiemerchstore.com](mailto:info@indiemerchstore.com "Email Us") or you can reach us by telephone at +1 (216) 622-6399
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name.
 
