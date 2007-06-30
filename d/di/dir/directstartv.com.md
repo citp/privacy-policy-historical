@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directstartv.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216024145id_/http%3A//www.directstartv.com/directv/directv_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directstartv.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630092249id_/http%3A//www.directstartv.com/directv/directv_privacy.html) for the most accurate reproduction.*
 
 # DirectStarTV Privacy Policy
 
@@ -49,12 +49,6 @@ DirectStarTV reserves the right to change this policy. If we do make changes, th
 You may contact us via the following methods:  
 Email: [comments(at)DirectStarTV.com  
 ](mailto:comments@DirectStarTV.com) Phone: 1-866-379-4009  
-Mailing Address: 14120 Ballantyne Corporate Place Suite 200, Charlotte, NC 28277 
+Mailing Address: 15009 Lancaster Highway, Charlotte, NC 28277
 
 **We take your privacy and security seriously.**
-
-**DirectStarTV is a DIRECTV Preferred Online Retailer**
-
-Copyright ©2006 DirectStarTV 
-
-DIRECTV is sometimes referred to as Direct TV, DirectTV, Satellite TV, Satelite Television, or Dish TV. In the context of this site, these terms and others such as satellite dish, digital satellite tv, and Directv dish refer to DIRECTV. 
