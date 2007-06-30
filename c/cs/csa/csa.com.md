@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csa.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018045430id_/http%3A//www.csa.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csa.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630045110id_/http%3A//www.csa.com/privacypolicy.php) for the most accurate reproduction.*
 
 # CSA Privacy Policy
 
