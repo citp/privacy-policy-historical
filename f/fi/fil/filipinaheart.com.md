@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filipinaheart.com privacy policy that was archived on 2006-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061005100344id_/http%3A//www.filipinaheart.com/Privacy.cfm%3Bjsessionid%3Dde30fac4af271%240F%24DF%24) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filipinaheart.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630153306id_/http%3A//www.filipinaheart.com/Privacy.cfm) for the most accurate reproduction.*
 
 # FilipinaHeart.com - Filipina Dating, Singles and Personals
 
