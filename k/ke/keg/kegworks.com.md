@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kegworks.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213185239id_/http%3A//www.kegworks.com/company.php%3Fpageid%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kegworks.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630152829id_/http%3A//www.kegworks.com/company/privacy-policy) for the most accurate reproduction.*
 
 # KegWorks :: Privacy Policy
 
@@ -14,7 +14,7 @@ Please note, our Privacy Policy is subject to change, so we encourage you to vis
 By using services provided by KegWorks and on KegWorks.com, you indicate that you agree to the collection and use of your information as outlined in this Privacy Policy: 
 
 Why We Collect Information  
-First and foremost, KegWorks collects information to improve the product offerings and site features that we present to you via our site. We also use your information to measure our site’s success and performance. Collecting information about what products you are interested in and what site features you use helps us to improve our site for you. For example, aggregate information gives us an idea of the number of visitors we attract, what products they are looking at and how they navigate around our site. Looking at this compiled information allows us to give you a better KegWorks! 
+First and foremost, KegWorks collects information to improve the product offerings and site features that we present to you via our site. We also use your information to measure our site's success and performance. Collecting information about what products you are interested in and what site features you use helps us to improve our site for you. For example, aggregate information gives us an idea of the number of visitors we attract, what products they are looking at and how they navigate around our site. Looking at this compiled information allows us to give you a better KegWorks! 
 
 Personal Information We Collect  
 Personal information that we collect is provided (to us, by you) on a strictly voluntary basis. We may receive personal information from you in a number of ways, depending on the service you are using and your choices while using our services. 
@@ -72,8 +72,8 @@ Users can email: [sales@kegworks.com](mailto:sales@kegworks.com).
 
 Users can send mail to the following postal address:  
 KegWorks.com  
-737 Main Street, Suite 150  
-Buffalo, New York 14203  
+1460 Military Road  
+Kenmore, New York 14217  
 U.S.A.
 
 Or call the following telephone number: 1-877-636-3673.
