@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milesplit.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017150310id_/http%3A//www.milesplit.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milesplit.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630223243id_/http%3A//www.milesplit.com/help/privacy.php) for the most accurate reproduction.*
 
 # Mile Split Network
 
