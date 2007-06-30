@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dailytoreador.com privacy policy that was archived on 2006-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061208135517id_/http%3A//www.dailytoreador.com/user/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dailytoreador.com privacy policy that was archived on 2007-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070630161439id_/http%3A//www.dailytoreador.com/user/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	
@@ -14,18 +14,69 @@ var bAdmanagerClientAlive=0;
 var bAdmanagerNetworkAlive=0;
 var bAdVariantBanners = 0;
 var origserver =  window.document.location.host.toString();
+if (typeof sectioncategory=="undefined"){
+var sectioncategory = '';}
+if (typeof story_id=="undefined"){
+var story_id = '';
+}
 /* ]]> */
 </script>
+<script type="text/javascript">
+/* <![CDATA[ */
+document.write('<SCR'+'IPT SRC='+'http://media.collegepublisher.com/media/scripts/commonFunctions.js?2>'+'</SCR'+'IPT>');
+/* ]]> */
+</script><script src="http://media.collegepublisher.com/media/scripts/commonFunctions.js?2"></script>
 <base href="http://www.dailytoreador.com/">
-<link href="http://media.collegepublisher.com/media/css/global.css?v18" rel="stylesheet" type="text/css" media="screen">
+<script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/coda/mtvi_reporting.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+	function getPageName(){
+		var defaultPageName = "index.cfm"
+		return (location.pathname=="" || location.pathname=="/")?"/"+defaultPageName:location.pathname;
+ 	}
+	function getHierarchy(argPageName){
+		return (argPageName.charAt(0)=="/")?argPageName.substring(1):argPageName;
+	}
+	var qString = com.mtvi.util.queryStringToHash(location.search);
+	var refsource = (com.mtvi.util.isDefined(qString))?qString["refsource"]:"";
+	var reffeature = (com.mtvi.util.isDefined(qString))?qString["reffeature"]:"";
+	if(refsource != null && refsource.length > 0) {
+		SetCookie('refsourcekey', refsource);
+	}
+	// Reporting Account Config
+	com.mtvi.reporting.Account={
+		name:"viay2m",
+		filters: "javascript:,y2m.com"
+	};
+	var dispatcher=com.mtvi.reporting.Dispatcher;
+	dispatcher.setAttribute('pageName',getPageName());
+	dispatcher.setAttribute('hier1',getHierarchy(getPageName())); 
+	dispatcher.setAttribute('prop1','displayPrivacyPolicy');
+	dispatcher.setAttribute('prop2',sectioncategory);
+	dispatcher.setAttribute('prop3','event=displayPrivacyPolicy');
+	dispatcher.setAttribute('prop4',refsource);
+	dispatcher.setAttribute('prop5',window.document.location.pathname.toString() + window.document.location.search.toString());
+	dispatcher.setAttribute('prop6',origserver);
+	dispatcher.setAttribute('prop7','Daily Toreador');
+	dispatcher.setAttribute('prop8','www.dailytoreador.com');
+	dispatcher.setAttribute('prop9',story_id);
+	dispatcher.setAttribute('prop10','870');
+	dispatcher.setAttribute('prop11','user');
+	dispatcher.setAttribute('prop12',GetCookie('refsourcekey'));
+	dispatcher.setAttribute('prop13',reffeature);
+	dispatcher.sendCall();
+	//]]>
+</script>
+
+<link href="/media/css/global.css?v43" rel="stylesheet" type="text/css" media="screen">
 <link href="http://media.collegepublisher.com/media/css/features_1024.css?v1" rel="alternate stylesheet" type="text/css" title="1024 x 768">
 <link href="http://media.collegepublisher.com/media/css/popup_new.css?v12" rel="stylesheet" type="text/css" media="screen">
 <link href="http://media.collegepublisher.com/media/css/print.css?v1" rel="stylesheet" type="text/css" media="print">
-<link href="/media/paper870/styles.css?v12" rel="stylesheet" type="text/css" media="screen">
+<link href="http://www.dailytoreador.com/media/paper870/styles.css?v13" rel="stylesheet" type="text/css" media="screen">
 <link rel="alternate" type="application/rss+xml" title="RSS feed for Daily Toreador" href="http://www.dailytoreador.com/articles.rss">
-<!-- Some web 2.0 resources. -->
+<!-- Some "Web 2.0" Resources. -->
 <script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/prototype.js"></script>
-<script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/global.js?13"></script>
+<script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/global.js?14"></script>
 <script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/network_channel.js"></script>
 <script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/event_listener.js"></script>
 <script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/resolution.js"></script>
@@ -34,6 +85,9 @@ var origserver =  window.document.location.host.toString();
 <script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/youarehere.js"></script>
 <script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/spry/xpath.js"></script>
 <script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/spry/SpryData.js"></script>
+<script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/contentslider.js?1"></script>
+<script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/ufo.js?1"></script>
+
 
 <meta http-equiv="pragma" content="no-cache">
 <meta http-equiv="expires" content="-1">
@@ -43,20 +97,34 @@ var origserver =  window.document.location.host.toString();
 <meta name="author" content="The Staff of Daily Toreador">
 <meta name="description" content="Daily Toreador, a college media publication.">
 <meta name="keywords" content="Daily Toreador, newspaper, college media, student media">
-<meta name="copyright" content="Copyright 2006 Daily Toreador.">
+<meta name="copyright" content="Copyright 2007 Daily Toreador.">
 
 <script type="text/javascript">
 /* <![CDATA[ */
-var currentissuedate='12/06/06';
-var currentissuedayname='Wednesday';
-var currentissuemonthname='December';
-var currentissueday='6';
-var currentissuemonth='12';
-var currentissueyear='2006';
+var currentissuedate='06/29/07';
+var currentissuedayname='Friday';
+var currentissuemonthname='June';
+var currentissueday='29';
+var currentissuemonth='6';
+var currentissueyear='2007';
 var basehref='http://www.dailytoreador.com/';
 var paper_id='870';
+var paperzip='79414';
 var paper_name='Daily Toreador';
 var paper_domain='www.dailytoreador.com';
+
+
+
+var dart_paper_name = 'TexasTechUniversity_870';
+
+var dart_primary_section = sectioncategory ==''? 'user' : sectioncategory.toLowerCase();
+
+var dart_ord = Math.random() * 10000000000000000;
+var dart_tileNumber = 1;
+dart_primary_section = dart_primary_section.replace(/^(\d.+?)$/,"_$1");
+dart_primary_section = dart_primary_section.replace(/\s{1,}/g,"");
+dart_primary_section = dart_primary_section.replace(/\/{1,}/g,"");
+
 
 var slideshowpath='http://www.dailytoreador.com/home/index.cfm?event=displaySlideShow&islides=';	
 		
@@ -65,21 +133,18 @@ var slideshowpath='http://www.dailytoreador.com/home/index.cfm?event=displaySlid
 var aSectionNames = new Array();
 var aSectionLinks = new Array();
 aSectionNames[0] = 'News';
-aSectionLinks[0] = '/news/2006/12/06/News/';
+aSectionLinks[0] = '/news/2007/06/22/News/';
 aSectionNames[1] = 'La Vida';
-aSectionLinks[1] = '/news/2006/12/06/LaVida/';
+aSectionLinks[1] = '/news/2007/06/22/LaVida/';
 aSectionNames[2] = 'Sports';
-aSectionLinks[2] = '/news/2006/12/06/Sports/';
+aSectionLinks[2] = '/news/2007/06/22/Sports/';
 aSectionNames[3] = 'Opinions';
-aSectionLinks[3] = '/news/2006/12/06/Opinions/';
+aSectionLinks[3] = '/news/2007/06/22/Opinions/';
+aSectionNames[4] = 'Video';
+aSectionLinks[4] = '/news/2007/06/22/Video/';
 /* ]]> */
 </script>
 
-<script type="text/javascript">
-/* <![CDATA[ */
-document.write('<SCR'+'IPT SRC='+'http://media.collegepublisher.com/media/scripts/commonFunctions.js?2>'+'</SCR'+'IPT>');
-/* ]]> */
-</script><script src="http://media.collegepublisher.com/media/scripts/commonFunctions.js?2"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 pcdateobject=new Date();
@@ -87,8 +152,6 @@ pcrandom=pcdateobject.getTime();
 var section_id = '';
 if (typeof section_name=="undefined"){
 var section_name = '';}
-if (typeof sectioncategory=="undefined"){
-var sectioncategory = '';}
 if (typeof isectioncategoryid=="undefined"){
 var isectioncategoryid = ',';}
 if (section_name != '') {
@@ -98,7 +161,6 @@ if (section_name != '') {
     }
   }
 }
-var story_id = '';
 
 var result = document.location.href.match(/mkey(=|\/|%3D)(-9+)/);
 if (result && result[1]) {
@@ -144,43 +206,39 @@ if (bAdmanagerClientAlive) {
 	
 }
 
-if (bAdmanagerNetworkAlive) {
-	document.write('<SCR'+'IPT SRC='+'http://admanager3.collegepublisher.com/runtime/javascriptcache/national/870/national.js>'+'</SCR'+'IPT>');
-	
-}
+
+
+	document.write('<SCR'+'IPT SRC='+'http://admanager3.collegepublisher.com/runtime/javascript/DART_national.js>'+'</SCR'+'IPT>');
+
+
+
+
+		
+
+
+
+//  bigurl = basehref + "user/index.cfm?event=popupregistrationbox&amp;thereferer=" + escape(document.location) + "&amp;paperid=" + paper_id + "&amp;paper=" + escape(paper_name) + "&amp;domain=" + escape(paper_domain) + '&amp;verifytab=1';
+  	// If this person has never registered or logged in, set the user's userid to -1 and their click count to 1.
+		// the cookie's domain should be the same whether this page is served live, or from MirrorImage
+		var cookieDomain = window.location.hostname;
+		cookieDomain = cookieDomain.replace(/^www\./,"");
+		cookieDomain = cookieDomain.replace(/^media.www\./,"");
+	  if (document.cookie.indexOf("HASREGISTEREDORLOGGEDIN") == -1) {
+		  req = /(news\/\d+\.html|event[=\/]displayArticle|news\/\d{4}\/\d{2}\/\d{2}\/.+\/.*\.shtml)/i;
+		  ex = /user/i;
+		  curclicks = GetCookie('CLICKS');
+		if (curclicks == null)
+			curclicks = 0;
+		if (req.test(document.URL) && !ex.test(document.URL))
+		  SetCookie('CLICKS',  1*curclicks+1, null, '/', cookieDomain);
+		if (curclicks >= 2 && req.test(document.URL) && !ex.test(document.URL)) {
+    		document.location.href = basehref + 'user/index.cfm?event=displayregistrationprompt&requiredregistration=1&thereferer=' + escape(document.location);   
+		}
+	}
+
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/mtvi/mtvi.js"></script>
-<script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/mtvi/util.js"></script>
-<script type="text/javascript">
- MTVi.config.path="http://media.collegepublisher.com/media/scripts/mtvi/";
- MTVi.config.sendReportingCall=true;
- var qString = MTVi.util.queryStringToHash(location.search);
- var refsource = (typeof qString["refsource"] != "undefined")?qString["refsource"]:"";
 
- // Reporting Config
- MTVi.reporting.Config={
-  account: "viay2m",
-  filters: "javascript:,y2m.com"
- };
- // Reporting Object
- MTVi.reporting.Map=function(){
-  return{
-   pageName: '870',
-   hier1: 'user', 
-   prop1: 'displayPrivacyPolicy', 
-   prop2: sectioncategory, 
-   prop3: 'event=displayPrivacyPolicy',
-   prop4: refsource,
-   prop5: window.document.location.pathname.toString() + window.document.location.search.toString(),
-   prop6: origserver,
-   prop7: 'Daily Toreador',
-   prop8: 'www.dailytoreador.com',
-   prop9: ''
-  };
- };
-</script>
-<script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/mtvi/mtvi_required.js"></script>
 <!-- Start of StatCounter Code -->
 <script type="text/javascript" language="javascript">
 var sc_project=1209558; 
@@ -241,9 +299,9 @@ var sc_security="093fa7f2";
 					<div id="net_channels">
 						<ul>
 							
+							<li><a href="http://media.www.dailytoreador.com/channel/collegeheadlines/" target="_parent">Top National College News</a></li>
+							<li><a href="/channel/money/" target="_parent">Money</a></li>
 							<li><a href="/books/" target="_parent">Books</a></li>
-							<li><a href="/housingchannel/" target="_parent">Housing</a></li>
-							<li><a href="/careers/" target="_parent">Job Search</a></li>
 							<li><a href="/movies/" target="_parent">Movies</a></li>
 							
 						</ul>
@@ -263,7 +321,20 @@ var sc_security="093fa7f2";
 
 	<div id="flan_wrap">
 		<div id="flan_header">
-			<div id="flan_header_main">
+			<center>
+<div id="banner_client_5" class="cp_banner_client">
+	<script language="JAVASCRIPT">
+	if (clientBannersAvailable == 1) {
+		showClientBanner(5);
+	}
+	</script>
+	<noscript>
+	<cfoutput><a href="http://admanager2.broadbandpublisher.com/newspaperBanners/clientClickThrough.adp?iPosition=5&amp;iPaper_id=870&amp;javascriptIncludeMode=0&amp;callingSite=www%2Edailytoreador%2Ecom" target="new"><img src="http://admanager2.broadbandpublisher.com/newspaperBanners/showAbanner.adp?vchSerialNumber=d7b7kos852&amp;iSection_Id=&amp;iStory_Id=&amp;iPaper_Id=870&amp;javascriptIncludeMode=0&amp;iPosition=5" border="0"></a></cfoutput>
+	</noscript>
+</div>
+</center>
+
+<div id="flan_header_main">
 	<div class="gutter">	
 		<h1 id="flan_logo"><a href="/home/" class="flan_header_home_link" title="The Daily Toreador - Student Newspaper of Texas Tech">The Daily Toreador - Student Newspaper of Texas Tech</a></h1>
 	</div>
@@ -271,7 +342,7 @@ var sc_security="093fa7f2";
 <div id="flan_header_meta">
 	<div class="gutter">
 		<div id="flan_meta">
-			<p><script language="JAVASCRIPT">document.write(currentissuedayname + ', ' + currentissuemonthname + ' ' + currentissueday + ', ' + currentissueyear);</script>Wednesday, December 6, 2006</p>
+			<p><script language="JAVASCRIPT">document.write(currentissuedayname + ', ' + currentissuemonthname + ' ' + currentissueday + ', ' + currentissueyear);</script>Friday, June 29, 2007</p>
 		</div>
 		<div id="flan_search">
 			<form id="flan_header_search" name="flan_header_search" action="/home/index.cfm" method="get">
@@ -304,10 +375,9 @@ var sc_security="093fa7f2";
 				</div>
 				<div id="flan_content">
 					<div class="gutter">
-						<div id="loggedin_controlbar">
-<script language="JAVASCRIPT">
+						<script language="JAVASCRIPT">
   if (GetCookie('CANSEELOGINBAR') == 1) {
-	document.write('<table width=100% cellspacing=0 cellpadding=0 border=0 id=loggedin_bar>');
+	document.write('<div id=loggedin_controlbar><table width=100% cellspacing=0 cellpadding=0 border=0 id=loggedin_bar>');
 	document.write('<tr>');
 	document.write('<td valign=middle align=left>');
 	document.write('<img src=/home/images/face.gif>');
@@ -316,10 +386,9 @@ var sc_security="093fa7f2";
 	document.write('<strong><a href=/user/index.cfm?event=editUserPreferencesForm>MY ACCOUNT</a>'); 	
 	document.write('&nbsp;&nbsp;&nbsp;&nbsp;<a href=/user/index.cfm?event=processLogout>LOG OUT</a></strong></td>');
 	document.write('</tr>');
-	document.write('</table>');
+	document.write('</table></div>');
  }
-</script>
-</div><div id="maincontent">
+</script><div id="maincontent">
 
 				
 					<h2>Privacy Commitment</h2>
@@ -425,352 +494,81 @@ Fax: (617) 248-8747</p>
  
 			
 			
-</div><div id="banner_client_5" class="cp_banner_client">
-	<script language="JAVASCRIPT">
-	if (clientBannersAvailable == 1) {
-		showClientBanner(5);
-	}
-	</script>
-	<noscript>
-	<cfoutput><a href="http://admanager2.broadbandpublisher.com/newspaperBanners/clientClickThrough.adp?iPosition=5&iPaper_id=870&javascriptIncludeMode=0&callingSite=www%2Edailytoreador%2Ecom" target="new"><img src="http://admanager2.broadbandpublisher.com/newspaperBanners/showAbanner.adp?vchSerialNumber=d7b7kos852&iSection_Id=&iStory_Id=&iPaper_Id=870&javascriptIncludeMode=0&iPosition=5" border="0"></a></cfoutput>
-	</noscript>
-</div><div id="issuesummary">
-	<h2>Issue Summary</h2>
-	<table width="100%" border="0" cellpadding="4" cellspacing="0">
-		<tbody><tr>
-			<td width="50%" valign="top">
-					
-						<h3><a class="issuesummarysection" href="http://www.dailytoreador.com/home/news/2006/12/06/News/">News</a></h3>
-						<ul>
-								
-									
-										<li><a class="issuesummaryheadline" href="http://www.dailytoreador.com/home/news/2006/12/06/News/Hance.Meets.Lubbock.Leaders-2523670.shtml">Hance meets Lubbock leaders</a></li>
-									
-								
-									
-										<li><a class="issuesummaryheadline" href="http://www.dailytoreador.com/home/news/2006/12/06/News/Leach.Situation.Remains.Unclear-2524235.shtml">Leach situation remains unclear</a></li>
-									
-								
-									
-										<li><a class="issuesummaryheadline" href="http://www.dailytoreador.com/home/news/2006/12/06/News/Student.Voter.Turnout.Lower.Than.Expected-2523677.shtml">Student voter turnout lower than expected</a></li>
-									
-								
-									
-										<li><a class="issuesummaryheadline" href="http://www.dailytoreador.com/home/news/2006/12/06/News/Sga-Discusses.Residence.Hall.Demolitions.And.Appointment.Of.SenatorAtLarge-2523712.shtml">SGA discusses residence hall demolitions and appointment of senator-at-large</a></li>
-									
-								
-									
-										<li><a class="issuesummaryheadline" href="http://www.dailytoreador.com/home/news/2006/12/06/News/Business.Class.Goes.Beyond.Textbook.Instruction.Raises.Thousands.For.Charities-2523745.shtml">Business class goes beyond textbook instruction, raises thousands for charities</a></li>
-									
-								
-									
-										<li><a class="issuesummaryheadline" href="http://www.dailytoreador.com/home/news/2006/12/06/News/Hsc-Sga.Has.Last.Meeting.Of.Year-2523687.shtml">HSC SGA has last meeting of year</a></li>
-									
-								
-									
-								
-									
-								
-									
-								
-									
-								
-									
-								
-									
-								
-						</ul>
-					<!-- This will visually split the results into two groups.. a left and right. -->
-					
-					
-						<h3><a class="issuesummarysection" href="http://www.dailytoreador.com/home/news/2006/12/06/LaVida/">La Vida</a></h3>
-						<ul>
-								
-									
-								
-									
-								
-									
-								
-									
-								
-									
-								
-									
-								
-									
-										<li><a class="issuesummaryheadline" href="http://www.dailytoreador.com/home/news/2006/12/06/LaVida/Miracle.On.South.Plains.Street-2523727.shtml">Miracle on South Plains Street</a></li>
-									
-								
-									
-										<li><a class="issuesummaryheadline" href="http://www.dailytoreador.com/home/news/2006/12/06/LaVida/Tennis.Center.Collects.Toys.For.Children-2523618.shtml">Tennis center collects toys for children</a></li>
-									
-								
-									
-								
-									
-								
-									
-								
-									
-								
-						</ul>
-					<!-- This will visually split the results into two groups.. a left and right. -->
-					
-			</td>
-			<td width="50%" valign="top">
-					
-					
-						<h3><a class="issuesummarysection" href="http://www.dailytoreador.com/home/news/2006/12/06/Sports/">Sports</a></h3>
-						<ul>
-								
-									
-								
-									
-								
-									
-								
-									
-								
-									
-								
-									
-								
-									
-								
-									
-								
-									
-										<li><a class="issuesummaryheadline" href="http://www.dailytoreador.com/home/news/2006/12/06/Sports/Jackson.Returns.Home.For.Game-2523648.shtml">Jackson returns home for game</a></li>
-									
-								
-									
-										<li><a class="issuesummaryheadline" href="http://www.dailytoreador.com/home/news/2006/12/06/Sports/Lady-Raiders.Searching.For.Own.Reflection-2523695.shtml">Lady Raiders searching for own reflection</a></li>
-									
-								
-									
-								
-									
-								
-						</ul>
-					<!-- This will visually split the results into two groups.. a left and right. -->
-					
-					
-						<h3><a class="issuesummarysection" href="http://www.dailytoreador.com/home/news/2006/12/06/Opinions/">Opinions</a></h3>
-						<ul>
-								
-									
-								
-									
-								
-									
-								
-									
-								
-									
-								
-									
-								
-									
-								
-									
-								
-									
-								
-									
-								
-									
-										<li><a class="issuesummaryheadline" href="http://www.dailytoreador.com/home/news/2006/12/06/Opinions/Glidewell.How.To.Write.A.Column-2523603.shtml">Glidewell: How to write a column</a></li>
-									
-								
-									
-										<li><a class="issuesummaryheadline" href="http://www.dailytoreador.com/home/news/2006/12/06/Opinions/Wisnewski.A.Year.Of.Change-2523606.shtml">Wisnewski: A year of change</a></li>
-									
-								
-						</ul>
-					<!-- This will visually split the results into two groups.. a left and right. -->
-					
-					
-			</td>
-		</tr>
-	</tbody></table>
 </div><div id="object2971">
 	<div align="center" class="cpfooter">
 		<a href="http://www.mtvu.com/about/advertising/" target="_blank">National College Advertising and Marketing</a><br>
 		<a href="/user/privacypolicy/">Privacy Policy</a> &nbsp; &nbsp; <a href="/syndication">Article Syndication</a> &nbsp; &nbsp; <a href="/user/rssterms" target="_blank">RSS Terms of Use</a>
 	</div>
-</div><script language="JavaScript">
-  bigurl = basehref + "user/index.cfm?event=popupregistrationbox&thereferer=" + escape(document.location) + "&paperid=" + paper_id + "&paper=" + escape(paper_name) + "&domain=" + escape(paper_domain) + '&verifytab=1';
-  	// If this person has never registered or logged in, set the user's userid to -1 and their click count to 1.
-		// the cookie's domain should be the same whether this page is served live, or from MirrorImage
-		var cookieDomain = window.location.hostname;
-		cookieDomain = cookieDomain.replace(/^www\./,"");
-		cookieDomain = cookieDomain.replace(/^media.www\./,"");
-
-	  if (document.cookie.indexOf("HASREGISTEREDORLOGGEDIN") == -1) {
-		  req = /(news\/\d+\.html|event[=\/]displayArticle|news\/\d{4}\/\d{2}\/\d{2}\/.+\/.*\.shtml)/i;
-		  ex = /user/i;
-		  curclicks = GetCookie('CLICKS');
-		if (curclicks == null)
-			curclicks = 0;
-		if (req.test(document.URL) && !ex.test(document.URL))
-		  SetCookie('CLICKS',  1*curclicks+1, null, '/', cookieDomain);
-		if (curclicks >= 2 && req.test(document.URL) && !ex.test(document.URL)) {
-			//popup(bigurl, basehref + 'register',708,241);
-//			popup_new(bigurl, basehref + 'register',705,244);
-		
-    		document.location.href = basehref + 'user/index.cfm?event=displayregistrationprompt&requiredregistration=1&thereferer=' + escape(document.location);   
-		}
-	}	
-</script>
+</div>
 					</div>
 				</div>
 				<div id="flan_ads">
 					<div class="gutters">
-						<script language="Javascript" type="text/javascript">
-	           // Pass in a number and this will return a random number between 0 and the whole integer you pass.
-	           // This is useful for picking a random entry on an array.
-	           function randomIndexNew(topRange) {
-	               return Math.round(Math.random()*topRange);
-	           }
-	           aPools = new Array();
-	           aTagsInSharedSpace = [13,14,15,16];
-	           for (j=0;j<aTagsInSharedSpace.length;j++) {
-	               for (i=0;i<getAdsInTag(aTagsInSharedSpace[j]);i++) {
-	                   aPools[aPools.length] = aTagsInSharedSpace[j];
-	               }
-	           }
-	           adTagToCall = aPools[randomIndexNew(aPools.length-1)];
-	           switch(adTagToCall) {   
-	               case 13:
-	                   tagnum = adTagToCall;
-	                   tagdivid = 'box_300_250';
-	                   break;
-	               case 14:
-	                   tagnum = adTagToCall;
-	                   tagdivid = 'box_120_600';
-	                   break;
-	               case 15:
-	                   tagnum = adTagToCall;
-	                   tagdivid = 'box_160_600';
-	                   break;
-	               case 16:
-	                   tagnum = adTagToCall;
-	                   tagdivid = 'box_120_240';
-	                   break;
-	               default:
-	                   tagnum = '';
-	                   tagdivid = '';
-	                   break;
-	           }
-	           if (tagdivid != '') {
-	
-	               document.write('<div id="' + tagdivid + '" class="box">');
-	               document.write('    <div class="banner">');
-	               document.write('        <scr' + 'ipt language="Javasc' + 'ript">');
-	               document.write('            showNetworkBanner('+tagnum+');');
-	               document.write('        <\/sc' + 'ript>');
-	               document.write('    <\/div>');
-	
-			   			if (tagdivid != 'box_300_250') {
-							document.write('    <div>');
-		           			document.write('    <\/div>');
-			   			}
-					
-					document.write('<\/div>');
-					
-				}
-</script><div class="content">
-	<h4>Most Popular Articles</h4>
-	<div class="gutter">
-	   	<ol>
-			<script language="Javascript" type="text/javascript">
-				document.write('<scr'+'ipt src=http://media.collegepublisher.com/media/paper' + paper_id + '/template/popularstories.js?'+currentissuedate+'><\/scr'+'ipt>');
-			</script><script src="http://media.collegepublisher.com/media/paper870/template/popularstories.js?12/06/06"></script>
-		</ol>
-	</div>
-</div><div id="flan_poll" class="content">
+						<div id="box_300_250_13" class="cp_ad">
+		<h4 class="ad_slug">Advertisement</h4>
+		
+		
+		<script language="Javascript">
+			showNetworkBanner(13);
+		</script>
+		
+</div><script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/yui/build/utilities/utilities.js"></script>
+<script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/yui/build/container/container_core.js"></script>
+<script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/carousel.js"></script>
+ 
+<script language="Javascript" type="text/javascript">
+	//document.write('<scr'+'ipt src=http://media.collegepublisher.com/media/paper' + paper_id + '/template/betapopularstories.js><\/scr'+'ipt>');
+	document.write('<scr'+'ipt src=http://media.collegepublisher.com/media/paper' + paper_id + '/template/videoplayerbox.js><\/scr'+'ipt>');
+</script><script src="http://media.collegepublisher.com/media/paper870/template/videoplayerbox.js"></script><script language="Javascript" type="text/javascript">
+	document.write('<scr'+'ipt src=http://media.collegepublisher.com/media/paper' + paper_id + '/template/betapopularstories.js?'+currentissuedate+'><\/scr'+'ipt>');
+</script><script src="http://media.collegepublisher.com/media/paper870/template/betapopularstories.js?06/29/07"></script><div id="flan_poll" class="content">
 	<h4>Poll</h4>
 	<form name="voteform" action="/poll/index.cfm?event=castVote" method="post">
-		<div class="pollquestionstyle">Whose provides the best argument in the sports battle royal?</div>
+		<div class="pollquestionstyle">Do you agree with the City Council's decision to add red light cameras?</div>
 		<div id="poll_answers">
 			
 				<div>
-					<input type="radio" name="poll_answer_id" id="poll_answer_82725" value="82725">
-					<label for="poll_answer_82725">Travis Cram</label>
+					<input type="radio" name="poll_answer_id" id="poll_answer_93182" value="93182">
+					<label for="poll_answer_93182">Agree</label>
 				</div>
 			
 				<div class="poll_even">
-					<input type="radio" name="poll_answer_id" id="poll_answer_82726" value="82726">
-					<label for="poll_answer_82726">Jay Langley</label>
+					<input type="radio" name="poll_answer_id" id="poll_answer_93183" value="93183">
+					<label for="poll_answer_93183">Disagree</label>
+				</div>
+			
+				<div>
+					<input type="radio" name="poll_answer_id" id="poll_answer_93184" value="93184">
+					<label for="poll_answer_93184">Neutral</label>
 				</div>
 			
 		</div>
 		<a href="javascript:document.voteform.submit();" class="faux_button">Submit Vote</a>
 		<p id="view_results"><a href="/poll/index.cfm?event=displayPollResults">View Results</a></p>
 	</form>
-</div><div id="popularstories">
-	<h2>Popular Stories</h2>
-	
-		<a href="http://www.dailytoreador.com/home/news/2006/12/06/News/Leach.Situation.Remains.Unclear-2524235.shtml">Leach situation remains unclear</a><br>
-	
-		<a href="http://www.dailytoreador.com/home/news/2006/12/06/News/Hance.Meets.Lubbock.Leaders-2523670.shtml">Hance meets Lubbock leaders</a><br>
-	
-		<a href="http://www.dailytoreador.com/home/news/2006/12/06/Opinions/Glidewell.How.To.Write.A.Column-2523603.shtml">Glidewell: How to write a column</a><br>
-	
-		<a href="http://www.dailytoreador.com/home/news/2006/12/06/News/Sga-Discusses.Residence.Hall.Demolitions.And.Appointment.Of.SenatorAtLarge-2523712.shtml">SGA discusses residence hall demolitions and appointment of senator-at-large</a><br>
-	
-		<a href="http://www.dailytoreador.com/home/news/2006/12/06/LaVida/Miracle.On.South.Plains.Street-2523727.shtml">Miracle on South Plains Street</a><br>
-	
-</div><div id="banner_client_3" class="cp_banner_client">
+</div><!---  ---><div id="banner_client_3" class="cp_banner_client">
 	<script language="JAVASCRIPT">
 	if (clientBannersAvailable == 1) {
 		showClientBanner(3);
 	}
 	</script>
 	<noscript>
-	<cfoutput><a href="http://admanager2.broadbandpublisher.com/newspaperBanners/clientClickThrough.adp?iPosition=3&iPaper_id=870&javascriptIncludeMode=0&callingSite=www%2Edailytoreador%2Ecom" target="new"><img src="http://admanager2.broadbandpublisher.com/newspaperBanners/showAbanner.adp?vchSerialNumber=d7b7kos852&iSection_Id=&iStory_Id=&iPaper_Id=870&javascriptIncludeMode=0&iPosition=3" border="0"></a></cfoutput>
+	<cfoutput><a href="http://admanager2.broadbandpublisher.com/newspaperBanners/clientClickThrough.adp?iPosition=3&amp;iPaper_id=870&amp;javascriptIncludeMode=0&amp;callingSite=www%2Edailytoreador%2Ecom" target="new"><img src="http://admanager2.broadbandpublisher.com/newspaperBanners/showAbanner.adp?vchSerialNumber=d7b7kos852&amp;iSection_Id=&amp;iStory_Id=&amp;iPaper_Id=870&amp;javascriptIncludeMode=0&amp;iPosition=3" border="0"></a></cfoutput>
 	</noscript>
-</div><div id="advertisements">
-	<h4>Advertisements</h4>
-	<div class="whole_ads">
-	<div class="left">
-		<div id="banner_loc_3" class="ad">
+</div><div id="box_300_250_9" class="cp_ad">
+	<h4 class="ad_slug">Advertisement</h4>
 			
 			
 			<script language="Javascript">
 				showNetworkBanner(9);
 			</script>
-			<noscript>
-				<a href="http://admanager3.collegepublisher.com/runtime/noScriptClickThrough.cfm?iposition=9&ipaper_id=870&callingSite=www%2Edailytoreador%2Ecom" target="new">
-					<img src="http://admanager3.collegepublisher.com/runtime/noScriptAdImpDisplay.cfm?iposition=9&ipaper_id=870" border="0">
-				</a>
-			</noscript>
 			
-		</div>
-	</div>
-	<div class="right">
-		<div id="banner_loc_2">
-			
-			
-			<script language="Javascript">
-				showNetworkBanner(10);
-			</script>
-			<noscript>
-				<a href="http://admanager3.collegepublisher.com/runtime/noScriptClickThrough.cfm?iposition=10&ipaper_id=870&callingSite=www%2Edailytoreador%2Ecom" target="new">
-					<img src="http://admanager3.collegepublisher.com/runtime/noScriptAdImpDisplay.cfm?iposition=10&ipaper_id=870" border="0">
-				</a>
-			</noscript>
-			
-		</div>			
-	</div>
-	</div>
 </div><div class="content_300">
 	<script language="Javascript">
 		showNetworkBanner(12);
 	</script>
 	<noscript>
-		<a href="http://admanager3.collegepublisher.com/runtime/noScriptClickThrough.cfm?iposition=2&ipaper_id=870&callingSite=www.dailytoreador.com" target="new"> <img src="http://admanager3.collegepublisher.com/runtime/noScriptAdImpDisplay.cfm?iposition=2&ipaper_id=870" border="0"> </a>
+		<a href="http://admanager3.collegepublisher.com/runtime/noScriptClickThrough.cfm?iposition=2&amp;ipaper_id=870&amp;callingSite=www.dailytoreador.com" target="new"> <img src="http://admanager3.collegepublisher.com/runtime/noScriptAdImpDisplay.cfm?iposition=2&amp;ipaper_id=870" border="0"> </a>
 	</noscript>
 </div>
 					</div>
@@ -781,20 +579,7 @@ Fax: (617) 248-8747</p>
 					<div class="sections"><div id="nav_sections">
 	<h2>Sections</h2>
 	
-			<a href="/news/2006/12/06/News/" class="nav"><span class="sect_lev_0">News</span></a>
-			
-				
-			
-				
-			
-				
-			
-				
-			
-	
-			<a href="/news/2006/12/06/LaVida/" class="nav"><span class="sect_lev_0">La Vida</span></a>
-			
-				
+			<a href="/news/2007/06/29/News/" class="nav"><span class="sect_lev_0">News</span></a>
 			
 				
 			
@@ -803,9 +588,7 @@ Fax: (617) 248-8747</p>
 				
 			
 	
-			<a href="/news/2006/12/06/Sports/" class="nav"><span class="sect_lev_0">Sports</span></a>
-			
-				
+			<a href="/news/2007/06/29/LaVida/" class="nav"><span class="sect_lev_0">La Vida</span></a>
 			
 				
 			
@@ -814,9 +597,7 @@ Fax: (617) 248-8747</p>
 				
 			
 	
-			<a href="/news/2006/12/06/Opinions/" class="nav"><span class="sect_lev_0">Opinions</span></a>
-			
-				
+			<a href="/news/2007/06/29/Opinions/" class="nav"><span class="sect_lev_0">Opinions</span></a>
 			
 				
 			
@@ -827,9 +608,11 @@ Fax: (617) 248-8747</p>
 	
 </div><div class="sidebar">
 	<h4>Options</h4>
-	<ul>	
+	<ul>
 		<li><a href="/cartoons">Cartoons</a></li>
 		<li><a href="http://blogs.dailytoreador.com">Blogs</a></li>
+                <li><a href="http://www.dailytoreador.com/podcasts">Podcasts</a></li>
+                <li><a href="/potw">View of the Week</a></li>
                 <li><a href="/media/paper870/template/ad2ad/index.htm">Classifieds</a></li>
 		<li><a href="/login">Login</a></li>
 		<li><a href="/register">Register</a></li>
@@ -841,6 +624,7 @@ Fax: (617) 248-8747</p>
 		<li><a href="/publishingpolicy">Publishing Policy</a></li>
 		<li><a href="media/paper870/documents/toxjlvyq.pdf">Advertising</a></li>
 		<li><a href="/info">Student Media</a></li>
+                <li><a href="/staff">Staff List</a></li>
 	</ul>
 </div></div><div class="tt_stripes"><div class="tt_block">
 	<h4>Email Signup</h4>
@@ -854,6 +638,14 @@ Fax: (617) 248-8747</p>
 	<h4>Get It To Go</h4>
 <div class="gutter">
 	<a href="/user/register/" title="Click here for the PDA version." class="avant">Click here for the PDA version.</a>
+</div>
+</div><div class="tt_block">
+	<h4>Other news</h4>
+<div id="syndication_feeds">
+	<table border="0" width="100%" cellspacing="0" cellpadding="0">
+	
+	
+</table>
 </div>
 </div><div class="tt_block">
 	
@@ -879,13 +671,18 @@ Fax: (617) 248-8747</p>
 </div><div class="tt_stripes"><div class="tt_block"><h4>Sponsored Links</h4></div></div>
 
 <div class="sections">
-<a href="http://techterrace.com/" target="_blank">Tech Terrace</a><a href="http://www.lubbockrentz.com" target="_blank">LubbockRentz</a><a href="https://www.depts.ttu.edu/strengthsquest/Default.asp" target="_blank">Strengths Quest</a>
+<a href="http://www.surveymonkey.com/s.asp?u=808593546816" target="_blank">2007 DT Readers Choice Awards</a><a href="http://www.lubbockrentz.com" target="_blank">LubbockRentz</a><a href="https://www.depts.ttu.edu/strengthsquest/Default.asp" target="_blank">Strengths Quest</a><a href="http://techterrace.com/" target="_blank">Tech Terrace</a>
 </div>
 				</div>	
 			</div>
 		</div>
 		<div id="flan_footer">
-			
+			 © <script type="text/javascript" charset="utf-8"> 
+var copyrightdate = new Date(); 
+document.write(copyrightdate.getFullYear()); 
+</script>2020 
+<a href="/" title="Daily Toreador"><strong>Daily Toreador</strong> 
+</a>
 		</div>
 	
 
