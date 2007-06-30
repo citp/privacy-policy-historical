@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the healthfinder.gov privacy policy that was archived on 2006-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061013200653id_/http%3A//www.healthfinder.gov/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthfinder.gov privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630131419id_/http%3A//www.healthfinder.gov/aboutus/privacy.asp) for the most accurate reproduction.*
 
-# About healthfinder®: Privacy - healthfinder®
+# About healthfinder.gov: Privacy - healthfinder.gov
 
   
-healthfinder® is a free portal to reliable consumer health and human services information developed by the U.S. Department of Health and Human Services. When you visit our Web site, we do not collect any information about you unless you choose to provide that information to us (other than information automatically collected and stored in the Web server's logs—see below). As a portal Web site, healthfinder® links to other Web sites, and once a user leaves the healthfinder® site to visit a linked site, the privacy policy of that site applies. 
+healthfinder.gov is a free portal to reliable consumer health and human services information developed by the U.S. Department of Health and Human Services. When you visit our Web site, we do not collect any information about you unless you choose to provide that information to us (other than information automatically collected and stored in the Web server's logs—see below). As a portal Web site, healthfinder.gov links to other Web sites, and once a user leaves the healthfinder.gov site to visit a linked site, the privacy policy of that site applies. 
 
 ###   
 Personal Information
@@ -27,7 +27,7 @@ We use this information for statistical purposes and to help us make our site mo
 
 ### Disclosure
 
-The [U.S. Department of Health and Human Services](http://www.hhs.gov/), of which the healthfinder® Web site is a part, does not disclose, give, sell, or transfer any personal information about visitors, unless required for law enforcement or by statute.
+The [U.S. Department of Health and Human Services](http://www.hhs.gov/), of which the healthfinder.gov Web site is a part, does not disclose, give, sell, or transfer any personal information about visitors, unless required for law enforcement or by statute.
 
 ### Intrusion Detection
 
@@ -41,7 +41,7 @@ Information originally collected in traditional paper systems can be submitted e
 
 ### IHC Disclosure Statement
 
-healthfinder® also provides an [IHC disclosure statement](https://web.archive.org/web/20061013200653id_/http%3A//www.healthfinder.gov/aboutus/ihcdisclosure.asp) as recommended by the Science Panel on Interactive Communication and Health.
+healthfinder.gov also provides an [IHC disclosure statement](https://web.archive.org/web/20070630131419id_/http%3A//www.healthfinder.gov/aboutus/ihcdisclosure.asp) as recommended by the Science Panel on Interactive Communication and Health.
 
-You may also wish to review our [disclaimer](https://web.archive.org/web/20061013200653id_/http%3A//www.healthfinder.gov/aboutus/disclaimer.asp).   
+You may also wish to review our [disclaimer](https://web.archive.org/web/20070630131419id_/http%3A//www.healthfinder.gov/aboutus/disclaimer.asp).   
  
