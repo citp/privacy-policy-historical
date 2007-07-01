@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the catholicmatch.com privacy policy that was archived on 2007-04-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070429115651id_/http%3A//www.catholicmatch.com/info/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the catholicmatch.com privacy policy that was archived on 2007-07-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070701033450id_/http%3A//www.catholicmatch.com/info/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
     <title>Privacy Policy</title>
@@ -16,8 +16,10 @@
 
 
 
-<script type="text/javascript" src="/js/window.js"></script>
-<script type="text/javascript" src="/js/EventHandler.js"></script>
+<script type="text/javascript" src="/js/fm/window.js"></script>
+<script type="text/javascript" src="/js/fm/EventHandler.js"></script>
+<script type="text/javascript" src="/js/XHConn.js"></script>
+
 <script type="text/javascript">
 var pageIsUnloading = false;
 var evthandler = new EventHandler();
@@ -35,11 +37,15 @@ function init() {
 }
 
 function launchIM (id,sku) {
-    if (!sku) sku = "";
-    makeWin('/im.html?with_user_id=' + id+ ';_done=http%3A%2F%2Fwww.catholicmatch.com%2Finfo%2Fprivacy_policy.html;sku=' + sku, id,500,400,0,0,0,0,0,0,1);
+    var canChat = false;
+    if (canChat) {
+        makeWin('http://www.catholicmatch.com/im.html?with_user_id=' + id,id,500,400,0,0,0,0,0,0,1);
+    } else {
+        location.href = "http://www.catholicmatch.com/im.html?acx_method=do_show_redirect_to_subscribe;with_user_id=" + id + ";sku=" + sku;
+    }
 }
 
-function done () {
+function done() {
     location.href = "";
     return;
 }
@@ -48,14 +54,13 @@ function done () {
 
 
 
-<script type="text/javascript" src="/js/XHConn.js"></script>
 <script type="text/javascript">
 var myConn = new XHConn();
 function sendScreenProps() {
     if (myConn) {
         var screen_width = (screen.width) ? screen.width : 0;
         var screen_height = (screen.height) ? screen.height : 0;
-        myConn.connect("/", "POST", "screen_width=" + screen_width + "&screen_height=" + screen_height + "&acx_method=do_post_ajax_set_screen_props", receiveScreenProps);
+        myConn.connect("http://www.catholicmatch.com/", "POST", "screen_width=" + screen_width + "&screen_height=" + screen_height + "&acx_method=do_post_ajax_set_screen_props", receiveScreenProps);
     }
 }  
 function receiveScreenProps(oXML) {
@@ -234,7 +239,7 @@ ul.arrow-a-3 li { font-size:8pt; background-image: url(/images/buttons/li_sm_arr
  
 /** Define Colors & Images **/ 
 body { background:#EFEFEF url(/images/layout/bg_body.gif) repeat;  } 
-.page-wrapper { background:#FFFFFF url(/images/layout/lamb_bg_wrapper.jpg) no-repeat top right; } 
+.page-wrapper { background:#FFFFFF url(/images/layout/stainglass_dove.gif) no-repeat top right; } 
  
 .page-nav-property { background:#1C60A3 url(/images/layout/bg_menubar.gif) no-repeat; } 
 .page-nav-property { color:#FFFFFF; } 
@@ -304,8 +309,8 @@ a:hover, a:active { color:#CC3333; }
             <td class="page-header-ctr">
                 <div id="utility">
                 
-                    <a href="/signin.html?_done=http%3A%2F%2Fwww.catholicmatch.com%2Finfo%2Fprivacy_policy.html">Sign In</a> <a href="/help.html">Help</a><br>
-                    New User? <a href="/signup.html?_done=http%3A%2F%2Fwww.catholicmatch.com%2Finfo%2Fprivacy_policy.html">Sign Up</a>
+                    <a href="/signin.html?_done=http%3A%2F%2Fwww.catholicmatch.com%2Finfo%2Fprivacy_policy.html">Sign In</a> <a href="http://www.catholicmatch.com/help.html">Help</a><br>
+                    New User? <a href="http://www.catholicmatch.com/signup.html?_done=http%3A%2F%2Fwww.catholicmatch.com%2Finfo%2Fprivacy_policy.html">Sign Up</a>
                 
                 </div>
             </td>
@@ -319,23 +324,6 @@ a:hover, a:active { color:#CC3333; }
     <!-- /header -->
     
     
-    
-    <!-- newnav -->
-    <div id="newnav" style="position:absolute; height:25px; width:46px;margin:0; padding:0;">
-        <div id="navimg" style="position: relative; display: block; z-index: 99; left: 148px; top: -21px;">
-            <img src="/images/nav_new_graphic.gif" width="46" height="25" border="0">
-        </div>
-        <script type="text/javascript">
-            var navnew = document.getElementById('navimg');
-            navnew.style.left = (navnew.offsetLeft == 0) ? 148 + 'px' : 123 + 'px';
-            navnew.style.top = -21 + 'px';
-            navnew.style.display = 'block';
-        </script>
-    </div>
-    <!-- /newnav -->
-    
-    
-    
     <!-- property nav -->
     <div id="pagenav" class="page-nav-property layout-col2">
         
@@ -343,16 +331,16 @@ a:hover, a:active { color:#CC3333; }
         <table width="100%" cellpadding="0" cellspacing="0" border="0">
             <tbody><tr>
                 <td><a class="cur" href="http://www.4marks.com/">4m Home</a></td><td class="bdr">|</td>
-                <td><a href="/education.html">Education</a></td><td class="bdr">|</td>
-                <td><a href="/events.html">Events</a></td><td class="bdr">|</td>
-                <td><a href="/folio.html">Folio</a></td><td class="bdr">|</td>
-                <td><a href="/forums.html">Forums</a></td><td class="bdr">|</td>
-                <td><a href="/articles.html">Magazine</a></td><td class="bdr">|</td>
-                <td><a href="/photos.html">Photos</a></td><td class="bdr">|</td>
-                <td><a href="/polls.html">Polls</a></td><td class="bdr">|</td>
-                <td><a href="/singles.html">Singles</a></td><td class="bdr">|</td>
-                <td><a href="/temperaments.html">Temperaments</a></td><td class="bdr">|</td>
-                <td><a href="/trivia.html">Trivia</a></td>
+                <td><a href="http://www.catholicmatch.com/education.html">Education</a></td><td class="bdr">|</td>
+                <td><a href="http://www.catholicmatch.com/events.html">Events</a></td><td class="bdr">|</td>
+                <td><a href="http://www.catholicmatch.com/folio.html">Folio</a></td><td class="bdr">|</td>
+                <td><a href="http://www.catholicmatch.com/forums.html">Forums</a></td><td class="bdr">|</td>
+                <td><a href="http://www.catholicmatch.com/articles.html">Magazine</a></td><td class="bdr">|</td>
+                <td><a href="http://www.catholicmatch.com/photos.html">Photos</a></td><td class="bdr">|</td>
+                <td><a href="http://www.catholicmatch.com/polls.html">Polls</a></td><td class="bdr">|</td>
+                <td><a href="http://www.catholicmatch.com/singles.html">Singles</a></td><td class="bdr">|</td>
+                <td><a href="http://www.catholicmatch.com/temperaments.html">Temperaments</a></td><td class="bdr">|</td>
+                <td><a href="http://www.catholicmatch.com/trivia.html">Trivia</a></td>
             </tr>
         </tbody></table>
         
@@ -388,6 +376,7 @@ a:hover, a:active { color:#CC3333; }
         
         
 
+        
         <!-- content -->
         <b>4marks Privacy Policy</b> 
 <p>The 4marks Privacy Policy covers how 4marks treats personal information that is obtained from its users. Personal information is defined as that which personally identifies you. Examples included, but are not limited to, your name, address, e-mail address, phone number and other information not readily available to the general public. This policy applies strictly to 4marks and not to any other associated firm or person whom 4marks does not control. </p>
