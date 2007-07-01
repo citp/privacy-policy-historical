@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marketingtips.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612050757id_/http%3A//www.marketingtips.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingtips.com privacy policy that was archived on 2007-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070701042359id_/http%3A//secure.marketingtips.com/privacy.html) for the most accurate reproduction.*
 
-# Internet Marketing Center, Derek Gehl, Insiders Secrets to Marketing your Business the Internet, Privacy
+# Internet Marketing Center, Inc. -- Privacy Policy
 
 **Internet Marketing Center, Inc. (“IMC”) Online Privacy Policy _(Last updated_** ** _April 29, 2004_** ** _)_** ~~~~
 
@@ -192,7 +192,7 @@ After your account becomes inactive (that is, if you request to be removed from 
   
 ---|---  
   
-IMC will use reasonable efforts to keep customer personal information accurate for the Identified Purposes, and for minimizing the possibility of making inappropriate customer decisions based on such information.  Customers are responsible for informing IMC about changes to their personal information.  You can do this by calling 604-730-2833 or sending an email to [our privacy department](http://www.marketingtips.com/cgi-bin/webform-specific.cgi). IMC will use new or updated personal information it receives from customers to update its own records.  ****
+IMC will use reasonable efforts to keep customer personal information accurate for the Identified Purposes, and for minimizing the possibility of making inappropriate customer decisions based on such information.  Customers are responsible for informing IMC about changes to their personal information.  You can do this by calling 604-730-2833 or clicking [here](http://www.marketingtips.com/cgi-bin/webform-specific.cgi). IMC will use new or updated personal information it receives from customers to update its own records.  ****
 
 IMC will use reasonable efforts to protect customers’ personal information. ****
 
@@ -211,7 +211,7 @@ The Internet Marketing Center
 Vancouver, BC, Canada  
 V6E 2P4
 
-... or upon request to the [Privacy Officer](http://www.marketingtips.com/cgi-bin/webform-specific.cgi). 
+... or upon request to the Privacy Officer at our [Privacy Department](http://www.marketingtips.com/cgi-bin/webform-specific.cgi). 
 
 If IMC is not able to provide access to some aspect of a customer’s personal information, it will provide reasons for denying access such as; that by doing so would likely reveal personal information about a third party, or that it is confidential commercial information or attorney–client privileged communications, or that the information relates to a breach of an agreement or a contravention of law, or that its disclosure could reasonably be expected to threaten the life or security of another individual.
 
