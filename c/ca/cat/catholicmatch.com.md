@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catholicmatch.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429115651id_/http%3A//www.catholicmatch.com/info/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catholicmatch.com privacy policy that was archived on 2007-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070701033450id_/http%3A//www.catholicmatch.com/info/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
