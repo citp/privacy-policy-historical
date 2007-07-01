@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justsystems.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626054057id_/http%3A//www.justsystems.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justsystems.com privacy policy that was archived on 2007-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070701212448id_/http%3A//www.justsystems.com/privacy_statement.html) for the most accurate reproduction.*
 
 # JustSystems | Privacy Statement
 
