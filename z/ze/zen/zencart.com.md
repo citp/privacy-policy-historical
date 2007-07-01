@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zencart.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610052539id_/http%3A//www.zen-cart.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zencart.com privacy policy that was archived on 2007-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070701022540id_/http%3A//www.zen-cart.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Notice, Zen Cart - free shopping cart
 
