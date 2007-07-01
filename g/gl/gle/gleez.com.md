@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gleez.com privacy policy that was archived on 2007-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070208154639id_/http%3A//gleez.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gleez.com privacy policy that was archived on 2007-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070701220053id_/http%3A//www.gleez.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Gleez
 
@@ -123,11 +123,11 @@ This site contains links to other sites. Gleez does not control the information 
 
 ### How to Access, Modify or Update Your Information
 
-Gleez gives you the ability to access, modify or update your information at any time. You may [log in]() and make changes to your login information (change your password), your contact information, your general preferences and your personalization settings. If necessary, you may also [contact us](https://web.archive.org/web/20070208154639id_/http%3A//gleez.com/legal/contact) and describe the changes you want made to the information you have previously provided.
+Gleez gives you the ability to access, modify or update your information at any time. You may [log in]() and make changes to your login information (change your password), your contact information, your general preferences and your personalization settings. If necessary, you may also [contact us](https://web.archive.org/web/20070701220053id_/http%3A//www.gleez.com/legal/contact) and describe the changes you want made to the information you have previously provided.
 
 ### How to Contact Us
 
-If you have any questions about any of these practices or Gleez's use of your personal information, please feel free to contact us [by web](https://web.archive.org/web/20070208154639id_/http%3A//gleez.com/legal/contact), or by E-mail at:
+If you have any questions about any of these practices or Gleez's use of your personal information, please feel free to contact us [by web](https://web.archive.org/web/20070701220053id_/http%3A//www.gleez.com/legal/contact), or by E-mail at:
 
 privacy@gleez.com
 
