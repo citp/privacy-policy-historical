@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the simpletuition.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628181539id_/http%3A//www.simpletuition.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpletuition.com privacy policy that was archived on 2007-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070701064413id_/http%3A//www.simpletuition.com/privacy) for the most accurate reproduction.*
 
-# Kiplinger Student Loan Comparison powered by SimpleTuition
+# SimpleTuition Privacy Policy
 
 [](http://www.truste.org/ivalidate.php?url=www.simpletuition.com&sealid=101)
 
@@ -143,7 +143,7 @@ Our Site is not geared towards children. Our Site will not knowingly accept Pers
 
 ## 11\. Other Terms and Conditions:
 
-Your access to and use of this Site is subject to the [Terms of Use](https://web.archive.org/web/20070628181539id_/http%3A//www.simpletuition.com/terms).
+Your access to and use of this Site is subject to the [Terms of Use](https://web.archive.org/web/20070701064413id_/http%3A//www.simpletuition.com/terms).
 
  Back to top
 
