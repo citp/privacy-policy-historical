@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the space.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623173715id_/http%3A//www.imaginova.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the space.com privacy policy that was archived on 2007-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070701225449id_/http%3A//www.imaginova.com/privacy) for the most accurate reproduction.*
 
 # Imaginova: About Us: History
 
