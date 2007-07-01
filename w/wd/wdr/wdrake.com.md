@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the wdrake.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630061123id_/http%3A//www.wdrake.com/WalterDrake/CustomerService/Shop.aspx%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wdrake.com privacy policy that was archived on 2007-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070701215802id_/http%3A//www.wdrake.com/WalterDrake/CustomerService/Shop.aspx%23privacy) for the most accurate reproduction.*
 
 # Walter Drake
 
 |  |  |  [](http://www.wdrake.com/WalterDrake/Browsing/Category.aspx?CID=New) |  [](http://www.wdrake.com/WalterDrake/Browsing/Category.aspx?CID=Customer+Favorites) |  [](http://www.wdrake.com/WalterDrake/Browsing/Category.aspx?CID=As+Seen+On+TV) |  [](http://www.wdrake.com/WalterDrake/Browsing/Category.aspx?CID=Sale) |  [](http://www.wdrake.com/WalterDrake/Browsing/Category.aspx?CID=Clearance)  
 ---|---|---|---|---  
   
-| [Home](https://web.archive.org/web/20070630061123id_/http%3A//www.wdrake.com/WalterDrake/Default.aspx) :: [Customer Service](https://web.archive.org/web/20070630061123id_/http%3A//www.wdrake.com/WalterDrake/CustomerService/Default.aspx) :: [Shop With Confidence](https://web.archive.org/web/20070630061123id_/http%3A//www.wdrake.com/WalterDrake/CustomerService/Shop.aspx)  
+| [Home](https://web.archive.org/web/20070701215802id_/http%3A//www.wdrake.com/WalterDrake/Default.aspx) :: [Customer Service](https://web.archive.org/web/20070701215802id_/http%3A//www.wdrake.com/WalterDrake/CustomerService/Default.aspx) :: [Shop With Confidence](https://web.archive.org/web/20070701215802id_/http%3A//www.wdrake.com/WalterDrake/CustomerService/Shop.aspx)  
 ---  
    
 Shop With Confidence |  **Call us at** 1-800-525-9291  
@@ -39,7 +39,7 @@ Please include the following information with all returned items:
 
 If you have any questions on how to return an item that you are not completely satisfied with, just click here to view our 
 
-[_Returns & Exchanges_](https://web.archive.org/web/20070630061123id_/http%3A//www.wdrake.com/WalterDrake/CustomerService/Ordering.aspx#returns) information.   
+[_Returns & Exchanges_](https://web.archive.org/web/20070701215802id_/http%3A//www.wdrake.com/WalterDrake/CustomerService/Ordering.aspx#returns) information.   
 _Back to top of page_  
    
 **_Privacy and Security Policy_**  
