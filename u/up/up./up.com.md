@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the up.com privacy policy that was archived on 2007-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070325225153id_/http%3A//www.up.com/uprr/aboutup/info/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the up.com privacy policy that was archived on 2007-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070701115627id_/http%3A//www.up.com/uprr/aboutup/info/privacy.shtml) for the most accurate reproduction.*
 
 # UP: Web Site Privacy Policy
 
@@ -24,13 +24,13 @@ Social Security Numbers and/or Credit Card Numbers submitted to us as part of an
 
 Registered User Access
 
-Customers who have registered to access secured information and applications agree to abide by the confidentiality guidelines and policies of UP's [Web Site Security Policy](https://web.archive.org/web/20070327230425id_/http://www.uprr.com/aboutup/info/security.shtml). 
+Customers who have registered to access secured information and applications agree to abide by the confidentiality guidelines and policies of UP's [Web Site Security Policy](https://web.archive.org/web/20070810152403id_/http://www.uprr.com/aboutup/info/security.shtml). 
 
 ^Top
 
 Links to Other Sites
 
-UP provides links to its parent company, the Union Pacific Corporation, as well as its [subsidiaries](https://web.archive.org/web/20070327230425id_/http://www.uprr.com/aboutup/info/up-sites.shtml). We also link to a number of third-party external sites. The inclusion of any link does not imply UP endorsement of the external site company, its Web site, or the products and services it promotes or sells. When you leave the UP site to visit one of these linked sites, the only information transferred to the third party is the fact that you came from UPRR.com (the "refer address").
+UP provides links to its parent company, the Union Pacific Corporation, as well as its [subsidiaries](https://web.archive.org/web/20070810152403id_/http://www.uprr.com/aboutup/info/up-sites.shtml). We also link to a number of third-party external sites. The inclusion of any link does not imply UP endorsement of the external site company, its Web site, or the products and services it promotes or sells. When you leave the UP site to visit one of these linked sites, the only information transferred to the third party is the fact that you came from UPRR.com (the "refer address").
 
 UP is not responsible or liable for the independent privacy policies of these third party sites. You should consult the privacy policies at these sites to determine how your information may be used.
 
@@ -48,7 +48,7 @@ Most browsers accept cookies automatically, but they can be configured to not ac
 
 Data Security 
 
-UP is committed to online data security, and for that reason we take steps to make all information received from you online as secure as reasonably possible from unauthorized access and use.
+UP is committed to online data security, and for that reason we take steps to make all information received from you online as secure as reasonably possible from unauthorized access and use. **Union Pacific policy prohibits the sharing of User IDs or passwords.**
 
 ^Top
 
