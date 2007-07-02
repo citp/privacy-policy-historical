@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kink.com privacy policy that was archived on 2007-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070518223918id_/http%3A//kink.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kink.com privacy policy that was archived on 2007-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070702050503id_/http%3A//www.kink.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Kink.com - Privacy Policy
 
@@ -53,7 +53,7 @@ Last Updated: May 10, 2005
 
   * Please remember that any information you may disclose in our Member Directory, or other public areas of our Web sites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas.
   * The Site may contain links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware that when they leave our Site they should read the privacy statements of each and every site that collects personally identifiable information.
-  * If you choose to subscribe to one of CyberNet's websites as a "member," your name, email address, mailing address, credit card information, and IP address are stored by one of our billing companies. You may read the privacy policies on their websites at www.paycom.net and www.jettis.com. These sites are external entities, and once this information is transmitted to them we are under no obligation to police their use of the information, and take no steps to do so. All of the aforementioned information, with the exception of your credit card information, is also stored on our servers.
+  * If you choose to subscribe to one of CyberNet's websites as a "member," your name, email address, mailing address, credit card information, and IP address are stored by one of our billing companies. You may read the privacy policies on their websites at www.epoch.com and www.jettis.com. These sites are external entities, and once this information is transmitted to them we are under no obligation to police their use of the information, and take no steps to do so. All of the aforementioned information, with the exception of your credit card information, is also stored on our servers.
 
 
 
