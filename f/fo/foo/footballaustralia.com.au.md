@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footballaustralia.com.au privacy policy that was archived on 2007-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070204131903id_/http%3A//www.footballaustralia.com.au/default.aspx%3Fs%3Dinsideffa_newsfeatures_newsitem%26id%3D9989) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballaustralia.com.au privacy policy that was archived on 2007-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070702083553id_/http%3A//www.footballaustralia.com.au/default.aspx%3Fs%3Dinsideffa_newsfeatures_newsitem%26id%3D9989) for the most accurate reproduction.*
 
 # Item
 
