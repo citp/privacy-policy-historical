@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the southuniversity.edu privacy policy that was archived on 2007-04-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070428071105id_/http%3A//www.southuniversity.edu/campus/Legal/privacyPolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the southuniversity.edu privacy policy that was archived on 2007-07-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070702180953id_/http%3A//www.southuniversity.edu/campus/Legal/privacyPolicy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
+
 	<title>South University: Privacy Policy</title>	
 	<base href="http://www.southuniversity.edu/campus/">
 	<link type="text/css" rel="stylesheet" href="css/suo_styles_campus.css" media="screen">
@@ -435,7 +436,22 @@ s.prop4=""
 s.prop5=""
 s.prop6=""
 s.campaign=""
-s.events=""
+var eLeadsSubmit = true;
+if(s.getQueryParam('eleadsid') != '' && s.getQueryParam('eleadsid') != null)
+{
+	if(getCookie("eleadsid") != null)
+	{
+		if(s.getQueryParam('eleadsid') == getCookie("eleadsid"))
+		{
+			eLeadsSubmit = false;
+		}
+	}
+	createCookie('eleadsid', s.getQueryParam('eleadsid'), 1);	
+}
+if(eLeadsSubmit == true)
+{
+	s.events="" 
+}
 s.products=""
 s.eVar2="" 
 s.heir1=""
@@ -577,24 +593,24 @@ var s_code=s.t();if(s_code)document.write(s_code)
 			<div id="navbar_top"></div>
 			<div id="navbar_inner">
 			
-<b><font color="#614c28">Campus Locations</font></b><br><br>
-<ul id="schools">
-<li><a href="Columbia?siteID=1">Columbia</a></li><li><a href="Montgomery?siteID=3">Montgomery</a></li><li><a href="Savannah?siteID=4">Savannah</a></li><li><a href="Tampa?siteID=5">Tampa</a></li><li><a href="WestPalmBeach?siteID=2">West Palm Beach</a></li><li><a href="http://online.southuniversity.edu/" target="_blank" class="sideNav">Online Programs</a></li>
-</ul>
-<br>
-<b><font color="#614c28">Schools</font></b><br><br>
-<ul id="schools">
-<li><a href="Schools/Index.asp?schoolid=2">School of Business</a></li><li><a href="Schools/Index.asp?schoolid=3">School of Health Professions</a></li>
-	<li><a href="Pharmacy"><b>School of Pharmacy</b></a></li>
-
-</ul>
-<b><br><font color="#614c28">								
-	<a href="Programs">Programs</a> 
-	</font><br><br>
-</b>
-<ul id="schools">								
-<li><a href="Programs/index.asp?progid=17">Anesthesiologist Assistant</a></li><li><a href="Programs/index.asp?progid=1">Business Administration</a></li><li><a href="Programs/index.asp?progid=19">Criminal Justice</a></li><li><a href="Programs/index.asp?progid=20">Graphic Design</a></li><li><a href="Programs/index.asp?progid=21">Health Science</a></li><li><a href="Programs/index.asp?progid=23">Healthcare Administration</a></li><li><a href="Programs/index.asp?progid=14">Healthcare Management</a></li><li><a href="Programs/index.asp?progid=2">Information Technology</a></li><li><a href="Programs/index.asp?progid=3">Legal Studies</a></li><li><a href="Programs/index.asp?progid=24">Master of Business Administration</a></li><li><a href="Programs/index.asp?progid=7">Medical Assisting</a></li><li><a href="Programs/index.asp?progid=4">Nursing</a></li><li><a href="Programs/index.asp?progid=25">Nursing RN to BSN</a></li><li><a href="Programs/index.asp?progid=6">Paralegal Studies</a></li><li><a href="Programs/index.asp?progid=11">Pharmacy</a></li><li><a href="Programs/index.asp?progid=8">Physical Therapist Assisting</a></li><li><a href="Programs/index.asp?progid=13">Physician Assistant</a></li><li><a href="Programs/index.asp?progid=22">Post-Baccalaureate Certificate in Paralegal Studies</a></li><li><a href="Programs/index.asp?progid=18">Professional Counseling</a></li>										
-</ul>
+								<b><font color="#614c28">Campus Locations</font></b><br><br>
+								<ul id="schools">
+								<li><a href="Columbia?siteID=1">Columbia</a></li><li><a href="Montgomery?siteID=3">Montgomery</a></li><li><a href="Savannah?siteID=4">Savannah</a></li><li><a href="Tampa?siteID=5">Tampa</a></li><li><a href="WestPalmBeach?siteID=2">West Palm Beach</a></li><li><a href="http://online.southuniversity.edu/" target="_blank" class="sideNav">Online Programs</a></li>
+								</ul>
+								<br>
+								<b><font color="#614c28">Schools</font></b><br><br>
+								<ul id="schools">
+								<li><a href="Schools/Index.asp?schoolid=2">School of Business</a></li><li><a href="Schools/Index.asp?schoolid=3">School of Health Professions</a></li>
+									<li><a href="Pharmacy"><b>School of Pharmacy</b></a></li>
+								
+								</ul>
+								<b><br><font color="#614c28">								
+									<a href="Programs">Programs</a> 
+									</font><br><br>
+								</b>
+								<ul id="schools">								
+								<li><a href="Programs/index.asp?progid=17&amp;siteID=">Anesthesiologist Assistant</a></li><li><a href="Programs/index.asp?progid=1&amp;siteID=">Business Administration</a></li><li><a href="Programs/index.asp?progid=19&amp;siteID=">Criminal Justice</a></li><li><a href="Programs/index.asp?progid=20&amp;siteID=">Graphic Design</a></li><li><a href="Programs/index.asp?progid=21&amp;siteID=">Health Science</a></li><li><a href="Programs/index.asp?progid=23&amp;siteID=">Healthcare Administration</a></li><li><a href="Programs/index.asp?progid=14&amp;siteID=">Healthcare Management</a></li><li><a href="Programs/index.asp?progid=2&amp;siteID=">Information Technology</a></li><li><a href="Programs/index.asp?progid=3&amp;siteID=">Legal Studies</a></li><li><a href="Programs/index.asp?progid=24&amp;siteID=">Master of Business Administration</a></li><li><a href="Programs/index.asp?progid=7&amp;siteID=">Medical Assisting</a></li><li><a href="Programs/index.asp?progid=4&amp;siteID=">Nursing</a></li><li><a href="Programs/index.asp?progid=25&amp;siteID=">Nursing RN to BSN</a></li><li><a href="Programs/index.asp?progid=6&amp;siteID=">Paralegal Studies</a></li><li><a href="Programs/index.asp?progid=11&amp;siteID=">Pharmacy</a></li><li><a href="Programs/index.asp?progid=8&amp;siteID=">Physical Therapist Assisting</a></li><li><a href="Programs/index.asp?progid=13&amp;siteID=">Physician Assistant</a></li><li><a href="Programs/index.asp?progid=18&amp;siteID=">Professional Counseling</a></li>										
+								</ul>
 
 			</div>
 			<div id="navbar_bottom"></div>
