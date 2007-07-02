@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the interracialpeoplemeet.com privacy policy that was archived on 2007-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070212153437id_/http%3A//www.interracialpeoplemeet.com/privacy/%3Fa%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interracialpeoplemeet.com privacy policy that was archived on 2007-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070702202706id_/http%3A//www.interracialpeoplemeet.com/privacy/%3Fa%3D) for the most accurate reproduction.*
 
-# INTERRACIALPeopleMeet.com - The Interracial People Network - 02/12/2007
+# INTERRACIALPeopleMeet.com - The Interracial People Network - 07/02/2007
 
 |  |  |   
 ---  
