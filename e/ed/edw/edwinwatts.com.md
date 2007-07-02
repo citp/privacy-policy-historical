@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edwinwatts.com privacy policy that was archived on 2007-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070324044625id_/http%3A//www.edwinwattsgolf.com/webapp/wcs/stores/servlet/PrivacyView%3FlangId%3D-1%26storeId%3D10001%26catalogId%3D10001) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edwinwatts.com privacy policy that was archived on 2007-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070702164644id_/http%3A//www.edwinwattsgolf.com/webapp/wcs/stores/servlet/PrivacyView%3FlangId%3D-1%26storeId%3D10001%26catalogId%3D10001) for the most accurate reproduction.*
 
 # Privacy Policy
 
