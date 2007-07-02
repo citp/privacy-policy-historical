@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the canucks.com privacy policy that was archived on 2007-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070412101234id_/http%3A//www.canucks.com/subpage.asp%3FsectionID%3D181) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canucks.com privacy policy that was archived on 2007-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070702022118id_/http%3A//canucks.com/subpage.asp%3FsectionID%3D181) for the most accurate reproduction.*
 
 # The Vancouver Canucks
 
 **Canucks.com Privacy Policy**  
 
 
-Please read this Privacy Policy very carefully before using this site. By accessing and using this site, you signify your consent to these terms, as well as our ["Terms of Use"](https://web.archive.org/subpage.asp?sectionID=181). If you do not agree to these terms, please do not use this site. Please check this Privacy Policy periodically for changes. Your continued use of the site following the posting of changes to these terms will mean you accept those changes.
+Please read this Privacy Policy very carefully before using this site. By accessing and using this site, you signify your consent to these terms, as well as our ["Terms of Use"](https://web.archive.org/subpage.asp?sectionID=414). If you do not agree to these terms, please do not use this site. Please check this Privacy Policy periodically for changes. Your continued use of the site following the posting of changes to these terms will mean you accept those changes.
 
 Your privacy is important to us. At _canucks.com_ we are committed to undertaking reasonable measures to protect the privacy, accuracy and reliability of your personal information and to protect such information from loss, misuse, unauthorized access, disclosure, alteration and destruction. Please read the following description of our policies and practices regarding your personal information.
 
