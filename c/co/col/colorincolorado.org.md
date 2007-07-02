@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the colorincolorado.org privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219113846id_/http%3A//pbsmail.org/colorincolorado/privacy.tcl%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colorincolorado.org privacy policy that was archived on 2007-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070702043520id_/http%3A//www.colorincolorado.org/privacy) for the most accurate reproduction.*
 
-# ¡Colorín Colorado! View Privacy
+# Colorín Colorado :: Privacy Policy
+
+Teachers who work with English as a Second Language learners will find ESL/ESOL/ELL/EFL reading/writing skill-building children's books, stories, activities, ideas, strategies to help PreK-3, 4-8, and 9-12 students learn to read.
 
 Protecting the privacy of our web site visitors is very important to us. Because we gather certain types of information about our users, we want to make sure you understand the ways in which we may and may not use the information you transmit to us when you visit Colorín Colorado. This statement discloses the privacy practices for all WETA web sites.
 
@@ -14,15 +16,15 @@ The more you tell us about yourself, the more value we can offer you. Supplying 
 
 The areas of the site in which we collect information, the information collected, and the purpose for collecting that information are described below:
 
-Subscription to electronic newsletters, online events, and online courses
+### Subscription to electronic newsletters, online events, and online courses
 
 Colorín Colorado offers free electronic newsletters to users. The newsletters include highlights of Colorín Colorado web site content and other news of interest. Colorín Colorado also offers occasional online discussion events and online courses. To sign up, you must provide your e-mail address, first and last name, and you must choose a password. Other information is optional. To remove yourself from any of the mailing lists, you can sign in using your e-mail address and password and unsubscribe.
 
-Submitting a "Bright Idea that Works," nominating a "Story from the Heart," or posing a question in "Got Questions?"
+### Submitting a "Bright Idea that Works," nominating a "Story from the Heart," or posing a question in "Got Questions?"
 
 To submit any of the above to Colorín Colorado, you must enter a name and e-mail address, and of course, fill out the appropriate form for the section you are submitting to. This information is used to respond to your question, in aggregate form for statistical purposes, and may be generalized without personally identifiable information so other visitors may benefit from the information submitted.
 
-Sending feedback to Colorín Colorado through the "Contact Us" page
+### Sending feedback to Colorín Colorado through the "Contact Us" page
 
 To send e-mail to Colorín Colorado through the "Contact Us" page, you must enter a name and e-mail address. This information is used to respond to your comments, in aggregate form for statistical purposes, and for promotional purposes without personally identifiable information.
 
@@ -59,3 +61,12 @@ To make our site more valuable to our visitors, we offer some features in conjun
 ## Acceptance of the Colorín Colorado privacy policy
 
 By using this site, you signify your agreement to the terms and conditions of this Colorín Colorado Privacy Policy. If you do not agree to these terms and conditions, please do not use this site. We reserve the right, at our sole discretion, to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for any changes. Your continued use of Colorín Colorado following the posting of any changes to these terms shall mean that you have accepted those changes. If you have any questions or concerns, please contact us.
+
+Finally, something that is not only user friendly, but free as well. THANK YOU for a quality product!   
+~ Fran S.
+
+[](http://www.colorincolorado.org/guides/readingtips)
+
+[](http://www.colorincolorado.org/about/by#aft)
+
+[](http://www.colorincolorado.org/newsletters/tellegram)
