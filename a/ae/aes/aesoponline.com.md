@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the aesoponline.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628131340id_/http%3A//www.aesoponline.com/Frontline/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aesoponline.com privacy policy that was archived on 2007-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070703220955id_/http%3A//aesoponline.com/Frontline/privacypolicy.asp) for the most accurate reproduction.*
 
 # Frontline Placement Technologies - Automated Replacement Technology
 
   
-[](https://web.archive.org/web/20070628131340id_/http%3A//www.aesoponline.com/Frontline/press/Patent_151_Press_Release.pdf) | 
+[](https://web.archive.org/web/20070703220955id_/http%3A//aesoponline.com/Frontline/press/Patent_151_Press_Release.pdf) | 
 
 Privacy Policy 
 
