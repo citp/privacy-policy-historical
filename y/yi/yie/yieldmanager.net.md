@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yieldmanager.net privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501100829id_/http%3A//www.yieldmanager.net/content/company/privacy-policy/6%2C604) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yieldmanager.net privacy policy that was archived on 2007-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070703080850id_/http%3A//www.yieldmanager.net/content/company/privacy-policy/6%2C604) for the most accurate reproduction.*
 
 # Right Media: Privacy Policy for Right Media's Corporate Site
 
