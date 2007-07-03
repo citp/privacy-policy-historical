@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the engadget.com privacy policy that was archived on 2006-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060625232240id_/http%3A//www.weblogsinc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engadget.com privacy policy that was archived on 2007-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070703083543id_/http%3A//www.weblogsinc.com/privacy) for the most accurate reproduction.*
 
 # Weblogs, Inc.
 
