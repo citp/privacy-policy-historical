@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the specificmedia.com privacy policy that was archived on 2007-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070520131732id_/http%3A//www.specificmedia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the specificmedia.com privacy policy that was archived on 2007-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070703203915id_/http%3A//www.specificmedia.com/privacy.php) for the most accurate reproduction.*
 
 # Specific Media, Inc. - Contact Us
 
