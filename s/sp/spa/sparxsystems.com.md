@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparxsystems.com privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202141823id_/http%3A//www.sparxsystems.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparxsystems.com privacy policy that was archived on 2007-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070703114312id_/http%3A//sparxsystems.com/privacy.html) for the most accurate reproduction.*
 
 # Sparx Systems - Privacy Statement
 
