@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turbine.com privacy policy that was archived on 2007-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070425203128id_/http%3A//www.turbine.com/index.php%3Fpage_id%3D59) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turbine.com privacy policy that was archived on 2007-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070703030048id_/http%3A//www.turbine.com/index.php%3Fpage_id%3D59) for the most accurate reproduction.*
 
 # Turbine > Privacy Policy
 
@@ -94,9 +94,9 @@ In addition to this Privacy Policy, your rights and obligations concerning the T
 
 **_Language_**
 
-The parties hereto have requested that this Privacy Policy, and all correspondence and all documentation relating to this policy, be written in the English language.  If you prefer, a French version of this Privacy Policy is located here [**index.php?page_id=77**](https://web.archive.org/web/20070425203128id_/http%3A//www.turbine.com/index.php?page_id=77). 
+The parties hereto have requested that this Privacy Policy, and all correspondence and all documentation relating to this policy, be written in the English language.  If you prefer, a French version of this Privacy Policy is located here [**index.php?page_id=77**](https://web.archive.org/web/20070703030048id_/http%3A//www.turbine.com/index.php?page_id=77). 
 
-Les parties aux présentes ont exigé que la présente politique de confidentialité, de même que toute la correspondance et la documentation relative à cette politique, soient rédigées en langue anglaise. Si vous le préférez, une version de cette politique de confidentialité en langue française est disponible à [**index.php?page_id=77**](https://web.archive.org/web/20070425203128id_/http%3A//www.turbine.com/index.php?page_id=77).
+Les parties aux présentes ont exigé que la présente politique de confidentialité, de même que toute la correspondance et la documentation relative à cette politique, soient rédigées en langue anglaise. Si vous le préférez, une version de cette politique de confidentialité en langue française est disponible à [**index.php?page_id=77**](https://web.archive.org/web/20070703030048id_/http%3A//www.turbine.com/index.php?page_id=77).
 
 By consenting to this Privacy Policy, you confirm that your command and knowledge of English (or in some cases, French) is sufficient to understand the terms and conditions set forth herein.
 
