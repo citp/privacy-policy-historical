@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the remodelingmyspace.com privacy policy that was archived on 2007-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070218235652id_/http%3A//www.remodelingmyspace.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remodelingmyspace.com privacy policy that was archived on 2007-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070703085926id_/http%3A//www.remodelingmyspace.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy | RemodelingMySpace.com
+# Privacy @ RemodelingMySpace.com
 
 At RemodelingMySpace.com, your privacy is of the utmost importance. We are dedicated not only to providing for you, our customer, the best possible shopping experience, but also to ensuring your complete privacy. Information we collect from you is used to process your orders with us and provide for you the best possible shopping experience.
 
