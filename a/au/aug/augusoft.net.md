@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the augusoft.net privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630034259id_/http%3A//www.augusoft.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the augusoft.net privacy policy that was archived on 2007-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070703092236id_/http%3A//www.augusoft.net/privacy.html) for the most accurate reproduction.*
 
 # Augusoft : Privacy Statement
 
 Privacy Statement 
 
-[Free Webcast Demos](http://u.augusoft.net/index.cfm?fuseaction=1011&CategoryID=6&SubCategoryID=14) [Augusoft U](http://u.augusoft.net/) [Meet Us](https://web.archive.org/web/20070630034259id_/http%3A//www.augusoft.net/news_events/conferences_tours.html) [Augusoft Forum](http://forum.augusoft.net/) | 
+[Free Webcast Demos](http://u.augusoft.net/index.cfm?fuseaction=1011&CategoryID=6&SubCategoryID=14) [Augusoft U](http://u.augusoft.net/) [Meet Us](https://web.archive.org/web/20070703092236id_/http%3A//www.augusoft.net/news_events/conferences_tours.html) [Augusoft Forum](http://forum.augusoft.net/) | 
 
 Privacy Statement 
 
@@ -35,16 +35,16 @@ By sending us your contact information, you agree to be contacted by Augusoft re
 
 Customers can opt out of being contacted by us, or receiving product, service or general lifelong learning information from us at any time by sending an email to [unsubscribe@augusoft.net](mailto:unsubscribe@augusoft.net). 
 
-Further [legal information](https://web.archive.org/web/20070630034259id_/http%3A//www.augusoft.net/about/legal_information.html) is available on this site.
+Further [legal information](https://web.archive.org/web/20070703092236id_/http%3A//www.augusoft.net/about/legal_information.html) is available on this site.
 
 | 
 
 Success Stories
 
-**The Natural History Museum of Los Angeles County**  
- **Lorelei Sells**  
+**ed2go**  
+ **Jerry Weissberg**  
   
-People can call or mail their registration to us, but what they really like is to go online, see if there is space, then register themselves.  
-Read More >  
+Augusoft Lumens is the leading Lifelong Learning Management System with a truly integrated offering of online courses and program management.  
+  
   
 ---|---|---
