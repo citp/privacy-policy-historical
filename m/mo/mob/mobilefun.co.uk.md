@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilefun.co.uk privacy policy that was archived on 2006-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061003093249id_/http%3A//www.mobilefun.co.uk/mobilefun/security-and-privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilefun.co.uk privacy policy that was archived on 2007-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070704040601id_/http%3A//www.mobilefun.co.uk/mobilefun/security-and-privacy.htm) for the most accurate reproduction.*
 
 # Security & Privacy - Mobile Fun
 
