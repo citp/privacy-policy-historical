@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manchestereveningnews.co.uk privacy policy that was archived on 2007-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070521033130id_/http%3A//www.manchestereveningnews.co.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manchestereveningnews.co.uk privacy policy that was archived on 2007-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070705050143id_/http%3A//www.manchestereveningnews.co.uk/privacy_policy) for the most accurate reproduction.*
 
 # Manchester Evening News
 
