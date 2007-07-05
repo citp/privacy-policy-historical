@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the revisionworld.com privacy policy that was archived on 2007-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070519070851id_/http%3A//www.revisionworld.com%3Fq%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revisionworld.com privacy policy that was archived on 2007-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070705222223id_/http%3A//www.revisionworld.com%3Fq%3Dprivacy) for the most accurate reproduction.*
 
-# Revision World - Revision | Privacy
+# Revision World | Privacy
 
 **Privacy Policy**
 
