@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the apartmentratings.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513232805id_/http%3A//www.apartmentratings.com/rate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartmentratings.com privacy policy that was archived on 2007-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070705111042id_/http%3A//www.apartmentratings.com/rate/privacy) for the most accurate reproduction.*
 
-# Apartment Ratings :: The leading source of apartment reviews by renters for renters.
+# ApartmentRatings.com Privacy Policy
+
+  
+
+
+**ApartmentRatings.com Privacy Policy**
+
+Amended & Restated   
+Last Updated: May 24, 2007 
 
 ApartmentRatings.com takes your privacy seriously. Please read this to learn about our policy regarding visitor and member privacy. 
 
@@ -14,7 +22,7 @@ ApartmentRatings.com takes your privacy seriously. Please read this to learn abo
 
 > ApartmentRatings.com collects personally identifiable information when you register for a ApartmentRatings.com account and when you use the service. ApartmentRatings.com may also receive personally identifiable information from our business partners. 
 > 
-> When you register with ApartmentRatings.com, we ask for your email address, and zip code. You may also be requested to provide additional information to ApartmentRatings.com after you have registered, providing information such as your name, your age, your education level, and your income range. Once you register with ApartmentRatings.com and sign in to our services, you are not anonymous to us. 
+> When you register with ApartmentRatings.com, we ask for your email address and zip code. You may also be requested to provide additional information to ApartmentRatings.com after you have registered, such as your apartment search price range, move date, phone number, and other information. Pseudo-anonymous information associated with your browser session (stored in browser cookies), such as your favorite apartments and moving calendar data, may also be permanently stored once you register with ApartmentRatings.com. Once you register with ApartmentRatings.com and sign in to our services, you are not anonymous to us. 
 > 
 > ApartmentRatings.com also automatically receives and records information on our server logs from your browser including your IP address, ApartmentRatings.com cookie information and the page you requested. 
 > 
@@ -24,16 +32,12 @@ ApartmentRatings.com takes your privacy seriously. Please read this to learn abo
 
 > ApartmentRatings.com will not provide your personally identifiable information to other companies or people except in the following instances: 
 > 
->   * We have your consent to share the information;  
-> 
->   * We need to share your information to provide the product or service you have requested;  
-> 
->   * We need to send the information to companies who work on behalf of ApartmentRatings.com to provide a product or service to you. (Unless we tell you differently, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us.);  
-> 
->   * We respond to subpoenas, court orders or legal process; or   
-> 
->   * We find that your actions on our Web sites violate the ApartmentRatings.com Terms of Service, or any of our usage guidelines for specific products or services.  
-> 
+>   * We have your consent to share the information;
+>   * We need to share your information to provide the product or service you have requested;
+>   * We need to send the information to companies who work on behalf of ApartmentRatings.com to provide a product or service to you. (Unless we tell you differently, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us.);
+>   * We respond to subpoenas, court orders or legal process;
+>   * We find that your actions on our Web sites violate the ApartmentRatings.com Terms of Service, or any of our usage guidelines for specific products or services; or
+>   * As set forth in the Business Transfers section of this policy.
 > 
 
 
@@ -49,7 +53,7 @@ ApartmentRatings.com takes your privacy seriously. Please read this to learn abo
 
 > ApartmentRatings.com gives you the ability to edit your ApartmentRatings.com Account Information and preferences at any time. 
 > 
-> You may request deletion of your ApartmentRatings.com account by sending an email to [staff@aptratings.com](mailto:staff@aptratings.com). 
+> You may request deletion of your ApartmentRatings.com account by sending an email to [staff@aptratings.com](https://web.archive.org/web/20070705111042id_/http%3A//www.apartmentratings.com/rate/staff@aptratings.com). 
 
 **Security**
 
@@ -59,7 +63,11 @@ ApartmentRatings.com takes your privacy seriously. Please read this to learn abo
 
 **Changes to this Privacy Policy**
 
-> ApartmentRatings.com may edit this policy from time to time. If we make any substantial changes we will notify you by posting a prominent announcement on our pages. 
+> ApartmentRatings.com may edit this policy from time to time. If we make any substantial changes we will notify you by posting a notice on this page of the site. 
+
+**Business Transfers**
+
+> If there is an acquisition of ApartmentRatings.com's business (whether by merger, reorganization, sale of all or substantially all of the assets or capital stock of ApartmentRatings.com, or otherwise), your information could be sold as part of that transaction and your personally identifying information potentially could be used by the purchaser. However, if the purchaser materially changes this Privacy Policy or the information handling practices as described in this Privacy Policy, you will be notified through a notice posted on this page of the site. 
 
 **Privacy of Children**
 
