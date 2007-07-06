@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fbo.gov privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614054744id_/http%3A//www.fbo.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fbo.gov privacy policy that was archived on 2007-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070706104824id_/http%3A//www.fbo.gov/privacy.html) for the most accurate reproduction.*
 
 # privay Statement
 
@@ -6,7 +6,7 @@
 
 ****
 
-PRIVAY ACT ROUTINE USES (5 USC § 522a AS AMENDED) 
+PRIVACY ACT ROUTINE USES (5 USC § 522a AS AMENDED) 
 
 Disclosure (or providing) of information requested in forms contained within this system or provided via email contact is “voluntary.” By providing the information, the individual assumes all responsibility to ensure the information provided is correct and valid and is so maintained. 
 
