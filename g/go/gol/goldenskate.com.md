@@ -1,8 +1,50 @@
-> *The following text is extracted and transformed from the goldenskate.com privacy policy that was archived on 2006-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061030204151id_/http%3A//www.goldenskate.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenskate.com privacy policy that was archived on 2007-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070706024958id_/http%3A//www.goldenskate.com/privacy.shtml) for the most accurate reproduction.*
 
 # Golden Skate's Privacy Policy
 
-|   
+  * [Home](http://www.goldenskate.com/index.shtml)
+  * [Articles](https://web.archive.org/articles/articles.shtml)
+  * [Forum](https://web.archive.org/forum/)
+  * [Newsletter](https://web.archive.org/newsletter.shtml)
+  * [Upcoming Events](https://web.archive.org/resources/events.shtml)
+
+
+  * Directories
+  * [Fan Pages](https://web.archive.org/directories/fanpages/fan.shtml)
+  * [Clubs/Rinks ](https://web.archive.org/directories/clubs/clubs.shtml)
+  * [Organizations](https://web.archive.org/organizations/organizations.shtml)
+  * [Skater Directory](https://web.archive.org/directories/skaters/main.shtml)
+  * [Synchronized Skating](https://web.archive.org/directories/synch/synch.shtml)
+  * Market Place
+  * [Accessories](https://web.archive.org/marketplace/accessories.shtml)
+  * [Apparel](https://web.archive.org/marketplace/apparel.shtml)
+  * [Boots/Blades ](https://web.archive.org/marketplace/boots.shtml)
+  * [Gifts/Memorabilia](https://web.archive.org/marketplace/gifts.shtml)
+  * [Magazines](https://web.archive.org/marketplace/magazines.shtml)
+  * [Music/Video Services](https://web.archive.org/marketplace/musicediting.shtml)
+  * [Production Companies](https://web.archive.org/marketplace/productions.shtml)
+  * [Rink Equipment](https://web.archive.org/marketplace/rinkequipment.shtml)
+  * [Training/Fitness Aids](https://web.archive.org/marketplace/training.shtml)
+  * Resources
+  * [Fun/Games](https://web.archive.org/resources/fun.shtml)
+  * [Graphics/Art](https://web.archive.org/resources/graphics.shtml)
+  * [International Results](https://web.archive.org/resources/international.shtml)
+  * [Music/Program Info](https://web.archive.org/resources/music.shtml)
+  * [Photography](https://web.archive.org/resources/photography.shtml)
+  * [Pro-Am Results](https://web.archive.org/competitions/proam/main.shtml)
+  * [Results/Historical Data](https://web.archive.org/resources/results.shtml)
+  * [Reviews](https://web.archive.org/resources/reviews.shtml)
+  * [Tape Trading](https://web.archive.org/resources/tapes.shtml)
+  * [Webzines/Forums](https://web.archive.org/resources/webzines.shtml)
+  * Site Info
+  * [Advertising/Sponsors](https://web.archive.org/sponsorship.shtml)
+  * [Link Exchange](https://web.archive.org/link.shtml)
+  * [Feedback](https://web.archive.org/feedback.shtml)
+  * [Mission](https://web.archive.org/mission.shtml)
+  * [Privacy](https://web.archive.org/privacy.shtml)
+  * [Sitemap](https://web.archive.org/sitemap.shtml)
+
+|    
 
 
 > **Privacy Policy**
@@ -34,7 +76,7 @@
 > 
 > If you are having trouble viewing the message headers, you can find [instructions for your email program](http://www.spamcop.net/fom-serve/cache/19.html) at the SpamCop.net website.
 > 
-> If an examination of the headers reveals that the message originated from a host in the **goldenskate.com** domain (including IP addresses that begin with 69.5.2.224), then forward the message, with full headers, to the [webmaster](mailto:skate@goldenskate.com?subject=Email%20Abuse).
+> If an examination of the headers reveals that the message originated from a host in the **goldenskate.com** domain (including IP addresses that begin with 69.5.2.224), then forward the message, with full headers, to the [webmaster](http://goldenskate.com/feedback.shtml).
 > 
 > **If you cannot tell where the message originated from or if it did not originate from the** **goldenskate.com** **domain, please do not report the matter to us.** Instead, we suggest that you use the [spam reporting service](http://www.spamcop.net/) at Spamcop.net. It is simple, quick, and free: just register at the SpamCop [Signup](http://www.spamcop.net/anonsignup.shtml) page. 
 > 
@@ -46,4 +88,4 @@
 > 
 > Each email sent contains an easy, automated way for you to cease receiving email from _Golden Skate_ , or to change your expressed interests. If you wish to do this, simply follow the instructions contained in any email.
 > 
-> If you have received unwanted, unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to the [webmaster](mailto:skate@goldenskate.com?subject=Email%20Abuse) for review.
+> If you have received unwanted, unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to the [webmaster](http://goldenskate.com/feedback.shtml) for review.
