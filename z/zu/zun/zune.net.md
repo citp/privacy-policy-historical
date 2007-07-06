@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zune.net privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621054456id_/http%3A//www.zune.net/en-US/legal/privacyStatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zune.net privacy policy that was archived on 2007-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070706021144id_/http%3A//www.zune.net/en-US/legal/privacyStatement.htm) for the most accurate reproduction.*
 
 # Zune.net | Zune Online Privacy Statement
 
