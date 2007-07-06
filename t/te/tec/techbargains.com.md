@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techbargains.com privacy policy that was archived on 2006-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060604013026id_/http%3A//www.techbargains.com/content/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techbargains.com privacy policy that was archived on 2007-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070706174442id_/http%3A//www.techbargains.com/content/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy safe shopping - Techbargains.com
 
