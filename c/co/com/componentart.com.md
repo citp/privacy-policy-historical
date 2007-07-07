@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the componentart.com privacy policy that was archived on 2007-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070519085931id_/http%3A//www.componentart.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the componentart.com privacy policy that was archived on 2007-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070707222323id_/http%3A//www.componentart.com/privacy.aspx) for the most accurate reproduction.*
 
 # ComponentArt - Privacy Notice
 
