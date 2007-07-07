@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the slashfilm.com privacy policy that was archived on 2006-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060510000611id_/http%3A//www.slashfilm.com/staticpages/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slashfilm.com privacy policy that was archived on 2007-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070707083953id_/http%3A//www.slashfilm.com/staticpages/index.php/privacy) for the most accurate reproduction.*
 
-# /FILM - Privacy Policy
+# Privacy Policy - /FILM
 
-  
-This is the web site of **/Film**. 
+This is the web site of **/Film**.
 
 Our postal address is   
 **  
@@ -36,9 +35,9 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 Upon request we provide site visitors with access to a description of information that we maintain about them.
 
-Consumers can access this information by e-mail us at the above address. 
+Consumers can access this information by e-mail us at the above address.
 
 If you feel that this site is not following its stated information policy, you may contact The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
 
   
-Last Updated Friday, October 28 2005 @ 12:32 AM PDT [](http://www.slashfilm.com/staticpages/index.php/privacy/print)
+Last Updated Friday, October 28 2005 @ 12:32 AM EDT [](http://www.slashfilm.com/staticpages/index.php/privacy/print)
