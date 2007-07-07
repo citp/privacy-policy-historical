@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sunglasswarehouse.com privacy policy that was archived on 2007-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070206000305id_/http%3A//www.sunglasswarehouse.com/privacypolicy1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunglasswarehouse.com privacy policy that was archived on 2007-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070707115917id_/http%3A//www.sunglasswarehouse.com/privacypolicy1.html) for the most accurate reproduction.*
 
-# Privacy Policy | Sunglass Warehouse
+# Privacy Policy | SunglassWarehouse.com
 
 The Site ("sunglasswarehouse.com") is owned and operated by One Click Internet Ventures, LLC. We have created this privacy policy to demonstrate our firm commitment to protecting your personal information and informing you about how we handle it. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy. Each time you visit the Site or provide us with information, by doing so you are accepting the practices described in this privacy policy at that time. 
 
