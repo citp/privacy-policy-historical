@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcitation.org privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612093947id_/http%3A//www.webcitation.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcitation.org privacy policy that was archived on 2007-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070707084509id_/http%3A//www.webcitation.org/privacy) for the most accurate reproduction.*
 
 # WebCite Privacy Policy
 
