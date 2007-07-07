@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the bmwusa.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623143111id_/http%3A//www.bmwusa.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmwusa.com privacy policy that was archived on 2007-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070707161450id_/http%3A//www.bmwusa.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - BMWUSA.com - BMW North America
 
-**Privacy Policy last updated 6/04/2007**
-
- **Our Promise to You**   
+**Our Promise to You**   
 We appreciate the trust you place in BMW and would not want to jeopardize your trust in any way. We respect your privacy and are committed to protecting the security of your personal information. Rest assured that we will not rent or sell your personal information to anyone. 
 
 BMW works with retailers and contracted business partners to provide you with products and services and to give you the best ownership experience possible. We maintain physical, electronic and procedural safeguards designed to protect your personal information. We will address your privacy-related questions or concerns. 
@@ -24,9 +22,9 @@ We share personal information with members of the BMW Group, to assist us in pro
 We maintain physical, electronic and procedural safeguards designed to protect personal information. We also employ encryption technologies and user authentication procedures that are designed to keep your data secure. We limit access to personal information to authorized personnel and contractors who need access to perform their job and are contractually required to keep your information secure. 
 
 **How am I updated on BMW’s privacy policy?**  
-As business conditions change, we will update this policy to reflect changes in our business practices. We will post revisions to our policy on our web site. 
+As business conditions change, we will update this policy to reflect changes in our business practices. We will post revisions to our policy on our web site.
 
-**Questions and Comments**  
-Please feel free to send your privacy-related comments or questions to [privacy@bmwusa.com](mailto:BMWprivacy@bmwusa.com) or write: BMW of North America, Privacy Office, PO Box 1227, Westwood NJ 07675-1227. You may also call Customer Relations at 800-831-1117 Prompt "Customer Service Vehicle". 
+ **Questions and Comments  
+** Please feel free to send your privacy-related comments or questions to [privacy@bmwusa.com](mailto:BMWprivacy@bmwusa.com) or write: BMW of North America, Privacy Office, PO Box 1227, Westwood NJ 07675-1227. You may also call Customer Relations at 800-831-1117 Prompt "Customer Service Vehicle". 
 
 Thank you for your continued interest in BMW.
