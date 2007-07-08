@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optoutprescreen.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018001709id_/https%3A//www.optoutprescreen.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optoutprescreen.com privacy policy that was archived on 2007-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070708044446id_/https%3A//www.optoutprescreen.com/privacy.htm) for the most accurate reproduction.*
 
 # OptOutPrescreen.com - Frequently Asked Questions
 
