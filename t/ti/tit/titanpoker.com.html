@@ -1,237 +1,246 @@
-<!--The following is the downloaded HTML source of the titanpoker.com privacy policy that was archived on 2006-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061205235356id_/http%3A//www.titanpoker.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the titanpoker.com privacy policy that was archived on 2007-07-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070708212652id_/http%3A//www.titanpoker.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-    <title>Online Titan Poker</title>
     <meta http-equiv="imagetoolbar" content="no">
     <meta name="robots" content="noarchive">
     <meta http-equiv="pragma" content="no-cache">
-    <meta name="keywords" content="online poker, titan poker,  poker tournaments,  poker, texas hold'em, omaha hi, poker game, texas holdem, poker rules, poker room, poker jackpots, sit and go">
-    <meta name="description" content="Titan Poker is the best online poker room on the web and the only online poker to offer best online expirience. Enjoy Titan Poker's online poker games like Texas Hold'em and Omaha Hi, poker tournaments, and the new poker jackpots.">
+    <meta name="keywords" content="online poker, titan poker, online poker rooms, poker tournaments, play poker online, texas hold'em, omaha hi, poker games, texas holdem, poker rules, poker jackpots, sit and go">
+    <meta name="description" content="Titan Poker, the best online poker rooms on the web. Once you have experienced Titan Poker's online poker games like Texas Hold'em and Omaha Hi you'll be ready to play poker tournaments and win the new poker jackpots.">
+    <title>Online Poker rooms - play poker games at Titanpoker.com | Privacy Policy</title>
     <meta name="verify-v1" content="vJ0LuPl4bjur4U2ciW3DiUThB6HMpaS+6BIzJ1ulH5U=">
     <link rel="meta" href="http://www.titanpoker.com/labels.rdf" type="application/rdf+xml" title="ICRA labels">
     <meta http-equiv="pics-Label" content="(pics-1.1 'http://www.icra.org/pics/vocabularyv03/' l gen true for 'http://titanpoker.com' r (n 0 s 0 v 0 l 0 oa 0 ob 0 oc 0 od 0 oe 2 of 0 og 0 oh 0 c 0) gen true for 'http://www.titanpoker.com' r (n 0 s 0 v 0 l 0 oa 0 ob 0 oc 0 od 0 oe 2 of 0 og 0 oh 0 c 0))">
     <style type="text/css" media="screen">@import url('http://cachewww.titanpoker.com/style/newa.css');</style>
     <!--[if lt IE 7]><style type="text/css" media="all">@import url('http://cachewww.titanpoker.com/style/newa_ie.css');</style><![endif]-->
     <!--[if IE 7]><style type="text/css" media="all">@import url('http://cachewww.titanpoker.com/style/newa_ie7.css');</style><![endif]-->
+    <script language="javascript" type="text/javascript" src="/Trck.js"></script>
+    <script language="javascript" type="text/javascript" src="/BTrck_en.js"></script>
     <script language="javascript" type="text/javascript" src="/generic.js"></script>
     <script language="javascript" type="text/javascript" src="/AC_RunActiveContent.js"></script>
     <script language="javascript" type="text/javascript" src="/AC_ActiveX.js"></script>
     <script type="text/javascript" src="/iehover.js"></script>
     <script language="javascript" type="text/javascript">
       <!--
+			var bt=null;
+
+			// patch for using not latin symbols in js
+			var span=document.createElement('span');
+			span.innerHTML = ' Would you like to visit another casino?';
+			var exitalert = span.innerHTML.replace('&amp;', '&');
+
+			
+
 			var activeNav = "";
 			var setSpeedCookie = "1";
 			var url_download='http://banner.titanpoker.com/cgi-bin/SetupPoker.exe';
-			var dtt='Clicking Open or Run on the next page is the easiest way to install the poker games';	
+			var dtt='Clicking Open or Run on the next page is the easiest way to install the poker games';
 			var crb='en+newa+-+privacy';
 			var menu;
 			var theTop = 174;
 			var old = theTop;
-			function on_load(){	
-			
-			hoverlist();
-			
 
+			function on_load(){
 
-			enok();
+				bt = new BTrck('http://banner.titanpoker.com/cgi-bin/SetupPoker.exe', 'en+newa+-+privacy');
+				
+				enok();
 				var cookiestring = document.cookie;
 				document.cookie = 'current_website_language=en;PATH=/;EXPIRES=' + getexpirydate(1);
+				
+				hoverlist();
+			}
+			function on_unload() {
+				
+					bt.exitPage('en', exitalert);
+				
 			}
 
-			
+			function t_do() {
+				try{bt.openexitstatus = 0;}
+				catch (ex) {}
+
+			}
+
+			function t_d(cref, win) {
+				try{bt.download(cref, win);}
+				catch (ex) {}
+			}
+
+			function t_da(cr){
+		    	try{
+					if (document.Downloader && document.Downloader.object) Downloader.Run();
+					else if (bt) bt.download(cr, window);
+				}
+				catch (ex) {}
+			}
+
+
+
 			function enok(){
 			
 			}
-			var openexitstatus = 1;
-			
-			var dopopup = 1;
-			var exiturl = '';
-			var exitcode = readCookie('banner_exiturl');
 
-			
-			if (exitcode == '-')  {
-				dopopup = 0;
-			} else {
-				
-				 banner_click = readCookie('banner_click').split(',');
-					var member=banner_click[0];
-					member=(member == 'empty') ? readCookie('banner_domainclick').split(',')[0] : member;
-				 	var profile=banner_click[2];
-				 	var source=banner_click[4];
-					var exitsiteurl = 'http://banner.vegasred.com/cgi-bin/redir.cgi?id=N&member=' + member + '&profile=exit';	
-				
-				if (exitcode == '@') {
-					exiturl = 'http://www.titanpoker.com/trcpromo-campx-' + member + '-pmail9-en';
-				}
-				else {
-					exiturl = 'http://www.titanpoker.com/trcpromo-' + member + '-exit-pmail9-en';
-				}
-			}
-			
-			function exitpage()
-			{
-				
-				if (dopopup && openexitstatus) {
-					
-					var z=document.createElement('span');
-					z.innerHTML=' Deposit now and join our next Weekly Depositors Freeroll';
-					var zquest = z.innerHTML.replace('&amp;', '&');
-					if(confirm(zquest)) {
-						window.open(exitsiteurl,'','toolbar, location=yes, width=814, height=728, menubar=yes, status=yes, resizable=yes, scrollbars=yes, directories=yes');
-					} else {
-					
-						 window.open(exiturl,'exitwin','toolbar, location=yes, width=850, height=728, menubar=yes, status=yes, resizable=yes, scrollbars=yes, directories=yes');
-					
-					}
-					
-				}
-				
-			 	return true;
-			}
-						
-	-->
+			-->
     </script>
   </head>
-  <body id="privacy" onload="on_load();">
-    <div id="content" onunload="exitpage();">
+  <body id="privacy" onload="on_load()" onunload="on_unload()">
+    <div id="content">
       <h1></h1>
       <div id="menuleft">
         <div id="menuright">
           <div id="menu">
             <ul id="mainmenu">
               <li id="d1">
-                <a href="/en/newa" onclick="openexitstatus=0;">Home</a>
+                <a href="" onclick="t_do();">Home</a>
               </li>
               <li id="d2">
-                <a href="m_started.html" onclick="openexitstatus=0;">Getting Started
+                <a href="m_started.html" onclick="t_do();">Getting Started
 			</a>
                 <ul>
                   <li>
-                    <a href="started.html" onclick="openexitstatus=0;">System Requirements</a>
+                    <a href="started.html" onclick="t_do();">System Requirements</a>
                   </li>
                   <li>
-                    <a href="started.html#downloading" onclick="openexitstatus=0;">Downloading</a>
+                    <a href="started.html#downloading" onclick="t_do();">Downloading</a>
                   </li>
                   <li>
-                    <a href="started.html#account" onclick="openexitstatus=0;">Creating an Account</a>
+                    <a href="started.html#account" onclick="t_do();">Creating an Account</a>
                   </li>
                   <li>
-                    <a href="multicurrency.html" onclick="openexitstatus=0;">Multicurrency Options</a>
+                    <a href="multicurrency.html" onclick="t_do();">Multicurrency Options</a>
                   </li>
                   <li>
-                    <a href="payments.html" onclick="openexitstatus=0;">Payment Options</a>
+                    <a href="payments.html" onclick="t_do();">Payment Options</a>
                   </li>
                   <li>
-                    <a href="pokertalk.html" onclick="openexitstatus=0;">Glossary</a>
+                    <a href="pokertalk.html" onclick="t_do();">Glossary</a>
                   </li>
                   <li class="edge">
-                    <a href="rank.html" onclick="openexitstatus=0;">Rank of Poker Hands</a>
+                    <a href="rank.html" onclick="t_do();">Rank of Poker Hands</a>
                   </li>
                 </ul>
               </li>
               <li id="d3">
-                <a href="about.html" onclick="openexitstatus=0;">About
+                <a href="m_about.html" onclick="t_do();">About
 			</a>
                 <ul>
                   <li>
-                    <a href="testimonials.html" onclick="openexitstatus=0;">Players' Testimonials</a>
+                    <a href="testimonials.html" onclick="t_do();">Players' Testimonials</a>
                   </li>
                   <li>
-                    <a href="security.html" onclick="openexitstatus=0;">Security &amp; Integrity</a>
+                    <a href="security.html" onclick="t_do();">Security &amp; Integrity</a>
+                  </li>
+                  <li>
+                    <a href="privacy.html" onclick="t_do();">Privacy Policy</a>
                   </li>
                   <li class="edge">
-                    <a href="privacy.html" onclick="openexitstatus=0;">Privacy Policy</a>
+                    <a href="rng.html" onclick="t_do();">Random Number Generator</a>
                   </li>
                 </ul>
               </li>
               <li id="d4">
-                <a href="m_games.html" onclick="openexitstatus=0;">The Games
+                <a href="m_games.html" onclick="t_do();">Poker Games
 			</a>
                 <ul>
                   <li>
-                    <a href="features.html" onclick="openexitstatus=0;">Features</a>
+                    <a href="features.html" onclick="t_do();">Features</a>
                   </li>
                   <li>
-                    <a href="games.html" onclick="openexitstatus=0;">Games</a>
+                    <a href="games.html" onclick="t_do();">Lobby and House Rules</a>
                   </li>
                   <li>
-                    <a href="games.html#house" onclick="openexitstatus=0;">House Rules</a>
+                    <a href="gamerules.html" onclick="t_do();">Poker Games Available</a>
                   </li>
                   <li>
-                    <a href="gamerules.html" onclick="openexitstatus=0;">Game Rules</a>
+                    <a href="tournaments.html" onclick="t_do();">Tournament Types</a>
                   </li>
                   <li>
-                    <a href="tournaments.html" onclick="openexitstatus=0;">Tournament Rules</a>
-                  </li>
-                  <li>
-                    <a href="schedules.html" onclick="openexitstatus=0;">Tournament Schedules</a>
+                    <a href="schedules.html" onclick="t_do();">Tournament Schedules</a>
                   </li>
                   <li class="edge">
-                    <a href="winners.html" onclick="openexitstatus=0;">Winners</a>
+                    <a href="winners.html" onclick="t_do();">Winners</a>
                   </li>
                 </ul>
               </li>
               <li id="d5">
-                <a href="promotions.html" onclick="openexitstatus=0;">Promotions
+                <a href="promotions.html" onclick="t_do();">Promotions
 			</a>
                 <ul>
                   <li>
-                    <a href="tournament_titan.html" onclick="openexitstatus=0;">The Tournament Titan</a>
+                    <a href="titan_world.html" onclick="t_do();">World Challenge</a>
                   </li>
                   <li>
-                    <a href="pick_wpt.html" onclick="openexitstatus=0;">WPT Pick Your Tournament</a>
+                    <a href="1000000.html" onclick="t_do();">$1,000,000 Guaranteed</a>
                   </li>
                   <li>
-                    <a href="ept_scandinavian.html" onclick="openexitstatus=0;">Scandinavian Open</a>
+                    <a href="tournament_titan.html" onclick="t_do();">The Tournament Titan</a>
                   </li>
                   <li>
-                    <a href="mega_tournaments.html" onclick="openexitstatus=0;">Mega Tournaments</a>
+                    <a href="wsop_e.html" onclick="t_do();">WSOP Europe</a>
                   </li>
                   <li>
-                    <a href="aussie_millions2007.html" onclick="openexitstatus=0;">Aussie Millions</a>
+                    <a href="australianopen.html" onclick="t_do();">Australian Open</a>
                   </li>
                   <li>
-                    <a href="fortknox.html" onclick="openexitstatus=0;">Fort Knox $50,000</a>
+                    <a href="goldensands.html" onclick="t_do();">Golden Sands</a>
                   </li>
                   <li>
-                    <a href="rio.html" onclick="openexitstatus=0;">Rio $25,000 Jackpot</a>
+                    <a href="world_poker_showdown.html" onclick="t_do();">Costa Rica Poker Showdown</a>
                   </li>
                   <li>
-                    <a href="tacsitngo.html" onclick="openexitstatus=0;">Maui $15,000 Jackpot</a>
+                    <a href="limit.html" onclick="t_do();">Limit Cash Giveaway</a>
                   </li>
                   <li>
-                    <a href="fdb.html" onclick="openexitstatus=0;">Incredible Signup Bonus</a>
+                    <a href="500k_giveaway.html" onclick="t_do();">$500,000 Giveaway</a>
                   </li>
                   <li>
-                    <a href="vip_club.html" onclick="openexitstatus=0;">VIP Club</a>
+                    <a href="fortknox.html" onclick="t_do();">Fort Knox $50,000</a>
+                  </li>
+                  <li>
+                    <a href="rio.html" onclick="t_do();">Rio $25,000 Jackpot</a>
+                  </li>
+                  <li>
+                    <a href="sitngo.html" onclick="t_do();">Maui $15,000 Jackpot</a>
+                  </li>
+                  <li>
+                    <a href="fdb.html" onclick="t_do();">Incredible Signup Bonus</a>
+                  </li>
+                  <li>
+                    <a href="vip_club.html" onclick="t_do();">VIP Club</a>
                   </li>
                   <li class="edge">
-                    <a href="sendtoafriend.html" onclick="openexitstatus=0;">Invite Your Friends</a>
+                    <a href="sendtoafriend.html" onclick="t_do();">Invite Your Friends</a>
                   </li>
                 </ul>
               </li>
               <li id="d6">
-                <a href="support.html" onclick="openexitstatus=0;">Support
+                <a href="m_support.html" onclick="t_do();">Support
 		</a>
                 <ul>
                   <li>
-                    <a href="support.html" onclick="openexitstatus=0;">Contact Us</a>
+                    <a href="support.html" onclick="t_do();">Contact Us</a>
+                  </li>
+                  <li>
+                    <a href="preview.html" onclick="t_do();">Preview</a>
                   </li>
                   <li class="edge">
-                    <a href="preview.html" onclick="openexitstatus=0;">Preview</a>
+                    <a href="customer_service.html" onclick="t_do();">Best Support Award </a>
                   </li>
                 </ul>
               </li>
             </ul><span id="langs">
-              <a href="/de/newa/privacy.html" onclick="openexitstatus=0;"><img alt="German" src="http://cachewww.titanpoker.com/tpl/newa/shared/images/flags/de.gif" width="20" height="12" border="0" hspace="1" vspace="1"></a>
-              <a href="/fr/newa/privacy.html" onclick="openexitstatus=0;"><img alt="French" src="http://cachewww.titanpoker.com/tpl/newa/shared/images/flags/fr.gif" width="20" height="12" border="0" hspace="1" vspace="1"></a>
-              <a href="/it/newa/privacy.html" onclick="openexitstatus=0;"><img alt="Italian" src="http://cachewww.titanpoker.com/tpl/newa/shared/images/flags/it.gif" width="20" height="12" border="0" hspace="1" vspace="1"></a>
-              <a href="/pl/newa/privacy.html" onclick="openexitstatus=0;"><img alt="Polish" src="http://cachewww.titanpoker.com/tpl/newa/shared/images/flags/pl.gif" width="20" height="12" border="0" hspace="1" vspace="1"></a>
-              <a href="/es/newa/privacy.html" onclick="openexitstatus=0;"><img alt="Spanish" src="http://cachewww.titanpoker.com/tpl/newa/shared/images/flags/sp.gif" width="20" height="12" border="0" hspace="1" vspace="1"></a>
-              <a href="/sv/newa/privacy.html" onclick="openexitstatus=0;"><img alt="Swedish" src="http://cachewww.titanpoker.com/tpl/newa/shared/images/flags/sv.gif" width="20" height="12" border="0" hspace="1" vspace="1"></a>
-              <a href="/tr/newa/privacy.html" onclick="openexitstatus=0;"><img alt="Turkish" src="http://cachewww.titanpoker.com/tpl/newa/shared/images/flags/tr.gif" width="20" height="12" border="0" hspace="1" vspace="1"></a>
+              <a href="/de/privacy.html" onclick="t_do();"><img alt="German" src="http://cachewww.titanpoker.com/tpl/newa/shared/images/flags/de.gif" width="18" height="10" border="0" hspace="1" vspace="1"></a>
+              <a href="/fr/privacy.html" onclick="t_do();"><img alt="French" src="http://cachewww.titanpoker.com/tpl/newa/shared/images/flags/fr.gif" width="18" height="10" border="0" hspace="1" vspace="1"></a>
+              <a href="/it/privacy.html" onclick="t_do();"><img alt="Italian" src="http://cachewww.titanpoker.com/tpl/newa/shared/images/flags/it.gif" width="18" height="10" border="0" hspace="1" vspace="1"></a>
+              <a href="/pl/privacy.html" onclick="t_do();"><img alt="Polish" src="http://cachewww.titanpoker.com/tpl/newa/shared/images/flags/pl.gif" width="18" height="10" border="0" hspace="1" vspace="1"></a>
+              <a href="/es/privacy.html" onclick="t_do();"><img alt="Spanish" src="http://cachewww.titanpoker.com/tpl/newa/shared/images/flags/sp.gif" width="18" height="10" border="0" hspace="1" vspace="1"></a>
+              <a href="/sv/privacy.html" onclick="t_do();"><img alt="Swedish" src="http://cachewww.titanpoker.com/tpl/newa/shared/images/flags/sv.gif" width="18" height="10" border="0" hspace="1" vspace="1"></a>
+              <a href="/no/privacy.html" onclick="t_do();"><img alt="Norway" src="http://cachewww.titanpoker.com/tpl/newa/shared/images/flags/no.gif" width="18" height="10" border="0" hspace="1" vspace="1"></a>
+              <a href="/fi/privacy.html" onclick="t_do();"><img alt="Finnish" src="http://cachewww.titanpoker.com/tpl/newa/shared/images/flags/fi.gif" width="18" height="10" border="0" hspace="1" vspace="1"></a>
+              <a href="/da/privacy.html" onclick="t_do();"><img alt="Danish" src="http://cachewww.titanpoker.com/tpl/newa/shared/images/flags/da.gif" width="18" height="10" border="0" hspace="1" vspace="1"></a>
+              <a href="/nl/privacy.html" onclick="t_do();"><img alt="Dutch" src="http://cachewww.titanpoker.com/tpl/newa/shared/images/flags/nl.gif" width="18" height="10" border="0" hspace="1" vspace="1"></a>
             </span>
           </div>
         </div>
@@ -244,22 +253,24 @@
             <div id="side_menu_container">
               <ul>
                 <li class="top">
-                  <a href="about.html" class="top" onclick="openexitstatus=0;">About
+                  <a href="m_about.html" class="top" onclick="t_do();">About
 			</a><img src="http://cachewww.titanpoker.com/tpl/newa/shared/images/tri.gif" class="imge"></li>
                 <li>
-                  <a href="testimonials.html" class="norm" onclick="openexitstatus=0;">Players' Testimonials</a>
+                  <a href="testimonials.html" class="norm" onclick="t_do();">Players' Testimonials</a>
                 </li>
                 <li>
-                  <a href="security.html" class="norm" onclick="openexitstatus=0;">Security &amp; Integrity</a>
+                  <a href="security.html" class="norm" onclick="t_do();">Security &amp; Integrity</a>
                 </li>
                 <li>
-                  <a href="privacy.html" class="norm" onclick="openexitstatus=0;">Privacy Policy</a>
+                  <a href="privacy.html" class="norm" onclick="t_do();">Privacy Policy</a>
+                </li>
+                <li>
+                  <a href="rng.html" class="norm" onclick="t_do();">Random Number Generator</a>
                 </li>
               </ul>
             </div>
-            <a onclick="openexitstatus=0;" href="joanna.html"><img src="http://cachewww.titanpoker.com/tpl/newa/en/images/joanna.gif" alt="" style="margin-left:-10px;"></a>
-            <a onclick="openexitstatus=0;" href="javascript:Download('leftscroll');" onmouseover="window.status='Clicking Open or Run on the next page is the easiest way to install the poker games'; return true;" onmouseout="window.status=''; return true;"><img src="http://cachewww.titanpoker.com/tpl/newa/en/images/bonusinner2.gif" id="bonusinner" alt=""><img src="http://cachewww.titanpoker.com/tpl/newa/en/images/download_small.gif" alt="" style="margin-bottom:10px;"></a>
-            <a onclick="openexitstatus=0;" href="javascript:Download('16free');" onmouseover="window.status='Clicking Open or Run on the next page is the easiest way to install the poker games'; return true;" onmouseout="window.status=''; return true;"></a>
+            <a onclick="t_do();" href="javascript:t_d('leftscroll',%20window);" onmouseover="window.status='Clicking Open or Run on the next page is the easiest way to install the poker games'; return true;" onmouseout="window.status=''; return true;"><img src="http://cachewww.titanpoker.com/tpl/newa/en/images/bonusinner2.gif" id="bonusinner" alt=""><img src="http://cachewww.titanpoker.com/tpl/newa/en/images/download_small.gif" alt="" style="margin-bottom:10px;"></a>
+            <a onclick="t_do();" href="javascript:t_d('16free',%20window);" onmouseover="window.status='Clicking Open or Run on the next page is the easiest way to install the poker games'; return true;" onmouseout="window.status=''; return true;"></a>
           </td>
           <td id="fullrt">
             <h5>Privacy Policy</h5>
@@ -268,8 +279,10 @@
                 <tbody><tr>
                   <td>
                     <h1>Privacy Policy</h1>
+                    <h2>Privacy Policy</h2>
                     <p class="crumb">
-                      <a title="" onclick="openexitstatus=0;" href="index.html">Home</a> &gt; <a title="" onclick="openexitstatus=0;" href="about.html">About Us</a> &gt; Privacy Policy		
+                      <strong>Back to our</strong>
+                      <a title="" onclick="t_do();" href="m_about.html">About Titan Poker Page</a>.
 		</p>
                     <p>Titan Poker and its subsidiaries are committed to respecting and protecting your privacy. The following statement discloses the information gathered by Titan Poker.</p>
                     <h2>Web Site Information</h2>
@@ -292,7 +305,7 @@
                     <p>Your winnings and cash-outs are kept strictly confidential, and winnings information is stored in secure operating environments. Titan Poker keeps your winnings information private and does not provide this information to any third party unless such information is required to be disclosed by law, regulation or any governmental or competent regulatory authority.
 </p>
                     <h2>Security</h2>
-                    <p>We maintain the utmost available means to ensure that your information remains safe with us. All information is transferred using encryption technologies and once stored on our servers, it is maintained safe using the latest firewall technologies available today. Both our web site and software use all available means to maintain data accuracy and privacy and to protect your data from being misused and/or lost. If you have any other questions or concerns regarding data privacy and security please do not hesitate to contact our <a title="" onclick="openexitstatus=0;" href="support.html">Customer Support</a> center at any time, 24 hours a day, 7 days a week. Our representatives will be more than happy to assist you.</p>
+                    <p>We maintain the utmost available means to ensure that your information remains safe with us. All information is transferred using encryption technologies and once stored on our servers, it is maintained safe using the latest firewall technologies available today. Both our web site and software use all available means to maintain data accuracy and privacy and to protect your data from being misused and/or lost. If you have any other questions or concerns regarding data privacy and security please do not hesitate to contact our <a title="" onclick="t_do();" href="support.html">Customer Support</a> center at any time, 24 hours a day, 7 days a week. Our representatives will be more than happy to assist you.</p>
                   </td>
                 </tr>
               </tbody></table>
@@ -305,24 +318,45 @@
           <div id="botmenu">
             <ul id="botmenuul">
               <li>
-                <a href="security.html" onclick="openexitstatus=0;" id="sec">Security</a>
+                <a href="security.html" onclick="t_do();" id="sec">Security</a>
               </li>
               <li>
-                <a href="privacy.html" onclick="openexitstatus=0;">Privacy</a>
+                <a href="privacy.html" onclick="t_do();">Privacy</a>
               </li>
               <li>
-                <a href="termsofuse.html" onclick="openexitstatus=0;">Terms of Use</a>
+                <a href="termsofuse.html" onclick="t_do();">Terms of Use</a>
               </li>
               <li>
-                <a href="http://www.casinopartners.com/" onclick="openexitstatus=0;" class="aff" target="blank">Join our Affiliate Program</a>
+                <a href="http://www.europartners.com/" onclick="t_do();" class="aff" target="blank">Join our Affiliate Program</a>
               </li>
             </ul>
           </div>
         </div>
       </div>
-      <a href="javascript:Download('download');" onclick="openexitstatus=0;"><img src="http://cachewww.titanpoker.com/tpl/newa/shared/images/payments.gif" alt=""></a>
-      <a href="http://www.kahnawake.com/gamingcommission/" target="_blank" onclick="openexitstatus = 0;"><img src="http://cachewww.titanpoker.com/tpl/newa/shared/images/ka.gif" alt="" style="margin-bottom:-4px; margin-left:2px;"></a>
-      <div id="cprt">Copyright © 2006 <a title="Online Poker" onclick="openexitstatus=0;" href="/">titanpoker.com</a> All Rights Reserved.
+      <ul id="bottom_logos">
+        <li>
+          <a href="rng.html" target=""><img src="http://cachewww.titanpoker.com/tpl/newa/shared/images/footer_img/icon_1.gif" alt=""></a>
+        </li>
+        <li>
+          <a href="responsible_gambling.html" target=""><img src="http://cachewww.titanpoker.com/tpl/newa/shared/images/footer_img/icon_2.gif" alt=""></a>
+        </li>
+        <li>
+          <a href="about.html" target=""><img src="http://cachewww.titanpoker.com/tpl/newa/shared/images/footer_img/icon_3.gif" alt=""></a>
+        </li>
+        <li>
+          <a href="responsible_gambling.html" target=""><img src="http://cachewww.titanpoker.com/tpl/newa/shared/images/footer_img/icon_4.gif" alt=""></a>
+        </li>
+        <li>
+          <a href="responsible_gambling.html" target=""><img src="http://cachewww.titanpoker.com/tpl/newa/shared/images/footer_img/icon_5.gif" alt=""></a>
+        </li>
+        <li>
+          <a href="http://www.europartners.com" target="_blank"><img src="http://cachewww.titanpoker.com/tpl/newa/shared/images/footer_img/icon_6.gif" alt=""></a>
+        </li>
+        <li>
+          <a href="privacy.html" target=""><img src="http://cachewww.titanpoker.com/tpl/newa/shared/images/footer_img/icon_7.gif" alt=""></a>
+        </li>
+      </ul>
+      <div id="cprt">Copyright © 2007 <a title="Online Poker" onclick="t_do();" href="/">titanpoker.com</a> All Rights Reserved.
 	</div>
     </div>
   
