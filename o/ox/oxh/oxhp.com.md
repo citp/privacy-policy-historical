@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxhp.com privacy policy that was archived on 2006-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060315034928id_/https%3A//www.oxhp.com/main/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxhp.com privacy policy that was archived on 2007-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070708145040id_/https%3A//www.oxhp.com/main/privacy.html) for the most accurate reproduction.*
 
 # Home > Privacy Statement
 
@@ -6,10 +6,10 @@
 
 ## Notice to Oxford Health Plans Members Regarding Oxford's Privacy Practices
 
-  * [Español](https://web.archive.org/web/20060315034928id_/https%3A//www.oxhp.com/main/privacy_spanish.html) \- Spanish  
+  * [Español](https://web.archive.org/web/20070708145040id_/https%3A//www.oxhp.com/main/privacy_spanish.html) \- Spanish  
 
-  * [中文](https://web.archive.org/web/20060315034928id_/https%3A//www.oxhp.com/main/privacy_chinese.html) \- Chinese 
-  * [한국어로된](https://web.archive.org/web/20060315034928id_/https%3A//www.oxhp.com/main/privacy_korean.html) \- Korean 
+  * [中文](https://web.archive.org/web/20070708145040id_/https%3A//www.oxhp.com/main/privacy_chinese.html) \- Chinese 
+  * [한국어로된](https://web.archive.org/web/20070708145040id_/https%3A//www.oxhp.com/main/privacy_korean.html) \- Korean 
 
 
 
