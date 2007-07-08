@@ -1,49 +1,73 @@
-> *The following text is extracted and transformed from the orangesoda.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205025100id_/http%3A//www.orangesoda.com/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orangesoda.com privacy policy that was archived on 2007-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070708093030id_/https%3A//fizz.orangesoda.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# binarybliss.com
+# Privay Policy .:|:. OrangeSoda
 
-**Licensee**
+[](https://www.truste.org/ivalidate.php?url=www.orangesoda.com&sealid=101)
 
-Aureate Media Corporation is a licensee of the Privacy Program. This statement discloses the privacy practices for the entire Aureate Network. When you visit a Web site displaying the trustmark, you can expect to be notified of: What personally identifiable information of yours is collected; What organization is collecting the information; How the information is used; With whom the information may be shared; What choices are available to you regarding collection, use and distribution of the information; What kind of security procedures are in place to protect the loss, misuse or alteration of information under the company's control; and How you can correct any inaccuracies in the information. 
+**ORANGESODA PRIVACY POLICY**
 
-Questions regarding this statement should be directed to the Aureate Media privacy department at [privacy@aureate.com](mailto:privacy@aureate.com). If the Web site has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact (<http://www.truste.org/users/users_watchdog.html>). 
+At OrangeSoda, we respect and protect the privacy of our clients and users who visit our websites. This Privacy Policy explains how we collect and use information for OrangeSoda services, including the advertising services, promotions, informational mailings and other offers we provide. By using any services provided by OrangeSoda, Inc. ("OrangeSoda"), you indicate that you agree to the collection and use of your information by OrangeSoda as outlined in this Privacy Policy. 
 
-To return to the Web site, please use the "Back" button on your browser. 
+**Why We Collect Information**
 
-**What Aureate Media Does**
+First and foremost, OrangeSoda collects information to improve the services we provide and to present you with information and services that will interest you. We also use your information to measure our success and performance. For example, aggregate information gives us an idea of the number of visitors we attract and how they navigate our websites. 
 
-Aureate Media (Aureate) delivers content to computer software applications that use Aureate Media's technology. In the process of delivering this content, as well as performing online transactions, Aureate will sometimes query you for demographic data (gender, age, zip code, etc.). We will not collect any personally identifiable information about you (name, address, telephone number, email address) unless you provide it to us voluntarily. All of this information is aggregated for the purposes of reporting to advertisers and ad sales organizations the performance of their advertising campaigns. Because Aureate derives its revenue mainly from advertising, providing such aggregated demographic data is essential to keeping our service free to users. If you do not want your personal information collected, please do not submit it. If you do submit your email or postal addresses online, you may receive periodic mailings from us, or our partners, with information on new services or products. If you have already submitted this information and would like for us to remove it from our files, please contact us at the email address privacy@aureate.com. We will use reasonable efforts to delete your information from our existing files. 
+**Personal Information Collection**
 
-Aureate Media also processes software registrations. Because we need to properly charge you credit card, we must ask your name, company name, address, email address, and phone number. From this section, you have the ability to choose not to receive promotional mailings. This information is collected on a secure site using secure socket layer encryption, and has been verified by VeriSign. 
+OrangeSoda is the sole owner of information collected on this website. Any personal information that is collected by us is provided by you strictly on a voluntary basis. You may submit your personal information in a number of ways, depending on the Orange Soda service you are using and your choices while using our services. For example, if you choose to run an advertising campaign through OrangeSoda, during registration we may ask you for, and you may choose to give to us, information such as your name, e-mail address, physical address, telephone number, credit card information or other personal information necessary to complete a transaction or provide services to you. We use this information, such as your email address, **** to send users information about our company, client campaigns and its products and services if requested or if necessary. Out of respect for your privacy, we present the option not to receive these types of communications. We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes by emailing [unsubscribe@orangesoda.com](mailto:unsubscribe@orangesoda.com) at any time **.**
 
-Aureate Media also takes information from software companies and individuals that use Aureate Media's advertising technology in their application. This information is used to keep track of money owed, and issue checks, to the developers. From this section, you have the ability to choose not to receive mailings that are not related to your software. The information we ask is name, email address, phone and fax number, address, tax ID or social security number, and web site. This information can be updated directly from our web site by logging in to our developer login section. 
+You may submit your credit card information online or over the phone when you sign up for our services. We process payments through Propay, Inc., and Authorize.net. These companies do not retain, share, store or use personally identifiable information for any purpose other than billing for our services. 
 
-The information that you provide will be used extensively within the Aureate Network to provide a personalized experience to you. It may also be shared with Aureate's partners that provide the software applications on our network and other third parties related or unrelated to offerings on the Aureate Network. 
+_We will not share or rent this information to others in ways different from what is disclosed in this privacy policy._
 
-**Use of Unique Identifiers**
+**Use of Personal Information**
 
-Upon installation of a software application integrated with our advertising technology, Aureate sets a numerical identifier on your computer. This allows us to measure and report aggregate information to advertisers such as the number of people who see their ad (reach) and the number of times people see their ad (frequency). It also allows us to deliver ads that are more relevant to you and avoid delivering the same ads too many times. 
+As stated above, unless you voluntarily provide personal information for a specific purpose, we do not collect personal information from you. We will never combine any personal information about a user of our site with any aggregate information we collect about that user, whether collected on our site or our Advertising Service. If you choose to provide personal information during registration or when using our services, we use your personal information to provide you with particular product or services that you request. If your personal information changes, you may correct, update or delete it by emailing our Customer Support at [ cs@orangesoda.com](mailto:cs@orangesoda.com) or by calling 1-800-637-9140. 
 
-On the Aureate web site, Aureate may use cookie technology to monitor user activity. Users can control this data collection and targeting method by setting cookie control options in their browser (Netscape, Microsoft, etc.) or by managing the contents of the cookies.txt file directly or by using 3rd party cookie management tools. Other than the developer login section described below, disabling cookies does not hinder access or functionality of the site. 
+OrangeSoda will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. However, we may transfer personal information in connection with a sale or merger of OrangeSoda or the division responsible for the services provided to you. We may also share your personal information, such as your email address, mailing address, etc., with our technical consultants, third party auditors and other third parties who make our site available, enhance its functionality or provide associated services and/or who deal with you in processing your orders and/or delivering content, samples, products, services and gifts and prizes. These third parties are not allowed to use personal information except for the purposes of providing the applicable services. In addition, we reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our website. Our site and services are maintained in the 
 
-Aureate Media also uses cookies on the developer login section of the site to remember the developer's password while browsing. Due to this security measure, we are not able to allow access to this part of our site if the user has disabled cookies in his or her browser. 
+United States of America
 
-Aureate also may use information such as browser type, operating system, and ISP, to both target advertisements as well as compile site demographics. 
+. By using the site and/or services, you authorize the export of personal information to the 
 
-**Security**
+USA
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. All information is for our accounting and registration purposes only. Only authorized employees of Aureate Media will have access to this information. 
+and its storage and use as specified in this policy.
 
-**Correcting and Updating**
+_Other Information We Collect and Use_  
+We may collect non-personally identifiable information with cookies, such as IP address, browser type and version, and pages you view. We also keep track of how you got to our site and any links you click on to leave our site. Once you leave our site, we do not track you. This aggregate information is analyzed and combined with similar aggregate information of other users and may be collected both on our site and on other sites in our Advertising Service. We may share aggregate information with our business partners and other third parties. Such aggregate information is anonymous and does not identify any individual user, and we do not link this automatically-collected data to personally identifiable information. We use proprietary Otracking.com persistent cookies and adhere to a strict P3P tracking policy (for more information, visit <http://otracking.com/w3c/policy.html>). You can remove persistent cookies by following directions on your Internet browser’s “help” file. If you reject cookies, you may still use our site, but your ability to use some areas of our site may be limited. We use your website activity to assist us in offering you a personalized Web experience, assist you with technical support, diagnose problems with our server, and administer our websites and to tailor our product and service offerings to you. This privacy statement covers the use of cookies by this site only and does not cover the use of cookies by any advertisers **.**
 
-Software developers who have registered with Aureate Media are able to update and correct their personally identifiable data from our web site. This can be done by logging in to the developer login section of the site and clicking on the check box at the bottom of the contact Info page. 
+**Third Party Website Links**
 
-Because Aureate does not ask personally identifiable data from software users, it is not currently possible for a user of a software application integrated with Aureate's advertising technology to update or correct their anonymous information from the database. 
+Some of our websites provide links to third-party websites, such as those of our affiliates, business partners and advertisers. We have no access to or control over their practices. Because OrangeSoda does not control the information policies or practices of these third parties websites, you should review their privacy policies to learn more about how they collect and use personal information. 
 
-**Deleting and Deactivating**
+**Security Information**
 
-Software developers who have registered with Aureate Media are able to deactivate themselves from mailings not pertinent to the software they have on our network. This can be done by logging in to the developer login section of the site and clicking on the check box at the bottom of the contact Info page. Because Aureate does not ask personally identifiable data from software users, it is not currently possible for a user of a software application integrated with Aureate's advertising technology to delete or deactivate their anonymous information from the database. 
+OrangeSoda stores all data using industry standard security devices, such as firewalls and encryption protocols, to prevent against unauthorized access to our data. We have put in place reasonable physical, electronic, and managerial procedures coupled with carefully developed security procedures to protect your information from loss, misuse or unauthorized alteration. When we ask for sensitive information, such as credit card numbers, we protect it through the use of the Secure Socket Layer (SSL) protocol which provides encryption during transmission. 
 
-**Third Party Privacy**
+We have put in place policies to restrict access to your information by our employees. Our employees are trained to safeguard your information. Additionally, we use internal and external resources to review the adequacy of our security procedures. 
 
-Please be aware that Aureate advertisers or Web sites that have links in software on our network may collect personally identifiable information about you. This privacy statement does not cover the information practices of those Web sites linked from software on the Aureate Network. From time to time, Aureate works with third-party ad servers such as Flycast, 24/7 Media, DoubleClick, AdForce, AdSmart, TeknoSurf, and others to serve advertising to the Aureate Network. Please visit these providers individually to learn more about how they handle privacy. 
+**Protection for Children**
+
+We do not knowingly collect personal information from anyone under the age of 13. 
+
+**TRUSTe Privacy Program**
+
+OrangeSoda is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the website [www.orangesoda.com](http://www.orangesoda.com/). Because we want to demonstrate our commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe. 
+
+If you have questions or concerns regarding this statement, you should first contact Tamara at privacypolicy@orangesoda.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contract TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liason with us to resolve your concerns. 
+
+**Changes to This Privacy Policy**
+
+Our Privacy Policy may change from time to time. If we decide to change our privacy policy, we will post these changes to this privacy statement on [www.orangesoda.com](http://www.orangesoda.com/) and other places we deem appropriate so you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. Your continued use of the site after such changes have been posted indicates your consent and acceptance of such changes.
+
+**Effective Date**
+
+This Privacy Policy is effective and was last updated on April 6, 2007 
+
+OrangeSoda, Inc.   
+cs@orangesoda.com   
+503 East Technology Avenue   
+Orem,Utah 84097   
+1-800-637-9140   
+****
