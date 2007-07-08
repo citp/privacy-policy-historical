@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the titanpoker.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205235356id_/http%3A//www.titanpoker.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titanpoker.com privacy policy that was archived on 2007-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070708212652id_/http%3A//www.titanpoker.com/privacy.html) for the most accurate reproduction.*
 
-# Online Titan Poker
+# Online Poker rooms - play poker games at Titanpoker.com | Privacy Policy
 
-[Home](https://web.archive.org/web/20061205235356id_/http%3A//www.titanpoker.com/index.html) > [About Us](https://web.archive.org/web/20061205235356id_/http%3A//www.titanpoker.com/about.html) > Privacy Policy 
+## Privacy Policy
+
+**Back to our** [About Titan Poker Page](https://web.archive.org/web/20070708212652id_/http%3A//www.titanpoker.com/m_about.html). 
 
 Titan Poker and its subsidiaries are committed to respecting and protecting your privacy. The following statement discloses the information gathered by Titan Poker.
 
@@ -24,4 +26,4 @@ Your winnings and cash-outs are kept strictly confidential, and winnings informa
 
 ## Security
 
-We maintain the utmost available means to ensure that your information remains safe with us. All information is transferred using encryption technologies and once stored on our servers, it is maintained safe using the latest firewall technologies available today. Both our web site and software use all available means to maintain data accuracy and privacy and to protect your data from being misused and/or lost. If you have any other questions or concerns regarding data privacy and security please do not hesitate to contact our [Customer Support](https://web.archive.org/web/20061205235356id_/http%3A//www.titanpoker.com/support.html) center at any time, 24 hours a day, 7 days a week. Our representatives will be more than happy to assist you.
+We maintain the utmost available means to ensure that your information remains safe with us. All information is transferred using encryption technologies and once stored on our servers, it is maintained safe using the latest firewall technologies available today. Both our web site and software use all available means to maintain data accuracy and privacy and to protect your data from being misused and/or lost. If you have any other questions or concerns regarding data privacy and security please do not hesitate to contact our [Customer Support](https://web.archive.org/web/20070708212652id_/http%3A//www.titanpoker.com/support.html) center at any time, 24 hours a day, 7 days a week. Our representatives will be more than happy to assist you.
