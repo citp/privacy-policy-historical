@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lipitor.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630183540id_/http%3A//pfizer.com/pfizer/privacy/mn_privacy_truste.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lipitor.com privacy policy that was archived on 2007-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070708100513id_/http%3A//pfizer.com/pfizer/privacy/mn_privacy_truste.jsp) for the most accurate reproduction.*
 
 # Pfizer | Privacy Policy
 
