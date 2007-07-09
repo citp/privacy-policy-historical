@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jgwentworth.com privacy policy that was archived on 2007-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070427175529id_/http%3A//www.jgwentworth.com/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jgwentworth.com privacy policy that was archived on 2007-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070710005835id_/http%3A//www.jgwentworth.com/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # JG Wentworth | Privacy Policy
 
@@ -52,7 +52,7 @@ Maintaining the accuracy of your information is a shared responsibility. We main
 
 **Updates to our Privacy Policy**
 
-From time to time we may change our Privacy Policy. If our information practices change, we will post the changed policy to our website at [www.jgwentworth.com](https://web.archive.org/web/20070427175529id_/http%3A//www.jgwentworth.com/ "www.jgwentworth.com"). We reserve the right to change this policy at any time. 
+From time to time we may change our Privacy Policy. If our information practices change, we will post the changed policy to our website at [www.jgwentworth.com](https://web.archive.org/web/20070710005835id_/http%3A//www.jgwentworth.com/ "www.jgwentworth.com"). We reserve the right to change this policy at any time. 
 
 **Linked Websites**
 
