@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printo.in privacy policy that was archived on 2007-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070515193800id_/http%3A//www.printo.in/PrivacyPolicy/tabid/80/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printo.in privacy policy that was archived on 2007-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070709020338id_/http%3A//www.printo.in/PrivacyPolicy/tabid/80/Default.aspx) for the most accurate reproduction.*
 
 # Printo - Privacy Policy
 
