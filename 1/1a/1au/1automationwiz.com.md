@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1automationwiz.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429221037id_/http%3A//www.1automationwiz.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1automationwiz.com privacy policy that was archived on 2007-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070709050915id_/http%3A//1automationwiz.com/privacy.htm) for the most accurate reproduction.*
 
 # Shopping Cart Software and Autoresponder Accounts
 
@@ -26,7 +26,7 @@ The free trial was so effective and the customer support so excellent that you w
 Zach Waldman  
 ceospecialevent.com
 
-[Read More Rave Reviews](https://web.archive.org/web/20070429221037id_/http%3A//www.1automationwiz.com/shopping-cart-reviews.htm)  
+[Read More Rave Reviews](https://web.archive.org/web/20070709050915id_/http%3A//1automationwiz.com/shopping-cart-reviews.htm)  
   
 |   
 |   
