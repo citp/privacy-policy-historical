@@ -1,37 +1,8 @@
-> *The following text is extracted and transformed from the dnelist.com privacy policy that was archived on 2007-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070206195849id_/http%3A//img.directtrack.com/dnelist_images/DNEList_Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnelist.com privacy policy that was archived on 2007-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070710032204id_/http%3A//img.directtrack.com/dnelist_images/DNEList_Privacy_Policy.pdf) for the most accurate reproduction.*
 
-# P
+# M
 
-                                             DNELIST PRIVACY POLICY
-DNEList is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit
-organization whose mission is to build user’s trust and confidence in the Internet by promoting
-the use of fair information practices. This privacy statement covers the site:
-http://www.dnelist.com. Because this Web site wants to demonstrate its commitment to your
-privacy, it has agreed to disclose its information practices and have its privacy practices reviewed
-for compliance by TRUSTe.
-. By displaying the TRUSTe trustmark, DNEList has agreed to notify users of:
-       1.    What personally identifiable information DNEList collects.
-       2.    What personally identifiable information third parties collect through the Web site.
-       3.    What organization collects the information.
-       4.    How DNEList uses the information.
-       5.    With whom DNEList may share user information.
-       6.    What choices are available to users regarding collection, use and distribution of the
-             information.
-       7.    What measures DNEList takes to protect the information under its control.
-       8.    How users can correct any inaccuracies in the information.
-If you have questions or concerns regarding this statement, you should first contact Matt Haag at
-matt.haag@directresponse.com. If you do not receive acknowledgement of your inquiry or your
-inquiry has not been satisfactorily address, you should contact TRUSTe at
-http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison
-with us to resolve your concerns.
-The TRUSTe program covers only information that is collected through this Web site, and does
-not cover information that may be collected through other divisions of parent company Direct
-Response Technologies and/or Digital River, Inc.
-Effective Date: 05/12/2006
-Last Updated: 07/19/2006
-DNEList Privacy Statement                                                                           1
-
-
+                                    DNELIST PRIVACY POLICY
 MERCHANT PRIVACY POLICY:
 Information Collection and Use
 1) All email addresses collected either by directly you or by your affiliates on your behalf belong
@@ -48,12 +19,12 @@ Information Collection and Use
          suppression file downloads.
 3) In order to use this Web site, you must first complete the registration. During registration
      you are required to provide contact information such as:
-        Name,
-        email address,
-        mailing address,
-        phone number,
-        fax number, and
-        A valid credit card—for billing purposes only.
+        Name,
+        email address,
+        mailing address,
+        phone number,
+        fax number, and
+        A valid credit card—for billing purposes only.
 4) By registering for this service, you agree that DNEList may contact you directly in order to
      communicate such messages as planned system outages, product release notes, marketing
      specials, and any other communications deemed relevant.
@@ -71,11 +42,11 @@ http://www.dnelist.com/u/c73355df7860404281cdbf71da078437814 .
 Information Sharing and Disclosure
 1) DNEList.com currently partners with LashBack, Inc to provide high-level reputation
      management services to you on our site.
+DNEList Privacy Statement                                                                          1
+
+
      a) When a consumer opts out we will provide LashBack such information as the list(s) they
-         are opting out from and which affiliate generated this specific opt out request.
-DNEList Privacy Statement                                                                          2
-
-
+           are opting out from and which affiliate generated this specific opt out request.
      b) LashBack is prohibited from using your personally identifiable information for any other
            purpose.
 2) We reserve the right to disclose your personally identifiable information as required by law
@@ -116,7 +87,7 @@ acquisition by another company, or sale of all or a portion of its assets, your 
 identifiable information will likely be among the assets transferred. You will be notified via
 prominent notice on our Web site for 30 days of any such change in ownership or control of your
 personal information.
-DNEList Privacy Statement                                                                           3
+DNEList Privacy Statement                                                                           2
 
 
 Changes in this Privacy Statement
@@ -131,12 +102,11 @@ Contact Us
 If you have questions or concerns regarding this statement, you should first contact our support
 center by emailing DNEList@help.directresponse.com. If yours is an urgent matter, you may
 contact:
-         Matt Haag, Director, DNEList
-         matt.haag@directresponse.com
+         Direct Response Technologies, Inc.
          730 Holiday Drive
          Foster Plaza, Building 8, 3rd Floor
          Pittsburgh, PA 15220
-DNEList Privacy Statement                                                                        4
+DNEList Privacy Statement                                                                        3
 
 
 AFFILIATE
@@ -147,12 +117,12 @@ and, therefore, could potentially be viewed by other affiliates.
 In order to use this Web site, you must first complete the registration form. During registration
 you are required to provide contact information such as name, email address, mailing address,
 phone number and fax number.
-          If you are accessing DNEList thru the affiliate interface of DirectTrack, then your
+          If you are accessing DNEList thru the affiliate interface of DirectTrack, then your
            registration is already on file and all policies and procedures agreed to during that initial
            registration process will be in effect. Your information is owned by the merchant to
            whose account you are registering. You will never be contacted by DNEList.com or any
            affiliated organization for marketing purposes.
-          If you are registering thru DNEList to gain access to multiple merchant suppression lists,
+          If you are registering thru DNEList to gain access to multiple merchant suppression lists,
            your contact information will be accessible to all merchants that you apply to. Therefore,
            they may use your information for their own individual purposes and are not covered in
            this privacy statement.
@@ -181,7 +151,7 @@ Information Sharing and Disclosure
      a judicial proceeding, court order, or legal process served on our Web site.
 3) A cookie is a small text file that is stored on a user’s computer for record-keeping purposes.
      We use cookies on this site. We do not link the information we store in cookies to any
-DNEList Privacy Statement                                                                                5
+DNEList Privacy Statement                                                                                4
 
 
      personally identifiable information you submit while on our site.
@@ -220,12 +190,11 @@ Contact Us
 If you have questions or concerns regarding this statement, you should first contact our support
 center by emailing DNEList@help.directresponse.com. If yours is an urgent matter, you may
 contact:
-           Matt Haag, Director, DNEList
-           matt.haag@directresponse.com
+           Direct Response Technologies, Inc
            730 Holiday Drive
            Foster Plaza, Building 8, 3rd Floor
            Pittsburgh, PA 15220
-DNEList Privacy Statement                                                                          6
+DNEList Privacy Statement                                                                          5
 
 
 CONSUMER:
@@ -233,10 +202,10 @@ Information Collection and Use
 You are electing to unsubscribe from a list owned and managed by one of our merchant clients
 that license our service to be CAN-SPAM compliant. For our internal reporting & auditing
 procedures, while you are opting out, we collect the following information:
-   Email address,
-   Date/time of opt out request
-   Opt out link clicked to arrive at this page
-   IP address used when opting out
+   Email address,
+   Date/time of opt out request
+   Opt out link clicked to arrive at this page
+   IP address used when opting out
 1) DNEList does not use cookies or any other type tracking in any way on this website.
 2) To remain CAN-SPAM compliant these merchants will need to distribute your email address to
     their third party affiliate partners to ensure that you no longer receive unwanted email
@@ -270,7 +239,7 @@ Location of Data and Security
 Your information may be stored and processed in the United States or any other country in which
 DNEList or its affiliates, subsidiaries or agents maintain facilities, and by using this Site, you
 consent to any such transfer of information outside of your country.
-DNEList Privacy Statement                                                                             7
+DNEList Privacy Statement                                                                             6
 
 
 We use procedural and technical safeguards to protect your personal information against loss or
@@ -295,9 +264,8 @@ Contact Us
 If you have questions or concerns regarding this statement, you should first contact our support
 center by emailing DNEList@help.directresponse.com. If yours is an urgent matter, you may
 contact:
-         Matt Haag, Director, DNEList
-         matt.haag@directresponse.com
+         Direct Response Technologies, Inc.
          730 Holiday Drive
          Foster Plaza, Building 8, 3rd Floor
          Pittsburgh, PA 15220
-DNEList Privacy Statement                                                                          8
+DNEList Privacy Statement                                                                          7
