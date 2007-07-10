@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shareresults.com privacy policy that was archived on 2007-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070209204558id_/http%3A//www.shareresults.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareresults.com privacy policy that was archived on 2007-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070710064620id_/http%3A//www.shareresults.com/privacy.php) for the most accurate reproduction.*
 
-# Share Results Affiliate Network - Affiliate Programs for Selective Ecommerce Merchants
+# Share Results Affiliate Network - Privacy Policy
 
 Share Results believes that protecting your privacy is important, and we strive to keep sensitive and personal information confidential. We urge you to read our policy in order to better understand how the information you provide to us and that we may otherwise collect may be used. If you have any questions, please do not hesitate to contact us at [info@shareresults.com](mailto:info@shareresults.com).
 
