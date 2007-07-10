@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iranianpersonals.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018075309id_/http%3A//www.iranianpersonals.com/personals/privacy.cfm%3FsiteIDD%3D39) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iranianpersonals.com privacy policy that was archived on 2007-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070710170857id_/http%3A//www.iranianpersonals.com/personals/privacy.cfm%3FsiteIDD%3D39) for the most accurate reproduction.*
 
 # Iranian Personals - Safe Online Dating and Friendship Site for Iranian Men and Women
 
@@ -62,6 +62,6 @@ World Singles gives you the opportunity to: opt-out of certain communications; m
 
 If you have any questions about this Privacy Statement, the practices of this site, or your dealings with the IranianPersonals.com website, you can contact: 
 
-[info@worldsingles.com](mailto:info@worldsingles.com) or call us at +1 949-215-7313.
+[info@worldsingles.com](mailto:info@worldsingles.com) or call us at +1 949-743-2535.
 
 | 
