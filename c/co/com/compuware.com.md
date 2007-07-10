@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compuware.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017121042id_/http%3A//www.compuware.com/corporate/602_ENG_HTML.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compuware.com privacy policy that was archived on 2007-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070710132424id_/http%3A//www.compuware.com/corporate/602_ENG_HTML.htm) for the most accurate reproduction.*
 
 # Compuware Corporation - Our Commitment to Privacy
 
