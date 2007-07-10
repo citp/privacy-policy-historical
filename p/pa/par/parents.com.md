@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parents.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629133031id_/http%3A//www.parents.com/parents/file.jhtml%3Fitem%3D/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parents.com privacy policy that was archived on 2007-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070710201834id_/http%3A//www.parents.com/parents/file.jhtml%3Fitem%3D/legal/privacy) for the most accurate reproduction.*
 
 # Parents.com
 
@@ -136,3 +136,7 @@ Many of the third-party offers promoted through our websites are brought to our 
 From time to time, we may offer co-sponsored sweepstakes, contests and other promotions with third-party advertisers and other partners. We may share your registration information with third-parties involved in a co-sponsored promotion, who will always be identified in the promotion materials (for example, in the official rules). If you do not want your registration information to be disclosed to these third-parties, please do not register for any of our co-sponsored promotions.
 
 Return to top 
+
+  
+|  |  |   
+---|---|---|---
