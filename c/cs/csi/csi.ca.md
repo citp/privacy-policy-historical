@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csi.ca privacy policy that was archived on 2006-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061003072733id_/https%3A//www.csi.ca/student/en_ca/student/policies/privacy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csi.ca privacy policy that was archived on 2007-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070710171702id_/https%3A//www.csi.ca/student/en_ca/student/policies/privacy.xhtml) for the most accurate reproduction.*
 
 # CSI - Policies & Guidelines: CSI's privacy commitment
 
@@ -114,8 +114,8 @@ If you have any questions or concerns about CSI's privacy policy, or if you have
 You can contact the Privacy Officer at:
 
 **CSI**  
-121 King Street West, 15th Floor  
-Toronto, ON M5H 3T9
+200 Wellington Street West, 15th Floor  
+Toronto, ON M5V 3G2
 
 Email: [privacy_officer@csi.ca](mailto:privacy_officer@csi.ca)
 
