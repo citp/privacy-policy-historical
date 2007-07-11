@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bonappetit.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626171620id_/http%3A//www.epicurious.com/services/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonappetit.com privacy policy that was archived on 2007-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070711050446id_/http%3A//www.epicurious.com/services/legal/privacy) for the most accurate reproduction.*
 
 # Epicurious.com: Privacy Policy & User Agreement
 
