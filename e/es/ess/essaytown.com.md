@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the essaytown.com privacy policy that was archived on 2007-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070412103709id_/http%3A//www.essaytown.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essaytown.com privacy policy that was archived on 2007-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070711163511id_/http%3A//www.essaytown.com/privacy.html) for the most accurate reproduction.*
 
 # Essay Town - Privacy Policy
 
