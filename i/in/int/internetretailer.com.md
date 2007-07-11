@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the internetretailer.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612165013id_/http%3A//www.internetretailer.com/privacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetretailer.com privacy policy that was archived on 2007-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070711181727id_/http%3A//www.internetretailer.com/privacyPolicy.asp) for the most accurate reproduction.*
 
 # InternetRetailer.com - Press Releases
 
-|  |  [](http://www.internetretailer.com/AdManager/ClickRedirect.asp?b=58&z=11)  
+|  |  [](http://www.internetretailer.com/AdManager/ClickRedirect.asp?b=266&z=11)  
 ---  
 |   
   
