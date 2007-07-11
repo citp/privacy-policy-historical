@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iccsafe.org privacy policy that was archived on 2007-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070517092341id_/http%3A//www.iccsafe.org/help/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iccsafe.org privacy policy that was archived on 2007-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070711160417id_/http%3A//www.iccsafe.org/help/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # ICC Online | Help
 
@@ -114,6 +114,6 @@ Contact ICC
   Int'l calls:  
 708-799-2300
 
-[](https://web.archive.org/cgi-bin/bpgo.pl?to=528&from=%2Fhelp%2FPrivacyPolicy.html&set=ruleset)
+[](https://web.archive.org/cgi-bin/bpgo.pl?to=59&from=%2Fhelp%2FPrivacyPolicy.html&set=ruleset)
 
 | 
