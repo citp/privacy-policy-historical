@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biography.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205192133id_/http%3A//www.biography.com/privacy_statement.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biography.com privacy policy that was archived on 2007-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070711054247id_/http%3A//www.biography.com/privacy_statement.jsp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -138,4 +138,5 @@ Any of the policies or procedures above, and any of our policies or procedures c
 
 This Privacy Policy, ©2006 AETN. All rights reserved.
 
-| 
+|   
+---|---
