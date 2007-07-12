@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scec.org privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609220651id_/http%3A//www.scec.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scec.org privacy policy that was archived on 2007-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070712222842id_/http%3A//www.scec.org/privacy.html) for the most accurate reproduction.*
 
 # SCEC Privacy Policy
 
