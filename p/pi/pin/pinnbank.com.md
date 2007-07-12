@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pinnbank.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213004443id_/http%3A//www.pinnbank.com/content.asp%3Fid%3D144%26cid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinnbank.com privacy policy that was archived on 2007-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070712090007id_/http%3A//www.pinnbank.com/content.asp%3Fid%3D144%26cid%3D1) for the most accurate reproduction.*
 
 # Welcome To Pinnacle Bank Your Home For Online Banking
 
-**»**   [Personal Banking](https://web.archive.org/web/20061213004443id_/http%3A//www.pinnbank.com/default.asp?id=1)[Items of Interest](https://web.archive.org/web/20061213004443id_/http%3A//www.pinnbank.com/content.asp?id=142&cid=1)Privacy Policy
+**»**   [Personal Banking](https://web.archive.org/web/20070712090007id_/http%3A//www.pinnbank.com/default.asp?id=1)[Items of Interest](https://web.archive.org/web/20070712090007id_/http%3A//www.pinnbank.com/content.asp?id=142&cid=1)Privacy Policy
 
  **Pinnacle Bank Customer Privacy Policy**
 
