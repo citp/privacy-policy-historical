@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bancorpsouthonline.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630201758id_/http%3A//www.bancorpsouthonline.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bancorpsouthonline.com privacy policy that was archived on 2007-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070712085533id_/http%3A//www.bancorpsouthonline.com/site/privacy.html) for the most accurate reproduction.*
 
 # BancorpSouth
 
@@ -100,8 +100,8 @@ _Affiliate Sharing/Nonaffiliated Third Party:_ Other than disclosures permitted 
 
 _These Privacy Principles apply to our consumer customers who have a continuing relationship with us and may be applicable to former customers. These principles are currently applicable to BancorpSouth banks and the subsidiaries, affiliates, divisions, departments and companies making up the BancorpSouth family in the conduct of their consumer business. We may change these principles, along with related provisions, at any time._
 
-To print a copy of our opt out form. [Click here](https://web.archive.org/web/20070630201758id_/http%3A//www.bancorpsouthonline.com/site/opt_out.pdf). 
+To print a copy of our opt out form. [Click here](https://web.archive.org/web/20070712085533id_/http%3A//www.bancorpsouthonline.com/site/opt_out.pdf). 
 
-(To view and print our opt out form, you must have Adobe Acrobat Reader installed on your computer. To obtain a free copy, [click here](https://web.archive.org/web/20070630201758id_/http%3A//www.bancorpsouthonline.com/site/adobe_redirect.html).) 
+(To view and print our opt out form, you must have Adobe Acrobat Reader installed on your computer. To obtain a free copy, [click here](https://web.archive.org/web/20070712085533id_/http%3A//www.bancorpsouthonline.com/site/adobe_redirect.html).) 
 
 _Effective Date: This policy was last updated on June 2002._
