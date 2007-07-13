@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pooltracker.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117023156id_/http%3A//www.pooltracker.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pooltracker.com privacy policy that was archived on 2007-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070713185540id_/http%3A//www.pooltracker.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Pooltracker: privacy policy
 
