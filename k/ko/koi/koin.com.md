@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koin.com privacy policy that was archived on 2007-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070218003203id_/http%3A//www.koin.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koin.com privacy policy that was archived on 2007-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070714175404id_/http%3A//www.koin.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
 
 # KOIN News 6 for Local News Weather and Sports, Portland, OR; KOIN.com - This Web Site’s Privacy Policy
 
