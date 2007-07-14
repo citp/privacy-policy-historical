@@ -1,32 +1,7 @@
-> *The following text is extracted and transformed from the shopkami.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513170950id_/http%3A//shopkami.com/content/view/22/25) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopkami.com privacy policy that was archived on 2007-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070714203743id_/http%3A//shopkami.com/content/view/22/25) for the most accurate reproduction.*
 
-# Consumer Electronics : Car DVD Player - Privacy Notice
+# Shop Kami - Privacy Notice
 
-Rear-View mirror 6inch LCD monitor with radar system and camera   
-[](http://shopkami.com/component/page,shop.product_details/category_id,84/flypage,shop.flypage/product_id,468/option,com_virtuemart/Itemid,26/ "Rear-View mirror 6inch LCD monitor with radar system and camera")  
-$101.75
-
-Car DVD Player Two Din with 6.5-inch(16:9) TFT-LCD   
-[](http://shopkami.com/component/page,shop.product_details/category_id,51/flypage,shop.flypage/product_id,405/option,com_virtuemart/Itemid,26/ "Car DVD Player Two Din with 6.5-inch\(16:9\) TFT-LCD")  
-$214.37
-
-Promotion Item - MP4 Player with 2.2 TFT screen, stell casing   
-[](http://shopkami.com/component/page,shop.product_details/category_id,84/flypage,shop.flypage/product_id,608/option,com_virtuemart/Itemid,26/ "Promotion Item - MP4 Player with 2.2  TFT screen, stell casing")  
-$41.00
-
-Portable DVD Player, 7inch widescreen (16:9) Colour TFT Display   
-[](http://shopkami.com/component/page,shop.product_details/category_id,88/flypage,shop.flypage/product_id,874/option,com_virtuemart/Itemid,26/ "Portable DVD Player, 7inch widescreen \(16:9\) Colour TFT Display")  
-$149.70
-
-Car DVD Player 2-DIN - Touchscreen - 6.5 Inch TFT   
-[](http://shopkami.com/component/page,shop.product_details/category_id,44/flypage,shop.flypage/product_id,403/option,com_virtuemart/Itemid,26/ "Car DVD Player 2-DIN  - Touchscreen - 6.5 Inch TFT")  
-$293.96
-
-|  | 
-
-|  Privacy Notice  |  [ ](http://shopkami.com/index2.php?option=com_content&do_pdf=1&id=22 "PDF") |  [ ](http://shopkami.com/index2.php?option=com_content&task=emailform&id=22&itemid=25 "E-mail")  
----|---|---  
-  
   
 Shop Kami values the privacy of our visitors/customers and takes every known 
 
@@ -61,54 +36,3 @@ You have the option of disabling your computer’s ability to accept or transmit
 ##  NOTICE OF CHANGES TO THIS PRIVACY POLICY
 
 We reserve the right to change this privacy policy at any time. However, if any changes do occur, we will publish the changes to our web site and post a notice on the home page that a new privacy policy has been implemented. We will also take reasonable steps to contact you personally to let you know of the new changes. Should the company be bought or sold to someone else, we will take reasonable steps to notify you personally. You will then be given the option to keep your account open or to terminate. 
-
-[ < Prev](http://shopkami.com/content/view/23/25/) |   |  [ Next >](http://shopkami.com/content/view/21/25/)  
----|---|---  
-  
-[ Back ] 
-
-### Product Search 
-
-Search
-
-### Your Cart
-
-|  [ Show Cart](http://shopkami.com/component/page,shop.cart/option,com_virtuemart/Itemid,26/)  
----  
-Your Cart is currently empty.  
-  
-### Hot Selling Products
-
-01 |  [ Watch Mp3 Player 1G - Port of USB 2.0 ](http://shopkami.com/component/page,shop.product_details/flypage,shop.flypage/product_id,761/category_id,6/option,com_virtuemart/Itemid,26/)  
----|---  
-02 |  [ Promotion Item - MP4 Player with 1.8 TFT 26k color screen ](http://shopkami.com/component/page,shop.product_details/flypage,shop.flypage/product_id,609/category_id,7/option,com_virtuemart/Itemid,26/)  
-03 |  [ MP4 Player 1.8-inch Screen New Style Stainless Metal Shell ](http://shopkami.com/component/page,shop.product_details/flypage,shop.flypage/product_id,96/category_id,7/option,com_virtuemart/Itemid,26/)  
-04 |  [ Wired Color CCD Camera With Adapter CE, 420TV Lines ](http://shopkami.com/component/page,shop.product_details/flypage,shop.flypage/product_id,659/category_id,17/option,com_virtuemart/Itemid,26/)  
-05 |  [ MP4 Player 256MB, 2M Pixel, 2.5-inch LCD, Metal casing, SD Slot ](http://shopkami.com/component/page,shop.product_details/flypage,shop.flypage/product_id,199/category_id,7/option,com_virtuemart/Itemid,26/)  
-  
-### Newsletter Subscribe
-
-Subscribe to the Shop Kami Newsletter, we will update you latest product, promotion, review news. Just key in your name and email here.
-
-  
-Name  
-  
-E-mail
-
-Subscribe  
-Unsubscribe   
-
-
-[ Read Newsletter Archive](http://shopkami.com/component/option,com_letterman/)
-
-[Recommend Us](http://shopkami.com/index.php?option=com_recommend)   
-
-
-[Link to Us](http://shopkami.com/component/option,com_weblinks/catid,13/Itemid,23/)
-
-### Bookmark Us
-
-   
-   
-   
-
