@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelsmith.com privacy policy that was archived on 2006-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061201041136id_/http%3A//www.travelsmith.com/jump.jsp%3FitemType%3DCATEGORY%26itemID%3D131%26path%3D1%252C3%252C129%252C131) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelsmith.com privacy policy that was archived on 2007-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070714185009id_/http%3A//www.travelsmith.com/jump.jsp%3FitemType%3DCATEGORY%26itemID%3D131%26path%3D1%252C3%252C129%252C131) for the most accurate reproduction.*
 
 # TravelSmith - Your Privacy Rights
 
