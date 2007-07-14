@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the friendsreuniteddating.co.uk privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506032353id_/http%3A//www.friendsreuniteddating.co.uk/newfriends.ASP%3Fwci%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendsreuniteddating.co.uk privacy policy that was archived on 2007-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070714202526id_/http%3A//www.friendsreuniteddating.co.uk/newfriends.ASP%3Fwci%3Dprivacy) for the most accurate reproduction.*
 
 # Dating UK • Friends Reunited Dating
 
@@ -67,13 +67,13 @@ We have security measures in place to protect our customer database and access t
 
 
   
-You may have your registration details removed at any time. To remove yourself please [click here](https://web.archive.org/web/20070506032353id_/http%3A//www.friendsreuniteddating.co.uk/join.asp?wci=unregister) and we will remove all your Member Details. 
+You may have your registration details removed at any time. To remove yourself please [click here](https://web.archive.org/web/20070714202526id_/http%3A//www.friendsreuniteddating.co.uk/join.asp?wci=unregister) and we will remove all your Member Details. 
 
   
 We reserve the right to communicate such of a Member's personal information as we hold to third parties which seek the disclosure of it, and which make a legally-compliant request for its disclosure. 
 
   
-We will retain your personal data only as long as is necessary for the purposes to which you consent under the [Friends Reunited Dating Terms and Conditions](https://web.archive.org/web/20070506032353id_/http%3A//www.friendsreuniteddating.co.uk/newfriends.asp?wci=terms) and this Privacy Policy, or as is required by applicable law, and then we will delete it. 
+We will retain your personal data only as long as is necessary for the purposes to which you consent under the [Friends Reunited Dating Terms and Conditions](https://web.archive.org/web/20070714202526id_/http%3A//www.friendsreuniteddating.co.uk/newfriends.asp?wci=terms) and this Privacy Policy, or as is required by applicable law, and then we will delete it. 
 
   
 If you have any questions about this Privacy Policy, the practices of the Friends Reunited Dating Service, or your dealings with Friends Reunited Dating, you can contact us on support@FriendsReunitedDating.co.uk. You can also use this address if you wish to request from Friends Reunited Dating a copy of the personal data we hold about you or a description of that data. Please note that by law we are entitled to charge you a small sum for providing this information. 
@@ -85,5 +85,5 @@ The Friends Reunited Dating Service contains links to other sites. Friends Reuni
 You can obtain further information about data protection laws by visiting the Information Commissioner's website at www.dataprotection.gov.uk. You can search for our Data Protection Notification there, should you so wish. 
 
   
-If we change this Privacy Policy, we will notify you of the changed document in the same way as we notify changes to the [Friends Reunited Dating Terms and Conditions](https://web.archive.org/web/20070506032353id_/http%3A//www.friendsreuniteddating.co.uk/newfriends.asp?wci=terms).  
+If we change this Privacy Policy, we will notify you of the changed document in the same way as we notify changes to the [Friends Reunited Dating Terms and Conditions](https://web.archive.org/web/20070714202526id_/http%3A//www.friendsreuniteddating.co.uk/newfriends.asp?wci=terms).  
 
