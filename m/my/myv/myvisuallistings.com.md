@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myvisuallistings.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513123445id_/http%3A//www.myvoicemessage.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myvisuallistings.com privacy policy that was archived on 2007-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070715175208id_/http%3A//www.myvoicemessage.com/privacy-policy.html) for the most accurate reproduction.*
 
 # My Voice Message - STAYING IN TOUCH With Your Clients Just Got Easier
 
