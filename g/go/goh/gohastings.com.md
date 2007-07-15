@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gohastings.com privacy policy that was archived on 2006-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061030033703id_/http%3A//www.gohastings.com/Help/newuser/safeshopping.stm%23safeprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gohastings.com privacy policy that was archived on 2007-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070715214733id_/http%3A//www.gohastings.com/Help/newuser/safeshopping.stm%23safeprivacy) for the most accurate reproduction.*
 
 # GoHastings.com
 
