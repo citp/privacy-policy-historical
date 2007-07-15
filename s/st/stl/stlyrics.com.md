@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stlyrics.com privacy policy that was archived on 2006-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061112215545id_/http%3A//www.stlyrics.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stlyrics.com privacy policy that was archived on 2007-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070715210421id_/http%3A//www.stlyrics.com/privacy.htm) for the most accurate reproduction.*
 
 # SoundTrack Lyrics - Privacy Policy
 
@@ -8,7 +8,7 @@ Stlyrics.com has created this privacy statement in order to demonstrate our comm
 **We use your IP address to help diagnose problems with our server and to administer our Web site.
 
 **Advertisers  
-**We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. Amazon.com [privacy policy](http://rcm.amazon.com/e/cm/privacy-policy.html?o=1). AllPosters.com [privacy policy](http://www.allposters.com/help/guarantee.asp#privacy). Adtegrity.com [privacy policy](http://www.adtegrity.com/privacy.asp), Freeze.com [privacy policy.](https://web.archive.org/web/20061112215545id_/http%3A//www.stlyrics.com/regman.freeze.com/freeze/unified/privacy.html)   
+**We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. Amazon.com [privacy policy](http://rcm.amazon.com/e/cm/privacy-policy.html?o=1). AllPosters.com [privacy policy](http://www.allposters.com/help/guarantee.asp#privacy). Adtegrity.com [privacy policy](http://www.adtegrity.com/privacy.asp), Freeze.com [privacy policy.](https://web.archive.org/web/20070715210421id_/http%3A//www.stlyrics.com/regman.freeze.com/freeze/unified/privacy.html)   
 **Third Party Advertising**  
 We use BUDS INC and other third-party advertising companies to serve ads  
 when you visit our Web site. These companies may use information (not  
@@ -43,5 +43,5 @@ The copyright law of the United States (Title 17, U.S. Code) governs the making 
 or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be "used for any purpose other than private study, scholarship, or research." If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of "fair use," that user may be liable for copyright infringement. 
 
 **Contacting the Web Site  
-**If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20061112215545id_/http%3A//www.stlyrics.com/contact.htm).  
+**If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20070715210421id_/http%3A//www.stlyrics.com/contact.htm).  
 
