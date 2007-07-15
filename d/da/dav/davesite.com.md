@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davesite.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017223930id_/http%3A//www.davesite.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davesite.com privacy policy that was archived on 2007-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070715203127id_/http%3A//davesite.com/privacy.shtml) for the most accurate reproduction.*
 
 # Our Privacy Policy - davesite.com
 
