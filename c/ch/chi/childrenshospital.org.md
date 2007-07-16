@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the childrenshospital.org privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606173448id_/http%3A//www.childrenshospital.org/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the childrenshospital.org privacy policy that was archived on 2007-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070716235749id_/http%3A//www.childrenshospital.org/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy - Children's Hospital Boston
 
