@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thestage.co.uk privacy policy that was archived on 2007-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070308105250id_/http%3A//www.thestage.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestage.co.uk privacy policy that was archived on 2007-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070716023854id_/http%3A//www.thestage.co.uk/privacy.php) for the most accurate reproduction.*
 
 # The Stage | Privacy policy
 
@@ -10,7 +10,7 @@ We take the protection of the privacy of persons visiting the [www.thestage.co.u
 
 ## How and why we collect information from you
 
-We may collect information from you when you seek to use the Website's [StageTalk](https://web.archive.org/web/20070308105250id_/http%3A//www.thestage.co.uk/stagetalk/) forum or if you wish to subscribe to The Stage's newspaper.  The information we collect from you enables us to verify the identity of persons posting messages on StageTalk, moderate StageTalk and prevent inappropriate messages being posted on StageTalk.  It also allows us to process subscription requests for The Stage's newspaper.
+We may collect information from you when you seek to use the Website's [StageTalk](https://web.archive.org/web/20070716023854id_/http%3A//www.thestage.co.uk/stagetalk/) forum or if you wish to subscribe to The Stage's newspaper.  The information we collect from you enables us to verify the identity of persons posting messages on StageTalk, moderate StageTalk and prevent inappropriate messages being posted on StageTalk.  It also allows us to process subscription requests for The Stage's newspaper.
 
 Where you seek to subscribe to The Stage's newspaper, we may ask you to supply us with your credit card details.  Your credit card details will be passed via a secure site to The Stage's service provider.
 
