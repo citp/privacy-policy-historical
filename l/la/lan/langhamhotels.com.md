@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the langhamhotels.com privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426174911id_/http%3A//www.langhamhotels.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the langhamhotels.com privacy policy that was archived on 2007-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070716072714id_/http%3A//www.langhamhotels.com/privacy.htm) for the most accurate reproduction.*
 
 # Luxury Hotels Collection - Langham Hotels International
 
   | 
 
-**Great Eagle Hospitality Group ** Online Privacy Statement
+**Great Eagle Hospitality Group** Online Privacy Statement
 
 We, Great Eagle Hospitality Group, (hereinafter referred to as either “we” or “us” or “our” or “Great Eagle Hospitality Group”) respect the privacy of all its customers and business partners, and treats personnal information (personal data) provided by you as confidential. We know that you are concerned how information about you is collected, used and stored, and we appreciate your trust that we will do so with every due care and diligence in accordance with all the relevant laws of the Hong Kong Special Administrative Region. 
 
@@ -31,7 +31,7 @@ We may request information in several areas of our website, including but not li
 
 
 
-We endeavor to collect information strictly in accordance with this Privacy Statement . The types of personally identifiable information (hereinafter collectively referred to as either “the Data” or “personal data”) that we collect may include but not be limited to: 
+We endeavor to collect information strictly in accordance with this Privacy Statement. The types of personally identifiable information (hereinafter collectively referred to as either “the Data” or “personal data”) that we collect may include but not be limited to: 
 
   * Name 
   * Personal Identification Data, e.g. the Hong Kong Identity Card Number 
@@ -117,7 +117,7 @@ Use of or visit this site does not constitute any binding contract over any good
 
 All contents of this website are: ©2005 GREAT EAGLE HOSPITALITY GROUP. L59 Office, Langham Place, 8 Argyle Street, Mongkok, Kowloon, Hong Kong. All rights reserved. Great Eagle Hospitality Group and Great Eagle Hospitality Group’s branded websites logo are registered trademarks or trademarks of Great Eagle Hospitality Group. Other product and company names mentioned herein may be the trademarks of their respective owners. 
 
-Great Eagle Hospitality Group’s branded websites may contain or reference trademarks, patents, copyrighted materials, trade secrets, technologies, products, processes or other intellectual property or proprietary rights of Great Eagle Hospitality Group and/or other parties. No licence to or right in any such trademarks, patents, copyrighted materials, trade secrets, technologies, products, processes and other intellectual property or proprietary rights of Great Eagle Hospitality Group and/or other parties is granted to or conferred upon you.   
+Great Eagle Hospitality Group’s branded websites may contain or reference trademarks, patents, copyrighted materials, trade secrets, technologies, products, processes or other intellectual property or proprietary rights of Great Eagle Hospitality Group and/or other parties. No licence to or right in any such trademarks, patents, copyrighted materials, trade secrets, technologies, products, processes and other intellectual property or proprietary rights of Great Eagle Hospitality Group and/or other parties is granted to or conferred upon you .   
 
 
 **Applicable Law and Jurisdiction**
@@ -127,6 +127,6 @@ Great Eagle Hospitality Group’s branded websites may contain or reference trad
 
 **Amends or Updates to the Privacy Statement:**
 
-Global Eagle Hospitality Group reserves full rights to amend or update this Privacy Statement unilaterally from time to time as it sees fit or necessary to meet any change in any of the relevant laws or the regulatory environment, or business needs, or to satisfy the needs of our guests, properties, strategic marketing partners, and service providers or to meet any other purposes. Updated versions will be posted to our web site and date stamped so that you are always aware of when the Privacy Statement was last updated. The whole contents of this Privacy Statement will then be construed accordingly in conjunction with such amended or updated versions. 
+Great Eagle Hospitality Group reserves full rights to amend or update this Privacy Statement unilaterally from time to time as it sees fit or necessary to meet any change in any of the relevant laws or the regulatory environment, or business needs, or to satisfy the needs of our guests, properties, strategic marketing partners, and service providers or to meet any other purposes. Updated versions will be posted to our web site and date stamped so that you are always aware of when the Privacy Statement was last updated. The whole contents of this Privacy Statement will then be construed accordingly in conjunction with such amended or updated versions. 
 
 |  
