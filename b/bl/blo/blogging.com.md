@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogging.com privacy policy that was archived on 2007-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070408114815id_/http%3A//www.blogging.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogging.com privacy policy that was archived on 2007-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070717001228id_/http%3A//www.blogging.com/about/privacy.html) for the most accurate reproduction.*
 
 # Blogging.com
 
