@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the offerx.co.uk privacy policy that was archived on 2007-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070527074858id_/http%3A//www.offerx.co.uk/Documents/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offerx.co.uk privacy policy that was archived on 2007-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070716164124id_/http%3A//www.offerx.co.uk/Documents/Privacy.aspx) for the most accurate reproduction.*
 
 # The Best Free Quizzes, Play a Quiz and Win Free Prizes
 
-**Last updated: March 2007**  
+**Last updated: June 2007**  
  **Introduction**
 
   
@@ -123,6 +123,15 @@ This email has been sent to the following email address: < _your email address_ 
 
   To find out more about us and our privacy policy: http://www.offerx.co.uk/Privacy.aspx
 
+  
+ **Web Beacons**
+
+Offerx Web pages, emails and newsletters may contain electronic images known as Web beacons - sometimes called single-pixel gifs - that allow us to count users who have visited those pages and to determine whether messages have been opened and acted upon.
+
+Offerx may also employ Web beacons from third parties in order to help us compile aggregated statistics and determine the effectiveness of our promotional campaigns. We prohibit Web beacons on our sites from being used by third parties to collect or access your personal information.
+
+Finally, we may work with other companies that advertise on the Offerx website to place Web beacons on their sites in order to allow us to determine the effectiveness promotional campaigns.
+
 Offerx will occasionally update this Privacy Statement. When we do, we will also revise the "last updated" date at the top and bottom of the Privacy Statement. Offerx will obtain your opt-in consent for any updates to this Privacy Statement that materially expand the sharing or use of your personal information in ways not disclosed in this Privacy Statement at the time of collection.
 
 If you have questions regarding this Privacy Statement, please contact Offerx by following this link:
@@ -140,4 +149,4 @@ or by post:
 
 If you have any questions regarding the privacy policy of Offerx Ltd or require any further information please use the [Contact Us page](http://www.offerx.co.uk/Documents/ContactUs.aspx).
 
-Last updated: March 2007
+Last updated: June 2007
